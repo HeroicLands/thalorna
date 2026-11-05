@@ -5,7 +5,7 @@ name:
   given: Thornak
   clan: Mahnlin
   en: [The Boar-Totem Warrior]
-  varo: [bludtusk barsk, thornak yra mahnlin]
+  varo: [bludtusk barsk, thornak ira mahnlin]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]
@@ -432,7 +432,7 @@ Thornak is a hulking figure, standing at 6'6" and weighing around 270 pounds, wi
 
 ## Background
 
-**Bludtusk Barsk** is his [[lore-varokhiclt|Varokhi]] byname: "bloody tusk of the Boar." The boar is Eichengrund’s _wesk_, the village’s shared totem; _blud_ means blood, _tusk_ a tusk and _barsk_ a boar. His clan is the [Mahnlin]{.name data-type="affiliation/lineage"}, "Younger Kinsmen", and his village is Eichengrund: in full he is Thornak yra Mahnlin wur Eichengrund, and at home Thornak yra Mahnlin. Beyond the village most people know him by the byname alone.
+**Bludtusk Barsk** is his [[lore-varokhiclt|Varokhi]] byname: "bloody tusk of the Boar." The boar is Eichengrund’s _wesk_, the village’s shared totem; _blud_ means blood, _tusk_ a tusk and _barsk_ a boar. His clan is the [Mahnlin]{.name data-type="affiliation/lineage"}, "Younger Kinsmen", and his village is Eichengrund: in full he is Thornak ira Mahnlin wur Eichengrund, and at home Thornak ira Mahnlin. Beyond the village most people know him by the byname alone.
 
 ### Early Life
 

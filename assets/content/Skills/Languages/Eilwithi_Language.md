@@ -174,7 +174,7 @@ data:
       field: Feelings and affections
       gloss: wrath; intense anger
       concept: wrath
-    - {form: envy, class: n, field: Feelings and affections, gloss: envy, concept: envy}
+    - {form: envi, class: n, field: Feelings and affections, gloss: envy, concept: envy}
     - {form: hope, class: n, field: Feelings and affections, gloss: hope, concept: hope}
     - form: kovetousness
       class: n
@@ -229,7 +229,7 @@ data:
     - {form: kourage, class: n, field: Feelings and affections, gloss: courage, concept: courage}
     - {form: anger, class: n, field: Feelings and affections, gloss: anger, concept: anger}
     - {form: hatred, class: n, field: Feelings and affections, gloss: hatred, concept: hatred}
-    - form: jealousy
+    - form: jealousi
       class: n
       field: Feelings and affections
       gloss: jealousy
@@ -249,7 +249,7 @@ data:
       field: Feelings and affections
       gloss: regret for something done or left undone
       concept: regret
-    - form: humility
+    - form: humiliti
       class: n
       field: Feelings and affections
       gloss: humility
@@ -269,7 +269,7 @@ data:
       field: Feelings and affections
       gloss: compassion
       concept: compassion
-    - {form: pity, class: n, field: Feelings and affections, gloss: pity, concept: pity}
+    - {form: piti, class: n, field: Feelings and affections, gloss: pity, concept: pity}
     - form: sharing anotheres joy or grief
       class: n
       field: Feelings and affections
@@ -307,7 +307,7 @@ data:
       field: Feelings and affections
       gloss: curiosity; wanting to learn or discover
       concept: curiosity
-    - form: perpleksity
+    - form: perpleksiti
       class: n
       field: Feelings and affections
       gloss: confusion; inability to make sense of something
@@ -355,7 +355,7 @@ data:
       field: Feelings and affections
       gloss: the love of family members for one another
       concept: love-storge
-    - form: charity toward all
+    - form: chariti toward all
       class: n
       field: Feelings and affections
       gloss: selfless love extended to everyone, without requiring kinship or a return
@@ -370,7 +370,7 @@ data:
       field: Feelings and affections
       gloss: attraction; feeling drawn to another person
       concept: attraction
-    - form: klose familiarity
+    - form: klose familiariti
       class: n
       field: Feelings and affections
       gloss: intimacy; a close personal relationship with shared private knowledge
@@ -390,7 +390,7 @@ data:
       field: Feelings and affections
       gloss: companionship; sharing company with a companion
       concept: companionship
-    - {form: enmity, class: n, field: Feelings and affections, gloss: enmity, concept: enmity}
+    - {form: enmiti, class: n, field: Feelings and affections, gloss: enmity, concept: enmity}
     - {form: head, class: n, field: Senses and the body, gloss: the head, concept: head}
     - {form: hair, class: n, field: Senses and the body, gloss: the hair, concept: hair}
     - {form: fase, class: n, field: Senses and the body, gloss: the face, concept: face}
@@ -439,7 +439,7 @@ data:
     - {form: chest, class: n, field: Senses and the body, gloss: the chest, concept: chest}
     - {form: breast, class: n, field: Senses and the body, gloss: the breast, concept: breast}
     - {form: heart, class: n, field: Senses and the body, gloss: the heart, concept: heart}
-    - {form: belly, class: n, field: Senses and the body, gloss: the belly, concept: belly}
+    - {form: belli, class: n, field: Senses and the body, gloss: the belly, concept: belly}
     - {form: bak, class: n, field: Senses and the body, gloss: the back, concept: back}
     - {form: hip, class: n, field: Senses and the body, gloss: the hip, concept: hip}
     - {form: leg, class: n, field: Senses and the body, gloss: the leg, concept: leg}
@@ -495,7 +495,7 @@ data:
     - {form: liver, class: n, field: Senses and the body, gloss: liver, concept: liver}
     - {form: kidney, class: n, field: Senses and the body, gloss: kidney, concept: kidney}
     - {form: gut, class: n, field: Senses and the body, gloss: an intestine, concept: intestine}
-    - form: privy parts
+    - form: privi parts
       class: n
       field: Senses and the body
       gloss: the genitals; sexual organs
@@ -573,9 +573,9 @@ data:
     - {form: warmth, class: n, field: Needs and the household, gloss: warmth, concept: warmth}
     - {form: shelter, class: n, field: Needs and the household, gloss: shelter, concept: shelter}
     - {form: hunger, class: n, field: Needs and the household, gloss: hunger, concept: hunger}
-    - {form: hungry, class: adj, field: Needs and the household, gloss: hungry, concept: hungry}
+    - {form: hungri, class: adj, field: Needs and the household, gloss: hungry, concept: hungry}
     - {form: thirst, class: n, field: Needs and the household, gloss: thirst, concept: thirst}
-    - {form: thirsty, class: adj, field: Needs and the household, gloss: thirsty, concept: thirsty}
+    - {form: thirsti, class: adj, field: Needs and the household, gloss: thirsty, concept: thirsty}
     - form: draw breath
       class: v
       field: Needs and the household
@@ -600,7 +600,7 @@ data:
     - {form: awake, class: adj, field: Needs and the household, gloss: awake, concept: awake}
     - {form: dream, class: n, field: Needs and the household, gloss: a dream, concept: dream}
     - {form: rest, class: n, field: Needs and the household, gloss: rest (noun), concept: rest}
-    - form: weary
+    - form: weari
       class: adj
       field: Needs and the household
       gloss: tired; needing rest
@@ -626,7 +626,7 @@ data:
       gloss: burn
       concept: burn
       variants: [burned, burnen, burneth]
-    - {form: safety, class: n, field: Needs and the household, gloss: safety, concept: safety}
+    - {form: safeti, class: n, field: Needs and the household, gloss: safety, concept: safety}
     - {form: danger, class: n, field: Needs and the household, gloss: danger, concept: danger}
     - form: protektion
       class: n
@@ -845,8 +845,8 @@ data:
       gloss: a spouse; a husband or wife
       concept: spouse
     - {form: marriage, class: n, field: Kindred and society, gloss: marriage, concept: marriage}
-    - {form: marry, class: v, field: Kindred and society, gloss: marry, concept: marry}
-    - form: family
+    - {form: marri, class: v, field: Kindred and society, gloss: marry, concept: marry}
+    - form: famili
       class: n
       field: Kindred and society
       gloss: family
@@ -856,7 +856,7 @@ data:
     - {form: lineage, class: n, field: Kindred and society, gloss: lineage, concept: lineage}
     - {form: widower, class: n, field: Kindred and society, gloss: widower, concept: widower}
     - {form: friend, class: n, field: Kindred and society, gloss: friend, concept: friend}
-    - {form: enemy, class: n, field: Kindred and society, gloss: enemy, concept: enemy}
+    - {form: enemi, class: n, field: Kindred and society, gloss: enemy, concept: enemy}
     - {form: stranger, class: n, field: Kindred and society, gloss: stranger, concept: stranger}
     - form: neighbour
       class: n
@@ -1091,7 +1091,7 @@ data:
       concept: insect
     - {form: worm, class: n, field: Land and living things, gloss: worm, concept: worm}
     - {form: wet, class: adj, field: Land and living things, gloss: wet, concept: wet}
-    - {form: dry, class: adj, field: Land and living things, gloss: dry, concept: dry}
+    - {form: dri, class: adj, field: Land and living things, gloss: dry, concept: dry}
     - {form: bright, class: adj, field: Land and living things, gloss: bright, concept: bright}
     - {form: dark, class: adj, field: Land and living things, gloss: dark, concept: dark}
     - form: klear
@@ -1099,7 +1099,7 @@ data:
       field: Land and living things
       gloss: ["without clouds, of the weather", clear in appearance; unclouded]
       concept: [clear-weather, clear-appearance]
-    - {form: kloudy, class: adj, field: Land and living things, gloss: cloudy, concept: cloudy}
+    - {form: kloudi, class: adj, field: Land and living things, gloss: cloudy, concept: cloudy}
     - {form: north, class: n, field: Land and living things, gloss: north, concept: north}
     - {form: south, class: n, field: Land and living things, gloss: south, concept: south}
     - {form: east, class: n, field: Land and living things, gloss: east, concept: east}
@@ -1114,7 +1114,7 @@ data:
     - {form: eight, class: num, field: Number and appearance, gloss: eight, concept: eight}
     - {form: nine, class: num, field: Number and appearance, gloss: nine, concept: nine}
     - {form: ten, class: num, field: Number and appearance, gloss: ten, concept: ten}
-    - {form: twenty, class: num, field: Number and appearance, gloss: twenty, concept: twenty}
+    - {form: twenti, class: num, field: Number and appearance, gloss: twenty, concept: twenty}
     - {form: hundred, class: num, field: Number and appearance, gloss: a hundred, concept: hundred}
     - form: thousand
       class: num
@@ -1168,7 +1168,7 @@ data:
     - {form: least, class: num, field: Number and appearance, gloss: least, concept: least}
     - {form: equal, class: adj, field: Number and appearance, gloss: equal, concept: equal}
     - {form: each, class: pron, field: Number and appearance, gloss: each, concept: each}
-    - {form: every, class: adj, field: Number and appearance, gloss: every, concept: every}
+    - {form: everi, class: adj, field: Number and appearance, gloss: every, concept: every}
     - {form: both, class: pron, field: Number and appearance, gloss: both, concept: both}
     - {form: either, class: pron, field: Number and appearance, gloss: either, concept: either}
     - {form: neither, class: pron, field: Number and appearance, gloss: neither, concept: neither}
@@ -1178,13 +1178,13 @@ data:
       gloss: approximately; near a stated number or amount
       concept: about
     - {form: almost, class: adv, field: Number and appearance, gloss: almost, concept: almost}
-    - form: presisely
+    - form: presiseli
       class: adv
       field: Number and appearance
       gloss: exactly; with no difference from the stated measure or manner
       concept: exactly
     - {form: number, class: n, field: Number and appearance, gloss: number, concept: number}
-    - form: quantity
+    - form: quantiti
       class: n
       field: Number and appearance
       gloss: an amount; how much there is
@@ -1438,7 +1438,7 @@ data:
       concept: follow
       variants: [following]
     - {form: lead, class: v, field: Doing and being, gloss: to lead, concept: lead}
-    - form: karry
+    - form: karri
       class: v
       field: Doing and being
       gloss: to carry
@@ -1506,7 +1506,7 @@ data:
       gloss: to call
       concept: call
       variants: [kalled, kalleth]
-    - form: kry aloud
+    - form: kri aloud
       class: v
       field: Doing and being
       gloss: to shout
@@ -1619,7 +1619,7 @@ data:
       gloss: to stop; to come to an end or stop doing something
       concept: stop
     - {form: kontinue, class: v, field: Doing and being, gloss: to continue, concept: continue}
-    - form: tarry
+    - form: tarri
       class: v
       field: Doing and being
       gloss: to wait; to remain for a time
@@ -1643,7 +1643,7 @@ data:
     - {form: there, class: adv, field: Place and time, gloss: there, concept: there}
     - {form: somewhere, class: adv, field: Place and time, gloss: somewhere, concept: somewhere}
     - {form: nowhere, class: adv, field: Place and time, gloss: nowhere, concept: nowhere}
-    - {form: everywhere, class: adv, field: Place and time, gloss: everywhere, concept: everywhere}
+    - {form: everiwhere, class: adv, field: Place and time, gloss: everywhere, concept: everywhere}
     - {form: near, class: adv, field: Place and time, gloss: near, concept: near}
     - {form: far, class: adv, field: Place and time, gloss: far, concept: far}
     - {form: beside, class: part, field: Place and time, gloss: beside, concept: beside}
@@ -1804,7 +1804,7 @@ data:
       field: Place and time
       gloss: repeatedly; many times
       concept: repeatedly
-    - {form: already, class: adv, field: Place and time, gloss: already, concept: already}
+    - {form: alreadi, class: adv, field: Place and time, gloss: already, concept: already}
     - {form: still, class: adv, field: Place and time, gloss: still, concept: still}
     - form: yet
       class: adv
@@ -1817,7 +1817,7 @@ data:
       field: Place and time
       gloss: later; at a subsequent time
       concept: later
-    - {form: early, class: adv, field: Place and time, gloss: early, concept: early}
+    - {form: earli, class: adv, field: Place and time, gloss: early, concept: early}
     - {form: late, class: adv, field: Place and time, gloss: late, concept: late}
     - form: first of all
       class: adv
@@ -1850,7 +1850,7 @@ data:
       gloss: the speaker as subject; me as object
       concept: i
       variants: [me]
-    - form: my
+    - form: mi
       class: pron
       field: Reference and questions
       gloss: possession by the speaker; mine when standing alone
@@ -1868,7 +1868,7 @@ data:
       gloss: plural addressees as subject; you as object
       concept: you-reference
       variants: [you]
-    - form: thy
+    - form: thi
       class: pron
       field: Reference and questions
       gloss: possession by one addressee; thine when standing alone or optionally before a vowel sound
@@ -1915,7 +1915,7 @@ data:
     - {form: that, class: dem, field: Reference and questions, gloss: that, concept: that}
     - {form: these, class: dem, field: Reference and questions, gloss: these, concept: these}
     - {form: those, class: dem, field: Reference and questions, gloss: those, concept: those}
-    - form: somebody
+    - form: somebodi
       class: pron
       field: Reference and questions
       gloss: someone; an unspecified person
@@ -1925,7 +1925,7 @@ data:
       field: Reference and questions
       gloss: anyone; any person, with man used generically rather than restricted to male people
       concept: anyone
-    - form: every one
+    - form: everi one
       class: pron
       field: Reference and questions
       gloss: everyone; all the people in question
@@ -1955,7 +1955,7 @@ data:
       field: Reference and questions
       gloss: reflexive reference; use myself, thyself, himself, herself, itself, ourselves, yourselves or themselves to match the person
       concept: self
-      variants: [myself, thyself, himself, herself, itself, ourselves, yourselves, themselves]
+      variants: [miself, thiself, himself, herself, itself, ourselves, yourselves, themselves]
     - {form: other, class: adj, field: Reference and questions, gloss: other, concept: other}
     - form: another
       class: pron
@@ -2076,13 +2076,13 @@ data:
       field: Truth and reasoning
       gloss: an intentionally deceptive statement
       concept: lie-noun
-    - form: truly
+    - form: truli
       class: adv
       field: Truth and reasoning
       gloss: really; sincerely; asserting sincerity or reality
       concept: sincerity
     - {form: indeed, class: adv, field: Truth and reasoning, gloss: indeed, concept: indeed}
-    - form: assuredly
+    - form: assuredli
       class: adv
       field: Truth and reasoning
       gloss: certainly; expressing confidence that something is so
@@ -2097,7 +2097,7 @@ data:
       field: Truth and reasoning
       gloss: probably; as is likely
       concept: probably
-    - form: not likely
+    - form: not likeli
       class: adj
       field: Truth and reasoning
       gloss: unlikely; not probable
@@ -2230,21 +2230,21 @@ data:
       field: Truth and reasoning
       gloss: that is; introducing a restatement or explanation
       concept: that-is
-    - {form: namely, class: adv, field: Truth and reasoning, gloss: namely, concept: namely}
+    - {form: nameli, class: adv, field: Truth and reasoning, gloss: namely, concept: namely}
     - form: for eksample
       class: part
       field: Truth and reasoning
       gloss: for example
       concept: for-example
     - {form: ekssept, class: part, field: Truth and reasoning, gloss: except, concept: except}
-    - {form: only, class: adv, field: Truth and reasoning, gloss: only, concept: only}
+    - {form: onli, class: adv, field: Truth and reasoning, gloss: only, concept: only}
     - form: even
       class: adv
       field: Truth and reasoning
       gloss: even; emphasizing something surprising, as in even the king
       concept: even
     - {form: also, class: adv, field: Truth and reasoning, gloss: also, concept: also}
-    - form: espesially
+    - form: espesialli
       class: adv
       field: Truth and reasoning
       gloss: especially
@@ -2255,7 +2255,7 @@ data:
       gloss: big; large in size
       concept: big
     - {form: small, class: adj, field: Number and appearance, gloss: small, concept: small}
-    - form: very little
+    - form: veri little
       class: adj
       field: Number and appearance
       gloss: tiny; very small in size
@@ -2266,7 +2266,7 @@ data:
     - {form: tall, class: adj, field: Number and appearance, gloss: tall, concept: tall}
     - {form: wide, class: adj, field: Number and appearance, gloss: wide, concept: wide}
     - {form: narrow, class: adj, field: Number and appearance, gloss: narrow, concept: narrow}
-    - {form: heavy, class: adj, field: Number and appearance, gloss: heavy, concept: heavy}
+    - {form: heavi, class: adj, field: Number and appearance, gloss: heavy, concept: heavy}
     - form: light
       class: adj
       field: Number and appearance
@@ -2284,7 +2284,7 @@ data:
       gloss: slow
       concept: slow
       variants: [slower]
-    - {form: easy, class: adj, field: Number and appearance, gloss: easy, concept: easy}
+    - {form: easi, class: adj, field: Number and appearance, gloss: easy, concept: easy}
     - form: diffikult
       class: adj
       field: Number and appearance
@@ -2306,7 +2306,7 @@ data:
       field: Number and appearance
       gloss: trivial; having little significance
       concept: trivial
-    - form: nesessary
+    - form: nesessari
       class: adj
       field: Number and appearance
       gloss: necessary
@@ -2344,8 +2344,8 @@ data:
       field: Number and appearance
       gloss: dishonest
       concept: dishonest
-    - {form: very, class: adv, field: Number and appearance, gloss: very, concept: very}
-    - form: eksseedingly
+    - {form: veri, class: adv, field: Number and appearance, gloss: very, concept: very}
+    - form: eksseedingli
       class: adv
       field: Number and appearance
       gloss: extremely; to a very great degree
@@ -2380,7 +2380,7 @@ data:
       field: Number and appearance
       gloss: similar; resembling something else
       concept: similar
-    - form: kontrary
+    - form: kontrari
       class: adj
       field: Number and appearance
       gloss: opposite; opposed in position, direction or quality
@@ -2460,7 +2460,7 @@ data:
       field: Ability and conversation
       gloss: required
       concept: required
-    - form: at thy choise
+    - form: at thi choise
       class: adj
       field: Ability and conversation
       gloss: optional; left to your choice
@@ -2506,7 +2506,7 @@ data:
       field: Ability and conversation
       gloss: intended
       concept: intended
-    - form: by chanse
+    - form: bi chanse
       class: adv
       field: Ability and conversation
       gloss: accidental; happening without intention
@@ -2541,12 +2541,12 @@ data:
       field: Ability and conversation
       gloss: you're welcome; a courteous response to thanks
       concept: expression-youre-welcome
-    - form: By thy leave
+    - form: Bi thi leave
       class: call
       field: Ability and conversation
       gloss: excuse me; asking one person for permission to pass or interrupt
       concept: expression-excuse-me
-    - form: I am sorry
+    - form: I am sorri
       class: call
       field: Ability and conversation
       gloss: sorry; expressing regret or sympathy
@@ -2556,7 +2556,7 @@ data:
       field: Ability and conversation
       gloss: forgive me; a request for forgiveness
       concept: expression-forgive-me
-    - form: "Why yea"
+    - form: "Whi yea"
       class: call
       field: Ability and conversation
       gloss: of course; emphatic or reassuring agreement
@@ -2571,7 +2571,7 @@ data:
       field: Ability and conversation
       gloss: look; a call to direct the eyes or attention
       concept: expression-look
-    - form: Tarry
+    - form: Tarri
       class: call
       field: Ability and conversation
       gloss: wait; a request to pause or remain
@@ -2723,12 +2723,12 @@ data:
     - {form: injustise, class: n, field: Kindred and society, gloss: injustice, concept: injustice}
     - {form: pease, class: n, field: Kindred and society, gloss: peace, concept: peace}
     - {form: war, class: n, field: Kindred and society, gloss: war, concept: war, variants: [wars]}
-    - form: liberty
+    - form: liberti
       class: n
       field: Kindred and society
       gloss: freedom; the state of being free
       concept: freedom
-    - {form: kaptivity, class: n, field: Kindred and society, gloss: captivity, concept: captivity}
+    - {form: kaptiviti, class: n, field: Kindred and society, gloss: captivity, concept: captivity}
     - {form: gift, class: n, field: Kindred and society, gloss: gift, concept: gift}
     - form: ekschange
       class: n
@@ -2737,7 +2737,7 @@ data:
       concept: exchange-noun
     - {form: debt, class: n, field: Kindred and society, gloss: debt, concept: debt}
     - {form: wealth, class: n, field: Kindred and society, gloss: wealth, concept: wealth}
-    - {form: poverty, class: n, field: Kindred and society, gloss: poverty, concept: poverty}
+    - {form: poverti, class: n, field: Kindred and society, gloss: poverty, concept: poverty}
     - form: that which is onees own
       class: n
       field: Kindred and society
@@ -2896,7 +2896,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a proud claim about one's deeds or qualities
-    - {form: body, class: n, field: Ordinary speech, gloss: a person's physical form; a corpse}
+    - {form: bodi, class: n, field: Ordinary speech, gloss: a person's physical form; a corpse}
     - {form: bog, class: n, field: Ordinary speech, gloss: wet and marshy ground}
     - {form: bold, class: adj, field: Ordinary speech, gloss: brave or daring, variants: [bolder]}
     - form: book
@@ -2922,7 +2922,7 @@ data:
       gloss: a structure carrying a crossing over water or a gap
       variants: [bridgees]
     - {form: bundle, class: n, field: Ordinary speech, gloss: things bound or gathered together}
-    - form: bury
+    - form: buri
       class: v
       field: Ordinary speech
       gloss: put beneath the earth; inter a dead person
@@ -2975,7 +2975,7 @@ data:
     - {form: kon, class: v, field: Ordinary speech, gloss: learn or understand by studying}
     - {form: korse, class: n, field: Ordinary speech, gloss: a corpse}
     - {form: kost, class: v, field: Ordinary speech, gloss: require a price or sacrifice}
-    - form: kountry
+    - form: kountri
       class: n
       field: Ordinary speech
       gloss: a region or land; the rural land outside towns
@@ -3063,7 +3063,7 @@ data:
       class: adv
       field: Ordinary speech
       gloss: in addition; other than what is named
-    - {form: empty, class: adj, field: Ordinary speech, gloss: containing nothing}
+    - {form: empti, class: adj, field: Ordinary speech, gloss: containing nothing}
     - {form: ere, class: conj, field: Ordinary speech, gloss: before a time or event}
     - {form: ever, class: adv, field: Ordinary speech, gloss: at any time; continually}
     - {form: ewe, class: n, field: Ordinary speech, gloss: an adult female sheep}
@@ -3104,7 +3104,7 @@ data:
       field: Ordinary speech
       gloss: a branching point; a pronged tool
       variants: [forks]
-    - {form: forty, class: num, field: Ordinary speech, gloss: the number 40}
+    - {form: forti, class: num, field: Ordinary speech, gloss: the number 40}
     - {form: fourteen, class: num, field: Ordinary speech, gloss: the number 14}
     - form: frost
       class: n
@@ -3118,11 +3118,11 @@ data:
       field: Ordinary speech
       gloss: people addressed courteously as a company
     - {form: glad, class: adj, field: Ordinary speech, gloss: pleased or happy}
-    - {form: gladly, class: adv, field: Ordinary speech, gloss: willingly or with pleasure}
+    - {form: gladli, class: adv, field: Ordinary speech, gloss: willingly or with pleasure}
     - {form: gold, class: n, field: Ordinary speech, gloss: a precious yellow metal}
     - {form: gout, class: n, field: Ordinary speech, gloss: a painful disease of swollen joints}
     - {form: gown, class: n, field: Ordinary speech, gloss: a long loose garment}
-    - {form: granary, class: n, field: Ordinary speech, gloss: a building for storing grain}
+    - {form: granari, class: n, field: Ordinary speech, gloss: a building for storing grain}
     - {form: grand, class: adj, field: Ordinary speech, gloss: imposing or splendid}
     - form: grandsire
       class: n
@@ -3276,7 +3276,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: the middle of winter and its feast
-    - {form: mighty, class: adj, field: Ordinary speech, gloss: very powerful}
+    - {form: mighti, class: adj, field: Ordinary speech, gloss: very powerful}
     - form: milk
       class: v
       field: Ordinary speech
@@ -3323,7 +3323,7 @@ data:
       gloss: be required to pay or return something
       variants: [owed]
     - {form: oks, class: n, field: Ordinary speech, gloss: a bovine animal kept for work or meat}
-    - form: palsy
+    - form: palsi
       class: n
       field: Ordinary speech
       gloss: a disorder causing shaking or loss of movement
@@ -3346,7 +3346,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: money or goods given to discharge a debt
-    - {form: physik, class: n, field: Ordinary speech, gloss: medicine or a remedy}
+    - {form: phisik, class: n, field: Ordinary speech, gloss: medicine or a remedy}
     - {form: piese, class: n, field: Ordinary speech, gloss: a part separated from a whole}
     - form: pip
       class: n
@@ -3451,7 +3451,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a visible mark or gesture conveying meaning
-    - form: signify
+    - form: signifi
       class: v
       field: Ordinary speech
       gloss: mean or stand for
@@ -3470,7 +3470,7 @@ data:
     - {form: sir, class: n, field: Ordinary speech, gloss: a courteous title for one man}
     - {form: slay, class: v, field: Ordinary speech, gloss: kill, variants: [slain, slew]}
     - {form: sleet, class: n, field: Ordinary speech, gloss: rain mixed with ice or snow}
-    - {form: softly, class: adv, field: Ordinary speech, gloss: quietly or gently}
+    - {form: softli, class: adv, field: Ordinary speech, gloss: quietly or gently}
     - form: Solden
       class: n
       field: Ordinary speech
@@ -3539,7 +3539,7 @@ data:
       variants: [swells]
     - {form: sword, class: n, field: Ordinary speech, gloss: a weapon with a long cutting blade}
     - {form: tale, class: n, field: Ordinary speech, gloss: a story}
-    - {form: tally, class: n, field: Ordinary speech, gloss: a count or its record}
+    - {form: talli, class: n, field: Ordinary speech, gloss: a count or its record}
     - {form: temple, class: n, field: Ordinary speech, gloss: a building devoted to worship}
     - form: their
       class: pron
@@ -3575,7 +3575,7 @@ data:
       gloss: a mark left by passage; a trail
       variants: [traks]
     - {form: trim, class: adj, field: Ordinary speech, gloss: neat and well arranged}
-    - {form: try, class: v, field: Ordinary speech, gloss: attempt; test}
+    - {form: tri, class: v, field: Ordinary speech, gloss: attempt; test}
     - form: turn
       class: v
       field: Ordinary speech
@@ -3807,7 +3807,7 @@ data:
     - {form: suk, class: v, field: Ordinary speech, gloss: draw liquid into the mouth}
     - {form: kreature, class: n, field: Ordinary speech, gloss: a living being}
     - {form: kolour, class: n, field: Ordinary speech, gloss: the hue or appearance of something}
-    - {form: kry, class: v, field: Ordinary speech, gloss: call aloud}
+    - {form: kri, class: v, field: Ordinary speech, gloss: call aloud}
     - {form: whense, class: adv, field: Ordinary speech, gloss: from where}
     - form: eksample
       class: n
@@ -3849,7 +3849,7 @@ data:
         - "Kenrith"
         - "Ethelinda"
         - "Osrun"
-        - "Hildwyn"
+        - "Hildwin"
         - "Leofith"
         - "Mildrun"
         - "Winrith"
@@ -3913,7 +3913,7 @@ data:
     byname:
       - "Adwell"
       - "Alverton"
-      - "Ashby"
+      - "Ashbi"
       - "Barnwell"
       - "Brandon"
       - "Browning"
@@ -3938,7 +3938,7 @@ data:
       - "Ravenwell"
       - "Stormwell"
       - "Hushwell"
-      - "Brynley"
+      - "Brinley"
       - "Thornley"
       - "Greymore"
       - "Highmore"
@@ -4055,7 +4055,7 @@ data:
       kind: place
       sense: a grassy valley floor
       examples: [Sunnerslade]
-    - {form: bury, position: closing, kind: place, sense: a fortified town, examples: [Thornbury]}
+    - {form: buri, position: closing, kind: place, sense: a fortified town, examples: [Thornbury]}
     - {form: moor, position: closing, kind: place, sense: open wet upland, examples: [Ravenmoor]}
     - form: mouth
       position: closing
@@ -4118,11 +4118,11 @@ data:
     - {form: har, position: opening, kind: given, sense: "a host, an army", examples: [Harwald]}
     - {form: mild, position: opening, kind: given, sense: gentle, examples: [Mildrun]}
     - {form: ethel, position: opening, kind: given, sense: noble, examples: [Ethelinda]}
-    - {form: hild, position: opening, kind: given, sense: battle, examples: [Hildwyn]}
+    - {form: hild, position: opening, kind: given, sense: battle, examples: [Hildwin]}
     - {form: mund, position: closing, kind: given, sense: a protector, examples: [Hildmund]}
     - {form: rik, position: closing, kind: given, sense: a ruler, examples: [Harrik]}
     - {form: win, position: either, kind: given, sense: a friend, examples: [Wilwin]}
-    - {form: wyn, position: closing, kind: given, sense: joy, examples: [Hildwyn]}
+    - {form: wyn, position: closing, kind: given, sense: joy, examples: [Hildwin]}
     - {form: stan, position: closing, kind: given, sense: stone, examples: [Harstan]}
     - {form: wald, position: closing, kind: given, sense: rule, examples: [Wilwald]}
     - {form: ith, position: closing, kind: given, sense: strife, examples: [Dunith]}
@@ -4168,7 +4168,7 @@ data:
       sense: "a dwelling, a dairy farm"
       examples: [Winwik]
     - {form: ley, position: closing, kind: byname, sense: a clearing, examples: [Helmsley]}
-    - {form: by, position: closing, kind: byname, sense: a homestead, examples: [Ashby]}
+    - {form: bi, position: closing, kind: byname, sense: a homestead, examples: [Ashbi]}
     - {form: more, position: closing, kind: byname, sense: a moor, examples: [Wigmore]}
     - {form: den, position: closing, kind: byname, sense: a wooded valley, examples: [Harden]}
     - {form: don, position: closing, kind: byname, sense: a hill, examples: [Brandon]}
@@ -4194,7 +4194,7 @@ data:
     - {name: Aldwald, kind: given, built: [ald, wald]}
     - {name: Wilred, kind: given, built: [wil, red]}
     - {name: Alverton, kind: byname, built: [alver, ton]}
-    - {name: Ashby, kind: byname, built: [ash, by]}
+    - {name: Ashbi, kind: byname, built: [ash, bi]}
     - {name: Ashford, kind: place, built: [ash, ford]}
     - {name: Ashwold, kind: place, built: [ash, wold]}
     - {name: Barnwell, kind: byname, built: [barn, well]}
@@ -4235,7 +4235,7 @@ data:
     - {name: Harwald, kind: given, built: [har, wald]}
     - {name: Helmsley, kind: byname, built: [helm, s, ley]}
     - {name: Highfold, kind: place, built: [high, fold]}
-    - {name: Hildwyn, kind: given, built: [hild, wyn]}
+    - {name: Hildwin, kind: given, built: [hild, wyn]}
     - {name: Hildrik, kind: given, built: [hild, rik]}
     - {name: Hushwood, kind: place, built: [hush, wood]}
     - {name: Ironfells, kind: place, built: [iron, fells]}
@@ -4259,7 +4259,7 @@ data:
     - {name: Sunderfells, kind: place, built: [sunder, fells]}
     - {name: Sunderwiind, kind: place, built: [sunder, wiind]}
     - {name: Sunnerslade, kind: place, built: [sunner, slade]}
-    - {name: Thornbury, kind: place, built: [thorn, bury]}
+    - {name: Thornbury, kind: place, built: [thorn, buri]}
     - {name: Threndale, kind: place, built: [thren, dale]}
     - {name: Threnhallow, kind: place, built: [thren, hallow]}
     - {name: Vargate, kind: place, built: [var, gate]}
@@ -4424,6 +4424,76 @@ data:
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
     - {name: Wenlorne Stage, kind: place, why: A place name of two words; no element builds it.}
     - {name: Drethar, kind: given, why: An established royal given name retained as a whole.}
+  retired:
+    - {form: already, instead: alreadi, why: y is never a vowel}
+    - {form: ashby, instead: ashbi, why: y is never a vowel}
+    - {form: assuredly, instead: assuredli, why: y is never a vowel}
+    - {form: belly, instead: belli, why: y is never a vowel}
+    - {form: body, instead: bodi, why: y is never a vowel}
+    - {form: brynley, instead: brinley, why: y is never a vowel}
+    - {form: bury, instead: buri, why: y is never a vowel}
+    - {form: by, instead: bi, why: y is never a vowel}
+    - {form: charity, instead: chariti, why: y is never a vowel}
+    - {form: dry, instead: dri, why: y is never a vowel}
+    - {form: early, instead: earli, why: y is never a vowel}
+    - {form: easy, instead: easi, why: y is never a vowel}
+    - {form: eksseedingly, instead: eksseedingli, why: y is never a vowel}
+    - {form: empty, instead: empti, why: y is never a vowel}
+    - {form: enemy, instead: enemi, why: y is never a vowel}
+    - {form: enmity, instead: enmiti, why: y is never a vowel}
+    - {form: envy, instead: envi, why: y is never a vowel}
+    - {form: espesially, instead: espesialli, why: y is never a vowel}
+    - {form: every, instead: everi, why: y is never a vowel}
+    - {form: everywhere, instead: everiwhere, why: y is never a vowel}
+    - {form: familiarity, instead: familiariti, why: y is never a vowel}
+    - {form: family, instead: famili, why: y is never a vowel}
+    - {form: forty, instead: forti, why: y is never a vowel}
+    - {form: gladly, instead: gladli, why: y is never a vowel}
+    - {form: granary, instead: granari, why: y is never a vowel}
+    - {form: heavy, instead: heavi, why: y is never a vowel}
+    - {form: hildwyn, instead: hildwin, why: y is never a vowel}
+    - {form: humility, instead: humiliti, why: y is never a vowel}
+    - {form: hungry, instead: hungri, why: y is never a vowel}
+    - {form: jealousy, instead: jealousi, why: y is never a vowel}
+    - {form: kaptivity, instead: kaptiviti, why: y is never a vowel}
+    - {form: karry, instead: karri, why: y is never a vowel}
+    - {form: kloudy, instead: kloudi, why: y is never a vowel}
+    - {form: kontrary, instead: kontrari, why: y is never a vowel}
+    - {form: kountry, instead: kountri, why: y is never a vowel}
+    - {form: kry, instead: kri, why: y is never a vowel}
+    - {form: liberty, instead: liberti, why: y is never a vowel}
+    - {form: likely, instead: likeli, why: y is never a vowel}
+    - {form: marry, instead: marri, why: y is never a vowel}
+    - {form: mighty, instead: mighti, why: y is never a vowel}
+    - {form: my, instead: mi, why: y is never a vowel}
+    - {form: myself, instead: miself, why: y is never a vowel}
+    - {form: namely, instead: nameli, why: y is never a vowel}
+    - {form: nesessary, instead: nesessari, why: y is never a vowel}
+    - {form: only, instead: onli, why: y is never a vowel}
+    - {form: palsy, instead: palsi, why: y is never a vowel}
+    - {form: perpleksity, instead: perpleksiti, why: y is never a vowel}
+    - {form: physik, instead: phisik, why: y is never a vowel}
+    - {form: pity, instead: piti, why: y is never a vowel}
+    - {form: poverty, instead: poverti, why: y is never a vowel}
+    - {form: presisely, instead: presiseli, why: y is never a vowel}
+    - {form: privy, instead: privi, why: y is never a vowel}
+    - {form: quantity, instead: quantiti, why: y is never a vowel}
+    - {form: safety, instead: safeti, why: y is never a vowel}
+    - {form: signify, instead: signifi, why: y is never a vowel}
+    - {form: softly, instead: softli, why: y is never a vowel}
+    - {form: somebody, instead: somebodi, why: y is never a vowel}
+    - {form: sorry, instead: sorri, why: y is never a vowel}
+    - {form: tally, instead: talli, why: y is never a vowel}
+    - {form: tarry, instead: tarri, why: y is never a vowel}
+    - {form: thirsty, instead: thirsti, why: y is never a vowel}
+    - {form: thy, instead: thi, why: y is never a vowel}
+    - {form: thyself, instead: thiself, why: y is never a vowel}
+    - {form: truly, instead: truli, why: y is never a vowel}
+    - {form: try, instead: tri, why: y is never a vowel}
+    - {form: twenty, instead: twenti, why: y is never a vowel}
+    - {form: very, instead: veri, why: y is never a vowel}
+    - {form: weary, instead: weari, why: y is never a vowel}
+    - {form: why, instead: whi, why: y is never a vowel}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -4568,7 +4638,7 @@ are respelled by the rules above before an Eilwithi word is written:
 | ng                                    | The sound in sing; an n ending in -ing requires an explicit word or passage note |
 | wh                                    | A voiceless w, distinct from ordinary w                                          |
 | r                                     | Sounded after a vowel as well as before one                                      |
-| y                                     | A glide in yes; its vowel readings follow the word and the lexical classes above |
+| y                                     | A glide in yes; never a vowel, so a vowel y is written i                         |
 | gh, initial k, w, final e             | Silent where the word requires it, as in light, know, write and make             |
 | Doubled consonants                    | The word's consonant sound without an obligatory hold                            |
 | Apostrophe                            | Possession or omission, without an obligatory glottal stop                       |
@@ -4644,6 +4714,7 @@ requires an explicit authored exception. A long vowel or joined vowel group coun
 | ng                                    | ng in sing                                                                        |
 | ny before a vowel                     | The consonant sound in canyon                                                     |
 | y before a vowel                      | y in yes                                                                          |
+| y after a vowel                       | Closes a glide, read as the common guide reads ay, ey, iy, oy and uy              |
 
 The letter c occurs only in ch; write k or s for their respective sounds.
 The letter x is not used; write ks or gz. A doubled consonant is held a
@@ -4654,7 +4725,7 @@ plain alternatives for difficult sounds are acceptable pronunciations for play.
 No consonant is silent. In particular, coined word-final mb sounds both m and b.
 There is no soft g, silent gh or alternative sound inferred from an English-looking
 ending. The letter y is always a consonant; write i for the vowel in machine.
-In new coined spellings, y and ny must be followed by a vowel.
+In coined spellings, ny stands before a vowel, and y stands before a vowel or closes a glide after one.
 
 A word boundary keeps consonants out of a group: as ha has separate s and h,
 whereas asha contains sh. A compound written as one word is read as a whole,
@@ -4793,9 +4864,9 @@ thou or thee; several are ye or you. Courtesy does not change number.
 | ---------------------- | ------------------------------------------ | ---------- |
 | Subject                | thou                                       | ye         |
 | Object                 | thee                                       | you        |
-| Possessive determiner  | thy; thine optionally before a vowel sound | your       |
+| Possessive determiner  | thi; thine optionally before a vowel sound | your       |
 | Independent possessive | thine                                      | yours      |
-| Reflexive              | thyself                                    | yourselves |
+| Reflexive              | thiself                                    | yourselves |
 
 An ordinary finite present verb has a bare first singular, -est or -st
 with thou, -eth or -th with he, she or it, and -en with every
@@ -4807,7 +4878,7 @@ applies to we, ye and they, as well as plural nouns.
 | ----- | ----- | -------- | ------------- | -------------- |
 | speak | speak | speakest | speaketh      | speaken        |
 | love  | love  | lovest   | loveth        | loven          |
-| karry | karry | karriest | karrieth      | karryen        |
+| karri | karri | karriest | karrieth      | karryen        |
 | be    | am    | art      | is            | ben            |
 | have  | have  | hast     | hath          | haven          |
 | do    | do    | dost     | doth          | doen           |
@@ -4872,21 +4943,21 @@ older alternative negative particles or contracted negatives.
 #### Word order and familiar vocabulary {#vocabulary-and-meaning}
 
 Subject, verb, object is the default. Front a phrase for emphasis where it
-reads naturally: Such a thing have I never seen; Long haven we awaited thy
-koming; Weary ben we. An adjective may follow its noun in a familiar title
+reads naturally: Such a thing have I never seen; Long haven we awaited thi
+koming; Weari ben we. An adjective may follow its noun in a familiar title
 or emphatic phrase, such as a knight errant or the forest deep. These
 orders are occasional choices. The fixed impersonals are limited to
 Methinks (it seems to me), Meseems (it appears to me), Me likes (it
 pleases me) and Me lists (I desire or am inclined). Keep these forms intact;
 their embedded clauses still agree: Methinks we haven tarried too long.
 
-Prefer plain familiar words. Abide or bide can mean stay, tarry delay or
+Prefer plain familiar words. Abide or bide can mean stay, tarri delay or
 remain, deem judge, ken know, foe enemy, fellow companion, folk
 people, realm kingdom, might strength, strife conflict and toil effort.
 Beseech is an earnest entreaty, doom judgment or fate, troth a pledge of
-faith and wares merchandise. Keep ask, promise, property or another
+faith and wares merchandise. Keep ask, promise, properti or another
 established word when the alternative would change the meaning. Prefer help,
-begin, end, freedom, kingly and holy over less familiar learned
+begin, end, freedom, kingli and holi over less familiar learned
 alternatives where their meanings fit; avoid forced compounds.
 
 Keep time, place and direction distinct. Ere means before in time;
@@ -4896,7 +4967,7 @@ whense from where. Where asks location; wherefore asks why. Anon
 means soon, oft often, betwixt between, straightway immediately,
 erewhile previously, erstwhile formerly and till until. Use yea and
 nay for ordinary answers; yes and no remain available to distinguish
-responses to positive and negative questions. Use sertes, verily and
+responses to positive and negative questions. Use sertes, verili and
 forsooth sparingly.
 
 #### Everyday, formal and ceremonial speech {#register}
@@ -4913,9 +4984,9 @@ Hast thou koin enough.
 Nay but I have wares to sell.
 :::
 
-Formal speech can carry more emphasis: My lord long haven we awaited thy
-kounsel. The folk growen weary and the winter draweth nigh. Ceremonial speech
-can add parallelism and repetition: By the troth of our fathers and the blood
+Formal speech can carry more emphasis: Mi lord long haven we awaited thi
+kounsel. The folk growen weari and the winter draweth nigh. Ceremonial speech
+can add parallelism and repetition: Bi the troth of our fathers and the blood
 of our forebears we binden ourselves unto this oath. Neither sword nor flame
 shall turn us from our purpose. All three keep the same agreement rules.
 Verse keeps its meter and rhyme.
@@ -4946,7 +5017,7 @@ Repetition and balanced clauses can strengthen a prohibition or a contrast:
 ::: {lang=aelw font=serif}
 Thou shalt not enter. Not now nor ever.
 
-I seek not thy gold but thy oath.
+I seek not thi gold but thi oath.
 
 Not for fear do I kneel but for honour.
 :::
@@ -4957,7 +5028,7 @@ Ordinary questions and negatives still prefer inversion and lexical negation,
 with do-support reserved for avoiding ambiguity.
 
 ::: {lang=aelw font=serif}
-I do know thy purpose.
+I do know thi purpose.
 
 I did warn thee.
 :::
@@ -4969,7 +5040,7 @@ meaning while applying the same grammar:
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Where are you going? We have been waiting for you since morning. (One addressee.)  | Whither goest thou. We haven been waiting for thee sinse morn.             |
 | Do not enter the forest after dark. Dangerous things live there.                   | Enter not the forest after nightfall. Perilous things dwellen therein.     |
-| I do not believe what you are saying. You have lied to us before. (One addressee.) | I believe not thy words. Thou hast lied unto us ere now.                   |
+| I do not believe what you are saying. You have lied to us before. (One addressee.) | I believe not thi words. Thou hast lied unto us ere now.                   |
 | You all know what happened. We cannot stay here any longer.                        | Ye knowen what hath befallen. We kannot abide here longer.                 |
 | The king has ruled that nobody may cross the river until the war ends.             | The king hath dekreed that none may kross the river till the war is ended. |
 
@@ -4981,7 +5052,7 @@ We ben merchants of the north and haven kome hither to sell our wares.
 
 The gates standen shut. Ye kannot enter till morn.
 
-Then we will bide here. Yet far haven we journeyed and weary ben we.
+Then we will bide here. Yet far haven we journeyed and weari ben we.
 
 Ye may bide but stir no strife. The kaptain will kome at dawn.
 
@@ -4997,7 +5068,7 @@ prose, as do descriptive notes throughout the setting.
 
 A harbor-gate greeting:
 
-> Whither goest thou stranger and what karriest thou in thy pak. The fog lieth heavy on the water and the gate is shut ere dark. Tarry with us this night and we will ask thee naught more.
+> Whither goest thou stranger and what karriest thou in thi pak. The fog lieth heavi on the water and the gate is shut ere dark. Tarri with us this night and we will ask thee naught more.
 
 A saying of the manors:
 
@@ -5029,9 +5100,9 @@ Will let the courteous pass by.
 :::
 
 ::: {.verse form=charm lang=aelw enc=aelwsemaronenc work=crossroadscharm}
-Go softly thou that walkest late/
+Go softli thou that walkest late/
 And leave thine offering at the gate/
-Who watcheth by the krossing wide/
+Who watcheth bi the krossing wide/
 Will let the kourteous pass beside.
 :::
 
@@ -5070,9 +5141,9 @@ Names on Eilwith use the authoritative spellings given in the register. Their ex
 
 **A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greywater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
 
-**A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwyn_, _Edrun_.
+**A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwin_, _Edrun_.
 
-**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsley_, _Ashby_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grayling_ does.
+**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsley_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grayling_ does.
 
 **Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Eilwith_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Eilwithi form and its origin or reason. An exception to the element pattern does not itself specify an exceptional pronunciation. The fixed sound and stress rules apply unless the register or an authored entry explicitly states another reading; foreign origin alone does not supply one. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Eilwithi spelling.
 
@@ -5100,7 +5171,7 @@ a complete greeting, question, request or response. Numbered senses distinguish
 uses of one expression. _Before_ can refer to space or time, and _then_ can
 name a time or introduce the consequence of a condition.
 
-_Lovers' love_, _love of friends_, _love of kindred_ and _charity toward all_
+_Lovers' love_, _love of friends_, _love of kindred_ and _chariti toward all_
 distinguish romantic, friendly, familial and selfless universal love. _Lust_
 names sexual desire. _Truth_ concerns what is so; _assurance_ concerns how
 certain someone feels. _Hurt_ causes pain or injury; _feel pain_ describes the

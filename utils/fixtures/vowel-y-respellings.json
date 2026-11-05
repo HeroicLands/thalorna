@@ -1,0 +1,1391 @@
+{
+    "respellings": [
+        {
+            "from": "already",
+            "to": "alreadi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "ashby",
+            "to": "ashbi",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "assuredly",
+            "to": "assuredli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "belly",
+            "to": "belli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "body",
+            "to": "bodi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "brynley",
+            "to": "brinley",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "bury",
+            "to": "buri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "by",
+            "to": "bi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "charity",
+            "to": "chariti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "dry",
+            "to": "dri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "early",
+            "to": "earli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "easy",
+            "to": "easi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "eksseedingly",
+            "to": "eksseedingli",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "empty",
+            "to": "empti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "enemy",
+            "to": "enemi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "enmity",
+            "to": "enmiti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "envy",
+            "to": "envi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "espesially",
+            "to": "espesialli",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "every",
+            "to": "everi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "everywhere",
+            "to": "everiwhere",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "familiarity",
+            "to": "familiariti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "family",
+            "to": "famili",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "forty",
+            "to": "forti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "gladly",
+            "to": "gladli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "granary",
+            "to": "granari",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "heavy",
+            "to": "heavi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "hildwyn",
+            "to": "hildwin",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "humility",
+            "to": "humiliti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "hungry",
+            "to": "hungri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "jealousy",
+            "to": "jealousi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "kaptivity",
+            "to": "kaptiviti",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "karry",
+            "to": "karri",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "kloudy",
+            "to": "kloudi",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "kontrary",
+            "to": "kontrari",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "kountry",
+            "to": "kountri",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "kry",
+            "to": "kri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "liberty",
+            "to": "liberti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "likely",
+            "to": "likeli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "marry",
+            "to": "marri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "mighty",
+            "to": "mighti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "my",
+            "to": "mi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "myself",
+            "to": "miself",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "namely",
+            "to": "nameli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "nesessary",
+            "to": "nesessari",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "only",
+            "to": "onli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "palsy",
+            "to": "palsi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "perpleksity",
+            "to": "perpleksiti",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "physik",
+            "to": "phisik",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "pity",
+            "to": "piti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "poverty",
+            "to": "poverti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "presisely",
+            "to": "presiseli",
+            "tongue": "eilwithi"
+        },
+        {
+            "from": "privy",
+            "to": "privi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "quantity",
+            "to": "quantiti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "safety",
+            "to": "safeti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "signify",
+            "to": "signifi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "softly",
+            "to": "softli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "somebody",
+            "to": "somebodi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "sorry",
+            "to": "sorri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "tally",
+            "to": "talli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "tarry",
+            "to": "tarri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "thirsty",
+            "to": "thirsti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "thy",
+            "to": "thi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "thyself",
+            "to": "thiself",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "truly",
+            "to": "truli",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "try",
+            "to": "tri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "twenty",
+            "to": "twenti",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "very",
+            "to": "veri",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "weary",
+            "to": "weari",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "why",
+            "to": "whi",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "drýenalon",
+            "to": "dríenalon",
+            "tongue": "elavendri"
+        },
+        {
+            "from": "rynel",
+            "to": "rinel",
+            "tongue": "elavendri"
+        },
+        {
+            "from": "rýedamon",
+            "to": "ríedamon",
+            "tongue": "elavendri"
+        },
+        {
+            "from": "myrthan",
+            "to": "mirthan",
+            "tongue": "helonic"
+        },
+        {
+            "from": "ythrides",
+            "to": "ithrides",
+            "tongue": "helonic"
+        },
+        {
+            "from": "ythros",
+            "to": "ithros",
+            "tongue": "helonic"
+        },
+        {
+            "from": "bodfyl",
+            "to": "bodfil",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "dyrva",
+            "to": "dirva",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "hravstyrma",
+            "to": "hravstirma",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "myrask",
+            "to": "mirask",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "myrva",
+            "to": "mirva",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "rygva",
+            "to": "rigva",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "skyld",
+            "to": "skild",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "styrma",
+            "to": "stirma",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "thmyl",
+            "to": "thmil",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "thyrsta",
+            "to": "thirsta",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "vigstyrma",
+            "to": "vigstirma",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "-ny",
+            "to": "-nì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "eeviny",
+            "to": "eevinì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ekkyve",
+            "to": "ekkìve",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ekkyverse",
+            "to": "ekkìverse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "elvyri",
+            "to": "elvìri",
+            "tongue": "sinale"
+        },
+        {
+            "from": "elvyrile",
+            "to": "elvìrile",
+            "tongue": "sinale"
+        },
+        {
+            "from": "elvyrinte",
+            "to": "elvìrinte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "elvyritti",
+            "to": "elvìritti",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hekky",
+            "to": "hekkì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hekkyrse",
+            "to": "hekkìrse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hepy",
+            "to": "hepì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hepyhe",
+            "to": "hepìhe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hepylirne",
+            "to": "hepìlirne",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hepymuuvu",
+            "to": "hepìmuuvu",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hepyrse",
+            "to": "hepìrse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hepyrsehe",
+            "to": "hepìrsehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hilsy",
+            "to": "hilsì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hilsyrse",
+            "to": "hilsìrse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hilsyrsehe",
+            "to": "hilsìrsehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hilsyrsetes",
+            "to": "hilsìrsetes",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hylsin",
+            "to": "hìlsin",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hylte",
+            "to": "hìlte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyppe",
+            "to": "hìppe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrke",
+            "to": "hìrke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrre",
+            "to": "hìrre",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrrehe",
+            "to": "hìrrehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrreho",
+            "to": "hìrreho",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrreny",
+            "to": "hìrrenì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrreporki",
+            "to": "hìrreporki",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrreselpis",
+            "to": "hìrreselpis",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrreselpiso",
+            "to": "hìrreselpiso",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrreste",
+            "to": "hìrreste",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrrestehe",
+            "to": "hìrrestehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrrestetes",
+            "to": "hìrrestetes",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrrete",
+            "to": "hìrrete",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrretes",
+            "to": "hìrretes",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrretos",
+            "to": "hìrretos",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyrrevanneti",
+            "to": "hìrrevanneti",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hysse",
+            "to": "hìsse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyssele",
+            "to": "hìssele",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyssente",
+            "to": "hìssente",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyssete",
+            "to": "hìssete",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyssette",
+            "to": "hìssette",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hyssetti",
+            "to": "hìssetti",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hysseve",
+            "to": "hìsseve",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ilty",
+            "to": "iltì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ilvy",
+            "to": "ilvì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ilvyle",
+            "to": "ilvìle",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ilvynte",
+            "to": "ilvìnte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ilvyse",
+            "to": "ilvìse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ilvytte",
+            "to": "ilvìtte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ilvytti",
+            "to": "ilvìtti",
+            "tongue": "sinale"
+        },
+        {
+            "from": "irtalleesy",
+            "to": "irtalleesì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "irtalleesyhe",
+            "to": "irtalleesìhe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "kyppe",
+            "to": "kìppe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "kyske",
+            "to": "kìske",
+            "tongue": "sinale"
+        },
+        {
+            "from": "leesy",
+            "to": "leesì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "leesyhe",
+            "to": "leesìhe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "leesytes",
+            "to": "leesìtes",
+            "tongue": "sinale"
+        },
+        {
+            "from": "lirsy",
+            "to": "lirsì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "lirty",
+            "to": "lirtì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "lirtyhe",
+            "to": "lirtìhe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "lyhy",
+            "to": "lìhì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "lysse",
+            "to": "lìsse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "lyssel",
+            "to": "lìssel",
+            "tongue": "sinale"
+        },
+        {
+            "from": "meery",
+            "to": "meerì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "meerykke",
+            "to": "meerìkke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "meerykki",
+            "to": "meerìkki",
+            "tongue": "sinale"
+        },
+        {
+            "from": "meerykkite",
+            "to": "meerìkkite",
+            "tongue": "sinale"
+        },
+        {
+            "from": "meerykkites",
+            "to": "meerìkkites",
+            "tongue": "sinale"
+        },
+        {
+            "from": "meerynne",
+            "to": "meerìnne",
+            "tongue": "sinale"
+        },
+        {
+            "from": "meerytes",
+            "to": "meerìtes",
+            "tongue": "sinale"
+        },
+        {
+            "from": "mylte",
+            "to": "mìlte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nalduhekky",
+            "to": "nalduhekkì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "neerehekky",
+            "to": "neerehekkì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nelyve",
+            "to": "nelìve",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nelyvehe",
+            "to": "nelìvehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nelyvele",
+            "to": "nelìvele",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nelyvente",
+            "to": "nelìvente",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nelyvetes",
+            "to": "nelìvetes",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nelyvette",
+            "to": "nelìvette",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nelyvetti",
+            "to": "nelìvetti",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nemmameery",
+            "to": "nemmameerì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nemmasytte",
+            "to": "nemmasìtte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nisyl",
+            "to": "nisìl",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nyke",
+            "to": "nìke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nykehe",
+            "to": "nìkehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nykemelke",
+            "to": "nìkemelke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nykemelkehe",
+            "to": "nìkemelkehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nykeny",
+            "to": "nìkenì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nykete",
+            "to": "nìkete",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nylki",
+            "to": "nìlki",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nylkihe",
+            "to": "nìlkihe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nylkile",
+            "to": "nìlkile",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nylkinte",
+            "to": "nìlkinte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nylkites",
+            "to": "nìlkites",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nylkitte",
+            "to": "nìlkitte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nylkitti",
+            "to": "nìlkitti",
+            "tongue": "sinale"
+        },
+        {
+            "from": "rissy",
+            "to": "rissì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "rysse",
+            "to": "rìsse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ryssehe",
+            "to": "rìssehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ryve",
+            "to": "rìve",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ryveny",
+            "to": "rìvenì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "seirahekky",
+            "to": "seirahekkì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "sylke",
+            "to": "sìlke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "sylle",
+            "to": "sìlle",
+            "tongue": "sinale"
+        },
+        {
+            "from": "syllente",
+            "to": "sìllente",
+            "tongue": "sinale"
+        },
+        {
+            "from": "sylpe",
+            "to": "sìlpe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "sylpehe",
+            "to": "sìlpehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "sylte",
+            "to": "sìlte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "syltete",
+            "to": "sìltete",
+            "tongue": "sinale"
+        },
+        {
+            "from": "symme",
+            "to": "sìmme",
+            "tongue": "sinale"
+        },
+        {
+            "from": "symmenne",
+            "to": "sìmmenne",
+            "tongue": "sinale"
+        },
+        {
+            "from": "syrne",
+            "to": "sìrne",
+            "tongue": "sinale"
+        },
+        {
+            "from": "syrvi",
+            "to": "sìrvi",
+            "tongue": "sinale"
+        },
+        {
+            "from": "syrvirse",
+            "to": "sìrvirse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "sytte",
+            "to": "sìtte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "syttekke",
+            "to": "sìttekke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "sytteluuro",
+            "to": "sìtteluuro",
+            "tongue": "sinale"
+        },
+        {
+            "from": "sytteny",
+            "to": "sìttenì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tehy",
+            "to": "tehì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tehyhe",
+            "to": "tehìhe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tylne",
+            "to": "tìlne",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tylnehe",
+            "to": "tìlnehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tylnekke",
+            "to": "tìlnekke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tylte",
+            "to": "tìlte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tyltehe",
+            "to": "tìltehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tyltete",
+            "to": "tìltete",
+            "tongue": "sinale"
+        },
+        {
+            "from": "tylteterse",
+            "to": "tìlteterse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ulpanneleesy",
+            "to": "ulpanneleesì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ulpanneleesyhe",
+            "to": "ulpanneleesìhe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vatteneleesy",
+            "to": "vatteneleesì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vatteneleesyhe",
+            "to": "vatteneleesìhe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vyrni",
+            "to": "vìrni",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vyrnihennel",
+            "to": "vìrnihennel",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vyrniny",
+            "to": "vìrninì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vyste",
+            "to": "vìste",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vystekke",
+            "to": "vìstekke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylke",
+            "to": "ìlke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylkenne",
+            "to": "ìlkenne",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylkennetes",
+            "to": "ìlkennetes",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylpe",
+            "to": "ìlpe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylpehe",
+            "to": "ìlpehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylpi",
+            "to": "ìlpi",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylpinne",
+            "to": "ìlpinne",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylpirsa",
+            "to": "ìlpirsa",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylpirse",
+            "to": "ìlpirse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylpise",
+            "to": "ìlpise",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylvi",
+            "to": "ìlvi",
+            "tongue": "sinale"
+        },
+        {
+            "from": "ylvihe",
+            "to": "ìlvihe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "yra",
+            "to": "ira",
+            "tongue": "varokhi"
+        }
+    ],
+    "held": [
+        {
+            "form": "thornbury",
+            "tongue": "eilwithi",
+            "why": "an English place name, kept as English"
+        },
+        {
+            "form": "stonyhaugh",
+            "tongue": "eilwithi",
+            "why": "an English place name, kept as English"
+        },
+        {
+            "form": "priory",
+            "tongue": "eilwithi",
+            "why": "an English place name, kept as English"
+        },
+        {
+            "form": "sky",
+            "tongue": "eilwithi",
+            "why": "ski is another English word"
+        },
+        {
+            "form": "wyn",
+            "tongue": "eilwithi",
+            "why": "win is another English word and another Aelwythi element"
+        },
+        {
+            "form": "skyldva",
+            "tongue": "nordmal",
+            "why": "skildva is another Nordmal word"
+        },
+        {
+            "form": "rivy",
+            "tongue": "sinale",
+            "why": "rivì is a Finnish word"
+        },
+        {
+            "form": "rivyny",
+            "tongue": "sinale",
+            "why": "built on rivy, which is held"
+        },
+        {
+            "form": "vyrke",
+            "tongue": "sinale",
+            "why": "vìrke is a Finnish word"
+        },
+        {
+            "form": "hylse",
+            "tongue": "sinale",
+            "why": "hìlse is a Finnish word"
+        },
+        {
+            "form": "nysse",
+            "tongue": "sinale",
+            "why": "nìsse is a Finnish word"
+        },
+        {
+            "form": "nyssetes",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "nyssekki",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "setty",
+            "tongue": "sinale",
+            "why": "settì is a Finnish word"
+        },
+        {
+            "form": "naltunysse",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "nemmanysse",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "settyrse",
+            "tongue": "sinale",
+            "why": "built on setty, which is held"
+        },
+        {
+            "form": "settyta",
+            "tongue": "sinale",
+            "why": "built on setty, which is held"
+        },
+        {
+            "form": "nysseste",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "nyssete",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "nysseterse",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "nyssese",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "nyssepehe",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "nyssenysse",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "vantainysse",
+            "tongue": "sinale",
+            "why": "built on nysse, which is held"
+        },
+        {
+            "form": "rivyle",
+            "tongue": "sinale",
+            "why": "built on rivy, which is held"
+        },
+        {
+            "form": "rivytte",
+            "tongue": "sinale",
+            "why": "built on rivy, which is held"
+        },
+        {
+            "form": "rivynte",
+            "tongue": "sinale",
+            "why": "built on rivy, which is held"
+        },
+        {
+            "form": "rivytti",
+            "tongue": "sinale",
+            "why": "built on rivy, which is held"
+        }
+    ]
+}

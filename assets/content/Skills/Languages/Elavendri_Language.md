@@ -134,7 +134,7 @@ data:
       field: The land in keeping
       gloss: "a rider; a herder on horseback"
       source: {kind: borrowed, language: skill-aelendlng, form: drunand}
-    - form: drýenalon
+    - form: dríenalon
       class: n
       field: The land in keeping
       gloss: "the horse herd of a clan"
@@ -1311,7 +1311,7 @@ data:
       gloss: "a hammer"
       source: {kind: borrowed, language: skill-aelendlng, form: thruk}
       concept: hammer
-    - form: rýedamon
+    - form: ríedamon
       class: n
       field: "Craft, coin and the market"
       gloss: "copper"
@@ -5256,7 +5256,7 @@ data:
 
     - {form: mielve, class: n, field: "Craft, coin and the market", gloss: "moss"}
 
-    - {form: rynel, class: n, field: "Craft, coin and the market", gloss: "edge or end"}
+    - {form: rinel, class: n, field: "Craft, coin and the market", gloss: "edge or end"}
 
     - {form: geirdnol, class: n, field: "Craft, coin and the market", gloss: "bargain"}
 
@@ -7094,6 +7094,9 @@ data:
     - {form: Aelwyth, instead: Eilwith, why: respelled to Pronouncing Thalorna}
     - {form: Aelwythi, instead: Eilwithi, why: respelled to Pronouncing Thalorna}
     - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
+    - {form: drýenalon, instead: dríenalon, why: y is never a vowel}
+    - {form: rýedamon, instead: ríedamon, why: y is never a vowel}
+    - {form: rynel, instead: rinel, why: y is never a vowel}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

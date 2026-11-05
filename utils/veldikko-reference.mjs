@@ -15,7 +15,9 @@ class Unmappable extends Error {
     }
 }
 
-const VOWELS = new Set(["a", "e", "i", "o", "u", "y"]);
+// ì is the front vowel, written with the y mark.
+const VOWELS = new Set(["a", "e", "i", "o", "u", "y", "ì"]);
+const MARK = { ì: "y" };
 // The vowels whose doubling is one held vowel; any other doubled vowel is two.
 const HELD = new Set(["a", "i", "u"]);
 const DIPHTHONGS = new Set([
@@ -56,7 +58,9 @@ export function veldikkoTable(fonts = resolveScriptFonts(process.cwd())) {
                 point(letter || "carrier"),
             ]),
         ),
-        vowels: new Map([...VOWELS].map((vowel) => [vowel, point(`vowel.${vowel}`)])),
+        vowels: new Map(
+            [...VOWELS].map((vowel) => [vowel, point(`vowel.${MARK[vowel] ?? vowel}`)]),
+        ),
         signs: new Map(["long", "bar"].map((sign) => [sign, point(sign)])),
     };
 }

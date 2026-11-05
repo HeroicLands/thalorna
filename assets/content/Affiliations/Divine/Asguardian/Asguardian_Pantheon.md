@@ -488,7 +488,7 @@ eldna na it eldna tvem, tveinri.
 hverv legva malma or lang sveld/
 hvarv virdi ok vrast es samnri?/
 vigri na falna, vrellna,/
-miv skyld fralm thenva, skurvi./
+miv skild fralm thenva, skurvi./
 eidmann na svelna, svul,/
 miv gandma halvna sannri ok sannma./
 morka na livma, lang,/

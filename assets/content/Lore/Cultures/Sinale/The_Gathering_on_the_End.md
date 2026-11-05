@@ -69,8 +69,8 @@ eho olnaro oso luuro ehii eirandi nuuvanutos ellun oltandi nuuvanu/
 .eirandita olnaro setty eirandi nuuvanu aldesse eilavaho seltai olnaro raakke rosel oltandi nuuvanu/
 tupe ehi onsa ennos kauve eso lentas torvel vennas torvel/
 .olnaro ilte onsa velti ilte onsa ummes onsa velti/
-kelsa ovuu olnaro oltandiho tupe ehi oltandi tylne ahi velpe onsa/
-.seltai luuronno tupe heeve tylne uulse tenvas rosel/
+kelsa ovuu olnaro oltandiho tupe ehi oltandi tìlne ahi velpe onsa/
+.seltai luuronno tupe heeve tìlne uulse tenvas rosel/
 oltandi iha irna ehi onsa ummes unturoho vennas erni ehi onsa velti olnaroho ehi/
 .ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennas ahi seltai onsa/
 seltai olnaro sendeppi nerrava nerrava velti ilte olnaro/
@@ -122,7 +122,7 @@ Tellakitta sang that the world ends when its singer stops. I say it ends when it
 leltai ehi torvel irvattosto lentaso kinsa onsa ehi alken vauttirsaho tunes leltai ehi onsa insu/
 .vonu uttes torvel onsatos aldis onsa eirandi torveltos rendatto onsa olmarnaho leltai ehi onsa erme/
 rivy ummes toimunuho vennas pelpe lauppi raakke polpe onsa polpe onsa sulmeho/
-.ahi seltai lauppi leesy ehi irnarsatos ahi halpe ehi onsa oirava lauppi raakke polpe onsa/
+.ahi seltai lauppi leesì ehi irnarsatos ahi halpe ehi onsa oirava lauppi raakke polpe onsa/
 mairel elnerinu vonu sorvel olmarna olmarnaho alken ilte unturoho elki/
 .halte ehi olmarna ahi eho rendatto esoho kalpe ehi talkevi setty torvel ummes ehi leltairsaho/
 uttes meravinno onsa pehe polpe ulsen pehe meravinno aume ulsen/
@@ -137,7 +137,7 @@ luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava evatte e
 .leltai ovuu ehi evakkakki iha osotos sennevi torvel ahi sennevi rendatto
 :::
 
-The account names him: [Rivytti Syllente]{.name data-type="being/npc"}, the turning leaf, of the hearth of the rising note.
+The account names him: [Rivytti Sìllente]{.name data-type="being/npc"}, the turning leaf, of the hearth of the rising note.
 
 The one who kept the meadow stood then and said: "You say the Dark is slow."
 
@@ -168,17 +168,17 @@ The grass goes down. The grass stands. Between the two there is a winter, and th
 :::
 
 ::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=meadow}
-pelpe lentinu vennas ummes sautteno aldesse polpeho nykehe ummes unturoho vennas/
+pelpe lentinu vennas ummes sautteno aldesse polpeho nìkehe ummes unturoho vennas/
 .nalki lenti peravi onsa sulmeho eho polpe levatti oltandi onsa eirandi yinserseho/
 yinse ehi leiken ervu ehi yinserse vennas vonu sorvel soimutekkiretos vennas/
 .setty lenti talveho aurannos uttes lenti iha lenti onsa/
 luuro ovuu sipes seltai luuronno seltai leltainno uvi seltai movi sirneta ovuu ehii lirne ilte oso seltai/
 .entel seltai ehii lirne kerrai onsa velnari ahi seltai lirne oso olkai eho onsaa oluho/
-kelsa ehii kessari enneli hyrreho lonku issalteho uttes muuvu evesi vennas tunes/
-.vaissa onsaa onsaa lirne ilte polpeho leevi uttes muuvu vennas kessave onsaa hyrre uvi vaukka onsa maviho/
-ahi vandel ehii onsaa vaukka onsaa leesyhe kauve onsaa ahi halpe ehii onsaa leesy avetti iha irna ehi iha ulsen/
-.evatte ehi kauve ehii erme ahi halpe ehii ehii leesy onsaa evesi oltandi eho onsaa sylpe oltandi/
-ahi eho ehii ylpirse oltandi ahi supe ovuu kessari ahi raakke ehii onsa onsaa kessari onsa tunes ahi raakke ehii onsa/
+kelsa ehii kessari enneli hìrreho lonku issalteho uttes muuvu evesi vennas tunes/
+.vaissa onsaa onsaa lirne ilte polpeho leevi uttes muuvu vennas kessave onsaa hìrre uvi vaukka onsa maviho/
+ahi vandel ehii onsaa vaukka onsaa leesìhe kauve onsaa ahi halpe ehii onsaa leesì avetti iha irna ehi iha ulsen/
+.evatte ehi kauve ehii erme ahi halpe ehii ehii leesì onsaa evesi oltandi eho onsaa sìlpe oltandi/
+ahi eho ehii ìlpirse oltandi ahi supe ovuu kessari ahi raakke ehii onsa onsaa kessari onsa tunes ahi raakke ehii onsa/
 .tellakitta eilavanto luuro ovu luuro luuronno heeve uulse entel iha seltai aume luuro ovu ehi evakka/
 pelpe lenti setty lenti leikeno unturo ilte uulse pelpe lenti ennos setty lenti ahi eho uttes
 :::
@@ -240,20 +240,20 @@ setty salpu vennas selkorosa onsaa ressa melke naldusa onsa ahi ulpes vaitten ve
 eho lirne vennas esoho ahi olkai onsaa patten ehi ihatos evatte ehi onsa ilte/
 .ahi vaukka haulonna ollevi ollevi aldevano tupe tupenno onsaa/
 luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava ahi seltai luuronno setty ehi issalteho tenvas nuuvanu vennas aunekke eilavaho/
-.luuro rivytti syllente ukken oltandi ossenda ilte onsa ossenda ilte ahi velpe lauppi ahi olkai lirne vennas/
-luuro lentila talvento muuvu evesi oltandi eho muuvu sylpe oltandi ahi seltai ehii lirne/
+.luuro rivytti sìllente ukken oltandi ossenda ilte onsa ossenda ilte ahi velpe lauppi ahi olkai lirne vennas/
+luuro lentila talvento muuvu evesi oltandi eho muuvu sìlpe oltandi ahi seltai ehii lirne/
 .ahi vandel ehi onsa setty ehi aunekke issalteho/
 evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho ilte/
 .ahi erni talnava iha aunekke aldevano setty lenti sautteno aldesse polpeho eso leikeno aurannos/
 oltandi oso yinse ehi iha yinse ehi oltandi ilte aunekke lirne vennas esoho tupe tupenno onsaa/
 .elnis ilte sennaveho ilte uttes elnis ahi erni onsa iha uttes elnis/
-erni ehii ollevi leesy erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha/
+erni ehii ollevi leesì erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha/
 .ahi erni ehi uvi eho ollevikko uulse salnava oltandi kessave ehi lirne sipes kerrai onsaa velnari eho onsaa ollevikkoho patten onsaa ahi erni onsaa iha erme
 :::
 
 The account marks a silence after this the length of a long line, and nobody took it up.
 
-The account names him: [Hyssetti Toimunto]{.name data-type="being/npc"}, the held breath, of the hearth of the turning year, and after the name an epithet the carriers rendered as the one who stood at the edge. He went north again when the gathering had sat its nights, and his speech stayed in the clearing with the one who keeps it now, as each of them is kept by someone until the gathering is called again. The account does not say that he came back, and the Sinalo who gave it to the carriers did not say either. Of Ollevikko the carriers were told that the name is the gathering of the dead, and nothing else, and they asked nothing else.
+The account names him: [Hìssetti Toimunto]{.name data-type="being/npc"}, the held breath, of the hearth of the turning year, and after the name an epithet the carriers rendered as the one who stood at the edge. He went north again when the gathering had sat its nights, and his speech stayed in the clearing with the one who keeps it now, as each of them is kept by someone until the gathering is called again. The account does not say that he came back, and the Sinalo who gave it to the carriers did not say either. Of Ollevikko the carriers were told that the name is the gathering of the dead, and nothing else, and they asked nothing else.
 
 ## The One Word
 

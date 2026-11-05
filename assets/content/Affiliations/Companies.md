@@ -11,7 +11,7 @@ data: {banner: companybnr, packFolder: politiescompanies}
 Companies are among the groups of individuals of note in [[place-worldthlrn|the world of Thalorna]]. The following is a short and incomplete list:
 
 [[affiliation-blckpnwlvs|The Blackpine Wolves]]
-: A volatile band of road bandits operating in the Vristwald, preying on merchant caravans along the old Vilérian trade road. Led by the ruthless former serf Dagbán yra Vethar wur Thrareth, the six outlaws are held together only by desperation—and riddled with internal tensions that threaten to tear them apart.
+: A volatile band of road bandits operating in the Vristwald, preying on merchant caravans along the old Vilérian trade road. Led by the ruthless former serf Dagbán ira Vethar wur Thrareth, the six outlaws are held together only by desperation—and riddled with internal tensions that threaten to tear them apart.
 
 [[affiliation-slntlncmpny|Silent Talon]]
 : A mercenary company based out of Provénzia, specializing in both battlefield operations and covert missions. Led by Captain Branval Dorgal, a dispossessed noble seeking to reclaim his family's lost lands, the five-member band has earned a reputation for discretion and precision in morally gray contracts.

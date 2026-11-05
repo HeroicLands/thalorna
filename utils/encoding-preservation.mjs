@@ -13,6 +13,7 @@ import { pieceGlosses } from "@heroiclands/package-build/engine/word-rows";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
 import { CONTENT_DIR, addressOf, notePath } from "./note-index.mjs";
 import { respellVileria } from "./vileria-sweep.mjs";
+import { respellVowelYText } from "./vowel-y-sweep.mjs";
 
 // The utility CI checkout explicitly fetches full history for pinned git-show
 // baselines. This is the last published-dependency commit before the migration;
@@ -171,10 +172,10 @@ export function inAmericanSpelling(before) {
 }
 /**
  * `text` with every listed British form in its American spelling, keeping initial case, and
- * the Vilérian forms of Viléria's names.
+ * the Vilérian forms of Viléria's names, and every vowel y respelled.
  */
 export function americanSpelling(text) {
-    return respellVileria(britishToAmerican(text));
+    return respellVowelYText(respellVileria(britishToAmerican(text)));
 }
 function britishToAmerican(text) {
     const kept = [];
@@ -779,8 +780,8 @@ export const STRESS_PROSE = new Map([
                 "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Nordmal favors short words, so the weight falls at the front. This creates",
             ],
             [
-                "Stress falls on the first syllable of every word without exception, so a Nordmal name has exactly one beat and it lands at the front. That is what lets a name be said correctly on sight: AL-thmyl, VRA-thy-ra, HLARTH-a-ruk.",
-                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favors put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.",
+                "Stress falls on the first syllable of every word without exception, so a Nordmal name has exactly one beat and it lands at the front. That is what lets a name be said correctly on sight: AL-thmil, VRA-thy-ra, HLARTH-a-ruk.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favors put it at the front: AL-thmil, vra-THI-ra, hlarth-A-ruk.",
             ],
             [
                 "Stress is initial in a name as in every other word, so any of these can be said correctly on sight—AL-thann, VRA-thy-ra, HLARTH-a-rukh.",

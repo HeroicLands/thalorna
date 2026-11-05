@@ -387,7 +387,7 @@ sav hav virdma, vrast,/
 inn vrili na bervri, vrilri./
 gronma na nelth halv helm/
 hnat livri lufna./
-dyrva dingi tharf mervi,/
+dirva dingi tharf mervi,/
 altha dulvma drak it.
 
 thara eldheim skif, skath,/

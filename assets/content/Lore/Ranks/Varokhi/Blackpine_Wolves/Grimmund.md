@@ -3,12 +3,12 @@ shortcode: grimmundrnk
 name: {full: Grimmund}
 type: lore
 subType: law
-description: "One of the six who follow Dagbán yra Vethar wur Thrareth, held by fear of the leader and the absence of better options, in the Blackpine Wolves."
+description: "One of the six who follow Dagbán ira Vethar wur Thrareth, held by fear of the leader and the absence of better options, in the Blackpine Wolves."
 tags: []
 data: {culture: varokhiclt}
 ---
 
-A Grimmund is one of the six who follow [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]], held by fear of the leader and the absence of better options, in [[affiliation-blckpnwlvs|the Blackpine Wolves]].
+A Grimmund is one of the six who follow [[being-dagulfvthr|Dagbán ira Vethar wur Thrareth]], held by fear of the leader and the absence of better options, in [[affiliation-blckpnwlvs|the Blackpine Wolves]].
 
 ## What This Standing Is
 
@@ -16,7 +16,7 @@ The Blackpine Wolves hold no formal hierarchy below their leader, Dagbán, who r
 
 ## How the Law Treats a Person Here
 
-There is no second-in-command the gang recognizes as such: [[being-thrwldhldskrn|Thrawald yra Hildskorn wur Thrastein]] is deferred to only by seniority and sheer size, and [[being-skthldfrdbn|Skathilda yra Frodbán wur Vandgrund]] is the most dangerous member after Dagbán while holding no standing above the others at all—the tension between what a member is worth to the band and what the band's own law says he holds is never resolved by any rank.
+There is no second-in-command the gang recognizes as such: [[being-thrwldhldskrn|Thrawald ira Hildskorn wur Thrastein]] is deferred to only by seniority and sheer size, and [[being-skthldfrdbn|Skathilda ira Frodbán wur Vandgrund]] is the most dangerous member after Dagbán while holding no standing above the others at all—the tension between what a member is worth to the band and what the band's own law says he holds is never resolved by any rank.
 
 ## Privileges
 

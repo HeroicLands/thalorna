@@ -50,7 +50,7 @@ data:
       stated: {calendar: wintertally, text: "81 LR"}
       sources: [affiliation-provncmktr, place-pinnhald, place-stennvold, affiliation-vrystwldtrbs]
       summary: >-
-        Moktur's therkoi buy the War Chiefs of the villages nearest the road with iron and silver and call them allies. Vristulf yra Theodhild wur Balthreth takes the therkos's gift and moves his kindred south of the highlands onto land the Empire gives them; his village's elders withdraw their support and acclaim another War Chief, and he goes south a man without a village. The kindreds who went with the friendly chiefs are the Varokh of Moktur now.
+        Moktur's therkoi buy the War Chiefs of the villages nearest the road with iron and silver and call them allies. Vristulf ira Theodhild wur Balthreth takes the therkos's gift and moves his kindred south of the highlands onto land the Empire gives them; his village's elders withdraw their support and acclaim another War Chief, and he goes south a man without a village. The kindreds who went with the friendly chiefs are the Varokh of Moktur now.
       standing: attested
       names: [{name: the Friendly Chiefs, by: affiliation-provncmktr}]
       where:
@@ -117,7 +117,7 @@ The road went where the engineers wanted except in one place. At [[place-frodhav
 
 ## The Friendly Chiefs
 
-From about 200 the _therkoi_ (governors) of the [[affiliation-provncmktr|Province of Moktur]] tried a cheaper way of holding the road than garrisons. They bought the War Chiefs of the villages nearest it with iron and silver, called them allies, and offered good land south of the highlands to any who would bring their people. The best remembered is [Vristulf yra Theodhild wur Balthreth]{.name data-type="being/npc"}, War Chief of [Balthreth]{.name data-type="place/settlement"}, who took the _therkos_'s gift and led his kindred south over the passes. His village's elders did not go with him. They withdrew their support from him, as a village may, and acclaimed another War Chief from the Hrodthúl who had stayed. Vristulf went south a man without a village, and the kindreds who followed him and the others like him are the [[lore-varokhiclt|Varokh]] communities that sit inside Moktur's border now, the half-Varokh blood of [[place-pinnhald|Pinnhald]] and [[place-stennvold|Stennvold]].
+From about 200 the _therkoi_ (governors) of the [[affiliation-provncmktr|Province of Moktur]] tried a cheaper way of holding the road than garrisons. They bought the War Chiefs of the villages nearest it with iron and silver, called them allies, and offered good land south of the highlands to any who would bring their people. The best remembered is [Vristulf ira Theodhild wur Balthreth]{.name data-type="being/npc"}, War Chief of [Balthreth]{.name data-type="place/settlement"}, who took the _therkos_'s gift and led his kindred south over the passes. His village's elders did not go with him. They withdrew their support from him, as a village may, and acclaimed another War Chief from the Hrodthúl who had stayed. Vristulf went south a man without a village, and the kindreds who followed him and the others like him are the [[lore-varokhiclt|Varokh]] communities that sit inside Moktur's border now, the half-Varokh blood of [[place-pinnhald|Pinnhald]] and [[place-stennvold|Stennvold]].
 
 Balthreth's pass scouts will not serve a foreign claimant, and they say so before they are asked. The forest's contempt for an office used to take from kin is older than Vristulf, but he is the man the reciters name when they explain it.
 

@@ -17,7 +17,7 @@ data:
       stated: {calendar: wintertally, text: "251 SR"}
       sources: [place-thornwald, place-thornhaven, place-velanthrgn, place-grkrhlmrgn]
       summary: >-
-        A Velanthian river-prince offers the frontier villages of Thornwald a shared fort against the Grukar, Theodburg, with his soldiers and their war-bands under one roof. Within a generation he asks tribute to keep it. Hródara yra Vandwald wur Thornhaven, its Other Chief, refuses to witness the bargain, the war-bands walk out, and the prince, who cannot hold the fort alone, abandons it half-burned.
+        A Velanthian river-prince offers the frontier villages of Thornwald a shared fort against the Grukar, Theodburg, with his soldiers and their war-bands under one roof. Within a generation he asks tribute to keep it. Hródara ira Vandwald wur Thornhaven, its Other Chief, refuses to witness the bargain, the war-bands walk out, and the prince, who cannot hold the fort alone, abandons it half-burned.
       standing: attested
       names: [{name: the Prince's Fort, by: lore-varokhiclt}]
       where:
@@ -48,7 +48,7 @@ For a generation it worked. The Grukar raids along that stretch of the frontier 
 
 ## The Bargain Nobody Witnessed
 
-The prince's son asked the villages for tribute to keep the fort: a tithe of furs each year, for the garrison's pay, and the prince's right to call on the war-bands when he chose. A bargain between a village and outsiders is the Other Chief's business, and it is not a bargain until she witnesses it. [Hródara yra Vandwald wur Thornhaven]{.name data-type="being/npc"}, the village's Other Chief, heard the terms at the fort before both peoples and refused to witness them. A fort a village helps to hold is a shared fort, she said, and a fort a village pays for is a lord's fort, and Thornhaven has no lord. The war-bands walked out of the gate that afternoon. The prince could not hold the crossing with his own garrison and gave it up within the year, and the fort burned as it was abandoned; the tellings in Thornwald and the stories in the grain villages each say the other side lit it.
+The prince's son asked the villages for tribute to keep the fort: a tithe of furs each year, for the garrison's pay, and the prince's right to call on the war-bands when he chose. A bargain between a village and outsiders is the Other Chief's business, and it is not a bargain until she witnesses it. [Hródara ira Vandwald wur Thornhaven]{.name data-type="being/npc"}, the village's Other Chief, heard the terms at the fort before both peoples and refused to witness them. A fort a village helps to hold is a shared fort, she said, and a fort a village pays for is a lord's fort, and Thornhaven has no lord. The war-bands walked out of the gate that afternoon. The prince could not hold the crossing with his own garrison and gave it up within the year, and the fort burned as it was abandoned; the tellings in Thornwald and the stories in the grain villages each say the other side lit it.
 
 ## What It Left
 

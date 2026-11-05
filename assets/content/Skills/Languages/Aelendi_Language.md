@@ -748,7 +748,7 @@ data:
       class: adj
       field: "Light, sky and the turning year"
       gloss: "bright"
-      source: {kind: borrowed, language: skill-sinalelng, form: ekkyve}
+      source: {kind: borrowed, language: skill-sinalelng, form: ekkìve}
       concept: bright
     - form: nupa
       class: n f
@@ -809,7 +809,7 @@ data:
       class: n n
       field: "Light, sky and the turning year"
       gloss: "the high air"
-      source: {kind: borrowed, language: skill-sinalelng, form: ylpe}
+      source: {kind: borrowed, language: skill-sinalelng, form: ìlpe}
     - form: írpalosto
       class: n n
       field: "Light, sky and the turning year"
@@ -877,7 +877,7 @@ data:
       class: n n
       field: "Water and the wood's weather"
       gloss: "a shore"
-      source: {kind: borrowed, language: skill-sinalelng, form: lirty}
+      source: {kind: borrowed, language: skill-sinalelng, form: lirtì}
       concept: shore
     - form: sólmeri
       class: n n
@@ -888,12 +888,12 @@ data:
       class: n n
       field: "Water and the wood's weather"
       gloss: "thin ice"
-      source: {kind: borrowed, language: skill-sinalelng, form: ilvy}
+      source: {kind: borrowed, language: skill-sinalelng, form: ilvì}
     - form: nélipe
       class: n n
       field: "Water and the wood's weather"
       gloss: "the first frost"
-      source: {kind: borrowed, language: skill-sinalelng, form: nelyve}
+      source: {kind: borrowed, language: skill-sinalelng, form: nelìve}
     - form: gilpai
       class: n n
       field: "Water and the wood's weather"
@@ -1026,7 +1026,7 @@ data:
       class: n n
       field: Trees and the living wood
       gloss: "birdsong"
-      source: {kind: borrowed, language: skill-sinalelng, form: sytteluuro}
+      source: {kind: borrowed, language: skill-sinalelng, form: sìtteluuro}
     - form: ílsepi
       class: n n
       field: Trees and the living wood
@@ -1078,7 +1078,7 @@ data:
       class: n n
       field: Trees and the living wood
       gloss: "the clearing round a single tree"
-      source: {kind: borrowed, language: skill-sinalelng, form: tehy}
+      source: {kind: borrowed, language: skill-sinalelng, form: tehì}
     - form: súldinno
       class: n n
       field: Trees and the living wood
@@ -1148,7 +1148,7 @@ data:
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "the art; what the lowlands call magic"
-      source: {kind: borrowed, language: skill-sinalelng, form: symme}
+      source: {kind: borrowed, language: skill-sinalelng, form: sìmme}
     - form: ólpeira
       class: n f
       field: "The fae, the thin places and the wards"
@@ -1204,7 +1204,7 @@ data:
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "the near people; the Sinale name for the Áelendan, which the Áelendan use of themselves in the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: hepymuuvu}
+      source: {kind: borrowed, language: skill-sinalelng, form: hepìmuuvu}
     - form: mupu
       class: n n
       field: "The fae, the thin places and the wards"
@@ -1230,7 +1230,7 @@ data:
       class: n m
       field: "The fae, the thin places and the wards"
       gloss: "a lowland mage"
-      source: {kind: borrowed, language: skill-sinalelng, form: symmenne}
+      source: {kind: borrowed, language: skill-sinalelng, form: sìmmenne}
     - form: sélporo
       class: n n
       field: Rite and the dead
@@ -4037,8 +4037,8 @@ data:
     - form: nilki
       class: n n
       field: Mountain, snow and stone
-      gloss: a root; any part of a plant growing into the ground in ordinary Áelendi usage; the Sinale source nylki specifically names the deep root
-      source: {kind: borrowed, language: skill-sinalelng, form: nylki}
+      gloss: a root; any part of a plant growing into the ground in ordinary Áelendi usage; the Sinale source nìlki specifically names the deep root
+      source: {kind: borrowed, language: skill-sinalelng, form: nìlki}
       concept: root
     - form: pattel
       class: n m
@@ -7492,7 +7492,7 @@ For linked alternatives, _ghos ... ghos_ marks "either ... or", _nond ghos ... n
 
 The broad country words keep the local ones precise. _Dulnon_ names a lake in any setting, while _dulna_ is the tarn in its corrie. _Sirnon_ names a river above or below the tree line; _lánthepi_ remains the river below it. _Mirlon_ is land in general, while _mirla_ is a clan's grazing ground. _Kenrison_ is any line of descent; _úrkenon_ is the old line carried back to the crossing. The physical hearth is _khendron_; the fire kept there is _kárathon_.
 
-The Sinale source and its Áelendi use need not have the same breadth. Sinale _pelvai_ names low cloud; Áelendi _pelpai_ is the ordinary word for any cloud. Sinale _nylki_ names the deep root; Áelendi _nilki_ names a plant root at any depth. These ordinary physical uses concern the wood and its weather, within the teaching open to humans.
+The Sinale source and its Áelendi use need not have the same breadth. Sinale _pelvai_ names low cloud; Áelendi _pelpai_ is the ordinary word for any cloud. Sinale _nìlki_ names the deep root; Áelendi _nilki_ names a plant root at any depth. These ordinary physical uses concern the wood and its weather, within the teaching open to humans.
 
 _Either_ selects from the actual pair: _uk threl thend_, "one from the two", while _nonduk threl thend_ is "none from the two; neither". _Ghuri ghuri dhelar_, "exhausted", and _ghuri ghuri lunnar_, "tiny", use the degree adverb _ghuri_, repeated for extreme degree. The adjective _ghur_ describes a noun, as in _ghur dhoris_, "overwhelming fear". In _ris soldar rundis rúnathen_, "to shout", _ris_ introduces the loud voice in which the speech is made. _Ris nimon rundis rúnathen_ means "to whisper": _nimon rundis_, "breath voice", names the unvoiced manner of speech.
 

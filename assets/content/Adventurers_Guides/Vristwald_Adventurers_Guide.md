@@ -121,7 +121,7 @@ WHERE type = 'being'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-[[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] of Eichengrund is the admired warrior, strong and stubborn in defense of his people, and the danger in that ideal as well: his ambition can dress itself as protection. [[being-sndwrhldvth|Sundwira yra Hildvith wur Frithhaven]] is the quieter admiration, the woman whose care for horses protects other people's livelihoods. [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]] holds a War Chief's seat by her war-band's acclamation.
+[[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] of Eichengrund is the admired warrior, strong and stubborn in defense of his people, and the danger in that ideal as well: his ambition can dress itself as protection. [[being-sndwrhldvth|Sundwira ira Hildvith wur Frithhaven]] is the quieter admiration, the woman whose care for horses protects other people's livelihoods. [[being-athlwvthrnd|Athalwa ira Vithrúnd wur Eichengrund]] holds a War Chief's seat by her war-band's acclamation.
 
 ## Ways In
 

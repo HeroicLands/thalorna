@@ -21,9 +21,9 @@ data:
 # terran_analog: "The Homeric poems and the rhapsodes who recited them at Panhellenic festivals, for the long six-beat line, the fixed epithets, the extended simile, the invocation, the catalog of ships and the hero's choice between a short glorious life and a long obscure one; the Athenian and other cities' rival claims inserted into the catalog; and the Greek foundation hero, the oikist, whose tomb in the agora made him the city's first citizen."
 ---
 
-**The Burning of the Keel** is a song of the [Song of the Ships]{.name data-type="lore/literature"}, the rhapsodes' long poem of [[lore-heladlandngs|the Landings]], and it is the song [[affiliation-thyrenae|Thirenae]] sends to the [Games]{.name data-type="lore/gathering"}. On the day the cities tell their founding claims against one another at [[place-gamessanct|the Sanctuary of the Games]], each city's rhapsode stands on the stone in front of the heralds' altar with a staff in his hand and no instrument, and sings his city's ship; the Thirenaean sings this one. It is in the long line of the rhapsodes, six beats rolling to a fall, and a Thirenaean boy learns its catalog at the exercise ground before he can read. The song's hero is [Ythros]{.name data-type="being/npc"}, the fire-wakeful, whose name is worn down to two syllables as the founders' names are, and whose line, the clan [Ythrides]{.name data-type="affiliation/lineage"}, is the oldest name on the Thirenaean roll.
+**The Burning of the Keel** is a song of the [Song of the Ships]{.name data-type="lore/literature"}, the rhapsodes' long poem of [[lore-heladlandngs|the Landings]], and it is the song [[affiliation-thyrenae|Thirenae]] sends to the [Games]{.name data-type="lore/gathering"}. On the day the cities tell their founding claims against one another at [[place-gamessanct|the Sanctuary of the Games]], each city's rhapsode stands on the stone in front of the heralds' altar with a staff in his hand and no instrument, and sings his city's ship; the Thirenaean sings this one. It is in the long line of the rhapsodes, six beats rolling to a fall, and a Thirenaean boy learns its catalog at the exercise ground before he can read. The song's hero is [Ithros]{.name data-type="being/npc"}, the fire-wakeful, whose name is worn down to two syllables as the founders' names are, and whose line, the clan [Ithrides]{.name data-type="affiliation/lineage"}, is the oldest name on the Thirenaean roll.
 
-The song makes Ythros the first _kléandir_, the first man a story keeps, and it makes him so by a choice. It is the Thirenaean claim that the other ships followed Thirenae's fires, and every city's rhapsode answers it. The Pelagoran sings next, and his song has [Nikhtis]{.name data-type="being/npc"}, the captain of the ship that became [[affiliation-pelagora|Pelagora]], see the fire on the headland and steer away from it, because a ship of Pelagora follows nothing. The Thirenaean song knows this answer and has a line ready for it, and the crowd at the Games waits for that line. The keel-stone in Thirenae's agorin is, in this song, the stone the keel burned on, carried up the valley with the founder under it. The Pelagoran rhapsode's answer makes sport of it: only Thirenae, his song says, would offer as proof of its ship the fact that it burned it.
+The song makes Ithros the first _kléandir_, the first man a story keeps, and it makes him so by a choice. It is the Thirenaean claim that the other ships followed Thirenae's fires, and every city's rhapsode answers it. The Pelagoran sings next, and his song has [Nikhtis]{.name data-type="being/npc"}, the captain of the ship that became [[affiliation-pelagora|Pelagora]], see the fire on the headland and steer away from it, because a ship of Pelagora follows nothing. The Thirenaean song knows this answer and has a line ready for it, and the crowd at the Games waits for that line. The keel-stone in Thirenae's agorin is, in this song, the stone the keel burned on, carried up the valley with the founder under it. The Pelagoran rhapsode's answer makes sport of it: only Thirenae, his song says, would offer as proof of its ship the fact that it burned it.
 
 The rhapsode invokes [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, as the singers of [[place-helionis|Helionis]] do, because the song comes to a singer as a dream comes, from behind a veil. The seven ships are named by their captains; the cities the ships became are named as the song names them, by what each would be.
 
@@ -34,7 +34,7 @@ Veiled Dreamer, daughter of the night's long hours, who stand behind the sleeper
 and lift the corner of the veil and let him see what he cannot carry,/
 lift it for me now, at the altar, before the heralds of the seven,/
 and give me the night on the headland, and the fire, and the keel, and the choosing,/
-the song of Ythros the fire-wakeful, who gave his ship to the burning/
+the song of Ithros the fire-wakeful, who gave his ship to the burning/
 so that the others might come to the land, and did not see the valley./
 Begin it where the singers begin, with the black ships on the water.
 
@@ -44,7 +44,7 @@ seven ships with their beaks to the south and the land on the left hand always,/
 and the land was a land of headlands and gravel and no man stood on it to meet them./
 Hear the ships, you seven cities. Hear whose oar is in which water.
 
-First the ship of Ythros, the fire-wakeful, the son of no one the song knows,/
+First the ship of Ithros, the fire-wakeful, the son of no one the song knows,/
 broad in the beam and slow, with forty oars and the women and the barley,/
 and in her the hearth of the north in a pot of clay with a lid on it,/
 the coals kept alive on the water through the whole of the voyage south,/
@@ -99,7 +99,7 @@ so the storm came down on the seven ships and scattered them on the water,/
 and the dark came early, and the ships could not see one another./
 Each oarsman pulled for his life, and the steersmen shouted, and no one heard.
 
-Ythros was at the steering-oar of the broad ship, the fire-wakeful,/
+Ithros was at the steering-oar of the broad ship, the fire-wakeful,/
 and he saw in the last of the light a headland black against the sea,/
 and a beach in the lee of it, a crescent of grey stones, and no surf on it./
 He put the broad ship's beak on the beach, and the forty oars drove her in,/
@@ -107,7 +107,7 @@ and the keel ground on the stones and held, and the women got down with the barl
 and the oarsmen carried the jars of oil and the nets and the skins of water,/
 and they carried the pot of clay with the lid, and the hearth of the north was in it.
 
-Then Ythros stood on the beach in the rain and looked at the sea behind him,/
+Then Ithros stood on the beach in the rain and looked at the sea behind him,/
 and the sea was black and white, the black of the water and the white of its breaking,/
 and he could not see one ship of the six, not one light, not one oar./
 He spoke to his crew in the rain, and this is what the fire-wakeful said:
@@ -148,24 +148,24 @@ and counted his people on the beach, and the cord was the same length as at even
 
 But three ships were out on the water still, and the oars were all on the fire,/
 and the wood was gone from the headland, and the fire went down to a red eye,/
-and Ythros sat by the red eye and slept, because he had not slept for two days,/
+and Ithros sat by the red eye and slept, because he had not slept for two days,/
 and in his sleep the Veiled Dreamer stood behind him and lifted the corner of the veil.
 
 She showed him two roads, as the Dreamer shows them, one on either side of the sleeper./
 On the left hand she showed him a valley that runs up from the sea to the hills,/
 with a spring at its head and a terrace of olives and a house on the terrace,/
-and a man in the house who was Ythros, old, with his grandsons on his knees,/
+and a man in the house who was Ithros, old, with his grandsons on his knees,/
 and the grandsons were asking his name, because their fathers had forgotten it./
 On the right hand she showed him the headland and the fire and the keel on the fire,/
 and the black ship with no keel lying on the beach like a gutted fish,/
-and a man on the headland who was Ythros, and the man was dead in the morning,/
+and a man on the headland who was Ithros, and the man was dead in the morning,/
 and below him on the beach were seven ships, and seven peoples, and a city/
 that carried his bones up a valley he never saw, and set a stone on them,/
 and the heralds of seven cities said his name at an altar, every one of them,/
 even the ones who said he was a liar, even those, they said his name.
 
 And the Dreamer said nothing, because she is the Veiled one and does not speak,/
-and she let down the veil, and Ythros woke by the red eye of the fire./
+and she let down the veil, and Ithros woke by the red eye of the fire./
 He stood up and called his crew around him on the headland in the dark,/
 and the crew of Krenis came, and the crew of Aghris, and Arsos with his cord.
 
@@ -185,12 +185,12 @@ So they went down to the beach in the dark and picked up stones by feel,/
 because no one could see whether a stone was black or white on that beach,/
 and they held each stone to the red eye of the fire to know which was which,/
 the crew of the broad ship, men and women, and the crews of the three ships too,/
-for Ythros said: you are on this headland, and the headland is all of us,/
+for Ithros said: you are on this headland, and the headland is all of us,/
 and the oxen of Aghris lowed while they voted, and Arsos counted the stones./
 Arsos counted them out on the rock by the fire, the white and the black,/
 and his cord in his teeth, and he counted twice, as the counters count,/
 and there were nine black stones, and the rest of the stones were white./
-And Ythros put his own stone in last, after the count, and it was white,/
+And Ithros put his own stone in last, after the count, and it was white,/
 and he said: count that one too, old man, for it is mine, and it is the keel.
 
 This was the first vote cast on that shore. Remember it at the urn./
@@ -228,7 +228,7 @@ He has answered it at every Games, and the beach is where it was.
 When the light came grey over the hills the keel was a long bar of embers,/
 and six ships were on the beach in the lee of the headland, and one on the next,/
 and the peoples got down from the ships and stood on the land in the morning,/
-and they looked for Ythros, and he was sitting by the embers of the keel,/
+and they looked for Ithros, and he was sitting by the embers of the keel,/
 with his cloak around him and his head on his knees, and he was cold./
 He had not slept, and he had not eaten, and he had been in the rain two days,/
 and the fire had been his work, and he had stood at it, and the work was done./
@@ -240,11 +240,11 @@ In the north, where they came from, the dead of a clan went to the clan's own ri
 said by the clan's old men at the clan's own hearth, in the clan's own place,/
 and here there was no place, and no hearth but a fire made of a keel,/
 and no rites of this land, for no one had made the rites of this land yet./
-Ythros was the first dead on that shore, and there was nowhere to receive him.
+Ithros was the first dead on that shore, and there was nowhere to receive him.
 
 The crew of the broad ship stood on the headland around him, and said nothing,/
 for there is nothing to say, the old men say, when there is no one to say it to./
-Then his son stood up, the son of Ythros, the first of the line of the fire,/
+Then his son stood up, the son of Ithros, the first of the line of the fire,/
 whom the song does not name, because he is named in the roll, and the roll is enough./
 And he spoke to the crew on the headland, and this is what the son said:
 
@@ -260,7 +260,7 @@ and the first name on the roll. Pick up the stone. We are going inland."
 As when the ants at the end of summer find the crumb the reaper dropped,/
 too large for one to carry, and they gather around it, many to one crumb,/
 and lift it, and it moves, and goes up the path to the nest a little at a time,/
-so the crew of the broad ship lifted the keel-stone with Ythros on it,/
+so the crew of the broad ship lifted the keel-stone with Ithros on it,/
 and carried it off the headland and up from the sea, a little at a time,/
 and the other crews stood on the beach and watched them go up into the hills./
 And the oxen of Aghris went with them as far as the first ridge, and turned back.
@@ -286,7 +286,7 @@ thu statharin opith ánthimor er hufarin, koum airatharin zelvethin/
 er kelathin, koum efarin heir meltharin thin heir uf dunatharin féranin,/
 airatharin hein pir egh nuneth, enth kor, tror kerukhir er hepthor,/
 koum dorasarin pir egh nikhtir er hadrin, ithrin, naukerin, hairelin,/
-Ythros egeirir er ithrin, heir dorasarin naukir prou ithrarin,/
+Ithros egeirir er ithrin, heir dorasarin naukir prou ithrarin,/
 der heter hikarin prou ghéranis, koum heir uf meltharin heun aulonin./
 Ársidhin hoth sorir ársidhin, frun melanir naukir in hidhir‼
 
@@ -296,7 +296,7 @@ hepthor nauthos prou nothein, koum ghéranis aeith enth arister,/
 ghéranis er hadrin koum skirathin, koum medhin pir sumetharin helin./
 Akrotharin, hepthor pólithar‼ Erethin er thir in pothel hidhir‼
 
-Prineth plum naukir er Ythros egeirir er ithrin,/
+Prineth plum naukir er Ithros egeirir er ithrin,/
 huyir er medhin ánthimor thin sorathin epistémarin,/
 plathelir koum bradhelir, naukir frun vesmor zekhor erethin,/
 frun ghuneth koum krithon, koum in heira eskharin er borethin in khitrin/
@@ -357,7 +357,7 @@ hometh khemin hepthor naukir sketharin in hidhir,/
 koum olthelin hikarin proimeth, koum naukir uf meltharin heter./
 Eretharin pir zelira, naukhir kaleitharin, medhin akherin.
 
-Ythros egeirir er ithrin enth pedharin er plathelir naukir,/
+Ithros egeirir er ithrin enth pedharin er plathelir naukir,/
 koum meltharin in kirathin telesth hadrin melanir tror thálimir,/
 frelin opith, ghlinir er lithorin, medhin kurathon./
 Thetharin nauthos prou frelin, koum vesmor zekhor erethin/
@@ -366,7 +366,7 @@ koum ghuneth érkharin kateth frun krithon, koum erethir féranin/
 stamnin er krenethin, retherin, koum skithin plir er hidhir,/
 koum féranin khitrin er keramin frun lekanon, eskharin er borethin.
 
-Ythros statharin in ombrin, meltharin thálimir opith heir,/
+Ithros statharin in ombrin, meltharin thálimir opith heir,/
 melanir koum leukhelir, melanir er hidhir, leukhelir er kurathon,/
 koum heir uf meltharin meun naukir er zemor, uf kirathin, uf erethin./
 Heir rhéthasin pir nauthorin in ombrin, heum, egeirir er ithrin.
@@ -410,18 +410,18 @@ koum skoirin ésarin er hometh perathin hoth heun hespethin.
 
 Trel ethel in hidhir, koum plum erethin in ithrin,/
 hulithin apeth, koum ithrin kateth prou eruthir ofthelin,/
-koum Ythros kathelarin pef hein koum hufarin, dheir uf hufarin drin hemerin,/
+koum Ithros kathelarin pef hein koum hufarin, dheir uf hufarin drin hemerin,/
 koum in hufin Kelathir statharin opith koum airatharin zelvethin.
 
 Heira vagharin drin hodhin, hoth Oneirir vagharin,/
 meun epir plum solten er ánthimor er hufarin./
 Enth arister, aulonin afor thálimir aneth prou lofir,/
 frun krenir enth kefalir, poltharin er elaisir, domin epir hein,/
-Ythros gerathir in domin, tekir er tekir pef gonethir,/
+Ithros gerathir in domin, tekir er tekir pef gonethir,/
 koum helin erotharin ónomir er heir, dheir parikhor letharin hein./
 Enth deksir, hadrin koum ithrin, koum naukerin epir ithrin,/
 melanir naukir, medhin naukerin, hoth ikhthir anoigharin,/
-koum Ythros epir hadrin, koum heir thaner ésarin in orthrin,/
+koum Ithros epir hadrin, koum heir thaner ésarin in orthrin,/
 koum hupor heir hepthor naukir, hepthor anthmerin, koum pólithar/
 féranin osthelin er heir prou aulonin thin heir medhin khronin meltharin,/
 koum thetharin lithorin huth helin, koum kerukhir er hepthor pólithar/
@@ -429,7 +429,7 @@ rhéthasin ónomir er heir enth kor, plum ánthimor er helin,/
 kaieth thin rhéthasin «Apathir», heunir thoir, rhéthasin ónomir.
 
 Koum Oneirir rhéthasin medhin, dheir heira Kelathir koum uf rhéthasin,/
-afelarin kelathin, koum Ythros egeirarin pef eruthir ofthelin./
+afelarin kelathin, koum Ithros egeirarin pef eruthir ofthelin./
 Heir eghelarin koum kaleitharin nauthorin perith, in olthelin,/
 koum nauthorin er Krenis érkharin, koum er Aghris, koum Arsos frun skoirin.
 
@@ -450,13 +450,13 @@ Kateth prou frelin in olthelin, lámbarin lithorin frun hafin,/
 dheir medhin dunatharin meltharin, melanir eil leukhelir,/
 koum airatharin plum lithorin prou eruthir ofthelin pir epistémarin,/
 nauthorin er plathelir, anerith koum ghuneth, koum trel heter,/
-dheir Ythros rhéthasin, «Thu in hadrin, koum hadrin, herin plum,»/
+dheir Ithros rhéthasin, «Thu in hadrin, koum hadrin, herin plum,»/
 koum oukhthor er Aghris mukharin hoseth helin sfratharin./
 Koum Arsos arithmarin helin epir lithorin pef ithrin,/
 leukhelir koum melanir, koum mikrir skoirin enmes dhontir er heir,/
 koum arithmarin drin horath, hoth metrir arithmarin,/
 koum ennevir melanir ésarin, koum heter plum leukhelir./
-Ythros thetharin er authel telesth, huster arithmas,/
+Ithros thetharin er authel telesth, huster arithmas,/
 koum hein leukhelir ésarin, koum heir rhéthasin, «Arithmarin heum prostheth,/
 gerathir anerith, dheir heum er egh, koum heum ésarin naukerin.»
 
@@ -499,7 +499,7 @@ Heir ameitharin enth plum Theldir, koum frelin ethel eketh.
 Polithir kirathin huth lofir, koum naukerin ésarin lothelin,/
 zemor epir frelin, koum meun epir efeth,/
 anthmerin kateth, statharin epir ghéranis in orthrin,/
-koum zethelarin Ythros, koum heir kathelarin pef lothelin er naukerin,/
+koum zethelarin Ithros, koum heir kathelarin pef lothelin er naukerin,/
 frun khalnir perith heir koum kefalir epir gonethir, koum heir krumir./
 Heir uf hufarin, koum uf edharin, koum ésarin in ombrin drin hemerin,/
 koum ithrin, prathin er heir. Heir statharin pef. Prathin ghígnarin olasin./
@@ -511,13 +511,13 @@ In borethin, thaner er ghenthir érkharin prou ieresin er authel,/
 frun gerathir er ghenthir, enth eskharin er ghenthir, in tofelin er authel,/
 koum enith, medhin tofelin, medhin eskharin plor naukerin,/
 medhin ieresin er ghéranis, dheir medhin pratharin helin meil./
-Ythros, thaner in arithmas meun epir frelin,/
+Ithros, thaner in arithmas meun epir frelin,/
 koum medhin tofelin ésarin, medhin ánthimor pir lámbarin heir.
 
 Nauthorin er plathelir statharin perith heir, rhéthasin medhin,/
 dheir medhin pir rhéthasin, gerathir rhéthasin, eith medhin pir akherin./
 Huyir eghelarin, in arithmas meun er dorthin er ithrin,/
-huyir er Ythros, thin heum sorathin uf ónomarin, dheir katalgar/
+huyir er Ithros, thin heum sorathin uf ónomarin, dheir katalgar/
 ónomarin heir, koum katalgar ésarin hikanir. Heir rhéthasin pir nauthorin/
 epir hadrin, koum heum ésarin thin huyir rhéthasin.
 
@@ -535,7 +535,7 @@ Hoth murmithin enth telthin er thérimos heurarin edhrin er thérisir,/
 thar meghar pir meun féranin, koum polir sunatharin perith,/
 koum airatharin, koum hein kinetharin, aneth hodhis prou neosthin,/
 olighir pef olighir. Hometh nauthorin airatharin lithorin/
-er naukerin frun Ythros epir hein, koum féranin hein afor hadrin,/
+er naukerin frun Ithros epir hein, koum féranin hein afor hadrin,/
 koum érkharin aneth afor thálimir, olighir pef olighir,/
 koum heter statharin in frelin, meltharin helin anabherin./
 Oukhthor er Aghris frun helin mekhir thornir, koum nostharin.

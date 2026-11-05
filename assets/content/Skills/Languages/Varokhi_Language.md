@@ -13,7 +13,7 @@ data:
   templatePriority: null
   packFolder: language
   names:
-    pattern: ["{given}", "{given} yra {clan}", "{given} yra {clan} wur {village}"]
+    pattern: ["{given}", "{given} ira {clan}", "{given} ira {clan} wur {village}"]
     given:
       female:
         - "Árhilda"
@@ -376,7 +376,7 @@ data:
       class: part
       field: Kept words
       gloss: "of the, joining two names in a company's or an order's name"
-    - form: "yra"
+    - form: "ira"
       class: "part"
       field: "Kept words"
       gloss: "of the kindred: the particle that stands before a clan's name in a person's name"
@@ -5320,6 +5320,7 @@ data:
   retired:
     - {form: Wíthar, instead: Wíthgar, why: "an Earth word, a man's name"}
     - {form: Aelwyth, instead: Eilwith, why: respelled to Pronouncing Thalorna}
+    - {form: yra, instead: ira, why: y is never a vowel}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -5451,7 +5452,7 @@ The ordinary words here are learned as individual citations. _Weira_ is a sight,
 
 The examples use simple subject–verb–object order: _wi weir barsk_, I see the boar; _wi harve watra_, I have water. _Melgud thum galth_ means the pot is hard. _Hemra thum_ states that a house exists. _Na_ precedes what it denies: _wi na weir barsk_, I do not see the boar. The degree words have their own uses: _mawi warthi_, warm or moderately hot; _wremi watri_, very wet.
 
-_Eith_ is an ordinary alternative to _eth_, the ordinary word in the sample _Eth shal_, this alone. _Virwe_ joins words or clauses, while the sample _Hrodar vird Frodbán_ keeps _vird_. _Melgud er wi_ is my pot, and _melgud thum er wi_ says the pot is mine. _Ter_ states a recipient or goal, _fran_ a source, and _mi_ a companion or means: _wi selra watra ter thri_, I give water to you. The name particles _yra_, _wur_ and _erund_ retain the uses their name examples show.
+_Eith_ is an ordinary alternative to _eth_, the ordinary word in the sample _Eth shal_, this alone. _Virwe_ joins words or clauses, while the sample _Hrodar vird Frodbán_ keeps _vird_. _Melgud er wi_ is my pot, and _melgud thum er wi_ says the pot is mine. _Ter_ states a recipient or goal, _fran_ a source, and _mi_ a companion or means: _wi selra watra ter thri_, I give water to you. The name particles _ira_, _wur_ and _erund_ retain the uses their name examples show.
 
 The kin phrases state each relationship: _mowen er othel_ is a parent's mother, a grandmother; _othil er frithil er othel_ is the child of a sibling of one's parent, a cousin. The inner sibling-of-parent relationship belongs inside the child relationship. _Marwen_ and _wemra_ name male and female human beings; _fulwen marwen_ is an adult man, _junri marwen_ a boy. _Hem_ refers back to a person or being already indicated, with the referent supplying the sex or kind.
 
@@ -5503,7 +5504,7 @@ Five rules settle the whole of it.
 2. **A linking piece stands at the seam where the opening ends on a consonant and _r_ and the closing begins with a consonant, and may stand elsewhere**, and the three are `-a-`, `-i-` and `-en-`. Each lets a closing beginning with a consonant sit against an opening that already ends in one: _wíth-_ and `-rik` give Wítharik, _edr-_ and `-gar` give Edrigar, and _eich-_ and `-grund` give Eichengrund. A linking vowel takes the acute where the name is said long.
 3. **A seam writes both pieces whole.** _Skath-_ and `-helm` give Skathhelm with the `h` written twice, and no letter is dropped to tidy the join.
 4. **A woman's name closes on `-a`, or on `-wen`, `-rún` or `-ris`.** The `-a` is added to a name otherwise complete, which is why Domrik and Dómrika, Hrodar and Hródara stand in the two lists as one name twice; the other three closings carry a woman's name without it, as Falkwen, Radrún and Theodris do. A man's name closes on a consonant and on none of those three.
-5. **A clan name is built exactly as a given name is, and position tells them apart.** The name after _yra_ in a name in full is the clan, which is why Vethar stands in a given-name list and in the clan list both. A clan name is unmarked for gender, since a clan holds men and women alike.
+5. **A clan name is built exactly as a given name is, and position tells them apart.** The name after _ira_ in a name in full is the clan, which is why Vethar stands in a given-name list and in the clan list both. A clan name is unmarked for gender, since a clan holds men and women alike.
 
 **A clan has more than one member.** A name in the clan list is a clan and not a person: brothers, cousins, a widow's household and three generations of a kindred all carry the same one.
 
@@ -5511,15 +5512,15 @@ Five rules settle the whole of it.
 
 ### A person's name in full
 
-A Varokh is named in full by three names joined by two particles: the given name; then _yra_, "of the kindred", and the clan; then _wur_, "of the ground", and the village. [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]] is Athalwa, of the Vithrúnd kindred, of the ground at [[place-eichengrnd|Eichengrund]]. Eichengrund is not a clan and Vithrúnd is not a village, so neither can stand in the other's place.
+A Varokh is named in full by three names joined by two particles: the given name; then _ira_, "of the kindred", and the clan; then _wur_, "of the ground", and the village. [[being-athlwvthrnd|Athalwa ira Vithrúnd wur Eichengrund]] is Athalwa, of the Vithrúnd kindred, of the ground at [[place-eichengrnd|Eichengrund]]. Eichengrund is not a clan and Vithrúnd is not a village, so neither can stand in the other's place.
 
 How much of the name is said depends on where the speaker stands, and each particle goes wherever the name it introduces goes.
 
 - **In everyday speech, among people who know the person,** the given name alone: Athalwa.
-- **Inside the person's own village,** where the ground goes without saying, the given name and the clan: Athalwa yra Vithrúnd.
-- **Beyond the village,** at a market, before a muster, in another village's hall or in a reciter's telling, the whole name: Athalwa yra Vithrúnd wur Eichengrund.
+- **Inside the person's own village,** where the ground goes without saying, the given name and the clan: Athalwa ira Vithrúnd.
+- **Beyond the village,** at a market, before a muster, in another village's hall or in a reciter's telling, the whole name: Athalwa ira Vithrúnd wur Eichengrund.
 
-A given name and a clan never stand side by side without _yra_ between them. An earned byname can stand in place of the clan and the village beyond a person's village, as [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s byname **Bludtusk Barsk** does, and the byname is said whole.
+A given name and a clan never stand side by side without _ira_ between them. An earned byname can stand in place of the clan and the village beyond a person's village, as [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s byname **Bludtusk Barsk** does, and the byname is said whole.
 
 These pages name a Varokh the same way: the whole name at the first mention in a note, the given name and the clan at the first mention in the note of the person's own village, and the given name alone after that.
 

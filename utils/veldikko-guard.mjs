@@ -195,7 +195,7 @@ export function referenceWithPerformance(source, convert) {
         ["\u0302", 0x1ed7a],
         ["\u0301", STRESS],
     ]);
-    const vowels = new Set([..."aeiouy"]);
+    const vowels = new Set([..."aeiouyì"]);
     const diphthongs = new Set([
         "ai",
         "au",
@@ -213,6 +213,11 @@ export function referenceWithPerformance(source, convert) {
     const tokens = [];
     for (const letter of source.normalize("NFD").toLowerCase()) {
         const last = tokens.at(-1);
+        if (letter === "\u0300" && last?.letter === "i" && !last.signs.length) {
+            // i with a grave is the front vowel ì, not a delivery sign
+            last.letter = "ì";
+            continue;
+        }
         if (marks.has(letter)) {
             if (!last || !vowels.has(last.letter) || last.signs.length)
                 throw new Error("a Sinale mark must annotate a vowel, one mark to a vowel");

@@ -220,7 +220,7 @@ test("the reviewed verse retains eight syllables and each rhyming couplet", () =
         ["barley", 2],
         ["summeres", 2],
         ["asleep", 2],
-        ["softly", 2],
+        ["softli", 2],
         ["walkest", 2],
         ["offering", 2],
         ["watcheth", 2],

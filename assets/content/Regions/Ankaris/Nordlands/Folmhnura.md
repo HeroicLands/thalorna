@@ -418,7 +418,7 @@ it gang tiv nasti eldsdulm inn heimla hern. merka than, mannvar‼
 tvei skelva, tveinri./
 skirv. motna. skervma es skirv. nel inn skip neng./
 thenva lagna or skipsteld nifra snirvef at sta na ir legva thenva./
-merga, hvern henva nel kan stann miv styrma‼/
+merga, hvern henva nel kan stann miv stirma‼/
 skuldma tiv henva es gang na thenva inn skip./
 ir komri tiv it nathri, nel nura.
 

@@ -93,9 +93,9 @@ And we sang at his door, and he looked in our face.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=greeting}
-Good king in thy chair, we haven known thee of old,/
-Thy hall and thy chapel, thy kin in the mould./
-Thy grandsirees grandsire was krowned in this plase,/
+Good king in thi chair, we haven known thee of old,/
+Thi hall and thi chapel, thi kin in the mould./
+Thi grandsirees grandsire was krowned in this plase,/
 And we sang at his door, and he looked in our fase.
 :::
 
@@ -137,8 +137,8 @@ That could ride all his land ere the sun went to rest.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=gift}
-There was never a krown but was given by hands,/
-And thine by the barons that holden their lands./
+There was never a krown but was given bi hands,/
+And thine bi the barons that holden their lands./
 They set it on Drethar, a lord like the rest,/
 That kould ride all his land ere the sun went to rest.
 :::
@@ -205,7 +205,7 @@ Are the king's to the acorn, the king's to the sky.
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=royaloaks}
 We may look on the timber, and look till we freeze,/
 For the law is a pale about all of the trees,/
-And the oaks that stood over our grandsireses first kry/
+And the oaks that stood over our grandsireses first kri/
 Ben the kinges to the akorn, the kinges to the sky.
 :::
 
@@ -247,8 +247,8 @@ And a fire in the hollow is health to the king.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=health}
-So we drinken thy health, and we drinken with kare,/
-For thy health is our harvest, our bread and our share./
+So we drinken thi health, and we drinken with kare,/
+For thi health is our harvest, our bread and our share./
 But a man that is kold hath no breath for to sing,/
 And a fire in the hollow is health to the king.
 :::
@@ -278,7 +278,7 @@ Ye shall none of ye shiver, ye lie very still.
 Now over the wall, to the yard at the bak,/
 Where the kings lien a row and the yew trees ben blak./
 Good night to you, kings, that haven eaten your fill./
-Ye shall none of you shiver. Ye lien very still.
+Ye shall none of you shiver. Ye lien veri still.
 :::
 
 _The burden is not sung over the wall._
@@ -330,7 +330,7 @@ The door is opened. The king standeth in it, or the steward, and saith.
 > "Ye have asked it well, and ye shall have it. Go up at first light, and fell the tree my forester hath marked, and that one and no other. Wassail."
 
 ::: {lang=aelw font=serif}
-Ye haven asked it well, and ye shall have it. Go up at first light, and fell the tree my forester hath marked, and that one and no other. Wassail.
+Ye haven asked it well, and ye shall have it. Go up at first light, and fell the tree mi forester hath marked, and that one and no other. Wassail.
 :::
 
 _The singers answer:_ "Wassail, and [[affiliation-arldnpnthn|the Twelve]] keep thee."
@@ -349,7 +349,7 @@ And sing thee again when the snow lieth white.
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=home}
 Now thanks to the king, and good night to the hall,/
 And the Twelve keepen the chair, and the krown, and us all./
-We will fell it at morning, and burn it by night,/
+We will fell it at morning, and burn it bi night,/
 And sing thee again when the snow lieth white.
 :::
 
@@ -375,7 +375,7 @@ And the barons remember, and so do the men.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=steward}
-The chair it is empty, the steward sitteth by,/
+The chair it is empti, the steward sitteth bi,/
 And he keepeth the kinges wood as dear as his eye,/
 But a krown that is a gift may be asked for again,/
 And the barons rememberen, and so doen the men.

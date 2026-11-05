@@ -292,7 +292,7 @@ hverv tharf vrastma ok vrond nura?/
 hlev na hverv skalfna miv hrosk?/
 hanv gang vegri tiv varnmarl,/
 nel vikt virdma inn solvma./
-skyld drak dreng./
+skild drak dreng./
 dulvma drak andri slak na hanv.
 
 vatna hremna vargrand./
@@ -336,7 +336,7 @@ staf eiv narl, sterna stap./
 varma na vatna risna rund hanv./
 snirna slak smol skip./
 nifra hanv knerv samna, krast./
-svarti njorva gruma miv storg styrma./
+svarti njorva gruma miv storg stirma./
 hanv liftva kallri na eldstrik, ljormi./
 hanv luvra hamri falna fast.
 

@@ -21,6 +21,11 @@ data:
       - {letters: [ei], kind: vowel pair, like: day, ipa: eɪ}
       - {letters: [oi], kind: vowel pair, like: boy, ipa: ɔɪ}
       - {letters: [ou], kind: vowel pair, like: soul, ipa: oʊ}
+      - {letters: [ay], kind: vowel pair, like: "eye, the same as ai", ipa: aɪ}
+      - {letters: [ey], kind: vowel pair, like: "day, the same as ei", ipa: eɪ}
+      - {letters: [oy], kind: vowel pair, like: "boy, the same as oi", ipa: ɔɪ}
+      - {letters: [iy], kind: vowel pair, like: "ee, closing on a slight y", ipa: ij}
+      - {letters: [uy], kind: vowel pair, like: "ooey, said as one syllable", ipa: uj}
       - letters: [aa]
         kind: long vowel
         like: "the a of father, held a little; a single a is fine"
@@ -76,7 +81,7 @@ data:
         like: "a catch in the throat, the pause in uh-oh; after a consonant, that consonant is said with the same catch; the consonant said plainly is fine"
         ipa: ʔ
     marks:
-      - {mark: acute, letters: [á, é, í, ó, ú, ý], kind: stress, limit: one}
+      - {mark: acute, letters: [á, é, í, ó, ú], kind: stress, limit: one}
       - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: apart, limit: any}
       - {mark: grave, letters: [à, ì, ò, ù], kind: quality, limit: any}
 ---
@@ -121,7 +126,7 @@ So _siri_ is _SEE-ree_, /ˈsiri/, _oro_ is _OH-roh_, /ˈoro/, and _lunu_ is _LOO
 
 ### Vowel groups
 
-Five pairs of vowels are glides, each said as one syllable:
+Five pairs of vowels are glides, each said as one syllable, and so is a vowel followed by a closing _y_:
 
 ```sql
 SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Group",
@@ -130,6 +135,10 @@ FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'vowel p
 ```
 
 So _kaira_ is _KYE-rah_, /ˈkaɪrɑ/, _taum_ is _towm_, /taʊm/, _meiro_ is _MAY-roh_, /ˈmeɪro/, _soin_ is _soyn_, /sɔɪn/, and _koulo_ is _KOH-loh_, /ˈkoʊlo/.
+
+_ay_, _ey_ and _oy_ sound just like _ai_, _ei_ and _oi_: _kay_ is _kye_, /kaɪ/, _seyn_ is _sane_, /seɪn/, and _moy_ rhymes with _boy_, /mɔɪ/. _iy_ is an _ee_ that closes on a slight _y_, as in _siy_, /sij/, and _uy_ is _ooey_ said as one syllable, as in _kuy_, /kuj/.
+
+A _y_ joins the vowel before it only where no vowel follows it. Before a vowel, _y_ starts the next syllable instead: _kaya_ is _KAH-yah_, /ˈkɑjɑ/, and _koyo_ is _KOH-yoh_, /ˈkojo/.
 
 Any other two vowels side by side are both said, each its own syllable: _koa_ is _KOH-ah_, /ˈkoɑ/, and _kao_ is _KAH-oh_, /ˈkɑo/.
 
@@ -223,7 +232,7 @@ A toned syllable is also the stressed one, unless an acute sits elsewhere in the
 
 ## Counting syllables
 
-Every vowel or vowel group makes one syllable, and _y_ is never a vowel. Read a word from left to right, taking the longest group of letters this guide lists first: each letter belongs to only one group. Capital letters sound the same as small ones.
+Every vowel or vowel group makes one syllable, and _y_ is never a vowel: it is the consonant of _yes_, or it closes a glide after a vowel. Read a word from left to right, taking the longest group of letters this guide lists first: each letter belongs to only one group. The one exception is a glide that ends in _y_, which is not taken when a vowel follows, because that _y_ starts the next syllable. Capital letters sound the same as small ones.
 
 A hyphen inside a word keeps two letters from forming a group, without adding a sound or a second stress: _as-ha_ has an _s_ and then an _h_, /ˈɑshɑ/, while _asha_ has the _sh_ of _ship_, /ˈɑʃɑ/. A compound is read as one word, with one stress. A stem written with a hyphen at its end, such as _zevr-_, is never said alone; it is always joined to an ending that opens on a vowel.
 

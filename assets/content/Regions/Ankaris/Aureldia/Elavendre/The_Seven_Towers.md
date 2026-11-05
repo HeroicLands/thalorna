@@ -125,30 +125,30 @@ halte onsaa oltandi nerve ahi erni ehii ilnava kaldistos/
 .rilpa evi selpai ressa ralten vennas halte eltane ralti/
 setty onsaa ilpe raltitos ralti onsâa/
 .sattai ehii onsaa olteho varinne vennas ennos erni ehii/
-vyste vennas onsaa evi ovaikke sorkanda
+vìste vennas onsaa evi ovaikke sorkanda
 
 evatte onsaa ulpes ovûu ulpes ehii nuuvatos/
 .lemmes ehii teipan ulpes onsa ennos ehii sennevi onsa/
-halte onsaa seipan leesy sorkanda somarriho/
+halte onsaa seipan leesì sorkanda somarriho/
 .rappan lanteppi teipan pelpe onsa polpeho/
 sattai aulira ukken roselo evi oltarneho/
 .sattai onsa lonku ilevaho erme/
-ylpi ehii ileva auliraho ahi evatte ehii sennave/
+ìlpi ehii ileva auliraho ahi evatte ehii sennave/
 .ahi meeve ehii ileva sorkandaho
 
 halte onsaa ralti olvatte ralti aiva/
 .ressa ralti ralti salpuho virnis onsa liseri onsa/
-aulten ralti salpu vennas leesy ahi vaukka evette oluho/
-.holdi leesy holdi leesy somarriho aulira onsaa somarriho/
+aulten ralti salpu vennas leesì ahi vaukka evette oluho/
+.holdi leesì holdi leesì somarriho aulira onsaa somarriho/
 ahi maskari ehii ahi meeve ehii onsa maskari lonku aiva/
 .luuro ehii ilnava ahi velpe ehii olnaro/
-alte setty ehii aulten sennave eso leesyhe hissel ehii/
+alte setty ehii aulten sennave eso leesìhe hissel ehii/
 .ahi eho aldis tellame hisseltos ehiiho
 
 irpa melke sorkandaho/
 .osotos irnarsa iltettu/
 setty irtalmelke tirvaliho vaukka onsa evette/
-.irtal evette irtalleesyhe remis onsa ehii ulsen/
+.irtal evette irtalleesìhe remis onsa ehii ulsen/
 ravatto ultas tirvaliho ahi velpe onsa/
 .tupe nysse vennas melke nysse vennas onsaa
 
@@ -160,12 +160,12 @@ pehe irnanno vennas raakke onsaa onsaa eilava olteho/
 erni ehii sennai eilava ennos taumel irnanno vennas/
 .yinse ehii erme ahi hessave ehii ervu
 
-evi eho sytte/
-.ulpes sytte seipan leesyhe sendeppi eltes/
-irna sytte maulpe vennas aldis holdi leesy issalteho/
-.luuro sytte roselo ahi saltai lirne onsaa seltoho/
-.sannai irnanno vennas onsaa hiakke vennas irtalleesyhe/
-ahi niltu koldi oso ovanne sytteny/
+evi eho sìtte/
+.ulpes sìtte seipan leesìhe sendeppi eltes/
+irna sìtte maulpe vennas aldis holdi leesì issalteho/
+.luuro sìtte roselo ahi saltai lirne onsaa seltoho/
+.sannai irnanno vennas onsaa hiakke vennas irtalleesìhe/
+ahi niltu koldi oso ovanne sìttenì/
 .evanni ehii irnanno vennas ilte vandel onsaa erni onsaa
 
 irtal kastaikko aunekkeho nalduho tunes/
@@ -183,11 +183,11 @@ tenvas oltarne enneli eso aunekkeho osotos aldis onsa kostemi vennas/
 .setty onsaa ilpe kaldistos kaldis onsaa ulsen/
 sorkanda onsa somarri ahi velpe aulira sorkandaho/
 .entel irpa melke oluho ahi leval ehii/
-sendeppi sytte selto nerveho insu eho sytte talnavaho/
-.irna sytte maulpe vennas insu ahi erni onsaa koldi
+sendeppi sìtte selto nerveho insu eho sìtte talnavaho/
+.irna sìtte maulpe vennas insu ahi erni onsaa koldi
 
 kessave ovuu koldi vennas luuro ehii onsaa ellun rosel/
-.kessave ovuu aulira kessave ovuu melke evi sytte/
+.kessave ovuu aulira kessave ovuu melke evi sìtte/
 launel onsa ummes ilnavatos/
 .onsa ellevi vennas ehii evi ehii[—]{lang=zxx}
 :::

@@ -5865,7 +5865,7 @@ data:
     - {name: Mivios, tongue: byzarian}
     - {name: Morzáhr, tongue: byzarian, built: [morz-, -áhr]}
     - {name: Mother Superior Hezogeze Sogipidek, tongue: translation}
-    - {name: Mirthana Kervanion, tongue: helonic, built: [myrthan-, -a, kervan-, -ion]}
+    - {name: Mirthana Kervanion, tongue: helonic, built: [mirthan-, -a, kervan-, -ion]}
     - {name: Mirtelos, tongue: helonic}
     - {name: Naulakit, tongue: byzarian, built: [naul-, -ákit]}
     - {name: Navy of Bethua, tongue: translation}
@@ -6111,7 +6111,7 @@ data:
     - {name: Tabira the Wise, tongue: translation}
     - {name: Agelis, tongue: helonic}
     - {name: Euthalos, tongue: helonic}
-    - {name: Ythros, tongue: helonic}
+    - {name: Ithros, tongue: helonic}
     - {name: Command of the Unpaid Fort, tongue: translation}
     - {name: The Fort's Commission, tongue: translation}
     - {name: Turned off the Pass, tongue: translation}
@@ -6388,6 +6388,9 @@ data:
       instead: Incantation
       why: "a word of an Earth tongue, for a working of the arcane"
     - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
+    - {form: myrthan, instead: mirthan, why: y is never a vowel}
+    - {form: ythrides, instead: ithrides, why: y is never a vowel}
+    - {form: ythros, instead: ithros, why: y is never a vowel}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6425,7 +6428,7 @@ Helonik is the tongue of drama and argument. It is clear-voweled and fond of bre
 
 **What Helonik leaves out.** It has no _zh_, _sh_ or _q_, which belong to Bizarian and [[skill-taruzelilng|Taruzeli]]. It has no _y_ as a vowel, since the guide reads _y_ as in _yes_.
 
-**Verse.** Helonik verse counts beats and does not rhyme. Its nouns and verbs close on a handful of shared endings, so a rhyme would only repeat a grammar ending, and a line is measured by its stressed syllables instead. The rhapsodes' long line has six beats: the epics and the teaching poems are sung in it, and the heralds' asking is said in it. The choral odes of the stage and the sayings of the schools keep a short line of four beats, and a turn and its answering turn have the same number of lines. A telling in prose, such as a legend the priests tell at an altar, is not counted. The craft is in the fixed epithet that returns with a name (_Ythros egeirir er ithrin_, Ythros the fire-wakeful), the formula repeated whole or changed by a single word, the simile opened with _hoth_ and closed with _hometh_, the catalog, and the same word opening line after line.
+**Verse.** Helonik verse counts beats and does not rhyme. Its nouns and verbs close on a handful of shared endings, so a rhyme would only repeat a grammar ending, and a line is measured by its stressed syllables instead. The rhapsodes' long line has six beats: the epics and the teaching poems are sung in it, and the heralds' asking is said in it. The choral odes of the stage and the sayings of the schools keep a short line of four beats, and a turn and its answering turn have the same number of lines. A telling in prose, such as a legend the priests tell at an altar, is not counted. The craft is in the fixed epithet that returns with a name (_Ithros egeirir er ithrin_, Ithros the fire-wakeful), the formula repeated whole or changed by a single word, the simile opened with _hoth_ and closed with _hometh_, the catalog, and the same word opening line after line.
 
 ## Phonology
 

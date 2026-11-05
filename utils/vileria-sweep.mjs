@@ -132,7 +132,7 @@ const LINE_FIELDS = [
     /\bform:\s*(?:"[^"\n]*"|'[^'\n]*'|[^,}\n]*)/u.source,
     /^\s*(?:-\s+)?(?:shortcode|tags?|packFolder|icon|pack|tongue):[^\n]*$/mu.source,
 ];
-const PROTECTED = [...SPANS, ...LINE_FIELDS].join("|");
+export const PROTECTED = [...SPANS, ...LINE_FIELDS].join("|");
 
 /** Fields whose values, at any depth, are shortcodes, addresses or enumerated identifiers. */
 const IDENTIFIER_KEYS = new Set([

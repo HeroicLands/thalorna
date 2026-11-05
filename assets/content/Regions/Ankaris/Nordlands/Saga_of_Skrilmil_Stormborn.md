@@ -387,7 +387,7 @@ plem berva barma na svelthma./
 tamkva felga ferri./
 drum hrosk hrav theri aukri./
 krast hrud kan hrav./
-vrul skyld tharv hlun vul.
+vrul skild tharv hlun vul.
 
 skromi es hurvi plemir ok skarth plemir./
 hveri hluva es knurdi plemir firn nem./

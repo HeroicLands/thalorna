@@ -16,7 +16,7 @@ data:
       stated: {calendar: wintertally, text: "193 SR"}
       sources: [place-skathwald, place-grkrhlmrgn, lore-grukarfolk, place-grimak]
       summary: >-
-        A Grukar tribe that has outgrown its ground carries a young spawner deep into the famine-emptied forest of Skathwald and wakes a new nest in a marsh thicket among Varokh villages. In one winter it takes three villages. The survivors walk west under Mahnilda yra Erthrúnd wur Mahnreth, a household mistress of one of them, and cut the clearing that becomes Mahnreth.
+        A Grukar tribe that has outgrown its ground carries a young spawner deep into the famine-emptied forest of Skathwald and wakes a new nest in a marsh thicket among Varokh villages. In one winter it takes three villages. The survivors walk west under Mahnilda ira Erthrúnd wur Mahnreth, a household mistress of one of them, and cut the clearing that becomes Mahnreth.
       standing: attested
       names: [{name: the Waking at Grimak, by: lore-varokhiclt}]
       where:
@@ -40,7 +40,7 @@ data:
       stated: {calendar: wintertally, text: "197 SR"}
       sources: [place-skathwald, place-grimak, lore-grukarfolk, lore-bloodfield]
       summary: >-
-        Four winters after the waking, the Skathwald villages raise a common muster under Grimulf yra Skathrúnd wur Grimstein, go in over the frozen marsh in deep winter and burn the nest with its spawner in it. The fight in the thicket kills most of the tribe and a third of the muster. Mahnreth raises an empty mound, Mahnhrum, for the people the Grukar had taken, since nothing of them was left to bury.
+        Four winters after the waking, the Skathwald villages raise a common muster under Grimulf ira Skathrúnd wur Grimstein, go in over the frozen marsh in deep winter and burn the nest with its spawner in it. The fight in the thicket kills most of the tribe and a third of the muster. Mahnreth raises an empty mound, Mahnhrum, for the people the Grukar had taken, since nothing of them was left to bury.
       standing: attested
       names: [{name: the Burning at Grimak, by: lore-varokhiclt}]
       where:
@@ -68,11 +68,11 @@ The account of The Burning at Grimak begins at [[place-mahnryth|Mahnreth]] in [[
 
 The famine of [[lore-threewinters|the Three Winters]] emptied the eastern forest. Villages that had held Skathwald's clearings against the Grukar for centuries lost a third of their people, and the ones that were left drew in toward each other and stopped walking their old bounds. [[place-grkrhlmrgn|Grukarholm]] is a prevalence and not a country, and a Grukar tribe that outgrows its ground does not cross a border to bud: a faction carries a young spawner, an Ahk, far enough from its parent to wake, and any unclaimed forest will serve.
 
-About 532 one did, in a marsh thicket among Varokh villages in the emptied east. Nobody saw it coming, because nobody was walking that ground any more. In one winter the new tribe took three villages. The reciters do not agree which fell first or why none of them called the others in time, and the question is still asked in Skathwald with an edge in it. The survivors of the three walked west in deep winter under [Mahnilda yra Erthrúnd wur Mahnreth]{.name data-type="being/npc"}, a household mistress of one of them, carrying what stores they had left, and cut a clearing a day's walk from the nearest village. It became Mahnreth, the clearing of the kinsmen. One of the lost villages had kept its totem in a standing stone, and its scattered families still visit the stone at [[place-weskstein|Weskstein]], where a village has grown up around it since.
+About 532 one did, in a marsh thicket among Varokh villages in the emptied east. Nobody saw it coming, because nobody was walking that ground any more. In one winter the new tribe took three villages. The reciters do not agree which fell first or why none of them called the others in time, and the question is still asked in Skathwald with an edge in it. The survivors of the three walked west in deep winter under [Mahnilda ira Erthrúnd wur Mahnreth]{.name data-type="being/npc"}, a household mistress of one of them, carrying what stores they had left, and cut a clearing a day's walk from the nearest village. It became Mahnreth, the clearing of the kinsmen. One of the lost villages had kept its totem in a standing stone, and its scattered families still visit the stone at [[place-weskstein|Weskstein]], where a village has grown up around it since.
 
 ## The Burning
 
-For four winters the nest grew, and the raids out of the thicket grew with it. In 536 the Skathwald villages did what the reach had never done against the Grukar: their elders met, agreed that the danger was common to all of them, and acclaimed one War Chief, [Grimulf yra Skathrúnd wur Grimstein]{.name data-type="being/npc"}. He waited for the hardest freeze of the winter, when the marsh would bear a man, and took the muster in over the ice at first light.
+For four winters the nest grew, and the raids out of the thicket grew with it. In 536 the Skathwald villages did what the reach had never done against the Grukar: their elders met, agreed that the danger was common to all of them, and acclaimed one War Chief, [Grimulf ira Skathrúnd wur Grimstein]{.name data-type="being/npc"}. He waited for the hardest freeze of the winter, when the marsh would bear a man, and took the muster in over the ice at first light.
 
 The Grukar fight hardest at the spawner, and the muster had to cut its way to the spawn-chamber at the thicket's heart through the whole tribe. It burned the chamber with the Ahk in it and fired the thicket behind it. Most of the tribe died in the burning and the fight before it, and so did a third of the muster. The muster's own dead were carried out, named and burned, and went home. The people the Grukar had taken in the four winters before had already been eaten, and there was nothing of them to carry.
 

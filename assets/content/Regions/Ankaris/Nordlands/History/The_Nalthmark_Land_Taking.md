@@ -37,7 +37,7 @@ data:
           withholds: that the fire-walking shows what the settlers believe and not that the grove was theirs to take
         - by: lore-varokhiclt
           says: >-
-            The grove is the Eichthúl's, its oldest oaks hold the kindred's spirits and its ground holds the kindred's dead, and no fire walked around it by strangers makes it anybody else's. Mahnulf yra Eichthúl wur Eichreth burned the first stockade, and Erthilda yra Eichthúl wur Eichreth, the kindred's Shaman, keeps the count of the dead under the settlers' posts.
+            The grove is the Eichthúl's, its oldest oaks hold the kindred's spirits and its ground holds the kindred's dead, and no fire walked around it by strangers makes it anybody else's. Mahnulf ira Eichthúl wur Eichreth burned the first stockade, and Erthilda ira Eichthúl wur Eichreth, the kindred's Shaman, keeps the count of the dead under the settlers' posts.
           agrees: disputes
           withholds: that the Eichthúl dead have lain unvisited since, because the Shaman will not cross the settlers' bounds to call them
       unresolved:
@@ -61,7 +61,7 @@ The account of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] is the settler
 
 The Eichthúl tell it as a theft and a desecration in one. The grove at Hrindstead is the Varokh kindred's own: its oldest oaks house the kindred's spirits, its ground holds the kindred's dead, and the Eichthúl kept it with the Shaman's leave for longer than their _eldskorn_ (ancestor tally) remembers names. In 708 strangers planted posts in it and walked fire around it, which in the forest is how a man shows he means to burn something.
 
-[Mahnulf yra Eichthúl wur Eichreth]{.name data-type="being/npc"}, War Chief of the kindred's village, burned the first stockade within the month. The settlers raised the second on the same posts, and Mahnulf has not yet been given the muster he would need to burn it, because the danger is the Eichthúl's and the neighboring villages' elders have not agreed it is theirs. [Erthilda yra Eichthúl wur Eichreth]{.name data-type="being/npc"}, the kindred's Shaman, keeps the count of the Eichthúl dead who lie under the settlers' floors. She will not cross the settlers' bounds to call them home while the posts stand, and she has not called them since 708, so every winter the count is recited at [Weskskald]{.name data-type="lore/gathering"} with nothing after it. That is the grievance the Eichthúl state first, before the trees and before the ground.
+[Mahnulf ira Eichthúl wur Eichreth]{.name data-type="being/npc"}, War Chief of the kindred's village, burned the first stockade within the month. The settlers raised the second on the same posts, and Mahnulf has not yet been given the muster he would need to burn it, because the danger is the Eichthúl's and the neighboring villages' elders have not agreed it is theirs. [Erthilda ira Eichthúl wur Eichreth]{.name data-type="being/npc"}, the kindred's Shaman, keeps the count of the Eichthúl dead who lie under the settlers' floors. She will not cross the settlers' bounds to call them home while the posts stand, and she has not called them since 708, so every winter the count is recited at [Weskskald]{.name data-type="lore/gathering"} with nothing after it. That is the grievance the Eichthúl state first, before the trees and before the ground.
 
 ## What It Left
 

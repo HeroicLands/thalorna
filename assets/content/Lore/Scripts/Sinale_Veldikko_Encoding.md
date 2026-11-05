@@ -56,6 +56,7 @@ data:
     ú: [SIGN_U, EMPHASIS]
     y: SIGN_Y
     ý: [SIGN_Y, EMPHASIS]
+    ì: SIGN_Y
     j: SIGN_Y
     aa: [SIGN_A, LONG]
     áa: [SIGN_A, LONG, EMPHASIS]
@@ -251,6 +252,9 @@ data:
       - {match: ý, emit: [CARRIER, SIGN_Y, EMPHASIS, CARRIER], before: vowel, at: start}
       - {match: ý, emit: [CARRIER, SIGN_Y, EMPHASIS], at: start}
       - {match: ý, emit: [SIGN_Y, EMPHASIS, CARRIER], before: vowel}
+      - {match: ì, emit: [CARRIER, SIGN_Y, CARRIER], before: vowel, at: start}
+      - {match: ì, emit: [CARRIER, SIGN_Y], at: start}
+      - {match: ì, emit: [SIGN_Y, CARRIER], before: vowel}
       - {match: j, emit: [CARRIER, SIGN_Y], at: start}
       - {match: aa, emit: [CARRIER, SIGN_A, LONG, CARRIER], before: vowel, at: start}
       - {match: aa, emit: [CARRIER, SIGN_A, LONG], at: start}
@@ -2382,7 +2386,7 @@ data:
       - match: úoûu
         emit: [SIGN_U, EMPHASIS, SIGN_O, CARRIER, SIGN_U, LONG, FALL, CARRIER]
         before: vowel
-  vowels: aeiouyáéíóúýǎâǐîǔû
+  vowels: aeiouyìáéíóúýǎâǐîǔû
 ---
 
 This encoding writes [[skill-sinalelng|Sinale]] in veldikko. A passage selects it with `enc=sinaveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
@@ -2395,7 +2399,7 @@ This encoding writes [[skill-sinalelng|Sinale]] in veldikko. A passage selects i
 - **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
 - **_s_ followed by _h_ writes both consonants**, including where _-ho_ follows a stem ending in _s_.
 - **A doubled consonant is its letter once, with the length bar beneath it.**
-- **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_ and _y_ are six marks.
+- **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_ and _y_ are six marks, and the front vowel _ì_ is written with the _y_ mark.
 - **A vowel at the start of a word, or sounded apart from the one before it, stands on the carrier.**
 - **A doubled _aa_, _ii_ or _uu_ is one long mark**, and any other doubled vowel, such as _ee_, is two marks, the second on the carrier.
 - **A diphthong is two marks over one letter**, in the order they are said: _ai_, _au_, _ia_, _eo_, _oi_, _ou_, _ui_, _uo_, _ei_, _ie_, _yi_ and _ye_.

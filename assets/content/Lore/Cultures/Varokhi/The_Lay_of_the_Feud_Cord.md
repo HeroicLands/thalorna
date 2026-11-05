@@ -113,7 +113,7 @@ Wemra berwe hem, bembra utwe fran Grimskorn ter Harvith/
 threm mowen frar wemi, vird thewen werka theora,/
 vird nawen nefra nengra stelwen er heir. Nefra komwe.
 
-Armund thum yra Grimskorn, vird Skathrik thum frithwin er hem,/
+Armund thum ira Grimskorn, vird Skathrik thum frithwin er hem,/
 eom grema junri, wenga ter andwen wenga./
 Ter frath eom wathra, nefren eom wathra,/
 frath thum niwen junri. Wi tavra niwen.
@@ -163,7 +163,7 @@ glawra niwer et bembreth, komwe gendre et nefren./
 Skathrik na bembra. Hem malwen sta er hem, vird hem thum theora.
 
 Birwen et salra, drethi thei tenra fendar,/
-Armund skerna skern et falweril, vird Vristulf yra Harvith/
+Armund skerna skern et falweril, vird Vristulf ira Harvith/
 skerna andwen skern nivre skern er Armund./
 Gerwen wenga feor werka, finwe skern er andwen,/
 brold nengra inwe wethan er thewen marwen./
@@ -176,7 +176,7 @@ Skern grula, werhul ludra howra thewen.
 :::
 
 ::: {.verse form=prose lang=varo enc=varosemaronenc work=vow-reckoning}
-**Tavreth er Skathár.** Edrarún halwen hem, Skathár wur Othholt, vird mawen nather hem. Armund yra Grimskorn, Druthmund, wredri inwe werlak et rend threm dagren nather wathra. Wethan thum Vristulf yra Harvith, mi brold, et larg, slagren frar hem, feor birwen thewen marwen malwen er hemwen. Harvith harve skuldren, erwen bludwirdra er marwen. Harvith bubra et rend eom munra nather, frar threm sethar, inwe hemra er Grimskorn, fedr tenra skurth er grema, marth, fukth, badra mi fedr hralwen, ukthe, hraldi melgud, thei Othmund, marwen virwe bemra fran sudren, vird helwen er werlak er Harvith ter othwa er Armund, Árhilda, hem harve fimra grema. Edrarún skatha hem lurni. Othrún er Grimskorn malwen rend eom, mowen er Skathrik virwe Armund.
+**Tavreth er Skathár.** Edrarún halwen hem, Skathár wur Othholt, vird mawen nather hem. Armund ira Grimskorn, Druthmund, wredri inwe werlak et rend threm dagren nather wathra. Wethan thum Vristulf ira Harvith, mi brold, et larg, slagren frar hem, feor birwen thewen marwen malwen er hemwen. Harvith harve skuldren, erwen bludwirdra er marwen. Harvith bubra et rend eom munra nather, frar threm sethar, inwe hemra er Grimskorn, fedr tenra skurth er grema, marth, fukth, badra mi fedr hralwen, ukthe, hraldi melgud, thei Othmund, marwen virwe bemra fran sudren, vird helwen er werlak er Harvith ter othwa er Armund, Árhilda, hem harve fimra grema. Edrarún skatha hem lurni. Othrún er Grimskorn malwen rend eom, mowen er Skathrik virwe Armund.
 :::
 
 : Before the Three Seats {#seats}
@@ -680,7 +680,7 @@ Vristulf of the Harvith, killed at the landing in _grema_ by Skathrik, in the op
 :::
 
 ::: {.verse form=prose lang=varo enc=varosemaronenc work=first-reckoning}
-Vristulf yra Harvith, wredri et moreth inwe grema. Wethan thum Skathrik, utwe, slagren frar hem. Grimskorn harve skuldren, erwen bludwirdra er marwen. Othrún er Grimskorn bubra threm ku. Marwen er Harvith nawra, mi malwa er Skathrik. Dreth er Harvith, dretha, eom. Thei er Harvith, et rethwen, fran fedr er niwen. Dreth er Harvith, threm. Bemra er frithwina er Skathrik, et hreth, fran Harvith. Dreth er Grimskorn, thei. Et wathra othrún er Harvith bubra rend thei renwen rend eom wirdwen, Skathár halwen hem buwra, vird hem frawna nawen feor threm orwe dreth er hem selwen. Skathrik nawra. Marwen er Harvith nawra, vird nawen mawen frawna hemwen.
+Vristulf ira Harvith, wredri et moreth inwe grema. Wethan thum Skathrik, utwe, slagren frar hem. Grimskorn harve skuldren, erwen bludwirdra er marwen. Othrún er Grimskorn bubra threm ku. Marwen er Harvith nawra, mi malwa er Skathrik. Dreth er Harvith, dretha, eom. Thei er Harvith, et rethwen, fran fedr er niwen. Dreth er Harvith, threm. Bemra er frithwina er Skathrik, et hreth, fran Harvith. Dreth er Grimskorn, thei. Et wathra othrún er Harvith bubra rend thei renwen rend eom wirdwen, Skathár halwen hem buwra, vird hem frawna nawen feor threm orwe dreth er hem selwen. Skathrik nawra. Marwen er Harvith nawra, vird nawen mawen frawna hemwen.
 :::
 
 : The Harvith Hall {#harvith}

@@ -438,7 +438,7 @@ vri snuld siv thenva, snul./
 kinli spurni nafma ok naft./
 alva mannva skelra dulm, dulvi./
 marl na halvma ok hlevma/
-hvern halvma es dyrva, drav‼/
+hvern halvma es dirva, drav‼/
 marl na smivma, smivri,/
 vrondna af brakma ok vrakva‼/
 marl na gandma ok geldra/

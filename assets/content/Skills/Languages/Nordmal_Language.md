@@ -4843,7 +4843,7 @@ data:
       gloss: a command; an instruction given with authority
       field: Everyday speech
       concept: command-noun
-    - form: bodfyl
+    - form: bodfil
       class: n
       gloss: obedience; acting as commanded or required
       field: Everyday speech
@@ -5478,7 +5478,7 @@ data:
     - {form: sveldmann, class: n, field: Everyday speech, gloss: manholdingatingseat}
     - {form: konung, class: n, field: Everyday speech, gloss: king}
     - {form: skipgnum, class: n, field: Everyday speech, gloss: ship's cargo hold}
-    - {form: dyrva, class: adj, field: Everyday speech, gloss: "dear, costly"}
+    - {form: dirva, class: adj, field: Everyday speech, gloss: "dear, costly"}
     - {form: strandvald, class: n, field: Everyday speech, gloss: shore holder}
     - {form: skuldrelth, class: n, field: Everyday speech, gloss: hall's standingcreditaccount}
     - {form: havmaglis, class: n, field: Everyday speech, gloss: theft}
@@ -5653,8 +5653,8 @@ data:
     - {form: skipmann, class: n, field: Everyday speech, gloss: sailor}
     - {form: smivhugnim, class: n, field: Everyday speech, gloss: craft knowledge}
     - {form: hovri, class: adj, field: Everyday speech, gloss: sacred}
-    - {form: rygva, class: n, field: Everyday speech, gloss: ridge}
-    - {form: myrva, class: n, field: Everyday speech, gloss: marsh}
+    - {form: rigva, class: n, field: Everyday speech, gloss: ridge}
+    - {form: mirva, class: n, field: Everyday speech, gloss: marsh}
     - {form: landheim, class: n, field: Everyday speech, gloss: farm}
     - {form: nafmri, class: n, field: Everyday speech, gloss: name giver}
     - {form: borgva, class: n, field: Everyday speech, gloss: fort}
@@ -5701,7 +5701,7 @@ data:
     - {form: frostlan, class: n, field: Everyday speech, gloss: frost line}
     - {form: randlanma, class: n, field: Everyday speech, gloss: "rim row, shieldrank"}
     - {form: skeldrand, class: n, field: Everyday speech, gloss: shield edge}
-    - {form: myrask, class: n, field: Everyday speech, gloss: marsh ash tree}
+    - {form: mirask, class: n, field: Everyday speech, gloss: marsh ash tree}
     - {form: skilva, class: n, field: Everyday speech, gloss: ski}
     - {form: geirvard, class: n, field: Everyday speech, gloss: spear hedge}
     - {form: hugri, class: n, field: Everyday speech, gloss: thinker}
@@ -5864,7 +5864,7 @@ data:
       field: Everyday speech
       gloss: "terrible or dangerous to encounter"
     - {form: hrith, class: n, field: Everyday speech, gloss: "army or assembled war host"}
-    - {form: vigstyrma, class: n, field: Everyday speech, gloss: "warrior strength"}
+    - {form: vigstirma, class: n, field: Everyday speech, gloss: "warrior strength"}
     - {form: seidji, class: n, field: Everyday speech, gloss: "sorcerous skill"}
     - {form: holv, class: n, field: Everyday speech, gloss: "a great hall"}
     - {form: grimva, class: n, field: Everyday speech, gloss: "village"}
@@ -5872,7 +5872,7 @@ data:
     - {form: vardma, class: n, field: Everyday speech, gloss: "command directing another's action"}
     - {form: vardna, class: v, field: Everyday speech, gloss: "command another to act"}
     - {form: hratt, class: adv, field: Everyday speech, gloss: "quickly or at once"}
-    - {form: hravstyrma, class: n, field: Everyday speech, gloss: "strength lent to rapid running"}
+    - {form: hravstirma, class: n, field: Everyday speech, gloss: "strength lent to rapid running"}
     - {form: hlirm, class: n, field: Everyday speech, gloss: "hillside slope"}
     - {form: miskma, class: n, field: Everyday speech, gloss: "mercy or leniency"}
     - {form: sleip, class: adj, field: Everyday speech, gloss: "slippery underfoot"}
@@ -5901,13 +5901,13 @@ data:
     - {form: malma, class: n, field: Everyday speech, gloss: "claim laid upon someone"}
     - {form: hovband, class: n, field: Everyday speech, gloss: "organized temple cult"}
     - {form: serna, class: adj, field: Everyday speech, gloss: "separate or distinct"}
-    - {form: skyld, class: n, field: Everyday speech, gloss: "duty owed to one's people"}
+    - {form: skild, class: n, field: Everyday speech, gloss: "duty owed to one's people"}
     - {form: visk, class: adj, field: Everyday speech, gloss: "certain or assured"}
     - {form: vigrun, class: n, field: Everyday speech, gloss: "triumph or victory"}
     - {form: safna, class: v, field: Everyday speech, gloss: "gather people or things together"}
     - {form: atvigmark, class: n, field: Everyday speech, gloss: "target of hostile action"}
     - {form: geldna, class: v, field: Everyday speech, gloss: "praise someone in spoken words"}
-    - form: styrma
+    - form: stirma
       class: n
       field: Everyday speech
       gloss: "strength available for exertion or resistance"
@@ -6136,6 +6136,17 @@ data:
     - {form: hringr, instead: hringur, why: "an Earth word"}
     - {form: brandr, instead: brandur, why: "an Earth word"}
     - {form: Aelwyth, instead: Eilwith, why: respelled to Pronouncing Thalorna}
+    - {form: bodfyl, instead: bodfil, why: y is never a vowel}
+    - {form: dyrva, instead: dirva, why: y is never a vowel}
+    - {form: hravstyrma, instead: hravstirma, why: y is never a vowel}
+    - {form: myrask, instead: mirask, why: y is never a vowel}
+    - {form: myrva, instead: mirva, why: y is never a vowel}
+    - {form: rygva, instead: rigva, why: y is never a vowel}
+    - {form: skyld, instead: skild, why: y is never a vowel}
+    - {form: styrma, instead: stirma, why: y is never a vowel}
+    - {form: vigstyrma, instead: vigstirma, why: y is never a vowel}
+    - {form: thmyl, instead: thmil, why: y is never a vowel}
+    - {form: thyrsta, instead: thirsta, why: y is never a vowel}
 # terran_analog: the place-name layers follow Scandinavian toponymy: theophoric names such as Odensvi, Torsberg and Ullevi, a founder's name as in Grimsstadir, and the assembly's as in Thingvellir and Logberg.
 sohl:
   system:
@@ -6230,7 +6241,7 @@ FROM name_shapes WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY posit
 
 ### Weight, foot and beat
 
-Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favors put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favors put it at the front: AL-thmil, vra-THI-ra, hlarth-A-ruk.
 
 A name-stem is one syllable, so a stem-and-ending name runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count.
 
@@ -6276,7 +6287,7 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 "Ver gangum í fridi."
 : "We come in peace." (Formal diplomatic formula; _fridi_ comes from _fridur_, the peace a hall owes a guest.)
 
-"Thrunvald vakir, ulfar thyrsta!"
+"Thrunvald vakir, ulfar thirsta!"
 : "The Thunder-Wielder wakes, the wolves thirst!" (Battle cry, bound by its alliteration on _th_ rather than by rhyme.)
 
 "Tvau skip, ein ferd."

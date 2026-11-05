@@ -21,7 +21,7 @@ data:
         - affiliation-vylrnmltry
         - affiliation-vrystwldtrbs
       summary: >-
-        A legion of about five thousand marches up the Legions' Road in late summer to burn Waldburg and end the raids. The villages along its line raise the first common muster anyone can name and acclaim Dorgulf yra Grimskorn wur Thrastein its War Chief. The muster lets the legion reach the Moldún and takes it at the ford in the rain, with the column strung out across the water. Almost none of the legion leaves the forest, and its eagle goes into the river.
+        A legion of about five thousand marches up the Legions' Road in late summer to burn Waldburg and end the raids. The villages along its line raise the first common muster anyone can name and acclaim Dorgulf ira Grimskorn wur Thrastein its War Chief. The muster lets the legion reach the Moldún and takes it at the ford in the rain, with the column strung out across the water. Almost none of the legion leaves the forest, and its eagle goes into the river.
       standing: attested
       names:
         - {name: Skathhreth, by: lore-varokhiclt}
@@ -62,7 +62,7 @@ data:
       stated: {calendar: wintertally, text: "173 LR"}
       sources: [place-waldburg, lore-frodradrnk, being-thrnkbldtscbr]
       summary: >-
-        Dorgulf keeps the muster in arms through the winter after the battle and calls himself War Chief of the tribes. In the spring the elders who acclaimed him meet at Waldburg, and Vandilda yra Vethskald wur Dunkelwald, a Deepwood Shaman, breaks the talisman that stood for the common command so that nobody can hold it again; each village carries a fragment home. Dorgulf's own war-band leaves him, and the tellings disagree about how he died.
+        Dorgulf keeps the muster in arms through the winter after the battle and calls himself War Chief of the tribes. In the spring the elders who acclaimed him meet at Waldburg, and Vandilda ira Vethskald wur Dunkelwald, a Deepwood Shaman, breaks the talisman that stood for the common command so that nobody can hold it again; each village carries a fragment home. Dorgulf's own war-band leaves him, and the tellings disagree about how he died.
       standing: legendary
       names: [{name: the Breaking of the Talisman, by: lore-varokhiclt}]
       where:
@@ -90,7 +90,7 @@ Every Vilérian officer posted to [[place-moktur|Moktur]] learns the forest's na
 
 By the end of the second century AF [[lore-legionsroad|the Legions' Road]] ran north out of Moktur through [[place-vandstein|Vandstein]] with a post at every day's march, and the friendly chiefs the _therkoi_ (governors) had bought had been disowned by their own villages one after another. The raids on the road did not stop. In the late summer of 291 a legion of about five thousand marched up it to burn [[place-waldburg|Waldburg]], the river crossing where the raiders sold what they took, and to end the raids where they were paid for.
 
-The villages along the road did something they had never done. Their elders met, agreed that the danger was common to all of them, and acclaimed one War Chief for the response: [Dorgulf yra Grimskorn wur Thrastein]{.name data-type="being/npc"}, War Chief of [[place-thrastein|Thrastein]], whose village the road ran past. It was the first common muster anyone can name. Dorgulf did not meet the legion on the road. He let it march, burned what it left behind it, and kept his war-bands in the trees on either side of the column for nine days.
+The villages along the road did something they had never done. Their elders met, agreed that the danger was common to all of them, and acclaimed one War Chief for the response: [Dorgulf ira Grimskorn wur Thrastein]{.name data-type="being/npc"}, War Chief of [[place-thrastein|Thrastein]], whose village the road ran past. It was the first common muster anyone can name. Dorgulf did not meet the legion on the road. He let it march, burned what it left behind it, and kept his war-bands in the trees on either side of the column for nine days.
 
 ## The Ford in the Rain
 
@@ -102,13 +102,13 @@ The Empire struck the legion from its list, as a legion that loses its eagle mus
 
 A common War Chief's command ends with the response. Dorgulf's did not. He kept the muster in arms through the winter after the battle, fed it from the villages that had raised it, and called himself War Chief of the tribes. He had a case: the Empire still held the road, and a muster that went home could not be raised again in time. The elders had a better one, which every Varokh still knows by heart. A man who keeps a command after the danger has passed has made himself something the forest has never had and never wanted.
 
-In the spring the elders who had acclaimed him met at Waldburg. The talisman of the common command had stood for the muster's agreement since the elders first met, and [Vandilda yra Vethskald wur Dunkelwald]{.name data-type="being/npc"}, Shaman of [[place-dunkelwald|Dunkelwald]], broke it before them so that nobody could hold it again. Each village took a fragment home. A common War Chief is acclaimed now only when the elders lay their fragments together, and the command ends when they take them back. Dorgulf's own war-band left him that spring.
+In the spring the elders who had acclaimed him met at Waldburg. The talisman of the common command had stood for the muster's agreement since the elders first met, and [Vandilda ira Vethskald wur Dunkelwald]{.name data-type="being/npc"}, Shaman of [[place-dunkelwald|Dunkelwald]], broke it before them so that nobody could hold it again. Each village took a fragment home. A common War Chief is acclaimed now only when the elders lay their fragments together, and the command ends when they take them back. Dorgulf's own war-band left him that spring.
 
 The tellings disagree about what became of him, and the Varokh keep all three:
 
 - **The Thrastein telling.** He walked into the Moldún at the ford alone and went down where the eagle had, and the ford keeps him with the legion.
 - **The [[place-vethwald|Vethwald]] (Deepwood) telling.** The elders sent men after him, and Vandilda would not say whose.
-- **The telling nobody admits to.** He went south over the passes and took the _therkos_'s silver, as [Vristulf yra Theodhild wur Balthreth]{.name data-type="being/npc"} had, and died in Moktur an old man. Thrastein's reciters call this the Mokturan telling, and the Mokturans have never heard it.
+- **The telling nobody admits to.** He went south over the passes and took the _therkos_'s silver, as [Vristulf ira Theodhild wur Balthreth]{.name data-type="being/npc"} had, and died in Moktur an old man. Thrastein's reciters call this the Mokturan telling, and the Mokturans have never heard it.
 
 ## What It Left
 

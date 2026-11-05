@@ -182,7 +182,7 @@ The Thordimalon was born out of that tradition at the Epistémion, and Helionite
 
 The schools teach a city's songs, legends and plays as its record, and these are the works the cities quote:
 
-- [[lore-keelburning|The Burning of the Keel]] is the song Thirenae's rhapsode sings at the Games when the cities tell their founding claims, and through Ythros, who burned his keel to keep the fire alight on the headland, it claims for Thirenae the first vote, the first dead and the first fire on that shore.
+- [[lore-keelburning|The Burning of the Keel]] is the song Thirenae's rhapsode sings at the Games when the cities tell their founding claims, and through Ithros, who burned his keel to keep the fire alight on the headland, it claims for Thirenae the first vote, the first dead and the first fire on that shore.
 - [[lore-terracemsrs|The Measures of the Terraces]] is the second book a schoolboy learns and the highland villages' olive-harvest recitation, and it teaches that the world was voted into measure before it gives the year of the terrace, the friend bound with salt and the place in the line.
 - [[lore-firstasking|The Herald Who Asked for the Dead]] is the legend told at the heralds' altar before every meeting of the Games, and its six lines of the asking are the words every herald says on the field.
 - [[lore-veillessons|The Lessons of the Silver Veil]] are the sayings a girl of the Academy learns one year at a time from twelve to twenty, and copies of the first seven years circulate in every city where a graduate has served.

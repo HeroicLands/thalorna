@@ -268,7 +268,7 @@ hlusta tiv bakfardri heik nathli‼/
 snir berva sumri vul af lanva./
 vidma vakna miv forni hluna./
 svelthi kan stavi ner, sulvi./
-dyrva sta halv minma na dulm./
+dirva sta halv minma na dulm./
 relth hern marl na krund knerv/
 drav dulvi forha knelda it.
 
@@ -329,7 +329,7 @@ na livma it forhug halv, hulda.
 vri halv hnat andra glis, glisna./
 vri tholva mannvetr ok mannva./
 likva hern marl vornri, vakti ok stanni,/
-nimri es styrma nodri./
+nimri es stirma nodri./
 devri na vri nod velnma, vrili./
 vakt na vri vronda tiv dulm./
 komri ner, vati vegfardri, svul‼/
@@ -365,7 +365,7 @@ svelthi felga fast.
 gudi gang af dulv./
 blemi eldpinni ljorm legva or hlomta./
 hanv geldna velnri vornri./
-styrma stavi nath svelth./
+stirma stavi nath svelth./
 nágengir. hanv nafm it./
 velnri na nahild, naarva talvi./
 vigri hlun virdma./
@@ -375,7 +375,7 @@ hov tharf herni vakt./
 harnri hrith tharf likva ferri./
 likva hern gang geldra na gudi./
 likva hern skelmi forha skelra./
-vigstyrma ok seidji na seidri/
+vigstirma ok seidji na seidri/
 thenva helma dulvi forha na devri./
 fardri hlun eidma, hlusi,/
 na svelth bervna tiv livri ok livma.
@@ -386,7 +386,7 @@ vornri spurni, vakti ok nimri./
 skern safna hveri stapma ok stannma./
 hnir veg gang tiv grimva na thuv?/
 hverv vronda dverna at narl, vakti?/
-snel smiv hlus dyrva./
+snel smiv hlus dirva./
 fardri halv naft na thenva, nimri.
 
 noll andrma gang tvar dverrand, dulvi./
@@ -402,8 +402,8 @@ gudi gang bak./
 blemi lanma bugna bast./
 metna vardma ok metrett felga./
 rurnma andri hratt ok rettlang./
-vegfardri vendri tiv rygva./
-hrosk nod hravstyrma./
+vegfardri vendri tiv rigva./
+hrosk nod hravstirma./
 snel snuld frorri fundmerki./
 buen tharv hanv klivra hlirm, hurvi.
 
@@ -412,7 +412,7 @@ vrell humna inn hlurn./
 hlirm nod noll miskma./
 snel smiv sleip fundsteld./
 fardri falna ok risna./
-styrma stanna livgri./
+stirma stanna livgri./
 bast hugri harnva vardna./
 fralm, skernmol veth skathmarl.
 
@@ -475,7 +475,7 @@ drum hrosk tharv nel brak domva./
 thenva halv serna relth sannri,/
 halvma dravi, drum, miv thenva./
 hrosk finva fast atvigmark./
-skyld finva frendi ok mannvar./
+skild finva frendi ok mannvar./
 gesta berna bratva varnmarl./
 holv nem vrulma, hlusi.
 

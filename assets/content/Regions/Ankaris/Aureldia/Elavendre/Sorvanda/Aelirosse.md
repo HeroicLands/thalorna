@@ -51,7 +51,7 @@ But we stood a long while in those ways and said nothing,/
 ::: {.verse form=elegy lang=sina enc=sinaveldikkoenc work=aelirosse-1}
 ahi maskari ehii ahi meeve ehii onsa maskari lonku aiva/
 .luuro ehii ilnava ahi velpe ehii olnaro/
-alte setty ehii aulten sennave eso leesyhe hissel ehii/
+alte setty ehii aulten sennave eso leesìhe hissel ehii/
 .ahi eho aldis tellame hisseltos ehiiho
 :::
 

@@ -25,10 +25,10 @@ data:
         title: Grimmund
         lore: grimmundrnk
         description: >-
-          One of the six fed from what the gang takes, held by fear of Dagbán yra Vethar wur Thrareth and the absence of anywhere better to go rather than by any oath the band administers.
+          One of the six fed from what the gang takes, held by fear of Dagbán ira Vethar wur Thrareth and the absence of anywhere better to go rather than by any oath the band administers.
     offices:
       Balthár: >-
-        Held by Dagbán yra Vethar wur Thrareth, who rules through unpredictability and sudden violence rather than through any office the band itself seats.
+        Held by Dagbán ira Vethar wur Thrareth, who rules through unpredictability and sudden violence rather than through any office the band itself seats.
   seat: null
   population: null
   economy: []
@@ -45,7 +45,7 @@ The Blackpine Wolves are a small, vicious band of road bandits who prey on trave
 
 ## Organization
 
-The gang is led by [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]], a [[lore-varokhiclt|Varokh]] runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thrawald yra Hildskorn wur Thrastein]] is a de facto second-in-command by virtue of seniority and sheer physical size.
+The gang is led by [[being-dagulfvthr|Dagbán ira Vethar wur Thrareth]], a [[lore-varokhiclt|Varokh]] runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thrawald ira Hildskorn wur Thrastein]] is a de facto second-in-command by virtue of seniority and sheer physical size.
 
 The current membership stands at six:
 
@@ -55,16 +55,16 @@ The current membership stands at six:
 [[being-thrwldhldskrn|Thrawald]]
 : Muscle. A huge, dull-witted former deserter from the Vilérian garrison. Follows orders because thinking is harder.
 
-[[being-skthldfrdbn|Skathilda yra Frodbán wur Vandgrund]]
+[[being-skthldfrdbn|Skathilda ira Frodbán wur Vandgrund]]
 : Scout and knife-fighter. Small, fast, and the most dangerous member of the gang after Dagbán himself. Everyone is afraid of her.
 
-[[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]]
+[[being-vndrcgrwld|Vandarik ira Garwald wur Fródhaven]]
 : The talker. A confidence man and gambler who gathers intelligence in border taverns. Charming, dishonest, and loyal to nothing.
 
-[[being-hrodrrnthl|Hrodar yra Arnthúl wur Erthhaven]]
+[[being-hrodrrnthl|Hrodar ira Arnthúl wur Erthhaven]]
 : Woodsman and fighter. A bitter former timber cutter who hates the [[affiliation-vylarinmpr|Vilérian Empire]] with a cold, personal fury.
 
-[[being-brunjarskathhel|Brunjár yra Skathhelm wur Druthholt]]
+[[being-brunjarskathhel|Brunjár ira Skathhelm wur Druthholt]]
 : Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
 
 ## Territory

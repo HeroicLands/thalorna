@@ -122,14 +122,14 @@ I will not shut the window till 'tis out.
 
 ::: {.verse form=lament lang=aelw enc=aelwsemaronenc work=naming}
 The kandle is set. Judge, here is the light./
-This is the first night, and shut is every door,/
-And thine is shut, and all thy temple dark./
-Only the windows down the street ben lit,/
-And every window hath a woman in it,/
-And every woman hath her names to say./
-Here ben my names, Judge. Slow I say them now.
+This is the first night, and shut is everi door,/
+And thine is shut, and all thi temple dark./
+Onli the windows down the street ben lit,/
+And everi window hath a woman in it,/
+And everi woman hath her names to say./
+Here ben mi names, Judge. Slow I say them now.
 
-The first is Mildwald. He was my husband./
+The first is Mildwald. He was mi husband./
 He rode out with the watch at kandlelight/
 The night the fires were seen among the trees./
 He took his bill down from above the door/
@@ -138,11 +138,11 @@ That night I kept it, and the nekst night too,/
 And all that winter long. He kame not home./
 Naught of him kame. The horseses traks they found,/
 And where the traks went in, and none kame out./
-There is no body, Judge. There is no grave./
-I kannot bring him to thy gatees mouth,/
-Nor wash him, nor sit by him, nor give him rites./
+There is no bodi, Judge. There is no grave./
+I kannot bring him to thi gatees mouth,/
+Nor wash him, nor sit bi him, nor give him rites./
 His name I have. I give thee that. Take it‼/
-Mildwald. Mildwald of Ashwold. Take him by it‼
+Mildwald. Mildwald of Ashwold. Take him bi it‼
 
 The sekond is Osrun. She was his mother./
 When we went down she would not kome with us./
@@ -153,9 +153,9 @@ The beams I will not now outlive. Go down‼»/
 She sat down at the hearth and turned her bak,/
 And we went down, and in the spring it burned./
 From here we saw the smoke. She would not kome./
-Osrun. Osrun of Ashwold. Take her by it‼
+Osrun. Osrun of Ashwold. Take her bi it‼
 
-The third is Wilwin. He was my son./
+The third is Wilwin. He was mi son./
 Fourteen he was, and of his fatheres height./
 He said, «I will go up and look for him.»/
 And I said, «There is naught there to find.»/
@@ -165,7 +165,7 @@ Up to the woodes edge he went in spring,/
 Before the light, and he went in, and stayed./
 I know not that he is dead. I say it/
 Bekause the kandle wanteth all the names./
-Wilwin. Wilwin of Ashwold. Take him by it‼
+Wilwin. Wilwin of Ashwold. Take him bi it‼
 
 The fourth is Ashwold, and it was our house./
 It is no name for thee, Judge. It never died./
@@ -179,7 +179,7 @@ And his before him, out of the forestes foot?/
 The forestes foot is on it. Where is the well?/
 Choked up with leaves, and something drinketh there./
 Where is the bench, the board, the salt, the bed,/
-The pot, the hook, the kradle of my son?/
+The pot, the hook, the kradle of mi son?/
 The wood hath all of it, and asketh more./
 Ashwold. Ashwold in the march. I name it.
 
@@ -188,27 +188,27 @@ The spring we kame down, he wrote it in his book,/
 «Four steadings lost at the woodes edge this year,/
 And of the watch, siks men.» And that was all./
 One line. I made him read it me. One line./
-He said, «Good woman, it is every year./
+He said, «Good woman, it is everi year./
 It is the march. The book is full of them.»/
 I know the book is full. I said the names./
 He wrote them not. He hath no room for names./
 I have the room. I have the window, Judge,/
 And the blak kandle, and the night, and this.
 
-Kome here, my girl‼ Stand by me at the sill‼/
+Kome here, mi girl‼ Stand bi me at the sill‼/
 Thou hast heard the names. Now say them after me‼/
 Mildwald. Osrun. Wilwin. And the house./
 Again‼ And slower‼ So. Thou hast them now./
 When I am in the stewardes book, a line,/
 Thou shalt stand here, and set the kandle up,/
 And say them, and say mine after Wilwines,/
-And give them to thy daughter at the sill./
+And give them to thi daughter at the sill./
 While yet a window standeth in the march/
 And a woman in it, they ben not in the wood./
 The wood hath all the rest. It hath not these.
 
 The kandle burneth. Judge, I have said them all./
-Take them by the names‼ I have naught else./
+Take them bi the names‼ I have naught else./
 I will not shut the window till it is out.
 :::
 

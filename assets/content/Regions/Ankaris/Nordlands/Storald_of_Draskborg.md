@@ -108,7 +108,7 @@ to a hall that has its own.
 
 ::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=lights}
 krast or hrimva na hrimthur,/
-at galmva gang myrva ut,/
+at galmva gang mirva ut,/
 ljarmi gang lang up vathra,/
 noll ljarmri lurvi nifra./
 tavr thenva, vornri na lest vakt,/
@@ -187,13 +187,13 @@ the gate's left post gone red.
 :::
 
 ::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=gate}
-thrin renma up rygva/
+thrin renma up rigva/
 vathra gesta komri kallar,/
 thrin renma randlanma/
 nod thenva grend ok grendvid firn skensa./
 [\[…\]]{lang=zxx}/
 krast skeldrand hupra junva karnva,/
-myrask nifra randva na mannva,/
+mirask nifra randva na mannva,/
 lev grendvid na grend vendri raudva.
 :::
 
@@ -213,9 +213,9 @@ were carried, and one of them talked.
 :::
 
 ::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=relief}
-tvar rygva snelma, tiv solva,/
+tvar rigva snelma, tiv solva,/
 skilva hersalm geirvard skelra,/
-snervi mannvar, myrva hugri,/
+snervi mannvar, mirva hugri,/
 sken it frorri ok farna./
 grend es grend. grendvid stann./
 smul na svartbrandur es foskva./
@@ -277,7 +277,7 @@ grasnemma groni or tvei siv,/
 ok stevna stanni marl na hverv./
 lesna it, skenri‼ slak it sannri‼/
 skeldva stann at dverna, dulvi,/
-torva gang up rygva, rettlang./
+torva gang up rigva, rettlang./
 dingi legva nif lagna nif.
 :::
 

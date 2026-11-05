@@ -51,7 +51,7 @@ The Sons are an order of [[affiliation-blackflame|the Black Flame]], and their c
 
 ## No Muster Yet
 
-The danger is common, and the elders have not agreed on it. The villages of the shore are the ones burning, and the villages a week inland are the ones that would have to send their war-bands to the coast for a season. A common muster would need a War Chief, and the War Chief most eager for the command is [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] of [[place-eichengrnd|Eichengrund]], whose band has raided the Sons' outposts and ambushed their patrols on its own account. Every elder who hears him argue for a muster hears [Dorgulf yra Grimskorn wur Thrastein]{.name data-type="being/npc"}'s winter in it ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]), and Thornak's own village's Shaman opposes him.
+The danger is common, and the elders have not agreed on it. The villages of the shore are the ones burning, and the villages a week inland are the ones that would have to send their war-bands to the coast for a season. A common muster would need a War Chief, and the War Chief most eager for the command is [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] of [[place-eichengrnd|Eichengrund]], whose band has raided the Sons' outposts and ambushed their patrols on its own account. Every elder who hears him argue for a muster hears [Dorgulf ira Grimskorn wur Thrastein]{.name data-type="being/npc"}'s winter in it ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]), and Thornak's own village's Shaman opposes him.
 
 ## What It Left
 

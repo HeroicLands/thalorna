@@ -162,7 +162,7 @@ Nor what the laying cost.
 A droveres lad was Edwald young,/
 And drove his masteres kine/
 Down from the high grass to the fair/
-By moss and moor and pine.
+Bi moss and moor and pine.
 
 Up from the bog the fog kame forth,/
 As fog kometh from the west,/
@@ -200,7 +200,7 @@ And oaks stood up akross the road,/
 A bank of them, a row.
 
 No gate was there, no stile, no stone,/
-That any man set by./
+That any man set bi./
 The road ran up unto the oaks/
 And stopped, as a man might die.
 
@@ -222,7 +222,7 @@ Nor any kind of sign.
 Then Edwald said, «Good sir, good sir,/
 I ask of thee no more/
 But whither goeth the old road/
-That stoppeth at thy door?»
+That stoppeth at thi door?»
 
 Bak up the road the tall one looked,/
 To the north and to the west,/
@@ -231,7 +231,7 @@ And the sun goeth down to rest.
 
 Then bolder was young Edwald there/
 Than men more wise haven been./
-«Then tell me why the road doth stop,/
+«Then tell me whi the road doth stop,/
 And what the oaks do mean‼»
 
 And at the word the oaks stood fast/
@@ -242,7 +242,7 @@ And Edwald lost his sight.
 He woke upon the highland grass/
 Beneath three hills of stone,/
 And there his masteres kine were all,/
-And grazing, every one.
+And grazing, everi one.
 
 No oak was there, no road was there,/
 No bank of standing trees,/
@@ -265,16 +265,16 @@ And he that keepeth it I saw,/
 And never word he spoke.»
 
 «And who did lay the old road, lad,/
-And why is it stopped?» said he./
+And whi is it stopped?» said he./
 «They laid it, grandsire, and they stopped./
 No more was told to me.»
 
 And when the great snow fell that year,/
-And every drove road was lost,/
+And everi drove road was lost,/
 And the beasts must kome from the high grass down/
 Or die there in the frost,
 
-Then Edwald drove them by the stone,/
+Then Edwald drove them bi the stone,/
 Where none but he would go,/
 And the oaks along it kept the way/
 Akross the blind white snow.

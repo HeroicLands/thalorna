@@ -300,7 +300,7 @@ noll gandma na sveld, noll geldra.
 
 thara sarnstevna sisna genda,/
 helv skipgnum. helv es vuld ok vuldmel./
-sudva selva it dyrva./
+sudva selva it dirva./
 hringva stavi inn sudva, sulvi,/
 thrin skelva brak, tvei karnva skurt,/
 isva hnurna firn thenva, hrimva aukri,/

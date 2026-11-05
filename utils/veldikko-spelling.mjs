@@ -254,6 +254,9 @@ function addSinaleVowels(add) {
         write(base, [base]);
         write(stressed, [base, "emphasis"]);
     }
+    // ì is the front vowel, drawn with the y mark. It has no precomposed
+    // stressed form, so it takes no acute row.
+    write("ì", ["y"]);
     add("j", ch("carrier", "y"), "", { at: "start" });
     add("j", ch("y"), "");
     for (const { from, letters, after: condition } of spelled) write(from, letters, condition);
@@ -274,7 +277,7 @@ function addSinaleVowels(add) {
 const SINALE_DIPHTHONGS = ["ai", "au", "ia", "eo", "oi", "ou", "ui", "uo", "ei", "ie", "yi", "ye"];
 
 /** Every vowel letter a Sinale spelling writes, marked or not, for the `before: vowel` rows. */
-const SINALE_VOWELS = "aeiouyáéíóúýǎâǐîǔû";
+const SINALE_VOWELS = "aeiouyìáéíóúýǎâǐîǔû";
 
 /** Selected font metadata is the only glyph-code table. */
 export const GLYPH_CODES = fontCodes(resolveScriptFonts(process.cwd()), "veldikko");

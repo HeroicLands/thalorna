@@ -19,12 +19,15 @@
  *    a phrase entry may carry. `;` and `:` are not standard and stay findings. The catch is the
  *    guide's `catch` letter. Case is ignored. Words
  *    are read left to right, longest declared group first, so a `c` outside
- *    `ch` is undeclared.
+ *    `ch` is undeclared. A vowel pair ending in `y` (`ay`, `ey`, `iy`, `oy`,
+ *    `uy`) is not taken before a vowel, or after a grave vowel: there the `y`
+ *    stands alone.
  * 2. A marked letter is on its mark's `letters` list, and a mark whose limit is
  *    `one` stands at most once in a word.
  * 3. A tone mark stands only on the first letter of a held vowel, at most once
  *    in a word.
- * 4. A standalone `y` is a consonant and stands only before a vowel.
+ * 4. `y` is never a vowel. A standalone `y` is a consonant and stands only
+ *    before a vowel; after a vowel it closes the glide its pair declares.
  *
  * One finding is written per word, listing every rule it breaks. Entries
  * recording a form deliberately not used (`instead`) are skipped.
@@ -71,6 +74,7 @@ const SEPARATORS = [
 const VOWEL_KINDS = new Set(["vowel", "short vowel"]);
 const DIAERESIS = "̈";
 const ACUTE = "́";
+const GRAVE = "̀";
 
 const nfd = (s) => s.normalize("NFD").toLowerCase();
 const nfc = (s) => s.normalize("NFC").toLowerCase();
@@ -97,6 +101,7 @@ function letterEntries(doc) {
  * @param {string} guideText - The guide note, frontmatter included.
  * @returns {{
  *   singles: Set<string>, groups: string[], vowels: Set<string>, held: Set<string>,
+ *   glides: Set<string>,
  *   marks: Map<string, {name: string, letters: Set<string>, limit: string}>,
  *   kinds: Map<string, string>
  * }}
@@ -107,6 +112,7 @@ export function alphabetOf(guideText) {
     const groups = new Set();
     const vowels = new Set();
     const held = new Set();
+    const glides = new Set();
     const marks = new Map();
     // Every letter, group and marked letter the guide declares, with its kind.
     const kinds = new Map();
@@ -121,6 +127,7 @@ export function alphabetOf(guideText) {
                 } else if (![...base].some(isMark)) {
                     groups.add(base);
                     if (kind === "long vowel") held.add(base[0]);
+                    if (kind === "vowel pair" && base.endsWith("y")) glides.add(base);
                 }
             }
         const declared = guide.doc.getIn(["data", "sounds", "marks"]);
@@ -147,6 +154,7 @@ export function alphabetOf(guideText) {
         groups: [...groups].sort((a, b) => b.length - a.length),
         vowels,
         held,
+        glides,
         marks,
         kinds,
     };
@@ -199,6 +207,7 @@ export function additionsOf(text, alphabet) {
  */
 export function checkWord(form, alphabet) {
     const { singles, groups, vowels, held, marks } = alphabet;
+    const glides = alphabet.glides ?? new Set();
     const issues = [];
     // Units: a base character with the combining marks that follow it.
     // A separator is matched by its whole source, longest first.
@@ -235,8 +244,15 @@ export function checkWord(form, alphabet) {
             i += 1;
             continue;
         }
-        const group = groups.find((g) =>
-            [...g].every((b, k) => {
+        const group = groups.find((g) => {
+            if (glides.has(g)) {
+                // A glide's y starts the next syllable before a vowel, and a
+                // short vowel opens no glide.
+                const next = units[i + g.length];
+                if (next && !next.sep && vowels.has(next.base)) return false;
+                if (units[i].marks.includes(GRAVE)) return false;
+            }
+            return [...g].every((b, k) => {
                 const v = units[i + k];
                 return (
                     v &&
@@ -244,8 +260,8 @@ export function checkWord(form, alphabet) {
                     v.base === b &&
                     (k === 0 || !(v.marks.includes(DIAERESIS) || v.marks.includes(ACUTE)))
                 );
-            }),
-        );
+            });
+        });
         if (group) {
             tokens.push({ text: group, start: i });
             i += [...group].length;
@@ -305,12 +321,17 @@ export function checkWord(form, alphabet) {
     });
     checkTones();
 
-    // Rule 4: a standalone y is a consonant and stands before a vowel.
+    // Rule 4: y is never a vowel. A standalone y is a consonant and stands
+    // before a vowel; a y after a vowel was taken by its glide.
     for (const t of tokens) {
         if (t.text !== "y") continue;
         const next = units[t.start + 1];
         if (!next || next.sep || !vowels.has(next.base))
-            add(4, units[t.start], 'the consonant "y" stands only before a vowel');
+            add(
+                4,
+                units[t.start],
+                '"y" is never a vowel; it stands before a vowel or closes a glide after one',
+            );
     }
     return issues.sort((a, b) => a.offset - b.offset);
 }

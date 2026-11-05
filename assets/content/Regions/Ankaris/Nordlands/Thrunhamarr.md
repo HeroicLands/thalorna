@@ -453,7 +453,7 @@ bervri es fast ok fasttrun.
 liftva firn skathmarl livma‼/
 luvra lang arnva andri‼/
 slak sannri at sta na dulvma thriv‼/
-styrma stann siv hvelda./
+stirma stann siv hvelda./
 hovnodna skip na gang ut tiv hafra‼/
 berva gandma, gang farn af hlurna‼/
 thrúnhamarr thrumva fralm vri./

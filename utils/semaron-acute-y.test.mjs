@@ -82,13 +82,13 @@ test("existing Semaron inputs keep their mapping and normalization behavior", ()
     assert.equal(write("Y\u0301a"), write("Ýa"));
 });
 
-test("the original Élavendri acute-y words render through their real map and outlined font", () => {
+test("the Élavendri words with a stressed i before e render through their real map and outlined font", () => {
     const expected = new Map([
         [
-            "drýenalon",
-            [0xf0232, 0xf023f, 0xf0245, 0xf0233, 0xf023c, 0xf0230, 0xf023a, 0xf023d, 0xf023c],
+            "dríenalon",
+            [0xf0232, 0xf023f, 0xf0237, 0xf0233, 0xf023c, 0xf0230, 0xf023a, 0xf023d, 0xf023c],
         ],
-        ["rýedamon", [0xf023f, 0xf0245, 0xf0233, 0xf0232, 0xf0230, 0xf023b, 0xf023d, 0xf023c]],
+        ["ríedamon", [0xf023f, 0xf0237, 0xf0233, 0xf0232, 0xf0230, 0xf023b, 0xf023d, 0xf023c]],
     ]);
     const records = [language, spelling].map(({ fm, file }) => ({
         ...fm,

@@ -52,9 +52,9 @@ Sfradia asked what would become of a man whose name no one said.
 
 ## The Poets
 
-"Ask the poets," said Dokhis. "They will tell you. A man whose name no one says is nothing, and a man whose name everyone says lives on. That is the whole of the poets' account of the dead. [Ythros]{.name data-type="being/npc"} burned his keel so that the heralds of seven cities would say his name at an altar, and the song says it as though it were the end of the matter. Glory is the second life. The name on the arsir's list, the stone in the sanctuary, the speech the schoolboys learn. You have heard it."
+"Ask the poets," said Dokhis. "They will tell you. A man whose name no one says is nothing, and a man whose name everyone says lives on. That is the whole of the poets' account of the dead. [Ithros]{.name data-type="being/npc"} burned his keel so that the heralds of seven cities would say his name at an altar, and the song says it as though it were the end of the matter. Glory is the second life. The name on the arsir's list, the stone in the sanctuary, the speech the schoolboys learn. You have heard it."
 
-"I have heard the Thirenaean version," said Thálimos. "In ours, Ythros is a man who burned his own ship to light the way for a better sailor who did not need it."
+"I have heard the Thirenaean version," said Thálimos. "In ours, Ithros is a man who burned his own ship to light the way for a better sailor who did not need it."
 
 "I know your version. It does not matter which ship came first. What matters is what both songs believe, and they believe the same thing. They believe that a man lives after his death in the mouths of other men, and for as long as the mouths go on, and no longer. Do you believe it?"
 

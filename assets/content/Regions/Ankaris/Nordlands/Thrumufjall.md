@@ -302,7 +302,7 @@ murn na arnvef samna garpi snelma./
 fundi hnem felni steld./
 nivi fundmerki felna bast thenva./
 ferri luvra lenti gangma na sjel/
-stavi inn styrma na mannvar na sjel./
+stavi inn stirma na mannvar na sjel./
 noll braska berva mannva up./
 hluva kopra nasti fundgang, fast.
 

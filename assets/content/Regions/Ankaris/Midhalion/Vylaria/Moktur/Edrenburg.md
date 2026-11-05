@@ -30,7 +30,7 @@ Edrenburg lives by meeting. Varokh traders come out of the forest with furs, hon
 
 ## The Town's Trade
 
-Edrenburg's taverns are where a con man finds marks and a merchant finds dice, and its garrison is what turns a quarrel at the dice into a pursuit. [[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]] learned that at Edrenburg: he cheated the wrong man at dice there, a Vilérian merchant with connections to the garrison, and fled into the pines with soldiers on his heels and a price on his head. The merchant has not forgotten him, and there may be warrants under several names waiting for him in more than one border town.
+Edrenburg's taverns are where a con man finds marks and a merchant finds dice, and its garrison is what turns a quarrel at the dice into a pursuit. [[being-vndrcgrwld|Vandarik ira Garwald wur Fródhaven]] learned that at Edrenburg: he cheated the wrong man at dice there, a Vilérian merchant with connections to the garrison, and fled into the pines with soldiers on his heels and a price on his head. The merchant has not forgotten him, and there may be warrants under several names waiting for him in more than one border town.
 
 ## Who Rules and Keeps Order
 

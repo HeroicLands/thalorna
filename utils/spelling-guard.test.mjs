@@ -140,13 +140,46 @@ test("rule 3: a tone stands once, on the first letter of a held vowel", () => {
     assert.deepEqual(rules("kǎarûur"), [3]);
 });
 
-test("rule 4: y stands only before a vowel", () => {
+test("rule 4: y is never a vowel", () => {
     assert.deepEqual(rules("yala"), []);
     assert.deepEqual(rules("kaya"), []);
     assert.deepEqual(rules("nyala"), []);
-    assert.deepEqual(rules("kay"), [4]);
     assert.deepEqual(rules("kyta"), [4]);
-    assert.deepEqual(rules("kay-ta"), [4]);
+    assert.deepEqual(rules("ylpe"), [4]);
+    assert.deepEqual(rules("ilty"), [4]);
+    assert.deepEqual(rules("y"), [4]);
+});
+
+test("rule 4: a y after a vowel closes the glide its pair declares", () => {
+    for (const word of [
+        "kay",
+        "seyn",
+        "moy",
+        "siy",
+        "kuy",
+        "kay-ta",
+        "Kulaywil",
+        "K'aypukal",
+        "káy",
+    ])
+        assert.deepEqual(rules(word), [], word);
+    assert.ok(alphabet.glides.has("ay") && alphabet.glides.has("uy"));
+});
+
+test("rule 4: a glide is not taken before a vowel, so its y starts the next syllable", () => {
+    const tokens = (word) => {
+        const at = checkWord(word, alphabet);
+        return at.map((i) => i.rule);
+    };
+    assert.deepEqual(tokens("kaya"), []);
+    assert.deepEqual(tokens("koyo"), []);
+    // A grave vowel opens no glide, so its y stands alone and is a vowel.
+    assert.deepEqual(rules("kày"), [4]);
+});
+
+test("rule 2: y carries no acute, since it is never a vowel", () => {
+    assert.deepEqual(rules("drýenalon"), [2]);
+    assert.ok(!alphabet.marks.get("\u0301").letters.has("ý"));
 });
 
 test("rule 3: tone eligibility follows the groups the reading consumes", () => {
@@ -186,19 +219,19 @@ test("every literal form, plural and variant reaches the check, braces included"
 });
 
 test("columns point into the original scalar, not the normalised form", () => {
-    const literal = spellingFindings(noteWith("{form: ka\u0301y, gloss: t}"), guideText);
-    const lineText = noteWith("{form: ka\u0301y, gloss: t}").split("\n")[4];
+    const literal = spellingFindings(noteWith("{form: ka\u0301ty, gloss: t}"), guideText);
+    const lineText = noteWith("{form: ka\u0301ty, gloss: t}").split("\n")[4];
     assert.equal(literal[0].column, lineText.indexOf("y") + 1);
-    const escaped = noteWith('{form: "ka\\u0301y", gloss: t}');
+    const escaped = noteWith('{form: "ka\\u0301ty", gloss: t}');
     const hits = spellingFindings(escaped, guideText);
     assert.equal(hits[0].column, escaped.split("\n")[4].lastIndexOf("y") + 1);
 });
 
 test("a note's findings carry one entry per word with a position", () => {
-    const note = `---\nshortcode: x\ndata:\n  words:\n    - {form: kasa, gloss: a}\n    - {form: kay, gloss: b}\n    - {form: ka, instead: kay, gloss: c}\n---\n`;
+    const note = `---\nshortcode: x\ndata:\n  words:\n    - {form: kasa, gloss: a}\n    - {form: kaky, gloss: b}\n    - {form: ka, instead: kaky, gloss: c}\n---\n`;
     const hits = spellingFindings(note, guideText);
     assert.equal(hits.length, 1);
-    assert.deepEqual([hits[0].form, hits[0].line, hits[0].column], ["kay", 6, 16]);
+    assert.deepEqual([hits[0].form, hits[0].line, hits[0].column], ["kaky", 6, 17]);
 });
 
 test("the guard runs over the real corpus without throwing and exits 0", () => {

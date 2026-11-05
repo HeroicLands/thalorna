@@ -15,6 +15,7 @@ import { scanBlocks } from "@heroiclands/package-build/engine/content-blocks";
 import { parseExtensionAttributes } from "@heroiclands/package-build/engine/extension-attributes";
 import { readDocument, readLanguageNote } from "./aelwythi-note.mjs";
 import { CONTENT_DIR, notePath } from "./note-index.mjs";
+import { respellVowelYWords } from "./vowel-y.mjs";
 
 const LETTERS = /['’]?[\p{L}\p{M}]+(?:[-‐‑'’][\p{L}\p{M}]+)*(?:['’])?/gu;
 const fold = (text) => text.normalize("NFC").toLowerCase();
@@ -36,9 +37,14 @@ export function orthographyCandidate(word) {
 }
 
 /** Mechanical candidates plus the owner's sceptic exception, not an edit operation.
- * ch and qu remain unchanged. Reviewed collision spellings live in the note.
+ * ch and qu remain unchanged, and a vowel y is i (`vowel-y.mjs`), but in the
+ * forms its fixture holds. Reviewed collision spellings live in the note.
  */
 export function respellWord(word) {
+    return respellVowelYWords(respellLetters(word));
+}
+
+function respellLetters(word) {
     word = orthographyCandidate(word);
     if (fold(word) === "sceptic")
         return [..."skeptik"]
@@ -127,8 +133,13 @@ const hasAelwythiSelector = (source) =>
         :   isAelwythiEncoding(match[2] ?? match[3] ?? match[4]),
     );
 
-/** Exact token edits inside authored Aelwythi runs, excluding targets and attributes. */
-export function scopedEdits(source) {
+/**
+ * Exact token edits inside authored Aelwythi runs, excluding targets and attributes.
+ *
+ * @param {string} source
+ * @param {(word: string) => string} [respell] - The respelling of one token.
+ */
+export function scopedEdits(source, respell = respellWord) {
     const starts = [0];
     for (const match of source.matchAll(/\n/g)) starts.push(match.index + 1);
     const spans = scanSpans(source).spans;
@@ -203,6 +214,14 @@ export function scopedEdits(source) {
         masked.push([match.index, match.index + match[0].length]);
     for (const match of source.matchAll(/<[^>\n]+>|⟦[^]*?(?:⟧|$)/g))
         masked.push([match.index, match.index + match[0].length]);
+    // Code is never respelled: fenced blocks and inline code spans. A scroll
+    // fence holds authored text, not code.
+    for (const match of source.matchAll(
+        /^([ \t]*)(`{3,}|~{3,})(?![ \t]*scroll\b)[^\n]*\n[^]*?(?:^\1?\2[ \t]*$|(?![^]))/gmu,
+    ))
+        masked.push([match.index, match.index + match[0].length]);
+    for (const match of source.matchAll(/(`+)(?!`)[^\n]*?(?<!`)\1(?!`)/gu))
+        masked.push([match.index, match.index + match[0].length]);
     const edits = [];
     for (const match of source.matchAll(LETTERS)) {
         const from = match.index,
@@ -212,7 +231,7 @@ export function scopedEdits(source) {
             .filter((range) => range.from <= from && range.to >= to)
             .sort((a, b) => a.to - a.from - (b.to - b.from))[0];
         if (!/^(?:aelw|art-x-aelw)$/i.test(owner?.lang ?? "")) continue;
-        const replacement = respellWord(match[0]);
+        const replacement = respell(match[0]);
         edits.push({ from, to, form: match[0], replacement });
     }
     return edits;

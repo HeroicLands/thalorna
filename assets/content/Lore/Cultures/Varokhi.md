@@ -87,7 +87,7 @@ Thornak is of the [Mahnlin]{.name data-type="affiliation/lineage"} kindred and o
 
 ## The Woman Admired
 
-[[being-sndwrhldvth|Sundwira yra Hildvith wur Frithhaven]] shows the quieter success of competent daily work. She cares for horses, notices trouble early and gives travelers sound advice about feeding and care. Villagers and visiting merchants trust her because the animals placed in her charge remain well. Her foresight protects other people's livelihoods without requiring a battlefield deed.
+[[being-sndwrhldvth|Sundwira ira Hildvith wur Frithhaven]] shows the quieter success of competent daily work. She cares for horses, notices trouble early and gives travelers sound advice about feeding and care. Villagers and visiting merchants trust her because the animals placed in her charge remain well. Her foresight protects other people's livelihoods without requiring a battlefield deed.
 
 Women hold substantial property and trading authority. A woman may also win a War Chief's seat, though that remains exceptional. The ordinary ideal rests on skill, judgment and provision in her own work.
 
@@ -186,7 +186,7 @@ The obligation reaches beyond a gift made once. A household that receives someon
 
 ## Household and Kindred
 
-The extended household and its kindred organize Varokh life. A clan is a kindred, and a village is the ground several kindreds share: Eichengrund holds the [Vithrúnd]{.name data-type="affiliation/lineage"}, the Mahnlin and others, and its households share the boar wesk, while particular people may also carry a personal totem. A kindred that splits with its village keeps its clan name in both, so one clan can hold ground in more than one village. A person is named in full by both, the clan after _yra_ and the village after _wur_, as Varokhi sets out. A household can contain blood kin, married-in adults, sheltered free dependents and enslaved people without giving all of them the same standing.
+The extended household and its kindred organize Varokh life. A clan is a kindred, and a village is the ground several kindreds share: Eichengrund holds the [Vithrúnd]{.name data-type="affiliation/lineage"}, the Mahnlin and others, and its households share the boar wesk, while particular people may also carry a personal totem. A kindred that splits with its village keeps its clan name in both, so one clan can hold ground in more than one village. A person is named in full by both, the clan after _ira_ and the village after _wur_, as Varokhi sets out. A household can contain blood kin, married-in adults, sheltered free dependents and enslaved people without giving all of them the same standing.
 
 A married-in adult may own and trade goods in their own name. An Othmund may be freed and sometimes married in; the children of that marriage are simply Varokh. Bondage is not hereditary in the way Ankarian bondage often is. A freed person sheltered before marriage-in may hold Edrimund standing. Taking someone under a roof is protection, but it does not by itself make them blood kin.
 

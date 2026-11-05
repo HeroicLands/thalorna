@@ -275,7 +275,7 @@ hondi halv vrenda/
 hvern hovmarl ok hruna es marli./
 vrastma na thrunvald, thrumva,/
 stann inn hov dirma, dirmlan./
-styrma na skipmann stann/
+stirma na skipmann stann/
 inn ji na skipfarda, skath./
 saltva hremna andva, svelti./
 buen halv vakt, vakti.
@@ -312,7 +312,7 @@ gang nif nifra slak, njorvi./
 vigrun mel, vrast./
 svarka gang miv hanv, svarti./
 thrúnhamarr andri, thrumva./
-andrma es dyrva, drav.
+andrma es dirva, drav.
 
 eiv fundgang farn af slak./
 andir thru svarka, svarti./

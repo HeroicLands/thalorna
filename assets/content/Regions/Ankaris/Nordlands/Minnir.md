@@ -282,7 +282,7 @@ with its door still open.
 
 ::: {.verse form=epic lang=nord enc=nordthuravarkenc work=minnir-1}
 dulvma drav nifra gnumrand,/
-dulvma dyrva, kopri,/
+dulvma dirva, kopri,/
 nifra dulvma, dumna,/
 hugvirdi vakna, vakti./
 odvar gang nif, njorvi,/

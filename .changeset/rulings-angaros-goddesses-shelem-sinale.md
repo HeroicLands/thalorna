@@ -13,4 +13,4 @@
 
 **Languages and scripts**
 
-- Sinale's language page gives one rule for joining two stems in a compound, and the way back is spelled _vatteneleesy_ in the lexicon, The Lament of Haulonna and The Asking.
+- Sinale's language page gives one rule for joining two stems in a compound, and the way back is spelled _vatteneleesì_ in the lexicon, The Lament of Haulonna and The Asking.
