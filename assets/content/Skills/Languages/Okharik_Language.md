@@ -5057,7 +5057,7 @@ Voiced
 : b, d, g
 
 Affricates
-: ch (TS), j (DZH)
+: ch (as in "church"), j (as in "judge")
 
 **Fricatives:**
 
@@ -5080,9 +5080,9 @@ Voiced
 
 ### Vowel System
 
-Okharik distinguishes five cardinal vowels, each occurring in short and long variants:
+Okharik distinguishes five vowels:
 
-**Vowels:** a, e, i, o and u, each short or long
+**Vowels:** a, e, i, o and u
 
 **Diphthongs:** Common sequences include ai, au, ei, oi, which tend to be produced as true diphthongs rather than vowel clusters
 
@@ -5105,7 +5105,7 @@ Word Length
 : Moderate; names are typically two to three morphemes, though some compounds extend to four or more syllables
 
 Stress Patterns
-: Generally penultimate; in longer compounds, secondary stress appears on the first syllable
+: Generally penultimate
 
 ## Grammar Notes
 
@@ -5567,7 +5567,7 @@ The common greeting of Okharis, _Okharé, ne thalé_, hails a stranger as one of
 
 An Okharik stem names an act, and an ending says what part the act plays. _Korth-_ is to keep watch; _korthari_ is the guardian who keeps it, and _kortharira_ is a company of them. The same handful of endings is laid on every stem, and a title is two words: the office, then the thing it serves, set in the _-ing_ form that marks belonging. _Korthari Zohiring_ is the Guardian of the Spirits; _Korthari Nkaring_ is the Warden of the Flame.
 
-The sound of Okharik is full and nasal. Words open freely on _mb_, _nd_ and _nk_, the rasping _kh_ falls anywhere, and _-ng_ and _-m_ close words that mark a class. Vowels come short or long, and stress falls on the second-last syllable.
+The sound of Okharik is full and nasal. Words open freely on _mb_, _nd_ and _nk_, the rasping _kh_ falls anywhere, and _-ng_ and _-m_ close words that mark a class. Stress falls on the second-last syllable.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

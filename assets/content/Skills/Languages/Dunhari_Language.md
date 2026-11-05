@@ -6442,7 +6442,7 @@ The language features extensive vocabulary for desert navigation, astronomy, wat
 
 Dunhari is the recited verse-speech of the deep desert. It rolls on _v_ and _r_ and closes on long, chanted endings.
 
-**The vowels.** _a_ leads, with _e_ and _o_. Long vowels are not written.
+**The vowels.** _a_ leads, with _e_ and _o_.
 
 **The consonants.** _v_, _gh_, _q_, _sh_, _zh_, _r_, _m_, _d_ and _b_.
 
@@ -6482,52 +6482,13 @@ The velar fricatives _kh_ and _gh_ appear frequently in poetic registers but are
 
 ### Vowel System
 
-Dunhari employs a five-vowel system with contrastive length and quality:
+Dunhari employs a five-vowel system: _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it. The interplay of vowels creates the characteristic rhythm of Dunhari poetry.
 
-a
-: open front vowel (short or long)
+Diphthongs are common and phonologically significant: _ai_, _au_, _ei_ and _ou_. These diphthongs are fundamental to the melodic quality of the language.
 
-e
-: mid front vowel (short or long)
+### Prosody
 
-i
-: close front vowel
-
-o
-: mid back vowel (short or long)
-
-u
-: close back vowel (short or long)
-
-Long vowels carry significant semantic and poetic weight. The interplay of vowel length creates the characteristic rhythm of Dunhari poetry.
-
-Diphthongs are common and phonologically significant:
-
-ai
-: as in _Jamaris, Afshanar_
-
-au
-: as in _Bahrazad, Qavadar_
-
-ei
-: as in _Farvan, Razanash_
-
-ou
-: as in _Goshanad, Rostadar_
-
-These diphthongs are fundamental to the melodic quality of the language.
-
-### Stress and Prosody
-
-Dunhari exhibits a primarily stress-timed rhythm with stress typically falling on the first or penultimate syllable. Secondary stress often appears on thematic roots in longer words.
-
-Examples from names:
-
-- _VAH-dar-un_ (stress on first syllable)
-- _KO-rush-an_ (stress on first, with long vowel emphasis)
-- _par-VAN-dar_ (stress on second syllable in compound forms)
-
-The language employs significant pitch variation in poetic and formal registers, with rising pitch marking questions and falling pitch marking declarations or emphatic statements.
+Dunhari exhibits a primarily stress-timed rhythm. The language employs significant pitch variation in poetic and formal registers, with rising pitch marking questions and falling pitch marking declarations or emphatic statements.
 
 ## Grammar Notes
 
@@ -6784,7 +6745,7 @@ The systematization of Dunhari poetic meters and formal registers occurred durin
 
 ### Nomadic Dunhari (Desert Dialect)
 
-The dialect of the Dunhara tribes and desert peoples, featuring archaic grammatical forms, rich weather vocabulary, and star-navigation terminology. Pronunciation tends toward vowel lengthening and emphatic stress.
+The dialect of the Dunhara tribes and desert peoples, featuring archaic grammatical forms, rich weather vocabulary, and star-navigation terminology.
 
 ### Settled Dunhari (Khazryn Dialect)
 
@@ -6839,7 +6800,7 @@ Male given names tend toward:
 
 - Open syllable patterns with frequent vowel sequences
 - Root meanings emphasizing strength, virtue, royal lineage, or celestial bodies
-- Diphthongs and long vowels in final positions (Razashar, Korushan, Yazharan)
+- Closed final syllables (Razashar, Korushan, Yazharan)
 - Compound structures reflecting ancestral lineages
 
 Female given names tend toward:
@@ -6882,7 +6843,7 @@ A caravan that crosses the [[place-dunharargn|Dunhara]] meets two registers of o
 
 A Dunhari stem names an act or a thing, and an ending says what part it plays. _Vazhm-_ is to weigh a claim; _vazhmader_ is the one who weighs it by office, the judge. The same handful of endings is laid on every stem, and a place is a stem with the ending that marks its kind of ground: _ghavul-_ is to draw water, and _Ghavulavad_ is the oasis where the tribes draw it.
 
-The sound of Dunhari is open and flowing. Words open on a vowel or a single consonant, the rasping _kh_ and _gh_ fall anywhere, and long vowels carry the weight of a line of verse. Stress falls on the first syllable or the second-last.
+The sound of Dunhari is open and flowing. Words open on a vowel or a single consonant, and the rasping _kh_ and _gh_ fall anywhere.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

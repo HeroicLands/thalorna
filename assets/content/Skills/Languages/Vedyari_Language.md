@@ -8433,7 +8433,7 @@ Vedyari has two registers, and they sound alike but end differently. The classic
 
 **The vowels.** _a_ carries most words, with _i_ and _u_ after it. _e_ and _o_ are rarer, and few words open on them. Two vowels stand together only as _ai_ and _au_.
 
-**The consonants.** _r_ and _n_ lead. The plain stops _t_, _k_, _d_ and _p_ come next, then _s_, _m_ and _v_, with _sh_ and _j_ for color. _bh_ /bʱ/ is common in new words, as in _bharava_ and _bhurka_: a _b_ said with a breath after it, the two letters as the guide reads them, said together. Vedyari writes _bh_, as the guide allows a tongue whose note says so. _kh_ and _gh_ keep the guide's throat sounds and belong to a smaller, older set of words, such as _ghaul_ "night" and _okhra_ "a loom"; most of them stand at the start of a syllable. A new word reaches for a stop before a _v_ or an _r_.
+**The consonants.** _r_ and _n_ lead. The plain stops _t_, _k_, _d_ and _p_ come next, then _s_, _m_ and _v_, with _sh_ and _j_ for color. _bh_ /bʱ/ is common in new words, as in _bharava_ and _bhurka_: a _b_ said with a breath after it, the two letters as the guide reads them, said together. _kh_ and _gh_ keep the guide's throat sounds and belong to a smaller, older set of words, such as _ghaul_ "night" and _okhra_ "a loom"; most of them stand at the start of a syllable. A new word reaches for a stop before a _v_ or an _r_.
 
 **Clusters.** Consonants meet in a few favored pairs and triples inside a word: _ndr_, _shr_, _kr_, _dr_, _vr_ and _pr_. A word opens on at most two consonants together. _ksh_ stands inside a word, as in _akshora_, never at its start.
 
@@ -8511,7 +8511,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 - **Nouns** have number (singular/plural) and, arguably, honorific status
 - **Agreement:** Adjectives and determiners agree with nouns in gender (masculine, feminine, neuter)
-- **Compounds:** Noun-noun and adjective-noun compounds are extremely productive; the rightmost element bears primary stress
+- **Compounds:** Noun-noun and adjective-noun compounds are extremely productive
 
 ### Participles
 
@@ -8633,13 +8633,11 @@ Classical Vedyari remains largely frozen in literature and formal address, but v
 
 - Retains more conservative pronunciation
 - Preserves older endings
-- Stress patterns follow classical norms (the second-to-last syllable receives primary stress)
 
 ### Southern Vedyarian (Chendrapur and the Eastern Ports)
 
 - More rapid speech; intervocalic lenition more pronounced
 - Inflectional endings frequently reduced to single vowels
-- Stress shift: increasing tendency toward word-initial stress in compounds
 - Greater borrowing from neighboring linguistic systems
 
 ### Eastern Outlier Dialect (Surta-samedra Island Colonies)
@@ -9065,7 +9063,7 @@ A woman entered on the temple roll as _Padmavali_ answers to _Padmi_ in her moth
 
 **Counting syllables.** A syllable is counted by its vowel. Each vowel and diphthong is one syllable, so _Pritimaja_ has four: _pri·ti·ma·ja_. A single consonant between two vowels opens the second syllable; where several stand together, the first closes the syllable before and the rest open the next, as in _chan·dre·li_. A seam adds nothing of its own: where the joining has merged two vowels into one, as _podma_ and _avoli_ merge in _padmavali_, the merged vowel is a single syllable, _pad·ma·va·li_.
 
-**Cutting the name.** Keep the first one or two syllables of the given name whole, carry over the consonants that open the next syllable, and close on `-u`, `-i` or `-a` where that syllable's vowel stood. Put another way, the given name is cut just before its second or third vowel and a closing is added: _Darmapalda_ is cut to _Darm-_ and gives _Darmu_, and _Padmavali_ is cut to _Padm-_ and gives _Padmi_. The letters before the cut are the given name's own, long vowels long; where a name is written with a stress mark the pages do not use, the vowel beneath it may be read short or long. The other way to make a calling name is to double the first syllable, writing its opening consonants and its vowel twice: _Suvarti_ gives _Susu_. A name that opens on a vowel has no doubled form, since two vowels never stand together.
+**Cutting the name.** Keep the first one or two syllables of the given name whole, carry over the consonants that open the next syllable, and close on `-u`, `-i` or `-a` where that syllable's vowel stood. Put another way, the given name is cut just before its second or third vowel and a closing is added: _Darmapalda_ is cut to _Darm-_ and gives _Darmu_, and _Padmavali_ is cut to _Padm-_ and gives _Padmi_. The letters before the cut are the given name's own. The other way to make a calling name is to double the first syllable, writing its opening consonants and its vowel twice: _Suvarti_ gives _Susu_. A name that opens on a vowel has no doubled form, since two vowels never stand together.
 
 A calling name is said aloud far more often than it is written, and _Pritimaja_ is cut to _Prit-_ and gives _Pritu_, and _Driksharana_ is cut to _Driksh-_ and gives _Driksha_. Apart from that, everything before the closing comes from the given name, and a calling name always closes on a vowel, so it keeps the word rules without effort.
 

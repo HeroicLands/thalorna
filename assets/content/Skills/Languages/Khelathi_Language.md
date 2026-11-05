@@ -8306,9 +8306,6 @@ Syllable Structure
 Word Length
 : Often moderate (two to three morphemes); compound names are less frequent than in [[skill-vedyarlng|Vedyari]], though hieratic epithets create lengthy formal designations
 
-Stress Patterns
-: Usually fall on the first or second syllable; later syllables receive weaker stress in polysyllabic words
-
 ## Grammar Notes
 
 ### Word Order
@@ -8559,7 +8556,6 @@ Yet religious conservatism has resulted in Classical Khelathi being actively rei
 ### Khelathi Proper (Core Regions)
 
 - Closest to Classical Khelathi; the catch is kept at every seam
-- Stress patterns adhere to classical norms
 - Extensive ritualistic vocabulary related to temple and court
 
 ### Delta Dialect (Riverine Communities)
@@ -8806,11 +8802,9 @@ standing is what comes after it.
 ### The Near Name
 
 **A given name of four syllables or more has a near name**: the given name broken
-off after its second vowel, with that vowel held long. A syllable is a vowel or a
-run of vowels, so `Gezehutyu` has four and `Lersais` has two. Nothing is added and
-nothing replaced; the near name is the opening of the given name, and the long
-vowel is the voice holding the place where the rest of it would be. A vowel already
-long stays as it is, so `Imhugepu` is `Imhu`.
+off after its second vowel. A syllable is a vowel or a run of vowels, so
+`Gezehutyu` has four and `Lersais` has two. Nothing is added and nothing replaced;
+the near name is the opening of the given name, so `Imhugepu` is `Imhu`.
 
 ```sql
 SELECT '`' || near || '`' AS "Near name", '`' || given || '`' AS "Given name"
@@ -8849,7 +8843,7 @@ it claims a tie that does not exist. A title always takes the given name:
 **Given Names (Female):**
 
 - Similarly theophoric; often invoke goddesses of motherhood, fertility, and magic
-- Many end in long vowels (_-e, -a, -i_) which grammatically mark feminine gender
+- Many end in vowels (_-e, -a, -i_) which grammatically mark feminine gender
 - Frequently incorporate feminine diminutive suffixes, creating terms of endearment
 - Examples: _Anlaghesna_ (life-bearer), _Linya_ (fortunate), _Thiya_ (gift)
 

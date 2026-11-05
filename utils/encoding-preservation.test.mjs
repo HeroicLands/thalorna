@@ -1,12 +1,14 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import {
     americanSpelling,
     assertEncodingMigrationPreserved,
+    beforeEncodingMigration,
     inAmericanSpelling,
 } from "./encoding-preservation.mjs";
 import { notePath } from "./note-index.mjs";
@@ -226,3 +228,38 @@ for (const [form, { before, american, native }] of Object.entries(SOURCE_FORMS))
         );
     });
 }
+
+test("retained prose in a narrowed sound section cannot be deleted", () => {
+    const note = (address) => {
+        const file = notePath(address);
+        const raw = fs.readFileSync(file, "utf8");
+        return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
+    };
+    const baseline = (current) => {
+        const before = beforeEncodingMigration(current.file);
+        // The baseline links the Tellumi note as skill-khazrilng.
+        const raw = before.raw.replaceAll("skill-khazrilng", "skill-tellumilng");
+        return { ...before, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
+    };
+    for (const [address, retained] of [
+        [
+            "skill-atarzadilng",
+            " A word never sets two vowels side by side, never doubles a letter, and **always ends on a consonant**",
+        ],
+        [
+            "skill-dunharlng",
+            " These diphthongs are fundamental to the melodic quality of the language.",
+        ],
+        ["skill-varokhlng", "**Alliteration is loose.** "],
+    ]) {
+        const current = note(address);
+        assert(current.raw.includes(retained), `${address}: ${retained}`);
+        assert.doesNotThrow(() => assertEncodingMigrationPreserved(current, baseline(current)));
+        const cut = { ...current, raw: current.raw.replace(retained, "") };
+        assert.throws(
+            () => assertEncodingMigrationPreserved(cut, baseline(cut)),
+            /original reading changed/,
+            address,
+        );
+    }
+});

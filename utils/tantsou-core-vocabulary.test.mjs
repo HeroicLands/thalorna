@@ -390,7 +390,7 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
                 "",
             ),
         ),
-        "12fb209a9bbbf7eebeda50c068ea18d8c7668600675de95f16ea68e87f2c0d47",
+        "af44695afdd0851948706002b8f731d69e7ca6a9a72423f23fe5497a82471f05",
     );
     for (const form of ["dun", "jun"])
         assert.deepEqual(daughter.fm.data.words.find((w) => w.form === form).source, {

@@ -7788,8 +7788,6 @@ FROM cluster_groups WHERE language = 'thalorna-note-skill-sinalelng' ORDER BY po
 
 **_d_ stands only after _n_, _l_ or _r_**, so it never begins a word, never ends one and never stands alone between vowels. _Dh_ stands only between vowels.
 
-_nk_ is said with the back nasal.
-
 The common pairings are the body of the language: a word holds one of them, or none, and its other syllables are open. The sparing ones are true Sinale and stand in old words, hard words and words for sharp things, but a line that holds more than one of them sounds clipped, and a poet avoids it.
 
 ### Onsets and finals
@@ -7804,7 +7802,7 @@ The back nasal _ng_ stands only between vowels, and no word opens on it.
 
 ### Stress
 
-**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favors short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinale in a monotone is not to speak it badly but to say something else.
+**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favors short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing.
 
 ### Wearing
 

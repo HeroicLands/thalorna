@@ -129,7 +129,7 @@ data:
       vowelPairs: []
       initialVowel: true
       finalVowel: false
-      signature: [a, ē, i, ō, ū]
+      signature: [a, e, i, o, u]
     joins: [{meeting: C+C, rule: merge}]
   affixes:
     - {form: -un, gloss: a people}
@@ -4618,7 +4618,7 @@ Atárzadi is the tongue of the [[affiliation-tribestrzd|Tribes of Atarzád]], th
 
 ## How Atárzadi sounds
 
-Atárzadi is the harsh cousin of Dunhari, with longer vowels and endings that close hard.
+Atárzadi is the harsh cousin of Dunhari, with endings that close hard.
 
 **The vowels.** _o_, _e_ and _u_ lead, unlike Dunhari's _a_.
 
@@ -4632,7 +4632,7 @@ Atárzadi is the harsh cousin of Dunhari, with longer vowels and endings that cl
 
 ## Sounds
 
-Atárzadi is the harshest tongue of the belt: full of _kh_, _gh_, _sh_ and _zh_, heavy with long vowels, and closed at the end of every word by a consonant. It shares Dunhari's fricatives and its uvular _q_ but none of its gliding vowels, and it lacks Dunhari's _p_, _f_ and _w_. The two build offices and places on different endings, and one pair looks regular: the place ending _-ez_ answers Dunhari _-adez_, the fort. Speakers of the two tongues understand each other's numbers, kin-words and a good part of their trade talk, and very little else.
+Atárzadi is the harshest tongue of the belt: full of _kh_, _gh_, _sh_ and _zh_, and closed at the end of every word by a consonant. It shares Dunhari's fricatives and its uvular _q_ but none of its gliding vowels, and it lacks Dunhari's _p_, _f_ and _w_. The two build offices and places on different endings, and one pair looks regular: the place ending _-ez_ answers Dunhari _-adez_, the fort. Speakers of the two tongues understand each other's numbers, kin-words and a good part of their trade talk, and very little else.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
@@ -4658,11 +4658,7 @@ SELECT 7 AS o, 'Signature' AS "Rule", array_to_string(list_transform(signature, 
 ) ORDER BY o
 ```
 
-A syllable opens on one consonant or on nothing and closes on any consonant but _h_ or _y_. A word never sets two vowels side by side, never doubles a letter, and **always ends on a consonant**: _uzhem_ "water", _deshak_ "road", _khumez_ "sand". **Every stem holds a long vowel**, so a name built from Atárzadi stems always carries a long vowel.
-
-### Stress
-
-Stress falls on the last long vowel of a word: de-**SHAK**, **UZH**-em. A word with no long vowel is stressed on its last syllable.
+A syllable opens on one consonant or on nothing and closes on any consonant but _h_ or _y_. A word never sets two vowels side by side, never doubles a letter, and **always ends on a consonant**: _uzhem_ "water", _deshak_ "road", _khumez_ "sand".
 
 ## Building words
 

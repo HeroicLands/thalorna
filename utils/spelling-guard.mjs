@@ -11,10 +11,9 @@
  * and the English lists under `en`) is checked against the alphabet of
  * Pronouncing Thalorna, read at run time from the guide's `data.sounds`:
  *
- * 1. Every character is a declared letter, group or mark, a letter or group the
- *    language's own `data.sounds.letters` declares, or a separator: a hyphen,
- *    a space, or a mark of the standard roman punctuation a phrase entry may
- *    carry. `;` and `:` are not standard and stay findings. The catch is the
+ * 1. Every character is a letter, group or mark the guide declares, or a
+ *    separator: a hyphen, a space, or a mark of the standard roman punctuation
+ *    a phrase entry may carry. `;` and `:` are not standard and stay findings. The catch is the
  *    guide's `catch` letter. Case is ignored. Words
  *    are read left to right, longest declared group first, so a `c` outside
  *    `ch` is undeclared.
@@ -26,6 +25,11 @@
  *
  * One finding is written per word, listing every rule it breaks. Entries
  * recording a form deliberately not used (`instead`) are skipped.
+ *
+ * A language narrows the guide and never adds to it. A language note's own
+ * `data.sounds.letters` may list only letters, groups and marked letters the
+ * guide declares, each with the guide's `kind`; any other is a finding at its
+ * line, and never extends the alphabet its words are read by.
  *
  * Findings are `file:line:column: warning: message`, to stderr; the summary
  * goes to stdout. The check is report-only and exits 0.
@@ -82,25 +86,28 @@ function letterEntries(doc) {
 }
 
 /**
- * The alphabet the guide declares, plus the additions of one language note.
+ * The alphabet the guide declares.
  *
  * @param {string} guideText - The guide note, frontmatter included.
- * @param {string} [langText] - A language note, whose `data.sounds.letters` adds letters.
  * @returns {{
  *   singles: Set<string>, groups: string[], vowels: Set<string>, held: Set<string>,
- *   marks: Map<string, {name: string, letters: Set<string>, limit: string}>
+ *   marks: Map<string, {name: string, letters: Set<string>, limit: string}>,
+ *   kinds: Map<string, string>
  * }}
  */
-export function alphabetOf(guideText, langText) {
+export function alphabetOf(guideText) {
     const guide = frontmatterDoc(guideText);
     const singles = new Set();
     const groups = new Set();
     const vowels = new Set();
     const held = new Set();
     const marks = new Map();
-    const addLetters = (entries) => {
-        for (const { letters, kind } of entries)
+    // Every letter, group and marked letter the guide declares, with its kind.
+    const kinds = new Map();
+    if (guide) {
+        for (const { letters, kind } of letterEntries(guide.doc))
             for (const raw of letters) {
+                kinds.set(nfc(raw), kind);
                 const base = nfd(raw);
                 if (base.length === 1) {
                     singles.add(base);
@@ -110,9 +117,6 @@ export function alphabetOf(guideText, langText) {
                     if (kind === "long vowel") held.add(base[0]);
                 }
             }
-    };
-    if (guide) {
-        addLetters(letterEntries(guide.doc));
         const declared = guide.doc.getIn(["data", "sounds", "marks"]);
         if (YAML.isSeq(declared))
             for (const m of declared.toJS(guide.doc)) {
@@ -125,18 +129,59 @@ export function alphabetOf(guideText, langText) {
                     letters: new Set(letters),
                     limit: String(m.limit ?? "any"),
                 });
-                for (const l of letters) singles.add(nfd(l)[0]);
+                // A marked letter is the kind of the letter it marks: á is a vowel.
+                for (const l of letters) {
+                    singles.add(nfd(l)[0]);
+                    if (!kinds.has(l)) kinds.set(l, kinds.get(nfd(l)[0]) ?? "");
+                }
             }
     }
-    const lang = langText ? frontmatterDoc(langText) : undefined;
-    if (lang) addLetters(letterEntries(lang.doc));
     return {
         singles,
         groups: [...groups].sort((a, b) => b.length - a.length),
         vowels,
         held,
         marks,
+        kinds,
     };
+}
+
+/**
+ * The letters, groups and marked letters a language note's `data.sounds.letters`
+ * declares beyond the guide, or with a kind other than the guide's.
+ *
+ * @param {string} text - The language note.
+ * @param {ReturnType<typeof alphabetOf>} alphabet - The guide's alphabet.
+ * @returns {{letter: string, line: number, column: number, message: string}[]}
+ */
+export function additionsOf(text, alphabet) {
+    const parsed = frontmatterDoc(text);
+    if (!parsed) return [];
+    const { doc, lineCounter } = parsed;
+    const seq = doc.getIn(["data", "sounds", "letters"], true);
+    if (!YAML.isSeq(seq)) return [];
+    const out = [];
+    for (const entry of seq.items) {
+        if (!YAML.isMap(entry)) continue;
+        const kind = String(entry.get("kind") ?? "");
+        const letters = entry.get("letters", true);
+        if (!YAML.isSeq(letters)) continue;
+        for (const node of letters.items) {
+            if (!YAML.isScalar(node)) continue;
+            const letter = String(node.value);
+            const guideKind = alphabet.kinds.get(nfc(letter));
+            let message;
+            if (guideKind === undefined)
+                message = `"${letter}" is not in Pronouncing Thalorna; a language may only narrow the guide`;
+            else if (guideKind && kind && guideKind !== kind)
+                message = `"${letter}" is a ${guideKind} in Pronouncing Thalorna, not a ${kind}; a language never changes how a letter of the guide works`;
+            if (!message) continue;
+            // The frontmatter starts on the line after the opening fence.
+            const { line, col } = lineCounter.linePos(node.range[0]);
+            out.push({ letter, line: line + 1, column: col, message });
+        }
+    }
+    return out;
 }
 
 /**
@@ -345,7 +390,7 @@ export function languageName(text) {
  * @returns {{form: string, issues: ReturnType<typeof checkWord>, line: number, column: number}[]}
  */
 export function spellingFindings(text, guideText) {
-    const alphabet = alphabetOf(guideText, text);
+    const alphabet = alphabetOf(guideText);
     const out = [];
     for (const { form, at } of formsOf(text)) {
         const issues = checkWord(form, alphabet);
@@ -372,6 +417,7 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
         return 0;
     }
     const guideText = fs.readFileSync(path.resolve(cwd, guideFile), "utf8");
+    const alphabet = alphabetOf(guideText);
     const files =
         argv.length ? argv : (
             noteFilesWhere(({ type, subType }) => type === "skill" && subType === "language", cwd)
@@ -379,10 +425,15 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
     const byLanguage = new Map();
     const byRule = new Map();
     let words = 0;
+    let additions = 0;
     for (const file of files) {
         const rel = path.relative(cwd, path.resolve(cwd, file)) || file;
         const text = fs.readFileSync(path.resolve(cwd, file), "utf8");
         const name = languageName(text) || rel;
+        for (const a of additionsOf(text, alphabet)) {
+            additions += 1;
+            io.err(`${rel}:${a.line}:${a.column}: warning: ${a.message}`);
+        }
         for (const hit of spellingFindings(text, guideText)) {
             words += 1;
             byLanguage.set(name, (byLanguage.get(name) ?? 0) + 1);
@@ -397,6 +448,7 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
     const sorted = (m) => [...m].sort((a, b) => b[1] - a[1] || String(a[0]).localeCompare(b[0]));
     for (const [name, n] of sorted(byLanguage)) io.out(`${name}: ${n}`);
     for (const [rule, n] of [...byRule].sort((a, b) => a[0] - b[0])) io.out(`rule ${rule}: ${n}`);
+    io.out(`${additions} addition(s) to the guide`);
     io.out(`${words} word(s) in ${byLanguage.size} language(s)`);
     return 0;
 }

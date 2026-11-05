@@ -7046,13 +7046,13 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 Élavendri employs one of the richest vowel systems of any Pelwar language, with extensive use of diphthongs and subtle vocalic gradations. Consonants are relatively soft, with the language favoring liquids and sonorants over hard stops:
 
-**Consonants:** The language reduces the number of stops (only t, d, k, g are common) and favors fricatives (th, s, sh, ch) and liquids (l, r). The combination of sounds creates natural palatalization—many consonants are pronounced with a slight y-glide in certain contexts. Aspiration (marking with h after a consonant) is phonemic and creates meaningful distinctions.
+**Consonants:** The language reduces the number of stops (only t, d, k, g are common) and favors fricatives (th, s, sh, ch) and liquids (l, r). Aspiration (marking with h after a consonant) is phonemic and creates meaningful distinctions.
 
-**Vowels:** Élavendri distinguishes at least seven vowel positions, many with both oral and nasal variants. The system employs systematic length distinctions and allows complex diphthongs that change meaning based on speed of articulation. Vowel harmony principles influence word formation—words tend to maintain vowel colors across morphemes.
+**Vowels:** Élavendri allows complex diphthongs. Vowel harmony principles influence word formation—words tend to maintain vowel colors across morphemes.
 
-**Prosody:** Élavendri employs melodic stress, with pitch patterns carrying as much information as stress accent. The language naturally divides into musical phrases, each with characteristic pitch contours. This has made Élavendri ideal for poetry and music, and difficult for non-native speakers to acquire.
+**Prosody:** The language naturally divides into musical phrases, each with characteristic pitch contours. This has made Élavendri ideal for poetry and music, and difficult for non-native speakers to acquire.
 
-**Distinctive Features:** The language makes heavy use of the "fey fricative" /th/ (voiced dental fricative /d/), which features prominently in words related to magic, fey beings, and abstraction. The combination th- at the beginning of words often indicates magical or abstract concepts. Nasal vowels occur in both oral and nasal variants, creating subtle distinctions.
+**Distinctive Features:** The language makes heavy use of the "fey fricative" _th_, which features prominently in words related to magic, fey beings, and abstraction. The combination th- at the beginning of words often indicates magical or abstract concepts.
 
 ## Grammar Notes
 
@@ -7226,7 +7226,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-elvndrlng'
 
 ## The learned words {#the-learned-words}
 
-The imperial words came with the clerks in the centuries of vassalage and with the [[skill-semrnscrpt|Semaron]] and the University after. A learned word keeps its imperial shape more than an inherited one does: it loses its masculine ending and its long vowels, keeps its last vowel, and takes the stress on its first syllable, but it keeps `b`, `f` and `z`, which no inherited word has. Several stand beside an inherited word of like sense: the learned _lórezand_ is a lecturer at the University, and the inherited _lornand_ is a reciter who keeps a house's records in his head.
+The imperial words came with the clerks in the centuries of vassalage and with the [[skill-semrnscrpt|Semaron]] and the University after. A learned word keeps its imperial shape more than an inherited one does: it loses its masculine ending and its long vowels, and keeps its last vowel, but it keeps `b`, `f` and `z`, which no inherited word has. Several stand beside an inherited word of like sense: the learned _lórezand_ is a lecturer at the University, and the inherited _lornand_ is a reciter who keeps a house's records in his head.
 
 ## Words {#words}
 

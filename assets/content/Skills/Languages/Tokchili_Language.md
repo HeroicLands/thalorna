@@ -5915,7 +5915,7 @@ The tongue is spoken in two accents that understand each other easily. The heart
 
 Tokchili is open and even, with words of two and three syllables that end on a vowel: _hayo_ (sun), _tokchi_ (fire), _pokta_ (mound), _imala_ (chief).
 
-**The vowels.** _a_, _i_ and _o_ carry most words, _e_ is less common, and _u_ is rare. Each has its plain value: _a_ as in _father_, _i_ as in _machine_, _o_ as in _go_, _e_ as in _bet_. The only vowel pair is _ai_.
+**The vowels.** _a_, _i_ and _o_ carry most words, _e_ is less common, and _u_ is rare. Each has its plain value: _a_ as in _father_, _i_ as in _machine_, _o_ a steady _oh_ without a closing glide, _e_ as in _bet_. The only vowel pair is _ai_.
 
 **The consonants.** _p_, _t_, _k_, _ch_, _f_, _s_, _sh_, _h_, _m_, _n_, _l_, _w_ and _y_, with _b_ in a handful of words. A word opens on one consonant or a vowel, never on two consonants together.
 
@@ -5923,7 +5923,7 @@ Tokchili is open and even, with words of two and three syllables that end on a v
 
 **Endings.** Nearly every word ends in a vowel. Verbs end in _-a_. Most nouns end in _-a_, _-i_ or _-o_, and most describing words in _-i_ or _-e_. A few words close on _-k_ or _-s_.
 
-**Stress.** A word of two syllables is stressed on the first, _HA-yo_, and a longer word on the second-to-last, _to-KCHI-li_ said _tok-CHI-li_, _i-MA-la_.
+**Stress.** A word of two syllables is stressed on the first, _HA-yo_, and a longer word on the second-to-last, _tok-CHI-li_, _i-MA-la_.
 
 **What Tokchili leaves out.** It has no _r_, no _d_, _g_, _j_, _v_ or _z_, no _th_ and no _kh_. It never opens a word on a cluster and never ends one on a cluster. It has no catch in the throat, which the southern tongue is full of. The breathy _l_ of old river speech is said as a plain _l_.
 

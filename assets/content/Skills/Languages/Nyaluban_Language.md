@@ -6337,7 +6337,7 @@ data:
       - {edge: closeConsonant, sounds: []}
       - {edge: innerCluster, sounds: [mb, mp, nd, nt, nk, nj, nz]}
       - {edge: glide, sounds: [w, y]}
-      - {edge: vowelPair, sounds: [ai, au, ei, eu, oi, ou]}
+      - {edge: vowelPair, sounds: [ai, au, ei, oi, ou]}
     clusters: {max: 2}
   scope:
     folders: [nyaluba, politiesnyaluba, deitiesnyaluba, lorespiritsnyaluba, spiritskillsnyaluba]
@@ -6665,16 +6665,13 @@ Voiced
 Affricate
 : j (as in "judge")
 
-Implosive
-: b', d', g'—voiced stops drawn inward instead of released outward, giving them a hollow, popping quality
-
 **Fricatives:**
 
 Unvoiced
 : f, s, sh (as in "ship"), h
 
 Voiced
-: z, zh (as the "s" in "measure"), x (velar fricative)
+: z, zh (as the "s" in "measure")
 
 **Nasals:** m, n, ny, ng
 
@@ -6684,20 +6681,16 @@ Voiced
 
 **Distinctive Features:**
 
-- The implosive consonants (b', d', g') create a striking rhythmic pattern and carry grammatical weight
-- Vowel length is phonemically significant and frequently marks verb tenses or plurality
 - Nasal consonants are numerous and productive in morphological processes
 - The language possesses a high degree of consonantal richness, particularly in fricatives and nasals
 
 ### Vowel System
 
-Nyáluban distinguishes five cardinal vowels with length distinctions:
+Nyáluban distinguishes five vowels:
 
-**Vowels:** a, e, i, o and u, each short or long
+**Vowels:** a, e, i, o and u
 
-**Diphthongs:** ai, au, ei, eu, oi, ou; these typically function as vowel sequences with distinct syllabic status
-
-**Nasalization:** Vowels can be nasalized; nasalized vowels are phonemically distinct from their oral counterparts and carry grammatical significance (often marking voice)
+**Vowel pairs:** ai, au, ei, oi, ou
 
 ### Tonal System
 

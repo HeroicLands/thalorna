@@ -5335,9 +5335,9 @@ The language shares deep roots with [[skill-nordmalng|Nordmal]] through common d
 
 ## How Varokhi sounds
 
-Varokhi is the forest cousin of Nordmal. It is broader and slower, with _w_ and longer vowels.
+Varokhi is the forest cousin of Nordmal. It is broader and slower, with _w_.
 
-**The vowels.** _a_, _e_, _i_ and _u_, with _o_ rarer. One acute marks a long stressed vowel only where the stress moves.
+**The vowels.** _a_, _e_, _i_ and _u_, with _o_ rarer. One acute marks the stressed syllable only where the guide's rule would not choose it.
 
 **The consonants.** _w_, _th_, _d_, _g_, _r_, _l_, _h_, _f_ and _s_.
 
@@ -5351,19 +5351,17 @@ Varokhi is the forest cousin of Nordmal. It is broader and slower, with _w_ and 
 
 Varokhi carries a heavier stock of stops than Nordmal and a lighter stock of clusters. The language features significant regional variation, as oral transmission naturally admits local innovation:
 
-**Consonants:** Varokhi keeps the stops (b, d, g, k, t) whole, alongside the fricatives (f, h, s, v), the glides (j, w) and the sonorants (l, m, n, r, y). Its habitual digraph is the dental fricative `th`, with `ch` standing in a handful of forest words. Initial consonant clusters are simpler and fewer than in Nordmal, and none runs to three sounds.
+**Consonants:** Varokhi keeps the stops (b, d, g, k, t) whole, alongside the fricatives (f, h, s, v), the affricate (j), the glides (w, y) and the sonorants (l, m, n, r). Its habitual digraph is the dental fricative `th`, with `ch` standing in a handful of forest words. Initial consonant clusters are simpler and fewer than in Nordmal, and none runs to three sounds.
 
-**Vowels:** Varokhi maintains five vowel positions (a, e, i, o, u), each with a long partner. The length distinction is phonemic. Diphthongs are few and sit inside a name rather than at either end of it.
+**Vowels:** Varokhi maintains five vowel positions (a, e, i, o, u). Diphthongs are few and sit inside a name rather than at either end of it.
 
-**Stress and Rhythm:** Stress is more flexible than in Nordmal, typically falling on the first or second syllable, but poets and orators exploit stress shifts for rhythmic and emotional effect. The language employs alliterative patterning, as in Nordmal, but with greater freedom in execution.
-
-**Distinctive Features:** Varokhi employs a system of tonal distinctions (rising, falling, level tones) on certain vowels, particularly in emphatic or emotional speech, though these are not always recognized as formal phonemes. This tonal element makes Varokhi sound melodic and expressive compared to the more monotone Nordmal.
+**Rhythm:** The language employs alliterative patterning, as in Nordmal, but with greater freedom in execution.
 
 ### Openings and closings
 
 Two inventories decide whether a name can be Varokhi at all, and both are closed. A name that opens or closes outside them belongs to some other tongue however well its middle behaves. Ordinary words are held to neither inventory: they write the same letters but may open and close more widely and run to a single beat, so _shal_ and _eth_ are Varokhi words and neither is a possible name.
 
-**The closings part the two tongues.** A Varokhi name may close on `c`, `s` or `th`, a [[skill-nordmalng|Nordmal]] name on `g`, `t` or `v`, and neither tongue closes a name the way the other does.
+**The closings part the two tongues.** A Varokhi name may close on `k`, `s` or `th`, a [[skill-nordmalng|Nordmal]] name on `g`, `t` or `v`, and neither tongue closes a name the way the other does.
 
 **What may open a name.** A single consonant, one of eight clusters, or a vowel with nothing in front of it.
 
@@ -5403,7 +5401,7 @@ FROM name_shapes WHERE language = 'thalorna-note-skill-varokhlng' ORDER BY posit
 
 **A seam writes both pieces whole.** An opening and a closing that meet on the same letter write it twice, so Skathhelm and Balthhelm carry `thh` and the join swallows nothing. Confusing the join with a doubled letter inside an element is the commonest error in reading a Varokhi name apart.
 
-**Stress is not fixed and alliteration is loose.** A name is said with its beat on the first syllable or the second, and which of the two belongs to the speaker and the region rather than to the name, so a Varokhi name cannot be said correctly on sight the way a Nordmal name can. A kindred binds its generations by repeating an element rather than by holding an onset steady, which is why one opening stands at the head of a whole run of names in the lists below.
+**Alliteration is loose.** A kindred binds its generations by repeating an element rather than by holding an onset steady, which is why one opening stands at the head of a whole run of names in the lists below.
 
 ## Grammar Notes
 
@@ -5521,7 +5519,7 @@ These pages name a Varokh the same way: the whole name at the first mention in a
 
 An **element** is a piece that means something and does not stand alone as a word. Every Varokhi name is elements and nothing else, so the lexicon is the whole of what a name may be made of.
 
-Several spellings may share one row. A long vowel and a short one are two spellings of the same element where the published names disagree about the length, which is why `gar-` and `gar-` stand together and why `skald-` and `skald-` do.
+Several spellings may share one row. A stressed spelling and an unmarked one are two spellings of the same element where the published names disagree about the stress, which is why `gar-` and `gar-` stand together and why `skald-` and `skald-` do.
 
 **Elements that open a name.**
 

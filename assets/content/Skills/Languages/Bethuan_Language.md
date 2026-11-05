@@ -550,7 +550,7 @@ The roman repertoire retains `v` and `V` in established names such as Kervanion 
 
 Bethuan is immediately recognizable to Helonic speakers as a linguistic cousin—the core vocabulary and basic grammar are intelligible—yet the sound is subtly different. Vowels tend to be longer and more open; consonants soften (particularly velar and sibilant sounds); and the overall rhythm is more flowing, less percussive than either Helonic or [[skill-byzarnlng|Bizarian]]. The language rewards elongation and gliding transitions between phonemes.
 
-The defining feature is its **gender-register system**: elevated formal speech employs the "feminine register" with specific grammatical markers, particle forms, and even some sound shifts that signal prestige, formality, and intellectual authority. Casual speech, military speech, and traditionally "masculine" domains often employ a distinct grammatical register. This is not mere social convention—the grammar itself bifurcates, with different paradigms for nominative and accusative marking, different auxiliary verbs, and different stress patterns depending on which register is active.
+The defining feature is its **gender-register system**: elevated formal speech employs the "feminine register" with specific grammatical markers, particle forms, and even some sound shifts that signal prestige, formality, and intellectual authority. Casual speech, military speech, and traditionally "masculine" domains often employ a distinct grammatical register. This is not mere social convention—the grammar itself bifurcates, with different paradigms for nominative and accusative marking, and different auxiliary verbs depending on which register is active.
 
 ## How Bethuan sounds
 
@@ -570,16 +570,9 @@ Bethuan is the open, vowel-final daughter of Helonic, with a layer of desert wor
 
 ### Vowel System
 
-Bethuan's vowels are notably fuller and longer-holding than Helonic:
+Bethuan's vowels are fuller and longer-holding than Helonic's. It uses the guide's five vowels _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it.
 
-- **a**—short and open, the "a" of "father" cut short; held long, the same sound often carried out on a glide; and, in older forms, darker and rounded, the "aw" of "law"
-- **e**—short, the "e" of "bet"; long, drifting toward the "ei" of "vein"
-- **i**—short, the "i" of "bit"; long, the "ee" of "machine"
-- **o**—short, the "o" of "for"; long, closing on a rounded "oh"
-- **u**—short, the "u" of "put"; long, the "oo" of "boot"
-- a front-rounded vowel, the lips rounded as for _o_ while the tongue says _e_ (rare, in older loanwords)
-
-Diphthongs are richer and more common than in Bizarian: -ou (a long "oh") and -au (a long "ah" gliding to "oo") are native pairs, and other vowels standing together are said apart. **Hiatus** (two adjacent vowels not forming a pair) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
+Diphthongs are richer and more common than in Bizarian: _ou_ and _au_ are native pairs, and other vowels standing together are said apart. **Hiatus** (two adjacent vowels not forming a pair) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
 
 ### Consonant System
 
@@ -598,35 +591,12 @@ kh
 gh
 : the same rasp voiced, a throaty "g" that never quite closes (more common in Bethuan than western Helonic)
 
-Soft consonants
-: Before front vowels (i, e), many consonants soften, taking on a "y" glide: t and d become roughly "ty" and "dy"; k and g become "ky" and "gy"
-
 Liquid gemination
 : Doubled r and l (_rr_, _ll_) are common in formal speech, signaling emphasis or prestige
 
 Consonant clusters are avoided; vowel epenthesis creates intermediate vowels: _sketar_ becomes _sekatar_ (secretary).
 
 **Gender Register Effects on Phonology:** The feminine register favors softer consonant articulation and clearer vowel production; theta (th) is more frequent, and sibilants (s, z) are pronounced with greater precision. The masculine register permits more consonant reduction and more rapid vowel elision.
-
-### Stress and Accentuation
-
-Bethuan uses a **pitch-accent system** similar to ancient Helonic, but with innovations:
-
-- Stress typically falls on the penultimate syllable (paroxytone), but the feminine register often shifts stress to earlier syllables for emphasis
-- The stress is musical, not percussive—the pitch rises on the stressed syllable and falls at the word's end
-- In the masculine register, stress becomes heavier and more secondary stresses emerge
-- Long vowels naturally attract accent; sequences with long vowels often create secondary stress
-
-Example stress patterns:
-
-_théoissa_ (goddess, feminine)
-: stress on first syllable in formal feminine register
-
-_theóis_ (gods)
-: stress on second syllable, musical fall
-
-_thius_ (god, masculine)
-: stress on final or penultimate, depends on context
 
 ## Grammar Notes: The Gender Register System
 
@@ -750,7 +720,7 @@ Khelathi has sounds Bethuan does not, and they are regularly smoothed away on th
 
 - **Uvular** _q_ collapses into plain _k_.
 - The Khelathi **glottal stop** is dropped, and a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
-- Khelathi's spare three-vowel system (_a, i, u_) is recolored into Bethuan's richer set, held long in speech and broken up by epenthetic _e_ and _o_.
+- Khelathi's spare three-vowel system (_a, i, u_) is recolored into Bethuan's richer set and broken up by epenthetic _e_ and _o_.
 - **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _sekatar_).
 - Stress is reset to the Bethuan **paroxytone** default.
 
@@ -837,13 +807,11 @@ Bethuan maintains the Helonic naming structure but applies **Bethuan pronunciati
 
 When Helonic names are used in Bethuan contexts, they undergo regular phonetic shifts:
 
-| Helonic Feature                        | Bethuan Shift                                                | Example                                       |
-| -------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
-| Hard velar k, g before front vowels    | Softened to "ky", "gy", or fully palatal                     | _Kéliran_ said _kyéliran_ (spoken only)       |
-| Final -os (masculine)                  | The o is held long; in formal feminine context, recast to -a | _Wissaros_ > _Wisaria_ (formal)               |
-| Short vowels before consonant clusters | Lengthened, cluster simplified                               | _Jádharos_ > _Jadharos_                       |
-| Sibilant s                             | More fricative, dental articulation                          | _Sotharion_ > _Thotharion_ (in some contexts) |
-| Theta (th)                             | Frequent in formal feminine register                         | _Thammas_, _Tháliminos_ (preserved)           |
+| Helonic Feature                        | Bethuan Shift                            | Example                             |
+| -------------------------------------- | ---------------------------------------- | ----------------------------------- |
+| Final -os (masculine)                  | In formal feminine context, recast to -a | _Wissaros_ > _Wisaria_ (formal)     |
+| Short vowels before consonant clusters | Cluster simplified                       | _Jádharos_ > _Jadharos_             |
+| Theta (th)                             | Frequent in formal feminine register     | _Thammas_, _Tháliminos_ (preserved) |
 
 ### Bethuan-Specific Naming Conventions
 

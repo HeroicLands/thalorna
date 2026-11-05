@@ -184,6 +184,17 @@ const replacedOlderNames = new Map([
 // paragraphs, and only for the sentences named here.
 const replacedProse = new Map([
     [
+        notePath("skill-tellumilng"),
+        [
+            // The neighbor tongues are described as Pronouncing Thalorna reads them.
+            ["or a front group (_e_, _ö_, _ü_), with", "or a front group (_e_), with"],
+            [
+                "is harsh and long-voweled: _kh_, _gh_, _sh_ and _zh_, long vowels, and every word closed by a consonant.",
+                "is harsh: _kh_, _gh_, _sh_ and _zh_, and every word closed by a consonant.",
+            ],
+        ],
+    ],
+    [
         notePath("skill-sowideslng"),
         [
             [
@@ -207,6 +218,36 @@ const replacedProse = new Map([
             [
                 "and heavily marked vowels for contractual precision.",
                 "and a careful, even run of _a_, _u_ and _i_ in every syllable for contractual precision.",
+            ],
+            // Taruzeli narrows Pronouncing Thalorna: no unwritten length, stress or pitch.
+            [
+                "Its long vowels give names and words a flowing, measured quality",
+                "Its open vowels give names and words a flowing, measured quality",
+            ],
+            [
+                "cut to its stressed syllable with the vowel held long: _Zabuzum_ is _Bu_.",
+                "cut to its stressed syllable: _Zabuzum_ is _Bu_.",
+            ],
+            [
+                "Taruzeli employs five primary vowel qualities, each with both short and long forms:",
+                "Taruzeli employs five primary vowel qualities:",
+            ],
+            [" (short or long)", ""],
+            [
+                "Long vowels carry heavy semantic weight. Compare _Shamut_ (short) vs. _Shamulu_ (long vowel emphasis). The interplay of long and short vowels creates a distinctive rhythmic pattern in speech.",
+                "",
+            ],
+            [
+                "Diphthongs are rare; vowel length and stress are preferred for emphasis.",
+                "Diphthongs are rare.",
+            ],
+            [
+                "Taruzeli exhibits stress patterns that tend toward the penultimate syllable in multi-syllable words, with secondary stress on earlier syllables in longer forms.",
+                "Taruzeli stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: the first syllable of a two-syllable word, the second-to-last of a longer one.",
+            ],
+            [
+                "The language is generally non-tonal but employs pitch accents for emphasis in formal contexts.",
+                "The language is non-tonal.",
             ],
         ],
     ],

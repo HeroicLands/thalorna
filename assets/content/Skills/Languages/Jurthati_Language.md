@@ -7066,7 +7066,7 @@ Jurthati is open-syllabled and even: a consonant and a vowel, again and again.
 
 ## Phonology
 
-**Vowels:** Five, **a e i o u**, each short or held long. The mainland's gliding pairs have mostly settled into long vowels—_ao_ and _ou_ are single long vowels on the islands—and only _ai_, _ei_ and _ui_ survive as pairs.
+**Vowels:** Five, **a e i o u**, each short or held long. The mainland's gliding pairs have mostly settled into long vowels—_ou_ is a single long vowel on the islands—and only _ai_, _ei_ and _ui_ survive as pairs.
 
 **Pitch:** The mainland's four tones have collapsed into a **pitch-accent** that the islanders do not write. A word the mainland sings in the high level or the rising tone is said high on the islands; one in the falling or the low tone is said low. The tones simply drop: _lei_, spirit, is _rei_; _shou_, water, is _shu_; _yan_, cloud, is _yan_; _wei_, jade, is _wei_. The high level tone left length behind, so the mainland's _tan_, celestial, is still _tan_. The pitch distinguishes word pairs rather than carrying grammatical weight—_tsu_ said high is earth, said low a tribe—and many mainland words have fallen together outright, which the shared script keeps apart in writing. The tone-poor result is the plainest difference between island and mainland speech.
 

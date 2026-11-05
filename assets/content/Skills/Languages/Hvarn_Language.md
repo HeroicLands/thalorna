@@ -4524,7 +4524,7 @@ Hvarn is the dense, short speech of the eastern guide-people. Most of its words 
 
 ### Vowel System
 
-**Vowels:** a, e, i, o, u, and a front rounded vowel, said with the tongue forward and the lips rounded
+**Vowels:** a, e, i, o, u
 
 **Diphthongs:** ei, ou
 

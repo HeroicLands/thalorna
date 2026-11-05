@@ -6156,13 +6156,13 @@ The language stands apart from southern Pelwar tongues, having developed in rela
 
 Nordmal is hammer-stressed and short: it favors one or two syllables, with the weight at the front.
 
-**The vowels.** _a_, _o_, _u_ and _i_ are short and hard. _e_ is rarer.
+**The vowels.** _a_, _o_, _u_ and _i_ lead, clipped and hard. _e_ is rarer.
 
 **The consonants.** _r_, _l_, _v_, _s_, _k_, _g_, _d_ and _th_ do the work.
 
 **Clusters.** Words open on _hr-_, _hn-_, _hl-_, _sk-_, _sn-_ or _dv-_ and close on _-ld_, _-rv_, _-lm_, _-rn_ or _-sk_, and end on _-ur_ after a consonant.
 
-**Coining.** A new word may use _hl_ /ɬ/, as in _hlask_.
+**Coining.** A new word may open on _hl_, a breath leading into _l_, as in _hlask_.
 
 **Endings.** Nordmal words end on a consonant or on _-a_ or _-i_. Names take _-inna_, _-ira_ or _-ann_.
 
@@ -6172,9 +6172,9 @@ Nordmal is hammer-stressed and short: it favors one or two syllables, with the w
 
 Nordmal employs a consonant-heavy inventory with particular emphasis on stops and fricatives, creating the characteristic "harsh" quality northern speakers are known for:
 
-**Consonants:** The language employs a full complement of stop consonants (p, b, t, d, k, g) with strong aspiration in some contexts. Fricatives include f, v, s, z and the voiceless dental fricative _th_ (as in _thin_). Nordmal has **no voiced dental fricative**: the sound older Pelwar carried in that slot merged into plain _d_ generations before the five kingdoms were founded, which is why _seid_ is said SAID and not SAYTH. The runic row still keeps two separate staves for a distinction the tongue gave up, and rune-masters treat that as proof the staves are older than the speech. The combination of these fricatives with the heavy stress patterns creates the characteristic "crackling" sound of Nordmal speech. Initial consonant clusters are common and well-tolerated (str-, skr-, kn- are typical).
+**Consonants:** The language employs a full complement of stop consonants (p, b, t, d, k, g) with strong aspiration in some contexts. Fricatives include f, v, s, z and the voiceless dental fricative _th_ (as in _thin_). Nordmal has **no voiced dental fricative**: the sound older Pelwar carried in that slot merged into plain _d_ generations before the five kingdoms were founded, which is why _seid_ is said SAYD and not SAYTH. The runic row still keeps two separate staves for a distinction the tongue gave up, and rune-masters treat that as proof the staves are older than the speech. The combination of these fricatives with the heavy stress patterns creates the characteristic "crackling" sound of Nordmal speech. Initial consonant clusters are common and well-tolerated (str-, skr-, kn- are typical).
 
-**Vowels:** Nordmal maintains five vowel positions (a, e, i, o, u) with systematic length distinctions. Diphthongs are limited in inventory but phonemic. Nasal vowels do not occur.
+**Vowels:** Nordmal maintains five vowel positions (a, e, i, o, u). Diphthongs are limited in inventory but phonemic. Nasal vowels do not occur.
 
 **Stress and Rhythm:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Nordmal favors short words, so the weight falls at the front. This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
 
@@ -6226,7 +6226,7 @@ FROM name_shapes WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY posit
 
 Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favors put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.
 
-A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—[[lore-solrundty|Solrún]] and [[lore-thrunvalddty|Thrunvald]] open long, Althmil and Hlartharuk open short.
+A name-stem is one syllable, so a stem-and-ending name runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count.
 
 Alliteration binds, and end rhyme does nothing. A skald binds a line by repeating the onset, and a hall binds its generations the same way: a line whose name-giver was Hlarthvir names its sons Hlirthmil and its grandsons Hlurthann, so the onset holds steady down the generations while the ablaut grade turns over. A coined name that alliterates with nothing in the hall it belongs to is as wrong as a coined name with the wrong grade.
 

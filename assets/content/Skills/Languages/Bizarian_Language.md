@@ -3431,24 +3431,7 @@ Bizarian sets Helonic grammar on an eastern vocabulary. Its sound is the crossro
 
 ### Vowel System
 
-Bizarian's vowel inventory is simplified compared to Helonic, with a tendency toward shorter, more clipped articulation:
-
-a
-: short and open, brighter than Helonic; long, an open "ah"
-
-e
-: short, as in "bet"; long, an "eh" as in "fete"
-
-i
-: short, as in "bit"; long, an "ee" as in "machine"
-
-o
-: short, as in "for"; long, an "oh" as in "note"
-
-u
-: short, as in "put"; long, an "oo" as in "boot"
-
-The distinctive feature is the _schwa_—the flat, unstressed "a" of "about"—borrowed from eastern languages and used in rapid speech to weaken unstressed syllables. This is less common in formal speech but pervasive in bazaar dialect and practical contexts. Diphthongs are less ornamental than in Helonic; -ai, -ei, and -oi tend toward monophthongization in rapid speech (becoming a plain "e", "i" and "u" respectively).
+Bizarian's vowel inventory is simplified compared to Helonic, with a tendency toward shorter, more clipped articulation. It uses the guide's five vowels _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it. Diphthongs are less ornamental than in Helonic.
 
 ### Consonant System
 
@@ -3475,22 +3458,7 @@ ch
 
 The most notable feature: **explosive release of stops**. The -k and -t stops are articulated with stronger release, making Bizarian speech sound crisper and more percussive than Helonic. This is the single most recognizable phonetic marker of Bizarian.
 
-**Consonant clusters:** Unlike Helonic, Bizarian permits some initial clusters (sk-, str-) from eastern words, though native words typically avoid clusters by inserting schwas (e.g., _seketar_ rather than _skater_ for "secretary").
-
-### Stress and Accentuation
-
-Bizarian employs primarily **word-stress accent** rather than pitch accent. The stressed syllable is typically the penultimate (second-to-last), with secondary stress on the antepenultimate in longer words. The stress is heavier, more percussive than Helonic's musical tones.
-
-Characteristic patterns:
-
-_Krisandáhr_ (kri-san-DAHR)
-: stress on the final syllable (eastern influence)
-
-_Plamogiza_ (pla-mo-GEE-za)
-: stress on the accented penultimate, with secondary stress on the first syllable
-
-_Rabekara_ (ra-be-KAH-ra)
-: compressed penultimate stress
+**Consonant clusters:** Unlike Helonic, Bizarian permits some initial clusters (sk-, str-) from eastern words, though native words typically avoid clusters by inserting a vowel (e.g., _seketar_ rather than _skater_ for "secretary").
 
 ## Grammar Notes
 

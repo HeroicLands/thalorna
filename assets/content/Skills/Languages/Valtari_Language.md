@@ -5762,28 +5762,26 @@ Valtari has no H and none of the throat sounds of its parents: the Taruzeli and 
 
 ### Vowels
 
-Five basic vowels, said short, with some variation in pronunciation depending on speaker origin. The long vowels of Taruzeli and Helonic are all said short in Valtari:
+Five basic vowels, each said as written, stressed or not. The long vowels of Taruzeli and Helonic are all said short in Valtari:
 
 A
-: an open "ah", variable (flattening toward the "a" of "about" when unstressed)
+: as in "father"
 
 E
-: as in "bet" (flattening toward the "a" of "about" in rapid speech)
+: as in "bet"
 
 I
-: as in "machine" (shortening toward the "i" of "bit")
+: as in "machine"
 
 O
-: as in "note" (flattening toward the "a" of "about")
+: a steady "oh" without a closing glide
 
 U
 : as in "boot"
 
-Vowels are often **reduced in unstressed syllables**, especially in the speech of hurried traders. A word like _telusu_ might be pronounced _tlmsu_ in rapid dock speech. Non-native speakers often simplify vowels further, contributing to the language's fluidity and mutability.
+### Intonation
 
-### Stress and Intonation
-
-Stress is **unpredictable** and varies by speaker origin. Taruzeli speakers stress the first syllable; Helonic speakers stress toward the end. This makes Valtari speech rhythmically irregular, contributing to its "unfinished" quality. Rising intonation at the end of statements is common, turning assertions into questions—a feature borrowed from Helonic.
+Rising intonation at the end of statements is common, turning assertions into questions, a feature borrowed from Helonic. This makes Valtari speech rhythmically irregular, contributing to its "unfinished" quality.
 
 ## Grammar Notes
 

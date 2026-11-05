@@ -5,9 +5,17 @@
 
 import assert from "node:assert/strict";
 import fs from "node:fs";
+import os from "node:os";
+import path from "node:path";
 import test from "node:test";
 import { noteFilesWhere } from "./note-index.mjs";
-import { alphabetOf, checkWord, main, spellingFindings } from "./spelling-guard.mjs";
+import * as guard from "./spelling-guard.mjs";
+
+const { alphabetOf, checkWord, main, spellingFindings } = guard;
+const additionsOf = (...args) => {
+    assert.equal(typeof guard.additionsOf, "function", "the guard exports additionsOf");
+    return guard.additionsOf(...args);
+};
 
 const [guideFile] = noteFilesWhere((fm) => fm?.type === "doc" && fm?.shortcode === "prnncthlrn");
 const guideText = fs.readFileSync(guideFile, "utf8");
@@ -38,10 +46,81 @@ test("rule 1: a phrase entry may carry the standard roman punctuation, not ; or 
     assert.deepEqual(rules("kasa: tel"), [1]);
 });
 
-test("rule 1: letters a language declares are accepted for it only", () => {
-    const note = `---\nshortcode: x\ndata:\n  sounds:\n    letters:\n      - {letters: [x], kind: consonant}\n---\n`;
-    assert.deepEqual(rules("alaxa", alphabetOf(guideText, note)), []);
-    assert.deepEqual(rules("alaxa"), [1]);
+const additionNote = [
+    "---",
+    "shortcode: x",
+    "data:",
+    "  sounds:",
+    "    letters:",
+    "      - {letters: [k, sh], kind: consonant}",
+    "      - {letters: [x, bh], kind: consonant}",
+    "      - {letters: [ai], kind: consonant}",
+    "      - {letters: [ŭ], kind: vowel}",
+    "  words:",
+    "    - {form: alaxa, gloss: a}",
+    "---",
+    "",
+].join("\n");
+
+test("rule 1: a language narrows the guide and never adds a letter to it", () => {
+    assert.deepEqual(rules("alaxa", alphabetOf(guideText, additionNote)), [1]);
+    const hits = spellingFindings(additionNote, guideText);
+    assert.deepEqual(
+        hits.map((h) => h.form),
+        ["alaxa"],
+    );
+});
+
+test("a marked letter keeps its base letter's kind from the guide", () => {
+    const note = (entries) =>
+        ["---", "shortcode: x", "data:", "  sounds:", "    letters:", ...entries, "---", ""].join(
+            "\n",
+        );
+    const wrong = additionsOf(note(["      - {letters: [á, ä], kind: consonant}"]), alphabet);
+    assert.deepEqual(
+        wrong.map((a) => [a.letter, a.line]),
+        [
+            ["á", 6],
+            ["ä", 6],
+        ],
+    );
+    assert.match(wrong[0].message, /is a vowel in Pronouncing Thalorna, not a consonant/);
+    assert.deepEqual(
+        additionsOf(
+            note([
+                "      - {letters: [á, é, ä, ë], kind: vowel}",
+                "      - {letters: [à, ì], kind: short vowel}",
+            ]),
+            alphabet,
+        ),
+        [],
+    );
+});
+
+test("a letter, group or mark a language declares beyond the guide is a finding at its line", () => {
+    const found = additionsOf(additionNote, alphabet);
+    assert.deepEqual(
+        found.map((a) => [a.letter, a.line, a.column]),
+        [
+            ["x", 7, 20],
+            ["bh", 7, 23],
+            ["ai", 8, 20],
+            ["ŭ", 9, 20],
+        ],
+    );
+    assert.match(found[0].message, /not in Pronouncing Thalorna/);
+    assert.match(found[2].message, /vowel pair/);
+    const out = [];
+    const err = [];
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "alden-spelling-guard-"));
+    fs.writeFileSync(path.join(dir, "Test.md"), additionNote);
+    try {
+        main([path.join(dir, "Test.md")], { out: (s) => out.push(s), err: (s) => err.push(s) });
+    } finally {
+        fs.rmSync(dir, { recursive: true });
+    }
+    assert.ok(err.some((e) => /Test\.md:7:20: warning: "x" /.test(e)));
+    assert.ok(out.some((o) => /^4 addition\(s\)/.test(o)));
 });
 
 test("rule 2: a marked letter is on its mark's list, and the acute stands once", () => {

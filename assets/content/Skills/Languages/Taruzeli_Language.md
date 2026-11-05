@@ -7049,7 +7049,7 @@ The roman repertoire retains `f` and `o`, with their capitals, in the existing i
 
 Taruzeli is the tongue of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the [[place-taruzelrgn|Taruzelian islands]], in the harbors of the [[place-vylarianse|Vylarian Sea]] and in the port cities of [[place-klhrcntnnt|Kalihara]], Taruzeli dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
 
-Taruzeli is characterized by rhythmic, sonorous tones. Its long vowels give names and words a flowing, measured quality suited to contract negotiations and formal agreements.
+Taruzeli is characterized by rhythmic, sonorous tones. Its open vowels give names and words a flowing, measured quality suited to contract negotiations and formal agreements.
 
 ## How Taruzeli sounds
 
@@ -7092,30 +7092,28 @@ The velar _kh_ and uvular _q_ give Taruzeli a guttural quality that distinguishe
 
 ### Vowel System
 
-Taruzeli employs five primary vowel qualities, each with both short and long forms:
+Taruzeli employs five primary vowel qualities:
 
 a
-: front open vowel (short or long)
+: front open vowel
 
 e
-: front mid vowel (short or long)
+: front mid vowel
 
 i
-: front close vowel (short or long)
+: front close vowel
 
 o
-: back mid vowel (short or long)
+: back mid vowel
 
 u
-: back close vowel (short or long)
+: back close vowel
 
-Long vowels carry heavy semantic weight. Compare _Shamut_ (short) vs. _Shamulu_ (long vowel emphasis). The interplay of long and short vowels creates a distinctive rhythmic pattern in speech.
-
-Diphthongs are rare; vowel length and stress are preferred for emphasis.
+Diphthongs are rare.
 
 ### Stress and Prosody
 
-Taruzeli exhibits stress patterns that tend toward the penultimate syllable in multi-syllable words, with secondary stress on earlier syllables in longer forms. This creates a measured, rolling cadence suited to oral recitation of contracts and maritime commands.
+Taruzeli stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: the first syllable of a two-syllable word, the second-to-last of a longer one. This creates a measured, rolling cadence suited to oral recitation of contracts and maritime commands.
 
 Examples from given names:
 
@@ -7123,7 +7121,7 @@ Examples from given names:
 - _sha-MU-lu_ (stress on the second-to-last syllable)
 - _TAR-ruk_ (stress on first)
 
-The language is generally non-tonal but employs pitch accents for emphasis in formal contexts.
+The language is non-tonal.
 
 ## Grammar Notes
 
@@ -7434,7 +7432,7 @@ The particles are short because a Taruzeli sentence carries its weight in the ro
 
 **A Taruzeli person** carries a given name and a family name, the given name first: [[being-zbzmjkdn|Zabuzum Jakuduni]] is Zabuzum of the house of the hull. A given name is a root with a personal ending. A man's closes on _-um_, _-ush_, _-an_ or _-u_, and the ending carries what the parents hope of him: _Khurutush_ is a dispute weighed and settled, _Tanadan_ is full of holding fast. A woman's closes on _-a_ or _-uya_, which run softer and carry fewer doubled consonants: _Belgina_, _Hushaduya_. A family name is a root with _-i_, _-uni_ or _-um_, and says whose firm a person belongs to; the root names the trade or the standing the house was founded on, so _Jakuduni_ is the company of the hull and _Qizikuni_ the company of the inheritance, houses that outlast any man in them. The name is also a credit line: a person's _mardu_ is the worth of the whole name said aloud, and a Taruzelian who changes either part of it has changed what a creditor can read.
 
-Among friends a given name is cut to its stressed syllable with the vowel held long: _Zabuzum_ is _Bu_. A short name is used of a person already named in full, never in a contract.
+Among friends a given name is cut to its stressed syllable: _Zabuzum_ is _Bu_. A short name is used of a person already named in full, never in a contract.
 
 **A place** is a root with _-un_, _-ar_, _-el_ or _-an_: _Sazumun_ is where the toll is levied, _Besikar_ where the harbor is kept, _Yamuzel_ the ground of the fleet, _Kudumel_ the ground of arrival. The land itself is _Taruzel_, the ground of the houses, built as `taruz-` + `-el`; its people and its tongue take the reader's endings, Taruzelian and Taruzeli.
 

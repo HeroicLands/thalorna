@@ -25,7 +25,7 @@ data:
 
 The Morning Call is the third satire in the book of [Nizelar]{.name data-type="being/npc"}, a client-poet of [[place-orzara|Orzara]] who lived in the [Warrens]{.name data-type="place/site"} and attended a patron on the [Heights]{.name data-type="place/site"}, and who says so in every poem he wrote. He was a veteran's son, and so a citizen only until he was grown, and the satires never let a listener forget that his right to sleep inside the line was his patron's to sign each year. Satire is the one form of verse the Vylarian schools call their own and not a borrowing, and it is in a lighter line than the epic, quick and broken, with the speech of the street let into it. Nizelar's book is read aloud after dinner in the houses of [[place-selvin|Selvin]] (the Laurel) and the [Coronal]{.name data-type="place/site"} by the people it describes, and they laugh in the right places. The houses it names by their streets have argued for a long time about which of them it means, and each house holds that it means another.
 
-The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the [[place-alyssa|Alessa]] street speech, with the worn-down article _à_ the schoolmasters correct: _À thelmos lokazor. À daimela falvazor._ ("The client's come. The patron's out.") The steward at the door says the same thing in the high register of the [[skill-vylarilng|Vylari Language]], with one small word put in, and the poem turns on the word: _«Daimela, vethor, zikai falvazor.»_ ("The patron, he says, is perhaps away.") The word gives the patron's absence as a thing only alleged, and that is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
+The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the [[place-alyssa|Alessa]] street speech, with the worn-down article _a'_ the schoolmasters correct: _A' thelmos lokazor. A' daimela falvazor._ ("The client's come. The patron's out.") The steward at the door says the same thing in the high register of the [[skill-vylarilng|Vylari Language]], with one small word put in, and the poem turns on the word: _«Daimela, vethor, zikai falvazor.»_ ("The patron, he says, is perhaps away.") The word gives the patron's absence as a thing only alleged, and that is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
 
 : The Morning Call {#call}
 
@@ -177,7 +177,7 @@ Denkanai ilthera sa iltheron iltheralon ol nelameza ir Moktur yarezor./
 Voza lukemar umbaris zirkoi zel tigathen‼ Lukemoron ar yarezor. Voza silkathen, felzur umbaris zirkon‼/
 Yarezor, naren harkelon yarezor. Fos. Kazthos. Orzara. Pramiza.
 
-À thelmos lokazor. À daimela falvazor.
+A' thelmos lokazor. A' daimela falvazor.
 
 Fos Sirethalmalthos fir Selvin urzimen. Urzelos kazthos zirkon yarezor./
 Pra firnadon kedis ulmera fos pra orthemos Orzas urkis ar daimazor./
@@ -228,7 +228,7 @@ Ir zirothalon. Sa dorthene yarezor. Ankezdos ar klinezor. Anlambiza kerazor./
 Zel zirkoi ir zirothalon tigamar. Holimos holimai. Orthemos orthemai./
 Ankezdos holimai tigazor. Holethi ir zelimmon yarezor. Eza holethi enoi lomamar ar kezdazor?
 
-À thelmos lokazor. À daimela falvazor.
+A' thelmos lokazor. A' daimela falvazor.
 
 Eza fa pramiza kethis kuremen? Zirothos ol en kuremen. Zorimoron zirkon./
 Klinandon ol tholkezos ol karezos kuremen. Denon kezilon rozethi kezilon ol kezilon verdakis kerazor./
@@ -268,7 +268,7 @@ Fos tevare ol talonartos. Pra tharnela ol alethos verezos yarezoi./
 Thizaron sethathen, kolvazis yarezor. Harlen sethathen, neharlon yarezor. Yenthamis sethathen./
 Daimandon ol threnemai yarezor. Pelera dumva ir felzoron zirothos ol Seldan ombizor.
 
-À thelmos lokazor. À daimela falvazor.
+A' thelmos lokazor. A' daimela falvazor.
 
 Fir dumva kanai. Zel fos Selvin ir hilthera. Ir teremazon pozera./
 Melvar kazthos. Melvar Kilron ol Orzas. Ir Kilron./
@@ -290,7 +290,7 @@ Holethi zirkon zorimoron yarezor. Zorimoron ol en yarezor./
 Thelmos kedis urkis pramiza anhalbazor fos thrima, ir Ormakir zirothazor./
 Kona zelkormai ul kedroi. Lokanthi ir zirkon thalemen.
 
-À thelmos lokazor. À daimela falvazor. Lokanthi thelmos ir pramiza lokazor.
+A' thelmos lokazor. A' daimela falvazor. Lokanthi thelmos ir pramiza lokazor.
 :::
 
 ## See Also

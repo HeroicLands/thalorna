@@ -44,9 +44,9 @@ test("bare pairs, groups or not, pass", () => {
     assert.deepEqual(vowelPairFindings(note(["kaira", "baab", "koa", "kao"]), common), []);
 });
 
-test("a diaeresis splitting a group the language note declares passes", () => {
+test("a group a language note declares adds nothing to the guide's", () => {
     const extra = "  sounds:\n    letters:\n      - {letters: [ue], kind: vowel pair}\n";
-    assert.deepEqual(vowelPairFindings(note(["tsuë"], extra), common), []);
+    assert.equal(vowelPairFindings(note(["tsuë"], extra), common).length, 1);
     assert.equal(vowelPairFindings(note(["tsuë"]), common).length, 1);
 });
 

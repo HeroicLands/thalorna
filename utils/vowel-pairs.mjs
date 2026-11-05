@@ -12,7 +12,7 @@
  * both said unless they form a group, so a diaeresis changes the reading only
  * on the second vowel of a group: a `vowel pair` or `long vowel` entry of
  * `data.sounds.letters` in the guide (Pronouncing Thalorna, limited by the
- * entry's `tongue` list when it has one), or in the language note itself.
+ * entry's `tongue` list when it has one). A language note never adds a group.
  * A diaeresis anywhere else changes nothing and is a finding: every sound has
  * one spelling. Runs of vowels are read left to right, longest group first. A
  * grave never joins a group. The letter `y` is a consonant. A hyphen, space,
@@ -311,12 +311,9 @@ function formsOf(text) {
  * @returns {{form: string, pair: string, line: number, column: number}[]}
  */
 export function vowelPairFindings(text, common) {
-    const parsed = frontmatterDoc(text);
-    const groups = new Set(common);
-    if (parsed) for (const g of declaredGroups(parsed.doc, addressOfText(text))) groups.add(g);
     const out = [];
     for (const { form, at } of formsOf(text))
-        for (const { pair, offset } of badPairs(form, groups))
+        for (const { pair, offset } of badPairs(form, common))
             out.push({ form, pair, ...at(offset) });
     return out;
 }

@@ -8,7 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Vyl.
-  roman: "ABDEFGHIKLMNOPRSTUVWYZabdefghiklmnoprstuvwyzÁÉÍÓÚÝáéíóúýËëÀà0123456789"
+  roman: "ABDEFGHIKLMNOPRSTUVWYZabdefghiklmnoprstuvwyzÁÉÍÓÚÝáéíóúýËëÀà0123456789'"
   classModifiers: [m, f, "n"]
   emphasis: words
   fields:
@@ -308,7 +308,7 @@ data:
       field: The hallowed and the gods
       gloss: "the kept fire; the hearth of a house, never let go out"
       concept: hearth
-      source: {kind: inherited, form: "kàralzon"}
+      source: {kind: inherited, form: "k'aralzon"}
     - form: karalzis
       class: n m
       plural: karalzis
@@ -2250,7 +2250,7 @@ data:
       class: n f
       field: The sea and the sailing year
       gloss: "a lighthouse; a tower that keeps a fire"
-      source: {kind: inherited, form: "kàrthorgila"}
+      source: {kind: inherited, form: "k'arthorgila"}
       built: ["kar-", thorgila]
     - form: rezothos
       class: n m
@@ -8543,7 +8543,7 @@ data:
       field: The body, life and death
       gloss: "rain"
       source: {kind: coined}
-    - form: à
+    - form: "a'"
       class: part
       field: Numbers and grammar words
       gloss: the; the worn-down Alessa article from alathos, retained in the morning-call refrain
@@ -8781,7 +8781,7 @@ data:
       proto: yaltheza
       gloss: a prayer
     - forms: {skill-vylarilng: karalzon, skill-provnzlng: karalze, skill-tarvenlng: karalzo}
-      proto: kàralzon
+      proto: k'aralzon
       gloss: the kept fire
     - forms: {skill-vylarilng: thelvaralon, skill-provnzlng: telvaral, skill-tarvenlng: thelvaralo}
       proto: thelwaralon
@@ -10796,7 +10796,7 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 **Endings.** Nouns end in _-os_, _-is_, _-a_, _-en_ or _-on_. Titles end in _-andos_, _-enos_ or _-or_. Feminine names end in _-a_ or _-enna_.
 
-**What Vylari leaves out.** It has no _kh_, _gh_ or _dh_, which are Helonic's, and no _ei_ or _eu_. A grave on _à_ marks the catch of the ancient forms, as in _kàralzon_, and the worn-down article _à_ of Alessa speech. In _kàralzon_ and _kàrthorgila_ the catch follows the preceding _k_; in the article it follows _a_. It adds no vowel or syllable, and has no quotation role.
+**What Vylari leaves out.** It has no _kh_, _gh_ or _dh_, which are Helonic's, and no _ei_ or _eu_. The ancient forms write their catch with an apostrophe, as in _k'aralzon_ and _k'arthorgila_, where the _k_ is said with the catch. The catch adds no vowel or syllable, and has no quotation role. The worn-down article of Alessa speech is _a'_, an _a_ with the catch after it.
 
 ## Two Stages
 
@@ -10813,7 +10813,7 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 **Consonants.** Imperial Vylari has the stops _p t k b d g_, the breathed stops _f_ and _th_, the hissed _s_ and buzzed _z_, _v_, _h_, _m n l r_, and _y_ before a vowel. The contrast between plain and breathed stops tells words apart, and a foreigner who says every _th_ as a plain _t_ is understood with an effort. Ancient Vylari had a third series of stops closed hard in the throat and released with a click (after _t_, _k_, _d_ or _g_), voiced stops with a breath after them (_dh gh_), and _w_; imperial Vylari has none of these.
 
-**Vowels.** Five vowels, _a e i o u_, each short or long. A long _a_, _i_ or _u_ is written double (_aa_, _ii_, _uu_); a long _e_ or _o_ is written single. Three diphthongs: _ai au oi_.
+**Vowels.** Five vowels, _a e i o u_. A held _a_, _i_ or _u_ is written double (_aa_, _ii_, _uu_). Three diphthongs: _ai au oi_.
 
 **Words.** A word opens on a vowel, one consonant, or a stop followed by _l_ or _r_; it closes on a vowel or on _s n r l_. No more than three consonants stand together.
 
@@ -10938,16 +10938,16 @@ The verb has the present only, and time is said in words.
 
 A word at the head of the sentence says what kind of sentence it is, and the rest is said as a plain statement:
 
-| Word      | Opens                              | Example                                                      |
-| --------- | ---------------------------------- | ------------------------------------------------------------ |
-| _eza_     | a question                         | _Eza à daimela falvazor?_ "Is the patron out?"               |
-| _areza_   | a question that expects yes        | _Areza à thelmos lokazor?_ "The client has come, hasn't he?" |
-| _vez_     | a question that expects no         | _Vez humelthandar yarezor?_ "It isn't resting, is it?"       |
-| _voza_    | a command, with the infinitive     | _Voza lokathen‼_ "Come."                                     |
-| _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen‼_ "Do not come."                           |
-| _aia_     | an exclamation                     | _Aia theson!_ "That thing of yours!"                         |
+| Word      | Opens                              | Example                                                       |
+| --------- | ---------------------------------- | ------------------------------------------------------------- |
+| _eza_     | a question                         | _Eza a' daimela falvazor?_ "Is the patron out?"               |
+| _areza_   | a question that expects yes        | _Areza a' thelmos lokazor?_ "The client has come, hasn't he?" |
+| _vez_     | a question that expects no         | _Vez humelthandar yarezor?_ "It isn't resting, is it?"        |
+| _voza_    | a command, with the infinitive     | _Voza lokathen‼_ "Come."                                      |
+| _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen‼_ "Do not come."                            |
+| _aia_     | an exclamation                     | _Aia theson!_ "That thing of yours!"                          |
 
-_areza_ is _ar_, "not", joined to _eza_. Written Vylari uses the standard roman punctuation, which records each sentence's type: `.` ends a statement, `?` a question, `‼` a command and `!` an exclamation, and `,` marks a pause inside a sentence. Vylari also voices the type with its opening word, so a question keeps its question word, a command its _voza_ and an exclamation its _aia_, and emphasis has its own words. The standard marks belong to the roman alone; the Semaron script draws only the catch and its one pause point, and the other marks are carried invisibly. A grave vowel marks a lexical catch, not punctuation.
+_areza_ is _ar_, "not", joined to _eza_. Written Vylari uses the standard roman punctuation, which records each sentence's type: `.` ends a statement, `?` a question, `‼` a command and `!` an exclamation, and `,` marks a pause inside a sentence. Vylari also voices the type with its opening word, so a question keeps its question word, a command its _voza_ and an exclamation its _aia_, and emphasis has its own words. The standard marks belong to the roman alone; the Semaron script draws only the catch and its one pause point, and the other marks are carried invisibly. The apostrophe of a catch, as in _a'_, belongs to the word and is not punctuation.
 
 ### Reported speech
 
@@ -10969,7 +10969,7 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 
 **High Vylari:** The formal register of law, liturgy, the Senate and literature, taught in the schools. It keeps the ancient endings and holds every long vowel at its full length.
 
-**Alessa Dialect:** The quick, clipped speech of the greatest port. It shortens unstressed vowels, puts the verb wherever it likes, and wears the "yonder" word down to a bare _à_ before a noun, so that _à thelmos_ means simply "the client". High Vylari has no article, and a schoolmaster who hears _à_ in his classroom corrects it.
+**Alessa Dialect:** The quick, clipped speech of the greatest port. It shortens unstressed vowels, puts the verb wherever it likes, and wears the "yonder" word down to a bare _a'_ before a noun, so that _a' thelmos_ means simply "the client". High Vylari has no article, and a schoolmaster who hears _a'_ in his classroom corrects it.
 
 **Hilen Lowland Dialect:** Says _th_ as _s_ and shortens long vowels everywhere, not only where they are unstressed. It keeps old forms the capital has lost.
 
@@ -10983,7 +10983,7 @@ _Voza ulthoi okethen denon zaron ul kalmetharoi‼_
 _Daimela orfenamen._
 : "Patron, I am in your debt." (The client's greeting at the morning call; no pronoun, since saying "I" aloud would be forward.)
 
-_À thelmos lokazor. À daimela falvazor._
+_A' thelmos lokazor. A' daimela falvazor._
 : "The client's come; the patron's out." (Alessa street speech, with the worn-down article.)
 
 _Humelthandar yarezor._
@@ -11043,7 +11043,7 @@ ORDER BY position
 
 ## Sounds and spelling {#sounds-and-spelling}
 
-Its words follow [[doc-prnncthlrn|Pronouncing Thalorna]], with the Vylari grave-vowel catch described above. The roman alphabet has _a b d e f g h i k l m n o p r s t u v y z_, and ancient forms also use _w_. Acute vowels mark exceptional stress, _ë_ separates vowels, and _à_ carries a catch; each marked letter retains its capital form. Digits 0 to 9 are written as numerals. Punctuation is the standard roman set.
+Its words follow [[doc-prnncthlrn|Pronouncing Thalorna]]. The roman alphabet has _a b d e f g h i k l m n o p r s t u v y z_, and ancient forms also use _w_ and the apostrophe catch. Acute vowels mark exceptional stress, and _ë_ separates vowels; each marked letter retains its capital form. Digits 0 to 9 are written as numerals. Punctuation is the standard roman set.
 
 ### Word edges
 

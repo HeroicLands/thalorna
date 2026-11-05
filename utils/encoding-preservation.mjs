@@ -871,6 +871,273 @@ export const STRESS_PROSE = new Map([
     ],
 ]);
 
+/**
+ * Baseline lines a language note drops or rewrites so that it narrows Pronouncing
+ * Thalorna and adds nothing to it, by address, in document order: each pair is
+ * a whole baseline line and the line that stands for it, or "" where the line
+ * goes.
+ */
+export const GUIDE_PROSE = new Map([
+    [
+        "skill-atarzadilng",
+        [
+            [
+                "Atárzadi is the harsh cousin of Dunhari, with longer vowels and endings that close hard.",
+                "Atárzadi is the harsh cousin of Dunhari, with endings that close hard.",
+            ],
+            [
+                "Atárzadi is the harshest tongue of the belt: full of _kh_, _gh_, _sh_ and _zh_, heavy with long vowels, and closed at the end of every word by a consonant. It shares Dunhari's fricatives and its uvular _q_ but none of its gliding vowels, and it lacks Dunhari's _p_, _f_ and _w_. The two build offices and places on different endings, and one pair looks regular: the place ending _-ez_ answers Dunhari _-adez_, the fort. Speakers of the two tongues understand each other's numbers, kin-words and a good part of their trade talk, and very little else.",
+                "Atárzadi is the harshest tongue of the belt: full of _kh_, _gh_, _sh_ and _zh_, and closed at the end of every word by a consonant. It shares Dunhari's fricatives and its uvular _q_ but none of its gliding vowels, and it lacks Dunhari's _p_, _f_ and _w_. The two build offices and places on different endings, and one pair looks regular: the place ending _-ez_ answers Dunhari _-adez_, the fort. Speakers of the two tongues understand each other's numbers, kin-words and a good part of their trade talk, and very little else.",
+            ],
+            [
+                'A syllable opens on one consonant or on nothing and closes on any consonant but _h_ or _y_. A word never sets two vowels side by side, never doubles a letter, and **always ends on a consonant**: _uzhem_ "water", _deshak_ "road", _khumez_ "sand". **Every stem holds a long vowel**, so a name built from Atárzadi stems always carries a long vowel.',
+                'A syllable opens on one consonant or on nothing and closes on any consonant but _h_ or _y_. A word never sets two vowels side by side, never doubles a letter, and **always ends on a consonant**: _uzhem_ "water", _deshak_ "road", _khumez_ "sand".',
+            ],
+            ["### Stress", ""],
+            [
+                "Stress falls on the last long vowel of a word: de-**SHAK**, **UZH**-em. A word with no long vowel is stressed on its last syllable.",
+                "",
+            ],
+        ],
+    ],
+    [
+        "skill-dunharlng",
+        [
+            [
+                "**The vowels.** _a_ leads, with _e_ and _o_. Long vowels are not written.",
+                "**The vowels.** _a_ leads, with _e_ and _o_.",
+            ],
+            [
+                "Dunhari employs a five-vowel system with contrastive length and quality:",
+                "Dunhari employs a five-vowel system: _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it. The interplay of vowels creates the characteristic rhythm of Dunhari poetry.",
+            ],
+            ["a", ""],
+            [": open front vowel (short or long)", ""],
+            ["e", ""],
+            [": mid front vowel (short or long)", ""],
+            ["i", ""],
+            [": close front vowel", ""],
+            ["o", ""],
+            [": mid back vowel (short or long)", ""],
+            ["u", ""],
+            [": close back vowel (short or long)", ""],
+            [
+                "Long vowels carry significant semantic and poetic weight. The interplay of vowel length creates the characteristic rhythm of Dunhari poetry.",
+                "",
+            ],
+            [
+                "Diphthongs are common and phonologically significant:",
+                "Diphthongs are common and phonologically significant: _ai_, _au_, _ei_ and _ou_. These diphthongs are fundamental to the melodic quality of the language.",
+            ],
+            ["ai", ""],
+            [": as in _Jamaris, Afshanar_", ""],
+            ["au", ""],
+            [": as in _Bahrazad, Qavadar_", ""],
+            ["ei", ""],
+            [": as in _Farvan, Razanash_", ""],
+            ["ou", ""],
+            [": as in _Goshanad, Rostadar_", ""],
+            ["These diphthongs are fundamental to the melodic quality of the language.", ""],
+            ["### Stress and Prosody", ""],
+            [
+                "Dunhari exhibits a primarily stress-timed rhythm with stress typically falling on the first or penultimate syllable. Secondary stress often appears on thematic roots in longer words.",
+                "",
+            ],
+            ["Examples from names:", ""],
+            ["- _VAH-dar-un_ (stress on first syllable)", ""],
+            ["- _KO-rush-an_ (stress on first, with long vowel emphasis)", ""],
+            ["- _par-VAN-dar_ (stress on second syllable in compound forms)", ""],
+            [
+                "The language employs significant pitch variation in poetic and formal registers, with rising pitch marking questions and falling pitch marking declarations or emphatic statements.",
+                "Dunhari exhibits a primarily stress-timed rhythm. The language employs significant pitch variation in poetic and formal registers, with rising pitch marking questions and falling pitch marking declarations or emphatic statements.",
+            ],
+            [
+                "The dialect of the Dunhara tribes and desert peoples, featuring archaic grammatical forms, rich weather vocabulary, and star-navigation terminology. Pronunciation tends toward vowel lengthening and emphatic stress.",
+                "The dialect of the Dunhara tribes and desert peoples, featuring archaic grammatical forms, rich weather vocabulary, and star-navigation terminology.",
+            ],
+            [
+                "- Diphthongs and long vowels in final positions (Razashar, Korushan, Yazharan)",
+                "- Closed final syllables (Razashar, Korushan, Yazharan)",
+            ],
+            [
+                "The sound of Dunhari is open and flowing. Words open on a vowel or a single consonant, the rasping _kh_ and _gh_ fall anywhere, and long vowels carry the weight of a line of verse. Stress falls on the first syllable or the second-last.",
+                "The sound of Dunhari is open and flowing. Words open on a vowel or a single consonant, and the rasping _kh_ and _gh_ fall anywhere.",
+            ],
+        ],
+    ],
+    [
+        "skill-khelathlng",
+        [
+            ["Stress Patterns", ""],
+            [
+                ": Usually fall on the first or second syllable; later syllables receive weaker stress in polysyllabic words",
+                "",
+            ],
+            ["- Stress patterns adhere to classical norms", ""],
+            [
+                "off after its second vowel, with that vowel held long. A syllable is a vowel or a",
+                "off after its second vowel. A syllable is a vowel or a run of vowels, so",
+            ],
+            [
+                "run of vowels, so `Gezehutyu` has four and `Lersais` has two. Nothing is added and",
+                "`Gezehutyu` has four and `Lersais` has two. Nothing is added and nothing replaced;",
+            ],
+            [
+                "nothing replaced; the near name is the opening of the given name, and the long",
+                "the near name is the opening of the given name, so `Imhugepu` is `Imhu`.",
+            ],
+            [
+                "vowel is the voice holding the place where the rest of it would be. A vowel already",
+                "",
+            ],
+            ["long stays as it is, so `Imhugepu` is `Imhu`.", ""],
+            [
+                "- Many end in long vowels (_-e, -a, -i_) which grammatically mark feminine gender",
+                "- Many end in vowels (_-e, -a, -i_) which grammatically mark feminine gender",
+            ],
+        ],
+    ],
+    [
+        "skill-nordmalng",
+        [
+            [
+                "**The vowels.** _a_, _o_, _u_ and _i_ are short and hard. _e_ is rarer.",
+                "**The vowels.** _a_, _o_, _u_ and _i_ lead, clipped and hard. _e_ is rarer.",
+            ],
+            [
+                '**Consonants:** The language employs a full complement of stop consonants (p, b, t, d, k, g) with strong aspiration in some contexts. Fricatives include f, v, s, z and the voiceless dental fricative _th_ (as in _thin_). Nordmal has **no voiced dental fricative**: the sound older Pelwar carried in that slot merged into plain _d_ generations before the five kingdoms were founded, which is why _seid_ is said SAID and not SAYTH. The runic row still keeps two separate staves for a distinction the tongue gave up, and rune-masters treat that as proof the staves are older than the speech. The combination of these fricatives with the heavy stress patterns creates the characteristic "crackling" sound of Nordmal speech. Initial consonant clusters are common and well-tolerated (str-, skr-, kn- are typical).',
+                '**Consonants:** The language employs a full complement of stop consonants (p, b, t, d, k, g) with strong aspiration in some contexts. Fricatives include f, v, s, z and the voiceless dental fricative _th_ (as in _thin_). Nordmal has **no voiced dental fricative**: the sound older Pelwar carried in that slot merged into plain _d_ generations before the five kingdoms were founded, which is why _seid_ is said SAYD and not SAYTH. The runic row still keeps two separate staves for a distinction the tongue gave up, and rune-masters treat that as proof the staves are older than the speech. The combination of these fricatives with the heavy stress patterns creates the characteristic "crackling" sound of Nordmal speech. Initial consonant clusters are common and well-tolerated (str-, skr-, kn- are typical).',
+            ],
+            [
+                "**Vowels:** Nordmal maintains five vowel positions (a, e, i, o, u) with systematic length distinctions. Diphthongs are limited in inventory but phonemic. Nasal vowels do not occur.",
+                "**Vowels:** Nordmal maintains five vowel positions (a, e, i, o, u). Diphthongs are limited in inventory but phonemic. Nasal vowels do not occur.",
+            ],
+            [
+                "A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—[[lore-solrundty|Solrún]] and [[lore-thrunvalddty|Thrunvald]] open long, Althmil and Hlartharuk open short.",
+                "A name-stem is one syllable, so a stem-and-ending name runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count.",
+            ],
+        ],
+    ],
+    [
+        "skill-varokhlng",
+        [
+            [
+                "Varokhi is the forest cousin of Nordmal. It is broader and slower, with _w_ and longer vowels.",
+                "Varokhi is the forest cousin of Nordmal. It is broader and slower, with _w_.",
+            ],
+            [
+                "**The vowels.** _a_, _e_, _i_ and _u_, with _o_ rarer. One acute marks a long stressed vowel only where the stress moves.",
+                "**The vowels.** _a_, _e_, _i_ and _u_, with _o_ rarer. One acute marks the stressed syllable only where the guide's rule would not choose it.",
+            ],
+            [
+                "**Consonants:** Varokhi keeps the stops (b, d, g, k, t) whole, alongside the fricatives (f, h, s, v), the glides (j, w) and the sonorants (l, m, n, r, y). Its habitual digraph is the dental fricative `th`, with `ch` standing in a handful of forest words. Initial consonant clusters are simpler and fewer than in Nordmal, and none runs to three sounds.",
+                "**Consonants:** Varokhi keeps the stops (b, d, g, k, t) whole, alongside the fricatives (f, h, s, v), the affricate (j), the glides (w, y) and the sonorants (l, m, n, r). Its habitual digraph is the dental fricative `th`, with `ch` standing in a handful of forest words. Initial consonant clusters are simpler and fewer than in Nordmal, and none runs to three sounds.",
+            ],
+            [
+                "**Vowels:** Varokhi maintains five vowel positions (a, e, i, o, u), each with a long partner. The length distinction is phonemic. Diphthongs are few and sit inside a name rather than at either end of it.",
+                "**Vowels:** Varokhi maintains five vowel positions (a, e, i, o, u). Diphthongs are few and sit inside a name rather than at either end of it.",
+            ],
+            [
+                "**Stress and Rhythm:** Stress is more flexible than in Nordmal, typically falling on the first or second syllable, but poets and orators exploit stress shifts for rhythmic and emotional effect. The language employs alliterative patterning, as in Nordmal, but with greater freedom in execution.",
+                "**Rhythm:** The language employs alliterative patterning, as in Nordmal, but with greater freedom in execution.",
+            ],
+            [
+                "**Distinctive Features:** Varokhi employs a system of tonal distinctions (rising, falling, level tones) on certain vowels, particularly in emphatic or emotional speech, though these are not always recognized as formal phonemes. This tonal element makes Varokhi sound melodic and expressive compared to the more monotone Nordmal.",
+                "",
+            ],
+            [
+                "**The closings part the two tongues.** A Varokhi name may close on `c`, `s` or `th`, a [[skill-nordmalng|Nordmal]] name on `g`, `t` or `v`, and neither tongue closes a name the way the other does.",
+                "**The closings part the two tongues.** A Varokhi name may close on `k`, `s` or `th`, a [[skill-nordmalng|Nordmal]] name on `g`, `t` or `v`, and neither tongue closes a name the way the other does.",
+            ],
+            [
+                "**Stress is not fixed and alliteration is loose.** A name is said with its beat on the first syllable or the second, and which of the two belongs to the speaker and the region rather than to the name, so a Varokhi name cannot be said correctly on sight the way a Nordmal name can. A kindred binds its generations by repeating an element rather than by holding an onset steady, which is why one opening stands at the head of a whole run of names in the lists below.",
+                "**Alliteration is loose.** A kindred binds its generations by repeating an element rather than by holding an onset steady, which is why one opening stands at the head of a whole run of names in the lists below.",
+            ],
+            [
+                "Several spellings may share one row. A long vowel and a short one are two spellings of the same element where the published names disagree about the length, which is why `gar-` and `gar-` stand together and why `skald-` and `skald-` do.",
+                "Several spellings may share one row. A stressed spelling and an unmarked one are two spellings of the same element where the published names disagree about the stress, which is why `gar-` and `gar-` stand together and why `skald-` and `skald-` do.",
+            ],
+        ],
+    ],
+    [
+        "skill-nyalbnlng",
+        [
+            ["Implosive", ""],
+            [
+                ": b', d', g'—voiced stops drawn inward instead of released outward, giving them a hollow, popping quality",
+                "",
+            ],
+            [
+                ': z, zh (as the "s" in "measure"), x (velar fricative)',
+                ': z, zh (as the "s" in "measure")',
+            ],
+            [
+                "- The implosive consonants (b', d', g') create a striking rhythmic pattern and carry grammatical weight",
+                "",
+            ],
+            [
+                "- Vowel length is phonemically significant and frequently marks verb tenses or plurality",
+                "",
+            ],
+            [
+                "Nyáluban distinguishes five cardinal vowels with length distinctions:",
+                "Nyáluban distinguishes five vowels:",
+            ],
+            ["**Vowels:** a, e, i, o and u, each short or long", "**Vowels:** a, e, i, o and u"],
+            [
+                "**Diphthongs:** ai, au, ei, eu, oi, ou; these typically function as vowel sequences with distinct syllabic status",
+                "**Vowel pairs:** ai, au, ei, oi, ou",
+            ],
+            [
+                "**Nasalization:** Vowels can be nasalized; nasalized vowels are phonemically distinct from their oral counterparts and carry grammatical significance (often marking voice)",
+                "",
+            ],
+        ],
+    ],
+]);
+
+/** Baseline prose with the lines {@link GUIDE_PROSE} names dropped or rewritten. */
+export function withGuideProse(text, file) {
+    const pairs = [...GUIDE_PROSE].find(([address]) => notePath(address) === file)?.[1];
+    if (!pairs) return text;
+    const lines = text.split("\n");
+    let at = 0;
+    for (const [from, to] of pairs) {
+        const found = lines.indexOf(from, at);
+        if (found < 0) continue;
+        if (to) {
+            lines[found] = to;
+            at = found + 1;
+        } else {
+            lines.splice(found, 1);
+            at = found;
+        }
+    }
+    // A dropped paragraph takes its blank line with it.
+    return lines.join("\n").replace(/\n{3,}/gu, "\n\n");
+}
+
+/**
+ * The baseline sound settings with the letters and pairs Pronouncing Thalorna
+ * lacks taken out: Atárzadi's macron vowels and Nyáluban's `eu`.
+ */
+export function withGuideSounds(fm, file) {
+    const sounds = fm?.data?.sounds;
+    if (!sounds) return fm;
+    const copy = structuredClone(fm);
+    if (isNote(file, "skill-atarzadilng") && copy.data.sounds.syllables?.signature)
+        copy.data.sounds.syllables.signature = copy.data.sounds.syllables.signature.map((v) =>
+            v
+                .normalize("NFD")
+                .replace(/\u0304/gu, "")
+                .normalize("NFC"),
+        );
+    if (isNote(file, "skill-nyalbnlng"))
+        for (const edge of copy.data.sounds.edges ?? [])
+            if (edge.edge === "vowelPair") edge.sounds = edge.sounds.filter((v) => v !== "eu");
+    return copy;
+}
+
 /** The baseline stress setting of a note that now follows the common rule. */
 export function withCommonStress(fm, file) {
     if (!fm?.data?.sounds?.stress) return fm;
@@ -887,6 +1154,11 @@ export function withStressProse(text, file) {
     for (const [address, pairs] of STRESS_PROSE)
         if (notePath(address) === file) for (const [from, to] of pairs) out = out.replace(from, to);
     return out;
+}
+
+/** A baseline body with its approved respellings and stress sentences. */
+export function baselineProse(before, file) {
+    return withStressProse(respell(splitFrontmatter(before.raw).body, file), file);
 }
 
 export function assertEncodingMigrationPreserved(
@@ -907,7 +1179,10 @@ export function assertEncodingMigrationPreserved(
                                     withTranslationRetags(
                                         withNameForms(
                                             withCommonStress(
-                                                withWordRenames(before.fm, file),
+                                                withGuideSounds(
+                                                    withWordRenames(before.fm, file),
+                                                    file,
+                                                ),
                                                 file,
                                             ),
                                             current.fm,
@@ -954,7 +1229,7 @@ export function assertEncodingMigrationPreserved(
     }
     contains(actual, expected, file);
     let body = splitFrontmatter(current.raw).body;
-    let originalBody = withStressProse(respell(splitFrontmatter(before.raw).body, file), file);
+    let originalBody = withGuideProse(baselineProse(before, file), file);
     // The one baseline sentence whose writing direction follows the shared Qalezu script.
     if (isNote(file, "skill-dunharlng"))
         originalBody = originalBody.replace(

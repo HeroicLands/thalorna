@@ -186,7 +186,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
                 .replace(/\*\*Coining\.\*\*[^\n]*\n\n/u, "")
                 .replace(/\n## Everyday speech\n[\s\S]*$/u, ""),
         ),
-        "b1ba0c56bc8ff7416393ee2cd7b1c750e9f5cf32f2a19ba05b2baa2acf6ad258",
+        "0e5519f5591f21f6f82d34e6a3ed95541a68ae0ed46b3cdf420044fe74690615",
     );
     const beforeData = { ...note.fm.data, words: words.slice(0, 85), fields: fields.slice(0, -1) },
         before = pieceGlosses(beforeData),

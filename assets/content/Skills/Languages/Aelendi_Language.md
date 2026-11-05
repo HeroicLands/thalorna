@@ -7422,7 +7422,7 @@ The two tongues descend from one, and nearly every difference between them is a 
 
 **The long vowels.** An Áelendi long vowel is held on one color and let go. Élavendri broke those vowels into the diphthongs it is admired for, so an Áelendi long _a_ stands where Élavendri has _ae_, a long _i_ where it has _ia_ or _ie_, and a long _u_ where it has _ye_.
 
-**The stress.** Áelendi keeps a steady, weighty stress and favors short words with the weight at the front. Élavendri traded fixed stress for the melodic accent it sings by, pitch carrying as much as weight, which is the feature that defeats learners of the lowland tongue and the one an Áelendan finds hardest to take seriously.
+**The stress.** Áelendi keeps a steady, weighty stress and favors short words with the weight at the front.
 
 Cognate pairs, the Áelendi form beside the Élavendri one:
 

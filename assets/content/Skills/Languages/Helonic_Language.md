@@ -6428,24 +6428,7 @@ Helonic is the tongue of drama and argument. It is clear-voweled and fond of bre
 
 ### Vowel System
 
-Helonic employs a rich vowel system with both short and long phonetic variants:
-
-a
-: short and open, the "a" of "father" cut short; long, an open "ah"; and a low, rounded "aw" as in "law", deeper than short a
-
-e
-: short, as in "bet"; long, as in "fete"
-
-i
-: short, as in "bit"; long, as in "machine"
-
-o
-: short, as in "for"; long, as in "note"
-
-u
-: short, as in "put"; long, as in "boot"
-
-The vowel inventory is one reason Helonic achieves its melodic quality.
+Helonic uses the guide's five vowels _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it, and the pairs _ai_, _ei_, _oi_, _au_ and _ou_. The vowel inventory is one reason Helonic achieves its melodic quality.
 
 ### Consonant System
 
@@ -6469,21 +6452,6 @@ Glides
 The Helónika has a letter for _th_ and writes _kh_, _gh_, _dh_ and _rh_ as the plain letter and _h_; the glides are written with _i_ and _u_.
 
 The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced throaty rasp written **gh** is unique to Helonic among western languages—a guttural sound that is distinctly non-trivial to produce correctly.
-
-### Stress and Accentuation
-
-Helonic uses a pitch-accent system inherited from its Proto-Helonic ancestor. Stress typically falls on the second-to-last syllable in polysyllabic words (paroxytone), though antepenultimate and final stress occur.
-
-Characteristic patterns from the names:
-
-_Aferion_ (a-fer-EE-on)
-: paroxytone, on the second-to-last syllable
-
-_Kalidrás_ (ka-lee-DRAS)
-: final stress, which the acute marks
-
-_Ghanides_ (gah-NEE-des)
-: paroxytone with clear secondary stress
 
 ## Grammar Notes
 
@@ -7006,7 +6974,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-Two vowels standing together are said apart, each on its own (_e-u-tha-lir_, _Ka-li-dri-a_), except _ai_, _ei_, _oi_, _au_ and _ou_, the pairs of the guide. In rapid speech Bizarian flattens _ai_, _ei_ and _oi_ to plain _e_, _i_ and _u_.
+Two vowels standing together are said apart, each on its own (_e-u-tha-lir_, _Ka-li-dri-a_), except _ai_, _ei_, _oi_, _au_ and _ou_, the pairs of the guide.
 
 ### Word edges
 
@@ -7038,7 +7006,7 @@ Three moves make every built word on this page, and a new word made the same way
 
 ### Joining
 
-Where the first word of a compound closes on a vowel and the second opens on the same vowel, the two are written as one long vowel; every other seam writes both words whole.
+Where the first word of a compound closes on a vowel and the second opens on the same vowel, the two are written as one vowel; every other seam writes both words whole.
 
 ```sql
 SELECT array_to_string(list_transform(first, x -> '`' || x || '`'), ', ') AS "First closes on", array_to_string(list_transform(second, x -> '`' || x || '`'), ', ') AS "Second opens on",
@@ -7077,7 +7045,7 @@ Bizarian lost the breathed consonants of the schools and kept the rasps: _th_ an
 
 ### Bethuan
 
-Bethuan kept every breathed sound, which is why a hymn in the feminine register is thick with _th_; it took the eastern _f_ as Bizarian did; a doubled _s_ fell together; and a word that closes on _-os_ holds the vowel long, so a Helonic man's name in _-os_ is heard on the island with the _o_ held long and, in a formal register, is recast on a woman's ending. The doubled _s_ is why _Wissaros_ is written _Wisaros_ in a Bethuan hand, and a temple roll recasts the name on a woman's ending as _Wisaria_. Three more habits are spoken and never written, so they stand in no table: _k_ and _g_ soften toward _ky_ and _gy_ before a front vowel, a short vowel lengthens before a cluster (_Jádharos_ is said _Jadharos_), and a dental _s_ is sometimes heard as _th_ (_Sotharion_ as _Thotharion_).
+Bethuan kept every breathed sound, which is why a hymn in the feminine register is thick with _th_; it took the eastern _f_ as Bizarian did; a doubled _s_ fell together; and a Helonic man's name in _-os_ is, in a formal register, recast on a woman's ending. The doubled _s_ is why _Wissaros_ is written _Wisaros_ in a Bethuan hand, and a temple roll recasts the name on a woman's ending as _Wisaria_.
 
 ## Words {#words}
 

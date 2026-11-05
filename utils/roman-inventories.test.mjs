@@ -33,14 +33,13 @@ test("each configured language and the drum register own an explicit canonical r
     assert.equal(byAddress.get("skill-nyalbdrm").data.roman, "");
 });
 
-test("Vylari adds its grave-vowel catch to shared punctuation", () => {
+test("Vylari writes its catch with the guide's apostrophe", () => {
     const roman = byAddress.get(config.languages.vyl.note).data.roman;
     assert.deepEqual(
         Array.from(roman).filter((char) => !/[\p{L}\p{M}\p{N}]/u.test(char)),
-        [],
+        ["'"],
     );
-    assert(roman.includes("à") && roman.includes("À"));
-    for (const mark of "'’‘\"“”«»`,;:—–?!") assert(!roman.includes(mark), mark);
+    for (const mark of '’‘"“”«»`,;:—–?!') assert(!roman.includes(mark), mark);
     const records = [...notes, read(notePath("doc-elavsemaronenc"))].map((note) => ({
         ...note,
         package: "thalorna",
@@ -50,11 +49,13 @@ test("Vylari adds its grave-vowel catch to shared punctuation", () => {
         ...referenceContext({ ...config, rootDir: process.cwd() }, records),
         wordBooks: new Map(),
     };
-    assert.deepEqual(scanRuns("[Kàralzon à.]{lang=vyl}", ctx).errors, []);
-    assert.deepEqual(scanRuns("[Kàralzon, à.]{lang=vyl}", ctx).errors, []);
-    for (const mark of [";", ":", "'", "’", "“", "”"]) {
+    for (const attributes of ["lang=vyl", "enc=vylsemaronenc lang=vyl"]) {
+        assert.deepEqual(scanRuns(`[K'aralzon a'.]{${attributes}}`, ctx).errors, [], attributes);
+        assert.deepEqual(scanRuns(`[K'aralzon, a'.]{${attributes}}`, ctx).errors, [], attributes);
+    }
+    for (const mark of [";", ":", "’", "“", "”"]) {
         for (const attributes of ["lang=vyl", "enc=vylsemaronenc lang=vyl"]) {
-            const errors = scanRuns(`[Kàralzon${mark} à.]{${attributes}}`, ctx).errors;
+            const errors = scanRuns(`[K'aralzon${mark} a'.]{${attributes}}`, ctx).errors;
             assert(
                 errors.some((finding) =>
                     /data.roman|not standard Roman punctuation|quotation|not admitted|not a Roman|not in/.test(
