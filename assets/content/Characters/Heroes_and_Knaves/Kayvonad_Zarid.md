@@ -10,9 +10,9 @@ data:
   archetypes: [mage, scholar]
   occupation: Alchemist
   lore: []
-  culture: khazrynclt
+  culture: atrzdclt
   homes: [ashkarad]
-  affiliations: {tribestrzd: {rank: 3}, ataros: {rank: 1}}
+  affiliations: {tribestrzd: {rank: 1}, ataros: {rank: 1}}
   gender: male
   species: humanflk
   born: 670.147

@@ -34,6 +34,21 @@ The tribes of the Ghoshiqor have a saying for owned water in general: that they 
 
 A guide who knows the mesa has usually heard that the Kuuyoyur keep a stone on Kelodvotri, and some say among themselves that a kelodud is not all that lives there.
 
+## The Chained Stone {#present}
+
+This season the stone over Kelodvotri is new, and it is chained. The Kuuyoyur came at the end of the dry season, as they do, with their water-warden and two riders and three camels. The two riders keep to the cleft at the mesa foot and watch the well from there, and they do not go among the palms after dark. The warden is not with them, and they do not say where he is. A traveler who reaches the palms is told he may not draw.
+
+## Hooks {#hooks}
+
+- **The watchers at the cleft.** The two Kuuyoyur at the cleft want the well opened and their warden brought up, and will not say what is under the stone. They will not let a stranger draw, and they will not go to the palms themselves.
+- **Blown off the road.** A caravan driven off the road in the Long Dry reaches the twelve palms by the stars with its skins nearly empty, and the only water within three days is under a chained stone: [[scenario-weightwell|The Weight upon the Well]].
+
+:::secret {title="This season"}
+
+- **Four skins owed.** The [Bodekud]{.name data-type="being/creature"} holds the Kuuyoyur to six skins drawn without leave, has taken two camels for them and is owed four. The first person who has drunk the drawn water and comes among the palms after dark is the one it holds, and [Numaqlun]{.name data-type="being/npc"} and [Budaqtoliz]{.name data-type="being/npc"} have stayed clear of it only by keeping to the cleft.
+
+:::
+
 ## Reaching It
 
 Kelodvotri is marked on no map and lies off every caravan track. A string blown off the road by a dust storm in the [Long Dry]{.name data-type="place/feature"}, west of [[place-qisomrktcmp|Qiiso]], can reach it by the stars if its guide knows the mesa. The next water is three days off across open sand.

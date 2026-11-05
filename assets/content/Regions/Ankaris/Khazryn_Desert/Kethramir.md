@@ -61,3 +61,6 @@ The old [House of Kethramír]{.name data-type="affiliation/lineage"}, the Tellum
 
 [[being-afzndhprnzr|Afzandah Parnazar]]
 : a daughter of Kethramír's mineral trade
+
+[[place-qudumel2|Kudumel]]
+: the Taruzelian port across the strait where the city's goods are sold

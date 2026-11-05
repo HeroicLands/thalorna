@@ -26,9 +26,14 @@ The danger is the tribe that holds the water. The cistern is the best on the Vol
 
 The strongroom holds the fort's pay-chests, sealed and never opened, and the legion's standards, wrapped in oilcloth. Whatever the chests hold, the standards are the thing a Vylarian wants.
 
-## A Hook
+## The Swept Fort {#present}
 
-A Vylarian official arrives in a Bizarian port with money and no explanation. He wants one of the standards back, a specific one, and he will not say why. He is willing to pay for a party to bring it out and willing to see to it that no one else does, and the tribe that holds the cistern has been told he is coming.
+The tribe that waters at the cistern keeps the gate clear and the courtyard swept for the Vylarians' return, charges for every skin, and keeps riders on the ridge. It has had word that a Vylarian is coming at last: an official who arrived in a Bizarian port with money and no explanation, and who wants one of the standards from the strongroom, a particular one. The tribe must decide whether a man who comes to take the legion's goods away is the return it has swept for. Word has reached the [[place-wlqtrrgn|Volketor]] too of a dovaq gathering the northern tribes, and the best cistern on the southern road is a thing any union would want.
+
+## Hooks {#hooks}
+
+- **The standard.** The Vylarian official wants one standard out of the strongroom and will not say why. He pays a party to bring it out, and he means to see that nobody else does.
+- **The tribe's price.** The tribe that holds the cistern has been told the official is coming. Its elders want to know what he wants before he arrives, and they charge a larger price still to anyone who goes into the headquarters.
 
 ## See Also
 

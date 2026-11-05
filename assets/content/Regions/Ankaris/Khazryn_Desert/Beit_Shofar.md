@@ -22,6 +22,16 @@ The Unconsuming Flame burns on the mountain, above the place where [Yotekhor]{.n
 
 The Atarzád have no king; the prohibition was given at this mountain, and attempts to raise one have ended in repudiation. The Council of the Twelve meets at Beit-Shofár once a year for a six-week session. Each tribe sends its hereditary chieftain, the Rezhul, with the senior elders of its principal lineages and its senior priest. The Council sets common policy on defense, taxation, disputed territory and inter-tribal quarrels, and it renews the Covenant. Each tribe raises its own contribution and presents it at the session; the Council keeps a modest standing treasury here. In a crisis the Council may acclaim a Zhudek, a judge with broad temporary authority, chosen after consultation with the Keeper. Twenty-three have served since [The Breaking]{.name data-type="lore/history"}, the Conquest, and none holds the office now.
 
+## Three Questions at the Session {#present}
+
+Beit-Shofár waits on an old man, a young woman and a rumor from the north. The Toqel is about eighty, and his successor is raised only when he dies, so the Burqalod households at the mountain's foot watch the stair for word of his health. [Aqeshat]{.name data-type="being/npc"} the Prophet preaches that the Flame-born must expel the Tellumi from the cities, and the Council has not decided whether she is to be honored or repudiated; her following grows each season it waits. And the caravans that come down from the steppe bring word that a dovaq of the northern grass is gathering tribes under his banner by victory and by marriage. The uplands round the mountain are grazed by the tribes' herds and raided by the steppe's, and the Rezhuls who come to this year's session must say whether a union rising in the north is the crisis a Zhudek is acclaimed for. If it is, the Council consults the Toqel first, and the name the tents speak most is [Khemozor of Zhoqarod]{.name data-type="being/npc"}.
+
+## Hooks {#hooks}
+
+- **A tribe to carry it.** A caravan master with a complaint against the toll at a gate has come to the session and has no standing before it. He wants a tribe to take his matter up, and the tents of twelve chieftains are full of men who want something carried in return.
+- **Honored or repudiated.** The [Teghumod]{.name data-type="affiliation/polity"}, whose trade runs on Tellumi hands, want Aqeshat repudiated before her following outgrows the Council, and they want witnesses who heard her preach to testify before the Rezhuls. A Flame-born witness found lying to the Council is repudiated, and an outsider is expelled from the tribes' ground.
+- **Counting banners.** Khemozor of Zhoqarod wants to know whether the northern union is real before the Rezhuls debate it, and he pays riders who will go up onto the steppe and count its banners.
+
 ## See Also
 
 [[place-mountshofar|Mount Shofar]]

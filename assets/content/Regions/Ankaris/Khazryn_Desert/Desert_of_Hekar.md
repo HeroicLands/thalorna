@@ -26,9 +26,14 @@ The [Servants of Vezhnurikos]{.name data-type="affiliation/order"}, a feared mil
 
 The desert itself is the commoner killer. Water is the first danger, then the heat, then the sandstorms of late spring that come down off the foothills without warning. Bone Scorpions and Giant Camel Spiders hunt the margins of the dunes. The tribes of the Volketor do not hunt the knights, and they sell them water.
 
-## A Hook
+## The Knights' Quarrel {#present}
 
-A Bizarian caravan master with two hundred camels waiting at the foot of the March wants an escort across the Hek'ar, and the road that serves him runs through the middle of the Black Flame's quarrel. The knights will not touch a caravan that pays the tribes for passage; they will take one that does not, and what it carries.
+The Servants of Vezhnurikos are in the Hek'ar for the Eye, and so are their rivals, Nakarys the Scourge among them. The factions raid each other's camps and the caravans that have not paid, and the tribes of the Volketor sell water to all of them. One Black Flame faction has run short of coin and offers caravan masters double rates to carry a sealed chest east. At the foot of the March a Bizarian caravan master with two hundred camels is waiting for an escort across, and the road that serves him runs through the middle of the quarrel.
+
+## Hooks {#hooks}
+
+- **Two hundred camels.** The Bizarian caravan master wants an escort across the Hek'ar. The knights will not touch a caravan that pays the tribes for passage, and they will take one that does not.
+- **The sealed chest.** A Black Flame faction short of coin wants a sealed chest carried east at double rates, and will not say what is in it.
 
 ## See Also
 

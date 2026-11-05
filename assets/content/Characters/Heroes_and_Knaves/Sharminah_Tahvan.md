@@ -10,7 +10,7 @@ data:
   archetypes: [cleric]
   occupation: Priest
   lore: []
-  culture: khazrynclt
+  culture: atrzdclt
   homes: [kethramir]
   affiliations: {ataros: {rank: 2}}
   gender: female

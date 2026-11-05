@@ -47,9 +47,15 @@ It cannot enter a barred door. It can be answered. That is the danger of the gat
 
 The gate is entered from the north, over the open rim, or from the town side by any of the settlement's lanes. Under the gate-court the cellars of the old city run in every direction, and the breach in the north wall opens into them: a stair of tilted slabs going down into the dark, which is how the champion came in on the night of the song. The settlers have walled the breach on the town side and set a bar across the stair, because the camel spiders of the vaults come up by it.
 
-## Who Pays for the Truth
+## Who Pays for the Truth {#present}
 
 [Khorsád-Vahur]{.name data-type="being/npc"}, head of the House of Vahurdash, wants the knocking ended, since a gate that cannot be opened at night costs the settlement every caravan that reaches the rim after dusk. He will not say so to the exiled houses and he will not say so to the [[affiliation-tribestrzd|Atarzád]]. A rival house in Amradad would pay a good deal more to learn that the gate cannot be ended, that the town is failing and that its tablets can be had.
+
+## Hooks {#hooks}
+
+- **End the knocking.** Khorsád-Vahur wants the knocking ended, so that the gate can stand open to a caravan that reaches the rim after dusk, and he wants it done without the exiled houses or the Atarzád hearing of it.
+- **The paid man.** One of the exiled houses in Amradad has paid a man to find out whether the knocking is a story the House of Vahurdash tells to keep strangers from the cellars, and a rival house would pay him more to learn that the gate cannot be ended.
+- **The Shekhul's account.** The priest of the settlement holds that the Gate-dead is no champion and wants the wardens to stop answering it as one; the wardens want proof before they give up the name of Berniray.
 
 ## See Also
 

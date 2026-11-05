@@ -65,7 +65,7 @@ The Council acts where the seven agree, and it acts on three things:
 - **The codes of the quarters.** The Tellumi who live inside the four held cities govern their own affairs by codes the Council keeps, and a Delkoshekh hearing a case in a back room of the Shirvan quarter judges by them.
 - **The money.** The Council funds Tellumi shrines and schools in Amradad and the Taruzelian ports, and it pays a quiet network of agents who tell the exile houses how matters stand in the lost cities. The money comes as donations, much of it from the wages of Tellumi water-masters, bankers and physicians who work for Atarzád employers.
 
-## What It Leaves Alone
+## What It Leaves Alone {#present}
 
 Two questions come to every session and leave it unanswered. The first is the coming down. The old houses hold that the first lineages came down through the labyrinth of [[place-vurdil|Vurdish]], and the houses of the west, the [[affiliation-hsemernagord|House of Mernagord]] first among them, hold that they walked down [[place-wstrndscnt|the Western Descent]]. The Council keeps both accounts in the same hall and has never ruled between them, because a ruling for either would cost a house its standing.
 
@@ -73,9 +73,17 @@ The second is the sword. [Gureshay of Zargandur]{.name data-type="being/npc"}, t
 
 [Hemvanay of Mernagord]{.name data-type="being/npc"}, the ruling prince of the largest free oasis, is the voice of accommodation in the room, and the Atarzád merchants who have sounded him out about a trade compact have made every session since a quarrel about him. The houses in exile call the idea treason. He has answered neither them nor the merchants.
 
+This year a third question has reached the session from outside it. Word comes down the caravan road that a dovaq of the northern steppe is gathering tribes under his banner by victory and by marriage. Every oasis on the steppe's road must choose whether to pay him, wall itself or bargain, and the free oases must choose with the rest. Some in the exile houses say that a union pressing the Atarzád from the north is the moment a reclamation waits for. Others answer that the steppe does not distinguish a Tellumi garden from an Atarzád one. The single position says nothing about the steppe, and the Council has not changed it.
+
 ## Dealing with the Council
 
 The Council receives no petitions. A Tellumi with a grievance takes it to the Delkoshekh of his quarter or the court of the house his household stood to, and the house brings it to the session if the house chooses. What the Council has for an outsider is work: carrying a report out of a held city to the exile courts, carrying a sum of money to a school in a Taruzelian port, or carrying the single position to a court that would prefer to hear something else. It pays in silver, and a messenger who alters what he carries is never hired by any of the seven houses again.
+
+## Hooks {#hooks}
+
+- **A report out of Shirvan.** Muresha of Shirvan pays a courier for the news of the [[place-oasishirvn|Shirvan]] quarter, and has begun to ask how the quarter knows so much. She wants someone who is not her courier to find out.
+- **The merchants' answer.** The Atarzád merchants who sounded out Hemvanay of Mernagord want their terms carried to him where the exile houses will not see them, and the exile houses pay well to see whatever is carried to him.
+- **The union and the sword.** Gureshay of Zargandur wants to know whether the northern union will press the held cities, and asks a messenger with no seat to lose to go north and see it for him.
 
 ## See Also
 

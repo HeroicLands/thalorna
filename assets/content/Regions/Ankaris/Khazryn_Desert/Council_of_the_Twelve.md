@@ -64,13 +64,21 @@ The session follows the business it has to do. The tribes present their contribu
 
 Its acts reach far past Beit-Shofár. Two generations ago the Council abolished the formal bondage that had bound the Tellumi survivors of the war, and the Tellumi of the four held cities have not been slaves since. Its policy on taxation includes the water-tax that falls on Tellumi heads of household alone, and its policy on the held cities keeps the Tellumi from land, arms and public worship outside their quarters. It leaves the University at [[place-caldar|Kaldar]] alone, because the University earns money and Atarzád sons study there. And it decides what the tribes say to the world: the [[lore-garauu|Gar-Au]] of [[affiliation-empireakhlth|Au'Khelathu]] has made overtures in recent years, and the Council has not deigned to reply.
 
-## What It Has Not Decided
+## What It Has Not Decided {#present}
 
 The question before the Council now is [Aqeshat]{.name data-type="being/npc"} the Prophet, a young woman who preaches that Ataros has shown her the return of Yotekhor in the flesh, and that the Flame-born must prepare by stricter observance and by expelling the Tellumi from the cities. The [Ozhmarod]{.name data-type="affiliation/polity"}, the strictest of the twelve, listen to her. The [Teghumod]{.name data-type="affiliation/polity"}, whose trade runs on Tellumi hands, do not. The Council has not decided whether she is to be honored or repudiated, and her following grows each season it waits.
+
+The second question has come down the caravan road. A dovaq of the northern steppe is gathering tribes under his banner by victory and by marriage, and whether he unites them is not yet known. The uplands round Mount Shofar lie open to the steppe's raiders, and the caravans whose tolls the tribes live on come down from the steppe. Some Rezhuls hold that a rising union is the crisis the office of Zhudek exists for, and that an acclaimed Khemozor would hold the twelve warrior societies together for as long as it lasts. Others hold that a union on the steppe is the steppe's affair until it reaches the uplands. The Council has not decided that either, and the steppe may decide it first.
 
 ## Coming Before the Council
 
 Only a tribe has standing at the session. An outsider with business there, a caravan master with a complaint against the toll at a gate or a Tellumi family with a water-right in dispute, finds a tribe to bring it, and the tribe decides whether the matter is worth its Rezhul's breath. A party that arrives at Beit-Shofár during the session finds a settlement of three thousand swollen with the households of twelve chieftains, every tent of them full of men who want a word carried to another tent. Testimony is heard before the Rezhuls, and a witness who is found to have lied to the Council is repudiated if he is Flame-born and expelled from the tribes' ground if he is not.
+
+## Hooks {#hooks}
+
+- **A tribe to bring it.** A Tellumi family of a held city has a water-right in dispute and no standing at the session. It needs a Rezhul to take the matter up, and the Teghumod, whose counting-houses need Tellumi hands, are the likeliest to listen and the likeliest to want a favor back.
+- **Testimony about the Prophet.** The Ozhmarod want Aqeshat honored and the Teghumod want her repudiated, and each wants a witness who heard her preach to stand before the Rezhuls. A witness the Council finds lying is repudiated or expelled, whichever tribe sent him.
+- **Word from the north.** The Envoy of the Twelve wants to know, before the session closes, whether the northern dovaq is a man to send an envoy to or a man to acclaim a Zhudek against, and needs riders who can reach his camp and come back.
 
 ## See Also
 

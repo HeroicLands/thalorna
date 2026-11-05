@@ -146,7 +146,7 @@ data:
     - {tag: translation, meaning: a name given in the language of these pages}
   scope:
     folders: [khazryndesert, ankariskhazryndesert]
-    cultures: [khazrynclt]
+    cultures: [khazrynclt, atrzdclt]
     lore: [khazrynclt]
     parents: [khzryndsrtrgn, swoasisbelt, hekardesert]
     addresses: [skill-tellumilng, skill-sowideslng, skill-atarzadilng]

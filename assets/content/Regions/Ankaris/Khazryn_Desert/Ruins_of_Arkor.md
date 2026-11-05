@@ -30,9 +30,15 @@ The danger is the knights, who have a camp near the tower and will kill anything
 
 If the Eye exists, it is the treasure the Black Flame wants, and the tribes say it is a rumor. What the buried league certainly left is tower-glass, the clearest ground lenses anyone has seen, in the lamp-chamber of the tower and in the cellars of a dozen counting-houses.
 
-## A Hook
+## The Camp by the Tower {#present}
 
-The canon hook stands as it is: the Black Flame's factions are fighting each other for the Eye, and a party that goes into Arkor goes in among them. The tribes of the Volketor have noticed, and they sell passage to every faction at once, with riders for each; a party that buys it learns who else has.
+The Blazing Oath has a camp near the tower under [[being-drzhvzhnr|Drazha Vezhnur]], and kills anything that approaches it without the order's badge. Rival factions of the Black Flame dig in the same sand and fight the Oath as readily as anyone. The tribes of the Volketor have noticed, and they sell passage to every faction at once, with riders for each.
+
+## Hooks {#hooks}
+
+- **The Eye.** Drazha Vezhnur wants the Eye of Velok out of the buried city before a rival faction reaches it, and foreign mercenaries in the sand sell their swords to whichever side pays.
+- **Passage for everyone.** The tribes of the Volketor sell passage to every faction with riders for each, and a party that buys it learns who else has.
+- **Tower-glass.** The lamp-chamber of the tower holds the clearest ground lenses anyone has seen, and the factors at [[place-qisomrktcmp|Qiiso]] pay for a lens without caring what the knights are looking for.
 
 ## See Also
 

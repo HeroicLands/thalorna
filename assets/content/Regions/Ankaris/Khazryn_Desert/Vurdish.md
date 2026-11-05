@@ -32,9 +32,15 @@ The cold is the first danger: a party that goes in at noon in light clothing is 
 
 What a party can carry out is not silver. In the upper passages are signs cut into the lintels, and a house that can show a sign from the passage that leads to its ancestral peak can prove a claim the exiled houses in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] have been unable to prove since [The Breaking]{.name data-type="lore/history"}. Beyond that, nothing is certain. Cold air preserves things, and no one has gone far enough to see what.
 
-## A Hook
+## Two Houses at the Doorway {#present}
 
-An exile house at Amradad has hired a party to find the passage to its ancestral peak, and a rival house on the [Council of the Princes]{.name data-type="affiliation/governmental"} of the Tellumi has hired another to stop it. Neither party has been told what the other was told. The house that wins will own a peak, and the Tellumi believe the owner of a peak owns the water that comes down from it.
+An exile house at Amradad has hired an expedition to find the passage to its ancestral peak, and a rival house on the [Council of the Princes]{.name data-type="affiliation/governmental"} of the Tellumi has hired another to stop it. Neither has been told what the other was told. A sign cut on a lintel of the right passage would prove a claim the exiles have been unable to prove since the Breaking, and the Tellumi hold that the owner of a peak owns the water that comes down from it. The houses of the Western Descent watch both, because a sign from Vurdish would weigh in the oldest quarrel the Council keeps unruled.
+
+## Hooks {#hooks}
+
+- **The passage to the peak.** The exile house wants a sign from the passage that leads to its peak, carried down and shown at Amradad.
+- **Stop them.** The rival house wants the first expedition turned back, by persuasion or by the mountain.
+- **The western houses.** The [[affiliation-hsemernagord|House of Mernagord]], which holds that the first lineages walked down the Western Descent, wants to know what comes out of Vurdish before the Council does.
 
 ## See Also
 

@@ -28,9 +28,11 @@ The lowest layer holds sixty Zhoqarod soldiers in leather, laid with their hands
 
 Ninety years of wind have uncovered part of the wash and wind-blown gravel has covered the rest. It is not hard to find.
 
-## The Raiders
+## The Raiders {#present}
 
 The grave-gold has reached the tribes. A band of fifteen or twenty, Sovidur riders of three small tribes and a few hired diggers, has made a camp at the lower end of the wash and has been cutting into the trench for a season. They have taken out some gold. They have lost a third of their number, two to the dead and the rest to what the dead do to the mind of a man who sleeps near them. The survivors keep a fire going at all hours and sleep in the middle of the camp.
+
+Nobody stops them. The garrison has been ordered to keep away, the Tellumi quarter does not go near the wash, and the band sells what it takes in the tribes' camps.
 
 ## What Answers
 
@@ -51,6 +53,18 @@ The Atarzád fire-priests of the garrison say that only fire puts these dead dow
 - The [House of Zargandur]{.name data-type="affiliation/lineage"}. [Gureshay of Zargandur]{.name data-type="being/npc"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], wants a signet from the trench to prove who died in the palace and where. He would pay for a seal and for a count of the dead.
 - **The Zhoqarod fire-priests.** A Delkoshekh on picket duty above the wash knows what lies in its lowest layer: the garrison dead of the third day, whom the priests would not burn. The knowledge is why the priests know that fire works, and it is a secret the garrison's priests keep from the prefect.
 - **The raiders.** The band's chief believes the Zhoqarod poisoned the grave. He is wrong, and he does not say so aloud because it keeps the others digging.
+
+## Hooks {#hooks}
+
+- **A signet and a count.** Gureshay of Zargandur wants a signet from the trench and a count of the dead, to prove who died in the palace and where, and he pays for both.
+- **Fire on terms.** A Zhoqarod Delkoshekh will arm a party with a fire-pot and a lamp kindled at the temple altar to put down what walks in the wash, and will not say what the party owes for it.
+- **Hands for the trench.** The raiders' chief has lost a third of his band and is hiring guards and diggers at a share of the gold, and he tells each new hand that the Zhoqarod poisoned the grave.
+
+:::secret {title="Who knows"}
+
+- **The lowest layer.** The fire-priests keep from the prefect what lies in the lowest layer of the trench. A party that has dug down to the sixty garrison dead with their hands tied knows that secret, and the priests who lent it fire have reason to want its silence.
+
+:::
 
 ## Reaching It
 

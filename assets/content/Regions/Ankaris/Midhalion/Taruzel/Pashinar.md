@@ -10,7 +10,9 @@ data:
   lore: []
   parents: [qalirel]
   population: 12000
-  routes: [{to: besikar2, bearing: NW, mode: land, days: 5, terrain: [hills, road]}]
+  routes:
+    - {to: besikar2, bearing: NW, mode: land, days: 5, terrain: [hills, road]}
+    - {to: amradadrgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}
   government: gldbrdpshnr
   packFolder: taruzel
 ---

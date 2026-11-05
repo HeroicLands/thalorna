@@ -107,7 +107,7 @@ The most prominent five tribes are:
 : the largest tribe, holding most of Zargandur and the great pasturelands to its north. Traditionally the war-tribe; the Zhudek has been chosen from Zhoqarod in five of the last seven elevations.
 
 Teghumod
-: holders of Ashkarad and the gates where the caravan road from the steppe comes into the belt. The merchant-tribe; the wealthiest of the twelve and the most cosmopolitan, with substantial diaspora communities in Amradad and even in Taruzelian ports.
+: holders of Ashkarad and the gates where the caravan road from the steppe comes into the belt. The merchant-tribe; the wealthiest of the twelve and the most cosmopolitan, with substantial diaspora communities in Amradad and even in Taruzelian ports, where their caravan masters lodge in the southern courts of [[place-qudumel2|Kudumel]]'s Caravansary Quarter between crossings.
 
 [Burqalod]{.name data-type="affiliation/polity"}
 : holders of the central highland country and the slopes of Mt. Shofar itself. The keeper-tribe; the Toqel (Keeper of the Unconsuming Flame) has by long custom always been a Burqalod.
@@ -136,7 +136,7 @@ Several practical consequences follow:
 
 - **No temples to other gods may stand on Atarzád land.** The Tellumi temples in the conquered cities were systematically dismantled in the generation after the Conquest. The stones were used to build the great fire-temples of Ataros that now dominate the city centers of Zargandur, Ashkarad, Kethramír, and Shirvan. Some Tellumi maintain that the foundations of the Shirvan fire-temple still incorporate the original altar-stone of Ahurdaen, hidden in inverted position deep below the floor—a charge the Atarzád priesthood denies and refuses to allow excavation to verify.
 - **Imagery is strictly forbidden.** Ataros may not be depicted; only the Flame itself may stand for him, and even the Flame may not be reduced to a mere drawing. The Atarzád temples are aniconic. The Tellumi temples were full of deity-statues; this is one of the central charges the Atarzád lay against Tellumi religion.
-- **The Toqel**, the Keeper of the Unconsuming Flame, is the senior religious authority of the Atarzád. By tradition always a Burqalod, always elderly, always elevated only on the death of the previous holder. The current Toqel is [Sighotor son of Nozhikor]{.name data-type="being/npc"}, a man of perhaps eighty winters who is widely held to have spoken with Ataros in dreams.
+- **The Toqel**, the Keeper of the Unconsuming Flame, is the senior religious authority of the Atarzád. By tradition always a Burqalod, always elderly, always elevated only on the death of the previous holder. The current Toqel is [[being-sighotornozh|Sighotor son of Nozhikor]], a man of perhaps eighty winters who is widely held to have spoken with Ataros in dreams.
 - **The Festival of the Promise** is celebrated three times yearly—at the spring equinox, at midsummer, and at the autumn equinox—by pilgrimage to Mt. Shofar. Every adult Atarzád is expected to make the pilgrimage at least once before death; many make it annually. The summer festival draws upward of fifty thousand pilgrims, who camp in the valleys around the mountain and gather at the Unconsuming Flame for the recitation of the Covenant.
 - **Dietary law** distinguishes the Atarzád sharply from the Tellumi. Meat from any animal that did not die with its blood properly drained may not be eaten. Certain animals—most notably the desert hare, the wild boar, and several species of reptile—are wholly proscribed. The first fruits of every harvest and the first-born of every herd must be offered at a fire-temple before the remainder may be consumed.
 
@@ -160,7 +160,7 @@ To the **southwest**, the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the do
 
 To the **northwest**, the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is a major trading partner, and Taruzelian bankers handle Atarzád commerce in the Vylarian Sea. Religious differences do not impede trade.
 
-Beyond Taruzel, in the [[affiliation-vylarinmpr|Vylarian Empire]], the Teghumod merchant-houses maintain offices in [[place-sanctara|Ulthora]] in Moktur and [[place-alyssar|Alessar]] in Alessa.
+Beyond Taruzel, in the [[affiliation-vylarinmpr|Vylarian Empire]], the Teghumod keep two houses inland, where the goods they come for are sold: a factor in [[place-sanctara|Ulthora]] in Moktur, who buys the province's bar copper and silver twice a year, and a walled office in [[place-alyssar|Alessar]] in Alessa, whose factors buy the licenses for goods carried inland.
 
 To the **east**, beyond the waste, lie [[place-vedyarargn|Vedyara]] and (much further) [[place-tantsouregin|Tantsou]]. Contact is thin and through merchants; the Atarzád know of these distant civilizations but have little practical engagement with them.
 
@@ -181,6 +181,10 @@ The Atárzád-Tellumi blood-feud is not a single ongoing war; it is a continuous
 
 The current generation is in a relatively quiet phase. The last full-scale rebellion was suppressed fourteen years ago; the next is overdue.
 
+### The Shirvan Rising and the Islands' War
+
+The last full-scale rebellion rose in the Shirvan district about 706. The Council of the Twelve acclaimed a Zhudek to put it down, and he died after he had done it; no Zhudek has been acclaimed since. The year after, the islands of [[place-taruzelrgn|Taruzel]] rose against the Vylarian Empire across the strait, and by 709 the Empire had recognized the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] ([[lore-taruzelwar|The Taruzelian War of Independence]]). The tribes were no party to that war, and the desert knows it by its trade. The Teghumod ship to the Northern Fertile Region on Taruzelian hulls and bank with Taruzelian houses, and since the war the harbors their goods pass through answer to the Confederation and not to the Empire. The law against raiding into Taruzel stands as it did.
+
 ## Famous Figures
 
 **Sighotor son of Nozhikor**, current Toqel, Keeper of the Unconsuming Flame. Eighty years old, holds the office for life, by tradition the spiritual head of the Atarzád people. Said to dream of Yotekhor.
@@ -196,6 +200,9 @@ The current generation is in a relatively quiet phase. The last full-scale rebel
 The Atarzád live on the tolls of the caravan road where it enters Tellumel and on the produce of the four cities' gardens and the uplands' herds. Inside the cities, trade runs through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, with the Teghumod counting-houses at Ashkarad settling what tribes owe one another; the Tellumi craftsmen and merchants of the cities have begun to adopt modest moneylender practices along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]). Tolls are paid in kind or in coin as the caravan master prefers. Foreign coin (Vylarian Ardin from western trade, Khelathi gezan pieces from southern trade) circulates by intrinsic-metal value among traders.
 
 ## See Also
+
+[[lore-atrzdclt|Atarzád]]
+: the culture: what the Flame-born value and what they owe
 
 [[place-swoasisbelt|Tellumel]]
 : the oasis belt whose four cities the Tribes hold
@@ -223,6 +230,9 @@ The Atarzád live on the tolls of the caravan road where it enters Tellumel and 
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the land whose merchants provisioned the Exodus during its first leg
+
+[[place-qudumel2|Kudumel]]
+: the Taruzelian port where the belt's caravans land
 
 [[lore-twelveywar|The Twelve Years]]
 : the Atarzád account of the war

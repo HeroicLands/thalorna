@@ -45,6 +45,21 @@ The last prince, Garmelul, faced the loss of everything: the oasis, the palace, 
 Something lives under the sands, and the Tellumi who know of it call it the [Tenant]{.name data-type="being/creature"}. It is not a god, a spirit or an elemental. It is a piece of the outside, the same stuff that [[lore-theshadow|the Shadow]] is, brought up into the world in a seam of stone, and it has been waiting for a mouth. It gave the house what it asked. The line would survive, whole and unchanged, as long as the house was unbroken. In return the Tenant takes what the house can give, which is the one thing the house has never refused: guests.
 :::
 
+## The Table Is Laid {#present}
+
+The household sits at table as it has for ninety years, and travelers still come up the line of glass rods: strings blown off the [Teghumod]{.name data-type="affiliation"} road, the curious from Ashkarad's craft quarter, now and then a scholar. The steward welcomes each of them, and the prince asks each for news. This year there is a great deal of it: a dovaq gathering the northern tribes, a prophet the Atarzád council has not answered, an oasis at Shirvan drying from its edges. The Teghumod still bend their road three days round the hill, the edge-tribes still bury what strays near it, and the exile house still does not discuss it.
+
+## Hooks {#hooks}
+
+- **The straight road.** A Teghumod caravan master loses three days to the bend round the hill on every crossing and wants to know whether it still needs keeping. The tribe's old factors will not tell him what the column of the fifth year found.
+- **The kin who will not speak.** The House of Ashkarad at Amradad is kin to the line and will not discuss it. A rival house on the [Council of the Princes]{.name data-type="affiliation/governmental"} wants to know why, and pays a party to sit at the table and come back with an answer.
+
+:::secret {title="The east wing and the ledgers"}
+
+- **The midwinter silver.** The ledgers under the cistern record the silver sent each midwinter to the House of Ashkarad at Amradad, whose head, [Nimeshay of Ashkarad]{.name data-type="being/npc"}, quietly funds Tellumi agitation in the held cities. A Teghumod factor who could show where the house's silver comes from would hold the exile house by its purse.
+
+:::
+
 ## Reaching It
 
 The palace stands on a hill in open ground. There is no shade and no water within a day. The track from Ashkarad is marked by a line of glass rods, stuck into the sand by the house's servants in the first years and never taken up. At noon the hill throws a glare that blinds.

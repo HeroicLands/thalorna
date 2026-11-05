@@ -58,6 +58,22 @@ The strongroom floor rings hollow because the league's silver lies beneath its f
 
 The street lies on the eastern side of the city, open for a few years at most before the next sand-front closes it. Uruvolun, a guide of the Uruvolur who has sold Vulud's streets before, has sold the news of the cleared doorway to two buyers at [[place-qisomrktcmp|Qiiso]] this season, a Bizarian factor and a Tantsou collector, and guides whichever of them arrives first.
 
+## The Doorway Clear {#present}
+
+This season the doorway stands clear to its sill, and the street will close again within a few years. Uruvolun has sold the news to a Bizarian factor and a Tantsou collector at Qiiso, and guides whichever arrives first. The factor sent a crew of three ahead of him, and a storm has blown over the street since; the crew has not come back to Qiiso. The Tantsou collector is on the road with his own men, and the market at Qiiso pays more for a whole seal of the league than for a broken one.
+
+## Hooks {#hooks}
+
+- **The overdue crew.** The Bizarian factor wants his three men found, and what they were carrying, and he wants it done before the Tantsou collector's men reach the street.
+- **A whole seal.** A collector at Qiiso pays more for a whole seal than for a broken one, on the market's word that a whole seal is a pass, and buys from anyone who comes back from Vulud with one.
+- **The second buyer.** The Tantsou collector has bought the news of the street and wants the strongroom shelves before the factor does, and he hires anyone who has been inside.
+
+:::secret {title="Who is inside this season"}
+
+- **Kesukenod in the niche.** The Sovidur hand [Kesukenod]{.name data-type="being/npc"} is alive in a storage niche off the counting floor, his chest pressed so that he cannot breathe deeply. The watchman does not unfile what it has filed, and a party the factor sends after his crew finds him only by opening the niche.
+
+:::
+
 ## See Also
 
 [[place-wilud|Vulud]]

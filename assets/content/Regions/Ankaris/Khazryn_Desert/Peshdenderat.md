@@ -43,9 +43,25 @@ The oasis is drying, slowly, from the edges in. The outer channels have lost a h
 - **The pilgrims.** Visitors to the cliff shrines are told the lower galleries are flooded and closed. They are not, and the guides who say so keep the stair.
 - **The exile house.** The [House of Shirvan]{.name data-type="affiliation/lineage"} in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] pays a courier for the quarter's news and has begun to ask how the quarter knows so much.
 
+## The Water Falling {#present}
+
+Shirvan is short of water and does not know why. The water-masters have reset the channel-hours twice, the fringe groves are thinning, and the keeper of the courtyard gate cuts the hours of the households in her ledger when the oasis runs short. The Ozhmarod fire-wardens who hold the city believe the quarter is poisoning its own water to blame the Flame, and they search the lower town for the hidden Shekhul and find only his students. The Ozhmarod are also the tribe that listens most closely to [Aqeshat]{.name data-type="being/npc"} the Prophet, who preaches the Tellumi out of the cities, and a quarter blamed for a failing spring is a quarter that can be expelled. In Amradad, the exile house asks its courier how the quarter knows so much.
+
 ## Reaching It
 
 The gallery lies below the level of the lower basin, at the foot of an old pilgrim stair that begins in a courtyard of the Tellumi quarter. After rain, the lower bays flood in the time it takes to climb out of them. The approach is watched by the quarter's water-masters, who say the way is shut for repairs.
+
+## Hooks {#hooks}
+
+- **How the quarter knows.** [Muresha of Shirvan]{.name data-type="being/npc"}, heir-in-exile of the House of Shirvan, pays a courier for the quarter's news and wants someone who is not her courier to learn where it comes from.
+- **The channel ledgers.** The water-masters see the numbers fall and suspect the well and a priest, and they want someone with no channel-hours to lose to go down the stair that they keep shut.
+- **The hidden Shekhul.** The Ozhmarod fire-wardens want the hidden Shekhul, and they pay a stranger who can pass in the lower town to find the back room where he teaches.
+
+:::secret {title="The sorcerer-priest"}
+
+- **What the well costs.** Nurmelul believes the well keeps the Tellumi alive. A party that learns the oasis pays for every answer can tell the quarter, the water-masters or the fire-wardens, and whichever it tells decides what becomes of the quarter.
+
+:::
 
 ## See Also
 

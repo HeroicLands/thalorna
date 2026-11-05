@@ -26,9 +26,14 @@ The fall is the first danger. The steps below the hundredth are slick with a cen
 
 Three thousand years of offerings lie at the bottom, drifted in the drain and trodden into the dust: coin of every mint that ever traded in the waste, jewelry, blades, small bronzes. The deepest layer is older than the tribes and holds the builders' own votives, tiny figures of baked clay in a posture the tribes will not describe. A party that reaches the landing can fill a saddlebag.
 
-## A Hook
+## The Dry Year {#present}
 
-A hard drought has dried every ordinary well within two days of Kelod, and the tribe that holds the nearest ground wants it cleared on the chance the stair holds water again. None of its own people will go down, and the elders are paying three times a caravan guard's wage for strangers who will. They tell the party the stair is empty. The party can see the offerings thrown in this morning, and the rope on the rim, its lower end cut clean through.
+A hard drought has dried every ordinary well within two days of Kelod. The tribe that holds the nearest ground wants the stair cleared on the chance it holds water again, and none of its own people will go down. Its elders are paying three times a caravan guard's wage for strangers who will, and they say the stair is empty. The offerings thrown in this morning lie on the upper landings, and the rope on the rim ends clean through.
+
+## Hooks {#hooks}
+
+- **Three times a guard's wage.** The tribe's elders want the stair cleared to the bottom and pay strangers to do it, and they tell the party the stair is empty.
+- **The cut rope.** Someone went down on the rope at the rim before the party came. The elders do not say who cut it, or who was on the end of it.
 
 ## See Also
 

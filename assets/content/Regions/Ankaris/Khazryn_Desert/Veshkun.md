@@ -26,9 +26,15 @@ The danger is the ground. The old cellars run under the new settlement and under
 
 The temple quarter is the prize: courses of carved stone, columns with their lettering still sharp, and the foundation of a great hall under the sand. The stones are the only pre-drought work in the belt that has not been quarried by a later house. Below the quarter, in the cellars of the record-keepers, is the thing the [House of Vahurdash]{.name data-type="affiliation/lineage"} wants most, the clay tablets of the old archive.
 
-## A Hook
+## The Settlement among the Streets {#present}
 
-The revived house of Vahurdash holds its title by acclamation, and the exiled houses in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] say that is not a title. The old archive holds the genealogies that would settle it. The house will pay a party to enter the cellars of the record-keepers' quarter and bring the tablets out unbroken, and a rival house in exile has made the same offer for the opposite purpose.
+[[place-vahurdash|Vahurdash]] lives on the ruin and against it. Its four thousand settlers bar their cellar doors at dusk against the spiders, bar the [[place-velkunvartun|Barred Gate]] at nightfall against the knocking, and lose every caravan that reaches the rim after dark. The revived house holds its title by acclamation, and the exiled houses in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], who sit beside it on the [Council of the Princes]{.name data-type="affiliation/governmental"}, say that is not a title. The genealogies that would settle the quarrel lie in the clay tablets under the record-keepers' quarter, and nobody has yet brought them out. The house wants them out unbroken. A rival house in exile wants them too, for the opposite purpose.
+
+## Hooks {#hooks}
+
+- **The tablets unbroken.** [Khorsád-Vahur]{.name data-type="being/npc"}, head of the House of Vahurdash, will pay a party to enter the cellars of the record-keepers' quarter and bring the old archive out whole, so that his house can answer the exiles with its own genealogies.
+- **The opposite purpose.** A rival house in exile has made the same offer, and wants the tablets in its own hands before the Council of the Princes sits again.
+- **The vaults under the lanes.** The camel spiders that come up at dusk take the settlement's goats and sometimes its children, and the settlers want the vaults under their own lanes cleared.
 
 ## See Also
 

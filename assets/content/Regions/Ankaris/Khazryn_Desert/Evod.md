@@ -26,9 +26,14 @@ The crust is the danger. Over most of the basin it holds a camel, but over the o
 
 The mounds are the prize, and they are not empty. Glazed tiles in blue and green, nowhere else made in the waste, come out of the lower courses. Sealed jars of gray clay are found whole, some holding seed, some oil, and a few a black paste no one has dared taste. The salt itself is worth the labor: a slab-cutter's wage in a good season is more than a caravan guard's, and a party with a dozen camels and a week of patience can carry out a fortune in white stone.
 
-## A Hook
+## The Stair under the Crust {#present}
 
-A salt-cutter's son, working a canal bank a half day from the nearest cutting, put his pick through the crust where it should have been mud and broke into a dry stair going down. He covered the hole with his shirt and told his mother, who told the tribe's elders, who have told no one outside. The boy is the only person alive who can find the place again, and he is eleven.
+The slab-cutters work the salt as they always have, and none of them works the middle of the flat or sleeps out on it. This season a salt-cutter's son, working a canal bank half a day from the nearest cutting, put his pick through the crust where it should have been mud and broke into a dry stair going down. He covered the hole with his shirt and told his mother, who told the tribe's elders, who have told no one outside. The boy is the only person alive who can find the place again, and he is eleven. His father wants to know whether he was lying.
+
+## Hooks {#hooks}
+
+- **The boy who can find it.** The tribe's elders want the stair opened before anyone outside hears of it, and the only guide they have is eleven years old.
+- **Lying or not.** The boy's father wants to know whether his son broke into a stair or into a story, and the boy is the only one who can show him.
 
 ## See Also
 

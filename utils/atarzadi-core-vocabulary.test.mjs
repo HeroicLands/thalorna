@@ -99,6 +99,9 @@ test("Atárzadi preserves the original names, stems, endings, metadata and prose
         name: "Everyday speech",
         holds: "Ordinary words and expressions for bodily life, relationships, things, actions and conversation.",
     });
+    // The Atárzád culture joins the Tellumi one in the tongue's scope.
+    assert.deepEqual(before.fm.data.scope.cultures, ["khazrynclt"]);
+    assert.deepEqual(note.fm.data.scope.cultures, ["khazrynclt", "atrzdclt"]);
     assert.equal(
         contentHash(
             splitFrontmatter(before.raw).body.replace(/\n## Everyday speech\n[\s\S]*$/u, ""),

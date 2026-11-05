@@ -45,6 +45,21 @@ The Flame also has a part in government. When the [Council of the Twelve]{.name 
 Nothing feeds the Flame that anyone has found. The keepers have sat with it in every season, and in their keeping it has not changed: not its height, not its colour, not in wind, rain or snow. A lamp lit from it is an ordinary flame, which burns its own oil and goes out when the oil is gone, and every keeper has seen one go out. They do not tell the pilgrims, who believe the lamp they carry home holds the Flame itself.
 :::
 
+## Two Voices for Ataros {#present}
+
+The keepers sit their turns of four as they always have, and the Toqel who reads the Flame is about eighty. Another voice now claims to know the will of [[lore-atarosdty|Ataros]]: [Aqeshat]{.name data-type="being/npc"} the Prophet, who says he has shown her the return of Yotekhor in the flesh. Sighotor has not spoken of her from the shelf, and the tribes read his silence each in their own way. The Council of the Twelve may soon need the Flame's answer on a second matter, because word has come from the steppe of a union rising in the north, and a Zhudek is never acclaimed without the Toqel. Every pilgrim family that climbs the stair this year asks the keepers what the Flame has shown, and the keepers answer that they keep the ring, the stair and the words.
+
+## Hooks {#hooks}
+
+- **Behind the ring.** A scholar of [[place-caldar|Kaldar]], refused by the Toqel, wants a close description of the stone under the Flame and pays a party to climb outside a festival, when the keepers let a stranger who comes in peace stand at the ring.
+- **What the Flame has shown.** The followers of Aqeshat want the Toqel to speak for her or against her before the midsummer recitation, and they press any pilgrim who is admitted to the shelf to bring down what the keepers say of her.
+
+:::secret {title="What the keepers know"}
+
+- **The lamp that goes out.** Every keeper has watched a lamp lit from the Flame burn its oil and go out. A Kaldar scholar who learned it would hold something the keepers have never told the pilgrims, and the keepers do not want it spoken in a year when a prophet's following grows each season.
+
+:::
+
 ## See Also
 
 [[place-mountshofar|Mount Shofar]]

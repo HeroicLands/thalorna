@@ -28,9 +28,14 @@ Vulud is not a blood land. The city was emptied by a failing well, not by slaugh
 
 What a street holds depends on the season: shop-stock of a dozen peoples, weights and seals of the league's counting-houses, lamp glass from a fallen tower, a household's silver in a jar under a hearth. Nothing that was worth carrying was left, but a party opening a house nobody has entered in some nine hundred years finds what the last family did not think of.
 
-## A Hook
+## A Street Open {#present}
 
-The [[affiliation-rwlstrb|Uruvolur]], the hidden-water bands who guide the Ghoshiqor, are the first to learn when a street opens. They sell the news to two buyers at once, usually a Bizarian factor and a Tantsou collector, and then guide whichever of them arrives first. A party that finds a fresh street unguided is a competitor, and the Uruvolur, who know where everyone in the Ghoshiqor is, sell its position to both buyers.
+A sand-front has opened a street on the eastern edge of the city, and this season the wind has scoured the drift from its lower end so that the counting-house tower of [[place-bolidqiso|Bolidqiiso]] stands clear to its sill. [Uruvolun]{.name data-type="being/npc"} of the [[affiliation-rwlstrb|Uruvolur]], the hidden-water bands who guide the Ghoshiqor, has sold the news to two buyers at [[place-qisomrktcmp|Qiiso]], a Bizarian factor and a Tantsou collector, and guides whichever arrives first. The street will stay open a few years at most before the next front covers it.
+
+## Hooks {#hooks}
+
+- **Two buyers, one street.** The Bizarian factor and the Tantsou collector each believe the street is theirs, and each hires guards for a dig the other means to have first.
+- **Sold twice over.** The Uruvolur know where everyone in the Ghoshiqor is. A party that finds a fresh street unguided is a competitor, and they sell its position to both buyers.
 
 ## See Also
 

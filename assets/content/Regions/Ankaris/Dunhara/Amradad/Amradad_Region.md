@@ -15,6 +15,9 @@ data:
     - {to: vylarianse, bearing: W}
     - {to: taruzelrgn, bearing: W}
     - {to: zupumun, bearing: W}
+  routes:
+    - {to: qudumel2, bearing: W, mode: ship, days: 1, terrain: [open-sea]}
+    - {to: pashinar, bearing: W, mode: ship, days: 1, terrain: [open-sea]}
   population: 2000000
   packFolder: amradad
   government: kngdmmrdd

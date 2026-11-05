@@ -41,9 +41,19 @@ The tower has one entrance, a stone stair on the outside, narrow and without rai
 [[lore-theshadow|The Shadow]] works through the opening that was made, as it works wherever a spirit is bound back into the flesh it has left; the Tower's dead are held in their bodies, and the undead of every land stem from the same corruption. Nothing about the Empty Tower is natural, and no one who has seen the Expositor's work believes that it was done for any reason but grief.
 :::
 
+## The Tower Shut {#present}
+
+The Delkoshekh of Azravan keep the tower shut, its Expositor unnamed and its rite unperformed, and the platform stays full. The priest who climbed the stair at the last dark of the moon has not spoken of what he found. The Teghumod patrol at the first marker-stone turns back anyone without a caravan's license, and the tribe's caravans pass the tower in daylight and turn back at nightfall. In the craft quarter of Ashkarad the families who gave their dead to the tower keep their lamps lit on the dark-moon nights, and one household still pays a Delkoshekh each year to ask the tower after a child lost in the siege.
+
 ## Reaching It
 
 The tower is reached by a faint track from Ashkarad's north gate, a day's ride through bare stone, with no well on the way. A party mounted on camels does it between dawn and dusk. A party on foot sleeps on the road, and the road is not where to sleep. The Teghumod stations a patrol at the first marker-stone, a day's ride short of the tower, whose captain turns back anyone without a caravan's license to pass.
+
+## Hooks {#hooks}
+
+- **The child's answer.** The craft-quarter household that pays each year to ask the tower after its child would pay far more to someone who climbs the stair and brings back what is on the platform.
+- **The priest who climbed.** The Delkoshekh of Azravan want to know what their brother found on the swept platform before the next dark of the moon, and he has said nothing to them.
+- **Past the marker-stone.** The Teghumod captain at the first marker-stone turns back anyone without a caravan's license, and a party that means to reach the tower needs one from the tribe's factors in Ashkarad, or a way round the patrol.
 
 ## See Also
 

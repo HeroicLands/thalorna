@@ -26,9 +26,14 @@ The caverns are deep and have a way of turning a party round. Past the first few
 
 Water is the treasure. The cisterns are the best in the Idvaqor, and a tribe that held them could hold the road. Beyond water are the paintings, which are in better condition than any painted wall in the waste, and are worth to a scholar more than any quantity of silver. No one has taken so much as a handful of dust out of the Hollow Hills in living memory, and the tribes say that no one has been allowed to.
 
-## A Hook
+## The Watchers at the Openings {#present}
 
-A Tantsou scholar at the western passes has seen a copy of a single painted line, passed from hand to hand across five years and half the desert, and wants the rest. He will pay a fortune, and the tribes of the Idvaqor have named their own price, which is not silver. They want a thing brought out of [[place-tantsouregin|Tantsou]], and they will not say what.
+The tribes of the [[place-idwkrrgn|Idvaqor]] keep their watchers at the larger openings and turn every stranger off the ridge. A single painted line has been copied, passed from hand to hand across five years and half the desert, and reached a Tantsou scholar at the western passes, who wants the rest. The tribes have named their price, and it is not silver: they want a thing brought out of [[place-tantsouregin|Tantsou]], and they will not say what. Tantsou patrols ride the road within a week of the pass, and a thing taken out of the Empire passes under them.
+
+## Hooks {#hooks}
+
+- **The rest of the script.** The Tantsou scholar at the western passes pays a fortune for a copy of the painted walls, and needs someone the tribes will let in.
+- **The tribes' price.** The tribes of the Idvaqor want a thing brought out of Tantsou in exchange for their leave, and they will not say what it is until a party has agreed to carry it.
 
 ## See Also
 

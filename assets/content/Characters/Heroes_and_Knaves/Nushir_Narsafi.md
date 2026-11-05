@@ -12,7 +12,7 @@ data:
   lore: []
   culture: khazrynclt
   homes: [zargandur]
-  affiliations: {khzrncnfdrtn: {rank: 2}, korsadra: {rank: 1}}
+  affiliations: {khzrncnfdrtn: {rank: 1}, korsadra: {rank: 1}}
   gender: female
   species: humanflk
   born: 673.102

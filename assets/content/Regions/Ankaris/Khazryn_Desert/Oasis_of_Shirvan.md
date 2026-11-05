@@ -34,6 +34,8 @@ The city belongs to the [Ozhmarod]{.name data-type="affiliation"}, the Atarzád 
 
 The Tellumi live in the older districts around the lower basin, in lanes too narrow for a settler's cart. They run the canals, the clinics, the counting-houses and the school that the Ozhmarod have never closed because the Ozhmarod sons attend it. Their Delkoshekhs hold no temple. They hear cases in back rooms, and the quarter obeys them.
 
+The last Tellumi rising began in the Shirvan district about 706. A Zhudek acclaimed by the [[affiliation-cncltwelve|Council of the Twelve]] put it down, and no Zhudek has been acclaimed since.
+
 ## Hooks and Dangers
 
 - **The Hidden Delkoshekh.** The Tellumi of the quarter swear that one Delkoshekh keeps the old observances somewhere near the spring, and the Ozhmarod fire-wardens have searched for him for ninety years. A party hired by the exiled [House of Shirvan]{.name data-type="affiliation/lineage"} could be asked to carry something to him, or to find out whether he exists. A party hired by the Ozhmarod could be asked for the opposite, and both employers pay well.

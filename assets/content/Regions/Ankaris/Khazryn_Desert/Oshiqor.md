@@ -26,9 +26,15 @@ The tombs are old and the roofs are rock, and where the rock has cracked the pas
 
 The grave-goods are the prize: gold work in a style found nowhere else, beaded collars, stone vessels cut thin as shell and the painted walls themselves, which a scholar will pay for in plaster casts if he cannot have the stone. Whatever a tomb-robber has taken from the upper chambers has already gone; the lower chambers have not been opened.
 
-## A Hook
+## The Elder's Son {#present}
 
-The son of an Atarzád elder has been robbing the tombs. A rival herd-chief found a bead of the blue stone in the boy's saddlebag and told the elder, who denied it, and the rivals now hold the proof. The elder will pay a party to bring his son out of the ravines before the tribe learns, and a party that finds him in the northernmost tomb sees what he found in its third chamber, which nobody else has seen.
+The tombs are being robbed, and by an Atarzád. The son of an elder of the tribe that grazes the range's southern edge has been going into the ravines, and a rival herd-chief has found a bead of the blue stone in the boy's saddlebag and told the elder. The elder denies it. The rivals now hold the proof, and a herdsman whose animals so much as stray into a ravine is cleansed with fire before he rejoins his tribe. A Tantsou scholar is meanwhile looking for a guide the Atarzád cannot forbid.
+
+## Hooks {#hooks}
+
+- **Bring the boy out.** The elder will pay a party to bring his son out of the ravines before the tribe learns, and a party that finds him in the northernmost tomb sees what he found in its third chamber, which nobody else has seen.
+- **The rivals' proof.** The rival herd-chief holds the blue bead and wants the elder shamed before the tribe, and he wants a witness who has seen the boy in the ravines.
+- **A rubbing of the walls.** A Tantsou scholar wants a rubbing of the painted procession and pays for a guide the Atarzád cannot forbid.
 
 ## See Also
 
