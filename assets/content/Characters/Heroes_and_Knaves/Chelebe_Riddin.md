@@ -414,7 +414,7 @@ Chelebe ("cheh-LEH-beh") is a lithe, wiry man of thirty-two with pale, weather-t
 
 # Dossier {#dossier}
 
-Chelebe is an [[lore-aelendnppl|Áelendan hunter]] from the wildernesses of [[place-drenavrspn|the Drenavar Spine]] in northern [[place-provenzrgn|Provenzia]]. Trained from childhood in the ancient Áelendan ways of tracking, archery, and survival, he has spent most of his life navigating the harsh landscapes of his homeland—forests, mountains, and the deep places where few outsiders venture.
+Chelebe is an [[lore-aelendnppl|Áelendan hunter]] from the wildernesses of [[place-drenavrspn|the Drenavar Spine]] in northern [[place-provenzrgn|Provénzia]]. Trained from childhood in the ancient Áelendan ways of tracking, archery, and survival, he has spent most of his life navigating the harsh landscapes of his homeland—forests, mountains, and the deep places where few outsiders venture.
 
 Chelebe is deeply spiritual, connected to the natural world in a way that his mercenary companions cannot fully understand. His bond with the land and its spirits is not abstract philosophy but a living practice, rooted in the traditions of his tribe and the [[place-eshalshldg|Ésalosa lodge]] to which he belongs. He is a hunter and a protector of the wilderness, and he carries both roles with quiet seriousness.
 
@@ -447,7 +447,7 @@ Chelebe is quiet and introspective, speaking only when necessary. His stoic natu
 
 ### Motivation
 
-Chelebe's goal is to gather enough wealth to secure a future for his tribe and the preservation of the Áelendan ways. He sees the Silent Talon as a means to an end—allowing him to fund the protection of sacred sites from exploitation and encroachment. He also seeks to learn more about the wider world, using his time with the band to understand the broader conflicts affecting Provenzia and the threats they may bring to his people.
+Chelebe's goal is to gather enough wealth to secure a future for his tribe and the preservation of the Áelendan ways. He sees the Silent Talon as a means to an end—allowing him to fund the protection of sacred sites from exploitation and encroachment. He also seeks to learn more about the wider world, using his time with the band to understand the broader conflicts affecting Provénzia and the threats they may bring to his people.
 
 ### Strengths
 

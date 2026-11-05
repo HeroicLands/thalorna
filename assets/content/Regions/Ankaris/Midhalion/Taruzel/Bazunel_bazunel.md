@@ -77,7 +77,7 @@ Bazunel's refuge is under pressure from both sides of the coast's quarrel. The g
 
 Bazunel is smaller and less wealthy than Besikar, less martial than [[affiliation-yamuzel|Yamuzel]] and less cosmopolitan than [[affiliation-qudumel|Kudumel]], and it makes up the difference in creative energy. Its shipwright tradition is famous across the coast. Bazuneli ship-designers are counted artists as much as engineers, a hull designed here is recognizable by its elegant lines and inventive rigging, and the shipwright guilds work more like artists' studios than industrial workshops.
 
-The city's academies are modest beside those of [[place-helionis|Helionis]] or the [[place-provenzrgn|Provenzia Region]], and their character is practical: they turn out excellent navigators, cartographers, physicians and natural philosophers. Bazunel's astronomers are the best in the Confederation, and its navigational charts are prized by captains across the [[place-vylarianse|Vylarian Sea]].
+The city's academies are modest beside those of [[place-helionis|Helionis]] or the [[place-provenzrgn|Provénzia Region]], and their character is practical: they turn out excellent navigators, cartographers, physicians and natural philosophers. Bazunel's astronomers are the best in the Confederation, and its navigational charts are prized by captains across the [[place-vylarianse|Vylarian Sea]].
 
 ## Commerce and Currency
 

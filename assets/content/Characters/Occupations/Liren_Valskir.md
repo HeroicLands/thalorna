@@ -398,7 +398,7 @@ Liren Valskir is a 38-year-old woman who stands 6'0" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Liren Valskir came into the world of the domestic servant through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Liren Valskir came into the world of the domestic servant through a combination of circumstance and aptitude.
 
 Liren has worked in service since she was a teenager, starting as a scullery maid and eventually rising to the position of housekeeper for a prominent family. She is organized and meticulous, managing the other servants and ensuring the household runs smoothly. Despite her hard work, she often feels undervalued.
 
@@ -420,7 +420,7 @@ Highly organized, skilled in household management, reliable.
 
 Liren is affiliated with none; she is dedicated to her job.
 
-As a Provenzian domestic servant, Liren occupies a recognized social niche within Provenzia society.
+As a Provénzian domestic servant, Liren occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -435,7 +435,7 @@ Some of the younger servants who see her as too strict.
 ## Plot Hooks
 
 The Domestic Servant's Dilemma
-: Liren faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+: Liren faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
 
 Old Grudges
 : Some of the younger servants who see her as too strict. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -444,7 +444,7 @@ Echoes of the Past
 : Something from Liren's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Liren depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Liren depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Liren the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

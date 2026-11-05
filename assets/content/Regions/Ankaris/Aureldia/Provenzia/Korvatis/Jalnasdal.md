@@ -3,7 +3,7 @@ shortcode: jalnazdal
 name: {full: Jalnasdal}
 type: place
 subType: settlement
-description: "The capital of Provenzia on the warm southern shore—the Crown's seat, the home of the Cotiere speech, and the city where the long argument between the crown and the Council of Peers is conducted."
+description: "The capital of Provénzia on the warm southern shore—the Crown's seat, the home of the Cotiere speech, and the city where the long argument between the crown and the Council of Peers is conducted."
 tags: [city, port, coastal]
 data:
   demonym: null
@@ -14,14 +14,14 @@ data:
   government: kngdmprvnz
 ---
 
-**Jalnasdal** is the capital of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and, with some
+**Jalnasdal** is the capital of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and, with some
 seventy thousand people, its largest city. It stands on the warm southern coast, on the
 [[place-vylarianse|Vylarian Sea]]—a working port as well as a court, which is unusual among the
-capitals of [[place-ankrscntnnt|Ankaris]] and explains a good deal about how Provenzia is governed.
+capitals of [[place-ankrscntnnt|Ankaris]] and explains a good deal about how Provénzia is governed.
 
 Its speech, [Cotiere]{.name data-type="skill/language"}, is the prestige dialect of the kingdom: the most standardized form of
 [[skill-provnzlng|Provenzal]], the one used in literature and formal commerce, and the one that shows
-the deepest Vylarian influence. To speak Cotiere is to be understood everywhere in Provenzia and to be
+the deepest Vylarian influence. To speak Cotiere is to be understood everywhere in Provénzia and to be
 placed instantly.
 
 ## Crown and Council
@@ -48,4 +48,4 @@ reign that could afford to and several that could not.
 
 ## See Also
 
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]] · [[place-kalveza|Kalveza]] · [[place-valarencity|Válaren City]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]] · [[place-kalveza|Kalveza]] · [[place-valarencity|Válaren City]]

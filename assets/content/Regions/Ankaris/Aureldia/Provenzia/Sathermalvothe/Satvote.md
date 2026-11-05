@@ -3,14 +3,14 @@ shortcode: sathvothe
 name: {full: Satvote}
 type: place
 subType: region
-description: "Provenzia's northern quarter—the Élavendren borderland, the Áelendan mountains that no crown truly holds, and the sea-frontier through which the Nordheim raids came."
+description: "Provénzia's northern quarter—the Élavendren borderland, the Áelendan mountains that no crown truly holds, and the sea-frontier through which the Nordheim raids came."
 tags: [region, border, mountain]
 data: {demonym: null, lore: [], parents: [provenzrgn], population: 750000, packFolder: provenzia}
 ---
 
 Satvote—_beyond the mountains_, and also the name of the cold wind that comes over them.
 
-The Satvote is the [[place-provenzrgn|Provenzia Region]]'s frontier with [[place-elavendre|Élavendre]] and with the northern
+The Satvote is the [[place-provenzrgn|Provénzia Region]]'s frontier with [[place-elavendre|Élavendre]] and with the northern
 sea: some three-quarters of a million people on the coastal plain and in the valleys, and above them a
 great deal of mountain that is not, in any sense that matters, governed.
 
@@ -50,4 +50,4 @@ Two centuries ago a fleet used it ([[lore-southrnfleets|the Southern Fleets]]). 
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]] · [[place-elavendre|Élavendre]]
+- [[place-provenzrgn|Provénzia Region]] · [[place-elavendre|Élavendre]]

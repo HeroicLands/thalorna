@@ -844,7 +844,7 @@ export const STRESS_PROSE = new Map([
         [
             [
                 "Stress is generally initial (FA-ris, AR-vel) but varies for poetic effect.",
-                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provenzian favors short words, so it often lands at the front (FA-ris, AR-vel).",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provénzian favors short words, so it often lands at the front (FA-ris, AR-vel).",
             ],
         ],
     ],

@@ -14,4 +14,4 @@
 
 **Places**
 
-- The Oracular Sanctuary at Argenna now calls the Provenzia Region the region it lies in, rather than a kingdom.
+- The Oracular Sanctuary at Argenna now calls the Provénzia Region the region it lies in, rather than a kingdom.

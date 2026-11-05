@@ -20,7 +20,7 @@ The roads of [[place-ceravelvale|Keravel Vale]] have grown treacherous, with bol
 
 ### Background
 
-The Vale of Keravel is a rugged, isolated region in [[place-provenzrgn|Provenzia]] plagued by bandit activity, led by [Thárion al Dracaen]{.name data-type="being/npc"}, who was once the lord of Belsaren. After being accused of treason by Tarlas Pélanvri, Thárion lost his title and lands. Thárion leads a band of outlaws based in Belsaren who raid the region. However, the situation is more complicated than it seems: the local villagers, who are mostly Tanevar, secretly support the bandits. The adventurers are tasked with bringing Thárion and his rebellion to an end.
+The Vale of Keravel is a rugged, isolated region in [[place-provenzrgn|Provénzia]] plagued by bandit activity, led by [Thárion al Dracaen]{.name data-type="being/npc"}, who was once the lord of Belsaren. After being accused of treason by Tarlas Pélanvri, Thárion lost his title and lands. Thárion leads a band of outlaws based in Belsaren who raid the region. However, the situation is more complicated than it seems: the local villagers, who are mostly Tanevar, secretly support the bandits. The adventurers are tasked with bringing Thárion and his rebellion to an end.
 
 ### Key Dynamics and Relationships
 
@@ -33,8 +33,8 @@ Elgar Tarlas al Pélanvri na Belsaren
 Nalor [Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}
 : Although Kilan plays no overt role in Part 1, his hidden hand is at work. He has been manipulating the conflict between Thárion and Tarlas, subtly supporting the chaos to weaken Tarlas’ control of Belsaren and further his own agenda. However, this connection remains unknown to all, including Thárion, until after the bandit leader’s defeat.
 
-Tanevar and Provenzian Peasants of Belsaren
-: The peasants of Belsaren are divided. While all of the peasants are openly supportive of Tarlas, the Tanevar majority secretly supports Thárion, while the Provenzian minority remains loyal to Tarlas. This division complicates the adventurers’ task, as the Tanevar villagers may resist their efforts, while the Provenzian peasants offer information and assistance.
+Tanevar and Provénzian Peasants of Belsaren
+: The peasants of Belsaren are divided. While all of the peasants are openly supportive of Tarlas, the Tanevar majority secretly supports Thárion, while the Provénzian minority remains loyal to Tarlas. This division complicates the adventurers’ task, as the Tanevar villagers may resist their efforts, while the Provénzian peasants offer information and assistance.
 
 ### Introduction
 
@@ -134,7 +134,7 @@ _(He nods to a servant, who escorts the adventurers out.)_
 
 ### Finding Information in the Village
 
-The party may choose to go to the village and seek information there. Generally, the villagers will be close-mouthed and wary of any new villagers. If the party mentions their connection with Tarlas, the Tanevar villagers will become even less communicative, and will even be hostile. On the other hand, the Provenzian villagers may be somewhat more inclined to assist, although still concerned about being seen as informers to the Tanevar villagers.
+The party may choose to go to the village and seek information there. Generally, the villagers will be close-mouthed and wary of any new villagers. If the party mentions their connection with Tarlas, the Tanevar villagers will become even less communicative, and will even be hostile. On the other hand, the Provénzian villagers may be somewhat more inclined to assist, although still concerned about being seen as informers to the Tanevar villagers.
 
 The first place the adventurers are likely to go for information is the inn. The following conversations are samples that might be used if the adventurers ask around. There are more rumors that might also be available, either at the inn or in the village from other village people.
 
@@ -155,7 +155,7 @@ The first place the adventurers are likely to go for information is the inn. The
 Verek (Irritated)
 : "Look, I run an inn, not a gossip shop. My job’s keeping this place running, not sticking my neck into trouble. If you want answers, maybe ask that busybody beekeeper over there. [Yvendar]{.name data-type="being/npc"} hears everything, whether he wants to or not."
 
-#### Rheman (Provenzian Farmer)
+#### Rheman (Provénzian Farmer)
 
 ##### _Adventurers ask about recent attacks:_
 
@@ -193,7 +193,7 @@ Rheman (Lowered Voice)
 Árgaen (Defensive)
 : "Think I don’t know what I’m talking about? Fine, go wandering in the woods without a guide. See how long you last! I’ll be here when you come crawling back, if you make it out alive."
 
-#### Yvendar (Provenzian Beekeeper)
+#### Yvendar (Provénzian Beekeeper)
 
 ##### _Adventurers ask about the bandits:_
 
@@ -381,7 +381,7 @@ The bandits have:
 
 ### Bandit Attack on the Village
 
-After the ambush on the Old South Road, Thárion will become desperate that his location will be revealed. He will attempt to destroy the party in the village, while also planning on moving to a new location. Their primary goal is to capture or kill the adventurers while simultaneously intimidating the villagers into silence. The bandits’ secondary goal is to sow chaos by using Provenzian villagers as human shields, forcing the adventurers into difficult moral choices during the confrontation.
+After the ambush on the Old South Road, Thárion will become desperate that his location will be revealed. He will attempt to destroy the party in the village, while also planning on moving to a new location. Their primary goal is to capture or kill the adventurers while simultaneously intimidating the villagers into silence. The bandits’ secondary goal is to sow chaos by using Provénzian villagers as human shields, forcing the adventurers into difficult moral choices during the confrontation.
 
 #### Objective
 
@@ -460,7 +460,7 @@ Bandit Leader
 
 1.  **Protecting Villagers:**
     - Adventurers must balance fighting off bandits with rescuing trapped villagers or extinguishing fires.
-    - Deliberately harming a villager (even accidentally) could strain relations with the Provenzians and increase tension in the village.
+    - Deliberately harming a villager (even accidentally) could strain relations with the Provénzians and increase tension in the village.
 
 2.  **Bandit Morale:**
     - Bandits are emboldened if they capture or kill a villager, increasing their aggression.
@@ -482,7 +482,7 @@ The bandit leader shouts:
 
 ##### Villager Actions:
 
-- A few brave villagers, such as [Gjarken]{.name data-type="being/npc"} (Provenzian reeve) or [Algar]{.name data-type="being/npc"} (beadle), may attempt to assist by throwing rocks or guiding others to safety. However, their effectiveness is limited without adventurer intervention.
+- A few brave villagers, such as [Gjarken]{.name data-type="being/npc"} (Provénzian reeve) or [Algar]{.name data-type="being/npc"} (beadle), may attempt to assist by throwing rocks or guiding others to safety. However, their effectiveness is limited without adventurer intervention.
 
 #### Aftermath
 
@@ -493,7 +493,7 @@ The bandit leader shouts:
   - **The location of the bandit hideout:** A forest cave system guarded by traps and at least a dozen more bandits.
   - **Details about the Tanevar villagers’ complicity:** Specific names (e.g., [Arlek]{.name data-type="being/npc"} or [Trévalais]{.name data-type="being/npc"}) and descriptions of their involvement.
 
-- Relations between the Provenzian and Tanevar villagers deteriorate further, creating social tension the adventurers may need to navigate.
+- Relations between the Provénzian and Tanevar villagers deteriorate further, creating social tension the adventurers may need to navigate.
 
 ##### If the Bandits Win or Escape:
 
@@ -523,7 +523,7 @@ Roleplay Opportunities
 
 ##### During the Attack
 
-As the lord of the manor, Tarlas al Pélanvri is deeply concerned with maintaining control and protecting the village, particularly the Provenzian villagers who are loyal to him. However, his responses are shaped by his authoritarian leadership style and the need to avoid direct involvement in combat unless absolutely necessary.
+As the lord of the manor, Tarlas al Pélanvri is deeply concerned with maintaining control and protecting the village, particularly the Provénzian villagers who are loyal to him. However, his responses are shaped by his authoritarian leadership style and the need to avoid direct involvement in combat unless absolutely necessary.
 
 1.  **Immediate Actions:**
     - **Rallying Guards:** Tarlas immediately orders his manor guards (4 trained fighters) to secure key locations, such as the manor itself or other strategic points. He will prioritize protecting his family and critical assets over the broader village.
@@ -534,11 +534,11 @@ As the lord of the manor, Tarlas al Pélanvri is deeply concerned with maintaini
 
 3.  **Support for the Adventurers:**
     - If the adventurers are fighting the bandits, Tarlas may see this as an opportunity to test their abilities. He may offer verbal encouragement or vague promises of rewards but avoids direct risk to himself.
-    - He ensures the guards focus on minimizing damage to Provenzian homes, leaving the Tanevar to fend for themselves.
+    - He ensures the guards focus on minimizing damage to Provénzian homes, leaving the Tanevar to fend for themselves.
 
 ##### After the Attack
 
-Tarlas’s response to the aftermath is calculated and reflects his need to maintain control while shifting blame away from himself or the Provenzians.
+Tarlas’s response to the aftermath is calculated and reflects his need to maintain control while shifting blame away from himself or the Provénzians.
 
 1.  **Blame and Reasserting Authority:**
     - **Condemning the Bandits:** Tarlas uses the attack as an opportunity to publicly denounce the bandits, framing their actions as an attack on the stability he provides.
@@ -549,7 +549,7 @@ Tarlas’s response to the aftermath is calculated and reflects his need to main
     - **Deflecting Responsibility:** He implies that the adventurers' presence likely provoked the attack, subtly blaming them for the chaos while still enlisting their help.
 
 3.  **Managing the Villagers:**
-    - **Reassuring the Provenzians:** Tarlas holds a public gathering for the Provenzian villagers, praising their loyalty and promising protection. This reinforces the divide between the two cultural groups.
+    - **Reassuring the Provénzians:** Tarlas holds a public gathering for the Provénzian villagers, praising their loyalty and promising protection. This reinforces the divide between the two cultural groups.
     - **Threatening the Tanevar:** He summons key Tanevar figures, such as Arlek or [Pavern]{.name data-type="being/npc"}, for questioning. This is meant to intimidate and identify collaborators rather than uncover the full truth.
 
 4.  **Strategic Changes:**
@@ -559,21 +559,21 @@ Tarlas’s response to the aftermath is calculated and reflects his need to main
 5.  **Interactions with the Adventurers:**
     - **Rewards and Promises:** Tarlas offers vague rewards for the adventurers’ assistance, emphasizing the importance of dealing with the bandits swiftly to restore order.
     - **Sharing Information:** While Tarlas is aware of some Tanevar villagers’ complicity, he withholds this information unless it benefits him politically or ensures the adventurers’ success.
-    - **Warnings:** He warns the adventurers not to endanger the Provenzian villagers or overstep their role, reminding them that he is still the lord of the land.
+    - **Warnings:** He warns the adventurers not to endanger the Provénzian villagers or overstep their role, reminding them that he is still the lord of the land.
 
 #### How This Shapes the Next Phase
 
 Tarlas’s actions set the stage for a tense dynamic between the adventurers and the villagers:
 
 - **The Tanevar villagers grow more desperate and defiant**, knowing that Tarlas will likely escalate his oppression.
-- **The Provenzians feel conflicted**, grateful for the adventurers’ defense but worried about further retaliation from the bandits.
+- **The Provénzians feel conflicted**, grateful for the adventurers’ defense but worried about further retaliation from the bandits.
 - **The adventurers must navigate Tarlas’s manipulative leadership**, balancing their objectives with the growing unrest in the village.
 
 ### Assault on the Bandit Cave
 
 #### Villager Questioning
 
-In the aftermath of the bandit raid on the village, Tarlas and the Provenzian villagers have had enough, and turn on the Tanevar villagers. Tarlas threatens to put them to the question if they don't start talking.
+In the aftermath of the bandit raid on the village, Tarlas and the Provénzian villagers have had enough, and turn on the Tanevar villagers. Tarlas threatens to put them to the question if they don't start talking.
 
 ##### Verek (Tanevar, Innkeeper)
 
@@ -585,12 +585,12 @@ In the aftermath of the bandit raid on the village, Tarlas and the Provenzian vi
 - **Arlek (Trembling):**  
   “Please, my lord... they forced us! Said they’d burn our homes and take our children if we didn’t help them. What could we do?” _(He falls to his knees.)_ “I’ll show you where they are. Just... spare me. I didn’t want this. None of us did!”
 
-#### 3. Algar (Provenzian, Beadle)
+#### 3. Algar (Provénzian, Beadle)
 
 - **Algar (Angry, to the Tanevar):**  
   “Forced you? Don’t make me laugh! You’ve been giving them food and tools for months, haven’t you? While the rest of us suffered under their attacks! You made your choice, Arlek. You’d better hope it was worth it.” _(Turning to Tarlas)_ “Put them to the question, my lord. Let’s see what else they’ve been hiding!”
 
-#### 4. Tarlas al Pélanvri (Provenzian, Manor Lord)
+#### 4. Tarlas al Pélanvri (Provénzian, Manor Lord)
 
 - **Tarlas (Cold and Authoritative):**
 
@@ -692,7 +692,7 @@ _(Thárion stands tall, his hand resting on the hilt of his sword. His tone is b
 
 _(He begins to pace, his voice growing sharper.)_
 
-“When the Provenzians swept through, they didn’t just take lands—they took everything. My title, my family, my birthright. I wasn’t cast down because I was weak or unfit to rule. I was cast down because I dared to stand against them. Because I refused to bow.”
+“When the Provénzians swept through, they didn’t just take lands—they took everything. My title, my family, my birthright. I wasn’t cast down because I was weak or unfit to rule. I was cast down because I dared to stand against them. Because I refused to bow.”
 
 _(He stops, locking eyes with the adventurers.)_
 
@@ -720,7 +720,7 @@ _(He glares at the adventurers, his voice rising with defiance.)_
 
 _(Thárion freezes for a moment, then exhales sharply, his expression darkening.)_
 
-“Maybe you’re right. Maybe I’ve become what I swore to destroy. But tell me, does that make Tarlas any less of a tyrant? Does it make the Provenzians’ hold on Belsaren any less cruel? I’d rather burn everything down than let them keep their hands on it.”
+“Maybe you’re right. Maybe I’ve become what I swore to destroy. But tell me, does that make Tarlas any less of a tyrant? Does it make the Provénzians’ hold on Belsaren any less cruel? I’d rather burn everything down than let them keep their hands on it.”
 
 _(His voice drops, quieter but more venomous.)_
 
@@ -788,11 +788,11 @@ As the adventurers triumph, the remaining bandits either flee or surrender. Amon
 
 The villagers in Belsaren have long been happy with the situation of being led by a Tanevar lord. Recently, after Thárion was deposed, the new lord Tarlas has demonstrated he holds deep contempt for the Tanevar people, whom he (rightly) believes are providing assistance to the bandits. His heavy-handed governance, driven by his obsessive need to deal with the bandits, is marked by excessive punishments, land seizures, and a dismissive attitude toward the well-being of the Tanevar. This has bred resentment among the Tanevar. The bandits, led by a former noble named **Tharion el Dracaen**, have gained the villagers’ support by providing protection, money, and even food in exchange for assistance. Tharion positions himself as a champion of the poor against their overlord to the villagers.
 
-However, not all villagers agree with supporting the bandits. The Provenzian villagers, led by a farmer named **Rheman**, believe the bandits only bring destruction. This internal division becomes crucial as the adventure unfolds.
+However, not all villagers agree with supporting the bandits. The Provénzian villagers, led by a farmer named **Rheman**, believe the bandits only bring destruction. This internal division becomes crucial as the adventure unfolds.
 
 ##### Why do the bandits betray the villagers and use them as human shields?
 
-Thárion is motivated by revenge against Tarlas Pélanvri, who orchestrated the loss of Thárion’s noble title and land. While Thárion initially has the villagers’ trust, he grows increasingly desperate when the adventurers begin closing in on the bandit hideout. Thárion, seeing no way out, turns on the villagers. He uses the Provenzian villagers as human shields during a crucial ambush, believing that this will give him a tactical advantage against the adventurers.
+Thárion is motivated by revenge against Tarlas Pélanvri, who orchestrated the loss of Thárion’s noble title and land. While Thárion initially has the villagers’ trust, he grows increasingly desperate when the adventurers begin closing in on the bandit hideout. Thárion, seeing no way out, turns on the villagers. He uses the Provénzian villagers as human shields during a crucial ambush, believing that this will give him a tactical advantage against the adventurers.
 
 This act fractures the bandits’ relationship with the villagers. The Tanevar villagers, who had once idolized Thárion, now feel betrayed and lost, while Rheman’s faction becomes even more vocal in their opposition, calling for cooperation with Tarlas (despite Tarlas' cruel governance). This divide opens up an opportunity for the adventurers to either exploit the villagers’ anger or help broker a truce.
 
@@ -801,8 +801,8 @@ This act fractures the bandits’ relationship with the villagers. The Tanevar v
 Tanevar Faction (Led by Verek, the innkeeper)
 : These villagers see Thárion as a hero, nostalgic for his prior rule and providing the protection against Tarlas. They are quietly rebellious, often engaging in clandestine activities to support the bandits, such as smuggling and passing information.
 
-Provenzian Faction (Led by Gjarken, the Reeve)
-: These villagers, who are Provenzian, are not the target of Tarlas' ire, and have fared better under his rule. Gjarken, the Reeve, argues that supporting the bandits will only bring ruin and that support of Tarlas is the answer.
+Provénzian Faction (Led by Gjarken, the Reeve)
+: These villagers, who are Provénzian, are not the target of Tarlas' ire, and have fared better under his rule. Gjarken, the Reeve, argues that supporting the bandits will only bring ruin and that support of Tarlas is the answer.
 
 ##### Dynamic Shifts after Villager's used as Human Shields
 
@@ -814,7 +814,7 @@ However, the betrayal also radicalizes some of the younger villagers, who may be
 
 **Thárion el Dracaen** is a former noble who was stripped of his title and land after a political maneuver by Khirata Jarvel. Thárion’s family was accused of treason, a charge fabricated by Jarvel to consolidate power in the region. Jarvel has installed Tarlas as lord of the manor, with the task of eliminating the bandit threat. Now a bandit leader, Thárion sees his cause as just, framing his actions as revenge against Jarvel and Tarlas and justice for the oppressed Tanevar villagers. His descent into banditry, however, has changed him. Once idealistic, he is now driven by vengeance and desperation.
 
-Thárion is an experienced swordsman and tactician, with a knack for setting deadly traps and ambushes. He commands a small but loyal group of outlaws, most of whom have personal grievances against Tarlas and the Provenzians in general. His hideout is a series of caves in the Keravel Vale, heavily fortified with natural defenses.
+Thárion is an experienced swordsman and tactician, with a knack for setting deadly traps and ambushes. He commands a small but loyal group of outlaws, most of whom have personal grievances against Tarlas and the Provénzians in general. His hideout is a series of caves in the Keravel Vale, heavily fortified with natural defenses.
 
 ##### The Local Noble Manipulating the Bandit Leader
 
@@ -843,13 +843,13 @@ The fate of Keravel Vale rests in the adventurers’ hands. They can choose to b
 
 ### Villager Rumors
 
-These are some rumors that are circulating through the village. The Tanevar villagers in particular will be very wary of new people, especially associated with Tarlas. The Provenzian villagers, while more receptive, are also cautious of speaking too much and disrupting their connections with the Tanevar villagers any further.
+These are some rumors that are circulating through the village. The Tanevar villagers in particular will be very wary of new people, especially associated with Tarlas. The Provénzian villagers, while more receptive, are also cautious of speaking too much and disrupting their connections with the Tanevar villagers any further.
 
 1. Thárion is a noble who was wrongfully stripped of his title by Tarlas and now fights to reclaim his land and honor. (Mostly true, as Thárion was indeed deposed and harbors resentment toward Tarlas.)
 
 2. Thárion’s hideout is hidden deep within the Vale of Keravel, where he has set up surprises for any who try to find him. (True, as his hideout is fortified with traps, though its exact location is kept secret.)
 
-3. Thárion seeks to become a hero for the Tanevar peasants, vowing to drive out the oppressive Provenzian lords and let the locals rule themselves. (Partially true, as Thárion does position himself as a hero to the Tanevar people, though his motives are more personal.)
+3. Thárion seeks to become a hero for the Tanevar peasants, vowing to drive out the oppressive Provénzian lords and let the locals rule themselves. (Partially true, as Thárion does position himself as a hero to the Tanevar people, though his motives are more personal.)
 
 4. He’s hiding in an abandoned fortress from the old wars, where ghosts of the fallen protect him and his men. (False, but a common superstition among villagers about haunted ruins in the Vale.)
 

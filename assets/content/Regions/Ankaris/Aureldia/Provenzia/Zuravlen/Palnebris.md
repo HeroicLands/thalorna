@@ -28,7 +28,7 @@ Use Palnebris as the model of a **manor run for a single high-value crop**.
   only three in the barony—so it does not pay the baron's share, and it takes a share from the
   holdings around it that use the yard instead.
 - **The graft-house.** A heated shed where winter grafting is done. The manor's grafters are the best
-  in [[place-provenzrgn|Provenzia]] and are lent out, at a price, as far as the coast.
+  in [[place-provenzrgn|Provénzia]] and are lent out, at a price, as far as the coast.
 
 ## Officers and Custom
 

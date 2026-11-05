@@ -76,7 +76,7 @@ The raid was the first of a long run of them, and the border families on both si
 
 ## What It Left
 
-- **The Blood-field of Malnebris.** The only one of the [[place-provenzrgn|Provenzia Region]]'s fields that is still being added to ([[place-bldfldmalnebris|Malnebris]]).
+- **The Blood-field of Malnebris.** The only one of the [[place-provenzrgn|Provénzia Region]]'s fields that is still being added to ([[place-bldfldmalnebris|Malnebris]]).
 - **The campaign season as a calendar.** The march's year runs from the thaw to the first snow, and the courts sit in between.
 - **The border families' feud.** The quarrel is the same one in every generation, and each family on the road has someone to lose to it.
 

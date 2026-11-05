@@ -1,11 +1,11 @@
 ---
 shortcode: prvnzthtrclctv
 name:
-  full: The Provenzia Theater Collective
+  full: The Provénzia Theater Collective
   en: [The Theater Collective, The Players' Federation]
 type: affiliation
 subType: fellowship
-description: "Informal but influential federation of Provenzian theater companies, performers, and patrons—shaping the kingdom's public life through staged spectacle, satire, and the careful cultivation of taste."
+description: "Informal but influential federation of Provénzian theater companies, performers, and patrons—shaping the kingdom's public life through staged spectacle, satire, and the careful cultivation of taste."
 tags: []
 data:
   culture: provenzianclt
@@ -60,19 +60,19 @@ Type
 : Cultural federation
 
 Region
-: [[place-provenzrgn|Provenzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
+: [[place-provenzrgn|Provénzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provénzian city of consequence
 
 Founded
 : Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries
 
 Tevran Maldor status
-: Chartered member as the trade body covering theatrical production in Provenzia; holds the Performers' seat (jointly with the senior Aureldian bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The _rozimoi_ (auditors) of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
+: Chartered member as the trade body covering theatrical production in Provénzia; holds the Performers' seat (jointly with the senior Aureldian bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The _rozimoi_ (auditors) of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
 
 ## Overview
 
-[[place-provenzrgn|Provenzia]] takes its theater seriously. The Provenzian public expects of an evening's performance not merely entertainment but commentary—on the court, on the merchant houses, on the most recent diplomatic embarrassment, on the love affairs of the season. A Provenzian play that does not gently cut someone is regarded as a failed play. The Theater Collective is the federation that produces most of these plays, and quietly arbitrates which cuts may be made and which targets are presently off limits.
+[[place-provenzrgn|Provénzia]] takes its theater seriously. The Provénzian public expects of an evening's performance not merely entertainment but commentary—on the court, on the merchant houses, on the most recent diplomatic embarrassment, on the love affairs of the season. A Provénzian play that does not gently cut someone is regarded as a failed play. The Theater Collective is the federation that produces most of these plays, and quietly arbitrates which cuts may be made and which targets are presently off limits.
 
-The Collective is not, in any formal sense, a guild. It does not license performers, does not own the theaters in which it stages, does not impose dues. It is an association of working theater companies, established performers, playwrights, scenic designers, and a select circle of patrons whose money makes the productions possible. What holds it together is a shared interest in maintaining the conditions under which Provenzian theater can continue to do what Provenzian theater does: comment freely, draw substantial audiences, attract the patronage of the powerful, and avoid being shut down by any of the powerful figures the commentary inevitably annoys.
+The Collective is not, in any formal sense, a guild. It does not license performers, does not own the theaters in which it stages, does not impose dues. It is an association of working theater companies, established performers, playwrights, scenic designers, and a select circle of patrons whose money makes the productions possible. What holds it together is a shared interest in maintaining the conditions under which Provénzian theater can continue to do what Provénzian theater does: comment freely, draw substantial audiences, attract the patronage of the powerful, and avoid being shut down by any of the powerful figures the commentary inevitably annoys.
 
 The Collective's central political function is the management of risk. A staged production that mocks a sitting baron risks the baron's retaliation. A production that mocks a sitting baron with the Collective's tacit approval has, behind it, the implicit support of the other patrons, including (often) the baron's rivals—which makes retaliation politically expensive. The Collective does not protect productions it has not blessed; it does protect those it has, and the calculation of which to bless is the Collective's ongoing internal politics.
 
@@ -81,7 +81,7 @@ The Collective's central political function is the management of risk. A staged 
 The Collective recognizes three categories of member:
 
 Companies
-: the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provenzia, ranging from established institutions like the [Teatro della Luna]{.name data-type="affiliation/venture"} in the capital to small touring troupes that perform in market squares.
+: the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provénzia, ranging from established institutions like the [Teatro della Luna]{.name data-type="affiliation/venture"} in the capital to small touring troupes that perform in market squares.
 
 Performers, playwrights, and designers
 : individuals of established reputation, admitted by acclamation of the existing membership. There are perhaps two hundred at any given time. Individuals do not vote but are entitled to speak at Collective gatherings and to participate in the informal discussions that shape decisions.
@@ -107,22 +107,22 @@ The [Compagnia delle Maschere]{.name data-type="affiliation/venture"}
 
 ## Doctrine and Practice
 
-The Collective holds two working doctrines. The first is **the freedom of the stage**—that the theater's function in Provenzian life is precisely the public examination of those who govern, and that any compromise of that function diminishes the theater's claim to public protection. The second is **the prudence of the season**—that the freedom of the stage is exercised with practical judgment about who can presently be safely mocked and who cannot, and that this judgment is what the Collective collectively makes.
+The Collective holds two working doctrines. The first is **the freedom of the stage**—that the theater's function in Provénzian life is precisely the public examination of those who govern, and that any compromise of that function diminishes the theater's claim to public protection. The second is **the prudence of the season**—that the freedom of the stage is exercised with practical judgment about who can presently be safely mocked and who cannot, and that this judgment is what the Collective collectively makes.
 
 A play is brought before the Convocation for endorsement at the playwright's option. Endorsed productions receive the Collective's tacit support: companies will be encouraged to consider staging them, patrons may be approached for sponsorship, and (most importantly) other companies will not be encouraged to mount competing or undermining productions. Unendorsed productions remain entirely possible; they simply lack the Collective's protective infrastructure.
 
-The Convocation's deliberations on whether to endorse are conducted with theatrical solemnity. The arguments are recorded by the Keeper of the Repertoire and form an informal commentary on Provenzian political and cultural conditions that is, itself, occasionally circulated as a kind of underground publication.
+The Convocation's deliberations on whether to endorse are conducted with theatrical solemnity. The arguments are recorded by the Keeper of the Repertoire and form an informal commentary on Provénzian political and cultural conditions that is, itself, occasionally circulated as a kind of underground publication.
 
 ## Activities
 
 - **Coordination of repertoire.** Companies negotiate, through the Collective, who will mount which plays in which seasons. The negotiation prevents the situation in which three companies mount competing productions of the same satirical comedy and dilute their collective impact.
 - **Endorsement of new work.** Playwrights bring new plays to the Convocation; endorsement carries practical weight.
 - **Defense of staged work.** When a production attracts political retaliation, the Collective responds—through coordinated public statements, through patron pressure, through the orchestrated staging of related work at other theaters that makes the original production harder to suppress in isolation.
-- **The [Festival of Masks]{.name data-type="lore/gathering"}.** The Collective's annual festival, held in late summer, draws performers from across Provenzia and from neighboring kingdoms; the festival's culminating performance is a new play composed collectively by the senior playwrights for that year.
+- **The [Festival of Masks]{.name data-type="lore/gathering"}.** The Collective's annual festival, held in late summer, draws performers from across Provénzia and from neighboring kingdoms; the festival's culminating performance is a new play composed collectively by the senior playwrights for that year.
 
 ## Relations
 
-The [[affiliation-kngdmprvnz|Provenzian Crown]]
+The [[affiliation-kngdmprvnz|Provénzian Crown]]
 : careful mutual tolerance. The crown patronizes the major companies and accepts the Collective's commentary up to a point; the Collective's prudence-of-the-season doctrine generally keeps performance well clear of that point.
 
 The merchant houses
@@ -140,7 +140,7 @@ The Collective uses a small enamel pin in the form of two crossed masks (the com
 
 ## Plot Hooks
 
-- **The Endorsed Play That Goes Too Far.** A Collective-endorsed comedy has, in its second-week performances, evolved (as Provenzian comedies do) into something substantially more pointed than what the Convocation reviewed. The original target has signed letters demanding the production close. The Collective must decide whether to honor its endorsement and risk real consequences, or to quietly withdraw protection and damage its credibility with the playwrights.
+- **The Endorsed Play That Goes Too Far.** A Collective-endorsed comedy has, in its second-week performances, evolved (as Provénzian comedies do) into something substantially more pointed than what the Convocation reviewed. The original target has signed letters demanding the production close. The Collective must decide whether to honor its endorsement and risk real consequences, or to quietly withdraw protection and damage its credibility with the playwrights.
 - **The Patron's Demand.** A senior patron, whose money has funded the Collective for years, demands the suppression of a production that mocks a man he is privately negotiating to marry his daughter to. The Convocation's response will determine whether the patron remains a friend or becomes an enemy.
 - **The Hidden Operative.** A touring company's lead actor has been identified, by independent means, as a [[affiliation-velvethand|Velvet Hand]] operative using the company as cover. The Collective has tolerated such arrangements within limits; this one appears to have exceeded the limits. The company captain pleads ignorance, which may or may not be true.
-- **The Foreign Commission.** A wealthy foreign patron has commissioned a new play, paid in advance, with the requirement that it endorse a particular political position in the present Provenzian succession debate. The fee is substantial; the position is plausible; the commission is, transparently, foreign interference in Provenzian politics. The First Speaker must decide whether to accept on the Collective's behalf, refuse, or maneuver toward a compromise that takes the fee while diluting the message.
+- **The Foreign Commission.** A wealthy foreign patron has commissioned a new play, paid in advance, with the requirement that it endorse a particular political position in the present Provénzian succession debate. The fee is substantial; the position is plausible; the commission is, transparently, foreign interference in Provénzian politics. The First Speaker must decide whether to accept on the Collective's behalf, refuse, or maneuver toward a compromise that takes the fee while diluting the message.

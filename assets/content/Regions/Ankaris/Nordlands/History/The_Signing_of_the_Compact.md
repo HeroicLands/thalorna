@@ -16,7 +16,7 @@ data:
       stated: {calendar: domseycount, text: "264 HF"}
       sources: [affiliation-malldbndlg, affiliation-vylarinmpr, lore-southrnfleets]
       summary: >-
-        With the fleets gone home and the western provinces drifting, the empire's frontier commanders begin hiring Nordmen crews by the season to hold what the raids had loosened, paying in silver what the raids had taken in silver. The first contracts are made with captains of the same hirvs that had burned Provenzia a generation before.
+        With the fleets gone home and the western provinces drifting, the empire's frontier commanders begin hiring Nordmen crews by the season to hold what the raids had loosened, paying in silver what the raids had taken in silver. The first contracts are made with captains of the same hirvs that had burned Provénzia a generation before.
       standing: single-source
       names: [{name: the Hiring of the Nordmen, by: affiliation-skaldscrcl}]
       where:
@@ -61,7 +61,7 @@ data:
 
 ## The Empire Buys What It Could Not Stop
 
-[[lore-southrnfleets|The Southern Fleets]] went home about 530, and the empire they had struck did not recover its western coast. The [[place-provenzrgn|Provenzia Region]] and the [[place-tarvenirgn|Tarvénia Region]] were drifting toward realms of their own, the legions were thin, and a frontier commander in the west had a problem a Vylarian could solve with money: there were more Nordmen warriors than the north could feed, and they had just shown they could take a coast. About 550 the first contracts were made, by the season, for a crew and its captain to hold a fort or a harbor the empire could no longer garrison itself. The silver that went north in wages was the same silver that had gone north in plunder, and the captains who took it were in several cases the sons of the men who had taken it the other way.
+[[lore-southrnfleets|The Southern Fleets]] went home about 530, and the empire they had struck did not recover its western coast. The [[place-provenzrgn|Provénzia Region]] and the [[place-tarvenirgn|Tarvénia Region]] were drifting toward realms of their own, the legions were thin, and a frontier commander in the west had a problem a Vylarian could solve with money: there were more Nordmen warriors than the north could feed, and they had just shown they could take a coast. About 550 the first contracts were made, by the season, for a crew and its captain to hold a fort or a harbor the empire could no longer garrison itself. The silver that went north in wages was the same silver that had gone north in plunder, and the captains who took it were in several cases the sons of the men who had taken it the other way.
 
 The trade suited the north. A younger son, a dispossessed jarl, an oath-broken huscarl or a dreng without a hall had always taken ship and hired his sword somewhere; now there was an employer who paid in coin, by contract, for a season at a time, and did not need to be raided first. Within a generation the empire had made Nordmen a standing part of its frontier garrisons, and the halls had a word for a man who came home from the south with silver and no story: he had been paid.
 

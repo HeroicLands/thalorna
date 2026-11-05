@@ -3,7 +3,7 @@ shortcode: southrnfleets
 name: {full: The Southern Fleets, en: [The Nordheim Raids]}
 type: lore
 subType: history
-description: "From 519 to 530 AF the fleets of King Thraskmil of Nordheim, built in Malagna's yards, went south every summer with the famine behind them: Provenzia's coast and the Gulf of Bataren, where they threw down Yarvalen Henge and sacked Ménavar Abbey, and Élavendre's north shore, which has refused every treaty since."
+description: "From 519 to 530 AF the fleets of King Thraskmil of Nordheim, built in Malagna's yards, went south every summer with the famine behind them: Provénzia's coast and the Gulf of Bataren, where they threw down Yarvalen Henge and sacked Ménavar Abbey, and Élavendre's north shore, which has refused every treaty since."
 tags: [history, nordlands]
 data:
   culture: nordheimnclt
@@ -24,7 +24,7 @@ data:
         - skill-nordmalng
         - affiliation-kingdomlgn
       summary: >-
-        With the Three Winters behind them, the fleets of King Thraskmil of Nordheim go south every summer for eleven years, carrying the hirvs of three kingdoms in hulls built in Malagna's yards. They strike the empire's western provinces: the Provenzian coast and the Gulf of Bataren, where in about 520 they throw down Yarvalen Henge and sack Ménavar Abbey, and Élavendre's north shore. The raids make the Blood-field of Yarvalen, fill Nordheim's howes with southern silver, and are counted by the empire among the causes of its decline.
+        With the Three Winters behind them, the fleets of King Thraskmil of Nordheim go south every summer for eleven years, carrying the hirvs of three kingdoms in hulls built in Malagna's yards. They strike the empire's western provinces: the Provénzian coast and the Gulf of Bataren, where in about 520 they throw down Yarvalen Henge and sack Ménavar Abbey, and Élavendre's north shore. The raids make the Blood-field of Yarvalen, fill Nordheim's howes with southern silver, and are counted by the empire among the causes of its decline.
       standing: attested
       names:
         - {name: the Southern Fleets, by: affiliation-skaldscrcl}
@@ -33,7 +33,7 @@ data:
         locus: [place-provenzrgn]
         reach:
           - place: place-bldfldyharvalen
-            how: the henge thrown down and the men killed on its ruins make the worst blood-field in Provenzia
+            how: the henge thrown down and the men killed on its ruins make the worst blood-field in Provénzia
             knowledge: named
           - place: place-menavarabbey
             how: the abbey is sacked and never refounded
@@ -87,22 +87,22 @@ A [[place-knalthstead|Knalthstead]] howe-warden tells it as a warning rather tha
 
 [[lore-threewinters|The Three Winters]] ended in 514, and the halls that had sent their old over the fell did not forget what the fell had cost them. King [Thraskmil]{.name data-type="being/npc"} of [[affiliation-kngdmnrdhm|Nordheim]], who took the arm-ring in 519 from his father [Bruldmil]{.name data-type="being/npc"}, the king of the hunger, gave the north something to do with its shame: every hull that could be made seaworthy went south at [[lore-sumarmal|Somarmál]], and the hirvs of Nordheim, the [[affiliation-kingdomlgn|Kingdom of Malagna]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] went in them. Malagna's yards at [[place-gnarthborg|Gnarthborg]] built the hulls, under King [Hlurthann I]{.name data-type="being/npc"}, who had turned his kingdom to the western water after [[place-skalfvatan|Skalfvatan]], and the [Malagna Coastal]{.name data-type="skill/language"} dialect still carries the Provenzal words its sailors brought home.
 
-The fleets went south every summer for eleven years. Their targets were the [[affiliation-vylarinmpr|empire's western provinces]]: the coast of [[place-provenzrgn|Provenzia]] and the [[place-batarengulf|Gulf of Bataren]], and the north shore of [[place-elavendre|Élavendre]]. They did not strike the Vylarian heartland, which has no northern coast, except once: in 523 a Malagna crew took a captured galley through the western strait and was stranded on the [[place-salkhalon|Salkalon]] coast, where the bay they burned still carries their name ([[lore-bankedfire|The Winter of the Banked Fire]]). What the Vylarian chroniclers call "pressure from the north" on the empire's own frontier is the Varokh hunger raids of the same years, out of the forest, and not a landing.
+The fleets went south every summer for eleven years. Their targets were the [[affiliation-vylarinmpr|empire's western provinces]]: the coast of [[place-provenzrgn|Provénzia]] and the [[place-batarengulf|Gulf of Bataren]], and the north shore of [[place-elavendre|Élavendre]]. They did not strike the Vylarian heartland, which has no northern coast, except once: in 523 a Malagna crew took a captured galley through the western strait and was stranded on the [[place-salkhalon|Salkalon]] coast, where the bay they burned still carries their name ([[lore-bankedfire|The Winter of the Banked Fire]]). What the Vylarian chroniclers call "pressure from the north" on the empire's own frontier is the Varokh hunger raids of the same years, out of the forest, and not a landing.
 
 ## The Henge and the Abbey
 
-About 520 the fleets came in off the gulf onto northern Provenzia. The hirvs threw down [[place-yharvalenhenge|Yarvalen Henge]], the great stone circle of the north of that kingdom, and killed the men who stood on it, and they sacked [[place-menavarabbey|Ménavar Abbey]], a house of Aureldian learning that was never refounded. The killing on the ruins of a sacred circle made the [[place-bldfldyharvalen|Blood-field of Yarvalen]], a withering that kills the land around it and the worst field in a kingdom that has more fields than anywhere else. [[affiliation-kngdmprvnz|Provenzia]] has never been paid for it, and [[affiliation-blackflame|the Cult of the Black Flame]] has been rousing the field since.
+About 520 the fleets came in off the gulf onto northern Provénzia. The hirvs threw down [[place-yharvalenhenge|Yarvalen Henge]], the great stone circle of the north of that kingdom, and killed the men who stood on it, and they sacked [[place-menavarabbey|Ménavar Abbey]], a house of Aureldian learning that was never refounded. The killing on the ruins of a sacred circle made the [[place-bldfldyharvalen|Blood-field of Yarvalen]], a withering that kills the land around it and the worst field in a kingdom that has more fields than anywhere else. [[affiliation-kngdmprvnz|Provénzia]] has never been paid for it, and [[affiliation-blackflame|the Cult of the Black Flame]] has been rousing the field since.
 
 No Nordheim skald sings the henge. The fleets are sung as the answer to the hunger, the sons going south where the old had gone over the fell, and every kingdom's skalds leave the stones to another kingdom's hirv. The [[affiliation-skaldscrcl|Circle]] keeps the silence as a fact: the one deed of the Southern Fleets that the north will not claim is the one the south remembers.
 
 ## What It Left
 
-- **The field.** Yarvalen is Provenzia's, made by northern hands, and the one blood-field in the world that the north owes to someone else.
+- **The field.** Yarvalen is Provénzia's, made by northern hands, and the one blood-field in the world that the north owes to someone else.
 - **The silver.** Southern church plate in the royal howes of Knalthstead and Gnarthborg, with wardens in them, and a chip out of the saint's face.
 - **[[affiliation-kngdmlvndr|Élavendre]]'s memory.** The kingdom has had no treaty, no embassy and no appetite for either with the Nordmen since, and its north coast is still raided.
 - **The decline.** The empire counts the fleets among the causes of its decline, in the same years its southern provinces began to drift, and within a generation it was paying Nordmen to garrison what the fleets had loosened ([[lore-compactsignd|The Signing of the Compact]]).
 
-A Provenzian abbot's agent who knows which howe holds Ménavar's plate has a reason to hire a party that does not mind a howe-warden. A Nordheim jarl who learns that a stone from the henge lies in his great-grandfather's howe has a worse problem: the Black Flame knows it too, and returning it might matter.
+A Provénzian abbot's agent who knows which howe holds Ménavar's plate has a reason to hire a party that does not mind a howe-warden. A Nordheim jarl who learns that a stone from the henge lies in his great-grandfather's howe has a worse problem: the Black Flame knows it too, and returning it might matter.
 
 ## See Also
 
@@ -110,7 +110,7 @@ A Provenzian abbot's agent who knows which howe holds Ménavar's plate has a rea
 : the hunger the fleets carried south
 
 [[place-bldfldyharvalen|Blood-field of Yarvalen]] · [[place-yharvalenhenge|Yarvalen Henge]] · [[place-menavarabbey|Ménavar Abbey]]
-: what the fleets left in Provenzia
+: what the fleets left in Provénzia
 
 [[lore-compactsignd|The Signing of the Compact]]
 : how raiding turned to hire

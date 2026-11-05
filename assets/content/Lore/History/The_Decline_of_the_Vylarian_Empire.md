@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]
       summary: >-
-        The Vylarian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provenzia and Tarvénia become successor states in all but name, Helionis regains practical independence while keeping formal ties, and twelve years ago Taruzel fought and won a war of independence with Khelathi gold behind it. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.
+        The Vylarian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provénzia and Tarvénia become successor states in all but name, Helionis regains practical independence while keeping formal ties, and twelve years ago Taruzel fought and won a war of independence with Khelathi gold behind it. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.
       standing: attested
       where:
         locus: [place-midhalnrgn]
@@ -86,7 +86,7 @@ data:
 
 The decline was driven by a combination of overextension, internal corruption, barbarian pressure from
 [[place-vrystwald|Vristwald]] and the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and the gradual
-independence of provinces. The [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] are long
+independence of provinces. The [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] are long
 since successor states; [[place-helionis|Helionis]] has regained practical independence while
 maintaining formal ties.
 

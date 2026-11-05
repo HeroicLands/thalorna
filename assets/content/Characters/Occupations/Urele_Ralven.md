@@ -398,7 +398,7 @@ Urele Ralven is a 24-year-old woman who stands 5'10" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Urele Ralven came into the world of the perfumer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a noble family of [[lore-provenzianclt|Provénzian]] heritage, Urele Ralven came into the world of the perfumer through a combination of circumstance and aptitude.
 
 Urele is an up-and-coming perfumer who has gained recognition for her floral and fresh scents. Working in her small but charming shop, she focuses on creating natural and eco-friendly perfumes. Urele is passionate about sustainability and often collaborates with local farmers to source her ingredients. Her warm personality and commitment to her craft have made her a beloved figure in the community.
 
@@ -420,7 +420,7 @@ Knowledgeable about natural ingredients, environmentally conscious, friendly.
 
 Urele is affiliated with the local [Artisans' Guild]{.name data-type="affiliation/guild"}.
 
-As a Provenzian perfumer, Urele occupies a recognized social niche within Provenzia society.
+As a Provénzian perfumer, Urele occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -435,7 +435,7 @@ Few; generally well-liked, though some competitors may see her as a threat.
 ## Plot Hooks
 
 The Perfumer's Dilemma
-: Urele faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+: Urele faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
 
 Old Grudges
 : Few; generally well-liked, though some competitors may see her as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -444,7 +444,7 @@ Echoes of the Past
 : Something from Urele's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Urele depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Urele depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Urele the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

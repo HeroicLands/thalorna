@@ -397,7 +397,7 @@ Kareden Charnis is a 62-year-old man who stands 5'6" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Kareden Charnis came into the world of the shaman through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Kareden Charnis came into the world of the shaman through a combination of circumstance and aptitude.
 
 Kareden is a respected shaman who has guided his tribe for decades, serving as a healer, spiritual advisor, and keeper of ancient traditions. He communicates with the spirits of nature and the ancestors, often leading rituals to ensure the tribe’s prosperity. While age has diminished his physical strength, his wisdom is highly valued, and his influence remains strong.
 
@@ -419,7 +419,7 @@ Knowledgeable in herbal healing, rituals, and spiritual matters.
 
 Kareden is affiliated with the [Tribal Spiritual Council]{.name data-type="affiliation"}.
 
-As a Provenzian shaman, Kareden occupies a recognized social niche within Provenzia society.
+As a Provénzian shaman, Kareden occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -434,7 +434,7 @@ Rival shamans who question his methods and beliefs.
 ## Plot Hooks
 
 The Shaman's Dilemma
-: Kareden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
+: Kareden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
 
 Old Grudges
 : Rival shamans who question his methods and beliefs. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -443,7 +443,7 @@ Echoes of the Past
 : Something from Kareden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Kareden depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Kareden depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Kareden the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -16,7 +16,7 @@ data:
 
 If you want your cargo inspected, Thálassos is the wrong harbor; if you want it left alone, it is the right one. The town's magistrate keeps minimal customs authority and leaves the tariffs to a handful of bonded merchants, an arrangement that suits independent traders and small-scale smugglers equally well.
 
-Thálassos—the name drawn directly from the word for "sea" in the [[skill-byzarnlng|Bizarian Language]]—is a modest harbor town of about 4,000, serving the [[affiliation-byzarianlg|Bizarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[place-nesthiros2|Nesthiros]] and the craft reputation of [[place-byzaris|Bizaris]], but its protected natural harbor has made it indispensable to maritime commerce moving along the coast toward the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provenzia Region]] and the western settlements beyond.
+Thálassos—the name drawn directly from the word for "sea" in the [[skill-byzarnlng|Bizarian Language]]—is a modest harbor town of about 4,000, serving the [[affiliation-byzarianlg|Bizarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[place-nesthiros2|Nesthiros]] and the craft reputation of [[place-byzaris|Bizaris]], but its protected natural harbor has made it indispensable to maritime commerce moving along the coast toward the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provénzia Region]] and the western settlements beyond.
 
 ## The Waterfront
 

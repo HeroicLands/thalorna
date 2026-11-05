@@ -425,11 +425,11 @@ Chorvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown
 
 ### Early Life
 
-Chorvan was born in the borderlands between the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and the [Wildwood Territories]{.name data-type="place"}, the youngest of five children to a horse trader named [Jorn Jarlen]{.name data-type="being/npc"} and a former herbalist named [Chelyra]{.name data-type="being/npc"}. His childhood was spent around stables and pasture, watching his father conduct business and his mother tend to injured and sick animals. Where his siblings learned to pursue profitable trades, Chorvan found his passion not in commerce but in the animals themselves. At age seven, he was given his first young foal to raise—a gift from his father intended as a lesson in responsibility. That foal became his inseparable companion, and in raising it, he discovered his true calling.
+Chorvan was born in the borderlands between the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [Wildwood Territories]{.name data-type="place"}, the youngest of five children to a horse trader named [Jorn Jarlen]{.name data-type="being/npc"} and a former herbalist named [Chelyra]{.name data-type="being/npc"}. His childhood was spent around stables and pasture, watching his father conduct business and his mother tend to injured and sick animals. Where his siblings learned to pursue profitable trades, Chorvan found his passion not in commerce but in the animals themselves. At age seven, he was given his first young foal to raise—a gift from his father intended as a lesson in responsibility. That foal became his inseparable companion, and in raising it, he discovered his true calling.
 
 ### Training and Path
 
-At twelve years old, Chorvan apprenticed himself to Master [Aelfen]{.name data-type="being/npc"}, the head ostler of the well-known [Traveler's Rest Inn]{.name data-type="place/structure"} located at the great crossroads where roads from [[place-provenzrgn|Provenzia]], the [Merchant Cities]{.name data-type="place"}, and the coastal provinces meet. For thirteen years, he studied the care of horses in all their complexity—feeding and grooming, but also understanding their temperaments, healing their ailments, training them gently but firmly, and reading the subtle signs of their health and mood. Master Aelfen was a stern but fair teacher who believed that a good ostler must possess the patience of stone and the heart of a priest. Chorvan proved an apt student, eventually becoming responsible for the care of the inn's entire complement of thirty to forty horses, with a rotating staff of junior ostlers beneath him.
+At twelve years old, Chorvan apprenticed himself to Master [Aelfen]{.name data-type="being/npc"}, the head ostler of the well-known [Traveler's Rest Inn]{.name data-type="place/structure"} located at the great crossroads where roads from [[place-provenzrgn|Provénzia]], the [Merchant Cities]{.name data-type="place"}, and the coastal provinces meet. For thirteen years, he studied the care of horses in all their complexity—feeding and grooming, but also understanding their temperaments, healing their ailments, training them gently but firmly, and reading the subtle signs of their health and mood. Master Aelfen was a stern but fair teacher who believed that a good ostler must possess the patience of stone and the heart of a priest. Chorvan proved an apt student, eventually becoming responsible for the care of the inn's entire complement of thirty to forty horses, with a rotating staff of junior ostlers beneath him.
 
 ### Current Situation
 
@@ -497,7 +497,7 @@ Merchant Caravans of the Crossroads
 The Kingdom's Ranger Corps
 : The royal rangers occasionally stable their horses with Chorvan and respect his knowledge of equine fitness and trail-readiness.
 
-Noble Houses of Provenzia
+Noble Houses of Provénzia
 : Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Chorvan's care.
 
 ### Enemies
@@ -534,4 +534,4 @@ The Great Breeding
 : A prestigious alliance of noble houses commissions Chorvan to assist in organizing a grand breeding program that would create a new strain of superior warhorses. This project would be his life's work, requiring him to journey to distant stables, negotiate with other masters, and establish himself as a leading figure in the art of horsemanship. However, he learns that the breeding program is secretly intended to create creatures capable of carrying armored warriors into morally questionable wars of conquest.
 
 The Plague at the Crossroads
-: A mysterious illness begins to spread among the horses at the inn and throughout the region, killing some and leaving others weakened and sterile. Chorvan races against time to identify the cause—whether it's natural disease, poisoning, or magical curse—while attempting to save the animals in his care. His investigation reveals that the plague was deliberately introduced by enemies of the Kingdom of Provenzia as part of a coordinated military campaign to weaken the realm's ability to field cavalry forces.
+: A mysterious illness begins to spread among the horses at the inn and throughout the region, killing some and leaving others weakened and sterile. Chorvan races against time to identify the cause—whether it's natural disease, poisoning, or magical curse—while attempting to save the animals in his care. His investigation reveals that the plague was deliberately introduced by enemies of the Kingdom of Provénzia as part of a coordinated military campaign to weaken the realm's ability to field cavalry forces.

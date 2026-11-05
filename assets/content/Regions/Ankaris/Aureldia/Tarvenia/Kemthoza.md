@@ -3,7 +3,7 @@ shortcode: kemthoza
 name: {full: Kemthoza}
 type: place
 subType: structure
-description: "The fort at the head of Grumagando, the war pass of Tarvénia's Western March, where a baron's men watch the saddle through the winter and the March's hosts gather before they go down into Provenzia."
+description: "The fort at the head of Grumagando, the war pass of Tarvénia's Western March, where a baron's men watch the saddle through the winter and the March's hosts gather before they go down into Provénzia."
 tags: [frontier, mountain]
 data: {demonym: null, lore: [], parents: [westernmrch], population: null, packFolder: tarvenia}
 ---

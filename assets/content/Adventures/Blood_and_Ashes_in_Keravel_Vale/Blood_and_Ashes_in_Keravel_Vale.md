@@ -48,7 +48,7 @@ Nalor Kilan of [[place-ilovren|Ilovren]]
 
 ### [[scenario-bndtscrvlvl|Part 1: The Brigands of Keravel Vale]]
 
-The adventurers are hired by Tarlas to eliminate the bandit threat. They gather information in the village (navigating the divide between Tanevar and Provenzian peasants), ambush the bandits on the [Old South Road]{.name data-type="place/feature"}, survive a counterattack in the village square, and assault Thárion's cave hideout. The resolution reveals hints of a deeper conspiracy—Kilan's hidden hand behind the chaos.
+The adventurers are hired by Tarlas to eliminate the bandit threat. They gather information in the village (navigating the divide between Tanevar and Provénzian peasants), ambush the bandits on the [Old South Road]{.name data-type="place/feature"}, survive a counterattack in the village square, and assault Thárion's cave hideout. The resolution reveals hints of a deeper conspiracy—Kilan's hidden hand behind the chaos.
 
 ### [[scenario-webdeceit|Part 2: The Web of Deceit]]
 
@@ -91,7 +91,7 @@ Mysterious Forces
 [[scenario-caveoutlin|Cave Outline]]
 : Detailed layout of Thárion's bandit hideout
 
-[[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+[[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : The crown, the magnates and their feuds, the Tanevar grievance and the frontier
 
 [[place-ceravelvale|Keravel Vale]]

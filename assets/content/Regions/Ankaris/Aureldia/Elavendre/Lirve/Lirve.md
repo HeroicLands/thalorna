@@ -13,7 +13,7 @@ thousand people along a seaboard of cliffs, coves and drowned river-mouths, with
 down almost to the tideline.
 
 The coast faces the open western ocean and is worked by the same cold, heavy swell that batters
-[[place-provenzrgn|Provenzia]] further south. It is craggy, and the cliffs are real, but the country softens northward
+[[place-provenzrgn|Provénzia]] further south. It is craggy, and the cliffs are real, but the country softens northward
 toward [[place-lisere|Lísere]], where the cliffs give way to long shingle and sheltered inlets.
 
 ## The Sinale Coast

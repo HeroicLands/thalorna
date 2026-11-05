@@ -395,7 +395,7 @@ Frisala Valskir is a 42-year-old woman who stands 5'10" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Frisala Valskir is a chieftain.
+Born in the [[place-provenzrgn|Provénzia region]] to a noble family of [[lore-provenzianclt|Provénzian]] heritage, Frisala Valskir is a chieftain.
 
 Frisala became chieftain after her father's death in battle, and leads her clan by tradition where it serves and by her own methods where it does not. Known for her planning, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, her victories against raiders have won her respect.
 
@@ -439,7 +439,7 @@ Echoes of the Past
 : Something from the battle that killed her father resurfaces, and the clan looks to Frisala to settle it.
 
 Shifting Winds
-: Political change in Provenzia threatens the standing Frisala's clan depends upon, and she can adapt, resist, or leave.
+: Political change in Provénzia threatens the standing Frisala's clan depends upon, and she can adapt, resist, or leave.
 
 The Opportunity
 : An alliance is offered to Frisala on terms beyond anything she has hoped for, and its price is not named up front.

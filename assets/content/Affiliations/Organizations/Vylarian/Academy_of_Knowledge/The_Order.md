@@ -241,7 +241,7 @@ Tolerated
 : What the Order does not count as arcane working, and so leaves outside its monopoly: the non-arcane teaching of the chapter houses, the rites and prayers of the temples, the reading of a nativity by the star-readers of the [[affiliation-astrokyklos|Iltheron]], and the sword discipline of [[affiliation-pthbrthordr|The Path of Breath]].
 
 Restricted
-: Arcane practice by the Order's members under another authority's terms, where the Order's writ does not run alone: its chapters in Taruzel under the guilds' restrictions, and its mages in Provenzia under the crown's oversight.
+: Arcane practice by the Order's members under another authority's terms, where the Order's writ does not run alone: its chapters in Taruzel under the guilds' restrictions, and its mages in Provénzia under the crown's oversight.
 
 Rogue
 : Arcane working by any hand not on the register: hedge-mages, alchemists, cunning folk, and fortune-tellers whose charms work. Rogue practice is the Sekran's daily business, and recruitment is its first answer.
@@ -281,8 +281,8 @@ The Order keeps regional chapters in every significant city and territory within
 [[affiliation-provncmktr|Moktur]]
 : A limited presence. The frontier military _therkoi_ (governors) tolerate the Order and do not prioritize its agenda.
 
-[[place-provenzrgn|Provenzia Region]]
-: Present, but under royal oversight. Mages answer to the Provenzian crown as well as to the Order.
+[[place-provenzrgn|Provénzia Region]]
+: Present, but under royal oversight. Mages answer to the Provénzian crown as well as to the Order.
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : Active and politically constrained. The merchant guilds see the Order as a tool of Vylarian influence and have restricted its activities.
@@ -380,9 +380,9 @@ The Order is not naive about this. Senior _sekeroi_ and imperial spymasters watc
 
 ### The Decline Problem, and the Opportunity
 
-The Empire's decline has strained the arrangement to its limits. As the Empire weakens, the Order's ability to project power through imperial channels shrinks. Former provinces such as [[place-provenzrgn|Provenzia Region]], [[place-tarvenirgn|Tarvénia Region]] and [[affiliation-cnfdrtntrzlnstts|Taruzel]] no longer accept Vylarian authority, and the Order's chapters there must negotiate their own terms with local powers.
+The Empire's decline has strained the arrangement to its limits. As the Empire weakens, the Order's ability to project power through imperial channels shrinks. Former provinces such as [[place-provenzrgn|Provénzia Region]], [[place-tarvenirgn|Tarvénia Region]] and [[affiliation-cnfdrtntrzlnstts|Taruzel]] no longer accept Vylarian authority, and the Order's chapters there must negotiate their own terms with local powers.
 
-For some factions within the Order this is also an opportunity. The decline forces the Order to build direct relationships with the successor states, relationships that no longer pass through the Vylarian court. In Provenzia the Order works under royal oversight, and the Provenzian crown has come to depend on its services. In Taruzel the merchant guilds restrict the Order and also hire its mages. Even in Tarvénia, where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Order academies rather than leave the talent untrained.
+For some factions within the Order this is also an opportunity. The decline forces the Order to build direct relationships with the successor states, relationships that no longer pass through the Vylarian court. In Provénzia the Order works under royal oversight, and the Provénzian crown has come to depend on its services. In Taruzel the merchant guilds restrict the Order and also hire its mages. Even in Tarvénia, where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Order academies rather than leave the talent untrained.
 
 The Order is becoming a cross-realm institution whose authority derives from no single state but from its monopoly on essential services. The Vylarian reckoning still counts from the founding of the Empire in lands that no longer obey the Orzas, and in the same way the Order's standards, training, certifications and prohibitions are becoming the shared framework of arcane practice across western Ankaris, a framework that will outlast the Vylarian throne.
 

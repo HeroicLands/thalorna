@@ -56,7 +56,7 @@ Native word readings belong to Ki'i'chek. Borrow the writing system's structure 
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [[place-vylarianse\|Vylarian Sea]]                                   | The Mediterranean Sea                                                     |
 | [[affiliation-vylarinmpr\|Vylarian Empire]]                          | Italy through to Turkey (excluding Greece); Roman Empire in decline       |
-| [[place-provenzrgn\|Provenzia Region]]                               | Portugal, southwestern France                                             |
+| [[place-provenzrgn\|Provénzia Region]]                               | Portugal, southwestern France                                             |
 | [[place-tarvenirgn\|Tarvénia]]                                       | Northern Spain, southern France (Atlantic coast)                          |
 | [[place-elavendre\|Élavendre]]                                       | France (mythic Celtic / fae-influenced)                                   |
 | [[place-aelwyth\|Aelwyth Region]]                                    | Britain / Ireland (mythic, Arthurian)                                     |

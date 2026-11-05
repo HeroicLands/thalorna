@@ -400,7 +400,7 @@ Verinna Branvilde is a 30-year-old woman who stands 5'7" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Verinna Branvilde came into the world of the shaman through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Verinna Branvilde came into the world of the shaman through a combination of circumstance and aptitude.
 
 Verinna was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
 
@@ -422,7 +422,7 @@ Skilled in divination, experienced in herbal medicine, strong spiritual connecti
 
 Verinna is affiliated with the [Tribal Shamanic Circle]{.name data-type="affiliation"}.
 
-As a Provenzian shaman, Verinna occupies a recognized social niche within Provenzia society.
+As a Provénzian shaman, Verinna occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -437,7 +437,7 @@ Skeptics within the tribe who challenge her authority.
 ## Plot Hooks
 
 The Shaman's Dilemma
-: Verinna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+: Verinna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
 
 Old Grudges
 : Skeptics within the tribe who challenge her authority. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -446,7 +446,7 @@ Echoes of the Past
 : Something from Verinna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Verinna depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Verinna depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Verinna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

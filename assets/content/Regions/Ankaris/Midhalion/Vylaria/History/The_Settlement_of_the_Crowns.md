@@ -5,7 +5,7 @@ name:
   en: [The Post-Imperial Settlement, The Settlement of Azénales]
 type: lore
 subType: history
-description: "About 619 AF, the year after Provenzia's charter war ended, the Orzas Azénales settles with the envoys of the Aureldian crowns and the Bizarian League what the Empire still is: Provenzia's Charter recognized, the crowns and the League free of imperial governance and tax but inside the note system at a two-percent issuance fee, Helionis a province on paper, and the far forts' commissions unpaid."
+description: "About 619 AF, the year after Provénzia's charter war ended, the Orzas Azénales settles with the envoys of the Aureldian crowns and the Bizarian League what the Empire still is: Provénzia's Charter recognized, the crowns and the League free of imperial governance and tax but inside the note system at a two-percent issuance fee, Helionis a province on paper, and the far forts' commissions unpaid."
 tags: [history, vylaria, thedrift]
 data:
   packFolder: vylaria
@@ -26,7 +26,7 @@ data:
         - place-helionis
         - place-orzara
       summary: >-
-        The Orzas Azénales receives the envoys of the Aureldian crowns and the Bizarian League and settles what the Empire still is. Provenzia's Charter is recognized. The crowns and the League are free of imperial governance and tax, and stay inside the note system at a two-percent issuance fee that goes to the Tarmeks. Helionis stays a province on the chancery's roll with its own magistrates and legions only where its cities ask for them by treaty. The far forts' commissions go unpaid, and the chancery stops pressing claims it cannot enforce.
+        The Orzas Azénales receives the envoys of the Aureldian crowns and the Bizarian League and settles what the Empire still is. Provénzia's Charter is recognized. The crowns and the League are free of imperial governance and tax, and stay inside the note system at a two-percent issuance fee that goes to the Tarmeks. Helionis stays a province on the chancery's roll with its own magistrates and legions only where its cities ask for them by treaty. The far forts' commissions go unpaid, and the chancery stops pressing claims it cannot enforce.
       standing: attested
       names:
         - {name: the Settlement of the Crowns, by: affiliation-vylarinmpr}
@@ -97,7 +97,7 @@ An Aureldian factor, handing a Vylarian clerk a traveler's note at a counting-ta
 
 ## What the Empire Had Left
 
-By the time the estates of [[affiliation-kngdmprvnz|Provenzia]] made peace ([[lore-charterwar|The War of the Charter]]), the [[affiliation-vylarinmpr|Empire]] had been losing provinces for a century. [[affiliation-kingdmtrvn|Tarvénia]] had stopped paying in the generation after [[lore-threewinters|the Three Winters]] ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The [[affiliation-byzarianlg|Bizarian League]], annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn [[lore-heladcompact|its Compact]] again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). [[place-helionis|Helionis]] kept its cities' councils and had no _therkos_ (governor) it obeyed. The western crowns had armies of their own.
+By the time the estates of [[affiliation-kngdmprvnz|Provénzia]] made peace ([[lore-charterwar|The War of the Charter]]), the [[affiliation-vylarinmpr|Empire]] had been losing provinces for a century. [[affiliation-kingdmtrvn|Tarvénia]] had stopped paying in the generation after [[lore-threewinters|the Three Winters]] ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The [[affiliation-byzarianlg|Bizarian League]], annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn [[lore-heladcompact|its Compact]] again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). [[place-helionis|Helionis]] kept its cities' councils and had no _therkos_ (governor) it obeyed. The western crowns had armies of their own.
 
 What the Empire still had was the note system. The Tarmeks minted the coin, [[affiliation-danvar|the Danvar]] issued the notes, and the Tevran Maldor held the guilds of every city under one charter ([[lore-arzanasedict|The Edicts of Arzanas]]). Every realm that had left the Empire still banked through it.
 
@@ -105,7 +105,7 @@ What the Empire still had was the note system. The Tarmeks minted the coin, [[af
 
 In the year after the [Charter of Rights]{.name data-type="lore/law"}'s peace, the Orzas **Azénales**, born to [[affiliation-mardovanes|House Mardovanes]] and adopted into House Helarkales as an heirless Orzas's successor, who had ruled for fifteen years and spent them watching the provinces go, received the envoys of the crowns and the League in Orzara and set the terms down in one settlement.
 
-- **Provenzia's Charter** was recognized. The Empire stopped sending _therkoi_, and the Charter's king was acknowledged in the chancery's own style.
+- **Provénzia's Charter** was recognized. The Empire stopped sending _therkoi_, and the Charter's king was acknowledged in the chancery's own style.
 - **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vylarian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmeks.
 - **Helionis** stayed on the chancery's roll as a province. Its cities kept their own magistrates, and a legion sat in a Helionite city only where the city had asked for one by treaty. The roll names a province, and the cities govern themselves ([[place-helionis|Helionis]]).
 - **The far forts** went unpaid. A fortress commander who held a post in the [[place-heladrgn|Hellád]] on an imperial commission kept the post and lost the pay, and some of their heirs hold the posts still.
@@ -117,7 +117,7 @@ The terms were not a defeat for the Tarmeks and were not presented as one. The c
 
 The Aureldian kingdoms and the Bizarian League became what every commerce section calls the post-imperial commonwealth: realms that answer to their own crowns and councils and bank through Orzara. The Tarmeks has refused to reopen the fee in every generation since, and the crowns have never had a way to refuse it.
 
-Provenzia's Charter was tested within a lifetime, in a succession war the Empire watched from outside ([[lore-warprinces|The War of the Princes]]).
+Provénzia's Charter was tested within a lifetime, in a succession war the Empire watched from outside ([[lore-warprinces|The War of the Princes]]).
 
 ## What It Left
 
@@ -130,7 +130,7 @@ Provenzia's Charter was tested within a lifetime, in a succession war the Empire
 ## See Also
 
 - [[lore-charterwar|The War of the Charter]]—the war the Settlement ended
-- [[lore-warprinces|The War of the Princes]]—Provenzia's first test of the Charter
+- [[lore-warprinces|The War of the Princes]]—Provénzia's first test of the Charter
 - [[lore-tarvfallsawy|Tarvénia Falls Away]]—the first crown to leave
 - [[lore-heladeastwar|The Eastern War]]—how the League came into the Empire
 - [[affiliation-tarmex|Tarmeks Orzan]] · [[affiliation-danvar|Danvar]]

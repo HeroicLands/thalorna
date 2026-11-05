@@ -121,7 +121,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] is more deeply rooted in Helionis th
 
 ## Relations
 
-The cities stand together with the Aureldian Pantheon, the Epistémion and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Arcane Order at arm's length. [[place-provenzrgn|Provenzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is their trading partner across the water to the south.
+The cities stand together with the Aureldian Pantheon, the Epistémion and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Arcane Order at arm's length. [[place-provenzrgn|Provénzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is their trading partner across the water to the south.
 
 ## Commerce and Currency
 
@@ -141,7 +141,7 @@ The City-States of Helionis use the [[lore-vylrncrncy|Vylarian currency]] (Solde
 [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]
 : the other four
 
-[[place-provenzrgn|Provenzia Region]]
+[[place-provenzrgn|Provénzia Region]]
 : cultural rival and partner
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]

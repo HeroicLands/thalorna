@@ -3,7 +3,7 @@ shortcode: gwefavel
 name: {full: Gefavel}
 type: place
 subType: region
-description: "The stronghold and lands of the Princess of Gefavel, a Provenzian magnate restoring the prestige her clan lost under the previous king."
+description: "The stronghold and lands of the Princess of Gefavel, a Provénzian magnate restoring the prestige her clan lost under the previous king."
 tags: [draft]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Gefavel is the stronghold and domain of the **Princess of Gefavel**, one of the powerful magnates of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]]. From it she exerts considerable influence over the region around it, and she uses that influence with a purpose.
+Gefavel is the stronghold and domain of the **Princess of Gefavel**, one of the powerful magnates of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]]. From it she exerts considerable influence over the region around it, and she uses that influence with a purpose.
 
 ## A Clan Restoring Itself
 
@@ -24,8 +24,8 @@ Her clan's influence was diminished under the previous king, and the princess re
 
 ## See Also
 
-[[place-provenzrgn|Provenzia Region]]
+[[place-provenzrgn|Provénzia Region]]
 : the kingdom's land
 
-[[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+[[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : the kingdom whose court she means to reclaim

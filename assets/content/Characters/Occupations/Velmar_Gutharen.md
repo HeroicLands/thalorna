@@ -402,7 +402,7 @@ Velmar Gútharen is a 52-year-old man who stands 6'1" tall and is of moderate bu
 
 Velmar Gútharen is a glassworker of [[place-herthema|Herthema]], in [[place-tarvenirgn|Tarvénia]], a [[lore-tarvenanclt|Tarvenan]] freeman who has blown bottles, jars and window-glass in the same furnace-house for more than thirty years.
 
-Velmar was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it—jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows—and he makes the same ware now, by the same methods, to the same standard. He has no interest in the colored and figured glass that the younger masters of Herthema have begun to make in the [[lore-provenzianclt|Provenzian]] style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
+Velmar was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it—jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows—and he makes the same ware now, by the same methods, to the same standard. He has no interest in the colored and figured glass that the younger masters of Herthema have begun to make in the [[lore-provenzianclt|Provénzian]] style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
 
 ## Psyche
 
@@ -430,7 +430,7 @@ Velmar's patrons are the merchants, vintners and craftsmen of Herthema who need 
 
 ### Enemies
 
-The younger masters of Herthema who make figured glass for the merchants' houses, and one in particular, trained in [[place-provenzrgn|Provenzia]], who has begun to take the commissions Velmar used to hold and to call his work peasant ware.
+The younger masters of Herthema who make figured glass for the merchants' houses, and one in particular, trained in [[place-provenzrgn|Provénzia]], who has begun to take the commissions Velmar used to hold and to call his work peasant ware.
 
 ## Plot Hooks
 
@@ -438,7 +438,7 @@ A New Standard
 : The guild bench is to vote on admitting figured glass to the master's examination, which Velmar holds would make masters of men who cannot blow a sound jar. He will lose unless he can bring two members to his side, and he has never in his life canvassed anyone.
 
 The Commission He Doubts
-: A merchant house has commissioned a great figured window from the Provenzian-trained master and asked Velmar, as the senior man, to certify the glass. He does not think it will hold a winter.
+: A merchant house has commissioned a great figured window from the Provénzian-trained master and asked Velmar, as the senior man, to certify the glass. He does not think it will hold a winter.
 
 The Apprentice Leaves
 : Velmar's best apprentice has asked to finish his years under the rival master, to learn the figured work. Velmar can release him and lose the last hands trained his way, or refuse and lose him anyway.
@@ -447,4 +447,4 @@ The Ash
 : The good beech ash that Velmar's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.
 
 The Bench
-: The younger masters of the glassworkers' guild of [[place-herthema|Herthema]] move to put the Provenzian-trained master on its bench in Velmar's place, and the quarrel goes to the [[affiliation-cnclhrthm|Council of Herthema]], whose merchants buy the figured glass.
+: The younger masters of the glassworkers' guild of [[place-herthema|Herthema]] move to put the Provénzian-trained master on its bench in Velmar's place, and the quarrel goes to the [[affiliation-cnclhrthm|Council of Herthema]], whose merchants buy the figured glass.

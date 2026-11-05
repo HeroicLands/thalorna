@@ -398,7 +398,7 @@ Volira Brilonde is a 30-year-old woman who stands 5'7" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Volira Brilonde came into the world of the thatcher through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Volira Brilonde came into the world of the thatcher through a combination of circumstance and aptitude.
 
 Volira learned the craft of thatching from her father, a well-known thatcher in their village. She was one of the few women in the area to take up the trade, earning respect for her skill and dedication. Her work is known for its neatness and durability, though some older villagers were initially skeptical about a woman working in such a physically demanding trade.
 
@@ -420,7 +420,7 @@ Skilled in thatching, attentive to detail, innovative.
 
 Volira is affiliated with none; she works independently.
 
-As a Provenzian thatcher, Volira occupies a recognized social niche within Provenzia society.
+As a Provénzian thatcher, Volira occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -435,7 +435,7 @@ Few; has generally earned the respect of the community.
 ## Plot Hooks
 
 The Thatcher's Dilemma
-: Volira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+: Volira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
 
 Old Grudges
 : Few; has generally earned the respect of the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -444,7 +444,7 @@ Echoes of the Past
 : Something from Volira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Volira depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Volira depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Volira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

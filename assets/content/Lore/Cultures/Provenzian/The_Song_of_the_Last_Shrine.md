@@ -565,5 +565,5 @@ ul orteme nechaime talete ir ortemandon ol zirotal.»
 [[lore-saltpansongs|The Songs of the Salt Pans]]
 : the women's songs the lamp line comes from
 
-[[lore-provenzianclt|Provenzian]]
+[[lore-provenzianclt|Provénzian]]
 : the order of what a man owes, and the train that follows a patron

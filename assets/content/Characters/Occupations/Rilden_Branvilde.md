@@ -396,7 +396,7 @@ Rilden Branvilde is a 56-year-old man who stands 6'2" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Rilden Branvilde came into the world of the chieftain through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a noble family of [[lore-provenzianclt|Provénzian]] heritage, Rilden Branvilde came into the world of the chieftain through a combination of circumstance and aptitude.
 
 Rilden is the chieftain of a powerful tribal clan known for their warriors and hunters. He earned his place as leader through both his strength in battle and his cunning in negotiation. Rilden is respected by his people, but his harsh and uncompromising ways have also made him feared. He is always looking out for threats to his position, both from rival clans and ambitious members of his own tribe.
 
@@ -418,7 +418,7 @@ Skilled warrior, experienced leader, strong in negotiation and tactics.
 
 Rilden is affiliated with the [Tribal Council]{.name data-type="affiliation/governmental"}.
 
-As a Provenzian chieftain, Rilden occupies a recognized social niche within Provenzia society.
+As a Provénzian chieftain, Rilden occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -433,7 +433,7 @@ Rival chieftains who wish to take his territory.
 ## Plot Hooks
 
 The Chieftain's Dilemma
-: Rilden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
+: Rilden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
 
 Old Grudges
 : Rival chieftains who wish to take his territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -442,7 +442,7 @@ Echoes of the Past
 : Something from Rilden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Rilden depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Rilden depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Rilden the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

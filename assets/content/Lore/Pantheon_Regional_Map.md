@@ -23,7 +23,7 @@ The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant pantheon of we
 [[place-helionis|Helionis]]
 : considers itself the spiritual heartland; elaborate temple culture
 
-[[place-provenzrgn|Provenzia]]
+[[place-provenzrgn|Provénzia]]
 : strong institutional presence, integrated with artistic life
 
 [[place-elavendre|Elavendre]]

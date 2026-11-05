@@ -119,7 +119,7 @@ The company rarely sees the capital, and the capital's veterans see it only when
 
 The company will not share a camp with [[affiliation-irnwlvscmpny|The Iron Wolves Company]]. A Tarvenan grants that the Iron Wolves keep their contracts. The quarrel is about which contracts a company may swear. A Tarvenan captain refuses a contract to burn a village before he signs it, and the Iron Wolves sign it. Zedmo Galtsuregi met the Iron Wolves' captain, [Filazur Zighidek]{.name data-type="being/npc"}, once, at a hiring fair in [[place-olvestria|Ólvestra]], and the poem gives the meeting four lines, all of them plain.
 
-[[affiliation-slntlncmpny|The Silent Talon Company]] is Provenzian, and Tarvenans and Provenzians understand each other's speech and seldom each other's trade. A Tarvenan says what he means, and the Silent Talon sells concealment, which a Tarvenan regards as a lie told for money. The Talon's scouts have crossed the Kervaron twice in three years for clients they did not name, and both times the Step logged them and let them pass, because nothing in the contract forbade it.
+[[affiliation-slntlncmpny|The Silent Talon Company]] is Provénzian, and Tarvenans and Provénzians understand each other's speech and seldom each other's trade. A Tarvenan says what he means, and the Silent Talon sells concealment, which a Tarvenan regards as a lie told for money. The Talon's scouts have crossed the Kervaron twice in three years for clients they did not name, and both times the Step logged them and let them pass, because nothing in the contract forbade it.
 
 ## The Present {#present}
 

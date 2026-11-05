@@ -181,7 +181,7 @@ jerval. alete, laskate fa poltusal./
 [[place-kyvarel|Kivarel]]
 : the barony in the western valleys
 
-[[lore-bloodfields|The Blood-fields of Provenzia]]
+[[lore-bloodfields|The Blood-fields of Provénzia]]
 : torn ground, and the rite of settlement that works perhaps half the time
 
 [[affiliation-olvenia|Faith of Ólvenia]]
@@ -190,5 +190,5 @@ jerval. alete, laskate fa poltusal./
 [[affiliation-selmoros|Faith of Sélmoros]]
 : offerings of fruit past its ripeness, and the placing of the dead
 
-[[lore-provenzianclt|Provenzian]]
+[[lore-provenzianclt|Provénzian]]
 : the courtesy that closes a subject

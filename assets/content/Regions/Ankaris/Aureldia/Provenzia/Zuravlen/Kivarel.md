@@ -20,11 +20,11 @@ Kivarel is a barony in the western valleys of the [[place-zuravlenrgn|Zuravlen]]
 
 ## The Field Nobody Discusses
 
-The best land in the barony is the [[place-bldfldkyvarel|Blood-field of Kivarel]], a quickening where the ground grows too well: grass comes weeks early, grain comes in heavy and first, and fruit sets in years when the rest of the district loses its blossom to frost. Tenants who inherited the holdings farm it thoroughly, and its produce is sold across [[place-provenzrgn|Provenzia]] under no particular name. What Kivarel's people will not discuss is the field itself. A stranger who raises it at table is answered politely once and not answered again.
+The best land in the barony is the [[place-bldfldkyvarel|Blood-field of Kivarel]], a quickening where the ground grows too well: grass comes weeks early, grain comes in heavy and first, and fruit sets in years when the rest of the district loses its blossom to frost. Tenants who inherited the holdings farm it thoroughly, and its produce is sold across [[place-provenzrgn|Provénzia]] under no particular name. What Kivarel's people will not discuss is the field itself. A stranger who raises it at table is answered politely once and not answered again.
 
 ## Its Baron
 
-Selvare is a prominent supporter of the [Order of the Burning Brand]{.name data-type="affiliation/order"}, and his clan's alignment with that religious faction gives a small agricultural barony more weight in Provenzian affairs than its size suggests. His overlord is [Avaarl Zylavren]{.name data-type="being/npc"}, Earl of Hárivren.
+Selvare is a prominent supporter of the [Order of the Burning Brand]{.name data-type="affiliation/order"}, and his clan's alignment with that religious faction gives a small agricultural barony more weight in Provénzian affairs than its size suggests. His overlord is [Avaarl Zylavren]{.name data-type="being/npc"}, Earl of Hárivren.
 
 ## See Also
 

@@ -3,14 +3,14 @@ shortcode: toravarrange
 name: {full: Toravar Range, en: [The Toravar]}
 type: place
 subType: feature
-description: "The forested mountain belt that closes Tarvénia's north against Élavendre and runs down its west against Provenzia, densely Áelendan in its high reaches, with the Western March's war passes in its western arm."
+description: "The forested mountain belt that closes Tarvénia's north against Élavendre and runs down its west against Provénzia, densely Áelendan in its high reaches, with the Western March's war passes in its western arm."
 tags: [mountain, frontier]
 data: {demonym: null, lore: [], parents: [tarvenirgn], population: 0, packFolder: tarvenia}
 ---
 
 ## Overview {#overview}
 
-The Toravar Range is the great forested mountain belt of [[place-tarvenirgn|Tarvénia]]'s upper country. It has two arms. The northern arm runs east and west across the north and marks the border with [[place-elavendre|Élavendre]]. The western arm runs along Tarvénia's west and divides it from [[place-provenzrgn|Provenzia]]'s eastern march, [[place-talothe|the Talote]]. On a map the range is a frontier twice over. On the ground its high reaches are Áelendan country, among the most densely Áelendan land outside the [[place-alndntrblnds|Tribal Lands]] themselves.
+The Toravar Range is the great forested mountain belt of [[place-tarvenirgn|Tarvénia]]'s upper country. It has two arms. The northern arm runs east and west across the north and marks the border with [[place-elavendre|Élavendre]]. The western arm runs along Tarvénia's west and divides it from [[place-provenzrgn|Provénzia]]'s eastern march, [[place-talothe|the Talote]]. On a map the range is a frontier twice over. On the ground its high reaches are Áelendan country, among the most densely Áelendan land outside the [[place-alndntrblnds|Tribal Lands]] themselves.
 
 ## The Land {#the-land}
 
@@ -18,7 +18,7 @@ The Toravar Range is the great forested mountain belt of [[place-tarvenirgn|Tarv
 
 **The northern arm.** Along the Élavendre border the range is a forested belt, and under it lie the highlands of [[place-eskarath|Eskarath]], whose people are older than the Tarveni.
 
-**The western arm.** Along the Provenzian frontier the range is cold, and its passes are very nearly impassable from the first snow to the thaw. Under it lie the valleys of the [[place-westernmrch|Western March]]. Its passes go over into the Talote, and the chief of them is [Grumagando]{.name data-type="place/feature"}, the war pass, which the March's hosts take down to the road at [[place-bldfldmalnebris|Malnebris]]. [[place-kemthoza|Kemthoza]] holds its head on the Tarvenan side.
+**The western arm.** Along the Provénzian frontier the range is cold, and its passes are very nearly impassable from the first snow to the thaw. Under it lie the valleys of the [[place-westernmrch|Western March]]. Its passes go over into the Talote, and the chief of them is [Grumagando]{.name data-type="place/feature"}, the war pass, which the March's hosts take down to the road at [[place-bldfldmalnebris|Malnebris]]. [[place-kemthoza|Kemthoza]] holds its head on the Tarvenan side.
 
 ## Who Uses It {#who-uses-it}
 
@@ -38,7 +38,7 @@ To the Áelendan reckoning [[place-drenavrspn|the Drenavar]], the Kervaron and t
 
 ## Barons and Clans
 
-The range is where Tarvenan barons and Áelendan clans meet. Frictions over straying herds, logging concessions and road-surveys near sacred groves are handled by the local Wardens with the local baron, usually without reaching the crown. The arrangement is the barons' and the Wardens', not royal policy. No Tarvenan king has tried to extend formal authority over the Áelendan of the Toravar, and the crown of [[affiliation-kingdmtrvn|Tarvénia]] is considerably less tolerant than Provenzia's of the clans' defense of their sacred sites.
+The range is where Tarvenan barons and Áelendan clans meet. Frictions over straying herds, logging concessions and road-surveys near sacred groves are handled by the local Wardens with the local baron, usually without reaching the crown. The arrangement is the barons' and the Wardens', not royal policy. No Tarvenan king has tried to extend formal authority over the Áelendan of the Toravar, and the crown of [[affiliation-kingdmtrvn|Tarvénia]] is considerably less tolerant than Provénzia's of the clans' defense of their sacred sites.
 
 Roughly once a generation a stubborn baron meets an unyielding clan. The baron pushes his herds or his loggers up into ground the clan holds sacred, the clan answers, and the Wardens and the baron cannot settle it between them. The result is a brief, ugly mountain-war between the baron's valley and the clan. The crown settles it quickly and quietly through Élavendri intermediaries.
 

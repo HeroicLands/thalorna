@@ -24,7 +24,7 @@ table is answered politely and not answered again.
 ## The Difficulty
 
 The awkwardness is not superstition, and everyone involved knows exactly what it is. The produce is
-excellent, it is sold across [[place-provenzrgn|Provenzia]] under no particular name, and a good deal of it goes into the
+excellent, it is sold across [[place-provenzrgn|Provénzia]] under no particular name, and a good deal of it goes into the
 preserving trades of Zuravlen—which is to say that some meaningful share of the finest fruit
 conserves on the [[place-ankrscntnnt|Ankaris Continent]] is grown on a battlefield.
 
@@ -35,4 +35,4 @@ cannot afford to find out.
 
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provenzia]] · [[place-zuravlenrgn|Zuravlen Region]]
+- [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-zuravlenrgn|Zuravlen Region]]

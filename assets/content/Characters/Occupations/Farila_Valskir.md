@@ -397,7 +397,7 @@ Farila Valskir is a 31-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Farila Valskir came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a noble family of [[lore-provenzianclt|Provénzian]] heritage, Farila Valskir came into the world of the physician through a combination of circumstance and aptitude.
 
 Lady Seraphina is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Seraphina is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
 
@@ -419,7 +419,7 @@ Knowledgeable about herbal remedies, empathetic, skilled in communication.
 
 Farila is affiliated with the local [Physicians' Guild]{.name data-type="affiliation/guild"}.
 
-As a Provenzian physician, Farila occupies a recognized social niche within Provenzia society.
+As a Provénzian physician, Farila occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -434,7 +434,7 @@ Few; respected but sometimes challenged by traditional medical practitioners.
 ## Plot Hooks
 
 The Physician's Dilemma
-: Farila faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+: Farila faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
 
 Old Grudges
 : Few; respected but sometimes challenged by traditional medical practitioners. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -443,7 +443,7 @@ Echoes of the Past
 : Something from Farila's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Farila depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Farila depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Farila the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

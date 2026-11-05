@@ -78,7 +78,7 @@ The lines an Élavendri says at the feast, the fair and the crowning come from a
 
 ## Magic as Manners
 
-Magic is ordinary here in a way it is nowhere else in Ankaris. It is studied, practiced, discussed at table, and expected of the well-bred, and a noble who cannot at least follow a technical conversation about it is embarrassing in the way a Provenzian who cannot follow an argument is embarrassing.
+Magic is ordinary here in a way it is nowhere else in Ankaris. It is studied, practiced, discussed at table, and expected of the well-bred, and a noble who cannot at least follow a technical conversation about it is embarrassing in the way a Provénzian who cannot follow an argument is embarrassing.
 
 The consequence is that the Élavendri are unimpressed by displays. Power casually shown is vulgar; power precisely applied is admired. A visiting mage who sets out to overawe an Élavendri court gets an attentive, appreciative and entirely unmoved audience.
 

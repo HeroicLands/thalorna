@@ -14,7 +14,7 @@ A harbor pilot at **Kalipsa** will tell you the rule of the place before you are
 
 ## The Harbor
 
-[[skill-nordmalng|Nordmal]] is the working language of the docks and the old city, and [[skill-valtarlng|Valtari]], a trade pidgin with Helionite roots, is spoken in the markets. A traveler from [[place-provenzrgn|Provenzia]] or the [[affiliation-byzarianlg|Bizarian League]] is understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aureldian hymns, and the kitchens combine northern smoked fish with southern spice and olive oil. The local wine is, by the admission of its drinkers, indifferent.
+[[skill-nordmalng|Nordmal]] is the working language of the docks and the old city, and [[skill-valtarlng|Valtari]], a trade pidgin with Helionite roots, is spoken in the markets. A traveler from [[place-provenzrgn|Provénzia]] or the [[affiliation-byzarianlg|Bizarian League]] is understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aureldian hymns, and the kitchens combine northern smoked fish with southern spice and olive oil. The local wine is, by the admission of its drinkers, indifferent.
 
 Three landmarks anchor the waterfront. [The Old Mole]{.name data-type="place/site"} is the original stone harbor mole, built, local tradition says, by refugees from a forgotten Helionite colony; several of its stones carry characters no living scholar can read. [The Lantern of Kalipsa]{.name data-type="place/site"} is a seamark tower on the northern headland, whose olive-oil beacon is relit every night, and whose lantern-keeper holds a hereditary office of real civic prestige. [The Sea-Law Hall]{.name data-type="place/site"} is where the city's professional arbitrators hear commercial disputes under the [Sea-Law]{.name data-type="lore/law"}, and captains honor its verdicts across half the northern shipping world because none can afford the cost of defying them.
 
@@ -24,7 +24,7 @@ The Captains' Council governs: the heads of the seafaring houses, with seats wei
 
 ## Making a Living
 
-The harbor is the economy. Kalipsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped and crushing tariffs on cargo warehoused longer than a season, which forces capital through the city instead of letting it sit. The island itself produces almost nothing. It is steep, thin-soiled and short of fresh water, so Kalipsa eats what it buys: grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands]], cloth from Provenzia, metalwork from [[affiliation-orashion|Órashion]]. The shipping houses jointly maintain a navy out of all proportion to the city's size, built to make raiding Kalipsa or its sea-lanes cost more than it returns, and it is the reason the city has stayed free.
+The harbor is the economy. Kalipsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped and crushing tariffs on cargo warehoused longer than a season, which forces capital through the city instead of letting it sit. The island itself produces almost nothing. It is steep, thin-soiled and short of fresh water, so Kalipsa eats what it buys: grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands]], cloth from Provénzia, metalwork from [[affiliation-orashion|Órashion]]. The shipping houses jointly maintain a navy out of all proportion to the city's size, built to make raiding Kalipsa or its sea-lanes cost more than it returns, and it is the reason the city has stayed free.
 
 ## See Also
 

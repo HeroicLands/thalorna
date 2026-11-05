@@ -20,7 +20,7 @@ The [[place-shrinethuravelhills|Shrine of Túravel Hills]], hidden in the [[plac
 
 ### Overview
 
-Deep in the Túravel Hills of southern [[place-provenzrgn|Provenzia Region]] stands a shrine forgotten by official history but remembered in old songs and fragmentary records. Built long before worship of the [[affiliation-arldnpnthn|Aureldian Pantheon]] took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
+Deep in the Túravel Hills of southern [[place-provenzrgn|Provénzia Region]] stands a shrine forgotten by official history but remembered in old songs and fragmentary records. Built long before worship of the [[affiliation-arldnpnthn|Aureldian Pantheon]] took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
 
 ### Stage One: The Commission & Research
 
@@ -53,7 +53,7 @@ The party is approached by:
 The party must locate the shrine, a journey that may prove challenging:
 
 - Navigate the Túravel Hills using fragmentary maps and riddles
-- Decipher old Provenzian or pre-Aureldían language clues
+- Decipher old Provénzian or pre-Aureldían language clues
 - Encounter natural hazards: difficult terrain, weather, wild creatures
 - Question locals who may know oral traditions or old paths
 - Uncover markers or signs left by ancients
@@ -72,7 +72,7 @@ The party must locate the shrine, a journey that may prove challenging:
 As the party draws near, they discover:
 
 - A clearing or hidden valley containing the shrine
-- Architecture that predates Provenzian settlement (possibly connected to the [[lore-flksinale|Sinale]] or other ancients)
+- Architecture that predates Provénzian settlement (possibly connected to the [[lore-flksinale|Sinale]] or other ancients)
 - Inscriptions in archaic languages and pre-Aureldían symbols
 - Weathered statues or idols of forgotten deities
 - Signs of both religious veneration and deliberate damage (the shrine was likely desecrated or sealed)
@@ -109,7 +109,7 @@ Within the shrine, the party discovers:
 
 - The shrine was sealed or abandoned intentionally (why?)
 - The old traditions are not entirely dead (worshippers still exist)
-- The shrine holds power that could influence [[place-provenzrgn|Provenzia Region]] (political, magical, or spiritual)
+- The shrine holds power that could influence [[place-provenzrgn|Provénzia Region]] (political, magical, or spiritual)
 - A warning or prophecy inscribed in the shrine
 - The shrine's true purpose is different from what history or legend claims
 
@@ -153,8 +153,8 @@ Leave & Warn
 
 ### See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[affiliation-ordoarcanis|Thordimalon]]
 - [[place-elavendre|Élavendre]]

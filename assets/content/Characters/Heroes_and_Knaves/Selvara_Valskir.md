@@ -428,7 +428,7 @@ When the merchant guilds seized power and the revolution's ideals collapsed, Sé
 
 ### Marriage
 
-Three years ago, Sélvara married [[being-fethardhrl|Fetar Darel]], the Tamzir's pilot, in a dockside ceremony in [[place-provenzrgn|Provenzia]]. The match surprised everyone except Bu, who had seen it coming for years. Fetar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
+Three years ago, Sélvara married [[being-fethardhrl|Fetar Darel]], the Tamzir's pilot, in a dockside ceremony in [[place-provenzrgn|Provénzia]]. The match surprised everyone except Bu, who had seen it coming for years. Fetar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
 
 ## Psyche
 

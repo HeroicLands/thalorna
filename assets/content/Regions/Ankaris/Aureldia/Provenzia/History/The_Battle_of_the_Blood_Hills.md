@@ -91,7 +91,7 @@ The Forge made the battle its own. It had beaten the Flame at the cost of its kn
 
 - **The Blood Hills.** A blood-field east of Keravel ([[place-bloodhills|The Blood Hills]]).
 - **The Gashang shrine.** A cave the zealots made, whose traps still guard the relic ([[scenario-maulgashng|The Maul of Gashang]]).
-- **The Forge's standing in [[place-provenzrgn|Provenzia]].** The faith's greatest influence and the seat of its Hamsarnor.
+- **The Forge's standing in [[place-provenzrgn|Provénzia]].** The faith's greatest influence and the seat of its Hamsarnor.
 
 ## See Also
 

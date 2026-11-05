@@ -3,7 +3,7 @@ shortcode: zuravlenrgn
 name: {full: Zuravlen Region, en: [The Peach Country]}
 type: place
 subType: region
-description: "Provenzia's western seaboard on the cold ocean—a long cliff coast, poorer and harder than the sunlit south, named for the barony at its heart whose sheltered valley grows the finest peaches and some of the best wine in Ankaris."
+description: "Provénzia's western seaboard on the cold ocean—a long cliff coast, poorer and harder than the sunlit south, named for the barony at its heart whose sheltered valley grows the finest peaches and some of the best wine in Ankaris."
 tags: [region, valley, coastal]
 data:
   demonym: Zuravlen
@@ -13,20 +13,20 @@ data:
   packFolder: provenzia
 ---
 
-[[affiliation-brnyzrvln|Zuravlen]]** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], in the
-[[place-provenzrgn|Provenzia Region]]—a short, cliff-bound coast and the long river valley behind
+[[affiliation-brnyzrvln|Zuravlen]]** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], in the
+[[place-provenzrgn|Provénzia Region]]—a short, cliff-bound coast and the long river valley behind
 it, and the source of the finest peaches on the [[place-ankrscntnnt|Ankaris Continent]] and some of its more highly regarded wine.
 
 The barony is held of the Crown at [[place-jalnazdal|Jalnasdal]] by [Selvare Zuravel]{.name data-type="being/npc"}, who is
 also Baron of [[place-kyvarel|Kivarel]], and who sits at [[place-elthrembis|Eltrembis]]. His clan's prominent support of
-the [Order of the Burning Brand]{.name data-type="affiliation/order"} gives a small agricultural barony rather more weight in Provenzian
+the [Order of the Burning Brand]{.name data-type="affiliation/order"} gives a small agricultural barony rather more weight in Provénzian
 affairs than its size would suggest.
 
 ## The Region and the Barony
 
-The **Zuravlen Region** shares its name with the barony, and Provenzians rarely bother to distinguish them.
+The **Zuravlen Region** shares its name with the barony, and Provénzians rarely bother to distinguish them.
 
-The **region** is the whole of Provenzia's western seaboard—some three-quarters of a million people
+The **region** is the whole of Provénzia's western seaboard—some three-quarters of a million people
 along a long cliff coast and the valleys behind it, facing the cold ocean. It is the poorest and
 hardest-used quarter of the kingdom: thin soils, few harbors, weather off the water, and none of the
 Vylarian trade that made the south rich. Its living is fishing, salt, wool, timber and small mixed
@@ -45,7 +45,7 @@ Everything about Zuravlen follows from the fact that it is three quite different
 a day's ride of each other, and that the middle one is where the money is.
 
 **The coast.** Zuravlen faces **west**, onto the open ocean—not the warm
-[[place-vylarianse|Vylarian Sea]] that laps Provenzia's southern shore, but the vast cold water beyond
+[[place-vylarianse|Vylarian Sea]] that laps Provénzia's southern shore, but the vast cold water beyond
 the continent's western edge. Rocky cliffs stand above deep water and the wind off it is constant:
 hard enough in winter to lay a man down, salt enough year-round to burn the leaves off anything
 tender. Nothing worth exporting grows here. What the coast has is fish—and it has them in
@@ -114,7 +114,7 @@ everyone concerned is aware of who owns which.
 ## The Vine
 
 Vines climb the same terraces the peaches do, generally above them where the ground is stoniest and the
-fruit trees will not thrive, and Zuravlen wine is well regarded across Provenzia without ever quite
+fruit trees will not thrive, and Zuravlen wine is well regarded across Provénzia without ever quite
 being fashionable in Jalnasdal.
 
 The vine is the barony's answer to its own worst problem. **Vintage falls in autumn, after the peach
@@ -182,7 +182,7 @@ with the Order of the Burning Brand.
 
 ## Faith
 
-Provenzia follows the [[affiliation-arldnpnthn|Aureldian Pantheon]], and Zuravlen's devotion falls naturally to two of
+Provénzia follows the [[affiliation-arldnpnthn|Aureldian Pantheon]], and Zuravlen's devotion falls naturally to two of
 the Twelve: [[lore-olveniadty|Ólvenia]], the Bountiful One, whose symbol is a tree hung with
 golden fruit and who is honored at harvest with the first-picked basket of every orchard; and
 [[lore-lizelasdty|Lizelas]], the Nurturer, to whom the blossom and the vigil are dedicated. The Zuravlen
@@ -218,5 +218,5 @@ over on a small scale, and all of them are written down somewhere that could be 
 
 ## See Also
 
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]] · [[place-provenzrgn|Provenzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]] · [[place-provenzrgn|Provénzia Region]]
 - [[affiliation-olvenia|Faith of Ólvenia]] · [[affiliation-lizelas|Faith of Lizelas]]

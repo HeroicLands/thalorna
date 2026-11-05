@@ -18,7 +18,7 @@ data:
 
 ## Overview
 
-Lake Tiravel, in central [[place-provenzrgn|Provenzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Vélarik III fought his final battle against invaders at the blood-field of Tiravlen. Though Vélarik fell and his kingdom fragmented, the victory he secured shaped the course of Provenzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
+Lake Tiravel, in central [[place-provenzrgn|Provénzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Vélarik III fought his final battle against invaders at the blood-field of Tiravlen. Though Vélarik fell and his kingdom fragmented, the victory he secured shaped the course of Provénzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
 
 ## Stage One: The Haunting
 
@@ -108,7 +108,7 @@ The party must make direct contact with the spirits:
 - A sacred oath that was broken or abandoned
 - A treasure, artifact, or body that was lost and not properly honored
 - A descendant or heir who should inherit Vélarik's legacy
-- A warning about a future threat to [[place-provenzrgn|Provenzia Region]]
+- A warning about a future threat to [[place-provenzrgn|Provénzia Region]]
 - The identity of a ghost that holds particular power or authority
 
 **The Ghostly King:**
@@ -147,7 +147,7 @@ Prevent the Returning
 - The quest may take the party far from Lake Tiravel
 - Powerful interests may oppose the party's success
 - The artifact or goal may be protected by magical wards or guardians
-- Modern Provenzian authority may conflict with the party's quest
+- Modern Provénzian authority may conflict with the party's quest
 - A rival claims legitimate claim to what the party seeks
 
 ## Stage Five: Resolution & Restoration
@@ -172,7 +172,7 @@ Prevent the Returning
 - The party may be bound by oath to protect Vélarik's legacy
 - If a descendant was restored, they may become an ally or complication
 - The party's reputation grows as defenders and restorers of history
-- Ancient knowledge about [[place-provenzrgn|Provenzia Region]]'s past is revealed, affecting regional politics or religion
+- Ancient knowledge about [[place-provenzrgn|Provénzia Region]]'s past is revealed, affecting regional politics or religion
 - [[affiliation-arldnpnthn|The Aureldian Church]] may seek to reconsecrate the site or claim authority over it
 
 **If the party fails or refuses the quest:**
@@ -185,7 +185,7 @@ Prevent the Returning
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[affiliation-ordoarcanis|Thordimalon]]

@@ -39,7 +39,7 @@ The coal lights the smokehouses, and through them it holds the town's trade. A s
 - The man from Malagna presses his claim to the helm on the eve of Coal Night, the one night the town cannot do without it.
 
 :::secret {title="What the first fire stood on"}
-Dvilgvir first banked the fire in the hollow on the headland, and the crew's strongbox lies under that floor: the Provenzian owner's coin for the voyage and the silver taken in the [[place-batarengulf|Gulf of Bataren]], buried in the first week and never mentioned at the surrender. It is still there, a man's arm below the ash, and the ninth rune-stone on the slope says so. Dvilgvir knew and never dug. Anyone who has the stones read learns that the Old Coal's first hearth is a treasure's lid ([[place-hvirnmilhd|Hvirnmil's Head]]).
+Dvilgvir first banked the fire in the hollow on the headland, and the crew's strongbox lies under that floor: the Provénzian owner's coin for the voyage and the silver taken in the [[place-batarengulf|Gulf of Bataren]], buried in the first week and never mentioned at the surrender. It is still there, a man's arm below the ash, and the ninth rune-stone on the slope says so. Dvilgvir knew and never dug. Anyone who has the stones read learns that the Old Coal's first hearth is a treasure's lid ([[place-hvirnmilhd|Hvirnmil's Head]]).
 :::
 
 ## See Also {#see-also}

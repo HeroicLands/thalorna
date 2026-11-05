@@ -415,7 +415,7 @@ Tornis is a man of thirty with a slender, roguish appearance—fair-skinned, wit
 
 # Dossier {#dossier}
 
-The man who calls himself Tornis Kubri was born Kalen, a [[lore-tarvenanclt|Tarvenan]] outlaw who spent years operating with a brigand band along the border between [Ibiria]{.name data-type="place"} and the [[place-provenzrgn|Provenzia Region]]. He was skilled in stealth, sabotage, and manipulation—known among his comrades for his cunning and his ability to talk his way out of situations that would get a less charming man killed.
+The man who calls himself Tornis Kubri was born Kalen, a [[lore-tarvenanclt|Tarvenan]] outlaw who spent years operating with a brigand band along the border between [Ibiria]{.name data-type="place"} and the [[place-provenzrgn|Provénzia Region]]. He was skilled in stealth, sabotage, and manipulation—known among his comrades for his cunning and his ability to talk his way out of situations that would get a less charming man killed.
 
 That life ended in blood. A betrayal within his group led to a massacre, and Kalen barely escaped with his life. He buried his old name, adopted the alias Tornis, and reinvented himself as a scout and trader—a wanderer who knew the roads, especially the ones people tended to avoid. When [[being-branwldrgr|Branval]] recruited him into [[affiliation-slntlncmpny|the Silent Talon]], it was for exactly the skills his old life had given him: intelligence-gathering, infiltration, and the ability to neutralize threats without drawing attention.
 

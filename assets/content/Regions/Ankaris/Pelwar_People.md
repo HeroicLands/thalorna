@@ -90,7 +90,7 @@ The languages of Pelwar descent share deep structural commonalities and a signif
 : The language of [[place-tarvenirgn|Tarvénia Region]].
 
 [[skill-provnzlng|Provenzal]]
-: The refined tongue of [[place-provenzrgn|Provenzia Region]].
+: The refined tongue of [[place-provenzrgn|Provénzia Region]].
 
 ## The Pelwar Peoples Today
 
@@ -101,7 +101,7 @@ The major peoples descended from Pelwar migrations share certain cultural common
 - The [[lore-vylarianclt|Vylarian]] people—The imperial Pelwar, whose migrations laid the foundation for the later rise of the Vylarian Empire
 - **Nordmen** (of the northern kingdoms)—Pelwar migrants who settled the frozen north and developed warrior-seafarer cultures
 - Varokh (of [[place-vrystwald|Vristwald]])—Forest-dwelling Pelwar descendants who preserved a more tribal, barbarian way of life
-- Tarveni, Provenzian—Pelwar migrants who settled the western and southwestern regions, developing sophisticated mercantile and artistic cultures
+- Tarveni, Provénzian—Pelwar migrants who settled the western and southwestern regions, developing sophisticated mercantile and artistic cultures
 
 The Varokh of Vristwald share Pelwar ancestry with both the Nordmen of the north and the Élavendri of the west, though the three peoples are now profoundly different in culture, language, and outlook.
 

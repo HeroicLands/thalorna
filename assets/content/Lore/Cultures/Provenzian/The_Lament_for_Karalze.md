@@ -283,5 +283,5 @@ trameze talete ul dorate sa olnare.
 [[affiliation-selmoros|Faith of Sélmoros]]
 : the final testimony and the rite at the tomb
 
-[[lore-provenzianclt|Provenzian]]
+[[lore-provenzianclt|Provénzian]]
 : the morning call, the train, the unplaced, and the fetching of the dead

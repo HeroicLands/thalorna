@@ -3,7 +3,7 @@ shortcode: kalveza
 name: {full: Kalveza}
 type: place
 subType: settlement
-description: "The second of Provenzia's great southern ports and one of the two homes of the Cotiere speech—a working harbor where Jalnasdal is a court, and the place the kingdom's bulk trade actually passes through."
+description: "The second of Provénzia's great southern ports and one of the two homes of the Cotiere speech—a working harbor where Jalnasdal is a court, and the place the kingdom's bulk trade actually passes through."
 tags: [town, port, coastal]
 data:
   demonym: null
@@ -30,7 +30,7 @@ freight; Kalveza takes the tonnage.
 
 Its merchant houses are consequently less grand and considerably more liquid than Válaren's, and the
 two cities' factors regard each other with a rivalry that is entirely genuine and entirely commercial.
-When credit tightens anywhere in the southern part of the [[place-provenzrgn|Provenzia Region]] it tightens at Kalveza first, because Kalveza is
+When credit tightens anywhere in the southern part of the [[place-provenzrgn|Provénzia Region]] it tightens at Kalveza first, because Kalveza is
 where the goods are.
 
 ## The Port Dialect

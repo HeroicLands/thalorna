@@ -1,6 +1,6 @@
 ---
 shortcode: prvnzngrndgms
-name: {full: The Provenzian Grand Games}
+name: {full: The Provénzian Grand Games}
 type: scenario
 subType: adventure
 tags: [draft]
@@ -14,11 +14,11 @@ data:
   packFolder: adventures
 ---
 
-The [Lordeme]{.name data-type="lore/gathering"} (Provenzian Grand Games), the realm's greatest athletic and martial competition, is held in [[place-harivrencity|Hárivren City]]. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.
+The [Lordeme]{.name data-type="lore/gathering"} (Provénzian Grand Games), the realm's greatest athletic and martial competition, is held in [[place-harivrencity|Hárivren City]]. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.
 
 ## Overview
 
-Every five years, the City of Hárivren hosts the Lordeme—a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[place-provenzrgn|Provenzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
+Every five years, the City of Hárivren hosts the Lordeme—a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[place-provenzrgn|Provénzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
 
 ## Stage One: Arrival & Opportunity
 
@@ -84,7 +84,7 @@ The party's involvement (whether as competitors or investigators) inevitably dee
 
 **Key Discoveries:**
 
-- The assassination plot targets the ruler of Provenzia Region or another prominent dignitary
+- The assassination plot targets the ruler of Provénzia Region or another prominent dignitary
 - Cheating is far more widespread than initially suspected
 - An outside power (the [[affiliation-vylarinmpr|Vylarian Empire]], [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] agents, etc.) is manipulating events
 - One of the party members is recognized or identified as a threat by conspirators
@@ -129,11 +129,11 @@ Exploit the Chaos
 
 **If the party fails or is compromised:**
 
-- The assassination succeeds, throwing Provenzia Region into chaos
+- The assassination succeeds, throwing Provénzia Region into chaos
 - The conspirators consolidate power, using the disruption to their advantage
 - The games are canceled or severely disrupted
 - The party may be blamed for the failure or exposed as complicit
-- Political upheaval in Provenzia Region creates both danger and opportunity
+- Political upheaval in Provénzia Region creates both danger and opportunity
 
 **Ongoing Consequences:**
 
@@ -145,8 +145,8 @@ Exploit the Chaos
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[affiliation-ordoarcanis|Thordimalon]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]

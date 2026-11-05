@@ -20,7 +20,7 @@ An ancient relic of one of the Aureldian faiths has been lost in the ruins of [[
 
 ### Overview
 
-Ménavar Abbey, once a center of Aureldian learning and spiritual practice in the [[place-provenzrgn|Provenzia Region]], was damaged centuries ago during [[lore-southrnfleets|the Southern Fleets]] (the Nordheim raids) and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal church hierarchy and the [[affiliation-ordoarcanis|Thordimalon]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
+Ménavar Abbey, once a center of Aureldian learning and spiritual practice in the [[place-provenzrgn|Provénzia Region]], was damaged centuries ago during [[lore-southrnfleets|the Southern Fleets]] (the Nordheim raids) and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal church hierarchy and the [[affiliation-ordoarcanis|Thordimalon]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
 
 ### Stage One: The Commission
 
@@ -102,8 +102,8 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 
 ### See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[affiliation-ordoarcanis|Thordimalon]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

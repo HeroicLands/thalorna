@@ -87,7 +87,7 @@ The syndicates compete ruthlessly for territory, contacts, and revenue. Border d
 : Financial crime network based in Taruzel
 
 [[affiliation-velvethand|The Velvet Hand]]
-: Espionage and assassination network across Vylaria, Provenzia, and Helionis
+: Espionage and assassination network across Vylaria, Provénzia, and Helionis
 
 [[affiliation-graytide|The Gray Tide]]
 : Maritime crime network in the northern and western Vylarian Sea

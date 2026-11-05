@@ -397,7 +397,7 @@ Nilara Tolgen is a 27-year-old woman who stands 5'10" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Nilara Tolgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Nilara Tolgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
 Nilara grew up on the outskirts of the village, where her father taught her to use a bow for hunting. Her skills caught the eye of a local militia leader, who recruited her as a yeoman archer. Nilara is known for her speed and agility, allowing her to quickly reposition during battles. She is highly regarded for her ability to hit moving targets.
 
@@ -419,7 +419,7 @@ Skilled archer, quick and agile, excellent at tracking.
 
 Nilara is affiliated with Local Militia.
 
-As a Provenzian yeoman archer, Nilara occupies a recognized social niche within Provenzia society.
+As a Provénzian yeoman archer, Nilara occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -434,7 +434,7 @@ Poachers who encroach on her territory.
 ## Plot Hooks
 
 The Yeoman Archer's Dilemma
-: Nilara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+: Nilara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
 
 Old Grudges
 : Poachers who encroach on her territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -443,7 +443,7 @@ Echoes of the Past
 : Something from Nilara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Nilara depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Nilara depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Nilara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

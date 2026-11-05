@@ -8,7 +8,7 @@ tags: [coastal]
 data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
 ---
 
-Above the warm sandy coast of the south, in the richest and most comfortable country in [[place-provenzrgn|Provenzia]],
+Above the warm sandy coast of the south, in the richest and most comfortable country in [[place-provenzrgn|Provénzia]],
 lies a field where nothing sings.
 
 ## The Silence
@@ -25,7 +25,7 @@ they meant to, and are generally unable to say when they began hurrying.
 ## Its Position
 
 What makes Kalvenza notable is where it is. The southern reaches are the warmest, wealthiest and most
-settled part of the kingdom—ports, vineyards, villas, the whole sunlit prosperity that Provenzia is
+settled part of the kingdom—ports, vineyards, villas, the whole sunlit prosperity that Provénzia is
 known for abroad—and in the middle of it is a hundred acres that will not hold a bird.
 
 The land is not built on. It has been sold several times, at each sale to a buyer from outside the
@@ -34,4 +34,4 @@ explain how each of those intentions lapsed.
 
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provenzia]] · [[place-provenzrgn|Provenzia Region]]
+- [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-provenzrgn|Provénzia Region]]

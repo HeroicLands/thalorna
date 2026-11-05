@@ -19,17 +19,17 @@ data:
 
 ## Overview
 
-Tarvénia lies east of the [[place-provenzrgn|Provenzia Region]] and west of the [[place-vylariargn|Vylaria Region]], a land of rugged mountains, rich coastal areas, and fiercely independent peoples. The landscape is as varied as its people—dense forests, golden beaches, and high, windswept peaks are home to small, isolated villages and proud city-states. The Tarvenans trace their lineage back to ancient warrior tribes, and their culture prizes strength, resilience, and an unshakeable sense of freedom.
+Tarvénia lies east of the [[place-provenzrgn|Provénzia Region]] and west of the [[place-vylariargn|Vylaria Region]], a land of rugged mountains, rich coastal areas, and fiercely independent peoples. The landscape is as varied as its people—dense forests, golden beaches, and high, windswept peaks are home to small, isolated villages and proud city-states. The Tarvenans trace their lineage back to ancient warrior tribes, and their culture prizes strength, resilience, and an unshakeable sense of freedom.
 
 ## Geography
 
-Tarvénia occupies the southern mainland between Provenzia to the west and Vylaria to the east, with the [[place-vylarianse|Vylarian Sea]] along its southern coast. The interior is dominated by a high central plateau ringed by mountain ranges, some of which are volcanic. The southern coast is warm, dry, and dotted with prosperous port cities; the northern border with [[place-elavendre|Élavendre]] is marked by the [[place-toravarrange|Toravar Range]]—the great forested mountain belt that runs east-west across the upper country and which the [[affiliation-aelndntrbs|Áelendan tribes]] hold as sacred high country in the same way they hold the [[place-kervaron|Kervaron Spine]] to the east.
+Tarvénia occupies the southern mainland between Provénzia to the west and Vylaria to the east, with the [[place-vylarianse|Vylarian Sea]] along its southern coast. The interior is dominated by a high central plateau ringed by mountain ranges, some of which are volcanic. The southern coast is warm, dry, and dotted with prosperous port cities; the northern border with [[place-elavendre|Élavendre]] is marked by the [[place-toravarrange|Toravar Range]]—the great forested mountain belt that runs east-west across the upper country and which the [[affiliation-aelndntrbs|Áelendan tribes]] hold as sacred high country in the same way they hold the [[place-kervaron|Kervaron Spine]] to the east.
 
 The climate is dominated by the Vylarian Sea—long, dry summers and mild winters in the south, cooler and wetter conditions in the north. The land is ideal for agriculture, particularly vineyards, olive groves, and grain fields. Tarvénia is a major producer of trade goods, including high-quality wines, olive oil, and textiles.
 
 ## Culture and Society
 
-The Tarvenans are fiercely independent and proud of their heritage. In contrast to the more refined and cultured people of Provenzia, they are known for their strength, resilience, and deeply entrenched sense of personal and communal freedom. Many of the great warriors and military leaders of [[place-ankrscntnnt|Ankaris]] come from Tarvénia, and the region is home to skilled tacticians, mercenaries, and raiders.
+The Tarvenans are fiercely independent and proud of their heritage. In contrast to the more refined and cultured people of Provénzia, they are known for their strength, resilience, and deeply entrenched sense of personal and communal freedom. Many of the great warriors and military leaders of [[place-ankrscntnnt|Ankaris]] come from Tarvénia, and the region is home to skilled tacticians, mercenaries, and raiders.
 
 Politically, Tarvénia is a patchwork of semi-autonomous regions united under the loose authority of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. Three petty kingdoms—[[affiliation-kngdmstrth|Asturath]] (the mountainous heartland), [[affiliation-kngdmglvrn|Galvaren]] (the misty western coast), and [[affiliation-kingdmlnrk|Lienrik]] (the fertile central lowlands)—share power with the [[affiliation-frctyvlthr|Free City of Valthari]] (a merchant port on the southern coast) and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] (an ancient highland people on the Élavendren border). They share a common language and a history of both collaboration and rivalry. The people of Tarvénia are united by their warrior culture and their defiance of outside rule—a trait that has made them difficult subjects for every empire that has tried to conquer them. Even the [[affiliation-vylarinmpr|Vylarian Empire]] at its height struggled to hold Tarvénia: it took the lowlands about 140 AF ([[lore-lowlandstaken|The Lowlands Taken]]), lost a legion in the mountains ([[lore-horngorgebtl|The Horn Gorge]]), and was driven out of the lowlands by the first High King, elected for the purpose ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
 
@@ -39,7 +39,7 @@ Social structure varies by region. Coastal cities tend toward merchant oligarchi
 
 The distinct faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are the formal religions, but Tarvenan practice is inflected with strong local folk traditions. [[affiliation-ardavon|Árdavon]] (order and honorable struggle) is especially prominent among the warrior class, while [[affiliation-lusinia|Lusinia]] (creation and earth) is honored by farmers and rural communities. [[affiliation-brazemas|Brazemas]] (storms) has a significant following among seafarers and mountain communities.
 
-The Tarvenans have a complex relationship with magic and the divine. While Provenzia embraces arcane arts and mystical studies, Tarvénia has traditionally been more skeptical of magic, viewing it with suspicion or as a tool of the elite. That said, many cities hold ancient shrines to local gods and spirits, and the connection to the divine remains a vital part of the culture at the folk level. Hermit holy-men, wandering mendicants, and local shrine-keepers are more common than formal temple priests.
+The Tarvenans have a complex relationship with magic and the divine. While Provénzia embraces arcane arts and mystical studies, Tarvénia has traditionally been more skeptical of magic, viewing it with suspicion or as a tool of the elite. That said, many cities hold ancient shrines to local gods and spirits, and the connection to the divine remains a vital part of the culture at the folk level. Hermit holy-men, wandering mendicants, and local shrine-keepers are more common than formal temple priests.
 
 ## Magic
 
@@ -47,9 +47,9 @@ The [[affiliation-ordoarcanis|Thordimalon]] has a limited presence in Tarvénia.
 
 ## Relations
 
-Tarvénia has begun to forge closer ties with the [[place-provenzrgn|Provenzia Region]] in recent years, especially in trade, but the two regions remain competitive rivals for dominance over the southern trade routes. Relations with the [[affiliation-vylarinmpr|Vylarian Empire]] are distant—the Tarvenans broke free of Vylarian control long ago ([[lore-tarvfallsawy|Tarvénia Falls Away]]) and have no desire to renew the relationship. [[place-elavendre|Élavendre]] to the north is viewed with a mix of respect and wariness; the Élavendren are admired for their arts but considered overly mystical and soft.
+Tarvénia has begun to forge closer ties with the [[place-provenzrgn|Provénzia Region]] in recent years, especially in trade, but the two regions remain competitive rivals for dominance over the southern trade routes. Relations with the [[affiliation-vylarinmpr|Vylarian Empire]] are distant—the Tarvenans broke free of Vylarian control long ago ([[lore-tarvfallsawy|Tarvénia Falls Away]]) and have no desire to renew the relationship. [[place-elavendre|Élavendre]] to the north is viewed with a mix of respect and wariness; the Élavendren are admired for their arts but considered overly mystical and soft.
 
-Within Tarvénia itself, the [[place-alndntrblnds#the-tarvenan-diaspora|Áelendan tribal enclaves]] of the Toravar Range and the northern forested uplands are the most distinctive non-Tarvénan presence on the peninsula. Áelendan communities—Pelwar forest-dwellers who recognize [[affiliation-theoldway|the Old Way]] of [[affiliation-firstgods|the First Gods]] rather than the Aureldian Twelve—occupy the high mountain country and the deepest forests, generally in territory the Tarvenan crown and the lowland feudal nobility have no use for. Relations are mostly cordial: the Áelendan leave the lowlands alone, the Tarvenans leave the high country alone, and a long-established practice of local accommodation between [[affiliation-alndnwrdns|Áelendan Wardens]] and Tarvenan barons handles the periodic frictions over straying herds, logging concessions, road-surveys near sacred groves, and the occasional Aureldian missionary who needs to be politely but firmly escorted out. Roughly once a generation a particularly stubborn baron meets a particularly unyielding clan and the result is a brief mountain-war that the crown of Tarvénia prefers to settle quickly through Élavendri diplomatic intermediaries. No Tarvenan king has ever attempted to bring the Áelendan enclaves under formal authority, and none is expected to. The crown is considerably less tolerant than Provenzia's of the tribes' defense of their sacred sites, and what accommodation exists is the barons' and the Wardens', not royal policy.
+Within Tarvénia itself, the [[place-alndntrblnds#the-tarvenan-diaspora|Áelendan tribal enclaves]] of the Toravar Range and the northern forested uplands are the most distinctive non-Tarvénan presence on the peninsula. Áelendan communities—Pelwar forest-dwellers who recognize [[affiliation-theoldway|the Old Way]] of [[affiliation-firstgods|the First Gods]] rather than the Aureldian Twelve—occupy the high mountain country and the deepest forests, generally in territory the Tarvenan crown and the lowland feudal nobility have no use for. Relations are mostly cordial: the Áelendan leave the lowlands alone, the Tarvenans leave the high country alone, and a long-established practice of local accommodation between [[affiliation-alndnwrdns|Áelendan Wardens]] and Tarvenan barons handles the periodic frictions over straying herds, logging concessions, road-surveys near sacred groves, and the occasional Aureldian missionary who needs to be politely but firmly escorted out. Roughly once a generation a particularly stubborn baron meets a particularly unyielding clan and the result is a brief mountain-war that the crown of Tarvénia prefers to settle quickly through Élavendri diplomatic intermediaries. No Tarvenan king has ever attempted to bring the Áelendan enclaves under formal authority, and none is expected to. The crown is considerably less tolerant than Provénzia's of the tribes' defense of their sacred sites, and what accommodation exists is the barons' and the Wardens', not royal policy.
 
 Tarvenan sailors and mercenaries are found across the [[place-vylarianse|Vylarian Sea]] and beyond. Their reputation as fierce fighters and skilled seafarers makes them valued (if sometimes unpredictable) allies and employees.
 
@@ -72,14 +72,14 @@ The Eskárathi Highlands
 [[place-durgalis|Dúrgalis]], [[place-herthema|Herthema]], [[place-nebralis|Nebralis]] and [[place-thorgila|Thórgila]]
 : the small towns that govern themselves by council
 
-[[place-provenzrgn|Provenzia Region]]
+[[place-provenzrgn|Provénzia Region]]
 : Western neighbor and rival
 
 [[place-elavendre|Élavendre]]
 : Northern neighbor
 
 [[place-westernmrch|Western March]], [[place-grayhghlnds|Gray Highlands]]
-: the Provenzian frontier and the high country of the companies
+: the Provénzian frontier and the high country of the companies
 
 [[affiliation-vylarinmpr|Vylarian Empire]]
 : Former imperial power

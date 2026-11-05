@@ -978,7 +978,7 @@ data:
     - form: lorrame
       class: n m
       field: Coin and trade
-      gloss: "silk; cloth from Provenzia"
+      gloss: "silk; cloth from Provénzia"
       source: {kind: borrowed, language: skill-provnzlng, form: lorrame}
     - form: pálmeza
       class: n f
@@ -1122,7 +1122,7 @@ data:
     - form: sourime
       class: n m
       field: "Speech, song and the learned"
-      gloss: "a singer from Provenzia"
+      gloss: "a singer from Provénzia"
       source: {kind: borrowed, language: skill-provnzlng, form: sourime}
     - form: olnare
       class: n m
@@ -1137,7 +1137,7 @@ data:
     - form: solmere
       class: n m
       field: "Speech, song and the learned"
-      gloss: "longing, as the Provenzians sing it"
+      gloss: "longing, as the Provénzians sing it"
       source: {kind: borrowed, language: skill-provnzlng, form: solmere}
     - form: kombrelalo
       class: n n
@@ -5282,7 +5282,7 @@ _En thaurad kremila_ expresses anger held within, and _en thaurad galeza_ joy. T
 
 _Orhena_ is a kindness received and the social debt it leaves. _Orhen_ remains the debt of honor arising from an insult. _Membron ol orhena_ is gratitude, grateful remembrance of a kindness. _Velda ol ko_ names admiration, esteem felt or shown toward you; the whole expression is used for appreciative regard. A name or the thing admired can replace _ko_. _Melvar velda ol ko_ gives profound reverence, and _ternandon ek velda ol ko_ joins fearful wonder to that esteem as awe.
 
-_Avrethon_ is contentment, peaceful satisfaction with what one has. _Avandon tambro_ names the feeling of a desire fulfilled; _avandon ar tambro_ the frustration of a desire blocked or unfulfilled. _Dorandar avandon_ is sustained yearning for someone or something absent. _Solmere_ retains longing in the manner of the Provenzian songs. _Varelon ol dunandon_ is confidence in one's ability; _zed varelon_ certainty that a claim is true, which can be mistaken. Truth itself is _varelza_.
+_Avrethon_ is contentment, peaceful satisfaction with what one has. _Avandon tambro_ names the feeling of a desire fulfilled; _avandon ar tambro_ the frustration of a desire blocked or unfulfilled. _Dorandar avandon_ is sustained yearning for someone or something absent. _Solmere_ retains longing in the manner of the Provénzian songs. _Varelon ol dunandon_ is confidence in one's ability; _zed varelon_ certainty that a claim is true, which can be mistaken. Truth itself is _varelza_.
 
 _Nethoron_ is romantic love; _holvethon_ the affection of friends; _sorethon_ the love of family; and _ulthnethoron_ selfless love given without seeking a return. Sexual lust is _bruzeza_. _Zed gerpalo_ is wholehearted loving devotion, and _thaurandon ol konandon_ loyalty to a bond without requiring a formal oath. _Konandon dun ko_ is companionship with you; _konandon ol nethora_ emotional intimacy, closeness of hearts. _Zelmira hir ko_ is pity for your distress; _zelmira dun ko_ sympathy that shares your sorrow. _Hir_ names the person concerned or benefited, while _dun_ marks accompaniment or sharing in these expressions.
 
@@ -5401,7 +5401,7 @@ Ervothandis, Zedimis, Zenothis, Orthemandis, Iltheris, Thaluris, Korvathandis, O
 
 On the road down from the passes a company is coming home. The captain is _thrumar_ and the men are sworn to him for the season, _daro_, sworn men, by the contract, _semna_, that every one of them can recite. In the villages they pass, a lantern stands on each threshold, because it is the season when the dead walk the roads, and every word the villagers have for that is older than the tongue the company speaks.
 
-This is the word-hoard of Tarveni, the tongue of the Tarvenans. It is the daughter of ancient Vylari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the shape every word of the old speech keeps, and the few words taken back from the empire and from [[place-provenzrgn|Provenzia]].
+This is the word-hoard of Tarveni, the tongue of the Tarvenans. It is the daughter of ancient Vylari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the shape every word of the old speech keeps, and the few words taken back from the empire and from [[place-provenzrgn|Provénzia]].
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -5452,7 +5452,7 @@ The speech the Pelwar found in the mountains left no inscription and no name for
 
 ## The learned and borrowed words {#the-learned-and-borrowed-words}
 
-A few words came back into the tongue from the empire's schools and temples, in the empire's spelling, keeping the `z` the imperial tongue made of an ancient `dh` and the hard stops it never voiced: the inherited altar is _kur_ and the learned one _kurzalis_. A handful more came up the coast from Provenzia with its songs and its silk.
+A few words came back into the tongue from the empire's schools and temples, in the empire's spelling, keeping the `z` the imperial tongue made of an ancient `dh` and the hard stops it never voiced: the inherited altar is _kur_ and the learned one _kurzalis_. A handful more came up the coast from Provénzia with its songs and its silk.
 
 ## Words {#words}
 
@@ -5512,7 +5512,7 @@ The deeds of a company are recited in _oldemo_, a history, the word the empire u
 
 ### Towns, holdings and the road
 
-A Tarvenan holding is _kombrelalo_, the land and the house together, run by whoever is home. The manor at its heart is _kombra_, which in the empire is a villa. The towns are smaller than Provenzia's and older, with an arch, _kambelo_, over the road in and a square, _emba_, inside it where a free city's council meets in the open.
+A Tarvenan holding is _kombrelalo_, the land and the house together, run by whoever is home. The manor at its heart is _kombra_, which in the empire is a villa. The towns are smaller than Provénzia's and older, with an arch, _kambelo_, over the road in and a square, _emba_, inside it where a free city's council meets in the open.
 
 ### The coast and the sea
 

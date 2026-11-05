@@ -181,8 +181,8 @@ The party must decide how to address the ghost ships. Options include:
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[affiliation-ordoarcanis|Thordimalon]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]

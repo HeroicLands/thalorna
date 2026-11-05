@@ -3,25 +3,25 @@ shortcode: thuravelhills
 name: {full: Túravel Hills}
 type: place
 subType: feature
-description: "A range of low wooded hills in southern Provenzia, thinly settled and poorly mapped, remembered in song as a country of the older faith and avoided by people who will not say why."
+description: "A range of low wooded hills in southern Provénzia, thinly settled and poorly mapped, remembered in song as a country of the older faith and avoided by people who will not say why."
 tags: [hill, woodland, inland]
 data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
 ---
 
-The **Túravel Hills** roll across the south of the [[place-provenzrgn|Provenzia Region]]—low,
+The **Túravel Hills** roll across the south of the [[place-provenzrgn|Provénzia Region]]—low,
 wooded, thinly settled, and mapped with a vagueness unusual in so well-surveyed a kingdom. Roads skirt
 them. The villages at their edges are small, old and inward, and the shepherds who take flocks onto the
 higher ground keep to paths that are not written down anywhere.
 
 There is nothing forbidding about the country itself. It is good pasture and fair timber, and no
-authority has ever declared it closed. It is simply that Provenzians who live near the Túravel do not
+authority has ever declared it closed. It is simply that Provénzians who live near the Túravel do not
 go far into them without a reason, and give reasons that do not survive much questioning.
 
 ## The Older Faith
 
 The hills were a country of [[affiliation-theoldway|the Old Way]] before the
 [[affiliation-arldnpnthn|Aureldian Pantheon]] was worshipped here, and they were never really converted so much as
-left alone. Provenzian church records treat the district as settled and orthodox. Provenzian _songs_
+left alone. Provénzian church records treat the district as settled and orthodox. Provénzian _songs_
 do not, and the ballads collected from the hill villages are full of observances no priest of the
 Twelve would recognize and place-names that appear on no map.
 
@@ -47,4 +47,4 @@ is romantic invention by collectors. The people of the hills decline to help the
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]] · [[affiliation-firstgods|the First Gods]]
+- [[place-provenzrgn|Provénzia Region]] · [[affiliation-firstgods|the First Gods]]

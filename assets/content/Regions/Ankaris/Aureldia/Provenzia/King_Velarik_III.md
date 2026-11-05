@@ -3,7 +3,7 @@ shortcode: kingvelarikiii
 name: {full: King Vélarik III}
 type: being
 subType: npc
-description: "A king of Provenzia."
+description: "A king of Provénzia."
 tags: [draft]
 data:
   icon: icon-person
@@ -19,4 +19,4 @@ data:
   packFolder: provenzia
 ---
 
-**Vélarik III** of [House Lédravren]{.name data-type="affiliation/lineage"} reigned over [[affiliation-kngdmprvnz|Provenzia]] from about 688 AF to about 709 AF. He is the king under whom the clan of [[place-gwefavel|Gefavel]] lost its standing. [Kralen Lédravren]{.name data-type="being/npc"} succeeded him and reigns now.
+**Vélarik III** of [House Lédravren]{.name data-type="affiliation/lineage"} reigned over [[affiliation-kngdmprvnz|Provénzia]] from about 688 AF to about 709 AF. He is the king under whom the clan of [[place-gwefavel|Gefavel]] lost its standing. [Kralen Lédravren]{.name data-type="being/npc"} succeeded him and reigns now.

@@ -399,7 +399,7 @@ Arlake Valskir is a 38-year-old man who stands 6'1" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Arlake Valskir came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Arlake Valskir came into the world of the animal trainer through a combination of circumstance and aptitude.
 
 A rugged animal trainer who works with hunting dogs. Braden has a talent for taming wild beasts and often participates in local hunts.
 
@@ -421,7 +421,7 @@ Great rapport with animals, strong endurance.
 
 Arlake is affiliated with the [Hunter's Guild]{.name data-type="affiliation/guild"}.
 
-As a Provenzian animal trainer, Arlake occupies a recognized social niche within Provenzia society.
+As a Provénzian animal trainer, Arlake occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -436,7 +436,7 @@ Rival animal trainer who sabotages his efforts.
 ## Plot Hooks
 
 The Animal Trainer's Dilemma
-: Arlake faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
+: Arlake faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
 
 Old Grudges
 : Rival animal trainer who sabotages his efforts. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -445,7 +445,7 @@ Echoes of the Past
 : Something from Arlake's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Arlake depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Arlake depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Arlake the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

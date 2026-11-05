@@ -98,7 +98,7 @@ A settlement rite performed over the field, in the rite of the people whose dead
 
 ## How Rare
 
-[[place-provenzrgn|Provenzia]] has more than anywhere else, and [[lore-bloodfields|the Blood-fields of Provenzia]] gives the reason. Elsewhere a people has two or three across its whole history, one to a great war at most.
+[[place-provenzrgn|Provénzia]] has more than anywhere else, and [[lore-bloodfields|the Blood-fields of Provénzia]] gives the reason. Elsewhere a people has two or three across its whole history, one to a great war at most.
 
 **[[affiliation-blackflame|The Black Flame]]** works fields wherever it finds them. A field can be worked on—its kind roused and deepened, its thinness drawn out, and its ruin turned on the district around it—and the Cult of the Black Flame does that work anywhere a field lies. The [[place-bldfldyharvalen|Blood-field of Yarvalen]] is the worked field every reader can name.
 
@@ -106,12 +106,12 @@ A settlement rite performed over the field, in the rite of the people whose dead
 
 | People        | Word           | What it means                                                                                                                                  |
 | ------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Provenzia     | blood-field    | The Provenzian word, which these pages use for every people's fields                                                                           |
+| Provénzia     | blood-field    | The Provénzian word, which these pages use for every people's fields                                                                           |
 | Vedyara       | _shorukshetra_ | "blood-field"; a thin one is a _ghurakshetra_, "cursed field"                                                                                  |
 | The Nordlands | _vrellvoll_    | "blood-field", heard as a small last battle: _vrell-_, blood, and _-voll_, the field a battle is fought on                                     |
 | The Varokh    | _vristgrund_   | "ground held by nobody": _vrist-_, free of any claim, and _-grund_, the floor of a valley, the word that answers _weskgrund_, the totem's land |
-| Helionis      | blood-field    | The Helionite cities name a field for its battle, and these pages use the Provenzian word                                                      |
-| Bizaria       | blood-field    | The League's records name a field for the nearest fort, and these pages use the Provenzian word                                                |
+| Helionis      | blood-field    | The Helionite cities name a field for its battle, and these pages use the Provénzian word                                                      |
+| Bizaria       | blood-field    | The League's records name a field for the nearest fort, and these pages use the Provénzian word                                                |
 | Au'Khelathu   | _zelqezat_     | "the place of a battle"; a thin one is a _zelalgit_, "the Devourer's place"                                                                    |
 
 ## Vedyara: the Shorukshetra
@@ -160,7 +160,7 @@ In the Nordlands a death is not finished until the grave-ale is drunk. The pyre,
 
 **How the halls live beside one.** Nobody lives on Domsey and nobody may; neither shore of [[place-skalfvatan|Skalfvatan]] fishes its anniversary month, and children learn the marching beat under the ice as the sound to run from; [[place-targud|Targud]]'s watch crosses [[place-dvulgvangur|Dvulgvangur]] by noon or not at all. Nobody keeps any of them by office. The Landsgudi pours one cup at the law-rock "for the ones the count left out", the kin from the [[affiliation-kingdomlgn|Kingdom of Malagna]] keep eleven hundred named stones and one blank one above the lake, and the fort-captains of Targud keep their musters off the ford after dusk.
 
-Three fields in the north, one to each great war, and a fourth that northern hands made abroad. Domsey, where the five kings' hirvs killed each other on the strand in 287 and the ale was never drunk, a silence, thin, and held shut only at the sittings; Skalfvatan, where Malagna's king and eleven hundred men went through the ice in 466, a recurrence; and Dvulgvangur, where Targud's hirv and its farmers held a ford against a Grukar horde for three days in 613 and were carried off, a dread. The [[place-bldfldyharvalen|Blood-field of Yarvalen]] in Provenzia was made by the Nordheim fleets of about 520, and it is Provenzia's. [[place-haulonna|Thalmdal]] (Haulonna), [[place-askholm|Askholm]] and [[place-isdal|Isdal]] are a sorcery on an enclave, a burning and a sickness, and the north calls none of them a _vrellvoll_.
+Three fields in the north, one to each great war, and a fourth that northern hands made abroad. Domsey, where the five kings' hirvs killed each other on the strand in 287 and the ale was never drunk, a silence, thin, and held shut only at the sittings; Skalfvatan, where Malagna's king and eleven hundred men went through the ice in 466, a recurrence; and Dvulgvangur, where Targud's hirv and its farmers held a ford against a Grukar horde for three days in 613 and were carried off, a dread. The [[place-bldfldyharvalen|Blood-field of Yarvalen]] in Provénzia was made by the Nordheim fleets of about 520, and it is Provénzia's. [[place-haulonna|Thalmdal]] (Haulonna), [[place-askholm|Askholm]] and [[place-isdal|Isdal]] are a sorcery on an enclave, a burning and a sickness, and the north calls none of them a _vrellvoll_.
 
 ## The Varokh: the Vristgrund
 
@@ -176,13 +176,13 @@ A _vristgrund_ (blood-field) is ground where many died at once and no Shaman cal
 
 In Aureldia the dead are judged. The Threshold Keepers of Sélmoros perform the funeral rites and enter the dead in the temple records, and the Silent Judge receives each soul and weighs it without speaking. The judged go on to the [Field of the Blessed]{.name data-type="place/region"}, a region of the spirit realm that Aureldian death-traditions have shaped over millennia. A blood-field is ground where thousands died and were not judged in order, and the clergy of Sélmoros end one by settlement: a formal placing of the dead in the god's keeping, which works perhaps half the time and is paid for by the district that asks.
 
-**The ground, not the battle.** [[place-provenzrgn|Provenzia]] has more fields than anywhere else, and its custom is to name the ground and let the battle go ([[lore-bloodfields|The Blood-fields of Provenzia]]). The battle at [[place-bldfldtiravlen|Tiravlen]] is known only from the Vylarian account, and no record says what war made [[place-bldfldkyvarel|Blood-field of Kivarel]] or [[place-bldfldcalvenza|Blood-field of Kalvenza]].
+**The ground, not the battle.** [[place-provenzrgn|Provénzia]] has more fields than anywhere else, and its custom is to name the ground and let the battle go ([[lore-bloodfields|The Blood-fields of Provénzia]]). The battle at [[place-bldfldtiravlen|Tiravlen]] is known only from the Vylarian account, and no record says what war made [[place-bldfldkyvarel|Blood-field of Kivarel]] or [[place-bldfldcalvenza|Blood-field of Kalvenza]].
 
 **[[place-elavendre|Élavendre]] has none.** Its thin places are [[lore-aralwen|aralwain]], natural and kept by the Wardens. Its wars were fought by not being where the army was, and [[lore-elvtribute|the war of the tribute]] and [[lore-sorvandaclose|the Sórvanda Closing]] cost lives without a slaughter. The [[lore-aelendnppl|Áelendan dead]] are commended onward by their shamans, and the Death-Speakers go to [[lore-ossendaspr|Óssenda]] to ask whether they have gone.
 
 **A rite must be the dead's own.** Sélmoros places in his keeping the dead who were his. The legion that died in [[place-horngorge|the Horn Gorge]] kept the Twelve, so a settlement could reach it, though no one has paid for one. The [[affiliation-saelvri|Saelvri]] did not keep the Twelve, and the rite they kept for their dead died with them, so no rite the living keep can settle [[place-hushwood|the Hushwood]]. It is the newest field in Aureldia and the only one in living memory.
 
-Aureldia has eight fields: six in Provenzia, the Horn Gorge in [[place-asturath|Asturath]] and the Hushwood on Aelwyth. [[affiliation-twinbldrdr|The Twinblade Order]] keeps stations at a few battlefields as guards at a threshold, and keeps none of them. [[place-threesisters|The Three Sisters]], where the [Great War of Aelwyth]{.name data-type="lore/history"} ended, left no field, and nothing marks the ground.
+Aureldia has eight fields: six in Provénzia, the Horn Gorge in [[place-asturath|Asturath]] and the Hushwood on Aelwyth. [[affiliation-twinbldrdr|The Twinblade Order]] keeps stations at a few battlefields as guards at a threshold, and keeps none of them. [[place-threesisters|The Three Sisters]], where the [Great War of Aelwyth]{.name data-type="lore/history"} ended, left no field, and nothing marks the ground.
 
 ## Helionis: the Herald's Crossing
 
@@ -206,8 +206,8 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-jilaq\|Jilaq]]                       | The Khazryn steppe         | [[lore-towercities\|The Tower Cities]]                       | ~190 BF | recurrence           | thin                            |
 | [[place-thirstground\|The Thirsting Ground]] | Bizaria                    | [[lore-heladwells\|The Battle of the Wells]]                 | 158 BF  | silence              | moderate                        |
 | [[place-horngorge\|The Horn Gorge]]          | Tarvénia (Vylarian dead)   | [[lore-horngorgebtl\|The Battle of the Horn Gorge]]          | ~143 AF | recurrence           | moderate                        |
-| [[place-bldfldtiravlen\|Tiravlen]]           | Provenzia                  | [[lore-tiravlenbattle\|Tiravlen]]                            | ~152 AF | recurrence           | slight                          |
-| [[place-bloodhills\|The Blood Hills]]        | Provenzia                  | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]        | ~248 AF | dread                | moderate, thin at the shrine    |
+| [[place-bldfldtiravlen\|Tiravlen]]           | Provénzia                  | [[lore-tiravlenbattle\|Tiravlen]]                            | ~152 AF | recurrence           | slight                          |
+| [[place-bloodhills\|The Blood Hills]]        | Provénzia                  | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]        | ~248 AF | dread                | moderate, thin at the shrine    |
 | [[place-eleventhgran\|The Eleventh Granary]] | Au'Khelathu                | [[lore-sealedgran\|The Battle of the Sealed Granaries]]      | 268 AF  | withering, contained | moderate, worse in lean years   |
 | [[place-gajastal\|Gajastal]]                 | Vedyara                    | [[lore-fieldelephnt\|The Field of Elephants]]                | ~270 AF | recurrence           | slight                          |
 | [[place-domsey\|Domsey]]                     | The Nordlands              | [[lore-nordfirstsit\|The First Sitting on Domsey]]           | 287 AF  | silence              | thin, quieted at each sitting   |
@@ -218,23 +218,23 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-olcassafld\|Olkassa]]                | Vylaria                    | [[lore-olcassabtl\|The Battle of Olkassa]]                   | ~401 AF | quickening           | moderate                        |
 | [[place-skalfvatan\|Skalfvatan]]             | The Nordlands              | [[lore-nordkinwars\|The Kin-Wars]]                           | 466 AF  | recurrence           | moderate                        |
 | [[place-blackmarshfld\|The Black Marsh]]     | Moktur (the Varokh dead)   | [[lore-blackmarshbtl\|The Battle of the Black Marsh]]        | 520 AF  | dread                | thin                            |
-| [[place-bldfldyharvalen\|Yarvalen]]          | Provenzia                  | [[lore-southrnfleets\|The Southern Fleets]]                  | ~520 AF | withering            | thin, worked on                 |
+| [[place-bldfldyharvalen\|Yarvalen]]          | Provénzia                  | [[lore-southrnfleets\|The Southern Fleets]]                  | ~520 AF | withering            | thin, worked on                 |
 | [[place-grimak\|Grimak]]                     | The Varokh                 | [[lore-grimakburning\|The Burning at Grimak]]                | ~536 AF | silence              | moderate, thin in the hollow    |
 | [[place-qimod\|Qiimod]]                      | The Khazryn steppe         | the sack of the spur town                                    | ~548 AF | silence              | thin                            |
-| [[place-bldfldmalnebris\|Malnebris]]         | Provenzia                  | [[lore-malnebris\|Malnebris]]                                | ~556 AF | recurrence           | moderate in the campaign season |
+| [[place-bldfldmalnebris\|Malnebris]]         | Provénzia                  | [[lore-malnebris\|Malnebris]]                                | ~556 AF | recurrence           | moderate in the campaign season |
 | [[place-dvulgvangur\|Dvulgvangur]]           | The Nordlands (Targud)     | [[lore-burningeast\|The Burning of the East]]                | 613 AF  | dread                | thin                            |
 | [[place-henhulpedin\|Henhutpedin]]           | Tellumel                   | the Breaking                                                 | ~620 AF | recurrence           | moderate                        |
 | [[place-relvanvesul\|Relvanvesut]]           | Tellumel                   | the Breaking                                                 | ~620 AF | recurrence           | moderate                        |
 | [[place-hushwood\|The Hushwood]]             | Aelwyth (the Saelvri dead) | [[lore-saelvricrusade\|The Saelvri Crusade]]                 | ~703 AF | silence              | thin                            |
-| [[place-bldfldkyvarel\|Kivarel]]             | Provenzia                  | —                                                            | —       | quickening           | moderate                        |
-| [[place-bldfldcalvenza\|Kalvenza]]           | Provenzia                  | —                                                            | —       | silence              | slight                          |
+| [[place-bldfldkyvarel\|Kivarel]]             | Provénzia                  | —                                                            | —       | quickening           | moderate                        |
+| [[place-bldfldcalvenza\|Kalvenza]]           | Provénzia                  | —                                                            | —       | silence              | slight                          |
 
 ## See Also
 
 [[lore-aralwen|Aralwen]]
 : the natural thin places, which a blood-field is not
 
-[[lore-bloodfields|The Blood-fields of Provenzia]]
+[[lore-bloodfields|The Blood-fields of Provénzia]]
 : the kingdom with more fields than anywhere else
 
 [[affiliation-agmipantra|Agmi-pantra]]

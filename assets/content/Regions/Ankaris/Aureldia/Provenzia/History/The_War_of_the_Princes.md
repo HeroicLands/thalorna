@@ -3,7 +3,7 @@ shortcode: warprinces
 name: {full: The War of the Princes, en: [The Kéravian Rebellion]}
 type: lore
 subType: history
-description: "From 653 to 655 AF the kingdom of Provenzia fought over the succession after King Padran died with no clear heir; Keravel Vale was its battleground, House Dorgal was broken, and the war ended with the compromise accession of Dalenar Lédravren."
+description: "From 653 to 655 AF the kingdom of Provénzia fought over the succession after King Padran died with no clear heir; Keravel Vale was its battleground, House Dorgal was broken, and the war ended with the compromise accession of Dalenar Lédravren."
 tags: [history]
 data:
   packFolder: provenzia
@@ -75,9 +75,9 @@ The war ended with neither prince. The moderate houses of both parties found a t
 ## What It Left
 
 - **Grudges.** Every great house still nurses a grievance from the war, and the families know which.
-- **The Tanevar and Provenzian divide.** Traditional Tanevar leaders turned the country's discontent against the cities' rule, and the line between the two peoples has run where the war drew it ever since ([[affiliation-kngdmprvnz|The Kingdom of Provenzia]]).
+- **The Tanevar and Provénzian divide.** Traditional Tanevar leaders turned the country's discontent against the cities' rule, and the line between the two peoples has run where the war drew it ever since ([[affiliation-kngdmprvnz|The Kingdom of Provénzia]]).
 - **Weak local government.** Many districts never recovered the authority their lords held before the war.
-- **Keravel's divided villages.** The Tanevar peasantry and the Provenzian minority remember different wars.
+- **Keravel's divided villages.** The Tanevar peasantry and the Provénzian minority remember different wars.
 - **House Dorgal's burned seat.** A gutted manor in the [[place-talothe|Talote]], whose deeds were walled up in the cellar ([[place-ceravelvale|Keravel Vale]]).
 - **[[place-durvalis|Durvalis]].** The fortress town raised to hold the road ([[place-durvalis|Durvalis]]).
 - **A crown that contests the Council.** The argument over prerogative and taxation that still occupies the court.

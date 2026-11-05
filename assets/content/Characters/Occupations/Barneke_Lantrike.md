@@ -396,7 +396,7 @@ Barneke Lantrike is a 40-year-old man who stands 5'11" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a guilded family of [[lore-provenzianclt|Provenzian]] heritage, Barneke Lantrike came into the world of the bard through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a guilded family of [[lore-provenzianclt|Provénzian]] heritage, Barneke Lantrike came into the world of the bard through a combination of circumstance and aptitude.
 
 Barneke has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Barneke often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
 
@@ -418,7 +418,7 @@ Charismatic, experienced traveler, skilled diplomat.
 
 Barneke is affiliated with the [Bardic College]{.name data-type="affiliation"}.
 
-As a Provenzian bard, Barneke occupies a recognized social niche within Provenzia society.
+As a Provénzian bard, Barneke occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -433,7 +433,7 @@ Some who distrust him due to his tendency to embellish stories.
 ## Plot Hooks
 
 The Bard's Dilemma
-: Barneke faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
+: Barneke faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
 
 Old Grudges
 : Some who distrust him due to his tendency to embellish stories. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -442,7 +442,7 @@ Echoes of the Past
 : Something from Barneke's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Barneke depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Barneke depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Barneke the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

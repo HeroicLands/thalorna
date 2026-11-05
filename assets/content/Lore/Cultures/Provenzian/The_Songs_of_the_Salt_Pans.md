@@ -422,5 +422,5 @@ nureta, fir kanel ker cho kurete dena fos jo, ker jo tigate./
 [[place-zuravlenrgn|Zuravlen Region]]
 : the cold coast and its fishing
 
-[[lore-provenzianclt|Provenzian]]
+[[lore-provenzianclt|Provénzian]]
 : the patron, the advocate and the court a woman of the pans does not have

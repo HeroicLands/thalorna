@@ -44,4 +44,4 @@ imagines a lasting peace would be good news.
 
 ## See Also
 
-- [[place-tiravellake|Lake Tiravel]] · [[place-provenzrgn|Provenzia Region]]
+- [[place-tiravellake|Lake Tiravel]] · [[place-provenzrgn|Provénzia Region]]

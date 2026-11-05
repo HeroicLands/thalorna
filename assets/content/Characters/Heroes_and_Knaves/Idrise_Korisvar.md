@@ -421,7 +421,7 @@ sohl:
 
 ### The Foundling
 
-Ídrise's earliest memory is of cold stone and the sound of chanting. She was raised in the [Shrine of Brazemas the Stormkeeper]{.name data-type="affiliation"}, in the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within the shrine, no one would ever tell her—the monks spoke only of her arrival as an act of divine will. They raised her alongside their sons and daughters, training her from childhood in the disciplines of blade, body, and spirit. While other children played, Ídrise trained. While other girls learned needlework, she learned the anatomy of vulnerable points on the human body.
+Ídrise's earliest memory is of cold stone and the sound of chanting. She was raised in the [Shrine of Brazemas the Stormkeeper]{.name data-type="affiliation"}, in the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within the shrine, no one would ever tell her—the monks spoke only of her arrival as an act of divine will. They raised her alongside their sons and daughters, training her from childhood in the disciplines of blade, body, and spirit. While other children played, Ídrise trained. While other girls learned needlework, she learned the anatomy of vulnerable points on the human body.
 
 ### The Training and the Breaking
 
@@ -429,7 +429,7 @@ At sixteen, the shrine was attacked by bandits seeking to loot the treasury. Íd
 
 ### Current Path
 
-For the last decade, Ídrise has worked as an independent bodyguard in Provenzia's major cities, though she maintains loose affiliation with [The Mercenaries Guild of Provenzia]{.name data-type="affiliation/guild"} for contract purposes. She has developed a sterling reputation for absolute reliability and lethality, taking contracts only with clients whose goals she can morally accept. Her rates are high, and her services in constant demand. Yet she is deeply disconnected from normal human life—she moves through the world aware of lines of attack and exit routes, unable to simply exist without weighing danger.
+For the last decade, Ídrise has worked as an independent bodyguard in Provénzia's major cities, though she maintains loose affiliation with [The Mercenaries Guild of Provénzia]{.name data-type="affiliation/guild"} for contract purposes. She has developed a sterling reputation for absolute reliability and lethality, taking contracts only with clients whose goals she can morally accept. Her rates are high, and her services in constant demand. Yet she is deeply disconnected from normal human life—she moves through the world aware of lines of attack and exit routes, unable to simply exist without weighing danger.
 
 ## Psyche
 
@@ -509,7 +509,7 @@ Her own past, an inner enemy
 
 ### Affiliations
 
-The Mercenaries Guild of Provenzia
+The Mercenaries Guild of Provénzia
 : She maintains loose membership for contract purposes, though she is often at odds with the Guild's leadership over their willingness to take any contract regardless of moral considerations.
 
 The Shrine of Brazemas

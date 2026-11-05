@@ -18,7 +18,7 @@ data:
         - place-aureliane
         - affiliation-vylarinmpr
       summary: >-
-        The legions land below Aurelane and march north-east up the river roads. The Tanevar kings gather their hosts at Lake Tiravel, the richest basin they hold, and are broken on the shore; many are driven into the water. The province of the West is made, with Aurelane its capital. The Vylarian record of the battle burns with the archive on Arvel, and Provenzians keep only the ground's name.
+        The legions land below Aurelane and march north-east up the river roads. The Tanevar kings gather their hosts at Lake Tiravel, the richest basin they hold, and are broken on the shore; many are driven into the water. The province of the West is made, with Aurelane its capital. The Vylarian record of the battle burns with the archive on Arvel, and Provénzians keep only the ground's name.
       standing: attested
       names:
         - {name: Tiravlen, by: place-bldfldtiravlen}

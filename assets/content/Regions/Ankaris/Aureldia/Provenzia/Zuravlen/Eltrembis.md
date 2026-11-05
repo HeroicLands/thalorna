@@ -19,7 +19,7 @@ valley grows. Some fourteen hundred people live there—more in August, very man
 fair—and almost none of them farm.
 
 It is the seat of **Baron [Selvare Zuravel]{.name data-type="being/npc"}**, who holds [[affiliation-brnyzrvln|Zuravlen]] of the
-[[affiliation-kngdmprvnz|Crown of Provenzia]] and whose hall stands above the town rather than in it,
+[[affiliation-kngdmprvnz|Crown of Provénzia]] and whose hall stands above the town rather than in it,
 and the administrative center of the barony: the water-rolls, the manor customs and the grading
 records are all kept here.
 
@@ -51,7 +51,7 @@ The **autumn fair** runs eight days after the harvest is in. Factors come up fro
 the wool clip is sold; the cheese comes down from the uplands; the year's rents, debts and disputes are
 settled, and the manor courts hold their most crowded sessions of the year.
 
-For those eight days Eltrembis is one of the wealthiest small towns in Provenzia, and knows it.
+For those eight days Eltrembis is one of the wealthiest small towns in Provénzia, and knows it.
 
 ## Notable Features
 
@@ -65,4 +65,4 @@ For those eight days Eltrembis is one of the wealthiest small towns in Provenzia
 
 ## See Also
 
-- [[place-zuravlenrgn|Zuravlen Region]] · [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-zuravlenrgn|Zuravlen Region]] · [[affiliation-kngdmprvnz|Kingdom of Provénzia]]

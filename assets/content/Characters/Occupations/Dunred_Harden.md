@@ -439,7 +439,7 @@ The Purveyance
 : The Purveyor has requisitioned Dunred's whole stock of cloth for the coronation at the crown's price, a third of what it cost him. He can refuse and lose the household, or accept and lose the year.
 
 The Raider's Bolt
-: A bolt of [[lore-provenzianclt|Provenzian]] silk has come to Dunred cheap through a harbor in [[place-stormveld|Stormveld]], off a ship the [[lore-nordheimnclt|Nordmen]] took. The baron who wants it has a son who died on that ship.
+: A bolt of [[lore-provenzianclt|Provénzian]] silk has come to Dunred cheap through a harbor in [[place-stormveld|Stormveld]], off a ship the [[lore-nordheimnclt|Nordmen]] took. The baron who wants it has a son who died on that ship.
 
 The Descent
 : The court is coming to Kingshollow a month early, and the steward has asked for a feast's worth of plate and hangings that are still at sea.

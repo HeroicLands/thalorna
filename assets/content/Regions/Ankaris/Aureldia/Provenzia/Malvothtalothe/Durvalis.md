@@ -3,7 +3,7 @@ shortcode: durvalis
 name: {full: Durvalis}
 type: place
 subType: settlement
-description: "The fortress town of Talote, Provenzia's eastern march—the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
+description: "The fortress town of Talote, Provénzia's eastern march—the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
 tags: [town, fortified, frontier, mountain]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
 ---
 
 **Durvalis**—the bright castle—commands the road below the Tarvénian passes, and is the
-military seat of [[place-talothe|Talote]], the [[place-provenzrgn|Provenzia Region]]'s eastern march.
+military seat of [[place-talothe|Talote]], the [[place-provenzrgn|Provénzia Region]]'s eastern march.
 
 It is not an old town, which distinguishes it from almost everything else on this frontier. It was
 built after [[lore-warprinces|the War of the Princes]], deliberately and at considerable expense, to hold a road that had been raided along since [[lore-malnebris|Malnebris]] and that a Tarvénian host had walked unopposed in the war's second year. Its walls are the newest of any consequence in the kingdom: high, thick, unromantic,
@@ -41,7 +41,7 @@ season has had no time for—claims over stolen stock, disputed ransoms, the sta
 border families, and the occasional charge against an officer that could not safely be brought while
 he was needed.
 
-It is the most honest court in Provenzia, in the estimation of the people who appear before it, largely
+It is the most honest court in Provénzia, in the estimation of the people who appear before it, largely
 because everyone involved is snowed in together and will be until spring.
 
 ## See Also

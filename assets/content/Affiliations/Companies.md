@@ -14,7 +14,7 @@ Companies are among the groups of individuals of note in [[place-worldthlrn|the 
 : A volatile band of road bandits operating in the Vristwald, preying on merchant caravans along the old Vylarian trade road. Led by the ruthless former serf Dagbán yra Vethar wur Thrareth, the six outlaws are held together only by desperation—and riddled with internal tensions that threaten to tear them apart.
 
 [[affiliation-slntlncmpny|Silent Talon]]
-: A mercenary company based out of Provenzia, specializing in both battlefield operations and covert missions. Led by Captain Branval Dorgal, a dispossessed noble seeking to reclaim his family's lost lands, the five-member band has earned a reputation for discretion and precision in morally gray contracts.
+: A mercenary company based out of Provénzia, specializing in both battlefield operations and covert missions. Led by Captain Branval Dorgal, a dispossessed noble seeking to reclaim his family's lost lands, the five-member band has earned a reputation for discretion and precision in morally gray contracts.
 
 [[affiliation-thetamzir|The Crew of the Tamzir]]
 : The crew of a weathered coastal trader plying the Vylarian Sea under Captain Zabuzum Jakuduni, a disillusioned war veteran. They juggle legitimate trade with smuggling and contract work that respectable captains refuse—all while harboring the fugitive Serenthis siblings, one of whom possesses extraordinary and dangerous arcane power.

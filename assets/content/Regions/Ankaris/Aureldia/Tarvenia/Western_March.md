@@ -3,7 +3,7 @@ shortcode: westernmrch
 name: {full: Western March, en: [The Western March, Western Marches]}
 type: place
 subType: region
-description: "Tarvénia's side of the Provenzian frontier: high valleys under the Toravar's western arm, held by barons who go down the passes into the Talote every summer in a war neither crown declares."
+description: "Tarvénia's side of the Provénzian frontier: high valleys under the Toravar's western arm, held by barons who go down the passes into the Talote every summer in a war neither crown declares."
 tags: [region, frontier, mountain]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-The Western March is [[place-tarvenirgn|Tarvénia]]'s side of its frontier with [[place-provenzrgn|Provenzia]]: the high valleys under the western arm of the [[place-toravarrange|Toravar Range]], where the passes go over into [[place-talothe|the Talote]], Provenzia's eastern march. Its barons have fought the same quarrel with the border families on the far side of the passes since about 556 AF, when [Mórezan]{.name data-type="being/npc"}, the second High King, took a host down the pass ([[lore-malnebris|The First Great Raid]]). The March calls that quarrel [[lore-summerwar|The Summer War]]. It has a season, because the passes close: the hosts go down when the snow clears and come home when it returns.
+The Western March is [[place-tarvenirgn|Tarvénia]]'s side of its frontier with [[place-provenzrgn|Provénzia]]: the high valleys under the western arm of the [[place-toravarrange|Toravar Range]], where the passes go over into [[place-talothe|the Talote]], Provénzia's eastern march. Its barons have fought the same quarrel with the border families on the far side of the passes since about 556 AF, when [Mórezan]{.name data-type="being/npc"}, the second High King, took a host down the pass ([[lore-malnebris|The First Great Raid]]). The March calls that quarrel [[lore-summerwar|The Summer War]]. It has a season, because the passes close: the hosts go down when the snow clears and come home when it returns.
 
 ## The Land {#the-land}
 
@@ -26,7 +26,7 @@ The year turns on the snow. In winter the passes are shut, the valleys keep to t
 
 ## Who Holds It {#who-holds-it}
 
-Each valley is a baron's, held from a tower or a fortified house, and the baron brings its men down the pass under his own banner. No crown governs the March as a whole. The High King of [[affiliation-kingdmtrvn|Tarvénia]] claims it as he claims every Tarveni-speaking land, and the crown presses its claims on the Talote's uplands whenever the court of [[affiliation-kngdmprvnz|Provenzia]] is weak.
+Each valley is a baron's, held from a tower or a fortified house, and the baron brings its men down the pass under his own banner. No crown governs the March as a whole. The High King of [[affiliation-kingdmtrvn|Tarvénia]] claims it as he claims every Tarveni-speaking land, and the crown presses its claims on the Talote's uplands whenever the court of [[affiliation-kngdmprvnz|Provénzia]] is weak.
 
 The March's houses raise knights for the border. [[being-srdlvnthrvkknghtwstrnmrchs|Sir Dalven Thorvek]], the youngest son of a prominent house of the March, made his name in its campaigns and is known through the valleys as the Knight of the Western Marches.
 
@@ -39,10 +39,10 @@ The March's houses raise knights for the border. [[being-srdlvnthrvkknghtwstrnmr
 : the fort that holds the head of Grumagando on the March's side.
 
 [[place-bldfldmalnebris|The Blood-field of Malnebris]]
-: the field on the road below the pass, on the Provenzian side.
+: the field on the road below the pass, on the Provénzian side.
 
 [[place-durvalis|Durvalis]]
-: the fortress town of the Talote, where Provenzia musters against the March.
+: the fortress town of the Talote, where Provénzia musters against the March.
 
 ## Current Situation {#present}
 
@@ -59,7 +59,7 @@ The dead of the first raid still lie on the road below Grumagando. A Tarvenan ho
 
 ## History {#history}
 
-The war began with Mórezan's raid about 556 AF ([[lore-malnebris|The First Great Raid]]). Tarvénian hosts pressed the march while the province fought its _therkos_ from about 609 to 618 ([[lore-charterwar|The War of the Charter]]), and in 654 a host went through [[place-ceravelvale|Keravel Vale]] unopposed ([[lore-warprinces|The War of the Princes]]), after which Provenzia raised Durvalis to hold the road. [[lore-summerwar|The Summer War]] tells the quarrel from the March's side.
+The war began with Mórezan's raid about 556 AF ([[lore-malnebris|The First Great Raid]]). Tarvénian hosts pressed the march while the province fought its _therkos_ from about 609 to 618 ([[lore-charterwar|The War of the Charter]]), and in 654 a host went through [[place-ceravelvale|Keravel Vale]] unopposed ([[lore-warprinces|The War of the Princes]]), after which Provénzia raised Durvalis to hold the road. [[lore-summerwar|The Summer War]] tells the quarrel from the March's side.
 
 ## See Also
 
@@ -70,7 +70,7 @@ The war began with Mórezan's raid about 556 AF ([[lore-malnebris|The First Grea
 : the mountains whose western arm the March lies under
 
 [[place-talothe|Talote]]
-: Provenzia's march across the passes
+: Provénzia's march across the passes
 
 [[lore-summerwar|The Summer War]]
 : the quarrel told from the March's side

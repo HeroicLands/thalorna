@@ -397,7 +397,7 @@ Zalren Liskal is a 54-year-old man who stands 6'0" tall and is of moderate build
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Zalren Liskal came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Zalren Liskal came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
 Zalren has been a woodcrafter for over thirty years, known for his craftsmanship in building sturdy furniture and everyday items. He learned the craft from his grandfather, who instilled in him a love for woodworking and a dedication to quality. Zalren's workshop is filled with tools and half-finished projects, reflecting his preference for practicality over aesthetics. Although his work lacks decorative flair, it is highly valued for its durability.
 
@@ -419,7 +419,7 @@ Skilled at creating sturdy, functional items, highly experienced, practical.
 
 Zalren is affiliated with the [Rural Craftsmen's Guild]{.name data-type="affiliation/guild"}.
 
-As a Provenzian woodcrafter, Zalren occupies a recognized social niche within Provenzia society.
+As a Provénzian woodcrafter, Zalren occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -434,7 +434,7 @@ None; respected for his consistency and reliability.
 ## Plot Hooks
 
 The Woodcrafter's Dilemma
-: Zalren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
+: Zalren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
 
 Old Grudges
 : None; respected for his consistency and reliability. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -443,7 +443,7 @@ Echoes of the Past
 : Something from Zalren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Zalren depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Zalren depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Zalren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

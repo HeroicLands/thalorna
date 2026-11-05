@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Torvila Keravel is the castle town that anchors [[place-ceravelvale|Keravel Vale]], the place every road in the vale eventually leads to and every lord in it answers to. Its castle is the command of **Khirata [Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}**, the Elgar of Keravel Castle and **Marshal of the Western Army** of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], and a petitioner who wants the vale's justice comes here to get it.
+Torvila Keravel is the castle town that anchors [[place-ceravelvale|Keravel Vale]], the place every road in the vale eventually leads to and every lord in it answers to. Its castle is the command of **Khirata [Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}**, the Elgar of Keravel Castle and **Marshal of the Western Army** of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], and a petitioner who wants the vale's justice comes here to get it.
 
 ## The Marshal's Command
 
@@ -29,5 +29,5 @@ The Western Army is named for the old province of the West that the kingdom grew
 [[place-belsaren|Belsaren]]
 : the lordship the Marshal handed to Tarlas
 
-[[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+[[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : the kingdom the Marshal serves, its magnates and its feuds

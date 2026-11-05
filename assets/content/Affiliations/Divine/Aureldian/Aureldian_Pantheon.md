@@ -46,7 +46,7 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation:** _Aw-REL-dee-ahn_
 
-The Aureldian pantheon is the dominant pantheon in the western part of the [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across the [[affiliation-vylarinmpr|Vylarian Empire]], the [[place-provenzrgn|Provenzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Helionis]], [[affiliation-cnfdrtntrzlnstts|Taruzel]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and the [[place-byzariargn|Bizaria Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each held to govern a fundamental aspect of existence and honored through a distinct primary faith.
+The Aureldian pantheon is the dominant pantheon in the western part of the [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across the [[affiliation-vylarinmpr|Vylarian Empire]], the [[place-provenzrgn|Provénzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Helionis]], [[affiliation-cnfdrtntrzlnstts|Taruzel]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and the [[place-byzariargn|Bizaria Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each held to govern a fundamental aspect of existence and honored through a distinct primary faith.
 
 ## The Twelve
 

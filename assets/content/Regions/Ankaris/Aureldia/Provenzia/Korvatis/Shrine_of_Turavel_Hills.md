@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [thuravelhills], population: null, pack
 ---
 
 Somewhere in the [[place-thuravelhills|Túravel Hills]] in the southern part of the
-[[place-provenzrgn|Provenzia Region]] stands the Shrine of Túravel Hills, which official history has forgotten and old songs
+[[place-provenzrgn|Provénzia Region]] stands the Shrine of Túravel Hills, which official history has forgotten and old songs
 have not. It was raised long before the [[affiliation-arldnpnthn|Aureldian Pantheon]] was worshipped here, for the
 observances of [[affiliation-theoldway|the Old Gods]], and it was a place of real power.
 

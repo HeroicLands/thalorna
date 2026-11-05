@@ -101,7 +101,7 @@ One house rebuilds the capital in the shape that stands today. The western conqu
 
 ### The Drift, 512 to 619
 
-The north's hunger raids empty northern Moktur's valleys and a legion wins its eagle back at [[place-blackmarshfld|the Black Marsh]] ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), fleets strike the western coasts, and the coin is fixed. The far provinces stop obeying one at a time: [[place-tarvenirgn|Tarvénia]], Bizaria, and [[place-helionis|Helionis]] in practice. It ends when [[affiliation-kngdmprvnz|Provenzia]] wins its charter and the crowns and the Tarmeks settle what the Empire still is ([[lore-crownssettle|The Settlement of the Crowns]]).
+The north's hunger raids empty northern Moktur's valleys and a legion wins its eagle back at [[place-blackmarshfld|the Black Marsh]] ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), fleets strike the western coasts, and the coin is fixed. The far provinces stop obeying one at a time: [[place-tarvenirgn|Tarvénia]], Bizaria, and [[place-helionis|Helionis]] in practice. It ends when [[affiliation-kngdmprvnz|Provénzia]] wins its charter and the crowns and the Tarmeks settle what the Empire still is ([[lore-crownssettle|The Settlement of the Crowns]]).
 
 ### The Core, 620 to 707
 

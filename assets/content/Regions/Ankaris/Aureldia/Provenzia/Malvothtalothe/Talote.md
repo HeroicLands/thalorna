@@ -16,7 +16,7 @@ data:
 
 **Talote**—_the mountain march_.
 
-The **Talote** is the [[place-provenzrgn|Provenzia Region]]'s frontier with the [[place-tarvenirgn|Tarvénia Region]]: about a
+The **Talote** is the [[place-provenzrgn|Provénzia Region]]'s frontier with the [[place-tarvenirgn|Tarvénia Region]]: about a
 million people in the eastern uplands and the basins below them, under mountains that are genuinely
 cold and very nearly impassable from the first snow to the thaw.
 
@@ -51,11 +51,11 @@ The mountains are the kingdom's mineral country. Their veins carry precious meta
 : the great upland lake, far enough behind the passes to be settled and prosperous, which provisions the garrisons.
 
 [[place-bldfldmalnebris|Blood-field of Malnebris]]
-: the recurrence in the pass, the only blood-field in Provenzia still being added to.
+: the recurrence in the pass, the only blood-field in Provénzia still being added to.
 
 [[place-bldfldtiravlen|Blood-field of Tiravlen]]
 : on the lake shore, which replays out over the water.
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]] · [[place-tarvenirgn|Tarvénia Region]] · [[place-westernmrch|Western March]]
+- [[place-provenzrgn|Provénzia Region]] · [[place-tarvenirgn|Tarvénia Region]] · [[place-westernmrch|Western March]]

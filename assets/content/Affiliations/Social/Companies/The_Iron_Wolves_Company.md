@@ -142,7 +142,7 @@ The Iron Wolves maintain a permanent base of operations at a fortified compound 
 
 Operational deployments take the company throughout western Ankaris under whatever contract is current. Recent work has included:
 
-- A two-season campaign in the Provenzian frontier suppressing brigandage on behalf of a coalition of merchant lords.
+- A two-season campaign in the Provénzian frontier suppressing brigandage on behalf of a coalition of merchant lords.
 - A short, brutal mining strike-breaking operation in a Helionite copper concern.
 - A long-running security contract for a Vylarian provincial _therkos_ (governor) whose name the company will not disclose.
 - Standing offers from at least two of the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for direct retainer; the company has, so far, declined.

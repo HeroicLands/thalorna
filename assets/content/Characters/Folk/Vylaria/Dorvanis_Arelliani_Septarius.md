@@ -97,7 +97,7 @@ Every faction at court would like the _Tarkelos_ in its debt, and he can oblige 
 ## Plot Hooks
 
 1. **The strongroom audit.** The annual audit falls in the third week of spring, and a Reformist panelist reputed to use methods learned in Vedyaran banking sits on it. Three different households hire a party, separately, to learn what the panelist has been asking the Tarmeks's clerks.
-2. **The frozen note.** The Tarmeks has suspended a moneylender house of Ólvestra, and notes cashed against it cannot be redeemed. A Provenzian merchant holding a chest of them hires a party to carry a petition to the _Tarkelos_ in person and come back with an answer.
+2. **The frozen note.** The Tarmeks has suspended a moneylender house of Ólvestra, and notes cashed against it cannot be redeemed. A Provénzian merchant holding a chest of them hires a party to carry a petition to the _Tarkelos_ in person and come back with an answer.
 3. **The disbursement.** A _bandren_ (general) wants silver for a campaign the Orzas has not approved. The _Tarkelos_ asks a party to take his refusal to the general's camp, in writing, and bring back the general's reply unopened.
 4. **The son in Hilen.** The _Tarkelos_'s son, the Tarmeks's deputy in Hilen, has stopped answering his father's letters. Dorvanis asks a party to ride to Hilen and find out why, and to tell nobody they went.
 

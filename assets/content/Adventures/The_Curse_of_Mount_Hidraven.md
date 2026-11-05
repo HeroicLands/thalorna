@@ -16,11 +16,11 @@ data:
 
 ## The Curse of Mount Hidraven
 
-[[place-hydravenmnt|Mount Hidraven]], a peak in the Provenzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
+[[place-hydravenmnt|Mount Hidraven]], a peak in the Provénzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
 
 ### Overview
 
-Mount Hidraven looms over the southern highlands of [[place-provenzrgn|Provenzia Region]], a dramatic and beautiful peak that has been a sacred site since pre-Aureldían times. For the past year, a creeping curse has settled over the mountain and the lands surrounding it. Villagers in the foothills experience nightmares, livestock dies of inexplicable ailments, and anyone who ventures onto the mountain either does not return or returns broken and mad. The local priesthood is divided: some believe the mountain itself is angered by disrespect, others suspect dark magic or demonic influence. The party is hired to investigate and lift the curse.
+Mount Hidraven looms over the southern highlands of [[place-provenzrgn|Provénzia Region]], a dramatic and beautiful peak that has been a sacred site since pre-Aureldían times. For the past year, a creeping curse has settled over the mountain and the lands surrounding it. Villagers in the foothills experience nightmares, livestock dies of inexplicable ailments, and anyone who ventures onto the mountain either does not return or returns broken and mad. The local priesthood is divided: some believe the mountain itself is angered by disrespect, others suspect dark magic or demonic influence. The party is hired to investigate and lift the curse.
 
 ### Stage One: The Commission & Initial Signs
 
@@ -152,7 +152,7 @@ Negotiation
 
 ### See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[affiliation-ordoarcanis|Thordimalon]]

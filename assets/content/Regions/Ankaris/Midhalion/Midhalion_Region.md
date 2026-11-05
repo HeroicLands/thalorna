@@ -23,7 +23,7 @@ A supercargo who has ridden merchant hulls along both shores puts it to a newcom
 
 The region takes its shape from the Vylarian Sea and the coasts that enclose it.
 
-- **The northern, Ankarian shore** holds Vylaria and the territories it still claims; the independent successor-states of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]; and the city-states of the [[place-heladrgn|Hellád Region]], the philosophical [[affiliation-ctysttshlns|City-States of Helionis]] and the merchant cities of the [[affiliation-byzarianlg|Bizarian League]], whose two short coasts lie side by side at the eastern end of that shore. The western Aureldian realms of [[place-elavendre|Élavendre]] and the island of [[place-aelwyth|Aelwyth]] trade into it.
+- **The northern, Ankarian shore** holds Vylaria and the territories it still claims; the independent successor-states of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]; and the city-states of the [[place-heladrgn|Hellád Region]], the philosophical [[affiliation-ctysttshlns|City-States of Helionis]] and the merchant cities of the [[affiliation-byzarianlg|Bizarian League]], whose two short coasts lie side by side at the eastern end of that shore. The western Aureldian realms of [[place-elavendre|Élavendre]] and the island of [[place-aelwyth|Aelwyth]] trade into it.
 - **The eastern shore** holds the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the Ashaian kingdom of the north-western part of the [[place-dunharargn|Dunhara Region]], and off it the islands of the [[place-taruzelrgn|Taruzel Region]]'s archipelago.
 - **The southern, Zerathian shore** holds the ancient [[affiliation-empireakhlth|Empire of Au'Khelathu]], the three-flamed kingdom of [[affiliation-okharis|Okharis]], and the [[affiliation-mtrrchybth|Matriarchy of Bethua]].
 
@@ -50,7 +50,7 @@ The great ports house temples of every major faith that trades there, and shrine
 The region's politics are the long decline of the [[affiliation-vylarinmpr|Vylarian Empire]] and the scramble of successor-states and new powers to fill the space it leaves.
 
 - The **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**'s recent independence has upset the balance of the eastern sea.
-- **[[affiliation-kngdmprvnz|Provenzia]]** and **[[affiliation-ctysttshlns|Helionis]]** assert their cultural and political independence while keeping careful economic ties to Vylaria.
+- **[[affiliation-kngdmprvnz|Provénzia]]** and **[[affiliation-ctysttshlns|Helionis]]** assert their cultural and political independence while keeping careful economic ties to Vylaria.
 - **[[affiliation-kingdmtrvn|Tarvénia]]** guards its sovereignty with particular ferocity.
 - **The southern powers**—[[affiliation-empireakhlth|Au'Khelathu]], [[affiliation-okharis|Okharis]] and [[affiliation-mtrrchybth|Bethua]]—watch the northern struggle with ancient patience or opportunism by turns. Each is older than Vylaria, and each reckons that whatever northern power comes out on top will need its trade.
 
@@ -67,7 +67,7 @@ Midhalión is the densest trading economy in Thalorna, and its commerce runs on 
 Every major class of goods in Thalorna moves through the region:
 
 From the northern shore
-: Vylarian steel, Helionite wisdom and oil, Taruzelian spice and cloth, Provenzian art, Tarvenan grain.
+: Vylarian steel, Helionite wisdom and oil, Taruzelian spice and cloth, Provénzian art, Tarvenan grain.
 
 From the southern shore
 : Khelathi grain, papyrus and gold, Okhárian bronzework, Bethuan leather and textiles.
@@ -113,7 +113,7 @@ Midhalión dates by [[lore-commoncal|the Vylarian Calendar]]: years counted Afte
 [[place-helionis|Helionis]]
 : philosophical and intellectual center
 
-[[place-provenzrgn|Provenzia Region]]
+[[place-provenzrgn|Provénzia Region]]
 : artistic heartland of the northern shore
 
 [[place-tarvenirgn|Tarvénia]]

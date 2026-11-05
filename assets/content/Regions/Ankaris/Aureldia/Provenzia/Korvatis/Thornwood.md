@@ -3,14 +3,14 @@ shortcode: thornwood
 name: {full: Thornwood}
 type: place
 subType: feature
-description: "A wood near the great crossroads of southern Provenzia, haunt of Captain Kalzote's road bandits and their raids on the Traveler's Rest Inn's horses."
+description: "A wood near the great crossroads of southern Provénzia, haunt of Captain Kalzote's road bandits and their raids on the Traveler's Rest Inn's horses."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [korvathis], population: 0, packFolder: provenzia}
 ---
 
 ## Overview
 
-Thornwood is a stretch of woodland in the [[place-korvathis|Korvatis]], close enough to the great crossroads where the roads from [[place-provenzrgn|Provenzia]], the Merchant Cities and the coastal provinces meet that a band of brigands can strike the road and be back under its trees by dark. That band is **the [Road Bandits of Thornwood]{.name data-type="affiliation/criminal"}**, and their captain, the cruel **Captain [[being-kalzothegain|Kalzote]]**, has a taste for horses.
+Thornwood is a stretch of woodland in the [[place-korvathis|Korvatis]], close enough to the great crossroads where the roads from [[place-provenzrgn|Provénzia]], the Merchant Cities and the coastal provinces meet that a band of brigands can strike the road and be back under its trees by dark. That band is **the [Road Bandits of Thornwood]{.name data-type="affiliation/criminal"}**, and their captain, the cruel **Captain [[being-kalzothegain|Kalzote]]**, has a taste for horses.
 
 ## The Horses of the Traveler's Rest
 

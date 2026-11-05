@@ -409,7 +409,7 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-okharinclt'
         - id: provenzia
-          title: Provènzia
+          title: Provénzia
           abbreviation: "Prv."
           subtitle: A Gazetteer of Thalorna
           contents:

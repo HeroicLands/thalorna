@@ -53,7 +53,7 @@ Twelve years ago the Taruzelians won their independence from the [[affiliation-v
 
 ## The Houses
 
-The great trading houses are the real power: sprawling family enterprises combining banking, shipping, warehousing and political influence in a single concern, with warehouses on every harbor, agents in every port on the [[place-vylarianse|Vylarian Sea]], and reach into the courts of Vylaria, [[place-provenzrgn|Provenzia]] and [[place-helionis|Helionis]].
+The great trading houses are the real power: sprawling family enterprises combining banking, shipping, warehousing and political influence in a single concern, with warehouses on every harbor, agents in every port on the [[place-vylarianse|Vylarian Sea]], and reach into the courts of Vylaria, [[place-provenzrgn|Provénzia]] and [[place-helionis|Helionis]].
 
 A house is a family and a firm at once, and a Taruzelian does not separate the two. A marriage is a merger, a son is an apprentice and an heir and a hostage to the alliance his betrothal sealed, and a daughter who can read a ledger is worth more to her house than a son who cannot. The houses have been unsentimental about that long enough that women captain ships and hold partnerships without anyone remarking on it. The one craft that holds out is shipbuilding: the shipwrights' guild resists women in the trade, and [[being-blgnrskn|Belgina Rusakuni]], the shipwright of _[[affiliation-thetamzir|The Tamzir]]_, is the exception.
 

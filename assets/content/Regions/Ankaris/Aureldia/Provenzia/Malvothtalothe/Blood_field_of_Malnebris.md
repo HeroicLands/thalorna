@@ -3,13 +3,13 @@ shortcode: bldfldmalnebris
 name: {full: Blood-field of Malnebris}
 type: place
 subType: site
-description: "The blood-field of the eastern frontier—a recurrence that replays every campaign season, and the only one in Provenzia still being added to."
+description: "The blood-field of the eastern frontier—a recurrence that replays every campaign season, and the only one in Provénzia still being added to."
 tags: [frontier, mountain]
 data: {demonym: null, lore: [], parents: [talothe], population: null, packFolder: provenzia}
 ---
 
 High on the Tarvénian frontier, where the passes come down out of the cold mountains, lies the
-**Blood-field of Malnebris**, made by the first great raid on the province in about 556 AF ([[lore-malnebris|Malnebris]])—and it is the only one of the [[place-provenzrgn|Provenzia Region]]'s [[lore-bloodfields|blood-fields]]
+**Blood-field of Malnebris**, made by the first great raid on the province in about 556 AF ([[lore-malnebris|Malnebris]])—and it is the only one of the [[place-provenzrgn|Provénzia Region]]'s [[lore-bloodfields|blood-fields]]
 that is not finished.
 
 ## A Recurrence
@@ -36,4 +36,4 @@ priests safe conduct to do it.
 
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provenzia]] · [[place-tarvenirgn|Tarvénia Region]] · [[lore-malnebris|Malnebris]]
+- [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-tarvenirgn|Tarvénia Region]] · [[lore-malnebris|Malnebris]]

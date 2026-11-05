@@ -3,7 +3,7 @@ shortcode: provnzlng
 name: {full: Provenzal Language}
 type: skill
 subType: language
-description: "The melodic speech of Provenzia—shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
+description: "The melodic speech of Provénzia—shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
 tags: []
 data:
   roman: "abcdefghijklmnoprstuvyzABCDEFGHIJKLMNOPRSTUVYZáéíóúëÁÉÍÓÚË0123456789qQ"
@@ -7268,13 +7268,13 @@ data:
     - {name: Vornan Tolgen, tongue: provenzal}
     - {name: Ilendor Mirdal, tongue: provenzal}
     - {name: Zalren Liskal, tongue: provenzal}
-    - {name: Provenzian, tongue: translation}
+    - {name: Provénzian, tongue: translation}
     - {name: Argenna, tongue: provenzal}
     - {name: Oracular Sanctuary at Argenna, tongue: translation}
     - {name: Atavel, tongue: provenzal}
     - {name: Gefavel, tongue: provenzal}
-    - {name: The Blood-fields of Provenzia, tongue: translation}
-    - {name: Kingdom of Provenzia, tongue: translation}
+    - {name: The Blood-fields of Provénzia, tongue: translation}
+    - {name: Kingdom of Provénzia, tongue: translation}
     - {name: Outlaw, tongue: translation}
     - {name: Unfree, tongue: translation}
     - {name: Freeman, tongue: translation}
@@ -7329,8 +7329,8 @@ data:
     - {name: Thornwood, tongue: translation}
     - {name: Túravel Hills, tongue: translation}
     - {name: Válaren City, tongue: translation}
-    - {name: Provenzia Region, tongue: translation}
-    - {name: Provenzia, tongue: translation}
+    - {name: Provénzia Region, tongue: translation}
+    - {name: Provénzia, tongue: translation}
     - {name: Ravenshold, tongue: translation}
     - {name: Belsaren, tongue: provenzal}
     - {name: Blood-field of Malnebris, tongue: translation}
@@ -7384,7 +7384,7 @@ data:
     - {name: Member, tongue: translation}
     - {name: Navigator, tongue: translation}
     - {name: Officer, tongue: translation}
-    - {name: Provenzia Adventurer's Guide, tongue: translation}
+    - {name: Provénzia Adventurer's Guide, tongue: translation}
     - {name: Purser, tongue: translation}
     - {name: Quartermaster, tongue: translation}
     - {name: Secretary, tongue: translation}
@@ -7393,12 +7393,12 @@ data:
     - {name: Surgeon, tongue: translation}
     - {name: Sworn Member, tongue: translation}
     - {name: The Players' Federation, tongue: translation}
-    - {name: The Provenzia Theater Collective, tongue: translation}
+    - {name: The Provénzia Theater Collective, tongue: translation}
     - {name: The Silent Talon Company, tongue: translation}
     - {name: The Theater Collective, tongue: translation}
     - {name: Veteran, tongue: translation}
     - {name: Lordeme, tongue: provenzal}
-    - {name: Provenzian Grand Games, tongue: translation}
+    - {name: Provénzian Grand Games, tongue: translation}
     - {name: The Grand Games, tongue: translation}
     - {name: Earldom of Hárivren, tongue: translation}
     - {name: Subject, tongue: translation}
@@ -7457,6 +7457,15 @@ data:
     - {name: Lordeme Kórisvar, tongue: provenzal}
     - {name: Lord Lordeme Kórisvar, tongue: translation}
   retired:
+    - form: Provenzia
+      instead: Provénzia
+      why: "respelled with the stress acute, so the stress falls on ven as Pronouncing Thalorna reads it"
+    - form: Provenzian
+      instead: Provénzian
+      why: "respelled with the stress acute, so the stress falls on ven as Pronouncing Thalorna reads it"
+    - form: Provenzians
+      instead: Provénzians
+      why: "respelled with the stress acute, so the stress falls on ven as Pronouncing Thalorna reads it"
     - form: Belpòrte
       instead: Kalveza
       why: "a name built of words of an Earth tongue, for the fair gate"
@@ -7585,7 +7594,7 @@ sohl:
 
 Provenzal is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Provenzal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Provenzal is the melodic tongue of [[place-provenzrgn|Provenzia Region]], a realm where commerce meets artistry and the traditions of courtly culture flourish. Spoken in the prosperous merchant cities and cultivated courts of the southern coast, Provenzal is the language of síladors, merchants, and nobles who trade in beauty as readily as silk and spices.
+Provenzal is the melodic tongue of [[place-provenzrgn|Provénzia Region]], a realm where commerce meets artistry and the traditions of courtly culture flourish. Spoken in the prosperous merchant cities and cultivated courts of the southern coast, Provenzal is the language of síladors, merchants, and nobles who trade in beauty as readily as silk and spices.
 
 The roman repertoire retains `q` and `Q` for the formal greeting's fixed que. This formula does not add a new sound to the ordinary palette.
 
@@ -7619,7 +7628,7 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 **Vowels:** Provenzal employs five primary vowels. Nasal vowels are phonemic, particularly in words borrowed from or influenced by Élavendri speech. Diphthongs are common (ai, ei, oi, au, ou) and serve both phonetic and expressive purposes.
 
-**Prosody:** The language favors a rising intonation at phrase boundaries, creating a naturally questioning, inviting quality. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provenzian favors short words, so it often lands at the front (FA-ris, AR-vel).
+**Prosody:** The language favors a rising intonation at phrase boundaries, creating a naturally questioning, inviting quality. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provénzian favors short words, so it often lands at the front (FA-ris, AR-vel).
 
 **Distinctive Features:** Provenzal employs consonant lenition and assimilation freely—a trademark of the language's fluid character. The consonant _j_ marks the boundary between formal and familiar speech (similar to Vylari's formal registers but less rigid). Regional variation is accepted and even celebrated; each city is known for its distinctive pronunciation patterns.
 
@@ -7709,7 +7718,7 @@ Provenzal is written in the [[skill-semrnscrpt|Semaron]], the Vylarian alphabet,
 
 The borrowing shows where the letters run out. The Semaron sets one sign to one sound and has no sign for a nasal vowel, so Provenzal's phonemic nasal vowels arrived with nothing of their own to be written in. Provenzal scribes set the imperial curl above a vowel to show a nasal; the curl belongs to the Semaron spelling, and the transliteration on these pages writes no nasal vowels. A Vylarian reading a Provenzal page therefore reads every nasal as a long vowel, which is the most frequent misreading in cross-border correspondence and the reason a careful Provenzal clerk spells a nasal out in full whenever the letter is bound for an imperial reader.
 
-True literacy is confined to the clergy, professional scribes, and perhaps a third of the nobility (courtly culture values refinement, and literate lords are admired, but many still rely on personal secretaries). Provenzia's commercial orientation means that merchant guildsmen often possess functional literacy—enough to recognize trade marks, prices, and simple labels—but even wealthy traders rely on scribes and solicitors for contracts, correspondence, and formal documents. The vast majority of the population cannot read or write. The language's close association with poetry and song means that many non-literate speakers can recite and compose in Provenzal through oral tradition alone.
+True literacy is confined to the clergy, professional scribes, and perhaps a third of the nobility (courtly culture values refinement, and literate lords are admired, but many still rely on personal secretaries). Provénzia's commercial orientation means that merchant guildsmen often possess functional literacy—enough to recognize trade marks, prices, and simple labels—but even wealthy traders rely on scribes and solicitors for contracts, correspondence, and formal documents. The vast majority of the population cannot read or write. The language's close association with poetry and song means that many non-literate speakers can recite and compose in Provenzal through oral tradition alone.
 
 ## Élavendri Influence
 
@@ -7802,9 +7811,9 @@ Revotandis, Zedimis, Ortemandis, Malvotis, Talotis, Kiramis, Melvarandis, Tulemi
 
 ## Provenzal Lexicon {#lexicon}
 
-In a merchant's house in [[place-jalnazdal|Jalnasdal]], a boy of twelve is learning to say the same thing twice. His tutor gives him a word, _nasdal_, the court where his father's suits are heard, and then its learned twin, _nasdalo_, the court of record the notaries write in; then _docheme_, a speech, and _dochemo_, an oration of the kind the academies teach. By the end of the lesson he can hear which of the two a man has chosen, and why, and what it says about him. That is most of what a Provenzian education is for.
+In a merchant's house in [[place-jalnazdal|Jalnasdal]], a boy of twelve is learning to say the same thing twice. His tutor gives him a word, _nasdal_, the court where his father's suits are heard, and then its learned twin, _nasdalo_, the court of record the notaries write in; then _docheme_, a speech, and _dochemo_, an oration of the kind the academies teach. By the end of the lesson he can hear which of the two a man has chosen, and why, and what it says about him. That is most of what a Provénzian education is for.
 
-This is the word-hoard of Provenzal, the tongue of the Provenzians. It is the daughter of ancient Vylari that changed most in its sounds. It made articles of all three of the old pointing words, softened its consonants between vowels and let the `n` between two vowels fall, leaving the vowel before it nasal. It has taken words twice from outside. The empire's law books gave it a learned layer, so that many words stand in two forms, the inherited one and the one the notaries took back. The fey-touched north gave it the words for light, dream, longing and song, which is why its lyric sounds like no other tongue's.
+This is the word-hoard of Provenzal, the tongue of the Provénzians. It is the daughter of ancient Vylari that changed most in its sounds. It made articles of all three of the old pointing words, softened its consonants between vowels and let the `n` between two vowels fall, leaving the vowel before it nasal. It has taken words twice from outside. The empire's law books gave it a learned layer, so that many words stand in two forms, the inherited one and the one the notaries took back. The fey-touched north gave it the words for light, dream, longing and song, which is why its lyric sounds like no other tongue's.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -7893,15 +7902,15 @@ A Provenzal house is named for its founder or its city, and many of the old hous
 
 ### The city and its standing
 
-A Provenzian names his city before his family, and the city words are the oldest civic vocabulary in the tongue, inherited from the speech of [[lore-pelwarmigr|the Migration]] and worn smooth by a thousand years of council meetings. _Veramis_ is a city, a walled place of citizens, and it is the word a Provenzian means when he says where he is from. The council that governs it, whether of nobles, of rich citizens or of a guild, is _kurtema_, and the square where it does its business in sight of everyone is _rembalis_.
+A Provénzian names his city before his family, and the city words are the oldest civic vocabulary in the tongue, inherited from the speech of [[lore-pelwarmigr|the Migration]] and worn smooth by a thousand years of council meetings. _Veramis_ is a city, a walled place of citizens, and it is the word a Provénzian means when he says where he is from. The council that governs it, whether of nobles, of rich citizens or of a guild, is _kurtema_, and the square where it does its business in sight of everyone is _rembalis_.
 
 Every office in this field ends in _-e_, the old agent ending, and the same offices exist in imperial Vylari with the learned ending _-o_. The native word names the city's officer, and the learned one the empire's.
 
 ### Patron and client
 
-The relation that organizes a Provenzian life is patron and client, and its words are inherited whole. A patron is _daimela_, a word that ends like a feminine one but names a man, as it did in the ancient tongue; his patronage is _daimelal_, and to give as a patron gives is _daimate_. The client's attendance at the patron's door at first light is _pramolza_, the morning call, and a city's streets are full of men making it.
+The relation that organizes a Provénzian life is patron and client, and its words are inherited whole. A patron is _daimela_, a word that ends like a feminine one but names a man, as it did in the ancient tongue; his patronage is _daimelal_, and to give as a patron gives is _daimate_. The client's attendance at the patron's door at first light is _pramolza_, the morning call, and a city's streets are full of men making it.
 
-A man with no patron is _anzirote_, unplaced, which in Provenzia is not a description of freedom but of exposure. The debts a client runs up are _orfeate_, to owe, and its learned cousin _nezora_, a debt in money, is a different thing entirely: a Provenzian can repay the second.
+A man with no patron is _anzirote_, unplaced, which in Provénzia is not a description of freedom but of exposure. The debts a client runs up are _orfeate_, to owe, and its learned cousin _nezora_, a debt in money, is a different thing entirely: a Provénzian can repay the second.
 
 ### Love and its conduct
 
@@ -7917,41 +7926,41 @@ Rhetoric is the skill the culture rewards most, and its words are inherited and 
 
 ### The house and the street
 
-Provenzia's cities are marble and aqueduct and amphitheater, half of them inherited from the empire and half built since out of trade money, and the words for what stands in them are inherited too. A family of standing lives in a _tevaime_, a townhouse on a good street, and summers at its _komrela_ in the hills; the house is the public record of the family, and its upkeep is not a private matter. A building nobody has repaired is _umeltandar_, resting, the courteous word for a ruin, and the one the Provenzians use of the empire's buildings.
+Provénzia's cities are marble and aqueduct and amphitheater, half of them inherited from the empire and half built since out of trade money, and the words for what stands in them are inherited too. A family of standing lives in a _tevaime_, a townhouse on a good street, and summers at its _komrela_ in the hills; the house is the public record of the family, and its upkeep is not a private matter. A building nobody has repaired is _umeltandar_, resting, the courteous word for a ruin, and the one the Provénzians use of the empire's buildings.
 
 ### The gods and the hearth
 
-Provenzians keep the gods' festivals and endow their temples, and a wealthy man funds a shrine as readily as a school, for the same reason. The priest is _sarcheande_, the keeper of a god's house, and the household's own gods, _karalzis_, the ones of the kept fire, have a niche by the door of every house in the tongue's country.
+Provénzians keep the gods' festivals and endow their temples, and a wealthy man funds a shrine as readily as a school, for the same reason. The priest is _sarcheande_, the keeper of a god's house, and the household's own gods, _karalzis_, the ones of the kept fire, have a niche by the door of every house in the tongue's country.
 
 ### Learning and the academies
 
-Education is valued in Provenzia and the valuing is sincere, and the academy words came in twice: once inherited, once borrowed back from the empire's University. _Marendis_ is wisdom and _marendal_ a school, the native forms. The academies at the great cities use the learned _marendalo_ and _zetmarendalo_, the University, and a family that can afford it puts a son through one whatever he means to do afterward.
+Education is valued in Provénzia and the valuing is sincere, and the academy words came in twice: once inherited, once borrowed back from the empire's University. _Marendis_ is wisdom and _marendal_ a school, the native forms. The academies at the great cities use the learned _marendalo_ and _zetmarendalo_, the University, and a family that can afford it puts a son through one whatever he means to do afterward.
 
 Magic is taught there too. The word is _tordima_, and it names the art as the fey-touched north practices it as well as the art taught in the academies.
 
 ### The house, kin and the name
 
-A Provenzian's house is the reputation of his name, not the building, and it comes first of everything he owes. The founder of a house is _derte_, a word that was once hallowed. A married woman keeps her birth name, which is why the tongue has a word, _arleis_, for a house name carried into another house, and a man's earned name, _kiramarle_, is given to him by his city after a deed and not by his family.
+A Provénzian's house is the reputation of his name, not the building, and it comes first of everything he owes. The founder of a house is _derte_, a word that was once hallowed. A married woman keeps her birth name, which is why the tongue has a word, _arleis_, for a house name carried into another house, and a man's earned name, _kiramarle_, is given to him by his city after a deed and not by his family.
 
 ### Law and the written act
 
-Every city has its own courts and none of them agree, so the law words are many and paired. The native words are what a Provenzian says in the street: _nasdis_ a judgment, _krezul_ a suit, _semnalis_ a contract. The learned words are what the notary writes, taken from the empire's law books: _nasdalo_, a court of record, _vornalo_, the written law. A merchant who cannot use both is at the mercy of his notary.
+Every city has its own courts and none of them agree, so the law words are many and paired. The native words are what a Provénzian says in the street: _nasdis_ a judgment, _krezul_ a suit, _semnalis_ a contract. The learned words are what the notary writes, taken from the empire's law books: _nasdalo_, a court of record, _vornalo_, the written law. A merchant who cannot use both is at the mercy of his notary.
 
 ### The market and the counting-house
 
-Provenzia is rich and clever and convinced that being both is a moral achievement, and the money words are the busiest in the tongue. The moneylender, _fezume_, is a respected man with a seat on most councils, and interest, _fezumal_, is discussed at dinner as openly as the weather. The coins are imperial and so are their learned names. The scale is _tradina_, a learned word, because the honest scale is something a city guarantees and not something a man keeps at home.
+Provénzia is rich and clever and convinced that being both is a moral achievement, and the money words are the busiest in the tongue. The moneylender, _fezume_, is a respected man with a seat on most councils, and interest, _fezumal_, is discussed at dinner as openly as the weather. The coins are imperial and so are their learned names. The scale is _tradina_, a learned word, because the honest scale is something a city guarantees and not something a man keeps at home.
 
 ### Craft and the workshop
 
-Provenzia's craftsmen are better paid and better regarded than any west of them, and their words are inherited and exact. A craft is _palmeza_, learned at a master's bench, _gardema_, and the master is _garde_, the one who holds a bench and may take an apprentice, _kolmete_. To keep a craft's secret is _keltate_, the same verb a lover uses for discretion.
+Provénzia's craftsmen are better paid and better regarded than any west of them, and their words are inherited and exact. A craft is _palmeza_, learned at a master's bench, _gardema_, and the master is _garde_, the one who holds a bench and may take an apprentice, _kolmete_. To keep a craft's secret is _keltate_, the same verb a lover uses for discretion.
 
 ### Vine, field and river
 
-The country around each city is vineyard and orchard and the river that carries the wine down to the harbor. The vineyard is _gurimal_; the harvest _cholsama_. The great river is _vilare_, which in the ancient tongue was hallowed, and still takes the god's ending here although no Provenzian thinks of the river as one.
+The country around each city is vineyard and orchard and the river that carries the wine down to the harbor. The vineyard is _gurimal_; the harvest _cholsama_. The great river is _vilare_, which in the ancient tongue was hallowed, and still takes the god's ending here although no Provénzian thinks of the river as one.
 
 ### The harbor and the sea
 
-Half the cities of Provenzia stand on river mouths and harbors, and the sea words came down from the empire's fleet. The harbor is _volchema_ and a sail _lentize_; the steady northerly wind of late summer that closes the sailing year is _aistroi_.
+Half the cities of Provénzia stand on river mouths and harbors, and the sea words came down from the empire's fleet. The harbor is _volchema_ and a sail _lentize_; the steady northerly wind of late summer that closes the sailing year is _aistroi_.
 
 ### Arms and the field
 
@@ -7959,7 +7968,7 @@ The cities fight one another often and briefly, with hired troops and short memo
 
 ### The body, life and death
 
-Appearance is the public record of a family's standing, and the body words that matter are the ones that show: _jentamis_, a face, and _tolvema_, a cloak, the old citizen's gown that a Provenzian of standing still wears to council. Death is _cholvazis_, said as seldom as it can be; the Élavendri _selvore_ is the word for it in a song.
+Appearance is the public record of a family's standing, and the body words that matter are the ones that show: _jentamis_, a face, and _tolvema_, a cloak, the old citizen's gown that a Provénzian of standing still wears to council. Death is _cholvazis_, said as seldom as it can be; the Élavendri _selvore_ is the word for it in a song.
 
 ### Light, dream and the fey north
 
@@ -7971,7 +7980,7 @@ The calendar is the empire's, counted from its founding, and the festivals are e
 
 ### Qualities
 
-The qualities a Provenzian of standing claims are _solvime_, weighty, and _zeote_, wise.
+The qualities a Provénzian of standing claims are _solvime_, weighty, and _zeote_, wise.
 
 ### Doing, going and being
 
@@ -7979,11 +7988,11 @@ A verb is cited by its infinitive, commonly ending in _-ate_ or _-ete_ in native
 
 ### Numbers and grammar words
 
-The three pointing words of the ancient tongue all became articles, and a Provenzian chooses among them as a speaker of another tongue chooses a tone of voice: _de_ for what is near and his own, _te_ for what is the listener's, and _at_ for what is far, famous or past. The copula is _ez_. These small words wore down, and stand here with the ancient forms they came from.
+The three pointing words of the ancient tongue all became articles, and a Provénzian chooses among them as a speaker of another tongue chooses a tone of voice: _de_ for what is near and his own, _te_ for what is the listener's, and _at_ for what is far, famous or past. The copula is _ez_. These small words wore down, and stand here with the ancient forms they came from.
 
 ## Attested names {#attested-names}
 
-Every name in the scope of the Provenzal tongue—the Provenzians, their cities, valleys and offices, the tongue itself—with every note where it is met. A name in the reader's tongue is listed so that the register is complete, and it is not built. A Provenzal name whose **Built from** cell shows `—` is one the lexicon does not yet make.
+Every name in the scope of the Provenzal tongue—the Provénzians, their cities, valleys and offices, the tongue itself—with every note where it is met. A name in the reader's tongue is listed so that the register is complete, and it is not built. A Provenzal name whose **Built from** cell shows `—` is one the lexicon does not yet make.
 
 ### Tongues
 

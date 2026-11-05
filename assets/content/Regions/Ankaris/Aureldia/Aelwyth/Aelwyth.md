@@ -55,7 +55,7 @@ northern coast is little better and the mountains are worse.
 
 The exceptions are two and both are sheltered. The Central Highlands stand
 above the coastal fog, which is a low thing, and are clearer and warmer than anywhere else—relative to
-Aelwyth, which is to say a Provenzian would still want his cloak. And the slopes of
+Aelwyth, which is to say a Provénzian would still want his cloak. And the slopes of
 [[place-sunnerslade|Sunnerslade]], in the Ironfells' rain-shadow, are dry and warm enough to ripen
 vines, which is the single most improbable fact about the island's agriculture.
 

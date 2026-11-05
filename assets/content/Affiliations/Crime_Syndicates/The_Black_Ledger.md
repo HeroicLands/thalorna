@@ -76,7 +76,7 @@ Type
 : Underground professional network
 
 Region
-: [[place-byzariargn|Bizaria]] principally, with active members in every League city and known correspondents in Provenzia, Helionis, and Vylaria
+: [[place-byzariargn|Bizaria]] principally, with active members in every League city and known correspondents in Provénzia, Helionis, and Vylaria
 
 Founded
 : Informal in origin, perhaps two centuries old; never chartered

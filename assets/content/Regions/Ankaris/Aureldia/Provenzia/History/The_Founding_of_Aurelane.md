@@ -25,7 +25,7 @@ data:
             how: the coast's great houses descend from the settlers who stayed, and the road they were settled on is still the way inland
             knowledge: named
           - place: place-provenzrgn
-            how: Provenzian law, learning and architecture are received from a city that was founded as a Vylarian outpost and never stopped being proud of it
+            how: Provénzian law, learning and architecture are received from a city that was founded as a Vylarian outpost and never stopped being proud of it
             knowledge: named
           - place: place-jalnazdal
             how: the coast's later capital grows rich on trade the colony opened, and spends the next centuries being governed from it
@@ -59,7 +59,7 @@ The southern shore of the western country was rich and the Tanevar kings who hel
 
 The Republic sent a garrison with its settlers and laid the town out as it laid out every colony, on a square grid around a forum, with a basilica for the courts and an aqueduct from the hills. The garrison kept the road and the settlers kept the market. The Tanevar kings traded with the town, sent their sons to it to learn the Republic's law and its letters, and took its silver.
 
-About 80 BF the Republic drew its garrison out. The colony had no orders to leave, and it stayed. The soldiers who chose to remain were absorbed into a town of settlers who had been marrying into Tanevar houses for a generation, and within a few more the colony's Vylarian speech had borrowed so much of the country's that the two could not be told apart at the table. The names stayed Vylarian, and the Provenzian great houses that trace their descent from the colony trace it to the names.
+About 80 BF the Republic drew its garrison out. The colony had no orders to leave, and it stayed. The soldiers who chose to remain were absorbed into a town of settlers who had been marrying into Tanevar houses for a generation, and within a few more the colony's Vylarian speech had borrowed so much of the country's that the two could not be told apart at the table. The names stayed Vylarian, and the Provénzian great houses that trace their descent from the colony trace it to the names.
 
 ## What It Left
 
@@ -74,4 +74,4 @@ The Empire's [province of the West]{.name data-type="affiliation/polity"} came m
 - [[place-aureliane|Aurelane]]—the city
 - [[lore-tiravlenbattle|Tiravlen]]—the battle that made it a provincial capital
 - [[lore-westernwars|The Western Wars]]—the conquests of which the province was a part
-- [[place-provenzrgn|Provenzia Region]]
+- [[place-provenzrgn|Provénzia Region]]

@@ -16,7 +16,7 @@ data:
       stated: {calendar: domseycount, text: "237 HF"}
       sources: [place-braldvik, place-castamar, lore-southrnfleets]
       summary: >-
-        A crew of forty Malagna men under Hvirnmil, who had taken a Provenzian merchant galley in the Gulf of Bataren, sails her down the ocean coast, through the western strait under imperial colors and east along the northern shore, and comes ashore at a fishing village on a deep bay in Salkalon. Nine days later a squadron from Kastamar fires the galley at her moorings, and the fire runs up the beach into the village's forty-one boats and its net-lofts. The crew digs in on the north headland and keeps a fire banked there all winter, and the starving village trades fish up the slope to be smoked.
+        A crew of forty Malagna men under Hvirnmil, who had taken a Provénzian merchant galley in the Gulf of Bataren, sails her down the ocean coast, through the western strait under imperial colors and east along the northern shore, and comes ashore at a fishing village on a deep bay in Salkalon. Nine days later a squadron from Kastamar fires the galley at her moorings, and the fire runs up the beach into the village's forty-one boats and its net-lofts. The crew digs in on the north headland and keeps a fire banked there all winter, and the starving village trades fish up the slope to be smoked.
       standing: attested
       names:
         - {name: the Burning of the Bay, by: place-braldvik}
@@ -90,7 +90,7 @@ data:
 
 ## The Door-Faring
 
-In the summer of 523 AF, 237 HF by [[lore-domseycount|the Domsey count]], a Malagna captain named [Hvirnmil]{.name data-type="being/npc"} took a Provenzian merchant galley in the [[place-batarengulf|Gulf of Bataren]], and her pilot told him what lay beyond the western strait. The skalds of the [[affiliation-kingdomlgn|Kingdom of Malagna]] call the voyage that followed his Door-Faring, after the sailors' name for the strait, the one door of the warm sea. The crew sailed the galley south down the ocean coast, passed the strait forts under her imperial colors, and worked east along the northern shore through the end of summer. They came ashore at a fishing village on a deep bay in [[place-salkhalon|Salkalon]], took its stores and its smokehouse, and held it.
+In the summer of 523 AF, 237 HF by [[lore-domseycount|the Domsey count]], a Malagna captain named [Hvirnmil]{.name data-type="being/npc"} took a Provénzian merchant galley in the [[place-batarengulf|Gulf of Bataren]], and her pilot told him what lay beyond the western strait. The skalds of the [[affiliation-kingdomlgn|Kingdom of Malagna]] call the voyage that followed his Door-Faring, after the sailors' name for the strait, the one door of the warm sea. The crew sailed the galley south down the ocean coast, passed the strait forts under her imperial colors, and worked east along the northern shore through the end of summer. They came ashore at a fishing village on a deep bay in [[place-salkhalon|Salkalon]], took its stores and its smokehouse, and held it.
 
 On the ninth night, the eve of the autumn equinox and of [[lore-veturnetur|Veturnetur]] by the crew's own count, a squadron from [[place-castamar|Kastamar]] under [Holvethos Marendates]{.name data-type="being/npc"} fired the galley at her moorings. The wind carried the fire up the shingle into the village's forty-one boats and its net-lofts, and by morning the bay had burned. The crew went up the north headland with what they could carry.
 

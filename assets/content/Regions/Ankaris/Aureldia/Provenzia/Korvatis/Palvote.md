@@ -27,7 +27,7 @@ degrees kinder, and the families who can afford to leave have been leaving for i
 
 The town is accordingly far grander than its size warrants—villas along the ridge, a season of
 entertainments, prices that triple in June—and for four months of the year it is where a good deal of
-business in the southern part of the [[place-provenzrgn|Provenzia Region]] is actually settled, over dinners, well away from the city.
+business in the southern part of the [[place-provenzrgn|Provénzia Region]] is actually settled, over dinners, well away from the city.
 
 ## The Last Town
 
@@ -42,4 +42,4 @@ visitors would find surprising, and is careful that they never do.
 
 ## See Also
 
-- [[place-thuravelhills|Túravel Hills]] · [[place-provenzrgn|Provenzia Region]]
+- [[place-thuravelhills|Túravel Hills]] · [[place-provenzrgn|Provénzia Region]]

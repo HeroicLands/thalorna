@@ -3,7 +3,7 @@ shortcode: athavel
 name: {full: Atavel}
 type: place
 subType: region
-description: "A county of Provenzia whose embattled count is torn by family disputes and locked in rivalry with the Earl of Degavel."
+description: "A county of Provénzia whose embattled count is torn by family disputes and locked in rivalry with the Earl of Degavel."
 tags: [draft]
 data:
   demonym: null
@@ -16,16 +16,16 @@ data:
 
 ## Overview
 
-Atavel is a county of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], and its count is a politically embattled man. He fights on two fronts at once: inside his own family, where disputes divide his house, and at court, where he is the Earl of [[place-degavel|Degavel]]'s great rival.
+Atavel is a county of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], and its count is a politically embattled man. He fights on two fronts at once: inside his own family, where disputes divide his house, and at court, where he is the Earl of [[place-degavel|Degavel]]'s great rival.
 
 ## A Rivalry the Kingdom Pays For
 
-The quarrel between Atavel and Degavel is one of the long-standing rivalries among Provenzia's magnates, and it is a large part of why the crown's council so often cannot act. Each lord measures his own standing by the other's, and the kingdom's cohesion suffers for it at the moment external threat is greatest.
+The quarrel between Atavel and Degavel is one of the long-standing rivalries among Provénzia's magnates, and it is a large part of why the crown's council so often cannot act. Each lord measures his own standing by the other's, and the kingdom's cohesion suffers for it at the moment external threat is greatest.
 
 ## See Also
 
 [[place-degavel|Degavel]]
 : the earldom of the count's rival
 
-[[place-provenzrgn|Provenzia Region]]
+[[place-provenzrgn|Provénzia Region]]
 : the kingdom's land

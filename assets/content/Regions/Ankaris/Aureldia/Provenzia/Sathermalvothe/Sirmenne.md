@@ -9,11 +9,11 @@ tags: [sacred, woodland, border]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-Deep in the borderlands between the [[place-provenzrgn|Provenzia Region]] and
+Deep in the borderlands between the [[place-provenzrgn|Provénzia Region]] and
 [[place-elavendre|Élavendre]], in the wooded country of [[place-sathvothe|Satvote]] below the Áelendan
 mountains, stand the crumbling ruins of Sirmenne.
 
-They predate any Provenzian settlement, and any Élavendren one, by centuries. What Sirmenne was built
+They predate any Provénzian settlement, and any Élavendren one, by centuries. What Sirmenne was built
 for is not known, and the two peoples who care most about it do not agree. The name comes from the [[skill-sinalelng|Sinale Language]] and means the
 hearth of the first stone; the [[affiliation-aelndntrbs|Áelendan Tribes]] use it too, having none of their own for the place.
 
@@ -28,7 +28,7 @@ at Sirmenne is not a partnership so much as a long-standing mutual restraint: ea
 in its own way, each acknowledges the other's right to be there, and neither has ever explained the
 arrangement to an outsider who asked.
 
-Neither crown administers it. [[affiliation-kngdmprvnz|Provenzia]]'s claim is formally unambiguous and practically theoretical.
+Neither crown administers it. [[affiliation-kngdmprvnz|Provénzia]]'s claim is formally unambiguous and practically theoretical.
 
 ## The Withdrawal
 

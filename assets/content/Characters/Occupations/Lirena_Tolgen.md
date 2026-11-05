@@ -394,7 +394,7 @@ Lirena Tolgen is a 30-year-old woman who stands 5'8" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Lirena Tolgen came into the world of the skald through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Lirena Tolgen came into the world of the skald through a combination of circumstance and aptitude.
 
 Lirena is known as "Tolgen" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old [[lore-nordheimnclt|Nordmen]] mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Lirena sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
 
@@ -416,7 +416,7 @@ Charismatic, skilled in poetry and oral storytelling, expressive.
 
 Lirena is affiliated with [[affiliation-skaldscrcl|the Skalds' Circle]], the Nordland Skalds' Guild.
 
-As a Provenzian skald, Lirena occupies a recognized social niche within Provenzia society.
+As a Provénzian skald, Lirena occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -431,7 +431,7 @@ More conservative skalds who disapprove of her modern influences.
 ## Plot Hooks
 
 The Skald's Dilemma
-: Lirena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+: Lirena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
 
 Old Grudges
 : More conservative skalds who disapprove of her modern influences. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -440,7 +440,7 @@ Echoes of the Past
 : Something from Lirena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Lirena depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Lirena depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Lirena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

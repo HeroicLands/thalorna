@@ -394,7 +394,7 @@ Ilvena Ralven is a 23-year-old woman who stands 5'8" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a minor noble family of [[lore-provenzianclt|Provenzian]] heritage, Ilvena Ralven came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a minor noble family of [[lore-provenzianclt|Provénzian]] heritage, Ilvena Ralven came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
 
 Ilvena is a minor noble with a keen interest in the arts and local governance. She is known for her charitable contributions to the community and her ability to connect with the common folk. Ilvena often hosts gatherings at her estate to promote local artists and musicians, and she advocates for education and the welfare of her people. Her warm demeanor and passion for philanthropy have made her popular among her peers and the populace.
 
@@ -416,7 +416,7 @@ Charismatic, compassionate, skilled in diplomacy.
 
 Ilvena is affiliated with the local [Nobility Council]{.name data-type="affiliation/governmental"}.
 
-As a Provenzian courtier, Ilvena occupies a recognized social niche within Provenzia society.
+As a Provénzian courtier, Ilvena occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -431,7 +431,7 @@ Few; generally well-liked, though some rival nobles may envy her influence.
 ## Plot Hooks
 
 The Nobility (Courtier)'s Dilemma
-: Ilvena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
+: Ilvena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
 
 Old Grudges
 : Few; generally well-liked, though some rival nobles may envy her influence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -440,7 +440,7 @@ Echoes of the Past
 : Something from Ilvena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Ilvena depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Ilvena depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Ilvena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

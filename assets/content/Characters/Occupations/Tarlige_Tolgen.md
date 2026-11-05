@@ -398,7 +398,7 @@ Tarlige Tolgen is a 47-year-old man who stands 6'1" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Tarlige Tolgen came into the world of the thatcher through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Tarlige Tolgen came into the world of the thatcher through a combination of circumstance and aptitude.
 
 Tarlige has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his work and the durability of his roofs, Tarlige is often in high demand, though his services come at a slower pace due to his attention to detail.
 
@@ -420,7 +420,7 @@ Skilled in thatching techniques, highly experienced, and meticulous.
 
 Tarlige is affiliated with the [Rural Craftsmen's Guild]{.name data-type="affiliation/guild"}.
 
-As a Provenzian thatcher, Tarlige occupies a recognized social niche within Provenzia society.
+As a Provénzian thatcher, Tarlige occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -435,7 +435,7 @@ None, though some younger craftsmen see him as outdated.
 ## Plot Hooks
 
 The Thatcher's Dilemma
-: Tarlige faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
+: Tarlige faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
 
 Old Grudges
 : None, though some younger craftsmen see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -444,7 +444,7 @@ Echoes of the Past
 : Something from Tarlige's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Tarlige depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Tarlige depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Tarlige the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

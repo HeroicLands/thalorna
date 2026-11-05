@@ -77,7 +77,7 @@ There are two working ranks above the candidacy, and two offices drawn from them
 - **Marendos of the Order**—chapter leader; one per chapter house; presides over chapter affairs and represents the chapter before the Council.
 - **First Marendos**—the order's chair; one position; chosen by conclave of the _marendoi_ (masters) for a fifteen-year term.
 
-The order has chapter houses in each Aureldian kingdom, but its operational presence concentrates where commercial life and oath-density are highest: the Tarvénian capital, the Provenzian merchant cities, the Élavendren judicial seats. The mother-house at [[place-olvestria|Ólvestra]] holds the order's archives—including the master register of every contested oath the order has ruled on in its three-century history, which opens with a boundary oath between two Tarvénian lords ([[lore-sealedwordfnd|The Founding of the Sealed Word]]).
+The order has chapter houses in each Aureldian kingdom, but its operational presence concentrates where commercial life and oath-density are highest: the Tarvénian capital, the Provénzian merchant cities, the Élavendren judicial seats. The mother-house at [[place-olvestria|Ólvestra]] holds the order's archives—including the master register of every contested oath the order has ruled on in its three-century history, which opens with a boundary oath between two Tarvénian lords ([[lore-sealedwordfnd|The Founding of the Sealed Word]]).
 
 ## Doctrine and Practice
 

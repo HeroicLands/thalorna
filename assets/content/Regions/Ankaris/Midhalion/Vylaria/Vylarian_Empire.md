@@ -94,7 +94,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of the [[place-midhalnrgn|Midhalión Region]], from the [[place-tarvenirgn|Tarvénia Region]] and the [[place-provenzrgn|Provenzia Region]] in the west to the edge of [[place-taruzelrgn|Taruzel]] in the east. Today it holds [[place-vylariargn|Vylaria]], its four provinces the lands of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
+The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of the [[place-midhalnrgn|Midhalión Region]], from the [[place-tarvenirgn|Tarvénia Region]] and the [[place-provenzrgn|Provénzia Region]] in the west to the edge of [[place-taruzelrgn|Taruzel]] in the east. Today it holds [[place-vylariargn|Vylaria]], its four provinces the lands of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
 
 The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-orzara|Orzara]], begins with the titles: "You will hear the Emperor called the **Orzas**, and you will call him that too. You will hear [[affiliation-seldan|Seldan]], the Senate, debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
 
@@ -135,7 +135,7 @@ At its height the empire held most of western Ankaris, from the forests of [[pla
 
 ### The Decline
 
-[[lore-empirdclne|The decline]] began roughly two hundred years ago. Overextension, corruption at home, barbarian pressure from Vristwald and the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and the gradual independence of provinces such as Provenzia and Tarvénia drove it together.
+[[lore-empirdclne|The decline]] began roughly two hundred years ago. Overextension, corruption at home, barbarian pressure from Vristwald and the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and the gradual independence of provinces such as Provénzia and Tarvénia drove it together.
 
 The north's hunger raids stripped Moktur's valleys until a legion won its eagle back in the marsh ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), and the far provinces stopped obeying one at a time. About 619 the Orzas [Azénales]{.name data-type="being/npc"} settled what the Empire still was with the Aureldian crowns and the [[affiliation-byzarianlg|Bizarian League]]: their freedom from imperial governance and tax, kept inside the note system at [[affiliation-tarmex|the Tarmeks Orzan]]'s two-percent fee, and Helionis a province on the chancery's roll ([[lore-crownssettle|The Settlement of the Crowns]]). About 680 a regent's council sent the [Doran Hilvan]{.name data-type="affiliation"} into the [[place-kervaron|Kervaron Spine]] and lost it ([[lore-twelfthloss|The Loss of the Twelfth]]).
 
@@ -147,7 +147,7 @@ The empire has since drawn back to its core territories around the Vylarian peni
 
 The [[lore-commoncal|Vylarian Calendar]] of western Ankaris counts from the founding of the empire, the moment a Vylarian _kurthos_ seized supreme power. That moment is **Year 1**. Events before it are dated **[Before the Founding]{.name data-type="lore/calendar"} (BF)** and events after it **[After the Founding]{.name data-type="lore/calendar"} (AF)**. The present year is **720 AF**. The Republic was founded around **650 BF**, and by **400 BF** it was already a major power of the Vylarian Sea.
 
-The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Midhalión, [[place-aureldirgn|Aureldia]], and the lands that were or still are within the empire's cultural sphere: Helionis, [[place-byzariargn|Bizaria]], Taruzel, Provenzia, Tarvénia, Élavendre and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Au'Khelathu]] and [[affiliation-okharis|Okharis]] count from [[lore-qettelgu|the Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
+The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Midhalión, [[place-aureldirgn|Aureldia]], and the lands that were or still are within the empire's cultural sphere: Helionis, [[place-byzariargn|Bizaria]], Taruzel, Provénzia, Tarvénia, Élavendre and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Au'Khelathu]] and [[affiliation-okharis|Okharis]] count from [[lore-qettelgu|the Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
 
 ## Culture and Society
 
@@ -237,7 +237,7 @@ The navy is still competent and holds key points in the [[place-vylarianse|Vylar
 
 The long shadow of empire defines Vylaria's dealings with its neighbors.
 
-- **The [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]** were provinces once and keep a strong Vylarian cultural stamp, and both guard their independence fiercely.
+- **The [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]** were provinces once and keep a strong Vylarian cultural stamp, and both guard their independence fiercely.
 - **[[affiliation-cnfdrtntrzlnstts|Taruzel]]** won its independence roughly twelve years ago, and relations remain tense: the empire has not forgotten the humiliation, and Taruzelian merchant guilds are pushing hard into markets the empire once dominated.
 - **[[place-helionis|Helionis]]**, once the empire's cultural jewel, keeps close and complicated ties. Vylaria conquered Helionis by arms, and Helionite culture conquered Vylaria in return: Vylarian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even though imperial authority there survives only on paper.
 - **[[place-vrystwald|Vristwald]]** to the north is a chronic military problem, and Varokh raids a persistent nuisance.
@@ -296,7 +296,7 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogd
 [[place-helionis|Helionis]]
 : cultural heartland
 
-[[place-provenzrgn|Provenzia Region]]
+[[place-provenzrgn|Provénzia Region]]
 : former province, cultural inheritor
 
 [[place-vrystwald|Vristwald]]

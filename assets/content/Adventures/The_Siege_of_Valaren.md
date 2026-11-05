@@ -18,7 +18,7 @@ The coastal [[place-valarencity|Válaren City]] lies under blockade by forces un
 
 ## Overview
 
-Válaren, a crucial trading port on the [[place-provenzrgn|Provenzian coast]], has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of intrigue by the [[affiliation-vylarinmpr|Vylarian Empire]], others suspect raiders from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] seeking plunder. The truth may be far more complex.
+Válaren, a crucial trading port on the [[place-provenzrgn|Provénzian coast]], has been cut off from supply routes by a mysterious naval blockade. The city's defenders are few, supplies dwindling, and morale cracking. Local nobles blame foreign powers—some whisper of intrigue by the [[affiliation-vylarinmpr|Vylarian Empire]], others suspect raiders from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] seeking plunder. The truth may be far more complex.
 
 ## Stage One: Initial Investigation
 
@@ -27,7 +27,7 @@ The party arrives in or near Válaren as the blockade enters its third month. Th
 - Three ships maintain the blockade, rotating positions to avoid being spotted together
 - A local merchant family has mysteriously gone silent
 - The city's grain reserves will last another six weeks at best
-- A prominent Provenzian noble recently visited Válaren before the blockade began
+- A prominent Provénzian noble recently visited Válaren before the blockade began
 
 **NPCs:**
 
@@ -52,7 +52,7 @@ The party must investigate the blockading ships and gather intelligence. They mi
 
 ## Stage Three: Uncovering the Conspiracy
 
-Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken Provenzia Region's economy.
+Investigation reveals that a powerful Provénzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken Provénzia Region's economy.
 
 **Key Revelation:**
 
@@ -86,8 +86,8 @@ The party must devise and execute a plan to break the blockade. Options include:
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 - [[affiliation-arldnpnthn|Aureldian]]

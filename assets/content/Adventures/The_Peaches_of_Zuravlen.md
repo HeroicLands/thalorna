@@ -14,11 +14,11 @@ data:
   packFolder: adventures
 ---
 
-[[place-zuravlenrgn|The orchards of Zuravlen]] produce the finest peaches in the [[place-provenzrgn|Provenzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
+[[place-zuravlenrgn|The orchards of Zuravlen]] produce the finest peaches in the [[place-provenzrgn|Provénzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
 
 ## Overview
 
-The region of Zuravlen, famous throughout Provenzia and beyond for its exceptional peaches, has been struck by a curse. The fruit that once brought prosperity now brings sickness and death to those who consume it. Entire merchant caravans have been poisoned, trade has collapsed, and the regional economy teeters on ruin. Multiple factions claim the cause and blame each other: some say it's deliberate sabotage by a rival house, others whisper of a curse from an offended mage or spirit. The party must investigate before political maneuvering turns crisis into catastrophe.
+The region of Zuravlen, famous throughout Provénzia and beyond for its exceptional peaches, has been struck by a curse. The fruit that once brought prosperity now brings sickness and death to those who consume it. Entire merchant caravans have been poisoned, trade has collapsed, and the regional economy teeters on ruin. Multiple factions claim the cause and blame each other: some say it's deliberate sabotage by a rival house, others whisper of a curse from an offended mage or spirit. The party must investigate before political maneuvering turns crisis into catastrophe.
 
 ## Stage One: The Crisis
 
@@ -29,7 +29,7 @@ The party arrives in or travels through Zuravlen as the crisis unfolds:
 - Multiple deaths from consumption of Zuravlen peaches
 - Accusations fly between noble houses and merchant families
 - The market for peaches has collapsed, and economic devastation spreads
-- Neighboring regions are banning all Provenzian fruit as a precaution
+- Neighboring regions are banning all Provénzian fruit as a precaution
 
 **Initial Information:**
 
@@ -141,7 +141,7 @@ Harvest Remains
 - Recovery is slow, and some orchards may be permanently damaged
 - If the Thordimalon was involved, they may seek to monopolize the cure or extract political concessions
 - The conspirators' allies may seek revenge or obstruct resolution
-- The party may uncover larger conspiracies or factions working against Provenzia
+- The party may uncover larger conspiracies or factions working against Provénzia
 - The successful resolution brings the party prominence, making them targets for others' schemes
 
 **If the party fails or is compromised:**
@@ -154,8 +154,8 @@ Harvest Remains
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-ordoarcanis|Thordimalon]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[place-elavendre|Élavendre]]

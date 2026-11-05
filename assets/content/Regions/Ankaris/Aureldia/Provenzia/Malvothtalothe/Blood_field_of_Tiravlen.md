@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [tiravellake], population: null, packFo
 ---
 
 On the shore of [[place-tiravellake|Lake Tiravel]], which gives it its name, lies the second of
-the [[place-provenzrgn|Provenzia Region]]'s named [[lore-bloodfields|blood-fields]]—and the one most people have actually seen,
+the [[place-provenzrgn|Provénzia Region]]'s named [[lore-bloodfields|blood-fields]]—and the one most people have actually seen,
 since the lake road runs along its edge and nobody has ever thought to move the road.
 
 ## A Recurrence
@@ -38,4 +38,4 @@ Visitors who insist on watching from the shore are not prevented. They are simpl
 
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provenzia]] · [[place-tiravellake|Lake Tiravel]] · [[lore-tiravlenbattle|Tiravlen]]
+- [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-tiravellake|Lake Tiravel]] · [[lore-tiravlenbattle|Tiravlen]]

@@ -15,7 +15,7 @@ obstacle that stands between a party and the [[miscgear-heartofdhirikri|Heart of
 
 The aralwen lies in the **high forest of [[place-sathvothe|Satvote]]**—the deep wooded country on the shoulders
 of the Áelendan mountains, straddling the frontier between the
-[[place-provenzrgn|Provenzia Region]] and [[place-elavendre|Élavendre]].
+[[place-provenzrgn|Provénzia Region]] and [[place-elavendre|Élavendre]].
 
 That it lies across the border is the important part, and explains nearly everything about how it is
 treated. Neither crown administers it; neither crown has ever seriously tried. The ground is held by the

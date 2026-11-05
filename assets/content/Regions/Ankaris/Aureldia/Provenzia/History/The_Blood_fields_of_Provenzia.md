@@ -1,24 +1,24 @@
 ---
 shortcode: bloodfields
-name: {full: The Blood-fields of Provenzia}
+name: {full: The Blood-fields of Provénzia}
 type: lore
 subType: history
-description: "Provenzia's blood-fields—ground where so many died at once that the boundary with the spirit world was torn rather than worn thin, leaving a resonance of the battle that does not fade; and the war-torn history that gave the kingdom more of them than anywhere else."
+description: "Provénzia's blood-fields—ground where so many died at once that the boundary with the spirit world was torn rather than worn thin, leaving a resonance of the battle that does not fade; and the war-torn history that gave the kingdom more of them than anywhere else."
 tags: []
 data: {packFolder: provenzia, culture: provenzianclt}
 ---
 
-The [[place-provenzrgn|Provenzia Region]]'s history is one of dispute and warfare going back as far as anyone can remember, and the
+The [[place-provenzrgn|Provénzia Region]]'s history is one of dispute and warfare going back as far as anyone can remember, and the
 kingdom carries the record of it in its ground. Scattered across the region are the **blood-fields**:
 places where a battle was fought at such cost that something of it stayed behind.
 
 ## The Naming
 
-Provenzians do not, on the whole, name their battles. They name the **ground**.
+Provénzians do not, on the whole, name their battles. They name the **ground**.
 
-Elsewhere a great engagement is remembered as the Battle of somewhere; in Provenzia the name attaches
+Elsewhere a great engagement is remembered as the Battle of somewhere; in Provénzia the name attaches
 to the place rather than to the fighting, and what survives in common speech is not who won but where
-it happened and what the place is like now. Provenzians call a field a blood-field long
+it happened and what the place is like now. Provénzians call a field a blood-field long
 before they can say which war made it, and for a good many of them nobody can—the resonance
 outlasted the record.
 
@@ -50,7 +50,7 @@ necessarily heal.
 
 ## The Resonances
 
-What a blood-field _does_ varies, and Provenzians classify them by it as readily as a farmer
+What a blood-field _does_ varies, and Provénzians classify them by it as readily as a farmer
 classifies soil. Most do no harm by day and a great deal of it after dark. A few are ruinous.
 
 Recurrence
@@ -66,7 +66,7 @@ The Dread
 : the field returns what was felt on it. Panic, rage, or a terrible unwilling steadiness comes over those who linger, and it does not announce itself as external. Commanders have known this for centuries, and the practice of maneuvering an enemy onto a dreading field is old enough to have a name and disreputable enough to be denied.
 
 The Withering
-: rarest, and the one that ruins a district. The land dies: crops fail, beasts sicken, the soil goes sour and the sickness spreads outward. Only a handful are recorded, and the [[place-bldfldyharvalen|Blood-field of Yarvalen]] is the one every Provenzian can name.
+: rarest, and the one that ruins a district. The land dies: crops fail, beasts sicken, the soil goes sour and the sickness spreads outward. Only a handful are recorded, and the [[place-bldfldyharvalen|Blood-field of Yarvalen]] is the one every Provénzian can name.
 
 A field's resonance is fixed at the making and does not change on its own. Fields that have been
 _worked on_ are another matter.
@@ -87,12 +87,12 @@ never been permitted to, chiefly because every proposal has involved opening one
 ## The Black Flame
 
 Since a blood-field is a permanent reservoir of violent death, it is precisely what
-[[affiliation-blackflame|The Black Flame]] wants, and the cult's interest in Provenzia is best
+[[affiliation-blackflame|The Black Flame]] wants, and the cult's interest in Provénzia is best
 understood as an interest in its blood-fields. A field can be **worked on**—its resonance roused,
 deepened, and turned from something a village lives beside into something that consumes the district.
 That is what has happened at Yarvalen.
 
-There are a good many blood-fields in Provenzia, and there is no register of them. This is the single
+There are a good many blood-fields in Provénzia, and there is no register of them. This is the single
 strongest argument for making one, and the single strongest argument against.
 
 ## The Known Fields
@@ -115,11 +115,11 @@ strongest argument for making one, and the single strongest argument against.
 [[place-bldfldcalvenza|Kalvenza]]
 : the southern coast; a **silence**.
 
-These are the ones with names. Provenzians will tell you there are many more, and that a field does
+These are the ones with names. Provénzians will tell you there are many more, and that a field does
 not need a name to be a blood-field.
 
 ## See Also
 
 - [[lore-bloodfield|Blood-fields]]—what every people agrees a blood-field is, and the register of fields
-- [[place-provenzrgn|Provenzia Region]] · [[lore-aralwen|Aralwen]]
+- [[place-provenzrgn|Provénzia Region]] · [[lore-aralwen|Aralwen]]
 - [[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-blackflame|the Black Flame]]

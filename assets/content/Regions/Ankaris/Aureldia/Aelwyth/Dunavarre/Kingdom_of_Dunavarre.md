@@ -66,7 +66,7 @@ sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 
 ## Overview
 
-Dúnavarre is the most powerful and diplomatically active kingdom on [[place-aelwyth|Aelwyth]], occupying the southeastern coast of the island where the best natural harbors face the open sea toward [[place-elavendre|Élavendre]] and the mainland beyond. Where other Aelwythan polities look inward—to the mysteries of the great central lake or the feudal quarrels of the lowlands—Dúnavarre looks outward, maintaining trade and diplomatic ties with the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], and even the courts of the [[affiliation-vylarinmpr|Vylarian Empire]]. The kingdom holds the land of [[place-dunavarre|Dúnavarre]].
+Dúnavarre is the most powerful and diplomatically active kingdom on [[place-aelwyth|Aelwyth]], occupying the southeastern coast of the island where the best natural harbors face the open sea toward [[place-elavendre|Élavendre]] and the mainland beyond. Where other Aelwythan polities look inward—to the mysteries of the great central lake or the feudal quarrels of the lowlands—Dúnavarre looks outward, maintaining trade and diplomatic ties with the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], and even the courts of the [[affiliation-vylarinmpr|Vylarian Empire]]. The kingdom holds the land of [[place-dunavarre|Dúnavarre]].
 
 ## Government
 

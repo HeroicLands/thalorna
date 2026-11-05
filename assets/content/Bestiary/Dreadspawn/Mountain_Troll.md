@@ -440,7 +440,7 @@ The pass is a notch of bare rock between two shoulders of snow, and the cairn at
 
 # Dossier {#dossier}
 
-The Mountain Troll is the greatest of the trolls: a dreadspawn sixteen to twenty feet tall and as heavy as a cottage, with a hide half turned to stone, a body that heals almost anything, and strength enough to tear boulders from a mountainside. It holds a range of high country twenty miles across or more, sleeps for weeks in a deep cave, and eats prodigiously when it wakes. One holds a pass of the [[place-talothe|Talote]], the cold mountain march between [[place-provenzrgn|Provenzia Region]] and [[place-tarvenirgn|Tarvénia Region]], and it has done what neither crown could: it has closed one of the raiding roads altogether. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Mountain Troll is the greatest of the trolls: a dreadspawn sixteen to twenty feet tall and as heavy as a cottage, with a hide half turned to stone, a body that heals almost anything, and strength enough to tear boulders from a mountainside. It holds a range of high country twenty miles across or more, sleeps for weeks in a deep cave, and eats prodigiously when it wakes. One holds a pass of the [[place-talothe|Talote]], the cold mountain march between [[place-provenzrgn|Provénzia Region]] and [[place-tarvenirgn|Tarvénia Region]], and it has done what neither crown could: it has closed one of the raiding roads altogether. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -448,7 +448,7 @@ The mountain troll is enormous and massive, broad as a barn, with a small heavy 
 
 ## In the Land
 
-The Talote's mountains close from the first snow to the thaw, and between thaw and snow the border families of both kingdoms raid each other over pasture, passes and precedence, a war nobody declares. The mountain troll holds the high country round one of those passes, from the summer pastures on the Provenzian side to the snowfields on the Tarvénian, with its lair in a deep cave under the pass. It eats everything: summer sheep and cattle, goats, bears, carrion, roots, lichen by the cartload. It follows the same rounds through its range year after year, and it sleeps through the worst of the winter. It tolerates no other large creature in its range, and it treats raiders from either side the same.
+The Talote's mountains close from the first snow to the thaw, and between thaw and snow the border families of both kingdoms raid each other over pasture, passes and precedence, a war nobody declares. The mountain troll holds the high country round one of those passes, from the summer pastures on the Provénzian side to the snowfields on the Tarvénian, with its lair in a deep cave under the pass. It eats everything: summer sheep and cattle, goats, bears, carrion, roots, lichen by the cartload. It follows the same rounds through its range year after year, and it sleeps through the worst of the winter. It tolerates no other large creature in its range, and it treats raiders from either side the same.
 
 ## Key Behaviors
 

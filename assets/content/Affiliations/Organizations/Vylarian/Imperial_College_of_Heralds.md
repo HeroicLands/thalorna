@@ -95,7 +95,7 @@ The College's present quarrel is the succession. The reigning Orzas is old and h
 
 # The Truth of the College {#truth .secret}
 
-The College is the cover for the throne's own intelligence network. Lord Aimilon Visbari is the Orzas's spymaster, as his father was before him, and the network of informants and agents he inherited and has widened runs through every level of society from Provenzia to Taruzel. The College gives its heralds a reason to be at every court, every funeral and every embassy, and its roll gives them a reason to ask about every marriage and every heir. Most heralds know nothing of the network. Aimilon has no children, and he is looking for a successor among people the College has never heard of.
+The College is the cover for the throne's own intelligence network. Lord Aimilon Visbari is the Orzas's spymaster, as his father was before him, and the network of informants and agents he inherited and has widened runs through every level of society from Provénzia to Taruzel. The College gives its heralds a reason to be at every court, every funeral and every embassy, and its roll gives them a reason to ask about every marriage and every heir. Most heralds know nothing of the network. Aimilon has no children, and he is looking for a successor among people the College has never heard of.
 
 **The rival services.** Four bodies gather intelligence for Vylarian masters, and they watch one another as closely as they watch anyone abroad.
 

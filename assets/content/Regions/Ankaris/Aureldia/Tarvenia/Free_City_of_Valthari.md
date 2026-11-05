@@ -96,7 +96,7 @@ Valthari is everything the mountain lords of [[affiliation-kngdmstrth|Asturath]]
 
 The Consejarath—the ruling council—is drawn from the dozen or so merchant dynasties that control the city's major trading houses, shipyards, and banking operations. Seats on the council are fiercely contested, and Valthari politics are an intricate dance of commercial alliances, marriage pacts, and occasionally, discreet assassination. The city maintains its own small but professional navy to protect its shipping lanes, and its marine soldiers are among the best-equipped troops in Tarvénia.
 
-Culturally, Valthari is more cosmopolitan than the rest of Tarvénia. [[skill-provnzlng|Provenzal]] is widely spoken alongside [[skill-tarvenlng|Tarveni]], Taruzeli merchants maintain their own quarter, and the city's architecture blends Tarvenan stone-and-iron practicality with Provenzian elegance. The mountain lords consider Valthari soft and foreign-tainted; Valthari considers the mountain lords provincial and broke. Both assessments contain a grain of truth.
+Culturally, Valthari is more cosmopolitan than the rest of Tarvénia. [[skill-provnzlng|Provenzal]] is widely spoken alongside [[skill-tarvenlng|Tarveni]], Taruzeli merchants maintain their own quarter, and the city's architecture blends Tarvenan stone-and-iron practicality with Provénzian elegance. The mountain lords consider Valthari soft and foreign-tainted; Valthari considers the mountain lords provincial and broke. Both assessments contain a grain of truth.
 
 ## Commerce and Currency
 
@@ -119,5 +119,5 @@ Free City of Valthari uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / A
 [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
 : Fellow Tarvenan free polity
 
-[[place-provenzrgn|Provenzia Region]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+[[place-provenzrgn|Provénzia Region]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : Major trading partners

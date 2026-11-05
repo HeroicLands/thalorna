@@ -155,7 +155,7 @@ ul denoi doranti kurelate pelize. ul pramiza.
 [[lore-karalzelmnt|The Lament for Karalze]]
 : the lament Sirrelure made for the patron who took him off the road
 
-[[lore-provenzianclt|Provenzian]]
+[[lore-provenzianclt|Provénzian]]
 : courtly love as a code of conduct, the love name, and the contract between two houses
 
 [[skill-provnzlng|Provenzal]]

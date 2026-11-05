@@ -402,7 +402,7 @@ Ilendor Mirdal is a 58-year-old man who stands 5'4" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a guilded family of [[lore-provenzianclt|Provenzian]] heritage, Ilendor Mirdal came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provénzia region]] to a guilded family of [[lore-provenzianclt|Provénzian]] heritage, Ilendor Mirdal came into the world of the astrologer through a combination of circumstance and aptitude.
 
 Ilendor is a well known astrologer who serves the court of a powerful noble family. His predictions have shaped political decisions and royal marriages. Though his accuracy is respected, he is also known for being cryptic and difficult to approach. Ilendor’s interest in the stars began during his youth, where a solar eclipse inspired him to pursue astrology.
 
@@ -424,7 +424,7 @@ Highly knowledgeable about celestial events and their influences.
 
 Ilendor is affiliated with the [Royal Astrological Society]{.name data-type="affiliation"}.
 
-As a Provenzian astrologer, Ilendor occupies a recognized social niche within Provenzia society.
+As a Provénzian astrologer, Ilendor occupies a recognized social niche within Provénzia society.
 
 ## Companions
 
@@ -439,7 +439,7 @@ A rival astrologer who seeks to discredit his work.
 ## Plot Hooks
 
 The Astrologer's Dilemma
-: Ilendor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
+: Ilendor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
 
 Old Grudges
 : A rival astrologer who seeks to discredit his work. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -448,7 +448,7 @@ Echoes of the Past
 : Something from Ilendor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Provenzia threaten to upend the social order that Ilendor depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Provénzia threaten to upend the social order that Ilendor depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Ilendor the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -14,26 +14,26 @@ data:
   packFolder: adventures
 ---
 
-Tensions boil beneath the surface in the coastal [[place-batarencity|Bataren City]], where Provenzian rulers and the indigenous [[lore-elavendrnppl|Élavendren people]]—descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago—clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
+Tensions boil beneath the surface in the coastal [[place-batarencity|Bataren City]], where Provénzian rulers and the indigenous [[lore-elavendrnppl|Élavendren people]]—descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago—clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
 
 ## Overview
 
-Bataren, a prosperous coastal city in the southern [[place-provenzrgn|Provenzia Region]], sits at the intersection of two cultures. The city's Provenzian ruling class and merchant establishment maintain order through law and tradition, while the [[lore-aelendnppl|Áelendan people]]—descendants of those who dwelt in the borderlands before Provenzian expansion—chafe under restrictions and marginalization. For decades, an uneasy peace has held. Now, carefully orchestrated incidents are pushing both communities toward open conflict, and the party must uncover who benefits from this war.
+Bataren, a prosperous coastal city in the southern [[place-provenzrgn|Provénzia Region]], sits at the intersection of two cultures. The city's Provénzian ruling class and merchant establishment maintain order through law and tradition, while the [[lore-aelendnppl|Áelendan people]]—descendants of those who dwelt in the borderlands before Provénzian expansion—chafe under restrictions and marginalization. For decades, an uneasy peace has held. Now, carefully orchestrated incidents are pushing both communities toward open conflict, and the party must uncover who benefits from this war.
 
 ## Stage One: Arrival & Observation
 
 The party arrives in Bataren (or is already present) and begins to notice:
 
-- Rising tension between Provenzian citizens and Áelendan residents
+- Rising tension between Provénzian citizens and Áelendan residents
 - Isolated violence: attacks on Áelendan merchants, vandalism, murder
-- The Provenzian authorities seem more interested in suppressing news than investigating causes
+- The Provénzian authorities seem more interested in suppressing news than investigating causes
 - Áelendi leaders are meeting secretly, preparing for organized response
 - Rumors of foreign influence: whispers of [[affiliation-vylarinmpr|Vylarian agents]], [[affiliation-ordoarcanis|Thordimalon]] manipulation, or northern interests
 
 **NPCs:**
 
 - An Áelendan community leader concerned about escalation
-- A Provenzian city official dismissive of the conflict's seriousness
+- A Provénzian city official dismissive of the conflict's seriousness
 - A sympathetic merchant or priest attempting to mediate
 - An agitator on either side of the conflict (possibly working for hidden interests)
 
@@ -53,7 +53,7 @@ The party must uncover the root causes and hidden agents behind the escalating t
 - The party may be mistaken for agents of one side or the other
 - Witnesses are intimidated or paid off
 - A party member is personally drawn into the conflict (past connection, forced allegiance)
-- The Provenzian authorities openly obstruct investigation (if they're complicit)
+- The Provénzian authorities openly obstruct investigation (if they're complicit)
 
 ## Stage Three: The Conspiracy Revealed
 
@@ -62,16 +62,16 @@ Investigation reveals that a foreign power is deliberately stoking conflict to d
 **Possible Architects:**
 
 Vylarian Agents
-: The Vylarian Empire seeks to undermine Provenzian stability and justify imperial intervention
+: The Vylarian Empire seeks to undermine Provénzian stability and justify imperial intervention
 
 Thordimalon Manipulation
-: Thordimalon manipulates both sides to weaken Provenzian independence or create a pretext for magical research
+: Thordimalon manipulates both sides to weaken Provénzian independence or create a pretext for magical research
 
 Nordheim Interests
 : Raiders from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] or their agents seek to damage the city's naval power and trade influence
 
 Internal Conspiracy
-: A Provenzian noble faction uses foreign agents to advance their own position
+: A Provénzian noble faction uses foreign agents to advance their own position
 
 **Key Evidence:**
 
@@ -95,7 +95,7 @@ As the conspiracy is exposed, the community stands on the brink of open warfare.
 - A violent incident occurs during the party's investigation (they must choose sides or prevent escalation)
 - The foreign agents attempt to complete their sabotage before exposure
 - Both communities' hotheads move toward violence regardless of the truth
-- The Provenzian authorities attempt to suppress the truth or blame the party
+- The Provénzian authorities attempt to suppress the truth or blame the party
 - A direct confrontation with the foreign power's representatives (diplomacy or combat)
 
 ## Stage Five: Aftermath & Lasting Impact
@@ -104,7 +104,7 @@ As the conspiracy is exposed, the community stands on the brink of open warfare.
 
 - The conspiracy is exposed and foreign agents are removed or neutralized
 - Bataren's communities begin healing, though deep wounds remain
-- Relations between Áelendan and Provenzian leadership improve significantly
+- Relations between Áelendan and Provénzian leadership improve significantly
 - The party gains allies in both communities
 - They may be commissioned to prevent similar infiltration in other cities
 - Foreign powers may seek subtle revenge or renewed manipulation later
@@ -114,19 +114,19 @@ As the conspiracy is exposed, the community stands on the brink of open warfare.
 - Some hotheads refuse to believe the conspiracy and blame the party
 - Economic or cultural tensions remain even if violence is prevented
 - The foreign power establishes new agents or strategies to achieve their goals
-- The Provenzian authorities may take credit for resolving the crisis or blame the party for disruption
+- The Provénzian authorities may take credit for resolving the crisis or blame the party for disruption
 
 **If the party fails:**
 
 - Open warfare erupts between communities
 - Bataren is crippled economically and socially
-- The foreign conspiracy succeeds in weakening Provenzia Region
+- The foreign conspiracy succeeds in weakening Provénzia Region
 - The party may be blamed for the violence or forced into one side of the conflict
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[place-provenzrgn|Provénzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[lore-aelendnppl|Áelendan People]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]
 - [[affiliation-ordoarcanis|Thordimalon]]

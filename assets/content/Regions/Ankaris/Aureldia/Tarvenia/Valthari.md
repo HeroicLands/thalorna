@@ -16,7 +16,7 @@ data: {demonym: null, lore: [], parents: [tarvenirgn], population: 45000, govern
 
 The harbor pidgin of the whole coast, [[skill-valtarlng|Valtari]], is named for this port, where its first fixed form grew up on the quays.
 
-The harbor is crowded with ships from the [[place-provenzrgn|Provenzia Region]], the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], [[place-helionis|Helionis]] and beyond, and the dockside markets trade in goods from across [[place-midhalnrgn|Midhalión]]. [[skill-provnzlng|Provenzal]] is spoken widely beside [[skill-tarvenlng|Tarveni]], Taruzeli merchants keep their own quarter, and the city's architecture blends Tarvenan stone-and-iron practicality with Provenzian elegance. The mountain lords call Valthari soft and foreign-tainted, and Valthari calls them provincial and broke. Both assessments contain a grain of truth.
+The harbor is crowded with ships from the [[place-provenzrgn|Provénzia Region]], the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], [[place-helionis|Helionis]] and beyond, and the dockside markets trade in goods from across [[place-midhalnrgn|Midhalión]]. [[skill-provnzlng|Provenzal]] is spoken widely beside [[skill-tarvenlng|Tarveni]], Taruzeli merchants keep their own quarter, and the city's architecture blends Tarvenan stone-and-iron practicality with Provénzian elegance. The mountain lords call Valthari soft and foreign-tainted, and Valthari calls them provincial and broke. Both assessments contain a grain of truth.
 
 ## Who Governs
 

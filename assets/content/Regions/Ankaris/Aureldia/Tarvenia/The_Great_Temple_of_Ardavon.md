@@ -22,7 +22,7 @@ The archbishop is also the brother of [[being-zedimazenoth|Zédima Zenothis]], O
 
 ## Who Rules It {#who-rules-it}
 
-Archbishop Thaluro is the prelate at Polthamis. He confirms under seal the arbitrations of the priests the temple sends out, and Father Ostaran meets him on the register four times a year. The prelate answers to the faith's hierarchy above him: the Sarnal of the Temple Judges and the Volsarnor, the High Judge, who keeps his seat in [[place-provenzrgn|Provenzia]].
+Archbishop Thaluro is the prelate at Polthamis. He confirms under seal the arbitrations of the priests the temple sends out, and Father Ostaran meets him on the register four times a year. The prelate answers to the faith's hierarchy above him: the Sarnal of the Temple Judges and the Volsarnor, the High Judge, who keeps his seat in [[place-provenzrgn|Provénzia]].
 
 ## Lands and Income {#lands-and-income}
 

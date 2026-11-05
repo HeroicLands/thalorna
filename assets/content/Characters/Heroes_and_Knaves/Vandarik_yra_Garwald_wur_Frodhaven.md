@@ -416,7 +416,7 @@ Vandarik is glib, charming, and fundamentally hollow. He relates to other people
 
 ### Motivation
 
-Vandarik wants comfort, excitement, and the satisfaction of outwitting others. He has no loyalty to the gang, to Vristwald, or to any cause larger than himself. He stays with the Blackpine Wolves because it currently suits him, but he is always calculating his next move. He dreams of pulling off one magnificent score—enough to buy a new identity and a comfortable life in a [[lore-provenzianclt|Provenzian]] city far from the pines.
+Vandarik wants comfort, excitement, and the satisfaction of outwitting others. He has no loyalty to the gang, to Vristwald, or to any cause larger than himself. He stays with the Blackpine Wolves because it currently suits him, but he is always calculating his next move. He dreams of pulling off one magnificent score—enough to buy a new identity and a comfortable life in a [[lore-provenzianclt|Provénzian]] city far from the pines.
 
 ### Strengths
 

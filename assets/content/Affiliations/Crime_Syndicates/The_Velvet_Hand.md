@@ -77,11 +77,11 @@ sohl: {system: {commonSkills: []}}
 
 Born from the intersection of Helionite mystery cults and the Vylarian court's insatiable appetite for intrigue, the Velvet Hand trades in the most valuable commodity of all: secrets. Where [[affiliation-crimsnldgr|the Crimson Ledger]] follows the money and [[affiliation-graytide|the Gray Tide]] follows the cargo, the Velvet Hand follows the whisper—the unguarded word in a bedchamber, the letter left unsealed on a _kurthos_'s desk, the confession extracted from a dying man by a sympathetic healer who happens to have a very good memory.
 
-The organization grew in [[place-helionis|Helionis]], where the [Academy of the Silver Veil]{.name data-type="affiliation"} already trained sophisticated political agents—educated courtesans, philosophical companions, and social intermediaries. The Velvet Hand recruited from its graduates and dropouts alike, recognizing that the same skills that make an excellent hetairin also make an excellent spy. From Helionis, the network spread to the [[affiliation-vylarinmpr|Vylarian Empire]]'s rigid, faction-ridden court, where information is currency and a _kurthos_'s valet hears more than [[affiliation-seldan|Seldan]] (the Vylarian Senate) itself. In [[place-provenzrgn|Provenzia]], theatrical troupes and artistic salons provide perfect cover for operatives who can adopt any persona.
+The organization grew in [[place-helionis|Helionis]], where the [Academy of the Silver Veil]{.name data-type="affiliation"} already trained sophisticated political agents—educated courtesans, philosophical companions, and social intermediaries. The Velvet Hand recruited from its graduates and dropouts alike, recognizing that the same skills that make an excellent hetairin also make an excellent spy. From Helionis, the network spread to the [[affiliation-vylarinmpr|Vylarian Empire]]'s rigid, faction-ridden court, where information is currency and a _kurthos_'s valet hears more than [[affiliation-seldan|Seldan]] (the Vylarian Senate) itself. In [[place-provenzrgn|Provénzia]], theatrical troupes and artistic salons provide perfect cover for operatives who can adopt any persona.
 
 ## Territory
 
-**Primary:** Vylarian cities (especially [[place-orzara|Orzara]] and [[place-alyssa|Alessa]]), Provenzian courts and cultural centers, Helionite city-states ([[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]])
+**Primary:** Vylarian cities (especially [[place-orzara|Orzara]] and [[place-alyssa|Alessa]]), Provénzian courts and cultural centers, Helionite city-states ([[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]])
 
 **Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Taruzelian guild hall or a Ta.Khelathi court can be worth more than a dozen enforcers.
 
@@ -97,7 +97,7 @@ The organization grew in [[place-helionis|Helionis]], where the [Academy of the 
 
 ## Organization
 
-The Velvet Hand operates in isolated cells, each knowing only its immediate handler. A pleasure house madam in Orzara might manage six informants but knows nothing about operations in Provenzia. Handlers report to regional coordinators, who communicate through coded letters delivered via the Velvet Hand's own courier network—often traveling performers or itinerant scholars whose movements attract no suspicion.
+The Velvet Hand operates in isolated cells, each knowing only its immediate handler. A pleasure house madam in Orzara might manage six informants but knows nothing about operations in Provénzia. Handlers report to regional coordinators, who communicate through coded letters delivered via the Velvet Hand's own courier network—often traveling performers or itinerant scholars whose movements attract no suspicion.
 
 Leadership is deliberately opaque. The organization is rumored to be run by a council, possibly based in Helionis, but no one outside the highest levels knows for certain. This ambiguity is intentional—you cannot betray what you do not know, and you cannot decapitate what you cannot find.
 

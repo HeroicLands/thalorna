@@ -419,7 +419,7 @@ Kelena stands 5'7" tall with a heavy build. She has golden-toned skin, flowing b
 
 ### The Dancer's Daughter
 
-Kelena was born in the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] to a musician mother and a father whose identity she has never disclosed and seems reluctant to discuss. Her childhood was spent in the theatrical world—her mother performed in various traveling troupes, and young Kelena was raised backstage, absorbing the arts of performance, seduction, and social manipulation as naturally as other children learn language. By age ten, she performed minor roles in stage productions; by fifteen, she was drawing attention as a dancer of unusual grace and charisma. Yet she demonstrated an early intelligence about the performance itself—understanding that physical beauty and dancing skill, while important, were secondary to the art of capturing and holding an audience's emotional attention.
+Kelena was born in the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] to a musician mother and a father whose identity she has never disclosed and seems reluctant to discuss. Her childhood was spent in the theatrical world—her mother performed in various traveling troupes, and young Kelena was raised backstage, absorbing the arts of performance, seduction, and social manipulation as naturally as other children learn language. By age ten, she performed minor roles in stage productions; by fifteen, she was drawing attention as a dancer of unusual grace and charisma. Yet she demonstrated an early intelligence about the performance itself—understanding that physical beauty and dancing skill, while important, were secondary to the art of capturing and holding an audience's emotional attention.
 
 ### The Rise Through Society
 
@@ -427,7 +427,7 @@ At eighteen, Kelena made a deliberate transition from theatrical performer to co
 
 ### Current Circumstances
 
-Now established as one of Provenzia's most desired courtesans, Kelena has made her trade into something approaching an art form. She maintains relationships with multiple powerful patrons simultaneously, each believing himself her favorite, each showering her with gifts and attention. She owns a townhouse in the capital, maintains several business interests including a small but fashionable theater troupe, and has accumulated considerable wealth and influence. Yet she has carefully avoided becoming too dependent on any single patron, having learned young the fragility of fortunes built on others' affection.
+Now established as one of Provénzia's most desired courtesans, Kelena has made her trade into something approaching an art form. She maintains relationships with multiple powerful patrons simultaneously, each believing himself her favorite, each showering her with gifts and attention. She owns a townhouse in the capital, maintains several business interests including a small but fashionable theater troupe, and has accumulated considerable wealth and influence. Yet she has carefully avoided becoming too dependent on any single patron, having learned young the fragility of fortunes built on others' affection.
 
 ## Psyche
 
@@ -495,7 +495,7 @@ Merchant-Prince [[being-chalzimechol|Chalzime Cholsamis]]
 
 ### Affiliations
 
-[[affiliation-prvnzthtrclctv|The Provenzia Theater Collective]]
+[[affiliation-prvnzthtrclctv|The Provénzia Theater Collective]]
 : An informal association of performers and theater operators that Kelena helped establish and continues to influence. Through this group, she maintains connections to the artistic and performance communities even as she operates primarily in high society.
 
 ## Plot Hooks

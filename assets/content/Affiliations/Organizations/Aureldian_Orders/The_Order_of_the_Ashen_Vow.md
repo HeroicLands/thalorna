@@ -99,7 +99,7 @@ Combat doctrine emphasizes incendiary tactics, the use of alchemical fire-throwe
 
 - [[affiliation-olvstrncell|The Ólvestran Cell]] (Tarvénia)—the largest single cell; operates under the protection of the hill-baronies; commanded by Elder [Drogo of the Sealed Forge]{.name data-type="being/npc"} (a name taken at initiation; the brother's birth name is no longer used).
 - [The Péravel Shadow-Cell]{.name data-type="affiliation"} ([[place-elavendre|Élavendre]])—the most exposed cell; operates against direct suppression by the Sacred Forge and [[affiliation-bardicolgs|the Bardic Colleges]] (the Bardic Circle); smaller and more guarded than the Tarvénian operations.
-- **Various dispersed cells** in the rural Provenzian highlands, the Aelwythan coast, and the Tarvénian frontier.
+- **Various dispersed cells** in the rural Provénzian highlands, the Aelwythan coast, and the Tarvénian frontier.
 
 ## Relations
 
@@ -129,7 +129,7 @@ Outside the chapter site brothers wear nothing identifiable. The order maintains
 
 ## Plot Hooks
 
-- **The Cleansing of a Sacred Forge Bishop.** An Elder of the Ashen Vow has determined that the Sacred Forge bishop of a major Provenzian city is corrupt beyond redemption and has assigned a cell to his cleansing. The cell is preparing the operation; the bishop is aware of the threat and has taken measures; the Order of the Sealed Word has been informed and is mobilizing. The cell will execute regardless of the cost.
+- **The Cleansing of a Sacred Forge Bishop.** An Elder of the Ashen Vow has determined that the Sacred Forge bishop of a major Provénzian city is corrupt beyond redemption and has assigned a cell to his cleansing. The cell is preparing the operation; the bishop is aware of the threat and has taken measures; the Order of the Sealed Word has been informed and is mobilizing. The cell will execute regardless of the cost.
 - **The Captured Brother.** A Sworn Brother has been taken alive by the Tarvénian crown's investigators. By the Sanctity of the Secret, he must silence himself; the cell is racing to enable his silence before he can be made to speak.
 - **The Apostate's Trail.** A brother of standing has formally renounced the Ashen Vow and disappeared. The order regards apostasy as a higher priority than ordinary heresy; a pursuit team is being assembled. The apostate has, however, taken with him substantial knowledge of the order's structure, including the identities of several Elders.
 - **The Internal Schism.** A senior cell has begun arguing, privately, that the Refusal of Half-Measure has produced operational costs the order can no longer absorb—that the doctrine must be relaxed to permit limited operations short of total destruction. The Voice of the Ash is preparing to summon a conclave at which the heresy will be addressed. The advocate of the relaxation is a brother of substantial reputation.

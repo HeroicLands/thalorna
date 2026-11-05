@@ -83,7 +83,7 @@ The Republic conquered Helionis between 335 and 312 BF, during its expansion acr
 
 Across the southern sea, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] is an ancient civilization with which Helionis has exchanged ideas for centuries. Helionite philosophy has shaped Khelathi theological debate, and Khelathi mathematics, astronomy and architecture have enriched Helionite scholarship. That relationship is warmer and more equal than the entanglement with Vylaria.
 
-[[affiliation-cnfdrtntrzlnstts|Taruzel]], across the water to the south, is a natural trading partner, and Helionite olive oil, wine and luxury crafts flow through Taruzelian ports to markets across the world. [[place-provenzrgn|Provenzia]] is a cultural rival and admirer whose people have adopted much of Helionite philosophy and art, sometimes to the Helionites' annoyance. Relations with Bizaria to the east are complicated: the two share cultural roots and have grown apart over centuries.
+[[affiliation-cnfdrtntrzlnstts|Taruzel]], across the water to the south, is a natural trading partner, and Helionite olive oil, wine and luxury crafts flow through Taruzelian ports to markets across the world. [[place-provenzrgn|Provénzia]] is a cultural rival and admirer whose people have adopted much of Helionite philosophy and art, sometimes to the Helionites' annoyance. Relations with Bizaria to the east are complicated: the two share cultural roots and have grown apart over centuries.
 
 ## What Helionis Is Known For
 
@@ -137,7 +137,7 @@ The theaters
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : eastern trading partner
 
-[[place-provenzrgn|Provenzia Region]]
+[[place-provenzrgn|Provénzia Region]]
 : cultural rival and admirer
 
 [[place-byzariargn|Bizaria Region]]

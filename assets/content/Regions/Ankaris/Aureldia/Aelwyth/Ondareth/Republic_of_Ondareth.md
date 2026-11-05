@@ -192,7 +192,7 @@ houses are. Its doctrine—purification by fire, the strong over the weak—sits
 a republic where influence is openly for sale, and [[affiliation-sacredforge|the Sacred Forge]] has been
 saying so for fifty years to no effect whatever.
 
-The Flame's other western stronghold is across the water in [[place-provenzrgn|Provenzia]], where
+The Flame's other western stronghold is across the water in [[place-provenzrgn|Provénzia]], where
 [[place-harivrencity|Hárivren]]'s earl holds it openly. Whether the two are coordinated is a question
 the Forge asks loudly and cannot answer.
 

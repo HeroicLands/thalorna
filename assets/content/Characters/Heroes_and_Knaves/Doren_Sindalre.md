@@ -418,7 +418,7 @@ Doren is a towering man of twenty-eight, standing six foot four with a heavy, mu
 
 # Dossier {#dossier}
 
-Doren hails from the rugged highlands of [[place-provenzrgn|Provenzia]], where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
+Doren hails from the rugged highlands of [[place-provenzrgn|Provénzia]], where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
 
 His reputation as a fighter drew the attention of [[being-branwldrgr|Branval]], who recruited him into [[affiliation-slntlncmpny|the Silent Talon]] for his resilience and brute force. Doren has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
 

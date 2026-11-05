@@ -3,7 +3,7 @@ shortcode: korvathis
 name: {full: Korvatis}
 type: place
 subType: region
-description: "The warm Vylarian shore and its hinterland—half of Provenzia's people and most of its money, holding the capital, the great ports, the old imperial city and the law."
+description: "The warm Vylarian shore and its hinterland—half of Provénzia's people and most of its money, holding the capital, the great ports, the old imperial city and the law."
 tags: [region, coastal]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 **Korvatis**—_the noon country_; the south, and by long implication the warm and prosperous part.
 
-The **Korvatis** is [[place-provenzrgn|Provenzia]] as the world pictures it, and as half of Provenzia actually lives:
+The **Korvatis** is [[place-provenzrgn|Provénzia]] as the world pictures it, and as half of Provénzia actually lives:
 some two and a half million people along the warm, sheltered shore of the
 [[place-vylarianse|Vylarian Sea]] and in the country behind it. It carries the overwhelming majority of
 the kingdom's trade, wealth and population, and every other quarter of the realm is in some measure
@@ -53,8 +53,8 @@ are the exception to everything above: thinly held, badly mapped, and never real
 forgotten [[place-shrinethuravelhills|shrine]] is somewhere in them.
 
 The [[place-bldfldcalvenza|Blood-field of Kalvenza]] lies above the shore, a hundred silent acres
-in the middle of the most comfortable country in Provenzia.
+in the middle of the most comfortable country in Provénzia.
 
 ## See Also
 
-- [[place-provenzrgn|Provenzia Region]] · [[place-vylarianse|Vylarian Sea]]
+- [[place-provenzrgn|Provénzia Region]] · [[place-vylarianse|Vylarian Sea]]

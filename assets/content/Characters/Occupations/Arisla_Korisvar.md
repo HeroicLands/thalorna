@@ -397,7 +397,7 @@ Arisla Kórisvar is a 32-year-old woman who stands 6'0" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia region]] to a minor noble family of [[lore-provenzianclt|Provenzian]] heritage, Arisla Kórisvar is a herald.
+Born in the [[place-provenzrgn|Provénzia region]] to a minor noble family of [[lore-provenzianclt|Provénzian]] heritage, Arisla Kórisvar is a herald.
 
 Lady Arisla Kórisvar was born into a minor noble family known for their service as heralds and courtiers. She has a natural gift for oratory and a sharp understanding of how people stand with one another, which she uses to her advantage when delivering announcements and mediating disputes. She is well liked for her poise and her ability to suit her style to the occasion, whether formal or more relaxed. Her informal manner has won her praise, and it has also drawn criticism from more traditional heralds.
 
@@ -441,7 +441,7 @@ Echoes of the Past
 : A dispute Arisla mediated in her early years comes apart, and both sides blame her.
 
 Shifting Winds
-: Political change in Provenzia threatens the standing Arisla's noble patrons give her, and she can adapt, resist, or leave.
+: Political change in Provénzia threatens the standing Arisla's noble patrons give her, and she can adapt, resist, or leave.
 
 The Opportunity
 : Arisla is offered the post of herald to a great house, and its price is not named up front.
