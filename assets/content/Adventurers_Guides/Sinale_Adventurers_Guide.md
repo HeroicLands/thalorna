@@ -22,7 +22,7 @@ The [[lore-flksinale|Sinale]] are the eldest of the speaking peoples, the Firstb
 
 Elsewhere the welcome is thinner. On [[place-aelwyth|Eilwith]] the Sinale of [[place-hallowwood|the Hallowwood]] tolerate embassies from [[affiliation-kingdmdnvr|Dúnavarre]], welcome Élavendre and receive the Áelendan above all; after the break they held the whole island under a Sinale king, together with the [[lore-flkkhazar|Khazari]], until he was killed at [[place-threesisters|the Three Sisters]]. Enclaves are known in [[place-vrystwald|Vristwald]] too. The court of [[affiliation-tantsouempr|Tantsou]] keeps a formal contact with its enclaves that exists nowhere else.
 
-A Sinalo carries a given name and a lineage name, the name of the hearth that keeps it, and is called by the whole given name always; an epithet is added after it and never replaces it. [[lore-saunari|The Long-Watcher's Sayings]], which every Seer of Aelirosse learns, give the reason in a lover's terms: [.Call the one you love by the whole name, and let it fall in your mouth as a call does./.She hears which it is before the word is finished; the fall is so that she can.]{.verse}
+A Sinalo carries a given name and a lineage name, the name of the hearth that keeps it, and is called by the whole given name always; an epithet is added after it and never replaces it. [[lore-saunari|The Oak-Warden's Sayings]], which every Oak-Pupil of Aelirosse learns, give the reason in a lover's terms: [.Call the one you love by the whole name, and let it fall in your mouth as a call does./.She hears which it is before the word is finished; the fall is so that she can.]{.verse}
 
 ## What Gets a Stranger into Trouble
 
@@ -33,7 +33,7 @@ Do not ask about the Khazari. The two elder peoples parted after a Sinale outlaw
 A few Sinale works have reached human hands, and each is a key to how the Sinale think:
 
 - [[lore-ellevirsa|Guest-Right]] tells how the Sinale came into a valley that was not theirs and left it open to the human bands, and its saying is the welcome a guest owes to whoever comes after.
-- [[lore-saunari|The Long-Watcher's Sayings]] are a Long-Watcher's counsel to the Seer he taught, on groves, dreams, the sick and the near humans, each opening on the same question.
+- [[lore-saunari|The Oak-Warden's Sayings]] are an Oak-Warden's counsel to the Oak-Pupil he taught, on groves, dreams, the sick and the near humans, each opening on the same question.
 - [[lore-theasking|The Asking]] is the Sinale lay of the herdsman Dhargan, who sat four days at the wood's edge and asked, and it is sung to the Áelendan as the story of their own beginning.
 - [[lore-seventowers|The Seven Towers]] mourns a city of light cut into a cliff, and breaks off at the word that would name the renegade.
 - [[lore-lamenthaulonna|The Lament of Haulonna]] is sung in the Hallowwood whenever word comes from the north, and calls the captive dead who cannot turn to answer.

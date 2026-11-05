@@ -58,7 +58,7 @@ The enclave is protected the way every Sinale enclave is protected: not by force
 
 ## Faith {#faith}
 
-The enclave keeps its Long-Watchers and its Seers. [[lore-saunari|The Long-Watcher's Sayings]] are the counsel one Long-Watcher of Aelirosse, [Olmasitti Ropelinto]{.name data-type="being/npc"}, gave the Seer he taught, in the grove, at the water-court, at the sickbed and once at the ford, and every Seer of Aelirosse learns them. [[lore-ellevirsa|Guest-Right]] is sung over a guest at Aelirosse on the first night the guest sleeps there.
+The enclave keeps its Oak-Wardens and its Oak-Pupils. [[lore-saunari|The Oak-Warden's Sayings]] are the counsel one Oak-Warden of Aelirosse, [Olmasitti Ropelinto]{.name data-type="being/npc"}, gave the Oak-Pupil he taught, in the grove, at the water-court, at the sickbed and once at the ford, and every Oak-Pupil of Aelirosse learns them. [[lore-ellevirsa|Guest-Right]] is sung over a guest at Aelirosse on the first night the guest sleeps there.
 
 ## The Enclave {#holdings}
 
@@ -88,5 +88,5 @@ Most of the songs [[affiliation-bardicolgs|the Bardic Colleges]] treasure as Sin
 [[lore-sinaleclt|The Sinale]]
 : the culture
 
-[[lore-saunari|The Long-Watcher's Sayings]]
-: the sayings every Seer of Aelirosse learns
+[[lore-saunari|The Oak-Warden's Sayings]]
+: the sayings every Oak-Pupil of Aelirosse learns

@@ -7581,8 +7581,12 @@ data:
     - {name: Guest-Right, tongue: translation}
     - {name: ellevirsa, tongue: sinale, built: [ellevi, -rsa]}
     - {name: nìlkitti esselinto, tongue: sinale, built: [nìlki, -tti, esseli, -nto]}
-    - {name: The Long-Watcher's Sayings, tongue: translation}
-    - {name: ansorunnoren saunari, tongue: sinale, built: [ansorun, -ren, saunari]}
+    - {name: The Oak-Warden's Sayings, tongue: translation}
+    - {name: sorvel ortinnoren saunari, tongue: sinale, built: [torvel, ortinno, -ren, saunari]}
+    - {name: sorvel ortinno, tongue: sinale, built: [torvel, ortinno]}
+    - {name: Oak-Warden, tongue: translation}
+    - {name: sorvel saumikki, tongue: sinale, built: [torvel, saumikki]}
+    - {name: Oak-Pupil, tongue: translation}
     - name: olmasitti ropelinto torvelsa
       tongue: sinale
       built: [olmasi, -tti, ropeli, -nto, torvel, -sa]
