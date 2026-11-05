@@ -3,7 +3,7 @@ shortcode: hldndrgn
 name: {full: Haldena Durgana}
 type: being
 subType: npc
-tags: [todo-warrior, draft, soldiery]
+tags: [todo-warrior, soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +11,8 @@ data:
   occupation: Town Guard
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, arldnpnthn: {rank: 1}}
+  homes: [ronetho]
+  affiliations: {kingdmlnrk: {rank: 2}, arldnpnthn: {rank: 1}}
   gender: female
   species: humanflk
   born: 680.204
@@ -370,11 +370,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Haldena is a tall woman—6'0"—with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting—bright and sharp beneath sun-darkened brows—and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears the [[place-ronetho|Ornetho]] gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
+Haldena is a tall woman—6'0"—with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting—bright and sharp beneath sun-darkened brows—and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears [[place-ronetho|Ornetho]] gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
 
 # Dossier {#dossier}
 
-Haldena was born in the Ornetho city to a family of gate keepers—her father managed the southern gates for thirty years, and his father before him. The position is not particularly prestigious but requires the kind of attention to detail and integrity that few people maintain. Haldena inherited both the job and the work ethic. She joined the gate watch formally at nineteen and has served there for twenty-one years.
+Haldena was born in the city of [[place-ronetho|Ornetho]] to a family of gate keepers—her father managed the southern gates for thirty years, and his father before him. The position is not particularly prestigious but requires the kind of attention to detail and integrity that few people maintain. Haldena inherited both the job and the work ethic. She joined the gate watch formally at nineteen and has served there for twenty-one years.
 
 The work of the gate watch is different from street patrol. It requires the ability to make snap judgments about people crossing the gates—determining whether they represent threat, whether they are attempting to smuggle contraband, whether their papers are authentic. Haldena developed an uncanny ability to read people and detect deception. The other guards say she can smell lies, though the truth is less mystical: she notices the flicker of a face, inconsistencies in stories, the physical signs of nervousness or concealment.
 
@@ -402,7 +402,7 @@ Haldena is respected and feared alike. She has few friends outside her work fami
 
 ### Patrons
 
-**City Governor [Kekhebon Yegis]{.name data-type="being/npc"}**—The official administrator of Ornetho city. Kekhebon has held power for twelve years and has come to rely on Haldena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
+**Castellan Hilther Oltris**—The brother of the king, who holds the walls, the gates and their tolls. Hilther has held the walls for twelve years and has come to rely on Haldena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
 
 ### Enemies
 
@@ -410,17 +410,6 @@ Haldena is respected and feared alike. She has few friends outside her work fami
 
 ## Plot Hooks
 
-The Impossible Choice
-: Haldena detects a significant smuggling operation coming through the gates: weapons destined for what she later learns is a separatist faction. She has evidence to arrest the operatives and seize the weapons. But investigation reveals that the separatists are actually a group of refugees fleeing political persecution in a neighboring state, and the weapons are for self-defense against those pursuing them. Arresting them sends them back to execution. Allowing them through violates the city's neutrality policy. The law and her conscience point opposite ways.
-
-The Traitor in Her Ranks
-: Haldena discovers that one of her trusted subordinates, **Guard Captain [[being-zekudiorneti|Zekudi]]**, has been accepting bribes from Garrutsa Galtsuregi in exchange for allowing contraband through the gates. Zekudi is skilled and has been praised for his work. The betrayal is personal as well as a breach of duty. Haldena can arrest Zekudi, ending his service in disgrace, or give him a chance to resign and disappear, which allows Galtsuregi to win this round but preserves the life of a man who made a terrible mistake.
-
-The Governor's Secret
-: City Governor Kekhebon approaches Haldena privately with a request: allow a specific individual to enter the city without inspection and with minimal documentation. The individual is a foreign agent with whom Kekhebon is secretly negotiating. Haldena is being asked to compromise her integrity and position for the governor's political ends. Refusing means losing her patron and probably her position. Accepting makes her complicit in whatever political scheme Kekhebon is conducting.
-
-The Galtsuregi Escalation
-: Garrutsa Galtsuregi makes a bold move: he approaches Haldena and offers her a bribe to allow his next operation to pass. The bribe is substantial and the offer is explicitly disrespectful—Galtsuregi is wagering that even someone as incorruptible as Haldena has a price. When she refuses, he becomes publicly hostile and spreads rumors that she is incompetent and allowing weapons into the city (the opposite of the truth). He uses his wealth to lodge formal complaints against her with the city council. Haldena has to defend her name against someone wealthy enough to do political damage.
-
-The Gate Captain's Illness
-: A younger gate captain under Haldena's command becomes severely ill and is unable to work. The illness is costly to treat and the captain cannot afford the expense. Haldena has saved money throughout her life and offers to pay for the treatment. The captain gratefully accepts. Weeks later, Haldena discovers that the captain is actually Garrutsa Galtsuregi's illegitimate son, and Galtsuregi has deliberately arranged the illness to place the young man in a position of debt to Haldena. Now Galtsuregi is using the relationship to pressure Haldena into allowing contraband. Haldena has been manipulated into a position where refusing helps neither the captain nor herself.
+1. **The separatist wain.** Haldena detects a significant smuggling operation coming through the gates: weapons destined for a faction she later learns is separatist. She asks a party to carry her evidence to the castellan's court and bring back his answer.
+2. **The traitor in her ranks.** [[being-zekudiorneti|Zekudi Ornetis]], her guard captain, has been accepting bribes from [[being-garrutsagalt|Garrutsa Galtsuregi]]. Haldena asks a party to watch his shift before she names him.
+3. **The castellan's request.** Castellan Hilther approaches Haldena privately with a request to let one man through the gate without inspection. She asks a party to learn who the man is.

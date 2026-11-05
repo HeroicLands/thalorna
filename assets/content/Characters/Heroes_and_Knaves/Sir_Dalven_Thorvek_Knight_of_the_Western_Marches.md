@@ -15,7 +15,7 @@ data:
   occupation: Nobility (Knight Bachelor)
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [kemthoza]
   affiliations: {kingdmtrvn: {rank: 4}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
@@ -519,14 +519,6 @@ Though he has achieved much in his life, Sir Dalven feels that his work is far f
 
 ## Plot Hooks
 
-The Bandit Warlord
-: Rumors spread of a bandit leader uniting various outlaw factions under a single banner in the Western Marches. This growing threat to the realm’s borders forces Sir Dalven to lead a small contingent of knights into the untamed wilds. However, when he discovers that the warlord is a former knight cast out of the order for corruption, Sir Dalven faces a moral dilemma: bring the warlord to justice or offer him redemption to stem the bloodshed.
-
-The Relic of Vigilance
-: Sir Dalven is tasked with recovering a lost relic of his knightly order, the [Silver Falcon Standard]{.name data-type="miscgear"}, believed to grant protection to the Western Marches. The relic was lost decades ago in a bloody battle and is now rumored to be held by a tribal chieftain who sees it as a symbol of his people’s resistance. Sir Dalven can negotiate with the chieftain, risking political trouble, or seize the relic through force, potentially inciting rebellion.
-
-The Betrayer’s Shield
-: During a routine patrol, Sir Dalven uncovers evidence linking a respected noble family to recent raids on villages along the frontier. His investigation uncovers a conspiracy that ties the noble to foreign powers. Torn between loyalty to his king and his knightly code of honor, Sir Dalven must work through the court's intrigues to expose the truth and protect the realm without igniting a civil war.
-
-The March of the Undying
-: Strange reports of spectral knights terrorizing border villages reach Sir Dalven’s ears. The ghostly figures are said to be the spirits of soldiers who fell in the Western Marches long ago. As Sir Dalven investigates, he discovers an ancient oath tied to his knightly order that was broken generations before. To lay the spirits to rest, Sir Dalven must restore the order’s honor, even if it means revealing uncomfortable truths about his own lineage.
+1. **The dead below the pass.** The dead of the first raid lie on the road below Grumagando unreceived. Sir Dalven asks a party to find a way to say the rites for them without a Provénzian priest's leave.
+2. **The first host over.** The snow is going off the saddle and two barons want the first crossing. Sir Dalven asks a party to ride to the other valleys and learn which baron means to cheat the custom.
+3. **The clan's ground.** A baron of the March has driven a flock into ground an Áelendan clan holds sacred. Sir Dalven asks a party to carry his apology to the Warden before the clan's young men act.

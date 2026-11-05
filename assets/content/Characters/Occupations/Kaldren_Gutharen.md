@@ -3,7 +3,7 @@ shortcode: kldrnjthrn
 name: {full: Kaldrén Gútharen}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +11,8 @@ data:
   occupation: Miner
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, sacredforge: {rank: 1}}
+  homes: [ardalis]
+  affiliations: {kingdmtrvn: {rank: 1}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.134
@@ -403,9 +403,9 @@ Kaldrén Gútharen is a 38-year-old man who stands 6'1" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kaldrén Gútharen came into the world of the miner through a combination of circumstance and aptitude.
+Born in [[place-ardalis|Ardalis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kaldrén Gútharen is a miner.
 
-Kaldrén was a free man until he was captured during a conflict and sold into slavery. He was forced to work in a mine, where he learned to endure harsh conditions. Despite his captivity, Kaldrén maintains a rebellious spirit and has attempted to escape several times. His efforts have only led to harsher treatment, but he refuses to give up on the idea of freedom.
+Kaldrén was a free man until he was captured during a conflict and sold into slavery. He was sold to an iron mine at [[place-ardalis|Ardalis]], where he learned to endure harsh conditions. Despite his captivity, Kaldrén maintains a rebellious spirit and has attempted to escape several times. His efforts have only led to harsher treatment, but he refuses to give up on the idea of freedom.
 
 ## Psyche
 
@@ -415,7 +415,7 @@ Reckless, often punished for his escape attempts.
 
 ### Motivation
 
-Kaldrén is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
+Kaldrén wants his freedom, and until he has it, he wants to live to see a day when the Warden of the Iron counts the bloom twice.
 
 ### Strengths
 
@@ -425,13 +425,11 @@ Determined, physically strong, skilled in mining and hard labor.
 
 Kaldrén is affiliated with none; he lacks the freedom to associate with any groups.
 
-As a Tarvenan miner, Kaldrén occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Kaldrén's primary patron is none; he is treated as expendable by his captors. This relationship provides both opportunity and obligation.
+Kaldrén's primary patron is none; he is treated as expendable by his captors.
 
 ### Enemies
 
@@ -439,17 +437,6 @@ Overseers who resent his rebellious nature.
 
 ## Plot Hooks
 
-The Miner's Dilemma
-: Kaldrén faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Overseers who resent his rebellious nature. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kaldrén's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Kaldrén depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kaldrén the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The second count.** The Warden of the Iron has begun counting blooms twice, and nobody in [[place-ardalis|Ardalis]] can say whom the second count is for. Kaldrén has seen a cart leave the tower yard after the counts with a load that matches neither.
+2. **The lowland offer.** A Liénriki merchant has offered one mining family a price for its ore that no forge can match, and the family is in debt. Kaldrén's overseer is one of its relatives, and he asks a party to carry a message out of the mine.
+3. **Over Zurgando.** Kaldrén has found a way out of the galleries that opens above the town. He asks a party to take him up the dead road to Zurgando before the Warden's men find the gap.

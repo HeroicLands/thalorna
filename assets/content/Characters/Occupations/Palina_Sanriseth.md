@@ -3,7 +3,7 @@ shortcode: palnsnrcth
 name: {full: Pálina Sánriseth}
 type: being
 subType: npc
-tags: [todo, draft, clergy]
+tags: [todo, clergy]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [herthema]
-  affiliations: {kingdmtrvn: {rank: 5}, olvenia: {rank: 3}}
+  affiliations: {cnclhrthm: {rank: 2}, olvenia: {rank: 3}}
   gender: female
   species: humanflk
   born: 696.86
@@ -397,7 +397,7 @@ Pálina Sánriseth carries the contradictions of her upbringing inscribed upon h
 
 # Dossier {#dossier}
 
-Pálina was born the eldest daughter of a minor noble house in [[place-herthema|Herthema]], a coastal city where the warrior traditions of Tarvénia still held sway even as merchant wealth began to reshape the region’s hierarchy. Her family expected her to make an advantageous marriage, but Pálina showed early aptitude for matters spiritual rather than dynastic. More troublingly, she showed a real interest in the lives and struggles of ordinary people—the fishing families, the dock workers, the dispossessed—an interest her family considered dangerously idealistic.
+Pálina was born the eldest daughter of a minor noble house in [[place-herthema|Herthema]], a coastal town where the warrior traditions of Tarvénia still held sway even as merchant wealth began to reshape the region’s hierarchy. Her family expected her to make an advantageous marriage, but Pálina showed early aptitude for matters spiritual rather than dynastic. More troublingly, she showed a real interest in the lives and struggles of ordinary people—the fishing families, the dock workers, the dispossessed—an interest her family considered dangerously idealistic.
 
 At twenty-two, following a violent incident in her family’s household that left her scarred and ostensibly "disgraced" (the details remain vague even now, spoken of only in whispers), Pálina was permitted—indeed, perhaps encouraged—to seek asylum in the [Temple of Ólvenia]{.name data-type="affiliation"} in Herthema. What her family intended as a convenient exile, Pálina made into a true calling. She threw herself into the priesthood with singular intensity, studying the deeper philosophy beyond the rituals of seduction and fertility blessing that constitute Ólvenia’s work: the understanding that human connection, physical love, and the creation of new life are sacred acts worthy of reverence.
 
@@ -435,20 +435,6 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 
 ## Plot Hooks
 
-The Impossible Blessing
-: A young woman of high birth comes to Pálina seeking a fertility blessing, but reveals that her situation is truly hopeless: her husband is impotent or absent, her family will cast her out if she remains childless within the year, and she has nowhere to go. Pálina’s commitment to authentic solutions rather than magical ones is tested when the woman begins to hint at increasingly desperate measures.
-
-The Corrupted Blessing
-: Pálina discovers that her fertility blessings, which she performs with absolute spiritual authenticity, have been dressed up and sold by merchants as magical talismans, at exorbitant prices to desperate women across the region. She can publicly repudiate the deception or allow it to continue if it gives the women some hope.
-
-The Scarred Past
-: Someone from the incident that scarred Pálina’s leg appears in Herthema, recognizing her and hinting at knowledge that could fundamentally alter how her community views her. The person may be a threat or may be seeking redemption, but either way, Pálina’s tightly controlled history begins to unravel.
-
-The Aristocrat’s Daughter
-: A high-born woman in an abusive marriage comes to Pálina seeking help. Pálina begins assisting her, only to realize that the woman’s husband has significant political power in Herthema and connections to Pálina’s own family. Helping the woman could set off dangerous complications with her family while abandoning her would violate everything Pálina believes.
-
-The Priestess’s Calling
-: The Temple of Ólvenia receives notice that Pálina is being considered for elevation to high priestess of a major regional temple—an honor that would require her to leave Herthema and work among the coastal nobility and merchant classes rather than the poor. The promotion appears sincere but also suspiciously convenient; someone may be attempting to remove her from her current position precisely because she is becoming too influential among the lower classes.
-
-The Oversight
-: [[being-gaimelkorvat|Gaimel Korvathandis]] has found merchants on the [[affiliation-cnclhrthm|Council of Herthema]] to back his call for oversight of the temple, and the poor of [[place-herthema|Herthema]] who depend on Pálina are talking of standing at the temple doors to keep his inspectors out.
+1. **The oversight.** [[being-gaimelkorvat|Gaimel Korvathandis]] wants witnesses to what Pálina does among the poor, and he will pay strangers to watch her. She asks a party to take his purse and learn who gave it to him.
+2. **The merchant's slight.** [[being-tharozobrazi|Tharozo Brazis]] has told the council that her work is beneath her station. She asks a party to carry her answer to the council before the next sitting.
+3. **The woman at the door.** A bonded servant from a merchant house comes to the temple door asking for the blessing that frees a woman's hands. Pálina asks a party to learn whom the servant serves, and to see her home safely.

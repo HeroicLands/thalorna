@@ -3,7 +3,7 @@ shortcode: rithardmvr
 name: {full: Ríthara Dómivar}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [thorgila]
-  affiliations: {kingdmtrvn: {rank: 2}, pozeras: {rank: 1}}
+  affiliations: {cnclthrgl: {rank: 2}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: 702.37

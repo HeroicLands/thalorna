@@ -3,7 +3,7 @@ shortcode: valarnlvnr
 name: {full: Valaren Álvanar}
 type: being
 subType: npc
-tags: [draft, administration]
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +11,8 @@ data:
   occupation: Bureaucrat
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, ardavon: {rank: 1}}
+  homes: [torvaleth]
+  affiliations: {kingdmlnrk: {rank: 2}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.142
@@ -398,9 +398,9 @@ Valaren Álvanar is a 37-year-old man who stands 5'9" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Valaren Álvanar came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Born in [[place-torvaleth|Torvaleth]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Valaren Álvanar is a bureaucrat.
 
-Valaren began his career as a clerk and gradually climbed his way up in the city administration. He is known for his ability to find loopholes in regulations and for his ambition. While not particularly well-liked, his resourcefulness has earned him a place in some of the city’s higher circles.
+Valaren began his career as a clerk and gradually climbed his way up in the clerks' rooms of the Court of Pleas. He is known for his ability to find loopholes in regulations and for his ambition. While not particularly well-liked, his resourcefulness has earned him a place in some of the capital’s higher circles.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Opportunistic and willing to bend rules for personal gain.
 
 ### Motivation
 
-Valaren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bureaucrat work keep him vigilant and adaptable.
+Valaren wants a place on the Roll of Houses for his name, and he knows the clerks who write it.
 
 ### Strengths
 
@@ -418,15 +418,13 @@ Clever and resourceful, good at navigating red tape.
 
 ## Social
 
-Valaren is affiliated with the city administration.
-
-As a Tarvenan bureaucrat, Valaren occupies a recognized social niche within Tarvénia society.
+Valaren is affiliated with the Court of Pleas.
 
 ## Companions
 
 ### Patrons
 
-Valaren's primary patron is a powerful city councilor who appreciates Valaren's cunning. This relationship provides both opportunity and obligation.
+Valaren's primary patron is a powerful city councilor who appreciates Valaren's cunning.
 
 ### Enemies
 
@@ -434,17 +432,6 @@ Fellow bureaucrats who distrust his methods.
 
 ## Plot Hooks
 
-The Bureaucrat's Dilemma
-: Valaren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Fellow bureaucrats who distrust his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Valaren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Valaren depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Valaren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The record that moves a house.** A charter has turned up in the plea rolls that would raise one house on the Roll of Houses and ruin another. Valaren is offered a purse by both and asks a party to carry the charter to a third.
+2. **The Master of the Fair.** The tolls at the [[place-torvaleth|Torvaleth]] harvest fair fell short, and the Master of the Fair blames the clerks. Valaren asks a party to find the clerk who altered the tally.
+3. **The king's road.** A letter in the king's hand ordering the lowland lords to the High King's election has been copied twice. Valaren asks a party to find who has the second copy.

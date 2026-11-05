@@ -3,7 +3,7 @@ shortcode: alvrngrvth
 name: {full: Alvaren Graveth}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [nebralis]
-  affiliations: {kingdmtrvn: {rank: 2}, olvenia: {rank: 1}}
+  affiliations: {cnclnbrls: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.167
@@ -397,7 +397,7 @@ Alvaren Graveth is a 36-year-old man who stands 6'2" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Alvaren Graveth is a salter.
+Born in [[place-nebralis|Nebralis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Alvaren Graveth is a salter.
 
 Alvaren is a seasoned salter who has spent decades perfecting his craft. He runs a large saltworks that supplies salt to several coastal towns. Known for his knowledge of the trade, he often tries different ways of evaporating the brine to produce salts of his own, including flavored varieties. He is respected in the community for his knowledge and often mentors younger salt workers.
 
@@ -409,7 +409,7 @@ He can be set in his ways and struggles with new methods.
 
 ### Motivation
 
-Alvaren wants his saltworks to keep supplying the coastal towns, and his knowledge of the craft to pass to the younger salt workers he mentors.
+Alvaren wants his saltworks to keep supplying the coastal towns, and his knowledge of the craft to pass to the younger salt workers he mentors, whatever the harbor houses decide to do with the harbor.
 
 ### Strengths
 
@@ -431,17 +431,6 @@ Few; he is generally well respected, though he has competitors in the trade.
 
 ## Plot Hooks
 
-The Salter's Dilemma
-: A merchant offers to take Alvaren's whole output at a price that would mean cutting off the coastal towns he supplies.
-
-Old Grudges
-: A competing salter undercuts Alvaren's prices with salt he suspects is adulterated.
-
-Echoes of the Past
-: A younger salt worker Alvaren once mentored returns with a saltworks of his own and his old master's methods.
-
-The Harbor's Salt
-: A merchant house gathering the harbor trade of [[place-nebralis|Nebralis]] into its hands offers to buy Alvaren's whole output for its own ships, which would leave the fishing families who salt their catch to buy his salt from the merchants.
-
-The Opportunity
-: Alvaren is offered the salt contract for a whole town, and its price is not named up front.
+1. **The harbor's salt.** A merchant house gathering the harbor trade of [[place-nebralis|Nebralis]] into its hands offers to buy Alvaren's whole output for its own ships, which would leave the fishing families who salt their catch to buy his salt from the merchants.
+2. **The lean year.** A run of poor catches has begun, and the assembly will decide what is shared. Alvaren has salt stored and the cooperative's families have no coin; Dorándaro Orthemandis asks a party to carry his request for the salt on credit, and the merchants' agents ask the same party to carry an offer for the whole store.
+3. **The adulterated salt.** A competing salter undercuts Alvaren's prices with salt he suspects is adulterated, and the harbor houses are buying it. He wants a party to prove it before the autumn curing.

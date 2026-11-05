@@ -17,51 +17,36 @@ data:
       - level: 0
         title: Kinless
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
+          Put out by their own kin and claimed by no clan, so that no clan can send them to the meadow and no household owes them a roof.
       - level: 1
-        title: Bondservant
-        description: >-
-          Held in service or debt to a household, and answerable through its head rather than in their own name.
-      - level: 2
         title: Dependent
         description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
-      - level: 3
+          One of a household's people without being of its blood: a client, a widow's family, a stranger taken in. The head of the household answers for them.
+      - level: 2
         title: Kinsman
-        description: Of a household's blood, entitled to its protection, its feud and its share.
-      - level: 4
+        description: >-
+          Of a household's blood, and under the protection of the household and of its quarrels.
+      - level: 3
         title: Householder
         description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
-      - level: 5
+          The head of a household, who holds its flock and its people and speaks for them in the valley.
+      - level: 4
         title: Elder
-        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
-      - level: 6
-        title: Chieftain
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
-      - level: 7
+          An elder of a clan, whose memory of custom and precedent settles what the young dispute, and whom the clan may send to the meadow.
+      - level: 5
         title: Delegate
-        description: Sent by a tribe to the common council, empowered to argue and not to bind.
-      - level: 8
-        title: Speaker of the Council
         description: >-
-          Presiding over the common council, holding the peace of its meeting and no authority beyond it.
+          An elder sent by a clan to the Biltzarrath at the solstice, who may argue there and may not bind the clan that sent him.
     offices:
-      Speaker of the Council: Presiding officer of the common council, keeper of its peace and of the order of speaking.
-      Chieftain: Head of a clan or tribe, holding by descent and consent together.
-      Elder: Senior of a lineage, whose recollection of custom settles disputes the young cannot.
-      Lawkeeper: >-
-        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
-      Host-Caller: Summoner of the common muster when a threat concerns every tribe.
-      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered to enforce it.
+      Speaker of the Council: >-
+        Held by a Delegate, for the sitting. Gives each delegate his turn in the meadow, and goes up to Lezkora to hear the terms of the crown sworn when the lords make a High King.
+      Host-Caller: >-
+        Held by a Delegate. Summons the warriors of the clans when the Biltzarrath has weighed a call of the ban against the terms of the crown and agreed that it stands.
+      Truce-Warden: >-
+        Held by a Delegate. Answers for the peace of Gaztorai from the first day of the Biltzarrath's sitting to the last, and enforces it on anyone who breaks it.
       Water-Warden: >-
-        Keeper of the wells, springs or pastures the tribes share, and of the order in which they are used.
-      Guide: >-
-        Holder of the routes—their water, their seasons and their dangers—and hired at a price accordingly.
-      Envoy: Sent to treat with a settled power, and protected by custom while he carries the word.
-      Keeper of the Feud: >-
-        Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
+        Held by an Elder. Keeps the order in which the clans draw on a shared spring and its pasture, as at Ibotsain.
   seat: gaztorai
   population: 200000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
@@ -104,6 +89,10 @@ The [[affiliation-ordoarcanis|Thordimalon]] has never established a presence in 
 ## Current Situation {#present}
 
 The arrangement with the crown stands. When the lords of Tarvénia elect a High King, the Speaker of the Biltzarrath goes up to Lezkora to hear the terms of the crown sworn, because the old arrangement with Eskarath is one of them ([[affiliation-kingdmtrvn|Kingdom of Tarvénia]]). The terms allow the ban only against an enemy from outside Tarvénia, and the Biltzarrath weighs every call against them before its Host-Caller summons a single warrior. The Thordimalon, which catalogues and licenses magic where it is established, has never established itself here, and the Eskárathi refuse to submit their own traditions to it.
+
+## How It Is Held {#how-it-is-held}
+
+A household holds its own flock and its own people, and its head speaks for them in the valley. The elders of a clan settle what the young dispute, and send some of their number to the Biltzarrath as delegates. Four posts are held from among them: delegates hold the Speaker of the Council, the Host-Caller and the Truce-Warden, and an elder holds the Water-Warden, who keeps the peace between clans over a shared spring.
 
 ## Commerce and Currency
 

@@ -3,7 +3,7 @@ shortcode: anirarsnth
 name: {full: Ánira Órseneth}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +11,8 @@ data:
   occupation: Musician (Lute)
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, lusinia: {rank: 1}}
+  homes: [thorgila]
+  affiliations: {cnclthrgl: {rank: 2}, lusinia: {rank: 1}}
   gender: female
   species: humanflk
   born: 694.249
@@ -392,9 +392,9 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Ánira Órseneth came into the world of the musician (lute) through a combination of circumstance and aptitude.
+Born in [[place-thorgila|Thórgila]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Ánira Órseneth is a musician (lute).
 
-Ánira grew up on the streets and found solace in music. She learned to play the lute from a traveling bard, and now performs in inns and taverns across the city. Her music is known for its warmth and beauty, and she has a talent for improvising melodies that suit the mood of the crowd. While popular among common folk, she aspires to perform for nobility.
+Ánira grew up on the streets and found solace in music. She learned to play the lute from a traveling bard, and now performs in the inns and at the fairs of the Thórgila valleys. Her music is known for its warmth and beauty, and she has a talent for improvising melodies that suit the mood of the crowd. While popular among common folk, she aspires to perform for nobility.
 
 ## Psyche
 
@@ -404,7 +404,7 @@ Inexperienced with courtly etiquette, struggles with composing original music.
 
 ### Motivation
 
-Ánira is driven by the desire to master her craft and secure a stable future. The uncertainties of life in musician (lute) work keep her vigilant and adaptable.
+Ánira wants to sing the verse-duel at the autumn fair and to be heard by lords at the hall.
 
 ### Strengths
 
@@ -414,13 +414,11 @@ Talented musician, quick improviser, charming stage presence.
 
 Ánira is affiliated with the [Minstrels' Guild]{.name data-type="affiliation/guild"}.
 
-As a Tarvenan musician (lute), Ánira occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Ánira's primary patrons are tavern owners and common folk who enjoy her music. This relationship provides both opportunity and obligation.
+Ánira's primary patrons are tavern owners and common folk who enjoy her music.
 
 ### Enemies
 
@@ -428,17 +426,6 @@ Jealous musicians who see her as competition.
 
 ## Plot Hooks
 
-The Musician (Lute)'s Dilemma
-: Ánira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
-
-Old Grudges
-: Jealous musicians who see her as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Ánira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Ánira depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Ánira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The verse-duel.** The horse-judge Thelvar Mozkarreta has given Ánira the theme of the year's bout, and the other singer's backers say the theme was bought. She asks a party to learn who.
+2. **The lord's riders.** Riders of Nizel Ganotis ask Ánira to sing at the lord's table after the fair. She asks a party to go with her.
+3. **A line sung twice.** The town and the upper farms sing one line of the fair verses differently, and both versions are kept. A scholar asks Ánira to settle which is older.

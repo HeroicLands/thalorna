@@ -3,7 +3,7 @@ shortcode: kngdmglvrn
 name: {full: Kingdom of Galvaren}
 type: affiliation
 subType: polity
-description: "Green, mist-shrouded western coast of Tarvénia—seafaring kingdom of fishermen and dreamers, whose king sits at a Long Table with landed lords on one side and elected shipmasters on the other."
+description: "Green, mist-shrouded south-western shore of Tarvénia—seafaring kingdom of fishermen and dreamers, whose king sits at a Long Table with landed lords on one side and elected shipmasters on the other."
 data:
   templatePriority: null
   demonym: Galváreni
@@ -105,7 +105,7 @@ Government
 
 ## Overview
 
-The Kingdom of Galvaren holds the land of [[place-galvaren|Galvaren]], the fog-bound western coast of [[place-tarvenirgn|Tarvénia]]. It is a kingdom of fishermen governed half by fishermen: its king rules from the castle above the harbor of [[place-durvolka|Durvolka]], and he takes his counsel at a table where the shipmasters of the harbors sit facing the lords of the inland valleys. The Galváreni are seafarers, fishermen and storytellers, with a reputation for mysticism that sets them apart from the more pragmatic Tarvenans of the interior.
+The Kingdom of Galvaren holds the land of [[place-galvaren|Galvaren]], the fog-bound south-western shore of [[place-tarvenirgn|Tarvénia]]. It is a kingdom of fishermen governed half by fishermen: its king rules from the castle above the harbor of [[place-durvolka|Durvolka]], and he takes his counsel at a table where the shipmasters of the harbors sit facing the lords of the inland valleys. The Galváreni are seafarers, fishermen and storytellers, with a reputation for mysticism that sets them apart from the more pragmatic Tarvenans of the interior.
 
 ## The King and the Long Table
 
@@ -123,7 +123,7 @@ On the coast the crown's officers are harbor officers. The Warden of the Strand 
 
 ## Character
 
-Where the [[affiliation-kngdmstrth|Kingdom of Asturath]] looks inward to its mountains and Lienrik to its fields, Galvaren looks outward to the sea. Galváreni sailors are legendarily fearless or foolhardy, by the account of whoever is telling it, and the kingdom produces a disproportionate number of the navigators, sea captains and explorers of the sea's western reaches. Most of them learned their trade on an Ulhera cod boat, where a master's book of soundings, currents and landmarks lets him sail out of sight of land for days and find the same bank, or the same unknown island, again.
+Where the [[affiliation-kngdmstrth|Kingdom of Asturath]] looks inward to its mountains and Lienrik to its fields, Galvaren looks outward to the sea. Galváreni sailors are legendarily fearless or foolhardy, by the account of whoever is telling it, and the kingdom produces a disproportionate number of the navigators, sea captains and explorers of the Vilérian Sea. Most of them learned their trade on an Ulhera cod boat, where a master's book of soundings, currents and landmarks lets him sail out of sight of land for days and find the same bank, or the same unknown island, again.
 
 Its coast keeps the Drowned Road beside the pantheon's temples, and its courts take a widow's word from a harbor teller. The coast is crowded with standing stones, stone rings and passage graves older than the Tarveni migration, and the Drowned Road holds that the sea keeps its drowned, that they come home in the fog to those graves, and that a lamp in the seaward window shows them the door. Ghost stories and tales of drowned cities are taken more seriously here than anywhere else in Tarvénia, and the priests of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] tolerate the coast's customs with varying degrees of patience. No other court in Tarvénia accepts a teller's calling-in as proof that a man is dead.
 

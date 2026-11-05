@@ -12,8 +12,8 @@ data:
   occupation: First Mate
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {thetamzir: {rank: 6}, kingdmtrvn: {rank: 2}}
+  homes: [nebralis]
+  affiliations: {thetamzir: {rank: 6}, cnclnbrls: {rank: 2}}
   gender: female
   species: humanflk
   born: 685.56
@@ -464,11 +464,6 @@ First Mate of the **Tamzir**. Wife of **Fetar Darel**. Wartime comrade and most 
 
 ## Plot Hooks
 
-The Village Returns
-: Word reaches Sélvara that her home village in Tarvénia is under threat again—this time from Taruzelian guild agents who want to establish a trading post on the coast. Her surviving family is among those who would be displaced. Returning to help would mean sailing into contested waters and confronting the same power structures she and Bu have spent years avoiding.
-
-The Soldier's Reckoning
-: A former imperial officer who participated in the raid on Sélvara's village has been identified living comfortably in a Vilérian port city. Sélvara must decide whether old debts are worth the risk of pursuing—and whether vengeance or justice is what she truly wants.
-
-Divided Loyalty
-: When Bu makes a decision that Sélvara believes will get the crew killed, she faces the impossible choice between her loyalty to her captain and her responsibility to the people under her care. For the first time in their long partnership, the two find themselves on opposite sides of an argument with no easy resolution.
+1. **The village returns.** Word reaches Sélvara that her home harbor is under threat again, this time from Taruzelian guild agents who want to establish a trading post, and the merchant houses of [[place-nebralis|Nebralis]] would sell them the quay. She asks a party to learn who in the council is dealing.
+2. **The soldier's reckoning.** A former imperial officer who took part in the raid on Sélvara's village has been identified living comfortably in a Vilérian port city. She asks a party to learn whether he can be reached.
+3. **The priestess's name.** Alethra Ornetis has asked after Sélvara in her prayers for the drowned, and Sélvara does not know why. She asks a party to carry a message to the temple.

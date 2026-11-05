@@ -11,8 +11,8 @@ data:
   occupation: Glassworker
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, brazemas: {rank: 1}}
+  homes: [herthema]
+  affiliations: {cnclhrthm: {rank: 2}}
   gender: female
   species: humanflk
   born: "693.110"
@@ -428,7 +428,7 @@ Eldira Garrundeta was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]
 
 Gerdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Eldira's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from temple tradition, and pushed the boundaries of what glass could express.
 
-At twenty-three, following Gerdan's death, Eldira established her own workshop in a smaller city within Tarvénia. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of temples of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
+At twenty-three, following Gerdan's death, Eldira established her own workshop in [[place-herthema|Herthema]]. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of temples of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
 
 ## Psyche
 
@@ -510,17 +510,6 @@ the [Ravencroft Artistic Circle]{.name data-type="affiliation"}
 
 ## Plot Hooks
 
-The Commission from Beyond
-: A mysterious patron appears with an extraordinary commission—a massive window installation of dazzling technical complexity with imagery that Eldira cannot quite decipher. The patron demands complete secrecy about the project, provides very generous payment, and insists on specific timing. As Eldira works, she begins to suspect the imagery contains magical properties or hidden meaning, and questions emerge about who the patron truly is and what purpose this window will serve.
-
-The Lost Master's Final Work
-: While exploring an abandoned temple, Eldira discovers fragmentary remains of glasswork by Master Gerdan that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
-
-The Architectural Opportunity
-: Eldira receives an invitation to submit designs for windows in a major civic building—a once-in-a-lifetime commission that could establish her as a major artist. However, the competition includes Master Helmut Thorne and other traditionalists, and the selection committee appears biased toward conventional work. She can compromise her artistic vision to compete on the committee's terms, or submit her true vision and risk rejection, potentially damaging her reputation.
-
-The Cursed Glass
-: Eldira acquires an unusual sample of glass—ancient, with unusual properties and coloration—from a collector's estate. When she begins working with it, creating extraordinary windows infused with the material, people who view the completed windows report disturbing dreams, visions, or compulsions. She has to find out whether the glass is truly cursed or whether something about her art is unlocking susceptibilities in viewers, and decide whether to destroy the completed work or reveal its effects.
-
-The Rival's Accident
-: Cassian Darkglass, her estranged former student, is seriously injured in a workshop accident—injuries so severe that he may never work again. Initially viewing this as his burden to bear, Eldira gradually learns that his accident may not have been accidental and that multiple parties had reason to wish him harm. More troublingly, some evidence suggests the incident may have been meant for Eldira herself. She must uncover who sought to harm whom and why, discovering conspiracy threads that implicate some she trusted.
+1. **The guild's quarrel.** The Glassworkers' Guild of Herthema is divided between the old masters and the younger masters who make figured glass, and Eldira's abstract work makes enemies of both. She asks a party to learn who has been breaking her kiln-loads.
+2. **The widow's commission.** [[being-oltremalizel|Oltrema Lizelis]] of Valthari wants a window made for her manor in a style no guild has attempted. Eldira asks a party to carry the sketches down the coast without letting the guild see them.
+3. **The lost master's work.** Eldira has found fragments of glass by her old master Gerdan in an abandoned temple, work unlike any she has seen. She asks a party to escort her to the temple and keep the site quiet.

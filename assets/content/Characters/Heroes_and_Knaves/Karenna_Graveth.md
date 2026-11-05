@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [thorgila]
-  affiliations: {kingdmtrvn: {rank: 3}, pozeras: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 3, office: Herald of the Crown}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: 688.111
@@ -474,8 +474,8 @@ Dependence on Position
 
 ### Patrons
 
-King [[being-iltherozedim|Ilthero]] III
-: The aging monarch values Kárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
+Lord [[being-iltherozedim|Ilthero]] III, a Crown Councilor of Lienrik
+: The Councilor values Kárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
 
 Duke [[being-volkemokaldr|Volkemo]] of the [Eastern Marches]{.name data-type="place/region"}
 : A powerful regional lord who has engaged Kárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
@@ -507,23 +507,6 @@ The Aureldian Pantheon
 
 ## Plot Hooks
 
-The Bastard Child
-: Kárenna receives an urgent message from **Duke Volkemo** concerning a serious complication: there is a child—her daughter—born during their brief liaison five years prior. The mother, a minor noblewoman of uncertain stability, has begun making public claims and threatening to expose their relationship and the child's paternity unless Kárenna acknowledges the girl and secures her position within the nobility. To acknowledge the child would be to admit to a scandalous affair that could damage her standing with traditionalists; to ignore the threat is to allow an innocent child to be used as a weapon by her mother. Worse, Kárenna discovers that **Lord Ervotho Tholmaris** has learned of the situation and is preparing to use it as leverage to force her resignation from her position.
-
-The Heretical Diplomat
-: Kárenna is tasked with delivering an official state declaration to the **Canonist Orthodox**, but the message contains language that the priesthood will interpret as heretical or sacrilegious. The king has deliberately worded it this way to provoke a political crisis that will discredit the traditionalist faction—but he has not told Kárenna of his intention. When the priesthood erupts in outrage and demands her censure for delivering such blasphemy, she can accept the consequences of her role or reveal the king's manipulation and become a liability to the throne.
-
-The Merchant's Leverage
-: **Merchant-Lord Bedarrek** reveals to Kárenna that he possesses documented evidence of her conflicts of interest and her inappropriate financial entanglement with House Graveth's commercial interests—transactions that were facilitated through her herald's authority. He offers her a choice: either she works to undo the previous trade negotiation that cost him wealth and leverage her position to grant him specific commercial concessions, or he brings his evidence to the king's justice council. She has three days to decide.
-
-The Succession Conspiracy
-: Kárenna learns through her palace network that a faction of powerful nobles is quietly working to manipulate the succession following King Ilthero's anticipated death—engineering circumstances that will place a weak but controllable heir on the throne. Several of her patrons are involved, including **Duke Volkemo**. She is approached to be the herald who will authenticate and announce the succession, knowing that her involvement would legitimize whatever scheme unfolds. To refuse is to lose crucial allies and mark herself as an obstacle; to cooperate is to become complicit in what she suspects may be a coup.
-
-The Shadow Voice
-: A mysterious contact approaches Kárenna with a proposition: become a covert agent for a foreign power (likely the [[affiliation-byzarianlg|Bizarian League]]), providing intelligence on the kingdom's diplomatic intentions, military readiness, and internal political fractures. In exchange, she receives wealth, protection, and assurance that her family will be safeguarded against future calamity. The contact has detailed knowledge of her secret daughter and seems to know everything about her vulnerabilities. She is given one week to decide, and the contact makes clear that refusal is not truly an option—they have invested too much in recruiting her.
-
-The Herald's Rebellion
-: Younger members of the Herald's Guild, impressed by Kárenna's new approach but frustrated by the pace of institutional change, approach her about leading a reformist movement within the guild structure. They want her to challenge the traditional hierarchy, push for new rules that diminish the authority of elder heralds, and put the selection of official pronouncements to a vote. The reformation would require going against **Lord Ervotho Tholmaris** and the traditionalist leadership directly. Kárenna must weigh the potential to reshape the institution against the certain enmity of powerful figures and the risk that the reform movement, if it succeeds too dramatically, could destabilize the careful diplomatic equilibrium she has helped establish.
-
-A Neighbor's Inquiry
-: [[being-nizelganotis|Nizel Ganotis]] asks Kárenna, as a herald of the crown, to carry the court's displeasure to [[being-frstrndrvs|Father Ostaran Dorvás]], who is investigating him and who is her neighbor in [[place-thorgila|Thórgila]].
+1. **The herald's house.** The quarrels of the High King's court follow Kárenna home to [[place-thorgila|Thórgila]]. [[being-nizelganotis|Nizel Ganotis]] asks her to carry the court's displeasure to her neighbor, Father Ostaran Dorvás, who is investigating him.
+2. **The merchant's leverage.** [[being-bedarrekmozk|Bedarrek Mozkarreta]] reveals that he holds documented evidence of her conflicts of interest and offers her a choice. She asks a party to learn how he came by it.
+3. **The old herald.** [[being-ervothotholm|Ervotho Tholmaris]] is undermining her authority with the older nobility at Lezkora. She asks a party to carry the crown's word to a lord who will not take it from her.

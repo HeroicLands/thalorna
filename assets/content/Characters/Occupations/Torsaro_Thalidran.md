@@ -3,7 +3,7 @@ shortcode: trsrthldrn
 name: {full: Tórsaro Thalidran}
 type: being
 subType: npc
-tags: [draft, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [durgalis]
-  affiliations: {kingdmtrvn: {rank: 2}, brazemas: {rank: 1}}
+  affiliations: {cncldrgls: {rank: 2}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 691.141
@@ -394,7 +394,7 @@ Tórsaro Thalidran is a 29-year-old man who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tórsaro Thalidran came into the world of the yeoman infantry through a combination of circumstance and aptitude.
+Born in [[place-durgalis|Dúrgalis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tórsaro Thalidran is a yeoman infantry.
 
 Tórsaro grew up on a farm, but his strength and eagerness to serve led him to the life of a yeoman infantryman. He is known for his agility and ability to adapt quickly in battle. While he lacks the years of experience of some of his comrades, his enthusiasm and quick learning have earned him respect among his peers.
 
@@ -406,7 +406,7 @@ Lacks the experience of older soldiers, sometimes impulsive.
 
 ### Motivation
 
-Tórsaro is driven by the desire to master his craft and secure a stable future. The uncertainties of life in yeoman infantry work keep him vigilant and adaptable.
+Tórsaro wants a place in the valley's militia that does not depend on a leader's favor, and wants his farm to feed a wife.
 
 ### Strengths
 
@@ -416,13 +416,11 @@ Agile, quick learner, strong in close combat.
 
 Tórsaro is affiliated with Local Militia.
 
-As a Tarvenan yeoman infantryman, Tórsaro occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Tórsaro's primary patron is a local militia leader who saw potential in him. This relationship provides both opportunity and obligation.
+Tórsaro's primary patron is a local militia leader who saw potential in him.
 
 ### Enemies
 
@@ -430,17 +428,6 @@ Bandits who often raid the countryside.
 
 ## Plot Hooks
 
-The Yeoman Infantry's Dilemma
-: Tórsaro faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Bandits who often raid the countryside. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Tórsaro's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-The Raiders on the Pass Road
-: The bandits who raid the farms under [[place-durgalis|Dúrgalis]] have taken a flock off the high pasture, and Tórsaro's militia leader sends him after them with three men younger than he is.
-
-The Opportunity
-: A chance encounter offers Tórsaro the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The raiders on the pass road.** Bandits raid the farms below the pass, and the militia leader who took Tórsaro in wants them followed to wherever they winter. Tórsaro has the legs and asks a party to bring experience.
+2. **The hail.** A field was struck out of a clear sky the day after its owner swore in the square. Tórsaro is the owner's cousin and asks a party to find the lie before the autumn count.
+3. **The note on the ship.** [[being-dalenavlrn|Dálena Valaron]]'s father has borrowed against the ship, and Tórsaro is asked to guard the family's coin. He asks a party to learn who in the valley is watching it.

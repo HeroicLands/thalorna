@@ -3,7 +3,7 @@ shortcode: durvolka
 name: {full: Durvolka}
 type: place
 subType: settlement
-description: "The harbor capital of Galvaren, a fog-bound fishing port of about 20,000 on a deep western bay, where the shipmasters sit at the king's Long Table and the harbor teller keeps the roll of the drowned."
+description: "The harbor capital of Galvaren, a fog-bound fishing port of about 20,000 on a deep south-western bay, where the shipmasters sit at the king's Long Table and the harbor teller keeps the roll of the drowned."
 tags: [port, town, draft]
 data:
   demonym: Durvolkan
@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-In Durvolka the fog comes first and the boats come second. The capital of the [[affiliation-kngdmglvrn|Kingdom of Galvaren]] is a harbor town of about 20,000 people on the deepest bay of the [[place-galvaren|Galvaren]] coast, halfway down the green, rain-soaked western shore of [[place-tarvenirgn|Tarvénia]]. Its name is plain Tarveni, _durka_ (fog) and _volkema_ (harbor), and the town has earned it: from late spring to the end of autumn a gray bank lies on the bay most mornings, and the herring boats go out through it by sound, steering on the bell at the harbor mouth and the shouts of the boat ahead.
+In Durvolka the fog comes first and the boats come second. The capital of the [[affiliation-kngdmglvrn|Kingdom of Galvaren]] is a harbor town of about 20,000 people on the deepest bay of the [[place-galvaren|Galvaren]] coast, halfway down the green, rain-soaked south-western shore of [[place-tarvenirgn|Tarvénia]]. Its name is plain Tarveni, _durka_ (fog) and _volkema_ (harbor), and the town has earned it: from late spring to the end of autumn a gray bank lies on the bay most mornings, and the herring boats go out through it by sound, steering on the bell at the harbor mouth and the shouts of the boat ahead.
 
-About three hundred boats call Durvolka home. Most are open herring boats with a crew of six, which go out at dusk and come back at dawn; some forty are the half-decked cod boats that stay out on the Far Grounds for three weeks at a time; and two dozen are merchant ships that carry salt fish south to [[place-valthari|Valthari]] and bring back salt, wine and oil. The king keeps six galleys in the basin under the castle. In the herring season the whole town smells of brine and woodsmoke, and while the catch is coming in a cart has no right of way on the waterfront.
+About three hundred boats call Durvolka home. Most are open herring boats with a crew of six, which go out at dusk and come back at dawn; some forty are the half-decked cod boats that stay out on the Far Grounds for three weeks at a time; and two dozen are merchant ships that carry salt fish round the headland to [[place-valthari|Valthari]] and bring back salt, wine and oil. The king keeps six galleys in the basin under the castle. In the herring season the whole town smells of brine and woodsmoke, and while the catch is coming in a cart has no right of way on the waterfront.
 
 ## The Town
 
@@ -71,7 +71,7 @@ Durvolka keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], 
 : the coast's custom for its drowned, and the harbor tellers who keep it
 
 [[place-ulhera|Ulhera]]
-: the cod port of the western coast
+: the cod port at the southern end of the coast
 
 [[place-ezkoba|Ezkoba]] and [[place-kaurema|Kaurema]]
 : the lamp town and the black cliffs up the coast

@@ -3,7 +3,7 @@ shortcode: vlmrjthrn
 name: {full: Velmar Gútharen}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [herthema]
-  affiliations: {kingdmtrvn: {rank: 2}, sacredforge: {rank: 1}}
+  affiliations: {cnclhrthm: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 668.248

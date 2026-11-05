@@ -11,7 +11,7 @@ data:
   occupation: Scout / Spy
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
+  homes: [kavrenath]
   affiliations: {slntlncmpny: {rank: 3}, kingdmtrvn: {rank: 0}}
   gender: male
   species: humanflk
@@ -484,11 +484,6 @@ Former comrades from his brigand days who survived the massacre and may be looki
 
 ## Plot Hooks
 
-The Past Returns
-: Someone from Tornis's old life recognizes him—or worse, comes looking for Kalen specifically. He must decide whether to run, fight, or finally tell the Silent Talon the truth about who he was before he joined them.
-
-The Double Game
-: Tornis is sent to infiltrate a rival mercenary company, but discovers that the company's employer is connected to the betrayal that destroyed his old brigand band. The mission becomes personal, and Tornis must choose between the Silent Talon's interests and his own need for answers.
-
-Trust and Deception
-: Élithe begins to sense that Tornis is hiding something fundamental about himself. As their relationship deepens, the weight of his secrets threatens to destroy the first connection he has allowed himself in years.
+1. **The deserters' price.** A band of imperial deserters has come over the passes with a captain, and Tornis recognizes the captain. He asks a party to learn whether the man knows Kalen's name.
+2. **The past returns.** Someone from Tornis's old life recognizes him at [[place-kavrenath|Kávrenath]] and comes looking for Kalen. He must decide whether to run, fight or tell the Silent Talon.
+3. **A toll unpaid.** A Vilérian merchant swears he paid his toll at the gate. Tornis has seen the man cross at night by the valley path and asks a party to bring the proof to the Warden's clerk.

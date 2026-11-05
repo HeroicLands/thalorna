@@ -3,8 +3,8 @@ shortcode: tharozobrazi
 name: {full: Tharozo Brazis, en: [Lord Tharozo]}
 type: being
 subType: npc
-description: A wealthy merchant who approached Pálina Sánriseth for intimate counsel and was rebuffed.
-tags: [generated, draft]
+description: A wealthy merchant of Herthema who approached Pálina Sánriseth for intimate counsel, was rebuffed and has begun to undermine her reputation.
+tags: []
 data:
   icon: icon-person
   templatePriority: null
@@ -12,8 +12,9 @@ data:
   occupation: Merchant
   lore: []
   culture: tarvenanclt
-  homes: []
-  affiliations: {}
+  homes: [herthema]
+  affiliations: {cnclhrthm: {rank: 3}}
+  socialTies: {being-palnsnrcth: rival}
   gender: male
   species: humanflk
   born: "674.50"
@@ -36,4 +37,48 @@ Tharozo Brazis is a 45-year-old man who stands 6'2" tall with a medium build. He
 
 # Dossier {#dossier}
 
-Tharozo Brazis is a wealthy merchant who approached [[being-palnsnrcth|Pálina Sánriseth]] for intimate counsel and was rebuffed. He takes her refusal as an affront and has begun to undermine her reputation in higher circles, suggesting that her work is beneath her station.
+Tharozo Brazis is a wealthy merchant of [[place-herthema|Herthema]] and a Councilor of the [[affiliation-cnclhrthm|Council of Herthema]], styled Lord Tharozo by his clerks. He deals in wine and ship-timber and is one of the merchants who employ the town's bodyguards.
+
+He approached [[being-palnsnrcth|Pálina Sánriseth]] for intimate counsel and was rebuffed. He takes her refusal as an affront and has begun to undermine her reputation in higher circles, suggesting that her work is beneath her station.
+
+## Psyche
+
+### Personality
+
+Tharozo is smooth, wounded and patient. He does not forgive a refusal and does not mention it.
+
+### Motivation
+
+He wants Pálina made small. He wants the temple's attention turned from the poor to the council's guests.
+
+### Strengths
+
+He sits on the council and holds notes on its members. He is generous to the temple's austere party.
+
+### Weaknesses
+
+What he asked of Pálina would shame him if known. His wife keeps the household accounts.
+
+## Social
+
+### Companions
+
+Gaimel Korvathandis, who takes his money.
+
+### Patrons
+
+None.
+
+### Enemies
+
+Pálina Sánriseth.
+
+### Affiliations
+
+- **[[affiliation-cnclhrthm|Council of Herthema]]**: Tharozo holds a seat as a Councilor.
+
+## Plot Hooks
+
+1. **The oversight.** Tharozo has funded Gaimel Korvathandis's agitation. He asks a party to carry his donations to the temple without a receipt.
+2. **The wife's ledger.** Tharozo's wife has found the payments. She asks a party to learn what her husband asked of Pálina.
+3. **The reform faction.** The merchants who want Dometh Graveth discredited meet in Tharozo's house. He asks a party to listen at the door.

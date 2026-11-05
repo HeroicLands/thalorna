@@ -77,6 +77,7 @@ data:
       - place-ibotsain
       - place-leparrun
       - place-gerdoibun
+      - being-elutsaribot
   tongues:
     - {tag: eskari, meaning: an Eskari name, language: skill-eskarilng}
     - {tag: translation, meaning: a name given in the language of these pages}

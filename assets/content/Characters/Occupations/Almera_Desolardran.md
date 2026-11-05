@@ -3,7 +3,7 @@ shortcode: almrdslrdrn
 name: {full: Álmera Desolardran}
 type: being
 subType: npc
-tags: [draft, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [valthari]
-  affiliations: {kingdmtrvn: {rank: 2}, pozeras: {rank: 1}}
+  affiliations: {frctyvlthr: {rank: 2}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: 696.83
@@ -393,7 +393,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Álmera Desolardran came into the world of the caravan guard through a combination of circumstance and aptitude.
+Born in [[place-valthari|Valthari]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Álmera Desolardran is a caravan guard.
 
 Álmera has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her a useful asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
 
@@ -405,7 +405,7 @@ Can be reckless, sometimes underestimates physical threats.
 
 ### Motivation
 
-Álmera is driven by the desire to master her craft and secure a stable future. The uncertainties of life in caravan guard work keep her vigilant and adaptable.
+Álmera wants a captaincy of her own caravan guard, and a road to Valthari with no smugglers' hands on it.
 
 ### Strengths
 
@@ -415,13 +415,11 @@ Agile and quick, skilled in stealth, strong at reconnaissance.
 
 Álmera is affiliated with the local [Mercenaries' Guild]{.name data-type="affiliation/guild"}.
 
-As a Tarvenan caravan guard, Álmera occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Álmera's primary patrons are caravan leaders seeking a reliable scout and guard. This relationship provides both opportunity and obligation.
+Álmera's primary patrons are caravan leaders seeking a reliable scout and guard.
 
 ### Enemies
 
@@ -429,17 +427,6 @@ Few; generally well-liked among her peers.
 
 ## Plot Hooks
 
-The Caravan Guard's Dilemma
-: Álmera faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
-
-Old Grudges
-: Few; generally well-liked among her peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Álmera's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Álmera depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Álmera the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The Bruthena road.** The caravan Álmera guards runs from [[place-bruthena|Bruthena]] to [[place-valthari|Valthari]], and a house has proposed a channel through the salt marsh that would make the caravan unnecessary. She asks a party to join the survey that the marsh people want stopped.
+2. **The quiet factor.** A factor of the Thordimalon in Valthari hires guards who will not ask why the quarter has gone quiet around him. Álmera has been offered the work and asks a party to find out what he is afraid of.
+3. **The strike.** The seamen refuse to sign until the owners raise the crew's share, and Álmera's caravan carries the owners' cargo to the quay. She asks a party to learn who is paying the carters to cross the picket.

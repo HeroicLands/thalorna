@@ -3,7 +3,7 @@ shortcode: elsrdrgn
 name: {full: Élsaro Durgana}
 type: being
 subType: npc
-tags: [draft, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [thorgila]
-  affiliations: {kingdmtrvn: {rank: 2}, brazemas: {rank: 1}}
+  affiliations: {cnclthrgl: {rank: 1}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: "693.30"
@@ -396,7 +396,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Élsaro Durgana came into the world of the mercenary through a combination of circumstance and aptitude.
+Born in [[place-thorgila|Thórgila]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Élsaro Durgana is a mercenary.
 
 Élsaro is a skilled assassin-for-hire, known for his stealth and precision. He operates in the shadows, taking on contracts from those willing to pay for his services. Élsaro has a reputation for being quick and discreet, often using his skills to eliminate targets without a trace. He values his independence and often works alone but is also willing to collaborate when the job requires it.
 
@@ -408,7 +408,7 @@ Can be overly secretive, struggles with trusting others.
 
 ### Motivation
 
-Élsaro is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mercenary work keep him vigilant and adaptable.
+Élsaro wants to be paid on the day, to keep his name out of the council's roll and to avoid any client who can read.
 
 ### Strengths
 
@@ -418,13 +418,11 @@ Highly skilled in stealth and assassination, adaptable, sharp-minded.
 
 Élsaro is affiliated with none; he operates independently.
 
-As a Tarvenan mercenary, Élsaro occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Élsaro's primary patrons are nobles and wealthy clients seeking discreet solutions to problems. This relationship provides both opportunity and obligation.
+Élsaro's primary patrons are nobles and wealthy clients seeking discreet solutions to problems.
 
 ### Enemies
 
@@ -432,17 +430,6 @@ Many; rivals and targets often seek retribution.
 
 ## Plot Hooks
 
-The Mercenary's Dilemma
-: Élsaro faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Many; rivals and targets often seek retribution. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Élsaro's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-A Contract at the Fair
-: A client offers Élsaro a contract to be carried out at the autumn horse fair at [[place-thorgila|Thórgila]], and the target is the priest of Árdavon who lives in the town.
-
-The Opportunity
-: A chance encounter offers Élsaro the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The lord's offer.** Riders of Nizel Ganotis ask Élsaro to silence a priest at [[place-thorgila|Thórgila]]. Élsaro has not refused, and asks a party to learn which of the lord's enemies the lord fears most.
+2. **A buyer at the stone.** A horse-seller swears a horse's age at the oath stone and the horse-judge reads its teeth and says otherwise. The seller has friends among the crossbowmen home from contract, and Élsaro asks a party to find who hired him as the seller's witness.
+3. **The crossbowman's return.** A crossbowman home from six years under contract has seen Élsaro's face in a place Élsaro has never been. He asks a party to learn who is wearing it.

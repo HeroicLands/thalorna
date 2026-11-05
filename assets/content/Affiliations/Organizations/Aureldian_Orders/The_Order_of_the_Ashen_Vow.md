@@ -97,7 +97,7 @@ Combat doctrine emphasizes incendiary tactics, the use of alchemical fire-throwe
 
 ## Notable Cells
 
-- [[affiliation-olvstrncell|The Ólvestran Cell]] (Tarvénia)—the largest single cell; operates under the protection of the hill-baronies; commanded by Elder [Drogo of the Sealed Forge]{.name data-type="being/npc"} (a name taken at initiation; the brother's birth name is no longer used).
+- [[affiliation-olvstrncell|The Ólvestran Cell]] (Tarvénia)—the largest single cell; operates under the protection of the hill-baronies; commanded by Elder [Oltremo of the Sealed Forge]{.name data-type="being/npc"} (a name taken at initiation; the brother's birth name is no longer used).
 - [The Péravel Shadow-Cell]{.name data-type="affiliation"} ([[place-elavendre|Élavendre]])—the most exposed cell; operates against direct suppression by the Sacred Forge and [[affiliation-bardicolgs|the Bardic Colleges]] (the Bardic Circle); smaller and more guarded than the Tarvénian operations.
 - **Various dispersed cells** in the rural Provénzian highlands, the Eilwithan coast, and the Tarvénian frontier.
 

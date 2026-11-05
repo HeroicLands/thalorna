@@ -96,7 +96,7 @@ The order's procedures are formal and ritualized. A petition is presented at a c
 
 ## Notable Members
 
-First Marendos [Anselmo Veroniani]{.name data-type="being/npc"}
+First Marendos [[being-oztukilthe|Oztuk Iltheris]]
 : current First Marendos; a man in his sixties; presiding over the order in a period of increasing tension between the order and several of the Aureldian crowns.
 
 The Council of the Seal

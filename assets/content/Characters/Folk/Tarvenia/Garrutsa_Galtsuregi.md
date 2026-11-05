@@ -3,8 +3,8 @@ shortcode: garrutsagalt
 name: {full: Garrutsa Galtsuregi, en: [Smuggling Magnate Garrutsa]}
 type: being
 subType: npc
-description: A merchant of questionable legitimacy who has been running contraband through the city's gates for decades, named in Haldena Durgana.
-tags: [generated, draft]
+description: A smuggling magnate of Ornetho who has run contraband through the city's gates for decades and bribes the guard to let it pass.
+tags: []
 data:
   icon: icon-person
   templatePriority: null
@@ -12,8 +12,9 @@ data:
   occupation: Smuggling Magnate
   lore: []
   culture: tarvenanclt
-  homes: []
-  affiliations: {}
+  homes: [ronetho]
+  affiliations: {kingdmlnrk: {rank: 2}}
+  socialTies: {being-hldndrgn: nemesis, being-zekudiorneti: patron}
   gender: male
   species: humanflk
   born: "664.50"
@@ -36,4 +37,48 @@ Garrutsa Galtsuregi is a 55-year-old man who stands 5'7" tall with a light build
 
 # Dossier {#dossier}
 
-Garrutsa Galtsuregi is a smuggling magnate, a merchant of questionable legitimacy who has run contraband through the city's gates for decades. [[being-hldndrgn|Haldena Durgana]] has repeatedly prevented his operations and seized his contraband. He bribes her guard captain and has offered her a bribe himself.
+Garrutsa Galtsuregi is a merchant of questionable legitimacy who has run contraband through the gates of [[place-ronetho|Ornetho]] for decades. He is a Freeman of the kingdom without a rank, and he runs the largest company of carters in the lowland city that is Lienrik's market and gate to Asturath.
+
+[[being-hldndrgn|Haldena Durgana]] has repeatedly prevented his operations and seized his contraband. He bribes her guard captain, [[being-zekudiorneti|Zekudi Ornetis]], and has offered her a bribe himself.
+
+## Psyche
+
+### Personality
+
+Garrutsa is hearty, heavy-lidded and fond of a toast. He treats a bribe as a courtesy and an arrest as a misunderstanding.
+
+### Motivation
+
+He wants the gates open to his carts and the castellan's tolls forgotten. He wants to be left alone to grow old rich.
+
+### Strengths
+
+He knows the shifts of every guard and the weak sections of the wall. The guilds of Ornetho owe him credit.
+
+### Weaknesses
+
+His reliance on Zekudi is a single point of failure. A persistent guard-captain with an honest tongue could ruin him.
+
+## Social
+
+### Companions
+
+His carters and a priest of the north gate temple who blesses his loads.
+
+### Patrons
+
+A man in the castellan's court who is never named.
+
+### Enemies
+
+Haldena Durgana and any honest watchman.
+
+### Affiliations
+
+- **[[affiliation-kingdmlnrk|Kingdom of Lienrik]]**: Garrutsa is a Freeman.
+
+## Plot Hooks
+
+1. **The escalation.** Garrutsa has offered Haldena Durgana a bribe, and the offer is explicitly disrespectful. He wagers that even someone as incorruptible as she will bend at the right number, and he asks a party to carry the offer.
+2. **The vaults.** Garrutsa has heard that the vaults under the old barracks hold papers worth having. He asks a party to find a way in.
+3. **The carter's wain.** A wain of Garrutsa's was stopped at the north gate, and Zekudi Ornetis let it through. Garrutsa asks a party to find who sent a second wain behind it.

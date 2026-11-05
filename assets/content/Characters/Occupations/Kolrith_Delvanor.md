@@ -3,7 +3,7 @@ shortcode: klrthdlvnr
 name: {full: Kolrith Delvanor}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +11,8 @@ data:
   occupation: Pilot
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, pozeras: {rank: 1}}
+  homes: [valthari]
+  affiliations: {frctyvlthr: {rank: 4}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: 695.52
@@ -399,9 +399,9 @@ Kolrith Delvanor is a 25-year-old man who stands 5'11" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kolrith Delvanor came into the world of the pilot through a combination of circumstance and aptitude.
+Born in [[place-valthari|Valthari]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kolrith Delvanor is a pilot.
 
-Kolrith is a daring pilot known for his adventurous spirit and quick reflexes. He often takes on challenging routes and is not afraid to push the limits of his airship. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kolrith has a knack for finding innovative solutions in the air, making him a respected figure among his peers.
+Kolrith is a daring pilot of the Pilots' Guild of Valthari known for his adventurous spirit and quick reflexes. He often takes on challenging crossings of the harbor bar and is not afraid to push the limits of his boat. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kolrith has a knack for finding innovative solutions on the water, making him a respected figure among his peers.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Can be reckless, struggles with authority.
 
 ### Motivation
 
-Kolrith is driven by the desire to master his craft and secure a stable future. The uncertainties of life in pilot work keep him vigilant and adaptable.
+Kolrith wants the best bar of any pilot in the guild, and a share in a ship he never has to pilot himself.
 
 ### Strengths
 
@@ -421,13 +421,11 @@ Fast reflexes, skilled at maneuvers, resourceful in challenging situations.
 
 Kolrith is affiliated with the local [Pilots' Guild]{.name data-type="affiliation/guild"}.
 
-As a Tarvenan pilot, Kolrith occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Kolrith's primary patrons are adventurers and thrill-seekers looking for exciting flights. This relationship provides both opportunity and obligation.
+Kolrith's primary patrons are the merchant houses and shipmasters who need a fast, sure crossing of the harbor bar, and the owners' council that hires the guild's boldest pilot when a hard passage cannot wait for the tide.
 
 ### Enemies
 
@@ -435,17 +433,6 @@ Few; generally well-liked, but some competitors may resent his success.
 
 ## Plot Hooks
 
-The Pilot's Dilemma
-: Kolrith faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Few; generally well-liked, but some competitors may resent his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kolrith's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Kolrith depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kolrith the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The bar in the storm month.** A merchant house has offered a charter that would clear Kolrith's debts, for a crossing in the month the pilots of [[place-valthari|Valthari]] do not sail. He asks a party to ride with him and see that the cargo is what the manifest says.
+2. **The strike.** The seamen refuse to sign until the owners raise the share, and the owners' council has asked Kolrith to pilot the strike-breaking ship across the bar. He asks a party to learn what the guild will do to him if he agrees.
+3. **A pilot's secret.** The bar has shifted in the night and Kolrith alone knows where. A house offers a fortune for the channel.

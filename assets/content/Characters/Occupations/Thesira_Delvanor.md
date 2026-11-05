@@ -3,7 +3,7 @@ shortcode: thesidlvnr
 name: {full: Thésira Delvanor}
 type: being
 subType: npc
-tags: [draft, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +11,8 @@ data:
   occupation: Mercenary
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, brazemas: {rank: 1}}
+  homes: [herthema]
+  affiliations: {cnclhrthm: {rank: 1}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: 695.65
@@ -397,7 +397,7 @@ Thésira Delvanor is a 25-year-old woman who stands 5'10" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Thésira Delvanor is a mercenary.
+Born in [[place-herthema|Herthema]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Thésira Delvanor is a mercenary.
 
 Thésira is a skilled fighter and mercenary who has built a reputation on her prowess in combat. With a strong moral code, she takes on jobs that fit her beliefs, often defending the downtrodden and fighting against oppression. She is known for her bravery and her willingness to put herself in harm's way to protect others. She dreams of one day forming her own mercenary company.
 
@@ -409,7 +409,7 @@ She can be too idealistic and struggles with ruthless clients.
 
 ### Motivation
 
-Thésira wants a company of her own, so that she chooses the jobs and the clients.
+Thésira wants a company of her own, so that she chooses the jobs and the clients, and a place on the sellswords' roll of Herthema that no Keeper can strike.
 
 ### Strengths
 
@@ -431,17 +431,6 @@ Few; she is respected by those she helps but has made enemies among those who pr
 
 ## Plot Hooks
 
-The Mercenary's Dilemma
-: The only contract on offer is from a client whose methods Thésira despises, and her company will not be founded on an empty purse.
-
-Old Grudges
-: A man whose hold over a village Thésira broke has hired mercenaries of his own.
-
-Echoes of the Past
-: A village Thésira once defended sends for her again, and the threat this time is the company she fought beside.
-
-Shifting Winds
-: Political change in Tarvénia threatens the guild contracts Thésira depends upon, and she can adapt, resist, or leave.
-
-The Opportunity
-: Thésira is offered the men and money to found her company, and its price is not named up front.
+1. **Off the roll.** The Keeper of the Roll has struck Thésira's name for taking a contract against a merchant of the council, and a man off the roll may not take hire in [[place-herthema|Herthema]] lawfully. She asks a party to learn which councilor asked for it.
+2. **A client she despises.** The only contract on offer is from a client whose methods Thésira despises, and a company will not be founded on an empty purse. [[being-pramizamozk|Prámiza Mozkarreta]] has offered her a place in her own company.
+3. **The reform faction's guards.** The reform faction among the council's merchants is hiring bodyguards, and Thésira has been asked to guard the merchant who wants Dometh Graveth discredited. She asks a party to learn whether the man is in danger or the cause of it.

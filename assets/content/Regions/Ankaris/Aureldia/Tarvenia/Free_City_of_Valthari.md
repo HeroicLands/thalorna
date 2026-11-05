@@ -17,21 +17,23 @@ data:
       - level: 0
         title: Struck from the Roll
         description: >-
-          Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
+          Struck from the city's roll for fraud against the city or treason to the charter: every contract the person holds is void, and the city's courts will not hear them.
       - level: 1
         title: Unfree
-        description: Bound in service or debt-bondage, holding neither property nor the right to contract.
+        description: >-
+          Bound to a house or a master in service or debt-bondage, holding no property and unable to make a contract of their own.
       - level: 2
         title: Resident
         description: >-
-          Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
+          A _palvo_, living and laboring in the city under its protection without the freedom of it, and sent out of it for theft or violence.
       - level: 3
         title: Freeman of the City
-        description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
+        description: >-
+          A _verosalo_, holding the freedom of the city: on its register, free to trade in its markets and to bring a case to its court at the Charter Hall.
       - level: 4
         title: Master of a Trade
         description: >-
-          A Freeman enrolled as a master in one of the city's chartered trades, answerable to it for his work and his apprentices.
+          A Freeman enrolled as a master in one of the city's chartered trades, answerable to the trade for his work and his apprentices, and bound with it to raise militia for the walls.
       - level: 5
         title: House Factor
         description: >-
@@ -39,31 +41,34 @@ data:
       - level: 6
         title: House Head
         description: >-
-          Master of a merchant house, its capital and its name. The head of a house on the Roll of Great Houses votes for the seats of the Konsezarath.
+          The head of a merchant house, answerable for its capital and its name. A head of a house on the Roll of Great Houses votes for the seats of the Konsezarath.
       - level: 7
         title: Councilor
-        description: A House Head sitting on the Konsezarath, by weight of the house behind him.
+        description: >-
+          A House Head sitting on the Konsezarath, by weight of the house behind him.
     offices:
       First of the Council: >-
-        Held by a Councilor, elected by the Konsezarath for a fixed term. Presides over the council and holds the city's seal.
-      Chancellor: Held by a Councilor, named by the Konsezarath. Keeper of the city's charters, treaties and correspondence.
+        Held by a Councilor, elected by the Konsezarath for a fixed term. Presides over the council, holds the city's seal and speaks for the city when the council has agreed what to say.
+      Chancellor: >-
+        Held by a Councilor, named by the Konsezarath. Keeps the royal charter, the city's treaties and its letters in the charter room of the Charter Hall.
       Treasurer: >-
-        Held by a Councilor, named by the Konsezarath. Keeper of the city's revenue: its customs, its tolls, and the loans it raises against them.
+        Held by a Councilor, named by the Konsezarath. Keeps the customs, the tolls and the loans the city raises against them.
       Harbormaster: >-
-        Held by a Freeman of the City, named by the Konsezarath. Warden of the port, its pilots, its wharves and the dues levied on every hull that crosses the bar.
+        Held by a Freeman of the City, named by the Konsezarath. Keeps the port, its pilots and its wharves, and levies the dues on every hull that crosses the bar.
       Master of the Mint: >-
-        Held by a Freeman of the City, named by the Konsezarath. Keeper of the coin struck in the city's name and of the standard it is struck to.
+        Held by a Freeman of the City, named by the Konsezarath. Keeps the coin struck in the city's name and the standard it is struck to.
       Consul Abroad: >-
-        Held by a House Factor, named by the Konsezarath. The city's resident agent in a foreign port, holding its seal for trade disputes there.
+        Held by a House Factor, named by the Konsezarath. Keeps the city's seal in a foreign port, and settles there the trade disputes of the city's merchants.
       Captain of the Watch: >-
-        Held by a Freeman of the City, named by the Konsezarath. Commander of the city's watch and of the militia its guilds are bound to raise.
+        Held by a Freeman of the City, named by the Konsezarath. Commands the _zórala_, the watch that keeps the streets and the quays, and the militia the chartered trades raise for the walls.
       Warden of the Weights: >-
-        Held by a Freeman of the City, named by the Konsezarath. Inspector of measures, coin and quality in the markets, the office that makes the city's word good.
-      Guild Master: Held by a Master of a Trade, chosen by his trade. Head of a chartered trade, speaking for it before the Konsezarath.
+        Held by a Freeman of the City, named by the Konsezarath. Keeps the standard measures and weights in the weighing room of the Charter Hall, fines short weight, false measure and debased coin, and forfeits the goods.
+      Guild Master: >-
+        Held by a Master of a Trade, elected by the Masters of his trade. Speaks for the trade before the Konsezarath.
       Arbitrator: >-
-        Held by a Freeman of the City, sworn at the Charter Hall. Settles disputes between houses under the commercial custom; the Konsezarath enforces the rulings.
+        Held by a Freeman of the City, sworn at the Charter Hall. Hears disputes between houses on the Arbitrators' bench under the commercial custom, and the Konsezarath enforces the ruling.
       Reeve of Threskon: >-
-        Held by a House Head whose house owns salt pans at Threskon, named by the Konsezarath each year. Governs the salt town for the city and answers for its dues.
+        Held by a House Head whose house owns pans at Threskon, named by the Konsezarath each year. Governs the salt town for the city, keeps its order and takes its dues.
   seat: valthari
   population: 300000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]

@@ -3,7 +3,7 @@ shortcode: banrkcrsld
 name: {full: Banrik Káriselda}
 type: being
 subType: npc
-tags: [draft, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [herthema]
-  affiliations: {kingdmtrvn: {rank: 2}, brazemas: {rank: 1}}
+  affiliations: {cnclhrthm: {rank: 2}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 691.49

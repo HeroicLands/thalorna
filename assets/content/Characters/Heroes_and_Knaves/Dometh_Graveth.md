@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [herthema]
-  affiliations: {kingdmtrvn: {rank: 2}, olvenia: {rank: 1}}
+  affiliations: {cnclhrthm: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 671.198
@@ -513,20 +513,6 @@ The keepers of Ólvenia's temple
 
 ## Plot Hooks
 
-The Impossible Commission
-: The [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]'s young crown-prince arrives unannounced at Dometh's workshop with a proposition: build a warship unlike any constructed before, incorporating advanced design principles that the prince has been researching in secret. The design contradicts everything Dometh has learned about proper shipbuilding—it seems reckless, wrong, ultimately doomed. Yet the prince claims the design comes from ancient manuscripts and is desperately needed to counter a naval threat from abroad. Either Dometh violates his principles on the prince's assurance of authenticity, or he refuses and potentially dooms the kingdom to naval defeat.
-
-The Ghost Ship's Resurrection
-: A famed vessel known as the [Stormchaser]{.name data-type="vehicle"}, reputed to be a Graveth masterpiece built by his father, has been discovered wrecked on a remote coast. The king offers Dometh an extraordinary sum to restore it to seaworthiness. The voyage to the wreck is itself dangerous, but the greater complication emerges when Dometh discovers that the ship bears evidence of deliberate sabotage—someone destroyed it with calculated intent. As he begins restoration, he uncovers a pattern: multiple Graveth vessels have been systematically destroyed over the past decades, suggesting that someone harbors an ancient vendetta against his family.
-
-The Timber's Curse
-: A merchant brings Dometh the wood from an ancient temple—supposedly the finest timber in the kingdom, capable of creating an extraordinary vessel. But Dometh discovers that the wood is haunted, or cursed, or somehow spiritually compromised. Every ship built from this timber has been lost at sea with all hands. Despite the timber's quality and the merchant's desperation and substantial payment offer, accepting it would violate everything Dometh believes about honoring his craft. Yet refusing means condemning the wood to burning, destroying something precious, and losing the commission that might sustain him through several lean years.
-
-The Apprentice's Betrayal
-: Dometh's only remaining apprentice, a young woman of promise he has trained for five years, suddenly leaves his workshop to work for the rival Tazek. Worse, she begins producing designs that suspiciously resemble Dometh's private refinements—modifications and improvements he has developed but not yet built. Furious, Dometh pursues the matter and discovers that Tazek hired her specifically to steal his intellectual work. Dometh's choices are legal recourse (which will expose his designs publicly), subtle sabotage of Tazek's work, or direct confrontation at significant personal risk.
-
-The Naval War Commission
-: The kingdom discovers that a rival naval power is constructing a fleet of warships. In desperation, the crown-prince returns to Dometh with a commission for a battle-fleet—multiple ships, rushed timeline, and total military deployment. Accepting would require Dometh to compromise on quality, expand his workshop, and delegate critical work to craftspeople he doesn't fully trust. Refusing would mean abandoning the kingdom in a moment of dire need. The prince makes it clear that patriotic honor requires acceptance, even as Dometh's conscience screams that rushing the work will result in inferior vessels that will endanger the sailors who crew them.
-
-The One Measure
-: The merchants of [[place-herthema|Herthema]] who want shipbuilding standardized ask the [[affiliation-cnclhrthm|Council of Herthema]] to set one measure for every hull built in the town, and Dometh must argue for his ships before a council of the men who want him discredited.
+1. **The reform faction.** The merchants who want Dometh discredited are gathering stories of Graveth hulls lost at sea. Dometh suspects the stories, and the wrecks, are not what they seem, and he cannot ask the questions himself.
+2. **The trembling hands.** Dometh's hands have begun to tremble, and the hull the Master of the Fleet of Galvaren has waited eight years for is not finished. He asks a party to carry a message to Brazema Betsuris at Durvolka that he cannot write.
+3. **The rival's hull.** The rival shipwright Tazek the Swift builds fast, cheap hulls and spreads the word that Graveth vessels are overpriced relics. A hull of Tazek's has gone down in a harbor storm, and Dometh asks a party to learn who built her keel.

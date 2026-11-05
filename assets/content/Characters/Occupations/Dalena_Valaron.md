@@ -3,7 +3,7 @@ shortcode: dalenavlrn
 name: {full: Dálena Valaron}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [durgalis]
-  affiliations: {kingdmtrvn: {rank: 5}, pozeras: {rank: 1}}
+  affiliations: {cncldrgls: {rank: 2}, frctyvlthr: {rank: 2}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.161

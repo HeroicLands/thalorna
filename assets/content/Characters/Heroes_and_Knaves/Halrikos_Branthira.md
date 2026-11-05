@@ -11,8 +11,8 @@ data:
   occupation: Bureaucrat
   lore: []
   culture: tarvenanclt
-  homes: [thorgila]
-  affiliations: {kingdmtrvn: {rank: 3}, brazemas: {rank: 1}}
+  homes: [valthari]
+  affiliations: {frctyvlthr: {rank: 4}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 667.107
@@ -425,9 +425,9 @@ Hálrikos stands 5'4" tall with a medium build. He has pale sallow skin, graying
 
 # Dossier {#dossier}
 
-Hálrikos was born into a merchant family of modest means in one of [[affiliation-kingdmtrvn|Tarvénia]]'s port cities, though his parents harbored ambitions beyond trade. Recognizing their son's preternatural gift for understanding written regulations and legal structure, they apprenticed him to the [Guild of Scribes]{.name data-type="affiliation/guild"} at age twelve. By his eighteenth year, Hálrikos had become the fastest, most accurate copyist in the city, capable of rendering even the most complex legal documents with flawless precision. He rose through the ranks of the city's bureaucratic apparatus, becoming a record-keeper, then a clerk of minor courts, and eventually ascending to his current position as Senior Archivist and Advisory Clerk to the [City Council]{.name data-type="affiliation/governmental"}.
+Hálrikos was born into a merchant family of modest means in the free port of [[place-valthari|Valthari]], though his parents harbored ambitions beyond trade. Recognizing their son's preternatural gift for understanding written regulations and legal structure, they apprenticed him to the [Guild of Scribes]{.name data-type="affiliation/guild"} at age twelve. By his eighteenth year, Hálrikos had become the fastest, most accurate copyist in the city, capable of rendering even the most complex legal documents with flawless precision. He rose through the ranks of the city's bureaucratic apparatus, becoming a record-keeper, then a clerk of minor courts, and eventually ascending to his current position as Senior Archivist and Advisory Clerk to the [City Council]{.name data-type="affiliation/governmental"}.
 
-For thirty-five years, Hálrikos has been the institutional memory of Tarvénia, the man who knows every law, every precedent, every regulation, and every hidden clause that governs the city's operations. He has served under six different city magistrates, each one depending on his institutional knowledge to keep the wheels of governance turning. His marriage to a practical woman named [Thessa]{.name data-type="being/npc"} has produced two children, both of whom have become bureaucrats themselves—a source of quiet pride for Hálrikos. His wife died seven years ago, and he has since devoted even more time to his work, finding in the orderly world of documents and regulations a comfort that human relationships cannot provide.
+For thirty-five years, Hálrikos has been the institutional memory of Valthari, the man who knows every law, every precedent, every regulation, and every hidden clause that governs the city's operations. He has served under six different city magistrates, each one depending on his institutional knowledge to keep the wheels of governance turning. His marriage to a practical woman named [Thessa]{.name data-type="being/npc"} has produced two children, both of whom have become bureaucrats themselves—a source of quiet pride for Hálrikos. His wife died seven years ago, and he has since devoted even more time to his work, finding in the orderly world of documents and regulations a comfort that human relationships cannot provide.
 
 Currently, Hálrikos maintains his position as one of the most indispensable figures in Tarvénia's government, though his power is wielded entirely through influence and information rather than formal authority. He lives in a modest apartment above a city administrative office, surrounded by filing cabinets and books of law, and spends nearly every waking hour either reading, cataloging, or advising city officials on procedural matters.
 
@@ -485,7 +485,7 @@ Magistrate [[being-iltherahilth|Ilthera]]
 : The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
 
 City Judge [Thelessa]{.name data-type="being/npc"}
-: The head of Tarvénia's court system views Hálrikos as a useful ally in maintaining the city's legal integrity and often calls upon him to resolve disputed points of law.
+: The head of the city's courts views Hálrikos as a useful ally in maintaining the city's legal integrity and often calls upon him to resolve disputed points of law.
 
 Master Merchant [Vaelot]{.name data-type="being/npc"}
 : A wealthy trader who has benefited from Hálrikos's careful interpretation of mercantile regulations and who pays him a regular consulting fee for ongoing advice.
@@ -510,7 +510,7 @@ Lady Merchant [[being-durrekaikent|Dúrreka]]
 ### Affiliations
 
 The City Bureaucracy
-: Hálrikos is part of Tarvénia's government and is an advisor to nearly every city office.
+: Hálrikos is part of Valthari's government and is an advisor to nearly every city office.
 
 The Guild of Scribes
 : He maintains his membership and attends quarterly meetings, though he relates to fewer and fewer of the younger members.
@@ -523,20 +523,6 @@ The Guild of Scribes
 
 ## Plot Hooks
 
-The Impossible Contradiction
-: A situation arises that appears to violate two fundamental and apparently equal regulations—one cannot follow both laws and still act lawfully. The city magistrate comes to Hálrikos expecting him to resolve the contradiction by finding some subtle loophole or precedent that reconciles the two rules. However, after deep investigation, Hálrikos discovers that no such reconciliation exists and never has. Moreover, he finds evidence suggesting that a previous city magistrate created this contradiction deliberately as a way to maintain flexibility in enforcement—a violation of legal principle that horrifies him. He must now decide whether to report this historical deception and undermine the city's legal foundations, or to keep the knowledge secret and violate his core principle of institutional integrity.
-
-The Reformist Trap
-: The Reformist Coalition begins a campaign to demonstrate that Hálrikos's strict adherence to regulation actually enables corruption rather than preventing it, by pointing to specific cases where criminal activity succeeded because regulations did not account for novel schemes. They propose replacing Hálrikos's archaic system with a new, more flexible regulatory framework. Hálrikos must defend his system not just on principle but by identifying how the reformists' solution would actually create more opportunities for corruption. However, his defense requires him to become politically engaged in a way that violates his carefully maintained neutrality.
-
-The Corrupted Archive
-: Hálrikos discovers that someone has altered several historical documents in the city's archives—not enough to be obviously false, but enough to have changed their legal meaning. These altered documents have been used as precedent in multiple cases and legal interpretations, and they may have been deliberately corrupted years ago to establish false precedent that benefits a particular faction. Hálrikos must identify which documents have been compromised, determine how many cases have been decided wrongly based on false precedent, and decide whether to expose this scandal, knowing that doing so will undermine the city's legal system for years and may implicate some of the most important figures in Tarvénia's history.
-
-The Impossible Request
-: A powerful and sympathetic figure comes to Hálrikos with a request: to help them accomplish something that is technically against regulations, but which Hálrikos believes is morally justified. This figure might be a beloved city official whose career is unjustly threatened, or a common person suffering because of the inflexible application of an outdated rule. For the first time in his life, Hálrikos is forced to choose between his fundamental principle and his conviction that the right choice requires breaking it. Making the wrong decision in either direction will destroy something essential to him.
-
-The Guild's Betrayal
-: The Guild of Scribes receives an offer from a wealthy patron to sponsor a new, faster system of record-keeping using novel methods that Hálrikos views as fundamentally unreliable. The Guild, faced with declining revenues as fewer people enter the scribal profession, is tempted by the patron's offer. Hálrikos must convince the Guild that his way is superior while privately questioning whether his devotion to tradition is blinding him to improvements. Meanwhile, the mysterious patron's true identity and motives become increasingly unclear, and Hálrikos begins to suspect that accepting the offer would compromise the integrity of the city's records for reasons he does not yet understand.
-
-The Written Rules
-: The [[affiliation-cnclthrgl|Council of Thórgila]], which holds its town to the word given at the oath stone, asks Hálrikos to write its rules down. Half the town calls that sense, and the other half calls it a city man telling free men what to do.
+1. **The clause and the arbitrator.** Two regulations of the city appear to contradict each other in a case before [[being-iltherahilth|Ilthera Hiltheris]]. Hálrikos asks a party to carry the papers to the Warden of the Weights and bring back his reading in writing.
+2. **The coalition.** The Reformist Coalition has begun a campaign to show that Hálrikos's strictness enables corruption. He asks a party to learn who among the houses funds it.
+3. **The altered archive.** Someone has altered several records in the Charter Hall's archive, not enough to be obviously false, but enough to change a ruling. Hálrikos asks a party to find who had the key.

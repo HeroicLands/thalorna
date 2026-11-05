@@ -3,7 +3,7 @@ shortcode: grthnjthrn
 name: {full: Gerthan Gútharen}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [thorgila]
-  affiliations: {kingdmtrvn: {rank: 2}, olvenia: {rank: 1}}
+  affiliations: {cnclthrgl: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 667.48
@@ -400,9 +400,9 @@ Gerthan Gútharen is a 53-year-old man who stands 6'0" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Gerthan Gútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in [[place-thorgila|Thórgila]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Gerthan Gútharen is a tentmaker.
 
-Gerthan has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in the city, often employing apprentices to keep up with demand. Although Gerthan is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
+Gerthan has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in [[place-thorgila|Thórgila]], often employing apprentices to keep up with demand. Although Gerthan is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Resistant to change, slow to adopt new methods.
 
 ### Motivation
 
-Gerthan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in tentmaker work keep him vigilant and adaptable.
+Gerthan wants the contract to make the tents for the autumn fair and for the companies that march from it, and wants his apprentices to be Thórgila men.
 
 ### Strengths
 
@@ -422,13 +422,11 @@ Experienced in making durable tents for harsh conditions, strong work ethic.
 
 Gerthan is affiliated with the [Tentmakers' Guild]{.name data-type="affiliation/guild"}.
 
-As a Tarvenan tentmaker, Gerthan occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Gerthan's primary patrons are military officials and merchants who value his sturdy products. This relationship provides both opportunity and obligation.
+Gerthan's primary patrons are military officials and merchants who value his sturdy products.
 
 ### Enemies
 
@@ -436,17 +434,6 @@ Younger tentmakers who see him as outdated.
 
 ## Plot Hooks
 
-The Tentmaker's Dilemma
-: Gerthan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Younger tentmakers who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Gerthan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Tents for the Fair
-: The [[affiliation-cnclthrgl|Council of Thórgila]] wants tents for the buyers who come to its autumn horse fair, and the younger tentmakers have underbid Gerthan with a cloth he says will not stand a valley wind.
-
-The Opportunity
-: A chance encounter offers Gerthan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The tents of the fair.** Riders of Nizel Ganotis ask Gerthan for forty tents on credit for the autumn fair, and the lord's credit is bad. He asks a party to learn whether the lord means to pay.
+2. **The company's contract.** A captain at the fair offers Gerthan the tents of a whole company, and the contract is written in a hand he does not know. He asks a party to read it.
+3. **The apprentices.** The two best apprentices have gone under contract with a company, as Thórgila's men do. Gerthan asks a party to bring one of them back.

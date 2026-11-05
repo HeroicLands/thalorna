@@ -3,7 +3,7 @@ shortcode: jolrenlvnr
 name: {full: Holren Álvanar}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +11,8 @@ data:
   occupation: Mason
   lore: []
   culture: tarvenanclt
-  homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, sacredforge: {rank: 1}}
+  homes: [lezkora]
+  affiliations: {kngdmstrth: {rank: 1}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 689.79
@@ -403,7 +403,7 @@ Holren Álvanar is a 31-year-old man who stands 6'0" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Holren Álvanar came into the world of the mason through a combination of circumstance and aptitude.
+Born in [[place-lezkora|Lezkora]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Holren Álvanar is a mason.
 
 Holren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with details and artistic flair. Holren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
 
@@ -415,7 +415,7 @@ Can be overly perfectionistic, struggles with heavy lifting.
 
 ### Motivation
 
-Holren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mason work keep him vigilant and adaptable.
+Holren wants to be known as the mason who mended the city's walls and cisterns, and wants the work to be paid by the king who owns them.
 
 ### Strengths
 
@@ -425,13 +425,11 @@ Highly skilled stone carver, creative, good problem solver.
 
 Holren is affiliated with the local [Masons' Guild]{.name data-type="affiliation/guild"}.
 
-As a Tarvenan mason, Holren occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Holren's primary patrons are local builders and architects seeking quality craftsmanship. This relationship provides both opportunity and obligation.
+Holren's primary patrons are local builders and architects seeking quality craftsmanship.
 
 ### Enemies
 
@@ -439,17 +437,6 @@ Few; generally well-liked in the community.
 
 ## Plot Hooks
 
-The Mason's Dilemma
-: Holren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Few; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Holren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Holren depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Holren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The cistern.** One of the western cisterns of [[place-lezkora|Lezkora]] has turned in a dry spring. Holren is asked to open it, and he finds a stone out of place that no weather moved.
+2. **Two courts, one wall.** The king of Asturath's household and the High King's household each order the same stretch of wall mended, with different stone. Holren asks a party to find which of them is lying about the order.
+3. **The plateau gate.** The Warden of the Plateau Gate asks Holren to build a lodge for the lords' twelve sworn men, and the lowland lords' agents offer more to build it at the wrong end of the road.

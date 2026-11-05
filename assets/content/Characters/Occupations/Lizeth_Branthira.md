@@ -3,7 +3,7 @@ shortcode: lzthbrnthr
 name: {full: Lizéth Bránthira}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [nebralis]
-  affiliations: {kingdmtrvn: {rank: 2}, lizelas: {rank: 1}}
+  affiliations: {cnclnbrls: {rank: 1}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.79
@@ -398,7 +398,7 @@ Lizéth Bránthira is a 41-year-old man who stands 6'4" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Lizéth Bránthira came into the world of the laborer (semi-skilled) through a combination of circumstance and aptitude.
+Born in [[place-nebralis|Nebralis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Lizéth Bránthira is a laborer (semi-skilled).
 
 Lizéth has spent his life working in construction and manual labor. Known for his strength and stamina, he has taken on various roles, from bricklaying to heavy lifting. Lizéth takes pride in his work and often leads teams of laborers. While he has a tough exterior, he is known for his sense of humor and willingness to lend a hand to those in need.
 
@@ -410,7 +410,7 @@ Can be overly critical, struggles with finer details of work.
 
 ### Motivation
 
-Lizéth is driven by the desire to master his craft and secure a stable future. The uncertainties of life in laborer (semi-skilled) work keep him vigilant and adaptable.
+Lizéth wants steady work on the harbor's new walls and wants his gang to be paid by a house that pays.
 
 ### Strengths
 
@@ -420,13 +420,11 @@ Physically strong, experienced in various labor roles, good leadership skills.
 
 Lizéth is affiliated with the local [Laborers' Union]{.name data-type="affiliation"}.
 
-As a Tarvenan laborer (semi-skilled), Lizéth occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Lizéth's primary patrons are local builders and contractors. This relationship provides both opportunity and obligation.
+Lizéth's primary patrons are local builders and contractors.
 
 ### Enemies
 
@@ -434,17 +432,6 @@ Few; respected by his peers.
 
 ## Plot Hooks
 
-The Laborer (semi-skilled)'s Dilemma
-: Lizéth faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Few; respected by his peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Lizéth's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Work on the Quays
-: The merchant houses taking hold of the harbor of [[place-nebralis|Nebralis]] offer Lizéth's crew steady work on the quays, on condition that he stops hiring the sons of fishing families.
-
-The Opportunity
-: A chance encounter offers Lizéth the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The quay gang.** The merchant houses are building a longer quay at [[place-nebralis|Nebralis]], and Lizéth's gang has not been paid for three weeks. He asks a party to carry his request to the council.
+2. **The priestess's wall.** The temple's garden wall fell in the last storm, and the bishop's recommended oversight would put the rebuilding out of the assembly's hands. Lizéth asks a party to carry stone before the vote.
+3. **The teamsters' vote.** Lizéth's brother-in-law is a teamster who may lose his seat to the guild's vote. He asks a party to learn who is paying for it.

@@ -3,7 +3,7 @@ shortcode: thrdrgn
 name: {full: Tharla Durgana}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [herthema]
-  affiliations: {kingdmtrvn: {rank: 2}, lizelas: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 1}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.264
@@ -395,9 +395,9 @@ Tharla Durgana is a 27-year-old woman who stands 5'8" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tharla Durgana is a domestic servant.
+Born in [[place-herthema|Herthema]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tharla Durgana is a domestic servant.
 
-Tharla was captured during a raid on her village and sold into slavery in the city, where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
+Tharla was captured during a raid on her village and sold into slavery in [[place-herthema|Herthema]], where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ She tends to be anxious and fearful of punishment, and thinks little of herself.
 
 ### Motivation
 
-Tharla wants her freedom, and until she has it, to avoid punishment.
+Tharla wants her freedom, and until she has it, to avoid punishment and to learn the names of the people who sold her.
 
 ### Strengths
 
@@ -429,17 +429,6 @@ Other servants resent her for trying to gain favor with the masters.
 
 ## Plot Hooks
 
-The Domestic Servant's Dilemma
-: Tharla learns of a way out of the household, and taking it means leaving behind the servants who would be punished for her flight.
-
-Old Grudges
-: A servant who resents Tharla's favor with the masters plants a theft on her.
-
-Echoes of the Past
-: Someone from the village Tharla was taken from is brought into the household as a slave.
-
-The Priestess of the Poor
-: Tharla hears in the market of [[place-herthema|Herthema]] that the priest [[being-palnsnrcth|Pálina Sánriseth]] helps women with nowhere else to go, and that strangers paid by [[being-gaimelkorvat|Gaimel Korvathandis]] are watching who comes to her.
-
-The Opportunity
-: Tharla is offered her freedom by a stranger to the household, and its price is not named up front.
+1. **The woman at the temple door.** [[being-palnsnrcth|Pálina Sánriseth]] has begun to feed the poor at the temple of Ólvenia, and Tharla's mistress has forbidden her to go. Tharla asks a party to carry a message to Pálina about a woman who might be freed.
+2. **The seller.** A factor of the house Tharla serves is the man who bought her, and she has seen him at the sellswords' roll with the Keeper. She asks a party to learn whether he trades in captives from the Western March's raids.
+3. **The reform faction's dinner.** The merchants of the reform faction dine in her mistress's house. Tharla hears every word and asks a party to carry what she has heard to Dometh Graveth.

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [thorgila]
-  affiliations: {kingdmtrvn: {rank: 3}, ardavon: {rank: 3}}
+  affiliations: {cnclthrgl: {rank: 2}, ardavon: {rank: 3}}
   gender: male
   species: humanflk
   born: 694.121
@@ -523,14 +523,6 @@ Sir [[being-srdlvnthrvkknghtwstrnmrchs|Dalven]] Thorvek
 
 ## Plot Hooks
 
-Investigating Corruption
-: Ostaran’s investigation into Lord Nizel’s actions could lead to the discovery of a larger conspiracy within the kingdom. Players could assist him in gathering evidence, infiltrating noble circles, or protecting him from assassination attempts.
-
-A Knight’s Duel
-: Lord Nizel, unwilling to face justice, may challenge Father Ostaran to a duel, forcing him to prove his martial skills in a high-stakes confrontation.
-
-Political Intrigue
-: As Father Ostaran navigates the complexities of the royal court, players may become entangled in the power struggles between the nobility and the church, with the fate of Tarvénia’s chivalric code hanging in the balance.
-
-The Fair at Thórgila
-: Riders of [[being-nizelganotis|Nizel Ganotis]] come to the autumn horse fair at [[place-thorgila|Thórgila]] asking where Father Ostaran keeps his papers, and they are buying horses at prices that buy friends. Ostaran needs to know who in his own town has taken their silver.
+1. **The fair at Thórgila.** Riders of [[being-nizelganotis|Nizel Ganotis]] come to the autumn horse fair at [[place-thorgila|Thórgila]] asking where Father Ostaran keeps his papers, and they are buying horses at prices that buy friends. He asks a party to hide the papers where the riders will not think to look.
+2. **A knight's duel.** Lord Nizel, unwilling to face justice, has sent a challenge to Father Ostaran to a duel at the fair. He asks a party to stand for him before the horse-judge.
+3. **The seal stops here.** The inquiry has reached the court where the seal of Polthamis stops. He asks a party to carry a sealed letter to his mother in Lezkora and bring back her answer.

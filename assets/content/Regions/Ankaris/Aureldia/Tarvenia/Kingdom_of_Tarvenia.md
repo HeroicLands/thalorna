@@ -63,7 +63,7 @@ data:
   packFolder: tarvenia
 sohl: {system: {commonSkills: [tarvenlng]}}
 
-# terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps—the senior of the four Tarvenan feudal kingdoms, holding the central plateau and the principal mountain passes."
+# terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps—the senior of the four Tarvenan feudal kingdoms, holding the mountain heartland and the principal mountain passes."
 ---
 
 ## Overview
@@ -105,7 +105,7 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 : The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvenan independence. Asturath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vilérian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarveni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
 
 [[affiliation-kngdmglvrn|Kingdom of Galvaren]]
-: The green, mist-shrouded western coast. Galvaren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvenan skepticism of the arcane. The kingdom's fishing fleets are the largest in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
+: The green, mist-shrouded south-western shore. Galvaren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvenan skepticism of the arcane. The kingdom's fishing fleets are the largest in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
 
 [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
 : The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Lienrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Liénriki nobles have contested the High Kingship more often than anyone.

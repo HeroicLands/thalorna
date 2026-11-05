@@ -3,7 +3,7 @@ shortcode: dmthrnthrn
 name: {full: Dometh Ornethran}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [durgalis]
-  affiliations: {kingdmtrvn: {rank: 2}, lusinia: {rank: 1}}
+  affiliations: {cncldrgls: {rank: 2}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.289
@@ -396,9 +396,9 @@ Dometh Ornethran is a 36-year-old man who stands 5'9" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a guilded family of [[lore-tarvenanclt|Tarvenan]] heritage, Dometh Ornethran came into the world of the thespian through a combination of circumstance and aptitude.
+Born in [[place-durgalis|Dúrgalis]] to a guilded family of [[lore-tarvenanclt|Tarvenan]] heritage, Dometh Ornethran is a thespian.
 
-Dometh is a seasoned actor known for his dramatic performances in the city's most prestigious theater. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. While he enjoys fame and the company of admirers, he secretly struggles with self-doubt, fearing that he will one day be forgotten.
+Dometh is a seasoned actor known for his dramatic performances on the stages of the coast. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. While he enjoys fame and the company of admirers, he secretly struggles with self-doubt, fearing that he will one day be forgotten.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Struggles with insecurity, prone to fits of melancholy.
 
 ### Motivation
 
-Dometh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thespian work keep him vigilant and adaptable.
+Dometh wants to be remembered, and the valley's autumn fair is the one audience he has never failed.
 
 ### Strengths
 
@@ -418,13 +418,11 @@ Skilled actor, talented at captivating an audience, strong stage presence.
 
 Dometh is affiliated with the [City Theater Company]{.name data-type="affiliation/venture"}.
 
-As a Tarvenan thespian, Dometh occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Dometh's primary patrons are wealthy patrons who fund his theater. This relationship provides both opportunity and obligation.
+Dometh's primary patrons are wealthy patrons who fund his theater.
 
 ### Enemies
 
@@ -432,17 +430,6 @@ Rival actors who resent his success.
 
 ## Plot Hooks
 
-The Thespian's Dilemma
-: Dometh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Rival actors who resent his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Dometh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-The Adept's Part
-: The [[affiliation-cncldrgls|Council of Dúrgalis]] wants [[lore-adepthail|the Adept and the Hail]] played in the square at the autumn fair, and Dometh, home from the city's stage, is asked to play the adept before a valley that counts its liars the same afternoon.
-
-The Opportunity
-: A chance encounter offers Dometh the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The adept in the square.** The [[affiliation-cncldrgls|Council of Dúrgalis]] wants [[lore-adepthail|the Adept and the Hail]] played in the square at the autumn fair, and Dometh, home from the coast's stages, is asked to play the adept before a valley that counts its liars the same afternoon.
+2. **The day after.** Hail has come out of a clear sky onto a single field, and its owner swore in the square the day before. The assembly asks Dometh to play the scene before the owner, to see whether he flinches.
+3. **The Valaron note.** A Valthari house holds the note on the Valaron ship, and Dometh, who knows the coast's playhouses, is asked to carry a letter to a patron there.

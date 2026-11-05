@@ -3,7 +3,7 @@ shortcode: alethraornet
 name: {full: Alethra Ornetis}
 type: being
 subType: npc
-tags: [todo, draft, clergy]
+tags: [todo, clergy]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [nebralis]
-  affiliations: {kingdmtrvn: {rank: 2}, lizelas: {rank: 3}}
+  affiliations: {cnclnbrls: {rank: 2}, lizelas: {rank: 3}}
   gender: female
   species: humanflk
   born: "690.100"
@@ -420,9 +420,9 @@ Her cunning and her nose for intrigue are somewhat surprising in someone who app
 
 ## Social
 
-Alethra's formal affiliation is with the [Temple of Lizelas]{.name data-type="affiliation"}, yet her actual position in Nebralis goes well beyond her rank in the priesthood. She is one of the few figures in the city who commands respect from both the traditional fishing families and the increasingly powerful merchant classes who control the harbor. The communal assembly—that foundational Tarvenan institution where free citizens gather to decide matters of common concern—listens when she speaks. She has never sought formal political power; her influence emerges from the fact that everyone understands her decisions are made in their interest rather than her own advancement.
+Alethra's formal affiliation is with the [Temple of Lizelas]{.name data-type="affiliation"}, yet her actual position in Nebralis goes well beyond her rank in the priesthood. She is one of the few figures in the town who commands respect from both the traditional fishing families and the increasingly powerful merchant classes who control the harbor. The communal assembly—that foundational Tarvenan institution where free citizens gather to decide matters of common concern—listens when she speaks. She has never sought formal political power; her influence emerges from the fact that everyone understands her decisions are made in their interest rather than her own advancement.
 
-This position is increasingly precarious. As Nebralis grows wealthier and the merchant oligarchy consolidates control, there is quiet pressure to reform the city's institutions, to make them more "orderly" and "accountable." The temple is no exception. Some merchant leaders view Alethra's field-based work as antiquated, her mediation of disputes as slower than formal magistrates, her lack of interest in expanding the temple's power as a failure of leadership. Meanwhile, more conservative elements within Tarvénia's priesthood view her willingness to work with the dispossessed and the common folk as a violation of priestly dignity.
+This position is increasingly precarious. As Nebralis grows wealthier and the merchant oligarchy consolidates control, there is quiet pressure to reform the town's institutions, to make them more "orderly" and "accountable." The temple is no exception. Some merchant leaders view Alethra's field-based work as antiquated, her mediation of disputes as slower than formal magistrates, her lack of interest in expanding the temple's power as a failure of leadership. Meanwhile, more conservative elements within Tarvénia's priesthood view her willingness to work with the dispossessed and the common folk as a violation of priestly dignity.
 
 ## Companions
 
@@ -433,25 +433,11 @@ This position is increasingly precarious. As Nebralis grows wealthier and the me
 
 **Enemies:**
 
-- **Merchant-Captain [Lucien Vasquez]{.name data-type="being/npc"}**, whose family has been consolidating control of Nebralis's harbor trade. He views Alethra's influence over the common people as an obstacle to the changes he is bringing in and has been quietly working to undermine her authority.
+- **Merchant-Captain [[being-gulmalenothel|Gulmaleno Thelvaris]]**, whose family has been consolidating control of Nebralis's harbor trade. He views Alethra's influence over the common people as an obstacle to the changes he is bringing in and has been quietly working to undermine her authority.
 - **Bishop [[being-ornethoilthe|Ornetho]]**, a high-ranking member of the formal priesthood who visited Nebralis two years ago and was scandalized by what he perceived as Alethra's informal, unstructured approach to her duties. He has recommended that she be placed under closer oversight and that her temple funding be redirected toward more formally trained clergy.
 
 ## Plot Hooks
 
-The Drought Returns
-: A severe drought descends upon the Tarvenan coast, threatening the agricultural and fishing cycles that sustain Nebralis. Alethra undertakes an extended fast and ritual petition as she did seven years before, but this time a visitor arrives—a wandering healer or scholar from outside Tarvénia who claims to know the cause of the drought and offers a solution that would require Alethra to abandon her ethical principles or her community's traditions to implement. The price of salvation may be unacceptable.
-
-The Merchant's Daughter
-: A young woman from one of the merchant families becomes pregnant, and the father—a sailor bound for distant ports—does not return. The girl's family demands that Alethra arrange an "accident" to remove the pregnancy rather than face the shame. When Alethra refuses and offers support instead, she directly offends the merchant family's honor and triggers a crisis that could overturn her standing in the community.
-
-The Hidden History
-: An old sailor arrives in Nebralis, recognizes Alethra, and begins hinting that the scar on her elbow came from violence, not accident—that Alethra may have killed someone in her youth or been marked as a warning. He may be telling the truth or testing her, but his presence forces her to confront a past she has worked for eighteen years to leave behind.
-
-The Temple's Modernization
-: Bishop Ornetho arrives in Nebralis with orders to "reform" the temple's work. He proposes consolidating the various informal healing and mediation roles into formal positions, hiring trained clergy, and reshaping her work to fit conventional priesthood hierarchy. Alethra can accept the loss of her independence and her direct service to the community, or refuse and risk being removed from her position entirely.
-
-The Magical Awakening
-: A disturbance in the deep places awakens something ancient in the lands surrounding Nebralis—perhaps something connected to [[place-aelwyth|Eilwith]]'s mystical influence filtering into distant waters, or perhaps something more immediately dangerous. Alethra's unusual skill in embalming suggests she has knowledge or experience with death-work that goes beyond conventional preparation of corpses. She is drawn into a mystery that involves the boundary between the living and the dead, and her involvement could either save her community or damn it depending on choices she has not anticipated needing to make.
-
-The Magistrate
-: The merchant aldermen of the [[affiliation-cnclnbrls|Council of Nebralis]] propose a formal magistrate to hear the quarrels Alethra mediates, and [[being-dorandaroort|Dorándaro Orthemandis]] asks her to speak against it in the Freemen's Assembly, which would make her the political power she has never sought.
+1. **The bishop's return.** [[being-ornethoilthe|Ornetho Iltheris]] is returning to [[place-nebralis|Nebralis]] with orders to reform the temple's work. Alethra asks a party to carry her answer to the assembly before the bishop arrives.
+2. **The drought.** A run of poor catches has begun and the assembly will decide what is shared. Alethra fasts as she did in the last hunger, and the First of the Council asks a party to persuade her to stop.
+3. **The old sailor.** An old sailor arrives in Nebralis, recognizes Alethra and hints that the scar on her elbow came from violence, not accident. She asks a party to learn what he knows and who sent him.

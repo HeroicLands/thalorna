@@ -140,7 +140,7 @@ A vaporwisp is a shape without clear edges, a roughly human form of mist five to
 
 ## In the Land
 
-Galvaren is a country of rain, fog, deep forests and rocky shores facing the sea's western reaches, and its fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris]]. The vaporwisps come with the sea-fog, at dusk and dawn and through foggy nights, and they haunt the thresholds of the coast: the passage graves and the stone circles, the edges of the woods where they meet the fields, the fords, and the harbor mouths of the fishing towns where the fog lies thickest. They are drawn to water, mist and cold and to places touched by recent death. When the fog lifts they go with it, and sunlight drives them into the stones.
+Galvaren is a country of rain, fog, deep forests and rocky shores on the south-western shore of [[place-tarvenirgn|Tarvénia]], and its fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris]]. The vaporwisps come with the sea-fog, at dusk and dawn and through foggy nights, and they haunt the thresholds of the coast: the passage graves and the stone circles, the edges of the woods where they meet the fields, the fords, and the harbor mouths of the fishing towns where the fog lies thickest. They are drawn to water, mist and cold and to places touched by recent death. When the fog lifts they go with it, and sunlight drives them into the stones.
 
 ## Key Behaviors
 

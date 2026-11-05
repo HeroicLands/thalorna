@@ -3,7 +3,7 @@ shortcode: alvrkrnthl
 name: {full: Alvarik Árenthar}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [nebralis]
-  affiliations: {kingdmtrvn: {rank: 2}, lizelas: {rank: 1}}
+  affiliations: {cnclnbrls: {rank: 2}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.228

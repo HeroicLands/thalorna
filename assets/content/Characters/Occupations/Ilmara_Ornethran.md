@@ -3,7 +3,7 @@ shortcode: ilmrrnthrn
 name: {full: Ilmara Ornethran}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [herthema]
-  affiliations: {kingdmtrvn: {rank: 2}, olvenia: {rank: 1}}
+  affiliations: {cnclhrthm: {rank: 2}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 672.91
@@ -396,7 +396,7 @@ Ilmara Ornethran is a 48-year-old woman who stands 5'10" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a guilded family of [[lore-tarvenanclt|Tarvenan]] heritage, Ilmara Ornethran came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in [[place-herthema|Herthema]] to a guilded family of [[lore-tarvenanclt|Tarvenan]] heritage, Ilmara Ornethran is an innkeeper.
 
 Ilmara took over the [Ornethran Inn]{.name data-type="place/structure"} after her husband passed away. She is known for her strength and resilience, managing the inn single-handedly while providing a warm and inviting atmosphere. Ilmara prides herself on her homemade dishes and has built a reputation for her signature stews. While she faces challenges as a single innkeeper, her determination keeps the inn thriving.
 
@@ -408,7 +408,7 @@ Can be overly strict with staff, struggles with stress.
 
 ### Motivation
 
-Ilmara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
+Ilmara wants the Ornethran Inn to stay hers, with its stews and its rule that no man draws steel in the yard.
 
 ### Strengths
 
@@ -418,13 +418,11 @@ Skilled cook, strong work ethic, resilient.
 
 Ilmara is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
 
-As a Tarvenan innkeeper, Ilmara occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Ilmara's primary patrons are regular guests and local families. This relationship provides both opportunity and obligation.
+Ilmara's primary patrons are regular guests and local families.
 
 ### Enemies
 
@@ -432,17 +430,6 @@ Few; generally respected in her community.
 
 ## Plot Hooks
 
-The Innkeeper's Dilemma
-: Ilmara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
-
-Old Grudges
-: Few; generally respected in her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Ilmara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Both Sides Under One Roof
-: The old glassworkers of [[place-herthema|Herthema]] and the young masters of figured glass both drink at Ilmara's inn, and with the guild's quarrel before the [[affiliation-cnclhrthm|Council of Herthema]], she must keep the two sides under one roof without a fight the council hears about.
-
-The Opportunity
-: A chance encounter offers Ilmara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The lodger off the roll.** A sellsword lodges at the inn who has been struck from the roll, and the Keeper of the Roll's clerks have been asking at the door. Ilmara asks a party to take him out of [[place-herthema|Herthema]] before the walls close.
+2. **The wine merchant's table.** A wine merchant eats at the inn each market day and has started to talk of the figured glass he means to buy. Ilmara asks a party to carry a sample to [[being-vlmrjthrn|Velmar Gútharen]] and bring back his opinion.
+3. **Pálina's visitors.** Women of the town come to the inn to wait for [[being-palnsnrcth|Pálina Sánriseth]], and Gaimel Korvathandis's agents have started to eat at the next table. Ilmara asks a party to take a room and listen.

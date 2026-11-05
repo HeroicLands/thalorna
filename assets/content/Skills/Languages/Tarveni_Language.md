@@ -5129,6 +5129,39 @@ data:
     - {name: Western Marches, tongue: translation}
     - {name: Gray Highlands, tongue: translation}
     - {name: The Summer War, tongue: translation}
+    - {name: Ularrek Garrundeta, tongue: tarveni}
+    - {name: High King Ularrek, tongue: translation}
+    - {name: King Ularrek, tongue: translation}
+    - {name: Alzemo Zolduregi, tongue: tarveni}
+    - {name: King Alzemo, tongue: translation}
+    - {name: King Alzemo of Asturath, tongue: translation}
+    - {name: Estaril Dómivar, tongue: tarveni}
+    - {name: Warden Estaril, tongue: translation}
+    - {name: Ugarrek Tsoluregi, tongue: tarveni}
+    - {name: Lord Ugarrek, tongue: translation}
+    - {name: Thelvar Mozkarreta, tongue: tarveni}
+    - {name: Horse-Judge Thelvar, tongue: translation}
+    - {name: Brazemo Tholmaris, tongue: tarveni}
+    - {name: First Brazemo, tongue: translation}
+    - {name: Gulmaleno Thelvaris, tongue: tarveni}
+    - {name: First Gulmaleno, tongue: translation}
+    - {name: Merchant-Captain Gulmaleno, tongue: translation}
+    - {name: Kaldro Kanarris, tongue: tarveni}
+    - {name: Baron Kaldro, tongue: translation}
+    - {name: Tholma Ozkuregi, tongue: tarveni}
+    - {name: Mother Tholma, tongue: translation}
+    - {name: Hilther Betsuris, tongue: tarveni}
+    - {name: Brother Hilther, tongue: translation}
+    - {name: Prámiza Mozkarreta, tongue: tarveni}
+    - {name: Captain Prámiza, tongue: translation}
+    - {name: Oztuk Iltheris, tongue: tarveni}
+    - {name: First Marendos Oztuk, tongue: translation}
+    - {name: Alzema Thaluris, tongue: tarveni}
+    - {name: Voice Alzema, tongue: translation}
+    - {name: Hilther Oltris, tongue: tarveni}
+    - {name: Castellan Hilther, tongue: translation}
+    - {name: Oltremo of the Sealed Forge, tongue: tarveni}
+    - {name: Elder Oltremo, tongue: translation}
   retired:
     - form: Consejarath
       instead: Konsezarath
@@ -5227,6 +5260,13 @@ data:
     - form: Thésia
       instead: Thésira
       why: "a name with the vowels i and a side by side, which Tarveni lacks"
+    - {form: Lucien Vasquez, instead: Gulmaleno Thelvaris, why: "an Earth personal name"}
+    - form: Drogo of the Sealed Forge
+      instead: Oltremo of the Sealed Forge
+      why: "an Earth personal name"
+    - {form: Veronica Aldorina, instead: Alzema Thaluris, why: "an Earth personal name"}
+    - {form: Anselmo Veroniani, instead: Oztuk Iltheris, why: "an Earth personal name"}
+    - {form: Kekhebon Yegis, instead: Hilther Oltris, why: "a name outside the Tarveni palette"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -5364,7 +5404,7 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 **Lienrik Tarveni:** The dialect of the fertile central-southern lowlands, showing the most regular grammar and widest vocabulary. Tends toward clear vowel articulation and careful consonant distinction. Often treated as the closest thing to a "standard" Tarveni, though no kingdom would admit it.
 
-**Galvari Tarveni:** The western coastal dialect, shaped by seafaring life and contact with maritime trade. Shows unique phonetic developments—vowel reduction in unstressed syllables, softened consonant clusters—and some vocabulary divergence from inland speech. Speakers of other Tarvenan dialects find this variant noticeably different.
+**Galvari Tarveni:** The dialect of the Galvaren shore, shaped by seafaring life and contact with maritime trade. Shows unique phonetic developments—vowel reduction in unstressed syllables, softened consonant clusters—and some vocabulary divergence from inland speech. Speakers of other Tarvenan dialects find this variant noticeably different.
 
 **Valthari Tarveni:** The speech of the great southern port city, showing greater Provenzal and maritime influence than any other dialect. Lenient consonant articulation and heavy borrowing from trade languages make it the most accessible variant to outsiders, and the most common lingua franca between Tarvenan regions.
 

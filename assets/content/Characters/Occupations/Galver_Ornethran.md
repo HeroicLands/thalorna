@@ -3,7 +3,7 @@ shortcode: glvrrnthrn
 name: {full: Galver Ornethran}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [nebralis]
-  affiliations: {kingdmtrvn: {rank: 2}, sacredforge: {rank: 1}}
+  affiliations: {cnclnbrls: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 674.273
@@ -399,7 +399,7 @@ Galver Ornethran is a 46-year-old man who stands 6'0" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Galver Ornethran came into the world of the mason through a combination of circumstance and aptitude.
+Born in [[place-nebralis|Nebralis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Galver Ornethran is a mason.
 
 Galver is a veteran mason with over thirty years of experience. He has worked on countless projects, from simple homes to grand cathedrals. Known for his strength and expertise, Galver often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
 
@@ -411,7 +411,7 @@ Can be resistant to change, sometimes too strict with apprentices.
 
 ### Motivation
 
-Galver is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mason work keep him vigilant and adaptable.
+Galver wants the quays of Nebralis built to last and the apprentices he trains to know what a sound course looks like, whoever pays for them.
 
 ### Strengths
 
@@ -421,13 +421,11 @@ Highly experienced, strong leadership skills, excellent craftsmanship.
 
 Galver is affiliated with the local [Masons' Guild]{.name data-type="affiliation/guild"}.
 
-As a Tarvenan mason, Galver occupies a recognized social niche within Tarvénia society.
-
 ## Companions
 
 ### Patrons
 
-Galver's primary patrons are architects and builders seeking experienced masons. This relationship provides both opportunity and obligation.
+Galver's primary patrons are architects and builders seeking experienced masons.
 
 ### Enemies
 
@@ -435,17 +433,6 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-The Mason's Dilemma
-: Galver faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
-
-Old Grudges
-: Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Galver's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-The Warehouse on the Quay
-: A merchant house growing rich on the harbor of [[place-nebralis|Nebralis]] wants a warehouse built on the quay faster than Galver will build one sound, and the fishing families say the ground it means to build on is theirs.
-
-The Opportunity
-: A chance encounter offers Galver the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The new quay.** The merchant houses that control the [[place-nebralis|Nebralis]] harbor have commissioned a longer quay from Galver, and the stone they have supplied is the wrong stone. He asks a party to find who sold it.
+2. **The temple's roof.** The temple of Lizelas needs its roof mended before winter, and the bishop's recommended oversight would put the work out to formally trained clergy's builders. Galver asks a party to carry the priestess's request to the assembly.
+3. **The guild's vote.** The older teamsters' vote on whether a seat may pass to a daughter will decide who carts Galver's stone. He asks a party to learn which teamsters have been paid.

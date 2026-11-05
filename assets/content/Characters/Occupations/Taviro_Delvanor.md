@@ -3,7 +3,7 @@ shortcode: tavirdlvnr
 name: {full: Taviro Delvanor}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [nebralis]
-  affiliations: {kingdmtrvn: {rank: 2}, pozeras: {rank: 1}}
+  affiliations: {cnclnbrls: {rank: 2}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: 698.182
@@ -396,7 +396,7 @@ Taviro Delvanor is a 22-year-old man who stands 6'2" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Taviro Delvanor is a common seaman.
+Born in [[place-nebralis|Nebralis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Taviro Delvanor is a common seaman.
 
 Taviro has always loved the sea, and has worked as a seaman since he was a teenager. Known for his strength and stamina, he excels at the heavy work of a ship, hoisting sails and loading cargo. He is a reliable crewman who values the fellowship of his shipmates. He dreams of one day sailing to distant lands and seeing other peoples.
 
@@ -408,7 +408,7 @@ He can be too blunt, and struggles with delicate tasks.
 
 ### Motivation
 
-Taviro wants a berth on a ship bound somewhere he has never been.
+Taviro wants a berth on a ship bound for distant lands, and a share that does not shrink when the harbor houses count the catch.
 
 ### Strengths
 
@@ -430,17 +430,6 @@ Few; he is generally respected, though some see him as overly serious.
 
 ## Plot Hooks
 
-The Common Seaman's Dilemma
-: A captain offers Taviro the voyage to distant lands he has dreamed of, and the cargo in her hold is not one an honest seaman would carry.
-
-Old Grudges
-: A shipmate who took Taviro's seriousness for contempt has been telling captains not to hire him.
-
-Echoes of the Past
-: A captain Taviro sailed under as a boy is back in port, and wants him back on his crew.
-
-A House Berth
-: The merchant houses taking hold of the harbor of [[place-nebralis|Nebralis]] want crews that ship only with them, and Taviro is offered a berth bound somewhere he has never been if he signs away the right to ship with anyone else.
-
-The Opportunity
-: A merchant offers Taviro a mate's berth on a ship bound for distant lands, and the crew he would command are not men who want him over them.
+1. **The share.** The merchant-captain who controls the harbor trade has reduced the crew's share on his ships. Taviro asks a party to learn whether the other captains mean to follow.
+2. **The lean year.** The assembly will decide what is shared in the poor catches, and Taviro is a freeman with a voice. He asks a party to carry his argument to Dorándaro Orthemandis.
+3. **A berth abroad.** A captain at the quay offers a berth on a ship bound west, and the ship is the one that sells salt outside Durvolka's bay at night.
