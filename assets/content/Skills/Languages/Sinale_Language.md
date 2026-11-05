@@ -7570,7 +7570,7 @@ data:
     - {name: Enclave of Ethalosse, tongue: translation}
     - {name: Enclave of Serenthale, tongue: translation}
     - {name: Enclave of the Hallowwood, tongue: translation}
-    - {name: ankaris continent, tongue: exonym}
+    - {name: ankaris, tongue: exonym}
     - {name: aureldia region, tongue: exonym}
     - {name: midhalión region, tongue: exonym}
     - {name: midhalión, tongue: exonym}

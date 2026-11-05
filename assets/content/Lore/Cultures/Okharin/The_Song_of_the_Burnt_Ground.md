@@ -3,7 +3,7 @@ shortcode: ashbornsong
 name: {full: The Song of the Burnt Ground, okha: [zhebolu zhimbalin khutheling]}
 type: lore
 subType: literature
-description: "The Ashborn war-hymn of Vuthraka, called by a leader and answered by the line: the red fire invoked, the ash laid on the arms, and the stand of Otham's company on burned ground among the Táluméng herds, with the edge he would not cross and the names of the seven who did not come home."
+description: "The Ashborn war-hymn of Vuthraka, called by a leader and answered by the line: the red fire invoked, the ash laid on the arms, and the stand of Otham's company on burned ground among the Tálumeng herds, with the edge he would not cross and the names of the seven who did not come home."
 tags: [draft, okharis]
 data:
   packFolder: settinglore
@@ -22,9 +22,9 @@ data:
 
 The [Ashborn of Vuthraka]{.name data-type="affiliation/order"} chant war-hymns that call on the Wild Flame, the red aspect of [[lore-nkaruthardty|Nkaru'thar]], and **The Song of the Burnt Ground**, _zhebolu zhimbalin khutheling_, is the one they chant on the march out of [[place-vuthraka|Vuthraka]] and again in the line before an engagement. A leader calls each line and the company answers it. The answers are two: _We stand on ash_, after most lines, and _Ash does not burn twice_, at the turns. A company that has chanted it on the march has the answers in its feet before it reaches the line, which is part of what the hymn is for.
 
-Its matter is **the Stand on the Burnt Ground**, a fight of the old days on the open grazing of the [[affiliation-talumengtrb|Táluméng]], at the end of a dry season. Raiders out of the eastern grass fired the old grass upwind of the Táluméng herds. An Ashborn company under **Otham of the Brand** burned the ground under the herds before the raiders' fire reached them, drove the cattle onto the black, and stood on the ash while the fire went round them; when the raiders came through the smoke after the cattle, the company held them at the edge of the burn. The hymn gives the raiders no name and no people. It praises Otham for the thing he did not do: the raiders broke, the company wanted to follow them out past the edge of the grazing, and Otham set his blade in the ground at the edge and held them there. The hymn ends on the names of the seven of his company who died, **Mbato**, **Rembol**, **Ásira**, **Jengu**, **Tiru**, **Lakhor** and **Ngoro**, and Vuthraka says those names at the red fire whenever the hymn is chanted inside its walls.
+Its matter is **the Stand on the Burnt Ground**, a fight of the old days on the open grazing of the [[affiliation-talumengtrb|Tálumeng]], at the end of a dry season. Raiders out of the eastern grass fired the old grass upwind of the Tálumeng herds. An Ashborn company under **Otham of the Brand** burned the ground under the herds before the raiders' fire reached them, drove the cattle onto the black, and stood on the ash while the fire went round them; when the raiders came through the smoke after the cattle, the company held them at the edge of the burn. The hymn gives the raiders no name and no people. It praises Otham for the thing he did not do: the raiders broke, the company wanted to follow them out past the edge of the grazing, and Otham set his blade in the ground at the edge and held them there. The hymn ends on the names of the seven of his company who died, **Mbato**, **Rembol**, **Ásira**, **Jengu**, **Tiru**, **Lakhor** and **Ngoro**, and Vuthraka says those names at the red fire whenever the hymn is chanted inside its walls.
 
-The Táluméng tell the Stand at their own fires, in prose, and in their telling it was a Táluméng herdsman, **Kenthor**, who lit the break while the company was still riding in, and the Ashborn found the herds already on the black. The hymn names no herdsman. Neither side has asked the other to change its account. Táluméng elders at Vuthraka chant the answers with the company. The rendering keeps the answers in italics, set under the leader's lines.
+The Tálumeng tell the Stand at their own fires, in prose, and in their telling it was a Tálumeng herdsman, **Kenthor**, who lit the break while the company was still riding in, and the Ashborn found the herds already on the black. The hymn names no herdsman. Neither side has asked the other to change its account. Tálumeng elders at Vuthraka chant the answers with the company. The rendering keeps the answers in italics, set under the leader's lines.
 
 : The Song of the Burnt Ground {#song}
 
@@ -59,7 +59,7 @@ Hear the Stand on the Burnt Ground./
 ._We stand on ash._/
 Hear Otham of the Brand and his company of the red fire./
 ._We stand on ash._/
-It was the end of the dry season on the Táluméng grazing./
+It was the end of the dry season on the Tálumeng grazing./
 ._We stand on ash._/
 The old grass stood grey to the knee, and the cattle would not eat it./
 ._We stand on ash._/
@@ -90,7 +90,7 @@ down the wind, ahead of the fire, which is where the raiders wanted them./
 A herd running ahead of a grass fire runs into the arms of whoever waits for it./
 ._Ash does not burn twice._/
 
-Otham was a herdsman's son of the Táluméng before he was Vuthraka's./
+Otham was a herdsman's son of the Tálumeng before he was Vuthraka's./
 ._We stand on ash._/
 He knew the grazing by the soles of his feet, and the wind by the back of his neck./
 ._We stand on ash._/
@@ -167,7 +167,7 @@ The young ones in the line wanted it, and the old ones wanted it,/
 and the horses were caught, and the blood was up, and the smoke was clearing./
 ._We stand on ash._/
 Otham went out a little way from the line to the edge of the grazing,/
-where the stream bed is, and the Táluméng grazing ends./
+where the stream bed is, and the Tálumeng grazing ends./
 ._We stand on ash._/
 He set the point of his blade in the ground at the edge./
 ._We stand on ash._/
@@ -222,7 +222,7 @@ He said the seven names at the red fire in the court, one by one./
 ._We stand on ash._/
 He said no word about the edge, and the twelve said it for him./
 ._We stand on ash._/
-The Táluméng sent cattle to Vuthraka at the festival, from the herd that was kept./
+The Tálumeng sent cattle to Vuthraka at the festival, from the herd that was kept./
 ._We stand on ash._/
 The cattle were eaten at the festival, and the herdsmen ate with the company./
 ._We stand on ash._/
@@ -274,7 +274,7 @@ ntekom ngembu zhimbalin khutheling‼/
 .ngemi thokorom mbathel shurem./
 ntekom otham ngeme zhangarira zhembin nkaring‼/
 .ngemi thokorom mbathel shurem./
-tebu thumom thamburu khurin ngothaming mbathel khuthin táluméng./
+tebu thumom thamburu khurin ngothaming mbathel khuthin tálumeng./
 .ngemi thokorom mbathel shurem./
 thoremin pembenu thokorom shuremin mbor ndareku, ngeme nkombira mbes mebom pembenu./
 .ngemi thokorom mbathel shurem./
@@ -305,7 +305,7 @@ ngembel ngorenu mbanor nkaru, ngeme ndorkarira lembom tebu./
 nkombira ndawom mbanor nkaru, ngeme ndawom mbo mbalel mbeyi thambelom./
 .shurem mbes nkarom mbet ngembu./
 
-otham thumom yombilu kortharing nkombiring táluméng, mbanor mbenemu thebom zhangari vuthraka./
+otham thumom yombilu kortharing nkombiring tálumeng, mbanor mbenemu thebom zhangari vuthraka./
 .ngemi thokorom mbathel shurem./
 mbenemu mbethom khuthin mbenem ndalenu, ngeme ngorenu mbenem mbongel./
 .ngemi thokorom mbathel shurem./
@@ -382,7 +382,7 @@ mbelithin mbenaru mbo ngorili lembom tebu, ngeme thoremin mbenaru lembom tebu,/
 ngeme ngwelira thumom mbo mbalel, ngeme ngaru thumom nkarin, ngeme nkaremu ngenthom./
 .ngemi thokorom mbathel shurem./
 otham ngenom ngo ngorathen ngorili mbor thamburu pembening,/
-mbam khurin ngorelu, mbam thamburu khutheling táluméng./
+mbam khurin ngorelu, mbam thamburu khutheling tálumeng./
 .ngemi thokorom mbathel shurem./
 mbenemu thangom shengel mbenemu mbo khuthel mbam thamburu./
 .ngemi thokorom mbathel shurem./
@@ -437,7 +437,7 @@ mbenemu zhepom ngel zhepolu mbam zhembin nkaru, em thebaren em./
 .ngemi thokorom mbathel shurem./
 mbenemu mbes zhepom thamburu, ngeme ntem ngeme mbet zhepom thamburu mbon mbenemu./
 .ngemi thokorom mbathel shurem./
-táluméng zharurom nkombira mbor vuthraka mbam ngwelu nkaring, ngorathen nkombira otham korthom./
+tálumeng zharurom nkombira mbor vuthraka mbam ngwelu nkaring, ngorathen nkombira otham korthom./
 .ngemi thokorom mbathel shurem./
 mbenira mebom nkombira mbam ngwelu nkaring, ngeme kortharira nkombiring mebom mbenem ngweloro./
 .ngemi thokorom mbathel shurem./
@@ -466,7 +466,7 @@ zhembin nkaru, nkaru mebom. ngemi thumom meboru mbon ndem ngatham./
 [[affiliation-nkaruthar|Nkaru'thar]]
 : the Wild Flame, the Brand and the Ashborn
 
-[[affiliation-talumengtrb|The Táluméng]]
+[[affiliation-talumengtrb|The Tálumeng]]
 : the cattle tribe whose herd was kept, and whose own telling names the herdsman
 
 [[lore-hymnthrfires|The Hymn of the Three Fires]]

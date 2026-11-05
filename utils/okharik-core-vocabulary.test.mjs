@@ -52,6 +52,7 @@ import { notePath } from "./note-index.mjs";
 const respelled = [
     ["Sashira", "Sashi"],
     ["Sunari", "Suna"],
+    ["Tálumeng", "Táluméng"],
 ];
 const beforeRespelling = (text) =>
     respelled.reduce(

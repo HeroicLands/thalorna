@@ -148,7 +148,7 @@ It is in the fish the Ngorasha net and smoke over a slow fire./
 It is in the flax of the Zhíkande, and in the linen, and in the weaver's hands./
 It is in the charcoal of the Dóngaru, which is fire kept for later./
 It is in the hide the Yéshiro tan with bark, which was a cow and walked./
-It is in the horse of the Magara, and in the herd of the Táluméng, which is the most of it./
+It is in the horse of the Magara, and in the herd of the Tálumeng, which is the most of it./
 
 A rich man's wealth walks, and anyone may count it from the road./
 So he is open-handed at the fold gate and close-handed in the hut,/
@@ -388,7 +388,7 @@ nkaru thumom mbo ngweloru ngorasha, mbam ndomin nkaru./
 nkaru thumom mbo ngemboru zhíkande, ngeme mbo ngembelu, ngeme mbo mbalel thabelaring./
 nkaru thumom mbo nkarku dóngaru, nkaru mbon thengem./
 nkaru thumom mbo mboloru yéshiro, ngeme mboloru thumom nkombu thamo, ngeme ngenom./
-nkaru thumom mbo ngwelo magara, ngeme mbo nkombira táluméng, ngorel mborethen mbemoi mbenerin./
+nkaru thumom mbo ngwelo magara, ngeme mbo nkombira tálumeng, ngorel mborethen mbemoi mbenerin./
 
 mákoro mbenaring thumom nkombira, ngeme mákoro ngenom, ngeme mbethem mbenaru ngorimom mákoro ngorathen yenor./
 thombele mbenemu zharurom ngamin mbam ndozhoru, ngeme ngomin mbo ombelu,/

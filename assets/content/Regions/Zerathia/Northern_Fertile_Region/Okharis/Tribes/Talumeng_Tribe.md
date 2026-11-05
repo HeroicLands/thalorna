@@ -1,6 +1,6 @@
 ---
 shortcode: talumengtrb
-name: {full: Táluméng Tribe}
+name: {full: Tálumeng Tribe}
 type: affiliation
 subType: polity
 description: A cattle-herding tribe of the open Okharis plains, the largest of the village tribes.
@@ -55,12 +55,12 @@ data:
 sohl: {system: {commonSkills: [okharclng]}}
 ---
 
-## The Táluméng
+## The Tálumeng
 
-The Táluméng Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
-[[place-talumengvlg|Táluméng Village]], one of the settled villages of
+The Tálumeng Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
+[[place-talumengvlg|Tálumeng Village]], one of the settled villages of
 [[place-okharisrgn|Okharis]].
 
 Their wealth is cattle, grazed across the open grassland in the rains and brought close to the village when the heat is hardest.
 
-The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Táluméng belongs to Okharis as well as to the tribe.
+The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Tálumeng belongs to Okharis as well as to the tribe.

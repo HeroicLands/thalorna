@@ -3,7 +3,7 @@ shortcode: guestprice
 name: {full: The Guest-Price, okha: [zhepulu zharing mbeneling]}
 type: lore
 subType: literature
-description: "The Táluméng telling of the Khelathi embassy that crossed the eastern grazing with an army behind it: the soured milk at the fold edge, the cattle given in public and written down as tribute, the city's thanks, and the milk the Mbárazi go on giving at the fold gate."
+description: "The Tálumeng telling of the Khelathi embassy that crossed the eastern grazing with an army behind it: the soured milk at the fold edge, the cattle given in public and written down as tribute, the city's thanks, and the milk the Mbárazi go on giving at the fold gate."
 tags: [draft, okharis]
 data:
   packFolder: settinglore
@@ -21,7 +21,7 @@ data:
 # terran_analog: "The hospitality codes of the Sahelian and East African cattle peoples, where milk given at the edge of the camp makes a stranger a guest; the gap between an imperial tribute list and what the payers called the same goods, as in the gift-exchange that Egyptian scribes booked as foreign tribute. Departs: the telling is the payers' own, the city and the clan disagree about who paid, and nothing is resolved."
 ---
 
-**The Guest-Price**, _zhepulu zharing mbeneling_, is a household telling of the **Mbárazi**, a lineage of the [[affiliation-talumengtrb|Táluméng]] whose wet-season grazing lies on the eastern side of the tribe's country, where the grass gives out into dry land. It tells the herders' side of the embassy that [[affiliation-empireakhlth|Au'Khelathu]] sent west with an army behind it, in the age when the sun-house reached for the temple-cities. The Khelathi record of that venture, [[lore-templetrib|the Tribute of the Temple Cities]], says the temple-cities paid the Gar-Au's due for a generation. The temple-cities remember the same goods as the guest-price of a long road. The Mbárazi telling agrees with the temple-cities about the name and disagrees with them about who paid it.
+**The Guest-Price**, _zhepulu zharing mbeneling_, is a household telling of the **Mbárazi**, a lineage of the [[affiliation-talumengtrb|Tálumeng]] whose wet-season grazing lies on the eastern side of the tribe's country, where the grass gives out into dry land. It tells the herders' side of the embassy that [[affiliation-empireakhlth|Au'Khelathu]] sent west with an army behind it, in the age when the sun-house reached for the temple-cities. The Khelathi record of that venture, [[lore-templetrib|the Tribute of the Temple Cities]], says the temple-cities paid the Gar-Au's due for a generation. The temple-cities remember the same goods as the guest-price of a long road. The Mbárazi telling agrees with the temple-cities about the name and disagrees with them about who paid it.
 
 A Mbárazi elder tells it the first time the lineage's young stand at the fold gate with the milk for a stranger. A stranger on the road in Okharis is handed soured milk, cold from the shade, and the herders stand by to see whether he drinks. A child who has learned the herd learns this last, because it is the one duty at the fold that is owed to someone outside the lineage. The telling gives the young the reason in the form of a story, and the story is about strangers who drank and owed and never came back to pay what they owed.
 
@@ -35,7 +35,7 @@ You stood at the gate today with the milk. You did not spill it, and the man dra
 
 This was long ago, in the time of my mother's mother's mother's mother, and further back than that, but that is as far as I can count it. The Mbárazi were in these valleys, the same valleys, in the same seasons. In the rains we were out on the long grass to the east, where the grazing ends and the dry country begins, and in the heat we came in toward the river and the village. That is the right our grandmothers held, and it is the right we hold. You know the valleys. I will name them for you another night.
 
-The head of the lineage then was **Jamuro of the Mbárazi**. He was a man with a big herd and a short temper, and he counted his cattle at the gate every evening with his lips moving and never said the number aloud, which is the right way. His wife was **Oruna of the Mbárazi**, who had come to him from another lineage of the Táluméng with a grazing in the hills behind her, and she was cleverer than he was, which he knew. Remember her. The telling is mostly hers.
+The head of the lineage then was **Jamuro of the Mbárazi**. He was a man with a big herd and a short temper, and he counted his cattle at the gate every evening with his lips moving and never said the number aloud, which is the right way. His wife was **Oruna of the Mbárazi**, who had come to him from another lineage of the Tálumeng with a grazing in the hills behind her, and she was cleverer than he was, which he knew. Remember her. The telling is mostly hers.
 
 That year, at the end of the rains, a herdsman came in from the far grazing at a run, which a herdsman does not do. He said there were men on the dry country, coming west, and that he had seen their dust for two days before he saw them.
 
@@ -79,7 +79,7 @@ The scribe drank.
 
 He stepped round the envoy, the little man with the board, and he took the bowl out of Oruna's hands with both of his own, which is how it is taken, and he drank the whole of it standing, with his throat going, and gave the bowl back to her empty. He wiped his mouth with the back of his hand. Then he said something to the envoy in their tongue, fast and low.
 
-The soldier told it afterward, to a Táluméng herdsman, at one of those walled wells, for the price of a cow's leg. What the scribe said was this: "I have read of these people. If you do not drink they will kill you, and if you drink they will feed us. Drink."
+The soldier told it afterward, to a Tálumeng herdsman, at one of those walled wells, for the price of a cow's leg. What the scribe said was this: "I have read of these people. If you do not drink they will kill you, and if you drink they will feed us. Drink."
 
 So the envoy drank. Oruna had brought out a second bowl for him. He drank it with his eyes shut, which is not how it is drunk, and he gave the bowl back to her full of what he had not been able to finish. And the soldiers drank, because the envoy had, and when the herders behind the fence saw the soldiers drink, they put down their spears.
 
@@ -87,7 +87,7 @@ Now they were guests. You know what that means as well as I do, but you are goin
 
 That is what our grandmothers knew and the envoy did not. He thought he had drunk a bowl of sour milk to keep a herdsman's blade down. He had made the whole army behind him the Mbárazi's guests.
 
-They camped that night at the edge of the long grass. In the morning the envoy sent the soldier with our tongue to the fold to say what the army wanted. It wanted water from our wells for itself and its donkeys, which it had a right to ask as guests. It wanted grazing for the donkeys for three days, which it had a right to ask. And it wanted to know the road to the temple-cities, and the wells along it, and the number of the herds of the Táluméng, which was not the business of guests at all.
+They camped that night at the edge of the long grass. In the morning the envoy sent the soldier with our tongue to the fold to say what the army wanted. It wanted water from our wells for itself and its donkeys, which it had a right to ask as guests. It wanted grazing for the donkeys for three days, which it had a right to ask. And it wanted to know the road to the temple-cities, and the wells along it, and the number of the herds of the Tálumeng, which was not the business of guests at all.
 
 Jamuro was angry about the last, and he wanted to send the soldier back with nothing. Oruna said to him, "Give them the water. Give them the grazing. Give them the road. They will find it anyway with that many men. Do not give them the number of the herds." And then she said, "And give them a feast."
 
@@ -103,7 +103,7 @@ Eleven head of cattle. Four were barren cows, which is right, because you feed a
 
 Eleven head of cattle, out of a herd of something under three hundred. I will not tell you the herd's number. Oruna did not say it either, and I have it from my mother that she did not, and she was right not to. But you can count. Eleven head is the price of a marriage. It is the price of a man's life between two lineages, settled before the Keeper of the Feud. It was a great thing to give. It was meant to be.
 
-The feast was given in front of the fold, in the open, by the light of three fires, with the army sitting on the grass and the Mbárazi serving them, and every lineage of the Táluméng within a day's walk came to see it. They came because they had heard. They stood at the edge of the firelight and counted. That is what a feast is for. You know this. A herd walks, and it cannot be hidden, and so a household is open-handed in public and close-handed in the hut, and what it gives at a feast is its account, given out loud, for the neighbors to count. The Mbárazi gave their account that night in front of the whole Táluméng, and the Táluméng counted it, and the count is still known. That is the second thing to remember.
+The feast was given in front of the fold, in the open, by the light of three fires, with the army sitting on the grass and the Mbárazi serving them, and every lineage of the Tálumeng within a day's walk came to see it. They came because they had heard. They stood at the edge of the firelight and counted. That is what a feast is for. You know this. A herd walks, and it cannot be hidden, and so a household is open-handed in public and close-handed in the hut, and what it gives at a feast is its account, given out loud, for the neighbors to count. The Mbárazi gave their account that night in front of the whole Tálumeng, and the Tálumeng counted it, and the count is still known. That is the second thing to remember.
 
 The envoy ate. He ate the beef, which was good beef, and the honey, and he drank the milk, which he was getting used to, and toward the end he stood up and made a speech in his tongue, and the soldier put it into ours. He thanked the Mbárazi for their tribute to the Gar-Au of Au'Khelathu.
 
@@ -141,11 +141,11 @@ He said, "Then it was eleven head of honor," and the crowd laughed, and he went 
 
 Now listen to this part, because it is the part we argue about at the moot, and you will sit in the moot one day.
 
-The year after the embassy, Jamuro went to the moot at Zarhanis with the elders of the Táluméng. He stood up in front of the city's priests and said that the Mbárazi had fed the army of the Gar-Au on the city's business, eleven head and the wells and the calves' grazing, and that the city had sent the army home with gold and had been thanked for it, and that the city owed the Mbárazi eleven head. He said it in front of every lineage of the Táluméng, because they had all counted the feast and could say the count with him.
+The year after the embassy, Jamuro went to the moot at Zarhanis with the elders of the Tálumeng. He stood up in front of the city's priests and said that the Mbárazi had fed the army of the Gar-Au on the city's business, eleven head and the wells and the calves' grazing, and that the city had sent the army home with gold and had been thanked for it, and that the city owed the Mbárazi eleven head. He said it in front of every lineage of the Tálumeng, because they had all counted the feast and could say the count with him.
 
 The priests heard him. That is what a moot is for. They said he spoke well, and that the city honored the Mbárazi for their hospitality, which was the hospitality of all Okharis. They said the cattle had been given as a guest-gift, freely, by the custom of the gate, and that a guest-gift is not a debt, and that the city could not pay for what the Mbárazi had given freely without making it a sale, and dishonoring the gift.
 
-And Jamuro could not answer that, because it was true. He had given it freely. You cannot give a feast and send in the price afterward. That is a merchant's feast, and the whole Táluméng would have laughed at him.
+And Jamuro could not answer that, because it was true. He had given it freely. You cannot give a feast and send in the price afterward. That is a merchant's feast, and the whole Tálumeng would have laughed at him.
 
 So the city was right, and the Mbárazi were eleven head short, and the grievance went into the moot and was heard and was absorbed, the way the grievances of the clans go into the moot and are heard and are absorbed. Some of the elders say that is the moot working. Some say it is the moot doing what the cities built it to do. You will hear both said, and you will say one of them yourself one day, and I will not tell you which I say.
 
@@ -207,7 +207,7 @@ Tomorrow, if a man comes up the road, you will hold out the bowl.
 [[place-khuqetzalu|Khuqet-Zalu]]
 : the walled wells on the dry country, as they stand
 
-[[affiliation-talumengtrb|The Táluméng]]
+[[affiliation-talumengtrb|The Tálumeng]]
 : the cattle tribe of the open plains, whose lineages keep the telling
 
 [[lore-okharinclt|Okharin]]

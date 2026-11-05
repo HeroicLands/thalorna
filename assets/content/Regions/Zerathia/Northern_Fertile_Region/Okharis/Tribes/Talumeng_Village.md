@@ -1,9 +1,9 @@
 ---
 shortcode: talumengvlg
-name: {full: Táluméng Village}
+name: {full: Tálumeng Village}
 type: place
 subType: settlement
-description: "Seat of the Táluméng tribe and its cattle, on the open plains of Okharis."
+description: "Seat of the Tálumeng tribe and its cattle, on the open plains of Okharis."
 tags: [village, plains, inland]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Táluméng Village is the seat of the [[affiliation-talumengtrb|Táluméng tribe]], which owes fealty to
+Tálumeng Village is the seat of the [[affiliation-talumengtrb|Tálumeng tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
 [[place-okharisrgn|Okharis]].
 

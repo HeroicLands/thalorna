@@ -4803,7 +4803,7 @@ data:
     - {name: "Ritual: Nkaru'thar", tongue: translation}
     - {name: Royal Trades of Okharis, tongue: translation}
     - {name: Shókuma, tongue: okharik}
-    - {name: Táluméng, tongue: okharik}
+    - {name: Tálumeng, tongue: okharik}
     - {name: Wámbuchi, tongue: okharik}
     - {name: Yéshiro, tongue: okharik}
     - {name: Zhíkande, tongue: okharik}
@@ -4818,8 +4818,8 @@ data:
     - {name: Steward of the Trades, tongue: translation}
     - {name: Tákoro Zanethar, tongue: okharik}
     - {name: Talithari Nkaring, tongue: okharik, built: [talith-, -ari, nkaru, -ing]}
-    - {name: Táluméng Tribe, tongue: translation}
-    - {name: Táluméng Village, tongue: translation}
+    - {name: Tálumeng Tribe, tongue: translation}
+    - {name: Tálumeng Village, tongue: translation}
     - {name: Temple Steward, tongue: translation}
     - {name: The Ash-Fold, tongue: translation}
     - {name: The Begetter of the Earth, tongue: translation}
@@ -4879,6 +4879,9 @@ data:
     - {name: Ngoro, tongue: okharik}
     - {name: Khamunda, tongue: okharik}
   retired:
+    - form: Táluméng
+      instead: Tálumeng
+      why: "respelled with one acute, as Pronouncing Thalorna allows"
     - {form: Njia ya Roho, instead: Yenor Zohiring, why: "an Earth phrase, the shamans' path"}
     - form: Mwalimu wa Roho
       instead: Kwendari Zohiring
@@ -5653,7 +5656,7 @@ ORDER BY position
 
 **An Okharin person** carries a given name and a tribe: [[being-kirobashkm|Kiroba of the Shókuma]] is Kiroba, of the [[affiliation-shokumatrb|Shókuma tribe]], and the tribe is named in the reader's tongue as _of the_. A man's given name commonly closes on _-o_ or _-u_, and a woman's on _-a_ or _-i_; the name lists above hold the names in use.
 
-**A tribe** is named for its founder or its ground, with no ending of its own: _Shókuma_, _Magara_, _Táluméng_. **A city or a land** takes _-is_ when it is a seat: _Okharis_, _Zarhanis_.
+**A tribe** is named for its founder or its ground, with no ending of its own: _Shókuma_, _Magara_, _Tálumeng_. **A city or a land** takes _-is_ when it is a seat: _Okharis_, _Zarhanis_.
 
 **A title** is the office and the thing it serves, the second word in its _-ing_ form: _Ambelari Zheking_, the Prophet of Light. The High Pyremant is written half in the reader's tongue, _Pyremant Thokorin_.
 
