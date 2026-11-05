@@ -6628,7 +6628,7 @@ data:
       field: "Doing, going and being"
       gloss: "leave behind or abandon"
       source: {kind: coined}
-    - form: "chinta"
+    - form: "chenta"
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "chisel"
@@ -6847,7 +6847,7 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "gap or intervening opening"
       source: {kind: coined}
-    - form: "chintak"
+    - form: "chentak"
       class: "adj"
       field: "Doing, going and being"
       gloss: "torn open"
@@ -8362,6 +8362,8 @@ data:
     - {form: Mahādheva, instead: Mahakirti, why: a name of an Earth god}
     - {form: Mahādhevavikramapāl, why: a name of an Earth god}
     - {form: brahmadeya, why: an Earth term for a grant of land to priests}
+    - {form: chinta, instead: chenta, why: a whole word of the culture's model language}
+    - {form: chintak, instead: chentak, why: a whole word of the culture's model language}
     - form: Chandramukha
       instead: Chendramukhva
       why: a whole word of the culture's model language

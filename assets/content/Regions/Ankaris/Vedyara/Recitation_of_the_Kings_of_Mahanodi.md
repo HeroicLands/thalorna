@@ -125,7 +125,7 @@ kenu shauka hauvu, bram bram branu,/
 
 ganstal aisu sartu shilpra prabnu,/
 .kaldun anra taryu./
-ve ghom pravru, le chinta, le solma,/
+ve ghom pravru, le chenta, le solma,/
 .aisu uvas niksun./
 jahnona dvarna bhe ve druk nirpak,/
 .shaltu nortu, vramu.

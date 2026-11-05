@@ -428,7 +428,7 @@ ve lampu, «ganstal tre jahnona navul dvarna tral lunka.»/
 torona bhe agmi kaldun, agmi torona bhe kaldun,/
 .le ve agmi vramul jvelak./
 ve lampu, «torona le demu ro karmu.» ve trel chambu,/
-.padsa prenu chintak, partu./
+.padsa prenu chentak, partu./
 torona bhe agmi kaldun, agmi torona bhe kaldun,/
 .le ve agmi vramul jvelak./
 lampu, «shonkha vranru. jvelaka vranru. dahona vranru.»/

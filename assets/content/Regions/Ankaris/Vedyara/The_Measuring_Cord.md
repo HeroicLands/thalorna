@@ -124,7 +124,7 @@ avanda druk genta karmak, mandrayu shem/
 .mavmondala aisu vartuk,/
 le bhumri druk genta karmak, sultu nartuk/
 .tirsa trum tirsa tral stanru,/
-ludra druk genta karmak, le chinta adnu,/
+ludra druk genta karmak, le chenta adnu,/
 .sartu anva, porha, chinu,/
 le umbrak ro bhumri kalduna ushta druk,/
 .diku utrak darmu grenu./
@@ -465,7 +465,7 @@ achorya, vren minrakhondra uvas brondu?/
 .nimran dvarna bhe nyuru, lam./
 barnu daushu, shonkha, jvelaka, agmi nuk,/
 .tirmun grenak ro demu bhe,/
-minrakhondra uvas brondu, shetka chintak,/
+minrakhondra uvas brondu, shetka chentak,/
 .le dauru dvarna bhe stambhu./
 vidsa nu uhu stalu tral uvas chamru./
 .vidsa ehu lampu, kartu/

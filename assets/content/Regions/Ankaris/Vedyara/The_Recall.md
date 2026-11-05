@@ -280,7 +280,7 @@ puratra, teskaisu orkhu rajva druk danpruku,/
 ganstal tre ghaulrakha bhe, jvelaka nuk, dramoka/
 .hauvu, sotra mudva shem./
 ve kotra trum nodra ro pantra pral prenu hauvu,/
-.le ve ro padsa chintak./
+.le ve ro padsa chentak./
 rajva uvas jahnak, mudva ro danushta jahnak,/
 .le vi pa mudva chinva,/
 le danurin kambra trum turu, agmi tral hauvu,/
@@ -360,7 +360,7 @@ puratra lampu,/
 sotra stovira kotra bhe kodri pa vi lipak./
 .nortu devra vi lampu./
 mahajaya jvelaka shem margha uvas hauvu./
-.dramoka, chintak padsa./
+.dramoka, chentak padsa./
 ve ro umbra ombhala bhe, ghaul bhe nortu pomba./
 .kodri bhe devra kevu?
 
