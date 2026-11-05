@@ -72,5 +72,5 @@ If the bread stops, the thing stirs. It does not wake in a night. The first sign
 ## See Also {#see-also}
 
 - [[lore-aralwen|Araelwen]] · [[lore-theasking|The Asking]] · [[lore-lowestpoolpct|The Pact at the Lowest Pool]]
-- [[place-silvrfrsts|The Silver Forests]] · [[place-aelirosse|Aelirosse]] · [[place-tehy|Tehy]]
+- [[place-silvrfrsts|The Silver Forests]] · [[place-aelirosse|Aelirosse]] · [[place-tehy|Tehì]]
 - [[lore-flksinale|Sinale]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]

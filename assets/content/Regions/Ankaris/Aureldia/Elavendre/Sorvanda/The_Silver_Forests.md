@@ -31,7 +31,7 @@ The Silver Forests are one of the thinnest places between the mortal world and t
 
 ## The Araelwen of the Forests {#present}
 
-Most of the Silver Forests is sacred ground, and within it stand [[lore-aralwen|Araelwen]], thin places that are forbidden to every outsider whatever leave he has been given for the outer margin. [[place-talve|Talve]], the fog-hollow at the forests' edge, is a door to fell things and carries the oldest watch the Áelendan keep. [[place-mallonna|Mallonna]], the deep pool the Sinale Lauva keeps, lies in the wood, and so does [[place-tehy|Tehy]], the clearing of the Uron Tekhi. Deep beyond [[place-sourimael|Sóurimel]] stands [[place-wkngstnd|the Waking Stand]], whose trees are not birch and are not still.
+Most of the Silver Forests is sacred ground, and within it stand [[lore-aralwen|Araelwen]], thin places that are forbidden to every outsider whatever leave he has been given for the outer margin. [[place-talve|Talve]], the fog-hollow at the forests' edge, is a door to fell things and carries the oldest watch the Áelendan keep. [[place-mallonna|Mallonna]], the deep pool the Sinale Lauva keeps, lies in the wood, and so does [[place-tehy|Tehì]], the clearing of the Uron Tekhi. Deep beyond [[place-sourimael|Sóurimel]] stands [[place-wkngstnd|the Waking Stand]], whose trees are not birch and are not still.
 
 A strip of bark from the Waking Stand lies green in a chapterhouse collection at [[place-beravel|Péravel]], and the Order has licensed a fellow of the University to come back for a living cutting with hired guards. The Wardens of the forests know bark was taken, and they are looking for the man who took it.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: tehy
-name: {full: Tehy}
+name: {full: Tehì}
 type: place
 subType: site
 description: "The round clearing in the Silver Forests, near the Sinale enclave of Aelirosse, where a single great tree answers one question truly and where a night can run to a month: the ground the Uron Tekhi holds."
@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-**Tehy** is a round clearing in [[place-silvrfrsts|the Silver Forests]], not far from [[place-aelirosse|Aelirosse]], with one tree standing in the middle of it and nothing else growing. In the Sinale tongue the word means the clearing round a single tree. The tree is [[place-urontekhi|the Uron Tekhi]], and the Áelendan, who took the Sinale word and made their own name of it, mean the tree and the clearing by it.
+**Tehì** is a round clearing in [[place-silvrfrsts|the Silver Forests]], not far from [[place-aelirosse|Aelirosse]], with one tree standing in the middle of it and nothing else growing. In the Sinale tongue the word means the clearing round a single tree. The tree is [[place-urontekhi|the Uron Tekhi]], and the Áelendan, who took the Sinale word and made their own name of it, mean the tree and the clearing by it.
 
 The tree speaks. It answers a question put to it, and the answer is true, and what comes of the answer is not the asker's care. A traveler who comes near it by chance sees lights go ahead of him through the trunks, and follows them, and the wood closes behind him. It is ground the [[lore-aelendnppl|Áelendan]] hold sacred, and a place where time slips, and the [[affiliation-alndnwrdns|Wardens]] keep it as the [[lore-aralwen|Araelwen]] it is.
 
