@@ -128,7 +128,7 @@ Hvarnorv is old. He has two grown grandsons and has named neither, and the ting 
 
 Nordheim's people are the Nordmen at their most typical, and the other kingdoms say so with mixed feelings. Clans gather under jarls who hold their followers through strength, judgment and generosity, and the clans meet at the regional tings where disputes are settled, laws proclaimed and alliances made. Honor comes first: a Nordman's reputation is the most valuable thing he owns, and an insult or a betrayal can begin a feud that outlives everyone present at it.
 
-The kingdom's shipwrights and sailors are its pride. Its longships draw little enough water for rivers and coastlines and are seaworthy enough for open ocean, and its fleets run from a few raiding ships to armadas that can threaten coastal cities across [[place-ankrscntnnt|Ankaris]]. The same crews carry amber, furs and whale ivory to the markets of [[place-midhalnrgn|Mídhalión]]. Raiding is a respected trade here, and so is trading.
+The kingdom's shipwrights and sailors are its pride. Its longships draw little enough water for rivers and coastlines and are seaworthy enough for open ocean, and its fleets run from a few raiding ships to armadas that can threaten coastal cities across [[place-ankrscntnnt|Ankaris]]. The same crews carry amber, furs and whale ivory to the markets of [[place-midhalnrgn|Midhalión]]. Raiding is a respected trade here, and so is trading.
 
 Women manage the estates while the ships are away, own property and may initiate divorce. Shield-maidens are uncommon but not unheard of, and they are respected as warriors.
 

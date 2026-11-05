@@ -3,7 +3,7 @@ shortcode: valtarlng
 name: {full: Valtari Language, en: [Váltongue, Dock-talk, Trade Pidgin]}
 type: skill
 subType: language
-description: "The harbor pidgin of Mídhalión and beyond—no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
+description: "The harbor pidgin of Midhalión and beyond—no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
 tags: []
 data:
   roman: "abdefghiklmnoprstuvwyzABDEFGHIKLMNOPRSTUVWYZ0123456789-"
@@ -5712,7 +5712,7 @@ Valtari is a tongue of the Pidgin (contact) family. Fluency measures the sophist
 
 ## Overview
 
-Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Mídhalión]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonic Language]], [[skill-vylarilng|Vylari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
+Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Midhalión]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonic Language]], [[skill-vylarilng|Vylari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
 
 Valtari is the lingua franca of maritime merchants, dock laborers, ship captains, chandlers, harbor masters, fishmongers, and anyone whose livelihood depends on cross-cultural commerce. It is **never** a first language—no child grows up speaking Valtari as their mother tongue. Instead, it is picked up on the docks through constant repetition, error correction, and pragmatic negotiation. A Valtari speaker is identifiable not by mastery of the language but by their ability to make themselves understood despite imperfect knowledge.
 
@@ -6072,7 +6072,7 @@ Bashimari Eparari Pelarari Asevari Zazurari Ushadari Etalari Telusari Kubasari Y
 
 ## Valtari Lexicon {#lexicon}
 
-On any quay from [[place-midhalnrgn|Mídhalión]] to [[place-ilovanu|Ilovanu]], a ship's captain is a _kiromu_, the cargo is _zazuru_, and the price is a _pashin_. None of the three is a word of one people, and the tongue itself is named for the port of Valthari. _Kiromu_ is the Helonic _kiros_ worn down on the docks, and _zazuru_ and _pashin_ are the Taruzeli _zazurush_ and _pashinu_ with their endings dropped. Valtari, the harbor pidgin, is built this way throughout: a word of [[skill-taruzelilng|Taruzeli]] or [[skill-helonclng|Helonic]], stripped of the endings that carry its grammar and of the sounds a stranger cannot make, and set down in a sentence that has no grammar to give it. This page is the word-hoard of that pidgin: the core words every port understands, where each came from, the sound rules a borrowed word is bent to, and how a trade name is made.
+On any quay from [[place-midhalnrgn|Midhalión]] to [[place-ilovanu|Ilovanu]], a ship's captain is a _kiromu_, the cargo is _zazuru_, and the price is a _pashin_. None of the three is a word of one people, and the tongue itself is named for the port of Valthari. _Kiromu_ is the Helonic _kiros_ worn down on the docks, and _zazuru_ and _pashin_ are the Taruzeli _zazurush_ and _pashinu_ with their endings dropped. Valtari, the harbor pidgin, is built this way throughout: a word of [[skill-taruzelilng|Taruzeli]] or [[skill-helonclng|Helonic]], stripped of the endings that carry its grammar and of the sounds a stranger cannot make, and set down in a sentence that has no grammar to give it. This page is the word-hoard of that pidgin: the core words every port understands, where each came from, the sound rules a borrowed word is bent to, and how a trade name is made.
 
 A Valtari word does not change. _Lokatu_ is to come, to go and to arrive, at any time and for any speaker, and _yakodu_ is one boat or many. What the parent tongues say with endings, the pidgin says with a separate word or leaves to the context: _tapelu_, now, and _olimu_, already, are the nearest it has to tenses, and a plural is the word said twice, _yakodu-yakodu_.
 

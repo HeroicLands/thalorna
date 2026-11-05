@@ -39,7 +39,7 @@ Three cities lead the seven:
 
 The other four are [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]]. Each of the seven has its own government, laws and customs. They combine for common defense and for the shared religious festivals, and they compete fiercely in everything else: trade, athletic contests, intellectual prestige and, now and then, open war. The [[affiliation-ctysttshlns|City-States of Helionis]] note sets out how they are governed.
 
-Women's standing varies from city to city. In some cities women are confined to domestic life; in others they take part in intellectual and even political life. The hetairin (educated companions), trained in music, philosophy, rhetoric and the social arts, are the most socially mobile women in Helionite society. The Academy of the Silver Veil trains them, and its graduates serve as companions, advisors and subtle political agents across [[place-midhalnrgn|Mídhalión]].
+Women's standing varies from city to city. In some cities women are confined to domestic life; in others they take part in intellectual and even political life. The hetairin (educated companions), trained in music, philosophy, rhetoric and the social arts, are the most socially mobile women in Helionite society. The Academy of the Silver Veil trains them, and its graduates serve as companions, advisors and subtle political agents across [[place-midhalnrgn|Midhalión]].
 
 ## Gods, Festivals and Mysteries
 
@@ -91,7 +91,7 @@ The academies
 : schools of philosophy, science and magic that have taught for centuries; the most prestigious draw students from across Ankaris.
 
 The Academy of the Silver Veil
-: the Kalidrian institution that trains hetairin in companionship, diplomacy and subtle influence, whose graduates serve in courts across Mídhalión.
+: the Kalidrian institution that trains hetairin in companionship, diplomacy and subtle influence, whose graduates serve in courts across Midhalión.
 
 The mystery cults
 : secret societies of initiation in stages, some purely spiritual and some with political ends.

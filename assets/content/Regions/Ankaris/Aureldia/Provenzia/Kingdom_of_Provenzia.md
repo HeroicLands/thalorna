@@ -123,7 +123,7 @@ The Kingdom of Provenzia is a prosperous, cultured realm that won its independen
 
 The kingdom is ruled by a monarch whose power is constrained by a [Charter of Rights]{.name data-type="lore/law"} won in the War of the Charter. Its first king, [Ylarven Lédravren]{.name data-type="being/npc"} of [House Lédravren]{.name data-type="affiliation/lineage"}, was chosen by the estates to hold it, and his house has held the crown since; the one succession the Charter did not settle was fought out in [[lore-warprinces|the War of the Princes]]. The nobility holds significant authority through a [Council of Peers]{.name data-type="affiliation/governmental"}, and the major cities maintain chartered rights including self-governance on local matters. This produces a political culture of negotiation and consensus that is more stable than Vylaria's factional scheming, though no less intricate.
 
-The crown's relationship with the [[affiliation-ordoarcanis|Thordimalon]] is distinctive: Provenzia welcomes the Arcane Order but insists on royal oversight of its activities. Mages in Provenzia answer to the crown as well as to the Arcane Order, a compromise that irritates the Arcane Order's leadership but has produced a more open magical culture than exists anywhere else in the [[place-midhalnrgn|Mídhalión Region]].
+The crown's relationship with the [[affiliation-ordoarcanis|Thordimalon]] is distinctive: Provenzia welcomes the Arcane Order but insists on royal oversight of its activities. Mages in Provenzia answer to the crown as well as to the Arcane Order, a compromise that irritates the Arcane Order's leadership but has produced a more open magical culture than exists anywhere else in the [[place-midhalnrgn|Midhalión Region]].
 
 ## The Crown and the Magnates
 

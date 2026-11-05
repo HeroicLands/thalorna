@@ -108,7 +108,7 @@ A merchant in Tantsou can send his silk by sea, and few do. Every leg of the sea
 1. **Pirates.** Strongholds on the islands between Tantsou and [[place-vedyarargn|Vedyara]] harass the shipping of southern Tantsou, and make the first leg perilous.
 2. **Vedyara.** Rounding the subcontinent is hard, and its passes are no road west: each of the six carries three or four caravans a year, and the guides keep half the value.
 3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses [[place-dunharargn|Dunhara]], desert and tribal land, or goes through [[place-aukhelathrgq|Au'Khelathu]], where the [[lore-garauu|Gar-Au]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
-4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Mídhalión]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
+4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Midhalión]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
 
 The sea passage costs as many months as the camels and loses a larger share of what it carries. The Khazryn road is shorter, its losses are known, and every toll on it can be reckoned before the caravan leaves the March.
 

@@ -594,7 +594,7 @@ data:
       field: The city, law and office
       gloss: a wall, the city's
       concept: wall
-    - {form: teíkh-, class: stem, field: "The city, law and office", gloss: "walled, of the wall"}
+    - {form: téikh-, class: stem, field: "The city, law and office", gloss: "walled, of the wall"}
     - {form: pilin, class: n, field: "The city, law and office", gloss: a gate, concept: gate}
     - form: kasthrin
       class: n
@@ -5378,7 +5378,7 @@ data:
         - "Sotharion"
         - "Sfrades"
         - "Tawares"
-        - "Teíkharos"
+        - "Téikharos"
         - "Thábilos"
         - "Thammas"
         - "Tharkós"
@@ -5638,7 +5638,7 @@ data:
     - {name: Arsir Thérores Safithos, tongue: translation}
     - {name: Argirira, tongue: bethuan, built: [argir-, -ira]}
     - {name: Argirira's Jackals, tongue: translation}
-    - {name: Argirteikhos, tongue: byzarian, built: [argir-, teíkh-, -os]}
+    - {name: Argirteikhos, tongue: byzarian, built: [argir-, téikh-, -os]}
     - {name: Arkhea, tongue: byzarian}
     - {name: Árshazur, tongue: byzarian, built: [ársh-, -azur]}
     - {name: Oshira, tongue: bethuan}
@@ -5791,7 +5791,7 @@ data:
     - {name: Khalidra, tongue: helonic}
     - {name: Kelilazul Frizipáhr, tongue: byzarian}
     - {name: Kezoton Trosuskar, tongue: byzarian}
-    - {name: Krusteikhos, tongue: byzarian, built: [khrish-, teíkh-, -os]}
+    - {name: Krusteikhos, tongue: byzarian, built: [khrish-, téikh-, -os]}
     - {name: Kiladehran Ambarzát, tongue: byzarian}
     - {name: Kitvarion, tongue: byzarian, built: [kitvar, -ion]}
     - {name: Kléandir, tongue: helonic, built: [kléandir]}
@@ -6123,9 +6123,9 @@ data:
     - {name: Keeper of the Stores, tongue: translation}
   retired:
     - {form: Altinkale, instead: Krusteikhos, why: a town named with an Earth phrase}
-    - {form: Altinkalan, instead: Krusteíkhian, why: the demonym of a retired name}
+    - {form: Altinkalan, instead: Krustéikhian, why: the demonym of a retired name}
     - {form: Gümüşhisar, instead: Argirteikhos, why: a town named with an Earth phrase}
-    - {form: Gümüşhisari, instead: Argirteíkhian, why: the demonym of a retired name}
+    - {form: Gümüşhisari, instead: Argirtéikhian, why: the demonym of a retired name}
     - {form: Karataş, instead: Órashion, why: a town named with an Earth phrase}
     - {form: Karataşi, instead: Órashian, why: the demonym of a retired name}
     - {form: Yeşilhan, instead: Karvashion, why: a town named with an Earth phrase}
@@ -6210,7 +6210,7 @@ data:
     - {form: Khalîdrós, instead: Krenanos, why: "an Earth personal name, in the name lists"}
     - {form: Khalìphon, instead: Filanion, why: "an Earth personal name, in the name lists"}
     - {form: Mazàlos, instead: Érkhelos, why: "an Earth personal name, in the name lists"}
-    - {form: Oùssâmon, instead: Teíkhimon, why: "an Earth personal name, in the name lists"}
+    - {form: Oùssâmon, instead: Téikhimon, why: "an Earth personal name, in the name lists"}
     - {form: Rákhìmês, instead: Ághranes, why: "an Earth personal name, in the name lists"}
     - {form: Rómèlios, instead: Thérimion, why: "an Earth personal name, in the name lists"}
     - {form: Sábîrês, instead: Sothires, why: "an Earth personal name, in the name lists"}
@@ -6227,7 +6227,7 @@ data:
     - {form: Samáron, instead: Lámbaris, why: "an Earth personal name, in the name lists"}
     - {form: Sàmános, instead: Dómelis, why: "an Earth personal name, in the name lists"}
     - {form: Sárìnôn, instead: Timethos, why: "an Earth personal name, in the name lists"}
-    - {form: Tabîthòs, instead: Teíkharos, why: "an Earth personal name, in the name lists"}
+    - {form: Tabîthòs, instead: Téikharos, why: "an Earth personal name, in the name lists"}
     - {form: Tamáròs, instead: Dókhares, why: "an Earth personal name, in the name lists"}
     - {form: Tamìnós, instead: Thérores, why: "an Earth personal name, in the name lists"}
     - {form: Tàmîros, instead: Sfrades, why: "an Earth personal name, in the name lists"}
@@ -6400,7 +6400,7 @@ sohl:
 
 Helonic is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonic carries prestige throughout [[place-midhalnrgn|Mídhalión]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-zemorhodhis|Zemor Hodhis]] were first written in Helonic, which is why those institutions keep Helonic names inside the [[affiliation-vylarinmpr|Vylarian system]].
+The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonic carries prestige throughout [[place-midhalnrgn|Midhalión]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-zemorhodhis|Zemor Hodhis]] were first written in Helonic, which is why those institutions keep Helonic names inside the [[affiliation-vylarinmpr|Vylarian system]].
 
 The roman repertoire includes `j` and `J` in its own given and clan names, including Jumina and Jamiros.
 
@@ -6730,8 +6730,8 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Sfrades
 - Támines
 - Tawares
-- Teíkharos
-- Teíkhimon
+- Téikharos
+- Téikhimon
 - Thábilos
 - Tháliminos
 - Thammas

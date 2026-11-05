@@ -21,7 +21,7 @@ data:
         reach:
           - place: place-midhalnrgn
             how: >-
-              the Academy's graduates serve in the courts and households of Mídhalión, and the web they form carries Kalidrian opinion to every table worth sitting at
+              the Academy's graduates serve in the courts and households of Midhalión, and the web they form carries Kalidrian opinion to every table worth sitting at
             knowledge: named
       who: [{ref: affiliation-kalydria, role: founder}]
       follows:
@@ -56,7 +56,7 @@ The Academy's first rule is the sentence its graduates carry. The city could not
 ## What the Academy Left
 
 - **The Academy of the Silver Veil**, the most distinctive institution of Kalidria, whose graduates are hetairin and are never called courtesans in the city.
-- **The graduates' web** across [[place-midhalnrgn|Mídhalión]], an unofficial intelligence service with no office and no master.
+- **The graduates' web** across [[place-midhalnrgn|Midhalión]], an unofficial intelligence service with no office and no master.
 - **The root of [[affiliation-velvethand|the Velvet Hand]].** The syndicate recruits from the Academy's graduates and dropouts alike, and its trade is the Academy's skill turned to another purpose.
 - **A reputation.** Kalidrian taste, in manners and entertainment, travels farther than Kalidria's arms ever could.
 

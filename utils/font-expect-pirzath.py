@@ -8,7 +8,10 @@ Adapted from fonts tools/pirzath/guard.py at
 
 DIGRAPHS = {"th": "t_h", "dh": "d_h", "gh": "g_h", "kh": "k_h"}
 
-ACUTES = {"á": "aacute", "é": "eacute", "í": "iacute", "ó": "oacute", "ú": "uacute"}
+# An acute marks stress only, which Pirzath does not draw; a doubled vowel is the held vowel.
+ACUTES = {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u"}
+
+HELD = {"aa": "a", "ii": "i", "uu": "u", "áa": "a", "íi": "i", "úu": "u"}
 
 LETTERS = {c: c for c in "bdgkptvfzshmnlraeiou"}
 
@@ -37,13 +40,17 @@ def expected_glyphs(form: str) -> list[str]:
             i += 3
             continue
         two = s[i : i + 2]
+        if two in HELD:
+            out += [HELD[two], "lengthmark"]
+            i += 2
+            continue
         if two in DIGRAPHS:
             out.append(DIGRAPHS[two])
             i += 2
             continue
         ch = s[i]
         if ch in ACUTES:
-            out += [ACUTES[ch][0], "lengthmark"]
+            out.append(ACUTES[ch])
         elif ch in LETTERS:
             out.append(LETTERS[ch])
         elif ch in PUNCT_MAP:

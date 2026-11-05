@@ -94,7 +94,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of the [[place-midhalnrgn|Mídhalión Region]], from the [[place-tarvenirgn|Tarvénia Region]] and the [[place-provenzrgn|Provenzia Region]] in the west to the edge of [[place-taruzelrgn|Taruzel]] in the east. Today it holds [[place-vylariargn|Vylaria]], its four provinces the lands of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
+The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of the [[place-midhalnrgn|Midhalión Region]], from the [[place-tarvenirgn|Tarvénia Region]] and the [[place-provenzrgn|Provenzia Region]] in the west to the edge of [[place-taruzelrgn|Taruzel]] in the east. Today it holds [[place-vylariargn|Vylaria]], its four provinces the lands of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
 
 The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-orzara|Orzara]], begins with the titles: "You will hear the Emperor called the **Orzas**, and you will call him that too. You will hear [[affiliation-seldan|Seldan]], the Senate, debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
 
@@ -113,7 +113,7 @@ The empire is a knot of debt with a succession for its fuse. The throne pays the
 
 ### The Republic
 
-The [Vylarian Republic]{.name data-type="affiliation/polity"} was established around 650 BF by patrician families who overthrew the last Vylarian king (see [[lore-vylarirpbl|the Establishment of the Vylarian Republic]]). Governed by a Senate of landed aristocrats, it grew from a regional city-state into the dominant power of the [[place-vylarianse|Vylarian Sea]], and by 400 BF Vylaria held wide territory and was a major economic and political force in Mídhalión.
+The [Vylarian Republic]{.name data-type="affiliation/polity"} was established around 650 BF by patrician families who overthrew the last Vylarian king (see [[lore-vylarirpbl|the Establishment of the Vylarian Republic]]). Governed by a Senate of landed aristocrats, it grew from a regional city-state into the dominant power of the [[place-vylarianse|Vylarian Sea]], and by 400 BF Vylaria held wide territory and was a major economic and political force in Midhalión.
 
 The Republic expanded, made law, and grew more violent with itself as it went. [[lore-helionscnq|The conquest of Helionis]], begun in 335 BF and finished in 312 BF, was its crucible. The [[affiliation-ctysttshlns|Helionite city-states]] turned their mages against the legions and loosed the most devastating magical warfare the western part of the [[place-ankrscntnnt|Ankaris Continent]] had seen: sorceries that shattered formations and poisoned the land, against which ordinary troops were helpless. Vylaria's answer was the [Dragon Riders]{.name data-type="affiliation"}, warriors bonded to dragons whose presence destabilized magic, so that spells misfired and arcane power turned back on whoever wielded it. The Riders broke the great mages of [[place-helionis|Helionis]] where legions could not. What the Republic gave the dragons for that arm is not in any account of the war (see [[lore-dragondead|the Dragon Dead at Theradon]] and [[lore-thebargain|the Bargain]]). The war's cost was staggering either way.
 
@@ -147,7 +147,7 @@ The empire has since drawn back to its core territories around the Vylarian peni
 
 The [[lore-commoncal|Vylarian Calendar]] of western Ankaris counts from the founding of the empire, the moment a Vylarian _kurthos_ seized supreme power. That moment is **Year 1**. Events before it are dated **[Before the Founding]{.name data-type="lore/calendar"} (BF)** and events after it **[After the Founding]{.name data-type="lore/calendar"} (AF)**. The present year is **720 AF**. The Republic was founded around **650 BF**, and by **400 BF** it was already a major power of the Vylarian Sea.
 
-The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Mídhalión, [[place-aureldirgn|Aureldia]], and the lands that were or still are within the empire's cultural sphere: Helionis, [[place-byzariargn|Bizaria]], Taruzel, Provenzia, Tarvénia, Élavendre and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Au'Khelathu]] and [[affiliation-okharis|Okharis]] count from [[lore-qettelgu|the Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
+The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Midhalión, [[place-aureldirgn|Aureldia]], and the lands that were or still are within the empire's cultural sphere: Helionis, [[place-byzariargn|Bizaria]], Taruzel, Provenzia, Tarvénia, Élavendre and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Au'Khelathu]] and [[affiliation-okharis|Okharis]] count from [[lore-qettelgu|the Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
 
 ## Culture and Society
 
@@ -229,7 +229,7 @@ The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], an independent Vylari-s
 
 ## Military
 
-The [[affiliation-vylrnmltry|Vylarian legions]] are thin, and in disrepute since the war that lost Taruzel. Recruitment is down, the legions are stretched along borders the empire can no longer fully hold, and mercenary companies, often Tarvenan or Nordmen, fill the gaps in the ranks, with varying reliability. They are still the strongest army in the west: no nation of [[place-aureldirgn|Aureldia]] or Mídhalión can face a legion in the field. The provinces that broke away did so through mismanagement in the legions, fatigue in the empire and outside help, such as the gold Au'Khelathu gave Taruzel.
+The [[affiliation-vylrnmltry|Vylarian legions]] are thin, and in disrepute since the war that lost Taruzel. Recruitment is down, the legions are stretched along borders the empire can no longer fully hold, and mercenary companies, often Tarvenan or Nordmen, fill the gaps in the ranks, with varying reliability. They are still the strongest army in the west: no nation of [[place-aureldirgn|Aureldia]] or Midhalión can face a legion in the field. The provinces that broke away did so through mismanagement in the legions, fatigue in the empire and outside help, such as the gold Au'Khelathu gave Taruzel.
 
 The navy is still competent and holds key points in the [[place-vylarianse|Vylarian Sea]], but it too has declined. Taruzelian supremacy in the eastern sea is a fact Vylarian admirals prefer not to discuss.
 
@@ -266,7 +266,7 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogd
 [[place-vylariargn|Vylaria Region]]
 : the land the empire holds
 
-[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+[[lore-hstrymdhln|The History of Vylaria and Midhalión]]
 : the empire's history, age by age
 
 [[lore-vylarianclt|Vylarian]]

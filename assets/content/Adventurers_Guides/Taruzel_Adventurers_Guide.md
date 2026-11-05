@@ -45,7 +45,7 @@ ORDER BY data.population DESC, name.full COLLATE NOCASE
 
 Three great guilds hold Taruzel in fact, and you meet each of them differently.
 
-- The [[affiliation-auricompct|Auric Compact]] financed the war and holds the Confederation's debt. You meet it as a letter of credit honored across [[place-midhalnrgn|Mídhalión]], as a seal that makes a contract bind like a court order, and, if you default, as an enforcer at your door. Its counting house in Besikar stands in the old Vylarian _therkos_'s palace.
+- The [[affiliation-auricompct|Auric Compact]] financed the war and holds the Confederation's debt. You meet it as a letter of credit honored across [[place-midhalnrgn|Midhalión]], as a seal that makes a contract bind like a court order, and, if you default, as an enforcer at your door. Its counting house in Besikar stands in the old Vylarian _therkos_'s palace.
 - The [[affiliation-corsairleg|Corsair League]] grew out of the captains who fought at the Shoals and is now the shipping cartel that serves as the Confederation's navy. Its members carry swords on any quay and pass customs without delay. A Taruzelian-flagged ship that sails outside the League's umbrella waits for berths and meets the occasional "mistaken" attack at sea.
 - The [[affiliation-mrchntryvl|Merchantry of the Veil]] deals openly in silks, spices and rare goods and secretly in information. Its agents wear sigil rings and greet each other with phrases that sound like small talk. It moves the cargoes the other guilds will not touch, and it is the guild most likely to offer an unaffiliated crew work.
 
@@ -150,7 +150,7 @@ Campaigns start well from a debt. A house calls in a loan from a captain who can
 ## Where to Read Next
 
 - [[affiliation-cnfdrtntrzlnstts|The Confederation]] for the war of independence, the betrayal of the veterans and the Grand Council
-- [[lore-hstrymdhln|The History of Vylaria and Mídhalión]] for the centuries Taruzel was a province, and the war that ended them
+- [[lore-hstrymdhln|The History of Vylaria and Midhalión]] for the centuries Taruzel was a province, and the war that ended them
 - [[place-taruzelrgn|The region]] for the islands, the five cities and the waters between them
 - [[lore-taruzelianclt|The culture]] for the houses, the bargain and what a Taruzelian owes
 - [[affiliation-auricompct|The Compact]], [[affiliation-corsairleg|the League]], [[affiliation-mrchntryvl|the Merchantry]] and [[affiliation-vezakuni|the Vezakuni]] for the guilds that rule

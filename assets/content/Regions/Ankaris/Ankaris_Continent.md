@@ -12,14 +12,14 @@ data:
   population: 300000000
   packFolder: ankaris
 
-# terran_analog: Eurasia (and North Africa's Mediterranean shore, via Mídhalión)
+# terran_analog: Eurasia (and North Africa's Mediterranean shore, via Midhalión)
 ---
 
 Ankaris is the largest continent on [[place-worldthlrn|Thalorna]] and the setting of nearly all recorded human history. It stretches from the fjord-cut coasts and pine forests of the frozen north, through the temperate heartlands of [[place-aureldirgn|Aureldia]] and the [[place-heladrgn|Hellád]], across the great central deserts, and on to the jungles, mountains, and island empires of the far east. Ten major regions—each a world unto itself—are woven together by the [[place-vylarianse|Vylarian Sea]] in the south, the overland trade arteries of the center, and the ancient legacy of the [[affiliation-vylarinmpr|Vylarian Empire]] whose declining reach once touched all of them.
 
 ## Geography
 
-Ankaris spans every major climate zone. The far northern white areas of the map are unaligned frozen wastelands, with very few inhabitants and no government that holds the country as a whole. The [[place-nrdlndsrgn|Nordlands Region]] occupies the fjord-cut northwestern coast below and beside those wilds. South of the Nordlands lie the western heartlands of Aureldia and [[place-vrystwald|Vristwald]]; east of them, [[place-velanthrgn|Velanthia]] runs toward the [[place-khzryndsrtrgn|Khazryn Desert]]. Along the southern side of this belt are the cities of the Hellád and the [[place-midhalnrgn|Mídhalión coast]]. The Khazryn spreads across the broad eastern interior, with [[place-dunharargn|Dunhara]] to its south. The southwestern shore faces the Vylarian Sea, around whose waters the cosmopolitan Mídhalión region has formed.
+Ankaris spans every major climate zone. The far northern white areas of the map are unaligned frozen wastelands, with very few inhabitants and no government that holds the country as a whole. The [[place-nrdlndsrgn|Nordlands Region]] occupies the fjord-cut northwestern coast below and beside those wilds. South of the Nordlands lie the western heartlands of Aureldia and [[place-vrystwald|Vristwald]]; east of them, [[place-velanthrgn|Velanthia]] runs toward the [[place-khzryndsrtrgn|Khazryn Desert]]. Along the southern side of this belt are the cities of the Hellád and the [[place-midhalnrgn|Midhalión coast]]. The Khazryn spreads across the broad eastern interior, with [[place-dunharargn|Dunhara]] to its south. The southwestern shore faces the Vylarian Sea, around whose waters the cosmopolitan Midhalión region has formed.
 
 In the east the continent rises into a complex of mountain ranges, river basins, and coastal plains that host mainland [[place-tantsouregin|Tantsou]] and the southeastern [[place-vedyarargn|Vedyarian subcontinent]]. The unaligned range of [[place-graznmntns|the Grazian Mountains]], the highest range in the world, separates Vedyara from Khazryn and the eastern realms. Across a strait from Tantsou lies the [[affiliation-jenchaiempr|Jenchai Empire]], an island empire. The continent's western coast is broken by the great island of [[place-aelwyth|Aelwyth]], containing [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], and the smaller port-island of [[place-calypsacity|Kalipsa]], both within the Aureldian cultural sphere.
 
@@ -46,7 +46,7 @@ Two non-human peoples hold substantial territory. The [[lore-grukarfolk|Grukar]]
 
 The Elder Races—the [[lore-flksinale|Sinale]] who arrived roughly eight thousand years ago and the [[lore-flkkhazar|Khazari]] who followed two thousand years later—are vanishingly rare on Ankaris as everywhere else. Fewer than one in ten thousand Ankarians has ever seen a Sinale or Khazari; most doubt they exist at all. Where they do persist, they do so in remote enclaves: Sinalean communities in the oldest forests of [[place-elavendre|Élavendre]] and in the imperial court of Tantsou, Khazari cities in the high faces of the eastern ranges.
 
-Religiously, Ankaris is divided rather than united. The [[affiliation-arldnpnthn|Aureldian Pantheon]] comprises the distinct faiths of the western heartlands and Mídhalión. The [[affiliation-asguardian|Asguardian Pantheon]] holds the north. The [[affiliation-ashanpnthn|Ashaian Pantheon]] dominates the central and southern deserts. The [[affiliation-vrnkpnthn|Varnuka Pantheon]] anchors Vedyara. The [[affiliation-tengwouronglei|Celestial Order]] of Tantsou and Jenchai stands entirely apart from the western religious world. Older still, the tradition of [[affiliation-firstgods|the First Gods]] among the [[lore-aelendnppl|Áelendan People]] persists beneath the Aureldian surface in certain corners of the west.
+Religiously, Ankaris is divided rather than united. The [[affiliation-arldnpnthn|Aureldian Pantheon]] comprises the distinct faiths of the western heartlands and Midhalión. The [[affiliation-asguardian|Asguardian Pantheon]] holds the north. The [[affiliation-ashanpnthn|Ashaian Pantheon]] dominates the central and southern deserts. The [[affiliation-vrnkpnthn|Varnuka Pantheon]] anchors Vedyara. The [[affiliation-tengwouronglei|Celestial Order]] of Tantsou and Jenchai stands entirely apart from the western religious world. Older still, the tradition of [[affiliation-firstgods|the First Gods]] among the [[lore-aelendnppl|Áelendan People]] persists beneath the Aureldian surface in certain corners of the west.
 
 ## History
 
@@ -62,7 +62,7 @@ What those people subsequently became was everything. The knowledge did not stay
 
 The surviving trace of the arrangement is [[lore-vardain|the Vardain]] of Aelwyth, who still farm for a hold and still cannot say why they were taught to.
 
-Recorded human history in the west begins with [[lore-pelwarmigr|the Pelwar migrations]], the founding of the early city-states of what would become Mídhalión, and eventually—around 650 BF—the establishment of the [Vylarian Republic]{.name data-type="affiliation/polity"} on the Vylarian Sea. The Republic became an Empire in the year that the Vylarian reckoning still calls Year 1, and for several centuries Vylaria projected power across Mídhalión and the western continent. The current year is 720 AF, and the Empire has been in decline for generations; [[affiliation-cnfdrtntrzlnstts|Taruzel]] has won its independence, the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] are long-independent successor states, and the Empire's remaining territories are beset by crises its institutions can no longer resolve.
+Recorded human history in the west begins with [[lore-pelwarmigr|the Pelwar migrations]], the founding of the early city-states of what would become Midhalión, and eventually—around 650 BF—the establishment of the [Vylarian Republic]{.name data-type="affiliation/polity"} on the Vylarian Sea. The Republic became an Empire in the year that the Vylarian reckoning still calls Year 1, and for several centuries Vylaria projected power across Midhalión and the western continent. The current year is 720 AF, and the Empire has been in decline for generations; [[affiliation-cnfdrtntrzlnstts|Taruzel]] has won its independence, the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] are long-independent successor states, and the Empire's remaining territories are beset by crises its institutions can no longer resolve.
 
 The eastern empires—Tantsou and Vedyara—kept their own reckonings and their own histories, largely unaffected by Vylarian ascendancy and equally untouched by its decline. The northern kingdoms trace their own lines of kings back into the mists of the Pelwar migrations and have their own accounts of the Founding and of the centuries since.
 
@@ -70,7 +70,7 @@ The eastern empires—Tantsou and Vedyara—kept their own reckonings and their 
 
 Ankaris is the commercial heart of Thalorna. Its three great trade systems—the maritime routes of the Vylarian Sea, the overland caravans of the Khazryn and Dunhara, and [[lore-celestialroad|the Celestial Road]] network of the eastern empires—reach every inhabited continent except [[place-isrncntnnt|Iseron]].
 
-Across the Vylarian Sea, Ankaris is connected to [[place-xerathia|Zerathia]]: the Mídhalión region is genuinely shared between the two, and the Zerathian empires are in continuous diplomatic and commercial contact with the northern shore. To the west, Ankaris's western ports have irregular contact with [[place-klhrcntnnt|Kalihara]], an island some four hundred and fifty to seven hundred miles out and about a week's sail in fair weather, through its tightly regulated coastal trading settlements. Further west still, [[place-kiichchik|Ki'ich'chik]] is known to Ankarian scholars largely through secondhand account; direct contact is rare and commercially negligible. The southern continents of [[place-arnscntnnt|Aurionis]] and Iseron are more legend than destination for all but a handful of Ankarian expeditions.
+Across the Vylarian Sea, Ankaris is connected to [[place-xerathia|Zerathia]]: the Midhalión region is genuinely shared between the two, and the Zerathian empires are in continuous diplomatic and commercial contact with the northern shore. To the west, Ankaris's western ports have irregular contact with [[place-klhrcntnnt|Kalihara]], an island some four hundred and fifty to seven hundred miles out and about a week's sail in fair weather, through its tightly regulated coastal trading settlements. Further west still, [[place-kiichchik|Ki'ich'chik]] is known to Ankarian scholars largely through secondhand account; direct contact is rare and commercially negligible. The southern continents of [[place-arnscntnnt|Aurionis]] and Iseron are more legend than destination for all but a handful of Ankarian expeditions.
 
 ## See Also
 
@@ -80,7 +80,7 @@ Across the Vylarian Sea, Ankaris is connected to [[place-xerathia|Zerathia]]: th
 [[place-aureldirgn|Aureldia Region]]
 : Western heartland
 
-[[place-midhalnrgn|Mídhalión Region]]
+[[place-midhalnrgn|Midhalión Region]]
 : Vylarian Sea basin (shared with Zerathia)
 
 [[place-heladrgn|Hellád Region]]

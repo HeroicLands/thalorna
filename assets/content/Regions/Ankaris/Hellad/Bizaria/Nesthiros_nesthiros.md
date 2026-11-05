@@ -76,7 +76,7 @@ The fast war-galleys that keep pirates and Taruzelian competitors off League car
 
 A council of merchant-princes and the admiralty govern Nesthiros together. The admiralty keeps the fleet of war-galleys, and the city's shipwrights are among the finest in the eastern sea. The council elects a First of the Council for a fixed term, and he holds the city's seal. Nesthiros's weight at the League council's table is the weight of its hulls.
 
-In a port the office that matters most is the Harbormaster's, who keeps the pilots, the wharves and the dues levied on every hull that enters. The Consul Abroad, the city's resident agent in a foreign port, holds its seal for trade disputes there, and a city whose captains have traded with the coasts of [[place-midhalnrgn|Mídhalión]] and [[place-xerathia|Zerathia]] for a thousand years has plenty of use for the post.
+In a port the office that matters most is the Harbormaster's, who keeps the pilots, the wharves and the dues levied on every hull that enters. The Consul Abroad, the city's resident agent in a foreign port, holds its seal for trade disputes there, and a city whose captains have traded with the coasts of [[place-midhalnrgn|Midhalión]] and [[place-xerathia|Zerathia]] for a thousand years has plenty of use for the post.
 
 ## Standing and Disputes
 

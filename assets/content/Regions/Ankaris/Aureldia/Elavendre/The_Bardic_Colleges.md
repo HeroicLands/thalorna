@@ -57,7 +57,7 @@ Tradition
 
 ## Overview
 
-The **Bardic Colleges** of [[place-elavendre|Élavendre]] are institutions of learning that combine musical training, oral history, magical study, and diplomacy. They are among the most prestigious centers of education in [[place-midhalnrgn|Mídhalión]], and Élavendren bards—graduates of the Colleges—serve as ambassadors, historians, and, on occasion, spies across the western kingdoms.
+The **Bardic Colleges** of [[place-elavendre|Élavendre]] are institutions of learning that combine musical training, oral history, magical study, and diplomacy. They are among the most prestigious centers of education in [[place-midhalnrgn|Midhalión]], and Élavendren bards—graduates of the Colleges—serve as ambassadors, historians, and, on occasion, spies across the western kingdoms.
 
 The Colleges trace their origins to the earliest Pelwar bardic traditions carried into Élavendre by the ancestors of the [[lore-aelendnppl|Áelendan]]. The institutional form is more recent—the named Colleges with their curricula, their masters, and their formal degrees date mostly to the early centuries of the Élavendren kingdom—but the substance of what they teach is ancient. A College bard trained in the most conservative tradition can recite genealogies and sagas whose roots lie in Proto-Pelwar oral poetry.
 

@@ -7572,8 +7572,8 @@ data:
     - {name: Enclave of the Hallowwood, tongue: translation}
     - {name: ankaris continent, tongue: exonym}
     - {name: aureldia region, tongue: exonym}
-    - {name: mídhalión region, tongue: exonym}
-    - {name: mídhalión, tongue: exonym}
+    - {name: midhalión region, tongue: exonym}
+    - {name: midhalión, tongue: exonym}
     - {name: zerathia, tongue: exonym}
     - {name: Central Rainforests, tongue: translation}
     - {name: Zerathian Rainforests, tongue: translation}
@@ -7687,6 +7687,8 @@ data:
     - {form: meëvenne, instead: meevenne, why: "respelled without the diaeresis"}
     - {form: meëverse, instead: meeverse, why: "respelled without the diaeresis"}
     - {form: nemmameëry, instead: nemmameery, why: "respelled without the diaeresis"}
+    - {form: mídhalión, instead: midhalión, why: "respelled with one acute"}
+    - {form: mídhalión region, instead: midhalión region, why: "respelled with one acute"}
     - {form: neëre, instead: neere, why: "respelled without the diaeresis"}
     - {form: neërehekky, instead: neerehekky, why: "respelled without the diaeresis"}
     - {form: neërerse, instead: neererse, why: "respelled without the diaeresis"}

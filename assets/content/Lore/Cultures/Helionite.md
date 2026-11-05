@@ -172,7 +172,7 @@ The blind spot also runs through the ladder of standing. The examined life is op
 
 Women's standing varies sharply by city. In some they are confined to domestic life; in others they take part in intellectual and even political life; no rule holds across all seven.
 
-The hetairin occupy a position with no equivalent elsewhere: educated companions trained in music, philosophy, rhetoric and the social arts, and the most socially mobile women in Helionite society. The Academy of the Silver Veil at Kalidria trains them, and its graduates serve as companions, advisors and very effective political agents across the whole [[place-midhalnrgn|Mídhalión region]]. A hetairin is not a courtesan as other peoples use the word, and Helionites are impatient with the confusion.
+The hetairin occupy a position with no equivalent elsewhere: educated companions trained in music, philosophy, rhetoric and the social arts, and the most socially mobile women in Helionite society. The Academy of the Silver Veil at Kalidria trains them, and its graduates serve as companions, advisors and very effective political agents across the whole [[place-midhalnrgn|Midhalión region]]. A hetairin is not a courtesan as other peoples use the word, and Helionites are impatient with the confusion.
 
 ## Learning, and the Order That Came Out of It
 

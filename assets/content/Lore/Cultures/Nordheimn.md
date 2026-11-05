@@ -94,7 +94,7 @@ Sit one evening at a northern fire and three things come up before the ale is go
 
 The **Nordheimn**, or Nordmen, are the people of the [[place-nrdlndsrgn|Nordlands]], a homeland of thin fields and long winters. They live along the coast and the inland rivers. The vast mountain interior holds few residents or travelers, and the stories of [[lore-flkkhazar|Khazari holds hidden]] there are rumors, not neighbors a household can call on.
 
-Ships carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Mídhalión]], and bring grain, wine, cloth and silver home. A longship can run up a river or cross open ocean. The same crew may trade at one port and raid the next. A Nordman's reason is the arithmetic of a land that cannot feed its people; that is how the north justifies taking another people's food and freedom.
+Ships carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Midhalión]], and bring grain, wine, cloth and silver home. A longship can run up a river or cross open ocean. The same crew may trade at one port and raid the next. A Nordman's reason is the arithmetic of a land that cannot feed its people; that is how the north justifies taking another people's food and freedom.
 
 ## The Oath and the Shame
 

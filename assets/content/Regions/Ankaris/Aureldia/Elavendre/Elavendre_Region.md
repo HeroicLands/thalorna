@@ -31,7 +31,7 @@ On the western shores of the [[place-ankrscntnnt|Ankaris Continent]], Élavendre
 
 The Élavendri are the settled, urbanized majority—the people of the kingdom, its cities, farms, and coastal towns. Descendants of the Pelwar nomads who migrated from the east, they developed over centuries into a refined and deeply spiritual culture that blends ancient traditions with a profound respect for the natural world. Their cities are renowned for their beauty and enchanting architecture—soaring towers of pale stone, bridges woven with living vines, and gardens that blur the line between the cultivated and the wild.
 
-Élavendri society is aristocratic, organized around ancient noble houses. The nobility are expected to be patrons of the arts, stewards of the land, and practitioners (or at least appreciators) of magic. Commoners are farmers, craftspeople, and merchants who enjoy a relatively high standard of living compared to many other Ankarian cultures. The Élavendri are renowned across the [[place-midhalnrgn|Mídhalión Region]] as artists, poets, musicians, and scholars of the arcane. Their bards are legendary, and the tradition of oral poetry and storytelling is deeply embedded in the culture.
+Élavendri society is aristocratic, organized around ancient noble houses. The nobility are expected to be patrons of the arts, stewards of the land, and practitioners (or at least appreciators) of magic. Commoners are farmers, craftspeople, and merchants who enjoy a relatively high standard of living compared to many other Ankarian cultures. The Élavendri are renowned across the [[place-midhalnrgn|Midhalión Region]] as artists, poets, musicians, and scholars of the arcane. Their bards are legendary, and the tradition of oral poetry and storytelling is deeply embedded in the culture.
 
 Noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.
 
@@ -161,7 +161,7 @@ The kingdom's economy runs inward and then out again: raw material from the four
 : Rumored to exist in the deepest forests, these otherworldly courts are said to be ruled by beings of immense power who occasionally meddle in mortal affairs.
 
 [[affiliation-bardicolgs|The Bardic Colleges]]
-: Institutions of learning that combine musical training, oral history, magical study, and diplomacy. Élavendren bards serve as ambassadors, historians, and spies across Mídhalión.
+: Institutions of learning that combine musical training, oral history, magical study, and diplomacy. Élavendren bards serve as ambassadors, historians, and spies across Midhalión.
 
 [[place-silvrfrsts|The Silver Forests]]
 : Ancient woodland said to be planted by the fae themselves, where the trees have bark that gleams like metal in moonlight.

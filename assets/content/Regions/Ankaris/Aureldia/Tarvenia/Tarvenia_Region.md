@@ -59,7 +59,7 @@ The Mountain Kingdoms
 : Isolated highland realms—especially [[affiliation-kngdmstrth|Asturath]]—where ancient traditions survive largely unchanged, and where the fiercest warriors are bred.
 
 The Port Cities
-: Prosperous trading hubs along the southern coast, above all the [[affiliation-frctyvlthr|Free City of Valthari]], where goods from across [[place-midhalnrgn|Mídhalión]] and beyond change hands.
+: Prosperous trading hubs along the southern coast, above all the [[affiliation-frctyvlthr|Free City of Valthari]], where goods from across [[place-midhalnrgn|Midhalión]] and beyond change hands.
 
 The Mercenary Tradition
 : Tarvenan sellswords are found in armies across Ankaris. Service abroad is seen as a rite of passage for young warriors.

@@ -147,12 +147,12 @@ and she is old, and she is at her door on the hill watching this quay. Go up to 
 And Sifanos went up the hill.
 
 [The first rank:]{.speaker}/
-Teíkharos, he said, of House Farikos, old man, you taught me to bait a hook./
-You are too old to stand here and too old to row. Sit on the bollard, Teíkharos./
+Téikharos, he said, of House Farikos, old man, you taught me to bait a hook./
+You are too old to stand here and too old to row. Sit on the bollard, Téikharos./
 Sit there and watch me, and tell me afterward if I did it right.
 
 [The second rank:]{.speaker}/
-And Teíkharos sat on the bollard, and watched him.
+And Téikharos sat on the bollard, and watched him.
 
 [The first rank:]{.speaker}/
 Azidás, he said, of House Makithon, you owe the wine-shop on the corner for the winter./

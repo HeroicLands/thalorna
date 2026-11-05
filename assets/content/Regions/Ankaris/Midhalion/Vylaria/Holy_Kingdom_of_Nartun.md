@@ -100,7 +100,7 @@ Most of the land belongs to the temples. Each great temple of the holy city hold
 
 Nartun is not expansionist, and it is not weak. Its army is small and professional, and its knights, the [[affiliation-sacredflame|Order of the Sacred Flame]], are among the finest heavy cavalry in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. The knights hold the walls and gates of the holy city and keep chapels at the kingdom's borders. [The Holy Militia of Nartun]{.name data-type="affiliation"} stands behind them: the freemen and yeoman archers of the temple-estates, whom the priors muster when the kingdom calls.
 
-The kingdom's chief strength is moral authority. Its pronouncements on matters of faith carry weight across the Aureldian world, and rulers and churchmen throughout the [[place-midhalnrgn|Mídhalión Region]] seek out its scholars and theologians.
+The kingdom's chief strength is moral authority. Its pronouncements on matters of faith carry weight across the Aureldian world, and rulers and churchmen throughout the [[place-midhalnrgn|Midhalión Region]] seek out its scholars and theologians.
 
 ## The Flame and the Forge
 

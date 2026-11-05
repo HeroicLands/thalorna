@@ -17,7 +17,7 @@ data:
 
 The Northern March is the frontier district of the [[affiliation-byzarianlg|Bizarian League]] on the landward, northern rim of [[place-byzariargn|Bizaria]], where the plateau climbs into rough uplands and descends on their far side into the black-earth grain country of [[place-velanthrgn|Velanthia]]. It is the quietest of the League's three marches and the one the council in [[place-khryshteikhos2|Krusteikhos]] thinks about least—which is the highest compliment a border can be paid. Nothing comes over it that the League does not want, and what the League wants most is grain.
 
-Like the [[place-eastrnmrch|Eastern March]] and [[place-southrnmrch|Southern March]] it is common territory outside any city's charter, governed by a lord commissioned by the League council and answerable to it, with a small detachment of the joint army at his disposal. The office is styled Lord of the Northern March. It is by custom given to a member of a Krusteíkhian house—the capital lies nearest, and its bankers finance the grain trade the March exists to protect—and it is regarded in Krusteikhos as an honorable posting for a younger son rather than a command for a soldier.
+Like the [[place-eastrnmrch|Eastern March]] and [[place-southrnmrch|Southern March]] it is common territory outside any city's charter, governed by a lord commissioned by the League council and answerable to it, with a small detachment of the joint army at his disposal. The office is styled Lord of the Northern March. It is by custom given to a member of a Krustéikhian house—the capital lies nearest, and its bankers finance the grain trade the March exists to protect—and it is regarded in Krusteikhos as an honorable posting for a younger son rather than a command for a soldier.
 
 ## Geography
 
@@ -35,7 +35,7 @@ The March's other duty is the one the League never says aloud: it watches the no
 
 The garrison is small: a League detachment at the customs posts and the pass-forts, and the lord's own household at his seat on the grain road. The lord's court settles the March's justice under League law—grazing, water, tolls, the endless disputes between Bizarian villages and the Velanthian drovers who winter their herds on the Bizarian side of the passes by long custom and no treaty. Relations with the atamans of the nearest Hosts are conducted by the lord in person, usually at the autumn horse-fair on the frontier, and are on the whole cordial: both sides make money from the road and neither wants the other's trouble.
 
-The March's relationship to the capital is that of a country estate to a great house. Krusteikhos's bankers hold the grain contracts, Krusteikhos's merchants own the wagons, and the lord is very often a Krusteíkhian by birth. The other cities tolerate the arrangement because the alternative—grain in Krusteíkhian hands _and_ a March in Krusteíkhian hands, with no council commission to revoke—is worse.
+The March's relationship to the capital is that of a country estate to a great house. Krusteikhos's bankers hold the grain contracts, Krusteikhos's merchants own the wagons, and the lord is very often a Krustéikhian by birth. The other cities tolerate the arrangement because the alternative—grain in Krustéikhian hands _and_ a March in Krustéikhian hands, with no council commission to revoke—is worse.
 
 ## Peoples
 

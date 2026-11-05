@@ -60,7 +60,7 @@ Despite the diversity, Aureldian high culture shares certain hallmarks: chivalri
 
 Aureldia takes its name from the Aureldian Pantheon. Every Aureldian polity builds temples to the Twelve, whose distinct faiths honor [[lore-zunelasdty|Zunelas]] of dreams, [[lore-selmorosdty|Sélmoros]] of death, [[lore-brazemasdty|Brazemas]] of storms, [[lore-ardavondty|Árdavon]] of order, [[lore-marendasdty|Marendas]] of knowledge, [[lore-olveniadty|Ólvenia]] of prosperity, [[lore-lusiniadty|Lusinia]] of creation, [[lore-karnavosdty|Karnavos]] of chaos, [[lore-pozerasdty|Pozeras]] of voyages, [[lore-morvanadty|Morvana]] of decay, [[lore-lizelasdty|Lizelas]] of fertility, and [[lore-ustarondty|Ústaron]] of fire in one of his two contested aspects.
 
-The faiths extend well beyond Aureldian borders—the Twelve are worshipped in the [[affiliation-vylarinmpr|Vylarian Empire]], the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], [[place-helionis|Helionis]], [[affiliation-byzarianlg|Bizaria]], and elsewhere across the [[place-midhalnrgn|Mídhalión Region]]'s basin—but Aureldia is the cradle and the heartland. The great pilgrim-routes, the oldest shrines, the most influential scholars of the Twelve, and the highest concentration of clergy all lie in Aureldian lands. A priest educated in Élavendre or a scholar trained in Provenzia carries authority anywhere the Twelve are honored.
+The faiths extend well beyond Aureldian borders—the Twelve are worshipped in the [[affiliation-vylarinmpr|Vylarian Empire]], the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], [[place-helionis|Helionis]], [[affiliation-byzarianlg|Bizaria]], and elsewhere across the [[place-midhalnrgn|Midhalión Region]]'s basin—but Aureldia is the cradle and the heartland. The great pilgrim-routes, the oldest shrines, the most influential scholars of the Twelve, and the highest concentration of clergy all lie in Aureldian lands. A priest educated in Élavendre or a scholar trained in Provenzia carries authority anywhere the Twelve are honored.
 
 [[lore-ustaranschism|The Ústaran Schism]] is the great fracture in Ústaran worship. Five centuries ago the clergy of Ústaron divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]]—Ústaron as craftsman, protector, and illuminator—became the mainstream Aureldian faith. [[affiliation-blackflame|The Black Flame]]—Ústaron as purifier-through-destruction, fire as weapon and instrument of domination—was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aureldian politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
 
@@ -91,15 +91,15 @@ The [[affiliation-ordoarcanis|Thordimalon]] maintains chapters across most Aurel
 
 ## Trade
 
-Aureldia sits at the western terminus of two great trade systems. The overland routes from Mídhalión and the eastern continents converge in Provenzia and Tarvénia, then feed north through Élavendre and west to the port cities of Kalipsa and Aelwyth. The maritime routes of the western ocean—still only partially charted—radiate outward from those same ports.
+Aureldia sits at the western terminus of two great trade systems. The overland routes from Midhalión and the eastern continents converge in Provenzia and Tarvénia, then feed north through Élavendre and west to the port cities of Kalipsa and Aelwyth. The maritime routes of the western ocean—still only partially charted—radiate outward from those same ports.
 
-The region exports wine, tapestries, illuminated manuscripts, Élavendri silverwork, Tarvenan steel and horses, Aelwythan wool and curiosities, and the famed Provenzan glass. It imports spices, silks, and exotic goods from the east through Vylarian and Mídhalión trade, and raw metals, amber, and furs from the Nordlands. Kalipsa's merchant houses and Valthari's free city both function as neutral meeting grounds where Aureldian traders and their Mídhalión counterparts negotiate under guarantees of safe conduct—guarantees whose inviolability is one of the few things every Aureldian polity agrees upon.
+The region exports wine, tapestries, illuminated manuscripts, Élavendri silverwork, Tarvenan steel and horses, Aelwythan wool and curiosities, and the famed Provenzan glass. It imports spices, silks, and exotic goods from the east through Vylarian and Midhalión trade, and raw metals, amber, and furs from the Nordlands. Kalipsa's merchant houses and Valthari's free city both function as neutral meeting grounds where Aureldian traders and their Midhalión counterparts negotiate under guarantees of safe conduct—guarantees whose inviolability is one of the few things every Aureldian polity agrees upon.
 
 ## Relations with Neighboring Regions
 
 To the **north**, the [[place-nrdlndsrgn|Nordlands]] press against Aureldia across a long, forested frontier. Contact is simultaneously commercial (Nordmen amber and furs for Aureldian wine and steel), religious (uneasy coexistence of the Twelve and the Asguardian gods), and martial (periodic Nordmen raids along the coast, especially into northern Aelwyth and Élavendre). The Aelwythan religious syncretism is the clearest expression of the long relationship.
 
-To the **southeast**, [[place-midhalnrgn|Mídhalión]] is at once Aureldia's great trading partner and its great cultural rival. The two regions share the Aureldian faiths but diverge sharply on everything else—governance, aesthetics, law, and the nature of empire. [[place-provenzrgn|Provenzia Region]] and [[place-tarvenirgn|Tarvénia Region]] straddle the boundary between the two regions culturally and, in Provenzia's case, formally: Provenzia belongs to both Aureldia and Mídhalión, the living seam between them.
+To the **southeast**, [[place-midhalnrgn|Midhalión]] is at once Aureldia's great trading partner and its great cultural rival. The two regions share the Aureldian faiths but diverge sharply on everything else—governance, aesthetics, law, and the nature of empire. [[place-provenzrgn|Provenzia Region]] and [[place-tarvenirgn|Tarvénia Region]] straddle the boundary between the two regions culturally and, in Provenzia's case, formally: Provenzia belongs to both Aureldia and Midhalión, the living seam between them.
 
 To the **east**, beyond the [[place-drenavrspn|Drenavar Spine]], lie the interior regions of Ankaris. Contact is thinner and filtered through mountain passes, and the interior peoples view Aureldia as distant and slightly unreal—a land of cathedrals and bards on the far side of the mountains.
 
@@ -139,7 +139,7 @@ Aureldia uses the **Vylarian Calendar**—the AF/BF system established by the [[
 : The peninsular kingdoms
 
 [[place-provenzrgn|Provenzia Region]]
-: The cultured southern coast (also part of [[place-midhalnrgn|Mídhalión]])
+: The cultured southern coast (also part of [[place-midhalnrgn|Midhalión]])
 
 [[affiliation-sacredforge|The Sacred Forge]], [[affiliation-blackflame|the Black Flame]]
 : The rival Ústaran faiths
@@ -150,7 +150,7 @@ Aureldia uses the **Vylarian Calendar**—the AF/BF system established by the [[
 [[place-nrdlndsrgn|Nordlands Region]]
 : Northern neighbor
 
-[[place-midhalnrgn|Mídhalión]]
+[[place-midhalnrgn|Midhalión]]
 : Southeastern neighbor and trading partner
 
 [[place-ankrscntnnt|Ankaris Continent]]

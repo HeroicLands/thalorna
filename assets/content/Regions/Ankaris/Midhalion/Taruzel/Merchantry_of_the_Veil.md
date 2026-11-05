@@ -44,7 +44,7 @@ Kind
 : trade guild in luxury goods, information brokerage and smuggling
 
 Reach
-: the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], with shadow networks across [[place-midhalnrgn|Mídhalión Region]]
+: the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], with shadow networks across [[place-midhalnrgn|Midhalión Region]]
 
 Headquarters
 : [[affiliation-besikar|Besikar]] in name; in practice everywhere and nowhere
@@ -57,7 +57,7 @@ Its clients show what that means. A Vylarian _kurthos_ (senator) who needs a mes
 
 ## Agents
 
-The Merchantry works through agents placed in every port city, caravan stop and aristocratic court in [[place-midhalnrgn|Mídhalión]]. Most are legitimate merchants who do the Merchantry's business alongside their own: a spice trader who also carries sealed letters, a jeweler who also appraises stolen goods, a courtesan who also listens.
+The Merchantry works through agents placed in every port city, caravan stop and aristocratic court in [[place-midhalnrgn|Midhalión]]. Most are legitimate merchants who do the Merchantry's business alongside their own: a spice trader who also carries sealed letters, a jeweler who also appraises stolen goods, a courtesan who also listens.
 
 ## The Other Guilds
 

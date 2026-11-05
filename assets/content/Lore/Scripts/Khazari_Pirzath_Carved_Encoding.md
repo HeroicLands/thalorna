@@ -43,11 +43,11 @@ data:
     j: JA
     q: QA
     w: WA
-    á: [A, LONG]
-    é: [E, LONG]
-    í: [I, LONG]
-    ó: [O, LONG]
-    ú: [U, LONG]
+    á: A
+    é: E
+    í: I
+    ó: O
+    ú: U
     "'": CATCH
     ’: CATCH
     th: THARZ
@@ -74,28 +74,31 @@ data:
     nny: [NYA, NYA]
     hhl: [HLA, HLA]
     nngh: [NAZAF, NAZAF, GHARM]
+    aa: [A, LONG]
+    áa: [A, LONG]
+    ii: [I, LONG]
+    íi: [I, LONG]
+    uu: [U, LONG]
+    úu: [U, LONG]
+    aá: [A, A]
+    ií: [I, I]
+    uú: [U, U]
+    aí: [A, I]
+    aú: [A, U]
+    eí: [E, I]
+    oí: [O, I]
+    oú: [O, U]
     ai: AI
-    aí: [AI, LONG]
-    ái: [AI, LONG]
-    áí: [AI, LONG, LONG]
+    ái: AI
     au: AU
-    aú: [AU, LONG]
-    áu: [AU, LONG]
-    áú: [AU, LONG, LONG]
+    áu: AU
     ei: EI
     ëi: EI
-    eí: [EI, LONG]
-    ëí: [EI, LONG]
-    éi: [EI, LONG]
-    éí: [EI, LONG, LONG]
+    éi: EI
     oi: OI
-    oí: [OI, LONG]
-    ói: [OI, LONG]
-    óí: [OI, LONG, LONG]
+    ói: OI
     ou: OU
-    oú: [OU, LONG]
-    óu: [OU, LONG]
-    óú: [OU, LONG, LONG]
+    óu: OU
     y: I
     "@": DIGIT_TEN
     "#": DIGIT_ELEVEN
@@ -111,18 +114,18 @@ data:
     contextual-mappings:
       - {match: ay, before: consonant, emit: AI}
       - {match: ay, at: end, emit: AI}
-      - {match: áy, before: consonant, emit: [AI, LONG]}
-      - {match: áy, at: end, emit: [AI, LONG]}
+      - {match: áy, before: consonant, emit: AI}
+      - {match: áy, at: end, emit: AI}
       - {match: ey, before: consonant, emit: EI}
       - {match: ëy, before: consonant, emit: EI}
       - {match: ey, at: end, emit: EI}
       - {match: ëy, at: end, emit: EI}
-      - {match: éy, before: consonant, emit: [EI, LONG]}
-      - {match: éy, at: end, emit: [EI, LONG]}
+      - {match: éy, before: consonant, emit: EI}
+      - {match: éy, at: end, emit: EI}
       - {match: oy, before: consonant, emit: OI}
       - {match: oy, at: end, emit: OI}
-      - {match: óy, before: consonant, emit: [OI, LONG]}
-      - {match: óy, at: end, emit: [OI, LONG]}
+      - {match: óy, before: consonant, emit: OI}
+      - {match: óy, at: end, emit: OI}
       - {match: y, before: vowel, emit: YA}
 ---
 
@@ -134,8 +137,9 @@ This encoding writes [[skill-khazarlng|Khazari]] in pirzath-carved. A passage se
 - **The digraphs are letters:** _th_, _dh_, _kh_, _gh_, _sh_, _zh_, _ch_, _ts_, _ng_, _ny_ and _hl_. _ngh_ is _n_ and _gh_.
 - **A digraph with its first letter doubled** (_tth_, _ssh_, _nng_) is the digraph twice, which the faces draw as the doubled form.
 - **A consonant written twice** is two letters, which the faces draw as the doubled form.
-- **An acute vowel is the vowel and the length mark.**
-- **The vowel pairs are letters:** _ai_, _au_, _ei_, _oi_ and _ou_, carrying the length mark of either vowel. _ay_, _ey_ and _oy_ are the pairs _ai_, _ei_ and _oi_, except before a vowel.
+- **An acute vowel is the plain vowel.** The acute marks stress, which Pirzath does not write.
+- **A doubled _aa_, _ii_ or _uu_ is the held vowel**, the vowel and the length mark.
+- **The vowel pairs are letters:** _ai_, _au_, _ei_, _oi_ and _ou_. An acute on a pair's first letter is the plain pair; on its second letter it starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _aí_ is _a_ and then _i_. _ay_, _ey_ and _oy_ are the pairs _ai_, _ei_ and _oi_, except before a vowel.
 - **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_.
 - **_ë_ is the vowel _e_.**
 - **The catch** is `'` or `’`.

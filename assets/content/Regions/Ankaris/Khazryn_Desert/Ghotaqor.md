@@ -27,7 +27,7 @@ Ghotaqor is spruce, larch and birch on sandy ridges, bog and standing water in e
 
 The bands are small, fifty to two hundred people, and they are unorganized in the sense that matters to a settled lord: no band has a chief who can bind another, no tribute is paid, and no war is fought except over a particular lake or a particular insult. On the coast the bands take seals at their breathing holes and fish through the ice, and live in turf houses dug into the lee of the rocks. Inland they follow the deer herds on foot and on sleds, and they come to the coast in summer to trade meat and hides for salt.
 
-Their furs go south. Sable, marten and ermine reach the market-camp at [[place-qisomrktcmp|Qiiso]] on the backs of Sovidur traders who go north each summer, and from there they travel on to [[place-midhalnrgn|Mídhalión]]. The bands will take a stranger in who arrives hungry and half-frozen, because refusing him is bad luck, and will not take him in twice.
+Their furs go south. Sable, marten and ermine reach the market-camp at [[place-qisomrktcmp|Qiiso]] on the backs of Sovidur traders who go north each summer, and from there they travel on to [[place-midhalnrgn|Midhalión]]. The bands will take a stranger in who arrives hungry and half-frozen, because refusing him is bad luck, and will not take him in twice.
 
 ## The Summer Trade {#present}
 

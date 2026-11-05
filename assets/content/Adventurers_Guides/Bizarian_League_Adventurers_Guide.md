@@ -52,7 +52,7 @@ The [[place-eastrnmrch|Eastern March]] runs downhill from Argirteikhos's eastern
 
 The [[place-southrnmrch|Southern March]] is dry pastoral upland on the road from Karvashion toward Dunhara, and its southern edge is the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], which runs the whole length of the League's south: a line of hills and customs posts crossed daily by drovers and smugglers both ways. Lord [[being-vaskan|Vaskan]] holds it from the saddle, and his hunts are its political season: merchant-princes and envoys ride after boar and gazelle with his hounds, hawks and coursing cats, and settle more League business around his fires than the council does in half its sessions.
 
-The [[place-northrnmrch|Northern March]] is the quietest. It guards the grain road toward Velanthia, whose Velanthian Hosts keep the far side of a cordial border, and its lord is by custom a younger son of an Krusteíkhian house.
+The [[place-northrnmrch|Northern March]] is the quietest. It guards the grain road toward Velanthia, whose Velanthian Hosts keep the far side of a cordial border, and its lord is by custom a younger son of a Krustéikhian house.
 
 ## Who Holds Power
 

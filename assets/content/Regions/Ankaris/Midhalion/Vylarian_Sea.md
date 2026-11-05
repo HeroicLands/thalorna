@@ -3,7 +3,7 @@ shortcode: vylarianse
 name: {full: Vylarian Sea}
 type: place
 subType: region
-description: The great inland sea at the heart of Mídhalión—highway of empire, maritime artery of the Aureldian and Ashaian faiths.
+description: The great inland sea at the heart of Midhalión—highway of empire, maritime artery of the Aureldian and Ashaian faiths.
 tags: [region]
 data:
   demonym: null
@@ -21,7 +21,7 @@ data:
 # terran_analog: The Mediterranean Sea
 ---
 
-For three thousand years the central civilizations of [[place-worldthlrn|Thalorna]] have arranged themselves around the water at the heart of [[place-midhalnrgn|Mídhalión]], the Vylarian Sea. [[place-ankrscntnnt|Ankaris]] encloses it to the north and [[place-xerathia|Zerathia]] to the south, and it opens on the ocean only through a narrow western strait. It is a highway, a frontier, a marketplace and a battleground at once. Every empire that has tried to dominate the central continents has tried to dominate this sea first, and every successor-state of the [[affiliation-vylarinmpr|Vylarian Empire]] defines itself partly by how it stands on these waters.
+For three thousand years the central civilizations of [[place-worldthlrn|Thalorna]] have arranged themselves around the water at the heart of [[place-midhalnrgn|Midhalión]], the Vylarian Sea. [[place-ankrscntnnt|Ankaris]] encloses it to the north and [[place-xerathia|Zerathia]] to the south, and it opens on the ocean only through a narrow western strait. It is a highway, a frontier, a marketplace and a battleground at once. Every empire that has tried to dominate the central continents has tried to dominate this sea first, and every successor-state of the [[affiliation-vylarinmpr|Vylarian Empire]] defines itself partly by how it stands on these waters.
 
 The sea gives its name to the empire that once ruled it and to the region that still has its economic shape, and its trade pidgin is spoken in every port. To sail it is to enter the common life of two continents.
 
@@ -39,7 +39,7 @@ The sea is a long east-west ellipse, wider at its eastern and western ends and n
 
 Hundreds of islands stud the sea. The largest—the archipelago of the [[place-taruzelrgn|Taruzel Region]] and [[place-aelwyth|Aelwyth]] (the Misty Isle) far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
 
-The **western strait**, between [[place-tarvenirgn|Tarvénia]] and the Zerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Mídhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
+The **western strait**, between [[place-tarvenirgn|Tarvénia]] and the Zerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Midhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
 
 The climate is warm and coastal: hot, dry summers and mild, rainy winters. The northerly winds of late summer, which Vylarian sailors call the _Aëstrai_, set the sailing year. East-to-west voyages run with them in summer, and west-to-east voyages wait for the calmer winters.
 
@@ -69,7 +69,7 @@ The eastern sea belongs to the Taruzelian fleet, and the Vylarian navy cannot pa
 
 Nearly every commodity in Thalorna that travels any real distance crosses the Vylarian Sea at some point: [[miscgear-vylsteel|Vylarian Steel]] and wine, Helionite olive oil and philosophical manuscripts, Taruzelian spices and textiles, Provenzian art and luxuries, Tarvenan grain, Khelathi papyrus, grain and gold, Okhárian bronze and worked metal, Bethuan textiles and leather, and the far-eastern silk, porcelain, tea and jade that arrive through Taruzelian and Bizarian middlemen.
 
-Moving bulk goods across the sea is usually cheaper than moving them overland for a fraction of the distance, so inland polities a thousand miles from the shore are priced out of its markets. That arithmetic is why Mídhalión holds together as one region at all.
+Moving bulk goods across the sea is usually cheaper than moving them overland for a fraction of the distance, so inland polities a thousand miles from the shore are priced out of its markets. That arithmetic is why Midhalión holds together as one region at all.
 
 ## Religion
 
@@ -90,7 +90,7 @@ Sailors are practical polytheists. They honor whichever god of the sea seems lik
 
 ## See Also
 
-[[place-midhalnrgn|Mídhalión Region]]
+[[place-midhalnrgn|Midhalión Region]]
 : the region the sea holds together
 
 [[affiliation-vylarinmpr|Vylarian Empire]]

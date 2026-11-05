@@ -121,34 +121,18 @@ data:
     eI: LONG_E_MIN
     Ei: LONG_E_MAJ
     EI: LONG_E_MAJ
-    eí: [LONG_E_MIN, ACCENT]
-    eÍ: [LONG_E_MIN, ACCENT]
-    Eí: [LONG_E_MAJ, ACCENT]
-    EÍ: [LONG_E_MAJ, ACCENT]
     éi: [LONG_E_MIN, ACCENT]
     éI: [LONG_E_MIN, ACCENT]
     Éi: [LONG_E_MAJ, ACCENT]
     ÉI: [LONG_E_MAJ, ACCENT]
-    éí: [LONG_E_MIN, ACCENT]
-    éÍ: [LONG_E_MIN, ACCENT]
-    Éí: [LONG_E_MAJ, ACCENT]
-    ÉÍ: [LONG_E_MAJ, ACCENT]
     ou: LONG_O_MIN
     oU: LONG_O_MIN
     Ou: LONG_O_MAJ
     OU: LONG_O_MAJ
-    oú: [LONG_O_MIN, ACCENT]
-    oÚ: [LONG_O_MIN, ACCENT]
-    Oú: [LONG_O_MAJ, ACCENT]
-    OÚ: [LONG_O_MAJ, ACCENT]
     óu: [LONG_O_MIN, ACCENT]
     óU: [LONG_O_MIN, ACCENT]
     Óu: [LONG_O_MAJ, ACCENT]
     ÓU: [LONG_O_MAJ, ACCENT]
-    óú: [LONG_O_MIN, ACCENT]
-    óÚ: [LONG_O_MIN, ACCENT]
-    Óú: [LONG_O_MAJ, ACCENT]
-    ÓÚ: [LONG_O_MAJ, ACCENT]
     §: REGISTER
   rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
 ---
@@ -160,7 +144,7 @@ This encoding writes [[skill-bethunlng|Bethuan]] in helonika-book. A passage sel
 - **_kh_ is one letter**, the aspirate letter that Bethuan writes where Helonic writes _k_ and _h_. _Zh_ is _z_ and _h_.
 - **_ei_ is the long _e_ and _ou_ the long _o_**, letters of their own.
 - **A doubled _aa_, _ii_ or _uu_ is the barred vowel**, one letter with a bar over it.
-- **An acute vowel is the vowel followed by the accent**, which Bethuan writes for pitch. An accented _ei_ or _ou_ is the long vowel followed by the accent.
+- **An acute vowel is the vowel followed by the accent**, which Bethuan writes on the stressed syllable. An acute on the first letter of _ei_ or _ou_ stresses the long vowel and writes it followed by the accent. An acute on the second letter starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _eí_ is _e_ and then the accented _i_.
 - **A diaeresis vowel is the plain vowel**, so it never joins the vowel before it into _ē_ or _ō_.
 - **`§` is the register-mark**, the sign of a turn between the masculine and feminine registers.
 - **The other letters, the raised dot and the numerals are those of the Helónika Spelling**, as are its capitals: a capital is written only on a name and on the paragraph's first word.

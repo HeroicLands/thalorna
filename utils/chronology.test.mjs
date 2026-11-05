@@ -581,7 +581,7 @@ const FOLDERS = [
     fm: { shortcode, type: "folder", data: { parent } },
 }));
 
-/** A history note in the Mídhalión folder. */
+/** A history note in the Midhalión folder. */
 function midhalion(shortcode, tags, events) {
     return {
         file: `${shortcode}.md`,
@@ -596,7 +596,7 @@ function midhalion(shortcode, tags, events) {
     };
 }
 
-/** The findings for Mídhalión history notes beside the ages calendar. */
+/** The findings for Midhalión history notes beside the ages calendar. */
 function runMidhalion(...history) {
     return check({ history, calendars: [AGES], world: [WORLD], prose: FOLDERS });
 }
@@ -746,7 +746,7 @@ test("follows-resolves: a target that names no note, or no event of the note, is
     assert.match(found[1], /follows-resolves: `lore-firstnote#b` names no event of that note/u);
 });
 
-test("midhalion-era: a history note outside the Mídhalión folder is not held to the ages", () => {
+test("midhalion-era: a history note outside the Midhalión folder is not held to the ages", () => {
     const outside = midhalion("elsewhere", ["history"], [{ when: 12 }]);
     outside.fm.data.packFolder = "ankaris";
     assert.deepEqual(

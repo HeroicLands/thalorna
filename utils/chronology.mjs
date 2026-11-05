@@ -22,7 +22,7 @@
  *
  * An era is a row of a calendar note's `data.eras`, and the toolchain bounds and
  * selects it; the guard holds a calendar's ages to its body (rule 10) and a
- * Mídhalión history note to its age (rule 11). A `stated` date gives an
+ * Midhalión history note to its age (rule 11). A `stated` date gives an
  * event's year as a calendar writes it: `calendar` is the calendar note's
  * shortcode and `text` is a date in that calendar's default format, at whatever
  * precision it names (`1 AC`, `2378 ST`). It is read through package-build's own
@@ -64,7 +64,7 @@
  *     of the body. The toolchain itself refuses a `stated` date whose age mark
  *     does not cover its year, so that case needs no rule here.
  * 11. **`midhalion-era`** — a history note under a folder that {@link AGE_FOLDERS}
- *     names (the Mídhalión folder with the Vylarian Ages, the Hellád folder with
+ *     names (the Midhalión folder with the Vylarian Ages, the Hellád folder with
  *     the Hellád Calendar) carries exactly one tag naming an age of that folder's
  *     ages calendar, and every `when` on the note falls inside that age's span.
  *     An age runs from its `start` to the year before the next age's `start`

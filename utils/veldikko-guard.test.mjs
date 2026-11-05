@@ -483,6 +483,26 @@ test("an inverted pitch sign in the encoding is a finding", (t) => {
     );
 });
 
+test("an acute on the second letter of a held vowel or a diphthong starts a syllable", () => {
+    const converted = new Map([
+        ["pa", sign(0x1ed50, 0x1ed70)],
+        ["a", sign(0x1ed5d, 0x1ed70)],
+        ["i", sign(0x1ed5d, 0x1ed74)],
+    ]);
+    const convert = (text) => {
+        assert.ok(converted.has(text), text);
+        return converted.get(text);
+    };
+    assert.equal(
+        referenceWithPerformance("paá", convert),
+        sign(0x1ed50, 0x1ed70, 0x1ed5d, 0x1ed70, 0x1ed7b),
+    );
+    assert.equal(
+        referenceWithPerformance("paí", convert),
+        sign(0x1ed50, 0x1ed70, 0x1ed5d, 0x1ed74, 0x1ed7b),
+    );
+});
+
 test("derived and variant forms use the canonical lexicon with no names", (t) => {
     const values = records();
     values[0].data.words = [

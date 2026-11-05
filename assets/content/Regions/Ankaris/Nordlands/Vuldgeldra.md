@@ -310,7 +310,7 @@ vikgnum nel rurna, nel vendri.
 
 The cold's hard hem is the ice-edge, where the sealers go in the hungry weeks. "Twice the floes groaned" is two deaths. Gnaldurfjord is named for the sound its ice makes, and every coast in the north hears that sound as somebody dying. Sing it inland and it is a line about ice. He has the two by name, and says so, and keeps them out. A _geldra_ is bought and a _hnura_ is not, and the nine are named in the household's _hnura_, which the Circle does not teach.
 
-[[lore-thrunvalddty|Thrunvald]]'s floor is the sea again, and he has two words for it. When it gives, it is the giant's cold. When it is sailed, or it takes, it is the Thunderer's. The shingle crying is a keel, from the sound a keel makes going off and coming on, and the keel's own word is built on it. The south's yellow is grain from [[place-midhalnrgn|Mídhalión]]. The ring off his arm went for the buying.
+[[lore-thrunvalddty|Thrunvald]]'s floor is the sea again, and he has two words for it. When it gives, it is the giant's cold. When it is sailed, or it takes, it is the Thunderer's. The shingle crying is a keel, from the sound a keel makes going off and coming on, and the keel's own word is built on it. The south's yellow is grain from [[place-midhalnrgn|Midhalión]]. The ring off his arm went for the buying.
 
 The seventh year's boat is the king's boat come for his jarls, and the grant moves: a king who moves the grant moves the seat with it. He knew it and let the boat go. Hliskvir was not on Domsey. "They tell me" is how he says so. The king's answer is a look at the law-rock, and he gives you no more because he had no more.
 

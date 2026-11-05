@@ -30,7 +30,7 @@ The ivory that carries Vithgard's name south comes mostly from walrus and narwha
 
 ## The Trade
 
-What a coast does not eat or burn, it trades. Glerv, ivory and whalebone go south with the merchant ships to [[place-midhalnrgn|Mídhalión]], and they are the reason a Vithgard trader can buy grain in a year when the kingdom grew none. Inside the north most of it moves by [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]] rather than coin: a cask of oil this winter against a share of a neighbor's barley next autumn, reckoned and remembered.
+What a coast does not eat or burn, it trades. Glerv, ivory and whalebone go south with the merchant ships to [[place-midhalnrgn|Midhalión]], and they are the reason a Vithgard trader can buy grain in a year when the kingdom grew none. Inside the north most of it moves by [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]] rather than coin: a cask of oil this winter against a share of a neighbor's barley next autumn, reckoned and remembered.
 
 ## The Law of the Stranded Whale
 

@@ -448,7 +448,7 @@ data:
         - "Sotharion"
         - "Sfrades"
         - "Tawares"
-        - "Teíkharos"
+        - "Téikharos"
         - "Thábilos"
         - "Thammas"
         - "Tharkós"
@@ -660,7 +660,7 @@ Aspirate letters
 : _th_ has a letter of its own, and Bethuan writes _kh_ with a letter of its own where Helonic writes _k_ and _h_
 
 Accent marks
-: pitch accent is marked; feminine register texts are more carefully accentuated
+: the accent marks a stressed syllable the common rule would not choose, where the voice rises; feminine register texts are more carefully accentuated
 
 Gender register markers
 : Formal texts sometimes employ a distinctive punctuation mark (§) to indicate register shift; rare in modern usage
@@ -916,8 +916,8 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Sfrades
 - Támines
 - Tawares
-- Teíkharos
-- Teíkhimon
+- Téikharos
+- Téikhimon
 - Thábilos
 - Tháliminos
 - Thammas

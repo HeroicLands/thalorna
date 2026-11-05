@@ -66,7 +66,7 @@ Where [[place-zumeleshrvr|the Zumelesh]] reaches the [[place-vylarianse|Vylarian
 
 ## Character
 
-The Delta is where Au'Khelathu meets the wider world, and it shows. The port cities are crowded and polyglot: trading factors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebeku'Zut]] do their quiet business at delta banquets.
+The Delta is where Au'Khelathu meets the wider world, and it shows. The port cities are crowded and polyglot: trading factors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Midhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebeku'Zut]] do their quiet business at delta banquets.
 
 The conservative landowners of [[affiliation-upperrivrslt|the Upper River Selatu]] think delta-folk cosmopolitan, sharp-tongued and faintly suspect, and they regard an easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest. That rivalry, between river conservatives and delta cosmopolitans, is one of the steady tensions of [[lore-khelathiclt|Khelathi]] politics.
 
@@ -80,7 +80,7 @@ The Delta worships [[lore-thubaidty|Thuba'i]], god of prosperity, abundance and 
 
 ## Economy
 
-Trade and garden farming drive the Delta. Its ports handle the whole of the empire's seaborne commerce: papyrus, linen, gold, grain and artisan work go out, and timber, metals, spices and luxuries come in. The garden strip supplies the empire's high tables, and the export markets of Mídhalión, with wine, oil, citrus and dates the drier interior cannot grow. The marshes yield fish, fowl, salt, natron and papyrus, and papyrus is close to a monopoly: delta paper is traded across half the world. The upper river grows the empire's bread, and the Delta grows its wealth.
+Trade and garden farming drive the Delta. Its ports handle the whole of the empire's seaborne commerce: papyrus, linen, gold, grain and artisan work go out, and timber, metals, spices and luxuries come in. The garden strip supplies the empire's high tables, and the export markets of Midhalión, with wine, oil, citrus and dates the drier interior cannot grow. The marshes yield fish, fowl, salt, natron and papyrus, and papyrus is close to a monopoly: delta paper is traded across half the world. The upper river grows the empire's bread, and the Delta grows its wealth.
 
 ## Notable Features
 

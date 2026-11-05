@@ -94,7 +94,7 @@ The traditional colleges of the Epistémion, as they stood in the Helionite peri
 
 **The [College of Logic]{.name data-type="affiliation"}**—The study of reasoning and argument, and of whether an argument is valid and sound. The Helionite logicians laid the foundations the other colleges build on, and their methods remain the shared language of scholarly discourse.
 
-**The [College of Aesthetics]{.name data-type="affiliation"}**—The study of beauty, art and taste. In [[place-elavendre|Élavendre]] and Provenzia, aesthetic philosophy is entwined with bardic and artistic traditions. The Helionite aestheticians debated the nature of artistic expression for centuries before the Vylarian conquest, and their work still shapes artistic thought across [[place-midhalnrgn|Mídhalión]].
+**The [College of Aesthetics]{.name data-type="affiliation"}**—The study of beauty, art and taste. In [[place-elavendre|Élavendre]] and Provenzia, aesthetic philosophy is entwined with bardic and artistic traditions. The Helionite aestheticians debated the nature of artistic expression for centuries before the Vylarian conquest, and their work still shapes artistic thought across [[place-midhalnrgn|Midhalión]].
 
 **The [College of Political Philosophy]{.name data-type="affiliation"}**—The study of justice, rights, government and the role of political institutions. This college has always walked a dangerous line, since its scholars examine the ethical foundations of laws and political structures and so come close to criticizing the powers that fund them. The Vylarian [[affiliation-seldan|Seldan]] (Senate) watched it warily even before the conquest.
 
@@ -102,7 +102,7 @@ The traditional colleges of the Epistémion, as they stood in the Helionite peri
 
 **The [College of Natural Inquiry]{.name data-type="affiliation"}**—The study of the methods, assumptions and implications of systematic observation of the natural world. It is a less developed tradition than it might be elsewhere, because where arcane forces and astral influence are demonstrably real and many attribute events to divine will, explaining the world by purely natural causes is both harder and less obviously necessary.
 
-**The [College of Language]{.name data-type="affiliation"}**—The study of language, meaning, reference and communication. With dozens of living languages across Mídhalión alone, and ancient scripts whose meanings are debated or lost, the study is both theoretical and intensely practical.
+**The [College of Language]{.name data-type="affiliation"}**—The study of language, meaning, reference and communication. With dozens of living languages across Midhalión alone, and ancient scripts whose meanings are debated or lost, the study is both theoretical and intensely practical.
 
 **The [College of Social Philosophy]{.name data-type="affiliation"}**—The study of society and its institutions: social justice, community and social norms. Its work frequently overlaps with Political Philosophy and Ethics, and its scholars often hold appointments in more than one college.
 

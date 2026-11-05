@@ -14,7 +14,7 @@ After the dry eastern hills, **Karvashion** is green. The city lies in a lush ri
 
 ## The Bazaars
 
-Eastern goods first pass into League hands here: spices, silk, incense and gemstones. They are bought in bazaars famous across the continent for the variety and quality of what they sell, then distributed to the other League cities and onward to [[place-midhalnrgn|Mídhalión]]. A buyer who wants something from beyond the passes comes to Karvashion, and a seller from beyond the passes comes here to meet him.
+Eastern goods first pass into League hands here: spices, silk, incense and gemstones. They are bought in bazaars famous across the continent for the variety and quality of what they sell, then distributed to the other League cities and onward to [[place-midhalnrgn|Midhalión]]. A buyer who wants something from beyond the passes comes to Karvashion, and a seller from beyond the passes comes here to meet him.
 
 ## Who Governs
 

@@ -416,7 +416,7 @@ Lord Aimilon Visbari presents the image of a distinguished [[lore-vylarianclt|Vy
 
 The [Visbari family]{.name data-type="affiliation/lineage"} has served the [[affiliation-vylarinmpr|Vylarian Empire]]'s imperial throne for generations, and Aimilon was groomed from boyhood for a life of quiet service. Officially, he trained at the [[affiliation-imprlhrlds|Imperial College of Heralds]] in the capital, where he excelled in heraldry, genealogy, diplomacy, and the thousand small courtesies that oil the machinery of Vylarian noble society. Unofficially, his real education began afterward—years of travel across the empire's former provinces and the wider shores of the [[place-vylarianse|Vylarian Sea]], during which he built and inherited a network of informants, agents, and assets woven through every level of society from [[place-provenzrgn|Provenzia Region]] to the [[place-taruzelrgn|Taruzel Region]].
 
-When his father died over twenty years ago, Aimilon inherited the full weight of the family's secret vocation: spymaster to the Emperor. He has spent the decades since expanding the network, improving the speed and reliability of its communications, and quietly seeing that certain secrets reach the imperial ear while others are buried forever. He is fluent in multiple languages of the [[place-midhalnrgn|Mídhalión Region]] and several scripts, including ciphers of his own devising, and his memory for names, faces, and relationships is famous among those few who know what he truly does.
+When his father died over twenty years ago, Aimilon inherited the full weight of the family's secret vocation: spymaster to the Emperor. He has spent the decades since expanding the network, improving the speed and reliability of its communications, and quietly seeing that certain secrets reach the imperial ear while others are buried forever. He is fluent in multiple languages of the [[place-midhalnrgn|Midhalión Region]] and several scripts, including ciphers of his own devising, and his memory for names, faces, and relationships is famous among those few who know what he truly does.
 
 Now in his fifties, Lord Aimilon faces a problem he cannot solve with information alone. He has no children, and the network must survive him—especially now, as the empire's power wanes and its enemies grow bolder. He has identified a candidate—a woman of uncommon ability—but training a successor requires time he may not have, and trust he finds difficult to extend. The limp that slows his step grows worse each year, a reminder that even spymasters grow old.
 
@@ -450,7 +450,7 @@ Lord Aimilon has many enemies who don't know they are his enemies—[[lore-taruz
 
 ### Affiliations
 
-The Imperial College of Heralds (his public affiliation), the imperial intelligence network (his true affiliation), and the Visbari family's extensive web of informants among common clans throughout the Mídhalión Region who have prospered through the family's secret patronage.
+The Imperial College of Heralds (his public affiliation), the imperial intelligence network (his true affiliation), and the Visbari family's extensive web of informants among common clans throughout the Midhalión Region who have prospered through the family's secret patronage.
 
 ## Plot Hooks
 

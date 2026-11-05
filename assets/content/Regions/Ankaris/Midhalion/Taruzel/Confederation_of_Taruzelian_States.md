@@ -161,7 +161,7 @@ Taruzelian culture is mercantile at its core: wealth, reputation and the ability
 
 Society divides sharply between the guild elite and everyone else. The guild families live in palatial urban estates, patronize the arts and educate their children in rhetoric, mathematics and mercantile law. Below them a large middle class of independent merchants, skilled craftspeople and ship captains forms the economic backbone. At the bottom, dock workers, sailors and the urban poor live in cramped harbor districts and grow more restless every year. The tribal communities of the island hills stand apart from the port cities: they keep older traditions, speak archaic dialects and resent the coastal cities' dominance, and they supplied many of the foot soldiers of the war of independence and have seen little benefit from it.
 
-Taruzelian cooking is famous across [[place-midhalnrgn|Mídhalión]], built on spiced meats, flatbreads, honeyed pastries and strong coffee.
+Taruzelian cooking is famous across [[place-midhalnrgn|Midhalión]], built on spiced meats, flatbreads, honeyed pastries and strong coffee.
 
 ## Religion
 
@@ -223,7 +223,7 @@ The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the syste
 [[place-taruzelrgn|Taruzel Region]]
 : the land the Confederation holds
 
-[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+[[lore-hstrymdhln|The History of Vylaria and Midhalión]]
 : the islands' history as a province and after
 
 [[affiliation-vylarinmpr|Vylarian Empire]]

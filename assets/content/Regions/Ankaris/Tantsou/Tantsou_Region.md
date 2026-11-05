@@ -63,7 +63,7 @@ No serious threat has ever reached the Empire from the west. Its worst enemies h
 
 ## Trade
 
-The region stands at the eastern end of the Celestial Roads, the overland routes that run west through the Khazryn and reach [[place-midhalnrgn|Mídhalión]] at last. Silk, porcelain, tea, lacquer, jade, spices and finished metalwork go west; silver, gold, amber, coral, glass and horses come east. The imperial bureaucracy taxes, documents and classifies every significant movement of goods, so smuggling is a highly developed profession.
+The region stands at the eastern end of the Celestial Roads, the overland routes that run west through the Khazryn and reach [[place-midhalnrgn|Midhalión]] at last. Silk, porcelain, tea, lacquer, jade, spices and finished metalwork go west; silver, gold, amber, coral, glass and horses come east. The imperial bureaucracy taxes, documents and classifies every significant movement of goods, so smuggling is a highly developed profession.
 
 Coastal trade carries less prestige and far more volume. Tantsou trading ships work the southern ports and reach Vedyara's outport at [[place-nilatir|Nilatir]] and the northern coasts of [[place-xerathia|Zerathia]]. The port cities hold large foreign merchant quarters, carefully walled, carefully watched and carefully taxed.
 

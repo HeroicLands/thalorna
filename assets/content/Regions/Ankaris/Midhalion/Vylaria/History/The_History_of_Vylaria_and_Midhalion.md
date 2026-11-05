@@ -1,8 +1,8 @@
 ---
 shortcode: hstrymdhln
 name:
-  full: The History of Vylaria and Mídhalión
-  en: [History of Vylaria and Mídhalión, The History of Mídhalión]
+  full: The History of Vylaria and Midhalión
+  en: [History of Vylaria and Midhalión, The History of Midhalión]
 type: lore
 subType: history
 description: "A referee's reading history of Vylaria, Nartun and Taruzel from the Republic to 720 AF, told by the eight ages Vylaria's historians count, each age closing on what it left for a party to meet today."
@@ -12,7 +12,7 @@ data: {culture: vylarianclt, packFolder: vylaria}
 
 An old pensioner on the steps of a Circle in [[place-orzara|Orzara City]], waiting with his token for the month's pension, is asked by a foreigner in the queue what the [[affiliation-vylarinmpr|Vylarian Empire]] is, and gives its history in four sentences. "The first man of my family earned his citizenship with twenty years under the eagles, and I earned this token with twenty more. Every Orzas pays the pension before he pays anything else, because the one year it went unpaid the city burned. The money that paid it came from the provinces, and the provinces have gone. Now it comes from the bankers, and so do the Orzoi." It is a fair summary of seven centuries, and the ages below are the long form of it.
 
-The lands of the [[place-midhalnrgn|Mídhalión Region]] that this history follows are three: the [[place-vylariargn|Vylaria Region]], the peninsula of the [[place-vylarisrvr|River Vylaris]] where the Empire began and where it has drawn back to; the [[place-nartumkngdm|Nartun Kingdom]] in its forested north-east, which left the Empire over a question of faith; and the [[place-taruzelrgn|Taruzel Region]], the islands of the eastern sea that left it over money twelve years ago. Their history is told here in the ages that Vylaria's historians count ([[lore-vylariages|The Vylarian Ages]]), and every year is a year of [[lore-commoncal|the Vylarian Calendar]]. Each age closes on what it left behind, because a party arriving in any of these lands walks through what the ages built, burned and owe.
+The lands of the [[place-midhalnrgn|Midhalión Region]] that this history follows are three: the [[place-vylariargn|Vylaria Region]], the peninsula of the [[place-vylarisrvr|River Vylaris]] where the Empire began and where it has drawn back to; the [[place-nartumkngdm|Nartun Kingdom]] in its forested north-east, which left the Empire over a question of faith; and the [[place-taruzelrgn|Taruzel Region]], the islands of the eastern sea that left it over money twelve years ago. Their history is told here in the ages that Vylaria's historians count ([[lore-vylariages|The Vylarian Ages]]), and every year is a year of [[lore-commoncal|the Vylarian Calendar]]. Each age closes on what it left behind, because a party arriving in any of these lands walks through what the ages built, burned and owe.
 
 ## The Kings and the Republic
 
@@ -26,7 +26,7 @@ About 45 BF the standing lease of the dragons was not renewed. On the Order's co
 
 The late Republic was a quarrel of generals and senators, and in Year 1 a _kurthos_ (senator) with loyal legions and the Arcane Order behind him took supreme power and called himself Emperor ([[lore-thefounding|The Founding]]). No record gives his name. The Senate survived as an advisory body, and western Ankaris counts its years from that day.
 
-**What it left.** The calendar every clerk from Mídhalión to [[place-aelwyth|Aelwyth]] writes in. The Thordimalon's monopoly, its register and the Sekran's prisons. A fenced tract in the Alessan country that has never been dug. A sealed hill under the capital, and a quarrel with the dragons whose terms the chancery never wrote down.
+**What it left.** The calendar every clerk from Midhalión to [[place-aelwyth|Aelwyth]] writes in. The Thordimalon's monopoly, its register and the Sekran's prisons. A fenced tract in the Alessan country that has never been dug. A sealed hill under the capital, and a quarrel with the dragons whose terms the chancery never wrote down.
 
 ## The First Orzoi, 1 to 95
 
@@ -123,5 +123,5 @@ Between the two, the old quarrels keep their shape. Vylaria refuses the indemnit
 [[lore-empirdclne|The Decline of the Vylarian Empire]]
 : the spine of the last two centuries
 
-[[place-midhalnrgn|Mídhalión Region]]
+[[place-midhalnrgn|Midhalión Region]]
 : the lands the history covers

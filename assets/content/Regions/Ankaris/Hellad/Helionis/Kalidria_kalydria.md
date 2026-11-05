@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Never call a graduate of the [Academy of the Silver Veil]{.name data-type="affiliation"} a courtesan in Kalidria. She is a hetairin, an educated companion trained in music, philosophy, rhetoric and the social arts, and Helionites are impatient with the confusion. The Academy is the most distinctive institution of a city-state that is renowned across [[place-midhalnrgn|Mídhalión]] for its artists, playwrights and musicians. Where [[affiliation-thyrenae|Thirenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalidria pursues beauty. About 460,000 people live under its patron families, and 45,000 of them in the city of [[place-kalydria2|Kalidria]].
+Never call a graduate of the [Academy of the Silver Veil]{.name data-type="affiliation"} a courtesan in Kalidria. She is a hetairin, an educated companion trained in music, philosophy, rhetoric and the social arts, and Helionites are impatient with the confusion. The Academy is the most distinctive institution of a city-state that is renowned across [[place-midhalnrgn|Midhalión]] for its artists, playwrights and musicians. Where [[affiliation-thyrenae|Thirenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalidria pursues beauty. About 460,000 people live under its patron families, and 45,000 of them in the city of [[place-kalydria2|Kalidria]].
 
 Patron deity
 : [[lore-zunelasdty|Zunelas]], goddess of dreams and visions
@@ -98,13 +98,13 @@ The families rule inside the forms every Helionite city keeps: a sovereign assem
 
 ## The Academy of the Silver Veil
 
-The Academy represents the Helionite belief that education, social grace and intellectual accomplishment cannot be separated. Its graduates occupy a distinct position in courts and salons across Mídhalión: socially elevated, intellectually formidable and well informed. A junior of the Academy, asked what the first year teaches, says: "To remember what was said at dinner, and by whom." The graduates keep in touch, and the network they form is an unofficial web of intelligence. It makes Kalidria far more influential than its military strength would suggest.
+The Academy represents the Helionite belief that education, social grace and intellectual accomplishment cannot be separated. Its graduates occupy a distinct position in courts and salons across Midhalión: socially elevated, intellectually formidable and well informed. A junior of the Academy, asked what the first year teaches, says: "To remember what was said at dinner, and by whom." The graduates keep in touch, and the network they form is an unofficial web of intelligence. It makes Kalidria far more influential than its military strength would suggest.
 
 The patron families of Kalidria founded the Academy about 260 BF, half a century after the conquest ([[lore-heladsilverveil|The Founding of the Silver Veil]]).
 
 ## Art and Influence
 
-The city's theater festivals draw audiences from across the [[place-vylarianse|Vylarian Sea]]. Playwrights premiere their tragedies and comedies here, and a Kalidrian prize is the highest honor a dramatist can receive. Kalidrian sculptors and painters are sought by wealthy patrons across Mídhalión, and Kalidrian training is considered the finest available.
+The city's theater festivals draw audiences from across the [[place-vylarianse|Vylarian Sea]]. Playwrights premiere their tragedies and comedies here, and a Kalidrian prize is the highest honor a dramatist can receive. Kalidrian sculptors and painters are sought by wealthy patrons across Midhalión, and Kalidrian training is considered the finest available.
 
 Kalidria's strength lies in influence and not in arms. The patron families use art and social connection as instruments of soft power, and Kalidrian taste shapes fashion, entertainment and courtly manners across the western part of the [[place-ankrscntnnt|Ankaris Continent]].
 

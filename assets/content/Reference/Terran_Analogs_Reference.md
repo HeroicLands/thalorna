@@ -50,7 +50,7 @@ The owner specifies wild fig inner-bark paper for the folded codices, following 
 
 Native word readings belong to Ki'i'chek. Borrow the writing system's structure and compositional practices without importing Maya words, deities or calendars as Thalornan vocabulary.
 
-## Ankaris Regions—Mídhalión & West
+## Ankaris Regions—Midhalión & West
 
 | Region                                                               | Terran Analog                                                             |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -89,7 +89,7 @@ Native word readings belong to Ki'i'chek. Borrow the writing system's structure 
 
 | Region                          | Terran Analog           |
 | ------------------------------- | ----------------------- |
-| [[place-midhalnrgn\|Mídhalión]] | The Mediterranean basin |
+| [[place-midhalnrgn\|Midhalión]] | The Mediterranean basin |
 
 ## Zerathia
 

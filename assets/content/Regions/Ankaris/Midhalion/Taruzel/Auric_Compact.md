@@ -46,13 +46,13 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A letter of credit under the Auric Compact's seal is accepted as currency across [[place-midhalnrgn|Mídhalión]], and a contract that carries the seal binds as tightly as any court order. That seal is how most people meet the most powerful institution in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—more powerful, in practice, than the [[affiliation-grandcouncil|Grand Council]] it nominally serves. The Compact is a cartel of banking houses, trading firms and commodity brokers, and it controls the flow of capital that Taruzelian commerce runs on. Ships sail because the Compact finances them, cargoes move because it insures them, and governments function because it lends to them.
+A letter of credit under the Auric Compact's seal is accepted as currency across [[place-midhalnrgn|Midhalión]], and a contract that carries the seal binds as tightly as any court order. That seal is how most people meet the most powerful institution in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—more powerful, in practice, than the [[affiliation-grandcouncil|Grand Council]] it nominally serves. The Compact is a cartel of banking houses, trading firms and commodity brokers, and it controls the flow of capital that Taruzelian commerce runs on. Ships sail because the Compact finances them, cargoes move because it insures them, and governments function because it lends to them.
 
 Kind
 : merchant guild in banking, trade finance and commodity markets
 
 Reach
-: the Confederation, with agents across Mídhalión
+: the Confederation, with agents across Midhalión
 
 Headquarters
 : [[affiliation-besikar|Besikar]]

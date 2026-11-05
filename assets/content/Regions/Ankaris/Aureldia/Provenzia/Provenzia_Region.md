@@ -54,7 +54,7 @@ can. Three of the named fields have a battle on record: [[place-bldfldtiravlen|B
 
 Provenzian society blends Vylarian sophistication with Élavendren mysticism. The cities are architectural marvels—marble buildings, grand amphitheaters, intricate aqueducts, and soaring towers that reflect both the legacy of the Vylarian Empire and the aesthetic sensibilities of the Provenzians themselves. The cities function as independent or semi-independent polities, each with its own character: some are ruled by hereditary nobility, others by elected councils of wealthy citizens, and a few by powerful guilds of merchants or artisans.
 
-The Provenzians are known across the [[place-midhalnrgn|Mídhalión Region]] for their intellectual pursuits and artistic achievements. Philosophy, art, architecture, music, and theater thrive here. The region produces acclaimed painters, sculptors, playwrights, and natural philosophers. The Provenzian tradition of courtly love—an elaborate social code governing romantic relationships, patronage, and artistic expression—has influenced manners and literature across the Vylarian Sea region.
+The Provenzians are known across the [[place-midhalnrgn|Midhalión Region]] for their intellectual pursuits and artistic achievements. Philosophy, art, architecture, music, and theater thrive here. The region produces acclaimed painters, sculptors, playwrights, and natural philosophers. The Provenzian tradition of courtly love—an elaborate social code governing romantic relationships, patronage, and artistic expression—has influenced manners and literature across the Vylarian Sea region.
 
 Education is highly valued. Provenzia is home to several renowned academies and schools of learning that attract students from across Ankaris, covering subjects from natural philosophy and mathematics to rhetoric, law, and the magical arts.
 
@@ -107,7 +107,7 @@ The Courtly Tradition
 : Provenzia's elaborate social code of courtly love, patronage, and artistic expression, which has influenced culture across the Vylarian Sea region.
 
 The Vineyards
-: Provenzia's wines are famous across Mídhalión, and the wine trade is a cornerstone of the regional economy.
+: Provenzia's wines are famous across Midhalión, and the wine trade is a cornerstone of the regional economy.
 
 ## See Also
 

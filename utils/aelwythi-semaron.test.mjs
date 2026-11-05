@@ -120,7 +120,17 @@ test("fixed letter groups, case, contextual ny and stress have exact usable glyp
         assert.deepEqual(glyphProblems(native), [], source);
         assert.equal(decodeText(encoding, native), source);
     }
-    assert(encode("aé").findings.length, "a vowel group's stress belongs on its first vowel");
+    // An acute on a vowel group's second vowel starts a syllable there.
+    for (const [source, points] of [
+        ["aé", [0xf0230, 0xf0233, 0xe0114]],
+        ["ií", [0xf0237, 0xf0237, 0xe0114]],
+        ["oú", [0xf023d, 0xf0242, 0xe0114]],
+    ]) {
+        const written = encode(source);
+        assert.deepEqual(written.findings, [], source);
+        assert.equal(written.text, String.fromCodePoint(...points), source);
+        assert.equal(decodeText(encoding, written.text), source);
+    }
     const stress = outlines.glyph(0xe0114);
     assert.equal(stress.d, "");
     assert.equal(stress.advance, 0);

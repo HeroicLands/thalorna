@@ -18,7 +18,9 @@ def load(family):
 class Expectations(unittest.TestCase):
     def test_carved_length_and_doubling(self):
         model = load("pirzath")
-        self.assertEqual(model.expected_glyphs("dulák"), ["d", "u", "l", "a", "lengthmark", "k"])
+        self.assertEqual(model.expected_glyphs("dulák"), ["d", "u", "l", "a", "k"])
+        self.assertEqual(model.expected_glyphs("duláak"), ["d", "u", "l", "a", "lengthmark", "k"])
+        self.assertEqual(model.expected_glyphs("dulaak"), ["d", "u", "l", "a", "lengthmark", "k"])
         self.assertEqual(model.expected_glyphs("attha"), ["a", "t_h", "doubling", "a"])
         self.assertEqual(model.expected_glyphs("qq"), ["notdef.box", "notdef.box"])
 

@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]
       summary: >-
-        Patrician families overthrow the last Vylarian king and establish a Republic governed by a Senate of landed aristocrats. It grows steadily from a regional city-state into the dominant power of the Vylarian Sea, and within two and a half centuries controls significant territory across Mídhalión.
+        Patrician families overthrow the last Vylarian king and establish a Republic governed by a Senate of landed aristocrats. It grows steadily from a regional city-state into the dominant power of the Vylarian Sea, and within two and a half centuries controls significant territory across Midhalión.
       standing: attested
       where:
         locus: [place-vylariargn]
@@ -38,7 +38,7 @@ ended: we know the decade of the king's fall and nothing else about him.
 
 The patricians put government in the hands of the [[affiliation-seldan|Seldan]], a Senate of landed aristocrats, and the
 Republic grew steadily from a regional city-state into the dominant power of the
-[[place-vylarianse|Vylarian Sea]]. By 400 BF Vylaria held wide territory across [[place-midhalnrgn|Mídhalión]] and
+[[place-vylarianse|Vylarian Sea]]. By 400 BF Vylaria held wide territory across [[place-midhalnrgn|Midhalión]] and
 was a major economic and political force there. Its courts and its law grew with it, and the legal tradition it
 built is still adopted or adapted by courts across the continent. The era was one of expansion, legal innovation and,
 increasingly, strife at home: as Vylarian power grew, so did the ambitions of individual _kurthoi_ (senators) and successful

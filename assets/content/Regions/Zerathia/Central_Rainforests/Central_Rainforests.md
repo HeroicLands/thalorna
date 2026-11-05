@@ -21,7 +21,7 @@ Within the forests live peoples, traditions, and life-forms that the settled emp
 
 ## Geography
 
-The rainforests occupy an enormous equatorial belt—wider east-to-west than either [[place-aureldirgn|Aureldia Region]] or [[place-midhalnrgn|Mídhalión Region]], and deeper north-to-south than most Ankarian cartographers are prepared to admit. The canopy is continuous for hundreds of miles at a time, closing over rivers, clearings, and the handful of ancient trails that thread through the interior.
+The rainforests occupy an enormous equatorial belt—wider east-to-west than either [[place-aureldirgn|Aureldia Region]] or [[place-midhalnrgn|Midhalión Region]], and deeper north-to-south than most Ankarian cartographers are prepared to admit. The canopy is continuous for hundreds of miles at a time, closing over rivers, clearings, and the handful of ancient trails that thread through the interior.
 
 Several great rivers drain the region. Most flow north toward the [[place-vylarianse|Vylarian Sea]], cutting gorges through the highland spurs that descend from the northern crescent; others flow south into seasonally flooded wetlands that eventually give way to the savannah. These rivers are the region's highways—such highways as exist—and the river tribes cluster along them. The interior between the rivers is effectively unmapped.
 

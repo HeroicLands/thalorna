@@ -360,7 +360,13 @@ const respellings = new Map([
             ["rhandug", "randug"],
         ],
     ],
-    [notePath("skill-nordmalng"), [["gnuldurthann", "gnuldurvir"]]],
+    [
+        notePath("skill-nordmalng"),
+        [
+            ["gnuldurthann", "gnuldurvir"],
+            ["mídhalión", "midhalión"],
+        ],
+    ],
     [
         notePath("skill-varokhlng"),
         [

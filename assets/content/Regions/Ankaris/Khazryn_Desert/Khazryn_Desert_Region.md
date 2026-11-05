@@ -33,7 +33,7 @@ Before dawn a rider sits on a ridge above a spring that no caravan has marked on
 
 The Khazryn measures about 2,350 miles from west to east and 1,400 from north to south, desert and dry grassland from the forests of [[place-velanthrgn|Velanthia]] to the mountain passes of [[place-tantsouregin|Tantsou]], north of the [[place-dunharargn|Dunhara Region]] and the [[place-vedyarargn|Vedyara Region]]. About 3,000,000 people live in it, most of them crowded into a narrow strip at the foot of the mountains, so that the rest is a waste of sand, stone and thin grass where you can ride for a week and meet nobody. Cities rose and died in that waste before anyone wrote them down, and their ruins still stand in it.
 
-One road crosses it. [[lore-celestialroad|The Celestial Road]] carries the silk of Tantsou west and the silver of [[place-midhalnrgn|Mídhalión]] east, on camels only, and the independent tribes through whose ranges it runs sell passage over it a stretch at a time. The crossing takes more than four months. That price, and the fortunes it makes, are what outsiders remember the Khazryn for.
+One road crosses it. [[lore-celestialroad|The Celestial Road]] carries the silk of Tantsou west and the silver of [[place-midhalnrgn|Midhalión]] east, on camels only, and the independent tribes through whose ranges it runs sell passage over it a stretch at a time. The crossing takes more than four months. That price, and the fortunes it makes, are what outsiders remember the Khazryn for.
 
 ## Scale and Sub-regions
 

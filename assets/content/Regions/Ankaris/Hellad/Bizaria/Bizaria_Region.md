@@ -78,7 +78,7 @@ The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vyla
 
 Bizaria lives on transfer. Eastern goods come down the passes and the Dunhara road to Karvashion, cross the plateau to Krusteikhos, where they are banked, and descend to Nesthiros or Krisamar to be shipped west. Western goods make the journey in reverse. The League takes its cut at every step, and the [[lore-vylrncrncy|Vylarian currency]] and the paper-script of the [[affiliation-danvar|Danvar]] make the whole system liquid.
 
-The region's own exports are the silver of Argirteikhos, the iron, arms and metalwork of Órashion, the ceramics and leather of Bizaris, the silks its weavers finish from eastern thread, and the wool, hides and horses of the plateau. It imports grain from Velanthia and the coast of Mídhalión, timber for its shipyards, and the luxuries of every market it sells to.
+The region's own exports are the silver of Argirteikhos, the iron, arms and metalwork of Órashion, the ceramics and leather of Bizaris, the silks its weavers finish from eastern thread, and the wool, hides and horses of the plateau. It imports grain from Velanthia and the coast of Midhalión, timber for its shipyards, and the luxuries of every market it sells to.
 
 ## Relations with Neighboring Regions
 
@@ -90,7 +90,7 @@ To the east, beyond Argirteikhos's passes, lies the [[place-khzryndsrtrgn|Khazry
 
 To the south, along the whole of the League's southern border, lies the Kingdom of Amradad, which holds the eastern shore of the Vylarian Sea, and beyond it the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March. Off the League's short coast to the south lie the islands of [[affiliation-cnfdrtntrzlnstts|Taruzel]], the League's great rival at sea.
 
-Across the sea beyond the Taruzelian islands lie the coasts of [[place-xerathia|Zerathia]], with which Nesthiros's captains have traded for a thousand years; the League's coast and the sea it faces belong to [[place-midhalnrgn|Mídhalión]].
+Across the sea beyond the Taruzelian islands lie the coasts of [[place-xerathia|Zerathia]], with which Nesthiros's captains have traded for a thousand years; the League's coast and the sea it faces belong to [[place-midhalnrgn|Midhalión]].
 
 ## See Also
 

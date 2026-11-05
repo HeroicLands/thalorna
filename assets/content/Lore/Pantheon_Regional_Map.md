@@ -13,7 +13,7 @@ One item of interest is that many of the gods called the god/goddess of dreams a
 
 ## [[affiliation-arldnpnthn|Aureldian Pantheon]]
 
-The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[place-midhalnrgn|Mídhalión]]. Originally supported through its twelve distinct faiths as state religions of the [[affiliation-vylarinmpr|Vylarian Empire]], it spread throughout the empire's territories and persists even where imperial control has faded.
+The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[place-midhalnrgn|Midhalión]]. Originally supported through its twelve distinct faiths as state religions of the [[affiliation-vylarinmpr|Vylarian Empire]], it spread throughout the empire's territories and persists even where imperial control has faded.
 
 **Primary regions:**
 

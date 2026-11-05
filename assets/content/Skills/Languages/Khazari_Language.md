@@ -13145,8 +13145,8 @@ data:
     - {name: zugán, tongue: khazari, built: [z-g-n, deed]}
     - {name: Ankaris Continent, tongue: translation}
     - {name: Aureldia Region, tongue: translation}
-    - {name: Mídhalión Region, tongue: translation}
-    - {name: mídhalión, tongue: human}
+    - {name: Midhalión Region, tongue: translation}
+    - {name: midhalión, tongue: human}
     - {name: zerathia, tongue: human}
   tongues:
     - {tag: khazari, meaning: a Khazari name, language: skill-khazarlng}
@@ -13173,7 +13173,7 @@ Khazari is a tongue of the Elder family. Fluency measures the sophistication of 
 
 Khazari is the language of the **[[lore-flkkhazar|Khazari]]** (known in human legends as "dwarves"), the second of the Elder Races and one of the oldest peoples on [[place-worldthlrn|Thalorna]]. The Khazari are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, spoken only in isolated mountain strongholds and passed down within closely-guarded family traditions.
 
-To the human ear, Khazari sounds hard and percussive: short, consonant-heavy words that crack and resound like hammer-blows on stone. There are few long vowels and few flowing transitions. The language runs on sharp stops, rolled liquids and back fricatives that carry along a passage. A Khazari speaker sounds strong and commanding even when speaking softly.
+To the human ear, Khazari sounds hard and percussive: short, consonant-heavy words that crack and resound like hammer-blows on stone. There are no long vowels and few flowing transitions. The language runs on sharp stops, rolled liquids and back fricatives that carry along a passage. A Khazari speaker sounds strong and commanding even when speaking softly.
 
 What makes the language strange to a human ear is not its sound but its build. A Khazari word is not a stem with endings glued on. It is a **skeleton of three consonants**, carrying the meaning, into which a **frame of vowels** is poured, carrying the grammar. The same three consonants yield the stone, the mason, the quarrying and the quarry, and a word never heard before is still readable from its skeleton. Where a human tongue makes a new word by hanging a piece on the end of an old one, Khazari makes it by pouring a different frame through the same skeleton.
 
@@ -13181,7 +13181,7 @@ What makes the language strange to a human ear is not its sound but its build. A
 
 Khazari is short and hard, a stone-cutter's tongue. Most of its words have two syllables, many have one, and few have three; nearly every word ends on a consonant.
 
-**The vowels.** _a_ most often, then _u_ and _i_. _e_ and _o_ are rare: they stand in a few short grammar words (_ves_, _vog_, _tob_, _bep_), in the gender and plural endings _-ev_, _-od_ and _-ez_, and in the two rarer given-name charges, and never in a frame. One acute marks a stressed final syllable, as in _dulák_.
+**The vowels.** _a_ most often, then _u_ and _i_. _e_ and _o_ are rare: they stand in a few short grammar words (_ves_, _vog_, _tob_, _bep_), in the gender and plural endings _-ev_, _-od_ and _-ez_, and in the two rarer given-name charges, and never in a frame. An acute marks a stressed last syllable, as in _dulák_.
 
 **The consonants.** The plain stops lead: _b_, _d_, _g_ and _k_ most, then _t_ and _p_. _l_, _r_, _m_, _n_, _z_ and _s_ are common. _th_, _dh_, _gh_ and _kh_ give the color and are used less, _th_ most often of them; _v_ and _f_ are rarer still. There is no _sh_.
 
@@ -13193,7 +13193,7 @@ Khazari is short and hard, a stone-cutter's tongue. Most of its words have two s
 
 **What Khazari leaves out.** No native word ends on a vowel except the particle _zi_, no part of a word has more than three syllables, and no frame has _e_ or _o_.
 
-**Said aloud.** In speech the short words come forward: the pronouns, the particles and the bare nouns are single blows, and the longer words fall between them with the stress where the acute stands. The gate-cry is three such blows and a built name, _Dalk. Bant. Tanv-guráz._ (DALK! BANT! TANV-gu-RÁZ!), and the toast at a finished work is two words that share their skeleton, _Bamur bamír._ (BAMUR ba-MÍR!), "the work is well made". More are in the [[skill-khazarlng#phrasebook|phrasebook]].
+**Said aloud.** In speech the short words come forward: the pronouns, the particles and the bare nouns are single blows, and the longer words fall between them with the stress where the acute stands. The gate-cry is three such blows and a built name, _Dalk. Bant. Tanv-guráz._ (DALK! BANT! tanv-gu-RÁZ!), and the toast at a finished work is two words that share their skeleton, _Bamur bamír._ (BAMUR ba-MÍR!), "the work is well made". More are in the [[skill-khazarlng#phrasebook|phrasebook]].
 
 ## Phonology
 
@@ -13205,13 +13205,13 @@ The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as sing
 
 ### Vowels
 
-Khazari has **five vowels**, and strongly prefers them short. _e_ and _o_ are rare and stand in no frame. A long vowel is written with an acute, is uncommon, and never occurs by accident: a long vowel is part of a grammatical frame and is always doing work. No word carries more than one, and no other mark is written.
+Khazari has **five vowels**, all short. _e_ and _o_ are rare and stand in no frame. Khazari has no long vowels and never writes a doubled _aa_, _ii_ or _uu_. The only mark it writes is the acute, which marks stress.
 
 Khazari has no diphthongs. Two vowels never stand together, because a native word ends on a consonant and a suffix that begins with a vowel follows it directly.
 
 ### Stress
 
-**Stress follows the spelling guide: a word of two syllables is stressed on the first, a longer word on the second-to-last, and an acute marks the last syllable when the rule would not choose it.** There are no exceptions and no secondary stresses, so any Khazari word can be said correctly on sight: _dalk_ (DALK), _Khalvan_ (KHAL-van), _Kavalan_ (ka-VA-lan), _dulák_ (du-LÁK). The two parts of a dashed name are each said by the rule: _dalk-thumár_ (DALK-thu-MÁR).
+**Stress follows [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of one syllable is stressed on it, a word of two syllables on the first, a longer word on the second-to-last, and an acute marks a stressed syllable the rule would not choose.** The acute changes only the stress, never the vowel. Khazari words are stressed by the rule or by an acute on the last syllable, so any Khazari word can be said correctly on sight: _dalk_ (DALK), _Khalvan_ (KHAL-van), _Kavalan_ (ka-VA-lan), _dulák_ (du-LÁK). A dashed name is read as one word with one stress, the acute on its second part: _dalk-thumár_ (dalk-thu-MÁR).
 
 ### Clusters
 
@@ -13479,7 +13479,7 @@ Inscription tradition
 : Used for what must last—oaths, laws, tombs and the founding of a hold—cut into stone, metal, or wood
 
 Diacritical marks
-: A drilled dot over a vowel marks it long, and a short cut beneath a consonant marks it doubled. A dot divides words, a dash joins the two skeletons of a built name, a single cut along the grain ends a sentence, two such cuts, set before the words they govern, mark a command, and a short slanted cut marks a pause
+: A drilled dot over a vowel marks it long, a sign Khazari never cuts because it has no long vowels; a short cut beneath a consonant marks it doubled. A dot divides words, a dash joins the two skeletons of a built name, a single cut along the grain ends a sentence, two such cuts, set before the words they govern, mark a command, and a short slanted cut marks a pause
 
 Formality variants
 : More elaborate, decorative versions for monuments or sacred texts

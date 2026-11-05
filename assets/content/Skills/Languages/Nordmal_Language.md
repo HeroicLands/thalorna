@@ -6111,7 +6111,7 @@ data:
     - {name: gnaldurfjord, tongue: nordmal}
     - {name: norgaad, tongue: nordmal}
     - {name: logstevna, tongue: nordmal}
-    - {name: mídhalión, tongue: nordmal}
+    - {name: midhalión, tongue: nordmal}
     - {name: velva, tongue: nordmal}
     - {name: gudi, tongue: nordmal}
     - {name: gudja, tongue: nordmal}
@@ -6127,6 +6127,7 @@ data:
   retired:
     - {form: vatn, instead: vatan, why: "an Earth word"}
     - {form: hrafn, instead: hrafan, why: "an Earth word"}
+    - {form: mídhalión, instead: midhalión, why: "respelled with one acute"}
     - {form: aldr, instead: aldur, why: "an Earth word"}
     - {form: hringr, instead: hringur, why: "an Earth word"}
     - {form: brandr, instead: brandur, why: "an Earth word"}

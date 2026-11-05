@@ -7780,7 +7780,7 @@ The relationship to [[skill-nordmalng|Nordmal Language]] and [[skill-varokhlng|V
 
 Provenzal names reflect the culture's emphasis on beauty and emotional resonance. Given names are often chosen for their melodic quality as much as their meaning. Double names (Pál-ara, Bór-vel) are common among nobility, each part carrying meaning or honoring ancestors.
 
-Provenzal naming practices show greater acceptance of variation and personal choice than other Pelwar-speaking regions. A person might be known by multiple names in different contexts—a formal name, a merchant's name, and a sílador's name are all acceptable. Married women commonly retain their birth names rather than adopting their husband's, a practice unique among the [[place-midhalnrgn|Mídhalión cultures]].
+Provenzal naming practices show greater acceptance of variation and personal choice than other Pelwar-speaking regions. A person might be known by multiple names in different contexts—a formal name, a merchant's name, and a sílador's name are all acceptable. Married women commonly retain their birth names rather than adopting their husband's, a practice unique among the [[place-midhalnrgn|Midhalión cultures]].
 
 The tradition of "love names" is widespread: a person might grant an intimate friend or lover a special private name not used in public. Using a love name in public is a serious breach of intimacy.
 

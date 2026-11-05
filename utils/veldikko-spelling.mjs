@@ -167,13 +167,17 @@ function spellingRows(tongue) {
         add(v, ch("carrier", "y"), cm("carrier", "y"), "at: start");
         add(v, ch("y"), cm("y"));
     }
+    // An acute on the second letter of a held vowel or a diphthong starts a
+    // syllable there, so the pair is two vowels, the second on the carrier.
+    const acute = (v) => v.normalize("NFD").includes("\u0301");
     for (const [b1, v1s] of Object.entries(V))
         for (const [b2, v2s] of Object.entries(V)) {
             const long = b1 === b2 || (b1 === "e" && b2 === "ë");
-            if (!long && dip.has(b1 + b2)) continue;
-            const to = long ? [b2, "long"] : [b1, "carrier", b2];
+            const joined = long || dip.has(b1 + b2);
             for (const x of v1s)
                 for (const y of v2s) {
+                    if (joined && !long && !acute(y)) continue;
+                    const to = long && !acute(y) ? [b2, "long"] : [b1, "carrier", b2];
                     add(x + y, ch("carrier", ...to), cm("carrier", ...to), "at: start");
                     add(x + y, ch(...to), cm(...to));
                 }

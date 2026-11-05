@@ -24,7 +24,7 @@ data:
 
 ## Overview
 
-Vylaria is the heartland of an empire that is smaller than its maps: a warm peninsula on the northern shore of the [[place-vylarianse|Vylarian Sea]], within the [[place-midhalnrgn|Mídhalión Region]], that once stood at the summit of civilization and still governs as though it did. It is the land of the [[affiliation-vylarinmpr|Vylarian Empire]] and of the independent [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. An outsider remembers it for three things: its steel, its roads, and its capital, [[place-orzara|Orzara]].
+Vylaria is the heartland of an empire that is smaller than its maps: a warm peninsula on the northern shore of the [[place-vylarianse|Vylarian Sea]], within the [[place-midhalnrgn|Midhalión Region]], that once stood at the summit of civilization and still governs as though it did. It is the land of the [[affiliation-vylarinmpr|Vylarian Empire]] and of the independent [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. An outsider remembers it for three things: its steel, its roads, and its capital, [[place-orzara|Orzara]].
 
 Vylaria lies east of [[place-tarvenirgn|Tarvénia]], west of [[place-heladrgn|Hellád]], south of [[place-velanthrgn|Velanthia]], and southeast of [[place-vrystwald|Vristwald]].
 
@@ -80,7 +80,7 @@ The River Vylaris
 [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
 : the independent Vylari-speaking kingdom
 
-[[place-midhalnrgn|Mídhalión Region]]
+[[place-midhalnrgn|Midhalión Region]]
 : the enclosing region
 
 [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]], [[place-salkhalon|Salkalon]]
@@ -101,5 +101,5 @@ The River Vylaris
 [[lore-vylarianclt|Vylarian]]
 : the people and their manners
 
-[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+[[lore-hstrymdhln|The History of Vylaria and Midhalión]]
 : the ages of the land, from the kings to the present

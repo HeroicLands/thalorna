@@ -125,7 +125,7 @@ The bodies
 
 The frame follows the road east and points beyond its end, each arc turning one strand of the choosing.
 
-1. **The strait.** The caravan makes up in Kudumel and Pashinar, where its road meets the frames of Mídhalión. [[scenario-mnthbfrrvw|The Month Before the Review]] runs the Confederation's month of reckoning on the same islands, and [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]] the empire's season across the water. Kudumel's cheap goods and Pashinar's Forgetting decide which masters sail with credit.
+1. **The strait.** The caravan makes up in Kudumel and Pashinar, where its road meets the frames of Midhalión. [[scenario-mnthbfrrvw|The Month Before the Review]] runs the Confederation's month of reckoning on the same islands, and [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]] the empire's season across the water. Kudumel's cheap goods and Pashinar's Forgetting decide which masters sail with credit.
 2. **The western gate.** At Mernagord the caravan meets Sunhema Karvemun's ambitions and Hemvanay's silence, and [[scenario-roadroundwall|The Road Round the Wall]] runs the march road the Descent opens onto, the one way a steppe host has taken into Vedyara.
 3. **The held cities.** The belt road runs through the cities the Atarzád hold, and past their strangest ground. [[scenario-drywellshirvn|The Well That Reads]] lies under the Vurinkarvem cliff, [[scenario-glassprincetbl|Twelve at the Glass Table]] and [[scenario-emptytowerdead|The Bearers of the Dark Moon]] near Ashkarad, and [[scenario-trenchprinces|Masks in the Dry Wash]] outside Zargandur. Off the road on the dry rim, [[scenario-knockvelkun|The Voice at the Barred Gate]] waits at [[place-vahurdash|Vahurdash]].
 4. **Kethramír and the mountain.** At the end of the road the spring caravans fill the yards, the guides' company rules on a cheat, and Kenbeshay's temple feeds more of the Tellumi quarter than the magistrate would like. The pilgrim track climbs from Kethramír to Beit-Shofár in three days, where the Council of the Twelve sits on the Prophet and the steppe.
@@ -187,4 +187,4 @@ The arcs run in the road's order or out of it, and each moves the choosing wheth
 : the road across the Khazryn whose southern spur ends at Kethramír
 
 [[scenario-mnthbfrrvw|The Month Before the Review]] · [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]
-: the frames of Mídhalión, across the strait the caravans start from
+: the frames of Midhalión, across the strait the caravans start from

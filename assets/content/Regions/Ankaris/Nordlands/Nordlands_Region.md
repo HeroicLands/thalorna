@@ -29,7 +29,7 @@ The Nordlands Region is the frozen north of the [[place-ankrscntnnt|Ankaris Cont
 
 The Nordlands occupy northwestern Ankaris, with [[place-aureldirgn|Aureldia]] to the southwest, [[place-vrystwald|Vristwald]] and [[place-velanthrgn|Velanthia]] to the south and east, and the open northern ocean off every coast. The coast decides everything else. Glaciers carved it into granite and basalt as a saw-toothed line of thousands of natural harbors, and the fjords run so far inland that each one is a sheltered road for a fleet. A ship goes where a cart cannot, and every settlement of any size stands where a keel can reach it.
 
-Behind the fjords the land climbs into mountain tracts of wind-scoured stone and ice. Few people travel or live there; the most reclusive clans keep to high plateaus where the caribou migrate. People on the coast tell of [[lore-flkkhazar|Khazari]] holds hidden in those mountains, and the tales are rumors, not neighbors anyone trades with. South and east of the mountains the ground settles into boreal forest of spruce and pine, cut by glacier-fed rivers that run south toward [[place-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast a chain of volcanic islands breaks the weather. Their hot springs and fertile volcanic soils make them coveted holdings, however far out they lie.
+Behind the fjords the land climbs into mountain tracts of wind-scoured stone and ice. Few people travel or live there; the most reclusive clans keep to high plateaus where the caribou migrate. People on the coast tell of [[lore-flkkhazar|Khazari]] holds hidden in those mountains, and the tales are rumors, not neighbors anyone trades with. South and east of the mountains the ground settles into boreal forest of spruce and pine, cut by glacier-fed rivers that run south toward [[place-midhalnrgn|Midhalión]] and east toward the frozen interior. Off the northwest coast a chain of volcanic islands breaks the weather. Their hot springs and fertile volcanic soils make them coveted holdings, however far out they lie.
 
 The climate is brutal by any Ankarian measure. Winter lasts for months and draws a near-total darkness over the far north; summer is short, flooded with light and violently alive. "You learn the land's moods young," the skipstjori says, "or you do not get old."
 
@@ -53,7 +53,7 @@ Between Nordheim and Vithgard lies [[place-hringstead|Hringstead]], neutral grou
 
 Fjord, mountain and ice do not grow food. The arable is a scatter of thin fields in sheltered valley bottoms, barley and oats in a summer that is over almost as soon as it starts, and it has never been enough. The region lives on the _sea_: sealing, fishing, whale ivory, furs, amber, and the ships that carry all of it. [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|the Ice-Edge and the Rookery]] follow the whale and the seal from the hunt to the lamp. The ships are the economy, and always have been.
 
-The longships are the north's great craft. They draw little enough water to run up any fjord or river and are seaworthy enough to cross open ocean. They carry amber, furs, whale ivory and iron south to the markets of Mídhalión and come home with wine, grain, silk and silver. When trade falls short, the same ships carry raiders, and the Nordmen draw no sharp line between the two voyages.
+The longships are the north's great craft. They draw little enough water to run up any fjord or river and are seaworthy enough to cross open ocean. They carry amber, furs, whale ivory and iron south to the markets of Midhalión and come home with wine, grain, silk and silver. When trade falls short, the same ships carry raiders, and the Nordmen draw no sharp line between the two voyages.
 
 ## Why They Raid
 
@@ -95,7 +95,7 @@ Aelwyth is the closest trading partner. The two face each other across some thre
 
 To the south and west lies [[place-aureldirgn|Aureldia]]: trading partner, theological rival, occasional victim of raids, and party to the Aelwythan syncretism that sets the Asguardian gods in an Aureldian landscape. To the south, the frontier with [[place-vrystwald|Vristwald]] is a long, wooded contest between Nordmen settlers and the [[lore-varokhiclt|Varokh]] tribes of the deep forest, where who built the last stockade matters more than any formal rule. To the east is [[place-grkrhlmrgn|Grukarholm]], home of the Grukar. The two peoples share a climate and a martial temper and nothing else. Grukar raids on the coastal settlements are a perennial problem, and Nordmen punitive expeditions into Grukar country are the recurring answer.
 
-Far to the south, Mídhalión is the great market. Nordmen traders and mercenaries are a familiar sight in every Vylarian port, and a good share of the north's silver is earned under southern skies.
+Far to the south, Midhalión is the great market. Nordmen traders and mercenaries are a familiar sight in every Vylarian port, and a good share of the north's silver is earned under southern skies.
 
 ## What the Skalds Count
 

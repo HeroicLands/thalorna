@@ -16,7 +16,7 @@ data:
 
 "Your master's name opens the door," a guild examiner of Bizaris tells a journeyman who has arrived with a letter of introduction, "and what you made opens the workshop."
 
-Bizaris is the foremost artisan quarter and craft hub of the [[affiliation-byzarianlg|Bizarian League]], though its exact location has shifted historically as it has expanded from a small workshop district into a substantial city-state in its own right. The name comes from the ancient Bizarian word _bizur_, meaning "the place of making" or "the workshop." About 30,000 people live in it, and it is known across the eastern part of the [[place-midhalnrgn|Mídhalión Region]] for the quality and innovation of its craftspeople.
+Bizaris is the foremost artisan quarter and craft hub of the [[affiliation-byzarianlg|Bizarian League]], though its exact location has shifted historically as it has expanded from a small workshop district into a substantial city-state in its own right. The name comes from the ancient Bizarian word _bizur_, meaning "the place of making" or "the workshop." About 30,000 people live in it, and it is known across the eastern part of the [[place-midhalnrgn|Midhalión Region]] for the quality and innovation of its craftspeople.
 
 ## Workshops and Guilds
 

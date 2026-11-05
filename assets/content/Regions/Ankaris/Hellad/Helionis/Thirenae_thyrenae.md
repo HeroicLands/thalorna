@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Thirenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation from which the [[affiliation-ordoarcanis|Thordimalon]] grew. Its academies are the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students cross [[place-midhalnrgn|Mídhalión]] to attend them. About 610,000 people live under its council, and 60,000 of them live in the city of [[place-thyrenae2|Thirenae]], its seat.
+Thirenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation from which the [[affiliation-ordoarcanis|Thordimalon]] grew. Its academies are the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students cross [[place-midhalnrgn|Midhalión]] to attend them. About 610,000 people live under its council, and 60,000 of them live in the city of [[place-thyrenae2|Thirenae]], its seat.
 
 Patron deity
 : [[lore-marendasdty|Marendas]], goddess of knowledge and wisdom

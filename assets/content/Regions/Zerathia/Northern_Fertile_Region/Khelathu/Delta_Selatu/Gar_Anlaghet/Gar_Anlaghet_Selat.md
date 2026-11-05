@@ -25,7 +25,7 @@ Gar-Anlaghet Selat is the land of [[affiliation-selatgrnlght|the Selat of Gar-An
 
 If the delta is the empire's purse, Gar-Anlaghet is the mouth of it. The selat is a country of quays and counting-houses, foreign quarters and bonded warehouses, a hundred languages on the dockside and a fortune changing hands every hour. It grows hardly any of its own bread and mints comparatively little of its own coin; its genius is moving other people's goods and taking a fee on every transaction.
 
-Outward from the port go grain, papyrus, linen, gold and the empire's artisan work. Inward come timber, metals, spices, wine and the luxury goods of the [[place-midhalnrgn|Mídhalión Region]]. Beyond the quays, the marshes yield fish, fowl, salt and papyrus, and the selat's share of the garden coast grows wine and oil for export. West along the garden strip lie the villas of the merchant-princes, and the [[affiliation-garhalzi|Gar-Hálzi]] banking-houses and bonded warehouses of the waterfront keep the accounts of all of it.
+Outward from the port go grain, papyrus, linen, gold and the empire's artisan work. Inward come timber, metals, spices, wine and the luxury goods of the [[place-midhalnrgn|Midhalión Region]]. Beyond the quays, the marshes yield fish, fowl, salt and papyrus, and the selat's share of the garden coast grows wine and oil for export. West along the garden strip lie the villas of the merchant-princes, and the [[affiliation-garhalzi|Gar-Hálzi]] banking-houses and bonded warehouses of the waterfront keep the accounts of all of it.
 
 ## Settlements
 

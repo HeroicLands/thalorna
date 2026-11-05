@@ -3,7 +3,7 @@ shortcode: bethuanflt
 name: {full: The Bethuan Fleet, en: [The Purple Warrant, The Veiled Sails, Navy of Bethua]}
 type: affiliation
 subType: governmental
-description: "The renowned navy of the Matriarchy of Bethua—a sea power of the Vylarian Sea's southern shore that punches far above its size, and the licensed privateer war it wages against Vylarian shipping under the crown's Purple Warrant, as the deniable maritime arm of Au'Khelathu's proxy strategy in Mídhalión."
+description: "The renowned navy of the Matriarchy of Bethua—a sea power of the Vylarian Sea's southern shore that punches far above its size, and the licensed privateer war it wages against Vylarian shipping under the crown's Purple Warrant, as the deniable maritime arm of Au'Khelathu's proxy strategy in Midhalión."
 tags: [military, navy, bethua, xerathia, maritime, privateers]
 data:
   icon: null
@@ -61,7 +61,7 @@ data:
 sohl: {system: {commonSkills: [bethunlng]}}
 ---
 
-The navy is the proudest arm of [[affiliation-mtrrchybth|Bethua]] and the instrument of its outsized place in the [[place-midhalnrgn|Mídhalión Region]]. A modest realm of three million souls has no business commanding the respect at sea that Bethua does—and yet a Bethuan war-galley is a known and unwelcome sight from the ports of [[place-helionis|Helionis]] to the archipelago of the [[place-taruzelrgn|Taruzel Region]], and the realm's captains are reckoned among the most aggressive sailors on the [[place-vylarianse|Vylarian Sea]]. The fleet is the reason a small southern-shore power can contest the trade of empires, and it is the sharpest edge of the bargain Bethua struck with the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: where the Khelathi navy guards the southern shore but rarely sails north for strategic purposes, the Bethuan fleet carries Khelathi interest into the northern sea-lanes that [[place-galezkara|Galezkara]]'s own ships will not enter.
+The navy is the proudest arm of [[affiliation-mtrrchybth|Bethua]] and the instrument of its outsized place in the [[place-midhalnrgn|Midhalión Region]]. A modest realm of three million souls has no business commanding the respect at sea that Bethua does—and yet a Bethuan war-galley is a known and unwelcome sight from the ports of [[place-helionis|Helionis]] to the archipelago of the [[place-taruzelrgn|Taruzel Region]], and the realm's captains are reckoned among the most aggressive sailors on the [[place-vylarianse|Vylarian Sea]]. The fleet is the reason a small southern-shore power can contest the trade of empires, and it is the sharpest edge of the bargain Bethua struck with the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: where the Khelathi navy guards the southern shore but rarely sails north for strategic purposes, the Bethuan fleet carries Khelathi interest into the northern sea-lanes that [[place-galezkara|Galezkara]]'s own ships will not enter.
 
 ## Place Among the Sea-Powers
 

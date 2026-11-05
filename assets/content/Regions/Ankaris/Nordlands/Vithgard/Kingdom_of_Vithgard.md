@@ -109,7 +109,7 @@ The truce says nothing of what becomes of Hrandstead when Glirvorv dies, and bot
 
 ## Whalers, Sealers and Craftsmen
 
-The people of Vithgard are renowned for whaling and sealing. The hunt produces the oil, bone, blubber and hides that are the kingdom's chief trade goods, and Vithgard whale-oil is prized across the north for lamps and waterproofing. Walrus and narwhal ivory commands high prices among craftsmen as far south as the [[place-midhalnrgn|Mídhalión Region]]. [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|the Ice-Edge and the Rookery]] follow both hunts from the water to the lamp.
+The people of Vithgard are renowned for whaling and sealing. The hunt produces the oil, bone, blubber and hides that are the kingdom's chief trade goods, and Vithgard whale-oil is prized across the north for lamps and waterproofing. Walrus and narwhal ivory commands high prices among craftsmen as far south as the [[place-midhalnrgn|Midhalión Region]]. [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|the Ice-Edge and the Rookery]] follow both hunts from the water to the lamp.
 
 The coast has trades that grow from the hunt. [[place-marvstead|Marvstead]]'s carvers turn tusk and antler into the goods that carry the kingdom's name south. [[place-knarvik|Knarvík]] reinforces a ship's ribs and strakes before a whaling run or a winter crossing. Dvarnvík keeps a harbor door that never bars a ship, and [[place-hnarvdal|Hnarvdal]] keeps the kingdom's oldest reckoning-post, notched every midwinter.
 

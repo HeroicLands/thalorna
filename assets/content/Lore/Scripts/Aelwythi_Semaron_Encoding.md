@@ -147,22 +147,6 @@ data:
       changes-sound: false
       changes-length: false
       vowel-group-position: first-vowel
-    vowel-groups:
-      reading: established
-      allow-splitting: false
-      unrecognized-adjacent-vowels: separate
-      groups:
-        - ai
-        - au
-        - ei
-        - oi
-        - ou
-        - ae
-        - ie
-        - uo
-        - aa
-        - ii
-        - uu
     diaeresis:
       allowed: false
     contextual-mappings:
@@ -207,9 +191,12 @@ stored or inferred by this encoding.
 
 An acute marks stress only. Each acute vowel writes its base vowel followed
 by the font's non-printing STRESS modifier. It changes neither sound nor
-length. In a recognized vowel group, the acute belongs on its first vowel.
-The listed groups retain their established readings; other adjacent vowels
-are sounded separately. Neither diaeresis nor grave accents are used.
+length. An acute on the first vowel of a vowel group stresses the group. An
+acute on its second vowel starts a syllable there, as
+[[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so aé writes ANKRON, ELZA
+and STRESS: the two vowels with the modifier after the second. Each vowel
+takes its own sign, in a group or apart. Neither diaeresis nor grave accents
+are used.
 
 ## Word spelling
 

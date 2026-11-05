@@ -75,7 +75,7 @@ The east bank is a patchwork of named quarters, grown rather than planned, strun
 : the bureau district: the treasuries, the Genzet'Palu council hall, the great scribal schools, and the archives where the empire's paperwork lives.
 
 [[place-amqelger|Amqel-Ger]] ("the **Great Quay**")
-: the working riverfront downstream of Qelt-Ge, with its docks and warehouses, the [[affiliation-garhalzi|Gar-Hálzi]] banking houses, the [[affiliation-zebequzut|Zebeku'Zut]] merchant halls, and the foreign shore where [[lore-taruzelianclt|Taruzelian]] factors and factors from the [[place-midhalnrgn|Mídhalión Region]] keep their compounds.
+: the working riverfront downstream of Qelt-Ge, with its docks and warehouses, the [[affiliation-garhalzi|Gar-Hálzi]] banking houses, the [[affiliation-zebequzut|Zebeku'Zut]] merchant halls, and the foreign shore where [[lore-taruzelianclt|Taruzelian]] factors and factors from the [[place-midhalnrgn|Midhalión Region]] keep their compounds.
 
 [[place-lutlemu|Lut-Lemu]] ("the **Place of Craftsmen**")
 : the artisan quarters of coppersmiths, potters, faience-makers, weavers and woodworkers, loud and smoky and kept downstream and downwind.
@@ -129,7 +129,7 @@ Justice runs in tiers below the Zeglar. A magistrate's court, the local Genzet, 
 
 The capital's near half-million sort into a steep pyramid. At the top a thin crust of priests, nobles, senior scribes and court officials lives in the walled mansions of Zu-Leri and on the temple estates. Below them is a broad middle of artisans, traders, lesser scribes and temple servants, and at the base the great mass of laborers, porters, boatmen, market folk and the poor of the low warrens. The one ladder between the layers is the scribal school: a clever child of any birth who masters [[skill-qalzscrscrpt|Qalezu]] can rise into the administration, and the capital draws the ambitious of the whole empire to try. Women hold property, trade, plead in the Genzet and serve as priestesses here as everywhere in Au'Khelathu, and the capital has more women of independent means than anywhere else in the realm.
 
-Galezkara is also the most foreign-touched place in the interior. Taruzelian and Mídhalión factors keep walled compounds along the harbor in Amqel-Ger. Scholars from [[place-helionis|Helionis]] lodge near the temple libraries, among the few outsiders ever admitted to them. Southern traders, horse-dealers from the western grazing country, and the endless tribute delegations and pilgrims throng the markets in season. A little apart from all of them live the people of the Wazulet—the embalmers, coffin-makers and tomb-trade folk who cross each day to serve the dead at Zu-Gezer, and whom the rest of the city treats with the wary respect owed to those who handle corpses for a living.
+Galezkara is also the most foreign-touched place in the interior. Taruzelian and Midhalión factors keep walled compounds along the harbor in Amqel-Ger. Scholars from [[place-helionis|Helionis]] lodge near the temple libraries, among the few outsiders ever admitted to them. Southern traders, horse-dealers from the western grazing country, and the endless tribute delegations and pilgrims throng the markets in season. A little apart from all of them live the people of the Wazulet—the embalmers, coffin-makers and tomb-trade folk who cross each day to serve the dead at Zu-Gezer, and whom the rest of the city treats with the wary respect owed to those who handle corpses for a living.
 
 ## Water, Bread, and Fire
 

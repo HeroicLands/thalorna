@@ -99,38 +99,30 @@ data:
     cH: [T_MIN, S_MIN, H_MIN]
     Ch: [T_MAJ, S_MIN, H_MIN]
     CH: [T_MAJ, S_MIN, H_MIN]
+    eí: [E_MIN, I_MIN]
+    eÍ: [E_MIN, I_MAJ]
+    Eí: [E_MAJ, I_MIN]
+    EÍ: [E_MAJ, I_MAJ]
+    oú: [O_MIN, U_MIN]
+    oÚ: [O_MIN, U_MAJ]
+    Oú: [O_MAJ, U_MIN]
+    OÚ: [O_MAJ, U_MAJ]
     ei: LONG_E_MIN
-    eí: LONG_E_MIN
     eI: LONG_E_MIN
-    eÍ: LONG_E_MIN
     éi: LONG_E_MIN
-    éí: LONG_E_MIN
     éI: LONG_E_MIN
-    éÍ: LONG_E_MIN
     Ei: LONG_E_MAJ
-    Eí: LONG_E_MAJ
     EI: LONG_E_MAJ
-    EÍ: LONG_E_MAJ
     Éi: LONG_E_MAJ
-    Éí: LONG_E_MAJ
     ÉI: LONG_E_MAJ
-    ÉÍ: LONG_E_MAJ
     ou: LONG_O_MIN
-    oú: LONG_O_MIN
     oU: LONG_O_MIN
-    oÚ: LONG_O_MIN
     óu: LONG_O_MIN
-    óú: LONG_O_MIN
     óU: LONG_O_MIN
-    óÚ: LONG_O_MIN
     Ou: LONG_O_MAJ
-    Oú: LONG_O_MAJ
     OU: LONG_O_MAJ
-    OÚ: LONG_O_MAJ
     Óu: LONG_O_MAJ
-    Óú: LONG_O_MAJ
     ÓU: LONG_O_MAJ
-    ÓÚ: LONG_O_MAJ
     –: []
     "-": []
   rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
@@ -147,7 +139,7 @@ This encoding writes [[skill-valtarlng|Valtari]] in helonika-book. A passage sel
 - **_ch_ is three letters.** The script has no _c_, so _ch_ is written _t_, _s_, _h_.
 - **_ph_ is the letter _f_.**
 - **_y_ is the letter _i_ and _w_ the letter _u_**, as glides and as vowels alike.
-- **An acute vowel is the plain vowel.** Helonic writes no accent.
+- **An acute vowel is the plain vowel.** Helonic writes no accent. An acute on the second letter of _ei_ or _ou_ starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _eí_ is the letters _e_ and _i_.
 - **A diaeresis vowel is the plain vowel**, so it never joins the vowel before it into _ē_ or _ō_.
 - **A doubled vowel is two letters.** Helonic writes no length.
 - **_q_ is the letter _k_.** The script has no _q_.

@@ -527,7 +527,7 @@ Kiroba is a reserved and introspective individual, deeply connected to the spiri
 
 While he is generally calm and even-tempered, Kiroba is also prone to sudden bursts of intensity, especially when his visions or spiritual instincts are challenged. He is steadfast in his dedication to the well-being of his tribe and will go to great lengths, including making personal sacrifices, to protect them from both physical and spiritual threats.
 
-Kiroba is cautious of outsiders and does not trust easily, particularly those from southern [[place-midhalnrgn|Mídhalión]] or the Matriarchy of Bethua, whom he perceives as disconnected from the natural balance. His spiritual experiences have made him somewhat of a loner, as few truly understand the depth of his connection to the spirit world.
+Kiroba is cautious of outsiders and does not trust easily, particularly those from southern [[place-midhalnrgn|Midhalión]] or the Matriarchy of Bethua, whom he perceives as disconnected from the natural balance. His spiritual experiences have made him somewhat of a loner, as few truly understand the depth of his connection to the spirit world.
 
 ### Strengths
 

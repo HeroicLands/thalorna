@@ -76,7 +76,7 @@ Within the region, the three polities operate an intricate overlapping network o
 
 ## Relations with Neighboring Regions
 
-To the **north**, across the Vylarian Sea, lies the [[place-midhalnrgn|Mídhalión trade zone]], which the region shares with Ankaris. The Khelathi and Bethuan ports are fully integrated into this trade system; Okharis participates indirectly through its northern neighbors.
+To the **north**, across the Vylarian Sea, lies the [[place-midhalnrgn|Midhalión trade zone]], which the region shares with Ankaris. The Khelathi and Bethuan ports are fully integrated into this trade system; Okharis participates indirectly through its northern neighbors.
 
 To the **south** lies the Central Rainforests, whose tribes trade cautiously with the region through ritualized intermediaries. Khelathi merchants have maintained river-post relationships with the northernmost forest peoples for centuries; Okharik herders meet forest-edge peoples along their southern pastures during seasonal migrations; Bethua has the least interest in the forests and mostly ignores them.
 

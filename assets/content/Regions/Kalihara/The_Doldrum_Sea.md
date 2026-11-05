@@ -22,7 +22,7 @@ From the deck the horizon stands empty on every side, and the sky over it is whi
 
 A ship can lie motionless here for weeks, waiting for a wind that may be a month in coming. The water goes foul in the casks, the stores run short, and the crew sickens in the heat; masters put their people on short water the day the wind fails. A ship becalmed also drifts, and with no land in sight her master cannot tell how far she has gone until he raises a coast he knows.
 
-The reward is the westerly wind beyond. A master who crosses and finds it runs home before it and saves a week on the beat to windward. The masters who do not find it make up the one voyage in eight that the shipowners of [[place-midhalnrgn|Mídhalión]] build into their insurance rates.
+The reward is the westerly wind beyond. A master who crosses and finds it runs home before it and saves a week on the beat to windward. The masters who do not find it make up the one voyage in eight that the shipowners of [[place-midhalnrgn|Midhalión]] build into their insurance rates.
 
 ## See Also
 
@@ -32,5 +32,5 @@ The reward is the westerly wind beyond. A master who crosses and finds it runs h
 [[place-provenzrgn|Provenzia Region]]
 : the coast the westerly winds blow toward
 
-[[place-midhalnrgn|Mídhalión]]
+[[place-midhalnrgn|Midhalión]]
 : the ports that insure the voyage home

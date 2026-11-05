@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kassa Verris is an unremarkable woman, and works at it. She is of middling height and quiet, well-kept build, with brown hair graying at the temples bound up in the practical style of a working merchant, and pale gray eyes that miss very little. Her complexion is weathered from years along the wharves of the [[place-midhalnrgn|Mídhalión Region]] coast. She dresses as a prosperous trading factor or shipping agent in good worsted, nothing that draws the eye, and carries only a dagger, as any traveler might. People who deal with her find her warm, competent, and easy to talk to—and struggle, afterward, to recall much about her face.
+Kassa Verris is an unremarkable woman, and works at it. She is of middling height and quiet, well-kept build, with brown hair graying at the temples bound up in the practical style of a working merchant, and pale gray eyes that miss very little. Her complexion is weathered from years along the wharves of the [[place-midhalnrgn|Midhalión Region]] coast. She dresses as a prosperous trading factor or shipping agent in good worsted, nothing that draws the eye, and carries only a dagger, as any traveler might. People who deal with her find her warm, competent, and easy to talk to—and struggle, afterward, to recall much about her face.
 
 # Dossier {#dossier}
 
@@ -447,7 +447,7 @@ A Woman's Freedom in Bethua
 : Her sex lets her move through the matriarchy's ports, trade-houses, and counting-rooms with an ease no male agent could manage—served and trusted as a fellow merchant where a man would be watched.
 
 Cover and Misdirection
-: Passes through the ports of Mídhalión as a shipping factor, a customs agent, a creditor—whichever face the moment wants. Carries forged passes and letters of credit alike.
+: Passes through the ports of Midhalión as a shipping factor, a customs agent, a creditor—whichever face the moment wants. Carries forged passes and letters of credit alike.
 
 Coin as a Weapon
 : Commands a generous imperial purse and the authority to spend it. Much of what she accomplishes, she buys.

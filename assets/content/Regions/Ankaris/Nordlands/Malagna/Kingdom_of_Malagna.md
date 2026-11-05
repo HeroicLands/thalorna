@@ -91,7 +91,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 "Run your hand down that keel," a master shipwright at [[place-gnarthborg|Gnarthborg]] tells the Vylarian buyer he is walking along the slip, "and then ask me how it was cut." The buyer asks. The shipwright smiles and shows him the next hull. "Look at anything in this yard you like," he says later. "The clans that work here have never given up a hull's lines or a keel's proportions to a stranger, and your price is not the first one offered."
 
-The Kingdom of Malagna holds the land of [[place-malagna|Malagna]], and its crown is held by [[being-knghlrthni|King Hlurthann III]], acclaimed at the ting and seated at Gnarthborg. About 340,000 people live under him. Of all the [[lore-nordheimnclt|Nordmen]] realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of the [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world. An outsider knows it for its longships, the finest in the north.
+The Kingdom of Malagna holds the land of [[place-malagna|Malagna]], and its crown is held by [[being-knghlrthni|King Hlurthann III]], acclaimed at the ting and seated at Gnarthborg. About 340,000 people live under him. Of all the [[lore-nordheimnclt|Nordmen]] realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of the [[place-midhalnrgn|Midhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world. An outsider knows it for its longships, the finest in the north.
 
 ## How Malagna Is Ruled
 

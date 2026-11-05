@@ -22,9 +22,9 @@ data:
 
 ## Overview
 
-Taruzel Region is the archipelago in the eastern [[place-vylarianse|Vylarian Sea]] that lies off the coast of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], within the [[place-midhalnrgn|Mídhalión Region]]. It is the country of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]: five merchant city-states that won their independence from the [[affiliation-vylarinmpr|Vylarian Empire]] at sea twelve years ago and are governed, in everything but name, by the guilds that paid for the war. Some twelve million people live here, in great port cities, market towns, fishing villages and the tribal country of the island hills.
+Taruzel Region is the archipelago in the eastern [[place-vylarianse|Vylarian Sea]] that lies off the coast of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], within the [[place-midhalnrgn|Midhalión Region]]. It is the country of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]: five merchant city-states that won their independence from the [[affiliation-vylarinmpr|Vylarian Empire]] at sea twelve years ago and are governed, in everything but name, by the guilds that paid for the war. Some twelve million people live here, in great port cities, market towns, fishing villages and the tribal country of the island hills.
 
-An outsider remembers Taruzel for its harbors. It is the premier maritime region of the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its ports carry the trade between the Vylarian Sea, the caravan roads of the east and the southern shore of [[place-aukhelathrgq|Au'Khelathu]]; its bazaars, its cooking and its fleets are known in every port of Mídhalión. A newcomer has to be told the other half: the dock workers, fishermen, captains and tribal warriors who won the war were promised land, guild membership, pensions and a voice in the new government, and they received a discharge and a small purse of silver. The islands are free, prosperous and seething.
+An outsider remembers Taruzel for its harbors. It is the premier maritime region of the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its ports carry the trade between the Vylarian Sea, the caravan roads of the east and the southern shore of [[place-aukhelathrgq|Au'Khelathu]]; its bazaars, its cooking and its fleets are known in every port of Midhalión. A newcomer has to be told the other half: the dock workers, fishermen, captains and tribal warriors who won the war were promised land, guild membership, pensions and a voice in the new government, and they received a discharge and a small purse of silver. The islands are free, prosperous and seething.
 
 ## The Water and the Land
 
@@ -71,7 +71,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] keeps chapters in the major cities, 
 
 On paper the Confederation's Grand Council gives each city-state an equal voice, and the office of **Arch-Consul** rotates among the cities. In practice the Council's voting rules weight property, the wealthiest cities and their guilds decide its business, and the Arch-Consulship is more ceremonial than powerful. Three great guilds rule Taruzel in fact, and a traveler meets each of them differently:
 
-- The [[affiliation-auricompct|Auric Compact]], the banking cartel headquartered in Besikar, financed the war and holds the Confederation's debt. You meet it as a letter of credit accepted across Mídhalión, as a seal on a contract that binds like a court order, and—if you default—as an enforcer at the door.
+- The [[affiliation-auricompct|Auric Compact]], the banking cartel headquartered in Besikar, financed the war and holds the Confederation's debt. You meet it as a letter of credit accepted across Midhalión, as a seal on a contract that binds like a court order, and—if you default—as an enforcer at the door.
 - The [[affiliation-corsairleg|Corsair League]], the shipping cartel rooted in Yamuzel, grew out of the veterans of the Tamzir Shoals and is the Confederation's de facto navy. Its captains enjoy customs exemptions and the right to carry weapons in Taruzelian ports, and a ship that sails outside its umbrella meets port restrictions and the occasional "mistaken" confrontation at sea.
 - The [[affiliation-mrchntryvl|Merchantry of the Veil]] trades openly in luxury goods and secretly in information, and it moves the cargoes the other guilds will not touch. Its agents identify themselves by sigil rings and coded phrases, and its membership rolls are not public.
 
@@ -112,7 +112,7 @@ To the east, across the strait, lies the Kingdom of Amradad. Taruzel keeps cordi
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : The polity that holds this land
 
-[[place-midhalnrgn|Mídhalión Region]]
+[[place-midhalnrgn|Midhalión Region]]
 : The enclosing region
 
 [[place-vylariargn|Vylaria Region]]
@@ -136,5 +136,5 @@ To the east, across the strait, lies the Kingdom of Amradad. Taruzel keeps cordi
 [[lore-trzlncrncy|Taruzelian Currency]]
 : The region's coinage
 
-[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+[[lore-hstrymdhln|The History of Vylaria and Midhalión]]
 : The islands' centuries as a province and the war that ended them

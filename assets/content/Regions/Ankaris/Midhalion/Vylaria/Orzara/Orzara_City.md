@@ -17,7 +17,7 @@ data:
 
 > _"All roads are the [[affiliation-vylarinmpr|Empire]]'s roads, and every one of them runs home to Orzara."_—Vylarian proverb
 
-**Orzara**, the sovereign's city, which the whole west calls the Great City, is the capital of the Vylarian Empire, a city of nearly a million built to show the world an empire at its height, and kept that way, street by street, by an empire that is no longer there. It is the largest city in [[place-midhalnrgn|Mídhalión Region]] and in all of the western part of the [[place-ankrscntnnt|Ankaris Continent]]. With about **900,000 souls**, counting both those within the city proper and the sprawling outskirt communities pressed against it, it is outmatched only by the great cities of [[affiliation-tantsouempr|Empire of Tantsou]] far to the east and of the [[place-kiichchik|Ki'ich'chik]] peoples far to the west. To the ordinary subject of the western world it is simply **the Polis**, the City entire, the measure every other city falls short of, and in its own people's eyes the greatest city in [[place-worldthlrn|the World of Thalorna]].
+**Orzara**, the sovereign's city, which the whole west calls the Great City, is the capital of the Vylarian Empire, a city of nearly a million built to show the world an empire at its height, and kept that way, street by street, by an empire that is no longer there. It is the largest city in [[place-midhalnrgn|Midhalión Region]] and in all of the western part of the [[place-ankrscntnnt|Ankaris Continent]]. With about **900,000 souls**, counting both those within the city proper and the sprawling outskirt communities pressed against it, it is outmatched only by the great cities of [[affiliation-tantsouempr|Empire of Tantsou]] far to the east and of the [[place-kiichchik|Ki'ich'chik]] peoples far to the west. To the ordinary subject of the western world it is simply **the Polis**, the City entire, the measure every other city falls short of, and in its own people's eyes the greatest city in [[place-worldthlrn|the World of Thalorna]].
 
 It rises across a cluster of [[place-sixhillsvyl|six hills]] above the eastern bank of the [[place-vylarisrvr|River Vylaris]], the highest of them crowned by the citadel and the palace. From a distance it looks less like a settlement than a mountain range of marble, tile and gilded bronze, under the smoke of a hundred thousand hearths and the glittering domes of the [[affiliation-ordoarcanis|Thordimalon]]. Its people call themselves **Orzarans**, and they say the word as though it settles every argument.
 
@@ -297,7 +297,7 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 | **Name**              | Orzara, _the sovereign's city_; also the Great City                                                                                                                                                       |
 | **Demonym**           | Orzaran                                                                                                                                                                                                   |
 | **Nation**            | [[affiliation-vylarinmpr\|Vylarian Empire]]                                                                                                                                                               |
-| **Region**            | [[place-midhalnrgn\|Mídhalión]], western [[place-ankrscntnnt\|Ankaris]]                                                                                                                                   |
+| **Region**            | [[place-midhalnrgn\|Midhalión]], western [[place-ankrscntnnt\|Ankaris]]                                                                                                                                   |
 | **Population**        | About 900,000 (city and outskirts)                                                                                                                                                                        |
 | **Setting**           | The [[place-sixhillsvyl\|Six Hills]] on the eastern bank of the River Vylaris; the Inner City crowns the highest, [[place-arvel\|Arvel]]                                                                  |
 | **The Six Hills**     | Arvel (Inner City and Palace); Torvel and [[place-selvin\|Selvin]] (the Heights); Mernel (the Scholars'); Antel (the faded hill); Nerval (above the Wharves)                                              |
@@ -343,6 +343,6 @@ The city began on [[place-antel|Antel]], the Old Hill, where the [Vylarian Repub
 - [[place-sarkenaelzen|The Ashen Temple]]—the Black Flame's great temple in the Vanor
 - [[doc-vylrnctznshp|Vylarian Citizenship]]—the citizen, the resident and the dole
 - [[affiliation-ordoarcanis|Thordimalon]]—the arcane order on display here
-- [[place-midhalnrgn|Mídhalión]]—the region
+- [[place-midhalnrgn|Midhalión]]—the region
 - [[place-worldthlrn|The World of Thalorna]]
 - [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]—the campaign frame of the debt and the succession

@@ -23,7 +23,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 | Region                           | Population      |
 | -------------------------------- | --------------- |
-| [[place-midhalnrgn\|Mídhalión]]  | ~47,000,000     |
+| [[place-midhalnrgn\|Midhalión]]  | ~47,000,000     |
 | [[place-aureldirgn\|Aureldia]]   | ~11,000,000     |
 | [[place-khzryndsrtrgn\|Khazryn]] | ~3,000,000      |
 | [[place-dunharargn\|Dunhara]]    | ~3,000,000      |
@@ -33,7 +33,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | Other minor western regions      | ~5,000,000      |
 | **Western Ankaris subtotal**     | **~72,000,000** |
 
-**Within Mídhalión**, the west's demographic heart:
+**Within Midhalión**, the west's demographic heart:
 
 | Land                          | Population  |
 | ----------------------------- | ----------- |

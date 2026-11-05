@@ -125,18 +125,10 @@ data:
     oU: LONG_O_MIN
     Ou: LONG_O_MAJ
     OU: LONG_O_MAJ
-    oú: [LONG_O_MIN, ACCENT]
-    oÚ: [LONG_O_MIN, ACCENT]
-    Oú: [LONG_O_MAJ, ACCENT]
-    OÚ: [LONG_O_MAJ, ACCENT]
     óu: [LONG_O_MIN, ACCENT]
     óU: [LONG_O_MIN, ACCENT]
     Óu: [LONG_O_MAJ, ACCENT]
     ÓU: [LONG_O_MAJ, ACCENT]
-    óú: [LONG_O_MIN, ACCENT]
-    óÚ: [LONG_O_MIN, ACCENT]
-    Óú: [LONG_O_MAJ, ACCENT]
-    ÓÚ: [LONG_O_MAJ, ACCENT]
   rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
 ---
 
@@ -147,7 +139,7 @@ This encoding writes [[skill-byzarnlng|Bizarian]] in helonika-book. A passage se
 - **_kh_ and _zh_ are one letter each**, the eastern _kh_ and the buzzing _zh_ that Bizarian adds. A small letter is the minuscule and a capital the majuscule.
 - **_ei_ is two letters.** Bizarian has no long _e_, so _e_ and _i_ stand side by side. _ou_ is the long _o_.
 - **A doubled _aa_, _ii_ or _uu_ is the barred vowel**, one letter with a bar over it.
-- **An acute vowel is the vowel followed by the accent**, which Bizarian writes for stress.
+- **An acute vowel is the vowel followed by the accent**, which Bizarian writes for stress. An acute on the first letter of _ou_ writes the long _o_ followed by the accent; on the second letter it starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _oú_ is _o_ and then the accented _u_.
 - **A diaeresis vowel is the plain vowel**, so it never joins the vowel before it into _ō_.
 - **The other letters, the raised dot and the numerals are those of the Helónika Spelling**, as are its capitals: a capital is written only on a name and on the paragraph's first word.
 

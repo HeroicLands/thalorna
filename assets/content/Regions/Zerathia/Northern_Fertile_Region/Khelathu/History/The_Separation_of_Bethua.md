@@ -65,7 +65,7 @@ A trade-house factor in [[place-bethura|Bethura]] pays a bill with a Khelathi we
 
 Bethua began as a daughter-settlement of the Helonic peoples, planted on the southern shore of the [[place-vylarianse|Vylarian Sea]] and governed from across the water. About 2725 ST (615 AF) it fought a war of separation from that metropole. Bethua did not fight alone, and could not have: the queen [Meqes XI]{.name data-type="being/npc"} (2710 ST to 2738 ST) underwrote the war with Khelathi gold, with engineers, and with loans.
 
-The court at [[place-galezkara|Galezkara]] had its reasons. A free Bethua on the southern shore of the sea, aligned with the empire, would keep Helonic and Vylarian ambitions in [[place-midhalnrgn|Mídhalión]] divided and give the court a partner at sea without the cost of a navy. The instruments were the [[affiliation-garhalzi|Gar-Hálzi]] correspondents, the engineers of the temples, and the loans themselves.
+The court at [[place-galezkara|Galezkara]] had its reasons. A free Bethua on the southern shore of the sea, aligned with the empire, would keep Helonic and Vylarian ambitions in [[place-midhalnrgn|Midhalión]] divided and give the court a partner at sea without the cost of a navy. The instruments were the [[affiliation-garhalzi|Gar-Hálzi]] correspondents, the engineers of the temples, and the loans themselves.
 
 ## The Rebuilding
 
