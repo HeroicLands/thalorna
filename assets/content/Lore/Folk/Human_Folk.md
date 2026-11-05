@@ -15,7 +15,7 @@ on the customs of their people.
 
 The [[lore-pelwarpepl|Pelwar peoples]] include many of the human populations of
 [[place-ankrscntnnt|Ankaris]]. They speak several languages and belong to different kingdoms, tribes
-and cities. The [[lore-aelendnppl|Áelendan People]], the [[lore-nordheimnclt|Nordheimn]] and the [[lore-vylarianclt|Vylarian]] people share ancestry
+and cities. The [[lore-aelendnppl|Áelendan People]], the [[lore-nordheimnclt|Nordheimn]] and the [[lore-vylarianclt|Vilérian]] people share ancestry
 while maintaining distinct customs and loyalties.
 
 Human craft and learning carry traces of contact with the

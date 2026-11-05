@@ -70,7 +70,7 @@ events, and neither defers.
   the two disagree in a frontier village, and there never has been.
 
 _"How can you possibly believe both? They contradict!"_ is the outsider's objection, and it is
-made with some force by Au'Khelathu priests, by Vylarian factors, and by every foreign scholar who
+made with some force by Au'Khelathu priests, by Vilérian factors, and by every foreign scholar who
 has written the Okharics up. It does not concern the people it is addressed to in the slightest.
 
 The widow does not think she has a problem. She had the temple rite and she had the Bone-Reader,

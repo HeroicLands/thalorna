@@ -63,7 +63,7 @@ sohl: {system: {commonSkills: [bazhramis, korsadra]}}
 # terran_analog: "The sky-and-earth faith of the Eurasian steppe nomads: a sky-father over an earth-mother, shamans chosen by affliction and ordeal, exposure of the dead, and oaths sworn before the open sky. Supplies the shape only; no deity name, rite or object is carried over."
 ---
 
-The Open Sky is the old faith of the [[lore-sowidesclt|Sovidur]], the herding tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]]: a sky-father above, an earth-mother below, the shamans who stand between them, and the dead laid out with their faces upward so that the sky can find them. Nobody joins it. A child of the steppe belongs to the Open Sky as it belongs to its tribe, by being born under it, and the faith has no temple, no book and no priest who answers to anyone beyond the tribe's own wells.
+The Open Sky is the old faith of the [[lore-sowidesclt|Sovidur]], the herding tribes of the [[place-khzryndsrtrgn|Khazrin Desert Region]]: a sky-father above, an earth-mother below, the shamans who stand between them, and the dead laid out with their faces upward so that the sky can find them. Nobody joins it. A child of the steppe belongs to the Open Sky as it belongs to its tribe, by being born under it, and the faith has no temple, no book and no priest who answers to anyone beyond the tribe's own wells.
 
 Most riders call it nothing at all. "The Open Sky" is the caravan masters' name for it, after the phrase they hear at every bargain they strike on the steppe: sworn under open sky.
 

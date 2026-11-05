@@ -1,11 +1,11 @@
 ---
 shortcode: vylrnmltry
 name:
-  full: The Vylarian Military
-  en: [The Imperial Army of Vylaria, The Legions of the Orzas, The Legions]
+  full: The Vilérian Military
+  en: [The Imperial Army of Viléria, The Legions of the Orzas, The Legions]
 type: affiliation
 subType: venture
-description: "The Vylarian Empire's legion-based military—organized in two parallel tracks, the purchased-commission nobility and the pure-meritocracy career soldiery, bridged at the Vallar rank and bound together by an institutional culture that treats every junior noble as the pupil of his unit's senior centurion."
+description: "The Vilérian Empire's legion-based military—organized in two parallel tracks, the purchased-commission nobility and the pure-meritocracy career soldiery, bridged at the Vallar rank and bound together by an institutional culture that treats every junior noble as the pupil of his unit's senior centurion."
 tags: [organization, vylaria, military, imperial, overview]
 data:
   culture: vylarianclt
@@ -114,23 +114,23 @@ sohl: {system: {commonSkills: []}}
 
 Say a discharged veteran, drinking in a Watch-house tavern in [[place-orzara|Orzara]], explains the army to a nephew who leaves for the recruiting station in the morning. "There are two armies in every legion, lad, and they share a mess hall. One bought its rank and one earned it. You will serve in the one that earned it, and your first lesson is whom to listen to: the officer who outranks you, or the centurion who knows."
 
-That is the Vylarian military in a sentence, and the rest of this note fills in the arrangement.
+That is the Vilérian military in a sentence, and the rest of this note fills in the arrangement.
 
 ## At a Glance
 
-The legions are the [[affiliation-vylarinmpr|Vylarian Empire]]’s standing army. They operate in [[affiliation-vylarinmpr|Vylaria]] proper, the territory under direct imperial governance, and not in [[place-helionis|Helionis]], whose cities keep their own forces. They do _not_ freely operate in the [[place-aureldirgn|Aureldia Region]] or the [[place-byzariargn|Bizaria Region]], which have their own armies, nor in [[place-taruzelrgn|Taruzel]] since the secession, nor anywhere else outside imperial territory except by invitation or hire.
+The legions are the [[affiliation-vylarinmpr|Vilérian Empire]]’s standing army. They operate in [[affiliation-vylarinmpr|Viléria]] proper, the territory under direct imperial governance, and not in [[place-helionis|Helionis]], whose cities keep their own forces. They do _not_ freely operate in the [[place-aureldirgn|Aureldia Region]] or the [[place-byzariargn|Bizaria Region]], which have their own armies, nor in [[place-taruzelrgn|Taruzel]] since the secession, nor anywhere else outside imperial territory except by invitation or hire.
 
-The reigning **Orzas** (the Vylarian emperor) is the supreme commander. Operational command belongs to the **Dukran** at Orzara, who presides over the war council of the **Sodari Orzas**.
+The reigning **Orzas** (the Vilérian emperor) is the supreme commander. Operational command belongs to the **Dukran** at Orzara, who presides over the war council of the **Sodari Orzas**.
 
 ## Overview
 
-The Vylarian military is a legion-based army built on the founding principle that the empire is defined by its borders and the borders are defined by the legions that hold them. Every Vylarian schoolchild learns the four-word formula that opens the imperial military manual: _Zel orkaima thalentor uthrime_, "Beneath the eagle stand the borders." The legions made the empire and, until very recently, kept the territories its founders conquered.
+The Vilérian military is a legion-based army built on the founding principle that the empire is defined by its borders and the borders are defined by the legions that hold them. Every Vilérian schoolchild learns the four-word formula that opens the imperial military manual: _Zel orkaima thalentor uthrime_, "Beneath the eagle stand the borders." The legions made the empire and, until very recently, kept the territories its founders conquered.
 
 What sets the army apart, and what shapes nearly every story it appears in, is its **dual-track structure**. Two parallel rank hierarchies meet at a single, carefully controlled point. The **noble track** holds every formal officer rank from Kadel to Kamdor. A family buys each commission, with the price adjusted by its political standing, and military competence is welcome but not required. The **commoner track** holds every NCO and enlisted rank from Yunar to Hundar Maldor, and demonstrated capability alone fills it: no coin changes hands at any promotion. The two tracks share quarters, campaigns and casualty lists, and none of their qualifying criteria.
 
-The arrangement is the institution's open secret. The army's real operational capability rests in the meritocratic track, while the noble track supplies political legitimacy, court patronage and the families' continued investment in the imperial military. Any officer who has served long enough understands that the purchased-commission system buys aristocratic consent for a parallel meritocratic structure that the aristocracy could dismantle and does not, because dismantling it would mean losing every war the empire fought next. The Vylarians have lost wars under the system, most recently and disastrously the war that ended in the [[affiliation-vezakuni|Taruzelian secession]] twelve years ago, but they have won most of them.
+The arrangement is the institution's open secret. The army's real operational capability rests in the meritocratic track, while the noble track supplies political legitimacy, court patronage and the families' continued investment in the imperial military. Any officer who has served long enough understands that the purchased-commission system buys aristocratic consent for a parallel meritocratic structure that the aristocracy could dismantle and does not, because dismantling it would mean losing every war the empire fought next. The Vilérians have lost wars under the system, most recently and disastrously the war that ended in the [[affiliation-vezakuni|Taruzelian secession]] twelve years ago, but they have won most of them.
 
-The army's reach has shrunk a great deal over the empire's history. Two centuries ago the legions garrisoned and policed territory from the [[place-elavendre|Élavendren]] border to the Taruzelian islands, and today they operate only in Vylaria proper. The Aureldian kingdoms keep their own armies (knightly orders, royal retinues, town militias), the [[affiliation-byzarianlg|Bizarian League]] keeps its own city militias and a small standing force, and Taruzel has built its own navy and land forces since the secession. Aureldian and Bizarian nobles can still buy commissions in the Vylarian legions, and a few provincial nobles of _ankren_ (Silver) standing do so to gain imperial credentials. The reverse is rare, because Vylarian nobles seldom serve in non-imperial armies. The [Reformist Faction]{.name data-type="affiliation"} at court counts the legions' reduced geographic scope among its standing concerns, and the [Conservative Faction]{.name data-type="affiliation"} regards the empire's reduced military reach as the price of stability with the post-imperial commonwealth.
+The army's reach has shrunk a great deal over the empire's history. Two centuries ago the legions garrisoned and policed territory from the [[place-elavendre|Élavendren]] border to the Taruzelian islands, and today they operate only in Viléria proper. The Aureldian kingdoms keep their own armies (knightly orders, royal retinues, town militias), the [[affiliation-byzarianlg|Bizarian League]] keeps its own city militias and a small standing force, and Taruzel has built its own navy and land forces since the secession. Aureldian and Bizarian nobles can still buy commissions in the Vilérian legions, and a few provincial nobles of _ankren_ (Silver) standing do so to gain imperial credentials. The reverse is rare, because Vilérian nobles seldom serve in non-imperial armies. The [Reformist Faction]{.name data-type="affiliation"} at court counts the legions' reduced geographic scope among its standing concerns, and the [Conservative Faction]{.name data-type="affiliation"} regards the empire's reduced military reach as the price of stability with the post-imperial commonwealth.
 
 ## Unit Hierarchy
 
@@ -146,7 +146,7 @@ The organization runs from theater-level formations down to four-man fire teams,
 | **Masal**   | Squad / mess group                                | 8               | 2 _Kelani_                  | Masar     |
 | **Kelan**   | Fire team—the smallest tactical maneuver element  | 4               | —                           | Kelor     |
 
-The **Kelan** as the basic tactical element is a Vylarian doctrinal innovation that distinguishes the imperial army from earlier Aureldian and pre-conquest Taruzelian forces. A four-man team can carry out fire-and-movement on its own, and two teams in a _Masal_ support each other in alternating bounds. Field manuals credit the innovation to a long-dead military reformer, who may be real or invented, since the manuals disagree.
+The **Kelan** as the basic tactical element is a Vilérian doctrinal innovation that distinguishes the imperial army from earlier Aureldian and pre-conquest Taruzelian forces. A four-man team can carry out fire-and-movement on its own, and two teams in a _Masal_ support each other in alternating bounds. Field manuals credit the innovation to a long-dead military reformer, who may be real or invented, since the manuals disagree.
 
 ## The Two Tracks
 
@@ -177,11 +177,11 @@ The two careers run as one ladder of seniority, but each rank belongs to one tra
 | **Enlisted**       | **Vandor**        | Legionary; the common soldier       | Commoner—pure meritocracy       |
 | **Enlisted**       | **Yunar**         | Recruit, not yet sworn              | Commoner—pure meritocracy       |
 
-A young aristocrat buys a Kadel commission at fifteen, serves under his Vandraks's mentorship for two years, buys a Lusel commission at seventeen or eighteen and joins a legion as a junior officer. A common-born youth presents himself at a recruiting station, takes the legion's oath as a Yunar, completes a year of training to become a Vandor and begins the slow climb through demonstrated capability. He takes the oath no earlier than his fifteenth birthday and serves a full term of twenty years, and the commoner who completes it is discharged a **citizen of the Empire**, with the standing that status carries and the dole, a pension for life graded by the rank he held when he left (see [[doc-vylrnctznshp|Vylarian Citizenship]]). The pension is the promise of the legion. However bad the service, at the end of it a veteran is taken care of for life and has a say as a citizen, and a legionary thinks of his twenty years as saving up for his retirement. The promise is much of what draws recruits to the stations, and it is why the throne can neither cut the pension nor quietly shrink it without breaking faith with every man under arms. The two careers run side by side through the same legion's barracks, mess halls and engagements. They meet formally only at the **Vallar** position.
+A young aristocrat buys a Kadel commission at fifteen, serves under his Vandraks's mentorship for two years, buys a Lusel commission at seventeen or eighteen and joins a legion as a junior officer. A common-born youth presents himself at a recruiting station, takes the legion's oath as a Yunar, completes a year of training to become a Vandor and begins the slow climb through demonstrated capability. He takes the oath no earlier than his fifteenth birthday and serves a full term of twenty years, and the commoner who completes it is discharged a **citizen of the Empire**, with the standing that status carries and the dole, a pension for life graded by the rank he held when he left (see [[doc-vylrnctznshp|Vilérian Citizenship]]). The pension is the promise of the legion. However bad the service, at the end of it a veteran is taken care of for life and has a say as a citizen, and a legionary thinks of his twenty years as saving up for his retirement. The promise is much of what draws recruits to the stations, and it is why the throne can neither cut the pension nor quietly shrink it without breaking faith with every man under arms. The two careers run side by side through the same legion's barracks, mess halls and engagements. They meet formally only at the **Vallar** position.
 
 ## The Court Tier: Courtiers, Not Soldiers
 
-The highest formal commands in the Vylarian military are openly political. Family standing, loyalty to the Orzas's faction and political reliability decide who holds them. Military experience is welcome but not required, and an experienced soldier as Dukran is often mistrusted at court precisely because he could use his actual command to threaten the throne.
+The highest formal commands in the Vilérian military are openly political. Family standing, loyalty to the Orzas's faction and political reliability decide who holds them. Military experience is welcome but not required, and an experienced soldier as Dukran is often mistrusted at court precisely because he could use his actual command to threaten the throne.
 
 | Rank            | Role                                                            | Reality                                                                                                                                                                                                                                  |
 | --------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -211,13 +211,13 @@ The system's tactical effectiveness depends on one fact: young noble officers be
 | **Lusar Maldor** | 28–35 | Senior tribune, 2IC of a legion             | Operational deputy to the Vandraks. Often the legion's effective day-to-day commander when the Vandraks is a courtier appointment.                                                                                                                                            |
 | **Vandraks**     | 30+   | Legion commander                            | Frequently an ankren or ethlen appointment; political weight at least as important as tactical capacity. The legion's actual operational commander, but reliant on the Lusar Maldor and the Vallar for execution.                                                             |
 
-The critical relationship is between the **Lusel**, an 18-year-old aristocrat who technically outranks every commoner in the legion, and the **Hundar Maldor**, a 50-year-old senior centurion who has held the legion's combat doctrine in his head for thirty years. The Lusel's commission says he is the Hundar Maldor's superior. Every unwritten rule of the Vylarian army says he should treat the Hundar Maldor's counsel as binding unless he has an extraordinarily good reason not to. An Lusel who issues operational orders against his Hundar Maldor's advice and gets the unit cut up gets no defense from his family's connections. He is quietly cashiered and sent home, and his family is informed that further military careers in their line should perhaps be reconsidered.
+The critical relationship is between the **Lusel**, an 18-year-old aristocrat who technically outranks every commoner in the legion, and the **Hundar Maldor**, a 50-year-old senior centurion who has held the legion's combat doctrine in his head for thirty years. The Lusel's commission says he is the Hundar Maldor's superior. Every unwritten rule of the Vilérian army says he should treat the Hundar Maldor's counsel as binding unless he has an extraordinarily good reason not to. An Lusel who issues operational orders against his Hundar Maldor's advice and gets the unit cut up gets no defense from his family's connections. He is quietly cashiered and sent home, and his family is informed that further military careers in their line should perhaps be reconsidered.
 
 The same dynamic runs one rank lower. A **Kadel** is technically senior to every Hundar, every Masar and every legionary in the legion, and he is also fifteen years old and knows nothing. His informal subordination to the senior NCOs of his assigned area is total. The army treats a Kadel who behaves arrogantly toward a Hundar as having committed a serious breach of professional conduct, a breach not of _rank_ but of the unwritten code that holds the system together.
 
 ## The Bridge Rank: Vallar
 
-The Vallar holds the most consequential rank in the Vylarian army's social architecture.
+The Vallar holds the most consequential rank in the Vilérian army's social architecture.
 
 The **Vallar** ("Camp Prefect") is the third-in-command of a legion, ranking below the Vandraks and the Lusar Maldor. By long tradition he is a _promoted Hundar Maldor_, a career commoner who, after distinguished service as a legion's senior centurion, has been formally raised to officer status. The raising requires the Vandraks's recommendation and the relevant Kamdor's confirmation, and it is granted perhaps twice in a decade across the whole imperial army.
 
@@ -245,7 +245,7 @@ Demonstrated capability earns every NCO and enlisted rank. **No payment changes 
 
 The "confirming officer's cut" that the Vandraks takes on noble commission confirmations does not exist anywhere in this track. A Hundar's promotion to Hundar Kerval is recommended by his Vallar, confirmed by his Vandraks and recorded by the legion's scribar, and that is the whole transaction. The Vandraks takes nothing. The career NCO class understands the distinction perfectly, and it is one reason their loyalty to the institution survives the irritation of the parallel commission system.
 
-## The Four Estates of Vylarian Nobility
+## The Four Estates of Vilérian Nobility
 
 The imperial registry kept by [[affiliation-imprlscrblgld|the Imperial Scribal Guild]] recognizes four formal estates of nobility. The registry is updated each year and published at the spring imperial address, and it is one of the most closely watched documents in the empire, because it records every elevation, demotion and adjustment of standing.
 
@@ -260,7 +260,7 @@ Movement between estates is rare but real. A _thurden_ (Bronze) house that produ
 
 ## Currency and the Commission System
 
-The Vylarian currency anchors at the **Solden** (gold coin) but circulates mainly in the **Ardin** and **Ogdel** (Bit). One Solden equals 160 Ardin equals 1,280 Bits. The Solden is barely a circulating coin: perhaps 200,000 exist empire-wide, mostly in noble vaults, the imperial treasury and [[affiliation-tarmex|the Tarmeks Orzan]]’s strongroom at Orzara. (The [[lore-vylrncrncy|Vylarian Currency]] note holds the full coinage system, sample prices and the wage scale.)
+The Vilérian currency anchors at the **Solden** (gold coin) but circulates mainly in the **Ardin** and **Ogdel** (Bit). One Solden equals 160 Ardin equals 1,280 Bits. The Solden is barely a circulating coin: perhaps 200,000 exist empire-wide, mostly in noble vaults, the imperial treasury and [[affiliation-tarmex|the Tarmeks Orzan]]’s strongroom at Orzara. (The [[lore-vylrncrncy|Vilérian Currency]] note holds the full coinage system, sample prices and the wage scale.)
 
 Large-value commerce moves in **paper script** issued by [[affiliation-danvar|the Danvar]], the moneylenders' guild, against the imperial treasury's reserves. (The Tarmeks Orzan note describes the three-tier note system of retail, traveler's and master notes.) Nearly every house settles nearly every commission in script, even at the largest scales. Physical Solden payment is reserved for the most prestigious transactions, where an _ethlen_ house wishes to make a public display of liquid wealth.
 
@@ -320,7 +320,7 @@ The **competence route** discounts the commission price by 60–85%. It applies 
 
 Each level of organization carries a sworn standard-bearer. His loss is a dishonor, and his recovery after a defeat can make a career.
 
-| Vylarian Term | Carries                                                                          | Echelon |
+| Vilérian Term | Carries                                                                          | Echelon |
 | ------------- | -------------------------------------------------------------------------------- | ------- |
 | **Orkaimos**  | The bearer of the legion's eagle (_orkaima_), the most sacred object in the army | Legion  |
 | **Vexillar**  | A _Parthal_'s banner                                                             | Cohort  |
@@ -331,7 +331,7 @@ The Valdor is a politically loaded posting. An insult to the Valdor is an insult
 
 Each legion also has specialist staff:
 
-| Vylarian Term | Role                                                                                                                             |
+| Vilérian Term | Role                                                                                                                             |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Hornan**    | Signal-horn player; relays orders by horn-call within a Hundal                                                                   |
 | **Brasan**    | Trumpeter; legion-wide command signals                                                                                           |
@@ -363,7 +363,7 @@ The cavalry trooper is a **Gelmor**, and cavalry officers carry the rank suffix 
 | **Tarvil** | Light infantry / skirmisher                                                     |
 | **Orman**  | Irregular formation; tribal or specialty unit not fitting standard organization |
 
-**Naval (Vormal).** Vylaria's naval power was significant before the Taruzelian secession and is being rebuilt. Naval organization parallels the army's:
+**Naval (Vormal).** Viléria's naval power was significant before the Taruzelian secession and is being rebuilt. Naval organization parallels the army's:
 
 | Unit              | Gloss       | Strength        | Commander        |
 | ----------------- | ----------- | --------------- | ---------------- |
@@ -406,7 +406,7 @@ The legions are thin, in disrepute since the war that lost Taruzel, and still th
 
 The officer corps has not forgiven the loss of Taruzel. The Dukran's report blamed purchased commissions, the Commission Compromise left them on sale, and the career NCOs still count the Vallar examination an insult. The war party in the officer corps and the [[affiliation-seldan|Seldan]] wants the islands back and a war for tribute against [[place-helionis|Helionis]], and the treasury answers that every campaign mints pensioners.
 
-The succession reaches into the camps. [[being-hlzrsvndrn|Halzoras Vendaren]], a legate who brought his legion home whole from the Taruzelian war, is the Guard's favorite to be adopted. The army remembers the Years of Three Eagles, when Moktur's legions acclaimed their own legate and marched, and the great houses of Hilen fear any claimant who would march on another Vylarian army.
+The succession reaches into the camps. [[being-hlzrsvndrn|Halzoras Vendaren]], a legate who brought his legion home whole from the Taruzelian war, is the Guard's favorite to be adopted. The army remembers the Years of Three Eagles, when Moktur's legions acclaimed their own legate and marched, and the great houses of Hilen fear any claimant who would march on another Vilérian army.
 
 :::secret {title="The stair on the River Circle"}
 A society of officers and veterans of the eastern legions, meeting on a stair of the River Circle, means to kill the Khelathi factor, [[being-mthszrtml|Methisi Azeret'Mulu]], before the throne takes his loan, so that the loan dies with him. A war of revenge on Taruzel is possible for the legion and impossible for the treasury, and this is the revenge it can afford.

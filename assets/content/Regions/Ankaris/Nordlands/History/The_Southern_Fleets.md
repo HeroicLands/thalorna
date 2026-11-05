@@ -87,7 +87,7 @@ A [[place-knalthstead|Knalthstead]] howe-warden tells it as a warning rather tha
 
 [[lore-threewinters|The Three Winters]] ended in 514, and the halls that had sent their old over the fell did not forget what the fell had cost them. King [Thraskmil]{.name data-type="being/npc"} of [[affiliation-kngdmnrdhm|Nordheim]], who took the arm-ring in 519 from his father [Bruldmil]{.name data-type="being/npc"}, the king of the hunger, gave the north something to do with its shame: every hull that could be made seaworthy went south at [[lore-sumarmal|Somarmál]], and the hirvs of Nordheim, the [[affiliation-kingdomlgn|Kingdom of Malagna]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] went in them. Malagna's yards at [[place-gnarthborg|Gnarthborg]] built the hulls, under King [Hlurthann I]{.name data-type="being/npc"}, who had turned his kingdom to the western water after [[place-skalfvatan|Skalfvatan]], and the [Malagna Coastal]{.name data-type="skill/language"} dialect still carries the Provenzal words its sailors brought home.
 
-The fleets went south every summer for eleven years. Their targets were the [[affiliation-vylarinmpr|empire's western provinces]]: the coast of [[place-provenzrgn|Provénzia]] and the [[place-batarengulf|Gulf of Bataren]], and the north shore of [[place-elavendre|Élavendre]]. They did not strike the Vylarian heartland, which has no northern coast, except once: in 523 a Malagna crew took a captured galley through the western strait and was stranded on the [[place-salkhalon|Salkalon]] coast, where the bay they burned still carries their name ([[lore-bankedfire|The Winter of the Banked Fire]]). What the Vylarian chroniclers call "pressure from the north" on the empire's own frontier is the Varokh hunger raids of the same years, out of the forest, and not a landing.
+The fleets went south every summer for eleven years. Their targets were the [[affiliation-vylarinmpr|empire's western provinces]]: the coast of [[place-provenzrgn|Provénzia]] and the [[place-batarengulf|Gulf of Bataren]], and the north shore of [[place-elavendre|Élavendre]]. They did not strike the Vilérian heartland, which has no northern coast, except once: in 523 a Malagna crew took a captured galley through the western strait and was stranded on the [[place-salkhalon|Salkalon]] coast, where the bay they burned still carries their name ([[lore-bankedfire|The Winter of the Banked Fire]]). What the Vilérian chroniclers call "pressure from the north" on the empire's own frontier is the Varokh hunger raids of the same years, out of the forest, and not a landing.
 
 ## The Henge and the Abbey
 
@@ -116,7 +116,7 @@ A Provénzian abbot's agent who knows which howe holds Ménavar's plate has a re
 : how raiding turned to hire
 
 [[lore-bankedfire|The Winter of the Banked Fire]]
-: the one crew that reached the Vylarian heartland
+: the one crew that reached the Vilérian heartland
 
 [[lore-empirdclne|The Decline Begins]]
 : the empire's account of the same years

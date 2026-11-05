@@ -66,8 +66,8 @@ data:
         - where the one binding went that the Therona's count came up short of
 ---
 
-The account that follows holds that the dragons were real, and the question it answers is not what they were but _what the [Vylarian Republic]{.name data-type="affiliation/polity"} had of theirs_. Dragons are mortal, material and sapient, the destabilization of magic is a property of
-theirs and not a Vylarian invention, and the Republic and the dragons reached some kind of agreement.
+The account that follows holds that the dragons were real, and the question it answers is not what they were but _what the [Vilérian Republic]{.name data-type="affiliation/polity"} had of theirs_. Dragons are mortal, material and sapient, the destabilization of magic is a property of
+theirs and not a Vilérian invention, and the Republic and the dragons reached some kind of agreement.
 What is not recorded anywhere is the _terms_.
 
 A dragon cannot be threatened with its body. It can be threatened with its dead. In the early years of

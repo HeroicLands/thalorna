@@ -37,7 +37,7 @@ data:
             knowledge: named
           - place: place-twelfthcamp
             how: >-
-              the fort below the passes where the last cohorts wintered stands ruined on the Vylarian side
+              the fort below the passes where the last cohorts wintered stands ruined on the Vilérian side
             knowledge: named
           - place: place-alndntrblnds
             how: >-
@@ -85,8 +85,8 @@ The record the army keeps says the Twelfth was destroyed. The cohorts in the for
 ## What It Left
 
 - **The passage-gift.** Merchants pay it at the first camp without question, and the chancery has not raised the range since.
-- **The Twelfth's Last Camp.** A ruin on the Vylarian side of the passes, recently cleared of the undead by a border patrol.
-- **The missing eagle.** The families of the disbanded Twelfth want it found, and the legions raised in its place want it left where it is ([[affiliation-vylrnmltry|Vylarian Military]]).
+- **The Twelfth's Last Camp.** A ruin on the Vilérian side of the passes, recently cleared of the undead by a border patrol.
+- **The missing eagle.** The families of the disbanded Twelfth want it found, and the legions raised in its place want it left where it is ([[affiliation-vylrnmltry|Vilérian Military]]).
 
 ## See Also
 
@@ -99,7 +99,7 @@ The record the army keeps says the Twelfth was destroyed. The cohorts in the for
 [[place-twelfthcamp|The Twelfth's Last Camp]]
 : the fort below the passes
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the Kervaron Spine and its passage-gifts
 
 [[place-alndntrblnds|Áelendan Tribal Lands]]

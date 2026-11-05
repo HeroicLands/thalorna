@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The fast war-galleys that keep pirates and Taruzelian competitors off League cargoes are Nesthiros's, built in its own yards and kept by its own admiralty. That fleet is the city-state's weight in the [[affiliation-byzarianlg|Bizarian League]], and it is why a council of merchants shares its authority with admirals. The city-state governs about 1.8 million people from [[place-nesthiros2|Nesthiros]], the fortress isle in the straits that carry its name, and the League's principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. [[affiliation-khryshteikhos|Krusteikhos]] has the gold, as the Nesthirian saying goes, but Nesthiros has the ships.
+The fast war-galleys that keep pirates and Taruzelian competitors off League cargoes are Nesthiros's, built in its own yards and kept by its own admiralty. That fleet is the city-state's weight in the [[affiliation-byzarianlg|Bizarian League]], and it is why a council of merchants shares its authority with admirals. The city-state governs about 1.8 million people from [[place-nesthiros2|Nesthiros]], the fortress isle in the straits that carry its name, and the League's principal seaport on the [[place-vylarianse|Vilérian Sea]] coast. [[affiliation-khryshteikhos|Krusteikhos]] has the gold, as the Nesthirian saying goes, but Nesthiros has the ships.
 
 ## The Council and the Admiralty
 
@@ -86,11 +86,11 @@ Standing follows the register, as in every League city. The freeman is enrolled,
 
 ## Relations
 
-Nesthiros and Taruzelian merchantmen share the same docks and the same sea. [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea, and Nesthiros's galleys are what the League sets against Taruzelian competition. [[place-chrysamar|Krisamar]], a coastal port that rivals Nesthiros's trade, is the closer quarrel: commercial rivalry, occasional skirmishes between merchant fleets, and careful posturing at the League's councils. A Dunhari and a Khazryni merchant quarter keep their own tongues, faiths and law inside the city, and Nesthiros is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
+Nesthiros and Taruzelian merchantmen share the same docks and the same sea. [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea, and Nesthiros's galleys are what the League sets against Taruzelian competition. [[place-chrysamar|Krisamar]], a coastal port that rivals Nesthiros's trade, is the closer quarrel: commercial rivalry, occasional skirmishes between merchant fleets, and careful posturing at the League's councils. A Dunhari and a Khazrini merchant quarter keep their own tongues, faiths and law inside the city, and Nesthiros is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
 
 ## Commerce and Currency
 
-Nesthiros uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Nesthiros is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Nesthiros uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Nesthiros is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

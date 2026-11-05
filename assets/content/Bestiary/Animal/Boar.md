@@ -252,7 +252,7 @@ Mature boars hold a home range, marking trees with tusks and scent, and fight ri
 
 ## What the Villages Do
 
-The Varokh hunt boar in winter on foot, with dogs to hold the animal and a crossbar on the spear-head to keep it from running up the shaft. Farmers in the clearings plant ditches and thorn-hedges around field-crops and keep dogs for the night. In the Southern March the lords of the [[affiliation-byzarianlg|League]] ride after boar in hunts that double as political occasions. Boar meat is salted for winter, the hide is tanned for boot-leather, and the bristles are sold for brushes. The tusk-caps of a famous boar hang over a hunter's door. Boar are among the animals that the [[affiliation-tribestrzd|Atarzad tribes]] of the [[place-khzryndsrtrgn|Khazryn]] forbid as unclean, so they are neither hunted nor eaten there.
+The Varokh hunt boar in winter on foot, with dogs to hold the animal and a crossbar on the spear-head to keep it from running up the shaft. Farmers in the clearings plant ditches and thorn-hedges around field-crops and keep dogs for the night. In the Southern March the lords of the [[affiliation-byzarianlg|League]] ride after boar in hunts that double as political occasions. Boar meat is salted for winter, the hide is tanned for boot-leather, and the bristles are sold for brushes. The tusk-caps of a famous boar hang over a hunter's door. Boar are among the animals that the [[affiliation-tribestrzd|Atarzad tribes]] of the [[place-khzryndsrtrgn|Khazrin]] forbid as unclean, so they are neither hunted nor eaten there.
 
 ## Signs
 

@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-A city guide who takes visitors round the [[place-sixhillsvyl|Six Hills]] in a day starts at Antel and gives the reason: "Everything else you will see is a reply to this one." The Old Hill is where the [Vylarian Republic]{.name data-type="affiliation/polity"} lived. Its Senate, [[affiliation-seldan|Seldan]], sat here in a hall of its own, its patricians built their houses here, and its first monuments went up here, long before the Founder walled [[place-arvel|Arvel]] and moved the Senate uphill ([[lore-eaglecityrse|The Raising of the Eagle City]]). The hill was once second only to the Eagle Hill. It is now the plainest face of the city's decline.
+A city guide who takes visitors round the [[place-sixhillsvyl|Six Hills]] in a day starts at Antel and gives the reason: "Everything else you will see is a reply to this one." The Old Hill is where the [Vilérian Republic]{.name data-type="affiliation/polity"} lived. Its Senate, [[affiliation-seldan|Seldan]], sat here in a hall of its own, its patricians built their houses here, and its first monuments went up here, long before the Founder walled [[place-arvel|Arvel]] and moved the Senate uphill ([[lore-eaglecityrse|The Raising of the Eagle City]]). The hill was once second only to the Eagle Hill. It is now the plainest face of the city's decline.
 
 ## The Hill Today
 

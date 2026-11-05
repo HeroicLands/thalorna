@@ -33,7 +33,7 @@ test("each configured language and the drum register own an explicit canonical r
     assert.equal(byAddress.get("skill-nyalbdrm").data.roman, "");
 });
 
-test("Vylari writes its catch with the guide's apostrophe", () => {
+test("Vilari writes its catch with the guide's apostrophe", () => {
     const roman = byAddress.get(config.languages.vyl.note).data.roman;
     assert.deepEqual(
         Array.from(roman).filter((char) => !/[\p{L}\p{M}\p{N}]/u.test(char)),

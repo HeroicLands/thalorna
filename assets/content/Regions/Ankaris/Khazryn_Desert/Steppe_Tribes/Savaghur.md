@@ -48,7 +48,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Savaghur**, "the moon people", are a [[lore-sowidesclt|Sovidur]] tribe of the cold northern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], east of the [[affiliation-jbzrtrb|Jobizur]], where the steppe gives out into the spruce and bog of [[place-gwtkrrgn|Ghotaqor]]. Their grass is the best in the summer and the cruelest in the winter, and last winter it killed most of their herds. The eldest shaman of the Jobizur, [[being-tijodorquns|Tijodorghun Savaghur]], was born to the tribe and keeps its name.
+The **Savaghur**, "the moon people", are a [[lore-sowidesclt|Sovidur]] tribe of the cold northern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], east of the [[affiliation-jbzrtrb|Jobizur]], where the steppe gives out into the spruce and bog of [[place-gwtkrrgn|Ghotaqor]]. Their grass is the best in the summer and the cruelest in the winter, and last winter it killed most of their herds. The eldest shaman of the Jobizur, [[being-tijodorquns|Tijodorghun Savaghur]], was born to the tribe and keeps its name.
 
 ## The Range
 

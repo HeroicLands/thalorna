@@ -66,7 +66,7 @@ Kervalara has two inns. The [Horn]{.name data-type="place/structure"}, by the fo
 [[place-hylen|Hilen]]
 : the land the forest borders
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[affiliation-lizelas|Faith of Lizelas]]

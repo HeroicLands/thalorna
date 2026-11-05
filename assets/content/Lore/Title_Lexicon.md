@@ -72,7 +72,7 @@ WITH people_of(folder, people) AS (
     ('thalorna-none-folder-xelem', 'Itsani'),
     ('thalorna-none-folder-jenchai', 'Jurthati'),
     ('thalorna-none-folder-kalihara', 'Kaliharan'),
-    ('thalorna-none-folder-khazryndesert', 'Khazryn'),
+    ('thalorna-none-folder-khazryndesert', 'Khazrin'),
     ('thalorna-none-folder-regkhpol', 'Khelathi'),
     ('thalorna-none-folder-malagna', 'Nordmal'),
     ('thalorna-none-folder-nordheim', 'Nordmal'),
@@ -88,7 +88,7 @@ WITH people_of(folder, people) AS (
     ('thalorna-none-folder-tarvenia', 'Tarvenan'),
     ('thalorna-none-folder-vedyara', 'Vedyari'),
     ('thalorna-none-folder-vrystwald', 'Vristwald'),
-    ('thalorna-none-folder-vylaria', 'Vylarian')
+    ('thalorna-none-folder-vylaria', 'Vilérian')
 ),
 peoples AS (
   SELECT n.*, o.people
@@ -221,7 +221,7 @@ WITH people_of(folder, people) AS (
     ('thalorna-none-folder-xelem', 'Itsani'),
     ('thalorna-none-folder-jenchai', 'Jurthati'),
     ('thalorna-none-folder-kalihara', 'Kaliharan'),
-    ('thalorna-none-folder-khazryndesert', 'Khazryn'),
+    ('thalorna-none-folder-khazryndesert', 'Khazrin'),
     ('thalorna-none-folder-regkhpol', 'Khelathi'),
     ('thalorna-none-folder-malagna', 'Nordmal'),
     ('thalorna-none-folder-nordheim', 'Nordmal'),
@@ -237,7 +237,7 @@ WITH people_of(folder, people) AS (
     ('thalorna-none-folder-tarvenia', 'Tarvenan'),
     ('thalorna-none-folder-vedyara', 'Vedyari'),
     ('thalorna-none-folder-vrystwald', 'Vristwald'),
-    ('thalorna-none-folder-vylaria', 'Vylarian')
+    ('thalorna-none-folder-vylaria', 'Vilérian')
 ),
 peoples AS (
   SELECT n.*, o.people
@@ -274,7 +274,7 @@ particular idea of what that means—thrown out of the kindred, struck from the
 citizen roll, unnamed, or cut away. The word is the argument.
 
 **The same word can mean two things in two places.** `Shekhul` is the chief priest
-of the Ashaian faiths and an office among the [[lore-khazariclt|Khazryn]]; `Elder` is a standing, an
+of the Ashaian faiths and an office among the [[lore-khazariclt|Khazrin]]; `Elder` is a standing, an
 office in six peoples, and a courtesy anyone may use. Nothing prevents it, and
 the setting is older than its vocabulary.
 

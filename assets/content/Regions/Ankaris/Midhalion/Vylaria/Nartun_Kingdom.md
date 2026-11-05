@@ -3,7 +3,7 @@ shortcode: nartumkngdm
 name: {full: Nartun Kingdom}
 type: place
 subType: region
-description: "The land of the Holy Kingdom of Nartun—forested uplands in the north-east of the Vylaria Region, between Hilen's estates and the forest-steppe of Velanthia, held in great part by its temples and worked by woodsmen, charcoalers and carvers."
+description: "The land of the Holy Kingdom of Nartun—forested uplands in the north-east of the Viléria Region, between Hilen's estates and the forest-steppe of Velanthia, held in great part by its temples and worked by woodsmen, charcoalers and carvers."
 tags: [region]
 data:
   demonym: Nartuni
@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-Nartun Kingdom is a country of forest owned by temples. It is the land of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], about two and a half million people in the forested uplands of the north-east of the [[place-vylariargn|Vylaria Region]]: an independent Vylari-speaking realm that [[place-orzara|Orzara]] does not govern, ruled from the holy city of [[place-nartum|Nartun]]. An outsider knows it for its charcoal and carved wood, which go down into the empire by the wagonload, and for its priests, who come down the same road to preach.
+Nartun Kingdom is a country of forest owned by temples. It is the land of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], about two and a half million people in the forested uplands of the north-east of the [[place-vylariargn|Viléria Region]]: an independent Vilari-speaking realm that [[place-orzara|Orzara]] does not govern, ruled from the holy city of [[place-nartum|Nartun]]. An outsider knows it for its charcoal and carved wood, which go down into the empire by the wagonload, and for its priests, who come down the same road to preach.
 
-A _kurthos_'s freedman secretary in Orzara, asked what [[affiliation-seldan|Seldan]] (the Senate) makes of the kingdom, gives the official answer and the practical one in the same breath: "The Senate calls it a wayward province that will come back. Nartun calls the Senate a corrupted institution that has strayed. Both say it politely, in the same language. Meanwhile every smith in Hilen burns Nartun's charcoal." Nartun's people speak an archaic dialect of [[skill-vylarilng|Vylari]], its aristocracy holds its authority through religious office, and its king is anointed by the high priesthood. The kingdom keeps no Vylarian magistrate and takes no direction from the [[affiliation-vylarinmpr|Vylarian Empire]], which it left about 224 AF ([[lore-nartumrefuse|Nartun Refuses the Empire]]).
+A _kurthos_'s freedman secretary in Orzara, asked what [[affiliation-seldan|Seldan]] (the Senate) makes of the kingdom, gives the official answer and the practical one in the same breath: "The Senate calls it a wayward province that will come back. Nartun calls the Senate a corrupted institution that has strayed. Both say it politely, in the same language. Meanwhile every smith in Hilen burns Nartun's charcoal." Nartun's people speak an archaic dialect of [[skill-vylarilng|Vilari]], its aristocracy holds its authority through religious office, and its king is anointed by the high priesthood. The kingdom keeps no Vilérian magistrate and takes no direction from the [[affiliation-vylarinmpr|Vilérian Empire]], which it left about 224 AF ([[lore-nartumrefuse|Nartun Refuses the Empire]]).
 
 ## The Land
 
@@ -77,7 +77,7 @@ The holy city of Nartun is the kingdom's one city. Its other people live in temp
 [[affiliation-sacredflame|Order of the Sacred Flame]]
 : the knights who keep its walls and borders
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the enclosing region
 
 [[place-ashenmere|Ashenmere]]

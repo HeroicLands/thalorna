@@ -340,5 +340,5 @@ Ti en al senthron róugathen al kórthelon. Nond sóknathen tose gene‼ Reik gy
 ## See Also
 
 - [[lore-elvtribute|The Tribute of Élavendre]] · [[place-auldalon|Áuldalon]] · [[place-valdun|Valdun]]
-- [[lore-faecourts|The Fae Courts]] · [[affiliation-vylrnmltry|the Vylarian Military]] · [[lore-aelendnppl|the Áelendan]]
+- [[lore-faecourts|The Fae Courts]] · [[affiliation-vylrnmltry|the Vilérian Military]] · [[lore-aelendnppl|the Áelendan]]
 - [[lore-elavendriclt|Élavendri]] · [[lore-treelinelay|The Lay of the Tree Line]]

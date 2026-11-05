@@ -18,7 +18,7 @@ In the last week before the melt, every household in a Tellumi oasis sends someo
 
 ## Overview
 
-**The Tellumel**, "the land of the Tellumi", is the irrigated strip along the north foot of [[place-graznmntns|the Grazian Mountains]], on the southern edge of the [[place-khzryndsrtrgn|Khazryn Desert]]. It is forty to eighty miles deep where the snowmelt streams reach it and broken where they do not, and it runs about seven hundred miles from [[place-wstrndscnt|the Western Descent]] in the west to the foot of [[place-estrnreach|the Eastern Reach]]. Every city of the Tellumi stands in it. North of it the black rock of [[place-dkrqrrgn|Diqraqor]] begins within a day's ride, and beyond that the sand.
+**The Tellumel**, "the land of the Tellumi", is the irrigated strip along the north foot of [[place-graznmntns|the Grazian Mountains]], on the southern edge of the [[place-khzryndsrtrgn|Khazrin Desert]]. It is forty to eighty miles deep where the snowmelt streams reach it and broken where they do not, and it runs about seven hundred miles from [[place-wstrndscnt|the Western Descent]] in the west to the foot of [[place-estrnreach|the Eastern Reach]]. Every city of the Tellumi stands in it. North of it the black rock of [[place-dkrqrrgn|Diqraqor]] begins within a day's ride, and beyond that the sand.
 
 About 1,800,000 people live in the strip, most of the region's people on a small fraction of its ground, and two peoples share it while each claims the whole. The [[affiliation-tribestrzd|Tribes of Atarzád]] hold the four great cities, the [[place-oasishirvn|Oasis of Shirvan]], [[place-ashkarad|Ashkarad]], [[place-zargandur|Zargandur]] and [[place-kethramir|Kethramír]], together with the university town of [[place-caldar|Kaldar]], the pastures between them and most of the lesser oases. The [[affiliation-khzrncnfdrtn|Tellumi Confederation]] rules three oases at the edges: [[place-mehrnagord|Mernagord]] at the western end, [[place-vahurdash|Vahurdash]] on the dry northern rim and [[place-ushtraber|Ushtra-ber]] at the eastern end. Most Tellumi live in neither kind of place. They live in the quarters and canal villages of the four held cities, and they keep the water running there.
 
@@ -126,7 +126,7 @@ A bad year in the belt is a short melt. The rivers come down late or thin, the k
 
 ## Trade
 
-The held cities export dates, palm-sugar, leather, salt from the western pans, and the great Khazryn horses, the long-legged desert breed that the Atarzád raise on the pastures between the oases and that is prized across the [[place-ankrscntnnt|Ankaris Continent]] for endurance. They import metals, fine cloth, glass, books and the rarer goods of the wider world. The Teghumod merchant-houses run the caravans: west by the Descent to Amradad and the Taruzelian ports, north up the spur, and south to the foot of the passes.
+The held cities export dates, palm-sugar, leather, salt from the western pans, and the great Khazrin horses, the long-legged desert breed that the Atarzád raise on the pastures between the oases and that is prized across the [[place-ankrscntnnt|Ankaris Continent]] for endurance. They import metals, fine cloth, glass, books and the rarer goods of the wider world. The Teghumod merchant-houses run the caravans: west by the Descent to Amradad and the Taruzelian ports, north up the spur, and south to the foot of the passes.
 
 In the free oases the economy is the oasis economy it has always been: dates, palm-sugar, garden produce, Mernagord's salt, and trade with passing caravans. The free oases are small, their surpluses are modest, and their people reckon their wealth in continuity.
 
@@ -145,7 +145,7 @@ In the free oases the economy is the oasis economy it has always been: dates, pa
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : Holds the peripheral oases and claims the whole
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : The enclosing region
 
 [[place-dkrqrrgn|Diqraqor]]

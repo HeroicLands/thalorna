@@ -54,7 +54,7 @@ A lecturer of the [College of Ethics]{.name data-type="affiliation"}, asked what
 
 The **Epistémion** is the oldest and broadest scholarly institution in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. It was founded in the [[place-helionis|Helionite]] city-states around 400 BF (see [[lore-panepistfnd|the Founding of the Epistémion]]) as a federation of all philosophical inquiry, a place where every domain of knowledge could be studied, debated and advanced under one roof: natural philosophy, ethics, logic, metaphysics, the study of mind and language, the principles of governance and law, and the arcane arts. The Helionite name for the idea is _sinthasin_, the bringing together.
 
-Its character changed when the [[affiliation-vylarinmpr|Vylarian Republic]] conquered [[place-helionis|Helionis]] between 335 and 312 BF, carved out the arcane branch in 312 BF, and chartered it as the [[affiliation-ordoarcanis|Thordimalon]] in 73 BF. The Order became the most powerful, best-funded and most feared part of the old Epistémion. Over the centuries people came to associate the Epistémion chiefly with its arcane offspring, the part that mattered to emperors and armies, and the broader scholarly traditions went on in its shadow.
+Its character changed when the [[affiliation-vylarinmpr|Vilérian Republic]] conquered [[place-helionis|Helionis]] between 335 and 312 BF, carved out the arcane branch in 312 BF, and chartered it as the [[affiliation-ordoarcanis|Thordimalon]] in 73 BF. The Order became the most powerful, best-funded and most feared part of the old Epistémion. Over the centuries people came to associate the Epistémion chiefly with its arcane offspring, the part that mattered to emperors and armies, and the broader scholarly traditions went on in its shadow.
 
 ## Structure
 
@@ -74,9 +74,9 @@ The scholars who do this work are often sincere. They love learning, they want t
 
 Then the Order moves in. It is never sudden and never visible. Once a chapterhouse has a library, a reputation and a generation of graduates in positions of influence, the Order's hand settles on it. The senior officer of every chapterhouse answers to the Order's hierarchy, and the Order decides which scholars are appointed, which subjects are emphasized and which lines of inquiry are quietly discouraged. The chapterhouses identify children with arcane talent for recruitment, watch the intellectual currents of their communities, and give the Order a network of local contacts no purely arcane institution could keep up. The Epistémion builds the trust and the Order uses it, and the kindly face of one and the iron hand of the other share a building that most people never think to look inside.
 
-This pattern was among the [[affiliation-vylarinmpr|Vylarian Empire]]’s most effective instruments of expansion. Where the legions could not reach, or the cost of occupation was too high, the Epistémion went instead. A chapterhouse cost a fraction of a garrison, provoked no rebellion, and over time produced what the legions never could: a local elite educated in Vylarian traditions, thinking in Vylarian categories and tied to a Vylarian-controlled institution. Soldiers drew the empire's borders, and teachers drew its cultural reach. For centuries the Epistémion and the Order were among the strongest tools of Vylarian soft power.
+This pattern was among the [[affiliation-vylarinmpr|Vilérian Empire]]’s most effective instruments of expansion. Where the legions could not reach, or the cost of occupation was too high, the Epistémion went instead. A chapterhouse cost a fraction of a garrison, provoked no rebellion, and over time produced what the legions never could: a local elite educated in Vilérian traditions, thinking in Vilérian categories and tied to a Vilérian-controlled institution. Soldiers drew the empire's borders, and teachers drew its cultural reach. For centuries the Epistémion and the Order were among the strongest tools of Vilérian soft power.
 
-The empire is declining now, and the institution it built has its own momentum. Chapterhouses stand in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], the [[place-provenzrgn|Provénzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and some of the northern kingdoms where Vylarian authority and the Order's direct power are both weak. In [[affiliation-kngdmnrdhm|Nordheim]] and [[place-vrystwald|Vristwald]] they are small and precarious, a single scholar and a handful of students, tolerated and not yet trusted. In Provénzia and Helionis they are grand institutions with centuries of history and deep roots in local culture. In Taruzel they survived independence, because the merchant guilds found them too useful to close, though the relationship with the Order is now strained. Everywhere the Epistémion supplies the education, the credibility and the local ties, and the Order rides in on its back. The question now is what becomes of an institution that has outgrown its patron.
+The empire is declining now, and the institution it built has its own momentum. Chapterhouses stand in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], the [[place-provenzrgn|Provénzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and some of the northern kingdoms where Vilérian authority and the Order's direct power are both weak. In [[affiliation-kngdmnrdhm|Nordheim]] and [[place-vrystwald|Vristwald]] they are small and precarious, a single scholar and a handful of students, tolerated and not yet trusted. In Provénzia and Helionis they are grand institutions with centuries of history and deep roots in local culture. In Taruzel they survived independence, because the merchant guilds found them too useful to close, though the relationship with the Order is now strained. Everywhere the Epistémion supplies the education, the credibility and the local ties, and the Order rides in on its back. The question now is what becomes of an institution that has outgrown its patron.
 
 The non-arcane scholars in these distant chapterhouses may resent the Order's control, but they depend on the institution for their credentials, their libraries and their livelihood. The Order values the reach the Epistémion's scholarly reputation gives it, since it is far easier to set up an arcane watch in a foreign city when it arrives as a school.
 
@@ -84,19 +84,19 @@ The non-arcane scholars in these distant chapterhouses may resent the Order's co
 
 The traditional colleges of the Epistémion, as they stood in the Helionite period and nominally stand today:
 
-**The College of Arcane Philosophy**—The study of the arcane: the nature, theory and practice of magic. This college became the [[affiliation-ordoarcanis|Thordimalon]] after the Vylarian conquest and is now by far the dominant institution within the Epistémion.
+**The College of Arcane Philosophy**—The study of the arcane: the nature, theory and practice of magic. This college became the [[affiliation-ordoarcanis|Thordimalon]] after the Vilérian conquest and is now by far the dominant institution within the Epistémion.
 
 **The [College of Metaphysics]{.name data-type="affiliation"}**—The study of the fundamental nature of reality and existence. What kinds of things exist, and what does it mean for something to exist? Where the arcane and the astral are demonstrably real and divine origins are debated, metaphysical inquiry is concrete: it has to account for the observable fact that several planes of reality interact and overlap.
 
 **The [College of Epistemology]{.name data-type="affiliation"}**—The study of knowledge and belief. How do we come to know things, and what makes a belief justified? Where prophecy, divination and what worshippers regard as divine revelation are real phenomena, these questions carry a practical urgency.
 
-**The College of Ethics**—Also called moral philosophy: moral values, principles, and the question of how one ought to act. The ethical colleges of Helionis produced some of the most influential moral frameworks in western Ankaris, several of which still underpin Vylarian law.
+**The College of Ethics**—Also called moral philosophy: moral values, principles, and the question of how one ought to act. The ethical colleges of Helionis produced some of the most influential moral frameworks in western Ankaris, several of which still underpin Vilérian law.
 
 **The [College of Logic]{.name data-type="affiliation"}**—The study of reasoning and argument, and of whether an argument is valid and sound. The Helionite logicians laid the foundations the other colleges build on, and their methods remain the shared language of scholarly discourse.
 
-**The [College of Aesthetics]{.name data-type="affiliation"}**—The study of beauty, art and taste. In [[place-elavendre|Élavendre]] and Provénzia, aesthetic philosophy is entwined with bardic and artistic traditions. The Helionite aestheticians debated the nature of artistic expression for centuries before the Vylarian conquest, and their work still shapes artistic thought across [[place-midhalnrgn|Midhalión]].
+**The [College of Aesthetics]{.name data-type="affiliation"}**—The study of beauty, art and taste. In [[place-elavendre|Élavendre]] and Provénzia, aesthetic philosophy is entwined with bardic and artistic traditions. The Helionite aestheticians debated the nature of artistic expression for centuries before the Vilérian conquest, and their work still shapes artistic thought across [[place-midhalnrgn|Midhalión]].
 
-**The [College of Political Philosophy]{.name data-type="affiliation"}**—The study of justice, rights, government and the role of political institutions. This college has always walked a dangerous line, since its scholars examine the ethical foundations of laws and political structures and so come close to criticizing the powers that fund them. The Vylarian [[affiliation-seldan|Seldan]] (Senate) watched it warily even before the conquest.
+**The [College of Political Philosophy]{.name data-type="affiliation"}**—The study of justice, rights, government and the role of political institutions. This college has always walked a dangerous line, since its scholars examine the ethical foundations of laws and political structures and so come close to criticizing the powers that fund them. The Vilérian [[affiliation-seldan|Seldan]] (Senate) watched it warily even before the conquest.
 
 **The [College of Mind]{.name data-type="affiliation"}**—The study of consciousness, mental states and the relation between mind and body. Its work overlaps uncomfortably with arcane territory. The Order holds that certain aspects of mental study fall under its jurisdiction, and the boundary between "natural" inquiry into consciousness and "arcane" manipulation of the mind is a standing source of friction.
 
@@ -106,7 +106,7 @@ The traditional colleges of the Epistémion, as they stood in the Helionite peri
 
 **The [College of Social Philosophy]{.name data-type="affiliation"}**—The study of society and its institutions: social justice, community and social norms. Its work frequently overlaps with Political Philosophy and Ethics, and its scholars often hold appointments in more than one college.
 
-**The [College of Law]{.name data-type="affiliation"}**—Also known as jurisprudence: the nature of law, legal systems and legal reasoning, and the relation between law and morality. Vylarian legal philosophy, the foundation of the imperial code, was heavily shaped by Helionite jurisprudence absorbed through this college.
+**The [College of Law]{.name data-type="affiliation"}**—Also known as jurisprudence: the nature of law, legal systems and legal reasoning, and the relation between law and morality. Vilérian legal philosophy, the foundation of the imperial code, was heavily shaped by Helionite jurisprudence absorbed through this college.
 
 ### The Orzara Campus
 
@@ -130,13 +130,13 @@ In institutional terms, the creation of the Thordimalon was a vivisection. The S
 
 ### The Long Decline
 
-In the nearly eight centuries since the Order was founded, the balance within the Epistémion has shifted for good. The Order commands more wealth than all the other colleges together, has the ear of the Vylarian Senate, and has enforcement powers, the [Sekran]{.name data-type="affiliation"}, that no other college has. It has also used the Epistémion's umbrella to extend its influence into domains that are not strictly arcane.
+In the nearly eight centuries since the Order was founded, the balance within the Epistémion has shifted for good. The Order commands more wealth than all the other colleges together, has the ear of the Vilérian Senate, and has enforcement powers, the [Sekran]{.name data-type="affiliation"}, that no other college has. It has also used the Epistémion's umbrella to extend its influence into domains that are not strictly arcane.
 
 The College of Mind is the plainest casualty. The Order has repeatedly claimed that research into consciousness, mental states and the relation of mind and body falls within the arcane domain, since magic can affect all of them. Mind scholars who stray close to arcane territory find themselves "invited" to collaborate with the Order, which in practice means their work is absorbed and their independence ends.
 
 The College of Natural Inquiry has been marginalized for a different reason. Where magic works, the systematic study of purely natural causes has never drawn the funding or prestige the arcane commands. The college survives, small and underfunded, and many regard it as a curiosity.
 
-The colleges of Ethics, Political Philosophy and Law keep more independence, largely because their work is useful to power. The Vylarian legal system draws on the College of Law's scholarship, and the College of Ethics supplies the moral vocabulary the empire uses to justify its policies. Even they work in the Order's shadow.
+The colleges of Ethics, Political Philosophy and Law keep more independence, largely because their work is useful to power. The Vilérian legal system draws on the College of Law's scholarship, and the College of Ethics supplies the moral vocabulary the empire uses to justify its policies. Even they work in the Order's shadow.
 
 ### The Helionite Academies
 
@@ -164,7 +164,7 @@ Below the Inner Wall the colleges fear the Seldan's displeasure. A reader whose 
 [[place-aulpnpstmm|Ombalon]]
 : The Epistémion's seat of counsel and keeping in the Arvon
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : Political patron and, through the Order, de facto controller
 
 [[place-elavendre|Élavendre]]

@@ -439,7 +439,7 @@ A master of the spear in one of the border lords' towers, who tells the young me
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the feasts of the Thunderer without office in the temple.
 
 ## Plot Hooks

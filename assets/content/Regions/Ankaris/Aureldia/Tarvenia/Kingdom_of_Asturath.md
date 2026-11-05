@@ -3,7 +3,7 @@ shortcode: kngdmstrth
 name: {full: Kingdom of Asturath}
 type: affiliation
 subType: polity
-description: "Mountainous heartland of Tarvénia, seat of the High King—kingdom of mountain fortresses never conquered by Vylaria, spiritual core of Tarvenan independence."
+description: "Mountainous heartland of Tarvénia, seat of the High King—kingdom of mountain fortresses never conquered by Viléria, spiritual core of Tarvenan independence."
 data:
   templatePriority: null
   demonym: Astúrathi
@@ -98,7 +98,7 @@ Government
 
 ## Overview
 
-The Kingdom of Asturath is the mountain kingdom at the heart of the [[place-tarvenirgn|Tarvénia Region]], a realm of valley lords under a king who is the first of them, and the one part of Tarvénia that the [[affiliation-vylarinmpr|Vylarian Empire]] never held. It is a mountain people's freedom kept by their own arms: Outsiders know it for two things: the crossbowmen its valleys send to other people's wars, and the plateau city of [[place-lezkora|Lezkora]], where the kingdom's king and the High King of [[affiliation-kingdmtrvn|Tarvénia]] both keep their courts. The kingdom holds the land of [[place-asturath|Asturath]].
+The Kingdom of Asturath is the mountain kingdom at the heart of the [[place-tarvenirgn|Tarvénia Region]], a realm of valley lords under a king who is the first of them, and the one part of Tarvénia that the [[affiliation-vylarinmpr|Vilérian Empire]] never held. It is a mountain people's freedom kept by their own arms: Outsiders know it for two things: the crossbowmen its valleys send to other people's wars, and the plateau city of [[place-lezkora|Lezkora]], where the kingdom's king and the High King of [[affiliation-kingdmtrvn|Tarvénia]] both keep their courts. The kingdom holds the land of [[place-asturath|Asturath]].
 
 ## The King and the Lords
 
@@ -132,7 +132,7 @@ The ban is for defense. When the High King calls the ban of Tarvénia against a 
 
 Asturath is the most martial and conservative of the Tarvenan regions. Its people are mountain folk—tough, proud and attached to the old ways—and its social order rests on bonds between lord and sworn man, kept in person. Most of the kingdom's coin comes home in the purses of men who went abroad under contract, and nearly every household has had a man in a company. Asturath gives the companies their reputation, and the companies give Asturath its silver.
 
-Invading armies that have ventured into Asturath's mountains have regretted it. The Vylarian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone, and the Astúrathi have never tired of celebrating it. The first High King, [Garvaneth]{.name data-type="being/npc"} of Asturath, was elected at Lezkora about 540 AF to drive the garrisons out of the lowlands ([[lore-tarvfallsawy|Tarvénia Falls Away]]), and the High King has most often been an Astúrathi lord since.
+Invading armies that have ventured into Asturath's mountains have regretted it. The Vilérian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone, and the Astúrathi have never tired of celebrating it. The first High King, [Garvaneth]{.name data-type="being/npc"} of Asturath, was elected at Lezkora about 540 AF to drive the garrisons out of the lowlands ([[lore-tarvfallsawy|Tarvénia Falls Away]]), and the High King has most often been an Astúrathi lord since.
 
 ## Asturath and the Crown
 
@@ -144,7 +144,7 @@ The king's officers are few, and each holds one thing for him. The Warden of the
 
 ## Commerce and Currency
 
-The Kingdom of Asturath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. It is a post-imperial commonwealth member—it takes part fully in the trade and banking of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Kingdom of Asturath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. It is a post-imperial commonwealth member—it takes part fully in the trade and banking of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

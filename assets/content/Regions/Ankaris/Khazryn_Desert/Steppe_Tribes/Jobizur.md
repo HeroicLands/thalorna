@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Jobizur** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], and more wells than the [[affiliation-ksrrtrb|Koserur]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Jobizur seldom do.
+The **Jobizur** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], and more wells than the [[affiliation-ksrrtrb|Koserur]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Jobizur seldom do.
 
 ## The Range
 

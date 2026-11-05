@@ -19,7 +19,7 @@ Blackthorn Ridge is the northern bound of the [Garskald]{.name data-type="affili
 
 ## Beyond the Ridge
 
-A hunter can stand on the ridge and see game trails in the valleys beyond, and nobody in living memory has hunted them. The land is rough and poorly mapped, and the elders' stories say things live in the deep forest there that are not animals. The stories rest on something real: there are stone circles in the northern forest, ancient and moss-covered, carved with symbols that are neither Varokh nor Vylarian, and the few hunters who have seen them from a distance came back with the feeling of having been watched.
+A hunter can stand on the ridge and see game trails in the valleys beyond, and nobody in living memory has hunted them. The land is rough and poorly mapped, and the elders' stories say things live in the deep forest there that are not animals. The stories rest on something real: there are stone circles in the northern forest, ancient and moss-covered, carved with symbols that are neither Varokh nor Vilérian, and the few hunters who have seen them from a distance came back with the feeling of having been watched.
 
 The ridge also has a season. The deep snows close it in early winter, and a party caught on the far side when they come stays there until spring. [[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]], the clan's hunting company, is planning a great hunt across it to find elk herds untouched by the shift in the migrations, and its leader has given the crossing three weeks for exactly that reason.
 

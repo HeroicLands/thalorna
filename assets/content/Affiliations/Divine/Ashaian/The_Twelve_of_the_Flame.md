@@ -62,7 +62,7 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation**: _Ah-SHY-uhn_
 
-The Ashaian pantheon is the religious tradition of the desert and steppe peoples of the central and south-central parts of the [[place-ankrscntnnt|Ankaris Continent]]—the nomadic tribes of the [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], the settled civilization of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] on the eastern shore of the [[place-vylarianse|Vylarian Sea]], and the eastern islands of the [[affiliation-cnfdrtntrzlnstts|Taruzelian Confederation]] across the strait from it. The pantheon comprises twelve deities, each governing a fundamental aspect of existence—the same twelve domains found in the [[affiliation-arldnpnthn|Aureldian Pantheon]] of the west and the [[affiliation-khelathpnthn|Khelathi Pantheon]] of [[place-aukhelathrgq|Au'Khelathu]], though the faithful would insist that the Ashaian names are the true ones, spoken first by the first peoples in the first desert beneath the first stars.
+The Ashaian pantheon is the religious tradition of the desert and steppe peoples of the central and south-central parts of the [[place-ankrscntnnt|Ankaris Continent]]—the nomadic tribes of the [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazrin Desert Region]], the settled civilization of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] on the eastern shore of the [[place-vylarianse|Vilérian Sea]], and the eastern islands of the [[affiliation-cnfdrtntrzlnstts|Taruzelian Confederation]] across the strait from it. The pantheon comprises twelve deities, each governing a fundamental aspect of existence—the same twelve domains found in the [[affiliation-arldnpnthn|Aureldian Pantheon]] of the west and the [[affiliation-khelathpnthn|Khelathi Pantheon]] of [[place-aukhelathrgq|Au'Khelathu]], though the faithful would insist that the Ashaian names are the true ones, spoken first by the first peoples in the first desert beneath the first stars.
 
 The Ashaian faith is shaped by its environment. Where the Khelathi religion is institutional—massive temples, hierarchical priesthood, intimate ties to an ancient state—the Ashaian tradition is both older in spirit and looser in structure. Its core theology emerged among nomadic peoples for whom fire was survival itself: warmth against the killing cold of desert nights, light against predators, the transformation of raw meat into sustenance. Fire sits at the theological center of the Ashaian faith in a way that has no parallel in the other major pantheons. [[lore-atarosdty|Ataros]], the Sacred Flame, is held to be not merely one god among twelve but the living presence through which all the other gods make themselves known. Every prayer begins with the kindling of fire. Every sacred site maintains an eternal flame. The great fire-temples of Amradad are architectural wonders precisely because the entire Ashaian faith is built around the principle that divine truth is revealed through flame.
 
@@ -89,7 +89,7 @@ In this doctrine, after death the soul crosses the [Mozhelurbek]{.name data-type
 
 ## Temple and Priesthood Structure
 
-The Ashaian faith does not maintain the massive, state-integrated temple hierarchies of the Khelathi tradition. Its priestly structure reflects its origins among nomadic peoples and its development in the settled courts of Amradad and the Khazryn oasis-cities.
+The Ashaian faith does not maintain the massive, state-integrated temple hierarchies of the Khelathi tradition. Its priestly structure reflects its origins among nomadic peoples and its development in the settled courts of Amradad and the Khazrin oasis-cities.
 
 - **Shekhul** ("Master of Fire")—the senior priest of a major fire-temple or a regional spiritual authority. The Shekhul tends the sacred flame, interprets divine will through fire-reading, and adjudicates theological disputes. In the Kingdom of Amradad, the Shekhul of the [Great Fire-Temple of Amradad]{.name data-type="place/structure"} holds political influence rivaling that of the Shebarader's vashkader.
 
@@ -97,7 +97,7 @@ The Ashaian faith does not maintain the massive, state-integrated temple hierarc
 
 - **Roqeshekh** ("Fire-Keeper")—initiates and acolytes who tend the sacred fires and study under the guidance of a Delkoshekh. The training period varies but typically lasts several years. An Roqeshekh who demonstrates mastery of the liturgy, the sacred texts, and the care of flame may be ordained as a Delkoshekh.
 
-Among the nomadic tribes of Dunhara and the Khazryn, the formal temple hierarchy is often replaced by a looser structure centered on tribal holy men—desert mystics, fire-seers, and wandering Delkoshekhs who carry the sacred flame from camp to camp. These practitioners hold enormous respect within tribal society, and their spiritual authority can override even a sheikh's temporal power in matters of faith and cosmic law.
+Among the nomadic tribes of Dunhara and the Khazrin, the formal temple hierarchy is often replaced by a looser structure centered on tribal holy men—desert mystics, fire-seers, and wandering Delkoshekhs who carry the sacred flame from camp to camp. These practitioners hold enormous respect within tribal society, and their spiritual authority can override even a sheikh's temporal power in matters of faith and cosmic law.
 
 ## The Cosmic Struggle
 
@@ -115,7 +115,7 @@ This theology gives the Ashaian faithful a martial quality that permeates even t
 [[place-dunharargn|Dunhara Region]]
 : Desert homeland of the nomadic faithful
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : Central Ankarian steppe
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]

@@ -69,7 +69,7 @@ She told them. The cities had fought in the season when the fields were bare, ha
 ## The Five Terms
 
 - **The season.** Cities fight in the season between one Games and the proclamation of the next, and not within the sacred months on either side.
-- **The mage.** No city fields a mage in a war against another Helionite city. The cities that remember the mage-warlords of the [Vylarian Republic]{.name data-type="affiliation/polity"}'s war want no more of them.
+- **The mage.** No city fields a mage in a war against another Helionite city. The cities that remember the mage-warlords of the [Vilérian Republic]{.name data-type="affiliation/polity"}'s war want no more of them.
 - **The herald.** A herald crosses any field, in any war, and his person is inviolable on it.
 - **The dead.** The dead of a battle are returned to their own city for their own rites, and no city keeps another's.
 - **The walls.** No city is sacked. A city that wins a war takes its terms from the loser's council and leaves the walls standing.

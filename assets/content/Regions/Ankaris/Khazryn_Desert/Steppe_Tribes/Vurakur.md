@@ -50,13 +50,13 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Vurakur**, "the silver people", are a [[lore-sowidesclt|Sovidur]] tribe of the northern [[place-wlqtrrgn|Volketor]], in the [[place-khzryndsrtrgn|Khazryn]], whose grass faces the eastern reach of [[place-velanthrgn|Velanthia]]. Across the frontier lie the Velanthian oasis-and-river communities, half steppe in tongue and blood, which answer to whichever side last had the better year. For some years now the better years have been the Vurakur's. The communities pay the tribe a yearly silver so that its riders stay on their own grass, and their headmen's houses take Vurakur sons and daughters in marriage.
+The **Vurakur**, "the silver people", are a [[lore-sowidesclt|Sovidur]] tribe of the northern [[place-wlqtrrgn|Volketor]], in the [[place-khzryndsrtrgn|Khazrin]], whose grass faces the eastern reach of [[place-velanthrgn|Velanthia]]. Across the frontier lie the Velanthian oasis-and-river communities, half steppe in tongue and blood, which answer to whichever side last had the better year. For some years now the better years have been the Vurakur's. The communities pay the tribe a yearly silver so that its riders stay on their own grass, and their headmen's houses take Vurakur sons and daughters in marriage.
 
 ## The Range
 
 The Vurakur graze the northern margin, grass and scrub where the spring rain falls heaviest, with springs a day apart and the clay pans full for a week after the rain. Their chief well is [Jonat]{.name data-type="place/site"}, "the wealth", a spring in a broad hollow where the moot sits and the silver is shared out each autumn.
 
-The northern branch of [[lore-celestialroad|the Celestial Road]] comes down from Velanthia's eastern reach toward the central grass, and the Vurakur sell its first stretch on the Khazryn side: water, a rider and the tribe's token. They carry Velanthian grain east and take horses and furs west.
+The northern branch of [[lore-celestialroad|the Celestial Road]] comes down from Velanthia's eastern reach toward the central grass, and the Vurakur sell its first stretch on the Khazrin side: water, a rider and the tribe's token. They carry Velanthian grain east and take horses and furs west.
 
 ## The Silver
 

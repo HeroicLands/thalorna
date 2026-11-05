@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Gorenur**, "the storm people", are a [[lore-sowidesclt|Sovidur]] tribe of the southern [[place-wlqtrrgn|Volketor]], in the [[place-khzryndsrtrgn|Khazryn]], where the grass gives out into the [[place-hekardesert|Desert of Hek'ar]] below Bizaria's [[place-eastrnmrch|Eastern March]]. They are five lines descended from one man, and every Gorenur can say his fathers back to him. They raid in storms, when no patrol can see a column, and they have raided the March's herds for as long as the March has kept herds.
+The **Gorenur**, "the storm people", are a [[lore-sowidesclt|Sovidur]] tribe of the southern [[place-wlqtrrgn|Volketor]], in the [[place-khzryndsrtrgn|Khazrin]], where the grass gives out into the [[place-hekardesert|Desert of Hek'ar]] below Bizaria's [[place-eastrnmrch|Eastern March]]. They are five lines descended from one man, and every Gorenur can say his fathers back to him. They raid in storms, when no patrol can see a column, and they have raided the March's herds for as long as the March has kept herds.
 
 ## The Range
 

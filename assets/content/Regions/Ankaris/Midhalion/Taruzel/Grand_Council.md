@@ -69,7 +69,7 @@ A councilor is named by the council of his own city and votes as that council in
 
 ## What the Council Decides
 
-The Council sits twice a year, at the opening and at the close of the sailing season, and between sessions its acts are kept by the Clerk and its seal by the Arch-Consul. It decides what the cities must decide together: war and peace, treaties with the realms around the [[place-vylarianse|Vylarian Sea]], the tariffs one member city may lay on another's goods, and the charter by which the [[affiliation-corsairleg|Corsair League]] serves as the Confederation's navy, which the Council threatens to revoke whenever the League's captains read it too widely. It is the patron of the [[affiliation-vezakuni|Vezakuni]], it confirms the Kubasum who keeps the Merazuni, and it authorizes every addition to the treasury's reserves.
+The Council sits twice a year, at the opening and at the close of the sailing season, and between sessions its acts are kept by the Clerk and its seal by the Arch-Consul. It decides what the cities must decide together: war and peace, treaties with the realms around the [[place-vylarianse|Vilérian Sea]], the tariffs one member city may lay on another's goods, and the charter by which the [[affiliation-corsairleg|Corsair League]] serves as the Confederation's navy, which the Council threatens to revoke whenever the League's captains read it too widely. It is the patron of the [[affiliation-vezakuni|Vezakuni]], it confirms the Kubasum who keeps the Merazuni, and it authorizes every addition to the treasury's reserves.
 
 The first business of every session is the debt. The Confederation owes the [[affiliation-auricompct|Auric Compact]] for the war, and the interest on the loan is read and voted before any other measure. It always passes.
 
@@ -98,7 +98,7 @@ The summer session is a fight over its order of business, and [[being-dnshkmn|Da
 - **The veterans' petition**, which [[being-zlmrzzn|Zilmar Ezzinu]] of the Besikar halls brings to the residence before every session and a councilor of Yamuzel sponsors. It has been read on the last afternoon of every session since the outlawing, and the halls are talking of a rising.
 - **The toll.** [[being-dlzrtndn|Delzuru Tanaduni]] wants a League toll on every hull through the narrows, collected by League galleys, and the League's charter is on the order beside it.
 - **The audit.** [[being-trmnqzkn|Tirmana Qizikuni]] wants the Council to order an audit of the [[affiliation-merazuni|Merazuni]]'s strongroom, and has a candidate of her own for [[being-yshdyjkdn|Yushuduya Jakuduni]]'s chair.
-- **The indemnity.** Vylaria refuses the war indemnity, and the Council's claim to it stands in the petitions again.
+- **The indemnity.** Viléria refuses the war indemnity, and the Council's claim to it stands in the petitions again.
 
 Behind the list the houses talk of something larger. Tirmana Qizikuni has sounded the heads of the other four houses on council seats that pass from a head to an heir. Nobody has put it on the order.
 

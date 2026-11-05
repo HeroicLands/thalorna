@@ -1,6 +1,6 @@
 ---
 shortcode: khzryndsrtrgn
-name: {full: Khazryn Desert Region, en: [Khazryn Desert]}
+name: {full: Khazrin Desert Region, en: [Khazrin Desert]}
 type: place
 subType: region
 description: The largest and emptiest country of Ankaris—desert and dry grassland more than two thousand miles across, crossed by one camel road that the tribes sell by the mile, with dead cities under its sand and an old people clinging to the foot of the Grazian Mountains.
@@ -29,11 +29,11 @@ data:
 # terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The Persianate oasis-belt along the southern mountains (Uzbek/Tajik analog) is held by the Tellumi and the Atarzád; the northern taiga is the Siberian analog; the steppe and the stone desert are home to Turkic and Mongolic horse-nomad tribes and their short-lived empires."
 ---
 
-Before dawn a rider sits on a ridge above a spring that no caravan has marked on any list, watching a cloth tied to a horse skull and the three strangers who wait beside it without touching the water. That is the Khazryn as the people who live in it know it: a country so wide that every well has an owner, and the owner is usually watching from somewhere you cannot see.
+Before dawn a rider sits on a ridge above a spring that no caravan has marked on any list, watching a cloth tied to a horse skull and the three strangers who wait beside it without touching the water. That is the Khazrin as the people who live in it know it: a country so wide that every well has an owner, and the owner is usually watching from somewhere you cannot see.
 
-The Khazryn measures about 2,350 miles from west to east and 1,400 from north to south, desert and dry grassland from the forests of [[place-velanthrgn|Velanthia]] to the mountain passes of [[place-tantsouregin|Tantsou]], north of the [[place-dunharargn|Dunhara Region]] and the [[place-vedyarargn|Vedyara Region]]. About 3,000,000 people live in it, most of them crowded into a narrow strip at the foot of the mountains, so that the rest is a waste of sand, stone and thin grass where you can ride for a week and meet nobody. Cities rose and died in that waste before anyone wrote them down, and their ruins still stand in it.
+The Khazrin measures about 2,350 miles from west to east and 1,400 from north to south, desert and dry grassland from the forests of [[place-velanthrgn|Velanthia]] to the mountain passes of [[place-tantsouregin|Tantsou]], north of the [[place-dunharargn|Dunhara Region]] and the [[place-vedyarargn|Vedyara Region]]. About 3,000,000 people live in it, most of them crowded into a narrow strip at the foot of the mountains, so that the rest is a waste of sand, stone and thin grass where you can ride for a week and meet nobody. Cities rose and died in that waste before anyone wrote them down, and their ruins still stand in it.
 
-One road crosses it. [[lore-celestialroad|The Celestial Road]] carries the silk of Tantsou west and the silver of [[place-midhalnrgn|Midhalión]] east, on camels only, and the independent tribes through whose ranges it runs sell passage over it a stretch at a time. The crossing takes more than four months. That price, and the fortunes it makes, are what outsiders remember the Khazryn for.
+One road crosses it. [[lore-celestialroad|The Celestial Road]] carries the silk of Tantsou west and the silver of [[place-midhalnrgn|Midhalión]] east, on camels only, and the independent tribes through whose ranges it runs sell passage over it a stretch at a time. The crossing takes more than four months. That price, and the fortunes it makes, are what outsiders remember the Khazrin for.
 
 ## Scale and Sub-regions
 
@@ -52,7 +52,7 @@ The [[place-swoasisbelt|Tellumel]] is narrow, forty to eighty miles deep where t
 
 ## Climate and Water
 
-The Khazryn is dry and continental: hot summers, bitter winters, and a wide swing between a noon and the night after it. A thin spring rain falls on the north and the western margin and almost never on the sands. Everything a traveler drinks comes from one of three sources.
+The Khazrin is dry and continental: hot summers, bitter winters, and a wide swing between a noon and the night after it. A thin spring rain falls on the north and the western margin and almost never on the sands. Everything a traveler drinks comes from one of three sources.
 
 - **Snowmelt.** The glaciers of [[place-graznmntns|the Grazian Mountains]] feed the streams of the Tellumel, and nothing north of it.
 - **Deep wells.** Stepped shafts dug into old aquifers along the road, most of them cut by the builders of the tower cities and kept open by the tribes whose ranges they lie in. A tribe that closes a well closes the road.
@@ -74,7 +74,7 @@ The tribes are hostile to outsiders as a rule and sell exceptions to the rule. A
 
 At the foot of the mountains, in the strip where the snowmelt reaches, lives a civilization older than any tribe's memory and unlike them in everything. The Tellumi came down out of the Grazian Mountains by [[place-wstrndscnt|the Western Descent]], founded seven walled cities at the great springs, and kept two thousand years of records on baked clay. They worship all the gods of the [[affiliation-ashanpnthn|Ashaian Pantheon]], and three generations ago the [[affiliation-tribestrzd|Atarzád]], twelve tribes with a single god, took four of their greatest cities. See [[place-swoasisbelt|Tellumel]], the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] and the [[affiliation-tribestrzd|Tribes of Atarzád]] for the full account.
 
-Outsiders who hear "the Khazryn" often picture this corner. It holds most of the region's people, and it has almost nothing to do with the tribes of the waste, who regard it as foreign and raid its outer gardens when they dare. The nomads camped two days' ride to the north are less like the Tellumi than the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is.
+Outsiders who hear "the Khazrin" often picture this corner. It holds most of the region's people, and it has almost nothing to do with the tribes of the waste, who regard it as foreign and raid its outer gardens when they dare. The nomads camped two days' ride to the north are less like the Tellumi than the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is.
 
 ## Ruins and Dangers
 
@@ -88,7 +88,7 @@ Living creatures gather where water is. [[being-gntcmlsp|Giant camel spiders]] c
 
 The northern third of the region is not desert. [[place-gwtkrrgn|Ghotaqor]] is the same cold forest that covers upper Velanthia, all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]]: taiga, bog and frozen river, with a few thousand hunters scattered over a land the size of a kingdom. Some hunters take seals along the icy coast; others follow deer inland. They have no leaders to speak of and no part in the road. Hunters tell of walls and passages in the forest that no one of theirs cut, and travelers say they are halls of the [[lore-khazariclt|Khazari]] or works of [[lore-theithari|the Ithari]]; no one has been far enough in to say.
 
-Along the south the Grazian Mountains stand as a wall of year-round glaciers and enormous peaks, with six crossings in two thousand miles and the Tellumi cities below them. The range is old ground for ruins and labyrinths, and the Tellumi trace their ancestry to peaks above its north face. Its passes lead into Vedyara; the road across the Khazryn does not use them.
+Along the south the Grazian Mountains stand as a wall of year-round glaciers and enormous peaks, with six crossings in two thousand miles and the Tellumi cities below them. The range is old ground for ruins and labyrinths, and the Tellumi trace their ancestry to peaks above its north face. Its passes lead into Vedyara; the road across the Khazrin does not use them.
 
 ## Religion
 
@@ -98,17 +98,17 @@ The desert itself is charged. Particular mesas, springs and old shrines are holy
 
 ## Power
 
-No one rules the Khazryn. Power sits with the individual tribes, each answering only to its own dovaq; with the Tellumi houses and the Atarzád in the Tellumel, quarreling over four conquered cities; with the hunting bands of Ghotaqor, who answer to nobody; and with a handful of oases on the road, whose masters grow rich on caravans.
+No one rules the Khazrin. Power sits with the individual tribes, each answering only to its own dovaq; with the Tellumi houses and the Atarzád in the Tellumel, quarreling over four conquered cities; with the hunting bands of Ghotaqor, who answer to nobody; and with a handful of oases on the road, whose masters grow rich on caravans.
 
-Foreign powers have given up trying to rule the desert. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height held a handful of fortified outposts on the western margin, and their ruins are still watered, for a fee, by the tribes that camp there. One of them is [[place-roqid|Oroqid]], "the camp", on a low ridge near the road in [[place-wlqtrrgn|Volketor]], whose cistern still fills. [[affiliation-tantsouempr|Tantsou]] keeps permanent garrisons on its western passes. The Kingdom of Amradad keeps formal relations with the Tellumel and avoids any adventure further north.
+Foreign powers have given up trying to rule the desert. The [[affiliation-vylarinmpr|Vilérian Empire]] at its height held a handful of fortified outposts on the western margin, and their ruins are still watered, for a fee, by the tribes that camp there. One of them is [[place-roqid|Oroqid]], "the camp", on a low ridge near the road in [[place-wlqtrrgn|Volketor]], whose cistern still fills. [[affiliation-tantsouempr|Tantsou]] keeps permanent garrisons on its western passes. The Kingdom of Amradad keeps formal relations with the Tellumel and avoids any adventure further north.
 
 The Storm of the Hundred Banners took the one road a host can take. It went round the Grazian wall by the Western Descent, overran the whole of Vedyara's northwestern marches, and turned west across the Dunhara to the walls of the Kingdom before it broke on the death of its founding orghun. No pass was forced and none could have been: a crossing that carries three caravans in a good season carries no host. The Tellumel was largely spared, because the storm-chief respected the Kingdom's missions to its cities.
 
 ## Current Situation {#present}
 
-The Khazryn's fuse is on the steppe. A dovaq is gathering the northern tribes by victory and marriage, and the word has reached the western margin, the market-camp and the Atarzád on their mountain. Each great union opens a new count of [[lore-swdsclndr|the Sovidur Reckoning]], and every tribe he reaches, and every oasis and caravan that deals with them, has to decide where it stands.
+The Khazrin's fuse is on the steppe. A dovaq is gathering the northern tribes by victory and marriage, and the word has reached the western margin, the market-camp and the Atarzád on their mountain. Each great union opens a new count of [[lore-swdsclndr|the Sovidur Reckoning]], and every tribe he reaches, and every oasis and caravan that deals with them, has to decide where it stands.
 
-- **[[place-wlqtrrgn|Volketor]]:** the margin's tribes sell passage to every faction of the Black Flame digging at the Ruins of Arkor, and the tribe at [[place-roqid|Oroqid]] awaits a Vylarian official who wants a legion's standard from its strongroom.
+- **[[place-wlqtrrgn|Volketor]]:** the margin's tribes sell passage to every faction of the Black Flame digging at the Ruins of Arkor, and the tribe at [[place-roqid|Oroqid]] awaits a Vilérian official who wants a legion's standard from its strongroom.
 - **[[place-hskrrgn|Ghoshiqor]]:** a street of Vulud stands open and has been sold twice, and the factors at [[place-qisomrktcmp|Qiiso]] ask what a union would make of the market.
 - **[[place-dkrqrrgn|Diqraqor]]:** the upland tribes and the Atarzád flocks dispute the southern slopes from well to well.
 - **[[place-idwkrrgn|Idvaqor]]:** the tribes sell the last passage under the eye of Tantsou, which pays some chiefs and patrols the road a week out from the pass.
@@ -117,13 +117,13 @@ The Khazryn's fuse is on the steppe. A dovaq is gathering the northern tribes by
 
 ## Trade
 
-The Khazryn is the one overland artery between the Aureldian west and the Tantsou east. Silk, fine porcelain, brick tea, lacquer, jade, spices and medicines go west on camels, and silver and gold by weight, amber, coral, glass and horses go east. Everything on the list is light and dear, because nothing heavier is worth the price of crossing and no cart can cross.
+The Khazrin is the one overland artery between the Aureldian west and the Tantsou east. Silk, fine porcelain, brick tea, lacquer, jade, spices and medicines go west on camels, and silver and gold by weight, amber, coral, glass and horses go east. Everything on the list is light and dear, because nothing heavier is worth the price of crossing and no cart can cross.
 
 The tribes do little long-distance trading of their own. They are the road, and their hold on its wells makes them richer and more powerful than their tents suggest. Bizarian and Taruzeli merchants dominate the western end of the trade and Tantsou and Vedyari merchants the eastern; the middle belongs to whoever owns the water. [[lore-celestialroad|The Celestial Road]] gives the route, the costs, the waypoints and the reason merchants pay them.
 
 ## Neighbors
 
-To the **west** lies [[place-velanthrgn|Velanthia]], the forest-steppe and grain belt between the Nordlands forests and the open grass. Velanthian grain goes east, Khazryn horses and furs come west, and tribal raiders test Velanthia's frontier defenses and its [[place-eastrnmrch|Eastern March]] neighbors with limited success.
+To the **west** lies [[place-velanthrgn|Velanthia]], the forest-steppe and grain belt between the Nordlands forests and the open grass. Velanthian grain goes east, Khazrin horses and furs come west, and tribal raiders test Velanthia's frontier defenses and its [[place-eastrnmrch|Eastern March]] neighbors with limited success.
 
 To the **southwest** lies the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in the broader [[place-dunharargn|Dunhara]]. It is the principal outside power with which the Tellumel keeps sustained relations, and the home of the Tellumi houses in exile. The rest of Dunhara wraps round the Tellumel's western end, and the two share the Ashaian pantheon and many customs.
 
@@ -131,7 +131,7 @@ To the **south** stands the Grazian wall and, below it, Vedyara. The frontier is
 
 To the **east** lie the passes to Tantsou, where the tribes of Idvaqor sell the last stage and the Empire has spent centuries treating its frontier with them as a standing problem.
 
-To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vristwald]], nearly a thousand miles off. Contact is sparse, since the [[lore-varokhiclt|Varokhi]] forest tribes have little use for open steppe, but the few routes across Velanthia carry a trickle of furs, amber and Khazryn silver, with horses going the other way. The hunters of Ghotaqor and the northeastern Varokhi keep the only continuous contact between the two.
+To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vristwald]], nearly a thousand miles off. Contact is sparse, since the [[lore-varokhiclt|Varokhi]] forest tribes have little use for open steppe, but the few routes across Velanthia carry a trickle of furs, amber and Khazrin silver, with horses going the other way. The hunters of Ghotaqor and the northeastern Varokhi keep the only continuous contact between the two.
 
 ## See Also
 
@@ -140,8 +140,8 @@ To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vristwald]], near
 - [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
 - [[affiliation-ashanpnthn|Ashaian Pantheon]]—primary pantheon, shared with Dunhara and Taruzel
 - [[skill-sowideslng|Sovidur Language]]—the tongue of the tribes
-- [[skill-tellumilng#lexicon|Khazryn Lexicon]]—the words and names of the three tongues
-- Creatures of the Khazryn:
+- [[skill-tellumilng#lexicon|Khazrin Lexicon]]—the words and names of the three tongues
+- Creatures of the Khazrin:
   - At the wells and on the road: [[being-gntcmlsp|Giant Camel Spider]], [[being-bnscrpn|Bone Scorpion]], [[being-gntscrpn|Giant Scorpion]], [[being-sndstlkr|Sand Stalker]], [[being-qelodud|Kelodud]], [[being-budeq|Budaq]], [[being-gwirador|Guredor]], [[being-mghyn|Mega Hyena]]
   - In the sands and on the salt: [[being-sandwurm|Sand Wurm]], [[being-dnstrdr|Dune Strider]], [[being-duneclaw|Duneclaw]], [[being-hosikud|Ghoshikud]], [[being-orkesud|Orqazud]], [[being-yolequd|Yolakud]], [[being-numek|Numaq]]
   - In the stone uplands and the badlands: [[being-brmblspn|Bramblespine Dartel]], [[being-nuoworoth|Nuoworoth]], [[being-rcksclan|Rockscale Anklyte]], [[being-vnmspttr|Venomspitter]], [[being-ironjaw|Ironjaw]], [[being-erthrvr|Earthreaver]]

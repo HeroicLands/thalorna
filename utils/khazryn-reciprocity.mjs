@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
-/** Borders and routes through the Khazryn have a return at their far end. */
+/** Borders and routes through the Khazrin have a return at their far end. */
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -49,13 +49,13 @@ export function readPlaces(content = CONTENT) {
     return places.sort((a, b) => a.file.localeCompare(b.file));
 }
 
-/** Derive the Khazryn's descendants and check every edge entering or leaving them.
+/** Derive the Khazrin's descendants and check every edge entering or leaving them.
  * @param {{file:string,shortcode:string,data:Record<string,any>}[]} places Authored places.
  * @returns {string[]} Missing reciprocal entries, with their source files.
  */
 export function checkReciprocalEdges(places) {
     const byCode = new Map(places.map((place) => [place.shortcode, place]));
-    if (!byCode.has(KHAZRYN)) return [`${KHAZRYN}: the Khazryn region has no place note`];
+    if (!byCode.has(KHAZRYN)) return [`${KHAZRYN}: the Khazrin region has no place note`];
     const covered = new Set([KHAZRYN]);
     let changed = true;
     while (changed) {

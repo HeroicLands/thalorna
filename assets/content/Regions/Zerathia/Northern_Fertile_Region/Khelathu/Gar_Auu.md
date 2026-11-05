@@ -30,7 +30,7 @@ The temple king-lists, compiled by the priesthood of [[affiliation-rethsaar|Reth
 
 Every reign stands under its throne name, the name the Gar-Au was crowned under, and the throne name is what every contract and tax roll of the reign carries. A throne name joins a name element to a god's house-form—_Amqel'Uqa_, "beloved of the sun-lord"; _Gez'el'Qar_, "enduring in order"—and the [[skill-khelathlng|Khelathi Language]] note sets out how one is built. Names are used again, and the list numbers their bearers across its whole length, so a numeral counts every Gar-Au who has worn the name, in any house.
 
-A conqueror is entered like anyone else. Hill-nomads from the western margins, sea-raiders out of the north and a [[lore-vylarianclt|Vylarian]] army have each taken the throne; each time the priesthood crowned the new master under a throne name, entered his line as a house, and waited. The list gives the foreign houses Khelathi names and keeps no other.
+A conqueror is entered like anyone else. Hill-nomads from the western margins, sea-raiders out of the north and a [[lore-vylarianclt|Vilérian]] army have each taken the throne; each time the priesthood crowned the new master under a throne name, entered his line as a house, and waited. The list gives the foreign houses Khelathi names and keeps no other.
 
 ## Reading the List
 
@@ -114,7 +114,7 @@ The priesthood of Uqa'a raised the first of these houses in the year of the fall
 |                   | **Kuz'el'Retha II**    |         2576 |     4 | 466 | went to the West in his fourth year                                                  |
 |                   | **Kuz'el'Retha III**   |         2579 |     2 | 469 | a child of three floods; **Zu'Meku** stood beside him; went to the West in the night |
 
-The one-reign house of [Shethes'Ralu]{.name data-type="affiliation/lineage"} is a frontier commander crowned in the year of [[lore-eastroad|the Storm on the Eastern Road]]. The [Amralo'Methu]{.name data-type="affiliation/lineage"} are the Vylarian occupation ([[lore-vylconquest|the Vylarian Conquest]]). A Vylarian army at the height of the [[affiliation-vylarinmpr|Vylarian Empire]]'s reach took the throne in 377 AF, and the priesthood crowned its commander [Zab'el'Qar I]{.name data-type="being/npc"}—"lord in order," a name that told the valley what was expected of him. His son reigned after him as a Khelathi, and when he went to the West in the night the house was closed and no Vylarian claimed it ([[lore-foreignhs|the Closing of the Foreign House]]). The list gives the commander's throne name and nothing else, and no Khelathi record gives the name he was born to.
+The one-reign house of [Shethes'Ralu]{.name data-type="affiliation/lineage"} is a frontier commander crowned in the year of [[lore-eastroad|the Storm on the Eastern Road]]. The [Amralo'Methu]{.name data-type="affiliation/lineage"} are the Vilérian occupation ([[lore-vylconquest|the Vilérian Conquest]]). A Vilérian army at the height of the [[affiliation-vylarinmpr|Vilérian Empire]]'s reach took the throne in 377 AF, and the priesthood crowned its commander [Zab'el'Qar I]{.name data-type="being/npc"}—"lord in order," a name that told the valley what was expected of him. His son reigned after him as a Khelathi, and when he went to the West in the night the house was closed and no Vilérian claimed it ([[lore-foreignhs|the Closing of the Foreign House]]). The list gives the commander's throne name and nothing else, and no Khelathi record gives the name he was born to.
 
 ### The Reigning House
 

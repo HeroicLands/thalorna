@@ -59,7 +59,7 @@ A watch-sergeant at the Spire Circle tells every new man the same thing on his f
 
 ## Overview
 
-The City Watch, the Zorala in [[skill-vylarilng|Vylari]], is the standing branch of [[affiliation-vylrnmltry|The Vylarian Military]] that keeps the peace of [[place-orzara|Orzara City]] beyond the [Inner Wall]{.name data-type="place/structure"}. It is legionary in recruitment, discipline and equipment, and it is a city institution: it takes no part in foreign campaigns, and it fights as soldiers only when a Circle riots. It patrols the wards, arrests, guards the gates and the state granaries, puts out the city's fires, holds the gate-roads across the [Clearance]{.name data-type="place/feature"}, and supplies the muscle behind the rulings of the [[affiliation-aediles|Pelthralon]]. It enforces and investigates, and it does not judge: a man the Watch takes goes before a _peltros_ (ward magistrate) or the Criminal Tribunal of the [[affiliation-verdanorzara|Orzara Courts]].
+The City Watch, the Zorala in [[skill-vylarilng|Vilari]], is the standing branch of [[affiliation-vylrnmltry|The Vilérian Military]] that keeps the peace of [[place-orzara|Orzara City]] beyond the [Inner Wall]{.name data-type="place/structure"}. It is legionary in recruitment, discipline and equipment, and it is a city institution: it takes no part in foreign campaigns, and it fights as soldiers only when a Circle riots. It patrols the wards, arrests, guards the gates and the state granaries, puts out the city's fires, holds the gate-roads across the [Clearance]{.name data-type="place/feature"}, and supplies the muscle behind the rulings of the [[affiliation-aediles|Pelthralon]]. It enforces and investigates, and it does not judge: a man the Watch takes goes before a _peltros_ (ward magistrate) or the Criminal Tribunal of the [[affiliation-verdanorzara|Orzara Courts]].
 
 The Watch is filled with veteran-citizens, men discharged from the legions at about thirty-five and settled in the capital on the dole. A place in it is among the most prized careers after service, because the wage on top of the pension turns scraping by into a living. Many watchmen live in the wards they patrol and drink in the taverns of their old legions. The [[affiliation-sorvan|Sorvan]], the imperial guard, keeps the Inner City and the Watch keeps everything below it, and the two despise each other across the wall.
 
@@ -131,7 +131,7 @@ The lean years are the third. The lean-tos are on the Clearance again below the 
 
 ## See Also
 
-[[affiliation-vylrnmltry|The Vylarian Military]]
+[[affiliation-vylrnmltry|The Vilérian Military]]
 : the legions the Watch is a branch of
 
 [[affiliation-verdanorzara|Orzara Courts]]
@@ -149,7 +149,7 @@ The lean years are the third. The lean-tos are on the Clearance again below the 
 [[place-orzara|Orzara City]]
 : the city the Watch keeps
 
-[[doc-vylrnctznshp|Vylarian Citizenship]]
+[[doc-vylrnctznshp|Vilérian Citizenship]]
 : the veteran-citizen, the resident and the dole
 
 # The Truth of the Watch {#truth .secret}

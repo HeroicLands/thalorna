@@ -100,7 +100,7 @@ He has no coin of his own. Every promise he makes is paid, if it is paid, by his
 
 - **[[affiliation-mardovanes|House Mardovanes]]**: of the name, the master's brother and the house's claimant.
 - **[[affiliation-seldan|The Seldan]]**: a _kurthos_ of the Gilded estate, by his own offices.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a _tavalen_, who has held the chief magistracy and is eligible for the greatest provincial commands.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a _tavalen_, who has held the chief magistracy and is eligible for the greatest provincial commands.
 
 ## Plot Hooks
 

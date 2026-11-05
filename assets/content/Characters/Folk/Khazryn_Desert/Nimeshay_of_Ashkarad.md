@@ -3,7 +3,7 @@ shortcode: nimeshayashk
 name: {full: Nimeshay of Ashkarad}
 type: being
 subType: npc
-description: "Heir-in-exile of the House of Ashkarad, a merchant prince grown rich on the Vylarian Sea trade who lends his silver to the craft families of Ashkarad and quietly funds Tellumi agitation in the held cities."
+description: "Heir-in-exile of the House of Ashkarad, a merchant prince grown rich on the Vilérian Sea trade who lends his silver to the craft families of Ashkarad and quietly funds Tellumi agitation in the held cities."
 tags: []
 data:
   icon: icon-person
@@ -48,7 +48,7 @@ Nimeshay of Ashkarad is a 58-year-old man who stands 5'8" tall and is of heavy b
 
 Nimeshay of Ashkarad is the heir-in-exile of the [[affiliation-hseashkarad|House of Ashkarad]], the craft-house of the [[affiliation-khzrncnfdrtn|Tellumi Confederation]], and the richest of the four exile princes. His court sits in [[place-shebarakhend|Shebarakhend]], the court city of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in a house on the market side of the city with a counting room on the ground floor and the court above it, and the two floors are not entirely separate.
 
-He grew rich on the trade of the [[place-vylarianse|Vylarian Sea]]: Ashkarad's tools, harness and glazed jars carried west through Kingdom ports, and cloth, glass and metals carried back. He spends the money in two places. Some goes, quietly, into Tellumi agitation in the held cities. More goes back to [[place-ashkarad|Ashkarad]] as loans to craft families who would be ruined by a [Teghumod]{.name data-type="affiliation/polity"} price, since a family sells its work to a Teghumod factor at the price the factor sets. Everybody in the old quarter of Ashkarad knows whose silver it is, and the families take it anyway. A workshop that owes Nimeshay is a workshop that stands to the house when the house asks.
+He grew rich on the trade of the [[place-vylarianse|Vilérian Sea]]: Ashkarad's tools, harness and glazed jars carried west through Kingdom ports, and cloth, glass and metals carried back. He spends the money in two places. Some goes, quietly, into Tellumi agitation in the held cities. More goes back to [[place-ashkarad|Ashkarad]] as loans to craft families who would be ruined by a [Teghumod]{.name data-type="affiliation/polity"} price, since a family sells its work to a Teghumod factor at the price the factor sets. Everybody in the old quarter of Ashkarad knows whose silver it is, and the families take it anyway. A workshop that owes Nimeshay is a workshop that stands to the house when the house asks.
 
 ## Background
 

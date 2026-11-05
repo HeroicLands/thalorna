@@ -101,7 +101,7 @@ The League council and military
 : primary client and overseer. The League's investigators currently include the guild in the same breath as the spy networks they are trying to dismantle.
 
 [[affiliation-tevran|The Tevran Maldor]]
-: supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Tevran charter; the **Rozimoi of the Tevran** have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation against Master Damáklios. The matter is being held at chapter level for now; if it reaches the Council's attention, the consequences for the guild's charter could be substantial.
+: supra-realm authority. The guild's standing throughout the western Vilérian world depends on its Tevran charter; the **Rozimoi of the Tevran** have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation against Master Damáklios. The matter is being held at chapter level for now; if it reaches the Council's attention, the consequences for the guild's charter could be substantial.
 
 The Crime Syndicates of Thalorna, particularly the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"}
 : quietly major purchasers of guild work for purposes the guild's charter forbids.
@@ -110,7 +110,7 @@ The Crime Syndicates of Thalorna, particularly the [Theft Syndicate of the Easte
 : the guild's shadow. Most Ledger members are guild-trained, and many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist, and the city guard pretends the Council does not know.
 
 Foreign powers
-: [[affiliation-kingdmtrvn|Tarvénia]], an unidentified northern confederation and at least one Vylarian province pay handsomely for League maps procured through irregular channels.
+: [[affiliation-kingdmtrvn|Tarvénia]], an unidentified northern confederation and at least one Vilérian province pay handsomely for League maps procured through irregular channels.
 
 ## Identifying Marks
 

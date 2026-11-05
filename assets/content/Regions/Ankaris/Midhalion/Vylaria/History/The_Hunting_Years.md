@@ -50,7 +50,7 @@ A _sekeros_'s notary, filing the report on a hedge-witch's cottage in a [[place-
 
 ## The Monopoly Meets the Country
 
-[[lore-kandrol|The Kandrol]] gave the [[affiliation-ordoarcanis|Thordimalon]] the sole right to practice, teach and trade in arcane lore, and it gave [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) the duty to make that right real. Making it real took a generation. Practitioners who refused the terms had gone underground or beyond the [Vylarian Republic]{.name data-type="affiliation/polity"}'s reach, and others had never heard of the Lex at all. Rival traditions, handed down in families and temples and market towns, taught what the Order's colleges did not teach and ignored the register.
+[[lore-kandrol|The Kandrol]] gave the [[affiliation-ordoarcanis|Thordimalon]] the sole right to practice, teach and trade in arcane lore, and it gave [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) the duty to make that right real. Making it real took a generation. Practitioners who refused the terms had gone underground or beyond the [Vilérian Republic]{.name data-type="affiliation/polity"}'s reach, and others had never heard of the Lex at all. Rival traditions, handed down in families and temples and market towns, taught what the Order's colleges did not teach and ignored the register.
 
 The Sekran went after all of it. A practitioner the Sekran found was enrolled if he would be, on terms, and the Order's colleges grew by people who would not otherwise have come. Those who would not be enrolled were held, under oath or in a prison, and the few judged too dangerous were killed. The Republic lent the Order legions for the work, and when the Republic ended the Founder's peace went on lending them.
 
@@ -61,7 +61,7 @@ The hardest country to hunt in was the one that had taught the Order its craft. 
 ## What It Left
 
 - **The five methods.** Recruitment, confiscation, restriction, imprisonment and elimination, in that order of preference, are the Sekran's practice today as they were its practice in these years.
-- **The age before the Order.** The official history that teaches a Vylarian child what an unregistered practitioner is, and the cautionary tale the monopoly is defended with.
+- **The age before the Order.** The official history that teaches a Vilérian child what an unregistered practitioner is, and the cautionary tale the monopoly is defended with.
 - **The prisons.** The magical prisons the Order keeps at several places across the western part of the [[place-ankrscntnnt|Ankaris Continent]], for the offenders the Sekran judges too dangerous to enroll.
 - **The register.** A name on it is the best outcome the Sekran can file, and the Hunting Years are where the habit of filing one began.
 

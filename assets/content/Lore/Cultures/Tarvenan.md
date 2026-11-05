@@ -53,7 +53,7 @@ data:
 
 ## Courage as a Trade
 
-The Tarvenan mercenary tradition is famous across the continent, and the important thing about it is that it carries no shame whatever. Tarveni swordsmen and crossbowmen serve in armies from the [[place-vylariargn|Vylaria Region]] to the [[place-taruzelrgn|Taruzel Region]], and taking pay for arms is an honorable career here and not a mark of desperation—the thing a second son does because it is respectable, not because nothing else was left.
+The Tarvenan mercenary tradition is famous across the continent, and the important thing about it is that it carries no shame whatever. Tarveni swordsmen and crossbowmen serve in armies from the [[place-vylariargn|Viléria Region]] to the [[place-taruzelrgn|Taruzel Region]], and taking pay for arms is an honorable career here and not a mark of desperation—the thing a second son does because it is respectable, not because nothing else was left.
 
 That fact organizes more than it appears to. It means a Tarvenan expects to leave and come back, and that a great many households are run for years at a stretch by women whose husbands are under contract three hundred miles away. It means money flows home from other people's wars, and that a village of no importance can be surprisingly well armed.
 
@@ -218,4 +218,4 @@ The culture's other blind side runs through the household. Women manage property
 
 The full dictionary is in the [[skill-tarvenlng#lexicon|Tarveni Language]].
 
-Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Viléria]].

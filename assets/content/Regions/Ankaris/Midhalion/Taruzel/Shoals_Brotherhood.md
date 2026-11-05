@@ -3,7 +3,7 @@ shortcode: shoalsbrthd
 name: {full: Shoals Brotherhood, en: [The Shoals Brotherhood, The Brotherhood]}
 type: affiliation
 subType: criminal
-description: "The outlawed crews who hold the Tamzir Shoals, living in a hidden lagoon among the wrecks of the Vylarian squadron under the Qatilush, the code their founders swore after the war: they pilot, raid and dive, share every taking by lot, and keep the squadron's bronze rams from every buyer."
+description: "The outlawed crews who hold the Tamzir Shoals, living in a hidden lagoon among the wrecks of the Vilérian squadron under the Qatilush, the code their founders swore after the war: they pilot, raid and dive, share every taking by lot, and keep the squadron's bronze rams from every buyer."
 tags: [taruzel]
 data:
   culture: taruzelianclt
@@ -60,7 +60,7 @@ sohl: {system: {commonSkills: [taruzelilng]}}
 # terran_analog: "Pirate articles of the Caribbean, with their elected captain and shares by lot; the wreckers and salvors of shoal coasts; a veterans' fraternity. Departs: its members were the war's own sailors outlawed by their own government, it holds one stretch of water, and its code forbids it to sell the treasure it sits on."
 ---
 
-"The Shoals are no man's," the Reader tells a new Hand on the sand at low water, with the crew standing round and the flood already coming in over his feet. "We did not take them. We were put here." The Shoals Brotherhood is the body of outlawed sailors that holds the [[place-tamzirshoals|Tamzir Shoals]] west of [[place-khamisar|Khamisar]]: some four hundred men and women in two dozen boats, who live in [Sulimar]{.name data-type="place/site"}, a hidden lagoon at the heart of the Shoals, among the wrecks of the Vylarian squadron that was destroyed there in the war. The guilds of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] call them pirates. They pilot ships through the Shoals for a share of the cargo, raid the shipping of the guilds, and dive on the wrecks for their metal.
+"The Shoals are no man's," the Reader tells a new Hand on the sand at low water, with the crew standing round and the flood already coming in over his feet. "We did not take them. We were put here." The Shoals Brotherhood is the body of outlawed sailors that holds the [[place-tamzirshoals|Tamzir Shoals]] west of [[place-khamisar|Khamisar]]: some four hundred men and women in two dozen boats, who live in [Sulimar]{.name data-type="place/site"}, a hidden lagoon at the heart of the Shoals, among the wrecks of the Vilérian squadron that was destroyed there in the war. The guilds of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] call them pirates. They pilot ships through the Shoals for a share of the cargo, raid the shipping of the guilds, and dive on the wrecks for their metal.
 
 ## Who They Are
 
@@ -99,7 +99,7 @@ The Brotherhood sells what it takes and what it raises across the strait and in 
 - **The Corsair League** hunts the Brotherhood in the channels and has never once followed it into the Shoals. Some League captains hire Brotherhood pilots on the quiet, and some sailed with the Elders in the war.
 - **The Auric Compact** is the enemy the code names: its cargoes are the first the Brotherhood takes, and its bounty on the Caller is the largest the Compact posts.
 - **Yamuzel's watch-boats** patrol the channels from the marine posts on Khamisar's western shore. Their crews are veterans' sons, and the Brotherhood's boats know which nights they are out.
-- **The Vylarian Empire** wants the rams. Its factors in the eastern harbors have let it be known that the navy pays well for any ram returned to [[place-castamar|Kastamar]].
+- **The Vilérian Empire** wants the rams. Its factors in the eastern harbors have let it be known that the navy pays well for any ram returned to [[place-castamar|Kastamar]].
 
 ## The Present {#present}
 
@@ -129,6 +129,6 @@ The League's galleys hunt the channels round the Shoals, and no League galley ha
 
 # The Truth of the Brotherhood {#truth .secret}
 
-**The dead's share is unpaid.** The League doubled its patrols in the channels two seasons ago, takings have been thin since, and the Keeper of the Lots has paid the families of the dead nothing for two seasons. The Caller, [Burakan Zupumi]{.name data-type="being/npc"}, a Brother of thirty who was a boy in the boats at the Shoals and is the first Caller who is not an Elder, means to pay them. He has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vylarian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms.
+**The dead's share is unpaid.** The League doubled its patrols in the channels two seasons ago, takings have been thin since, and the Keeper of the Lots has paid the families of the dead nothing for two seasons. The Caller, [Burakan Zupumi]{.name data-type="being/npc"}, a Brother of thirty who was a boy in the boats at the Shoals and is the first Caller who is not an Elder, means to pay them. He has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vilérian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms.
 
-The Elders do not know. If they learn of it before the rams are sold, Burakan will be judged under the fifth article, and the Brotherhood will split between the crews who would give him to the sand and the crews who have not eaten well since spring. If they learn of it after, the Brotherhood will have broken its own code for Vylarian silver, and the Free Captains will not lie in its lagoon again. A party can be hired by the factor to see the rams delivered, by an Elder who suspects to find them, or by Burakan himself, who needs a hull that can carry a ram and a crew that is not his.
+The Elders do not know. If they learn of it before the rams are sold, Burakan will be judged under the fifth article, and the Brotherhood will split between the crews who would give him to the sand and the crews who have not eaten well since spring. If they learn of it after, the Brotherhood will have broken its own code for Vilérian silver, and the Free Captains will not lie in its lagoon again. A party can be hired by the factor to see the rams delivered, by an Elder who suspects to find them, or by Burakan himself, who needs a hull that can carry a ram and a crew that is not his.

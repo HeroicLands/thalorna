@@ -87,7 +87,7 @@ The janpoda owns its land collectively through the temple. A cultivator holds ri
 
 Say a channel breaks below your host's field the week before planting. Your host does not go to a magistrate. He goes to the temple, where the clerk finds the channel on the survey and the share of water the field is owed; at the next sitting the householders of the three villages that drink from it argue who mends it and who pays, and the convening priest declares what they have agreed. The arrangement is slow, public and very hard to overturn.
 
-It is also durable. Temples burn, droughts empty villages, and kingdoms absorb smaller polities and release them again, but the janpodas hold that [[lore-janpdform|their form]] has run unbroken for nearly three thousand years, and a village-cluster today is governed much as one was at the founding of the [[affiliation-vylarinmpr|Vylarian Empire]].
+It is also durable. Temples burn, droughts empty villages, and kingdoms absorb smaller polities and release them again, but the janpodas hold that [[lore-janpdform|their form]] has run unbroken for nearly three thousand years, and a village-cluster today is governed much as one was at the founding of the [[affiliation-vylarinmpr|Vilérian Empire]].
 
 ## The Mahva-Melka
 

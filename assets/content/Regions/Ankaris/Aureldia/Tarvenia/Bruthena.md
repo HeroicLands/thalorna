@@ -18,7 +18,7 @@ data:
 
 Bruthena is a bridge with a town attached. Seven stone arches carry the road from [[place-torvaleth|Torvaleth]] to [[place-valthari|Valthari]] over the lower [Thalsira]{.name data-type="place/feature"}, the last bridge before the river spreads into the salt marsh and the sea, and the town of about 2,500 has grown up on both banks to live off what crosses it. Its name is the word for what holds it together: _brutha_ is a bridge.
 
-The legions built the bridge, and it is the best stone in [[place-leonrik|Lienrik]] after the walls of [[place-ronetho|Ornetho]]. The castle on the south bank is Liénriki work, raised by the first kings of Lienrik after the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]) to hold the bridge against whoever came next by sea. Its tower is the southernmost of the chain of watchtowers that runs down the Thalsira from Ornetho, and from its top on a clear day the marsh, the shingle and the gray line of the [[place-vylarianse|Vylarian Sea]] lie open to the south.
+The legions built the bridge, and it is the best stone in [[place-leonrik|Lienrik]] after the walls of [[place-ronetho|Ornetho]]. The castle on the south bank is Liénriki work, raised by the first kings of Lienrik after the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]) to hold the bridge against whoever came next by sea. Its tower is the southernmost of the chain of watchtowers that runs down the Thalsira from Ornetho, and from its top on a clear day the marsh, the shingle and the gray line of the [[place-vylarianse|Vilérian Sea]] lie open to the south.
 
 ## The Quays
 

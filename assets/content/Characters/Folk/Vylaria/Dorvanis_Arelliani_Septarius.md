@@ -92,7 +92,7 @@ Every faction at court would like the _Tarkelos_ in its debt, and he can oblige 
 ### Affiliations
 
 - **[[affiliation-tarmex|The Tarmeks Orzan]]**: _Tarkelos_, for life.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: _Tarkelos_, the officer of the treasury answerable for revenue and disbursement.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: _Tarkelos_, the officer of the treasury answerable for revenue and disbursement.
 
 ## Plot Hooks
 

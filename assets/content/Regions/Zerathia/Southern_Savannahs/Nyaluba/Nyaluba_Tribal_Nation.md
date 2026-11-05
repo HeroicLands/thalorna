@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [nyalbnlng]}}
 # terran_analog: "Iroquois Confederacy / Haudenosaunee + Sotho-Tswana morafe + Shona heirs of Great Zimbabwe—five distinct clan-nations bound by ancient pact, cattle-pastoral with stone-ruin heritage, drum-language as nervous system"
 ---
 
-A Lobwezi griot, asked by a Sengala trader's foreign guest where the Nyáluba keep their king, laughed and counted on one hand instead: five clans, one pact, no king. The Nyáluba Tribal Nation is a confederation of five distinct clan-nations occupying the southeastern quadrant of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Zerathia]]—the highland belt where the great upland rivers run year-round, the central grasslands where the herds migrate, and the riverine wetlands of the eastern coast. They are the largest organized political body in the savannahs, some two million people across a territory roughly the size of the [[place-provenzrgn|Provénzia Region]] and the [[place-tarvenirgn|Tarvénia Region]] combined, and yet they have no king, no capital, no written law, no standing army, and no apparatus that would be recognized by an Aureldian or Vylarian as a government. They have, instead, the [Long Pact]{.name data-type="lore/law"}—an ancient covenant binding five clan-nations to a shared way of life—and the apparatus by which the Pact is renewed: the [Great Lubemo]{.name data-type="affiliation/governmental"}, the drum-network, the griots, and the totemic law.
+A Lobwezi griot, asked by a Sengala trader's foreign guest where the Nyáluba keep their king, laughed and counted on one hand instead: five clans, one pact, no king. The Nyáluba Tribal Nation is a confederation of five distinct clan-nations occupying the southeastern quadrant of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Zerathia]]—the highland belt where the great upland rivers run year-round, the central grasslands where the herds migrate, and the riverine wetlands of the eastern coast. They are the largest organized political body in the savannahs, some two million people across a territory roughly the size of the [[place-provenzrgn|Provénzia Region]] and the [[place-tarvenirgn|Tarvénia Region]] combined, and yet they have no king, no capital, no written law, no standing army, and no apparatus that would be recognized by an Aureldian or Vilérian as a government. They have, instead, the [Long Pact]{.name data-type="lore/law"}—an ancient covenant binding five clan-nations to a shared way of life—and the apparatus by which the Pact is renewed: the [Great Lubemo]{.name data-type="affiliation/governmental"}, the drum-network, the griots, and the totemic law.
 
 Few northerners reach the Nyáluba, since the Northern Fertile civilizations know the savannahs only through rainforest go-betweens, and those who do usually misread what they find. They see no palace and infer no power, no army and infer no defense, no priesthood and infer no faith. All three inferences are wrong: the power sits in the Pact, the defense in the age-set regiments, and the faith in every cattle-fold and river-bend.
 
@@ -195,7 +195,7 @@ The Nyáluba economy is built on **cattle**, **agriculture**, **gold**, and **ri
 
 **River-trade**—Kolembozi reed-canoes carrying fish, salt (from a few coastal pans), papyrus, and exotic riverine goods up the eastern river systems to the highlands and the central plains. The Kolembozi monopolize the river-trade in the same way the Sengala monopolize the northern overland trade.
 
-**Imports**—metal goods (iron knives, hoe-blades, spear-heads), beads, glass, fine cloth, and certain medicinal plants and ritual pigments—come almost entirely through the Sengala. Total trade volume is small by Vylarian or Taruzelian standards but is significant for the goods involved, and the Sengala traders who manage it are wealthy by any measure.
+**Imports**—metal goods (iron knives, hoe-blades, spear-heads), beads, glass, fine cloth, and certain medicinal plants and ritual pigments—come almost entirely through the Sengala. Total trade volume is small by Vilérian or Taruzelian standards but is significant for the goods involved, and the Sengala traders who manage it are wealthy by any measure.
 
 ## Defense and War
 
@@ -245,7 +245,7 @@ ndeyamo liwe ngende ngabeli shewe lome ndebyo nyendemoshi.
 
 ## Commerce and Currency
 
-The Nyáluba trade almost entirely by [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]]. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Khelathi currency through southern trade-routes) is more developed than commerce with the western Vylarian system.
+The Nyáluba trade almost entirely by [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]]. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Khelathi currency through southern trade-routes) is more developed than commerce with the western Vilérian system.
 
 ## See Also
 

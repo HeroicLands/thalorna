@@ -62,7 +62,7 @@ They bound themselves in four things. They set common tariffs, so that no city u
 
 ## The Republic
 
-The [Vylarian Republic]{.name data-type="affiliation/polity"} had other business. It was putting down factions at home and learning to field its [Dragon Riders]{.name data-type="affiliation"}, and it had no use for a war in the east. It accepted a yearly payment from the Compact and left the eastern cities free of its officers and its garrisons. The payment was the whole of the Republic's claim on them for three and a half centuries.
+The [Vilérian Republic]{.name data-type="affiliation/polity"} had other business. It was putting down factions at home and learning to field its [Dragon Riders]{.name data-type="affiliation"}, and it had no use for a war in the east. It accepted a yearly payment from the Compact and left the eastern cities free of its officers and its garrisons. The payment was the whole of the Republic's claim on them for three and a half centuries.
 
 ## What the Compact Left
 

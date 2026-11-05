@@ -1,9 +1,9 @@
 ---
 shortcode: vylrnctznshp
-name: {full: Vylarian Citizenship, en: [Citizenship, Citizens and Residents]}
+name: {full: Vilérian Citizenship, en: [Citizenship, Citizens and Residents]}
 type: doc
 subType: reference
-description: "Citizenship in the Vylarian Empire—a personal, earned, largely non-heritable status won chiefly by twenty years in the legions, carrying, for the veteran, the dole (a pension graded by his final rank), the right of residence in Orzara, and legal standing. It is the Empire's recruiting bargain and the loyalty-leash on its most dangerous men, not a charity."
+description: "Citizenship in the Vilérian Empire—a personal, earned, largely non-heritable status won chiefly by twenty years in the legions, carrying, for the veteran, the dole (a pension graded by his final rank), the right of residence in Orzara, and legal standing. It is the Empire's recruiting bargain and the loyalty-leash on its most dangerous men, not a charity."
 tags: [reference, vylaria, imperial, law, society]
 ---
 
@@ -13,15 +13,15 @@ The speech holds the whole system: the age, the term, the prize and the fact tha
 
 ## Citizen and Resident
 
-The deepest division in Vylarian society is not between rich and poor but between **citizen** and **resident**. The great mass of the people under imperial rule are residents: subjects of the Empire, born to it, taxed by it and protected by it after a fashion, who hold no share in it. Citizens are the privileged minority who have _earned_ a stake, and the gap between the two is one of the central facts of life in [[place-vylariargn|Vylaria]].
+The deepest division in Vilérian society is not between rich and poor but between **citizen** and **resident**. The great mass of the people under imperial rule are residents: subjects of the Empire, born to it, taxed by it and protected by it after a fashion, who hold no share in it. Citizens are the privileged minority who have _earned_ a stake, and the gap between the two is one of the central facts of life in [[place-vylariargn|Viléria]].
 
 Citizenship is a personal, earned and largely non-heritable status. A man is not a citizen because his father was, and with one exception he must win it himself and cannot pass it down. The exception is the **nobility**, who hold citizenship by station and transmit it heir to heir, which is part of what makes them the nobility. For everyone else the citizen body renews itself each generation out of those who have served or been granted it. A citizen's **wife** holds the citizenship permanently, widowhood included. His **children** are honorary citizens while they are his dependents and not after; a son or daughter who leaves the household is a resident unless he wins the status for himself.
 
 ## Earning the Citizenship
 
-For the common-born there are two roads: **service in [[affiliation-vylrnmltry|the Vylarian Military]]**, which is the road nearly everyone takes, and a **Senate grant**. The bargain is a statute of the second Orzas, [Arkanamos]{.name data-type="being/npc"}, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
+For the common-born there are two roads: **service in [[affiliation-vylrnmltry|the Vilérian Military]]**, which is the road nearly everyone takes, and a **Senate grant**. The bargain is a statute of the second Orzas, [Arkanamos]{.name data-type="being/npc"}, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
 
-The army counts no one as a soldier before his **fifteenth birthday**. Boys may follow the camps and even fight, but they hold no rank and their service does not start the clock until then. A full term is **twenty years**, so a commoner who takes the oath at fifteen and lives to be discharged leaves the legions a **citizen of the Empire at thirty-five**, which in Vylaria is already a middle-aged man. The whole of the imperial military rests on this deal, and the commoner track of the legions is, among other things, a machine for making citizens.
+The army counts no one as a soldier before his **fifteenth birthday**. Boys may follow the camps and even fight, but they hold no rank and their service does not start the clock until then. A full term is **twenty years**, so a commoner who takes the oath at fifteen and lives to be discharged leaves the legions a **citizen of the Empire at thirty-five**, which in Viléria is already a middle-aged man. The whole of the imperial military rests on this deal, and the commoner track of the legions is, among other things, a machine for making citizens.
 
 The Senate may grant the status to anyone, for some signal service to the Empire: a great civic benefaction, a decisive piece of intelligence, an act of loyalty the throne wishes to reward. A grantee is a citizen exactly as a discharged veteran is, and his wife and children stand as a veteran's do. Such grants are rare and conspicuous. Nearly every new citizen is a veteran, and the citizen body as a whole is at its core an old soldiers' class.
 
@@ -48,11 +48,11 @@ The pensions are modest one by one, but there are a great many pensioners, and t
 
 ## The Citizenship in Decline
 
-The dole was no burden while the Empire expanded and the wealth of conquered lands poured into Orzara. Now that the Empire is receding, the pensions are owed as before and there is no way to claw them back, and the citizenship has become a burden the throne can neither comfortably afford nor safely cut. The tributes of the provinces and the colonies fall short of the dole, and the throne meets it by borrowing, chiefly from the great houses of [[affiliation-danvar|the Danvar]]. Vylaria's credit is excellent and the loans are rolled over year on year, the lenders repaid from new loans, but nothing is put by: a great fire or a famine can be met only by borrowing more, the interest on what the throne already owes is a growing worry in [[affiliation-tarmex|the Tarmeks]], and one default would be enough to end the credit the dole now stands on. The temptations of economy show first in the dole itself: **arrears, short payments and clipped coin**. Each is a quiet admission of decline, and each is dangerous, because the citizen-veterans know exactly what they are owed and exactly how to make their displeasure felt. Reform factions argue for trimming the rolls or means-testing the dole. The conservatives, the veterans and plain political prudence defend it. A _missed_ dole is the single spark every cautious Orzas (emperor) most dreads.
+The dole was no burden while the Empire expanded and the wealth of conquered lands poured into Orzara. Now that the Empire is receding, the pensions are owed as before and there is no way to claw them back, and the citizenship has become a burden the throne can neither comfortably afford nor safely cut. The tributes of the provinces and the colonies fall short of the dole, and the throne meets it by borrowing, chiefly from the great houses of [[affiliation-danvar|the Danvar]]. Viléria's credit is excellent and the loans are rolled over year on year, the lenders repaid from new loans, but nothing is put by: a great fire or a famine can be met only by borrowing more, the interest on what the throne already owes is a growing worry in [[affiliation-tarmex|the Tarmeks]], and one default would be enough to end the credit the dole now stands on. The temptations of economy show first in the dole itself: **arrears, short payments and clipped coin**. Each is a quiet admission of decline, and each is dangerous, because the citizen-veterans know exactly what they are owed and exactly how to make their displeasure felt. Reform factions argue for trimming the rolls or means-testing the dole. The conservatives, the veterans and plain political prudence defend it. A _missed_ dole is the single spark every cautious Orzas (emperor) most dreads.
 
 ## See Also
 
-[[affiliation-vylrnmltry|The Vylarian Military]]
+[[affiliation-vylrnmltry|The Vilérian Military]]
 : the legions, and the twenty-year road to the citizenship
 
 [[place-orzara|Orzara]]
@@ -61,5 +61,5 @@ The dole was no burden while the Empire expanded and the wealth of conquered lan
 [[affiliation-verdanorzara|Verdan Orzara]]
 : the civic courts that register resident waivers (and quietly sell them)
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the state whose membership this is

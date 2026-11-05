@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 50000, governme
 
 ## Overview
 
-The students of **Theradon** argue in marble colonnades that climb terraced hillsides, and they argue with their teachers. This is a Helionite city of 50,000, known for philosophical inquiry and for the [[affiliation-panepistmm|Epistémion]] chapterhouse it holds. Scholars from across the realms come to study with its philosophers, physicians and natural historians, and its libraries contain some of the oldest written texts in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. The [Vylarian Republic]{.name data-type="affiliation/polity"} took it in 330 BF, the first city of the war to fall, and the chapterhouse does not teach that year.
+The students of **Theradon** argue in marble colonnades that climb terraced hillsides, and they argue with their teachers. This is a Helionite city of 50,000, known for philosophical inquiry and for the [[affiliation-panepistmm|Epistémion]] chapterhouse it holds. Scholars from across the realms come to study with its philosophers, physicians and natural historians, and its libraries contain some of the oldest written texts in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. The [Vilérian Republic]{.name data-type="affiliation/polity"} took it in 330 BF, the first city of the war to fall, and the chapterhouse does not teach that year.
 
 ## Who Governs
 

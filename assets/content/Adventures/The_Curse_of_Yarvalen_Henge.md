@@ -76,7 +76,7 @@ The party investigates the blight's source and discovers the cult of the Black F
 - Weakening the kingdom to seize power from within
 - Drawing power from destruction and death to fuel what they regard as the influence of [[lore-ustarondty|Ústaron]], the fire-god of their corrupted faith
 - Preparing for a larger ritual or summoning
-- Some members may have foreign connections—Nordheim raiders, [[affiliation-vylarinmpr|Vylarian agents]], or the Thordimalon—but the cult's roots are Provénzian
+- Some members may have foreign connections—Nordheim raiders, [[affiliation-vylarinmpr|Vilérian agents]], or the Thordimalon—but the cult's roots are Provénzian
 
 **Complications:**
 

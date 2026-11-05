@@ -370,7 +370,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Zenokos is young and still growing into himself—twenty-one years old, 5'9", with a light build that makes him look more like a clerk than a guardsman. His dark brown hair is worn longer than regulation permits, falling across his forehead in a way that his sergeant has remarked upon more than once. His honey-brown eyes sit in a pale, almost sallow face that rarely sees sunlight, and a thin scar runs across his forehead from an incident during his first month on duty that he would prefer to forget. His features are fine-boned and [[lore-vylarianclt|Vylarian]] in the classical sense: high forehead, straight nose, narrow chin. He wears his district guard uniform of the [[affiliation-provinclys|Province of Alessa]]—padded tunic, leather bracers, short sword at his hip—with the self-conscious stiffness of someone who has not yet learned to forget he is wearing it.
+Zenokos is young and still growing into himself—twenty-one years old, 5'9", with a light build that makes him look more like a clerk than a guardsman. His dark brown hair is worn longer than regulation permits, falling across his forehead in a way that his sergeant has remarked upon more than once. His honey-brown eyes sit in a pale, almost sallow face that rarely sees sunlight, and a thin scar runs across his forehead from an incident during his first month on duty that he would prefer to forget. His features are fine-boned and [[lore-vylarianclt|Vilérian]] in the classical sense: high forehead, straight nose, narrow chin. He wears his district guard uniform of the [[affiliation-provinclys|Province of Alessa]]—padded tunic, leather bracers, short sword at his hip—with the self-conscious stiffness of someone who has not yet learned to forget he is wearing it.
 
 # Dossier {#dossier}
 
@@ -415,7 +415,7 @@ He cannot tell when fairness is being turned against him, and he believes that a
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-arldnpnthn|Aureldian Pantheon]]**: one of the lay faithful.
 
 ## Plot Hooks

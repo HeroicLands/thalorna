@@ -101,7 +101,7 @@ The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
 : the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
 
 The [[lore-sowidesclt|Sovidur]]
-: the herding tribes of the [[place-khzryndsrtrgn|Khazryn steppe]] to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
+: the herding tribes of the [[place-khzryndsrtrgn|Khazrin steppe]] to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
 
 Foreign powers
 : the Circle does not treat with any power outside the desert. Foreign envoys who reach the Stone uninvited are received with formal courtesy and sent away with nothing.
@@ -123,7 +123,7 @@ The Vacant Lot
 : the marked stones that choose the Voice of the Quarter have vanished from the Storm Cults' keeping between meetings. The loss is taken as an omen, and the next meeting cannot lawfully open until they are found or replaced.
 
 The Foreign Offer
-: envoys of a foreign power, working through Khazryn go-betweens, reach the Stone with arms and silver for the Circle's neutrality in the coming season. The offer is refused; the harder question is who brought them to the Stone unseen.
+: envoys of a foreign power, working through Khazrin go-betweens, reach the Stone with arms and silver for the Circle's neutrality in the coming season. The offer is refused; the harder question is who brought them to the Stone unseen.
 
 The Acclamation
 : a young warrior, newly famous, is proposed for the Circle, and an elder of the Council of Scars opposes him for reasons he will not fully give. The meeting becomes the most bitter the Circle has known in years.

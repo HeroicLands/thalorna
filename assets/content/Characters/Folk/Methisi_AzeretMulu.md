@@ -38,7 +38,7 @@ data:
 
 # Appearance {#appearance}
 
-Methisi Azeret'Mulu is a 49-year-old man who stands 5'9" tall and is of light build. He has brown skin, a shaven and oiled head, a thin line of kohl at each eye and dark brown eyes that are calm and attentive. He dresses in fine white linen in the Khelathi manner, with a broad collar of beads and gold and a scribe's palette at his belt, and over it, when he leaves the Strangers' Row, a heavy Vylarian cloak against the cold. He speaks excellent Vylari, slowly and a little formally, and smiles often.
+Methisi Azeret'Mulu is a 49-year-old man who stands 5'9" tall and is of light build. He has brown skin, a shaven and oiled head, a thin line of kohl at each eye and dark brown eyes that are calm and attentive. He dresses in fine white linen in the Khelathi manner, with a broad collar of beads and gold and a scribe's palette at his belt, and over it, when he leaves the Strangers' Row, a heavy Vilérian cloak against the cold. He speaks excellent Vilari, slowly and a little formally, and smiles often.
 
 # Dossier {#dossier}
 
@@ -50,13 +50,13 @@ He offers the throne what its own houses cannot: grain and silver. The temple-es
 
 **The house.** He is a Zabu, of a titled house of the delta that has served the temple-estates as scribes and stewards for many generations. He was trained in the scribal schools and keeps his own accounts in both Khelathi hands. He served the temple-estates' trade in Ólvestra and in the Bizarian ports before he was sent to Orzara.
 
-**Orzara.** He came to the Strangers' Row three years after the Taruzelian war, when no Khelathi could walk the River Circle without the Watch beside him. He has spent nine years making himself useful: lending quietly to houses that could not borrow elsewhere, buying their notes from creditors who wanted out, and sending grain at cost in two lean winters. Several senators now owe him more than they owe anyone in Vylaria.
+**Orzara.** He came to the Strangers' Row three years after the Taruzelian war, when no Khelathi could walk the River Circle without the Watch beside him. He has spent nine years making himself useful: lending quietly to houses that could not borrow elsewhere, buying their notes from creditors who wanted out, and sending grain at cost in two lean winters. Several senators now owe him more than they owe anyone in Viléria.
 
 ## Psyche
 
 ### Personality
 
-He is courteous, patient and very hard to read. He never argues and never threatens, and he lets a debtor understand his position without being told it. He is genuinely interested in Vylarian law, rites and history and asks good questions about them, which some of his hosts find flattering and others find alarming.
+He is courteous, patient and very hard to read. He never argues and never threatens, and he lets a debtor understand his position without being told it. He is genuinely interested in Vilérian law, rites and history and asks good questions about them, which some of his hosts find flattering and others find alarming.
 
 ### Motivation
 
@@ -74,7 +74,7 @@ He is a foreigner in a city that hates his country. He lives behind a gate the W
 
 ### Patrons
 
-The temple-estates and the Gar-Au's treasury, whose silver he lends. He has no patron in Vylaria and does not expect one.
+The temple-estates and the Gar-Au's treasury, whose silver he lends. He has no patron in Viléria and does not expect one.
 
 ### Enemies
 

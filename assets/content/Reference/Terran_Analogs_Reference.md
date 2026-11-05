@@ -54,8 +54,8 @@ Native word readings belong to Ki'i'chek. Borrow the writing system's structure 
 
 | Region                                                               | Terran Analog                                                             |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [[place-vylarianse\|Vylarian Sea]]                                   | The Mediterranean Sea                                                     |
-| [[affiliation-vylarinmpr\|Vylarian Empire]]                          | Italy through to Turkey (excluding Greece); Roman Empire in decline       |
+| [[place-vylarianse\|Vilérian Sea]]                                   | The Mediterranean Sea                                                     |
+| [[affiliation-vylarinmpr\|Vilérian Empire]]                          | Italy through to Turkey (excluding Greece); Roman Empire in decline       |
 | [[place-provenzrgn\|Provénzia Region]]                               | Portugal, southwestern France                                             |
 | [[place-tarvenirgn\|Tarvénia]]                                       | Northern Spain, southern France (Atlantic coast)                          |
 | [[place-elavendre\|Élavendre]]                                       | France (mythic Celtic / fae-influenced)                                   |
@@ -76,7 +76,7 @@ Native word readings belong to Ki'i'chek. Borrow the writing system's structure 
 | Region                                         | Terran Analog                                       |
 | ---------------------------------------------- | --------------------------------------------------- |
 | [[place-byzariargn\|Bizaria Region]]           | Byzantine Empire / Eastern Mediterranean crossroads |
-| [[place-khzryndsrtrgn\|Khazryn Desert Region]] | Central Asian steppe / Silk Road deserts            |
+| [[place-khzryndsrtrgn\|Khazrin Desert Region]] | Central Asian steppe / Silk Road deserts            |
 
 ## Ankaris Regions—Southern
 

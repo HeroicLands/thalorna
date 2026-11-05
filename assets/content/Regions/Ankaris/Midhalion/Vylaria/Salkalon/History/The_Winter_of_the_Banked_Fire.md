@@ -86,7 +86,7 @@ data:
         - whether these rowers were the first Nordmen in imperial pay, which the town claims and the empire's chroniclers date otherwise
 ---
 
-**The Winter of the Banked Fire** is the reason a fishing town on the warm Vylarian coast carries a northern name. It is a small event in the history of [[lore-southrnfleets|the Southern Fleets]], forty men out of the hirvs of three kingdoms, and the only time those fleets touched the Vylarian heartland.
+**The Winter of the Banked Fire** is the reason a fishing town on the warm Vilérian coast carries a northern name. It is a small event in the history of [[lore-southrnfleets|the Southern Fleets]], forty men out of the hirvs of three kingdoms, and the only time those fleets touched the Vilérian heartland.
 
 ## The Door-Faring
 
@@ -100,7 +100,7 @@ The _felzos_ (legate) chose to starve the headland rather than storm it, and the
 
 ## The Terms
 
-In the spring of 524, 238 HF, the _therkos_ (governor) of [[affiliation-provincvld|Salkalon]], [Zenothas Varelis]{.name data-type="being/npc"}, offered terms rather than an assault: seven years at the oars of the Kastamar fleet, the captain rowing with his men, and passage home at the end of them. Twenty-eight went to the oars and three stayed in the village by the _therkos_'s leave. One of the three, [Dvilgvir]{.name data-type="being/npc"}, who had kept the fire, married Ilthera the next year. About eighteen of the rowers, Hvirnmil among them, came home to Malagna in 532 AF, the year of the thirty-sixth sitting on [[place-domsey|Domsey]], with imperial pay in their purses and the first account the north had of the [[affiliation-vylarinmpr|Vylarian Empire]]'s own coast.
+In the spring of 524, 238 HF, the _therkos_ (governor) of [[affiliation-provincvld|Salkalon]], [Zenothas Varelis]{.name data-type="being/npc"}, offered terms rather than an assault: seven years at the oars of the Kastamar fleet, the captain rowing with his men, and passage home at the end of them. Twenty-eight went to the oars and three stayed in the village by the _therkos_'s leave. One of the three, [Dvilgvir]{.name data-type="being/npc"}, who had kept the fire, married Ilthera the next year. About eighteen of the rowers, Hvirnmil among them, came home to Malagna in 532 AF, the year of the thirty-sixth sitting on [[place-domsey|Domsey]], with imperial pay in their purses and the first account the north had of the [[affiliation-vylarinmpr|Vilérian Empire]]'s own coast.
 
 ## What It Left
 
@@ -126,5 +126,5 @@ In the spring of 524, 238 HF, the _therkos_ (governor) of [[affiliation-provincv
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : the crew's kingdom
 
-[[lore-domseycount|The Domsey Count]] · [[lore-commoncal|the Vylarian Calendar]]
+[[lore-domseycount|The Domsey Count]] · [[lore-commoncal|the Vilérian Calendar]]
 : the two reckonings these dates are given in

@@ -440,7 +440,7 @@ The soldiers of the camp who have lost to him at the marks on pay day do not lik
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Citizen by twenty years in the legions, with the dole, appeal at law and liability to the citizen's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Citizen by twenty years in the legions, with the dole, appeal at law and liability to the citizen's taxes.
 - **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the Thunderer's feasts without office in the temple.
 
 ## Plot Hooks

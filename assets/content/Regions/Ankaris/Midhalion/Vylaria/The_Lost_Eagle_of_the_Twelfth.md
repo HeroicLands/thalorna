@@ -12,7 +12,7 @@ sohl: {system: {weightBase: 10, valueBase: 0, qualityBase: 0, durabilityBase: 20
 
 ## Overview {#overview}
 
-Every legion of the [[affiliation-vylrnmltry|Vylarian Military]] marches behind its _orkaima_, its eagle, and the eagle of the [Doran Hilvan]{.name data-type="affiliation"}, the Twelfth, is the one the army does not have. The legion went up into the [[place-kervaron|Kervaron Spine]] about 680 to read the boundary-stones to the clans, ran out of road when the snow came, and was struck from the rolls as destroyed. Its eagle was never returned. It may lie in [[place-twelfthcamp|The Twelfth's Last Camp]], the ruined fort below the passes where the legion's rear cohorts wintered, and nobody who says so can show it.
+Every legion of the [[affiliation-vylrnmltry|Vilérian Military]] marches behind its _orkaima_, its eagle, and the eagle of the [Doran Hilvan]{.name data-type="affiliation"}, the Twelfth, is the one the army does not have. The legion went up into the [[place-kervaron|Kervaron Spine]] about 680 to read the boundary-stones to the clans, ran out of road when the snow came, and was struck from the rolls as destroyed. Its eagle was never returned. It may lie in [[place-twelfthcamp|The Twelfth's Last Camp]], the ruined fort below the passes where the legion's rear cohorts wintered, and nobody who says so can show it.
 
 ## Who Holds It {#who-holds-it}
 
@@ -20,7 +20,7 @@ Nobody is known to. The army's record says the eagle is lost with the legion. Th
 
 ## Its Story {#its-story}
 
-An eagle of the legions is a figure of gilded bronze with raised wings, set on a staff and carried by the _orkaimos_, the eagle-bearer, and it is the most sacred object in the army. The military manual opens with the formula every Vylarian schoolchild learns, _Zel orkaima thalentor uthrime_, "Beneath the eagle stand the borders", and it requires a legion that loses its eagle to be struck from the rolls.
+An eagle of the legions is a figure of gilded bronze with raised wings, set on a staff and carried by the _orkaimos_, the eagle-bearer, and it is the most sacred object in the army. The military manual opens with the formula every Vilérian schoolchild learns, _Zel orkaima thalentor uthrime_, "Beneath the eagle stand the borders", and it requires a legion that loses its eagle to be struck from the rolls.
 
 About 680, under a regency, the regent's council wanted a victory it could show [[affiliation-seldan|Seldan]] and sent the Twelfth to enforce the boundary-stones the western expeditions had planted at the passes ([[lore-twelfthloss|The Loss of the Twelfth]]). The [[affiliation-aelndntrbs|Áelendan clans]] let the legion climb, closed the passes behind it and did not give battle. The legion left its rear cohorts in a fort at the foot of the passes and took the rest up through the summer. The eagle never came back, and no report says whether it went up the passes or stayed in the fort. The army disbanded the legion on the record, as the manual requires, and the men of the Twelfth who were not in the range were cashiered with it.
 
@@ -49,5 +49,5 @@ The eagle does nothing a smith could not make. What it does is in what the army 
 [[place-twelfthcamp|The Twelfth's Last Camp]]
 : the fort below the passes where it may lie
 
-[[affiliation-vylrnmltry|Vylarian Military]]
+[[affiliation-vylrnmltry|Vilérian Military]]
 : the eagle, and what a legion owes it

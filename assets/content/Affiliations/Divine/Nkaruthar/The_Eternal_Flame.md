@@ -99,7 +99,7 @@ The theology of Nkaru'thar holds that the Eternal Flame's power divides into thr
 
 **[[place-zarhanis|Zarhanis]]—The Spirit Flame** (white fire) The flame of faith, wisdom, and prophecy. Zarhanis is the spiritual capital of Okharis, home to the largest temple complex, believed to be the birthplace of the kingdom's religion. Its great pyramid is adorned with murals and carvings detailing Nkaru'thar's creation of the world. Zarhanis is ruled by the **High Pyremant**, the supreme spiritual leader of all Okharis and advisor to the Overlord. In the faith's teaching, the Spirit Flame governs the inner life: dreams, visions, communion with the ancestors, and the passage of the soul after death.
 
-**[[place-kaljekor|Kaljekor]]—The Golden Flame** (gold fire) The flame of abundance, prosperity, and commerce. Kaljekor sits at the crossroads of major trade routes, and its pyramidal temple complex doubles as a vast marketplace bustling with merchants from the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the [[place-vylarianse|Vylarian Sea]], and beyond. Ruled by a council of priest-nobles, Kaljekor's influence extends far through trade alliances. In the faith's teaching, the Golden Flame governs the material world: harvest, craft, wealth, negotiation, and the bonds of exchange that hold communities together.
+**[[place-kaljekor|Kaljekor]]—The Golden Flame** (gold fire) The flame of abundance, prosperity, and commerce. Kaljekor sits at the crossroads of major trade routes, and its pyramidal temple complex doubles as a vast marketplace bustling with merchants from the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the [[place-vylarianse|Vilérian Sea]], and beyond. Ruled by a council of priest-nobles, Kaljekor's influence extends far through trade alliances. In the faith's teaching, the Golden Flame governs the material world: harvest, craft, wealth, negotiation, and the bonds of exchange that hold communities together.
 
 **[[place-vuthraka|Vuthraka]]—The Wild Flame** (red fire) The flame of war, protection, and destruction. Vuthraka guards the southern frontier of Okharis. Its temple complex features intricate statues of the demi-gods of war and chaos, believed to protect the city from outside threats. Ruled by the **Warden of the Flame**, a warrior-priest who commands Okharis's armies during times of conflict. In the faith's teaching, the Wild Flame governs the body and the battlefield: strength, courage, sacrifice, and the violent renewal that follows destruction.
 
@@ -247,7 +247,7 @@ doctrine assented to, a priesthood ordained, a hierarchy climbed. It came to a p
 had their cairns, and it did not replace them.
 
 Because it is professed, it can in principle be professed otherwise. An Okharik who takes up
-another god—a Khelathi deity met through the Au'Khelathu trade, a Vylarian import at the coast—has not stopped being Okharik and has not left the zohira, who were never a matter of profession.
+another god—a Khelathi deity met through the Au'Khelathu trade, a Vilérian import at the coast—has not stopped being Okharik and has not left the zohira, who were never a matter of profession.
 What they have done is decline the Flame, and the Flame is the state religion of a kingdom whose
 Overlord is titled Keeper of the Three Flames.
 

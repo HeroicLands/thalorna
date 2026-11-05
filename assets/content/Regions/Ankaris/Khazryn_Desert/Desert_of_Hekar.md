@@ -3,14 +3,14 @@ shortcode: hekardesert
 name: {full: Desert of Hek'ar}
 type: place
 subType: feature
-description: "A barren tract on the Khazryn's western margin below Bizaria's Eastern March, raided by Black Flame knights and burying the Ruins of Arkor."
+description: "A barren tract on the Khazrin's western margin below Bizaria's Eastern March, raided by Black Flame knights and burying the Ruins of Arkor."
 tags: []
 data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: khazryndesert}
 ---
 
 ## Overview
 
-The Desert of Hek'ar is a barren tract on the western margin of the [[place-khzryndsrtrgn|Khazryn]], in the sub-region the tribes call the [[place-wlqtrrgn|Volketor]], the grass range, though little of its grass is left. It lies below the passes beyond the [[place-eastrnmrch|Eastern March]] of the [[place-byzariargn|Bizaria Region]], and a rider coming down out of the foothills sees it in a single look: a floor of gray gravel and low dunes under a sky that is always a little too white, and nothing on it taller than a thornbush for forty miles in any direction.
+The Desert of Hek'ar is a barren tract on the western margin of the [[place-khzryndsrtrgn|Khazrin]], in the sub-region the tribes call the [[place-wlqtrrgn|Volketor]], the grass range, though little of its grass is left. It lies below the passes beyond the [[place-eastrnmrch|Eastern March]] of the [[place-byzariargn|Bizaria Region]], and a rider coming down out of the foothills sees it in a single look: a floor of gray gravel and low dunes under a sky that is always a little too white, and nothing on it taller than a thornbush for forty miles in any direction.
 
 Nothing in it invites a traveler. The springs that make the rest of the Volketor passable are a day or two apart; here they are three, four and five, and most of them are salt. The caravans that cross it keep to the single track that was a road once, between the way-forts of the March and the first of the tribes' wells, and pay the tribes of the margin to see them across. What comes down the passes into the desert, more often than travelers, is raiders.
 
@@ -47,4 +47,4 @@ The Servants of Vezhnurikos are in the Hek'ar for the Eye, and so are their riva
 : the march above its passes
 
 [[place-roqid|Oroqid]]
-: the Vylarian fort on the same margin
+: the Vilérian fort on the same margin

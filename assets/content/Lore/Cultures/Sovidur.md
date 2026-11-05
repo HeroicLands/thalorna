@@ -1,9 +1,9 @@
 ---
 shortcode: sowidesclt
-name: {full: Sovidur, en: [Steppe Tribes of the Khazryn]}
+name: {full: Sovidur, en: [Steppe Tribes of the Khazrin]}
 type: lore
 subType: culture
-description: "The Sovidur, the independent herding tribes of the Khazryn steppe—their beliefs, their mores, and what they hold a person owes."
+description: "The Sovidur, the independent herding tribes of the Khazrin steppe—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   calendar: lore-swdsclndr
@@ -50,7 +50,7 @@ data:
 # terran_analog: "The horse-and-camel nomads of the Eurasian steppe, in the broadest sense: herding tribes on seasonal circuits between owned water, hospitality sworn on salt, a sky-religion with shamans, and the periodic conqueror who binds the tribes by force for the length of one lifetime. Carries over: tribal independence, caravan tolls paid tribe by tribe, the dead laid out under open sky. Departs: no union outlives its founder, and no tribe keeps a successor in waiting."
 ---
 
-The Sovidur call themselves "the riders," and the rest of the world calls them the Khazryn, after the [[place-khzryndsrtrgn|Khazryn Desert Region]], a name they do not use for themselves, because it belongs to the desert and not to any of the peoples who cross it. They are the herding tribes of the steppe and the dry grass between the sands, and the single fact that decides how you deal with them is that each tribe answers to nobody above its own chief. There is no king of the steppe, no council of tribes and no body that can promise on a tribe's behalf. A tribe's word binds that tribe, and a treaty with one is a treaty with one.
+The Sovidur call themselves "the riders," and the rest of the world calls them the Khazrin, after the [[place-khzryndsrtrgn|Khazrin Desert Region]], a name they do not use for themselves, because it belongs to the desert and not to any of the peoples who cross it. They are the herding tribes of the steppe and the dry grass between the sands, and the single fact that decides how you deal with them is that each tribe answers to nobody above its own chief. There is no king of the steppe, no council of tribes and no body that can promise on a tribe's behalf. A tribe's word binds that tribe, and a treaty with one is a treaty with one.
 
 ## The Tribe and the Dovaq
 
@@ -118,7 +118,7 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 
 ## See Also
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the steppe, the sands and the wells the tribes own
 
 [[skill-sowideslng|Sovidur Language]]

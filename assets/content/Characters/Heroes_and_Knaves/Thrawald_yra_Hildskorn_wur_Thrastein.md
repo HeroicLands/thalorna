@@ -390,13 +390,13 @@ sohl:
 
 ![[thrwldhldskrn|Thrawald yra Hildskorn wur Thrastein]]{float=top-left}
 
-Thrawald yra Hildskorn wur Thrastein is the largest man in [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]]'s gang and looks every year of the hard life he has led. He is tall and thick-bodied, with slablike shoulders and a barrel chest gone slightly soft around the middle. His graying brown hair is cropped close to the skull, and his broad, weathered face has been rearranged by violence—his nose has been broken so many times it sits crooked and flat, and two fingers are missing from his left hand, lost to the sword of a soldier of the [[affiliation-vylarinmpr|Vylarian Empire]] years ago. His brown eyes are dull and watchful, set deep beneath a heavy brow. He moves with a lumbering deliberateness that belies surprising quickness when the axe comes out. He wears a padded shirt under a scarred leather vest, rawhide cap, and heavy boots, and carries a battered battleaxe that he handles with grim familiarity.
+Thrawald yra Hildskorn wur Thrastein is the largest man in [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]]'s gang and looks every year of the hard life he has led. He is tall and thick-bodied, with slablike shoulders and a barrel chest gone slightly soft around the middle. His graying brown hair is cropped close to the skull, and his broad, weathered face has been rearranged by violence—his nose has been broken so many times it sits crooked and flat, and two fingers are missing from his left hand, lost to the sword of a soldier of the [[affiliation-vylarinmpr|Vilérian Empire]] years ago. His brown eyes are dull and watchful, set deep beneath a heavy brow. He moves with a lumbering deliberateness that belies surprising quickness when the axe comes out. He wears a padded shirt under a scarred leather vest, rawhide cap, and heavy boots, and carries a battered battleaxe that he handles with grim familiarity.
 
 # Dossier {#dossier}
 
-Thrawald was born into the [Hildskorn]{.name data-type="affiliation/lineage"} clan, a minor [[lore-varokhiclt|Varokh]] family of shepherds and woodcutters in the deep pine country of [[place-vrystwald|Vristwald]]. He was always big—big enough that the [[lore-vylarianclt|Vylarian]] garrison conscripted him at sixteen to serve as labor on a border fortification. He spent three years hauling stone and timber, learned to hate the empire with a pure and uncomplicated fury, and deserted the first winter the garrison was short-handed enough to let discipline slip.
+Thrawald was born into the [Hildskorn]{.name data-type="affiliation/lineage"} clan, a minor [[lore-varokhiclt|Varokh]] family of shepherds and woodcutters in the deep pine country of [[place-vrystwald|Vristwald]]. He was always big—big enough that the [[lore-vylarianclt|Vilérian]] garrison conscripted him at sixteen to serve as labor on a border fortification. He spent three years hauling stone and timber, learned to hate the empire with a pure and uncomplicated fury, and deserted the first winter the garrison was short-handed enough to let discipline slip.
 
-He drifted for years after that, hiring on as muscle for petty traders and cattle thieves. He killed his first man in a drunken brawl over a gambling debt and discovered he felt nothing about it. That emptiness defined his career. He joined Dagbán's band five years ago, when his previous gang was broken up by a Vylarian patrol—he was the only one who escaped, and only because he was relieving himself in the woods when the soldiers struck. He is now the longest-serving member of [[affiliation-blckpnwlvs|the Blackpine Wolves]] after Dagbán himself, and the closest thing the gang has to a second-in-command, though Dagbán trusts no one with real authority.
+He drifted for years after that, hiring on as muscle for petty traders and cattle thieves. He killed his first man in a drunken brawl over a gambling debt and discovered he felt nothing about it. That emptiness defined his career. He joined Dagbán's band five years ago, when his previous gang was broken up by a Vilérian patrol—he was the only one who escaped, and only because he was relieving himself in the woods when the soldiers struck. He is now the longest-serving member of [[affiliation-blckpnwlvs|the Blackpine Wolves]] after Dagbán himself, and the closest thing the gang has to a second-in-command, though Dagbán trusts no one with real authority.
 
 # Skills and Abilities
 
@@ -428,7 +428,7 @@ None.
 
 ### Enemies
 
-The Vylarian garrison he deserted from may still have his name on a list somewhere, though after twenty-five years it is unlikely anyone cares. A cattle merchant in a border town would very much like to see him hanged for a theft some years back.
+The Vilérian garrison he deserted from may still have his name on a list somewhere, though after twenty-five years it is unlikely anyone cares. A cattle merchant in a border town would very much like to see him hanged for a theft some years back.
 
 ## Plot Hooks
 
@@ -436,7 +436,7 @@ The Slow Defection
 : Thrawald is growing tired of Dagbán's increasingly erratic leadership. If approached carefully—perhaps with the promise of a warm bed and steady work—he might be persuaded to betray the gang's camp location. But his loyalty, such as it is, comes cheap, and whoever buys it should not expect it to last.
 
 The Deserter's Reckoning
-: A retired Vylarian officer, now a local magistrate, recognizes Thrawald in a border tavern and sends word to the garrison. The party is hired to bring the deserter in alive for trial. Thrawald will not go willingly, and cornering him means cornering the entire gang.
+: A retired Vilérian officer, now a local magistrate, recognizes Thrawald in a border tavern and sends word to the garrison. The party is hired to bring the deserter in alive for trial. Thrawald will not go willingly, and cornering him means cornering the entire gang.
 
 The Horse Thief
 : Thrawald has stolen a horse from a traveling merchant—not to sell, but because the animal was being mistreated and something in him snapped. Dagbán is furious because the theft draws attention to their territory. The party encounters Thrawald alone in the forest with the stolen horse, and must decide what to do with a bandit who committed a crime for something resembling a decent reason.

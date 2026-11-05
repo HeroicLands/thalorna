@@ -12,7 +12,7 @@ data: {packFolder: adventurersguides, culture: khazrynclt}
 >
 > A man in a long gray coat sits under an awning near the gate with a wooden board across his knees, pressing marks into a damp clay tablet with a reed. He finishes the line before he looks up, then studies your face and your boots as if entering both. "_Lirun gaben_," he says, a free day to you, and touches his chest. "[Murelul]{.name data-type="being/npc"}. My family's tablets were kept at [[place-kethramir|Kethramír]]. I keep tablets for the house of this oasis." He turns the board so you can see the tablet, sets a fresh one beside it and lifts the reed. "Your name, and the city you come from." He listens with his head tilted, says both back to you in his own soft accent, and presses them into the clay as they sounded to him.
 
-The [[lore-khazrynclt|Tellumi]] are the oldest people of the [[place-khzryndsrtrgn|Khazryn]], and the one that writes everything down. Their country, [[place-swoasisbelt|Tellumel]], is a strip of springs, canals and gardens along the north foot of [[place-graznmntns|the Grazian Mountains]], forty to eighty miles deep where the snowmelt reaches it and about seven hundred miles long; north of it the black rock of [[place-dkrqrrgn|Diqraqor]] begins within a day's ride. Seven walled cities stand in the strip, and the Tellumi built all seven. Ninety years ago the [[affiliation-tribestrzd|Atarzád]], twelve tribes who had come to them as refugees and been given land under the desert's law of hospitality, turned on their hosts and took the four greatest. The Tellumi call that war [Turem]{.name data-type="lore/history"}, the Breaking.
+The [[lore-khazrynclt|Tellumi]] are the oldest people of the [[place-khzryndsrtrgn|Khazrin]], and the one that writes everything down. Their country, [[place-swoasisbelt|Tellumel]], is a strip of springs, canals and gardens along the north foot of [[place-graznmntns|the Grazian Mountains]], forty to eighty miles deep where the snowmelt reaches it and about seven hundred miles long; north of it the black rock of [[place-dkrqrrgn|Diqraqor]] begins within a day's ride. Seven walled cities stand in the strip, and the Tellumi built all seven. Ninety years ago the [[affiliation-tribestrzd|Atarzád]], twelve tribes who had come to them as refugees and been given land under the desert's law of hospitality, turned on their hosts and took the four greatest. The Tellumi call that war [Turem]{.name data-type="lore/history"}, the Breaking.
 
 Three oases still answer to Tellumi princes, and four princely houses hold court in exile in [[affiliation-kngdmmrdd|Amradad]]. Most of the eight hundred thousand Tellumi live as craftsmen, clerks, physicians and water-engineers inside cities their grandparents governed, paying a tax nobody else pays for water their own engineers keep running.
 
@@ -142,8 +142,8 @@ Four works carry the lines a Tellumi quotes without thinking:
 - [[lore-khzrnclndr|The Tellumi Calendar]] for the twelve months and the closing festival
 - [[place-vurdil|Vurdish]] and the [[place-grazruins|ruins and labyrinths of the Grazian Mountains]] for the road the old houses claim
 - [[affiliation-ahurdaen|Ahurdaen]] and [[affiliation-zurathra|Zúrathra]] for the faith at the water
-- [[skill-tellumilng|The Tellumi language]] and the [[skill-tellumilng#lexicon|Khazryn Lexicon]] for the tongue of the tablets
-- [[doc-khazrynadvguide|The Khazryn Desert Adventurer's Guide]] for the waste beyond the belt and the road to Tantsou
+- [[skill-tellumilng|The Tellumi language]] and the [[skill-tellumilng#lexicon|Khazrin Lexicon]] for the tongue of the tablets
+- [[doc-khazrynadvguide|The Khazrin Desert Adventurer's Guide]] for the waste beyond the belt and the road to Tantsou
 
 ## Glossary
 

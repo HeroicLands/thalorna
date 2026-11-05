@@ -68,7 +68,7 @@ The [Salt Barrel]{.name data-type="place/structure"}, by the harbor, is where th
 [[affiliation-tolvan|The Tolvan]]
 : the fiscal court whose tax-farmer counts the heaps
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 # The Truth of Thremuzara {#truth .secret}

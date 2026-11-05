@@ -400,7 +400,7 @@ Vandarik yra Garwald wur Fródhaven does not look like a bandit, which is precis
 
 Vandarik was born to a [[lore-varokhiclt|Varokh]] family that operated a roadside inn on the imperial trade road—a legitimate business, or so it appeared. In truth, his father worked as a fence for stolen goods, his mother ran a confidence game on wealthy travelers, and young Vandarik grew up learning that every interaction was a transaction and every smile was a tool. He was charming, clever, and without scruple by the time he was twelve.
 
-He left home at eighteen—not fleeing, but seeking bigger marks. He spent a decade drifting through the border towns between [[place-vrystwald|Vristwald]] and [[place-vylariargn|Vylaria]], running scams, selling fraudulent goods, impersonating minor officials, and always staying one step ahead of the consequences. He was good enough that he might have made a comfortable living indefinitely, but he had a weakness for gambling and a worse one for drink, and both caught up with him in a border town called [[place-edrenburg|Edrenburg]]. He cheated the wrong man at dice—a [[lore-vylarianclt|Vylarian]] merchant with connections to the local garrison—and fled into the pines with soldiers on his heels and a price on his head.
+He left home at eighteen—not fleeing, but seeking bigger marks. He spent a decade drifting through the border towns between [[place-vrystwald|Vristwald]] and [[place-vylariargn|Viléria]], running scams, selling fraudulent goods, impersonating minor officials, and always staying one step ahead of the consequences. He was good enough that he might have made a comfortable living indefinitely, but he had a weakness for gambling and a worse one for drink, and both caught up with him in a border town called [[place-edrenburg|Edrenburg]]. He cheated the wrong man at dice—a [[lore-vylarianclt|Vilérian]] merchant with connections to the local garrison—and fled into the pines with soldiers on his heels and a price on his head.
 
 He found [[affiliation-blckpnwlvs|the Blackpine Wolves]] a year ago and attached himself to [[being-dagulfvthr|Dagbán yra Vethar wur Thrareth]] through sheer usefulness. He is the gang's voice—the one who scouts potential targets in taverns, learns caravan schedules, identifies which merchants carry the most coin, and occasionally talks guards into looking the other way. Dagbán dislikes him personally but recognizes that Vandarik brings in more intelligence in a week of tavern talk than the rest of the gang manages in a month of skulking.
 
@@ -434,7 +434,7 @@ None currently. He maintains a few contacts in border towns who fence stolen goo
 
 ### Enemies
 
-The Vylarian merchant he cheated in Edrenburg has not forgotten. There may be outstanding warrants in two or three border towns under various names. His own parents, if still alive, would not be surprised by his career.
+The Vilérian merchant he cheated in Edrenburg has not forgotten. There may be outstanding warrants in two or three border towns under various names. His own parents, if still alive, would not be surprised by his career.
 
 ## Plot Hooks
 
@@ -442,7 +442,7 @@ The Friendly Stranger
 : The party meets Vandarik in a tavern where he is posing as a traveling merchant. He is charming, helpful, and full of useful information about the road ahead—all of it carefully curated to steer the party into an ambush. If the party sees through him, he becomes a valuable source of information about the Blackpine Wolves, provided the price is right.
 
 The Double Cross
-: Vandarik approaches a Vylarian merchant guild offering to betray the Blackpine Wolves for gold and safe passage. At the same time, he is feeding Dagbán information about the guild's caravan routes. He is playing both sides, and the party—hired by the guild—walks into a situation far more tangled than a simple bandit hunt.
+: Vandarik approaches a Vilérian merchant guild offering to betray the Blackpine Wolves for gold and safe passage. At the same time, he is feeding Dagbán information about the guild's caravan routes. He is playing both sides, and the party—hired by the guild—walks into a situation far more tangled than a simple bandit hunt.
 
 The Gambler's Debt
 : Vandarik has racked up a dangerous gambling debt with a criminal syndicate in a border town, and they have sent enforcers to collect. He is desperate enough to make an offer to the party: help him deal with the enforcers, and he will lead them to the Blackpine Wolves' hidden cache of stolen goods. The offer is real—but Vandarik always has a second plan.

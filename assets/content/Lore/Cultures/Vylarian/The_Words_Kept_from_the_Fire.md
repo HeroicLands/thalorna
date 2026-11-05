@@ -20,7 +20,7 @@ data:
 # terran_analog: "The Roman jurists as the Digest preserves them, in fragments excerpted from books that are otherwise lost; the regulae iuris collected at the end of the Digest; the medieval glossators who wrote their commentary in the margins and disagreed with one another there; and the Roman habit of arguing law from maxims."
 ---
 
-The Words Kept from the Fire are the rules of [Varelis Korvelis]{.name data-type="being/npc"}, a jurist of the [Vylarian Republic]{.name data-type="affiliation/polity"} whose books were in the imperial archive on [[place-arvel|Arvel]] when it burned ([[lore-archivefire|The Archive Fire]]). Not one of the books survived. What survives is what other people had copied out of them before the fire: rules quoted in pleadings, rules a teacher had set his pupils to learn, rules cut over the door of a court. The law schools gathered the quotations into one teaching book, the _Lambizar_, "the words", and the book has been copied for the schools ever since with the masters' gloss beneath each rule, so that a student of law learns the rule and the quarrel about it on the same page.
+The Words Kept from the Fire are the rules of [Varelis Korvelis]{.name data-type="being/npc"}, a jurist of the [Vilérian Republic]{.name data-type="affiliation/polity"} whose books were in the imperial archive on [[place-arvel|Arvel]] when it burned ([[lore-archivefire|The Archive Fire]]). Not one of the books survived. What survives is what other people had copied out of them before the fire: rules quoted in pleadings, rules a teacher had set his pupils to learn, rules cut over the door of a court. The law schools gathered the quotations into one teaching book, the _Lambizar_, "the words", and the book has been copied for the schools ever since with the masters' gloss beneath each rule, so that a student of law learns the rule and the quarrel about it on the same page.
 
 The book keeps the rules in the order of the old law-books, under heads, and it keeps the masters' quarrels where they fall. A rule quoted in two pleadings in two forms stands in both. A rule known only from a later writer who reported it in the reported-speech construction stands that way too, and the masters have argued for centuries whether a rule Varelis is only said to have said binds as one he said: the reported construction keeps the reporter at arm's length, and the student is taught to hear the distance. The rendering marks those rules "Varelis is reported to have held." The gloss is in many hands, and the book does not name them. A gloss that answers another begins "Another master."
 
@@ -149,7 +149,7 @@ _Another master._ The rule itself was written before the fire, and is known only
 [[lore-archivefire|The Archive Fire]]
 : the fire the books did not survive
 
-[[lore-vylarirpbl|The Vylarian Republic]]
+[[lore-vylarirpbl|The Vilérian Republic]]
 : the courts and the roll the jurist served
 
 [[affiliation-imprlscrblgld|Imperial Scribal Guild]]
@@ -158,8 +158,8 @@ _Another master._ The rule itself was written before the fire, and is known only
 [[lore-maskspraise|The Praise of the Masks]]
 : the widow of Hilen and the guardianship the gloss cites
 
-[[skill-vylarilng|Vylari]]
+[[skill-vylarilng|Vilari]]
 : the reported construction and the distance it keeps
 
-[[lore-vylarianclt|Vylarian]]
+[[lore-vylarianclt|Vilérian]]
 : the record, the hand and the name

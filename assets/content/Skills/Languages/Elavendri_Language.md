@@ -7011,12 +7011,12 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Pelwar}}
 
-# terran_analog: Élavendri is patterned on the way a conservative highland tongue becomes a lowland one, in the tone of the Romance speech of Gaul becoming the speech of Paris (long vowels broken into diphthongs, consonants softened between vowels, final vowels reduced to a murmured e, the breathed stops loosened into fricatives), and its Sinale layer, carried down through Áelendi, gives it the color of the Breton lai. Every inherited word is derived by the tables below from a row of the Áelendi lexicon, and every learned word from a row of the Vylari lexicon; every word is checked against Earth word lists, Breton and Parisian speech among them.
+# terran_analog: Élavendri is patterned on the way a conservative highland tongue becomes a lowland one, in the tone of the Romance speech of Gaul becoming the speech of Paris (long vowels broken into diphthongs, consonants softened between vowels, final vowels reduced to a murmured e, the breathed stops loosened into fricatives), and its Sinale layer, carried down through Áelendi, gives it the color of the Breton lai. Every inherited word is derived by the tables below from a row of the Áelendi lexicon, and every learned word from a row of the Vilari lexicon; every word is checked against Earth word lists, Breton and Parisian speech among them.
 ---
 
 Élavendri is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where [[skill-vylarilng|Vylari]] is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse: in western [[place-aureldirgn|Aureldia Region]] Élavendri is held to be the modern language of love, the courts and art, with [[skill-helonclng|Helonic]] its classical counterpart. The [[lore-vylarianclt|Vylarian]] people do not hold it so. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On [[place-aelwyth|Aelwyth]] the traveled and educated commonly speak it beside [[skill-aelwthlng|Aelwythi]], and the learned of Élavendre commonly speak Aelwythi in return; the two tongues have long borrowed words from each other.
+Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where [[skill-vylarilng|Vilari]] is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse: in western [[place-aureldirgn|Aureldia Region]] Élavendri is held to be the modern language of love, the courts and art, with [[skill-helonclng|Helonic]] its classical counterpart. The [[lore-vylarianclt|Vilérian]] people do not hold it so. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On [[place-aelwyth|Aelwyth]] the traveled and educated commonly speak it beside [[skill-aelwthlng|Aelwythi]], and the learned of Élavendre commonly speak Aelwythi in return; the two tongues have long borrowed words from each other.
 
 The roman inventory includes `j` and `J` for the registered Élavendri name Jeldor; the repertoire records established names as well as ordinary word sounds.
 
@@ -7058,7 +7058,7 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 **Word Order:** Élavendri employs a relatively free word order. The basic order is VSO (Verb-Subject-Object) in formal contexts, but poetic reordering is common and expected.
 
-**Gender:** Gender is somewhat less important than in Vylari or [[skill-tarvenlng|Tarveni]], with only two primary genders (animate/inanimate) in standard speech, though archaic texts preserve three-gender systems.
+**Gender:** Gender is somewhat less important than in Vilari or [[skill-tarvenlng|Tarveni]], with only two primary genders (animate/inanimate) in standard speech, though archaic texts preserve three-gender systems.
 
 **Adjectives and Adverbs:** The language employs a complex system of derivational morphology to create adjectival and adverbial forms. Diminutive, augmentative, and affective suffixes are productive and frequently used. The language readily creates new descriptive forms on the fly.
 
@@ -7109,7 +7109,7 @@ and named speakers identify dialogue without quotation marks.
 
 ## Script & Literacy
 
-Élavendri is written in the [[skill-semrnscrpt|Semaron]], the same alphabet used in Vylari and neighboring regions, with diacritics added for pitch. The lowlands took it up readily, as they take up anything that serves. The Áelendan rune-row [[skill-thrvrdhscrpt|Thurarth]] and the [[skill-clthndscrpt|Veldikko]] of the [[lore-flksinale|Sinale]] belong to the highlanders, who carve in the one and write [[skill-aelendlng|Áelendi]] in the other, so two peoples who can hold a conversation cannot read a word of each other. Ancient texts in the region are Áelendi, and an Élavendri who reads one has learned a second tongue and a second script to do it.
+Élavendri is written in the [[skill-semrnscrpt|Semaron]], the same alphabet used in Vilari and neighboring regions, with diacritics added for pitch. The lowlands took it up readily, as they take up anything that serves. The Áelendan rune-row [[skill-thrvrdhscrpt|Thurarth]] and the [[skill-clthndscrpt|Veldikko]] of the [[lore-flksinale|Sinale]] belong to the highlanders, who carve in the one and write [[skill-aelendlng|Áelendi]] in the other, so two peoples who can hold a conversation cannot read a word of each other. Ancient texts in the region are Áelendi, and an Élavendri who reads one has learned a second tongue and a second script to do it.
 
 A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps one noble in four. The common folk of Élavendre, like those elsewhere on [[place-worldthlrn|Thalorna]], are almost entirely non-literate and rely on scribes for any written communication.
 
@@ -7121,7 +7121,7 @@ The most conservative member of the Pelwar family is [[skill-aelendlng|Áelendi]
 
 ## Regional Dialects
 
-**Coastal Élavendri:** Spoken in the port cities and plains, showing some influence from trading contacts with speakers of [[skill-provnzlng|Provenzal Language]] and Vylari. More straightforward phonetically and grammatically than inland variants.
+**Coastal Élavendri:** Spoken in the port cities and plains, showing some influence from trading contacts with speakers of [[skill-provnzlng|Provenzal Language]] and Vilari. More straightforward phonetically and grammatically than inland variants.
 
 **Sylvan Élavendri:** The dialect of the deep forests and rural areas, preserving more archaic features and fey vocabulary. More complex phonetics and more archaic grammar.
 
@@ -7148,9 +7148,9 @@ For the ancestral Pelwar tongue of the [[lore-aelendnppl|Áelendan]]—the most 
 
 ## Related Languages
 
-Élavendri stands somewhat apart from its Pelwar siblings, having developed under heavy influence from fey and pre-human populations. Its deep connection to Áelendi marks both as descendents of a northern branch of Proto-Pelwar, distinct from the southern branch that gave rise to Vylari, Tarveni, and the others.
+Élavendri stands somewhat apart from its Pelwar siblings, having developed under heavy influence from fey and pre-human populations. Its deep connection to Áelendi marks both as descendents of a northern branch of Proto-Pelwar, distinct from the southern branch that gave rise to Vilari, Tarveni, and the others.
 
-Élavendri speakers find Provenzal somewhat intelligible, particularly in poetic contexts—Provenzal has absorbed substantial Élavendri vocabulary in the domains of art, emotion, and magic (words like _thel_, _sil_, _daren_, _thal-_, _ael-_), and Provenzal sílador poetry frequently employs Élavendri word order and the copula _en_. An Élavendri speaker hearing a Provenzal love song will catch familiar words amid the foreign grammar. Vylari and Tarveni speakers find Élavendri quite difficult. The northern languages [[skill-nordmalng|Nordmal Language]] and [[skill-varokhlng|Varokhi Language]] share some phonetic features with Élavendri but remain largely mutually unintelligible.
+Élavendri speakers find Provenzal somewhat intelligible, particularly in poetic contexts—Provenzal has absorbed substantial Élavendri vocabulary in the domains of art, emotion, and magic (words like _thel_, _sil_, _daren_, _thal-_, _ael-_), and Provenzal sílador poetry frequently employs Élavendri word order and the copula _en_. An Élavendri speaker hearing a Provenzal love song will catch familiar words amid the foreign grammar. Vilari and Tarveni speakers find Élavendri quite difficult. The northern languages [[skill-nordmalng|Nordmal Language]] and [[skill-varokhlng|Varokhi Language]] share some phonetic features with Élavendri but remain largely mutually unintelligible.
 
 ## Naming Traditions
 
@@ -7182,7 +7182,7 @@ This is the word-hoard of Élavendri, the tongue of the lowland kingdom. It is t
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the word as it is cited: a noun in its basic form, an adjective in its one form, a verb in its infinitive. It names the Áelendi word it descends from, or the imperial Vylari word it was taken from. Its meaning is given in Élavendri. A word made of smaller parts names them.
+An entry gives the word as it is cited: a noun in its basic form, an adjective in its one form, a verb in its infinitive. It names the Áelendi word it descends from, or the imperial Vilari word it was taken from. Its meaning is given in Élavendri. A word made of smaller parts names them.
 
 ### Classes
 
@@ -7193,7 +7193,7 @@ The highland masculine and feminine fell together as the animate gender, and the
 | Source     | From                                         | Meaning                                                                                       |
 | ---------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | `aelendi:` | [[skill-aelendlng#lexicon\|Áelendi Lexicon]] | inherited from Áelendi: the Áelendi form, as the Áelendi lexicon gives it                     |
-| `vylari:`  | [[skill-vylarilng#lexicon\|Vylari Lexicon]]  | a learned word, taken from imperial Vylari: the imperial form, as the Vylari lexicon gives it |
+| `vylari:`  | [[skill-vylarilng#lexicon\|Vilari Lexicon]]  | a learned word, taken from imperial Vilari: the imperial form, as the Vilari lexicon gives it |
 
 ### Fields
 

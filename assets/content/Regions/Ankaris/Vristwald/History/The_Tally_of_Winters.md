@@ -52,7 +52,7 @@ The three do not always agree, and the reciters do not pretend they do. A named 
 
 ## The Year
 
-The year turns four times, and each turn is also the season that follows it. The Varokh reckon no months finer than that, because the forest's work does not divide finer: the rivers decide where people can go, and the rivers change four times a year. The year opens at the thaw, on the morning [[lore-commoncal|the Vylarian Calendar]] calls 1 [Lizelandi]{.name data-type="lore/calendar"}, and runs the world's three hundred and sixty-five days.
+The year turns four times, and each turn is also the season that follows it. The Varokh reckon no months finer than that, because the forest's work does not divide finer: the rivers decide where people can go, and the rivers change four times a year. The year opens at the thaw, on the morning [[lore-commoncal|the Vilérian Calendar]] calls 1 [Lizelandi]{.name data-type="lore/calendar"}, and runs the world's three hundred and sixty-five days.
 
 | Season | Days | What it holds                                                                                                           |
 | ------ | ---: | ----------------------------------------------------------------------------------------------------------------------- |
@@ -65,7 +65,7 @@ A date is given as the day of the season and the winter of the age: the elders b
 
 ## The Ages of the Forest
 
-| Age                     | Written | Opens                              | Vylarian years  |
+| Age                     | Written | Opens                              | Vilérian years  |
 | ----------------------- | ------- | ---------------------------------- | --------------- |
 | Before the Kindreds     | BK      | —                                  | before ~1250 BF |
 | The Taking of the Wood  | TW      | the host comes into the forest     | ~1250–1101 BF   |
@@ -77,7 +77,7 @@ A date is given as the day of the season and the winter of the age: the elders b
 
 ### Before the Kindreds (BK)
 
-The forest of the tellings: the _dorg_ (giants) who walked it before the clans, the stone circles beyond [[place-blackthornrdg|Blackthorn Ridge]] carved with marks that are neither Varokh nor Vylarian, and the paths in the deep wood that have led somewhere else since the [[lore-flksinale|Sinale]] came. The [[lore-pelwarpepl|Pelwar]] lived in the clearings then, without walls. Nothing here is counted, and the reciters disagree about whether it happened to the Varokh at all or to somebody they replaced.
+The forest of the tellings: the _dorg_ (giants) who walked it before the clans, the stone circles beyond [[place-blackthornrdg|Blackthorn Ridge]] carved with marks that are neither Varokh nor Vilérian, and the paths in the deep wood that have led somewhere else since the [[lore-flksinale|Sinale]] came. The [[lore-pelwarpepl|Pelwar]] lived in the clearings then, without walls. Nothing here is counted, and the reciters disagree about whether it happened to the Varokh at all or to somebody they replaced.
 
 ### The Taking of the Wood (TW), from about 1250 BF
 
@@ -85,7 +85,7 @@ The mixed host [[lore-varkhadcnq|the Varkhad conquest]] made out of the eastern 
 
 ### The Mound Centuries (MC), from about 1100 BF
 
-Twelve centuries of villages, palisades, totems and mounds, and the longest age by far. The three seats took their shape in it, and so did the custom of splitting a village at five hundred, which the tellings give to [[place-vrystengrund|Vristengrund]], a [[place-vethwald|Vethwald]] (Deepwood) village whose elders were offered a chief over them and walked out instead. Villages pushing into the eastern forest found the [[lore-grukarfolk|Grukar]] already there, sent parties to treat with them that never came back, and named that country [[place-skathwald|Skathwald]], the harm wood. The Nordmal kingdoms rose to the north, and [[place-vylariargn|Vylaria]] was a rumor of the south.
+Twelve centuries of villages, palisades, totems and mounds, and the longest age by far. The three seats took their shape in it, and so did the custom of splitting a village at five hundred, which the tellings give to [[place-vrystengrund|Vristengrund]], a [[place-vethwald|Vethwald]] (Deepwood) village whose elders were offered a chief over them and walked out instead. Villages pushing into the eastern forest found the [[lore-grukarfolk|Grukar]] already there, sent parties to treat with them that never came back, and named that country [[place-skathwald|Skathwald]], the harm wood. The Nordmal kingdoms rose to the north, and [[place-vylariargn|Viléria]] was a rumor of the south.
 
 ### The Legions' Road (LR), from about 120 AF
 
@@ -101,11 +101,11 @@ The Nordmen took [[place-stormveld|Stormveld]] and needed thralls by the tens of
 
 ### The Posts at Hrindstead (PH), from 708 AF
 
-The present age. [[place-nordheim|Nordheim]] settlers planted their hall-posts in the [Eichthúl]{.name data-type="affiliation/lineage"} grove at Hrindstead and the Eichthúl burned the first stockade ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). The Empire has drawn back to its core and Moktur's _therkoi_ (governors) act on their own; Vylarian loggers fell sacred trees on the Moldún upstream of Skathhreth; and [[affiliation-sonsmuspell|the Sons of Eldheim]] have come ashore on the western bay and burned a village ([[lore-westernshore|The Sons on the Western Shore]]). The reciters expect the next thing every hearth remembers to start a new count, and they cannot say whether it will be a muster.
+The present age. [[place-nordheim|Nordheim]] settlers planted their hall-posts in the [Eichthúl]{.name data-type="affiliation/lineage"} grove at Hrindstead and the Eichthúl burned the first stockade ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). The Empire has drawn back to its core and Moktur's _therkoi_ (governors) act on their own; Vilérian loggers fell sacred trees on the Moldún upstream of Skathhreth; and [[affiliation-sonsmuspell|the Sons of Eldheim]] have come ashore on the western bay and burned a village ([[lore-westernshore|The Sons on the Western Shore]]). The reciters expect the next thing every hearth remembers to start a new count, and they cannot say whether it will be a muster.
 
-## Carrying a Winter to the Vylarian Calendar
+## Carrying a Winter to the Vilérian Calendar
 
-Each age's count is a fixed offset from a Vylarian year, and a day of the season is the same day of the Vylarian year, so only the year changes.
+Each age's count is a fixed offset from a Vilérian year, and a day of the season is the same day of the Vilérian year, so only the year changes.
 
 [The Posts at Hrindstead]{.name data-type="lore/calendar"}
 : add 707 for the year AF. 13 PH is 720 AF.
@@ -125,11 +125,11 @@ The Legions' Road
 The Taking of the Wood
 : subtract the winter from 1,251 for the year BF. 1 TW is 1250 BF.
 
-No reciter counts a Mound Century winter, and nobody in the forest has ever needed to. The early ages are counted here so that a Varokh account and a Vylarian record can be set side by side.
+No reciter counts a Mound Century winter, and nobody in the forest has ever needed to. The early ages are counted here so that a Varokh account and a Vilérian record can be set side by side.
 
 ## See Also
 
-[[lore-commoncal|The Vylarian Calendar]]
+[[lore-commoncal|The Vilérian Calendar]]
 : the count the forest's winters are carried to
 
 [[lore-varokhiclt|Varokhi]]

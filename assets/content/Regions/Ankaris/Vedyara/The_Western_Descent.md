@@ -22,9 +22,9 @@ Four centuries ago the whole of a steppe host, [[lore-hndrdbnnrs|the Storm of th
 
 The foothills are uplands with a desert under them, which is an unusual combination and the reason the [[affiliation-svapnasarisameja|Svapnasari-sameja]] keeps its houses here. The dream-sect's monasteries stand at a handful of edge-towns along the march road, high enough for the cold and dry enough for the quiet. The Sameja contests nobody's authority over public religion. That suits a frontier where the public religion changes every fifty miles.
 
-The [[affiliation-khzrncnfdrtn|Khazryn]] hold the Descent to be their ancestral country and trace lineage-origins to named peaks above it, most of which no living member of the house concerned has seen. Their own name for it, **Dranavár**, is close enough to [[place-drenavrspn|the Drenavar Spine]] half a world away that travelers' tales confuse the two with some regularity.
+The [[affiliation-khzrncnfdrtn|Khazrin]] hold the Descent to be their ancestral country and trace lineage-origins to named peaks above it, most of which no living member of the house concerned has seen. Their own name for it, **Dranavár**, is close enough to [[place-drenavrspn|the Drenavar Spine]] half a world away that travelers' tales confuse the two with some regularity.
 
 ## See Also
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-sthrnwall|the Southern Wall]]
-- [[place-dunharargn|Dunhara]] · [[place-khzryndsrtrgn|Khazryn Desert]] · [[place-drenavrspn|the Drenavar Spine]]
+- [[place-dunharargn|Dunhara]] · [[place-khzryndsrtrgn|Khazrin Desert]] · [[place-drenavrspn|the Drenavar Spine]]

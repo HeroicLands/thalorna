@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Tijodur**, "the star people", are a [[lore-sowidesclt|Sovidur]] tribe of the cold high steppe in the north of [[place-idwkrrgn|Idvaqor]], in the [[place-khzryndsrtrgn|Khazryn]], where the grass climbs into high valleys and the ground under it stays frozen through the summer. Every Tijodur is marked from childhood with the beasts of his line, in blue on the arms and shoulders. The tribe keeps a field of burial mounds, and every mound in it is an unpaid debt of blood.
+The **Tijodur**, "the star people", are a [[lore-sowidesclt|Sovidur]] tribe of the cold high steppe in the north of [[place-idwkrrgn|Idvaqor]], in the [[place-khzryndsrtrgn|Khazrin]], where the grass climbs into high valleys and the ground under it stays frozen through the summer. Every Tijodur is marked from childhood with the beasts of his line, in blue on the arms and shoulders. The tribe keeps a field of burial mounds, and every mound in it is an unpaid debt of blood.
 
 ## The Range
 

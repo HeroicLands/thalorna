@@ -32,7 +32,7 @@ data:
         reach:
           - place: place-hylen
             how: >-
-              the great estates take the war as a family's worst memory, and a Hilen house will not applaud a general who marches on another Vylarian army
+              the great estates take the war as a family's worst memory, and a Hilen house will not applaud a general who marches on another Vilérian army
             knowledge: named
           - place: place-olcassafld
             how: >-
@@ -75,7 +75,7 @@ The two armies met on the **Olkassa** estate, one of the great holdings of the p
 
 Makandas won the field and could not use it. He had half his army, the estates' granaries were burned or taken and the harvest was lost. The war went on two years more, and the bread and the dole both failed in the capital before it was over ([[lore-greatburnng|The Great Burning]]).
 
-Hilen has not forgotten. The province's great houses, whose estates the armies marched across, say that no Vylarian should draw a sword on another, and the conservatism that marks the province's politics owes a good deal to the field. The ground itself is farmed ([[place-olcassafld|The Blood-field of Olkassa]]).
+Hilen has not forgotten. The province's great houses, whose estates the armies marched across, say that no Vilérian should draw a sword on another, and the conservatism that marks the province's politics owes a good deal to the field. The ground itself is farmed ([[place-olcassafld|The Blood-field of Olkassa]]).
 
 ## What It Left
 

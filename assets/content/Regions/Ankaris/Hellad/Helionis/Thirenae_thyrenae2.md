@@ -22,7 +22,7 @@ A philosophical council governs [[affiliation-thyrenae|Thirenae]], drawn from th
 
 ## The Commissioners' Gate
 
-A gate in the western wall is walled up and has never been reopened. It is the breach through which the [Vylarian Republic]{.name data-type="affiliation/polity"}'s commissioners entered in 312 BF ([[lore-heladthyrsiege|the Siege of Thirenae]]), and the colleges keep the day as a day of silence. Antiquarians visit it, and nobody else uses the street. A proposal to reopen the gate for traffic has been met with the colleges' refusal.
+A gate in the western wall is walled up and has never been reopened. It is the breach through which the [Vilérian Republic]{.name data-type="affiliation/polity"}'s commissioners entered in 312 BF ([[lore-heladthyrsiege|the Siege of Thirenae]]), and the colleges keep the day as a day of silence. Antiquarians visit it, and nobody else uses the street. A proposal to reopen the gate for traffic has been met with the colleges' refusal.
 
 ## The Arcane Order
 

@@ -3,7 +3,7 @@ shortcode: korvathis
 name: {full: Korvatis}
 type: place
 subType: region
-description: "The warm Vylarian shore and its hinterland—half of Provénzia's people and most of its money, holding the capital, the great ports, the old imperial city and the law."
+description: "The warm Vilérian shore and its hinterland—half of Provénzia's people and most of its money, holding the capital, the great ports, the old imperial city and the law."
 tags: [region, coastal]
 data:
   demonym: null
@@ -18,12 +18,12 @@ data:
 
 The **Korvatis** is [[place-provenzrgn|Provénzia]] as the world pictures it, and as half of Provénzia actually lives:
 some two and a half million people along the warm, sheltered shore of the
-[[place-vylarianse|Vylarian Sea]] and in the country behind it. It carries the overwhelming majority of
+[[place-vylarianse|Vilérian Sea]] and in the country behind it. It carries the overwhelming majority of
 the kingdom's trade, wealth and population, and every other quarter of the realm is in some measure
 organized around getting its produce here.
 
 Long sandy beaches, easy anchorages and a climate that is the warmest in the kingdom make this the
-natural front door to the Vylarian world—which is exactly what it has been since the empire founded
+natural front door to the Vilérian world—which is exactly what it has been since the empire founded
 [[place-aureliane|Aurelane]] on the inland road.
 
 ## Its Cities
@@ -38,7 +38,7 @@ natural front door to the Vylarian world—which is exactly what it has been sin
 : the working harbor that moves the tonnage while Válaren takes the glamour.
 
 [[place-aureliane|Aurelane]]
-: the old Vylarian provincial capital inland, still holding the high courts and the academies.
+: the old Vilérian provincial capital inland, still holding the high courts and the academies.
 
 [[place-lizela|Lizela]]
 : a modest coastal town on the kingdom's largest salt flats.
@@ -57,4 +57,4 @@ in the middle of the most comfortable country in Provénzia.
 
 ## See Also
 
-- [[place-provenzrgn|Provénzia Region]] · [[place-vylarianse|Vylarian Sea]]
+- [[place-provenzrgn|Provénzia Region]] · [[place-vylarianse|Vilérian Sea]]

@@ -3,7 +3,7 @@ shortcode: legionsroad
 name: {full: The Legions' Road, en: [The Friendly Chiefs, The Posts Given Up]}
 type: lore
 subType: history
-description: "From about 120 AF the Vylarian Empire cut a road north out of Moktur into the Vristwald and raised forward posts along it; it bought the War Chiefs nearest the road about 200–260, lost a legion at Skathhreth in 291, and gave the posts up about 340, and the road is the Blackpine Wolves' hunting ground now."
+description: "From about 120 AF the Vilérian Empire cut a road north out of Moktur into the Vristwald and raised forward posts along it; it bought the War Chiefs nearest the road about 200–260, lost a legion at Skathhreth in 291, and gave the posts up about 340, and the road is the Blackpine Wolves' hunting ground now."
 tags: [history]
 data:
   culture: varokhiclt
@@ -22,7 +22,7 @@ data:
         - affiliation-vrystwldtrbs
         - place-moktur
       summary: >-
-        The Empire at its height cuts a road north out of Moktur over the Vandstein highlands toward the crossing at Waldburg, and raises a chain of timber-and-stone forward posts along it, each a day's march from the last. Milestones go up beside it, and Vylarian coin comes up it and never goes back down.
+        The Empire at its height cuts a road north out of Moktur over the Vandstein highlands toward the crossing at Waldburg, and raises a chain of timber-and-stone forward posts along it, each a day's march from the last. Milestones go up beside it, and Vilérian coin comes up it and never goes back down.
       standing: attested
       names: [{name: the Legions' Road, by: lore-varokhiclt}]
       where:
@@ -32,7 +32,7 @@ data:
             how: the province becomes the base of the northern advance, and its valleys fill with the road's garrisons
             knowledge: named
           - place: place-vrystwald
-            how: Vylarian coin becomes the forest's money, carried north by the road and never sent back
+            how: Vilérian coin becomes the forest's money, carried north by the road and never sent back
             knowledge: named
       who: [{ref: affiliation-vylarinmpr, role: actor}]
       accounts:
@@ -107,11 +107,11 @@ data:
       unresolved: ["whether any post was handed over rather than burned, and to whom"]
 ---
 
-A Varokh in [[place-vandstein|Vandstein]] who wants to say that a thing is foreign and will not last calls it "a milestone". The road the milestones stand beside is **the Legions' Road**, and it is the only road anyone ever built in [[place-vrystwald|Vristwald]]. It ran north out of [[place-moktur|Moktur]] for a hundred and sixty years and then stopped running, and every Vylarian ruin in the southern woods stands on it.
+A Varokh in [[place-vandstein|Vandstein]] who wants to say that a thing is foreign and will not last calls it "a milestone". The road the milestones stand beside is **the Legions' Road**, and it is the only road anyone ever built in [[place-vrystwald|Vristwald]]. It ran north out of [[place-moktur|Moktur]] for a hundred and sixty years and then stopped running, and every Vilérian ruin in the southern woods stands on it.
 
 ## The Road Comes North
 
-About 120 AF the [[affiliation-vylarinmpr|Empire]] at its height cut a road north out of Moktur over the Vandstein highlands, aimed at the river crossing at [[place-waldburg|Waldburg]]. Its engineers raised a chain of timber-and-stone forward posts beside it, each a day's march from the last, and set a milestone at every mile. Vylarian coin came up the road with the garrisons and stayed in the forest when the garrisons went back down it, which is why the ethla is the money of Vristwald to this day.
+About 120 AF the [[affiliation-vylarinmpr|Empire]] at its height cut a road north out of Moktur over the Vandstein highlands, aimed at the river crossing at [[place-waldburg|Waldburg]]. Its engineers raised a chain of timber-and-stone forward posts beside it, each a day's march from the last, and set a milestone at every mile. Vilérian coin came up the road with the garrisons and stayed in the forest when the garrisons went back down it, which is why the ethla is the money of Vristwald to this day.
 
 The road went where the engineers wanted except in one place. At [[place-frodhaven|Fródhaven]] it bends around a sacred shelter of the Varokh village there, and the bend is still in the ruts. The village tells it as the one time the legions were made to ask, and the tellings disagree about what the village was paid.
 
@@ -127,10 +127,10 @@ The road could carry a legion north, and in 291 one marched up it to burn Waldbu
 
 ## What It Left
 
-- **The road.** Overgrown and broken, its bridges gone to the rivers, its ruts still legible under the moss where the ground is dry. [[affiliation-blckpnwlvs|The Blackpine Wolves]] hunt travelers on a stretch of it north of the Vylarian border garrison, among milestones that still count miles to a crossing no legion reached.
-- **The posts.** Stone shells in the southern woods, picked over by generations of Varokh treasure-hunters. [[place-thrastein|Thrastein]]'s standing stone watches one, and a Vylarian claimant is presently trying to buy the ground under it; [[place-rikstein|Rikstein]]'s ruined tower tempts outsiders to claim the ground around it.
+- **The road.** Overgrown and broken, its bridges gone to the rivers, its ruts still legible under the moss where the ground is dry. [[affiliation-blckpnwlvs|The Blackpine Wolves]] hunt travelers on a stretch of it north of the Vilérian border garrison, among milestones that still count miles to a crossing no legion reached.
+- **The posts.** Stone shells in the southern woods, picked over by generations of Varokh treasure-hunters. [[place-thrastein|Thrastein]]'s standing stone watches one, and a Vilérian claimant is presently trying to buy the ground under it; [[place-rikstein|Rikstein]]'s ruined tower tempts outsiders to claim the ground around it.
 - **The Varokh of Moktur.** Kindreds a village disowned, living on the Empire's land under the Empire's lords, and still Varokh in speech and in their totems.
-- **Vylarian coin.** The forest's money, which nobody in the forest has ever been taxed in.
+- **Vilérian coin.** The forest's money, which nobody in the forest has ever been taxed in.
 
 A milestone that marks more than distance is a story every Vandstein child knows: one stone on the road was cut with a column of names instead of a number, and the treasure-hunters who have looked for it have found three different stones, each claimed to be the one.
 

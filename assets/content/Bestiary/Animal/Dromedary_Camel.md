@@ -246,7 +246,7 @@ The string of camels comes over the dune-crest one behind another, tall and rang
 
 # Dossier {#dossier}
 
-The Dromedary is the one-humped camel of the hot deserts, six and a half to seven and a half feet at the shoulder and nine hundred to fourteen hundred pounds, the transport animal of [[place-dunhardsrtrgn|Dunhara]] and the oasis cities of [[place-amradadrgn|Amradad]]. It is faster and more agile than the two-humped Khazryn camel but more nervous and more aggressive, and less able to stand cold or hardship. A dromedary in a bad mood spits, kicks and bites. Caravans depend on it across the wide deserts.
+The Dromedary is the one-humped camel of the hot deserts, six and a half to seven and a half feet at the shoulder and nine hundred to fourteen hundred pounds, the transport animal of [[place-dunhardsrtrgn|Dunhara]] and the oasis cities of [[place-amradadrgn|Amradad]]. It is faster and more agile than the two-humped Khazrin camel but more nervous and more aggressive, and less able to stand cold or hardship. A dromedary in a bad mood spits, kicks and bites. Caravans depend on it across the wide deserts.
 
 ## Presentation
 
@@ -254,11 +254,11 @@ A long-legged animal with a single hump above the shoulders. The head is long an
 
 ## In the Land
 
-Dromedaries are kept in the hot deserts of Dunhara, the oasis cities of Amradad and the dry southern margin of the [[place-khzryndsrtrgn|Khazryn]], where the cold of the northern steppe stops them. They are a herd animal: a tribe keeps a string of breeding cows, a few bulls and a number of geldings, and drives them from well to well. A camel can go several days without water and carries a load of two hundred pounds or more for twenty miles a day.
+Dromedaries are kept in the hot deserts of Dunhara, the oasis cities of Amradad and the dry southern margin of the [[place-khzryndsrtrgn|Khazrin]], where the cold of the northern steppe stops them. They are a herd animal: a tribe keeps a string of breeding cows, a few bulls and a number of geldings, and drives them from well to well. A camel can go several days without water and carries a load of two hundred pounds or more for twenty miles a day.
 
 ## Key Behaviors
 
-Dromedaries live in herds, with more independence of mind than the Khazryn camels. They are quick to react, have definite preferences about handlers and routes, and can be stubborn or cantankerous. They travel long distances on little food and water, though not as long as a Khazryn camel can. They are active in the cool of dawn, dusk and night and save their strength in the heat.
+Dromedaries live in herds, with more independence of mind than the Khazrin camels. They are quick to react, have definite preferences about handlers and routes, and can be stubborn or cantankerous. They travel long distances on little food and water, though not as long as a Khazrin camel can. They are active in the cool of dawn, dusk and night and save their strength in the heat.
 
 ## What the Caravans Do
 
@@ -280,7 +280,7 @@ A dromedary will kick with hind legs when threatened, delivering impressive blow
 
 ### Hind-leg Kick
 
-The dromedary delivers powerful kicks capable of breaking bones. The kick is often used with less force than Khazryn camels but with greater frequency due to the camel's higher agility.
+The dromedary delivers powerful kicks capable of breaking bones. The kick is often used with less force than Khazrin camels but with greater frequency due to the camel's higher agility.
 
 ### Spitting Attack
 
@@ -294,7 +294,7 @@ When cornered or protecting young, the dromedary will bite with force that can t
 
 ### Desert Adaptation and Speed
 
-A dromedary can survive in deserts where other large animals perish. It requires minimal water and food compared to other animals its size. It is faster than Khazryn camels and more agile, capable of sustained running at moderate pace for hours.
+A dromedary can survive in deserts where other large animals perish. It requires minimal water and food compared to other animals its size. It is faster than Khazrin camels and more agile, capable of sustained running at moderate pace for hours.
 
 ### Resilience to Heat and Harsh Conditions
 

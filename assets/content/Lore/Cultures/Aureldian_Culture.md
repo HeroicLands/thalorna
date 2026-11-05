@@ -24,7 +24,7 @@ data:
     height: {female: {min: 5' 1", max: 6' 1"}, male: {min: 5' 5", max: 6' 5"}}
 ---
 
-The Aureldian culture is a civilization several peoples hold in common, not a people of its own. The [[lore-vylarianclt|Vylarians]], [[lore-elavendriclt|Élavendri]], [Kalipsan]{.name data-type="lore/culture"}, [[lore-aelwythanclt|Aelwythan]], [[lore-tarvenanclt|Tarvenan]] and [[lore-provenzianclt|Provénzian]] peoples each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.
+The Aureldian culture is a civilization several peoples hold in common, not a people of its own. The [[lore-vylarianclt|Vilérians]], [[lore-elavendriclt|Élavendri]], [Kalipsan]{.name data-type="lore/culture"}, [[lore-aelwythanclt|Aelwythan]], [[lore-tarvenanclt|Tarvenan]] and [[lore-provenzianclt|Provénzian]] peoples each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.
 
 ## The Twelve
 
@@ -65,7 +65,7 @@ The year turns on the [Feast of Thresholds]{.name data-type="lore/gathering"}, f
 
 - [[affiliation-sacredforge|The Sacred Forge]] honors the creative aspect: craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provénzia. Its Hamsarnor is checked by a council of senior Hammer-Priests.
 
-- [[affiliation-blackflame|The Black Flame]] honors the destructive aspect: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The [[affiliation-vylarinmpr|Empire of Vylaria]] is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
+- [[affiliation-blackflame|The Black Flame]] honors the destructive aspect: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The [[affiliation-vylarinmpr|Empire of Viléria]] is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
 
 ### The Other Faiths
 
@@ -83,8 +83,8 @@ Two of the faiths field knightly orders that carry their doctrine where the civi
 
 Six peoples share the Aureldian culture. Each is a culture in its own right, and what it holds beyond the faiths, orders and gods above is its own.
 
-[[lore-vylarianclt|Vylarian]]
-: the people of the Empire of Vylaria.
+[[lore-vylarianclt|Vilérian]]
+: the people of the Empire of Viléria.
 
 [[lore-elavendriclt|Élavendri]]
 : the people of [[place-elavendre|Élavendre]].

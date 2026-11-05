@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Warrens are where [[place-orzara|Orzara City]]'s citizens live. They are the dense tenement wards, Katsur in [[skill-vylarilng|Vylari Language]], that fill every valley and lower slope the grander quarters leave them, and they are packed thickest on [Nerval]{.name data-type="place/feature"}, the River Hill, above the [[place-wharvesorz|Wharves]]. Their buildings are _tengali_ (tenements), five, six and seven stories of brick below and timber above, crowded wall to wall along stepped lanes, and they are home to nearly two hundred thousand people: the veteran-citizens and their families, and the sponsored working folk whose livelihoods keep them inside the line. At their heart lies the [Spire Circle]{.name data-type="place/site"}, built about a soaring spire hauled from a conquered province.
+The Warrens are where [[place-orzara|Orzara City]]'s citizens live. They are the dense tenement wards, Katsur in [[skill-vylarilng|Vilari Language]], that fill every valley and lower slope the grander quarters leave them, and they are packed thickest on [Nerval]{.name data-type="place/feature"}, the River Hill, above the [[place-wharvesorz|Wharves]]. Their buildings are _tengali_ (tenements), five, six and seven stories of brick below and timber above, crowded wall to wall along stepped lanes, and they are home to nearly two hundred thousand people: the veteran-citizens and their families, and the sponsored working folk whose livelihoods keep them inside the line. At their heart lies the [Spire Circle]{.name data-type="place/site"}, built about a soaring spire hauled from a conquered province.
 
 A Watch sergeant walking a new recruit through the lanes of Nerval on his first night patrol stops at the foot of a stair and points up it: "Ninety stairs to the top of that one, and a family on every landing. The ground floor is a cookshop, the first floor is a man who has done well, and the top floor is a man who has not. Every one of them did twenty years in a legion or married someone who did, and every one of them knows exactly what the Empire owes him. Remember that before you raise your cudgel."
 
@@ -76,7 +76,7 @@ The Warrens fear fire, the short dole and dear bread, and every power in the cit
 [[place-sixhillsvyl|Six Hills]]
 : Nerval, the River Hill, among them
 
-[[doc-vylrnctznshp|Vylarian Citizenship]]
+[[doc-vylrnctznshp|Vilérian Citizenship]]
 : the citizen, the resident and the dole
 
 [[lore-greatburnng|The Great Burning]]

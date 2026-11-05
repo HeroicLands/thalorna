@@ -3,7 +3,7 @@ shortcode: bethura
 name: {full: Bethura}
 type: place
 subType: settlement
-description: The capital of the Matriarchy of Bethua, a harbor city on a bay of the Vylarian Sea—where the Sacred College and the Council of Houses sit, and the Trade-Houses keep their principal hall.
+description: The capital of the Matriarchy of Bethua, a harbor city on a bay of the Vilérian Sea—where the Sacred College and the Council of Houses sit, and the Trade-Houses keep their principal hall.
 tags: [city, capital]
 data:
   demonym: null
@@ -20,7 +20,7 @@ data:
 
 That is roughly how a factor of one of [[affiliation-bthntrdhss|the Trade-Houses]] puts it to a foreign trader who has just stepped onto the harbor-front, and it is a fair summary. Bethura is the capital of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] and the city where the realm is governed: some thirty-five thousand people in the [[place-bethuargn|Bethua Region]] on [[place-xerathia|Zerathia]]'s northern shore. Both pillars of the Bethuan state sit here—the [Sacred College]{.name data-type="affiliation/governmental"} of the high priestesses and the [Council of Houses]{.name data-type="affiliation/governmental"} of the clan-matriarchs—and the Metrissa, Queen and High Priestess, presides over each. The Trade-Houses keep the principal hall of their federation in the same city.
 
-Bethura stands on a bay of the [[place-vylarianse|Vylarian Sea]], and a ship bound for the capital enters the calm water of the bay with the whole city in front of it: the quays and bonded warehouses of the harbor-front, which every Bethuan calls the _en-telekas_ (quay), and above them the temple roofs and the halls of the Houses climbing the slope. The city sits in the sea-tempered coastal strip, among the same orchards of citrus, olive and vine as the other ports. Behind the orchards the rain falls away, and the country becomes the semi-arid grassland of the interior, which grows only what water is brought to it. The quays of the bay and the coast roads to the other orchard-ports are what the [Court of the Veil]{.name data-type="affiliation/governmental"} watches most closely.
+Bethura stands on a bay of the [[place-vylarianse|Vilérian Sea]], and a ship bound for the capital enters the calm water of the bay with the whole city in front of it: the quays and bonded warehouses of the harbor-front, which every Bethuan calls the _en-telekas_ (quay), and above them the temple roofs and the halls of the Houses climbing the slope. The city sits in the sea-tempered coastal strip, among the same orchards of citrus, olive and vine as the other ports. Behind the orchards the rain falls away, and the country becomes the semi-arid grassland of the interior, which grows only what water is brought to it. The quays of the bay and the coast roads to the other orchard-ports are what the [Court of the Veil]{.name data-type="affiliation/governmental"} watches most closely.
 
 ## The Water
 
@@ -60,7 +60,7 @@ Do not mistake an unarmed Bethuan woman for a defenseless one. The [[skill-chari
 
 Not every House of Bethura holds great estates. The city's lettered Houses supply the clerks a realm of rolls and qanats depends on. [House Safiron]{.name data-type="affiliation/lineage"}, a middling House of Bethura, has served the realm's offices for generations, and [[being-rshrhssfrn|Rashira of House Safiron]] rose from it to become a senior Grammatissa (scribe) of the Naukrátissa's office and a keeper of the sealed rolls of the [Purple Warrant]{.name data-type="lore/law"}, the crown's commission for privateers. She has since fled south with one of those rolls. House Safiron renounced her before the Court of the Veil and struck her from its rolls, because in Bethua a House that shelters or even mourns a traitor to the crown invites ruin on every woman of its line.
 
-[House Zighiros]{.name data-type="affiliation/lineage"} is a prosperous Lesser House of the Trade-Houses whose trade runs from the orchard-ports across the Vylarian Sea to Au'Khelathu. Its heir-presumptive, [[being-tlnrzyghrs|Tálanira Zighiros]], makes her home in Bethura and means to see her House rise to a Great House on terms she sets herself. She spends less time at the counting-house than her mother intended. House Zighiros once hired the thief-taker [[being-lmbhrpdhnn|Lámbira Pédhinion]] to run down a caravan thief, Tálanira rode along to "learn the trade-roads," and she has ridden with Lámbira since.
+[House Zighiros]{.name data-type="affiliation/lineage"} is a prosperous Lesser House of the Trade-Houses whose trade runs from the orchard-ports across the Vilérian Sea to Au'Khelathu. Its heir-presumptive, [[being-tlnrzyghrs|Tálanira Zighiros]], makes her home in Bethura and means to see her House rise to a Great House on terms she sets herself. She spends less time at the counting-house than her mother intended. House Zighiros once hired the thief-taker [[being-lmbhrpdhnn|Lámbira Pédhinion]] to run down a caravan thief, Tálanira rode along to "learn the trade-roads," and she has ridden with Lámbira since.
 
 Lámbira works out of Bethura, hiring her tracking, her blade and her Kharessa to the Houses, the Trade-Houses, the cantonal governesses and the agents of the capital itself. In the circles that know of such work she is called the **Hound of the Veil**.
 

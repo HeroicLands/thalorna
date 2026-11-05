@@ -3,14 +3,14 @@ shortcode: straitfortress
 name: {full: Strait Fortress}
 type: place
 subType: structure
-description: "The Vylarian-built, Taruzelian-held fortress on the cliffs of Yamuzel that commands the narrows of the Taruzelian archipelago, where every passing hull is logged and every convoy forms under its walls."
+description: "The Vilérian-built, Taruzelian-held fortress on the cliffs of Yamuzel that commands the narrows of the Taruzelian archipelago, where every passing hull is logged and every convoy forms under its walls."
 tags: [taruzel, yamuzel, fortress]
 data: {demonym: null, lore: [], parents: [yamuzel2], population: 0, packFolder: taruzel}
 ---
 
 ## Overview
 
-The Strait Fortress stands on the eastern cliffs of [[place-khamisar|Khamisar]] above the city of [[place-yamuzel2|Yamuzel]], where the narrows between Khamisar and [[place-qalirel|Qalirel]] close to three miles, and no hull goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] without passing under its walls. Vylarian engineers built it, and Taruzelian marines hold it. In a sailor's mouth "the strait" means these narrows, and the fortress gave the word that meaning ([[place-zupumun|Zupumun]]).
+The Strait Fortress stands on the eastern cliffs of [[place-khamisar|Khamisar]] above the city of [[place-yamuzel2|Yamuzel]], where the narrows between Khamisar and [[place-qalirel|Qalirel]] close to three miles, and no hull goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] without passing under its walls. Vilérian engineers built it, and Taruzelian marines hold it. In a sailor's mouth "the strait" means these narrows, and the fortress gave the word that meaning ([[place-zupumun|Zupumun]]).
 
 ## What Is There
 
@@ -30,7 +30,7 @@ A party with business inside comes to the landward gate with a letter from an ad
 
 ## What Is Said of It
 
-The marines say the fortress has never been stormed: its Vylarian garrison gave it up by treaty in the months after the Shoals, and the first marines to march in found its stores full and its engines oiled. The old men of the Veterans' Quarter say the imperial garrison left something behind besides its stores, and do not agree on what. The admirals' houses say the Vylarians who built it would like it back, and that they still have the drawings.
+The marines say the fortress has never been stormed: its Vilérian garrison gave it up by treaty in the months after the Shoals, and the first marines to march in found its stores full and its engines oiled. The old men of the Veterans' Quarter say the imperial garrison left something behind besides its stores, and do not agree on what. The admirals' houses say the Vilérians who built it would like it back, and that they still have the drawings.
 
 ## The Present {#present}
 
@@ -38,7 +38,7 @@ The fortress is preparing for the [[lore-fleetreview|Fleet Review]], when the co
 
 ## History {#history}
 
-Vylarian engineers built the fortress to close the narrows to the empire's enemies, and an imperial garrison held it until the war. By the marines' account that garrison gave it up by treaty in the months after the Tamzir Shoals, and the first Taruzelian marines to march in found its stores full and its engines oiled. Since then it has been Yamuzel's, under a Warden named by the Admiral's Council, and its wall has been the councilors' stand for every Fleet Review since the first in 709.
+Vilérian engineers built the fortress to close the narrows to the empire's enemies, and an imperial garrison held it until the war. By the marines' account that garrison gave it up by treaty in the months after the Tamzir Shoals, and the first Taruzelian marines to march in found its stores full and its engines oiled. Since then it has been Yamuzel's, under a Warden named by the Admiral's Council, and its wall has been the councilors' stand for every Fleet Review since the first in 709.
 
 ## Hooks {#hooks}
 
@@ -64,7 +64,7 @@ Vylarian engineers built the fortress to close the narrows to the empire's enemi
 
 # The Truth of the Fortress {#truth .secret}
 
-**The drawings exist.** A copy of the engineers' plans of the fortress lies in the naval offices of the [[affiliation-vylarinmpr|Vylarian Empire]], and a Vylarian naval officer has been studying it since the war. The plans show what the marines have never found: a second sea door, cut through the rock under the keep, opening on a cave at the waterline that a boat can enter at low tide. Inside the cave a stair climbs to a storeroom under the keep, and the storeroom's inner door was bricked over by the imperial garrison before it marched out and plastered to match the wall. The marines use the storeroom for old sails. A party that knows where to knock finds the wall hollow.
+**The drawings exist.** A copy of the engineers' plans of the fortress lies in the naval offices of the [[affiliation-vylarinmpr|Vilérian Empire]], and a Vilérian naval officer has been studying it since the war. The plans show what the marines have never found: a second sea door, cut through the rock under the keep, opening on a cave at the waterline that a boat can enter at low tide. Inside the cave a stair climbs to a storeroom under the keep, and the storeroom's inner door was bricked over by the imperial garrison before it marched out and plastered to match the wall. The marines use the storeroom for old sails. A party that knows where to knock finds the wall hollow.
 
 **The archive holds more than logs.** Filed among the muster rolls of the war's second year is a survey book of plots on Khamisar's southern terraces, with the names of the men who signed for them (see [[place-khamisar|Khamisar]]). The old navy clerk who keeps the archive was told to file it and forget it, and he has been offered a pension to burn it.
 

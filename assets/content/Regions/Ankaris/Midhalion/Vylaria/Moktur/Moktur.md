@@ -3,10 +3,10 @@ shortcode: moktur
 name: {full: Moktur}
 type: place
 subType: region
-description: "The mountainous northern shield of the Vylarian Empire—the land of the Province of Moktur, a hard frontier of mines, timber and fortified valleys on the Vristwald march."
+description: "The mountainous northern shield of the Vilérian Empire—the land of the Province of Moktur, a hard frontier of mines, timber and fortified valleys on the Vristwald march."
 tags: [region]
 data:
-  demonym: Vylarian
+  demonym: Vilérian
   lore: [humanflk]
   parents: [vylariargn]
   population: 2000000
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Two million people live in the mountains along the northern edge of the [[place-vylariargn|Vylaria Region]], against the [[place-vrystwald|Vristwald]], among mines, timber and fortified valleys. This is Moktur, the land of the [[affiliation-provncmktr|Province of Moktur]] of the [[affiliation-vylarinmpr|Vylarian Empire]]. Its seat is [[place-tyrellan|Tirellan]]. The Empire organized the land as a march when it cut [[lore-legionsroad|the Legions' Road]] north into the Vristwald, and the marshes below its passes saw [[lore-blackmarshbtl|the Battle of the Black Marsh]].
+Two million people live in the mountains along the northern edge of the [[place-vylariargn|Viléria Region]], against the [[place-vrystwald|Vristwald]], among mines, timber and fortified valleys. This is Moktur, the land of the [[affiliation-provncmktr|Province of Moktur]] of the [[affiliation-vylarinmpr|Vilérian Empire]]. Its seat is [[place-tyrellan|Tirellan]]. The Empire organized the land as a march when it cut [[lore-legionsroad|the Legions' Road]] north into the Vristwald, and the marshes below its passes saw [[lore-blackmarshbtl|the Battle of the Black Marsh]].
 
 A watchtower sergeant, handing a new recruit his first night on the wall, teaches the one skill the province asks of everyone: "Down there is the Vristwald and up here is the empire, and the line between them is whatever you can see from this wall. Count the smoke. One column is a hearth. Three is a camp. Wake me for three."
 
@@ -68,7 +68,7 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 [[place-edrenburg|Edrenburg]] (~1,200)
 : a half-Varokh border town at the edge of Vristwald, beside an imperial garrison.
 
-**Hamlets, camps and border communities.** Between the towns lie scattered settlements of 100–800 people: fortified herding steads, mining and cutting camps, watchtower-villages, and the [[lore-varokhiclt|Varokh]] communities that sit within Moktur's nominal borders but answer to no Vylarian magistrate. Among them are [Greythorn]{.name data-type="place/settlement"}, [Ironcamp]{.name data-type="place/settlement"}, [Skarrholt]{.name data-type="place/settlement"}, [Vargmoot]{.name data-type="place/settlement"}, [Highfell]{.name data-type="place/settlement"}, [Drekkar's Steading]{.name data-type="place/settlement"}, [Wolfstead]{.name data-type="place/settlement"}, [Coldreach]{.name data-type="place/settlement"} and [Stennvik]{.name data-type="place/settlement"}, several of them more Varokh than Vylarian in tongue and custom. The farming villages of the valley round [[place-tyrellan|Tirellan]], [[place-mylanthos|Milanthos]] among them, are the province's granary. By the empire's standards Moktur is thinly peopled, and its mountains hold far more sheep, ore and timber than men.
+**Hamlets, camps and border communities.** Between the towns lie scattered settlements of 100–800 people: fortified herding steads, mining and cutting camps, watchtower-villages, and the [[lore-varokhiclt|Varokh]] communities that sit within Moktur's nominal borders but answer to no Vilérian magistrate. Among them are [Greythorn]{.name data-type="place/settlement"}, [Ironcamp]{.name data-type="place/settlement"}, [Skarrholt]{.name data-type="place/settlement"}, [Vargmoot]{.name data-type="place/settlement"}, [Highfell]{.name data-type="place/settlement"}, [Drekkar's Steading]{.name data-type="place/settlement"}, [Wolfstead]{.name data-type="place/settlement"}, [Coldreach]{.name data-type="place/settlement"} and [Stennvik]{.name data-type="place/settlement"}, several of them more Varokh than Vilérian in tongue and custom. The farming villages of the valley round [[place-tyrellan|Tirellan]], [[place-mylanthos|Milanthos]] among them, are the province's granary. By the empire's standards Moktur is thinly peopled, and its mountains hold far more sheep, ore and timber than men.
 
 ## Hooks {#hooks}
 
@@ -80,7 +80,7 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 [[affiliation-provncmktr|Province of Moktur]]
 : the province that holds this land
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the enclosing region
 
 [[place-tyrellan|Tirellan]]

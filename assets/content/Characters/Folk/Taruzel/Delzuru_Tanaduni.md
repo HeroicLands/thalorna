@@ -65,7 +65,7 @@ He is cheerful, open-handed and good company, and none of it is false. He is als
 
 ### Motivation
 
-He wants the house out of debt and the League above the Compact. He believes the League is the only thing standing between Taruzel and a Vylarian fleet in the narrows, and he wants the Grand Council to pay for it as such. He wants the [[affiliation-ordoarcanis|Thordimalon]]'s battle-magic aboard the League's galleys, and says so to anyone who asks why the League does not want the Order expelled.
+He wants the house out of debt and the League above the Compact. He believes the League is the only thing standing between Taruzel and a Vilérian fleet in the narrows, and he wants the Grand Council to pay for it as such. He wants the [[affiliation-ordoarcanis|Thordimalon]]'s battle-magic aboard the League's galleys, and says so to anyone who asks why the League does not want the Order expelled.
 
 ### Strengths
 

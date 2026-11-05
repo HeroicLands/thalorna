@@ -458,7 +458,7 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 ### Patrons of Convenience
 
 [[being-casiaveric|Kassa Verris]]
-: The intelligence officer of the [[affiliation-vylarinmpr|Vylarian Empire]] whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashira]] needs to cross the Marches toward the [[affiliation-empireakhlth|Khelathi frontier]]. Argirira does not know—or care—whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
+: The intelligence officer of the [[affiliation-vylarinmpr|Vilérian Empire]] whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashira]] needs to cross the Marches toward the [[affiliation-empireakhlth|Khelathi frontier]]. Argirira does not know—or care—whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
 
 ### The Band
 

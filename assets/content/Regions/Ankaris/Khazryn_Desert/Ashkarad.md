@@ -32,7 +32,7 @@ The Teghumod buy what the workshops make and carry it where the markets are. The
 
 The Teghumod are the most cosmopolitan of the twelve tribes, and Ashkarad shows it. Settler merchants have taken the broad streets near the gates, with their own temple of the Flame and their counting-houses, and the old craft quarter lies behind them, entered through low arches. Tellumi craftsmen pay the water-tax, but the Teghumod, who need the goods, leave the councils alone. The result is a city that is quieter than [[place-oasishirvn|Shirvan]] and richer than [[place-zargandur|Zargandur]], and where the resentment runs through contracts rather than streets.
 
-The exiled [House of Ashkarad]{.name data-type="affiliation/lineage"} lives on this arrangement. Its head, [Nimeshay of Ashkarad]{.name data-type="being/npc"}, grew rich in [[affiliation-kngdmmrdd|Amradad]] on [[place-vylarianse|Vylarian Sea]] trade, and some of the money returns to the city as loans to craft families that would otherwise be ruined by a Teghumod price. Everybody in the quarter knows whose money it is, and the craft families take the loans anyway.
+The exiled [House of Ashkarad]{.name data-type="affiliation/lineage"} lives on this arrangement. Its head, [Nimeshay of Ashkarad]{.name data-type="being/npc"}, grew rich in [[affiliation-kngdmmrdd|Amradad]] on [[place-vylarianse|Vilérian Sea]] trade, and some of the money returns to the city as loans to craft families that would otherwise be ruined by a Teghumod price. Everybody in the quarter knows whose money it is, and the craft families take the loans anyway.
 
 ## History {#history}
 

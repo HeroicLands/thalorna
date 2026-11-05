@@ -45,7 +45,7 @@ data:
 
 # Appearance {#appearance}
 
-Dalmeras Varkalenis is a 41-year-old man who stands 5'8" tall and is of light build. He has light skin gone pale from indoor work, black hair cut short and dark brown eyes, and the long, high-bridged nose of the Varkalenis masks, so like them that the clients at the morning call look from his face to the cupboard and back. His fingertips are faintly yellow with beeswax. He wears a _zalvos_'s (priest's) white mantle over a tunic turned twice, and the house's gilded wing on a black seal hangs from a cord at his neck because the ring it came from has been sold. He speaks quietly and formally, in the old court Vylari of his grandfather's generation.
+Dalmeras Varkalenis is a 41-year-old man who stands 5'8" tall and is of light build. He has light skin gone pale from indoor work, black hair cut short and dark brown eyes, and the long, high-bridged nose of the Varkalenis masks, so like them that the clients at the morning call look from his face to the cupboard and back. His fingertips are faintly yellow with beeswax. He wears a _zalvos_'s (priest's) white mantle over a tunic turned twice, and the house's gilded wing on a black seal hangs from a cord at his neck because the ring it came from has been sold. He speaks quietly and formally, in the old court Vilari of his grandfather's generation.
 
 # Dossier {#dossier}
 
@@ -104,7 +104,7 @@ He is poor. He has nothing to offer the Guard, the veterans or the crowd but his
 
 - **[[affiliation-varkalenis|House Varkalenis]]**: of the name, a nephew of the master and the house's claimant.
 - **[[affiliation-imperialcult|Imperial Cult]]**: _zalvos_ and Keeper of the Masks, keeping the masks of the divine and half-divine Orzoi.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: of a senatorial family, though the house's one seat is his uncle's.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: of a senatorial family, though the house's one seat is his uncle's.
 
 ## Plot Hooks
 

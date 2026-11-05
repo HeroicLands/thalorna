@@ -3,7 +3,7 @@ shortcode: imperialcult
 name: {full: Imperial Cult, en: [The Imperial Cult, The State Cult], vyl: [Zalvon]}
 type: affiliation
 subType: faithtradition
-description: "The state cult of the Vylarian Empire: the veneration of dead Orzoi as divine or half-divine by the Senate's vote, an offering every subject makes as a declaration of loyalty, and a department of state with temples in every city, the sovereign as its chief priest and an officer who hears the oaths sworn in court."
+description: "The state cult of the Vilérian Empire: the veneration of dead Orzoi as divine or half-divine by the Senate's vote, an offering every subject makes as a declaration of loyalty, and a department of state with temples in every city, the sovereign as its chief priest and an officer who hears the oaths sworn in court."
 tags: [vylaria, religion]
 data:
   culture: vylarianclt
@@ -58,11 +58,11 @@ A clerk of the cult, sitting at a folding table beside the altar on an accession
 
 ## Overview
 
-The Imperial Cult, _zalvon_ in [[skill-vylarilng|Vylari]], is the state cult of the [[affiliation-vylarinmpr|Vylarian Empire]]: the veneration of dead Orzoi as divine or half-divine. Its temples stand in every city of the Empire, and taking part in it is a religious act and a declaration of political loyalty at once. It sits above the [[affiliation-arldnpnthn|Aureldian Pantheon]], whose gods rule the city's year, and above every other faith in the Empire, and it binds the subjects of all of them to one ritual of allegiance.
+The Imperial Cult, _zalvon_ in [[skill-vylarilng|Vilari]], is the state cult of the [[affiliation-vylarinmpr|Vilérian Empire]]: the veneration of dead Orzoi as divine or half-divine. Its temples stand in every city of the Empire, and taking part in it is a religious act and a declaration of political loyalty at once. It sits above the [[affiliation-arldnpnthn|Aureldian Pantheon]], whose gods rule the city's year, and above every other faith in the Empire, and it binds the subjects of all of them to one ritual of allegiance.
 
-It is also a department of state, with its own revenue, its own appointments and seats at every public ceremony. The reigning Orzas holds the office of **Sarnaks Maldor**, its chief priest, so the cult's head and the state's head are one man. Below him a _holzathos_ named by the [[affiliation-seldan|Seldan]] administers the cult as his officer and hears the oaths (_zaron_) sworn in court. An oath sworn before the _holzathos_ binds in the courts as well as before heaven, and breaking one is among the offenses Vylarians find hardest to forgive.
+It is also a department of state, with its own revenue, its own appointments and seats at every public ceremony. The reigning Orzas holds the office of **Sarnaks Maldor**, its chief priest, so the cult's head and the state's head are one man. Below him a _holzathos_ named by the [[affiliation-seldan|Seldan]] administers the cult as his officer and hears the oaths (_zaron_) sworn in court. An oath sworn before the _holzathos_ binds in the courts as well as before heaven, and breaking one is among the offenses Vilérians find hardest to forgive.
 
-A Vylarian feels no conflict between the cult and his own gods. The Twelve rule the year, the ancestors rule the house, and the Imperial Cult is a courtesy owed to the throne.
+A Vilérian feels no conflict between the cult and his own gods. The Twelve rule the year, the ancestors rule the house, and the Imperial Cult is a courtesy owed to the throne.
 
 ## The Divine and the Half-Divine
 
@@ -113,7 +113,7 @@ Dalmeras has sent word to Nartun, by a priest of the Sacred Forge, that he will 
 
 ## See Also
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the state the cult binds together
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]

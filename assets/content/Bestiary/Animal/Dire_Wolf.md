@@ -215,7 +215,7 @@ The deer's carcass has been dragged thirty yards across the snow and torn open, 
 
 # Dossier {#dossier}
 
-The Dire Wolf is the great wolf of the deep forest, four feet at the shoulder and seven to nine feet long, twice the size of a gray wolf. A pack of five to fifteen holds the deep forest of [[place-vrystwald|Vristwald]] north of the Vylarian border, the marsh forests of [[place-grkrhlmrgn|Grukarholm]] and the high taiga of the [[place-nrdlndsrgn|Nordlands]], and takes elk. Packs have hunted people, and a lone dire wolf, usually an outcast from a pack, is the likeliest to attack.
+The Dire Wolf is the great wolf of the deep forest, four feet at the shoulder and seven to nine feet long, twice the size of a gray wolf. A pack of five to fifteen holds the deep forest of [[place-vrystwald|Vristwald]] north of the Vilérian border, the marsh forests of [[place-grkrhlmrgn|Grukarholm]] and the high taiga of the [[place-nrdlndsrgn|Nordlands]], and takes elk. Packs have hunted people, and a lone dire wolf, usually an outcast from a pack, is the likeliest to attack.
 
 ## Presentation
 
@@ -223,7 +223,7 @@ A massive wolf, lean and muscular, with long legs for sustained running and heav
 
 ## In the Land
 
-Dire wolves hold the deep forest of Vristwald north of the Vylarian border, the marsh forests of Grukarholm and the high taiga of the Nordlands, country that few people enter and none live in. A pack of five to fifteen keeps a range of a hundred miles or more and follows the elk and the caribou through the seasons. They den in a rock cleft or under a root-wall. In deep winter, when the herds have gone, a pack comes down to the margin of the farms.
+Dire wolves hold the deep forest of Vristwald north of the Vilérian border, the marsh forests of Grukarholm and the high taiga of the Nordlands, country that few people enter and none live in. A pack of five to fifteen keeps a range of a hundred miles or more and follows the elk and the caribou through the seasons. They den in a rock cleft or under a root-wall. In deep winter, when the herds have gone, a pack comes down to the margin of the farms.
 
 ## Key Behaviors
 

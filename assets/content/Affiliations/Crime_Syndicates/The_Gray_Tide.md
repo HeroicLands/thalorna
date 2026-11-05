@@ -75,7 +75,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-A maritime crime network operating where the [[place-vylarianse|Vylarian Sea]] meets the cold northern waters. The Gray Tide began as a loose alliance of [[place-nordheim|Nordheim]] smugglers, [[place-aelwyth|Aelwyth]] fences, and [[place-vrystwald|Vristwald]] coastal raiders who discovered that cooperation paid better than competition—at least some of the time. What started as handshake deals in waterfront taverns hardened into an organization over generations, driven by the simple economics of geography: the northern Vylarian Sea is vast, poorly patrolled, dotted with islands and hidden coves, and absolutely critical to legitimate trade. Every merchant ship passing through pays tariffs to someone. The Gray Tide makes sure some of those tariffs are paid to them.
+A maritime crime network operating where the [[place-vylarianse|Vilérian Sea]] meets the cold northern waters. The Gray Tide began as a loose alliance of [[place-nordheim|Nordheim]] smugglers, [[place-aelwyth|Aelwyth]] fences, and [[place-vrystwald|Vristwald]] coastal raiders who discovered that cooperation paid better than competition—at least some of the time. What started as handshake deals in waterfront taverns hardened into an organization over generations, driven by the simple economics of geography: the northern Vilérian Sea is vast, poorly patrolled, dotted with islands and hidden coves, and absolutely critical to legitimate trade. Every merchant ship passing through pays tariffs to someone. The Gray Tide makes sure some of those tariffs are paid to them.
 
 The Tide is rougher, more violent, and more decentralized than the other syndicates. It has no equivalent of [[affiliation-crimsnldgr|the Crimson Ledger]]'s financial sophistication or [[affiliation-velvethand|the Velvet Hand]]'s aristocratic pretensions. Its leaders are ship captains, harbor masters, and brothel madams—practical people who solve problems with pragmatism and, when pragmatism fails, with hatchets.
 
@@ -83,7 +83,7 @@ The Tide is rougher, more violent, and more decentralized than the other syndica
 
 **Primary:** Aelwyth port towns (especially [[place-ashford|Ashford]]), Nordheim's coastal settlements, Vristwald's harbor villages
 
-**Secondary:** The islands scattered between Aelwyth and Nordheim serve as staging areas, stash points, and meeting grounds. A few larger islands have semi-permanent Tide settlements—ostensibly fishing villages, actually smuggling depots. The Tide also maintains fences and agents in Vylarian and Taruzelian ports, though these operate cautiously on the Crimson Ledger's turf.
+**Secondary:** The islands scattered between Aelwyth and Nordheim serve as staging areas, stash points, and meeting grounds. A few larger islands have semi-permanent Tide settlements—ostensibly fishing villages, actually smuggling depots. The Tide also maintains fences and agents in Vilérian and Taruzelian ports, though these operate cautiously on the Crimson Ledger's turf.
 
 ## Operations
 
@@ -91,7 +91,7 @@ The Tide is rougher, more violent, and more decentralized than the other syndica
 
 **Human trafficking:** The Tide's most profitable and most despised operation. People are moved along coastal routes—escaped slaves seeking passage to free territories (for a price), kidnap victims bound for buyers elsewhere, and indentured workers sold between employers who'd rather not involve customs. The sea leg of human trafficking operations often connects with [[affiliation-theashroad|the Ash Road]]'s overland routes, creating a circuit that spans the known world.
 
-**Piracy:** The Tide maintains several fast ships that prey on merchant vessels, particularly those carrying high-value cargo through the less-patrolled northern routes. Piracy is seasonal—concentrated in the warmer months when shipping is heaviest—and selective. The Tide avoids attacking Nordheim vessels (bad for local relations) and Taruzelian warships (suicidal). Vylarian merchants and independent traders are preferred targets.
+**Piracy:** The Tide maintains several fast ships that prey on merchant vessels, particularly those carrying high-value cargo through the less-patrolled northern routes. Piracy is seasonal—concentrated in the warmer months when shipping is heaviest—and selective. The Tide avoids attacking Nordheim vessels (bad for local relations) and Taruzelian warships (suicidal). Vilérian merchants and independent traders are preferred targets.
 
 **Fencing stolen goods:** Stolen cargo needs buyers, and the Tide provides them. A network of shops, market stalls, and traveling merchants throughout Aelwyth and Vristwald moves stolen goods into legitimate commerce. The chandler who sells suspiciously cheap rope, the tavern that always has imported wine at local prices, the farmer's wife who wears silk—all signs of the Tide's reach into everyday commerce.
 

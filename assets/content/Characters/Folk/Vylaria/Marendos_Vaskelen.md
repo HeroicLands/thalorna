@@ -51,7 +51,7 @@ The house is the capital's fastest grain. The barge strings of the Hilen houses 
 
 **The river family.** The Vaskelen take their name from a landing upriver where the family kept a ferry and a few barges for generations. Marendos's father moved the house to the capital and bought its first warehouse. Marendos went to sea at fifteen as a supercargo, crossed to the delta eleven times and lost two fingers' use to a hawser in a storm off the Bizarian coast. He came ashore at thirty to run the house and built the sea fleet.
 
-**The war.** The Taruzelian war closed the eastern sea to Vylarian hulls for a year and ruined half the shipping houses of the capital. Vaskelen survived it by carrying for the Bizarian League under Bizarian colors and by buying the ruined houses' warehouses cheap. He holds the citizenship by a Senate grant his father bought, and the old houses still call him a ferryman.
+**The war.** The Taruzelian war closed the eastern sea to Vilérian hulls for a year and ruined half the shipping houses of the capital. Vaskelen survived it by carrying for the Bizarian League under Bizarian colors and by buying the ruined houses' warehouses cheap. He holds the citizenship by a Senate grant his father bought, and the old houses still call him a ferryman.
 
 ## Psyche
 
@@ -69,7 +69,7 @@ He moves goods faster than anyone in the capital and knows every quay, lighterma
 
 ### Weaknesses
 
-His sea fleet is his whole fortune, and it is insured with nobody, because no Vylarian house will insure a hull on the eastern sea and he will not pay Taruzelian rates. The old houses despise him and the Grain House wants him ruined. His trade runs through the Strangers' Row, and a riot that starts there would start in his warehouses.
+His sea fleet is his whole fortune, and it is insured with nobody, because no Vilérian house will insure a hull on the eastern sea and he will not pay Taruzelian rates. The old houses despise him and the Grain House wants him ruined. His trade runs through the Strangers' Row, and a riot that starts there would start in his warehouses.
 
 ## Social
 
@@ -89,7 +89,7 @@ His sea fleet is his whole fortune, and it is insured with nobody, because no Vy
 ### Affiliations
 
 - **The Vaskelen shipping house**: master and sole owner.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a citizen by Senate grant, of the propertied order.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a citizen by Senate grant, of the propertied order.
 
 ## Plot Hooks
 
@@ -98,11 +98,11 @@ His sea fleet is his whole fortune, and it is insured with nobody, because no Vy
 3. **The Bizarian colors.** A Bizarian shipmaster who carried for Vaskelen in the war is in the River Circle watch-house for a brawl. He sends word that he will say something Marendos would not like said unless Marendos gets him out before the magistrate sits.
 
 :::secret {title="The Corsair cargo"}
-Some of what the Vaskelen sea hulls carry was taken at sea. Since the war the house has bought cargoes in [[place-sazumun2|Sazumun]] from the warehouses of [[affiliation-hitusuni|House Hitusuni]], at a third under their worth: oil, cloth, Bizarian glass and once a hold of Vylarian arms, taken from merchant ships by captains of the [[affiliation-corsairleg|Corsair League]] and sold on with fresh bills of lading. Some of those ships were Vylarian. The goods come up the river under the Vaskelen seal and pass the customs as the delta trade.
+Some of what the Vaskelen sea hulls carry was taken at sea. Since the war the house has bought cargoes in [[place-sazumun2|Sazumun]] from the warehouses of [[affiliation-hitusuni|House Hitusuni]], at a third under their worth: oil, cloth, Bizarian glass and once a hold of Vilérian arms, taken from merchant ships by captains of the [[affiliation-corsairleg|Corsair League]] and sold on with fresh bills of lading. Some of those ships were Vilérian. The goods come up the river under the Vaskelen seal and pass the customs as the delta trade.
 
 House Hitusuni keeps the original bills, and so the Taruzelians know. They have never threatened him. They have asked, twice, that a Vaskelen hull carry a sealed crate from Sazumun to the river mouth without opening it, and twice it has. Marendos does not know what was in them.
 
-If the Seldan learns that the capital's fastest grain house deals in prizes taken from Vylarian ships, the house ends, and the Grain House has its duty by acclamation. The bills are the most valuable paper in Sazumun to Nethoras Mardovanes, and he does not know they exist.
+If the Seldan learns that the capital's fastest grain house deals in prizes taken from Vilérian ships, the house ends, and the Grain House has its duty by acclamation. The bills are the most valuable paper in Sazumun to Nethoras Mardovanes, and he does not know they exist.
 
 **Hook: the third crate.** A third sealed crate waits in a Vaskelen warehouse on the River Circle for collection by a man who has not come. The warehouse-keeper, frightened, asks a party to open it.
 :::

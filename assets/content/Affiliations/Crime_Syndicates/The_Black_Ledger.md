@@ -76,7 +76,7 @@ Type
 : Underground professional network
 
 Region
-: [[place-byzariargn|Bizaria]] principally, with active members in every League city and known correspondents in Provénzia, Helionis, and Vylaria
+: [[place-byzariargn|Bizaria]] principally, with active members in every League city and known correspondents in Provénzia, Helionis, and Viléria
 
 Founded
 : Informal in origin, perhaps two centuries old; never chartered
@@ -120,7 +120,7 @@ The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]
 : major clients. [[affiliation-velvethand|The Velvet Hand]] buys document specialists; [[affiliation-crimsnldgr|the Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; [[affiliation-theashroad|the Ash Road]] buys desert and caravan charts; the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"} buys city-interior surveys.
 
 Foreign powers
-: [[affiliation-kingdmtrvn|Tarvénia]], an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
+: [[affiliation-kingdmtrvn|Tarvénia]], an unidentified northern confederation, at least one Vilérian province, and irregularly the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
 
 The League's City Guard
 : the Ledger's only true enemy. The Guard knows the Ledger exists, knows roughly who is involved, and has not assembled sufficient evidence to indict any senior member.

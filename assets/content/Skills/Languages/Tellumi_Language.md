@@ -111,7 +111,7 @@ data:
       meaning: "a Tellumi name, built from Tellumi stems"
       language: skill-tellumilng
     - tag: khazryn
-      meaning: "a name the Khazryn tongues share, from the shared stems"
+      meaning: "a name the Khazrin tongues share, from the shared stems"
       language: skill-tellumilng
     - tag: sowides
       meaning: "a Sovidur name, built from Sovidur stems"
@@ -6540,12 +6540,12 @@ data:
     - {name: Ahurdaen, tongue: faith}
     - {name: Tellumi Language, tongue: gloss, built: [Tellumi]}
     - {name: Tellumi, tongue: tellumi, built: [te, lu, -mi]}
-    - {name: Khazryn Lexicon, tongue: gloss, built: [Khazryn]}
-    - {name: Khazryn Word List, tongue: gloss, built: [Khazryn]}
+    - {name: Khazrin Lexicon, tongue: gloss, built: [Khazrin]}
+    - {name: Khazrin Word List, tongue: gloss, built: [Khazrin]}
     - {name: Tellumi Adventurer's Guide, tongue: gloss, built: [Tellumi]}
-    - {name: Khazryn Desert Region, tongue: gloss, built: [Khazryn]}
-    - {name: Khazryn Desert, tongue: gloss, built: [Khazryn]}
-    - name: Khazryn
+    - {name: Khazrin Desert Region, tongue: gloss, built: [Khazrin]}
+    - {name: Khazrin Desert, tongue: gloss, built: [Khazrin]}
+    - name: Khazrin
       tongue: kept
       why: "the region's name, which stands outside the three tongues"
     - {name: Tellumel, tongue: tellumi, built: [te, lu, -mi, -el]}
@@ -6700,6 +6700,7 @@ data:
     - {form: Yazdín, instead: Narvuna, why: an Earth given name}
     - {form: Parván, instead: Hemvanay, why: an Earth given name}
     - {form: Vahram, instead: Nartemay, why: an Earth given name}
+    - {form: Khazryn, instead: Khazrin, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6763,7 +6764,7 @@ Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of tw
 
 ## Building words
 
-Every Tellumi word is a stem, two or more stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazryn Lexicon]]. A modifier comes before what it modifies: _te_ "high" before _lu_ "spring" makes the high spring.
+Every Tellumi word is a stem, two or more stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazrin Lexicon]]. A modifier comes before what it modifies: _te_ "high" before _lu_ "spring" makes the high spring.
 
 ### Joins
 
@@ -6891,7 +6892,7 @@ ORDER BY position
 
 ## Tellumi Lexicon {#lexicon}
 
-This is the word-hoard of the three tongues of the [[place-khzryndsrtrgn|Khazryn Desert Region]]: every stem each tongue is known to use, what it means, and the names built from them. It is laid out for use at the table. A name needed in play can be built from it in a minute, and a word met in play can be taken apart and read.
+This is the word-hoard of the three tongues of the [[place-khzryndsrtrgn|Khazrin Desert Region]]: every stem each tongue is known to use, what it means, and the names built from them. It is laid out for use at the table. A name needed in play can be built from it in a minute, and a word met in play can be taken apart and read.
 
 The three tongues sound nothing alike, and every stem carries sounds that only its own tongue allows:
 
@@ -6907,7 +6908,7 @@ Each language note sets out its tongue's sounds, its syllables, how its parts jo
 
 Every tongue has a stem for each of these: `water` `well` `road` `sand` `salt` `horse` `camel` `kin` `guest` `debt` `passage` `sky` `wind` `tower` `city` `mountain` `dead` `north` `south` `east` `west`.
 
-They are the words a traveler in the Khazryn needs first, and the words most names in the region are built from.
+They are the words a traveler in the Khazrin needs first, and the words most names in the region are built from.
 
 ### How a name is made
 

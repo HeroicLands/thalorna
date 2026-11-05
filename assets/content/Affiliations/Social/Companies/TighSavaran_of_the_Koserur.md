@@ -5,7 +5,7 @@ name:
   en: [Sworn Blades of the Koserur, Riders of the Burning Wind]
 type: affiliation
 subType: venture
-description: "Khazryn steppe warband defending a middling tribe against rivals through cavalry archery and the strategic genius of war captain Orqazkenod."
+description: "Khazrin steppe warband defending a middling tribe against rivals through cavalry archery and the strategic genius of war captain Orqazkenod."
 tags: [company, warriors, khazryn]
 data:
   banner: companybnr
@@ -75,7 +75,7 @@ sohl: {system: {commonSkills: []}}
 
 _[[skill-dunharlng|Dunhari]]: "The Sworn Blades of the Koserur"_
 
-Across the central steppe of the [[place-khzryndsrtrgn|Khazryn Desert]], where grass grows sparse and water is sacred, the [[affiliation-ksrrtrb|Koserur]] tribe fights to hold what little it has. The Tigh'Savaran—the tribe's elite warband—are the instrument of that fight: a dozen mounted warriors who patrol territory, defend wells, raid rivals, and conduct the endless low-intensity warfare that defines steppe life. They are superb horse archers and lancers, and they regard sedentary peoples as soft and contemptible. But beneath the bravado, the Tigh'Savaran are stretched thin. The Koserur are not a powerful tribe. They are a middling tribe of perhaps three hundred families clinging to three wells and two hundred square miles of mixed steppe—enough to survive, never enough to feel safe.
+Across the central steppe of the [[place-khzryndsrtrgn|Khazrin Desert]], where grass grows sparse and water is sacred, the [[affiliation-ksrrtrb|Koserur]] tribe fights to hold what little it has. The Tigh'Savaran—the tribe's elite warband—are the instrument of that fight: a dozen mounted warriors who patrol territory, defend wells, raid rivals, and conduct the endless low-intensity warfare that defines steppe life. They are superb horse archers and lancers, and they regard sedentary peoples as soft and contemptible. But beneath the bravado, the Tigh'Savaran are stretched thin. The Koserur are not a powerful tribe. They are a middling tribe of perhaps three hundred families clinging to three wells and two hundred square miles of mixed steppe—enough to survive, never enough to feel safe.
 
 The Tigh'Savaran exists because without it, the Koserur would not exist at all.
 
@@ -179,9 +179,9 @@ The warband works well as:
 
 - A recurring presence for characters crossing steppe territory—sometimes threatening, sometimes welcoming, always watchful
 - A potential alliance against a common enemy, particularly the Kenodur or an external threat to steppe independence
-- A source of detailed information about steppe politics, tribal rivalries, and the hidden geography of the Khazryn
+- A source of detailed information about steppe politics, tribal rivalries, and the hidden geography of the Khazrin
 - A combat encounter that demonstrates the lethality of organized mounted warriors
 - A moral complexity: they are not bandits—they are warriors fighting for their tribe's survival using culturally legitimate methods
 - A window into nomadic steppe society, honor codes, and the desperate mathematics of a small tribe surrounded by larger ones
 - A rescue mission hook—the captive recovery operation is a ready-made adventure
-- A gateway to the broader politics of the Khazryn steppe, where every tribe bargains for itself
+- A gateway to the broader politics of the Khazrin steppe, where every tribe bargains for itself

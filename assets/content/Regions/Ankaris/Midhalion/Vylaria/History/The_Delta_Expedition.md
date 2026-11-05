@@ -24,7 +24,7 @@ data:
       standing: attested
       names:
         - {name: the Delta Expedition, by: affiliation-vylarinmpr}
-        - name: the Vylarian Conquest
+        - name: the Vilérian Conquest
           by: affiliation-empireakhlth
           gloss: the Khelathi name for the battle and the occupation that followed it
       where:
@@ -32,11 +32,11 @@ data:
         reach:
           - place: place-chariotfld
             how: >-
-              the reed-flat below Khelaga holds the corps' dead and a pit of Vylarian dead, and neither set was received by its own rites
+              the reed-flat below Khelaga holds the corps' dead and a pit of Vilérian dead, and neither set was received by its own rites
             knowledge: named
           - place: place-shortway
             how: >-
-              the commander and his son lie in the short Way at Zu-Gezer, the only tombs in the necropolis with a Vylarian eagle over a Khelathi door
+              the commander and his son lie in the short Way at Zu-Gezer, the only tombs in the necropolis with a Vilérian eagle over a Khelathi door
             knowledge: named
           - place: place-orzara
             how: >-
@@ -62,7 +62,7 @@ data:
           agrees: partly
           withholds: the commander's birth name
       unresolved:
-        - the commander's Vylarian name, which neither record gives
+        - the commander's Vilérian name, which neither record gives
         - which senatorial house will not speak of him
 ---
 
@@ -72,7 +72,7 @@ An archivist at the [[affiliation-imperialoffices|Imperial Offices]], asked by a
 
 The Orzas [Barnakis]{.name data-type="being/npc"} reigned from about 362 and spent the first fifteen years of his reign on the Empire's other frontiers. In 377 he did what no Orzas before him had tried and sent the whole of a field army, the best of the legions [[lore-westernwars|the Western Wars]] had made, across 570 miles of open sea to the [[place-aukhelathrgq|Khelathi delta]]. The fleets that carried it were the largest the Empire had assembled, and the grain that fed it had to follow in more.
 
-The army landed at the delta and marched on [[place-khelaga|Khelaga]], where the river first divides. The Gar-Au met it with the chariot corps, and the corps broke on the legions' line ([[lore-vylconquest|The Vylarian Conquest]] tells the battle from the Khelathi bank).
+The army landed at the delta and marched on [[place-khelaga|Khelaga]], where the river first divides. The Gar-Au met it with the chariot corps, and the corps broke on the legions' line ([[lore-vylconquest|The Vilérian Conquest]] tells the battle from the Khelathi bank).
 
 ## The Crowning
 
@@ -86,15 +86,15 @@ The Empire lost its strongest field force for as long as the house reigned. Barn
 
 ## What It Left
 
-- **[[place-chariotfld|The Chariot Field]].** The reed-flat below Khelaga, where the corps' dead and the Vylarian pit lie unread.
-- **[[place-shortway|The short Way]].** Two tombs at [[place-zugezer|Zu-Gezer]], one of them a Vylarian general's under a Khelathi lintel.
+- **[[place-chariotfld|The Chariot Field]].** The reed-flat below Khelaga, where the corps' dead and the Vilérian pit lie unread.
+- **[[place-shortway|The short Way]].** Two tombs at [[place-zugezer|Zu-Gezer]], one of them a Vilérian general's under a Khelathi lintel.
 - **A name nobody writes.** A senatorial house that does not speak of a forebear and a chancery that keeps no entry for him.
 - **A saying.** The Khelathi say that even those who conquer the empire end by serving its gods.
 
 ## See Also
 
-- [[lore-vylconquest|The Vylarian Conquest]]—the same battle from the Khelathi side
+- [[lore-vylconquest|The Vilérian Conquest]]—the same battle from the Khelathi side
 - [[lore-westernwars|The Western Wars]]—the campaigns that built the army
 - [[lore-brkensuccsn|The Broken Succession]]—what followed the Orzas's death
 - [[place-chariotfld|The Chariot Field]] · [[place-shortway|the Short Way of Amralo'Methu]]—what it left across the sea
-- [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[affiliation-vylarinmpr|Vilérian Empire]]

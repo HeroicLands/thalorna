@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Koserur** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the grass reaches of the [[place-hskrrgn|Ghoshiqor]], the central range of the [[place-khzryndsrtrgn|Khazryn]]. Their grass touches [[lore-celestialroad|the Celestial Road]] on its last day's march west of [[place-qisomrktcmp|Qiiso]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
+The **Koserur** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the grass reaches of the [[place-hskrrgn|Ghoshiqor]], the central range of the [[place-khzryndsrtrgn|Khazrin]]. Their grass touches [[lore-celestialroad|the Celestial Road]] on its last day's march west of [[place-qisomrktcmp|Qiiso]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
 
 ## The Wells
 

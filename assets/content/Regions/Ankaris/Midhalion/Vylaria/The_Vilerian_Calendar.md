@@ -1,9 +1,9 @@
 ---
 shortcode: commoncal
-name: {full: The Vylarian Calendar, en: [Vylarian Reckoning]}
+name: {full: The Vilérian Calendar, en: [Vilérian Reckoning]}
 type: lore
 subType: calendar
-description: "The Vylarian Calendar, kept from Midhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
+description: "The Vilérian Calendar, kept from Midhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
 tags: [reference, calendar]
 data:
   culture: vylarianclt
@@ -51,25 +51,25 @@ data:
   packFolder: vylaria
 ---
 
-The Vylarian Calendar takes a temple calendar-keeper one afternoon to teach a novice, starting with what never moves: "Learn the four days that stand still, child. The year can slip anywhere else, but the sky does not. Everything else is arithmetic."
+The Vilérian Calendar takes a temple calendar-keeper one afternoon to teach a novice, starting with what never moves: "Learn the four days that stand still, child. The year can slip anywhere else, but the sky does not. Everything else is arithmetic."
 
-The **Vylarian Calendar** counts twelve months from [Lizelandi]{.name data-type="lore/calendar"} to [Kalpezandi]{.name data-type="lore/calendar"}, running thirty and thirty-one days by turns and breaking that turn once, where [Elthezandi]{.name data-type="lore/calendar"} and [Karnavar]{.name data-type="lore/calendar"} both run thirty. The twelve sum to a full solar year. Lizelandi opens on the vernal equinox, and the calendar's own name for that day is **1 Lizelandi**.
+The **Vilérian Calendar** counts twelve months from [Lizelandi]{.name data-type="lore/calendar"} to [Kalpezandi]{.name data-type="lore/calendar"}, running thirty and thirty-one days by turns and breaking that turn once, where [Elthezandi]{.name data-type="lore/calendar"} and [Karnavar]{.name data-type="lore/calendar"} both run thirty. The twelve sum to a full solar year. Lizelandi opens on the vernal equinox, and the calendar's own name for that day is **1 Lizelandi**.
 
 Four days in the year are fixed and never move: the vernal equinox on **1 Lizelandi**, the summer solstice on **1 [Thumbandi]{.name data-type="lore/calendar"}**, the autumnal equinox on **1 Karnavar**, and the winter solstice on **1 [Kalmethandi]{.name data-type="lore/calendar"}**. Each quarter opens a month rather than falling inside one, and nothing in the calendar drifts, so the same four dates carry the same four events in every year.
 
-The seasons are a different division from the quarter days, and confusing the two is the commonest error in reading a Vylarian date. A season is a plain quarter of the year's days, counted off from **1 Lizelandi**: spring takes the first ninety-one, summer the next ninety-one, fall the ninety-one after that, winter the rest. A quarter day is an event of the sky, and it lands where the sky puts it—**1 Thumbandi** a month into summer, **1 Karnavar** a month into fall. The tax year runs on the seasons, the temple year on the quarter days. "Midsummer" therefore names two different weeks depending on which office says it.
+The seasons are a different division from the quarter days, and confusing the two is the commonest error in reading a Vilérian date. A season is a plain quarter of the year's days, counted off from **1 Lizelandi**: spring takes the first ninety-one, summer the next ninety-one, fall the ninety-one after that, winter the rest. A quarter day is an event of the sky, and it lands where the sky puts it—**1 Thumbandi** a month into summer, **1 Karnavar** a month into fall. The tax year runs on the seasons, the temple year on the quarter days. "Midsummer" therefore names two different weeks depending on which office says it.
 
-Years are reckoned **[After the Founding]{.name data-type="lore/calendar"} (AF)**, from the year [[affiliation-seldan|Seldan]], the Senate of the [[affiliation-vylarinmpr|Vylarian Empire]], gave way to its first Emperor. That year is **1 AF**; the present year is **720 AF**. An event before it is dated **[Before the Founding]{.name data-type="lore/calendar"} (BF)**.
+Years are reckoned **[After the Founding]{.name data-type="lore/calendar"} (AF)**, from the year [[affiliation-seldan|Seldan]], the Senate of the [[affiliation-vylarinmpr|Vilérian Empire]], gave way to its first Emperor. That year is **1 AF**; the present year is **720 AF**. An event before it is dated **[Before the Founding]{.name data-type="lore/calendar"} (BF)**.
 
 ## Who Keeps It
 
-The Vylarian Calendar is the working calendar of the [[place-midhalnrgn|Midhalión Region]], [[place-aureldirgn|Aureldia]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Helionis]], the [[place-byzariargn|Bizaria Region]], the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provénzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
+The Vilérian Calendar is the working calendar of the [[place-midhalnrgn|Midhalión Region]], [[place-aureldirgn|Aureldia]], and every land the Vilérian Empire's cultural sphere still reaches: [[place-helionis|Helionis]], the [[place-byzariargn|Bizaria Region]], the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provénzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vilérian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
 
 Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empireakhlth|Empire of Au'Khelathu]] and [[affiliation-okharis|Okharis]] reckon from [[lore-qettelgu|the Qet Telgu]] (the First Occasion); [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent dating systems of their own.
 
 ## The Months
 
-Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Three carry an old form of the god's name, and nine are named in [[skill-vylarilng|Vylari]] with the hallowed ending _-andi_, "in the keeping of": five for their gods, and four for the god's gift.
+Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Three carry an old form of the god's name, and nine are named in [[skill-vylarilng|Vilari]] with the hallowed ending _-andi_, "in the keeping of": five for their gods, and four for the god's gift.
 
 1. **Lizelandi** (30 days)—in the keeping of [[lore-lizelasdty|Lizelas]], the Nurturer; the year opens here, on the vernal equinox.
 2. [Lusenar]{.name data-type="lore/calendar"} (31 days)
@@ -86,7 +86,7 @@ Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian 
 
 ## The Week
 
-Seven days run on through the months without a break, so a weekday belongs to no date and the two are looked up together. The names are a farming year in miniature—the ground broken, the crop up, the crop in, and the work put down—and the Vylarian courts and counting-houses that have never held a plow use them without remark.
+Seven days run on through the months without a break, so a weekday belongs to no date and the two are looked up together. The names are a farming year in miniature—the ground broken, the crop up, the crop in, and the work put down—and the Vilérian courts and counting-houses that have never held a plow use them without remark.
 
 [Newday]{.name data-type="lore/calendar"}
 : the week's first, and the day a piece of work is begun on.
@@ -109,7 +109,7 @@ Seven days run on through the months without a break, so a weekday belongs to no
 [Setday]{.name data-type="lore/calendar"}
 : the week set down, and nothing begun on it.
 
-Nothing divides the year evenly into weeks, so the seven run across the turn of the year as they run across the turn of a month. A date keeps its place in the calendar and does not keep its weekday, and a Vylarian who wants both consults an almanac like everybody else.
+Nothing divides the year evenly into weeks, so the seven run across the turn of the year as they run across the turn of a month. A date keeps its place in the calendar and does not keep its weekday, and a Vilérian who wants both consults an almanac like everybody else.
 
 ## The Year in Orzara
 
@@ -122,7 +122,7 @@ In [[place-orzara|Orzara City]] the calendar is read for four kinds of day: the 
 - the Forge-Lord's feast in Thumbandi, when every smith of the Smoke beyond the Clearance brings his first piece of the year to the altar of [[affiliation-sacredforge|The Sacred Forge]];
 - the [Night of Ashes]{.name data-type="lore/gathering"} of [[affiliation-blackflame|The Black Flame]], at the dark of the new moon, whose bonfire burns in the court of [[place-sarkenaelzen|the Ashen Temple]] with the City Watch's engines standing below the hill.
 
-**The throne's days.** The accession day of the reigning Orzas, the feast day of each divine Orzas and the day of a triumph are the state's days, kept with an offering of incense before the Orzas's image by every magistrate, guild and citizen. The throne pays for the games, and gives them on its own days, so the racing factions, the [[affiliation-zargoi|Zargoi]] and the [[affiliation-ethloi|Ethloi]], race at [[place-rathaunamelvar|The Racecourse]] on the feasts of the divine Orzoi and on a triumph's day, and a new Orzas's accession games are the greatest of a reign. The spring imperial address publishes the registry of the four noble estates. The [[affiliation-seldan|Seldan]]'s clerks sweep the empty Senate hall on [[place-antel|Antel]] on the [Vylarian Republic]{.name data-type="affiliation/polity"}'s feast days and lock it again.
+**The throne's days.** The accession day of the reigning Orzas, the feast day of each divine Orzas and the day of a triumph are the state's days, kept with an offering of incense before the Orzas's image by every magistrate, guild and citizen. The throne pays for the games, and gives them on its own days, so the racing factions, the [[affiliation-zargoi|Zargoi]] and the [[affiliation-ethloi|Ethloi]], race at [[place-rathaunamelvar|The Racecourse]] on the feasts of the divine Orzoi and on a triumph's day, and a new Orzas's accession games are the greatest of a reign. The spring imperial address publishes the registry of the four noble estates. The [[affiliation-seldan|Seldan]]'s clerks sweep the empty Senate hall on [[place-antel|Antel]] on the [Vilérian Republic]{.name data-type="affiliation/polity"}'s feast days and lock it again.
 
 **The dole-day.** Once a month the criers on the platforms of the [[place-platandstr|Platan District]] read the dole-day and post it on the boards behind them. On the day, the veterans of each ward collect their pensions in coin at the ward's pay-hall, the largest of them at the Spire Circle in the [[place-warrensorz|Warrens]], with the Watch mustered in full kit. The rent-men collect on the day after. The proclamation the whole city fears is a short dole.
 
@@ -130,11 +130,11 @@ In [[place-orzara|Orzara City]] the calendar is read for four kinds of day: the 
 
 ## See Also
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the polity whose founding the calendar counts from
 
-[[lore-vylariages|The Vylarian Ages]]
-: the eight ages Vylaria's historians divide the years into
+[[lore-vylariages|The Vilérian Ages]]
+: the eight ages Viléria's historians divide the years into
 
 [[lore-helladcal|The Hellád Calendar]]
 : the older count of the Hellád cities, divided into seven ages

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Soraks is a city of thirty thousand with four thousand people living in it. It stands in northern [[place-alyssa|Alessa]], in the [[affiliation-provinclys|Province of Alessa]] of the [[affiliation-vylarinmpr|Vylarian Empire]], on the old north road from [[place-orzara|Orzara]], and it was built to the measure of that road: a mile of colonnaded street, forums, baths and a council house for a hundred. The road still runs through it, paved and straight, and on its far side, past the river, it runs on to nowhere a cart can reach. The bridge is down, the traffic goes by another road a day to the east, and Soraks is the end of its road, not a stage on it.
+Soraks is a city of thirty thousand with four thousand people living in it. It stands in northern [[place-alyssa|Alessa]], in the [[affiliation-provinclys|Province of Alessa]] of the [[affiliation-vylarinmpr|Vilérian Empire]], on the old north road from [[place-orzara|Orzara]], and it was built to the measure of that road: a mile of colonnaded street, forums, baths and a council house for a hundred. The road still runs through it, paved and straight, and on its far side, past the river, it runs on to nowhere a cart can reach. The bridge is down, the traffic goes by another road a day to the east, and Soraks is the end of its road, not a stage on it.
 
 A stone-carter who has hauled out of Soraks for twenty years teaches his new boy on the first morning: "Count the columns as we go in. A rope round one means it is sold. A red mark means it is the council's, and you do not touch it. The rest belong to whoever finds the owner first, and the owners are in the tombs along the road, so mostly it is the council. We load from the top down, the carved head first, then the drums, and you keep your feet out from under them. There is more stone in this town than there are people, and we are taking it to [[place-vennara|Vennara]] one cart at a time."
 
@@ -58,7 +58,7 @@ The [Last Mile]{.name data-type="place/structure"}, on the Bench Square opposite
 
 - **The column sold twice.** A villa-builder's agent has come up from Vennara with a bill of sale for twelve columns of the western portico, sealed by the council. A second agent holds a bill for the same twelve, sealed by the council a month later, and Iltheros Gurimandis's ledger shows one sale.
 - **The cut page.** The creditors' sale of the Zarkedis house was recorded in the registry, and the page that names the buyer has been cut from the book. The clerk who cut it still works behind the court-house.
-- **The monograph.** An antiquary of Soraks has read, in the registry's oldest boxes, a docket of the chancery of the [Vylarian Republic]{.name data-type="affiliation/polity"} that names something kept for the Republic as an egg, and has written a monograph saying what it was. Copyists in Alessar have it on order, and two men from the capital have come up the north road to ask him to withdraw it.
+- **The monograph.** An antiquary of Soraks has read, in the registry's oldest boxes, a docket of the chancery of the [Vilérian Republic]{.name data-type="affiliation/polity"} that names something kept for the Republic as an egg, and has written a monograph saying what it was. Copyists in Alessar have it on order, and two men from the capital have come up the north road to ask him to withdraw it.
 - **The bridge.** A Lentora merchant says the bridge could be mended in a summer if someone found the stone, and Soraks has more stone than anything else. He wants a party to cross the river and see what the far road is like now.
 
 ## See Also
@@ -78,7 +78,7 @@ The [Last Mile]{.name data-type="place/structure"}, on the Bench Square opposite
 [[being-klstrtsxrchds|Kalestratos Zarkedis]]
 : son of the fallen House Zarkedis
 
-[[place-vylariargn|Vylaria]]
+[[place-vylariargn|Viléria]]
 : the empire's heartland
 
 [[scenario-rdtsrks|The Road to Soraks]]

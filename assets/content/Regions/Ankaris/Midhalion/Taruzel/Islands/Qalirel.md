@@ -29,7 +29,7 @@ Above the terraces the land climbs through rolling hills of oak and scrub to a l
 
 ## Harbors and Roads
 
-- **The north-western bays.** The Grand Harbor of Besikar, behind its breakwaters and fortified islets, is the finest anchorage on the [[place-vylarianse|Vylarian Sea]]. The smaller bays along that coast hold fishing harbors and the private quays of guild estates.
+- **The north-western bays.** The Grand Harbor of Besikar, behind its breakwaters and fortified islets, is the finest anchorage on the [[place-vylarianse|Vilérian Sea]]. The smaller bays along that coast hold fishing harbors and the private quays of guild estates.
 - **The eastern shore.** Pashinar's bay is the one good harbor on the strait side, and the ferries from the Amradi coastal ports land there, a day's sail with a fair wind. The rest of that coast is beaches and low cliffs, with fishing boats drawn up on the sand.
 - **The south-western cape.** [[place-sharimun|Sharimun]] stands on the cape over the eastern mouth of the narrows, and its name is its work: _sharim-_, to burn through the night, with _-un_, where the act is done. Its beacon burns on the headland every night of the sailing season, and its quarries cut building stone from the hill behind the port.
 - **The pass road.** The old military road climbs from Pashinar over the pass to the western plain and Besikar: four days for a mule train. The Confederation does not keep it, and every winter's rain takes another stretch of its paving. The alternative is the sea, round the south-western cape and through the narrows, in a shipping house's hull at that house's freight rate.

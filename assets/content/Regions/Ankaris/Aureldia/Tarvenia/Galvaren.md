@@ -44,7 +44,7 @@ The coast is crowded with stones older than the Tarveni. Standing stones stand s
 
 ## People and Speech
 
-The Galváreni are seafarers, fishermen and storytellers, and the Tarvenans of the interior call them dreamers. They speak [[skill-tarvenlng|Tarveni]] in the coast's own way, swallowing their unstressed vowels and softening their clusters, so that the coast's speech is the hardest Tarveni in the kingdoms to follow. They keep the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], above all the [[affiliation-brazemas|Faith of Brazemas]] of storms and the [[affiliation-pozeras|Faith of Pozeras]] of voyages, and they keep the Drowned Road beside them. Galváreni sailors are known across the [[place-vylarianse|Vylarian Sea]] as fearless or foolhardy, and the kingdom produces more than its share of the navigators and sea captains who chart the western ocean.
+The Galváreni are seafarers, fishermen and storytellers, and the Tarvenans of the interior call them dreamers. They speak [[skill-tarvenlng|Tarveni]] in the coast's own way, swallowing their unstressed vowels and softening their clusters, so that the coast's speech is the hardest Tarveni in the kingdoms to follow. They keep the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], above all the [[affiliation-brazemas|Faith of Brazemas]] of storms and the [[affiliation-pozeras|Faith of Pozeras]] of voyages, and they keep the Drowned Road beside them. Galváreni sailors are known across the [[place-vylarianse|Vilérian Sea]] as fearless or foolhardy, and the kingdom produces more than its share of the navigators and sea captains who chart the western ocean.
 
 ## See Also
 

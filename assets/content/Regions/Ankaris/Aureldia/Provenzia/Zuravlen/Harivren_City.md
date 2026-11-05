@@ -21,7 +21,7 @@ coastal valleys before they run down to the sea, at the point where the roads ou
 It is not a port and never has been; the western coast has almost no harbors worth the name. What
 Hárivren has instead is _convergence_. Everything the west produces—wool, salt-fish, timber, hides,
 and the fruit and wine of the Zuravlen valley—is carried inland to Hárivren, sorted, taxed and sold
-there, and goes south from there to the rich Vylarian coast. Some thirty-four thousand people live on
+there, and goes south from there to the rich Vilérian coast. Some thirty-four thousand people live on
 the proceeds.
 
 The name belongs to the older stratum, like [[place-yharvalenhenge|Yarvalen]], and the city is older than

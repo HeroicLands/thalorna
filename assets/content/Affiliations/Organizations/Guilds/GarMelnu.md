@@ -65,11 +65,11 @@ Charter
 : Granted by the eleventh [[lore-garauu|Gar-Au]] of the present dynasty; renewed and confirmed by each succeeding Gar-Au
 
 Tevran Maldor status
-: Not a member; independent [[lore-khelathiclt|Khelathi]] institution. It keeps a per-trade credential equivalence agreement with the [[lore-vylarianclt|Vylarian]] Smiths' federation, negotiated through the [[affiliation-tevran|Tevran Maldor]], for routine work. Master-rank elevations do not transfer in either direction.
+: Not a member; independent [[lore-khelathiclt|Khelathi]] institution. It keeps a per-trade credential equivalence agreement with the [[lore-vylarianclt|Vilérian]] Smiths' federation, negotiated through the [[affiliation-tevran|Tevran Maldor]], for routine work. Master-rank elevations do not transfer in either direction.
 
 ## Overview
 
-Every blade an imperial soldier carries, every scale on a temple guard's armor and every harpoon a [[affiliation-zeghetnelgu|Zeghet'Nelgu]] skiff throws at a crocodile in [[place-zumeleshrvr|the Zumelesh]] was made by a smith of **Gar'Melnu** or to its standards. The [[affiliation-empireakhlth|Khelathi empire]] is not primarily a military power: its armies are smaller and less expensively equipped than the **[[affiliation-vylarinmpr|Vylarian Empire]]**'s, and its frontier defenses lean on diplomacy and terrain more than on weight of arms. The guild is how the Gar-Au's lands are armed all the same.
+Every blade an imperial soldier carries, every scale on a temple guard's armor and every harpoon a [[affiliation-zeghetnelgu|Zeghet'Nelgu]] skiff throws at a crocodile in [[place-zumeleshrvr|the Zumelesh]] was made by a smith of **Gar'Melnu** or to its standards. The [[affiliation-empireakhlth|Khelathi empire]] is not primarily a military power: its armies are smaller and less expensively equipped than the **[[affiliation-vylarinmpr|Vilérian Empire]]**'s, and its frontier defenses lean on diplomacy and terrain more than on weight of arms. The guild is how the Gar-Au's lands are armed all the same.
 
 Civilian metalwork is the larger business by volume: plowshares, cooking vessels, hinges, tools, and the bronze and copper goods of daily life. The guild's prestige and political weight come from its near-monopoly on weapons and armor.
 
@@ -130,14 +130,14 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 - The Imperial Military Quartermaster's Office is the primary client. The quartermasters hold leverage through procurement but cannot easily replace the guild.
 - The temples of [[affiliation-psaqaru|Faith of Saq'aru]] and [[affiliation-gewaatis|Faith of Gewa'atis]] are the guild's religious foundation, and senior elevations are conducted in temple rite.
 - [[affiliation-garnul|Gar'Nul]], the hunters' guild, and the other Khelathi trade guilds are peers. Relations are cordial and governed by the inter-guild conventions agreed at the imperial guildhall.
-- Foreign traditions. The guild regards the Vylarian armory tradition with professional respect, the [[lore-khazrynclt|Khazryn]] smithing schools with cautious interest and the [[place-nrdlndsrgn|Nordlands traditions]] with curiosity. A foreign smith working in Au'Khelathu must obtain the guild's permission to seal work, and permission is rarely granted.
+- Foreign traditions. The guild regards the Vilérian armory tradition with professional respect, the [[lore-khazrynclt|Khazrin]] smithing schools with cautious interest and the [[place-nrdlndsrgn|Nordlands traditions]] with curiosity. A foreign smith working in Au'Khelathu must obtain the guild's permission to seal work, and permission is rarely granted.
 
 ## Plot Hooks
 
 - **The Failed Weapons.** A batch of imperial spears has failed in a frontier engagement, and soldiers died. The failed weapons bear one Master's seal, but he swears the seals are forged and that his real work was handed to a junior who lacked the qualifications. The investigation will decide whether the cause is corruption, sabotage or forgery, and whose head goes to the temples in expiation.
 - **The Reform Petition.** Great Smith Userhat Pamenes petitions the Council of Smiths for sweeping changes to the apprenticeship requirements. The petition would broaden recruitment; the conservatives say it would dilute the standards. The vote is close enough that senior masters are being courted by both factions.
 - **The Mine Dispute.** A temple of Gewa'atis claims, on documentary grounds and under an older grant, a copper mine the guild has worked under imperial charter for two centuries. The documents on both sides are plausible and the imperial court declines to rule. The mine supplies a third of the guild's working copper.
-- **The Foreign Commission.** A Vylarian merchant prince has privately offered Shezur Zin'Gatau any price for a complete suite of personal armor, provided the work is done outside guild oversight and the seals are omitted. The fee is enormous and the breach of the guild's rules is total. Shezur is considering it.
+- **The Foreign Commission.** A Vilérian merchant prince has privately offered Shezur Zin'Gatau any price for a complete suite of personal armor, provided the work is done outside guild oversight and the seals are omitted. The fee is enormous and the breach of the guild's rules is total. Shezur is considering it.
 
 ## See Also
 
@@ -151,7 +151,7 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 : The patron court
 
 [[affiliation-tevran|Tevran Maldor]]
-: The Vylarian body through which the credential agreement runs
+: The Vilérian body through which the credential agreement runs
 
 [[lore-guldsthlrn|The Guilds of Thalorna]]
 : How guilds are organized across the realms

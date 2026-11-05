@@ -28,7 +28,7 @@ No tribe keeps a count of its own. Each [[lore-sowidesclt|Sovidur]] tribe is ind
 
 ## The Year
 
-The year is four seasons, and each season is also a month. The tribes divide the year no finer, because the work of the steppe does not: grass, heat, wind and cold decide where the herds are and which wells are open, and a day is named by how far into the season it falls. "The forty-fifth of [Orqaz]{.name data-type="lore/calendar"}" is the forty-fifth day of the heat. The year opens with the spring grass, on the same morning [[lore-commoncal|the Vylarian Calendar]] calls 1 [Lizelandi]{.name data-type="lore/calendar"}, and its length is the world's three hundred and sixty-five days.
+The year is four seasons, and each season is also a month. The tribes divide the year no finer, because the work of the steppe does not: grass, heat, wind and cold decide where the herds are and which wells are open, and a day is named by how far into the season it falls. "The forty-fifth of [Orqaz]{.name data-type="lore/calendar"}" is the forty-fifth day of the heat. The year opens with the spring grass, on the same morning [[lore-commoncal|the Vilérian Calendar]] calls 1 [Lizelandi]{.name data-type="lore/calendar"}, and its length is the world's three hundred and sixty-five days.
 
 - [Volket]{.name data-type="lore/calendar"}, the grass, ninety-one days. The spring rain falls on the north and the western margin, the herds fatten and the tribes move onto the high grazing. The late storms that bury a camp in an hour come before it ends.
 - **Orqaz**, the heat, ninety-one days. The wells drop, the tribes draw in to the water they own, and the caravans that dare the crossing march by night.
@@ -61,9 +61,9 @@ The third orghun rode down the spur in the week of the autumn market. The carava
 
 The era left a town with its walls whole and nobody in it, a silence that kills anyone who sleeps there and a silence that the [[affiliation-kndrtrb|Kenodur]] sell water beside. It is the current era, and the tribes expect a fourth union and cannot say when it will come. Its history is told in [[lore-thrdorqwnq|the Third Orghunoq]].
 
-## Carrying a Date to the Vylarian Calendar
+## Carrying a Date to the Vilérian Calendar
 
-Each era's count is a fixed offset from a Vylarian year, and the day of the season is the same day of the Vylarian year, so only the year changes.
+Each era's count is a fixed offset from a Vilérian year, and the day of the season is the same day of the Vilérian year, so only the year changes.
 
 The Silent Market
 : add 547 to the year for the year AF. 173 SM is 720 AF.
@@ -79,10 +79,10 @@ Before the Lantern Union
 
 ## See Also
 
-[[lore-commoncal|The Vylarian Calendar]]
+[[lore-commoncal|The Vilérian Calendar]]
 : the count the steppe's dates are carried to
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the steppe the count belongs to
 
 [[lore-towercities|The Tower Cities]] · [[lore-hndrdbnnrs|the Storm of the Hundred Banners]]

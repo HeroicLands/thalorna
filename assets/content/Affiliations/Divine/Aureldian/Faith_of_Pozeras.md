@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Pozeras honors [[lore-pozerasdty|Pozeras]], god of journeys, exploration, and wanderlust. His name means the hallowed road in the [[skill-vylarilng|Vylari Language]]. The faith teaches that he protects travelers and inspires mortals to seek the unknown.
+The Faith of Pozeras honors [[lore-pozerasdty|Pozeras]], god of journeys, exploration, and wanderlust. His name means the hallowed road in the [[skill-vylarilng|Vilari Language]]. The faith teaches that he protects travelers and inspires mortals to seek the unknown.
 
 ## Worship
 

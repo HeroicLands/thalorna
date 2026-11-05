@@ -60,7 +60,7 @@ The League and the [[affiliation-auricompct|Auric Compact]] need each other and 
 
 ## The Privateer Problem
 
-The League's charter gives its captains broad authority to "protect Taruzelian commerce," and they read that language widely: it has covered attacking competitors' ships in disputed waters, seizing cargoes from vessels trading outside guild agreements, and occasional outright piracy against targets of opportunity. The [[affiliation-grandcouncil|Grand Council]] periodically threatens to revoke these privileges, and the League reminds the Council each time that it is the only naval force standing between Taruzel and a [[affiliation-vylarinmpr|Vylarian]] reconquest.
+The League's charter gives its captains broad authority to "protect Taruzelian commerce," and they read that language widely: it has covered attacking competitors' ships in disputed waters, seizing cargoes from vessels trading outside guild agreements, and occasional outright piracy against targets of opportunity. The [[affiliation-grandcouncil|Grand Council]] periodically threatens to revoke these privileges, and the League reminds the Council each time that it is the only naval force standing between Taruzel and a [[affiliation-vylarinmpr|Vilérian]] reconquest.
 
 Independent operators such as [[affiliation-thetamzir|the Tamzir]] live in a gray zone. The League wants every Taruzelian-flagged vessel under its umbrella, and captains who refuse meet harassment, port restrictions and the occasional "mistaken" confrontation at sea.
 

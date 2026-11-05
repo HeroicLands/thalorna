@@ -438,7 +438,7 @@ Drazhan was born into the [Vezhnur]{.name data-type="affiliation/lineage"}, a po
 
 By the age of 16, Drazhan had joined the [Servants of Vezhnurikos]{.name data-type="affiliation/order"}, one of the most feared military orders of Black Flame knights. The order is notorious for its ruthlessness, and Drazhan quickly rose through the ranks by excelling in battle, particularly during campaigns against neighboring regions. His ferocity in combat and willingness to embrace pain as a means of glorifying [[lore-ustarondty|Ústaron]] earned him the title of **Blazewarden**, a position of honor within the order.
 
-As a Blazewarden, Drazhan became known for leading punitive raids down out of the passes into the [[place-khzryndsrtrgn|Khazryn margin]] beyond the [[place-eastrnmrch|Eastern March]], particularly into the [[place-hekardesert|Desert of Hek'ar]], a barren tract at the desert's edge. These raids were intended to spread terror and reinforce the dominance of the Black Flame. Drazhan’s ability to inspire fear and loyalty among his troops made him a rising star within the Servants of Vezhnurikos.
+As a Blazewarden, Drazhan became known for leading punitive raids down out of the passes into the [[place-khzryndsrtrgn|Khazrin margin]] beyond the [[place-eastrnmrch|Eastern March]], particularly into the [[place-hekardesert|Desert of Hek'ar]], a barren tract at the desert's edge. These raids were intended to spread terror and reinforce the dominance of the Black Flame. Drazhan’s ability to inspire fear and loyalty among his troops made him a rising star within the Servants of Vezhnurikos.
 
 ### The Blazing Oath and the Search for the Eye of Velok
 

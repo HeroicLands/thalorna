@@ -3,7 +3,7 @@ shortcode: imperialoffices
 name: {full: Imperial Offices, en: [The Imperial Offices, The Offices], vyl: [Thizaralon]}
 type: affiliation
 subType: governmental
-description: "The bureaucracy of the Vylarian throne, gathered in one walled compound in the Inner City of Orzara: the chancery that seals every act, the desks that keep the census, the dole, the levies and the letters to provinces long lost, and the halls of the treasury, the tax court and the imperial tribunals beside them."
+description: "The bureaucracy of the Vilérian throne, gathered in one walled compound in the Inner City of Orzara: the chancery that seals every act, the desks that keep the census, the dole, the levies and the letters to provinces long lost, and the halls of the treasury, the tax court and the imperial tribunals beside them."
 tags: []
 data:
   culture: vylarianclt
@@ -65,7 +65,7 @@ The usher of petitions at the gate of the Offices gives the rule to every petiti
 
 ## Overview
 
-The Imperial Offices are the bureaucracy of the Vylarian throne, gathered into a single walled compound of [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]]. Everyone calls them the **Offices**. In [[skill-vylarilng|Vylari]] the whole compound takes the name of its heart, _thizaralon_, the office of the seal, because everything the Offices do ends in a seal. Here thousands of clerks, scribes, tax-assessors, _theronoi_ (censors) and magistrates do the paper of governing an empire: census rolls, tax ledgers, military levies, the dole's records, court judgments and the throne's correspondence.
+The Imperial Offices are the bureaucracy of the Vilérian throne, gathered into a single walled compound of [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]]. Everyone calls them the **Offices**. In [[skill-vylarilng|Vilari]] the whole compound takes the name of its heart, _thizaralon_, the office of the seal, because everything the Offices do ends in a seal. Here thousands of clerks, scribes, tax-assessors, _theronoi_ (censors) and magistrates do the paper of governing an empire: census rolls, tax ledgers, military levies, the dole's records, court judgments and the throne's correspondence.
 
 The compound holds more than the chancery. [[affiliation-tarmex|The Tarmeks Orzan]], the imperial treasury and central bank, keeps its strongroom and clearing house here. [[affiliation-tolvan|The Tolvan]], the Fiscal Court, sits in its Fiscal Hall. The throne's own imperial tribunals, which hear every cause touching the nobility, the [[affiliation-seldan|Seldan]] or the crown, sit here and answer to the Orzas, never to the civic [[affiliation-verdanorzara|Orzara Courts]]. And [[affiliation-imprlscrblgld|the Imperial Scribal Guild]] keeps the imperial archive here, in the custody it took after the old archive burned ([[lore-archivefire|The Archive Fire]]). Each of these bodies has its own head and its own ladder. The Offices are the roof, the gate and the seal they share.
 

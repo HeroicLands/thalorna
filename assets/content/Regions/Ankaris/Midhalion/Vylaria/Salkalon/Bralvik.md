@@ -3,7 +3,7 @@ shortcode: braldvik
 name: {full: Bralvik}
 type: place
 subType: settlement
-description: "Salkalon's largest fishing town, famous for its smoke-fish, and the one place on the Vylarian coast with a Nordmal name, given by a raiding crew stranded there in 523 AF."
+description: "Salkalon's largest fishing town, famous for its smoke-fish, and the one place on the Vilérian coast with a Nordmal name, given by a raiding crew stranded there in 523 AF."
 tags: [town, fishing]
 data:
   demonym: null
@@ -16,13 +16,13 @@ data:
 
 ## Overview
 
-Bralvik is the largest of [[place-salkhalon|Salkalon]]'s four principal fishing towns, about nine thousand people on a deep bay whose boats work the rich offshore grounds. It is a town of net-lofts, smokehouses and the boatwrights who keep the fishing fleet afloat. Their craft are humbler than the warships of [[place-castamar|Kastamar]], but more numerous. It is also the only place on the Vylarian coast that carries a Nordmal name, and every child in it knows why, because once a year the town relights its smokehouses from one fire and tells the story while it does.
+Bralvik is the largest of [[place-salkhalon|Salkalon]]'s four principal fishing towns, about nine thousand people on a deep bay whose boats work the rich offshore grounds. It is a town of net-lofts, smokehouses and the boatwrights who keep the fishing fleet afloat. Their craft are humbler than the warships of [[place-castamar|Kastamar]], but more numerous. It is also the only place on the Vilérian coast that carries a Nordmal name, and every child in it knows why, because once a year the town relights its smokehouses from one fire and tells the story while it does.
 
 The catch is smoked rather than salted, and a smokehouse hand tells a new boy why that matters: "Salt-fish is food. Smoke-fish is something you can sell to a man who has a choice." Bralvik smoke-fish is a recognized article of trade in the markets of [[place-mercavia|Delalara]] and beyond, and a buyer knows a barrel of it by the brand burned into its head: a line of northern runes that nobody in the town can read.
 
 ## The Winter of the Banked Fire
 
-Nine days before the autumn equinox of 523 AF, 237 HF by [[lore-domseycount|the Domsey count]], a Provénzian merchant galley came into the bay with a crew of forty Malagna men at her oars. Their captain, [Hvirnmil]{.name data-type="being/npc"}, had sailed south with [[lore-southrnfleets|the Southern Fleets]] and taken the galley and her pilot in the [[place-batarengulf|Gulf of Bataren]], and then he did not go home: the pilot had told him of a warm sea beyond the western strait with the [[affiliation-vylarinmpr|Vylarian Empire]]'s heartland on its shore. The crew took the galley down the ocean coast, through the strait under her own imperial colors, and east along the northern shore for the rest of the summer. The fishing village on this bay was the first place they came ashore. They took its stores and its smokehouse, killed four men who stood against them on the shingle, and held it for nine days (see [[lore-bankedfire|the Winter of the Banked Fire]]).
+Nine days before the autumn equinox of 523 AF, 237 HF by [[lore-domseycount|the Domsey count]], a Provénzian merchant galley came into the bay with a crew of forty Malagna men at her oars. Their captain, [Hvirnmil]{.name data-type="being/npc"}, had sailed south with [[lore-southrnfleets|the Southern Fleets]] and taken the galley and her pilot in the [[place-batarengulf|Gulf of Bataren]], and then he did not go home: the pilot had told him of a warm sea beyond the western strait with the [[affiliation-vylarinmpr|Vilérian Empire]]'s heartland on its shore. The crew took the galley down the ocean coast, through the strait under her own imperial colors, and east along the northern shore for the rest of the summer. The fishing village on this bay was the first place they came ashore. They took its stores and its smokehouse, killed four men who stood against them on the shingle, and held it for nine days (see [[lore-bankedfire|the Winter of the Banked Fire]]).
 
 On the ninth night, the eve of 1 [Karnavar]{.name data-type="lore/calendar"} and by the crew's own count the eve of [[lore-veturnetur|Veturnetur]], when the north honors its dead, a squadron came along the coast from Kastamar. Its commander, [Holvethos Marendates]{.name data-type="being/npc"}, sent fire-pots into the galley at her moorings, and the wind off the sea carried the fire up the beach into the village's own boats, forty-one of them drawn up on the shingle, and into the net-lofts behind them. By morning the bay had burned from one end to the other. The raiders, with no ship and the whole western ocean between them and home, went up onto the north headland and dug in. The town calls it [[place-hvirnmilhd|Hvirnmil's Head]].
 
@@ -34,7 +34,7 @@ In the spring of 524 the _therkos_ (governor), [Zenothas Varelis]{.name data-typ
 
 The crew called the bay Bralvik, the inlet of the banked fire, for the light on the headland. The village took the name the same summer, and for a reason that had more to do with money than with the raiders. Its first cargo of smoke-fish went to Delalara in barrels Dvilgvir had branded with the name in runes, and the Delalara factors bought it as fish from the Northmen's fire and wrote the Northmen's word on their tallies. A village that had lost every boat it owned needed buyers more than it needed its old name. The census rolls at Delalara carried that older name for two more generations, and nobody in the town uses it.
 
-Bralvik is Vylarian in its speech, its faith, its law and its families. Three men out of forty stayed, and their grandchildren's grandchildren are as Vylarian as anyone in Delalara. The town keeps one Nordmal word, which is its name, and one line of runes on its barrels.
+Bralvik is Vilérian in its speech, its faith, its law and its families. Three men out of forty stayed, and their grandchildren's grandchildren are as Vilérian as anyone in Delalara. The town keeps one Nordmal word, which is its name, and one line of runes on its barrels.
 
 ## Coal Night
 
@@ -74,5 +74,5 @@ The bill and the brand are Bralvik's present. The admiralty files every copy of 
 [[place-castamar|Kastamar]]
 : the naval city that burned the bay
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview

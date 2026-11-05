@@ -416,7 +416,7 @@ Sélvara Valskir is a striking woman—tall, dark-skinned, and built with the le
 
 ### Origin
 
-Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when [[lore-vylarianclt|Vylarian]] imperial forces raided her village searching for [[lore-tarvenanclt|Tarvenan]] rebels. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
+Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when [[lore-vylarianclt|Vilérian]] imperial forces raided her village searching for [[lore-tarvenanclt|Tarvenan]] rebels. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
 
 ### The War
 
@@ -442,7 +442,7 @@ Sélvara's motivations are simple and fierce: protect the people she loves. The 
 
 ### Strengths
 
-She is one of the finest fighters on the [[place-vylarianse|Vylarian Sea]]—a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with a firmness that keeps the Tamzir running. She is virtually unshakeable under pressure.
+She is one of the finest fighters on the [[place-vylarianse|Vilérian Sea]]—a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with a firmness that keeps the Tamzir running. She is virtually unshakeable under pressure.
 
 ### Weaknesses
 
@@ -456,7 +456,7 @@ None. Sélvara answers to Bu and to herself.
 
 ### Enemies
 
-The same enemies as the Tamzir's crew: Taruzelian guild enforcers, Vylarian imperial agents, and—increasingly—agents of the [[affiliation-ordoarcanis|Thordimalon]].
+The same enemies as the Tamzir's crew: Taruzelian guild enforcers, Vilérian imperial agents, and—increasingly—agents of the [[affiliation-ordoarcanis|Thordimalon]].
 
 ### Affiliations
 
@@ -468,7 +468,7 @@ The Village Returns
 : Word reaches Sélvara that her home village in Tarvénia is under threat again—this time from Taruzelian guild agents who want to establish a trading post on the coast. Her surviving family is among those who would be displaced. Returning to help would mean sailing into contested waters and confronting the same power structures she and Bu have spent years avoiding.
 
 The Soldier's Reckoning
-: A former imperial officer who participated in the raid on Sélvara's village has been identified living comfortably in a Vylarian port city. Sélvara must decide whether old debts are worth the risk of pursuing—and whether vengeance or justice is what she truly wants.
+: A former imperial officer who participated in the raid on Sélvara's village has been identified living comfortably in a Vilérian port city. Sélvara must decide whether old debts are worth the risk of pursuing—and whether vengeance or justice is what she truly wants.
 
 Divided Loyalty
 : When Bu makes a decision that Sélvara believes will get the crew killed, she faces the impossible choice between her loyalty to her captain and her responsibility to the people under her care. For the first time in their long partnership, the two find themselves on opposite sides of an argument with no easy resolution.

@@ -10,7 +10,7 @@ data: {culture: tantsouclt}
 
 ## Overview
 
-A merchant who crosses into the [[affiliation-tantsouempr|Empire of Tantsou]] with a purse of Vylarian elthezoi is told at the frontier way-station what they are worth, and the number is not negotiable. Commerce in Tantsou runs on the same instrument as everything else in the empire, the register: a [[lore-shuonong|Shuonong]] house's standing with the bureaus is its credit, a debt is an entry a magistrate's clerk can read, and the classification tablet a trader carries is what a bargain is made against. The empire's money is a ledger before it is a coin, and the system stands apart from the coin-and-script of [[lore-vylrncrncy|Vylaria]], the weight-pieces of [[lore-aukhlthcrncy|Au'Khelathu]], the banking of [[lore-vdyrnbnkng|Vedyara]] and the kin-credit of the tribal regions.
+A merchant who crosses into the [[affiliation-tantsouempr|Empire of Tantsou]] with a purse of Vilérian elthezoi is told at the frontier way-station what they are worth, and the number is not negotiable. Commerce in Tantsou runs on the same instrument as everything else in the empire, the register: a [[lore-shuonong|Shuonong]] house's standing with the bureaus is its credit, a debt is an entry a magistrate's clerk can read, and the classification tablet a trader carries is what a bargain is made against. The empire's money is a ledger before it is a coin, and the system stands apart from the coin-and-script of [[lore-vylrncrncy|Viléria]], the weight-pieces of [[lore-aukhlthcrncy|Au'Khelathu]], the banking of [[lore-vdyrnbnkng|Vedyara]] and the kin-credit of the tribal regions.
 
 ## Ledger-Credit
 
@@ -20,7 +20,7 @@ Standing is part of the price. A house whose filings are in order and whose taxe
 
 ## The Frontier Exchange
 
-Vylarian, Khelathi and Vedyaran coin is exchangeable at the empire's frontier trading posts and in the walled merchant quarters of the port cities, and nowhere else. The rate is set by the bureau that administers the post, posted for the season, and applied to every trader alike; no moneylender in Tantsou negotiates it, and a trader who tries is told that the classification of foreign silver is not his to argue. Foreign coin bought at the frontier is held by the bureau against the trader's credit for the length of his classification, and what he carries out is settled when his tablet is surrendered at the gate. No coin of the empire's own striking is seen abroad, and the empire's trade with the west is reckoned in goods, in frontier credit and in the silver the west brings east.
+Vilérian, Khelathi and Vedyaran coin is exchangeable at the empire's frontier trading posts and in the walled merchant quarters of the port cities, and nowhere else. The rate is set by the bureau that administers the post, posted for the season, and applied to every trader alike; no moneylender in Tantsou negotiates it, and a trader who tries is told that the classification of foreign silver is not his to argue. Foreign coin bought at the frontier is held by the bureau against the trader's credit for the length of his classification, and what he carries out is settled when his tablet is surrendered at the gate. No coin of the empire's own striking is seen abroad, and the empire's trade with the west is reckoned in goods, in frontier credit and in the silver the west brings east.
 
 ## See Also
 
@@ -36,5 +36,5 @@ Vylarian, Khelathi and Vedyaran coin is exchangeable at the empire's frontier tr
 [[affiliation-haluozhao|Ha Luo Zhao]]
 : the Black Lotus Society, which works through the ledgers
 
-[[lore-vylrncrncy|Vylarian Currency]]
+[[lore-vylrncrncy|Vilérian Currency]]
 : the western coin exchanged at the frontier

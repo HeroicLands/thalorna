@@ -1,18 +1,18 @@
 ---
 shortcode: vylrncrncy
-name: {full: Vylarian Currency, en: [Vylarian Coinage, Bit], vyl: [Solden, Ardin, Ogdel]}
+name: {full: Vilérian Currency, en: [Vilérian Coinage, Bit], vyl: [Solden, Ardin, Ogdel]}
 type: lore
 subType: economy
-description: "Standard currency of western and central Ankaris—the three-coin Vylarian system (Solden, Ardin, Ogdel/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Zerathia."
+description: "Standard currency of western and central Ankaris—the three-coin Vilérian system (Solden, Ardin, Ogdel/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Zerathia."
 tags: [reference, currency, vylaria, cross-realm, economy]
 data: {culture: vylarianclt}
 ---
 
-A money-changer at the [Grand Market Circle]{.name data-type="place/site"} in [[place-orzara|Orzara]] sets out three coins on the felt of his table for every newcomer who asks what a Vylarian price means. A thick gold coin sits on the left, a thin silver one in the middle and a silver wedge on the right. "Gold, you will see once or twice in your life, and you will not be handed it," he says. "Silver is what the city runs on. And the wedge is what you spend. Learn the three, and you can be cheated only in the ordinary ways."
+A money-changer at the [Grand Market Circle]{.name data-type="place/site"} in [[place-orzara|Orzara]] sets out three coins on the felt of his table for every newcomer who asks what a Vilérian price means. A thick gold coin sits on the left, a thin silver one in the middle and a silver wedge on the right. "Gold, you will see once or twice in your life, and you will not be handed it," he says. "Silver is what the city runs on. And the wedge is what you spend. Learn the three, and you can be cheated only in the ordinary ways."
 
-**Scope:** The Vylarian currency is the standard currency of the western and central [[place-ankrscntnnt|Ankaris]]. It is legal tender in [[affiliation-vylarinmpr|Vylaria]] and [[place-helionis|Helionis]], the territory under direct imperial governance and a province on paper. It is the practical standard of commerce in the kingdoms of the [[place-aureldirgn|Aureldia Region]] and [[place-byzariargn|Bizaria Region]], the post-imperial commonwealth members. It is accepted as a foreign currency, alongside the local Khelathi system, in the **[[place-nrthrnfrtlrgn|Northern Fertile Region]] of [[place-xerathia|Zerathia]]**: [[place-bethuargn|Bethua Region]], [[place-okharisrgn|Okharis Region]] and [[place-aukhelathrgq|Au'Khelathu Region]]. Outside these regions moneylenders will exchange it, but it is not the dominant medium of exchange.
+**Scope:** The Vilérian currency is the standard currency of the western and central [[place-ankrscntnnt|Ankaris]]. It is legal tender in [[affiliation-vylarinmpr|Viléria]] and [[place-helionis|Helionis]], the territory under direct imperial governance and a province on paper. It is the practical standard of commerce in the kingdoms of the [[place-aureldirgn|Aureldia Region]] and [[place-byzariargn|Bizaria Region]], the post-imperial commonwealth members. It is accepted as a foreign currency, alongside the local Khelathi system, in the **[[place-nrthrnfrtlrgn|Northern Fertile Region]] of [[place-xerathia|Zerathia]]**: [[place-bethuargn|Bethua Region]], [[place-okharisrgn|Okharis Region]] and [[place-aukhelathrgq|Au'Khelathu Region]]. Outside these regions moneylenders will exchange it, but it is not the dominant medium of exchange.
 
-[[affiliation-tarmex|The Tarmeks Orzan]], the imperial treasury, mints and authorizes the currency. Provincial mints in Vylarian and Helionite cities strike Ardini and Ogdeli under Tarmeks standards, and Soldeni are minted only at Orzara. The post-imperial polities mint no Vylarian coin of their own. Their commercial life draws on the imperial coinage without producing it.
+[[affiliation-tarmex|The Tarmeks Orzan]], the imperial treasury, mints and authorizes the currency. Provincial mints in Vilérian and Helionite cities strike Ardini and Ogdeli under Tarmeks standards, and Soldeni are minted only at Orzara. The post-imperial polities mint no Vilérian coin of their own. Their commercial life draws on the imperial coinage without producing it.
 
 ## The Three Coins
 
@@ -26,17 +26,17 @@ The Tarmeks has fixed the ratio (Solden : Ardin : Ogdel :: 1 : 160 : 1,280) for 
 
 ### The Solden
 
-The Solden is a small, thick gold coin, about the size of a thumbnail and roughly 20 mm across, holding about 15 grams of fine gold. That is the gold worth of 160 Ardin at the ratio of one weight of gold to twelve of silver, less the same small charge for striking that the Ardin carries. The obverse bears the profile of the reigning Orzas (the Vylarian emperor), renewed at each imperial accession, and older coin remains legal tender. The reverse bears the imperial _orkaima_, the eagle of the legions, over the inscription _Zel orkaima thalentor uthrime_ ("Beneath the eagle stand the borders"). The edge is milled to prevent clipping.
+The Solden is a small, thick gold coin, about the size of a thumbnail and roughly 20 mm across, holding about 15 grams of fine gold. That is the gold worth of 160 Ardin at the ratio of one weight of gold to twelve of silver, less the same small charge for striking that the Ardin carries. The obverse bears the profile of the reigning Orzas (the Vilérian emperor), renewed at each imperial accession, and older coin remains legal tender. The reverse bears the imperial _orkaima_, the eagle of the legions, over the inscription _Zel orkaima thalentor uthrime_ ("Beneath the eagle stand the borders"). The edge is milled to prevent clipping.
 
 The Solden is rare in circulation. Perhaps 200,000 coins exist empire-wide at any one time, most of them in noble household vaults, the imperial treasury's strongroom at Orzara and [[affiliation-danvar|the Danvar]]'s chapter reserves. Most commoners go their whole lives without holding one. Even most _thurden_ (Bronze) nobles handle few of them physically, because their wealth is denominated _in_ Soldeni but held in deeded estates, moneylender deposits or paper script. A merchant who pulls out an Solden to settle a bill at a market stall draws immediate attention, and the gesture is the financial equivalent of unsheathing a sword.
 
 ### The Ardin
 
-The Ardin is the workhorse of Vylarian commerce. It is a thin silver coin roughly 18 mm across and 1.5 grams in weight, struck three parts silver to one part alloy. The silver in it, a little over 1.1 grams, is the metal worth of one Ardin less the mint's small charge for striking, and a pound of silver is worth 400 Ardin. The obverse bears the imperial eagle and cipher. The reverse bears the value mark and the issuing mint's stamp: the Orzara mint mark, or the provincial mint mark on Vylarian and Helionite provincial issues. The edge is milled.
+The Ardin is the workhorse of Vilérian commerce. It is a thin silver coin roughly 18 mm across and 1.5 grams in weight, struck three parts silver to one part alloy. The silver in it, a little over 1.1 grams, is the metal worth of one Ardin less the mint's small charge for striking, and a pound of silver is worth 400 Ardin. The obverse bears the imperial eagle and cipher. The reverse bears the value mark and the issuing mint's stamp: the Orzara mint mark, or the provincial mint mark on Vilérian and Helionite provincial issues. The edge is milled.
 
 The Ardin is the unit of account for everyday large commerce: a day's beer for a tavern of regulars, a craftsman's weekly settlement with his apprentice, the price of a working tool, a chicken at market, a night's lodging at a respectable inn. It is too large a coin for very small purchases, since one Ardin buys four loaves of common bread, which is why the Ogdel exists.
 
-A Vylarian says "twenty Ardin" and means twenty Ardini; a contract writes it "twenty Ardini" or, in legal hand, "XX Ardini."
+A Vilérian says "twenty Ardin" and means twenty Ardini; a contract writes it "twenty Ardini" or, in legal hand, "XX Ardini."
 
 ### The Ogdel (Bit)
 
@@ -48,7 +48,7 @@ The Bit is the coin of everyday life: a loaf of bread, a tankard of beer, a tip 
 
 ## Sample Prices
 
-These prices match the canonical _Song of Heroic Lands_ gear data, which uses the Ardin as its unit of value. They are typical of the imperial core (Vylaria and Helionis) and of the post-imperial commonwealth territories where the Vylarian system is the standard currency. Provincial backwaters run a little lower, frontier postings substantially higher, and the largest commercial cities (Orzara, [[place-olvestria|Ólvestra]], Bizaria) higher still for premium goods.
+These prices match the canonical _Song of Heroic Lands_ gear data, which uses the Ardin as its unit of value. They are typical of the imperial core (Viléria and Helionis) and of the post-imperial commonwealth territories where the Vilérian system is the standard currency. Provincial backwaters run a little lower, frontier postings substantially higher, and the largest commercial cities (Orzara, [[place-olvestria|Ólvestra]], Bizaria) higher still for premium goods.
 
 ### Food, Drink, Lodging
 
@@ -221,11 +221,11 @@ Script is the medium in which most large transactions are actually settled, incl
 
 | Status                                                                           | Regions                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Native standard currency** (with full script infrastructure)                   | [[affiliation-vylarinmpr\|Vylaria]]; [[place-helionis\|Helionis]]                                                                                                                                                                                                                                                                                                         |
+| **Native standard currency** (with full script infrastructure)                   | [[affiliation-vylarinmpr\|Viléria]]; [[place-helionis\|Helionis]]                                                                                                                                                                                                                                                                                                         |
 | **Standard currency** (post-imperial commonwealth, full script)                  | [[place-aureldirgn\|Aureldian kingdoms]] (Tarvénia, Provénzia, Élavendre, Aelwyth, Kalipsa); [[place-byzariargn\|Bizaria]]                                                                                                                                                                                                                                                |
-| **De facto currency, no script** (Vylarian coin only; banking does not function) | [[place-nrdlndsrgn\|Nordlands]] (Nordheim, Norgaad, Vithgard, Targud, Malagna); [[place-vrystwald\|Vristwald]]                                                                                                                                                                                                                                                            |
+| **De facto currency, no script** (Vilérian coin only; banking does not function) | [[place-nrdlndsrgn\|Nordlands]] (Nordheim, Norgaad, Vithgard, Targud, Malagna); [[place-vrystwald\|Vristwald]]                                                                                                                                                                                                                                                            |
 | **Foreign currency, exchanged through native systems**                           | Taruzel (parallel system; see [[lore-trzlncrncy\|Taruzelian Currency]]); Northern Fertile Region (Khelathi-standard; see [[lore-aukhlthcrncy\|Au'Khelathu Currency]]); [[place-vedyarargn\|Vedyara]] (Merchant Collective; see [[lore-vdyrnbnkng\|Vedyaran Banking]]); [[place-tantsouregin\|Tantsou]] (bureaucratic-ledger; see [[lore-tantsoucrncy\|Tantsou Currency]]) |
-| **Effectively absent or barter-dominated**                                       | [[place-khzryndsrtrgn\|Khazryn]], [[place-dunharargn\|Dunhara]], Southern Savannahs, [[affiliation-nylbtrblntn\|Nyáluba]], distant continents (Ki'ich'chik, Iseron, Aurionis, Kalihara). See [[lore-bartercnmy\|Barter Economy]] and [[lore-kinhalcrdt\|Kin and Hall Credit]].                                                                                            |
+| **Effectively absent or barter-dominated**                                       | [[place-khzryndsrtrgn\|Khazrin]], [[place-dunharargn\|Dunhara]], Southern Savannahs, [[affiliation-nylbtrblntn\|Nyáluba]], distant continents (Ki'ich'chik, Iseron, Aurionis, Kalihara). See [[lore-bartercnmy\|Barter Economy]] and [[lore-kinhalcrdt\|Kin and Hall Credit]].                                                                                            |
 
 Each polity's own note describes its specific monetary situation in its "Commerce and Currency" section, including local arrangements, exchange rates and credit-system interactions.
 
@@ -239,11 +239,11 @@ Any transaction of consequence weighs hand-cut Bits. A small balance is part of 
 
 ### Counterfeiting
 
-Counterfeiting any Vylarian coin is a capital crime under imperial law in imperial territory and under the local equivalent in post-imperial commonwealth members, all of which criminalize counterfeiting the standard currency. The Tarmeks employs specialist assayers who examine suspect coin. The _rozimoi_ (auditors) of the Tarmeks investigate counterfeiting rings, and the _rozimoi_ of [[affiliation-tolvan|the Tolvan]] prosecute when imperial revenue is implicated. Authorities typically break up major counterfeiting operations within a year or two of their start. Small individual counterfeiters sometimes last longer but rarely make coin convincing enough to circulate beyond their own region.
+Counterfeiting any Vilérian coin is a capital crime under imperial law in imperial territory and under the local equivalent in post-imperial commonwealth members, all of which criminalize counterfeiting the standard currency. The Tarmeks employs specialist assayers who examine suspect coin. The _rozimoi_ (auditors) of the Tarmeks investigate counterfeiting rings, and the _rozimoi_ of [[affiliation-tolvan|the Tolvan]] prosecute when imperial revenue is implicated. Authorities typically break up major counterfeiting operations within a year or two of their start. Small individual counterfeiters sometimes last longer but rarely make coin convincing enough to circulate beyond their own region.
 
 ### Exchange with Foreign Currency
 
-Vylarian moneylenders at frontier and trading-port locations run currency-exchange services. A traveler arriving from Au'Khelathu can exchange Khelathi weight-pieces for Ardin at the moneylender's posted rate. The metal in the pieces sets the par (an Ardin carries the silver of half a Khelathi silver qelu), and the moneylender's spread on top moves with trade flows and generally favors him over the foreign-currency holder. A traveler heading the other way faces the mirror situation. A spread of 3–5% on Khelathi-Vylarian exchange is typical of the major trade routes, and less-traveled exchanges, Vylarian-Vedyaran for instance, carry substantially larger spreads.
+Vilérian moneylenders at frontier and trading-port locations run currency-exchange services. A traveler arriving from Au'Khelathu can exchange Khelathi weight-pieces for Ardin at the moneylender's posted rate. The metal in the pieces sets the par (an Ardin carries the silver of half a Khelathi silver qelu), and the moneylender's spread on top moves with trade flows and generally favors him over the foreign-currency holder. A traveler heading the other way faces the mirror situation. A spread of 3–5% on Khelathi-Vilérian exchange is typical of the major trade routes, and less-traveled exchanges, Vilérian-Vedyaran for instance, carry substantially larger spreads.
 
 ### Carrying Coin
 
@@ -262,7 +262,7 @@ A merchant on the road typically carries a modest mix. He keeps a handful of Sol
 [[affiliation-tevran|The Tevran Maldor]]
 : the cross-realm guild umbrella under which the Danvar is chartered
 
-[[affiliation-vylrnmltry|The Vylarian Military]]
+[[affiliation-vylrnmltry|The Vilérian Military]]
 : its commission price tables are denominated in Soldeni, the main case for calibrating substantial sums
 
 [[affiliation-vezakuni|Vezakuni]]

@@ -36,7 +36,7 @@ const records = [language, inventory].map((value) => ({
     file: value.file,
 }));
 
-test("Vylari expresses every current core concept in a dictionary eligible form", () => {
+test("Vilari expresses every current core concept in a dictionary eligible form", () => {
     const concepts = inventory.fm.data.concepts;
     const known = new Set(concepts.map((entry) => entry.id));
     const eligible = new Set(
@@ -87,7 +87,7 @@ test("the actual dictionary projection preserves forms, senses and classes", () 
     }
 });
 
-test("Vylari frontmatter and word declarations use the installed consumer", () => {
+test("Vilari frontmatter and word declarations use the installed consumer", () => {
     const index = { notes: [language, inventory] };
     assert.deepEqual(
         lintNote(language, {

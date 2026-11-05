@@ -33,9 +33,9 @@ On the fourteenth of Brazemandi [[place-yamuzel2|Yamuzel]] holds the [[lore-flee
 
 **The plan.** The Old Hands of the Yamuzel halls of the [[affiliation-unchained|Unchained]], the [[affiliation-freecaptains|Free Captains]] and the harbor veterans mean the veterans' boats to close the line through the narrows on the morning of the Review, while the councilors stand on the fortress wall within a bowshot of them. What happens then is not settled, because the rising has no head. [[being-rzznpddn|Razzina Padduni]]'s hall is where it is talked over.
 
-**The captain.** Every side courts [[being-zbzmjkdn|Zabuzum Jakuduni]], captain of [[affiliation-thetamzir|the Tamzir]]: the halls, [[being-ashurazhitus|Ashuraz Hitusuni]] of the Merchantry, and a Vylarian agent whose servant has been seen on the Tamzir's quay. He has answered none of them.
+**The captain.** Every side courts [[being-zbzmjkdn|Zabuzum Jakuduni]], captain of [[affiliation-thetamzir|the Tamzir]]: the halls, [[being-ashurazhitus|Ashuraz Hitusuni]] of the Merchantry, and a Vilérian agent whose servant has been seen on the Tamzir's quay. He has answered none of them.
 
-**The crates.** Crossbows, boarding pikes and a chest of Vylarian silver lie under the floor of a cooper's shop below Razzina's hall. They came by night from a Hitusuni warehouse in Sazumun under a Merchantry seal, paid for by an agent of the empire. Ashuraz has sold the dates and coves of three deliveries to an enforcer of the Auric Compact.
+**The crates.** Crossbows, boarding pikes and a chest of Vilérian silver lie under the floor of a cooper's shop below Razzina's hall. They came by night from a Hitusuni warehouse in Sazumun under a Merchantry seal, paid for by an agent of the empire. Ashuraz has sold the dates and coves of three deliveries to an enforcer of the Auric Compact.
 
 **The informer.** Razzina has sent the day of the rising to the Besikar halls by [[being-zlmrzzn|Zilmar Ezzinu]], whose hall informs for the Compact. He held it back at his meeting with the enforcer on the first night of the month. The enforcer heard something held back and has called him to a second meeting, on the eve of the Review.
 
@@ -105,7 +105,7 @@ The Veterans' Quarter of Yamuzel at dusk, a week before the Review. Every hall i
 
 **Player choices.** Fight, flee, surrender the crates, or bargain with the galley's captain.
 
-**Clues and rewards.** The crates bear a Merchantry seal over a Vylarian armorer's mark, filed half away. The galley's captain had the date and the cove from a Compact enforcer.
+**Clues and rewards.** The crates bear a Merchantry seal over a Vilérian armorer's mark, filed half away. The galley's captain had the date and the cove from a Compact enforcer.
 
 **Consequences.** The outlaws spread word that the party betrayed them, and only Ashuraz Hitusuni, who sold the date, knows otherwise.
 

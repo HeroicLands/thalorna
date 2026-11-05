@@ -88,7 +88,7 @@ Government
 
 ## Overview
 
-The Free City of Valthari is the [[place-tarvenirgn|Tarvénia Region]]'s great port—a wealthy, cosmopolitan city-state on the southern coast where the [[place-vylarianse|Vylarian Sea]] trade meets the overland routes into the Tarvenan interior. Governed by a council of powerful merchant families called the [Consejarath]{.name data-type="affiliation/governmental"}, Valthari pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The first High King sold it the charter, when he had no silver to pay the lords who elected him ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The arrangement makes Valthari the richest single settlement in Tarvénia and the kingdom's commercial lifeline. The Free City holds [[place-valthari|Valthari]] itself.
+The Free City of Valthari is the [[place-tarvenirgn|Tarvénia Region]]'s great port—a wealthy, cosmopolitan city-state on the southern coast where the [[place-vylarianse|Vilérian Sea]] trade meets the overland routes into the Tarvenan interior. Governed by a council of powerful merchant families called the [Consejarath]{.name data-type="affiliation/governmental"}, Valthari pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The first High King sold it the charter, when he had no silver to pay the lords who elected him ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The arrangement makes Valthari the richest single settlement in Tarvénia and the kingdom's commercial lifeline. The Free City holds [[place-valthari|Valthari]] itself.
 
 ## Character
 
@@ -100,7 +100,7 @@ Culturally, Valthari is more cosmopolitan than the rest of Tarvénia. [[skill-pr
 
 ## Commerce and Currency
 
-Free City of Valthari uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free City of Valthari is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Free City of Valthari uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free City of Valthari is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

@@ -3,7 +3,7 @@ shortcode: kngdmmrdd
 name: {full: Kingdom of Amradad, dunh: [amradad]}
 type: affiliation
 subType: polity
-description: "A settled kingdom on the eastern shore of the Vylarian Sea, in the north-western Dunhara—a realm of oases, merchant cities, and an Ashaian court culture distinct from the nomadic tribes."
+description: "A settled kingdom on the eastern shore of the Vilérian Sea, in the north-western Dunhara—a realm of oases, merchant cities, and an Ashaian court culture distinct from the nomadic tribes."
 data:
   templatePriority: null
   demonym: Amradi
@@ -84,11 +84,11 @@ sohl: {system: {commonSkills: [dunharlng]}}
 
 ## Overview
 
-The Amradi say that their ancestors were the only Dunhari clever enough to stop walking. The Kingdom of Amradad is the great exception to the [[place-dunharargn|Dunhara Region]]'s tribal patchwork: a settled, walled and comparatively rich kingdom built around a cluster of great oases in the northwestern Dunhara, between the eastern shore of the [[place-vylarianse|Vylarian Sea]] and the open desert. Where the [[affiliation-dunhartrbs|Dunhara Tribes]] move with their herds and answer to no one above their sheikhs, Amradad has cities, walls, irrigation, a standing army, and a court as refined as any on the Vylarian coast. An outsider remembers it for the fire-temples of its cities and for the caravan tolls that pay for them.
+The Amradi say that their ancestors were the only Dunhari clever enough to stop walking. The Kingdom of Amradad is the great exception to the [[place-dunharargn|Dunhara Region]]'s tribal patchwork: a settled, walled and comparatively rich kingdom built around a cluster of great oases in the northwestern Dunhara, between the eastern shore of the [[place-vylarianse|Vilérian Sea]] and the open desert. Where the [[affiliation-dunhartrbs|Dunhara Tribes]] move with their herds and answer to no one above their sheikhs, Amradad has cities, walls, irrigation, a standing army, and a court as refined as any on the Vilérian coast. An outsider remembers it for the fire-temples of its cities and for the caravan tolls that pay for them.
 
 ## Character
 
-Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from the [[place-byzariargn|Bizaria Region]], the [[place-vedyarargn|Vedyara Region]] and the [[place-khzryndsrtrgn|Khazryn]] meet on the coast facing the islands of [[place-taruzelrgn|Taruzel]]. That crossroads has made the Shebarader enormously rich and far more important than his thinly peopled land would suggest.
+Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from the [[place-byzariargn|Bizaria Region]], the [[place-vedyarargn|Vedyara Region]] and the [[place-khzryndsrtrgn|Khazrin]] meet on the coast facing the islands of [[place-taruzelrgn|Taruzel]]. That crossroads has made the Shebarader enormously rich and far more important than his thinly peopled land would suggest.
 
 The court at [[place-shebarakhend|Shebarakhend]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Ashaian faith]] finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Ashaian orthodoxy for the tribes and the Taruzeli alike, whether or not either listens.
 
@@ -102,11 +102,11 @@ The Shebarader's power is real and it has limits. The priests of the fire-temple
 
 The Shebarader claims authority over every Dunhari people, and the tribes find the claim hilarious. In practice the two live together through trade agreements, marriages between the court and the sheikhs' houses, and carefully negotiated arrangements at the edge of the sown. The standing army is strong enough to hold the oases and too slow to catch anyone in the open desert, where the nomads go wherever they like.
 
-Across the strait, relations with the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] are warm. Relations with the [[affiliation-vylarinmpr|Vylarian Empire]] have long been hostile, and when Taruzel, a Vylarian colony, rose against the empire some twelve years ago, Amradad was among those who helped it break free.
+Across the strait, relations with the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] are warm. Relations with the [[affiliation-vylarinmpr|Vilérian Empire]] have long been hostile, and when Taruzel, a Vilérian colony, rose against the empire some twelve years ago, Amradad was among those who helped it break free.
 
 ## Commerce and Currency
 
-The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—ethla, ankhra and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of [[affiliation-danvar|the Danvar]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. [[lore-trzlncrncy|Taruzelian coin]] from the secession trade is accepted in the principal trading cities, through changers who deal with the Taruzelian treasury, the [[affiliation-merazuni|Merazuni]].
+The Kingdom uses [[lore-vylrncrncy|Vilérian coin]]—ethla, ankhra and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vilérian paper script does not work here, since no chapter of [[affiliation-danvar|the Danvar]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. [[lore-trzlncrncy|Taruzelian coin]] from the secession trade is accepted in the principal trading cities, through changers who deal with the Taruzelian treasury, the [[affiliation-merazuni|Merazuni]].
 
 ## See Also
 
@@ -128,5 +128,5 @@ The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—ethla, ankhra and bit—in 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the faith of the fire-temples
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]] and [[place-byzariargn|Bizaria Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]] and [[place-byzariargn|Bizaria Region]]
 : neighbors on the trade roads

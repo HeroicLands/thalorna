@@ -25,7 +25,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | -------------------------------- | --------------- |
 | [[place-midhalnrgn\|Midhalión]]  | ~47,000,000     |
 | [[place-aureldirgn\|Aureldia]]   | ~11,000,000     |
-| [[place-khzryndsrtrgn\|Khazryn]] | ~3,000,000      |
+| [[place-khzryndsrtrgn\|Khazrin]] | ~3,000,000      |
 | [[place-dunharargn\|Dunhara]]    | ~3,000,000      |
 | [[place-nrdlndsrgn\|Nordlands]]  | ~2,000,000      |
 | [[place-vrystwald\|Vristwald]]   | ~500,000        |
@@ -37,11 +37,11 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 | Land                          | Population  |
 | ----------------------------- | ----------- |
-| [[place-vylariargn\|Vylaria]] | ~24,000,000 |
+| [[place-vylariargn\|Viléria]] | ~24,000,000 |
 | Taruzel                       | ~12,000,000 |
 | [[place-heladrgn\|Hellád]]    | ~11,000,000 |
 
-[[place-vylariargn|Vylaria]] divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four core provinces (~21,000,000) and the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]] (~2,500,000); the [[place-heladrgn|Hellád Region]] between the [[place-byzariargn|Bizaria Region]] (~8,000,000) and the city-states of [[place-helionis|Helionis]] (~3,000,000).
+[[place-vylariargn|Viléria]] divides between the [[affiliation-vylarinmpr|Vilérian Empire]]'s four core provinces (~21,000,000) and the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]] (~2,500,000); the [[place-heladrgn|Hellád Region]] between the [[place-byzariargn|Bizaria Region]] (~8,000,000) and the city-states of [[place-helionis|Helionis]] (~3,000,000).
 
 **Within Aureldia**, the mosaic of kingdoms bound by the Twelve:
 
@@ -105,13 +105,13 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 ### Notes and Sanity Checks
 
-**The east holds the majority of humankind.** The [[affiliation-tantsouempr|Empire of Tantsou]] and the [[place-vedyarargn|Vedyara Region]] together (~230M) are roughly **62% of the world's people**. The demographic center of gravity lies far to the east of Vylaria, a fact the western powers find easy to forget.
+**The east holds the majority of humankind.** The [[affiliation-tantsouempr|Empire of Tantsou]] and the [[place-vedyarargn|Vedyara Region]] together (~230M) are roughly **62% of the world's people**. The demographic center of gravity lies far to the east of Viléria, a fact the western powers find easy to forget.
 
-**Vylaria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west—larger than any single Aureldian kingdom—but only ~6% of the world, and barely a fifth the size of Tantsou or Vedyara. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
+**Viléria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west—larger than any single Aureldian kingdom—but only ~6% of the world, and barely a fifth the size of Tantsou or Vedyara. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
 
-**A 1-million capital is feedable.** [[place-orzara|Orzara]] at ~1M is ~5% of Vylaria proper—high, but sustainable for a primate imperial city supplied by [[place-hylen|Hilen]]'s grain, [[place-salkhalon|Salkalon]]'s fisheries and seaborne imports, and the state granaries run by the Veramus of the Grain.
+**A 1-million capital is feedable.** [[place-orzara|Orzara]] at ~1M is ~5% of Viléria proper—high, but sustainable for a primate imperial city supplied by [[place-hylen|Hilen]]'s grain, [[place-salkhalon|Salkalon]]'s fisheries and seaborne imports, and the state granaries run by the Veramus of the Grain.
 
-**The Aureldian kingdoms are itemized, not estimated.** [[place-provenzrgn|Provénzia]], [[place-elavendre|Élavendre]], [[place-tarvenirgn|Tarvénia]], [[place-aelwyth|Aelwyth]] and [[affiliation-calypsa|Kalipsa]] each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vylarian Empire's, which is why no Aureldian crown can face Orzara alone and why the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], not a treaty, are what hold the west together.
+**The Aureldian kingdoms are itemized, not estimated.** [[place-provenzrgn|Provénzia]], [[place-elavendre|Élavendre]], [[place-tarvenirgn|Tarvénia]], [[place-aelwyth|Aelwyth]] and [[affiliation-calypsa|Kalipsa]] each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vilérian Empire's, which is why no Aureldian crown can face Orzara alone and why the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], not a treaty, are what hold the west together.
 
 **The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád and [[place-taruzelrgn|Taruzel]] run higher, toward 12–15%, and the frontier and pastoral country of the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]] and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
 
@@ -119,7 +119,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 ### See Also
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the anchor polity, worked out province by province
 
 [[place-orzara|Orzara]]

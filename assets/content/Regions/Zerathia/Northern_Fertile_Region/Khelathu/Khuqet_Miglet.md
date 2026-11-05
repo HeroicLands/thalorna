@@ -3,7 +3,7 @@ shortcode: khuqetmiglet
 name: {full: Khuqet-Miglet, en: [The Northern March]}
 type: place
 subType: region
-description: Au'Khelathu's disputed northern desert-march—the dry country beyond the eastern border selatu, held for the caravan road to Dunhara and the Khazryn and for the depth it puts between the empire and its eastern neighbors, and never made a selat.
+description: Au'Khelathu's disputed northern desert-march—the dry country beyond the eastern border selatu, held for the caravan road to Dunhara and the Khazrin and for the depth it puts between the empire and its eastern neighbors, and never made a selat.
 tags: [region]
 data:
   demonym: Khelathi
@@ -57,7 +57,7 @@ on his first crossing, "and learn who owns it."
 One thing gives the march its worth: the caravan road that leaves the
 river valley through the eastern hills, threads the wells of Khuqet-Miglet,
 and climbs into the Dunhara and on toward the oasis-belt of the
-[[place-khzryndsrtrgn|Khazryn Desert]]. It is the empire's land-road to the
+[[place-khzryndsrtrgn|Khazrin Desert]]. It is the empire's land-road to the
 east and the north—the way by which spice, silk, jewels and the rare goods
 of the far east come overland when they do not come by sea, and the way by
 which Khelathi grain, linen, worked metal and gold go out to the desert
@@ -168,7 +168,7 @@ of the peace it is the garrison that is tolerated, not the clans.
 [[being-trvshshrdr|Torvash Shiradar]]
 : the sheikh the garrison has made an enemy of
 
-[[place-khzryndsrtrgn|Khazryn Desert]]
+[[place-khzryndsrtrgn|Khazrin Desert]]
 : where the road goes on to
 
 [[lore-eastroad|The Storm on the Eastern Road]]

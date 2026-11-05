@@ -19,7 +19,7 @@ data:
         - affiliation-vylarinmpr
         - affiliation-tevran
       summary: >-
-        The legions come over the mountains from Helionis, and a fleet from the Vylarian coast takes the harbors in a season. The League is annexed as a province of the Empire. The Compact is dissolved by edict. The cities keep their councils, as Helionis's did, and lose the passes, the tariffs and the muster to imperial officers.
+        The legions come over the mountains from Helionis, and a fleet from the Vilérian coast takes the harbors in a season. The League is annexed as a province of the Empire. The Compact is dissolved by edict. The cities keep their councils, as Helionis's did, and lose the passes, the tariffs and the muster to imperial officers.
       standing: attested
       names: [{name: the Annexation of the League, by: affiliation-byzarianlg}]
       where:
@@ -35,7 +35,7 @@ data:
             knowledge: named
           - place: place-byzariargn
             how: >-
-              the province's ledgers are kept in the Semaron script and dated by the Vylarian Calendar for three centuries
+              the province's ledgers are kept in the Semaron script and dated by the Vilérian Calendar for three centuries
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: actor}
@@ -61,7 +61,7 @@ data:
 
 ## The Legions
 
-The Orzas [Karomfos]{.name data-type="being/npc"} reigned over the [[affiliation-vylarinmpr|Vylarian Empire]] in [The Age of Conquest]{.name data-type="lore/calendar"}, from about 209, and in the first years of his reign the legions that were fighting in the west were not the only ones he sent out. A force came over the mountains from [[place-helionis|Helionis]], where the [Vylarian Republic]{.name data-type="affiliation/polity"}'s old province had given the Empire a road, and a fleet from the Vylarian coast took the harbors of the eastern straits in a single season. The five cities of the [[affiliation-byzarianlg|League]] were cut from the sea and then from each other.
+The Orzas [Karomfos]{.name data-type="being/npc"} reigned over the [[affiliation-vylarinmpr|Vilérian Empire]] in [The Age of Conquest]{.name data-type="lore/calendar"}, from about 209, and in the first years of his reign the legions that were fighting in the west were not the only ones he sent out. A force came over the mountains from [[place-helionis|Helionis]], where the [Vilérian Republic]{.name data-type="affiliation/polity"}'s old province had given the Empire a road, and a fleet from the Vilérian coast took the harbors of the eastern straits in a single season. The five cities of the [[affiliation-byzarianlg|League]] were cut from the sea and then from each other.
 
 ## The Edict
 
@@ -73,12 +73,12 @@ The Orzas annexed the League as a province by edict. The edict dissolved [[lore-
 
 - **The province of Bizaria**, which lasted three centuries.
 - **The imperial frontier forts** in the passes, which the League takes as its marches after the legions leave.
-- **The [[skill-semrnscrpt|Semaron]] ledgers and [[lore-commoncal|the Vylarian Calendar]]**, which the province keeps for the rest of its imperial age.
+- **The [[skill-semrnscrpt|Semaron]] ledgers and [[lore-commoncal|the Vilérian Calendar]]**, which the province keeps for the rest of its imperial age.
 - **The "formal conquest"** of the Tevran Maldor's account, which dates to this war and to no other.
 
 ## See Also
 
 - [[lore-heladcitadel|The Siege of the Silver Citadel]]—the longest siege of the war
 - [[lore-heladcompact|The Compact of the Five]]—the pact the edict dissolved
-- [[affiliation-vylarinmpr|Vylarian Empire]] · [[affiliation-tevran|Tevran Maldor]]
+- [[affiliation-vylarinmpr|Vilérian Empire]] · [[affiliation-tevran|Tevran Maldor]]
 - [[skill-semrnscrpt|Semaron]]

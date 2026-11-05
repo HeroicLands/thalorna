@@ -428,13 +428,13 @@ Nushir stands 5'6" tall with a medium build. She has light olive skin, gray hair
 
 ### Apprenticeship and Early Mastery
 
-Nushir Narsafi was born to a family of modest means in the [[place-khzryndsrtrgn|Khazryn Desert Region]]'s scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.
+Nushir Narsafi was born to a family of modest means in the [[place-khzryndsrtrgn|Khazrin Desert Region]]'s scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.
 
 Under her mother's exacting tutelage, Nushir became skilled in the craft by her twentieth year. Her candles burned cleaner and longer than those of competitors, and her soap possessed a quality that left skin soft rather than raw. She earned guild certification at twenty-three, marking her as a master craftsperson worthy of independent commission.
 
 ### Years of Dominance
 
-For nearly two decades, Nushir operated the family business with steady success. She made changes slowly but persistently—developing new scent combinations by infusing herbs and oils into wax, experimenting with different wick configurations to achieve more consistent flames, perfecting the proportions of lye and animal fat that would produce soap of superior quality. Her reputation grew steadily. She could command premium prices for her goods, and merchants from across the region sought her products. The Narsafi chandlery became synonymous with quality in the Khazryn Desert's scattered settlements.
+For nearly two decades, Nushir operated the family business with steady success. She made changes slowly but persistently—developing new scent combinations by infusing herbs and oils into wax, experimenting with different wick configurations to achieve more consistent flames, perfecting the proportions of lye and animal fat that would produce soap of superior quality. Her reputation grew steadily. She could command premium prices for her goods, and merchants from across the region sought her products. The Narsafi chandlery became synonymous with quality in the Khazrin Desert's scattered settlements.
 
 She married late, at thirty-two, to [Jahren Narsafi]{.name data-type="being/npc"}, a man of modest merchant connections who was content to allow his wife's work to define their family's position and income. Though they had no children of their own, Nushir took on apprentices, though her exacting standards meant few remained long in her service.
 
@@ -504,7 +504,7 @@ Aging and Physical Limitations
 [The Desert Caravans Consortium]{.name data-type="affiliation/venture"}
 : A confederation of merchants who travel the dangerous desert routes contracts with Nushir for high-quality candles for use in their camps. The reliability and superior burn characteristics of her products are valued for the safety they provide.
 
-House Merchants of the Khazryn
+House Merchants of the Khazrin
 : The wealthy merchant families of the region maintain standing orders for Nushir's products, both for personal use and for prestigious gifts. Though some have begun experimenting with cheaper alternatives, several still refuse to compromise.
 
 ### Enemies

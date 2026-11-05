@@ -18,7 +18,7 @@ data:
         - affiliation-bhumipal
         - place-graznmntns
       summary: >-
-        The steppe tribes of the Khazryn unite under a charismatic orghun into a great orghunoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Kingdom of Amradad from the wrong side. It fragments on the death of its founding orghun. No pass is forced, and none could be.
+        The steppe tribes of the Khazrin unite under a charismatic orghun into a great orghunoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Kingdom of Amradad from the wrong side. It fragments on the death of its founding orghun. No pass is forced, and none could be.
       standing: attested
       names:
         - name: the Storm of the Hundred Banners
@@ -81,7 +81,7 @@ data:
         - what the other two steppe unifications of recorded history were, and when
 ---
 
-**The Storm of the Hundred Banners** is the reason every fort on [[place-marchroad|the March Road]] in [[place-vedyarargn|Vedyara Region]] was built, and it is the most famous of the three times in recorded history that the steppe has united behind one orghun. About 315 AF a charismatic warlord drew the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] into a single orghunoq, and the orghunoq went south.
+**The Storm of the Hundred Banners** is the reason every fort on [[place-marchroad|the March Road]] in [[place-vedyarargn|Vedyara Region]] was built, and it is the most famous of the three times in recorded history that the steppe has united behind one orghun. About 315 AF a charismatic warlord drew the independent tribes of the [[place-khzryndsrtrgn|Khazrin]] into a single orghunoq, and the orghunoq went south.
 
 It took the one road a horde can take. [[place-graznmntns|The Grazian Mountains]] close the south off from the steppe, and their passes carry a few caravans a season under hereditary guides; no host can cross them, and none ever has. The orghunoq went round instead. It came down [[place-wstrndscnt|the Western Descent]], where the wall comes apart into dry foothills at its western end, and turned onto the march road.
 
@@ -102,7 +102,7 @@ The storm opened a hard generation for Vedyara. While the kingdoms were looking 
 [[lore-marupalfl|The Fall of Marupal]] · [[place-lantustal|Lantustal]]
 : the march kingdom that died under it, and the field it left
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the steppe it came from
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]

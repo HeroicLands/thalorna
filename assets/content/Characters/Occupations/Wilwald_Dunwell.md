@@ -400,7 +400,7 @@ Wilwald Dunwell is a 29-year-old man who stands 6'0" tall and is of moderate bui
 
 Wilwald Dunwell is the lord of a small manor at [[place-kingsholow|Kingshollow]] in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] within [[place-aelwyth|Aelwyth]], an [[lore-aelwythanclt|Aelwythan]] of minor gentry whose family has held the same few hundred acres beside the royal forest for six generations.
 
-Wilwald holds land in the fold of country below the old royal seat, bounded on its upper side by the king's wood, which his tenants may not graze, may not cut and may not take a hare from. He inherited at twenty-five and has spent the years since on the land itself: draining the lower meadow, bringing in a rotation he read of in a [[lore-vylarianclt|Vylarian]] treatise. His tenants eat better than they did under his father. His neighbors among the gentry are less impressed: a lord who walks his own furrows is lowering himself, and a lord who speaks up for his tenants at the forest court is a nuisance to the crown's foresters, whose goodwill the whole valley depends on.
+Wilwald holds land in the fold of country below the old royal seat, bounded on its upper side by the king's wood, which his tenants may not graze, may not cut and may not take a hare from. He inherited at twenty-five and has spent the years since on the land itself: draining the lower meadow, bringing in a rotation he read of in a [[lore-vylarianclt|Vilérian]] treatise. His tenants eat better than they did under his father. His neighbors among the gentry are less impressed: a lord who walks his own furrows is lowering himself, and a lord who speaks up for his tenants at the forest court is a nuisance to the crown's foresters, whose goodwill the whole valley depends on.
 
 ## Psyche
 
@@ -442,4 +442,4 @@ The Debt
 : A neighboring lord has quietly bought up the loans Wilwald took to drain the meadow, and has called them in. The neighbor wants the land, not the money.
 
 The Rotation Fails
-: The Vylarian rotation that Wilwald pressed on his tenants for three years has failed in a wet season, and the manor is short. The gentry who mocked him are watching.
+: The Vilérian rotation that Wilwald pressed on his tenants for three years has failed in a wet season, and the manor is short. The gentry who mocked him are watching.

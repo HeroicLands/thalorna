@@ -16,7 +16,7 @@ data: {demonym: Ólvestran, lore: [], parents: [tarvenirgn], packFolder: tarveni
 
 What a traveler meets first is the gate. [[place-twingate|The Twin Gate]] is one of the most consequential thresholds in all of Aureldia, and [[affiliation-twinbldrdr|the Twinblade Order]], whose whole calling is the keeping of thresholds, keeps it. The city's gate-guards admit and refuse. Where an admission or a refusal is contested, the Twinblade on station confirms it, and no noble's rank overrides that word. A Black Flame operative who tries the gate is refused, and the refusal is sometimes contested by combat.
 
-Prices inside run higher for premium goods than almost anywhere in the west, and a traveler who pays in [[lore-vylrncrncy|Vylarian]] coin pays more here for the same thing than in a provincial town.
+Prices inside run higher for premium goods than almost anywhere in the west, and a traveler who pays in [[lore-vylrncrncy|Vilérian]] coin pays more here for the same thing than in a provincial town.
 
 ## Politics {#present}
 

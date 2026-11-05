@@ -3,7 +3,7 @@ shortcode: qisomrktcmp
 name: {full: Qiiso, en: [The Central Market-Camp]}
 type: place
 subType: site
-description: "The seasonal market-camp at the heart of the Khazryn, where the Celestial Road meets its southern spur and most of the road's goods change hands."
+description: "The seasonal market-camp at the heart of the Khazrin, where the Celestial Road meets its southern spur and most of the road's goods change hands."
 tags: [site]
 data:
   demonym: null
@@ -19,7 +19,7 @@ data:
 
 For eleven months the place is a ring of black stones round a deep well, a few hundred yards of trampled gravel, and a scatter of bones. Then the spring fleet comes in from the west and the autumn fleet from the east, and in ten days the empty ground becomes a city of felt tents and rope corrals that holds fifteen thousand people, four thousand camels and every kind of silver anyone has ever struck.
 
-**Qiiso**, "the price" in [[skill-sowideslng|Sovidur]], is the market-camp of the central [[place-hskrrgn|Ghoshiqor]], about halfway across the [[place-khzryndsrtrgn|Khazryn]]. [[lore-celestialroad|The Celestial Road]] reaches it on about the sixty-fifth day out from the [[place-eastrnmrch|March]], and the southern spur to the [[place-swoasisbelt|Tellumel]] leaves it here. Most goods that cross the waste change hands at Qiiso instead of going on whole, and the price of water is the highest on the road.
+**Qiiso**, "the price" in [[skill-sowideslng|Sovidur]], is the market-camp of the central [[place-hskrrgn|Ghoshiqor]], about halfway across the [[place-khzryndsrtrgn|Khazrin]]. [[lore-celestialroad|The Celestial Road]] reaches it on about the sixty-fifth day out from the [[place-eastrnmrch|March]], and the southern spur to the [[place-swoasisbelt|Tellumel]] leaves it here. Most goods that cross the waste change hands at Qiiso instead of going on whole, and the price of water is the highest on the road.
 
 ## Layers {#history}
 
@@ -56,7 +56,7 @@ Thieves work the camp, and the moot's law is severe: a man caught stealing a cam
 [[place-hskrrgn|Ghoshiqor]]
 : the central sands
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region
 
 [[place-dkrqrrgn|Diqraqor]]

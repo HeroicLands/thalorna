@@ -3,10 +3,10 @@ shortcode: alyssa
 name: {full: Alessa}
 type: place
 subType: region
-description: "The heartland of the Vylarian Empire—the land of the Province of Alessa, a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit by the oldest Vylarian roads."
+description: "The heartland of the Vilérian Empire—the land of the Province of Alessa, a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit by the oldest Vilérian roads."
 tags: [region]
 data:
-  demonym: Vylarian
+  demonym: Vilérian
   lore: [humanflk]
   parents: [vylariargn]
   population: 7000000
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Almost nothing in Alessa is more than a day's ride from a temple, a magistrate and a tax-collector. This is the land of the [[affiliation-provinclys|Province of Alessa]], the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]] within the [[place-vylariargn|Vylaria Region]]: seven million people in a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit together by the oldest and best-kept stretch of the Vylarian road network. Its provincial capital is [[place-alyssar|Alessar]].
+Almost nothing in Alessa is more than a day's ride from a temple, a magistrate and a tax-collector. This is the land of the [[affiliation-provinclys|Province of Alessa]], the heartland of the [[affiliation-vylarinmpr|Vilérian Empire]] within the [[place-vylariargn|Viléria Region]]: seven million people in a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit together by the oldest and best-kept stretch of the Vilérian road network. Its provincial capital is [[place-alyssar|Alessar]].
 
 A porter in one of the gate-yards outside [[place-orzara|Orzara]], where the teams are unhitched and the cargo is broken down onto handcarts, teaches a new hand to read the carts by their roads. "Barge-rope on the axles means [[place-ostenna|Ostenna]], and the grain is in sacks. A cart of fruit and wine with a steward walking beside it comes down from a villa in the hills around [[place-vennara|Vennara]], and you carry that one carefully. Straw in the bed and a driver asleep on the load means a night on one of the great roads, and most likely [[place-delara|Delara]]. Everything else is grain, and you will carry it."
 
@@ -27,7 +27,7 @@ The capital dominates everything around it. Its senatorial estates, bureaucratic
 
 ## Economy
 
-Alessa runs on government, trade and the crafts that serve the wealthy. It grows little surplus food of its own and depends on [[affiliation-provnchyln|Province of Hilen]] for grain and [[affiliation-provincvld|Province of Salkalon]] for seafood and imports, which is why the gate-yards never empty. What Alessa produces is influence, law and [[miscgear-vylsteel|Vylarian Steel]]. The capital's metalworking guilds are the finest on the [[place-ankrscntnnt|Ankaris Continent]], and access to the production of Vylarian Steel is one of the empire's most closely guarded advantages. Its foundries stand in the [Smoke]{.name data-type="place/site"} beyond the capital's Clearance, where the [Steel Guild]{.name data-type="affiliation/guild"} keeps the secret of the forging behind the wall of its own foundry-town ([[place-outskirtsorz|Outskirts]]).
+Alessa runs on government, trade and the crafts that serve the wealthy. It grows little surplus food of its own and depends on [[affiliation-provnchyln|Province of Hilen]] for grain and [[affiliation-provincvld|Province of Salkalon]] for seafood and imports, which is why the gate-yards never empty. What Alessa produces is influence, law and [[miscgear-vylsteel|Vilérian Steel]]. The capital's metalworking guilds are the finest on the [[place-ankrscntnnt|Ankaris Continent]], and access to the production of Vilérian Steel is one of the empire's most closely guarded advantages. Its foundries stand in the [Smoke]{.name data-type="place/site"} beyond the capital's Clearance, where the [Steel Guild]{.name data-type="affiliation/guild"} keeps the secret of the forging behind the wall of its own foundry-town ([[place-outskirtsorz|Outskirts]]).
 
 ## Notable Features
 
@@ -93,7 +93,7 @@ Alessa is the most densely settled of the provinces. A carter can leave one town
 [[affiliation-provinclys|Province of Alessa]]
 : the province that holds this land
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the enclosing region
 
 [[place-alyssar|Alessar]]

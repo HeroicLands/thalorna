@@ -49,7 +49,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_"The Order of the Sealed Word"—Vylari: **Thizarlambizon**_
+_"The Order of the Sealed Word"—Vilari: **Thizarlambizon**_
 
 Type
 : Fighting religious order

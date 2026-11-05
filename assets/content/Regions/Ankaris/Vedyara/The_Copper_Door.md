@@ -3,7 +3,7 @@ shortcode: tamradvar
 name: {full: The Copper-Door, vedy: [tamradvar]}
 type: place
 subType: feature
-description: "The copper-door—the road up the Silver Gorges to the Khazryn's eastern marches, tolled at a gate the crown did not build and cannot close."
+description: "The copper-door—the road up the Silver Gorges to the Khazrin's eastern marches, tolled at a gate the crown did not build and cannot close."
 tags: [pass, caravan, inland]
 data:
   culture: hvarnclt
@@ -20,7 +20,7 @@ data:
   packFolder: vedyara
 ---
 
-**Tamradvar**, the copper-door, goes up through [[place-slvrgorges|the Silver Gorges]] and over the shoulder of [[place-estrnreach|the Eastern Reach]] into the marches where the [[place-khzryndsrtrgn|Khazryn]] runs out against [[place-tantsouregin|Tantsou]]. It is a working road for its first four days and a pass thereafter, and the transition is not marked by anything except the last of the ore-carts turning back.
+**Tamradvar**, the copper-door, goes up through [[place-slvrgorges|the Silver Gorges]] and over the shoulder of [[place-estrnreach|the Eastern Reach]] into the marches where the [[place-khzryndsrtrgn|Khazrin]] runs out against [[place-tantsouregin|Tantsou]]. It is a working road for its first four days and a pass thereafter, and the transition is not marked by anything except the last of the ore-carts turning back.
 
 Its season opens with [[place-suryadvar|Suryadvar]]'s and shuts a week earlier, which is enough to make the last caravan of the year a gamble and the last caravan of the year the most profitable.
 

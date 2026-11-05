@@ -437,7 +437,7 @@ Fetar is motivated by love—for his wife, for the sea, for the strange family h
 
 ### Strengths
 
-He is arguably the finest pilot on the [[place-vylarianse|Vylarian Sea]], with an almost supernatural feel for ships and water. He is also the crew's emotional glue—his humor and warmth keep morale from collapsing during hard times. He is clever, observant in his own way, and has a courage that is all the more impressive for being quiet rather than dramatic.
+He is arguably the finest pilot on the [[place-vylarianse|Vilérian Sea]], with an almost supernatural feel for ships and water. He is also the crew's emotional glue—his humor and warmth keep morale from collapsing during hard times. He is clever, observant in his own way, and has a courage that is all the more impressive for being quiet rather than dramatic.
 
 ### Weaknesses
 

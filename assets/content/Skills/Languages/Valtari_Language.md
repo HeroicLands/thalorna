@@ -77,7 +77,7 @@ data:
     - form: koru
       class: pron
       field: People of the quay
-      gloss: you, said to anyone; Vylari _koroi_
+      gloss: you, said to anyone; Vilari _koroi_
       concept: you-reference
     - form: zazuru
       class: "n"
@@ -148,7 +148,7 @@ data:
     - form: lokatu
       class: v
       field: Doing
-      gloss: to come, to go, to arrive; Vylari _lokathen_
+      gloss: to come, to go, to arrive; Vilari _lokathen_
       concept: [come, go, arrive]
     - form: kusadu
       class: v
@@ -173,7 +173,7 @@ data:
     - form: yepalu
       class: v
       field: Doing
-      gloss: to need, must; Vylari _yerpalon_, duty
+      gloss: to need, must; Vilari _yerpalon_, duty
       concept: [need-verb, must]
     - form: katusu
       class: v
@@ -230,7 +230,7 @@ data:
     - form: kedi
       class: pron
       field: Asking, time and number
-      gloss: who; Vylari _kedis_
+      gloss: who; Vilari _kedis_
       concept: question-who
     - form: gulodu
       class: part
@@ -245,22 +245,22 @@ data:
     - form: denu
       class: part
       field: Asking, time and number
-      gloss: here; Vylari _denos_
+      gloss: here; Vilari _denos_
       concept: here
     - form: tapelu
       class: part
       field: Asking, time and number
-      gloss: now; Vylari _thapelon_, an hour
+      gloss: now; Vilari _thapelon_, an hour
       concept: [now, present]
     - form: paramisu
       class: part
       field: Asking, time and number
-      gloss: tomorrow; Vylari _pramiza_, the morning
+      gloss: tomorrow; Vilari _pramiza_, the morning
       concept: tomorrow
     - form: olimu
       class: part
       field: Asking, time and number
-      gloss: already, before; Vylari _holimos_, first
+      gloss: already, before; Vilari _holimos_, first
       concept: [already, before-time]
     - form: zu
       class: part
@@ -5712,7 +5712,7 @@ Valtari is a tongue of the Pidgin (contact) family. Fluency measures the sophist
 
 ## Overview
 
-Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Midhalión]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonic Language]], [[skill-vylarilng|Vylari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
+Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Midhalión]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonic Language]], [[skill-vylarilng|Vilari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
 
 Valtari is the lingua franca of maritime merchants, dock laborers, ship captains, chandlers, harbor masters, fishmongers, and anyone whose livelihood depends on cross-cultural commerce. It is **never** a first language—no child grows up speaking Valtari as their mother tongue. Instead, it is picked up on the docks through constant repetition, error correction, and pragmatic negotiation. A Valtari speaker is identifiable not by mastery of the language but by their ability to make themselves understood despite imperfect knowledge.
 
@@ -5900,7 +5900,7 @@ Valtari is **rarely written**. When it is, speakers employ:
 : Used in northern ports and Helonic trading centers
 
 [[skill-semrnscrpt|Semaron Script]] letters
-: Used in Vylarian and Aureldian harbors, and by any factor with an imperial education
+: Used in Vilérian and Aureldian harbors, and by any factor with an imperial education
 
 Improvisational symbols
 : Abbreviated marks and hastily invented notation for quick transaction records
@@ -5913,7 +5913,7 @@ Literacy in Valtari is minimal. Most dock workers cannot read or write the langu
 
 Valtari crystallized over centuries of maritime trade, reaching its modern form roughly 300 years ago as trade intensified. The language did not _replace_ native languages but rather _supplemented_ them—a lingua franca for the docks, not a language of home, family, or identity.
 
-The vocabulary is **45% Taruzeli, 25% Helonic, 20% from the Vylari family, 7% Nordmal and 3% from other tongues of the setting**, every word drawn from the setting's own tongues. This breakdown varies regionally: southern ports lean more Taruzeli; northern ports, more Helonic.
+The vocabulary is **45% Taruzeli, 25% Helonic, 20% from the Vilari family, 7% Nordmal and 3% from other tongues of the setting**, every word drawn from the setting's own tongues. This breakdown varies regionally: southern ports lean more Taruzeli; northern ports, more Helonic.
 
 Historical layers are detectable in the vocabulary:
 
@@ -5953,7 +5953,7 @@ _Koru latara pelaro, temadu kerisu, geniru yu rusaku?_
 
 ## Core Vocabulary
 
-The following represents the stable core of Valtari—words understood in virtually every port. Since Valtari is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Taruzeli (**H**, with the Taruzeli source form), a quarter from Helonic (**He**), a fifth from the Vylari family (**V**), a few from Nordmal and its kin (**N**), and a few from other tongues of the setting (**O**). The [[skill-valtarlng#lexicon|Valtari Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
+The following represents the stable core of Valtari—words understood in virtually every port. Since Valtari is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Taruzeli (**H**, with the Taruzeli source form), a quarter from Helonic (**He**), a fifth from the Vilari family (**V**), a few from Nordmal and its kin (**N**), and a few from other tongues of the setting (**O**). The [[skill-valtarlng#lexicon|Valtari Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
 
 **People & Trade:** kiromu (He, from _kiros_) "captain, master" · bashimu (H, from _bashimum_) "merchant" · eparo (He, from _émfarin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · asevu (V, from [[skill-provnzlng|Provenzal]] _anseve_) "friend, companion" · koru (V, from _koroi_) "you"
 
@@ -5981,7 +5981,7 @@ Taruzeli
 Helonic
 : Phonological innovations, 25% of vocabulary, some syntactic patterns
 
-The Vylari family
+The Vilari family
 : 20% of vocabulary, above all the pronouns, the questions and the words of time
 
 Nordmal and its kin
@@ -6113,7 +6113,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-valtarlng'
 
 ## Building words {#building-words}
 
-**A borrowed word** is bent to the sounds above. Its long vowels are said short. Taruzeli and Helonic _kh_ and _gh_ become _k_ and _g_, _q_ becomes _k_, _th_ and _dh_ become _t_ and _d_, _j_ becomes _y_, the rounded _ü_ becomes _i_, and _h_ is not said at all. The endings that carry the parent tongue's grammar fall away, and a word left closing on a consonant other than _n_, _l_ or _r_ takes a vowel after it, most often _-u_ in a Taruzeli word and _-o_ in a Helonic one: the Taruzeli _jakudu_, a ship, is _yakodu_, and the Helonic _ánevir_, the wind, is _anevo_. A word in daily use is often clipped further, and the words of the Vylari family, of Nordmal and of the setting's other tongues are bent the same way.
+**A borrowed word** is bent to the sounds above. Its long vowels are said short. Taruzeli and Helonic _kh_ and _gh_ become _k_ and _g_, _q_ becomes _k_, _th_ and _dh_ become _t_ and _d_, _j_ becomes _y_, the rounded _ü_ becomes _i_, and _h_ is not said at all. The endings that carry the parent tongue's grammar fall away, and a word left closing on a consonant other than _n_, _l_ or _r_ takes a vowel after it, most often _-u_ in a Taruzeli word and _-o_ in a Helonic one: the Taruzeli _jakudu_, a ship, is _yakodu_, and the Helonic _ánevir_, the wind, is _anevo_. A word in daily use is often clipped further, and the words of the Vilari family, of Nordmal and of the setting's other tongues are bent the same way.
 
 **Two words side by side** make a compound phrase, the second naming what the first is: _bazunu-kerisu_ is a sail-hand, a sailmaker. **A word said twice** is a plural, or an emphasis.
 

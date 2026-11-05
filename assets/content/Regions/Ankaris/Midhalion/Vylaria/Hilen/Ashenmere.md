@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Ashenmere is where [[place-hylen|Hilen]]'s estates run out. A town of about four thousand on the march of Hilen, the breadbasket of the [[affiliation-vylarinmpr|Vylarian Empire]], it is the province's border town, and a carter coming in from the edge of the province passes the last estate's boundary stones a few miles before its gate.
+Ashenmere is where [[place-hylen|Hilen]]'s estates run out. A town of about four thousand on the march of Hilen, the breadbasket of the [[affiliation-vylarinmpr|Vilérian Empire]], it is the province's border town, and a carter coming in from the edge of the province passes the last estate's boundary stones a few miles before its gate.
 
 An estate steward from the interior, sent to Ashenmere with a wagon of tenants' goods, would call it a foreign posting. Inland the lord is whoever owns the land, and every road leads to a manor. On the march the roads lead out of the province as well as into it, and the town is where the two kinds of traffic meet.
 
@@ -33,9 +33,9 @@ Two buildings face each other across the water above the bridge. On the Hilen ba
 
 The two kinds of traffic of the Overview are grain going up and timber coming down. Wagons from the Hilen estates carry grain, wine and oil across the bridge into the kingdom, whose forested uplands grow little wheat. Wagons and pack-trains from the kingdom bring down charcoal, timber, wooden goods and the work of Nartunese woodcrafters, which sell well on the estates. Every load crosses the bridge, and every load pays the emperor's customs at the Customs House on the way in or out.
 
-The town lives on serving both. It has a horse and mule market, where the Nartunese pack-trains change animals, wheelwrights and harness-makers, inns for carters and drovers, the warehouses of grain dealers who buy on the estates and sell across the stream, and the agents of timber merchants who buy across the stream and sell on the estates. A few families of the town have kin on both banks, and the town's speech carries words of the kingdom's old-fashioned Vylari that a man from Aravantara does not use.
+The town lives on serving both. It has a horse and mule market, where the Nartunese pack-trains change animals, wheelwrights and harness-makers, inns for carters and drovers, the warehouses of grain dealers who buy on the estates and sell across the stream, and the agents of timber merchants who buy across the stream and sell on the estates. A few families of the town have kin on both banks, and the town's speech carries words of the kingdom's old-fashioned Vilari that a man from Aravantara does not use.
 
-Pilgrims cross too. Devout Vylarians who find the empire's temples too easy come up the road to cross into the kingdom, and they cross under the eyes of the Order's chapel. Nartunese priests who come down to preach on the estates cross under the eyes of the Forge-priest.
+Pilgrims cross too. Devout Vilérians who find the empire's temples too easy come up the road to cross into the kingdom, and they cross under the eyes of the Order's chapel. Nartunese priests who come down to preach on the estates cross under the eyes of the Forge-priest.
 
 ## Who Rules and Keeps Order
 
@@ -80,4 +80,4 @@ The knights cross the stream by night. Men of the Order of the Sacred Flame ford
 
 The forge-shrine points them out. Its Hammer-Priest, [Huraden]{.name data-type="being/npc"}, holds the Black Flame to be the corruption of his own god's fire and has kept a list for six years of every household on the march that he believes keeps it, and when the chapel lamp on the far bank is shuttered and shown three times after dark, he sends the next name across. The empty cottage is the eleventh household taken. The families of the march believe the takings are the work of slavers out of the hills and keep their doors barred.
 
-Ornethos knows. A patrol of his cohort met the knights at the ford two winters ago and was told, by a knight who spoke the old Vylari of the kingdom, to go home; Ornethos reported nothing past his own door, because he is devout and because the knights were right about the smith. If the _karezos_, the _therkos_ or the Senate learns that the kingdom's knights are taking imperial subjects across the border, the empire has a quarrel with Nartun it cannot ignore, and the Two Lights become the place where it starts.
+Ornethos knows. A patrol of his cohort met the knights at the ford two winters ago and was told, by a knight who spoke the old Vilari of the kingdom, to go home; Ornethos reported nothing past his own door, because he is devout and because the knights were right about the smith. If the _karezos_, the _therkos_ or the Senate learns that the kingdom's knights are taking imperial subjects across the border, the empire has a quarrel with Nartun it cannot ignore, and the Two Lights become the place where it starts.

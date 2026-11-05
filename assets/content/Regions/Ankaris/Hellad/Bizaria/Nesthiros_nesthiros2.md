@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 70000, govern
 
 ## Overview
 
-[[place-khryshteikhos2|Krusteikhos]] has the gold, a Nesthirian says, but Nesthiros has the ships. The city sits on a fortress isle in the straits that carry its name, and it is the principal seaport of the [[affiliation-byzarianlg|Bizarian League]], the gateway where the overland caravan routes of the east meet the sea-trading powers of the west. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vylarian Sea]], and about 70,000 people live and work around it.
+[[place-khryshteikhos2|Krusteikhos]] has the gold, a Nesthirian says, but Nesthiros has the ships. The city sits on a fortress isle in the straits that carry its name, and it is the principal seaport of the [[affiliation-byzarianlg|Bizarian League]], the gateway where the overland caravan routes of the east meet the sea-trading powers of the west. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vilérian Sea]], and about 70,000 people live and work around it.
 
 ## The Waterfront
 
-The waterfront is a maze of warehouses, taverns and chandleries where a dozen languages can be heard on any given day. The docks are crowded with [[affiliation-cnfdrtntrzlnstts|Taruzelian]] merchantmen, Vylarian galleys and the occasional vessel from as far away as [[affiliation-kalihara|Kalihara]]. Inland, the city climbs a series of terraced hills, and the wealthier districts rise above the harbor's noise and smell. A Dunhari and a Khazryni merchant quarter keep their own tongues, faiths and law within the city.
+The waterfront is a maze of warehouses, taverns and chandleries where a dozen languages can be heard on any given day. The docks are crowded with [[affiliation-cnfdrtntrzlnstts|Taruzelian]] merchantmen, Vilérian galleys and the occasional vessel from as far away as [[affiliation-kalihara|Kalihara]]. Inland, the city climbs a series of terraced hills, and the wealthier districts rise above the harbor's noise and smell. A Dunhari and a Khazrini merchant quarter keep their own tongues, faiths and law within the city.
 
 ## Who Governs
 

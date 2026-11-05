@@ -3,14 +3,14 @@ shortcode: ownedoasis
 name: {full: The Owned Oasis, en: [Owned Water], sovi: [Bodek]}
 type: lore
 subType: custom
-description: "A tribe's small spring in the Khazryn—empty, unmarked to a stranger's eye, and never ungoverned: how ownership shows, how a traveler asks for guest-right, and what the owners do to one who camps without asking."
+description: "A tribe's small spring in the Khazrin—empty, unmarked to a stranger's eye, and never ungoverned: how ownership shows, how a traveler asks for guest-right, and what the owners do to one who camps without asking."
 tags: [reference, custom, scenario]
 data: {packFolder: settinglore, culture: sowidesclt}
 ---
 
 You come over a rise at dusk and the spring is there: a dozen palms, a ring of green, a pool the width of a cart, and no one. No tent, no fire, no herd, no track in the mud but your own. The camels have smelled it, and the guide you hired at the last well has gone quiet. He does not say why. He gets down from his saddle and begins to look at the ground.
 
-Most of the water in the [[place-khzryndsrtrgn|Khazryn]] is of this kind. A bodek, "owned water", is a spring or seep too small to settle, and every one belongs to a tribe. It is the tribe's winter fallback and its reserve for a drought, and it stands empty because the tribe is grazing elsewhere and comes only in its season. The owners rarely sit at it. They watch from a ridge more often than a stranger knows, and the first thing a traveler learns about a bodek is that it is never as empty as it looks.
+Most of the water in the [[place-khzryndsrtrgn|Khazrin]] is of this kind. A bodek, "owned water", is a spring or seep too small to settle, and every one belongs to a tribe. It is the tribe's winter fallback and its reserve for a drought, and it stands empty because the tribe is grazing elsewhere and comes only in its season. The owners rarely sit at it. They watch from a ridge more often than a stranger knows, and the first thing a traveler learns about a bodek is that it is never as empty as it looks.
 
 ## The Marks
 
@@ -58,7 +58,7 @@ The same spring can open a session three different ways.
 
 ## See Also
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the land and its tribes
 
 [[lore-celestialroad|The Celestial Road]]

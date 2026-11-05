@@ -3,7 +3,7 @@ shortcode: unpaidfort
 name: {full: The Unpaid Fort, en: [The Commission Fort]}
 type: place
 subType: site
-description: "A Vylarian-era fortress in the interior mountains of Hellád, held by a hereditary commander whose imperial commission stopped being paid in 619 AF, who files his report with the chancery every year and waits for the answer."
+description: "A Vilérian-era fortress in the interior mountains of Hellád, held by a hereditary commander whose imperial commission stopped being paid in 619 AF, who files his report with the chancery every year and waits for the answer."
 tags: [hellad, frontier, fortress]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   packFolder: hellad
 ---
 
-Every spring a rider leaves the fort for the coast with a sealed report addressed to the chancery in [[place-orzara|Orzara]], and every autumn the same rider comes back with nothing. **The Unpaid Fort** is a fortress of the Vylarian age in the interior mountains between [[place-helionis|Helionis]] and [[place-byzariargn|Bizaria]], and its commander has been writing to the [[affiliation-vylarinmpr|Empire]] since the Empire stopped paying him.
+Every spring a rider leaves the fort for the coast with a sealed report addressed to the chancery in [[place-orzara|Orzara]], and every autumn the same rider comes back with nothing. **The Unpaid Fort** is a fortress of the Vilérian age in the interior mountains between [[place-helionis|Helionis]] and [[place-byzariargn|Bizaria]], and its commander has been writing to the [[affiliation-vylarinmpr|Empire]] since the Empire stopped paying him.
 
 ## The Commission
 

@@ -3,7 +3,7 @@ shortcode: towercities
 name: {full: The Tower Cities, en: [The Lantern League]}
 type: lore
 subType: history
-description: "A league of caravan cities on the first road across the Khazryn, from about 1000 BF to about 190 BF, whose tall towers were lit at night so a string of camels could march in the cool hours and steer for the next well; the steppe sacked the last of them, and the road still drinks from the wells they dug."
+description: "A league of caravan cities on the first road across the Khazrin, from about 1000 BF to about 190 BF, whose tall towers were lit at night so a string of camels could march in the cool hours and steer for the next well; the steppe sacked the last of them, and the road still drinks from the wells they dug."
 tags: [history]
 data:
   packFolder: settinglore
@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [place-khzryndsrtrgn, place-jilaq, place-wilud, place-ruinsarkor]
       summary: >-
-        The caravan cities of the Tower League rise along the first road across the Khazryn, each with a light-tower in its crown that burns from sunset to dawn. They dig the deep wells the road still drinks from and hold together by one interest, the safe passage of goods, and one rule, that a city's light is never allowed to go out.
+        The caravan cities of the Tower League rise along the first road across the Khazrin, each with a light-tower in its crown that burns from sunset to dawn. They dig the deep wells the road still drinks from and hold together by one interest, the safe passage of goods, and one rule, that a city's light is never allowed to go out.
       standing: reconstructed
       where:
         locus: [place-jilaq]
@@ -67,7 +67,7 @@ A caravan that leaves a well at dusk and marches through the cool of the night n
 
 ## When
 
-The league rises about 1000 BF, four centuries after the [Varkhad]{.name data-type="lore/folk"} send their kin south into the deserts, and with [[affiliation-tantsouempr|Tantsou]] old enough to have silk worth carrying west. Its cities are traders' towns, strung along the first road across the waste, each a march of several days from the next. They hold together for some eight centuries by one interest, the safe passage of goods, and by one rule, that a city's light is never allowed to go out. The league ends about 190 BF, when the steppe tribes are forced into the first of their great unions and the cities that refused to pay it are taken one after another. The span, in [[lore-commoncal|the Vylarian Calendar]], is about 1000 BF to 190 BF; the [Vylarian Republic]{.name data-type="affiliation/polity"} is founded 350 years into it.
+The league rises about 1000 BF, four centuries after the [Varkhad]{.name data-type="lore/folk"} send their kin south into the deserts, and with [[affiliation-tantsouempr|Tantsou]] old enough to have silk worth carrying west. Its cities are traders' towns, strung along the first road across the waste, each a march of several days from the next. They hold together for some eight centuries by one interest, the safe passage of goods, and by one rule, that a city's light is never allowed to go out. The league ends about 190 BF, when the steppe tribes are forced into the first of their great unions and the cities that refused to pay it are taken one after another. The span, in [[lore-commoncal|the Vilérian Calendar]], is about 1000 BF to 190 BF; the [Vilérian Republic]{.name data-type="affiliation/polity"} is founded 350 years into it.
 
 ## What They Built
 

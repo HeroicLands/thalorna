@@ -27,7 +27,7 @@ data:
       - level: 2
         title: Kin of the House
         description: >-
-          Born or married into the Qizikuni and bearing the name, which every lender on the Vylarian Sea reads as the house's credit.
+          Born or married into the Qizikuni and bearing the name, which every lender on the Vilérian Sea reads as the house's credit.
       - level: 3
         title: Elder of the House
         description: >-
@@ -79,7 +79,7 @@ The head of the house is a small, plain-dressed woman of sixty-one who wears no 
 
 The Qizikuni are owed more than any house in Taruzel, and they are owed it by the Confederation, which pays the interest on the war loan before it pays anything else. What Tirmana wants is the treasury that collects it. The [[affiliation-merazuni|Merazuni]] keeps the Confederation's reserves, strikes its coin and clears its script, and its Kubasum answers to the [[affiliation-vezakuni|Vezakuni]], not to the Compact. Tirmana says in the Compact's councils that a treasury with small reserves should be kept by the people who hold its debt. She is pressing the [[affiliation-grandcouncil|Grand Council]] to order an audit of the Merazuni's strongroom, and she has a candidate of her own for the Kubasum's table.
 
-This season the house is collecting. The Compact's calls on what the cities and harbor towns owe come sooner and dearer, and the Qizikuni hold more of that paper than any other house. Tirmana's audit is on the summer session's order if [[being-dnshkmn|Danashu Kumuni]] gives it a place, and her candidate for the Kubasum's table is a Qizikuni clerk of the treasury's own ledger. She also means to sound the heads of the other four great houses, by sealed letter, on council seats that would pass from a head to an heir, so that the houses which sit in the councils now would sit there for good. Nobody has moved it in any council. She wants the [[affiliation-ordoarcanis|Thordimalon]] out of Besikar as Vylaria's instrument, and a mage of the Order has leased a house in the city through a broker of the Merchantry.
+This season the house is collecting. The Compact's calls on what the cities and harbor towns owe come sooner and dearer, and the Qizikuni hold more of that paper than any other house. Tirmana's audit is on the summer session's order if [[being-dnshkmn|Danashu Kumuni]] gives it a place, and her candidate for the Kubasum's table is a Qizikuni clerk of the treasury's own ledger. She also means to sound the heads of the other four great houses, by sealed letter, on council seats that would pass from a head to an heir, so that the houses which sit in the councils now would sit there for good. Nobody has moved it in any council. She wants the [[affiliation-ordoarcanis|Thordimalon]] out of Besikar as Viléria's instrument, and a mage of the Order has leased a house in the city through a broker of the Merchantry.
 
 ## Meeting the House
 

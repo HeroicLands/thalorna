@@ -3,7 +3,7 @@ shortcode: sorvan
 name: {full: The Imperial Guard, en: [The Guardsmen], vyl: [The Sorvan]}
 type: affiliation
 subType: venture
-description: "The Sorvan, the imperial guard of Vylaria—the Orzas's personal bodyguard and the keepers of order within the Inner City of Orzara; recruited and promoted apart from the line legions, answerable to the throne alone, and powerful enough that the body best placed to guard an Orzas is also the body best placed to unmake one."
+description: "The Sorvan, the imperial guard of Viléria—the Orzas's personal bodyguard and the keepers of order within the Inner City of Orzara; recruited and promoted apart from the line legions, answerable to the throne alone, and powerful enough that the body best placed to guard an Orzas is also the body best placed to unmake one."
 tags: []
 data:
   culture: vylarianclt
@@ -76,7 +76,7 @@ Its charge is twofold: the imperial person, and the peace of the Inner City. Wit
 
 The central fact of the Sorvan, the one that shapes every reign, is that the body best placed to guard an Orzas is also the body best placed to unmake one. The guard holds the palace, the citadel and the armed initiative at the very heart of the empire. If it withdraws its protection at the wrong moment, or extends it to the wrong claimant, it can end a reign in a single night without a legion ever marching.
 
-Every reigning Orzas therefore courts the guard's loyalty with deliberate care. He pays donatives on accession and at intervals after. He grants privileges and prestige. He watches the officers who command the watches and could, between them, decide a succession. A throne that neglects the guard is living on borrowed time, and a throne that buys it too nakedly teaches the guard the price of its own loyalty, which is its own danger. The management of the Sorvan is one of the permanent arts of Vylarian rulership, and the histories are full of Orzoi who mastered it and Orzoi who did not. The first instance is the sixteen years in which the guard opened its gates to a claimant of its own ([[lore-brkensuccsn|The Broken Succession]]).
+Every reigning Orzas therefore courts the guard's loyalty with deliberate care. He pays donatives on accession and at intervals after. He grants privileges and prestige. He watches the officers who command the watches and could, between them, decide a succession. A throne that neglects the guard is living on borrowed time, and a throne that buys it too nakedly teaches the guard the price of its own loyalty, which is its own danger. The management of the Sorvan is one of the permanent arts of Vilérian rulership, and the histories are full of Orzoi who mastered it and Orzoi who did not. The first instance is the sixteen years in which the guard opened its gates to a claimant of its own ([[lore-brkensuccsn|The Broken Succession]]).
 
 ## Recruitment and Standing
 
@@ -134,7 +134,7 @@ At the officers' supper in the cookshop below the camp, two watches hold to Kolv
 [[place-arvon|Arvon]]
 : the Inner City they garrison
 
-[[affiliation-vylrnmltry|The Vylarian Military]]
+[[affiliation-vylrnmltry|The Vilérian Military]]
 : the line legions and the City Watch, kept separate from the guard
 
 [[affiliation-verdanorzara|Verdan Orzara]]

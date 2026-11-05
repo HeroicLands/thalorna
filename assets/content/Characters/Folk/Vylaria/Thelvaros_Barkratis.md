@@ -37,7 +37,7 @@ Thelvaros Barkratis is a 64-year-old man who stands 6'3" tall and is of heavy bu
 
 # Dossier {#dossier}
 
-Lord Thelvaros Barkratis is the head of [House Barkratis]{.name data-type="affiliation/lineage"}, a noble family of the [[affiliation-vylarinmpr|Vylarian Empire]] in [[place-salkhalon|Salkalon]] whose old prominence had faded into obscurity and reduced means by the time his daughter was born. That daughter is [[being-krmdnsbrkrtys|Koremdanis Barkratis]], counted the foremost swordmaster of the empire, and her renown has raised the house from a declining name to one of prestige in the province. He keeps the house among the estate families of [[place-terravia|Therkara]], in the province's inland country.
+Lord Thelvaros Barkratis is the head of [House Barkratis]{.name data-type="affiliation/lineage"}, a noble family of the [[affiliation-vylarinmpr|Vilérian Empire]] in [[place-salkhalon|Salkalon]] whose old prominence had faded into obscurity and reduced means by the time his daughter was born. That daughter is [[being-krmdnsbrkrtys|Koremdanis Barkratis]], counted the foremost swordmaster of the empire, and her renown has raised the house from a declining name to one of prestige in the province. He keeps the house among the estate families of [[place-terravia|Therkara]], in the province's inland country.
 
 ## Background
 

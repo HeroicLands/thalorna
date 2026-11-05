@@ -443,7 +443,7 @@ A border lord whose place at the state's offerings Garlindris lowered by one ste
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Citizen, holding the citizenship by his house's station, with its appeal at law and its taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Citizen, holding the citizenship by his house's station, with its appeal at law and its taxes.
 - **[[affiliation-ardavon|Faith of Árdavon]]**: one of the lay faithful, the Devran, who keeps the feasts of the Keeper of the Gates without office in the temple.
 
 ## Plot Hooks

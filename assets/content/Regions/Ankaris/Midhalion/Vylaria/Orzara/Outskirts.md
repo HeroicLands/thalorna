@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-[[place-orzara|Orzara City]] is made outside itself. Beyond the Clearance, the swept strip of open ground that rings the city, sprawl the outskirt communities, the Anthrima in [[skill-vylarilng|Vylari Language]], "beyond the line": the unplanned, half-legal overflow of a city that outgrew its bounds long ago, and the home of most of the people who keep it running. The right to dwell inside the thrima belongs to citizens and their sponsored servants alone, so nearly half a million resident laborers, journeymen and migrants live out here, and so do all the trades the city will not house. The smithies and foundries, the potteries, the timber- and stone-yards and the stinking trades crowd the ground downwind and downriver, the gate-yards ring every gate, and the walled garden-villas of the very rich stand apart on the pleasanter hills and riverbanks.
+[[place-orzara|Orzara City]] is made outside itself. Beyond the Clearance, the swept strip of open ground that rings the city, sprawl the outskirt communities, the Anthrima in [[skill-vylarilng|Vilari Language]], "beyond the line": the unplanned, half-legal overflow of a city that outgrew its bounds long ago, and the home of most of the people who keep it running. The right to dwell inside the thrima belongs to citizens and their sponsored servants alone, so nearly half a million resident laborers, journeymen and migrants live out here, and so do all the trades the city will not house. The smithies and foundries, the potteries, the timber- and stone-yards and the stinking trades crowd the ground downwind and downriver, the gate-yards ring every gate, and the walled garden-villas of the very rich stand apart on the pleasanter hills and riverbanks.
 
 A teamster who has driven wagons to the capital's gates for thirty years tells every new driver what to expect when the city comes in sight: "You will see the marble from a day out and the smoke from two. The smoke is where you are going. Nothing with a wheel or a hoof goes in through the gate, so you unhitch in the yards and sleep in the yards, and your load goes in on somebody's back. Keep your blade in the wagon. Out here nobody cares what you carry, and at the gate everybody does."
 
@@ -36,7 +36,7 @@ The smiths of the Smoke keep the feast of [[lore-ustarondty|Ústaron]], the Forg
 
 ### The Steel Town
 
-At the heart of the Smoke, behind a wall of brick three times a man's height, stands [Thalbezara]{.name data-type="place/site"}, the Steel Town, where [[miscgear-vylsteel|Vylarian Steel]] is made. It is the walled foundry-town of the [Steel Guild]{.name data-type="affiliation/guild"}, the Thalbezalon, and nobody goes through its single gate unless he belongs to the guild or has been sent for. From outside a visitor sees the wall, the gate with the guild's mark carved over it, and the tops of a dozen chimneys that smoke day and night.
+At the heart of the Smoke, behind a wall of brick three times a man's height, stands [Thalbezara]{.name data-type="place/site"}, the Steel Town, where [[miscgear-vylsteel|Vilérian Steel]] is made. It is the walled foundry-town of the [Steel Guild]{.name data-type="affiliation/guild"}, the Thalbezalon, and nobody goes through its single gate unless he belongs to the guild or has been sent for. From outside a visitor sees the wall, the gate with the guild's mark carved over it, and the tops of a dozen chimneys that smoke day and night.
 
 The guild is chartered under the Smiths' Federation of [[affiliation-tevran|Great College of Guilds]], and it holds the most famous _kelthon_ in the Empire: a kept secret, a technique held as property of the same order as land, inherited by an heir and sued over in court. Steel, _thalbezon_, is the guild's word, and it is never used of the common iron a village smith beats out. The guild's masters, the _gartoi_, each hold a bench, which is to say a share in the secret, and the masters' families are known in the trade abroad as the Steel Houses. An apprentice is bound to a bench for seven years and swears the guild's oath at the Sacred Forge's altar before he is let into the workshops. Every finished piece is struck with the guild's mark, its _thumisa_, and with the mark of the bench that made it.
 
@@ -64,7 +64,7 @@ It is dirtier, wilder and more lawless out here than within, and it swells and s
 
 ## History {#history}
 
-The city outgrew its bounds long ago. The thrima walked at the founding fixed where Orzara ends in law, the Clearance was kept swept outside it, and the district law that keeps the forges and the foul trades out of the city put them out here, beyond the line. The Steel Guild walled its foundry-town in the Smoke around the secret of [Vylarian Steel]{.name data-type="miscgear"}. The outskirts have swollen in lean years and shrunk in good ones, and the lean-tos on the Clearance have come and gone with them.
+The city outgrew its bounds long ago. The thrima walked at the founding fixed where Orzara ends in law, the Clearance was kept swept outside it, and the district law that keeps the forges and the foul trades out of the city put them out here, beyond the line. The Steel Guild walled its foundry-town in the Smoke around the secret of [Vilérian Steel]{.name data-type="miscgear"}. The outskirts have swollen in lean years and shrunk in good ones, and the lean-tos on the Clearance have come and gone with them.
 
 ## What the Outskirts Fear {#present}
 
@@ -74,7 +74,7 @@ The outskirts fear a bad year, and this one is lean. When the grain comes short 
 
 - **The broken-down load.** A teamster's wagon was unloaded in the Hilen Gate's yard, and one of the crates never reached the gate. The teamster pays a party to find which porter carried it and where it went.
 - **The lean-tos.** The Watch means to clear the Clearance below the Salkalon Gate tomorrow at dawn, and the people living on it have nowhere to go. A Sacred Forge priest asks a party to find them room before the Watch arrives.
-- **The forged mark.** A blade bought in the Gilded Quarter as Vylarian Steel broke on its first blow, and it carries a perfect guild mark. The guild's _kelros_ hires a party to find who cut the mark, quietly, before the price of true blades falls.
+- **The forged mark.** A blade bought in the Gilded Quarter as Vilérian Steel broke on its first blow, and it carries a perfect guild mark. The guild's _kelros_ hires a party to find who cut the mark, quietly, before the price of true blades falls.
 - **The sent-for.** A party is summoned through Thalbezara's gate by a master of the guild who will not say why in writing.
 
 ## See Also
@@ -94,7 +94,7 @@ The outskirts fear a bad year, and this one is lean. When the grain comes short 
 [[place-necropolisorzara|Necropolis of Orzara]]
 : the city of the dead beyond the Clearance
 
-[[doc-vylrnctznshp|Vylarian Citizenship]]
+[[doc-vylrnctznshp|Vilérian Citizenship]]
 : why the working city lives outside the line
 
 [[place-alyssa|Alessa]]
@@ -102,7 +102,7 @@ The outskirts fear a bad year, and this one is lean. When the grain comes short 
 
 # The Truth of the Steel Town {#truth .secret}
 
-The guild has lost a third of its secret. The _kelthon_ of Vylarian Steel is held in three parts, and no master holds more than one: the Bench of the Clay knows how the crucibles are made and of what earth, the Bench of the Charge knows what goes into each crucible with the iron, and the Bench of the Fire knows how long, how hot and how slowly each firing runs. Each part passes from a master to his heir by word, and the guild's oath forbids writing any of it down. Forty years ago the last master of the Bench of the Fire died before he had adopted an heir, and the whole of his part died with him.
+The guild has lost a third of its secret. The _kelthon_ of Vilérian Steel is held in three parts, and no master holds more than one: the Bench of the Clay knows how the crucibles are made and of what earth, the Bench of the Charge knows what goes into each crucible with the iron, and the Bench of the Fire knows how long, how hot and how slowly each firing runs. Each part passes from a master to his heir by word, and the guild's oath forbids writing any of it down. Forty years ago the last master of the Bench of the Fire died before he had adopted an heir, and the whole of his part died with him.
 
 The guild has rebuilt the firing by trial, melt after melt, and its steel is still the best on the [[place-ankrscntnnt|Ankaris Continent]]. It is not the old steel. The watered blades, whose surface shows a pattern like moving water and which bend double and spring back, have not come out of Thalbezara since the old master died. The guild has said nothing. For the highest commissions, a great house's sword or a gift from the throne to a foreign crown, it sells blades from the old master's time, kept in the guild's strongroom since his death, re-hilted and struck with a new year's mark. There are thirty-one left.
 

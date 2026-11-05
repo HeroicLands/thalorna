@@ -14,11 +14,11 @@ data: {demonym: null, lore: [], parents: [helionis], population: 40000, governme
 
 ## The Harbor
 
-The city is built around its great harbor, a natural bay sheltered by rocky headlands, one of the finest anchorages in the central sea. The waterfront is a forest of masts—warships, merchant vessels, and fishing boats packed together in organized chaos. [[affiliation-pelagora|Pelagora]] commands the most important harbors in Helionis and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its shipwrights build the fastest galleys on that sea, and its fleet is the largest in the region.
+The city is built around its great harbor, a natural bay sheltered by rocky headlands, one of the finest anchorages in the central sea. The waterfront is a forest of masts—warships, merchant vessels, and fishing boats packed together in organized chaos. [[affiliation-pelagora|Pelagora]] commands the most important harbors in Helionis and controls the sea lanes of the eastern [[place-vylarianse|Vilérian Sea]]. Its shipwrights build the fastest galleys on that sea, and its fleet is the largest in the region.
 
 ## Making a Living
 
-Pelagora is more commercial than scholarly [[place-thyrenae2|Thirenae]]. Its merchants are wealthy and influential, and its markets are stocked with goods from across the sea. The fleet earns the city its standing as well as its living: its admirals have defended Helionite waters against [[affiliation-cnfdrtntrzlnstts|Taruzelian]] incursions, Vylarian ambitions and the occasional pirate fleet.
+Pelagora is more commercial than scholarly [[place-thyrenae2|Thirenae]]. Its merchants are wealthy and influential, and its markets are stocked with goods from across the sea. The fleet earns the city its standing as well as its living: its admirals have defended Helionite waters against [[affiliation-cnfdrtntrzlnstts|Taruzelian]] incursions, Vilérian ambitions and the occasional pirate fleet.
 
 ## The Treaty
 

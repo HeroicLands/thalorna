@@ -47,7 +47,7 @@ Selvin is building faster than at any time since the fire, and the money comes f
 
 ## History {#history}
 
-Selvin was a hill of gardens while the [Vylarian Republic]{.name data-type="affiliation/polity"} lived on [[place-antel|The Old Hill]]. When the first Orzas walled the crown of Arvel and moved the Senate up from Antel ([[lore-eaglecityrse|The Raising of the Eagle City]]), the great families began to follow the Senate across the saddle, and Selvin, close to Arvel and still open, took the first of them. The six days of fire that ran from the [[place-warrensorz|Warrens]] over Antel about 403 sent most of the rest ([[lore-greatburnng|The Great Burning]]), and they rebuilt on Selvin rather than go back. The hill has been the address of the rising since. House Mardovanes built near its crown, and the house gave the Empire the Orzas Azénales, who reigned from about 604 to 619.
+Selvin was a hill of gardens while the [Vilérian Republic]{.name data-type="affiliation/polity"} lived on [[place-antel|The Old Hill]]. When the first Orzas walled the crown of Arvel and moved the Senate up from Antel ([[lore-eaglecityrse|The Raising of the Eagle City]]), the great families began to follow the Senate across the saddle, and Selvin, close to Arvel and still open, took the first of them. The six days of fire that ran from the [[place-warrensorz|Warrens]] over Antel about 403 sent most of the rest ([[lore-greatburnng|The Great Burning]]), and they rebuilt on Selvin rather than go back. The hill has been the address of the rising since. House Mardovanes built near its crown, and the house gave the Empire the Orzas Azénales, who reigned from about 604 to 619.
 
 ## Hooks {#hooks}
 

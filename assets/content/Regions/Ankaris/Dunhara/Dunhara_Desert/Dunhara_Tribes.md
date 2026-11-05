@@ -103,7 +103,7 @@ The tribes hold the overland roads that run east from Taruzel and the coast of t
 
 ## Commerce and Currency
 
-The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] and through [[lore-kinhalcrdt|Kin and Hall Credit]]: livestock, goods and the obligations of kinship carry nearly every bargain, and the desert economy has never taken up coin. Foreign money reaches the tribes through the caravans—Vylarian argos from the western trade, Khelathi gezan from the south—and is valued for its metal, as a good among goods, not as currency.
+The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] and through [[lore-kinhalcrdt|Kin and Hall Credit]]: livestock, goods and the obligations of kinship carry nearly every bargain, and the desert economy has never taken up coin. Foreign money reaches the tribes through the caravans—Vilérian argos from the western trade, Khelathi gezan from the south—and is valued for its metal, as a good among goods, not as currency.
 
 ## See Also
 
@@ -131,7 +131,7 @@ The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the western trade terminus
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the northern neighbor
 
 [[place-vedyarargn|Vedyara Region]]

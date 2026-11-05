@@ -51,7 +51,7 @@ data:
   packFolder: nordlands
 ---
 
-Ask a Nordman when a thing happened and he answers with a sitting: "the thirty-fourth sitting", "two sittings before the fleets went south", "the year before the sixty-third." **The Domsey count** is the reckoning behind the answer. It numbers the years from the first time the five kings sat together on [[place-domsey|Domsey]], in 287 AF by [[lore-commoncal|the Vylarian reckoning]], and because the kings have sat there every seventh year since, a year of the count divides by seven into a sitting. The present year is the four hundred and thirty-fourth of the count, written 434 PR, and the sixty-third sitting falls at the next [[lore-sumarmal|Somarmál]].
+Ask a Nordman when a thing happened and he answers with a sitting: "the thirty-fourth sitting", "two sittings before the fleets went south", "the year before the sixty-third." **The Domsey count** is the reckoning behind the answer. It numbers the years from the first time the five kings sat together on [[place-domsey|Domsey]], in 287 AF by [[lore-commoncal|the Vilérian reckoning]], and because the kings have sat there every seventh year since, a year of the count divides by seven into a sitting. The present year is the four hundred and thirty-fourth of the count, written 434 PR, and the sixty-third sitting falls at the next [[lore-sumarmal|Somarmál]].
 
 ## Three Ways to Date an Event
 
@@ -78,7 +78,7 @@ A date is written as the night and the turn, then the count year and its age: th
 
 The skalds divide the count into ages, each named for what the north did in it, and a Nordman who cannot give a year can usually give the age. The ages are the Circle's teaching, not a law, and the kingdoms argue about where one ends and the next begins.
 
-| Age                       | Written | Its years (count)       | Vylarian years     |
+| Age                       | Written | Its years (count)       | Vilérian years     |
 | ------------------------- | ------- | ----------------------- | ------------------ |
 | Before the Sittings       | BS      | counted back from 1 BS  | 286 AF and earlier |
 | The Five Crowns           | FC      | 1 to 134                | 287 to 420         |
@@ -145,5 +145,5 @@ Nobody by office. The Lawspeakers of the five kingdoms count the sittings, becau
 [[lore-sumarmal|Somarmál]] · [[lore-midsumar|Midsomar]] · [[lore-veturnetur|Veturnetur]] · [[lore-jol|Jel]]
 : the four turns of the year
 
-[[lore-commoncal|The Vylarian Calendar]]
+[[lore-commoncal|The Vilérian Calendar]]
 : the reckoning these pages give beside the count

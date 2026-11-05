@@ -6,7 +6,7 @@ name:
   vyl: [Kalzothalon]
 type: affiliation
 subType: governmental
-description: "The Kalzothalon, the Imperial College of Heralds: the desk of the Imperial Offices that keeps the roll of arms, marks, liveries and precedence of every house of the Vylarian Empire, settles who stands where before the throne, and sends heralds in the throne's name."
+description: "The Kalzothalon, the Imperial College of Heralds: the desk of the Imperial Offices that keeps the roll of arms, marks, liveries and precedence of every house of the Vilérian Empire, settles who stands where before the throne, and sends heralds in the throne's name."
 tags: [organization, vylaria, imperial, orzara]
 data:
   culture: vylarianclt
@@ -52,7 +52,7 @@ A herald teaching a pursuivant the roll begins with the funeral of a founding ho
 
 ## Overview
 
-The Imperial College of Heralds, the Kalzothalon in [[skill-vylarilng|Vylari]], is the desk of arms and precedence of the [[affiliation-imperialoffices|Imperial Offices]], the bureaucracy of the Vylarian throne in [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara City]]. Its heralds know every house's arms, marks and liveries and the order in which the houses of the [[affiliation-vylarinmpr|Vylarian Empire]] stand before the throne. No act of the throne is proclaimed, no embassy received and no funeral of a founding house held until a herald has settled who stands where. The College also sends heralds in the throne's name: to read an act aloud in a provincial forum, to stand at a foreign court's coronation, and to walk in a great house's funeral procession as the throne's witness.
+The Imperial College of Heralds, the Kalzothalon in [[skill-vylarilng|Vilari]], is the desk of arms and precedence of the [[affiliation-imperialoffices|Imperial Offices]], the bureaucracy of the Vilérian throne in [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara City]]. Its heralds know every house's arms, marks and liveries and the order in which the houses of the [[affiliation-vylarinmpr|Vilérian Empire]] stand before the throne. No act of the throne is proclaimed, no embassy received and no funeral of a founding house held until a herald has settled who stands where. The College also sends heralds in the throne's name: to read an act aloud in a provincial forum, to stand at a foreign court's coronation, and to walk in a great house's funeral procession as the throne's witness.
 
 The College is small beside the Offices' other desks. A few dozen heralds and their pursuivants work in the compound, and as many again teach and keep the roll in country houses outside the capital.
 
@@ -97,11 +97,11 @@ The College's present quarrel is the succession. The reigning Orzas is old and h
 
 The College is the cover for the throne's own intelligence network. Lord Aimilon Visbari is the Orzas's spymaster, as his father was before him, and the network of informants and agents he inherited and has widened runs through every level of society from Provénzia to Taruzel. The College gives its heralds a reason to be at every court, every funeral and every embassy, and its roll gives them a reason to ask about every marriage and every heir. Most heralds know nothing of the network. Aimilon has no children, and he is looking for a successor among people the College has never heard of.
 
-**The rival services.** Four bodies gather intelligence for Vylarian masters, and they watch one another as closely as they watch anyone abroad.
+**The rival services.** Four bodies gather intelligence for Vilérian masters, and they watch one another as closely as they watch anyone abroad.
 
 - **The throne's network**, in the College, under Aimilon. It answers to the Orzas alone, and the Orzas keeps the relationship concealed.
 - **The Sekran's informants.** [[affiliation-sekran|The Arcane Inquisition]] runs its own network across western Ankaris to report unsanctioned magic. It overlaps the throne's without being part of it, and the senior _sekeroi_ and the throne's spymasters trade favors and watch one another.
 - **The Order's own operatives.** The [[affiliation-ordoarcanis|Thordimalon]] keeps intelligence operatives beyond the Sekran's hunters, drawn heavily from its Fellowship of Air, and its masters read the powerful by divination. The court plants agents in the Order's administration, and the Order knows it.
-- **The Seldan's agents abroad.** [[affiliation-seldan|The Vylarian Senate]] runs its own apparatus, which plants agents inside foreign embassies and pays them with coin and the promise of a place in the Empire's diplomatic service.
+- **The Seldan's agents abroad.** [[affiliation-seldan|The Vilérian Senate]] runs its own apparatus, which plants agents inside foreign embassies and pays them with coin and the promise of a place in the Empire's diplomatic service.
 
 The four cooperate when the Empire is threatened and betray one another on purpose when it is not. A report that reaches the Orzas through the College has often passed through one of the other three on the way, and the College cannot always tell which.

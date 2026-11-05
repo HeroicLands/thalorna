@@ -3,15 +3,15 @@ shortcode: provnchyln
 name: {full: Province of Hilen}
 type: affiliation
 subType: polity
-description: "The breadbasket province of the Vylarian Empire—fertile lowlands and terraced hill-country of vast aristocratic estates producing the grain, wine, and oil that feed the empire, and the most conservative, tradition-bound region of Vylarian politics."
+description: "The breadbasket province of the Vilérian Empire—fertile lowlands and terraced hill-country of vast aristocratic estates producing the grain, wine, and oil that feed the empire, and the most conservative, tradition-bound region of Vilérian politics."
 data:
   templatePriority: null
-  demonym: Vylarian
+  demonym: Vilérian
   epithet: null
   symbol: null
   governance:
     model: monarchy
-    summary: Agricultural heartland province of the Vylarian Empire, governed by an imperial appointee.
+    summary: Agricultural heartland province of the Vilérian Empire, governed by an imperial appointee.
     ranks:
       - level: 0
         title: Proscribed
@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Province of Hilen holds the land of [[place-hylen|Hilen]], and its landed aristocracy is the most conservative faction in Vylarian politics: traditionalist, suspicious of change, and deeply invested in the old social order. The _therkos_ (governor) sits at [[place-aravantia|Aravantara]].
+The Province of Hilen holds the land of [[place-hylen|Hilen]], and its landed aristocracy is the most conservative faction in Vilérian politics: traditionalist, suspicious of change, and deeply invested in the old social order. The _therkos_ (governor) sits at [[place-aravantia|Aravantara]].
 
 A steward of one of the great estates, asked by a visiting _gulmen_ (equestrian) what Hilen makes of the [[affiliation-ordoarcanis|Thordimalon]] and its growing weight at court, does not trouble to be polite: "The [[affiliation-vylarinmpr|empire]] was built on soldiers and farmers. The mages and the money-changers came afterward, and they will be gone before the vines are."
 
@@ -87,11 +87,11 @@ Most of the province's people live outside its towns, in the villages that belon
 
 The estate lords live well, though not with the ostentatious wealth of the capital. Theirs is the quiet confidence of people who know that everyone else depends on what they grow.
 
-They resist the growing influence of the merchant class and of the Arcane Order alike, and they see themselves as the true guardians of Vylarian tradition. That makes Hilen a bastion of the [[affiliation-imperialcult|Imperial Cult]] and of the traditional practices of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. The estates have a horror of civil war that the Empire's other provinces do not share, because the one battle the Empire fought between its own legions was fought on an estate of this province ([[lore-olcassabtl|The Battle of Olkassa]]). The field itself is [[place-olcassafld|the Blood-field of Olkassa]].
+They resist the growing influence of the merchant class and of the Arcane Order alike, and they see themselves as the true guardians of Vilérian tradition. That makes Hilen a bastion of the [[affiliation-imperialcult|Imperial Cult]] and of the traditional practices of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. The estates have a horror of civil war that the Empire's other provinces do not share, because the one battle the Empire fought between its own legions was fought on an estate of this province ([[lore-olcassabtl|The Battle of Olkassa]]). The field itself is [[place-olcassafld|the Blood-field of Olkassa]].
 
 ## Notable Features
 
-- The conservative stronghold of traditional Vylarian values
+- The conservative stronghold of traditional Vilérian values
 - A minimal Thordimalon (the Arcane Order) presence, because the aristocracy keeps the Arcane Order at arm's length
 
 ## Life in the Province
@@ -113,7 +113,7 @@ The province is governed by an outsider and run by its houses. The _therkos_ (go
 
 ## Commerce and Currency
 
-The Province of Hilen uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Province of Hilen uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## History {#history}
 
@@ -123,7 +123,7 @@ About 224 the high priesthood of [[place-nartum|Nartun]] withdrew from imperial 
 
 When the Orzas Barnakis died in 389 with no heir named, the Guard, the Senate and the legions of Moktur each acclaimed a man of their own ([[lore-brkensuccsn|The Broken Succession]]). Whoever held Hilen's granaries held the capital's bread, and about 401 the Senate's army and the Moktur legions met on the Olkassa estate, legions against legions under the same eagle with no quarter given ([[lore-olcassabtl|The Battle of Olkassa]]). Makandas won the field and lost half his army on it, and the harvest was lost with the granaries. About 403 the bread ran short in Orzara, the dole went unpaid and the capital burned for six days ([[lore-greatburnng|The Great Burning]]). About 406 Makandas took the city and founded the house that still reigns ([[lore-restorehouse|The Restoration]]).
 
-The field is farmed again, and the best wheat in Hilen comes off [[place-olcassafld|the Blood-field of Olkassa]], which the reapers cut round. The great houses took the war as a family's worst memory. A Hilen house does not applaud a general who marches on another Vylarian army, and the province has a horror of civil war that the Empire's other provinces do not share.
+The field is farmed again, and the best wheat in Hilen comes off [[place-olcassafld|the Blood-field of Olkassa]], which the reapers cut round. The great houses took the war as a family's worst memory. A Hilen house does not applaud a general who marches on another Vilérian army, and the province has a horror of civil war that the Empire's other provinces do not share.
 
 ## Hooks {#hooks}
 
@@ -133,7 +133,7 @@ The field is farmed again, and the best wheat in Hilen comes off [[place-olcassa
 
 ## See Also
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : parent polity
 
 [[place-hylen|Hilen]]

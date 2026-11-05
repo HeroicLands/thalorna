@@ -3,15 +3,15 @@ shortcode: provincvld
 name: {full: Province of Salkalon}
 type: affiliation
 subType: polity
-description: "The maritime province of the Vylarian Empire—its coast lined with shipyards, naval bases, fishing towns, and cosmopolitan trade harbors, its interior given to agrarian estates; Vylaria's face to the sea and its most commercially minded region."
+description: "The maritime province of the Vilérian Empire—its coast lined with shipyards, naval bases, fishing towns, and cosmopolitan trade harbors, its interior given to agrarian estates; Viléria's face to the sea and its most commercially minded region."
 data:
   templatePriority: null
-  demonym: Vylarian
+  demonym: Vilérian
   epithet: null
   symbol: null
   governance:
     model: monarchy
-    summary: Maritime/commercial province of the Vylarian Empire, governed by an imperial appointee.
+    summary: Maritime/commercial province of the Vilérian Empire, governed by an imperial appointee.
     ranks:
       - level: 0
         title: Proscribed
@@ -97,7 +97,7 @@ The loss of Taruzel hit Salkalon hardest. Before the war of independence, its po
 
 Salkalon is the empire's seafront: a long worked coast of harbors, shipyards, curing-sheds and fishing fleets, backed by an inland belt of farm estates that feed the ports. The coast lives by the sea, with the navy at [[place-castamar|Kastamar]], trade at Delalara and fish everywhere between. The interior around [[place-terravia|Therkara]] is quiet estate-country, closer in temper to [[place-hylen|Hilen]].
 
-Power is divided three ways among the merchant houses of Delalara, the naval command at Kastamar, and the imperial customs that tax it all. Since Taruzel's secession broke Vylarian sea-supremacy, all three are anxious and at odds, and the constant friction is between merchants who want Taruzelian trade and admirals who want Taruzelian blood.
+Power is divided three ways among the merchant houses of Delalara, the naval command at Kastamar, and the imperial customs that tax it all. Since Taruzel's secession broke Vilérian sea-supremacy, all three are anxious and at odds, and the constant friction is between merchants who want Taruzelian trade and admirals who want Taruzelian blood.
 
 The province has been raided from the north once. In 523 a crew out of [[lore-southrnfleets|the Southern Fleets]] brought a captured galley through the western strait to the bay of [[place-braldvik|Bralvik]], lost it to a Kastamar squadron whose fire burned the village's boats with it, and went to the imperial oars the next spring; the town still carries their name for it and still bills the admiralty for the boats.
 
@@ -117,7 +117,7 @@ Behind them all the province's trade passes a strait where the Taruzelian admira
 
 ## Commerce and Currency
 
-The Province of Salkalon uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Province of Salkalon uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## History {#history}
 
@@ -135,7 +135,7 @@ The war that cost the province most was Taruzel's. The islands rose in 707 ([[lo
 
 ## See Also
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : parent polity
 
 [[place-salkhalon|Salkalon]]
@@ -144,7 +144,7 @@ The war that cost the province most was Taruzel's. The islands rose in 707 ([[lo
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : commercial rival and trading partner
 
-[[place-vylarianse|Vylarian Sea]]
+[[place-vylarianse|Vilérian Sea]]
 : maritime domain
 
 [[affiliation-provinclys|Province of Alessa]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]]

@@ -3,7 +3,7 @@ shortcode: horngorgebtl
 name: {full: The Battle of the Horn Gorge, en: [The Fourth Expedition]}
 type: lore
 subType: history
-description: "About 143 AF the fourth Vylarian expedition into Asturath, the worst under the Orzas Zoranthos, was let into the gorge below the plateau of Lezkora by the mountain lord Tórsaro, who closed both ends, and the legion died there in two days."
+description: "About 143 AF the fourth Vilérian expedition into Asturath, the worst under the Orzas Zoranthos, was let into the gorge below the plateau of Lezkora by the mountain lord Tórsaro, who closed both ends, and the legion died there in two days."
 tags: [history]
 data:
   packFolder: tarvenia
@@ -18,7 +18,7 @@ data:
         - affiliation-kngdmstrth
         - affiliation-vylrnmltry
       summary: >-
-        The fourth expedition into Asturath climbs toward the plateau of Lezkora under the Orzas Zoranthos's felzos. The mountain lord Tórsaro lets it into the gorge below the plateau, closes both ends, and the legion dies over two days among the rocks. Vylaria never sends another; it holds the lowland approaches and leaves the mountains alone.
+        The fourth expedition into Asturath climbs toward the plateau of Lezkora under the Orzas Zoranthos's felzos. The mountain lord Tórsaro lets it into the gorge below the plateau, closes both ends, and the legion dies over two days among the rocks. Viléria never sends another; it holds the lowland approaches and leaves the mountains alone.
       standing: attested
       names:
         - {name: the Horn Gorge, by: affiliation-kngdmstrth}
@@ -70,7 +70,7 @@ The mountain lord [Tórsaro]{.name data-type="being/npc"} knew that a legion wou
 
 ## What the Empire Did
 
-[[affiliation-vylarinmpr|Vylaria]] never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of [[lore-westernwars|the Western Wars]] says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgment.
+[[affiliation-vylarinmpr|Viléria]] never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of [[lore-westernwars|the Western Wars]] says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgment.
 
 ## What It Left
 
@@ -83,4 +83,4 @@ The mountain lord [Tórsaro]{.name data-type="being/npc"} knew that a legion wou
 - [[place-horngorge|The Horn Gorge]]—the ground the battle left
 - [[affiliation-kngdmstrth|Kingdom of Asturath]] · [[place-lezkora|Lezkora]]
 - [[lore-lowlandstaken|The Lowlands Taken]]—the conquest that led up to it
-- [[lore-westernwars|The Western Wars]]—the Vylarian account of the expeditions
+- [[lore-westernwars|The Western Wars]]—the Vilérian account of the expeditions

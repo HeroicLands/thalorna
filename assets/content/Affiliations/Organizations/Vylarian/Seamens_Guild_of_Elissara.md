@@ -66,15 +66,15 @@ The _korvelos_ is chosen every year on the first day of the sailing year, when t
 ## Relations
 
 - **The owners and captains** of Elissara are the guild's employers and its standing quarrel. The owners want crews of their own choosing and wages they set themselves, and the roll gives them neither. They outvote the seamen on the Tevran of Elissara, where every guild has one seat and the small craft guilds side with whoever pays them.
-- **The [[affiliation-vylarinmpr|Vylarian Empire]]'s fleet** is short of seamen and is paying the guild for copies of its roll.
-- **[[affiliation-cnfdrtntrzlnstts|Taruzel]]**'s privateers take Vylarian ships on the eastern runs, and a hand taken by them comes home, if he comes home, to a guild that pays nothing for ransoms.
+- **The [[affiliation-vylarinmpr|Vilérian Empire]]'s fleet** is short of seamen and is paying the guild for copies of its roll.
+- **[[affiliation-cnfdrtntrzlnstts|Taruzel]]**'s privateers take Vilérian ships on the eastern runs, and a hand taken by them comes home, if he comes home, to a guild that pays nothing for ransoms.
 - **The bargemen** of the river take the cargoes the seamen bring in up to the capital, and keep their own roll on the other side of the basin.
 
 ## The Present Quarrel {#present}
 
 The roll is the quarrel, and two buyers want it. The fleet is short of seamen and is paying the guild for copies of the roll, and an officer of the fleet is in the city to collect one, which [Volkema Satheris]{.name data-type="being/npc"} wants checked name by name before it leaves the Roll House. The owners and captains want crews of their own choosing at wages they set themselves, and they outvote the seamen on the [[affiliation-tevranaelissium|Tevran of Elissara]], where the shipowners, merchants and small crafts hold most of the seats and [Zenothen Linthimis]{.name data-type="being/npc"} of the shipwrights presides in his third year, two more than custom expects.
 
-The city's charter is sealed anew by every Orzas, and the reigning one is dying. An advocate from [[place-mercavia|Delalara]] has asked every guild for its copy, the Roll House among them. The [[affiliation-byzarianlg|Bizarian League]]'s clerks collect the customs at the river mouth outside the walls, and on the eastern runs Taruzel's privateers take Vylarian ships whose hands come home, if they come home, to a guild that pays no ransoms.
+The city's charter is sealed anew by every Orzas, and the reigning one is dying. An advocate from [[place-mercavia|Delalara]] has asked every guild for its copy, the Roll House among them. The [[affiliation-byzarianlg|Bizarian League]]'s clerks collect the customs at the river mouth outside the walls, and on the eastern runs Taruzel's privateers take Vilérian ships whose hands come home, if they come home, to a guild that pays no ransoms.
 
 ## Hooks
 

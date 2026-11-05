@@ -94,13 +94,13 @@ The ground did not settle. The marsh keeps a quality the garrisons describe and 
 [[lore-hungerraids|The Hunger Raids]]
 : the war-bands and the Taking of the Eagle, as the forest tells them
 
-[[lore-empirdclne|The Decline of the Vylarian Empire]]
+[[lore-empirdclne|The Decline of the Vilérian Empire]]
 : the lost northern revenue
 
 [[place-blackmarshfld|The Blood-field of the Black Marsh]]
 : the ground itself
 
-[[affiliation-vylrnmltry|Vylarian Military]]
+[[affiliation-vylrnmltry|Vilérian Military]]
 : what a legion owes its eagle
 
 [[place-dolvar|Dolvar]]

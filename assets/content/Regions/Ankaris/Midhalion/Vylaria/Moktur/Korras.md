@@ -30,7 +30,7 @@ Above the gate, on the slopes, the high summer pastures run up to the snow, and 
 
 ## What Korras Lives By
 
-Korras lives by the gate. Furs come south through it from the [[place-vandstein|Vandstein]] villages, wolf, marten, bear and fox, with honey, wax and amber, and iron tools, salt, cloth and Vylarian coin go north. The muleteers who carry them stop a night in the town each way, and the inns, stables, farriers and harness-makers along the road live on them. A trade in furs is done in the town itself, in the yards behind the inns, by buyers who would rather pay the toll once on finished bales than twice on raw skins.
+Korras lives by the gate. Furs come south through it from the [[place-vandstein|Vandstein]] villages, wolf, marten, bear and fox, with honey, wax and amber, and iron tools, salt, cloth and Vilérian coin go north. The muleteers who carry them stop a night in the town each way, and the inns, stables, farriers and harness-makers along the road live on them. A trade in furs is done in the town itself, in the yards behind the inns, by buyers who would rather pay the toll once on finished bales than twice on raw skins.
 
 The tolls go to [[place-tyrellan|Tirellan]] in coin, under guard, every month, and they pay the _therkos_'s auxiliaries. The commander of the gate keeps a share of what he collects, by long custom, and the share is why the border lords want the command.
 
@@ -62,7 +62,7 @@ The inns stand along the road inside the gate, one against the next, and every o
 [[place-moktur|Moktur]]
 : the land the pass crosses
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[place-tyrellan|Tirellan]]

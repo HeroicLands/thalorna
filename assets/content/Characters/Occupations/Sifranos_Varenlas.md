@@ -402,7 +402,7 @@ He has fought in that arena for most of his life. He is honorable in it, and kee
 
 ## Background
 
-**The sale.** Sifranos was born poor in the Vylarian country and sold into slavery as a boy, and he was trained for the arena because he was big.
+**The sale.** Sifranos was born poor in the Vilérian country and sold into slavery as a boy, and he was trained for the arena because he was big.
 
 **The freedom.** He won his freedom with his victories, and with it a name of his own, and went on fighting under contract because it was the trade he had.
 
@@ -437,7 +437,7 @@ The younger gladiators of the rival houses want his name, and the best of them h
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Freedman, freed by his victories in the arena, without the citizenship.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Freedman, freed by his victories in the arena, without the citizenship.
 - **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the Thunderer's feasts without office in the temple.
 
 ## Plot Hooks

@@ -130,7 +130,7 @@ The Kingdom of Tarvénia is less a unified state than a political idea—a loose
 
 ## Government
 
-The High King is elected by a council of the major lords—a process that produces as much warfare as governance. The first election, about 540 AF, was held to drive out the Vylarian garrisons ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The crown carries the right to call the ban (a general military levy) and to adjudicate disputes between lords, but the High King has no standing army, no central bureaucracy, and limited revenue beyond his own estates. Attempts to centralize power have historically ended with the ambitious king deposed, exiled, or dead.
+The High King is elected by a council of the major lords—a process that produces as much warfare as governance. The first election, about 540 AF, was held to drive out the Vilérian garrisons ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The crown carries the right to call the ban (a general military levy) and to adjudicate disputes between lords, but the High King has no standing army, no central bureaucracy, and limited revenue beyond his own estates. Attempts to centralize power have historically ended with the ambitious king deposed, exiled, or dead.
 
 ### Electing a High King
 
@@ -154,7 +154,7 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 ### The Three Kingdoms
 
 [[affiliation-kngdmstrth|Kingdom of Asturath]]
-: The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvenan independence. Asturath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vylarian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarveni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
+: The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvenan independence. Asturath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vilérian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarveni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
 
 [[affiliation-kngdmglvrn|Kingdom of Galvaren]]
 : The green, mist-shrouded western coast. Galvaren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvenan skepticism of the arcane. The kingdom's fishing fleets are the largest in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
@@ -165,7 +165,7 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 ### The Free City
 
 [[affiliation-frctyvlthr|Free City of Valthari]]
-: A prosperous port city-state on the southern coast, governed by a council of merchant families. Valthari is the richest single settlement in Tarvénia and the kingdom's window onto the [[place-vylarianse|Vylarian Sea]] trade. The city jealously guards its independence, paying tribute to the High King in exchange for a charter that guarantees self-governance. Its merchant-captains and naval power give it political leverage far beyond its modest territory.
+: A prosperous port city-state on the southern coast, governed by a council of merchant families. Valthari is the richest single settlement in Tarvénia and the kingdom's window onto the [[place-vylarianse|Vilérian Sea]] trade. The city jealously guards its independence, paying tribute to the High King in exchange for a charter that guarantees self-governance. Its merchant-captains and naval power give it political leverage far beyond its modest territory.
 
 ### The Free Territory
 
@@ -174,13 +174,13 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 
 ## Character
 
-Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvenan mercenary tradition is famous across Ankaris—Tarveni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Vylaria]] to [[affiliation-cnfdrtntrzlnstts|Taruzel]], and mercenary service is considered an honorable career rather than a mark of desperation.
+Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvenan mercenary tradition is famous across Ankaris—Tarveni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Viléria]] to [[affiliation-cnfdrtntrzlnstts|Taruzel]], and mercenary service is considered an honorable career rather than a mark of desperation.
 
 The Tarvenans are deeply skeptical of magic and of the [[affiliation-ordoarcanis|Thordimalon]] in particular. The Arcane Order maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
 
 ## Commerce and Currency
 
-Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Tarvénia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Tarvénia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 
@@ -196,7 +196,7 @@ Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ar
 [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
 : The highland free territory
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : Former overlord (deeply resented)
 
 [[affiliation-arldnpnthn|Aureldian]]

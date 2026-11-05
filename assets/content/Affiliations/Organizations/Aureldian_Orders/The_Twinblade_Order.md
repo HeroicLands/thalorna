@@ -48,7 +48,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_The Twinblade Order—Vylari: **Tavemyenthamis**, "The Order of Two Faces"_
+_The Twinblade Order—Vilari: **Tavemyenthamis**, "The Order of Two Faces"_
 
 Type
 : Fighting religious order

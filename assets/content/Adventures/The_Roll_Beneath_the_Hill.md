@@ -17,13 +17,13 @@ data:
 
 ## The Roll Beneath the Hill
 
-A cohort of the old [[affiliation-vylarinmpr|Vylarian legion]] went into a hill in [[place-auldalon|Áuldalon]] in the war at [[place-valdun|Valdun]] and never came out. Its _Lusar_ demanded shelter of the thing that kept the hall, and the thing gave exactly what was demanded. The cohort holds the door against all comers, and the roll of those who hold it grows by anyone who eats the bread.
+A cohort of the old [[affiliation-vylarinmpr|Vilérian legion]] went into a hill in [[place-auldalon|Áuldalon]] in the war at [[place-valdun|Valdun]] and never came out. Its _Lusar_ demanded shelter of the thing that kept the hall, and the thing gave exactly what was demanded. The cohort holds the door against all comers, and the roll of those who hold it grows by anyone who eats the bread.
 
 ### Hook
 
 Pick the entry that suits the hero. Each leads to [[place-kptfr|the Kept Fire]].
 
-- **The thief.** A Vylarian collector in [[place-beravel|Péravel]] pays for a cohort's standard, and the drovers say the cohort's pay-chest is still in the hill with the banner. The only trouble is the old soldiers who guard it.
+- **The thief.** A Vilérian collector in [[place-beravel|Péravel]] pays for a cohort's standard, and the drovers say the cohort's pay-chest is still in the hill with the banner. The only trouble is the old soldiers who guard it.
 - **The mercenary or common soldier.** A clerk of the _felzos_'s house wants proof a cohort held rather than deserted, so that its descendants can claim the arrears. A veteran who can read a muster-roll and a sword's wear is worth a fee and a share.
 - **The leader.** A drover family from the southern hills asks the party to bring back a boy who followed a lamp into the fold three years ago. The boy is counted at the door.
 - **The lone wanderer.** A [[affiliation-bardicolgs|College bard]] at the hill's foot asks for company. She has the lament's last verse and needs to hear whether the cohort still answers it.
@@ -38,7 +38,7 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 
 **Purpose.** Meet the sentry, learn the hall's grammar, and show that every approach costs something.
 
-**Situation.** The path to the door is swept stone, laid in the Vylarian way. The door is a slab hung on iron, and before it a sentry stands in the rotted harness of a legionary, spear grounded, helm tilted, as alert as a man on the first night of a watch. His challenge is in [[skill-vylarilng|Vylari]], a clipped phrase that ends on a rising note. If the party answers, he counts them aloud.
+**Situation.** The path to the door is swept stone, laid in the Vilérian way. The door is a slab hung on iron, and before it a sentry stands in the rotted harness of a legionary, spear grounded, helm tilted, as alert as a man on the first night of a watch. His challenge is in [[skill-vylarilng|Vilari]], a clipped phrase that ends on a rising note. If the party answers, he counts them aloud.
 
 **NPCs and threats.** The **Sentry** is the cohort's youngest man, and his face is as young as the day he took the post. He is dutiful, afraid, and very fast with a spear. He lowers it when the challenge is answered wrong. Behind him the door opens inward on a corridor lit from within, and four more Kept stand in the passage with their shields locked.
 
@@ -46,7 +46,7 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 
 - _Force:_ the Kept are soldiers, trained, and the hall refills their number each dusk. The party can break the door, and the cohort turns out from the hall to meet them.
 - _Stealth:_ a smoke-vent at the hill's crown opens into the hall's rafters. A climb in the dark gets a thief past the sentry, and past the roll, and into the hall as an uncounted man.
-- _Guile:_ the watchword is a Vylari phrase from the legion's last year in the hills. A party that has the phrase from the _felzos_'s house or the lament answers the challenge as a relief detail. A party that bluffs a courier's errand holds the sentry for one question only.
+- _Guile:_ the watchword is a Vilari phrase from the legion's last year in the hills. A party that has the phrase from the _felzos_'s house or the lament answers the challenge as a relief detail. A party that bluffs a courier's errand holds the sentry for one question only.
 - _Parley:_ ask for shelter instead of demanding it. The sentry has not heard the word in centuries and does not know what to do with it, and he lets the party in on that confusion.
 
 **Clues and rewards.** The sentry's harness bears the cohort's mark. The watchword, if found, is useful in every scene. The vent is the way out when the door is not.
@@ -61,7 +61,7 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 
 **Situation.** The great hall is warm, long and roofed with turf. A fire the length of a river-barge burns down the middle, and the Kept sit at the long benches in their rotted harness, eating. The cook, a gray-armed man in a leather apron, carries bread to every guest. A seat stands at the head of the hall with no one in it, a plain chair of black wood, and nobody looks at it.
 
-**NPCs and threats.** [Thelvaran]{.name data-type="being/npc"}, the senior sergeant, sits nearest the party and speaks Vylari with a hill accent. He tells them, kindly, to eat. The _Lusar_ watches from the far end and does not rise. The Kept are neither hostile nor friendly. They are bored, loyal, and desperate for news.
+**NPCs and threats.** [Thelvaran]{.name data-type="being/npc"}, the senior sergeant, sits nearest the party and speaks Vilari with a hill accent. He tells them, kindly, to eat. The _Lusar_ watches from the far end and does not rise. The Kept are neither hostile nor friendly. They are bored, loyal, and desperate for news.
 
 **Player choices.**
 
@@ -110,7 +110,7 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 - _Force:_ kill the _Lusar_, and command of the cohort passes to the one who took it. The Kept obey the new commander, and the commander is bound to the watch. A party that wins by sword is told, gently, to hold the door.
 - _Stealth:_ steal the banner from the standard-rack in the _Lusar_'s alcove while the Kept stand to the roll. Without the standard the cohort cannot muster, and the _Lusar_ must treat with whoever holds it.
 - _Guile:_ present credentials. A character who is an officer with a recognized commission, or who forges the _felzos_'s seal and the watchword, can formally relieve the watch. The _Lusar_ examines the seal, and his sergeant checks the paper. A convincing forgery works. A poor one starts the fight.
-- _Parley:_ ask the _Lusar_ to ask. Only he can release the cohort, by asking the Giver for it. A Vylarian _Lusar_ does not ask a barbarian spirit for anything. A party that makes him see the last night he stood in the door, and how the Giver answered the demand, may make him say it.
+- _Parley:_ ask the _Lusar_ to ask. Only he can release the cohort, by asking the Giver for it. A Vilérian _Lusar_ does not ask a barbarian spirit for anything. A party that makes him see the last night he stood in the door, and how the Giver answered the demand, may make him say it.
 
 **Clues and rewards.** The Giver answers an asking and nothing else. If the _Lusar_ asks, the black chair is occupied for a moment by a figure of firelight and old bread, who says "Go." The watch ends.
 
@@ -152,5 +152,5 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 - [[place-kptfr|The Kept Fire]]
 - [[lore-elvtribute|The Tribute of Élavendre]]—the war at Valdun
 - [[lore-theasking|The Asking]]—what asking is for
-- [[affiliation-vylarinmpr|Vylarian Empire]] · [[affiliation-bardicolgs|the Bardic Colleges]]
-- [[lore-vylrncrncy|Vylarian Currency]]
+- [[affiliation-vylarinmpr|Vilérian Empire]] · [[affiliation-bardicolgs|the Bardic Colleges]]
+- [[lore-vylrncrncy|Vilérian Currency]]

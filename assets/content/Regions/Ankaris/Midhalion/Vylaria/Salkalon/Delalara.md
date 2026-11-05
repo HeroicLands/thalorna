@@ -40,7 +40,7 @@ The houses are a commoner trade grown rich, and the richest of them carry the pr
 
 The eastern trade is the city's whole argument. Before the war of independence Delalara's ships sailed to the Taruzelian harbors as to any other port of the empire, and paid nothing there but the imperial customs. Now every Delalara hull in a Taruzelian harbor pays the harbormaster's dues on her tonnage, a pilot's fee by her draft, and, if she goes on through the islands, the price of a place in a convoy under the [[place-straitfortress|Strait Fortress]] of [[place-yamuzel2|Yamuzel]]. A shipping house reckons that the Taruzelian dues take a fifth of the profit of every eastern voyage, and it pays them because the goods of the east reach the sea through the islands and nowhere else. The houses keep a book of dues at the Colonnade, in which every captain home from the east enters what he paid and to whom, and they carry its totals to the Governor's House each year as their case for a trade treaty with the Confederation.
 
-That case is what [[place-orzara|Orzara]] calls collaboration. To the Senate, [[affiliation-seldan|Seldan]], a Delalara house that pays a Taruzelian harbormaster is paying the rebels' navy, and a house that sells Vylarian goods in Taruzel is feeding the province that broke the empire's sea power. The houses answer that the dues are paid either way, and that a treaty would lower them. The admirals at [[place-castamar|Kastamar]] answer that the only treaty worth making is the one signed after a battle. Nothing moves the argument, and every year the houses' petition goes up the road to Orzara and the levy the [[affiliation-imperialoffices|Imperial Offices]] still draft for Taruzel comes down it.
+That case is what [[place-orzara|Orzara]] calls collaboration. To the Senate, [[affiliation-seldan|Seldan]], a Delalara house that pays a Taruzelian harbormaster is paying the rebels' navy, and a house that sells Vilérian goods in Taruzel is feeding the province that broke the empire's sea power. The houses answer that the dues are paid either way, and that a treaty would lower them. The admirals at [[place-castamar|Kastamar]] answer that the only treaty worth making is the one signed after a battle. Nothing moves the argument, and every year the houses' petition goes up the road to Orzara and the levy the [[affiliation-imperialoffices|Imperial Offices]] still draft for Taruzel comes down it.
 
 The Taruzelians of the Eastern Quarter live in the middle of this by waiver. Since the war each Taruzelian factor in Delalara holds a waiver from the _therkos_, renewed every spring, that lets him keep his house, his clerks and his harbor in the city, and a factor whose waiver is refused has a month to leave. The houses depend on the factors for credit, news and introductions in the islands, and the factors depend on the houses for cargo. Every spring the renewals are delayed by a week or two while the Governor's House considers them, and every spring the city watches to see whose is late.
 
@@ -92,7 +92,7 @@ A party with business in the Eastern Quarter can lodge there, at a Taruzelian lo
 [[place-castamar|Kastamar]]
 : the province's naval and military hub
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]

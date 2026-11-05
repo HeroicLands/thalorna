@@ -50,7 +50,7 @@ Strangers lodge around the forum, where the inns serve the people who have come 
 
 The empire's histories record no event of Lentora's own, and the city's history is written in its buildings. Its walls are old and have been kept whole. The furnaces of its baths have burned without a break for longer than the oldest guild can show in its books. The province's ordinary business, its leases, roads and boundary suits, has long been done on its forum, where every guild of the inner province keeps a hall.
 
-The decline is written in the same stones ([[lore-empirdclne|The Decline of the Vylarian Empire]]). The theater beside the baths was shut two generations ago and is a timber yard. The townhouses of the lesser senatorial families behind the forum have been divided into apartments, with the family on the first floor and tenants above. A council seat that answers for the city's taxes has become a seat the _gulmen_ families avoid in a poor year, and lately more of them stand empty than the council can fill.
+The decline is written in the same stones ([[lore-empirdclne|The Decline of the Vilérian Empire]]). The theater beside the baths was shut two generations ago and is a timber yard. The townhouses of the lesser senatorial families behind the forum have been divided into apartments, with the family on the first floor and tenants above. A council seat that answers for the city's taxes has become a seat the _gulmen_ families avoid in a poor year, and lately more of them stand empty than the council can fill.
 
 ## Hooks {#hooks}
 
@@ -63,7 +63,7 @@ The decline is written in the same stones ([[lore-empirdclne|The Decline of the 
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the imperial overview
 
 [[place-orzara|Orzara]]

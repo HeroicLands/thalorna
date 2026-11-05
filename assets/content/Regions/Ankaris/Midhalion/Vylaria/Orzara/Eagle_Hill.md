@@ -15,7 +15,7 @@ data:
 
 ## Overview {#overview}
 
-Arvel, the Eagle Hill, is the highest of the [[place-sixhillsvyl|Six Hills]] on which [[place-orzara|Orzara City]] rises, and it looks down on all the rest. Its crown is walled: behind its own ancient ring of walls stands [[place-arvon|Inner City]], the sacred and administrative core of the [[affiliation-vylarinmpr|Vylarian Empire]], and over the summit rises [[place-palvar|The Grand Palace]], the largest single structure in the known western world. Below it, in the central saddle, lies the [[place-platandstr|Platan District]] around the [Circle of Árdavon]{.name data-type="place/site"}.
+Arvel, the Eagle Hill, is the highest of the [[place-sixhillsvyl|Six Hills]] on which [[place-orzara|Orzara City]] rises, and it looks down on all the rest. Its crown is walled: behind its own ancient ring of walls stands [[place-arvon|Inner City]], the sacred and administrative core of the [[affiliation-vylarinmpr|Vilérian Empire]], and over the summit rises [[place-palvar|The Grand Palace]], the largest single structure in the known western world. Below it, in the central saddle, lies the [[place-platandstr|Platan District]] around the [Circle of Árdavon]{.name data-type="place/site"}.
 
 A newcomer to Orzara learns the hill by what is closed to them. A Watch sergeant who walks recruits up the [Paldor]{.name data-type="place/feature"} on their first day stops them at the foot of the Founder's statue and turns them round: "Look back down the way you came. Everything you can see from here is yours to walk in. Everything behind that gate belongs to the Guard, and the Guard does not think much of us. You stop here, you hand over what you are carrying, and you come back down."
 
@@ -52,7 +52,7 @@ None of them wants the city broken. Each is taking what it can from a throne it 
 
 ## History {#history}
 
-The [Vylarian Republic]{.name data-type="affiliation/polity"} never walled the Eagle Hill. Its city stood on [[place-antel|Antel]], the Old Hill, and Arvel rose beside it, higher and emptier, with the galleries of the [Dragon Riders]{.name data-type="affiliation"} cut under its crown. About 45 BF the Republic did not renew its standing lease with the dragons ([[lore-ridersdisb|The Lease Refused]]), the Riders were disbanded and the Eyrie was sealed. What passed between the Republic and the dragons for the Riders' service is in no account of the war ([[lore-thebargain|The Bargain]]).
+The [Vilérian Republic]{.name data-type="affiliation/polity"} never walled the Eagle Hill. Its city stood on [[place-antel|Antel]], the Old Hill, and Arvel rose beside it, higher and emptier, with the galleries of the [Dragon Riders]{.name data-type="affiliation"} cut under its crown. About 45 BF the Republic did not renew its standing lease with the dragons ([[lore-ridersdisb|The Lease Refused]]), the Riders were disbanded and the Eyrie was sealed. What passed between the Republic and the dragons for the Riders' service is in no account of the war ([[lore-thebargain|The Bargain]]).
 
 In the first dozen years of his reign the first Orzas walled the crown, built the Seldan and the Guard Camp inside the wall, founded the palace over the sealed galleries, and moved the Senate up from its hall on Antel ([[lore-eaglecityrse|The Raising of the Eagle City]]). Every reign since has built on the hill, and every accession has climbed the Paldor to the gate.
 

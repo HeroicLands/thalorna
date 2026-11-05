@@ -9,17 +9,17 @@ tags: [reference, currency, economy, credit]
 
 ## Overview
 
-Across the tribal and clan-based polities of [[place-worldthlrn|Thalorna]]—the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]], [[place-dunharargn|Dunhara Region]], [[place-khzryndsrtrgn|Khazryn Desert Region]], the [[affiliation-aelndntrbs|Áelendan]] of [[place-elavendre|Élavendre]], and the deep-interior tribes of every continent—a distinctive form of long-term commercial creditoperates **without currency, without banking institutions, without written instruments, and without formal contracts**. It is the credit system of _kin obligation_ and _hall affiliation_: the principle that members of an extended family, a clan, or a hall's sworn following can extend value to one another against the security of their relationship, with repayment expected in time but not necessarily on any fixed schedule.
+Across the tribal and clan-based polities of [[place-worldthlrn|Thalorna]]—the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]], [[place-dunharargn|Dunhara Region]], [[place-khzryndsrtrgn|Khazrin Desert Region]], the [[affiliation-aelndntrbs|Áelendan]] of [[place-elavendre|Élavendre]], and the deep-interior tribes of every continent—a distinctive form of long-term commercial creditoperates **without currency, without banking institutions, without written instruments, and without formal contracts**. It is the credit system of _kin obligation_ and _hall affiliation_: the principle that members of an extended family, a clan, or a hall's sworn following can extend value to one another against the security of their relationship, with repayment expected in time but not necessarily on any fixed schedule.
 
-This is not informal credit in the sense that Vylarian moneylenders use the term. It is _structurally formal_—bound by elaborate custom, enforced by deep social pressure, and central to how the kin- and hall-based polities actually function. A Nordlands jarl who takes a substantial loan from a sworn retainer's family enters into an obligation that will be recited at every gathering between the families for the next generation; it will be reckoned at marriage negotiations, at funeral feasts, at the divisions of estate; it will be remembered by every adult of both families and named in every relevant moment of public reckoning. The Vylarian written-contract apparatus achieves something similar through paper; the kin-and-hall systems achieve it through memory, custom, and the standing watchfulness of the affected community.
+This is not informal credit in the sense that Vilérian moneylenders use the term. It is _structurally formal_—bound by elaborate custom, enforced by deep social pressure, and central to how the kin- and hall-based polities actually function. A Nordlands jarl who takes a substantial loan from a sworn retainer's family enters into an obligation that will be recited at every gathering between the families for the next generation; it will be reckoned at marriage negotiations, at funeral feasts, at the divisions of estate; it will be remembered by every adult of both families and named in every relevant moment of public reckoning. The Vilérian written-contract apparatus achieves something similar through paper; the kin-and-hall systems achieve it through memory, custom, and the standing watchfulness of the affected community.
 
 ## The Underlying Principle
 
 Kin and hall credit operates on what might be called the **principle of standing reckoning**. When kin or hall-members exchange value, the transaction is not closed at the moment of exchange. It enters the standing ledger of mutual obligation between the parties, where it remains visible—to the parties, to their kin, to their hall-mates, to anyone with reason to know—until it is settled. Settlement may take months, years, or generations. The obligation is not extinguished by time; it accumulates interest in the form of social weight, which a wise debtor manages by periodic offerings, gifts, and acknowledgments that signal his continued recognition of the debt.
 
-A debt that is never settled does not vanish. It becomes part of the relationship between the families, eventually part of the inheritance the descendants must reckon with. A Nordlands hall whose ancestral debt to another hall has gone three generations unsettled is a hall whose standing among its peers is compromised—not as if a Vylarian moneylender were calling its loan, but as if the entire surrounding community had simply formed a quiet collective judgment that this hall does not honor its obligations.
+A debt that is never settled does not vanish. It becomes part of the relationship between the families, eventually part of the inheritance the descendants must reckon with. A Nordlands hall whose ancestral debt to another hall has gone three generations unsettled is a hall whose standing among its peers is compromised—not as if a Vilérian moneylender were calling its loan, but as if the entire surrounding community had simply formed a quiet collective judgment that this hall does not honor its obligations.
 
-The system works because it rests on a structural condition the formal banking systems cannot replicate: the **inseparability of commerce from social standing**. A Vylarian merchant who defaults on a moneylender's loan loses access to credit; his social standing within his commercial community suffers; but he can, in principle, move to another city, change his trade, restart his life. A Nordlands jarl whose hall has accumulated three generations of unsettled obligations cannot do this. His standing is his family's standing; his family's standing is the hall's standing; the hall is rooted in its land and its kin. The obligation cannot be walked away from because there is no "away" to walk to. This makes the credit system genuinely enforceable in a way that the formal Vylarian system cannot match in its own territory.
+The system works because it rests on a structural condition the formal banking systems cannot replicate: the **inseparability of commerce from social standing**. A Vilérian merchant who defaults on a moneylender's loan loses access to credit; his social standing within his commercial community suffers; but he can, in principle, move to another city, change his trade, restart his life. A Nordlands jarl whose hall has accumulated three generations of unsettled obligations cannot do this. His standing is his family's standing; his family's standing is the hall's standing; the hall is rooted in its land and its kin. The obligation cannot be walked away from because there is no "away" to walk to. This makes the credit system genuinely enforceable in a way that the formal Vilérian system cannot match in its own territory.
 
 ## Regional Forms
 
@@ -45,7 +45,7 @@ A Dunhari trader extends substantial credit to a kin-member with the understandi
 
 ### Steppe Tribal Credit
 
-The [[lore-sowidesclt|Sovidur]] tribes of the [[place-khzryndsrtrgn|Khazryn]] steppe answer to no common authority, so their credit is a web of agreements between single tribes and single houses, struck one stretch of road at a time. The system is similar to the Dunhari but operates over wider distances, because [[lore-celestialroad|the Celestial Road]] connects strangers across thousands of miles. A **caravan-master** crossing it buys passage from some thirty-five tribes in turn and carries not only his own commercial relationships but the obligations of his backing house, which stand surety for every tribe he owes.
+The [[lore-sowidesclt|Sovidur]] tribes of the [[place-khzryndsrtrgn|Khazrin]] steppe answer to no common authority, so their credit is a web of agreements between single tribes and single houses, struck one stretch of road at a time. The system is similar to the Dunhari but operates over wider distances, because [[lore-celestialroad|the Celestial Road]] connects strangers across thousands of miles. A **caravan-master** crossing it buys passage from some thirty-five tribes in turn and carries not only his own commercial relationships but the obligations of his backing house, which stand surety for every tribe he owes.
 
 A tribe takes goods in hand when it can get them. A master short of goods pays in his house's name: the tribe cuts the debt on a tally, and its rider carries word of it to the next tribe along the road. If the house defaults, every tribe holding its name closes its wells to the house's next caravan, and the word travels with the riders faster than any camel.
 
@@ -53,13 +53,13 @@ Kin-credit relationships have been the principal credit infrastructure of the st
 
 ### Áelendan and Aureldian Variants
 
-The [[affiliation-aelndntrbs|Áelendan]] of Élavendre operate a smaller-scale kin-credit system that overlaps with the formal Vylarian commonwealth banking infrastructure of the Élavendren cities. An Áelendan family member can deal with [[affiliation-tevran|the Tevran Maldor]]-chartered guilds and [[affiliation-danvar|the Danvar]] moneylenders in the cities, but within the Áelendan tribal communities of the deep forest and [[place-drenavrspn|the Drenavar foothills]], the older kin-credit system operates as the primary medium of substantial commerce. The dual presence creates interesting tensions—an Áelendan whose city dealings have produced substantial Tevran credit may find that credit not transferable into the tribal economy, where the relationship-based credit is what matters.
+The [[affiliation-aelndntrbs|Áelendan]] of Élavendre operate a smaller-scale kin-credit system that overlaps with the formal Vilérian commonwealth banking infrastructure of the Élavendren cities. An Áelendan family member can deal with [[affiliation-tevran|the Tevran Maldor]]-chartered guilds and [[affiliation-danvar|the Danvar]] moneylenders in the cities, but within the Áelendan tribal communities of the deep forest and [[place-drenavrspn|the Drenavar foothills]], the older kin-credit system operates as the primary medium of substantial commerce. The dual presence creates interesting tensions—an Áelendan whose city dealings have produced substantial Tevran credit may find that credit not transferable into the tribal economy, where the relationship-based credit is what matters.
 
-Similar dual systems operate in the more remote regions of every Aureldian kingdom—the deep mountain valleys, the offshore islands, the frontier homesteads. The Vylarian banking infrastructure is the formal system; the older kin-and-clan credit is the informal-but-binding shadow.
+Similar dual systems operate in the more remote regions of every Aureldian kingdom—the deep mountain valleys, the offshore islands, the frontier homesteads. The Vilérian banking infrastructure is the formal system; the older kin-and-clan credit is the informal-but-binding shadow.
 
 ## Comparison to Formal Banking
 
-|                                  | Vylarian Banking                                | Kin and Hall Credit                                  |
+|                                  | Vilérian Banking                                | Kin and Hall Credit                                  |
 | -------------------------------- | ----------------------------------------------- | ---------------------------------------------------- |
 | **Institutional infrastructure** | Tarmeks Orzan, Danvar, chartered moneylenders   | None—operates through kin/clan/hall structure itself |
 | **Written instruments**          | Coins, notes, ledgers                           | None—operates through public memory and recital      |
@@ -69,14 +69,14 @@ Similar dual systems operate in the more remote regions of every Aureldian kingd
 | **Default consequence**          | Loss of credit access, possible court action    | Loss of social standing across the kin network       |
 | **Range**                        | Continent-wide (within commonwealth)            | Limited to kin/clan/hall network's reach             |
 
-The two systems are not in competition. They handle different kinds of commerce. The Vylarian system handles transactions between strangers—anonymous market exchange across long distances. The kin-and-hall system handles transactions between parties whose relationship is itself the security of the transaction. In polities where both exist, they coexist: anonymous urban commerce in the formal banking system, intimate clan-and-hall commerce in the kin-credit system, with merchants who operate in both worlds maintaining accounts in each.
+The two systems are not in competition. They handle different kinds of commerce. The Vilérian system handles transactions between strangers—anonymous market exchange across long distances. The kin-and-hall system handles transactions between parties whose relationship is itself the security of the transaction. In polities where both exist, they coexist: anonymous urban commerce in the formal banking system, intimate clan-and-hall commerce in the kin-credit system, with merchants who operate in both worlds maintaining accounts in each.
 
 ## Where Kin and Hall Credit Predominates
 
 Kin-and-hall credit is the dominant commercial credit system in:
 
 The [[place-nrdlndsrgn|Nordlands]] (all five kingdoms)
-: the formal Vylarian banking system does not operate here; hall-credit handles all substantial commerce
+: the formal Vilérian banking system does not operate here; hall-credit handles all substantial commerce
 
 [[place-vrystwald|Vristwald]]
 : similar; the cities have minor moneylender activity but the interior runs on clan-credit
@@ -84,7 +84,7 @@ The [[place-nrdlndsrgn|Nordlands]] (all five kingdoms)
 The [[place-dunharargn|Dunhara]]
 : tribal kin-credit is the only credit infrastructure
 
-The [[lore-sowidesclt|Sovidur]] tribes of the [[place-khzryndsrtrgn|Khazryn]]
+The [[lore-sowidesclt|Sovidur]] tribes of the [[place-khzryndsrtrgn|Khazrin]]
 : each tribe extends and calls credit on its own account, and a house's name is its security from one range to the next
 
 The [[affiliation-nylbtrblntn|Nyáluba]] and the broader [[place-sthrnsvnhs|Southern Savannahs]]
@@ -98,7 +98,7 @@ Kin-and-hall credit also operates as a _secondary_ system in many settled politi
 ## See Also
 
 - [[lore-bartercnmy|The Barter Economy]]—the goods-exchange system that kin-and-hall credit extends into deferred-obligation form
-- [[lore-vylrncrncy|Vylarian Currency]]—the formal currency that operates alongside or instead of kin-credit in various polities
+- [[lore-vylrncrncy|Vilérian Currency]]—the formal currency that operates alongside or instead of kin-credit in various polities
 - [[affiliation-skaldscrcl|The Skalds' Circle]]—the Nordlands institutional infrastructure for maintaining the public memory of hall-obligations
 - [[affiliation-wrrscrcldnhrtrbs|Dunhara Warriors Circle]]—the Dunhari institution that occasionally adjudicates particularly contentious inter-tribal credit disputes
 - Polity notes for the regions where kin-and-hall credit predominates

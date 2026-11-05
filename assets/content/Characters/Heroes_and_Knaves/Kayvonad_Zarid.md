@@ -428,7 +428,7 @@ Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved
 
 ### The Promising Scholar
 
-Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazryn Desert]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the [University of Kaldar]{.name data-type="affiliation"} in [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master [Aldrin Kovoss]{.name data-type="being/npc"}. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
+Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazrin Desert]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the [University of Kaldar]{.name data-type="affiliation"} in [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master [Aldrin Kovoss]{.name data-type="being/npc"}. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
 
 ### The Fall from Grace
 
@@ -491,7 +491,7 @@ Rigid Methodology
 University of Kaldar Administration
 : The institution that employs him, though their support is increasingly perfunctory and administrative rather than real intellectual backing.
 
-[The Mineral Consortium of Khazryn]{.name data-type="affiliation/venture"}
+[The Mineral Consortium of Khazrin]{.name data-type="affiliation/venture"}
 : A loose association of wealthy merchants dealing in rare minerals who fund some of his research in exchange for first option on any transmutation breakthroughs with commercial applications.
 
 ### Enemies
@@ -525,4 +525,4 @@ The Material Crisis
 : A shipment of rare mineral samples meant for Kayvonad's research is hijacked by bandits or agents of a rival faction. These materials are essential for an ongoing transmutation project that has consumed his life's savings and his remaining credibility at the University. If he fails to complete the work, his funding will be terminated and his theories will be abandoned. The party must recover the stolen materials, but in doing so they discover that the theft was orchestrated by someone within the University who questions whether Kayvonad's research is leading him toward transmutations that should not be permitted.
 
 The Resurrection of Aldrin Kovoss
-: Kayvonad claims to have found evidence that his mentor, the famous Master Aldrin Kovoss, did not die decades ago as was universally believed, but instead achieved a form of alchemical immortality through an experimental transmutation. The evidence points to Kovoss having undergone a process that transformed him into something between human and mineral construct. If true, and if Kayvonad can find him, Kovoss might provide the final insights Kayvonad needs to complete his life's work—or might represent a cautionary tale about the dangers of pursuing transmutation beyond all ethical bounds. The party must track Kovoss across the Khazryn Desert while dealing with Kayvonad's increasingly obsessive and morally questionable behavior.
+: Kayvonad claims to have found evidence that his mentor, the famous Master Aldrin Kovoss, did not die decades ago as was universally believed, but instead achieved a form of alchemical immortality through an experimental transmutation. The evidence points to Kovoss having undergone a process that transformed him into something between human and mineral construct. If true, and if Kayvonad can find him, Kovoss might provide the final insights Kayvonad needs to complete his life's work—or might represent a cautionary tale about the dangers of pursuing transmutation beyond all ethical bounds. The party must track Kovoss across the Khazrin Desert while dealing with Kayvonad's increasingly obsessive and morally questionable behavior.

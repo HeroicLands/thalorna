@@ -43,7 +43,7 @@ Apprenticeship is long and is understood as a kind of adoption. A master owes hi
 
 ## Two Bizarias
 
-The coast and the caravan cities are a deep mixture—Helonic, [[lore-taruzelianclt|Taruzeli]], Khazryn and [[lore-vylarianclt|Vylarian]] families intermarried for generations, with [[lore-dunhariclt|Dunhari]] and Khazryni merchant quarters that keep their own tongues, faiths and law and are left to do it.
+The coast and the caravan cities are a deep mixture—Helonic, [[lore-taruzelianclt|Taruzeli]], Khazrin and [[lore-vylarianclt|Vilérian]] families intermarried for generations, with [[lore-dunhariclt|Dunhari]] and Khazrini merchant quarters that keep their own tongues, faiths and law and are left to do it.
 
 The plateau is another country: herding clans and farming villages, more homogeneous and considerably more conservative, speaking with an upland accent and regarding the coastal cities as foreigners who happen to buy their wool. The plateau feeds and clothes the coast and resents it; the coast pays the plateau and patronizes it. Neither can do without the other, and both say so only when drunk.
 
@@ -151,7 +151,7 @@ The old move out of the shop and into another service. A retired guild master si
 
 ## Shelter, Teaching and Defense
 
-Shelter is the household's first and the guild's second. The merchant quarters of the Dunhari and the Khazryni keep their own law and their own faith inside the cities and take in their own. A traveler without a patron finds the caravanserai, where the master feeds a guest well before he names a price.
+Shelter is the household's first and the guild's second. The merchant quarters of the Dunhari and the Khazrini keep their own law and their own faith inside the cities and take in their own. A traveler without a patron finds the caravanserai, where the master feeds a guest well before he names a price.
 
 Teaching is the guild's. The apprentice is admitted by examination in his early teens, trained in the trade's foundations by a master who answers for him, and taught the grades in order. The monasteries copy manuscripts and keep libraries, and the merchant academies teach the standard written form to a literate few. Most Bizarians learn their letters only as far as the trade requires, which is why the scribe reads the paper aloud.
 
@@ -214,4 +214,4 @@ The Cartographers' Guild shows the same pattern in a smaller place. Its seal mak
 
 The full dictionary is in the [[skill-byzarnlng#dictionary|Bizarian Language]].
 
-Ardin, Solden, Bit and paper-script are loanwords from the [[lore-vylarianclt#glossary|Vylarian]] culture.
+Ardin, Solden, Bit and paper-script are loanwords from the [[lore-vylarianclt#glossary|Vilérian]] culture.

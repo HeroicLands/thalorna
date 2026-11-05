@@ -100,7 +100,7 @@ Their jurisdiction is everything the civic courts cannot touch. Any matter invol
 
 ### The Reach of Influence
 
-For all its tiers and titles, the law of Orzara runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse or the right patron finds the courts accommodating; one without learns how heavy they can be. The _peltroi_ are famously bribable; a _veramus_'s favor can move a case between courts or bury it in the Offices's bottomless archives; and the perpetual rivalry of the Verdan Orzara means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vylarian Citizenship]]); granted through the courts, they move fast for the right consideration. Justice is real in Orzara—but it is also, always, a currency.
+For all its tiers and titles, the law of Orzara runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse or the right patron finds the courts accommodating; one without learns how heavy they can be. The _peltroi_ are famously bribable; a _veramus_'s favor can move a case between courts or bury it in the Offices's bottomless archives; and the perpetual rivalry of the Verdan Orzara means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vilérian Citizenship]]); granted through the courts, they move fast for the right consideration. Justice is real in Orzara—but it is also, always, a currency.
 
 ## What It Is Fighting About {#present}
 
@@ -119,7 +119,7 @@ The courts below run on influence as they always have. Lists are worth money bef
 [[place-orzara|Orzara]]
 : the imperial capital this council and these courts govern
 
-[[affiliation-vylrnmltry|The Vylarian Military]]
+[[affiliation-vylrnmltry|The Vilérian Military]]
 : home of the City Watch (a branch of the legions) and the Sorvan (the imperial guard)
 
 [[affiliation-tarmex|The Tarmeks Orzan]]

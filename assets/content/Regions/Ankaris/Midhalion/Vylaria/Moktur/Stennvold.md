@@ -18,13 +18,13 @@ data:
 
 Stennvold is a high mining-and-smelting town of about four thousand in the Mokturan heights, its furnaces working the ore that [[place-ferrovan|Zargonara]] and the lesser camps send down to it. Smoke hangs over its valley the year round.
 
-A smelt-master, taking on a new hand, explains where the loyalty in the town lies: "The _therkos_ (governor) has the garrison, the tax-farmers have their ledgers, and I have the men who tend the furnaces. When the metal goes out under guard, it goes because they stayed at the fires." The workforce is half-[[lore-varokhiclt|Varokh]], hard and insular, and loyal first to the smelt-masters who pay them. The metal that leaves Stennvold is among the most jealously taxed in the [[affiliation-vylarinmpr|Vylarian Empire]].
+A smelt-master, taking on a new hand, explains where the loyalty in the town lies: "The _therkos_ (governor) has the garrison, the tax-farmers have their ledgers, and I have the men who tend the furnaces. When the metal goes out under guard, it goes because they stayed at the fires." The workforce is half-[[lore-varokhiclt|Varokh]], hard and insular, and loyal first to the smelt-masters who pay them. The metal that leaves Stennvold is among the most jealously taxed in the [[affiliation-vylarinmpr|Vilérian Empire]].
 
 ## Arriving
 
 A traveler smells Stennvold before he sees it. The road from Zargonara comes over a saddle and down into a narrow valley full of a yellow-gray haze, and the town is inside the haze: a long street of stone houses beside a stream, and above it on the north slope the furnaces, a row of squat stone towers each with a bellows-house at its foot and a waterwheel turning in a leat behind it. The ore trains come down the slope to the roasting-beds above the furnaces, and the slag goes out below them into heaps that run down to the stream. The water below the town is the color of weak tea and nobody drinks it.
 
-The furnace crews descend from the [[lore-varokhiclt|Varokh]] kindreds who came inside the province when its _therkoi_ bought the forest's War Chiefs, and like the people of [[place-pinnhald|Pinnhald]] they are Varokh still in speech and custom. They speak the border patois at the furnaces and Vylari at the counting-house, and they carve the totems of their kindreds on the lintels of their doors.
+The furnace crews descend from the [[lore-varokhiclt|Varokh]] kindreds who came inside the province when its _therkoi_ bought the forest's War Chiefs, and like the people of [[place-pinnhald|Pinnhald]] they are Varokh still in speech and custom. They speak the border patois at the furnaces and Vilari at the counting-house, and they carve the totems of their kindreds on the lintels of their doors.
 
 ## What Stennvold Lives By
 
@@ -58,7 +58,7 @@ The [Bellows]{.name data-type="place/structure"} is the inn at the upper end of 
 [[place-moktur|Moktur]]
 : the land of its heights
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[place-ferrovan|Zargonara]]

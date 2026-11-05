@@ -1,19 +1,19 @@
 ---
 shortcode: trzmsbrkrts
-name: {full: Torzemos Brakarates, en: [The High Flame-Warden, The High Flame-Warden of Vylaria]}
+name: {full: Torzemos Brakarates, en: [The High Flame-Warden, The High Flame-Warden of Viléria]}
 type: being
 subType: npc
-description: "High Flame-Warden of Vylaria at the Ashen Temple in Orzara: a former legion officer who holds the Black Flame's temples in the empire by the weight of his standing, and has the accession petition for the Forge-Lord's niche drafted."
+description: "High Flame-Warden of Viléria at the Ashen Temple in Orzara: a former legion officer who holds the Black Flame's temples in the empire by the weight of his standing, and has the accession petition for the Forge-Lord's niche drafted."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric, warrior, courtier]
-  occupation: High Flame-Warden of Vylaria
+  occupation: High Flame-Warden of Viléria
   lore: []
   culture: vylarianclt
   homes: [arvon]
-  affiliations: {blackflame: {rank: 4, office: High Flame-Warden of Vylaria}}
+  affiliations: {blackflame: {rank: 4, office: High Flame-Warden of Viléria}}
   socialTies:
     being-osmrthlvns: nemesis
     being-ankhelossath: nemesis
@@ -44,7 +44,7 @@ Torzemos Brakarates is a 49-year-old man who stands 6'2" tall and is of heavy bu
 
 # Dossier {#dossier}
 
-Torzemos Brakarates is the High Flame-Warden of Vylaria, who rules [[place-sarkenaelzen|the Ashen Temple]] in the Vanor of [[place-orzara|Orzara City]] and from it oversees the temples of [[affiliation-blackflame|the Black Flame]] across the [[affiliation-vylarinmpr|Vylarian Empire]]. The faith recognizes no authority above a Flame-Warden, and he holds the office as the faith holds every authority: by strength. The provincial Flame-Wardens defer to him because of his standing, his patrons in [[affiliation-seldan|the Seldan]] and his Scorchmasters, and any of them who thinks himself stronger may challenge him.
+Torzemos Brakarates is the High Flame-Warden of Viléria, who rules [[place-sarkenaelzen|the Ashen Temple]] in the Vanor of [[place-orzara|Orzara City]] and from it oversees the temples of [[affiliation-blackflame|the Black Flame]] across the [[affiliation-vylarinmpr|Vilérian Empire]]. The faith recognizes no authority above a Flame-Warden, and he holds the office as the faith holds every authority: by strength. The provincial Flame-Wardens defer to him because of his standing, his patrons in [[affiliation-seldan|the Seldan]] and his Scorchmasters, and any of them who thinks himself stronger may challenge him.
 
 The Black Flame is a real power in the empire. Its temples stand openly in the capital and in the commercial cities of [[place-alyssa|Alessa]]; its faithful include _kurthoi_ (senators), officers of the legions and the sons of houses who will never inherit; and its preachers draw larger crowds every year on the Circles below the hill. Torzemos speaks for all of it at once.
 
@@ -85,7 +85,7 @@ The faith's authority is strength, and a stronger Flame-Warden can take his offi
 
 ### Affiliations
 
-- **[[affiliation-blackflame|The Black Flame]]**: High Flame-Warden of Vylaria, a Flame-Warden.
+- **[[affiliation-blackflame|The Black Flame]]**: High Flame-Warden of Viléria, a Flame-Warden.
 
 ## Plot Hooks
 

@@ -175,7 +175,7 @@ Kalihara stands outside the continental monetary systems. Internal commerce runs
 [[affiliation-lineagekuethori|The Lineage Kuethori]] and [[affiliation-lineageavoluthei|the Lineage Avoluthei]]
 : the holders of the Gap and the Cloud Pass
 
-[[place-vylarianse|Vylarian Sea]]
+[[place-vylarianse|Vilérian Sea]]
 : the inner sea whose western strait is the door to the island
 
 [[skill-kalihrlng|Kalihari]]

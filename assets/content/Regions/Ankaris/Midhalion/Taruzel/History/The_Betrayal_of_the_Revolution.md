@@ -34,7 +34,7 @@ data:
             knowledge: named
           - place: place-besikar2
             how: >-
-              the Auric Compact keeps its headquarters in the palace of the Vylarian therkos
+              the Auric Compact keeps its headquarters in the palace of the Vilérian therkos
             knowledge: named
           - place: place-taruzelrgn
             how: >-
@@ -51,7 +51,7 @@ data:
       accounts:
         - by: affiliation-auricompct
           says: >-
-            The war was fought for freedom, and Taruzel is free: of imperial taxes, of Vylarian governors and of conscription into foreign legions.
+            The war was fought for freedom, and Taruzel is free: of imperial taxes, of Vilérian governors and of conscription into foreign legions.
           agrees: partly
           withholds: what the broadsheets and the recruiters promised in the square
         - by: affiliation-unchained
@@ -117,13 +117,13 @@ The charter's [[affiliation-grandcouncil|Grand Council]] counts every measure tw
 
 The veterans were the dock workers, fishermen and tribal warriors of the militias and the captains who had sailed into the imperial fleet at the Shoals. They had been promised four things: land for those who had none, guild membership for those the guilds had never admitted, pensions for those who came home maimed, and a voice in the government of their own cities. They received a discharge, a small purse of silver, and the knowledge that the men who had paid for the revolution now owned the result.
 
-The merchant princes had not lied, exactly. Taruzel was free of imperial taxation, of Vylarian _therkoi_ (governors) and of conscription into foreign legions. The princes had meant their own freedom, to trade without imperial interference and to set their own tariffs, and the harbors had heard something else in the same words. Many of the promises were made aloud in the squares by recruiters, and none of them was ever written down.
+The merchant princes had not lied, exactly. Taruzel was free of imperial taxation, of Vilérian _therkoi_ (governors) and of conscription into foreign legions. The princes had meant their own freedom, to trade without imperial interference and to set their own tariffs, and the harbors had heard something else in the same words. Many of the promises were made aloud in the squares by recruiters, and none of them was ever written down.
 
 ## The Guilds Take the Peace
 
-The [[affiliation-auricompct|Auric Compact]], the banking cartel that had underwritten the war, called in its debts, and the new Confederation owed it staggering sums. It took the palace of the Vylarian _therkos_ in [[place-besikar2|Besikar]] for its headquarters, and the men behind its desks were no kinder than the men they replaced. The [[affiliation-corsairleg|Corsair League]], founded by the captains of the Shoals as a brotherhood of veterans, was taken over by the shipowners and turned into a shipping cartel, and some of the captains who had founded it voted for the change. The [[affiliation-mrchntryvl|Merchantry of the Veil]] went on as it always had, profiting from the confusion of the transition.
+The [[affiliation-auricompct|Auric Compact]], the banking cartel that had underwritten the war, called in its debts, and the new Confederation owed it staggering sums. It took the palace of the Vilérian _therkos_ in [[place-besikar2|Besikar]] for its headquarters, and the men behind its desks were no kinder than the men they replaced. The [[affiliation-corsairleg|Corsair League]], founded by the captains of the Shoals as a brotherhood of veterans, was taken over by the shipowners and turned into a shipping cartel, and some of the captains who had founded it voted for the change. The [[affiliation-mrchntryvl|Merchantry of the Veil]] went on as it always had, profiting from the confusion of the transition.
 
-Within two years of independence the Confederation was an oligarchy in all but name. The guild families lived in palatial estates and the veterans in harbor tenements. Guild fees took the place of imperial levies and fell on the same backs, and guild enforcers took the place of the legions. The hill tribes, who had sent their warriors down to the coast to die for a revolution of the port cities, received nothing at all, and the roads the Vylarian administrators had kept up fell into ruin.
+Within two years of independence the Confederation was an oligarchy in all but name. The guild families lived in palatial estates and the veterans in harbor tenements. Guild fees took the place of imperial levies and fell on the same backs, and guild enforcers took the place of the legions. The hill tribes, who had sent their warriors down to the coast to die for a revolution of the port cities, received nothing at all, and the roads the Vilérian administrators had kept up fell into ruin.
 
 ## The Suppression
 

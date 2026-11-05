@@ -3,7 +3,7 @@ shortcode: edrenburg
 name: {full: Edrenburg}
 type: place
 subType: settlement
-description: "A Mokturan border town at the edge of Vristwald that keeps a Varokh name, where Varokh and Vylarian trade meet under a garrison's eye."
+description: "A Mokturan border town at the edge of Vristwald that keeps a Varokh name, where Varokh and Vilérian trade meet under a garrison's eye."
 tags: [town, frontier]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Edrenburg is a town of [[place-moktur|Moktur]] on the edge of [[place-vrystwald|Vristwald]], where the forest meets the roads to [[place-vylariargn|Vylaria]], and its name states what it is: _edr-_, a hedge, the bound set about a holding, joined by _-en-_ to _-burg_, a stronghold. Vristwald has no towns, and Edrenburg is not one of its villages: it is one of the half-Varokh border towns inside the province, like [[place-pinnhald|Pinnhald]], where Varokh families kept the name their ground already had and the empire built a garrison beside it. Varokh and Vylarian business meet there, and a Vylarian merchant can count on friends in the garrison.
+Edrenburg is a town of [[place-moktur|Moktur]] on the edge of [[place-vrystwald|Vristwald]], where the forest meets the roads to [[place-vylariargn|Viléria]], and its name states what it is: _edr-_, a hedge, the bound set about a holding, joined by _-en-_ to _-burg_, a stronghold. Vristwald has no towns, and Edrenburg is not one of its villages: it is one of the half-Varokh border towns inside the province, like [[place-pinnhald|Pinnhald]], where Varokh families kept the name their ground already had and the empire built a garrison beside it. Varokh and Vilérian business meet there, and a Vilérian merchant can count on friends in the garrison.
 
 ## Arriving
 
@@ -26,15 +26,15 @@ The forest begins at the end of the town. North of the last hedge the road goes 
 
 ## What Edrenburg Lives By
 
-Edrenburg lives by meeting. Varokh traders come out of the forest with furs, honey, wax and amber, Vylarian traders come up the road with iron, salt, cloth and coin, and the market on the road between the hedge and the fort is where they deal. The town's own people are go-betweens: they speak both tongues, they know whose word is good on either side, and they keep the inns, the stables and the dice-tables where a deal is drunk to.
+Edrenburg lives by meeting. Varokh traders come out of the forest with furs, honey, wax and amber, Vilérian traders come up the road with iron, salt, cloth and coin, and the market on the road between the hedge and the fort is where they deal. The town's own people are go-betweens: they speak both tongues, they know whose word is good on either side, and they keep the inns, the stables and the dice-tables where a deal is drunk to.
 
 ## The Town's Trade
 
-Edrenburg's taverns are where a con man finds marks and a merchant finds dice, and its garrison is what turns a quarrel at the dice into a pursuit. [[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]] learned that at Edrenburg: he cheated the wrong man at dice there, a Vylarian merchant with connections to the garrison, and fled into the pines with soldiers on his heels and a price on his head. The merchant has not forgotten him, and there may be warrants under several names waiting for him in more than one border town.
+Edrenburg's taverns are where a con man finds marks and a merchant finds dice, and its garrison is what turns a quarrel at the dice into a pursuit. [[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]] learned that at Edrenburg: he cheated the wrong man at dice there, a Vilérian merchant with connections to the garrison, and fled into the pines with soldiers on his heels and a price on his head. The merchant has not forgotten him, and there may be warrants under several names waiting for him in more than one border town.
 
 ## Who Rules and Keeps Order
 
-Two authorities share the town, and each keeps to its side of the road. The Varokh town is governed as a Varokh village is, by its elders in the hall on the green, and its quarrels are settled there. The garrison's commander, a _Hundar_ (centurion) of the legion at [[place-dolvar|Dolvar]], keeps the road, the market and the fort, and he judges anything that happens on the road or involves a Vylarian. The province counts Edrenburg a town under the _therkos_ and takes its market dues through the commander's clerk. A theft in the market goes to the commander, a theft inside the hedge goes to the elders, and a thief who runs from one side to the other has to be argued over.
+Two authorities share the town, and each keeps to its side of the road. The Varokh town is governed as a Varokh village is, by its elders in the hall on the green, and its quarrels are settled there. The garrison's commander, a _Hundar_ (centurion) of the legion at [[place-dolvar|Dolvar]], keeps the road, the market and the fort, and he judges anything that happens on the road or involves a Vilérian. The province counts Edrenburg a town under the _therkos_ and takes its market dues through the commander's clerk. A theft in the market goes to the commander, a theft inside the hedge goes to the elders, and a thief who runs from one side to the other has to be argued over.
 
 ## The Present {#present}
 
@@ -66,8 +66,8 @@ The [Hedge Gap]{.name data-type="place/structure"} is the inn at the north end o
 
 # The Truth of Edrenburg {#truth .secret}
 
-The dice-tables are where the garrison pays its informers. The legion buys word of the war-bands from men in the forest villages, and a Varokh seen taking Vylarian coin would be dead in his own village by the next moon. So the informers come to Edrenburg as traders, sit down at the Hedge Gap's table with a Vylarian merchant who is the garrison's paymaster, and win. The merchant is [Kaldremos Revothandis]{.name data-type="being/npc"}, who deals in salt and has been losing at dice to the same faces for nine years, and he loses exactly what each man's news is worth.
+The dice-tables are where the garrison pays its informers. The legion buys word of the war-bands from men in the forest villages, and a Varokh seen taking Vilérian coin would be dead in his own village by the next moon. So the informers come to Edrenburg as traders, sit down at the Hedge Gap's table with a Vilérian merchant who is the garrison's paymaster, and win. The merchant is [Kaldremos Revothandis]{.name data-type="being/npc"}, who deals in salt and has been losing at dice to the same faces for nine years, and he loses exactly what each man's news is worth.
 
-The night Vandarik sat down at that table, the man across from Kaldremos was an informer from a village two days into the pines with word of a war-band gathering for the summer. Vandarik cheated, and won the pot that was meant for the informer, and the informer went home with nothing to show for a night at the Vylarian's table but the company he had kept. His village drew its own conclusion, and he did not come out of the forest again. The garrison wants Vandarik for that. The price on his head is not for the cheat: he sat at the paymaster's table, he saw who sat with him, and he is now in the forest with an outlaw band.
+The night Vandarik sat down at that table, the man across from Kaldremos was an informer from a village two days into the pines with word of a war-band gathering for the summer. Vandarik cheated, and won the pot that was meant for the informer, and the informer went home with nothing to show for a night at the Vilérian's table but the company he had kept. His village drew its own conclusion, and he did not come out of the forest again. The garrison wants Vandarik for that. The price on his head is not for the cheat: he sat at the paymaster's table, he saw who sat with him, and he is now in the forest with an outlaw band.
 
 The trader who has missed two markets is another of Kaldremos's men.

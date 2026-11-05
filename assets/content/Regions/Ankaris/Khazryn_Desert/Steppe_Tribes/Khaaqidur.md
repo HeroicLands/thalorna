@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Khaaqidur**, "the gold people", are a [[lore-sowidesclt|Sovidur]] tribe of the stone desert of [[place-idwkrrgn|Idvaqor]], in the [[place-khzryndsrtrgn|Khazryn]], who winter on its eastern edge and summer on the high steppe north of [[lore-celestialroad|the Celestial Road]]. No caravan crosses their ground and no Tantsou patrol rides into it. The garrison and the road know them from the tales the tribes of the road tell about them, and the tales are of gold and skulls.
+The **Khaaqidur**, "the gold people", are a [[lore-sowidesclt|Sovidur]] tribe of the stone desert of [[place-idwkrrgn|Idvaqor]], in the [[place-khzryndsrtrgn|Khazrin]], who winter on its eastern edge and summer on the high steppe north of [[lore-celestialroad|the Celestial Road]]. No caravan crosses their ground and no Tantsou patrol rides into it. The garrison and the road know them from the tales the tribes of the road tell about them, and the tales are of gold and skulls.
 
 ## The Range
 

@@ -279,7 +279,7 @@ The thunderbird is built like an eagle on a scale that makes no sense to the eye
 
 ## In the Land
 
-Thunderbirds nest on the highest, most broken and most storm-beaten peaks, where nothing without wings can reach the eyrie. Meghashikhar is one: the monsoon cloud piles against its southern face every year, and the storm that feeds the Vedyari plain and shuts [[place-meghadvar|Meghadvar]] from below is the wind the thunderbird rides. The pair that holds the peak ranges over the whole western end of the wall and down over the north-western marches, hunting wild yaks and sheep on the high grazing and the beasts of the caravans on the road. Where else they nest, nobody can say for certain; [[affiliation-osketguides|the Osket]] say there is another pair farther east along the wall, and the tellers in the [[place-khzryndsrtrgn|Khazryn edge-towns]] say there are thunderbirds over the northern deserts as well.
+Thunderbirds nest on the highest, most broken and most storm-beaten peaks, where nothing without wings can reach the eyrie. Meghashikhar is one: the monsoon cloud piles against its southern face every year, and the storm that feeds the Vedyari plain and shuts [[place-meghadvar|Meghadvar]] from below is the wind the thunderbird rides. The pair that holds the peak ranges over the whole western end of the wall and down over the north-western marches, hunting wild yaks and sheep on the high grazing and the beasts of the caravans on the road. Where else they nest, nobody can say for certain; [[affiliation-osketguides|the Osket]] say there is another pair farther east along the wall, and the tellers in the [[place-khzryndsrtrgn|Khazrin edge-towns]] say there are thunderbirds over the northern deserts as well.
 
 ## Key Behaviors
 

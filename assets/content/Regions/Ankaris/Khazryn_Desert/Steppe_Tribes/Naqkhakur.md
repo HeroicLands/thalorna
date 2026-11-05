@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Naqkhakur**, "the sheep people", are a [[lore-sowidesclt|Sovidur]] tribe of [[place-wlqtrrgn|Volketor]], the western margin of the [[place-khzryndsrtrgn|Khazryn]], and the nearest thing the steppe has to a settled people. They winter in houses, sow barley in the clay pans, and carry the grain of [[place-velanthrgn|Velanthia]] east along the road. The hard tribes call them soft, and on the rest of the steppe "sheep people" is an insult.
+The **Naqkhakur**, "the sheep people", are a [[lore-sowidesclt|Sovidur]] tribe of [[place-wlqtrrgn|Volketor]], the western margin of the [[place-khzryndsrtrgn|Khazrin]], and the nearest thing the steppe has to a settled people. They winter in houses, sow barley in the clay pans, and carry the grain of [[place-velanthrgn|Velanthia]] east along the road. The hard tribes call them soft, and on the rest of the steppe "sheep people" is an insult.
 
 ## The Range
 
@@ -76,7 +76,7 @@ The Chuyelur raids make it worse. A Chuyelur warband that rides under the gather
 
 ## Where They Come From {#history}
 
-The Naqkhakur tell no tale of the year they first sowed. The hard tribes say the Vylarian forts on the margin taught them, when the [[affiliation-vylarinmpr|Vylarian Empire]] held a handful of outposts on the grass, and the Naqkhakur say the clay pans did.
+The Naqkhakur tell no tale of the year they first sowed. The hard tribes say the Vilérian forts on the margin taught them, when the [[affiliation-vylarinmpr|Vilérian Empire]] held a handful of outposts on the grass, and the Naqkhakur say the clay pans did.
 
 ## Hooks
 

@@ -22,12 +22,12 @@ forty days a year, no harbor at all.
 ## The Wind and the Water
 
 The ocean here is the cold one—the vast western water, not the warm
-[[place-vylarianse|Vylarian Sea]] to the south—and the wind off it is relentless. Volsater is built
+[[place-vylarianse|Vilérian Sea]] to the south—and the wind off it is relentless. Volsater is built
 low and heavy against it, its roofs weighted with stone, and its people regard the valley's complaints
 about frost as the fussing of the sheltered.
 
 The compensation is the **fishing**, which is superb. Cold water carries far more than warm, and
-Volsater's boats come back loaded when the Vylarian fleets are working hard for less. Salt-fish is the
+Volsater's boats come back loaded when the Vilérian fleets are working hard for less. Salt-fish is the
 town's oldest export and the one that pays whatever else happens.
 
 ## The Salt Pans

@@ -3,7 +3,7 @@ shortcode: elvtribute
 name: {full: The Tribute of Élavendre, en: [The Treaty of Valdun]}
 type: lore
 subType: history
-description: "From about 166 to 171 AF a Vylarian legion struck into the hills of Áuldalon and was harried into the forest margin, a cohort was lost, and Queen Réidane treated at Valdun: Élavendre kept its laws and its line and paid a yearly tribute in silver, and a Vylarian felzos took a house at Péravel."
+description: "From about 166 to 171 AF a Vilérian legion struck into the hills of Áuldalon and was harried into the forest margin, a cohort was lost, and Queen Réidane treated at Valdun: Élavendre kept its laws and its line and paid a yearly tribute in silver, and a Vilérian felzos took a house at Péravel."
 tags: [history]
 data:
   culture: elavendriclt
@@ -22,7 +22,7 @@ data:
         - place-valdun
         - place-beravel
       summary: >-
-        From the lowlands the legions have taken, a legion strikes north-west into the hills of Áuldalon. The hill levy and the Áelendan war-bands give it no battle; they harry it toward the forest margin, where a cohort that follows a path is not seen again. Queen Réidane of the house of Orethan treats at Valdun. Élavendre keeps its laws, its customs and its line, and pays a yearly tribute in silver, and a Vylarian felzos takes a house at Péravel. The Thordimalon comes in by the felzos's door, and the University of Péravel is chartered about 230.
+        From the lowlands the legions have taken, a legion strikes north-west into the hills of Áuldalon. The hill levy and the Áelendan war-bands give it no battle; they harry it toward the forest margin, where a cohort that follows a path is not seen again. Queen Réidane of the house of Orethan treats at Valdun. Élavendre keeps its laws, its customs and its line, and pays a yearly tribute in silver, and a Vilérian felzos takes a house at Péravel. The Thordimalon comes in by the felzos's door, and the University of Péravel is chartered about 230.
       standing: attested
       names:
         - {name: the Tribute of Élavendre, by: affiliation-vylarinmpr}
@@ -88,7 +88,7 @@ The hill levy and the Áelendan war-bands gave the legion no battle. The legion 
 
 ## Valdun
 
-Queen [Réidane]{.name data-type="being/npc"} of the house of [Orethan]{.name data-type="affiliation/lineage"} saw that she could not defeat the legion and that it could not defeat the kingdom, and she treated with the _felzos_ (legate) at Valdun. The terms were these. [[affiliation-kngdmlvndr|Élavendre]] would keep its own laws, its customs and its line of kings. It would pay a yearly tribute in silver. And a Vylarian _felzos_ would take a house in [[place-beravel|Péravel]] to receive it.
+Queen [Réidane]{.name data-type="being/npc"} of the house of [Orethan]{.name data-type="affiliation/lineage"} saw that she could not defeat the legion and that it could not defeat the kingdom, and she treated with the _felzos_ (legate) at Valdun. The terms were these. [[affiliation-kngdmlvndr|Élavendre]] would keep its own laws, its customs and its line of kings. It would pay a yearly tribute in silver. And a Vilérian _felzos_ would take a house in [[place-beravel|Péravel]] to receive it.
 
 The [[lore-aelendnppl|Áelendan]] were no party to the treaty. The Tree-Line oath meant the crown could not speak for the mountains, and the queen did not claim to. The treaty bound the lowland kingdom to the [[affiliation-vylarinmpr|Empire]] and left the tribal lands, as they had always been, outside the crown's writ ([[lore-firstcrown|The First Crowning of Élavendre]]).
 
@@ -110,7 +110,7 @@ The Áelendan have never forgiven the door. Order expeditions have taken artifac
 
 ## See Also
 
-- [[lore-westernwars|The Western Wars]]—the Vylarian account of the campaigns
+- [[lore-westernwars|The Western Wars]]—the Vilérian account of the campaigns
 - [[lore-lowlandstaken|The Lowlands Taken]]—the conquest the march began from
 - [[lore-firstcrown|The First Crowning of Élavendre]]—the oath the queen kept
 - [[lore-sorvandaclose|The Sórvanda Closing]]—what the tribute cost a later king

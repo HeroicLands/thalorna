@@ -47,7 +47,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Chuyelur**, "the jackal people", are a [[lore-sowidesclt|Sovidur]] tribe of the southern [[place-wlqtrrgn|Volketor]], in the [[place-khzryndsrtrgn|Khazryn]], whose grass runs down to the gray gravel of the [[place-hekardesert|Desert of Hek'ar]]. They live by the raid more openly than any tribe of the margin: herds from the March, flocks from their neighbors, and brides. Their old singer names every child, sings every raid and settles every quarrel, and a Chuyelur rider wants his name sung more than he wants the horses.
+The **Chuyelur**, "the jackal people", are a [[lore-sowidesclt|Sovidur]] tribe of the southern [[place-wlqtrrgn|Volketor]], in the [[place-khzryndsrtrgn|Khazrin]], whose grass runs down to the gray gravel of the [[place-hekardesert|Desert of Hek'ar]]. They live by the raid more openly than any tribe of the margin: herds from the March, flocks from their neighbors, and brides. Their old singer names every child, sings every raid and settles every quarrel, and a Chuyelur rider wants his name sung more than he wants the horses.
 
 ## The Range
 

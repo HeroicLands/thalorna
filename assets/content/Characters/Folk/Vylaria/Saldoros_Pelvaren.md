@@ -87,7 +87,7 @@ The order answers to two masters, the Holy Mother in peace and the king in war, 
 
 ### Enemies
 
-- [[being-trzmsbrkrts|Torzemos Brakarates]]: High Flame-Warden of Vylaria, at the Ashen Temple in Orzara, who calls the order the other Flame.
+- [[being-trzmsbrkrts|Torzemos Brakarates]]: High Flame-Warden of Viléria, at the Ashen Temple in Orzara, who calls the order the other Flame.
 
 ### Affiliations
 

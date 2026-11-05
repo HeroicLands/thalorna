@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Vindara sits among the terraced hillsides of [[place-hylen|Hilen]]'s wine country, a prosperous town of six thousand vintners, coopers and the estate-houses whose vintages cross the [[place-vylarianse|Vylarian Sea]]. The slopes around it are quilted with vineyards worked by tenant families, and the town's fortunes rise and fall with the vintage.
+Vindara sits among the terraced hillsides of [[place-hylen|Hilen]]'s wine country, a prosperous town of six thousand vintners, coopers and the estate-houses whose vintages cross the [[place-vylarianse|Vilérian Sea]]. The slopes around it are quilted with vineyards worked by tenant families, and the town's fortunes rise and fall with the vintage.
 
 Its merchants deal in the casks and the contracts that carry Hilen's wine to the ports of [[place-salkhalon|Salkalon]] and beyond. A cooper's apprentice learns early that a good year fills his master's yard with orders, and a bad one leaves him sweeping it.
 
@@ -64,7 +64,7 @@ The [Vine Stair]{.name data-type="place/structure"}, the inn at the head of the 
 [[place-hylen|Hilen]]
 : the land of its wine country
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[place-mercavia|Delalara]]

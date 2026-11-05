@@ -91,4 +91,4 @@ The first Orzas of the Restoration repaired the city's walls, the granaries and 
 - [[lore-brkensuccsn|The Broken Succession]]—the years the Restoration ended
 - [[lore-greatburnng|The Great Burning]]—the city Makandas took
 - [[lore-arzanasedict|The Edicts of Arzanas]]—the second Orzas's rebuilding
-- [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[affiliation-vylarinmpr|Vilérian Empire]]

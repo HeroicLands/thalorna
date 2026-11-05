@@ -3,7 +3,7 @@ shortcode: compactsignd
 name: {full: The Signing of the Compact, en: [The Hiring of the Nordmen]}
 type: lore
 subType: history
-description: "About 550 AF the Vylarian Empire began paying Nordmen to garrison the frontier its own fleets had loosened, and about 560 the free companies of the north met at Hringstead and signed the Compact, so that an employer would know what he bought and a captain what he owed."
+description: "About 550 AF the Vilérian Empire began paying Nordmen to garrison the frontier its own fleets had loosened, and about 560 the free companies of the north met at Hringstead and signed the Compact, so that an employer would know what he bought and a captain what he owed."
 tags: [history, nordlands]
 data:
   culture: nordheimnclt
@@ -61,7 +61,7 @@ data:
 
 ## The Empire Buys What It Could Not Stop
 
-[[lore-southrnfleets|The Southern Fleets]] went home about 530, and the empire they had struck did not recover its western coast. The [[place-provenzrgn|Provénzia Region]] and the [[place-tarvenirgn|Tarvénia Region]] were drifting toward realms of their own, the legions were thin, and a frontier commander in the west had a problem a Vylarian could solve with money: there were more Nordmen warriors than the north could feed, and they had just shown they could take a coast. About 550 the first contracts were made, by the season, for a crew and its captain to hold a fort or a harbor the empire could no longer garrison itself. The silver that went north in wages was the same silver that had gone north in plunder, and the captains who took it were in several cases the sons of the men who had taken it the other way.
+[[lore-southrnfleets|The Southern Fleets]] went home about 530, and the empire they had struck did not recover its western coast. The [[place-provenzrgn|Provénzia Region]] and the [[place-tarvenirgn|Tarvénia Region]] were drifting toward realms of their own, the legions were thin, and a frontier commander in the west had a problem a Vilérian could solve with money: there were more Nordmen warriors than the north could feed, and they had just shown they could take a coast. About 550 the first contracts were made, by the season, for a crew and its captain to hold a fort or a harbor the empire could no longer garrison itself. The silver that went north in wages was the same silver that had gone north in plunder, and the captains who took it were in several cases the sons of the men who had taken it the other way.
 
 The trade suited the north. A younger son, a dispossessed jarl, an oath-broken huscarl or a dreng without a hall had always taken ship and hired his sword somewhere; now there was an employer who paid in coin, by contract, for a season at a time, and did not need to be raided first. Within a generation the empire had made Nordmen a standing part of its frontier garrisons, and the halls had a word for a man who came home from the south with silver and no story: he had been paid.
 
@@ -75,7 +75,7 @@ The Compact-Hall was raised on the Circle's swearing-ground, and the two bodies 
 
 - **The Hall and the Truce.** On Compact-Hall ground every signed warrior is under truce, and to kill a man at Hringstead is an act for which there is no expiation.
 - **The trade.** Thirty-four signed companies of any size answer to the Hall today, from twelve-sword scouting bands to a long-ship fellowship of nearly four hundred, and Nordmen serve in armies across the continent.
-- **The empire's habit.** Vylarian frontier garrisons have carried Nordmen since, and a Nordman in imperial pay is an ordinary sight on the [[place-vrystwald|Vristwald]] march and the western coast.
+- **The empire's habit.** Vilérian frontier garrisons have carried Nordmen since, and a Nordman in imperial pay is an ordinary sight on the [[place-vrystwald|Vristwald]] march and the western coast.
 - **The cautionary tale.** The largest company the Hall ever signed, the [Stormhand Brotherhood]{.name data-type="affiliation/venture"}, was broken in Vristwald about 692, and the Hall tells its story to every new captain.
 
 A party that signs a small company into the Compact takes on the Council's law along with its contracts, and a captain who finds that the employer who hired his company is also the one it was hired against has a question only the Council of the Hall can answer.
@@ -91,7 +91,7 @@ A party that signs a small company into the Compact takes on the Council's law a
 [[lore-southrnfleets|The Southern Fleets]]
 : the raids the hiring answered
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the employer
 
 [[lore-domseycount|The Domsey Count]]

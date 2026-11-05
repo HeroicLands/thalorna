@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-"I will feed you, stable your camels and find you a buyer," a caravansary master of Karvashion tells a Dunhari trader on his first crossing, "and by morning you will know what each of them cost me and what each will cost you." That is the whole city-state in one welcome. Karvashion sits where the caravan road from the east divides toward the [[place-khzryndsrtrgn|Khazryn Desert Region]] and toward the [[place-dunharargn|Dunhara Region]], its river valley green against the dry hills around it, and about 1.2 million people live under its council. The men who run its great caravanserais sit on that council beside the merchant-princes, and their influence rivals the merchant-princes' own.
+"I will feed you, stable your camels and find you a buyer," a caravansary master of Karvashion tells a Dunhari trader on his first crossing, "and by morning you will know what each of them cost me and what each will cost you." That is the whole city-state in one welcome. Karvashion sits where the caravan road from the east divides toward the [[place-khzryndsrtrgn|Khazrin Desert Region]] and toward the [[place-dunharargn|Dunhara Region]], its river valley green against the dry hills around it, and about 1.2 million people live under its council. The men who run its great caravanserais sit on that council beside the merchant-princes, and their influence rivals the merchant-princes' own.
 
 ## Who Decides
 
@@ -78,17 +78,17 @@ A council of caravansary masters and merchant-princes governs the city-state fro
 
 ## Standing
 
-The Dunhari and Khazryni merchants who keep permanent trading quarters in the city keep their own tongues, faiths and law there. Standing in the city's own courts is a separate matter and follows the register: the freeman, enrolled in it, trades in the markets and pleads in the courts, while the resident lives under the city's protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head, the councillor and the First of the Council.
+The Dunhari and Khazrini merchants who keep permanent trading quarters in the city keep their own tongues, faiths and law there. Standing in the city's own courts is a separate matter and follows the register: the freeman, enrolled in it, trades in the markets and pleads in the courts, while the resident lives under the city's protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head, the councillor and the First of the Council.
 
 ## Relations
 
-Karvashion has a stronger eastern character than the other League cities, and [[affiliation-ashanpnthn|Ashaian worship]] has a significant following in it, above all among the Dunhari and Khazryni merchants. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]; its reputation is for gardeners, merchants and a peaceful culture.
+Karvashion has a stronger eastern character than the other League cities, and [[affiliation-ashanpnthn|Ashaian worship]] has a significant following in it, above all among the Dunhari and Khazrini merchants. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]; its reputation is for gardeners, merchants and a peaceful culture.
 
 Its closest tie is to the [[place-southrnmrch|Southern March]], whose lord holds the Dunhara road. The caravansary masters depend on the March to keep that road open and its wells clean, and they pay for it in tolls and in gifts to the lord. The lord in turn depends on Karvashion for grain, coin and a market for the March's wool, and both would rather the League council did not look closely at how the road's revenue is divided.
 
 ## Commerce and Currency
 
-Karvashion uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Karvashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Karvashion uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Karvashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

@@ -88,7 +88,7 @@ He has none. Several claimants' agents have bought drinks for his captains this 
 ### Affiliations
 
 - **[[affiliation-zargoi|Zargoi]]**: Master of the Irons, a Brother of the Stand of his legion's club.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a citizen by twenty years' service, drawing a deputy centurion's pension.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a citizen by twenty years' service, drawing a deputy centurion's pension.
 
 ## Plot Hooks
 

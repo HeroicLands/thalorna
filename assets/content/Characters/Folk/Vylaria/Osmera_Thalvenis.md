@@ -76,11 +76,11 @@ The endowment depends on the Seldan, and the Black Flame's patrons there raise t
 
 ### Enemies
 
-- [[being-trzmsbrkrts|Torzemos Brakarates]]: High Flame-Warden of Vylaria, at the Ashen Temple, who has the petition for the niche drafted and the patrons to press it.
+- [[being-trzmsbrkrts|Torzemos Brakarates]]: High Flame-Warden of Viléria, at the Ashen Temple, who has the petition for the niche drafted and the patrons to press it.
 
 ### Others
 
-- [[being-ilvnssrkls|Ilvenas Sarkelis]]: The Holy Mother of Nartun. They write to each other on doctrine, in the old Vylari, once a year, and have never met.
+- [[being-ilvnssrkls|Ilvenas Sarkelis]]: The Holy Mother of Nartun. They write to each other on doctrine, in the old Vilari, once a year, and have never met.
 
 ### Affiliations
 

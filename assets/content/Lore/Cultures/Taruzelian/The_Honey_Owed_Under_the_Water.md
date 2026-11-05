@@ -219,7 +219,7 @@ Now go to bed. And when you are in a storm, bail.
 [[lore-brazemasdty|Brazemas]]
 : the Thunderer, and the vow a captain will not make for her house
 
-[[place-vylarianse|Vylarian Sea]]
+[[place-vylarianse|Vilérian Sea]]
 : the sea the coast trades on, up to the edge of the Academy's chart
 
 [[lore-taruzelianclt|Taruzelian]]

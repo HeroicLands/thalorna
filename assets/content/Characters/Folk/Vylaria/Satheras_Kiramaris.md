@@ -77,9 +77,9 @@ His legion is paid late, his towers are short of men, and every letter he sends 
 
 ### Affiliations
 
-- **[[affiliation-vylrnmltry|The Vylarian Military]]**: a _vandraks_, commanding the legion at Dolvar.
+- **[[affiliation-vylrnmltry|The Vilérian Military]]**: a _vandraks_, commanding the legion at Dolvar.
 - **[[affiliation-provncmktr|The Province of Moktur]]**: the _vandraks_ of the province and the _therkos_'s deputy in the field.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a _kurthos_ of an old house of the capital.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a _kurthos_ of an old house of the capital.
 
 ## Plot Hooks
 

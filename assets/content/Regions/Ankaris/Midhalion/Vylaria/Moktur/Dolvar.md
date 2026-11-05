@@ -27,7 +27,7 @@ The military road north from [[place-tyrellan|Tirellan]] climbs for three days t
 
 From the north gate the valley runs down to the marsh at its foot, gray-brown and flat, with the passes of [[place-vandstein|Vandstein]] above it and the forest beyond. The town's people do not look at the marsh. A newcomer learns that on his first evening, standing on the wall to count the smoke with a sergeant who keeps his eyes on the forest ([[place-blackmarshfld|The Blood-field of the Black Marsh]]).
 
-Inside the fortress, against its east wall, stands the [House of Guests]{.name data-type="place/structure"}, a long building with a garden and its own guard. The boys who live in it are the sons of Varokh War Chiefs from the Vandstein villages nearest the passes, sent down under the truce and kept as its surety, a boy from each village. They learn to read Vylari, ride with the cavalry and eat at the officers' table, and in the summer they are shown to their villages' envoys at the truce market.
+Inside the fortress, against its east wall, stands the [House of Guests]{.name data-type="place/structure"}, a long building with a garden and its own guard. The boys who live in it are the sons of Varokh War Chiefs from the Vandstein villages nearest the passes, sent down under the truce and kept as its surety, a boy from each village. They learn to read Vilari, ride with the cavalry and eat at the officers' table, and in the summer they are shown to their villages' envoys at the truce market.
 
 ## What Dolvar Lives By
 
@@ -35,7 +35,7 @@ Dolvar lives by the legion. Its cohorts and their animals eat grain brought up t
 
 The watchtowers report to Dolvar. Every tower on the march keeps a _karvumrozima_ (smoke tally), a wax board for each evening on which the watch officer marks the smoke counted from the wall at dusk, and when a board is full it comes down to the fortress with the dispatch. The clerks at Dolvar read them, copy the figures into the march's book and send the boards back to be smoothed. The book is how the _vandraks_ knows where the forest is gathering.
 
-The truce market is the town's one other trade. Four times each summer, on days fixed by the truce, Varokh traders from the Vandstein villages come down to a marked field below the town with furs, honey, wax and hides, and Vylarian traders meet them with iron, salt and cloth. The legion's horse stands at both ends of the field. Nobody crosses the stones that mark it without leave, and the market has run every summer since the truce was sworn.
+The truce market is the town's one other trade. Four times each summer, on days fixed by the truce, Varokh traders from the Vandstein villages come down to a marked field below the town with furs, honey, wax and hides, and Vilérian traders meet them with iron, salt and cloth. The legion's horse stands at both ends of the field. Nobody crosses the stones that mark it without leave, and the market has run every summer since the truce was sworn.
 
 ## Who Rules and Keeps Order
 
@@ -49,7 +49,7 @@ The fortress was raised in the hunger raids to hold a legion on the march, and t
 
 ## Current Situation {#present}
 
-The truce holds, and every part of it is under strain. The boys in the House of Guests are shown to their villages' envoys this summer as every summer. A tower's smoke tally is three days late, and the _vandraks_, Satheras Kiramaris, will not send a century into the hills on a guess. The legion is paid when the treasury's coin comes up the road through [[place-tyrellan|Tirellan]], the road whose stations the _therkos_ keeps. At the truce market a Vylarian trader has crossed the marked stones in the night and is missing, and his partner fears the Varokh envoys will call it a breach.
+The truce holds, and every part of it is under strain. The boys in the House of Guests are shown to their villages' envoys this summer as every summer. A tower's smoke tally is three days late, and the _vandraks_, Satheras Kiramaris, will not send a century into the hills on a guess. The legion is paid when the treasury's coin comes up the road through [[place-tyrellan|Tirellan]], the road whose stations the _therkos_ keeps. At the truce market a Vilérian trader has crossed the marked stones in the night and is missing, and his partner fears the Varokh envoys will call it a breach.
 
 ## Where a Party Lodges
 
@@ -59,7 +59,7 @@ The lower town has three taverns with beds, and the best of them is the [Gold Ba
 
 - **The tally that did not come.** A tower's smoke tally is three days late and its dispatch rider has not come down. The _vandraks_ will not send a century into the hills on a guess, and he hires a party to ride up and see why the tower is silent.
 - **The boy who wants to go home.** One of the boys in the House of Guests asks a party, through the cook, to carry a token across the passes to his mother. The token is harmless. Carrying anything across the line from the House of Guests is forbidden by the truce.
-- **The trader at the stones.** At the truce market a Vylarian trader has crossed the marked stones in the night and is missing, with his mule and his goods. His partner needs him found before the Varokh envoys decide the truce has been broken by the other side.
+- **The trader at the stones.** At the truce market a Vilérian trader has crossed the marked stones in the night and is missing, with his mule and his goods. His partner needs him found before the Varokh envoys decide the truce has been broken by the other side.
 
 ## See Also
 
@@ -69,7 +69,7 @@ The lower town has three taverns with beds, and the best of them is the [Gold Ba
 [[place-moktur|Moktur]]
 : the land the fortress guards
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[place-tyrellan|Tirellan]]

@@ -64,7 +64,7 @@ Each Great Lord controls trade within his own domain; the Emperor does not. The 
 
 The **west**, across the strait, is Tantsou—the rejected motherland. Raids along the Tantsou coast are a standing institution of Jenchai policy, and the Great Lords openly claim sovereignty over coastal territories that were once part of their ancestral province. The Empire treats this as piracy and insurrection; Jenchai treats it as the rightful reclamation of lands heaven intended for them.
 
-To the **south**, Jenchai trading ships reach Vedyara and sometimes Zerathian ports, participating in the wider eastern and Vylarian commerce from a safe distance—the archipelago is far enough east that no western power has ever seriously projected military force against it.
+To the **south**, Jenchai trading ships reach Vedyara and sometimes Zerathian ports, participating in the wider eastern and Vilérian commerce from a safe distance—the archipelago is far enough east that no western power has ever seriously projected military force against it.
 
 To the **north**, the archipelago's outer islands trail off into frozen seas the Jenchai rarely cross. What lies beyond is mostly legend.
 

@@ -3,7 +3,7 @@ shortcode: besikar2
 name: {full: Besikar}
 type: place
 subType: settlement
-description: "The largest and wealthiest city of Taruzel and the seat of its Grand Council: a marble Guild Quarter along the finest anchorage on the Vylarian Sea, a Khelathi factorage on its own quay, and an old city of covered bazaars and tenements whose people have no vote."
+description: "The largest and wealthiest city of Taruzel and the seat of its Grand Council: a marble Guild Quarter along the finest anchorage on the Vilérian Sea, a Khelathi factorage on its own quay, and an old city of covered bazaars and tenements whose people have no vote."
 tags: [city, port, capital]
 data:
   demonym: Besikarian
@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-A ship bound for Besikar passes between fortified islets and two long breakwaters before the city opens in front of her, and inside them lies the [Grand Harbor]{.name data-type="place/feature"}, a deep natural bay that can shelter hundreds of hulls at once. It is the finest anchorage on the [[place-vylarianse|Vylarian Sea]]. Besikar, a city of about 400,000 on the north-western coast of [[place-qalirel|Qalirel]], is the seat of the city-state of [[affiliation-besikar|Besikar]], the largest and wealthiest member of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and the city where the Confederation's [[affiliation-grandcouncil|Grand Council]] meets.
+A ship bound for Besikar passes between fortified islets and two long breakwaters before the city opens in front of her, and inside them lies the [Grand Harbor]{.name data-type="place/feature"}, a deep natural bay that can shelter hundreds of hulls at once. It is the finest anchorage on the [[place-vylarianse|Vilérian Sea]]. Besikar, a city of about 400,000 on the north-western coast of [[place-qalirel|Qalirel]], is the seat of the city-state of [[affiliation-besikar|Besikar]], the largest and wealthiest member of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and the city where the Confederation's [[affiliation-grandcouncil|Grand Council]] meets.
 
 The name is the harbor's: _besik-_, to shelter from the swell, with _-ar_, where the thing is kept. Everything else in Besikar follows from the water. The banks that lend against cargoes stand on the quay where the cargoes land, the Council that votes the Confederation's tariffs sits a street from the customs, and the dock workers who carry it all live in the old city behind the warehouses and count none of it.
 
@@ -27,7 +27,7 @@ The name is the harbor's: _besik-_, to shelter from the swell, with _-ar_, where
 
 The Harbormaster's launch meets every hull at the inner breakwater. Its clerk reads the ship's papers on deck, measures her draft against a painted pole, and gives her master a berth and a chit for the dues, which fall on tonnage and are paid at the customs before any cargo leaves the quay. The harbor has two arms. The northern arm holds the naval yards, where the Confederation's warships are built and refitted behind a wall, and no merchant berths there. The southern arm holds the fishing fleet, the coasters and the smaller traders. Between the two, along the deep water, run the merchant quays of the Guild Quarter, where the great hulls of the eastern trade lie three deep in the sailing season.
 
-From the water a newcomer sees three things before any other. The first is the marble front of the [Guild Quarter]{.name data-type="place/site"}, a mile of warehouses and counting houses faced in white stone along the quays. The second is the old city climbing the hill behind it, brown and crowded, its roofs broken by the domes of the covered bazaars. The third is a black warship in a stone dock on the waterfront below the naval yards, her oar-ports empty and a Taruzelian flag at her stern: the [[place-tamzirmonument|Tamzir Monument]], a Vylarian ship taken at the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]).
+From the water a newcomer sees three things before any other. The first is the marble front of the [Guild Quarter]{.name data-type="place/site"}, a mile of warehouses and counting houses faced in white stone along the quays. The second is the old city climbing the hill behind it, brown and crowded, its roofs broken by the domes of the covered bazaars. The third is a black warship in a stone dock on the waterfront below the naval yards, her oar-ports empty and a Taruzelian flag at her stern: the [[place-tamzirmonument|Tamzir Monument]], a Vilérian ship taken at the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]).
 
 A traveler who comes overland arrives by the pass road from [[place-pashinar|Pashinar]], four days for a mule train, and enters the city through its outskirts: walled gardens, cisterns, rope-walks and the newest tenements, built on the slopes where the old city has run out of room. The caravan inns at the head of the road are the first place in Besikar where a stranger is asked his business. The second is the customs.
 
@@ -41,7 +41,7 @@ The Guild Quarter is a canyon of marble, five streets deep, where fortunes are m
 
 Three buildings on the Quarter belong to the whole Confederation.
 
-- **The Auric Compact's house** is the old palace of the Vylarian _therkos_ (governor), a long gray building with a colonnade on the harbor side and a garden behind high walls. The [[affiliation-auricompct|Auric Compact]] finances the ships in the harbor from it, insures their cargoes and lends to the Confederation that meets down the street. Its doorkeepers carry staves, and a debtor called to the house goes in by the side door.
+- **The Auric Compact's house** is the old palace of the Vilérian _therkos_ (governor), a long gray building with a colonnade on the harbor side and a garden behind high walls. The [[affiliation-auricompct|Auric Compact]] finances the ships in the harbor from it, insures their cargoes and lends to the Confederation that meets down the street. Its doorkeepers carry staves, and a debtor called to the house goes in by the side door.
 - **The [Vezakar]{.name data-type="place/site"}**, the seat of [[affiliation-vezakuni|the Council of the Guild-Wardens]], the Vezakuni, stands in the rebuilt hall of the old compact-house of Besikar's merchant princes. The Vezakuni charter the guilds there, examine apprentices and judge disputes between trades. Under its floor lies the strongroom of the [[affiliation-merazuni|Merazuni]], the Confederation's treasury and mint, and a detachment of Confederation marines stands at its stair day and night. Every evening the runners of the moneylender houses go in at the same door with the day's script chained to their wrists, and the treasury's clerks clear it before the lamps are lit.
 - **The [[place-grandcnclhall|Grand Council Hall]]** is the old imperial customs-house at the head of the quays, where the twenty-five councilors of the Confederation sit twice a year. The Arch-Consul's residence stands beside it, and this year it is kept by [[being-dnshkmn|Danashu Kumuni]] of [[place-qudumel2|Kudumel]], who sets the most generous table it has seen.
 
@@ -49,7 +49,7 @@ Three buildings on the Quarter belong to the whole Confederation.
 
 At the southern end of the Guild Quarter a walled compound runs down to a quay of its own, and the hulls tied up at it fly the colors of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. This is the Khelathi factorage. Its warehouses, its counting house and the lodgings of its factors and clerks all stand inside one wall, with one gate onto the city, and the gate is shut at sunset and opened at first light by the factorage's own keepers. The head factor lives inside it. So do some forty Khelathi merchants and clerks in the sailing season, and fewer in winter.
 
-A Khelathi hull that ties up at the factorage quay pays a lower harbor due than any other foreign ship in Besikar, and her cargo is landed before the Vylarian cargoes on the next quay. The Confederation does not explain the arrangement, and the Harbormaster's clerks do not discuss it. The dock workers who unload at the factorage are paid by the day at the gate and are not allowed past the warehouses.
+A Khelathi hull that ties up at the factorage quay pays a lower harbor due than any other foreign ship in Besikar, and her cargo is landed before the Vilérian cargoes on the next quay. The Confederation does not explain the arrangement, and the Harbormaster's clerks do not discuss it. The dock workers who unload at the factorage are paid by the day at the gate and are not allowed past the warehouses.
 
 ## The Old City
 
@@ -78,7 +78,7 @@ Independence put new masters in the old buildings. The Auric Compact took the _t
 ## Hooks {#hooks}
 
 - **A vote for sale.** A tenement block in the old city, crowded to the roof with dock workers' families, is entered in the Roll, and its owner has died without an heir. Three buyers want it, none of them for the rents, and the Chancellor's clerk who will record the sale wants a party to learn who stands behind each one.
-- **The night watch.** Veterans have begun sitting up in the [[place-tamzirmonument|Tamzir Monument]]'s dock at night with lanterns and boat-hooks, saying someone means to burn her. The Harbormaster wants them gone before the sailing season brings the Vylarian hulls in.
+- **The night watch.** Veterans have begun sitting up in the [[place-tamzirmonument|Tamzir Monument]]'s dock at night with lanterns and boat-hooks, saying someone means to burn her. The Harbormaster wants them gone before the sailing season brings the Vilérian hulls in.
 - **The clerk at the gate.** A young Khelathi clerk of the factorage slips out of the gate before it closes and asks a party, in careful Taruzeli, to carry a sealed letter to a ship lying in the roads, and to give it to nobody else.
 - **The runner.** One of the moneylender houses' evening runners has not reached the Vezakar, and his satchel was chained to his wrist.
 

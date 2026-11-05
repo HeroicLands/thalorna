@@ -20,8 +20,8 @@ awkward city.
 
 ## A City That Faces the Wrong Way
 
-Provénzia's wealth runs along the warm southern coast, in and out of the Vylarian world, and the
-southern ports are the kingdom as foreigners picture it: sunlit, rich, sophisticated, Vylarian in
+Provénzia's wealth runs along the warm southern coast, in and out of the Vilérian world, and the
+southern ports are the kingdom as foreigners picture it: sunlit, rich, sophisticated, Vilérian in
 manner if no longer in law.
 
 Bataren is none of that. It faces the **open ocean**, trades with [[place-elavendre|Élavendre]],

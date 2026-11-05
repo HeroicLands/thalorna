@@ -3,7 +3,7 @@ shortcode: wlqtrrgn
 name: {full: Volketor, en: [The Western Margin]}
 type: place
 subType: region
-description: "The grass-and-scrub margin of the Khazryn below Bizaria's Eastern March—the first five hundred miles of the Celestial Road, held by the most practiced traders and raiders on the road."
+description: "The grass-and-scrub margin of the Khazrin below Bizaria's Eastern March—the first five hundred miles of the Celestial Road, held by the most practiced traders and raiders on the road."
 tags: [region]
 data:
   demonym: null
@@ -22,7 +22,7 @@ data:
 
 The last caravanserai of the [[place-eastrnmrch|Eastern March]] stands on a bare rise, and from its roof you can see everything the [[affiliation-byzarianlg|Bizarian League]] claims: a paved road, a water tank, a stable yard, and eastward a band of grass the color of straw. Past the end of the paving no one patrols. By the second evening a rider has appeared on a ridge, paced the caravan for an hour and gone, and the master has begun counting silver into small bags.
 
-**Volketor**, "the grass range" in [[skill-sowideslng|Sovidur]], is the western margin of the [[place-khzryndsrtrgn|Khazryn]], where the dry foothills below the March fall away into steppe. It faces [[place-velanthrgn|Velanthia]] to the northwest, [[place-byzariargn|Bizaria]] to the west and the [[place-dunharargn|Dunhara]] to the southwest. The first five hundred miles of [[lore-celestialroad|the Celestial Road]] cross it.
+**Volketor**, "the grass range" in [[skill-sowideslng|Sovidur]], is the western margin of the [[place-khzryndsrtrgn|Khazrin]], where the dry foothills below the March fall away into steppe. It faces [[place-velanthrgn|Velanthia]] to the northwest, [[place-byzariargn|Bizaria]] to the west and the [[place-dunharargn|Dunhara]] to the southwest. The first five hundred miles of [[lore-celestialroad|the Celestial Road]] cross it.
 
 ## Land and Water
 
@@ -38,21 +38,21 @@ Their herds are horses and sheep, and the tribes test the March's herds and unes
 
 ## Current Situation {#present}
 
-The tribes of the margin sell passage at the edge of the March and carry the Velanthian frontier trade. In the [[place-hekardesert|Desert of Hek'ar]] the Blazing Oath of the Black Flame keeps a camp at the tower of the [[place-ruinsarkor|Ruins of Arkor]] and fights rival factions of its own faith, and the tribes sell passage to every faction at once. At [[place-roqid|Oroqid]] the tribe that holds the cistern awaits a Vylarian official who wants a standard from the strongroom, and word has reached the margin of a dovaq gathering the northern tribes.
+The tribes of the margin sell passage at the edge of the March and carry the Velanthian frontier trade. In the [[place-hekardesert|Desert of Hek'ar]] the Blazing Oath of the Black Flame keeps a camp at the tower of the [[place-ruinsarkor|Ruins of Arkor]] and fights rival factions of its own faith, and the tribes sell passage to every faction at once. At [[place-roqid|Oroqid]] the tribe that holds the cistern awaits a Vilérian official who wants a standard from the strongroom, and word has reached the margin of a dovaq gathering the northern tribes.
 
 ## Dangers
 
-Raiders test unescorted strings; a string with a rider of the right tribe is rarely touched, and a string with none is lawful prey. Dust storms blow up in midsummer and last three days. In Hek'ar, knights of [[affiliation-blackflame|the Black Flame]] hunt the [[miscgear-velokeye|Eye of Velok]] among the [[place-ruinsarkor|Ruins of Arkor]] and fight one another over how. A fort from the days of the [[affiliation-vylarinmpr|Vylarian Empire]], [[place-roqid|Oroqid]] ("the camp"), stands on a low ridge near the road with its cistern still filling, and the tribe that waters there charges for the water and for its silence.
+Raiders test unescorted strings; a string with a rider of the right tribe is rarely touched, and a string with none is lawful prey. Dust storms blow up in midsummer and last three days. In Hek'ar, knights of [[affiliation-blackflame|the Black Flame]] hunt the [[miscgear-velokeye|Eye of Velok]] among the [[place-ruinsarkor|Ruins of Arkor]] and fight one another over how. A fort from the days of the [[affiliation-vylarinmpr|Vilérian Empire]], [[place-roqid|Oroqid]] ("the camp"), stands on a low ridge near the road with its cistern still filling, and the tribe that waters there charges for the water and for its silence.
 
 ## Hooks
 
 - The Black Flame faction in Hek'ar has run out of coin and offers a caravan master double rates to carry a sealed chest east, and will not say what is in it.
-- A Volketor tribe claims to know the way into the strongroom at Oroqid where the Vylarian legion standards lie, and an envoy of the Empire has come asking to buy the way without saying why it matters.
+- A Volketor tribe claims to know the way into the strongroom at Oroqid where the Vilérian legion standards lie, and an envoy of the Empire has come asking to buy the way without saying why it matters.
 - A rider who joined a caravan at the March's edge has been stealing its tokens one at a time, and the master must decide whether to say so at the first hand-off well, [[place-yemokwell|Yemok]], where the rider's own tribe will hear.
 
 ## See Also
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region
 
 [[place-eastrnmrch|The Eastern March]]

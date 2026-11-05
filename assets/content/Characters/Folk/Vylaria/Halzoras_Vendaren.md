@@ -102,8 +102,8 @@ He has no great house behind him, no seat in the Seldan and no fortune of his ow
 
 ### Affiliations
 
-- **[[affiliation-vylrnmltry|The Vylarian Military]]**: _vandraks_, commander of a legion of the northern march.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: of the propertied order, holding a legion's command from the Orzas.
+- **[[affiliation-vylrnmltry|The Vilérian Military]]**: _vandraks_, commander of a legion of the northern march.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: of the propertied order, holding a legion's command from the Orzas.
 
 ## Plot Hooks
 

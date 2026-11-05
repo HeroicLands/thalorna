@@ -98,7 +98,7 @@ The peace was a settlement, not a victory. The estates agreed to a king, so that
 [[lore-bloodhillsbtl|The Battle of the Blood Hills]]
 : the Forge's quarrel with the Empire
 
-[[lore-empirdclne|The Decline of the Vylarian Empire]]
+[[lore-empirdclne|The Decline of the Vilérian Empire]]
 : the loosening grip
 
 [[lore-crownssettle|The Settlement of the Crowns]]

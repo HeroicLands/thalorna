@@ -1,9 +1,9 @@
 ---
 shortcode: vylarilng
-name: {full: Vylari Language}
+name: {full: Vilari Language}
 type: skill
 subType: language
-description: "The imperial tongue of the Vylarian court and, as the Vylarians hold it, the language of learning, government, the arcane and the university system in the empire and the lands that look to it."
+description: "The imperial tongue of the Vilérian court and, as the Vilérians hold it, the language of learning, government, the arcane and the university system in the empire and the lands that look to it."
 tags: []
 data:
   core: true
@@ -1711,7 +1711,7 @@ data:
     - form: thalbezon
       class: n n
       field: "Craft, guild and the kept secret"
-      gloss: "steel; the guarded alloy of the Vylarian smiths"
+      gloss: "steel; the guarded alloy of the Vilérian smiths"
       source: {kind: inherited}
     - form: radzimon
       class: n n
@@ -9264,21 +9264,21 @@ data:
       proto: us
       gloss: over
   tongues:
-    - {tag: vylari, meaning: a Vylari name, language: skill-vylarilng}
+    - {tag: vylari, meaning: a Vilari name, language: skill-vylarilng}
     - {tag: kept, meaning: "a loanword kept in its source tongue's spelling, by ruling"}
     - {tag: translation, meaning: a name given in the language of these pages}
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - tag: other:<tongue>
       meaning: "a name in another tongue of the setting, as its speakers give it"
     - {tag: other, meaning: a name in no tongue these pages name}
-    - {tag: ancient, meaning: "a letter of ancient Vylari"}
+    - {tag: ancient, meaning: "a letter of ancient Vilari"}
   register:
     - {name: Varokh, tongue: vylari}
     - {name: Yalzeme, tongue: vylari}
     - {name: Yalzizon, tongue: vylari}
     - {name: Nizelar, tongue: vylari}
     - {name: Taruzelia, tongue: vylari}
-    - {name: Vylari, tongue: vylari}
+    - {name: Vilari, tongue: vylari}
     - {name: Karzen Ethlos Urzelthos, tongue: vylari}
     - {name: Felzen Hiltheren, tongue: vylari}
     - {name: Karsan Soldan Korvan, tongue: vylari}
@@ -9350,7 +9350,7 @@ data:
     - {name: Veramus of Works and Waters, tongue: translation}
     - {name: Veramus of the Rolls, tongue: translation}
     - {name: Seldan, tongue: vylari}
-    - {name: The Vylarian Senate, tongue: translation}
+    - {name: The Vilérian Senate, tongue: translation}
     - {name: The Senate, tongue: translation}
     - {name: Ankren, tongue: vylari}
     - {name: Ethlen, tongue: vylari}
@@ -9376,8 +9376,8 @@ data:
     - {name: The Imperial Guard, tongue: translation}
     - {name: Lieutenant, tongue: translation}
     - {name: Captain, tongue: translation}
-    - {name: The Vylarian Military, tongue: translation}
-    - {name: The Imperial Army of Vylaria, tongue: translation}
+    - {name: The Vilérian Military, tongue: translation}
+    - {name: The Imperial Army of Viléria, tongue: translation}
     - {name: The Legions of the Orzas, tongue: translation}
     - {name: The Legions, tongue: translation}
     - {name: Yunar, tongue: vylari}
@@ -9475,7 +9475,7 @@ data:
     - {name: Vanadis Kaseranis, tongue: vylari}
     - {name: Zathron Kaseranis, tongue: vylari}
     - {name: Zenokos Bardas, tongue: vylari}
-    - {name: Vylarian, tongue: translation}
+    - {name: Vilérian, tongue: translation}
     - {name: Elissara, tongue: vylari}
     - {name: Tevran of Elissara, tongue: translation}
     - {name: Tevran Member, tongue: translation}
@@ -9518,8 +9518,8 @@ data:
     - {name: Delara, tongue: vylari, built: [del-, -ara]}
     - {name: Velisara, tongue: vylari}
     - {name: Vennara, tongue: vylari}
-    - {name: The Vylarian Calendar, tongue: translation}
-    - {name: Vylarian Reckoning, tongue: translation}
+    - {name: The Vilérian Calendar, tongue: translation}
+    - {name: Vilérian Reckoning, tongue: translation}
     - {name: Lizelandi, tongue: vylari, built: [lizel-, -andi]}
     - {name: Lusenar, tongue: vylari}
     - {name: Pozerandi, tongue: vylari, built: [pozer-, -andi]}
@@ -9685,8 +9685,8 @@ data:
     - {name: Dremenna, tongue: vylari, built: [drem-, -enna]}
     - {name: Lenthizenna, tongue: vylari, built: [lenthiz-, -enna]}
     - {name: Iltherenna, tongue: vylari, built: [ilther-, -enna]}
-    - {name: Vylaria Region, tongue: translation}
-    - {name: Vylarian Empire, tongue: translation}
+    - {name: Viléria Region, tongue: translation}
+    - {name: Vilérian Empire, tongue: translation}
     - {name: Orzas, tongue: vylari}
     - {name: Consort of the Orzas, tongue: translation}
     - {name: Tavos, tongue: vylari}
@@ -9695,8 +9695,8 @@ data:
     - {name: Thaurusos, tongue: vylari}
     - {name: Tavtherkos, tongue: vylari}
     - {name: Sarnaks Maldor, tongue: vylari}
-    - {name: Vylari Language, tongue: translation}
-    - {name: Vylari, tongue: translation}
+    - {name: Vilari Language, tongue: translation}
+    - {name: Vilari, tongue: translation}
     - {name: Semaron Script, tongue: translation}
     - {name: Semaron, tongue: vylari}
     - {name: Tharavarkon Script, tongue: translation}
@@ -9721,7 +9721,7 @@ data:
     - {name: The Soldier's Bargain, tongue: translation}
     - {name: The Western Wars, tongue: translation}
     - {name: The Three Centuries of Conquest, tongue: translation}
-    - {name: The Vylarian Ages, tongue: translation}
+    - {name: The Vilérian Ages, tongue: translation}
     - {name: The Eight Ages of the Empire, tongue: translation}
     - {name: The Kings and the Republic, tongue: translation}
     - {name: The First Orzoi, tongue: translation}
@@ -9733,7 +9733,7 @@ data:
     - {name: After the Shoals, tongue: translation}
     - {name: The Delta Expedition, tongue: translation}
     - {name: The Crossing to the Delta, tongue: translation}
-    - {name: the Vylarian Conquest, tongue: translation}
+    - {name: the Vilérian Conquest, tongue: translation}
     - {name: The Broken Succession, tongue: translation}
     - {name: The Three Orzoi, tongue: translation}
     - {name: The Battle of Olkassa, tongue: translation}
@@ -9814,11 +9814,11 @@ data:
     - {name: The Imperial Scribal Guild, tongue: translation}
     - {name: The Thizaron, tongue: vylari}
     - {name: The Six Ways, tongue: translation}
-    - {name: The Vylarian Scribal Guild, tongue: translation}
+    - {name: The Vilérian Scribal Guild, tongue: translation}
     - {name: Vessel, tongue: translation}
-    - {name: Vylaria Adventurer's Guide, tongue: translation}
-    - {name: Vylarian Coinage, tongue: translation}
-    - {name: Vylarian Currency, tongue: translation}
+    - {name: Viléria Adventurer's Guide, tongue: translation}
+    - {name: Vilérian Coinage, tongue: translation}
+    - {name: Vilérian Currency, tongue: translation}
     - {name: Warden of the Threshold, tongue: translation}
     - {name: Zemor Hodhis Incantations, tongue: translation}
     - {name: The Battle of the Black Marsh, tongue: translation}
@@ -10468,72 +10468,72 @@ data:
     - {form: Vesperine, instead: Hilvan, why: "a word of an Earth tongue, for a legion's epithet"}
     - {form: Argentine, instead: Ankren, why: "a word of an Earth tongue, for a legion's epithet"}
     - {form: Kleftes, instead: Klethes, why: "the current form is Klethes"}
-    - {form: Exarchides, instead: Zarkedis, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Myrine, instead: Mirene, why: 'opens on "myr", which no Vylari word opens on'}
+    - {form: Exarchides, instead: Zarkedis, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Myrine, instead: Mirene, why: 'opens on "myr", which no Vilari word opens on'}
     - form: Kalypsos
       instead: Kalethos
-      why: 'stacks four consonants ("lyps"), which Vylari does not'
-    - {form: Cassia, instead: Kassa, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Verric, instead: Verris, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Cibella, instead: Kivella, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Serentia, instead: Serenthis, why: 'sets "i" against "a", which Vylari does not join'}
-    - {form: Lucerian, instead: Lukeros, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Aemilon, instead: Aimilon, why: 'sets "a" against "e", which Vylari does not join'}
+      why: 'stacks four consonants ("lyps"), which Vilari does not'
+    - {form: Cassia, instead: Kassa, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Verric, instead: Verris, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Cibella, instead: Kivella, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Serentia, instead: Serenthis, why: 'sets "i" against "a", which Vilari does not join'}
+    - {form: Lucerian, instead: Lukeros, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Aemilon, instead: Aimilon, why: 'sets "a" against "e", which Vilari does not join'}
     - {form: Érython, instead: Erithon, why: "the current form is Erithon"}
     - form: Aelissium
       instead: Elissara
-      why: 'closes on "m", which no Vylari word closes on; sets "a" against "e", which Vylari does not join; sets "i" against "u", which Vylari does not join'
+      why: 'closes on "m", which no Vilari word closes on; sets "a" against "e", which Vilari does not join; sets "i" against "u", which Vilari does not join'
     - form: Alyssa
       instead: Alessa
-      why: 'stacks four consonants ("lyss"), which Vylari does not'
+      why: 'stacks four consonants ("lyss"), which Vilari does not'
     - form: Alyssar
       instead: Alessar
-      why: 'stacks four consonants ("lyss"), which Vylari does not'
+      why: 'stacks four consonants ("lyss"), which Vilari does not'
     - form: Aravantia
       instead: Aravantara
-      why: 'sets "i" against "a", which Vylari does not join'
-    - {form: Calvaris, instead: Kalvaris, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Castamar, instead: Kastamar, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Cervalia, instead: Kervalara, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Corvinus, instead: Korvenara, why: 'holds "c", a letter Vylari lacks'}
+      why: 'sets "i" against "a", which Vilari does not join'
+    - {form: Calvaris, instead: Kalvaris, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Castamar, instead: Kastamar, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Cervalia, instead: Kervalara, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Corvinus, instead: Korvenara, why: 'holds "c", a letter Vilari lacks'}
     - {form: Ferrovan, instead: Zargonara, why: "the current form is Zargonara"}
-    - {form: Granaria, instead: Kelborara, why: 'sets "i" against "a", which Vylari does not join'}
-    - {form: Hylen, instead: Hilen, why: 'opens on "hyl", which no Vylari word opens on'}
-    - {form: Mylânthos, instead: Milanthos, why: 'opens on "mil", which no Vylari word opens on'}
-    - {form: Mercavia, instead: Delalara, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Sanctara, instead: Ulthora, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Terravia, instead: Therkara, why: 'sets "i" against "a", which Vylari does not join'}
-    - {form: Tyrellan, instead: Tirellan, why: 'opens on "tyr", which no Vylari word opens on'}
-    - {form: Nartûm, instead: Nartun, why: 'closes on "m", which no Vylari word closes on'}
-    - {form: Korrast, instead: Korras, why: 'closes on "st", which no Vylari word closes on'}
+    - {form: Granaria, instead: Kelborara, why: 'sets "i" against "a", which Vilari does not join'}
+    - {form: Hylen, instead: Hilen, why: 'opens on "hyl", which no Vilari word opens on'}
+    - {form: Mylânthos, instead: Milanthos, why: 'opens on "mil", which no Vilari word opens on'}
+    - {form: Mercavia, instead: Delalara, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Sanctara, instead: Ulthora, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Terravia, instead: Therkara, why: 'sets "i" against "a", which Vilari does not join'}
+    - {form: Tyrellan, instead: Tirellan, why: 'opens on "tyr", which no Vilari word opens on'}
+    - {form: Nartûm, instead: Nartun, why: 'closes on "m", which no Vilari word closes on'}
+    - {form: Korrast, instead: Korras, why: 'closes on "st", which no Vilari word closes on'}
     - form: Skoraz
       instead: Soraks
-      why: 'opens on "sk", which no Vylari word opens on; closes on "z", which no Vylari word closes on'
-    - {form: Olcassa, instead: Olkassa, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Sêmarion, instead: Semaron, why: 'sets "i" against "o", which Vylari does not join'}
-    - {form: Bravsarn, instead: Bravsarnor, why: 'closes on "rn", which no Vylari word closes on'}
-    - {form: Volsarn, instead: Volsarnor, why: 'closes on "rn", which no Vylari word closes on'}
-    - {form: Kolsarn, instead: Kolsarnor, why: 'closes on "rn", which no Vylari word closes on'}
-    - {form: Hamsarn, instead: Hamsarnor, why: 'closes on "rn", which no Vylari word closes on'}
-    - {form: Ard, instead: Ardin, why: 'closes on "rd", which no Vylari word closes on'}
-    - {form: Morveth, instead: Morvanandi, why: 'closes on "th", which no Vylari word closes on'}
-    - {form: Dâemzânis, instead: Damzanis, why: 'sets "a" against "e", which Vylari does not join'}
-    - {form: Dâemâtôr, instead: Damator, why: 'sets "a" against "e", which Vylari does not join'}
-    - {form: Bárkrâtys, instead: Barkratis, why: 'holds "â", a mark Vylari does not use'}
-    - {form: Chéagan, instead: Kegan, why: 'holds "c", a letter Vylari lacks'}
+      why: 'opens on "sk", which no Vilari word opens on; closes on "z", which no Vilari word closes on'
+    - {form: Olcassa, instead: Olkassa, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Sêmarion, instead: Semaron, why: 'sets "i" against "o", which Vilari does not join'}
+    - {form: Bravsarn, instead: Bravsarnor, why: 'closes on "rn", which no Vilari word closes on'}
+    - {form: Volsarn, instead: Volsarnor, why: 'closes on "rn", which no Vilari word closes on'}
+    - {form: Kolsarn, instead: Kolsarnor, why: 'closes on "rn", which no Vilari word closes on'}
+    - {form: Hamsarn, instead: Hamsarnor, why: 'closes on "rn", which no Vilari word closes on'}
+    - {form: Ard, instead: Ardin, why: 'closes on "rd", which no Vilari word closes on'}
+    - {form: Morveth, instead: Morvanandi, why: 'closes on "th", which no Vilari word closes on'}
+    - {form: Dâemzânis, instead: Damzanis, why: 'sets "a" against "e", which Vilari does not join'}
+    - {form: Dâemâtôr, instead: Damator, why: 'sets "a" against "e", which Vilari does not join'}
+    - {form: Bárkrâtys, instead: Barkratis, why: 'holds "â", a mark Vilari does not use'}
+    - {form: Chéagan, instead: Kegan, why: 'holds "c", a letter Vilari lacks'}
     - form: Shônyàrdîs
       instead: Sonyardis
       why: "uses obsolete vowel marks rather than the lexical catch spelling"
-    - {form: Vârkrâtys, instead: Varkratis, why: 'closes on "tys", which no Vylari word closes on'}
-    - {form: Ôrchârenîs, instead: Orkarenis, why: 'holds "c", a letter Vylari lacks'}
-    - {form: Kêrîamyês, instead: Keramyes, why: 'sets "î" against "a", which Vylari does not join'}
+    - {form: Vârkrâtys, instead: Varkratis, why: 'closes on "tys", which no Vilari word closes on'}
+    - {form: Ôrchârenîs, instead: Orkarenis, why: 'holds "c", a letter Vilari lacks'}
+    - {form: Kêrîamyês, instead: Keramyes, why: 'sets "î" against "a", which Vilari does not join'}
     - form: Kyàsârâ
       instead: Kesara
       why: "uses obsolete vowel marks rather than the lexical catch spelling"
-    - {form: Pyrânês, instead: Piranes, why: 'opens on "pyr", which no Vylari word opens on'}
-    - {form: Syphrânôs, instead: Sifranos, why: 'opens on "syfr", which no Vylari word opens on'}
-    - {form: Xâthrîon, instead: Zathron, why: 'sets "î" against "o", which Vylari does not join'}
-    - {form: Dâemâtês, instead: Damates, why: 'sets "a" against "e", which Vylari does not join'}
+    - {form: Pyrânês, instead: Piranes, why: 'opens on "pyr", which no Vilari word opens on'}
+    - {form: Syphrânôs, instead: Sifranos, why: 'opens on "syfr", which no Vilari word opens on'}
+    - {form: Xâthrîon, instead: Zathron, why: 'sets "î" against "o", which Vilari does not join'}
+    - {form: Dâemâtês, instead: Damates, why: 'sets "a" against "e", which Vilari does not join'}
     - form: Proconsul
       instead: tavtherkos
       why: "a word of an Earth tongue, for a consular governor"
@@ -10761,6 +10761,10 @@ data:
     - form: Zomeris Tertian Veranius
       instead: Zomeris Kaldremis
       why: "a name of an Earth tongue, for the Dukran of the Conservative Faction"
+    - {form: Vylarians, instead: Vilérians, why: respelled to Pronouncing Thalorna}
+    - {form: Vylarian, instead: Vilérian, why: respelled to Pronouncing Thalorna}
+    - {form: Vylaria, instead: Viléria, why: respelled to Pronouncing Thalorna}
+    - {form: Vylari, instead: Vilari, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -10771,24 +10775,24 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Pelwar}}
 
-# terran_analog: Vylari reads the Roman tongue in its grammar and nowhere in its words. Ancient Vylari carries the Roman pattern its grammar brief sets (three demonstratives of person and attitude) plus a hallowed rank of its own that shows in names; imperial Vylari loosens it as the spoken Roman tongue loosened toward the Romance tongues. Every root here is coined to the tongue's rules and checked against the Roman tongue, ancient Greek, Occitan, Spanish and other word lists; none is the Roman, Greek or Romance word for its meaning. The patron and client, the morning call, the wax ancestor masks, the hallowed city boundary and the legion's eagle are Roman institutions the empire shares.
+# terran_analog: Vilari reads the Roman tongue in its grammar and nowhere in its words. Ancient Vilari carries the Roman pattern its grammar brief sets (three demonstratives of person and attitude) plus a hallowed rank of its own that shows in names; imperial Vilari loosens it as the spoken Roman tongue loosened toward the Romance tongues. Every root here is coined to the tongue's rules and checked against the Roman tongue, ancient Greek, Occitan, Spanish and other word lists; none is the Roman, Greek or Romance word for its meaning. The patron and client, the morning call, the wax ancestor masks, the hallowed city boundary and the legion's eagle are Roman institutions the empire shares.
 ---
 
-Vylari is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Vilari is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Vilari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of [[place-midhalnrgn|Midhalión]], spoken in the great cities of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. The [[lore-vylarianclt|Vylarian]] people hold it to be the language of learning, government, the arcane and the university system, and [[affiliation-ordoarcanis|the Arcane Order]] and the schools of the [[affiliation-panepistmm|Epistémion]] work in it. In the empire and the lands that look to it the educated learn it, and a scholar of [[place-dunavarre|Dúnavarre]] writes to a magistrate of [[place-provenzrgn|Provénzia]] in Vylari, whatever each speaks at home. The [[lore-khelathiclt|Khelathi]] do not accept the claim. Vylarian learning began in [[place-helionis|Helionis]], where the [Vylarian Republic]{.name data-type="affiliation/polity"}'s scholars studied; after [[lore-helionscnq|the conquest]] of 335 to 312 BF the schools came under Vylarian structures, which changed the institutions though not their names.
+Vilari is the imperial tongue of the [[affiliation-vylarinmpr|Vilérian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of [[place-midhalnrgn|Midhalión]], spoken in the great cities of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. The [[lore-vylarianclt|Vilérian]] people hold it to be the language of learning, government, the arcane and the university system, and [[affiliation-ordoarcanis|the Arcane Order]] and the schools of the [[affiliation-panepistmm|Epistémion]] work in it. In the empire and the lands that look to it the educated learn it, and a scholar of [[place-dunavarre|Dúnavarre]] writes to a magistrate of [[place-provenzrgn|Provénzia]] in Vilari, whatever each speaks at home. The [[lore-khelathiclt|Khelathi]] do not accept the claim. Vilérian learning began in [[place-helionis|Helionis]], where the [Vilérian Republic]{.name data-type="affiliation/polity"}'s scholars studied; after [[lore-helionscnq|the conquest]] of 335 to 312 BF the schools came under Vilérian structures, which changed the institutions though not their names.
 
 ## Overview
 
-Vylari is a tongue of long, orderly sentences. Orators and poets set their words with great freedom and use it the way a builder uses an arch: a sentence can hold its verb to the end, or build clause upon clause toward a single closing word. The schools teach those figures as carefully as they teach spelling.
+Vilari is a tongue of long, orderly sentences. Orators and poets set their words with great freedom and use it the way a builder uses an arch: a sentence can hold its verb to the end, or build clause upon clause toward a single closing word. The schools teach those figures as carefully as they teach spelling.
 
-The language also carries the empire's order in its names. The **hallowed** endings belong to the gods, the sovereign and the founders of the great houses, and they survive on noble and divine names, which is why a Vylarian hears rank in a name before he hears anything else. The [[skill-vylarilng#lexicon|Vylari Lexicon]] gives the words, the endings and the rules for names; this page gives the grammar.
+The language also carries the empire's order in its names. The **hallowed** endings belong to the gods, the sovereign and the founders of the great houses, and they survive on noble and divine names, which is why a Vilérian hears rank in a name before he hears anything else. The [[skill-vylarilng#lexicon|Vilari Lexicon]] gives the words, the endings and the rules for names; this page gives the grammar.
 
-## How Vylari sounds
+## How Vilari sounds
 
-Vylari is crisp and clipped, the speech of law and the court. Most words have two or three syllables, and a word ends on a vowel or on _s_, _n_ or _r_.
+Vilari is crisp and clipped, the speech of law and the court. Most words have two or three syllables, and a word ends on a vowel or on _s_, _n_ or _r_.
 
-**The vowels.** _a_, _e_ and _o_ carry most words, with _i_ after them. Vylari keeps its vowels single: _ei_ and _eu_ belong to [[skill-helonclng|Helonic]].
+**The vowels.** _a_, _e_ and _o_ carry most words, with _i_ after them. Vilari keeps its vowels single: _ei_ and _eu_ belong to [[skill-helonclng|Helonic]].
 
 **The consonants.** _l_, _r_, _s_, _z_, _m_, _n_, _t_, _k_ and _v_ do most of the work. _th_ stands inside a word, as in _semrotha_. _z_ is the language's mark, and it stands where Helonic would put _s_.
 
@@ -10796,30 +10800,30 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 **Endings.** Nouns end in _-os_, _-is_, _-a_, _-en_ or _-on_. Titles end in _-andos_, _-enos_ or _-or_. Feminine names end in _-a_ or _-enna_.
 
-**What Vylari leaves out.** It has no _kh_, _gh_ or _dh_, which are Helonic's, and no _ei_ or _eu_. The ancient forms write their catch with an apostrophe, as in _k'aralzon_ and _k'arthorgila_, where the _k_ is said with the catch. The catch adds no vowel or syllable, and has no quotation role. The worn-down article of Alessa speech is _a'_, an _a_ with the catch after it.
+**What Vilari leaves out.** It has no _kh_, _gh_ or _dh_, which are Helonic's, and no _ei_ or _eu_. The ancient forms write their catch with an apostrophe, as in _k'aralzon_ and _k'arthorgila_, where the _k_ is said with the catch. The catch adds no vowel or syllable, and has no quotation role. The worn-down article of Alessa speech is _a'_, an _a_ with the catch after it.
 
 ## Two Stages
 
-**Ancient Vylari** is the scholars' name for the speech the Pelwar carried west in [[lore-pelwarmigr|the Migration]]: strict in its rules and rich in forms. It survives in the oldest [[skill-thrvrknscrpt|Tharavarkon]] inscriptions and in the tongues descended from it, and the ritual speech of Nartun is the nearest thing to it still spoken.
+**Ancient Vilari** is the scholars' name for the speech the Pelwar carried west in [[lore-pelwarmigr|the Migration]]: strict in its rules and rich in forms. It survives in the oldest [[skill-thrvrknscrpt|Tharavarkon]] inscriptions and in the tongues descended from it, and the ritual speech of Nartun is the nearest thing to it still spoken.
 
-**Imperial Vylari** is the empire's speech today. In the street it has loosened: unstressed long vowels are said short, and prepositions creep into speech. **High Vylari**, the register of the [[affiliation-seldan|Seldan]] (Senate), the law courts, the temples, the arcane charters and formal oratory, keeps the ancient endings in use. A magistrate pronouncing sentence, a priest consecrating an altar and a _kurthos_ (senator) moving a vote all speak it, and an educated Vylarian can move between the two registers inside one sentence for effect.
+**Imperial Vilari** is the empire's speech today. In the street it has loosened: unstressed long vowels are said short, and prepositions creep into speech. **High Vilari**, the register of the [[affiliation-seldan|Seldan]] (Senate), the law courts, the temples, the arcane charters and formal oratory, keeps the ancient endings in use. A magistrate pronouncing sentence, a priest consecrating an altar and a _kurthos_ (senator) moving a vote all speak it, and an educated Vilérian can move between the two registers inside one sentence for effect.
 
-|         | Ancient Vylari                             | Imperial Vylari                                                        |
+|         | Ancient Vilari                             | Imperial Vilari                                                        |
 | ------- | ------------------------------------------ | ---------------------------------------------------------------------- |
-| Article | none; the three pointing words do the work | none in High Vylari; spoken Alessa wears the "yonder" word down to one |
+| Article | none; the three pointing words do the work | none in High Vilari; spoken Alessa wears the "yonder" word down to one |
 | Stops   | plain, breathed and clicked                | plain and breathed                                                     |
 
 ## Phonology
 
-**Consonants.** Imperial Vylari has the stops _p t k b d g_, the breathed stops _f_ and _th_, the hissed _s_ and buzzed _z_, _v_, _h_, _m n l r_, and _y_ before a vowel. The contrast between plain and breathed stops tells words apart, and a foreigner who says every _th_ as a plain _t_ is understood with an effort. Ancient Vylari had a third series of stops closed hard in the throat and released with a click (after _t_, _k_, _d_ or _g_), voiced stops with a breath after them (_dh gh_), and _w_; imperial Vylari has none of these.
+**Consonants.** Imperial Vilari has the stops _p t k b d g_, the breathed stops _f_ and _th_, the hissed _s_ and buzzed _z_, _v_, _h_, _m n l r_, and _y_ before a vowel. The contrast between plain and breathed stops tells words apart, and a foreigner who says every _th_ as a plain _t_ is understood with an effort. Ancient Vilari had a third series of stops closed hard in the throat and released with a click (after _t_, _k_, _d_ or _g_), voiced stops with a breath after them (_dh gh_), and _w_; imperial Vilari has none of these.
 
 **Vowels.** Five vowels, _a e i o u_. A held _a_, _i_ or _u_ is written double (_aa_, _ii_, _uu_). Three diphthongs: _ai au oi_.
 
 **Words.** A word opens on a vowel, one consonant, or a stop followed by _l_ or _r_; it closes on a vowel or on _s n r l_. No more than three consonants stand together.
 
-**Stress.** Vylari stresses its words by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables on the first, a longer word on the second-to-last syllable, and an acute (_á_) marks any other stress. Vowel length does not move it, and each diphthong counts as one syllable. So every word of more than one syllable ends by falling from a stressed syllable to an unstressed one, and that is the measured, falling rhythm foreigners hear in a Vylari speech: _zaros_ is said ZA-ros, _sorima_ so-RI-ma, _ulthalon_ ul-THA-lon.
+**Stress.** Vilari stresses its words by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables on the first, a longer word on the second-to-last syllable, and an acute (_á_) marks any other stress. Vowel length does not move it, and each diphthong counts as one syllable. So every word of more than one syllable ends by falling from a stressed syllable to an unstressed one, and that is the measured, falling rhythm foreigners hear in a Vilari speech: _zaros_ is said ZA-ros, _sorima_ so-RI-ma, _ulthalon_ ul-THA-lon.
 
-**Emphasis.** Vylari marks a stressed word with a word, never with a mark.
+**Emphasis.** Vilari marks a stressed word with a word, never with a mark.
 
 ## Grammar
 
@@ -10873,7 +10877,7 @@ The third person is a pointing word. There are three, and each carries an attitu
 | near you      | _thesos_  | _thesa_  | _theson_  | "that of yours"; of a person, contemptuous                                          |
 | yonder        | _alathos_ | _alatha_ | _alathon_ | "that, over there"; of a person, grand: _alathos Thelvaras_, "the famous Thelvaras" |
 
-The reflexive _veth-_ points back to the subject of the main verb, so in reported speech it always means the speaker being reported and never the reporter. A Vylari historian keeps three people straight in one sentence that way.
+The reflexive _veth-_ points back to the subject of the main verb, so in reported speech it always means the speaker being reported and never the reporter. A Vilari historian keeps three people straight in one sentence that way.
 
 The pointing words agree like adjectives, plural included: _denoi_ and _denai_, _alathoi_ and _alathai_. Said of a hallowed noun, a pointing word takes the hallowed _-as_: _alathas_ is the yonder one who is a god or a founder.
 
@@ -10899,7 +10903,7 @@ The ending _-en_ keeps its own work, "of" or "from" a place or a people: _aistre
 
 ### Word order
 
-Legal prose keeps the subject first and the verb last by long convention, and ordinary speech mostly does the same; High Vylari in verse and oratory sets its words as it likes. One figure is taught in every school: **the suspended sentence**, clause after clause stacked before a main verb held to the last word, so that an audience hears the whole of a plea before it learns what is being asked of it. Senate speeches are built this way, and a skilled orator can keep a chamber silent for a long minute waiting for his verb.
+Legal prose keeps the subject first and the verb last by long convention, and ordinary speech mostly does the same; High Vilari in verse and oratory sets its words as it likes. One figure is taught in every school: **the suspended sentence**, clause after clause stacked before a main verb held to the last word, so that an audience hears the whole of a plea before it learns what is being asked of it. Senate speeches are built this way, and a skilled orator can keep a chamber silent for a long minute waiting for his verb.
 
 ### Verbs
 
@@ -10947,7 +10951,7 @@ A word at the head of the sentence says what kind of sentence it is, and the res
 | _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen‼_ "Do not come."                            |
 | _aia_     | an exclamation                     | _Aia theson!_ "That thing of yours!"                          |
 
-_areza_ is _ar_, "not", joined to _eza_. Written Vylari uses the standard roman punctuation, which records each sentence's type: `.` ends a statement, `?` a question, `‼` a command and `!` an exclamation, and `,` marks a pause inside a sentence. Vylari also voices the type with its opening word, so a question keeps its question word, a command its _voza_ and an exclamation its _aia_, and emphasis has its own words. The standard marks belong to the roman alone; the Semaron script draws only the catch and its one pause point, and the other marks are carried invisibly. The apostrophe of a catch, as in _a'_, belongs to the word and is not punctuation.
+_areza_ is _ar_, "not", joined to _eza_. Written Vilari uses the standard roman punctuation, which records each sentence's type: `.` ends a statement, `?` a question, `‼` a command and `!` an exclamation, and `,` marks a pause inside a sentence. Vilari also voices the type with its opening word, so a question keeps its question word, a command its _voza_ and an exclamation its _aia_, and emphasis has its own words. The standard marks belong to the roman alone; the Semaron script draws only the catch and its one pause point, and the other marks are carried invisibly. The apostrophe of a catch, as in _a'_, belongs to the word and is not punctuation.
 
 ### Reported speech
 
@@ -10955,30 +10959,30 @@ Words spoken by someone are marked by _vethor_, "says", set after the first word
 
 ## Script & Literacy
 
-Vylari employs the [[skill-semrnscrpt|Semaron]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms, and it marks vowel length only in schoolbooks and lawyers' copies, with a small curl over a long vowel (typed as a doubled vowel, _aa_, _ii_ or _uu_) where a misreading is possible. True literacy—the ability to read and compose continuous text—is confined to the clergy, professional scribes, and perhaps two in five of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
+Vilari employs the [[skill-semrnscrpt|Semaron]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms, and it marks vowel length only in schoolbooks and lawyers' copies, with a small curl over a long vowel (typed as a doubled vowel, _aa_, _ii_ or _uu_) where a misreading is possible. True literacy—the ability to read and compose continuous text—is confined to the clergy, professional scribes, and perhaps two in five of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
 
-An older runic form, [[skill-thrvrknscrpt|Tharavarkon]], persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names, and they write every sound of ancient Vylari.
+An older runic form, [[skill-thrvrknscrpt|Tharavarkon]], persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names, and they write every sound of ancient Vilari.
 
 ## Historical Development
 
-Vylari descends from ancient Vylari, the tongue of the western Pelwar who came down to the coast in the Migration; the eastern Pelwar, conquered in [[lore-varkhadcnq|the Varkhad Conquest]], gave rise to [[skill-nordmalng|Nordmal Language]] and [[skill-varokhlng|Varokhi Language]] instead. On the coast the tongue settled, built an empire and lightened its sounds, while the high register kept its grammar almost whole. Vylari is the most conservative of its family in grammar; [[skill-aelendlng|Áelendi]] is the most conservative in sound.
+Vilari descends from ancient Vilari, the tongue of the western Pelwar who came down to the coast in the Migration; the eastern Pelwar, conquered in [[lore-varkhadcnq|the Varkhad Conquest]], gave rise to [[skill-nordmalng|Nordmal Language]] and [[skill-varokhlng|Varokhi Language]] instead. On the coast the tongue settled, built an empire and lightened its sounds, while the high register kept its grammar almost whole. Vilari is the most conservative of its family in grammar; [[skill-aelendlng|Áelendi]] is the most conservative in sound.
 
-The empire took words from every people it ruled, chiefly terms of craft, trade and the sea, and the oldest religious words show the touch of the [[lore-aelendnppl|Áelendan highlanders]], with whom the coastal Vylari shared a speech long before either had a name for it.
+The empire took words from every people it ruled, chiefly terms of craft, trade and the sea, and the oldest religious words show the touch of the [[lore-aelendnppl|Áelendan highlanders]], with whom the coastal Vilari shared a speech long before either had a name for it.
 
 ## Regional Dialects
 
-**High Vylari:** The formal register of law, liturgy, the Senate and literature, taught in the schools. It keeps the ancient endings and holds every long vowel at its full length.
+**High Vilari:** The formal register of law, liturgy, the Senate and literature, taught in the schools. It keeps the ancient endings and holds every long vowel at its full length.
 
-**Alessa Dialect:** The quick, clipped speech of the greatest port. It shortens unstressed vowels, puts the verb wherever it likes, and wears the "yonder" word down to a bare _a'_ before a noun, so that _a' thelmos_ means simply "the client". High Vylari has no article, and a schoolmaster who hears _a'_ in his classroom corrects it.
+**Alessa Dialect:** The quick, clipped speech of the greatest port. It shortens unstressed vowels, puts the verb wherever it likes, and wears the "yonder" word down to a bare _a'_ before a noun, so that _a' thelmos_ means simply "the client". High Vilari has no article, and a schoolmaster who hears _a'_ in his classroom corrects it.
 
 **Hilen Lowland Dialect:** Says _th_ as _s_ and shortens long vowels everywhere, not only where they are unstressed. It keeps old forms the capital has lost.
 
-**Nartun Ritual Dialect:** The speech of every rite in the Holy Kingdom of Nartun, deliberately kept by its priesthoods. It still says the breathed voiced stops that imperial Vylari lost. It is the nearest living thing to ancient Vylari.
+**Nartun Ritual Dialect:** The speech of every rite in the Holy Kingdom of Nartun, deliberately kept by its priesthoods. It still says the breathed voiced stops that imperial Vilari lost. It is the nearest living thing to ancient Vilari.
 
 ## Sample Phrases
 
 _Voza ulthoi okethen denon zaron ul kalmetharoi‼_
-: "May the gods see this oath, and the ancestors." (High Vylari: the opening of a sworn oath.)
+: "May the gods see this oath, and the ancestors." (High Vilari: the opening of a sworn oath.)
 
 _Daimela orfenamen._
 : "Patron, I am in your debt." (The client's greeting at the morning call; no pronoun, since saying "I" aloud would be forward.)
@@ -11000,13 +11004,13 @@ _Aia theson!_
 
 ## Related Languages
 
-Ancient Vylari is the mother of a family, and the scholars of [[place-orzara|Orzara]] call the family by the empire's name. [[skill-aelendlng|Áelendi]] split from it first, in the highlands, and keeps its old sounds; the Áelendan reject the name of the family outright. [[skill-elvndrlng|Élavendri]] is the lowland daughter of Áelendi. [[skill-provnzlng|Provenzal]] made articles of all three pointing words. [[skill-tarvenlng|Tarveni]] kept three genders, held up by an older mountain speech beneath it. [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] are cousins from the eastern Pelwar, outside the family. The [[skill-vylarilng#lexicon|Vylari Lexicon]] sets roots from all five daughters side by side.
+Ancient Vilari is the mother of a family, and the scholars of [[place-orzara|Orzara]] call the family by the empire's name. [[skill-aelendlng|Áelendi]] split from it first, in the highlands, and keeps its old sounds; the Áelendan reject the name of the family outright. [[skill-elvndrlng|Élavendri]] is the lowland daughter of Áelendi. [[skill-provnzlng|Provenzal]] made articles of all three pointing words. [[skill-tarvenlng|Tarveni]] kept three genders, held up by an older mountain speech beneath it. [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] are cousins from the eastern Pelwar, outside the family. The [[skill-vylarilng#lexicon|Vilari Lexicon]] sets roots from all five daughters side by side.
 
 ## Naming Traditions
 
-A Vylari name is a given name and a house name, the given name first, and a man of note adds an earned name after both, given by a city or an army after a deed or by a family after a death. A given name is a word with a gender ending; noble children take the hallowed _-as_ whether they are sons or daughters. A house name says whose descendants the bearer belongs to: the old houses add _-is_ to their founder's name, houses the sovereign has raised take _-ates_, and provincial families of standing often take their estate's name with _-en_.
+A Vilari name is a given name and a house name, the given name first, and a man of note adds an earned name after both, given by a city or an army after a deed or by a family after a death. A given name is a word with a gender ending; noble children take the hallowed _-as_ whether they are sons or daughters. A house name says whose descendants the bearer belongs to: the old houses add _-is_ to their founder's name, houses the sovereign has raised take _-ates_, and provincial families of standing often take their estate's name with _-en_.
 
-A calling name is a child's name, the given name cut short with the neuter ending _-izon_, and it is used only by family and the closest friends of equal rank. The [[skill-vylarilng#lexicon|Vylari Lexicon]] gives the endings and the rules in full.
+A calling name is a child's name, the given name cut short with the neuter ending _-izon_, and it is used only by family and the closest friends of equal rank. The [[skill-vylarilng#lexicon|Vilari Lexicon]] gives the endings and the rules in full.
 
 ## Male Given Names
 
@@ -11020,11 +11024,11 @@ Solkima, Thelvare, Kirama, Sirethis, Linthima, Lizelen, Nethore, Sirema, Sorimar
 
 Kalmethis, Thelvaris, Tharkis, Dorandates, Revothandis, Zenothenos, Melvarandis, Solterates, Holimandis, Orthemandis, Korvathandis, Talothates, Ronethen, Ganothandis, Nebralandis, Tharozates, Venthelis, Gurimandis, Satheris, Zurmelates, Kaldremis, Tholmaris, Linthimis, Volkemates, Kolsamis, Pirkelis, Brazemen, Thalurates, Elthezis, Iltheris
 
-## Vylari Lexicon {#lexicon}
+## Vilari Lexicon {#lexicon}
 
 A grammar master in [[place-orzara|Orzara]] begins every new class the same way. On the board he writes three words—_thrakon_, _verosa_ and _orzas_, a slave, a citizen and the sovereign—and the boys copy them. The slave is spoken of as a pot or a plow is, in the neuter. The citizen is spoken of as a man or a woman is. The sovereign is spoken of as a god is, in endings no other living person may take. By noon the class has learned the ranks of the old tongue, and the master has taught them the empire.
 
-This is the word-hoard of Vylari in its two stages. **Ancient Vylari** is the formal tongue of the [[lore-pelwarpepl|Pelwar]] who settled the western coast in the [[lore-pelwarmigr|Migration]], reconstructed by the empire's scholars from the oldest inscriptions and from the tongues descended from it. Imperial Vylari is the empire's living speech, looser in its grammar and lighter in its sounds, and its high register keeps the ancient endings in law, liturgy and oratory. This page gives both forms of every word, the rules that turn the one into the other, the suffixes that make new words, and the way a Vylarian builds a name. A word made from these by those rules is a Vylari word.
+This is the word-hoard of Vilari in its two stages. **Ancient Vilari** is the formal tongue of the [[lore-pelwarpepl|Pelwar]] who settled the western coast in the [[lore-pelwarmigr|Migration]], reconstructed by the empire's scholars from the oldest inscriptions and from the tongues descended from it. Imperial Vilari is the empire's living speech, looser in its grammar and lighter in its sounds, and its high register keeps the ancient endings in law, liturgy and oratory. This page gives both forms of every word, the rules that turn the one into the other, the suffixes that make new words, and the way a Vilérian builds a name. A word made from these by those rules is a Vilari word.
 
 The language page sets out the grammar. This page carries the words.
 
@@ -11063,7 +11067,7 @@ SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
 FROM clusters WHERE language = 'thalorna-note-skill-vylarilng'
 ```
 
-Two habits of speech are never written. In ordinary talk a long vowel in an unstressed syllable is said short, so the street clips the vowel; a speaker of High Vylari holds every length, and the difference marks his education as clearly as his clothes. In the [[place-hylen|Hilen]] lowlands `th` is said `s`, and a Hilen man's _sorimos_ (a poet) and his _thilos_ (a scribe) begin alike, with a hiss.
+Two habits of speech are never written. In ordinary talk a long vowel in an unstressed syllable is said short, so the street clips the vowel; a speaker of High Vilari holds every length, and the difference marks his education as clearly as his clothes. In the [[place-hylen|Hilen]] lowlands `th` is said `s`, and a Hilen man's _sorimos_ (a poet) and his _thilos_ (a scribe) begin alike, with a hiss.
 
 ## Building words {#building-words}
 
@@ -11112,13 +11116,13 @@ A house name says whose descendants the bearer belongs to. The oldest houses nam
 
 ### Calling names
 
-A Vylari calling name is a child's name. It is the given name cut before its second vowel, with the neuter ending _-izon_ added: _Solkima_ is _Solkizon_ to her mother and her brothers, and _Thelvaras_ is _Thelvizon_ in his nursery. The neuter is the gender of a child not yet of age, so the calling name keeps something of the nursery about it for life.
+A Vilari calling name is a child's name. It is the given name cut before its second vowel, with the neuter ending _-izon_ added: _Solkima_ is _Solkizon_ to her mother and her brothers, and _Thelvaras_ is _Thelvizon_ in his nursery. The neuter is the gender of a child not yet of age, so the calling name keeps something of the nursery about it for life.
 
 | Ending  | Who                                       |
 | ------- | ----------------------------------------- |
 | `-izon` | anyone, by family and the closest friends |
 
-A calling name is used only downward and inward: by parents, by brothers and sisters, by a husband or a wife, and by friends of long standing and equal rank. A client never uses his patron's, and a junior officer never uses his commander's. A Vylarian who hears his calling name from a stranger hears himself called a child, and answers accordingly. The pages give a person's full name, and his house name alone wherever a short form reads naturally, as a Vylarian of standing is addressed.
+A calling name is used only downward and inward: by parents, by brothers and sisters, by a husband or a wife, and by friends of long standing and equal rank. A client never uses his patron's, and a junior officer never uses his commander's. A Vilérian who hears his calling name from a stranger hears himself called a child, and answers accordingly. The pages give a person's full name, and his house name alone wherever a short form reads naturally, as a Vilérian of standing is addressed.
 
 **A place** is a root with a place suffix: _-ara_ for a town, _-enna_ for a farm, an estate or the village around one, _-ora_ for a height or a stronghold. The ending _-ari_ serves as a place name too, "at the place of", and several old towns carry one.
 
@@ -11136,13 +11140,13 @@ The vocabulary of the faith is the vocabulary of an institution. The imperial cu
 
 ### Ancestors, the house and the name
 
-A Vylari house keeps its dead in the hall. Each ancestor who held office has a _lavura_, a wax mask of his face, in a cupboard beside the door, and on a funeral day the masks are worn by living men of the right build so that the whole line walks behind the bier. A line is an _dorthene_, and the word means the row of masks as much as the descent it records.
+A Vilari house keeps its dead in the hall. Each ancestor who held office has a _lavura_, a wax mask of his face, in a cupboard beside the door, and on a funeral day the masks are worn by living men of the right build so that the whole line walks behind the bier. A line is an _dorthene_, and the word means the row of masks as much as the descent it records.
 
 The household, _zorka_, is everyone under one roof and one master: wife, children, freedmen, slaves and the clients who come to the door each morning. Its master, the _zorkos_, answers for all of them at law and holds a power over his children that ends only at his death. So the words for kin are many and exact, and so is the vocabulary of inheritance: an heir is named in a will, a son may be adopted from another house when a line runs short, and _aipsena_ (adoption) is as honorable a way to get an heir as any other. The worst thing that can happen to a name has a word of its own: _neharlon_, the unnaming, which strikes a person from every roll and forbids anyone to say the name aloud.
 
 ### Precedence, patronage and what is owed
 
-No table in this lexicon is longer for its subject, and that is the plainest thing the language says about its speakers. A Vylarian _places_ a stranger before anything else is said—_zirothathen_, to settle his step of rank—and the word for a person whose rank nobody knows, _anzirothos_, is an uneasy one, used of foreigners and of guests who will not give their patron's name.
+No table in this lexicon is longer for its subject, and that is the plainest thing the language says about its speakers. A Vilérian _places_ a stranger before anything else is said—_zirothathen_, to settle his step of rank—and the word for a person whose rank nobody knows, _anzirothos_, is an uneasy one, used of foreigners and of guests who will not give their patron's name.
 
 The patron, _daimela_, ends in _-a_ but is masculine, and the grammarians explain the exception by the office: a patron is a lord, whatever his ending. The client, _thelmos_, attends him at the morning call, the _pramolza_, and every favor done in either direction leaves an _orfenon_, a debt that is real though no court enforces it. The order of what is owed has one word, _yerpalon_: the gods, the ancestors, the house, the patron, the city, the empire, in that order and no other.
 
@@ -11150,7 +11154,7 @@ The words for persons follow the genders. A citizen, _verosa_, is a feminine nou
 
 ### Law, the court and the written act
 
-The Vylarian reflex in a quarrel is to sue, and the lexicon is built for it. There are words for the suit and the act of bringing it, for the advocate who carries another's case, the witness who saw, the judgment, the appeal that carries it upward, and the penalty laid at the end. A writing becomes an act when it carries a seal, _thizaron_, and the keeper of a house's seals is a trusted officer, since a document sealed in his absence is a forgery.
+The Vilérian reflex in a quarrel is to sue, and the lexicon is built for it. There are words for the suit and the act of bringing it, for the advocate who carries another's case, the witness who saw, the judgment, the appeal that carries it upward, and the penalty laid at the end. A writing becomes an act when it carries a seal, _thizaron_, and the keeper of a house's seals is a trusted officer, since a document sealed in his absence is a forgery.
 
 The words for searching out a matter—_sekera_ (an inquiry), the inquirer and the body that inquires—belong to law and to the arcane order alike. Exile, _venthodis_, is the gravest sentence a court gives a citizen; the unnaming is graver, and only the Senate gives it.
 
@@ -11170,9 +11174,9 @@ The frontier, _uthrima_, shares its root with _thrima_, the hallowed boundary of
 
 ### The city: stone, water and the street
 
-A Vylari city is _veramis_, the walled place of citizens, and a citizen is _verosa_: the two words share a root, and the old grammar reads the one as the place of the other. Around the city runs the _thrima_, the hallowed boundary inside which no legion may march under arms.
+A Vilari city is _veramis_, the walled place of citizens, and a citizen is _verosa_: the two words share a root, and the old grammar reads the one as the place of the other. Around the city runs the _thrima_, the hallowed boundary inside which no legion may march under arms.
 
-The words for the city's works are proud and particular: the aqueduct is _ulmerpozera_, a road for water, and it is built like one. The words for its decay are courteous. A building nobody has repaired in two generations is _humelthandar_, resting, and a Vylarian walking a visitor past a roofless temple calls it resting with a straight face. The city has no plain word for a ruin inside its own walls, and a visitor who supplies one gives offense.
+The words for the city's works are proud and particular: the aqueduct is _ulmerpozera_, a road for water, and it is built like one. The words for its decay are courteous. A building nobody has repaired in two generations is _humelthandar_, resting, and a Vilérian walking a visitor past a roofless temple calls it resting with a straight face. The city has no plain word for a ruin inside its own walls, and a visitor who supplies one gives offense.
 
 ### Craft, guild and the kept secret
 
@@ -11180,7 +11184,7 @@ A guild is _tevran_, a body chartered for one craft, and the guilds of a city to
 
 ### Coin, trade and the counting-table
 
-The empire's money has three names, each a step down. The gold coin is _Solden_, hallowed like a god and struck only at the capital with the sovereign's face on it; the silver coin, _ankra_, is the coin of account in which prices are reckoned; and the _kezilon_, the wedge, is one eighth of a silver coin, cut from it with a chisel when change is wanted. A gold coin's hallowed ending is the reason an ordinary Vylarian who handles one says its name with a little ceremony.
+The empire's money has three names, each a step down. The gold coin is _Solden_, hallowed like a god and struck only at the capital with the sovereign's face on it; the silver coin, _ankra_, is the coin of account in which prices are reckoned; and the _kezilon_, the wedge, is one eighth of a silver coin, cut from it with a chisel when change is wanted. A gold coin's hallowed ending is the reason an ordinary Vilérian who handles one says its name with a little ceremony.
 
 The moneylender, _fezumos_, lends at interest, _fezumalon_, and issues paper notes against the treasury's reserves. The merchant, _delamos_, is respectable and rich and is never quite a gentleman, since a man of standing lives from land.
 
@@ -11190,17 +11194,17 @@ The great river is _[Vilaras]{.name data-type="place/feature"}_, and it is hallo
 
 ### The sea and the sailing year
 
-The [[place-vylarianse|Vylarian Sea]] has its year, and the year turns on the _aistroi_, the steady northerlies of late summer that carry the grain fleets home. The word is plural and never takes a singular; a sailor says the winds have come, never that one has. A ship is _threnema_, the fleet _threnemalon_, and a warship is a battle-ship, _korduthrenema_, built from the word for a battle.
+The [[place-vylarianse|Vilérian Sea]] has its year, and the year turns on the _aistroi_, the steady northerlies of late summer that carry the grain fleets home. The word is plural and never takes a singular; a sailor says the winds have come, never that one has. A ship is _threnema_, the fleet _threnemalon_, and a warship is a battle-ship, _korduthrenema_, built from the word for a battle.
 
 ### The body, life and death
 
-Death has a word, _kolvazis_, and the language uses it as seldom as it can. A Vylarian who has died _goes to the ancestors_, _kalmethathen_, and takes his place among the masks in the hall. The tombs of a city stand along the roads outside its hallowed boundary, where the dead may lie, and the line of them is the _zemrolara_, the town of the tombs.
+Death has a word, _kolvazis_, and the language uses it as seldom as it can. A Vilérian who has died _goes to the ancestors_, _kalmethathen_, and takes his place among the masks in the hall. The tombs of a city stand along the roads outside its hallowed boundary, where the dead may lie, and the line of them is the _zemrolara_, the town of the tombs.
 
 The hand, _dekazu_, is also the word for the power a master holds over a person, and to be "in the hand" of someone is to be his ward, his slave or his wife.
 
 ### Time, the calendar and the festivals
 
-The Vylarian year is counted from the founding, _zerthazis_, the same root as the founder of a house, so that the city is in its own reckoning a house with a founder of its own. The morning, _pramiza_, shares its root with the morning call, because for most citizens of standing the day begins at a patron's door.
+The Vilérian year is counted from the founding, _zerthazis_, the same root as the founder of a house, so that the city is in its own reckoning a house with a founder of its own. The morning, _pramiza_, shares its root with the morning call, because for most citizens of standing the day begins at a patron's door.
 
 ### Learning, speech and the letters
 
@@ -11210,7 +11214,7 @@ The arcane order is the _thordimalon_, the body of the art, and it borrows the v
 
 ### Qualities
 
-An adjective takes the gender of its noun, so a Vylari adjective has a form for each: _thelvaros_ for a nobleman, _thelvara_ for a noblewoman, _thelvaron_ for a noble thing, and with a hallowed ending _thelvaras_, which in imperial speech survives only on names. The table gives the masculine. The colors are few and the words for worth, weight and standing many: _solkimos_ (weighty, grave) is the highest praise one senator gives another.
+An adjective takes the gender of its noun, so a Vilari adjective has a form for each: _thelvaros_ for a nobleman, _thelvara_ for a noblewoman, _thelvaron_ for a noble thing, and with a hallowed ending _thelvaras_, which in imperial speech survives only on names. The table gives the masculine. The colors are few and the words for worth, weight and standing many: _solkimos_ (weighty, grave) is the highest praise one senator gives another.
 
 ### Doing, going and being
 
@@ -11222,11 +11226,11 @@ The numbers count in tens, and twelve has a word of its own, _dorekis_, because 
 
 ## Shared roots {#shared-roots}
 
-Ancient Vylari is the mother of five tongues, and the scholars of [[place-orzara|Orzara]] named it for the one of them the empire speaks. The [[lore-aelendnppl|Áelendan]] reject the name; to them the old tongue is their own, and the empire's speech its worn-down coastal cousin.
+Ancient Vilari is the mother of five tongues, and the scholars of [[place-orzara|Orzara]] named it for the one of them the empire speaks. The [[lore-aelendnppl|Áelendan]] reject the name; to them the old tongue is their own, and the empire's speech its worn-down coastal cousin.
 
 - [[skill-aelendlng|Áelendi]] split first, carried over the eastern pass into the highlands, and kept the old sounds best of all: it still clicks its stops. It lost the lip sounds, took a great layer of words from [[skill-sinalelng|Sinale]], and kept its old oaths.
 - [[skill-elvndrlng|Élavendri]] is the lowland daughter of Áelendi, softened and sung.
-- Imperial Vylari stayed on the coast, kept the most grammar and lightened its sounds.
+- Imperial Vilari stayed on the coast, kept the most grammar and lightened its sounds.
 - [[skill-provnzlng|Provenzal]] made articles of all three pointing words, and turned its consonants soft between vowels.
 - [[skill-tarvenlng|Tarveni]] kept three genders, held up by the older mountain speech it settled over.
 
@@ -11258,7 +11262,7 @@ GROUP BY position, gloss ORDER BY position
 
 ## Attested names {#attested-names}
 
-Every name in the scope of the Vylari tongue—every person of the Vylarian culture, every place and body of the empire, the language and its scripts—with every note where it is met. A person or a place a page names in bold, with no note of its own, stands here with the pages that name it. A name in the reader's tongue is listed so that the register is complete, and it is not built. A Vylari name whose **Built from** cell shows `—` is one the lexicon does not yet make.
+Every name in the scope of the Vilari tongue—every person of the Vilérian culture, every place and body of the empire, the language and its scripts—with every note where it is met. A person or a place a page names in bold, with no note of its own, stands here with the pages that name it. A name in the reader's tongue is listed so that the register is complete, and it is not built. A Vilari name whose **Built from** cell shows `—` is one the lexicon does not yet make.
 
 ### Tongues
 

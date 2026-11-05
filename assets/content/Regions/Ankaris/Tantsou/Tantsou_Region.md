@@ -35,7 +35,7 @@ The Tantsou Region is the far east of the [[place-ankrscntnnt|Ankaris Continent]
 
 ## Geography
 
-Mountain ranges enclose the region and divide it into a series of great river basins. The northern lands reach a cold coast. To the west lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazryn]] frontier, where [[lore-celestialroad|the Celestial Road]] ends. To the southwest the unaligned range of [[place-graznmntns|the Grazian Mountains]] stands between Tantsou and [[place-vedyarargn|Vedyara]], crossed by the long passes of [[place-suryadvar|Suryadvar]], Jnanadvar and [[place-shankhadvr|Shankhadvar]]. To the east lies the open ocean and the strait that separates the mainland from the [[place-jenchairgn|Jenchai]] archipelago.
+Mountain ranges enclose the region and divide it into a series of great river basins. The northern lands reach a cold coast. To the west lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazrin]] frontier, where [[lore-celestialroad|the Celestial Road]] ends. To the southwest the unaligned range of [[place-graznmntns|the Grazian Mountains]] stands between Tantsou and [[place-vedyarargn|Vedyara]], crossed by the long passes of [[place-suryadvar|Suryadvar]], Jnanadvar and [[place-shankhadvr|Shankhadvar]]. To the east lies the open ocean and the strait that separates the mainland from the [[place-jenchairgn|Jenchai]] archipelago.
 
 Three great rivers make the basins. Fed by mountain glaciers, they run through the heartland to the eastern ocean and carry commerce, tribute and imperial edicts on the same water. The valleys between them are the most intensively cultivated land in the world: rice, millet, mulberry for the silkworm, tea and orchard fruit feed the crowded river cities. Above the valleys, terraced hillsides climb the foothills in staircases, kept by villages whose terraces have passed down through named lineages for thirty generations or more. A terrace is the first thing a Tantsou points to when asked what the registers are for.
 
@@ -63,7 +63,7 @@ No serious threat has ever reached the Empire from the west. Its worst enemies h
 
 ## Trade
 
-The region stands at the eastern end of the Celestial Roads, the overland routes that run west through the Khazryn and reach [[place-midhalnrgn|Midhalión]] at last. Silk, porcelain, tea, lacquer, jade, spices and finished metalwork go west; silver, gold, amber, coral, glass and horses come east. The imperial bureaucracy taxes, documents and classifies every significant movement of goods, so smuggling is a highly developed profession.
+The region stands at the eastern end of the Celestial Roads, the overland routes that run west through the Khazrin and reach [[place-midhalnrgn|Midhalión]] at last. Silk, porcelain, tea, lacquer, jade, spices and finished metalwork go west; silver, gold, amber, coral, glass and horses come east. The imperial bureaucracy taxes, documents and classifies every significant movement of goods, so smuggling is a highly developed profession.
 
 Coastal trade carries less prestige and far more volume. Tantsou trading ships work the southern ports and reach Vedyara's outport at [[place-nilatir|Nilatir]] and the northern coasts of [[place-xerathia|Zerathia]]. The port cities hold large foreign merchant quarters, carefully walled, carefully watched and carefully taxed.
 
@@ -73,7 +73,7 @@ To the east, across the narrow strait, is Jenchai. The Empire calls the archipel
 
 To the southwest, beyond the eastern arc of the Grazian Mountains, contact with Vedyara is old and substantial and runs on mutual respect with almost no political integration. Vedyaran scholars travel the Tantsou courts and Tantsou monks study Vedyaran philosophical texts, and neither side has ever seriously tried to rule the other.
 
-To the west, beyond the mountain passes, the Khazryn Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
+To the west, beyond the mountain passes, the Khazrin Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
 
 To the north, the frontier toward the [[place-grkrhlmrgn|Grukarholm Region]] is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the [Black Wilds]{.name data-type="place/region"}, is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhuo]] has united its tribes, and his riders are already in the northern provinces.
 
@@ -92,7 +92,7 @@ To the north, the frontier toward the [[place-grkrhlmrgn|Grukarholm Region]] is 
 : the legal structure of the eight castes
 
 [[lore-celestialroad|The Celestial Road]]
-: the caravan road west across the Khazryn
+: the caravan road west across the Khazrin
 
 [[place-jenchairgn|Jenchai Region]]
 : eastern archipelago, claimed province
@@ -103,7 +103,7 @@ To the north, the frontier toward the [[place-grkrhlmrgn|Grukarholm Region]] is 
 [[place-graznmntns|The Grazian Mountains]]
 : the range along the western frontier
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : western buffer
 
 [[place-grkrhlmrgn|Grukarholm Region]]

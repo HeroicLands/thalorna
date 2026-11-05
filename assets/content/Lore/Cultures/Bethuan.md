@@ -110,7 +110,7 @@ Bethua repays this with genuine reverence. The Spadai are praised in song and ce
 
 The Spear-Sisterhood trains from youth in arms and tactics and in the [[skill-charissa|Kharessa]]—the Grace—an open-hand and kicking art built to turn a woman's agility into a weapon and let her beat a larger, stronger opponent. It is neither a sport nor an ornament. The realm's security rests on the proposition that a trained woman defeats an untrained man, and Bethua intends to keep that proposition true.
 
-Above the army stands the fleet, which is what Bethua is actually famous for: the best navy in the region, escorting its convoys, guarding its coast, and waging a deniable privateer war on [[affiliation-vylarinmpr|Vylarian shipping]] as the maritime proxy of its [[affiliation-empireakhlth|Khelathi patron]].
+Above the army stands the fleet, which is what Bethua is actually famous for: the best navy in the region, escorting its convoys, guarding its coast, and waging a deniable privateer war on [[affiliation-vylarinmpr|Vilérian shipping]] as the maritime proxy of its [[affiliation-empireakhlth|Khelathi patron]].
 
 ## The Man Admired
 
@@ -160,7 +160,7 @@ The [[skill-bethunlng|Bethuan tongue]] is related to [[skill-helonclng|Helonic]]
 
 Toward foreigners the realm is exact and cool. A foreign man trading in a Bethuan port is suffered, not welcomed: served fairly, his coin taken, his contracts honored, and met throughout with a condescension he can do nothing about. Part of it is simple affront, since a free man trading on his own account presumes as of right to do what no Bethuan man may do. A foreign woman trading on her own account meets none of it, and often finds Bethua the easiest market on the coast.
 
-The one exception is an official of Au'Khelathu, received with marked deference regardless of sex—a public, daily acknowledgment of the patron relationship that everyone, and the Vylarians most of all, is meant to notice.
+The one exception is an official of Au'Khelathu, received with marked deference regardless of sex—a public, daily acknowledgment of the patron relationship that everyone, and the Vilérians most of all, is meant to notice.
 
 ## What the Gate Asks
 

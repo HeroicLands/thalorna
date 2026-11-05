@@ -3,15 +3,15 @@ shortcode: provncmktr
 name: {full: Province of Moktur}
 type: affiliation
 subType: polity
-description: "The mountainous northern shield of the Vylarian Empire—a hard frontier province of mines, timber, and fortified garrisons guarding the Vristwald march, governed by semi-autonomous military lords and home to a hybrid Vylarian–Varokh border culture."
+description: "The mountainous northern shield of the Vilérian Empire—a hard frontier province of mines, timber, and fortified garrisons guarding the Vristwald march, governed by semi-autonomous military lords and home to a hybrid Vilérian–Varokh border culture."
 data:
   templatePriority: null
-  demonym: Vylarian
+  demonym: Vilérian
   epithet: null
   symbol: null
   governance:
     model: monarchy
-    summary: Frontier/military province of the Vylarian Empire, governed by an imperial appointee.
+    summary: Frontier/military province of the Vilérian Empire, governed by an imperial appointee.
     ranks:
       - level: 0
         title: Proscribed
@@ -81,7 +81,7 @@ In the Province of Moktur the _therkos_ (governor) is a soldier, and some _therk
 
 ## Character
 
-Moktur is the most martial province of the empire. Its people are proud, self-reliant and faintly contemptuous of the soft southerners of [[place-alyssa|Alessa]] and [[place-hylen|Hilen]]. Military service here is expected as well as honored, and the province produces the empire's best soldiers: its legions are the most battle-tested in [[affiliation-vylrnmltry|the Vylarian military]].
+Moktur is the most martial province of the empire. Its people are proud, self-reliant and faintly contemptuous of the soft southerners of [[place-alyssa|Alessa]] and [[place-hylen|Hilen]]. Military service here is expected as well as honored, and the province produces the empire's best soldiers: its legions are the most battle-tested in [[affiliation-vylrnmltry|the Vilérian military]].
 
 The frontier is not a clean line. Varokh communities sit within Moktur's nominal borders, and some Mokturan border lords have more in common with the chiefs across the line than with the _kurthoi_ (senators) in [[place-orzara|Orzara]]. Intermarriage, trade and occasional truces make a border culture that neither side fully controls. A militia elder explains it to a new magistrate: "You will be told the Varokh are on the other side. Some of them are, and some are your neighbors, and the ones across the line have cousins on this side. Learn who is whose before you pass a judgment."
 
@@ -92,7 +92,7 @@ Beyond the mines and timber described under [[place-moktur|Moktur]], the provinc
 ## Notable Features
 
 - Semi-autonomous military _therkoi_ with their own armies
-- A hybrid border culture blending Vylarian and Varokh traditions
+- A hybrid border culture blending Vilérian and Varokh traditions
 
 ## Life in the Province
 
@@ -100,7 +100,7 @@ Moktur is the wild end of the empire: mountains, forested hills, fast cold river
 
 Power belongs to the military _therkoi_ and the border lords, some little better than warlords, and their loyalty to Orzara is a matter of convenience. A settlement here is walled, watchful, and loyal first to whoever can defend it.
 
-Trouble in Moktur is frontier trouble: raids and reprisals across the Vristwald march, feuds between border lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vylarian, half-Varokh borderland. Where the Varokh tribes themselves are meant, rather than the communities inside the border, see [[affiliation-vrystwldtrbs|the tribes of Vristwald]].
+Trouble in Moktur is frontier trouble: raids and reprisals across the Vristwald march, feuds between border lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vilérian, half-Varokh borderland. Where the Varokh tribes themselves are meant, rather than the communities inside the border, see [[affiliation-vrystwldtrbs|the tribes of Vristwald]].
 
 What is abundant is metal, timber, game and danger. What is scarce is imperial authority, soft living and trust.
 
@@ -117,7 +117,7 @@ The province's other quarrels are the frontier's.
 
 ## Commerce and Currency
 
-The Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Province of Moktur uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## History {#history}
 
@@ -125,7 +125,7 @@ Moktur became a march when the Empire went north. From about 120 to 180 the legi
 
 Moktur's legions made the reigning house. When the Orzas Barnakis died in 389 they acclaimed their _felzos_, Makandas, and marched south ([[lore-brkensuccsn|The Broken Succession]]). About 401 they beat the Senate's army on the Olkassa estate in Hilen and lost half their number doing it ([[lore-olcassabtl|The Battle of Olkassa]]), and about 406 Makandas took Orzara and founded House Helarkales ([[lore-restorehouse|The Restoration]]). He rewarded the northern legions, and the province keeps the memory that its _felzos_ made the house.
 
-The Drift began here. After [[lore-threewinters|the Three Winters]] of 512 to 514, Varokh war-bands came over the Vandstein passes from 515 to 528 for cattle and grain, the valleys of the north emptied, and [[place-dolvar|Dolvar]] was raised to a legion fortress ([[lore-hungerraids|The Hunger Raids]]). In 518 a war-band burned the camp of the [Pelsan Hilvan]{.name data-type="affiliation"} and carried off its eagle. In the spring of 520 the Karsan Soldan Korvan closed the valley above the host that carried it and drove the host into the marsh below, where it died to the last man ([[lore-blackmarshbtl|The Battle of the Black Marsh]]). The northern revenue failed in those years, and the Empire counts the raids among the causes of its decline ([[lore-empirdclne|The Decline of the Vylarian Empire]]). From 660, when the Nordmen took Stormveld and needed thralls, captives taken in the Moktur passes went down the Vristwald's rivers to Nordmen buyers by the boatload ([[lore-thrallrivers|The Thrall Rivers]]).
+The Drift began here. After [[lore-threewinters|the Three Winters]] of 512 to 514, Varokh war-bands came over the Vandstein passes from 515 to 528 for cattle and grain, the valleys of the north emptied, and [[place-dolvar|Dolvar]] was raised to a legion fortress ([[lore-hungerraids|The Hunger Raids]]). In 518 a war-band burned the camp of the [Pelsan Hilvan]{.name data-type="affiliation"} and carried off its eagle. In the spring of 520 the Karsan Soldan Korvan closed the valley above the host that carried it and drove the host into the marsh below, where it died to the last man ([[lore-blackmarshbtl|The Battle of the Black Marsh]]). The northern revenue failed in those years, and the Empire counts the raids among the causes of its decline ([[lore-empirdclne|The Decline of the Vilérian Empire]]). From 660, when the Nordmen took Stormveld and needed thralls, captives taken in the Moktur passes went down the Vristwald's rivers to Nordmen buyers by the boatload ([[lore-thrallrivers|The Thrall Rivers]]).
 
 The watchtowers of the northern march count the smoke at dusk, and their sergeants teach recruits that the count was right at the Black Marsh. The field itself is [[place-blackmarshfld|the Blood-field of the Black Marsh]].
 
@@ -137,7 +137,7 @@ The watchtowers of the northern march count the smoke at dusk, and their sergean
 
 ## See Also
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : parent polity
 
 [[place-moktur|Moktur]]

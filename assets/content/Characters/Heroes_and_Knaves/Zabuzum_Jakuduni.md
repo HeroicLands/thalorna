@@ -421,7 +421,7 @@ Zabuzum was born in the port of [[place-sazumun2|Sazumun]], a city-state of some
 
 ### The Taruzelian War of Independence
 
-When the Confederation of Taruzelian States rose in rebellion against the [[affiliation-vylarinmpr|Vylarian Empire]]'s rule, Bu was twenty-two and already a seasoned sailor. He joined the rebel fleet without hesitation, driven by a fierce belief that [[lore-taruzelianclt|Taruzel's]] people deserved to chart their own course. He proved himself a natural leader—calm under fire, tactically sharp, and ferociously loyal to those who fought beside him. He rose to command a raiding vessel, leading boarding actions against imperial warships in the narrow straits. The Battle of [[place-tamzirshoals|Tamzir Shoals]] was his defining moment. The Vylarian imperial fleet had blockaded the Taruzelian coast, choking the rebellion's supply lines. Bu led a squadron of rebel vessels through the treacherous shoals at dawn, where the shallow reef-studded waters negated the imperials' advantage in size and firepower. The battle was brutal—fought at close quarters among the breaking waves—and Bu took the scar he still carries when an imperial marine's blade found his jaw during a boarding action. But the blockade broke, and the rebellion gained its symbolic victory.
+When the Confederation of Taruzelian States rose in rebellion against the [[affiliation-vylarinmpr|Vilérian Empire]]'s rule, Bu was twenty-two and already a seasoned sailor. He joined the rebel fleet without hesitation, driven by a fierce belief that [[lore-taruzelianclt|Taruzel's]] people deserved to chart their own course. He proved himself a natural leader—calm under fire, tactically sharp, and ferociously loyal to those who fought beside him. He rose to command a raiding vessel, leading boarding actions against imperial warships in the narrow straits. The Battle of [[place-tamzirshoals|Tamzir Shoals]] was his defining moment. The Vilérian imperial fleet had blockaded the Taruzelian coast, choking the rebellion's supply lines. Bu led a squadron of rebel vessels through the treacherous shoals at dawn, where the shallow reef-studded waters negated the imperials' advantage in size and firepower. The battle was brutal—fought at close quarters among the breaking waves—and Bu took the scar he still carries when an imperial marine's blade found his jaw during a boarding action. But the blockade broke, and the rebellion gained its symbolic victory.
 
 ### Disillusionment
 
@@ -429,7 +429,7 @@ The war ended in Taruzelian independence—on paper. But the merchant guilds who
 
 ### Captain of the Tamzir
 
-For the last twelve years, Bu has worked the [[place-vylarianse|Vylarian Sea]] as a freelance trader, smuggler, and occasional thief. He takes the jobs that respectable captains refuse—running cargo past imperial patrols, hauling passengers who need to disappear, delivering goods to ports where no questions are asked. He has assembled a crew of misfits, outcasts, and fugitives who are loyal to him because he is loyal to them. The Tamzir is not much to look at—a patched and weatherbeaten vessel that smells of tar and old fish—but she is fast, nimble, and home.
+For the last twelve years, Bu has worked the [[place-vylarianse|Vilérian Sea]] as a freelance trader, smuggler, and occasional thief. He takes the jobs that respectable captains refuse—running cargo past imperial patrols, hauling passengers who need to disappear, delivering goods to ports where no questions are asked. He has assembled a crew of misfits, outcasts, and fugitives who are loyal to him because he is loyal to them. The Tamzir is not much to look at—a patched and weatherbeaten vessel that smells of tar and old fish—but she is fast, nimble, and home.
 
 ## Psyche
 
@@ -457,7 +457,7 @@ Bu has no formal patrons. He works freelance and prefers it that way. He maintai
 
 ### Enemies
 
-The **Taruzelian Guild Enforcers** have a long memory for debts and slights. Bu's wartime activities embarrassed several guild families who collaborated with the Vylarian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vylarian Imperial Agents**, manipulated by the [[affiliation-ordoarcanis|Thordimalon]], have taken an interest in the Tamzir since the [Tamaro siblings]{.name data-type="affiliation/lineage"} came aboard. Bu does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
+The **Taruzelian Guild Enforcers** have a long memory for debts and slights. Bu's wartime activities embarrassed several guild families who collaborated with the Vilérian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vilérian Imperial Agents**, manipulated by the [[affiliation-ordoarcanis|Thordimalon]], have taken an interest in the Tamzir since the [Tamaro siblings]{.name data-type="affiliation/lineage"} came aboard. Bu does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
 
 ### Affiliations
 
@@ -469,10 +469,10 @@ The War That Never Ended
 : A former comrade from the Taruzelian rebellion contacts Bu with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzir, resulting in the deaths of sailors Bu commanded. The evidence is real, but pursuing it would mean returning to [[place-taruzelrgn|Taruzel]] and confronting enemies with far more resources than a freelance ship captain can muster.
 
 The Price of Passage
-: A wealthy Vylarian merchant offers Bu an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzir's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bu's contacts warns him that the merchant has ties to the Thordimalon (the Arcane Order).
+: A wealthy Vilérian merchant offers Bu an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzir's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bu's contacts warns him that the merchant has ties to the Thordimalon (the Arcane Order).
 
 Crew Fractures
-: When a lucrative but morally repugnant job is offered—transporting enslaved laborers for a Vylarian noble—Bu must navigate a crew divided between those who need the coin and those who will not compromise. The decision he makes will define what the Tamzir stands for, and whether his crew holds together or fractures.
+: When a lucrative but morally repugnant job is offered—transporting enslaved laborers for a Vilérian noble—Bu must navigate a crew divided between those who need the coin and those who will not compromise. The decision he makes will define what the Tamzir stands for, and whether his crew holds together or fractures.
 
 Ghost of Tamzir
 : Bu begins receiving anonymous messages referencing events from the Battle of Tamzir that only someone who fought there could know. The messages suggest that a betrayal from within the rebel fleet led to the death of Bu's closest friend during the engagement—and that the betrayer is still alive, prosperous, and operating within the Taruzelian merchant guilds.

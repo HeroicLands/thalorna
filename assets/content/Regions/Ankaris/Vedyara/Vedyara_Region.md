@@ -30,14 +30,14 @@ A factor of [[affiliation-mrchntclctvvdyr|the Merchant Collective]] who has work
 
 ## The Wall and the Six Crossings
 
-[[place-graznmntns|The Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|Thalorna]], [[place-suryashkhr|Suryashikhar]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tantsouregin|Tantsou]].
+[[place-graznmntns|The Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|Thalorna]], [[place-suryashkhr|Suryashikhar]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazrin]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tantsouregin|Tantsou]].
 
 Only six crossings are recognized along the entire range, and the routes and safe seasons of each are known only to the mountain guides:
 
 - [[place-meghadvar|Meghadvar]], the storm-door, the westernmost crossing, shut from below by the monsoon.
 - [[place-gudesroad|The Guides' Road]], between the two western doors, with no fortress, toll, shrine or blessing.
-- [[place-suryadvar|Suryadvar]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Suryagarha]], forking beyond the throat for the Khazryn and for Tantsou.
-- [[place-tamradvar|Tamradvar]], the copper-door, up [[place-slvrgorges|the Silver Gorges]] to the Khazryn's eastern marches.
+- [[place-suryadvar|Suryadvar]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Suryagarha]], forking beyond the throat for the Khazrin and for Tantsou.
+- [[place-tamradvar|Tamradvar]], the copper-door, up [[place-slvrgorges|the Silver Gorges]] to the Khazrin's eastern marches.
 - [[place-jnanadvar|Jnanadvar]], the scholars' door, the long crossing of the Eastern Reach to Tantsou's western frontier.
 - [[place-shankhadvr|Shankhadvar]], the conch-door, the easternmost and worst, watched from [[place-sangrafort|the Sangra-fort]].
 

@@ -66,7 +66,7 @@ sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 
 ## Overview
 
-Dúnavarre is the most powerful and diplomatically active kingdom on [[place-aelwyth|Aelwyth]], occupying the southeastern coast of the island where the best natural harbors face the open sea toward [[place-elavendre|Élavendre]] and the mainland beyond. Where other Aelwythan polities look inward—to the mysteries of the great central lake or the feudal quarrels of the lowlands—Dúnavarre looks outward, maintaining trade and diplomatic ties with the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], and even the courts of the [[affiliation-vylarinmpr|Vylarian Empire]]. The kingdom holds the land of [[place-dunavarre|Dúnavarre]].
+Dúnavarre is the most powerful and diplomatically active kingdom on [[place-aelwyth|Aelwyth]], occupying the southeastern coast of the island where the best natural harbors face the open sea toward [[place-elavendre|Élavendre]] and the mainland beyond. Where other Aelwythan polities look inward—to the mysteries of the great central lake or the feudal quarrels of the lowlands—Dúnavarre looks outward, maintaining trade and diplomatic ties with the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], and even the courts of the [[affiliation-vylarinmpr|Vilérian Empire]]. The kingdom holds the land of [[place-dunavarre|Dúnavarre]].
 
 ## Government
 
@@ -88,7 +88,7 @@ Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]]
 
 Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive—the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblcndrth|Republic of Ondareth]] through coastal trade routes.
 
-Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[affiliation-tantsouempr|Empire of Tantsou]], seeking to bypass the Vylarian Empire's long-standing monopoly as intermediary for east-west diplomacy. This mission, commissioned by the Synod and led by Sir [[being-arancelavren|Aran Kélavren]], represents a bold assertion of Dúnavarren independence on the international stage.
+Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[affiliation-tantsouempr|Empire of Tantsou]], seeking to bypass the Vilérian Empire's long-standing monopoly as intermediary for east-west diplomacy. This mission, commissioned by the Synod and led by Sir [[being-arancelavren|Aran Kélavren]], represents a bold assertion of Dúnavarren independence on the international stage.
 
 ## Notable Institutions
 
@@ -139,7 +139,7 @@ the feudal kingdoms across the water, and one of the reasons the Synod's writ ru
 
 ## Commerce and Currency
 
-Kingdom of Dúnavarre uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Dúnavarre is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Dúnavarre uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Dúnavarre is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 
@@ -161,5 +161,5 @@ Kingdom of Dúnavarre uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / A
 [[skill-elvndrlng|Élavendri]]
 : Naming conventions
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : Regular and cordial diplomatic relations

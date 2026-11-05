@@ -93,7 +93,7 @@ The sabhra met for forty days. It declared the kingdom dissolved and the dynasti
 - The royal army was disbanded, and its men were given parcels of land and taken into the cultivating and artisan households of the new janpoda.
 - The council-chamber was kept, and the record in it was kept whole.
 
-The classical chronicles put this in the first year of [[lore-agecopyists|the Age of Copyists]] (1 AC) in [[lore-mdstncnt|the Madustan count]], 241 BF in the [[affiliation-vylarinmpr#the-vylarian-calendar|Vylarian reckoning]], some nine hundred and sixty years ago. Rajepur has governed itself by the same arrangement ever since, with adjustments at the margins.
+The classical chronicles put this in the first year of [[lore-agecopyists|the Age of Copyists]] (1 AC) in [[lore-mdstncnt|the Madustan count]], 241 BF in the [[affiliation-vylarinmpr#the-vylarian-calendar|Vilérian reckoning]], some nine hundred and sixty years ago. Rajepur has governed itself by the same arrangement ever since, with adjustments at the margins.
 
 [[lore-fortydays|The Forty Days]] records the sabhra's answer:
 

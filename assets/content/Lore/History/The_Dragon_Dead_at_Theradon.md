@@ -3,7 +3,7 @@ shortcode: dragondead
 name: {full: The Dragon Dead at Theradon, en: [The Taking of the Workshop]}
 type: lore
 subType: history
-description: "In 330 BF the Vylarian Republic takes Theradon and its mage-warlord's workshop, and carries away what is in it: the dead of dragons, bound and kept in jars, and the only thing in the world a dragon can be threatened with."
+description: "In 330 BF the Vilérian Republic takes Theradon and its mage-warlord's workshop, and carries away what is in it: the dead of dragons, bound and kept in jars, and the only thing in the world a dragon can be threatened with."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -62,7 +62,7 @@ A dragon cannot be threatened with its body. It can be threatened with its dead.
 
 In The Dragon Dead at Theradon, during the early years of [[lore-helionscnq|the Conquest of Helionis]], a mage-warlord of
 [[place-theradon2|Theradon]] did the thing that follows from those two facts. He killed dragons,
-took their souls at the transit, and bound them. The [Vylarian Republic]{.name data-type="affiliation/polity"} took his city in 330 BF, took his
+took their souls at the transit, and bound them. The [Vilérian Republic]{.name data-type="affiliation/polity"} took his city in 330 BF, took his
 workshop with it, and found the jars: bronze, lead-sealed, lettered in Helonic with an inventory
 number and nothing else.
 

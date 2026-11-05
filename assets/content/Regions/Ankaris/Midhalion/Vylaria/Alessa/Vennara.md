@@ -59,7 +59,7 @@ Vennara has one inn, on the fountain square, and in winter it has every room fre
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the imperial overview
 
 [[place-orzara|Orzara]]

@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Qodirur**, "the mountain people", are a [[lore-sowidesclt|Sovidur]] tribe of the black mesas of [[place-dkrqrrgn|Diqraqor]], in the [[place-khzryndsrtrgn|Khazryn]]. Where the other tribes of the plateau wall their wells with stacked stone, the Qodirur have walled their whole country's water into one ring and keep everything they own inside it. The poorer upland families round them herd for the right to drink there.
+The **Qodirur**, "the mountain people", are a [[lore-sowidesclt|Sovidur]] tribe of the black mesas of [[place-dkrqrrgn|Diqraqor]], in the [[place-khzryndsrtrgn|Khazrin]]. Where the other tribes of the plateau wall their wells with stacked stone, the Qodirur have walled their whole country's water into one ring and keep everything they own inside it. The poorer upland families round them herd for the right to drink there.
 
 ## The Ring
 

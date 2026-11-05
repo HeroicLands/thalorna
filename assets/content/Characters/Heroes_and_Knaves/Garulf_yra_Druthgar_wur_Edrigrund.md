@@ -445,7 +445,7 @@ Coin. Comfort. Survival. Garulf's motivations are refreshingly uncomplicated. He
 
 ### Strengths
 
-Garulf is a devastating fighter—one of the most dangerous individuals on the [[place-vylarianse|Vylarian Sea]] in a straight-up brawl. He is strong, tough, experienced, and without hesitation in combat. He is also a skilled tracker and survivalist, comfortable in wilderness conditions that would break softer men. His practical intelligence is often underestimated.
+Garulf is a devastating fighter—one of the most dangerous individuals on the [[place-vylarianse|Vilérian Sea]] in a straight-up brawl. He is strong, tough, experienced, and without hesitation in combat. He is also a skilled tracker and survivalist, comfortable in wilderness conditions that would break softer men. His practical intelligence is often underestimated.
 
 ### Weaknesses
 

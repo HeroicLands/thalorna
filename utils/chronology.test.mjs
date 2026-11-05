@@ -431,7 +431,7 @@ function runNorth(...history) {
     return check({ history, calendars: [MADHU, DOMSEY], world: [WORLD] });
 }
 
-test("the Dómsey count: a count year reads as the Vylarian year it stands for", () => {
+test("the Dómsey count: a count year reads as the Vilérian year it stands for", () => {
     assert.deepEqual(
         runNorth(
             note("sitting", [{ when: 287, stated: { calendar: "domseycount", text: "1 FC" } }]),
@@ -442,7 +442,7 @@ test("the Dómsey count: a count year reads as the Vylarian year it stands for",
     );
 });
 
-test("the Dómsey count: a count year one off its Vylarian year is a finding", () => {
+test("the Dómsey count: a count year one off its Vilérian year is a finding", () => {
     const [found] = runNorth(
         note("off", [{ when: 519, stated: { calendar: "domseycount", text: "232 HF" } }]),
     );
@@ -537,7 +537,7 @@ test("ago-agrees reads a figure with a thousands comma", () => {
     assert.match(found, /"1,000 years ago"/u);
 });
 
-/** The Vylarian Ages in miniature: three ages, the first with no start. */
+/** The Vilérian Ages in miniature: three ages, the first with no start. */
 const AGES = {
     file: "Ages.md",
     fm: {
@@ -713,7 +713,7 @@ test("midhalion-era: a misdated Hellád note is red", () => {
     );
 });
 
-test("midhalion-era: a Hellád note naming no Hellád age is red, and a Vylarian age does not serve", () => {
+test("midhalion-era: a Hellád note naming no Hellád age is red, and a Vilérian age does not serve", () => {
     assert.equal(runHellad(hellad("untagged", ["history"], [{ when: -158 }])).length, 1);
     assert.equal(runHellad(hellad("wrong", ["history", "firstaugs"], [{ when: 12 }])).length, 1);
 });

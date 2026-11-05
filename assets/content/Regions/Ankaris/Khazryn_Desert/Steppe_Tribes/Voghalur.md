@@ -48,7 +48,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Voghalur**, "the wolf people", are a [[lore-sowidesclt|Sovidur]] tribe of the stone desert of [[place-idwkrrgn|Idvaqor]], in the [[place-khzryndsrtrgn|Khazryn]], and the hardest tribe on the eastern road. They keep the words of the three great unions by heart and say them at three standing stones at their central well. No other tribe holds that the unions were the steppe at its best, and the Voghalur hold it openly.
+The **Voghalur**, "the wolf people", are a [[lore-sowidesclt|Sovidur]] tribe of the stone desert of [[place-idwkrrgn|Idvaqor]], in the [[place-khzryndsrtrgn|Khazrin]], and the hardest tribe on the eastern road. They keep the words of the three great unions by heart and say them at three standing stones at their central well. No other tribe holds that the unions were the steppe at its best, and the Voghalur hold it openly.
 
 ## The Range
 

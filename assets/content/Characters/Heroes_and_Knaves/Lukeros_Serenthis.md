@@ -409,11 +409,11 @@ Lukeros Serenthis is a handsome young man whose appearance screams wealth and ed
 
 ### Origin
 
-Lukeros was born in the [[lore-vylarianclt|Vylarian]] city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society—not nobility, but close enough to move in those circles. Lukeros was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
+Lukeros was born in the [[lore-vylarianclt|Vilérian]] city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vilérian society—not nobility, but close enough to move in those circles. Lukeros was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
 
 ### Training
 
-Lukeros apprenticed to a surgeon-physician in [Azerya]{.name data-type="place/settlement"}, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy—his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
+Lukeros apprenticed to a surgeon-physician in [Azerya]{.name data-type="place/settlement"}, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy—his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vilérian medical establishment.
 
 ### The Rescue
 
@@ -453,7 +453,7 @@ Lukeros's family wealth has been largely spent on the escape and subsequent flig
 
 ### Enemies
 
-The **Thordimalon** wants Kivella back, and they want Lukeros punished for taking her. They operate through Vylarian imperial channels—court agents, bounty hunters, political leverage—making every Vylarian port a potential trap. The deeper danger is that the Order's interest in Kivella is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary value in war.
+The **Thordimalon** wants Kivella back, and they want Lukeros punished for taking her. They operate through Vilérian imperial channels—court agents, bounty hunters, political leverage—making every Vilérian port a potential trap. The deeper danger is that the Order's interest in Kivella is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary value in war.
 
 ### Affiliations
 
@@ -462,7 +462,7 @@ Passenger aboard the **Tamzir**. Brother and guardian of [[being-cibelasrnt|Kive
 ## Plot Hooks
 
 The Cure That Isn't
-: Lukeros hears of a physician in a distant port who claims to have treated patients with damage similar to Kivella's. The treatment is experimental and risky, but it offers hope where there has been none. Reaching the physician means sailing into waters heavily patrolled by Vylarian naval forces.
+: Lukeros hears of a physician in a distant port who claims to have treated patients with damage similar to Kivella's. The treatment is experimental and risky, but it offers hope where there has been none. Reaching the physician means sailing into waters heavily patrolled by Vilérian naval forces.
 
 The Order Closes In
 : An Order agent boards the Tamzir disguised as a passenger. Lukeros recognizes the signs too late, and the agent has already sent a message revealing their location. The crew has hours to decide whether to run, fight, or negotiate with an organization that does neither in good faith.

@@ -98,7 +98,7 @@ The stakes are the spring's trade between the strait and the interior, the peace
 : A soldier in the Kingdom's forces who pays for a count of the Zhoqarod at every gate of Zargandur, and wants to know whether the northern union will press the held cities.
 
 [[being-nimeshayashk|Nimeshay of Ashkarad]], heir of the craft-house
-: A merchant prince of the Vylarian Sea trade who lends silver to Ashkarad's craft families and pays for Gureshay's horses. The Teghumod have noticed the pattern of his loans.
+: A merchant prince of the Vilérian Sea trade who lends silver to Ashkarad's craft families and pays for Gureshay's horses. The Teghumod have noticed the pattern of his loans.
 
 [[being-narvunakethr|Narvuna of Kethramír]], head of the House of Kethramír
 : The author of the commentary the Atarzád have banned. A copy of it passes through Kethramír in every caravan from the west, hidden in a bale of cloth.
@@ -184,7 +184,7 @@ The arcs run in the road's order or out of it, and each moves the choosing wheth
 : the belt the road runs along, its water law and its two peoples
 
 [[lore-celestialroad|The Celestial Road]]
-: the road across the Khazryn whose southern spur ends at Kethramír
+: the road across the Khazrin whose southern spur ends at Kethramír
 
 [[scenario-mnthbfrrvw|The Month Before the Review]] · [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]
 : the frames of Midhalión, across the strait the caravans start from

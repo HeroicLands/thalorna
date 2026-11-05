@@ -7048,7 +7048,7 @@ The roman repertoire retains `f` and `o`, with their capitals, in the existing i
 
 ## Overview
 
-Taruzeli is the tongue of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the [[place-taruzelrgn|Taruzelian islands]], in the harbors of the [[place-vylarianse|Vylarian Sea]] and in the port cities of [[place-klhrcntnnt|Kalihara]], Taruzeli dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
+Taruzeli is the tongue of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the [[place-taruzelrgn|Taruzelian islands]], in the harbors of the [[place-vylarianse|Vilérian Sea]] and in the port cities of [[place-klhrcntnnt|Kalihara]], Taruzeli dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
 
 Taruzeli is characterized by rhythmic, sonorous tones. Its open vowels give names and words a flowing, measured quality suited to contract negotiations and formal agreements.
 

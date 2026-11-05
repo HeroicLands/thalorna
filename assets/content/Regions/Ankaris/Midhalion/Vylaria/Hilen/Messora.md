@@ -62,7 +62,7 @@ Messora has three inns, all on the square's corners. Out of season a party has i
 [[place-hylen|Hilen]]
 : the land of its estates
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[affiliation-olvenia|Faith of Olvenia]]

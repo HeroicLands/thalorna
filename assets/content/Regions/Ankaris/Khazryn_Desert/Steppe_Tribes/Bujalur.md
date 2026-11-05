@@ -49,7 +49,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Bujalur**, "the seal people", are a [[lore-sowidesclt|Sovidur]] tribe of the [[place-wlqtrrgn|Volketor]], the western margin of the [[place-khzryndsrtrgn|Khazryn]], who winter inside the [[place-eastrnmrch|Eastern March]] of [[affiliation-byzarianlg|Bizaria]]. Each autumn they come in under the League's truce to graze the March's foothills, and they sell its garrison horses at the outer caravanserais. In spring they go back out onto the grass, and whenever the steppe stirs, the March asks what its winter guests have seen.
+The **Bujalur**, "the seal people", are a [[lore-sowidesclt|Sovidur]] tribe of the [[place-wlqtrrgn|Volketor]], the western margin of the [[place-khzryndsrtrgn|Khazrin]], who winter inside the [[place-eastrnmrch|Eastern March]] of [[affiliation-byzarianlg|Bizaria]]. Each autumn they come in under the League's truce to graze the March's foothills, and they sell its garrison horses at the outer caravanserais. In spring they go back out onto the grass, and whenever the steppe stirs, the March asks what its winter guests have seen.
 
 ## The Range
 

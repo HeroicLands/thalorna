@@ -28,7 +28,7 @@ Between sessions the hall is shut and its floor swept once a week. The Clerk's r
 
 ## What Is Said of It
 
-The porters of the quay say that the hall's floor still remembers the tariffs: the clerks' paths are worn deepest in front of the old Vylarian collectors' desks, and a councilor who walks them to his bench is walking where the taxes of the empire were counted. The veterans who come to hear their petition read on the last afternoon of every session repeat a harder telling, that the councilors of the first session cut the empire's device off the pediment with their own hands and then sat down inside to count in the same way.
+The porters of the quay say that the hall's floor still remembers the tariffs: the clerks' paths are worn deepest in front of the old Vilérian collectors' desks, and a councilor who walks them to his bench is walking where the taxes of the empire were counted. The veterans who come to hear their petition read on the last afternoon of every session repeat a harder telling, that the councilors of the first session cut the empire's device off the pediment with their own hands and then sat down inside to count in the same way.
 
 ## The Present {#present}
 

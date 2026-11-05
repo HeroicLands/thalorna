@@ -400,7 +400,7 @@ Teshuda Funatum is a 49-year-old woman who stands 5'9" tall and is solidly built
 
 Teshuda Funatum is a cook of [[place-sazumun2|Sazumun]], a freewoman of a guild family on the city's register, and head cook to a factor of the slope whose house stands behind its white wall under the [[place-houseoffactors|House of Factors]]. For eleven years she has kept that kitchen, with a staff of six under her and the household's whole name for hospitality in her hands, and its table is the best in the city.
 
-A Taruzelian house does its business over its table, and a house that feeds forty people well is telling the harbor how sound its credit is. A factor who feeds a [[lore-khelathiclt|Khelathi]] captain badly loses the cargo before the sweet is served. Teshuda has cooked for Khelathi captains, [[lore-vylarianclt|Vylarian]] envoys and the whole of the House of Factors at a sitting, and a party with a letter to her factor eats at her table. Her honeyed pastries are known across the harbor, and so is her temper: she has put out two kitchen hands this year for a sauce that was nearly right.
+A Taruzelian house does its business over its table, and a house that feeds forty people well is telling the harbor how sound its credit is. A factor who feeds a [[lore-khelathiclt|Khelathi]] captain badly loses the cargo before the sweet is served. Teshuda has cooked for Khelathi captains, [[lore-vylarianclt|Vilérian]] envoys and the whole of the House of Factors at a sitting, and a party with a letter to her factor eats at her table. Her honeyed pastries are known across the harbor, and so is her temper: she has put out two kitchen hands this year for a sauce that was nearly right.
 
 ## Background
 

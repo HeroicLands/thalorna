@@ -241,7 +241,7 @@ The ravine smells of carrion long before you see the bones: a heap of them again
 
 # Dossier {#dossier}
 
-The Nuoworoth is the great flightless carrion bird of the [[place-khzryndsrtrgn|Khazryn Desert Region]]'s stone uplands: seven feet tall, twelve from beak to tail, four hundred pounds, black-feathered with a bare, leathery head and a foot-long hooked beak. It eats the dead of the badlands—goats, wild asses, fallen camels and fallen men—and it kills to defend the ground it eats on. Each bird holds a long stretch of ravine and broken plateau as its own and attacks anything that walks into it, by leaping from behind a rock with no warning but the smell. It is the bird the guides mean when they tell a party on the black rock to keep to the track and to turn back from any ravine with bones at its mouth.
+The Nuoworoth is the great flightless carrion bird of the [[place-khzryndsrtrgn|Khazrin Desert Region]]'s stone uplands: seven feet tall, twelve from beak to tail, four hundred pounds, black-feathered with a bare, leathery head and a foot-long hooked beak. It eats the dead of the badlands—goats, wild asses, fallen camels and fallen men—and it kills to defend the ground it eats on. Each bird holds a long stretch of ravine and broken plateau as its own and attacks anything that walks into it, by leaping from behind a rock with no warning but the smell. It is the bird the guides mean when they tell a party on the black rock to keep to the track and to turn back from any ravine with bones at its mouth.
 
 ## Presentation
 
@@ -249,7 +249,7 @@ A massive running bird built on the lines of a great ratite, deep-bodied on two 
 
 ## In the Land
 
-Nuoworoths live in the stone uplands and badlands of the Khazryn: the mesas and dry ravines of the [[place-dkrqrrgn|Diqraqor]], where the rock is black enough to hide them, and the broken ridges of the eastern stone desert of [[place-idwkrrgn|Idvaqor]]. Each holds a range of several miles of ravine and rock-shelf and walks its edges, and marks them with heaps of cleaned bones, claw-scored boulders and the stench of old kills. They are not found on open sand, where there is nothing to hide behind, nor in the mountains above. A ravine that a nuoworoth holds is one the plateau tribes do not graze, and a track that runs through one is a track the guides go round.
+Nuoworoths live in the stone uplands and badlands of the Khazrin: the mesas and dry ravines of the [[place-dkrqrrgn|Diqraqor]], where the rock is black enough to hide them, and the broken ridges of the eastern stone desert of [[place-idwkrrgn|Idvaqor]]. Each holds a range of several miles of ravine and rock-shelf and walks its edges, and marks them with heaps of cleaned bones, claw-scored boulders and the stench of old kills. They are not found on open sand, where there is nothing to hide behind, nor in the mountains above. A ravine that a nuoworoth holds is one the plateau tribes do not graze, and a track that runs through one is a track the guides go round.
 
 ## Key Behaviors
 

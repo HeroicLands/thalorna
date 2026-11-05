@@ -845,8 +845,8 @@ Thauras ol thilandon olmthon, voza thilandon anolmathen‼
 [[lore-restorehouse|The Restoration]]
 : the house the poem was made for
 
-[[lore-vylariages|The Vylarian Ages]]
+[[lore-vylariages|The Vilérian Ages]]
 : the ages the god's prophecy follows
 
-[[lore-vylarianclt|Vylarian]]
+[[lore-vylarianclt|Vilérian]]
 : duty, the name, and the dead outside the line

@@ -23,9 +23,9 @@ data:
 # terran_analog: "The verse satires of Juvenal and Horace and the epigrams of Martial on the Roman client's morning salutatio, the climb to the patron's door, the placing of the queue, the dinner at the bottom couch and the newly rich patron's purchased ancestors; Roman satire's own claim to be the one form the Romans did not borrow."
 ---
 
-The Morning Call is the third satire in the book of [Nizelar]{.name data-type="being/npc"}, a client-poet of [[place-orzara|Orzara]] who lived in the [Warrens]{.name data-type="place/site"} and attended a patron on the [Heights]{.name data-type="place/site"}, and who says so in every poem he wrote. He was a veteran's son, and so a citizen only until he was grown, and the satires never let a listener forget that his right to sleep inside the line was his patron's to sign each year. Satire is the one form of verse the Vylarian schools call their own and not a borrowing, and it is in a lighter line than the epic, quick and broken, with the speech of the street let into it. Nizelar's book is read aloud after dinner in the houses of [[place-selvin|Selvin]] (the Laurel) and the [Coronal]{.name data-type="place/site"} by the people it describes, and they laugh in the right places. The houses it names by their streets have argued for a long time about which of them it means, and each house holds that it means another.
+The Morning Call is the third satire in the book of [Nizelar]{.name data-type="being/npc"}, a client-poet of [[place-orzara|Orzara]] who lived in the [Warrens]{.name data-type="place/site"} and attended a patron on the [Heights]{.name data-type="place/site"}, and who says so in every poem he wrote. He was a veteran's son, and so a citizen only until he was grown, and the satires never let a listener forget that his right to sleep inside the line was his patron's to sign each year. Satire is the one form of verse the Vilérian schools call their own and not a borrowing, and it is in a lighter line than the epic, quick and broken, with the speech of the street let into it. Nizelar's book is read aloud after dinner in the houses of [[place-selvin|Selvin]] (the Laurel) and the [Coronal]{.name data-type="place/site"} by the people it describes, and they laugh in the right places. The houses it names by their streets have argued for a long time about which of them it means, and each house holds that it means another.
 
-The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the [[place-alyssa|Alessa]] street speech, with the worn-down article _a'_ the schoolmasters correct: _A' thelmos lokazor. A' daimela falvazor._ ("The client's come. The patron's out.") The steward at the door says the same thing in the high register of the [[skill-vylarilng|Vylari Language]], with one small word put in, and the poem turns on the word: _«Daimela, vethor, zikai falvazor.»_ ("The patron, he says, is perhaps away.") The word gives the patron's absence as a thing only alleged, and that is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
+The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the [[place-alyssa|Alessa]] street speech, with the worn-down article _a'_ the schoolmasters correct: _A' thelmos lokazor. A' daimela falvazor._ ("The client's come. The patron's out.") The steward at the door says the same thing in the high register of the [[skill-vylarilng|Vilari Language]], with one small word put in, and the poem turns on the word: _«Daimela, vethor, zikai falvazor.»_ ("The patron, he says, is perhaps away.") The word gives the patron's absence as a thing only alleged, and that is the steward's way of saying that the patron is upstairs. The rendering marks the High Vilari with "so it is said."
 
 : The Morning Call {#call}
 
@@ -85,7 +85,7 @@ They put him at the bottom, below the boy, below me, below the silk,/
 and every man on every step is happier for the morning, and so am I.
 
 Now the bronze door opens a hand's width. Now the steward bends his ear./
-Now the steward straightens, and he speaks to us, in High Vylari,/
+Now the steward straightens, and he speaks to us, in High Vilari,/
 the speech of the courts, the speech of the temples, with every ending on it:/
 the patron is away, so it is said, because, so it is said, he is away./
 One word. One little word set down in the place where the fact lived./
@@ -217,7 +217,7 @@ Denos ir zelimmon lendazoi. Zel nurethon. Zel en. Zel fainela./
 Urzelos orvenos ir urzelon zirkon yaleza kerazor fa pramiza. En kona denon.
 
 Denkanai thurdena fenza dekazu dalma olmazor. Denkanai karezos thavrela klinezor./
-Denkanai karezos vethis urzizor. Fir enoi ir Thelvara Vylari dokazor./
+Denkanai karezos vethis urzizor. Fir enoi ir Thelvara Vilari dokazor./
 Tharlema ol nazdalar. Tharlema ol sarkenai. Kona urzelai orthemai./
 «Daimela, vethor, zikai falvazor.» «Holethi, vethor, zikai falvazor.»/
 Urkis lambizon. Nizelon lambizon ir sedon ol varelza lendazor./
@@ -310,8 +310,8 @@ A' thelmos lokazor. A' daimela falvazor. Lokanthi thelmos ir pramiza lokazor.
 [[lore-veteranslaw|The Veterans' Law]]
 : the twenty years and the dole
 
-[[skill-vylarilng|Vylari]]
+[[skill-vylarilng|Vilari]]
 : the "perhaps" that says a thing is only alleged
 
-[[lore-vylarianclt|Vylarian]]
+[[lore-vylarianclt|Vilérian]]
 : precedence, the client, the patron and the masks

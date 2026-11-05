@@ -5,7 +5,7 @@ name:
   en: [Taruzelian War of Independence, The War of Independence, The Taruzelian Secession]
 type: lore
 subType: history
-description: "In 707 AF the merchant princes of Taruzel bankroll a rising against the Vylarian Empire; the harbor militias lose on land, Khelathi gold keeps the rebellion solvent, and a flotilla of armed traders and fishing boats closes the island channels to imperial shipping until the empire sends its largest squadron to open them."
+description: "In 707 AF the merchant princes of Taruzel bankroll a rising against the Vilérian Empire; the harbor militias lose on land, Khelathi gold keeps the rebellion solvent, and a flotilla of armed traders and fishing boats closes the island channels to imperial shipping until the empire sends its largest squadron to open them."
 tags: [history, taruzel, thecore]
 data:
   culture: taruzelianclt
@@ -25,7 +25,7 @@ data:
         - affiliation-kngdmmrdd
         - lore-easternline
       summary: >-
-        The merchant princes of Taruzel, refused a voice in the imperial Senate and squeezed by new tariffs, raise the harbors, the fishing villages and the hill tribes against the Vylarian Empire with broadsheets printed at guild expense. The legions win the first engagements, besiege Besikar and rout the militias on the coastal plains, and the hill auxiliaries of the old forts desert to the rebels. Au'Khelathu sends gold, weapons, naval stores and advisors under the name of commerce, Amradad helps across the strait, and a flotilla of armed traders, fishing boats and harbor craft cuts the convoys that supply the island garrisons until the empire sends its largest squadron to open the channels.
+        The merchant princes of Taruzel, refused a voice in the imperial Senate and squeezed by new tariffs, raise the harbors, the fishing villages and the hill tribes against the Vilérian Empire with broadsheets printed at guild expense. The legions win the first engagements, besiege Besikar and rout the militias on the coastal plains, and the hill auxiliaries of the old forts desert to the rebels. Au'Khelathu sends gold, weapons, naval stores and advisors under the name of commerce, Amradad helps across the strait, and a flotilla of armed traders, fishing boats and harbor craft cuts the convoys that supply the island garrisons until the empire sends its largest squadron to open the channels.
       standing: attested
       names:
         - {name: the War of Independence, by: affiliation-cnfdrtntrzlnstts}
@@ -43,7 +43,7 @@ data:
             knowledge: named
           - place: place-vylariargn
             how: >-
-              the eastern trade comes to Vylarian harbors under Taruzelian dues, and the navy is being rebuilt
+              the eastern trade comes to Vilérian harbors under Taruzelian dues, and the navy is being rebuilt
             knowledge: named
       who:
         - {ref: affiliation-cnfdrtntrzlnstts, role: actor}
@@ -79,21 +79,21 @@ A dock foreman of [[place-besikar2|Besikar]] who drilled with the harbor militia
 
 ## Under the Empire
 
-Taruzel was among the first lands the [Vylarian Republic]{.name data-type="affiliation/polity"} absorbed, and it was an old possession by the time the Republic became the [[affiliation-vylarinmpr|Vylarian Empire]] in Year 1. For centuries it was the empire's eastern anchor and its gateway to the trade of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], Dunhara, the Khazryn and the lands beyond. Taruzelian harbors funneled eastern wealth into the imperial treasury, and Taruzelian ships carried Vylarian goods to markets the legions never reached.
+Taruzel was among the first lands the [Vilérian Republic]{.name data-type="affiliation/polity"} absorbed, and it was an old possession by the time the Republic became the [[affiliation-vylarinmpr|Vilérian Empire]] in Year 1. For centuries it was the empire's eastern anchor and its gateway to the trade of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], Dunhara, the Khazrin and the lands beyond. Taruzelian harbors funneled eastern wealth into the imperial treasury, and Taruzelian ships carried Vilérian goods to markets the legions never reached.
 
-The province was also restive. The city-states had been trading powers long before Vylaria conquered them, and they never fully accepted the role of provincial subjects. Taruzelians paid their taxes, obeyed their _therkoi_ (governors) and sent their sons to the legions, and each generation did so with deeper resentment than the last.
+The province was also restive. The city-states had been trading powers long before Viléria conquered them, and they never fully accepted the role of provincial subjects. Taruzelians paid their taxes, obeyed their _therkoi_ (governors) and sent their sons to the legions, and each generation did so with deeper resentment than the last.
 
 ## The Merchant Princes
 
-As the empire's reach extended east and south, Taruzelian merchants became its indispensable intermediaries: they knew the languages, the sea routes, the customs and the contacts that Vylarian traders lacked. The great trading families of Besikar, [[place-yamuzel2|Yamuzel]] and [[place-bazunel2|Bazunel]] grew spectacularly wealthy. These **merchant princes** controlled the shipping lanes, the warehouses, the counting houses and the factors who made the eastern trade work. A Vylarian _therkos_ issued edicts; the merchant princes decided whether goods moved.
+As the empire's reach extended east and south, Taruzelian merchants became its indispensable intermediaries: they knew the languages, the sea routes, the customs and the contacts that Vilérian traders lacked. The great trading families of Besikar, [[place-yamuzel2|Yamuzel]] and [[place-bazunel2|Bazunel]] grew spectacularly wealthy. These **merchant princes** controlled the shipping lanes, the warehouses, the counting houses and the factors who made the eastern trade work. A Vilérian _therkos_ issued edicts; the merchant princes decided whether goods moved.
 
-The imperial court answered with heavier taxation. New tariffs fell on Taruzelian exports, trade agreements were rewritten to favor Vylarian merchants, harbor fees rose, and customs inspections became more frequent and more expensive. The _therkos_'s office, once a sleepy posting for minor aristocrats, went to harder men with instructions to bring the merchant princes to heel. The Taruzelians had no seat in [[affiliation-seldan|The Vylarian Senate]] (Seldan), so they could contest none of it. A petition was ignored, and a bribe bought a season's relief before the next levy.
+The imperial court answered with heavier taxation. New tariffs fell on Taruzelian exports, trade agreements were rewritten to favor Vilérian merchants, harbor fees rose, and customs inspections became more frequent and more expensive. The _therkos_'s office, once a sleepy posting for minor aristocrats, went to harder men with instructions to bring the merchant princes to heel. The Taruzelians had no seat in [[affiliation-seldan|The Vilérian Senate]] (Seldan), so they could contest none of it. A petition was ignored, and a bribe bought a season's relief before the next levy.
 
 ## The Broadsheets
 
 The merchant princes began as lobbyists, petitioning for tax relief and seats in the Senate. When petitions failed they slowed the harbors, delayed shipments and let critical goods run short, and the empire answered with arrests, confiscations and more legions sent to "maintain order". At that point the princes decided to leave the empire, and since they had warehouses full of goods and no armies, they recruited a cause.
 
-Broadsheets appeared in every harbor district, tavern and market square, printed at guild expense and signed "the people of Taruzel". They carried a broken chain, a rising sun, a ship under a Taruzelian flag and the words _we bleed gold for an empire that gives us nothing but chains_, and they spoke of a Taruzel that governed itself. The harbors were full of men who had loaded cargo all their lives for Vylarian factors, the fishing villages were full of families whose sons had been conscripted into imperial wars, and the hill tribes had endured decades of administrators who taxed their livestock and took their young men. The grievances were real, whatever the printers meant by them.
+Broadsheets appeared in every harbor district, tavern and market square, printed at guild expense and signed "the people of Taruzel". They carried a broken chain, a rising sun, a ship under a Taruzelian flag and the words _we bleed gold for an empire that gives us nothing but chains_, and they spoke of a Taruzel that governed itself. The harbors were full of men who had loaded cargo all their lives for Vilérian factors, the fishing villages were full of families whose sons had been conscripted into imperial wars, and the hill tribes had endured decades of administrators who taxed their livestock and took their young men. The grievances were real, whatever the printers meant by them.
 
 The militias that formed in the port cities drew on every class. Dock workers drilled beside ship captains, fishermen sharpened boarding pikes next to merchants' sons, and the tribes sent warriors down from the island hills who cared nothing for merchant politics and hated the empire. For one season Taruzel was united across class, country and culture.
 
@@ -105,17 +105,17 @@ The hills went the other way. The ruined forts of [[lore-easternline|The Eastern
 
 ## Foreign Hands
 
-[[affiliation-empireakhlth|Au'Khelathu]] kept the rebellion alive. The merchant princes had sent envoys south at the start of the rising, and the Khelathi court received them with the elaborate hospitality that signals serious interest. An independent Taruzel would be a grateful trading partner with no reason to prefer Vylarian commerce, so the court supplied gold, weapons, naval stores and experienced advisors. Khelathi gold kept the rebellion solvent while the princes' own fortunes drained away, Khelathi steel armed militias that imperial confiscations had left short, and Khelathi naval advisors helped the captains turn their flotilla into something close to a fighting force.
+[[affiliation-empireakhlth|Au'Khelathu]] kept the rebellion alive. The merchant princes had sent envoys south at the start of the rising, and the Khelathi court received them with the elaborate hospitality that signals serious interest. An independent Taruzel would be a grateful trading partner with no reason to prefer Vilérian commerce, so the court supplied gold, weapons, naval stores and experienced advisors. Khelathi gold kept the rebellion solvent while the princes' own fortunes drained away, Khelathi steel armed militias that imperial confiscations had left short, and Khelathi naval advisors helped the captains turn their flotilla into something close to a fighting force.
 
-None of it was acknowledged. The Khelathi court kept up the fiction of "humanitarian commerce" with a troubled neighbor, the merchant princes knew that foreign backing would spoil the story of Taruzelian self-determination, and the empire's protests were met with bland assurances that fooled nobody. The [[affiliation-kngdmmrdd|Kingdom of Amradad]], long antagonistic to Vylaria, also helped across the strait, and the islands have kept cordial relations with the Kingdom since.
+None of it was acknowledged. The Khelathi court kept up the fiction of "humanitarian commerce" with a troubled neighbor, the merchant princes knew that foreign backing would spoil the story of Taruzelian self-determination, and the empire's protests were met with bland assurances that fooled nobody. The [[affiliation-kngdmmrdd|Kingdom of Amradad]], long antagonistic to Viléria, also helped across the strait, and the islands have kept cordial relations with the Kingdom since.
 
 The first crisis of the war was financial. Taruzel's paper script was cleared through [[affiliation-tarmex|The Tarmeks Orzan]], the imperial treasury, and within weeks of the rising the Tarmeks froze the clearing accounts, so that moneylenders could not honor their own notes before the first engagement was fought. [[affiliation-vezakuni|The Council of the Guild-Wardens]] (the Vezakuni), founded by the rebels' council in the war's last weeks, and its treasury, the [[affiliation-merazuni|Merazuni]], are the islands' answer to that morning.
 
 ## The Flotilla
 
-On the islands the legions depended on the sea, because the hill roads were too slow and too exposed to the tribes. The Taruzelian captains knew those waters better than any Vylarian admiral: the tides, the shoals, the hidden channels and the harbors where a shallow-draft vessel could shelter and a deep-keeled warship could not. Through the winter and the next spring they cut supply convoys and took troop transports, until no imperial ship went through the eastern sea without a heavy escort.
+On the islands the legions depended on the sea, because the hill roads were too slow and too exposed to the tribes. The Taruzelian captains knew those waters better than any Vilérian admiral: the tides, the shoals, the hidden channels and the harbors where a shallow-draft vessel could shelter and a deep-keeled warship could not. Through the winter and the next spring they cut supply convoys and took troop transports, until no imperial ship went through the eastern sea without a heavy escort.
 
-A flotilla fought that war. It was made of warships from the merchant fleets, armed traders, fishing boats with rams spiked to their bows and boarding planks on their decks, and harbor craft loaded with archers. Each was outmatched by the heavy warships of the Vylarian navy, but they were fast and numerous, and their captains knew every rock and current in the islands. They raided, retreated, drew imperial squadrons into unfamiliar water and refused the fleet engagement the empire wanted.
+A flotilla fought that war. It was made of warships from the merchant fleets, armed traders, fishing boats with rams spiked to their bows and boarding planks on their decks, and harbor craft loaded with archers. Each was outmatched by the heavy warships of the Vilérian navy, but they were fast and numerous, and their captains knew every rock and current in the islands. They raided, retreated, drew imperial squadrons into unfamiliar water and refused the fleet engagement the empire wanted.
 
 In the summer of 708 the empire sent the largest squadron it had ever gathered in the eastern sea to break the blockade of the island channels, and the flotilla met it at the [[place-tamzirshoals|Tamzir Shoals]]. The battle is told in [[lore-tamzirbattle|The Battle of Tamzir Shoals]], and what the merchant princes made of the victory in [[lore-taruzelbetrayal|The Betrayal of the Revolution]].
 

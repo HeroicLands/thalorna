@@ -3,14 +3,14 @@ shortcode: tamzirmonument
 name: {full: Tamzir Monument, en: [The Prize]}
 type: place
 subType: site
-description: "A Vylarian warship taken at the Battle of Tamzir Shoals, kept in a stone dry-dock on Besikar's waterfront under a Taruzelian flag: the veterans' shrine, and in the Auric Compact's view a standing insult to the Confederation's best customers."
+description: "A Vilérian warship taken at the Battle of Tamzir Shoals, kept in a stone dry-dock on Besikar's waterfront under a Taruzelian flag: the veterans' shrine, and in the Auric Compact's view a standing insult to the Confederation's best customers."
 tags: [taruzel, besikar, memorial]
 data: {demonym: null, lore: [], parents: [besikar2], population: 0, packFolder: taruzel}
 ---
 
 ## Overview
 
-Below the wall of the naval yards on the northern arm of the Grand Harbor of [[place-besikar2|Besikar]] lies a stone dock with its gates shut and the water pumped out, and in it, propped upright on timber shores, stands a Vylarian warship. She is the Tamzir Monument, taken at the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]) and towed to Besikar after the war. The dock workers call her the Prize. Every ship entering the harbor passes within a cable of her stern, the Vylarian traders among them.
+Below the wall of the naval yards on the northern arm of the Grand Harbor of [[place-besikar2|Besikar]] lies a stone dock with its gates shut and the water pumped out, and in it, propped upright on timber shores, stands a Vilérian warship. She is the Tamzir Monument, taken at the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]) and towed to Besikar after the war. The dock workers call her the Prize. Every ship entering the harbor passes within a cable of her stern, the Vilérian traders among them.
 
 ## What Is There
 
@@ -24,7 +24,7 @@ The dock keeper is a city servant, paid by the Treasurer of [[affiliation-besika
 
 - **The veterans of the war**, who come on the day of the battle every year with wreaths of sea-lavender, hang them from the ram and stand on her deck for an hour without speaking. The veterans' halls of the old city regard her as theirs.
 - **Boys of the old city**, who dare each other to climb her shores at night and touch the ram.
-- **Vylarian captains and factors**, who are brought past her on the way to the customs whether they wish it or not, and who mention her in every complaint they lodge with the Harbormaster.
+- **Vilérian captains and factors**, who are brought past her on the way to the customs whether they wish it or not, and who mention her in every complaint they lodge with the Harbormaster.
 - **The factors of the [[affiliation-auricompct|Auric Compact]]**, who have told the [Council of Elders]{.name data-type="affiliation/governmental"} that she is bad for trade, and whose petition to have her towed out and broken up comes before the council every year and is put off every year.
 
 ## What Is Said of Her
@@ -37,12 +37,12 @@ She was one of the heavy warships of the imperial squadron destroyed at the Tamz
 
 ## What Is There Now {#present}
 
-The Prize is a quarrel in a dock. The Compact's petition to break her up has been placed early on the Council of Elders' order for the first time. Veterans of the old city's halls sit up in her dock at night with lanterns and boat-hooks, saying someone means to burn her, and the Harbormaster wants them gone before the sailing season brings the Vylarian hulls past her stern. [[being-zlmrzzn|Zilmar Ezzinu]] of the waterfront halls wants to know who his men are guarding her from. The dock keeper has found a candle-end in her hold and a plank prised up and nailed down.
+The Prize is a quarrel in a dock. The Compact's petition to break her up has been placed early on the Council of Elders' order for the first time. Veterans of the old city's halls sit up in her dock at night with lanterns and boat-hooks, saying someone means to burn her, and the Harbormaster wants them gone before the sailing season brings the Vilérian hulls past her stern. [[being-zlmrzzn|Zilmar Ezzinu]] of the waterfront halls wants to know who his men are guarding her from. The dock keeper has found a candle-end in her hold and a plank prised up and nailed down.
 
 ## Hooks {#hooks}
 
 - The Compact's petition to break her up has, for the first time, been placed early in the council's order of business, and the veterans' halls want a party to learn who put it there.
-- A Vylarian factor asks a party to obtain, quietly, a rubbing of whatever lies under the paint on her stern.
+- A Vilérian factor asks a party to obtain, quietly, a rubbing of whatever lies under the paint on her stern.
 - The dock keeper reports that someone has been below at night: a candle-end on the hold's floor, and a plank pried up and nailed back down.
 - [[being-zlmrzzn|Zilmar Ezzinu]] wants his men home from the dock before the Harbormaster's men come for them, and he wants a party to sit the night watch in their place.
 
@@ -64,6 +64,6 @@ The Prize is a quarrel in a dock. The Compact's petition to break her up has bee
 
 **She is being let rot.** The Treasurer of Besikar has cut the dock keeper's allowance for pitch and caulking by half for three years running, on the advice of the Compact's factors. The seams on her port side have begun to open, and in two more winters the city's shipwrights will have to report her unsound. A hull reported unsound may be broken up by order of the Council of Elders without the debate the petition keeps losing. The dock keeper knows what the allowance means and has been buying pitch with his own money.
 
-**Vylaria wants her back.** An envoy of the [[affiliation-vylarinmpr|Vylarian Empire]] has offered, through the Compact, to lower the empire's tariffs on Taruzelian cargoes in its ports if the ship is returned. The offer is not written down anywhere. The Compact means to accept it once the hull is condemned, when nobody need say that the Prize was sold.
+**Viléria wants her back.** An envoy of the [[affiliation-vylarinmpr|Vilérian Empire]] has offered, through the Compact, to lower the empire's tariffs on Taruzelian cargoes in its ports if the ship is returned. The offer is not written down anywhere. The Compact means to accept it once the hull is condemned, when nobody need say that the Prize was sold.
 
 **What lies under the paint** is her name, and the empire wants it home more than the hull. **What lies under the plank** is nothing yet: the night visitor is a veteran of the Shoals who is cutting a hiding place in her hold for a cask of lamp oil, so that if the order to break her up is ever given, she burns in her dock first.

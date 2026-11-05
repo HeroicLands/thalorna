@@ -1,9 +1,9 @@
 ---
 shortcode: thefounding
-name: {full: The Founding, en: [Year One, The Making of the Vylarian Empire]}
+name: {full: The Founding, en: [Year One, The Making of the Vilérian Empire]}
 type: lore
 subType: history
-description: "A Vylarian kurthos backed by loyal legions and the newly chartered Arcane Order seizes supreme power and declares himself Emperor—Year 1 of the calendar most of western Ankaris still counts by."
+description: "A Vilérian kurthos backed by loyal legions and the newly chartered Arcane Order seizes supreme power and declares himself Emperor—Year 1 of the calendar most of western Ankaris still counts by."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,12 +13,12 @@ data:
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]
       summary: >-
-        A Vylarian kurthos, backed by loyal legions and by the Thordimalon, seizes supreme power and declares himself Emperor. The Senate survives and is reduced from a governing body to an advisory one. It is not a sudden revolution but the culmination of decades of erosion; the Emperor formalizes what has already become reality. Western Ankaris reckons its years from this moment, and everything before it is dated Before the Founding.
+        A Vilérian kurthos, backed by loyal legions and by the Thordimalon, seizes supreme power and declares himself Emperor. The Senate survives and is reduced from a governing body to an advisory one. It is not a sudden revolution but the culmination of decades of erosion; the Emperor formalizes what has already become reality. Western Ankaris reckons its years from this moment, and everything before it is dated Before the Founding.
       standing: attested
       names:
         - name: Year 1
           by: affiliation-vylarinmpr
-          gloss: the epoch of the Vylarian Calendar, from which BF and AF are counted
+          gloss: the epoch of the Vilérian Calendar, from which BF and AF are counted
       where:
         locus: [place-vylariargn]
         reach:
@@ -40,7 +40,7 @@ data:
             knowledge: named
           - place: place-aelwyth
             how: >-
-              an island that never saw a legion counts its years by a Vylarian kurthos's coup, because its neighbors across the water do
+              an island that never saw a legion counts its years by a Vilérian kurthos's coup, because its neighbors across the water do
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: actor}
@@ -55,7 +55,7 @@ data:
       accounts:
         - by: place-ankrscntnnt
           says: >-
-            The calendar is a product of Vylarian political authority and not a natural feature of the world, and its spread is a measure of where that authority reached.
+            The calendar is a product of Vilérian political authority and not a natural feature of the world, and its spread is a measure of where that authority reached.
           agrees: partly
         - by: affiliation-empireakhlth
           says: >-
@@ -72,7 +72,7 @@ chartered [[affiliation-ordoarcanis|Thordimalon]]—seized supreme power and dec
 Emperor. The [[affiliation-seldan|Seldan]] (the Senate) survived but was reduced from a governing body to an advisory one.
 
 The transformation was not a sudden revolution but the culmination of decades of political erosion.
-The late [Vylarian Republic]{.name data-type="affiliation/polity"} had been wracked by civil wars, factional violence and the dangerous concentration
+The late [Vilérian Republic]{.name data-type="affiliation/polity"} had been wracked by civil wars, factional violence and the dangerous concentration
 of power in the hands of successful generals; the Emperor simply formalized what had already become
 reality.
 
@@ -80,7 +80,7 @@ The calendar is the part of it that outlived the [[affiliation-vylarinmpr|Empire
 the Founding**, events after it **After the Founding**, and the reckoning is the working calendar of
 [[place-midhalnrgn|Midhalión Region]], [[place-aureldirgn|Aureldia Region]], [[place-helionis|Helionis]], [[place-taruzelrgn|Taruzel Region]], [[place-provenzrgn|Provénzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]]—including the
 provinces that have long since gone their own way. Beyond that sphere other civilizations keep their
-own, and [[lore-commoncal|the Vylarian Calendar]]'s reach is itself a visible measure of where the Empire's cultural
+own, and [[lore-commoncal|the Vilérian Calendar]]'s reach is itself a visible measure of where the Empire's cultural
 gravity still holds even where its legions no longer do.
 
 The record does not give the _kurthos_'s name.

@@ -329,7 +329,7 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-khazariclt'
         - id: khazryn
-          title: Khazryn
+          title: Khazrin
           abbreviation: "Sov."
           subtitle: A Gazetteer of Thalorna
           contents:
@@ -565,8 +565,8 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-varokhiclt'
         - id: vylaria
-          title: Vylaria
-          abbreviation: "Vyl."
+          title: Viléria
+          abbreviation: "Vil."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction

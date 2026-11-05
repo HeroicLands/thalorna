@@ -68,7 +68,7 @@ Every house on the street is a lodging-house, and a party has its choice of them
 [[place-castamar|Kastamar]]
 : the naval city whose admiralty wants the tower
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 # The Truth of Kurzalora {#truth .secret}

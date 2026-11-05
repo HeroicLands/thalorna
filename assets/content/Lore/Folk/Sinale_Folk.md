@@ -27,7 +27,7 @@ Enclaves
 
 The **Sinale** are the eldest of the speaking peoples—the Firstborn, whose presence in Thalorna predates the earliest human civilizations by millennia. They were ancient when the ancestors of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] were laying the first stones of their river cities; they were old when the [[lore-pelwarpepl|Pelwar People]]’s nomads first crossed into western [[place-ankrscntnnt|Ankaris Continent]]. Their presence on Thalorna stretches back roughly eight millennia—to approximately 7500 BF, a figure nobody holds more precisely than that, long before humans kept written records and long before the earliest human civilizations took shape. Their history as a people reaches further still, back into the prior realm from which they came; but of that time they tell outsiders nothing. The Sinale themselves do not share their reckoning of years with outsiders.
 
-To the vast majority of humans, the Sinale are a rumor. A legend. Something your grandmother claimed to have seen once, at the edge of a forest, at twilight, and you never quite believed her. Most people live their entire lives without encountering a Sinale, and many educated scholars in [[place-helionis|Helionis]] [[affiliation-vylarinmpr|Region or Vylaria]] debate whether they exist at all or are simply a persistent folk myth. They exist. They simply have no interest in being found.
+To the vast majority of humans, the Sinale are a rumor. A legend. Something your grandmother claimed to have seen once, at the edge of a forest, at twilight, and you never quite believed her. Most people live their entire lives without encountering a Sinale, and many educated scholars in [[place-helionis|Helionis]] [[affiliation-vylarinmpr|Region or Viléria]] debate whether they exist at all or are simply a persistent folk myth. They exist. They simply have no interest in being found.
 
 ## Nature
 
@@ -65,7 +65,7 @@ Each people guards the secret for its own reason. The Khazari because it is thei
 
 On Aelwyth the break was afterward attempted in earnest. A sub-group of the Sinale and a sub-group of the Khazari joined in a single kingdom that governed the whole island, before the Pelwar arrived there. When the Sinale king was killed at [[place-threesisters|the Three Sisters]], the Sinale abandoned the field, and the Khazari took it very poorly.
 
-By the time humanity began to build cities and keep records, the Sinale were already diminished—fewer in number, withdrawn into ever-more-remote sanctuaries, engaged in concerns that had nothing to do with the affairs of the younger race. The rise of human civilizations barely registered in their reckoning. Empires that seemed eternal to humans—the [Vylarian Republic]{.name data-type="affiliation/polity"}, the Khelathi dynasties—were brief seasons to a people who remembered the world before cities existed.
+By the time humanity began to build cities and keep records, the Sinale were already diminished—fewer in number, withdrawn into ever-more-remote sanctuaries, engaged in concerns that had nothing to do with the affairs of the younger race. The rise of human civilizations barely registered in their reckoning. Empires that seemed eternal to humans—the [Vilérian Republic]{.name data-type="affiliation/polity"}, the Khelathi dynasties—were brief seasons to a people who remembered the world before cities existed.
 
 ## The Enclaves
 

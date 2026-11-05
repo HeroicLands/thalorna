@@ -3,7 +3,7 @@ shortcode: celestialroad
 name: {full: The Celestial Road, en: [Celestial Roads, The Caravan Road to Tantsou]}
 type: lore
 subType: economy
-description: "The camel road across the Khazryn from Bizaria to Tantsou—about 2,500 miles and more than four months, sold a stretch at a time by the independent tribes whose wells it runs between."
+description: "The camel road across the Khazrin from Bizaria to Tantsou—about 2,500 miles and more than four months, sold a stretch at a time by the independent tribes whose wells it runs between."
 tags: [reference, trade, economy]
 data: {packFolder: settinglore}
 ---
@@ -14,7 +14,7 @@ This note sets out the road: its route and length, the wells and the hand-offs, 
 
 ## The Route
 
-The road runs about 2,500 miles from the last fortified caravanserai of [[place-byzariargn|Bizaria Region]]'s [[place-eastrnmrch|Eastern March]] to the garrison and customs-house on Tantsou's western pass. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazryn Desert Region]]'s zones.
+The road runs about 2,500 miles from the last fortified caravanserai of [[place-byzariargn|Bizaria Region]]'s [[place-eastrnmrch|Eastern March]] to the garrison and customs-house on Tantsou's western pass. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazrin Desert Region]]'s zones.
 
 | Stretch                      | Miles          | Days      | The ground                                                              |
 | ---------------------------- | -------------- | --------- | ----------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ The road runs about 2,500 miles from the last fortified caravanserai of [[place-
 | [[place-hskrrgn\|Ghoshiqor]] | 550 to 1,700   | 30 to 96  | the Long Dry, then sand seas and gravel; wells three to five days apart |
 | [[place-idwkrrgn\|Idvaqor]]  | 1,700 to 2,500 | 96 to 130 | stone desert and cold high steppe; stages of four to seven days         |
 
-The rest of the Khazryn lies off the road. [[place-gwtkrrgn|Ghotaqor]] is forest to the north, [[place-dkrqrrgn|Diqraqor]] is stone to the south, and the [[place-swoasisbelt|Tellumel]] beyond it is reached by a spur.
+The rest of the Khazrin lies off the road. [[place-gwtkrrgn|Ghotaqor]] is forest to the north, [[place-dkrqrrgn|Diqraqor]] is stone to the south, and the [[place-swoasisbelt|Tellumel]] beyond it is reached by a spur.
 
 ## Waypoints
 
@@ -107,10 +107,10 @@ A merchant in Tantsou can send his silk by sea, and few do. Every leg of the sea
 
 1. **Pirates.** Strongholds on the islands between Tantsou and [[place-vedyarargn|Vedyara]] harass the shipping of southern Tantsou, and make the first leg perilous.
 2. **Vedyara.** Rounding the subcontinent is hard, and its passes are no road west: each of the six carries three or four caravans a year, and the guides keep half the value.
-3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses [[place-dunharargn|Dunhara]], desert and tribal land, or goes through [[place-aukhelathrgq|Au'Khelathu]], where the [[lore-garauu|Gar-Au]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
-4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Midhalión]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
+3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses [[place-dunharargn|Dunhara]], desert and tribal land, or goes through [[place-aukhelathrgq|Au'Khelathu]], where the [[lore-garauu|Gar-Au]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vilérian Sea]].
+4. **The way on by sea.** The Vilérian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Midhalión]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
 
-The sea passage costs as many months as the camels and loses a larger share of what it carries. The Khazryn road is shorter, its losses are known, and every toll on it can be reckoned before the caravan leaves the March.
+The sea passage costs as many months as the camels and loses a larger share of what it carries. The Khazrin road is shorter, its losses are known, and every toll on it can be reckoned before the caravan leaves the March.
 
 ## Trouble on the Road
 
@@ -121,7 +121,7 @@ The sea passage costs as many months as the camels and loses a larger share of w
 
 ## See Also
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the land the road crosses
 
 [[lore-ownedoasis|The Owned Oasis]]

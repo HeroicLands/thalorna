@@ -59,7 +59,7 @@ The rule is why the delta quays are a single business. The beam is the empire's 
 
 Gez'Uzner I built a navy to enforce the rule, and gave it one task. The ships guard the river's mouths and the coast of the delta selatu, and they return to the quays at dusk. The apex of the delta, where the river first divides, gained its forts and customs-stations in the same reign, so that a force coming up past the mouths would meet a second line.
 
-The navy grew large, and it stayed what the first reign made it. The [[place-vylarianse|Vylarian Sea]] is contested by older fleets, and the Khelathi navy is among the largest of them and the least likely to leave its own shore ([[affiliation-bethuanflt|Bethuan Fleet]]). The empire leaves deep water to others, and has since the first reign of this house.
+The navy grew large, and it stayed what the first reign made it. The [[place-vylarianse|Vilérian Sea]] is contested by older fleets, and the Khelathi navy is among the largest of them and the least likely to leave its own shore ([[affiliation-bethuanflt|Bethuan Fleet]]). The empire leaves deep water to others, and has since the first reign of this house.
 
 ## What It Left
 

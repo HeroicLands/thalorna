@@ -75,7 +75,7 @@ Success is a name people trust, backed by deeds they remember. Wealth matters be
 
 ## Worth Keeping
 
-The Varokh value courage, reliable memory, sound craft and a forest their descendants can still use. Woodcarving, leatherwork and ironsmithing are admired. Their weapons are less refined than Vylarian steel but sturdy and effective. Empty boasting, waste for display and power without responsibility earn contempt.
+The Varokh value courage, reliable memory, sound craft and a forest their descendants can still use. Woodcarving, leatherwork and ironsmithing are admired. Their weapons are less refined than Vilérian steel but sturdy and effective. Empty boasting, waste for display and power without responsibility earn contempt.
 
 That ethic has a boundary its victims know well. The Varkhad invasion took another people's country, and Varokh raids have carried southerners into slavery. The descendants celebrate defending their own forest while taking people from someone else's home. Their promises protect an accepted guest, but their hostility to outsiders makes it easy to deny that protection to others. Thoughtful Varokh can question that distinction; captives bear its cost every day.
 

@@ -399,7 +399,7 @@ Mitharakis Gerazendis is a 49-year-old man who stands 6'0" tall and is of modera
 
 # Dossier {#dossier}
 
-Mitharakis Gerazendis is a jester of [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]] on the northern frontier of the [[affiliation-vylarinmpr|Vylarian Empire]], who has made the halls of the province's military _therkoi_ (governors) and its border lords laugh for thirty years.
+Mitharakis Gerazendis is a jester of [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]] on the northern frontier of the [[affiliation-vylarinmpr|Vilérian Empire]], who has made the halls of the province's military _therkoi_ (governors) and its border lords laugh for thirty years.
 
 He came up from the inns of the North Gate as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three _therkoi_, a dozen border lords in their towers, and [[lore-varokhiclt|Varokh]] chiefs across the line who did not understand a word and laughed anyway. His humor is story and satire: the _therkos_'s temper, the [[affiliation-seldan|Seldan]]'s letters, the legion's late pay, the slowness of the road and the winter. He has learned how far a frontier lord will let a fool go, and how far past it a fool can go if the hall is laughing, and he has kept his head where men who spoke plainly lost their posts.
 
@@ -442,7 +442,7 @@ He is nearly fifty, the _therkos_ has a new favorite who is twenty-four, and his
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-lusinia|Faith of Lusinia]]**: one of the lay faithful, the Devran, who keeps the feasts of the World-Weaver without office in the temple.
 
 ## Plot Hooks

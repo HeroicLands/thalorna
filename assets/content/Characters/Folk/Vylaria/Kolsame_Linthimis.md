@@ -87,7 +87,7 @@ Her command is the Veramus's to give and take, and the Veramus holds his seat at
 ### Affiliations
 
 - **[[affiliation-citywatchorz|The City Watch]]**: a Captain of the Watch, holding the office of Nokaran.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a citizen by her twenty years.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a citizen by her twenty years.
 
 ## Plot Hooks
 

@@ -20,7 +20,7 @@ Krisamar is a secondary port city of the League, about 25,000 people strong, pla
 
 ## What Passes Through
 
-The city's strength lies in swift, high-value trade rather than bulk cargo. Krisamar is the primary entrepôt for spice, fine wines and luxury goods moving between the merchant fleets of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] and the inland markets of the [[place-provenzrgn|Provénzia Region]] and the [[affiliation-vylarinmpr|Vylarian Empire]]. It lacks Nesthiros's deep-water harbors and larger carrying capacity, and it makes up the difference with agility, quick turnarounds and a reputation for favorable terms with foreign trading partners.
+The city's strength lies in swift, high-value trade rather than bulk cargo. Krisamar is the primary entrepôt for spice, fine wines and luxury goods moving between the merchant fleets of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] and the inland markets of the [[place-provenzrgn|Provénzia Region]] and the [[affiliation-vylarinmpr|Vilérian Empire]]. It lacks Nesthiros's deep-water harbors and larger carrying capacity, and it makes up the difference with agility, quick turnarounds and a reputation for favorable terms with foreign trading partners.
 
 ## A Looser Town
 

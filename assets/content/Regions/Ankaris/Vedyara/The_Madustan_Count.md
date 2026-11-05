@@ -62,13 +62,13 @@ data:
 # terran_analog: an Indian regnal era such as the Vikroma Samvat, counted from a capital; the name keeps clear of Mādhava, an epithet of Krishna, and is built from madru, sweetness, and stonu, a seat
 ---
 
-**The Madustan Count** is the [[place-vedyarargn|Vedyara Region]]'s own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vylarian state]]. A Vedyaran date names the year of its age: the present year is the hundred and ninety-sixth of [[lore-agepatrons|the Age of Patrons]], written 196 AP. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.
+**The Madustan Count** is the [[place-vedyarargn|Vedyara Region]]'s own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vilérian state]]. A Vedyaran date names the year of its age: the present year is the hundred and ninety-sixth of [[lore-agepatrons|the Age of Patrons]], written 196 AP. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.
 
 ## The Epoch
 
-The count begins with [[lore-stndrdmdstn|the Standardization at Madustan]], the standardization of Classical [[skill-vedyarlng|Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of [[place-madustan|Madustan]], whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its first year from that reign, and from no Vylarian, Khelathi or Tantsou event. That year, 1 AK, falls in 480 BF. The count runs on unbroken from it, twelve hundred years to the present, and the scholars divide it into six ages, each of which numbers its own years from 1. A year before the count is numbered backwards from it and written BMC, [Before the Madustan Count]{.name data-type="lore/calendar"}: the year before 1 AK is 1 BMC, which is 481 BF.
+The count begins with [[lore-stndrdmdstn|the Standardization at Madustan]], the standardization of Classical [[skill-vedyarlng|Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of [[place-madustan|Madustan]], whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its first year from that reign, and from no Vilérian, Khelathi or Tantsou event. That year, 1 AK, falls in 480 BF. The count runs on unbroken from it, twelve hundred years to the present, and the scholars divide it into six ages, each of which numbers its own years from 1. A year before the count is numbered backwards from it and written BMC, [Before the Madustan Count]{.name data-type="lore/calendar"}: the year before 1 AK is 1 BMC, which is 481 BF.
 
-To carry a date to the [[lore-commoncal|Vylarian Calendar]], add the age's own year to the year the age began, less one, and read the result on the table below; the year 1 AF falls in [[lore-agecopyists|the Age of Copyists]], at 242 AC.
+To carry a date to the [[lore-commoncal|Vilérian Calendar]], add the age's own year to the year the age began, less one, and read the result on the table below; the year 1 AF falls in [[lore-agecopyists|the Age of Copyists]], at 242 AC.
 
 ## The Year and Its Months
 
@@ -137,7 +137,7 @@ The work is easier here than a foreigner expects it to be. [[place-vaelith|Vaeli
 
 A Vedyari scholar names a year by the age it falls in, the way a chronicle names it by the reign. The ages are the scholars' own divisions, taught in every temple school, and each takes its name from what Vedyara did in it.
 
-| Age                                       | Written | Its years                        | Vylarian reckoning    |
+| Age                                       | Written | Its years                        | Vilérian reckoning    |
 | ----------------------------------------- | ------- | -------------------------------- | --------------------- |
 | Before the Madustan Count                 | BMC     | counted back from 1 BMC          | 481 BF and earlier    |
 | [[lore-agekingdoms\|The Age of Kingdoms]] | AK      | 1 AK to 239 AK                   | 480 to 242 BF         |

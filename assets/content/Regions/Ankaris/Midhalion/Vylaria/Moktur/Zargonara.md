@@ -62,7 +62,7 @@ The town has one inn fit for a stranger, the [Lamp]{.name data-type="place/struc
 [[place-moktur|Moktur]]
 : the land of the lodes
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[place-stennvold|Stennvold]]

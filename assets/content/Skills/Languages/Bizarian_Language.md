@@ -161,7 +161,7 @@ data:
     - form: papirin
       class: n
       field: Trade, coin, goods and the road
-      gloss: paper-script, the Vylarian writing-sheet
+      gloss: paper-script, the Vilérian writing-sheet
     - form: zhe
       class: part
       field: Grammar words

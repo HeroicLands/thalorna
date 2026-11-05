@@ -48,7 +48,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Bodekur**, "the owned-water people", are a [[lore-sowidesclt|Sovidur]] tribe of the deep eastern sands of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], north of the [[affiliation-grdrtrb|Guredur]] and well away from the road. When the last union of the steppe rose, the Bodekur rode away from their wells rather than swear to it, and they came back to the sands when it broke. They found other tribes' marks over their water, and they have been cutting their own back over them since.
+The **Bodekur**, "the owned-water people", are a [[lore-sowidesclt|Sovidur]] tribe of the deep eastern sands of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], north of the [[affiliation-grdrtrb|Guredur]] and well away from the road. When the last union of the steppe rose, the Bodekur rode away from their wells rather than swear to it, and they came back to the sands when it broke. They found other tribes' marks over their water, and they have been cutting their own back over them since.
 
 ## The Range
 

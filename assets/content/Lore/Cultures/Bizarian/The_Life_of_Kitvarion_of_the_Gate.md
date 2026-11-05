@@ -3,7 +3,7 @@ shortcode: lifekitvarn
 name: {full: The Life of Kitvarion of the Gate}
 type: lore
 subType: literature
-description: "The Life the monks of Argirteikhos read on the day of their gate-stander: a muleteer's son who counted the trains, the ledger he kept at the east gate, the true count of the grain through the Two Winters, the names of the second winter's dead written into a book the house keeps sealed, the clause he read aloud at the foot of the Vylarian Steps, and the garrison that bought his keeping."
+description: "The Life the monks of Argirteikhos read on the day of their gate-stander: a muleteer's son who counted the trains, the ledger he kept at the east gate, the true count of the grain through the Two Winters, the names of the second winter's dead written into a book the house keeps sealed, the clause he read aloud at the foot of the Vilérian Steps, and the garrison that bought his keeping."
 tags: [draft, byzaria]
 data:
   culture: byzarianclt
@@ -98,7 +98,7 @@ The book of the second winter's dead is the second book in his cell. He sealed i
 
 At the end of the second winter the commander sent down to the legions to ask for terms, and the legate gave terms, and the commander sent the terms down again to be written fair and sealed. The legate's scribes wrote in the tongue of the [[affiliation-vylarinmpr|empire]] and the city's in its own, and the commander asked the house for a reader who could read both aloud before the seals went down, as a scribe reads a bond aloud before it is sealed, so that no man sealed what he had not heard. The abbot sent Kitvarion, who had learned the imperial letters from the papers of the western merchants that crossed the gate before the war.
 
-He went down the ramp the legions had built, which the children of the city now call the [Vylarian Steps]{.name data-type="place/site"} and play on, and into the legate's camp, with the commander's envoy and two soldiers of the garrison, and was given the two copies, and read them aloud: first the city's, in its own tongue, and then the legate's, in the empire's, clause by clause, to the legate and the envoy and the officers of both sides, standing.
+He went down the ramp the legions had built, which the children of the city now call the [Vilérian Steps]{.name data-type="place/site"} and play on, and into the legate's camp, with the commander's envoy and two soldiers of the garrison, and was given the two copies, and read them aloud: first the city's, in its own tongue, and then the legate's, in the empire's, clause by clause, to the legate and the envoy and the officers of both sides, standing.
 
 The city's copy said that the city kept its walls and its own garrison. The legate's copy said that the city kept its walls and a garrison.
 
@@ -145,7 +145,7 @@ Here ends the Life of Kitvarion of the Gate, the exact, the gate-stander, the on
 ## See Also
 
 [[lore-heladcitadel|The Siege of the Silver Citadel]]
-: the Two Winters, the terms and the Vylarian Steps
+: the Two Winters, the terms and the Vilérian Steps
 
 [[lore-heladeastwar|The Eastern War]]
 : the war the siege belongs to

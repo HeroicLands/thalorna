@@ -38,7 +38,7 @@ A swordsman who wants the dragonfly does not apply for it. He fights. When a mas
 
 ## Overview
 
-**The Path of Breath** is a sacred martial order of the [[affiliation-vylarinmpr|Vylarian Empire]]. It admits only the most accomplished swordsmen, and its members are the masters of the sword discipline of the same name, the [[skill-pthbrth|Path of Breath]]. There are three living masters, among them [[being-krmdnsbrkrtys|Koremdanis Barkratis]] of [[place-salkhalon|Salkalon]], the foremost swordmaster in the Empire.
+**The Path of Breath** is a sacred martial order of the [[affiliation-vylarinmpr|Vilérian Empire]]. It admits only the most accomplished swordsmen, and its members are the masters of the sword discipline of the same name, the [[skill-pthbrth|Path of Breath]]. There are three living masters, among them [[being-krmdnsbrkrtys|Koremdanis Barkratis]] of [[place-salkhalon|Salkalon]], the foremost swordmaster in the Empire.
 
 ## What It Asks
 

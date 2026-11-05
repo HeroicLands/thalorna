@@ -11,7 +11,7 @@ Type
 : Ancestral people / language family
 
 Descendants
-: [[place-elavendre|Élavendri]], [[lore-aelendnppl|Áelendan]], Vylari, Nordmal, Varokhi, Tarveni, Provenzal, and related peoples of [[place-ankrscntnnt|Ankaris Continent]]
+: [[place-elavendre|Élavendri]], [[lore-aelendnppl|Áelendan]], Vilari, Nordmal, Varokhi, Tarveni, Provenzal, and related peoples of [[place-ankrscntnnt|Ankaris Continent]]
 
 The Pelwar were ancient nomadic peoples who migrated across the [[place-ankrscntnnt|Ankaris Continent]] in a great movement beginning **approximately 1400 BF**. They were not a single nation or polity but a loose cultural-linguistic grouping of related tribes that spread westward from an original homeland in the central or eastern interior of the continent. The westward movement ran roughly three centuries, to **approximately 1100 BF**, and over the centuries that followed the peoples it carried west settled their different regions and, in time, diverged into the distinct peoples and languages that today populate much of Ankaris.
 
@@ -77,8 +77,8 @@ The languages of Pelwar descent share deep structural commonalities and a signif
 [[skill-elvndrlng|Élavendri]]
 : The modern language of [[place-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.
 
-[[skill-vylarilng|Vylari]]
-: The language of the [[affiliation-vylarinmpr|Vylarian Empire]], heavily modified by contact with pre-Pelwar substrate languages.
+[[skill-vylarilng|Vilari]]
+: The language of the [[affiliation-vylarinmpr|Vilérian Empire]], heavily modified by contact with pre-Pelwar substrate languages.
 
 [[skill-nordmalng|Nordmal]]
 : The tongue of the northern Nordmen kingdoms.
@@ -98,7 +98,7 @@ The major peoples descended from Pelwar migrations share certain cultural common
 
 - Áelendan—The most conservative living Pelwar culture, preserving the old language, the Kindred Pact, and traditional tribal organization
 - [[lore-elavendriclt|Élavendri]]—Refined urban descendants of the Pelwar, whose nobility still trace lineage to Áelendan ancestors
-- The [[lore-vylarianclt|Vylarian]] people—The imperial Pelwar, whose migrations laid the foundation for the later rise of the Vylarian Empire
+- The [[lore-vylarianclt|Vilérian]] people—The imperial Pelwar, whose migrations laid the foundation for the later rise of the Vilérian Empire
 - **Nordmen** (of the northern kingdoms)—Pelwar migrants who settled the frozen north and developed warrior-seafarer cultures
 - Varokh (of [[place-vrystwald|Vristwald]])—Forest-dwelling Pelwar descendants who preserved a more tribal, barbarian way of life
 - Tarveni, Provénzian—Pelwar migrants who settled the western and southwestern regions, developing sophisticated mercantile and artistic cultures

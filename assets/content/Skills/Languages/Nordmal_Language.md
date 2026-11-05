@@ -6155,7 +6155,7 @@ Nordmal is the tongue of the frozen north, spoken across the five [[lore-nordhei
 
 Nordmal speakers are known for direct, forceful speech. The language employs strong stress patterns, guttural consonants, and harsh consonant clusters that give it a martial character. Yet beneath this severity lies a poetic tradition of considerable depth—the skalds (bards and poets) of the north compose intricate verse in Nordmal, using complex alliterative patterns and kennings (metaphorical names) that require years of training to master.
 
-The language stands apart from southern Pelwar tongues, having developed in relative isolation across centuries of harsh climate and independent kingdom politics. Mutual intelligibility with [[skill-vylarilng|Vylari]] exists but requires effort; Nordmal speakers and southern Pelwar speakers often resort to simplified trade speech or the more neutral [[skill-provnzlng|Provenzal]] when diplomatic precision is required.
+The language stands apart from southern Pelwar tongues, having developed in relative isolation across centuries of harsh climate and independent kingdom politics. Mutual intelligibility with [[skill-vylarilng|Vilari]] exists but requires effort; Nordmal speakers and southern Pelwar speakers often resort to simplified trade speech or the more neutral [[skill-provnzlng|Provenzal]] when diplomatic precision is required.
 
 ## How Nordmal sounds
 
@@ -6334,7 +6334,7 @@ Affection has several relationships: _lufna na parvi_ is romantic love, _lufna n
 
 Nordmal stands closest to [[skill-varokhlng|Varokhi]], sharing many archaic Pelwar features and phonetic similarities. The two languages are technically mutually intelligible to speakers with training, though the difference in written forms (Nordmal uses runes, Varokhi has no written form) and regional divergence create barriers.
 
-The relationship to southern Pelwar languages ([[skill-vylarilng|Vylari]], [[skill-provnzlng|Provenzal]], [[skill-tarvenlng|Tarveni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
+The relationship to southern Pelwar languages ([[skill-vylarilng|Vilari]], [[skill-provnzlng|Provenzal]], [[skill-tarvenlng|Tarveni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
 
 [[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Aelwyth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
 

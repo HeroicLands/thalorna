@@ -129,7 +129,7 @@ The two counts meet again every fifty-two years, after 18,980 days. Each Ts'en y
 
 When a year is due to open on _Pe' Ne'ik_ again, the round is complete and the [K'ayik Kul'al]{.name data-type="lore/custom"}, the Living Flame, is held. On Shots'ik, the last of the doors, the priests themselves put out every fire in the city. This is the one darkness the faith allows. The temples go dark, and the city keeps silence for a day and a night, believing that if the fire cannot be drawn again, Ts'en'ul Tq'an has withdrawn his sanction and the age is over. At sunrise on the solstice the Presiding Ch'alish Tq'an climbs the great pyramid with the highest fire-priests beside him, and the Master of the Living Flame works the obsidian mirrors and polished jade against the rising sun until the tinder catches. The Kindlers run the new fire to every quarter, and every hearth in the city is lit from that one spark.
 
-The last Living Flame was drawn at the winter solstice of 670. The next falls at the winter solstice of 722, 1 [Kalmethandi]{.name data-type="lore/calendar"} in [[lore-commoncal|the Vylarian Calendar]], and it closes the eightieth round of the Fifth Age.
+The last Living Flame was drawn at the winter solstice of 670. The next falls at the winter solstice of 722, 1 [Kalmethandi]{.name data-type="lore/calendar"} in [[lore-commoncal|the Vilérian Calendar]], and it closes the eightieth round of the Fifth Age.
 
 ## The Ts'uqal Cycle {#tsuqal}
 

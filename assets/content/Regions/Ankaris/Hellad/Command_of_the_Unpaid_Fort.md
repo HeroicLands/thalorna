@@ -49,7 +49,7 @@ data:
 sohl: {system: {commonSkills: [helonclng, vylarilng]}}
 ---
 
-The **Command of the Unpaid Fort** is the garrison command that holds [[place-unpaidfort|the Unpaid Fort]] in the interior mountains of [[place-heladrgn|Hellád]], between the hills of [[place-helionis|Helionis]] and the plateau of [[place-byzariargn|Bizaria]]. Its commander holds an imperial commission signed by the chancery of the [[affiliation-vylarinmpr|Vylarian Empire]], and the commission has not been paid since [[lore-crownssettle|the Settlement of the Crowns]] left the far forts' pay to lapse. It has never been revoked either. The commander governs the fort as though the Empire were still paying.
+The **Command of the Unpaid Fort** is the garrison command that holds [[place-unpaidfort|the Unpaid Fort]] in the interior mountains of [[place-heladrgn|Hellád]], between the hills of [[place-helionis|Helionis]] and the plateau of [[place-byzariargn|Bizaria]]. Its commander holds an imperial commission signed by the chancery of the [[affiliation-vylarinmpr|Vilérian Empire]], and the commission has not been paid since [[lore-crownssettle|the Settlement of the Crowns]] left the far forts' pay to lapse. It has never been revoked either. The commander governs the fort as though the Empire were still paying.
 
 ## Who Decides
 

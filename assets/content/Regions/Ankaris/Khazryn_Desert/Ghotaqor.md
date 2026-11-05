@@ -3,7 +3,7 @@ shortcode: gwtkrrgn
 name: {full: Ghotaqor, en: [The Northern Taiga]}
 type: place
 subType: region
-description: "The cold forest that fills the northern third of the Khazryn—taiga, bog and frozen coast, held by small bands of sealers, fishers and deer hunters who answer to no one."
+description: "The cold forest that fills the northern third of the Khazrin—taiga, bog and frozen coast, held by small bands of sealers, fishers and deer hunters who answer to no one."
 tags: [region]
 data:
   demonym: null
@@ -17,7 +17,7 @@ data:
 
 The ground changes first. A hundred miles north of the last steppe well the grass thins to moss, spruce stands in the hollows, and the first frozen bog takes a horse to the hock. Beyond that the forest does not stop until it meets the ice, and the people who live in it have never heard of the road.
 
-**Ghotaqor**, "the forest range" in [[skill-sowideslng|Sovidur]], is the northern third of the [[place-khzryndsrtrgn|Khazryn]]. It is the same cold-temperate forest that covers upper [[place-velanthrgn|Velanthia]], all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]], and from the Velanthian side it looks like a continuation of the same woods with fewer people in them. About 60,000 live in it, over a land the size of a kingdom.
+**Ghotaqor**, "the forest range" in [[skill-sowideslng|Sovidur]], is the northern third of the [[place-khzryndsrtrgn|Khazrin]]. It is the same cold-temperate forest that covers upper [[place-velanthrgn|Velanthia]], all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]], and from the Velanthian side it looks like a continuation of the same woods with fewer people in them. About 60,000 live in it, over a land the size of a kingdom.
 
 ## Land and Water
 
@@ -49,7 +49,7 @@ The hunters speak of places they avoid: a ridge where the stone has been cut int
 
 ## See Also
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region
 
 [[place-velanthrgn|Velanthia]]

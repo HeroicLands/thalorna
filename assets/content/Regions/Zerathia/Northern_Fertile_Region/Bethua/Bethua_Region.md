@@ -23,7 +23,7 @@ The Bethua Region is the middle of the
 [[place-aukhelathrgq|Au'Khelathu]] to the east—the coast and hinterland held
 by the [[affiliation-mtrrchybth|Matriarchy of Bethua]], and the part of [[place-xerathia|Zerathia]]'s
 northern shore that faces most directly across the
-[[place-vylarianse|Vylarian Sea]] toward [[place-ankrscntnnt|Ankaris]].
+[[place-vylarianse|Vilérian Sea]] toward [[place-ankrscntnnt|Ankaris]].
 
 ## Geography
 

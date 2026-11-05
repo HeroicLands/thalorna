@@ -3,10 +3,10 @@ shortcode: hylen
 name: {full: Hilen}
 type: place
 subType: region
-description: "The breadbasket of the Vylarian Empire—the land of the Province of Hilen, fertile lowlands and terraced hill-country of vast estates producing the grain, wine and oil that feed the empire."
+description: "The breadbasket of the Vilérian Empire—the land of the Province of Hilen, fertile lowlands and terraced hill-country of vast estates producing the grain, wine and oil that feed the empire."
 tags: [region]
 data:
-  demonym: Vylarian
+  demonym: Vilérian
   lore: [humanflk]
   parents: [vylariargn]
   population: 7000000
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Grain, wine and olive oil: the [[affiliation-vylarinmpr|empire]] lives on what Hilen grows. It is the territory of the [[affiliation-provnchyln|Province of Hilen]], seven million people on the fertile lowlands and terraced hillsides of the [[place-vylariargn|Vylaria Region]], where a few aristocratic families hold estates as large as valleys and grow the grain, wine and olive oil that the empire lives on. Its seat is [[place-aravantia|Aravantara]]. Only a small share of the seven million live in its towns; the rest live in the villages of the great estates, as tenants of the manor houses.
+Grain, wine and olive oil: the [[affiliation-vylarinmpr|empire]] lives on what Hilen grows. It is the territory of the [[affiliation-provnchyln|Province of Hilen]], seven million people on the fertile lowlands and terraced hillsides of the [[place-vylariargn|Viléria Region]], where a few aristocratic families hold estates as large as valleys and grow the grain, wine and olive oil that the empire lives on. Its seat is [[place-aravantia|Aravantara]]. Only a small share of the seven million live in its towns; the rest live in the villages of the great estates, as tenants of the manor houses.
 
 An estate steward, riding the boundary with a newly hired bailiff on his first morning, gives the whole lesson in a few sentences: "Everything between this road and that ridge belongs to the house. Everything past the ridge belongs to the neighbors, and they sit in [[affiliation-seldan|Seldan]] (the Senate) too. Between us we send the capital its bread, and in all my years nobody in [[place-orzara|Orzara]] has asked how it gets there."
 
@@ -27,7 +27,7 @@ Where [[place-alyssa|Alessa]] runs on politics and intrigue, Hilen runs on land 
 
 ## Economy
 
-Agriculture dominates. Hilen's grain feeds the capital and the legions, its wine and olive oil are exported across the [[place-vylarianse|Vylarian Sea]], and its estates add wool, linen and leather. Almost nothing is manufactured here. The lords prefer to sell raw goods and buy finished ones from Alessa and [[place-salkhalon|Salkalon]], so the province sends out what it grows and brings in what it wears and uses.
+Agriculture dominates. Hilen's grain feeds the capital and the legions, its wine and olive oil are exported across the [[place-vylarianse|Vilérian Sea]], and its estates add wool, linen and leather. Almost nothing is manufactured here. The lords prefer to sell raw goods and buy finished ones from Alessa and [[place-salkhalon|Salkalon]], so the province sends out what it grows and brings in what it wears and uses.
 
 ## Notable Features
 
@@ -83,7 +83,7 @@ Hilen is a country of estates and market-towns: great aristocratic domains, each
 [[affiliation-provnchyln|Province of Hilen]]
 : the province that holds this land
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the enclosing region
 
 [[place-aravantia|Aravantara]]

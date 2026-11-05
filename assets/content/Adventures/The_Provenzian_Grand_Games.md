@@ -86,7 +86,7 @@ The party's involvement (whether as competitors or investigators) inevitably dee
 
 - The assassination plot targets the ruler of Provénzia Region or another prominent dignitary
 - Cheating is far more widespread than initially suspected
-- An outside power (the [[affiliation-vylarinmpr|Vylarian Empire]], [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] agents, etc.) is manipulating events
+- An outside power (the [[affiliation-vylarinmpr|Vilérian Empire]], [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] agents, etc.) is manipulating events
 - One of the party members is recognized or identified as a threat by conspirators
 - The true motive is not money or prestige but something deeper: political positioning, magical research, or preparation for conflict
 
@@ -149,5 +149,5 @@ Exploit the Chaos
 - [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[affiliation-ordoarcanis|Thordimalon]]
-- [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[affiliation-vylarinmpr|Vilérian Empire]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

@@ -3,7 +3,7 @@ shortcode: hlykngdmnrtm
 name: {full: Holy Kingdom of Nartun}
 type: affiliation
 subType: polity
-description: "Independent theocratic kingdom in the forested north-east of Vylaria, whose king takes his crown from the Holy Mother's hand and can be unmade by the high priesthood, and whose knights are the Order of the Sacred Flame."
+description: "Independent theocratic kingdom in the forested north-east of Viléria, whose king takes his crown from the Holy Mother's hand and can be unmade by the high priesthood, and whose knights are the Order of the Sacred Flame."
 data:
   templatePriority: null
   demonym: Nartuni
@@ -76,13 +76,13 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-A king who reigns by a priestess's leave rules the Holy Kingdom of Nartun, an independent Vylari-speaking realm in the forested north-east of the [[place-vylariargn|Vylaria Region]]. It shares its culture and language with the [[affiliation-vylarinmpr|Vylarian Empire]] and keeps its own sovereignty under a theocratic monarchy. Vylaria's power rests on legions and _kurthoi_ (senators). Nartun's rests on faith: the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aureldian pantheon]], holds the land of [[place-nartumkngdm|Nartun Kingdom]], about two and a half million people, and is ruled from the holy city of [[place-nartum|Nartun]].
+A king who reigns by a priestess's leave rules the Holy Kingdom of Nartun, an independent Vilari-speaking realm in the forested north-east of the [[place-vylariargn|Viléria Region]]. It shares its culture and language with the [[affiliation-vylarinmpr|Vilérian Empire]] and keeps its own sovereignty under a theocratic monarchy. Viléria's power rests on legions and _kurthoi_ (senators). Nartun's rests on faith: the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aureldian pantheon]], holds the land of [[place-nartumkngdm|Nartun Kingdom]], about two and a half million people, and is ruled from the holy city of [[place-nartum|Nartun]].
 
-The secretary of a Nartunese priest-noble, briefing a visiting Vylarian envoy before an audience, begins with the point the envoy is least likely to expect: "You come from a state that has [[affiliation-seldan|Seldan]] (the Senate) and faith. We have faith, and a kingdom that takes its character from it. The king will receive you. The Holy Mother made him king, and she can unmake him, so when you speak to him, speak as though she were listening."
+The secretary of a Nartunese priest-noble, briefing a visiting Vilérian envoy before an audience, begins with the point the envoy is least likely to expect: "You come from a state that has [[affiliation-seldan|Seldan]] (the Senate) and faith. We have faith, and a kingdom that takes its character from it. The king will receive you. The Holy Mother made him king, and she can unmake him, so when you speak to him, speak as though she were listening."
 
 ## Character
 
-Its people practice the Aureldian faiths with an intensity that makes even Vylarian priests uncomfortable, and they regard the kingdom as the true spiritual heir of Vylarian civilization, purified of the empire's corruption. They speak an archaic dialect of [[skill-vylarilng|Vylari]], and every rite in the kingdom is said in the kingdom's older ritual dialect, which keeps sounds the empire's speech has lost. Every dedication on a temple wall is cut in the runes of [[skill-thrvrknscrpt|Tharavarkon]], and a priest who cannot read them cannot serve.
+Its people practice the Aureldian faiths with an intensity that makes even Vilérian priests uncomfortable, and they regard the kingdom as the true spiritual heir of Vilérian civilization, purified of the empire's corruption. They speak an archaic dialect of [[skill-vylarilng|Vilari]], and every rite in the kingdom is said in the kingdom's older ritual dialect, which keeps sounds the empire's speech has lost. Every dedication on a temple wall is cut in the runes of [[skill-thrvrknscrpt|Tharavarkon]], and a priest who cannot read them cannot serve.
 
 ### The Holy Mother and the King
 
@@ -110,7 +110,7 @@ So the quarrel runs three ways over one word. The Black Flame's priests call Nar
 
 ## Relations
 
-Nartun keeps correct but cool relations with the Vylarian Empire. The break dates from about 224 AF, when the high priesthood refused obedience to an Orzas who would not proscribe the Black Flame and anointed a king of its own ([[lore-nartumrefuse|Nartun Refuses the Empire]]). The empire regards Nartun as a wayward province that should be reabsorbed, and Nartun regards the empire as a corrupted institution that has strayed from the true path. The border with the empire's [[affiliation-provnchyln|Province of Hilen]] is a stream below the march-town of [[place-ashenmere|Ashenmere]], where a chapel of the Order faces a forge-shrine of the Sacred Forge across the water.
+Nartun keeps correct but cool relations with the Vilérian Empire. The break dates from about 224 AF, when the high priesthood refused obedience to an Orzas who would not proscribe the Black Flame and anointed a king of its own ([[lore-nartumrefuse|Nartun Refuses the Empire]]). The empire regards Nartun as a wayward province that should be reabsorbed, and Nartun regards the empire as a corrupted institution that has strayed from the true path. The border with the empire's [[affiliation-provnchyln|Province of Hilen]] is a stream below the march-town of [[place-ashenmere|Ashenmere]], where a chapel of the Order faces a forge-shrine of the Sacred Forge across the water.
 
 The [[affiliation-ordoarcanis|Thordimalon]] has no presence in Nartun. The kingdom holds the Arcane Order's secular power and political manipulation to be antithetical to proper spiritual life, and mages who work in Nartun answer to the priesthood, not to the Arcane Order. A mage found working in the kingdom without a temple's license goes before an examiner.
 
@@ -122,7 +122,7 @@ The forest is the kingdom's other quarrel. The Withering kills stands across the
 
 ## Commerce and Currency
 
-Nartun has no mint of its own and uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel), but it takes every coin by weight. A price in Nartun is stated in weight of silver, by the pound of the holy city (_solkimon_), and a merchant pays it in whatever Ardin and Ogdel make up the weight on a temple scale. Each temple-estate keeps a scale and a sworn weigher (_thradinos_), and the House of Scales in the holy city keeps the standard weights that every other scale in the kingdom is tried against.
+Nartun has no mint of its own and uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel), but it takes every coin by weight. A price in Nartun is stated in weight of silver, by the pound of the holy city (_solkimon_), and a merchant pays it in whatever Ardin and Ogdel make up the weight on a temple scale. Each temple-estate keeps a scale and a sworn weigher (_thradinos_), and the House of Scales in the holy city keeps the standard weights that every other scale in the kingdom is tried against.
 
 The kingdom takes no paper. The notes of [[affiliation-danvar|the Danvar]] moneylenders are worthless north of the border stream, and a merchant who comes up from Hilen with a purse of notes changes them into coin at Ashenmere before he crosses. The kingdom's money is kept by its temples instead. Each temple's treasury holds the coin of its estates and the deposits of its faithful, lends to barons and merchants at interest the temples call an offering, and pays the priors' drafts on one another in coin carried under the Order's escort.
 
@@ -134,7 +134,7 @@ The kingdom was made by one refusal. Before it, [[place-nartum|Nartun]] was the 
 
 About 224 the high priesthood of Nartun withdrew from imperial obedience ([[lore-nartumrefuse|Nartun Refuses the Empire]]). It anointed a king of its own, [Daronos]{.name data-type="being/npc"}, the first to take the throne from the priesthood's hand, and raised the Order of the Sacred Flame to hold the city's walls and the land around it. The legions sent to bring the city back reached it in the autumn, found its gates shut and its knights on the walls, and turned back at the first winter. No Orzas has sent a second army.
 
-The kingdom keeps the shape the break gave it. Its people speak an older Vylari as a mark of the break, the Arcane Order has had no place in it, and its knights keep the old word for the god's fire that the Black Flame also uses. Its kings are of the house descended from Daronos, and the high priesthood has deposed some of them, so every king knows the names of the deposed. When the last king died without a son, the high priests divided between his two cousins, and the Holy Mother refused the elder for a winter and then anointed the younger, Kelvaras Daronis, who has reigned eleven years since.
+The kingdom keeps the shape the break gave it. Its people speak an older Vilari as a mark of the break, the Arcane Order has had no place in it, and its knights keep the old word for the god's fire that the Black Flame also uses. Its kings are of the house descended from Daronos, and the high priesthood has deposed some of them, so every king knows the names of the deposed. When the last king died without a son, the high priests divided between his two cousins, and the Holy Mother refused the elder for a winter and then anointed the younger, Kelvaras Daronis, who has reigned eleven years since.
 
 ## Hooks {#hooks}
 
@@ -153,11 +153,11 @@ The kingdom keeps the shape the break gave it. Its people speak an older Vylari 
 [[affiliation-sacredflame|Order of the Sacred Flame]]
 : the kingdom's knights
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : cultural parent, political rival
 
 [[affiliation-arldnpnthn|Aureldian]]
 : the state pantheon
 
-[[skill-vylarilng|Vylari]]
+[[skill-vylarilng|Vilari]]
 : the language and its naming conventions

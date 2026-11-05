@@ -440,7 +440,7 @@ She has none. The lower town likes her, and the farmers of the estates come back
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-olvenia|Faith of Ólvenia]]**: one of the lay faithful, the Devran, who keeps the feasts of the Bountiful One without office in the temple.
 
 ## Plot Hooks

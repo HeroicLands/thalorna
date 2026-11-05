@@ -424,7 +424,7 @@ Koremdanis stands 6'0" tall with a medium build. She has light olive skin, aubur
 
 ### Early Life
 
-Koremdanis was born into [House Barkratis]{.name data-type="affiliation/lineage"}, a noble family of the [[affiliation-vylarinmpr|Empire of Vylaria]] whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Koremdanis showed from childhood an obsessive interest in the art of the blade. Her father, Lord [[being-thelvarosbar|Thelvaros Barkratis]], indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster [[being-pelerarsathe|Pelerar]], a celebrated figure in the dueling circles of [[place-orzara|Orzara]], the capital city of the Empire.
+Koremdanis was born into [House Barkratis]{.name data-type="affiliation/lineage"}, a noble family of the [[affiliation-vylarinmpr|Empire of Viléria]] whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Koremdanis showed from childhood an obsessive interest in the art of the blade. Her father, Lord [[being-thelvarosbar|Thelvaros Barkratis]], indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster [[being-pelerarsathe|Pelerar]], a celebrated figure in the dueling circles of [[place-orzara|Orzara]], the capital city of the Empire.
 
 ### Training and Ascension
 
@@ -432,7 +432,7 @@ Under Pelerar's exacting instruction, Koremdanis proved to be talented beyond th
 
 ### Current Situation
 
-Now established as perhaps the foremost swordmaster in the Empire of Vylaria, Koremdanis operates a prestigious fencing academy in Salkalon that is attended by the children of the realm's most powerful families. She teaches philosophy as well as technique, selecting students with care and maintaining rigorous standards of both skill and character. Her reputation extends far beyond the Empire—rival duelists from other realms travel to challenge her, poets compose verses about her victories, and noble families from distant lands send their heirs to study with her. Despite her renown, she remains austere, accepting only students who demonstrate real commitment and refusing to teach those she believes would abuse their skills.
+Now established as perhaps the foremost swordmaster in the Empire of Viléria, Koremdanis operates a prestigious fencing academy in Salkalon that is attended by the children of the realm's most powerful families. She teaches philosophy as well as technique, selecting students with care and maintaining rigorous standards of both skill and character. Her reputation extends far beyond the Empire—rival duelists from other realms travel to challenge her, poets compose verses about her victories, and noble families from distant lands send their heirs to study with her. Despite her renown, she remains austere, accepting only students who demonstrate real commitment and refusing to teach those she believes would abuse their skills.
 
 ## Psyche
 
@@ -493,7 +493,7 @@ Vulnerability to Magic
 
 ### Patrons
 
-[The Imperial House of Vylaria]{.name data-type="affiliation/lineage"}
+[The Imperial House of Viléria]{.name data-type="affiliation/lineage"}
 : The royal family employs her as unofficial advisor on martial matters and frequently commissions her to teach their scions. The Emperor himself has attended her demonstrations.
 
 House Barkratis
@@ -530,7 +530,7 @@ House Barkratis
 ## Plot Hooks
 
 The Challenge from the East
-: Word arrives that a famed swordmaster from distant [[place-jenchairgn|Jenchai]], a figure named [Weja the Unbound]{.name data-type="being/npc"}, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
+: Word arrives that a famed swordmaster from distant [[place-jenchairgn|Jenchai]], a figure named [Weja the Unbound]{.name data-type="being/npc"}, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Viléria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
 
 The Poisoned Student
 : One of her most promising students, Lord [Cassian]{.name data-type="being/npc"}, falls mysteriously ill with a poison that no physician can identify or cure. As Koremdanis investigates, she discovers evidence suggesting he was poisoned not by an enemy but by a rival student jealous of his progress. The discovery raises the question of what her teaching, taken to extremes, can make of a student.

@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [aukhelathrgq], population: null, packFolder: regkhregn}
 ---
 
-**The Zumelesh** runs north out of the southern uplands, through a desert that would otherwise be empty, to a delta on the [[place-vylarianse|Vylarian Sea]]. Nineteen million people live within reach of its water and almost nobody lives out of it. The valley it has cut is green for a few miles either side and stops, and the line where the black soil ends is visible from any height.
+**The Zumelesh** runs north out of the southern uplands, through a desert that would otherwise be empty, to a delta on the [[place-vylarianse|Vilérian Sea]]. Nineteen million people live within reach of its water and almost nobody lives out of it. The valley it has cut is green for a few miles either side and stops, and the line where the black soil ends is visible from any height.
 
 Boats work the whole navigable length, from the delta up to the first cataract, which is the practical limit of the empire's river traffic and the reason the frontier sits where it does. Grain, stone and the dead come down; tin from the southern workings, and everything the uplands sell, comes up.
 

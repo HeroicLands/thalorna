@@ -55,7 +55,7 @@ data:
   packFolder: adventures
 ---
 
-Every quarter day the throne of [[affiliation-vylarinmpr|Vylaria]] borrows the silver that pays the veterans' pension, and every quarter day the lenders ask a little more for it. This frame runs through one such season in [[place-orzara|Orzara]]. The reigning Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], is seventy-eight and failing, and he has adopted nobody. Three men hope to be named, the Guard expects a donative from whoever is, and the granaries hold about a week of bread. Every great house in the city takes what it can from a throne it cannot afford to see fall, each sure the others will hold the line.
+Every quarter day the throne of [[affiliation-vylarinmpr|Viléria]] borrows the silver that pays the veterans' pension, and every quarter day the lenders ask a little more for it. This frame runs through one such season in [[place-orzara|Orzara]]. The reigning Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], is seventy-eight and failing, and he has adopted nobody. Three men hope to be named, the Guard expects a donative from whoever is, and the granaries hold about a week of bread. Every great house in the city takes what it can from a throne it cannot afford to see fall, each sure the others will hold the line.
 
 ## The Situation and the Stakes {#the-situation}
 
@@ -187,7 +187,7 @@ The Clean Shields are Amarza Veldis's. The house pays the company through an acc
 [[place-orzara|Orzara City]]
 : the capital the frame is set in
 
-[[affiliation-vylarinmpr|The Vylarian Empire]] · [[affiliation-tarmex|the Tarmeks Orzan]]
+[[affiliation-vylarinmpr|The Vilérian Empire]] · [[affiliation-tarmex|the Tarmeks Orzan]]
 : the throne and the treasury that borrows for it
 
 [[scenario-mnthbfrrvw|The Month Before the Review]]

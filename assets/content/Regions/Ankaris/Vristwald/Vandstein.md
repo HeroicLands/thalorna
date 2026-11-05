@@ -3,7 +3,7 @@ shortcode: vandstein
 name: {full: Vandstein, en: [Southern Highland Reach]}
 type: place
 subType: region
-description: Vristwald's southern highland edge facing Vylaria.
+description: Vristwald's southern highland edge facing Viléria.
 data:
   demonym: null
   lore: [varokhiclt]
@@ -18,9 +18,9 @@ data:
 
 ## The Southern Highlands
 
-Vandstein is the stony southern edge of [[place-vrystwald|Vristwald]], toward [[place-vylariargn|Vylaria]]. The few crossings make travel and fur trade possible, but neither a pass nor an old road gives an outside ruler authority over the forest villages below it.
+Vandstein is the stony southern edge of [[place-vrystwald|Vristwald]], toward [[place-vylariargn|Viléria]]. The few crossings make travel and fur trade possible, but neither a pass nor an old road gives an outside ruler authority over the forest villages below it.
 
-Overgrown Vylarian posts survive in the southern woods, traces of the road the [[affiliation-vylarinmpr|Empire]] cut north out of [[place-moktur|Moktur]] about 120 AF and gave up about 340 ([[lore-legionsroad|The Legions' Road]]). A ruin can offer shelter or buried goods to a party that finds it, and can also draw an imperial claimant into ground a nearby village considers its own. Conflict here is intermittent, carried by travelers and claims through difficult passes rather than by a continuous line of forts.
+Overgrown Vilérian posts survive in the southern woods, traces of the road the [[affiliation-vylarinmpr|Empire]] cut north out of [[place-moktur|Moktur]] about 120 AF and gave up about 340 ([[lore-legionsroad|The Legions' Road]]). A ruin can offer shelter or buried goods to a party that finds it, and can also draw an imperial claimant into ground a nearby village considers its own. Conflict here is intermittent, carried by travelers and claims through difficult passes rather than by a continuous line of forts.
 
 ## See Also
 
@@ -30,7 +30,7 @@ Overgrown Vylarian posts survive in the southern woods, traces of the road the [
 [[place-skathwald|Skathwald]]
 : the neighboring reach to the northwest
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the power beyond the highlands
 
 [[place-dunkelholt|Dunkelholt]]

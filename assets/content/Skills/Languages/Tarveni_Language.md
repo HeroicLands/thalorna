@@ -5223,12 +5223,12 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Pelwar}}
 
-# terran_analog: Tarveni is patterned on Castilian in tone (hard finals kept, stressed short vowels broken to ie, consonants voiced between vowels, an acute only where stress moves off the guide's rule) over an older mountain speech shaped like Basque (the trilled rr, the ts, no f, no initial r), in the way Castilian grew up against the Basque country. Its earth mother and the dead who walk the roads at night are patterned on Mari and on the Galician night procession; their words, like every substrate word, are coined to the old speech's shape and checked against Earth word lists, Basque among them. Every inherited word is derived by the tables below from an ancient Vylari root.
+# terran_analog: Tarveni is patterned on Castilian in tone (hard finals kept, stressed short vowels broken to ie, consonants voiced between vowels, an acute only where stress moves off the guide's rule) over an older mountain speech shaped like Basque (the trilled rr, the ts, no f, no initial r), in the way Castilian grew up against the Basque country. Its earth mother and the dead who walk the roads at night are patterned on Mari and on the Galician night procession; their words, like every substrate word, are coined to the old speech's shape and checked against Earth word lists, Basque among them. Every inherited word is derived by the tables below from an ancient Vilari root.
 ---
 
 Tarveni is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Tarveni, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Tarveni is the forceful, expressive tongue of the [[lore-tarvenanclt|Tarvenan]] kingdoms and city-states scattered across the southern peninsula. Blunt where [[skill-vylarilng|Vylari]] is formal, passionate where [[skill-provnzlng|Provenzal]] is artful, Tarveni reflects the directness and fierce pride of its speakers—a people who have resisted imperial rule and cultivated independent city-state cultures for centuries.
+Tarveni is the forceful, expressive tongue of the [[lore-tarvenanclt|Tarvenan]] kingdoms and city-states scattered across the southern peninsula. Blunt where [[skill-vylarilng|Vilari]] is formal, passionate where [[skill-provnzlng|Provenzal]] is artful, Tarveni reflects the directness and fierce pride of its speakers—a people who have resisted imperial rule and cultivated independent city-state cultures for centuries.
 
 ## Overview
 
@@ -5260,9 +5260,9 @@ Tarveni employs a rich inventory of consonants with strong distinctions between 
 
 **Vowels:** Tarveni maintains five vowels (a, e, i, o, u) and uses diphthongs sparingly.
 
-**Stress and Accent:** Stress falls by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], as in Vylari: a word of two syllables on the first (FER-rik), a longer word on the second-to-last (ran-ZI-o), and an acute marks any stress the rule would not choose. How the dialects differ is set out under [[skill-tarvenlng#regional-dialects|Regional Dialects]].
+**Stress and Accent:** Stress falls by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], as in Vilari: a word of two syllables on the first (FER-rik), a longer word on the second-to-last (ran-ZI-o), and an acute marks any stress the rule would not choose. How the dialects differ is set out under [[skill-tarvenlng#regional-dialects|Regional Dialects]].
 
-**Distinctive Features:** Tarveni speakers trill their /r/ sounds, and this feature is associated with educated speech and formal contexts. The language permits complex consonant clusters at word boundaries and internal positions, making it sound more consonant-heavy than Vylari or Provenzal.
+**Distinctive Features:** Tarveni speakers trill their /r/ sounds, and this feature is associated with educated speech and formal contexts. The language permits complex consonant clusters at word boundaries and internal positions, making it sound more consonant-heavy than Vilari or Provenzal.
 
 ## Grammar Notes
 
@@ -5332,9 +5332,9 @@ _Konalon ol sorthalon_ is an associated group of clans, a tribe. _Zesima ankelos
 
 ## Script & Literacy
 
-Tarveni is written in the [[skill-semrnscrpt|Semaron]], the Vylarian alphabet, which is the common script of [[place-aureldirgn|Aureldia]] and was taken up here as everywhere else in the region—a people who spent centuries refusing the empire's rule write in the empire's letters and see no contradiction in it. Regional scribal traditions have developed distinctive features: the southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
+Tarveni is written in the [[skill-semrnscrpt|Semaron]], the Vilérian alphabet, which is the common script of [[place-aureldirgn|Aureldia]] and was taken up here as everywhere else in the region—a people who spent centuries refusing the empire's rule write in the empire's letters and see no contradiction in it. Regional scribal traditions have developed distinctive features: the southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
 
-The alphabet pinches in one place, and Tarveni has not repaired it. Vylari fixes stress by position, so the imperial letters were never given any way to mark it—where a Tarveni word takes its stress off the rule, as its acute shows in the roman, the script writes it exactly as it would a word that keeps the rule, so a pair a speaker would never confuse reaches the page as a single string of letters. A Tarvenan reads such a page aloud and decides as he goes, which is no hardship to a people who carry most of their literature in the mouth; an imperial clerk working from a Tarveni document has only the letters, and they do not tell him which of the pair is meant.
+The alphabet pinches in one place, and Tarveni has not repaired it. Vilari fixes stress by position, so the imperial letters were never given any way to mark it—where a Tarveni word takes its stress off the rule, as its acute shows in the roman, the script writes it exactly as it would a word that keeps the rule, so a pair a speaker would never confuse reaches the page as a single string of letters. A Tarvenan reads such a page aloud and decides as he goes, which is no hardship to a people who carry most of their literature in the mouth; an imperial clerk working from a Tarveni document has only the letters, and they do not tell him which of the pair is meant.
 
 True literacy is confined to the clergy, professional scribes, and a minority of the nobility (perhaps 10-20%)—many Tarvenan lords consider reading a scribe's business, not a warrior's. Guildsmen in the coastal trading centers may possess basic functional literacy—recognizing trade marks, numerals, and simple words—but rely on scribes and solicitors for contracts and legal documents. Inland and rural populations are almost entirely non-literate. The Tarvenan cultural emphasis on poetry and epic tradition means that non-literate speakers preserve extensive oral literature through memorization and performance.
 
@@ -5342,7 +5342,7 @@ True literacy is confined to the clergy, professional scribes, and a minority of
 
 Tarveni developed from Proto-Pelwar stock, but followed a distinctive evolutionary path that preserved many archaic features lost in other branches. The language shows evidence of significant contact with pre-Pelwar populations of the peninsula, particularly in the large number of "exotic" vocabulary items (words with no clear Pelwar etymology).
 
-The political fragmentation of Tarvénia into competing kingdoms prevented the linguistic standardization seen in Vylari. Instead, Tarveni developed as a family of related dialects, each associated with a major city or kingdom. This diversity is a source of both pride (each kingdom claims its dialect is the "truest" Tarveni) and occasional difficulty in trade and diplomacy.
+The political fragmentation of Tarvénia into competing kingdoms prevented the linguistic standardization seen in Vilari. Instead, Tarveni developed as a family of related dialects, each associated with a major city or kingdom. This diversity is a source of both pride (each kingdom claims its dialect is the "truest" Tarveni) and occasional difficulty in trade and diplomacy.
 
 ## Regional Dialects {#regional-dialects}
 
@@ -5373,7 +5373,7 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 ## Related Languages
 
-Tarveni shares its deepest roots with Vylari and other Pelwar tongues, yet stands apart in many features. Speakers of Vylari find Tarveni difficult due to its phonetic complexity. Provenzal and Tarveni speakers can often understand each other in trade contexts, though the emotional and poetic registers differ markedly.
+Tarveni shares its deepest roots with Vilari and other Pelwar tongues, yet stands apart in many features. Speakers of Vilari find Tarveni difficult due to its phonetic complexity. Provenzal and Tarveni speakers can often understand each other in trade contexts, though the emotional and poetic registers differ markedly.
 
 The relationship to [[skill-elvndrlng|Élavendri]] is limited; while both are Pelwar-derived, their phonological systems diverge significantly. Tarveni has no clear affinity with [[skill-nordmalng|Nordmal Language]] or [[skill-varokhlng|Varokhi Language]], though scholars recognize ancient common ancestry.
 
@@ -5401,7 +5401,7 @@ Ervothandis, Zedimis, Zenothis, Orthemandis, Iltheris, Thaluris, Korvathandis, O
 
 On the road down from the passes a company is coming home. The captain is _thrumar_ and the men are sworn to him for the season, _daro_, sworn men, by the contract, _semna_, that every one of them can recite. In the villages they pass, a lantern stands on each threshold, because it is the season when the dead walk the roads, and every word the villagers have for that is older than the tongue the company speaks.
 
-This is the word-hoard of Tarveni, the tongue of the Tarvenans. It is the daughter of ancient Vylari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the shape every word of the old speech keeps, and the few words taken back from the empire and from [[place-provenzrgn|Provénzia]].
+This is the word-hoard of Tarveni, the tongue of the Tarvenans. It is the daughter of ancient Vilari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the shape every word of the old speech keeps, and the few words taken back from the empire and from [[place-provenzrgn|Provénzia]].
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -5411,9 +5411,9 @@ An entry gives the word as it is cited: a noun or an adjective in its basic form
 
 | Source       | From                                           | Meaning                                                                                       |
 | ------------ | ---------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| `*`          | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | inherited: the ancient Vylari form, as the Vylari lexicon gives it                            |
+| `*`          | [[skill-vylarilng#lexicon\|Vilari Lexicon]]    | inherited: the ancient Vilari form, as the Vilari lexicon gives it                            |
 | `substrate`  | —                                              | from the old mountain speech, which left no other record; the word keeps that speech's shape  |
-| `vylari:`    | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | a learned word, taken from imperial Vylari: the imperial form, as the Vylari lexicon gives it |
+| `vylari:`    | [[skill-vylarilng#lexicon\|Vilari Lexicon]]    | a learned word, taken from imperial Vilari: the imperial form, as the Vilari lexicon gives it |
 | `provenzal:` | [[skill-provnzlng#lexicon\|Provenzal Lexicon]] | a loan from Provenzal: the Provenzal form, as the Provenzal lexicon gives it                  |
 | `worn:`      | —                                              | a small word worn down; the ancient form is named                                             |
 

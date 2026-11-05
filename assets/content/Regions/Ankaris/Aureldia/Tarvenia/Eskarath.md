@@ -39,7 +39,7 @@ The clans hold their own valleys, and their elders govern them. What touches the
 
 ## Current Situation {#present}
 
-The old arrangement holds: the Eskárathi send their warriors when the High King calls the ban against a foreign threat, and the rest of Tarvénia leaves them alone. The Biltzarrath weighs every call against the terms the High King swore. Every attempt by an ambitious High King or a Vylarian _therkos_ to rule the highlands directly has ended badly for the outsider. The [[affiliation-ordoarcanis|Thordimalon]] has no presence here, and the Eskárathi refuse it any say over their herb-lore, their weather-reading and their ancestral communion.
+The old arrangement holds: the Eskárathi send their warriors when the High King calls the ban against a foreign threat, and the rest of Tarvénia leaves them alone. The Biltzarrath weighs every call against the terms the High King swore. Every attempt by an ambitious High King or a Vilérian _therkos_ to rule the highlands directly has ended badly for the outsider. The [[affiliation-ordoarcanis|Thordimalon]] has no presence here, and the Eskárathi refuse it any say over their herb-lore, their weather-reading and their ancestral communion.
 
 ## Faiths {#faiths}
 

@@ -14,7 +14,7 @@ data: {culture: aureldianclt, packFolder: settinglore}
 
 On the night of the spring equinox the faithful of [[lore-brazemasdty|Brazemas]], the Thunderer, go up to the high places and wait for him. They climb the hilltops and the towers of the cities, and sailors stand on the decks of ships at anchor, and they keep the whole night out of doors, watching the sky to the west for the first storm of the year. When the first lightning splits the sky the crowd gives a wordless cry, the sound the [[affiliation-brazemas|Faith of Brazemas]] holds to be the right answer to a god returning to the world. The Priest of Storms on the highest place reads the strike, and before morning he announces to the crowd what it means for the year.
 
-The Thunderhead Vigil falls on 1 [Lizelandi]{.name data-type="lore/calendar"}, the vernal equinox, which opens the year in [[lore-commoncal|the Vylarian Calendar]], and it is the night the storms return to the western part of the [[place-ankrscntnnt|Ankaris Continent]] after the dry season. It lasts one night. Sailors call the year that it opens the sea-year, because no prudent captain puts to sea for a long voyage until the Vigil has been read.
+The Thunderhead Vigil falls on 1 [Lizelandi]{.name data-type="lore/calendar"}, the vernal equinox, which opens the year in [[lore-commoncal|the Vilérian Calendar]], and it is the night the storms return to the western part of the [[place-ankrscntnnt|Ankaris Continent]] after the dry season. It lasts one night. Sailors call the year that it opens the sea-year, because no prudent captain puts to sea for a long voyage until the Vigil has been read.
 
 ## The Night
 
@@ -42,7 +42,7 @@ The morning after belongs to the harbors. In [[place-besikar2|Besikar]] [[lore-h
 [[lore-brazemasdty|Brazemas]]
 : the Thunderer
 
-[[lore-commoncal|The Vylarian Calendar]]
+[[lore-commoncal|The Vilérian Calendar]]
 : the equinox that opens the year
 
 [[lore-vigilwatch|The Watch-Song of the Vigil]]

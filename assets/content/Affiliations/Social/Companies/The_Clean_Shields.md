@@ -77,7 +77,7 @@ The company holds the grain road and the river outside the city's line, where th
 
 The Clean Shields are a mixed company, and the mixture is part of what the city distrusts. About half are men born in the empire without its citizenship, _palvethoi_ (residents without citizenship) from the provinces who could not or would not give the legions twenty years. A quarter are former auxiliaries of the legions, mostly men of the units cashiered or disbanded after the war in which the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] won its independence. The rest are Helionites, Tarvenans, a few Bizarians and a handful of men from the coast who do not say where they learned the river.
 
-Every man draws his kit from the company's stores. The sergeants carry blades of [[miscgear-vylsteel|Vylarian Steel]], guild-marked by the [Steel Guild]{.name data-type="affiliation/guild"} and bought at the prices the guild charges the great houses. The company's mail is new and its horses are remounts of the quality the legions buy for their cavalry prefects. The company's camp is a walled square of brick on the river bank upstream of the city, among the garden-villas of the rich, on ground leased from an estate whose name the lease does not give.
+Every man draws his kit from the company's stores. The sergeants carry blades of [[miscgear-vylsteel|Vilérian Steel]], guild-marked by the [Steel Guild]{.name data-type="affiliation/guild"} and bought at the prices the guild charges the great houses. The company's mail is new and its horses are remounts of the quality the legions buy for their cavalry prefects. The company's camp is a walled square of brick on the river bank upstream of the city, among the garden-villas of the rich, on ground leased from an estate whose name the lease does not give.
 
 ## The Articles
 
@@ -89,7 +89,7 @@ A man who robs a barge, sells the company's movements, or draws a blade inside t
 
 The outskirts belong in law to the [[affiliation-provinclys|Province of Alessa]], whose governor sits at [[place-alyssar|Alessar]] and sends nobody. The City Watch holds the gate-roads and the gate-yards. Between the yards and the Hilen landings, the river road and the barge moorings belonged to nobody until the lean years before the contract, when river thieves took two barge strings in one summer and the city's bread rose by a third in a week.
 
-The war council of [[affiliation-vylrnmltry|The Vylarian Military]] answered with a contract, because it had no cohort to spare and the Watch's charter stops at the gate-yards. The contract is modest. It pays a company of two hundred to keep the river road, guard the moorings and escort the barges down from the landings to the river gate, where the Watch takes them over at the edge of the [Clearance]{.name data-type="place/feature"}. It was put out for bids, and [[affiliation-irnwlvscmpny|The Iron Wolves Company]] bid lower and lost. The contract went to a captain with no company raised, on the recommendation of a member of the war council who has never said why, and within a season the captain had three hundred men under arms.
+The war council of [[affiliation-vylrnmltry|The Vilérian Military]] answered with a contract, because it had no cohort to spare and the Watch's charter stops at the gate-yards. The contract is modest. It pays a company of two hundred to keep the river road, guard the moorings and escort the barges down from the landings to the river gate, where the Watch takes them over at the edge of the [Clearance]{.name data-type="place/feature"}. It was put out for bids, and [[affiliation-irnwlvscmpny|The Iron Wolves Company]] bid lower and lost. The contract went to a captain with no company raised, on the recommendation of a member of the war council who has never said why, and within a season the captain had three hundred men under arms.
 
 A company of three hundred armed men camped a mile above the city is a fact the throne has accepted. No armed company may cross the Clearance into the city, and the Clean Shields have never tried. Their posting stops where the city begins.
 
@@ -106,7 +106,7 @@ The throne's quarter has come late twice in the company's four years, once by ni
 The question of who pays the Clean Shields is asked in every faction of the capital, and each faction's answer is the one it most fears.
 
 - **The veterans' stairs** say Taruzel. The captain was born in the Taruzelian islands and served the empire's auxiliaries for twenty years before he was cashiered with his unit at the start of the war, and the veterans who lost friends at [[place-tamzirshoals|Tamzir Shoals]] see a Taruzelian with three hundred men a mile from the bread.
-- **The hawks in [[affiliation-seldan|The Vylarian Senate]]** say Khelathi silver, because every unexplained fortune near the throne is read in Orzara as the [[affiliation-empireakhlth|Empire of Au'Khelathu]] buying a second Taruzel.
+- **The hawks in [[affiliation-seldan|The Vilérian Senate]]** say Khelathi silver, because every unexplained fortune near the throne is read in Orzara as the [[affiliation-empireakhlth|Empire of Au'Khelathu]] buying a second Taruzel.
 - **The claimants' houses** each suspect another claimant's house, and each has sent someone to the camp to find out.
 - **The Steel Guild's masters** know what the company paid for its blades and who paid it, and have said nothing.
 
@@ -124,7 +124,7 @@ The veterans of the Watch dislike the company for the reason every veteran disli
 
 ## Other Companies
 
-The Iron Wolves bid for the river contract below the winning price and lost. The Iron Wolves' administrative deputy, [Ghorigios Aikastos]{.name data-type="being/npc"}, was a quartermaster of the Vylarian legions and knows what a company's kit costs, and he has told his captain that the contract cannot pay for the Clean Shields' horses.
+The Iron Wolves bid for the river contract below the winning price and lost. The Iron Wolves' administrative deputy, [Ghorigios Aikastos]{.name data-type="being/npc"}, was a quartermaster of the Vilérian legions and knows what a company's kit costs, and he has told his captain that the contract cannot pay for the Clean Shields' horses.
 
 [[affiliation-slntlncmpny|The Silent Talon Company]] has had men in the outskirts all spring asking the barge crews and the camp's suppliers about the company, for a client the Silent Talon does not name. The Clean Shields know, and the captain has let them ask.
 

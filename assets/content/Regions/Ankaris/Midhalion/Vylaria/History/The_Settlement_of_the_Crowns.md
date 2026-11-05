@@ -93,7 +93,7 @@ data:
         - whether the crowns' envoys met in one hall or the Orzas received them one at a time
 ---
 
-An Aureldian factor, handing a Vylarian clerk a traveler's note at a counting-table in [[place-orzara|Orzara]], watches the clerk deduct the fee and write the sum in the margin. "Two in a hundred," the clerk says. "It was settled in [Azénales]{.name data-type="being/npc"}'s time and nobody has reopened it. Your king calls it [[affiliation-tevran|the Tevran Maldor]]'s charge. [[affiliation-tarmex|The Tarmeks]] calls it the Tarmeks's. Both are right, and neither will say so to the other."
+An Aureldian factor, handing a Vilérian clerk a traveler's note at a counting-table in [[place-orzara|Orzara]], watches the clerk deduct the fee and write the sum in the margin. "Two in a hundred," the clerk says. "It was settled in [Azénales]{.name data-type="being/npc"}'s time and nobody has reopened it. Your king calls it [[affiliation-tevran|the Tevran Maldor]]'s charge. [[affiliation-tarmex|The Tarmeks]] calls it the Tarmeks's. Both are right, and neither will say so to the other."
 
 ## What the Empire Had Left
 
@@ -106,7 +106,7 @@ What the Empire still had was the note system. The Tarmeks minted the coin, [[af
 In the year after the [Charter of Rights]{.name data-type="lore/law"}'s peace, the Orzas **Azénales**, born to [[affiliation-mardovanes|House Mardovanes]] and adopted into House Helarkales as an heirless Orzas's successor, who had ruled for fifteen years and spent them watching the provinces go, received the envoys of the crowns and the League in Orzara and set the terms down in one settlement.
 
 - **Provénzia's Charter** was recognized. The Empire stopped sending _therkoi_, and the Charter's king was acknowledged in the chancery's own style.
-- **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vylarian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmeks.
+- **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vilérian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmeks.
 - **Helionis** stayed on the chancery's roll as a province. Its cities kept their own magistrates, and a legion sat in a Helionite city only where the city had asked for one by treaty. The roll names a province, and the cities govern themselves ([[place-helionis|Helionis]]).
 - **The far forts** went unpaid. A fortress commander who held a post in the [[place-heladrgn|Hellád]] on an imperial commission kept the post and lost the pay, and some of their heirs hold the posts still.
 - **The claims the Empire could not enforce**, among them the [[place-kervaron|Kervaron Spine]], stopped being pressed. The chancery has not raised the range with the clans since.

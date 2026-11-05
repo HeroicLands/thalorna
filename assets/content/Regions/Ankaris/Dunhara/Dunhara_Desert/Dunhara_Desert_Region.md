@@ -43,7 +43,7 @@ No one rules the open desert. Perhaps a dozen great confederations and many smal
 : a spring that has never failed
 
 [[place-kherzulakhem|Kherzulakhem]]
-: a hunters' camp near the Khazryn frontier
+: a hunters' camp near the Khazrin frontier
 
 [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]
 : a storm-blasted spire on the Pale Floor

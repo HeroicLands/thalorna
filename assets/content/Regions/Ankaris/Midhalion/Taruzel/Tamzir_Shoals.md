@@ -3,7 +3,7 @@ shortcode: tamzirshoals
 name: {full: Tamzir Shoals}
 type: place
 subType: feature
-description: "A maze of sandbars, submerged rocks and shifting channels west of Khamisar in the Taruzelian archipelago, where the war's flotilla destroyed a Vylarian squadron: its wrecks still lie on the sand with their bronze rams, and the outlaws of the Shoals Brotherhood live among them in a hidden lagoon."
+description: "A maze of sandbars, submerged rocks and shifting channels west of Khamisar in the Taruzelian archipelago, where the war's flotilla destroyed a Vilérian squadron: its wrecks still lie on the sand with their bronze rams, and the outlaws of the Shoals Brotherhood live among them in a hidden lagoon."
 tags: []
 data: {demonym: null, lore: [], parents: [zupumun], population: 0, packFolder: taruzel}
 ---
@@ -20,9 +20,9 @@ The channels between the bars are deep and narrow, and they move. A winter storm
 
 ## The Battle of Tamzir Shoals
 
-The pilots' warning won Taruzel its independence. In the early summer of 708 a Vylarian squadron, the largest the empire had ever gathered in the eastern sea, followed the war's flotilla into the Shoals to break the blockade of the island channels. The deep-drafted imperial warships took the sand on the falling tide, the lighter Taruzelian boats worked the channels around them like wolves around elk, and in two days and a night the squadron was burned, captured or wrecked, and its admiral killed.
+The pilots' warning won Taruzel its independence. In the early summer of 708 a Vilérian squadron, the largest the empire had ever gathered in the eastern sea, followed the war's flotilla into the Shoals to break the blockade of the island channels. The deep-drafted imperial warships took the sand on the falling tide, the lighter Taruzelian boats worked the channels around them like wolves around elk, and in two days and a night the squadron was burned, captured or wrecked, and its admiral killed.
 
-**[[lore-tamzirbattle|The Battle of Tamzir Shoals]]** broke the empire's power in Taruzelian waters. Its land garrisons, cut off from supply, fell one by one, and Vylaria recognized Taruzelian sovereignty within the year.
+**[[lore-tamzirbattle|The Battle of Tamzir Shoals]]** broke the empire's power in Taruzelian waters. Its land garrisons, cut off from supply, fell one by one, and Viléria recognized Taruzelian sovereignty within the year.
 
 ## The Wrecks
 
@@ -40,7 +40,7 @@ At the heart of the Shoals, out of sight of Khamisar and Visizel, a ring of sand
 
 ## What the Shoals Mean Now
 
-The battle is the founding myth of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. [[place-yamuzel2|Yamuzel]], whose yards built the fleet, holds an annual [[lore-fleetreview|Fleet Review]] in its memory, and [[place-besikar2|Besikar]] keeps a captured Vylarian warship in dry-dock as **the [[place-tamzirmonument|Tamzir Monument]]**. The [[affiliation-corsairleg|Corsair League]] grew out of the captains who fought there. The veterans remember the Shoals differently: the dock workers, fishermen and tribal warriors who sailed into the imperial fleet were promised land, guild membership and a voice in the new government, and received a discharge and a small purse of silver instead. Their children have inherited the grievance along with the story. One trading vessel on the [[place-vylarianse|Vylarian Sea]], [[affiliation-thetamzir|the Tamzir]], carries the battle's name.
+The battle is the founding myth of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. [[place-yamuzel2|Yamuzel]], whose yards built the fleet, holds an annual [[lore-fleetreview|Fleet Review]] in its memory, and [[place-besikar2|Besikar]] keeps a captured Vilérian warship in dry-dock as **the [[place-tamzirmonument|Tamzir Monument]]**. The [[affiliation-corsairleg|Corsair League]] grew out of the captains who fought there. The veterans remember the Shoals differently: the dock workers, fishermen and tribal warriors who sailed into the imperial fleet were promised land, guild membership and a voice in the new government, and received a discharge and a small purse of silver instead. Their children have inherited the grievance along with the story. One trading vessel on the [[place-vylarianse|Vilérian Sea]], [[affiliation-thetamzir|the Tamzir]], carries the battle's name.
 
 ## Converging Interests {#present}
 
@@ -48,7 +48,7 @@ Three parties want the rams, and the water keeps them. The admirals of Yamuzel w
 
 ## Hooks {#hooks}
 
-- **The factor's offer.** A Vylarian factor in the eastern harbors offers a party good silver to bring him word of any ram raised from the Shoals, and the admirals of Yamuzel offer the same party more to bring the ram to them.
+- **The factor's offer.** A Vilérian factor in the eastern harbors offers a party good silver to bring him word of any ram raised from the Shoals, and the admirals of Yamuzel offer the same party more to bring the ram to them.
 - **The pilot.** A League master bound through the channels west of Khamisar wants a Brotherhood pilot without his owners hearing of it, and asks a party to meet the boat that comes out at dusk.
 
 ## See Also

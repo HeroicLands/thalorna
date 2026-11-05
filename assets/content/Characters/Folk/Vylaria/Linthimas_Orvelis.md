@@ -73,7 +73,7 @@ He has no house of his own in Hilen, no tenants, no stewards and no clients, and
 ### Affiliations
 
 - **[[affiliation-provnchyln|The Province of Hilen]]**: its _therkos_.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a _kurthos_ of an old house of the capital.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a _kurthos_ of an old house of the capital.
 
 ## Plot Hooks
 

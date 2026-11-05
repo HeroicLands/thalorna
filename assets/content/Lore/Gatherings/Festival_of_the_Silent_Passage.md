@@ -14,7 +14,7 @@ data: {culture: aureldianclt, packFolder: settinglore}
 
 For three days and three nights at the end of autumn the temples of [[lore-selmorosdty|Sélmoros]], the Silent Judge, close their doors to the living. Inside, the priesthood of the [[affiliation-selmoros|Faith of Sélmoros]] performs the funerary rites of the year's dead for every family that has asked for them. Outside, the dead are the household's business. At dusk masked priests carry torches through the streets in silence, and the people they pass fall silent too; in the windows of the houses black candles burn, and at the table each family speaks the names of its dead aloud, so that the god will guide them safely through the underworld. The Festival of the Silent Passage does not celebrate death. It acknowledges the god's sovereignty over it, which the faith holds to be the more honest thing to do.
 
-The festival takes the last three nights of [Morvanandi]{.name data-type="lore/calendar"} in [[lore-commoncal|the Vylarian Calendar]], and the temples open again at dawn on 1 [Kalmethandi]{.name data-type="lore/calendar"}, the winter solstice, which begins the month of going to the ancestors, the god's own.
+The festival takes the last three nights of [Morvanandi]{.name data-type="lore/calendar"} in [[lore-commoncal|the Vilérian Calendar]], and the temples open again at dawn on 1 [Kalmethandi]{.name data-type="lore/calendar"}, the winter solstice, which begins the month of going to the ancestors, the god's own.
 
 ## The Three Nights
 
@@ -46,7 +46,7 @@ In [[place-qudumel2|Kudumel]] the altar of Sélmoros in the hall of the [[place-
 [[lore-selmorosdty|Sélmoros]]
 : the Silent Judge
 
-[[lore-commoncal|The Vylarian Calendar]]
+[[lore-commoncal|The Vilérian Calendar]]
 : Morvanandi, Kalmethandi and the winter solstice
 
 [[lore-askedforayear|Of the One Who Asked for a Year]]

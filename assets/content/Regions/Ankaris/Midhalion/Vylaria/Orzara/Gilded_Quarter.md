@@ -79,7 +79,7 @@ The Gilded Quarter fears the fall of a house, and with the succession open every
 [[lore-greatburnng|The Great Burning]]
 : the fire the quarter's fire-law remembers
 
-[[doc-vylrnctznshp|Vylarian Citizenship]]
+[[doc-vylrnctznshp|Vilérian Citizenship]]
 : the right of residence and the waivers it rests on
 
 # The Truth of the Gilded Quarter {#truth .secret}

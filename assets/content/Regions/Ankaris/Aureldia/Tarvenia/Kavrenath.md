@@ -14,7 +14,7 @@ data:
   government: kngdmstrth
 ---
 
-Kávrenath is the frontier town of [[place-asturath|Asturath]], ten thousand people behind a wall at the eastern edge of the kingdom, where the last valley road leaves the mountains of [[place-tarvenirgn|Tarvénia]] and climbs toward the [[place-kervaron|Kervaron Spine]]. Beyond the Kervaron lies the [[affiliation-vylarinmpr|Vylarian Empire]], and everything that crosses between the Empire and Asturath by land comes through Kávrenath or goes round it in the dark. The town is famous for two things: its fortress, and the crossbow companies of the valleys above it.
+Kávrenath is the frontier town of [[place-asturath|Asturath]], ten thousand people behind a wall at the eastern edge of the kingdom, where the last valley road leaves the mountains of [[place-tarvenirgn|Tarvénia]] and climbs toward the [[place-kervaron|Kervaron Spine]]. Beyond the Kervaron lies the [[affiliation-vylarinmpr|Vilérian Empire]], and everything that crosses between the Empire and Asturath by land comes through Kávrenath or goes round it in the dark. The town is famous for two things: its fortress, and the crossbow companies of the valleys above it.
 
 ## The Town
 
@@ -26,7 +26,7 @@ The town is a market for the valleys and a waystation for the road. Its square h
 
 The fortress is the seat of the Warden of the March, the king of Asturath's officer for the eastern frontier, who holds powers of war and justice along the road that the interior does not allow any lord. The present Warden is [Estaril Dómivar]{.name data-type="being/npc"}. The garrison holds the road, the town gate and a chain of watch-posts up the valley toward the passes.
 
-The garrison's work is the traffic over the frontier. Some of it is lawful: Vylarian merchants with steel, glass and cloth who have paid their passage-gifts to the clans in the Kervaron and their toll at Kávrenath's gate. Much of it is not. Smugglers bring goods round the gate by the valley paths. Imperial deserters come over the passes to sell their swords to the companies. In a bad year on the far side of the mountains, refugees come down the road in hundreds, and the Warden must decide what the kingdom owes them before the king has told him.
+The garrison's work is the traffic over the frontier. Some of it is lawful: Vilérian merchants with steel, glass and cloth who have paid their passage-gifts to the clans in the Kervaron and their toll at Kávrenath's gate. Much of it is not. Smugglers bring goods round the gate by the valley paths. Imperial deserters come over the passes to sell their swords to the companies. In a bad year on the far side of the mountains, refugees come down the road in hundreds, and the Warden must decide what the kingdom owes them before the king has told him.
 
 ## The Companies of the Valleys
 
@@ -42,7 +42,7 @@ Kávrenath belongs to the [[affiliation-kngdmstrth|Kingdom of Asturath]]. The Wa
 
 - **The deserters' price.** A band of imperial deserters has come over the passes with good armor and a captain, and they want to sign on with a valley company that already has one.
 - **The refugee road.** Two hundred people are camped below the town gate. The Warden has orders to send them back over the Kervaron, and the orders are a month old.
-- **A toll unpaid.** A Vylarian merchant swears he paid his gift to the clans and his toll at the gate. The clans say he paid neither, and the Warden's clerk has a receipt.
+- **A toll unpaid.** A Vilérian merchant swears he paid his gift to the clans and his toll at the gate. The clans say he paid neither, and the Warden's clerk has a receipt.
 
 ## See Also
 

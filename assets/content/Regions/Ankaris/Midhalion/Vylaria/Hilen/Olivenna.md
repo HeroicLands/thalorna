@@ -3,7 +3,7 @@ shortcode: olivenna
 name: {full: Olivenna}
 type: place
 subType: settlement
-description: "A town of presses and oil-merchants in Hilen's olive country, among groves of very old trees, whose press-owning families guard their groves and pressing-rights jealously and whose sealed amphorae of oil travel across the Vylarian Sea."
+description: "A town of presses and oil-merchants in Hilen's olive country, among groves of very old trees, whose press-owning families guard their groves and pressing-rights jealously and whose sealed amphorae of oil travel across the Vilérian Sea."
 tags: [town]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-You smell Olivenna before you see it. The town of five thousand lies in [[place-hylen|Hilen]]'s olive country and is built of presses and oil-merchants, and its sealed amphorae of olive oil travel across the [[place-vylarianse|Vylarian Sea]].
+You smell Olivenna before you see it. The town of five thousand lies in [[place-hylen|Hilen]]'s olive country and is built of presses and oil-merchants, and its sealed amphorae of olive oil travel across the [[place-vylarianse|Vilérian Sea]].
 
 Its prosperity rises and falls with the olive harvest and with the price of oil in distant markets. The press-owning families guard their groves and their pressing-rights jealously, and a stranger who asks whose press is the best will be told, in each house, that it is that house's.
 
@@ -62,7 +62,7 @@ The [Lamp]{.name data-type="place/structure"}, on the square, is the town's inn 
 [[place-hylen|Hilen]]
 : the land of its olive country
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[affiliation-lizelas|Faith of Lizelas]]

@@ -227,4 +227,4 @@ The sin is the welcome. The crown's cordiality to the Order is warm and sincere,
 
 The full dictionary is in the [[skill-elvndrlng#lexicon|Élavendri Language note]].
 
-Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Viléria]].

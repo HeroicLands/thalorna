@@ -3,7 +3,7 @@ shortcode: zrmlshlrkls
 name: {full: Zarmelas Helarkales, en: [The Orzas, The Old Orzas]}
 type: being
 subType: npc
-description: "The reigning Orzas of the Vylarian Empire: seventy-eight, failing, and the adopter of nobody, who has no cash and keeps the power to proscribe a house, to raise one, and to sell what the throne can grant."
+description: "The reigning Orzas of the Vilérian Empire: seventy-eight, failing, and the adopter of nobody, who has no cash and keeps the power to proscribe a house, to raise one, and to sell what the throne can grant."
 tags: []
 data:
   icon: icon-person
@@ -43,7 +43,7 @@ Zarmelas Helarkales is a 78-year-old man who stands 5'9" tall and has wasted to 
 
 # Dossier {#dossier}
 
-Zarmelas Helarkales is the reigning Orzas of the [[affiliation-vylarinmpr|Vylarian Empire]], the sovereign whose name is hallowed like a god's and who rules from the [[place-palvar|Palvar]] in the Inner City of [[place-orzara|Orzara City]]. He is old, he is ill, and he has adopted nobody. Every great house, the [[affiliation-seldan|Seldan]], [[affiliation-sorvan|the Imperial Guard]] and every man who hopes to be named are counting what that will cost. Three names are spoken of on the Heights: [[being-klvnsmrdvns|Kolvenas Mardovanes]] of the Grain House, the Senate's choice; [[being-hlzrsvndrn|Halzoras Vendaren]], a legate and the Guard's favorite; and [[being-dlmrsvrklns|Dalmeras Varkalenis]], the old houses' man.
+Zarmelas Helarkales is the reigning Orzas of the [[affiliation-vylarinmpr|Vilérian Empire]], the sovereign whose name is hallowed like a god's and who rules from the [[place-palvar|Palvar]] in the Inner City of [[place-orzara|Orzara City]]. He is old, he is ill, and he has adopted nobody. Every great house, the [[affiliation-seldan|Seldan]], [[affiliation-sorvan|the Imperial Guard]] and every man who hopes to be named are counting what that will cost. Three names are spoken of on the Heights: [[being-klvnsmrdvns|Kolvenas Mardovanes]] of the Grain House, the Senate's choice; [[being-hlzrsvndrn|Halzoras Vendaren]], a legate and the Guard's favorite; and [[being-dlmrsvrklns|Dalmeras Varkalenis]], the old houses' man.
 
 He has no money. The throne pays the veterans' pension with silver borrowed from the great houses of [[affiliation-danvar|the Danvar]], rolls the loans over as they fall due and puts nothing by ([[affiliation-tarmex|The Tarmeks Orzan]]). He is not toothless. He can have a man put to death for treason, and the proscription board can strike a house from the rolls and forfeit everything it owns to the treasury. He can also make men: offices, Elevated standing, a Senate grant of the citizenship and the seal on a charter are his to give, and he sells them, quietly, for coin now. The new houses going up on [[place-selvin|Selvin]] are his reign's purchases.
 
@@ -95,7 +95,7 @@ He has no declared enemy and many patient ones.
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: Orzas, holding the title of Lusos, the speaker for the citizen body, for what it lets him block.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: Orzas, holding the title of Lusos, the speaker for the citizen body, for what it lets him block.
 - **[[affiliation-imperialcult|Imperial Cult]]**: Sarnaks Maldor, the cult's chief priest, an office he holds in his own person.
 
 ## Plot Hooks
@@ -114,7 +114,7 @@ What he means to do at the end, this note does not say, and the Orzas may not kn
 
 His sales are recorded in a book his secretary keeps: every office, title and grant sold this reign, with the price and the buyer. It is the throne's best revenue after the fee, and the next Orzas can use it to unmake every house it made. Several buyers would pay heavily to have their entries cut out.
 
-A Vylarian claimant has secretly offered Nartun's priests the proscription of [[affiliation-blackflame|the Black Flame]] in return for their knights and their temple coin behind his adoption. The Orzas has heard of the offer. He does not believe any Orzas could deliver it, because the Black Flame has patrons in the Seldan and preachers on every Circle in the Warrens, and he is curious to see which claimant thinks he can.
+A Vilérian claimant has secretly offered Nartun's priests the proscription of [[affiliation-blackflame|the Black Flame]] in return for their knights and their temple coin behind his adoption. The Orzas has heard of the offer. He does not believe any Orzas could deliver it, because the Black Flame has patrons in the Seldan and preachers on every Circle in the Warrens, and he is curious to see which claimant thinks he can.
 
 **Hook: the fourth deed.** A scrivener of the Gilded Quarter has been paid to draw a fourth adoption deed in the Orzas's hand, perfect to the letter, and leaves the city the next morning. A party is hired by one claimant's household to find the scrivener before another claimant's household does.
 :::

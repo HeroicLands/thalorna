@@ -500,7 +500,7 @@ Eutalash is charismatic, charming, and always thinking ahead. While he reveres f
 
 ### Motivation
 
-Eutalash is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kalestratos harness the power of fire, he can secure a place for himself among the most powerful figures in both [[place-vylariargn|Vylaria]] and Bizaria. He sees Kalestratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
+Eutalash is motivated by his desire to expand his influence and advance the Black Flame’s reach. He believes that by helping Kalestratos harness the power of fire, he can secure a place for himself among the most powerful figures in both [[place-vylariargn|Viléria]] and Bizaria. He sees Kalestratos’s quest as a means to elevate both of them to positions of great power—and to prove, in the process, that the Black Flame’s philosophy is simply the way the world works.
 
 ### Strengths
 
@@ -520,10 +520,10 @@ rival faction
 ## Plot Hooks
 
 The Burning Blade: A Diplomatic Mission Turned Deadly
-: Eutalash is tasked with a diplomatic mission to a rival noble house within Vylaria, where tensions are high. Kalestratos needs their support—or at least their neutrality—but the rival house is known for its unpredictable and aggressive tendencies. Things quickly turn hostile when the rival house accuses Kalestratos of secretly supporting insurgents who have been using fire to terrorize their lands. Eutalash’s role becomes critical as he must navigate a volatile situation where a single misstep could mean war.
+: Eutalash is tasked with a diplomatic mission to a rival noble house within Viléria, where tensions are high. Kalestratos needs their support—or at least their neutrality—but the rival house is known for its unpredictable and aggressive tendencies. Things quickly turn hostile when the rival house accuses Kalestratos of secretly supporting insurgents who have been using fire to terrorize their lands. Eutalash’s role becomes critical as he must navigate a volatile situation where a single misstep could mean war.
 
     Defuse the Situation
-    : Using his silver tongue, Eutalash must calm the situation and prevent an all-out conflict. He’ll need to handle the complex politics of Vylaria, using his diplomatic skills to clear Kalestratos’ name.
+    : Using his silver tongue, Eutalash must calm the situation and prevent an all-out conflict. He’ll need to handle the complex politics of Viléria, using his diplomatic skills to clear Kalestratos’ name.
 
     Uncovering the True Culprit
     : Through negotiation and investigation, Eutalash uncovers that the real insurgents are agents of the [Ashen Circle]{.name data-type="affiliation"}, trying to turn the rival house against Kalestratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
@@ -531,8 +531,8 @@ The Burning Blade: A Diplomatic Mission Turned Deadly
     Negotiating a Truce
     : Once the truth is revealed, Eutalash must broker a truce between the rival house and Kalestratos, turning what could have been a deadly conflict into a political victory.
 
-The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Ústaron
-: Word reaches Eutalash that a powerful relic of Ústaron—the [Torch of Fury]{.name data-type="miscgear"}, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Ústaron and the political power of desert tribes. Recovering it could rally the desert lords behind Kalestratos, strengthening his position.
+The [[place-khzryndsrtrgn|Khazrin Desert]]: Lost Relics of Ústaron
+: Word reaches Eutalash that a powerful relic of Ústaron—the [Torch of Fury]{.name data-type="miscgear"}, said to grant its wielder immense destructive power—has been discovered in the **Khazrin Desert**. The relic is a sacred object tied to both the worship of Ústaron and the political power of desert tribes. Recovering it could rally the desert lords behind Kalestratos, strengthening his position.
 
     However, several factions are also interested in the relic, including rival desert lords and [The Guilded Talon]{.name data-type="affiliation"}. Eutalash could help secure it.
 
@@ -543,9 +543,9 @@ The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Ústaron
     : Guilded Talon and rival desert lords are also searching for the relic. Eutalash must stay ahead of them, using both negotiation and subterfuge to gain an advantage.
 
 Flames of Ambition: A Rival Diplomat
-: A rival diplomat from Vylaria—[Ponakar Drachenos]{.name data-type="being/npc"}, a former acquaintance of Eutalash—has risen to prominence within the [[affiliation-vylarinmpr|empire]] and is now working for a faction that opposes Kalestratos’ efforts. Ponakar’s charm and wit rival Eutalash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
+: A rival diplomat from Viléria—[Ponakar Drachenos]{.name data-type="being/npc"}, a former acquaintance of Eutalash—has risen to prominence within the [[affiliation-vylarinmpr|empire]] and is now working for a faction that opposes Kalestratos’ efforts. Ponakar’s charm and wit rival Eutalash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
 
-    Ponakar’s latest mission is to turn key Vylarian nobles against Kalestratos, convincing them that his pursuit of fire magic is dangerous. Eutalash must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
+    Ponakar’s latest mission is to turn key Vilérian nobles against Kalestratos, convincing them that his pursuit of fire magic is dangerous. Eutalash must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
 
     Diplomatic Duel
     : The core of the conflict is a battle of words between Eutalash and Ponakar, each trying to sway influential nobles to their side. Eutalash must use his charm, political knowledge, and connections to outmaneuver Ponakar.
@@ -557,15 +557,15 @@ Flames of Ambition: A Rival Diplomat
     : If Eutalash can outplay Ponakar, he may even be able to turn the opposing nobles into allies for Kalestratos, securing a major political victory and weakening the opposition’s power base.
 
 The Guilded Talon’s Subversion
-: The **Guilded Talon** has been spreading rumors about Kalestratos across Velisara and other regions. These rumors are beginning to gain traction in Vylaria, threatening to cut off Kalestratos from the vital support he needs.
+: The **Guilded Talon** has been spreading rumors about Kalestratos across Velisara and other regions. These rumors are beginning to gain traction in Viléria, threatening to cut off Kalestratos from the vital support he needs.
 
-    Eutalash, with his deep connections in Vylaria and diplomatic prowess, must handle the complex politics to counter the Guilded Talon’s influence.
+    Eutalash, with his deep connections in Viléria and diplomatic prowess, must handle the complex politics to counter the Guilded Talon’s influence.
 
     Securing Allies
-    : Using his charm and political acumen, Eutalash could sway influential families and rulers in Vylaria to Kalestratos’ side, countering the rumors spread by the Guilded Talon.
+    : Using his charm and political acumen, Eutalash could sway influential families and rulers in Viléria to Kalestratos’ side, countering the rumors spread by the Guilded Talon.
 
     Uncovering the Plot
-    : Eutalash could investigate the origins of the rumors and discover hidden agents of the Guilded Talon operating within Vylaria. He must decide whether to confront them openly or manipulate them into revealing their plans.
+    : Eutalash could investigate the origins of the rumors and discover hidden agents of the Guilded Talon operating within Viléria. He must decide whether to confront them openly or manipulate them into revealing their plans.
 
     Diplomatic Duel
-    : The Guilded Talon sends their own agent to Vylaria, and Eutalash must engage in a battle of wits and diplomacy, outmaneuvering his opponent while keeping Kalestratos’ plans undisrupted.
+    : The Guilded Talon sends their own agent to Viléria, and Eutalash must engage in a battle of wits and diplomacy, outmaneuvering his opponent while keeping Kalestratos’ plans undisrupted.

@@ -152,4 +152,4 @@ Warlan Garanth, the last of that line, has learned that the forfeits in the tall
 - [[place-lisere|Lísere]]
 - [[lore-theasking|The Asking]]
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|the Grove Council]]
-- [[lore-vylrncrncy|Vylarian Currency]]
+- [[lore-vylrncrncy|Vilérian Currency]]

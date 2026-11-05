@@ -185,4 +185,4 @@ The party must decide how to address the ghost ships. Options include:
 - [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[affiliation-arldnpnthn|Aureldian]]
 - [[affiliation-ordoarcanis|Thordimalon]]
-- [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[affiliation-vylarinmpr|Vilérian Empire]]

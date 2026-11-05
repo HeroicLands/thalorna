@@ -51,16 +51,16 @@ The query names the settlements of the pass-roads. The terrace hamlets below the
 
 ## Economy
 
-The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice and worked metal climb north out of the Vedyari plains and over the Grazian summits to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]]. Others take the longer eastern branch into the western marches of [[place-tantsouregin|Tantsou]]. Return caravans bring salt, horses, lapis, amber and the rarer goods of the eastern steppes.
+The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice and worked metal climb north out of the Vedyari plains and over the Grazian summits to the southern edge-towns of the [[place-khzryndsrtrgn|Khazrin]]. Others take the longer eastern branch into the western marches of [[place-tantsouregin|Tantsou]]. Return caravans bring salt, horses, lapis, amber and the rarer goods of the eastern steppes.
 
-The kingdom itself produces copper, tin and iron in modest but steady quantities, from mountain mines worked by hereditary smithing clans. Shikhalayan steel is not as celebrated as Vylarian or even Chandrapuri work. It is serviceable, cheap and reliably supplied, and those are the virtues that matter to [[affiliation-bhumipal|Bhumipal]]'s mercenary companies, who buy arms by the wagonload.
+The kingdom itself produces copper, tin and iron in modest but steady quantities, from mountain mines worked by hereditary smithing clans. Shikhalayan steel is not as celebrated as Vilérian or even Chandrapuri work. It is serviceable, cheap and reliably supplied, and those are the virtues that matter to [[affiliation-bhumipal|Bhumipal]]'s mercenary companies, who buy arms by the wagonload.
 
 The terrain limits highland farming. The great terraced fields of the lower valleys produce rice and barley; the upper slopes graze sheep, goats, and the small mountain cattle whose dried milk-curds are a staple of the Shikhalayan diet and a curiosity the southern courts buy.
 
 ## Notable Features
 
 [[place-suryagarha|Suryagarha]]
-: the stone capital, a fortress-city of forty thousand built across the throat of [[place-suryadvar|Suryadvar]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazryn and northeast for Tantsou. Below the city the terrace road drops through the rice and barley steps to the lowland market towns, and it is the only way anything reaches the capital from inside the kingdom.
+: the stone capital, a fortress-city of forty thousand built across the throat of [[place-suryadvar|Suryadvar]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazrin and northeast for Tantsou. Below the city the terrace road drops through the rice and barley steps to the lowland market towns, and it is the only way anything reaches the capital from inside the kingdom.
 
 [[place-pssshrines|The Pass-Shrines]]
 : a chain of [[affiliation-vrnkpnthn|Varnuka temples]] built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are kept by a hereditary line of ushtakas who live year-round at altitudes that would kill an unaccustomed lowlander within a week.

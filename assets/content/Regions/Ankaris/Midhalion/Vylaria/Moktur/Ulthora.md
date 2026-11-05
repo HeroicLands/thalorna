@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Most of [[place-moktur|Moktur]]'s towns are garrisons, mines or timber camps. Ulthora is a temple town, about two thousand people among the heights of Moktur, the mountainous northern shield of the [[affiliation-vylarinmpr|Vylarian Empire]], a land of mines, timber and fortified valleys on the [[place-vrystwald|Vristwald]] march.
+Most of [[place-moktur|Moktur]]'s towns are garrisons, mines or timber camps. Ulthora is a temple town, about two thousand people among the heights of Moktur, the mountainous northern shield of the [[affiliation-vylarinmpr|Vilérian Empire]], a land of mines, timber and fortified valleys on the [[place-vrystwald|Vristwald]] march.
 
 A watchtower sergeant on the high road, asked which of the province's towns he would choose to be posted to, names Ulthora without hesitating. Everything else on his list is a place to hold or a place to dig, and Ulthora is the one where a soldier's work is not the first thing anyone thinks of.
 
@@ -85,4 +85,4 @@ The inner keep of Kezrora holds a Varokh Shaman. Twelve years ago [Vithwin]{.nam
 
 The Sekran's register for Kezrora does not carry her name. It carries a number, because her name in her own tongue was never written down by anyone who heard it. Zerofon's own logbook has the number too, and beside it, in his hand, the name Vithwin, which he learned from her in the second year by asking every day. He does not have the key to the inner keep, but he feeds its prisoners, and he has spoken with her through the door every week for ten years. He believes she is held against the law, since the Kandrol gives the Sekran its powers over the empire's subjects and she is not one, and he has written to the warden saying so three times. Nethoren Melvarandis has sent the letters on to nobody.
 
-The prisoner who claims to be held without trial is not Vithwin, who cannot write Vylari. The letter is from a man in the outer prison who heard the guards talk of her and thought her story would sell. Zerofon wants the guard named because a guard who sells one letter sells the next, and the next may be the one that tells Gargrund where its Shaman is.
+The prisoner who claims to be held without trial is not Vithwin, who cannot write Vilari. The letter is from a man in the outer prison who heard the guards talk of her and thought her story would sell. Zerofon wants the guard named because a guard who sells one letter sells the next, and the next may be the one that tells Gargrund where its Shaman is.

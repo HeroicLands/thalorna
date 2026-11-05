@@ -104,13 +104,13 @@ The patron families of Kalidria founded the Academy about 260 BF, half a century
 
 ## Art and Influence
 
-The city's theater festivals draw audiences from across the [[place-vylarianse|Vylarian Sea]]. Playwrights premiere their tragedies and comedies here, and a Kalidrian prize is the highest honor a dramatist can receive. Kalidrian sculptors and painters are sought by wealthy patrons across Midhalión, and Kalidrian training is considered the finest available.
+The city's theater festivals draw audiences from across the [[place-vylarianse|Vilérian Sea]]. Playwrights premiere their tragedies and comedies here, and a Kalidrian prize is the highest honor a dramatist can receive. Kalidrian sculptors and painters are sought by wealthy patrons across Midhalión, and Kalidrian training is considered the finest available.
 
 Kalidria's strength lies in influence and not in arms. The patron families use art and social connection as instruments of soft power, and Kalidrian taste shapes fashion, entertainment and courtly manners across the western part of the [[place-ankrscntnnt|Ankaris Continent]].
 
 ## Commerce and Currency
 
-Kalidria uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kalidria uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

@@ -49,7 +49,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 The steward of House Varkalenis gives each new client the same instruction on his first morning at the door: "Stand on the third step, and look at the cupboard, not at the ceiling. Five of those faces were Orzoi, and three of them are gods. The plaster has waited since the fire, and it can wait for you."
 
-House Varkalenis is an _ethlen_ (Gilded) house of [[place-orzara|Orzara]], one of the founding-era families of the Empire, and it still lives on [[place-antel|Antel]], the Old Hill, among the few old houses kept up by families too proud or too poor to leave. The Varkalenis are both. When the last Orzas of the Founder's line died without a son, he named a _felzos_ (legate) of the house to follow him, and the Varkalenis Orzoi who came after opened the Age of Conquest ([[lore-vylariages|The Vylarian Ages]]). The house has not held the throne in centuries, and it has never stopped being the house that held it first after the Founder.
+House Varkalenis is an _ethlen_ (Gilded) house of [[place-orzara|Orzara]], one of the founding-era families of the Empire, and it still lives on [[place-antel|Antel]], the Old Hill, among the few old houses kept up by families too proud or too poor to leave. The Varkalenis are both. When the last Orzas of the Founder's line died without a son, he named a _felzos_ (legate) of the house to follow him, and the Varkalenis Orzoi who came after opened the Age of Conquest ([[lore-vylariages|The Vilérian Ages]]). The house has not held the throne in centuries, and it has never stopped being the house that held it first after the Founder.
 
 ## The House on the Old Hill
 
@@ -93,8 +93,8 @@ House Varkalenis has a claimant and no money. [[being-dlmrsvrklns|Dalmeras Varka
 [[affiliation-seldan|Seldan]]
 : the Senate, where the house holds its seat
 
-[[lore-vylariages|The Vylarian Ages]]
+[[lore-vylariages|The Vilérian Ages]]
 : the Age of Conquest the house's Orzoi opened
 
-[[skill-vylarilng|Vylari]]
+[[skill-vylarilng|Vilari]]
 : how a house is named

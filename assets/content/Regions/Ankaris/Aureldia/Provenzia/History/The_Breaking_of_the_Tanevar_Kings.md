@@ -18,7 +18,7 @@ data:
         - place-aureliane
         - affiliation-vylarinmpr
       summary: >-
-        The legions land below Aurelane and march north-east up the river roads. The Tanevar kings gather their hosts at Lake Tiravel, the richest basin they hold, and are broken on the shore; many are driven into the water. The province of the West is made, with Aurelane its capital. The Vylarian record of the battle burns with the archive on Arvel, and Provénzians keep only the ground's name.
+        The legions land below Aurelane and march north-east up the river roads. The Tanevar kings gather their hosts at Lake Tiravel, the richest basin they hold, and are broken on the shore; many are driven into the water. The province of the West is made, with Aurelane its capital. The Vilérian record of the battle burns with the archive on Arvel, and Provénzians keep only the ground's name.
       standing: attested
       names:
         - {name: Tiravlen, by: place-bldfldtiravlen}
@@ -54,15 +54,15 @@ data:
             Once a year the line breaks again, out over the water, and the lake takes the ones who ran.
           agrees: full
       unresolved:
-        - the name of the Vylarian felzos who led the landing
+        - the name of the Vilérian felzos who led the landing
         - how many of the Tanevar kings were taken alive
 ---
 
-The anniversary of Tiravlen is kept indoors by the lake villages of [[place-bldfldtiravlen|Tiravlen keep the anniversary indoors]], and they cannot say what it commemorates. The Vylarian dispatch that named the battle burned with the imperial archive on [[place-arvel|Arvel]] in about 318 AF, and the Tanevar kings who fought it left no record of their own. The ground kept the name and the villages kept the night.
+The anniversary of Tiravlen is kept indoors by the lake villages of [[place-bldfldtiravlen|Tiravlen keep the anniversary indoors]], and they cannot say what it commemorates. The Vilérian dispatch that named the battle burned with the imperial archive on [[place-arvel|Arvel]] in about 318 AF, and the Tanevar kings who fought it left no record of their own. The ground kept the name and the villages kept the night.
 
 ## The March
 
-The legions came ashore below [[place-aureliane|Aurelane]] about 152 AF. The colony on the great road had been a town of Vylarian settlers for two centuries, and it gave them a landing, a road and a gate. They marched north-east up the river roads toward the uplands, where the Tanevar kings held the richest basin they had, the shore of [[place-tiravellake|Lake Tiravel]]. It was the one place worth the cost of fighting for, and the kings gathered their hosts there rather than let it be taken.
+The legions came ashore below [[place-aureliane|Aurelane]] about 152 AF. The colony on the great road had been a town of Vilérian settlers for two centuries, and it gave them a landing, a road and a gate. They marched north-east up the river roads toward the uplands, where the Tanevar kings held the richest basin they had, the shore of [[place-tiravellake|Lake Tiravel]]. It was the one place worth the cost of fighting for, and the kings gathered their hosts there rather than let it be taken.
 
 ## The Shore
 
@@ -85,4 +85,4 @@ The [[affiliation-vylarinmpr|Empire]] made Aurelane the capital of the [province
 - [[place-bldfldtiravlen|The Blood-field of Tiravlen]]—the ground the battle left
 - [[place-tiravellake|Lake Tiravel]]
 - [[lore-aurelianefound|The Founding of Aurelane]]—the colony the legions landed beside
-- [[lore-westernwars|The Western Wars]]—the Vylarian conquests it belongs to
+- [[lore-westernwars|The Western Wars]]—the Vilérian conquests it belongs to

@@ -3,7 +3,7 @@ shortcode: tamzirbattle
 name: {full: The Battle of Tamzir Shoals, en: [Battle of Tamzir Shoals, The Shoals]}
 type: lore
 subType: history
-description: "In the early summer of 708 AF the largest squadron the Vylarian Empire had sent into the eastern sea follows the Taruzelian flotilla into the Tamzir Shoals and is destroyed there in two days; the island garrisons fall within months, and Vylaria recognizes the Confederation within the year."
+description: "In the early summer of 708 AF the largest squadron the Vilérian Empire had sent into the eastern sea follows the Taruzelian flotilla into the Tamzir Shoals and is destroyed there in two days; the island garrisons fall within months, and Viléria recognizes the Confederation within the year."
 tags: [history, taruzel, aftershoals]
 data:
   culture: taruzelianclt
@@ -22,7 +22,7 @@ data:
         - place-yamuzel2
         - lore-paidattheshoals
       summary: >-
-        A Vylarian squadron of some forty warships sails from Kastamar to break the blockade of the island channels and relieve the garrisons. The Taruzelian flotilla shows itself at the edge of the Tamzir Shoals and withdraws into them, the imperial admiral follows, and his deep-keeled ships take the sand on the falling tide. Over two days fishing boats with rams, harbor boats of archers, fire-boats and the merchant warships burn, board or wreck the squadron; the admiral is killed, six warships are taken, and the rest burn or break up in the Shoals.
+        A Vilérian squadron of some forty warships sails from Kastamar to break the blockade of the island channels and relieve the garrisons. The Taruzelian flotilla shows itself at the edge of the Tamzir Shoals and withdraws into them, the imperial admiral follows, and his deep-keeled ships take the sand on the falling tide. Over two days fishing boats with rams, harbor boats of archers, fire-boats and the merchant warships burn, board or wreck the squadron; the admiral is killed, six warships are taken, and the rest burn or break up in the Shoals.
       standing: attested
       names:
         - {name: the Battle of Tamzir Shoals, by: affiliation-cnfdrtntrzlnstts}
@@ -87,7 +87,7 @@ data:
         reach:
           - place: place-taruzelrgn
             how: >-
-              the Vylarian forts on the coasts stand empty or in Taruzelian hands, and no therkos governs in the islands
+              the Vilérian forts on the coasts stand empty or in Taruzelian hands, and no therkos governs in the islands
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: signatory}
@@ -106,7 +106,7 @@ data:
 # terran_analog: "Salamis and the Armada's end on the Irish coast, shoal water and small craft against heavy ships; the Dutch fireships. Departs: the defeated fleet is the imperial one, it is wrecked in two days in water chosen for it, and its hulls stay where they sank."
 ---
 
-In the veterans' halls of [[place-yamuzel2|Yamuzel]] the Battle of Tamzir Shoals is counted as two days and one night, and the old men give the night the most time. The battle was fought on the thirteenth and fourteenth of Brazemandi in 708, in the [[place-tamzirshoals|Tamzir Shoals]] west of [[place-khamisar|Khamisar]], and at its end the Vylarian Empire had no fleet in the eastern sea. The Confederation keeps the second day, the day of the victory, as its own: Yamuzel holds the [[lore-fleetreview|Fleet Review]] on it every year.
+In the veterans' halls of [[place-yamuzel2|Yamuzel]] the Battle of Tamzir Shoals is counted as two days and one night, and the old men give the night the most time. The battle was fought on the thirteenth and fourteenth of Brazemandi in 708, in the [[place-tamzirshoals|Tamzir Shoals]] west of [[place-khamisar|Khamisar]], and at its end the Vilérian Empire had no fleet in the eastern sea. The Confederation keeps the second day, the day of the victory, as its own: Yamuzel holds the [[lore-fleetreview|Fleet Review]] on it every year.
 
 ## The Squadron
 

@@ -439,7 +439,7 @@ He has none. The town's innkeepers like him and the farm folk feed him.
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-lusinia|Faith of Lusinia]]**: one of the lay faithful, the Devran, who keeps the World-Weaver's feasts without office in the temple.
 
 ## Plot Hooks

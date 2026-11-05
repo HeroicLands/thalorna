@@ -444,7 +444,7 @@ He will not change a method he trusts, he cannot persuade by words, and he has m
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-lizelas|Faith of Lizelas]]**: a _sarnor_, an ordained priest and healer, the senior priest of the faith on the Tirellan circuit.
 
 ## Plot Hooks

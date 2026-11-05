@@ -40,7 +40,7 @@ Zedmo Galtsuregi is a 48-year-old man who stands 5'9" tall and is of medium buil
 
 # Dossier {#dossier}
 
-Zedmo Galtsuregi is the _thrumar_ (captain) of [[affiliation-goitsathal|Goitsa Thal]], the crossbow company of the valleys above [[place-kavrenath|Kávrenath]] that holds the imperial road-head below the [[place-kervaron|Kervaron Spine]] for the [[affiliation-vylarinmpr|Vylarian Empire]]. He is a son of an old mountain house of [[place-asturath|Asturath]], and he went down the valley to the company at sixteen, as his father and his grandfather had. He has been its captain for eleven years and has held the road for nine of them.
+Zedmo Galtsuregi is the _thrumar_ (captain) of [[affiliation-goitsathal|Goitsa Thal]], the crossbow company of the valleys above [[place-kavrenath|Kávrenath]] that holds the imperial road-head below the [[place-kervaron|Kervaron Spine]] for the [[affiliation-vylarinmpr|Vilérian Empire]]. He is a son of an old mountain house of [[place-asturath|Asturath]], and he went down the valley to the company at sixteen, as his father and his grandfather had. He has been its captain for eleven years and has held the road for nine of them.
 
 His company calls him by an earned name, the Reader, for the habit that defines him. He cannot read, and he has had every contract the company has sworn under him read aloud to him at the oath stone until he could say it back. When an imperial officer rides up to the fort with a demand, Zedmo says the relevant clause from memory and asks the officer to show him where the demand is written. Nobody has found it.
 
@@ -70,7 +70,7 @@ His companion, [Oltremo Ugarreta]{.name data-type="being/npc"}, rides beside him
 
 ### Patrons
 
-The company's paymaster is the empire, through the war council of [[affiliation-vylrnmltry|The Vylarian Military]], and Zedmo treats the war council's clerks with exact courtesy and no warmth. The Warden of the March at Kávrenath, the king of Asturath's officer for the frontier, is the authority he answers to at home.
+The company's paymaster is the empire, through the war council of [[affiliation-vylrnmltry|The Vilérian Military]], and Zedmo treats the war council's clerks with exact courtesy and no warmth. The Warden of the March at Kávrenath, the king of Asturath's officer for the frontier, is the authority he answers to at home.
 
 ### Enemies
 

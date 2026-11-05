@@ -17,7 +17,7 @@ Vaelith is the only moon of [[place-worldthlrn|the World of Thalorna]], 3,800 ki
 
 ## The Cycle
 
-Vaelith turns new to new in exactly thirty days, and it was new on **720/1/1**, the same day [[lore-commoncal|the Vylarian Calendar]] opens its year and the day the setting's present begins.
+Vaelith turns new to new in exactly thirty days, and it was new on **720/1/1**, the same day [[lore-commoncal|the Vilérian Calendar]] opens its year and the day the setting's present begins.
 
 :::secret
 **For the GM:** A campaign that opens on that date begins under a new moon, on the first morning of spring.
@@ -33,7 +33,7 @@ The same five-day remainder, carried across years instead of months, gives Thalo
 
 ## What Each People Calls It
 
-Vaelith is the Vylarian name for the moon, met first in this corpus because it is the name these pages use—not because it is more correct than any other name. Every people that watches the sky has its own word for the same body.
+Vaelith is the Vilérian name for the moon, met first in this corpus because it is the name these pages use—not because it is more correct than any other name. Every people that watches the sky has its own word for the same body.
 
 **Ts'uqal** is Itsani for moonlight, glossed beside _K'inish_ (Sunlight) and _Ish'ilan_ (Star) in the [[skill-kiichek|Ki'i'chek]] celestial lexicon. It also names a goddess, [[lore-naliktzuqaldty|Nal'ik Ts'uqal]], the Dreamer in Moonlight, whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by [[skill-chlxplmscrpt|Ch'alish P'ilam]].
 
@@ -46,7 +46,7 @@ Vaelith is the Vylarian name for the moon, met first in this corpus because it i
 [[place-worldthlrn|The World of Thalorna]]
 : the 365-day year Vaelith's cycle runs against
 
-[[lore-commoncal|The Vylarian Calendar]]
+[[lore-commoncal|The Vilérian Calendar]]
 : opens its year on the day Vaelith was last new
 
 [[lore-khzrnclndr|The Tellumi Calendar]]

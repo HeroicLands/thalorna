@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Ghotakur**, "the forest people", are a [[lore-sowidesclt|Sovidur]] tribe of the northern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], east of the [[affiliation-svghrtrb|Savaghur]], where the steppe gives out against the spruce of [[place-gwtkrrgn|Ghotaqor]]. They herd horses and sheep like any tribe of the grass, and every winter their men leave the herds and go north into the forest to mend a wall. Nobody living knows how it was built, and the Ghotakur keep it because their fathers kept it.
+The **Ghotakur**, "the forest people", are a [[lore-sowidesclt|Sovidur]] tribe of the northern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], east of the [[affiliation-svghrtrb|Savaghur]], where the steppe gives out against the spruce of [[place-gwtkrrgn|Ghotaqor]]. They herd horses and sheep like any tribe of the grass, and every winter their men leave the herds and go north into the forest to mend a wall. Nobody living knows how it was built, and the Ghotakur keep it because their fathers kept it.
 
 ## The Range
 

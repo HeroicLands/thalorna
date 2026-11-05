@@ -66,7 +66,7 @@ The [Sheaf and Sickle]{.name data-type="place/structure"}, inside the gate, is t
 [[place-hylen|Hilen]]
 : the province its estate-lords look toward
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 # The Truth of Therkara {#truth .secret}

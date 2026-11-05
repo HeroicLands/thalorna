@@ -58,7 +58,7 @@ An elder knight, receiving a new novice at the gate of the chapter house, gives 
 
 Every house of the order keeps a lamp that is never let go out, and the lamp is the order's sign and its rite. A chapel is a plain hall of whitewashed stone with one window toward the road and the lamp in it, so that the order's houses are known at night by a single steady light. The knights keep the lamp in turns, one at a time, through every night of the year, and a knight's oath is sworn to it.
 
-The rites are said in Nartun's ritual dialect, the oldest form of [[skill-vylarilng|Vylari]] still spoken, and in that dialect Ústaron's fire is _karvila_, the Flame. In the empire the god's orthodox faith calls itself [[affiliation-sacredforge|the Sacred Forge]], and its own hearths and anvils are its signs. The order shares that faith in everything but the word, and its knights pray in the Forge-priests' temples when they travel. The word puts it at odds with [[affiliation-blackflame|the Black Flame]], whose priests claim the Flame as their faith's own name and call the knights the other Flame. The Black Flame is the enemy the order was raised against, and its knights hold that a faith which burns for the joy of burning has stolen the god's word.
+The rites are said in Nartun's ritual dialect, the oldest form of [[skill-vylarilng|Vilari]] still spoken, and in that dialect Ústaron's fire is _karvila_, the Flame. In the empire the god's orthodox faith calls itself [[affiliation-sacredforge|the Sacred Forge]], and its own hearths and anvils are its signs. The order shares that faith in everything but the word, and its knights pray in the Forge-priests' temples when they travel. The word puts it at odds with [[affiliation-blackflame|the Black Flame]], whose priests claim the Flame as their faith's own name and call the knights the other Flame. The Black Flame is the enemy the order was raised against, and its knights hold that a faith which burns for the joy of burning has stolen the god's word.
 
 ## Joining the Order
 
@@ -89,7 +89,7 @@ The Master of the Order is an elder knight chosen for life by the council of eld
 [[affiliation-blackflame|The Black Flame]]
 : the enemy the order was raised against, which claims the order's word for its own.
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the power whose legions turned back from the walls the order holds, and which tolerates the Black Flame.
 
 ## What It Wants Now {#present}

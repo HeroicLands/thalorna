@@ -90,7 +90,7 @@ profess differently. That asymmetry is the whole shape of Okharik religious life
 An Okharik villager goes to the pyramid at the turning of the year and to the cairn when the river
 is wrong.
 
-To outsiders this is incomprehensible. Au'Khelathu priests and Vylarian factors have written the
+To outsiders this is incomprehensible. Au'Khelathu priests and Vilérian factors have written the
 Okharics down as muddled, as syncretists, as people who have not finished deciding—and the
 question they keep asking, which of the two is really believed, is one no Okharik can find a use
 for. To insiders it is not a compromise between two systems. It is simply the natural order of

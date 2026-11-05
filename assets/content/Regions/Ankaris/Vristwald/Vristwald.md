@@ -31,7 +31,7 @@ South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless in
 
 ## Geography
 
-Vristwald occupies the forest country between the Nordmal [[affiliation-kngdmvthgrd|kingdoms of Vithgard]] and [[affiliation-kngdmnrdhm|Nordheim]] to the north, Velanthia to the east, and [[place-tarvenirgn|Tarvénia]] and the [[affiliation-vylarinmpr|Vylarian Empire]]'s [[place-vylariargn|Vylaria]] to the south. It covers some eighty-five thousand square miles: a main block about 370 miles east to west and 300 north to south, and a western arm that runs another 250 miles along the north shore of the bay facing [[place-elavendre|Élavendre]]. The landscape is dominated by:
+Vristwald occupies the forest country between the Nordmal [[affiliation-kngdmvthgrd|kingdoms of Vithgard]] and [[affiliation-kngdmnrdhm|Nordheim]] to the north, Velanthia to the east, and [[place-tarvenirgn|Tarvénia]] and the [[affiliation-vylarinmpr|Vilérian Empire]]'s [[place-vylariargn|Viléria]] to the south. It covers some eighty-five thousand square miles: a main block about 370 miles east to west and 300 north to south, and a western arm that runs another 250 miles along the north shore of the bay facing [[place-elavendre|Élavendre]]. The landscape is dominated by:
 
 The **northern taiga**
 : a belt of boreal forest of spruce, pine, fir, and birch along the Nordmal border, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vristwaldi export.
@@ -45,7 +45,7 @@ The [[place-vrystwldrvrs|great river systems]]
 The **eastern frontier**
 : the fluid border with Velanthia, where Vristwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
 
-Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edriwald|Edriwald]] turns around the bay toward Élavendre; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaria. These are descriptions of ground and contact, not governments. [[place-vethwald|Vethwald]], the Deepwood, lies within the forest interior.
+Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edriwald|Edriwald]] turns around the bay toward Élavendre; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Viléria. These are descriptions of ground and contact, not governments. [[place-vethwald|Vethwald]], the Deepwood, lies within the forest interior.
 
 The climate is harsh-continental: long bitter winters with deep snow, brief warm summers, distinct spring thaw and autumn freeze. Sunlight is filtered by the canopy through most of the year; the open river-valleys and the lake-shores get the direct sun the deep forest never sees.
 
@@ -59,7 +59,7 @@ organized for conquest, and they had the forest and the rivers for a very long t
 disturbed them.
 
 Then the Varkhad came out of the further east—a fierce people, kin to the
-ancestors of the [[place-khzryndsrtrgn|Khazryn desert folk]]—and took it ([[lore-varkhadcnq|The Varkhad Conquest]]). They did not exterminate the
+ancestors of the [[place-khzryndsrtrgn|Khazrin desert folk]]—and took it ([[lore-varkhadcnq|The Varkhad Conquest]]). They did not exterminate the
 Pelwar; over generations they **married into them**, until the two stocks could no longer be told apart
 and the result was the Varokh. The same process, further west and north, produced the
 Nordmen.
@@ -226,7 +226,7 @@ The shape of the trade follows from having no cities. The Varokh are not a plant
 not be: a village keeps a few captives to work and to marry into, and everything else goes **down the
 river**. Vristwald is a **conduit** rather than a destination—people taken on the Velanthian frontier or
 off a raided coast, moved by water, and sold on to Nordmen buyers, to eastern traders working up from the
-Khazryn margins, and through enough intermediaries that the eventual purchaser is
+Khazrin margins, and through enough intermediaries that the eventual purchaser is
 seldom aware of where the goods entered the system.
 
 The Aureldian kingdoms deplore this and buy the furs, which travel the same rivers in the same boats.
@@ -309,9 +309,9 @@ outlasted every enemy it ever had without ever once threatening to conquer one.
 
 ## Culture and Society
 
-Each Varokh village has its own triad of elders and its own war-band. Villages distrust and often fight one another. When imminent danger demands several villages' strength, their elders can agree on a joint response and raise a common War Chief; both the agreement and his wider command end with that response. This brief unity has broken more than one Vylarian legion without leaving a government behind it.
+Each Varokh village has its own triad of elders and its own war-band. Villages distrust and often fight one another. When imminent danger demands several villages' strength, their elders can agree on a joint response and raise a common War Chief; both the agreement and his wider command end with that response. This brief unity has broken more than one Vilérian legion without leaving a government behind it.
 
-Varokh culture prizes personal courage, loyalty to one's war-band, and a deep reverence for the forest and its spirits. Their oral traditions are rich with tales of giant-slayers, spirit-walkers, and great heroes whose deeds echo through the ages. Craftwork—particularly woodcarving, leatherwork, and ironsmithing—is highly valued, and Varokh weapons, while less refined than Vylarian steel, are sturdy and effective.
+Varokh culture prizes personal courage, loyalty to one's war-band, and a deep reverence for the forest and its spirits. Their oral traditions are rich with tales of giant-slayers, spirit-walkers, and great heroes whose deeds echo through the ages. Craftwork—particularly woodcarving, leatherwork, and ironsmithing—is highly valued, and Varokh weapons, while less refined than Vilérian steel, are sturdy and effective.
 
 Settlements range from small forest homesteads to hilltop fortresses surrounded by timber palisades. The Varokh practice a mix of agriculture and hunting, with the forest providing much of their sustenance.
 
@@ -325,7 +325,7 @@ The village's rites are its own, even when a visitor or a household member bring
 
 Legends tell of giants who once roamed these lands, and of great heroes whose spirits still protect the people. The deep forests are said to harbor ancient powers—fae creatures, elemental spirits, and the lingering echoes of whatever civilization left the crumbling ruins that dot the landscape. The Varokh's magical traditions are rooted in nature: herbalism, divination through natural signs, and communion with forest spirits.
 
-The [[affiliation-ordoarcanis|Thordimalon]] considers Vristwald a lawless frontier and has made periodic attempts to extend its authority here, always with limited success. The Varokh view the Arcane Order as just another face of Vylarian imperial overreach.
+The [[affiliation-ordoarcanis|Thordimalon]] considers Vristwald a lawless frontier and has made periodic attempts to extend its authority here, always with limited success. The Varokh view the Arcane Order as just another face of Vilérian imperial overreach.
 
 ## Relations
 
@@ -337,17 +337,17 @@ The Grukar are not a rival people but something wholly alien, and nothing passes
 
 To the **east** lies [[place-velanthrgn|Velanthia]]. The Vristwald-Velanthian frontier is the most permeable border in the region: the Varokh forest peoples and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations. The Velanthian princes consider those frontier tribes useful auxiliaries and unreliable subjects in approximately equal measure.
 
-Farther east, beyond Velanthia, lie the [[place-khzryndsrtrgn|Khazryn]] steppes. Contact with the steppe peoples passes chiefly through Velanthian intermediaries and the fur trade.
+Farther east, beyond Velanthia, lie the [[place-khzryndsrtrgn|Khazrin]] steppes. Contact with the steppe peoples passes chiefly through Velanthian intermediaries and the fur trade.
 
-The [[affiliation-vylarinmpr|Vylarian Empire]] lies to the south and southeast. Its reach in earlier centuries extended into Vristwald's southern margins; the crumbling ruins of long-abandoned Vylarian forward posts remain in the forests and are picked over by generations of Varokh treasure-hunters.
+The [[affiliation-vylarinmpr|Vilérian Empire]] lies to the south and southeast. Its reach in earlier centuries extended into Vristwald's southern margins; the crumbling ruins of long-abandoned Vilérian forward posts remain in the forests and are picked over by generations of Varokh treasure-hunters.
 
 ## Notable Features
 
 [[place-vethwald|The Deepwood]]
 : An ancient central forest so dense that sunlight barely reaches the floor. Home to some of the most traditional Varokh villages and reputed to be filled with supernatural beings.
 
-The Vylarian Ruins
-: Crumbling forts, roads, and settlements from the high-imperial Vylarian eastern reach, now overgrown and reclaimed by the southeastern forest. Some are believed to hold buried treasures or ancient secrets.
+The Vilérian Ruins
+: Crumbling forts, roads, and settlements from the high-imperial Vilérian eastern reach, now overgrown and reclaimed by the southeastern forest. Some are believed to hold buried treasures or ancient secrets.
 
 The Common Council
 : A brief gathering of village elders when imminent danger requires several villages to act together. The agreement ends with their response.
@@ -369,10 +369,10 @@ The Common Council
 [[place-velanthrgn|Velanthia Region]]
 : eastern neighbor and most permeable frontier
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : farther east, beyond Velanthia
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : southern imperial power, source of the forest ruins
 
 [[skill-varokhlng|Varokhi]]

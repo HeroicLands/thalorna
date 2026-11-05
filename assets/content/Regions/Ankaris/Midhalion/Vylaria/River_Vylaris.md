@@ -3,7 +3,7 @@ shortcode: vylarisrvr
 name: {full: River Vylaris, vyl: [Vilaras]}
 type: place
 subType: feature
-description: "The river the Vylarian heartland is named for, which carries the capital's grain down from the inland landings and its sea cargoes up from Elissara, and reaches the sea through a fan of reed-marsh channels called the Mouths."
+description: "The river the Vilérian heartland is named for, which carries the capital's grain down from the inland landings and its sea cargoes up from Elissara, and reaches the sea through a fan of reed-marsh channels called the Mouths."
 tags: []
 data: {demonym: null, lore: [], parents: [vylariargn], population: null, packFolder: vylaria}
 ---
@@ -18,7 +18,7 @@ Orzara stands on the river's eastern bank, beneath the [[place-sixhillsvyl|Six H
 
 ## The Name
 
-In the [[skill-vylarilng|Vylari Language]] the river is Vilaras, and it carries the hallowed ending a god's name takes. It is the only river in the language that does. The empire was born beside it, and the land and its people take their name from it, so a Vylarian swearing by the river swears by something nearer a god than a road. A boatman's oath on a bargain is sworn with a hand in the water, and a boatman who breaks one is not hired again on any landing between the hills and the sea.
+In the [[skill-vylarilng|Vilari Language]] the river is Vilaras, and it carries the hallowed ending a god's name takes. It is the only river in the language that does. The empire was born beside it, and the land and its people take their name from it, so a Vilérian swearing by the river swears by something nearer a god than a road. A boatman's oath on a bargain is sworn with a hand in the water, and a boatman who breaks one is not hired again on any landing between the hills and the sea.
 
 ## The Upper River
 
@@ -36,9 +36,9 @@ Below the capital the Vylaris is broad, brown and slow, winding between levees t
 
 ## The Mouths
 
-The last miles of the river are not a river at all. Below the estates it splits into the [Mouths]{.name data-type="place/feature"} (Vylari Kozmai), a fan of channels, reed-marsh, mudflats and salt-meadow that spreads along the coast wider than the capital and changes its shape with every winter's flood. Only one channel is kept open for ships: the main channel, which runs past the stone mole and its light into Elissara's harbor, and which the city dredges, stakes and lights at its own charge under its charter.
+The last miles of the river are not a river at all. Below the estates it splits into the [Mouths]{.name data-type="place/feature"} (Vilari Kozmai), a fan of channels, reed-marsh, mudflats and salt-meadow that spreads along the coast wider than the capital and changes its shape with every winter's flood. Only one channel is kept open for ships: the main channel, which runs past the stone mole and its light into Elissara's harbor, and which the city dredges, stakes and lights at its own charge under its charter.
 
-The rest of the Mouths silts as it pleases. The largest of the other channels is the [Reed Mouth]{.name data-type="place/feature"} (Vylari Sulkozma), which carried ships within living memory of the oldest boatmen and now carries a laden skiff at high water and nothing at low. Eel-fishers and fowlers work the marsh in season from reed huts on stilts, cattle graze the salt-meadows in summer, and the reed is cut every winter for thatch and sold up the river. The marsh breeds fever in the hot months, and the fishers leave it then.
+The rest of the Mouths silts as it pleases. The largest of the other channels is the [Reed Mouth]{.name data-type="place/feature"} (Vilari Sulkozma), which carried ships within living memory of the oldest boatmen and now carries a laden skiff at high water and nothing at low. Eel-fishers and fowlers work the marsh in season from reed huts on stilts, cattle graze the salt-meadows in summer, and the reed is cut every winter for thatch and sold up the river. The marsh breeds fever in the hot months, and the fishers leave it then.
 
 The side channels are also the oldest smuggling road on the coast. A cargo landed from a small boat in the reeds and carried inland by night pays neither Elissara's dues nor the imperial customs, and the boatmen of [[place-tholkezora|Tholkezora]] know the channels better than the customs men do.
 
@@ -69,7 +69,7 @@ The river carries the capital's bread, and the capital has about a week of it in
 [[place-orzara|Orzara]]
 : the capital on its eastern bank
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the land it names
 
 # The Truth of the River {#truth .secret}

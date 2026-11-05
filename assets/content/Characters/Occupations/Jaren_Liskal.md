@@ -399,7 +399,7 @@ Jaren Liskal is a 39-year-old woman who stands 5'6" tall and is slender. She has
 
 Jaren Liskal is a toymaker of [[place-jalnazdal|Jalnasdal]], the capital of [[place-provenzrgn|Provénzia]], a [[lore-provenzianclt|Provénzian]] freewoman who makes wooden toys, dolls and small models in a workshop off the harbor quarter.
 
-Jaren learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through [[place-kalveza|Kalveza]] from [[place-vylariargn|Vylaria]] and sells at a third of her price, and Jaren, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
+Jaren learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through [[place-kalveza|Kalveza]] from [[place-vylariargn|Viléria]] and sells at a third of her price, and Jaren, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
 
 ## Psyche
 
@@ -427,7 +427,7 @@ Jaren's patrons are the households of the court's officers, who buy her toys for
 
 ### Enemies
 
-The importing houses that bring in Vylarian turned toys through Kalveza and sell them by the gross, and a stall-holder who sells copies of her animals carved by nobody in particular.
+The importing houses that bring in Vilérian turned toys through Kalveza and sell them by the gross, and a stall-holder who sells copies of her animals carved by nobody in particular.
 
 ## Plot Hooks
 

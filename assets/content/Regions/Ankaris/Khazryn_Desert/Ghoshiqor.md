@@ -3,7 +3,7 @@ shortcode: hskrrgn
 name: {full: Ghoshiqor, en: [The Central Sands]}
 type: place
 subType: region
-description: "The heart of the Khazryn—more than a thousand miles of sand seas and gravel reaches round a dead lake basin, with the wells of a lost league of tower cities and the market-camp where the road changes hands."
+description: "The heart of the Khazrin—more than a thousand miles of sand seas and gravel reaches round a dead lake basin, with the wells of a lost league of tower cities and the market-camp where the road changes hands."
 tags: [region]
 data:
   demonym: null
@@ -21,7 +21,7 @@ data:
 
 On the thirtieth day out from the [[place-eastrnmrch|March]] the grass is gone, and on the thirty-second the last water-skin the caravan filled at [[place-yemokwell|Yemok]] goes into the horses. The camels carry on. They have been fed for this, and they walk through the heat of the day with their heads low and their eyes half closed, and the master does not speak of the wells ahead until he sees them.
 
-**Ghoshiqor**, "the sand range" in [[skill-sowideslng|Sovidur]], is the central stretch of the [[place-khzryndsrtrgn|Khazryn]] and the widest. [[lore-celestialroad|The Celestial Road]] runs through it for about 1,150 miles, from Yemok to the second hand-off well at [[place-sowidwell|Sovid]], and takes the better part of two months to cross. Perhaps 330,000 people live in it, spread so thin that a caravan can go a week without sighting a tent.
+**Ghoshiqor**, "the sand range" in [[skill-sowideslng|Sovidur]], is the central stretch of the [[place-khzryndsrtrgn|Khazrin]] and the widest. [[lore-celestialroad|The Celestial Road]] runs through it for about 1,150 miles, from Yemok to the second hand-off well at [[place-sowidwell|Sovid]], and takes the better part of two months to cross. Perhaps 330,000 people live in it, spread so thin that a caravan can go a week without sighting a tent.
 
 ## Land and Water
 
@@ -58,7 +58,7 @@ Beyond the cities there are giant camel spiders at every well, bone scorpions in
 
 ## See Also
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region
 
 [[place-qisomrktcmp|Qiiso]]

@@ -70,21 +70,21 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Tamzir is a weathered trading vessel that works the [[place-vylarianse|Vylarian Sea]]: she is named for the Battle of [[place-tamzirshoals|Tamzir Shoals]], the decisive naval engagement of the Taruzelian War of Independence, and her captain fought in it. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
+The Tamzir is a weathered trading vessel that works the [[place-vylarianse|Vilérian Sea]]: she is named for the Battle of [[place-tamzirshoals|Tamzir Shoals]], the decisive naval engagement of the Taruzelian War of Independence, and her captain fought in it. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
 
 ## Background
 
-Roughly twelve years ago, the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] fought a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-zbzmjkdn|Zabuzum Jakuduni]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
+Roughly twelve years ago, the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] fought a war of independence from the [[affiliation-vylarinmpr|Vilérian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-zbzmjkdn|Zabuzum Jakuduni]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
 
 The Tamzir operates in the gray spaces of maritime law—legitimate trade when it pays, smuggling when it doesn't, and the occasional job that no respectable captain would touch. The crew are not pirates; they have a code, however flexible, and they choose their work. But they live outside the protection of any flag, which means they survive by their wits, their reputation, and each other.
 
 ## The Fugitive Siblings
 
-The crew's most dangerous entanglement is the Serenthis siblings. [[being-lucernsrnt|Lukeros Serenthis]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivella]] from the [[affiliation-ordoarcanis|Thordimalon]], who had been experimenting on her. Kivella is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzir a target.
+The crew's most dangerous entanglement is the Serenthis siblings. [[being-lucernsrnt|Lukeros Serenthis]], a physician from a respected Vilérian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivella]] from the [[affiliation-ordoarcanis|Thordimalon]], who had been experimenting on her. Kivella is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vilérian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzir a target.
 
 ## Shared Enemies
 
-The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Thordimalon]] hunts Kivella and will not stop. Taruzelian guild enforcers hold old debts from the war—grudges that compound with interest. And Vylarian imperial agents, often manipulated by the Order, represent the long arm of an empire that has not forgotten the Taruzelian rebellion or forgiven those who fought in it.
+The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Thordimalon]] hunts Kivella and will not stop. Taruzelian guild enforcers hold old debts from the war—grudges that compound with interest. And Vilérian imperial agents, often manipulated by the Order, represent the long arm of an empire that has not forgotten the Taruzelian rebellion or forgiven those who fought in it.
 
 ## Crew
 
@@ -101,7 +101,7 @@ The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Thor
 
 ## The Ship
 
-The Tamzir is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vylarian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair—[[being-blgnrskn|Belgina]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzir has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
+The Tamzir is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vilérian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair—[[being-blgnrskn|Belgina]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzir has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
 
 ## The Present {#present}
 

@@ -18,7 +18,7 @@ data:
       names:
         - name: Epistémion
           by: place-helionis
-          gloss: the place of all knowledge, the Helonic name the Vylarians kept when the schools came under their rule
+          gloss: the place of all knowledge, the Helonic name the Vilérians kept when the schools came under their rule
       where:
         locus: [place-helionis]
         reach:
@@ -50,7 +50,7 @@ data:
 
 The Founding of the Epistémion established the most significant of the institutions of [[place-helionis|Helionis]]: the
 [[affiliation-panepistmm|Epistémion]]—the _place of all knowledge_, a Helonic name
-the Vylarians kept when the schools came under their rule, and which these pages also call the Academy of Knowledge.
+the Vilérians kept when the schools came under their rule, and which these pages also call the Academy of Knowledge.
 
 It was conceived as a federation of all philosophical inquiry. Each city-state had its own scholarly
 traditions—some emphasizing natural philosophy, others ethics, others the arcane—and the

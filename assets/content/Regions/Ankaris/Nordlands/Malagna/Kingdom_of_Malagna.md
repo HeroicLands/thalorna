@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-"Run your hand down that keel," a master shipwright at [[place-gnarthborg|Gnarthborg]] tells the Vylarian buyer he is walking along the slip, "and then ask me how it was cut." The buyer asks. The shipwright smiles and shows him the next hull. "Look at anything in this yard you like," he says later. "The clans that work here have never given up a hull's lines or a keel's proportions to a stranger, and your price is not the first one offered."
+"Run your hand down that keel," a master shipwright at [[place-gnarthborg|Gnarthborg]] tells the Vilérian buyer he is walking along the slip, "and then ask me how it was cut." The buyer asks. The shipwright smiles and shows him the next hull. "Look at anything in this yard you like," he says later. "The clans that work here have never given up a hull's lines or a keel's proportions to a stranger, and your price is not the first one offered."
 
 The Kingdom of Malagna holds the land of [[place-malagna|Malagna]], and its crown is held by [[being-knghlrthni|King Hlurthann III]], acclaimed at the ting and seated at Gnarthborg. About 340,000 people live under him. Of all the [[lore-nordheimnclt|Nordmen]] realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of the [[place-midhalnrgn|Midhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world. An outsider knows it for its longships, the finest in the north.
 
@@ -126,11 +126,11 @@ The land shows the same range. Gnarthborg's forges run on charcoal that Braldhei
 
 ## Relations
 
-Malagna trades with Élavendre, with the northern communities of Aelwyth, and occasionally with [[place-salkhalon|Salkalon]] and the ports of the [[place-vylarianse|Vylarian Sea]]. Its dealings with the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal and competitive at once: the two kingdoms have long vied for dominance among the Nordmen. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms. The [[affiliation-kingdmnrgd|Kingdom of Norgaad]], the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Malagna nor against it.
+Malagna trades with Élavendre, with the northern communities of Aelwyth, and occasionally with [[place-salkhalon|Salkalon]] and the ports of the [[place-vylarianse|Vilérian Sea]]. Its dealings with the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal and competitive at once: the two kingdoms have long vied for dominance among the Nordmen. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms. The [[affiliation-kingdmnrgd|Kingdom of Norgaad]], the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Malagna nor against it.
 
 ## Commerce and Currency
 
-Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the [[place-nrdlndsrgn|Nordlands]]. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vilérian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the [[place-nrdlndsrgn|Nordlands]]. Vilérian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vilérian banking houses.
 
 ## See Also
 

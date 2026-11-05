@@ -425,7 +425,7 @@ Yovaqbeyuk stands 6'3" tall with a medium build. He has dark tan skin, black hai
 
 ### Early Years in the Desert
 
-Yovaqbeyuk was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazryn Desert]], the second son of a herder family whose reputation for understanding animals was famed even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, [Budaqkenod the Wanderer]{.name data-type="being/npc"}, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, [Lethara of the Morning Star]{.name data-type="being/npc"}, whom he lost to desert sickness when he was only seventeen.
+Yovaqbeyuk was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazrin Desert]], the second son of a herder family whose reputation for understanding animals was famed even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, [Budaqkenod the Wanderer]{.name data-type="being/npc"}, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, [Lethara of the Morning Star]{.name data-type="being/npc"}, whom he lost to desert sickness when he was only seventeen.
 
 ### Trial and Transformation
 
@@ -433,7 +433,7 @@ At twenty, Yovaqbeyuk encountered the great warhorse [Ashenbrand]{.name data-typ
 
 ### Settlement and Complication
 
-Now in his middle years, Yovaqbeyuk has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Yovaqbeyuk considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **[[being-bulaqsovidyo|Bulachsovid]]**, and modernizing forces that view his methods as antiquated.
+Now in his middle years, Yovaqbeyuk has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazrin farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Yovaqbeyuk considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **[[being-bulaqsovidyo|Bulachsovid]]**, and modernizing forces that view his methods as antiquated.
 
 ## Psyche
 
@@ -492,7 +492,7 @@ Desert Lord [Khuvankenod Shadowstep]{.name data-type="being/npc"}
 : A wealthy noble who has employed Yovaqbeyuk for two decades to manage his prized herd of racing camels. Khuvankenod respects Yovaqbeyuk's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
 
 Mistress [Arah]{.name data-type="being/npc"} of the Cooperative
-: The leading figure of [The Farmers' Cooperative of Khazryn]{.name data-type="affiliation"}, Arah recognizes Yovaqbeyuk's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
+: The leading figure of [The Farmers' Cooperative of Khazrin]{.name data-type="affiliation"}, Arah recognizes Yovaqbeyuk's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
 
 The Village Healer [Senna]{.name data-type="being/npc"}
 : An older woman who has recognized that Yovaqbeyuk is fundamentally lonely and has made subtle attempts to include him in village social life. She brings him meals occasionally and treats his injuries, maternal in her concern without being patronizing.
@@ -510,7 +510,7 @@ Rival Trainer [Vex Ironhoof]{.name data-type="being/npc"}
 
 ### Affiliations
 
-The Farmers' Cooperative of Khazryn
+The Farmers' Cooperative of Khazrin
 : Yovaqbeyuk holds membership and the respect of most members, though the organization is increasingly divided between traditionalists who support him and modernizers who view him as an impediment.
 
 [The Desert Shamanic Circle]{.name data-type="affiliation"}

@@ -180,8 +180,8 @@ This encoding writes [[skill-elvndrlng|Élavendri]] in semaron-kuriale. A passag
 - **A doubled _a_, _i_ or _u_ is the long vowel**, a letter of its own with the curl drawn into it. The first letter's case picks the minuscule or the majuscule. _ee_ and _oo_ are two plain vowels.
 - **An acute vowel is the plain vowel.** The Semaron writes no stress.
 - **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_. Acute _ý_ follows the same rule, with no stress mark in the script.
-- **The Vylari grave vowel _à_ carries a catch.** In ancient _tà_, _kà_, _dà_ and _gà_ the stop takes the catch stroke before the plain _a_ is written; the first letter and the vowel each keep their own case. Thus _kàralzon_ keeps its stroke over _k_. Elsewhere _à_ writes _a_ with the stroke over it, as in the Alessa article. These rows write the native letters and catch directly.
-- **Other tongues' catch spellings** (`'`, `’`, a standalone grave accent or a hyphen) set a mark over the preceding letter. With no letter before it, it prints the box. These aliases do not authorize those characters in Vylari.
+- **The Vilari grave vowel _à_ carries a catch.** In ancient _tà_, _kà_, _dà_ and _gà_ the stop takes the catch stroke before the plain _a_ is written; the first letter and the vowel each keep their own case. Thus _kàralzon_ keeps its stroke over _k_. Elsewhere _à_ writes _a_ with the stroke over it, as in the Alessa article. These rows write the native letters and catch directly.
+- **Other tongues' catch spellings** (`'`, `’`, a standalone grave accent or a hyphen) set a mark over the preceding letter. With no letter before it, it prints the box. These aliases do not authorize those characters in Vilari.
 
 - **The numerals** 0 to 9 are the Semaron numerals.
 - **_ë_ is the letter _e_.**

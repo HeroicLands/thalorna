@@ -3,7 +3,7 @@ shortcode: foreignhs
 name: {full: The Closing of the Foreign House}
 type: lore
 subType: history
-description: "In 395 AF the second Gar-Au of the Vylarian house went to the West in the night and no Vylarian claimed the throne; about 398 AF the next house starved the army's garrisons out of the delta forts."
+description: "In 395 AF the second Gar-Au of the Vilérian house went to the West in the night and no Vilérian claimed the throne; about 398 AF the next house starved the army's garrisons out of the delta forts."
 tags: [history, khelathu]
 data:
   culture: khelathiclt
@@ -15,13 +15,13 @@ data:
       depth: region
       sources: [affiliation-empireakhlth, affiliation-vylarinmpr, place-khelagaselat, lore-garauu]
       summary: >-
-        Zab'el'Qar II, who reigned as a Khelathi, goes to the West in the night and the house of Amralo'Methu is closed. No Vylarian claims it: the Orzas who sent the army has died, and the empire is deep in a civil war that leaves the delta garrisons unrelieved. The priesthood raises Anlagh'Zeketu, and about 398 AF the new house starves the garrisons out of the delta forts.
+        Zab'el'Qar II, who reigned as a Khelathi, goes to the West in the night and the house of Amralo'Methu is closed. No Vilérian claims it: the Orzas who sent the army has died, and the empire is deep in a civil war that leaves the delta garrisons unrelieved. The priesthood raises Anlagh'Zeketu, and about 398 AF the new house starves the garrisons out of the delta forts.
       standing: attested
       where:
         locus: [place-galezkara]
         reach:
           - place: place-khelagaselat
-            how: the Vylarian garrisons in the delta forts are cut off from the sea and from the river, and starved out within three years
+            how: the Vilérian garrisons in the delta forts are cut off from the sea and from the river, and starved out within three years
             knowledge: named
           - place: place-shortway
             how: the second tomb of the foreign house is cut beside the first, and the Way stays a stub
@@ -55,26 +55,26 @@ The Closing of the Foreign House is how the occupation ended, and the Khelathi c
 
 ## What Happened
 
-[Zab'el'Qar II]{.name data-type="being/npc"} was the son of the commander the priesthood had crowned ([[lore-vylconquest|the Vylarian Conquest]]), and he reigned as a Khelathi, under a Khelathi throne name, in a Khelathi court, with Khelathi priests. In 2505 ST (395 AF) the list enters that he went to the West in the night, and that the house is closed.
+[Zab'el'Qar II]{.name data-type="being/npc"} was the son of the commander the priesthood had crowned ([[lore-vylconquest|the Vilérian Conquest]]), and he reigned as a Khelathi, under a Khelathi throne name, in a Khelathi court, with Khelathi priests. In 2505 ST (395 AF) the list enters that he went to the West in the night, and that the house is closed.
 
-No Vylarian claimed it, because the Orzas [Barnakis]{.name data-type="being/npc"}, who had sent the army, died about 389 AF and the empire's civil war, [[lore-brkensuccsn|the Years of Three Eagles]] (389 to 406 AF), left the delta garrisons unrelieved. The house had no claimant at its back and no fleet to bring one. The priesthood of [[affiliation-uqaa|Uqa'a]] raised [Anlagh'Zeketu]{.name data-type="affiliation/lineage"} in the same year, and [Anlagh'Uqa I]{.name data-type="being/npc"} was crowned.
+No Vilérian claimed it, because the Orzas [Barnakis]{.name data-type="being/npc"}, who had sent the army, died about 389 AF and the empire's civil war, [[lore-brkensuccsn|the Years of Three Eagles]] (389 to 406 AF), left the delta garrisons unrelieved. The house had no claimant at its back and no fleet to bring one. The priesthood of [[affiliation-uqaa|Uqa'a]] raised [Anlagh'Zeketu]{.name data-type="affiliation/lineage"} in the same year, and [Anlagh'Uqa I]{.name data-type="being/npc"} was crowned.
 
 ## The Garrisons
 
-The Vylarian garrisons held the apex forts and customs-stations of the delta, the works the delta raised after the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]). Those forts stand where the river first divides, and the grain that fed their garrisons came down the river from Khelathi granaries, not across the sea. With the occupation closed and no ship coming, the garrisons had the choice of the river's terms or none.
+The Vilérian garrisons held the apex forts and customs-stations of the delta, the works the delta raised after the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]). Those forts stand where the river first divides, and the grain that fed their garrisons came down the river from Khelathi granaries, not across the sea. With the occupation closed and no ship coming, the garrisons had the choice of the river's terms or none.
 
-The new house gave them none. It closed the grain-barges to the forts and let the stores run down, and the garrisons were starved out in about three years, in about 398 AF. The gates opened one by one as the supplies ran out. The Khelathi record enters no battle for any of them, and the Vylarian account has no ending to give.
+The new house gave them none. It closed the grain-barges to the forts and let the stores run down, and the garrisons were starved out in about three years, in about 398 AF. The gates opened one by one as the supplies ran out. The Khelathi record enters no battle for any of them, and the Vilérian account has no ending to give.
 
 ## What It Left
 
 - **The last foreign house.** The [Amralo'Methu]{.name data-type="affiliation/lineage"} are the third conquerors the priesthood absorbed, after the hill-nomads and the sea-raiders, and the last.
 - **The delta forts in Khelathi hands.** The apex forts and customs-stations return to the Halzi'a of [[affiliation-selatkhelaga|Khelaga]] and the delta selatu, and the garrisons that held them are gone from the record.
 - **The Short Way.** The second tomb of the foreign house closed the stub and the Way was never lengthened ([[place-shortway|the Short Way of Amralo'Methu]]).
-- **The second war.** The starving-out is counted with the conquest among the wars the two empires have fought, and the Vylarian record gives the garrisons no ending.
+- **The second war.** The starving-out is counted with the conquest among the wars the two empires have fought, and the Vilérian record gives the garrisons no ending.
 
 ## See Also
 
-- [[lore-vylconquest|The Vylarian Conquest]]—the event before it
+- [[lore-vylconquest|The Vilérian Conquest]]—the event before it
 - [[lore-akhpriestthr|The Priests' Thrones]]—the age it belongs to
 - [[place-shortway|The Short Way of Amralo'Methu]]—the foreign house's tombs
-- [[affiliation-vylarinmpr|Vylarian Empire]] · [[lore-garauu|Gar-Auu]]
+- [[affiliation-vylarinmpr|Vilérian Empire]] · [[lore-garauu|Gar-Auu]]

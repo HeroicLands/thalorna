@@ -90,4 +90,4 @@ The garrisons were out within seven years, and the High King found he had no sil
 - [[affiliation-kingdmtrvn|The Kingdom of Tarvénia]]—the elected crown
 - [[affiliation-frctyvlthr|The Free City of Valthari]]—the city that bought its charter
 - [[lore-lowlandstaken|The Lowlands Taken]]—the occupation the lowlands ended
-- [[lore-empirdclne|The Decline of the Vylarian Empire]]
+- [[lore-empirdclne|The Decline of the Vilérian Empire]]

@@ -77,13 +77,13 @@ sohl: {system: {commonSkills: [byzarnlng]}}
 
 The League council meets in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]], a vast, ornate building that is parliament and exchange at once, and the business on its table is narrow: tariffs, the joint fleet and army, the three marches, and quarrels between member cities. Everything else belongs to the cities. The Bizarian League is a confederation of five trading cities at the crossroads of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]], and it is a commercial pact. Its members grant one another trade privileges, charge outsiders common tariffs and defend one another, and each governs itself inside its own walls. About eight million people live under it in [[place-byzariargn|Bizaria]].
 
-The League's power is its position. It holds the overland routes that link the markets of [[place-midhalnrgn|Midhalión]] to the [[place-khzryndsrtrgn|Khazryn Desert Region]], to the [[place-dunharargn|Dunhara Region]] and to the distant east, and an outsider remembers it for the bargain: a League contract is slow to make, exact to the word, and kept.
+The League's power is its position. It holds the overland routes that link the markets of [[place-midhalnrgn|Midhalión]] to the [[place-khzryndsrtrgn|Khazrin Desert Region]], to the [[place-dunharargn|Dunhara Region]] and to the distant east, and an outsider remembers it for the bargain: a League contract is slow to make, exact to the word, and kept.
 
 ## The Five Cities
 
 - [[affiliation-khryshteikhos|Krusteikhos]], _the Golden Fortress_, is the wealthiest and most politically influential of the five and the League's capital in all but name. The council convenes in its Merchant Hall, its banking houses finance trade across half of Ankaris, and its merchant-princes set the League's foreign policy, or try to.
-- [[affiliation-nesthiros|Nesthiros]], _the Sea-Between_, is the League's principal seaport on the Vylarian coast, where maritime and overland trade meet. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vylarian Sea]], and its shipyards build the fast galleys that protect League commerce from pirates and from Taruzelian competitors.
-- [[affiliation-karvashion|Karvashion]], _the Green Caravanserai_, is an inland city at the junction of the caravan routes east toward the Khazryn and south toward Dunhara. Eastern goods—spices, silk, incense—first enter League hands in its vast bazaars and caravanserais, and its caravansary masters are famously shrewd.
+- [[affiliation-nesthiros|Nesthiros]], _the Sea-Between_, is the League's principal seaport on the Vilérian coast, where maritime and overland trade meet. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vilérian Sea]], and its shipyards build the fast galleys that protect League commerce from pirates and from Taruzelian competitors.
+- [[affiliation-karvashion|Karvashion]], _the Green Caravanserai_, is an inland city at the junction of the caravan routes east toward the Khazrin and south toward Dunhara. Eastern goods—spices, silk, incense—first enter League hands in its vast bazaars and caravanserais, and its caravansary masters are famously shrewd.
 - [[affiliation-argyrteikhos|Argirteikhos]], _the Silver Citadel_, is a fortified mountain city guarding the eastern passes into Bizaria. Its garrison keeps the mountain routes open and discourages eastern warlords and desert raiders, and its silver mines pay for the League's collective defense.
 - [[affiliation-orashion|Órashion]], _Blackstone_, is a mining and manufacturing city in the mountainous interior, built on rich deposits of iron and semi-precious stones. It makes the arms, armor and metalwork the other cities trade, and its craftsmen are renowned throughout the region. It is the least glamorous of the five and the one the others could least do without.
 
@@ -103,19 +103,19 @@ Standing in a League city runs from the register outward. A freeman of the city 
 
 ## People and Faith
 
-Bizarian culture joins Helionite intellectual traditions, Vylarian administrative practice, and eastern influences from [[place-taruzelrgn|Taruzel]] and the desert peoples. The cities are multilingual and multi-faith, full of merchants, scholars and travelers from every corner of Ankaris. Bizarians are master traders and diplomats, practiced at crossing the cultural divide between east and west, and their cities are famous for their bazaars, silk-weavers, jewelers and spice markets. In those bazaars western Vylarian goods meet eastern spices, Dunhari incense and the occasional luxury from the [[place-vedyarargn|Vedyara Region]] or the [[place-tantsouregin|Tantsou Region]]. [[skill-byzarnlng|Bizarian]], the League's trade tongue, has more words for kinds of business agreement than most languages have for colors.
+Bizarian culture joins Helionite intellectual traditions, Vilérian administrative practice, and eastern influences from [[place-taruzelrgn|Taruzel]] and the desert peoples. The cities are multilingual and multi-faith, full of merchants, scholars and travelers from every corner of Ankaris. Bizarians are master traders and diplomats, practiced at crossing the cultural divide between east and west, and their cities are famous for their bazaars, silk-weavers, jewelers and spice markets. In those bazaars western Vilérian goods meet eastern spices, Dunhari incense and the occasional luxury from the [[place-vedyarargn|Vedyara Region]] or the [[place-tantsouregin|Tantsou Region]]. [[skill-byzarnlng|Bizarian]], the League's trade tongue, has more words for kinds of business agreement than most languages have for colors.
 
 The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are dominant, in a distinct eastern rite that puts mysticism, contemplation, personal revelation and elaborate ritual ahead of institutional authority. Its clergy are monks more than priests, and their monasteries are centers of learning, of manuscript copying, and of quiet political influence. The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a significant following as well, above all among the merchant communities with eastern connections.
 
 ## Neutrality and War
 
-The League steers between the great powers with careful neutrality. The [[affiliation-vylarinmpr|Vylarian Empire]] would like to absorb it; the [[affiliation-cnfdrtntrzlnstts|Taruzelian]] guilds would like to dominate its trade, and [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea; the Asháian-worshipping peoples to the east regard it as a useful but unreliable partner. The League survives by being indispensable to all of them and subservient to none.
+The League steers between the great powers with careful neutrality. The [[affiliation-vylarinmpr|Vilérian Empire]] would like to absorb it; the [[affiliation-cnfdrtntrzlnstts|Taruzelian]] guilds would like to dominate its trade, and [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea; the Asháian-worshipping peoples to the east regard it as a useful but unreliable partner. The League survives by being indispensable to all of them and subservient to none.
 
 Its wars are border wars, against desert raiders, steppe tribes and the occasional eastern warlord. Conscripts fight them under the march lords, and the council contracts mercenary companies when the frontier turns dangerous.
 
 ## Commerce and Currency
 
-Each city strikes its own coin, and the League as a whole uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The Bizarian League is a post-imperial commonwealth member: it takes full part in the trade and banking infrastructure of the Vylarian system and is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Each city strikes its own coin, and the League as a whole uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The Bizarian League is a post-imperial commonwealth member: it takes full part in the trade and banking infrastructure of the Vilérian system and is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 
@@ -131,10 +131,10 @@ Each city strikes its own coin, and the League as a whole uses the [[lore-vylrnc
 [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]
 : the districts the council holds directly
 
-[[affiliation-vylarinmpr|Vylarian Empire]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
+[[affiliation-vylarinmpr|Vilérian Empire]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the western powers it steers between
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]], [[place-dunharargn|Dunhara Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]], [[place-dunharargn|Dunhara Region]]
 : the eastern trade routes
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]

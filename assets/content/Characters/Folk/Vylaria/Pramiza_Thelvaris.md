@@ -73,7 +73,7 @@ Her money is her influence, and it makes her a target for every flatterer and ev
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: of the propertied order, by her husband's fortune.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: of the propertied order, by her husband's fortune.
 
 ## Plot Hooks
 

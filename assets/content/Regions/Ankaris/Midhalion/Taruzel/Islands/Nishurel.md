@@ -19,7 +19,7 @@ data:
 
 On a clear morning the hills of the Amradi shore stand along the eastern horizon from the walls of [[place-qudumel2|Kudumel]], forty miles off across the strait, and the sun comes up behind them onto an island the color of dust. This is Nishurel, the north-easternmost of the islands of [[place-taruzelrgn|Taruzel]] and the nearest to the mainland: _nishur-_, to be bright, with _-el_, the ground of it, the bright ground, for the glare off its pale limestone and its whitewashed walls. It is about thirty-five miles long, and its two million and more people make up the city-state of [[affiliation-qudumel|Kudumel]] of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]].
 
-Nishurel is the island the east comes to first. Its ferries carry the caravan goods of [[place-dunharargn|Dunhara]] and the [[place-khzryndsrtrgn|Khazryn]] over the strait, its roads carry camels as often as mules, and its faith is the faith of the [[affiliation-ashanpnthn|Ashaian Pantheon]].
+Nishurel is the island the east comes to first. Its ferries carry the caravan goods of [[place-dunharargn|Dunhara]] and the [[place-khzryndsrtrgn|Khazrin]] over the strait, its roads carry camels as often as mules, and its faith is the faith of the [[affiliation-ashanpnthn|Ashaian Pantheon]].
 
 ## The Land
 

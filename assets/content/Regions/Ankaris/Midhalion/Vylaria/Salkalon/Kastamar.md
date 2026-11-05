@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Kastamar is a working war-port of about twenty thousand people, the great naval city of [[place-salkhalon|Salkalon]] and the home of the imperial shipyards and of the command that keeps what remains of the [[affiliation-vylarinmpr|Vylarian Empire]]'s sea power. Its harbor is dry-docks and slipways, cordage-walks and timber-yards, marine barracks, and the offices of the officers of the Vormal, as the fleet is called in [[affiliation-vylrnmltry|the Vylarian military]].
+Kastamar is a working war-port of about twenty thousand people, the great naval city of [[place-salkhalon|Salkalon]] and the home of the imperial shipyards and of the command that keeps what remains of the [[affiliation-vylarinmpr|Vilérian Empire]]'s sea power. Its harbor is dry-docks and slipways, cordage-walks and timber-yards, marine barracks, and the offices of the officers of the Vormal, as the fleet is called in [[affiliation-vylrnmltry|the Vilérian military]].
 
-A shipwright of the yards, showing a new apprentice the slips, makes the point about how the city lives: "Warships go down these ways when [[affiliation-seldan|Seldan]], the Senate, votes the money, and not before. When the money is late, the yard is quiet and so is every tavern in Kastamar." Where its sister-city [[place-mercavia|Delalara]] up the coast lives by trade, Kastamar lives by the fleet. Its fortunes rise and fall with imperial naval spending, and since the loss of [[affiliation-cnfdrtntrzlnstts|Taruzel]] broke Vylarian supremacy in the eastern sea, that spending has been anxious and political. Discipline sets the city's tone, and a third of its people draw their bread, directly or not, from the navy.
+A shipwright of the yards, showing a new apprentice the slips, makes the point about how the city lives: "Warships go down these ways when [[affiliation-seldan|Seldan]], the Senate, votes the money, and not before. When the money is late, the yard is quiet and so is every tavern in Kastamar." Where its sister-city [[place-mercavia|Delalara]] up the coast lives by trade, Kastamar lives by the fleet. Its fortunes rise and fall with imperial naval spending, and since the loss of [[affiliation-cnfdrtntrzlnstts|Taruzel]] broke Vilérian supremacy in the eastern sea, that spending has been anxious and political. Discipline sets the city's tone, and a third of its people draw their bread, directly or not, from the navy.
 
 ## Arriving
 
@@ -80,7 +80,7 @@ The second is in 708. The islands of Taruzel rose in 707 ([[lore-taruzelwar|The 
 [[place-mercavia|Delalara]]
 : the province's commercial hub and capital
 
-[[affiliation-vylrnmltry|Vylarian Military]]
+[[affiliation-vylrnmltry|Vilérian Military]]
 : the legions and the fleet
 
 [[place-tamzirshoals|Tamzir Shoals]]
@@ -89,7 +89,7 @@ The second is in 708. The islands of Taruzel rose in 707 ([[lore-taruzelwar|The 
 [[place-braldvik|Bralvik]]
 : the fishing town that bills the admiralty every year
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[scenario-hllsndrfrtrs|The Hulls Under the Fortress]]

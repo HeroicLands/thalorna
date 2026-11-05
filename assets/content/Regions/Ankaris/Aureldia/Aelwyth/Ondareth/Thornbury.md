@@ -20,7 +20,7 @@ political performance is mounted.
 
 ## The Senate House
 
-The building is the republic in miniature. It is Vylarian in intention—a colonnaded hall with a
+The building is the republic in miniature. It is Vilérian in intention—a colonnaded hall with a
 **portico**, raised at great expense by masons working from descriptions of buildings none of them had
 seen—and it is where the Senate meets, in bordered mantles of the wrong cut, to conduct the business
 of a hundred and fifty thousand people with the ceremony of an empire of twenty-one million.

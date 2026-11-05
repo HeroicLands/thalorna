@@ -3,7 +3,7 @@ shortcode: semrnscrpt
 name: {full: Semaron Script}
 type: skill
 subType: script
-description: "The imperial letters—the everyday alphabetic hand of Vylaria, and the script most of the civilized west now writes in."
+description: "The imperial letters—the everyday alphabetic hand of Viléria, and the script most of the civilized west now writes in."
 tags: []
 data:
   icon: icon-speaking
@@ -21,7 +21,7 @@ sohl:
   flags: {"thalorna": {script_family: Alphabetic}}
 ---
 
-The Semaron is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]]—twenty-four letters written left to right, each with a majuscule and a minuscule form. In its Vylari use a sign has one sound; other tongues give the letters their own readings. Its name is simply the [[skill-vylarilng|Vylari]] word for _the letters_, from _sema_, "mark"; a single character is a _sema_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it traveled.
+The Semaron is the working alphabet of the [[affiliation-vylarinmpr|Vilérian Empire]]—twenty-four letters written left to right, each with a majuscule and a minuscule form. In its Vilari use a sign has one sound; other tongues give the letters their own readings. Its name is simply the [[skill-vylarilng|Vilari]] word for _the letters_, from _sema_, "mark"; a single character is a _sema_, and to a Vilérian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it traveled.
 
 As with any script, it is a writing system and not a tongue. A character needs **both** the Semaron and the relevant [[sohl-none-docskill-lang|Language]] to read anything set down in it, and the Semaron carries a good many languages that have nothing to do with each other—see [[sohl-none-docskill-script|Script]] for how the two skills combine.
 
@@ -29,9 +29,9 @@ A scribe marks a stressed word in Semaron by writing it in rubric red.
 
 ## The letters
 
-The letterforms descend from the older carved runes of [[skill-thrvrknscrpt|Tharavarkon]], but centuries of reed and quill have rounded every angle out of them. Strokes are continuous and slightly forward-leaning; the pen is meant to leave the page as seldom as possible. The twenty-four letters are the sounds of Vylari plus _j_ and _w_ for its neighbors' tongues, and a sound with no letter of its own is spelled out from the letters there are: _ch_ is written _t_ and _sh_. Vowel length is carried by a curl above the letter, typed by doubling the vowel (_aa_, _ii_, _uu_), and the breathed _f_ and _th_ by a small hook, which is why a hurried provincial hand is so often ambiguous about precisely which lord is meant. The script has no quotation marks: a Vylari writer marks reported speech with the word _vethor_. One diamond point, set at mid-height, marks a pause; the roman transcription writes it with whichever standard mark the sentence has, and the other marks are carried as invisible ones. A glottal stop is a short stroke above the letter it follows, on any letter, so the catch in _kàralzon_ is a stroke over its _k_; the grave on the following _à_ locates that catch without adding a vowel. In the Alessa article _à_, the stroke stands over _a_ instead. The script has no hyphen. Other tongues may transcribe its catch with their own spellings.
+The letterforms descend from the older carved runes of [[skill-thrvrknscrpt|Tharavarkon]], but centuries of reed and quill have rounded every angle out of them. Strokes are continuous and slightly forward-leaning; the pen is meant to leave the page as seldom as possible. The twenty-four letters are the sounds of Vilari plus _j_ and _w_ for its neighbors' tongues, and a sound with no letter of its own is spelled out from the letters there are: _ch_ is written _t_ and _sh_. Vowel length is carried by a curl above the letter, typed by doubling the vowel (_aa_, _ii_, _uu_), and the breathed _f_ and _th_ by a small hook, which is why a hurried provincial hand is so often ambiguous about precisely which lord is meant. The script has no quotation marks: a Vilari writer marks reported speech with the word _vethor_. One diamond point, set at mid-height, marks a pause; the roman transcription writes it with whichever standard mark the sentence has, and the other marks are carried as invisible ones. A glottal stop is a short stroke above the letter it follows, on any letter, so the catch in _kàralzon_ is a stroke over its _k_; the grave on the following _à_ locates that catch without adding a vowel. In the Alessa article _à_, the stroke stands over _a_ instead. The script has no hyphen. Other tongues may transcribe its catch with their own spellings.
 
-The opening of a sworn oath in High Vylari, _Voza ulthoi okethen denon zaron ul kalmetharoi_ ("May the gods see this oath, and the ancestors"), in the Kuriale hand:
+The opening of a sworn oath in High Vilari, _Voza ulthoi okethen denon zaron ul kalmetharoi_ ("May the gods see this oath, and the ancestors"), in the Kuriale hand:
 
 ::: {lang=vyl enc=vylsemaronenc}
 Voza ulthoi okethen denon zaron ul kalmetharoi‼
@@ -42,7 +42,7 @@ Voza ulthoi okethen denon zaron ul kalmetharoi‼
 [[affiliation-imprlscrblgld|The Guild]] recognizes three, and a reader's fluency is not the same in all of them:
 
 - **_Semaron Kuriale_**, the chancery hand—forward-leaning, close-set, unligatured, and slow. Edicts, land registers, treaty texts, anything that must still be legible in two hundred years.
-- **_Semaron Kursiva_**, the running hand—the daily hand of clerks, factors and correspondents, heavily ligatured and abbreviated, three times faster to write and markedly harder to read. Most surviving Vylarian documents are in it.
+- **_Semaron Kursiva_**, the running hand—the daily hand of clerks, factors and correspondents, heavily ligatured and abbreviated, three times faster to write and markedly harder to read. Most surviving Vilérian documents are in it.
 - **Provincial hands**—the local drifts of the cursive, in [[place-hylen|Hilen]] and [[place-alyssa|Alessa]] and the frontier garrisons. A scribe raised on one reads another slowly.
 
 ## Who has it
@@ -51,7 +51,7 @@ Literacy in the Semaron is what the Imperial Scribal Guild sells, examines and d
 
 ## Beyond the Empire
 
-The Semaron is the nearest thing [[place-midhalnrgn|Midhalión]] has to a common alphabet. It carries Vylari, Provenzal, Tarveni, modern Élavendri, Aelwythi and western Valtari. [[skill-aelwthlng|Aelwythi]] uses its own [[doc-aelwsemaronenc|spelling conventions]], with contextual readings of letters and vowel groups. [[skill-elvndrlng|Élavendri]] is written in it; [[skill-provnzlng|Provenzal]] is written in nothing else; the [[affiliation-byzarianlg|Bizarian League]] keeps its international books in it, whatever tongue the entries are in, while a house's local books and the Bizarian language itself are written in the [[skill-helnkscrpt|Helónika]]; and [[skill-varokhlng|Varokhi speakers]] who want anything written down borrow it, while insisting it is a foreign tool and not Varokhi writing. Foreigners generally call it "the Vylari letters," a name no Vylarian uses.
+The Semaron is the nearest thing [[place-midhalnrgn|Midhalión]] has to a common alphabet. It carries Vilari, Provenzal, Tarveni, modern Élavendri, Aelwythi and western Valtari. [[skill-aelwthlng|Aelwythi]] uses its own [[doc-aelwsemaronenc|spelling conventions]], with contextual readings of letters and vowel groups. [[skill-elvndrlng|Élavendri]] is written in it; [[skill-provnzlng|Provenzal]] is written in nothing else; the [[affiliation-byzarianlg|Bizarian League]] keeps its international books in it, whatever tongue the entries are in, while a house's local books and the Bizarian language itself are written in the [[skill-helnkscrpt|Helónika]]; and [[skill-varokhlng|Varokhi speakers]] who want anything written down borrow it, while insisting it is a foreign tool and not Varokhi writing. Foreigners generally call it "the Vilari letters," a name no Vilérian uses.
 
 ## In play
 

@@ -4,7 +4,7 @@ name: {full: Válaren City}
 type: place
 subType: settlement
 
-description: "The great southern port of Provénzia on the warm Vylarian shore—the kingdom as foreigners picture it, rich and polished and wholly dependent on the sea, which is why a blockade is the only weapon that has ever frightened it."
+description: "The great southern port of Provénzia on the warm Vilérian shore—the kingdom as foreigners picture it, rich and polished and wholly dependent on the sea, which is why a blockade is the only weapon that has ever frightened it."
 tags: [city, port, coastal]
 data:
   demonym: null
@@ -15,13 +15,13 @@ data:
   packFolder: provenzia
 ---
 
-**Válaren** stands on the warm southern shore, on the [[place-vylarianse|Vylarian Sea]], and is the
+**Válaren** stands on the warm southern shore, on the [[place-vylarianse|Vilérian Sea]], and is the
 city outsiders mean when they say [[place-provenzrgn|Provénzia]]: some forty-five thousand people, white stone and shuttered
-galleries, a harbor crowded with Vylarian shipping, and a manner so polished that other Provénzians
+galleries, a harbor crowded with Vilérian shipping, and a manner so polished that other Provénzians
 find it exhausting.
 
 It is a crucial trading port and it lives entirely by that trade. Everything that reaches Provénzia
-from the Vylarian world arrives here or at [[place-kalveza|Kalveza]], and Válaren's merchant houses
+from the Vilérian world arrives here or at [[place-kalveza|Kalveza]], and Válaren's merchant houses
 have been the intermediaries for so long that the arrangement is mistaken locally for a law of nature.
 
 ## What It Is Like
@@ -49,4 +49,4 @@ damage done to Válaren's standing outlasted the siege by a generation. See
 
 ## See Also
 
-- [[place-provenzrgn|Provénzia Region]] · [[place-vylarianse|Vylarian Sea]]
+- [[place-provenzrgn|Provénzia Region]] · [[place-vylarianse|Vilérian Sea]]

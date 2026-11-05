@@ -441,7 +441,7 @@ The older physicians of the provincial capital think his methods dangerous and h
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Gulmen, of the propertied order from which the empire's officers and great commands are filled.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Gulmen, of the propertied order from which the empire's officers and great commands are filled.
 - **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keeps the feasts of the goddess of fertility without office in the temple.
 
 ## Plot Hooks

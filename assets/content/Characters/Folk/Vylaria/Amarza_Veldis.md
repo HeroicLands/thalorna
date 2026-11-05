@@ -44,7 +44,7 @@ Amarza Veldis is a 58-year-old woman who stands 5'5" tall and is of light build.
 
 # Dossier {#dossier}
 
-Amarza Veldis is the senior partner of the [House of Veldis]{.name data-type="affiliation/venture"}, one of the great houses of [[affiliation-danvar|the Bankers' Guild]]. The house is Vylarian and conservative, with old ties to the _ethlen_ (Gilded) estate and to the Dukran's office, and it banks the commercial cities of the empire. Its chapter accounts stand at [[place-orzara|Orzara]], [[place-mercavia|Delalara]] and the river towns, and its notes, sealed in the house's mark, pass at par from [[place-hylen|Hilen]] to the sea.
+Amarza Veldis is the senior partner of the [House of Veldis]{.name data-type="affiliation/venture"}, one of the great houses of [[affiliation-danvar|the Bankers' Guild]]. The house is Vilérian and conservative, with old ties to the _ethlen_ (Gilded) estate and to the Dukran's office, and it banks the commercial cities of the empire. Its chapter accounts stand at [[place-orzara|Orzara]], [[place-mercavia|Delalara]] and the river towns, and its notes, sealed in the house's mark, pass at par from [[place-hylen|Hilen]] to the sea.
 
 She holds a larger block of the throne's borrowed paper than any other lender in the empire. The throne pays the veterans' pension with loans from the Danvar's great houses and rolls them over as they fall due ([[affiliation-tarmex|The Tarmeks Orzan]]), and the Veldis loans are the largest of them. Every quarter, when the loans fall due, the Imperial _Tarkelos_ comes to the house on Torvel, and every quarter Amarza names her price for rolling them on.
 
@@ -52,7 +52,7 @@ She holds a larger block of the throne's borrowed paper than any other lender in
 
 **The house.** The Veldis have banked in Orzara for seven generations. Amarza was the second daughter of the senior partner and the first of his children to understand the chapter books, and she kept them from the age of sixteen. Her brother inherited the partnership and died of a fever in his fifth year of it. The partners chose her over two cousins, and in twenty-two years none of them has regretted it aloud.
 
-**The throne's lender.** The house lent to the throne before her time, as every great house does, because Vylaria's credit is excellent and a loan to the throne is the safest paper in the commonwealth. She made the house the throne's largest lender in the years after the Taruzelian war, when the war's charges and the pensions of a generation of discharged men came due together and the smaller houses grew nervous. She lent when they would not, and the throne remembers it.
+**The throne's lender.** The house lent to the throne before her time, as every great house does, because Viléria's credit is excellent and a loan to the throne is the safest paper in the commonwealth. She made the house the throne's largest lender in the years after the Taruzelian war, when the war's charges and the pensions of a generation of discharged men came due together and the smaller houses grew nervous. She lent when they would not, and the throne remembers it.
 
 ## Psyche
 

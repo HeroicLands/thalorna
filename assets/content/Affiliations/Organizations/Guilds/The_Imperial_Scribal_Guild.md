@@ -2,11 +2,11 @@
 shortcode: imprlscrblgld
 name:
   full: The Imperial Scribal Guild
-  en: [The Guild of Imperial Letters, The Vylarian Scribal Guild]
+  en: [The Guild of Imperial Letters, The Vilérian Scribal Guild]
   vyl: [Notran]
 type: affiliation
 subType: guild
-description: "Chartered guild administering all official writing in the Vylarian Empire—from imperial edicts to provincial tax rolls—and the bureaucratic backbone on which the empire actually runs."
+description: "Chartered guild administering all official writing in the Vilérian Empire—from imperial edicts to provincial tax rolls—and the bureaucratic backbone on which the empire actually runs."
 tags: []
 data:
   culture: vylarianclt
@@ -57,17 +57,17 @@ A Guild examiner opens every final oral the same way. She lays an imperial edict
 
 ## Overview
 
-The Imperial Scribal Guild is the institution that makes [[affiliation-vylarinmpr|Vylaria]] possible. The Empire reaches across four provinces, hundreds of cities, thousands of villages and a frontier that runs nearly to the [[place-khzryndsrtrgn|Khazryn Desert]], and all of that reach depends on legible records: tax rolls, military census, land registers, court judgments, imperial edicts, treasury accounts and the daily correspondence between [[place-orzara|Orzara]] and the provincial seats. Someone has to write, file, copy, retrieve and certify every page. The Guild trains, examines, licenses and, when it must, disciplines every one of those someones.
+The Imperial Scribal Guild is the institution that makes [[affiliation-vylarinmpr|Viléria]] possible. The Empire reaches across four provinces, hundreds of cities, thousands of villages and a frontier that runs nearly to the [[place-khzryndsrtrgn|Khazrin Desert]], and all of that reach depends on legible records: tax rolls, military census, land registers, court judgments, imperial edicts, treasury accounts and the daily correspondence between [[place-orzara|Orzara]] and the provincial seats. Someone has to write, file, copy, retrieve and certify every page. The Guild trains, examines, licenses and, when it must, disciplines every one of those someones.
 
 Its central hall stands on the [Circle of Árdavon]{.name data-type="place/site"} in Orzara's [[place-platandstr|Platan District]], with a chapterhouse in every provincial capital. The Guild was chartered in the Empire's first century, has held custody of the imperial archive since 318, and was re-chartered by imperial edict in the eighty-third year of the present dynasty, House Helarkales (about 489 AF); the charter has been renewed and expanded twice since. The Guild is a founding member of [[affiliation-tevran|Great College of Guilds]], and its High Hand holds an ex officio seat on the Tevran's [Council of the Tevran]{.name data-type="affiliation/governmental"}.
 
-If the [[affiliation-ordoarcanis|Thordimalon]] is the empire's magical backbone, the Scribal Guild is its administrative one. A guild scribe's seal at the foot of a document carries the same warranty in a Vylarian court as an Arcane Order mage's seal carries in a chamber of inquiry. An imperial edict that no guild scribe has sealed has no force. A tax roll that no guild hand has touched cannot be collected. A land sale not registered through a guild office is not, in any practical sense, a sale.
+If the [[affiliation-ordoarcanis|Thordimalon]] is the empire's magical backbone, the Scribal Guild is its administrative one. A guild scribe's seal at the foot of a document carries the same warranty in a Vilérian court as an Arcane Order mage's seal carries in a chamber of inquiry. An imperial edict that no guild scribe has sealed has no force. A tax roll that no guild hand has touched cannot be collected. A land sale not registered through a guild office is not, in any practical sense, a sale.
 
 The Guild's power is structural, not coercive. It raises no troops, hears no cases and governs nothing directly. Yet every provincial _therkos_ (governor), every magistrate and every legion paymaster depends on its scribes to make his orders enforceable, and over the centuries the Guild has made itself irreplaceable to all of them.
 
 ## Membership and Structure
 
-Membership is by examination, taken at the end of a seven-year course at one of the Guild's chapterhouses. The course covers classical Vylarian and three modern provincial dialects, formal hand and the imperial cursives, the legal and administrative formulas that make a document valid, the rules of certification and witnessing, the use of seals and counterseals, and the art of copying without error. At the higher levels it adds forgery detection, the restoration of damaged documents and the cryptographic protocols that protect sensitive imperial correspondence. The course is rigorous, and a substantial number of candidates fail it.
+Membership is by examination, taken at the end of a seven-year course at one of the Guild's chapterhouses. The course covers classical Vilérian and three modern provincial dialects, formal hand and the imperial cursives, the legal and administrative formulas that make a document valid, the rules of certification and witnessing, the use of seals and counterseals, and the art of copying without error. At the higher levels it adds forgery detection, the restoration of damaged documents and the cryptographic protocols that protect sensitive imperial correspondence. The course is rigorous, and a substantial number of candidates fail it.
 
 A scribe climbs five ranks:
 
@@ -106,7 +106,7 @@ In practice the Guild loses these arguments often enough to make its members cyn
 ## Relations
 
 - **The imperial administration** is patron, client and constant counterparty. The relationship is symbiotic and tense.
-- **The [[affiliation-tevran|Tevran Maldor]]** is the umbrella body under which the Guild holds its standing throughout the Vylarian-influenced world. The High Hand's seat on the Council of the Tevran makes the Guild one of the weightiest single members. Its procedural conservatism suits the Tevran's _rozimoi_ (auditors), and the two institutions work closely on credential fraud and forgery prosecutions.
+- **The [[affiliation-tevran|Tevran Maldor]]** is the umbrella body under which the Guild holds its standing throughout the Vilérian-influenced world. The High Hand's seat on the Council of the Tevran makes the Guild one of the weightiest single members. Its procedural conservatism suits the Tevran's _rozimoi_ (auditors), and the two institutions work closely on credential fraud and forgery prosecutions.
 - **The [[affiliation-ordoarcanis|Thordimalon]]** cooperates formally. Arcane Order-trained scribes produce the Arcane Order's own internal documents under license from the Guild, an arrangement of careful parity between two institutions that each consider themselves senior.
 - **The [[affiliation-panepistmm|Epistémion]]** is an academic friend. Many senior scribes are also associates of the Epistémion (the Academy) (the accepted short form of the Epistémion (the Academy of Knowledge)), which lends the Guild much of its intellectual prestige, and the Guild gives the Epistémion archival access.
 - **The provincial chapterhouses** keep a chapterhouse-level autonomy that is constantly renegotiated. They chafe under Orzara's procedural rulings, and Orzara suspects, often correctly, that they bend the rules.

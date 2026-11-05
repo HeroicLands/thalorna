@@ -42,7 +42,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_The Iron Cinder—Vylari: **Zargelza**, "Iron Cinder"_
+_The Iron Cinder—Vilari: **Zargelza**, "Iron Cinder"_
 
 Type
 : Covert fighting religious order (heretical to the mainstream Aureldian faith)

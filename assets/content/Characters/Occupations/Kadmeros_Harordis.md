@@ -403,7 +403,7 @@ He also carves for the city's masons, cutting patterns and molds from their draw
 
 ## Background
 
-**The trade.** Kadmeros learned carving and joinery from his father, a freeman of a forest village in the Vylaria country, and learned the smith's work on small fittings by himself.
+**The trade.** Kadmeros learned carving and joinery from his father, a freeman of a forest village in the Viléria country, and learned the smith's work on small fittings by himself.
 
 **The workshop.** He set up in Velisara two years ago, because a widow of the scholars' lanes let him the workshop cheaply, and because a city of old families with old furniture needs a man who can mend it.
 
@@ -439,7 +439,7 @@ He has none. The city's other joiners resent the masons' custom he has taken fro
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keeps the feasts of the creative fire without office in its temple.
 
 ## Plot Hooks

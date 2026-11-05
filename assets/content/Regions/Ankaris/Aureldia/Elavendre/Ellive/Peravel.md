@@ -3,7 +3,7 @@ shortcode: beravel
 name: {full: Péravel}
 type: place
 subType: settlement
-description: "The capital of Élavendre—a river metropolis fifteen miles up the Berav from the sea, seat of the crown, and home of the largest Epistémion campus outside the Vylarian Empire."
+description: "The capital of Élavendre—a river metropolis fifteen miles up the Berav from the sea, seat of the crown, and home of the largest Epistémion campus outside the Vilérian Empire."
 tags: [city, port, river]
 data:
   demonym: null
@@ -33,7 +33,7 @@ always mention and residents never do.
 ## The University
 
 The [University of Péravel]{.name data-type="affiliation"} is the largest [[affiliation-panepistmm|Epistémion]] campus outside
-the [[affiliation-vylarinmpr|Vylarian Empire]], with several Zulen (fellowship) chapterhouses, and it makes the
+the [[affiliation-vylarinmpr|Vilérian Empire]], with several Zulen (fellowship) chapterhouses, and it makes the
 capital the center of the [[affiliation-ordoarcanis|Thordimalon]]'s presence in the kingdom. The University's oldest court is the house the Empire's _felzos_ (legate) took after the treaty ([[lore-elvtribute|The Tribute of Élavendre]]).
 
 It also makes Péravel the field on which the kingdom's central quarrel is fought.

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [bazunel2], population: 0, packFolder: 
 
 ## Overview
 
-The Design Yards line the western arm of the bay of [[place-bazunel2|Bazunel]], below the point where ships from the channels round into the harbor. They are where the Confederation's best ships are conceived. Few of those ships are built here. The yards build the first hull of each new line, and the yards of [[place-yamuzel2|Yamuzel]], [[place-besikar2|Besikar]] and harbors across the [[place-vylarianse|Vylarian Sea]] build the rest to drawings bought from Bazunel. A hull drawn here is known on any sea by its long, clean lines and its inventive rigging.
+The Design Yards line the western arm of the bay of [[place-bazunel2|Bazunel]], below the point where ships from the channels round into the harbor. They are where the Confederation's best ships are conceived. Few of those ships are built here. The yards build the first hull of each new line, and the yards of [[place-yamuzel2|Yamuzel]], [[place-besikar2|Besikar]] and harbors across the [[place-vylarianse|Vilérian Sea]] build the rest to drawings bought from Bazunel. A hull drawn here is known on any sea by its long, clean lines and its inventive rigging.
 
 ## What Is There
 

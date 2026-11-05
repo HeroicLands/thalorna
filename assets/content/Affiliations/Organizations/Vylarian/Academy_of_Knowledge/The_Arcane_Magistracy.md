@@ -3,7 +3,7 @@ shortcode: kandral
 name: {full: The Arcane Magistracy, vyl: [Kandral]}
 type: affiliation
 subType: governmental
-description: "The magistracy of the Vylarian Republic that held the Republic's arcanists as state property from the conquest of Helionis in 312 BF to the Therona of Alessa in 75 BF; its register is in the Thordimalon's keeping."
+description: "The magistracy of the Vilérian Republic that held the Republic's arcanists as state property from the conquest of Helionis in 312 BF to the Therona of Alessa in 75 BF; its register is in the Thordimalon's keeping."
 tags: [organization, arcane, vylaria, midhalion, history]
 data:
   culture: vylarianclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: bureaucracy
     summary: >-
-      A magistracy of the Vylarian Republic under an usos who changed with the year's magistracies, with a register, a garrison and no doctrine; the arcanists on its register were the state's property and had no voice in it.
+      A magistracy of the Vilérian Republic under an usos who changed with the year's magistracies, with a register, a garrison and no doctrine; the arcanists on its register were the state's property and had no voice in it.
     ranks:
       - level: 0
         title: Struck Off
@@ -47,7 +47,7 @@ The archive of [[affiliation-ordoarcanis|The Order]] (the Thordimalon) keeps the
 
 ## What It Was
 
-The Kandral was the magistracy the [Vylarian Republic]{.name data-type="affiliation/polity"} made in 312 BF, the year the last city of [[place-helionis|Helionis]] fell (see [[lore-helionscnq|The Conquest of Helionis]]). [[affiliation-seldan|The Vylarian Senate]] (the Seldan) took the College of Arcane Philosophy out of [[affiliation-panepistmm|The Academy]] (the Epistémion) and set it under the Kandral, and the Kandral held the conquered Helionite masters and, in time, every arcanist born in the Republic. It had a register and a garrison and no doctrine. It taught nothing, published nothing and decided nothing. Its arcanists were the state's property, lent out by the year, and the loan was the whole of its work.
+The Kandral was the magistracy the [Vilérian Republic]{.name data-type="affiliation/polity"} made in 312 BF, the year the last city of [[place-helionis|Helionis]] fell (see [[lore-helionscnq|The Conquest of Helionis]]). [[affiliation-seldan|The Vilérian Senate]] (the Seldan) took the College of Arcane Philosophy out of [[affiliation-panepistmm|The Academy]] (the Epistémion) and set it under the Kandral, and the Kandral held the conquered Helionite masters and, in time, every arcanist born in the Republic. It had a register and a garrison and no doctrine. It taught nothing, published nothing and decided nothing. Its arcanists were the state's property, lent out by the year, and the loan was the whole of its work.
 
 The _usos_ changed every year with the Republic's other magistracies, and nobody served long enough to own the office. In the Republic's last century, as its politics turned violent, the register became a weapon. Factions borrowed arcanists from one another's prefects, and a name on the roll was a thing that could be sold.
 

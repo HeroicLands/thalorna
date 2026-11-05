@@ -66,12 +66,12 @@ The [Lance]{.name data-type="place/structure"}, on the cove, is the town's only 
 [[affiliation-brazemas|Faith of Brazemas]]
 : the faith whose temple keeps the names of the town's lost crews
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 # The Truth of Tholkezora {#truth .secret}
 
-The boats that meet Tholkezora on the far grounds are Taruzelian, and their cargoes are stolen. The outlaw captains of the islands, whom the Taruzelian guilds call pirates, take guild shipping in the channels and need somewhere to sell what they take that no guild factor will see. For eight years Revothos Linthimis and four other captains have bought their plunder at sea, a week out, at a third of its worth, carried it home under salt fish, and sold it through the caves to buyers in Delalara who ask no questions about Taruzelian cloth at Vylarian prices. The outlaw captains are paid in Vylarian silver, and the guilds lose twice: once in the channels and once in the price of their own goods in Delalara.
+The boats that meet Tholkezora on the far grounds are Taruzelian, and their cargoes are stolen. The outlaw captains of the islands, whom the Taruzelian guilds call pirates, take guild shipping in the channels and need somewhere to sell what they take that no guild factor will see. For eight years Revothos Linthimis and four other captains have bought their plunder at sea, a week out, at a third of its worth, carried it home under salt fish, and sold it through the caves to buyers in Delalara who ask no questions about Taruzelian cloth at Vilérian prices. The outlaw captains are paid in Vilérian silver, and the guilds lose twice: once in the channels and once in the price of their own goods in Delalara.
 
 The admiralty knows. The captain of the last customs cutter on this coast reported it to Kastamar four years ago, and the admiral's officers told the customs to leave Tholkezora alone, because every bale of guild cloth sold in Delalara is a bale the islands lose, and because the Tholkezora captains bring the fleet news of the outlaw captains' strength and the guilds' convoys. The new cutter's captain was sent by the tax-farmer at Delalara, who was told nothing.
 

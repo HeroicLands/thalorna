@@ -3,7 +3,7 @@ shortcode: amradadrgn
 name: {full: Amradad Region}
 type: place
 subType: region
-description: The settled north-western corner of the Dunhara, on the eastern shore of the Vylarian Sea—walled cities, their oases, and the caravan routes that link them, held by the Kingdom of Amradad.
+description: The settled north-western corner of the Dunhara, on the eastern shore of the Vilérian Sea—walled cities, their oases, and the caravan routes that link them, held by the Kingdom of Amradad.
 tags: [region]
 data:
   demonym: Amradi
@@ -29,7 +29,7 @@ A caravan coming out of the open desert sees Amradad first as a line of green on
 
 ## Geography
 
-The region runs from the eastern shore of the [[place-vylarianse|Vylarian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Bizaria Region]] of the [[affiliation-byzarianlg|Bizarian League]] lies along its northern border, the islands of [[place-taruzelrgn|Taruzel]] across the strait to the west, and its southern edge reaches toward [[place-aukhelathrgq|Au'Khelathu]].
+The region runs from the eastern shore of the [[place-vylarianse|Vilérian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Bizaria Region]] of the [[affiliation-byzarianlg|Bizarian League]] lies along its northern border, the islands of [[place-taruzelrgn|Taruzel]] across the strait to the west, and its southern edge reaches toward [[place-aukhelathrgq|Au'Khelathu]].
 
 This is the desert's wettest margin, which is not saying much. A thin winter rain falls here that the deep south never sees, enough for herding on dry pasture and a narrow belt of grass that greens for a season. Settlement follows the water: the permanent oases, which the cities stand on, and the wadis that run after the winter rains, along which the farming villages string out their fields and orchards.
 
@@ -56,7 +56,7 @@ The Amradi are of Dunhari blood and still count themselves part of the wider Dun
 
 ## Power
 
-A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the ministers of his divans, and a governor (_tagemader_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Kingdom is on warm terms with [[affiliation-cnfdrtntrzlnstts|Taruzel]], which it helped win its freedom from the [[affiliation-vylarinmpr|Vylarian Empire]], a power with which its own relations have long been hostile.
+A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the ministers of his divans, and a governor (_tagemader_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Kingdom is on warm terms with [[affiliation-cnfdrtntrzlnstts|Taruzel]], which it helped win its freedom from the [[affiliation-vylarinmpr|Vilérian Empire]], a power with which its own relations have long been hostile.
 
 ## See Also
 

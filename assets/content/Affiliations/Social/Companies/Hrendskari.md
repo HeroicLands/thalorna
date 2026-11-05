@@ -65,7 +65,7 @@ Status
 
 ## Overview
 
-Hrendskari, "the Boundary Troop" in the north's own speech, is a company of the [[lore-nordheimnclt|Nordheimn]], the Nordmen, raised in the coastal steads of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and hired by the [[affiliation-vylarinmpr|Vylarian Empire]] to man the watchtowers the legion at Dolvar cannot fill. Its name is a compound of _hrend-_, a boundary marker, and _-skari_, a troop, and its standard is a gray boundary-stone on black. The empire has hired Nordmen to hold its frontier since the generation after the raids ([[lore-compactsignd|The Signing of the Compact]]), and Hrendskari is the latest of them.
+Hrendskari, "the Boundary Troop" in the north's own speech, is a company of the [[lore-nordheimnclt|Nordheimn]], the Nordmen, raised in the coastal steads of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and hired by the [[affiliation-vylarinmpr|Vilérian Empire]] to man the watchtowers the legion at Dolvar cannot fill. Its name is a compound of _hrend-_, a boundary marker, and _-skari_, a troop, and its standard is a gray boundary-stone on black. The empire has hired Nordmen to hold its frontier since the generation after the raids ([[lore-compactsignd|The Signing of the Compact]]), and Hrendskari is the latest of them.
 
 The company is cheap, steady and foreign, which is what the war council wants and what the legion holds against it. Its men do the legion's work in the legion's towers on the legion's road, under the legion commander's orders, for silver that comes up the road on the same mules as the legion's.
 
@@ -79,7 +79,7 @@ Every evening the tower-warden counts the smoke from the forest at dusk and mark
 
 The towers are cold, dull and far apart, and a Nordman fills a dull watch the way the north does. The company keeps its own speech at its own fires, its own feasts at Jel and Midsomar, and its own dead: a man killed on the march is burned on the tower's roof in its fire-basket, and his ashes go north in a jar with the next man going home. The company sings the deaths of its fallen the way the north does, though no sworn skald has come south to sit at its fires. It has a woman who learned the old lays from her mother and sings them, and she holds no rank of the [[affiliation-skaldscrcl|Skalds' Circle]] and claims none.
 
-The company's men marry. A Spear-Sworn who has wintered three years in Dolvar's lower town usually has a wife there, a Mokturan woman whose father shod the legion's horses, and the company's winter quarter is a row of houses below the fortress wall. The children speak Vylari in the street and Nordmal at the table. The legionaries in the same town cannot marry in law until their twenty years are served, and they notice.
+The company's men marry. A Spear-Sworn who has wintered three years in Dolvar's lower town usually has a wife there, a Mokturan woman whose father shod the legion's horses, and the company's winter quarter is a row of houses below the fortress wall. The children speak Vilari in the street and Nordmal at the table. The legionaries in the same town cannot marry in law until their twenty years are served, and they notice.
 
 ## The Articles
 
@@ -97,7 +97,7 @@ The Compact does not count an unsigned company an outlaw. It counts it a company
 
 ## Pay
 
-The empire pays a Spear-Sworn three and a half Ardin a day, an Old Hand five, and the captain a fixed sum by the month, all in silver coin. The chest comes up the military road from [[place-tyrellan|Tirellan]] under the legion's guard, on the same mule-train as the legion's pay, and its silver, like the legion's, is coin the throne has borrowed. A legionary draws less by the day and earns the dole and the citizenship at twenty years ([[doc-vylrnctznshp|Vylarian Citizenship]]). A Nordman earns neither and goes home with what he has saved, which makes him the cheaper soldier by a lifetime.
+The empire pays a Spear-Sworn three and a half Ardin a day, an Old Hand five, and the captain a fixed sum by the month, all in silver coin. The chest comes up the military road from [[place-tyrellan|Tirellan]] under the legion's guard, on the same mule-train as the legion's pay, and its silver, like the legion's, is coin the throne has borrowed. A legionary draws less by the day and earns the dole and the citizenship at twenty years ([[doc-vylrnctznshp|Vilérian Citizenship]]). A Nordman earns neither and goes home with what he has saved, which makes him the cheaper soldier by a lifetime.
 
 The war council pays its companies first. A legion that is paid late grumbles and stays. A company that is paid late leaves, and the war council's clerks pack the companies' chests before the legions'. The legion's coin has come up the road late more than once in recent winters, and the company's has not.
 

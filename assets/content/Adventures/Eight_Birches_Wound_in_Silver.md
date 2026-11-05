@@ -51,7 +51,7 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 - _Guile:_ a drum, a rope, or a song out of step with the walkers breaks the press. A bard of [[affiliation-bardicolgs|the Colleges]] steps out with half a verse.
 - _Parley:_ the clerk's lips move. He cannot speak, but he can write in the dirt with a finger while walking, and what he writes is the count of the pegs and the word _ask_.
 
-**Clues and rewards.** Cairns of pegs, the count of the pegs on the circuit (thirty-one), a clerk's scrawl, a Warden's cord tied on a birch (Silken's, left on a day he could not enter). A Áuldalon sell-sword carries a purse of honest Vylarian silver, a few Ardin.
+**Clues and rewards.** Cairns of pegs, the count of the pegs on the circuit (thirty-one), a clerk's scrawl, a Warden's cord tied on a birch (Silken's, left on a day he could not enter). A Áuldalon sell-sword carries a purse of honest Vilérian silver, a few Ardin.
 
 **Consequences.** A character who falls into step must be carried off the circuit by the others, and loses a night. A death at the circuit adds to the tally the working keeps, and the _marendos_ feels it.
 
@@ -155,4 +155,4 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 - [[lore-blacksnow|The Black Snow]]—the birch law
 - [[lore-theasking|The Asking]]—the song of asking
 - [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-sideris|Zulen Sideris]]
-- [[lore-vylrncrncy|Vylarian Currency]]
+- [[lore-vylrncrncy|Vilérian Currency]]

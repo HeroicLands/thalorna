@@ -21,7 +21,7 @@ sohl:
   flags: {"thalorna": {script_family: Alphabetic}}
 ---
 
-The Helónika is the alphabet of [[place-helionis|Helionis]] and the eastern half of the civilized world—twenty-four letters, seven of them vowels, each with a majuscule and a minuscule form, written left to right with spaces between words and a raised dot at the end of a sentence. It is the older of the two great alphabets: the [[skill-semrnscrpt|Semaron]] took its habit of writing vowels as letters rather than as points from [[skill-helonclng|Helonic]] practice, and [[lore-vylarianclt|Vylarian]] scholars, who dislike admitting it, still cite Helonic works in the original.
+The Helónika is the alphabet of [[place-helionis|Helionis]] and the eastern half of the civilized world—twenty-four letters, seven of them vowels, each with a majuscule and a minuscule form, written left to right with spaces between words and a raised dot at the end of a sentence. It is the older of the two great alphabets: the [[skill-semrnscrpt|Semaron]] took its habit of writing vowels as letters rather than as points from [[skill-helonclng|Helonic]] practice, and [[lore-vylarianclt|Vilérian]] scholars, who dislike admitting it, still cite Helonic works in the original.
 
 A capital marks a proper name and the first word of a paragraph, and nothing else; a sentence that begins inside a paragraph begins in a minuscule.
 

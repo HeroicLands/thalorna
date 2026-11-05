@@ -54,7 +54,7 @@ One thread of commentary comes from [[affiliation-kalihara|Kalihara]], and from 
 
 ## Relations with the Wider World
 
-For practical purposes, Iseron stands outside the trade and diplomatic networks of the rest of Thalorna. The occasional expedition reaches it; the occasional Iseronian artifact reaches the cabinets of Ankarian collectors; nothing resembling regular commerce has ever been established. The Elder Races are effectively absent. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height did not attempt Iseronian voyages. Even the most ambitious Ankarian maritime traditions treat the southern continent as a destination for obsession rather than for business.
+For practical purposes, Iseron stands outside the trade and diplomatic networks of the rest of Thalorna. The occasional expedition reaches it; the occasional Iseronian artifact reaches the cabinets of Ankarian collectors; nothing resembling regular commerce has ever been established. The Elder Races are effectively absent. The [[affiliation-vylarinmpr|Vilérian Empire]] at its height did not attempt Iseronian voyages. Even the most ambitious Ankarian maritime traditions treat the southern continent as a destination for obsession rather than for business.
 
 What draws the occasional expedition south is not trade but the ruins—and the conviction, never quite proven and never quite dispelled, that Iseron holds something the rest of Thalorna has forgotten.
 

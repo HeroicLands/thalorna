@@ -28,7 +28,7 @@ data:
               tens of thousands land around 1200 BF of perhaps a hundred thousand who set out, and every human on the island today descends from those who made it
             knowledge: named
           - place: place-midhalnrgn
-            how: the peoples who settle this coast diverge into the Vylari and their neighbors over the centuries that follow
+            how: the peoples who settle this coast diverge into the Vilari and their neighbors over the centuries that follow
             knowledge: named
           - place: place-nrdlndsrgn
             how: the kings of the north trace their lines back into the mists of the movement
@@ -60,7 +60,7 @@ grouping of related tribes, and the Migration was not a wandering. It was a disp
 cause: the [Varkhad]{.name data-type="lore/folk"} took the homelands in [[lore-varkhadcnq|the Varkhad Conquest]], and generations of pressure pushed whole
 peoples ahead of them across half a continent.
 
-It stopped at the sea. That is why the Pelwar-descended peoples—the [[lore-elavendrnppl|Élavendren People]], the [[lore-aelendnppl|Áelendan People]], Vylari,
+It stopped at the sea. That is why the Pelwar-descended peoples—the [[lore-elavendrnppl|Élavendren People]], the [[lore-aelendnppl|Áelendan People]], Vilari,
 Nordmal, [[lore-varokhiclt|Varokhi]], Tarveni, Provenzal and the rest—are packed along the western coastline as densely
 as they are, and why a few communities did the only thing left and went across the water.
 

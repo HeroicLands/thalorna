@@ -6836,7 +6836,7 @@ data:
     - {form: Thúravardh, instead: Thurarth, why: a name with a lip sound the tongue does not make}
     - form: kálmethathen
       instead: dhónkathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kaldrema
       instead: lonku
       why: "a word of the Sinale's own domains; the Sinale loan is written instead"
@@ -6861,10 +6861,10 @@ data:
       why: "a word of the Sinale's own domains; the Sinale loan is written instead"
     - form: dokhathen
       instead: rúnathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: tharlema
       instead: óstila
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: marendis
       instead: sáumirsa
       why: "a word of the Sinale's own domains; the Sinale loan is written instead"
@@ -6876,493 +6876,493 @@ data:
       why: "a word of the Sinale's own domains; the Sinale loan is written instead"
     - form: tháurathen
       instead: ghélathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: tháuralon
       instead: ghélalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: lusathen
       instead: théndathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: semnalis
       instead: dhárela
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: khelmaron
       instead: gurthon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: últhathen
       instead: írthathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: últhandon
       instead: irthon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ánulthathen
       instead: ánirthathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thrima
       instead: ruthis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: nekhaimon
       instead: mirgon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kúrthema
       instead: mendis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kúrthalon
       instead: méndalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: semrotha
       instead: ondra
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kondamon
       instead: dhurnon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: liskaima
       instead: dhuskis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dáimela
       instead: laghand
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dáimathen
       instead: lághathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: lordemon
       instead: kurnis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: komrela
       instead: tirna
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dáimelalon
       instead: lághalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thélmalon
       instead: súnalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: íthrola
       instead: khenthra
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: khedrilis
       instead: omris
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kholsama
       instead: athra
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: komrelalon
       instead: tírnalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: therona
       instead: dhelnis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: tarkhelon
       instead: dhólgalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: selkhora
       instead: dholga
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: rathauna
       instead: renthis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: nélamis
       instead: nelis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: tholmara
       instead: dulna
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ulmera
       instead: sira
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dorkima
       instead: talgis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thersolis
       instead: ghersa
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thernathen
       instead: élthethen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: nardelon
       instead: kiron
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: oltrema
       instead: óskena
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thurkelon
       instead: móghalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: últhalon
       instead: írthalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: sarkhenanda
       instead: lónthanda
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thordima
       instead: kithe
       why: "a word of the Sinale's own domains; the Sinale loan is written instead"
     - form: thilandon
       instead: grathon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dokhemon
       instead: runon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kordathen
       instead: drúgathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thrumathen
       instead: úldathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thrumar
       instead: uldar
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thárkelon
       instead: thorgon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: gáimela
       instead: kaipes
       why: "a word of the Sinale's own domains; the Sinale loan is written instead"
     - form: thurdimon
       instead: kranon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ulthimon
       instead: ghilson
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kelthathen
       instead: múghathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: solkimon
       instead: menthon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thradina
       instead: sorgis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: delalon
       instead: gherdon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: lokhathen
       instead: árnathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: tigathen
       instead: rógathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: okhethen
       instead: nórethen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: usathen
       instead: ghéthathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dorandar
       instead: tenthar
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ránethur
       instead: methur
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dorekhis
       instead: krenis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: en
       instead: mund
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kho
       instead: tos
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: enoi
       instead: nus
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ul
       instead: rek
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ar
       instead: nond
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: tha
       instead: ses
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ir
       instead: ris
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: us
       instead: gheth
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thaurand
       instead: gheland
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: semroth
       instead: ondren
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: sarkhenand
       instead: lonthand
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thordimand
       instead: símmenne
       why: "a word of the Sinale's own domains; the Sinale loan is written instead"
     - form: aruk
       instead: nonduk
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: tholmesa
       instead: nolgra
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kuthresa
       instead: thengra
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dhámolis
       instead: ghorna
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: enthodis
       instead: ánkenis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: nasdis
       instead: thargis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: nasdalon
       instead: thárgalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ornalon
       instead: úrdalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thidharon
       instead: kernon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thidharand
       instead: kernand
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: dhaktela
       instead: laghis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kurdhalis
       instead: ughra
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: álthesa
       instead: ilda
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: orenon
       instead: molthon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: orenathen
       instead: mólthathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dhílmara
       instead: mendra
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kresulathen
       instead: ághrathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thrameson
       instead: dharthon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thramesand
       instead: dharthand
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: nurison
       instead: lughon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thelaralon
       instead: úrkenon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kíramarlen
       instead: sílderon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: renkhon
       instead: telgon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: erosalon
       instead: mírdalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: káralson
       instead: kárathon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: sirothathen
       instead: máldathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: sirothalon
       instead: máldalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: sírothon
       instead: maldon
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: ánsiroth
       instead: ánmaldar
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: dumaralon
       instead: khálalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ramolsa
       instead: trénkira
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: remalis
       instead: ghalnis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: enthison
       instead: korthon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ghulm
       instead: drun
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: ghulmand
       instead: drunand
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: ghulmalon
       instead: drúnalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: gulmesa
       instead: drunsa
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ormalis
       instead: mirla
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: olthamis
       instead: ilmis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thremusis
       instead: sulmis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: sodhrakis
       instead: dorla
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: nélamesa
       instead: neldra
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: theronand
       instead: dhelnand
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: neralis
       instead: dulgis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ilaras
       instead: sirthal
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: khalmesar
       instead: khalmon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: grumalon
       instead: tálkeron
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: althokis
       instead: kerthis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: umelthathen
       instead: ánkenathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ritheson
       instead: ruskon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: rithesand
       instead: ruskand
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: nemethen
       instead: lúrgathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: némsenthira
       instead: lúrgsenthira
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: dhemrolon
       instead: ghromon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dhemrolara
       instead: ghrómalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: serthasis
       instead: ganthis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: lamison
       instead: lethon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: loresathen
       instead: lórnethen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: loresand
       instead: lornand
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: oldhemon
       instead: moghon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: khésdathen
       instead: sárgathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: semarson
       instead: ugrin
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: grumesa
       instead: ghresa
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ghretala
       instead: ghenta
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: khadsimon
       instead: dhelkon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: dhurgalis
       instead: ghorthis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thurgeson
       instead: gandurth
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thumalis
       instead: dhúrgala
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: malkhesa
       instead: thruk
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: radsimon
       instead: rúdhamon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: tamandon
       instead: ghársalon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ghartema
       instead: thelgis
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ghartand
       instead: thelgand
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: tháleson
       instead: ghrelon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: erdakis
       instead: dhesna
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: khésilon
       instead: ghenkon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: losethen
       instead: thélkathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: ursithen
       instead: rónithen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: gháurathen
       instead: khálathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: elsathen
       instead: mésathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kháresathen
       instead: ghérkathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kháresand
       instead: gherkand
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: orsathen
       instead: drósathen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: niseron
       instead: thinen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: elsur
       instead: ordhur
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: olemiks
       instead: rethik
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: sorimaks
       instead: dhorgen
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: umaris
       instead: takhes
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - form: táumaris
       instead: tátakhes
-      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+      why: "a word built on one that reads as a Vilari word; the new word is written instead"
     - form: thamesur
       instead: mórdamon
-      why: "a word that reads as a Vylari word; the native word is written instead"
+      why: "a word that reads as a Vilari word; the native word is written instead"
     - {form: khe, instead: khena, why: "an Earth word, the yes-or-no question particle"}
 sohl:
   system:
@@ -7490,11 +7490,11 @@ An Élavendri speaker cannot understand Áelendi without study. The phonetic dif
 
 ## Script & Literacy
 
-The settlers who came over the pass had only the [[skill-thrvrdhscrpt|Thurarth]] runes, the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the [[lore-nordheimnclt|Nordheimn]] their [[skill-thuravarkscript|Thuravark Runic Script]] and the [[affiliation-vylarinmpr|Vylarian Empire]] its [[skill-thrvrknscrpt|Tharavarkon Script]]. Thurarth is for carving, and they had nothing to write with in the ordinary way. Monuments, old magic and poetry are still cut in it, and its cuttings hold separate staves for the ejectives and the aspirated stops that [[skill-elvndrlng|Élavendri]] has let fall together, so a lowland scholar reading an old inscription is spelling sounds his own mouth no longer makes.
+The settlers who came over the pass had only the [[skill-thrvrdhscrpt|Thurarth]] runes, the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the [[lore-nordheimnclt|Nordheimn]] their [[skill-thuravarkscript|Thuravark Runic Script]] and the [[affiliation-vylarinmpr|Vilérian Empire]] its [[skill-thrvrknscrpt|Tharavarkon Script]]. Thurarth is for carving, and they had nothing to write with in the ordinary way. Monuments, old magic and poetry are still cut in it, and its cuttings hold separate staves for the ejectives and the aspirated stops that [[skill-elvndrlng|Élavendri]] has let fall together, so a lowland scholar reading an old inscription is spelling sounds his own mouth no longer makes.
 
 What is written rather than cut is written in the [[skill-clthndscrpt|Veldikko]], the Sinale starlight-hand, which the Áelendan took from their neighbors rather than received from any ancestor. Writing Áelendi in the Veldikko is not writing [[skill-sinalelng|Sinale]]: the script came across and the tongue did not. Áelendi is Pelwar in descent, takes its loanwords from Sinale without sharing its grammar, and is the language of every page set down in the hand. Anything old enough to be ancient in the region is therefore Áelendi, written in the Veldikko, and carved work is in Thurarth. The [[lore-flksinale|Sinale]] enclaves are near, old, and on terms with the highlands they keep with nobody else, and the hand came across the way everything else between them has. Why the Sinale opened it to these neighbors and not to others is the same question their whole closeness raises, and it has never been answered by either side.
 
-[[skill-elvndrlng|Élavendri]] did not take it. The lowlands went the other way and adopted the [[skill-semrnscrpt|Semaron]], the working alphabet of the Vylarian Empire, and an Élavendri book is in imperial letters. So the two branches borrowed their writing from opposite neighbors, and that is the whole account of how they came to differ: one people stayed in the Sinale's orbit and took what the Sinale had, the other moved into Vylaria's and took what Vylaria had, and the speech of each went the way of the company it kept.
+[[skill-elvndrlng|Élavendri]] did not take it. The lowlands went the other way and adopted the [[skill-semrnscrpt|Semaron]], the working alphabet of the Vilérian Empire, and an Élavendri book is in imperial letters. So the two branches borrowed their writing from opposite neighbors, and that is the whole account of how they came to differ: one people stayed in the Sinale's orbit and took what the Sinale had, the other moved into Viléria's and took what Viléria had, and the speech of each went the way of the company it kept.
 
 What the two hands reach is not comparable. An Élavendri page can be read by anyone holding the Semaron, which is most of the educated across [[place-midhalnrgn|Midhalión Region]] and the western [[place-ankrscntnnt|Ankaris Continent]]; an Áelendi page can be read by the Sinale and by almost nobody else alive. And the two peoples can speak and cannot read—the tongues are near enough for a conversation, and the highlander commonly has the lowland one besides, but neither makes out a line the other has set down. Only in the carved work of magic and old poetry, which the Élavendri read as a learned skill, do they meet on a page.
 
@@ -7687,7 +7687,7 @@ The verb at the heart of the field is _ghélathen_, to keep. It is what a Warden
 
 ### Kin, the clan and the name
 
-A clan is its founder's name with an ending, "those of" him, and the word for kin is built the same way: _sorethendi_, those of one blood. Nobody in the highlands belongs to a household the way a Vylarian belongs to one, under a master who answers for him. The head of a household is _sorkhand_, a man who speaks for the hearth in council, and the council can overrule him.
+A clan is its founder's name with an ending, "those of" him, and the word for kin is built the same way: _sorethendi_, those of one blood. Nobody in the highlands belongs to a household the way a Vilérian belongs to one, under a master who answers for him. The head of a household is _sorkhand_, a man who speaks for the hearth in council, and the council can overrule him.
 
 A child is _lughon_ until it is named, and the naming is the event. The genealogies, recited by the Tradition Keepers at every gathering, are lists of names and nothing else, and to have a name in them is to exist. An earned name, _sílderon_, is sung once at the gathering after the deed and is the bearer's from then on. A name inherited through a clan is _arlendi_, the same ending again. The lowland houses that claim Áelendan descent claim it in exactly these words, and the Keepers are the only people who can say whether the claim is true.
 
@@ -7755,7 +7755,7 @@ The verbs are almost all inherited, and every inherited verb closes on the old i
 
 ### Numbers and grammar words
 
-The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of [[place-alyssa|Alessa]].
+The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vilari is wearing down in the streets of [[place-alyssa|Alessa]].
 
 ### Color and the look of things
 

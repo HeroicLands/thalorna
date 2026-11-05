@@ -32,7 +32,7 @@ alone.
 - **Fish and salt.** The cold western water is rich, and the coastal towns live on it. Salt-fish is the
   region's bulk export and the least interesting thing about it.
 - **Ship timber and fine timber.** Lirve's oak and silver birch are the best in [[place-aureldirgn|Aureldia]], and cutting
-  is **licensed, limited and watched**. What is released reaches shipyards as far as the [[place-vylarianse|Vylarian Sea]]
+  is **licensed, limited and watched**. What is released reaches shipyards as far as the [[place-vylarianse|Vilérian Sea]]
   and commands prices that reflect the difficulty rather than the supply.
 - **Dyestuffs**—coastal lichens, shellfish purple and woad from the cleared ground behind the cliffs.
   These feed the [[place-ellive|Éllive]] textile trade and are worth more by weight than most metals.

@@ -428,7 +428,7 @@ Atazkharu stands 6'2\" tall with a medium build. He has olive-tanned skin, dark 
 
 # Dossier {#dossier}
 
-Atazkharu, called Chuyelqiimod, “the Silent Jackal,” on the steppe, and Chuel by those who know him, was a desert ranger from the [[affiliation-rqdrtrb|Oroqidur]] nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atazkharu developed a connection with the desert and its spiritual forces. During one of his routine desert patrols, Atazkharu stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], who had wandered deep into the desert after the first of his celestial visions. At the time, Amqelet-Zelemu Legulu’akun was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
+Atazkharu, called Chuyelqiimod, “the Silent Jackal,” on the steppe, and Chuel by those who know him, was a desert ranger from the [[affiliation-rqdrtrb|Oroqidur]] nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazrin Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atazkharu developed a connection with the desert and its spiritual forces. During one of his routine desert patrols, Atazkharu stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], who had wandered deep into the desert after the first of his celestial visions. At the time, Amqelet-Zelemu Legulu’akun was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
 
 Atazkharu, guided by an instinctual pull from the [Jackal Spirit]{.name data-type="lore/spirit"}—a protector of wanderers in the desert—rescued Amqelet-Zelemu Legulu’akun and brought him to a hidden oasis. It was there, as Amqelet-Zelemu Legulu’akun shared his visions of celestial upheaval, that Atazkharu realized their fates were entwined. The same stars that guided Amqelet-Zelemu Legulu’akun through his visions also aligned with the Oroqidur’s ancient prophecies. Believing that Amqelet-Zelemu Legulu’akun’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atazkharu pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
 
@@ -479,7 +479,7 @@ Voice
 : Atazkharu’s voice is quiet and often soft-spoken, better suited for stealth and secrecy than for singing. He avoids singing when possible.
 
 Desert Survivalist
-: Atazkharu’s mastery of the Khazryn Desert allows him to navigate the harsh environment with ease, so the group can find shelter, water, and food even in the most desolate areas.
+: Atazkharu’s mastery of the Khazrin Desert allows him to navigate the harsh environment with ease, so the group can find shelter, water, and food even in the most desolate areas.
 
 Silent Tracker
 : As a ranger, Atazkharu can move unnoticed through almost any terrain, making him useful as a scout and guide. His ability to follow tracks, both physical and spiritual, helps the group avoid danger.

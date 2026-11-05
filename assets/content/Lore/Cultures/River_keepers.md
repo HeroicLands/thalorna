@@ -22,7 +22,7 @@ The **Luwando** are the river-keepers, one of the four traditions of the [[lore-
 
 ## Where They Live
 
-Luwando tribes live along the great rivers of the [[place-cntrlrnfrsts|Central Rainforests]], both the ones that run north to the [[place-vylarianse|Vylarian Sea]] and the ones that run south into the flooded wetlands. Each tribe holds a stretch of one river, a few days by dugout from end to end, and its bands camp on the high banks where the water does not reach in the rains. The northernmost Luwando are the tribes nearest the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
+Luwando tribes live along the great rivers of the [[place-cntrlrnfrsts|Central Rainforests]], both the ones that run north to the [[place-vylarianse|Vilérian Sea]] and the ones that run south into the flooded wetlands. Each tribe holds a stretch of one river, a few days by dugout from end to end, and its bands camp on the high banks where the water does not reach in the rains. The northernmost Luwando are the tribes nearest the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
 
 ## How They Live
 

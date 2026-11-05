@@ -2,7 +2,7 @@
 shortcode: rostralbeaks
 name: {full: The Rostral Beaks of Tamzir Shoals, en: [The Squadron's Rams, The Rams of the Shoals]}
 type: miscgear
-description: "The cast-bronze rams of the Vylarian squadron destroyed in the Tamzir Shoals in 708 AF, still on the wrecks where the outlaws of the Shoals Brotherhood live; Yamuzel wants them on a column, the empire wants them home, and the Brotherhood's code forbids selling a single one."
+description: "The cast-bronze rams of the Vilérian squadron destroyed in the Tamzir Shoals in 708 AF, still on the wrecks where the outlaws of the Shoals Brotherhood live; Yamuzel wants them on a column, the empire wants them home, and the Brotherhood's code forbids selling a single one."
 tags: [artifact, taruzel]
 data: {icon: icon-anvilbdg, templatePriority: null, packFolder: taruzel, unique: true}
 sohl: {system: {weightBase: 900, valueBase: 0, qualityBase: 0, durabilityBase: 25}}
@@ -10,7 +10,7 @@ sohl: {system: {weightBase: 900, valueBase: 0, qualityBase: 0, durabilityBase: 2
 
 ## Overview {#overview}
 
-Each heavy warship of the Vylarian squadron that followed the war's flotilla into the [[place-tamzirshoals|Tamzir Shoals]] in 708 carried a ram at her bow: a beak of cast bronze longer than a man and heavier than a cart can carry, made to stave in a hull at the waterline. The squadron died in the Shoals, and its rams lie there still, on the wrecks among which the [[affiliation-shoalsbrthd|Shoals Brotherhood]] lives. Only a few have ever been seen above water. They are the most valuable thing in the Shoals, and nobody can buy one.
+Each heavy warship of the Vilérian squadron that followed the war's flotilla into the [[place-tamzirshoals|Tamzir Shoals]] in 708 carried a ram at her bow: a beak of cast bronze longer than a man and heavier than a cart can carry, made to stave in a hull at the waterline. The squadron died in the Shoals, and its rams lie there still, on the wrecks among which the [[affiliation-shoalsbrthd|Shoals Brotherhood]] lives. Only a few have ever been seen above water. They are the most valuable thing in the Shoals, and nobody can buy one.
 
 ## Who Holds It {#who-holds-it}
 
@@ -24,18 +24,18 @@ The halls of the veterans tell the battle as the islands' freedom. The navy at K
 
 ## What It Does {#what-it-does}
 
-A ram is a trophy for whoever sets it up and a grief for whoever lost it. [[place-orzara|Orzara]] sets the rams of its enemies on the columns of the [Paldor]{.name data-type="place/feature"}, the Triumphal Way, and on the fronts of the speakers' platforms in the [[place-platandstr|Platan District]]. A Vylarian ram on a Taruzelian column says the same thing back.
+A ram is a trophy for whoever sets it up and a grief for whoever lost it. [[place-orzara|Orzara]] sets the rams of its enemies on the columns of the [Paldor]{.name data-type="place/feature"}, the Triumphal Way, and on the fronts of the speakers' platforms in the [[place-platandstr|Platan District]]. A Vilérian ram on a Taruzelian column says the same thing back.
 
 ## Who Wants It {#who-wants-it}
 
 - **The admirals of [[affiliation-yamuzel|Yamuzel]]** want a column of them raised at the [[place-straitfortress|Strait Fortress]], as the empire raises its enemies' rams in Orzara.
-- **The [[affiliation-vylarinmpr|Vylarian Empire]]** wants them home. Its factors in the eastern harbors let it be known that the navy pays well for any ram returned to Kastamar.
+- **The [[affiliation-vylarinmpr|Vilérian Empire]]** wants them home. Its factors in the eastern harbors let it be known that the navy pays well for any ram returned to Kastamar.
 - **The Shoals Brotherhood** says the rams belong to the Shoals, and its code forbids any Brother to sell one. Its Elders fought in the battle that sank them.
 - **The [[affiliation-corsairleg|Corsair League]]** has never followed the Brotherhood into the Shoals, and its captains who sailed with the Elders in the war do not say whether they want the rams raised.
 
 ## Hooks {#hooks}
 
-- A Vylarian factor in an eastern harbor hires a party to find a ship that can carry a ram, without saying where the ram is to come from.
+- A Vilérian factor in an eastern harbor hires a party to find a ship that can carry a ram, without saying where the ram is to come from.
 - An admiral of Yamuzel offers a party a League warrant for the season if it brings him a ram out of the Shoals.
 
 :::secret {title="The admiral's ship and the two rams"}
@@ -43,7 +43,7 @@ A ram is a trophy for whoever sets it up and a grief for whoever lost it. [[plac
 
 **The admiral's ship is in Sulimar.** The imperial flagship did not burn and was not taken. On the second day she was driven through the gap in the ring on the morning flood, holed by a fishing boat's ram, and sank in the lagoon in four fathoms of still water, where she lies upright with her ram and her stern-post standing clear of the mud ([[place-tamzirshoals|Tamzir Shoals]]).
 
-**Two rams are missing from the count.** The Brotherhood has paid the families of its dead nothing for two seasons. Its Caller, [Burakan Zupumi]{.name data-type="being/npc"}, has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vylarian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms. The Elders do not know. If they learn before the rams are sold, Burakan is judged under the fifth article and the Brotherhood splits; if after, the Brotherhood has broken its own code for Vylarian silver ([[affiliation-shoalsbrthd|Shoals Brotherhood]]). An Elder who counts the rams in Sulimar and gets a number he does not like wants someone outside the Brotherhood to count them again.
+**Two rams are missing from the count.** The Brotherhood has paid the families of its dead nothing for two seasons. Its Caller, [Burakan Zupumi]{.name data-type="being/npc"}, has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vilérian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms. The Elders do not know. If they learn before the rams are sold, Burakan is judged under the fifth article and the Brotherhood splits; if after, the Brotherhood has broken its own code for Vilérian silver ([[affiliation-shoalsbrthd|Shoals Brotherhood]]). An Elder who counts the rams in Sulimar and gets a number he does not like wants someone outside the Brotherhood to count them again.
 :::
 
 ## See Also {#see-also}

@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Diqrakur**, "the stone people", are a [[lore-sowidesclt|Sovidur]] tribe of the southern [[place-dkrqrrgn|Diqraqor]], in the [[place-khzryndsrtrgn|Khazryn]], on the plateau's southern slopes where the [[affiliation-tribestrzd|Atarzád]] herds come up from round [[place-mountshofar|Mount Shofar]]. For every enemy a Diqrakur man kills, the tribe raises a standing stone, and a man is read by his row. Their feud with the Atarzád is the most active on the plateau, and it lengthens the rows every year.
+The **Diqrakur**, "the stone people", are a [[lore-sowidesclt|Sovidur]] tribe of the southern [[place-dkrqrrgn|Diqraqor]], in the [[place-khzryndsrtrgn|Khazrin]], on the plateau's southern slopes where the [[affiliation-tribestrzd|Atarzád]] herds come up from round [[place-mountshofar|Mount Shofar]]. For every enemy a Diqrakur man kills, the tribe raises a standing stone, and a man is read by his row. Their feud with the Atarzád is the most active on the plateau, and it lengthens the rows every year.
 
 ## The Range
 

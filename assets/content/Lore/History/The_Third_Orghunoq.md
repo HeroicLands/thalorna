@@ -60,7 +60,7 @@ The Third Orghunoq is the third of the steppe's great unions, named for a town t
 
 ## The Union
 
-About 548 AF an orghun forced the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] together for the third time. The union overran the eastern fringe of [[place-velanthrgn|Velanthia]], as the steppe has done more than once, and it never came near enough to [[place-tantsouregin|Tantsou]] to threaten it. It broke up when its orghun died, and the tribes went back to their wells.
+About 548 AF an orghun forced the independent tribes of the [[place-khzryndsrtrgn|Khazrin]] together for the third time. The union overran the eastern fringe of [[place-velanthrgn|Velanthia]], as the steppe has done more than once, and it never came near enough to [[place-tantsouregin|Tantsou]] to threaten it. It broke up when its orghun died, and the tribes went back to their wells.
 
 ## The Fair
 

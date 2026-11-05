@@ -597,5 +597,5 @@ danver tiver, merin. miver danver tiver.
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the seven houses and the Council the revived house sits on
 
-[[skill-tellumilng#lexicon|Khazryn Lexicon]]
+[[skill-tellumilng#lexicon|Khazrin Lexicon]]
 : the names the song uses, and what they mean

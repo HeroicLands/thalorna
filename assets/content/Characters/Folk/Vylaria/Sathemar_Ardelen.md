@@ -95,7 +95,7 @@ He has none, and refuses every offer of one in public.
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a citizen by twenty years in the legions, drawing a senior centurion's pension.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a citizen by twenty years in the legions, drawing a senior centurion's pension.
 - **The veterans' stairs**: tribune by acclamation of some sixty stairs, with no charter and no seal.
 
 ## Plot Hooks

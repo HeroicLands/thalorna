@@ -28,7 +28,7 @@ At the top the lanes run between blank walls. The houses turn their backs to the
 
 ## The Day on the Heights
 
-The Heights run on the morning call, _pramolza_. Before dawn the clients climb from every ward to their patrons' doors, in their best mantles, and stand in the lane in the order of their standing until the door opens. The master greets them, takes their petitions, hears their news and sends them on with a small coin, a dinner invitation or a promise, and by the second hour the lanes are full of clients going down again and stewards going down to the [[place-platandstr|Platan District]] and the [[place-grandmarketorz|Grand Market]] on the house's business. In the afternoon the houses visit one another, and in the evening they dine, and a dinner on the Heights is where the business of [[affiliation-seldan|The Vylarian Senate]] is done before the Seldan meets.
+The Heights run on the morning call, _pramolza_. Before dawn the clients climb from every ward to their patrons' doors, in their best mantles, and stand in the lane in the order of their standing until the door opens. The master greets them, takes their petitions, hears their news and sends them on with a small coin, a dinner invitation or a promise, and by the second hour the lanes are full of clients going down again and stewards going down to the [[place-platandstr|Platan District]] and the [[place-grandmarketorz|Grand Market]] on the house's business. In the afternoon the houses visit one another, and in the evening they dine, and a dinner on the Heights is where the business of [[affiliation-seldan|The Vilérian Senate]] is done before the Seldan meets.
 
 ## Who Lives and Works Here
 

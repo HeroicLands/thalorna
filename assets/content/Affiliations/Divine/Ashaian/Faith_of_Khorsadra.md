@@ -107,4 +107,4 @@ With the other deities, Khórsadra maintains relationships of general respect an
 
 In the [[affiliation-kngdmmrdd|Kingdom of Amradad]] the faith stands close to the throne: its Shekhul, [Khazafir the Stargazer]{.name data-type="being/npc"}, is the Shebarader's chief astronomer and his adviser on learning. Its quarrel at home is its own rule of merit, which promotes the able poor beside the children of the great and is resented by families of wealth and rank who expect their sons and daughters to rise by birth.
 
-In the [[place-khzryndsrtrgn|Khazryn]] the steppe tribes honor Khórsadra as the eternal light of the sky, beside Bazhrámiš of the storms. The [[affiliation-tribestrzd|Atarzád]] let no temple to any god but Ataros stand on their land, so the goddess has no house in the four cities they hold.
+In the [[place-khzryndsrtrgn|Khazrin]] the steppe tribes honor Khórsadra as the eternal light of the sky, beside Bazhrámiš of the storms. The [[affiliation-tribestrzd|Atarzád]] let no temple to any god but Ataros stand on their land, so the goddess has no house in the four cities they hold.

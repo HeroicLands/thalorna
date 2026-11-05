@@ -33,7 +33,7 @@ data:
 
 **The closed roll.** Tirmana wants the house to outlast the Confederation, as it outlasted the empire. A treasury in the Compact's hands, a council roll that can change and a Thordimalon outside the walls are, to her, three dangers of one kind. The other houses are tempted and wary. The Arch-Consul, [[being-dnshkmn|Danashu Kumuni]], will not put the closed roll on the order while he holds the seal: a closed roll would have kept him off Kudumel's council, and would keep his sons off it for good.
 
-**The audit.** Tirmana believes the treasury's strongroom is short, though she does not know by how much or why. She is right. [[being-yshdyjkdn|Yushuduya Jakuduni]], the Kubasum, entered Vylaria's unpaid war indemnity in the ledger as gold held in the vault. It was the only way to make the first script good, and it has stayed on the books since. An audit would find the gap in a day. Tirmana has not considered what the coast's paper is worth on the morning after.
+**The audit.** Tirmana believes the treasury's strongroom is short, though she does not know by how much or why. She is right. [[being-yshdyjkdn|Yushuduya Jakuduni]], the Kubasum, entered Viléria's unpaid war indemnity in the ledger as gold held in the vault. It was the only way to make the first script good, and it has stayed on the books since. An audit would find the gap in a day. Tirmana has not considered what the coast's paper is worth on the morning after.
 
 **The house's own debt.** When the Qizikuni strongroom ran low early in the war, Tirmana borrowed from Khelathi lenders through a broker of the [[affiliation-mrchntryvl|Merchantry of the Veil]], on notes in the house's name entered in none of its books. The notes lie in the head factor's strongbox at the Khelathi factorage on the Guild Quarter. [[affiliation-empireakhlth|Au'Khelathu]] spent more on Taruzel's war than it meant to, and the head factor now asks, gently, when the houses mean to pay something down. Tirmana pays a little each quarter and finds the coin by calling in what the cities owe the Compact sooner and dearer. The calls fall on the harbor streets and the veterans' halls.
 
@@ -103,7 +103,7 @@ The Qizikuni counting-house on the quay, at the hour the evening clearing closes
 
 **Player choices.** Bring the clerk to Yushuduya, to Tirmana, or let him run.
 
-**Clues and rewards.** The clerk tells what he saw: a vault lighter than the book by a sum close to the indemnity Vylaria refuses to pay.
+**Clues and rewards.** The clerk tells what he saw: a vault lighter than the book by a sum close to the indemnity Viléria refuses to pay.
 
 **Consequences.** Whoever holds the clerk holds the audit's answer before it is asked.
 

@@ -254,7 +254,7 @@ A compact animal with a stocky frame and short, strong legs set for stability. T
 
 ## In the Land
 
-Donkeys are kept in every country where a road is rough: the hill villages of the Southern March, the mountain passes of the Grazian Mountains, the oases and caravan stations of [[place-khzryndsrtrgn|Khazryn Desert Region]] and [[place-dunharargn|Dunhara Region]], the terraced valleys of [[place-aukhelathrgq|Au'Khelathu]] and the salt-works of [[place-swoasisbelt|Tellumel]]. A donkey lives in the yard of the house it works for, grazes on thin pasture and eats little, and walks a mountain path with a load that would stop a horse.
+Donkeys are kept in every country where a road is rough: the hill villages of the Southern March, the mountain passes of the Grazian Mountains, the oases and caravan stations of [[place-khzryndsrtrgn|Khazrin Desert Region]] and [[place-dunharargn|Dunhara Region]], the terraced valleys of [[place-aukhelathrgq|Au'Khelathu]] and the salt-works of [[place-swoasisbelt|Tellumel]]. A donkey lives in the yard of the house it works for, grazes on thin pasture and eats little, and walks a mountain path with a load that would stop a horse.
 
 ## Key Behaviors
 

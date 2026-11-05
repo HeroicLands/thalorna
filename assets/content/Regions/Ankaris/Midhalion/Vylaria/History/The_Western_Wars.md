@@ -39,7 +39,7 @@ data:
             knowledge: named
           - place: place-vylariargn
             how: >-
-              the Kervaron passes carry boundary-stones the Áelendan treat as ritual objects of obscure foreign meaning, and the chancery has listed the range as Vylarian ever since
+              the Kervaron passes carry boundary-stones the Áelendan treat as ritual objects of obscure foreign meaning, and the chancery has listed the range as Vilérian ever since
             knowledge: named
           - place: place-vylarianse
             how: >-
@@ -47,7 +47,7 @@ data:
             knowledge: named
           - place: place-provenzrgn
             how: >-
-              the country keeps Vylarian law and Vylarian architecture from the centuries it was a province
+              the country keeps Vilérian law and Vilérian architecture from the centuries it was a province
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: actor}
@@ -78,15 +78,15 @@ The legions came west in earnest about the middle of the second century. They to
 
 ## Provénzia and Élavendre
 
-[[place-provenzrgn|Provénzia]] became a province of the Empire, and the legions that held it left Vylarian law and Vylarian building behind in it. [[affiliation-kngdmlvndr|Élavendre]] fared differently. The legions entered the outer territories and fought the hill levy and the [[lore-aelendnppl|Áelendan]] to a standstill, and the kingdom came to terms as a tributary, long a vassal in name and never a province.
+[[place-provenzrgn|Provénzia]] became a province of the Empire, and the legions that held it left Vilérian law and Vilérian building behind in it. [[affiliation-kngdmlvndr|Élavendre]] fared differently. The legions entered the outer territories and fought the hill levy and the [[lore-aelendnppl|Áelendan]] to a standstill, and the kingdom came to terms as a tributary, long a vassal in name and never a province.
 
 ## The Kervaron
 
-Expeditions in the same decades climbed the principal passes of the [[place-kervaron|Kervaron Spine]] and planted boundary-stones at each. The Áelendan let each column climb deep into the range and sealed the passes behind it, and the columns sent to enforce the stones were turned back. The chancery lists the range as Vylarian on the strength of the stones, and the clans treat the stones as ritual objects of obscure foreign meaning.
+Expeditions in the same decades climbed the principal passes of the [[place-kervaron|Kervaron Spine]] and planted boundary-stones at each. The Áelendan let each column climb deep into the range and sealed the passes behind it, and the columns sent to enforce the stones were turned back. The chancery lists the range as Vilérian on the strength of the stones, and the clans treat the stones as ritual objects of obscure foreign meaning.
 
 ## The Strait
 
-The western strait is the sea's only door to the ocean. The Empire fortified the northern shore in these years, and the forts have changed hands, been rebuilt and been garrisoned by whoever holds that shore since. Every serious naval plan for the [[place-vylarianse|Vylarian Sea]] has turned on them.
+The western strait is the sea's only door to the ocean. The Empire fortified the northern shore in these years, and the forts have changed hands, been rebuilt and been garrisoned by whoever holds that shore since. Every serious naval plan for the [[place-vylarianse|Vilérian Sea]] has turned on them.
 
 ## What It Left
 
@@ -95,11 +95,11 @@ The western strait is the sea's only door to the ocean. The Empire fortified the
 - **The boundary-stones.** At the Kervaron passes, listed by the chancery and honored by the clans on the clans' terms.
 - **The [Paldor]{.name data-type="place/feature"}.** [[place-orzara|Orzara City]]'s avenue of the wars' trophies, the longest boast in the city.
 - **The strait forts.** The northern shore's fortifications, still garrisoned by whoever holds them.
-- **Provénzia's Vylarian law.** The architecture and the legal forms of the western province, which the [[affiliation-kngdmprvnz|kingdom]] kept after it left.
+- **Provénzia's Vilérian law.** The architecture and the legal forms of the western province, which the [[affiliation-kngdmprvnz|kingdom]] kept after it left.
 
 ## See Also
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the Kervaron Spine and its passage-gifts
 
 [[place-tarvenirgn|Tarvénia Region]]
@@ -108,5 +108,5 @@ The western strait is the sea's only door to the ocean. The Empire fortified the
 [[place-provenzrgn|Provénzia]]
 : the province the wars made
 
-[[place-vylarianse|The Vylarian Sea]]
+[[place-vylarianse|The Vilérian Sea]]
 : the sea the strait opens

@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Kesukur**, "the eagle people", are a [[lore-sowidesclt|Sovidur]] tribe of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], whose range lies a day's ride from the oasis of [[place-wemaq|Vomek]]. They took in the few who escaped when the second orghun killed the [Khuvanur]{.name data-type="affiliation/polity"} at the oasis, and their elders hold the names of the killed by heart. They speak those names in their own camp and never at the water, and [[lore-wemaqcalling|the Calling at Vomek]] is their calling.
+The **Kesukur**, "the eagle people", are a [[lore-sowidesclt|Sovidur]] tribe of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], whose range lies a day's ride from the oasis of [[place-wemaq|Vomek]]. They took in the few who escaped when the second orghun killed the [Khuvanur]{.name data-type="affiliation/polity"} at the oasis, and their elders hold the names of the killed by heart. They speak those names in their own camp and never at the water, and [[lore-wemaqcalling|the Calling at Vomek]] is their calling.
 
 ## The Range
 

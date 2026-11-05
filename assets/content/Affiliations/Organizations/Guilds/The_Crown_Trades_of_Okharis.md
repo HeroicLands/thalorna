@@ -60,7 +60,7 @@ Founded
 
 ## Overview
 
-The Crown Trades of Okharis are the small number of major chartered guilds that handle the kingdom's settled-urban commerce. Unlike the dense guild ecology of Vylarian territory or the matriarchal trade-house network of [[affiliation-mtrrchybth|Bethua]], Okhárian commercial life is dominated by a handful of large, royally-chartered institutions concentrated in the three temple-cities. The remainder of Okhárian economic activity—the nomadic-pastoralist herding that sustains most of the population—operates outside any guild structure, organized through tribal-clan relationships and seasonal exchange at the temple-city festivals.
+The Crown Trades of Okharis are the small number of major chartered guilds that handle the kingdom's settled-urban commerce. Unlike the dense guild ecology of Vilérian territory or the matriarchal trade-house network of [[affiliation-mtrrchybth|Bethua]], Okhárian commercial life is dominated by a handful of large, royally-chartered institutions concentrated in the three temple-cities. The remainder of Okhárian economic activity—the nomadic-pastoralist herding that sustains most of the population—operates outside any guild structure, organized through tribal-clan relationships and seasonal exchange at the temple-city festivals.
 
 The principal Crown Trades are:
 
@@ -79,11 +79,11 @@ The federation of the Crown Trades—the formal recognition that the chartered g
 
 The **Crown Moneylenders** are the Okhárian institution most analogous to a banking body. Chartered jointly at all three temple-cities, operating under direct royal supervision, the Crown Moneylenders handle the kingdom's credit infrastructure: accepting deposits from merchants and noble households, extending credit, issuing letters of credit honored at any of the three temple-city offices, and maintaining the Gar-Hálzi correspondent accounts through which Okhárian commerce reaches the broader Northern Fertile Region.
 
-The Crown Moneylenders are _not_ a banking guild in the Vylarian sense—they do not have the institutional weight or the political position of [[affiliation-danvar|the Danvar]], the Vylarian guild, and Okharis's smaller commercial economy supports a much smaller credit infrastructure. There are perhaps thirty senior moneylender families operating across the three temple-cities, all royally chartered, all coordinating through the Crown's commerce office, all maintaining at least nominal accounts with the Gar-Hálzi.
+The Crown Moneylenders are _not_ a banking guild in the Vilérian sense—they do not have the institutional weight or the political position of [[affiliation-danvar|the Danvar]], the Vilérian guild, and Okharis's smaller commercial economy supports a much smaller credit infrastructure. There are perhaps thirty senior moneylender families operating across the three temple-cities, all royally chartered, all coordinating through the Crown's commerce office, all maintaining at least nominal accounts with the Gar-Hálzi.
 
 The principal Gar-Hálzi correspondent relationships are with the chapter at [[place-garanlaghet|Gar-Anlaghet]] (most important; handles the bulk of Okhárian-Khelathi trade) and with the chapter at [[place-khelzuret|Khelzuret]] (secondary; handles specialty trades). Direct correspondent arrangements with [[place-galezkara|Galezkara]] are rare—the great Khelathi commercial cities prefer to deal with the Bethuan Great Houses, whose volume justifies the correspondent infrastructure.
 
-The Crown Moneylenders' **letters of credit** are honored at any of the three temple-city offices and at the Gar-Hálzi correspondent chapters in Au'Khelathu. They are not generally honored in Bethua (the Bethuan trade-houses prefer to deal with each other or with Gar-Hálzi directly), in Vylarian territory (no formal Danvar recognition), or in Taruzel. An Okhárian merchant traveling to Bethua typically converts his letters to Khelathi temple chits at his home moneylender before departing; from Au'Khelathu the chits can then be exchanged through the Bethuan trade-houses' correspondent network as needed.
+The Crown Moneylenders' **letters of credit** are honored at any of the three temple-city offices and at the Gar-Hálzi correspondent chapters in Au'Khelathu. They are not generally honored in Bethua (the Bethuan trade-houses prefer to deal with each other or with Gar-Hálzi directly), in Vilérian territory (no formal Danvar recognition), or in Taruzel. An Okhárian merchant traveling to Bethua typically converts his letters to Khelathi temple chits at his home moneylender before departing; from Au'Khelathu the chits can then be exchanged through the Bethuan trade-houses' correspondent network as needed.
 
 ## Structure and Governance
 
@@ -129,8 +129,8 @@ The [[affiliation-bthntrdhss|Bethuan Trade-Houses]]
 The pastoral clans
 : the kingdom's larger demographic and the source of the wool, leather, livestock, and craft goods on which the Crown Trades' export economy depends. The relationship is mediated through the festival markets and through the standing courtesy of the clan chieftains who have informal arrangements with specific Crown Moneylenders.
 
-Vylarian merchant traffic
-: small but present. Vylarian Sea-port traders occasionally make the longer journey south to Okhárian territory for specialty goods (gold work, savannah herbs, hide products); the trade is conducted through a small number of specialist Helionite merchant captains who maintain relationships with both the Crown Moneylenders and the Gar-Hálzi correspondent network.
+Vilérian merchant traffic
+: small but present. Vilérian Sea-port traders occasionally make the longer journey south to Okhárian territory for specialty goods (gold work, savannah herbs, hide products); the trade is conducted through a small number of specialist Helionite merchant captains who maintain relationships with both the Crown Moneylenders and the Gar-Hálzi correspondent network.
 
 The [[affiliation-vezakuni|Vezakuni]]
 : distant Taruzelian counterpart. No formal arrangements; Taruzelian merchants visiting Okharis convert currency through the Crown Moneylenders at the standard foreign-exchange spread.

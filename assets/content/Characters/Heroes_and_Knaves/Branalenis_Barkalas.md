@@ -429,7 +429,7 @@ Her black hair is typically worn in neat plaited pigtails. Her eyes are perpetua
 
 ### Daughter of the Sea
 
-Branalenis was born in the great port city of [[place-mercavia|Delalara]] in [[place-salkhalon|Salkalon]], within the [[affiliation-vylarinmpr|Empire of Vylaria]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
+Branalenis was born in the great port city of [[place-mercavia|Delalara]] in [[place-salkhalon|Salkalon]], within the [[affiliation-vylarinmpr|Empire of Viléria]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
 
 At age six, she was effectively adopted by the crew of a merchant vessel, the _[Seaflower]{.name data-type="vehicle"}_, whose captain—a gruff but fair-minded woman named [[being-venthelenkal|Venthelen Kaldremis]]—recognized in the young girl an unusual combination of fearlessness, quick intelligence, and physical capability. From that point forward, her childhood was structured by the rhythms of sea trade rather than schooling.
 

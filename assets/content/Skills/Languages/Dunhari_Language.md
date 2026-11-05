@@ -6025,7 +6025,7 @@ data:
   tongues:
     - {tag: dunhari, meaning: a Dunhari name, language: skill-dunharlng}
     - tag: sovidur
-      meaning: "a Sovidur name, carried by a Khazryn wanderer living among the tribes"
+      meaning: "a Sovidur name, carried by a Khazrin wanderer living among the tribes"
     - {tag: ashaian, meaning: "a name taken from the Ashaian faith, whose gods the tribes keep"}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
@@ -6418,6 +6418,7 @@ data:
     - {form: bahar, instead: bahvar, why: "an Earth word, a member of the Warrior's Circle"}
     - {form: vast-bahar, instead: vazder-bahvar, why: "built on Earth words, the Circle's armband"}
     - {form: Ashalan, instead: Ashaian, why: "a second spelling of the faith's name"}
+    - {form: Khazryn, instead: Khazrin, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6435,7 +6436,7 @@ The roman repertoire keeps the straight catch apostrophe in the registered name 
 
 ## Overview
 
-Dunhari is the melodic, poetic tongue of the desert peoples: the [[place-dunharargn|Dunhara Region]] tribes, the settled communities of the [[place-khzryndsrtrgn|Khazryn Desert Region]], and the urban centers of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. The language is fundamentally shaped by an oral tradition where poetry, song, and storytelling form the primary literary expression. Dunhari speakers value rhythm, metaphor, and the interplay of vowels above all else.
+Dunhari is the melodic, poetic tongue of the desert peoples: the [[place-dunharargn|Dunhara Region]] tribes, the settled communities of the [[place-khzryndsrtrgn|Khazrin Desert Region]], and the urban centers of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. The language is fundamentally shaped by an oral tradition where poetry, song, and storytelling form the primary literary expression. Dunhari speakers value rhythm, metaphor, and the interplay of vowels above all else.
 
 The language features extensive vocabulary for desert navigation, astronomy, water sources, kinship, honor, and the subtleties of weather and seasonal change. Dunhari is the voice of nomadic wisdom and courtly refinement.
 
@@ -6748,7 +6749,7 @@ The systematization of Dunhari poetic meters and formal registers occurred durin
 
 The dialect of the Dunhara tribes and desert peoples, featuring archaic grammatical forms, rich weather vocabulary, and star-navigation terminology.
 
-### Settled Dunhari (Khazryn Dialect)
+### Settled Dunhari (Khazrin Dialect)
 
 Spoken in oasis towns and settled communities, this dialect shows simplified nominal inflection and borrowings from neighboring Ankarian languages. More conservative in poetic register preservation than Nomadic Dunhari.
 

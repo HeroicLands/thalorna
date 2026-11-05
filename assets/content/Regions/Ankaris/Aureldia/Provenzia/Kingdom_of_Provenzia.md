@@ -117,11 +117,11 @@ sohl: {system: {commonSkills: [provnzlng]}}
 
 ## Overview
 
-The Kingdom of Provénzia is a prosperous, cultured realm that won its independence from the [[affiliation-vylarinmpr|Vylarian Empire]] roughly a century ago, in [[lore-charterwar|the War of the Charter]], fought for the estates' rights against a _therkos_ (governor) rather than for a crown against an emperor—long enough that the memory of imperial rule has faded into a sense of cultural inheritance rather than resentment. Provénzia took the best of Vylarian civilization—its law, its learning, its architecture—and married it to a native tradition of artistic expression and courtly refinement. The kingdom holds the land of the [[place-provenzrgn|Provénzia Region]].
+The Kingdom of Provénzia is a prosperous, cultured realm that won its independence from the [[affiliation-vylarinmpr|Vilérian Empire]] roughly a century ago, in [[lore-charterwar|the War of the Charter]], fought for the estates' rights against a _therkos_ (governor) rather than for a crown against an emperor—long enough that the memory of imperial rule has faded into a sense of cultural inheritance rather than resentment. Provénzia took the best of Vilérian civilization—its law, its learning, its architecture—and married it to a native tradition of artistic expression and courtly refinement. The kingdom holds the land of the [[place-provenzrgn|Provénzia Region]].
 
 ## Government
 
-The kingdom is ruled by a monarch whose power is constrained by a [Charter of Rights]{.name data-type="lore/law"} won in the War of the Charter. Its first king, [Ylarven Lédravren]{.name data-type="being/npc"} of [House Lédravren]{.name data-type="affiliation/lineage"}, was chosen by the estates to hold it, and his house has held the crown since; the one succession the Charter did not settle was fought out in [[lore-warprinces|the War of the Princes]]. The nobility holds significant authority through a [Council of Peers]{.name data-type="affiliation/governmental"}, and the major cities maintain chartered rights including self-governance on local matters. This produces a political culture of negotiation and consensus that is more stable than Vylaria's factional scheming, though no less intricate.
+The kingdom is ruled by a monarch whose power is constrained by a [Charter of Rights]{.name data-type="lore/law"} won in the War of the Charter. Its first king, [Ylarven Lédravren]{.name data-type="being/npc"} of [House Lédravren]{.name data-type="affiliation/lineage"}, was chosen by the estates to hold it, and his house has held the crown since; the one succession the Charter did not settle was fought out in [[lore-warprinces|the War of the Princes]]. The nobility holds significant authority through a [Council of Peers]{.name data-type="affiliation/governmental"}, and the major cities maintain chartered rights including self-governance on local matters. This produces a political culture of negotiation and consensus that is more stable than Viléria's factional scheming, though no less intricate.
 
 The crown's relationship with the [[affiliation-ordoarcanis|Thordimalon]] is distinctive: Provénzia welcomes the Arcane Order but insists on royal oversight of its activities. Mages in Provénzia answer to the crown as well as to the Arcane Order, a compromise that irritates the Arcane Order's leadership but has produced a more open magical culture than exists anywhere else in the [[place-midhalnrgn|Midhalión Region]].
 
@@ -147,7 +147,7 @@ The rivalry between Degavel and Atavel is the one that most often leaves the Cou
 
 ## The Two Peoples
 
-The kingdom holds two peoples who share a Charter and not much else. The **Tanevar** are the old people of the country. They remember their petty kings, broken at [[lore-tiravlenbattle|Tiravlen]], and the habit of governing themselves in their own valleys. The **Provénzians** are the city-dwellers, the heirs of the old Vylarian province ([[lore-aurelianefound|The Founding of Aurelane]]), and the crown governs from their cities. The Tanevar hold that the Charter was the cities' and that the country was not asked ([[lore-charterwar|the War of the Charter]]).
+The kingdom holds two peoples who share a Charter and not much else. The **Tanevar** are the old people of the country. They remember their petty kings, broken at [[lore-tiravlenbattle|Tiravlen]], and the habit of governing themselves in their own valleys. The **Provénzians** are the city-dwellers, the heirs of the old Vilérian province ([[lore-aurelianefound|The Founding of Aurelane]]), and the crown governs from their cities. The Tanevar hold that the Charter was the cities' and that the country was not asked ([[lore-charterwar|the War of the Charter]]).
 
 The quarrel is about land, local government and whose kingdom this is. Rural Tanevar resist the cities' officers in a hundred small ways and now and then rise in open rebellion. [[lore-warprinces|The War of the Princes]] drew the line between the two peoples where it runs today.
 
@@ -176,14 +176,14 @@ This emphasis on culture is not mere decoration. Provénzians believe that civil
 
 ## Commerce and Currency
 
-Kingdom of Provénzia uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Provénzia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Provénzia uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Provénzia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 
 [[place-provenzrgn|Provénzia Region]]
 : Regional overview
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : Former overlord, cultural parent
 
 [[affiliation-ordoarcanis|Thordimalon]]

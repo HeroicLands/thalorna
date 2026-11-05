@@ -276,7 +276,7 @@ The vast Aura of dragons makes their channeling correspondingly vast. Dragons ch
 
 The destabilization effect is the most consequential consequence of dragon-channeling. A dragon's continuous instinctual shaping of local potential is so dominant that it occupies the elemental currents in the area. Mortal mages near a dragon cannot maintain stable frameworks because the dragon's channeling overrides theirs. The mage's spells misfire, partly channeled before the framework collapses; the framework collapses because the underlying potential is no longer where the framework expected to find it; the result is wild discharge of partially-channeled magic, often with catastrophic consequences for the mage.
 
-This is the property the [Vylarian Republic]{.name data-type="affiliation/polity"} exploited in [[lore-helionscnq|the Helionite war]]. It was not a weapon they invented; it was a property of dragons themselves, recognized and turned to military use.
+This is the property the [Vilérian Republic]{.name data-type="affiliation/polity"} exploited in [[lore-helionscnq|the Helionite war]]. It was not a weapon they invented; it was a property of dragons themselves, recognized and turned to military use.
 
 ### The Dragon Ancestor Pool
 
@@ -286,9 +286,9 @@ What is certain is that the dragon ancestor pool is _powerful_. Other forces in 
 
 The pool functions as the dragons' totem and afterlife in one. Surviving dragons, in life, presumably have some relationship with their ancestor pool—whether through dreams, through ritual, through the mediation of dragons who serve as bridges to the dead, or through some other means is not part of mortal-accessible knowledge. The dragons do not share their internal cosmology.
 
-### The Vylarian Compact and Its Betrayal
+### The Vilérian Compact and Its Betrayal
 
-In the years before the founding of the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order), the Vylarian Republic, locked in the Helionite war, found itself losing to mage-warlords whose unrestricted arcane work was tearing through the Republic's legions. The Republic needed something that could break magic, and it discovered that dragons, by their nature, did exactly that.
+In the years before the founding of the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order), the Vilérian Republic, locked in the Helionite war, found itself losing to mage-warlords whose unrestricted arcane work was tearing through the Republic's legions. The Republic needed something that could break magic, and it discovered that dragons, by their nature, did exactly that.
 
 How the Republic made contact with dragons is not part of the documented record. The Order's archives, suppressed and incomplete, do not say. What the records do say is that the Republic and the dragons reached some kind of agreement, and that dragons participated in the war, and that the Helionite mages were broken and the war ended.
 
@@ -296,7 +296,7 @@ What was promised to the dragons in exchange for their participation is not know
 
 The [Dragon Riders]{.name data-type="affiliation"} stood as a corps for nearly three centuries, from the war on. Around 45 BF the Republic did not renew the arrangement, the Riders were disbanded and the [[place-eyriearvel|Eyrie of the Dragon Riders]] at [[place-arvel|Arvel]] was sealed. The reason usually given is that the dragons' presence was incompatible with the Thordimalon, chartered in 73 BF out of the conquered Helionite College of Arcane Philosophy: its research would fail and its training would be impossible beside creatures that unravel magic.
 
-The Republic chose to break faith. The specifics—what was done, when, by whom—are among the most carefully suppressed records in Vylarian history. What seems certain: many dragons were killed. Some escaped. Some may have been captured, bound, or driven into hiding. The Dragon Riders who had bonded with dragons during the war were quietly disbanded; their dragons were taken from them, killed, or vanished.
+The Republic chose to break faith. The specifics—what was done, when, by whom—are among the most carefully suppressed records in Vilérian history. What seems certain: many dragons were killed. Some escaped. Some may have been captured, bound, or driven into hiding. The Dragon Riders who had bonded with dragons during the war were quietly disbanded; their dragons were taken from them, killed, or vanished.
 
 The killed dragons' souls went to the dragon ancestor pool. Their grievances are remembered there. The surviving dragons remember directly. Wherever they are now, however many remain, they have not forgotten and they have not forgiven.
 
@@ -442,7 +442,7 @@ Several practical implications follow from the cosmology established here.
 
 **Cross-planar elements add depth without requiring detail.** The fact that Thalorna's cosmology includes other planes, the fae, the Sinale's non-native origin, and other cross-planar features adds richness without requiring the GM to develop those other planes in detail. A campaign can mention, hint at, gesture toward these things without having to flesh them out. The fae who appear briefly are foreigners whose home is elsewhere; that is enough. The Sinale's origin is tradition that informs how the Sinale are; the original plane never needs to be visited.
 
-**Dragons are a special story material.** The Vylarian betrayal and its potential aftermath are a substantial cosmological hook for major campaigns. The GM should consider whether a particular campaign engages with this hook (in which case it deserves significant development) or merely acknowledges it (in which case dragons are background ancient history). Both modes work; mixed treatment in a single campaign is risky because the betrayal is either central to a story arc or it isn't.
+**Dragons are a special story material.** The Vilérian betrayal and its potential aftermath are a substantial cosmological hook for major campaigns. The GM should consider whether a particular campaign engages with this hook (in which case it deserves significant development) or merely acknowledges it (in which case dragons are background ancient history). Both modes work; mixed treatment in a single campaign is risky because the betrayal is either central to a story arc or it isn't.
 
 **The spirit realm itself can be a setting.** Campaigns can involve travel to the spirit realm—by shamans, by mortals using thin places, by characters undergoing near-death experiences. Such episodes are dangerous (predators, lost-soul vulnerability) and require careful framing. Few mortals can survive prolonged time in the spirit realm; the GM should set the limits clearly.
 

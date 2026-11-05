@@ -396,7 +396,7 @@ Kuthmund Sherwin is a 52-year-old man who stands 5'11" tall and is broad and sol
 
 Kuthmund Sherwin is a woodcutter of [[place-thornbury|Thornbury]], the harbor seat of the [[affiliation-repblcndrth|Republic of Ondareth]] in [[place-aelwyth|Aelwyth]], an [[lore-aelwythanclt|Aelwythan]] freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
 
-The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Kuthmund has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from [[place-vylariargn|Vylaria]] a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
+The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Kuthmund has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from [[place-vylariargn|Viléria]] a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
 
 In Thornbury, cutters know Kuthmund as the old man with the saplings.
 
@@ -426,7 +426,7 @@ Kuthmund's patrons are the shipwrights and wharf-builders of Thornbury harbor, w
 
 ### Enemies
 
-The cutting crews that work by contract for the senators' timber-factors, who clear a wood in a season with the Vylarian saws and move to the next.
+The cutting crews that work by contract for the senators' timber-factors, who clear a wood in a season with the Vilérian saws and move to the next.
 
 ## Plot Hooks
 
@@ -434,7 +434,7 @@ The Senator's Wood
 : A senator has bought the slope Kuthmund has worked and replanted for twenty years and let it to a contract crew to clear for the harbor. The saplings are his by nobody's law but his own.
 
 The Boy and the Saw
-: One of the young cutters Kuthmund trained has lost a hand to a Vylarian saw on a contract crew, and the crew's master says the boy was careless. Kuthmund says the saw was, and the guild has been asked to rule.
+: One of the young cutters Kuthmund trained has lost a hand to a Vilérian saw on a contract crew, and the crew's master says the boy was careless. Kuthmund says the saw was, and the guild has been asked to rule.
 
 Planting on Another Man's Ground
 : Kuthmund has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.

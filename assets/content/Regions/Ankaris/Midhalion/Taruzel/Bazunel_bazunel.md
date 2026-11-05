@@ -77,11 +77,11 @@ Bazunel's refuge is under pressure from both sides of the coast's quarrel. The g
 
 Bazunel is smaller and less wealthy than Besikar, less martial than [[affiliation-yamuzel|Yamuzel]] and less cosmopolitan than [[affiliation-qudumel|Kudumel]], and it makes up the difference in creative energy. Its shipwright tradition is famous across the coast. Bazuneli ship-designers are counted artists as much as engineers, a hull designed here is recognizable by its elegant lines and inventive rigging, and the shipwright guilds work more like artists' studios than industrial workshops.
 
-The city's academies are modest beside those of [[place-helionis|Helionis]] or the [[place-provenzrgn|Provénzia Region]], and their character is practical: they turn out excellent navigators, cartographers, physicians and natural philosophers. Bazunel's astronomers are the best in the Confederation, and its navigational charts are prized by captains across the [[place-vylarianse|Vylarian Sea]].
+The city's academies are modest beside those of [[place-helionis|Helionis]] or the [[place-provenzrgn|Provénzia Region]], and their character is practical: they turn out excellent navigators, cartographers, physicians and natural philosophers. Bazunel's astronomers are the best in the Confederation, and its navigational charts are prized by captains across the [[place-vylarianse|Vilérian Sea]].
 
 ## Commerce and Currency
 
-Bazunel's studios and yards are paid in the [[lore-trzlncrncy|Taruzelian currency]], the Confederation's own system under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. It uses the Vylarian denominations (Solden, Ardin and Bit), but Taruzelian reserves back it rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vylarian paper is not honored here, and Taruzelian paper is not honored in Vylarian territory.
+Bazunel's studios and yards are paid in the [[lore-trzlncrncy|Taruzelian currency]], the Confederation's own system under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. It uses the Vilérian denominations (Solden, Ardin and Bit), but Taruzelian reserves back it rather than the Vilérian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vilérian standard. Merazuni-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vilérian paper is not honored here, and Taruzelian paper is not honored in Vilérian territory.
 
 ## History {#history}
 

@@ -3,7 +3,7 @@ shortcode: thebargain
 name: {full: The Bargain, en: [The Standing Lease]}
 type: lore
 subType: history
-description: "In 330 BF, holding the dragons' dead, the Vylarian Republic offers the one thing only it can offer—their return—and the dragons' price is the war; the term runs by the year, renewed, and nothing about it is ever written down."
+description: "In 330 BF, holding the dragons' dead, the Vilérian Republic offers the one thing only it can offer—their return—and the dragons' price is the war; the term runs by the year, renewed, and nothing about it is ever written down."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -54,7 +54,7 @@ data:
         - whether the dragons hold the Republic's successors to an agreement the Republic never recorded
 ---
 
-In The Bargain, the [Vylarian Republic]{.name data-type="affiliation/polity"} had the jars and nothing else the dragons wanted. What it offered was the one thing only
+In The Bargain, the [Vilérian Republic]{.name data-type="affiliation/polity"} had the jars and nothing else the dragons wanted. What it offered was the one thing only
 it could offer: the return of the bound to the pool that is the dragons' totem and afterlife at once.
 The dragons' price was the war.
 

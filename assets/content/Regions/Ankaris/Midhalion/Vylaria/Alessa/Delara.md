@@ -57,7 +57,7 @@ A party lodges at one of the inns on the road, and books ahead as the drover say
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the imperial overview
 
 [[place-orzara|Orzara]]

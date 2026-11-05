@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Everything [[place-orzara|Orzara City]] eats, wears and burns is sold in the Grand Market, and almost none of it is made there. The Grand Market, Delalon Melvar in [[skill-vylarilng|Vylari Language]], spreads across the central flats below the [Velmiros]{.name data-type="place/site"} around the [Grand Market Circle]{.name data-type="place/site"}, the largest licensed market in the [[affiliation-vylarinmpr|Vylarian Empire]]. Its stalls are licensed to the inch, its weights are tried against the city's bronze standard, and its rows are sorted by ware under a district law that says what may be sold where. Around the Circle stand the chandlers who retail what the city buys from beyond its bounds, the counting-houses of [[affiliation-danvar|The Bankers' Guild]], and the Council Hall and guild-halls of [[affiliation-tevran|Great College of Guilds]], whose trades keep their workshops outside.
+Everything [[place-orzara|Orzara City]] eats, wears and burns is sold in the Grand Market, and almost none of it is made there. The Grand Market, Delalon Melvar in [[skill-vylarilng|Vilari Language]], spreads across the central flats below the [Velmiros]{.name data-type="place/site"} around the [Grand Market Circle]{.name data-type="place/site"}, the largest licensed market in the [[affiliation-vylarinmpr|Vilérian Empire]]. Its stalls are licensed to the inch, its weights are tried against the city's bronze standard, and its rows are sorted by ware under a district law that says what may be sold where. Around the Circle stand the chandlers who retail what the city buys from beyond its bounds, the counting-houses of [[affiliation-danvar|The Bankers' Guild]], and the Council Hall and guild-halls of [[affiliation-tevran|Great College of Guilds]], whose trades keep their workshops outside.
 
 A money-changer who has kept a table on the Circle for thirty years teaches his new boy the market's first rule while they set out the felt: "Nothing is sold in the wrong row. Oil is sold in the Oil Row, cloth in the Cloth Row, and a man who sells oil in the Cloth Row is selling it to the _peltros_. Learn the rows, learn the bells, and learn whose name is on a stall's license, because it is never the man behind the stall."
 
@@ -81,7 +81,7 @@ The Grand Market fears two prices, bread and paper, and both are in question. Br
 [[affiliation-aediles|Pelthralon]]
 : the ward magistrates who keep the rows
 
-[[lore-vylrncrncy|Vylarian Currency]]
+[[lore-vylrncrncy|Vilérian Currency]]
 : the coins the money-changers set out
 
 [[place-wharvesorz|Wharves]]
@@ -89,6 +89,6 @@ The Grand Market fears two prices, bread and paper, and both are in question. Br
 
 # The Truth of the Grand Market {#truth .secret}
 
-A sixth of the spice and silk sold in the Grand Market belongs to Taruzelian houses. The licenses on the covered lane and half the Cloth Row stand in the names of veteran-citizens who have never stood behind the stalls. Each is paid a few Ardini a month to keep his name on the paper, and the stalls are run by the factors of the merchant houses that paid for the war in which [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] won its independence from the [[affiliation-vylarinmpr|Empire]]. The goods come up from the [[place-wharvesorz|Wharves]] through the registered foreigners' quarter as Vylarian cargo with Vylarian seals.
+A sixth of the spice and silk sold in the Grand Market belongs to Taruzelian houses. The licenses on the covered lane and half the Cloth Row stand in the names of veteran-citizens who have never stood behind the stalls. Each is paid a few Ardini a month to keep his name on the paper, and the stalls are run by the factors of the merchant houses that paid for the war in which [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] won its independence from the [[affiliation-vylarinmpr|Empire]]. The goods come up from the [[place-wharvesorz|Wharves]] through the registered foreigners' quarter as Vilérian cargo with Vilérian seals.
 
-The _peltros_ of the market ward knows the pattern, because it is plain in his own registers, and he is paid to keep inspecting other rows. The money-changers know it, because the Taruzelian houses settle their accounts in Soldeni and in nothing else. Nobody has told the Seldan. A _kurthos_ (senator) who brought the licenses before the Seldan in the present mood would shut half the covered lane in a day, put the city's spice in the hands of whichever Vylarian house bought the licenses next, and send the Taruzelian factors looking for whoever had talked.
+The _peltros_ of the market ward knows the pattern, because it is plain in his own registers, and he is paid to keep inspecting other rows. The money-changers know it, because the Taruzelian houses settle their accounts in Soldeni and in nothing else. Nobody has told the Seldan. A _kurthos_ (senator) who brought the licenses before the Seldan in the present mood would shut half the covered lane in a day, put the city's spice in the hands of whichever Vilérian house bought the licenses next, and send the Taruzelian factors looking for whoever had talked.

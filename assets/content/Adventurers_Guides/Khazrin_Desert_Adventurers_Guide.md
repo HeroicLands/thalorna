@@ -1,9 +1,9 @@
 ---
 shortcode: khazrynadvguide
-name: {full: Khazryn Desert Adventurer's Guide}
+name: {full: Khazrin Desert Adventurer's Guide}
 type: doc
 subType: settingguide
-description: A player and GM introduction to the Khazryn Desert—the camel road to Tantsou and the independent tribes who sell it a stretch at a time, the owned waters, the ruins and the four blood lands, and the ways a campaign begins there.
+description: A player and GM introduction to the Khazrin Desert—the camel road to Tantsou and the independent tribes who sell it a stretch at a time, the owned waters, the ruins and the four blood lands, and the ways a campaign begins there.
 tags: []
 data: {packFolder: adventurersguides, culture: sowidesclt}
 ---
@@ -12,11 +12,11 @@ data: {packFolder: adventurersguides, culture: sowidesclt}
 >
 > The woman who comes down from the tents is past fifty, broad and weathered, in a red felt coat belted with silver plaques. She walks past the caravan-master, stops in front of you, the stranger, and holds out a pinch of gray salt on the flat of her knife until you take it on your tongue. "_Yolaq_, semok," she says: salt, guest. Then she touches her own chest. "[Kesuqye]{.name data-type="being/npc"}, dovaq of the [Koduyur]{.name data-type="affiliation/polity"}, of the wells from this spring to the white stones three days east." She turns to the master, and her voice goes flat. "Your list says ninety camels. My old man counted ninety-one at the ford. Whose is the last one, and what does it carry?"
 
-The [[place-khzryndsrtrgn|Khazryn]] is the largest and emptiest country in [[place-ankrscntnnt|Ankaris]]: about 2,350 miles of desert and dry grassland from the forests of [[place-velanthrgn|Velanthia]] to the passes of [[place-tantsouregin|Tantsou]], and 1,400 miles from the northern taiga to the glaciers of [[place-graznmntns|the Grazian Mountains]]. About three million people live in it, most of them in a narrow strip at the foot of the mountains, and elsewhere you can ride for a week and meet nobody but the owners of the next well.
+The [[place-khzryndsrtrgn|Khazrin]] is the largest and emptiest country in [[place-ankrscntnnt|Ankaris]]: about 2,350 miles of desert and dry grassland from the forests of [[place-velanthrgn|Velanthia]] to the passes of [[place-tantsouregin|Tantsou]], and 1,400 miles from the northern taiga to the glaciers of [[place-graznmntns|the Grazian Mountains]]. About three million people live in it, most of them in a narrow strip at the foot of the mountains, and elsewhere you can ride for a week and meet nobody but the owners of the next well.
 
 One road crosses it. [[lore-celestialroad|The Celestial Road]] carries Tantsou silk west and the silver of [[place-midhalnrgn|Midhalión]] east, on camels, about 2,500 miles and more than four months each way. The [[lore-sowidesclt|Sovidur]], the independent herding tribes of the steppe and the sand, own its wells a few days at a time, and each tribe sells passage over its own stretch and nothing more.
 
-**The one thing to understand first: in the Khazryn everything has an owner, and a stranger who has bought nothing is fair game.** The spring that looks empty belongs to a tribe camped two ridges away, and so does the grass your horses crop. Passage, water, guest-right and a guide are bought tribe by tribe, about thirty-five times between the March and Tantsou, and each purchase buys the protection of one tribe across one range.
+**The one thing to understand first: in the Khazrin everything has an owner, and a stranger who has bought nothing is fair game.** The spring that looks empty belongs to a tribe camped two ridges away, and so does the grass your horses crop. Passage, water, guest-right and a guide are bought tribe by tribe, about thirty-five times between the March and Tantsou, and each purchase buys the protection of one tribe across one range.
 
 ## The Lay of the Land
 
@@ -79,7 +79,7 @@ Where the snowmelt reaches, the country turns within a day's ride to canals, dat
 
 Two vanished peoples left the oldest ruins. [[lore-basinbldrs|The Basin Builders]] farmed a lake in the Ghoshiqor until the water failed around 1700 BF. Their lake is [[place-ewod|Evod]], a salt flat whose crust breaks over the old canals; their stair-well [[place-qelod|Kelod]] goes down three hundred feet to something pale in the drain; their kings lie in the painted tombs of [[place-osikor|Oshiqor]], and rise when a chamber is breached. Later, [[lore-towercities|the Tower Cities]] lit towers along the first road so the strings could march in the cool. [[place-wilud|Vulud]] lies under a dune sea that uncovers one street a generation, and the [[place-ruinsarkor|Ruins of Arkor]] under the [[place-hekardesert|Desert of Hek'ar]], where knights of [[affiliation-blackflame|the Black Flame]] fight one another for a relic.
 
-Other ruins belong to no story anyone tells. The caverns of [[place-ruweq|Uruvaq]] in Idvaqor hold sweet cisterns and a painted script no one reads, and the tribes bar them as the country's lungs. [[place-roqid|Oroqid]] is a Vylarian fort whose strongroom nobody has opened. Above the Tellumel the labyrinth of [[place-vurdil|Vurdish]] climbs into the mountain from a doorway forty feet high, and other [[place-grazruins|cut passages]] open wherever a glacier draws back. The tribe that owns the nearest water charges for each of them or bars the way.
+Other ruins belong to no story anyone tells. The caverns of [[place-ruweq|Uruvaq]] in Idvaqor hold sweet cisterns and a painted script no one reads, and the tribes bar them as the country's lungs. [[place-roqid|Oroqid]] is a Vilérian fort whose strongroom nobody has opened. Above the Tellumel the labyrinth of [[place-vurdil|Vurdish]] climbs into the mountain from a doorway forty feet high, and other [[place-grazruins|cut passages]] open wherever a glacier draws back. The tribe that owns the nearest water charges for each of them or bars the way.
 
 ## The Four Blood Lands
 
@@ -149,7 +149,7 @@ Three works carry the steppe's own account of itself and its road:
 
 ## Where to Read Next
 
-- [[place-khzryndsrtrgn|The Khazryn Desert]] for the land, its powers and its neighbors
+- [[place-khzryndsrtrgn|The Khazrin Desert]] for the land, its powers and its neighbors
 - [[lore-sowidesclt|The Sovidur]] for the tribe, the feud, the orghun and what a person owes
 - [[lore-celestialroad|The Celestial Road]] and [[lore-ownedoasis|the Owned Oasis]] for the road, its costs and the owned water
 - [[place-qisomrktcmp|Qiiso]], [[place-yemokwell|Yemok]] and [[place-sowidwell|Sovid]] for the market-camp and the two hand-off wells
@@ -157,7 +157,7 @@ Three works carry the steppe's own account of itself and its road:
 - [[lore-basinbldrs|The Basin Builders]], [[lore-towercities|the Tower Cities]] and [[lore-bloodfield|Blood-fields]] for the ruins and the blood lands
 - [[doc-tellumiadvguide|The Tellumi Adventurer's Guide]] for the cities at the foot of the mountains
 - [[lore-roadnights|The Nights of the Road]], [[lore-wemaqcalling|The Calling at Vomek]] and [[lore-waterunder|The Buried Water]] for the road and the steppe in their own tellings
-- [[skill-sowideslng|Sovidur]] and the [[skill-tellumilng#lexicon|Khazryn Lexicon]] for the tongue and its words
+- [[skill-sowideslng|Sovidur]] and the [[skill-tellumilng#lexicon|Khazrin Lexicon]] for the tongue and its words
 
 ## Glossary
 

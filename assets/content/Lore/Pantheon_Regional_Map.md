@@ -13,11 +13,11 @@ One item of interest is that many of the gods called the god/goddess of dreams a
 
 ## [[affiliation-arldnpnthn|Aureldian Pantheon]]
 
-The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[place-midhalnrgn|Midhalión]]. Originally supported through its twelve distinct faiths as state religions of the [[affiliation-vylarinmpr|Vylarian Empire]], it spread throughout the empire's territories and persists even where imperial control has faded.
+The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[place-midhalnrgn|Midhalión]]. Originally supported through its twelve distinct faiths as state religions of the [[affiliation-vylarinmpr|Vilérian Empire]], it spread throughout the empire's territories and persists even where imperial control has faded.
 
 **Primary regions:**
 
-[[affiliation-vylarinmpr|Vylaria]]
+[[affiliation-vylarinmpr|Viléria]]
 : state religions, seat of the twelve distinct Aureldian faiths
 
 [[place-helionis|Helionis]]
@@ -41,13 +41,13 @@ The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant pantheon of we
 **Secondary influence:**
 
 [[affiliation-cnfdrtntrzlnstts|Taruzel]]
-: dominant in western coastal cities (imposed during Vylarian period)
+: dominant in western coastal cities (imposed during Vilérian period)
 
 [[affiliation-kalihara|Kalihara]]
 : port cities host Aureldian temples serving foreign merchants and cosmopolitan populations; the interior follows its own ancient tradition (see [[affiliation-kalihara|Kalihara]])
 
 [[place-vrystwald|Vristwald]]
-: southern tribes influenced by Vylarian contact
+: southern tribes influenced by Vilérian contact
 
 ## [[affiliation-asguardian|Asguardian Pantheon]]
 
@@ -68,14 +68,14 @@ Northern [[place-vrystwald|Vristwald]]
 
 ## [[affiliation-ashanpnthn|Ashaian Pantheon]]
 
-The [[affiliation-ashanpnthn|Ashaian Pantheon]] is an eastern pantheon centered on cosmic balance, fire, and light. Predates Vylarian influence in the eastern lands.
+The [[affiliation-ashanpnthn|Ashaian Pantheon]] is an eastern pantheon centered on cosmic balance, fire, and light. Predates Vilérian influence in the eastern lands.
 
 **Primary regions:**
 
 [[place-dunharargn|Dunhara Region]]
 : primary faith of the desert tribes
 
-[[place-khzryndsrtrgn|Khazryn Desert]]
+[[place-khzryndsrtrgn|Khazrin Desert]]
 : dominant among the nomadic peoples
 
 **Secondary influence:**

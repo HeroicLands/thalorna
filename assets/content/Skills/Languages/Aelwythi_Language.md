@@ -4738,13 +4738,13 @@ history. These are defaults for an unrecorded name, not grounds for changing an
 authoritative registered form. Favor this palette for new coinages unless an
 explicit exception is recorded.
 
-## Beside Élavendri and Vylari
+## Beside Élavendri and Vilari
 
 Three tongues meet on Aelwyth, each with its own work. Aelwythi is the island's own speech: plain, direct and quick to take in foreign words. Mainlanders call it coarse; Aelwythans hold that its plainness is honesty.
 
-[[skill-elvndrlng|Élavendri]] is the language of courts and verse. Its grammar draws fine distinctions of rank, courtesy and feeling that Aelwythi leaves unsaid, and it carries prestige at court, above all at [[affiliation-kingdmdnvr|Dúnavarre]], whose Synod keeps close ties with the Élavendren royal house. [[skill-vylarilng|Vylari]] is the language of law, scholarship and treaty, and the learned, clergy, lawyers and diplomats of the island use it as their counterparts across the west do.
+[[skill-elvndrlng|Élavendri]] is the language of courts and verse. Its grammar draws fine distinctions of rank, courtesy and feeling that Aelwythi leaves unsaid, and it carries prestige at court, above all at [[affiliation-kingdmdnvr|Dúnavarre]], whose Synod keeps close ties with the Élavendren royal house. [[skill-vylarilng|Vilari]] is the language of law, scholarship and treaty, and the learned, clergy, lawyers and diplomats of the island use it as their counterparts across the west do.
 
-Ordinary folk who stay at home speak Aelwythi alone. The traveled and educated commonly have more: nobles and courtiers, the learned, merchants and traders, sailors, and anyone who goes abroad. Such a person speaks Aelwythi, the neighbor's Élavendri, and Vylari for anything written to last. The learned and well-traveled of [[place-elavendre|Élavendre]] likewise speak Aelwythi. Aelwythi and Élavendri have long borrowed words from each other.
+Ordinary folk who stay at home speak Aelwythi alone. The traveled and educated commonly have more: nobles and courtiers, the learned, merchants and traders, sailors, and anyone who goes abroad. Such a person speaks Aelwythi, the neighbor's Élavendri, and Vilari for anything written to last. The learned and well-traveled of [[place-elavendre|Élavendre]] likewise speak Aelwythi. Aelwythi and Élavendri have long borrowed words from each other.
 
 ## How Aelwythi is written down
 

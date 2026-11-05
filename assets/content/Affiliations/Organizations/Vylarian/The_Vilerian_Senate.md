@@ -1,9 +1,9 @@
 ---
 shortcode: seldan
-name: {full: The Vylarian Senate, en: [The Senate], vyl: [Seldan]}
+name: {full: The Vilérian Senate, en: [The Senate], vyl: [Seldan]}
 type: affiliation
 subType: governmental
-description: "The Seldan, the Palace of the Senate and the seat of the Vylarian Senate—the assembly of the patrician order, which debates, postures, conspires, and in theory advises the Orzas; the highest court for senatorial persons, whose real power waxes and wanes with the strength of whoever wears the imperial diadem."
+description: "The Seldan, the Palace of the Senate and the seat of the Vilérian Senate—the assembly of the patrician order, which debates, postures, conspires, and in theory advises the Orzas; the highest court for senatorial persons, whose real power waxes and wanes with the strength of whoever wears the imperial diadem."
 tags: []
 data:
   culture: vylarianclt
@@ -42,7 +42,7 @@ sohl: {system: {commonSkills: []}}
 
 An usher of the Seldan can tell you how a day's business will go before the first speaker rises, and he does it by watching where the _kurthoi_ (senators) sit. "See who has taken the bench beside whom. See which of them has left a gap. By the time the speaker is on his feet, the vote is half cast, and the speech is for the record and for the galleries. If you are called to the floor and nobody sits near you, you will be heard politely and you will lose."
 
-The **Seldan** (_Vylarian: "the Vylarian Court"_) is at once a building and the body that fills it: the Palace of the Senate within [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]], and the patrician assembly that gathers there. Beneath its bronze doors and within its tiered, semicircular chamber, the great families of the empire convene to debate, to posture, to conspire and, in theory, to advise the Orzas, the emperor. The senatorial order is drawn from the senior estates: the founding **Ethlenoi** and the established **Ankrenoi**, the houses whose names carry weight enough to claim a seat beneath the dome. The order guards its dignity jealously even in the ages when its power is least.
+The **Seldan** (_Vilérian: "the Vilérian Court"_) is at once a building and the body that fills it: the Palace of the Senate within [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]], and the patrician assembly that gathers there. Beneath its bronze doors and within its tiered, semicircular chamber, the great families of the empire convene to debate, to posture, to conspire and, in theory, to advise the Orzas, the emperor. The senatorial order is drawn from the senior estates: the founding **Ethlenoi** and the established **Ankrenoi**, the houses whose names carry weight enough to claim a seat beneath the dome. The order guards its dignity jealously even in the ages when its power is least.
 
 Type
 : Imperial deliberative assembly and high court; seat of the patrician order
@@ -111,6 +111,6 @@ The votes do not sit where the names do. The factors of [[being-krznsthlrts|Korz
 
 - [[place-arvon|Arvon]]—the Inner City in which the Seldan stands
 - [[affiliation-verdanorzara|Verdan Orzara]]—civic government and courts of the city beyond the wall
-- [[affiliation-vylrnmltry|The Vylarian Military]]—the noble estates that fill the senatorial order
+- [[affiliation-vylrnmltry|The Vilérian Military]]—the noble estates that fill the senatorial order
 - [[affiliation-sorvan|The Sorvan]]—the imperial guard, the armed factor in any succession
-- [[place-orzara|Orzara]] · [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[place-orzara|Orzara]] · [[affiliation-vylarinmpr|Vilérian Empire]]

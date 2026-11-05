@@ -95,11 +95,11 @@ Ondarethan legions—disciplined, well-drilled, and motivated by civic duty rath
 
 ## Relations
 
-Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]], sending diplomats there and trading military expertise for political recognition. Vylaria has on occasion sent missions to Ondareth to keep its options open, and keeps no regular relations with it. Relations with [[affiliation-kingdmdnvr|Dúnavarre]] are respectful but wary—the two polities share a border and compete for influence over the southern coast. The [[place-pshtrwldrns|Peshtar tribes]] to the north are a chronic security concern, and Ondarethan legions regularly patrol the frontier. The free city of [[place-veldareth|Veldareth]], on the coast between Ondareth and Dúnavarre, serves as a neutral meeting ground and center of learning.
+Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vilérian Empire]], sending diplomats there and trading military expertise for political recognition. Viléria has on occasion sent missions to Ondareth to keep its options open, and keeps no regular relations with it. Relations with [[affiliation-kingdmdnvr|Dúnavarre]] are respectful but wary—the two polities share a border and compete for influence over the southern coast. The [[place-pshtrwldrns|Peshtar tribes]] to the north are a chronic security concern, and Ondarethan legions regularly patrol the frontier. The free city of [[place-veldareth|Veldareth]], on the coast between Ondareth and Dúnavarre, serves as a neutral meeting ground and center of learning.
 
 ## Commerce and Currency
 
-Republic of Ondareth uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Republic of Ondareth is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Republic of Ondareth uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Republic of Ondareth is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## Extent
 
@@ -113,24 +113,24 @@ merchants are able, its accounts are creative, and its neighbors deal with it wa
 ## The Senate and the Model
 
 Ondareth is not accidentally a republic. It is a republic **on purpose**, and the purpose is
-[[affiliation-vylarinmpr|Vylaria]].
+[[affiliation-vylarinmpr|Viléria]].
 
-Its constitution copies the Vylarian forms: a **Senate** whose members are styled **senators**,
-magistracies with Vylarian names, a civic calendar of processions and assemblies, and public building in
-a self-consciously Vylarian manner, executed in local stone by masons working from descriptions.
+Its constitution copies the Vilérian forms: a **Senate** whose members are styled **senators**,
+magistracies with Vilérian names, a civic calendar of processions and assemblies, and public building in
+a self-consciously Vilérian manner, executed in local stone by masons working from descriptions.
 Senators wear the bordered mantle. The Senate house at [[place-thornbury|Thornbury]] has a portico.
 
-The magistracies carry the Empire's own words, in their Vylari spelling. Two _tavoi_ (consuls) give the year its name and hold command in the field, a _vornos_ declares the law, a _theronos_ keeps the citizen roll, a _tarkelos_ answers for the treasury, a _peltros_ keeps the markets and the streets, a _lusos_ speaks for the citizens, and a Vandraks commands each legion in the field. A man who has held the year is _tavalen_ for life, and the propertied order that fills the magistracies is the _gulmenoi_. The words are borrowed for the standing they carry. Vylarian diplomats treat the borrowed titles with diplomatic courtesy; in private, Vylarians take them as a mild insult.
+The magistracies carry the Empire's own words, in their Vilari spelling. Two _tavoi_ (consuls) give the year its name and hold command in the field, a _vornos_ declares the law, a _theronos_ keeps the citizen roll, a _tarkelos_ answers for the treasury, a _peltros_ keeps the markets and the streets, a _lusos_ speaks for the citizens, and a Vandraks commands each legion in the field. A man who has held the year is _tavalen_ for life, and the propertied order that fills the magistracies is the _gulmenoi_. The words are borrowed for the standing they carry. Vilérian diplomats treat the borrowed titles with diplomatic courtesy; in private, Vilérians take them as a mild insult.
 
 ## Rubbish, and Vanity
 
-The claim to comparison with Vylaria is **unadulterated vanity and rubbish**, and it is worth being
+The claim to comparison with Viléria is **unadulterated vanity and rubbish**, and it is worth being
 plain about that, because Ondareth never is.
 
-Nobody with any real knowledge of the mainland could mistake this for Vylaria for the length of an
-afternoon. The forms are copied without being understood: the magistracies bear Vylarian names attached
-to offices that do nothing a Vylarian would recognize; the processions observe a calendar assembled from
-hearsay; the mantles are the wrong cut and the wrong color; the Vylari of the Senate's orations is
+Nobody with any real knowledge of the mainland could mistake this for Viléria for the length of an
+afternoon. The forms are copied without being understood: the magistracies bear Vilérian names attached
+to offices that do nothing a Vilérian would recognize; the processions observe a calendar assembled from
+hearsay; the mantles are the wrong cut and the wrong color; the Vilari of the Senate's orations is
 archaic where it is not simply wrong, and delivered in an accent that no one has ever corrected because
 no one present could. The portico at Thornbury is a portico in the way a child's drawing of a horse is
 a horse.
@@ -139,13 +139,13 @@ What it resembles is not a republic. It is **children playacting at the behavior
 total seriousness, immense ceremony, and no possible way of knowing how they look, because almost none of
 them has seen the thing they are imitating.
 
-That is the mechanism, and it is why the pretension is stable. Almost no Ondarethan beyond its diplomats has been to Vylaria.
+That is the mechanism, and it is why the pretension is stable. Almost no Ondarethan beyond its diplomats has been to Viléria.
 The mainland is a fortnight's dangerous sailing and a world away; what reaches the island is
 second-hand, decades old, and filtered through people with an interest in flattering the Senate. There
 is nobody in Thornbury able to say _that is not how it is done_, and there has not been for
-generations; the Vylarians who could say it treat the titles as a courtesy and answer with courtesy.
+generations; the Vilérians who could say it treat the titles as a courtesy and answer with courtesy.
 
-Vylaria knows Ondareth, because Ondareth sends diplomats to Vylaria. Vylaria has on occasion sent
+Viléria knows Ondareth, because Ondareth sends diplomats to Viléria. Viléria has on occasion sent
 missions to Ondareth to keep its options open, and has no regular relations with it.
 
 ## The Republic in Practice
@@ -227,7 +227,7 @@ are careful to be seen at both temples.
 [[affiliation-kngdmldrth|Kingdom of Aldorath]]
 : East-central rival
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : The empire Ondareth models itself on and sends diplomats to
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]

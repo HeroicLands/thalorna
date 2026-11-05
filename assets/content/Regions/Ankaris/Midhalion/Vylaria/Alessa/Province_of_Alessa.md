@@ -3,15 +3,15 @@ shortcode: provinclys
 name: {full: Province of Alessa}
 type: affiliation
 subType: polity
-description: "Heartland province of the Vylarian Empire—its urban, political, and institutional core, holding the imperial capital, the Senate, and the Thordimalon; it trades in influence, law, and Vylarian Steel and leans on its sister provinces for food."
+description: "Heartland province of the Vilérian Empire—its urban, political, and institutional core, holding the imperial capital, the Senate, and the Thordimalon; it trades in influence, law, and Vilérian Steel and leans on its sister provinces for food."
 data:
   templatePriority: null
-  demonym: Vylarian
+  demonym: Vilérian
   epithet: null
   symbol: null
   governance:
     model: monarchy
-    summary: Heartland province of the Vylarian Empire, governed by an imperial appointee.
+    summary: Heartland province of the Vilérian Empire, governed by an imperial appointee.
     ranks:
       - level: 0
         title: Proscribed
@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-When a Vylarian says "the empire," he means Alessa first and everything else second. The Province of Alessa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]]: the province that contains the imperial capital, [[affiliation-seldan|Seldan]] (the Senate) and the oldest institutions of Vylarian civilization, and the most urbanized, politically sophisticated and culturally self-assured of the four. It holds the land of [[place-alyssa|Alessa]], seven million people governed from the provincial capital, [[place-alyssar|Alessar]], by a _therkos_ (governor) the emperor appoints.
+When a Vilérian says "the empire," he means Alessa first and everything else second. The Province of Alessa is the heartland of the [[affiliation-vylarinmpr|Vilérian Empire]]: the province that contains the imperial capital, [[affiliation-seldan|Seldan]] (the Senate) and the oldest institutions of Vilérian civilization, and the most urbanized, politically sophisticated and culturally self-assured of the four. It holds the land of [[place-alyssa|Alessa]], seven million people governed from the provincial capital, [[place-alyssar|Alessar]], by a _therkos_ (governor) the emperor appoints.
 
 A _kurthalos_ (council member) of a chartered town, seated on its council and liable in his own person for the taxes the town owes, gives his nephew the same advice on the day the young man takes his place: "Learn who writes to whom. The _therkos_ answers to the Orzas, the emperor, and to nobody else. The _karezos_ (imperial steward) collects the emperor's revenue and reports past the _therkos_, so he does not need to like him. The _felzos_ (legate) holds the soldiers. And every one of them has a cousin in [[place-orzara|Orzara]]. Whatever you decide here, somebody in the capital will hear it before the week is out."
 
@@ -104,11 +104,11 @@ The province waits on two deaths. The _therkos_, [[being-kldrmslthzs|Kaldremas E
 
 ## Commerce and Currency
 
-Alessa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]], the moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. The full system is set out in [[lore-vylrncrncy|Vylarian Currency]].
+Alessa uses the [[lore-vylrncrncy|Vilérian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]], the moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. The full system is set out in [[lore-vylrncrncy|Vilérian Currency]].
 
 ## History {#history}
 
-The Vylarian state began in this province, and every age of it has left something here. About 650 BF the patrician families of the city on the Vylaris overthrew the last of its kings and set up the Republic and its Senate ([[lore-vylarirpbl|The Establishment of the Vylarian Republic]]). In 75 BF the Kandral ordered every registered practitioner in the Republic to bring their working-books to one place in the Alessan country to be copied, and in the fourth month an unchanneled release burned the books and killed most of the Republic's senior arcanists ([[lore-recensio|The Therona of Alessa]]). The ground is still bare and fenced a day's ride from [[place-velysara|Velisara]] ([[place-recensiogrnd|The Fenced Ground]]). In 73 BF the survivors' charter made the Thordimalon the only lawful practice of the arcane ([[lore-kandrol|The Kandrol]]), and the Sekran hunted everyone outside the register into the first reigns of the Empire ([[lore-huntingyears|The Hunting Years]]).
+The Vilérian state began in this province, and every age of it has left something here. About 650 BF the patrician families of the city on the Vylaris overthrew the last of its kings and set up the Republic and its Senate ([[lore-vylarirpbl|The Establishment of the Vilérian Republic]]). In 75 BF the Kandral ordered every registered practitioner in the Republic to bring their working-books to one place in the Alessan country to be copied, and in the fourth month an unchanneled release burned the books and killed most of the Republic's senior arcanists ([[lore-recensio|The Therona of Alessa]]). The ground is still bare and fenced a day's ride from [[place-velysara|Velisara]] ([[place-recensiogrnd|The Fenced Ground]]). In 73 BF the survivors' charter made the Thordimalon the only lawful practice of the arcane ([[lore-kandrol|The Kandrol]]), and the Sekran hunted everyone outside the register into the first reigns of the Empire ([[lore-huntingyears|The Hunting Years]]).
 
 In Year 1 a _kurthos_ with the legions and the Arcane Order behind him made himself Orzas ([[lore-thefounding|The Founding]]). He walled the crown of Arvel, moved the Senate up from the Old Hill and named the city Orzara ([[lore-eaglecityrse|The Raising of the Eagle City]]), and about 34 his successor made the citizenship a soldier's reward and tied the dole to it ([[lore-veteranslaw|The Veterans' Law]]). The capital the province holds has been a veterans' city since.
 
@@ -116,7 +116,7 @@ About 220 the faith of the Forge-Lord split ([[lore-ustaranschism|The Ústaran S
 
 The province's worst years followed the death of Barnakis in 389, when three men claimed the throne for sixteen years ([[lore-brkensuccsn|The Broken Succession]]). The war cost Hilen its harvest, the dole went unpaid about 403, and fire ran over the capital's Old Hill for six days ([[lore-greatburnng|The Great Burning]]). About 406 Makandas took the city and founded House Helarkales ([[lore-restorehouse|The Restoration]]). Between about 418 and 425 his successor Arzanas founded the Tevran Maldor, constituted the Tolvan and made the Tarmeks the central bank of the paper the province's moneylenders clear ([[lore-arzanasedict|The Edicts of Arzanas]]).
 
-Through the two centuries of decline the far provinces stopped paying ([[lore-empirdclne|The Decline of the Vylarian Empire]]), and about 709, after the Shoals, the Empire recognized Taruzel's independence ([[lore-tamzirbattle|The Battle of Tamzir Shoals]]). The heartland carries what the lost provinces paid. Its old cities pay for the capital's roads and houses with what they have left, and the province still eats grain from Hilen and Salkalon.
+Through the two centuries of decline the far provinces stopped paying ([[lore-empirdclne|The Decline of the Vilérian Empire]]), and about 709, after the Shoals, the Empire recognized Taruzel's independence ([[lore-tamzirbattle|The Battle of Tamzir Shoals]]). The heartland carries what the lost provinces paid. Its old cities pay for the capital's roads and houses with what they have left, and the province still eats grain from Hilen and Salkalon.
 
 ## Hooks {#hooks}
 
@@ -126,7 +126,7 @@ Through the two centuries of decline the far provinces stopped paying ([[lore-em
 
 ## See Also
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the parent polity
 
 [[place-alyssa|Alessa]]

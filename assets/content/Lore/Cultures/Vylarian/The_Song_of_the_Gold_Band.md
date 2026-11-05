@@ -291,11 +291,11 @@ Voza anklamai denon sorimathen‼ Urzelthos. Ronethos thavrelazor./
 [[lore-veteranslaw|The Veterans' Law]]
 : the twenty years and the one door
 
-[[affiliation-vylrnmltry|Vylarian Military]]
+[[affiliation-vylrnmltry|Vilérian Military]]
 : the legions, the two tracks and what a legion owes its eagle
 
 [[place-dolvar|Dolvar]]
 : the fortress on the march where the smoke is counted
 
-[[lore-vylarianclt|Vylarian]]
+[[lore-vylarianclt|Vilérian]]
 : the eagle, the frontier and the citizen's door

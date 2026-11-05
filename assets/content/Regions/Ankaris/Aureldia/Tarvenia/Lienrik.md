@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Lienrik is the bread of the [[place-tarvenirgn|Tarvénia Region]]. It is the land of the [[affiliation-kingdmlnrk|Kingdom of Lienrik]], the lowlands of central and southern Tarvénia that fall from the mountains of [[place-asturath|Asturath]] to the sea, and it feeds the mountains, the free city and a good part of the [[place-vylarianse|Vylarian Sea]] trade with its grain, its cattle and its wine. About a million people live there, and nearly all of them live by the land.
+Lienrik is the bread of the [[place-tarvenirgn|Tarvénia Region]]. It is the land of the [[affiliation-kingdmlnrk|Kingdom of Lienrik]], the lowlands of central and southern Tarvénia that fall from the mountains of [[place-asturath|Asturath]] to the sea, and it feeds the mountains, the free city and a good part of the [[place-vylarianse|Vilérian Sea]] trade with its grain, its cattle and its wine. About a million people live there, and nearly all of them live by the land.
 
-It is the richest farmland in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and the easiest country in Tarvénia to cross. The ease has cost it. Lienrik is the one Tarvenan land an army can march through, and the [[affiliation-vylarinmpr|Vylarian Empire]] held it for four centuries ([[lore-lowlandstaken|The Lowlands Taken]]); the walled towns, the fortified manors and the watchtowers that still stand across it are the marks that occupation left.
+It is the richest farmland in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and the easiest country in Tarvénia to cross. The ease has cost it. Lienrik is the one Tarvenan land an army can march through, and the [[affiliation-vylarinmpr|Vilérian Empire]] held it for four centuries ([[lore-lowlandstaken|The Lowlands Taken]]); the walled towns, the fortified manors and the watchtowers that still stand across it are the marks that occupation left.
 
 ## The Land
 
@@ -28,7 +28,7 @@ The plain is made by one river. The [Thalsira]{.name data-type="place/feature"},
 
 ## Weather and the Year
 
-Lienrik has the weather of the Vylarian Sea: long, dry, hot summers, mild winters, and the rain from autumn to spring. The wheat is sown in autumn after the first rains and cut in early summer; the threshing runs through the heat, and the great harvest fair at [[place-torvaleth|Torvaleth]] follows it at summer's end. The vintage comes in early autumn, and the olives in winter.
+Lienrik has the weather of the Vilérian Sea: long, dry, hot summers, mild winters, and the rain from autumn to spring. The wheat is sown in autumn after the first rains and cut in early summer; the threshing runs through the heat, and the great harvest fair at [[place-torvaleth|Torvaleth]] follows it at summer's end. The vintage comes in early autumn, and the olives in winter.
 
 The dangerous season is late spring. When the snow melts in the mountains of Asturath the Thalsira rises in the _mozkar_ (snowmelt flood), and in a heavy year it comes over its banks across the lower plain in a day. The villages along the river keep the flood banks in common, and the River Warden calls them out to the banks when the water rises; a village that skimped on its stretch of bank answers for it before the bailiff afterward. In autumn the river breeds fogs that lie on the plain until noon, and the carters of the river road travel in them by the sound of the bells on the lead oxen.
 

@@ -27,7 +27,7 @@ The settlers who came to the highlands had only these runes, and they are for ca
 
 The Áelendan habit of _not_ writing important things down—the Kindred Pact is deliberately unwritten, and the [[place-eshalshldg|Ésalosa Lodge]] forbids writing in certain rooms altogether—means the inscriptions that do exist were cut by people who thought the matter exceptional. The highlands are full of cut stone, and anything in the region old enough to be called ancient is Áelendi, carved in Thurarth or set down in the Veldikko.
 
-[[place-elavendre|Élavendre]] does not write in it. The [[skill-elvndrlng|Élavendri]] write in the [[skill-semrnscrpt|Semaron]], and a book of hours or land grant is in Vylarian letters with Élavendri diacritics added for pitch.
+[[place-elavendre|Élavendre]] does not write in it. The [[skill-elvndrlng|Élavendri]] write in the [[skill-semrnscrpt|Semaron]], and a book of hours or land grant is in Vilérian letters with Élavendri diacritics added for pitch.
 
 ## Marks the others do not have
 

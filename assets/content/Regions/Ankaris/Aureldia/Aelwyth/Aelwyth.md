@@ -102,7 +102,7 @@ Elsewhere on the island, the relationship between the local rulers and their Epi
 
 ## Relations
 
-Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the cold sea. The Nordmen of Stormveld maintain connections to the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]].
+Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the cold sea. The Nordmen of Stormveld maintain connections to the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vilérian Empire]].
 
 ## The Elder Kingdom
 
@@ -152,7 +152,7 @@ Two things are true about Aelwyth at once, and neither of the people concerned b
 their affairs with the entire seriousness of continental powers: the rivalry between
 Aldorath and Dúnavarre is followed as great
 politics, the standing of the realms is weighed and argued, and a good Aelwythan family knows its
-position in an order it has never occurred to them is local. A single Vylarian province holds ten times
+position in an order it has never occurred to them is local. A single Vilérian province holds ten times
 as many people as the whole island. Most Aelwythans have no functional idea of this, and those who are
 told it tend to treat the figure as a traveler's exaggeration.
 
@@ -165,7 +165,7 @@ elsewhere_—and there has not been for generations.
 So every Aelwythan institution is conducted with total seriousness and no external measure. Aldorath's
 lords hold court as though their precedence mattered beyond the next valley; Dúnavarre's Synod deliberates
 as a great power; the jarls of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] reckon themselves conquerors of consequence. The most florid case is
-Ondareth, which has built an entire imitation Vylarian republic—Senate,
+Ondareth, which has built an entire imitation Vilérian republic—Senate,
 senators, mantles, portico—out of hearsay, and cannot tell how it looks, because almost no one there has
 seen the original.
 
@@ -177,7 +177,7 @@ Dúnavarre.
 
 They are not parochial and never have been. They are members of a continental institution, they read its
 correspondence, some of them trained in the Empire, and they know to the nearest order of magnitude how
-small Aelwyth is and how little the mainland thinks of it. They know what a Vylarian would make of
+small Aelwyth is and how little the mainland thinks of it. They know what a Vilérian would make of
 Ondareth's Senate.
 
 They have never said so. Not once, to anybody.

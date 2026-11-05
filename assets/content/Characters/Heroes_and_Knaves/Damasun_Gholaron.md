@@ -453,7 +453,7 @@ Kléandir has mysterious contacts who occasionally provide him with information 
 
 ### Enemies
 
-Unknown, but clearly present. Kléandir avoids certain ports, certain people, and certain topics with the practiced ease of a man who has spent years managing his exposure. He is particularly cautious around [[lore-vylarianclt|Vylarian]] imperial officials.
+Unknown, but clearly present. Kléandir avoids certain ports, certain people, and certain topics with the practiced ease of a man who has spent years managing his exposure. He is particularly cautious around [[lore-vylarianclt|Vilérian]] imperial officials.
 
 ### Affiliations
 
@@ -471,4 +471,4 @@ Crisis of Faith
 : An event aboard the Tamzir shakes Kléandir's already fragile faith to its foundation. The crew must contend with the possibility that their steadfast spiritual anchor is coming apart, and that the darkness in Kléandir's past may be closer to the surface than anyone realized.
 
 The Usurer's Notes
-: When Kléandir is injured and his shoulder bag is opened to treat him, the crew discovers the hidden usurer's notes—worth a small fortune. The notes trace back to an institution with ties to Vylarian intelligence. The crew must decide whether to confront Kléandir or trust him despite the evidence.
+: When Kléandir is injured and his shoulder bag is opened to treat him, the crew discovers the hidden usurer's notes—worth a small fortune. The notes trace back to an institution with ties to Vilérian intelligence. The crew must decide whether to confront Kléandir or trust him despite the evidence.

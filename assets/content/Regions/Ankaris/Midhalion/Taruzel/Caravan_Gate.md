@@ -3,14 +3,14 @@ shortcode: caravangate
 name: {full: Caravan Gate}
 type: place
 subType: site
-description: "The ferry landing, dues hall, weigh-house and great arch on Kudumel's eastern shore, where the caravan goods of Dunhara and the Khazryn come over the strait into the Confederation of Taruzelian States and are counted."
+description: "The ferry landing, dues hall, weigh-house and great arch on Kudumel's eastern shore, where the caravan goods of Dunhara and the Khazrin come over the strait into the Confederation of Taruzelian States and are counted."
 tags: [taruzel, kudumel, market]
 data: {demonym: null, lore: [], parents: [qudumel2], population: 0, packFolder: taruzel}
 ---
 
 ## Overview
 
-The Caravan Gate is where the east comes ashore in [[place-qudumel2|Kudumel]]. It stands on the city's eastern waterfront facing the strait, forty miles across from the Amradi coast, and the ferries that carry the caravan goods of the [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]] over the water land there and nowhere else in the city. Everything that comes off them is counted, weighed and taxed before it passes the arch into the eastern market, and the counting is the Gate's whole purpose.
+The Caravan Gate is where the east comes ashore in [[place-qudumel2|Kudumel]]. It stands on the city's eastern waterfront facing the strait, forty miles across from the Amradi coast, and the ferries that carry the caravan goods of the [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazrin Desert Region]] over the water land there and nowhere else in the city. Everything that comes off them is counted, weighed and taxed before it passes the arch into the eastern market, and the counting is the Gate's whole purpose.
 
 ## What Is There
 

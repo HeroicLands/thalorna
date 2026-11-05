@@ -18,7 +18,7 @@ data:
       definition: "The presiding officer of a city's council, elected by it for a fixed term and holding the city's seal."
       common: true
     - name: "Merazuni script"
-      definition: "Paper credit issued by the Merazuni, honored by its moneylenders and by no Vylarian house."
+      definition: "Paper credit issued by the Merazuni, honored by its moneylenders and by no Vilérian house."
       common: true
     - name: "Pazasuni"
       definition: '"The Overseers": the Vezakuni''s eight officers, who inspect guilds and prosecute charter violations on referral.'
@@ -33,7 +33,7 @@ data:
       definition: "The inspector of measures, coin and quality in a city's markets."
       common: true
     - name: "compact-house"
-      definition: "The hall of a city's merchant princes in the centuries before the Vylarian conquest."
+      definition: "The hall of a city's merchant princes in the centuries before the Vilérian conquest."
     - name: "compact-treaty"
       definition: "An agreement negotiated between the compact-houses of two cities, by which trade between them ran."
   appearanceProfile:
@@ -44,16 +44,16 @@ data:
     complexion: {sun_kissed: 4, weathered: 3, smooth: 1, clear: 1}
     height: {female: {min: 5' 5", max: 6' 2"}, male: {min: 5' 6", max: 6' 3"}}
 
-# terran_analog: "Israel and Lebanon with their island coasts (a Phoenician-and-Levantine maritime confederation: trader city-states, naval power, merchant oligarchs), with archaic-speaking inland tribes. Carries over: trading houses as family firms, independent ship captains, banking and shipping combined. Departs: the confederation won independence from the Vylarian Empire by force of arms, women captain ships and hold partnerships, and the Auric Compact banking cartel holds its treasury."
+# terran_analog: "Israel and Lebanon with their island coasts (a Phoenician-and-Levantine maritime confederation: trader city-states, naval power, merchant oligarchs), with archaic-speaking inland tribes. Carries over: trading houses as family firms, independent ship captains, banking and shipping combined. Departs: the confederation won independence from the Vilérian Empire by force of arms, women captain ships and hold partnerships, and the Auric Compact banking cartel holds its treasury."
 ---
 
 Taruzelian culture is mercantile to the bone. Wealth, reputation, and the ability to strike a profitable bargain are the virtues, named in that order, and a man good at all three is the nearest thing this coast has to an aristocrat.
 
-Twelve years ago the Taruzelians won their independence from the [[affiliation-vylarinmpr|Vylarian Empire]] by force of arms, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is what they made of it. The veterans of that war are alive, in their forties, and watching the merchant oligarchs who funded it hold the freedoms they bled for. Everything uncomfortable about [[place-taruzelrgn|Taruzel]] today sits in that sentence.
+Twelve years ago the Taruzelians won their independence from the [[affiliation-vylarinmpr|Vilérian Empire]] by force of arms, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is what they made of it. The veterans of that war are alive, in their forties, and watching the merchant oligarchs who funded it hold the freedoms they bled for. Everything uncomfortable about [[place-taruzelrgn|Taruzel]] today sits in that sentence.
 
 ## The Houses
 
-The great trading houses are the real power: sprawling family enterprises combining banking, shipping, warehousing and political influence in a single concern, with warehouses on every harbor, agents in every port on the [[place-vylarianse|Vylarian Sea]], and reach into the courts of Vylaria, [[place-provenzrgn|Provénzia]] and [[place-helionis|Helionis]].
+The great trading houses are the real power: sprawling family enterprises combining banking, shipping, warehousing and political influence in a single concern, with warehouses on every harbor, agents in every port on the [[place-vylarianse|Vilérian Sea]], and reach into the courts of Viléria, [[place-provenzrgn|Provénzia]] and [[place-helionis|Helionis]].
 
 A house is a family and a firm at once, and a Taruzelian does not separate the two. A marriage is a merger, a son is an apprentice and an heir and a hostage to the alliance his betrothal sealed, and a daughter who can read a ledger is worth more to her house than a son who cannot. The houses have been unsentimental about that long enough that women captain ships and hold partnerships without anyone remarking on it. The one craft that holds out is shipbuilding: the shipwrights' guild resists women in the trade, and [[being-blgnrskn|Belgina Rusakuni]], the shipwright of _[[affiliation-thetamzir|The Tamzir]]_, is the exception.
 
@@ -103,7 +103,7 @@ A Taruzelian values the name, the fair price, patience with a debtor and the dis
 
 ## The Man Admired
 
-[[being-zbzmjkdn|Zabuzum Jakuduni]], captain of the _Tamzir_, is the Taruzelian shipmaster (_jakudum_) who owns his hull. He was born in [[place-sazumun2|Sazumun]] to cattle herders, lost his father at eleven, worked the docks at fourteen and shipped as a deckhand at sixteen. At twenty-two he joined the rebel fleet and rose to command a raiding vessel, and at the [[place-tamzirshoals|Shoals]] he led a squadron through the reef-studded water at dawn and took the blade across the jaw that left his scar. When the guilds took the victory he refused to serve them. He bought a battered sixty-foot merchant vessel, named her for the shoals where he nearly died, and has worked the Vylarian Sea since as a trader and, when trade does not pay, something less. He is loyal to the crew who fought beside him and takes the jobs the respectable captains refuse.
+[[being-zbzmjkdn|Zabuzum Jakuduni]], captain of the _Tamzir_, is the Taruzelian shipmaster (_jakudum_) who owns his hull. He was born in [[place-sazumun2|Sazumun]] to cattle herders, lost his father at eleven, worked the docks at fourteen and shipped as a deckhand at sixteen. At twenty-two he joined the rebel fleet and rose to command a raiding vessel, and at the [[place-tamzirshoals|Shoals]] he led a squadron through the reef-studded water at dawn and took the blade across the jaw that left his scar. When the guilds took the victory he refused to serve them. He bought a battered sixty-foot merchant vessel, named her for the shoals where he nearly died, and has worked the Vilérian Sea since as a trader and, when trade does not pay, something less. He is loyal to the crew who fought beside him and takes the jobs the respectable captains refuse.
 
 The coast admires in him its characteristic figure, the captain who owns his hull: proud, indebted and competent. His cost is the indebtedness. The Auric Compact's enforcers hold old debts from the war, he lives outside any flag's protection, and the ship is one bad season from belonging to a house.
 
@@ -111,11 +111,11 @@ The coast admires in him its characteristic figure, the captain who owns his hul
 
 [[being-yshdyjkdn|Yushuduya Jakuduni]] is the Kubasum, the Counter, of the Vezakuni, and the woman who kept Taruzel's paper good. When the war began, the clearing accounts that carried every merchant's script were frozen within weeks, and the harbor cities faced commercial collapse before the first engagement. She was a banker of Taruzelian lineage who had spent twenty years in the empire's moneylenders' college before the secession, and she became the founding Kubasum. Out of nothing she built the Merazuni, the Company of the Ledger, which takes bullion, issues master script against it and clears for the moneylender houses of the Confederation. She has held the office for twelve years.
 
-Her admiration is not a lesser form of the man's. Zabuzum keeps a hull afloat on his own name, and Yushuduya keeps the name of the whole coast good enough that a stranger will take its paper. Her cost is the border. The Merazuni's script is honored at no Vylarian house, its reserves are small beside the empire's, and the Helionite houses that profit from converting between the two are tolerated for as long as no agreement is possible.
+Her admiration is not a lesser form of the man's. Zabuzum keeps a hull afloat on his own name, and Yushuduya keeps the name of the whole coast good enough that a stranger will take its paper. Her cost is the border. The Merazuni's script is honored at no Vilérian house, its reserves are small beside the empire's, and the Helionite houses that profit from converting between the two are tolerated for as long as no agreement is possible.
 
 ## What the Coast Keeps
 
-A Taruzelian can point to a handful of things that make the system work. **The seal** of a house or a guild closes a contract, and the Vezakuni's own is an open ledger over a coiled rope and an anchor under the Confederation's eight-pointed star. **The charter** of a trade is granted and enforced by the Vezakuni. **The master script** of the Merazuni is printed on distinctive paper struck with the same star and the issuing moneylender's seal. The [[place-tamzirmonument|Tamzir Monument]], a captured Vylarian warship in dry-dock at [[place-besikar2|Besikar]], is the nearest thing the Confederation has to a standard kept in a temple. **The broadsheets** pinned in the veterans' halls are the nearest thing it has to a founding document that the founders did not write. The [Recovered Compacts]{.name data-type="lore"}, the Vezakuni's program of restoring the old compact-houses and their treaties, are the Confederation's attempt to find an ancestry older than the empire.
+A Taruzelian can point to a handful of things that make the system work. **The seal** of a house or a guild closes a contract, and the Vezakuni's own is an open ledger over a coiled rope and an anchor under the Confederation's eight-pointed star. **The charter** of a trade is granted and enforced by the Vezakuni. **The master script** of the Merazuni is printed on distinctive paper struck with the same star and the issuing moneylender's seal. The [[place-tamzirmonument|Tamzir Monument]], a captured Vilérian warship in dry-dock at [[place-besikar2|Besikar]], is the nearest thing the Confederation has to a standard kept in a temple. **The broadsheets** pinned in the veterans' halls are the nearest thing it has to a founding document that the founders did not write. The [Recovered Compacts]{.name data-type="lore"}, the Vezakuni's program of restoring the old compact-houses and their treaties, are the Confederation's attempt to find an ancestry older than the empire.
 
 ## Faith, Lightly Worn
 
@@ -139,7 +139,7 @@ Each is for something concrete. The Review keeps the war that founded the Confed
 
 Authority is layered, and the guilds hold most of it. The city is governed by a Council whose First holds the seal, and the offices under him keep the charters, the customs and the port. The Grand Council at Besikar gives each city an equal voice on paper and counts the votes by property in practice, and the Arch-Consul rotates among the cities and is mostly ceremonial. The guilds hold the weight: the Compact lends, the [[affiliation-corsairleg|Corsair League]] sails and the [[affiliation-mrchntryvl|Merchantry of the Veil]] trades in luxuries and information. Beneath the three, the Vezakuni charters the trades, registers masters, examines apprentices and judges disputes between them, and the Confederation backs its rulings.
 
-The temple is the fourth, and it lives in partnership with the guilds. Temples are endowed by houses and the endowments are publicized. The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) is restricted, because the guilds regard it as a possible instrument of Vylarian influence. Where the answers conflict, the seal decides. A contract under the Compact's seal binds as tightly as any court order, the Vezakuni judges the disputes between trades, and the Grand Council, nominally the highest authority, follows the guilds. The Merazuni is the Confederation's treasury and mint, clearing its script and striking its coin; the Compact is its creditor, and a confederation in debt does what its creditor prefers.
+The temple is the fourth, and it lives in partnership with the guilds. Temples are endowed by houses and the endowments are publicized. The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) is restricted, because the guilds regard it as a possible instrument of Vilérian influence. Where the answers conflict, the seal decides. A contract under the Compact's seal binds as tightly as any court order, the Vezakuni judges the disputes between trades, and the Grand Council, nominally the highest authority, follows the guilds. The Merazuni is the Confederation's treasury and mint, clearing its script and striking its coin; the Compact is its creditor, and a confederation in debt does what its creditor prefers.
 
 ## What the Name Earns and Costs
 
@@ -229,4 +229,4 @@ The sin is the betrayal that followed. Within two years of independence the Conf
 
 The full dictionary is in the [[skill-taruzelilng#lexicon|Taruzeli Language]].
 
-Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Viléria]].

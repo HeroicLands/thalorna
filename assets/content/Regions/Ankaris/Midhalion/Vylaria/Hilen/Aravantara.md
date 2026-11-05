@@ -84,7 +84,7 @@ Inside the wall, the [Bronze Bushel]{.name data-type="place/structure"} on the f
 [[place-hylen|Hilen]]
 : the land around the city
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[affiliation-imperialcult|Imperial Cult]]

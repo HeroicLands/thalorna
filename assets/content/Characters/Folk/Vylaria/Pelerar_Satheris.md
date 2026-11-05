@@ -76,7 +76,7 @@ He is near the end of his life, and he is proud. He will not admit that his hand
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a citizen of the capital.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a citizen of the capital.
 
 ## Plot Hooks
 

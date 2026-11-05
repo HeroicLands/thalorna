@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Uruvolur**, "the water people," are no single tribe: the name covers every band of the deep sands of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], that keeps a water nobody else knows. A band is a few families, a dovaq and one or two wells or seeps that the band alone can find. The [[lore-sowidesclt|Sovidur]] of the grass call them Uruvolur, and the bands call themselves by their wells.
+The **Uruvolur**, "the water people," are no single tribe: the name covers every band of the deep sands of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], that keeps a water nobody else knows. A band is a few families, a dovaq and one or two wells or seeps that the band alone can find. The [[lore-sowidesclt|Sovidur]] of the grass call them Uruvolur, and the bands call themselves by their wells.
 
 ## Where the Bands Are
 

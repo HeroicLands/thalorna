@@ -37,7 +37,7 @@ data:
 
 # Appearance {#appearance}
 
-Ilvenas Sarkelis is a 66-year-old woman who stands 5'6" tall and is of light build. She has fair skin, deeply lined and clear of any mark, gray hair bound under a white linen veil, and gray eyes that rest on a speaker until he has finished. A smudge of ash sits on her brow, put there at the dawn rite and never wiped away before evening. She wears the plain undyed wool of a temple priestess under a mantle of white, and she moves slowly and without a cane. Her voice is low and carries in the Mother's Hall without effort, and she speaks only the kingdom's old ritual Vylari, even to foreigners, who learn to wait for the interpreter.
+Ilvenas Sarkelis is a 66-year-old woman who stands 5'6" tall and is of light build. She has fair skin, deeply lined and clear of any mark, gray hair bound under a white linen veil, and gray eyes that rest on a speaker until he has finished. A smudge of ash sits on her brow, put there at the dawn rite and never wiped away before evening. She wears the plain undyed wool of a temple priestess under a mantle of white, and she moves slowly and without a cane. Her voice is low and carries in the Mother's Hall without effort, and she speaks only the kingdom's old ritual Vilari, even to foreigners, who learn to wait for the interpreter.
 
 # Dossier {#dossier}
 
@@ -82,7 +82,7 @@ She cannot depose a king alone; she needs a majority of the high priests, and th
 
 ### Enemies
 
-- [[being-trzmsbrkrts|Torzemos Brakarates]]: High Flame-Warden of Vylaria, at the Ashen Temple in Orzara. He preaches that she keeps the god's word without the courage to use it, and she has never spoken his name aloud.
+- [[being-trzmsbrkrts|Torzemos Brakarates]]: High Flame-Warden of Viléria, at the Ashen Temple in Orzara. He preaches that she keeps the god's word without the courage to use it, and she has never spoken his name aloud.
 
 ### Affiliations
 
@@ -92,14 +92,14 @@ She cannot depose a king alone; she needs a majority of the high priests, and th
 
 1. **The marriage blessing.** A widow from [[place-hylen|Hilen]] has come up the holy road to ask the Holy Mother's blessing on a marriage her family forbids. Ilvenas will hear her only if a party can show that the groom's family keeps the rites of the Twelve.
 2. **The commentary.** A copy of her commentary on the anointing has reached Orzara with a passage that is not hers, saying that a Holy Mother may refuse a king for cause known to her alone. She wants the forger found before the high priests read it.
-3. **The interpreter.** Her interpreter for imperial envoys has fallen ill, and the temple of Marendas needs someone who speaks both the old Vylari and the empire's for an audience that cannot be postponed. The envoy has come about the light imperial silver the House of Scales has been finding on the holy road.
+3. **The interpreter.** Her interpreter for imperial envoys has fallen ill, and the temple of Marendas needs someone who speaks both the old Vilari and the empire's for an audience that cannot be postponed. The envoy has come about the light imperial silver the House of Scales has been finding on the holy road.
 
 :::secret {title="The Holy Mother's warrants and the claimant's envoys"}
 Ilvenas signs the warrants. Every worshipper of the Black Flame whom the Order's knights carry out of the Hilen march by night is taken on a warrant in her hand, given to [[being-sldrsplvrn|Saldoros Pelvaren]] in the chapter house over the gate and kept there. The prisoners are judged by a temple examiner in closed session in the chapter house's undercroft. She has never told the king, and the high priests who know keep it from him, because he would stop it. A single imperial subject found in the undercroft would give the empire the quarrel it has wanted for five centuries.
 
 The judgment is her lever as much as his danger. Several high priests want a king who would let the takings go on if he were told, and the king's elder cousin, [Ormelas Daronis]{.name data-type="being/npc"}, whom she refused, is that man. She has not decided whether to let the judgment come to a vote. If the king learns of the warrants, or reaches for Orzara, she will let it.
 
-**The claimant's envoys.** This spring a priest of the Sacred Forge from Orzara came up the holy road as a pilgrim and asked for a private audience. He spoke for a claimant's house to the throne of Vylaria: if Nartun's knights and its temple coin stand behind the claimant's adoption, the claimant will proscribe the Black Flame when he reigns, and the schism of 224 is healed. A second envoy came at midsummer with the same offer in writing, unsigned.
+**The claimant's envoys.** This spring a priest of the Sacred Forge from Orzara came up the holy road as a pilgrim and asked for a private audience. He spoke for a claimant's house to the throne of Viléria: if Nartun's knights and its temple coin stand behind the claimant's adoption, the claimant will proscribe the Black Flame when he reigns, and the schism of 224 is healed. A second envoy came at midsummer with the same offer in writing, unsigned.
 
 She has agreed to nothing. She knows that the Black Flame has patrons in the Seldan, officers in the legions and open temples in every commercial city of the empire, and that a promise to proscribe it is easy to make and very hard to keep. She has answered that the temples lend no coin to any throne before the proscription, and that she will hear of knights only when the claimant has sworn the proscription in the Mother's Hall, with his hand on the oil, before the high priesthood. No claimant has agreed to come.
 

@@ -66,7 +66,7 @@ The constitution of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzeli
 
 Two governments sit in Besikar, and a newcomer with business here needs to know which one he is dealing with. The city's official government is a **Council of Elders**, elected by property-owning citizens; its First of the Council holds the city's seal for his term, and its Chancellor, Treasurer and Harbormaster keep the charters, the revenue and the port. That council serves largely at the pleasure of the three great guilds—the [[affiliation-auricompct|Auric Compact]], the [[affiliation-corsairleg|Corsair League]] and the [[affiliation-mrchntryvl|Merchantry of the Veil]]—whose representatives control the Grand Council as well.
 
-The Compact is the one a visitor feels first. Its headquarters is the old Vylarian _therkos_'s palace, and from there it finances the ships in the harbor, insures their cargoes and lends to the Confederation that meets down the street. Standing in the city follows the register, as everywhere on the coast: a freeman is enrolled, trades in the markets and pleads in the courts, a resident works under the city's protection without a vote, and a house head's wealth is what sends him to the council.
+The Compact is the one a visitor feels first. Its headquarters is the old Vilérian _therkos_'s palace, and from there it finances the ships in the harbor, insures their cargoes and lends to the Confederation that meets down the street. Standing in the city follows the register, as everywhere on the coast: a freeman is enrolled, trades in the markets and pleads in the courts, a resident works under the city's protection without a vote, and a house head's wealth is what sends him to the council.
 
 ## Current Situation {#present}
 
@@ -74,7 +74,7 @@ Besikar is where the Confederation's quarrels come to be counted, and this year 
 
 ## Commerce and Currency
 
-Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian currency]], whose treasury, the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]], has its strongroom here. The coins carry the Vylarian denominations (Solden, Ardin and Bit) on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
+Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian currency]], whose treasury, the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]], has its strongroom here. The coins carry the Vilérian denominations (Solden, Ardin and Bit) on Taruzelian reserves rather than on the Vilérian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vilérian standard. Merazuni-affiliated moneylenders carry the city's banking; they refuse Vilérian script, and no Vilérian house takes theirs.
 
 ## History {#history}
 
@@ -82,7 +82,7 @@ Besikar was the seat of the empire's rule in the islands: the _therkos_ kept his
 
 ## Hooks {#hooks}
 
-- **The night watch.** The Harbormaster wants the veterans who sit up in the Tamzir Monument's dock gone before the Vylarian hulls come in, and [[being-zlmrzzn|Zilmar Ezzinu]] wants to know who his men are guarding her from.
+- **The night watch.** The Harbormaster wants the veterans who sit up in the Tamzir Monument's dock gone before the Vilérian hulls come in, and [[being-zlmrzzn|Zilmar Ezzinu]] wants to know who his men are guarding her from.
 - **The audit's friends.** [[being-trmnqzkn|Tirmana Qizikuni]] hires a party to learn which councilors of the Council of Elders would vote to instruct the city's councilors for the audit.
 
 ## See Also

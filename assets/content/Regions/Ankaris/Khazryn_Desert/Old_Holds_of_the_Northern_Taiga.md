@@ -3,14 +3,14 @@ shortcode: nrthnhlds
 name: {full: Old Holds of the Northern Taiga, en: [The Taiga Holds]}
 type: place
 subType: feature
-description: "Rumored abandoned holds in the forest north of the Khazryn: cut stone under moss, sea-cliff doorways and dry halls that the seal-hunters and deer-herders report and no one has surveyed."
+description: "Rumored abandoned holds in the forest north of the Khazrin: cut stone under moss, sea-cliff doorways and dry halls that the seal-hunters and deer-herders report and no one has surveyed."
 tags: []
 data: {demonym: null, lore: [], parents: [gwtkrrgn], population: 0, packFolder: khazryndesert}
 ---
 
 ## Overview
 
-North of the dry grass the [[place-khzryndsrtrgn|Khazryn]] ends in forest. The [[place-gwtkrrgn|Ghotaqor]], the forest range, runs unbroken to the icy coast: dark spruce, bogs that never fully thaw, and long lakes locked under ice for eight months of the year. Small unorganized bands live here, sealing and fishing on the coast and hunting deer in the interior, and not one of them has a chief or a town. It is the same belt of taiga that runs through upper [[place-velanthrgn|Velanthia]], all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]], and at its southern edge it is the least known part of the region.
+North of the dry grass the [[place-khzryndsrtrgn|Khazrin]] ends in forest. The [[place-gwtkrrgn|Ghotaqor]], the forest range, runs unbroken to the icy coast: dark spruce, bogs that never fully thaw, and long lakes locked under ice for eight months of the year. Small unorganized bands live here, sealing and fishing on the coast and hunting deer in the interior, and not one of them has a chief or a town. It is the same belt of taiga that runs through upper [[place-velanthrgn|Velanthia]], all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]], and at its southern edge it is the least known part of the region.
 
 The holds are reports, not sites. A sealer, working a sea-cliff in a bad summer, describes a doorway at the height of two men with its sill below the tide line. A deer-herder tells of a hillside where moss lies in sheets over squared stone, and where his animals will not graze. A trader from Targud says he heard from a man who saw a dry hall with cut seats along its wall. Nobody has been twice to the same place, and none of these accounts agree on where.
 
@@ -36,7 +36,7 @@ A Targud fur-trader pays well for any word of the doorway under the tide line, a
 
 ## See Also
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the region the forest bounds
 
 [[lore-flkkhazar|Khazár Folk]]

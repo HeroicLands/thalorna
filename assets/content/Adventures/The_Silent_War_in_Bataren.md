@@ -28,7 +28,7 @@ The party arrives in Bataren (or is already present) and begins to notice:
 - Isolated violence: attacks on Áelendan merchants, vandalism, murder
 - The Provénzian authorities seem more interested in suppressing news than investigating causes
 - Áelendi leaders are meeting secretly, preparing for organized response
-- Rumors of foreign influence: whispers of [[affiliation-vylarinmpr|Vylarian agents]], [[affiliation-ordoarcanis|Thordimalon]] manipulation, or northern interests
+- Rumors of foreign influence: whispers of [[affiliation-vylarinmpr|Vilérian agents]], [[affiliation-ordoarcanis|Thordimalon]] manipulation, or northern interests
 
 **NPCs:**
 
@@ -61,8 +61,8 @@ Investigation reveals that a foreign power is deliberately stoking conflict to d
 
 **Possible Architects:**
 
-Vylarian Agents
-: The Vylarian Empire seeks to undermine Provénzian stability and justify imperial intervention
+Vilérian Agents
+: The Vilérian Empire seeks to undermine Provénzian stability and justify imperial intervention
 
 Thordimalon Manipulation
 : Thordimalon manipulates both sides to weaken Provénzian independence or create a pretext for magical research
@@ -128,7 +128,7 @@ As the conspiracy is exposed, the community stands on the brink of open warfare.
 - [[place-provenzrgn|Provénzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 - [[lore-aelendnppl|Áelendan People]]
-- [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[affiliation-vylarinmpr|Vilérian Empire]]
 - [[affiliation-ordoarcanis|Thordimalon]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 - [[affiliation-arldnpnthn|Aureldian]]

@@ -7987,7 +7987,7 @@ Ligatures
 Ornate variants
 : Sacred texts employ extremely elaborate, decorated letter forms
 
-The Veldikko is the Sinale's own featural script, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vylarian alphabet, and always has.
+The Veldikko is the Sinale's own featural script, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vilérian alphabet, and always has.
 
 Literacy in Sinale is near-universal among the Sinale themselves—the language and written tradition are central to their culture. However, human literacy in Sinale is **extremely rare**. Only scholars, elves, and highly educated humans can read or write the language.
 

@@ -55,7 +55,7 @@ A steward of a Gilded house hands each new client a gilded ring at his first mor
 
 ## Overview
 
-The Ethloi, the Golds, are the smaller and richer of the two racing factions of [[place-orzara|Orzara City]]. Their name is the plural of _ethlon_ (gold) in [[skill-vylarilng|Vylari]], and gold is the color of the highest of the four noble estates, the _ethlen_ (Gilded). Their teams race against the [[affiliation-zargoi|Zargoi]], the Irons, at [[place-rathaunamelvar|The Racecourse]].
+The Ethloi, the Golds, are the smaller and richer of the two racing factions of [[place-orzara|Orzara City]]. Their name is the plural of _ethlon_ (gold) in [[skill-vylarilng|Vilari]], and gold is the color of the highest of the four noble estates, the _ethlen_ (Gilded). Their teams race against the [[affiliation-zargoi|Zargoi]], the Irons, at [[place-rathaunamelvar|The Racecourse]].
 
 The Golds are a faction of patrons and clients. A board of patrons from the Gilded houses and the old horse order pays for the stables, the horses and the drivers, and the patrons' clients fill the Golds' stands. The Golds' crowd comes down from the [[place-heightsorz|Heights]] and the [[place-gildedqrtr|Gilded Quarter]]: clients, stewards, shopkeepers who sell to the great houses, and the household staff of men who keep a box above the finishing line. It is a smaller crowd than the Irons', and a better dressed one, and it has fewer men who have stood in a battle line.
 

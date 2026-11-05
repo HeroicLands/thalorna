@@ -406,11 +406,11 @@ Dagbán yra Vethar wur Thrareth cuts a wretched figure on the forest road. He st
 
 # Dossier {#dossier}
 
-Dagbán grew up the second son of a sheepherder in [Thrareth]{.name data-type="place/settlement"}, one of the [[lore-varokhiclt|Varokh]] herding villages that sit inside [[affiliation-provncmktr|Moktur]]'s border on the [[affiliation-vylarinmpr|Vylarian Empire]]'s crumbling northern frontier, where the families hold their ground from a Mokturan lord on a serf's tenure and Dagbán was born a serf. From an early age he showed a talent for avoiding work and a gift for convincing others to cover for him. His cousin, who was the village's headman under the lord, was easily manipulated, though his mother and older sister saw through every excuse. He would claim to be drilling with the militia or chasing strays when he was in fact sleeping in forest clearings beneath the ancient dark pines, dreaming of a life beyond the drudgery of the fields.
+Dagbán grew up the second son of a sheepherder in [Thrareth]{.name data-type="place/settlement"}, one of the [[lore-varokhiclt|Varokh]] herding villages that sit inside [[affiliation-provncmktr|Moktur]]'s border on the [[affiliation-vylarinmpr|Vilérian Empire]]'s crumbling northern frontier, where the families hold their ground from a Mokturan lord on a serf's tenure and Dagbán was born a serf. From an early age he showed a talent for avoiding work and a gift for convincing others to cover for him. His cousin, who was the village's headman under the lord, was easily manipulated, though his mother and older sister saw through every excuse. He would claim to be drilling with the militia or chasing strays when he was in fact sleeping in forest clearings beneath the ancient dark pines, dreaming of a life beyond the drudgery of the fields.
 
-By fifteen, a cruel streak had surfaced. He began striking his father, then his mother and sister. The village reeve—a scarred former soldier who had served the [[lore-vylarianclt|Vylarian]] garrison—beat him bloody more than once, but punishment only hardened Dagbán's defiance. When the men of the village finally came together to thrash him after he struck his mother in the open square, Dagbán vanished into the deep woods with a bow, a dagger, and a burning hatred for the life he'd left behind.
+By fifteen, a cruel streak had surfaced. He began striking his father, then his mother and sister. The village reeve—a scarred former soldier who had served the [[lore-vylarianclt|Vilérian]] garrison—beat him bloody more than once, but punishment only hardened Dagbán's defiance. When the men of the village finally came together to thrash him after he struck his mother in the open square, Dagbán vanished into the deep woods with a bow, a dagger, and a burning hatred for the life he'd left behind.
 
-His years tracking lost sheep through the fog-filled valleys and hiding from chores served him well as a fugitive. He fell in with a roving band of runaway serfs preying on the old imperial trade road that threads through Vristwald toward [[place-vylariargn|Vylaria]], and within a season had murdered three of their strongest men in their sleep to seize control. The gang now operates along a stretch of that crumbling road, ambushing merchants and travelers in the shadow of ancient ruins under Dagbán's cold direction.
+His years tracking lost sheep through the fog-filled valleys and hiding from chores served him well as a fugitive. He fell in with a roving band of runaway serfs preying on the old imperial trade road that threads through Vristwald toward [[place-vylariargn|Viléria]], and within a season had murdered three of their strongest men in their sleep to seize control. The gang now operates along a stretch of that crumbling road, ambushing merchants and travelers in the shadow of ancient ruins under Dagbán's cold direction.
 
 ## Psyche
 
@@ -420,7 +420,7 @@ Dagbán is quiet, watchful, and deliberate in a way that unnerves those around h
 
 ### Motivation
 
-Dagbán craves power and the fear it brings. He never wants to feel helpless again—not under his father's hand, not under the reeve's boot, not under any Vylarian lord's authority. Every robbery, every captive brought low, feeds a hunger that no amount of stolen silver can satisfy. Somewhere beneath the cruelty is a terrified boy who learned that the world only respects strength, and he will never be weak again.
+Dagbán craves power and the fear it brings. He never wants to feel helpless again—not under his father's hand, not under the reeve's boot, not under any Vilérian lord's authority. Every robbery, every captive brought low, feeds a hunger that no amount of stolen silver can satisfy. Somewhere beneath the cruelty is a terrified boy who learned that the world only respects strength, and he will never be weak again.
 
 ### Strengths
 
@@ -428,7 +428,7 @@ He is a skilled fighter, particularly with a bow and in close-quarters melee. Hi
 
 ### Weaknesses
 
-Dagbán suffers from a moderate fear of dogs—a phobia rooted in a childhood mauling by a Vylarian lord's hounds—which can paralyze him at the worst moments. His indecisive will means he is prone to sudden panic when his plans unravel, and his low empathy and comeliness make it nearly impossible for him to operate in civilized settings without drawing suspicion. He is also deeply immoral, which limits his alliances to those who fear him.
+Dagbán suffers from a moderate fear of dogs—a phobia rooted in a childhood mauling by a Vilérian lord's hounds—which can paralyze him at the worst moments. His indecisive will means he is prone to sudden panic when his plans unravel, and his low empathy and comeliness make it nearly impossible for him to operate in civilized settings without drawing suspicion. He is also deeply immoral, which limits his alliances to those who fear him.
 
 ## Social
 
@@ -438,7 +438,7 @@ None. Dagbán has no benefactors and trusts no authority.
 
 ### Enemies
 
-The local Vylarian lord whose lands he raids has placed a bounty on his head. The Varokh village he fled still remembers his cruelty. Several members of his own gang resent his leadership and would betray him for the right price.
+The local Vilérian lord whose lands he raids has placed a bounty on his head. The Varokh village he fled still remembers his cruelty. Several members of his own gang resent his leadership and would betray him for the right price.
 
 ### Affiliations
 
@@ -447,13 +447,13 @@ He leads a small gang of brigands—runaway Varokh serfs and petty criminals—w
 ## Plot Hooks
 
 Ambush on the Imperial Road
-: Dagbán and his brigands waylay the party while they travel a remote stretch of the old Vylarian trade road through Vristwald. The bandits are well-positioned among the dark pines and crumbling milestones, and fight with desperate ferocity, but Dagbán will flee into the fog-filled valleys if the tide turns against him, leaving his men to die.
+: Dagbán and his brigands waylay the party while they travel a remote stretch of the old Vilérian trade road through Vristwald. The bandits are well-positioned among the dark pines and crumbling milestones, and fight with desperate ferocity, but Dagbán will flee into the fog-filled valleys if the tide turns against him, leaving his men to die.
 
 The Burned Caravan
-: The party discovers a merchant caravan that has been looted and torched along the Vristwald road. Survivors describe a blue-eyed man with a pocked face who seemed to enjoy their suffering. The local Vylarian lord offers a reward for the brigands' capture or proof of their deaths.
+: The party discovers a merchant caravan that has been looted and torched along the Vristwald road. Survivors describe a blue-eyed man with a pocked face who seemed to enjoy their suffering. The local Vilérian lord offers a reward for the brigands' capture or proof of their deaths.
 
 The Unwelcome Drinker
-: Dagbán slips into a village tavern in disguise, gathering intelligence about upcoming caravans heading south to Vylaria. He strikes up conversation with the party, probing for useful information. If recognized or cornered, he has an escape route planned through the back alley and into the treeline.
+: Dagbán slips into a village tavern in disguise, gathering intelligence about upcoming caravans heading south to Viléria. He strikes up conversation with the party, probing for useful information. If recognized or cornered, he has an escape route planned through the back alley and into the treeline.
 
 A Mother's Plea
 : An aging Varokh woman from Dagbán's home village approaches the party. She wants her son brought back alive—not for justice, but because she still loves him despite everything. She offers what little she has, and her grief is real. The party must decide whether to honor her wish or take the easier bounty.

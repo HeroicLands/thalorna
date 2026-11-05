@@ -396,7 +396,7 @@ Arzanalas Baredas is a 49-year-old man who stands 6'2" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Arzanalas Baredas is a huscarl of Lord [[being-korvathosvol|Korvathos Volkemates]]'s household at [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]], a [[lore-vylarianclt|Vylarian]] of the border who swore to the [Volkemates]{.name data-type="affiliation/lineage"} house at seventeen and has served no one else.
+Arzanalas Baredas is a huscarl of Lord [[being-korvathosvol|Korvathos Volkemates]]'s household at [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]], a [[lore-vylarianclt|Vilérian]] of the border who swore to the [Volkemates]{.name data-type="affiliation/lineage"} house at seventeen and has served no one else.
 
 In Moktur the border lords keep households of sworn fighting men against the [[lore-varokhiclt|Varokh]] raids that come over the march every summer, and in Tirellan a lord's men sleep in the lower floors of his tower at the street corner. Arzanalas has been one of the Volkemates' men for thirty-two years: a spearman, then a captain of the household, and now, with his knees gone, the master of the yard. The young men of the house learn the spear and the shield-line from him in the tower's yard, and when a shopkeeper of the Volkemates' street is robbed in the night, it is Arzanalas who sends them to find the thief.
 
@@ -439,7 +439,7 @@ His knees, his age, and a loyalty to the house that does not ask what the house 
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the feasts of the Thunderer without office in the temple.
 
 ## Plot Hooks

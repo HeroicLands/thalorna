@@ -56,7 +56,7 @@ Inns stand by the gate and along the river, and the good ones are near the gate,
 
 The empire's histories record no event of Belekos's own. The city's history is its houses', which have built their wealth over centuries on the grain of the valleys below and the trade that carries it away. Each generation rebuilds its fronts in the newest manner, so the arena is the only old building the houses have not replaced. Not every house is old: the Helionite-descended Kalethos household came for the grain trade two generations ago and stayed.
 
-The decline reached Belekos as a question of trust rather than of loss ([[lore-empirdclne|The Decline of the Vylarian Empire]]). As the far provinces went their own way and the Empire drew back to its core, the great houses began quietly moving their money and their partnerships out of an empire they no longer trust to last.
+The decline reached Belekos as a question of trust rather than of loss ([[lore-empirdclne|The Decline of the Vilérian Empire]]). As the far provinces went their own way and the Empire drew back to its core, the great houses began quietly moving their money and their partnerships out of an empire they no longer trust to last.
 
 ## Hooks {#hooks}
 
@@ -69,10 +69,10 @@ The decline reached Belekos as a question of trust rather than of loss ([[lore-e
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the imperial overview
 
-[[skill-vylarilng|Vylari]]
+[[skill-vylarilng|Vilari]]
 : the naming tradition
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
@@ -83,6 +83,6 @@ The decline reached Belekos as a question of trust rather than of loss ([[lore-e
 
 # The Truth of Belekos {#truth .secret}
 
-The great houses have already left, on paper. Over the twelve years since the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] won its independence, the five largest houses have each opened accounts with banking houses of the Taruzelian cities and bought shares in Taruzelian ships through agents whose names are not their own. Each house keeps a second ledger of these holdings in its counting room, written by one trusted clerk in a cipher the houses share. Trading with Taruzel is no crime in law, and the Senate has never forgiven it either. The houses' gold now sits where the empire cannot tax or seize it, and the houses have agreed among themselves that if the empire falls, they will be Taruzelian partners before they are Vylarian subjects.
+The great houses have already left, on paper. Over the twelve years since the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] won its independence, the five largest houses have each opened accounts with banking houses of the Taruzelian cities and bought shares in Taruzelian ships through agents whose names are not their own. Each house keeps a second ledger of these holdings in its counting room, written by one trusted clerk in a cipher the houses share. Trading with Taruzel is no crime in law, and the Senate has never forgiven it either. The houses' gold now sits where the empire cannot tax or seize it, and the houses have agreed among themselves that if the empire falls, they will be Taruzelian partners before they are Vilérian subjects.
 
 The cipher is the weak point. Every house uses the same one, so any clerk who sells one ledger has sold the key to all five, and the clerk offering his copy knows it.

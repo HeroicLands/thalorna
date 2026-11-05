@@ -49,7 +49,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_"The Order of the Ashen Vow"—Vylari: **Elztholmeza**_
+_"The Order of the Ashen Vow"—Vilari: **Elztholmeza**_
 
 Type
 : Fighting religious order (heretical to the mainstream Aureldian faith)
@@ -64,7 +64,7 @@ Region
 
 The Order of the Ashen Vow is the largest organized fighting body of [[affiliation-blackflame|the Black Flame]]. Its members are sworn to a particular reading of [[lore-ustarondty|Ústaron]]'s nature—that the god's true aspect is the purifying conflagration that destroys what no other remedy can cleanse, that mercy without strength is surrender, and that fire does not ask permission to burn. They take this doctrine as a personal vow. A Sworn Brother of the Ashen Vow has, at his initiation, bound himself to a life in service to the purifying flame: to find what cannot be redeemed and burn it, to find what has compromised the faith and cleanse it, to find what other authorities have tolerated for reasons of expediency and remove the tolerance.
 
-The targets of the order's purifying work are, in order of doctrinal priority: corruption within [[affiliation-sacredforge|the Sacred Forge]] itself (the Sacred Forge clergy who have, in the Black Flame view, abandoned Ústaron's true nature for a comfortable orthodoxy), foreign heresies (the orders of other Aureldian deities, the [[affiliation-asguardian|Asguardian Pantheon]]'s incursions, the Vylarian imperial faiths, the eastern paths), and finally those of any faith who are deemed beyond redemption. The doctrine is severe in principle and, in practice, more severe still: the determination of who is beyond redemption is made by the order's senior brothers, and the determination is final.
+The targets of the order's purifying work are, in order of doctrinal priority: corruption within [[affiliation-sacredforge|the Sacred Forge]] itself (the Sacred Forge clergy who have, in the Black Flame view, abandoned Ústaron's true nature for a comfortable orthodoxy), foreign heresies (the orders of other Aureldian deities, the [[affiliation-asguardian|Asguardian Pantheon]]'s incursions, the Vilérian imperial faiths, the eastern paths), and finally those of any faith who are deemed beyond redemption. The doctrine is severe in principle and, in practice, more severe still: the determination of who is beyond redemption is made by the order's senior brothers, and the determination is final.
 
 The Sacred Forge orthodoxy regards the Order of the Ashen Vow as among the most dangerous heresies in Aureldian lands. The Aureldian Crowns, with the qualified exception of the [[place-tarvenirgn|Tarvénia Region]]'s hill-baronies (where local nobles have, for political reasons, declined to suppress Black Flame influence), maintain standing orders for the order's suppression. The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) is, on paper, committed to the same. The order operates through cellular secrecy and the protection of a small number of sympathetic noble houses; it is suppressed periodically and has, periodically, surged back when the suppression has lapsed.
 

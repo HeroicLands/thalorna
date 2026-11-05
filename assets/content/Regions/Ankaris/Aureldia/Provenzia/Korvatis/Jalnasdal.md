@@ -16,12 +16,12 @@ data:
 
 **Jalnasdal** is the capital of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and, with some
 seventy thousand people, its largest city. It stands on the warm southern coast, on the
-[[place-vylarianse|Vylarian Sea]]—a working port as well as a court, which is unusual among the
+[[place-vylarianse|Vilérian Sea]]—a working port as well as a court, which is unusual among the
 capitals of [[place-ankrscntnnt|Ankaris]] and explains a good deal about how Provénzia is governed.
 
 Its speech, [Cotiere]{.name data-type="skill/language"}, is the prestige dialect of the kingdom: the most standardized form of
 [[skill-provnzlng|Provenzal]], the one used in literature and formal commerce, and the one that shows
-the deepest Vylarian influence. To speak Cotiere is to be understood everywhere in Provénzia and to be
+the deepest Vilérian influence. To speak Cotiere is to be understood everywhere in Provénzia and to be
 placed instantly.
 
 ## Crown and Council

@@ -30,7 +30,7 @@ The city still draws scholars and seekers of knowledge to the chapterhouse, wher
 
 ## Dignified Endurance
 
-The citizens of Velisara acknowledge, with the resignation of generations, that Vylaria is no longer the mighty realm it was, and they cling to the institutions, laws and traditions their ancestors built. Here the echoes of imperial greatness can still be met. The cost of keeping up the echo, instead of building new glory, weighs ever more heavily on the people who pay for it.
+The citizens of Velisara acknowledge, with the resignation of generations, that Viléria is no longer the mighty realm it was, and they cling to the institutions, laws and traditions their ancestors built. Here the echoes of imperial greatness can still be met. The cost of keeping up the echo, instead of building new glory, weighs ever more heavily on the people who pay for it.
 
 ## The Old Quarter and the Chapter
 
@@ -56,7 +56,7 @@ The country round Velisara holds the ground where the Republic's arcanists died.
 
 The temple in the old quarter is open because the throne never closed its faith. About 224 the Orzas Karomfos declined to proscribe [[affiliation-blackflame|the Black Flame]], and Nartun's high priesthood left the Empire over it ([[lore-nartumrefuse|Nartun Refuses the Empire]]). The faith has kept open temples in Orzara and the cities of Alessa since, and Velisara's is the largest in the province.
 
-The forums are the golden age's, and the city's later history is their upkeep ([[lore-empirdclne|The Decline of the Vylarian Empire]]). As the Empire declined the crowds thinned and several trades left the city, and their guildhalls on the forum's south side are inns now. The old families pay for the forums from their own purses, as their ancestors did when the city could afford them.
+The forums are the golden age's, and the city's later history is their upkeep ([[lore-empirdclne|The Decline of the Vilérian Empire]]). As the Empire declined the crowds thinned and several trades left the city, and their guildhalls on the forum's south side are inns now. The old families pay for the forums from their own purses, as their ancestors did when the city could afford them.
 
 ## Hooks {#hooks}
 
@@ -66,10 +66,10 @@ The forums are the golden age's, and the city's later history is their upkeep ([
 
 ## See Also
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the imperial overview
 
-[[skill-vylarilng|Vylari]]
+[[skill-vylarilng|Vilari]]
 : the naming tradition
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]

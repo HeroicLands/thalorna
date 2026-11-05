@@ -63,7 +63,7 @@ The master of the house, the disgraced father, lives on what his son sends him, 
 
 House Zarkedis has a name and no house, and its quarrels are all over debts. Its masks hang in another man's cupboard across the square in [[place-skoraz|Soraks]]. The new owner refuses to sell them and will not say whom he bought the house for, and the page of the creditors' sale that names the buyer has been cut from the book. [[being-klstrtsxrchds|Kalestratos Zarkedis]] means to restore the name through standing in the Thordimalon, which no creditor can call in, and he takes the political support of Lady [[being-iltherethalu|Ilthere Thalurates]] while despising the trade she offers.
 
-The house wants its masks back in a cupboard it owns. It wants a seat again, in Soraks or anywhere, and a name the Empire repeats; a Vylarian is a failure when the city stops saying his name, and the Zarkedis have heard it stop. Kalestratos wants more than that, and the Zarkedis name is what he says when he is asked why.
+The house wants its masks back in a cupboard it owns. It wants a seat again, in Soraks or anywhere, and a name the Empire repeats; a Vilérian is a failure when the city stops saying his name, and the Zarkedis have heard it stop. Kalestratos wants more than that, and the Zarkedis name is what he says when he is asked why.
 
 ## Hooks
 

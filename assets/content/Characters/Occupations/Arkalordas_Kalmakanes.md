@@ -400,7 +400,7 @@ Arkalordas Kalmakanes is a 32-year-old man who stands 6'4" tall and is broad and
 
 # Dossier {#dossier}
 
-Arkalordas Kalmakanes is a common seaman of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vylaris]], who has worked the merchant ships of the [[place-vylarianse|Vylarian Sea]] for fifteen years and is the hand its captains ask for by name.
+Arkalordas Kalmakanes is a common seaman of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vylaris]], who has worked the merchant ships of the [[place-vylarianse|Vilérian Sea]] for fifteen years and is the hand its captains ask for by name.
 
 He has been aboard something since he first went to sea: grain ships to the capital's barges, timber ships to [[place-salkhalon|Salkalon]], and the long runs east to [[place-helionis|Helionis]] and, before the war, to [[place-taruzelrgn|Taruzel]]. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck he has sailed for ten years, the man the captain asks before he turns for a lee shore. Between voyages he sleeps at the [Roll House]{.name data-type="place/structure"} with the other hands of the roll.
 
@@ -441,13 +441,13 @@ A young mate on the Helionis run who learned his trade in a Taruzelian yard has 
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-seamensgld|Seamen's Guild of Elissara]]**: a Hand on the roll, marked on the right arm after his first voyage home and hired by the voyage in the roll's turn or by name.
 - **[[affiliation-pozeras|Faith of Pozeras]]**: one of the lay faithful, the Devran, who keeps the Wayfarer's feasts without office in the temple.
 
 ## Plot Hooks
 
-1. **The shoals.** A captain has offered double wages to take a cargo through the [[place-tamzirshoals|Tamzir]] channels, which Taruzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkalordas.
-2. **The privateer.** A Taruzelian ship carrying letters against Vylarian trade has been seen off the Helionis coast, and it is the privateer's. Arkalordas's ship is the next out.
+1. **The shoals.** A captain has offered double wages to take a cargo through the [[place-tamzirshoals|Tamzir]] channels, which Taruzelian pilots know and Vilérian seamen do not, and the crew will not sign without Arkalordas.
+2. **The privateer.** A Taruzelian ship carrying letters against Vilérian trade has been seen off the Helionis coast, and it is the privateer's. Arkalordas's ship is the next out.
 3. **The navy's need.** The fleet is short of seamen and is paying the guild for copies of its roll. Arkalordas's name is at the top of one, and he wants to know what the fleet means to do with it.
 4. **The young mate.** The mate has been given the deck for the Helionis run and has set the ship the Taruzelian way, with half the hands aloft that Arkalordas would keep there. The weather is coming.

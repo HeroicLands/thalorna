@@ -404,7 +404,7 @@ Lartush Genirum is a swordmaster of [[place-yamuzel2|Yamuzel]], who teaches the 
 
 ## Background
 
-**The trade.** Lartush sold his sword for most of his life, in skirmishes and wars along the coasts of the [[place-vylarianse|Vylarian Sea]], wherever a captain or a merchant would pay for one more man.
+**The trade.** Lartush sold his sword for most of his life, in skirmishes and wars along the coasts of the [[place-vylarianse|Vilérian Sea]], wherever a captain or a merchant would pay for one more man.
 
 **The eye.** He lost his left eye in a fight he does not describe, and he came home to Yamuzel after the war of independence with nothing but his skill. He opened the yard because the quarter's young men were already coming to him.
 

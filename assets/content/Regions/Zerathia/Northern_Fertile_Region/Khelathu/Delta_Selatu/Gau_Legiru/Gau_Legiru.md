@@ -3,7 +3,7 @@ shortcode: gaulegirunome
 name: {full: Gau-Legiru}
 type: place
 subType: region
-description: "The garden coast of the delta—a wet, mild strip of citrus, olive, vine, fig and date along the Vylarian shore, the land of the Selat of Gau-Legiru."
+description: "The garden coast of the delta—a wet, mild strip of citrus, olive, vine, fig and date along the Vilérian shore, the land of the Selat of Gau-Legiru."
 tags: [region]
 data:
   banner: khelathubnr
@@ -19,7 +19,7 @@ data:
 
 "Learn the olive first," an orchard-keeper tells a traveler who has stopped at a wall to look at the view. "The vine tells you what a year was. The olive tells you what ten years were." Gau-Legiru, "the fair land of [[place-gau|Gau]]," is the garden coast of [[affiliation-deltaselatu|the Delta Selatu]] and the land of [[affiliation-selatgaulegr|the Selat of Gau-Legiru]], one of the delta's ten selatu in the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
-It is a wet, mild strip running west along the [[place-vylarianse|Vylarian Sea]] shore, where sea air and winter rains grow what the river valley cannot. This is the empire's orchard: citrus and olive, vine and fig, and the date-palm plantations that supply the high tables of the empire and the export markets of the [[place-midhalnrgn|Midhalión Region]].
+It is a wet, mild strip running west along the [[place-vylarianse|Vilérian Sea]] shore, where sea air and winter rains grow what the river valley cannot. This is the empire's orchard: citrus and olive, vine and fig, and the date-palm plantations that supply the high tables of the empire and the export markets of the [[place-midhalnrgn|Midhalión Region]].
 
 ## Character
 

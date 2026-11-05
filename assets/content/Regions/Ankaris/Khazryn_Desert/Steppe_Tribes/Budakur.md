@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Budakur**, "the vulture people", are the [[lore-sowidesclt|Sovidur]] tribe of the cold high steppe at the eastern end of [[place-idwkrrgn|Idvaqor]], in the [[place-khzryndsrtrgn|Khazryn]], where [[lore-celestialroad|the Celestial Road]] climbs to the western pass of [[place-tantsouregin|Tantsou]]. The Empire pays them to keep the pass clear, and they keep it clear. The other tribes of the eastern road call them the garrison's dogs, and the Budakur call that a description of being paid.
+The **Budakur**, "the vulture people", are the [[lore-sowidesclt|Sovidur]] tribe of the cold high steppe at the eastern end of [[place-idwkrrgn|Idvaqor]], in the [[place-khzryndsrtrgn|Khazrin]], where [[lore-celestialroad|the Celestial Road]] climbs to the western pass of [[place-tantsouregin|Tantsou]]. The Empire pays them to keep the pass clear, and they keep it clear. The other tribes of the eastern road call them the garrison's dogs, and the Budakur call that a description of being paid.
 
 ## The Range
 

@@ -18,7 +18,7 @@ A junior of [[affiliation-sorvan|the Sorvan]] who has stood the hall's door at t
 
 The hall is long and high, its floor of dark porphyry, its walls lined with the bronze doors of the figures' stables. The visitors stand behind a rail of gilded bronze at the hall's foot, and the throne's chair of state stands empty at its head on the hours when the Orzas does not attend. The figures roll out from the side doors on tracks sunk flush in the floor and pass between the rail and the chair, so that every bow is made toward the throne and every visitor sees it made.
 
-A celestial dial fills the vault above the pageant and tracks the wandering of sun, moon and stars in real time. The Orrery tells the hour, and it tells a story as well: the inevitability of Vylarian order, the obedience of the world and the eternity of the throne.
+A celestial dial fills the vault above the pageant and tracks the wandering of sun, moon and stars in real time. The Orrery tells the hour, and it tells a story as well: the inevitability of Vilérian order, the obedience of the world and the eternity of the throne.
 
 The provinces that bow are the provinces the Orrery was built to show, and the machine has not been changed for the ones the Empire has lost. The figure for Taruzel still comes out at every great hour, crowned, and bows to the throne whose rule her merchant princes threw off twelve years ago. Envoys from Taruzel are not brought to the hall, and the chamberlains who arrange the embassies know which hour each envoy sees.
 

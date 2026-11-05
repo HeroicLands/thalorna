@@ -29,7 +29,7 @@ The **Zuravlen Region** shares its name with the barony, and Provénzians rarely
 The **region** is the whole of Provénzia's western seaboard—some three-quarters of a million people
 along a long cliff coast and the valleys behind it, facing the cold ocean. It is the poorest and
 hardest-used quarter of the kingdom: thin soils, few harbors, weather off the water, and none of the
-Vylarian trade that made the south rich. Its living is fishing, salt, wool, timber and small mixed
+Vilérian trade that made the south rich. Its living is fishing, salt, wool, timber and small mixed
 farming, and its people are regarded in the south as dour and in the north as provincial.
 
 The **barony** is one valley of it—Selvare Zuravel's holding, some twelve thousand souls—and it
@@ -45,11 +45,11 @@ Everything about Zuravlen follows from the fact that it is three quite different
 a day's ride of each other, and that the middle one is where the money is.
 
 **The coast.** Zuravlen faces **west**, onto the open ocean—not the warm
-[[place-vylarianse|Vylarian Sea]] that laps Provénzia's southern shore, but the vast cold water beyond
+[[place-vylarianse|Vilérian Sea]] that laps Provénzia's southern shore, but the vast cold water beyond
 the continent's western edge. Rocky cliffs stand above deep water and the wind off it is constant:
 hard enough in winter to lay a man down, salt enough year-round to burn the leaves off anything
 tender. Nothing worth exporting grows here. What the coast has is fish—and it has them in
-extraordinary quantity, the cold water being far richer than the Vylarian—along with salt, and the
+extraordinary quantity, the cold water being far richer than the Vilérian—along with salt, and the
 only harbor, at [[place-volsather|Volsater]], reached by a cut in the cliff.
 
 **The valley.** Behind the coastal ridge the wind drops away and the land turns warm—hot, in high

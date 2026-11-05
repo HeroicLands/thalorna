@@ -3,7 +3,7 @@ shortcode: skathhrethlss
 name: {full: The Loss of the Legion at Skathhreth, en: [The Breaking of the Talisman]}
 type: lore
 subType: history
-description: "In 291 AF a Vylarian legion marched up the Legions' Road to burn Waldburg; the first common muster anyone can name let it reach the Moldún and took it at the ford in the rain, and the next spring the elders broke the talisman of the common command so that its War Chief could not keep it."
+description: "In 291 AF a Vilérian legion marched up the Legions' Road to burn Waldburg; the first common muster anyone can name let it reach the Moldún and took it at the ford in the rain, and the next spring the elders broke the talisman of the common command so that its War Chief could not keep it."
 tags: [history]
 data:
   culture: varokhiclt
@@ -84,7 +84,7 @@ data:
       unresolved: [how Dorgulf died, "how many fragments there were, and how many are still kept"]
 ---
 
-Every Vylarian officer posted to [[place-moktur|Moktur]] learns the forest's name for the [[place-moldunriver|Moldún River]]'s ford before he learns the passes: [[place-skathhreth|Skathhreth]], the harm ford. The Loss of the Legion at Skathhreth came in 291, when the largest force the [[affiliation-vylarinmpr|Empire]] ever sent into [[place-vrystwald|Vristwald]] marched to the ford and almost none of it came back. The Varokh remember the battle for what it proved and the winter after it for what it nearly cost them.
+Every Vilérian officer posted to [[place-moktur|Moktur]] learns the forest's name for the [[place-moldunriver|Moldún River]]'s ford before he learns the passes: [[place-skathhreth|Skathhreth]], the harm ford. The Loss of the Legion at Skathhreth came in 291, when the largest force the [[affiliation-vylarinmpr|Empire]] ever sent into [[place-vrystwald|Vristwald]] marched to the ford and almost none of it came back. The Varokh remember the battle for what it proved and the winter after it for what it nearly cost them.
 
 ## The March to Waldburg
 
@@ -112,7 +112,7 @@ The tellings disagree about what became of him, and the Varokh keep all three:
 
 ## What It Left
 
-- **[[place-skathhreth|Skathhreth]].** The thinnest blood-field in the forest, upstream of which Vylarian loggers are felling the [Garskald]{.name data-type="affiliation/lineage"}'s sacred trees without knowing what the ford is.
+- **[[place-skathhreth|Skathhreth]].** The thinnest blood-field in the forest, upstream of which Vilérian loggers are felling the [Garskald]{.name data-type="affiliation/lineage"}'s sacred trees without knowing what the ford is.
 - **The eagle in the river.** Moktur has wanted it back for four centuries, and a _Lusar_ who raised it would make a career.
 - **The Sundered Talisman.** Fragments kept by village elders across the forest, laid together at Waldburg when a common War Chief is acclaimed. Some villages' fragments have been lost, traded or stolen in four hundred winters, and nobody has ever counted how many remain.
 - **The rule.** The forest's suspicion of any War Chief whose renown outgrows his village. [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s ambition to rally the villages against [[affiliation-sonsmuspell|the Sons of Eldheim]] is measured against Dorgulf's winter by every elder who hears it.

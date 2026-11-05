@@ -2,13 +2,13 @@
 shortcode: imprldiadem
 name: {full: Imperial Diadem, en: [The Diadem, The Orzas's Diadem]}
 type: miscgear
-description: "The gold diadem of the Vylarian Orzas, made new for each reign as the coin's profile is renewed at each accession; whoever wears it holds the throne, and the Senate's strength rises and falls against his."
+description: "The gold diadem of the Vilérian Orzas, made new for each reign as the coin's profile is renewed at each accession; whoever wears it holds the throne, and the Senate's strength rises and falls against his."
 tags: []
 data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl: {kbcat: jewelry, system: {weightBase: 0.5, valueBase: 0, qualityBase: 0, durabilityBase: 15}}
 ---
 
-The Orzas of the [[affiliation-vylarinmpr|Vylarian Empire]] wears no crown. He wears the diadem, a band of gold over the brow with the imperial _orkaima_ (eagle) at its front, and each reign has its own. A new Orzas is crowned with a diadem made for him, as his profile replaces his predecessor's on the obverse of every new [[miscgear-solden|Solden]], and no Orzas wears another's.
+The Orzas of the [[affiliation-vylarinmpr|Vilérian Empire]] wears no crown. He wears the diadem, a band of gold over the brow with the imperial _orkaima_ (eagle) at its front, and each reign has its own. A new Orzas is crowned with a diadem made for him, as his profile replaces his predecessor's on the obverse of every new [[miscgear-solden|Solden]], and no Orzas wears another's.
 
 **Who wears it.** The present diadem is [[being-zrmlshlrkls|Zarmelas Helarkales]]'s, worn over hair cut close in the cold rooms of the palace. The old Orzas has adopted nobody, so the next diadem has no head to be made for, and the question of whom [[affiliation-seldan|Seldan]] recognizes is the question of the empire. The Senate's own saying is that its power waxes and wanes with the strength of whoever wears the imperial diadem.
 

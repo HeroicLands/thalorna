@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Nobody has counted the peaks of [[place-graznmntns|the Grazian Mountains]], and the glaciers that lie between them are older than any name for them. The range is a wall of ice and rock two thousand miles long, and its north face above the [[place-khzryndsrtrgn|Khazryn]] is the least traveled part of it: a few known passes, each open for a handful of weeks in late summer, and between them ridge after ridge of blue ice that no caravan has crossed and few climbers have named.
+Nobody has counted the peaks of [[place-graznmntns|the Grazian Mountains]], and the glaciers that lie between them are older than any name for them. The range is a wall of ice and rock two thousand miles long, and its north face above the [[place-khzryndsrtrgn|Khazrin]] is the least traveled part of it: a few known passes, each open for a handful of weeks in late summer, and between them ridge after ridge of blue ice that no caravan has crossed and few climbers have named.
 
 Under that ice are the places this note collects. A shepherd's boy chasing a goat finds a doorway in a rock face. A glacier draws back from a valley it has held for ten centuries and lays bare a stair. A guide leads a cold, sick party into a cleft to shelter from a storm and finds the cleft is a passage, with a floor, and the floor is worn. These are the labyrinths of the Grazian: cut passages that climb and branch and join, caverns whose floors have been leveled, halls whose roofs are lost in the dark, and sealed doors. [[place-vurdil|Vurdish]], above the Tellumi belt, is the one the lowlands know.
 

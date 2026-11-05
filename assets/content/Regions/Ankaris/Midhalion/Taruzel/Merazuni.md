@@ -73,7 +73,7 @@ Answers to
 
 The Merazuni does four things, and each has its keeper.
 
-It **strikes the coin** of the [[lore-trzlncrncy|Taruzelian currency]]: the Solden, the Ardin and the Bit, on the Vylarian denominations. The Ardin is struck to the full imperial standard and passes anywhere silver is taken as silver. The Solden is about 7 percent light by the imperial standard; a Taruzelian never weighs it, and a Vylarian changer always does.
+It **strikes the coin** of the [[lore-trzlncrncy|Taruzelian currency]]: the Solden, the Ardin and the Bit, on the Vilérian denominations. The Ardin is struck to the full imperial standard and passes anywhere silver is taken as silver. The Solden is about 7 percent light by the imperial standard; a Taruzelian never weighs it, and a Vilérian changer always does.
 
 It **holds the bullion.** The moneylender houses of the [Treasurers' Guild]{.name data-type="affiliation/guild"} deposit gold and silver with the treasury, and so does the Confederation, and the strongroom under the Vezakar holds it. The strongroom has two keys. The Kubasum's Keeper of the Strongroom holds one, and the captain of a permanent detachment of Confederation marines holds the other, and the door does not open unless both of them are standing at it.
 
@@ -83,7 +83,7 @@ It **clears.** Every evening, in Besikar and at the Vezakuni chapterhouses of th
 
 ## The Kubasum
 
-Yushuduya Jakuduni has kept the Merazuni since the Confederation made it. She is a banker of Taruzelian lineage who spent twenty years among the moneylenders of [[affiliation-danvar|the Danvar]] before the war, and when the war froze every Taruzelian account in the Vylarian system she built the treasury out of nothing, so that the harbor cities had paper they could trust. She is a narrow, gray, exact woman who eats at her desk, signs nothing she has not read twice, and is commonly held to be the second most powerful officer of the Vezakuni after the Dirabum. She is also the person the great houses would most like to replace.
+Yushuduya Jakuduni has kept the Merazuni since the Confederation made it. She is a banker of Taruzelian lineage who spent twenty years among the moneylenders of [[affiliation-danvar|the Danvar]] before the war, and when the war froze every Taruzelian account in the Vilérian system she built the treasury out of nothing, so that the harbor cities had paper they could trust. She is a narrow, gray, exact woman who eats at her desk, signs nothing she has not read twice, and is commonly held to be the second most powerful officer of the Vezakuni after the Dirabum. She is also the person the great houses would most like to replace.
 
 ## The Treasury and the Houses
 
@@ -93,17 +93,17 @@ The treasury also keeps the scales of the Grand Council. Each city's weight in t
 
 ## Beyond the Border
 
-The Merazuni and the Vylarian treasury, [[affiliation-tarmex|the Tarmeks Orzan]], do not honor each other's paper. A merchant who trades across the border keeps accounts with both, or converts through physical coin at a heavy spread, or goes through one of the Helionite moneylender houses that keep accounts with both treasuries and grow rich on the difference.
+The Merazuni and the Vilérian treasury, [[affiliation-tarmex|the Tarmeks Orzan]], do not honor each other's paper. A merchant who trades across the border keeps accounts with both, or converts through physical coin at a heavy spread, or goes through one of the Helionite moneylender houses that keep accounts with both treasuries and grow rich on the difference.
 
 :::secret
-**For the GM:** The strongroom holds less than the treasury's books say. Among the reserves Yushuduya has entered as held is the war indemnity that Vylaria owes the Confederation and refuses to pay, written in the ledger as though it were gold in the vault. It was the only way to make the first script good when there was almost nothing behind it, and it has stayed on the books since. The script is sound so long as nobody counts the strongroom against the ledger.
+**For the GM:** The strongroom holds less than the treasury's books say. Among the reserves Yushuduya has entered as held is the war indemnity that Viléria owes the Confederation and refuses to pay, written in the ledger as though it were gold in the vault. It was the only way to make the first script good when there was almost nothing behind it, and it has stayed on the books since. The script is sound so long as nobody counts the strongroom against the ledger.
 
 An audit would find the gap in a day. The Qizikuni want the audit because they believe the strongroom is short and want the chair when it is proven; Yushuduya knows the audit would ruin her and might ruin the script with her. A clerk of the ledger who has seen both the vault and the book is the most valuable person in Besikar this season, and does not yet know it.
 :::
 
 ## What It Is Fighting About {#present}
 
-The treasury is defending its chair. [[being-trmnqzkn|Tirmana Qizikuni]] presses the [[affiliation-grandcouncil|Grand Council]] to order an audit of the strongroom at the summer session, and her candidate for the Kubasum's table is a Qizikuni clerk of the treasury's own ledger. [[being-ashurazhitus|Ashuraz Hitusuni]] courts the clerks of the script with dinners for a moneylender's charter. Vylaria still refuses the war indemnity the Confederation claims, and the claim stands in the Council's petitions. [[being-yshdyjkdn|Yushuduya Jakuduni]] signs nothing she has not read twice and answers every request for the audit with the treasury's clearing books, which balance.
+The treasury is defending its chair. [[being-trmnqzkn|Tirmana Qizikuni]] presses the [[affiliation-grandcouncil|Grand Council]] to order an audit of the strongroom at the summer session, and her candidate for the Kubasum's table is a Qizikuni clerk of the treasury's own ledger. [[being-ashurazhitus|Ashuraz Hitusuni]] courts the clerks of the script with dinners for a moneylender's charter. Viléria still refuses the war indemnity the Confederation claims, and the claim stands in the Council's petitions. [[being-yshdyjkdn|Yushuduya Jakuduni]] signs nothing she has not read twice and answers every request for the audit with the treasury's clearing books, which balance.
 
 The houses have small worries of their own about the treasury this season. A clerk of the ledger has not come back from a holiday on [[place-khamisar|Khamisar]], notes struck with a false star are passing on the quays of Sazumun, and the marine captain who holds the strongroom's second key is to be replaced by a man the Admiral's Council of Yamuzel has put forward.
 
@@ -129,7 +129,7 @@ The head factor of the Khelathi factorage on the Guild Quarter has twice offered
 : the federal council whose votes the treasury's register weighs
 
 [[affiliation-tarmex|Tarmeks Orzan]]
-: the Vylarian treasury it does not recognize
+: the Vilérian treasury it does not recognize
 
 [[affiliation-qizikuni|Qizikuni]], [[affiliation-hitusuni|Hitusuni]]
 : the houses that would like a hand in it

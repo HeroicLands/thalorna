@@ -404,7 +404,7 @@ She has bent the cohort's rules on the waterfront for years, for good reasons, a
 
 ## Social
 
-Lothona is a citizen of the [[affiliation-vylarinmpr|Vylarian Empire]] by her house's station, since the Harlanis are a minor noble family, though the name brings her no money and no favor on the docks. On the quays she is respected by the dock workers and the merchants both, and accepted fully into neither world.
+Lothona is a citizen of the [[affiliation-vylarinmpr|Vilérian Empire]] by her house's station, since the Harlanis are a minor noble family, though the name brings her no money and no favor on the docks. On the quays she is respected by the dock workers and the merchants both, and accepted fully into neither world.
 
 ### Enemies
 
@@ -417,7 +417,7 @@ Lothona is a citizen of the [[affiliation-vylarinmpr|Vylarian Empire]] by her ho
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a citizen by her house's station.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a citizen by her house's station.
 - **[[affiliation-arldnpnthn|Aureldian Pantheon]]**: one of the lay faithful.
 
 ## Plot Hooks

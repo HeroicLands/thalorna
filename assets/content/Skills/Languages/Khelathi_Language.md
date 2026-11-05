@@ -8638,7 +8638,7 @@ terebu
 dumatu
 : root _d-m-t_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _dumatu_, many _dumatu_.
 
-The temple form is the word as Khelathi speak and write it. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word as foreign ears set it down, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Khelathi priest says _terebu_ for one and for many; a Vylarian physician says _tereb_ and _terebu_.
+The temple form is the word as Khelathi speak and write it. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word as foreign ears set it down, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Khelathi priest says _terebu_ for one and for many; a Vilérian physician says _tereb_ and _terebu_.
 
 ## Related Languages
 
@@ -9004,7 +9004,7 @@ drew it up. The formal register is not a separate vocabulary but a handful of
 such doublets, kept because the temples attest the weights and write their
 records in the sacred hand.
 
-**Foreigners keep their own word and put it after.** A Vylarian factor writes
+**Foreigners keep their own word and put it after.** A Vilérian factor writes
 _Lin'Zethu elu Au'Khelathu_ in a contract and says "the Scribes' Guild" in the
 tavern, and both are understood. A Khelathi doing business abroad does the same
 in reverse, which is how the trade tongues along the coast came by the words.

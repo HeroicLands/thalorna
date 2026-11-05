@@ -93,7 +93,7 @@ The Free Territory of Eskarath holds the land of [[place-eskarath|Eskarath]]. Th
 
 ## Character
 
-The Eskárathi are not Tarveni. They know it, the Tarveni know it, and both sides have long since agreed to a mutual arrangement: the Eskárathi provide fearsome mountain warriors when the High King calls the ban against a foreign threat, and in return, the rest of Tarvénia leaves them alone. This arrangement has held for centuries, with occasional interruptions when an ambitious High King or Vylarian _therkos_ (governor) tries to impose direct rule—attempts that have invariably ended badly for the outsider; the first Vylarian _therkos_ to try it lost his escort in the high meadows and was not replaced ([[lore-lowlandstaken|The Lowlands Taken]]).
+The Eskárathi are not Tarveni. They know it, the Tarveni know it, and both sides have long since agreed to a mutual arrangement: the Eskárathi provide fearsome mountain warriors when the High King calls the ban against a foreign threat, and in return, the rest of Tarvénia leaves them alone. This arrangement has held for centuries, with occasional interruptions when an ambitious High King or Vilérian _therkos_ (governor) tries to impose direct rule—attempts that have invariably ended badly for the outsider; the first Vilérian _therkos_ to try it lost his escort in the high meadows and was not replaced ([[lore-lowlandstaken|The Lowlands Taken]]).
 
 Eskari culture is ancient, insular, and deeply rooted in the highland landscape. The people live in scattered mountain communities governed by clan elders, and major decisions affecting the territory as a whole are made by the [[affiliation-biltzarrath|Biltzarrath]]—a council of elders that meets in the high mountain meadow of [[place-gaztorai|Gaztorai]] at the summer solstice. The Biltzarrath has no hall and no seat but the meadow, no bureaucracy, and no written constitution; it operates on oral tradition and consensus, and its decisions carry the weight of centuries of custom.
 
@@ -107,7 +107,7 @@ The arrangement with the crown stands. When the lords of Tarvénia elect a High 
 
 ## Commerce and Currency
 
-Free Territory of Eskarath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free Territory of Eskarath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Free Territory of Eskarath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free Territory of Eskarath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## Holdings {#holdings}
 

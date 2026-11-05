@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-"The king owns less than you think and answers for more," a landvordur (king's reeve) tells the Vylarian factor riding the dues circuit with him out of [[place-knalthstead|Knalthstead]] for the first time. "He holds the realm while the ting keeps handing back his arm-ring. Every hall we stop at tonight knows that, and every one of them will tell me whether he is still worth the dues."
+"The king owns less than you think and answers for more," a landvordur (king's reeve) tells the Vilérian factor riding the dues circuit with him out of [[place-knalthstead|Knalthstead]] for the first time. "He holds the realm while the ting keeps handing back his arm-ring. Every hall we stop at tonight knows that, and every one of them will tell me whether he is still worth the dues."
 
 The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]], on the northwestern coast of the [[place-nrdlndsrgn|Nordlands]], and it is the largest and first-ranked of the five [[lore-nordheimnclt|Nordmen]] kingdoms. About 650,000 people live under its crown, more than half again as many as in any of its sister kingdoms—the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]. Nordheim holds [[place-domsey|Domsey]], the island where all five meet every seventh year, and its king usually convenes them. An outsider knows it for its longship fleets.
 
@@ -148,7 +148,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] has almost no presence in Nordheim. 
 
 ## Relations
 
-Raiding, trade and migration set Nordheim's dealings with the rest of Ankaris. Its longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and its mercenaries serve in armies across the continent.
+Raiding, trade and migration set Nordheim's dealings with the rest of Ankaris. Its longships have struck as far south as the [[place-vylarianse|Vilérian Sea]], and its mercenaries serve in armies across the continent.
 
 Among the five kingdoms, Malagna is Nordheim's rival: the two have long vied for leadership of the Nordmen, and their dealings are fraternal and competitive at once. Norgaad, Targud and Vithgard stand neither with Nordheim nor against it, and meet it as equals on Domsey.
 
@@ -156,7 +156,7 @@ Beyond the north, the [[lore-grukarfolk|Grukar]] to the east share the hard clim
 
 ## Commerce and Currency
 
-Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here: a traveler's note has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which owe nothing to the Vylarian banking houses.
+Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vilérian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vilérian paper is _not_ honored here: a traveler's note has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which owe nothing to the Vilérian banking houses.
 
 ## See Also
 

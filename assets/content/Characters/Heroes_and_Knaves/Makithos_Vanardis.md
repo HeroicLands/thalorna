@@ -421,7 +421,7 @@ Makithos stands 5'7" tall with a medium build. He has light tanned skin, black h
 
 ### The Wanderer's Child
 
-Makithos was born to a family of traveling performers—musicians, acrobats, and storytellers who moved from city to city across the [[affiliation-vylarinmpr|Empire of Vylaria]]. Unlike his siblings, who found contentment in the transient performer's life, young Makithos was haunted by a hunger for something deeper: to craft stories rather than only perform them, to shape language and emotion into compelling architecture. By his teenage years, he was composing pieces for his family's performances, demonstrating an uncommon gift for understanding human motivation and emotional truth. A visiting scholar from the capital saw one of his works and recognized genius; the scholar invited the promising youth to study in the city's prestigious [Academy of Dramatic Arts]{.name data-type="affiliation"}.
+Makithos was born to a family of traveling performers—musicians, acrobats, and storytellers who moved from city to city across the [[affiliation-vylarinmpr|Empire of Viléria]]. Unlike his siblings, who found contentment in the transient performer's life, young Makithos was haunted by a hunger for something deeper: to craft stories rather than only perform them, to shape language and emotion into compelling architecture. By his teenage years, he was composing pieces for his family's performances, demonstrating an uncommon gift for understanding human motivation and emotional truth. A visiting scholar from the capital saw one of his works and recognized genius; the scholar invited the promising youth to study in the city's prestigious [Academy of Dramatic Arts]{.name data-type="affiliation"}.
 
 ### The Path of Fire
 

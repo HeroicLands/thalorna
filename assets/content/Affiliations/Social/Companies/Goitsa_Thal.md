@@ -59,7 +59,7 @@ Type
 : crossbow company in imperial pay
 
 Region
-: the valleys above [[place-kavrenath|Kávrenath]] in [[place-asturath|Asturath]]; posted on the [[affiliation-vylarinmpr|Vylarian Empire]]'s western road-head below the [[place-kervaron|Kervaron Spine]]
+: the valleys above [[place-kavrenath|Kávrenath]] in [[place-asturath|Asturath]]; posted on the [[affiliation-vylarinmpr|Vilérian Empire]]'s western road-head below the [[place-kervaron|Kervaron Spine]]
 
 Strength
 : about one hundred and eighty sworn men, three-quarters of them crossbowmen, and some forty camp hands
@@ -93,13 +93,13 @@ The worst thing a man of the company can do is break the contract, and the penal
 
 The imperial road west out of [[place-alyssa|Alessa]] climbs into the foothills and stops at the last boundary-post, where the paving ends in a single worn step. The fort above it is called the [Step]{.name data-type="place/structure"} by everyone who has served in it: a square of dry stone and timber for two hundred men, with a gate-tower over the road, a cistern, stables for the mule trains and a signal platform facing east. Below it a chain of four posts runs down the road a day apart.
 
-The company's contract with the empire is sealed by the war council of [[affiliation-vylrnmltry|The Vylarian Military]] and runs from thaw to thaw. The war council's clerk came over the mountains to Kávrenath the first spring to swear it, and climbed to the stone with the captain, because a Tarvenan company swears nowhere else. The contract binds Goitsa Thal to four things: to hold the Step and the posts, to keep the road open from the Step down to the foothills, to escort imperial trains from the Step to the first camp of the [[lore-aelendnppl|Áelendan People]] below the pass, and to report by the road whatever comes over the passes in arms. It binds the empire to pay the company by the quarter.
+The company's contract with the empire is sealed by the war council of [[affiliation-vylrnmltry|The Vilérian Military]] and runs from thaw to thaw. The war council's clerk came over the mountains to Kávrenath the first spring to swear it, and climbed to the stone with the captain, because a Tarvenan company swears nowhere else. The contract binds Goitsa Thal to four things: to hold the Step and the posts, to keep the road open from the Step down to the foothills, to escort imperial trains from the Step to the first camp of the [[lore-aelendnppl|Áelendan People]] below the pass, and to report by the road whatever comes over the passes in arms. It binds the empire to pay the company by the quarter.
 
 The Áelendan clans that hold the passes know the company well. Tarvenans go home over the Kervaron and pay the clans' passage-gift as any traveler does, and the company's men have been paying it for four generations. The clans treat Goitsa Thal as travelers who happen to be armed. The legion's cohorts that held the Step before them never had that footing with the clans.
 
 ## Pay
 
-The empire pays a sworn man of the company four Ardin a day, a Named Man five, and the captain a fixed sum by the quarter, with bolts and remounts on account. A legionary draws less by the day. He also draws the dole and the citizenship at the end of twenty years ([[doc-vylrnctznshp|Vylarian Citizenship]]), and a Tarvenan draws neither. Over a man's life the company is the cheaper soldier, and the war council knows it.
+The empire pays a sworn man of the company four Ardin a day, a Named Man five, and the captain a fixed sum by the quarter, with bolts and remounts on account. A legionary draws less by the day. He also draws the dole and the citizenship at the end of twenty years ([[doc-vylrnctznshp|Vilérian Citizenship]]), and a Tarvenan draws neither. Over a man's life the company is the cheaper soldier, and the war council knows it.
 
 The pay comes as traveler's notes drawn on [[affiliation-tarmex|The Tarmeks Orzan]], and the notes are drawn against money the throne has borrowed. The purser rides down to [[place-orzara|Orzara City]] each quarter to collect them, and carries them to a chapterhouse of [[affiliation-danvar|The Bankers' Guild]] to be changed into silver, because the valleys do not take paper. He changes them at the [House of Aldovardian]{.name data-type="affiliation/venture"}, the great house of the guild that began in Tarvénia, when he can, and he watches the discount the moneylenders take, which has risen two years running.
 
@@ -154,7 +154,7 @@ The captain's companion, [Oltremo Ugarreta]{.name data-type="being/npc"}, sells 
 [[lore-thresholdroll|The Roll at the Thresholds]]
 : the muster the company says at the turning of the year
 
-[[affiliation-vylrnmltry|The Vylarian Military]]
+[[affiliation-vylrnmltry|The Vilérian Military]]
 : the legions whose road-head the company holds
 
 [[affiliation-hrendskari|Hrendskari]]

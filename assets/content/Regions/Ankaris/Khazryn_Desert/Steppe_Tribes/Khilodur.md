@@ -48,7 +48,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Khilodur**, "the sun people", are a small [[lore-sowidesclt|Sovidur]] tribe of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], who live on the southern rim of the dead lake [[place-ewod|Evod]] and cut its salt. They look like nobody else on the steppe. Their hair is fair, often nearly white, and their eyes are gray or pale blue, and the other tribes say they are kin of [[lore-basinbldrs|the Basin Builders]], whose lake it was. The Khilodur deny it.
+The **Khilodur**, "the sun people", are a small [[lore-sowidesclt|Sovidur]] tribe of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], who live on the southern rim of the dead lake [[place-ewod|Evod]] and cut its salt. They look like nobody else on the steppe. Their hair is fair, often nearly white, and their eyes are gray or pale blue, and the other tribes say they are kin of [[lore-basinbldrs|the Basin Builders]], whose lake it was. The Khilodur deny it.
 
 ## The Range
 

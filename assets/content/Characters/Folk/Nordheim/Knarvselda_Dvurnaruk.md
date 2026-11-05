@@ -39,7 +39,7 @@ Knarvselda Dvurnaruk is a 37-year-old woman who stands 5'11" tall and is of heav
 
 # Dossier {#dossier}
 
-Knarvselda Dvurnaruk is the captain of [[affiliation-hrendskari|Hrendskari]], the Nordman company that holds seven watchtowers of the [[place-vrystwald|Vristwald]] march above [[place-dolvar|Dolvar]] for the [[affiliation-vylarinmpr|Vylarian Empire]]. She was born on a fishing stead on the coast of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], into a clan whose name records a charge kept, and she went south at nineteen with a company that took a season's contract on the Vristwald march. She came home with silver and went south again. She has captained Hrendskari since its sixth year, when its first captain died of a winter fever in a tower, and she brought it to Dolvar six years ago.
+Knarvselda Dvurnaruk is the captain of [[affiliation-hrendskari|Hrendskari]], the Nordman company that holds seven watchtowers of the [[place-vrystwald|Vristwald]] march above [[place-dolvar|Dolvar]] for the [[affiliation-vylarinmpr|Vilérian Empire]]. She was born on a fishing stead on the coast of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], into a clan whose name records a charge kept, and she went south at nineteen with a company that took a season's contract on the Vristwald march. She came home with silver and went south again. She has captained Hrendskari since its sixth year, when its first captain died of a winter fever in a tower, and she brought it to Dolvar six years ago.
 
 The iron ring is her answer to the [[affiliation-malldbndlg|Málalidabandalag]]. A captain signed to the Compact wears the bronze ring of the Hall on the right thumb, and the empire's contracts carry a clause no signed captain can swear. Knarvselda wears iron where the bronze would go, and tells any Nordman who asks that she will take the bronze when the Hall can get her company paid on a ridge in Moktur.
 
@@ -69,7 +69,7 @@ Her Old Hands, above all the warden of the company's highest tower, a woman of h
 
 ### Patrons
 
-The empire pays her through the war council of [[affiliation-vylrnmltry|The Vylarian Military]], and she answers for her towers to the _vandraks_ (legion commander) at Dolvar, [[being-sthrskrmrs|Satheras Kiramaris]]. He is careful with her and she is careful with him, and the arrangement suits them both.
+The empire pays her through the war council of [[affiliation-vylrnmltry|The Vilérian Military]], and she answers for her towers to the _vandraks_ (legion commander) at Dolvar, [[being-sthrskrmrs|Satheras Kiramaris]]. He is careful with her and she is careful with him, and the arrangement suits them both.
 
 ### Enemies
 

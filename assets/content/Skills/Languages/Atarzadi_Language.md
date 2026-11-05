@@ -4603,6 +4603,7 @@ data:
   retired:
     - {form: Teqemod, instead: Ozhmarod, why: too like Teghumod to tell apart at the table}
     - {form: teqemod, instead: ozhmarod, why: too like teghumod to tell apart at the table}
+    - {form: Khazryn, instead: Khazrin, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -4662,7 +4663,7 @@ A syllable opens on one consonant or on nothing and closes on any consonant but 
 
 ## Building words
 
-Every Atárzadi word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazryn Lexicon]]. The thing described comes first: _kurbel_ "well" and _lukhem_ "council" make _kurbelukhem_, the council of the well.
+Every Atárzadi word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazrin Lexicon]]. The thing described comes first: _kurbel_ "well" and _lukhem_ "council" make _kurbelukhem_, the council of the well.
 
 ### Joins
 
@@ -4695,7 +4696,7 @@ FROM affixes WHERE language = 'thalorna-note-skill-atarzadilng' ORDER BY positio
 
 ## Atárzadi Lexicon {#lexicon}
 
-The stems of Atárzadi, the names built from them and the register of its names. The rules the three tongues share, and the senses every tongue has a stem for, stand in the [[skill-tellumilng#lexicon|Khazryn Lexicon]].
+The stems of Atárzadi, the names built from them and the register of its names. The rules the three tongues share, and the senses every tongue has a stem for, stand in the [[skill-tellumilng#lexicon|Khazrin Lexicon]].
 
 ### Stems
 

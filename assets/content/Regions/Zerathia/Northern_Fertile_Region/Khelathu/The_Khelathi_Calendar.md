@@ -64,7 +64,7 @@ Three counts run side by side in [[affiliation-empireakhlth|Au'Khelathu]], and a
 
 The Qet Telgu runs on unbroken from its first year, and in running prose a Khelathi date gives the year of the count and nothing else: the judgment of the struck king is 2378 ST, and the present is 2830 ST. The Keepers of the King-Lists divide the count into ages, the way a reader divides a long scroll into its columns, and every schoolroom in the valley learns them in order. An age takes its name from what the throne did in it, it opens and closes on an event the king-list enters, and it has a mark of two letters that a formal entry writes after the year in place of ST: the king-list and the temple annals give the judgment as 2378 PT, the year 2378 of the count, in [[lore-akhpriestthr|the Priests' Thrones]]. The year is the same number under either writing, because the count never starts again; the mark only says which column of the scroll it stands in. A year before the count is written BST and counted back from the Occasion.
 
-| Age                                         | Mark | Its years (ST)            | Vylarian reckoning |
+| Age                                         | Mark | Its years (ST)            | Vilérian reckoning |
 | ------------------------------------------- | ---- | ------------------------- | ------------------ |
 | Before the Occasion                         | BST  | counted back from 1 BST   | before 2110 BF     |
 | [[lore-akhfirsttab\|The First Tablets]]     | FT   | 1 to 1006                 | 2110 to 1105 BF    |
@@ -76,7 +76,7 @@ The Qet Telgu runs on unbroken from its first year, and in running prose a Khela
 | [[lore-akhpriestthr\|The Priests' Thrones]] | PT   | 2378 to 2580              | 268 to 470 AF      |
 | [[lore-akhhsmeqes\|The House of Meqes]]     | HM   | 2580 to the present, 2830 | 470 to 720 AF      |
 
-An age shares its last year with the first year of the next, because the event that closes one opens the other, as a reign shares its last year with its successor's first; the shared year takes the mark of the age it opens, so the judgment of 2378 is entered under PT and the battle at the granaries that same spring with it. To carry a year of the count to [[lore-commoncal|the Vylarian Calendar]], subtract 2,110 for a year after the Founding and subtract the count from 2,111 for a year before it, since the western reckoning has no year zero.
+An age shares its last year with the first year of the next, because the event that closes one opens the other, as a reign shares its last year with its successor's first; the shared year takes the mark of the age it opens, so the judgment of 2378 is entered under PT and the battle at the granaries that same spring with it. To carry a year of the count to [[lore-commoncal|the Vilérian Calendar]], subtract 2,110 for a year after the Founding and subtract the count from 2,111 for a year before it, since the western reckoning has no year zero.
 
 **Before the Occasion.** The temple will not date it, and says so plainly: what cannot be counted is not history. The First Occasion calls it chaos, the dark and the serpent and the water without a bank. What the valley shows of it nonetheless is a country of several polities ("the valley was many"), farming and water-works whose first teachers no human record remembers, and carved stones in a script older than Khelathi reading: the [[place-anlaghura|Anlaghura]] monolith, and [[place-drownstones|the Drowned Stones]] under the southern marsh.
 
@@ -92,7 +92,7 @@ An age shares its last year with the first year of the next, because the event t
 
 [[lore-akhstruckhs|The Struck House]] (2281 to 2378 ST) is a century of six reigns, ending with the [[being-falseuqaa|False Uqa'a]]: the floods fail, the granaries are held shut, and the rising and the judgment of 2378 strike his house from every wall.
 
-The Priests' Thrones (2378 to 2580 ST) are two centuries of priest-raised houses, children crowned and regents crowned after them. [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] reaches the eastern road in 2425, and a Vylarian army takes the throne in 2487.
+The Priests' Thrones (2378 to 2580 ST) are two centuries of priest-raised houses, children crowned and regents crowned after them. [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] reaches the eastern road in 2425, and a Vilérian army takes the throne in 2487.
 
 [[lore-akhhsmeqes|The House of Meqes]] (2580 ST to the present) opens when a regent is crowned in his ward's second year. Every Gar-Au since has been crowned Meqes, and the sixteenth reigns now.
 

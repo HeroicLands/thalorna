@@ -50,7 +50,7 @@ The treasury also keeps the scales of the [[affiliation-grandcouncil|Grand Counc
 
 **The freezing.** When the war began, the empire froze the clearing accounts that carried every Taruzelian merchant's script, and within weeks the harbor cities could not pay one another. Yushuduya came home on the last ship the Danvar would clear for her, and in a single winter she built the Merazuni in borrowed cellars on the Guild Quarter: a strike, a strongroom, a book and a seal. The harbor cities had paper they could trust before they had a fleet that could win.
 
-**The present.** She has kept the treasury since the Confederation's charter. The script is honored at no Vylarian house, and Helionite moneylenders grow rich converting between the two treasuries, which she tolerates for as long as no agreement with Orzara is possible.
+**The present.** She has kept the treasury since the Confederation's charter. The script is honored at no Vilérian house, and Helionite moneylenders grow rich converting between the two treasuries, which she tolerates for as long as no agreement with Orzara is possible.
 
 ## Psyche
 
@@ -94,7 +94,7 @@ She has no house, no fleet and no friends among the great families, and she has 
 4. **The forged star.** Notes struck with a false eight-pointed star have appeared on the quays of Sazumun, good enough to pass at a moneylender's counter. Yushuduya wants the plates.
 
 :::secret {title="The strongroom and the book"}
-The strongroom holds less than the treasury's books say. Among the reserves Yushuduya has entered as held is the war indemnity that Vylaria owes the Confederation and refuses to pay, written in the ledger as though it were gold in the vault. It was the only way to make the first script good when there was almost nothing behind it, and it has stayed on the books since. The script is sound so long as nobody counts the strongroom against the ledger. An audit would find the gap in a day, and it would ruin her and might ruin the coast's paper with her. The Qizikuni believe the strongroom is short; they do not know why.
+The strongroom holds less than the treasury's books say. Among the reserves Yushuduya has entered as held is the war indemnity that Viléria owes the Confederation and refuses to pay, written in the ledger as though it were gold in the vault. It was the only way to make the first script good when there was almost nothing behind it, and it has stayed on the books since. The script is sound so long as nobody counts the strongroom against the ledger. An audit would find the gap in a day, and it would ruin her and might ruin the coast's paper with her. The Qizikuni believe the strongroom is short; they do not know why.
 
 The register that weighs the Council's votes comes from the same book. She has never bent a weight, and she knows that whoever keeps the book after her may.
 

@@ -68,7 +68,7 @@ The [Painted Eye]{.name data-type="place/structure"}, at the head of the beach, 
 [[place-thremuzara|Thremuzara]]
 : the salt-town whose salt cures the catch
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 # The Truth of Volkemara {#truth .secret}

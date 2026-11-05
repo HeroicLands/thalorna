@@ -486,7 +486,7 @@ Arcane Knowledge
 : Though not a practitioner of magic, Legiret’s deep understanding of mystical texts gives her the ability to recognize magical symbols, traps, and rituals that they encounter on their journey.
 
 Folklore Knowledge
-: Legiret has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and [[place-tantsouregin|Tantsou]]. The exception is [[place-vylariargn|Vylaria]], with which she has considerable knowledge.
+: Legiret has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]] and the [[place-khzryndsrtrgn|Khazrin Desert Region]], with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and [[place-tantsouregin|Tantsou]]. The exception is [[place-vylariargn|Viléria]], with which she has considerable knowledge.
 
 ## Psyche
 

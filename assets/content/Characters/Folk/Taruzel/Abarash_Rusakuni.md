@@ -104,5 +104,5 @@ He cares more for lines than for the people who draw them, and he lets a great d
 
 **The lines.** The last two lines the loft accepted from a journeyman, [Pazasu Rasuni]{.name data-type="being/npc"}, were drawn by the journeyman's sister, [Helaruya Rasuni]{.name data-type="being/npc"}, who has never been apprenticed. Abarash knows. He watched Pazasu chalk out the second line and saw a man copying what he did not understand. He has said nothing, because the guild's masters would strike the brother from the yards and Abarash wants the lines. If he is pressed he will want her inside the loft with her name kept off the drawings.
 
-**Hook: the copy in Yamuzel.** A Vylarian agent in the roads below the Strait Fortress has the lines of the League's newest galley, bought from a Yamuzel shipwright. The League's Master of the Naval Yards comes to Abarash first, because the lines are his, and asks the party who brought him the news to find out who else has a copy.
+**Hook: the copy in Yamuzel.** A Vilérian agent in the roads below the Strait Fortress has the lines of the League's newest galley, bought from a Yamuzel shipwright. The League's Master of the Naval Yards comes to Abarash first, because the lines are his, and asks the party who brought him the news to find out who else has a copy.
 :::

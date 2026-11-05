@@ -238,7 +238,7 @@ At the edge of the thorn scrub a dozen small birds go up from a bush at once, an
 
 # Dossier {#dossier}
 
-The Caracal is the desert cat of the dry steppe, sixteen to twenty inches at the shoulder and twenty-five to forty-five pounds, a hunter of birds, hares and small antelope. It lives in the rocky scrub and thorn thickets along the edge of the [[place-khzryndsrtrgn|Khazryn steppe]], on the plateau of [[place-byzariargn|Bizaria]] and in the brush of the [[place-dunhardsrtrgn|Dunhara Desert]]. A caracal can leap straight up from a standing start to knock a bird out of the air. Steppe chiefs and wealthy merchants keep tamed cats for coursing.
+The Caracal is the desert cat of the dry steppe, sixteen to twenty inches at the shoulder and twenty-five to forty-five pounds, a hunter of birds, hares and small antelope. It lives in the rocky scrub and thorn thickets along the edge of the [[place-khzryndsrtrgn|Khazrin steppe]], on the plateau of [[place-byzariargn|Bizaria]] and in the brush of the [[place-dunhardsrtrgn|Dunhara Desert]]. A caracal can leap straight up from a standing start to knock a bird out of the air. Steppe chiefs and wealthy merchants keep tamed cats for coursing.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A lean, muscular cat with a short, dense coat of reddish brown to tawny over the
 
 ## In the Land
 
-Caracals live in the rocky scrub, thorn thickets and dry grassland along the edge of the sand seas, in the steppe country of the Khazryn, on the plateau of Bizaria and in the brush of the Dunhara Desert. A cat holds a territory of several miles, with a few rock shelters it hunts from. It lies up by day in a crevice or under a thorn bush and is seldom seen.
+Caracals live in the rocky scrub, thorn thickets and dry grassland along the edge of the sand seas, in the steppe country of the Khazrin, on the plateau of Bizaria and in the brush of the Dunhara Desert. A cat holds a territory of several miles, with a few rock shelters it hunts from. It lies up by day in a crevice or under a thorn bush and is seldom seen.
 
 ## Key Behaviors
 

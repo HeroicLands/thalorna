@@ -94,7 +94,7 @@ The villages of the southern forest had one thing the northern ones did not. Ove
 
 ## The Grain Summers
 
-From 515 the war-bands went south in numbers Moktur had never met. They wanted cattle and grain first and captives after, and the reciters call these years the Grain Summers for that reason. They came over the passes in the thaw, drove the herds north before the garrisons could gather, and came back the next year to the same valleys. In ten years the lowland valleys of northern Moktur emptied, the families moving south or into the walled towns, and the [[affiliation-vylarinmpr|Empire]]'s revenue from its northern province failed in the same years its southern provinces began to drift ([[lore-empirdclne|The Decline of the Vylarian Empire]]). The province raised [[place-dolvar|Dolvar]] from a frontier post to a legion fortress-town to stop the raids at the passes, and Dolvar's garrison still drills against them.
+From 515 the war-bands went south in numbers Moktur had never met. They wanted cattle and grain first and captives after, and the reciters call these years the Grain Summers for that reason. They came over the passes in the thaw, drove the herds north before the garrisons could gather, and came back the next year to the same valleys. In ten years the lowland valleys of northern Moktur emptied, the families moving south or into the walled towns, and the [[affiliation-vylarinmpr|Empire]]'s revenue from its northern province failed in the same years its southern provinces began to drift ([[lore-empirdclne|The Decline of the Vilérian Empire]]). The province raised [[place-dolvar|Dolvar]] from a frontier post to a legion fortress-town to stop the raids at the passes, and Dolvar's garrison still drills against them.
 
 ## The Taking of the Eagle
 
@@ -123,13 +123,13 @@ No Shaman went south with the host, because no Shaman goes raiding, and nobody c
 [[lore-blackmarshbtl|The Battle of the Black Marsh]]
 : the Empire's account of the same day
 
-[[lore-empirdclne|The Decline of the Vylarian Empire]]
+[[lore-empirdclne|The Decline of the Vilérian Empire]]
 : what the lost revenue cost
 
 [[place-dolvar|Dolvar]]
 : the fortress raised against the raids
 
-[[affiliation-vylrnmltry|Vylarian Military]]
+[[affiliation-vylrnmltry|Vilérian Military]]
 : the eagle, and what a legion owes it
 
 [[lore-wintertally|The Tally of Winters]]

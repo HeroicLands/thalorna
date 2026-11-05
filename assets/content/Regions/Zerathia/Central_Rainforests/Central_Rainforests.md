@@ -23,11 +23,11 @@ Within the forests live peoples, traditions, and life-forms that the settled emp
 
 The rainforests occupy an enormous equatorial belt—wider east-to-west than either [[place-aureldirgn|Aureldia Region]] or [[place-midhalnrgn|Midhalión Region]], and deeper north-to-south than most Ankarian cartographers are prepared to admit. The canopy is continuous for hundreds of miles at a time, closing over rivers, clearings, and the handful of ancient trails that thread through the interior.
 
-Several great rivers drain the region. Most flow north toward the [[place-vylarianse|Vylarian Sea]], cutting gorges through the highland spurs that descend from the northern crescent; others flow south into seasonally flooded wetlands that eventually give way to the savannah. These rivers are the region's highways—such highways as exist—and the river tribes cluster along them. The interior between the rivers is effectively unmapped.
+Several great rivers drain the region. Most flow north toward the [[place-vylarianse|Vilérian Sea]], cutting gorges through the highland spurs that descend from the northern crescent; others flow south into seasonally flooded wetlands that eventually give way to the savannah. These rivers are the region's highways—such highways as exist—and the river tribes cluster along them. The interior between the rivers is effectively unmapped.
 
 The climate is wet and warm year-round, with a rhythm of alternating dry and rainy seasons rather than true summer and winter. Daily afternoon thunderstorms are the norm through most of the year. Fog and mist are constant in the interior, and the air is thick with the smell of decay and growth happening simultaneously.
 
-The forest holds species of tree, vine, insect, and beast found nowhere else on [[place-worldthlrn|Thalorna]], many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Khelathi soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
+The forest holds species of tree, vine, insect, and beast found nowhere else on [[place-worldthlrn|Thalorna]], many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Khelathi soldier or Vilérian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
 
 ## Peoples and Culture
 
@@ -52,7 +52,7 @@ What does recur is a recognition that the forest itself is alive in a way that m
 
 ## Politics and Power
 
-No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; Empire of Au'Khelathu has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, gifts given to feared neighbors, and long feuds whose origins are often mythological rather than historical.
+No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vilérian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; Empire of Au'Khelathu has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, gifts given to feared neighbors, and long feuds whose origins are often mythological rather than historical.
 
 ## Trade
 

@@ -12,7 +12,7 @@
  * work of fiction is an Earth name, as are names of the reader's languages
  * and "Common tongue".
  * "Common Calendar" is refused beside them: the shared year-count belongs to the
- * Vylarian Empire, and prose calls it the Vylarian Calendar.
+ * Vilérian Empire, and prose calls it the Vilérian Calendar.
  * Each is refused in every note, README and table under `assets/content`, and in
  * the lexicon data files, wherever it stands: prose, a tag, a pronunciation
  * guide or a comment. A name is recast as a gloss or a rendering, and a sound is
@@ -888,7 +888,7 @@ export function findEarthNames(file, text, names = earthMatcher()) {
                     [COMMON, "a Common tongue"],
                     [
                         COMMON_CALENDAR,
-                        'the Vylarian Calendar\'s name in the tooling; write "the Vylarian Calendar"',
+                        'the Vilérian Calendar\'s name in the tooling; write "the Vilérian Calendar"',
                     ],
                     [names, "an Earth proper name"],
                     [greekMatcher(), "an Earth-Greek name", foldAccents(line)],

@@ -442,7 +442,7 @@ A younger master of the guild lays reed the [[place-hylen|Hilen]] way, faster an
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keeps the Nurturer's feasts without office in the temple.
 
 ## Plot Hooks

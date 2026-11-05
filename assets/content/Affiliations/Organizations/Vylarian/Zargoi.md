@@ -53,7 +53,7 @@ A captain of one of the Irons' stand-clubs gives a new Brother of the Stand his 
 
 ## Overview
 
-The Zargoi, the Irons, are the larger of the two racing factions of [[place-orzara|Orzara City]], and the faction of the [[place-warrensorz|Warrens]]. Their name is the plural of _zargon_ (iron) in [[skill-vylarilng|Vylari]], and their color is the gray of plain iron, worn as a ring on a cord or a band on the sleeve. They race against the [[affiliation-ethloi|Ethloi]], the Golds, at [[place-rathaunamelvar|The Racecourse]], and the rivalry that begins on the track ends in brawls in the lanes on most race nights.
+The Zargoi, the Irons, are the larger of the two racing factions of [[place-orzara|Orzara City]], and the faction of the [[place-warrensorz|Warrens]]. Their name is the plural of _zargon_ (iron) in [[skill-vylarilng|Vilari]], and their color is the gray of plain iron, worn as a ring on a cord or a band on the sleeve. They race against the [[affiliation-ethloi|Ethloi]], the Golds, at [[place-rathaunamelvar|The Racecourse]], and the rivalry that begins on the track ends in brawls in the lanes on most race nights.
 
 A racing faction is several things at once. It is the owner of the teams that race in its color, their stables, their horses and their drivers. It is a crowd that sits together in the stands and shouts together, and that crowd is the loudest voice the common citizens of Orzara have. It is a burial club and a mutual fund, because a Brother of the Stand who dies in his club's quarrel is buried by it. And it is a street army, because the stand-clubs fight the Golds' clubs in the lanes and anyone else their master asks them to.
 

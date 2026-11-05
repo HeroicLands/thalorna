@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Oroqidur** are a small [[lore-sowidesclt|Sovidur]] tribe of the deep sands of the [[place-hskrrgn|Ghoshiqor]], the central range of the [[place-khzryndsrtrgn|Khazryn]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds an Oroqidur camp has been led to it.
+The **Oroqidur** are a small [[lore-sowidesclt|Sovidur]] tribe of the deep sands of the [[place-hskrrgn|Ghoshiqor]], the central range of the [[place-khzryndsrtrgn|Khazrin]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds an Oroqidur camp has been led to it.
 
 ## The Hidden Oasis
 

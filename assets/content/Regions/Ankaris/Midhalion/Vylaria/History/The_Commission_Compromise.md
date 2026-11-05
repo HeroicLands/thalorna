@@ -53,7 +53,7 @@ A senior centurion of a northern legion, asked by a young Lusel why the camp pre
 
 ## The Report
 
-The Taruzelian war was lost on land and sea in a way the army had not expected ([[lore-empirdclne|The Decline of the Vylarian Empire]]). The Dukran's after-action report set out why. Several engagements the Empire should have won were lost because purchased commissions made decisions that experienced centurions would never have made.
+The Taruzelian war was lost on land and sea in a way the army had not expected ([[lore-empirdclne|The Decline of the Vilérian Empire]]). The Dukran's after-action report set out why. Several engagements the Empire should have won were lost because purchased commissions made decisions that experienced centurions would never have made.
 
 The report leaked to the senatorial houses within months of its filing. It produced the most serious challenge to the commission system in two centuries.
 
@@ -83,11 +83,11 @@ The Orzas's position is that the matter is "under continuing review." It stays t
 
 ## See Also
 
-[[affiliation-vylrnmltry|Vylarian Military]]
+[[affiliation-vylrnmltry|Vilérian Military]]
 : the commission system and the Vallar
 
 [[affiliation-tarmex|Tarmeks Orzan]]
 : the audit
 
-[[lore-empirdclne|The Decline of the Vylarian Empire]]
+[[lore-empirdclne|The Decline of the Vilérian Empire]]
 : the war that produced the report

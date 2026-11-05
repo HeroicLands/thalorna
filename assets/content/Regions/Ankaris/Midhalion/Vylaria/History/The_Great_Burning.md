@@ -62,7 +62,7 @@ A Watch sergeant, showing a new recruit round the lanes of the lower wards of [[
 
 ## The Fire
 
-The Circles riot first. The Watch, which keeps the city beyond the [Inner Wall]{.name data-type="place/structure"}, held the main avenues and lost the valley wards, and a fire started in the Warrens climbed the lanes of **Antel** and burned for six days. The tenements are timber above their ground storeys, the hill-lanes are narrow, and no brigade in the city had water to spare for a ward that was already lost. The Old Hill's upper houses, the [Vylarian Republic]{.name data-type="affiliation/polity"}'s own, burned with the lower.
+The Circles riot first. The Watch, which keeps the city beyond the [Inner Wall]{.name data-type="place/structure"}, held the main avenues and lost the valley wards, and a fire started in the Warrens climbed the lanes of **Antel** and burned for six days. The tenements are timber above their ground storeys, the hill-lanes are narrow, and no brigade in the city had water to spare for a ward that was already lost. The Old Hill's upper houses, the [Vilérian Republic]{.name data-type="affiliation/polity"}'s own, burned with the lower.
 
 ## The Move to the Laurel
 

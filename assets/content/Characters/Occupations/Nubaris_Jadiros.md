@@ -437,7 +437,7 @@ A Secret of Her Own
 : Something Nubaris has kept from everyone—the true state of the Jadiros debts, and who holds them—has reached a rival.
 
 The Envoy
-: A [[lore-vylarianclt|Vylarian]] envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nubaris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
+: A [[lore-vylarianclt|Vilérian]] envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nubaris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
 
 The Feud
 : Two of the oldest houses in Theradon have quarreled past the point of mediation, and each has told Nubaris that neutrality will be taken as enmity.

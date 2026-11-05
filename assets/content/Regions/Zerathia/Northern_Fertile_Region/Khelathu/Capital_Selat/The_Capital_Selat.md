@@ -81,7 +81,7 @@ It is the most cosmopolitan place in the interior, because every selat sends its
 
 The Capital Selat is the empire's center of gravity and the natural stage for high-stakes play: court intrigue, temple politics, succession, and the slow duel between a Gar-Au and the priesthood that crowns and uncrowns him. Run it as a place where everything is performance and everything beneath the performance is real. Every ritual is a political act, every priest a broker of power, and every scribe a possible informant.
 
-Adventure here is courtly and uncanny by turns—palace conspiracy and poisoned successions, the Genzet'Palu's mediators trading in secrets, the high priest of [[affiliation-uqaa|Uqa'a]] weighing dynasties, embassies from the [[affiliation-vylarinmpr|Vylarian Empire]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] working the court, and, across the river, the necropolis underworld of tomb-robbers, curse-wards, embalmers' guilds and the things said to walk the bank of the dead. Power, gold, ritual and watching eyes are abundant. Privacy is scarce, and so is an honest word.
+Adventure here is courtly and uncanny by turns—palace conspiracy and poisoned successions, the Genzet'Palu's mediators trading in secrets, the high priest of [[affiliation-uqaa|Uqa'a]] weighing dynasties, embassies from the [[affiliation-vylarinmpr|Vilérian Empire]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] working the court, and, across the river, the necropolis underworld of tomb-robbers, curse-wards, embalmers' guilds and the things said to walk the bank of the dead. Power, gold, ritual and watching eyes are abundant. Privacy is scarce, and so is an honest word.
 
 ## Commerce and Currency
 

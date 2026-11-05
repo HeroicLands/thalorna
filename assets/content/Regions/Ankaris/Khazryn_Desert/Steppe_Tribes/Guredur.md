@@ -47,7 +47,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Guredur**, "the camel people", are a [[lore-sowidesclt|Sovidur]] tribe of the eastern sand seas of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], between the end of the [[affiliation-qbdrtrb|Qibudur]] grass and the well at [[place-sowidwell|Sovid]]. They keep camels and almost nothing else, and they go where a horse dies. The tribes of the grass hand a caravan to them at the edge of the sand, and the Guredur carry it across the dunes.
+The **Guredur**, "the camel people", are a [[lore-sowidesclt|Sovidur]] tribe of the eastern sand seas of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], between the end of the [[affiliation-qbdrtrb|Qibudur]] grass and the well at [[place-sowidwell|Sovid]]. They keep camels and almost nothing else, and they go where a horse dies. The tribes of the grass hand a caravan to them at the edge of the sand, and the Guredur carry it across the dunes.
 
 ## The Range
 

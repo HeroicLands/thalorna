@@ -69,7 +69,7 @@ Head
 
 Kudumel is the city where the great guilds hold least sway, because the hill tribes and the caravan peoples it lives by will not deal with guild enforcers. The Balinuni are how the Compact works there all the same. The Compact's counting house in Kudumel is the house's own counting house, and a caravan master who owes the Compact owes the Balinuni, who collect by partnership instead of by threat: a partner who will not pay finds that the ferries are full, the warehouses are full, and every other partner at the Gate has heard.
 
-The house keeps the ferries over the strait, the landing at the Gate and warehouses in the Caravansary Quarter, and it lends at a fair rate to the caravan masters who keep their word. It feeds them, too. Its hall above the Gate keeps a table every night for whoever has crossed that day, Taruzelian or Dunhari or Khazryn, and the house's factors do more business over that table than over the tally-boards.
+The house keeps the ferries over the strait, the landing at the Gate and warehouses in the Caravansary Quarter, and it lends at a fair rate to the caravan masters who keep their word. It feeds them, too. Its hall above the Gate keeps a table every night for whoever has crossed that day, Taruzelian or Dunhari or Khazrin, and the house's factors do more business over that table than over the tally-boards.
 
 ## Ellamuna Balinuni
 

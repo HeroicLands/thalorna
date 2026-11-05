@@ -62,7 +62,7 @@ The **Kenodur** hold the grass south of the [[affiliation-ksrrtrb|Koserur]], and
 
 ## The Range
 
-The Kenodur range is the southern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], from the Koserur's southern graze down the southern spur of [[lore-celestialroad|the Celestial Road]] to the black rock where [[place-dkrqrrgn|Diqraqor]] begins. Their central well is [Lushiq]{.name data-type="place/site"}, "the ransom", a name the other tribes gave it and the Kenodur took up. It lies about thirty miles beyond the Koserur border, a deep shaft in a hollow of thin grass with the dovaq's tents round it, and the captives from the southern graze are held in the camps on its grass.
+The Kenodur range is the southern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], from the Koserur's southern graze down the southern spur of [[lore-celestialroad|the Celestial Road]] to the black rock where [[place-dkrqrrgn|Diqraqor]] begins. Their central well is [Lushiq]{.name data-type="place/site"}, "the ransom", a name the other tribes gave it and the Kenodur took up. It lies about thirty miles beyond the Koserur border, a deep shaft in a hollow of thin grass with the dovaq's tents round it, and the captives from the southern graze are held in the camps on its grass.
 
 Their other water is the well in the square of [[place-qimod|Qiimod]], four days down the spur from [[place-qisomrktcmp|Qiiso]]. The Kenodur draw it by rope from outside the gate and never camp within sight of the walls. They take nothing from the dead town, because nothing they have taken from it has stayed theirs.
 

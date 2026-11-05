@@ -39,7 +39,7 @@ Shattar Kassumi is a 51-year-old man who stands 5'8" tall and is of medium build
 
 # Dossier {#dossier}
 
-Shattar Kassumi is the captain of [[affiliation-cleanshlds|The Clean Shields]], the company that keeps the grain road and the barge moorings above the river gate of [[place-orzara|Orzara City]]. He was born in the Taruzelian islands to a family that had sent its sons into the empire's auxiliaries for three generations, and he went into them himself at nineteen. He served the [[affiliation-vylarinmpr|Vylarian Empire]] for twenty years, the last six of them commanding an _alvan_ (auxiliary unit) of Taruzelian archers in the legions of the east.
+Shattar Kassumi is the captain of [[affiliation-cleanshlds|The Clean Shields]], the company that keeps the grain road and the barge moorings above the river gate of [[place-orzara|Orzara City]]. He was born in the Taruzelian islands to a family that had sent its sons into the empire's auxiliaries for three generations, and he went into them himself at nineteen. He served the [[affiliation-vylarinmpr|Vilérian Empire]] for twenty years, the last six of them commanding an _alvan_ (auxiliary unit) of Taruzelian archers in the legions of the east.
 
 In the first month of the war in which the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] won its independence, his unit was cashiered whole, with every other Taruzelian unit in the eastern legions, on the order of officers who could not tell which of them would defect. None of his men had deserted. Cashiering forfeited everything his service had promised him, and the clerk who did it cut his token across with a chisel in front of his men. He kept the token. He spent the war in the capital, where a Taruzel-born man was watched by everyone, and four years ago he took up a river contract with no company to fill it and had three hundred men under arms within a season.
 
@@ -69,7 +69,7 @@ His lieutenant, a Helionite cavalryman who commands the company's horse, and his
 
 ### Patrons
 
-The imperial contract is let by the war council of [[affiliation-vylrnmltry|The Vylarian Military]], on the recommendation of one of its members who has never explained it. His other paymaster he names to nobody.
+The imperial contract is let by the war council of [[affiliation-vylrnmltry|The Vilérian Military]], on the recommendation of one of its members who has never explained it. His other paymaster he names to nobody.
 
 ### Enemies
 

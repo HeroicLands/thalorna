@@ -24,7 +24,7 @@ data:
       - level: 2
         title: Resident
         description: >-
-          Living in the city under its protection without its freedom, as many of the settled Dunhari and the Khazryn caravan masters do.
+          Living in the city under its protection without its freedom, as many of the settled Dunhari and the Khazrin caravan masters do.
       - level: 3
         title: Freeman
         description: Enrolled in the city's register, entitled to trade at the Caravan Gate and plead in the city's courts.
@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: [taruzelilng, dunharlng]}}
 ---
 
-Kudumel's council keeps seats for men who do not live in the city. Representatives of the hill tribes, named by their own [[affiliation-hillcouncil|Council of the Hills]], sit on it beside the urban merchants, because Kudumel lives by its dealings with peoples who do not recognize guild authority and will not deal with guild enforcers. The city-state holds the city of [[place-qudumel2|Kudumel]], the eastern gateway of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and some 2.3 million people: a sprawling, dusty, polyglot country where Taruzelian merchants bargain with Dunhari caravaneers, Khazryn nomads and, now and then, traders from as far as the [[place-vedyarargn|Vedyara Region]] and the [[place-byzariargn|Bizaria Region]].
+Kudumel's council keeps seats for men who do not live in the city. Representatives of the hill tribes, named by their own [[affiliation-hillcouncil|Council of the Hills]], sit on it beside the urban merchants, because Kudumel lives by its dealings with peoples who do not recognize guild authority and will not deal with guild enforcers. The city-state holds the city of [[place-qudumel2|Kudumel]], the eastern gateway of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and some 2.3 million people: a sprawling, dusty, polyglot country where Taruzelian merchants bargain with Dunhari caravaneers, Khazrin nomads and, now and then, traders from as far as the [[place-vedyarargn|Vedyara Region]] and the [[place-byzariargn|Bizaria Region]].
 
 ## Who Decides
 
@@ -69,13 +69,13 @@ Kudumel holds the Confederation's seal this year and feels the weight of it. Its
 
 ## Who Lives Here
 
-The population is heavily mixed: Taruzelian merchants, Dunhari tribespeople who have settled into city life, Khazryn caravan masters, and members of dozens of smaller peoples who have gathered at this crossroads over the centuries. That mixture makes Kudumel the most cosmopolitan and the most religiously tolerant city in the Confederation, and the only one where the [[affiliation-ashanpnthn|Ashaian Pantheon]] is the dominant faith.
+The population is heavily mixed: Taruzelian merchants, Dunhari tribespeople who have settled into city life, Khazrin caravan masters, and members of dozens of smaller peoples who have gathered at this crossroads over the centuries. That mixture makes Kudumel the most cosmopolitan and the most religiously tolerant city in the Confederation, and the only one where the [[affiliation-ashanpnthn|Ashaian Pantheon]] is the dominant faith.
 
 It is also the city where the [[affiliation-ordoarcanis|Thordimalon]] is weakest. The eastern traditions that come in along the caravan routes—Ashaian fire-worship, Dunhari sand-divination and Vedyaran meditation—are practiced openly, and a thriving magical underground works outside the Arcane Order's control, to the Arcane Order's considerable frustration.
 
 ## Commerce and Currency
 
-The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian currency]], issued under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. Its Solden, Ardin and Bit follow the Vylarian denominations but rest on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merazuni-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
+The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian currency]], issued under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. Its Solden, Ardin and Bit follow the Vilérian denominations but rest on Taruzelian reserves rather than on the Vilérian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vilérian standard. The banking runs through Merazuni-affiliated moneylenders, who honor no Vilérian script and whose own script is honored nowhere in Vilérian territory.
 
 ## History {#history}
 
@@ -97,7 +97,7 @@ The fire of Kudumel's oldest temple was burning before the empire came to the is
 [[place-dunharargn|Dunhara Region]]
 : the eastern trading partner
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the overland trade routes
 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]

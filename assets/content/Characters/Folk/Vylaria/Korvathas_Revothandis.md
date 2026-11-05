@@ -69,7 +69,7 @@ He commands neither the fleet nor the customs, and every house on the quays know
 ### Affiliations
 
 - **[[affiliation-provincvld|The Province of Salkalon]]**: its _therkos_.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a _kurthos_ of an old house of the capital.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a _kurthos_ of an old house of the capital.
 
 ## Plot Hooks
 

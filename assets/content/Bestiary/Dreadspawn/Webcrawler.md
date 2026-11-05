@@ -190,7 +190,7 @@ The old fort is half swallowed by the forest, its walls green with moss and spli
 
 # Dossier {#dossier}
 
-The Webcrawler is a dreadspawn in the shape of a great black spider, five to seven feet in the body with a leg-span of eight to twelve feet more, which fills dark, confined places with webs so fine they cannot be seen and so strong they cannot be broken by hand. It is inventive, patient and clever, and it designs its traps for the prey it expects. One holds an overgrown Vylarian fort in [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vristwald]] toward [[place-vylariargn|Vylaria]], where the posts of an older imperial reach survive under the trees. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Webcrawler is a dreadspawn in the shape of a great black spider, five to seven feet in the body with a leg-span of eight to twelve feet more, which fills dark, confined places with webs so fine they cannot be seen and so strong they cannot be broken by hand. It is inventive, patient and clever, and it designs its traps for the prey it expects. One holds an overgrown Vilérian fort in [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vristwald]] toward [[place-vylariargn|Viléria]], where the posts of an older imperial reach survive under the trees. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -198,7 +198,7 @@ The webcrawler is long-legged and heavy-bodied, plated in deep black chitin with
 
 ## In the Land
 
-Vandstein's crossings make travel and the fur trade possible, and the overgrown Vylarian posts in its southern woods can offer shelter or buried goods to a party that finds them. The webcrawler holds one of them: a small stone fort, its gate-tower, barracks and storerooms still roofed, its cellars intact, every room of it laced with webs. It hunts the martens, owls, bats and foxes that come into the ruin, and the men who come for its shelter or its goods. It does not go out into the forest. It has been there a long time, and its webs reach from the cellars to the tower roof.
+Vandstein's crossings make travel and the fur trade possible, and the overgrown Vilérian posts in its southern woods can offer shelter or buried goods to a party that finds them. The webcrawler holds one of them: a small stone fort, its gate-tower, barracks and storerooms still roofed, its cellars intact, every room of it laced with webs. It hunts the martens, owls, bats and foxes that come into the ruin, and the men who come for its shelter or its goods. It does not go out into the forest. It has been there a long time, and its webs reach from the cellars to the tower roof.
 
 ## Key Behaviors
 
@@ -206,7 +206,7 @@ The webcrawler builds and rebuilds its web constantly, a three-dimensional net t
 
 ## What the Forest Villages Do
 
-The [[lore-varokhiclt|Varokh]] villages below Vandstein's passes keep away from the old posts in general, because a ruin that draws an imperial claimant into ground a village considers its own is trouble whatever is in it. They keep away from this one in particular. Fur traders crossing the passes are told, at the last village, not to shelter in the old fort however bad the weather, and the ones who have done so anyway tell of stairs that held their feet and a companion who went down to the cellar for wood. Vylarian surveyors who came up a few years ago to look at the old posts, with a claim in mind, sent two men into this one; the village elders say the surveyors went home with a smaller claim. The villagers burn the brush round the fort's gate every few years, to keep the forest from hiding it from anyone who needs to see it and stay away.
+The [[lore-varokhiclt|Varokh]] villages below Vandstein's passes keep away from the old posts in general, because a ruin that draws an imperial claimant into ground a village considers its own is trouble whatever is in it. They keep away from this one in particular. Fur traders crossing the passes are told, at the last village, not to shelter in the old fort however bad the weather, and the ones who have done so anyway tell of stairs that held their feet and a companion who went down to the cellar for wood. Vilérian surveyors who came up a few years ago to look at the old posts, with a claim in mind, sent two men into this one; the village elders say the surveyors went home with a smaller claim. The villagers burn the brush round the fort's gate every few years, to keep the forest from hiding it from anyone who needs to see it and stay away.
 
 ## Signs
 

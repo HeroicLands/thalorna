@@ -75,7 +75,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The **Ha Luo Zhao**—known to outsiders and lowland translators as the **Black Lotus Society**—is the preeminent criminal organization of the [[affiliation-tantsouempr|Empire of Tantsou]] and the largest crime syndicate of the eastern part of the [[place-ankrscntnnt|Ankaris Continent]]. While the four [[place-vylarianse|Vylarian Sea]] syndicates divide the western criminal underworld among themselves, the Black Lotus operates on a scale that has no peer in the east: an open secret woven into the very fabric of the empire's commerce, politics, and religious life.
+The **Ha Luo Zhao**—known to outsiders and lowland translators as the **Black Lotus Society**—is the preeminent criminal organization of the [[affiliation-tantsouempr|Empire of Tantsou]] and the largest crime syndicate of the eastern part of the [[place-ankrscntnnt|Ankaris Continent]]. While the four [[place-vylarianse|Vilérian Sea]] syndicates divide the western criminal underworld among themselves, the Black Lotus operates on a scale that has no peer in the east: an open secret woven into the very fabric of the empire's commerce, politics, and religious life.
 
 The Ha Luo Zhao's power is not exercised through street-level thuggery. It is exercised through _leverage_. In a society where every noble house, every merchant clan, and every bureaucratic office depends on a spiritual ledger maintained across generations, a criminal organization that knows precisely which ledgers are in deficit, which ancestor spirits are being starved of offerings, which petitions are moving through which magistrate's office, and which [[lore-tanchei|Tanchei]] can be bought to read which omens—that organization does not need many enforcers. It needs only good bookkeeping. The Black Lotus keeps careful books.
 
@@ -83,7 +83,7 @@ The Ha Luo Zhao's power is not exercised through street-level thuggery. It is ex
 
 **Primary:** [[affiliation-tantsouempr|Empire of Tantsou]]—with particular concentration in the major mercantile cities of the [[lore-shuonong|Shuonong]] caste, the imperial capital's outer districts, and the great trade crossroads of the eastern provinces.
 
-**Secondary:** Cells reach into [[place-jenchairgn|Jenchai]] to the east and occasionally surface in the eastern reaches of the [[place-byzariargn|Bizaria Region]] where Tantsou trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
+**Secondary:** Cells reach into [[place-jenchairgn|Jenchai]] to the east and occasionally surface in the eastern reaches of the [[place-byzariargn|Bizaria Region]] where Tantsou trade intersects with Ankarian. The Black Lotus does not compete with the Vilérian Sea syndicates on their own territory; it has no need to.
 
 ## Operations
 
@@ -121,11 +121,11 @@ The Black Lotus has also been quietly entangled with specific noble houses—mos
 
 Unique among the [[affiliation-crmsyndctsthlrn|crime syndicates of Thalorna]], the Ha Luo Zhao operates in a cosmological context where criminal association has measurable spiritual consequences. The Lotus is—by the Tantsou classification system—an _unclassified_ organization, operating outside the categories the [Great Sorting]{.name data-type="lore/cosmology"} is held to have established. Association with it generates debit entries on the moral ledger not only for the associate but for their household and their ancestor spirits. Clients who engage the Lotus for convenience find, over generations, that their ancestors' effectiveness has diminished, their family's classification has drifted, and their descendants inherit a diminished spiritual infrastructure.
 
-The Black Lotus is, in a very real sense, a slow poison. It is also indispensable. This combination describes its grip on Tantsou society with more precision than any characterization of the Vylarian Sea syndicates can claim.
+The Black Lotus is, in a very real sense, a slow poison. It is also indispensable. This combination describes its grip on Tantsou society with more precision than any characterization of the Vilérian Sea syndicates can claim.
 
 ## Relations with Other Syndicates
 
-The Black Lotus has minimal contact with the Vylarian Sea syndicates. The geographic separation is substantial, the Lotus's operations depend on Tantsou bureaucratic structures that do not exist in the west, and the Lotus's leadership regards western crime as beneath notice. Where the two worlds intersect—in the border cities of Bizaria, along the eastern caravan routes, in the ports where eastern goods transit through Vylarian hands—the relationships are transactional and mutually respectful. The Black Lotus will quietly fence restricted eastern goods through [[affiliation-theashroad|the Ash Road]]'s caravans; [[affiliation-crimsnldgr|the Crimson Ledger]] has handled occasional money transfers for senior Lotus figures who need wealth moved westward. These arrangements are professional, limited in scope, and notable primarily for how little attention they attract.
+The Black Lotus has minimal contact with the Vilérian Sea syndicates. The geographic separation is substantial, the Lotus's operations depend on Tantsou bureaucratic structures that do not exist in the west, and the Lotus's leadership regards western crime as beneath notice. Where the two worlds intersect—in the border cities of Bizaria, along the eastern caravan routes, in the ports where eastern goods transit through Vilérian hands—the relationships are transactional and mutually respectful. The Black Lotus will quietly fence restricted eastern goods through [[affiliation-theashroad|the Ash Road]]'s caravans; [[affiliation-crimsnldgr|the Crimson Ledger]] has handled occasional money transfers for senior Lotus figures who need wealth moved westward. These arrangements are professional, limited in scope, and notable primarily for how little attention they attract.
 
 ## Identifying Marks
 

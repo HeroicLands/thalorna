@@ -135,7 +135,7 @@ Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitiv
 
 ## Commerce and Currency
 
-Kingdom of Aldorath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Aldorath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Aldorath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Aldorath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

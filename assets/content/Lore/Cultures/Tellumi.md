@@ -298,7 +298,7 @@ The sin the Tellumi tell against themselves is the lost town. A prince who count
 [[place-swoasisbelt|Tellumel]]
 : the oasis belt the people come from
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the waste north of the belt
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
@@ -333,4 +333,4 @@ The sin the Tellumi tell against themselves is the lost town. A prince who count
 
 ## Glossary {#glossary}
 
-Ardin is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Au'Khelathu]]. Dovaq is a loanword from the [[lore-sowidesclt#glossary|Sovidur]].
+Ardin is a loanword from [[lore-vylarianclt#glossary|Viléria]], and gezan from [[lore-khelathiclt#glossary|Au'Khelathu]]. Dovaq is a loanword from the [[lore-sowidesclt#glossary|Sovidur]].

@@ -6,12 +6,12 @@
 
 - The Gar-Au's regalia are described, the Ruwozi and the Kolembozi are named as clans of the Nyáluba, and the Ústaran Schism has a single entry.
 - The Sinale's numinous, which joins spirit, totem and the celestial to the natural world, is described, along with how little of it humans may reach.
-- The Tevran and Vylarian military pages show their tables as tables.
+- The Tevran and Vilérian military pages show their tables as tables.
 
 **Literature and verse**
 
 - Poems tagged with a meter or a rhyme scheme state it in a sentence beside the poem.
-- The Walking of the Line is set in two columns, Vylari in Semaron beside the translation, with every fifth line numbered.
+- The Walking of the Line is set in two columns, Vilari in Semaron beside the translation, with every fifth line numbered.
 
 **Characters**
 

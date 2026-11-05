@@ -246,7 +246,7 @@ The rider is bent low over the neck of a slim bay horse, and the pair come down 
 
 # Dossier {#dossier}
 
-The Courser is the light, fast horse of the steppe and the post-roads, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred for speed and stamina rather than weight. Scouts, messengers and light cavalry ride it. Herds are bred on the grass of the [[place-khzryndsrtrgn|Khazryn]] steppe, the horse pasture of [[place-velanthrgn|Velanthia]] and the plateau of [[place-byzariargn|Bizaria]]. It outruns a draft or war horse but lacks the weight for a charge.
+The Courser is the light, fast horse of the steppe and the post-roads, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred for speed and stamina rather than weight. Scouts, messengers and light cavalry ride it. Herds are bred on the grass of the [[place-khzryndsrtrgn|Khazrin]] steppe, the horse pasture of [[place-velanthrgn|Velanthia]] and the plateau of [[place-byzariargn|Bizaria]]. It outruns a draft or war horse but lacks the weight for a charge.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ An elegant horse built long in the leg rather than heavy in the body. The legs a
 
 ## In the Land
 
-Coursers are bred on the grass of the Khazryn steppe, the horse-pasture of Velanthia and the plateau of Bizaria, and they are kept at the posting-stations along the long roads. A courser lives on pasture in summer and hay and grain in winter, and it is ridden hard for a day and rested for two. The tribes run their light horses in herds, and a colt is handled at a year.
+Coursers are bred on the grass of the Khazrin steppe, the horse-pasture of Velanthia and the plateau of Bizaria, and they are kept at the posting-stations along the long roads. A courser lives on pasture in summer and hay and grain in winter, and it is ridden hard for a day and rested for two. The tribes run their light horses in herds, and a colt is handled at a year.
 
 ## Key Behaviors
 

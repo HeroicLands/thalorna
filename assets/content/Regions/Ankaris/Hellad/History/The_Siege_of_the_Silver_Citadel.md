@@ -22,7 +22,7 @@ data:
       standing: attested
       names:
         - {name: the Two Winters, by: affiliation-argyrteikhos}
-        - {name: the Vylarian Steps, by: place-argyrteikhos2}
+        - {name: the Vilérian Steps, by: place-argyrteikhos2}
       where:
         locus: [place-argyrteikhos2]
         reach:
@@ -55,7 +55,7 @@ data:
         - how the city was fed through two winters, and which of the mine tunnels carried the grain
 ---
 
-The children of [[place-argyrteikhos2|Argirteikhos]] play on a mountainside below the walls, on a ramp and two level camps left by The Siege of the Silver Citadel that the garrison calls **the [Vylarian Steps]{.name data-type="place/site"}**, and they call it what their parents do.
+The children of [[place-argyrteikhos2|Argirteikhos]] play on a mountainside below the walls, on a ramp and two level camps left by The Siege of the Silver Citadel that the garrison calls **the [Vilérian Steps]{.name data-type="place/site"}**, and they call it what their parents do.
 
 ## The Siege
 
@@ -67,7 +67,7 @@ The Citadel surrendered on terms. The city kept its walls and its own garrison, 
 
 ## What the Siege Left
 
-- **The Vylarian Steps**, the ramp and two camps on the mountain, where the garrison drills.
+- **The Vilérian Steps**, the ramp and two camps on the mountain, where the garrison drills.
 - **The military governor's seat** on the League council.
 - **The sealed tunnels**, some of the mine workings closed since the siege.
 - **The city's own garrison**, which the Empire left under arms and which the League inherits.

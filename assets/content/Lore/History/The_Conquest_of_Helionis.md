@@ -3,7 +3,7 @@ shortcode: helionscnq
 name: {full: The Conquest of Helionis, en: [The Constituting of the Kandral]}
 type: lore
 subType: history
-description: "From 335 BF to 312 BF the Vylarian Republic takes the Helionite city-states one by one, and in the aftermath the Senate carves the College of Arcane Philosophy out of the Epistémion and places it under a magistracy that holds the Republic's arcanists as state property."
+description: "From 335 BF to 312 BF the Vilérian Republic takes the Helionite city-states one by one, and in the aftermath the Senate carves the College of Arcane Philosophy out of the Epistémion and places it under a magistracy that holds the Republic's arcanists as state property."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -18,7 +18,7 @@ data:
         - affiliation-vylarinmpr
         - affiliation-panepistmm
       summary: >-
-        The Vylarian Republic takes the Helionite city-states over twenty-three years, ending with the last of them. The city-states answer the legions with their mages and the worst magical warfare western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working turns back on the one who made it. In the year the last city falls the Senate reaches into the Epistémion, extracts its College of Arcane Philosophy, and places it under a magistracy—the Kandral—which holds the Republic's arcanists as state property, teaches nothing, publishes nothing and decides nothing.
+        The Vilérian Republic takes the Helionite city-states over twenty-three years, ending with the last of them. The city-states answer the legions with their mages and the worst magical warfare western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working turns back on the one who made it. In the year the last city falls the Senate reaches into the Epistémion, extracts its College of Arcane Philosophy, and places it under a magistracy—the Kandral—which holds the Republic's arcanists as state property, teaches nothing, publishes nothing and decides nothing.
       standing: attested
       names:
         - name: the Kandral
@@ -53,7 +53,7 @@ data:
       accounts:
         - by: place-helionis
           says: >-
-            The Arcane Order's terminology is Vylari and its foundations are thoroughly Helionite, and we have never let the Vylarians forget it.
+            The Arcane Order's terminology is Vilari and its foundations are thoroughly Helionite, and we have never let the Vilérians forget it.
           agrees: partly
           withholds: that it was Helionite mages who made the institution necessary, and which Helionite masters the Republic kept after the war, and why
         - by: affiliation-vylarinmpr
@@ -71,7 +71,7 @@ data:
         - who kept what the Republic took at Theradon, which no war ministry roll names
 ---
 
-The Conquest of Helionis began in 335 BF when the [Vylarian Republic]{.name data-type="affiliation/polity"} turned its legions against the [[affiliation-ctysttshlns|Helionite city-states]], and twenty-three years later it took
+The Conquest of Helionis began in 335 BF when the [Vilérian Republic]{.name data-type="affiliation/polity"} turned its legions against the [[affiliation-ctysttshlns|Helionite city-states]], and twenty-three years later it took
 the last of them. The city-states fought back with the most devastating weapon at their disposal: their mages. Desperate to resist
 superior conventional forces, they unleashed sorceries that shattered formations, poisoned the land
 and killed on a scale that swords could not. Some of the most powerful became mage-warlords their own

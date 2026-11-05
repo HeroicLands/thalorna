@@ -18,7 +18,7 @@ data:
 
 Pinnhald is a logging town of about three thousand on the forested slopes of [[place-moktur|Moktur]], where timber is felled and floated down the mountain rivers toward the lowland yards and the shipwrights of [[place-salkhalon|Salkalon]]. A raftsman tying off at the town landing tells you who to ask for when you arrive: the headmen, and after them the timber-lords who hold the cutting-rights.
 
-The people are half-[[lore-varokhiclt|Varokh]]. They speak the border patois and keep customs the southern priests frown on. The imperial chancery counts Pinnhald Vylarian, but the town answers first to its own headmen and to the timber-lords.
+The people are half-[[lore-varokhiclt|Varokh]]. They speak the border patois and keep customs the southern priests frown on. The imperial chancery counts Pinnhald Vilérian, but the town answers first to its own headmen and to the timber-lords.
 
 ## Arriving
 
@@ -26,7 +26,7 @@ Pinnhald is built of its own trade. The town stands where a forest river comes o
 
 Above the town the slopes are cut. For a day's walk uphill the forest is stumps and young growth, and the cutting camps are higher still, under the old trees that are left. The timber comes down from them on the snow in winter, dragged by oxen on sledges, and waits on the landing for the thaw.
 
-The headmen's hall stands in the middle of the upper town, a long log house with its gable carved with the totems of the town's kindreds, a bear, a heron and a lynx among them. Every householder of Pinnhald may speak in it. A Vylarian priest who comes up to the town for a festival is received at its door with the courtesy owed a guest, and his offering is made outside it.
+The headmen's hall stands in the middle of the upper town, a long log house with its gable carved with the totems of the town's kindreds, a bear, a heron and a lynx among them. Every householder of Pinnhald may speak in it. A Vilérian priest who comes up to the town for a festival is received at its door with the courtesy owed a guest, and his offering is made outside it.
 
 ## What Pinnhald Lives By
 
@@ -60,7 +60,7 @@ The [Landing House]{.name data-type="place/structure"} by the river takes raftsm
 [[place-moktur|Moktur]]
 : the land of its forests
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[place-salkhalon|Salkalon]]

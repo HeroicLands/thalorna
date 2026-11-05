@@ -57,7 +57,7 @@ Sacred groves, standing stones, and holy wells serve as places of worship alongs
 
 ## Magic
 
-Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial presence in the kingdom's cities—the [University of Péravel]{.name data-type="affiliation"} is the largest [[affiliation-panepistmm|Epistémion]] campus outside of the [[affiliation-vylarinmpr|Vylarian Empire]], with multiple Zulen (fellowship) chapterhouses—but its authority is bitterly contested by the kingdom's own traditions. [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle), [[affiliation-groveconcl|the Grove Council]], and the Áelendan guard magical practices that predate the Order by centuries, and the struggle between these institutions and the Order for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. The crown's settled position is that the Order is **permitted and limited**: it may hold its houses, teach, and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest. Where the limit runs is not the Order's to argue—the [[affiliation-alndnwrdns|Wardens]] enforce it, and the courts back them. In the cities the contest is accordingly conducted through civilized rivalry; beyond the walls it turns deadly (see [[affiliation-kngdmlvndr|the Thordimalon in Élavendre]]).
+Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial presence in the kingdom's cities—the [University of Péravel]{.name data-type="affiliation"} is the largest [[affiliation-panepistmm|Epistémion]] campus outside of the [[affiliation-vylarinmpr|Vilérian Empire]], with multiple Zulen (fellowship) chapterhouses—but its authority is bitterly contested by the kingdom's own traditions. [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle), [[affiliation-groveconcl|the Grove Council]], and the Áelendan guard magical practices that predate the Order by centuries, and the struggle between these institutions and the Order for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. The crown's settled position is that the Order is **permitted and limited**: it may hold its houses, teach, and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest. Where the limit runs is not the Order's to argue—the [[affiliation-alndnwrdns|Wardens]] enforce it, and the courts back them. In the cities the contest is accordingly conducted through civilized rivalry; beyond the walls it turns deadly (see [[affiliation-kngdmlvndr|the Thordimalon in Élavendre]]).
 
 The fae influence that makes Élavendre so magically rich is real and tangible: strange lights in the forest, paths that shift between visits, and encounters with beings that are neither fully mortal nor fully divine. It is precisely this richness that draws the Order's relentless interest—and that the traditional institutions are determined to keep beyond its grasp.
 
@@ -74,7 +74,7 @@ allowed to cross.
 
 **The crown sees profit in cordiality.** The royal house in particular has judged, consistently and for
 generations, that a warm relationship with the Order is worth having: it brings the University, the
-scholars, the standing in Vylarian eyes, and the goodwill of institutions that can make a small kingdom's
+scholars, the standing in Vilérian eyes, and the goodwill of institutions that can make a small kingdom's
 diplomacy much easier. Élavendre's monarchs have never been willing to expel the Order, and are unlikely
 to become so.
 
@@ -94,7 +94,7 @@ He would face something worse for an Élavendren monarch—the quiet, unanswerab
 no longer quite of the old blood.
 
 So every reign performs the same balance: warm enough to the Order to keep the University, the scholars
-and the Vylarian goodwill; cool enough in public that no tribal elder need take official notice. None
+and the Vilérian goodwill; cool enough in public that no tribal elder need take official notice. None
 has managed it without incident.
 
 #### How the Balance Is Actually Kept
@@ -136,7 +136,7 @@ Why the Sinale have opened themselves to the Áelendan is a question that has pu
 
 ## Relations
 
-Élavendre has close cultural ties with the [[place-provenzrgn|Provénzia Region]] to the east, sharing the Pelwar heritage and a love of the arts. Its relationship with the [[affiliation-vylarinmpr|Vylarian Empire]] is more complicated—while never fully conquered by the Vylarian Empire, Élavendre was long a vassal state ([[lore-elvtribute|The Tribute of Élavendre]]) and retains some Vylarian cultural influence. The island of [[place-aelwyth|Aelwyth]] lies to the **north-west**, some two hundred and thirty sea-miles off the Élavendren coast—almost due west of [[place-vrystwald|Vristwald]] and south-west of the [[place-nrdlndsrgn|Nordlands]]—and the two have deep historical and cultural connections. [[affiliation-kingdmdnvr|Dúnavarre]] occupies the island's south-eastern shore, the side that faces Élavendre, and relations are **very cordial**: the mage **[[affiliation-dunavarsynod|Synod]]** that governs Dúnavarre has kept close relations with the Élavendren royal house for generations—a striking thing in a kingdom that permits the Order only on a short leash.
+Élavendre has close cultural ties with the [[place-provenzrgn|Provénzia Region]] to the east, sharing the Pelwar heritage and a love of the arts. Its relationship with the [[affiliation-vylarinmpr|Vilérian Empire]] is more complicated—while never fully conquered by the Vilérian Empire, Élavendre was long a vassal state ([[lore-elvtribute|The Tribute of Élavendre]]) and retains some Vilérian cultural influence. The island of [[place-aelwyth|Aelwyth]] lies to the **north-west**, some two hundred and thirty sea-miles off the Élavendren coast—almost due west of [[place-vrystwald|Vristwald]] and south-west of the [[place-nrdlndsrgn|Nordlands]]—and the two have deep historical and cultural connections. [[affiliation-kingdmdnvr|Dúnavarre]] occupies the island's south-eastern shore, the side that faces Élavendre, and relations are **very cordial**: the mage **[[affiliation-dunavarsynod|Synod]]** that governs Dúnavarre has kept close relations with the Élavendren royal house for generations—a striking thing in a kingdom that permits the Order only on a short leash.
 
 Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendre's general diplomacy, and a long-standing one. **Nordmen** raiders have struck the northern coast for centuries, and the kingdom's memory of them is unforgiving. King [Thélmoren]{.name data-type="being/npc"} swore, when [[lore-southrnfleets|the Southern Fleets]] burned the north shore, that the crown would make no treaty with the Nordmen, and there has been no treaty, no embassy and no appetite for either since. To the north across [[place-liserebay|Lísere Bay]] lie the Varokh tribes of [[place-vrystwald|Vristwald]] and the [[lore-grukarfolk|Grukar]] bands ranging out of [[place-grkrhlmrgn|Grukarholm]], whose raiding on the northern shore and the eastern hills is a fact of every generation rather than a crisis of any one of them.
 
@@ -168,7 +168,7 @@ The kingdom's economy runs inward and then out again: raw material from the four
 
 ## Character
 
-The forests are old—genuinely ancient in a way that the cleared, farmed landscapes of the [[place-vylariargn|Vylaria Region]] and the Provénzia Region are not—and the boundary between the mortal world and the fae realm is thin.
+The forests are old—genuinely ancient in a way that the cleared, farmed landscapes of the [[place-vylariargn|Viléria Region]] and the Provénzia Region are not—and the boundary between the mortal world and the fae realm is thin.
 
 ## See Also
 
@@ -178,7 +178,7 @@ The forests are old—genuinely ancient in a way that the cleared, farmed landsc
 [[place-provenzrgn|Provénzia Region]]
 : Eastern neighbor and cultural cousin
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : Former imperial overlord
 
 [[skill-elvndrlng|Élavendri]]

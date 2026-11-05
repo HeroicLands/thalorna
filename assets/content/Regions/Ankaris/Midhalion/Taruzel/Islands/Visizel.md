@@ -20,7 +20,7 @@ data:
 
 Twice a day the sea comes up the mouth of the [[place-alzriver|Alz River]] and lifts every hull at the quays of [[place-sazumun2|Sazumun]], and twice a day it goes out again and takes the outbound ships with it. The island is named for that motion: _visiz-_, to rise and fall, with _-el_, the ground of it, the ground of the tide. Visizel is the westernmost of the islands of [[place-taruzelrgn|Taruzel]], some eighty miles from the Amradi shore and about forty miles long, and its two and a half million people make up the city-state of [[affiliation-sazumun|Sazumun]] of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]].
 
-It is the island that faces the west. The desert goods that cross the strait come through the channels to its harbor, and they leave it on the sea routes to [[place-helionis|Helionis]], [[place-vylariargn|Vylaria]] and the western realms.
+It is the island that faces the west. The desert goods that cross the strait come through the channels to its harbor, and they leave it on the sea routes to [[place-helionis|Helionis]], [[place-vylariargn|Viléria]] and the western realms.
 
 ## The Land
 

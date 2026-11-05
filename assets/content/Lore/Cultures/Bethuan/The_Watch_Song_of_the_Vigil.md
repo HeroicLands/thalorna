@@ -117,7 +117,7 @@ Count them.
 
 [The stern:]{.speaker}/
 The Second Daughter, out of Bethura, Nauklera Ghalisa, of House Safirides./
-Took a Vylarian with grain off the islands on the [Purple Warrant]{.name data-type="lore/law"},/
+Took a Vilérian with grain off the islands on the [Purple Warrant]{.name data-type="lore/law"},/
 and the grain came home to the _khabetun_, and she didn't./
 A northern sweep caught her in the narrows on the way back for more./
 Her benches went down with her. Forty at the oars. Their names are at the temple.

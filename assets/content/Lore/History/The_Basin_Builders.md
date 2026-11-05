@@ -3,7 +3,7 @@ shortcode: basinbldrs
 name: {full: The Basin Builders, en: [The Lake People]}
 type: lore
 subType: history
-description: "A people of canals, stepped mounds and sealed jars who farmed the shores of a great lake in the heart of the Khazryn from before 2600 BF until the water failed, around 1700 BF, and left behind a salt flat, a few wells and their dead."
+description: "A people of canals, stepped mounds and sealed jars who farmed the shores of a great lake in the heart of the Khazrin from before 2600 BF until the water failed, around 1700 BF, and left behind a salt flat, a few wells and their dead."
 tags: [history]
 data:
   packFolder: settinglore
@@ -59,7 +59,7 @@ data:
       unresolved: [whether the lake failed first or the people did]
 ---
 
-The center of the [[place-khzryndsrtrgn|Khazryn]] is a basin, and for a span of centuries it held a lake. The people who lived on its shores left no name for themselves, no writing anyone has read and no tale a living people tells as its own, so the tribes who cross the sand now call them the Basin Builders and leave it there. What they built is the evidence: canal banks that run straight for miles before the sand covers them, stepped mounds of baked brick along a shoreline that is now a dry white edge, and wells cut so deep that nothing the tribes dig today comes near them.
+The center of the [[place-khzryndsrtrgn|Khazrin]] is a basin, and for a span of centuries it held a lake. The people who lived on its shores left no name for themselves, no writing anyone has read and no tale a living people tells as its own, so the tribes who cross the sand now call them the Basin Builders and leave it there. What they built is the evidence: canal banks that run straight for miles before the sand covers them, stepped mounds of baked brick along a shoreline that is now a dry white edge, and wells cut so deep that nothing the tribes dig today comes near them.
 
 ## When
 

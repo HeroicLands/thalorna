@@ -26,7 +26,7 @@ The gate belongs to the kingdom of Asturath. Its keeper is the Warden of the Pla
 
 The top of the plateau is a table of rock some three miles across, tilted a little to the west. The city fills its eastern half, along the cliff edge, and the western half is pasture, a few walled fields of rye and the city's cisterns, cut into the rock to catch the rain and the snowmelt. There is no spring on the plateau. Every cup of water in Lezkora fell on it from the sky, and the cisterns are the first thing the Warden inspects each spring.
 
-The city is stone-built, crowded and steep, with lanes that end at the cliff edge in walls a child can see over. Three buildings stand above the rest. The castle of the kings of Asturath holds the north end of the city on a knob of rock with its own wall. [[place-lezkorahall|The High Hall]] stands on the eastern lip, its back wall the cliff, where the High King keeps his court and the lords elect him. Between them, on the city's one square, is the temple of [[affiliation-sacredforge|the Sacred Forge]], whose priests keep a fire that their order says has burned since before the [[affiliation-vylarinmpr|Vylarian Empire]] came west. Pilgrims of the faith come to it from the valleys by an old path above [[place-horngorge|the Horn Gorge]], which joins the plateau road at the foot of the cliff.
+The city is stone-built, crowded and steep, with lanes that end at the cliff edge in walls a child can see over. Three buildings stand above the rest. The castle of the kings of Asturath holds the north end of the city on a knob of rock with its own wall. [[place-lezkorahall|The High Hall]] stands on the eastern lip, its back wall the cliff, where the High King keeps his court and the lords elect him. Between them, on the city's one square, is the temple of [[affiliation-sacredforge|the Sacred Forge]], whose priests keep a fire that their order says has burned since before the [[affiliation-vylarinmpr|Vilérian Empire]] came west. Pilgrims of the faith come to it from the valleys by an old path above [[place-horngorge|the Horn Gorge]], which joins the plateau road at the foot of the cliff.
 
 ## Living There
 
@@ -42,7 +42,7 @@ The two courts are courteous to each other. The arrangement is old, the High Kin
 
 ## The Defense
 
-The plateau has never been taken, and the city's whole defense is the cliff and the gate. A Vylarian legion that climbed toward it about 143 AF died in the gorge below before it reached the road ([[lore-horngorgebtl|The Battle of the Horn Gorge]]). The Astúrathi say the plateau has stores for a year's siege, and nobody has tested the claim.
+The plateau has never been taken, and the city's whole defense is the cliff and the gate. A Vilérian legion that climbed toward it about 143 AF died in the gorge below before it reached the road ([[lore-horngorgebtl|The Battle of the Horn Gorge]]). The Astúrathi say the plateau has stores for a year's siege, and nobody has tested the claim.
 
 ## Hooks
 

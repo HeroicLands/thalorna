@@ -1,12 +1,12 @@
 ---
 shortcode: vylarinmpr
-name: {full: Vylarian Empire}
+name: {full: Vilérian Empire}
 type: affiliation
 subType: polity
-description: "The declining empire of the Vylarian peninsula—four provinces under an Orzas, a Senate and the Thordimalon, still spanning half of Ankaris on its own maps and the eternal pretender to universal rule."
+description: "The declining empire of the Vilérian peninsula—four provinces under an Orzas, a Senate and the Thordimalon, still spanning half of Ankaris on its own maps and the eternal pretender to universal rule."
 data:
   templatePriority: null
-  demonym: Vylarian
+  demonym: Vilérian
   epithet: null
   symbol: null
   governance:
@@ -89,12 +89,12 @@ data:
   packFolder: vylaria
 sohl: {system: {commonSkills: [vylarilng]}}
 
-# terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria—the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vylarian Sea littoral. The Alps form the empire's western mountain frontier (Kervaron Spine in-world); claimed by the Vylarian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
+# terran_analog: "Italy, Croatia, Bosnia, Serbia, Hungary, and Austria—the Roman empire reaching from its Italian heartland up through the Adriatic east into the Carpathian basin, with provincial reach further east into the Vilérian Sea littoral. The Alps form the empire's western mountain frontier (Kervaron Spine in-world); claimed by the Vilérian chancery, contested by the Áelendan tribes who hold the range as sacred and effectively control its passes."
 ---
 
 ## Overview
 
-The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of the [[place-midhalnrgn|Midhalión Region]], from the [[place-tarvenirgn|Tarvénia Region]] and the [[place-provenzrgn|Provénzia Region]] in the west to the edge of [[place-taruzelrgn|Taruzel]] in the east. Today it holds [[place-vylariargn|Vylaria]], its four provinces the lands of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
+The Vilérian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of the [[place-midhalnrgn|Midhalión Region]], from the [[place-tarvenirgn|Tarvénia Region]] and the [[place-provenzrgn|Provénzia Region]] in the west to the edge of [[place-taruzelrgn|Taruzel]] in the east. Today it holds [[place-vylariargn|Viléria]], its four provinces the lands of [[place-alyssa|Alessa]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Salkalon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
 
 The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-orzara|Orzara]], begins with the titles: "You will hear the Emperor called the **Orzas**, and you will call him that too. You will hear [[affiliation-seldan|Seldan]], the Senate, debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
 
@@ -113,15 +113,15 @@ The empire is a knot of debt with a succession for its fuse. The throne pays the
 
 ### The Republic
 
-The [Vylarian Republic]{.name data-type="affiliation/polity"} was established around 650 BF by patrician families who overthrew the last Vylarian king (see [[lore-vylarirpbl|the Establishment of the Vylarian Republic]]). Governed by a Senate of landed aristocrats, it grew from a regional city-state into the dominant power of the [[place-vylarianse|Vylarian Sea]], and by 400 BF Vylaria held wide territory and was a major economic and political force in Midhalión.
+The [Vilérian Republic]{.name data-type="affiliation/polity"} was established around 650 BF by patrician families who overthrew the last Vilérian king (see [[lore-vylarirpbl|the Establishment of the Vilérian Republic]]). Governed by a Senate of landed aristocrats, it grew from a regional city-state into the dominant power of the [[place-vylarianse|Vilérian Sea]], and by 400 BF Viléria held wide territory and was a major economic and political force in Midhalión.
 
-The Republic expanded, made law, and grew more violent with itself as it went. [[lore-helionscnq|The conquest of Helionis]], begun in 335 BF and finished in 312 BF, was its crucible. The [[affiliation-ctysttshlns|Helionite city-states]] turned their mages against the legions and loosed the most devastating magical warfare the western part of the [[place-ankrscntnnt|Ankaris Continent]] had seen: sorceries that shattered formations and poisoned the land, against which ordinary troops were helpless. Vylaria's answer was the [Dragon Riders]{.name data-type="affiliation"}, warriors bonded to dragons whose presence destabilized magic, so that spells misfired and arcane power turned back on whoever wielded it. The Riders broke the great mages of [[place-helionis|Helionis]] where legions could not. What the Republic gave the dragons for that arm is not in any account of the war (see [[lore-dragondead|the Dragon Dead at Theradon]] and [[lore-thebargain|the Bargain]]). The war's cost was staggering either way.
+The Republic expanded, made law, and grew more violent with itself as it went. [[lore-helionscnq|The conquest of Helionis]], begun in 335 BF and finished in 312 BF, was its crucible. The [[affiliation-ctysttshlns|Helionite city-states]] turned their mages against the legions and loosed the most devastating magical warfare the western part of the [[place-ankrscntnnt|Ankaris Continent]] had seen: sorceries that shattered formations and poisoned the land, against which ordinary troops were helpless. Viléria's answer was the [Dragon Riders]{.name data-type="affiliation"}, warriors bonded to dragons whose presence destabilized magic, so that spells misfired and arcane power turned back on whoever wielded it. The Riders broke the great mages of [[place-helionis|Helionis]] where legions could not. What the Republic gave the dragons for that arm is not in any account of the war (see [[lore-dragondead|the Dragon Dead at Theradon]] and [[lore-thebargain|the Bargain]]). The war's cost was staggering either way.
 
-In 312 BF, as the last city fell, the Senate carved the [[affiliation-ordoarcanis|College of Arcane Philosophy]] out of the Helionite [[affiliation-panepistmm|Epistémion]] and placed it under a magistracy, the [Kandral]{.name data-type="affiliation/governmental"}, which held the Republic's arcanists on a register. In 75 BF an unchanneled release at [[lore-recensio|the Therona of Alessa]] killed most of the Republic's senior arcanists and destroyed their books. In 73 BF the surviving masters drafted terms that the Senate took as [[lore-kandrol|the Kandrol]], the charter of the [[affiliation-ordoarcanis|Thordimalon]], which on paper is the College of Arcane Philosophy within the Epistémion (the Academy) to this day. The charter imposed a monopoly on arcane practice throughout the Republic's territories so that magic would never again be wielded freely on a battlefield. The Order drew on Helionite arcane theory and enforced it with Vylarian military power, and of everything the Republic did, few acts have lasted longer.
+In 312 BF, as the last city fell, the Senate carved the [[affiliation-ordoarcanis|College of Arcane Philosophy]] out of the Helionite [[affiliation-panepistmm|Epistémion]] and placed it under a magistracy, the [Kandral]{.name data-type="affiliation/governmental"}, which held the Republic's arcanists on a register. In 75 BF an unchanneled release at [[lore-recensio|the Therona of Alessa]] killed most of the Republic's senior arcanists and destroyed their books. In 73 BF the surviving masters drafted terms that the Senate took as [[lore-kandrol|the Kandrol]], the charter of the [[affiliation-ordoarcanis|Thordimalon]], which on paper is the College of Arcane Philosophy within the Epistémion (the Academy) to this day. The charter imposed a monopoly on arcane practice throughout the Republic's territories so that magic would never again be wielded freely on a battlefield. The Order drew on Helionite arcane theory and enforced it with Vilérian military power, and of everything the Republic did, few acts have lasted longer.
 
 Around 45 BF the Republic's standing lease with the dragons was not renewed ([[lore-ridersdisb|The Lease Refused]]), the Dragon Riders were disbanded and the [[place-eyriearvel|Eyrie of the Dragon Riders]] (the Eyrie of [[place-arvel|Arvel]]) was sealed. The reason given was the dragons' effect on magic. The manner of their going involved a betrayal whose details are among the most closely suppressed secrets of the Republic, and the Republic did not record it honestly.
 
-As Vylarian power grew, so did the ambitions of _kurthoi_ (senators) and generals. The late Republic was wracked by civil wars, factional violence and the dangerous concentration of power in the hands of successful commanders.
+As Vilérian power grew, so did the ambitions of _kurthoi_ (senators) and generals. The late Republic was wracked by civil wars, factional violence and the dangerous concentration of power in the hands of successful commanders.
 
 ### The Empire
 
@@ -129,7 +129,7 @@ In what is now reckoned **Year 1**, a powerful _kurthos_, backed by loyal legion
 
 The Founder's line held the throne for the first ninety-five years. The first Orzas walled the crown of Arvel and moved the Senate up to it ([[lore-eaglecityrse|The Raising of the Eagle City]]); the Order's [Sekran]{.name data-type="affiliation"} hunted down the last practitioners outside its register ([[lore-huntingyears|The Hunting Years]]); and the second, [Arkanamos]{.name data-type="being/npc"}, made the citizenship a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The last of the line, [Halanor]{.name data-type="being/npc"}, died without a son and named a _felzos_ (legate) of [[affiliation-varkalenis|House Varkalenis]] to follow him.
 
-Three centuries of conquest followed. The legions fought west and north-west for the best part of that time ([[lore-westernwars|The Western Wars]]). About 224 the high priesthood of [[place-nartum|Nartun]] refused obedience to an Orzas who would not proscribe [[affiliation-blackflame|the Black Flame]], and the [[affiliation-hlykngdmnrtm|kingdom]] has stood apart since ([[lore-nartumrefuse|Nartun Refuses the Empire]]). After [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] broke at [[affiliation-kngdmmrdd|Amradad]]'s walls, the eastern legions raised a line of hill forts across Taruzel's islands ([[lore-easternline|The Eastern Line]]), and the imperial archive on Arvel burned ([[lore-archivefire|The Archive Fire]]). In 377 the Orzas [Barnakis]{.name data-type="being/npc"} sent the strongest field army the Empire had across the sea to the Khelathi delta, and its commander was crowned there ([[lore-deltaexped|The Delta Expedition]]). He died in 389 with no heir named, and for sixteen years the guard, the Senate and the legions of Moktur each carried an eagle before an Orzas of their own ([[lore-brkensuccsn|The Broken Succession]]). The legions fought one another at [[place-olcassafld|the Blood-field of Olkassa]] (Olkassa) in Hilen ([[lore-olcassabtl|The Battle of Olkassa]]), the dole failed and the capital burned ([[lore-greatburnng|The Great Burning]]), and about 406 [Makandas]{.name data-type="being/npc"} took the city and founded House Helarkales ([[lore-restorehouse|The Restoration]]). His successor [Arzanas]{.name data-type="being/npc"} closed the western conquests and gave the Empire the institutions it keeps ([[lore-arzanasedict|The Edicts of Arzanas]]). The historians divide the years of [[lore-commoncal|the Vylarian Calendar]] into eight ages ([[lore-vylariages|The Vylarian Ages]]), and these events fall in the first five.
+Three centuries of conquest followed. The legions fought west and north-west for the best part of that time ([[lore-westernwars|The Western Wars]]). About 224 the high priesthood of [[place-nartum|Nartun]] refused obedience to an Orzas who would not proscribe [[affiliation-blackflame|the Black Flame]], and the [[affiliation-hlykngdmnrtm|kingdom]] has stood apart since ([[lore-nartumrefuse|Nartun Refuses the Empire]]). After [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] broke at [[affiliation-kngdmmrdd|Amradad]]'s walls, the eastern legions raised a line of hill forts across Taruzel's islands ([[lore-easternline|The Eastern Line]]), and the imperial archive on Arvel burned ([[lore-archivefire|The Archive Fire]]). In 377 the Orzas [Barnakis]{.name data-type="being/npc"} sent the strongest field army the Empire had across the sea to the Khelathi delta, and its commander was crowned there ([[lore-deltaexped|The Delta Expedition]]). He died in 389 with no heir named, and for sixteen years the guard, the Senate and the legions of Moktur each carried an eagle before an Orzas of their own ([[lore-brkensuccsn|The Broken Succession]]). The legions fought one another at [[place-olcassafld|the Blood-field of Olkassa]] (Olkassa) in Hilen ([[lore-olcassabtl|The Battle of Olkassa]]), the dole failed and the capital burned ([[lore-greatburnng|The Great Burning]]), and about 406 [Makandas]{.name data-type="being/npc"} took the city and founded House Helarkales ([[lore-restorehouse|The Restoration]]). His successor [Arzanas]{.name data-type="being/npc"} closed the western conquests and gave the Empire the institutions it keeps ([[lore-arzanasedict|The Edicts of Arzanas]]). The historians divide the years of [[lore-commoncal|the Vilérian Calendar]] into eight ages ([[lore-vylariages|The Vilérian Ages]]), and these events fall in the first five.
 
 At its height the empire held most of western Ankaris, from the forests of [[place-vrystwald|Vristwald]] to the edge of the [[place-dunharargn|Dunhari deserts]], and from the shores of [[place-elavendre|Élavendre]] to the harbors of Taruzel. Its legions were unmatched, its bureaucracy efficient, and its culture the measure every other was held against.
 
@@ -139,32 +139,32 @@ At its height the empire held most of western Ankaris, from the forests of [[pla
 
 The north's hunger raids stripped Moktur's valleys until a legion won its eagle back in the marsh ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), and the far provinces stopped obeying one at a time. About 619 the Orzas [Azénales]{.name data-type="being/npc"} settled what the Empire still was with the Aureldian crowns and the [[affiliation-byzarianlg|Bizarian League]]: their freedom from imperial governance and tax, kept inside the note system at [[affiliation-tarmex|the Tarmeks Orzan]]'s two-percent fee, and Helionis a province on the chancery's roll ([[lore-crownssettle|The Settlement of the Crowns]]). About 680 a regent's council sent the [Doran Hilvan]{.name data-type="affiliation"} into the [[place-kervaron|Kervaron Spine]] and lost it ([[lore-twelfthloss|The Loss of the Twelfth]]).
 
-The worst humiliation came roughly twelve years ago, when Taruzel, the empire's wealthiest eastern province, won a war of independence. Its merchant princes, rich as middlemen in the eastern trade, had chafed for generations under imperial taxation and regulation imposed without any voice in the Senate. When the empire answered their growing power with heavier levies and tighter control, the merchants financed a revolution and recruited the common people with promises of liberty. The empire's first response was effective on land. Then the [[affiliation-empireakhlth|Empire of Au'Khelathu]], seeing a chance to weaken its northern rival, covertly supplied the rebels with gold, weapons and military advisors. The Khelathi court kept up the fiction of "humanitarian commerce," but its gold kept the rebellion solvent, and its naval expertise turned the Taruzelian captains' ragtag flotilla into a fighting force. The [[affiliation-kngdmmrdd|Kingdom of Amradad]], whose relations with the empire have long been antagonistic, was among the other powers that helped the Taruzelians break away. The destruction of a Vylarian squadron at [[lore-tamzirbattle|The Battle of Tamzir Shoals]] ([[place-tamzirshoals|Tamzir Shoals]]) broke the empire's ability to hold its eastern garrisons, and it recognized Taruzel's independence within the year rather than pay for another campaign.
+The worst humiliation came roughly twelve years ago, when Taruzel, the empire's wealthiest eastern province, won a war of independence. Its merchant princes, rich as middlemen in the eastern trade, had chafed for generations under imperial taxation and regulation imposed without any voice in the Senate. When the empire answered their growing power with heavier levies and tighter control, the merchants financed a revolution and recruited the common people with promises of liberty. The empire's first response was effective on land. Then the [[affiliation-empireakhlth|Empire of Au'Khelathu]], seeing a chance to weaken its northern rival, covertly supplied the rebels with gold, weapons and military advisors. The Khelathi court kept up the fiction of "humanitarian commerce," but its gold kept the rebellion solvent, and its naval expertise turned the Taruzelian captains' ragtag flotilla into a fighting force. The [[affiliation-kngdmmrdd|Kingdom of Amradad]], whose relations with the empire have long been antagonistic, was among the other powers that helped the Taruzelians break away. The destruction of a Vilérian squadron at [[lore-tamzirbattle|The Battle of Tamzir Shoals]] ([[place-tamzirshoals|Tamzir Shoals]]) broke the empire's ability to hold its eastern garrisons, and it recognized Taruzel's independence within the year rather than pay for another campaign.
 
-The empire has since drawn back to its core territories around the Vylarian peninsula, while still claiming authority over regions that went their own way long ago. The loss of Taruzel's trade revenue has sped the fiscal decline, and direct Taruzelian–Khelathi commerce now bypasses Vylarian middlemen entirely. The defeat, and the knowledge that Au'Khelathu's hand was behind it, festers in the Senate and the officer corps. About 710 the Dukran's report on the war forced a compromise on the commission system ([[lore-commissioncmp|The Commission Compromise]]).
+The empire has since drawn back to its core territories around the Vilérian peninsula, while still claiming authority over regions that went their own way long ago. The loss of Taruzel's trade revenue has sped the fiscal decline, and direct Taruzelian–Khelathi commerce now bypasses Vilérian middlemen entirely. The defeat, and the knowledge that Au'Khelathu's hand was behind it, festers in the Senate and the officer corps. About 710 the Dukran's report on the war forced a compromise on the commission system ([[lore-commissioncmp|The Commission Compromise]]).
 
-### The Vylarian Calendar {#the-vylarian-calendar}
+### The Vilérian Calendar {#the-vylarian-calendar}
 
-The [[lore-commoncal|Vylarian Calendar]] of western Ankaris counts from the founding of the empire, the moment a Vylarian _kurthos_ seized supreme power. That moment is **Year 1**. Events before it are dated **[Before the Founding]{.name data-type="lore/calendar"} (BF)** and events after it **[After the Founding]{.name data-type="lore/calendar"} (AF)**. The present year is **720 AF**. The Republic was founded around **650 BF**, and by **400 BF** it was already a major power of the Vylarian Sea.
+The [[lore-commoncal|Vilérian Calendar]] of western Ankaris counts from the founding of the empire, the moment a Vilérian _kurthos_ seized supreme power. That moment is **Year 1**. Events before it are dated **[Before the Founding]{.name data-type="lore/calendar"} (BF)** and events after it **[After the Founding]{.name data-type="lore/calendar"} (AF)**. The present year is **720 AF**. The Republic was founded around **650 BF**, and by **400 BF** it was already a major power of the Vilérian Sea.
 
-The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Midhalión, [[place-aureldirgn|Aureldia]], and the lands that were or still are within the empire's cultural sphere: Helionis, [[place-byzariargn|Bizaria]], Taruzel, Provénzia, Tarvénia, Élavendre and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Au'Khelathu]] and [[affiliation-okharis|Okharis]] count from [[lore-qettelgu|the Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
+The calendar is a product of Vilérian political authority, not a feature of the world. It is the working calendar of Midhalión, [[place-aureldirgn|Aureldia]], and the lands that were or still are within the empire's cultural sphere: Helionis, [[place-byzariargn|Bizaria]], Taruzel, Provénzia, Tarvénia, Élavendre and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Au'Khelathu]] and [[affiliation-okharis|Okharis]] count from [[lore-qettelgu|the Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent counts. Where the Vilérian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
 
 ## Culture and Society
 
-The [[lore-vylarianclt|Vylarian]] note gives the people's manners and what they hold a person owes. In brief, Vylarian culture is sophisticated, proud and haunted by the memory of greatness. The cities set magnificent temples, forums and aqueducts beside crumbling tenements and neglected public works. The aristocracy clings to the old forms: elaborate social hierarchy, patronage networks, and a Senate that still debates while its authority erodes.
+The [[lore-vylarianclt|Vilérian]] note gives the people's manners and what they hold a person owes. In brief, Vilérian culture is sophisticated, proud and haunted by the memory of greatness. The cities set magnificent temples, forums and aqueducts beside crumbling tenements and neglected public works. The aristocracy clings to the old forms: elaborate social hierarchy, patronage networks, and a Senate that still debates while its authority erodes.
 
 Society is stratified, and the ladder is short to state:
 
 - **The senatorial families** hold vast estates and run politics through alliance, marriage and obligation.
 - **The gulmen order** below them is the wealthy merchants and the military officers.
-- **The citizens** are the free citizen body, most of them veterans of the legions or their wives (see [[doc-vylrnctznshp|Vylarian Citizenship]]).
+- **The citizens** are the free citizen body, most of them veterans of the legions or their wives (see [[doc-vylrnctznshp|Vilérian Citizenship]]).
 - **Slaves and indentured servants** make up a substantial population at the bottom.
 
 Mobility exists and is limited, and the gap between the senatorial elite and the common people widens each generation.
 
-Vylarians are renowned craftsmen and traders. [[miscgear-vylsteel|Vylarian Steel]], an alloy produced by the empire's metalsmiths, is prized across Ankaris for its strength and resilience; the secret of its forging is jealously guarded, and weapons and armor made of it command extraordinary prices.
+Vilérians are renowned craftsmen and traders. [[miscgear-vylsteel|Vilérian Steel]], an alloy produced by the empire's metalsmiths, is prized across Ankaris for its strength and resilience; the secret of its forging is jealously guarded, and weapons and armor made of it command extraordinary prices.
 
-Education, rhetoric and law are central to Vylarian identity. The legal tradition is the most sophisticated in Ankaris, and courts across the continent have adopted or adapted Vylarian law. A Vylarian of means is expected to be well spoken and to know the classics, but reading and composing continuous text is a narrower skill: it belongs to the clergy, the professional scribes and a minority of the nobility, and most of the rest keep a scribe.
+Education, rhetoric and law are central to Vilérian identity. The legal tradition is the most sophisticated in Ankaris, and courts across the continent have adopted or adapted Vilérian law. A Vilérian of means is expected to be well spoken and to know the classics, but reading and composing continuous text is a narrower skill: it belongs to the clergy, the professional scribes and a minority of the nobility, and most of the rest keep a scribe.
 
 ## Government
 
@@ -181,9 +181,9 @@ Weak emperors become puppets of the Senate or the Order; strong ones face conspi
 
 ## Religion
 
-Worship of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] is the state religion, and [[lore-ardavondty|Árdavon]] (order, justice and honorable struggle) holds the highest place as patron of the empire, in name at least. Vylarian religious life is far busier and more disorderly than the official picture.
+Worship of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] is the state religion, and [[lore-ardavondty|Árdavon]] (order, justice and honorable struggle) holds the highest place as patron of the empire, in name at least. Vilérian religious life is far busier and more disorderly than the official picture.
 
-Vylaria is remarkably tolerant of other faiths and remarkably fickle about them. The empire has always absorbed the religions of the peoples it conquered, and the capital is a bazaar of competing cults, temples and movements. Aureldian temples dominate the old city. [[affiliation-ashanpnthn|Ashaian fire-shrines]] draw fashionable devotees, [[affiliation-asguardian|Asguardian warrior-cults]] draw military officers, and mystery traditions from Helionis offer initiation to a curious aristocracy. New movements arrive every season, enjoy a burst of court patronage, and either take root or fade. The Senate and the great families use religious patronage as a political tool: backing a temple signals allegiance, builds a network and undercuts a rival.
+Viléria is remarkably tolerant of other faiths and remarkably fickle about them. The empire has always absorbed the religions of the peoples it conquered, and the capital is a bazaar of competing cults, temples and movements. Aureldian temples dominate the old city. [[affiliation-ashanpnthn|Ashaian fire-shrines]] draw fashionable devotees, [[affiliation-asguardian|Asguardian warrior-cults]] draw military officers, and mystery traditions from Helionis offer initiation to a curious aristocracy. New movements arrive every season, enjoy a burst of court patronage, and either take root or fade. The Senate and the great families use religious patronage as a political tool: backing a temple signals allegiance, builds a network and undercuts a rival.
 
 The [[affiliation-imperialcult|Imperial Cult]], the veneration of deceased emperors as divine or half-divine, is the one institution that cuts across all of this. Temples to deified emperors stand in every city, the Emperor himself holds the office of Sarnaks Maldor, a Senate-named _holzathos_ administers the cult as his officer and hears the oaths sworn in court, and taking part in the cult is a religious act and a declaration of political loyalty at once. It binds subjects of every faith to one ritual of allegiance.
 
@@ -191,7 +191,7 @@ So a _kurthos_ may worship Árdavon in public, consult an Ashaian fire-priest in
 
 ## The Thordimalon
 
-The [[affiliation-ordoarcanis|Thordimalon]] has its deepest roots in Vylaria. Chartered by the Senate of the Republic in 73 BF, it has grown into the dominant arcane institution of western Ankaris over nearly eight centuries. It works through the imperial court, using political channels to enforce its monopoly on magic across the empire's sphere, and it is old, powerful and deeply conservative: slow to act and slow to change, and relentless once in motion.
+The [[affiliation-ordoarcanis|Thordimalon]] has its deepest roots in Viléria. Chartered by the Senate of the Republic in 73 BF, it has grown into the dominant arcane institution of western Ankaris over nearly eight centuries. It works through the imperial court, using political channels to enforce its monopoly on magic across the empire's sphere, and it is old, powerful and deeply conservative: slow to act and slow to change, and relentless once in motion.
 
 The Order guards arcane talent jealously. Every child who shows magical aptitude is expected to be reported to it and enrolled in its academies. A practitioner outside its control is hunted as a rogue mage, which can mean anything from forced enrollment to imprisonment to death, depending on how great a threat the Order judges him.
 
@@ -223,25 +223,25 @@ Some **21 million** people live under direct imperial governance in the four cor
 : the mountainous northern province on the [[place-vrystwald|Vristwald]] border, charged with defending the frontier; its military _therkoi_ (governors) hold wide autonomy and sometimes act as semi-independent warlords.
 
 [[affiliation-provincvld|Salkalon]]
-: the coastal province on the [[place-vylarianse|Vylarian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Taruzel and Helionis, which makes it the most cosmopolitan and commercial province.
+: the coastal province on the [[place-vylarianse|Vilérian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Taruzel and Helionis, which makes it the most cosmopolitan and commercial province.
 
-The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], an independent Vylari-speaking realm in the forested uplands of the [[place-nartumkngdm|Nartun Kingdom]], shares the empire's culture and language but keeps its own sovereignty and a theocratic devotion to Aureldian worship.
+The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], an independent Vilari-speaking realm in the forested uplands of the [[place-nartumkngdm|Nartun Kingdom]], shares the empire's culture and language but keeps its own sovereignty and a theocratic devotion to Aureldian worship.
 
 ## Military
 
-The [[affiliation-vylrnmltry|Vylarian legions]] are thin, and in disrepute since the war that lost Taruzel. Recruitment is down, the legions are stretched along borders the empire can no longer fully hold, and mercenary companies, often Tarvenan or Nordmen, fill the gaps in the ranks, with varying reliability. They are still the strongest army in the west: no nation of [[place-aureldirgn|Aureldia]] or Midhalión can face a legion in the field. The provinces that broke away did so through mismanagement in the legions, fatigue in the empire and outside help, such as the gold Au'Khelathu gave Taruzel.
+The [[affiliation-vylrnmltry|Vilérian legions]] are thin, and in disrepute since the war that lost Taruzel. Recruitment is down, the legions are stretched along borders the empire can no longer fully hold, and mercenary companies, often Tarvenan or Nordmen, fill the gaps in the ranks, with varying reliability. They are still the strongest army in the west: no nation of [[place-aureldirgn|Aureldia]] or Midhalión can face a legion in the field. The provinces that broke away did so through mismanagement in the legions, fatigue in the empire and outside help, such as the gold Au'Khelathu gave Taruzel.
 
-The navy is still competent and holds key points in the [[place-vylarianse|Vylarian Sea]], but it too has declined. Taruzelian supremacy in the eastern sea is a fact Vylarian admirals prefer not to discuss.
+The navy is still competent and holds key points in the [[place-vylarianse|Vilérian Sea]], but it too has declined. Taruzelian supremacy in the eastern sea is a fact Vilérian admirals prefer not to discuss.
 
 ## Relations
 
-The long shadow of empire defines Vylaria's dealings with its neighbors.
+The long shadow of empire defines Viléria's dealings with its neighbors.
 
-- **The [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]** were provinces once and keep a strong Vylarian cultural stamp, and both guard their independence fiercely.
+- **The [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]** were provinces once and keep a strong Vilérian cultural stamp, and both guard their independence fiercely.
 - **[[affiliation-cnfdrtntrzlnstts|Taruzel]]** won its independence roughly twelve years ago, and relations remain tense: the empire has not forgotten the humiliation, and Taruzelian merchant guilds are pushing hard into markets the empire once dominated.
-- **[[place-helionis|Helionis]]**, once the empire's cultural jewel, keeps close and complicated ties. Vylaria conquered Helionis by arms, and Helionite culture conquered Vylaria in return: Vylarian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even though imperial authority there survives only on paper.
+- **[[place-helionis|Helionis]]**, once the empire's cultural jewel, keeps close and complicated ties. Viléria conquered Helionis by arms, and Helionite culture conquered Viléria in return: Vilérian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even though imperial authority there survives only on paper.
 - **[[place-vrystwald|Vristwald]]** to the north is a chronic military problem, and Varokh raids a persistent nuisance.
-- **The [[affiliation-empireakhlth|Empire of Au'Khelathu]]** across the sea is the region's other great power. The two empires have fought wars, the worst of them [[lore-vylconquest|the Vylarian Conquest]] of 377 AF, and Au'Khelathu is dominant in the south and Vylaria in the north. Khelathi gold kept Taruzel's rebellion solvent, and Au'Khelathu now offers to lend to the throne it humbled.
+- **The [[affiliation-empireakhlth|Empire of Au'Khelathu]]** across the sea is the region's other great power. The two empires have fought wars, the worst of them [[lore-vylconquest|the Vilérian Conquest]] of 377 AF, and Au'Khelathu is dominant in the south and Viléria in the north. Khelathi gold kept Taruzel's rebellion solvent, and Au'Khelathu now offers to lend to the throne it humbled.
 
 ## Notable Features
 
@@ -253,7 +253,7 @@ The Imperial Cult
 
 ## Commerce and Currency
 
-The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. Those revenues and the tributes of the provinces and colonies fall short of what the throne spends, the veterans' pensions of the dole above all, and the Tarmeks borrows the difference from the Danvar's great houses. Vylaria's credit is excellent, and the loans are rolled over and the lenders repaid from new loans. Nothing is put by: a great fire or a famine can be met only by borrowing more, the interest on what the throne owes is a growing worry, and a single default would end the credit the whole arrangement rests on. The capital shows the world its processions and its games, and runs on money it has not yet repaid.
+The empire uses the [[lore-vylrncrncy|Vilérian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. Those revenues and the tributes of the provinces and colonies fall short of what the throne spends, the veterans' pensions of the dole above all, and the Tarmeks borrows the difference from the Danvar's great houses. Viléria's credit is excellent, and the loans are rolled over and the lenders repaid from new loans. Nothing is put by: a great fire or a famine can be met only by borrowing more, the interest on what the throne owes is a growing worry, and a single default would end the credit the whole arrangement rests on. The capital shows the world its processions and its games, and runs on money it has not yet repaid.
 
 ## Hooks {#hooks}
 
@@ -263,13 +263,13 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogd
 
 ## See Also
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the land the empire holds
 
-[[lore-hstrymdhln|The History of Vylaria and Midhalión]]
+[[lore-hstrymdhln|The History of Viléria and Midhalión]]
 : the empire's history, age by age
 
-[[lore-vylarianclt|Vylarian]]
+[[lore-vylarianclt|Vilérian]]
 : the people, their manners and their obligations
 
 [[place-orzara|Orzara]]
@@ -281,13 +281,13 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogd
 [[affiliation-ordoarcanis|Thordimalon]]
 : the dominant arcane order
 
-[[affiliation-vylrnmltry|Vylarian Military]]
+[[affiliation-vylrnmltry|Vilérian Military]]
 : the legions and the fleet
 
 [[affiliation-goitsathal|Goitsa Thal]], [[affiliation-hrendskari|Hrendskari]], [[affiliation-cleanshlds|The Clean Shields]]
 : companies in the empire's pay
 
-[[doc-vylrnctznshp|Vylarian Citizenship]]
+[[doc-vylrnctznshp|Vilérian Citizenship]]
 : the citizen and the resident
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
@@ -302,17 +302,17 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogd
 [[place-vrystwald|Vristwald]]
 : the northern frontier
 
-[[place-vylarianse|Vylarian Sea]]
+[[place-vylarianse|Vilérian Sea]]
 : the empire's maritime domain
 
-[[skill-vylarilng|Vylari]]
+[[skill-vylarilng|Vilari]]
 : the language and its naming conventions
 
 [[affiliation-provinclys|Province of Alessa]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Salkalon]]
 : the provinces
 
 [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
-: independent Vylari-speaking realm
+: independent Vilari-speaking realm
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
 : the state pantheon

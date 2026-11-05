@@ -1,9 +1,9 @@
 ---
 shortcode: vylariages
-name: {full: The Vylarian Ages, en: [The Eight Ages of the Empire]}
+name: {full: The Vilérian Ages, en: [The Eight Ages of the Empire]}
 type: lore
 subType: calendar
-description: "How Vylaria's historians divide the years of the Vylarian Calendar into eight ages, from the kings and the Republic before the Founding to the years after the Tamzir Shoals; the ages name stretches of years, and every year keeps its Vylarian Calendar number."
+description: "How Viléria's historians divide the years of the Vilérian Calendar into eight ages, from the kings and the Republic before the Founding to the years after the Tamzir Shoals; the ages name stretches of years, and every year keeps its Vilérian Calendar number."
 tags: [reference, calendar, history, vylaria]
 data:
   culture: vylarianclt
@@ -56,13 +56,13 @@ data:
   packFolder: vylaria
 ---
 
-A [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) historian lecturing on the [[affiliation-vylarinmpr|Empire]] gives a date as two things at once: the year of [[lore-commoncal|the Vylarian Calendar]], which every clerk and magistrate uses, and the age that year belongs to, which only the historians and the orators of [[affiliation-seldan|Seldan]] (the Senate) care about. "The year is for the ledger," she tells a first-year class. "The age is for the argument. A ledger says that the legions crossed the sea in 377. An orator says it happened in [The Age of Conquest]{.name data-type="lore/calendar"}, and then he can say what the Age of Conquest cost."
+A [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) historian lecturing on the [[affiliation-vylarinmpr|Empire]] gives a date as two things at once: the year of [[lore-commoncal|the Vilérian Calendar]], which every clerk and magistrate uses, and the age that year belongs to, which only the historians and the orators of [[affiliation-seldan|Seldan]] (the Senate) care about. "The year is for the ledger," she tells a first-year class. "The age is for the argument. A ledger says that the legions crossed the sea in 377. An orator says it happened in [The Age of Conquest]{.name data-type="lore/calendar"}, and then he can say what the Age of Conquest cost."
 
-The **Vylarian Ages** are that division. They add no second count of years: the year of an age is the Vylarian Calendar year, so 377 in the Age of Conquest is 377 AF and nothing else. An age is a name for a stretch of those years, set by what the Empire was doing in them and by what ended them. The ages are the historians' teaching and not a law, and the schools argue about where one ends.
+The **Vilérian Ages** are that division. They add no second count of years: the year of an age is the Vilérian Calendar year, so 377 in the Age of Conquest is 377 AF and nothing else. An age is a name for a stretch of those years, set by what the Empire was doing in them and by what ended them. The ages are the historians' teaching and not a law, and the schools argue about where one ends.
 
 ## How a Date Is Written
 
-A date gives the day and month of the Vylarian Calendar, the year, and the mark of the age: 1 [Lizelandi]{.name data-type="lore/calendar"} 389 TE is the first morning of the first year of [[lore-brkensuccsn|the Broken Succession]] (the Years of Three Eagles), which is also 1 Lizelandi 389 AF. The age marks are the abbreviations in the table. A year before [[lore-thefounding|the Founding]] is counted back from 1 BF and takes the mark KR, [The Kings and the Republic]{.name data-type="lore/calendar"}.
+A date gives the day and month of the Vilérian Calendar, the year, and the mark of the age: 1 [Lizelandi]{.name data-type="lore/calendar"} 389 TE is the first morning of the first year of [[lore-brkensuccsn|the Broken Succession]] (the Years of Three Eagles), which is also 1 Lizelandi 389 AF. The age marks are the abbreviations in the table. A year before [[lore-thefounding|the Founding]] is counted back from 1 BF and takes the mark KR, [The Kings and the Republic]{.name data-type="lore/calendar"}.
 
 ## The Eight Ages
 
@@ -74,14 +74,14 @@ A date gives the day and month of the Vylarian Calendar, the year, and the mark 
 | The Years of Three Eagles  | TE      | 389 to 406              | three claimants, three armies, and a capital that burns                             |
 | The Restoration            | RS      | 406 to 512              | one house rebuilds the capital and the institutions that still stand                |
 | The Drift                  | DR      | 512 to 620              | the north comes south, and the far provinces stop obeying one at a time             |
-| The Core                   | CO      | 620 to 708              | an Empire of Vylaria, Helionis on paper, and Taruzel                                |
+| The Core                   | CO      | 620 to 708              | an Empire of Viléria, Helionis on paper, and Taruzel                                |
 | After the Shoals           | AS      | 708 to the present, 720 | the loss of Taruzel, a navy rebuilt, and a succession in doubt                      |
 
 An age shares its last year with the first year of the next, and the shared year is entered under the age it opens: year 96 is the first of the Age of Conquest.
 
 ### The Kings and the Republic
 
-Everything before the Founding: a monarchy of which only its end is recorded, then the [Vylarian Republic]{.name data-type="affiliation/polity"} of the patrician families, [[lore-helionscnq|the conquest of Helionis]], a garrison colony among the Tanevar kings of the west ([[lore-aurelianefound|The Founding of Aurelane]]), the dragons and [[lore-kandrol|the Kandrol]]. [[lore-vylarirpbl|The Vylarian Republic]] is its spine, and [[lore-thefounding|the Founding]] is its last day.
+Everything before the Founding: a monarchy of which only its end is recorded, then the [Vilérian Republic]{.name data-type="affiliation/polity"} of the patrician families, [[lore-helionscnq|the conquest of Helionis]], a garrison colony among the Tanevar kings of the west ([[lore-aurelianefound|The Founding of Aurelane]]), the dragons and [[lore-kandrol|the Kandrol]]. [[lore-vylarirpbl|The Vilérian Republic]] is its spine, and [[lore-thefounding|the Founding]] is its last day.
 
 ### The First Orzoi, 1 to 95
 
@@ -113,8 +113,8 @@ The present: [[lore-tamzirbattle|The Battle of Tamzir Shoals]], the recognition,
 
 ## See Also
 
-[[lore-commoncal|The Vylarian Calendar]]
+[[lore-commoncal|The Vilérian Calendar]]
 : the count of years every age is a stretch of
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the polity whose history the ages divide

@@ -55,7 +55,7 @@ The boatmen's inns stand at the top of the cutting, where the road reaches the b
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the imperial overview
 
 [[place-vylarisrvr|River Vylaris]]

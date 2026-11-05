@@ -21,7 +21,7 @@ Like the League's other marches it is common territory outside any city's charte
 
 ## Geography
 
-The March is the southern rim of the Bizarian plateau. Behind Karvashion's green valley the hills rise into a dry, rolling upland of pale limestone and red earth, cut by gorges where seasonal streams run in winter and stand in pools by summer. Grass is thin and the trees are scrub—juniper, wild pistachio, thorn—except along the watercourses, where poplar and plane give shade to the villages. Southward the upland tilts down in long ridges into the arid country of the Kingdom, which runs down to the eastern shore of the [[place-vylarianse|Vylarian Sea]] on its western side and shades into Dunhari caravan country on its inland side.
+The March is the southern rim of the Bizarian plateau. Behind Karvashion's green valley the hills rise into a dry, rolling upland of pale limestone and red earth, cut by gorges where seasonal streams run in winter and stand in pools by summer. Grass is thin and the trees are scrub—juniper, wild pistachio, thorn—except along the watercourses, where poplar and plane give shade to the villages. Southward the upland tilts down in long ridges into the arid country of the Kingdom, which runs down to the eastern shore of the [[place-vylarianse|Vilérian Sea]] on its western side and shades into Dunhari caravan country on its inland side.
 
 The caravan road runs the length of the March from Karvashion's southern gate to the last League caravanserai, where the road passes out of Bizarian territory. The road is the March's spine; its villages, forts and wells lie along it or a short ride from it. Away from the road the upland is big, empty and known in detail only to the herders and the huntsmen.
 

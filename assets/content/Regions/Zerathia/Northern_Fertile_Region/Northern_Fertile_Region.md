@@ -3,7 +3,7 @@ shortcode: nrthrnfrtlrgn
 name: {full: Northern Fertile Region, en: [The Fertile Crescent]}
 type: place
 subType: region
-description: The productive belt along Zerathia's northern shore—three distinct civilizations (Bethua, Au'Khelathu, Okharis) layered across a climate gradient from wet-coastal Vylarian-Sea littoral through aqueduct-irrigated interior to semi-arid southern savanna.
+description: The productive belt along Zerathia's northern shore—three distinct civilizations (Bethua, Au'Khelathu, Okharis) layered across a climate gradient from wet-coastal Vilérian-Sea littoral through aqueduct-irrigated interior to semi-arid southern savanna.
 tags: [region]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
 # terran_analog: North Africa—Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad
 ---
 
-The Northern Fertile Region is the productive belt stretching along the southern shore of the [[place-vylarianse|Vylarian Sea]]—the face that [[place-xerathia|Zerathia]] shows to [[place-ankrscntnnt|Ankaris]]. Here lie three of the oldest and most sophisticated civilizations on [[place-worldthlrn|Thalorna]]: the [[affiliation-mtrrchybth|Matriarchy of Bethua]] in the middle of the shore, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] to its east, anchored along its great river, and [[affiliation-okharis|Okharis]] to its west, reaching south to where the irrigated country gives way to savanna.
+The Northern Fertile Region is the productive belt stretching along the southern shore of the [[place-vylarianse|Vilérian Sea]]—the face that [[place-xerathia|Zerathia]] shows to [[place-ankrscntnnt|Ankaris]]. Here lie three of the oldest and most sophisticated civilizations on [[place-worldthlrn|Thalorna]]: the [[affiliation-mtrrchybth|Matriarchy of Bethua]] in the middle of the shore, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] to its east, anchored along its great river, and [[affiliation-okharis|Okharis]] to its west, reaching south to where the irrigated country gives way to savanna.
 
 "Fertile" is an outsider's label, and it requires qualification. Only the coastal strip and the Khelathi river valley are naturally productive; the rest of the region is semi-arid and depends on some combination of hydraulic engineering, pastoral adaptation, or both. What the three civilizations share is not effortless abundance but an extraordinary competence at extracting that abundance from terrain that would, without their labor, support only sparse populations. This shared civilizational project—different in technique in each of the three polities, but common in ambition—is what makes the region a coherent subject of study rather than three unrelated states.
 
@@ -23,7 +23,7 @@ The Northern Fertile Region is the productive belt stretching along the southern
 
 The region is shaped by a sharp **coastal-to-inland climate gradient** and, within that, by a single exceptional **river valley**.
 
-The **coastal strip** along the Vylarian Sea is wet-coastal—citrus, grape, olive, fig, date-palm, and pomegranate flourish on sea-tempered winters and moderate summer heat. The cities of the coast are the region's oldest and most cosmopolitan, and the coastal strip has been the principal point of contact between Zerathia and the north for as long as the two continents have known each other. Bethua's northern coast, Au'Khelathu's delta, and the western edge of Okharik territory share this character, though the strip is widest and most reliable in Bethua.
+The **coastal strip** along the Vilérian Sea is wet-coastal—citrus, grape, olive, fig, date-palm, and pomegranate flourish on sea-tempered winters and moderate summer heat. The cities of the coast are the region's oldest and most cosmopolitan, and the coastal strip has been the principal point of contact between Zerathia and the north for as long as the two continents have known each other. Bethua's northern coast, Au'Khelathu's delta, and the western edge of Okharik territory share this character, though the strip is widest and most reliable in Bethua.
 
 **Moving inland**, rainfall drops off sharply. Through most of the region, the middle and deep interiors are semi-arid grassland—productive only where water can be brought to it. Bethua and Au'Khelathu have answered this with millennia of hydraulic engineering: aqueducts, tunnel qanats, cisterns, and canal networks whose maintenance employs tens of thousands of workers year-round and whose professional engineering corps are among the most prestigious institutions of their civilizations. Inside the irrigated strips, wheat, barley, millet, and legumes feed the dense urban populations; between them, open grasslands pasture sheep, cattle, and horses.
 
@@ -37,7 +37,7 @@ The three constituent polities are culturally distinct, united more by shared ge
 
 [[lore-khelathiclt|Khelathi]]—the river-valley civilization, organized around the [[affiliation-khelathpnthn|Khelathi Pantheon]] and the divine office of the [[lore-garauu|Gar-Au]]. Urban, literate, hierarchical, pleasure-loving, obsessed with death-as-renewal, governed by a vast scribal bureaucracy beneath a theocratic crown. The Khelathi see themselves as the eldest and central people of the region, and their cultural gravity has shaped their neighbors for millennia.
 
-**Bethuan**—the matriarchal society of the central coast and its engineered interior, culturally connected across the Vylarian Sea to [[place-helionis|Helionis]] through ancient linguistic roots linked to the [[lore-pelwarpepl|Pelwar People]]. Bethua's ruling class is female; its priesthood is female; its engineering corps is female; its coastal aristocracy is old and self-consciously aristocratic. Bethuans worship the [[affiliation-arldnpnthn|Aureldian Pantheon]] with matriarchal emphasis rather than any home-grown religion, which is one reason their cultural gravity pulls more toward western Ankaris than toward their immediate neighbors.
+**Bethuan**—the matriarchal society of the central coast and its engineered interior, culturally connected across the Vilérian Sea to [[place-helionis|Helionis]] through ancient linguistic roots linked to the [[lore-pelwarpepl|Pelwar People]]. Bethua's ruling class is female; its priesthood is female; its engineering corps is female; its coastal aristocracy is old and self-consciously aristocratic. Bethuans worship the [[affiliation-arldnpnthn|Aureldian Pantheon]] with matriarchal emphasis rather than any home-grown religion, which is one reason their cultural gravity pulls more toward western Ankaris than toward their immediate neighbors.
 
 **Okharik**—the pastoral-nomadic peoples of the southern savanna, organized around the three-flame cosmology of [[affiliation-nkaruthar|Nkaru'thar]] and the urban-rural compact of the [Three-Flame Settlement]{.name data-type="lore/law"}. Where the Khelathi and Bethuans built around water, the Okharics built around the herds. Their three temple-cities—Zarhanis, Kaljekor, and Vuthraka—are religious, trade, and diplomatic anchors in a country whose ordinary population is on the move with their cattle for most of the year.
 
@@ -70,13 +70,13 @@ The three states trade extensively, intermarry at the elite level selectively, a
 
 ## Trade
 
-The Northern Fertile Region is the principal southern endpoint of the great trans-Vylarian trade system. Khelathi grain, gold, papyrus, linen, and artisan goods flow north to the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], the [[affiliation-vylarinmpr|Vylarian Empire]], and Helionis. Bethuan coastal wine, olive oil, preserved fruit, dyed textiles, and metalwork move the same direction. Okharik cattle, horses, leather, wool, and savanna-harvested honey and resins reach the coast through Khelathi and Bethuan intermediaries. In return, the region imports Ankarian timber, wool, wine, steel, tin, amber, and a steady stream of finished manufactures.
+The Northern Fertile Region is the principal southern endpoint of the great trans-Vilérian trade system. Khelathi grain, gold, papyrus, linen, and artisan goods flow north to the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], the [[affiliation-vylarinmpr|Vilérian Empire]], and Helionis. Bethuan coastal wine, olive oil, preserved fruit, dyed textiles, and metalwork move the same direction. Okharik cattle, horses, leather, wool, and savanna-harvested honey and resins reach the coast through Khelathi and Bethuan intermediaries. In return, the region imports Ankarian timber, wool, wine, steel, tin, amber, and a steady stream of finished manufactures.
 
 Within the region, the three polities operate an intricate overlapping network of internal trade—Bethuan wine and olive oil in Khelathi markets, Khelathi grain in Okharik temple-cities, Okharik horses in Bethuan cavalry stables, and so on—with long-established merchant houses in each capital specializing in the handling of goods from the others.
 
 ## Relations with Neighboring Regions
 
-To the **north**, across the Vylarian Sea, lies the [[place-midhalnrgn|Midhalión trade zone]], which the region shares with Ankaris. The Khelathi and Bethuan ports are fully integrated into this trade system; Okharis participates indirectly through its northern neighbors.
+To the **north**, across the Vilérian Sea, lies the [[place-midhalnrgn|Midhalión trade zone]], which the region shares with Ankaris. The Khelathi and Bethuan ports are fully integrated into this trade system; Okharis participates indirectly through its northern neighbors.
 
 To the **south** lies the Central Rainforests, whose tribes trade cautiously with the region through ritualized intermediaries. Khelathi merchants have maintained river-post relationships with the northernmost forest peoples for centuries; Okharik herders meet forest-edge peoples along their southern pastures during seasonal migrations; Bethua has the least interest in the forests and mostly ignores them.
 
@@ -99,7 +99,7 @@ Far to the **south**—beyond the Central Rainforests, across an expanse none of
 [[place-cntrlrnfrsts|Central Rainforests]]
 : southern boundary
 
-[[place-vylarianse|Vylarian Sea]]
+[[place-vylarianse|Vilérian Sea]]
 : northern coast
 
 [[affiliation-khelathpnthn|Khelathi Pantheon]]

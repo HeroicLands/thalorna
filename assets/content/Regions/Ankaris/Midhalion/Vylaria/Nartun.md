@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Nartun is a city built up a hill with its gods at the top and its king below them. About sixty thousand people live in it, which makes it among the largest cities of the region, and it is the holy city of the [[place-nartumkngdm|Nartun Kingdom]] and the seat of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], the independent Vylari-speaking realm ruled under its priestly aristocracy. The Holy Mother, the high priestess who anoints the kingdom's kings, has her seat here, and so does the king. It is the city whose high priesthood withdrew from imperial obedience about 224 AF ([[lore-nartumrefuse|Nartun Refuses the Empire]]).
+Nartun is a city built up a hill with its gods at the top and its king below them. About sixty thousand people live in it, which makes it among the largest cities of the region, and it is the holy city of the [[place-nartumkngdm|Nartun Kingdom]] and the seat of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], the independent Vilari-speaking realm ruled under its priestly aristocracy. The Holy Mother, the high priestess who anoints the kingdom's kings, has her seat here, and so does the king. It is the city whose high priesthood withdrew from imperial obedience about 224 AF ([[lore-nartumrefuse|Nartun Refuses the Empire]]).
 
 A priest-noble's secretary, meeting a newly arrived scholar at the gate, gives him one piece of advice before anything else: "Do not ask which clerk handles the temple's business and which the crown's. Here the same men answer for both, and the question tells everyone you are a foreigner before you have found your lodging."
 
@@ -31,7 +31,7 @@ Inside, the city climbs in three levels. **The lower city**, behind the gate, is
 
 ## The Temples and Their Schools
 
-The twelve temples own most of the city and most of the kingdom, and their business fills the temple quarter from dawn: priors up from the estates with their accounts, barons come to renew a lease of forest, petitioners, pilgrims and novices. Every rite in them is said in the kingdom's ritual dialect, the oldest form of [[skill-vylarilng|Vylari]] still spoken, and every dedication on their walls is cut in [[skill-thrvrknscrpt|Tharavarkon]] runes.
+The twelve temples own most of the city and most of the kingdom, and their business fills the temple quarter from dawn: priors up from the estates with their accounts, barons come to renew a lease of forest, petitioners, pilgrims and novices. Every rite in them is said in the kingdom's ritual dialect, the oldest form of [[skill-vylarilng|Vilari]] still spoken, and every dedication on their walls is cut in [[skill-thrvrknscrpt|Tharavarkon]] runes.
 
 Each temple keeps a school. In the mornings the temple quarter is full of children with slates, the sons and daughters of carters and joiners as well as priest-nobles, learning to read the prayers and to reckon a weight of silver. Boys and girls meant for the priesthood stay on to learn the ritual dialect by heart and the runes stroke by stroke, because a priest who cannot read them cannot serve.
 
@@ -55,7 +55,7 @@ Pilgrims lodge in the temples' hostels along the holy road and inside the lower 
 
 ## History {#history}
 
-Nartun was the oldest sacred city of the Vylarian heartland long before it was a kingdom's seat. About 220 the faith of the Forge-Lord split ([[lore-ustaranschism|The Ústaran Schism]]), and when the Orzas Karomfos would not proscribe the Black Flame, the city's high priesthood withdrew from imperial obedience about 224 ([[lore-nartumrefuse|Nartun Refuses the Empire]]). It anointed [Daronos]{.name data-type="being/npc"} king, the first to take the throne from the priesthood's hand, and raised the Order of the Sacred Flame to hold the walls. The legions reached the city in the autumn, found the gate shut and the knights on the walls above it, and turned back at the first winter.
+Nartun was the oldest sacred city of the Vilérian heartland long before it was a kingdom's seat. About 220 the faith of the Forge-Lord split ([[lore-ustaranschism|The Ústaran Schism]]), and when the Orzas Karomfos would not proscribe the Black Flame, the city's high priesthood withdrew from imperial obedience about 224 ([[lore-nartumrefuse|Nartun Refuses the Empire]]). It anointed [Daronos]{.name data-type="being/npc"} king, the first to take the throne from the priesthood's hand, and raised the Order of the Sacred Flame to hold the walls. The legions reached the city in the autumn, found the gate shut and the knights on the walls above it, and turned back at the first winter.
 
 Every king since has been anointed and crowned in the Mother's Hall at the summit, and the kings the high priesthood deposed had the oil wiped from their foreheads in the same hall. The present king, [[being-klvrsdrns|Kelvaras Daronis]], was anointed there eleven years ago, after the Holy Mother refused his elder cousin for a winter.
 

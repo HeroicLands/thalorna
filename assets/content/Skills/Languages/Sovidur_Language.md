@@ -3,7 +3,7 @@ shortcode: sowideslng
 name: {full: Sovidur Language}
 type: skill
 subType: language
-description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tantsou."
+description: "The hard, clipped tongue of the steppe tribes of the Khazrin, spoken from the cold northern coast to the stone desert before Tantsou."
 tags: []
 data:
   roman: "abcdeghijklmnoqrstuvyz0123456789()–-"
@@ -419,7 +419,7 @@ data:
     - form: Oroqid
       class: name
       field: Derived words
-      gloss: "camp: the Vylarian fort"
+      gloss: "camp: the Vilérian fort"
       built: [oroqid]
     - form: Qiiso
       class: name
@@ -7393,6 +7393,7 @@ data:
     - {form: jüvük, instead: juvuk, why: "respelled with plain o and u"}
     - {form: zütin, instead: zutin, why: "respelled with plain o and u"}
     - {form: chüris, instead: churis, why: "respelled with plain o and u"}
+    - {form: Khazryn, instead: Khazrin, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7404,7 +7405,7 @@ sohl:
   flags: {"thalorna": {lang_family: Sovidur (isolate)}}
 ---
 
-Sovidur is the tongue of the herding tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]], who call themselves _[[lore-sowidesclt|Sovidur]]_, "the riders", from _sovid_ "rider" and _-ur_ "a people". Each tribe speaks it with its own turns of phrase, and a rider of one tribe is understood in all the others. It is the tongue in which caravan passage is bargained for, so a caravan-master who crosses the Khazryn learns its numbers and its courtesies first. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Sovidur is the tongue of the herding tribes of the [[place-khzryndsrtrgn|Khazrin Desert Region]], who call themselves _[[lore-sowidesclt|Sovidur]]_, "the riders", from _sovid_ "rider" and _-ur_ "a people". Each tribe speaks it with its own turns of phrase, and a rider of one tribe is understood in all the others. It is the tongue in which caravan passage is bargained for, so a caravan-master who crosses the Khazrin learns its numbers and its courtesies first. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## How Sovidur sounds
 
@@ -7464,7 +7465,7 @@ Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of tw
 
 ## Building words
 
-Every Sovidur word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazryn Lexicon]]. The thing described comes first and the word describing it second: _kodu_ "horse" and _uruvaq_ "wind" make _koduyuruvaq_ "horse of the wind".
+Every Sovidur word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazrin Lexicon]]. The thing described comes first and the word describing it second: _kodu_ "horse" and _uruvaq_ "wind" make _koduyuruvaq_ "horse of the wind".
 
 ### Joins
 
@@ -7630,7 +7631,7 @@ Punctuation in the common transcription is editorial guidance for a reader. It f
 
 ## Sovidur Lexicon {#lexicon}
 
-The stems of Sovidur, the names built from them and the register of its names. The rules the three tongues share, and the senses every tongue has a stem for, stand in the [[skill-tellumilng#lexicon|Khazryn Lexicon]].
+The stems of Sovidur, the names built from them and the register of its names. The rules the three tongues share, and the senses every tongue has a stem for, stand in the [[skill-tellumilng#lexicon|Khazrin Lexicon]].
 
 ### Stems
 

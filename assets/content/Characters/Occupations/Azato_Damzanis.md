@@ -412,7 +412,7 @@ For work that skirts what [[affiliation-sekran|The Arcane Inquisition]] (the Sek
 
 ## Background
 
-**The marked child.** Azato showed a gift for number and the study of substances young, and was marked for the Order as every gifted child in Vylaria is. He rose to _marendos_ in the Fisera by his thirties, more slowly and with more quarrels than his gifts alone would explain.
+**The marked child.** Azato showed a gift for number and the study of substances young, and was marked for the Order as every gifted child in Viléria is. He rose to _marendos_ in the Fisera by his thirties, more slowly and with more quarrels than his gifts alone would explain.
 
 **The partner.** He worked for a time with the _marendos_ [[being-hiltheristho|Hiltheris Tholmaris]] on a project neither of them entered in the Order's records. The partnership ended when he published a demolition of her theories as "fundamentally confused about the nature of mineral essence". She died soon after, sixteen years ago, in circumstances never fully cleared, and the Sekran's inquiry touched him at its edge. He moved his laboratory to the rented estate and took the second name soon after.
 
@@ -455,13 +455,13 @@ He has no friends, his apprentices resent his exacting coldness, and his name is
 
 - **[[affiliation-ordoarcanis|Thordimalon]]**: a _marendos_, with a vote in his chapter's council.
 - **[[affiliation-fisera|Fisera]]**: a Master of the Art, with authority over the fellowship's junior alchemists and apprentices at Tirellan.
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a _gulmen_ of the propertied order, by his family's standing.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a _gulmen_ of the propertied order, by his family's standing.
 - **[[affiliation-marendas|Faith of Marendas]]**: one of the lay faithful.
 
 ## Plot Hooks
 
 1. **The old records.** An apprentice of the Epistémion has found references to the project Azato and Hiltheris Tholmaris worked on before their rupture, and asks innocent questions about it. Azato hires a party to find the rest of the records before anyone else does.
-2. **The steel.** The _kurthos_ who funds him has heard that the forging of [[miscgear-vylsteel|Vylarian Steel]] involves an alchemical process the Steel Houses keep as their own, and he wants Azato to learn it. Azato needs a party to bring him samples from a Steel House's bench, which is espionage against the most jealously kept secret in the Empire.
+2. **The steel.** The _kurthos_ who funds him has heard that the forging of [[miscgear-vylsteel|Vilérian Steel]] involves an alchemical process the Steel Houses keep as their own, and he wants Azato to learn it. Azato needs a party to bring him samples from a Steel House's bench, which is espionage against the most jealously kept secret in the Empire.
 3. **The young priest.** Zenothen Gurimandis has begun to train a young priest to take Azato's monthly confessions after him. The young man is warm, idealistic and worried for Azato's soul, and he has begun to visit the estate uninvited. Azato wants him kept away.
 4. **The examination.** An apprentice of Azato's comes before Tholmarar Orthemandis's examination board and is failed on a point of mineral theory that is Azato's, not his. Azato hires a party to learn what else the board asked the boy about his master's work.
 

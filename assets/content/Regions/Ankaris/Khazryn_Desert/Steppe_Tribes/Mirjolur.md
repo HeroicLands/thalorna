@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Mirjolur**, "the herd people", are a [[lore-sowidesclt|Sovidur]] tribe of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], whose grass runs west and north of the dead lake [[place-ewod|Evod]]. They are one of the largest tribes of the sands and the least of one mind, because they are three hordes, each from one of three brothers, and each horde keeps its own wells and its own herds and answers to its own head.
+The **Mirjolur**, "the herd people", are a [[lore-sowidesclt|Sovidur]] tribe of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], whose grass runs west and north of the dead lake [[place-ewod|Evod]]. They are one of the largest tribes of the sands and the least of one mind, because they are three hordes, each from one of three brothers, and each horde keeps its own wells and its own herds and answers to its own head.
 
 ## The Range
 

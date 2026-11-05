@@ -62,7 +62,7 @@ The **Qibudur** hold the eastern grass beyond the [[affiliation-ksrrtrb|Koserur]
 
 ## The Range
 
-The Qibudur graze the grass of the eastern [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], east of [[place-qisomrktcmp|Qiiso]] along the first stretch of [[lore-celestialroad|the Celestial Road]] toward [[place-sowidwell|Sovid]]. The grass runs out a week's march east of the market-camp, where the sand seas close in, and the Qibudur range ends with it.
+The Qibudur graze the grass of the eastern [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazrin]], east of [[place-qisomrktcmp|Qiiso]] along the first stretch of [[lore-celestialroad|the Celestial Road]] toward [[place-sowidwell|Sovid]]. The grass runs out a week's march east of the market-camp, where the sand seas close in, and the Qibudur range ends with it.
 
 Their great well is [Bulach]{.name data-type="place/site"}, "the dust", a stepped shaft of the road that has never gone dry in any year a Qibudur elder can name. It is where the herds winter and where the moot sits. Along the grass they own a string of small springs and seeps, a dozen or more, each marked with the Qibudur brand cut in the stone, and the horse herds move between them by a circuit the foals learn before they are weaned.
 

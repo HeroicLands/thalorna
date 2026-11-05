@@ -55,7 +55,7 @@ On a rise in the southern part of the field stands a squat stone shrine with a d
 ## Who Comes
 
 - **The march companies**, who hold the posts at each end of the bend. They also herd [[affiliation-dunhartrbs|Dunhari]] raiders onto the field when they can, a practice old enough to have a name and disreputable enough to be denied.
-- **Khazryn travelers** from the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]], who leave offerings at the stones for their own dead on the far side of them: cups, knotted cloths and bowls. They leave them at the cleft and along the old stones, and the company men at the eastern post say the Khazryn never stop at the southern stretch.
+- **Khazrin travelers** from the steppe of the [[place-khzryndsrtrgn|Khazrin Desert Region]], who leave offerings at the stones for their own dead on the far side of them: cups, knotted cloths and bowls. They leave them at the cleft and along the old stones, and the company men at the eastern post say the Khazrin never stop at the southern stretch.
 - **Nobody else** who knows what it is.
 
 The drivers at Ashvapada say that a caravan of three wagons belonging to a cloth factor, [Pallivata]{.name data-type="being/npc"}, went onto the field last dry season and nobody came out of it, and that its guide came back alone.
@@ -63,7 +63,7 @@ The drivers at Ashvapada say that a caravan of three wagons belonging to a cloth
 ## Hooks
 
 - **The caravan on the stones.** A company captain is accused at [[place-sandyapur|Sandyapur]] of driving a caravan onto the field at dusk so that the field would leave its goods for him to collect. The witnesses are dead, the drivers who lived are not sane, and the court needs someone to go and see what is lying past the stones.
-- **The orghunoq's dead.** A Khazryn noble house asks leave to bring its own rites to the field for the steppe dead. Settling half the field might quiet it or might wake it. The Bhumipal court must decide whether ending the curse is worth losing its most useful weapon against raiders, and the companies have made their view plain.
+- **The orghunoq's dead.** A Khazrin noble house asks leave to bring its own rites to the field for the steppe dead. Settling half the field might quiet it or might wake it. The Bhumipal court must decide whether ending the curse is worth losing its most useful weapon against raiders, and the companies have made their view plain.
 - **The rider who came back.** A company rider missing past the stones for three nights walks into the post at dawn and will not say where he has been. The dream-readers at Ashvapada want him brought to them before he sleeps.
 
 [[scenario-lastwagonadv|The Last Wagon on the Banner Ground]] gives the first of these as a five-scene adventure.
@@ -83,7 +83,7 @@ The drivers at Ashvapada say that a caravan of three wagons belonging to a cloth
 
 **What crosses.** The hunters are the predators of the unreceived dead, crossing in a form half made of the field: too much of each is the color of the dry ground and the dead grass, and the face is a shape the dark has made out of where a face should be. They come close, take hold and drag a person off into the dark, and they come thickest round anyone who is bleeding. Steel and fire hurt them, and neither hurts them the way it hurts a man. They speak in the voices of people the hearer knows, and of the field's recent dead, calling a name and asking for help; anyone who answers walks to them. In the cleft and among rocks they can hold a person bodily and pull. They will not come through a burning line of grass while it burns, they gather round any pyre lit on the field, and at first light they thin and go. The panic does not go with them. Nobody can say why fire turns them or a pyre draws them, and the hunters are not the captain's: he uses them, as the companies use them against raiders, and he does not understand them.
 
-**The field's own dead.** Marupal's beaten host still runs on the field after dark: men on foot in the dress of an old host, helmets gone, looking back over their shoulders, running for the road. They do not attack. They pass the false line without pausing, stop at the true one, and stand there looking at the road they cannot reach. The Khazryn leave their offerings at the true stones because their own landmarks for the edge are older than the company's work, and so the offerings mark the real line too.
+**The field's own dead.** Marupal's beaten host still runs on the field after dark: men on foot in the dress of an old host, helmets gone, looking back over their shoulders, running for the road. They do not attack. They pass the false line without pausing, stop at the true one, and stand there looking at the road they cannot reach. The Khazrin leave their offerings at the true stones because their own landmarks for the edge are older than the company's work, and so the offerings mark the real line too.
 
 **Pallivata's caravan.** Karasha guided it last dry season, and its lead wagon broke in the gully. Pallivata reached the shrine, read the ring from the roof, scratched what he had learned into the roof beams and left his satchel against the back wall, and went back down for his people. He died in the gully under his own wagon, both hands round a broken spoke he had scratched the same words into: _Stones lie. Not the near ones. Shelter south, past the dead tree. Roof. See the whole ring from roof. Do not answer. They use our voices._ Below them, over and over, _Karasha_. His drivers died at the false line and were counted among the field's dead. The collectors stripped his wagons of everything that could be carried and cut the harness; they did not look under the lead wagon. His body lies there still, dried by a year of sun and wind, with the wreck of his second wagon half buried a few paces on. The satchel in the shrine holds his caravan ledger: the escort fee paid to Kritiraya's company, Karasha's hire entered on the captain's word, and a consignment of cut gems carried for the house of [Sundarka]{.name data-type="being/npc"}, at Pallivata's risk.
 
@@ -97,7 +97,7 @@ He does not know that the southern stones were moved. The court knew that carava
 > [!WARNING]
 > Sundarka is reckless with other people's lives, not a murderer. He walks his caravan onto the field on purpose and keeps the reason to himself, and he did not know where the true edge runs. Keep him ignorant of the false line, or he becomes the racket's partner instead of its hunter.
 
-[Vijesa]{.name data-type="being/npc"} is a young soldier of the company that holds the eastern chain post. He has seen the dead of three caravans found along the southern stretch, and it was his letter that brought the accusation to Sandyapur. The court told him to watch for a merchant named Sundarka and to keep a fire on the road side of the stones on the night his caravan was stranded. He does not know where the true edge runs, only that people die at the southern stones. He has seen the Khazryn offerings at the cleft, and that is where he carries his fire, against his captain's orders.
+[Vijesa]{.name data-type="being/npc"} is a young soldier of the company that holds the eastern chain post. He has seen the dead of three caravans found along the southern stretch, and it was his letter that brought the accusation to Sandyapur. The court told him to watch for a merchant named Sundarka and to keep a fire on the road side of the stones on the night his caravan was stranded. He does not know where the true edge runs, only that people die at the southern stones. He has seen the Khazrin offerings at the cleft, and that is where he carries his fire, against his captain's orders.
 
 **The tellings, weighed.**
 
@@ -107,4 +107,4 @@ He does not know that the southern stones were moved. The court knew that carava
 - **Pallivata's guide came back alone.** True. The guide was Karasha.
 - **The companies herd raiders onto the field.** True, and Kritiraya's racket is the same practice turned on the traffic.
 - **The captain accused at Sandyapur.** True. He is Kritiraya.
-- **The Khazryn never stop at the southern stretch.** True, because their offerings belong at the true edge.
+- **The Khazrin never stop at the southern stretch.** True, because their offerings belong at the true edge.

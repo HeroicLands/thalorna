@@ -5477,7 +5477,7 @@ Varokhi has no writing, so almost nothing of ordinary speech reaches the page at
 
 Varokhi stands closest to [[skill-nordmalng|Nordmal]], with which it shares fundamental vocabulary and much of its basic structure. Speakers with training can achieve mutual intelligibility, though the absence of shared writing systems and the differences in phonetics and grammar create barriers. The linguistic relationship is that of cousins who grew up in different households—recognizably related but with distinct personalities.
 
-The relationship to southern [[lore-pelwarpepl|Pelwar People]] languages ([[skill-vylarilng|Vylari Language]], [[skill-provnzlng|Provenzal Language]], [[skill-tarvenlng|Tarveni Language]], Élavendri) is more distant. Varokhi speakers find these languages overly formal and restrictive; southern speakers find Varokhi difficult to follow due to its phonetic variation and lack of standardization.
+The relationship to southern [[lore-pelwarpepl|Pelwar People]] languages ([[skill-vylarilng|Vilari Language]], [[skill-provnzlng|Provenzal Language]], [[skill-tarvenlng|Tarveni Language]], Élavendri) is more distant. Varokhi speakers find these languages overly formal and restrictive; southern speakers find Varokhi difficult to follow due to its phonetic variation and lack of standardization.
 
 [[skill-elvndrlng|Élavendri]] has had significant influence on Varokhi in borderland regions of western Aelwyth, particularly in vocabulary related to magic, nature, and spiritual matters. Some scholars hypothesize ancient contacts between proto-Varokhi and proto-Élavendri speakers that left linguistic traces.
 

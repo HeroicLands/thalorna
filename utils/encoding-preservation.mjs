@@ -12,6 +12,7 @@ import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics"
 import { pieceGlosses } from "@heroiclands/package-build/engine/word-rows";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
 import { CONTENT_DIR, addressOf, notePath } from "./note-index.mjs";
+import { respellVileria } from "./vileria-sweep.mjs";
 
 // The utility CI checkout explicitly fetches full history for pinned git-show
 // baselines. This is the last published-dependency commit before the migration;
@@ -168,8 +169,14 @@ export function inAmericanSpelling(before) {
     const fromNote = isDeepStrictEqual(YAML.parse(splitFrontmatter(before.raw).yaml), before.fm);
     return { ...before, raw, fm: fromNote ? YAML.parse(splitFrontmatter(raw).yaml) : before.fm };
 }
-/** `text` with every listed British form in its American spelling, keeping initial case. */
+/**
+ * `text` with every listed British form in its American spelling, keeping initial case, and
+ * the Vilérian forms of Viléria's names.
+ */
 export function americanSpelling(text) {
+    return respellVileria(britishToAmerican(text));
+}
+function britishToAmerican(text) {
     const kept = [];
     const keep = (span) => `\u0001${kept.push(span) - 1}\u0001`;
     const { yaml, body } = splitFrontmatter(text);

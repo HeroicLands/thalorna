@@ -1,9 +1,9 @@
 ---
 shortcode: empirdclne
-name: {full: The Decline of the Vylarian Empire, en: [The Losing of the Provinces]}
+name: {full: The Decline of the Vilérian Empire, en: [The Losing of the Provinces]}
 type: lore
 subType: history
-description: "Roughly two hundred years ago the Vylarian Empire's decline began—overextension, corruption, barbarian pressure and the gradual independence of provinces, ending twelve years ago in the loss of Taruzel."
+description: "Roughly two hundred years ago the Vilérian Empire's decline began—overextension, corruption, barbarian pressure and the gradual independence of provinces, ending twelve years ago in the loss of Taruzel."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]
       summary: >-
-        The Vylarian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provénzia and Tarvénia become successor states in all but name, Helionis regains practical independence while keeping formal ties, and twelve years ago Taruzel fought and won a war of independence with Khelathi gold behind it. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.
+        The Vilérian Empire begins losing what it holds—to overextension, internal corruption, barbarian pressure from the north, and the gradual independence of provinces. Provénzia and Tarvénia become successor states in all but name, Helionis regains practical independence while keeping formal ties, and twelve years ago Taruzel fought and won a war of independence with Khelathi gold behind it. The Empire has retreated to its core territories and still claims authority over regions that have long since gone their own way.
       standing: attested
       where:
         locus: [place-midhalnrgn]
@@ -40,7 +40,7 @@ data:
             knowledge: named
           - place: place-aukhelathrgq
             how: >-
-              gold, weapons and naval expertise went west under the fiction of humanitarian commerce, and direct trade now bypasses Vylarian intermediaries entirely
+              gold, weapons and naval expertise went west under the fiction of humanitarian commerce, and direct trade now bypasses Vilérian intermediaries entirely
             knowledge: named
           - place: place-moktur
             how: >-
@@ -100,10 +100,10 @@ The imperial response was effective on land—until
 the [[affiliation-empireakhlth|Empire of Au'Khelathu]], seeing an opportunity to weaken a northern rival, covertly
 supplied the rebels with gold, weapons and military advisors. [[lore-khelathiclt|Khelathi]] gold kept the rebellion solvent
 and Khelathi naval expertise turned a ragtag flotilla into a fighting force; the destruction of a
-Vylarian squadron in [[lore-tamzirbattle|The Battle of Tamzir Shoals]], at [[place-tamzirshoals|Tamzir Shoals]], broke the empire's ability to sustain its eastern
+Vilérian squadron in [[lore-tamzirbattle|The Battle of Tamzir Shoals]], at [[place-tamzirshoals|Tamzir Shoals]], broke the empire's ability to sustain its eastern
 garrisons, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]' independence was recognized within the year.
 
-Today the empire has retreated to its core territories around the [[place-vylariargn|Vylarian peninsula]], though it still
+Today the empire has retreated to its core territories around the [[place-vylariargn|Vilérian peninsula]], though it still
 claims nominal authority over regions that have long since gone their own way. The loss of Taruzel's
 trade revenues has accelerated the fiscal decline, made worse by the explosion of direct
-Taruzelian–Khelathi commerce that now bypasses Vylarian intermediaries entirely.
+Taruzelian–Khelathi commerce that now bypasses Vilérian intermediaries entirely.

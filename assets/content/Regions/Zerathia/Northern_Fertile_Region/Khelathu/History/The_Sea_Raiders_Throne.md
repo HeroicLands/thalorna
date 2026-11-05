@@ -3,7 +3,7 @@ shortcode: searaiders
 name: {full: The Sea-Raiders' Throne, en: [The Malu'Thenoru]}
 type: lore
 subType: history
-description: "In 1960 ST (151 BF) raiders out of the north across the Vylarian Sea landed in the delta, burned the port of Zel-Amqelu and marched on Galezkara; the priesthood crowned their chief and entered their line as the house of Malu'Thenoru, which held the crown for three reigns."
+description: "In 1960 ST (151 BF) raiders out of the north across the Vilérian Sea landed in the delta, burned the port of Zel-Amqelu and marched on Galezkara; the priesthood crowned their chief and entered their line as the house of Malu'Thenoru, which held the crown for three reigns."
 tags: [history, khelathu]
 data:
   culture: khelathiclt
@@ -15,7 +15,7 @@ data:
       depth: region
       sources: [lore-garauu, affiliation-empireakhlth, place-chathuselat]
       summary: >-
-        In 1960 ST raiders from across the Vylarian Sea, out of a northern homeland the Khelathi record does not name, land on the silt-islands of the delta, burn the port of Zel-Amqelu and march up the river on Galezkara. The priesthood crowns their chief under the throne name Gul'el'Retha and enters his line as the house of Malu'Thenoru. The house holds the crown for three reigns and thirty years.
+        In 1960 ST raiders from across the Vilérian Sea, out of a northern homeland the Khelathi record does not name, land on the silt-islands of the delta, burn the port of Zel-Amqelu and march up the river on Galezkara. The priesthood crowns their chief under the throne name Gul'el'Retha and enters his line as the house of Malu'Thenoru. The house holds the crown for three reigns and thirty years.
       standing: attested
       where:
         locus: [place-zelamqelu]
@@ -45,7 +45,7 @@ The Keepers of the King-Lists say of the sea-raiders what they say of every conq
 
 ## The Landing
 
-The raiders came from the north, over the [[place-vylarianse|Vylarian Sea]], in numbers that the delta's watchers counted in ships and not in men. The Khelathi record keeps no name for their country, and the sea-raiders' own name for themselves, if they had one, was not entered. What the record keeps is the place they landed: the silt-islands of [[place-chathuselat|Chathu Selat]], where the river's mouths spread into reed and natron flat.
+The raiders came from the north, over the [[place-vylarianse|Vilérian Sea]], in numbers that the delta's watchers counted in ships and not in men. The Khelathi record keeps no name for their country, and the sea-raiders' own name for themselves, if they had one, was not entered. What the record keeps is the place they landed: the silt-islands of [[place-chathuselat|Chathu Selat]], where the river's mouths spread into reed and natron flat.
 
 The nearest port was [[place-zelamqelu|Zel-Amqelu]], a trading town on one of those islands. They burned it the day they landed. The port was never rebuilt, and its channel shifted soon after (Zel-Amqelu). The Khelathi river fleet of the day was a toll-boat fleet, built to meet traders at the mouths, and it did not meet the raiders.
 

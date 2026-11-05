@@ -22,7 +22,7 @@ The kingdom is a monarchy of old noble houses, and each house works to trace its
 
 Expect courtesy, allusion and a great deal of patience. People leave arrangements open, decline to name a date, and choose words that read two ways, because prophecy is a living institution here and a decision may wait on a half-remembered line. Pressing for a plain answer is a rudeness, and the Colleges' sayings in [[lore-harproomqs|the Questions of the Harp-Room]] name it: [The plain answer to an open thing/is the rudest word a guest can bring.]{.verse} Power casually shown is vulgar; power precisely applied is admired.
 
-The [[affiliation-ordoarcanis|Thordimalon]] holds the [University of Péravel]{.name data-type="affiliation"}, the largest [[affiliation-panepistmm|Epistémion]] campus outside the [[affiliation-vylarinmpr|Vylarian Empire]], and the crown welcomes it warmly inside the walls. An Arcane Order party that asks to go inward is given excellent guides, who show it real country and nothing of consequence. You pay in [[lore-vylrncrncy|Vylarian coin]]: the Solden, the Ardin and the Bit.
+The [[affiliation-ordoarcanis|Thordimalon]] holds the [University of Péravel]{.name data-type="affiliation"}, the largest [[affiliation-panepistmm|Epistémion]] campus outside the [[affiliation-vylarinmpr|Vilérian Empire]], and the crown welcomes it warmly inside the walls. An Arcane Order party that asks to go inward is given excellent guides, who show it real country and nothing of consequence. You pay in [[lore-vylrncrncy|Vilérian coin]]: the Solden, the Ardin and the Bit.
 
 ## What the Kingdom Sings
 
@@ -56,4 +56,4 @@ A noble house hires you to escort its bard to the Elanmere fair, where its claim
 
 ## Glossary
 
-Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Viléria]].

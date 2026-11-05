@@ -22,16 +22,16 @@ data:
     complexion: {sun_kissed: 3, clear: 3, weathered: 2, smooth: 2}
     height: {female: {min: 5' 4", max: 6' 0"}, male: {min: 5' 6", max: 6' 4"}}
 
-# terran_analog: "Southwestern France, the Atlantic coast of Spain and Portugal (vineyards, river-mouth ports, illuminated-manuscript scriptoria and glass work), with cities of marble and aqueduct inherited from the Roman-analog empire. Carries over: city-first loyalty, independent city governments (noble, council or guild), dress and table as the public record of a family's standing. Departs: regional feeling arises only against a Vylarian or a Nordman."
+# terran_analog: "Southwestern France, the Atlantic coast of Spain and Portugal (vineyards, river-mouth ports, illuminated-manuscript scriptoria and glass work), with cities of marble and aqueduct inherited from the Roman-analog empire. Carries over: city-first loyalty, independent city governments (noble, council or guild), dress and table as the public record of a family's standing. Departs: regional feeling arises only against a Vilérian or a Nordman."
 ---
 
-[[affiliation-kngdmprvnz|Provénzia]] is rich, clever, and entirely convinced that being both is a moral achievement. Its cities are marble and aqueduct and amphitheater, half of it inherited from the [[affiliation-vylarinmpr|Vylarian Empire]] and half built since out of trade money. What holds a Provénzian life together is less the crown, which shares the kingdom with a [Council of Peers]{.name data-type="affiliation/governmental"} and with cities of chartered rights, than three things: the city he belongs to, the patron above him and the clients below, and the exhausting and genuinely serious business of being seen to have taste.
+[[affiliation-kngdmprvnz|Provénzia]] is rich, clever, and entirely convinced that being both is a moral achievement. Its cities are marble and aqueduct and amphitheater, half of it inherited from the [[affiliation-vylarinmpr|Vilérian Empire]] and half built since out of trade money. What holds a Provénzian life together is less the crown, which shares the kingdom with a [Council of Peers]{.name data-type="affiliation/governmental"} and with cities of chartered rights, than three things: the city he belongs to, the patron above him and the clients below, and the exhausting and genuinely serious business of being seen to have taste.
 
 ## The City Is the Country
 
 Each city is its own polity with its own character: some are ruled by hereditary nobility, some by elected councils of wealthy citizens, and a few by guilds of merchants or artisans who dispensed with the pretense some generations ago. A city's council is its _kurtema_, and the open square where the city does its business in public is its _rembalis_. Inside the bound of the city, the _tirutrima_, no blade is drawn.
 
-A Provénzian's first loyalty is to his city and it is not close. He names it before his family, defends it against a neighboring city with real heat, and regards the man forty miles up the coast as a foreigner with a funny accent. Regional feeling exists chiefly when a [[lore-vylarianclt|Vylarian]] or one of the [[lore-nordheimnclt|Nordheimn]] appears, at which point it materializes at once and dissolves the moment the threat leaves. On the eastern frontier the same energy takes the form of a family quarrel with the [[lore-tarvenanclt|Tarvenans]], kept below the level of a war.
+A Provénzian's first loyalty is to his city and it is not close. He names it before his family, defends it against a neighboring city with real heat, and regards the man forty miles up the coast as a foreigner with a funny accent. Regional feeling exists chiefly when a [[lore-vylarianclt|Vilérian]] or one of the [[lore-nordheimnclt|Nordheimn]] appears, at which point it materializes at once and dissolves the moment the threat leaves. On the eastern frontier the same energy takes the form of a family quarrel with the [[lore-tarvenanclt|Tarvenans]], kept below the level of a war.
 
 The consequence is obvious and the Provénzians live with it cheerfully: nothing here is ever decided once. Every treaty is provisional, every alliance is a season's arrangement, and a merchant house that cannot read the standing of four cities at a time will not last a generation.
 
@@ -45,7 +45,7 @@ Artists live inside the arrangement and not beside it. A painter, sculptor, play
 
 ## Courtly Love
 
-The tradition of courtly love is an elaborate social code governing romance, patronage and artistic expression, and its influence has spread across the whole [[place-vylarianse|Vylarian Sea]] region. Foreigners consistently make two mistakes about it.
+The tradition of courtly love is an elaborate social code governing romance, patronage and artistic expression, and its influence has spread across the whole [[place-vylarianse|Vilérian Sea]] region. Foreigners consistently make two mistakes about it.
 
 The first is to think it is about love. It is about conduct—the precise management of admiration, obligation, discretion and public regard—and a great deal of it is transacted between people with no romantic interest in one another whatever.
 
@@ -194,7 +194,7 @@ The same habit runs through the frontier of the north. At Bataren, which faces t
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
 : the gods, and the two this region prefers
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the inheritance the marble came from
 
 [[lore-bloodfields|The Blood-fields of Provénzia]]
@@ -210,4 +210,4 @@ The same habit runs through the frontier of the north. At Bataren, which faces t
 
 The full dictionary is in the [[skill-provnzlng#lexicon|Provenzal Language]].
 
-Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Ael, aralwen, en, sil and thal are loanwords from [[lore-elavendriclt#glossary|Élavendre]].
+Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Viléria]]. Ael, aralwen, en, sil and thal are loanwords from [[lore-elavendriclt#glossary|Élavendre]].

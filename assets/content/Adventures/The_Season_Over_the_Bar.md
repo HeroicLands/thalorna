@@ -25,7 +25,7 @@ The rains come ashore off [[place-meghrsmdra|the Southern Sea]] in a few days an
 
 **The commander.** [[being-vjrtnsrntk|Vajratan Sirnataka]], born an Outcaste on the beach at Chendramukhva, has commanded the galleys for twenty years and the fleet for three. The temples have neither confirmed his appointment nor refused it. The [Nine Houses]{.name data-type="affiliation"} have three candidates of their own.
 
-**The Khelathi passage.** The long voyage west to the delta of [[affiliation-empireakhlth|Empire of Au'Khelathu]] is the most valuable passage any Vedyari ship makes: spice, gems, ivory and fine cotton out, grain, linen, papyrus and gold back. What reaches the Vylarian Sea from Vedyara goes through Khelathi hands and at Khelathi rates, and the Vedyari houses have never found a way around it. The Khelathi factors keep a walled street at Chendramukhva with their own well and their own weights.
+**The Khelathi passage.** The long voyage west to the delta of [[affiliation-empireakhlth|Empire of Au'Khelathu]] is the most valuable passage any Vedyari ship makes: spice, gems, ivory and fine cotton out, grain, linen, papyrus and gold back. What reaches the Vilérian Sea from Vedyara goes through Khelathi hands and at Khelathi rates, and the Vedyari houses have never found a way around it. The Khelathi factors keep a walled street at Chendramukhva with their own well and their own weights.
 
 **The first hull of Nilatir.** [[being-priturajasam|Prituraja Samudraya]] owns two coasters outright and has put down the first payment on a deep-water hull in the west-side yards, the first of her size owned in Nilatir. She would carry cloth to the Khelathi ports without Chendrapur's galleys. Her yard bill is drawn on a Collective letter against both coasters.
 

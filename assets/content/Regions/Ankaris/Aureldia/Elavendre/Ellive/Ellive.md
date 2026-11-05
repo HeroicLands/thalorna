@@ -48,7 +48,7 @@ noble houses have competed for four centuries to make picturesque.
 ## The Contest
 
 Éllive is where the kingdom's central argument is conducted. The [[affiliation-ordoarcanis|Thordimalon]] holds the University of Péravel—the largest [[affiliation-panepistmm|Epistémion]] campus
-outside the [[affiliation-vylarinmpr|Vylarian Empire]]—and [[affiliation-bardicolgs|the Bardic Colleges]], [[affiliation-groveconcl|the Grove Council]] and
+outside the [[affiliation-vylarinmpr|Vilérian Empire]]—and [[affiliation-bardicolgs|the Bardic Colleges]], [[affiliation-groveconcl|the Grove Council]] and
 the Áelendan tradition contest its authority over the kingdom's supernatural life. In Éllive that
 contest is polite, institutional and conducted through patronage. Beyond it, it is not.
 

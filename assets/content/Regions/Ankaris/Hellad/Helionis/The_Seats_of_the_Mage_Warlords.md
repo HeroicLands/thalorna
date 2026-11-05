@@ -8,7 +8,7 @@ tags: [ruin, battlefield, hellad]
 data: {demonym: null, lore: [], parents: [helionis], population: null, packFolder: helionis}
 ---
 
-A shepherd above any of the older Helionite cities can point to a tower on the next ridge that no one repairs and no one demolishes. The **Seats of the Mage-Warlords** are those towers and the workshops walled into the hillsides beneath them, the places where the mage-warlords of the war with the [Vylarian Republic]{.name data-type="affiliation/polity"} did the work their cities could not control. They stand in the hills of several cities, and each is a ruin that the city that owns it has agreed to leave alone.
+A shepherd above any of the older Helionite cities can point to a tower on the next ridge that no one repairs and no one demolishes. The **Seats of the Mage-Warlords** are those towers and the workshops walled into the hillsides beneath them, the places where the mage-warlords of the war with the [Vilérian Republic]{.name data-type="affiliation/polity"} did the work their cities could not control. They stand in the hills of several cities, and each is a ruin that the city that owns it has agreed to leave alone.
 
 ## What Stands
 

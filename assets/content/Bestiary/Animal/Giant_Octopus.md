@@ -191,7 +191,7 @@ The water under the boat goes dark, as if a cloud had crossed the sun, and the s
 
 # Dossier {#dossier}
 
-The Giant Octopus is a deep-water octopus with arms that span twenty feet and a body of three hundred pounds, which lives in the cold fjords and off the rocky coasts of the [[place-nrdlndsrgn|Nordlands]], and is reported from the deeps of the [[place-vylarianse|Vylarian Sea]] by sailors who are not always believed. It holds a den and a hunting ground on the sea floor, eats fish, crab, seal and anything else it can hold, and it is clever beyond any other animal of the sea. The sealers and whalers of the fjords know it as a thing that takes a man from a boat and a boat from the water, and they know the dens.
+The Giant Octopus is a deep-water octopus with arms that span twenty feet and a body of three hundred pounds, which lives in the cold fjords and off the rocky coasts of the [[place-nrdlndsrgn|Nordlands]], and is reported from the deeps of the [[place-vylarianse|Vilérian Sea]] by sailors who are not always believed. It holds a den and a hunting ground on the sea floor, eats fish, crab, seal and anything else it can hold, and it is clever beyond any other animal of the sea. The sealers and whalers of the fjords know it as a thing that takes a man from a boat and a boat from the water, and they know the dens.
 
 ## Presentation
 
@@ -199,7 +199,7 @@ A boneless, bag-like body with two large, prominent eyes set at its widest point
 
 ## In the Land
 
-Giant Octopuses den in the rock of the fjord walls below the tide-line and in the broken ground off the headlands, where the water is deep, cold and full of fish and seal. Each holds its den alone and a hunting ground round it, and the sealing crews of [[lore-nrdlndsseal|the ice-edge and the rookeries]] know a den by the heap of cleaned shells and seal bones below it. They are thickest where the seals haul out. In the south they are a sailor's story from the deep channels of the Vylarian Sea, told in the harbors with the usual enlargements and a few true details.
+Giant Octopuses den in the rock of the fjord walls below the tide-line and in the broken ground off the headlands, where the water is deep, cold and full of fish and seal. Each holds its den alone and a hunting ground round it, and the sealing crews of [[lore-nrdlndsseal|the ice-edge and the rookeries]] know a den by the heap of cleaned shells and seal bones below it. They are thickest where the seals haul out. In the south they are a sailor's story from the deep channels of the Vilérian Sea, told in the harbors with the usual enlargements and a few true details.
 
 ## Key Behaviors
 

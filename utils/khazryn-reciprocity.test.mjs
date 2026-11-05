@@ -15,7 +15,7 @@ function place(shortcode, data = {}) {
     return { file: `${shortcode}.md`, shortcode, data };
 }
 
-test("the guard reports a deliberately one-way Khazryn border", () => {
+test("the guard reports a deliberately one-way Khazrin border", () => {
     const findings = checkReciprocalEdges([
         place("khzryndsrtrgn", { borders: [{ to: "outside", bearing: "W" }] }),
         place("outside"),
@@ -38,7 +38,7 @@ test("new zones and their wells enter the scope from their authored parents", ()
     assert.match(findings[0], /newwell\.md.*routes.*outside/);
 });
 
-test("an external note's entry into the Khazryn needs a return", () => {
+test("an external note's entry into the Khazrin needs a return", () => {
     const findings = checkReciprocalEdges([
         place("khzryndsrtrgn"),
         place("outside", { borders: [{ to: "khzryndsrtrgn", bearing: "E" }] }),
@@ -83,7 +83,7 @@ test("reciprocal borders and routes agree on bearing, mode and journey marker", 
     );
 });
 
-test("one-way entries outside the Khazryn stay outside this guard", () => {
+test("one-way entries outside the Khazrin stay outside this guard", () => {
     assert.deepEqual(
         checkReciprocalEdges([
             place("khzryndsrtrgn"),
@@ -141,7 +141,7 @@ test("the command exits red on a one-way source fixture and green after its retu
     }
 });
 
-test("the current source-derived Khazryn borders and routes have returns", () => {
+test("the current source-derived Khazrin borders and routes have returns", () => {
     assert.deepEqual(checkReciprocalEdges(readPlaces()), []);
 });
 

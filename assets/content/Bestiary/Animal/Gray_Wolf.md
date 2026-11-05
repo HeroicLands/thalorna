@@ -222,7 +222,7 @@ A lean, muscular canine, larger than most dogs, built for endurance and speed. T
 
 ## In the Land
 
-Gray wolves run in the forests and open country of Vristwald, the Nordlands, the forest-steppe of Velanthia and the mountains of the Grazian range, and south along the [[place-khzryndsrtrgn|Khazryn]] steppe. A pack of six to twelve keeps a range of a hundred square miles, follows the deer and the stock, and dens each spring in a hollow under a bank. In winter, when the snow lies deep, the pack drives its prey into the open.
+Gray wolves run in the forests and open country of Vristwald, the Nordlands, the forest-steppe of Velanthia and the mountains of the Grazian range, and south along the [[place-khzryndsrtrgn|Khazrin]] steppe. A pack of six to twelve keeps a range of a hundred square miles, follows the deer and the stock, and dens each spring in a hollow under a bank. In winter, when the snow lies deep, the pack drives its prey into the open.
 
 ## Key Behaviors
 

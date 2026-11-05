@@ -17,7 +17,7 @@ data:
 
 A patrol sergeant, reporting to a Mokturan officer over a table in a border post, put the matter plainly. "We cleared it in the autumn. Eleven of them, in the barracks, in the old order of the watch, and they did not run. The captain says that is the end of it. I would not sleep there."
 
-**The Twelfth's Last Camp** is the ruin of a timber-and-stone fort on the Vylarian side of the [[place-kervaron|Kervaron Spine]], below the passes. It is where the rear cohorts of the [Doran Hilvan]{.name data-type="affiliation"} wintered when the legion went up into the range ([[lore-twelfthloss|The Loss of the Twelfth]]). A border patrol has recently cleared it of the undead.
+**The Twelfth's Last Camp** is the ruin of a timber-and-stone fort on the Vilérian side of the [[place-kervaron|Kervaron Spine]], below the passes. It is where the rear cohorts of the [Doran Hilvan]{.name data-type="affiliation"} wintered when the legion went up into the range ([[lore-twelfthloss|The Loss of the Twelfth]]). A border patrol has recently cleared it of the undead.
 
 ## What Is There
 
@@ -27,7 +27,7 @@ The patrol found the dead in the barracks, in the formation of a watch change. T
 
 ## Layers {#history}
 
-The fort was raised on the Vylarian side of the range as the winter camp of the [Doran Hilvan]{.name data-type="affiliation"}'s rear cohorts when the legion went up into the Kervaron about 680 ([[lore-twelfthloss|The Loss of the Twelfth]]). The legion did not come back down, and the camp fell to ruin: its gate burned and its barracks roofs fell. Its eagle was never recovered. This autumn a border patrol cleared the fort of eleven undead legionaries standing a watch change in the barracks.
+The fort was raised on the Vilérian side of the range as the winter camp of the [Doran Hilvan]{.name data-type="affiliation"}'s rear cohorts when the legion went up into the Kervaron about 680 ([[lore-twelfthloss|The Loss of the Twelfth]]). The legion did not come back down, and the camp fell to ruin: its gate burned and its barracks roofs fell. Its eagle was never recovered. This autumn a border patrol cleared the fort of eleven undead legionaries standing a watch change in the barracks.
 
 ## What Is There Now {#present}
 
@@ -51,11 +51,11 @@ The ground is held and nobody has decided what to do with it. A border patrol ho
 [[lore-twelfthloss|The Loss of the Twelfth]]
 : the campaign that ended here
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the Kervaron Spine
 
 [[miscgear-twelftheagle|The Lost Eagle of the Twelfth]]
 : the eagle that may lie here
 
-[[affiliation-vylrnmltry|Vylarian Military]]
+[[affiliation-vylrnmltry|Vilérian Military]]
 : the eagle, and what a legion owes it

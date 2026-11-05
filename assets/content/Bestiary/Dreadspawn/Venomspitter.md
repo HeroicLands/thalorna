@@ -190,7 +190,7 @@ The cistern chamber is cool and damp after the glare outside, and the water in t
 
 # Dossier {#dossier}
 
-The Venomspitter is a dreadspawn built for one thing, which is making and delivering a venom that burns: a long, jointed, serpent-like body eight to twelve feet long, scaled in shifting warning colors, with hollow fangs and a throat that throws a stream of corrosive venom thirty feet. It lies in ambush in warm, damp, enclosed places—rock cisterns, seep-caves and the shaded clefts of the ravines in the stone uplands of the [[place-khzryndsrtrgn|Khazryn]]—and takes what comes to the water. The same shape is reported from the ruins of the [[place-cntrlrnfrsts|Central Rainforests]], as dreadspawn of one pattern often are, and no one has established how many there are or where they began. Like every dreadspawn it was made and cannot breed. It is clever: it chooses its ground, prepares it, and waits.
+The Venomspitter is a dreadspawn built for one thing, which is making and delivering a venom that burns: a long, jointed, serpent-like body eight to twelve feet long, scaled in shifting warning colors, with hollow fangs and a throat that throws a stream of corrosive venom thirty feet. It lies in ambush in warm, damp, enclosed places—rock cisterns, seep-caves and the shaded clefts of the ravines in the stone uplands of the [[place-khzryndsrtrgn|Khazrin]]—and takes what comes to the water. The same shape is reported from the ruins of the [[place-cntrlrnfrsts|Central Rainforests]], as dreadspawn of one pattern often are, and no one has established how many there are or where they began. Like every dreadspawn it was made and cannot breed. It is clever: it chooses its ground, prepares it, and waits.
 
 ## Presentation
 
@@ -198,7 +198,7 @@ The body is long and supple like a serpent's but jointed like a spider's leg, se
 
 ## In the Land
 
-Venomspitters want shade, damp and warmth together. In the Khazryn they are found in the badlands and stone uplands where water lies in rock: the cut cisterns and seep-caves of the [[place-dkrqrrgn|Diqraqor]], the clefts under the mesas where a spring keeps the rock damp, and the cistern-chambers of the old ruins. Each holds a single water and the ground round it, and one that has taken a cistern holds it for years. They do not go out on the sand or into the dry heat of the day, and hard cold sends them into a torpor. A tribe that finds one in a cistern it depends on has lost the cistern until the creature is killed.
+Venomspitters want shade, damp and warmth together. In the Khazrin they are found in the badlands and stone uplands where water lies in rock: the cut cisterns and seep-caves of the [[place-dkrqrrgn|Diqraqor]], the clefts under the mesas where a spring keeps the rock damp, and the cistern-chambers of the old ruins. Each holds a single water and the ground round it, and one that has taken a cistern holds it for years. They do not go out on the sand or into the dry heat of the day, and hard cold sends them into a torpor. A tribe that finds one in a cistern it depends on has lost the cistern until the creature is killed.
 
 ## Key Behaviors
 

@@ -16,13 +16,13 @@ data:
 
 ## Overview
 
-Three marks tell you whose city Elissara is: the master's seal of the potters' guild on a bowl, the blue anchor of the [[affiliation-seamensgld|Seamen's Guild of Elissara]] on a sailor's right arm, and the bronze doors of the chapterhouse of [[affiliation-danvar|the Danvar]]. None of them is the Orzas's. Elissara is a chartered free city of about forty thousand people at the mouth of the [[place-vylarisrvr|River Vylaris]], one of the larger cities of [[place-midhalnrgn|Midhalión]], and it belongs to no province. Its trade guilds govern it as the [[affiliation-tevranaelissium|Tevran of Elissara]], under a charter of the [[affiliation-vylarinmpr|Vylarian Empire]].
+Three marks tell you whose city Elissara is: the master's seal of the potters' guild on a bowl, the blue anchor of the [[affiliation-seamensgld|Seamen's Guild of Elissara]] on a sailor's right arm, and the bronze doors of the chapterhouse of [[affiliation-danvar|the Danvar]]. None of them is the Orzas's. Elissara is a chartered free city of about forty thousand people at the mouth of the [[place-vylarisrvr|River Vylaris]], one of the larger cities of [[place-midhalnrgn|Midhalión]], and it belongs to no province. Its trade guilds govern it as the [[affiliation-tevranaelissium|Tevran of Elissara]], under a charter of the [[affiliation-vylarinmpr|Vilérian Empire]].
 
 A supercargo who has made landfall here more times than he can count briefs a young partner on his first call: "Keep your eyes on the quays. Everything the capital buys over the sea comes in here, and goes up the river on a barge, so half the cargoes you see are not for sale and the other half are spoken for. The men who sail the ships are on the roll of the Seamen's Guild, so you hire by the voyage, from the roll. Behind the quays is the market, and the market is full of pots. A master's seal on a bowl is worth more than the bowl. When you need a draft cashed, the Danvar keep one of their largest chapterhouses here. Say who you are when you walk in, and remember there is no governor to complain to. The guilds are the government."
 
 ## Arriving
 
-Ships come in from the [[place-vylarianse|Vylarian Sea]] past a stone mole with a light at its end and anchor in the [Sea Basin]{.name data-type="place/feature"}, a broad pool where the river's brown water meets the sea's green. The city stands on the low ground behind the basin, inside a brick wall. Its sea entrance is the [Sea Gate]{.name data-type="place/structure"}, a tall double arch on the quay, where the chapter of [[affiliation-twinbldrdr|the Twinblade Order]] keeps its house and its knights stand the threshold beside the guild watch. A traveler from the land side comes by the coast road through the estate country of [[place-salkhalon|Salkalon]] and finds the province ending at a ditch and a toll-house a mile outside the walls, where the city's own clerks take the city's own dues.
+Ships come in from the [[place-vylarianse|Vilérian Sea]] past a stone mole with a light at its end and anchor in the [Sea Basin]{.name data-type="place/feature"}, a broad pool where the river's brown water meets the sea's green. The city stands on the low ground behind the basin, inside a brick wall. Its sea entrance is the [Sea Gate]{.name data-type="place/structure"}, a tall double arch on the quay, where the chapter of [[affiliation-twinbldrdr|the Twinblade Order]] keeps its house and its knights stand the threshold beside the guild watch. A traveler from the land side comes by the coast road through the estate country of [[place-salkhalon|Salkalon]] and finds the province ending at a ditch and a toll-house a mile outside the walls, where the city's own clerks take the city's own dues.
 
 From the Sea Gate the [Long Quay]{.name data-type="place/feature"} runs upstream along the river for half a mile, lined with warehouses, cranes and the halls of the guilds that work it. At its upper end is the [Barge Basin]{.name data-type="place/feature"}, where the river barges lie three deep waiting for their loads. Between the two basins every cargo for the capital is lifted out of a sea ship, carried along the quay or rafted across, and stowed in a barge to go upriver to [[place-orzara|Orzara]]. The quay is loud from dawn to dark with cranes, carts, tally-men calling numbers and gulls.
 
@@ -56,7 +56,7 @@ The Zerazendis Inn, two streets back from the Long Quay, is the inn for traveler
 
 No account dates Elissara's founding or the first grant of its charter, and the city's history is told by its charter's custom: every Orzas seals it anew, and the [[affiliation-tevranaelissium|Tevran of Elissara]] governs under it with no _therkos_ inside the walls. The city's place in the Empire has been the river mouth's. Whatever the capital bought over the sea came up the Vylaris from Elissara's quays, and the city lived on everything else that passed them.
 
-Between about 418 and 425 the Orzas Arzanas founded [[affiliation-tevran|the Tevran Maldor]], the college that charters each of the city's guilds, and made the Tarmeks the central bank of the note system ([[lore-arzanasedict|The Edicts of Arzanas]]); the Danvar, its chartered moneylenders, keep one of their largest chapterhouses beside the Charter Hall. Through the decline that followed, the throne came to pay the dole with borrowed money ([[lore-empirdclne|The Decline of the Vylarian Empire]]), and the customs of Elissara are now among what it borrows against.
+Between about 418 and 425 the Orzas Arzanas founded [[affiliation-tevran|the Tevran Maldor]], the college that charters each of the city's guilds, and made the Tarmeks the central bank of the note system ([[lore-arzanasedict|The Edicts of Arzanas]]); the Danvar, its chartered moneylenders, keep one of their largest chapterhouses beside the Charter Hall. Through the decline that followed, the throne came to pay the dole with borrowed money ([[lore-empirdclne|The Decline of the Vilérian Empire]]), and the customs of Elissara are now among what it borrows against.
 
 ## Hooks {#hooks}
 
@@ -78,10 +78,10 @@ Between about 418 and 425 the Orzas Arzanas founded [[affiliation-tevran|the Tev
 [[place-vylarisrvr|River Vylaris]]
 : the river that carries the capital's supply up from the city
 
-[[place-vylariargn|Vylaria Region]]
+[[place-vylariargn|Viléria Region]]
 : the region the city lies in
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the empire whose Orzas grants the charter
 
 # The Truth of Elissara {#truth .secret}

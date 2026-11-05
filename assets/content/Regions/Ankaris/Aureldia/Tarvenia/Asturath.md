@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Asturath is the land of the [[affiliation-kngdmstrth|Kingdom of Asturath]], the mountainous interior of the [[place-tarvenirgn|Tarvénia Region]] and the home of a million people who have never been ruled from outside. Its ranges stopped the [[affiliation-vylarinmpr|Vylarian Empire]], its plateau city of [[place-lezkora|Lezkora]] is the seat of the High King, and its high valleys send crossbowmen to every war in the west.
+Asturath is the land of the [[affiliation-kngdmstrth|Kingdom of Asturath]], the mountainous interior of the [[place-tarvenirgn|Tarvénia Region]] and the home of a million people who have never been ruled from outside. Its ranges stopped the [[affiliation-vylarinmpr|Vilérian Empire]], its plateau city of [[place-lezkora|Lezkora]] is the seat of the High King, and its high valleys send crossbowmen to every war in the west.
 
 ## Character
 

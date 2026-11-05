@@ -18,7 +18,7 @@ data:
 
 Kelborara is where [[place-hylen|Hilen]]'s bread is counted. The chief grain-market of central Hilen, a town of seven thousand, is built around its granaries and weighing-yards, and the harvest of a hundred estates is gathered there, measured, and sent on toward the capital and the legions.
 
-A weighing-yard clerk tells you he knows the state of the [[affiliation-vylarinmpr|Vylarian Empire]] before [[affiliation-seldan|Seldan]] (the Senate) does. In a good year the town overflows with sacked grain and there is nowhere to stand. In a lean year the granaries are empty, and that is the first warning that the empire's bread is short.
+A weighing-yard clerk tells you he knows the state of the [[affiliation-vylarinmpr|Vilérian Empire]] before [[affiliation-seldan|Seldan]] (the Senate) does. In a good year the town overflows with sacked grain and there is nowhere to stand. In a lean year the granaries are empty, and that is the first warning that the empire's bread is short.
 
 ## Arriving
 
@@ -64,7 +64,7 @@ Kelborara has four carters' inns round the Counting Floor, full and loud in harv
 [[place-hylen|Hilen]]
 : the land whose harvest the town gathers
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
 [[place-aravantia|Aravantara]]

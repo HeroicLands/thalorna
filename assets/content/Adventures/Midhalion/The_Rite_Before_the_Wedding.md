@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-About 401 AF Vylarian legions killed one another in a wheat-field on the Olkassa estate in [[place-hylen|Hilen]]. [[place-olcassafld|The field]] has borne its grain a fortnight early and half again as heavy ever since, and it is farmed in silence for the state granaries that feed the capital. [[affiliation-ganothandis|House Ganothandis]] holds the estate. Its heir, [Zetimas Ganothandis]{.name data-type="being/npc"}, is to marry the daughter of [[being-nthrsmrdvns|Nethoras Mardovanes]], master of the Grain House, and he wants the field settled by the rite of [[affiliation-selmoros|Sélmoros]] before the wedding. The party comes to Hilen on a wedding errand and stays for the rite. The grain of the next three harvests is already sold, and the oath the province's masters swore against civil war rests on the same granaries.
+About 401 AF Vilérian legions killed one another in a wheat-field on the Olkassa estate in [[place-hylen|Hilen]]. [[place-olcassafld|The field]] has borne its grain a fortnight early and half again as heavy ever since, and it is farmed in silence for the state granaries that feed the capital. [[affiliation-ganothandis|House Ganothandis]] holds the estate. Its heir, [Zetimas Ganothandis]{.name data-type="being/npc"}, is to marry the daughter of [[being-nthrsmrdvns|Nethoras Mardovanes]], master of the Grain House, and he wants the field settled by the rite of [[affiliation-selmoros|Sélmoros]] before the wedding. The party comes to Hilen on a wedding errand and stays for the rite. The grain of the next three harvests is already sold, and the oath the province's masters swore against civil war rests on the same granaries.
 
 ## What Is Really Happening {#what-is-really-happening}
 

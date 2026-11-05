@@ -685,4 +685,4 @@ _The players go out singing, the Grukar and the Grukar's son behind them, still 
 ## See Also
 
 - [[place-ashford|Ashford]] · [[place-wyndmarch|the Wyndmarch]] · [[lore-grukaraelwyth|the Grukar of Aelwyth]]
-- [[place-ravenmoor|Ravenmoor]] · [[affiliation-selmoros|the Faith of Sélmoros]] · [[lore-vylrncrncy|Vylarian currency]]
+- [[place-ravenmoor|Ravenmoor]] · [[affiliation-selmoros|the Faith of Sélmoros]] · [[lore-vylrncrncy|Vilérian currency]]

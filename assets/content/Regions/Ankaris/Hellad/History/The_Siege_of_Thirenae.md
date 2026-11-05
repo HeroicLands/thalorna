@@ -61,7 +61,7 @@ data:
         - what the commissioners carried out of the college's rooms, which no inventory the city kept survives to name
 ---
 
-[[place-thyrenae2|Thirenae]]'s walls have a long scar on the western side where a gate was walled up and never reopened. It is the [Commissioners' Gate]{.name data-type="place/structure"}, and it marks where the last free city of [[place-helionis|Helionis]] let the [Vylarian Republic]{.name data-type="affiliation/polity"} in during The Siege of Thirenae.
+[[place-thyrenae2|Thirenae]]'s walls have a long scar on the western side where a gate was walled up and never reopened. It is the [Commissioners' Gate]{.name data-type="place/structure"}, and it marks where the last free city of [[place-helionis|Helionis]] let the [Vilérian Republic]{.name data-type="affiliation/polity"} in during The Siege of Thirenae.
 
 ## The Siege
 

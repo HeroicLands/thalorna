@@ -93,7 +93,7 @@ The halls are fuller than they have been since the outlawing. The Compact's call
 - **The song.** A Compact factor has paid the harbor taverns not to let the halls sing [[lore-paidattheshoals|What Was Paid at the Shoals]] this year, and Razzina asks a party with a singer among it to sing it first.
 
 :::secret {title="What the halls are planning"}
-The Old Hands of the Yamuzel halls, the [[affiliation-freecaptains|Free Captains]] and the harbor veterans mean to rise at the [[lore-fleetreview|Fleet Review]]. Crossbows, boarding pikes and a chest of Vylarian silver, brought from a Sazumun warehouse under a Merchantry seal, lie under the floor of a cooper's shop below Razzina's hall, and she has guessed whose coin paid for them. She has sent the day of the rising to the Besikar halls by Zilmar Ezzinu, whose hall is the one that informs for the Compact. He has not yet passed it on, and his next meeting with the Compact's enforcer falls before the Review.
+The Old Hands of the Yamuzel halls, the [[affiliation-freecaptains|Free Captains]] and the harbor veterans mean to rise at the [[lore-fleetreview|Fleet Review]]. Crossbows, boarding pikes and a chest of Vilérian silver, brought from a Sazumun warehouse under a Merchantry seal, lie under the floor of a cooper's shop below Razzina's hall, and she has guessed whose coin paid for them. She has sent the day of the rising to the Besikar halls by Zilmar Ezzinu, whose hall is the one that informs for the Compact. He has not yet passed it on, and his next meeting with the Compact's enforcer falls before the Review.
 :::
 
 ## See Also

@@ -39,7 +39,7 @@ Kauren Iltheris is a 51-year-old man who stands 5'7" tall and is of medium build
 
 Kauren Iltheris is the senior irregular-war officer of the legion's garrison in [[affiliation-provinclys|the Province of Alessa]], the officer whose riders scout the hill tracks and passes for smugglers, bandits and dissidents. He values competence above everything else. He treats his soldiers as tools, uses them hard, and protects the good ones because good tools are scarce.
 
-He sees the [[affiliation-vylarinmpr|Vylarian Empire]]'s decline clearly and speaks of it as fact rather than heresy, which makes him one of the few officers in the province who can be told the truth. He has said plainly that he will protect [[being-brakshrlns|Brakos Harlanis]] from court-martial as long as Brakos brings him accurate intelligence.
+He sees the [[affiliation-vylarinmpr|Vilérian Empire]]'s decline clearly and speaks of it as fact rather than heresy, which makes him one of the few officers in the province who can be told the truth. He has said plainly that he will protect [[being-brakshrlns|Brakos Harlanis]] from court-martial as long as Brakos brings him accurate intelligence.
 
 ## Background
 
@@ -79,7 +79,7 @@ His contempt for political appointees is obvious, and he makes enemies of people
 
 ### Affiliations
 
-- **[[affiliation-vylrnmltry|The Vylarian Military]]**: a _hundar_ (centurion) of the commoner track, commanding the garrison's irregular riders.
+- **[[affiliation-vylrnmltry|The Vilérian Military]]**: a _hundar_ (centurion) of the commoner track, commanding the garrison's irregular riders.
 - **[[affiliation-provinclys|The Province of Alessa]]**: a citizen by his service.
 
 ## Plot Hooks

@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [affiliation-ordoarcanis]
       summary: >-
-        The surviving masters—a few score, Helionite and Vylarian together—draft their own terms and the Senate takes them, because there is nobody else to ask. The Thordimalon accepts the monopoly and its enforcement, registration of every talent, and war service on demand; in exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as men. The Sekran is constituted in the same instrument and a clause earlier, its first commission to establish what happened at Alessa. The six Zulethalar begin as six sealed workshops rebuilding the burned corpus, one to each current, sealed from each other on the Sekran's order.
+        The surviving masters—a few score, Helionite and Vilérian together—draft their own terms and the Senate takes them, because there is nobody else to ask. The Thordimalon accepts the monopoly and its enforcement, registration of every talent, and war service on demand; in exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as men. The Sekran is constituted in the same instrument and a clause earlier, its first commission to establish what happened at Alessa. The six Zulethalar begin as six sealed workshops rebuilding the burned corpus, one to each current, sealed from each other on the Sekran's order.
       standing: attested
       names:
         - name: the Kandrol
@@ -24,7 +24,7 @@ data:
         reach:
           - place: place-helionis
             how: >-
-              the new body has authority and no right to hold property or teach in its own name outside Vylaria, so it never leaves the Epistémion, and the sign over every chapter house door is the Epistémion's because the legal right to the door is
+              the new body has authority and no right to hold property or teach in its own name outside Viléria, so it never leaves the Epistémion, and the sign over every chapter house door is the Epistémion's because the legal right to the door is
             knowledge: named
           - place: place-midhalnrgn
             how: >-
@@ -70,7 +70,7 @@ terms and the Senate took them.
 _The bargain is [[affiliation-ordoarcanis|Thordimalon]]'s politics for the nearly eight centuries since._ It accepts the duties—the
 monopoly and its enforcement, mandatory registration of every talent, war service on demand—and in
 exchange holds its own property, elects its own head, tries its own members in its own court, and
-answers to the state as a body and never as men. It is a corporation chartered by the [Vylarian Republic]{.name data-type="affiliation/polity"}, which no longer exists, and every Orzas since has inherited a
+answers to the state as a body and never as men. It is a corporation chartered by the [Vilérian Republic]{.name data-type="affiliation/polity"}, which no longer exists, and every Orzas since has inherited a
 privilege he did not grant and cannot withdraw.
 
 _Why it is still a college of the [[affiliation-panepistmm|Epistémion]]._ The Kandrol chartered the Order inside the

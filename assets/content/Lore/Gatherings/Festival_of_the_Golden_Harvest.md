@@ -14,7 +14,7 @@ data: {culture: aureldianclt, packFolder: settinglore}
 
 For three days at the end of summer the shops of the Aureldian trading cities shut, the streets fill with musicians, dancers and acrobats, and the wine is poured at street corners for anyone who holds out a cup. The Festival of the Golden Harvest belongs to [[lore-olveniadty|Ólvenia]], the Bountiful One, and the harvest it celebrates is the one the ships bring home: the cargoes landed, the profits counted and the voyages that paid. Merchants and craftspeople close their doors to keep it, and the [[affiliation-olvenia|Faith of Ólvenia]] holds it as the most openly joyful feast of the Aureldian year.
 
-It falls on the last three days of [Elthezandi]{.name data-type="lore/calendar"}, the gold's month, which is Ólvenia's own, and it ends on the eve of the autumn equinox on 1 Karnavar. The temple year of [[lore-commoncal|the Vylarian Calendar]] runs on the quarter days, so the festival closes the temple's summer. It is the last feast before the autumn sailing grows dangerous.
+It falls on the last three days of [Elthezandi]{.name data-type="lore/calendar"}, the gold's month, which is Ólvenia's own, and it ends on the eve of the autumn equinox on 1 Karnavar. The temple year of [[lore-commoncal|the Vilérian Calendar]] runs on the quarter days, so the festival closes the temple's summer. It is the last feast before the autumn sailing grows dangerous.
 
 ## The Three Days
 
@@ -42,7 +42,7 @@ In the trading cities of the [[place-provenzrgn|Provénzia Region]] the Golden H
 [[lore-olveniadty|Ólvenia]]
 : the Bountiful One
 
-[[lore-commoncal|The Vylarian Calendar]]
+[[lore-commoncal|The Vilérian Calendar]]
 : Elthezandi and the quarter days
 
 [[lore-hullstrongroom|The Dispute of the Hull and the Strongroom]]

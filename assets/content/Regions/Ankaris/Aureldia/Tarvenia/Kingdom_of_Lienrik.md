@@ -122,7 +122,7 @@ The Kingdom of Lienrik holds the land of [[place-leonrik|Lienrik]]. Its rich far
 
 Lienrik has the most conventional feudal structure of any Tarvenan region. Its lords hold their lands from the king, who in turn owes nominal allegiance to the High King of [[affiliation-kingdmtrvn|Tarvénia]]. In practice, Liénriki nobles are among the most politically active in the kingdom—their wealth gives them ambitions that the mountain lords of [[affiliation-kngdmstrth|Asturath]] and the shipmasters of [[affiliation-kngdmglvrn|Galvaren]] cannot easily match. Liénriki lords have contested the High Kingship more often than anyone, and several have worn the crown; the first, [Estaril]{.name data-type="being/npc"}, held it from about 605 AF, while [[place-provenzrgn|Provénzia]] fought its _therkos_ (governor) and the Tarvénian hosts pressed west.
 
-Lienrik bore the brunt of Vylarian occupation during the imperial era ([[lore-lowlandstaken|The Lowlands Taken]]), and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that served as an early-warning system against risings and, once the garrisons were driven out, were turned to face the coast ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The families who keep the towers charge for the light. The occupation left a lasting mark on Liénriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence—all legacies of Vylarian influence.
+Lienrik bore the brunt of Vilérian occupation during the imperial era ([[lore-lowlandstaken|The Lowlands Taken]]), and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that served as an early-warning system against risings and, once the garrisons were driven out, were turned to face the coast ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The families who keep the towers charge for the light. The occupation left a lasting mark on Liénriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence—all legacies of Vilérian influence.
 
 ## The Crown and Its Court
 
@@ -142,7 +142,7 @@ The cities have their own garrisons. [[place-ronetho|Ornetho]] is held for the c
 
 ## Commerce and Currency
 
-Kingdom of Lienrik uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Lienrik is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Lienrik uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Lienrik is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

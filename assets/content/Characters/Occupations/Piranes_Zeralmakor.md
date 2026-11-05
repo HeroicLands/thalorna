@@ -442,7 +442,7 @@ He has none he knows of. Several stewards of absent masters would prefer that th
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Gulmen, of the propertied order from which the empire's officers and great commands are filled.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Gulmen, of the propertied order from which the empire's officers and great commands are filled.
 - **[[affiliation-marendas|Faith of Marendas]]**: one of the lay faithful, the Devran, who keeps the feasts of the god of knowledge without office in the temple.
 
 ## Plot Hooks

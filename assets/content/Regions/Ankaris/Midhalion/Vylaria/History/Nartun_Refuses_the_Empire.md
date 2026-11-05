@@ -27,7 +27,7 @@ data:
         reach:
           - place: place-nartumkngdm
             how: >-
-              the land the priesthood holds keeps no Vylarian magistrate, speaks an archaic dialect of Vylari as a mark of the break, and is ruled by anointed kings
+              the land the priesthood holds keeps no Vilérian magistrate, speaks an archaic dialect of Vilari as a mark of the break, and is ruled by anointed kings
             knowledge: named
           - place: place-orzara
             how: >-
@@ -74,7 +74,7 @@ The Orzas sent legions to bring the city back. They reached Nartun in the autumn
 
 - **The [[affiliation-hlykngdmnrtm|Holy Kingdom]].** An independent theocratic monarchy in the heartland of the Empire, whose king is anointed by the priesthood and has been deposed by it.
 - **Two verdicts.** Nartun calls the Empire a corrupted institution that has strayed, and the Empire calls Nartun a wayward province that will come back. Both are said politely, in the same language.
-- **An archaic dialect.** Nartun's people speak an older form of [[skill-vylarilng|Vylari]] as a mark of the break, and Vylarian envoys learn it before they go.
+- **An archaic dialect.** Nartun's people speak an older form of [[skill-vylarilng|Vilari]] as a mark of the break, and Vilérian envoys learn it before they go.
 - **No Arcane Order.** The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) has no presence in the kingdom, where mages who work answer to the priesthood.
 - **The open temples of the Black Flame.** In Orzara and in the commercial cities of [[place-alyssa|Alessa]], where the [Night of Ashes]{.name data-type="lore/gathering"} is a public festival.
 

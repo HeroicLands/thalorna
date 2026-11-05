@@ -49,7 +49,7 @@ In the ravines of the northern plateau, rock-cut tombs open into the cliffs, [[p
 
 ## See Also
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region
 
 [[place-swoasisbelt|Tellumel]]

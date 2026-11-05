@@ -121,7 +121,7 @@ This is also why the **[[affiliation-dunavarsynod|Synod]]**'s compulsory call at
 
 ## Commerce and Currency
 
-The Jarldom strikes no coin, and where a deal is made in money it is made in the same [[lore-vylrncrncy|Vylarian]]—ethla, ankhra and bit—that the five kingdoms use, because the jarls brought their purses and their habits across the water together. A hall's real wealth is counted the northern way, in cattle, hulls, thralls and the running obligations of [[lore-kinhalcrdt|hall credit]], and a Nordheim kinsman settling a debt at Stormveil is as likely to be paid in barley as in silver. The one difference from home is the island itself: the moneylenders of the southern Aelwythan realms are chartered under [[affiliation-danvar|the Danvar]], so a jarl selling a season's grain south can take Vylarian paper for it when the sum is too large to carry, and turn it into coin before it goes north, where no hall honors it.
+The Jarldom strikes no coin, and where a deal is made in money it is made in the same [[lore-vylrncrncy|Vilérian]]—ethla, ankhra and bit—that the five kingdoms use, because the jarls brought their purses and their habits across the water together. A hall's real wealth is counted the northern way, in cattle, hulls, thralls and the running obligations of [[lore-kinhalcrdt|hall credit]], and a Nordheim kinsman settling a debt at Stormveil is as likely to be paid in barley as in silver. The one difference from home is the island itself: the moneylenders of the southern Aelwythan realms are chartered under [[affiliation-danvar|the Danvar]], so a jarl selling a season's grain south can take Vilérian paper for it when the sum is too large to carry, and turn it into coin before it goes north, where no hall honors it.
 
 ## See Also
 

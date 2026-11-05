@@ -47,7 +47,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 A _kelros_ (guild's council member) newly sent by the coopers to the council of [[place-aelissium|Elissara]] is shown the charter on his first day, in the chest behind the presiding chair, by the clerk who keeps it. "This is why there is no governor in this city. The Orzas grants us our own courts, our own watch and our own dues, and he keeps no soldier and no tax-farmer inside the walls. For that we pay the treasury a fixed sum every spring, we let the capital's grain and the capital's cargoes go up the river without a copper of our dues, and we keep the light at the river mouth burning and the channel deep. Miss the payment, or let the channel silt, and the city belongs to the Province of Salkalon the next morning."
 
-The Tevran of Elissara is the council of the trade guilds of Elissara, and it governs the city as a chartered free city of the [[affiliation-vylarinmpr|Vylarian Empire]], outside the provinces. Nineteen guilds sit on it, each with one seat and one vote: the potters, whose master's seal is worth more than the bowl it marks, the [[affiliation-seamensgld|Seamen's Guild of Elissara]], whose roll every ship in the city hires from, the bargemen, the shipwrights, the ropewalkers, the coopers, the chandlers, the warehousemen and the small craft guilds of the market streets. A man holds the city's citizenship through his guild, and a man who belongs to none is a resident with no vote and no court of his own.
+The Tevran of Elissara is the council of the trade guilds of Elissara, and it governs the city as a chartered free city of the [[affiliation-vylarinmpr|Vilérian Empire]], outside the provinces. Nineteen guilds sit on it, each with one seat and one vote: the potters, whose master's seal is worth more than the bowl it marks, the [[affiliation-seamensgld|Seamen's Guild of Elissara]], whose roll every ship in the city hires from, the bargemen, the shipwrights, the ropewalkers, the coopers, the chandlers, the warehousemen and the small craft guilds of the market streets. A man holds the city's citizenship through his guild, and a man who belongs to none is a resident with no vote and no court of his own.
 
 ## How the City Is Governed
 
@@ -68,14 +68,14 @@ The charter is a _zaktela_ (sealed grant) of the Orzas, which every Orzas seals 
 ## Relations
 
 - **The [[affiliation-provincvld|Province of Salkalon]]** surrounds the city's land on three sides and its advocates hold that the charter is a privilege the province merely tolerates.
-- **The [[affiliation-vylarinmpr|Vylarian Empire]]** draws its sea-borne supply through the city and wants nothing changed that would slow it.
+- **The [[affiliation-vylarinmpr|Vilérian Empire]]** draws its sea-borne supply through the city and wants nothing changed that would slow it.
 - **[[affiliation-tevran|The Tevran Maldor]]** charters each of the city's guilds. Its _therkalen_ (provincial deputy) for Salkalon counts them among his province's guilds, and the council answers his letters by writing over his head to the Tevraks.
 
 ## History {#history}
 
 The council's history is its charter's, and no account gives the year an Orzas first granted it. What the accounts give is the custom: every Orzas seals the charter anew, and in return the city pays its spring sum, passes the capital's cargoes free and keeps the river mouth lit and dredged.
 
-The college that charters each of the council's guilds, [[affiliation-tevran|the Tevran Maldor]], was founded by the Orzas Arzanas between about 418 and 425 to put the guilds of the Empire's conquered cities under one charter ([[lore-arzanasedict|The Edicts of Arzanas]]). In the decline that followed, the throne came to pay the dole with borrowed money ([[lore-empirdclne|The Decline of the Vylarian Empire]]), and the customs of the city's harbor are among what it borrows against.
+The college that charters each of the council's guilds, [[affiliation-tevran|the Tevran Maldor]], was founded by the Orzas Arzanas between about 418 and 425 to put the guilds of the Empire's conquered cities under one charter ([[lore-arzanasedict|The Edicts of Arzanas]]). In the decline that followed, the throne came to pay the dole with borrowed money ([[lore-empirdclne|The Decline of the Vilérian Empire]]), and the customs of the city's harbor are among what it borrows against.
 
 ## Hooks {#hooks}
 

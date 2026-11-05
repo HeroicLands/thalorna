@@ -75,7 +75,7 @@ The bodies
 
 ## The Secret
 
-The sheikhs are not meeting to plan a raid. Word has come down the oasis-belt that a **dovaq** of the [[place-khzryndsrtrgn|Khazryn]] steppe, north of the Descent, is drawing other tribes under his own banner by force. Whether he becomes an orghun is for the GM to decide. The sheikhs know what the last orghunoq did on this road. They are deciding whether to stand with the march, to move their herds west toward the Kingdom's walls, or to bargain with the north before it arrives. A road kept open through the lean season, by Sivanash's offer or the party's, is the evidence that decides most of them for the march.
+The sheikhs are not meeting to plan a raid. Word has come down the oasis-belt that a **dovaq** of the [[place-khzryndsrtrgn|Khazrin]] steppe, north of the Descent, is drawing other tribes under his own banner by force. Whether he becomes an orghun is for the GM to decide. The sheikhs know what the last orghunoq did on this road. They are deciding whether to stand with the march, to move their herds west toward the Kingdom's walls, or to bargain with the north before it arrives. A road kept open through the lean season, by Sivanash's offer or the party's, is the evidence that decides most of them for the march.
 
 Dritapaja has read the same thing in the record. Over the last three seasons the masters going west have brought back one dream far more often than in any run of seasons the record holds: horsemen on the Descent, coming down out of the north, and none from the west. He refused the court because a crown that reads a raid in the record closes the road, and a road closed in a lean season makes the raid it fears.
 

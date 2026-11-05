@@ -33,7 +33,7 @@ data:
 
 This campaign is composed of a series of adventures. Players will be members of the mission, either taking over current characters, replacing them with their own, or as staff for the main mission members.
 
-**Central Mission:** The objective is for the [[affiliation-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[affiliation-tantsouempr|Empire of Tantsou]], located in the eastern [[place-ankrscntnnt|Ankaris Continent]]. Current diplomatic relations with the court in Tantsou are reliant on the [[affiliation-vylarinmpr|Vylarian Empire]] as an intermediary, and the [[affiliation-dunavarsynod|Synod]], which commissions the embassy, is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
+**Central Mission:** The objective is for the [[affiliation-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[affiliation-tantsouempr|Empire of Tantsou]], located in the eastern [[place-ankrscntnnt|Ankaris Continent]]. Current diplomatic relations with the court in Tantsou are reliant on the [[affiliation-vylarinmpr|Vilérian Empire]] as an intermediary, and the [[affiliation-dunavarsynod|Synod]], which commissions the embassy, is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
 
 ## Ambassador’s Party Members
 
@@ -90,7 +90,7 @@ Background
 : Skilled in multiple languages and international customs.
 
 Intrigue
-: Double agent for Vylaria, manipulates Elowir to gather sensitive information. Dominant in his secret relationship, he views Elowir as a useful pawn. Secretly aware of [[being-marricharavrel|Marrik Háravrel]]’s role as Spymaster and dismissive of his abilities, Loris feeds false information to Marrik to suit his own and Vylaria's objectives.
+: Double agent for Viléria, manipulates Elowir to gather sensitive information. Dominant in his secret relationship, he views Elowir as a useful pawn. Secretly aware of [[being-marricharavrel|Marrik Háravrel]]’s role as Spymaster and dismissive of his abilities, Loris feeds false information to Marrik to suit his own and Viléria's objectives.
 
 ### Knights
 
@@ -245,34 +245,34 @@ For instance:
 
 Similarly for all of the other positions, players could choose to be members of the staff. This may be ideal, since they would have much greater latitude for independent actions than the senior members of the party.
 
-## Rival Power: Vylaria
+## Rival Power: Viléria
 
-### Vylarian Opposition
+### Vilérian Opposition
 
-The Vylarian Empire currently serves as the sole intermediary for diplomatic relations between western Ankaris and Tantsou. This monopoly over the eastern diplomatic channel is a source of enormous leverage—Vylaria controls the flow of information, trade agreements, and political access between Dúnavarre and the Tantsou court. An independent Dúnavarren embassy would shatter this monopoly and diminish Vylarian influence in both regions.
+The Vilérian Empire currently serves as the sole intermediary for diplomatic relations between western Ankaris and Tantsou. This monopoly over the eastern diplomatic channel is a source of enormous leverage—Viléria controls the flow of information, trade agreements, and political access between Dúnavarre and the Tantsou court. An independent Dúnavarren embassy would shatter this monopoly and diminish Vilérian influence in both regions.
 
 Motivation
-: Vylaria will do everything in its power to ensure Dúnavarre’s diplomatic mission fails. The empire cannot afford to lose its intermediary position—both the prestige and the material advantages it provides are too valuable for a declining power to surrender willingly.
+: Viléria will do everything in its power to ensure Dúnavarre’s diplomatic mission fails. The empire cannot afford to lose its intermediary position—both the prestige and the material advantages it provides are too valuable for a declining power to surrender willingly.
 
 Methods
-: The [[affiliation-seldan|Seldan]]’s intelligence apparatus has embedded agents within the mission itself. Through espionage, misinformation, and manipulation, Vylaria aims to sabotage the embassy from within while maintaining plausible deniability.
+: The [[affiliation-seldan|Seldan]]’s intelligence apparatus has embedded agents within the mission itself. Through espionage, misinformation, and manipulation, Viléria aims to sabotage the embassy from within while maintaining plausible deniability.
 
 Political Cover
-: Officially, Vylaria has expressed polite support for Dúnavarre’s diplomatic ambitions. In private, the Senate views the mission as a direct threat to imperial interests and has authorized covert operations to ensure its failure.
+: Officially, Viléria has expressed polite support for Dúnavarre’s diplomatic ambitions. In private, the Senate views the mission as a direct threat to imperial interests and has authorized covert operations to ensure its failure.
 
 ### Connection with Loris of Taravel
 
 Role
-: Loris is a Vylarian agent planted within the mission. In exchange for intelligence, he receives monetary rewards and promises of advancement within the Vylarian diplomatic corps.
+: Loris is a Vilérian agent planted within the mission. In exchange for intelligence, he receives monetary rewards and promises of advancement within the Vilérian diplomatic corps.
 
 Mission
-: To gather sensitive information about Dúnavarre’s diplomatic strategies, military capabilities, and any weaknesses that can be exploited by Vylaria to maintain its intermediary monopoly.
+: To gather sensitive information about Dúnavarre’s diplomatic strategies, military capabilities, and any weaknesses that can be exploited by Viléria to maintain its intermediary monopoly.
 
 Manipulation
-: Uses his relationship with Elowir to extract confidential information. Feeds false information to Marrik, whom he dismisses as an ineffective spymaster, to sow confusion and achieve Vylarian objectives.
+: Uses his relationship with Elowir to extract confidential information. Feeds false information to Marrik, whom he dismisses as an ineffective spymaster, to sow confusion and achieve Vilérian objectives.
 
 Ultimate Goal
-: Undermine Dúnavarre’s mission to Tantsou, steering it toward failure or manipulating outcomes favorable to Vylarian interests.
+: Undermine Dúnavarre’s mission to Tantsou, steering it toward failure or manipulating outcomes favorable to Vilérian interests.
 
 ## Adventure 1: The [[miscgear-heartofdhirikri|Heart of Dirikri]]
 

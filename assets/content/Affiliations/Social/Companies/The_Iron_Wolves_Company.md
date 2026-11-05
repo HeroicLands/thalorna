@@ -131,7 +131,7 @@ First-Sergeant [[being-parzheliontr|Parzhelion Trividek]]
 : Filazur's senior field deputy and a Trianthion veteran. Parzhelion was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-ghymrhrptrks|Ghimaráhr Rores]] for his subsequent desertion. Parzhelion keeps an informal standing inquiry running for any rumor of Ghimaráhr's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
 
 First-Sergeant [Ghorigios Aikastos]{.name data-type="being/npc"}
-: the administrative deputy; a former Vylarian quartermaster recruited for his logistics. Universally respected, occasionally feared.
+: the administrative deputy; a former Vilérian quartermaster recruited for his logistics. Universally respected, occasionally feared.
 
 Lieutenant [Áneveze Pédhikot]{.name data-type="being/npc"}
 : commands the company's archery section; the only senior woman in command; widely considered the most tactically gifted officer in the company.
@@ -144,7 +144,7 @@ Operational deployments take the company throughout western Ankaris under whatev
 
 - A two-season campaign in the Provénzian frontier suppressing brigandage on behalf of a coalition of merchant lords.
 - A short, brutal mining strike-breaking operation in a Helionite copper concern.
-- A long-running security contract for a Vylarian provincial _therkos_ (governor) whose name the company will not disclose.
+- A long-running security contract for a Vilérian provincial _therkos_ (governor) whose name the company will not disclose.
 - Standing offers from at least two of the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for direct retainer; the company has, so far, declined.
 
 ## Methods

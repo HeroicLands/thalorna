@@ -3,7 +3,7 @@ shortcode: kptfr
 name: {full: The Kept Fire, en: [The Hall Under the Hill], elav: [Káralson]}
 type: place
 subType: site
-description: "A hall under a hill in the southern Áuldalon forest margin where a Vylarian cohort struck a bargain with its host in the old war and holds the door still; whoever eats at the fire is added to the roll."
+description: "A hall under a hill in the southern Áuldalon forest margin where a Vilérian cohort struck a bargain with its host in the old war and holds the door still; whoever eats at the fire is added to the roll."
 tags: [draft, hill, haunted, ruin]
 data:
   demonym: null
@@ -14,13 +14,13 @@ data:
   culture: elavendriclt
 ---
 
-Where the [[place-auldalon|Áuldalon]] hills climb toward the mountains and the oak gives way to birch, a fold of ground holds a hill with a door in it. The door is fitted stone, cut square in the manner of the Vylarian legions, and behind it a hall is lit by a fire that has burned since the war at [[place-valdun|Valdun]]. The hill-drovers name it **the Kept Fire**, in [[skill-elvndrlng|Élavendri]] _Káralson_, the hearth of a hall. They drive their flocks round it by a half-day's detour and do not say why.
+Where the [[place-auldalon|Áuldalon]] hills climb toward the mountains and the oak gives way to birch, a fold of ground holds a hill with a door in it. The door is fitted stone, cut square in the manner of the Vilérian legions, and behind it a hall is lit by a fire that has burned since the war at [[place-valdun|Valdun]]. The hill-drovers name it **the Kept Fire**, in [[skill-elvndrlng|Élavendri]] _Káralson_, the hearth of a hall. They drive their flocks round it by a half-day's detour and do not say why.
 
 ## The Cohort
 
-When the Vylarian legions came north-west into the hills and the war at Valdun recounted in [[lore-elvtribute|the Tribute of Élavendre]] was fought, a cohort that followed a path at the forest margin was not seen again. The hill levy tells it as a victory of the ground. The cohort's _Lusar_, [Solkimos]{.name data-type="being/npc"}, led it on a winter night into the fold, and found a hall with a lit door.
+When the Vilérian legions came north-west into the hills and the war at Valdun recounted in [[lore-elvtribute|the Tribute of Élavendre]] was fought, a cohort that followed a path at the forest margin was not seen again. The hill levy tells it as a victory of the ground. The cohort's _Lusar_, [Solkimos]{.name data-type="being/npc"}, led it on a winter night into the fold, and found a hall with a lit door.
 
-He did not ask. A Vylarian _Lusar_ with frostbitten men at his back and a legion's name behind him demanded shelter for the Sovereign's soldiers. The one within, whom the [[lore-aelendnppl|Áelendan]] name _[Dáimela]{.name data-type="lore/spirit"}_, the Giver, answered in the manner of its kind: exactly. It gave a hall, a fire and bread. The _Lusar_ swore that his cohort would hold the place against all comers for as long as the Sovereign's name stood, and the Giver took him at his word.
+He did not ask. A Vilérian _Lusar_ with frostbitten men at his back and a legion's name behind him demanded shelter for the Sovereign's soldiers. The one within, whom the [[lore-aelendnppl|Áelendan]] name _[Dáimela]{.name data-type="lore/spirit"}_, the Giver, answered in the manner of its kind: exactly. It gave a hall, a fire and bread. The _Lusar_ swore that his cohort would hold the place against all comers for as long as the Sovereign's name stood, and the Giver took him at his word.
 
 The cohort holds it still. Its men are not dead and not of [[lore-theshadow|the Shadow]]. They are kept: they do not age, they do not sleep, they eat the hall's bread and drink its wine, and they cannot leave. The legion's name still stands.
 
@@ -39,17 +39,17 @@ The _Lusar_ enforces the rule as a soldier does: with courtesy, with force when 
 
 ## Reaching It
 
-The fold lies a day's walk south of the last Áuldalon drove road, where the ponies refuse the hill. The path to the door is stone, set in the Vylarian way, and it is swept. The sentry keeps the approach.
+The fold lies a day's walk south of the last Áuldalon drove road, where the ponies refuse the hill. The path to the door is stone, set in the Vilérian way, and it is swept. The sentry keeps the approach.
 
 ## Hooks
 
 - **The muster-roll.** A clerk of the _felzos_'s house at Péravel wants proof the cohort held, not deserted. It is worth money to a family that carries the cohort's name.
 - **A drover's brother.** A boy followed a lamp into the fold and has been counted at the door for three years.
-- **The banner.** A Vylarian collector pays for a cohort's standard. A Bardic College pays for the lament's last verse.
+- **The banner.** A Vilérian collector pays for a cohort's standard. A Bardic College pays for the lament's last verse.
 
 ## See Also
 
 - [[scenario-drkptfr|The Roll Beneath the Hill]]—a scenario set here
 - [[lore-elvtribute|The Tribute of Élavendre]]—the war the cohort fought in
 - [[place-auldalon|Áuldalon]] · [[place-valdun|Valdun]] · [[place-beravel|Péravel]]
-- [[affiliation-vylarinmpr|Vylarian Empire]] · [[affiliation-bardicolgs|the Bardic Colleges]]
+- [[affiliation-vylarinmpr|Vilérian Empire]] · [[affiliation-bardicolgs|the Bardic Colleges]]

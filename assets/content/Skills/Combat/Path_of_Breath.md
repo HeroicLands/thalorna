@@ -3,7 +3,7 @@ shortcode: pthbrth
 name: {full: Path of Breath}
 type: skill
 subType: combat
-description: "The Vylarian sword discipline that unites physical technique with spiritual discipline; its masters number three."
+description: "The Vilérian sword discipline that unites physical technique with spiritual discipline; its masters number three."
 tags: [vylaria, sword]
 data:
   icon: sohl-none-icon-crossedswords
@@ -21,7 +21,7 @@ sohl:
     impairedByRoles: [core, vital, manipulator, locomotor]
 ---
 
-The **Path of Breath** is a meditative martial discipline of the sword, practiced in the [[affiliation-vylarinmpr|Empire of Vylaria]], that unites physical technique with spiritual discipline. It is a specialization of Melee. Its maneuvers do not give the sword a new way to strike; they change how the swordsman uses the strikes the sword already has.
+The **Path of Breath** is a meditative martial discipline of the sword, practiced in the [[affiliation-vylarinmpr|Empire of Viléria]], that unites physical technique with spiritual discipline. It is a specialization of Melee. Its maneuvers do not give the sword a new way to strike; they change how the swordsman uses the strikes the sword already has.
 
 ## The discipline
 

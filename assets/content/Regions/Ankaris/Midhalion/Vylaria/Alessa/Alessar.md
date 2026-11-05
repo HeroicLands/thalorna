@@ -76,7 +76,7 @@ The best of the inns is the [Two Seals]{.name data-type="place/structure"}, wher
 [[affiliation-provinclys|Province of Alessa]]
 : the province it is the seat of
 
-[[affiliation-vylarinmpr|Vylarian Empire]]
+[[affiliation-vylarinmpr|Vilérian Empire]]
 : the empire the province anchors
 
 [[affiliation-imperialcult|Imperial Cult]]

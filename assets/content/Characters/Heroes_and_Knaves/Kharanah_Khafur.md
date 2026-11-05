@@ -424,7 +424,7 @@ Kharanah stands 5'10" tall with a medium build. She has light olive skin, dark b
 
 ### Early Life
 
-Kharanah was born into the merchant family of [Khafur]{.name data-type="affiliation/lineage"}, whose caravans once traced the major trade routes of the [[place-khzryndsrtrgn|Khazryn Desert]]. Her father, [Farukh Khafur]{.name data-type="being/npc"}, was a trader in spices and rare botanicals, while her mother, [Salira]{.name data-type="being/npc"}, possessed an innate gift for blending and distillation. From childhood, Kharanah spent her days in her mother's workshop, learning to identify hundreds of plant essences by scent alone—a skill that bordered on the mystical. When she came of age, her family expected her to marry into another merchant house to consolidate trade alliances, but Kharanah had other ambitions. She saw in her mother's craft something far greater than commerce: an art form worthy of mastery.
+Kharanah was born into the merchant family of [Khafur]{.name data-type="affiliation/lineage"}, whose caravans once traced the major trade routes of the [[place-khzryndsrtrgn|Khazrin Desert]]. Her father, [Farukh Khafur]{.name data-type="being/npc"}, was a trader in spices and rare botanicals, while her mother, [Salira]{.name data-type="being/npc"}, possessed an innate gift for blending and distillation. From childhood, Kharanah spent her days in her mother's workshop, learning to identify hundreds of plant essences by scent alone—a skill that bordered on the mystical. When she came of age, her family expected her to marry into another merchant house to consolidate trade alliances, but Kharanah had other ambitions. She saw in her mother's craft something far greater than commerce: an art form worthy of mastery.
 
 ### Training and Discovery
 
@@ -432,7 +432,7 @@ At seventeen, Kharanah apprenticed herself to Master [Vasun the Sage]{.name data
 
 ### Current Situation
 
-Now established as one of the finest perfumers in the Khazryn Desert, Kharanah operates her perfumery in a restored building of pale sandstone with gardens cascading down its southern face. She has earned the title "Master" by her thirty-second season of work, though she demurs from using it publicly, preferring the simpler designation of craftsperson. Her commitment to using only materials harvested with restraint and to preserving threatened plant species has made her something of a controversy among competitors who favor cheaper, artificial substitutes. Yet her creations are bought by nobility, merchants, and wise folk across many lands, and her reputation for integrity has only deepened her client base.
+Now established as one of the finest perfumers in the Khazrin Desert, Kharanah operates her perfumery in a restored building of pale sandstone with gardens cascading down its southern face. She has earned the title "Master" by her thirty-second season of work, though she demurs from using it publicly, preferring the simpler designation of craftsperson. Her commitment to using only materials harvested with restraint and to preserving threatened plant species has made her something of a controversy among competitors who favor cheaper, artificial substitutes. Yet her creations are bought by nobility, merchants, and wise folk across many lands, and her reputation for integrity has only deepened her client base.
 
 ## Psyche
 
@@ -516,7 +516,7 @@ Artisans' Guild of Ashkarad
 : A full member and respected voice in matters concerning craft quality and ethical standards.
 
 [The Green Covenant]{.name data-type="affiliation"}
-: A loose informal network of craftspeople and merchants dedicated to harvesting with restraint in the Khazryn Desert.
+: A loose informal network of craftspeople and merchants dedicated to harvesting with restraint in the Khazrin Desert.
 
 Temple of Ahurdaen
 : Regular contributor of liturgical scents and consulted as a crafts-keeper of sacred tradition.
@@ -527,7 +527,7 @@ The Lost Essence
 : A perfumer of the ancient age, **Saint [[being-vurinay|Vurinay]] the Ascendant**, is said to have created a fragrance so perfectly balanced that merely smelling it could induce states of spiritual clarity. Fragments of his formula have surfaced in a crumbling monastery high in the [Kuran Mountains]{.name data-type="place/feature"}, and Kharanah learns that an unscrupulous collector, **Duke [[being-revunaykishn|Revunay]]**, is assembling an expedition to find it. She can let the formula remain lost, or seek it first to see it properly used. The journey will take her far from her shop and into danger—mountains harbor both natural obstacles and those who would kill for such secrets.
 
 The Plague Blooms
-: A mysterious blight spreads through the Khazryn Desert, causing certain rare flowers—sources for three of Kharanah's most precious essences—to wither and die. The blight moves too methodically to be natural, and she suspects sabotage. Investigation leads her to discover that **Makuth** has hired desert nomads to poison her supplier's gardens, hoping to force her out of business. She must deal with tribal politics, prove the sabotage, and find a way to preserve the threatened species before they vanish forever.
+: A mysterious blight spreads through the Khazrin Desert, causing certain rare flowers—sources for three of Kharanah's most precious essences—to wither and die. The blight moves too methodically to be natural, and she suspects sabotage. Investigation leads her to discover that **Makuth** has hired desert nomads to poison her supplier's gardens, hoping to force her out of business. She must deal with tribal politics, prove the sabotage, and find a way to preserve the threatened species before they vanish forever.
 
 The Alchemist's Demand
 : A reclusive alchemist named [Thunus]{.name data-type="being/npc"} approaches Kharanah with an unusual request: she must create a fragrance designed specifically to counteract the scent-based tracking abilities of a creature—either a magical beast or a sentient being is hunting him, and he cannot reveal which. Completing this commission requires her to venture into dangerous territories to gather rare materials and may entangle her in a conflict between forces far greater than merchant houses and guild rivalries.

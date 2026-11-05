@@ -3,7 +3,7 @@ shortcode: pelagora
 name: {full: Pelagora}
 type: affiliation
 subType: polity
-description: "Naval power of the Helionite city-states—citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vylarian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister-cities."
+description: "Naval power of the Helionite city-states—citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vilérian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister-cities."
 data:
   templatePriority: null
   demonym: Pelagoran
@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-"Every man at an oar in this fleet voted for the voyage," says a boatswain on a Pelagoran trierarch's galley, "so nobody gets to complain about the rowing." Pelagora is the naval power of [[place-helionis|Helionis]]: it holds the most important harbors, controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]], and keeps the largest fleet in the region. About 410,000 people live under its assembly, and 40,000 of them in the city of [[place-pelagora2|Pelagora]], whose harbor ranks among the finest natural anchorages in the central sea.
+"Every man at an oar in this fleet voted for the voyage," says a boatswain on a Pelagoran trierarch's galley, "so nobody gets to complain about the rowing." Pelagora is the naval power of [[place-helionis|Helionis]]: it holds the most important harbors, controls the sea lanes of the eastern [[place-vylarianse|Vilérian Sea]], and keeps the largest fleet in the region. About 410,000 people live under its assembly, and 40,000 of them in the city of [[place-pelagora2|Pelagora]], whose harbor ranks among the finest natural anchorages in the central sea.
 
 Patron deity
 : [[lore-ardavondty|Árdavon]], god of order and justice
@@ -98,13 +98,13 @@ The assembly elects the strátimor, who commands the city's forces by land and s
 
 ## The Fleet and the Sea
 
-Pelagoran shipwrights build the fastest galleys on the Vylarian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtntrzlnstts|Taruzelian]] incursions, Vylarian ambitions and the occasional pirate fleet with the same determination each time.
+Pelagoran shipwrights build the fastest galleys on the Vilérian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtntrzlnstts|Taruzelian]] incursions, Vilérian ambitions and the occasional pirate fleet with the same determination each time.
 
 Pelagora is more commercial than scholarly [[affiliation-thyrenae|Thirenae]]. Its merchants are wealthy and influential and its markets are stocked with goods from across the sea. That wealth gives the city a practical leverage that balances the prestige of its scholarly neighbor.
 
 ## The Treaty
 
-In 314 BF, with [[affiliation-theradon|Theradon]] and [[affiliation-korinthea|Korinthea]] fallen, the assembly voted to treat alone, and the strátimor [Dokharos Ársides]{.name data-type="being/npc"} made terms with the [Vylarian Republic]{.name data-type="affiliation/polity"}: Pelagora became its naval ally, kept its fleet, its walls and its overseas daughter-cities, and lent its ships to the blockade of the cities still fighting ([[lore-heladpelagtrty|the Pelagoran Treaty]]). The city boasts that it has never been conquered, and [[affiliation-thyrenae|Thirenae]] dates the rivalry between them to that year.
+In 314 BF, with [[affiliation-theradon|Theradon]] and [[affiliation-korinthea|Korinthea]] fallen, the assembly voted to treat alone, and the strátimor [Dokharos Ársides]{.name data-type="being/npc"} made terms with the [Vilérian Republic]{.name data-type="affiliation/polity"}: Pelagora became its naval ally, kept its fleet, its walls and its overseas daughter-cities, and lent its ships to the blockade of the cities still fighting ([[lore-heladpelagtrty|the Pelagoran Treaty]]). The city boasts that it has never been conquered, and [[affiliation-thyrenae|Thirenae]] dates the rivalry between them to that year.
 
 ## Relations
 
@@ -112,7 +112,7 @@ Pelagora is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]]. Its 
 
 ## Commerce and Currency
 
-Pelagora uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Pelagora uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

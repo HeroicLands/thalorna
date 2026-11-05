@@ -74,7 +74,7 @@ His health is failing, and the province has learned to do without him.
 ### Affiliations
 
 - **[[affiliation-provinclys|The Province of Alessa]]**: its _therkos_.
-- **[[affiliation-vylarinmpr|The Vylarian Empire]]**: a _kurthos_ of an old house.
+- **[[affiliation-vylarinmpr|The Vilérian Empire]]**: a _kurthos_ of an old house.
 
 ## Plot Hooks
 

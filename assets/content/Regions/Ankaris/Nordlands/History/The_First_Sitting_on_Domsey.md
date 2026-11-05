@@ -16,7 +16,7 @@ data:
       depth: region
       sources: [place-hringstead, skill-nordmalng, place-ankrscntnnt, place-vrystwald]
       summary: >-
-        Within one generation the district tings of the five old land-names of the north each acclaim a king: Nordheim first, about 270, under Svalthorv of the Knalthidrok, and Vithgard last. The hall-lords combine against the Vylarian forts in southern Vristwald and for the southern silver trade, and keep the arm-ring in the ting's hand.
+        Within one generation the district tings of the five old land-names of the north each acclaim a king: Nordheim first, about 270, under Svalthorv of the Knalthidrok, and Vithgard last. The hall-lords combine against the Vilérian forts in southern Vristwald and for the southern silver trade, and keep the arm-ring in the ting's hand.
       standing: reconstructed
       names: [{name: the Acclamations, by: affiliation-skaldscrcl}]
       where:
@@ -78,7 +78,7 @@ data:
 
 ## Five Crowns in One Generation
 
-For as long as the halls remember, the fjords had hall-lords and no kings. A district's ting kept its own peace, a gudi witnessed its oaths, and the [[affiliation-skaldscrcl|Skalds' Circle]], sworn at [[place-hringstead|Hringstead]] about a hundred and ten years after the Founding, carried a judgment from one fjord to the next in a skald's memory. What changed, between about 260 and 285 AF, was the south. Vylarian posts stood along the road into southern [[place-vrystwald|Vristwald]], a few weeks' march from the Nordheim fjords, and southern silver was coming north in quantities that made a hall-lord with a fleet a different thing from a hall-lord with a hall. One district after another did what districts do when a danger is larger than a hall: it acclaimed a king and handed him an arm-ring it could take back.
+For as long as the halls remember, the fjords had hall-lords and no kings. A district's ting kept its own peace, a gudi witnessed its oaths, and the [[affiliation-skaldscrcl|Skalds' Circle]], sworn at [[place-hringstead|Hringstead]] about a hundred and ten years after the Founding, carried a judgment from one fjord to the next in a skald's memory. What changed, between about 260 and 285 AF, was the south. Vilérian posts stood along the road into southern [[place-vrystwald|Vristwald]], a few weeks' march from the Nordheim fjords, and southern silver was coming north in quantities that made a hall-lord with a fleet a different thing from a hall-lord with a hall. One district after another did what districts do when a danger is larger than a hall: it acclaimed a king and handed him an arm-ring it could take back.
 
 The ting of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] acclaimed first, about 270, over the hall at [[place-knalthstead|Knalthstead]]: [Svalthorv]{.name data-type="being/npc"}, the name-giver of the [Knalthidrok]{.name data-type="affiliation/lineage"}, the line that still holds the crown. Those of the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kingdmtrgd|Kingdom of Targud]] followed within a dozen years, and that of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] last. Every kingdom's skalds say their own ting was first; the Circle, which keeps all five claims, recites none of them as a judgment.
 

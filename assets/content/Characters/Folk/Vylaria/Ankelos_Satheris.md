@@ -76,7 +76,7 @@ His temper. Even his friends fear it, and a man who loses his temper in the Temp
 
 ### Enemies
 
-- [[being-trzmsbrkrts|Torzemos Brakarates]]: The High Flame-Warden of Vylaria at the [[place-sarkenaelzen|Ashen Temple]], who holds the Black Flame's temples in the Empire and has its accession petition drafted.
+- [[being-trzmsbrkrts|Torzemos Brakarates]]: The High Flame-Warden of Viléria at the [[place-sarkenaelzen|Ashen Temple]], who holds the Black Flame's temples in the Empire and has its accession petition drafted.
 - [[being-myrnklypss|Mirene Kalethos]]: A mendicant priestess and fire-reader of the Black Flame in Alessa. He counts her one of the most dangerous agents the faith has produced, because nobody can arrest a woman for having conversations.
 
 ### Others

@@ -117,9 +117,9 @@ tariffs is a naval problem, and the shipping houses know it.
 
 ## Economy
 
-The harbor is the economy. Kalipsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped, and crushing tariffs on cargo warehoused for longer than a season—the last deliberately punitive, to force capital through the city rather than letting it accumulate. The resulting turnover underwrites the Council's treasury and the city's celebrated insurance syndicates, whose bonds are bought by merchants as far away as [[affiliation-vylarinmpr|Vylaria]].
+The harbor is the economy. Kalipsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped, and crushing tariffs on cargo warehoused for longer than a season—the last deliberately punitive, to force capital through the city rather than letting it accumulate. The resulting turnover underwrites the Council's treasury and the city's celebrated insurance syndicates, whose bonds are bought by merchants as far away as [[affiliation-vylarinmpr|Viléria]].
 
-The island itself produces almost nothing. There is fishing, and there is enough rough grazing on the upper slopes to keep a sparse stock of goats and sheep, and there is a small but valued trade in dyestuffs gathered from shellfish along the rocky southern coast. Agriculture beyond fodder for that livestock is not worth the name—the island is steep, thin-soiled and short of fresh water, and **Kalipsa eats what it buys**. Everything else is brought in—grain from the Élavendri mainland, timber and furs from the Nordlands, fine cloth from Provénzia and the southern [[place-aureldirgn|Aureldian]] courts, metalwork from [[affiliation-orashion|Órashion]], and the luxury goods of the east that trickle north through [[affiliation-byzarianlg|Bizarian]] and [[affiliation-vylarinmpr|Vylarian]] intermediaries.
+The island itself produces almost nothing. There is fishing, and there is enough rough grazing on the upper slopes to keep a sparse stock of goats and sheep, and there is a small but valued trade in dyestuffs gathered from shellfish along the rocky southern coast. Agriculture beyond fodder for that livestock is not worth the name—the island is steep, thin-soiled and short of fresh water, and **Kalipsa eats what it buys**. Everything else is brought in—grain from the Élavendri mainland, timber and furs from the Nordlands, fine cloth from Provénzia and the southern [[place-aureldirgn|Aureldian]] courts, metalwork from [[affiliation-orashion|Órashion]], and the luxury goods of the east that trickle north through [[affiliation-byzarianlg|Bizarian]] and [[affiliation-vylarinmpr|Vilérian]] intermediaries.
 
 ## Government
 
@@ -148,7 +148,7 @@ Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers,
 
 ## Commerce and Currency
 
-Kalipsa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kalipsa is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kalipsa uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kalipsa is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also
 

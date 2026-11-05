@@ -1,9 +1,9 @@
 ---
 shortcode: vylarirpbl
-name: {full: The Establishment of the Vylarian Republic, en: [The Overthrow of the Last King]}
+name: {full: The Establishment of the Vilérian Republic, en: [The Overthrow of the Last King]}
 type: lore
 subType: history
-description: "Around 650 BF patrician families overthrow the last Vylarian king and establish the Republic, which grows from a regional city-state into the dominant power of the Vylarian Sea."
+description: "Around 650 BF patrician families overthrow the last Vilérian king and establish the Republic, which grows from a regional city-state into the dominant power of the Vilérian Sea."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]
       summary: >-
-        Patrician families overthrow the last Vylarian king and establish a Republic governed by a Senate of landed aristocrats. It grows steadily from a regional city-state into the dominant power of the Vylarian Sea, and within two and a half centuries controls significant territory across Midhalión.
+        Patrician families overthrow the last Vilérian king and establish a Republic governed by a Senate of landed aristocrats. It grows steadily from a regional city-state into the dominant power of the Vilérian Sea, and within two and a half centuries controls significant territory across Midhalión.
       standing: attested
       where:
         locus: [place-vylariargn]
@@ -26,22 +26,22 @@ data:
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
-            The Republic was established by patrician families who overthrew the last Vylarian king, and the Senate has governed since.
+            The Republic was established by patrician families who overthrew the last Vilérian king, and the Senate has governed since.
           agrees: full
       unresolved:
-        - the Vylarian monarchy the patricians overthrew, of which nothing is recorded but that it ended
+        - the Vilérian monarchy the patricians overthrew, of which nothing is recorded but that it ended
 ---
 
-The Establishment of the Vylarian Republic came around 650 BF, when patrician families overthrew the last Vylarian king and founded the
-[Vylarian Republic]{.name data-type="affiliation/polity"}. The monarchy they ended is one the record mentions once, to say it was
+The Establishment of the Vilérian Republic came around 650 BF, when patrician families overthrew the last Vilérian king and founded the
+[Vilérian Republic]{.name data-type="affiliation/polity"}. The monarchy they ended is one the record mentions once, to say it was
 ended: we know the decade of the king's fall and nothing else about him.
 
 The patricians put government in the hands of the [[affiliation-seldan|Seldan]], a Senate of landed aristocrats, and the
 Republic grew steadily from a regional city-state into the dominant power of the
-[[place-vylarianse|Vylarian Sea]]. By 400 BF Vylaria held wide territory across [[place-midhalnrgn|Midhalión]] and
+[[place-vylarianse|Vilérian Sea]]. By 400 BF Viléria held wide territory across [[place-midhalnrgn|Midhalión]] and
 was a major economic and political force there. Its courts and its law grew with it, and the legal tradition it
 built is still adopted or adapted by courts across the continent. The era was one of expansion, legal innovation and,
-increasingly, strife at home: as Vylarian power grew, so did the ambitions of individual _kurthoi_ (senators) and successful
+increasingly, strife at home: as Vilérian power grew, so did the ambitions of individual _kurthoi_ (senators) and successful
 generals.
 
 The war that shaped everything after it was [[lore-helionscnq|the conquest of Helionis]], which the Republic began in

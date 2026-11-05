@@ -139,7 +139,7 @@ The cold comes first, so sudden that your breath smokes in the lamplight. Someth
 
 # Dossier {#dossier}
 
-The Grimshadow is a spirit that feeds on fear and despair, met where great terror and suffering happened and were never put to rest: on [[lore-bloodfield|blood-fields]] of the dread kind, which return to those who linger what was felt on them; in the ruins of cities that died badly; and in the dead towns and blood-fields of the [[place-khzryndsrtrgn|Khazryn]]. It is not undead and not a dreadspawn, and it eats no flesh. It hunts the mind. Most who meet one survive in body, and some of them do not sleep again without a lamp. A grimshadow is usually anchored to one place by the suffering that made it, and a few wander, following those who have carried some of that suffering away with them.
+The Grimshadow is a spirit that feeds on fear and despair, met where great terror and suffering happened and were never put to rest: on [[lore-bloodfield|blood-fields]] of the dread kind, which return to those who linger what was felt on them; in the ruins of cities that died badly; and in the dead towns and blood-fields of the [[place-khzryndsrtrgn|Khazrin]]. It is not undead and not a dreadspawn, and it eats no flesh. It hunts the mind. Most who meet one survive in body, and some of them do not sleep again without a lamp. A grimshadow is usually anchored to one place by the suffering that made it, and a few wander, following those who have carried some of that suffering away with them.
 
 ## Presentation
 
@@ -147,7 +147,7 @@ It has no fixed form. It shows as an absence of light more than a presence: a hu
 
 ## In the Land
 
-A grimshadow belongs to the place that made it: a field of slaughter, a city sacked to the last child, a tower where a garrison starved. It walks that ground at night and in dim places by day, and it is strongest where the old terror was worst. The Khazryn's dead cities and blood-fields hold several, and travelers on the road that bends round them speak of shapes in the ruins at dusk and a fear that comes on a camp from nowhere. A wandering grimshadow follows a caravan or a party that has passed through its ground, appears at dusk and goes at dawn, for days.
+A grimshadow belongs to the place that made it: a field of slaughter, a city sacked to the last child, a tower where a garrison starved. It walks that ground at night and in dim places by day, and it is strongest where the old terror was worst. The Khazrin's dead cities and blood-fields hold several, and travelers on the road that bends round them speak of shapes in the ruins at dusk and a fear that comes on a camp from nowhere. A wandering grimshadow follows a caravan or a party that has passed through its ground, appears at dusk and goes at dawn, for days.
 
 ## Key Behaviors
 

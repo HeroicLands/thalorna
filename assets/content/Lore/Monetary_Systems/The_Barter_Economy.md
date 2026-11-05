@@ -11,7 +11,7 @@ tags: [reference, currency, economy, barter]
 
 **The barter economy** is the practice of direct goods-for-goods exchange without monetary intermediary. It is the predominant economic system in much of [[place-worldthlrn|Thalorna]]—the tribal regions, the pastoral steppes, the frontier highlands, and the deep interiors of any region the formal currency systems do not reach. It is also a substantial _secondary_ economy in regions that have currency: most rural commerce in the [[place-aureldirgn|Aureldian kingdoms]], most clan-level exchange in the [[place-nrdlndsrgn|Nordlands]], most market-day transactions in [[lore-bethuanclt|Bethuan]] villages, and a substantial fraction of the daily commerce of every Thalornan polity operates in barter even where coined currency is technically available.
 
-The barter economy is not unsophisticated. Long-established cultures of barter develop precise customary exchange rates (a sheep is worth so many measures of grain at a given season; a fine horse is worth so many bolts of fine cloth; an iron tool is worth so many days of skilled labor), formal protocols for negotiation and dispute resolution, and standardized "money goods"—durable commodities (grain, livestock, fine cloth, certain metals in non-coin form) that store and transport value reliably. A skilled barter merchant in the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]] or the interior of [[place-vrystwald|Vristwald]] is no less commercially capable than a Vylarian moneylender; the medium of exchange is different, the institutional infrastructure is different, but the underlying commerce is just as substantive.
+The barter economy is not unsophisticated. Long-established cultures of barter develop precise customary exchange rates (a sheep is worth so many measures of grain at a given season; a fine horse is worth so many bolts of fine cloth; an iron tool is worth so many days of skilled labor), formal protocols for negotiation and dispute resolution, and standardized "money goods"—durable commodities (grain, livestock, fine cloth, certain metals in non-coin form) that store and transport value reliably. A skilled barter merchant in the steppe of the [[place-khzryndsrtrgn|Khazrin Desert Region]] or the interior of [[place-vrystwald|Vristwald]] is no less commercially capable than a Vilérian moneylender; the medium of exchange is different, the institutional infrastructure is different, but the underlying commerce is just as substantive.
 
 ## Customary Exchange Rates
 
@@ -32,7 +32,7 @@ Typical Thalornan barter equivalences (these vary by region, season, and quality
 | A suit of mail (working condition)              | ~80 measures of grain, equivalent to 16 sheep          |
 | Furs (per pelt, varying by species)             | small fur 1–2 measures; large 5–20; rare/exotic 50+    |
 
-The "measure of grain" is a regional unit—perhaps a half-bushel by Vylarian standards—and varies by polity. Where the polity sits adjacent to a currency economy, the customary rates can usually be converted to local coin (a measure of grain is conventionally worth perhaps 2 Ardin in the Nordlands' Vylarian-coin economy; in the deep Khazryn steppe where coin is rare, the conversion is academic).
+The "measure of grain" is a regional unit—perhaps a half-bushel by Vilérian standards—and varies by polity. Where the polity sits adjacent to a currency economy, the customary rates can usually be converted to local coin (a measure of grain is conventionally worth perhaps 2 Ardin in the Nordlands' Vilérian-coin economy; in the deep Khazrin steppe where coin is rare, the conversion is academic).
 
 ## Common Money-Goods
 
@@ -48,14 +48,14 @@ Across Thalornan barter economies, certain goods recur as the practical _stores 
 - **Honey, beeswax, mead** (across the northern regions). Storable, transportable, durable.
 - **Smoked meat and preserved fish** (in any region with food-preservation traditions).
 
-A trader operating in a deep barter economy carries some mix of these—typically the goods most easily exchanged for what he expects to buy at his destination. A Nordlands fur-merchant traveling between halls carries furs (which work as both money and as ordinary trade goods); a Khazryn caravan-master traveling between tribal camps carries fine cloth and iron tools (both light, both valuable, both unambiguously exchangeable).
+A trader operating in a deep barter economy carries some mix of these—typically the goods most easily exchanged for what he expects to buy at his destination. A Nordlands fur-merchant traveling between halls carries furs (which work as both money and as ordinary trade goods); a Khazrin caravan-master traveling between tribal camps carries fine cloth and iron tools (both light, both valuable, both unambiguously exchangeable).
 
 ## Where Barter Predominates
 
 Barter is the dominant economic system in:
 
-- The **Nordlands** and **Vristwald** for all commerce above coin-carryable amounts (Vylarian coin handles small transactions; barter handles large ones). See [[lore-vylrncrncy|Vylarian Currency]] for the Nordlands' coin-only situation.
-- The **steppe tribes of the Khazryn**, the [[lore-sowidesclt|Sovidur]], outside the few urbanized trading-cities; the tribal interior runs almost entirely on barter and tribal credit.
+- The **Nordlands** and **Vristwald** for all commerce above coin-carryable amounts (Vilérian coin handles small transactions; barter handles large ones). See [[lore-vylrncrncy|Vilérian Currency]] for the Nordlands' coin-only situation.
+- The **steppe tribes of the Khazrin**, the [[lore-sowidesclt|Sovidur]], outside the few urbanized trading-cities; the tribal interior runs almost entirely on barter and tribal credit.
 - The **[[affiliation-dunhartrbs|Dunhara Tribes]]** in their entirety; the pastoral economy has not monetized.
 - The **[[place-sthrnsvnhs|Southern Savannahs]]** including the **[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]**.
 - The **rural hinterlands** of every settled polity (most rural commerce is barter even where coined currency is available in the cities).
@@ -79,14 +79,14 @@ Barter has structural limitations that drive cultures toward currency once the c
 - **Long-distance trade.** Most barter operates within a region; long-distance commerce nearly always requires either currency or a credit system, because the goods can't be reliably carried across the distance.
 - **Time horizon.** Most money-goods have a shelf life (livestock die, grain spoils, even furs degrade) that limits how long value can be held in barter form.
 
-Where these limitations bite hard enough, cultures develop formal currency. Where they don't, barter persists indefinitely—as it has in the Khazryn steppe, the Nordland interior, and the southern savannahs for generations.
+Where these limitations bite hard enough, cultures develop formal currency. Where they don't, barter persists indefinitely—as it has in the Khazrin steppe, the Nordland interior, and the southern savannahs for generations.
 
 ## See Also
 
 [[lore-kinhalcrdt|Kin and Hall Credit]]
 : the credit-system extension of barter customs in clan- and tribal-based polities
 
-[[lore-vylrncrncy|Vylarian Currency]]
+[[lore-vylrncrncy|Vilérian Currency]]
 : the formal currency that operates in the Nordlands without script infrastructure
 
 [[lore-aukhlthcrncy|Au'Khelathu Currency]]

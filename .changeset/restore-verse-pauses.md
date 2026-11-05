@@ -4,7 +4,7 @@
 
 **Languages and scripts**
 
-- Vylari's period marks pauses within sentences as well as at their ends.
+- Vilari's period marks pauses within sentences as well as at their ends.
 
 **Literature and verse**
 

@@ -3,7 +3,7 @@ shortcode: moldunriver
 name: {full: Moldún River}
 type: place
 subType: feature
-description: "The river that bounds the Garskald's hunting grounds to the south, where elk cross and a Vylarian logging camp has begun felling sacred trees."
+description: "The river that bounds the Garskald's hunting grounds to the south, where elk cross and a Vilérian logging camp has begun felling sacred trees."
 tags: [draft]
 data:
   demonym: null
@@ -19,7 +19,7 @@ The Moldún River is the southern bound of the [Garskald]{.name data-type="affil
 
 ## The Logging Camp
 
-The river is also where the forest is under threat. A Vylarian logging operation has set itself up along the Moldún, within sight of the Garskald's southern boundary markers, and its loggers are cutting deep into the forest and felling ancient trees the Varokh hold sacred. The War Chief of the Garskald's village wants them gone and cannot afford a military confrontation with the empire, so the Moldún is where anyone with a quieter answer—sabotage, negotiation, or leverage over the logging company—finds the Garskald willing to listen. The camp stands upstream of [[place-skathhreth|Skathhreth]], the ford where a Vylarian legion was destroyed in 291, and its loggers water their oxen in a blood-field without knowing it.
+The river is also where the forest is under threat. A Vilérian logging operation has set itself up along the Moldún, within sight of the Garskald's southern boundary markers, and its loggers are cutting deep into the forest and felling ancient trees the Varokh hold sacred. The War Chief of the Garskald's village wants them gone and cannot afford a military confrontation with the empire, so the Moldún is where anyone with a quieter answer—sabotage, negotiation, or leverage over the logging company—finds the Garskald willing to listen. The camp stands upstream of [[place-skathhreth|Skathhreth]], the ford where a Vilérian legion was destroyed in 291, and its loggers water their oxen in a blood-field without knowing it.
 
 ## See Also
 

@@ -63,7 +63,7 @@ A tutor of the Order, sitting down with a child whose talent has just been repor
 
 Those two sentences are the Thordimalon (the Arcane Order). It is the dominant arcane guild of the western part of the [[place-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in the [[place-midhalnrgn|Midhalión Region]], and it holds a monopoly on the practice, research and teaching of arcane lore throughout the regions under its authority. Only members of the Order are sanctioned to practice magic; everyone else is subject to investigation, sanction and, if necessary, elimination.
 
-The Order is older than the [[affiliation-vylarinmpr|Vylarian Empire]] it serves. The Vylarian Republic chartered it in 73 BF, and when the Republic became an Empire in Year 1 of the Vylarian reckoning the Order had held its charter for seventy-three years. Outsiders dispute the date of the founding; the Order does not. Its headquarters is the domed chapter house on [Mernel]{.name data-type="place/feature"}, the Scholars' Hill of [[place-orzara|Orzara City]], where the Verdan Maldor sits, and nearly eight centuries after the charter it is still, on paper, the College of Arcane Philosophy within the [[affiliation-panepistmm|Epistémion]]. Both the paper and the history behind it matter, so the rest of this note takes them in order: how the Order came to exist, how it is built, how it enforces its monopoly, and how it stands with the court it serves.
+The Order is older than the [[affiliation-vylarinmpr|Vilérian Empire]] it serves. The Vilérian Republic chartered it in 73 BF, and when the Republic became an Empire in Year 1 of the Vilérian reckoning the Order had held its charter for seventy-three years. Outsiders dispute the date of the founding; the Order does not. Its headquarters is the domed chapter house on [Mernel]{.name data-type="place/feature"}, the Scholars' Hill of [[place-orzara|Orzara City]], where the Verdan Maldor sits, and nearly eight centuries after the charter it is still, on paper, the College of Arcane Philosophy within the [[affiliation-panepistmm|Epistémion]]. Both the paper and the history behind it matter, so the rest of this note takes them in order: how the Order came to exist, how it is built, how it enforces its monopoly, and how it stands with the court it serves.
 
 ## The Age Before the Order
 
@@ -71,9 +71,9 @@ Before the Order, magic was practiced in many forms across western Ankaris, and 
 
 The [[place-helionis|Helionite]] city-states held the most sophisticated scholarship in the west, in every domain of philosophical inquiry and not only the arcane. The Epistémion (the Academy of Knowledge), a federation of scholars covering metaphysics, ethics, logic, natural philosophy, political thought and the arcane arts, had been the crown of Helionite civilization since about 400 BF (see [[lore-panepistfnd|the Founding of the Epistémion]]). Its College of Arcane Philosophy had built a rich body of theory, including the elemental classification and oppositional forces that became the [[affiliation-zemorhodhis|Zemor Hodhis]]. But the Epistémion (the Academy) was an intellectual society, not an enforcement body. It kept its standards through peer reputation and scholarly consensus, and it could not stop an individual mage, or a whole city-state, from turning that knowledge into a weapon.
 
-### The Wars of Vylaria and Helionis
+### The Wars of Viléria and Helionis
 
-The Vylarian Republic, by 400 BF the dominant military and economic power of the [[place-vylarianse|Vylarian Sea]], turned on [[place-helionis|Helionis]] in 335 BF and took the last of the city-states in 312 BF (see [[lore-helionscnq|the Conquest of Helionis]]). The conquest should have been straightforward. The legions were the finest in western Ankaris, and the Helionite poleis were fractured and outmatched in conventional terms. But the city-states had mages, and they used them.
+The Vilérian Republic, by 400 BF the dominant military and economic power of the [[place-vylarianse|Vilérian Sea]], turned on [[place-helionis|Helionis]] in 335 BF and took the last of the city-states in 312 BF (see [[lore-helionscnq|the Conquest of Helionis]]). The conquest should have been straightforward. The legions were the finest in western Ankaris, and the Helionite poleis were fractured and outmatched in conventional terms. But the city-states had mages, and they used them.
 
 The wars were the most devastating magical conflict in western Ankarian history. The city-states loosed sorceries that shattered formations, poisoned the land, called storms and earthquakes, and killed on a scale no conventional weapon could match. Mage-generals became the deciding factor in battle, and some became mage-warlords commanding forces their own city-states could not fully control. The Epistémion had theorized for generations about the ethical limits of arcane power, and it could do nothing to stop its own members from turning their knowledge to war.
 
@@ -93,7 +93,7 @@ The Order was made in stages, across two and a third centuries.
 
 In 312 BF, the year the last Helionite city fell, the Senate reached into the Epistémion, took out the College of Arcane Philosophy, and placed it under a magistracy, the Kandral (the Arcane Magistracy). The Epistémion's own phrase for it is a vivisection. There was no negotiation: the Republic had just used dragons to destroy the mages who took the field against it in western Ankaris, and the Senate had no patience for debate about academic freedom. The Kandral held the conquered Helionite masters—some on the register and lent like the rest, and a few on a roll of their own that was never lent and always guarded—and, in time, every arcanist born inside the Republic, on a register kept by an _usos_ (prefect) who changed with the year's magistracies. It had a register and a garrison and no doctrine, and its registered mages were lent out to whoever the Senate owed.
 
-The Helionite scholars, humbled by the catastrophe their own members had helped cause, supplied the philosophical architecture of what came next: the classification of magic into schools, the idea of structured training through progressive ranks, the conviction that arcane practice could be systematized and controlled. The enforcement was wholly Vylarian: legal authority, military backing, and the memory of the dragons that had ended the war. The institution carries the marks of both parents, the sophistication of one and the iron discipline of the other.
+The Helionite scholars, humbled by the catastrophe their own members had helped cause, supplied the philosophical architecture of what came next: the classification of magic into schools, the idea of structured training through progressive ranks, the conviction that arcane practice could be systematized and controlled. The enforcement was wholly Vilérian: legal authority, military backing, and the memory of the dragons that had ended the war. The institution carries the marks of both parents, the sophistication of one and the iron discipline of the other.
 
 In 75 BF the Senate ordered every registered practitioner in the Republic to bring their working-books to one place in the Alessan country, to be copied into a single register. That was [[lore-recensio|the Therona of Alessa]]. In the fourth month an unchanneled release destroyed the books and killed most of the Republic's senior arcanists. A tract of good Alessan land is bare to this day and is fenced at the Order's charge.
 
@@ -113,9 +113,9 @@ Regulation
 : The Order sets standards for arcane practice, keeps lists of prohibited magics, and controls the trade in arcane materials and texts.
 
 Accountability
-: The Order answers to the state (first the Senate, now the Orzas, as the Vylarians call their emperor), and the state grants it legal authority and institutional protection in return.
+: The Order answers to the state (first the Senate, now the Orzas, as the Vilérians call their emperor), and the state grants it legal authority and institutional protection in return.
 
-Many independent practitioners refused to submit. Some fled beyond Vylarian control and others went underground, and the early decades of the Order ([[lore-huntingyears|The Hunting Years]]) were taken up with bitter campaigns to enforce the monopoly: hunting down renegades, destroying rival traditions, and using the Sekran as the instrument of arcane compliance. The memory of the Helionite wars gave the enforcers their argument: _remember what happened the last time mages were free to do as they pleased._
+Many independent practitioners refused to submit. Some fled beyond Vilérian control and others went underground, and the early decades of the Order ([[lore-huntingyears|The Hunting Years]]) were taken up with bitter campaigns to enforce the monopoly: hunting down renegades, destroying rival traditions, and using the Sekran as the instrument of arcane compliance. The memory of the Helionite wars gave the enforcers their argument: _remember what happened the last time mages were free to do as they pleased._
 
 ### The Dragons
 
@@ -125,7 +125,7 @@ The account that survives in the history notes is different. It holds that the R
 
 Whether the dragons remember what was done, and whether they hold the successors of the Republic to account, are questions the Order would prefer not to hear asked. A scholar who pursues them is discouraged, and in some places endangered.
 
-The Order outlasted the Republic's change into the Empire and helped to bring it about: its support was a large part of what legitimized the first Emperor's seizure of power. The Vylarian reckoning counts from that moment, with Year 1 the founding of the Vylarian Empire and earlier years dated Before the Founding (BF). The Order reckons its own founding from the Kandrol of 73 BF. Scholars outside the Order dispute the date, because the Order's records from the period are incomplete.
+The Order outlasted the Republic's change into the Empire and helped to bring it about: its support was a large part of what legitimized the first Emperor's seizure of power. The Vilérian reckoning counts from that moment, with Year 1 the founding of the Vilérian Empire and earlier years dated Before the Founding (BF). The Order reckons its own founding from the Kandrol of 73 BF. Scholars outside the Order dispute the date, because the Order's records from the period are incomplete.
 
 ## Structure
 
@@ -253,7 +253,7 @@ Anathema
 
 The chapter houses are formally [[affiliation-panepistmm|Epistémion]] institutions, not Order ones, and the distinction is legal as well as cosmetic: the Kandrol chartered the Order inside the Epistémion, and the right to the door belongs to the Epistémion. The sign above the door bears the Epistémion seal. The scholars within teach logic, language, natural philosophy and law alongside arcane subjects, and to ordinary people a chapter house is a house of learning staffed by scholars of every discipline. Most people who deal with one never meet anything overtly magical. The Order controls every chapter house through its hierarchy, and the scholarly face is one of its most effective instruments of influence.
 
-A typical chapter house is a walled compound, sometimes grand and sometimes modest, with libraries, laboratories, lecture halls, workshops, living quarters and extensive archives. The architecture varies by region (austere stone in Vylaria, elegant courtyards in Helionis, fortified compounds in [[affiliation-provncmktr|Moktur]]) and the function is the same everywhere: study, research and quiet power.
+A typical chapter house is a walled compound, sometimes grand and sometimes modest, with libraries, laboratories, lecture halls, workshops, living quarters and extensive archives. The architecture varies by region (austere stone in Viléria, elegant courtyards in Helionis, fortified compounds in [[affiliation-provncmktr|Moktur]]) and the function is the same everywhere: study, research and quiet power.
 
 Four things keep a chapter house running:
 
@@ -285,13 +285,13 @@ The Order keeps regional chapters in every significant city and territory within
 : Present, but under royal oversight. Mages answer to the Provénzian crown as well as to the Order.
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
-: Active and politically constrained. The merchant guilds see the Order as a tool of Vylarian influence and have restricted its activities.
+: Active and politically constrained. The merchant guilds see the Order as a tool of Vilérian influence and have restricted its activities.
 
 [[place-tarvenirgn|Tarvénia Region]]
 : A minimal presence. A handful of chapters in major cities work cautiously in a culture deeply hostile to institutional magic.
 
 [[place-elavendre|Élavendre]]
-: A substantial urban presence centered on the [University of Péravel]{.name data-type="affiliation"}, the largest Epistémion campus outside Vylaria, with several Zulen chapterhouses in residence. The Order has considerable influence in the capital and the larger towns, rivaling or exceeding the [[affiliation-bardicolgs|Bardic Circle]] and [[affiliation-groveconcl|the Grove Council]]. Outside the cities its reach is fiercely contested by traditional institutions and the [[affiliation-alndnwrdns|Áelendan Wardens]], and agents who probe the fae-touched interior do so at real personal risk.
+: A substantial urban presence centered on the [University of Péravel]{.name data-type="affiliation"}, the largest Epistémion campus outside Viléria, with several Zulen chapterhouses in residence. The Order has considerable influence in the capital and the larger towns, rivaling or exceeding the [[affiliation-bardicolgs|Bardic Circle]] and [[affiliation-groveconcl|the Grove Council]]. Outside the cities its reach is fiercely contested by traditional institutions and the [[affiliation-alndnwrdns|Áelendan Wardens]], and agents who probe the fae-touched interior do so at real personal risk.
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the Nordmen kingdoms
 : No presence. The Nordmen have their own velvur traditions and no interest in southern magical bureaucracy.
@@ -309,7 +309,7 @@ The Order has tried to extend its influence across the rest of Thalorna with mix
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : The Order is all but forbidden. Its members are confined to diplomatic enclaves, essentially embassy compounds, and are forbidden on pain of death to practice magic outside the walls. Tantsou's own arcane traditions are sophisticated and ancient, and the imperial court sees the Order as a foreign intelligence service in scholarly robes. The Order keeps its enclaves mainly to gather intelligence and as a token of diplomatic presence.
 
-[[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]]
+[[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : A minimal presence. The desert peoples have their own traditions and no central authority for the Order to negotiate with. Individual agents sometimes travel the caravan routes at their own risk.
 
 [[place-vedyarargn|Vedyara Region]]
@@ -325,7 +325,7 @@ The Order has tried to extend its influence across the rest of Thalorna with mix
 
 The Sekran, the Arcane Inquisition, is the Order's enforcement arm, the division that makes sure no one practices magic outside the Order's authority. Its members, the **sekeroi**, are investigators, hunters and, when necessary, executioners. The Kandrol constituted it a clause before the Order itself, and its first commission, to establish what happened at Alessa and who did it, has never been closed.
 
-A _sekeros_'s notary, writing up a search for the chapter's file, explains how the work is meant to look: "The _sekeros_ (inquirer) can compel testimony, search property, seize arcane materials and detain a suspect. In Vylaria that rests on imperial law, and I cite the statute. Further out we rest on the _sekeros_'s own standing, on frightening people, and on hired hands, and I cite nothing, because there is nothing to cite. What goes in the file is the outcome, and the best outcome is the quietest one: a name on the register."
+A _sekeros_'s notary, writing up a search for the chapter's file, explains how the work is meant to look: "The _sekeros_ (inquirer) can compel testimony, search property, seize arcane materials and detain a suspect. In Viléria that rests on imperial law, and I cite the statute. Further out we rest on the _sekeros_'s own standing, on frightening people, and on hired hands, and I cite nothing, because there is nothing to cite. What goes in the file is the outcome, and the best outcome is the quietest one: a name on the register."
 
 ### Methods
 
@@ -348,9 +348,9 @@ Elimination
 
 ### Reputation
 
-The Sekran is feared, respected and resented in roughly equal measure. In Vylaria and its core territories the _sekeroi_ (inquirers) are seen as a necessary protection against the chaos unregulated magic would bring, and official history keeps the age before the Order alive as a cautionary tale. Further from the center of Order power the _sekeroi_ are often seen as Vylarian enforcers imposing foreign authority, and their investigations can provoke as much resistance as cooperation.
+The Sekran is feared, respected and resented in roughly equal measure. In Viléria and its core territories the _sekeroi_ (inquirers) are seen as a necessary protection against the chaos unregulated magic would bring, and official history keeps the age before the Order alive as a cautionary tale. Further from the center of Order power the _sekeroi_ are often seen as Vilérian enforcers imposing foreign authority, and their investigations can provoke as much resistance as cooperation.
 
-The Sekran also runs its own network of agents, informants and sympathizers across western Ankaris, who report signs of unsanctioned magic. The network overlaps with the Vylarian Empire's own intelligence apparatus without being part of it, and the two cooperate while each guards its sources and methods.
+The Sekran also runs its own network of agents, informants and sympathizers across western Ankaris, who report signs of unsanctioned magic. The network overlaps with the Vilérian Empire's own intelligence apparatus without being part of it, and the two cooperate while each guards its sources and methods.
 
 ## Character
 
@@ -360,15 +360,15 @@ Once the Order decides and sets itself in motion, it is a juggernaut, patient an
 
 The conservatism is the Order's greatest strength and its greatest weakness. Deep institutional memory and a cautious approach have carried it through wars, dynastic changes and the rise and fall of nations. The same conservatism makes it slow to adapt to new magical discoveries, new political realities and new threats.
 
-The shrewdest minds within the Order have begun to see, though they would never say it aloud, that the Order may outlast the Empire that created it. Its chapters, colleges and practitioners span borders the legions can no longer defend. Its authority rests on more than imperial decree: on the universal need for magical services and the universal fear of magical chaos. Kings, princes and guild-masters who would never bow to a Vylarian emperor still send their talented children to Order academies, call on Order mages to ward their castles, and accept Order arbitration in arcane disputes. The institution has outgrown its patron.
+The shrewdest minds within the Order have begun to see, though they would never say it aloud, that the Order may outlast the Empire that created it. Its chapters, colleges and practitioners span borders the legions can no longer defend. Its authority rests on more than imperial decree: on the universal need for magical services and the universal fear of magical chaos. Kings, princes and guild-masters who would never bow to a Vilérian emperor still send their talented children to Order academies, call on Order mages to ward their castles, and accept Order arbitration in arcane disputes. The institution has outgrown its patron.
 
-## Relationship with the Vylarian Court
+## Relationship with the Vilérian Court
 
-The Order and the [[affiliation-vylarinmpr|Vylarian]] state have been intertwined since the Order's founding. Each needs the other, uses the other and does not entirely trust the other.
+The Order and the [[affiliation-vylarinmpr|Vilérian]] state have been intertwined since the Order's founding. Each needs the other, uses the other and does not entirely trust the other.
 
 ### The Order as Imperial Instrument
 
-The Order is enormously valuable to the Empire, and the court knows it. Through the Order, Vylaria projects power across northwestern Ankaris, even where the legions have no presence and the Orzas's writ has no legal force. A ruler under Order sanction can be crippled: court mages withdrawn, magical defenses stripped, arcane services cut off. The threat of censure is a diplomatic weapon the Empire uses with precision, and more than one foreign prince has found that defying Vylarian interests means losing the most powerful magical institution on the continent.
+The Order is enormously valuable to the Empire, and the court knows it. Through the Order, Viléria projects power across northwestern Ankaris, even where the legions have no presence and the Orzas's writ has no legal force. A ruler under Order sanction can be crippled: court mages withdrawn, magical defenses stripped, arcane services cut off. The threat of censure is a diplomatic weapon the Empire uses with precision, and more than one foreign prince has found that defying Vilérian interests means losing the most powerful magical institution on the continent.
 
 The Order supplies battlefield magic, intelligence through divination and arcane defenses for critical installations. It also lends credibility. Its endorsement legitimizes a ruler or a policy, and its disapproval can destabilize either. In return the Empire grants it legal authority, institutional protection, tax exemptions, and the political and military muscle to enforce the monopoly where the Order's own power is insufficient.
 
@@ -380,11 +380,11 @@ The Order is not naive about this. Senior _sekeroi_ and imperial spymasters watc
 
 ### The Decline Problem, and the Opportunity
 
-The Empire's decline has strained the arrangement to its limits. As the Empire weakens, the Order's ability to project power through imperial channels shrinks. Former provinces such as [[place-provenzrgn|Provénzia Region]], [[place-tarvenirgn|Tarvénia Region]] and [[affiliation-cnfdrtntrzlnstts|Taruzel]] no longer accept Vylarian authority, and the Order's chapters there must negotiate their own terms with local powers.
+The Empire's decline has strained the arrangement to its limits. As the Empire weakens, the Order's ability to project power through imperial channels shrinks. Former provinces such as [[place-provenzrgn|Provénzia Region]], [[place-tarvenirgn|Tarvénia Region]] and [[affiliation-cnfdrtntrzlnstts|Taruzel]] no longer accept Vilérian authority, and the Order's chapters there must negotiate their own terms with local powers.
 
-For some factions within the Order this is also an opportunity. The decline forces the Order to build direct relationships with the successor states, relationships that no longer pass through the Vylarian court. In Provénzia the Order works under royal oversight, and the Provénzian crown has come to depend on its services. In Taruzel the merchant guilds restrict the Order and also hire its mages. Even in Tarvénia, where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Order academies rather than leave the talent untrained.
+For some factions within the Order this is also an opportunity. The decline forces the Order to build direct relationships with the successor states, relationships that no longer pass through the Vilérian court. In Provénzia the Order works under royal oversight, and the Provénzian crown has come to depend on its services. In Taruzel the merchant guilds restrict the Order and also hire its mages. Even in Tarvénia, where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Order academies rather than leave the talent untrained.
 
-The Order is becoming a cross-realm institution whose authority derives from no single state but from its monopoly on essential services. The Vylarian reckoning still counts from the founding of the Empire in lands that no longer obey the Orzas, and in the same way the Order's standards, training, certifications and prohibitions are becoming the shared framework of arcane practice across western Ankaris, a framework that will outlast the Vylarian throne.
+The Order is becoming a cross-realm institution whose authority derives from no single state but from its monopoly on essential services. The Vilérian reckoning still counts from the founding of the Empire in lands that no longer obey the Orzas, and in the same way the Order's standards, training, certifications and prohibitions are becoming the shared framework of arcane practice across western Ankaris, a framework that will outlast the Vilérian throne.
 
 The Order argues the point internally. Traditionalists hold to the imperial relationship, fearing that without military backing the Order would face challenges it could not survive. Reformers argue that it should cultivate its role as a pan-continental institution, the one organization every kingdom needs and none can replace. The most ambitious of them talk of a future in which the Order shapes the political order itself, crowning and uncrowning rulers by granting or withdrawing arcane sanction. The debate is among the most consequential in western Ankaris, and it is unresolved.
 
@@ -392,10 +392,10 @@ The Order argues the point internally. Traditionalists hold to the imperial rela
 
 The Order's pursuit of the fugitive siblings aboard [[affiliation-thetamzir|the Tamzir]] shows the Order's methods at their most relentless. The sister, a damaged arcane prodigy, was the subject of Order experimentation. Her escape is a security breach, because she knows things the Order would prefer to keep secret, and an affront to its authority, because she is an extremely powerful unsanctioned practitioner beyond its control.
 
-The Order hunts the siblings through its preferred channels: Vylarian imperial agents, [[affiliation-auricompct|guild]] contacts in Taruzelian ports, Sekran investigators and hired bounty hunters. Its approach is patient and methodical. It does not need to catch the Tamzir today; it needs only to make sure the crew can never stop running.
+The Order hunts the siblings through its preferred channels: Vilérian imperial agents, [[affiliation-auricompct|guild]] contacts in Taruzelian ports, Sekran investigators and hired bounty hunters. Its approach is patient and methodical. It does not need to catch the Tamzir today; it needs only to make sure the crew can never stop running.
 
 ## The Present Quarrel {#present}
 
 The Order's quarrel is with itself, and the Empire's weakness feeds it. Its Traditionalists hold to the imperial tie. Its Reformers would make the Order the one institution every crown needs and none can replace, and the most ambitious of them talk of crowning and uncrowning rulers by granting or withdrawing arcane sanction. The succession sharpens the argument. The Order keeps the [[place-magngndorery|Grand Orrery]], the lamps and the wards that show an eternal throne to envoys whose masters lend to it, and its Reformers say it spends its masters' best secrets on a show for a throne that cannot pay its soldiers without borrowing. The Reformist seat at the strongroom audit of [[affiliation-tarmex|the Tarmeks]] asks each spring to read the Orrery's line of the accounts, and the Imperial _Tarkelos_ and the Order each answer that it is the other's to disclose.
 
-Abroad the chapters bargain for themselves. In Taruzel the [[affiliation-auricompct|Auric Compact]] wants the Order expelled from the islands as Vylaria's instrument, the [[affiliation-mrchntryvl|Merchantry of the Veil]] hires its mages, and the admirals of the [[affiliation-corsairleg|Corsair League]] want its battle-magic aboard their flagships. In Orzara the Order takes no side in [[affiliation-blackflame|the Black Flame]]'s quarrel with the Temple of the Twelve and says so whenever it is asked, and the Sekran still hunts [[being-cibelasrnt|Kivella Serenthis]] aboard the Tamzir.
+Abroad the chapters bargain for themselves. In Taruzel the [[affiliation-auricompct|Auric Compact]] wants the Order expelled from the islands as Viléria's instrument, the [[affiliation-mrchntryvl|Merchantry of the Veil]] hires its mages, and the admirals of the [[affiliation-corsairleg|Corsair League]] want its battle-magic aboard their flagships. In Orzara the Order takes no side in [[affiliation-blackflame|the Black Flame]]'s quarrel with the Temple of the Twelve and says so whenever it is asked, and the Sekran still hunts [[being-cibelasrnt|Kivella Serenthis]] aboard the Tamzir.

@@ -209,4 +209,4 @@ The sin is what the Circle did with it. Twice the Circle was petitioned to act a
 
 The full dictionary is in the [[skill-dunharlng#lexicon|Dunhari Language]].
 
-Ardin is a loanword from the [[lore-vylarianclt#glossary|Vylarian]] culture, and gezan from the [[lore-khelathiclt#glossary|Khelathi]] culture.
+Ardin is a loanword from the [[lore-vylarianclt#glossary|Vilérian]] culture, and gezan from the [[lore-khelathiclt#glossary|Khelathi]] culture.

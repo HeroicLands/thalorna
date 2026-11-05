@@ -34,7 +34,7 @@ Men of Aravantara, citizens and residents both, for the dead man would have wish
 
 ### The Founder
 
-The first mask behind me is the founder of the line. He was a farmer of the [Vylarian Republic]{.name data-type="affiliation/polity"}'s time who held land on the river in the years when the city on the hills was smaller than Aravantara is now, and when the city was hungry in a lean year and the Senate asked the farms of the river to send what they could, he sent everything, his seed-corn with the rest, and walked behind the last cart to the city himself to see it weighed. The Senate gave him the land he farmed as his own and the right to a seat on the river council for his heirs. He planted the estate with the seed he bought back the next spring at the price of everything else he owned. We take our name from the estate and not from him, because he asked it: he said the land would be remembered longer than the man, and a name on land is a name with a roof. He held no office but the council, and the mask stands at the head of the row because he is the founder, and the founder is hallowed. Remember how he walked behind the cart.
+The first mask behind me is the founder of the line. He was a farmer of the [Vilérian Republic]{.name data-type="affiliation/polity"}'s time who held land on the river in the years when the city on the hills was smaller than Aravantara is now, and when the city was hungry in a lean year and the Senate asked the farms of the river to send what they could, he sent everything, his seed-corn with the rest, and walked behind the last cart to the city himself to see it weighed. The Senate gave him the land he farmed as his own and the right to a seat on the river council for his heirs. He planted the estate with the seed he bought back the next spring at the price of everything else he owned. We take our name from the estate and not from him, because he asked it: he said the land would be remembered longer than the man, and a name on land is a name with a roof. He held no office but the council, and the mask stands at the head of the row because he is the founder, and the founder is hallowed. Remember how he walked behind the cart.
 
 ### The Magistrate
 
@@ -46,7 +46,7 @@ The third and fourth masks walk together, and I will praise them together, becau
 
 They were brothers, sons of the house during [[lore-brkensuccsn|the Broken Succession]], the years of the three eagles, and when the Senate's army came south to hold the granaries of this province, the elder was a Lusos in it, by the commission his father had bought him, and when the legions of Moktur came south to take the granaries, the younger was among them, because he had gone north to buy a commission where commissions were cheaper and had served six years in the Moktur forts. On the Olkassa estate ([[place-olcassafld|The Blood-field of Olkassa]]), which you all know, whose wheat is the best in the province and whose grain you all buy and none of you asks about, the brothers stood in the two lines under the same eagle, cast in the same arsenal. Both lines gave no quarter. Both brothers lay in the standing grain at evening. The house does not know which of them died first, and it has never asked the priests to find out.
 
-Their father had their masks made together, and walked them behind one bier, and he made the rule the house keeps: that neither is set before the other, in the procession or the cupboard or the praise, because neither was wrong to stand where his oath had put him, and both were wrong to be standing there. The province has a saying from that field, that no Vylarian should draw a sword on another, and the masters of Hilen say it in the councils and mean it. This house says it differently. This house says that two Vylarians drew swords on each other in the wheat, and here they are, side by side, and they are ours. Remember them side by side.
+Their father had their masks made together, and walked them behind one bier, and he made the rule the house keeps: that neither is set before the other, in the procession or the cupboard or the praise, because neither was wrong to stand where his oath had put him, and both were wrong to be standing there. The province has a saying from that field, that no Vilérian should draw a sword on another, and the masters of Hilen say it in the councils and mean it. This house says it differently. This house says that two Vilérians drew swords on each other in the wheat, and here they are, side by side, and they are ours. Remember them side by side.
 
 ### The Mother of the House
 
@@ -106,5 +106,5 @@ Masks of the house of Kolsamen, founder at the head of you and the master you ha
 [[affiliation-selmoros|Faith of Sélmoros]]
 : the Silent Judge, the last testimony and the names in the windows
 
-[[lore-vylarianclt|Vylarian]]
+[[lore-vylarianclt|Vilérian]]
 : the masks, the hand, the adopted heir and the kept fire

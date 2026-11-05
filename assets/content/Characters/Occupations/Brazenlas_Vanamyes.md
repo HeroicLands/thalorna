@@ -442,7 +442,7 @@ The younger embalmers of the [Morticians' Guild of Korvenara]{.name data-type="a
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
 - **[[affiliation-selmoros|Faith of Sélmoros]]**: one of the lay faithful, the Devran, who keeps the Silent Judge's feasts without office in the temple.
 
 ## Plot Hooks

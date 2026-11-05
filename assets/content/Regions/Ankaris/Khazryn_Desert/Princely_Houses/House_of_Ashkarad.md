@@ -38,7 +38,7 @@ data:
       Keeper of the Adze: >-
         Held by an Elder of the House. Keeps the bronze adze the second lineage brought down, and sees its handle remade each generation from a palm of the house's own groves.
       Factor of the House: >-
-        Held by a Kinsman of the House. Runs the house's trade on the Vylarian Sea from Amradad, and decides which craft families in Ashkarad the house lends to.
+        Held by a Kinsman of the House. Runs the house's trade on the Vilérian Sea from Amradad, and decides which craft families in Ashkarad the house lends to.
       Steward of the Exile Court: >-
         Held by a Kinsman of the House. Runs the court's household, revenues and clients in Amradad.
   seat: null
@@ -57,7 +57,7 @@ The **House of Ashkarad** is the craft-house of the [[affiliation-khzrncnfdrtn|T
 
 ## The Head and the Money
 
-The house's head is [Nimeshay of Ashkarad]{.name data-type="being/npc"}, who grew rich in Amradad on the trade of the [[place-vylarianse|Vylarian Sea]] and spends the money in two places. Some goes into Tellumi agitation in the Atarzád cities, quietly. More goes back to Ashkarad as loans to craft families who would otherwise be ruined by a Teghumod price, since a craft family sells to a Teghumod factor at the price the factor sets. Everybody in the old quarter knows whose silver it is, and the families take it anyway. A workshop that owes Nimeshay is a workshop that stands to the house when the house asks.
+The house's head is [Nimeshay of Ashkarad]{.name data-type="being/npc"}, who grew rich in Amradad on the trade of the [[place-vylarianse|Vilérian Sea]] and spends the money in two places. Some goes into Tellumi agitation in the Atarzád cities, quietly. More goes back to Ashkarad as loans to craft families who would otherwise be ruined by a Teghumod price, since a craft family sells to a Teghumod factor at the price the factor sets. Everybody in the old quarter knows whose silver it is, and the families take it anyway. A workshop that owes Nimeshay is a workshop that stands to the house when the house asks.
 
 The court keeps the first tool. The roll of the peaks says that the second lineage came down from the white peak with tools and nothing more, and the house keeps one of them, a bronze adze with the handle gone. Each generation the handle is remade from a palm of the house's own groves, which grow below the walls of Ashkarad on ground the Teghumod hold.
 

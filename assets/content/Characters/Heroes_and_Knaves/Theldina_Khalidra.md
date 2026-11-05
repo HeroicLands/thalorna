@@ -447,7 +447,7 @@ Théldina's emotional armor is nearly impenetrable, which isolates her from the 
 
 ### Patrons
 
-Théldina maintains relationships with several wealthy and influential clients across the [[place-vylarianse|Vylarian Sea]], though she guards their identities jealously. The **Academy of the Silver Veil** in Helionis is a powerful institution that protects its graduates.
+Théldina maintains relationships with several wealthy and influential clients across the [[place-vylarianse|Vilérian Sea]], though she guards their identities jealously. The **Academy of the Silver Veil** in Helionis is a powerful institution that protects its graduates.
 
 ### Enemies
 
@@ -463,7 +463,7 @@ The Silver Veil's Reach
 : A message arrives for Théldina from the Academy—a summons she cannot easily refuse. The Academy wants something from her, and their request may conflict with the Tamzir's interests. Théldina must choose between the institution that made her and the ragged family she has unexpectedly found.
 
 A Client's Dangerous Secret
-: One of Théldina's former clients contacts her desperately, claiming to possess information about the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) that could protect [[being-cibelasrnt|Kivella Serenthis]]—but only if Théldina agrees to a meeting in a [[lore-vylarianclt|Vylarian]] port city crawling with imperial agents. The information may be real, a trap, or both.
+: One of Théldina's former clients contacts her desperately, claiming to possess information about the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) that could protect [[being-cibelasrnt|Kivella Serenthis]]—but only if Théldina agrees to a meeting in a [[lore-vylarianclt|Vilérian]] port city crawling with imperial agents. The information may be real, a trap, or both.
 
 The Mask Slips
 : During a crisis aboard the Tamzir, Théldina reveals combat skills and tactical knowledge that go far beyond what a courtesan—even a well-trained one—should possess. The crew begins to question who Théldina really is, and whether her presence aboard the ship is truly coincidental.

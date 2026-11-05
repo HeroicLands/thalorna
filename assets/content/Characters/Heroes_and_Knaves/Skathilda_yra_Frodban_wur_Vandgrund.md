@@ -403,7 +403,7 @@ Skathilda yra Frodbán wur Vandgrund is small, pale, and terrifying. She stands 
 
 # Dossier {#dossier}
 
-Skathilda was born the youngest of four children in a woodcutter's family deep in the [[place-vrystwald|Vristwald]] pines. Her father drank, her mother died young, and her three older brothers treated her as a servant and a target. She endured it until she was thirteen, when her eldest brother came home drunk and tried to sell her to a passing [[lore-vylarianclt|Vylarian]] merchant for a cask of wine. She stabbed her brother in the thigh with his own belt knife, fled into the forest, and never went back.
+Skathilda was born the youngest of four children in a woodcutter's family deep in the [[place-vrystwald|Vristwald]] pines. Her father drank, her mother died young, and her three older brothers treated her as a servant and a target. She endured it until she was thirteen, when her eldest brother came home drunk and tried to sell her to a passing [[lore-vylarianclt|Vilérian]] merchant for a cask of wine. She stabbed her brother in the thigh with his own belt knife, fled into the forest, and never went back.
 
 She survived alone in the pines for nearly a year—stealing from traplines, raiding smokehouse stores, sleeping in hollowed logs. A roving band of poachers took her in when they found her half-starved in a snowdrift, and she repaid their charity by learning everything they could teach her about moving unseen, picking pockets, and cutting throats. When the poachers' leader tried to force himself on her two years later, she opened his belly with a skinning knife while he slept and vanished before dawn.
 
@@ -450,4 +450,4 @@ A Knife in the Dark
 : Someone is murdering travelers on the Vristwald road with a single cut to the throat, but the killings don't match the Blackpine Wolves' usual pattern of ambush and robbery. Nothing is stolen. The party investigates and discovers Skathilda has been settling old scores on her own time—the victims are all connected to the men who wronged her in childhood.
 
 The Better Offer
-: A Vylarian merchant guild wants to hire the party to eliminate the Blackpine Wolves, but Skathilda has independently approached the same guild offering to deliver the gang herself—for a price. The party arrives to find the situation more complicated than a simple bandit hunt, and must decide whether to work with, against, or around the most dangerous member of the gang.
+: A Vilérian merchant guild wants to hire the party to eliminate the Blackpine Wolves, but Skathilda has independently approached the same guild offering to deliver the gang herself—for a price. The party arrives to find the situation more complicated than a simple bandit hunt, and must decide whether to work with, against, or around the most dangerous member of the gang.
