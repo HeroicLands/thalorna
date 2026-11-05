@@ -40,7 +40,7 @@ const GROUP_KINDS = new Set(["vowel pair", "long vowel"]);
 const ACUTE = "́";
 const DIAERESIS = "̈";
 
-const frontmatterDoc = (text) => {
+export const frontmatterDoc = (text) => {
     const match = /^---\n([\s\S]*?)\n---/.exec(text.replace(/\r\n?/g, "\n"));
     if (!match) return undefined;
     const lineCounter = new YAML.LineCounter();
@@ -202,7 +202,7 @@ function escapeAt(src, pos) {
  * @param {string} src - The frontmatter text the node's range indexes.
  * @returns {number[] | undefined}
  */
-function sourcePositions(node, src) {
+export function sourcePositions(node, src) {
     const value = node.value;
     const type = node.type;
     const double = type === "QUOTE_DOUBLE";
