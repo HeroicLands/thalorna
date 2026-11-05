@@ -75,7 +75,7 @@ Alzemo Zolduregi and the mountain lords of Asturath, who hold the plateau road. 
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Zenoth holds the crown at the rung of Sovereign.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Zenoth holds the crown as King.
 - **[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]**: He is an elector, with the right to climb to Lezkora with twelve sworn men and name a candidate.
 
 ## Plot Hooks

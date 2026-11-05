@@ -75,7 +75,7 @@ Merchants who resent her control of the toll and the harvest fair.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Hilthera holds a seat on the king's council as a Crown Councilor, at the rung of Greater Nobility.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Hilthera holds a seat on the king's council as a Crown Councilor, as a Great Lord.
 
 ## Plot Hooks
 

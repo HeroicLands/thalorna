@@ -17,64 +17,64 @@ data:
       - level: 0
         title: Outlaw
         description: >-
-          Cast out by the realm and set beyond its protection—outlawed, banished, or attainted. Known to the polity only as one it has excluded.
+          Put out of the king's peace by the Court of Pleas: struck from the rolls of manor and parish, owed protection by no bailiff, and answered by no court of the kingdom.
       - level: 1
         title: Unfree
         description: >-
-          Bound to the land or to a master, owing labor rather than rent, and unable to depart, marry, or dispose of property at will.
+          Bound to a manor of the plain, owing its lord labor on his fields and a share of the harvest, and unable to leave the manor or marry off it without the lord's leave.
       - level: 2
         title: Freeman
         description: >-
-          Free at law to hold, trade, and remove where they will, and answerable directly to the realm's courts, but bearing no rank within it.
+          A freeholder or free tenant of the plain or a river town, free to hold a field, trade and go where they will, and answerable to the bailiff's court rather than to a lord's.
       - level: 3
         title: Gentry
         description: >-
-          Entitled to bear arms and to be answered as a gentleman, holding no title of nobility but standing above the common freeman by birth or grant.
+          A gentleman by birth or by grant, whether or not the family has yet won a place on the Roll of Houses, holding no fief and bringing no vassals, and entitled to a gentleman's answer in the courts.
       - level: 4
         title: Knight
         description: >-
-          Holding land of a lord by military service, owing that service in person, and bearing the arms and obligations of the fee.
+          Holding a fee of a lord by mounted service, entered in the Marshal's roll for the men the fee owes the crown, and riding with the host of Lyenrik.
       - level: 5
-        title: Lesser Nobility
+        title: Landed Lord
         description: >-
-          Holding a fief in their own right, with vassals beneath them and a greater lord above, and exercising justice within their holding.
+          Head of a house on the Roll that holds a manor or more in its own right, with vassals beneath it, a manor court of its own and a place at the king's table fixed by the Roll.
       - level: 6
-        title: Greater Nobility
+        title: Great Lord
         description: >-
-          Holding a province of the crown directly as tenant-in-chief, answering to no authority below the sovereign, and commanding lesser lords in turn.
+          Head of a house at the top of the Roll, holding a district of the crown and its fees, commanding landed lords in the host, and eligible for a seat on the king's council.
       - level: 7
-        title: Prince or Princess of the Blood
+        title: Prince or Princess of Oltris
         description: >-
-          Of the ruling house by blood or marriage, standing above the nobility in precedence and in claim, but holding no crown.
+          Of the house of Oltris by blood, standing above every house on the Roll in precedence and in claim to the crown, and holding no crown.
       - level: 8
-        title: Sovereign
+        title: King
         description: >-
-          The crown itself, from which all other standing in the realm derives and to which all fealty within it ultimately runs.
+          Holder of the crown of Lyenrik by descent, from which every place on the Roll derives, and a candidate in his own right for the elective High Kingship of Tarvénia above it.
     offices:
       King: >-
-        The sovereign of Lyenrik, of the house of Oltris, holding the crown by descent to the eldest son and keeping his court in the king's hall at Torvaleth; held at the rung of Sovereign.
+        Held by a King. The sovereign of Lyenrik, of the house of Oltris, holding the crown by descent to the eldest son and keeping his court in the king's hall at Torvaleth.
       Heir of Lyenrik: >-
-        The king's eldest son, who sits in the Court of Pleas from his sixteenth year to learn the kingdom's law; held as a Prince of the Blood.
+        Held by a Prince or Princess of Oltris. The king's eldest son, who sits in the Court of Pleas from his sixteenth year to learn the kingdom's law.
       Castellan of Ornetho: >-
-        Holder of the walled city of Ornetho, its gates, tolls and garrison, given by custom to a son or brother of the king; held as a Prince of the Blood.
+        Held by a Prince or Princess of Oltris. Holder of the walled city of Ornetho, its gates, tolls and garrison, given by custom to a son or brother of the king.
       Crown Councilor: >-
-        A great lord sworn to the king's council, which advises him on war, on the Roll of Houses and on Lyenrik's claim to the High Kingship; held at the rung of Greater Nobility.
+        Held by a Great Lord. A great lord sworn to the king's council, which advises him on war, on the Roll of Houses and on Lyenrik's claim to the High Kingship.
       Master of the Pleas: >-
-        President of the Court of Pleas, which hears the cases between the lords of Lyenrik and every appeal from a bailiff's court, and keeper of its plea rolls; held at the rung of Greater Nobility.
+        Held by a Great Lord. President of the Court of Pleas, which hears the cases between the lords of Lyenrik and every appeal from a bailiff's court, and keeper of its plea rolls.
       Keeper of the Roll of Houses: >-
-        Keeper of the Roll of Houses, the written order of precedence of every noble house of Lyenrik, who hears a house's claim to a higher place on it and rules on the records it brings; held at the rung of Gentry or above.
+        Held by Gentry or above. Keeper of the Roll of Houses, the written order of precedence of every noble house of Lyenrik, who hears a house's claim to a higher place on it and rules on the records it brings.
       Marshal of Lyenrik: >-
-        Commander of the king's host, who calls the lords' musters and keeps the roll of the fees that owe the crown service; held at the rung of Greater Nobility.
+        Held by a Great Lord. Commander of the king's host, who calls the lords' musters and keeps the roll of the fees that owe the crown service.
       Warden of the Towers: >-
-        Commander of the chain of watchtowers down the Thalsira and of the beacons that pass warning along it, and castellan of Bruthena and its bridge; held at the rung of Lesser Nobility or above.
+        Held by a Landed Lord or above. Commander of the chain of watchtowers down the Thalsira and of the beacons that pass warning along it, and castellan of Bruthena and its bridge.
       Towerkeeper: >-
-        Hereditary keeper of one watchtower and its beacon, who takes the light-due in grain from every village in sight of it and answers to the Warden of the Towers; held at the rung of Gentry.
+        Held by Gentry. Hereditary keeper of one watchtower and its beacon, who takes the light-due in grain from every village in sight of it and answers to the Warden of the Towers.
       Bailiff: >-
-        The crown's officer over one of the kingdom's sixteen districts, holding its court, raising its watch and answering for its dues; held at the rung of Gentry or Knight.
+        Held by Gentry or a Knight. The crown's officer over one of the kingdom's sixteen districts, holding its court, raising its watch and answering for its dues.
       River Warden: >-
-        Keeper of the Thalsira's fords, ferries, quays and flood banks below Ornetho, who levies the river tolls and calls the villages out to the banks when the snowmelt comes; held at the rung of Gentry or Knight.
+        Held by Gentry or a Knight. Keeper of the Thalsira's fords, ferries, quays and flood banks below Ornetho, who levies the river tolls and calls the villages out to the banks when the snowmelt comes.
       Master of the Fair: >-
-        Officer of the harvest fair at Torvaleth, who keeps its peace and its measures, takes its tolls and hears its quarrels on the day they arise; held at the rung of Gentry.
+        Held by Gentry. Officer of the harvest fair at Torvaleth, who keeps its peace and its measures, takes its tolls and hears its quarrels on the day they arise.
   seat: torvaleth
   population: 1000000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
@@ -134,9 +134,31 @@ The host is the lords' muster. Every lord who holds land of the crown owes the k
 
 The cities have their own garrisons. [[place-ronetho|Ornetho]] is held for the crown by its Castellan, by custom a son or brother of the king, and Bruthena by the Warden of the Towers.
 
+## Current Situation {#present}
+
+King [[being-zenotholtr|Zenoth Oltris]] means to stand at the next election of a High King of [[affiliation-kingdmtrvn|Tarvénia]], and the old High King, [[being-ularrekgarr|Ularrek Garrundeta]] of Asturath, is old. The lowland lords have begun sending their men up the road to [[place-lezkora|Lezkora]] one and two at a time, and the king has not said who is paying for the climb. The question the Crown Councilors argue most is what each lord's support will cost.
+
+[[being-iltherozedim|Ilthero Zedimis]], the oldest of the Crown Councilors, keeps the courtesies that Lyenrik's claim turns on: those owed to the king of [[affiliation-kngdmstrth|Asturath]], who keeps the High King as his guest in the High Hall and holds the gate every elector climbs through, and those owed to the king of [[affiliation-kngdmglvrn|Galvaren]]. The Keeper of the Roll of Houses meanwhile hears the claims of houses that think they deserve a higher place on the Roll, and the houses passed over for refusing imperial offices are still trying to prove it.
+
+On the plain the Towerkeepers keep their beacons lit and take the light-due. The crown of Lyenrik and the crown of Galvaren quarrel over the tolls on the one road between them, and each is the other's best customer.
+
 ## Commerce and Currency
 
 Kingdom of Lyenrik uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Lyenrik is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## History {#history}
+
+### The Occupation (about 140 to 538 AF)
+
+About 140 AF the legions of the [[affiliation-vylarinmpr|Vilérian Empire]] took the central lowlands and held Lyenrik as an occupied march ([[lore-lowlandstaken|The Lowlands Taken]]). The lords were watched from a chain of watchtowers and walled towns rather than dispossessed. They built fortified manors, learned the Empire's law in its courts, and took from it a precedence that the Roll of Houses still keeps. Some took the Empire's offices and some refused them, and which houses did which is still disputed. The legion lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF stopped the Empire at the foot of the mountains.
+
+### The Falling Away (about 538 to 545 AF)
+
+From about 538 AF, with the legions drawn north, the lowlands stopped paying the Empire. The mountain lords elected a High King at Lezkora to drive the garrisons out, and the Liénriki turned the Empire's watchtowers from the highlands to the coast ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The kingdom of Lyenrik was founded in these years, and the house of Oltris has held its crown since.
+
+### The Contested Crown (from about 605 AF)
+
+[Estaril]{.name data-type="being/npc"} of Lyenrik held the High Kingship from about 605 AF, the first of several Liénriki High Kings, and the lords of Lyenrik have contested the crown at every election since. The High King has still most often been an Astúrathi lord, and the present one is.
 
 ## See Also
 

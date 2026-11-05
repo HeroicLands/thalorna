@@ -131,9 +131,29 @@ Its coast keeps the Drowned Road beside the pantheon's temples, and its courts t
 
 Galvaren and Lyenrik are rivals and each other's best customers. Lyenrik's grain and cattle feed the coast, Galvaren's salt fish feeds Lyenrik's villages through the winter, and the two crowns quarrel every few years over the tolls on the one road between them. Galvaren depends on the southern coast for its salt, which makes the salt ships and the [[affiliation-frctyvlthr|Free City of Valthari]] that sells to them the kingdom's most important foreign concern. Asturath is distant and mountainous, and the two kingdoms have little trade and few quarrels.
 
+## Current Situation {#present}
+
+[[being-ganothervo|Ganoth Ervothandis]] has held the crown since 712 AF, and the Long Table is divided over salt. The Keeper of the Salt has raised the crown's price for the second year running, the curing-house mistresses of Durvolka's Strand have begun buying from a [[place-valthari|Valthari]] ship that anchors outside the bay at night, and [[being-korvaththal|Korvath Thaluris]] of [[place-ulhera|Ulhera]] is the loudest voice at the Table against the price. [[being-brazemabetsu|Brazema Betsuris]], the Master of the Fleet, wants her galleys sent against the pirates on the southern salt route, and the king, who is careful with the crown's money, has not given the order.
+
+At [[place-ezkoba|Ezkoba]], [[being-nelmaular|Nelma Ularris]], the senior harbor teller of the [[affiliation-drownedroad|Drowned Road]], is failing and has not named who will keep the coast's rolls after her. The courts of the kingdom take a teller's calling-in as proof of death, so the choice of her successor is also a choice about who is a widow.
+
 ## Commerce and Currency
 
 The Kingdom of Galvaren uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The Kingdom of Galvaren is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## History {#history}
+
+### The Old Stones
+
+The standing stones, stone rings and passage graves of the coast are older than the Tarveni migration, and nobody on the coast knows who raised them. The beliefs the coast built around them, that the drowned come home in the fog to the graves and that a lamp in the seaward window shows them the door, became the [[affiliation-drownedroad|Drowned Road]], which the coast has kept beside the temples of the [[affiliation-arldnpnthn|Aureldian Pantheon]] since.
+
+### The Crown and the Table
+
+The house of Ervothandis holds the crown, and it passes to the late king's eldest son, or failing sons to his eldest daughter. The Long Table puts the landed lords of the valleys on one side and the elected shipmasters of the harbors on the other, and every king of Galvaren has governed by keeping the two sides arguing with each other. When the occupied lowlands stopped paying the Empire and the mountain lords elected the first High King ([[lore-tarvfallsawy|Tarvénia Falls Away]]), the electors of the High King came to be the lords of the three kingdoms, and Galvaren owes an election its presence and the High King its levy when the ban is called.
+
+### The Present Reign (from 712 AF)
+
+Ganoth Ervothandis came to the throne in 712 AF. His reign has been a careful one, spent in keeping the crown solvent on the price of salt.
 
 ## See Also
 

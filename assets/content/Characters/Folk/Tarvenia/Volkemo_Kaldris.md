@@ -75,7 +75,7 @@ The younger lords who want his post.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Volkemo holds the office of Marshal of Lyenrik at the rung of Greater Nobility.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Volkemo holds the office of Marshal of Lyenrik as a Great Lord.
 
 ## Plot Hooks
 

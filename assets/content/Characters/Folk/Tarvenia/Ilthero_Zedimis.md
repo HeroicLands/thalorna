@@ -75,7 +75,7 @@ The younger councilors who think the claim should be pressed by arms.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Ilthero holds a seat on the king's council as a Crown Councilor, at the rung of Greater Nobility.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Ilthero holds a seat on the king's council as a Crown Councilor, as a Great Lord.
 
 ## Plot Hooks
 

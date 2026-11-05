@@ -142,9 +142,29 @@ The High King of Tarvénia is often the king of Asturath, and he is not at prese
 
 The king's officers are few, and each holds one thing for him. The Warden of the Plateau Gate holds Lezkora's gate and road for life, the Warden of the March holds the eastern frontier from Kávrenath, the Warden of the Iron counts the king's share at [[place-ardalis|Ardalis]], and the Drove-Warden keeps the drove roads and the king's meadows from [[place-tsaberis|Tsaberis]]. The Keeper of the Roll and the Steward of the King's Valleys serve in the king's household, the heralds carry his word, and castellans hold towers for the lords who appoint them. The Captain of the Ban serves for one campaign and goes home.
 
+## Current Situation {#present}
+
+Lezkora holds two courts. The High King of [[affiliation-kingdmtrvn|Tarvénia]], [[being-ularrekgarr|Ularrek Garrundeta]], is one of the king's own mountain lords, chosen because each of the greater candidates could block the others, and he is old and has not come down to the High Hall for a month. The king, [[being-alzemozold|Alzemo Zolduregi]], keeps his court in the castle at the north end of the same city, and the High King eats bread carried up the king's road and passes through the king's gate.
+
+The lords of the lowlands, whose king [[being-zenotholtr|Zenoth Oltris]] means to stand at the next election, have begun sending their men up the road one and two at a time. At the eastern edge the Warden of the March, [[being-estarildomi|Estaril Dómivar]], holds the road at [[place-kavrenath|Kávrenath]] against smugglers, deserters and refugees, and in the high valleys the companies are abroad under contract.
+
 ## Commerce and Currency
 
 The Kingdom of Asturath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. It is a post-imperial commonwealth member—it takes part fully in the trade and banking of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## History {#history}
+
+### The Mountains Never Taken (about 143 AF)
+
+The legions of the [[affiliation-vylarinmpr|Vilérian Empire]] took the lowlands about 140 AF and sent expeditions into the mountains. The fourth, the worst of them, was let into the gorge below Lezkora by the mountain lord [Tórsaro]{.name data-type="being/npc"}, who closed both ends of it, and the legion died there in two days ([[lore-horngorgebtl|The Battle of the Horn Gorge]]). The Empire held the lowland approaches thereafter and left the mountains alone.
+
+### The First High King (about 538 to 556 AF)
+
+With the lowlands in revolt against the Empire, the mountain lords met at Lezkora about 540 AF and elected [Garvaneth]{.name data-type="being/npc"} of Asturath the first High King to drive the garrisons out ([[lore-tarvfallsawy|Tarvénia Falls Away]]). His successor [Mórezan]{.name data-type="being/npc"} took a host down the western pass about 556 AF, and the lords of Tarvénia have gone down the passes into Provénzia every season the snow allows since ([[lore-summerwar|The Summer War]]).
+
+### The Crown at Lezkora (from about 605 AF)
+
+The lords of Lyenrik took the High Kingship from about 605 AF and have contested it at every election since. The High King has still most often been an Astúrathi lord, and the present one is.
 
 ## See Also
 

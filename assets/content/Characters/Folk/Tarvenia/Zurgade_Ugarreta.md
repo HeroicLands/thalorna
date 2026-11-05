@@ -75,7 +75,7 @@ The old huntsman who wants Zórila replaced.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Zurgade holds the manor as a lord with a fief in his own right, at the rung of Lesser Nobility.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Zurgade holds the manor in his own right, as a Landed Lord.
 
 ## Plot Hooks
 

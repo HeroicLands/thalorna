@@ -75,7 +75,7 @@ Kárenna Graveth, who opposed him in a negotiation, and the Keeper of the Roll o
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Bedarrek stands at the rung of Gentry by grant and seeks a higher place on the Roll of Houses.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Bedarrek stands among the Gentry by grant and seeks a higher place on the Roll of Houses.
 
 ## Plot Hooks
 
