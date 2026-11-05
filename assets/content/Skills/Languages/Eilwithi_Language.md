@@ -1029,7 +1029,7 @@ data:
     - {form: rain, class: n, field: Land and living things, gloss: rain, concept: rain}
     - {form: snow, class: n, field: Land and living things, gloss: snow, concept: snow}
     - {form: ise, class: n, field: Land and living things, gloss: ice, concept: ice}
-    - {form: sky, class: n, field: Land and living things, gloss: sky, concept: sky}
+    - {form: skai, class: n, field: Land and living things, gloss: sky, concept: sky}
     - form: sun
       class: n
       field: Land and living things
@@ -3849,7 +3849,7 @@ data:
         - "Kenrith"
         - "Ethelinda"
         - "Osrun"
-        - "Hildwin"
+        - "Hildwiin"
         - "Leofith"
         - "Mildrun"
         - "Winrith"
@@ -4118,11 +4118,11 @@ data:
     - {form: har, position: opening, kind: given, sense: "a host, an army", examples: [Harwald]}
     - {form: mild, position: opening, kind: given, sense: gentle, examples: [Mildrun]}
     - {form: ethel, position: opening, kind: given, sense: noble, examples: [Ethelinda]}
-    - {form: hild, position: opening, kind: given, sense: battle, examples: [Hildwin]}
+    - {form: hild, position: opening, kind: given, sense: battle, examples: [Hildwiin]}
     - {form: mund, position: closing, kind: given, sense: a protector, examples: [Hildmund]}
     - {form: rik, position: closing, kind: given, sense: a ruler, examples: [Harrik]}
     - {form: win, position: either, kind: given, sense: a friend, examples: [Wilwin]}
-    - {form: wyn, position: closing, kind: given, sense: joy, examples: [Hildwin]}
+    - {form: wiin, position: closing, kind: given, sense: joy, examples: [Hildwiin]}
     - {form: stan, position: closing, kind: given, sense: stone, examples: [Harstan]}
     - {form: wald, position: closing, kind: given, sense: rule, examples: [Wilwald]}
     - {form: ith, position: closing, kind: given, sense: strife, examples: [Dunith]}
@@ -4235,7 +4235,7 @@ data:
     - {name: Harwald, kind: given, built: [har, wald]}
     - {name: Helmsley, kind: byname, built: [helm, s, ley]}
     - {name: Highfold, kind: place, built: [high, fold]}
-    - {name: Hildwin, kind: given, built: [hild, wyn]}
+    - {name: Hildwiin, kind: given, built: [hild, wiin]}
     - {name: Hildrik, kind: given, built: [hild, rik]}
     - {name: Hushwood, kind: place, built: [hush, wood]}
     - {name: Ironfells, kind: place, built: [iron, fells]}
@@ -4451,7 +4451,7 @@ data:
     - {form: gladly, instead: gladli, why: y is never a vowel}
     - {form: granary, instead: granari, why: y is never a vowel}
     - {form: heavy, instead: heavi, why: y is never a vowel}
-    - {form: hildwyn, instead: hildwin, why: y is never a vowel}
+    - {form: hildwyn, instead: hildwiin, why: y is never a vowel}
     - {form: humility, instead: humiliti, why: y is never a vowel}
     - {form: hungry, instead: hungri, why: y is never a vowel}
     - {form: jealousy, instead: jealousi, why: y is never a vowel}
@@ -4494,6 +4494,9 @@ data:
     - {form: very, instead: veri, why: y is never a vowel}
     - {form: weary, instead: weari, why: y is never a vowel}
     - {form: why, instead: whi, why: y is never a vowel}
+    - {form: sky, instead: skai, why: y is never a vowel}
+    - {form: wyn, instead: wiin, why: y is never a vowel}
+    - {form: hildwin, instead: hildwiin, why: y is never a vowel}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

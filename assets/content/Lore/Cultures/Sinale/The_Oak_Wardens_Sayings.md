@@ -52,7 +52,7 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .salpu ilte oso pehe aimetti oso pelpe oso patten ansoru ansoruta ehi ansoru kevu/
-.setty ovu elniso oso yinse ovu salpu
+.seltì ovu elniso oso yinse ovu salpu
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .ahi savessi oso ansoruta ovu ovu/
@@ -63,11 +63,11 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .leltai ovu lonku kerrai ovu avetti leltairsa tupe ellevi hìrre uttes lirne ninteho ahi nelvata onsa ninte ahi rauttu ovu ralti
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.setty ehi iha salpukkoho aulten sennaveho korpe ilsetti vennas leesì ehiho/
+.seltì ehi iha salpukkoho aulten sennaveho korpe ilsetti vennas leesì ehiho/
 .entel korpe ilsetti vennas leesì ovuho eirandita ovu
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.eho hepìmuuvu nysse salpukko issalteho yinse onsa ehii/
+.eho hepìmuuvu nìmme salpukko issalteho yinse onsa ehii/
 .ahi saumel ovu onsa alte ruvas onsa renetti ovu oso ruvas onsa
 :::
 
@@ -121,7 +121,7 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .irna ovu ennomirsa sipes irna ovu ennomirsa ilte ulsen roselo uulse mairel ovu tarnevi
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.irna ehi senvai olpeira ennomirsa pemi serdattota ehi onsaa setty onsaa ehi serdattoho ennos uttes ennomirsa vennas ummes/
+.irna ehi senvai olpeira ennomirsa pemi serdattota ehi onsaa seltì onsaa ehi serdattoho ennos uttes ennomirsa vennas ummes/
 .tupe ovu senvai ennomirsa vennas elniso oso lemmes ovu onsaa
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
@@ -203,8 +203,8 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .ahi rauttu ovu olmasi osotos meeve ovu veldi ulnavaho eho veldi olmasiho
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.setty lenti ulsa talveho ahi sennevi onsa ovu/
-.settyrse leltairsa vennai esoho
+.seltì lenti ulsa talveho ahi sennevi onsa ovu/
+.seltìrse leltairsa vennai esoho
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .ahi eho varkel salpukko issalteho seirata polpe iltettu aume/
@@ -281,8 +281,8 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .ahi ennomi ovu oltandi iha alkeno ahi aulveira ovu ahi vettan aulveira olpeira iha kessaritos
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.kessave hepìmuuvu lirne uvi ìlpi ehi kessave nysse uvi eppanne onsa/
-.vandel ovu hepìmuuvu lirne kuse sennai evakka oso erdavi nysse
+.kessave hepìmuuvu lirne uvi ìlpi ehi kessave nìmme uvi eppanne onsa/
+.vandel ovu hepìmuuvu lirne kuse sennai evakka oso erdavi nìmme
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .eho salmirarsa selpi ahi senval nelpe onsa ahi vettan aulveira olpeira iha salmirarsatos/
@@ -389,15 +389,15 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=naming}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.evatte ovu sirne kelsa kalpi ummes toimunuho ilte ennos kelsa nysse onsa/
+.evatte ovu sirne kelsa kalpi ummes toimunuho ilte ennos kelsa nìmme onsa/
 .entel ahi nerkavi kalpi telnavi ovu sirne melkeho
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.ahi eho nysse sirne ahi sennevi onsa sennevi ovu/
-.tupe ovu toimunu vennas sirne oso kauve nysse kerrai ovu sirne
+.ahi eho nìmme sirne ahi sennevi onsa sennevi ovu/
+.tupe ovu toimunu vennas sirne oso kauve nìmme kerrai ovu sirne
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.entel eirandita nysse aukkessa uulse ahi sirneta ovu onsa kuse velnir oso niretti onsa oltandi keltis/
+.entel eirandita nìmme aukkessa uulse ahi sirneta ovu onsa kuse velnir oso niretti onsa oltandi keltis/
 .entel irna ovu iha evi eirandita onsa aukkessa ahi eho aukkessa sirne yemi kilni ilte ehiiho aurannos iltettu
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
@@ -409,7 +409,7 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .pelpe ovu evette kelsa onsa kilpetersa ennos seltai evesi
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.toimunu hevu elki hepìmuuvu sìlpe hepì ehii nysse sirnetarsa sennave iha sennaveho entel ukken onsa selpi paval onsa uulse/
+.toimunu hevu elki hepìmuuvu sìlpe hepì ehii nìmme sirnetarsa sennave iha sennaveho entel ukken onsa selpi paval onsa uulse/
 .ahi evatte ovu iha telvani hepìmuuvu lirne nerveho
 :::
 
@@ -501,12 +501,12 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .ahi elvata ovu lirne onsa evakkatos oso evatte onsa irna ehi uulse
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.erdavi sallira nemmanysse onsa ennakke aukkessa erdavi ummes nemmanysse vennas onsaa ennakke aukkessa/
+.erdavi sallira nemmanìmme onsa ennakke aukkessa erdavi ummes nemmanìmme vennas onsaa ennakke aukkessa/
 .erdavi onsa uttes elnerinu vennas onsa aiva oha ahi erdavi lirne onsaa
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .evatte sorvel ortinno vennas ommenda ellun seimakata onsa pettan ovu tarnevi/
-.setty sorvel ortinno vennas peravi polpeho evatte ehii vennas osotos iha ukken ehii eltes
+.seltì sorvel ortinno vennas peravi polpeho evatte ehii vennas osotos iha ukken ehii eltes
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .tupe ehii ihaho teipannu oso varkavi varkavinno elnerinu sirnastotos halpi polpeho/
@@ -547,7 +547,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=silence}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.setty ehii elnerinu nerveho aulten sennaveho evatte ehii aume ervu iha valmi uttes evakkatos ummes/
+.seltì ehii elnerinu nerveho aulten sennaveho evatte ehii aume ervu iha valmi uttes evakkatos ummes/
 .hìppe iha pehersa ravellirsa uttes pehersatos ummes erni ovu oso pehe ovu
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
@@ -643,7 +643,7 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .aume iha toimunuho selkorota sorvel ortinno vekkanelo pehe torvel aimetti tunes erdavi aulveira onsa eho onsa ollevikkoho/
 .evatte aelirosse olmasitti ropelinto torvelsa insu penvai onsa evesi ilte uulse sirne/
 .sorvel saumikki ilevala huomanto tunes evatte onsa iha onsa saunarinu iha/
-.vaissa ehi sorvel aimettinu pemi melke raltiilevaho lervi onsaa entel kauve nysse oso yinse onsa ehii tultasi/
+.vaissa ehi sorvel aimettinu pemi melke raltiilevaho lervi onsaa entel kauve nìmme oso yinse onsa ehii tultasi/
 .eho ehi saunarinu eso sennaveho oha eho ehi torvel pemi
 :::
 

@@ -66,7 +66,7 @@ Who sings it, I do not say. Ask me whether the sound ends and I will stand silen
 
 ::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=long-song}
 eho olnaro oso luuro ehii eirandi nuuvanutos ellun oltandi nuuvanu/
-.eirandita olnaro setty eirandi nuuvanu aldesse eilavaho seltai olnaro raakke rosel oltandi nuuvanu/
+.eirandita olnaro seltì eirandi nuuvanu aldesse eilavaho seltai olnaro raakke rosel oltandi nuuvanu/
 tupe ehi onsa ennos kauve eso lentas torvel vennas torvel/
 .olnaro ilte onsa velti ilte onsa ummes onsa velti/
 kelsa ovuu olnaro oltandiho tupe ehi oltandi tìlne ahi velpe onsa/
@@ -75,11 +75,11 @@ oltandi iha irna ehi onsa ummes unturoho vennas erni ehi onsa velti olnaroho ehi
 .ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennas ahi seltai onsa/
 seltai olnaro sendeppi nerrava nerrava velti ilte olnaro/
 .luuro ovuu iha nuuvanu vennas uttes orvessaho uttes olnaro onsa tennai onsa/
-erni ehii iha ummes oso leevi ihaho osotos setty ehii maviho/
+erni ehii iha ummes oso leevi ihaho osotos seltì ehii maviho/
 [.\[…\]]{lang=zxx}/
 evatte ehi elneri velti ilte talnava nerrava velti ilte olnaro/
 .evatte ehi entel seltai salnava luuronno seltai talnava luuro luuronno heeve uulse erme/
-ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerrava setty ehi hisselo ahi erni ehi/
+ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerrava seltì ehi hisselo ahi erni ehi/
 .entel kessave ovu ehi uvi seltai iha talnava evatte ehi seltai onsa olnaro onsa luuro luuronno onsa insu kelsa ovu tupe luuronno onsa
 :::
 
@@ -121,10 +121,10 @@ Tellakitta sang that the world ends when its singer stops. I say it ends when it
 ::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=oaks}
 leltai ehi torvel irvattosto lentaso kinsa onsa ehi alken vauttirsaho tunes leltai ehi onsa insu/
 .vonu uttes torvel onsatos aldis onsa eirandi torveltos rendatto onsa olmarnaho leltai ehi onsa erme/
-rivy ummes toimunuho vennas pelpe lauppi raakke polpe onsa polpe onsa sulmeho/
+rellì ummes toimunuho vennas pelpe lauppi raakke polpe onsa polpe onsa sulmeho/
 .ahi seltai lauppi leesì ehi irnarsatos ahi halpe ehi onsa oirava lauppi raakke polpe onsa/
 mairel elnerinu vonu sorvel olmarna olmarnaho alken ilte unturoho elki/
-.halte ehi olmarna ahi eho rendatto esoho kalpe ehi talkevi setty torvel ummes ehi leltairsaho/
+.halte ehi olmarna ahi eho rendatto esoho kalpe ehi talkevi seltì torvel ummes ehi leltairsaho/
 uttes meravinno onsa pehe polpe ulsen pehe meravinno aume ulsen/
 .nalduraivas vennas onsaa ehii sirne iha ahi evatte onsaa onsaa sirne vennas/
 mairel onsaa ilnava lauppi olmarna aukkessa olnaro pelpe oso irtal onsaatos/
@@ -137,7 +137,7 @@ luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava evatte e
 .leltai ovuu ehi evakkakki iha osotos sennevi torvel ahi sennevi rendatto
 :::
 
-The account names him: [Rivytti Sìllente]{.name data-type="being/npc"}, the turning leaf, of the hearth of the rising note.
+The account names him: [Rellìtti Sìllente]{.name data-type="being/npc"}, the turning leaf, of the hearth of the rising note.
 
 The one who kept the meadow stood then and said: "You say the Dark is slow."
 
@@ -171,7 +171,7 @@ The grass goes down. The grass stands. Between the two there is a winter, and th
 pelpe lentinu vennas ummes sautteno aldesse polpeho nìkehe ummes unturoho vennas/
 .nalki lenti peravi onsa sulmeho eho polpe levatti oltandi onsa eirandi yinserseho/
 yinse ehi leiken ervu ehi yinserse vennas vonu sorvel soimutekkiretos vennas/
-.setty lenti talveho aurannos uttes lenti iha lenti onsa/
+.seltì lenti talveho aurannos uttes lenti iha lenti onsa/
 luuro ovuu sipes seltai luuronno seltai leltainno uvi seltai movi sirneta ovuu ehii lirne ilte oso seltai/
 .entel seltai ehii lirne kerrai onsa velnari ahi seltai lirne oso olkai eho onsaa oluho/
 kelsa ehii kessari enneli hìrreho lonku issalteho uttes muuvu evesi vennas tunes/
@@ -180,7 +180,7 @@ ahi vandel ehii onsaa vaukka onsaa leesìhe kauve onsaa ahi halpe ehii onsaa lee
 .evatte ehi kauve ehii erme ahi halpe ehii ehii leesì onsaa evesi oltandi eho onsaa sìlpe oltandi/
 ahi eho ehii ìlpirse oltandi ahi supe ovuu kessari ahi raakke ehii onsa onsaa kessari onsa tunes ahi raakke ehii onsa/
 .tellakitta eilavanto luuro ovu luuro luuronno heeve uulse entel iha seltai aume luuro ovu ehi evakka/
-pelpe lenti setty lenti leikeno unturo ilte uulse pelpe lenti ennos setty lenti ahi eho uttes
+pelpe lenti seltì lenti leikeno unturo ilte uulse pelpe lenti ennos seltì lenti ahi eho uttes
 :::
 
 The account names her: [Lentila Talvento]{.name data-type="being/npc"}, the tall grass, of the hearth of the low fog.
@@ -189,11 +189,11 @@ Tellakitta said: "I sang that the breath is sung. I did not sing that the mornin
 
 Lentila said: "You will, if you sit long enough."
 
-Rivytti said, to the slope and not to her: "The old oak will not stand up in the spring. I have had my hand in its heart. There is a spring it will not stand up in."
+Rellìtti said, to the slope and not to her: "The old oak will not stand up in the spring. I have had my hand in its heart. There is a spring it will not stand up in."
 
 Lentila said: "Then it is your oak that ends. I did not hear the child ask about your oak."
 
-Rivytti said: "The child asked at the edge of the wood. The oak is in the wood." And the account says that he sat down after that and did not rise again that night, and that the moss on the north side of the old oak was there in the morning, because he went up the slope before the light to look.
+Rellìtti said: "The child asked at the edge of the wood. The oak is in the wood." And the account says that he sat down after that and did not rise again that night, and that the moss on the north side of the old oak was there in the morning, because he went up the slope before the light to look.
 
 ## What Stands Between
 
@@ -221,7 +221,7 @@ The trees stand and are dead. The water runs and is dark. Nothing with wings goe
 The people are there. They have not gone. That is the thing I came back to say, and I will say it once:/
 .the dead of Haulonna have not gone where the dead go. They are held./
 Tellakitta sang that the world ends when the singer stops. The singer has not stopped. The stars came out over that valley while I stood at its edge./
-.Rivytti sang that the end is slow. It was one night. It was one night, and the leaf did not fall, and the people did not go./
+.Rellìtti sang that the end is slow. It was one night. It was one night, and the leaf did not fall, and the people did not go./
 Lentila sang that the end is a word for a people whose lives have one, and that none of us has ended./
 .I have no answer for her. I have where I stood./
 I say that a world ends: a hearth, a valley, everyone in it, in a night,/
@@ -234,17 +234,17 @@ We know where the dead go. Aulveira takes them to [Ollevikko]{.name data-type="p
 
 ::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=edge}
 ellevi ehi vittel aukkessaho eso sennavetos aukkessa sirne ahi velpe lauppi tunes/
-.patten ehi onsa aunekkeho iha toimunuho setty ehi issalteho evatte ehi oso yinse ehi ahi evatte ehi uttes/
-setty salpu vennas selkorosa onsaa ressa melke naldusa onsa ahi ulpes vaitten vennas/
+.patten ehi onsa aunekkeho iha toimunuho seltì ehi issalteho evatte ehi oso yinse ehi ahi evatte ehi uttes/
+seltì salpu vennas selkorosa onsaa ressa melke naldusa onsa ahi ulpes vaitten vennas/
 .ralti polpe hervi hervi autemel intiso eho orti vennas ilvena onsaa/
 eho lirne vennas esoho ahi olkai onsaa patten ehi ihatos evatte ehi onsa ilte/
 .ahi vaukka haulonna ollevi ollevi aldevano tupe tupenno onsaa/
-luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava ahi seltai luuronno setty ehi issalteho tenvas nuuvanu vennas aunekke eilavaho/
-.luuro rivytti sìllente ukken oltandi ossenda ilte onsa ossenda ilte ahi velpe lauppi ahi olkai lirne vennas/
+luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava ahi seltai luuronno seltì ehi issalteho tenvas nuuvanu vennas aunekke eilavaho/
+.luuro rellìtti sìllente ukken oltandi ossenda ilte onsa ossenda ilte ahi velpe lauppi ahi olkai lirne vennas/
 luuro lentila talvento muuvu evesi oltandi eho muuvu sìlpe oltandi ahi seltai ehii lirne/
-.ahi vandel ehi onsa setty ehi aunekke issalteho/
+.ahi vandel ehi onsa seltì ehi aunekke issalteho/
 evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho ilte/
-.ahi erni talnava iha aunekke aldevano setty lenti sautteno aldesse polpeho eso leikeno aurannos/
+.ahi erni talnava iha aunekke aldevano seltì lenti sautteno aldesse polpeho eso leikeno aurannos/
 oltandi oso yinse ehi iha yinse ehi oltandi ilte aunekke lirne vennas esoho tupe tupenno onsaa/
 .elnis ilte sennaveho ilte uttes elnis ahi erni onsa iha uttes elnis/
 erni ehii ollevi leesì erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha/

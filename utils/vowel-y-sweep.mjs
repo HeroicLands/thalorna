@@ -135,15 +135,33 @@ const LETTERS = /[\p{L}\p{M}]+/gu;
  * The Eilwithi respelling of one token, or the token when it is held.
  *
  * @param {Set<string>} held - Folded held forms.
+ * @param {Map<string, number>} [counts]
+ * @param {Map<string, string>} [coined] - Folded form to its folded
+ *   replacement, for the forms whose replacement is a coined word.
  */
-export function eilwithiRespeller(held, counts) {
+export function eilwithiRespeller(held, counts, coined = new Map()) {
     return (token) =>
         token.replace(LETTERS, (word) => {
             if (held.has(fold(word))) return word;
-            const result = respellVowelY(word);
+            const to = coined.get(fold(word));
+            const result = (to && matchCase(word, to)) || respellVowelY(word);
             if (result !== word) counts?.set(fold(result), (counts.get(fold(result)) ?? 0) + 1);
             return result;
         });
+}
+
+/**
+ * The Eilwithi replacements of a fixture: each respelling scoped `eilwithi`.
+ *
+ * @param {ReturnType<typeof loadFixture>} fixture
+ * @returns {Map<string, string>}
+ */
+export function eilwithiCoined({ respellings }) {
+    return new Map(
+        respellings
+            .filter(({ scope }) => scope === "eilwithi")
+            .map(({ from, to }) => [fold(from), fold(to)]),
+    );
 }
 
 /**
@@ -291,7 +309,11 @@ export function respellVowelYText(text) {
         const fixture = loadFixture();
         defaults = {
             table: proseTable(fixture),
-            respell: eilwithiRespeller(new Set(fixture.held.map(({ form }) => fold(form)))),
+            respell: eilwithiRespeller(
+                new Set(fixture.held.map(({ form }) => fold(form))),
+                undefined,
+                eilwithiCoined(fixture),
+            ),
         };
     }
     const note = /^shortcode:\s*aelwthlng\s*$/mu.test(FRONT.exec(text)?.[2] ?? "");
@@ -330,7 +352,7 @@ export function sweep(targets, { check = false, fixture = loadFixture() } = {}) 
     const table = proseTable(fixture);
     const counts = new Map();
     const held = new Set(fixture.held.map(({ form }) => fold(form)));
-    const respell = eilwithiRespeller(held, counts);
+    const respell = eilwithiRespeller(held, counts, eilwithiCoined(fixture));
     const notes = new Map(
         Object.entries(TONGUES).map(([tongue, address]) => [
             path.resolve(notePath(address)),

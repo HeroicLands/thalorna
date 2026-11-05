@@ -1,6 +1,6 @@
 ---
 shortcode: hildbrwnng
-name: {full: Hildwin Browning}
+name: {full: Hildwiin Browning}
 type: being
 subType: npc
 tags: [draft, underworld]
@@ -388,13 +388,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hildwin Browning is a 20-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows and give her a keen gaze. She has a rounded nose and thin lips. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
+Hildwiin Browning is a 20-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows and give her a keen gaze. She has a rounded nose and thin lips. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Hildwin Browning is a prostitute.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Hildwiin Browning is a prostitute.
 
-Hildwin works at a busy brothel but has strong ties to [[affiliation-graytide|the Gray Tide]]. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
+Hildwiin works at a busy brothel but has strong ties to [[affiliation-graytide|the Gray Tide]]. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
 
 ## Psyche
 
@@ -404,7 +404,7 @@ She can be too trusting of her Tide contacts and struggles with her double life.
 
 ### Motivation
 
-Hildwin wants out of the brothel, and the Gray Tide is the way out she has found.
+Hildwiin wants out of the brothel, and the Gray Tide is the way out she has found.
 
 ### Strengths
 
@@ -412,13 +412,13 @@ She is persuasive, resourceful, and good at gathering information.
 
 ## Social
 
-Hildwin belongs to the Gray Tide, a maritime crime network operating in Eilwith.
+Hildwiin belongs to the Gray Tide, a maritime crime network operating in Eilwith.
 
 ## Companions
 
 ### Patrons
 
-Hildwin's patrons are the wealthy clients who pay for her company and entertainment.
+Hildwiin's patrons are the wealthy clients who pay for her company and entertainment.
 
 ### Enemies
 
@@ -427,16 +427,16 @@ Few; she is respected in her trade, but some rival guild members may see her as 
 ## Plot Hooks
 
 The Prostitute's Dilemma
-: A client Hildwin likes turns out to be the man the Gray Tide wants informed on, and she cannot keep faith with both him and the Tide.
+: A client Hildwiin likes turns out to be the man the Gray Tide wants informed on, and she cannot keep faith with both him and the Tide.
 
 Old Grudges
-: A rival at the brothel who sees Hildwin as a threat has worked out where her information goes.
+: A rival at the brothel who sees Hildwiin as a threat has worked out where her information goes.
 
 Echoes of the Past
-: Someone from the family Hildwin left behind finds her at the brothel.
+: Someone from the family Hildwiin left behind finds her at the brothel.
 
 Shifting Winds
-: Political change in Eilwith threatens the Gray Tide's hold on the docks, and Hildwin can adapt, resist, or leave.
+: Political change in Eilwith threatens the Gray Tide's hold on the docks, and Hildwiin can adapt, resist, or leave.
 
 The Opportunity
-: The Gray Tide offers Hildwin a place in the organization that would take her out of the brothel, and its price is not named up front.
+: The Gray Tide offers Hildwiin a place in the organization that would take her out of the brothel, and its price is not named up front.

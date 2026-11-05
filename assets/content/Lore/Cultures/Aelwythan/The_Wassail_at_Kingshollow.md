@@ -206,7 +206,7 @@ Are the king's to the acorn, the king's to the sky.
 We may look on the timber, and look till we freeze,/
 For the law is a pale about all of the trees,/
 And the oaks that stood over our grandsireses first kri/
-Ben the kinges to the akorn, the kinges to the sky.
+Ben the kinges to the akorn, the kinges to the skai.
 :::
 
 _The burden._

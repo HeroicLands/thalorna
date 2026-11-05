@@ -150,6 +150,37 @@ test("rule 4: y is never a vowel", () => {
     assert.deepEqual(rules("y"), [4]);
 });
 
+test("rule 4: a held word keeps its y, whole word only", () => {
+    const exempt = new Set(["priory", "thornbury"]);
+    const held = (word) => checkWord(word, alphabet, exempt).map((i) => i.rule);
+    assert.deepEqual(held("priory"), []);
+    assert.deepEqual(held("Thornbury"), []);
+    assert.deepEqual(held("Blakkiln Priory"), []);
+    assert.deepEqual(held("priorys"), [4]);
+    assert.deepEqual(held("priory-ta"), [4]);
+    assert.deepEqual(held("ta-priory"), [4]);
+    assert.deepEqual(held("kyta"), [4]);
+});
+
+test("rule 4: a vowel y is an error and fails the check", () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "alden-spelling-guard-"));
+    const note = `---\nshortcode: x\ndata:\n  words:\n    - {form: kyta, gloss: t}\n    - {form: kàta, gloss: u}\n---\n`;
+    fs.writeFileSync(path.join(dir, "Rule4.md"), note);
+    const err = [];
+    try {
+        assert.equal(
+            main([path.join(dir, "Rule4.md")], { out: () => {}, err: (e) => err.push(e) }),
+            1,
+        );
+    } finally {
+        fs.rmSync(dir, { recursive: true });
+    }
+    assert.ok(
+        err.some((e) => /Rule4\.md:5:15: error: "kyta" /.test(e)),
+        err.join("\n"),
+    );
+});
+
 test("rule 4: a y after a vowel closes the glide its pair declares", () => {
     for (const word of [
         "kay",
@@ -234,9 +265,10 @@ test("a note's findings carry one entry per word with a position", () => {
     assert.deepEqual([hits[0].form, hits[0].line, hits[0].column], ["kaky", 6, 17]);
 });
 
-test("the guard runs over the real corpus without throwing and exits 0", () => {
+test("the real corpus has no error: only the held words keep a vowel y", () => {
     const out = [];
-    assert.equal(main([], { out: (s) => out.push(s), err: () => {} }), 0);
+    const err = [];
+    assert.equal(main([], { out: (s) => out.push(s), err: (e) => err.push(e) }), 0, err.join("\n"));
     assert.ok(out.length > 0);
 });
 
@@ -286,6 +318,6 @@ test("the summary counts the register rows the guard reads", () => {
     } finally {
         fs.rmSync(dir, { recursive: true });
     }
-    assert.ok(err.some((e) => /Register\.md:6:15: warning: "Vylacor" /.test(e)));
+    assert.ok(err.some((e) => /Register\.md:6:15: error: "Vylacor" /.test(e)));
     assert.ok(out.includes("5 register row(s) checked"), out.join("\n"));
 });

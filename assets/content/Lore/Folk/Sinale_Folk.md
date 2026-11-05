@@ -107,12 +107,12 @@ We were there. We are here still. We remember it as it was.
 
 ::: {.verse form=elegy lang=sina enc=sinaveldikkoenc work=sinale-folk-1}
 tenvas oltarne enneli eso aunekkeho osotos aldis onsa kostemi vennas/
-.irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa/
+.irtal oltandi aulira irvattosto nerveho seltì onsa olkai onsa/
 erni ehii onsa tunes ralti evi melke evi silnara iltettu/
 .uttes talnava tunes evi iltettu evette vennas nuuvaho/
 ehii onsaa evi venatta evette vennas oso ruvas ovuu taumel sirne/
 .ennedhi ovuuho oltarne ehiiho/
-setty ehii oluho sendeppi ehii ihaho serdattota ehii onsa tennai
+seltì ehii oluho sendeppi ehii ihaho serdattota ehii onsa tennai
 :::
 
 Why the Sinale have opened themselves to the Élavendren and no other human people is a question that scholars, diplomats, and envious monarchs have pondered for centuries. The Sinale have never explained, and the Élavendren have the good sense not to ask.

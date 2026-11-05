@@ -5660,7 +5660,7 @@ data:
     - {form: borgva, class: n, field: Everyday speech, gloss: fort}
     - {form: eldnri, class: adj, field: Everyday speech, gloss: burned}
     - {form: landji, class: n, field: Everyday speech, gloss: farming}
-    - {form: skyldva, class: n, field: Everyday speech, gloss: dues}
+    - {form: skolva, class: n, field: Everyday speech, gloss: dues}
     - {form: lanva, class: n, field: Everyday speech, gloss: loan}
     - {form: hundva, class: n, field: Everyday speech, gloss: dog}
     - {form: grasnemma, class: n, field: Everyday speech, gloss: hay}
@@ -6147,6 +6147,7 @@ data:
     - {form: vigstyrma, instead: vigstirma, why: y is never a vowel}
     - {form: thmyl, instead: thmil, why: y is never a vowel}
     - {form: thyrsta, instead: thirsta, why: y is never a vowel}
+    - {form: skyldva, instead: skolva, why: y is never a vowel}
 # terran_analog: the place-name layers follow Scandinavian toponymy: theophoric names such as Odensvi, Torsberg and Ullevi, a founder's name as in Grimsstadir, and the assembly's as in Thingvellir and Logberg.
 sohl:
   system:

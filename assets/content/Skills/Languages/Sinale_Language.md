@@ -551,7 +551,10 @@ data:
       field: "Trees, plants and the living wood"
       gloss: "the deep wood"
       variants: ["lonkuho", "lonkutos"]
-    - {form: rivy, class: n, field: "Trees, plants and the living wood", gloss: "the turning leaf"}
+    - form: rellì
+      class: n
+      field: "Trees, plants and the living wood"
+      gloss: "the turning leaf"
     - form: lenti
       class: n
       field: "Trees, plants and the living wood"
@@ -691,11 +694,11 @@ data:
       gloss: "a single leaf"
       built: [lauppi, "-nu"]
       concept: leaf
-    - form: rivyny
+    - form: rellìnì
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a single turning leaf"
-      built: [rivy, "-nì"]
+      built: [rellì, "-nì"]
     - form: aimettinu
       class: "n"
       field: "Trees, plants and the living wood"
@@ -922,7 +925,7 @@ data:
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a ridge"
-    - form: vyrke
+    - form: tìrke
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a peak"
@@ -1125,7 +1128,7 @@ data:
       field: "Song, speech, memory and the telling"
       gloss: "a lay, a long song"
     - {form: kilte, class: "n", field: "Song, speech, memory and the telling", gloss: "laughter"}
-    - form: hylse
+    - form: hìlpe
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "whisper"
@@ -1628,8 +1631,8 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "a father"
       concept: father
-    - form: nysse
-      variants: ["nyssetes"]
+    - form: nìmme
+      variants: ["nìmmetes"]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a child"
@@ -1844,11 +1847,11 @@ data:
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "welcome, take in"
-    - form: nyssekki
+    - form: nìmmekki
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a little one, a babe"
-      built: [nysse, "-kki"]
+      built: [nìmme, "-kki"]
     - form: ernattisa
       class: adj
       field: "Kin, hearth, the person and the body"
@@ -2499,7 +2502,7 @@ data:
       field: Other peoples
       gloss: "a war-host"
       built: [kastai, "-kko"]
-    - {form: setty, class: v, field: "Motion, rest and being", gloss: "stand", concept: stand}
+    - {form: seltì, class: v, field: "Motion, rest and being", gloss: "stand", concept: stand}
     - form: tupe
       class: v
       field: "Motion, rest and being"
@@ -3025,11 +3028,11 @@ data:
       field: "Motion, rest and being"
       gloss: "lead, guide along a way"
       concept: lead
-    - form: naltunysse
+    - form: naltunìmme
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a boy; a son in relation to a parent"
-      built: ["naltu", "nysse"]
+      built: ["naltu", "nìmme"]
       concept: [boy, son]
     - form: meerìnne
       class: "n"
@@ -3103,11 +3106,11 @@ data:
       gloss: "a leader, one who guides a people"
       built: ["nerava", "-nno"]
       concept: leader
-    - form: nemmanysse
+    - form: nemmanìmme
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a girl; a daughter in relation to a parent"
-      built: ["nemma", "nysse"]
+      built: ["nemma", "nìmme"]
       concept: [girl, daughter]
     - form: nemmalaumis
       class: "n"
@@ -3635,11 +3638,11 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "weariness, tiredness"
       built: ["mellavi", "-rsa"]
-    - form: settyrse
+    - form: seltìrse
       class: "n"
       field: "Motion, rest and being"
       gloss: "standing, the state of standing"
-      built: ["setty", "-rse"]
+      built: ["seltì", "-rse"]
     - form: pelvanni
       class: "v"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -4195,11 +4198,11 @@ data:
       field: "Motion, rest and being"
       gloss: "fail, fall short of what is attempted"
     - {form: nerai, class: "v", field: "Song, speech, memory and the telling", gloss: "weep"}
-    - form: settyta
+    - form: seltìta
       class: "v"
       field: "Motion, rest and being"
       gloss: "establish, set something in standing operation"
-      built: ["setty", "-ta"]
+      built: ["seltì", "-ta"]
     - form: meeli
       class: "adj"
       field: "Kin, hearth, the person and the body"
@@ -5284,11 +5287,11 @@ data:
       gloss: "the genitals, the place of seed"
       built: [aimetti, "-sto"]
       concept: genitals
-    - form: nysseste
+    - form: nìmmeste
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a womb, the place of the child"
-      built: [nysse, "-ste"]
+      built: [nìmme, "-ste"]
       concept: womb
     - form: pelsu
       class: n
@@ -5366,34 +5369,34 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "sex, the act of love"
       concept: sex
-    - form: nyssete
+    - form: nìmmete
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "conceive, begin a child"
-      built: [nysse, "-te"]
+      built: [nìmme, "-te"]
       concept: conceive
-    - form: nysseterse
+    - form: nìmmeterse
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "pregnancy"
-      built: [nyssete, "-rse"]
+      built: [nìmmete, "-rse"]
       concept: pregnancy
-    - form: nyssese
+    - form: nìmmese
       class: adj
       field: "Kin, hearth, the person and the body"
       gloss: "pregnant, with child"
-      built: [nysse, "-se"]
+      built: [nìmme, "-se"]
       concept: pregnant
     - form: onte
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "birth"
       concept: birth
-    - form: nyssepehe
+    - form: nìmmepehe
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "give birth, give a child"
-      built: [nysse, pehe]
+      built: [nìmme, pehe]
       concept: give-birth
     - form: mevulta
       class: v
@@ -5499,11 +5502,11 @@ data:
       gloss: "a grandfather"
       built: [naltu, tulsa]
       concept: grandfather
-    - form: nyssenysse
+    - form: nìmmenìmme
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a grandchild, a child's child"
-      built: [nysse, nysse]
+      built: [nìmme, nìmme]
       concept: grandchild
     - form: nemmavantai
       class: n
@@ -5521,11 +5524,11 @@ data:
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a parent's sibling, an aunt or uncle"
-    - form: vantainysse
+    - form: vantainìmme
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a cousin, the child of a parent's sibling"
-      built: [vantai, nysse]
+      built: [vantai, nìmme]
       concept: cousin
     - form: nessi
       class: n
@@ -7282,8 +7285,8 @@ data:
         - "tellakila"
         - "tellakitta"
         - "eilavala"
-        - "rivyle"
-        - "rivytte"
+        - "rellìle"
+        - "rellìtte"
         - "nelìvette"
         - "pelvaila"
         - "tilvaila"
@@ -7392,7 +7395,7 @@ data:
       - "ilvìnte"
       - "tellakinto"
       - "eilavanto"
-      - "rivynte"
+      - "rellìnte"
       - "nelìvente"
       - "pelvainto"
       - "elvìrinte"
@@ -7620,7 +7623,7 @@ data:
     - {name: oltandiren aulirakko, tongue: sinale, built: [oltandi, -ren, aulira, -kko]}
     - {name: tellakitta eilavanto, tongue: sinale, built: [tellaki, -tta, eilava, -nto]}
     - {name: tellakitta, tongue: sinale, built: [tellaki, -tta]}
-    - {name: rivytti sìllente, tongue: sinale, built: [rivy, -tti, sìlle, -nte]}
+    - {name: rellìtti sìllente, tongue: sinale, built: [rellì, -tti, sìlle, -nte]}
     - {name: lentila talvento, tongue: sinale, built: [lenti, -la, talve, -nto]}
     - {name: hìssetti toimunto, tongue: sinale, built: [hìsse, -tti, toimu, -nto]}
     - {name: The Long Road, tongue: translation}
@@ -7853,6 +7856,29 @@ data:
     - {form: ylpise, instead: ìlpise, why: y is never a vowel}
     - {form: ylvi, instead: ìlvi, why: y is never a vowel}
     - {form: ylvihe, instead: ìlvihe, why: y is never a vowel}
+    - {form: rivy, instead: rellì, why: y is never a vowel}
+    - {form: rivyny, instead: rellìnì, why: y is never a vowel}
+    - {form: rivyle, instead: rellìle, why: y is never a vowel}
+    - {form: rivytte, instead: rellìtte, why: y is never a vowel}
+    - {form: rivynte, instead: rellìnte, why: y is never a vowel}
+    - {form: rivytti, instead: rellìtti, why: y is never a vowel}
+    - {form: vyrke, instead: tìrke, why: y is never a vowel}
+    - {form: hylse, instead: hìlpe, why: y is never a vowel}
+    - {form: nysse, instead: nìmme, why: y is never a vowel}
+    - {form: nyssetes, instead: nìmmetes, why: y is never a vowel}
+    - {form: nyssekki, instead: nìmmekki, why: y is never a vowel}
+    - {form: naltunysse, instead: naltunìmme, why: y is never a vowel}
+    - {form: nemmanysse, instead: nemmanìmme, why: y is never a vowel}
+    - {form: nysseste, instead: nìmmeste, why: y is never a vowel}
+    - {form: nyssete, instead: nìmmete, why: y is never a vowel}
+    - {form: nysseterse, instead: nìmmeterse, why: y is never a vowel}
+    - {form: nyssese, instead: nìmmese, why: y is never a vowel}
+    - {form: nyssepehe, instead: nìmmepehe, why: y is never a vowel}
+    - {form: nyssenysse, instead: nìmmenìmme, why: y is never a vowel}
+    - {form: vantainysse, instead: vantainìmme, why: y is never a vowel}
+    - {form: setty, instead: seltì, why: y is never a vowel}
+    - {form: settyrse, instead: seltìrse, why: y is never a vowel}
+    - {form: settyta, instead: seltìta, why: y is never a vowel}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -8023,7 +8049,7 @@ Sinale counts the world the way it meets it. A noun for something met in quantit
 
 ### Derivational suffixes
 
-A closed set of suffixes makes new words from old ones. Each takes the back or front form its vowels call for, so a front word such as _rivy_ "the turning leaf" takes _-he_ where a back word takes _-ho_:
+A closed set of suffixes makes new words from old ones. Each takes the back or front form its vowels call for, so a front word such as _rellì_ "the turning leaf" takes _-he_ where a back word takes _-ho_:
 
 ```sql
 SELECT gloss AS "Makes", '_' || written || '_' AS "Back", '_' || coalesce(front, written) || '_' AS "Front", examples[1] AS "Example"
@@ -8207,7 +8233,7 @@ Finally inspect the actual rendered passage in its intended script and font, inc
 _Luuro nuuva liseriho_
 : "Starlight sings on still water" (a greeting between friends, and the commonest one)
 
-_Setty lenti talveho_
+_Seltì lenti talveho_
 : "The tall grass stands in the low fog" (patience under a difficulty that will pass)
 
 _Tupe tilvai hìsse_
@@ -8216,7 +8242,7 @@ _Tupe tilvai hìsse_
 _Pehe ovu huoma, pehe ovu nìlki_
 : "You give the first warmth, you give the deep root" (a blessing on a new house)
 
-_Luuro ileva, luuro rivy_
+_Luuro ileva, luuro rellì_
 : "The clear place sings, the turning leaf sings" (of a season and a place agreeing, and by extension of a thing done at the right moment)
 
 ## Related Languages
@@ -8260,10 +8286,10 @@ FROM affixes WHERE language = 'thalorna-note-skill-sinalelng' AND kind IN ('line
 
 ### Given Names
 
-A stem is drawn from the world rather than from virtue: light, water, wood, weather, stone, the hours and the seasons. _Nuuva_ is starlight, _liseri_ still water, _rivy_ the turning leaf, _hìsse_ the held breath, _tilvai_ the seam of light where a cloud parts. The name is that thing, with an ending that says who carries it:
+A stem is drawn from the world rather than from virtue: light, water, wood, weather, stone, the hours and the seasons. _Nuuva_ is starlight, _liseri_ still water, _rellì_ the turning leaf, _hìsse_ the held breath, _tilvai_ the seam of light where a cloud parts. The name is that thing, with an ending that says who carries it:
 
 - _Nuuvatti_ "starlight" (a man), _Nuuvala_ and _Nuuvatta_ (women)
-- _Rivytti_, _Rivyle_, _Rivytte_—"the turning leaf"
+- _Rellìtti_, _Rellìle_, _Rellìtte_—"the turning leaf"
 - _Liseritti_, _Liserivo_, _Liserila_—"still water"
 
 Two endings are available to each, and the choice is the namer's ear rather than a rule, so one household names a daughter _Selkitte_ and another names a daughter _Selkile_ from the same stem.
@@ -8294,15 +8320,15 @@ A Sinale known for something more carries it as an epithet, which stands after t
 
 ### Male Given Names
 
-Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Huomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nuomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hìsseve, Ilvìtti, Tellakitti, Eilavatti, Rivytti, Nelìvetti, Hìssetti, Pelvaitti, Tilvaitti, Esselivo, Elvìritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nuomitti, Selkitti, Nìlkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo
+Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Huomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nuomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hìsseve, Ilvìtti, Tellakitti, Eilavatti, Rellìtti, Nelìvetti, Hìssetti, Pelvaitti, Tilvaitti, Esselivo, Elvìritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nuomitti, Selkitti, Nìlkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo
 
 ### Female Given Names
 
-Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Huomala, Huomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelìvele, Talvela, Talvetta, Nuomila, Nuomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hìssele, Hìssette, Ilvìle, Ilvìtte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rivyle, Rivytte, Nelìvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvìrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nìlkile, Nìlkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
+Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Huomala, Huomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelìvele, Talvela, Talvetta, Nuomila, Nuomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hìssele, Hìssette, Ilvìle, Ilvìtte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rellìle, Rellìtte, Nelìvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvìrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nìlkile, Nìlkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
 
 ### Lineage Names (Inherited Matrilineally)
 
-Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nuominto—"the still hour" Lovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hìssente—"the held breath" Ilvìnte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rivynte—"the turning leaf" Nelìvente—"the first frost" Pelvainto—"the low cloud" Elvìrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nìlkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Sìllente—"the rising note" Ressinto—"the plaited mat"
+Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nuominto—"the still hour" Lovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hìssente—"the held breath" Ilvìnte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rellìnte—"the turning leaf" Nelìvente—"the first frost" Pelvainto—"the low cloud" Elvìrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nìlkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Sìllente—"the rising note" Ressinto—"the plaited mat"
 
 ## Lexicon
 

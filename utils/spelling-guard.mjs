@@ -28,6 +28,10 @@
  *    in a word.
  * 4. `y` is never a vowel. A standalone `y` is a consonant and stands only
  *    before a vowel; after a vowel it closes the glide its pair declares.
+ *    A rule 4 finding is an error. The one exemption is a whole word, a
+ *    hyphenated compound included, that the language's `held` list in
+ *    `utils/fixtures/vowel-y-respellings.json` names: an English place name
+ *    kept as English.
  *
  * One finding is written per word, listing every rule it breaks. Entries
  * recording a form deliberately not used (`instead`) are skipped.
@@ -37,8 +41,9 @@
  * guide declares, each with the guide's `kind`; any other is a finding at its
  * line, and never extends the alphabet its words are read by.
  *
- * Findings are `file:line:column: warning: message`, to stderr; the summary
- * goes to stdout. The check is report-only and exits 0.
+ * Findings are `file:line:column: severity: message`, to stderr; the summary
+ * goes to stdout. A word that breaks rule 4 is an `error`, any other finding
+ * a `warning`. The check exits 1 when it reports an error and 0 otherwise.
  *
  * @module
  */
@@ -49,6 +54,7 @@ import path from "node:path";
 import YAML from "yaml";
 import { noteFilesWhere } from "./note-index.mjs";
 import { frontmatterDoc, sourcePositions } from "./vowel-pairs.mjs";
+import { TONGUES, loadFixture } from "./vowel-y.mjs";
 
 /**
  * The tone marks: caron (rising) and circumflex (falling), as combining
@@ -203,9 +209,10 @@ export function additionsOf(text, alphabet) {
  *
  * @param {string} form
  * @param {ReturnType<typeof alphabetOf>} alphabet
+ * @param {Set<string>} [exempt] - Folded words rule 4 does not read.
  * @returns {{rule: 1 | 2 | 3 | 4, offset: number, message: string}[]}
  */
-export function checkWord(form, alphabet) {
+export function checkWord(form, alphabet, exempt = new Set()) {
     const { singles, groups, vowels, held, marks } = alphabet;
     const glides = alphabet.glides ?? new Set();
     const issues = [];
@@ -325,6 +332,17 @@ export function checkWord(form, alphabet) {
     // before a vowel; a y after a vowel was taken by its glide.
     for (const t of tokens) {
         if (t.text !== "y") continue;
+        let from = t.start;
+        let to = t.start;
+        // A hyphenated compound is one word, so the exemption reads all of it.
+        const breaks = (u) => u.sep && u.base !== "-";
+        while (from > 0 && !breaks(units[from - 1])) from -= 1;
+        while (to + 1 < units.length && !breaks(units[to + 1])) to += 1;
+        const whole = units
+            .slice(from, to + 1)
+            .map((u) => (u.base + u.marks.join("")).normalize("NFC"))
+            .join("");
+        if (exempt.has(whole)) continue;
         const next = units[t.start + 1];
         if (!next || next.sep || !vowels.has(next.base))
             add(
@@ -429,6 +447,25 @@ export function registerRowsChecked(text) {
 }
 
 /**
+ * The words a language note keeps with a vowel _y_: the fixture's `held` forms
+ * of the tongue whose note this is, folded to lowercase.
+ *
+ * @param {string} text - The language note.
+ * @returns {Set<string>}
+ */
+export function heldWords(text) {
+    const shortcode = languageName(text);
+    const tongues = Object.entries(TONGUES)
+        .filter(([, address]) => address.endsWith(`-${shortcode}`))
+        .map(([tongue]) => tongue);
+    return new Set(
+        loadFixture()
+            .held.filter(({ tongue }) => tongues.includes(tongue))
+            .map(({ form }) => form.normalize("NFC").toLowerCase()),
+    );
+}
+
+/**
  * The findings of one language note, one per word.
  *
  * @param {string} text - The language note.
@@ -440,9 +477,10 @@ export function registerRowsChecked(text) {
  */
 export function spellingFindings(text, guideText) {
     const alphabet = alphabetOf(guideText);
+    const exempt = heldWords(text);
     const out = [];
     for (const { form, register, at } of formsOf(text)) {
-        const issues = checkWord(form, alphabet);
+        const issues = checkWord(form, alphabet, exempt);
         if (issues.length) out.push({ form, register, issues, ...at(issues[0].offset) });
     }
     return out;
@@ -454,7 +492,7 @@ export function spellingFindings(text, guideText) {
  * @param {string[]} argv - Language notes; every language note when none are named.
  * @param {{out: (s: string) => void, err: (s: string) => void}} [io]
  * @param {string} [cwd]
- * @returns {number} The exit status, always 0.
+ * @returns {number} The exit status: 1 when a word breaks rule 4, else 0.
  */
 export function main(argv, io = { out: console.log, err: console.error }, cwd = process.cwd()) {
     const [guideFile] = noteFilesWhere(
@@ -477,6 +515,7 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
     let additions = 0;
     let registerRows = 0;
     let registerHits = 0;
+    let errors = 0;
     for (const file of files) {
         const rel = path.relative(cwd, path.resolve(cwd, file)) || file;
         const text = fs.readFileSync(path.resolve(cwd, file), "utf8");
@@ -491,8 +530,10 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
             if (hit.register) registerHits += 1;
             byLanguage.set(name, (byLanguage.get(name) ?? 0) + 1);
             for (const i of hit.issues) byRule.set(i.rule, (byRule.get(i.rule) ?? 0) + 1);
+            const severity = hit.issues.some((i) => i.rule === 4) ? "error" : "warning";
+            if (severity === "error") errors += 1;
             io.err(
-                `${rel}:${hit.line}:${hit.column}: warning: "${hit.form}" breaks the spelling guide: ${hit.issues
+                `${rel}:${hit.line}:${hit.column}: ${severity}: "${hit.form}" breaks the spelling guide: ${hit.issues
                     .map((i) => `rule ${i.rule}, ${i.message}`)
                     .join("; ")}`,
             );
@@ -505,7 +546,7 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
     io.out(`${registerRows} register row(s) checked`);
     io.out(`${registerHits} register name(s) break the guide`);
     io.out(`${words} word(s) in ${byLanguage.size} language(s)`);
-    return 0;
+    return errors ? 1 : 0;
 }
 
 if (import.meta.filename === path.resolve(process.argv[1] ?? ""))

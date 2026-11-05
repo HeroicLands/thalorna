@@ -113,17 +113,17 @@ It was the finest thing that anyone has made,/
 
 ::: {.verse form=elegy lang=sina enc=sinaveldikkoenc work=song}
 tenvas oltarne enneli eso aunekkeho osotos aldis onsa kostemi vennas/
-.irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa/
+.irtal oltandi aulira irvattosto nerveho seltì onsa olkai onsa/
 erni ehii onsa tunes ralti evi melke evi silnara iltettu/
 .uttes talnava tunes evi iltettu evette vennas nuuvaho/
 ehii onsaa evi venatta evette vennas oso ruvas ovuu taumel sirne/
 .ennedhi ovuuho oltarne ehiiho/
-setty ehii oluho sendeppi ehii ihaho serdattota ehii onsa tennai/
+seltì ehii oluho sendeppi ehii ihaho serdattota ehii onsa tennai/
 tenvas irnanno vennas halte alken vennas kaldis/
 .yinse ehii eirandi nerve evi aldis nerve/
 halte onsaa oltandi nerve ahi erni ehii ilnava kaldistos/
 .rilpa evi selpai ressa ralten vennas halte eltane ralti/
-setty onsaa ilpe raltitos ralti onsâa/
+seltì onsaa ilpe raltitos ralti onsâa/
 .sattai ehii onsaa olteho varinne vennas ennos erni ehii/
 vìste vennas onsaa evi ovaikke sorkanda
 
@@ -142,15 +142,15 @@ aulten ralti salpu vennas leesì ahi vaukka evette oluho/
 .holdi leesì holdi leesì somarriho aulira onsaa somarriho/
 ahi maskari ehii ahi meeve ehii onsa maskari lonku aiva/
 .luuro ehii ilnava ahi velpe ehii olnaro/
-alte setty ehii aulten sennave eso leesìhe hissel ehii/
+alte seltì ehii aulten sennave eso leesìhe hissel ehii/
 .ahi eho aldis tellame hisseltos ehiiho
 
 irpa melke sorkandaho/
 .osotos irnarsa iltettu/
-setty irtalmelke tirvaliho vaukka onsa evette/
+seltì irtalmelke tirvaliho vaukka onsa evette/
 .irtal evette irtalleesìhe remis onsa ehii ulsen/
 ravatto ultas tirvaliho ahi velpe onsa/
-.tupe nysse vennas melke nysse vennas onsaa
+.tupe nìmme vennas melke nìmme vennas onsaa
 
 selpaita irnanno vennas eilava vehesto somarriho/
 .ahi supe teipannu ilte onsa rauttu pelvai/
@@ -180,7 +180,7 @@ ahi herrai onsaa kerrai aume onsaa intiso taltai uttes onsaa/
 [....·   ·   ·]{lang=zxx}
 
 tenvas oltarne enneli eso aunekkeho osotos aldis onsa kostemi vennas/
-.setty onsaa ilpe kaldistos kaldis onsaa ulsen/
+.seltì onsaa ilpe kaldistos kaldis onsaa ulsen/
 sorkanda onsa somarri ahi velpe aulira sorkandaho/
 .entel irpa melke oluho ahi leval ehii/
 sendeppi sìtte selto nerveho insu eho sìtte talnavaho/

@@ -154,7 +154,7 @@
         },
         {
             "from": "hildwyn",
-            "to": "hildwin",
+            "to": "hildwiin",
             "tongue": "eilwithi"
         },
         {
@@ -1239,6 +1239,144 @@
             "from": "yra",
             "to": "ira",
             "tongue": "varokhi"
+        },
+        {
+            "from": "rivy",
+            "to": "rellì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "rivyny",
+            "to": "rellìnì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "rivyle",
+            "to": "rellìle",
+            "tongue": "sinale"
+        },
+        {
+            "from": "rivytte",
+            "to": "rellìtte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "rivynte",
+            "to": "rellìnte",
+            "tongue": "sinale"
+        },
+        {
+            "from": "rivytti",
+            "to": "rellìtti",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vyrke",
+            "to": "tìrke",
+            "tongue": "sinale"
+        },
+        {
+            "from": "hylse",
+            "to": "hìlpe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nysse",
+            "to": "nìmme",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nyssetes",
+            "to": "nìmmetes",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nyssekki",
+            "to": "nìmmekki",
+            "tongue": "sinale"
+        },
+        {
+            "from": "naltunysse",
+            "to": "naltunìmme",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nemmanysse",
+            "to": "nemmanìmme",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nysseste",
+            "to": "nìmmeste",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nyssete",
+            "to": "nìmmete",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nysseterse",
+            "to": "nìmmeterse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nyssese",
+            "to": "nìmmese",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nyssepehe",
+            "to": "nìmmepehe",
+            "tongue": "sinale"
+        },
+        {
+            "from": "nyssenysse",
+            "to": "nìmmenìmme",
+            "tongue": "sinale"
+        },
+        {
+            "from": "vantainysse",
+            "to": "vantainìmme",
+            "tongue": "sinale"
+        },
+        {
+            "from": "setty",
+            "to": "seltì",
+            "tongue": "sinale"
+        },
+        {
+            "from": "settyrse",
+            "to": "seltìrse",
+            "tongue": "sinale"
+        },
+        {
+            "from": "settyta",
+            "to": "seltìta",
+            "tongue": "sinale"
+        },
+        {
+            "from": "skyldva",
+            "to": "skolva",
+            "tongue": "nordmal"
+        },
+        {
+            "from": "sky",
+            "to": "skai",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "wyn",
+            "to": "wiin",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
+        },
+        {
+            "from": "hildwin",
+            "to": "hildwiin",
+            "tongue": "eilwithi",
+            "scope": "eilwithi"
         }
     ],
     "held": [
@@ -1256,136 +1394,6 @@
             "form": "priory",
             "tongue": "eilwithi",
             "why": "an English place name, kept as English"
-        },
-        {
-            "form": "sky",
-            "tongue": "eilwithi",
-            "why": "ski is another English word"
-        },
-        {
-            "form": "wyn",
-            "tongue": "eilwithi",
-            "why": "win is another English word and another Aelwythi element"
-        },
-        {
-            "form": "skyldva",
-            "tongue": "nordmal",
-            "why": "skildva is another Nordmal word"
-        },
-        {
-            "form": "rivy",
-            "tongue": "sinale",
-            "why": "rivì is a Finnish word"
-        },
-        {
-            "form": "rivyny",
-            "tongue": "sinale",
-            "why": "built on rivy, which is held"
-        },
-        {
-            "form": "vyrke",
-            "tongue": "sinale",
-            "why": "vìrke is a Finnish word"
-        },
-        {
-            "form": "hylse",
-            "tongue": "sinale",
-            "why": "hìlse is a Finnish word"
-        },
-        {
-            "form": "nysse",
-            "tongue": "sinale",
-            "why": "nìsse is a Finnish word"
-        },
-        {
-            "form": "nyssetes",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "nyssekki",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "setty",
-            "tongue": "sinale",
-            "why": "settì is a Finnish word"
-        },
-        {
-            "form": "naltunysse",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "nemmanysse",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "settyrse",
-            "tongue": "sinale",
-            "why": "built on setty, which is held"
-        },
-        {
-            "form": "settyta",
-            "tongue": "sinale",
-            "why": "built on setty, which is held"
-        },
-        {
-            "form": "nysseste",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "nyssete",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "nysseterse",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "nyssese",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "nyssepehe",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "nyssenysse",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "vantainysse",
-            "tongue": "sinale",
-            "why": "built on nysse, which is held"
-        },
-        {
-            "form": "rivyle",
-            "tongue": "sinale",
-            "why": "built on rivy, which is held"
-        },
-        {
-            "form": "rivytte",
-            "tongue": "sinale",
-            "why": "built on rivy, which is held"
-        },
-        {
-            "form": "rivynte",
-            "tongue": "sinale",
-            "why": "built on rivy, which is held"
-        },
-        {
-            "form": "rivytti",
-            "tongue": "sinale",
-            "why": "built on rivy, which is held"
         }
     ]
 }
