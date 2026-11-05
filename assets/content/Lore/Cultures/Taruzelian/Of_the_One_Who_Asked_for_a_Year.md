@@ -4,7 +4,7 @@ name: {full: Of the One Who Asked for a Year}
 type: lore
 subType: literature
 description: "The roll the houses of the coast read aloud on the three nights of the Silent Passage, when the temples are shut: Numaru Kadumi, the great lender of Besikar, told he will die before the harvest with his book open, buys eloquence from Ólvenia, a quiet month from Brazemas and a fast road from Pozeras, sits three nights at the shut door of Sélmoros raising his offer and is not even refused, and comes home to close what he can and to ask his daughter to stand for the rest."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   packFolder: settinglore

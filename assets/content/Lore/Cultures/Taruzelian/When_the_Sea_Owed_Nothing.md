@@ -4,7 +4,7 @@ name: {full: When the Sea Owed Nothing, taru: [mani zu fusanam]}
 type: lore
 subType: literature
 description: "The roll the First of the Council of Besikar reads from the breakwater at the Harbor Due: the sea that gave and took back and kept no count, the people of the hulls, Tanaduya refused a harbor by three gods, the debt she took on for a sea that would not sign, seven winters of stones, the split tally the sea never brings back, and the rite the city keeps every spring."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   packFolder: settinglore

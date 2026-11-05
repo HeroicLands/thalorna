@@ -4,7 +4,7 @@ name: {full: The Praise of the Masks, en: [The Oration at Aravantara]}
 type: lore
 subType: literature
 description: "The funeral oration an adopted heir gave from the speakers' stone in the square of Aravantara over the last master of a Hilen house: the masks of the line praised one by one as they stood behind the bier, two brothers of Olkassa who walk side by side and never one before the other, a son lost at the Shoals with no mask in the cupboard, and the name the speaker gave up to carry the house's."
-tags: [draft, vylaria]
+tags: [vylaria]
 data:
   culture: vylarianclt
   packFolder: settinglore
@@ -72,7 +72,7 @@ I will tell you instead three things he did that are not on the stone.
 
 He kept the last sheaf. You all leave a sheaf standing in the field for the dead, because your fathers did; he left it standing in every field on the estate, not one field, every field, every year, and when his factor told him what the sheaves were worth he said that the dead of this province had not been paid for their wheat either.
 
-He never filed a weight. He told me once that the magistrate behind me was his teacher, though the man had been dead for two hundred years, and that the three broken weights in the cupboard were the only lesson he ever needed.
+He never filed a weight. He told me once that the magistrate behind me was his teacher, though the man had been dead for six hundred years, and that the three broken weights in the cupboard were the only lesson he ever needed.
 
 And when his son did not come back from the Shoals, he did not go to the Senate and ask for anything, though he had the standing to ask and the house had given the Senate a son. He went instead across the boundary stone between his estate and my father's, on foot, in the grey gown, and he stood at my father's door at the hour of the morning call, which no master of a noble house does at the door of a family of the horse order, and he asked my father for his second son. My father gave me. You know the law of it: a man adopted goes out of his father's hand into another's, and out of his house into another's, and takes the other's name and the other's ancestors and the other's dead, and leaves his own on the road. My father gave me in the doorway, with his steward watching and my mother behind him. I went across the stone with the old man on foot. I have not crossed back as a son since.
 

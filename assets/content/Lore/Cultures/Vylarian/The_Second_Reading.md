@@ -4,7 +4,7 @@ name: {full: The Second Reading, en: [The Ozethos of the Twelfth]}
 type: lore
 subType: literature
 description: "The tale the Omelars of the legions tell a newly licensed chaplain on the night of his licensing, set down in the manner of the annals: the signs of the year the regent's council sent the Doran Hilvan into the Kervaron, the flame read at the foot of the passes, the second reading ordered and given with one small word added, the Ozethos left behind with the rear cohorts, and the fire he read every evening of the winter."
-tags: [draft, vylaria]
+tags: [vylaria]
 data:
   culture: vylarianclt
   packFolder: settinglore

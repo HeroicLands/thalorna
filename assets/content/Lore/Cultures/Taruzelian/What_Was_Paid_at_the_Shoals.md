@@ -4,7 +4,7 @@ name: {full: What Was Paid at the Shoals}
 type: lore
 subType: literature
 description: "The song the veterans' halls of Yamuzel sing on the night after the Fleet Review, set out as an account: the broadsheet read as a promise, the four things promised, the small boats that went into the Shoals and the dead of one hall named one by one, the discharge and the purse of silver counted coin by coin, and the broadsheet kept on the wall as the veterans' half of a tally they mean to bring back."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   packFolder: settinglore

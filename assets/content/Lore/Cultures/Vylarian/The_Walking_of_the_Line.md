@@ -4,7 +4,7 @@ name: {full: The Walking of the Line, en: [The Sixth Book of the Hallowed Bounda
 type: lore
 subType: literature
 description: "The sixth book of the court epic of the Restoration, which the grammar schools set before any other: the Senator who leaves his legions on the river flats, Árdavon's two faces at the first stone, the Empire's ages told in the god's mouth, the six hills walked, the fathers carried out past the line, and the stone left without a name."
-tags: [draft, vylaria]
+tags: [vylaria]
 data:
   culture: vylarianclt
   packFolder: settinglore

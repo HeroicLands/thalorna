@@ -4,7 +4,7 @@ name: {full: The Evening Songs, en: [The Songs from the Smoke Tower]}
 type: lore
 subType: literature
 description: "Five love elegies a watch officer on the Moktur frontier wrote at dusk on the backs of his tower's smoke tallies, to a veteran's daughter in the capital whose calling name he had no right to use: the smoke counted and the years counted, the marsh he does not look at, the one door, her father's letter, and the last evening, when he writes her given name."
-tags: [draft, vylaria]
+tags: [vylaria]
 data:
   culture: vylarianclt
   packFolder: settinglore

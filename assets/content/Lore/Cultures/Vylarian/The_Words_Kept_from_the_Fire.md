@@ -4,7 +4,7 @@ name: {full: The Words Kept from the Fire, en: [The Jurist's Rules]}
 type: lore
 subType: literature
 description: "The rules of a jurist of the Republic whose books burned with the imperial archive, gathered by the law schools from the pleadings and teachers' copies that had quoted them: the roll, the seal and the witness, the oath, the hand, the guest, the dead and the line, and the name, each rule with the masters' gloss and the masters' quarrels, ending on the rule that what is not written was not done."
-tags: [draft, vylaria]
+tags: [vylaria]
 data:
   culture: vylarianclt
   packFolder: settinglore

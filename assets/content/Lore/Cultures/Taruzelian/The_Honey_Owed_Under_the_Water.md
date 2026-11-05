@@ -4,7 +4,7 @@ name: {full: The Honey Owed Under the Water}
 type: lore
 subType: literature
 description: "The voyage tale the captains of the Visizuni tell each new hand on the night before a first sailing: Azara Visizuni driven past the last chart, a jar of honey bargained to the thing under the water for passage forever, a king of a black island who had never been refused, salt sold where the fish rot, and the line in the house's book that has been paid every year since."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   packFolder: settinglore

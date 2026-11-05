@@ -4,7 +4,7 @@ name: {full: The Morning Call, en: [The Ninety Stairs]}
 type: lore
 subType: literature
 description: "The third satire in the book of a client-poet of the capital, read aloud at dinners on the Heights by the people it mocks: ninety stairs down from the Warrens before light, the climb to a patron's door on the Laurel, the steward who places the clients and puts the poet a step lower every year, the patron who is out, a cupboard of masks bought last spring, and the walk home past a statue that has no name at all."
-tags: [draft, vylaria]
+tags: [vylaria]
 data:
   culture: vylarianclt
   packFolder: settinglore

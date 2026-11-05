@@ -4,7 +4,7 @@ name: {full: The Dispute of the Hull and the Strongroom}
 type: lore
 subType: literature
 description: "The comic dispute two reciters play in Ólvenia's temple square at the Festival of the Golden Harvest: the Hull boasts of the sea and the Strongroom of the book, each claims the other's dead, and the priestess of the Bountiful One judges them partners and takes the first portion for the goddess; in Yamuzel since the war a porter cuts in before the verdict, and nobody answers him."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   packFolder: settinglore

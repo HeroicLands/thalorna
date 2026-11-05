@@ -4,7 +4,7 @@ name: {full: The Road Paid Three Times}
 type: lore
 subType: literature
 description: "The hill tribes' winter telling of Bilgun of the third fort, paid by the fort to guard the pass, by a Besikar house to close it and by the Pashinar caravans to open it, who did all three to the letter and made the coast read its own papers aloud; and of the fourth time the road was paid, in the war, when the hills paid it."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   packFolder: settinglore
