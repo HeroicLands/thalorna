@@ -11,100 +11,42 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: Nominal monarchy over a patchwork of petty kingdoms, city-states, and free territories.
+    summary: >-
+      An elective crown over the three kingdoms: the lords who bring their own banners to the ban elect a High King in the High Hall at Lezkora, who calls the ban against an enemy from outside Tarvénia and judges between lords, with no standing army, no central bureaucracy and little revenue beyond his own estates.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          Cast out by the realm and set beyond its protection—outlawed, banished, or attainted. Known to the polity only as one it has excluded.
+          Cast out by a lord, a crown or a council of Tarvénia, and owed protection by none of them.
       - level: 1
         title: Unfree
         description: >-
-          Bound to the land or to a master, owing labor rather than rent, and unable to depart, marry, or dispose of property at will.
+          Bound to a lord's land, owing the lord labor and a share of the harvest, and unable to leave it without the lord's leave.
       - level: 2
         title: Freeman
         description: >-
-          Free at law to hold, trade, and remove where they will, and answerable directly to the realm's courts, but bearing no rank within it.
+          Free to hold land, trade and go where they will, and answerable to the courts of the lord, the crown or the town they live under.
       - level: 3
         title: Gentry
         description: >-
-          Entitled to bear arms and to be answered as a gentleman, holding no title of nobility but standing above the common freeman by birth or grant.
+          Of a family of standing that holds no lordship and brings no banner of its own to the ban.
       - level: 4
         title: Knight
         description: >-
-          Holding land of a lord by military service, owing that service in person, and bearing the arms and obligations of the fee.
+          Holding land of a lord or a king by mounted service, and riding to the ban under that lord's banner.
       - level: 5
-        title: Lesser Nobility
+        title: Lord
         description: >-
-          Holding a fief in their own right, with vassals beneath them and a greater lord above, and exercising justice within their holding.
-      - level: 6
-        title: Greater Nobility
-        description: >-
-          Holding a province of the crown directly as tenant-in-chief, answering to no authority below the sovereign, and commanding lesser lords in turn.
-      - level: 7
-        title: Prince or Princess of the Blood
-        description: >-
-          Of the ruling house by blood or marriage, standing above the nobility in precedence and in claim, but holding no crown.
-      - level: 8
-        title: Sovereign
-        description: >-
-          The crown itself, from which all other standing in the realm derives and to which all fealty within it ultimately runs.
+          Of a house that holds land in Asturath, Galvaren or Lienrik and brings its own banner to the ban of Tarvénia. The head of the house has a place on the benches of the High Hall.
     offices:
+      High King: >-
+        Held by a Lord, elected in the High Hall at Lezkora by two voices in every three of the electors, and holding until death or until enough lords come up to Lezkora to put out the hearth and elect another. Swears the terms of the crown at the hall's oath stone: calls the ban only against an enemy from outside Tarvénia, judges between lords who bring him their quarrel, keeps the charter of the Free City of Valthari and the old arrangement with the Free Territory of Eskarath, and takes nothing from any lord's land that the terms do not allow.
+      Elector: >-
+        Held by a Lord. A lord of Asturath, Galvaren or Lienrik who brings his own banner to the ban and has his own place on the High Hall's benches. When the crown falls vacant he climbs to Lezkora with twelve sworn men, may name a candidate, and gives his voice aloud at the oath stone.
       Keeper of the Hall: >-
-        Keeper of the High Hall at Lezkora, its hearth and the chest of its roll, who lives at the hall and opens it to the lords; appointed by the High King.
-      King: Male sovereign, reigning in his own right.
-      Queen: Female sovereign, reigning in her own right.
-      Queen Consort: Female spouse of a reigning king.
-      Prince Consort: Male spouse of a reigning queen.
-      Prince: >-
-        Male member of the royal house by birth; or a sovereign ruling a principality in his own right.
-      Princess: >-
-        Female member of the royal house by birth or by marriage to a prince; or a sovereign ruling a principality in her own right.
-      Chancellor: Keeper of the great seal, through whom the crown's writs, charters and grants are issued.
-      Treasurer: Keeper of the realm's revenue, answerable for its receipt, audit and disbursement.
-      Steward: >-
-        Head of the royal household, and in some realms the first officer of the realm beneath the crown.
-      Constable: Commander of the realm's host in the field, holding the crown's military authority.
-      Marshal: >-
-        Second to the Constable, charged with the muster, the horse, discipline within the host, and the regulation of arms.
-      Chamberlain: >-
-        Keeper of the royal chamber, controlling the sovereign's private revenue and access to their person.
-      Justiciar: Chief justice of the realm, and commonly its regent when the sovereign is absent.
-      Butler: >-
-        Holder of the crown's right in wine and the levy upon it—a revenue office far richer than its name suggests.
-      Admiral: Commander of the realm's ships and of the coasts they guard.
-      Sheriff: >-
-        The crown's officer within a shire, answerable for its revenue, its courts, and the raising of its posse.
-      Coroner: >-
-        Keeper of the pleas of the crown within a district—sudden deaths, wrecks, and treasure trove.
-      Escheator: >-
-        Officer charged with lands falling to the crown by death without heir, by forfeiture, or by attainder.
-      Warden of the March: >-
-        Commander of a frontier district, commonly holding powers of war and justice the interior would not permit.
-      Castellan: Holder of a royal fortress, answerable for its garrison, its stores and its defense.
-      Governor: Ruler of a province in the sovereign's name, exercising delegated authority over it.
-      Lieutenant: >-
-        One holding an office in another's place, exercising that office's authority without its rank.
-      Forester: Keeper of the royal forests and of the distinct law that governs them
-      Purveyor: >-
-        Officer empowered to requisition goods and labor for the household at the crown's price—an office universally resented.
-      Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
-      Privy Councilor: >-
-        Member of the sovereign's inner council, advising on matters not brought before any wider body.
-      King of Arms: Principal officer of arms, ruling on heraldry, precedence, and the right to bear arms.
-      Herald: >-
-        Officer of arms serving as messenger, witness and envoy, whose person is protected even between enemies.
-      Master of the Horse: Keeper of the sovereign's stables, mounts, and the men who tend them.
-      Master of the Hunt: Keeper of the sovereign's hunt—its hounds, its quarry, and its grounds.
-      Falconer: >-
-        Keeper of the sovereign's hawks; a household post whose value lies chiefly in the access it grants.
-      Banneret: A lord leading a company beneath his own banner, in his own name and at his own charge.
-      Captain: >-
-        Commander of a body of troops raised for a campaign or a garrison, holding the post for its duration.
-      Serjeant: >-
-        Holder of a specific service owed to a lord or the crown, or a lesser command within a company.
-      Manorial Officer: >-
-        Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
+        Held by a Freeman or above, appointed by the High King. Lives at the High Hall at Lezkora, keeps its benches, its roof, its hearth and the chest of its roll, opens it to the lords, and puts out the hearth when a High King dies.
+      Herald of the Crown: >-
+        Held by a Freeman or above. Carries the crown's word to the lords, and rides to every lord with a seat in the High Hall when a High King dies.
   seat: lezkora
   population: 3000000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
@@ -132,6 +74,8 @@ The Kingdom of Tarvénia is less a unified state than a political idea—a loose
 
 The High King is elected by a council of the major lords—a process that produces as much warfare as governance. The first election, about 540 AF, was held to drive out the Vilérian garrisons ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The crown carries the right to call the ban (a general military levy) and to adjudicate disputes between lords, but the High King has no standing army, no central bureaucracy, and limited revenue beyond his own estates. Attempts to centralize power have historically ended with the ambitious king deposed, exiled, or dead.
 
+The crown's officers are few. The Keeper of the Hall lives at [[place-lezkorahall|the High Hall]] at Lezkora, keeps it and its hearth, and opens it to the lords, and the crown's heralds carry the High King's word to them. The gate the electors climb through belongs to the [[affiliation-kngdmstrth|Kingdom of Asturath]], whose Warden of the Plateau Gate counts them through, and the hall's roll is kept by the [[affiliation-ordrsldwrd|Order of the Sealed Word]].
+
 ### Electing a High King
 
 The High King is elected at [[place-lezkora|Lezkora]], in [[place-lezkorahall|the High Hall]] on the lip of its plateau, by every lord of the three kingdoms who brings his own banner to the ban of Tarvénia: the lords of Asturath, Galvaren and Lienrik, about a hundred in all. An election has been over in a morning and has taken most of a summer, and it runs the same way every time.
@@ -146,6 +90,10 @@ The High King is elected at [[place-lezkora|Lezkora]], in [[place-lezkorahall|th
 The free city and the free territory have no voice in the hall. Valthari sends one of its councilors to hear the terms sworn, because its charter is one of them, and pays the new king the year's tribute; Eskarath sends the Speaker of its council for the same reason. A High King who breaks the terms is answered the way any lord who claims more than was agreed is answered, and the lords stop obeying him. If enough of them come up to Lezkora, they can put out the hearth and elect another, and the crown has been lost that way more than once.
 
 Local governance varies wildly. Some territories are ruled by hereditary lords in fortified hilltop castles. Others are governed by town councils of merchants and master craftsmen. The mountain clans in the interior follow their own ancient customs and acknowledge the High King only when it suits them.
+
+## Current Situation {#present}
+
+The High King is old. The electors chose [Ularrek Garrundeta]{.name data-type="being/npc"}, a lord of Asturath's high valleys, because each of the greater candidates could block the others. He holds his court in the High Hall as the guest of the king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}, and passes through that king's gate. The king of Lienrik, [Zenoth Oltris]{.name data-type="being/npc"}, means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
 
 ## The Five Regions
 
@@ -181,6 +129,20 @@ The Tarvenans are deeply skeptical of magic and of the [[affiliation-ordoarcanis
 ## Commerce and Currency
 
 Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Tarvénia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## History {#history}
+
+### The Occupation (about 140 to 538 AF)
+
+Between about 140 and 160 AF the legions of the [[affiliation-vylarinmpr|Vilérian Empire]] took Tarvénia's southern coast and central lowlands, made Valthari an imperial port and held Lienrik as an occupied march ([[lore-lowlandstaken|The Lowlands Taken]]). The mountains of Asturath were never taken, and after the legion lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF the Empire held the lowland approaches and left the mountains alone.
+
+### The First High Kings (about 538 to 605 AF)
+
+From about 538 AF the occupied lowlands stopped paying the Empire, and about 540 the mountain lords met at Lezkora and elected [Garvaneth]{.name data-type="being/npc"} of Asturath the first High King to drive the garrisons out ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The garrisons were out within seven years. Garvaneth had no silver to pay the lords who had elected him, and he sold Valthari a charter of self-government for a yearly tribute. About 556 AF the second High King, [Mórezan]{.name data-type="being/npc"}, took a host down the western pass into Provénzia ([[lore-malnebris|The First Great Raid]]), and the High Kings and the lords of the Western March have gone down the passes every season the snow allows since ([[lore-summerwar|The Summer War]]).
+
+### The Contested Crown (from about 605 AF)
+
+The lords of Lienrik have contested the crown more often than anyone, and [Estaril]{.name data-type="being/npc"} of Lienrik held it from about 605 AF, the first of several Liénriki High Kings. The High King has still most often been an Astúrathi lord, and the present one is.
 
 ## See Also
 

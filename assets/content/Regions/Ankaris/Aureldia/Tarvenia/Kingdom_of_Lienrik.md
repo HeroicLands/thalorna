@@ -54,13 +54,11 @@ data:
       King: >-
         The sovereign of Lienrik, of the house of Oltris, holding the crown by descent to the eldest son and keeping his court in the king's hall at Torvaleth; held at the rung of Sovereign.
       Heir of Lienrik: >-
-        The king's eldest son, who sits in the Court of Pleas beside its Master from his sixteenth year and governs in the king's absence; held as a Prince of the Blood.
+        The king's eldest son, who sits in the Court of Pleas from his sixteenth year to learn the kingdom's law; held as a Prince of the Blood.
       Castellan of Ornetho: >-
         Holder of the walled city of Ornetho, its gates, tolls and garrison, given by custom to a son or brother of the king; held as a Prince of the Blood.
       Crown Councilor: >-
         A great lord sworn to the king's council, which advises him on war, on the Roll of Houses and on Lienrik's claim to the High Kingship; held at the rung of Greater Nobility.
-      Keeper of the Seal: >-
-        Keeper of the king's seal and of the chancery at Torvaleth that writes his charters, writs and grants; held at the rung of Lesser Nobility or above.
       Master of the Pleas: >-
         President of the Court of Pleas, which hears the cases between the lords of Lienrik and every appeal from a bailiff's court, and keeper of its plea rolls; held at the rung of Greater Nobility.
       Keeper of the Roll of Houses: >-
@@ -71,10 +69,6 @@ data:
         Commander of the chain of watchtowers down the Thalsira and of the beacons that pass warning along it, and castellan of Bruthena and its bridge; held at the rung of Lesser Nobility or above.
       Towerkeeper: >-
         Hereditary keeper of one watchtower and its beacon, who takes the light-due in grain from every village in sight of it and answers to the Warden of the Towers; held at the rung of Gentry.
-      Receiver of the Dues: >-
-        Collector of the crown's share of the harvest and the vintage and of its cattle, gate and bridge tolls, who renders account at Torvaleth twice a year; held at the rung of Knight or above.
-      Master of the Granaries: >-
-        Keeper of the royal granaries at Torvaleth and along the river, who buys grain in a good year and sells it at the crown's price in a lean one; held at the rung of Knight or above.
       Bailiff: >-
         The crown's officer over one of the kingdom's sixteen districts, holding its court, raising its watch and answering for its dues; held at the rung of Gentry or Knight.
       River Warden: >-

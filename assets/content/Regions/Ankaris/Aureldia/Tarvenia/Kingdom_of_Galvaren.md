@@ -50,8 +50,6 @@ data:
       King: >-
         Held by the Sovereign. Rules Galvaren, presides at the Long Table and answers to the High King of Tarvénia for the ban. The crown passes to the late king's eldest son, and failing sons to his eldest daughter.
       Queen: Held by the Sovereign, when the crown has passed to a daughter.
-      Prince of the Headland: >-
-        Held by a Prince of the Blood. The heir to the crown, who keeps the castle of the Headland at Durvolka in the king's name.
       Lord of the Table: >-
         Held by a Lord. One of the landed lords seated at the Long Table by right of a valley lordship.
       Master of the Table: >-
