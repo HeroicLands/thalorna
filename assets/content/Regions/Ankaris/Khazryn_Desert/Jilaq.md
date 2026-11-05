@@ -14,7 +14,7 @@ A caravan sees Jilaq two nights before it will be nearest to it, and it sees it 
 
 **Jilaq**, "the lantern" in [[skill-sowideslng|Sovidur]], was the chief city of [[lore-towercities|the Tower Cities]], the Tower League: a ring wall of baked brick a mile across, a dry harbor of caravan yards, the league's counting-house, and a dozen light-towers, the tallest two hundred feet. The towers still stand. The lamp-chambers are black and empty, and on most nights nothing burns in them that a person could carry a flame to.
 
-## How It Was Made
+## How It Was Made {#history}
 
 About 190 BF the first of the great unions forced the tribes together under a single orghun, and the cities of the league were asked for tribute. Jilaq refused, as the league's charter said it must, and the host sat down before the ring wall for a season. When the wall was opened, the city was killed in a day and a night: the factors of a dozen peoples, the yard-hands, the lamp-keepers, the families of all of them. The union's riders took what they could carry and rode out. They did not lay the dead out, and no tribe's shaman said a name over any of them, because the city's dead were strangers to every rite the riders kept. The dead of the Tower League had no rite that anyone alive could perform for them, and the tribes the orghun led have been walking round the result ever since.
 
@@ -26,7 +26,7 @@ On the anniversary of the sack, and on still nights through the dry months, the 
 
 That is the part a traveler sees from the road. The rest is closer. The hunters the steppe tribes call [[being-yiqnotud|Yiqnotud]] gather where unreceived dead are, and Jilaq has held thousands of them for two thousand years. On any night of the year they cross onto the ring wall's ground in a form half made of the place: tall, wet-looking shapes that move between the towers and that can be touched, and that touch back. A man who camps within a mile of the wall is found in the morning with the sand around him scored in wide arcs and his face turned toward the lit towers. Tribes who graze the southern ranges lose a camel or two a decade to it, and a rider every generation or so.
 
-## How the Road Lives with It
+## How the Road Lives with It {#present}
 
 - **The road goes round.** [[lore-celestialroad|The Celestial Road]] leaves its old line three days south of the city. The detour is worn deep and every tribe whose range it crosses charges for it.
 - **Riders turn caravans back.** The tribes of the south edge of the [[place-hskrrgn|Ghoshiqor]] keep riders at the last cairn. A caravan master who asks about the short way is told once, by a dovaq's man with a hand on his bridle, and a caravan that goes on is not followed.

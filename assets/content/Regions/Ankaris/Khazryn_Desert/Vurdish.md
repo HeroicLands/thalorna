@@ -20,6 +20,10 @@ Above the Tellumi belt the north face of [[place-graznmntns|the Grazian Mountain
 
 Vurdish, which the Tellumi call by the word for a pass, is a labyrinth. No one has found where it ends. The passages climb, branch and climb again; some open on ledges of the face high above the belt and are sealed with ice, and some run to chambers whose roofs are lost in the dark. The cold deepens as you go up, and the air carries a sound, faint and regular, like water falling on a flat stone a long way off. Who cut it is not known. It was there before the Tellumi had a record.
 
+## Layers {#history}
+
+The passage was cut before the Tellumi kept any record, and nobody names who cut it. The old houses hold that their first lineages came down through it to the springs of the belt in the first age, about 2300 BF, and the houses of [[place-wstrndscnt|the Western Descent]] deny it. Since [The Breaking]{.name data-type="lore/history"} the exiled houses have sent climbers in after the signs on its lintels, and the [[affiliation-hseshirvan|House of Shirvan]] has hired them for ninety years.
+
 ## What the Tellumi Believe
 
 The old houses hold that their ancestors came down through Vurdish from the peaks above, in the first age, to the springs of the belt, and that the houses' genealogies root in particular summits that the passage reaches. The houses that trace their descent to [[place-wstrndscnt|the Western Descent]] instead call this a lie told to flatter, and the quarrel is old and bitter. Both agree that a house whose peak is lost has lost its claim to it.

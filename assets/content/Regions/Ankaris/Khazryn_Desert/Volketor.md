@@ -36,6 +36,10 @@ The tribes of Volketor are the best practiced with outsiders on the whole road, 
 
 Their herds are horses and sheep, and the tribes test the March's herds and unescorted strings in spring. They also carry the Velanthian frontier trade, grain east and horses and furs west, and some of their chiefs are as comfortable in a Velanthian host's hall as in their own tents. No tribe here holds more than a stretch of road a few days long. A caravan crosses perhaps eight ranges in the first five hundred miles, and the master pays each separately.
 
+## Current Situation {#present}
+
+The tribes of the margin sell passage at the edge of the March and carry the Velanthian frontier trade. In the [[place-hekardesert|Desert of Hek'ar]] the Blazing Oath of the Black Flame keeps a camp at the tower of the [[place-ruinsarkor|Ruins of Arkor]] and fights rival factions of its own faith, and the tribes sell passage to every faction at once. At [[place-roqid|Oroqid]] the tribe that holds the cistern awaits a Vylarian official who wants a standard from the strongroom, and word has reached the margin of a dovaq gathering the northern tribes.
+
 ## Dangers
 
 Raiders test unescorted strings; a string with a rider of the right tribe is rarely touched, and a string with none is lawful prey. Dust storms blow up in midsummer and last three days. In Hek'ar, knights of [[affiliation-blackflame|the Black Flame]] hunt the [[miscgear-velokeye|Eye of Velok]] among the [[place-ruinsarkor|Ruins of Arkor]] and fight one another over how. A fort from the days of the [[affiliation-vylarinmpr|Vylarian Empire]], [[place-roqid|Oroqid]] ("the camp"), stands on a low ridge near the road with its cistern still filling, and the tribe that waters there charges for the water and for its silence.

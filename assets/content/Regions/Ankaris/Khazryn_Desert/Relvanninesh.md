@@ -21,6 +21,10 @@ Three days north-west of [[place-ashkarad|Ashkarad]], where the irrigated strip 
 
 The palace is built of the sand it stands on. The craft of the house was to fuse dune sand into glass, and its princes raised their walls, floors, stairs and roofs in it, green and smoke-black and, in the royal rooms, clear as water. Now the oasis is a dry hollow and the garden is a field of stumps, but the palace has not weathered a hair. The walls ring when struck. The windows hold the light.
 
+## Layers {#history}
+
+The [Nimeshun]{.name data-type="affiliation/lineage"} were a cadet line of the craft house of Ashkarad, and they raised the palace in glass fused from the dune sand of their own small oasis. In the fifth year of the Breaking, about 623 AF, the Atarzád took [[place-ashkarad|Ashkarad]], and the household has sat in the palace ever since in the clothes of that year. The [Teghumod]{.name data-type="affiliation"}'s old factors tell of a column that rode up to the hill in that year, rode away at once and burned the wells. The oasis is a dry hollow now, and its garden a field of stumps.
+
 ## The Household
 
 Twelve people live in the palace, and they have lived there for ninety years. They are the last prince, [Garmelul]{.name data-type="being/npc"}, his wife, his daughter [Yelhule]{.name data-type="being/npc"}, his brother, his steward, a physician, a lamp-maker and five servants. They sit at a long table in the great hall in the clothes they wore when the [[affiliation-tribestrzd|Atarzád]] came, and they have not aged a day. Their skin is clear and cold, with the faint green translucence of the glass the house worked. They breathe. They eat what they are given. They are polite, curious and very hungry for news.

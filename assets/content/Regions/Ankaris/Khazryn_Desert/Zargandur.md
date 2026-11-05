@@ -18,6 +18,10 @@ data:
 
 **Zargandur** is the third of the seven Tellumi cities, in the heart of [[place-swoasisbelt|Tellumel]], and it was the war-city of the Tellumi: the seat of their strongest cavalry and the first city the [[affiliation-tribestrzd|Atarzád]] took, in the second year of the war. About forty-five thousand people live inside its walls today. The [Zhoqarod]{.name data-type="affiliation"}, the largest and most martial of the twelve Atarzád tribes, hold it as their garrison city, and their herds graze the pastures to the north. The walls are higher than any in the belt, because the Atarzád rebuilt them after the war to keep the Tellumi in as well as other people out.
 
+## History {#history}
+
+Zargandur is the third of the seven cities in order of founding, and before the Breaking it was the seat of the war-house, whose cavalry was the strongest in the belt. In the second year of the war, about 620 AF, that cavalry rode out of the north gate to meet the Zhoqarod host and was killed to the last rider, the princes among them, and the city fell by noon ([[lore-zargandfall|The Fall of Zargandur]]). On the third day after the fall the palace household was driven into the trench at [[place-relvanvesul|Relvanvesut]]. The Zhoqarod raised the walls higher after the war and have held the city as their garrison since.
+
 ## Water
 
 A snowmelt river comes down from the Grazian glaciers in the south and reaches the city through a weir-and-canal system that the Tellumi engineers built to feed the horse-pastures first and the town second. The river arrives in spring, brown and cold, and by the end of summer it is a trickle that the city shares by schedule. The weirs are the city's hardest-defended points, and a Zhoqarod picket sits at every one. Whoever controls the weirs controls the horses, the grain and the date harvest, and the Tellumi water-engineers who keep them are watched more closely than any other group in the city.
@@ -28,7 +32,7 @@ Zargandur lives on war and horses. The Zhoqarod breed the long-legged desert hor
 
 Nights in the city are lit. The Tellumi quarter keeps lamps burning at every door until dawn, and a chandler's trade is one of the steadier ones in the quarter. The practice is old and nobody explains it to outsiders.
 
-## Under the Atarzád
+## Under the Atarzád {#present}
 
 The Tellumi quarter is a poor district in the shadow of the walls. [The Breaking]{.name data-type="lore/history"} took the city's princes and officers, and the people left are craftsmen, smiths who work under Zhoqarod overseers, and the families of men who died in the siege. The old war-house, the [House of Zargandur]{.name data-type="affiliation/lineage"}, survives in exile, and its heir, [Gureshay of Zargandur]{.name data-type="being/npc"}, trains in Amradad for a return he has set no date for. In the quarter, young men take a particular look when a Zhoqarod patrol passes, and the patrols know the look.
 

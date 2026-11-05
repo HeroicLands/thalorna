@@ -20,6 +20,10 @@ A line of tamarisks marks the place, the first trees in a week and the last for 
 
 **Yemok**, "the oath" in [[skill-sowideslng|Sovidur]], is the first of two hand-off wells on [[lore-celestialroad|the Celestial Road]]. It lies about 550 miles from the [[place-eastrnmrch|March]] and about thirty days out, where [[place-wlqtrrgn|Volketor]] gives way to [[place-hskrrgn|Ghoshiqor]]. East of it the road crosses the [[place-longdry|Long Dry]], five days without a well.
 
+## Layers {#history}
+
+The shaft and the stair in its wall were cut in an age before any tribe, and the bucket-men do not name the cutters. The well takes its name from the oath that the riders of two stretches swear on its well-head stone at every hand-off.
+
 ## The Hand-off
 
 A caravan buys passage a tribe at a time, and each tribe's rider speaks for it across his tribe's range. The riders of the Western Margin bring the caravan to Yemok. There the master shows his string of tokens, one for each range crossed, each cut with a tribe's sign, to the riders of the sands who wait at the trough. They read the tokens and tell him whether the caravan has kept the road-peace. If they find it so, they take it on. The master pays again, in goods or in the credit of his backing house, and the Margin's riders turn back with their pay and a witness's word that the caravan was handed over whole. Both sets of riders swear to it on the well-head stone, and the oath is why the well has its name.
@@ -31,6 +35,10 @@ The well is neutral ground. A truce binds every tribe whose range touches it, no
 ## The Water
 
 The well is a stepped shaft a hundred and twenty feet deep, cut in an age before any tribe, with a stair cut in its wall for the bucket-men. It yields enough sweet water to fill a caravan's skins, and the price per skin is the second highest on the road. The camels drink their fill; the horses are watered last and carried through the Long Dry on skins.
+
+## What Is There Now {#present}
+
+The truce holds at the trough, and every tribe whose range touches the well takes its share of each toll. Word has reached the [[place-wlqtrrgn|Volketor]] of a dovaq gathering the northern tribes, and a hand-off well whose tolls feed every tribe round it is ground any union would want sworn to it.
 
 ## Dangers
 

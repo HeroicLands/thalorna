@@ -104,6 +104,17 @@ Foreign powers have given up trying to rule the desert. The [[affiliation-vylari
 
 The Storm of the Hundred Banners took the one road a host can take. It went round the Grazian wall by the Western Descent, overran the whole of Vedyara's northwestern marches, and turned west across the Dunhara to the walls of the Kingdom before it broke on the death of its founding orghun. No pass was forced and none could have been: a crossing that carries three caravans in a good season carries no host. The Tellumel was largely spared, because the storm-chief respected the Kingdom's missions to its cities.
 
+## Current Situation {#present}
+
+The Khazryn's fuse is on the steppe. A dovaq is gathering the northern tribes by victory and marriage, and the word has reached the western margin, the market-camp and the Atarzád on their mountain. Each great union opens a new count of [[lore-swdsclndr|the Sovidur Reckoning]], and every tribe he reaches, and every oasis and caravan that deals with them, has to decide where it stands.
+
+- **[[place-wlqtrrgn|Volketor]]:** the margin's tribes sell passage to every faction of the Black Flame digging at the Ruins of Arkor, and the tribe at [[place-roqid|Oroqid]] awaits a Vylarian official who wants a legion's standard from its strongroom.
+- **[[place-hskrrgn|Ghoshiqor]]:** a street of Vulud stands open and has been sold twice, and the factors at [[place-qisomrktcmp|Qiiso]] ask what a union would make of the market.
+- **[[place-dkrqrrgn|Diqraqor]]:** the upland tribes and the Atarzád flocks dispute the southern slopes from well to well.
+- **[[place-idwkrrgn|Idvaqor]]:** the tribes sell the last passage under the eye of Tantsou, which pays some chiefs and patrols the road a week out from the pass.
+- **[[place-swoasisbelt|Tellumel]]:** the feud between the Tellumi and the Atarzád is quiet and the next rising is held overdue, while a prophet preaches the Tellumi out of the held cities and the free prince of Mernagord weighs an Atarzád compact.
+- **[[place-gwtkrrgn|Ghotaqor]]:** the hunting bands answer to nobody, and travelers pay for word of the cut stone in the forest.
+
 ## Trade
 
 The Khazryn is the one overland artery between the Aureldian west and the Tantsou east. Silk, fine porcelain, brick tea, lacquer, jade, spices and medicines go west on camels, and silver and gold by weight, amber, coral, glass and horses go east. Everything on the list is light and dear, because nothing heavier is worth the price of crossing and no cart can cross.

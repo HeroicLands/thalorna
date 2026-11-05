@@ -34,6 +34,10 @@ The tribes of the Ghoshiqor have a saying for owned water in general: that they 
 
 A guide who knows the mesa has usually heard that the Kuuyoyur keep a stone on Kelodvotri, and some say among themselves that a kelodud is not all that lives there.
 
+## Layers {#history}
+
+The carving under the Kuuyoyur's sign is older than the sign, and the tribe did not cut it. The Kuuyoyur have owned Kelodvotri as their dry-year reserve for longer than anyone in the tribe remembers, and their grandmothers poured the first draw of each season back into the shaft until the stone went on.
+
 ## The Chained Stone {#present}
 
 This season the stone over Kelodvotri is new, and it is chained. The Kuuyoyur came at the end of the dry season, as they do, with their water-warden and two riders and three camels. The two riders keep to the cleft at the mesa foot and watch the well from there, and they do not go among the palms after dark. The warden is not with them, and they do not say where he is. A traveler who reaches the palms is told he may not draw.

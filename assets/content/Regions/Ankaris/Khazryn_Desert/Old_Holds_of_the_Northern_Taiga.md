@@ -26,6 +26,10 @@ The north is dangerous on its own account. Winter lasts most of the year, the bo
 
 If the holds are what the stories say, they are a great discovery, and a scholar who proved one would have a name in the east for the rest of his life. A party that reaches one first may find nothing at all.
 
+## Converging Interests {#present}
+
+A Targud fur-trader pays well for any word of the doorway under the tide line, and he is not the only one asking; a man who went north with a hired boat has not come back. The bands of the Ghotaqor count every outsider a thief of the seal-ground or the deer-run.
+
 ## A Hook
 
 A Targud fur-trader pays well for any word of the doorway under the tide line, and he is not the only one asking. A man who knew the coast went north with a hired boat and a lamp, and the sealers say he has not come back.

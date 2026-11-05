@@ -21,6 +21,10 @@ For eleven months the place is a ring of black stones round a deep well, a few h
 
 **Qiiso**, "the price" in [[skill-sowideslng|Sovidur]], is the market-camp of the central [[place-hskrrgn|Ghoshiqor]], about halfway across the [[place-khzryndsrtrgn|Khazryn]]. [[lore-celestialroad|The Celestial Road]] reaches it on about the sixty-fifth day out from the [[place-eastrnmrch|March]], and the southern spur to the [[place-swoasisbelt|Tellumel]] leaves it here. Most goods that cross the waste change hands at Qiiso instead of going on whole, and the price of water is the highest on the road.
 
+## Layers {#history}
+
+The camp meets at the deepest well on the road, and nobody on the road says who cut it. About 548 AF [[lore-thrdorqwnq|the third great union]] rode south down the spur that leaves Qiiso and killed everyone at the autumn fair of [[place-qimod|Qiimod]], and the spur has bent round that town ever since.
+
 ## The Camp
 
 The camp has no wall and no houses. Its heart is the well, the deepest on the road, lidded in stone and watched day and night by riders of the tribe that holds its water; round it, in rings, lie the tents. Western factors pitch on the west side, Tantsou and Vedyari on the east, the Tellumi and Atarzád houses on the south, and the furs of the north come in on the north. Tribesmen camp in the gaps. A trader finds his own people by the color of the cloth over the tent-pole.
@@ -32,6 +36,10 @@ For ten days the camp is the busiest place for a thousand miles in any direction
 No polity does. The tribes whose ranges meet here hold a moot, the juchon, before each season. Their chiefs, the dovaq, swear a peace on the well-stone, and the peace holds for the ten days of the market. In the camp no blood is shed, no weapon is drawn, and a quarrel is carried to the moot and priced. A man who breaks the peace is killed outside the ring by the tribe he wronged, and the tribe that holds his water pays the blood-price.
 
 The moot sells everything it can: stands, water, grazing for the beasts, the services of its riders, and its word. Its clerks keep tally with knotted cords and remember more than any ledger holds.
+
+## What Is There Now {#present}
+
+The moot meets before each season, and its dovaq swear the peace on the well-stone as they always have. Word has reached the camp of a dovaq gathering the northern tribes, and at the fires the factors of both ends of the road ask what a union would make of the market, since the first great union began by demanding tribute for the road.
 
 ## Dangers
 

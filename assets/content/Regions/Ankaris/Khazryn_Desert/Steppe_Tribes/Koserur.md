@@ -78,7 +78,7 @@ Three stronger tribes meet the Koserur at the edges of their grazing: the Jobizu
 
 That arrangement is failing. A drought dried the seasonal water two years ago, the Qibudur raided the herds, three families crossed to the Jobizur, and the Kenodur now hold eight of the tribe's people.
 
-## The Dovaq and the Warband
+## The Dovaq and the Warband {#present}
 
 The dovaq is [Ghotazkharu Koserur]{.name data-type="being/npc"}, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, [[affiliation-tghsvrnksrr|the Tigh'Savaran]], is the other half of the tribe's strength, and its captain, [Orqazkenod Koserur]{.name data-type="being/npc"}, holds the dovaq's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Jobizur's protection with its independence. The dovaq is leaning toward the second and the warband toward the first.
 
@@ -87,6 +87,10 @@ The dovaq is [Ghotazkharu Koserur]{.name data-type="being/npc"}, an old man who 
 The Koserur are known for honest dealing, and caravan tolls are their steadiest income. A caravan coming east across the sands pays them half a weight of silver for each camel-load. For that it gets a rider for the last day's march, water at Juchonkelod for every beast and the tribe's _qibud_ (token), which carries it into the market-camp. The rider is a guide in the plainest sense: he knows which gravel is firm and which hides the old canal beds, and he speaks for the string to every herdsman on the way.
 
 The Koserur keep the bargain. A lightly guarded caravan of spices and silk crossing their land while the warband needs horses is a temptation some of the riders argue for, and the dovaq has so far refused it.
+
+## History {#history}
+
+The Koserur have held their three wells for generations by marrying a daughter where a quarrel threatened, selling guides to caravans on good terms and keeping a warband that makes raiding them cost more than it pays. Two years ago a drought dried the seasonal water at Gorenevod. Since then the Qibudur have raided the herds, three families have crossed to the Jobizur, and the Kenodur have taken eight of the tribe's people, whom they still hold.
 
 ## Raids and Fears
 

@@ -34,6 +34,10 @@ The tribes of Idvaqor sell the hardest bargain on the road. They are few, perhap
 
 They live in the shadow of the [[affiliation-tantsouempr|Empire]]. Tantsou has treated its western frontier with these tribes as a standing problem for centuries, giving gifts and titles to some chiefs, paying others to keep the pass clear, and sending patrols out from the garrison. Tantsou riders are on the road from about a week out of the pass, and a caravan that is not under a tribal rider's escort by then meets the Empire's wrath as well as the tribes'.
 
+## Current Situation {#present}
+
+The tribes sell the last and hardest passage on the road under the Empire's eye: Tantsou gives gifts and titles to some chiefs, pays others to keep the pass clear, and rides the road a week out from the pass. At [[place-ruweq|Uruvaq]] the tribes have named their price for the painted script, and it is not silver but a thing brought out of Tantsou, which a Tantsou scholar at the western passes wants badly enough to weigh.
+
 ## Dangers
 
 The cold takes animals first and men second. [[being-sandwurm|Sand wurms]] live in the deeper desert, and the caravans reroute for a season when one is reported. [[being-erthrvr|Earthreavers]] tunnel under the cavern floors in the ridges.

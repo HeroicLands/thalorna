@@ -78,9 +78,17 @@ The Oroqidur are known for their rangers, who patrol the tribe's waters on foot 
 
 The dovaq is [Evurlun Oroqidur]{.name data-type="being/npc"}, whose given name means sky. She is the tribe's best reader of the stars after its eldest singer, and she was chosen for that as much as for her line. The tribe has a handful of lineages and a moot that fits round one fire, and Evurlun speaks last at it as every dovaq does.
 
+## Current Situation {#present}
+
+The tribe keeps its water hidden and its rangers out on the sands. A traveler it carried to the water and sent home under oath has been offered a fortune at [[place-qisomrktcmp|Qiiso]] for the way back. A clerk of [[place-kethramir|Kethramír]] holds the only written copy of the Buried Water the tribe knows of, and Evurlun wants to know who else has read it.
+
 ## Prophecy
 
 The Oroqidur keep prophecies of their own, handed down in song and tied to the movements of the stars. A stranger who brings them a vision of the sky is heard with attention, and a vision that matches their lore is treated as a summons. The dovaq weighs such a summons against the tribe's safety, and more than once the Oroqidur have put a ranger in the visionary's service.
+
+## History {#history}
+
+The tribe's own account of its ground is the Buried Water, the star-song of the lake that went down under the sand, sung each spring at the pool. In all the time it has kept the oasis it has never let a stranger walk out knowing the way, and more than once it has put a ranger in the service of a visionary whose sky matched its lore; the Silent Jackal's rescue of a wanderer deep in the sand is the best known.
 
 ## Strangers
 

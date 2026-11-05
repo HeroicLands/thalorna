@@ -27,6 +27,10 @@ Inside, the floors are:
 The vaults under the weighing hall are full of sand that has come up from below, and the cracked flags are the only thing holding the floor; a bar or a dropped weight breaks them, and whatever stands on them goes down into the sand to the chest. Each counterweight hangs from the drum by an iron pin. Knocking a pin out drops the weight down its shaft, and the falling weight hauls the opposite pan of the great balance to the roof.
 :::
 
+## Layers {#history}
+
+The counting-house was built by [[lore-towercities|the Tower League]], which carried the first road across the waste from about 1000 BF until the steppe broke it about 190 BF, and the league set the stone watchman to keep it. [[place-wilud|Vulud]] was emptied when its well failed, and the dunes came over the shelf the city stood on. A sand-front opened this street four years ago, a drift half filled it the season after, and this season the wind has scoured it clear again.
+
 ## The Watchman
 
 A stone figure stands beside the shaded doorway, or at the foot of the inner stair, and the crews who have been inside have found it in both places. It is man-high and broad, with its hands held out before it, palms up. Its face, its shoulders and the signs cut over its body are worn almost smooth by centuries of sand. Its hands are polished bright. It is a [[lore-golemcrtr|construct]], set by the league to keep the counting-house, and the Uruvolur call it [Sovidiqraq]{.name data-type="being/creature"}, "the stone escort".

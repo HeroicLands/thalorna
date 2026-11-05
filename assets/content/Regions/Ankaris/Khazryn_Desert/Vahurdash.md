@@ -32,6 +32,10 @@ The town is built of the reclaimed stone of the old city, and the streets are na
 
 The [House of Vahurdash]{.name data-type="affiliation/lineage"} was revived with the settlement. Its head, [Khorsád-Vahur]{.name data-type="being/npc"}, holds the title by recent acclamation of the settlers, not by ancient right, and sits on the [Council of the Princes]{.name data-type="affiliation/governmental"} as a kind of seventh among equals. The house keeps a token guard and no more. Its strength is its claim: a city given back to the desert and taken back from it, the one Tellumi city ever recovered. The [[affiliation-tribestrzd|Atarzád]] of the central belt tolerate the settlement because it costs them nothing, pays a quiet tribute in dates, and holds the poorest ground on the rim.
 
+## The Present {#present}
+
+The town holds on two wells and one channel, and in a dry year the channel stops. Khorsád-Vahur's rivals at the Council of the Princes say an acclamation cannot make a prince, and the tablets that would prove the house's descent lie unreached in the cellars of [[place-velkunar|Veshkun]], where a rival house's agent waits to buy any that come out. At the [[place-velkunvartun|Barred Gate]] the knocking comes every night, and the town loses every caravan that reaches the rim after dusk.
+
 ## Hooks and Dangers
 
 - **The title.** Khorsád-Vahur's rivals say an acclamation cannot make a prince. The tablets of the old city's own archive would prove the house's descent, and nobody has reached them. The house will pay a party to find them, and a rival will pay the same party to leave them lost.

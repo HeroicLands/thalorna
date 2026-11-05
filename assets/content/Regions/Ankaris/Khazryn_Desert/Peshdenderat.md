@@ -20,6 +20,10 @@ The [Vurinkarvem cliff]{.name data-type="place/feature"} over [[place-oasishirvn
 
 It is a deep shaft. A weighted line paid out from the lip runs for a hundred and forty fathoms without touching, which is more than three times the depth at which the great spring's water stands. The wall of the shaft is cut stone for the first forty fathoms, then rough rock, then something the plumb-lines come up wet and cold from, a damp that is not water. At the lip, in the dark of the moon, the stones whisper.
 
+## Layers {#history}
+
+The gallery is among the oldest cut in the cliff, older than [[place-oasishirvn|Shirvan]], the first of the Tellumi cities, and no record says who sank the shaft. Shirvan fell to the Atarzád in the eleventh year of the Breaking, about 629 AF, its archive burned, and the [Ozhmarod]{.name data-type="affiliation"} have held the city since. Within the memory of the quarter's old men the great spring has begun to stand lower.
+
 ## The Voice
 
 A drop of blood from the hand, let fall on the lip, is answered. The voice comes up the shaft, dry as a husk, and asks what is wanted. It has been known to call the party by name before it is told. It will give a secret for a secret, or a secret for blood, a thimbleful for a sentence. It knows the water-hours of every household, the names of the [Ozhmarod]{.name data-type="affiliation"} informers in the quarter, where the clay of the burned archive lies and the hour the great fire-warden of the city sleeps. It has told a man the day he would die. It does not lie. It tells what it is asked and nothing it is not.

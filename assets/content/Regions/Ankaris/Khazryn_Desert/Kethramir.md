@@ -29,11 +29,15 @@ Kethramír is a market because it sits where two kinds of traders must meet. A c
 
 The city's rule of hospitality is stricter than the law. A merchant who cheats or kills in Kethramír finds that the news travels along every string within days, and no guide will lead his caravan. The tribe enforces the rule because it brings the trade, and the guides' company enforces it because it brings their living. The well-keepers and the guide-masters have more say in the city's daily life than the Tozhirod elders, who govern from a college of law at the edge of the yards.
 
-## Under the Atarzád
+## Under the Atarzád {#present}
 
 The Tozhirod keep the scriptural archive and the law-codes of the Atarzád, and they rule Kethramír like scholars: by precedent, patiently, and with a preference for rulings over soldiers. The garrison is small. The Tellumi quarter around the third well has its own Delkoshekh and its own courts, under the eye of a Tozhirod magistrate who reads the Tellumi tablets and sometimes agrees with them.
 
 The old [House of Kethramír]{.name data-type="affiliation/lineage"}, the Tellumi priest-house, lives in exile in [[affiliation-kngdmmrdd|Amradad]], led by [Narvuna of Kethramír]{.name data-type="being/npc"}, the author of the commentary the Atarzád have banned. A copy of her work passes through Kethramír in every caravan from the west, hidden in a bale of cloth, and a Tozhirod clerk who finds one has to decide whether it is a crime or a book. Families from the old quarter, such as the merchant house of the [Parnazar]{.name data-type="affiliation/lineage"}, still trade in the minerals and stones that come down from the uplands, and the best of them have learned to deal with both peoples.
+
+## History {#history}
+
+Kethramír is the fourth of the seven cities in order of founding, and its wells reach an aquifer the first Tellumi tapped. Before the Breaking it was the seat of the House of Kethramír, the house closest to the Shekhulukhem. The Tozhirod took it in the eighth year of the war, about 626 AF, the third of the four cities to fall, and the house has lived in exile at Amradad since.
 
 ## Hooks and Dangers
 

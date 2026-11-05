@@ -18,7 +18,9 @@ data:
 
 Two miles east of [[place-zargandur|Zargandur]], where the snowmelt river's old bed runs out into the gravel and the weirs have left it dry, a dry wash cuts a long shallow scar across the plain. The Tellumi of the quarter call it **Relvanvesut**, "the princes' bones". The [Zhoqarod]{.name data-type="affiliation"} garrison does not call it anything. They mark it on no map and keep no picket there.
 
-It is the second blood-field of the Breaking, beside the lesser field of [[place-henhulpedin|Henhutpedin]] north of the walls, where the war-house's riders died on the pasture. The riders were the army. The bones in the wash are the household: the princes' women and children, the old officers who stayed to keep the palace, the palace guard, the clerks and the priests of the shrines, taken from the palace court on the third day after the fall and driven into a trench cut across the wash. They were not read and no lamps were lit. The grave was never consecrated.
+## Layers {#history}
+
+Relvanvesut is the second blood-field of the Breaking, beside the lesser field of [[place-henhulpedin|Henhutpedin]] north of the walls, where the war-house's riders died on the pasture. The riders were the army. The bones in the wash are the household: the princes' women and children, the old officers who stayed to keep the palace, the palace guard, the clerks and the priests of the shrines, taken from the palace court on the third day after the fall and driven into a trench cut across the wash. They were not read and no lamps were lit. The grave was never consecrated.
 
 ## What Lies in It
 

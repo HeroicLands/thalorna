@@ -80,9 +80,17 @@ Guiding is the Uruvolur's trade. A band sells its knowledge for horses, silver o
 
 A guide sells more than the way. The bands are the first to know when the dunes open a street of [[place-wilud|Vulud]], and [Uruvolun]{.name data-type="being/npc"}, a guide who has sold such news before, is known at Qiiso for selling it twice. One road they never sell: a band guides across the empty ground south of [[place-jilaq|Jilaq]] and refuses the ground north of its wall at any price.
 
+## Current Situation {#present}
+
+The bands sell guiding and news and stay out of the grass tribes' quarrels. This season a street of Vulud stands open, and Uruvolun has sold the news of it to a Bizarian factor and a Tantsou collector at Qiiso and guides whichever arrives first. A band's standing rests on its guides, and a band that loses a caravan, or the secret of its water, loses that standing.
+
 ## The Dovaq of the Long Dry
 
 Each band has its own dovaq, and no dovaq speaks for another band. The one a master is likeliest to meet is [Numaqtoliz]{.name data-type="being/npc"}, "night-spear", dovaq of the band whose guides work the Long Dry. His band has kept the five waterless days for longer than the road's oldest masters remember, and its guides wait at the trough at Yemok each season with their price already named. Numaqtoliz sends a guide with a string and never goes himself, and few masters have seen him at all.
+
+## History {#history}
+
+Numaqtoliz's band has guided strings across the Long Dry for longer than the road's oldest masters remember.
 
 ## Neighbors
 

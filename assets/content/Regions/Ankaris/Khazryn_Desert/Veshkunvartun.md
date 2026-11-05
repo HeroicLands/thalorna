@@ -20,6 +20,10 @@ At the northern end of [[place-velkunar|Veshkun]], where the sand has been shove
 
 Behind the door is the gate-court: a paved square sixty paces across, a guard-bench along each side, a well-head with no well under it, and a breach in the north wall where the sand lies banked to the height of a man. Beyond the door there is only the open rim, and the road north has been dead for as long as the town has had a memory of it. Nothing about the gate is hard to find. It is the first thing a traveler from [[place-kethramir|Kethramír]] meets, and the settlement's only road to the outside passes under it.
 
+## Layers {#history}
+
+The gate stood on the northern road of [[place-velkunar|Veshkun]], the old city of Vahurdash, which a drought emptied and left empty for generations. [[lore-velkunsong|The Song of the Lost Town]] tells how the city was lost, and how its champion came in by the stair under the gate-court. The settlers of the revived town hauled the door out of a buried passage in the first seasons of the resettlement, within the last generation, and hung it in the arch. The knocking has come since the first night it was rehung, and the door has been opened in the dark three times.
+
 ## The Knocking
 
 Every night, between full dark and the first gray, something knocks at the outer face of the door. The knock is three blows spaced like a man striking with the butt of a spear, and then a pause long enough for a sentence, and then three more. Through the cedar a voice speaks, low and hoarse as if from a mouth full of dust. It says the words every cloth-teller of the Tellumi knows: _I am the gate of the house of the rim. I stand when the water flees. Open the gate._

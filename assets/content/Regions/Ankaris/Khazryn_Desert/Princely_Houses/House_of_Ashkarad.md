@@ -61,7 +61,7 @@ The house's head is [Nimeshay of Ashkarad]{.name data-type="being/npc"}, who gre
 
 The court keeps the first tool. The roll of the peaks says that the second lineage came down from the white peak with tools and nothing more, and the house keeps one of them, a bronze adze with the handle gone. Each generation the handle is remade from a palm of the house's own groves, which grow below the walls of Ashkarad on ground the Teghumod hold.
 
-## What It Wants, and Who Stands in the Way
+## What It Wants, and Who Stands in the Way {#present}
 
 The house wants Ashkarad back with its workshops whole: the craft councils solvent, their masters alive and their secrets kept, so that the city it recovers is still the city it lost. It wants to know where the craft knowledge the Breaking scattered has gone, and the formula for the deep blue glaze that one council says died with a master in the war is the kind of thing it pays for.
 

@@ -64,7 +64,7 @@ On the last morning of Zargandur the house's cavalry rode out of the north gate 
 
 The heir is [Gureshay of Zargandur]{.name data-type="being/npc"}, twenty-seven, who trains as a soldier in the Kingdom's own forces. Kingdom law forbids the exile retinues any military activity, so the Kingdom's ranks are the one place in Amradad a Tellumi prince can learn war in the open. He is widely understood to be preparing for a reclamation, though he has set no date, and the militant faction of the exile community organizes round him more each year. His preparations are the only serious military planning the Confederation does.
 
-## What It Wants, and Who Stands in the Way
+## What It Wants, and Who Stands in the Way {#present}
 
 The house wants Zargandur, and it is the one house that talks about taking it. For that it needs what Gureshay cannot learn in Amradad: how many men the Zhoqarod keep at each gate, at the weirs and on the three bridges, and how fast the garrison can be reinforced from the pastures north of the city.
 

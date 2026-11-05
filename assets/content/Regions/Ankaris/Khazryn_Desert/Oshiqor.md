@@ -14,6 +14,10 @@ South of the basin the ground rises into the [[place-dkrqrrgn|Diqraqor]], the st
 
 The tombs are the burial ground of the rulers of [[lore-basinbldrs|the Basin Builders]], carried up from the lake country to rest in the highlands, and they are the only place where that people left writing of any kind: line after line of signs cut over every doorway, in a script nobody reads. Inside, the chambers open off long passages, and the walls are painted. Reds and ochres and a blue made from ground stone show men and women in procession toward a figure seated on a stepped chair, and the faces have not faded.
 
+## Layers {#history}
+
+The tombs belong to [[lore-basinbldrs|the Basin Builders]], who farmed the lake shore from before 2600 BF until the water failed around 1700 BF and carried their rulers up into the highlands to be buried. The [[affiliation-tribestrzd|Atarzád]] came down off the Diqraqor in the last leg of their Exodus, and their herds now graze the range's southern edge; they hold the ravines unclean.
+
 ## What the People Believe
 
 The [[affiliation-tribestrzd|Atarzád]], whose herds graze the southern edge of the Diqraqor, hold Oshiqor unclean. They forbid their young men to go within a bowshot of any of the eleven ravines, and a herdsman whose animals stray into one is cleansed with fire before he rejoins his tribe. The Flame, they say, burns where the dead lie unburnt. The tribes of the plateau say something shorter: the kings are not asleep, and they are kept in their houses by being left alone.

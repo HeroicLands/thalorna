@@ -34,6 +34,10 @@ The ruler, [Nartemay of Ushtra-ber]{.name data-type="being/npc"}, is fifty, hard
 
 The house keeps a household guard of about fifty men, enough for ordinary security and ceremony. Like every Tellumi house, it maintains no army. The Atarzád tribe that holds the eastern oases, the [Tozhirod]{.name data-type="affiliation"}, have never pressed it. The road to Ushtra-ber is long, the valley is easy to hold, and the Tozhirod scholars find the court's archive more interesting than its land.
 
+## The Present {#present}
+
+Ushtra-ber is left alone and means to stay so. The Tozhirod have never pressed it, and its business is the valley, the [[affiliation-hvarnguides|Hvarn]] who come down from the Reach each autumn to buy grain, and the few caravans that rest a week here before the long crossing to the Tantsou frontier. At the [Council of the Princes]{.name data-type="affiliation/governmental"} Nartemay is the most exacting of those who hold that an acclamation cannot make a prince, which sets him against the head of the revived house at [[place-vahurdash|Vahurdash]], and the tablets that would settle the question are the kind his archive keeps.
+
 ## Hooks and Dangers
 
 - **The old forms.** The court's tablet archive holds ritual and legal practice that the rest of the belt has lost, and a scholar from Amradad or [[place-caldar|Kaldar]] wants copies. Nartemay allows access to those who learn the forms and earn his respect, and refuses everyone else.

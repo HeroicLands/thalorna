@@ -28,7 +28,7 @@ Mernagord lives on the road and on salt. The salt pans lie on a dry lake-bed thr
 
 The city is plain and old. Its walls stand on the foundations of the original city, rebuilt by every generation since, and the courtyard houses inside are of the same adobe and palm-beam as the first Tellumi built. A family counts its grandfathers' wells and its great-grandfathers' graves.
 
-## The House and the Atarzád
+## The House and the Atarzád {#present}
 
 The ruling prince, [Hemvanay of Mernagord]{.name data-type="being/npc"}, is in his sixties, cautious, and inclined to accommodation with the Kingdom of Amradad and, warily, with the [[affiliation-tribestrzd|Atarzád]] who hold the four lost cities. His household guard of about a hundred men is the largest of the three free houses', and it is no army. The [Ozhmarod]{.name data-type="affiliation"}, the Atarzád tribe of the western belt, sit at the gates of [[place-oasishirvn|Shirvan]] a few days east and could take the city in a season. They do not, because they find a free Tellumi city more useful than a conquered one: its prince is a channel to the Kingdom, and its salt reaches markets the Atarzád cannot.
 

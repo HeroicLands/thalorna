@@ -14,7 +14,7 @@ The walls are the first thing, because they are not broken. A wall of mud-brick 
 
 **Qiimod**, "the silent" in [[skill-sowideslng|Sovidur]], stands on the southern spur four days out of [[place-qisomrktcmp|Qiiso]], where the track to the [[place-swoasisbelt|Tellumel]] dips through a gap in the black rock. A well-head in the square still holds sweet water, and the tribe that keeps the well will draw it for a price, by rope, from outside the gate.
 
-## How It Was Made
+## How It Was Made {#history}
 
 About 548 AF the third of the great unions was raised, and its orghun rode south down the spur in the week of the autumn market. Qiimod was full: Tellumi horse-dealers, Vedyari spice factors, a Bizarian wine-agent, Tantsou silk-brokers, a hundred Sovidur herdsmen come to sell. The gate stood open for the fair. By nightfall everyone in the walls was dead, and the host rode on at dawn with the stock and left the people where they lay in the square, because a town's dead are not the riders' dead and the riders had a road to take.
 
@@ -30,7 +30,7 @@ No fire stays lit. A lamp wick catches and the flame stands, then lies down and 
 
 The hunters come into that, the [[being-yiqnotud|Yiqnotud]] of the steppe tribes. On any night of the year, shapes half made of the town's dead and half of the things that feed on them cross into the lanes and take hold of whoever sleeps within the walls. They cannot be heard coming. The first a man knows of them is a hand at his throat and the silence of his own cry. The Tellumi factors who have tried the town have been found in their blankets in the morning, mouths open, with nothing on them but a cold that did not belong to the season.
 
-## How the Spur Lives with It
+## How the Spur Lives with It {#present}
 
 - **The track goes round.** The spur bends a half-day east of the gap, and the detour crosses poor ground that the tribes charge for.
 - **The well is sold from outside.** The [[affiliation-kndrtrb|Kenodur]], a raiding tribe of the southern steppe, hold the well and draw it from beyond the gate. A caravan buys its water from them at the gap's mouth and is escorted past the town in daylight.

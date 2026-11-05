@@ -36,6 +36,10 @@ The summer festival draws upward of fifty thousand pilgrims, more than the valle
 
 To the Tellumi whose cities the Promise took, the mountain is where their dispossession was declared holy. They do not climb it. In the quarters of the held cities the light on the mountain is not spoken of, and a Tellumi child who points at it is told to look at the ground.
 
+## Converging Interests {#present}
+
+When the summer festival crowds the mountain, the Burqalod ration the springs by tribe, and the upland tribes of the northern ravines dispute the grazing with Atarzád flocks from well to well and raid them when they can. The pilgrims bring the [[affiliation-tribestrzd|Atarzád]]'s own quarrel up the mountain with them. The Toqel on the shelf is about eighty and has said nothing of [Aqeshat]{.name data-type="being/npc"} the Prophet, whose following grows, and with word of a union rising on the steppe the Council of the Twelve, which sits at Beit-Shofár, may soon need his answer on a Zhudek.
+
 ## Hooks
 
 - **The festival water.** A dry spring has left the valleys short, and the midsummer pilgrims are coming. A Burqalod elder will pay a party to bring water up from the belt by a route the upland tribes do not watch.

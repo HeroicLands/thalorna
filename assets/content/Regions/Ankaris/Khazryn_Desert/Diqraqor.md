@@ -31,6 +31,10 @@ The tribes of Diqraqor are poor, because the land is poor, and hostile to both o
 
 In the south, the Atarzád graze their flocks on the uplands' southern slopes and consider the grazing theirs. The tribes do not agree, and the line between them runs along wells.
 
+## Current Situation {#present}
+
+The southern spur is the belt's road to the rest of the world, and the tribes of the plateau sell escort on it and raid what does not buy. On the southern slopes Atarzád flocks graze ground the tribes call theirs, and the line between them, drawn from well to well, is the most active feud on the plateau. In the ravines of [[place-osikor|Oshiqor]] an Atarzád elder's son has been caught robbing the tombs his people hold unclean, and a rival herd-chief holds the proof.
+
 ## Dangers
 
 Falls, floods and collapse take more lives here than raiders. A ravine floor that is dry at noon can run with a flash flood from a storm forty miles away. [[being-gntscrpn|Giant scorpions]] hunt the warm rocks at dusk, and [[being-crglrkr|crag lurkers]] wait on the ledges above the narrow places.

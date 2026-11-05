@@ -66,7 +66,7 @@ The heir-in-exile is [Muresha of Shirvan]{.name data-type="being/npc"}, a schola
 
 The court keeps [[miscgear-shirvantab|the first tablet]]. The roll of the peaks says that the first lineage came down from the snow peak carrying a tablet of wet clay with nothing pressed on it, and pressed it at the spring with one word, _here_. The house shows it to nobody outside the house, and every Shirvan funeral answers the snow peak with the city's name.
 
-## What It Wants, and Who Stands in the Way
+## What It Wants, and Who Stands in the Way {#present}
 
 The house wants Shirvan, and until it has the city it wants proof. Beside the tablets of the archive, it wants its house-sign: the old houses hold that the first lineage cut the sign of the snow peak on the lintels of [[place-vurdil|Vurdish]] as it came down, and the House of Shirvan has hired climbers into the passage for ninety years to find it.
 

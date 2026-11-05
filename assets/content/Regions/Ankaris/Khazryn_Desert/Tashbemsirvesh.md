@@ -20,6 +20,10 @@ A day's ride north of [[place-ashkarad|Ashkarad]], where the irrigated strip of 
 
 It is a Tower of Silence. The Tellumi of Ashkarad and the farms around it have given their dead to the tower for as long as the city has had craft councils: the body carried up the stair by the Expositors, laid on the stone platform under the sky, and left to the vultures and the sun, while a Delkoshekh of [[affiliation-azravan|Azravan]] reads the [Prayer of Passage]{.name data-type="lore/custom"} and kindles the small fire on the ground below. The tower's rite is the same rite as the one at the great death-temples of [[affiliation-kngdmmrdd|Amradad]], and its stair is older than the conquest of the city by the [[affiliation-tribestrzd|Tribes of Atarzád]].
 
+## Layers {#history}
+
+The Tellumi of Ashkarad have given their dead to the tower for as long as the city has had craft councils, and its stair is older than the conquest. The [Teghumod]{.name data-type="affiliation"} took Ashkarad in the fifth year of the Breaking, about 623 AF, and have held the road past the tower since. When the tower's dead stopped decaying, and when its Expositor was lost, the Delkoshekh of Azravan do not say.
+
 ## What Is Wrong
 
 The platform is full. A hundred dead and more lie on it in rows, on their backs, hands crossed, in the clothes and shrouds they were laid in. They do not decay. Their skin is the color of a candle and does not flake in the wind, and the dust of the bench does not settle on them. By day the vultures, the big black _budaq_ of the road, perch along the parapet in rows from dawn to dusk. They watch the dead and they do not feed. A guide who has seen it describes it the same way every time: the birds look at the dead like men waiting to be asked.

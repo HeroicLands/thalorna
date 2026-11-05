@@ -14,6 +14,10 @@ In the [[place-idwkrrgn|Idvaqor]], the east range, a line of low ridges stands o
 
 Behind the openings are caverns, a connected run of them under seven miles of ridge, most of them natural but all of them worked. Floors have been leveled, passages squared and the walls dressed smooth in places, and at intervals cisterns have been cut into the rock and still hold water, cold and sweet, at the end of the driest stretch of the eastern road. The caverns have never been mapped. A script is painted over their walls in red and white pigment, line upon line in a hand that never changes, with no one left to read it.
 
+## Layers {#history}
+
+The caverns are older than any tribe's memory, and nobody says who leveled their floors, cut the cisterns or painted the script. The tribes of the Idvaqor have barred them for as long as anyone remembers. The only later work in them is the Earthreaver's, whose ragged spiral cuts break into the squared passages.
+
 ## What the Tribes Believe
 
 The tribes of the Idvaqor hold the caverns as their own country's lungs and bar them to everyone. A man who enters is said to take a breath the country needs, and a tribe that lets strangers in is said to have sold its own air. Watchers sit at the larger openings, and a stranger who comes down the ridge is turned off by two riders with arrows nocked, the way one turns off a lost animal. The tribes have said these things for as long as anyone remembers, and none of them says who made the caverns or why.

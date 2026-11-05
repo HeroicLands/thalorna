@@ -66,7 +66,7 @@ The prince is [Nartemay of Ushtra-ber]{.name data-type="being/npc"}, fifty, hard
 
 The city is built the same way: dressed stone, shuttered windows against the wind, streets swept every dawn, and a shrine to [[affiliation-zurathra|Zúrathra]] at the head of the valley that is a spring in a stone ring with a single lamp.
 
-## What It Wants, and Who Stands in the Way
+## What It Wants, and Who Stands in the Way {#present}
 
 The house wants to be left alone, and so far it has been. The [Tozhirod]{.name data-type="affiliation/polity"}, the Atarzád tribe that holds the eastern oases, have never pressed it: the road is long, the valley is easy to hold, and the Tozhirod scholars find the court's archive more interesting than its land. The house's real business is the valley and the east: the [[affiliation-hvarnguides|Hvarn]] who come down from the Reach each autumn to buy grain, and the few caravans that rest a week here before the long crossing to the [[affiliation-tantsouempr|Tantsou frontier]].
 

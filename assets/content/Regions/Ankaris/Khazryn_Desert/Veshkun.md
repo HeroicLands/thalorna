@@ -14,6 +14,10 @@ The people who live in [[place-vahurdash|Vahurdash]] walk on Veshkun every day. 
 
 The Tellumi call the ruin Veshkun, the lost town, to keep it apart from the living settlement that bears the old name. The clay archive keeps its wells, its debts and its dead in the records of the houses that left it.
 
+## Layers {#history}
+
+Veshkun was the fifth of the seven Tellumi cities, founded after [[place-oasishirvn|Shirvan]], [[place-ashkarad|Ashkarad]], [[place-zargandur|Zargandur]] and [[place-kethramir|Kethramír]] at the rim where the belt's last streams reach. A drought emptied it, and it stood empty for generations; [[lore-velkunsong|The Song of the Lost Town]] is the cloth-tellers' account of how it was lost. Within the last generation Tellumi settlers came back, traced the buried channels from copies of the old plans kept in the other cities' archives, and built the new [[place-vahurdash|Vahurdash]] in its northern corner.
+
 ## What the Tellumi Believe
 
 A drought took it, and the Tellumi who tell the story do not say a drought only. They say the springs failed because the city was judged. The princes of the house that ruled it had broken their guest-right and the water left; the people who stayed learned the rest by the empty wells. The house that has reclaimed the ruins hears the story as an insult and counters it with another, that the drought was a trial and that returning is the answer.

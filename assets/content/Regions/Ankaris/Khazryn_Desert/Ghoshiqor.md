@@ -35,6 +35,10 @@ The tribes of Ghoshiqor hold the most important ranges on the road and charge th
 
 Among them live the **[[affiliation-rwlstrb|Uruvolur]]**, "the water people", small kin-groups of the deep sands who keep waters nobody else knows and hire out as guides. A caravan that loses its way, or its water, or a tribe's favor, pays an Uruvol guide to take it where no tribe will look for it. The guides do not talk about where they have been.
 
+## Current Situation {#present}
+
+The tribes of the sands hold the dearest wells on the road and keep its strictest custom, and this season the sands are giving things up. A street of [[place-wilud|Vulud]] stands open, and the Uruvolur have sold the news of it twice. A salt-cutter's son has broken into a stair under the crust at [[place-ewod|Evod]], and his tribe's elders have told no one outside. At [[place-qelodwatri|Kelodvotri]] the Kuuyoyur have chained a new stone over the well, and their water-warden is not with them. At [[place-qisomrktcmp|Qiiso]] the factors of both ends of the road ask what a union rising among the northern tribes would make of the market.
+
 ## Dangers
 
 The dead cities are the region's reputation. A league of caravan towns once stood on the first Celestial Road, and its towers were lighthouses, lit at night so that strings could march in the cool and steer for the next well. The road bends three days south round [[place-jilaq|Jilaq]], "the lantern", the league's chief city, where a dozen towers still stand over a ring wall and the ground is a blood-field of the thin kind, crossed at night by hunters in semi-material form. A smaller tower city, [[place-wilud|Vulud]], "the wonder", is half drowned in a moving dune sea, and every generation or so the dunes uncover whole streets of it. One such street ends at [[place-bolidqiso|Bolidqiiso]], a counting-house tower whose stone watchman still keeps its door.

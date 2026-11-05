@@ -20,6 +20,10 @@ The last dune ends in a wall of black rock, split by a cleft wide enough for thr
 
 **Sovid**, "the rider" in [[skill-sowideslng|Sovidur]], is the second hand-off well on [[lore-celestialroad|the Celestial Road]]. It lies about 1,700 miles from the [[place-eastrnmrch|March]] and about ninety-five days out, on the border between [[place-hskrrgn|Ghoshiqor]] and [[place-idwkrrgn|Idvaqor]]. East of it the sand is gone and the road climbs through stone toward the passes of [[place-tantsouregin|Tantsou]].
 
+## Layers {#history}
+
+Nobody on the road says who cut the cistern at the end of the cleft. The stone hall beside it was built for the riders who winter there when the road closes, and the outcast riders who stay on have made its loft their home.
+
 ## The Hand-off
 
 The riders of the sands bring a caravan to Sovid, and the riders of Idvaqor wait for it in the hall. The master lays his string of tokens on the stone floor, one for each range he has crossed, and the Idvaqor riders pick them up one at a time. They ask more questions than the riders at [[place-yemokwell|Yemok]] did, because the tribes of Idvaqor deal with Tantsou and the [[affiliation-tantsouempr|Empire's customs-house]] examines the cargo. They check the tokens against a count of the camels. A caravan that arrives with fewer beasts than it left with is asked where they died.
@@ -31,6 +35,10 @@ A truce holds at the well, as at Yemok, and for the same reason: every tribe rou
 ## The Cold
 
 The cistern fills with snowmelt in spring and has to last the year. A caravan that arrives late in the season finds it low and the price of water doubled. In winter the cleft is blocked with drift, and the riders who stay in the hall cook over dung and wait for the pass to open. The wind that blows through the cleft at night can freeze a wet blanket stiff.
+
+## What Is There Now {#present}
+
+The riders of Idvaqor take the highest price on the road and count the camels against the tokens, because the Empire's customs-house examines whatever they pass east. Tantsou patrols ride the road within a week of the pass, and what a caravan carries out of Sovid passes under them.
 
 ## Dangers
 

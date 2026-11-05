@@ -71,7 +71,7 @@ Atarzád merchants have sounded Hemvanay out about a limited normalization, a tr
 
 The house leads the houses of the west in the oldest argument at the [[affiliation-cnclprinces|Council of the Princes]]. The old houses hold that the first lineages came down through the labyrinth of [[place-vurdil|Vurdish]]; the House of Mernagord holds that they walked down the Western Descent with their herds and their tablets, and that the order of the roll is the order of the houses' standing. The house says so at the Council to the old houses' faces, and it has done so for as long as the Council has met.
 
-## What It Wants, and Who Stands in the Way
+## What It Wants, and Who Stands in the Way {#present}
 
 The house wants Mernagord kept free and its salt moving. That puts it at odds with the four houses in exile, who regard a compact with the Atarzád as treason and Hemvanay as insufficiently militant, and most of all with the [[affiliation-hsezargandur|House of Zargandur]], whose heir's plans for a reclamation would bring the war to the one Tellumi city that can least afford it. The oasis is full of people who say the compact is treason, and as many who say nothing. The [[affiliation-hseshirvan|House of Shirvan]] opposes the house on both counts, the compact and the coming down.
 

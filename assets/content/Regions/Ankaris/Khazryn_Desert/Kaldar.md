@@ -30,9 +30,13 @@ Kaldar sells ore, copper, verdigris and the faculty's products to the belt and t
 
 The renowned Master [Aldrin Kovoss]{.name data-type="being/npc"} trained [[being-kayvondzrd|Kayvonad Zarid]] there from the age of fifteen, and Kayvonad's thesis on the heat underlying copper-to-silver transmutation was hailed as groundbreaking. The faculty is also a place of long quarrels. When **[[being-pedunaybulam|Pedunay Bulamun]]** published a paper showing mathematical errors in Kayvonad's foundational work and Kayvonad answered with accusations of plagiarism, the scandal divided the department. Bulamun is now the University's favored elder statesman of alchemical research; Kayvonad keeps the title of Senior Researcher and little else, and a faction of younger scholars, the [Cabal of Progressive Theorists]{.name data-type="affiliation"}, openly calls his methods outdated.
 
-## Under the Atarzád
+## Under the Atarzád {#present}
 
 The Atarzád hold the city, and the University belongs to nobody. Its faculty includes Tellumi, Atarzád and foreign scholars, and the [Council of the Twelve]{.name data-type="affiliation/governmental"} has left it alone because it earns money and because Atarzád sons study there. Tellumi professors may teach, and Tellumi students may attend, but they may not hold land in the city, and the water-tax falls on their households as it does elsewhere. The practical rule among the faculty is that a quarrel in the lecture-hall is an academic quarrel, and a quarrel in the street is a matter for the Tozhirod magistrate.
+
+## History {#history}
+
+The scholars' college on the copper spur was founded in the centuries after the seven cities, and the town grew round it. In the War of the Twelve Years, about 619 to 630 AF, the college kept its gates open to both sides, and the Atarzád took the city without a siege. The University has drawn its faculty from Tellumi, Atarzád and foreign scholars alike ever since.
 
 ## Hooks and Dangers
 

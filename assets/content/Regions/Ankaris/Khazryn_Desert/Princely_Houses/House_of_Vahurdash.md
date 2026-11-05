@@ -63,7 +63,7 @@ The head of the house is [Khorsád-Vahur]{.name data-type="being/npc"}, who hold
 
 The house's strength is its claim. Vahurdash is a city given back to the desert and taken back from it, the one Tellumi city ever recovered, and every exile court in Amradad tells its children so. The [[affiliation-tribestrzd|Atarzád]] of the central belt tolerate the settlement because it costs them nothing, pays a quiet tribute in dates, and holds the poorest ground on the rim.
 
-## What It Wants, and Who Stands in the Way
+## What It Wants, and Who Stands in the Way {#present}
 
 The house wants proof. Its rivals say an acclamation cannot make a prince, and the [[affiliation-hseushtraber|House of Ushtra-ber]], keeper of the oldest forms in the belt, is the most exacting of them. The tablets of the old city's own archive would prove the house's descent, and nobody has reached them. A rival house keeps an agent in the caravan yard who offers a gift for any tablet that comes out of the old city.
 

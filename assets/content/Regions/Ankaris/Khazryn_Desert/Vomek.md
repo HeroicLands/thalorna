@@ -14,7 +14,7 @@ The water at Vomek is the best on the whole road. It comes up cold through white
 
 **Vomek**, "the dead" in [[skill-sowideslng|Sovidur]], lies a short ride off [[lore-celestialroad|the Celestial Road]], and a caravan that comes within sight of it halts. The animals pull toward the water. The guide holds them back. Most of the string reaches the next well thirsty and a little ashamed, and does not ask about it.
 
-## How It Was Made
+## How It Was Made {#history}
 
 About 312 AF the orghun who would lead [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came to the oasis at the head of the tribes already sworn to him, and the last tribe that refused to swear was camped at it. Some four thousand people were there, with their herds. The orghun put them to the sword over a morning and forbade anyone to lay them out. Their names were not spoken to the four winds. The tribe's dovaq was made to watch.
 
@@ -31,7 +31,7 @@ The field is moderate. It kills nobody by itself, and it does not need to.
 
 A caravan short of water that draws here in daylight and moves off before dusk takes no lasting harm. A caravan that camps carries the sleepers home with a stare and a bad habit of flinching at hoofbeats, and some are never right again.
 
-## How the Road Lives with It
+## How the Road Lives with It {#present}
 
 - **Nobody camps.** Each string that draws water here fills its skins by day, rinses nothing and leaves before the light turns yellow.
 - **The dates stay on the palm.** What falls is left to lie, and the guides will not eat the fruit. The sweetness is what gets into the dreams.

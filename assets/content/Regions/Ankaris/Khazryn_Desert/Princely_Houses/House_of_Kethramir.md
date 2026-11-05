@@ -64,7 +64,7 @@ The head of the house is [Narvuna of Kethramír]{.name data-type="being/npc"}, h
 
 The court keeps the oldest commentary any house owns, and keeps it in exile. Its people recite the house's losses in the Breaking without a change of voice, as the roll does, and a Tellumi who hears that a man is of Kethramír hears _priest-house_ without being told anything else.
 
-## What It Wants, and Who Stands in the Way
+## What It Wants, and Who Stands in the Way {#present}
 
 The house wants Kethramír back, and it wants the argument won first. Narvuna writes for Tellumi readers and for Atarzád ones, and the house counts it a victory each time the book is read on the far side of the line.
 

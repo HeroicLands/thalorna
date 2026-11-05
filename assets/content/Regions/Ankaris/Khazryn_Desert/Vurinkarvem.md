@@ -31,6 +31,10 @@ The cliff is the reason many pilgrims come to Shirvan at all. Tellumi from the f
 
 The guides are Tellumi of the lower town, licensed by the tribe that holds the city, and they are the people to ask about anything on the face: which chamber is dry, which stair lost a step in the winter, where the lamps are lit and by whom. Their fee goes up after rain.
 
+## Converging Interests {#present}
+
+The cliff is Atarzád ground with the rest of Shirvan, and no worship but that of Ataros may be heard on it. The guides keep Tellumi and Atarzád pilgrims on different stairs, and the [Ozhmarod]{.name data-type="affiliation"} fire-wardens want to know who lights the lamp in a chamber no stair reaches. At the cliff's foot the great spring stands lower than the old men remember, and the water-masters of the city have reset the channel-hours twice without finding the cause.
+
 ## Hooks and Dangers
 
 - **The fall.** A stair on the upper face gave way under a party of pilgrims last spring, and the family of a man who died wants to know whether the step was cut. The guide who led the party has left the city.

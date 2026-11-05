@@ -51,9 +51,17 @@ The **Household of Relvanninesh** governs [[place-relvanninel|Relvanninesh]], th
 
 Twelve people make up the household. The prince, [Garmelul]{.name data-type="being/npc"}, sits at the head of the long table in the great hall, with his wife, his daughter [Yelhule]{.name data-type="being/npc"} and his brother beside him. Below them sit the steward, the physician, the lamp-maker and five servants. The prince decides; his kin give their counsel at the table, and a Tellumi prince who disregards his brother's counsel does so at his cost. The steward carries out what is decided.
 
+## Current Situation {#present}
+
+The household sits at its table as it has for ninety years and asks every guest for news. This midwinter, for the first time in living memory, its silver has not reached the House of Ashkarad at Amradad, and Nimeshay of Ashkarad wants to know why.
+
 ## The Law of the Guest
 
 The household is governed above all by the Tellumi law of the guest, and keeps it with an exactness no other house manages. Every traveler who comes to the gate is a guest. The steward welcomes him, gives him water to wash and a seat at the table, and asks him nothing. The household refuses no guest.
+
+## History {#history}
+
+Nimeshun is a cadet line of the craft house of Ashkarad, whose princes held a small oasis of their own and grew rich on silvered glass. When the Atarzád took Ashkarad in the fifth year of [The Breaking]{.name data-type="lore/history"}, about 623 AF, the household of twelve was in the palace, and it has sat there since.
 
 ## Meeting It
 

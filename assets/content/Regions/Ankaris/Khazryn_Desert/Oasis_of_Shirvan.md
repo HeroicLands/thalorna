@@ -28,7 +28,7 @@ When the [[affiliation-tribestrzd|Atarzád]] took Shirvan they built a great fir
 
 Shirvan trades on pilgrimage and on dates. Pilgrims of both faiths come for the spring, the Atarzád to the great fire-temple and the Tellumi to a basin they may use only on the days their quarter is given. Their money feeds the inns of the lower town, the candle-makers, the guides who run groups to the cliff-face shrines, and the stalls that sell small clay flasks of spring water. Caravans from [[place-kethramir|Kethramír]] come in to buy dates, palm-sugar and the white sandstone dressed at the cliff-quarries, and leave with iron, glass and cloth. The date groves below the walls are the largest in the belt, and the harvest brings every hand in the city out to the orchards for a month.
 
-## Under the Atarzád
+## Under the Atarzád {#present}
 
 The city belongs to the [Ozhmarod]{.name data-type="affiliation"}, the Atarzád tribe that holds the western end of the belt and the strictest of the twelve on matters of observance. Their fire-wardens walk the streets, and their rule is felt in small ways: a Tellumi shop may not open on an Atarzád festival, a Tellumi household may not light a fire in its courtyard on certain nights, and the water-tax is assessed at the basin gate, where the assessor can see who comes to draw.
 

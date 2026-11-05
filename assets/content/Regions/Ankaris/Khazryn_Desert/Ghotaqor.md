@@ -29,6 +29,10 @@ The bands are small, fifty to two hundred people, and they are unorganized in th
 
 Their furs go south. Sable, marten and ermine reach the market-camp at [[place-qisomrktcmp|Qiiso]] on the backs of Sovidur traders who go north each summer, and from there they travel on to [[place-midhalnrgn|Mídhalión]]. The bands will take a stranger in who arrives hungry and half-frozen, because refusing him is bad luck, and will not take him in twice.
 
+## Current Situation {#present}
+
+The bands answer to nobody and take no part in the road, and their furs go south each summer with the Sovidur traders to Qiiso. The cut ridge and the hollow where the snow does not lie draw scholars from Velanthia and traders from Targud, who pay for any word of them.
+
 ## Dangers
 
 The cold is the first. The wolves and the great forest cats are the second, and the ground itself is the third. Travelers from the south underestimate how far a loaded sled can go in a day, and how many days a bog can hold a thaw.

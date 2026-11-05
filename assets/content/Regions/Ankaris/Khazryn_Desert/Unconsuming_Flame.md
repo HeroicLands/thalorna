@@ -16,6 +16,10 @@ The **Unconsuming Flame** is the first holy site of the [[affiliation-tribestrzd
 
 The Flame is kept by the Toqel, the Keeper of the Unconsuming Flame and the senior religious authority of the tribes, who is always a [Burqalod]{.name data-type="affiliation"}, always elderly, and raised only when the previous Toqel dies. The present Toqel is [Sighotor son of Nozhikor]{.name data-type="being/npc"}, about eighty winters old.
 
+## Layers {#history}
+
+The Atarzád date the Flame from the Promise. At the end of their Exodus their forebears came down off the Diqraqor past Mount Shofar, and here, in their account, Ataros revealed himself to Yotekhor in a flame that burned three days and nights on bare stone. Yotekhor died on the slope below without entering the belt, and his tomb stands there. Under his successor, the Zhudek [Nozhikor]{.name data-type="being/npc"}, the tribes took four Tellumi cities in the War of the Twelve Years, about 619 to 630 AF, and the fire-temple of each city records as its first flame a lamp carried down from the shelf.
+
 ## The Shelf
 
 The shelf is a flat step of the mountain's black rock perhaps sixty paces across, open to the sky and to the drop on its southern edge. A ring of black stones set at twenty paces from the Flame marks where pilgrims stop, and only the Toqel and the keepers who serve him go inside it. A low stone house at the back of the shelf, against the rock face, is where they sleep and eat. There is no roof over the Flame, no altar, no image and no wall, because the [[affiliation-ataros|Faith of Ataros]] makes no image of its god and the Flame alone stands for him.

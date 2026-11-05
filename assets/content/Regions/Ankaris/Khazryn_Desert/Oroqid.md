@@ -14,6 +14,10 @@ A square of dressed stone stands on the grass-and-dust country of the [[place-wl
 
 Inside, the plan is the one every legion builds: a parade ground, a headquarters at its center with a strongroom below, barrack blocks along the walls, and a cistern under the courtyard that is fed by a spring the engineers found and the garrison never lost. The roofs are gone and the timbers with them. The walls are whole, and over the gate a square of plaster still carries the painted number of a legion.
 
+## Layers {#history}
+
+The [[affiliation-vylarinmpr|Vylarian Empire]] drove the fort into the western margin at the height of its reach, one of a handful built to watch the grass road east, and its engineers found the spring that feeds the cistern. The garrison left with its pay-chests and standards still sealed in the strongroom, and the tribes hold that it was called away rather than driven out. The tribe that waters at the cistern has kept the gate clear and charged for the water ever since.
+
 ## What the Tribes Believe
 
 The tribes hold that the Vylarians will come back for it. They were not driven out, the tribes say; they were called away, and a force that leaves a fort fully furnished means to return to it. So the tribes that water at the cistern keep the gate clear and the courtyard swept, and will not set foot in the headquarters. Generations of herders have swept it.

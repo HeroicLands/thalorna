@@ -34,6 +34,10 @@ The cold is the commonest killer. A party above the snow line without guides, fu
 
 The rewards are as uncertain as the places. Carved lintels and floor-signs that prove a house's claim; worked metal that the lowlands do not make; ice-preserved wood, cloth and dyes, undamaged by time in the cold dark; and the chance of what no lowlander has seen. A merchant house in [[place-chendrapur2|Chendrapur]] pays well for anything from the high places, and asks no question about where.
 
+## Converging Interests {#present}
+
+The old Tellumi houses send climbers after the signs that would prove their claims, and at [[place-vurdil|Vurdish]] two exile houses have expeditions at the doorway, one hired to stop the other. The Osket and the Hvarn give what they know only to those who travel with them, and the merchant house in Chendrapur buys anything from the high places without asking where it came from.
+
 ## A Hook
 
 A guide of the Osket, old and dying, wants one last crossing of the Eastern Reach and has a place he will take a party to on the way, if they carry his body down. He will not say what is there. His own people have told him he may not go, and have told the party's patron the same.

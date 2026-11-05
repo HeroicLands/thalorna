@@ -28,11 +28,15 @@ Each craft is governed by a council of masters that controls apprenticeships, ma
 
 The Teghumod buy what the workshops make and carry it where the markets are. They send strings of camels west by [[place-wstrndscnt|the Western Descent]] to the [[place-dunharargn|Dunhara Region]], and south and east to the foot of the Grazian passes, where the guides take the lightest goods across the range. A craft family sells to a Teghumod factor at a price the factor sets, and the family's wealth depends on which factor will bid.
 
-## Under the Atarzád
+## Under the Atarzád {#present}
 
 The Teghumod are the most cosmopolitan of the twelve tribes, and Ashkarad shows it. Settler merchants have taken the broad streets near the gates, with their own temple of the Flame and their counting-houses, and the old craft quarter lies behind them, entered through low arches. Tellumi craftsmen pay the water-tax, but the Teghumod, who need the goods, leave the councils alone. The result is a city that is quieter than [[place-oasishirvn|Shirvan]] and richer than [[place-zargandur|Zargandur]], and where the resentment runs through contracts rather than streets.
 
 The exiled [House of Ashkarad]{.name data-type="affiliation/lineage"} lives on this arrangement. Its head, [Nimeshay of Ashkarad]{.name data-type="being/npc"}, grew rich in [[affiliation-kngdmmrdd|Amradad]] on [[place-vylarianse|Vylarian Sea]] trade, and some of the money returns to the city as loans to craft families that would otherwise be ruined by a Teghumod price. Everybody in the quarter knows whose money it is, and the craft families take the loans anyway.
+
+## History {#history}
+
+Ashkarad is the second of the seven cities in order of founding, after [[place-oasishirvn|Shirvan]], and the Tellumi tapped the deep aquifers under it in its first centuries. Before the Breaking it was the seat of the craft-house, whose court was the most cosmopolitan in the belt. The Teghumod took it in the fifth year of the war, about 623 AF, the second of the four cities to fall, and the House of Ashkarad has lived in exile at Amradad since.
 
 ## Hooks and Dangers
 

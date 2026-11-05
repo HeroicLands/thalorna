@@ -69,7 +69,11 @@ The Tribes are a power of one corner of the [[place-khzryndsrtrgn|Khazryn]], not
 
 Both reckonings are correct. The Atarzád do not deny that the Tellumi were here first; they deny that _first_ matters. In their teaching, the land was promised to the Flame-born by [[lore-atarosdty|Ataros]], the Sacred Flame himself. To the faithful Atarzád, that promise is more solid than any wall the Tellumi built before them and any deed the Tellumi kept after them.
 
-## Origins: The Bondage and the Exodus
+## Current Situation {#present}
+
+The Tribes hold their four cities in what their own elders call a quiet phase. No Zhudek has been acclaimed since the Shirvan rising about 706, and [Khemozor of Zhoqarod]{.name data-type="being/npc"}, Rezhul of the largest tribe, is the man most likely to be acclaimed when the next crisis comes. The Toqel, [[being-sighotornozh|Sighotor son of Nozhikor]], is about eighty. [Aqeshat]{.name data-type="being/npc"} the Prophet preaches the imminent return of Yotekhor and the expulsion of the Tellumi from the cities; the Council of the Twelve has not decided whether to honor or repudiate her, and her following grows. The next Tellumi rising is held overdue, and word has come from the steppe of a union rising in the north.
+
+## Origins: The Bondage and the Exodus {#history}
 
 Every festival of the Atarzád opens with the recitation of the founding, and a child who falters in it is made to begin again. By that tradition the ancestors of the Twelve Tribes were a single labor-caste in the temple-cities of Au'Khelathu, brought from somewhere to the east in a generation now beyond memory and held there for centuries as builders, brick-makers, and irrigation-diggers under the Gar-Au's quarry-overseers. They worshipped Ataros in secret, in lamps kept burning behind hearth-stones, while the priests of the Khelathi temples sought to drive them into the worship of [[lore-uqaadty|Uqa'a]] and [[lore-thubaidty|Thuba'i]].
 

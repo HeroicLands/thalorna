@@ -14,6 +14,10 @@ Evod is flat, white and enormous. From the dune crest on its southern rim the sa
 
 This was the lake of [[lore-basinbldrs|the Basin Builders]], who farmed its shores for the better part of a thousand years and left when it failed, around 1700 BF. The salt is what the water left. In the [[place-hskrrgn|Ghoshiqor]], the sand range, it is the only thing worth cutting, and the tribes of the nearest wells cut it in slabs a yard long and trade it west for grain.
 
+## Layers {#history}
+
+[[lore-basinbldrs|The Basin Builders]] had cut their canals and raised the stepped mounds along this shore by 2600 BF. The lake fell over some five centuries from about 2200 BF, and by about 1700 BF the basin was dry and its people gone. [[lore-waterunder|The Buried Water]], the Oroqidur star-song, keeps the tribes' account of the water going down.
+
 ## What the Tribes Believe
 
 The tribes hold that the lake did not dry up. It went down. They teach it to their children in one sentence: the water went to ground to find its people, and it will come up again where the last of them is buried. Slab-cutters will not work the middle of the flat, where they say the water is deepest below, and none will sleep out on the salt.

@@ -85,7 +85,11 @@ There are perhaps eight hundred thousand Tellumi. About two hundred and fifty th
 
 The Atarzád hold that the Tellumi are the people whose oases [[lore-atarosdty|Ataros]], the Sacred Flame, promised to the Flame-born, and that the [Promise of the Tellumel]{.name data-type="lore"} has been fulfilled. The Tellumi hold that the Atarzád are trespassers whose theology cannot create a fact that history did not establish, and that no god may give one people the land of another.
 
-## Origins: The Ancient Settlement
+## Current Situation {#present}
+
+Ninety years after the Breaking the Confederation holds three oases, claims seven cities and keeps no army. [[being-gureshayzarg|Gureshay of Zargandur]] trains in the Kingdom's forces, and the militant exiles gather round him, though the Council's private consensus is that no reclamation comes in this generation. [[being-hemvanaymern|Hemvanay of Mernagord]] has been sounded out by Atarzád merchants about a trade compact and has answered neither way, and the exile houses call the idea treason. Inside the held cities the preacher [Aqeshat]{.name data-type="being/npc"} calls for the Tellumi to be expelled, and some exile factions look to [[being-mureshashirv|Muresha of Shirvan]] as the focus of a more activist phase.
+
+## Origins: The Ancient Settlement {#history}
 
 Tellumi tradition holds that the first Tellumi came down from the Grazian Mountains by **[[place-wstrndscnt|the Western Descent]]**, the last three hundred miles of the range, where the wall breaks into brown foothills above the oasis-belt. They came in the deep first age, one lineage after another, and settled the great springs at the foot of the foothills as their families spread. The older genealogies still root each house in a named peak above the Descent, and most of those peaks no living member of the house has seen. The seven cities they built stand on one another: of the original walls only foundations remain, buried beneath the rebuilt walls of every generation since.
 
