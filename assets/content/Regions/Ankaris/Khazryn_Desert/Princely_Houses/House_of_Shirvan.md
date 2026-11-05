@@ -64,7 +64,7 @@ The **House of Shirvan** is the senior of the seven princely houses of the [[aff
 
 The heir-in-exile is [Muresha of Shirvan]{.name data-type="being/npc"}, a scholar and theologian of about forty, unmarried, who has spent her life building one argument: that Shirvan belongs to her house by right, and that the Atarzád have nothing to set against the right but a promise. The case fills a small library at the court, and it is never finished. Every tablet that surfaces when a channel is dug out under the lower basin of Shirvan, and that the Tellumi water-masters carry away before the overseers see it, is a tablet the house wants to read, and the treaties between the seven cities are the ones it wants most. Some exile factions see Muresha as the focus of a more active phase of the claim. She has not said whether she wants to be one.
 
-The court keeps the first tablet. The roll of the peaks says that the first lineage came down from the snow peak carrying a tablet of wet clay with nothing pressed on it, and pressed it at the spring with one word, _here_. The house shows it to nobody outside the house, and every Shirvan funeral answers the snow peak with the city's name.
+The court keeps [[miscgear-shirvantab|the first tablet]]. The roll of the peaks says that the first lineage came down from the snow peak carrying a tablet of wet clay with nothing pressed on it, and pressed it at the spring with one word, _here_. The house shows it to nobody outside the house, and every Shirvan funeral answers the snow peak with the city's name.
 
 ## What It Wants, and Who Stands in the Way
 

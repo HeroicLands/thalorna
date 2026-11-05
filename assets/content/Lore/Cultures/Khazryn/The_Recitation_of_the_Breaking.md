@@ -450,6 +450,9 @@ nus denem gashem vannil. nerbem hagen vartish.
 [[place-henhulpedin|Henhutpedin]]
 : the field outside the north wall
 
+[[miscgear-zargbanner|The Banner-Staff of Zargandur]]
+: the staff Budishay carried and did not drop
+
 [[place-zargandur|Zargandur]]
 : the war-city, its weirs and the lamps in its quarter
 

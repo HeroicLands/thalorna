@@ -54,7 +54,7 @@ The library is the case. Muresha has spent her life building one argument, that 
 
 ## Background
 
-**The house.** Muresha is the only child of the last heir-in-exile, who died when she was twenty-six. She grew up in the library and learned the Tellumi syllabary before she could reliably walk across the court, and the burn on her hand is from a lamp she knocked over at seven, reading after the household slept. Her father left her the house, the seat at the Council, the first tablet and a debt to a Tellumi banker of the Kingdom that she paid off in nine years by selling copies of the house's commentaries to the schools of Amradad.
+**The house.** Muresha is the only child of the last heir-in-exile, who died when she was twenty-six. She grew up in the library and learned the Tellumi syllabary before she could reliably walk across the court, and the burn on her hand is from a lamp she knocked over at seven, reading after the household slept. Her father left her the house, the seat at the Council, [[miscgear-shirvantab|the first tablet]] and a debt to a Tellumi banker of the Kingdom that she paid off in nine years by selling copies of the house's commentaries to the schools of Amradad.
 
 **The Council.** She took the first seat at twenty-six, and the princes listened to her because her house is first and stopped interrupting her within two sessions because she was always right about what the tablets said. She has never married. The elders of the house have proposed four matches and she has refused all four, each time on the ground that the house cannot afford a second claim tied to a second house.
 

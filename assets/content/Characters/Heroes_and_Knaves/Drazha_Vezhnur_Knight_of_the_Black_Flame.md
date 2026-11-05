@@ -442,7 +442,7 @@ As a Blazewarden, Drazhan became known for leading punitive raids down out of th
 
 ### The Blazing Oath and the Search for the Eye of Velok
 
-Drazhan’s most dangerous and ambitious mission began when he was chosen to lead a group of elite knights known as the [Blazing Oath]{.name data-type="affiliation/order"}. This secretive faction within the Servants of Vezhnurikos is dedicated to seeking out ancient relics attributed to Ústaron, said to contain immense destructive power. Drazhan’s mission is to retrieve the [Eye of Velok]{.name data-type="miscgear"}, a gem rumored to hold the essence of a powerful fire demon bound to Ústaron.
+Drazhan’s most dangerous and ambitious mission began when he was chosen to lead a group of elite knights known as the [Blazing Oath]{.name data-type="affiliation/order"}. This secretive faction within the Servants of Vezhnurikos is dedicated to seeking out ancient relics attributed to Ústaron, said to contain immense destructive power. Drazhan’s mission is to retrieve the [[miscgear-velokeye|Eye of Velok]], a gem rumored to hold the essence of a powerful fire demon bound to Ústaron.
 
 The Eye is believed to be hidden within the [[place-ruinsarkor|Ruins of Arkor]], an ancient city buried beneath the sands of the Desert of Hek'ar. If recovered, the Eye could grant its bearer the ability to command fire on a massive scale, a power that Drazhan believes could fulfill Ústaron’s vision of a world engulfed in flames. However, many dangers stand in his way, including rival factions within the Black Flame, foreign mercenaries, and the harsh environment of the desert itself.
 

@@ -56,7 +56,7 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **Player choices.** Force: threaten Murelul for the whole of what he knows; he gives it, and the settlement's goodwill turns. Stealth: read the copied tablets in his room while he sleeps; they carry the cellar plan. Guile: let Dulmenul believe the party is for sale and learn what the rival house wants. Parley: persuade Khorsád-Vahur that the party can end the knocking without opening the cellars to his rivals.
 
-**Clues and rewards.** The song gives three keys: the oath-words, the boy's name on the shield, and the keepers' line, _we are the keepers, we keep_. Murelul's copied plan shows the way from the breach in the north wall to the record-house stair. The shield of [Revunay]{.name data-type="being/npc"}, with the name cut into the rim, is said to lie where the boy fell, in the gate-court. It is under the floor of the guard-bench.
+**Clues and rewards.** The song gives three keys: the oath-words, the boy's name on [[miscgear-revunayshld|the shield]], and the keepers' line, _we are the keepers, we keep_. Murelul's copied plan shows the way from the breach in the north wall to the record-house stair. The shield of [Revunay]{.name data-type="being/npc"}, with the name cut into the rim, is said to lie where the boy fell, in the gate-court. It is under the floor of the guard-bench.
 
 **Consequences.** If the party takes Dulmenul's offer, he knows their plans and tells his employer. If they betray Murelul, the settlement closes to them.
 
@@ -98,7 +98,7 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **Purpose.** Pay out the reward, and turn it into a decision.
 
-**Situation.** With the keepers received, the great archive is open. The party has an hour, or a night, with a hundred shelves. The last tablet, laid on a desk in a room without a door, is the prince's own, with a line pressed into its edge by a thumbnail. It says one word in the old hand, and the word is _Paid_.
+**Situation.** With the keepers received, the great archive is open. The party has an hour, or a night, with a hundred shelves. The [[miscgear-sunhemtab|last tablet]], laid on a desk in a room without a door, is the prince's own, with a line pressed into its edge by a thumbnail. It says one word in the old hand, and the word is _Paid_.
 
 **NPCs and threats.** Murelul, Khorsád-Vahur and Dulmenul converge on the archive within the hour. Each wants the tablets and each wants them differently. The genealogies show that the House of Vahurdash descends from the household of [Berniray]{.name data-type="being/npc"} and [Minesha]{.name data-type="being/npc"} and not from the princes, a better ancestry than most and not a princely one.
 

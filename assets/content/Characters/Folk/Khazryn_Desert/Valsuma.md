@@ -45,7 +45,7 @@ The temple raised [[being-shrmnhthvn|Sharminah Tahvan]], a foundling pulled from
 
 **The foundling.** Valsuma came to the temple as an infant with no lineage, a generation after the Conquest. The temple raises a child with no lineage as its own, and the name she was brought in with was the only thing she brought.
 
-**The priestess.** She was ordained a Fire-Keeper at eighteen, a Delkoshekh at thirty and the temple's Shekhul at fifty-two, the first woman to hold the flame of Shirvan. Under her the temple has never let its fire fail, and she has carried the lamp of its lineage up Mount Shofar to be relit every festival for twenty-six years.
+**The priestess.** She was ordained a Fire-Keeper at eighteen, a Delkoshekh at thirty and the temple's Shekhul at fifty-two, the first woman to hold the flame of Shirvan. Under her the temple has never let its fire fail, and she has carried [[miscgear-shirvanlamp|the lamp of its lineage]] up Mount Shofar to be relit every festival for twenty-six years.
 
 **The present.** She has given the temple's daily work to its senior priests and keeps the night watch over the flame herself. Sharminah, whom the temple sends into the other held cities as its enforcer, comes back to Shirvan to kneel at her feet after every mission.
 

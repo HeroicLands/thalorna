@@ -303,6 +303,9 @@ lemir hunel veme hune. hushli lemir samrel benu yermun, leshim nelim genmer nure
 [[place-oasishirvn|Oasis of Shirvan]]
 : the first spring, under the pale cliff
 
+[[miscgear-shirvantab|The First Tablet of Shirvan]]
+: the tablet the first lineage pressed at the spring
+
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the seven houses and the Council that keeps both accounts
 

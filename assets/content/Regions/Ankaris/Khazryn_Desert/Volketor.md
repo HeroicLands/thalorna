@@ -38,7 +38,7 @@ Their herds are horses and sheep, and the tribes test the March's herds and unes
 
 ## Dangers
 
-Raiders test unescorted strings; a string with a rider of the right tribe is rarely touched, and a string with none is lawful prey. Dust storms blow up in midsummer and last three days. In Hek'ar, knights of [[affiliation-blackflame|the Black Flame]] hunt the [Eye of Velok]{.name data-type="miscgear"} among the [[place-ruinsarkor|Ruins of Arkor]] and fight one another over how. A fort from the days of the [[affiliation-vylarinmpr|Vylarian Empire]], [[place-roqid|Oroqid]] ("the camp"), stands on a low ridge near the road with its cistern still filling, and the tribe that waters there charges for the water and for its silence.
+Raiders test unescorted strings; a string with a rider of the right tribe is rarely touched, and a string with none is lawful prey. Dust storms blow up in midsummer and last three days. In Hek'ar, knights of [[affiliation-blackflame|the Black Flame]] hunt the [[miscgear-velokeye|Eye of Velok]] among the [[place-ruinsarkor|Ruins of Arkor]] and fight one another over how. A fort from the days of the [[affiliation-vylarinmpr|Vylarian Empire]], [[place-roqid|Oroqid]] ("the camp"), stands on a low ridge near the road with its cistern still filling, and the tribe that waters there charges for the water and for its silence.
 
 ## Hooks
 

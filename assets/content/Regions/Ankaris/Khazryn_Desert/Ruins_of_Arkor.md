@@ -16,7 +16,7 @@ Arkor is the westernmost of [[lore-towercities|the Tower Cities]], the lamp-lit 
 
 ## What Is Said
 
-The tribes hold that the sand is a patient animal and that it took Arkor in its sleep. They keep clear of the tower and of the shallow bowl around its foot where the sand is oddly cold, and a herder will not drive stock within a mile of it at night. The Black Flame says something else. In its teaching the city was a seat of the fire demon whose essence the [Eye of Velok]{.name data-type="miscgear"} holds, a relic of [[lore-ustarondty|Ústaron]], and the desert buried it to hide that fact. Neither reading is confirmed.
+The tribes hold that the sand is a patient animal and that it took Arkor in its sleep. They keep clear of the tower and of the shallow bowl around its foot where the sand is oddly cold, and a herder will not drive stock within a mile of it at night. The Black Flame says something else. In its teaching the city was a seat of the fire demon whose essence the [[miscgear-velokeye|Eye of Velok]] holds, a relic of [[lore-ustarondty|Ústaron]], and the desert buried it to hide that fact. Neither reading is confirmed.
 
 ## The Search for the Eye
 

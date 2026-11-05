@@ -39,7 +39,7 @@ Nothing comes out of the field. No shape takes hold of a man. A Zhoqarod picket 
 
 ## What Is Still There
 
-Under the filled trench lie the war-house's weapons and its horse-furniture, unstripped, because the Zhoqarod who filled the trench would not touch them. A banner-staff of the house stands in the trench with its cloth rotted off. The [House of Zargandur]{.name data-type="affiliation/lineage"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], keeps the riders' names on its tablet. The princes' signets are not here: they lie with the household in the trench at [[place-relvanvesul|Relvanvesut]].
+Under the filled trench lie the war-house's weapons and its horse-furniture, unstripped, because the Zhoqarod who filled the trench would not touch them. A [[miscgear-zargbanner|banner-staff of the house]] stands in the trench with its cloth rotted off. The [House of Zargandur]{.name data-type="affiliation/lineage"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], keeps the riders' names on its tablet. The princes' signets are not here: they lie with the household in the trench at [[place-relvanvesul|Relvanvesut]].
 
 ## Hooks
 

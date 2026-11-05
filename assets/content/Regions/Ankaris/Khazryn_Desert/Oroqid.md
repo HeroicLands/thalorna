@@ -24,7 +24,7 @@ The danger is the tribe that holds the water. The cistern is the best on the Vol
 
 ## Treasure
 
-The strongroom holds the fort's pay-chests, sealed and never opened, and the legion's standards, wrapped in oilcloth. Whatever the chests hold, the standards are the thing a Vylarian wants.
+The strongroom holds the fort's pay-chests, sealed and never opened, and [[miscgear-roqidstds|the legion's standards]], wrapped in oilcloth. Whatever the chests hold, the standards are the thing a Vylarian wants.
 
 ## The Swept Fort {#present}
 

@@ -576,6 +576,12 @@ danver tiver, merin. miver danver tiver.
 [[place-velkunar|Veshkun]]
 : the lost town, its cellars and the archive under the sand
 
+[[miscgear-revunayshld|The Shield of Revunay]]
+: the boy's shield, with the name on its rim
+
+[[miscgear-sunhemtab|The Last Tablet of Sunhemay]]
+: the prince's last line
+
 [[place-vahurdash|Vahurdash]]
 : the settlement rebuilt among the old streets, and the house that holds it by acclamation
 
