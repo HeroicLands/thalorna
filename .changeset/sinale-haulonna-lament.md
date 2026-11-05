@@ -4,7 +4,7 @@
 
 **Languages and scripts**
 
-- The pronunciation guide records Sinale pitch and emphasis marks, and the language page explains word order, wearing, relations and how to proof a passage.
+- The Sinale language page explains word order, wearing, relations and how to proof a passage.
 
 **Literature and verse**
 

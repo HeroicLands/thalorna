@@ -176,17 +176,24 @@ function hex(text) {
 }
 
 /**
- * Add Sinale delivery signs to the fonts' plain-spelling reference conversion.
- * The upstream converter predates performance notation. It still decides every
- * letter, vowel, length sign and carrier; this adapter adds only the documented
- * delivery signs after the vowel nucleus they annotate. Scalar equality remains
- * strict, including sign placement and order.
+ * Add Sinale's common marks to the fonts' plain-spelling reference conversion.
+ * The upstream converter predates the marks. It still decides every letter,
+ * vowel, length sign and carrier; this adapter adds the stress sign for an
+ * acute and the rise or fall sign for a tone after the vowel nucleus they
+ * annotate. The letters are grouped as the converter groups them, left to
+ * right, a held vowel aa, ii or uu or a diphthong taken wherever it starts,
+ * each letter in one group. A tone belongs on the first letter of a held
+ * vowel, so a tone on any other letter, the second letter of a group
+ * included, is refused. An acute on a group's second letter splits it, so
+ * that letter starts a nucleus of its own on the carrier. Scalar equality
+ * remains strict, including sign placement and order.
  */
 export function referenceWithPerformance(source, convert) {
+    const STRESS = 0x1ed7b;
     const marks = new Map([
         ["\u030c", 0x1ed79],
         ["\u0302", 0x1ed7a],
-        ["\u0301", 0x1ed7b],
+        ["\u0301", STRESS],
     ]);
     const vowels = new Set([..."aeiouy"]);
     const diphthongs = new Set([
@@ -207,35 +214,48 @@ export function referenceWithPerformance(source, convert) {
     for (const letter of source.normalize("NFD").toLowerCase()) {
         const last = tokens.at(-1);
         if (marks.has(letter)) {
-            if (!last || !vowels.has(last.letter)) {
-                throw new Error("a Sinale performance mark must annotate a vowel");
-            }
+            if (!last || !vowels.has(last.letter) || last.signs.length)
+                throw new Error("a Sinale mark must annotate a vowel, one mark to a vowel");
             last.signs.push(marks.get(letter));
         } else {
             tokens.push({ letter, signs: [] });
         }
     }
-    // Unsupported base characters still go through the canonical converter and
-    // are refused there. No spelling is guessed or silently discarded.
-    const plain = convert(tokens.map(({ letter }) => letter).join(""));
+    const toned = (token) => token.signs.length > 0 && token.signs[0] !== STRESS;
+    const misplaced = () =>
+        new Error("a Sinale tone mark belongs on the first letter of aa, ii or uu");
+    // Each vowel nucleus's signs, in written order: one entry for a lone or
+    // held vowel, one per letter for a diphthong, which writes two vowel signs.
     const deliveries = [];
-    for (let i = 0; i < tokens.length; i++) {
+    for (let i = 0; i < tokens.length;) {
         const token = tokens[i];
-        if (!vowels.has(token.letter)) continue;
-        let signs = token.signs;
-        const next = tokens[i + 1];
-        if (next && next.letter === token.letter && "aiu".includes(token.letter)) {
-            signs = [...signs, ...next.signs];
-            i++;
-        } else if (next && diphthongs.has(token.letter + next.letter)) {
-            deliveries.push(token.signs, next.signs);
+        if (!vowels.has(token.letter)) {
             i++;
             continue;
         }
-        // A long nucleus carries pitch then emphasis, regardless of which of
-        // its written vowels bears either mark. Hiatus keeps separate nuclei.
-        deliveries.push(signs.toSorted((a, b) => a - b));
+        const next = tokens[i + 1];
+        const held = next?.letter === token.letter && "aiu".includes(token.letter);
+        const group = next && (held || diphthongs.has(token.letter + next.letter));
+        if (group && next.signs[0] === STRESS) next.split = true;
+        if (group && !next.split) {
+            if (toned(next) || (toned(token) && !held)) throw misplaced();
+            deliveries.push(...(held ? [token.signs] : [token.signs, next.signs]));
+            i += 2;
+        } else {
+            if (toned(token)) throw misplaced();
+            deliveries.push(token.signs);
+            i++;
+        }
     }
+    // Unsupported base characters still go through the canonical converter and
+    // are refused there. No spelling is guessed or silently discarded. A split
+    // vowel is converted as the start of a new run, which stands it on the carrier.
+    const runs = [[]];
+    for (const token of tokens) {
+        if (token.split) runs.push([]);
+        runs.at(-1).push(token.letter);
+    }
+    const plain = runs.map((run) => convert(run.join(""))).join("");
     const scalars = [...plain];
     const out = [];
     let nucleus = 0;
@@ -308,7 +328,15 @@ export function checkLanguage(language, ctx, record, convert) {
             continue;
         }
         if (convert && language.reference) {
-            const expected = referenceWithPerformance(source, convert);
+            let expected;
+            try {
+                expected = referenceWithPerformance(source, convert);
+            } catch (error) {
+                findings.push(
+                    `${at()}: error: the ${kind} \`${source}\` has no reference spelling: ${error.message}`,
+                );
+                continue;
+            }
             if (expected !== native) {
                 findings.push(
                     `${at()}: error: the ${kind} \`${source}\` is written ${hex(native)}, but the converter writes ${hex(expected)}`,

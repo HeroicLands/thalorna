@@ -79,7 +79,8 @@ function spellingRows(tongue) {
     const AE = tongue === "aelendi";
     const rows = [];
     const add = (from, to, comment, cond) => {
-        const condition = cond ? Object.fromEntries([cond.split(/:\s*/)]) : {};
+        const condition =
+            typeof cond === "string" ? Object.fromEntries([cond.split(/:\s*/)]) : (cond ?? {});
         rows.push({ from, to, ...condition });
     };
     const cases = (s) => {
@@ -181,92 +182,95 @@ function spellingRows(tongue) {
 }
 
 /**
- * Sinale vowel spellings, with performance notation written as precomposed
- * letters. A delivery with no precomposed letter is not a roman spelling, since
- * the content charset refuses combining marks. A pair is consumed together so a
- * mark cannot split a long vowel or remove the carrier from two vowels sounded
- * apart. Only aa, ii and uu are held vowels; any other doubled vowel is two
- * vowels sounded in turn.
+ * Sinale vowel spellings under the common marks of Pronouncing Thalorna. A
+ * word is read left to right, taking the held vowels aa, ii and uu and
+ * Sinale's diphthongs as groups wherever they start; every other vowel stands
+ * alone. Each group or lone vowel is one nucleus, and a nucleus followed by a
+ * vowel writes the carrier that vowel stands on, so a vowel after another
+ * nucleus is always on the carrier. An acute marks stress and draws the stress
+ * sign after its nucleus. An acute on a group's second letter splits the group,
+ * so that letter starts a nucleus of its own. A tone sits on the first letter
+ * of a held vowel and draws the rise or fall sign after the long sign; a tone
+ * anywhere else has no row and is refused.
+ *
+ * A toned held vowel is refused where the letter before it would open a group
+ * with the toned letter, as in paâa or kaîi. Its rows therefore hold only at a
+ * word's start, after a consonant, or after a vowel that forms no group with
+ * it. Where such a vowel ends a group the reading has already taken, as in
+ * paaâa or paiîi, one row spells that group and the toned held vowel together,
+ * so the matcher, reading groups left to right, reaches the pair only from the
+ * start of that group. A row condition sees only the one letter before it, so
+ * this reaches one group back: a second toned held vowel straight after such a
+ * row, as in paaâaâa, has no row and is refused.
  */
 function addSinaleVowels(add) {
-    const marks = { "\u030c": "rise", "\u0302": "fall", "\u0301": "emphasis" };
-    const deliveries = [
-        "",
-        "\u0302",
-        "\u030c",
-        "\u0301",
-        "\u0302\u0301",
-        "\u030c\u0301",
-        "\u0301\u0302",
-        "\u0301\u030c",
-    ];
-    const vowels = Object.fromEntries(
-        [..."aeiouy"].map((base) => {
-            const forms = new Map();
-            for (const letter of [base, base.toUpperCase()])
-                for (const delivery of deliveries)
-                    for (const form of [
-                        letter + delivery,
-                        (letter + delivery).normalize("NFC"),
-                        (letter + delivery).normalize("NFD"),
-                    ])
-                        if (!/\p{M}/u.test(form.normalize("NFC")))
-                            forms.set(
-                                form.normalize("NFC"),
-                                ["rise", "fall", "emphasis"].filter((sign) =>
-                                    [...delivery].some((mark) => marks[mark] === sign),
-                                ),
-                            );
-            return [base, [...forms].map(([form, signs]) => ({ form, signs }))];
-        }),
-    );
-    const write = (from, letters) => {
-        add(from, ch("carrier", ...letters), cm("carrier", ...letters), "at: start");
-        add(from, ch(...letters), cm(...letters));
+    const acute = { a: "á", e: "é", i: "í", o: "ó", u: "ú", y: "ý" };
+    const tones = { "\u030c": "rise", "\u0302": "fall" };
+    const write = (from, letters, after) => {
+        add(from, ch("carrier", ...letters, "carrier"), "", { before: "vowel", at: "start" });
+        add(from, ch("carrier", ...letters), "", { at: "start" });
+        for (const condition of after ?? [{}]) {
+            add(from, ch(...letters, "carrier"), "", { ...condition, before: "vowel" });
+            add(from, ch(...letters), "", condition);
+        }
     };
-    for (const [base, forms] of Object.entries(vowels))
-        for (const { form, signs } of forms) write(form, [base, ...signs]);
-    for (const from of ["j", "J"]) write(from, ["y"]);
-    const diphthongs = new Set([
-        "ai",
-        "au",
-        "ia",
-        "eo",
-        "oi",
-        "ou",
-        "ui",
-        "uo",
-        "ei",
-        "ie",
-        "yi",
-        "ye",
-    ]);
-    for (const [first, starts] of Object.entries(vowels))
-        for (const [last, ends] of Object.entries(vowels)) {
-            const long = first === last && "aiu".includes(first);
-            if (!long && diphthongs.has(first + last)) continue;
-            for (const left of starts)
-                for (const right of ends) {
-                    const signs = [...left.signs, ...right.signs];
-                    // A word permits one pitch mark and one emphasis mark;
-                    // a pair must not consume repeated or conflicting signs.
-                    if (
-                        new Set(signs).size !== signs.length ||
-                        (signs.includes("rise") && signs.includes("fall"))
-                    )
-                        continue;
-                    const performance = ["rise", "fall", "emphasis"].filter((sign) =>
-                        signs.includes(sign),
-                    );
+    const groups = new Set([..."aiu"].map((v) => v + v).concat(SINALE_DIPHTHONGS));
+    // Where a toned held vowel may follow directly: after a consonant, or
+    // after a vowel that would open no group with its toned letter.
+    const after = Object.fromEntries(
+        [..."aiu"].map((held) => [
+            held,
+            [{ after: "consonant" }].concat(
+                Object.entries(acute)
+                    .filter(([base]) => !groups.has(base + held))
+                    .flatMap(([base, stressed]) => [{ after: base }, { after: stressed }]),
+            ),
+        ]),
+    );
+    // Every two-letter group as its rows spell it, with its last letter: plain,
+    // with an acute on its first letter, and, for a held vowel, with a tone
+    // there, which keeps the toned vowel's own conditions.
+    const spelled = [];
+    for (const held of "aiu") {
+        spelled.push({ from: held + held, last: held, letters: [held, "long"] });
+        spelled.push({ from: acute[held] + held, last: held, letters: [held, "long", "emphasis"] });
+        for (const [mark, sign] of Object.entries(tones))
+            spelled.push({
+                from: (held + mark).normalize("NFC") + held,
+                last: held,
+                letters: [held, "long", sign],
+                after: after[held],
+            });
+    }
+    for (const [first, last] of SINALE_DIPHTHONGS) {
+        spelled.push({ from: first + last, last, letters: [first, last] });
+        spelled.push({ from: acute[first] + last, last, letters: [first, "emphasis", last] });
+    }
+    for (const [base, stressed] of Object.entries(acute)) {
+        write(base, [base]);
+        write(stressed, [base, "emphasis"]);
+    }
+    add("j", ch("carrier", "y"), "", { at: "start" });
+    add("j", ch("y"), "");
+    for (const { from, letters, after: condition } of spelled) write(from, letters, condition);
+    for (const held of "aiu")
+        for (const [mark, sign] of Object.entries(tones)) {
+            const toned = (held + mark).normalize("NFC") + held;
+            for (const group of spelled)
+                if (groups.has(group.last + held))
                     write(
-                        left.form + right.form,
-                        long ?
-                            [last, "long", ...performance]
-                        :   [first, ...left.signs, "carrier", last, ...right.signs],
+                        group.from + toned,
+                        [...group.letters, "carrier", held, "long", sign],
+                        group.after,
                     );
-                }
         }
 }
+
+/** Sinale's diphthongs, as its language note lists them. */
+const SINALE_DIPHTHONGS = ["ai", "au", "ia", "eo", "oi", "ou", "ui", "uo", "ei", "ie", "yi", "ye"];
+
+/** Every vowel letter a Sinale spelling writes, marked or not, for the `before: vowel` rows. */
+const SINALE_VOWELS = "aeiouyáéíóúýǎâǐîǔû";
 
 /** Selected font metadata is the only glyph-code table. */
 export const GLYPH_CODES = fontCodes(resolveScriptFonts(process.cwd()), "veldikko");
@@ -285,7 +289,7 @@ export function generateEncoding(tongue) {
             return code;
         });
         if (Object.keys(condition).length) {
-            const key = JSON.stringify([match, condition.before, condition.at]);
+            const key = JSON.stringify([match, condition.after, condition.before, condition.at]);
             const previous = contextual.get(key);
             if (previous && JSON.stringify(previous.emit) !== JSON.stringify(emit))
                 throw new Error(`Conflicting lowercase Veldikko context for ${match}`);
@@ -309,6 +313,7 @@ export function generateEncoding(tongue) {
             "word-separators": ["-"],
             "contextual-mappings": [...contextual.values()],
         },
+        ...(tongue === "sinale" ? { vowels: SINALE_VOWELS } : {}),
     };
 }
 
@@ -320,6 +325,7 @@ function rewrite(text, tongue) {
     if (!document.hasIn(["data", "mappings"]) || !document.hasIn(["data", "rules"]))
         throw new Error("Migrate the encoding document to data.mappings and data.rules first");
     const generated = generateEncoding(tongue);
+    if (generated.vowels !== undefined) document.setIn(["data", "vowels"], generated.vowels);
     document.setIn(["data", "mappings"], generated.mappings);
     document.setIn(["data", "rules"], generated.rules);
     return "---\n" + document.toString() + "---" + split[2] + text.slice(split[0].length);
@@ -334,13 +340,14 @@ export function checkNotes() {
         const data = split ? YAML.parse(split[1]).data : undefined;
         const generated = generateEncoding(tongue);
         if (
+            data?.vowels !== generated.vowels ||
             JSON.stringify(data?.mappings) !== JSON.stringify(generated.mappings) ||
             JSON.stringify(data?.rules) !== JSON.stringify(generated.rules)
         ) {
             const at = text.indexOf("  mappings:");
             const line = at < 0 ? 1 : text.slice(0, at).split("\n").length;
             findings.push(
-                `${file}:${line}:1: error: \`data.mappings\` or \`data.rules\` differs from the program \`utils/veldikko-spelling.mjs\` writes; run \`node utils/veldikko-spelling.mjs\`, then \`npm run format\` on the notes`,
+                `${file}:${line}:1: error: \`data.vowels\`, \`data.mappings\` or \`data.rules\` differs from the program \`utils/veldikko-spelling.mjs\` writes; run \`node utils/veldikko-spelling.mjs\`, then \`npm run format\` on the notes`,
             );
         }
     }

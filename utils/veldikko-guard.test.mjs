@@ -10,12 +10,21 @@ import { spawnSync } from "node:child_process";
 import { test } from "node:test";
 import yaml from "yaml";
 import { runContext } from "@heroiclands/package-build/engine/content-scripts";
-import { compileEncoding } from "@heroiclands/package-build/engine/encoding";
-import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import {
+    compileEncoding,
+    decodeText,
+    encodeText,
+} from "@heroiclands/package-build/engine/encoding";
+import {
+    decodeWithLanguage,
+    encodeWithLanguage,
+} from "@heroiclands/package-build/engine/encoding-language";
+import { encodingFor } from "@heroiclands/package-build/engine/encoding-lexicon";
 import { emitContentIndex } from "@heroiclands/package-build/engine/content-index";
 import { encodeAddresses } from "@heroiclands/package-build/engine/address-values";
 import { checkNotes, generateEncoding, GLYPH_CODES, NOTES } from "./veldikko-spelling.mjs";
 import { checkLanguage, readIndex, referenceWithPerformance } from "./veldikko-guard.mjs";
+import { convertVeldikko } from "./veldikko-reference.mjs";
 
 const config = {
     contentPackage: "thalorna",
@@ -210,9 +219,267 @@ test("CLI requires an explicit index and rejects the retired external-converter 
 });
 
 test("performance adapter keeps the independent converter's scalars and sign order", () => {
+    const plain = () => sign(0x1ed50, 0x1ed70, 0x1ed78);
+    assert.equal(referenceWithPerformance("pâa", plain), sign(0x1ed50, 0x1ed70, 0x1ed78, 0x1ed7a));
+    assert.equal(referenceWithPerformance("pǎa", plain), sign(0x1ed50, 0x1ed70, 0x1ed78, 0x1ed79));
+    assert.equal(referenceWithPerformance("páa", plain), sign(0x1ed50, 0x1ed70, 0x1ed78, 0x1ed7b));
+});
+
+test("the reference refuses a tone off a held vowel's first letter", () => {
+    for (const source of ["pâ", "paâ", "pâi", "pâá", "pấa"])
+        assert.throws(() => referenceWithPerformance(source, convertVeldikko), /Sinale/, source);
+});
+
+/**
+ * A tone on a letter that left-to-right grouping makes the second letter of a
+ * held vowel or a diphthong, whichever vowel the toned letter could open.
+ */
+const OVERLAPPING_TONES = [
+    "paâa",
+    "paǎa",
+    "aâa",
+    "aǎa",
+    "piîi",
+    "piǐi",
+    "iîi",
+    "puûu",
+    "puǔu",
+    "uûu",
+    "paaaâa",
+    "kaîi",
+    "kaûu",
+    "kiâa",
+    "kuîi",
+    "keîi",
+    "koîi",
+    "koûu",
+    "kyîi",
+];
+
+test("the reference groups letters left to right before placing a tone", () => {
+    for (const source of OVERLAPPING_TONES)
+        assert.throws(
+            () => referenceWithPerformance(source, convertVeldikko),
+            /first letter of aa, ii or uu/,
+            source,
+        );
+    const P = 0x1ed50,
+        CARRIER = 0x1ed5d,
+        A = 0x1ed70,
+        U = 0x1ed72,
+        I = 0x1ed74,
+        LONG = 0x1ed78,
+        RISE = 0x1ed79,
+        FALL = 0x1ed7a;
     assert.equal(
-        referenceWithPerformance("pâá", () => sign(0x1ed50, 0x1ed70, 0x1ed78)),
-        sign(0x1ed50, 0x1ed70, 0x1ed78, 0x1ed7a, 0x1ed7b),
+        referenceWithPerformance("pâaa", convertVeldikko),
+        sign(P, A, LONG, FALL, CARRIER, A),
+    );
+    assert.equal(
+        referenceWithPerformance("paaâa", convertVeldikko),
+        sign(P, A, LONG, CARRIER, A, LONG, FALL),
+    );
+    assert.equal(
+        referenceWithPerformance("puǎa", convertVeldikko),
+        sign(P, U, CARRIER, A, LONG, RISE),
+    );
+    assert.equal(
+        referenceWithPerformance("piûu", convertVeldikko),
+        sign(P, I, CARRIER, U, LONG, FALL),
+    );
+    assert.equal(
+        referenceWithPerformance("paiîi", convertVeldikko),
+        sign(P, A, I, CARRIER, I, LONG, FALL),
+    );
+});
+
+test("an acute on a held vowel's or diphthong's second letter splits it", () => {
+    const P = 0x1ed50,
+        CARRIER = 0x1ed5d,
+        A = 0x1ed70,
+        I = 0x1ed74,
+        STRESS = 0x1ed7b;
+    assert.equal(referenceWithPerformance("paá", convertVeldikko), sign(P, A, CARRIER, A, STRESS));
+    assert.equal(referenceWithPerformance("paí", convertVeldikko), sign(P, A, CARRIER, I, STRESS));
+    assert.equal(referenceWithPerformance("pái", convertVeldikko), sign(P, A, STRESS, I));
+});
+
+/** The Sinale program compiled with the installed font's codes. */
+function sinale() {
+    return compileEncoding(
+        { language: "sina", font: "veldikko", ...generateEncoding("sinale") },
+        { codes: GLYPH_CODES, name: "thalorna-note-doc-sinaveldikkoenc" },
+    );
+}
+
+test("the Sinale program accepts only the common tone and stress marks", () => {
+    const encoding = sinale();
+    const accepted = [
+        "onsâa",
+        "ovûu",
+        "kǎa",
+        "kîi",
+        "kǐi",
+        "kûu",
+        "kǔu",
+        "ká",
+        "kéta",
+        "káa",
+        "kaá",
+        "kái",
+        "kaí",
+        "kaé",
+    ];
+    for (const source of accepted) {
+        const native = encodeText(encoding, source);
+        assert.equal(native, referenceWithPerformance(source, convertVeldikko), source);
+        assert.equal(decodeText(encoding, native).replace(/^ch/, "k"), source, source);
+    }
+    for (const source of ["kâ", "kǎ", "kaâ", "kêe", "kôo", "kâi", "kaî", "kấa", "kâá", "ŷ"])
+        assert.throws(() => encodeText(encoding, source), undefined, source);
+});
+
+test("the Sinale program groups three or more vowels as the reference does", () => {
+    const encoding = sinale();
+    for (const source of [
+        "pâaa",
+        "paaâa",
+        "puǎa",
+        "piûu",
+        "paiîi",
+        "koâa",
+        "koaa",
+        "kaaa",
+        "kaai",
+        "kaia",
+        "kaáa",
+        "aaa",
+        "eaa",
+    ]) {
+        const native = encodeText(encoding, source);
+        assert.equal(native, referenceWithPerformance(source, convertVeldikko), source);
+        assert.equal(decodeText(encoding, native).replace(/^ch/, "k"), source, source);
+    }
+});
+
+/**
+ * Toned held vowels after a vowel, grouped left to right: valid where the
+ * letter before ends a group already read or opens none with the toned letter.
+ */
+const PLACED_TONES = [
+    "pâa",
+    "puâa",
+    "pâaa",
+    "paaâa",
+    "páaâa",
+    "piaâa",
+    "paiîi",
+    "pauûu",
+    "poiîi",
+    "pouûu",
+    "pâaâa",
+    "pǔuîi",
+    "peâa",
+    "poâa",
+    "pyâa",
+    "púâa",
+    "piûu",
+    "peûu",
+    "aaâa",
+    "âaâa",
+    "onsâa",
+    "ovûu",
+];
+
+test("the Sinale program refuses a tone the left-to-right grouping puts off a held vowel's first letter", () => {
+    const encoding = sinale();
+    for (const source of [...OVERLAPPING_TONES, "paáâa", "paâaâa", "kaâaîi", "pyîi", "peîi"]) {
+        assert.throws(() => referenceWithPerformance(source, convertVeldikko), /Sinale/, source);
+        assert.throws(() => encodeText(encoding, source), /No row|not in/, source);
+    }
+    for (const source of PLACED_TONES) {
+        const native = encodeText(encoding, source);
+        assert.equal(native, referenceWithPerformance(source, convertVeldikko), source);
+        assert.equal(decodeText(encoding, native), source, source);
+    }
+    // A row condition sees one letter back, so a second toned held vowel
+    // straight after a group-and-tone row has no row.
+    referenceWithPerformance("paaâaâa", convertVeldikko);
+    assert.throws(() => encodeText(encoding, "paaâaâa"), /No row/);
+});
+
+test("a lexicon form with a tone on a group's second letter is a finding", (t) => {
+    const values = records();
+    values[0].data.words = OVERLAPPING_TONES.map((form) => ({ form, gloss: "test" }));
+    values[0].data.names = { pattern: "ignored" };
+    const { index, language } = fixture(t, values);
+    fs.writeFileSync(language.note, OVERLAPPING_TONES.join("\n") + "\n");
+    const decoded = readIndex(index, config);
+    const result = checkLanguage(
+        language,
+        indexedContext(config, decoded),
+        decoded[0],
+        convertVeldikko,
+    );
+    assert.equal(result.findings.length, OVERLAPPING_TONES.length);
+    for (const [n, form] of OVERLAPPING_TONES.entries())
+        assert.ok(
+            new RegExp(
+                `: error: the form \`${form}\` cannot be encoded: No row of the \`[^\`]+\` encoding matches "[âǎîǐûǔ]"`,
+            ).test(result.findings[n]),
+            form,
+        );
+});
+
+test("a held vowel's tone round-trips on its first letter, bare and with the lexicon", (t) => {
+    const encoding = sinale();
+    for (const source of ["onsâa", "ovûu"])
+        assert.equal(decodeText(encoding, encodeText(encoding, source)), source);
+    const values = records();
+    values[0].data.words = [
+        { form: "onsâa", gloss: "test" },
+        { form: "ovûu", gloss: "test" },
+    ];
+    values[0].data.names = { pattern: "ignored" };
+    const { index } = fixture(t, values);
+    const decoded = readIndex(index, config);
+    const ctx = indexedContext(config, decoded);
+    ctx.lexicons = new Map([["sina", { language: "sina", data: decoded[0].data }]]);
+    const selected = encodingFor(ctx, { enc: "sinaveldikkoenc", lang: "sina" });
+    assert.ok(selected.lexicon);
+    for (const source of ["onsâa", "ovûu"]) {
+        const options = { font: selected.font, lexicon: selected.lexicon };
+        const encoded = encodeWithLanguage(selected.encoding, source, options);
+        assert.deepEqual(encoded.findings, [], source);
+        const back = decodeWithLanguage(selected.encoding, encoded.text, options);
+        assert.deepEqual(back, { text: source, findings: [] });
+    }
+});
+
+test("an inverted pitch sign in the encoding is a finding", (t) => {
+    const values = records();
+    values[0].data.words = [{ form: "onsâa", gloss: "test" }];
+    values[0].data.names = { pattern: "ignored" };
+    const { rules } = values[1].data;
+    const toned = rules["contextual-mappings"].filter((row) => row.match === "âa");
+    assert.ok(toned.some((row) => row.after === "consonant" && !row.before));
+    for (const row of toned) {
+        assert.ok(row.emit.includes("FALL"));
+        row.emit = row.emit.map((code) => (code === "FALL" ? "RISE" : code));
+    }
+    const { index, language } = fixture(t, values);
+    fs.writeFileSync(language.note, "onsâa\n");
+    const decoded = readIndex(index, config);
+    const result = checkLanguage(
+        language,
+        indexedContext(config, decoded),
+        decoded[0],
+        convertVeldikko,
+    );
+    assert.equal(result.findings.length, 1);
+    assert.match(
+        result.findings[0],
+        /:1:1: error: the form `onsâa` is written .*U\+1ED79, but the converter writes .*U\+1ED7A/,
     );
 });
 
@@ -294,7 +561,10 @@ test("encoding-note checks retain source reads and exact code-program diagnostic
     );
     const file = NOTES[0].file;
     texts.set(file, texts.get(file).replace("PELANNE", "VELUNNA"));
-    assert.match(checkNotes()[0], /:3:1: error: `data.mappings` or `data.rules` differs/);
+    assert.match(
+        checkNotes()[0],
+        /:3:1: error: `data.vowels`, `data.mappings` or `data.rules` differs/,
+    );
 });
 
 test("CLI checks both indexed languages and keeps the summary and exit status", (t) => {
