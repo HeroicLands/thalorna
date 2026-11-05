@@ -3,7 +3,7 @@ shortcode: vargenhalmes
 name: {full: Vargen Hálmesende, en: [Lord Vargen]}
 type: being
 subType: npc
-description: An ambitious noble of the Obsidian Order with ties to dark magic and military ambition.
+description: An ambitious noble of Élavendre with ties to dark magic and military ambition.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Vargen Hálmesende is a 44-year-old man who stands 5'11" tall with a light build
 
 # Dossier {#dossier}
 
-Vargen Hálmesende is an ambitious noble of the [Obsidian Order]{.name data-type="affiliation/order"}, with ties to dark magic and to military ambition. He treats the peace-brokering of [[being-rnthrprdln|Ranthor Párdalen]] as an obstacle to his plans for territorial expansion, and has twice tried to have him discredited or eliminated.
+Vargen Hálmesende is an ambitious noble of [[affiliation-kngdmlvndr|Élavendre]], with ties to dark magic and to military ambition. He treats the peace-brokering of [[being-rnthrprdln|Ranthor Párdalen]] as an obstacle to his plans for territorial expansion, and has twice tried to have him discredited or eliminated.

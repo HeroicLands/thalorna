@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Grove-Elder
         description: >-
-          Holder of one of the nineteen seats, one to each recognized great grove. Chosen by the grove through long apprenticeship and confirmed by the Council gathered, with the grovekeepers below and the Áelendan Wardens patrolling on his writ.
+          Holder of one of the nineteen seats, one to each recognized great grove. Chosen by the grove through long apprenticeship and confirmed by the Council gathered, with the grovekeepers below.
     offices: {}
   seat: null
   population: null
@@ -53,7 +53,7 @@ Sister institutions
 
 ## Overview
 
-The Grove Council is the oldest of [[place-elavendre|Élavendre]]'s three native magical institutions—older than the kingdom itself, older than the [[affiliation-panepistmm|Epistémion]]'s arrival on the continent, older than the conflict with the [[affiliation-ordoarcanis|Thordimalon]] that now defines so much of Élavendren political life. Where [[affiliation-bardicolgs|the Bardic Colleges]] preserve song, memory, and the fae-touched arts of voice, and where the [[affiliation-alndnwrdns|Áelendan Wardens]] enforce the [Kindred Pact]{.name data-type="lore/law"} with sword and patrol, the Grove Council deliberates. It is the will behind the institutions—the body that decides what the forests need, what the fae are owed, and what the kingdom must refuse the Order.
+The Grove Council is the oldest of [[place-elavendre|Élavendre]]'s three native magical institutions—older than the kingdom itself, older than the [[affiliation-panepistmm|Epistémion]]'s arrival on the continent, older than the conflict with the [[affiliation-ordoarcanis|Thordimalon]] that now defines so much of Élavendren political life. Where [[affiliation-bardicolgs|the Bardic Colleges]] preserve song, memory, and the fae-touched arts of voice, and where the [[affiliation-alndnwrdns|Áelendan Wardens]] enforce the [Kindred Pact]{.name data-type="lore/law"} with sword and patrol, the Grove Council deliberates. It is the body that decides what the forests need, what the fae are owed, and what the kingdom must refuse the Order.
 
 The Council meets at the great groves: ancient circles of standing oaks, holly, and ash that mark the places where the membrane between the mortal world and the fae thins. Each major grove has its own elder—a grove-elder—and the Council itself is the body of all elders gathered, traditionally on the four hinge-days of the year (the equinoxes and solstices). In practice the Council also convenes in emergency when a sacred site is threatened, an Order expedition is suspected, or a working of wild magic has gone so wrong that no one grove can hold the consequences alone.
 
@@ -61,7 +61,7 @@ The Council's authority is not formally chartered. The crown of [[affiliation-kn
 
 ## Membership and Structure
 
-There are nineteen seats on the Council, one per recognized great grove. Eighteen are presently filled; the nineteenth (the [Grove of Sirmenne]{.name data-type="place/site"}, in the deep [[place-drenavrspn|Drenavar]]) has been empty for a generation since its elder vanished into the fae and never returned. By tradition the seat remains open, awaiting either his return or the unambiguous appearance of a successor—neither of which has occurred.
+There are nineteen seats on the Council, one per recognized great grove. Eighteen are presently filled; the nineteenth (the grove at [[place-sirmenne|Sirmenne]], in [[place-sathvothe|Satvote]] below the Áelendan mountains) has been empty for a generation since its elder vanished into the fae and never returned. By tradition the seat remains open, awaiting either his return or the unambiguous appearance of a successor—neither of which has occurred.
 
 Elders are chosen by their groves through long apprenticeship rather than election. A candidate is identified in childhood, often by visions or fae encounters, and trained from adolescence in herblore, ritual, the reading of weather and water, and the diplomatic protocols of dealing with fae kin. Promotion to elder happens only on the death or retreat of the prior holder, and is confirmed by the rest of the Council gathered. The process can take decades.
 
@@ -73,13 +73,13 @@ The Council holds three things sacred and inviolable, in order of weight: the Ki
 
 Their working doctrine on wild magic is straightforward: magic is not a resource to be regulated and licensed, as the Order claims, but a relationship to be maintained. The Order's project of cataloging, certifying, and confining magical practice strikes the Council as both arrogant and dangerous—arrogant because it presumes the practitioner's authority over the source, dangerous because it severs the relationships that keep wild magic from turning ruinous. This conviction is the source of the Council's bitter, generations-long enmity with the Thordimalon (the Arcane Order).
 
-The Council does not, however, make war. Enforcement is the province of the [[affiliation-alndnwrdns|Áelendan Wardens]], who answer to the Council in matters of the Kindred Pact. When the Wardens kill a poacher in a fae-touched grove, they do so under standing Council writ. When a more delicate matter arises—an Order Zulen (fellowship) requesting access to a sacred site, a village asking for permission to drain a marsh, a fae lord demanding tribute—the Council itself deliberates.
+The Council does not, however, make war, and it commands no force. The [[affiliation-alndnwrdns|Áelendan Wardens]] guard the sacred sites and enforce the Kindred Pact, but they answer to the Áelendan alone and take no writ from the Council. When a matter arises—an Order Zulen (fellowship) requesting access to a sacred site, a village asking for permission to drain a marsh, a fae lord demanding tribute—the Council itself deliberates.
 
 ## Relations
 
 **The [[affiliation-bardicolgs|Bardic Colleges]]** are the Council's closest ally and most frequent friction. The two institutions share doctrine but compete for influence. Bardic-trained singers and grove-trained keepers draw from the same fae well, and the lines between their arts blur in practice. Tension flares when the Colleges accept Order patronage for some research project, or when the Council overrides a Bardic ruling on a wild-magic question.
 
-**The [[affiliation-alndnwrdns|Áelendan Wardens]]** are the Council's sword. The relationship is mutually respectful and structurally subordinate: the Wardens patrol on Council writ, but tactical command in the field belongs to the Wardens' own captains. Disputes are rare and handled at the highest levels.
+**The [[affiliation-alndnwrdns|Áelendan Wardens]]** hold the Kindred Pact as sacred as the Council does, but they are not the Council's to command: they answer to the Áelendan alone, and their captains take no writ from the grove-elders.
 
 **The [[affiliation-ordoarcanis|Thordimalon]]** is the enemy. The Council has never recognized the Order's authority within Élavendre and never will. Every Order chapterhouse in the kingdom—including the [University of Péravel]{.name data-type="affiliation"}—operates over Council objection. The conflict is conducted through legal obstruction in the cities and through more direct measures beyond the city walls.
 

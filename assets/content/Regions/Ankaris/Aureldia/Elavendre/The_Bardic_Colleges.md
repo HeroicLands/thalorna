@@ -91,7 +91,7 @@ The Bardic Circle is presently one of the primary organized forces resisting the
 
 ## The Colleges
 
-Several distinct Colleges exist, each with its own traditional emphasis and its own roster of famous alumni. The principal Colleges—their buildings, their founding dates, their current masters, and their contemporary tensions—remain to be documented in detail. What is established is that they are distributed across Élavendre's major cities and that each maintains its own library, its own archive of songs and genealogies, and its own particular flavor of bardic practice.
+Several distinct Colleges exist, each with its own traditional emphasis and its own roster of famous alumni. They are distributed across Élavendre's major cities, and each maintains its own library, its own archive of songs and genealogies, and its own particular flavor of bardic practice.
 
 ## Relationship with the Crown
 

@@ -507,7 +507,7 @@ Traditionalist Shamans' Faction
 Kingdom Hardliners
 : Military commanders and courtiers within Élavendre who view Ranthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
 
-Lord [[being-vargenhalmes|Vargen]] of the [Obsidian Order]{.name data-type="affiliation/order"}
+Lord [[being-vargenhalmes|Vargen]]
 : An ambitious noble with ties to dark magic and military ambition who views Ranthor's peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have Ranthor discredited or eliminated.
 
 ### Affiliations
@@ -515,8 +515,8 @@ Lord [[being-vargenhalmes|Vargen]] of the [Obsidian Order]{.name data-type="affi
 Tribal Council of Shamans
 : Ranthor is a full council member and is often called upon as the tie-breaker in disputes between mystical and practical factions.
 
-[Kingdom of Élavendre's Tribal Relations Bureau]{.name data-type="affiliation/governmental"}
-: Though not formally part of the kingdom's government, Ranthor maintains official recognition and occasional funding from this bureau for his peace-brokering work.
+The [[affiliation-kngdmlvndr|Crown of Élavendre]]
+: Though not formally part of the kingdom's government, Ranthor has the crown's official recognition and occasional funding for his peace-brokering work.
 
 [The Order of Balanced Stone]{.name data-type="affiliation/order"}
 : An ancient and secretive organization of shamans who believe in integration of martial and mystical traditions; Ranthor is suspected of membership, though he neither confirms nor denies it.

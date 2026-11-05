@@ -424,11 +424,11 @@ Eldira stands 5'10" tall with a light build. She has warm olive skin, dark brown
 
 # Dossier {#dossier}
 
-Eldira Garrundeta was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldira was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master [Gerdan]{.name data-type="being/npc"}, begging him to teach her his craft.
+Eldira Garrundeta was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldira was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local temple. By age twelve, she had begun seeking out the temple's glassworker, Master [Gerdan]{.name data-type="being/npc"}, begging him to teach her his craft.
 
-Gerdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Eldira's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from ecclesiastical tradition, and pushed the boundaries of what glass could express.
+Gerdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Eldira's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from temple tradition, and pushed the boundaries of what glass could express.
 
-At twenty-three, following Gerdan's death, Eldira established her own workshop in a smaller city within Tarvénia. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of churches of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
+At twenty-three, following Gerdan's death, Eldira established her own workshop in a smaller city within Tarvénia. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of temples of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
 
 ## Psyche
 
@@ -440,7 +440,7 @@ She possesses a dry wit and surprising humor, though these emerge only in situat
 
 ### Motivation
 
-Eldira is motivated by a drive to create beauty that expresses truth as she perceives it, regardless of whether that truth aligns with conventional understanding. She seeks to prove that glasswork need not be limited to functional windows or traditional ecclesiastical imagery, but can be a vehicle for personal and spiritual expression. She also has a quieter drive: to establish herself as an artist of the first rank, respected not because she conforms to tradition but because she has gone beyond it and transformed it.
+Eldira is motivated by a drive to create beauty that expresses truth as she perceives it, regardless of whether that truth aligns with conventional understanding. She seeks to prove that glasswork need not be limited to functional windows or traditional temple imagery, but can be a vehicle for personal and spiritual expression. She also has a quieter drive: to establish herself as an artist of the first rank, respected not because she conforms to tradition but because she has gone beyond it and transformed it.
 
 ### Strengths
 
@@ -480,8 +480,8 @@ Lack of Patrons and Institutional Support
 
 ### Patrons
 
-Bishop [Matthias]{.name data-type="being/npc"} of [Riverside Cathedral]{.name data-type="place/structure"}
-: A reform-minded religious leader who commissioned Eldira to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative ecclesiastical figures.
+A priest of the [[affiliation-brazemas|Faith of Brazemas]]
+: A reform-minded Priest of Storms who commissioned Eldira to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative priests.
 
 Merchant Collector Lady [[being-oltremalizel|Oltrema Lizelis]]
 : A wealthy widow with refined aesthetic tastes who has commissioned several major pieces for her private manor. She appreciates Eldira's originality and has paid premium prices for original works.
@@ -514,7 +514,7 @@ The Commission from Beyond
 : A mysterious patron appears with an extraordinary commission—a massive window installation of dazzling technical complexity with imagery that Eldira cannot quite decipher. The patron demands complete secrecy about the project, provides very generous payment, and insists on specific timing. As Eldira works, she begins to suspect the imagery contains magical properties or hidden meaning, and questions emerge about who the patron truly is and what purpose this window will serve.
 
 The Lost Master's Final Work
-: While exploring an abandoned cathedral, Eldira discovers fragmentary remains of glasswork by Master Gerdan that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
+: While exploring an abandoned temple, Eldira discovers fragmentary remains of glasswork by Master Gerdan that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
 
 The Architectural Opportunity
 : Eldira receives an invitation to submit designs for windows in a major civic building—a once-in-a-lifetime commission that could establish her as a major artist. However, the competition includes Master Helmut Thorne and other traditionalists, and the selection committee appears biased toward conventional work. She can compromise her artistic vision to compete on the committee's terms, or submit her true vision and risk rejection, potentially damaging her reputation.

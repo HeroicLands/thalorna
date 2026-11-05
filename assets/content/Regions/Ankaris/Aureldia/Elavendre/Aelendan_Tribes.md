@@ -63,7 +63,7 @@ data:
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: eshalshldg
   population: 150000
-  economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
+  economy: [lore-kinhalcrdt, affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []
   relations: {firstgods: aligned, kngdmlvndr: aligned, alndnwrdns: aligned, ordoarcanis: nemesis}
@@ -77,4 +77,4 @@ Sacred sites are a special category. Authority over them falls to the [[affiliat
 
 ## Commerce and Currency
 
-The Áelendan Tribes use the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as their standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. This polity is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Within the tribal communities, substantial commerce runs on [[lore-kinhalcrdt|kin credit]]: value extended between members of an extended family against the security of the relationship, repaid in time, and held in memory and custom rather than in writing or coin. An Áelendan who trades in the Élavendren cities can deal with the guilds chartered under [[affiliation-tevran|the Tevran Maldor]] and the moneylenders of [[affiliation-danvar|the Danvar]], but credit earned there does not carry into the tribal economy, where the relationship is what counts. See [[lore-kinhalcrdt|Kin and Hall Credit]] for the system.
