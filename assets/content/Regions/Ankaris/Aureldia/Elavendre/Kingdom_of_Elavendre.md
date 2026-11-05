@@ -11,98 +11,88 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: Hereditary monarchy with a powerful bardic tradition and the Grove Council's counsel.
+    summary: >-
+      Hereditary monarchy of the house of Kírethel, crowned at Péravel on the oath that the crown stops at the tree line, ruling the cities, farms and coast through a chancery, a treasury, royal courts and sheriffs, with the Bardic Circle and the Grove Council at its side.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          Cast out by the realm and set beyond its protection—outlawed, banished, or attainted. Known to the polity only as one it has excluded.
+          Walked past the tree line and known to the realm only as one it has excluded: owed protection by no court of the crown, no grove-elder and no house.
       - level: 1
-        title: Unfree
+        title: Tenant
         description: >-
-          Bound to the land or to a master, owing labor rather than rent, and unable to depart, marry, or dispose of property at will.
+          Holding land, a boat or a bed of the crown or of a house for rent and the levy, and fed by the house in a bad year.
       - level: 2
         title: Freeman
         description: >-
-          Free at law to hold, trade, and remove where they will, and answerable directly to the realm's courts, but bearing no rank within it.
+          Free to hold, trade and go where they will, and answerable to the royal court of the city or shire or to the grove-elder of the village.
       - level: 3
         title: Gentry
         description: >-
-          Entitled to bear arms and to be answered as a gentleman, holding no title of nobility but standing above the common freeman by birth or grant.
+          Of a landed family that keeps a harper or sends a child to the art, whose descent the Colleges have not proved, so that its claim to the old blood is sung and not recorded.
       - level: 4
         title: Knight
         description: >-
-          Holding land of a lord by military service, owing that service in person, and bearing the arms and obligations of the fee.
+          Holding land of a house or of the crown for service in arms, and owing the levy and the muster in person.
       - level: 5
-        title: Lesser Nobility
+        title: Noble
         description: >-
-          Holding a fief in their own right, with vassals beneath them and a greater lord above, and exercising justice within their holding.
+          Of a noble house whose descent the Colleges have proved, held to the stricter account of the Aureldian temples, and expected to steward its land and patronize the arts.
       - level: 6
-        title: Greater Nobility
+        title: Of the First Rank
         description: >-
-          Holding a province of the crown directly as tenant-in-chief, answering to no authority below the sovereign, and commanding lesser lords in turn.
+          Of a house counted in the first rank: its descent proved before the Colleges, artists and mages in each of the last two generations, a chair at court, and a lord's people who eat.
       - level: 7
         title: Prince or Princess of the Blood
         description: >-
-          Of the ruling house by blood or marriage, standing above the nobility in precedence and in claim, but holding no crown.
+          Of the blood of Kírethel and sung in its line at the feast, standing above every house in precedence and in claim to the crown, but not crowned.
       - level: 8
         title: Sovereign
         description: >-
-          The crown itself, from which all other standing in the realm derives and to which all fealty within it ultimately runs.
+          The crown of Élavendre, held in the house of Kírethel, from which every other standing derives and which swears at its crowning that it stops at the tree line.
     offices:
-      King: Male sovereign, reigning in his own right.
-      Queen: Female sovereign, reigning in her own right.
-      Queen Consort: Female spouse of a reigning king.
-      Prince Consort: Male spouse of a reigning queen.
+      King: >-
+        Held by a Sovereign. Reigns in his own right from the court at Péravel, is crowned in the hall there and swears the Tree-Line oath with both hands open. The crown passes to the monarch's eldest child, son or daughter.
+      Queen: >-
+        Held by a Sovereign. Reigns in her own right from the court at Péravel, crowned and sworn as a king is, and keeps the balance between the Order inside the walls and the Áelendan beyond the tree line.
       Prince: >-
-        Male member of the royal house by birth; or a sovereign ruling a principality in his own right.
+        Held by a Prince or Princess of the Blood. A son of the monarch. The monarch's eldest child is the heir, and is crowned in the hall at Péravel on the monarch's death.
       Princess: >-
-        Female member of the royal house by birth or by marriage to a prince; or a sovereign ruling a principality in her own right.
-      Chancellor: Keeper of the great seal, through whom the crown's writs, charters and grants are issued.
-      Treasurer: Keeper of the realm's revenue, answerable for its receipt, audit and disbursement.
-      Steward: >-
-        Head of the royal household, and in some realms the first officer of the realm beneath the crown.
-      Constable: Commander of the realm's host in the field, holding the crown's military authority.
-      Marshal: >-
-        Second to the Constable, charged with the muster, the horse, discipline within the host, and the regulation of arms.
-      Chamberlain: >-
-        Keeper of the royal chamber, controlling the sovereign's private revenue and access to their person.
-      Justiciar: Chief justice of the realm, and commonly its regent when the sovereign is absent.
-      Butler: >-
-        Holder of the crown's right in wine and the levy upon it—a revenue office far richer than its name suggests.
-      Admiral: Commander of the realm's ships and of the coasts they guard.
+        Held by a Prince or Princess of the Blood. A daughter of the monarch. The monarch's eldest child is the heir, and is crowned in the hall at Péravel on the monarch's death.
+      Chancellor: >-
+        Held by Gentry or above. Heads the chancery, which keeps the crown's writs and the charters of its towns, its pilots and its University.
+      Treasurer: >-
+        Held by Gentry or above. Heads the treasury at Péravel, which takes the toll on the river traffic through the capital, a share of every pilot's fee and the road tolls the sheriffs collect.
+      Justiciar: >-
+        Held by one Of the First Rank. Heads the royal courts of the cities and shires, whose magistrates the University trains.
+      Magistrate: >-
+        Held by a Freeman or above. Sits in a royal court of a city or shire. Asks first whether a complainant was warned, and hears no complaint against the tribes, none from anyone hurt at an Araelwen and none from anyone who entered sacred ground unauthorized.
+      Councilor of the Crown: >-
+        Held by a Noble or above. Holds a chair at court on the royal advisory council, where the Bardic Circle's, the Grove Council's and the Order's voices are all heard.
       Sheriff: >-
-        The crown's officer within a shire, answerable for its revenue, its courts, and the raising of its posse.
+        Held by Gentry or above. The crown's officer over a shire or a coast. Tries the crown's pleas, holds the posse, and collects the levy, the road toll and the duty entered at the tally-house through clerks and reeves.
       Coroner: >-
-        Keeper of the pleas of the crown within a district—sudden deaths, wrecks, and treasure trove.
-      Escheator: >-
-        Officer charged with lands falling to the crown by death without heir, by forfeiture, or by attainder.
-      Warden of the March: >-
-        Commander of a frontier district, commonly holding powers of war and justice the interior would not permit.
-      Castellan: Holder of a royal fortress, answerable for its garrison, its stores and its defense.
-      Governor: Ruler of a province in the sovereign's name, exercising delegated authority over it.
-      Lieutenant: >-
-        One holding an office in another's place, exercising that office's authority without its rank.
-      Forester: Keeper of the royal forests and of the distinct law that governs them
-      Purveyor: >-
-        Officer empowered to requisition goods and labor for the household at the crown's price—an office universally resented.
-      Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
-      Privy Councilor: >-
-        Member of the sovereign's inner council, advising on matters not brought before any wider body.
-      King of Arms: Principal officer of arms, ruling on heraldry, precedence, and the right to bear arms.
-      Herald: >-
-        Officer of arms serving as messenger, witness and envoy, whose person is protected even between enemies.
-      Master of the Horse: Keeper of the sovereign's stables, mounts, and the men who tend them.
-      Master of the Hunt: Keeper of the sovereign's hunt—its hounds, its quarry, and its grounds.
-      Falconer: >-
-        Keeper of the sovereign's hawks; a household post whose value lies chiefly in the access it grants.
-      Banneret: A lord leading a company beneath his own banner, in his own name and at his own charge.
-      Captain: >-
-        Commander of a body of troops raised for a campaign or a garrison, holding the post for its duration.
-      Serjeant: >-
-        Holder of a specific service owed to a lord or the crown, or a lesser command within a company.
-      Manorial Officer: >-
-        Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
+        Held by a Freeman or above. Holds the crown's inquest on a sudden death or a wreck within a sheriff's district.
+      Butler: >-
+        Held by Gentry or above. Holds the crown's right in wine and cider and its levy on them, which his levy-clerks collect at the quay.
+      Harbor-Clerk: >-
+        Held by a Freeman or above. The crown's clerk at a pilots' harbor, who counts every hull that enters with its flag, tonnage and cargo and files the count with the sheriff at Péravel.
+      Forester: >-
+        Held by Gentry or above. Holds the crown's forest court at Liranel, which licenses every stem cut in the licensed belt of the inner coast and has it measured at the tally-house.
+      Admiral: >-
+        Held by a Knight or above. Commands the crown's ships and coast-cutters as its supreme naval commander, through Lieutenants who keep its cutters at the harbors.
+      Lieutenant of the Admiral: >-
+        Held by a Knight. Keeps the crown's cutters at one harbor, as at the mole of Sarmelis, and answers to the Admiral for the coast.
+      Castellan: >-
+        Held by a Knight, named by the crown. Holds a crown fort, as Durmelen at the narrows of Lísere Bay, and answers to the crown for its wall, its garrison, its stores and its beacon.
+      Captain of the Border Militia: >-
+        Held by a Freeman or above. A professional soldier who commands the crown's border militia.
+      Liaison to the Tribes: >-
+        Held by a Freeman or above. A captain of the crown's forces who carries the crown's word to the Áelendan tribes and theirs back.
+      Royal Loremaster: >-
+        Held by a Freeman or above. Keeps the scrolls the court holds and speaks for the crown's learning, and sends the crown's parties after what the scrolls describe.
+      Crown Guide: >-
+        Held by a Freeman. Provided by the crown to every licensed expedition out of Liranel, and conducts it to the margins of the tribal country and back.
   seat: beravel
   population: 1850000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
@@ -136,6 +126,14 @@ This system produces governance that is slow, deliberate, and deeply attuned to 
 The crown is held by the [[affiliation-hsekirethel|House of Kírethel]], which the Bardic Circle chose when the line of Orethan, the house of the First Crowned, ended without an heir ([[lore-sorvandaclose|The Sórvanda Closing]]). The reigning monarch is [[being-aurenthekir|Queen Áurenthe Kírethel]], who reigns in her own right from the court at [[place-beravel|Péravel]], and her heir is her only son, [[being-ielaraskir|Prince Íelaras]].
 
 The crown passes to the monarch's eldest child, son or daughter. Every monarch is crowned in the hall at Péravel, stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]], and swears that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When a line ends without an heir, the Bardic Circle chooses the next monarch from a house whose descent the Colleges have proved. Below the royal house stand the noble houses, each with its proof, among them the [[affiliation-hsehalvireth|House of Hálvireth]] of the river-meadows below the capital.
+
+## The Crown's Officers {#officers}
+
+The crown rules the cities, the farms and the coast through its officers. The chancery issues its writs and charters, the treasury at [[place-beravel|Péravel]] takes the river toll and a share of every pilot's fee, and the royal courts of the cities and shires sit under magistrates, the University's graduates, who ask first whether a complainant was warned. The crown's sheriffs hold its pleas and collect what the shires owe, the Butler holds its right in wine and cider, and the crown's forest court at [[place-liranel|Liranel]] licenses the cutting of the inner coast's timber.
+
+The crown's officers are named where the notes name them. [Salten Elarven]{.name data-type="being/npc"} is sheriff of Lísere, with his hall at [[place-sarmelis|Sarmelis]]. [Moren Othral]{.name data-type="being/npc"}, a knight, holds [[place-durmelen|Durmelen]] as its Castellan. [[being-tenralsaltha|Captain-Commander Tenral Salthar]] commands the crown's ships, and a Lieutenant of the Admiral keeps the cutters at Sarmelis. [[being-elenorthaurn|Captain Élenor Thaurnde]] commands the border militia, and [[being-chenirahares|Captain Chénira Háresende]] is the crown's liaison with the tribes. [[being-aelithraenewyn|Áelithra Énevin]] is the Royal Loremaster at court.
+
+The Áelendan Wardens hold no office of the crown. They answer to the tribes, the crown recognizes their authority over the sacred ground, and no royal court hears a complaint against the tribes. The crown's guides out of Liranel take licensed expeditions to the margins of the tribal country and no further.
 
 ## Character
 

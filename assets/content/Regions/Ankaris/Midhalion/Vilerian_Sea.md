@@ -32,7 +32,7 @@ A sailing master out of [[place-mercavia|Delalara]] gives every new hand the sam
 
 ## Geography
 
-The sea is a long east-west ellipse, wider at its eastern and western ends and narrow in the middle, where the peninsulas of the [[place-provenzrgn|Provénzia Region]] and the northern part of the [[place-aukhelathrgq|Au'Khelathu Region]] reach toward each other and leave a chain of islands between them.
+The sea is a long east-west ellipse, wider at its eastern and western ends and narrow in the middle, where the southern peninsula of the [[place-tarvenirgn|Tarvénia Region]] and the coast of [[place-bethuargn|Bethua]] reach toward each other.
 
 | Shore    | Held by                                                                                                                                                                                |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ The sea is a long east-west ellipse, wider at its eastern and western ends and n
 | Eastern  | The [[affiliation-kngdmmrdd\|Kingdom of Amradad]], and off it the [[affiliation-cnfdrtntrzlnstts\|Taruzelian]] archipelago                                                             |
 | Southern | The [[affiliation-empireakhlth\|Empire of Au'Khelathu]], [[affiliation-okharis\|Okharis]] and the [[affiliation-mtrrchybth\|Matriarchy of Bethua]]                                     |
 
-Hundreds of islands stud the sea. The largest—the archipelago of the [[place-taruzelrgn|Taruzel Region]] and [[place-aelwyth|Eilwith]] (the Misty Isle) far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
+Hundreds of islands stud the sea. The largest, the archipelago of the [[place-taruzelrgn|Taruzel Region]] in the east, carries substantial populations and polities of its own, and a lone island lies in the western basin off the Okharian coast. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all. [[place-aelwyth|Eilwith]] (the Misty Isle) is not among them: it lies in the outer ocean, far northwest of the western strait.
 
 The **western strait**, between [[place-provenzrgn|Provénzia]] and the Zerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Midhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
 
