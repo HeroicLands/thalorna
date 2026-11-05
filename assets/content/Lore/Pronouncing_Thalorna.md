@@ -211,9 +211,9 @@ A **tone** mark also shows the stressed syllable, so the full rule is short: the
 
 Where an acute falls on a short vowel, both marks are written, the acute above the grave: _bòtòn_ is _BUT-un_, /ˈbʌtʌn/, and _bòtò́n_ is _but-UN_, /bʌˈtʌn/.
 
-### Splitting a group: the diaeresis
+### Starting a syllable: the diaeresis
 
-A **diaeresis** on the second vowel of a vowel group splits it into two syllables. _Kau_ is one syllable that rhymes with _cow_, /kaʊ/, while _kaü_ is two, _KAH-oo_, /ˈkɑu/. The diaeresis appears only on a group, since any other two vowels are already said apart. An acute on the second vowel splits the group as well and stresses it: _kaú_ is _kah-OO_, /kɑˈu/.
+A **diaeresis** starts a new syllable at the vowel it sits on. _Kau_ is one syllable that rhymes with _cow_, /kaʊ/, while _kaü_ is two, _KAH-oo_, /ˈkɑu/. It settles a run of the same vowel as well: _paa_ is one syllable with a held _aa_, _paäa_ is _pa_ and then a held _aa_, and _paää_ is three syllables, _pa-AH-ah_. A diaeresis appears only where the vowel would otherwise join the one before it, since any other two vowels are already said apart. An acute on the second vowel of a group starts a syllable as well and stresses it: _kaú_ is _kah-OO_, /kɑˈu/.
 
 ### Tone: the caron and the circumflex {#tone}
 
@@ -226,3 +226,23 @@ A toned syllable is also the stressed one, unless an acute sits elsewhere in the
 Every vowel or vowel group makes one syllable, and _y_ is never a vowel. Read a word from left to right, taking the longest group of letters this guide lists first: each letter belongs to only one group. Capital letters sound the same as small ones.
 
 A hyphen inside a word keeps two letters from forming a group, without adding a sound or a second stress: _as-ha_ has an _s_ and then an _h_, /ˈɑshɑ/, while _asha_ has the _sh_ of _ship_, /ˈɑʃɑ/. A compound is read as one word, with one stress. A stem written with a hyphen at its end, such as _zevr-_, is never said alone; it is always joined to an ending that opens on a vowel.
+
+## Punctuation
+
+When a line of a Thalorna tongue is written out, such as a quoted line of Elavendri or a verse of a Sinale poem, it uses one shared set of punctuation, and each mark says what kind of sentence it closes. English prose around it keeps ordinary English punctuation, and these marks appear only inside the line itself. Most of them look familiar. Three are worth learning, because they carry what a voice would: `‼` closes an order, `«` and `»` open and close a quotation, and `‹` and `›` mark a quotation inside another.
+
+| Mark    | What it does                                                                      |
+| ------- | --------------------------------------------------------------------------------- |
+| `.`     | ends a statement                                                                  |
+| `?`     | ends a question                                                                   |
+| `‼`     | ends an order or a request                                                        |
+| `!`     | ends an exclamation                                                               |
+| `,`     | a pause inside a sentence                                                         |
+| `«` `»` | open and close a quotation                                                        |
+| `‹` `›` | open and close a quotation inside a quotation                                     |
+| `—`     | breaks a sentence off, and the sentence ends straight after it                    |
+| `…`     | trails a sentence off; at the start of a sentence it takes up one left unfinished |
+| `/`     | ends a line of verse                                                              |
+| `//`    | ends a stanza                                                                     |
+
+Such a line has no semicolon or colon: a pause is a comma, and two whole sentences are written as two. In verse, a line that opens with periods is indented one step for each period.
