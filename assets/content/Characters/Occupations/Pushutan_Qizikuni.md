@@ -445,7 +445,7 @@ Ambitious younger litigants of the guild want his clients and say in the guild h
 ## Plot Hooks
 
 1. **The master at sea.** A Kudumel merchant's suit against a Besikar house turns on a ship's master who signed the charter and has gone to sea, and the session closes in twenty days. Pushutan pleads for the Besikar side, and he would be content if the master stayed at sea.
-2. **The pupil's scruple.** The best of Pushutan's pupils has quarrelled with him over what the chambers charge their clients, and means to raise the matter before an Arbitrator. Pushutan has twenty days of the session left and a pupil who will not be quiet.
+2. **The pupil's scruple.** The best of Pushutan's pupils has quarreled with him over what the chambers charge their clients, and means to raise the matter before an Arbitrator. Pushutan has twenty days of the session left and a pupil who will not be quiet.
 3. **The war's debt.** A merchant who borrowed against the Qizikuni's gold in the first months of the war has brought a suit to have the debt read as a gift to the Confederation. Pushutan is briefed to answer him.
 
 :::secret {title="The Truth of Sharimun"}

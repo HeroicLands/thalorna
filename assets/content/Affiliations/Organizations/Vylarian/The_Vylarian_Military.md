@@ -406,7 +406,7 @@ The legions are thin, in disrepute since the war that lost Taruzel, and still th
 
 The officer corps has not forgiven the loss of Taruzel. The Dukran's report blamed purchased commissions, the Commission Compromise left them on sale, and the career NCOs still count the Vallar examination an insult. The war party in the officer corps and the [[affiliation-seldan|Seldan]] wants the islands back and a war for tribute against [[place-helionis|Helionis]], and the treasury answers that every campaign mints pensioners.
 
-The succession reaches into the camps. [[being-hlzrsvndrn|Halzoras Vendaren]], a legate who brought his legion home whole from the Taruzelian war, is the Guard's favourite to be adopted. The army remembers the Years of Three Eagles, when Moktur's legions acclaimed their own legate and marched, and the great houses of Hilen fear any claimant who would march on another Vylarian army.
+The succession reaches into the camps. [[being-hlzrsvndrn|Halzoras Vendaren]], a legate who brought his legion home whole from the Taruzelian war, is the Guard's favorite to be adopted. The army remembers the Years of Three Eagles, when Moktur's legions acclaimed their own legate and marched, and the great houses of Hilen fear any claimant who would march on another Vylarian army.
 
 :::secret {title="The stair on the River Circle"}
 A society of officers and veterans of the eastern legions, meeting on a stair of the River Circle, means to kill the Khelathi factor, [[being-mthszrtml|Methisi Azeret'Mulu]], before the throne takes his loan, so that the loan dies with him. A war of revenge on Taruzel is possible for the legion and impossible for the treasury, and this is the revenge it can afford.

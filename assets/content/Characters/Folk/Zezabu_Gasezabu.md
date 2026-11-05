@@ -3,7 +3,7 @@ shortcode: zezabugasezb
 name: {full: Zezabu Gasezabu}
 type: being
 subType: npc
-description: "A lady and scholar who served the empire on diplomatic missions to neighbouring realms, and raised a daughter to do the same"
+description: "A lady and scholar who served the empire on diplomatic missions to neighboring realms, and raised a daughter to do the same"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Zezabu Gasezabu is a 41-year-old woman who stands 5'5" tall with a light build. 
 
 # Dossier {#dossier}
 
-Zezabu Gasezabu is a lady and scholar of [[place-galezkara|Galezkara]] who served the [[affiliation-empireakhlth|empire]] on diplomatic missions to neighbouring realms. She raised a daughter to carry on the same work. The family's diplomatic record now spans two generations rather than one.
+Zezabu Gasezabu is a lady and scholar of [[place-galezkara|Galezkara]] who served the [[affiliation-empireakhlth|empire]] on diplomatic missions to neighboring realms. She raised a daughter to carry on the same work. The family's diplomatic record now spans two generations rather than one.

@@ -402,7 +402,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Gamuti is a broad, short woman of 5'4", dark-skinned and weathered by the plateau's wind, with grey running through the black hair she wears in a single plait. Her eyes are brown and patient. She dresses in homespun and a wool mantle, walks in sandals over stony ground that would cut a lowlander's feet, and wears at her waist a cord of knotted tallies, one knot for each herd that has watered at her trough in the season.
+Gamuti is a broad, short woman of 5'4", dark-skinned and weathered by the plateau's wind, with gray running through the black hair she wears in a single plait. Her eyes are brown and patient. She dresses in homespun and a wool mantle, walks in sandals over stony ground that would cut a lowlander's feet, and wears at her waist a cord of knotted tallies, one knot for each herd that has watered at her trough in the season.
 
 # Dossier {#dossier}
 

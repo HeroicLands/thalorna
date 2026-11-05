@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Naldor Kardeth is a 45-year-old man who stands 6'1" tall with a heavy build. He has medium skin, smooth complexion, auburn hair, and grey eyes.
+Naldor Kardeth is a 45-year-old man who stands 6'1" tall with a heavy build. He has medium skin, smooth complexion, auburn hair, and gray eyes.
 
 # Dossier {#dossier}
 

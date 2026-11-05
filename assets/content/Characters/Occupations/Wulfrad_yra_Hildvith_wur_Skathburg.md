@@ -425,7 +425,7 @@ Wulfrád works with [[place-skathburg|Skathburg]]'s war-band on its double timbe
 
 ### Patrons
 
-The War Chief and the households that need a defence repaired call on him and supply the workers he needs.
+The War Chief and the households that need a defense repaired call on him and supply the workers he needs.
 
 ### Enemies
 

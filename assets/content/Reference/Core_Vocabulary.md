@@ -14,7 +14,7 @@ data:
     - {id: "smell-verb", gloss: "to smell", group: senses}
     - {id: "smell-noun", gloss: "a smell; a scent", group: senses}
     - {id: "taste-verb", gloss: "to taste", group: senses}
-    - {id: "taste-noun", gloss: "a taste; a flavour", group: senses}
+    - {id: "taste-noun", gloss: "a taste; a flavor", group: senses}
     - {id: "touch-verb", gloss: "to touch; to feel with the hand", group: senses}
     - {id: "touch-noun", gloss: "a touch", group: senses}
     - {id: "look", gloss: "to look", group: senses}
@@ -456,9 +456,9 @@ data:
     - {id: "green", gloss: "green", group: colours}
     - {id: "yellow", gloss: "yellow", group: colours}
     - {id: "blue", gloss: "blue", group: colours}
-    - {id: "grey", gloss: "grey", group: colours}
+    - {id: "grey", gloss: "gray", group: colours}
     - {id: "brown", gloss: "brown", group: colours}
-    - {id: "light-colour", gloss: "light in colour", group: colours}
+    - {id: "light-colour", gloss: "light in color", group: colours}
     - {id: "pale", gloss: "pale", group: colours}
     - {id: "clear-appearance", gloss: "clear in appearance", group: colours}
     - {id: "opaque", gloss: "opaque", group: colours}
@@ -952,13 +952,13 @@ A concept can be expressed by a single word, a complex word, a sequence of words
 
 Each sense retains an act and a thing perceived: to smell and a smell, for example. Nouns and verbs remain distinct concepts even where one form expresses both. The four loves remain distinguishable from one another and from lust: romantic love, friendship and affectionate regard between friends, familial love, and selfless universal love. Companionship also has its own concept for being together with a companion. Truth and certainty are distinct: a speaker can be certain of a false claim or uncertain of a true one.
 
-Some repeated glosses name different meanings. Hard to the touch differs from difficult; light in colour differs from light in weight; right as a direction differs from morally right. Before in space differs from before in time. Other expressions share a concept where they describe the same meaning, such as healthy and hale, sick and ill, or goodbye and farewell. A shared concept never requires a language to use one expression for all of its glosses. Existing concept ids remain stable.
+Some repeated glosses name different meanings. Hard to the touch differs from difficult; light in color differs from light in weight; right as a direction differs from morally right. Before in space differs from before in time. Other expressions share a concept where they describe the same meaning, such as healthy and hale, sick and ill, or goodbye and farewell. A shared concept never requires a language to use one expression for all of its glosses. Existing concept ids remain stable.
 
 A language records an expression in its `data.words` list and names the concept id, or a list of ids, in that entry's `concept`. A `form` may contain spaces; its `gloss` may state several senses. Use an existing word class appropriate to the expression's use. A phrase can name its attested component forms in `built`, and its `note` can explain the meaning and the existing construction that licenses it. Essential usage also belongs in the gloss or the language note’s prose, since dictionary views may omit entry notes. Record an actual usable expression and its meaning. A concept tag, a paraphrase in the reader's language without an expression in the target language, or a bare pattern with no worked example does not demonstrate coverage.
 
 For an idiom, explain its conventional meaning even when its literal meaning differs. For a productive construction, give an actual example and enough explanation to apply the existing pattern. For example, a phrase meaning “countless spirits” demonstrates that whole phrase; its quantity does not by itself prove that the phrase can express “many” in other contexts. Coverage reports count recorded tags; semantic review establishes whether the expressions support them.
 
-Questions, negation, possibility, obligation, reference, possession and logical relationships can use existing phrases or constructions. Temporal concepts such as past and future can be expressed with time words. This inventory adds no tenses, moods, cases, declensions or conjugation requirements. Pronoun glosses such as I/me and my/mine identify the speaker and the speaker's possession without prescribing separate forms. Number systems, colour boundaries, kinship distinctions and calendar conventions follow each language and culture. Later ordinals require a usable productive expression, without imposing a decimal system.
+Questions, negation, possibility, obligation, reference, possession and logical relationships can use existing phrases or constructions. Temporal concepts such as past and future can be expressed with time words. This inventory adds no tenses, moods, cases, declensions or conjugation requirements. Pronoun glosses such as I/me and my/mine identify the speaker and the speaker's possession without prescribing separate forms. Number systems, color boundaries, kinship distinctions and calendar conventions follow each language and culture. Later ordinals require a usable productive expression, without imposing a decimal system.
 
 Coverage applies to the languages of the human peoples and to Khazari and Sinale. Nyáluban's drum register and the tongues of the other folk are outside this inventory. Aelwythi records explicit words and phrases in a readable older register of the reader's language, following its rendering convention. Explanations and glosses use the reader's ordinary modern prose; newly written in-world Aelwythi works follow the register’s grammar and patterns. Its coverage requires the same expression evidence as every other human language.
 
@@ -974,7 +974,7 @@ Coverage applies to the languages of the human peoples and to Khazari and Sinale
 | Common Objects and Dwellings          | Dwellings, furniture, containers, tools, fire, clothing, security and materials                   |
 | Nature and the Physical World         | Substances, landforms, waters, weather, plants, animals and compass directions                    |
 | Numbers and Quantities                | Cardinals, ordinals, fractions, quantities, comparisons, distribution and measurement             |
-| Colors and Visual Properties          | Colours, lightness, clarity, surface appearance and patterns                                      |
+| Colors and Visual Properties          | Colors, lightness, clarity, surface appearance and patterns                                       |
 | Basic Actions and Verbs               | Existence, possession, movement, manipulation, creation, communication, thought and social action |
 | Space, Location, and Direction        | Location, relative position, direction, movement paths and spatial relationships                  |
 | Time and Sequence                     | Times of day, relative time, sequence, frequency, duration and natural cycles                     |

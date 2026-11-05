@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Melvaris Tharkis is a 69-year-old man who stands 5'10" tall and is of light build. He has fair, ruddy skin, dark brown hair cut close and gone grey at the temples, and green eyes. The backs of both hands are seamed with old burn scars. He moves like a younger man, wears a _marendos_'s dark robe belted for walking, and watches a room before he enters it.
+Melvaris Tharkis is a 69-year-old man who stands 5'10" tall and is of light build. He has fair, ruddy skin, dark brown hair cut close and gone gray at the temples, and green eyes. The backs of both hands are seamed with old burn scars. He moves like a younger man, wears a _marendos_'s dark robe belted for walking, and watches a room before he enters it.
 
 # Dossier {#dossier}
 

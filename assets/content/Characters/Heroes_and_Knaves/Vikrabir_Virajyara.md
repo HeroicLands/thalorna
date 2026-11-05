@@ -399,7 +399,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vikrabir stands 5'11" with a medium build and the posture of a man who learned to ride before he learned to read. His skin is tawny and weathered by twenty winters of open-season councils held in the cold, his black hair has gone grey at the temples, and his eyes are dark brown and steady. Two fingers of his left hand do not bend all the way; he took the frostbite on a winter crossing as a young man, and he keeps the hand in his sleeve at the Priestly Court and out of it at the Martial Council.
+Vikrabir stands 5'11" with a medium build and the posture of a man who learned to ride before he learned to read. His skin is tawny and weathered by twenty winters of open-season councils held in the cold, his black hair has gone gray at the temples, and his eyes are dark brown and steady. Two fingers of his left hand do not bend all the way; he took the frostbite on a winter crossing as a young man, and he keeps the hand in his sleeve at the Priestly Court and out of it at the Martial Council.
 
 At court he wears the plain silk of a highland king and a wool mantle over it, never the southern brocades his treasury could buy. At his hip is a [[weapongear-shkhlynswd|Shikhalayan Steel Sword]] of the ordinary kind the march companies buy by the wagonload, which is the point of it.
 

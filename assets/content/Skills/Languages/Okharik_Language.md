@@ -388,13 +388,9 @@ data:
     - form: lemom
       class: v
       field: Everyday speech
-      gloss: to taste; to perceive a flavour in the mouth
+      gloss: to taste; to perceive a flavor in the mouth
       concept: taste-verb
-    - form: lemu
-      class: n
-      field: Everyday speech
-      gloss: a taste; a flavour
-      concept: taste-noun
+    - {form: lemu, class: n, field: Everyday speech, gloss: a taste; a flavor, concept: taste-noun}
     - form: mbalom
       class: v
       field: Everyday speech
@@ -1757,7 +1753,7 @@ data:
     - form: ngembelu mbeshoring
       class: n
       field: Everyday speech
-      gloss: wool; the fleece fibre of a sheep, including the fibre prepared for spinning or weaving. The phrase names sheep-fibre, not head hair.
+      gloss: wool; the fleece fiber of a sheep, including the fiber prepared for spinning or weaving. The phrase names sheep-fiber, not head hair.
       concept: wool
     - form: ngemboru
       class: n
@@ -1917,12 +1913,12 @@ data:
     - form: zhekin
       class: adj
       field: Everyday speech
-      gloss: bright; giving or reflecting much light; light in colour toward white
+      gloss: bright; giving or reflecting much light; light in color toward white
       concept: [bright, light-colour]
     - form: zhimbalin
       class: adj
       field: Everyday speech
-      gloss: dark; lacking light; black in colour
+      gloss: dark; lacking light; black in color
       concept: [dark, black]
     - form: mbes mbathurom zhomelu
       class: v
@@ -2110,22 +2106,22 @@ data:
       field: Everyday speech
       gloss: "to count things. ngem ngorimom mebothu: I count the pots."
       concept: count-verb
-    - {form: zhebin, class: adj, field: Everyday speech, gloss: white in colour, concept: white}
-    - {form: zhembin, class: adj, field: Everyday speech, gloss: red in colour, concept: red}
-    - {form: pembelin, class: adj, field: Everyday speech, gloss: green in colour, concept: green}
+    - {form: zhebin, class: adj, field: Everyday speech, gloss: white in color, concept: white}
+    - {form: zhembin, class: adj, field: Everyday speech, gloss: red in color, concept: red}
+    - {form: pembelin, class: adj, field: Everyday speech, gloss: green in color, concept: green}
     - form: shimbin
       class: adj
       field: Everyday speech
-      gloss: yellow in colour
+      gloss: yellow in color
       concept: yellow
       built: [shimb-, -in]
-    - {form: ngorzin, class: adj, field: Everyday speech, gloss: blue in colour, concept: blue}
-    - {form: shuremin, class: adj, field: Everyday speech, gloss: grey in colour, concept: grey}
-    - {form: khubelin, class: adj, field: Everyday speech, gloss: brown in colour, concept: brown}
+    - {form: ngorzin, class: adj, field: Everyday speech, gloss: blue in color, concept: blue}
+    - {form: shuremin, class: adj, field: Everyday speech, gloss: gray in color, concept: grey}
+    - {form: khubelin, class: adj, field: Everyday speech, gloss: brown in color, concept: brown}
     - form: zhemin
       class: adj
       field: Everyday speech
-      gloss: pale; weak or washed-out in colour
+      gloss: pale; weak or washed-out in color
       concept: pale
     - form: mbeselin
       class: adj
@@ -2170,7 +2166,7 @@ data:
     - form: ngenom
       class: v
       field: Everyday speech
-      gloss: "to go; to move from one place to another; to walk when travelling on foot. ngem ngenom mbor ombelu: I walk toward the house."
+      gloss: "to go; to move from one place to another; to walk when traveling on foot. ngem ngenom mbor ombelu: I walk toward the house."
       concept: [go, walk]
     - form: mbekom
       class: v

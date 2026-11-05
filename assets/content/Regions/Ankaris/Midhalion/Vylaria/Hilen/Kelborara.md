@@ -34,7 +34,7 @@ The town lives by weighing, storing, sacking and carting grain. The estates of c
 
 The heaviest work belongs to the sack-carriers, some four hundred men who unload the wagons, carry the sacks into the granaries and carry them out again. They belong to a fraternity with a hall beside the Counting Floor, and most of them were born in the tenant villages round the town and came in when their families' share of the harvest would not feed them all. A carrier is paid by the sack. In a good year he eats well and sends coin home, and in a lean year he stands idle on the Floor with the rest.
 
-A granary-keeper turns the grain once a month all winter, airs the halls on dry days and burns sulphur in them in spring against the weevil, and a granary that loses a fifth of its grain to rot or vermin by spring is accounted well kept. The keepers say that the grain in a granary is never the same grain twice: what comes out in spring is lighter than what went in at harvest, and the clerks enter the difference as shrinkage.
+A granary-keeper turns the grain once a month all winter, airs the halls on dry days and burns sulfur in them in spring against the weevil, and a granary that loses a fifth of its grain to rot or vermin by spring is accounted well kept. The keepers say that the grain in a granary is never the same grain twice: what comes out in spring is lighter than what went in at harvest, and the clerks enter the difference as shrinkage.
 
 ## Who Rules and Keeps Order
 

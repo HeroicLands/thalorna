@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Amqelimun is a 48-year-old woman who stands 5'9" tall with a medium build. She has dark brown skin, grey hair, and hazel eyes.
+Amqelimun is a 48-year-old woman who stands 5'9" tall with a medium build. She has dark brown skin, gray hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Amqelimun holds standing as a Zabet in [[place-amqelulegez|Amqelu-Legez]], and a distant kinship with the high priestess. Her family placed her at court for exactly that connection, and she has made use of it rather than let it go to waste. Anyone courting the high priestess's favour finds Amqelimun already standing between them.
+Amqelimun holds standing as a Zabet in [[place-amqelulegez|Amqelu-Legez]], and a distant kinship with the high priestess. Her family placed her at court for exactly that connection, and she has made use of it rather than let it go to waste. Anyone courting the high priestess's favor finds Amqelimun already standing between them.

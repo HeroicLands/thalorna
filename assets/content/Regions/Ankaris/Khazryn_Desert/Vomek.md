@@ -39,7 +39,7 @@ A caravan short of water that draws here in daylight and moves off before dusk t
 
 ## What Is Still There
 
-The gear of the dead is in the grass: saddle-trees gone grey, iron fittings in the shapes of buckles and bits, a pile of tent-poles that has gone to roots and put out leaves. The tribe's herd-marks are visible on a few skulls. Nobody has taken more than a handful of them. A stranger seen carrying something out is news that an Uruvol guide sells to the nearest tribes within the month.
+The gear of the dead is in the grass: saddle-trees gone gray, iron fittings in the shapes of buckles and bits, a pile of tent-poles that has gone to roots and put out leaves. The tribe's herd-marks are visible on a few skulls. Nobody has taken more than a handful of them. A stranger seen carrying something out is news that an Uruvol guide sells to the nearest tribes within the month.
 
 ## Hooks
 

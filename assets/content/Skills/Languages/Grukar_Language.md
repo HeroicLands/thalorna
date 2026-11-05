@@ -68,9 +68,9 @@ Its empty `data.roman` inventory states that this language has no written words;
 
 The Grukar grunt, growl, bellow and scream, and none of it is a word. A sound is punctuation or emphasis laid over what the body and the scent already say: it gives a threat its weight, marks the moment a charge begins, or carries the force of a display past the reach of sight. The same snarl lends force to a claim over a carcass and to the start of a charge, and the body tells which. Sound matters most where the body cannot be seen: in darkness, across distance, and in a fight too close to read. Much of it comes from the chest and throat rather than the mouth, and the lowest of it a human feels as pressure against the ribs rather than hears.
 
-The sounds the frontier peoples have learned to tell apart are below, with what each emphasises. None of them has a meaning apart from the display it goes with.
+The sounds the frontier peoples have learned to tell apart are below, with what each emphasizes. None of them has a meaning apart from the display it goes with.
 
-| Sound                                                | What it emphasises                                            |
+| Sound                                                | What it emphasizes                                            |
 | ---------------------------------------------------- | ------------------------------------------------------------- |
 | A low rumble from the chest                          | A threat held back                                            |
 | A full-throated roar                                 | A threat about to be carried out                              |
@@ -116,7 +116,7 @@ The Grukar have no writing system of their own. A scratched tree, a pile of ston
 
 The Grukar give no names. A Grukar's own "name", if it has one, is a shrug and a smell. A colony or a tribe may be named by the humans of its region, and that name is a human name in their tongue.
 
-**The caste names** are an old convention among human peoples. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined them for the four kinds of Grukar they see: Grukar-Uk, Grukar-Sha, Grukar-Hushk and Grukar-ahk. Nobody knows whether the Grukar recognise the distinction themselves. Each is written after the kind's name with a hyphen, and a page that has named the kind once writes the caste alone: an Uk, a Sha, a Hushk, an Ahk.
+**The caste names** are an old convention among human peoples. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined them for the four kinds of Grukar they see: Grukar-Uk, Grukar-Sha, Grukar-Hushk and Grukar-ahk. Nobody knows whether the Grukar recognize the distinction themselves. Each is written after the kind's name with a hyphen, and a page that has named the kind once writes the caste alone: an Uk, a Sha, a Hushk, an Ahk.
 
 ## Scope {#scope}
 

@@ -17,7 +17,7 @@ data:
     - place-kankul2
   lang: kiichek
 
-# terran_analog: "The Nahua nemontemi, the five unlucky days at the end of the year when nothing was begun; the Nahua New Fire, seen by a child; household tale-telling through a night watch, as at a wake. Departs: the tales are tied one to each of the five named nights, the danger is a dead hearth rather than an omen, and the debts in them are kept between neighbours without a ledger."
+# terran_analog: "The Nahua nemontemi, the five unlucky days at the end of the year when nothing was begun; the Nahua New Fire, seen by a child; household tale-telling through a night watch, as at a wake. Departs: the tales are tied one to each of the five named nights, the danger is a dead hearth rather than an omen, and the debts in them are kept between neighbors without a ledger."
 ---
 
 **The Nights of the Doors**, _p'uqal kil shots'emal_, are the tales a household tells through the five days at the end of the [[lore-itsaniclndr#doors|Ki'ich'chik year]], the _shots'emal_ (the doors), which belong to no month and to no god. A hearth must not go out in those five days. A family whose fire dies has opened a door between the worlds, and a fire-priest of [[affiliation-kayikchalix|K'ayik Ch'alish]] must be fetched at once to close it. So the family sits up in turns through five nights, feeding the fire, and borrows _k'ayish_ (firewood) if its own runs short, and tells tales to keep the one on watch awake. The children are allowed up for the tale and sent to sleep after it.

@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Kenwin Highmore is a 58-year-old man who stands 5'8" tall with a medium build. He has pale skin, freckled complexion, auburn hair, and grey eyes.
+Kenwin Highmore is a 58-year-old man who stands 5'8" tall with a medium build. He has pale skin, freckled complexion, auburn hair, and gray eyes.
 
 # Dossier {#dossier}
 

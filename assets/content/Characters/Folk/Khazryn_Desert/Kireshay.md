@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Kireshay is a 44-year-old man who stands 6'1" tall and is of light build, long-armed and spare. He has tanned skin with a smooth complexion, hair gone grey early and cropped to the skull, a clean-shaven face and brown eyes that do not blink much. He wears the quarter watch's brown coat with the blue cord of a captain, clean and pressed, and carries the watch's iron-shod quarterstaff, since the Tellumi of the held cities bear no blade outside the militias the Atarzád permit and the watch bears none at all. He speaks in short sentences and does not raise his voice.
+Kireshay is a 44-year-old man who stands 6'1" tall and is of light build, long-armed and spare. He has tanned skin with a smooth complexion, hair gone gray early and cropped to the skull, a clean-shaven face and brown eyes that do not blink much. He wears the quarter watch's brown coat with the blue cord of a captain, clean and pressed, and carries the watch's iron-shod quarterstaff, since the Tellumi of the held cities bear no blade outside the militias the Atarzád permit and the watch bears none at all. He speaks in short sentences and does not raise his voice.
 
 # Dossier {#dossier}
 
@@ -53,7 +53,7 @@ He has made begging and vagrancy a personal crusade. A beggar in the quarter is 
 
 ### Personality
 
-He is rigid, honest and humourless, and he is not corrupt. He believes the quarter survives by giving the Atarzád no reason to look at it, and that every disorder he stops is a raid that does not happen. He has no patience with poets.
+He is rigid, honest and humorless, and he is not corrupt. He believes the quarter survives by giving the Atarzád no reason to look at it, and that every disorder he stops is a raid that does not happen. He has no patience with poets.
 
 ### Motivation
 

@@ -20,4 +20,4 @@ Dóngaru Village is the seat of the [[affiliation-dongarutrb|Dóngaru tribe]], w
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
 [[place-okharisrgn|Okharis]].
 
-Charcoal stacks smoulder in the clearings beyond the village, and its timber and charcoal go by cart to the forges of the temple-cities.
+Charcoal stacks smolder in the clearings beyond the village, and its timber and charcoal go by cart to the forges of the temple-cities.

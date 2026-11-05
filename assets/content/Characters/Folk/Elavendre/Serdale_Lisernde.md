@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Sérdale Lísernde is a 76-year-old woman who stands 5'9" tall with a medium build. She has light skin, clear complexion, brown hair, and grey eyes.
+Sérdale Lísernde is a 76-year-old woman who stands 5'9" tall with a medium build. She has light skin, clear complexion, brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

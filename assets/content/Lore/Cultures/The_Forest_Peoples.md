@@ -15,7 +15,7 @@ data:
     complexion: {smooth: 4, clear: 3, weathered: 2}
     height: {female: {min: 4' 10", max: 5' 6"}, male: {min: 5' 2", max: 5' 11"}}
 
-# terran_analog: "The forest peoples of the Congo basin: Mbuti and BaAka foraging bands, riverine fishing villages, and the long exchange between forest foragers and their farming and trading neighbours. Carries over: mobile net-hunting bands, honey and the night song, hereditary trade partnerships, bark cloth and the forest as a parent. Departs: one shared tongue, four loose traditions instead of many languages, and no chiefdom or kingdom anywhere in the forest."
+# terran_analog: "The forest peoples of the Congo basin: Mbuti and BaAka foraging bands, riverine fishing villages, and the long exchange between forest foragers and their farming and trading neighbors. Carries over: mobile net-hunting bands, honey and the night song, hereditary trade partnerships, bark cloth and the forest as a parent. Departs: one shared tongue, four loose traditions instead of many languages, and no chiefdom or kingdom anywhere in the forest."
 ---
 
 The peoples of the [[place-cntrlrnfrsts|Central Rainforests]] have no name for themselves as a whole. A forest person is _biko_, one of the people, and anyone who speaks [[skill-ekpelulng|Ekpelu]] and lives by the forest's manners is biko too. Everyone else is _gbolo_, an outsider, and the word carries no insult: it says only that the forest does not know that person.
@@ -41,7 +41,7 @@ A standing is a state a person is in, never a title passed from parent to child.
 
 The _ndaro_, the tribe, is the largest thing in the forest. Two tribes may feast together, marry their young to each other, hunt one stretch of forest by agreement or feud for generations, and each of these is a thing that happened, not a body that lasts. No forest leader has ever spoken for more than one tribe.
 
-The tribe at [[place-lpdkngcrt|the Leopard King's Court]] is the one the forest points to when it means a tribe that has gone wrong. It is one tribe under a sorcerer-leader whom its neighbours fear, and the tribes around it carry gifts to him so that he leaves them alone. The gifts buy quiet, not rule: the tribes that bring them have their own leaders and owe him nothing else.
+The tribe at [[place-lpdkngcrt|the Leopard King's Court]] is the one the forest points to when it means a tribe that has gone wrong. It is one tribe under a sorcerer-leader whom its neighbors fear, and the tribes around it carry gifts to him so that he leaves them alone. The gifts buy quiet, not rule: the tribes that bring them have their own leaders and owe him nothing else.
 
 ## The Forest Is Alive
 
@@ -70,7 +70,7 @@ The four names are the common tongue's, built from what each tradition keeps or 
 
 An outsider sees one people. Every tribe wears bark cloth, hunts with nets, spears and blowpipes, carries honey in leaf parcels, sets carved posts at its camps and speaks the same soft, open tongue. Every tribe is courteous, careful and slow to answer a question, and every tribe sends the outsider to someone else to trade.
 
-What the outsider cannot see is the tradition. The accents sound alike to an ear not raised on them, the sacred words are not spoken in an outsider's hearing, and the differences that matter most are matters of belief: whether a leader is chosen, recognised, dreamed or earned, whether the dead go downstream or stay, whether a stranger is a guest, a child or a danger. A traveller who has met one forest tribe knows how to greet the next one and nothing else about it. The forest people know this, and the gbenindo who handle outsiders say as little about the other traditions as the outsiders allow.
+What the outsider cannot see is the tradition. The accents sound alike to an ear not raised on them, the sacred words are not spoken in an outsider's hearing, and the differences that matter most are matters of belief: whether a leader is chosen, recognized, dreamed or earned, whether the dead go downstream or stay, whether a stranger is a guest, a child or a danger. A traveler who has met one forest tribe knows how to greet the next one and nothing else about it. The forest people know this, and the gbenindo who handle outsiders say as little about the other traditions as the outsiders allow.
 
 ## See Also
 
@@ -90,7 +90,7 @@ What the outsider cannot see is the tradition. The accents sound alike to an ear
 : the feared tribe
 
 [[lore-nyalubaclt|Nyáluba]]
-: the southern neighbours, through the Sengala
+: the southern neighbors, through the Sengala
 
 [[lore-okharinclt|Okharin]]
-: the northern neighbours
+: the northern neighbors

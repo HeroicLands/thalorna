@@ -1,6 +1,6 @@
 ---
 shortcode: seal
-name: {full: Seal, en: [Grey Seal]}
+name: {full: Seal, en: [Gray Seal]}
 type: being
 subType: creature
 description: "A sleek, fish-eating pinniped of northern coasts whose meat, blubber, and hide sustain coastal communities through bitter winters."

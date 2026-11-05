@@ -1,6 +1,6 @@
 ---
 shortcode: enth
-name: {full: Enthral}
+name: {full: Enthrall}
 type: mysticalability
 subType: arcanetalent
 description: "Holds a person's attention and compliance for as long as the talent is sustained."
@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Enthral holds a person's attention and compliance for as long as the talent is sustained. The hold lasts only as long as the practitioner keeps it up. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.
+Enthrall holds a person's attention and compliance for as long as the talent is sustained. The hold lasts only as long as the practitioner keeps it up. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Pedunay Bulamun is a 54-year-old man who stands 6'0" tall and is of heavy build. He has golden skin with a sun-kissed complexion, black hair thinning at the crown and combed carefully across it, a short black beard and green eyes behind a pair of Kaldar reading lenses he wears on a cord. His fingertips are stained green with verdigris that no washing removes. He dresses in a master's long grey gown, very clean, with the University's copper badge pinned high. He is genial, a little pompous and a very good listener, and he takes notes while other people are talking.
+Pedunay Bulamun is a 54-year-old man who stands 6'0" tall and is of heavy build. He has golden skin with a sun-kissed complexion, black hair thinning at the crown and combed carefully across it, a short black beard and green eyes behind a pair of Kaldar reading lenses he wears on a cord. His fingertips are stained green with verdigris that no washing removes. He dresses in a master's long gray gown, very clean, with the University's copper badge pinned high. He is genial, a little pompous and a very good listener, and he takes notes while other people are talking.
 
 # Dossier {#dossier}
 

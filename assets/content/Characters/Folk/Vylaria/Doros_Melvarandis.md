@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Doros Melvarandis is a 69-year-old man who stands 5'11" tall and is of medium build. He has medium skin weathered by years of riding his land, black hair gone grey at the temples and brown eyes that settle on a stranger and stay there. He dresses as a country lord: good wool, a plain belt, boots made for mud. He moves with the slow care of a man whose joints ache in the damp, and he is seldom seen without a tall archer a pace behind his shoulder.
+Doros Melvarandis is a 69-year-old man who stands 5'11" tall and is of medium build. He has medium skin weathered by years of riding his land, black hair gone gray at the temples and brown eyes that settle on a stranger and stay there. He dresses as a country lord: good wool, a plain belt, boots made for mud. He moves with the slow care of a man whose joints ache in the damp, and he is seldom seen without a tall archer a pace behind his shoulder.
 
 # Dossier {#dossier}
 

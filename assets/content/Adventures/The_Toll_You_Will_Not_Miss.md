@@ -59,7 +59,7 @@ Warlan Garanth, the last of that line, has learned that the forfeits in the tall
 
 **Purpose.** The puzzle: find what was lost, and learn how to name it.
 
-**Situation.** The causeway ends in grey mud, the black stakes and the rotted ships with their silent crews. Behind the ships stands a long house of stakes and reed. Inside, on shelves, hang the forfeits: cords, tokens, braided straw. Every one hums faintly when the hand nears it. Fálena Bryndal, the bard, sits on a bench by the door with her harp across her knees. She cannot tell the party her name.
+**Situation.** The causeway ends in gray mud, the black stakes and the rotted ships with their silent crews. Behind the ships stands a long house of stakes and reed. Inside, on shelves, hang the forfeits: cords, tokens, braided straw. Every one hums faintly when the hand nears it. Fálena Bryndal, the bard, sits on a bench by the door with her harp across her knees. She cannot tell the party her name.
 
 **NPCs and threats.** Fálena gave her memory of the last verse, the thing she crossed to learn, and has lost the memory of who she is. She is gentle, puzzled, and certain of nothing but that she was looking for something. The Forfeit-Men on the benches turn their heads toward the party as it passes, and one of them, a **steersman**, rises and walks to the house door without being told.
 

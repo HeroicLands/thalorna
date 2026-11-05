@@ -446,7 +446,7 @@ Other singers of the harbor taverns envy him the halls' custom and say that he s
 
 1. **The new verse.** The hall Jiraman sings in wants a new verse for Review night, one that names a captain of the height and says what he did at the Shoals. The men who asked for it will not say the name in the tavern, and Jiraman has not yet said whether he will sing it.
 2. **The banquet.** The [Admiral's Council]{.name data-type="affiliation/governmental"} has asked Jiraman to sing at its banquet on the height on Review night, for a purse larger than the halls have ever paid him. The halls keep their own night, and the halls do not go up to the height.
-3. **The terraces.** The veterans ploughing the marked plots on [[place-khamisar|Khamisar]]'s southern terraces ask Jiraman to come and sing on the day the marines come to clear them, because many of the marines grew up in the quarter singing his songs.
+3. **The terraces.** The veterans plowing the marked plots on [[place-khamisar|Khamisar]]'s southern terraces ask Jiraman to come and sing on the day the marines come to clear them, because many of the marines grew up in the quarter singing his songs.
 
 :::secret {title="The Truth of Yamuzel"}
 The captain the hall wants named is the one whose ship broke from the line on the second day of the Shoals and was later counted among the victors. His house is on the height, and the ship model missing from an admirals' window is his: a veteran's son of the quarter took it, and the card left behind with one battle scratched out is the veterans' accusation. The new verse would say aloud what the card says in silence.

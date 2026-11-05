@@ -98,7 +98,7 @@ A second male example comes from the histories. When the _felzos_ (legate) [Maka
 
 She pays for it too. Her perfectionism has become a cage, her life has thinned to a workshop and a list of clients, and she has begun to wonder whether the permanent perfect page has eclipsed a life lived. The culture respects the type and does not pity it. The admirable woman here is the one whose reliability the city's machinery runs on, as the admirable man is the one who makes its law work.
 
-The coast keeps a third example in the widow [Ilthera Salken]{.name data-type="being/npc"} of [[place-braldvik|Bralvik]]. One winter a raiding crew held the headland above her burned village and the imperial _felzos_ chose to starve both them and the village below. She carried a basket of fish up the slope to the crew's smoke-rack and brought it down smoked, and the trade went on under the pickets' eyes all winter ([[lore-bankedfire|The Winter of the Banked Fire]]). Her family's smokehouse still keeps the [[miscgear-oldcoal|Old Coal]] that lights every smokehouse in the town. She is the Vylarian answer to scarcity: bargain with what is in front of you, keep the fire banked, and send the bill afterwards.
+The coast keeps a third example in the widow [Ilthera Salken]{.name data-type="being/npc"} of [[place-braldvik|Bralvik]]. One winter a raiding crew held the headland above her burned village and the imperial _felzos_ chose to starve both them and the village below. She carried a basket of fish up the slope to the crew's smoke-rack and brought it down smoked, and the trade went on under the pickets' eyes all winter ([[lore-bankedfire|The Winter of the Banked Fire]]). Her family's smokehouse still keeps the [[miscgear-oldcoal|Old Coal]] that lights every smokehouse in the town. She is the Vylarian answer to scarcity: bargain with what is in front of you, keep the fire banked, and send the bill afterward.
 
 ## What the City Keeps
 
@@ -110,12 +110,12 @@ None of these is a scripture. The Vylarians keep law, memory and boundary, and e
 
 The lines a Vylarian quotes at the patron's door, in court and on the march come from a handful of works:
 
-- [[lore-walkedline|The Walking of the Line]] is the sixth book of the court epic of the Restoration, which the grammar schools set before any other, so that a boy of good family can recite its opening and its catalogue of the six hills before he has climbed them all.
+- [[lore-walkedline|The Walking of the Line]] is the sixth book of the court epic of the Restoration, which the grammar schools set before any other, so that a boy of good family can recite its opening and its catalog of the six hills before he has climbed them all.
 - [[lore-firewords|The Words Kept from the Fire]] is the law schools' book of the rules of a jurist of the Republic whose own books burned with the imperial archive, each rule with the masters' quarrel beneath it, and its first rule and its last are the two every student of law can say.
 - [[lore-morningcall|The Morning Call]] is a client-poet's satire on the patron's door, read aloud after dinner on the Heights by the houses it mocks, and its refrain closes each turn of the client's day.
 - [[lore-goldbandsng|The Song of the Gold Band]] is the road-song of the legion that took a lost eagle out of the reeds below the Moktur passes, which recruits learn before the oath and whose parade verses end on the four words of the military manual.
 - [[lore-eveningsongs|The Evening Songs]] are five elegies a watch officer on the Moktur frontier wrote on the backs of his smoke tallies to a veteran's daughter her father would not give to a resident, and soldiers' wives sing them in the Warrens to a tune of the street, though the schools do not teach them.
-- [[lore-maskspraise|The Praise of the Masks]] is the funeral oration an adopted heir gave over the last master of a Hilen house, which the rhetoric masters of Hilen copy as the model of the provincial laudation for its catalogue of the masks and for the place in the cupboard that has no mask.
+- [[lore-maskspraise|The Praise of the Masks]] is the funeral oration an adopted heir gave over the last master of a Hilen house, which the rhetoric masters of Hilen copy as the model of the provincial laudation for its catalog of the masks and for the place in the cupboard that has no mask.
 - [[lore-secondread|The Second Reading]] is the tale the legions' chaplains tell a new _ozethos_ on the night of his licensing, of the reading given before the Twelfth went up into the Kervaron with one small word in it, _zikai_, "perhaps".
 
 ## The Kept Fire and the Twelve

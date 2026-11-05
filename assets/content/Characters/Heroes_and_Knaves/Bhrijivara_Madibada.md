@@ -399,7 +399,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Bhrijivara is a slight old man of 5'8", brown-skinned and deeply lined, with white hair cut close and white stubble he shaves on rite days. His eyes are dark and quick. He wears a plain linen robe with the single cord of an ordained priest of the [[affiliation-triyangasampradeya|Triyanga-sampradeya]], and he walks barefoot inside the temple court and in sandals beyond it. On felling days he wears [[affiliation-rasikara|Rasikara]]'s grey ash-mark on his brow, pressed there with a bronze [[miscgear-ashmarkstamp|Ash-Mark Stamp]] he has carried for forty years.
+Bhrijivara is a slight old man of 5'8", brown-skinned and deeply lined, with white hair cut close and white stubble he shaves on rite days. His eyes are dark and quick. He wears a plain linen robe with the single cord of an ordained priest of the [[affiliation-triyangasampradeya|Triyanga-sampradeya]], and he walks barefoot inside the temple court and in sandals beyond it. On felling days he wears [[affiliation-rasikara|Rasikara]]'s gray ash-mark on his brow, pressed there with a bronze [[miscgear-ashmarkstamp|Ash-Mark Stamp]] he has carried for forty years.
 
 # Dossier {#dossier}
 

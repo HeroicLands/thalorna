@@ -424,7 +424,7 @@ sohl:
 
 ![[domthgrvth|Dometh Graveth]]{float=top-left}
 
-Dometh stands 5'11" tall with a heavy build. He has tanned weathered skin, greying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
+Dometh stands 5'11" tall with a heavy build. He has tanned weathered skin, graying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 

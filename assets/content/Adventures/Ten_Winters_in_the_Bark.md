@@ -32,9 +32,9 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **Purpose.** Establish the hollow's dead and the price of entry.
 
-**Situation.** The trackstone path ends at the rim of the dell. The oaks stand in a ring below, and between the trunks stand a dozen figures in the mail and plaid of an older clan, grey as lichen and perfectly still. The air is damp and smells of leaf-mould and old wood. The path down passes between two oaks whose bark has the shape of faces.
+**Situation.** The trackstone path ends at the rim of the dell. The oaks stand in a ring below, and between the trunks stand a dozen figures in the mail and plaid of an older clan, gray as lichen and perfectly still. The air is damp and smells of leaf-mold and old wood. The path down passes between two oaks whose bark has the shape of faces.
 
-**NPCs and threats.** The **root-sworn** are the clan's dead, bound into the oaks and called out to stand at the rim. They are grey, slow-spoken, patient and stiff with age, and they carry spears that have rotted to the color of bark. They speak as a clan council speaks, asking each stranger name, lineage and business. A stranger who lies is held in the roots. The oaks themselves move if disturbed: a branch comes down, or a root rises across the path.
+**NPCs and threats.** The **root-sworn** are the clan's dead, bound into the oaks and called out to stand at the rim. They are gray, slow-spoken, patient and stiff with age, and they carry spears that have rotted to the color of bark. They speak as a clan council speaks, asking each stranger name, lineage and business. A stranger who lies is held in the roots. The oaks themselves move if disturbed: a branch comes down, or a root rises across the path.
 
 **Player choices.** Force: cut a way through the root-sworn, who are slow but rise again if the trees stand. Stealth: crawl under the roots at the dell's rim. Guile: answer the question with a clan name from the [[place-pshtrwldrns|Peshtar country]] and a plausible lineage. Parley: ask them what they are guarding and whom.
 
@@ -48,7 +48,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **Purpose.** Meet the witch and learn her bargain.
 
-**Situation.** The cottage is warm and low, with a loom in the corner and a long table of stoppered jars. A black cat watches from the lintel. Nanwyth Crake is at the loom when the party comes in, weaving something grey, and she sets it aside.
+**Situation.** The cottage is warm and low, with a loom in the corner and a long table of stoppered jars. A black cat watches from the lintel. Nanwyth Crake is at the loom when the party comes in, weaving something gray, and she sets it aside.
 
 **NPCs and threats.** Nanwyth Crake is a spare woman with white hands and a quiet voice. She is not cruel and she does not haggle. She says what each thing costs in years and from whom, and she keeps her word. She is afraid of something she does not name, and she hides it behind courtesy. The cat is a watcher: it goes to the dell when the witch calls and returns with the oaks' answer.
 
@@ -64,7 +64,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **Purpose.** Make the cost real and force a choice.
 
-**Situation.** The bargain is paid at the cottage hearth. The witch takes the years with a bone needle drawn across the hand, and the buyer ages. The young among the party find a grey hair or a stiff knee, and the old find that they feel it more. The oaks outside creak and settle.
+**Situation.** The bargain is paid at the cottage hearth. The witch takes the years with a bone needle drawn across the hand, and the buyer ages. The young among the party find a gray hair or a stiff knee, and the old find that they feel it more. The oaks outside creak and settle.
 
 **NPCs and threats.** The oaks grow. A root breaks the cottage floor and spreads under the walls. The root-sworn come down into the dell and stand at the door. The witch does not stop them, and her face shows she cannot. The Shadow is in the trees, and it takes the years the witch gives it as well as the dead's share.
 
@@ -82,7 +82,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **Situation.** At the dell's lowest point stands the oldest oak, its trunk split by a seam of black that smokes in cold air. The witch's first binding was made here, in the roots of the clan's first chief. The seam is the Shadow's door. A thing is coming up through it that wears the clan's first chief like a cloak.
 
-**NPCs and threats.** The [Rooted Chief]{.name data-type="being/creature"} is a huge, grey, antlered shape of wood and bone that was the clan's founder. The Shadow speaks through him, in his voice, and what it says is not his. It calls the root-sworn to arms against the party and against the witch. The witch is at the roots, working to hold the seam shut.
+**NPCs and threats.** The [Rooted Chief]{.name data-type="being/creature"} is a huge, gray, antlered shape of wood and bone that was the clan's founder. The Shadow speaks through him, in his voice, and what it says is not his. It calls the root-sworn to arms against the party and against the witch. The witch is at the roots, working to hold the seam shut.
 
 **Player choices.** Force: cut down the old oak, which wounds the Rooted Chief and the whole grove. Stealth: break the witch's binding at the seam and let the dead walk out. Guile: speak the clan's rite for the dead at the chief's feet, if the party has the token. Parley: ask the first chief himself, under the Shadow's voice, what he wants.
 

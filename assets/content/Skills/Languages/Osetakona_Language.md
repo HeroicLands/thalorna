@@ -1015,7 +1015,7 @@ data:
     - form: "kentsiokwa"
       class: n
       field: "Longhouse and village"
-      gloss: "cloth; woven bark fibre"
+      gloss: "cloth; woven bark fiber"
       concept: cloth
       source: {kind: coined}
     - form: "kahsiotera"
@@ -1349,7 +1349,7 @@ data:
     - form: "tionhsiaken"
       class: n
       field: "Clan and council"
-      gloss: "a neighbour; one of the next village"
+      gloss: "a neighbor; one of the next village"
       concept: neighbor
       source: {kind: coined}
     - form: "seriha"
@@ -1707,7 +1707,7 @@ data:
     - form: "ohniahsera"
       class: n
       field: "Clan and council"
-      gloss: "honour; the regard of the clan"
+      gloss: "honor; the regard of the clan"
       concept: honor
       source: {kind: coined}
     - form: "tsiotsinon"
@@ -1928,7 +1928,7 @@ data:
     - form: "ekarohsa"
       class: n
       field: "Body and feeling"
-      gloss: "a taste; a flavour"
+      gloss: "a taste; a flavor"
       concept: taste-noun
       built: ["ekaro", "-hsa"]
       source: {kind: coined}
@@ -3139,7 +3139,7 @@ data:
     - form: "kahstatehsa"
       class: n
       field: "Body and feeling"
-      gloss: "ageing; growing older"
+      gloss: "aging; growing older"
       concept: aging
       built: ["kahstate", "-hsa"]
       source: {kind: coined}
@@ -3633,25 +3633,25 @@ data:
     - form: "kiaterokwa"
       class: adj
       field: "Everyday speech"
-      gloss: "blue; the colour of the sky"
+      gloss: "blue; the color of the sky"
       concept: blue
       source: {kind: coined}
     - form: "ohnitsiakwa"
       class: adj
       field: "Everyday speech"
-      gloss: "grey; the colour of ash"
+      gloss: "gray; the color of ash"
       concept: grey
       source: {kind: coined}
     - form: "ohwentsiakwa"
       class: adj
       field: "Everyday speech"
-      gloss: "brown; the colour of earth"
+      gloss: "brown; the color of earth"
       concept: brown
       source: {kind: coined}
     - form: "tsiaskwenha"
       class: adj
       field: "Everyday speech"
-      gloss: "light in colour"
+      gloss: "light in color"
       concept: light-colour
       source: {kind: coined}
     - form: "kahtsionsa"
@@ -4501,7 +4501,7 @@ data:
     - form: "katsenteri"
       class: n
       field: "Everyday speech"
-      gloss: "the centre"
+      gloss: "the center"
       concept: center
       source: {kind: coined}
     - form: "eniak"

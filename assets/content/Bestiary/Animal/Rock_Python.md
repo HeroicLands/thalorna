@@ -191,7 +191,7 @@ Rock pythons ambush their prey, waiting still for days or weeks where prey regul
 
 ## What the Hunters Do
 
-Hunters and woodcutters know the lairs and go around them. A snake that has fed is slow and is taken with nets and spears, or burnt out of its hole. A village that loses a goat posts a watch for several nights. The hide is cut into belts, shield-covers and drum-heads, and the fat is rubbed on joints. Strangers are told where not to sit down. In K'ankul the cave pools are avoided, and a pilgrim to a sacred cenote goes in a party and carries a lamp.
+Hunters and woodcutters know the lairs and go around them. A snake that has fed is slow and is taken with nets and spears, or burned out of its hole. A village that loses a goat posts a watch for several nights. The hide is cut into belts, shield-covers and drum-heads, and the fat is rubbed on joints. Strangers are told where not to sit down. In K'ankul the cave pools are avoided, and a pilgrim to a sacred cenote goes in a party and carries a lamp.
 
 ## Signs
 

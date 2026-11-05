@@ -14,13 +14,13 @@ data:
   packFolder: dunharadesert
 ---
 
-Far south of the last chain of wells, where a dry lake has left a floor of white salt wider than a day's ride, one dark thing stands up out of the glare. The Tower of the Lightning-Marked is a spire of black stone, taller than any fire-temple in the cities of [[place-amradadrgn|Amradad]], split along one side and glazed over most of its height with a grey-green glass that the lightning has made of the sand. The tribes call the place Qeshvadez, the seat of lightning.
+Far south of the last chain of wells, where a dry lake has left a floor of white salt wider than a day's ride, one dark thing stands up out of the glare. The Tower of the Lightning-Marked is a spire of black stone, taller than any fire-temple in the cities of [[place-amradadrgn|Amradad]], split along one side and glazed over most of its height with a gray-green glass that the lightning has made of the sand. The tribes call the place Qeshvadez, the seat of lightning.
 
 ## What Stands There
 
 The spire rises from a low mound at the middle of the [Pale Floor]{.name data-type="place/region"}, and every storm of the season finds it. Lightning strikes the tower on most nights when the sky holds any weather at all, and it strikes the same place: an iron spike at the summit, thick as a man's thigh, that the builders drove into the stone and nobody has been able to reach in living memory. Where the bolts have run down the walls the stone is fused into ropes and sheets of glass. Around the foot of the mound the flat is pocked with fulgurites, rooted tubes of glass that the sand has been turned into, some as long as a spear.
 
-Inside, the tower is a single stair that winds up the wall around an empty core. Iron rungs and bands are set into every course, and in a storm the whole interior sings. Chambers open off the stair at intervals: a vestibule at the foot, a hall where the lineages sit when they come, a cell for fasting, a sealed room that the elders say was the cult-master's, and above it the open gallery under the iron spike. Nobody sleeps in the tower. Nobody lingers there after a bolt has struck, because the air stays charged for a long breath afterwards and a man's hair stands out from his head.
+Inside, the tower is a single stair that winds up the wall around an empty core. Iron rungs and bands are set into every course, and in a storm the whole interior sings. Chambers open off the stair at intervals: a vestibule at the foot, a hall where the lineages sit when they come, a cell for fasting, a sealed room that the elders say was the cult-master's, and above it the open gallery under the iron spike. Nobody sleeps in the tower. Nobody lingers there after a bolt has struck, because the air stays charged for a long breath afterward and a man's hair stands out from his head.
 
 ## The Master Who Went Into the Storm
 
@@ -47,7 +47,7 @@ A day's ride west of the mound, on a rock that stands clear of the salt, an Amra
 
 ## Reaching It
 
-From the Amradi shore the route runs south through the oasis towns and then by the long wells to the northern tent of the toll. From [[place-ghavulavad|Ghavulavad]] the road is nine days over open sand. A guide who knows the Floor charges more than one who does not, and one who knows it well will not take a traveller to the mound itself.
+From the Amradi shore the route runs south through the oasis towns and then by the long wells to the northern tent of the toll. From [[place-ghavulavad|Ghavulavad]] the road is nine days over open sand. A guide who knows the Floor charges more than one who does not, and one who knows it well will not take a traveler to the mound itself.
 
 ## Hooks
 

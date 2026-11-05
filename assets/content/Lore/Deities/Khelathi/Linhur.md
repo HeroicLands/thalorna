@@ -15,7 +15,7 @@ A hunter of [[affiliation-garnul|Gar'Nul]] never invokes **Linhur** alone. He an
 
 What marks Linhur is that his patronage does not end at the kill. His concern is understood to reach the conduct of the hunter, and that is the religious weight behind the guild's standing principle: the beast is a creature of the [[lore-garauu|Gar-Au]]'s lands, and wantonness in killing it offends the gods as much as the imperial order.
 
-In the guild's tradition, Linhur and Linkur are brothers, and the guild swears to both because a brother's judgement is never given alone.
+In the guild's tradition, Linhur and Linkur are brothers, and the guild swears to both because a brother's judgment is never given alone.
 
 ## See Also
 

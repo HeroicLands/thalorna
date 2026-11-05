@@ -403,7 +403,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vajratan is a heavy, square man of fifty, 5'10", with dark brown skin, grey hair cropped to the skull and a rower's shoulders that thirty years of command have not softened. His face is scarred across the left cheek and his hands are knotted from the oar. He dresses like a galley master, in cotton and a leather vest, with a falchion at his hip and a monsoon cloak in the rains.
+Vajratan is a heavy, square man of fifty, 5'10", with dark brown skin, gray hair cropped to the skull and a rower's shoulders that thirty years of command have not softened. His face is scarred across the left cheek and his hands are knotted from the oar. He dresses like a galley master, in cotton and a leather vest, with a falchion at his hip and a monsoon cloak in the rains.
 
 He does not wrap his left wrist. The wrist-line on it is struck through, and he has left it bare at every audience in the Moon House.
 
@@ -433,7 +433,7 @@ Vyalendra's Dutsa has made him an offer. Vyalendra's Triyacharya will speak for 
 
 ### Personality
 
-Vajratan is blunt, patient and very hard to embarrass. He speaks to a Kulena exactly as he speaks to a rower, and he has never once apologised for his birth. He is a careful seaman and a reckless politician, and he knows it.
+Vajratan is blunt, patient and very hard to embarrass. He speaks to a Kulena exactly as he speaks to a rower, and he has never once apologized for his birth. He is a careful seaman and a reckless politician, and he knows it.
 
 He has a long memory for the men who died under his command and a short one for insults.
 
@@ -461,7 +461,7 @@ The Unconfirmed Act
 : His appointment can be set aside without a hearing.
 
 Pride
-: He would rather lose the fleet than be confirmed by a forgery or a favour, and his allies find this exasperating.
+: He would rather lose the fleet than be confirmed by a forgery or a favor, and his allies find this exasperating.
 
 ## Social
 

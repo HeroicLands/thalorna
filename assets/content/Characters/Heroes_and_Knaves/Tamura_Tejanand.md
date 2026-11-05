@@ -420,7 +420,7 @@ sohl:
 
 ![[tmrtjnnd|Tamura Tejanand]]{float=top-left}
 
-Tamura stands 6'0" tall with a medium build. He has golden brown skin, greying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
+Tamura stands 6'0" tall with a medium build. He has golden brown skin, graying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
 
 # Dossier {#dossier}
 

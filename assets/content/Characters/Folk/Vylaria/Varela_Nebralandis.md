@@ -79,7 +79,7 @@ The Temple will not remove Revothar while his villages would rise for him, so sh
 
 ## Plot Hooks
 
-1. **The correspondent.** Varela hires a party travelling to Hilen to carry a sealed letter to a priest of the faith in Polthara, and to bring back whatever he gives them.
+1. **The correspondent.** Varela hires a party traveling to Hilen to carry a sealed letter to a priest of the faith in Polthara, and to bring back whatever he gives them.
 2. **The witness.** Varela wants a villager of Revothar's circuit brought to the capital to give testimony. The villager does not want to come.
 3. **The auditor.** A new imperial auditor is looking at where the Temple's goods go in Polthara. Varela wants to know what the auditor has found before the auditor reports it.
 4. **The grain merchant.** A grain merchant of Polthara who hates Revothar offers Varela evidence for a price. She asks a party to judge whether it is real.

@@ -2371,7 +2371,7 @@ data:
     - form: elztholbema
       class: n f
       field: "The body, life and death"
-      gloss: "the ash-gown; the grey gown worn to a father's tomb"
+      gloss: "the ash-gown; the gray gown worn to a father's tomb"
       source: {kind: coined}
       built: ["elz-", tholbema]
     - form: kalmethandon
@@ -2403,7 +2403,7 @@ data:
     - form: tirmis
       class: n f
       field: "The body, life and death"
-      gloss: "a taste; a flavour (tirmis ol thremuzis, the taste of salt)"
+      gloss: "a taste; a flavor (tirmis ol thremuzis, the taste of salt)"
       concept: taste-noun
       source: {kind: coined}
     - form: tolvis
@@ -3952,7 +3952,7 @@ data:
     - form: elzen
       class: adj
       field: Qualities
-      gloss: "grey; ash-coloured"
+      gloss: "gray; ash-colored"
       concept: grey
       source: {kind: coined}
       built: ["elz-", "-en"]
@@ -5702,7 +5702,7 @@ data:
     - form: "ilthelos"
       class: "adj"
       field: "Qualities"
-      gloss: "light in colour; pale"
+      gloss: "light in color; pale"
       source: {"kind": "coined"}
       concept: ["light-colour", "pale"]
     - form: "silkros"
@@ -7111,7 +7111,7 @@ data:
       field: "Qualities"
       gloss: "light in weight"
       source: {"kind": "coined"}
-      note: "an-, reverse, with solkimos, weighty; does not mean pale in colour."
+      note: "an-, reverse, with solkimos, weighty; does not mean pale in color."
       concept: "light-weight"
     - form: "ralvos"
       class: "adj"
@@ -10706,7 +10706,7 @@ data:
     - form: Ordo Voti Cinerei
       instead: Elztholmeza
       why: "a phrase of an Earth tongue, for the Order of the Ashen Vow"
-    - {form: Cinereus, instead: elza, why: "a word of an Earth tongue, for ash-grey"}
+    - {form: Cinereus, instead: elza, why: "a word of an Earth tongue, for ash-gray"}
     - form: Cinis Ferreus
       instead: Zargelza
       why: "a phrase of an Earth tongue, for the Iron Cinder"

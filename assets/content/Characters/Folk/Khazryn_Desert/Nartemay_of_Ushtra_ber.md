@@ -43,7 +43,7 @@ data:
 
 # Appearance {#appearance}
 
-Nartemay of Ushtra-ber is a 50-year-old man who stands 5'10" tall and is of light build. He has light skin chapped and weathered by the wind off the Eastern Reach, black hair and a close-cropped beard both going grey, a long jaw and dark brown eyes. The tip of his right little finger is gone, lost to frost on the upper terraces as a boy. He dresses in the dark green of the green peak's house, cut as it was cut a century ago, and sits very straight on a plain stone seat. He says nothing to a petitioner until the Keeper of the Tablets has read the petition aloud, and then says only what he has decided.
+Nartemay of Ushtra-ber is a 50-year-old man who stands 5'10" tall and is of light build. He has light skin chapped and weathered by the wind off the Eastern Reach, black hair and a close-cropped beard both going gray, a long jaw and dark brown eyes. The tip of his right little finger is gone, lost to frost on the upper terraces as a boy. He dresses in the dark green of the green peak's house, cut as it was cut a century ago, and sits very straight on a plain stone seat. He says nothing to a petitioner until the Keeper of the Tablets has read the petition aloud, and then says only what he has decided.
 
 # Dossier {#dossier}
 

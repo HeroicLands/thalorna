@@ -25,7 +25,7 @@ Hammerstone is heard before it is seen. From the lake a canoe catches the sound 
 
 The copper of the Copper Lake comes out of the ground pure, and a smith of Hammerstone works it cold. He sets a lump on a flat anvil stone and beats it with a round hammerstone held in both hands, folding and beating it again, until it is a sheet, a bar or the rough shape of a blade. Then he grinds and polishes it with sand and water. Heating the copper in the fire softens it when it has grown hard under the hammer, and that is all the fire is for. A good smith (_tsikenhahen_) makes a copper awl in a morning, a knife in a day and a speaker's throat plate in a month.
 
-Every longhouse of the village has a smith at its door in summer, and the beach below the palisade is littered with the round grey hammerstones that give the village its name, worn smooth and discarded. A smith's apprentice is his sister's son, and he learns first to choose a hammerstone.
+Every longhouse of the village has a smith at its door in summer, and the beach below the palisade is littered with the round gray hammerstones that give the village its name, worn smooth and discarded. A smith's apprentice is his sister's son, and he learns first to choose a hammerstone.
 
 ## The Island
 

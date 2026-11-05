@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Knarvmil Kraldendik is a 34-year-old man who stands 5'11" tall with a heavy build. He has fair skin, smooth complexion, brown hair, and grey eyes.
+Knarvmil Kraldendik is a 34-year-old man who stands 5'11" tall with a heavy build. He has fair skin, smooth complexion, brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

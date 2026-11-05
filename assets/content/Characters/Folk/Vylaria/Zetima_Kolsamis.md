@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Zetima Kolsamis is a 31-year-old woman who stands 5'8" tall and is of light build. She has light skin with a summer's colour on it, brown hair cut short and plain, and level grey eyes. She wears the unadorned robe of a priest of the order-god and carries the temple's witness-book under her arm, and the middle finger of her writing hand is stained with its ink. She speaks quietly and exactly, and she waits for an answer.
+Zetima Kolsamis is a 31-year-old woman who stands 5'8" tall and is of light build. She has light skin with a summer's color on it, brown hair cut short and plain, and level gray eyes. She wears the unadorned robe of a priest of the order-god and carries the temple's witness-book under her arm, and the middle finger of her writing hand is stained with its ink. She speaks quietly and exactly, and she waits for an answer.
 
 # Dossier {#dossier}
 

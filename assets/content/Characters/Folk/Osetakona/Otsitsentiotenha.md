@@ -44,7 +44,7 @@ The war leader, [[being-tiahwentahkon|Tiahwentahkon]], followed the raiders sout
 
 The third captive taken from New Clearing, a girl of twelve of the Sturgeon clan, was not brought back because she would not come. She is Otsitsentiotenha's sister's daughter. A household of the One Fire's northern landing has taken her in as a daughter, and she has sent word north with a trader that she is well and means to stay. Otsitsentiotenha knows this and has told no one, because a mourning war would be fought against the town where her sister's daughter lives.
 
-A party travelling south from New Clearing into the One Fire's country may be asked by her to carry something small, a belt or a pair of moccasins, to a household she does not name until the party has agreed.
+A party traveling south from New Clearing into the One Fire's country may be asked by her to carry something small, a belt or a pair of moccasins, to a household she does not name until the party has agreed.
 
 What she wants is no mourning war sent against the town where her sister's daughter lives.
 

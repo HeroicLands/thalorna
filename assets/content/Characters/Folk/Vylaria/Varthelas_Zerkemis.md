@@ -37,7 +37,7 @@ data:
 
 # Appearance {#appearance}
 
-Varthelas Zerkemis is a 58-year-old man who stands 5'10" tall and is of light build. He has olive skin gone sallow from fasting, dark eyes, and a head shaved to the skin, with black brows going grey above them. He wears the grey robe of the priesthood of Sélmoros, the Silent Judge, with a knotted cord at the left wrist, and his long hands are usually folded inside his sleeves. He speaks seldom and quietly, waits a long moment before he answers anything, and does not fill a silence for anyone's comfort.
+Varthelas Zerkemis is a 58-year-old man who stands 5'10" tall and is of light build. He has olive skin gone sallow from fasting, dark eyes, and a head shaved to the skin, with black brows going gray above them. He wears the gray robe of the priesthood of Sélmoros, the Silent Judge, with a knotted cord at the left wrist, and his long hands are usually folded inside his sleeves. He speaks seldom and quietly, waits a long moment before he answers anything, and does not fill a silence for anyone's comfort.
 
 # Dossier {#dossier}
 

@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Marvinda Murvendik is a 29-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, ruddy complexion, dark blonde hair, and grey eyes.
+Marvinda Murvendik is a 29-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, ruddy complexion, dark blonde hair, and gray eyes.
 
 # Dossier {#dossier}
 

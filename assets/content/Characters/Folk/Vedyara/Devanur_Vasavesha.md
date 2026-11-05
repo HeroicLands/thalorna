@@ -401,7 +401,7 @@ It came in late every year he reigned. A Maharava of the march who cannot pay th
 
 ## The Collar
 
-In the last years of his reign Devanur ordered from [[being-prtmjkydr|Pritimaja Kayadara]] at [[place-chendrapur2|the Moon City]] a collar for his heir to be confirmed in. It was to be of gold bought on the road from the west and lapis from [[place-slvrgorges|the Silver Gorges]], heavier and finer than the old collar, and made by the most celebrated jeweller in the region. Devanur paid for the materials and half the fee out of a treasury that owed the companies a season's wages.
+In the last years of his reign Devanur ordered from [[being-prtmjkydr|Pritimaja Kayadara]] at [[place-chendrapur2|the Moon City]] a collar for his heir to be confirmed in. It was to be of gold bought on the road from the west and lapis from [[place-slvrgorges|the Silver Gorges]], heavier and finer than the old collar, and made by the most celebrated jeweler in the region. Devanur paid for the materials and half the fee out of a treasury that owed the companies a season's wages.
 
 He meant the Martial Council to see a rich crown at the confirmation and not to count it. He died before the collar was finished, and his son was confirmed in the old one. Pritimaja has since abandoned the piece because it would not come out as he had promised.
 

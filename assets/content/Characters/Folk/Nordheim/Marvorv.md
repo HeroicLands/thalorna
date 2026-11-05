@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Marvorv is a 58-year-old man who stands 5'11" tall with a medium build. He has light skin, weathered complexion, auburn hair, and grey eyes.
+Marvorv is a 58-year-old man who stands 5'11" tall with a medium build. He has light skin, weathered complexion, auburn hair, and gray eyes.
 
 # Dossier {#dossier}
 

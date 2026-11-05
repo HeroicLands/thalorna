@@ -34,7 +34,7 @@ The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard
 
 **Purpose.** Show the pass road's dead, and give the party a reason to go through the howe and not around it.
 
-**Situation.** Half a day below the fell the road narrows, and a line of waist-high cairns follows it up the slope. At dusk the cairns have men standing at them. They are grey with rime, their eyes are shut, and they wear mail of a make that nobody now remembers. A traveler who passes one hears a question in the old speech of the halls: _who holds the pass?_ The answer decides what happens next.
+**Situation.** Half a day below the fell the road narrows, and a line of waist-high cairns follows it up the slope. At dusk the cairns have men standing at them. They are gray with rime, their eyes are shut, and they wear mail of a make that nobody now remembers. A traveler who passes one hears a question in the old speech of the halls: _who holds the pass?_ The answer decides what happens next.
 
 **NPCs and threats.** The war-band of Unthmil, the **Eidnár**, the oath-corpses. They are stiff, courteous and entirely without mercy toward a lie. The old men of the herders say a traveler who answers with an oath of his own is let through, and a traveler who gives an answer the dead cannot take is held at the cairn until morning and not seen again at the next stead. The Eidnár do not chase. They stand where they stood and wait.
 
@@ -82,7 +82,7 @@ The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard
 
 **Purpose.** The confrontation with the hall-lord, his captor and the oath.
 
-**Situation.** At the stern, in the carved high seat, sits Unthmil, a tall grey man rimed to the beard, with a broken sword across his knees. Beside the seat stands Knirvthann with a bowl of black glass shards in his hands. He has come to bind the hall-lord. A rune-circle is scratched around the seat and lit with lamps burning grave-fat. When the party arrives, Knirvthann is in the middle of the rite.
+**Situation.** At the stern, in the carved high seat, sits Unthmil, a tall gray man rimed to the beard, with a broken sword across his knees. Beside the seat stands Knirvthann with a bowl of black glass shards in his hands. He has come to bind the hall-lord. A rune-circle is scratched around the seat and lit with lamps burning grave-fat. When the party arrives, Knirvthann is in the middle of the rite.
 
 **NPCs and threats.** Unthmil is the oath-bound lord of the pass, courteous to the last, and capable of killing a person who offers him an insult. Knirvthann is a Drottmadur of Nalok, a middle-aged man with soot-black fingernails and the quiet voice of a clerk, who serves the hidden hov at Dvilgvatan. He is not a fighter. He believes that the dead of this howe are owed rest and that Nahild will give it to them, and he is half right and wholly sure. The war-band wakes at his word.
 

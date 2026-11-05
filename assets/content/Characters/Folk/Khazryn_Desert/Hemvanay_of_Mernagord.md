@@ -41,7 +41,7 @@ data:
 
 # Appearance {#appearance}
 
-Hemvanay of Mernagord is a 63-year-old man who stands 5'9" tall and is of medium build. He has tanned skin weathered and lined by sixty summers on the edge of the salt pans, white hair, a white beard trimmed square, and brown eyes that look tired until he is interested. His hands are cracked from salt, because he walks the pans with the Warden every spring and puts his hand in the brine to judge it. He dresses in the grey-green of the wind peak's house, good wool, a little out of the Kingdom's fashion. He listens with his head on one side, nods often, and agrees to nothing in the room where it is asked.
+Hemvanay of Mernagord is a 63-year-old man who stands 5'9" tall and is of medium build. He has tanned skin weathered and lined by sixty summers on the edge of the salt pans, white hair, a white beard trimmed square, and brown eyes that look tired until he is interested. His hands are cracked from salt, because he walks the pans with the Warden every spring and puts his hand in the brine to judge it. He dresses in the gray-green of the wind peak's house, good wool, a little out of the Kingdom's fashion. He listens with his head on one side, nods often, and agrees to nothing in the room where it is asked.
 
 # Dossier {#dossier}
 

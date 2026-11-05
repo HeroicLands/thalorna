@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Kaldremas Elthezis is a 74-year-old man who stands 5'8" tall and is of light build, and he has grown thinner over the winter than his clothes allow for. He has light skin gone wan and creased, white hair kept short by his household, and grey eyes. He is seldom seen outside the house on the north hill at Vennara, and the few who are let in find him in a chair by the window in a senator's gown that hangs loose on him. His seal is a ram above a wheatsheaf.
+Kaldremas Elthezis is a 74-year-old man who stands 5'8" tall and is of light build, and he has grown thinner over the winter than his clothes allow for. He has light skin gone wan and creased, white hair kept short by his household, and gray eyes. He is seldom seen outside the house on the north hill at Vennara, and the few who are let in find him in a chair by the window in a senator's gown that hangs loose on him. His seal is a ram above a wheatsheaf.
 
 # Dossier {#dossier}
 

@@ -22,7 +22,7 @@ A woman who has worked the curing-houses since girlhood shows a new hand the lin
 
 ## Arriving
 
-The pans are seen before the town: a flat country of shallow square basins along the shore, mile after mile of them, divided by low banks of clay and fed by a single channel from the sea. In summer the basins are every color from grey-green to pink to white as the water thickens, and the light off them hurts the eyes at noon. The salt is raked into heaps along the banks, each heap as tall as a man and capped with reed thatch against the rain, and the heaps run in lines toward the town like the tents of an army.
+The pans are seen before the town: a flat country of shallow square basins along the shore, mile after mile of them, divided by low banks of clay and fed by a single channel from the sea. In summer the basins are every color from gray-green to pink to white as the water thickens, and the light off them hurts the eyes at noon. The salt is raked into heaps along the banks, each heap as tall as a man and capped with reed thatch against the rain, and the heaps run in lines toward the town like the tents of an army.
 
 The town stands on a low rise at the landward edge of the pans, a cluster of flat roofs round a harbor too shallow for anything bigger than a coasting boat. The curing-houses line the harbor, and the boats of the lesser villages come in every morning to unload into them. Above the curing-houses, on the highest ground, stand the five houses of the pan-owning families, each with a walled yard where its salt is weighed and stored, and each with a tower from which its steward can see the whole of its pans.
 

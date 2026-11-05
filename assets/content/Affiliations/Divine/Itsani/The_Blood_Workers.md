@@ -104,7 +104,7 @@ The workings a band spends are the ones a city spends, in set forms learned whol
 
 The order recruits from the captive-hunts. A warrior who takes a captive alive and presents him to the Dedicator may ask to be tested, and the Master of Ishtal'hun takes those who took cleanly, without maiming the captive or losing a man. Most are Ts'omilbal, younger sons of lord-houses, and the order ordains them as priests of the sun before they march. A few are Ch'alishbal of the sun's branch who have fought. Commoners who take a captive are accepted on the same terms and are more numerous at Q'aptel'ul Ne'ok than anywhere else.
 
-A Blood-Worker who kills a captive he could have taken is **Spent**. The order expels him, the temple counts the dead captive against his city's ledger, and the Spent are commonly found afterwards in the southern garrison's secular companies, where nobody asks.
+A Blood-Worker who kills a captive he could have taken is **Spent**. The order expels him, the temple counts the dead captive against his city's ledger, and the Spent are commonly found afterward in the southern garrison's secular companies, where nobody asks.
 
 ## Relations
 

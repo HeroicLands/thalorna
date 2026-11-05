@@ -3,7 +3,7 @@ shortcode: revothakalme
 name: {full: Revotha Kalmethis, en: [Magistrate Revotha Kalmethis the Strict, Magistrate Revotha]}
 type: being
 subType: npc
-description: "A magistrate of the province's bench at Tirellan, called the Strict for the harshness of her sentences, who values the gaoler Zerofon Kalmakanes because the punishments she gives are carried out exactly as given."
+description: "A magistrate of the province's bench at Tirellan, called the Strict for the harshness of her sentences, who values the jailer Zerofon Kalmakanes because the punishments she gives are carried out exactly as given."
 tags: []
 data:
   icon: icon-person
@@ -39,7 +39,7 @@ Revotha Kalmethis is a 36-year-old woman who stands 5'8" tall and is of medium b
 
 Revotha Kalmethis is a magistrate of [[affiliation-provncmktr|the Province of Moktur]], sitting at [[place-tyrellan|Tirellan]] in the courts the _therkos_ commands. She is called the Strict, and she has earned the name: thieves, debtors to the revenue and men who draw a blade in the city's streets leave her bench with the longest sentences the law allows, and many of them go up the rock road to Kezrora, the province's great prison above [[place-sanctara|Ulthora]].
 
-She values the prison's gaoler, [[being-xrphnklmkns|Zerofon Kalmakanes]], because he carries out her sentences exactly as she gives them, without cruelty and without mercy. She does not know him well and has no wish to.
+She values the prison's jailer, [[being-xrphnklmkns|Zerofon Kalmakanes]], because he carries out her sentences exactly as she gives them, without cruelty and without mercy. She does not know him well and has no wish to.
 
 ## Background
 
@@ -71,7 +71,7 @@ She has no mercy to give and little curiosity about a case once she has judged i
 
 ### Others
 
-- [[being-xrphnklmkns|Zerofon Kalmakanes]]: The gaoler of Kezrora, whose reliability she values and whose doubts she has never asked about.
+- [[being-xrphnklmkns|Zerofon Kalmakanes]]: The jailer of Kezrora, whose reliability she values and whose doubts she has never asked about.
 
 ### Affiliations
 

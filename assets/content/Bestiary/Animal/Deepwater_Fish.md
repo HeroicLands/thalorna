@@ -205,7 +205,7 @@ The Deepwater Fish, _koavanu_ in [[skill-kalihrlng|Kalihari]], "deep water", is 
 
 ## Presentation
 
-A pale, heavy, long-bodied fish, whitish-grey and almost translucent along the belly, with a broad flat head, a wide toothless mouth under the snout, four long barbels and eyes that are no more than dark specks. The skin is smooth and scaleless. It moves slowly with a sweep of the tail.
+A pale, heavy, long-bodied fish, whitish-gray and almost translucent along the belly, with a broad flat head, a wide toothless mouth under the snout, four long barbels and eyes that are no more than dark specks. The skin is smooth and scaleless. It moves slowly with a sweep of the tail.
 
 ## In the Land
 

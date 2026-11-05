@@ -58,11 +58,11 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **Purpose.** Roleplay: the Court's politics, the reach of its oaths, and the first sign that something is wrong.
 
-**Situation.** The audience hall is a long timber room with a roof of leopard pelts. Delegations from the neighbouring tribes sit along the walls in the order they arrived, and the Speaker takes the gifts of each. A carved seat at the head holds a heap of spotted fur and nothing else. At its side stands the Speaker.
+**Situation.** The audience hall is a long timber room with a roof of leopard pelts. Delegations from the neighboring tribes sit along the walls in the order they arrived, and the Speaker takes the gifts of each. A carved seat at the head holds a heap of spotted fur and nothing else. At its side stands the Speaker.
 
 **NPCs and threats.**
 
-- **The Speaker.** A calm, grey-haired woman in a plain cloak, who speaks with open hands and gives the King's judgments in his name. She is intelligent, careful and tired. She does not lie, but she chooses what to say. She tests the party's honesty with small questions.
+- **The Speaker.** A calm, gray-haired woman in a plain cloak, who speaks with open hands and gives the King's judgments in his name. She is intelligent, careful and tired. She does not lie, but she chooses what to say. She tests the party's honesty with small questions.
 - [Red-Spear]{.name data-type="being/npc"}. The Court's war-leader, a young man with a red-painted spear and a dangerous smile, who wants the King to rule openly and thinks the Speaker is hiding something. He seeks allies among visitors.
 - **The delegations.** The honey-gatherers want to send less than they did. The river-folk want iron. A mute envoy from a deep-forest people brings a carved pole and will not say why.
 
@@ -73,7 +73,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 - _Guile:_ play Red-Spear against the Speaker.
 - _Parley:_ swear a bargain at court. The Court says its oaths are struck under the notice of the leopard-guide, and the Speaker offers the party a place at the King's table.
 
-**Clues and rewards.** The King's seat is never occupied in daylight. The Speaker says the King comes at night. A servant lets slip that the King's cloak is changed every morning, and the old ones are burnt.
+**Clues and rewards.** The King's seat is never occupied in daylight. The Speaker says the King comes at night. A servant lets slip that the King's cloak is changed every morning, and the old ones are burned.
 
 **Consequences.** A bargain sworn here binds the party to the Court's justice. An enemy made of Red-Spear shows up again in Scene Four.
 
@@ -92,7 +92,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **Player choices.**
 
-- _Force:_ stand and fight the cat. It breaks off from a determined defence, and the Guard watches.
+- _Force:_ stand and fight the cat. It breaks off from a determined defense, and the Guard watches.
 - _Stealth:_ hide in the gardens and wait out the dawn.
 - _Guile:_ lead the cat to Red-Spear's quarters, or to the gift-store, and turn the Hunt on someone else.
 - _Parley:_ speak to the cat. It listens. A party member who has the leopard-guide's token, or the [Sengala Language]{.name data-type="skill/language"}, may be heard.
@@ -145,14 +145,14 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **Clues and rewards.** The treasure is modest: ivory, dye, hardwood and the iron, but no coin, which the interior does not use. The Speaker's account is the true reward. The gifts feed the hunters who patrol the rim of [[place-slntclrng|the Silent Clearing]], where the forest's undead rise. The King's night hunts are patrols. His leopard-shape walks the rim in the dark, where torchlight would draw the dead.
 
-**Consequences.** The twist: the Court is not a tyrant. It is a watch. The neighbours give out of fear of the King, and the gifts keep a wall against the dead, with the King as its sentry. The rite will fail within a few years, and the Court knows it.
+**Consequences.** The twist: the Court is not a tyrant. It is a watch. The neighbors give out of fear of the King, and the gifts keep a wall against the dead, with the King as its sentry. The rite will fail within a few years, and the Court knows it.
 
 **If bypassed.** If the party leaves, the Speaker finds them on the trail and asks them to carry a message to the Sengala.
 
 ## Aftermath
 
-- **If the King lives and the rite ends,** the Court loses its sentry, and the neighbours' gifts falter. Red-Spear takes power, and the rim goes unwatched.
+- **If the King lives and the rite ends,** the Court loses its sentry, and the neighbors' gifts falter. Red-Spear takes power, and the rim goes unwatched.
 - **If the King lives and the rite continues,** the Court holds, and the King's lucid hours grow shorter.
-- **If the King is killed,** the neighbouring tribes stop sending gifts and fall back on their feuds, and the Quiet Dead reach the river tribes within a few seasons.
+- **If the King is killed,** the neighboring tribes stop sending gifts and fall back on their feuds, and the Quiet Dead reach the river tribes within a few seasons.
 - **If the party plunders the store,** the iron leaves the interior, and the river-folk pay for it.
 - **If the Sengala learn the secret,** they ask whether the leopard-guide has been called by a false name, and they send a Spirit-Speaker to see.

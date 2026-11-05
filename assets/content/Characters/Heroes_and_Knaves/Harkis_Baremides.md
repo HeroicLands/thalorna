@@ -423,7 +423,7 @@ sohl:
 
 ![[hrkhsbrmyds|Harkis Baremides]]{float=top-left}
 
-Harkis stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
+Harkis stands 5'8" tall with a medium build. He has light ruddy skin, gray hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
 
 # Dossier {#dossier}
 

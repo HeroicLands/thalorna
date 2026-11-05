@@ -459,7 +459,7 @@ data:
     - form: bendya
       class: adj
       field: "Mountain, forest, field and the shapes of the land"
-      gloss: "barren; of ground, that will not take a plough"
+      gloss: "barren; of ground, that will not take a plow"
     - form: margha
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
@@ -1533,7 +1533,7 @@ data:
     - form: talma
       class: n
       field: Kin, household and the person
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       concept: taste-noun
       source: {kind: coined}
     - form: parku
@@ -2067,7 +2067,7 @@ data:
     - form: talnu
       class: v
       field: Kin, household and the person
-      gloss: to taste; to detect a flavour in the mouth
+      gloss: to taste; to detect a flavor in the mouth
       concept: taste-verb
       source: {kind: coined}
     - form: partu
@@ -3167,7 +3167,7 @@ data:
     - form: sutkakoda
       class: n
       field: Craft, trade and the counting-house
-      gloss: a basket; a vessel woven from flexible strips or fibres
+      gloss: a basket; a vessel woven from flexible strips or fibers
       concept: basket
       built: [sutka, koda]
       source: {kind: coined}
@@ -3195,7 +3195,7 @@ data:
     - form: sultu
       class: n
       field: Craft, trade and the counting-house
-      gloss: a cord; a length of twisted or braided fibre
+      gloss: a cord; a length of twisted or braided fiber
       concept: cord
       source: {kind: coined}
     - form: sutkashirka
@@ -3293,7 +3293,7 @@ data:
     - form: lerkaralmu
       class: n
       field: Craft, trade and the counting-house
-      gloss: wool; fibre from a sheep's fleece
+      gloss: wool; fiber from a sheep's fleece
       concept: wool
       built: [lerka, ralmu]
       source: {kind: coined}
@@ -3732,7 +3732,7 @@ data:
     - form: bhosmak
       class: adj
       field: Kin, household and the person
-      gloss: grey
+      gloss: gray
       concept: grey
       source: {kind: coined}
     - form: bhumrak
@@ -3744,13 +3744,13 @@ data:
     - form: surbor
       class: adj
       field: Kin, household and the person
-      gloss: light in colour; having a high brightness value
+      gloss: light in color; having a high brightness value
       concept: light-colour
       source: {kind: coined}
     - form: borlin
       class: adj
       field: Kin, household and the person
-      gloss: pale; weak or washed out in colour
+      gloss: pale; weak or washed out in color
       concept: pale
       source: {kind: coined}
     - form: dirmun
@@ -5989,14 +5989,14 @@ data:
     - form: mo jnenru
       class: call
       field: Speech, learning and the written word
-      gloss: I understand; an acknowledgement that the meaning is grasped
+      gloss: I understand; an acknowledgment that the meaning is grasped
       concept: expression-i-understand
       built: [mo, jnenru]
       source: {kind: coined}
     - form: mo uvas jnenru
       class: call
       field: Speech, learning and the written word
-      gloss: I do not understand; an acknowledgement that the meaning is not grasped
+      gloss: I do not understand; an acknowledgment that the meaning is not grasped
       concept: expression-i-do-not-understand
       built: [mo, uvas, jnenru]
       source: {kind: coined}
@@ -7281,7 +7281,7 @@ data:
     - form: "ruknu"
       class: "adj"
       field: "Doing, going and being"
-      gloss: "grey"
+      gloss: "gray"
       source: {kind: coined}
     - form: "angchel"
       class: "n"
@@ -8433,15 +8433,15 @@ Vedyari has two registers, and they sound alike but end differently. The classic
 
 **The vowels.** _a_ carries most words, with _i_ and _u_ after it. _e_ and _o_ are rarer, and few words open on them. Two vowels stand together only as _ai_ and _au_.
 
-**The consonants.** _r_ and _n_ lead. The plain stops _t_, _k_, _d_ and _p_ come next, then _s_, _m_ and _v_, with _sh_ and _j_ for colour. _bh_ /bʱ/ is common in new words, as in _bharava_ and _bhurka_: a _b_ said with a breath after it, the two letters as the guide reads them, said together. Vedyari writes _bh_, as the guide allows a tongue whose note says so. _kh_ and _gh_ keep the guide's throat sounds and belong to a smaller, older set of words, such as _ghaul_ "night" and _okhra_ "a loom"; most of them stand at the start of a syllable. A new word reaches for a stop before a _v_ or an _r_.
+**The consonants.** _r_ and _n_ lead. The plain stops _t_, _k_, _d_ and _p_ come next, then _s_, _m_ and _v_, with _sh_ and _j_ for color. _bh_ /bʱ/ is common in new words, as in _bharava_ and _bhurka_: a _b_ said with a breath after it, the two letters as the guide reads them, said together. Vedyari writes _bh_, as the guide allows a tongue whose note says so. _kh_ and _gh_ keep the guide's throat sounds and belong to a smaller, older set of words, such as _ghaul_ "night" and _okhra_ "a loom"; most of them stand at the start of a syllable. A new word reaches for a stop before a _v_ or an _r_.
 
-**Clusters.** Consonants meet in a few favoured pairs and triples inside a word: _ndr_, _shr_, _kr_, _dr_, _vr_ and _pr_. A word opens on at most two consonants together. _ksh_ stands inside a word, as in _akshora_, never at its start.
+**Clusters.** Consonants meet in a few favored pairs and triples inside a word: _ndr_, _shr_, _kr_, _dr_, _vr_ and _pr_. A word opens on at most two consonants together. _ksh_ stands inside a word, as in _akshora_, never at its start.
 
 **Endings.** A classical word ends on a vowel, most often _-a_: the gods _Rasikara_ and _Kalavrata_, the titles _maharava_ and _senapavi_, the words _dorma_ "duty" and _janpoda_. A person or a thing done ends in _-ona_, _-ika_, _-in_, _-ini_ or _-ija_, and a lord or a god in _-endra_, _-esha_ or _-deva_. The spoken word may close on one consonant, _n_, _r_, _t_, _k_, _s_, _l_, _m_ or _d_, or on _nd_: _lam_ "a child", _ghal_ "a sword", _daum_ "eight". A place people travel to closes the same way: a town in _-pur_, a village in _-gram_, a landing in _-ghat_, a fort in _-kot_, a pass in _-dvar_, a peak in _-shikhar_, a grove in _-ban_, a ground in _-stal_, a seat in _-stan_, a bank in _-tir_, and a keeper's land in _-pal_; a hero's name ends in _-bir_ or _-bira_; a weekday ends in _-var_. A given name ends on _-a_, _-i_ or a consonant (_Chandreli_, _Shilabir_, _Jayanit_); a clan name more often on a vowel.
 
 **Built names.** A name is one word or two joined, seldom three: _Chandreli_ is _chendra_ and _sundeli_, "moon, the beautiful", and _Danurkirti_ is "bow-fame". A name of five syllables or more is an old name or a title.
 
-**Verse.** Vedyari verse counts syllables, by the count given under calling names below, and does not rhyme. Most of its forms are couplets (_poksa_), a long line answered by a short one: the recitation and the sworn oath of ten and six, the catechism of twelve and eight, the dialogue of fourteen and seven, and the epic couplet of sixteen and eight, whose long line breaks near its middle. The laments of the march companies keep one short line of seven, and their spoken close stands outside the count. The craft is in return and echo: a refrain the hearers answer, a close repeated with one word changed, a formula that comes back through a catalogue, and a sound doubled within a line, as in _jvelaka jvelak_, "kindles the lamp".
+**Verse.** Vedyari verse counts syllables, by the count given under calling names below, and does not rhyme. Most of its forms are couplets (_poksa_), a long line answered by a short one: the recitation and the sworn oath of ten and six, the catechism of twelve and eight, the dialogue of fourteen and seven, and the epic couplet of sixteen and eight, whose long line breaks near its middle. The laments of the march companies keep one short line of seven, and their spoken close stands outside the count. The craft is in return and echo: a refrain the hearers answer, a close repeated with one word changed, a formula that comes back through a catalog, and a sound doubled within a line, as in _jvelaka jvelak_, "kindles the lamp".
 
 **What Vedyari leaves out.** It has no _th_ and no _dh_, since the guide reads both as the sounds of _thin_ and _this_, and no _ph_; the sound of _f_ is written _f_. It avoids _lv_ and the endings of [[skill-helonclng|Helonic Language]], _-os_ and _-is_. No word closes on two consonants but _nd_, and none closes on _sh_, _kh_, _bh_, _v_ or _h_.
 
@@ -8527,7 +8527,7 @@ _Sotya_ is truth; _sotyanyur_ is a person's certainty that a claim is true, whic
 
 The ordinary spoken verbs _darka_ “see”, _bhinu_ “hear” and _ushta_ “hold” are related words beside the bound citations _darsh-_, _bhin-_ and _usht-_. Each is a free word in its own right. _Mo surta darka_ means “I see the sun”; _mo ravha bhinu_, “I hear a voice”; and _mo jalka ushta_, “I hold water”. These examples use the subject first, then the object and the action. The old formal _ushtami_ remains in the devotion formula below.
 
-_Mo virmu virna_ is “I smell a scent”; _mo talma talnu_, “I taste a flavour”; _mo pomba partu_, “I touch a hand”; and _mo sarnu sarpu_, “I feel a bodily sensation”. _Mo surta darmu_ means “I look at the sun”. With _nyura_, sustained attention, _mo surta nyura darmu_ is “I watch the sun”, and _mo ravha nyura bhinu_ is “I listen to a voice”. _Mo tirma smirdak_ is “I recognize the name”. _Ehu sundora dirma_ means “This seems beautiful”.
+_Mo virmu virna_ is “I smell a scent”; _mo talma talnu_, “I taste a flavor”; _mo pomba partu_, “I touch a hand”; and _mo sarnu sarpu_, “I feel a bodily sensation”. _Mo surta darmu_ means “I look at the sun”. With _nyura_, sustained attention, _mo surta nyura darmu_ is “I watch the sun”, and _mo ravha nyura bhinu_ is “I listen to a voice”. _Mo tirma smirdak_ is “I recognize the name”. _Ehu sundora dirma_ means “This seems beautiful”.
 
 For an emotional feeling, _mo tranka ushta_ means “I feel anger”, literally “I hold anger”; _mo anonda ushta_ is “I feel joy”, and _mo shardun ushta_ is “I feel regret”. These are ordinary feeling expressions. They do not describe bodily sensation, for which _sarpu_ is used.
 
@@ -8589,7 +8589,7 @@ _Mo nu dvarna muku vrannuk_ means “I permit you to open the door”; _mo nu dv
 
 The formal greeting _Agarana dulipati, vandikana_ is kept as the whole formula of respect to an elder given below. The friendly _nu kalnu orsa_ wishes the hearer health, on meeting or parting. _Nu atki orsa_ welcomes someone as a guest. These are fixed calls in their own right. So are the addressed requests _nu nyura bhinu_ “Listen”, _nu darmu_ “Look”, _nu nirpak_ “Wait”, _nu mo shempal_ “Help me”, _nu brondu_ “Stop”, and _nu mo vimbhu_ “Forgive me”. Their words can be used directly in these calls.
 
-_Nimbra shem_ marks a polite request, “Please”. _Nimbra shem, mo jahnuk_ asks for attention, “Excuse me; I ask”. After a favour, _mo pratnu lampu_ is the addressed thanks; _pratnu uvas nyakun orsa_ replies that thanks are not required. _Mo shardun ushta_ expresses regret, “I am sorry”. _Nu ehu stalu tral hauvu_ asks someone to come here, and _nu durul chambu_ asks them to go away.
+_Nimbra shem_ marks a polite request, “Please”. _Nimbra shem, mo jahnuk_ asks for attention, “Excuse me; I ask”. After a favor, _mo pratnu lampu_ is the addressed thanks; _pratnu uvas nyakun orsa_ replies that thanks are not required. _Mo shardun ushta_ expresses regret, “I am sorry”. _Nu ehu stalu tral hauvu_ asks someone to come here, and _nu durul chambu_ asks them to go away.
 
 _Mo jnenru_ says “I understand”; _mo uvas jnenru_, “I do not understand”. _Nu ro shaltun kevu orsa?_ asks “What do you mean?”. _Nu ehu vedyari bhe kevu pantra shem lampu?_ asks how to say this in Vedyari; _ehu ro tirma kevu orsa?_ asks what it is called. _Ehu sotyak orsa su?_ asks “Really?”, seeking confirmation. _Kevu?_ requests repetition or clarification; _vramul!_ requests it again. _Kartul uvas_ gives the complete negative response “Not at all”.
 

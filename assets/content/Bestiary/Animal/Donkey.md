@@ -258,7 +258,7 @@ Donkeys are kept in every country where a road is rough: the hill villages of th
 
 ## Key Behaviors
 
-Donkeys live in herds and bond with other donkeys and with people. They remember routes, recognize handlers and prefer some companions. They will not do what they think is dangerous, which looks like stubbornness and is a sound judgement. They defend the space they hold. They live long, and each develops a strong character of its own with clear likes and dislikes.
+Donkeys live in herds and bond with other donkeys and with people. They remember routes, recognize handlers and prefer some companions. They will not do what they think is dangerous, which looks like stubbornness and is a sound judgment. They defend the space they hold. They live long, and each develops a strong character of its own with clear likes and dislikes.
 
 ## What the Caravans Do
 

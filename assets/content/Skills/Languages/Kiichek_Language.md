@@ -843,7 +843,7 @@ data:
     - form: p'il
       class: part
       field: Everyday speech
-      gloss: in colour; qualifies an appearance rather than weight
+      gloss: in color; qualifies an appearance rather than weight
     - {form: p'ilash, class: n, field: Everyday speech, gloss: a visible pattern}
     - form: ch'ikalik
       class: adj
@@ -1002,7 +1002,7 @@ data:
     - form: nal'ichel
       class: n
       field: Everyday speech
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       concept: taste-noun
     - form: p'ishan
       class: v
@@ -1089,7 +1089,7 @@ data:
       class: n
       field: Everyday speech
       gloss: boasting
-      note: Conventionally self-praising talk; literally speech of high standing. It names the behaviour, not every important speech.
+      note: Conventionally self-praising talk; literally speech of high standing. It names the behavior, not every important speech.
       concept: boasting
     - {form: kul'ishal, class: n, field: Everyday speech, gloss: pride, concept: pride}
     - {form: ch'ashul, class: n, field: Everyday speech, gloss: lust, concept: lust}
@@ -2091,21 +2091,21 @@ data:
     - form: p'uqan ch'upul
       class: adj
       field: Everyday speech
-      gloss: grey
-      note: "Black-white: the conventional mixed-colour expression for grey."
+      gloss: gray
+      note: "Black-white: the conventional mixed-color expression for gray."
       concept: grey
     - {form: sh'akulik, class: adj, field: Everyday speech, gloss: brown, concept: brown}
     - form: k'inishik p'il
       class: adj
       field: Everyday speech
-      gloss: light in colour
-      note: Bright in colour; p'il explicitly restricts the quality to colour rather than weight.
+      gloss: light in color
+      note: Bright in color; p'il explicitly restricts the quality to color rather than weight.
       concept: light-colour
     - form: ch'upikash
       class: adj
       field: Everyday speech
       gloss: pale
-      note: Pale or washed-out in colour; distinct from light in weight.
+      note: Pale or washed-out in color; distinct from light in weight.
       concept: pale
     - form: k'ayishik nalich
       class: adj
@@ -3910,7 +3910,7 @@ Ki'i'chek employs a complex hieroglyphic writing system that encodes both phonet
 
 ## How Ki'i'chek sounds
 
-Ki'i'chek is clipped and glottal, built of short syllables with separately sounded catches in the throat. Its flavour palette favours k, ch, ts and sh, clear vowels, and endings such as -al, -ik, -ul, -mah and -bal. Common words stay short. Avoid dense new clusters, obligatory pitch marks and strings of apostrophes.
+Ki'i'chek is clipped and glottal, built of short syllables with separately sounded catches in the throat. Its flavor palette favors k, ch, ts and sh, clear vowels, and endings such as -al, -ik, -ul, -mah and -bal. Common words stay short. Avoid dense new clusters, obligatory pitch marks and strings of apostrophes.
 
 **The vowels.** _a_, _i_, _u_ and _e_, with _o_ rarer.
 
@@ -4027,7 +4027,7 @@ Counting remains base twenty. _Olek' lishe_ is thirteen; _q'o ts'ob lishe_ is fo
 
 Add _ts'ek_ after a complete cardinal to give its position: _pe' ts'ek_, first; _olek' pe' ts'ek_, eleventh; _ts'ob q'o ts'ek_, twenty-second. This applies to later ordinals without a new list of number words. _Q'o p'ek_ is one of two equal divisions, half; _mushe p'ek_ is one of four, a quarter. For more than one share, state the numerator with the portion noun: _lishe p'ekel kil mushe p'ek_, three portions of a quarter, or three quarters. _Pe' pe'_ distributes one by one; _kesh pe' pe'_ says every member. _Shu kish_ answers none, whereas _ts'amal_ is the numeral zero.
 
-_Tsash_ gives more, _tsish_ less and _ts'ash_ enough for the relevant purpose. _P'ekik_ is equal. _Ha'nal ch'akal tsash na ts'ashal tsi' k'alish_ means “The river is bigger than that”: the standard follows the whole group _na ts'ashal_. _Nal'esh tsash_ means better, and _nal'esh tsash kesh_ best in the comparison set. _Kul'ukal tsil_, light in weight, does not describe colour; _k'inishik p'il_ explicitly means light in colour. _Tsal tq'an ts'ikal_ says too much, much beyond the limit; _tsil shu ts'ash_, too little, an insufficient small quantity.
+_Tsash_ gives more, _tsish_ less and _ts'ash_ enough for the relevant purpose. _P'ekik_ is equal. _Ha'nal ch'akal tsash na ts'ashal tsi' k'alish_ means “The river is bigger than that”: the standard follows the whole group _na ts'ashal_. _Nal'esh tsash_ means better, and _nal'esh tsash kesh_ best in the comparison set. _Kul'ukal tsil_, light in weight, does not describe color; _k'inishik p'il_ explicitly means light in color. _Tsal tq'an ts'ikal_ says too much, much beyond the limit; _tsil shu ts'ash_, too little, an insufficient small quantity.
 
 ### Questions, denials and the scope of a claim
 

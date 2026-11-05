@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zabunia is a 57-year-old woman who stands 5'1" tall with a scant build. She has dark brown skin, grey hair, and dark brown eyes.
+Zabunia is a 57-year-old woman who stands 5'1" tall with a scant build. She has dark brown skin, gray hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

@@ -235,7 +235,7 @@ Sharks move with the seasons between feeding and breeding grounds. They hunt alo
 
 ## What the Coast People Do
 
-The fishing towns drive the sharks away from their nets with noise and lines of floats. The pearl and sponge divers of the island channels dive in numbers, with a watcher in the boat and a knife in the hand, and come up at once when the water goes still. Shark-liver oil is burnt in lamps, and the skin, dried and stretched, is used to polish wood and bone. [Garhaven]{.name data-type="place/settlement"} in [[place-vrystwald|Vristwald]] takes the shark as its wesk. Swimmers do not bathe near a slaughter-house or a fish-market outfall.
+The fishing towns drive the sharks away from their nets with noise and lines of floats. The pearl and sponge divers of the island channels dive in numbers, with a watcher in the boat and a knife in the hand, and come up at once when the water goes still. Shark-liver oil is burned in lamps, and the skin, dried and stretched, is used to polish wood and bone. [Garhaven]{.name data-type="place/settlement"} in [[place-vrystwald|Vristwald]] takes the shark as its wesk. Swimmers do not bathe near a slaughter-house or a fish-market outfall.
 
 ## Signs
 

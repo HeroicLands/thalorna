@@ -33,7 +33,7 @@ In the holy city of [[place-nartum|Nartun]] the lower city says the high priesth
 
 **The king's fear.** Kelvaras knows the judgment is real and that Varthelas has at least four votes. He does not know why. His one strong ally outside the kingdom is the empire Nartun refused. In the spring he wrote to the Orzas in his own hand: if the high priesthood moves to unmake an anointed king, he will acknowledge Orzara's throne as the kingdom's overlord in name, receive an imperial envoy and open the holy road to the empire's officers, in return for the Orzas's word that the legions will not suffer a deposition. The letter lies sealed in a cedar box in his bedchamber. If he sends it and it is known, he gives the high priesthood its judgment and the kingdom its first civil war since the break.
 
-**The claimant's offer.** This spring and again at midsummer, envoys of a Vylarian claimant came up the holy road, the first a priest of [[affiliation-sacredforge|the Sacred Forge]] travelling as a pilgrim. The claimant, [[being-dlmrsvrklns|Dalmeras Varkalenis]], offers to proscribe the Black Flame when he reigns if Nartun's knights and temple coin stand behind his adoption. The Holy Mother has agreed to nothing. The temples lend no coin to any throne before the proscription, and she will hear of knights only when the claimant swears it in the Mother's Hall with his hand on the oil. The Black Flame has real power in the empire, and the promise may never be delivered. She has asked [[being-sldrsplvrn|Saldoros Pelvaren]], Master of the Order, how many knights could ride to Orzara. He answered that none could while the gate stood.
+**The claimant's offer.** This spring and again at midsummer, envoys of a Vylarian claimant came up the holy road, the first a priest of [[affiliation-sacredforge|the Sacred Forge]] traveling as a pilgrim. The claimant, [[being-dlmrsvrklns|Dalmeras Varkalenis]], offers to proscribe the Black Flame when he reigns if Nartun's knights and temple coin stand behind his adoption. The Holy Mother has agreed to nothing. The temples lend no coin to any throne before the proscription, and she will hear of knights only when the claimant swears it in the Mother's Hall with his hand on the oil. The Black Flame has real power in the empire, and the promise may never be delivered. She has asked [[being-sldrsplvrn|Saldoros Pelvaren]], Master of the Order, how many knights could ride to Orzara. He answered that none could while the gate stood.
 
 **The Withering.** The Withering is a fungus. It travels on felled timber with the bark on, on the crews' saws and axes and on wagon wheels, enters a living tree through a fresh wound, and follows the contract crews from valley to valley. Peeling and burning the bark where a tree falls, burning the brash and resting a valley the blight has reached would slow it. Several priors have seen that it follows the contracts, [[being-mlknssrvths|Melkanas Sarvothis]] among them, and none has said so. A forester sent Varthelas a report with a map two summers ago, and Varthelas put it in his chest.
 
@@ -52,7 +52,7 @@ In the holy city of [[place-nartum|Nartun]] the lower city says the high priesth
 
 ## The Opening {#opening}
 
-The holy road climbs through dying forest: grey stands among green, the leaves of the sick trees the wrong colour. At the gate of the holy city the knights of the Order take every traveller's name.
+The holy road climbs through dying forest: gray stands among green, the leaves of the sick trees the wrong color. At the gate of the holy city the knights of the Order take every traveler's name.
 
 > A knight in white writes the party's names in a book, slowly, and asks where they are lodging. He does not write the answer down.
 
@@ -62,7 +62,7 @@ The holy road climbs through dying forest: grey stands among green, the leaves o
 
 **Purpose.** Show the dying forest and the quarrel over it.
 
-**Situation.** Kalderenna's sawpits and clamps, on the prior's estate. The prior's forester has marked a stand whose leaves are the wrong colour.
+**Situation.** Kalderenna's sawpits and clamps, on the prior's estate. The prior's forester has marked a stand whose leaves are the wrong color.
 
 **NPCs and threats.** [[being-brnksksrns|Branakis Kaseranis]], stubborn and skilled; the contract crews, who resent him; the Order's knight who keeps the estate's rules. A brawl with the crews is rough and short, and the knight ends it.
 
@@ -105,7 +105,7 @@ The holy road climbs through dying forest: grey stands among green, the leaves o
 
 **Clues and rewards.** Varthelas keeps the forester's report in his chest. The Holy Mother's envoy from the claimant is lodged at the Charcoal Wagon, and someone has searched his room.
 
-**Consequences.** Evidence carried to Varthelas goes into his chest. Carried to the king, it gives him a defence the high priesthood must answer. Carried to the Mother, it becomes another lever she holds.
+**Consequences.** Evidence carried to Varthelas goes into his chest. Carried to the king, it gives him a defense the high priesthood must answer. Carried to the Mother, it becomes another lever she holds.
 
 **If bypassed.** The halls go on watching each other.
 

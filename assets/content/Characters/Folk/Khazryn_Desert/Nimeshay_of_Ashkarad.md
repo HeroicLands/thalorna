@@ -42,7 +42,7 @@ data:
 
 # Appearance {#appearance}
 
-Nimeshay of Ashkarad is a 58-year-old man who stands 5'8" tall and is of heavy build. He has olive skin kept smooth with oil, black hair going grey at the temples and oiled back from a broad forehead, and brown eyes that are quick and amused. He dresses better than any other exile prince, in Kingdom silks dyed the deep blue of the old Ashkarad glaze, and wears a heavy silver ring on each thumb and none on his fingers. He walks with a slight limp on the right and does not hurry it. He laughs easily, offers a guest food before business, and remembers what the guest ate the last time.
+Nimeshay of Ashkarad is a 58-year-old man who stands 5'8" tall and is of heavy build. He has olive skin kept smooth with oil, black hair going gray at the temples and oiled back from a broad forehead, and brown eyes that are quick and amused. He dresses better than any other exile prince, in Kingdom silks dyed the deep blue of the old Ashkarad glaze, and wears a heavy silver ring on each thumb and none on his fingers. He walks with a slight limp on the right and does not hurry it. He laughs easily, offers a guest food before business, and remembers what the guest ate the last time.
 
 # Dossier {#dossier}
 

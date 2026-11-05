@@ -424,7 +424,7 @@ sohl:
 
 ![[mertlnlghkhl|Mertelu Anlagh'Khelesu]]{float=top-left}
 
-Mertelu stands 6'0" tall with a medium build. She has dark weathered skin, grey hair, and brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, an expressive mouth, high-set brows. A distinguishing mark is a tattoo of a bird in flight on the left shoulder.
+Mertelu stands 6'0" tall with a medium build. She has dark weathered skin, gray hair, and brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, an expressive mouth, high-set brows. A distinguishing mark is a tattoo of a bird in flight on the left shoulder.
 
 # Dossier {#dossier}
 

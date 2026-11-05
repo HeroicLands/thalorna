@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Linthimas Orvelis is a 51-year-old man who stands 5'10" tall and is of medium build. He has light skin, brown hair greying at the temples and cut in the capital's fashion, and hazel eyes. He wears the senator's stripe at his morning audience and at the tables of the Street of the Houses, where he is a frequent guest. He listens more than he speaks, and he is courteous to everyone who comes before him.
+Linthimas Orvelis is a 51-year-old man who stands 5'10" tall and is of medium build. He has light skin, brown hair graying at the temples and cut in the capital's fashion, and hazel eyes. He wears the senator's stripe at his morning audience and at the tables of the Street of the Houses, where he is a frequent guest. He listens more than he speaks, and he is courteous to everyone who comes before him.
 
 # Dossier {#dossier}
 

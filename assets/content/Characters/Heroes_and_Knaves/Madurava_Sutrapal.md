@@ -419,7 +419,7 @@ sohl:
 
 ![[madurvstrpl|Madurava Sutrapal]]{float=top-left}
 
-Madurava stands 5'10" tall with a medium build. He has medium brown skin, greying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
+Madurava stands 5'10" tall with a medium build. He has medium brown skin, graying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
 
 # Dossier {#dossier}
 

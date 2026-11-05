@@ -2896,7 +2896,7 @@ data:
     - form: "tashukin"
       class: n
       field: "Body and feeling"
-      gloss: "a taste; a flavour"
+      gloss: "a taste; a flavor"
       concept: taste-noun
       built: ["tashuk", "-in"]
       source: {kind: coined}
@@ -3289,7 +3289,7 @@ data:
     - form: "mupuq"
       class: adj
       field: "Everyday speech"
-      gloss: "grey"
+      gloss: "gray"
       concept: grey
       source: {kind: coined}
     - form: "quq"
@@ -3301,7 +3301,7 @@ data:
     - form: "yanselul"
       class: adj
       field: "Everyday speech"
-      gloss: "light in colour"
+      gloss: "light in color"
       concept: light-colour
       source: {kind: coined}
     - form: "chapaq"

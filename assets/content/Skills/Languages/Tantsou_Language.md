@@ -12,7 +12,7 @@ data:
   fields:
     - name: "Sky, land and the elements"
       holds: "The elements, the weather, the heavens and the land."
-    - {name: Colour and number, holds: "The colours and the numbers the names are built from."}
+    - {name: Color and number, holds: "The colors and the numbers the names are built from."}
     - name: "People, rank and office"
       holds: "The ranks, callings and kin that the castes and offices are built from."
     - name: "Heaven, law and the order of things"
@@ -86,28 +86,28 @@ data:
       gloss: heaven, the sky; celestial
       concept: sky
     - {form: tan, class: adj, field: "Sky, land and the elements", gloss: "celestial, of heaven"}
-    - {form: muo, class: adj, field: Colour and number, gloss: "green", concept: green}
+    - {form: muo, class: adj, field: Color and number, gloss: "green", concept: green}
     - form: zhou
       class: adj
-      field: Colour and number
+      field: Color and number
       gloss: "blue, azure; flowing"
       concept: blue
-    - {form: rin, class: adj, field: Colour and number, gloss: "red, vermilion", concept: red}
-    - {form: bui, class: adj, field: Colour and number, gloss: "white, silver", concept: white}
+    - {form: rin, class: adj, field: Color and number, gloss: "red, vermilion", concept: red}
+    - {form: bui, class: adj, field: Color and number, gloss: "white, silver", concept: white}
     - form: ha
       class: adj
-      field: Colour and number
+      field: Color and number
       gloss: dark, black, hidden; shadow
       concept: [black, dark]
     - form: leng
       class: adj
-      field: Colour and number
+      field: Color and number
       gloss: bright, radiant; dawn
       concept: bright
-    - {form: jen, class: num, field: Colour and number, gloss: "nine", concept: nine}
-    - {form: wuen, class: num, field: Colour and number, gloss: "five", concept: five}
-    - {form: wai, class: num, field: Colour and number, gloss: "ten", concept: ten}
-    - {form: rong, class: num, field: Colour and number, gloss: "ten thousand, a myriad"}
+    - {form: jen, class: num, field: Color and number, gloss: "nine", concept: nine}
+    - {form: wuen, class: num, field: Color and number, gloss: "five", concept: five}
+    - {form: wai, class: num, field: Color and number, gloss: "ten", concept: ten}
+    - {form: rong, class: num, field: Color and number, gloss: "ten thousand, a myriad"}
     - {form: chen, class: "n", field: "People, rank and office", gloss: "emperor, king"}
     - {form: zhuo, class: "n", field: "People, rank and office", gloss: "lord, sovereign"}
     - form: nei
@@ -156,7 +156,7 @@ data:
     - form: wen
       class: "n"
       field: "Heaven, law and the order of things"
-      gloss: "centre, middle"
+      gloss: "center, middle"
     - form: wou
       class: "n"
       field: "Heaven, law and the order of things"
@@ -344,7 +344,7 @@ data:
     - form: fai
       class: "n"
       field: "Senses and passions"
-      gloss: "smell, scent, odour"
+      gloss: "smell, scent, odor"
       concept: smell-noun
     - form: tsie
       class: "v"
@@ -354,7 +354,7 @@ data:
     - form: ruo
       class: "n"
       field: "Senses and passions"
-      gloss: "taste, flavour"
+      gloss: "taste, flavor"
       concept: taste-noun
     - form: gai
       class: "v"
@@ -439,38 +439,38 @@ data:
     - {form: rai, class: "n", field: "Needs and common things", gloss: "spoon", concept: spoon}
     - {form: ban, class: "n", field: "Needs and common things", gloss: "pot", concept: pot}
     - {form: shen, class: "n", field: "Needs and common things", gloss: "cloth", concept: cloth}
-    - {form: tsi, class: "num", field: "Colour and number", gloss: "one", concept: one}
-    - {form: len, class: "num", field: "Colour and number", gloss: "two", concept: two}
-    - {form: tao, class: "num", field: "Colour and number", gloss: "three", concept: three}
-    - {form: fei, class: "num", field: "Colour and number", gloss: "four", concept: four}
-    - {form: jou, class: "num", field: "Colour and number", gloss: "six", concept: six}
-    - {form: tai, class: "num", field: "Colour and number", gloss: "seven", concept: seven}
-    - {form: mo, class: "num", field: "Colour and number", gloss: "eight", concept: eight}
-    - {form: gou, class: "num", field: "Colour and number", gloss: "hundred", concept: hundred}
-    - {form: keng, class: "num", field: "Colour and number", gloss: "thousand", concept: thousand}
-    - {form: tsan, class: "num", field: "Colour and number", gloss: "half", concept: half}
+    - {form: tsi, class: "num", field: "Color and number", gloss: "one", concept: one}
+    - {form: len, class: "num", field: "Color and number", gloss: "two", concept: two}
+    - {form: tao, class: "num", field: "Color and number", gloss: "three", concept: three}
+    - {form: fei, class: "num", field: "Color and number", gloss: "four", concept: four}
+    - {form: jou, class: "num", field: "Color and number", gloss: "six", concept: six}
+    - {form: tai, class: "num", field: "Color and number", gloss: "seven", concept: seven}
+    - {form: mo, class: "num", field: "Color and number", gloss: "eight", concept: eight}
+    - {form: gou, class: "num", field: "Color and number", gloss: "hundred", concept: hundred}
+    - {form: keng, class: "num", field: "Color and number", gloss: "thousand", concept: thousand}
+    - {form: tsan, class: "num", field: "Color and number", gloss: "half", concept: half}
     - form: chong
       class: adj
-      field: Colour and number
+      field: Color and number
       gloss: many, much
       concept: [many, much]
     - form: bo
       class: adj
-      field: Colour and number
+      field: Color and number
       gloss: few, little
       concept: [few, little-quantity]
     - form: mong
       class: "adj"
-      field: "Colour and number"
+      field: "Color and number"
       gloss: "none, nothing; not"
       concept: none
-    - {form: jao, class: "adj", field: "Colour and number", gloss: "yellow", concept: yellow}
+    - {form: jao, class: "adj", field: "Color and number", gloss: "yellow", concept: yellow}
     - form: kui
       class: "adj"
-      field: "Colour and number"
-      gloss: "grey, ash-coloured"
+      field: "Color and number"
+      gloss: "gray, ash-colored"
       concept: grey
-    - {form: jan, class: "adj", field: "Colour and number", gloss: "brown", concept: brown}
+    - {form: jan, class: "adj", field: "Color and number", gloss: "brown", concept: brown}
     - {form: na, class: "n", field: "Kin", gloss: "mother", concept: mother}
     - {form: to, class: "n", field: "Kin", gloss: "father", concept: father}
     - {form: dong, class: "n", field: "Kin", gloss: "brother", concept: brother}
@@ -546,7 +546,7 @@ data:
     - {form: chan, class: n, field: Kin, gloss: man; male, concept: man}
     - form: chuo
       class: num
-      field: Colour and number
+      field: Color and number
       gloss: rank, place in order
       concept: rank
     - {form: si, class: "n", field: "Needs and common things", gloss: "pearl"}
@@ -766,25 +766,25 @@ data:
       built: [lo, shen]
     - form: lenwai
       class: "num"
-      field: "Colour and number"
+      field: "Color and number"
       gloss: "twenty"
       concept: twenty
       built: [len, wai]
     - form: chuotsi
       class: "num"
-      field: "Colour and number"
+      field: "Color and number"
       gloss: "first"
       concept: first
       built: [chuo, tsi]
     - form: chuolen
       class: "num"
-      field: "Colour and number"
+      field: "Color and number"
       gloss: "second"
       concept: second
       built: [chuo, len]
     - form: chuotao
       class: "num"
-      field: "Colour and number"
+      field: "Color and number"
       gloss: "third"
       concept: third
       built: [chuo, tao]
@@ -2593,17 +2593,17 @@ data:
       class: adj
       gloss: whole; all, the complete thing or the entire relevant set
       concept: [whole, all]
-      field: Colour and number
+      field: Color and number
     - form: sui
       class: adj
       gloss: more; greater in quantity or degree
       concept: more
-      field: Colour and number
+      field: Color and number
     - form: rie
       class: adj
       gloss: less; smaller in quantity or degree
       concept: less
-      field: Colour and number
+      field: Color and number
     - form: san
       class: part
       gloss: "at; in; on. A place or spatial noun precedes this particle: the house interior followed by this particle means inside the house"
@@ -2664,7 +2664,7 @@ data:
       class: num
       gloss: some; an unspecified nonzero portion or number
       concept: some
-      field: Colour and number
+      field: Color and number
     - form: wui
       class: part
       gloss: whether; the closing marker of a yes-or-no question. Shie nao wui means do you come?
@@ -2680,37 +2680,37 @@ data:
       gloss: zero; a tally containing no units
       built: [mong, wan]
       concept: zero
-      field: Colour and number
+      field: Color and number
     - form: chuo fei
       class: num
       gloss: "fourth; rank four in a sequence. Replace fei with any cardinal to name that ordinal: chuo tai, seventh"
       built: [chuo, fei]
       concept: ordinal-construction
-      field: Colour and number
+      field: Color and number
     - form: tsan tsan
       class: num
       gloss: a quarter; half of a half
       built: [tsan, tsan]
       concept: quarter
-      field: Colour and number
+      field: Color and number
     - form: ben so
       class: adj
       gloss: enough; complete relative to the amount needed. Ben so ta is enough food
       built: [ben, so]
       concept: enough
-      field: Colour and number
+      field: Color and number
     - form: so tsui sui
       class: adj
       gloss: most; greater in quantity than all the others in the comparison. So tsui sui ta, the most food, compares the stated portions
       built: [so, tsui, sui]
       concept: most
-      field: Colour and number
+      field: Color and number
     - form: so tsui rie
       class: adj
       gloss: least; smaller in quantity than all the others in the comparison. So tsui rie ta, the least food, compares the stated portions
       built: [so, tsui, rie]
       concept: least
-      field: Colour and number
+      field: Color and number
     - form: shiao wan
       class: n
       gloss: an equal quantity; the same count or measure. Shiao wan kai means to have an equal amount
@@ -2721,25 +2721,25 @@ data:
       gloss: each; every, considering the members one by one. Tsi tsi nong means each or every person in the stated set
       built: [tsi, tsi]
       concept: [each, every]
-      field: Colour and number
+      field: Color and number
     - form: so len
       class: num
       gloss: both; the full set of two. So len nong means both people
       built: [so, len]
       concept: both
-      field: Colour and number
+      field: Color and number
     - form: len tsi
       class: num
       gloss: either one of two. Len tsi nong names either person when the two alternatives are understood
       built: [len, tsi]
       concept: either
-      field: Colour and number
+      field: Color and number
     - form: len mong
       class: adj
       gloss: neither of two. Len mong nong means neither person in the stated pair
       built: [len, mong]
       concept: neither
-      field: Colour and number
+      field: Color and number
     - form: wen wan
       class: n
       gloss: an approximate quantity; a count around the stated middle. Wen wan wai nong means about ten people
@@ -2750,49 +2750,49 @@ data:
       gloss: almost; short by only a small part. Bo ren kou wai nong means almost ten people, fewer than ten by a small amount
       built: [bo, ren, kou]
       concept: almost
-      field: Colour and number
+      field: Color and number
     - form: shiao wan tsi
       class: num
       gloss: "exactly one; the same tally as one with no excess or shortfall. Replace tsi by the stated number: shiao wan wai nong, exactly ten people"
       built: [shiao, wan, tsi]
       concept: exactly
-      field: Colour and number
+      field: Color and number
     - form: ming tsing
       class: v
       gloss: to measure; to determine the extent or size of something by a stated unit
       built: [ming, tsing]
       concept: measure-verb
-      field: Colour and number
+      field: Color and number
     - form: wan tsiao
       class: v
       gloss: to count; to reckon the number of units in a set
       built: [wan, tsiao]
       concept: count-verb
-      field: Colour and number
+      field: Color and number
     - form: shui rin kai
       class: v
       gloss: to be pale; the conventional have-little-red expression describes a weak or washed-out hue. The whole idiom extends to other hues; bare rin retains red
       built: [shui, rin, kai]
       concept: pale
-      field: Colour and number
+      field: Color and number
     - form: tsi rin yao kai
       class: v
       gloss: to be plain or unpatterned; the conventional have-one-red-form expression describes a surface of one color without contrasting marks. The whole idiom extends to other hues; bare rin retains red
       built: [tsi, rin, yao, kai]
       concept: plain-pattern
-      field: Colour and number
+      field: Color and number
     - form: rin fin kai
       class: v
       gloss: to be spotted; the conventional have-red-specks expression describes a surface with contrasting spots. The whole idiom extends to spots of other hues; bare rin retains red
       built: [rin, fin, kai]
       concept: spotted
-      field: Colour and number
+      field: Color and number
     - form: kao rin ren kai
       class: v
       gloss: to be striped; the conventional have-long-red-portions expression describes a surface with contrasting bands. The whole idiom extends to bands of other hues; bare rin retains red
       built: [kao, rin, ren, kai]
       concept: striped
-      field: Colour and number
+      field: Color and number
     - form: nong kai juo dei
       class: v
       gloss: to belong to a person; to be a person's possessed thing. In this complete predicate, replace nong by the owner
@@ -4817,13 +4817,13 @@ data:
       gloss: to be equal in quantity; to have the same count or measure as the comparison standard
       built: [shiao, wan, kai]
       concept: equal
-      field: Colour and number
+      field: Color and number
     - form: wen wan wai nong
       class: n
       gloss: about ten people; the conventional middle-count construction gives an approximation around the stated number. Replace wai by the number and nong by the counted noun
       built: [wen, wan, wai, nong]
       concept: about
-      field: Colour and number
+      field: Color and number
     - form: huo win meng cha
       class: v
       gloss: to push; to send an object outward with the hand by steady pressure. Huo win marks the hand as the instrument
@@ -4835,37 +4835,37 @@ data:
       gloss: "An ordinary sighted person can clearly discern the form in the stated viewing conditions: its appearance is clear. Yao names the form whose clarity is assessed"
       built: [nong, yao, hing, yui, kai]
       concept: clear-appearance
-      field: Colour and number
+      field: Color and number
     - form: nong juo men hing yui kai
       class: v
       gloss: "An ordinary sighted person can see the interior or the thing beyond through the material: it is transparent. Juo names the material being looked through in the stated viewing conditions"
       built: [nong, juo, men, hing, yui, kai]
       concept: transparent
-      field: Colour and number
+      field: Color and number
     - form: nong juo men hing yui mong kai
       class: v
       gloss: "An ordinary sighted person cannot see the interior or the thing beyond through the material: it is opaque. Juo names the material in the stated viewing conditions"
       built: [nong, juo, men, hing, yui, mong, kai]
       concept: opaque
-      field: Colour and number
+      field: Color and number
     - form: leng yao kai
       class: v
       gloss: to be light in color; to have a bright form in the stated hue
       built: [leng, yao, kai]
       concept: light-colour
-      field: Colour and number
+      field: Color and number
     - form: leng yao zhan
       class: v
       gloss: to be shiny; to give off a bright appearance by reflection from a surface
       built: [leng, yao, zhan]
       concept: shiny
-      field: Colour and number
+      field: Color and number
     - form: leng yao zhan yui mong kai
       class: v
       gloss: to be dull in appearance; to lack the surface capacity to give off a bright appearance by reflection
       built: [leng, yao, zhan, yui, mong, kai]
       concept: dull-appearance
-      field: Colour and number
+      field: Color and number
     - form: dao dao
       class: adj
       gloss: huge; very great in physical size, with repetition intensifying the ordinary size adjective
@@ -5388,7 +5388,7 @@ data:
       why: "built on an Earth word, the sacred beast of the calendar"
     - form: Zhütlüng
       instead: Wengzho
-      why: "built on an Earth word, and an Earth constellation by its colour and beast"
+      why: "built on an Earth word, and an Earth constellation by its color and beast"
     - {form: Güng, instead: Gui, why: "an Earth word, an official"}
     - {form: Rëkgüng, instead: Raogui, why: "built on an Earth word, the minister of storms"}
     - {form: Yātgüng, instead: Yaigui, why: "built on an Earth word, the practitioner of medicine"}
@@ -5407,7 +5407,7 @@ data:
     - {form: Röthöt, instead: Rinho, why: "built on an Earth word, the lord of fire"}
     - form: Rötzhāt
       instead: Zhizhai
-      why: "built on an Earth word, and an Earth constellation by its colour and beast"
+      why: "built on an Earth word, and an Earth constellation by its color and beast"
     - {form: Rötyürt, instead: Rinyan, why: "built on two Earth words, a woman's name"}
     - {form: Thürkyüt, instead: Chiaoyou, why: "built on an Earth people's name, the winter month"}
     - {form: thürk, instead: chiao, why: "an Earth people's name, to freeze"}
@@ -5420,8 +5420,8 @@ data:
       instead: Wogen
       why: "an Earth word, a hero, carried as the steppe warlord's name"
     - {form: Vëkthōr, instead: Watsai, why: "an Earth word, the demon lord of false records"}
-    - {form: Hëkvüt, instead: Kuowou, why: an Earth constellation by its colour and beast}
-    - {form: Bëithürt, instead: Tuihen, why: an Earth constellation by its colour and beast}
+    - {form: Hëkvüt, instead: Kuowou, why: an Earth constellation by its color and beast}
+    - {form: Bëithürt, instead: Tuihen, why: an Earth constellation by its color and beast}
     - {form: Lüngmāt, instead: Lengmai, why: "built on an Earth word, and an Earth beast of omen"}
     - {form: Azure Dragon, instead: Wind Dragon, why: an Earth constellation}
     - {form: White Tiger, instead: Iron Tiger, why: an Earth constellation}

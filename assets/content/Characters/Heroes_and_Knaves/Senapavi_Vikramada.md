@@ -439,7 +439,7 @@ sohl:
 
 ![[senpvvkrmd|Senapavi Vikramada]]{float=top-left}
 
-Senapavi stands 6'0" tall with a heavy build. He has medium brown skin, greying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
+Senapavi stands 6'0" tall with a heavy build. He has medium brown skin, graying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
 
 # Dossier {#dossier}
 

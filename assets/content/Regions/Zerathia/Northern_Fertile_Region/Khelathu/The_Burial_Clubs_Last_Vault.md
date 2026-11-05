@@ -28,7 +28,7 @@ That is the vault. The Khelathi poor have no dread greater than this one, and [[
 
 ## What Moves There Now
 
-The gallery is worked at night. Quarrymen who have been dead for years haul cut stone down the passage on sledges, set it, dress it and go back for more, in rows, in silence, at the pace of a work-song nobody sings. At the first grey of morning they stop where they stand and do not move until dusk.
+The gallery is worked at night. Quarrymen who have been dead for years haul cut stone down the passage on sledges, set it, dress it and go back for more, in rows, in silence, at the pace of a work-song nobody sings. At the first gray of morning they stop where they stand and do not move until dusk.
 
 They are driven by a struck Lekhau, [Qeltzin]{.name data-type="being/npc"}, once of [[affiliation-garqeltnu|Gar-Qelt'nu]], the House of the Body. His working carries that House's marks for the made body, the [[affiliation-garithnetau|Gar-Ithnetáu]] sign for the waking, and the seal-mark of [[affiliation-garqarquzu|Gar-Qar'kuzu]] on the walled door, all cut in a hand that is good and getting worse. The House struck his name from its roll and could not strike the marks from his head.
 

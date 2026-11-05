@@ -26,7 +26,7 @@ seen—and it is where the Senate meets, in bordered mantles of the wrong cut, t
 of a hundred and fifty thousand people with the ceremony of an empire of twenty-one million.
 
 Around it stand the offices, the courts and the assembly ground, laid out on a plan copied from an
-account of [[place-orzara|Orzara]] and adapted, without acknowledgement, to a much smaller and
+account of [[place-orzara|Orzara]] and adapted, without acknowledgment, to a much smaller and
 considerably wetter site.
 
 ## The Tyrant's Rock

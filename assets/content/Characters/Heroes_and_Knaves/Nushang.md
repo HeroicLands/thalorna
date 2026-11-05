@@ -398,7 +398,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Nushang is a small woman of fifty-six with a broad, deeply lined face and black eyes that go to a stranger's boots, then his hands, then the sky behind him. Her hair is grey and worn in two plaits under a beaver cap. She wears a wool dress and a beaver cloak, gloves of old leather and boots resoled more often than anyone else at her hearth, because she walks more. Her hearth's guide-cord is looped three times round her left wrist, and she touches it when she is thinking.
+Nushang is a small woman of fifty-six with a broad, deeply lined face and black eyes that go to a stranger's boots, then his hands, then the sky behind him. Her hair is gray and worn in two plaits under a beaver cap. She wears a wool dress and a beaver cloak, gloves of old leather and boots resoled more often than anyone else at her hearth, because she walks more. Her hearth's guide-cord is looped three times round her left wrist, and she touches it when she is thinking.
 
 She speaks no lowland tongue, and she does not need to. Her word on the weather is the end of the question.
 

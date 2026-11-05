@@ -40,11 +40,11 @@ The town's second trade is the prison. Kezrora's guards, cooks and carters live 
 
 Ulthora is a chartered town with two _tavemoi_ (magistrates) and a council, and the priests of the shrines hold most of its seats. The high priest of Brazemas presides over the council in practice, and the town's peace is the temples' business: a pilgrim robbed on the Stair goes to the shrine he came to visit, and the priests between them find the thief, since a town that robs its pilgrims loses them.
 
-Kezrora answers to the province, not to the town. Its warden, [Nethoren Melvarandis]{.name data-type="being/npc"}, is a _kurthos_'s cousin appointed by the court at Tirellan, who visits the prison once a month and lives in the town in the best house below the temple. Its gaoler, who runs it day to day and has for nearly twenty years, is [[being-xrphnklmkns|Zerofon Kalmakanes]], who came to it from the city watch of [[place-tyrellan|Tirellan]]. The prison holds the province's long-term prisoners, debtors to the revenue and men condemned to the mines who are too dangerous to send there. Its inner keep is held by [[affiliation-ordoarcanis|the Sekran]], the Arcane Inquisition of the Thordimalon, which keeps its prisoners for this part of the north there under its own seal. Zerofon keeps the keys to every door in Kezrora but the inner one.
+Kezrora answers to the province, not to the town. Its warden, [Nethoren Melvarandis]{.name data-type="being/npc"}, is a _kurthos_'s cousin appointed by the court at Tirellan, who visits the prison once a month and lives in the town in the best house below the temple. Its jailer, who runs it day to day and has for nearly twenty years, is [[being-xrphnklmkns|Zerofon Kalmakanes]], who came to it from the city watch of [[place-tyrellan|Tirellan]]. The prison holds the province's long-term prisoners, debtors to the revenue and men condemned to the mines who are too dangerous to send there. Its inner keep is held by [[affiliation-ordoarcanis|the Sekran]], the Arcane Inquisition of the Thordimalon, which keeps its prisoners for this part of the north there under its own seal. Zerofon keeps the keys to every door in Kezrora but the inner one.
 
 ## Current Situation {#present}
 
-The shrines live on the pilgrims, and the prison on the crag lives on silence. The council of priests under the high priest of Brazemas must find the Varokh pilgrim's token taken from the Karnavos shrine before his kindred come to look for it. In Kezrora a guard is selling a letter smuggled out by a prisoner who claims to be held without trial, and the gaoler, [[being-xrphnklmkns|Zerofon Kalmakanes]], wants the guard named. The warden, Nethoren Melvarandis, visits once a month. The inner keep is the [[affiliation-ordoarcanis|Sekran]]'s, and Zerofon keeps the key to every door but that one.
+The shrines live on the pilgrims, and the prison on the crag lives on silence. The council of priests under the high priest of Brazemas must find the Varokh pilgrim's token taken from the Karnavos shrine before his kindred come to look for it. In Kezrora a guard is selling a letter smuggled out by a prisoner who claims to be held without trial, and the jailer, [[being-xrphnklmkns|Zerofon Kalmakanes]], wants the guard named. The warden, Nethoren Melvarandis, visits once a month. The inner keep is the [[affiliation-ordoarcanis|Sekran]]'s, and Zerofon keeps the key to every door but that one.
 
 ## Where a Party Lodges
 
@@ -65,7 +65,7 @@ The inns are on the Stair, one above the next, and the higher an inn stands the 
 : the province that holds it
 
 [[being-xrphnklmkns|Zerofon Kalmakanes]]
-: the gaoler of Kezrora
+: the jailer of Kezrora
 
 [[affiliation-ordoarcanis|Thordimalon]]
 : the Order whose Sekran holds the prison's inner keep

@@ -35,7 +35,7 @@ The Kaliharan record opens with their coming and says nothing of what preceded i
 somewhere that is not Thalorna, settled on Kalihara, and did not conquer it—there was nothing on the island to conquer. The first humans they met there were scattered bands living
 in the most rudimentary conditions, and the Ithari took them in.
 
-The Kaliharans describe them as people rather than as gods or spirits: recognisably mortal in their
+The Kaliharans describe them as people rather than as gods or spirits: recognizably mortal in their
 concerns and conduct, capable of impatience and of humor, and in no way interested in being
 worshipped. That description has been transmitted for nearly ten thousand years by custodians who never
 met one, and it is the only description there is.

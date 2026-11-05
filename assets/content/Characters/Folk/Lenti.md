@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Lenti is a 49-year-old man who stands 6'1" tall with a heavy build. He has tawny skin, greying black hair, and brown eyes.
+Lenti is a 49-year-old man who stands 6'1" tall with a heavy build. He has tawny skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

@@ -101,7 +101,7 @@ Where sky burial is practiced the **Platform-Master** conducts it and the **Read
 
 The Pik'ob speak fewer workings than any branch of the priesthood, and they regard that as their part of [[lore-chumtsena|Ch'um Ts'ena]]. A grove is a place where the order has undertaken to speak nothing, and its keepers ask the city's Reckoner of Conjunctions for no days on its behalf. The order holds that what the forest does in a grove is the god's own working, spoken without a priest, and that a keeper who added one of his own would be interrupting.
 
-Their one set form is the opening of the platform. When a body is laid out for sky burial, the **Platform-Master** speaks it on the night of the moon on which the person died, the same position in the counts as the death-walkers' recitation of the trials, and pays for it with a few drops of his own blood on the platform's edge. What the **Reader of the Birds** reports afterwards is entered as the god's answer to it. The order asks nothing from the city's ledger and has never drawn a city into deficit.
+Their one set form is the opening of the platform. When a body is laid out for sky burial, the **Platform-Master** speaks it on the night of the moon on which the person died, the same position in the counts as the death-walkers' recitation of the trials, and pays for it with a few drops of his own blood on the platform's edge. What the **Reader of the Birds** reports afterward is entered as the god's answer to it. The order asks nothing from the city's ledger and has never drawn a city into deficit.
 
 ## The Abandoned Temple
 

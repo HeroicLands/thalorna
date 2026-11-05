@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Lintayet is a 50-year-old woman who stands 6'1" tall with a heavy build. She has brown skin, greying black hair, and hazel eyes.
+Lintayet is a 50-year-old woman who stands 6'1" tall with a heavy build. She has brown skin, graying black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

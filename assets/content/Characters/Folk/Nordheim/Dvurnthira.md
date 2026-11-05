@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Dvurnthira is a 41-year-old woman who stands 5'6" tall with a heavy build. She has fair skin, freckled complexion, brown hair, and grey eyes.
+Dvurnthira is a 41-year-old woman who stands 5'6" tall with a heavy build. She has fair skin, freckled complexion, brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

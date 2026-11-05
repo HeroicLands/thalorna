@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gerra Anlaghe'Relu is a 42-year-old man who stands 6'0" tall with a medium build. He has dark brown skin, grey hair, and brown eyes.
+Gerra Anlaghe'Relu is a 42-year-old man who stands 6'0" tall with a medium build. He has dark brown skin, gray hair, and brown eyes.
 
 # Dossier {#dossier}
 

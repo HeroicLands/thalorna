@@ -60,7 +60,7 @@ data:
 sohl: {system: {commonSkills: [osetakonalng]}}
 
 # terran_analog: the Northeast and the Great Lakes: New York, New England, Ontario and Quebec, with the copper of Lake Superior
-# terran_analog: the Haudenosaunee Confederacy and the Huron-Wendat, with Algonquian neighbours such as the Lenape, Wampanoag and Ojibwe; the clan mothers, the lineage titles, the consensus councils, the wampum and the mourning wars are Haudenosaunee, and the Feast of Bones is the Huron Feast of the Dead
+# terran_analog: the Haudenosaunee Confederacy and the Huron-Wendat, with Algonquian neighbors such as the Lenape, Wampanoag and Ojibwe; the clan mothers, the lineage titles, the consensus councils, the wampum and the mourning wars are Haudenosaunee, and the Feast of Bones is the Huron Feast of the Dead
 ---
 
 ## Overview
@@ -73,7 +73,7 @@ A village is a few hundred to two thousand people inside a palisade of sharpened
 
 The Grove holds eight nations, each a cluster of villages that share a council. The **Falls People** (_kahsiotakona_) live around the [Great Falls]{.name data-type="place/feature"} between the largest lakes, and are the eldest nation and the usual hosts of the great council. The **Rapids People** (_tahiontokona_) downriver from them were the second, and their alliance with the Falls People is the Grove's founding. The **Copper People** (_tsikenhakona_) of the western lakes dig the copper. The **Dawn People** (_tsiorhenkona_) hold the eastern shore and the mouth of the [Great River]{.name data-type="place/feature"}. The **River People** (_ohiatsekona_) of the southwest face the One Fire across [[place-hanalxilanrgn|Ha'nal Shi'lan]]. The **Pine People** (_tsitarakona_) hold the north, the **Birch People** (_kaniestrakona_) the western forest at the edge of the grassland, and the **Beaver People** (_kahnatiokona_) the inland marshes. A ninth nation, the **Island People** (_tsiotienkona_), was broken and taken in seven generations ago.
 
-The same six clans run through every nation: Otter, Loon, Elk, Sturgeon, Porcupine and Crane. A traveller of the Loon clan is kin in every Loon longhouse of the Grove, and is fed there as a sister's child.
+The same six clans run through every nation: Otter, Loon, Elk, Sturgeon, Porcupine and Crane. A traveler of the Loon clan is kin in every Loon longhouse of the Grove, and is fed there as a sister's child.
 
 ## Who Governs
 
@@ -130,7 +130,7 @@ The Maple People are proud of their government and suspicious of everyone else's
 
 The great council names the Grove's delegates each spring: two speakers, one of them usually [[being-skahniotiaro|Skahniotiaro]] of [[place-kaniestraten|Birches]], who speaks the Grass People's tongue, and a rememberer to recite at the [Red Quarry]{.name data-type="place/site"}. They walk west from the Birch People's villages to the quarry and can promise only what the great council boiled down before they left. That rule is why the Grove is slow to smoke a pipe of help. Three summers ago, when the [[affiliation-teyumi|Turquoise People]] sent Pipe Bearers against a southern war party, the Grove's delegates had no agreement from the Kettle to smoke on, and the Grove did not smoke. The rememberers recite the refusal with the rest, and the Turquoise People's delegates have not let anyone forget it. Now the Grove is the nation asking, against the men from the water, and the other nations note how much faster the Kettle boils when the danger is its own.
 
-## Neighbours and Threats
+## Neighbors and Threats
 
 The Grove contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier to the southwest, with the One Fire, and each accuses the other of raiding there. The Grass People raid the Birch People's villages in the west. Two dangers fall on the Grove before anyone else. [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean, and last summer they burned Tsiorhenten, a Dawn People village, and carried four of its people away; the Maple People have no name for them. And in the north, hunting bands driven out of the far woods by newcomers from the ice are moving into the Pine People's country.
 

@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Arzanalas Baredas is a 49-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze, with deep crow's feet at their corners. He has a straight nose and wide lips. He has medium-toned skin. His grey hair is kept practical and short. Over his heart he carries an old tattoo of a heart, done in the yard the year he swore his oath, and he walks stiffly on knees that have stood in too many shield-lines.
+Arzanalas Baredas is a 49-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze, with deep crow's feet at their corners. He has a straight nose and wide lips. He has medium-toned skin. His gray hair is kept practical and short. Over his heart he carries an old tattoo of a heart, done in the yard the year he swore his oath, and he walks stiffly on knees that have stood in too many shield-lines.
 
 # Dossier {#dossier}
 

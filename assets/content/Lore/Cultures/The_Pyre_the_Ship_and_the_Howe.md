@@ -13,7 +13,7 @@ tags: [asguardian, draft]
 
 The nearest kin close the eyes and the mouth, wash the body and dress it in its best. The body is not carried out through the door the living use. The household opens a gap in the wall—a few planks lifted out, a section of turf cut away—carries the dead out through it, and closes it again behind them. The teaching is that the door of a hall is the door between birth and death, the one never barred, and the dead are given a way out that leads nowhere back. Restless dead are feared in the north, and a household that took its dead out by the front door and then heard knocking at it in winter would know whom to blame.
 
-From that night the dead person's obligations are counted rather than cancelled. The kin reckon what was owed to the dead and what the dead owed, and nobody takes the dead person's seat until the reckoning is spoken at the grave-ale.
+From that night the dead person's obligations are counted rather than canceled. The kin reckon what was owed to the dead and what the dead owed, and nobody takes the dead person's seat until the reckoning is spoken at the grave-ale.
 
 ## The Pyre
 

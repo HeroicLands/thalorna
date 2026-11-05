@@ -3,13 +3,13 @@ shortcode: gathamose2
 name: {full: Gathamose, khel: [gatha]}
 type: being
 subType: npc
-description: "An influential critic of the theatre, whose notices can make or unmake a season and who knows it"
+description: "An influential critic of the theater, whose notices can make or unmake a season and who knows it"
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [guildsperson]
-  occupation: "Theatre Critic"
+  occupation: "Theater Critic"
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
@@ -36,4 +36,4 @@ Gathamose is a 35-year-old man who stands 5'11" tall with a medium build. He has
 
 # Dossier {#dossier}
 
-Gathamose reviews the theatre out of [[place-amqelulegez|Amqelu-Legez]], and a notice from this critic can make or unmake a season. The scathing review that once wounded [[being-thiryegezaqe|Thirye Gez'Aqeu]] has not been followed by any softening, whatever her later success. A company opening a season watches for Gathamose's notice before it watches the box office.
+Gathamose reviews the theater out of [[place-amqelulegez|Amqelu-Legez]], and a notice from this critic can make or unmake a season. The scathing review that once wounded [[being-thiryegezaqe|Thirye Gez'Aqeu]] has not been followed by any softening, whatever her later success. A company opening a season watches for Gathamose's notice before it watches the box office.

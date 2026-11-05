@@ -64,7 +64,7 @@ Precedence is the College's daily work, and precedence is a quarrel the College 
 
 ## Pursuivants and Schools
 
-A herald learns the roll as an apprentice learns a craft, at a herald's side. The College trains its pursuivants in the compound and in country houses outside the capital, where a herald keeps a few young men at a time and teaches them the arms, marks, liveries and precedence of every house in the Empire. One such school is kept by [[being-lrdmlnvsbr|Lord Aimilon Visbari]] at his family's house outside [[place-polthara|Polthara]] in Hilen, where the pupils practise on the stewards' boards on market days. A pursuivant is sworn a herald when the Master is satisfied that he will never guess.
+A herald learns the roll as an apprentice learns a craft, at a herald's side. The College trains its pursuivants in the compound and in country houses outside the capital, where a herald keeps a few young men at a time and teaches them the arms, marks, liveries and precedence of every house in the Empire. One such school is kept by [[being-lrdmlnvsbr|Lord Aimilon Visbari]] at his family's house outside [[place-polthara|Polthara]] in Hilen, where the pupils practice on the stewards' boards on market days. A pursuivant is sworn a herald when the Master is satisfied that he will never guess.
 
 ## The Heralds at the Palor
 

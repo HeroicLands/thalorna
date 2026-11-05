@@ -420,7 +420,7 @@ sohl:
 
 ![[arevynlydr|Árevin Lidren]]{float=top-left}
 
-Árevin stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
+Árevin stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
 
 # Dossier {#dossier}
 

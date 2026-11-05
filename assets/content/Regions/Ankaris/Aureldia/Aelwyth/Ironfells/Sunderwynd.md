@@ -67,7 +67,7 @@ The gorge trail is the only road to Sunderwynd. It is a day's climb from the las
 ## Hooks
 
 - **The pay vault.** The toll and the garrison's silver lie walled up behind the cistern. Kaerwynd's quartermaster wants them carried down, and so does anyone else who hears of them.
-- **The relief patrol.** A patrol went up the gorge to relieve the post and has not signalled.
+- **The relief patrol.** A patrol went up the gorge to relieve the post and has not signaled.
 - **The captain's sword.** The captain who walled the vault carried a fine sword, a gift of the crown, and his family has asked for it.
 
 ## See Also

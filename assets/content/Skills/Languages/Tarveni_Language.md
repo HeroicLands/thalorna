@@ -5260,7 +5260,7 @@ Tarveni employs a rich inventory of consonants with strong distinctions between 
 
 ## Ordinary expressions
 
-_En oked korvath_ means "I see the sun"; _en thavid dokela_, "I hear a voice"; and _en thaurad ulmer_, "I keep water". These particular spoken utterances put the speaker first, then the action and its object, as in the older examples below. _En nelthad nelthis_ smells a scent; _en tirmad tirmis_ tastes a flavour; _en tolvad dekazu_ touches a hand; and _en zarved zarvandon_ feels a bodily sensation. _En silkad korvath_ directs the eyes toward the sun; _en silkared korvath_ watches it attentively.
+_En oked korvath_ means "I see the sun"; _en thavid dokela_, "I hear a voice"; and _en thaurad ulmer_, "I keep water". These particular spoken utterances put the speaker first, then the action and its object, as in the older examples below. _En nelthad nelthis_ smells a scent; _en tirmad tirmis_ tastes a flavor; _en tolvad dekazu_ touches a hand; and _en zarved zarvandon_ feels a bodily sensation. _En silkad korvath_ directs the eyes toward the sun; _en silkared korvath_ watches it attentively.
 
 _Dun dadro nelthis_ describes something fragrant, with a pleasant scent. _Dun korethos nelthis_ describes an unpleasant scent. In these fixed descriptions the quality belongs to the scent after _dun_, "with". _Ath lizel daimad dadro okandon_ means "The flower seems good": it gives a good appearance. This use reports an appearance rather than guaranteeing the flower's quality.
 

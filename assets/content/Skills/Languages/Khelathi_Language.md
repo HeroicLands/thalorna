@@ -222,7 +222,7 @@ data:
     - name: "Counting-house and water-works"
       holds: "The words of the realm's working life, and the ones its neighbors borrowed with the methods they name."
     - name: "The written and the recited"
-      holds: "What a scribe calls a work when he enters it in a catalogue, and what a reader announces before he begins."
+      holds: "What a scribe calls a work when he enters it in a catalog, and what a reader announces before he begins."
     - name: The Twelve
       holds: The twelve gods whose names carry the pause of the sacred register.
     - {name: Local gods, holds: "The local gods, whose names do not pause."}
@@ -1279,13 +1279,13 @@ data:
     - form: lamet
       class: v
       field: Everyday speech
-      gloss: to taste; to sense the flavour of something
+      gloss: to taste; to sense the flavor of something
       source: {kind: coined}
       concept: taste-verb
     - form: lamar
       class: n
       field: Everyday speech
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       source: {kind: coined}
       concept: taste-noun
     - form: thaluz
@@ -1689,7 +1689,7 @@ data:
     - form: qazlet qezil
       class: n
       field: Everyday speech
-      gloss: contempt; aversion joined with a judgement that its object is beneath regard
+      gloss: contempt; aversion joined with a judgment that its object is beneath regard
       source: {kind: coined}
       concept: contempt
       built: [qazlet, qezil]
@@ -3279,7 +3279,7 @@ data:
     - form: shenmal
       class: n
       field: Everyday speech
-      gloss: wool; the fleece fibre of sheep used in spinning and weaving, not head hair
+      gloss: wool; the fleece fiber of sheep used in spinning and weaving, not head hair
       source: {kind: coined}
       concept: wool
     - form: shenin
@@ -3892,7 +3892,7 @@ data:
     - form: qezmir
       class: adj
       field: Everyday speech
-      gloss: grey
+      gloss: gray
       source: {kind: coined}
       concept: grey
     - form: qedmir
@@ -3904,14 +3904,14 @@ data:
     - form: zelmir
       class: adj
       field: Everyday speech
-      gloss: light in colour; containing much white or little dark pigment
+      gloss: light in color; containing much white or little dark pigment
       source: {kind: coined}
       concept: light-colour
     - form: zelmin
       class: adj
       field: Everyday speech
       gloss:
-        - pale; faint or washed out in colour, and of a face lacking its usual colour
+        - pale; faint or washed out in color, and of a face lacking its usual color
         - "n: tag (separate noun from pale adjective)"
       source: {kind: coined}
       concept: pale
@@ -6209,7 +6209,7 @@ data:
     - form: qamar nazu tarmaz
       class: call
       field: Everyday speech
-      gloss: sorry; I feel regret, an acknowledgement of sorrow or responsibility as context determines
+      gloss: sorry; I feel regret, an acknowledgment of sorrow or responsibility as context determines
       source: {kind: coined}
       concept: expression-sorry
       built: [qamar, nazu, tarmaz]
@@ -6286,14 +6286,14 @@ data:
     - form: rethulun nazu
       class: v
       field: Everyday speech
-      gloss: I understand; an acknowledgement of comprehension
+      gloss: I understand; an acknowledgment of comprehension
       source: {kind: coined}
       concept: expression-i-understand
       built: [rethulun, nazu]
     - form: khez rethulun nazu
       class: v
       field: Everyday speech
-      gloss: I do not understand; an acknowledgement that the current matter has not been understood
+      gloss: I do not understand; an acknowledgment that the current matter has not been understood
       source: {kind: coined}
       concept: expression-i-do-not-understand
       built: [khez, rethulun, nazu]
@@ -6660,7 +6660,7 @@ data:
     - form: qaran
       class: n
       field: Everyday speech
-      gloss: a reason; a ground explaining or supporting an action or judgement
+      gloss: a reason; a ground explaining or supporting an action or judgment
       source: {kind: coined}
       concept: reason
     - form: temnar
@@ -6772,7 +6772,7 @@ data:
     - form: qelaz
       class: v
       field: Counting-house and water-works
-      gloss: fulfil an undertaking by performing it
+      gloss: fulfill an undertaking by performing it
       source: {kind: coined}
     - form: qelaznet
       class: n
@@ -6845,7 +6845,7 @@ data:
     - form: halqat
       class: n
       field: Counting-house and water-works
-      gloss: credit in an account, an act standing in someone's favour
+      gloss: credit in an account, an act standing in someone's favor
       source: {kind: coined}
     - form: nelazar
       class: n
@@ -7991,7 +7991,7 @@ data:
       field: The written and the recited
       gloss: senior in office or professional standing
       source: {kind: coined}
-    - {form: qedath, class: v, field: Doing, gloss: plough soil, source: {kind: coined}}
+    - {form: qedath, class: v, field: Doing, gloss: plow soil, source: {kind: coined}}
     - form: qezmit
       class: adj
       field: Everyday speech
@@ -8355,7 +8355,7 @@ _Mathun elu talqar_ can name a grandmother through either parent. A nephew is
 _malen qarenar elu linetar_ through one's sister or
 _malen qarenar elu linetun_ through one's brother; the corresponding female-child
 expressions name nieces. An orphan's _malen khez talqar_ describes the loss of
-living parents, rather than a judgement about birth or household rank.
+living parents, rather than a judgment about birth or household rank.
 
 _Khez zuren nazu telu_ means “I do not see you”. _Wanel nazu khez zuran_
 describes blindness, while _wanel nazu khez khashel_ describes deafness.
@@ -8725,7 +8725,7 @@ FROM words WHERE language = 'thalorna-note-skill-khelathlng' AND field = 'The re
 
 ### The written and the recited
 
-What a scribe calls a work when he enters it in a catalogue, and what a reader
+What a scribe calls a work when he enters it in a catalog, and what a reader
 announces before he begins. A title is a construct like a body's name: the kind of
 work, _elu_, and the god, the ruler or the author it belongs to, as in _Zamlet elu
 Uqa'a_, a hymn of the sun-lord. The collective _-u_ makes a gathering of works, so

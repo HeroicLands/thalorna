@@ -121,7 +121,7 @@ unresolved. Every pronoun has a named referent, every abstraction is cashed out 
 the sentence that raises it, and the shape of a long sentence comes from
 parallelism rather than from stacked clauses.
 
-When a teaching passage is not framed in a speaker's words, it keeps the teacher's stance in the narrator's own voice: it explains to a newcomer what someone who knows the place or the faith would explain, in the order a newcomer needs it. A lookup section states its facts flat in the third person. Both voices state what is there, put the figure in the sentence, name the tenant rather than the agricultural sector, and say plainly that a road is bad or a place is poor. Neither admires its own arrangement of the material, and the gazetteer voice is never catalogue prose with the people left out. Attributed speakers, anecdotes and concrete moments work inside the teaching voice, as the sections above describe.
+When a teaching passage is not framed in a speaker's words, it keeps the teacher's stance in the narrator's own voice: it explains to a newcomer what someone who knows the place or the faith would explain, in the order a newcomer needs it. A lookup section states its facts flat in the third person. Both voices state what is there, put the figure in the sentence, name the tenant rather than the agricultural sector, and say plainly that a road is bad or a place is poor. Neither admires its own arrangement of the material, and the gazetteer voice is never catalog prose with the people left out. Attributed speakers, anecdotes and concrete moments work inside the teaching voice, as the sections above describe.
 
 ### Two failures, and they are opposites
 
@@ -401,7 +401,7 @@ names its governing body in `data.government`, and a district may name its own.
 The person in charge is never written as a key on the place: it is the holder of
 the governing body's first-listed office, derived from the beings who hold it.
 
-**Tenure is never labelled.** No tag or key names a holding model. Where a
+**Tenure is never labeled.** No tag or key names a holding model. Where a
 culture holds land, a row of its region's settlement table may name what holds
 the settlement by address, and the meaning follows from what that address is: a
 temple, a lineage, the city, a kin group or a person. Where land is not owned,
@@ -472,7 +472,7 @@ stands, its parties, factions, stresses and challenges, or its contentment and
 the reason for it. The present never retells the history.
 
 **`{#history}` is required on polities, seats, cities and sites**, and optional on
-towns, villages and every other place, at the writer's judgement.
+towns, villages and every other place, at the writer's judgment.
 
 **`{#present}` belongs to every place and affiliation note at summary depth or
 deeper**; a stub at row depth needs none. A lore note, such as a history event or
@@ -549,7 +549,7 @@ stated plainly.
 
 ## Coining words
 
-These rules hold for every new coinage in every tongue; a language's own note adds its flavour on top.
+These rules hold for every new coinage in every tongue; a language's own note adds its flavor on top.
 
 - **No coined word is a whole word of the reader's own language.** The check reads the word list in `assets/data/`, which the generator in `utils/` builds.
 - **Respell in shapes a reader already knows.** A schwa is written _ò_, as in _òbáut_ and _bòtòl_, and the sound of _wh_ is written _hw_. The vowel of _bird_ is written _bùrd_, and the _aw_ of _law_ is written _o_ or _a_.
@@ -1324,7 +1324,7 @@ TBD.
 
 **Two signals say how ready a scenario is, and neither implies the other.**
 
-- **The `draft` tag** is the author's judgement that the scenario still needs work. It comes off when the scenario is judged finished, at its land's rendered read, whether or not it has been played, and it is kept or put back when play shows more work to do. A scenario states no `data.status`.
+- **The `draft` tag** is the author's judgment that the scenario still needs work. It comes off when the scenario is judged finished, at its land's rendered read, whether or not it has been played, and it is kept or put back when play shows more work to do. A scenario states no `data.status`.
 - **`## Playtest {#playtest}`** is optional and absent until the scenario is first run at a table. It records each run (the date, the table's size, the party's makeup and the scenes covered), the difficulty as played scene by scene, the adjustments a GM can make, and what the party did that the scenario did not foresee. A hole found in play is fixed in the scenario itself.
 
 ### doc
@@ -1446,7 +1446,7 @@ Adventurer's Guide has no common words, so all its terms stay italic.
 
 ## Spelling and punctuation
 
-Notes follow one spelling and punctuation standard, shown by the common traps below:
+Notes follow one spelling and punctuation standard. Prose spells _favor_, _honor_, _harbor_, _color_, _center_, _gray_, _realize_ and _traveled_ as the left column shows; invented words follow Pronouncing Thalorna. The common traps:
 
 | Write this                                                                | Not this                                                                        |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |

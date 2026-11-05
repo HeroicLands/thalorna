@@ -37,7 +37,7 @@ Every temple-estate keeps a school, where a priest teaches the village children 
 
 ## The Withering
 
-In stands all over the kingdom, trees are dying from the crown down. The leaves go grey and drop in midsummer, the bark loosens in sheets and shows a black stain beneath, and within two or three years the stand is dead wood on its feet. The woodsmen call it [the Withering]{.name data-type="lore"}.
+In stands all over the kingdom, trees are dying from the crown down. The leaves go gray and drop in midsummer, the bark loosens in sheets and shows a black stain beneath, and within two or three years the stand is dead wood on its feet. The woodsmen call it [the Withering]{.name data-type="lore"}.
 
 The temples call it a judgment. The high priesthood teaches that the forest dies where its people neglect the rites, and when the Withering appears on an estate, the prior orders penance: a procession around the dying stand with lamps, a fast, and the village's dues to its temple raised for the year. The woodsmen keep their own tellings. Some blame the cutting crews of the big contracts, who take a whole valley at once; some blame the smoke of the charcoal clamps; some say a stand dies where a tree was felled without the prayer for its spirit.
 

@@ -20,7 +20,7 @@ One dynasty tried to make the fiction true. The last Gar-Au of [[affiliation-gar
 
 ## The Regalia
 
-The Gar-Au wears a crown of a gold band painted with upright bands of deep azure, with a two-headed serpent of gold bent into a U at the brow, its heads rising at the tips and its eyes set with rubies. In one hand the Gar-Au holds a small thresher, a threshing club made for the hand, its staff banded in contrasting colours; the sovereign is the one who separates grain from chaff. The other hand is held flat, palm up, and on it rests an orb of amber the size of the palm, for the sun. The temple reliefs show every Gar-Au with all three, and the sacred script draws the sovereign with them.
+The Gar-Au wears a crown of a gold band painted with upright bands of deep azure, with a two-headed serpent of gold bent into a U at the brow, its heads rising at the tips and its eyes set with rubies. In one hand the Gar-Au holds a small thresher, a threshing club made for the hand, its staff banded in contrasting colors; the sovereign is the one who separates grain from chaff. The other hand is held flat, palm up, and on it rests an orb of amber the size of the palm, for the sun. The temple reliefs show every Gar-Au with all three, and the sacred script draws the sovereign with them.
 
 On the most formal occasions the Gar-Au also wears a cape of azure and gold on shoulder straps, and behind the head a great disk of thin beaten gold, carried on the straps, as the sign of the sovereign's divinity.
 

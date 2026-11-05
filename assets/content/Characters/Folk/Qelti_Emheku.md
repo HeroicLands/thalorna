@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Qelti Emheku is a 44-year-old man who stands 6'6" tall with a massive build. He has dark brown skin, greying black hair, and brown eyes.
+Qelti Emheku is a 44-year-old man who stands 6'6" tall with a massive build. He has dark brown skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

@@ -38,7 +38,7 @@ The village keeps one inn, a joiners' house at the head of the street with a car
 
 - **The merchant's commission.** A rich merchant from a distant city has seen a Damates panel and offers Zadros a commission and a place in his household while it is installed. Zadros is a shy man, and the elder wants a party to go with him and bring him home.
 - **The cheap goods.** Mass-made bowls and boxes from the south are selling in the village market at half the craftsmen's price. The elder suspects that someone in the village is letting the pedlars in, and she wants to know who.
-- **The stranger's timber.** A traveller arrives with a load of wood from a distant forest and will pay a fortune to have it carved. It resists the chisel, and the old coopers will not touch it.
+- **The stranger's timber.** A traveler arrives with a load of wood from a distant forest and will pay a fortune to have it carved. It resists the chisel, and the old coopers will not touch it.
 
 ## See Also
 

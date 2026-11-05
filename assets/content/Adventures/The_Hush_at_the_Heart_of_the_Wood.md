@@ -34,12 +34,12 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **Purpose.** Introduce the Hush, the rim's watchers and the first guardian.
 
-**Situation.** At the forest's edge the birds fall silent, then the insects. A circle of dark-wood posts hung with clapperless bronze bells stands in the trees. Beyond them is a ring of scorched earth, and beyond that the grey bare soil of the Clearing.
+**Situation.** At the forest's edge the birds fall silent, then the insects. A circle of dark-wood posts hung with clapperless bronze bells stands in the trees. Beyond them is a ring of scorched earth, and beyond that the gray bare soil of the Clearing.
 
 **NPCs and threats.**
 
 - [The Ash-Warden]{.name data-type="being/npc"}. A gaunt, soot-streaked forest shaman who keeps the rim. He burns the Quiet Dead when they rise and renews the ash-paths each season. He is half mad from long silence, fiercely protective, and suspicious of anyone who wishes to go in. He speaks little and hits first.
-- **Bone-grey carrion-lizards,** which feed on the leavings of the dead at the rim.
+- **Bone-gray carrion-lizards,** which feed on the leavings of the dead at the rim.
 
 **Player choices.**
 
@@ -58,7 +58,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **Purpose.** A puzzle of silence: crossing without sound, and with it.
 
-**Situation.** Beyond the bells, sound dies. A shout is lost within a few paces, and the air feels thick. The ground slopes toward the centre. Flat stones set in the grey soil mark safe paths.
+**Situation.** Beyond the bells, sound dies. A shout is lost within a few paces, and the air feels thick. The ground slopes toward the center. Flat stones set in the gray soil mark safe paths.
 
 **NPCs and threats.**
 
@@ -69,10 +69,10 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 - _Force:_ cross in a rush, ignoring the stones. The soil beneath gives way in patches.
 - _Stealth:_ follow the ash-lines, step by step.
-- _Guile:_ rig a rope-line from the bell-posts to the centre.
+- _Guile:_ rig a rope-line from the bell-posts to the center.
 - _Parley:_ the Warden, if he lives and was befriended, walks the party across.
 
-**Clues and rewards.** Hunters' remains lie at the false stones, with their gear: copper arrowheads, a clay whistle, a bone flute, a few trade-beads. The paths bend toward the centre in a spiral.
+**Clues and rewards.** Hunters' remains lie at the false stones, with their gear: copper arrowheads, a clay whistle, a bone flute, a few trade-beads. The paths bend toward the center in a spiral.
 
 **Consequences.** A false step wakes a grave, and one of the Quiet Dead rises early.
 
@@ -82,7 +82,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **Purpose.** A setback: dusk comes, and the dead rise.
 
-**Situation.** As the light fails, the grey soil heaves. Hands push up through the ground. Figures climb out, silent and wet with no water, and turn toward the party. They make no sound, because in the Hush there is none.
+**Situation.** As the light fails, the gray soil heaves. Hands push up through the ground. Figures climb out, silent and wet with no water, and turn toward the party. They make no sound, because in the Hush there is none.
 
 **NPCs and threats.**
 
@@ -96,7 +96,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 - _Guile:_ lead the dead into the false graves, or onto the thin soil.
 - _Parley:_ the dead cannot be bargained with. The Warden, if present, burns a path.
 
-**Clues and rewards.** The dead turn inward, toward the centre, as the night deepens. Whatever is at the heart is calling them back.
+**Clues and rewards.** The dead turn inward, toward the center, as the night deepens. Whatever is at the heart is calling them back.
 
 **Consequences.** Each wound taken in the Rising is cold and slow to heal. A wounded character who survives to dawn is marked.
 
@@ -106,7 +106,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **Purpose.** The climax: the heart of the wound.
 
-**Situation.** At the centre the ground is black, and the light dims in a ring around it. A figure sits cross-legged at its edge, facing outward, wrapped in a grey cloak that has rotted into the soil. It does not move.
+**Situation.** At the center the ground is black, and the light dims in a ring around it. A figure sits cross-legged at its edge, facing outward, wrapped in a gray cloak that has rotted into the soil. It does not move.
 
 **NPCs and threats.**
 
@@ -129,7 +129,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **Purpose.** Reward, revelation and twist.
 
-**Situation.** At the Listener's feet is a small cairn of grave-goods, the offerings of the dead he drew in: ivory beads, hide pouches, bronze arm-rings. At the cairn's centre lies a flat black stone that is cold in the hand.
+**Situation.** At the Listener's feet is a small cairn of grave-goods, the offerings of the dead he drew in: ivory beads, hide pouches, bronze arm-rings. At the cairn's center lies a flat black stone that is cold in the hand.
 
 **NPCs and threats.** The surviving dead, the Ash-Warden if he lives, and the dark.
 

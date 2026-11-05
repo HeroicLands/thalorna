@@ -417,7 +417,7 @@ sohl:
 
 ![[minakprkhn|Minaka Parikshuna]]{float=top-left}
 
-Minaka stands 5'9" tall with a heavy build. She has warm honey skin, greying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, greying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
+Minaka stands 5'9" tall with a heavy build. She has warm honey skin, graying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, graying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
 
 # Dossier {#dossier}
 

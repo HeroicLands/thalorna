@@ -24,7 +24,7 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [weathered]
-    extra_features: [Her left wrist wrapped in grey rag over the struck line]
+    extra_features: [Her left wrist wrapped in gray rag over the struck line]
   packFolder: ankarisvedyara
 sohl:
   items:
@@ -398,7 +398,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Piyadi is a small, wiry woman of twenty-six, 5'2", with brown skin, black eyes and black hair hacked short with a knife. She has the forearms and the stoop of somebody who has carried baskets up ladders since she could walk, and a cough she does not mention. She wears rough homespun and a wool cloak, all of it the colour of dust. A traveller's cord hangs at her neck, knotted at every shrine she has passed and has not entered. Her left wrist is wrapped in grey rag.
+Piyadi is a small, wiry woman of twenty-six, 5'2", with brown skin, black eyes and black hair hacked short with a knife. She has the forearms and the stoop of somebody who has carried baskets up ladders since she could walk, and a cough she does not mention. She wears rough homespun and a wool cloak, all of it the color of dust. A traveler's cord hangs at her neck, knotted at every shrine she has passed and has not entered. Her left wrist is wrapped in gray rag.
 
 Under the rag the wrist-line is struck through. She keeps a knife where nobody can see it, because in the orthodox lowlands an Outcaste who bears arms is killed for it.
 
@@ -420,15 +420,15 @@ What the Collective returns to the customs-house at Suryagarha is not what the g
 
 ## The Deck
 
-At the end of the last open season she did not come back up the road. She walked south instead, under the traveller's cord with her wrist wrapped, down the terrace road and through the lowland market towns, sleeping outside villages and buying bread from people who did not look at her hands. She is making for [[place-chandrmukha|the Moon-Mouth]], where a crew signs on at the quay and nobody asks to see a wrist.
+At the end of the last open season she did not come back up the road. She walked south instead, under the traveler's cord with her wrist wrapped, down the terrace road and through the lowland market towns, sleeping outside villages and buying bread from people who did not look at her hands. She is making for [[place-chandrmukha|the Moon-Mouth]], where a crew signs on at the quay and nobody asks to see a wrist.
 
-A runaway who reaches Chendramukhva is safe until the season ends and is safe afterwards only if she sails. She means to be aboard a hull outside the bar before the rains make the roadstead untenable, and she does not much care where it goes.
+A runaway who reaches Chendramukhva is safe until the season ends and is safe afterward only if she sails. She means to be aboard a hull outside the bar before the rains make the roadstead untenable, and she does not much care where it goes.
 
 ## Psyche
 
 ### Personality
 
-Piyadi is watchful, quiet and quick. She speaks only when she must, and then to the point. She does not expect kindness and is suspicious of it. She has a dry, bleak humour that comes out at night by a fire and is gone by morning.
+Piyadi is watchful, quiet and quick. She speaks only when she must, and then to the point. She does not expect kindness and is suspicious of it. She has a dry, bleak humor that comes out at night by a fire and is gone by morning.
 
 She has never seen the sea and does not know what to expect of it.
 

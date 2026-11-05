@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [artisan]
-  occupation: Jeweller
+  occupation: Jeweler
   lore: []
   culture: dunhariclt
   homes: [qarvelakhend]

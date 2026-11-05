@@ -223,7 +223,7 @@ The pasture gate has been chained against the lane, and in the field behind it a
 
 # Dossier {#dossier}
 
-Bovines are the cattle of the farms and herds of every farming country, four to six feet at the shoulder and eight hundred to two thousand pounds, the bull heaviest. Villages keep them for the plough, the milk and the hide, and the herding clans of the [[place-sthrnsvnhs|Southern Savannahs]] reckon their wealth in them. A herd is placid, but a bull in the autumn rut, a cow with a young calf and an animal that has been struck or cornered all charge.
+Bovines are the cattle of the farms and herds of every farming country, four to six feet at the shoulder and eight hundred to two thousand pounds, the bull heaviest. Villages keep them for the plow, the milk and the hide, and the herding clans of the [[place-sthrnsvnhs|Southern Savannahs]] reckon their wealth in them. A herd is placid, but a bull in the autumn rut, a cow with a young calf and an animal that has been struck or cornered all charge.
 
 ## Presentation
 
@@ -239,7 +239,7 @@ Cattle live as a herd, and a single animal cut off from it becomes nervous. They
 
 ## What the Herders Do
 
-The savanna clans measure wealth in cattle and keep them with great care, and a herd is the first thing a clan brings to a bargain. In the farming countries a bull is kept for breeding and nothing else, and a herder will not turn him loose in a field where a path crosses it. Oxen draw the plough and the heavy wagon. Cows are milked, and the hide, horn and tallow go to the tanner, the comb-maker and the chandler. On the road, a drover goes ahead of a herd to clear the way, and a traveler who finds a bull in a lane waits at a gate until the herder arrives.
+The savanna clans measure wealth in cattle and keep them with great care, and a herd is the first thing a clan brings to a bargain. In the farming countries a bull is kept for breeding and nothing else, and a herder will not turn him loose in a field where a path crosses it. Oxen draw the plow and the heavy wagon. Cows are milked, and the hide, horn and tallow go to the tanner, the comb-maker and the chandler. On the road, a drover goes ahead of a herd to clear the way, and a traveler who finds a bull in a lane waits at a gate until the herder arrives.
 
 ## Signs
 

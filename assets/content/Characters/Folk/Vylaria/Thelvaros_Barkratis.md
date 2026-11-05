@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Thelvaros Barkratis is a 64-year-old man who stands 6'3" tall and is of heavy build. He has light, weathered skin, brown hair going grey and brown eyes. He is a big man who sits as if the chair belonged to him, and he wears a good coat a few seasons out of fashion. He talks about his daughter to anyone who will listen.
+Thelvaros Barkratis is a 64-year-old man who stands 6'3" tall and is of heavy build. He has light, weathered skin, brown hair going gray and brown eyes. He is a big man who sits as if the chair belonged to him, and he wears a good coat a few seasons out of fashion. He talks about his daughter to anyone who will listen.
 
 # Dossier {#dossier}
 

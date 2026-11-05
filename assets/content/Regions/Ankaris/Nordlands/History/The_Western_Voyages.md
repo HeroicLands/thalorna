@@ -97,7 +97,7 @@ In a village of three hundred, the loss is the whole matter. Thirty-five men is 
 
 For twelve years nobody spoke of going west. Then [Skeldvir Hafthannsen]{.name data-type="being/npc"}, the jarl's son, who had grown from a boy of the fjord into the head of what was left of his father's household, took one boat across, with a crew who volunteered. It was no great raid. They fell on a village on the shore, were seen and fought, and left it burning. They came home with a few thralls and some artifacts, and none of Skeldvir's crew was lost.
 
-The artifacts are on the household's shelves and are the most-discussed things in the fjord. They are worked in hammered copper and in shell, in patterns no Nordman recognises, and some of them are plainly meant to be worn and others plainly for a purpose nobody has guessed. The thralls speak a tongue nobody in the north can follow, and the village has learned by now to make itself understood to them by signs.
+The artifacts are on the household's shelves and are the most-discussed things in the fjord. They are worked in hammered copper and in shell, in patterns no Nordman recognizes, and some of them are plainly meant to be worn and others plainly for a purpose nobody has guessed. The thralls speak a tongue nobody in the north can follow, and the village has learned by now to make itself understood to them by signs.
 
 On the far shore, the raid of 719 is the second the [[affiliation-osetakona|Maple People]] have seen, and they have not yet put the two together. They know only that the men who came from the water twice are men they have no name for.
 

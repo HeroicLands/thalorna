@@ -256,7 +256,7 @@ The Varokh hunt boar in winter on foot, with dogs to hold the animal and a cross
 
 ## Signs
 
-- A swath of turned earth through the leaf litter, as if a plough had been dragged through it.
+- A swath of turned earth through the leaf litter, as if a plow had been dragged through it.
 - A mud-wallow in a hollow, churned black, with bristles stuck to the trees around it.
 - A trunk rubbed smooth and muddy at the height of a man's knee.
 - Cloven tracks, deep and splayed, with the dew-claws showing in soft ground.

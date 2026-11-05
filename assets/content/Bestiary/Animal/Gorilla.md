@@ -445,7 +445,7 @@ A troop moves through a fixed territory by day, feeding on leaves, fruit and ste
 
 ## What the Hunters Do
 
-Most forest tribes do not hunt gorillas for food. They avoid the slopes where a troop lives, and a hunter who finds a nest-site turns back. When a silverback charges, it is in defence of the troop, and the correct answer is to stand still and look away. Traders who pass through the forest pay the tribes for guides who know the troop ranges. A silverback's skull is kept in a village as a mark of respect.
+Most forest tribes do not hunt gorillas for food. They avoid the slopes where a troop lives, and a hunter who finds a nest-site turns back. When a silverback charges, it is in defense of the troop, and the correct answer is to stand still and look away. Traders who pass through the forest pay the tribes for guides who know the troop ranges. A silverback's skull is kept in a village as a mark of respect.
 
 ## Signs
 

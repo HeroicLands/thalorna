@@ -154,7 +154,7 @@ The Kawiskak Language is soft and full of _w_, with only three vowels. A speaker
 
 **Shapes and endings.** A word opens on a vowel or on one consonant, never on two. Short words have two syllables and names run to four or five. About half of all words end on a vowel, most often _a_ or _o_, and the rest close on _k_, _n_, _sk_ or _hk_: _kawisk_, a spruce, _yahkin_, the north wind, _ospahk_, the sky.
 
-**What the Kawiskak Language leaves out.** It has no _e_ and no _u_. It has no _l_, _r_, _b_, _d_, _g_, _f_, _v_, _z_ or _j_, no _sh_, _ch_ or _th_, and none of the catches of the southern tongue. Its neighbours sound nothing like it: the Grass People's tongue opens words on _sk_ and _st_ and is full of _sh_ and _l_, and the Maple People's has no _p_, _m_ or _w_ at all.
+**What the Kawiskak Language leaves out.** It has no _e_ and no _u_. It has no _l_, _r_, _b_, _d_, _g_, _f_, _v_, _z_ or _j_, no _sh_, _ch_ or _th_, and none of the catches of the southern tongue. Its neighbors sound nothing like it: the Grass People's tongue opens words on _sk_ and _st_ and is full of _sh_ and _l_, and the Maple People's has no _p_, _m_ or _w_ at all.
 
 ## Stress
 
@@ -201,7 +201,7 @@ GROUP BY kind ORDER BY CASE kind WHEN 'cultures' THEN 0 WHEN 'parents' THEN 1 WH
 
 ## Attested names {#attested-names}
 
-Every name the setting gives the Spruce People, their bands, their lakes and their neighbours, with the note where it is met. A name in the reader's tongue is tagged as such.
+Every name the setting gives the Spruce People, their bands, their lakes and their neighbors, with the note where it is met. A name in the reader's tongue is tagged as such.
 
 ### Tongues
 

@@ -32,7 +32,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Purpose.** Draw the party in, and make the stage's courtesy the first menace.
 
-**Situation.** The last mile before Wenlorne is lined with iron lamp-posts, each lit with a still, pale flame that gives no heat. The light does not flicker in wind. At the gate-arch a figure in a grey coat stands holding a lantern and bows. Behind him the court is swept and the stable doors are open. The forest on either side of the road is wet and loud with the small noises of the dark, and the road itself is the only quiet thing in it.
+**Situation.** The last mile before Wenlorne is lined with iron lamp-posts, each lit with a still, pale flame that gives no heat. The light does not flicker in wind. At the gate-arch a figure in a gray coat stands holding a lantern and bows. Behind him the court is swept and the stable doors are open. The forest on either side of the road is wet and loud with the small noises of the dark, and the road itself is the only quiet thing in it.
 
 **NPCs and threats.** The **porters** are the stage's dead. They look like thin, pale servants with the dusty courtesy of people who have had no sleep for a long time, and they greet each guest by name if the name has been given anywhere on the road. They do not threaten. If a guest refuses the gate they step in front of the road behind, and there are always more of them than the party counted. The lamps are the other guard: a lit lamp near a refused guest marks them for the Reeve.
 
@@ -48,9 +48,9 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Purpose.** Give the party the stage's history and its rule of hospitality.
 
-**Situation.** The common room is warm. A long table is laid for a company three times the party's size, and there are bowls of steaming food whose smell is of bread and onions and nothing else. Porters stand at the walls. The Reeve sits at the head of the table in his grey coat and asks each guest for news of the road, as a reeve must, and writes the answers in a ledger.
+**Situation.** The common room is warm. A long table is laid for a company three times the party's size, and there are bowls of steaming food whose smell is of bread and onions and nothing else. Porters stand at the walls. The Reeve sits at the head of the table in his gray coat and asks each guest for news of the road, as a reeve must, and writes the answers in a ledger.
 
-**NPCs and threats.** The **Reeve** is a tall, dry thing with a long grey face that wears a reeve's courtesy as a skin. His voice is level and dusty. He believes the war is in its last night and that the road is full of the crown's enemies. The food is neither poison nor harmless: a guest who eats at his table is a guest by the oath and cannot be turned out, and a guest who refuses insults the house. The porters bring more to a guest who stays at the table than to a guest who rises.
+**NPCs and threats.** The **Reeve** is a tall, dry thing with a long gray face that wears a reeve's courtesy as a skin. His voice is level and dusty. He believes the war is in its last night and that the road is full of the crown's enemies. The food is neither poison nor harmless: a guest who eats at his table is a guest by the oath and cannot be turned out, and a guest who refuses insults the house. The porters bring more to a guest who stays at the table than to a guest who rises.
 
 **Player choices.** Force: attack the Reeve in his chair. Stealth: take no food, take notes and slip away. Guile: tell the Reeve the war is over and the road is safe, in terms he will believe. Parley: ask what the Reeve needs to be released from his office.
 

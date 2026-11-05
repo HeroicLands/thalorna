@@ -262,7 +262,7 @@ Chargers are herd animals, but training has bent the instinct toward the rider. 
 
 ## What the Knights Do
 
-A knight or a man-at-arms keeps one charger as the horse he fights from, and he rides a lighter horse on the road. The stable-master trains a colt to stand under a banner, to hold steady at a drum and at the smell of blood, and to turn into a charge on a word. A good charger is worth more than the armour on its rider's back. In a siege or a rout the horses are the first thing a defeated army tries to save and the first thing a victor takes. A charger bred in war is led, not ridden, over any road that is not necessary, and is walked cool after drill.
+A knight or a man-at-arms keeps one charger as the horse he fights from, and he rides a lighter horse on the road. The stable-master trains a colt to stand under a banner, to hold steady at a drum and at the smell of blood, and to turn into a charge on a word. A good charger is worth more than the armor on its rider's back. In a siege or a rout the horses are the first thing a defeated army tries to save and the first thing a victor takes. A charger bred in war is led, not ridden, over any road that is not necessary, and is walked cool after drill.
 
 ## Signs
 

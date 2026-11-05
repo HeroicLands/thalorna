@@ -23,7 +23,7 @@ data:
     - lore-akhhsmeqes
   lang: khel
 
-# terran_analog: "The Contendings of Horus and Seth, for gods quarrelling before a divine tribunal that cannot settle the case; the court records and land-tenure suits of the Nile valley, for the procedure; and the festival farce of any temple town, for the players, the drinking song and the actor's note in the margin. Departs: the quarrel is a property suit between brothers, nothing in it is violent or obscene, and it ends in a lease."
+# terran_analog: "The Contendings of Horus and Seth, for gods quarreling before a divine tribunal that cannot settle the case; the court records and land-tenure suits of the Nile valley, for the procedure; and the festival farce of any temple town, for the players, the drinking song and the actor's note in the margin. Departs: the quarrel is a property suit between brothers, nothing in it is violent or obscene, and it ends in a lease."
 ---
 
 The players of [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]] play **The Suit of the Scribe and the Builder**, _Genzat Reth'Sa'ar ez Saq'aru_, at the feasts [[affiliation-lutthubai|Lut-Thuba'i]] gives in [[lore-sheluessn|Shelu]], when the grain has been weighed into the temple's granaries and the hall is full of the people who carted it. It is a _genzat_, a suit at law told as a tale. The title names it as a suit is named, from the one who brings it toward the one it is brought against: the suit of [[lore-rethsaardty|Reth'Sa'ar]] toward [[lore-psaqarudty|Saq'aru]]. Which of the two brought it is the first thing the play cannot settle.

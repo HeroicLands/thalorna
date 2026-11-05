@@ -387,7 +387,7 @@ The thing that fills the doorway has to stoop to come through it. It is one of t
 
 The Grukar-Hushk is the warrior caste of the Grukar: the largest, the strongest and by far the most dangerous, five and a half to six and a half feet tall and massively built, and perhaps one Grukar in twenty. It rules the [[being-grukaruk|Grukar-Uk]] by fear and fights everything, other Hushk most of all, because it cannot abide a rival; two Hushk who meet fight until one is dead. That fratricide keeps the Hushk few and fierce, and it is no accident: the tribe's [[being-grkrahk|Grukar-ahk]] spawns its Hushk in numbers that guarantee it, because a Hushk with time to think might come to understand that mastering the spawner would make it master of everything. A Hushk clutch takes twelve weeks and costs the tribe more food than any other laying, and word that the spawn-chamber has laid Hushk runs through a tribe like a declaration of war, which is what it is.
 
-The name Grukar-Hushk is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see. Nobody knows whether the Grukar recognise the distinction themselves.
+The name Grukar-Hushk is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see. Nobody knows whether the Grukar recognize the distinction themselves.
 
 ## Presentation
 

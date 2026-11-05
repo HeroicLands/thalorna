@@ -42,7 +42,7 @@ The _sogola_ is the band of song that does the waking. When things go badly, the
 
 A Yesoma child is a _tolu_ until it kills its first animal in a net-hunt and divides the meat itself, keeping no more than its kpeti. Then it is _wibo_. A stranger the band takes in is a tolu until the band has eaten from that stranger's share without noticing whose it was.
 
-Nobody makes a Yesoma _kpaso_. The leader is recognised, not chosen. A tribe's bands come to camp near one person's fire at the honey gatherings, to bring that person their quarrels, and to give that person the first comb of the season, and when they have done this for a few seasons, that person is the kpaso. The leader decides nothing alone. A kpaso who gives orders is laughed at, and a kpaso who keeps back food stops being the leader the same day, because the bands camp elsewhere. A Yesoma tribe often goes years without a leader and feels no lack.
+Nobody makes a Yesoma _kpaso_. The leader is recognized, not chosen. A tribe's bands come to camp near one person's fire at the honey gatherings, to bring that person their quarrels, and to give that person the first comb of the season, and when they have done this for a few seasons, that person is the kpaso. The leader decides nothing alone. A kpaso who gives orders is laughed at, and a kpaso who keeps back food stops being the leader the same day, because the bands camp elsewhere. A Yesoma tribe often goes years without a leader and feels no lack.
 
 The _mbeli_ matter more than the leader. They remember which trails are whose, where the honey trees are, and which songs woke the forest last time.
 

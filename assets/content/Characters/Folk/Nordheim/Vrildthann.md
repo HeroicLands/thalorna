@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Vrildthann is a 32-year-old man who stands 5'9" tall with a medium build. He has pale skin, weathered complexion, brown hair, and grey eyes.
+Vrildthann is a 32-year-old man who stands 5'9" tall with a medium build. He has pale skin, weathered complexion, brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

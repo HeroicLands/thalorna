@@ -15,7 +15,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      The temple of Reth'Sa'ar, holding the archives, the observatory and the scribal schools, and served by the three-rank Khelathi priesthood. What it has not catalogued is, for most purposes, lost.
+      The temple of Reth'Sa'ar, holding the archives, the observatory and the scribal schools, and served by the three-rank Khelathi priesthood. What it has not cataloged is, for most purposes, lost.
     ranks:
       - level: 0
         title: Name Struck
@@ -28,14 +28,14 @@ data:
       - level: 2
         title: Lem'Nelgir
         description: >-
-          "Servant of the God"—an ordained priest of the god of knowledge, cataloguing the records, tracking the stars or training scribes.
+          "Servant of the God"—an ordained priest of the god of knowledge, cataloging the records, tracking the stars or training scribes.
       - level: 3
         title: Thaz'Lekhau
         description: >-
           "Great of Sacred Power"—the High Priest of Reth'Sa'ar, at the head of the archives, the observatory and the schools.
     offices:
       Keeper of the Archives: >-
-        Catalogues what the empire knows and answers for what the temple holds.
+        Catalogs what the empire knows and answers for what the temple holds.
       Watcher of the Stars: >-
         Tracks the stars for the calendar the administration runs on, and supplies the regnal and temple reckonings.
       Teacher of Scribes: >-
@@ -51,11 +51,11 @@ data:
 
 ## Overview
 
-Lut-Reth'Sa'ar is the temple of [[lore-rethsaardty|Reth'Sa'ar]], god of knowledge and of the written hand, and the physical seat of the archives, the observatory and the scribal schools that feed them. Its priests catalogue what the empire knows, track the stars for the calendar the whole administration runs on, and train the scribes who staff it. A scholar seeking a lost record starts here before anywhere else, because what the temple has not catalogued is, for most purposes, lost for good.
+Lut-Reth'Sa'ar is the temple of [[lore-rethsaardty|Reth'Sa'ar]], god of knowledge and of the written hand, and the physical seat of the archives, the observatory and the scribal schools that feed them. Its priests catalog what the empire knows, track the stars for the calendar the whole administration runs on, and train the scribes who staff it. A scholar seeking a lost record starts here before anywhere else, because what the temple has not cataloged is, for most purposes, lost for good.
 
 ## Character
 
-"Before you ask for anything, learn the rule of the house," the archivist tells the scholar who has traveled a month to be here. "If we have not catalogued it, it is lost. If it is lost, we cannot find it for you, and nobody else can either." Lut-Reth'Sa'ar is the seat of the empire's archives, the observatory and the scribal schools that feed them, and a scholar hunting a vanished record starts here before anywhere else.
+"Before you ask for anything, learn the rule of the house," the archivist tells the scholar who has traveled a month to be here. "If we have not cataloged it, it is lost. If it is lost, we cannot find it for you, and nobody else can either." Lut-Reth'Sa'ar is the seat of the empire's archives, the observatory and the scribal schools that feed them, and a scholar hunting a vanished record starts here before anywhere else.
 
 The temple trains by long residence. A Wazu (acolyte) spends years among the archives learning the sacred hand, mathematics, geometry and several scripts, and many never take ordination but go out as scribes, administrators and scholars who keep a lifelong tie to the temple. The ordained Lem'Nelgir hold the offices: the Keeper of the Archives, who answers for what the temple holds; the Watcher of the Stars, who supplies the calendar the administration runs on; and the Teacher of Scribes. Priests who handle the records are known for scruple. Betraying the accuracy of a record is, to them, a betrayal of the god.
 
@@ -78,7 +78,7 @@ The temple keeps a polite distance from the festivals of the [[affiliation-thuba
 
 ## Commerce and Currency
 
-The temple's holdings are its records, and what it sells is the work of keeping them. A clerk from a ministry in the [[place-garmedjatozo|Gar-Medjatozo]] quarter arrives with a scroll to be placed in the archive; a Lem'Nelgir catalogues it, assigns it a place, and the scroll is, from that day, a thing the empire knows it has. The observatory's reckonings of the stars are the calendar the administration runs on, and the temple supplies both the regnal and temple counts. The schools supply scribes to the state.
+The temple's holdings are its records, and what it sells is the work of keeping them. A clerk from a ministry in the [[place-garmedjatozo|Gar-Medjatozo]] quarter arrives with a scroll to be placed in the archive; a Lem'Nelgir catalogs it, assigns it a place, and the scroll is, from that day, a thing the empire knows it has. The observatory's reckonings of the stars are the calendar the administration runs on, and the temple supplies both the regnal and temple counts. The schools supply scribes to the state.
 
 The temple is paid in the god's own coin. Visitors leave fine papyrus, inks made from rare minerals, and copies of important texts; a scholar of means commissions a copy and gives it to the shelves. Say a visiting scholar is turned away from the deeper texts: he leaves a commissioned copy of a treatise, as courtesy and as hope, and the Keeper of the Archives enters it. The collective that holds the deeper texts is not moved by the gift.
 

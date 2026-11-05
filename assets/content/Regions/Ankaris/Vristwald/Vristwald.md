@@ -133,7 +133,7 @@ someone between them and the people. The Varokh refuse that hierarchy. Instead t
 a daughter village of its own kin takes ground the parent once used. That division often gives the two
 villages their first feud. Waldburg, with 800 people at its river crossing, is the
 conspicuous exception whose strained triad must be understood on its own terms. The repeated split,
-rather than growth into towns, makes Vristwald a country of many villages and no urban centre.
+rather than growth into towns, makes Vristwald a country of many villages and no urban center.
 
 This is the plainest statement of what the Varokh are. A people with no urban places has no seat of
 power to seize, no treasury to sack, no walls whose fall decides anything, and no single point at which

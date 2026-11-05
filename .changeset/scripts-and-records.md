@@ -4,7 +4,7 @@
 
 **Peoples and cultures**
 
-- Every Khelathi god has a full-colour emblem icon, its hieroglyph painted on lapis, and the Khelathi Pantheon shows each god's glyph.
+- Every Khelathi god has a full-color emblem icon, its hieroglyph painted on lapis, and the Khelathi Pantheon shows each god's glyph.
 - The Khelathi page opens with the memorial of Meqes VI and its translation.
 
 **Places**

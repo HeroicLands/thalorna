@@ -94,7 +94,7 @@ She trusts the people she fought beside more than she should, and she cannot ima
 
 ## Plot Hooks
 
-1. **The plots.** Veterans of the quarter have begun to plough the marked plots on Khamisar's southern terraces, saying the land was promised them, and the marines have been told to clear them before the Review. Razzina wants witnesses on the terraces when the marines come, people with no stake in the quarrel whom the Council will believe.
+1. **The plots.** Veterans of the quarter have begun to plow the marked plots on Khamisar's southern terraces, saying the land was promised them, and the marines have been told to clear them before the Review. Razzina wants witnesses on the terraces when the marines come, people with no stake in the quarrel whom the Council will believe.
 2. **The bondsman's bond.** A dock worker of the quarter has been bound for a debt he says he has paid, and his bond lies in a moneylender's strongroom in Besikar. Razzina needs someone a moneylender's clerk does not know by sight to learn which strongroom.
 3. **The song.** A Compact factor has paid the harbor taverns not to let the veterans sing [[lore-paidattheshoals|What Was Paid at the Shoals]] this year. Razzina asks a party with a singer among it to sing it first.
 4. **The surgeon.** A Free Captain's mate has come ashore with a wound that needs a surgeon who asks no questions, and the quarter's surgeon has been taken in by the marines. Razzina asks a party to find another before morning.

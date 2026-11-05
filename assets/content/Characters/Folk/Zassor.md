@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zassor is a 41-year-old man who stands 5'10" tall with a medium build. He has dark brown skin, greying black hair, and brown eyes.
+Zassor is a 41-year-old man who stands 5'10" tall with a medium build. He has dark brown skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

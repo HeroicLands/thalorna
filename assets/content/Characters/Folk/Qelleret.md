@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Qelleret is a 51-year-old woman who stands 6'2" tall with a heavy build. She has ebony skin, greying black hair, and brown eyes.
+Qelleret is a 51-year-old woman who stands 6'2" tall with a heavy build. She has ebony skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

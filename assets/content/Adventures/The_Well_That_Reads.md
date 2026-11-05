@@ -66,7 +66,7 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 **Purpose.** The well's trap and its price.
 
-**Situation.** The round chamber is cold, with a cold that has weight, and the lamps burn small. The well-head is a ring of grey stone with a cord worn into it where the buckets of an older age were lowered. A ladder of iron staples is set in the shaft wall, going down into a dark that the lamplight cannot reach. In the dark of the moon the stones whisper. The party must decide whether to descend or to ask from above. If they ask from above, the voice answers and asks a drop in return.
+**Situation.** The round chamber is cold, with a cold that has weight, and the lamps burn small. The well-head is a ring of gray stone with a cord worn into it where the buckets of an older age were lowered. A ladder of iron staples is set in the shaft wall, going down into a dark that the lamplight cannot reach. In the dark of the moon the stones whisper. The party must decide whether to descend or to ask from above. If they ask from above, the voice answers and asks a drop in return.
 
 **NPCs and threats.** The Tally speaks. It knows the party's names and one secret each. It tells them the secret that most frightens them, in a small, dry, cheerful voice, as a clerk reads out a debt. It offers an answer for a drop, and a second for a measure. It never raises its voice and it is never rude. It is patient in the way of a ledger. If the party descends, the iron staples are not what they seem: each step is a held breath, and the shaft is deeper than the ladder. The cold comes up through the hands, and a climber who stops hears the Tally count the rungs.
 
@@ -98,7 +98,7 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 **Purpose.** Pay the reward and name the cost.
 
-**Situation.** Beyond the cave a side passage leads to a vault of rubble, where the clay that survived the burning of the city's archive was thrown into the cliff by the fleeing Tellumi and has lain for ninety years. Some of it is whole. The passage is low and the air is dry for the first time since the stair, and the clay lies in drifts, grey and cracked and stamped with the wedge-signs of the old chancery.
+**Situation.** Beyond the cave a side passage leads to a vault of rubble, where the clay that survived the burning of the city's archive was thrown into the cliff by the fleeing Tellumi and has lain for ninety years. Some of it is whole. The passage is low and the air is dry for the first time since the stair, and the clay lies in drifts, gray and cracked and stamped with the wedge-signs of the old chancery.
 
 **NPCs and threats.** Whoever survives the cave arrives within the hour. If Nurmelul lives, he comes slowly and stands in the entrance with his students at his back and watches the party handle the tablets. If Qeshumor lives, he comes alone and says the vault belongs to the temple. Neither man is easy to refuse, and neither will fight a party that has just saved one of them without first being sure of the odds.
 

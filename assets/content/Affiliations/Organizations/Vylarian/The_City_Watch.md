@@ -38,7 +38,7 @@ data:
           A Parthan commanding a watch-cohort of four to five hundred men; every watch-house captain and the Nokaran above them hold this rank.
     offices:
       Nokaran: >-
-        Held by a Captain of the Watch. The zoralus (prefect of the watch), commanding the whole Watch, its gaols and its watch-houses, and answering to the Veramus of Order on the Verdan Orzara.
+        Held by a Captain of the Watch. The zoralus (prefect of the watch), commanding the whole Watch, its jails and its watch-houses, and answering to the Veramus of Order on the Verdan Orzara.
       Captain of a Watch-House: >-
         Held by a Captain of the Watch, one to each watch-house. Commands its watch-cohort and answers for the peace of its Circle and the wards around it.
       Keeper of the Engines: >-

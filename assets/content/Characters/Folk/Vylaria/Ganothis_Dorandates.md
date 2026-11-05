@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Ganothis Dorandates is a 58-year-old man who stands 5'11" tall and is of heavy build. He has tanned skin, dark brown hair going grey at the temples, and green eyes in a broad, lined face. He walks with the slow roll of a man whose knees have done too many stairs, carries his cudgel as if he has forgotten it is there, and greets half the shopkeepers of the central district by name. His voice is low and unhurried, and he seldom raises it.
+Ganothis Dorandates is a 58-year-old man who stands 5'11" tall and is of heavy build. He has tanned skin, dark brown hair going gray at the temples, and green eyes in a broad, lined face. He walks with the slow roll of a man whose knees have done too many stairs, carries his cudgel as if he has forgotten it is there, and greets half the shopkeepers of the central district by name. His voice is low and unhurried, and he seldom raises it.
 
 # Dossier {#dossier}
 

@@ -923,7 +923,7 @@ data:
     - "form": "sufir-"
       "class": "stem"
       "field": "Everyday speech"
-      "gloss": "smell; perceive odours"
+      "gloss": "smell; perceive odors"
     - "form": "sufiram"
       "class": "v"
       "field": "Everyday speech"
@@ -933,13 +933,13 @@ data:
     - "form": "sufirush"
       "class": "n"
       "field": "Everyday speech"
-      "gloss": "an odour; a smell perceived by the nose"
+      "gloss": "an odor; a smell perceived by the nose"
       "built": ["sufir-", "-ush"]
       "concept": "smell-noun"
     - "form": "palut-"
       "class": "stem"
       "field": "Everyday speech"
-      "gloss": "taste; perceive flavours"
+      "gloss": "taste; perceive flavors"
     - "form": "palutam"
       "class": "v"
       "field": "Everyday speech"
@@ -949,7 +949,7 @@ data:
     - "form": "palutush"
       "class": "n"
       "field": "Everyday speech"
-      "gloss": "a flavour; the taste perceived in the mouth"
+      "gloss": "a flavor; the taste perceived in the mouth"
       "built": ["palut-", "-ush"]
       "concept": "taste-noun"
     - "form": "kamur-"
@@ -3628,7 +3628,7 @@ data:
     - "form": "gashilan"
       "class": "adj"
       "field": "Everyday speech"
-      "gloss": "grey"
+      "gloss": "gray"
       "built": ["gashil-", "-an"]
       "concept": "grey"
     - {"form": "dabil-", "class": "stem", "field": "Everyday speech", "gloss": "brown"}
@@ -3641,7 +3641,7 @@ data:
     - "form": "saliman sish"
       "class": "adj"
       "field": "Everyday speech"
-      "gloss": "light in colour"
+      "gloss": "light in color"
       "concept": "light-colour"
       "built": ["saliman", "sish"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
@@ -7043,7 +7043,7 @@ sohl:
 
 Taruzeli is a tongue of the [Taruzelik Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Taruzeli, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The roman repertoire retains `f` and `o`, with their capitals, in the existing inherited vocabulary, including fusanush and so. The flavour palette governs new coinages and does not respell this established stock.
+The roman repertoire retains `f` and `o`, with their capitals, in the existing inherited vocabulary, including fusanush and so. The flavor palette governs new coinages and does not respell this established stock.
 
 ## Overview
 
@@ -7149,9 +7149,9 @@ The ordinary vocabulary recorded below supplements the speech of contracts and s
 
 ### Pronunciation and the shape of a word
 
-Read the common transcription with sounded vowels and no silent final letters. _A_ is the vowel of father, _i_ of machine and _u_ of rule; the less frequent _e_ is the vowel of bet. These new ordinary words favour those vowels. The existing vocabulary also contains the other sounds described above; no existing word is respelled. A doubled consonant is held briefly across the syllable boundary: _qat-tan_. Start a word with one consonant, never a cluster. _Sh_ is the sound in ship and _kh_ the sound in loch; the pronunciation guide allows a plain _k_ for the latter. A plain _k_ is also an accessible reading of _q_. In longer words stress the next-to-last syllable: _NE-sham_ for the two-syllable _nesham_; _ma-ZI-ram_ has three syllables and stresses _zi_. Stress the first syllable of any two-syllable word. The ordinary words here require no pitch marks. The traditional description of marked formal writing does not add marks to this common transcription.
+Read the common transcription with sounded vowels and no silent final letters. _A_ is the vowel of father, _i_ of machine and _u_ of rule; the less frequent _e_ is the vowel of bet. These new ordinary words favor those vowels. The existing vocabulary also contains the other sounds described above; no existing word is respelled. A doubled consonant is held briefly across the syllable boundary: _qat-tan_. Start a word with one consonant, never a cluster. _Sh_ is the sound in ship and _kh_ the sound in loch; the pronunciation guide allows a plain _k_ for the latter. A plain _k_ is also an accessible reading of _q_. In longer words stress the next-to-last syllable: _NE-sham_ for the two-syllable _nesham_; _ma-ZI-ram_ has three syllables and stresses _zi_. Stress the first syllable of any two-syllable word. The ordinary words here require no pitch marks. The traditional description of marked formal writing does not add marks to this common transcription.
 
-A hyphen at the end of a cited stem belongs to the dictionary explanation. Join the stem to its suffix and remove the hyphen in speech: _nesh-_ plus _-am_ is _nesham_, to see. _Mazir-_ plus _-am_ is _maziram_, to hear. The suffix _-am_ presents an ordinary act; _-ush_ presents its settled occurrence or result; _-an_ describes something bearing the quality. Record the particular sense a result has: _neshush_ is a sight, the visible scene or thing seen, and _mazirush_ an audible sound. These nouns name perceived things. _Sufirush_ is an odour and _palutush_ a flavour. When the act itself must be named without that result sense, say _dagirush mi nesham_, “the act of seeing,” using the ordinary action noun _dagirush_ and the full verb. Thus seeing and a sight can be distinguished without treating a bound root as a noun.
+A hyphen at the end of a cited stem belongs to the dictionary explanation. Join the stem to its suffix and remove the hyphen in speech: _nesh-_ plus _-am_ is _nesham_, to see. _Mazir-_ plus _-am_ is _maziram_, to hear. The suffix _-am_ presents an ordinary act; _-ush_ presents its settled occurrence or result; _-an_ describes something bearing the quality. Record the particular sense a result has: _neshush_ is a sight, the visible scene or thing seen, and _mazirush_ an audible sound. These nouns name perceived things. _Sufirush_ is an odor and _palutush_ a flavor. When the act itself must be named without that result sense, say _dagirush mi nesham_, “the act of seeing,” using the ordinary action noun _dagirush_ and the full verb. Thus seeing and a sight can be distinguished without treating a bound root as a noun.
 
 ### Clauses, participants and descriptions
 
@@ -7161,7 +7161,7 @@ The examples use full citation verbs for every participant; _-am_ does not itsel
 
 _Buram_ means “be” or “exist” and introduces an identity, state or location after the subject: _Tu jakudu buram bibudan_, “The ship is large”; _tu mardum buram be bashuru_, “The merchant is in the dwelling.” An adjective follows the noun it qualifies: _jakudu bibudan_, a large ship. A following noun phrase with _mi_ identifies relationship or possession: _tu salillu mi nizum_, “my cup”; _tu salillu mi nizim_, “your cup”; _mi nizum bash_, “ours.” A possession group can answer alone when the thing is already named: _Mi nizum_, “Mine.” The possessed thing comes first, as it does in _ramilu mi birum_, “a person's chest.” _Nashku mi mani_ is “the sea's appearance”; _nashku_ can describe a person, an object or a landscape without restricting appearance to people.
 
-The nominal description above recognises gender and number, while this ordinary register uses explicit words to avoid requiring an unrecorded inflection. _Birum lel_ is two people, _birum bash_ all the people; _qiziru nabzu_ is a male child and _qiziru nidru_ a female child. The examples keep a noun's recorded citation form with a quantity. Family _-i_, _-uni_ and _-um_ retain their established lineage and standing meanings. They are not appended to every noun to make a conversational plural.
+The nominal description above recognizes gender and number, while this ordinary register uses explicit words to avoid requiring an unrecorded inflection. _Birum lel_ is two people, _birum bash_ all the people; _qiziru nabzu_ is a male child and _qiziru nidru_ a female child. The examples keep a noun's recorded citation form with a quantity. Family _-i_, _-uni_ and _-um_ retain their established lineage and standing meanings. They are not appended to every noun to make a conversational plural.
 
 ### Kin and reference
 
@@ -7191,7 +7191,7 @@ A time expression before the subject frames the entire clause. _Hamulu ral nizum
 
 Numbers follow their noun. The existing _yez, lel, zem, vub, fom_ and _yet_ retain one through five and ten. The further bare numerals are _niz, nuz, vaz, vuz_ for six through nine. A scale precedes its multiplier: _yet lel_ is twenty; add units with _ki_, so _yet lel ki zem_ is twenty-three. _Yatar_ is hundred and _yatum_ thousand: _yatar zem_ is three hundred. An ordinal puts _sik_ after the entire cardinal group: _yez sik_, first; _yet sik_, tenth; _yet lel ki zem sik_, twenty-third. This works for later positions without borrowing a personal-name ending. A denominator with _paz_ names an equal division: _lel paz_, half; _vub paz_, quarter; _zem vub paz_, three quarters.
 
-_Bamar_ gives many or much and can intensify a quality; _qimar_ few or little. _Qadar_ is enough for the purpose at hand. _Lamuran vish_ means better and _lamuran vish bash_ best in the relevant group. The standard of comparison follows _mi_: _Tu jakudu buram bibudan vish mi ji_, “The ship is bigger than that.” _Qel_ gives equality in the stated respect. _Kaduman_ means heavy; _zu kaduman_ light in weight; _saliman sish_ light in colour. The phrases do not equate an object's colour and its weight.
+_Bamar_ gives many or much and can intensify a quality; _qimar_ few or little. _Qadar_ is enough for the purpose at hand. _Lamuran vish_ means better and _lamuran vish bash_ best in the relevant group. The standard of comparison follows _mi_: _Tu jakudu buram bibudan vish mi ji_, “The ship is bigger than that.” _Qel_ gives equality in the stated respect. _Kaduman_ means heavy; _zu kaduman_ light in weight; _saliman sish_ light in color. The phrases do not equate an object's color and its weight.
 
 _Be_ locates something in or at a place, _so_ gives a destination and _mi_ a source. _Tulmu_ and _dalmu_ identify the upper and lower sides, _selku_ the interior and _sabku_ the exterior. _Be lel_ means between two stated things and _be selku_ among a surrounding group in that spatial use. Give the actual objects after these relational groups: _tu salillu buram be lel tu salilum ki tu palilu_, “The cup is between the jar and the bowl.” _Hamilu namiram_, the sun waking, conventionally means east or dawn by the context; _hamilu namulam_, the sun sleeping, west or dusk. The dictionary records each use explicitly rather than requiring a new compass system.
 
@@ -7219,7 +7219,7 @@ The characteristic long-vowel marking system was systematized during the Merchan
 
 ### Standard Taruzeli (Confederation Dialect)
 
-The prestige dialect, spoken in the major trading cities of the Confederation. Favours the full run of _a_, _u_ and _i_ in open syllables, the endings _-um_, _-ush_ and _-uni_, and adherence to classical grammar. Used in formal diplomatic contexts and major contracts.
+The prestige dialect, spoken in the major trading cities of the Confederation. Favors the full run of _a_, _u_ and _i_ in open syllables, the endings _-um_, _-ush_ and _-uni_, and adherence to classical grammar. Used in formal diplomatic contexts and major contracts.
 
 ### Port Taruzeli (Kaliharan Dialect)
 

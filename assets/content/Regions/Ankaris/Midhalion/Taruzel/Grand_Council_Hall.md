@@ -36,7 +36,7 @@ The Hall is shut until the summer session, and the Clerk's rooms are the busiest
 
 ## History {#history}
 
-The Hall was the imperial customs-house of Besikar, where the empire's collectors read out the tariffs at the lectern and the merchants queued at the rail to pay their dues. The Grand Council took it for its seat after independence, and the device of the empire was chiselled off the pediment. Since then the Council has sat on the customs floor twice a year, the Reckoner of the Weight has read the cities' weights from the lectern at every opening, and the house beside it has been the residence of each year's Arch-Consul.
+The Hall was the imperial customs-house of Besikar, where the empire's collectors read out the tariffs at the lectern and the merchants queued at the rail to pay their dues. The Grand Council took it for its seat after independence, and the device of the empire was chiseled off the pediment. Since then the Council has sat on the customs floor twice a year, the Reckoner of the Weight has read the cities' weights from the lectern at every opening, and the house beside it has been the residence of each year's Arch-Consul.
 
 ## Hooks {#hooks}
 

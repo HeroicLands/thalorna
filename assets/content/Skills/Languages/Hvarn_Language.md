@@ -248,14 +248,14 @@ data:
     - form: noul
       class: n
       field: Everyday speech
-      gloss: smell, scent, odour
+      gloss: smell, scent, odor
       concept: smell-noun
     - form: mezh
       class: v
       field: Everyday speech
       gloss: to taste. This is the form for the named participant’s own act or experience.
       concept: taste-verb
-    - {form: meid, class: n, field: Everyday speech, gloss: "taste, flavour", concept: taste-noun}
+    - {form: meid, class: n, field: Everyday speech, gloss: "taste, flavor", concept: taste-noun}
     - form: hvul
       class: v
       field: Everyday speech
@@ -360,11 +360,7 @@ data:
       concept: [few, little-quantity]
     - {form: muln, class: adj, field: Everyday speech, gloss: "none, nothing; not", concept: none}
     - {form: dzour, class: adj, field: Everyday speech, gloss: yellow, concept: yellow}
-    - form: drelzh
-      class: adj
-      field: Everyday speech
-      gloss: grey, ash-coloured
-      concept: grey
+    - {form: drelzh, class: adj, field: Everyday speech, gloss: "gray, ash-colored", concept: grey}
     - {form: brouv, class: adj, field: Everyday speech, gloss: brown, concept: brown}
     - {form: mezhn, class: n, field: Everyday speech, gloss: mother, concept: mother}
     - {form: bozhn, class: n, field: Everyday speech, gloss: father, concept: father}
@@ -1471,7 +1467,7 @@ data:
       gloss: middle of the body; waist between ribs and hips
       concept: waist
       built: [meir, mavd]
-    - {form: meir, class: n, field: Everyday speech, gloss: "centre, middle"}
+    - {form: meir, class: n, field: Everyday speech, gloss: "center, middle"}
     - form: mavd
       class: n
       field: Everyday speech
@@ -4540,7 +4536,7 @@ Consonant Clusters
 : Heavy in every position, and the initial cluster _hv-_ is the people's own name
 
 Syllable Structure
-: Closed; stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favours short, front-stressed words
+: Closed; stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favors short, front-stressed words
 
 Final Consonants
 : Unrestricted, and a final cluster of three is ordinary
@@ -4572,7 +4568,7 @@ The [[affiliation-hvarnguides|Hvarn]] call themselves _hvarn_, which is also the
 
 A Hvarn compound sets two words side by side, the first saying which and the second saying what: _dzevd_ is bone and _poudz_ is to bring up from below, so _dzevdpoudz_ is the bone-bringer, who recovers the dead from the eastern gorges. The words are written whole at the seam, however many consonants meet there.
 
-The sound of Hvarn is dense. Clusters stand at the start and the end of a word, a final cluster of three is ordinary. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favours short words with the weight at the front.
+The sound of Hvarn is dense. Clusters stand at the start and the end of a word, a final cluster of three is ordinary. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favors short words with the weight at the front.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

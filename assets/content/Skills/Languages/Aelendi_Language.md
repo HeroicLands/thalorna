@@ -43,8 +43,8 @@ data:
       holds: "The verbs of ordinary speech, cited by the infinitive."
     - name: Numbers and grammar words
       holds: "The numbers, the pronouns, the article, the pointing words and the particles."
-    - name: "Colour and the look of things"
-      holds: "The colours: black, white, red, green, yellow, blue, grey and brown."
+    - name: "Color and the look of things"
+      holds: "The colors: black, white, red, green, yellow, blue, gray and brown."
   affixes:
     - form: "-and"
       gloss: "one who does it, or keeps it"
@@ -1842,7 +1842,7 @@ data:
     - form: lóskima
       class: n f
       field: "The body, life and death"
-      gloss: "a taste; a flavour"
+      gloss: "a taste; a flavor"
       concept: taste-noun
       source: {kind: inherited}
     - form: gríthathen
@@ -1890,7 +1890,7 @@ data:
     - form: rónkalis
       class: n f
       field: "The body, life and death"
-      gloss: "pride; honour a man claims for himself"
+      gloss: "pride; honor a man claims for himself"
       concept: pride
       source: {kind: inherited}
     - form: ghérmisa
@@ -2387,49 +2387,49 @@ data:
       built: [nond, uk]
     - form: thanar
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "black; dark"
       concept: [black, dark]
       source: {kind: inherited}
     - form: khalmar
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "white"
       concept: white
       source: {kind: inherited}
     - form: rudhar
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "red"
       concept: red
       source: {kind: inherited}
     - form: mírnaren
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "green"
       concept: green
       source: {kind: inherited}
     - form: sótharen
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "yellow"
       concept: yellow
       source: {kind: inherited}
     - form: dhéndaren
       class: adj
-      field: "Colour and the look of things"
-      gloss: "blue; the colour of the high sky"
+      field: "Color and the look of things"
+      gloss: "blue; the color of the high sky"
       concept: blue
       source: {kind: inherited}
     - form: ghéstaren
       class: adj
-      field: "Colour and the look of things"
-      gloss: "grey; ash-coloured"
+      field: "Color and the look of things"
+      gloss: "gray; ash-colored"
       concept: grey
       source: {kind: inherited}
     - form: khóldaren
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "brown"
       concept: brown
       source: {kind: inherited}
@@ -5295,301 +5295,301 @@ data:
       concept: end-noun
     - form: khalnar
       class: adj
-      field: Colour and the look of things
-      gloss: light in colour; pale; having little depth of colour
+      field: Color and the look of things
+      gloss: light in color; pale; having little depth of color
       source: {kind: inherited}
       concept: [light-colour, pale]
     - form: nirar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: clear; transparent; allowing an object behind it to be seen
       source: {kind: inherited}
       concept: [clear-appearance, transparent]
     - form: annirar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: opaque; not allowing an object behind it to be seen
       built: [an-, nirar]
       concept: opaque
     - form: kirnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: shiny; reflecting a bright gleam
       source: {kind: inherited}
       concept: shiny
     - form: ankirnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: dull in appearance; lacking a shine
       built: [an-, kirnar]
       concept: dull-appearance
     - form: kemar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: plain; without a pattern
       source: {kind: inherited}
       concept: plain-pattern
     - form: kernar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: spotted; marked with small contrasting patches
       source: {kind: inherited}
       concept: spotted
     - form: rendar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: striped; marked with contrasting bands
       source: {kind: inherited}
       concept: striped
     - form: gharnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: big; large in size
       source: {kind: inherited}
       concept: big
     - form: lunnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: small; little in size
       source: {kind: inherited}
       concept: small
     - form: ghuri ghuri lunnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: tiny; extremely small
       built: [ghuri, ghuri, lunnar]
       concept: tiny
     - form: tharnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: long in spatial length
       source: {kind: inherited}
       concept: long
     - form: sennar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: short in spatial length
       source: {kind: inherited}
       concept: short
     - form: durnel
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: low; not high above a base or reference point
       source: {kind: inherited}
       concept: low
     - form: marnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: wide; broad across
       source: {kind: inherited}
       concept: wide
     - form: seldnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: narrow; having little width
       source: {kind: inherited}
       concept: narrow
     - form: menthar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: heavy; great in weight
       source: {kind: inherited}
       concept: heavy
     - form: senmenthar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: light in weight
       source: {kind: inherited}
       concept: light-weight
     - form: terlar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: new; recently made or encountered
       source: {kind: inherited}
       concept: new
     - form: moghlar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: old; having existed for a long time; said of a thing
       source: {kind: inherited}
       concept: old-object
     - form: durmar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: slow; moving or happening at little speed
       source: {kind: inherited}
       concept: slow
     - form: londar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: easy; requiring little effort
       source: {kind: inherited}
       concept: easy
     - form: karnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: difficult; requiring much effort
       source: {kind: inherited}
       concept: difficult
     - form: gheldar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: good; sound or desirable in the respect meant
       source: {kind: inherited}
       concept: good
     - form: angheldar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: bad; unsound or undesirable in the respect meant
       built: [an-, gheldar]
       concept: bad
     - form: gherin gheldar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: better; good to a greater degree than the thing compared
       built: [gherin, gheldar]
       concept: better
     - form: gherin angheldar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: worse; bad to a greater degree than the thing compared
       built: [gherin, angheldar]
       concept: worse
     - form: gherin gheldar thinar ukal derar gharon
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: best; better than each other thing in the comparison
       built: [gherin, gheldar, thinar, ukal, derar, gharon]
       concept: best
     - form: gherin angheldar thinar ukal derar gharon
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: worst; worse than each other thing in the comparison
       built: [gherin, angheldar, thinar, ukal, derar, gharon]
       concept: worst
     - form: ghalnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: important; having great consequence or significance
       source: {kind: inherited}
       concept: important
     - form: anghalnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: trivial; of little consequence or significance
       built: [an-, ghalnar]
       concept: trivial
     - form: tarnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: necessary; needed for a purpose or condition
       source: {kind: inherited}
       concept: necessary
     - form: dhesnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: valuable; having worth
       source: {kind: inherited}
       concept: valuable
     - form: andhesnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: worthless; having no worth
       built: [an-, dhesnar]
       concept: worthless
     - form: gharsar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: useful; serving a purpose
       source: {kind: inherited}
       concept: useful
     - form: angharsar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: useless; serving no purpose
       built: [an-, gharsar]
       concept: useless
     - form: kergar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: broken; damaged or separated so that it is not whole
       source: {kind: inherited}
       concept: broken
     - form: tenghar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: complete; containing all that it needs or is meant to contain
       source: {kind: inherited}
       concept: complete
     - form: antenghar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: incomplete; lacking some required part
       built: [an-, tenghar]
       concept: incomplete
     - form: rundar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: honest; intending to speak and act truthfully
       source: {kind: inherited}
       concept: honest
     - form: anrundar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: dishonest; intending to mislead
       built: [an-, rundar]
       concept: dishonest
     - form: ghuri
       class: adv
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: very; to a high degree
       source: {kind: inherited}
       concept: very
     - form: ghuri ghuri
       class: adv
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: extremely; to an exceptionally high degree
       built: [ghuri, ghuri]
       concept: extremely
     - form: senri
       class: adv
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: somewhat; to a moderate degree
       source: {kind: inherited}
       concept: somewhat
     - form: sendri
       class: adv
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: slightly; to a small degree
       source: {kind: inherited}
       concept: slightly
     - form: sendi
       class: adv
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: barely; only just to the degree needed
       source: {kind: inherited}
       concept: barely
     - form: ghul antemar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: too much; more in quantity or degree than is suitable
       built: [ghul, antemar]
       concept: too-much
     - form: send antemar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: too little; less in quantity or degree than is needed
       built: [send, antemar]
       concept: too-little
     - form: semlar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: similar; resembling something without necessarily being equal or identical
       source: {kind: inherited}
       concept: similar
     - form: ghornar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: opposite; facing the contrary way or at the other extreme
       source: {kind: inherited}
       concept: opposite
@@ -7410,7 +7410,7 @@ The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sour
 
 **Vowels:** Áelendi maintains eight vowel positions with clear length distinctions. The nasal vowels of Élavendri are not true phonemes in Áelendi but rather the result of n dropping out after a vowel. The vowel inventory is more stable and resistant to diphthongization than in Élavendri.
 
-**Stress:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. Áelendi favours short words, so the stress most often lands at the front of a word, in a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.
+**Stress:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. Áelendi favors short words, so the stress most often lands at the front of a word, in a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.
 
 ### Áelendi and Élavendri
 
@@ -7420,9 +7420,9 @@ The two tongues descend from one, and nearly every difference between them is a 
 
 **The aspirates.** Where Áelendi closes the mouth, Élavendri opens it. Its th is breath rather than closure, and it has lost _kh_, _gh_ and _dh_. Áelendi keeps all four as stops, and is left with a single fricative for the whole language.
 
-**The long vowels.** An Áelendi long vowel is held on one colour and let go. Élavendri broke those vowels into the diphthongs it is admired for, so an Áelendi long _a_ stands where Élavendri has _ae_, a long _i_ where it has _ia_ or _ie_, and a long _u_ where it has _ye_.
+**The long vowels.** An Áelendi long vowel is held on one color and let go. Élavendri broke those vowels into the diphthongs it is admired for, so an Áelendi long _a_ stands where Élavendri has _ae_, a long _i_ where it has _ia_ or _ie_, and a long _u_ where it has _ye_.
 
-**The stress.** Áelendi keeps a steady, weighty stress and favours short words with the weight at the front. Élavendri traded fixed stress for the melodic accent it sings by, pitch carrying as much as weight, which is the feature that defeats learners of the lowland tongue and the one an Áelendan finds hardest to take seriously.
+**The stress.** Áelendi keeps a steady, weighty stress and favors short words with the weight at the front. Élavendri traded fixed stress for the melodic accent it sings by, pitch carrying as much as weight, which is the feature that defeats learners of the lowland tongue and the one an Áelendan finds hardest to take seriously.
 
 Cognate pairs, the Áelendi form beside the Élavendri one:
 
@@ -7491,9 +7491,9 @@ An Élavendri speaker cannot understand Áelendi without study. The phonetic dif
 
 The settlers who came over the pass had only the [[skill-thrvrdhscrpt|Thurarth]] runes, the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the [[lore-nordheimnclt|Nordheimn]] their [[skill-thuravarkscript|Thuravark Runic Script]] and the [[affiliation-vylarinmpr|Vylarian Empire]] its [[skill-thrvrknscrpt|Tharavarkon Script]]. Thurarth is for carving, and they had nothing to write with in the ordinary way. Monuments, old magic and poetry are still cut in it, and its cuttings hold separate staves for the ejectives and the aspirated stops that [[skill-elvndrlng|Élavendri]] has let fall together, so a lowland scholar reading an old inscription is spelling sounds his own mouth no longer makes.
 
-What is written rather than cut is written in the [[skill-clthndscrpt|Veldikko]], the Sinale starlight-hand, which the Áelendan took from their neighbours rather than received from any ancestor. Writing Áelendi in the Veldikko is not writing [[skill-sinalelng|Sinale]]: the script came across and the tongue did not. Áelendi is Pelwar in descent, takes its loanwords from Sinale without sharing its grammar, and is the language of every page set down in the hand. Anything old enough to be ancient in the region is therefore Áelendi, written in the Veldikko, and carved work is in Thurarth. The [[lore-flksinale|Sinale]] enclaves are near, old, and on terms with the highlands they keep with nobody else, and the hand came across the way everything else between them has. Why the Sinale opened it to these neighbours and not to others is the same question their whole closeness raises, and it has never been answered by either side.
+What is written rather than cut is written in the [[skill-clthndscrpt|Veldikko]], the Sinale starlight-hand, which the Áelendan took from their neighbors rather than received from any ancestor. Writing Áelendi in the Veldikko is not writing [[skill-sinalelng|Sinale]]: the script came across and the tongue did not. Áelendi is Pelwar in descent, takes its loanwords from Sinale without sharing its grammar, and is the language of every page set down in the hand. Anything old enough to be ancient in the region is therefore Áelendi, written in the Veldikko, and carved work is in Thurarth. The [[lore-flksinale|Sinale]] enclaves are near, old, and on terms with the highlands they keep with nobody else, and the hand came across the way everything else between them has. Why the Sinale opened it to these neighbors and not to others is the same question their whole closeness raises, and it has never been answered by either side.
 
-[[skill-elvndrlng|Élavendri]] did not take it. The lowlands went the other way and adopted the [[skill-semrnscrpt|Semaron]], the working alphabet of the Vylarian Empire, and an Élavendri book is in imperial letters. So the two branches borrowed their writing from opposite neighbours, and that is the whole account of how they came to differ: one people stayed in the Sinale's orbit and took what the Sinale had, the other moved into Vylaria's and took what Vylaria had, and the speech of each went the way of the company it kept.
+[[skill-elvndrlng|Élavendri]] did not take it. The lowlands went the other way and adopted the [[skill-semrnscrpt|Semaron]], the working alphabet of the Vylarian Empire, and an Élavendri book is in imperial letters. So the two branches borrowed their writing from opposite neighbors, and that is the whole account of how they came to differ: one people stayed in the Sinale's orbit and took what the Sinale had, the other moved into Vylaria's and took what Vylaria had, and the speech of each went the way of the company it kept.
 
 What the two hands reach is not comparable. An Élavendri page can be read by anyone holding the Semaron, which is most of the educated across [[place-midhalnrgn|Mídhalión Region]] and the western [[place-ankrscntnnt|Ankaris Continent]]; an Áelendi page can be read by the Sinale and by almost nobody else alive. And the two peoples can speak and cannot read—the tongues are near enough for a conversation, and the highlander commonly has the lowland one besides, but neither makes out a line the other has set down. Only in the carved work of magic and old poetry, which the Élavendri read as a learned skill, do they meet on a page.
 
@@ -7514,7 +7514,7 @@ The Áelendan nonetheless write very little. The [Kindred Pact]{.name data-type=
 
 ## Naming Traditions
 
-A name is inherited. A child receives the name of an honoured ancestor and is expected to carry what came with it, and the Áelendan do not coin new ones lightly—a name entering a lineage for the first time is an event the Tradition Keepers record and recite afterward among the genealogies.
+A name is inherited. A child receives the name of an honored ancestor and is expected to carry what came with it, and the Áelendan do not coin new ones lightly—a name entering a lineage for the first time is an event the Tradition Keepers record and recite afterward among the genealogies.
 
 **A given name is a root, or two roots set together, and nothing else.** It carries one mark, over the syllable that takes the stress, where the common rule would not place it. Masculine names close on a consonant and feminine names on -a; the neuter takes no personal names at all, belonging in the grammar to what is static and eternal.
 
@@ -7756,9 +7756,9 @@ The verbs are almost all inherited, and every inherited verb closes on the old i
 
 The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of [[place-alyssa|Alessa]].
 
-### Colour and the look of things
+### Color and the look of things
 
-The colours are plain adjectives, each cited in its masculine.
+The colors are plain adjectives, each cited in its masculine.
 
 ## Attested names {#attested-names}
 

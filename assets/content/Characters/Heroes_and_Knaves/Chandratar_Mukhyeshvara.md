@@ -421,7 +421,7 @@ sohl:
 
 ![[chndrtrmkhyshvr|Chandratar Mukhyeshvara]]{float=top-left}
 
-Chandratar stands 5'7" tall with a medium build. He has tawny brown skin, greying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
+Chandratar stands 5'7" tall with a medium build. He has tawny brown skin, graying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
 
 # Dossier {#dossier}
 

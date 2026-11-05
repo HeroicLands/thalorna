@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Shelem Ishtem Tsul is a 50-year-old man who stands 5'0" tall with a light build. He has golden skin, weathered complexion, greying black hair, and dark brown eyes.
+Shelem Ishtem Tsul is a 50-year-old man who stands 5'0" tall with a light build. He has golden skin, weathered complexion, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

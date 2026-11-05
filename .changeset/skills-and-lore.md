@@ -10,7 +10,7 @@
 
 **Literature and verse**
 
-- Poems tagged with a metre or a rhyme scheme state it in a sentence beside the poem.
+- Poems tagged with a meter or a rhyme scheme state it in a sentence beside the poem.
 - The Walking of the Line is set in two columns, Vylari in Semaron beside the translation, with every fifth line numbered.
 
 **Characters**

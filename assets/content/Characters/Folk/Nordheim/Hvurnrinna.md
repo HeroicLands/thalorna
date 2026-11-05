@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Hvurnrinna is a 72-year-old woman who stands 5'10" tall with a light build. She has pale skin, weathered complexion, grey hair, and green eyes.
+Hvurnrinna is a 72-year-old woman who stands 5'10" tall with a light build. She has pale skin, weathered complexion, gray hair, and green eyes.
 
 # Dossier {#dossier}
 

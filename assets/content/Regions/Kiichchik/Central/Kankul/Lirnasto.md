@@ -16,11 +16,11 @@ data:
 
 **Lirnasto**, the place of vines in the [[skill-sinalelng|Sinale language]], is the conclave the [[lore-flksinale|Sinale Folk]] keep in the middle of [[place-kiichchik|Ki'ich'chik Continent]]. It lies in the [[place-kankulrgn|K'ankul Region]], in the high jungle of the interior of the limestone platform, a long way from the coast and from every city of the realm. It is the one place in Ki'ich'chik where the Sinale and a human realm hold to an understanding. Nobody outside it has counted the Sinale there.
 
-## What a Traveller Finds
+## What a Traveler Finds
 
 The jungle of K'ankul is a worked land of maize plots, regrowing forest and hunting grounds, and at the edge of Lirnasto's country the working stops. The trees beyond are older and taller than any the lords' foresters keep, hung with vines from crown to root, and no plot has ever been burned among them. Sacred pools open in the limestone there as they do everywhere on the platform, and no priest has poured an offering into them.
 
-Nobody in K'ankul goes in, so a traveller has only the edge to describe: the wall of old trees, birds in a number and a noise the worked forest does not hold, and the white causeways of the realm stopping short of it on every side.
+Nobody in K'ankul goes in, so a traveler has only the edge to describe: the wall of old trees, birds in a number and a noise the worked forest does not hold, and the white causeways of the realm stopping short of it on every side.
 
 ## The Understanding
 

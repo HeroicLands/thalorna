@@ -24,7 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: dark_brown
     complexion: [clear]
-    extra_features: [A white beard cut square, Rasikara's grey ash-mark on his brow at the feasts]
+    extra_features: [A white beard cut square, Rasikara's gray ash-mark on his brow at the feasts]
   packFolder: ankarisvedyara
 sohl:
   items:
@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Samurat is a tall old man of seventy-five, 6'2", dark-skinned and still broad in the chest, with dark brown hair gone white at the edges and a white beard cut square. His eyes are dark brown and are beginning to fail him at distance, which he does not mention. He wears a long cotton robe ashore and walks with a staff he uses to point more than to lean on. At [[affiliation-rasikara|Rasikara]]'s feasts he wears the god's grey ash-mark on his brow.
+Samurat is a tall old man of seventy-five, 6'2", dark-skinned and still broad in the chest, with dark brown hair gone white at the edges and a white beard cut square. His eyes are dark brown and are beginning to fail him at distance, which he does not mention. He wears a long cotton robe ashore and walks with a staff he uses to point more than to lean on. At [[affiliation-rasikara|Rasikara]]'s feasts he wears the god's gray ash-mark on his brow.
 
 # Dossier {#dossier}
 

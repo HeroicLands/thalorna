@@ -6,6 +6,7 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import { execFileSync } from "node:child_process";
 import { createHash } from "node:crypto";
+import { isDeepStrictEqual } from "node:util";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { pieceGlosses } from "@heroiclands/package-build/engine/word-rows";
@@ -67,6 +68,135 @@ export function beforeEncodingMigration(file, revision = ENCODING_BASELINE) {
         historical.set(key, { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) });
     }
     return structuredClone(historical.get(key));
+}
+/**
+ * English prose follows American spelling, so the baseline's British forms are
+ * read in their American spelling. The fixture lists each such form.
+ */
+const AMERICAN_SPELLING = JSON.parse(
+    fs.readFileSync(new URL("./fixtures/american-spelling.json", import.meta.url), "utf8"),
+);
+const AMERICAN_WORDS = new RegExp(
+    `(?<![\\p{L}\\p{M}'’])(${Object.keys(AMERICAN_SPELLING).join("|")})(?![\\p{L}\\p{M}])`,
+    "giu",
+);
+/**
+ * The spans the spelling does not touch: wikilinks, code, link targets,
+ * attribute blocks, URLs, name and language spans, whole `{lang=…}` blocks,
+ * register names, and the frontmatter fields that hold identifiers, forms or enumerated
+ * values, with every entry of a block value.
+ */
+const PROTECTED_FIELDS =
+    "form|forms|group|concept|variants|plural|plurals|pattern|shortcode|id|address|target|path|parents|culture|lang|language|tags|type|subType|packFolder|icon|source|kind|class|built|derived|from|to|instead|root|stem|affix|attaches|examples|[a-z]+_color";
+const FRONTMATTER_FIELDS = new RegExp(
+    String.raw`\b(?:${PROTECTED_FIELDS})\s*:\s*(?:\[[^\]]*\]|"[^"]*"|\{[^}\n]*\}|[^,}\n]*)`,
+    "g",
+);
+/** A register entry's name, which keeps its established spelling. */
+const REGISTER_NAMES = /\bname:[^,}\n]*(?=,\s*tongue:|\n *tongue:)/g;
+/** Frontmatter that does not parse is read line by line. */
+const LINE_FIELDS = [REGISTER_NAMES, FRONTMATTER_FIELDS];
+const KEPT_SPANS = [/\[\[[^\]]*\]\]/g, /`[^`\n]*`/g, /https?:\/\/\S+/g];
+const PROTECTED_KEY = new RegExp(`^(?:${PROTECTED_FIELDS})$`);
+/** The source range of each protected value: a protected field's, or a register entry's name. */
+function protectedRanges(yaml) {
+    const doc = YAML.parseDocument(yaml);
+    if (doc.errors.length) return undefined;
+    const ranges = [];
+    const keyOf = (pair) => (YAML.isScalar(pair.key) ? String(pair.key.value) : undefined);
+    YAML.visit(doc, {
+        Map(_, map) {
+            const register = map.items.some((pair) => keyOf(pair) === "tongue");
+            for (const pair of map.items) {
+                const key = keyOf(pair);
+                if (!pair.value?.range || key === undefined) continue;
+                if (PROTECTED_KEY.test(key) || (register && key === "name"))
+                    ranges.push(pair.value.range.slice(0, 2));
+            }
+        },
+    });
+    return ranges.sort((a, b) => a[0] - b[0] || b[1] - a[1]);
+}
+/**
+ * Every protected value of the parsed frontmatter, whatever its source form:
+ * plain or quoted keys, flow or block values, and every entry of a list.
+ */
+function protectedValues(yaml, keep) {
+    const ranges = protectedRanges(yaml);
+    if (!ranges) return LINE_FIELDS.reduce((out, pattern) => out.replace(pattern, keep), yaml);
+    let out = "",
+        at = 0;
+    for (const [start, end] of ranges) {
+        if (start < at) continue;
+        out += yaml.slice(at, start) + keep(yaml.slice(start, end));
+        at = end;
+    }
+    return out + yaml.slice(at);
+}
+/** Every `::: {lang=…}` block, fences and body, nested divs included, indented up to three spaces. */
+function langBlocks(body, keep) {
+    const lines = body.split("\n");
+    const out = [];
+    for (let i = 0; i < lines.length; i++) {
+        if (!/^ {0,3}:{3,}\s*\{[^}\n]*\blang=[^}\n]*\}\s*$/.test(lines[i])) {
+            out.push(lines[i]);
+            continue;
+        }
+        let depth = 0,
+            end = i;
+        for (; end < lines.length; end++) {
+            if (/^ {0,3}:{3,}\s*$/.test(lines[end])) depth--;
+            else if (/^ {0,3}:{3,}\s*\S/.test(lines[end])) depth++;
+            if (depth === 0) break;
+        }
+        end = Math.min(end, lines.length - 1);
+        out.push(keep(lines.slice(i, end + 1).join("\n")));
+        i = end;
+    }
+    return out.join("\n");
+}
+const BODY_SPANS = [
+    langBlocks,
+    /\[[^[\]\n]*\]\{[^}\n]*(?:\.name|lang=|\.glyph)[^}\n]*\}/g,
+    /\]\([^)\n]*\)/g,
+    /\{[^}\n]*\}/g,
+];
+/** A baseline record with its prose in American spelling. */
+export function inAmericanSpelling(before) {
+    const raw = americanSpelling(before.raw);
+    // A record built in memory, whose raw text carries no matching frontmatter, keeps its own.
+    const fromNote = isDeepStrictEqual(YAML.parse(splitFrontmatter(before.raw).yaml), before.fm);
+    return { ...before, raw, fm: fromNote ? YAML.parse(splitFrontmatter(raw).yaml) : before.fm };
+}
+/** `text` with every listed British form in its American spelling, keeping initial case. */
+export function americanSpelling(text) {
+    const kept = [];
+    const keep = (span) => `\u0001${kept.push(span) - 1}\u0001`;
+    const { yaml, body } = splitFrontmatter(text);
+    const spelled = (part, spans) => {
+        let out = part;
+        for (const pattern of spans)
+            out = typeof pattern === "function" ? pattern(out, keep) : out.replace(pattern, keep);
+        out = out.replace(AMERICAN_WORDS, (word) => {
+            const american = AMERICAN_SPELLING[word.toLowerCase()];
+            if (word === word.toUpperCase() && word.length > 1) return american.toUpperCase();
+            return word[0] === word[0].toLowerCase() ?
+                    american
+                :   american[0].toUpperCase() + american.slice(1);
+        });
+        while (/\u0001\d+\u0001/.test(out))
+            out = out.replace(/\u0001(\d+)\u0001/g, (_, n) => kept[Number(n)]);
+        return out;
+    };
+    const head = text.indexOf(yaml);
+    if (head < 0) return spelled(text, [...KEPT_SPANS, ...BODY_SPANS]);
+    const bodyStart = text.lastIndexOf(body);
+    return (
+        text.slice(0, head) +
+        spelled(yaml, [protectedValues, ...KEPT_SPANS]) +
+        text.slice(head + yaml.length, bodyStart) +
+        spelled(body, [...KEPT_SPANS, ...BODY_SPANS])
+    );
 }
 const transfers = JSON.parse(
     fs.readFileSync(new URL("./fixtures/encoding-role-transfers.json", import.meta.url), "utf8"),
@@ -599,11 +729,11 @@ export const STRESS_PROSE = new Map([
         [
             [
                 "**Stress:** Stress consistently falls on the first syllable of roots, following a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.",
-                "**Stress:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. Áelendi favours short words, so the stress most often lands at the front of a word, in a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.",
+                "**Stress:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. Áelendi favors short words, so the stress most often lands at the front of a word, in a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.",
             ],
             [
                 "**The stress.** Áelendi has not moved its stress off the first syllable in the whole of its recorded life. Élavendri traded fixed stress",
-                "**The stress.** Áelendi keeps a steady, weighty stress and favours short words with the weight at the front. Élavendri traded fixed stress",
+                "**The stress.** Áelendi keeps a steady, weighty stress and favors short words with the weight at the front. Élavendri traded fixed stress",
             ],
             [
                 "It carries one mark, over its first syllable, because that is where the stress falls.",
@@ -616,11 +746,11 @@ export const STRESS_PROSE = new Map([
         [
             [
                 ": Closed; stress falls on the first syllable without exception",
-                ": Closed; stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favours short, front-stressed words",
+                ": Closed; stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favors short, front-stressed words",
             ],
             [
                 "Stress falls on the first syllable without exception.",
-                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favours short words with the weight at the front.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favors short words with the weight at the front.",
             ],
         ],
     ],
@@ -629,15 +759,15 @@ export const STRESS_PROSE = new Map([
         [
             [
                 "Nordmal is hammer-stressed and short: one or two syllables, with the weight on the first.",
-                "Nordmal is hammer-stressed and short: it favours one or two syllables, with the weight at the front.",
+                "Nordmal is hammer-stressed and short: it favors one or two syllables, with the weight at the front.",
             ],
             [
                 "Stress is predictable, falling primarily on the first syllable of words (STÓRaldur, HLARTHaruk). This creates",
-                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Nordmal favours short words, so the weight falls at the front. This creates",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Nordmal favors short words, so the weight falls at the front. This creates",
             ],
             [
                 "Stress falls on the first syllable of every word without exception, so a Nordmal name has exactly one beat and it lands at the front. That is what lets a name be said correctly on sight: AL-thmyl, VRA-thy-ra, HLARTH-a-ruk.",
-                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favours put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favors put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.",
             ],
             [
                 "Stress is initial in a name as in every other word, so any of these can be said correctly on sight—AL-thann, VRA-thy-ra, HLARTH-a-rukh.",
@@ -654,7 +784,7 @@ export const STRESS_PROSE = new Map([
         [
             [
                 "**Stress falls on the first syllable of every word, without exception.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _OL-tes-sa_, _SEL-kin-te_.",
-                "**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favours short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_.",
+                "**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favors short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_.",
             ],
             [
                 "**Writing and performance.** Stress stays on the first syllable. ",
@@ -708,7 +838,7 @@ export const STRESS_PROSE = new Map([
         [
             [
                 "Stress is generally initial (FA-ris, AR-vel) but varies for poetic effect.",
-                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provenzian favours short words, so it often lands at the front (FA-ris, AR-vel).",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provenzian favors short words, so it often lands at the front (FA-ris, AR-vel).",
             ],
         ],
     ],
@@ -717,7 +847,7 @@ export const STRESS_PROSE = new Map([
         [
             [
                 "Stress falls on the syllable that a doubled consonant opens: te-**LLU**-mi, ten-**NE**-li-mash. A word with no doubled consonant is stressed on its first syllable: **NE**-lim, **TASH**-bem.",
-                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last, as in te-**LLU**-mi, ten-ne-**LI**-mash, **NE**-lim and **TASH**-bem. Tellumi favours short words, so the weight most often falls at the front.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last, as in te-**LLU**-mi, ten-ne-**LI**-mash, **NE**-lim and **TASH**-bem. Tellumi favors short words, so the weight most often falls at the front.",
             ],
         ],
     ],
@@ -726,7 +856,7 @@ export const STRESS_PROSE = new Map([
         [
             [
                 "A word is stressed on its first syllable, whatever its length: _tsilkas_ is TSIL-kas, _kenwatukwa_ is KEN-wa-tu-kwa, and _kelwanuk_ is KEL-wa-nuk. A built word keeps the stress of its first root.",
-                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Kelwanuk favours short words with the weight at the front: _tsilkas_ is TSIL-kas, _kenwatukwa_ is ken-wa-TU-kwa, and _kelwanuk_ is kel-WA-nuk.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Kelwanuk favors short words with the weight at the front: _tsilkas_ is TSIL-kas, _kenwatukwa_ is ken-wa-TU-kwa, and _kelwanuk_ is kel-WA-nuk.",
             ],
         ],
     ],
@@ -761,8 +891,9 @@ export function withStressProse(text, file) {
 
 export function assertEncodingMigrationPreserved(
     current,
-    before = beforeEncodingMigration(current.file),
+    baseline = beforeEncodingMigration(current.file),
 ) {
+    const before = inAmericanSpelling(baseline);
     assert.equal(current.file, before.file);
     const file = current.file;
     const actual = canonical(current.fm, file),
@@ -883,7 +1014,8 @@ function projectionData(before, prefix, moveRoles = true) {
 }
 
 /** Restore the public piece-meaning and dictionary projection preservation proofs. */
-export function assertPublicLanguageProjections(current, before, prefix) {
+export function assertPublicLanguageProjections(current, baseline, prefix) {
+    const before = inAmericanSpelling(baseline);
     const priorData = projectionData(before, prefix);
     const oldMeaning = pieceGlosses(priorData),
         completeMeaning = pieceGlosses(projectionData(before)),

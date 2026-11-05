@@ -88,10 +88,10 @@ The Khelathi learn their great works by copying them and hearing them read, and 
 
 ## Lekhau
 
-Khelathi magic is priestly, and the line between priest and mage barely exists. Sacred power is trained in temple schools, licensed by temple authority, and practised as an extension of liturgy rather than as a separate craft; [[lore-khelunulekha|Khelunu Lekhau]] is the tradition and the houses that keep it. The [[affiliation-ordoarcanis|Thordimalon]] has no presence in the empire and no prospect of one, and its factors are received with the courtesy owed to a foreign scholar who has misunderstood something fundamental.
+Khelathi magic is priestly, and the line between priest and mage barely exists. Sacred power is trained in temple schools, licensed by temple authority, and practiced as an extension of liturgy rather than as a separate craft; [[lore-khelunulekha|Khelunu Lekhau]] is the tradition and the houses that keep it. The [[affiliation-ordoarcanis|Thordimalon]] has no presence in the empire and no prospect of one, and its factors are received with the courtesy owed to a foreign scholar who has misunderstood something fundamental.
 
 :::secret
-**For the GM:** The stranger rule is what makes organised crime here unlike organised crime anywhere else. A criminal family is nobody's doctrinal business—its obligations are held by kinship, as everyone's are. A body that takes in strangers and writes down what they owe is doing the one thing temples exist to do, and the priesthood answers that as heresy rather than theft. So growth is what condemns a syndicate, not violence or money, and its serious enemy is a priest rather than a magistrate. A party can be hired by either.
+**For the GM:** The stranger rule is what makes organized crime here unlike organized crime anywhere else. A criminal family is nobody's doctrinal business—its obligations are held by kinship, as everyone's are. A body that takes in strangers and writes down what they owe is doing the one thing temples exist to do, and the priesthood answers that as heresy rather than theft. So growth is what condemns a syndicate, not violence or money, and its serious enemy is a priest rather than a magistrate. A party can be hired by either.
 :::
 
 :::secret
@@ -114,7 +114,7 @@ WHERE type = 'place'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-The provinces are grouped four ways, and the grouping is most of what a traveller needs: [[affiliation-deltaselatu|the Delta Selatu]] are rich and cosmopolitan, [[affiliation-upperrivrslt|the Upper River Selatu]] are the grain and the old religion, [[affiliation-borderselatu|the Border Selatu]] are a military frontier, and [[affiliation-capitalselat|the Capital Selat]] is a province-sized city that thinks it is the empire.
+The provinces are grouped four ways, and the grouping is most of what a traveler needs: [[affiliation-deltaselatu|the Delta Selatu]] are rich and cosmopolitan, [[affiliation-upperrivrslt|the Upper River Selatu]] are the grain and the old religion, [[affiliation-borderselatu|the Border Selatu]] are a military frontier, and [[affiliation-capitalselat|the Capital Selat]] is a province-sized city that thinks it is the empire.
 
 The empire strikes no round coin. Its temples attest pieces of copper, silver and gold in gezan and qelu weights; familiar sealed pieces pass at face value, while unfamiliar metal is weighed and assayed. Copper spends for the temple's attested value, more than the bronze itself would fetch. The metal chosen for a payment also speaks: copper suits a market purchase, silver a substantial bargain, and gold a major exchange or offering. Large sums travel through the [[affiliation-garhalzi|Gar-Hálzi]] temple treasuries. The [[lore-aukhlthcrncy|currency note]] gives the weights and exchange rates.
 
@@ -130,7 +130,7 @@ The question a Khelathi asks about a literate stranger is never whether he can w
 
 The scribal school is the one reliable ladder out of the class you were born in, and every family in the valley knows it. A boy admitted at seven studies sacred texts, ritual, history, mathematics and medicine for years, and comes out belonging to the institution that actually runs the country. Military service raises a family over two or three generations; commerce takes longer. Most farmers' sons are farmers.
 
-Khelathi women own property in their own names, initiate divorce, plead in court and practise medicine—a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to the [[affiliation-uznera|Faith of Uzn'era]], which holds that creation requires a balanced partnership of masculine and feminine principles—a theology with direct legal consequences.
+Khelathi women own property in their own names, initiate divorce, plead in court and practice medicine—a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to the [[affiliation-uznera|Faith of Uzn'era]], which holds that creation requires a balanced partnership of masculine and feminine principles—a theology with direct legal consequences.
 
 A character might be a temple-trained scribe whose skill opens an archive, a boat pilot who knows which channels remain passable in the flood, a physician called to a deathbed, or a trader carrying a sealed letter between cities. Each has a reason to travel and people who expect them home.
 

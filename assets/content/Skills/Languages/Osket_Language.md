@@ -333,18 +333,18 @@ data:
     - form: tsork
       class: v
       field: Everyday speech
-      gloss: to taste; to sense a flavour; nonfinite action citation, not a complete finite assertion without an evidential marker
+      gloss: to taste; to sense a flavor; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
     - form: qesh tsork
       class: v
       field: Everyday speech
-      gloss: to taste; to sense a flavour; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
+      gloss: to taste; to sense a flavor; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: taste-verb
     - form: tsorkom
       class: n
       field: Everyday speech
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       source: {kind: coined}
       concept: taste-noun
     - form: palgh
@@ -460,25 +460,25 @@ data:
     - form: tsorkal
       class: adj
       field: Everyday speech
-      gloss: sweet; having a sweet flavour
+      gloss: sweet; having a sweet flavor
       source: {kind: coined}
       concept: sweet
     - form: tsorkul
       class: adj
       field: Everyday speech
-      gloss: sour; having an acidic flavour
+      gloss: sour; having an acidic flavor
       source: {kind: coined}
       concept: sour
     - form: tsorkel
       class: adj
       field: Everyday speech
-      gloss: bitter; having a sharp bitter flavour
+      gloss: bitter; having a sharp bitter flavor
       source: {kind: coined}
       concept: bitter
     - form: tsorkil
       class: adj
       field: Everyday speech
-      gloss: salty; having a salt flavour
+      gloss: salty; having a salt flavor
       source: {kind: coined}
       concept: salty
     - form: pulgh
@@ -3148,61 +3148,61 @@ data:
     - form: qursh
       class: adj
       field: Everyday speech
-      gloss: black; of the darkest colour
+      gloss: black; of the darkest color
       source: {kind: coined}
       concept: black
     - form: qersh
       class: adj
       field: Everyday speech
-      gloss: white; of the lightest colour
+      gloss: white; of the lightest color
       source: {kind: coined}
       concept: white
     - form: qarsh
       class: adj
       field: Everyday speech
-      gloss: red; blood-coloured
+      gloss: red; blood-colored
       source: {kind: coined}
       concept: red
     - form: qorsh
       class: adj
       field: Everyday speech
-      gloss: green; the colour of growing leaves
+      gloss: green; the color of growing leaves
       source: {kind: coined}
       concept: green
     - form: qirsh
       class: adj
       field: Everyday speech
-      gloss: yellow; the colour of ripe pale grain
+      gloss: yellow; the color of ripe pale grain
       source: {kind: coined}
       concept: yellow
     - form: korsh
       class: adj
       field: Everyday speech
-      gloss: blue; the colour of a clear deep sky
+      gloss: blue; the color of a clear deep sky
       source: {kind: coined}
       concept: blue
     - form: kursh
       class: adj
       field: Everyday speech
-      gloss: grey; between black and white without a strong hue
+      gloss: gray; between black and white without a strong hue
       source: {kind: coined}
       concept: grey
     - form: qarshel
       class: adj
       field: Everyday speech
-      gloss: brown; the colour of much earth or dry wood
+      gloss: brown; the color of much earth or dry wood
       source: {kind: coined}
       concept: brown
     - form: qershel
       class: adj
       field: Everyday speech
-      gloss: light in colour; having a high light value, distinct from emitting light
+      gloss: light in color; having a high light value, distinct from emitting light
       source: {kind: coined}
       concept: light-colour
     - form: qershul
       class: adj
       field: Everyday speech
-      gloss: pale; weak or washed out in colour
+      gloss: pale; weak or washed out in color
       source: {kind: coined}
       concept: pale
     - form: larshark

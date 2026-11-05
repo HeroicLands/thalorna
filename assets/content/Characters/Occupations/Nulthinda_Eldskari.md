@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [commoner]
-  occupation: Labourer (farm)
+  occupation: Laborer (farm)
   lore: []
   culture: nordheimnclt
   homes: [raltholm]

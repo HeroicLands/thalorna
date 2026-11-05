@@ -399,7 +399,7 @@ Kadmeros Harordis is a 37-year-old man who stands 6'1" tall and is of moderate b
 
 Kadmeros Harordis is a woodworker of [[place-velysara|Velisara]], a secondary city of the [[affiliation-provinclys|Province of Alessa]], who keeps a workshop in a lane off the old quarter. He makes what the city's old families still order and can no longer quite afford: carved chests and tables, doors and shutters for their town houses, panelling, picture frames, and the wooden fittings of the forums, which are mended rather than renewed. He works in iron and brass as well as wood, and fits his own hinges, locks and mounts.
 
-He also carves for the city's masons, cutting patterns and moulds from their drawings for the repairs to the forums. He is the best carver in the city, and the masons bring him more of this work every season.
+He also carves for the city's masons, cutting patterns and molds from their drawings for the repairs to the forums. He is the best carver in the city, and the masons bring him more of this work every season.
 
 ## Background
 
@@ -450,7 +450,7 @@ He has none. The city's other joiners resent the masons' custom he has taken fro
 4. **The neighbor.** A man from his father's village has come to Velisara as a guard of the [[affiliation-sekran|Sekran]]'s office, and has asked Kadmeros, as a favor between neighbors, to make a strongbox with a hidden lock for his master.
 
 :::secret {title="The Truth of Velisara"}
-The masons' repairs are replacements. When builders from the capital buy a column, a capital or a facing slab from the less-walked ends of the forums, the masons set a copy of brick and stucco in its place the same week, painted to match, and its carved capitals and mouldings are cast in the wooden moulds Kadmeros cuts from their drawings. The masons want the weathering of the real marble carved into each mould so the copy passes. Kadmeros has never asked what the moulds are for, and he has not worked it out.
+The masons' repairs are replacements. When builders from the capital buy a column, a capital or a facing slab from the less-walked ends of the forums, the masons set a copy of brick and stucco in its place the same week, painted to match, and its carved capitals and mouldings are cast in the wooden molds Kadmeros cuts from their drawings. The masons want the weathering of the real marble carved into each mold so the copy passes. Kadmeros has never asked what the molds are for, and he has not worked it out.
 
-The large order of the first hook is for six capitals at once, and the drawing is of the capitals of the old council hall's porch: the moulds for the copies that will replace the columns the builder's crew at the north end of the Old Forum has come to take. The scholar of the third hook knows what the joins mean, and his question is as far as he will go.
+The large order of the first hook is for six capitals at once, and the drawing is of the capitals of the old council hall's porch: the molds for the copies that will replace the columns the builder's crew at the north end of the Old Forum has come to take. The scholar of the third hook knows what the joins mean, and his question is as far as he will go.
 :::

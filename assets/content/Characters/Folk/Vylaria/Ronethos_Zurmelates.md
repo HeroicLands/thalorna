@@ -35,7 +35,7 @@ data:
 
 # Appearance {#appearance}
 
-Ronethos Zurmelates is a 58-year-old man who stands 5'10" tall and is of light build. He has medium skin browned by the road, black hair going grey at the temples and grey eyes that rest on whoever is speaking. He dresses for travel in a plain coat and boots, and he carries his own satchel of files rather than leave it with a clerk. He asks his questions quietly and writes down the answers himself.
+Ronethos Zurmelates is a 58-year-old man who stands 5'10" tall and is of light build. He has medium skin browned by the road, black hair going gray at the temples and gray eyes that rest on whoever is speaking. He dresses for travel in a plain coat and boots, and he carries his own satchel of files rather than leave it with a clerk. He asks his questions quietly and writes down the answers himself.
 
 # Dossier {#dossier}
 

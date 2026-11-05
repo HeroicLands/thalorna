@@ -42,7 +42,7 @@ The Flame also has a part in government. When the [Council of the Twelve]{.name 
 - **Scholars of [[place-caldar|Kaldar]]** have asked more than once to examine the shelf and the stone under the Flame. The Toqel has refused every one of them.
 
 :::secret {title="What the keepers know"}
-Nothing feeds the Flame that anyone has found. The keepers have sat with it in every season, and in their keeping it has not changed: not its height, not its colour, not in wind, rain or snow. A lamp lit from it is an ordinary flame, which burns its own oil and goes out when the oil is gone, and every keeper has seen one go out. They do not tell the pilgrims, who believe the lamp they carry home holds the Flame itself.
+Nothing feeds the Flame that anyone has found. The keepers have sat with it in every season, and in their keeping it has not changed: not its height, not its color, not in wind, rain or snow. A lamp lit from it is an ordinary flame, which burns its own oil and goes out when the oil is gone, and every keeper has seen one go out. They do not tell the pilgrims, who believe the lamp they carry home holds the Flame itself.
 :::
 
 ## Two Voices for Ataros {#present}

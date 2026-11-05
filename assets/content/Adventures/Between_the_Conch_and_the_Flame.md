@@ -19,7 +19,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 
 ## Hooks
 
-- **The thief.** A Stovira of [[affiliation-adanshreni|the Adanshreni]] needs a [Chinnasutra]{.name data-type="affiliation/criminal"} cell removed and cannot be seen near it. The cell takes from houses in mourning, which the shrena forbids, and hides its takings where nobody looks. The contract is generous and will not be honoured in writing.
+- **The thief.** A Stovira of [[affiliation-adanshreni|the Adanshreni]] needs a [Chinnasutra]{.name data-type="affiliation/criminal"} cell removed and cannot be seen near it. The cell takes from houses in mourning, which the shrena forbids, and hides its takings where nobody looks. The contract is generous and will not be honored in writing.
 - **The mercenary or soldier.** A Danhija widow hires two reliable swords to stand beside her at her husband's pyre. She will not say why. Her husband's brother wants the household's keys, and a dying man's wishes are in dispute.
 - **The leader.** The sabhra of a river village asks a chieftain to settle a quarrel with the pyre-keeper. The villagers' urns are light, and the keeper says the fire was thorough.
 - **The wanderer.** A Jvelita of the [[affiliation-agmipantra|Agmi-pantra]] has been sent for to purge the ground, and finds the keeper's family waiting on the gallery to see what he brings. He asks a traveler to watch the river with him.
@@ -34,7 +34,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 
 **Player choices.**
 
-- _Sound the conch._ Anyone may lift the black conch from its pedestal and sound it. The Waiting stop. Kholu goes grey.
+- _Sound the conch._ Anyone may lift the black conch from its pedestal and sound it. The Waiting stop. Kholu goes gray.
 - _Give coin._ A coin of passage, or a tomra filed blank, placed in a Waiting hand with the dead one's name, sends that one on. Names are on the bier-cloths of the households at the stair.
 - _Fire._ A Jvelita's ember kindled at the slab holds the Waiting back from the bier for as long as it burns.
 - _Fight._ The Waiting do not tire, and each one struck rises when the party turns.
@@ -52,7 +52,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 
 **Situation.** The next day. The gallery is quiet, and the keeper's family eats at the long table. On the table stands the great pair of scales, and beside them the keeper's ledger and a basket of the coins recovered from the ash. A Keeper of the Register of [[affiliation-thresholdkeepers|the Threshold-keepers]], [Satyadarshin]{.name data-type="being/npc"}, is in the shrine, with two witnesses and a court's warrant.
 
-**NPCs and threats.** Kholu is helpful and afraid. His wife and sons have the instincts of a family who think their house is being looked at. Satyadarshin, a lean man in grey with a witness-cord round his wrist, has come under warrant for an inheritance question. He refuses to put it, because the gap before the Landing's pyres has been open too long and nothing he asks would be answerable. He will say so to anyone who sits with him. The **widow in white** is back, sitting at the end of the bench with a cloth over her wrist.
+**NPCs and threats.** Kholu is helpful and afraid. His wife and sons have the instincts of a family who think their house is being looked at. Satyadarshin, a lean man in gray with a witness-cord round his wrist, has come under warrant for an inheritance question. He refuses to put it, because the gap before the Landing's pyres has been open too long and nothing he asks would be answerable. He will say so to anyone who sits with him. The **widow in white** is back, sitting at the end of the bench with a cloth over her wrist.
 
 **Player choices.**
 
@@ -96,7 +96,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 
 **Situation.** Beyond the cellar, a second stair descends to a round vault lined with white clay. On a bed in the center lies a dying man in gold-threaded cloth, and over him burns a single threshold lamp. The old man is not dead. He has not died, for days, and his lips move. Around him stand a dozen of the Waiting in a ring, facing outward, a coin in every hand.
 
-**NPCs and threats.** [Dakunata]{.name data-type="being/npc"}, the Lamp-Seller, is a Ritrija fallen, with the brand of a Patuta on his face and a hood to hide it. He was a priest of the temple school, trained to the passage, and he has learned how to keep a soul at the threshold and ask it things. He is quiet, exact and intensely courteous. He addresses the dying man by the polite name of his station, and the dying man answers him. The old man is [Dhanapati Ratnapala]{.name data-type="being/npc"}, the head of a trading household of [[place-naughat|Naughat]], and the questions are of trade: where the money is, who is owed, what the cargoes were worth. [[affiliation-twilighths|The Twilight House]] has commissioned the answers. Its Factor, [Sandhyakirti]{.name data-type="being/npc"}, a courtesan in grey-green silk, sits at the foot of the bed with a slate, writing. Dakunata fights with the Waiting and with a word that stops the heart.
+**NPCs and threats.** [Dakunata]{.name data-type="being/npc"}, the Lamp-Seller, is a Ritrija fallen, with the brand of a Patuta on his face and a hood to hide it. He was a priest of the temple school, trained to the passage, and he has learned how to keep a soul at the threshold and ask it things. He is quiet, exact and intensely courteous. He addresses the dying man by the polite name of his station, and the dying man answers him. The old man is [Dhanapati Ratnapala]{.name data-type="being/npc"}, the head of a trading household of [[place-naughat|Naughat]], and the questions are of trade: where the money is, who is owed, what the cargoes were worth. [[affiliation-twilighths|The Twilight House]] has commissioned the answers. Its Factor, [Sandhyakirti]{.name data-type="being/npc"}, a courtesan in gray-green silk, sits at the foot of the bed with a slate, writing. Dakunata fights with the Waiting and with a word that stops the heart.
 
 **Player choices.**
 

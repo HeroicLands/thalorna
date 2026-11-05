@@ -10,7 +10,7 @@ data: {demonym: null, lore: [bloodfield], parents: [hylen], population: 0, packF
 
 ## Overview
 
-A grain factor of one of the great houses, riding the [[place-hylen|Hilen]] estates in the week before harvest, makes a point of reaching Olkassa last. "It is cut by the time I get there," he says, "and the sheaves are heavier than anyone else's, and I have never asked the steward why. The wheat comes off the field of both eagles a fortnight before the neighbours' and sells to the state granaries at the top of the price. Do not ask the tenants. They know, and they will not tell you."
+A grain factor of one of the great houses, riding the [[place-hylen|Hilen]] estates in the week before harvest, makes a point of reaching Olkassa last. "It is cut by the time I get there," he says, "and the sheaves are heavier than anyone else's, and I have never asked the steward why. The wheat comes off the field of both eagles a fortnight before the neighbors' and sells to the state granaries at the top of the price. Do not ask the tenants. They know, and they will not tell you."
 
 The **Blood-field of Olkassa** is a [[lore-bloodfield|blood-field]] on the Olkassa estate, one of the great holdings of Hilen. It is where the army of [[affiliation-seldan|Seldan]] (the Senate) and the [[place-moktur|Moktur]] legions killed one another about 401 AF ([[lore-olcassabtl|The Battle of Olkassa]]), under the same eagle and with no quarter given. Its kind is a **quickening**, and it is among the best farmland in the province.
 

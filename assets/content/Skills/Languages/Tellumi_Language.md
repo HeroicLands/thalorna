@@ -272,8 +272,7 @@ data:
     - {name: Core nature, holds: Ordinary expressions for the nature category of Core Vocabulary.}
     - name: Core numbers
       holds: Ordinary expressions for the numbers category of Core Vocabulary.
-    - name: Core colours
-      holds: Ordinary expressions for the colours category of Core Vocabulary.
+    - {name: Core colors, holds: Ordinary expressions for the colors category of Core Vocabulary.}
     - {name: Core verbs, holds: Ordinary expressions for the verbs category of Core Vocabulary.}
     - {name: Core space, holds: Ordinary expressions for the space category of Core Vocabulary.}
     - {name: Core time, holds: Ordinary expressions for the time category of Core Vocabulary.}
@@ -1528,7 +1527,7 @@ data:
     - form: tumel
       class: n
       field: Core senses
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       source: {kind: coined}
       concept: taste-noun
     - form: limer
@@ -3798,86 +3797,86 @@ data:
       concept: count-verb
     - form: yarmil
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: yellow
       source: {kind: coined}
       concept: yellow
     - form: nelvur
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: blue
       source: {kind: coined}
       concept: blue
     - form: silvar
       class: adj
-      field: Core colours
-      gloss: grey
+      field: Core colors
+      gloss: gray
       source: {kind: coined}
       concept: grey
     - form: bermal
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: brown
       source: {kind: coined}
       concept: brown
     - form: vilmi
       class: adj
-      field: Core colours
-      gloss: light in colour
+      field: Core colors
+      gloss: light in color
       source: {kind: coined}
       concept: light-colour
     - form: vilni
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: pale
       source: {kind: coined}
       concept: pale
     - form: laskel
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: clear or distinct in visible appearance, not cloudless weather
       source: {kind: coined}
       concept: clear-appearance
     - form: laskum
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: opaque
       source: {kind: coined}
       concept: opaque
     - form: laskir
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: transparent
       source: {kind: coined}
       concept: transparent
     - form: helni
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: shiny
       source: {kind: coined}
       concept: shiny
     - form: nesh helni
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: not shiny; dull in surface appearance
       source: {kind: coined}
       built: [nesh, helni]
       concept: dull-appearance
     - form: talnim
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: plain; without a pattern
       source: {kind: coined}
       concept: plain-pattern
     - form: pirmun
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: spotted
       source: {kind: coined}
       concept: spotted
     - form: sirmun
       class: adj
-      field: Core colours
+      field: Core colors
       gloss: striped
       source: {kind: coined}
       concept: striped
@@ -6760,7 +6759,7 @@ A syllable is a consonant and a vowel, or a consonant, a vowel and one closing c
 
 ### Stress
 
-Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last, as in te-**LLU**-mi, ten-ne-**LI**-mash, **NE**-lim and **TASH**-bem. Tellumi favours short words, so the weight most often falls at the front.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last, as in te-**LLU**-mi, ten-ne-**LI**-mash, **NE**-lim and **TASH**-bem. Tellumi favors short words, so the weight most often falls at the front.
 
 ## Building words
 

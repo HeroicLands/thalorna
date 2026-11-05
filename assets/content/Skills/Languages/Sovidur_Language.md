@@ -256,7 +256,7 @@ data:
     - {"name": "Everyday things", "holds": "Ordinary vocabulary for things."}
     - {"name": "Everyday nature", "holds": "Ordinary vocabulary for nature."}
     - {"name": "Everyday numbers", "holds": "Ordinary vocabulary for numbers."}
-    - {"name": "Everyday colours", "holds": "Ordinary vocabulary for colours."}
+    - {"name": "Everyday colors", "holds": "Ordinary vocabulary for colors."}
     - {"name": "Everyday verbs", "holds": "Ordinary vocabulary for verbs."}
     - {"name": "Everyday space", "holds": "Ordinary vocabulary for space."}
     - {"name": "Everyday time", "holds": "Ordinary vocabulary for time."}
@@ -329,7 +329,7 @@ data:
     - form: Jobizur
       class: name
       field: Derived words
-      gloss: "the kin people: the largest steppe tribe, which takes in the families of its neighbours"
+      gloss: "the kin people: the largest steppe tribe, which takes in the families of its neighbors"
       built: [jobiz, -ur]
     - form: Qibudur
       class: name
@@ -1425,7 +1425,7 @@ data:
     - "form": "joruqos"
       "class": "n"
       "field": "Everyday senses"
-      "gloss": "a taste; a flavour"
+      "gloss": "a taste; a flavor"
       "concept": "taste-noun"
       "source": {"kind": "coined"}
     - "form": "zaqun"
@@ -3786,91 +3786,91 @@ data:
       "source": {"kind": "coined"}
     - "form": "ghaniyush"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "green"
       "concept": "green"
       "source": {"kind": "coined"}
     - "form": "qomich"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "yellow"
       "concept": "yellow"
       "source": {"kind": "coined"}
     - "form": "qayur"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "blue"
       "concept": "blue"
       "source": {"kind": "coined"}
     - "form": "chelolol"
       "class": "adj"
-      "field": "Everyday colours"
-      "gloss": "grey"
+      "field": "Everyday colors"
+      "gloss": "gray"
       "concept": "grey"
       "source": {"kind": "coined"}
     - "form": "ghayush"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "brown"
       "concept": "brown"
       "source": {"kind": "coined"}
     - "form": "jubam"
       "class": "adj"
-      "field": "Everyday colours"
-      "gloss": "light in colour, distinct from light in weight"
+      "field": "Everyday colors"
+      "gloss": "light in color, distinct from light in weight"
       "concept": "light-colour"
       "source": {"kind": "coined"}
     - "form": "joruy"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "pale"
       "concept": "pale"
       "source": {"kind": "coined"}
     - "form": "julikhokh"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "clear in appearance"
       "concept": "clear-appearance"
       "source": {"kind": "coined"}
     - "form": "jurol"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "opaque"
       "concept": "opaque"
       "source": {"kind": "coined"}
     - "form": "khugid"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "transparent"
       "concept": "transparent"
       "source": {"kind": "coined"}
     - "form": "chekhosh"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "shiny"
       "concept": "shiny"
       "source": {"kind": "coined"}
     - "form": "juvuz"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "dull"
       "concept": "dull-appearance"
       "source": {"kind": "coined"}
     - "form": "khalal"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "plain; without a visible pattern"
       "concept": "plain-pattern"
       "source": {"kind": "coined"}
     - "form": "jodakh"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "spotted"
       "concept": "spotted"
       "source": {"kind": "coined"}
     - "form": "zozul"
       "class": "adj"
-      "field": "Everyday colours"
+      "field": "Everyday colors"
       "gloss": "striped"
       "concept": "striped"
       "source": {"kind": "coined"}
@@ -6892,7 +6892,7 @@ data:
       source: {kind: coined}
     - form: qorzaq
       class: adj
-      field: Everyday colours
+      field: Everyday colors
       gloss: "ochre; the red-yellow of the earth ground for paint"
       source: {kind: coined}
     - {form: mirjolud, class: n, field: Derived words, gloss: a herder, built: [mirjol, -ud]}
@@ -6913,7 +6913,7 @@ data:
       gloss: "to stray; to wander from the way"
       source: {kind: coined}
     - {form: juvuk, class: n, field: Everyday things, gloss: "a bracelet", source: {kind: coined}}
-    - {form: jedorud, class: n, field: Derived words, gloss: a traveller, built: [jedor, -ud]}
+    - {form: jedorud, class: n, field: Derived words, gloss: a traveler, built: [jedor, -ud]}
     - form: chozeyud
       class: n
       field: Derived words
@@ -7495,7 +7495,7 @@ Quantity modifiers follow the item counted. Approximate, almost and exactly modi
 
 _Ghozir_ follows the comparison standard. Degree follows the quality. _kodu khizin kodu qazun ghozir qolun qazod jochun_ means “this horse is faster than that horse”. _kodu khizin kodu qazun ghozir jilod qazod jochun_ means “this horse is better than that horse”.
 
-The separate greatest and least degree words apply within the comparison set supplied in speech. _kodu jilod qazom_ means “the best horse”. State the comparison group when it is not already known. Long and short spatial length, duration, colour lightness and weight lightness have separate dictionary entries.
+The separate greatest and least degree words apply within the comparison set supplied in speech. _kodu jilod qazom_ means “the best horse”. State the comparison group when it is not already known. Long and short spatial length, duration, color lightness and weight lightness have separate dictionary entries.
 
 ### Joining, conditions and reports
 

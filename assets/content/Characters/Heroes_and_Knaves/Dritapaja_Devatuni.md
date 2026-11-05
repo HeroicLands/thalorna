@@ -409,7 +409,7 @@ He walks with a staff on the stair of the tower and without it everywhere else.
 
 ## The Last Roof
 
-[[place-svapnastambha|Svapnastambha]] stands on the rock shelf above the wells of [[place-marukupa|Marukupa]], the westernmost house of the [[affiliation-svapnasarisameja|Svapnasari-sameja]] anywhere, and the last roof in Vedyara a traveller sleeps under before the sand. A caravan master going west on [[place-marchroad|the March Road]] sleeps in one of its upper chambers, a keeper watches him, and what he brings back is read in the morning and written into the house's record. The reading costs nothing. The grain left afterward keeps the house.
+[[place-svapnastambha|Svapnastambha]] stands on the rock shelf above the wells of [[place-marukupa|Marukupa]], the westernmost house of the [[affiliation-svapnasarisameja|Svapnasari-sameja]] anywhere, and the last roof in Vedyara a traveler sleeps under before the sand. A caravan master going west on [[place-marchroad|the March Road]] sleeps in one of its upper chambers, a keeper watches him, and what he brings back is read in the morning and written into the house's record. The reading costs nothing. The grain left afterward keeps the house.
 
 Dritapaja is a **Dorshaka** of the house and its Keeper of the Dream-Record. He was born to a Ritrija household of [[place-sandyapur|Sandyapur]], came to the tower at nineteen as a Nidrapala, and has kept the record for twenty years. It runs back three hundred years, in the old abjad, in the hands of every keeper before him. A new dream is read against it, and he is the one who reads it.
 

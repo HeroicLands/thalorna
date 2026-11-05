@@ -421,7 +421,7 @@ sohl:
 
 ![[hlrksbrnthr|Hálrikos Bránthira]]{float=top-left}
 
-Hálrikos stands 5'4" tall with a medium build. He has pale sallow skin, greying black hair, and hazel eyes. His features include an oval face, a strong nose, a pointed chin, a wide mouth, thick dark brows.
+Hálrikos stands 5'4" tall with a medium build. He has pale sallow skin, graying black hair, and hazel eyes. His features include an oval face, a strong nose, a pointed chin, a wide mouth, thick dark brows.
 
 # Dossier {#dossier}
 

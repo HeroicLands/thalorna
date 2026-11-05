@@ -39,7 +39,7 @@ data:
 
 # Appearance {#appearance}
 
-Zarmelas Helarkales is a 78-year-old man who stands 5'9" tall and has wasted to a scant frame. He has light skin gone sallow and deeply lined, white hair cut close under the diadem, and grey eyes that are still quick. He sits more than he stands, in the purple of the throne over layers of fine wool against a cold nobody else in the room feels, and he keeps something in his hands at all times: a stylus, a cup, the ivory rod of the Sarnaks Maldor, because his hands shake when they are empty. His voice is dry and quiet, and the court has learned to be silent before he speaks so as not to miss it.
+Zarmelas Helarkales is a 78-year-old man who stands 5'9" tall and has wasted to a scant frame. He has light skin gone sallow and deeply lined, white hair cut close under the diadem, and gray eyes that are still quick. He sits more than he stands, in the purple of the throne over layers of fine wool against a cold nobody else in the room feels, and he keeps something in his hands at all times: a stylus, a cup, the ivory rod of the Sarnaks Maldor, because his hands shake when they are empty. His voice is dry and quiet, and the court has learned to be silent before he speaks so as not to miss it.
 
 # Dossier {#dossier}
 

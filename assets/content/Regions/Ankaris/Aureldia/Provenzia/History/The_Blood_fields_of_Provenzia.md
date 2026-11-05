@@ -76,7 +76,7 @@ _worked on_ are another matter.
 Very little, and deliberately.
 
 The clergy of the [[affiliation-selmoros|Faith of Sélmoros]], who serve [[lore-selmorosdty|Sélmoros]] as the Silent Judge, hold the competent authority.
-Their rite over a blood-field is one of settlement rather than cleansing—an acknowledgement, in their teaching, that the
+Their rite over a blood-field is one of settlement rather than cleansing—an acknowledgment, in their teaching, that the
 dead were not judged in order, and a formal placing of them in the god's keeping. It is performed
 where a field is troublesome, it is expensive, and it works perhaps half the time. Priests of
 Sélmoros are candid about the proportion, which does not endear them to the districts that pay.

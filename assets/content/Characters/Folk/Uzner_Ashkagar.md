@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Uzner Ashkagar is a 46-year-old woman who stands 5'1" tall with a scant build. She has dark brown skin, greying black hair, and dark brown eyes.
+Uzner Ashkagar is a 46-year-old woman who stands 5'1" tall with a scant build. She has dark brown skin, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

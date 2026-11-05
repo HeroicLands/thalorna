@@ -30,7 +30,7 @@ The Cedar People name many powers, and every house knows its own best. A few bel
 
 ## The Healers
 
-A healer (_hemnis_) is a person a power has taught. The teaching comes in a sickness or in a dream, often both: a person lies near death, travels in a dream to a power's house, and comes back with a song and the power's help. A healer cures by singing that song, by sucking out a sickness the power shows them, and, in the worst cases, by going into a trance and travelling to the Village of the Dead to bring back a soul that a hungry dead kinsman has taken. A healer is paid in blankets and charges a chief more.
+A healer (_hemnis_) is a person a power has taught. The teaching comes in a sickness or in a dream, often both: a person lies near death, travels in a dream to a power's house, and comes back with a song and the power's help. A healer cures by singing that song, by sucking out a sickness the power shows them, and, in the worst cases, by going into a trance and traveling to the Village of the Dead to bring back a soul that a hungry dead kinsman has taken. A healer is paid in blankets and charges a chief more.
 
 The healers belong to no house's order. A slave can be taught by a power as readily as a chief, and the coast says so, and has never known what to do about it.
 

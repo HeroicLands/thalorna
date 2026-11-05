@@ -3,7 +3,7 @@ shortcode: thulmosis2
 name: {full: Thulmosis}
 type: being
 subType: npc
-description: "A Halzi'a of a neighbouring selat, of a more traditional turn than his peers and untroubled by the comparison"
+description: "A Halzi'a of a neighboring selat, of a more traditional turn than his peers and untroubled by the comparison"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Thulmosis is a 40-year-old man who stands 5'7" tall with a light build. He has t
 
 # Dossier {#dossier}
 
-Thulmosis holds Halzi'a rank in a neighbouring selat, home in [[place-anlaghzetun|Anlagh-Zetun]]. His turn is more traditional than his peers', and the comparison troubles him not at all. He governs by the older rules and expects to be judged by them.
+Thulmosis holds Halzi'a rank in a neighboring selat, home in [[place-anlaghzetun|Anlagh-Zetun]]. His turn is more traditional than his peers', and the comparison troubles him not at all. He governs by the older rules and expects to be judged by them.

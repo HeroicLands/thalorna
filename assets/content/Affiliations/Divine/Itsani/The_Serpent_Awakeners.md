@@ -68,7 +68,7 @@ data:
       Reckoner of the Failed: >-
         Holds the count of souls the movement says Ch'al Ts'umaq has consumed, and the argument built on it.
       Shepherd of the Damut: >-
-        Takes charge of the returned once nothing recognisable remains, and directs what they are turned loose upon.
+        Takes charge of the returned once nothing recognizable remains, and directs what they are turned loose upon.
       Watcher: >-
         Keeps the cell ahead of the Ts'umaq'ob who hunt it—routes, informers, and the point at which a village must be abandoned.
   seat: null

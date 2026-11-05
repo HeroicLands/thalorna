@@ -22,7 +22,7 @@ A muleteer who hauls ore down from the lodes to the furnaces of [[place-stennvol
 
 ## Arriving
 
-The ore road climbs to Zargonara up a valley whose floor is grey with spoil. The heaps begin a mile below the town, long ridges of broken rock on which nothing grows, and the stream beside the road runs rust-red over stones stained orange. The town sits in terraces on the north slope, its houses of rough stone roofed with slate and blackened by the smoke of the roasting-hearths, and above the highest terrace the mountainside is pocked with the mouths of the adits, each with a timber frame, a spoil-heap and a path down to the ore-floors.
+The ore road climbs to Zargonara up a valley whose floor is gray with spoil. The heaps begin a mile below the town, long ridges of broken rock on which nothing grows, and the stream beside the road runs rust-red over stones stained orange. The town sits in terraces on the north slope, its houses of rough stone roofed with slate and blackened by the smoke of the roasting-hearths, and above the highest terrace the mountainside is pocked with the mouths of the adits, each with a timber frame, a spoil-heap and a path down to the ore-floors.
 
 The ore-floors are flat yards at the foot of the adits where the ore is broken by hand, sorted by women and boys at long tables, and loaded into panniers for the mules. The broken iron ore goes down in a steady train all day. The silver ore is sorted in a walled yard of its own, the [Silver Floor]{.name data-type="place/site"}, with a guard on its gate and the province's mark over the door, and it goes down twice a month in sealed panniers with an escort.
 

@@ -42,7 +42,7 @@ Kolsame Linthimis is a 46-year-old woman who stands 5'8" tall and is of heavy bu
 
 # Dossier {#dossier}
 
-Kolsame Linthimis is the Nokaran, the _zoralus_ (prefect of the watch) of [[affiliation-citywatchorz|the City Watch]] of [[place-orzara|Orzara]]. She commands the watch-houses of the Twelve Circles, their cohorts, their gaols and their fire-gear, and she answers for all of it to the Veramus of Order of [[affiliation-verdanorzara|the Orzara Courts]]. When the Veramus wants numbers, she gives him numbers. When a crowd gathers at a pay-hall or the grain halls, a Watch picket stands at the end of the lane, and often she is with it.
+Kolsame Linthimis is the Nokaran, the _zoralus_ (prefect of the watch) of [[affiliation-citywatchorz|the City Watch]] of [[place-orzara|Orzara]]. She commands the watch-houses of the Twelve Circles, their cohorts, their jails and their fire-gear, and she answers for all of it to the Veramus of Order of [[affiliation-verdanorzara|the Orzara Courts]]. When the Veramus wants numbers, she gives him numbers. When a crowd gathers at a pay-hall or the grain halls, a Watch picket stands at the end of the lane, and often she is with it.
 
 Her other work is the poisoners. The Watch is the office that hunts the underground apothecaries, the men and women who sell poisons and antidotes outside any guild, and for years the one she has wanted most is [[being-hrkhsbrmyds|Harkis Baremides]], the master poisoner whose work turns up in the capital's crimes.
 
@@ -62,7 +62,7 @@ She is blunt, tireless and suspicious, and she trusts a written record over a sw
 
 ### Motivation
 
-She wants the city quiet and the Veramus satisfied, in that order when she can choose and the other way round when she cannot. She wants Harkis Baremides in a Watch gaol before she leaves the post.
+She wants the city quiet and the Veramus satisfied, in that order when she can choose and the other way round when she cannot. She wants Harkis Baremides in a Watch jail before she leaves the post.
 
 ### Strengths
 

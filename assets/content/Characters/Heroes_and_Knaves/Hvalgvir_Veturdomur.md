@@ -412,7 +412,7 @@ sohl:
 
 ![[hvlgvrvtrdmr|Hvalgvir Veturdómur]]{float=top-left}
 
-Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
+Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 

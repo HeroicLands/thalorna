@@ -40,7 +40,7 @@ Answer all of them. A note that skips a section is a culture nobody can play.
     the records, who collects, and who decides when those answers conflict?
 11. What happens after death, and—the question that actually matters—**what
     does that belief make people do on an ordinary day?** An afterlife that
-    changes no behaviour is decoration. Say how it reaches ethics, law,
+    changes no behavior is decoration. Say how it reaches ethics, law,
     inheritance, burial, and what a person spends money on.
 12. Can the living affect the dead, or the dead the living? If so, through whom,
     and what does that institution charge?
@@ -53,8 +53,8 @@ Answer all of them. A note that skips a section is a culture nobody can play.
     Does anyone take care of them, and is it a duty or a kindness?
 15. What happens to someone injured or incapacitated who cannot meet their
     obligations but goes on living? Who feeds them?
-16. Who provides shelter, teaching and defence when a family cannot?
-17. How is the family organised? Is the nuclear or the extended family the unit,
+16. Who provides shelter, teaching and defense when a family cannot?
+17. How is the family organized? Is the nuclear or the extended family the unit,
     and what defines membership?
 
 ## How to answer them

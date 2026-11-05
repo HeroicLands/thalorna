@@ -3,7 +3,7 @@ shortcode: zelgeru
 name: {full: The Zelgeru}
 type: place
 subType: region
-description: "The great temple-estates of the empire, each with its granaries, workshops and tenant-villages—religious, economic and political institutions rivalling the Gar-Au's palace in power"
+description: "The great temple-estates of the empire, each with its granaries, workshops and tenant-villages—religious, economic and political institutions rivaling the Gar-Au's palace in power"
 tags: [generated, draft]
 data:
   demonym: Khelathi

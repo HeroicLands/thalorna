@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Zenothen Gurimandis is a 69-year-old man who stands 5'9" tall and is of medium build. He has tanned, ruddy skin, brown hair thinned and gone grey at the edges, and amber eyes that crease when he listens. He wears the plain robe of a priest of [[affiliation-marendas|Marendas]] with a book on a cord at his belt, and there is always ink on the fingers of his right hand. He speaks slowly, asks short questions and lets silences run.
+Zenothen Gurimandis is a 69-year-old man who stands 5'9" tall and is of medium build. He has tanned, ruddy skin, brown hair thinned and gone gray at the edges, and amber eyes that crease when he listens. He wears the plain robe of a priest of [[affiliation-marendas|Marendas]] with a book on a cord at his belt, and there is always ink on the fingers of his right hand. He speaks slowly, asks short questions and lets silences run.
 
 # Dossier {#dossier}
 

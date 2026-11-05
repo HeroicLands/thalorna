@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Ne' Ish Q'emul is a 53-year-old woman who stands 5'0" tall with a medium build. She has tawny skin, weathered complexion, greying black hair, and dark brown eyes.
+Ne' Ish Q'emul is a 53-year-old woman who stands 5'0" tall with a medium build. She has tawny skin, weathered complexion, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

@@ -36,4 +36,4 @@ Gahkar is a 44-year-old woman who stands 5'2" tall with a scant build. She has b
 
 # Dossier {#dossier}
 
-Gahkar deals timber out of [[place-khelzuret|Khelzuret]], buying in volume and expecting the volume honoured. A supplier's refusal to ship inferior wood is treated as an insult rather than a reasonable standard. Anyone supplying Gahkar learns to ship exactly what was ordered, or not to ship at all.
+Gahkar deals timber out of [[place-khelzuret|Khelzuret]], buying in volume and expecting the volume honored. A supplier's refusal to ship inferior wood is treated as an insult rather than a reasonable standard. Anyone supplying Gahkar learns to ship exactly what was ordered, or not to ship at all.

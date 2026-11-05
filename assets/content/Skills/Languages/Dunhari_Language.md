@@ -545,13 +545,13 @@ data:
     - form: lamoz
       class: v
       field: Everyday speech
-      gloss: to taste; to sense a flavour
+      gloss: to taste; to sense a flavor
       source: {kind: coined}
       concept: taste-verb
     - form: lamar
       class: n
       field: Everyday speech
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       source: {kind: coined}
       concept: taste-noun
     - form: mevad
@@ -935,7 +935,7 @@ data:
     - form: navrovar naverd
       class: n
       field: Everyday speech
-      gloss: contempt; aversion joined to a judgement that its object is beneath regard
+      gloss: contempt; aversion joined to a judgment that its object is beneath regard
       source: {kind: coined}
       concept: contempt
     - form: ravmesh
@@ -2521,7 +2521,7 @@ data:
     - form: shamvar
       class: n
       field: Everyday speech
-      gloss: wool; the fleece fibre of sheep used in spinning and weaving, not head hair
+      gloss: wool; the fleece fiber of sheep used in spinning and weaving, not head hair
       source: {kind: coined}
       concept: wool
     - form: shavrin
@@ -3210,7 +3210,7 @@ data:
     - form: qazrim
       class: adj
       field: Everyday speech
-      gloss: grey
+      gloss: gray
       source: {kind: coined}
       concept: grey
     - form: dorvam
@@ -3222,13 +3222,13 @@ data:
     - form: nevamar
       class: adj
       field: Everyday speech
-      gloss: light in colour; containing much white or little dark pigment
+      gloss: light in color; containing much white or little dark pigment
       source: {kind: coined}
       concept: light-colour
     - form: nevamir
       class: adj
       field: Everyday speech
-      gloss: pale; faint or washed out in colour, and of a face lacking its usual colour
+      gloss: pale; faint or washed out in color, and of a face lacking its usual color
       source: {kind: coined}
       concept: pale
     - form: zarevam
@@ -4669,7 +4669,7 @@ data:
     - form: raverd
       class: n
       field: Everyday speech
-      gloss: a reason; a ground explaining or supporting an action or judgement
+      gloss: a reason; a ground explaining or supporting an action or judgment
       source: {kind: coined}
       concept: reason
     - form: raver
@@ -5490,13 +5490,13 @@ data:
     - form: vev velvam
       class: v
       field: Everyday speech
-      gloss: I understand; an acknowledgement of comprehension
+      gloss: I understand; an acknowledgment of comprehension
       source: {kind: coined}
       concept: expression-i-understand
     - form: vev vez velvam
       class: v
       field: Everyday speech
-      gloss: I do not understand; an acknowledgement that the current matter has not been understood
+      gloss: I do not understand; an acknowledgment that the current matter has not been understood
       source: {kind: coined}
       concept: expression-i-do-not-understand
     - form: tesh yem davrem
@@ -6591,7 +6591,7 @@ _mavun re daruv_ names a mother of either parent, and _navun re navun_ a child
 of one's child. _navun pavar re darvanir_ names a sister's male child; replacing the sister
 word with _darvaner_ names a brother's male child. The corresponding
 female-child expressions name nieces. An orphan's _navun nev daruv_ describes
-the absence of living parents rather than a judgement about clan standing.
+the absence of living parents rather than a judgment about clan standing.
 
 _vev tesh vez zarem_ means “I do not see you”.
 _vev nev zaremar vorem_ describes blindness and _vev nev shevamar vorem_
@@ -6762,7 +6762,7 @@ confirmation, often with conversational surprise.
 _naverim ghev_ is very small, _naverim ghavor_ tiny and _navord ghavor_ huge.
 _naverim zemim_ is somewhat small and _naverim zemiv_
 slightly small. _mavor re darovar_ names wood as material, including branches,
-fallen wood and timber; _shamvar_ names sheep's fleece fibre.
+fallen wood and timber; _shamvar_ names sheep's fleece fiber.
 
 The ordinary citations use the tongue's Qalezu writing alongside its recited
 tradition. The older sayings, names, endings and courtly or cult ranks keep

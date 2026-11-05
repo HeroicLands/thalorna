@@ -55,7 +55,7 @@ Twelve years ago [[place-taruzelrgn|Taruzel]] won its independence from the [[af
 
 ## The Situation and the Stakes {#the-situation}
 
-**The rising.** The [[affiliation-unchained|Unchained]] of the veterans' halls, the [[affiliation-freecaptains|Free Captains]] and the harbour veterans of Yamuzel mean to rise at the Review. Their boats close the line through the narrows, and what happens after that is not settled. [[being-rzznpddn|Razzina Padduni]]'s hall in the Veterans' Quarter is where the plan is talked over. She argues every night that it needs a captain the whole coast would follow, and the man every side courts is [[being-zbzmjkdn|Zabuzum Jakuduni]], captain of [[affiliation-thetamzir|the Tamzir]] and a hero of the Shoals, who refused the guilds. The halls have asked him, a guild has offered him work and passage, and a Vylarian agent's servant has been seen on his quay. He has answered none of them.
+**The rising.** The [[affiliation-unchained|Unchained]] of the veterans' halls, the [[affiliation-freecaptains|Free Captains]] and the harbor veterans of Yamuzel mean to rise at the Review. Their boats close the line through the narrows, and what happens after that is not settled. [[being-rzznpddn|Razzina Padduni]]'s hall in the Veterans' Quarter is where the plan is talked over. She argues every night that it needs a captain the whole coast would follow, and the man every side courts is [[being-zbzmjkdn|Zabuzum Jakuduni]], captain of [[affiliation-thetamzir|the Tamzir]] and a hero of the Shoals, who refused the guilds. The halls have asked him, a guild has offered him work and passage, and a Vylarian agent's servant has been seen on his quay. He has answered none of them.
 
 **The squeeze.** [[affiliation-empireakhlth|Au'Khelathu]] financed the war, spent more on it than it meant to, and now presses the houses quietly for a war debt the Confederation denies in public. The houses pay a little each quarter, and they find the coin by calling in what the cities owe the [[affiliation-auricompct|Auric Compact]] sooner and dearer. The calls fall on shopkeepers, fishermen and the veterans' halls. Every man bound for a called debt is another strongroom for the halls' Breakers to empty, and another voice for the rising.
 
@@ -75,7 +75,7 @@ The stakes are whether the Confederation pays what it owes the people who won it
 ## Who Moves It {#who-moves-it}
 
 [[being-rzznpddn|Razzina Padduni]], keeper of a veterans' hall in Yamuzel
-: An archer of the harbour boats at the Shoals, who has stopped believing in petitions and has not stopped loving the Confederation.
+: An archer of the harbor boats at the Shoals, who has stopped believing in petitions and has not stopped loving the Confederation.
 
 [[being-zlmrzzn|Zilmar Ezzinu]], elder of a waterfront hall in Besikar
 : He carries the veterans' petition to the Arch-Consul before every session and preaches patience, and he is trusted by both cities' halls.

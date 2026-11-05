@@ -397,7 +397,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Viduliya is a woman of sixty-two, 5'7", tawny-skinned and weathered by the highland, with grey hair cut short and hazel eyes that make a speaker finish his argument before she answers it. She wears a plain linen robe and a wool cloak, carries a travelling book and a pen, and has a reading-callus on her right forefinger.
+Viduliya is a woman of sixty-two, 5'7", tawny-skinned and weathered by the highland, with gray hair cut short and hazel eyes that make a speaker finish his argument before she answers it. She wears a plain linen robe and a wool cloak, carries a traveling book and a pen, and has a reading-callus on her right forefinger.
 
 # Dossier {#dossier}
 

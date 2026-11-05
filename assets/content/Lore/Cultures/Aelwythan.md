@@ -152,6 +152,6 @@ Inheritance and marriage tie households into the realm's order. A baron's claim 
 
 ## Glossary {#glossary}
 
-Every term of art these notes use. Aelwythans speak [[skill-aelwthlng|Aelwythi]], and many of the travelled and educated also speak [[skill-elvndrlng|Élavendri]], and [[skill-vylarilng|Vylari]] for anything written to last, so its terms are in the [[lore-elavendriclt#glossary|Élavendri]] glossary; the Nordmen of Stormveld keep their own words.
+Every term of art these notes use. Aelwythans speak [[skill-aelwthlng|Aelwythi]], and many of the traveled and educated also speak [[skill-elvndrlng|Élavendri]], and [[skill-vylarilng|Vylari]] for anything written to last, so its terms are in the [[lore-elavendriclt#glossary|Élavendri]] glossary; the Nordmen of Stormveld keep their own words.
 
 Ardin, Solden, Ogdel (Bit) and compulsory call are loanwords from the [[lore-vylarianclt#glossary|Vylarian]] culture. Jarl and bundi are loanwords from [[lore-nordheimnclt#glossary|the Nordlands]].

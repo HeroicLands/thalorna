@@ -54,7 +54,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A clerk of the cult, sitting at a folding table beside the altar on an accession day in [[place-orzara|Orzara]], explains the offering to a newly enrolled citizen who has never made it: "A pinch of incense on the coal, the Orzas's name aloud, and then your own name to me. Pray to whichever god you like afterwards; the [[place-pnthnrldnm|Temple of the Twelve]] is across the square. The coal is for heaven. The roll is for the city, and the roll is what a magistrate asks to see."
+A clerk of the cult, sitting at a folding table beside the altar on an accession day in [[place-orzara|Orzara]], explains the offering to a newly enrolled citizen who has never made it: "A pinch of incense on the coal, the Orzas's name aloud, and then your own name to me. Pray to whichever god you like afterward; the [[place-pnthnrldnm|Temple of the Twelve]] is across the square. The coal is for heaven. The roll is for the city, and the roll is what a magistrate asks to see."
 
 ## Overview
 
@@ -89,7 +89,7 @@ A subject who refuses the offering is entered too, as a refuser, and the entry f
 
 The cult keeps the wax masks (_lavura_) of the divine and half-divine Orzoi in a hall of its chief temple in the [Vanor]{.name data-type="place/site"}, the Temple District of [[place-arvon|Arvon]], in the order of their reigns. The cult's own word for the hall is the Empire's cupboard by the door. When an Orzas dies, men of the right height and build put on the masks and walk behind his bier from the palace to the [[place-necropolisorzara|Necropolis of Orzara]], so that the whole line of the Empire's divine dead goes before the city in one procession.
 
-The masks are the cult's splendour, and its temples are its decay. Each divine Orzas's temple was endowed when he was consecrated, and many endowments were land, rents or tolls that are now worth a fraction of what they were. The great temples on the processional routes are kept bright. Off them, a temple of an Orzas few citizens can name has a dry fountain, a porch let to a stallholder and a _zalvos_ who comes on the feast day and no other. The cult's treasurer lets what the endowments cannot keep, and the noble houses whose ancestors stand in those temples pay to stop him or watch it happen.
+The masks are the cult's splendor, and its temples are its decay. Each divine Orzas's temple was endowed when he was consecrated, and many endowments were land, rents or tolls that are now worth a fraction of what they were. The great temples on the processional routes are kept bright. Off them, a temple of an Orzas few citizens can name has a dry fountain, a porch let to a stallholder and a _zalvos_ who comes on the feast day and no other. The cult's treasurer lets what the endowments cannot keep, and the noble houses whose ancestors stand in those temples pay to stop him or watch it happen.
 
 ## The Provinces
 

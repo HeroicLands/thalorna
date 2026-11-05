@@ -1060,7 +1060,7 @@ data:
     - form: zidabath
       class: "n"
       field: Craft and the forge
-      gloss: "a chiselled line"
+      gloss: "a chiseled line"
       root: "z-d-b"
       frame: done thing
     - form: bamur
@@ -5251,7 +5251,7 @@ data:
     - form: khamz
       class: "n"
       field: War and the guarding
-      gloss: "armour"
+      gloss: "armor"
       root: "kh-m-z"
       frame: bare
     - form: khumáz
@@ -5443,7 +5443,7 @@ data:
     - form: thafír
       class: adj
       field: Death and memory
-      gloss: "ashen, grey"
+      gloss: "ashen, gray"
       concept: grey
       root: "th-f-r"
       frame: adjective
@@ -6999,7 +6999,7 @@ data:
     - form: ragad
       class: n
       field: Motion and holding
-      gloss: "party, a group travelling or acting together"
+      gloss: "party, a group traveling or acting together"
       concept: group
       root: "r-g-d"
       frame: bare
@@ -8284,7 +8284,7 @@ data:
     - form: malíz
       class: adj
       field: Stone and metal
-      gloss: "light, pale in colour"
+      gloss: "light, pale in color"
       concept: light-colour
       root: "m-l-z"
       frame: adjective
@@ -8298,7 +8298,7 @@ data:
     - form: matík
       class: adj
       field: Stone and metal
-      gloss: "dull, without lustre"
+      gloss: "dull, without luster"
       concept: dull-appearance
       root: "m-t-k"
       frame: adjective
@@ -9095,7 +9095,7 @@ data:
     - form: pald
       class: n
       field: Kin and the house
-      gloss: "a neighbour"
+      gloss: "a neighbor"
       concept: neighbor
       root: "p-l-d"
       frame: bare
@@ -9450,7 +9450,7 @@ data:
     - form: zand
       class: n
       field: "Oath, law and measure"
-      gloss: "honour"
+      gloss: "honor"
       concept: honor
       root: "z-n-d"
       frame: bare
@@ -9675,7 +9675,7 @@ data:
     - form: gudhám
       class: v
       field: "Time and the mountain's seasons"
-      gloss: "to age, to grow older; ageing"
+      gloss: "to age, to grow older; aging"
       concept: [age-verb, aging]
       root: "g-dh-m"
       frame: deed
@@ -9860,7 +9860,7 @@ data:
     - form: tamz
       class: n
       field: Body and person
-      gloss: "a taste, a flavour"
+      gloss: "a taste, a flavor"
       concept: taste-noun
       root: "t-m-z"
       frame: bare
@@ -12241,8 +12241,8 @@ data:
     - {root: l-m-g, sense: "clay", field: stone}
     - {root: m-d-k, sense: "bedrock, living rock", field: stone}
     - {root: m-l-t, sense: salt, field: stone}
-    - {root: m-l-z, sense: "light, pale in colour", field: stone}
-    - {root: m-t-k, sense: "dull, without lustre", field: stone}
+    - {root: m-l-z, sense: "light, pale in color", field: stone}
+    - {root: m-t-k, sense: "dull, without luster", field: stone}
     - {root: m-z-r, sense: "opaque, letting no light through", field: stone}
     - {root: p-b-k, sense: lead (the metal), field: stone}
     - {root: p-l-s, sense: "dust", field: stone}
@@ -12252,7 +12252,7 @@ data:
     - {root: s-k-r, sense: iron, field: stone}
     - {root: s-r-v, sense: "slate, layered stone", field: stone}
     - {root: t-b-k, sense: "spotted", field: stone}
-    - {root: t-l-v, sense: "granite, hard grey stone", field: stone}
+    - {root: t-l-v, sense: "granite, hard gray stone", field: stone}
     - {root: th-r-z, sense: gold, field: stone}
     - {root: v-r-th, sense: "green", field: stone}
     - {root: v-s-p, sense: "crystal, clear stone", field: stone}
@@ -12481,7 +12481,7 @@ data:
     - {root: n-l-d, sense: "the love of kin", field: kin}
     - {root: n-r-d, sense: "a son", field: kin}
     - {root: n-v-z, sense: "to belong", field: kin}
-    - {root: p-l-d, sense: "a neighbour", field: kin}
+    - {root: p-l-d, sense: "a neighbor", field: kin}
     - {root: p-n-z, sense: "intimacy, nearness of trust", field: kin}
     - {root: p-r-dh, sense: "a title", field: kin}
     - {root: r-gh-d, sense: "a man", field: kin}
@@ -12552,7 +12552,7 @@ data:
     - {root: v-r-n, sense: "the true line: the line the rock runs", field: law}
     - {root: v-s-g, sense: to judge, field: law}
     - {root: z-d-r, sense: "law, the way a thing must be done", field: law}
-    - {root: z-n-d, sense: "honour", field: law}
+    - {root: z-n-d, sense: "honor", field: law}
     - {root: z-n-p, sense: shame; a fault entered against a name, field: law}
     - {root: th-r-gh, sense: a wrong that no warrant can cover; to wrong, field: law}
     - {root: n-th-v, sense: release from a debt; to forgive, field: law}
@@ -12695,7 +12695,7 @@ data:
     - {root: t-b-n, sense: "to heal", field: body}
     - {root: t-f-n, sense: "a foot, a step", field: body}
     - {root: t-l-p, sense: "a feeling; to feel by any sense", field: body}
-    - {root: t-m-z, sense: "a taste, a flavour; to taste", field: body}
+    - {root: t-m-z, sense: "a taste, a flavor; to taste", field: body}
     - {root: t-r-b, sense: "an arm", field: body}
     - {root: th-g-z, sense: "frustration", field: body}
     - {root: th-l-g, sense: "a thigh", field: body}
@@ -12733,7 +12733,7 @@ data:
     - {root: k-b-dh, sense: "captivity", field: war}
     - {root: kh-d-z, sense: "enmity", field: war}
     - {root: kh-m-g, sense: "to threaten", field: war}
-    - {root: kh-m-z, sense: "armour, mail", field: war}
+    - {root: kh-m-z, sense: "armor, mail", field: war}
     - {root: kh-n-f, sense: "to gather in, to shelter the whole people", field: war}
     - {root: kh-r-g, sense: "danger", field: war}
     - {root: kh-z-d, sense: "to attack", field: war}
@@ -12864,7 +12864,7 @@ data:
     - {root: p-s-k, sense: "to put, to set down", field: motion}
     - {root: p-v-r, sense: "a belonging; to have", field: motion}
     - {root: p-z-v, sense: "to approach", field: motion}
-    - {root: r-g-d, sense: "a party travelling or acting together", field: motion}
+    - {root: r-g-d, sense: "a party traveling or acting together", field: motion}
     - {root: r-g-l, sense: "to turn back, to return", field: motion}
     - {root: t-v-n, sense: "to bring", field: motion}
     - {root: t-v-r, sense: "to take away", field: motion}
@@ -13183,7 +13183,7 @@ Khazari is short and hard, a stone-cutter's tongue. Most of its words have two s
 
 **The vowels.** _a_ most often, then _u_ and _i_. _e_ and _o_ are rare: they stand in a few short grammar words (_ves_, _vog_, _tob_, _bep_), in the gender and plural endings _-ev_, _-od_ and _-ez_, and in the two rarer given-name charges, and never in a frame. One acute marks a stressed final syllable, as in _dulák_.
 
-**The consonants.** The plain stops lead: _b_, _d_, _g_ and _k_ most, then _t_ and _p_. _l_, _r_, _m_, _n_, _z_ and _s_ are common. _th_, _dh_, _gh_ and _kh_ give the colour and are used less, _th_ most often of them; _v_ and _f_ are rarer still. There is no _sh_.
+**The consonants.** The plain stops lead: _b_, _d_, _g_ and _k_ most, then _t_ and _p_. _l_, _r_, _m_, _n_, _z_ and _s_ are common. _th_, _dh_, _gh_ and _kh_ give the color and are used less, _th_ most often of them; _v_ and _f_ are rarer still. There is no _sh_.
 
 **Clusters.** Two consonants close a syllable, as _lg_, _mg_, _mk_, _lk_, _lb_, _rg_, _nd_ and _ld_ do, and less often _lth_, _nth_, _rv_ and _nv_. No word opens on two.
 
@@ -13252,11 +13252,11 @@ SELECT '**' || frame || '**' AS "Frame", '`' || replace(shape, ' + ', '` + `') |
 FROM frames WHERE language = 'thalorna-note-skill-khazarlng' ORDER BY position
 ```
 
-So from **d-l-k** alone: _dalk_ "stone", _dalkir_ "mason", _dulák_ "the cutting of stone", _hudalk_ "quarry", _dilkath_ "a dressed block". A Khazari hearing _dalkir_ for the first time does not learn a word; he recognises a skeleton in a frame he already knows.
+So from **d-l-k** alone: _dalk_ "stone", _dalkir_ "mason", _dulák_ "the cutting of stone", _hudalk_ "quarry", _dilkath_ "a dressed block". A Khazari hearing _dalkir_ for the first time does not learn a word; he recognizes a skeleton in a frame he already knows.
 
 The adjective frame makes a word distinct from the bare noun on the same skeleton, so _khalv_ is "the unlit", a thing, and _khalív_ is "unlit", a quality. The mastery frame doubles the middle consonant: _thummár_ is to strike as a master strikes, and the craft-records use it of work no apprentice could have done. The reflexive frame sets a _t_ after the first consonant, parted from it by _a_ because no word opens on two consonants: _thatumár_ is to strike oneself, or to strike one another.
 
-The frames are a closed set. A speaker who needs a word Khazari has not got does not borrow one—he takes the nearest skeleton and pours a frame through it, and every other speaker understands the result at once. This is why the language has absorbed so little from its neighbours, and why the Khazari regard borrowing as an admission of poverty rather than a courtesy.
+The frames are a closed set. A speaker who needs a word Khazari has not got does not borrow one—he takes the nearest skeleton and pours a frame through it, and every other speaker understands the result at once. This is why the language has absorbed so little from its neighbors, and why the Khazari regard borrowing as an admission of poverty rather than a courtesy.
 
 ### Doubling
 
@@ -13336,7 +13336,7 @@ _khalivev lakamev_
 _khalivez dalkez_
 : "unlit stones"
 
-Poetic inversion is permitted and is immediately recognisable as poetry.
+Poetic inversion is permitted and is immediately recognizable as poetry.
 
 An adjective compares with _fod_, "beyond", set before the thing it passes: _dazím fod ves_ is "stronger than you". Passing the whole makes it the most of all, so _dazím fod taghav_ is "strongest".
 

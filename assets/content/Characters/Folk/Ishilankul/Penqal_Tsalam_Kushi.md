@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-P'enqal Ts'alam K'ushi is a 60-year-old woman who stands 5'2" tall with a medium build. She has tawny skin, weathered complexion, grey hair, and dark brown eyes.
+P'enqal Ts'alam K'ushi is a 60-year-old woman who stands 5'2" tall with a medium build. She has tawny skin, weathered complexion, gray hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

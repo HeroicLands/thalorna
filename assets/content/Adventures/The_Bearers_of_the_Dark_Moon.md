@@ -38,7 +38,7 @@ Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's wate
 
 **NPCs and threats.** The vultures are the first threat. They do not hunt, but if the party climbs they turn their heads in unison and rise as one, a cloud of black wings that is not an attack and is nonetheless blinding. The stair has a **doorward**, a dead man in an Expositor's robe who sits on the seventh step with a clay fire-pot between his knees. He is not hostile. He asks for the first line of the [Prayer of Passage]{.name data-type="lore/custom"} in the old hand and will not stand aside for a wrong answer.
 
-**Player choices.** Force: drive the vultures off with slings and fire and fight the doorward; it is slow and silent and does not die easily. Stealth: climb by night from the east side, where the wall has handholds. Guile: bring a Delkoshekh's robe and recite the prayer; the doorward recognises the form. Parley: sit with Voghalyemok and learn what he can offer, which is the track on the east side and the information that the tower empties when the moon is dark.
+**Player choices.** Force: drive the vultures off with slings and fire and fight the doorward; it is slow and silent and does not die easily. Stealth: climb by night from the east side, where the wall has handholds. Guile: bring a Delkoshekh's robe and recite the prayer; the doorward recognizes the form. Parley: sit with Voghalyemok and learn what he can offer, which is the track on the east side and the information that the tower empties when the moon is dark.
 
 **Clues and rewards.** The first line of the prayer: _Azravan, Lord of Horizons, accept this servant into your keeping_. Voghalyemok knows it from a priest he guided. The doorward carries a ring of keys and a seal of office, which is Yumelul's own.
 
@@ -82,7 +82,7 @@ Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's wate
 
 **Purpose.** Resolve the confrontation with Yumelul by force, argument or ritual.
 
-**Situation.** In the ring of chambers below the platform, in a round room hung with grey cloth, a thin old man in the robes of an Expositor sits at a bronze table with a roll of names open before him. He is not a corpse and he is not alive. He looks up and says that he has been expecting a Delkoshekh. He has the Prayer of Passage on his lips and a fire in the pit at his feet that gives no heat.
+**Situation.** In the ring of chambers below the platform, in a round room hung with gray cloth, a thin old man in the robes of an Expositor sits at a bronze table with a roll of names open before him. He is not a corpse and he is not alive. He looks up and says that he has been expecting a Delkoshekh. He has the Prayer of Passage on his lips and a fire in the pit at his feet that gives no heat.
 
 **NPCs and threats.** Yumelul is gentle, exact and fixed. He has not made a mistake in ninety years, and he cannot see that the rite he is performing is the mistake. He commands the dead on the platform with a gesture and the bones in the pit with a word. He fights without malice and without mercy, and he is merciful only toward his dead. The Shadow in him is visible as a stillness in the fire: where it falls, the flame goes out.
 

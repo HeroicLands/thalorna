@@ -40,6 +40,6 @@ Kilnaqaklu, Star Diving, is a boat-holder (_kalviaqtiq_) of [[place-imlakkagaq|W
 
 He is a great-grandson of one of the two children of the eastern camp whom [Kilnaqivi]{.name data-type="being/npc"}, Star Giving Drink, found living alone at the point after the [Taking]{.name data-type="lore/history"} and brought back to raise in her own house. Their descendants sleep in the second men's house. They do not dance the mask of [Imlakaklu]{.name data-type="being/npc"}, the boat-holder of the Taking, and at the Asking their men's house is silent while the other one sings it. The leading boat-holder of the first house, [[being-tikumalu|Tikumalu]], sends two boats east every spring and counts it a blessing that the whales chose his crews. Kilnaqaklu sends none.
 
-He is forty-five, deliberate, broad in the shoulder from twenty springs at the paddle. He has never said in the men's house what he thinks of the Taking. A party that has travelled east along the northern ice, or met the people the coast calls Those Who Give Way, is someone he will feed and question for a week.
+He is forty-five, deliberate, broad in the shoulder from twenty springs at the paddle. He has never said in the men's house what he thinks of the Taking. A party that has traveled east along the northern ice, or met the people the coast calls Those Who Give Way, is someone he will feed and question for a week.
 
 What he wants is a gift sent east from Whale Point's own boats to whatever is left of the people his great-grandfather came from.

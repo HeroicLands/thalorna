@@ -53,7 +53,7 @@ He is very old now, and he knows it.
 
 ### Personality
 
-He is exacting, dry and sparing with praise, and fiercely loyal to the pupils who earn it. He judges a person by how they practise.
+He is exacting, dry and sparing with praise, and fiercely loyal to the pupils who earn it. He judges a person by how they practice.
 
 ### Motivation
 

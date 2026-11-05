@@ -16,11 +16,11 @@ data:
 
 **Hersellonku**, the pine deep-wood in the [[skill-sinalelng|Sinale language]], is the northernmost of the three conclaves the [[lore-flksinale|Sinale Folk]] keep in [[place-kiichchik|Ki'ich'chik Continent]]. It lies in the [[place-tsitarargn|Pine Country]], north and west of the Pine People's six villages, where the ridges of rock and the cold lakes run on into country with no villages at all. Nobody outside it has counted the Sinale there.
 
-## What a Traveller Finds
+## What a Traveler Finds
 
 The forest thickens as it goes north. The pines on the ridges grow taller and closer, white and red pine older than any the canoe makers cut, and the ground beneath them is a deep floor of needles and moss with almost nothing growing on it. The lakes are clear to the bottom. Sound carries a long way, and there is little of it.
 
-A traveller who walks on into this wood finds pine and lakes and nothing else. Paths that seem to lead deeper bend back to a lake already passed, and a party that set out to cross a ridge comes down on the side it started from. Nobody who has gone looking for the Sinale here has found a dwelling, a fire or a trail.
+A traveler who walks on into this wood finds pine and lakes and nothing else. Paths that seem to lead deeper bend back to a lake already passed, and a party that set out to cross a ridge comes down on the side it started from. Nobody who has gone looking for the Sinale here has found a dwelling, a fire or a trail.
 
 ## The Pine People
 

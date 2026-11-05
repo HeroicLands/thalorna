@@ -182,7 +182,7 @@ In return the House owes every person attached to it an answer in court, a place
 
 ## The Weak
 
-Care is the House's first. A House answers for every person attached to it, so the destitute of a House are its own: the widow, the orphaned daughter, the ageing sister who was passed over and took a lesser office. The temples tend what the Houses cannot, and the working priestesses of a temple tend its lands and its charities. A woman with no House at all has nothing: no seat, no name that lenders read, no one to speak for her. Some of the Houseless end in the south among [[affiliation-jcklsthmrchs|the Jackals]], a warband of exiled women and cast-out Spadai.
+Care is the House's first. A House answers for every person attached to it, so the destitute of a House are its own: the widow, the orphaned daughter, the aging sister who was passed over and took a lesser office. The temples tend what the Houses cannot, and the working priestesses of a temple tend its lands and its charities. A woman with no House at all has nothing: no seat, no name that lenders read, no one to speak for her. Some of the Houseless end in the south among [[affiliation-jcklsthmrchs|the Jackals]], a warband of exiled women and cast-out Spadai.
 
 The limit is the roll. A person the roll does not hold has no one to answer for her.
 

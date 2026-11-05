@@ -40,6 +40,6 @@ Ulsemhakwa, Lifts the Fire, is the chief of the Wolf House at [[place-mukwasis|W
 
 When the [[affiliation-bearhouse|Bear House]] asked him to send a captive girl over the trail for sale on the plains, he agreed, because the Bear House is rich and its feasts are coming. He did not ask what the [[affiliation-tenlaya|Grass People]] would make of a Cedar house selling a child at their falls, and he has not asked his carrier, [[being-melumniksala|Melumniksala]], what she means to do if nobody buys her.
 
-He is fifty-six, careful and affable, and he keeps on good terms with every house that might sit above him. His house's healer, [[being-dimasnilkwa|Dimasnilkwa]], charges him what she charges everyone, and he pays it without remark. A party that wants to walk the Grease Trail pays him his box in ten or its value, and a party that wants a favour from the Bear House finds him eager to carry the message.
+He is fifty-six, careful and affable, and he keeps on good terms with every house that might sit above him. His house's healer, [[being-dimasnilkwa|Dimasnilkwa]], charges him what she charges everyone, and he pays it without remark. A party that wants to walk the Grease Trail pays him his box in ten or its value, and a party that wants a favor from the Bear House finds him eager to carry the message.
 
 What he wants is a seat near the Bear House's fire when its feasts are given, whatever it asks of him for one.

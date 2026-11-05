@@ -18,7 +18,7 @@ data:
     - lore-aelwythanclt
   lang: aelw
 
-# terran_analog: "The border and Child ballads for the common-metre quatrain, the question asked three times with incremental repetition and the fairy-otherworld visit that returns the traveller somewhere else; the drovers' songs of the British uplands; the Roman roads and old avenues of a later countryside that has forgotten who laid them."
+# terran_analog: "The border and Child ballads for the common-meter quatrain, the question asked three times with incremental repetition and the fairy-otherworld visit that returns the traveler somewhere else; the drovers' songs of the British uplands; the Roman roads and old avenues of a later countryside that has forgotten who laid them."
 ---
 
 **The Ballad of the Road That Stops** is sung by the drovers of [[place-cntrlhghlnds|the Central Highlands]], who bring the herds down from the highland grazing to the coast markets of [[place-ondareth|Ondareth]] and the eastern fairs. It is a walking song, sung behind the beasts, and every drover has more verses than he will sing at one time; the ones below are the verses every drover sings.
@@ -27,7 +27,7 @@ The road in the ballad is one of the [Crown Roads]{.name data-type="place/featur
 
 The ballad is of [Edwald the Drover]{.name data-type="being/npc"}, a drover's lad, who takes that stretch in a fog. The tall one among the oaks is one of the Sinale of the Hallowwood, whom the ballad never names; the Hallowwood receives nobody who asks why, and the third of Edwald's questions is a why. The three hills he wakes beneath, in the highland grass, are [[place-threesisters|the Three Sisters]], where the elder kingdom's king was killed. The highlands do not know what the name means. The drovers sing the green patch the beasts will not graze as a thing that happens, and leave it there.
 
-The poem is in common metre, rhymed ABCB.
+The poem is in common meter, rhymed ABCB.
 
 : The Ballad {#ballad}
 

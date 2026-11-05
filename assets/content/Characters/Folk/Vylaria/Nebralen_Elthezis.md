@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Nebralen Elthezis is a 54-year-old man who stands 5'7" tall and is of heavy build. He has medium skin weathered by thirty years of sun and spray, black hair cut short, a short black beard going grey at the chin, and green eyes with deep lines at their corners. He wears an old sea-coat and a wide hat, and he moves about his deck slowly and without wasted effort. He speaks quietly, asks few questions and smiles more than a ship's master usually does.
+Nebralen Elthezis is a 54-year-old man who stands 5'7" tall and is of heavy build. He has medium skin weathered by thirty years of sun and spray, black hair cut short, a short black beard going gray at the chin, and green eyes with deep lines at their corners. He wears an old sea-coat and a wide hat, and he moves about his deck slowly and without wasted effort. He speaks quietly, asks few questions and smiles more than a ship's master usually does.
 
 # Dossier {#dossier}
 

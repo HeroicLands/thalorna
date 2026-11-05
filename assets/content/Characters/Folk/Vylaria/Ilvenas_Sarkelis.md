@@ -37,7 +37,7 @@ data:
 
 # Appearance {#appearance}
 
-Ilvenas Sarkelis is a 66-year-old woman who stands 5'6" tall and is of light build. She has fair skin, deeply lined and clear of any mark, grey hair bound under a white linen veil, and grey eyes that rest on a speaker until he has finished. A smudge of ash sits on her brow, put there at the dawn rite and never wiped away before evening. She wears the plain undyed wool of a temple priestess under a mantle of white, and she moves slowly and without a cane. Her voice is low and carries in the Mother's Hall without effort, and she speaks only the kingdom's old ritual Vylari, even to foreigners, who learn to wait for the interpreter.
+Ilvenas Sarkelis is a 66-year-old woman who stands 5'6" tall and is of light build. She has fair skin, deeply lined and clear of any mark, gray hair bound under a white linen veil, and gray eyes that rest on a speaker until he has finished. A smudge of ash sits on her brow, put there at the dawn rite and never wiped away before evening. She wears the plain undyed wool of a temple priestess under a mantle of white, and she moves slowly and without a cane. Her voice is low and carries in the Mother's Hall without effort, and she speaks only the kingdom's old ritual Vylari, even to foreigners, who learn to wait for the interpreter.
 
 # Dossier {#dossier}
 

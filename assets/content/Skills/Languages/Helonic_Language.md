@@ -951,7 +951,7 @@ data:
     - form: geithin
       class: n
       field: Everyday expression
-      gloss: A taste or flavour.
+      gloss: A taste or flavor.
       concept: taste-noun
     - form: hafarin
       class: v
@@ -1270,7 +1270,7 @@ data:
     - form: telmin
       class: n
       field: Everyday expression
-      gloss: Satisfaction; fulfilment of a desire or aim, rather than the feeling of contentment alone.
+      gloss: Satisfaction; fulfillment of a desire or aim, rather than the feeling of contentment alone.
       concept: satisfaction
     - form: orathin frun empolin
       class: n
@@ -2245,7 +2245,7 @@ data:
     - form: skoirin
       class: n
       field: Everyday expression
-      gloss: A rope; a thick line of twisted fibres.
+      gloss: A rope; a thick line of twisted fibers.
       concept: rope
     - form: mikrir skoirin
       class: n
@@ -2336,7 +2336,7 @@ data:
     - form: erithin
       class: n
       field: Everyday expression
-      gloss: Wool; the fleece fibre of sheep and similar animals.
+      gloss: Wool; the fleece fiber of sheep and similar animals.
       concept: wool
     - form: nemathin
       class: n
@@ -2675,43 +2675,43 @@ data:
     - form: melanir
       class: adj
       field: Everyday expression
-      gloss: Black in colour.
+      gloss: Black in color.
       concept: black
     - form: leukhelir
       class: adj
       field: Everyday expression
-      gloss: White in colour.
+      gloss: White in color.
       concept: white
-    - {form: eruthir, class: adj, field: Everyday expression, gloss: Red in colour., concept: red}
+    - {form: eruthir, class: adj, field: Everyday expression, gloss: Red in color., concept: red}
     - form: klorir
       class: adj
       field: Everyday expression
-      gloss: Green in colour.
+      gloss: Green in color.
       concept: green
     - form: ksanther
       class: adj
       field: Everyday expression
-      gloss: Yellow in colour.
+      gloss: Yellow in color.
       concept: yellow
     - form: kuanir
       class: adj
       field: Everyday expression
-      gloss: Blue in colour, from pale to dark blue.
+      gloss: Blue in color, from pale to dark blue.
       concept: blue
     - form: polithir
       class: adj
       field: Everyday expression
-      gloss: Grey in colour.
+      gloss: Gray in color.
       concept: grey
     - form: kasthelir
       class: adj
       field: Everyday expression
-      gloss: Brown in colour.
+      gloss: Brown in color.
       concept: brown
     - form: okhrir
       class: adj
       field: Everyday expression
-      gloss: Pale or light in colour; having little saturation or dark pigment.
+      gloss: Pale or light in color; having little saturation or dark pigment.
       concept: [light-colour, pale]
     - form: diaughir
       class: adj
@@ -4526,7 +4526,7 @@ data:
     - form: erghelir
       class: n
       field: Everyday expression
-      gloss: A worker; someone who performs labour or a task.
+      gloss: A worker; someone who performs labor or a task.
       concept: worker
     - form: tekhnelir
       class: n
@@ -6422,7 +6422,7 @@ Helonic is the tongue of drama and argument. It is clear-voweled and fond of bre
 
 **What Helonic leaves out.** It has no _zh_, _sh_ or _q_, which belong to Bizarian and [[skill-taruzelilng|Taruzeli]]. It has no _y_ as a vowel, since the guide reads _y_ as in _yes_.
 
-**Verse.** Helonic verse counts beats and does not rhyme. Its nouns and verbs close on a handful of shared endings, so a rhyme would only repeat a grammar ending, and a line is measured by its stressed syllables instead. The rhapsodes' long line has six beats: the epics and the teaching poems are sung in it, and the heralds' asking is said in it. The choral odes of the stage and the sayings of the schools keep a short line of four beats, and a turn and its answering turn have the same number of lines. A telling in prose, such as a legend the priests tell at an altar, is not counted. The craft is in the fixed epithet that returns with a name (_Ythros egeirir er ithrin_, Ythros the fire-wakeful), the formula repeated whole or changed by a single word, the simile opened with _hoth_ and closed with _hometh_, the catalogue, and the same word opening line after line.
+**Verse.** Helonic verse counts beats and does not rhyme. Its nouns and verbs close on a handful of shared endings, so a rhyme would only repeat a grammar ending, and a line is measured by its stressed syllables instead. The rhapsodes' long line has six beats: the epics and the teaching poems are sung in it, and the heralds' asking is said in it. The choral odes of the stage and the sayings of the schools keep a short line of four beats, and a turn and its answering turn have the same number of lines. A telling in prose, such as a legend the priests tell at an altar, is not counted. The craft is in the fixed epithet that returns with a name (_Ythros egeirir er ithrin_, Ythros the fire-wakeful), the formula repeated whole or changed by a single word, the simile opened with _hoth_ and closed with _hometh_, the catalog, and the same word opening line after line.
 
 ## Phonology
 

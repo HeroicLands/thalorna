@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Megara is a 52-year-old woman who stands 5'11" tall with a heavy build. She has tawny skin, grey hair, and hazel eyes.
+Megara is a 52-year-old woman who stands 5'11" tall with a heavy build. She has tawny skin, gray hair, and hazel eyes.
 
 # Dossier {#dossier}
 

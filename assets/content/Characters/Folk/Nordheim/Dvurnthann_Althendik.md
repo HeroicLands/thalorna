@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Dvurnthann Althendik is a 43-year-old man who stands 6'5" tall with a medium build. He has pale skin, weathered complexion, red hair, and grey eyes.
+Dvurnthann Althendik is a 43-year-old man who stands 6'5" tall with a medium build. He has pale skin, weathered complexion, red hair, and gray eyes.
 
 # Dossier {#dossier}
 

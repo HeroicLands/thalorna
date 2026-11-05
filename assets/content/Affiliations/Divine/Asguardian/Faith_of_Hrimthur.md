@@ -11,7 +11,7 @@ data:
   templatePriority: null
   demonym: null
   epithet: The Rime-Giant
-  symbol: Rime-scored bone and a chip of grey stone
+  symbol: Rime-scored bone and a chip of gray stone
   governance:
     model: council
     summary: >-
@@ -50,7 +50,7 @@ The theology is one sentence long and the whole faith hangs on it. The world was
 
 Hrimthur is therefore worshipped as substance rather than as a person. He grants nothing, forbids nothing and answers no petition; the rite is not addressed to him but performed upon him, and a blet at one of his hovs is cut into the ground rather than poured onto an altar. His faithful describe him as awake and incurious, which they do not find troubling.
 
-Where he is depicted at all he is shown as a slope rather than a figure—a white ridge with a wound in it, or a jaw of grey stone breaking the snow. [[affiliation-thursborn|The Giant's Children]] carry the wound as a cut pattern across the chest, which is the faith's only universal image.
+Where he is depicted at all he is shown as a slope rather than a figure—a white ridge with a wound in it, or a jaw of gray stone breaking the snow. [[affiliation-thursborn|The Giant's Children]] carry the wound as a cut pattern across the chest, which is the faith's only universal image.
 
 His hovs are few and hard to reach. [[place-holafell|Holafell]] in [[place-norgaad|Norgaad]] is the oldest, a sanctuary cut into rock, and the [Northern Hall]{.name data-type="place/structure"} in [[place-targud|Targud]] is the largest; between them stand a scatter of horgar on high ground where the stone shows through.
 
@@ -59,7 +59,7 @@ His hovs are few and hard to reach. [[place-holafell|Holafell]] in [[place-norga
 Rime-scored bone
 : A weathered bone left out through a winter, the frost-marks read as the pattern of the first cutting.
 
-Chip of grey stone
+Chip of gray stone
 : Struck from the living rock of a hov's own floor, carried as a piece of the giant's body.
 
 Meltwater of the foot
@@ -81,7 +81,7 @@ The faith names none. A dead giant who is the world's substance has no messenger
 : Cut into the rock at Holafell at the turn of winter, by whichever adherent the Holafell faction has put forward that year, and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
 
 [The Naming of the Stone]{.name data-type="lore/custom"}
-: A hov's grey chips are brought out, counted aloud against the roll of the hall's dead, and returned to the floor.
+: A hov's gray chips are brought out, counted aloud against the roll of the hall's dead, and returned to the floor.
 
 ## Ordeals for Favor
 

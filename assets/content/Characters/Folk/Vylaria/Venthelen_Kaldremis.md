@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Venthelen Kaldremis was a woman of 5'9" and heavy build, and she was 59 when she died. She had olive skin weathered by forty years at sea, dark brown hair gone grey at the temples and kept in a short plait, and grey eyes that missed nothing aboard her ship. She dressed like her crew and was louder than any of them. In her last year the wasting illness thinned her, and she was seen on the quays of Delalara in a coat too big for her.
+Venthelen Kaldremis was a woman of 5'9" and heavy build, and she was 59 when she died. She had olive skin weathered by forty years at sea, dark brown hair gone gray at the temples and kept in a short plait, and gray eyes that missed nothing aboard her ship. She dressed like her crew and was louder than any of them. In her last year the wasting illness thinned her, and she was seen on the quays of Delalara in a coat too big for her.
 
 # Dossier {#dossier}
 

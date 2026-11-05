@@ -11,7 +11,7 @@ data:
   templatePriority: null
   demonym: null
   epithet: The Maker
-  symbol: A clay mould and an unfinished casting
+  symbol: A clay mold and an unfinished casting
   governance:
     model: theocracy
     summary: >-
@@ -69,7 +69,7 @@ In this teaching, he is therefore the only god of the [[affiliation-asguardian|A
 
 He is not a destroyer and his clergy will not have him confused with one. [[lore-svartbrandurdty|Svartbrandur]] unmakes on purpose; Mótefnir unmakes nothing at all. He stops, and what he stopped working on keeps going.
 
-Depictions give him hands and little else that is fixed—a pair of hands over a mould, or a bench seen from above with the work still on it. His hovs are workshops as much as halls, and a hov that has no bench in it is held to be a hov in name only.
+Depictions give him hands and little else that is fixed—a pair of hands over a mold, or a bench seen from above with the work still on it. His hovs are workshops as much as halls, and a hov that has no bench in it is held to be a hov in name only.
 
 ## Sacred Objects
 
@@ -77,9 +77,9 @@ The First Work
 : Whatever a craftsman made first and kept, sworn at a hov and held on the shelf behind its altar for as long as the hov stands.
 
 The Half-Cast
-: A casting broken out of its mould before it set, carried as the god's own habit in miniature.
+: A casting broken out of its mold before it set, carried as the god's own habit in miniature.
 
-The Clay Mould
+The Clay Mold
 : Taken from a hov's bench, used once, and never used for a second pour.
 
 ## Clergy
@@ -111,7 +111,7 @@ The faith names none, and holds that it does not need to: what Mótefnir has sen
 : A craftsman brings the first thing he ever made, swears it at the hov, and leaves it on the shelf behind the altar. Nothing he makes afterward is reckoned his own until this is done.
 
 [The Pour]{.name data-type="lore/custom"}
-: Performed at a season's turning by a Hofgudi or Hofgudja, who casts a single piece from a mould broken open before the assembly and breaks the mould after it.
+: Performed at a season's turning by a Hofgudi or Hofgudja, who casts a single piece from a mold broken open before the assembly and breaks the mold after it.
 
 ## Ordeals for Favor
 

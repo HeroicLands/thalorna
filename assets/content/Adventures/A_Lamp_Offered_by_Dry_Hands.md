@@ -28,7 +28,7 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **Purpose.** The entrance and the guardians: show the city as old, lit and wrong.
 
-**Situation.** The path ends at a flight of moss-covered steps, and a straight causeway of dressed stone runs on into the dusk. Lamp-posts line it on both sides, each with a bronze bowl and a steady flame. The light is the colour of a threshold lamp and does not flicker. Birds do not call here.
+**Situation.** The path ends at a flight of moss-covered steps, and a straight causeway of dressed stone runs on into the dusk. Lamp-posts line it on both sides, each with a bronze bowl and a steady flame. The light is the color of a threshold lamp and does not flicker. Birds do not call here.
 
 **NPCs and threats.** The [Standing]{.name data-type="being/creature"} are the city's first guardians. They are kept dead, dry and brown in cord-wrapped silk, who stand among the posts as lamp-tenders. They do not hurry and do not strike. They hold out a lit lamp, hand first, with a courtesy a traveler cannot fault. A lamp taken from them cannot be set down or put out by its bearer, and its bearer walks toward the Gate. Every flame on the causeway is a kept soul, and the Standing tend them. Valsi, a gatherer who has lost kin to the forest, guides the party this far and not beyond. She knows the first rule: no flame carried in may be lit from the city's, and none carried out burns true.
 
@@ -50,9 +50,9 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **Purpose.** A roleplay and a puzzle: the sect's last assembly, and a vote the party must survive.
 
-**Situation.** The [Hall of Seats]{.name data-type="place/site"} is a roofless floor with ranks of stone chairs rising on three sides. The seated dead fill them: hundreds of brown, still figures with their hands in their laps. A dais at the open end carries a tall chair, and the chair is occupied. A sourceless light, the same colour as the lamps', lies evenly on everything. The guest-row at the front is empty and swept.
+**Situation.** The [Hall of Seats]{.name data-type="place/site"} is a roofless floor with ranks of stone chairs rising on three sides. The seated dead fill them: hundreds of brown, still figures with their hands in their laps. A dais at the open end carries a tall chair, and the chair is occupied. A sourceless light, the same color as the lamps', lies evenly on everything. The guest-row at the front is empty and swept.
 
-**NPCs and threats.** The [Speaker of the Seats]{.name data-type="being/creature"} is the last Sabhapavi of the sect, a tall dry figure in cloth-of-silver gone the colour of tea. He is courteous, dignified, and entirely mad in one respect: he is certain that the assembly has not ended. He seats guests, hears their business, and puts motions to the Hall in a voice like paper. The motion tonight is whether the Gate of Lamps should be opened to the villages' new dead. The Hall votes by silence. An unanswered motion carries. The seated dead are not hostile; they are the electorate, and a motion that carries sends the Standing out.
+**NPCs and threats.** The [Speaker of the Seats]{.name data-type="being/creature"} is the last Sabhapavi of the sect, a tall dry figure in cloth-of-silver gone the color of tea. He is courteous, dignified, and entirely mad in one respect: he is certain that the assembly has not ended. He seats guests, hears their business, and puts motions to the Hall in a voice like paper. The motion tonight is whether the Gate of Lamps should be opened to the villages' new dead. The Hall votes by silence. An unanswered motion carries. The seated dead are not hostile; they are the electorate, and a motion that carries sends the Standing out.
 
 **Player choices.**
 
@@ -119,7 +119,7 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **Situation.** The lamps go out, one after another, down the causeway and across the terraces, and each time a faint shape rises from the bowl and goes away through the trees toward the east. It takes a long time. When the Mother's flame goes out, the arch starts to breathe.
 
-**NPCs and threats.** What comes through the arch is not one of the dead. It is a **gap-wolf**, long, grey and indifferent, a thing of the Shadow that has been waiting at the arch since the first lamp was lit. It does not hunt the living. It feeds on whatever holds a gap open, and when the lamps are gone it feeds on the city. It has no face, and it moves only in the dark the lamps leave behind. The Hearth is the one place that holds it back.
+**NPCs and threats.** What comes through the arch is not one of the dead. It is a **gap-wolf**, long, gray and indifferent, a thing of the Shadow that has been waiting at the arch since the first lamp was lit. It does not hunt the living. It feeds on whatever holds a gap open, and when the lamps are gone it feeds on the city. It has no face, and it moves only in the dark the lamps leave behind. The Hearth is the one place that holds it back.
 
 **Player choices.**
 

@@ -3,7 +3,7 @@ shortcode: qeketqeltag2
 name: {full: Qeket Qelt'Agetu}
 type: being
 subType: npc
-description: "An elder noblewoman whose memory of who owes what to whom is longer than the records, and better organised"
+description: "An elder noblewoman whose memory of who owes what to whom is longer than the records, and better organized"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Qeket Qelt'Agetu is a 42-year-old woman who stands 5'8" tall with a medium build
 
 # Dossier {#dossier}
 
-Qeket Qelt'Agetu is an elder noblewoman of [[place-galezkara|Galezkara]], whose memory of who owes what to whom outlasts the written records. It is also better organised than the records, which she will say plainly if asked. Anyone settling an old debt in the capital checks her memory before they check the ledger.
+Qeket Qelt'Agetu is an elder noblewoman of [[place-galezkara|Galezkara]], whose memory of who owes what to whom outlasts the written records. It is also better organized than the records, which she will say plainly if asked. Anyone settling an old debt in the capital checks her memory before they check the ledger.

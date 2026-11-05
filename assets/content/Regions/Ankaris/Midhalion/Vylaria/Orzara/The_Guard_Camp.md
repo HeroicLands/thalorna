@@ -28,7 +28,7 @@ The guard's fortress was raised inside the Inner Wall, the only true camp there,
 
 ## Current Situation {#present}
 
-The Guard Camp expects a donative, and the throne has no cash. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, and whoever is named owes the guard a donative on the day. The man the court expects to be named has promised one and paid nothing on it, a rival house offers the officers a larger sum now, and the soldier among the claimants, a legate of the legions, is the guard's favourite. A handful of watch-captains hold the gates, and rival households court, threaten and bribe each of them. A senior officer has stretched the guard's keeping of order into arrests and detentions that belong to the imperial tribunals, and the Orzas lets him.
+The Guard Camp expects a donative, and the throne has no cash. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, and whoever is named owes the guard a donative on the day. The man the court expects to be named has promised one and paid nothing on it, a rival house offers the officers a larger sum now, and the soldier among the claimants, a legate of the legions, is the guard's favorite. A handful of watch-captains hold the gates, and rival households court, threaten and bribe each of them. A senior officer has stretched the guard's keeping of order into arrests and detentions that belong to the imperial tribunals, and the Orzas lets him.
 
 ## Hooks {#hooks}
 

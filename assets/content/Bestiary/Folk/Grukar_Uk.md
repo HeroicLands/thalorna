@@ -266,7 +266,7 @@ They come out of the tree-line at a jog, twenty or thirty of them, short and bro
 
 The Grukar-Uk is the common member of the [[lore-grukarfolk|Grukar Folk]], the laborer and foot soldier of its tribe and roughly eighty-five percent of every tribe's number: about four and a half feet tall, stocky, strong for its size, dull, lazy, and spawned in such numbers that its death matters to no one, least of all to the [[being-grkrahk|Grukar-ahk]] that laid it. An Uk hatches knowing everything it will ever know, how to hold a spear, which fungus is safe, where the tribe's water lies, and it learns nothing afterward. One Uk is a nuisance. Fifty, driven by a [[being-grkrhshk|Grukar-Hushk]] and aimed by a [[being-grkrsh|Grukar-Sha]], are a tide that burns farmsteads, empties folds and carries off the people it catches, to eat.
 
-The name Grukar-Uk is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see. Nobody knows whether the Grukar recognise the distinction themselves.
+The name Grukar-Uk is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see. Nobody knows whether the Grukar recognize the distinction themselves.
 
 ## Presentation
 

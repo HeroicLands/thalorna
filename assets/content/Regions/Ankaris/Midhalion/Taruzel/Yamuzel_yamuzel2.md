@@ -28,7 +28,7 @@ Nobody arrives on Khamisar unseen. A party that lands anywhere but the harbor me
 
 ## Politics {#present}
 
-The city is counting the days to the [[lore-fleetreview|Fleet Review]], and so is its Veterans' Quarter. The halls there talk of a rising, [[being-rzznpddn|Razzina Padduni]]'s hall loudest, and the man the halls want at its head is [[being-zbzmjkdn|Zabuzum Jakuduni]], who has not answered them. Veterans from the quarter plough the marked plots on [[place-khamisar|Khamisar]]'s southern terraces, saying the land was promised them, and the [[affiliation-tanaduni|Tanaduni]], the admirals' family that leases it, want the marines to clear them before the Review. On the height [[being-dlzrtndn|Delzuru Tanaduni]] presses the Grand Council for a League toll on every hull through the narrows, and the foreign masters in the roads have heard. The Commander of the Marines has been told to catch the Review's last boat this year, and his sergeants grew up in the quarter.
+The city is counting the days to the [[lore-fleetreview|Fleet Review]], and so is its Veterans' Quarter. The halls there talk of a rising, [[being-rzznpddn|Razzina Padduni]]'s hall loudest, and the man the halls want at its head is [[being-zbzmjkdn|Zabuzum Jakuduni]], who has not answered them. Veterans from the quarter plow the marked plots on [[place-khamisar|Khamisar]]'s southern terraces, saying the land was promised them, and the [[affiliation-tanaduni|Tanaduni]], the admirals' family that leases it, want the marines to clear them before the Review. On the height [[being-dlzrtndn|Delzuru Tanaduni]] presses the Grand Council for a League toll on every hull through the narrows, and the foreign masters in the roads have heard. The Commander of the Marines has been told to catch the Review's last boat this year, and his sergeants grew up in the quarter.
 
 ## The Yards and the Harbor Streets
 
@@ -58,7 +58,7 @@ Yamuzel's yards built the fleet that won the war of independence. The legions' a
 
 ## Hooks {#hooks}
 
-- **The plots.** Veterans from the quarter have begun to plough the marked plots on the island's southern terraces, saying the land was promised them, and the [[affiliation-tanaduni|Tanaduni]], the admirals' family that leases it, want the marines to clear them before the [Fleet Review]{.name data-type="lore/gathering"}.
+- **The plots.** Veterans from the quarter have begun to plow the marked plots on the island's southern terraces, saying the land was promised them, and the [[affiliation-tanaduni|Tanaduni]], the admirals' family that leases it, want the marines to clear them before the [Fleet Review]{.name data-type="lore/gathering"}.
 - **The toll.** Delzuru Tanaduni is pressing the [[affiliation-grandcouncil|Grand Council]] for a League toll on every hull that passes the narrows, and the foreign masters in the roads have heard. One of them hires a party to learn how the Admiral's Council will vote.
 - **The missing yard man.** A shipwright of the yards has not come back through the gate after the evening bell, and his tally of the day's timber is short by one keel.
 - **The ship models.** A model has vanished from an admirals' house window overnight, and its card has been left behind, with the name of one battle scratched out.

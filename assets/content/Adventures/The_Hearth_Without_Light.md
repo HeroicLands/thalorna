@@ -27,7 +27,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **What [Talitho]{.name data-type="being/npc"} believes.** Talitho, once a Talithari Nkaring of Zarhanis and a reader of its registers, found the order in the temple's records. He said so aloud, in the moot-hall, and was put out of the Flame for saying it. He rode to the ruin. In the pens he found a banked hearth that had never gone cold, and the voices of the dead asked him to be given what they were denied. He kindled a fire from their ash, and he feeds it, and he believes it will be the shurem's hearth.
 
-**What is true.** The ash has no descent from the [First Ember]{.name data-type="miscgear"} and no one to give it back. Those who died in the pens died with no ashmark, no hearth and no name spoken. [[lore-theshadow|The Shadow]] fills the gaps, and the voice Talitho hears is the dead wearing the Shadow's mouth. The fire takes whatever it is fed and renews none of it. Talitho is cold to the bone and grey to the wrist and cannot tell it. The living shurem of the yard are the descendants of those sealed in the pens, and they are afraid of the fire and fed by it.
+**What is true.** The ash has no descent from the [First Ember]{.name data-type="miscgear"} and no one to give it back. Those who died in the pens died with no ashmark, no hearth and no name spoken. [[lore-theshadow|The Shadow]] fills the gaps, and the voice Talitho hears is the dead wearing the Shadow's mouth. The fire takes whatever it is fed and renews none of it. Talitho is cold to the bone and gray to the wrist and cannot tell it. The living shurem of the yard are the descendants of those sealed in the pens, and they are afraid of the fire and fed by it.
 
 ### Hooks
 
@@ -40,11 +40,11 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **Purpose.** To show the wrongness of the place, to teach its daily rhythm and to put the cairn in the party's hands.
 
-**Situation.** A wall of dry-laid stone runs across the rise. The gate cairn has its flame-mark chiselled out and the stone beneath is black. Beyond lies the cattle-ground, a field of trodden ash with the pens in a ring at the far side, and in it stand cattle the color of banked hearth-ash. In the morning they stand in the herders' way. By afternoon they drift back toward the granary. At night they face it in rows, and nothing in the field moves.
+**Situation.** A wall of dry-laid stone runs across the rise. The gate cairn has its flame-mark chiseled out and the stone beneath is black. Beyond lies the cattle-ground, a field of trodden ash with the pens in a ring at the far side, and in it stand cattle the color of banked hearth-ash. In the morning they stand in the herders' way. By afternoon they drift back toward the granary. At night they face it in rows, and nothing in the field moves.
 
 **NPCs and threats.**
 
-- **The ash-kine.** Cattle burnt without burning: horn, hide and hoof gone grey, and a dull red seam showing under the skin of the flank. They do not eat, and they make no sound. They walk in step and press into whatever stands in the way, and a struck one comes apart in a cloud of fine ash that blinds and scorches. A cow's weight is on a man when a dozen press.
+- **The ash-kine.** Cattle burned without burning: horn, hide and hoof gone gray, and a dull red seam showing under the skin of the flank. They do not eat, and they make no sound. They walk in step and press into whatever stands in the way, and a struck one comes apart in a cloud of fine ash that blinds and scorches. A cow's weight is on a man when a dozen press.
 - [The Cinder Bull]{.name data-type="being/creature"}. The lead animal, bigger than the rest, with a three-wick lamp of black iron hung on a cord from the horns. Its wicks burn cold. The herd goes where the bull goes, and it charges at the sight of an open flame.
 - [Zhonko]{.name data-type="being/npc"}. A young herder who lost his father's cattle to the ground and watches from the wall at noon. He knows the herd's habits and will lead a party across for a share.
 
@@ -95,7 +95,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **NPCs and threats.**
 
-- **The ash.** The pits are a mass of fine grey ash, warm to the touch and not hot. A step on the crust above a pit breaks it, and the ash pulls at the leg like silt. It is not hungry. It is only deep.
+- **The ash.** The pits are a mass of fine gray ash, warm to the touch and not hot. A step on the crust above a pit breaks it, and the ash pulls at the leg like silt. It is not hungry. It is only deep.
 - **Ash-kine in the dark.** A pair stand among the ribs facing the stair, still until the party passes, and then moving.
 - **The niche lamp.** In the far wall is the granary-keeper's niche, a small shrine with a three-wick lamp. One wick burns with a small, true flame. It has burned there as long as anyone can say, and the fire below cannot take it.
 
@@ -120,7 +120,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **NPCs and threats.**
 
-- Talitho. A former priest of Zarhanis, grey to the elbow and cold to the touch, with the forehead of a man who has scraped his own ashmark off with a stone. He speaks in the cadence of a scholar of the temple and thinks in registers. He is terribly courteous, and he is dying. His touch turns warmth to ash, and fire brought near him leans and is lost. He does not want to fight. He wants the dead named.
+- Talitho. A former priest of Zarhanis, gray to the elbow and cold to the touch, with the forehead of a man who has scraped his own ashmark off with a stone. He speaks in the cadence of a scholar of the temple and thinks in registers. He is terribly courteous, and he is dying. His touch turns warmth to ash, and fire brought near him leans and is lost. He does not want to fight. He wants the dead named.
 - **The ash-kine at the walls.** Dozens, still until he speaks, and then moving in step.
 - **The fire.** It does not move and has no shape. It takes what it is fed, and it answers in the voices of the dead, in a murmur, low and many.
 

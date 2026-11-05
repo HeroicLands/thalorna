@@ -46,11 +46,11 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 - _Force:_ kill the python from the causeway with spears. It takes a wound badly and thrashes the stair into rubble.
 - _Stealth:_ cross at the stair's edge on the roots, keeping out of the water.
 - _Guile:_ draw Old Coil off with bait cast on the far side.
-- _Parley:_ a keeper of the [[lore-kubindoclt|Kubindo]] or any elder of the river can honour the python as the patron's kin and offer the old river-offerings. It lets them pass and does not follow.
+- _Parley:_ a keeper of the [[lore-kubindoclt|Kubindo]] or any elder of the river can honor the python as the patron's kin and offer the old river-offerings. It lets them pass and does not follow.
 
 **Clues and rewards.** Serpent-coils carved into the stair-risers show the way: the coils lead up. A drowned offering-bowl in the nest holds a handful of river-gold dust.
 
-**Consequences.** Killing Old Coil is permanent, and the river-tribes read it as an insult to the patron. Feeding it earns a passing mark of favour among those tribes who hear.
+**Consequences.** Killing Old Coil is permanent, and the river-tribes read it as an insult to the patron. Feeding it earns a passing mark of favor among those tribes who hear.
 
 **If bypassed.** If the party comes by water at the rear of the Ziggurat, they climb a fallen fig-root to the third terrace and skip the stair. The python is still there on the way out.
 
@@ -105,7 +105,7 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 **Purpose.** The climax: the cult's last high priestess, and the great wheel.
 
-**Situation.** The sanctum is a dry chamber under a vault of living root. The great wheel stands at its centre on a spindle as thick as a tree, turned by a single mummified hand the colour of old leather. On a throne of coiled bronze before it sits a woman in the green and gold robes of the cult. She is not mummified.
+**Situation.** The sanctum is a dry chamber under a vault of living root. The great wheel stands at its center on a spindle as thick as a tree, turned by a single mummified hand the color of old leather. On a throne of coiled bronze before it sits a woman in the green and gold robes of the cult. She is not mummified.
 
 **NPCs and threats.**
 

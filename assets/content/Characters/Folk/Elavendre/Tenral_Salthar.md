@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Tenral Salthar is a 50-year-old man who stands 6'2" tall with a light build. He has tanned skin, smooth complexion, blonde hair, and grey eyes.
+Tenral Salthar is a 50-year-old man who stands 6'2" tall with a light build. He has tanned skin, smooth complexion, blonde hair, and gray eyes.
 
 # Dossier {#dossier}
 

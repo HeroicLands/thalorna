@@ -39,7 +39,7 @@ Some of the doors have been opened and resealed. The seals are not always the te
 
 ## Hooks
 
-- **The wrong king.** A mummy in the galleries is labelled with a king who is not the one in the wrappings, and two houses' claims to land rest on which king he is. One of the claimants has a robber's key to the gallery and a reason to want the answer before the other learns the question.
+- **The wrong king.** A mummy in the galleries is labeled with a king who is not the one in the wrappings, and two houses' claims to land rest on which king he is. One of the claimants has a robber's key to the gallery and a reason to want the answer before the other learns the question.
 - **The map.** The guild that moved the kings kept a record of what it carried out and what it did not, and a man with no name and a sum of money has begun asking after it.
 - **The lamps.** Someone is lighting the lamp before one door that no one pays for. The guard would like to know who.
 

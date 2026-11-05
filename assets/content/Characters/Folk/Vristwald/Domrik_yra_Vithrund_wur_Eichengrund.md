@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Domrik yra Vithrúnd wur Eichengrund was a 38-year-old man who stood 6'3" tall with a medium build. He had fair skin, weathered complexion, dark brown hair, and grey eyes.
+Domrik yra Vithrúnd wur Eichengrund was a 38-year-old man who stood 6'3" tall with a medium build. He had fair skin, weathered complexion, dark brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

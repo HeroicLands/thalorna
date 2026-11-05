@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Nethoren is a 42-year-old man who stands 5'6" tall and is of medium build. He has olive skin gone sallow from indoor work, dark brown hair greying at the temples and brown eyes, and the second finger of his right hand carries a writer's callus. He dresses as a freedman of a great household, plainly and well, and he holds a sealed packet with both hands. He reads aloud in a clear, careful voice that reaches the bottom of the steps.
+Nethoren is a 42-year-old man who stands 5'6" tall and is of medium build. He has olive skin gone sallow from indoor work, dark brown hair graying at the temples and brown eyes, and the second finger of his right hand carries a writer's callus. He dresses as a freedman of a great household, plainly and well, and he holds a sealed packet with both hands. He reads aloud in a clear, careful voice that reaches the bottom of the steps.
 
 # Dossier {#dossier}
 

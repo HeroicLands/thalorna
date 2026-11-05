@@ -43,7 +43,7 @@ data:
 
 # Appearance {#appearance}
 
-Narvuna of Kethramír is a 53-year-old woman who stands 5'4" tall and is of light build, with a scholar's stoop at the shoulders. She has light skin lined at the eyes and mouth, grey hair worn short under the plain cap of the Shekhulukhem, and grey eyes that rarely blink. Between her brows is the small blue dot of a Delkoshekh's ordination. She dresses in the unbleached robe of a teacher-priest with nothing of her rank on it but the house's sun worked in thread at the shoulder. She speaks slowly, as if dictating, and she stops a speaker who is wrong with a raised finger and then lets him finish.
+Narvuna of Kethramír is a 53-year-old woman who stands 5'4" tall and is of light build, with a scholar's stoop at the shoulders. She has light skin lined at the eyes and mouth, gray hair worn short under the plain cap of the Shekhulukhem, and gray eyes that rarely blink. Between her brows is the small blue dot of a Delkoshekh's ordination. She dresses in the unbleached robe of a teacher-priest with nothing of her rank on it but the house's sun worked in thread at the shoulder. She speaks slowly, as if dictating, and she stops a speaker who is wrong with a raised finger and then lets him finish.
 
 # Dossier {#dossier}
 
@@ -107,5 +107,5 @@ The unsigned letter from [[being-sighotornozh|Sighotor son of Nozhikor]] asked o
 
 She suspects the letter was meant to be found. A Toqel who corresponds with the author of the book the Atarzád burn is a Toqel the strict could repudiate, and the old man is dying. If she answers, she may give him something he means to say to the Council before he dies, or she may give his enemies the letter that ends him.
 
-**Hook: the courier.** A Burqalod keeper in pilgrim's grey comes to Narvuna's school asking for her answer, and says the Toqel has a month. A second man asking the same question at the school gate the next morning is one of Aqeshat's.
+**Hook: the courier.** A Burqalod keeper in pilgrim's gray comes to Narvuna's school asking for her answer, and says the Toqel has a month. A second man asking the same question at the school gate the next morning is one of Aqeshat's.
 :::

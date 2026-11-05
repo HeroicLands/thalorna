@@ -389,7 +389,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Prituraja is a compact, unhurried man of fifty, 5'9", golden-skinned, with black hair going grey at the temples and amber eyes that rest on a ledger longer than on a face. He dresses like a factor rather than a seaman: a silk shirt, a good monsoon cloak, sandals. He wears the Collective's seal-ring on his right thumb and turns it when he is thinking.
+Prituraja is a compact, unhurried man of fifty, 5'9", golden-skinned, with black hair going gray at the temples and amber eyes that rest on a ledger longer than on a face. He dresses like a factor rather than a seaman: a silk shirt, a good monsoon cloak, sandals. He wears the Collective's seal-ring on his right thumb and turns it when he is thinking.
 
 # Dossier {#dossier}
 
@@ -473,4 +473,4 @@ The Timber
 : The new hull's keel timber is three months late from the forest, and the yard says it was sold on the river to another buyer. Prituraja wants it found.
 
 The Letter Called In
-: The Collective's house at [[place-chandrmukha|Chendramukhva]] calls in the yard letter early, on a rumour that the coasters are uninsured. Prituraja needs to know who started the rumour before the next sailing.
+: The Collective's house at [[place-chandrmukha|Chendramukhva]] calls in the yard letter early, on a rumor that the coasters are uninsured. Prituraja needs to know who started the rumor before the next sailing.

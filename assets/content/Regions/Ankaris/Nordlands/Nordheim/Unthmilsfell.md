@@ -32,7 +32,7 @@ The mound is long rather than round, the shape of the ship under it. Three thing
 
 At [[lore-veturnetur|Veturnetur]] the herders of the upper steads set a share of the slaughter-meat in the door-seat of the nearest hall, as the custom is for the honored old, and say the name of the man whose seat it was. The share is gone by morning. They have done it for as long as anyone remembers and speak of it as courtesy.
 
-Travelers on the pass road describe the rest. After dark the cairns have men standing at them, grey with rime, eyes shut, in mail of a make nobody has seen. They do not move against a traveler who walks on. They ask one question in the old speech of the halls, _who holds the pass?_, and the traveler who answers with anything but an oath is not harmed on the spot and is not seen again at the next stead. The skalds of the district sing the pass as haunted and are careful to leave the verse unfinished.
+Travelers on the pass road describe the rest. After dark the cairns have men standing at them, gray with rime, eyes shut, in mail of a make nobody has seen. They do not move against a traveler who walks on. They ask one question in the old speech of the halls, _who holds the pass?_, and the traveler who answers with anything but an oath is not harmed on the spot and is not seen again at the next stead. The skalds of the district sing the pass as haunted and are careful to leave the verse unfinished.
 
 The hall under the fell is lit. A herder who put his ear to the turf in the dark of the winter reports benches, a laid table and the sound of a feast, and the voice of a man calling the roll of the names of his war-band and getting answers.
 
@@ -40,7 +40,7 @@ The hall under the fell is lit. A herder who put his ear to the turf in the dark
 
 The dead are [[lore-undead|undead]]: the war-band are hrúmverdir of the oldest kind, the _eidnár_ or oath-corpses, men bound to an oath past the death that should have released them, and the man in the high seat is something nearer a [[lore-nagengir|nágengir]] than the folk word allows. Every undead carries [[lore-theshadow|the Shadow]], and the Shadow needs a way in. The undrunk grave-ale is the way. A dead man who is owed his reckoning and never receives it is held between the howe and the halls, and the black glass in the prow-post gives the Shadow something to grip.
 
-The glass is not from the fell. The gudi of Horgsvangur know it by its look, the grey-black of the ice at [[place-dvilgvatan|Dvilgvatan]], and know what kind of hand sets it. The [[affiliation-nalok|Nalok]] work in secret to widen the reach of [[lore-ginnauga|Ginnauga]], the Eye of the Void, and a howe whose dead lack their ale is ground they can reach.
+The glass is not from the fell. The gudi of Horgsvangur know it by its look, the gray-black of the ice at [[place-dvilgvatan|Dvilgvatan]], and know what kind of hand sets it. The [[affiliation-nalok|Nalok]] work in secret to widen the reach of [[lore-ginnauga|Ginnauga]], the Eye of the Void, and a howe whose dead lack their ale is ground they can reach.
 
 ## Who Knows of It
 

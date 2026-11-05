@@ -22,7 +22,7 @@ The **Kubindo** are the court-keepers, one of the four traditions of the [[lore-
 
 ## Where They Live
 
-Kubindo tribes are scattered through the [[place-cntrlrnfrsts|Central Rainforests]], wherever a spirit holds a place: a great tree, a pool, a rock in a river, the range of one beast. Each tribe lives within a few days' walk of its court, and the court is the centre of its world. Two Kubindo tribes can be weeks apart, with [[lore-yesomaclt|Yesoma]] or [[lore-luwandoclt|Luwando]] country between them.
+Kubindo tribes are scattered through the [[place-cntrlrnfrsts|Central Rainforests]], wherever a spirit holds a place: a great tree, a pool, a rock in a river, the range of one beast. Each tribe lives within a few days' walk of its court, and the court is the center of its world. Two Kubindo tribes can be weeks apart, with [[lore-yesomaclt|Yesoma]] or [[lore-luwandoclt|Luwando]] country between them.
 
 ## How They Live
 

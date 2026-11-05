@@ -621,12 +621,12 @@ data:
     - form: madra
       class: v
       field: Everyday speech
-      gloss: to taste; to perceive a flavour in the mouth
+      gloss: to taste; to perceive a flavor in the mouth
       concept: taste-verb
     - form: madrin
       class: n
       field: Everyday speech
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       concept: taste-noun
     - form: fren
       class: v
@@ -2387,23 +2387,23 @@ data:
       field: Everyday speech
       gloss: "to count things. Wi tavra melgud: I count the pots."
       concept: count-verb
-    - {form: swarthi, class: adj, field: Everyday speech, gloss: black in colour, concept: black}
-    - {form: withel, class: adj, field: Everyday speech, gloss: white in colour, concept: white}
-    - {form: rothra, class: adj, field: Everyday speech, gloss: red in colour, concept: red}
-    - {form: gruwi, class: adj, field: Everyday speech, gloss: green in colour, concept: green}
-    - {form: gulwa, class: adj, field: Everyday speech, gloss: yellow in colour, concept: yellow}
-    - {form: bleora, class: adj, field: Everyday speech, gloss: blue in colour, concept: blue}
-    - {form: grilri, class: adj, field: Everyday speech, gloss: grey in colour, concept: grey}
-    - {form: brunri, class: adj, field: Everyday speech, gloss: brown in colour, concept: brown}
+    - {form: swarthi, class: adj, field: Everyday speech, gloss: black in color, concept: black}
+    - {form: withel, class: adj, field: Everyday speech, gloss: white in color, concept: white}
+    - {form: rothra, class: adj, field: Everyday speech, gloss: red in color, concept: red}
+    - {form: gruwi, class: adj, field: Everyday speech, gloss: green in color, concept: green}
+    - {form: gulwa, class: adj, field: Everyday speech, gloss: yellow in color, concept: yellow}
+    - {form: bleora, class: adj, field: Everyday speech, gloss: blue in color, concept: blue}
+    - {form: grilri, class: adj, field: Everyday speech, gloss: gray in color, concept: grey}
+    - {form: brunri, class: adj, field: Everyday speech, gloss: brown in color, concept: brown}
     - form: leori
       class: adj
       field: Everyday speech
-      gloss: light in colour; toward white rather than dark
+      gloss: light in color; toward white rather than dark
       concept: light-colour
     - form: bleori
       class: adj
       field: Everyday speech
-      gloss: pale; weak or washed-out in colour
+      gloss: pale; weak or washed-out in color
       concept: pale
     - form: weiri
       class: adj
@@ -2448,7 +2448,7 @@ data:
     - form: wenga
       class: v
       field: Everyday speech
-      gloss: "to go; to move from one place to another; to walk when travelling on foot. Wi wenga ter hemra: I walk toward the house."
+      gloss: "to go; to move from one place to another; to walk when traveling on foot. Wi wenga ter hemra: I walk toward the house."
       concept: [go, walk]
     - form: komwe
       class: v
@@ -5008,7 +5008,7 @@ data:
     - {form: arn-, position: opening, sense: an eagle, examples: [Arnthúl, Arnmund, Arnwin]}
     - form: ar-
       position: opening
-      sense: "honour, the good name a kindred keeps"
+      sense: "honor, the good name a kindred keeps"
       examples: [Armund, Arskald]
     - form: athal-
       position: opening
@@ -5620,4 +5620,4 @@ Armund, Arnmund, Arnrád, Athalrik, Athalwin, Balthgar, Balthrith, Balthulf, Bru
 
 ## Clan Names
 
-Arnrúnd—"Eagle Shields", Arnthúl—"Eagle Bearers", Arskald—"Honour Reciters", Arthúl—"Honour Bearers", Athalvith—"Noble Valor", Athalwald—"Noble Holders", Balthhelm—"Bold Helms", Balthskorn—"Bold Tallies", Balthvith—"Bold Valor", Brunjahelm—"Mail Helms", Dagskald—"Daylight Reciters", Dagvith—"Daylight Valor", Domhár—"Judgment Hosts", Domrúnd—"Judgment Shields", Domwald—"Judgment Holders", Dorgbán—"Giant Slayers", Druthgar—"Trusted Spears", Druthhelm—"Trusted Helms", Druthrith—"Trusted Riders", Edrahelm—"Hedge Helms", Edrathúl—"Hedge Wardens", Eichthúl—"Oak Wardens", Eichrith—"Oak Riders", Eichrúnd—"Oak Shields", Eldskald—"Ancestor Reciters", Ermahild—"Unbroken in Battle", Erthrúnd—"Earth Shields", Erthwald—"Earth Holders", Falkhelm—"Falcon Helms", Falkrith—"Falcon Riders", Falkwern—"Falcons of the Lake", Frithhelm—"Peace Helms", Frithvith—"Peace Valor", Frodbán—"Wise Slayers", Frodrúnd—"Wise Shields", Frodskald—"Wise Reciters", Garhelm—"Spear Helms", Garwald—"Spear Holders", Garskald—"Speakers of the Spear", Garthúl—"Spear Bearers", Grimskorn—"Grim Tallies", Grimwald—"Grim Holders", Harskorn—"Host Tallies", Harvith—"Host Valor", Hildhár—"Battle Hosts", Hildskorn—"Battle Tallies", Hildvith—"Battle Valor", Hildwald—"Battle Holders", Hrodskald—"Renown Reciters", Hrodvith—"Renowned Valor", Mahnlin—"Younger Kinsmen", Mahnrúnd—"Kinsmen's Shields", Mahnvith—"Kinsmen of Valor", Othvith—"Valor of the Holding", Othwald—"Keepers of the Holding", Radskald—"Counsel Reciters", Radvith—"Counsel Valor", Rikhild—"Rulers in Battle", Rikskald—"Rule Reciters", Rikwald—"Rule Holders", Skaldhelm—"Reciter Helms", Skaldrith—"Reciter Riders", Skathhelm—"Harm Helms", Skathrúnd—"Harm Shields", Skathwald—"Harm Holders", Sundhelm—"Sound Helms", Sundreth—"Keepers of the Clearing", Sundvith—"Sound Valor", Thalhelm—"Dale Helms", Thalruvan—"Keepers of the Dale River", Thalvith—"Dale Valor", Theodhild—"Battles of the People", Theodskald—"Reciters of the People", Theodwald—"Holders of the People", Thornhelm—"Thorn Helms", Thornvith—"Thorn Valor", Thrahelm—"Unyielding Helms", Thrarúnd—"Unyielding Shields", Vandvith—"Exacting Valor", Vandwald—"Exacting Holders", Vethar—"The Hallowed", Vethhrum—"Keepers of the Hallowed Mound", Vethrúnd—"Hallowed Shields", Vethskald—"Hallowed Reciters", Vithhelm—"Valor Helms", Vithhreth—"Valor of the Ford", Vithrúnd—"Shields of Valor", Vithskald—"Valor Reciters", Vristhelm—"Free Helms", Vristvith—"Free Valor", Waldskorn—"Rule Tallies", Wuldvith—"Wood Valor", Wulfhelm—"Wolf Helms", Wulfskorn—"Wolf Tallies", Wulfvith—"Wolf Valor"
+Arnrúnd—"Eagle Shields", Arnthúl—"Eagle Bearers", Arskald—"Honor Reciters", Arthúl—"Honor Bearers", Athalvith—"Noble Valor", Athalwald—"Noble Holders", Balthhelm—"Bold Helms", Balthskorn—"Bold Tallies", Balthvith—"Bold Valor", Brunjahelm—"Mail Helms", Dagskald—"Daylight Reciters", Dagvith—"Daylight Valor", Domhár—"Judgment Hosts", Domrúnd—"Judgment Shields", Domwald—"Judgment Holders", Dorgbán—"Giant Slayers", Druthgar—"Trusted Spears", Druthhelm—"Trusted Helms", Druthrith—"Trusted Riders", Edrahelm—"Hedge Helms", Edrathúl—"Hedge Wardens", Eichthúl—"Oak Wardens", Eichrith—"Oak Riders", Eichrúnd—"Oak Shields", Eldskald—"Ancestor Reciters", Ermahild—"Unbroken in Battle", Erthrúnd—"Earth Shields", Erthwald—"Earth Holders", Falkhelm—"Falcon Helms", Falkrith—"Falcon Riders", Falkwern—"Falcons of the Lake", Frithhelm—"Peace Helms", Frithvith—"Peace Valor", Frodbán—"Wise Slayers", Frodrúnd—"Wise Shields", Frodskald—"Wise Reciters", Garhelm—"Spear Helms", Garwald—"Spear Holders", Garskald—"Speakers of the Spear", Garthúl—"Spear Bearers", Grimskorn—"Grim Tallies", Grimwald—"Grim Holders", Harskorn—"Host Tallies", Harvith—"Host Valor", Hildhár—"Battle Hosts", Hildskorn—"Battle Tallies", Hildvith—"Battle Valor", Hildwald—"Battle Holders", Hrodskald—"Renown Reciters", Hrodvith—"Renowned Valor", Mahnlin—"Younger Kinsmen", Mahnrúnd—"Kinsmen's Shields", Mahnvith—"Kinsmen of Valor", Othvith—"Valor of the Holding", Othwald—"Keepers of the Holding", Radskald—"Counsel Reciters", Radvith—"Counsel Valor", Rikhild—"Rulers in Battle", Rikskald—"Rule Reciters", Rikwald—"Rule Holders", Skaldhelm—"Reciter Helms", Skaldrith—"Reciter Riders", Skathhelm—"Harm Helms", Skathrúnd—"Harm Shields", Skathwald—"Harm Holders", Sundhelm—"Sound Helms", Sundreth—"Keepers of the Clearing", Sundvith—"Sound Valor", Thalhelm—"Dale Helms", Thalruvan—"Keepers of the Dale River", Thalvith—"Dale Valor", Theodhild—"Battles of the People", Theodskald—"Reciters of the People", Theodwald—"Holders of the People", Thornhelm—"Thorn Helms", Thornvith—"Thorn Valor", Thrahelm—"Unyielding Helms", Thrarúnd—"Unyielding Shields", Vandvith—"Exacting Valor", Vandwald—"Exacting Holders", Vethar—"The Hallowed", Vethhrum—"Keepers of the Hallowed Mound", Vethrúnd—"Hallowed Shields", Vethskald—"Hallowed Reciters", Vithhelm—"Valor Helms", Vithhreth—"Valor of the Ford", Vithrúnd—"Shields of Valor", Vithskald—"Valor Reciters", Vristhelm—"Free Helms", Vristvith—"Free Valor", Waldskorn—"Rule Tallies", Wuldvith—"Wood Valor", Wulfhelm—"Wolf Helms", Wulfskorn—"Wolf Tallies", Wulfvith—"Wolf Valor"

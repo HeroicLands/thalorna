@@ -1150,7 +1150,7 @@ data:
     - form: kali
       class: n
       field: Everyday speech
-      gloss: "a taste; a flavour"
+      gloss: "a taste; a flavor"
       concept: "taste-noun"
       source: {kind: coined}
     - form: holka
@@ -3232,7 +3232,7 @@ data:
     - form: oshiwine
       class: adj
       field: Everyday speech
-      gloss: "grey"
+      gloss: "gray"
       concept: "grey"
       source: {kind: coined}
     - form: tesitanti
@@ -3244,7 +3244,7 @@ data:
     - form: soli
       class: adj
       field: Everyday speech
-      gloss: "light in colour"
+      gloss: "light in color"
       concept: "light-colour"
       source: {kind: coined}
     - form: holkime

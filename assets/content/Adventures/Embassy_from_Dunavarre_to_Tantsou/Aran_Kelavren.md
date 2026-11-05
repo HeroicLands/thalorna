@@ -23,4 +23,4 @@ data:
 
 **Background.** A _marendos_ (master) of the [[affiliation-ordoarcanis|Thordimalon]] and a noble of [[affiliation-kingdmdnvr|Dúnavarre]], an experienced diplomat and a trusted adviser of the [[affiliation-dunavarsynod|Synod]]. As the kingdom's custom requires, the Ambassador is a mage. He is the only member of the retinue who knows [[being-marricharavrel|Marrik]] is Spymaster as well as Sergeant-at-Arms.
 
-**Intrigue.** Promoted to the post recently, and part of the Synod's service holds that his rise owes more to private dealing and favour than to merit. He needs to prove his worth in everything he does, which strains his relations with his own party—and [[being-baridanalendavel|Baridan]] resents his authority outright, believing the position should have been his.
+**Intrigue.** Promoted to the post recently, and part of the Synod's service holds that his rise owes more to private dealing and favor than to merit. He needs to prove his worth in everything he does, which strains his relations with his own party—and [[being-baridanalendavel|Baridan]] resents his authority outright, believing the position should have been his.

@@ -433,7 +433,7 @@ What was on the frames is the reason the caravan could not wait two days. If it 
 
 ### Personality
 
-Ubren is steady, slow to speak and slower to anger. He prefers carrying to talking and is better at it. With lowlanders he is easy and good-humoured, and he speaks their pidgin badly and without embarrassment. With his own people he is careful, because he knows the knot on the cord.
+Ubren is steady, slow to speak and slower to anger. He prefers carrying to talking and is better at it. With lowlanders he is easy and good-humored, and he speaks their pidgin badly and without embarrassment. With his own people he is careful, because he knows the knot on the cord.
 
 He has never taken coin from Asvari Shambatan since the morning, and has refused it twice. He does not hate her.
 

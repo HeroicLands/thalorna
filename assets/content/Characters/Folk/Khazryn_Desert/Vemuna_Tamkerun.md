@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Vemuna Tamkerun is a 69-year-old woman who stands 5'6" tall and is of medium build, with a smith's heavy shoulders still under the shawl. She has light skin with a sun-kissed complexion, grey hair cropped short, and amber eyes that look at a piece of work before they look at the person holding it. Both forearms are freckled with small burn scars from fifty years at the forge. She is deaf in the left ear and turns her head to hear, and she wears a leather apron over her good clothes even in retirement. She is short with everyone and quickly kind to anyone who asks a real question.
+Vemuna Tamkerun is a 69-year-old woman who stands 5'6" tall and is of medium build, with a smith's heavy shoulders still under the shawl. She has light skin with a sun-kissed complexion, gray hair cropped short, and amber eyes that look at a piece of work before they look at the person holding it. Both forearms are freckled with small burn scars from fifty years at the forge. She is deaf in the left ear and turns her head to hear, and she wears a leather apron over her good clothes even in retirement. She is short with everyone and quickly kind to anyone who asks a real question.
 
 # Dossier {#dossier}
 

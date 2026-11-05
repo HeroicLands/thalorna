@@ -320,13 +320,13 @@ data:
     - form: labesha
       class: v
       field: Everyday speech
-      gloss: to taste; to sense a flavour
+      gloss: to taste; to sense a flavor
       source: {kind: coined}
       concept: taste-verb
     - form: labesho
       class: n
       field: Everyday speech
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       source: {kind: coined}
       concept: taste-noun
     - form: labeyi
@@ -716,7 +716,7 @@ data:
     - form: nzelamo ntali
       class: n
       field: Everyday speech
-      gloss: contempt; aversion joined to a judgement that its object is beneath regard
+      gloss: contempt; aversion joined to a judgment that its object is beneath regard
       source: {kind: coined}
       concept: contempt
     - form: nalebemi
@@ -3006,61 +3006,61 @@ data:
     - form: nzabo
       class: adj
       field: Everyday speech
-      gloss: black; of the darkest colour
+      gloss: black; of the darkest color
       source: {kind: coined}
       concept: black
     - form: nzabe
       class: adj
       field: Everyday speech
-      gloss: white; of the lightest colour
+      gloss: white; of the lightest color
       source: {kind: coined}
       concept: white
     - form: nzabi
       class: adj
       field: Everyday speech
-      gloss: red; blood-coloured
+      gloss: red; blood-colored
       source: {kind: coined}
       concept: red
     - form: nzabu
       class: adj
       field: Everyday speech
-      gloss: green; the colour of growing leaves
+      gloss: green; the color of growing leaves
       source: {kind: coined}
       concept: green
     - form: nzabeya
       class: adj
       field: Everyday speech
-      gloss: yellow; the colour of ripe pale grain
+      gloss: yellow; the color of ripe pale grain
       source: {kind: coined}
       concept: yellow
     - form: nzabeyi
       class: adj
       field: Everyday speech
-      gloss: blue; the colour of a clear deep sky
+      gloss: blue; the color of a clear deep sky
       source: {kind: coined}
       concept: blue
     - form: nzabeyo
       class: adj
       field: Everyday speech
-      gloss: grey; between black and white without a strong hue
+      gloss: gray; between black and white without a strong hue
       source: {kind: coined}
       concept: grey
     - form: nzabeyu
       class: adj
       field: Everyday speech
-      gloss: brown; the colour of much earth or dry wood
+      gloss: brown; the color of much earth or dry wood
       source: {kind: coined}
       concept: brown
     - form: nzabele
       class: adj
       field: Everyday speech
-      gloss: light in colour; having a high light value, distinct from emitting light
+      gloss: light in color; having a high light value, distinct from emitting light
       source: {kind: coined}
       concept: light-colour
     - form: nzabeli
       class: adj
       field: Everyday speech
-      gloss: pale; weak or washed out in colour
+      gloss: pale; weak or washed out in color
       source: {kind: coined}
       concept: pale
     - form: lashebwe
@@ -5871,7 +5871,7 @@ data:
     - form: milabesha
       class: v
       field: Everyday speech
-      gloss: I taste; to sense a flavour
+      gloss: I taste; to sense a flavor
       source: {kind: coined}
       built: [mi-, labesha]
     - form: milabeyi

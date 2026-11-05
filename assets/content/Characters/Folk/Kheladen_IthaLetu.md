@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Kheladen Itha'Letu is a 46-year-old man who stands 5'7" tall with a light build. He has brown skin, greying black hair, and hazel eyes.
+Kheladen Itha'Letu is a 46-year-old man who stands 5'7" tall with a light build. He has brown skin, graying black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

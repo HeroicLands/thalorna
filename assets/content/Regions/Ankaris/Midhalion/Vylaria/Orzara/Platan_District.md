@@ -44,7 +44,7 @@ The district's real population arrives every morning and leaves every evening. L
 
 ## Who Keeps Order
 
-The Veramus of Law presides over the civic courts from the Hall of the Five, and the district is his ward in all but name. The ward has its own _peltros_ (ward magistrate), whose bench is the quietest in the city because so little is sold here. The Watch-house on the Circle of Árdavon is one of the strongest in Orzara, with a full watch-cohort and an armory deep enough to arm it in legionary kit, because a verdict that goes the wrong way in front of a crowd can become a riot before the judge has left the bench. The court ushers keep the doors, and the Criminal Tribunal keeps its own gaolers for the prisoners waiting below its floor.
+The Veramus of Law presides over the civic courts from the Hall of the Five, and the district is his ward in all but name. The ward has its own _peltros_ (ward magistrate), whose bench is the quietest in the city because so little is sold here. The Watch-house on the Circle of Árdavon is one of the strongest in Orzara, with a full watch-cohort and an armory deep enough to arm it in legionary kit, because a verdict that goes the wrong way in front of a crowd can become a riot before the judge has left the bench. The court ushers keep the doors, and the Criminal Tribunal keeps its own jailers for the prisoners waiting below its floor.
 
 Above all of it, and apart from it, are the imperial tribunals in the [[affiliation-imperialoffices|Imperial Offices]], on the other side of the Inner Wall. A case touching the nobility, [[affiliation-seldan|The Vylarian Senate]] or the throne can be lifted out of the Platan at the throne's word, and the Offices' clerks in their gray stoles come down the hill to collect it.
 

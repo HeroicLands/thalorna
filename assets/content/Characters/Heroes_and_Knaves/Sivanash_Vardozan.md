@@ -401,7 +401,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sivanash is a man of middle height and middle weight, olive-skinned and sun-darkened, with black hair going grey and kept short under a wrapped cloth. His eyes are hazel, and beneath the left one his tribe's mark is tattooed as three small dots. He dresses as a Sandyapur merchant does, in a cotton robe and a light mantle, and keeps a scimitar at his side as no Sandyapur merchant does. On a cord inside his robe he carries a folded paper in a leather sleeve, which he has never been seen to take out in public.
+Sivanash is a man of middle height and middle weight, olive-skinned and sun-darkened, with black hair going gray and kept short under a wrapped cloth. His eyes are hazel, and beneath the left one his tribe's mark is tattooed as three small dots. He dresses as a Sandyapur merchant does, in a cotton robe and a light mantle, and keeps a scimitar at his side as no Sandyapur merchant does. On a cord inside his robe he carries a folded paper in a leather sleeve, which he has never been seen to take out in public.
 
 # Dossier {#dossier}
 

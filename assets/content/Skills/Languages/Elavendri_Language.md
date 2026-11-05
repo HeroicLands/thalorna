@@ -41,8 +41,8 @@ data:
       holds: "The verbs of ordinary speech, cited by the infinitive."
     - name: Numbers and grammar words
       holds: "The numbers, the pronouns, the article and the particles."
-    - name: "Colour and the look of things"
-      holds: "The colours: black, white, red, green, yellow, blue, grey and brown."
+    - name: "Color and the look of things"
+      holds: "The colors: black, white, red, green, yellow, blue, gray and brown."
   words:
     - form: sóurethende
       class: n
@@ -2079,43 +2079,43 @@ data:
       source: {kind: borrowed, language: skill-aelendlng, form: ghurnar}
     - form: thaenar
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "black; dark"
       concept: [black, dark]
       source: {kind: borrowed, language: skill-aelendlng, form: thanar}
     - form: halmar
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "white"
       concept: white
       source: {kind: borrowed, language: skill-aelendlng, form: khalmar}
     - form: ryedar
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "red"
       concept: red
       source: {kind: borrowed, language: skill-aelendlng, form: rudhar}
     - form: sóutharen
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "yellow"
       concept: yellow
       source: {kind: borrowed, language: skill-aelendlng, form: sótharen}
     - form: déndaren
       class: adj
-      field: "Colour and the look of things"
-      gloss: "blue; the colour of the high sky"
+      field: "Color and the look of things"
+      gloss: "blue; the color of the high sky"
       concept: blue
       source: {kind: borrowed, language: skill-aelendlng, form: dhéndaren}
     - form: géstaren
       class: adj
-      field: "Colour and the look of things"
-      gloss: "grey; ash-coloured"
+      field: "Color and the look of things"
+      gloss: "gray; ash-colored"
       concept: grey
       source: {kind: borrowed, language: skill-aelendlng, form: ghéstaren}
     - form: hóldaren
       class: adj
-      field: "Colour and the look of things"
+      field: "Color and the look of things"
       gloss: "brown"
       concept: brown
       source: {kind: borrowed, language: skill-aelendlng, form: khóldaren}
@@ -2331,7 +2331,7 @@ data:
       concept: confusion
     - form: gaer
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: overwhelming; immense in size or degree
       source: {kind: borrowed, language: skill-aelendlng, form: ghur}
       concept: huge
@@ -2516,7 +2516,7 @@ data:
       concept: weak
     - form: gaeri
       class: adv
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: very; to a high degree
       source: {kind: borrowed, language: skill-aelendlng, form: ghuri}
       concept: very
@@ -2666,7 +2666,7 @@ data:
       concept: metal
     - form: gorth
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: high; reaching well above its base; tall when said of a standing thing
       source: {kind: borrowed, language: skill-aelendlng, form: ghorth}
       concept: [high, tall]
@@ -2846,8 +2846,8 @@ data:
       concept: count-verb
     - form: halnar
       class: adj
-      field: Colour and the look of things
-      gloss: light in colour; pale; having little depth of colour
+      field: Color and the look of things
+      gloss: light in color; pale; having little depth of color
       source: {kind: borrowed, language: skill-aelendlng, form: khalnar}
       concept: [light-colour, pale]
     - form: noul
@@ -3157,79 +3157,79 @@ data:
       concept: especially
     - form: gaernar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: big; large in size
       source: {kind: borrowed, language: skill-aelendlng, form: gharnar}
       concept: big
     - form: mouglar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: old; having existed for a long time; said of a thing
       source: {kind: borrowed, language: skill-aelendlng, form: moghlar}
       concept: old-object
     - form: geildar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: good; sound or desirable in the respect meant
       source: {kind: borrowed, language: skill-aelendlng, form: gheldar}
       concept: good
     - form: angeildar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: bad; unsound or undesirable in the respect meant
       source: {kind: borrowed, language: skill-aelendlng, form: angheldar}
       concept: bad
     - form: gaelnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: important; having great consequence or significance
       source: {kind: borrowed, language: skill-aelendlng, form: ghalnar}
       concept: important
     - form: angaelnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: trivial; of little consequence or significance
       source: {kind: borrowed, language: skill-aelendlng, form: anghalnar}
       concept: trivial
     - form: deisnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: valuable; having worth
       source: {kind: borrowed, language: skill-aelendlng, form: dhesnar}
       concept: valuable
     - form: andeisnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: worthless; having no worth
       source: {kind: borrowed, language: skill-aelendlng, form: andhesnar}
       concept: worthless
     - form: gaersar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: useful; serving a purpose
       source: {kind: borrowed, language: skill-aelendlng, form: gharsar}
       concept: useful
     - form: angaersar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: useless; serving no purpose
       source: {kind: borrowed, language: skill-aelendlng, form: angharsar}
       concept: useless
     - form: tengar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: complete; containing all that it needs or is meant to contain
       source: {kind: borrowed, language: skill-aelendlng, form: tenghar}
       concept: complete
     - form: antengar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: incomplete; lacking some required part
       source: {kind: borrowed, language: skill-aelendlng, form: antenghar}
       concept: incomplete
     - form: gournar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: opposite; facing the contrary way or at the other extreme
       source: {kind: borrowed, language: skill-aelendlng, form: ghornar}
       concept: opposite
@@ -3775,49 +3775,49 @@ data:
       concept: for-example
     - form: gaeri gaeri lunnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: tiny; extremely small
       built: [gaeri, gaeri, lunnar]
       concept: tiny
     - form: geirin geildar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: better; good to a greater degree than the thing compared
       built: [geirin, geildar]
       concept: better
     - form: geirin angeildar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: worse; bad to a greater degree than the thing compared
       built: [geirin, angeildar]
       concept: worse
     - form: geirin geildar thinar ukal derar gaeron
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: best; better than each other thing in the comparison
       built: [geirin, geildar, thinar, ukal, derar, gaeron]
       concept: best
     - form: geirin angeildar thinar ukal derar gaeron
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: worst; worse than each other thing in the comparison
       built: [geirin, angeildar, thinar, ukal, derar, gaeron]
       concept: worst
     - form: gaeri gaeri
       class: adv
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: extremely; to an exceptionally high degree
       built: [gaeri, gaeri]
       concept: extremely
     - form: goul antemar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: too much; more in quantity or degree than is suitable
       built: [goul, antemar]
       concept: too-much
     - form: send antemar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: too little; less in quantity or degree than is needed
       built: [send, antemar]
       concept: too-little
@@ -4057,7 +4057,7 @@ data:
     - form: lóskima
       class: n
       field: The body and the dead
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       source: {kind: borrowed, language: skill-aelendlng, form: lóskima}
       concept: taste-noun
     - form: sénthira
@@ -4069,7 +4069,7 @@ data:
     - form: rónkalis
       class: n
       field: The body and the dead
-      gloss: pride; honour a man claims for himself
+      gloss: pride; honor a man claims for himself
       source: {kind: borrowed, language: skill-aelendlng, form: rónkalis}
       concept: pride
     - form: ánsenthira
@@ -5364,7 +5364,7 @@ data:
     - {form: legyon, class: n, field: Arms and the border, gloss: legion, source: {kind: coined}}
     - form: auldar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: of the hills, hilly
       source: {kind: coined}
     - form: mirlerth
@@ -5375,7 +5375,7 @@ data:
 
     - form: nolgrar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: sworn
       source: {kind: coined}
     - {form: talgon, class: n, field: The land in keeping, gloss: "pole", source: {kind: coined}}
@@ -5429,7 +5429,7 @@ data:
 
     - form: ánkenar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: empty
       source: {kind: coined}
     - {form: hernon, class: n, field: The body and the dead, gloss: "dog", source: {kind: coined}}
@@ -5497,7 +5497,7 @@ data:
       source: {kind: coined}
     - form: menthar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: "heavy; great in weight"
       source: {kind: coined}
       concept: heavy
@@ -5505,7 +5505,7 @@ data:
 
     - form: thar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: clear of obstruction underfoot
       source: {kind: coined}
     - {form: óssengal, class: n, field: The land in keeping, gloss: "camp", source: {kind: coined}}
@@ -5600,17 +5600,17 @@ data:
 
     - form: rusthar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: rusted
       source: {kind: coined}
     - form: palthar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: folded
       source: {kind: coined}
     - form: rugar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: rotted
       source: {kind: coined}
     - form: ránelon
@@ -5621,7 +5621,7 @@ data:
 
     - form: rienar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: same, identical
       source: {kind: coined}
     - form: ruskathen
@@ -5656,7 +5656,7 @@ data:
 
     - form: sheirthar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: repaired
       source: {kind: coined}
     - {form: olken, class: n, field: The hall and the guest, gloss: "fox", source: {kind: coined}}
@@ -5671,12 +5671,12 @@ data:
 
     - form: sargar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: known
       source: {kind: coined}
     - form: ansargar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: unknown
       source: {kind: coined}
     - form: ríelathen
@@ -5687,17 +5687,17 @@ data:
 
     - form: anrielar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: untuned
       source: {kind: coined}
     - form: talar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: plain
       source: {kind: coined}
     - form: garsar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: made
       source: {kind: coined}
     - form: saenon
@@ -5744,12 +5744,12 @@ data:
 
     - form: thennar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: exact
       source: {kind: coined}
     - form: nourar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: displayed
       source: {kind: coined}
     - form: geindalon
@@ -5760,12 +5760,12 @@ data:
 
     - form: kornar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: requested
       source: {kind: coined}
     - form: hanar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: praised
       source: {kind: coined}
     - form: leithonis
@@ -5782,7 +5782,7 @@ data:
 
     - form: ilnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: [willing; ready to act by one's own desire, desired]
       source: {kind: coined}
       concept: willing
@@ -5800,12 +5800,12 @@ data:
 
     - form: geindathar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: "able to bear or perform"
       source: {kind: coined}
     - form: targonar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: due
       source: {kind: coined}
     - form: leveson
@@ -5952,7 +5952,7 @@ data:
 
     - form: antherar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: bare, uncovered
       source: {kind: coined}
     - form: úrkendra
@@ -5964,7 +5964,7 @@ data:
     - form: mirlathron
       class: n
       field: The wood and its weather
-      gloss: "a furrow; a ploughed line in soil"
+      gloss: "a furrow; a plowed line in soil"
       source: {kind: coined}
 
     - form: sirláth
@@ -6051,7 +6051,7 @@ data:
 
     - form: vaknar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: awake
       source: {kind: coined}
     - form: drénathen
@@ -6067,7 +6067,7 @@ data:
 
     - form: laethar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: invited
       source: {kind: coined}
     - form: greisand
@@ -6078,7 +6078,7 @@ data:
 
     - form: marlar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: spoken
       source: {kind: coined}
     - form: sélkathen
@@ -6138,7 +6138,7 @@ data:
       source: {kind: coined}
     - form: hendarnar
       class: adj
-      field: Colour and the look of things
+      field: Color and the look of things
       gloss: burned; damaged or marked by fire
       source: {kind: coined}
     - form: goldar
@@ -6173,8 +6173,8 @@ data:
       source: {kind: coined}
     - form: lirnis
       class: n
-      field: Colour and the look of things
-      gloss: colour; the visible hue of a thing
+      field: Color and the look of things
+      gloss: color; the visible hue of a thing
       source: {kind: coined}
     - form: véinathen
       class: v
@@ -7011,12 +7011,12 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Pelwar}}
 
-# terran_analog: Élavendri is patterned on the way a conservative highland tongue becomes a lowland one, in the tone of the Romance speech of Gaul becoming the speech of Paris (long vowels broken into diphthongs, consonants softened between vowels, final vowels reduced to a murmured e, the breathed stops loosened into fricatives), and its Sinale layer, carried down through Áelendi, gives it the colour of the Breton lai. Every inherited word is derived by the tables below from a row of the Áelendi lexicon, and every learned word from a row of the Vylari lexicon; every word is checked against Earth word lists, Breton and Parisian speech among them.
+# terran_analog: Élavendri is patterned on the way a conservative highland tongue becomes a lowland one, in the tone of the Romance speech of Gaul becoming the speech of Paris (long vowels broken into diphthongs, consonants softened between vowels, final vowels reduced to a murmured e, the breathed stops loosened into fricatives), and its Sinale layer, carried down through Áelendi, gives it the color of the Breton lai. Every inherited word is derived by the tables below from a row of the Áelendi lexicon, and every learned word from a row of the Vylari lexicon; every word is checked against Earth word lists, Breton and Parisian speech among them.
 ---
 
 Élavendri is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where [[skill-vylarilng|Vylari]] is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse: in western [[place-aureldirgn|Aureldia Region]] Élavendri is held to be the modern language of love, the courts and art, with [[skill-helonclng|Helonic]] its classical counterpart. The [[lore-vylarianclt|Vylarian]] people do not hold it so. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On [[place-aelwyth|Aelwyth]] the travelled and educated commonly speak it beside [[skill-aelwthlng|Aelwythi]], and the learned of Élavendre commonly speak Aelwythi in return; the two tongues have long borrowed words from each other.
+Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where [[skill-vylarilng|Vylari]] is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse: in western [[place-aureldirgn|Aureldia Region]] Élavendri is held to be the modern language of love, the courts and art, with [[skill-helonclng|Helonic]] its classical counterpart. The [[lore-vylarianclt|Vylarian]] people do not hold it so. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On [[place-aelwyth|Aelwyth]] the traveled and educated commonly speak it beside [[skill-aelwthlng|Aelwythi]], and the learned of Élavendre commonly speak Aelwythi in return; the two tongues have long borrowed words from each other.
 
 The roman inventory includes `j` and `J` for the registered Élavendri name Jeldor; the repertoire records established names as well as ordinary word sounds.
 
@@ -7208,7 +7208,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-Many Sinale words come back toward their Sinale shape on the way down, because the lowland softening undoes what the highland mouth did to them: the Sinale `v` the Áelendan said as `p` is `v` again between vowels. This is where the "fey" sound of Élavendri comes from. The words that open on _th-_ are disproportionately the Sinale words, and the tongue's whole Brittonic colour, the colour of the lays, is the Sinale layer heard through two mouths.
+Many Sinale words come back toward their Sinale shape on the way down, because the lowland softening undoes what the highland mouth did to them: the Sinale `v` the Áelendan said as `p` is `v` again between vowels. This is where the "fey" sound of Élavendri comes from. The words that open on _th-_ are disproportionately the Sinale words, and the tongue's whole Brittonic color, the color of the lays, is the Sinale layer heard through two mouths.
 
 ### Word edges
 
@@ -7294,9 +7294,9 @@ The verbs are cited by the infinitive, as the highlands cite them.
 
 The article _al_ is the highland _al_ with the lowland stress it takes like every word.
 
-### Colour and the look of things
+### Color and the look of things
 
-The colours are plain adjectives, each cited in its one form.
+The colors are plain adjectives, each cited in its one form.
 
 ## Attested names {#attested-names}
 

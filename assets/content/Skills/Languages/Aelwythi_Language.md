@@ -18,7 +18,7 @@ data:
       holds: Daily needs, shelter, household objects and materials.
     - {name: Kindred and society, holds: "Family, companions, communities, law and property."}
     - {name: Land and living things, holds: "Land, weather, plants, animals and directions."}
-    - {name: Number and appearance, holds: "Counting, quantity, colour, size and other qualities."}
+    - {name: Number and appearance, holds: "Counting, quantity, color, size and other qualities."}
     - {name: Doing and being, holds: "Actions, existence, change, causes and purposes."}
     - {name: Place and time, holds: "Position, movement, duration and sequence."}
     - name: Reference and questions
@@ -73,7 +73,7 @@ data:
     - form: savour
       class: n
       field: Senses and the body
-      gloss: a taste or flavour
+      gloss: a taste or flavor
       concept: taste-noun
     - form: touch
       class: v
@@ -1206,12 +1206,12 @@ data:
     - {form: green, class: adj, field: Number and appearance, gloss: green, concept: green}
     - {form: yellow, class: adj, field: Number and appearance, gloss: yellow, concept: yellow}
     - {form: blue, class: adj, field: Number and appearance, gloss: blue, concept: blue}
-    - {form: grey, class: adj, field: Number and appearance, gloss: grey, concept: grey}
+    - {form: grey, class: adj, field: Number and appearance, gloss: gray, concept: grey}
     - {form: brown, class: adj, field: Number and appearance, gloss: brown, concept: brown}
     - form: light of kolour
       class: adj
       field: Number and appearance
-      gloss: light in colour
+      gloss: light in color
       concept: light-colour
     - {form: pale, class: adj, field: Number and appearance, gloss: pale, concept: pale}
     - form: letting no light through
@@ -3110,10 +3110,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: freezing cold or its thin covering of ice
-    - form: furrow
-      class: n
-      field: Ordinary speech
-      gloss: a groove made in the earth by a plough
+    - {form: furrow, class: n, field: Ordinary speech, gloss: a groove made in the earth by a plow}
     - {form: gainsay, class: v, field: Ordinary speech, gloss: contradict or deny}
     - {form: gap, class: n, field: Ordinary speech, gloss: an opening between things}
     - form: gentles
@@ -3172,7 +3169,7 @@ data:
     - {form: herdsman, class: n, field: Ordinary speech, gloss: a keeper of livestock}
     - {form: hew, class: v, field: Ordinary speech, gloss: cut with an axe or heavy blade}
     - {form: highland, class: n, field: Ordinary speech, gloss: high or mountainous country}
-    - {form: hind, class: n, field: Ordinary speech, gloss: a farm labourer; a female deer}
+    - {form: hind, class: n, field: Ordinary speech, gloss: a farm laborer; a female deer}
     - form: his
       class: pron
       field: Ordinary speech
@@ -3265,7 +3262,7 @@ data:
       variants: [lowlands]
     - {form: lubber, class: n, field: Ordinary speech, gloss: a clumsy or idle fellow}
     - {form: luk, class: n, field: Ordinary speech, gloss: good or bad fortune}
-    - {form: mail, class: n, field: Ordinary speech, gloss: armour made of linked metal rings}
+    - {form: mail, class: n, field: Ordinary speech, gloss: armor made of linked metal rings}
     - form: manor
       class: n
       field: Ordinary speech
@@ -3529,7 +3526,7 @@ data:
     - form: swainmote
       class: n
       field: Ordinary speech
-      gloss: a forest court hearing offences against forest law
+      gloss: a forest court hearing offenses against forest law
     - form: sweep
       class: v
       field: Ordinary speech
@@ -3618,7 +3615,7 @@ data:
     - form: wear
       class: v
       field: Ordinary speech
-      gloss: carry clothing or armour on the body
+      gloss: carry clothing or armor on the body
       variants: [weareth]
     - {form: weep, class: v, field: Ordinary speech, gloss: shed tears, variants: [wept]}
     - form: well
@@ -3987,7 +3984,7 @@ data:
   elements:
     - {form: ash, position: opening, kind: place, sense: the ash tree, examples: [Ashford]}
     - {form: bryn, position: opening, kind: place, sense: a hill, examples: [Brynwold]}
-    - {form: grey, position: opening, kind: place, sense: "grey, weathered", examples: [Greywater]}
+    - {form: grey, position: opening, kind: place, sense: "gray, weathered", examples: [Greywater]}
     - {form: kold, position: opening, kind: place, sense: cold, examples: [Koldbek]}
     - {form: high, position: opening, kind: place, sense: high, examples: [Highfold]}
     - {form: stony, position: opening, kind: place, sense: full of stones, examples: [Stonyhaugh]}
@@ -4001,7 +3998,7 @@ data:
       kind: place
       sense: "belonging to, of the part before it"
       examples: [Kingshollow]
-    - {form: dun, position: opening, kind: place, sense: "dark, dun-coloured", examples: [Dunmere]}
+    - {form: dun, position: opening, kind: place, sense: "dark, dun-colored", examples: [Dunmere]}
     - {form: kaer, position: opening, kind: place, sense: a fort, examples: [Kaerwynd]}
     - form: sunner
       position: opening
@@ -4141,11 +4138,11 @@ data:
       sense: belonging to the elf-folk
       examples: [Alverton]
     - {form: barn, position: opening, kind: byname, sense: "a barn, a store", examples: [Barnwell]}
-    - {form: brand, position: opening, kind: byname, sense: a burnt clearing, examples: [Brandon]}
+    - {form: brand, position: opening, kind: byname, sense: a burned clearing, examples: [Brandon]}
     - {form: brown, position: opening, kind: byname, sense: brown, examples: [Browning]}
     - {form: chil, position: opening, kind: byname, sense: "cold, chill", examples: [Chilton]}
     - {form: gar, position: opening, kind: byname, sense: a spear, examples: [Garmon]}
-    - {form: gray, position: opening, kind: byname, sense: grey, examples: [Grayling]}
+    - {form: gray, position: opening, kind: byname, sense: gray, examples: [Grayling]}
     - {form: hard, position: opening, kind: byname, sense: "hardy, stout", examples: [Harding]}
     - {form: helm, position: opening, kind: byname, sense: a helm, examples: [Helmsley]}
     - {form: os, position: opening, kind: byname, sense: a god, examples: [Osgood]}
@@ -4494,7 +4491,7 @@ Aelwythi respells its English-derived vocabulary consistently:
 An English-derived word keeps its English sound and is written in the common letters: _kìdni_.
 
 Thus English silence is Aelwythi silense, pack is pak and exact is eksakt.
-English sceptic is Aelwythi skeptik, an explicit exception to the sc rule.
+English skeptic is Aelwythi skeptik, an explicit exception to the sc rule.
 The vocabulary records the exceptions needed to distinguish colliding forms:
 English scent is sente, distinct from sent, and thick is thikke. These added
 final e spellings retain their English-derived readings; a single preceding
@@ -4747,7 +4744,7 @@ Three tongues meet on Aelwyth, each with its own work. Aelwythi is the island's 
 
 [[skill-elvndrlng|Élavendri]] is the language of courts and verse. Its grammar draws fine distinctions of rank, courtesy and feeling that Aelwythi leaves unsaid, and it carries prestige at court, above all at [[affiliation-kingdmdnvr|Dúnavarre]], whose Synod keeps close ties with the Élavendren royal house. [[skill-vylarilng|Vylari]] is the language of law, scholarship and treaty, and the learned, clergy, lawyers and diplomats of the island use it as their counterparts across the west do.
 
-Ordinary folk who stay at home speak Aelwythi alone. The travelled and educated commonly have more: nobles and courtiers, the learned, merchants and traders, sailors, and anyone who goes abroad. Such a person speaks Aelwythi, the neighbour's Élavendri, and Vylari for anything written to last. The learned and well-travelled of [[place-elavendre|Élavendre]] likewise speak Aelwythi. Aelwythi and Élavendri have long borrowed words from each other.
+Ordinary folk who stay at home speak Aelwythi alone. The traveled and educated commonly have more: nobles and courtiers, the learned, merchants and traders, sailors, and anyone who goes abroad. Such a person speaks Aelwythi, the neighbor's Élavendri, and Vylari for anything written to last. The learned and well-traveled of [[place-elavendre|Élavendre]] likewise speak Aelwythi. Aelwythi and Élavendri have long borrowed words from each other.
 
 ## How Aelwythi is written down
 
@@ -4918,7 +4915,7 @@ kounsel. The folk growen weary and the winter draweth nigh. Ceremonial speech
 can add parallelism and repetition: By the troth of our fathers and the blood
 of our forebears we binden ourselves unto this oath. Neither sword nor flame
 shall turn us from our purpose. All three keep the same agreement rules.
-Verse keeps its metre and rhyme.
+Verse keeps its meter and rhyme.
 
 #### Speech and emphasis {#speech-and-emphasis}
 
@@ -5037,7 +5034,7 @@ Will let the kourteous pass beside.
 
 In the charm, _offering_ and _courteous_ each take two syllables: _off-ring_,
 and _cour-teous_ with the second part compressed. These divisions mark the
-metre; the vowel readings follow the English-word rules above and the stated
+meter; the vowel readings follow the English-word rules above and the stated
 lexical reading.
 _Who_ here means _whoever_. Both the charm and the harvest song have eight
 syllables to a line.
@@ -5068,7 +5065,7 @@ The harvest song and the crossroads charm above are four-beat couplets.
 
 Names on Aelwyth use the authoritative spellings given in the register. Their explicit notes take precedence; otherwise ordinary English words keep their familiar readings and coined names obey the fixed pronunciation and stress rules above. The island's people name by compounding, and the same small stock of elements serves places, people and families.
 
-**A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brynwold]]_ the upland of the hills, _[[place-wyndmarch|The Wyndmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greywater]]_ the grey river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
+**A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brynwold]]_ the upland of the hills, _[[place-wyndmarch|The Wyndmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greywater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
 
 **A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwyn_, _Edrun_.
 

@@ -418,7 +418,7 @@ Dorghár stands with Thornhaven’s war-band and guards its households when dang
 
 ### Patrons
 
-Thornhaven’s households provide his food and gear when he serves their defence; the War Chief keeps him close because he has earned the band’s trust.
+Thornhaven’s households provide his food and gear when he serves their defense; the War Chief keeps him close because he has earned the band’s trust.
 
 ### Enemies
 

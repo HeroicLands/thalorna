@@ -91,7 +91,7 @@ The court factions
 
 ## What It Is Fighting About {#present}
 
-The Seldan is strong this year because the throne is weak. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], is seventy-eight and failing and has adopted nobody, and the chamber that acclaims a man of its own whenever a throne falls vacant is counting its benches. Its majority wants an orderly succession and a man it knows, and the man it knows best is [[being-klvnsmrdvns|Kolvenas Mardovanes]], a _kurthos_ in his own right and a former governor of Hilen. The old houses of the [Conservative Faction]{.name data-type="affiliation"} would rather see [[being-dlmrsvrklns|Dalmeras Varkalenis]] adopted, and the legate [[being-hlzrsvndrn|Halzoras Vendaren]] is the Guard's favourite.
+The Seldan is strong this year because the throne is weak. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], is seventy-eight and failing and has adopted nobody, and the chamber that acclaims a man of its own whenever a throne falls vacant is counting its benches. Its majority wants an orderly succession and a man it knows, and the man it knows best is [[being-klvnsmrdvns|Kolvenas Mardovanes]], a _kurthos_ in his own right and a former governor of Hilen. The old houses of the [Conservative Faction]{.name data-type="affiliation"} would rather see [[being-dlmrsvrklns|Dalmeras Varkalenis]] adopted, and the legate [[being-hlzrsvndrn|Halzoras Vendaren]] is the Guard's favorite.
 
 Three questions wait beneath the dome.
 

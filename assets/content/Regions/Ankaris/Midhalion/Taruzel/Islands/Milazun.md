@@ -3,7 +3,7 @@ shortcode: milazun
 name: {full: Milazun}
 type: place
 subType: region
-description: "The small rose island south of the Taruzelian narrows: sheltered valleys of roses, orchards and thyme, still-houses that distil attar, the merchant town of Shamular, and the summer houses of guild families."
+description: "The small rose island south of the Taruzelian narrows: sheltered valleys of roses, orchards and thyme, still-houses that distill attar, the merchant town of Shamular, and the summer houses of guild families."
 tags: [region, island]
 data:
   demonym: null

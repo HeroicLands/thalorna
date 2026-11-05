@@ -40,6 +40,6 @@ Nalaqmalu, Moon Running, is a youth (_tiqlak_) of the men's house of [[place-kav
 
 The one is [[place-imlakkagaq|Whale Point]]. Since the speaker of his men's house, [[being-kavrukali|Kavrukali]], said at the Bladder Feast that the Taking was a gift taken and not answered, Whale Point has not sent its bladders to Kavrumiq's ice hole, and Kavrumiq has not sent it an invitation. Nalaqmalu is nineteen, long-legged and talkative, and he thinks the quarrel is foolish. He has said so in the men's house, which a youth does not do.
 
-A party travelling the coast can travel with a messenger, who is welcome everywhere he goes and fed in every men's house, and a party that carries a message between Walrus Place and Whale Point that neither speaker can be seen to send is doing something Nalaqmalu would like to do himself.
+A party traveling the coast can travel with a messenger, who is welcome everywhere he goes and fed in every men's house, and a party that carries a message between Walrus Place and Whale Point that neither speaker can be seen to send is doing something Nalaqmalu would like to do himself.
 
 What he wants is to carry Walrus Place's invitation into Whale Point's men's house and bring back a list of what it wants.

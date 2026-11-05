@@ -415,7 +415,7 @@ sohl:
 
 ![[raiaquuznera|Raiaku Uzner'Au]]{float=top-left}
 
-Raiaku stands 6'0" tall with a heavy build. He has ebony skin, greying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
+Raiaku stands 6'0" tall with a heavy build. He has ebony skin, graying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
 
 # Dossier {#dossier}
 

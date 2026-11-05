@@ -48,6 +48,6 @@ A party that walks the headland at night in winter, at the lowest tides, sees so
 
 :::
 
-He is fifty-five, grey, courteous to grief and generous to the priests' house. A party that brings a dead companion to the Crossing Shore is treated with every kindness.
+He is fifty-five, gray, courteous to grief and generous to the priests' house. A party that brings a dead companion to the Crossing Shore is treated with every kindness.
 
 What he wants is the Crossing Shore as crowded with mourners in his grandchildren's time as in his own.

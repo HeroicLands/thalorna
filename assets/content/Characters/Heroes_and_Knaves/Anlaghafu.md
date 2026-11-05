@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Anlaghafu is a 45-year-old man who stands 6'2" tall with a heavy build. He has ebony skin, grey hair, and brown eyes.
+Anlaghafu is a 45-year-old man who stands 6'2" tall with a heavy build. He has ebony skin, gray hair, and brown eyes.
 
 # Dossier {#dossier}
 

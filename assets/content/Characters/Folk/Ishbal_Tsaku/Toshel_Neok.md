@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-Toshel Ne'ok is a 61-year-old woman who stands 5'1" tall with a light build. She has dark brown skin, scarred complexion, greying black hair, and dark brown eyes.
+Toshel Ne'ok is a 61-year-old woman who stands 5'1" tall with a light build. She has dark brown skin, scarred complexion, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

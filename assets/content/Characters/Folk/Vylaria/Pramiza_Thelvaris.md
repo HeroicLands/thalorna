@@ -3,7 +3,7 @@ shortcode: pramizathelv
 name: {full: Pramiza Thelvaris, en: [Lady Pramiza Thelvaris]}
 type: being
 subType: npc
-description: "An immensely wealthy widow of Orzara and patron of the theatre, who has championed the playwright Makithos Vanardis through every controversy and pays for his most ambitious productions."
+description: "An immensely wealthy widow of Orzara and patron of the theater, who has championed the playwright Makithos Vanardis through every controversy and pays for his most ambitious productions."
 tags: []
 data:
   icon: icon-person
@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Pramiza Thelvaris is a 64-year-old woman who stands 5'9" tall and is of heavy build. She has olive skin, dark brown hair going grey under a widow's veil, and brown eyes that miss nothing on a stage or off it. She wears a widow's dark gown with very good jewels, takes the best seat in any house without being shown to it, and laughs loudly at the places in a play where nobody else has dared to.
+Pramiza Thelvaris is a 64-year-old woman who stands 5'9" tall and is of heavy build. She has olive skin, dark brown hair going gray under a widow's veil, and brown eyes that miss nothing on a stage or off it. She wears a widow's dark gown with very good jewels, takes the best seat in any house without being shown to it, and laughs loudly at the places in a play where nobody else has dared to.
 
 # Dossier {#dossier}
 

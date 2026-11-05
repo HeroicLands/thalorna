@@ -3,7 +3,7 @@ shortcode: teremoszenot
 name: {full: Teremos Zenothenos, en: [Marendos Teremos]}
 type: being
 subType: npc
-description: "An austere marendos and sekeros of the Arcane Inquisition who works its western investigations, and who is asking the villages of the Aelwyth borderlands about a travelling healer whose real name he does not know."
+description: "An austere marendos and sekeros of the Arcane Inquisition who works its western investigations, and who is asking the villages of the Aelwyth borderlands about a traveling healer whose real name he does not know."
 tags: [draft]
 data:
   icon: icon-person
@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Teremos Zenothenos is a 45-year-old man who stands 5'6" tall and is of heavy build. He has olive skin browned by the road, auburn hair cut short, and steady brown eyes. He dresses plainly, in a dark travelling coat with no mark of the [[affiliation-ordoarcanis|Thordimalon]] on it until he chooses to show one. He sits square at a table, speaks little, and writes in a small, even hand while others talk.
+Teremos Zenothenos is a 45-year-old man who stands 5'6" tall and is of heavy build. He has olive skin browned by the road, auburn hair cut short, and steady brown eyes. He dresses plainly, in a dark traveling coat with no mark of the [[affiliation-ordoarcanis|Thordimalon]] on it until he chooses to show one. He sits square at a table, speaks little, and writes in a small, even hand while others talk.
 
 # Dossier {#dossier}
 
@@ -47,7 +47,7 @@ His present inquiry is in the borderlands of [[place-aelwyth|Aelwyth]], where th
 
 **The west.** The Sekran set him to its western inquiries, where the Order keeps chapters but holds no law, and a _sekeros_ works on his standing, his reputation and his hired help.
 
-**The healer.** In the Aelwyth borderlands he has heard, more than once, of a travelling healer and scholar who sells remedies in the less-settled villages and knows more than a hedge-healer should.
+**The healer.** In the Aelwyth borderlands he has heard, more than once, of a traveling healer and scholar who sells remedies in the less-settled villages and knows more than a hedge-healer should.
 
 ## Psyche
 

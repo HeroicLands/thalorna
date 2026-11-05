@@ -34,7 +34,7 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 **Purpose.** Show the lake's danger, and the safe way across.
 
-**Situation.** The grey ice at the shore is safe. Past a ring of bone-cairns it turns black, and the black is cold in a way the weather does not explain. Stars are few in the sky over it. A track of pale ice leads toward the center, marked by cairns of knucklebones.
+**Situation.** The gray ice at the shore is safe. Past a ring of bone-cairns it turns black, and the black is cold in a way the weather does not explain. Stars are few in the sky over it. A track of pale ice leads toward the center, marked by cairns of knucklebones.
 
 **NPCs and threats.** The ice is the guardian. It takes the heat out of a person who walks on the black, a little at a time, so that the cold arrives as a kind of peace. The **Ginnborn** stand on the ice at intervals, their limbs ice, their faces still those of the people they were. They do not hunt. They stand until a living thing comes within reach and then they move, fast.
 
@@ -84,7 +84,7 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 **Situation.** The hov is a long hall of ship-timber and black glass. At its far end is an altar cut from a single block of the black ice, and in the floor before the altar is a round of dark that is not the floor. The cold coming off it is the cold of nothing. Gnuldurthira kneels at the altar, chipping shards from the block with a bone chisel. Ginnborn line the walls.
 
-**NPCs and threats.** Gnuldurthira is a woman in her forties with a grey streak in her hair and black eyes, and she serves the goddess with a refugee's gratitude: she credits Nahild with giving her a place when none was given. She believes in the quiet that Nahild holds out to the dead. The Ginnborn move when she lifts a hand. The round of dark is the leak, and it draws on the living as the party stands near it.
+**NPCs and threats.** Gnuldurthira is a woman in her forties with a gray streak in her hair and black eyes, and she serves the goddess with a refugee's gratitude: she credits Nahild with giving her a place when none was given. She believes in the quiet that Nahild holds out to the dead. The Ginnborn move when she lifts a hand. The round of dark is the leak, and it draws on the living as the party stands near it.
 
 **Player choices.** Force: break the altar, which closes the seep for a season and sends the Shadow lashing through the hall. Stealth: slip the bone case of finished shards from the altar's foot and carry it out. Guile: convince Gnuldurthira that her Order is feeding something that will eat the hov, which is true. Parley: tell her that the fortress would have kept her husband's name, and ask her to stop.
 

@@ -19,7 +19,7 @@ Yanwu (Cloud Hall) is the castle town and seat of [[affiliation-hojujaidmn|House
 
 The castle holds the **granary**, where the lord's four parts in ten are delivered from the demesne at [Yanju]{.name data-type="place/settlement"}, and the hall. [Hojujai Rewei]{.name data-type="being/npc"} holds the keys of both while her son is a minor. The retainers of the house, who served the last Teng Ja, are quartered in the town, and the Tsaihuo soldiers of the domain are raised from its streets.
 
-The town lives on its water. Bathhouses fed from the springs take pilgrims on their way to the summit shrine and retainers on leave from the other mountains, and the sulphur dug at the vents is weighed and sold at the town's market. Rice from the ash-soil terraces of [Fanu]{.name data-type="place/settlement"} and [Weinu]{.name data-type="place/settlement"} comes in by the mountain road.
+The town lives on its water. Bathhouses fed from the springs take pilgrims on their way to the summit shrine and retainers on leave from the other mountains, and the sulfur dug at the vents is weighed and sold at the town's market. Rice from the ash-soil terraces of [Fanu]{.name data-type="place/settlement"} and [Weinu]{.name data-type="place/settlement"} comes in by the mountain road.
 
 Rewei governs through judges the household appoints from among the retainers. The envoys of the other houses watch the town; the [[affiliation-shuiwojaidmn|Shuiwojai]] envoy there sends word to [[place-hawu|Hawu]] after every tremor.
 

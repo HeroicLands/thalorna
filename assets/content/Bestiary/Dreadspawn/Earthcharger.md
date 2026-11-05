@@ -204,7 +204,7 @@ The granary door is oak, banded with iron, and it is barred from inside. Somethi
 
 # Dossier {#dossier}
 
-The Earthcharger is a dreadspawn in the shape of a giant beetle: ten to twelve feet long and fifteen hundred pounds, armored in layered black chitin, with shearing jaws and a charge that breaks down timber doors, palisades and weak stone. It lives in caverns and the passages under hills and comes out to take what it wants. It is one of the dreadspawn that have appeared inside the borders of the [[affiliation-tantsouempr|Empire of Tantsou]] in recent years, more of them than anyone can account for, and the army that has to deal with them has found the earthcharger one of the hardest. Like every dreadspawn it was made, it is alive, and it does not breed. The [[lore-tanchei|Tanchei]] have catalogued it with the rest.
+The Earthcharger is a dreadspawn in the shape of a giant beetle: ten to twelve feet long and fifteen hundred pounds, armored in layered black chitin, with shearing jaws and a charge that breaks down timber doors, palisades and weak stone. It lives in caverns and the passages under hills and comes out to take what it wants. It is one of the dreadspawn that have appeared inside the borders of the [[affiliation-tantsouempr|Empire of Tantsou]] in recent years, more of them than anyone can account for, and the army that has to deal with them has found the earthcharger one of the hardest. Like every dreadspawn it was made, it is alive, and it does not breed. The [[lore-tanchei|Tanchei]] have cataloged it with the rest.
 
 ## Presentation
 

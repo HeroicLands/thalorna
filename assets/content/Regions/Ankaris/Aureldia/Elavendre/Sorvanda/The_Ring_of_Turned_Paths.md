@@ -40,7 +40,7 @@ A Pegged walker does not strike. He walks, and a body that stands in his way is 
 
 - **The Wardens** know that something is wrong in the Silver Forests east of Sóurimel, because their own paths have turned them from the hollow three seasons running and the turning is not the old kind. They have not found the ring. A Warden asked about it says only that the wood is closed there and that a closed wood is not opened by force.
 - **Sóurimel** lost a guide, a charcoal-burner's daughter named [Alena Alveryn]{.name data-type="being/npc"}, who left with lowland strangers and did not return. The village keeps her hearth lit. Her mother tells anyone who stays long enough that a lamp was seen walking in a straight line through the trees on a night when no lamp could.
-- **The Arcane Order** records the expedition as lost in the northern interior, which is what its records say of several. The chapterhouse at [[place-beravel|Péravel]] holds Réncaris's licence and not his survey notes.
+- **The Arcane Order** records the expedition as lost in the northern interior, which is what its records say of several. The chapterhouse at [[place-beravel|Péravel]] holds Réncaris's license and not his survey notes.
 - **[[affiliation-bardicolgs|The Bardic Colleges]]** have a verse about a man who asked the wood to go straight. It does not end.
 
 ## Reaching It

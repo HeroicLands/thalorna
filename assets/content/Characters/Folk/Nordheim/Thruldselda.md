@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thruldselda is a 37-year-old woman who stands 5'7" tall with a medium build. She has fair skin, ruddy complexion, dark blonde hair, and grey eyes.
+Thruldselda is a 37-year-old woman who stands 5'7" tall with a medium build. She has fair skin, ruddy complexion, dark blonde hair, and gray eyes.
 
 # Dossier {#dossier}
 

@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Lemani is a 50-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, grey hair, and amber eyes.
+Lemani is a 50-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, gray hair, and amber eyes.
 
 # Dossier {#dossier}
 

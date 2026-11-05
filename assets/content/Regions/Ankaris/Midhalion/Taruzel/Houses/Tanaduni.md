@@ -81,7 +81,7 @@ The house's newest galleys were built at Yamuzel's [Naval Yards]{.name data-type
 
 Delzuru means to sail out of that debt on a toll. He is pressing the [[affiliation-grandcouncil|Grand Council]] to grant the League a toll (_sazumush_) on every hull that passes the narrows under the Strait Fortress, collected by League galleys, which in practice means his own. If the Council grants it, every captain in the islands pays the Tanaduni twice: once for a place in the convoy, and once for the water.
 
-The toll is the house's summer business. Delzuru wants it read early in the Grand Council's session, he has been a guest at [[being-dnshkmn|Danashu Kumuni]]'s residence twice this winter, and the foreign masters waiting in the roads have heard of it and mean to fight it. He says openly that he would sooner hire the outlaw captains than hunt them, and the League's patrols that hunt them include Tanaduni galleys all the same. He has hired a mage of the [[affiliation-ordoarcanis|Thordimalon]] to sail with his flagship through the summer, because the League wants the Order's battle-magic, and the Compact wants the contract broken. On [[place-khamisar|Khamisar]]'s south slope veterans of the Quarter are ploughing marked plots leased to an admirals' family of the city, saying the land was promised them, and the Admiral's Council where Delzuru sits has been asked for marines to clear them before the [[lore-fleetreview|Fleet Review]].
+The toll is the house's summer business. Delzuru wants it read early in the Grand Council's session, he has been a guest at [[being-dnshkmn|Danashu Kumuni]]'s residence twice this winter, and the foreign masters waiting in the roads have heard of it and mean to fight it. He says openly that he would sooner hire the outlaw captains than hunt them, and the League's patrols that hunt them include Tanaduni galleys all the same. He has hired a mage of the [[affiliation-ordoarcanis|Thordimalon]] to sail with his flagship through the summer, because the League wants the Order's battle-magic, and the Compact wants the contract broken. On [[place-khamisar|Khamisar]]'s south slope veterans of the Quarter are plowing marked plots leased to an admirals' family of the city, saying the land was promised them, and the Admiral's Council where Delzuru sits has been asked for marines to clear them before the [[lore-fleetreview|Fleet Review]].
 
 ## Meeting the House
 
@@ -95,7 +95,7 @@ Katira also pays a share of the convoy fees, quietly, to old sailors of her fath
 
 ## Hooks {#hooks}
 
-- **The plots.** The Admiral's Council must decide whether its marines clear the ploughed plots on the south slope of Khamisar, which the house leases, before the Review, and [[being-rzznpddn|Razzina Padduni]] wants witnesses on the terraces when the marines come.
+- **The plots.** The Admiral's Council must decide whether its marines clear the plowed plots on the south slope of Khamisar, which the house leases, before the Review, and [[being-rzznpddn|Razzina Padduni]] wants witnesses on the terraces when the marines come.
 - **The Review table.** [[being-dlzrtndn|Delzuru Tanaduni]] wants a guest at his Review table who can sit beside the captain of the Tamzir if he comes, and he asks a party with friends in the Veterans' Quarter.
 - **The battle-mage.** The Compact offers a party good money to see that Delzuru's Thordimalon mage misses the sailing.
 

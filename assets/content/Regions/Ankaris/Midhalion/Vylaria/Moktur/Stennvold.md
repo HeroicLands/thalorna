@@ -22,7 +22,7 @@ A smelt-master, taking on a new hand, explains where the loyalty in the town lie
 
 ## Arriving
 
-A traveler smells Stennvold before he sees it. The road from Zargonara comes over a saddle and down into a narrow valley full of a yellow-grey haze, and the town is inside the haze: a long street of stone houses beside a stream, and above it on the north slope the furnaces, a row of squat stone towers each with a bellows-house at its foot and a waterwheel turning in a leat behind it. The ore trains come down the slope to the roasting-beds above the furnaces, and the slag goes out below them into heaps that run down to the stream. The water below the town is the color of weak tea and nobody drinks it.
+A traveler smells Stennvold before he sees it. The road from Zargonara comes over a saddle and down into a narrow valley full of a yellow-gray haze, and the town is inside the haze: a long street of stone houses beside a stream, and above it on the north slope the furnaces, a row of squat stone towers each with a bellows-house at its foot and a waterwheel turning in a leat behind it. The ore trains come down the slope to the roasting-beds above the furnaces, and the slag goes out below them into heaps that run down to the stream. The water below the town is the color of weak tea and nobody drinks it.
 
 The furnace crews descend from the [[lore-varokhiclt|Varokh]] kindreds who came inside the province when its _therkoi_ bought the forest's War Chiefs, and like the people of [[place-pinnhald|Pinnhald]] they are Varokh still in speech and custom. They speak the border patois at the furnaces and Vylari at the counting-house, and they carve the totems of their kindreds on the lintels of their doors.
 

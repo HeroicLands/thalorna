@@ -171,7 +171,7 @@ Venomous snakes lie in wait for hours or days in one spot. They are active in wa
 
 ## What the Herders Do
 
-Herders and field-workers wear high boots and watch where their hands and feet go. A bitten limb is bound above the wound, washed and kept still, and the victim is taken to a healer; the herb-wives of the hill villages keep remedies in their stores. Children are told to turn a stone over with a stick. A house with a bad name for snakes is kept clear of woodpiles and old thatch. A snake killed in the yard is burnt, and the head buried.
+Herders and field-workers wear high boots and watch where their hands and feet go. A bitten limb is bound above the wound, washed and kept still, and the victim is taken to a healer; the herb-wives of the hill villages keep remedies in their stores. Children are told to turn a stone over with a stick. A house with a bad name for snakes is kept clear of woodpiles and old thatch. A snake killed in the yard is burned, and the head buried.
 
 ## Signs
 

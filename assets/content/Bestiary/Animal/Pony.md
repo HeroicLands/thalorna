@@ -262,7 +262,7 @@ Ponies are intelligent and opinionated and do best with steady handling, and eac
 
 ## What the Farmers Do
 
-A farm keeps a pony or two for the plough, the cart and the pack-saddle, and for the children to ride. They are stocky, long-lived and strong for their size, and they pull on poor feed. A pony resists a handler who strikes it and works willingly for one who is steady. A dealer buys the best colts at the autumn gathering. A pony carries a miller's sacks to the town and returns alone along the same road.
+A farm keeps a pony or two for the plow, the cart and the pack-saddle, and for the children to ride. They are stocky, long-lived and strong for their size, and they pull on poor feed. A pony resists a handler who strikes it and works willingly for one who is steady. A dealer buys the best colts at the autumn gathering. A pony carries a miller's sacks to the town and returns alone along the same road.
 
 ## Signs
 

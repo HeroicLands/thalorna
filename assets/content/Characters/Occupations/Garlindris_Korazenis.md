@@ -397,7 +397,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Garlindris Korazenis is a 44-year-old man who stands 5'9" tall and is of moderate build. He has a square face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath heavy brows, lending him an expressive gaze. A hawkish nose and thin lips complete his features. He has fair skin with a weathered complexion. His black hair is receding at the temples. On formal days he wears a herald's tabard in the grey and black of the _therkos_, and his voice carries the length of the forum without being raised.
+Garlindris Korazenis is a 44-year-old man who stands 5'9" tall and is of moderate build. He has a square face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath heavy brows, lending him an expressive gaze. A hawkish nose and thin lips complete his features. He has fair skin with a weathered complexion. His black hair is receding at the temples. On formal days he wears a herald's tabard in the gray and black of the _therkos_, and his voice carries the length of the forum without being raised.
 
 # Dossier {#dossier}
 

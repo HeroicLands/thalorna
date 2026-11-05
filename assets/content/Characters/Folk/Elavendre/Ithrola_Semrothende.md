@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Íthrola Sémrothende is a 24-year-old woman who stands 5'9" tall with a heavy build. She has pale skin, freckled complexion, dark brown hair, and grey eyes.
+Íthrola Sémrothende is a 24-year-old woman who stands 5'9" tall with a heavy build. She has pale skin, freckled complexion, dark brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

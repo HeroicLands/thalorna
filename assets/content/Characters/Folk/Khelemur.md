@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelemur is a 52-year-old man who stands 5'7" tall with a light build. He has brown skin, smooth complexion, greying black hair, and dark brown eyes. His features include ink-stained fingers and a voice pitched to carry to the back of a hall.
+Khelemur is a 52-year-old man who stands 5'7" tall with a light build. He has brown skin, smooth complexion, graying black hair, and dark brown eyes. His features include ink-stained fingers and a voice pitched to carry to the back of a hall.
 
 # Dossier {#dossier}
 

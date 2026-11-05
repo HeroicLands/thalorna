@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Tharozo Brazis is a 45-year-old man who stands 6'2" tall with a medium build. He has light skin, sun-kissed complexion, dark brown hair, and grey eyes.
+Tharozo Brazis is a 45-year-old man who stands 6'2" tall with a medium build. He has light skin, sun-kissed complexion, dark brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

@@ -66,7 +66,7 @@ sohl:
     - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wtunic, name: Travelling clothes (worsted)}
+    - {model: sohl-sohl-armorgear-wtunic, name: Traveling clothes (worsted)}
     - {model: sohl-sohl-armorgear-wclk}
     - name: The Purple Warrant (the stolen original — crown purple-dyed vellum under the Naukrátissa's unforgeable seals)
       type: miscgear

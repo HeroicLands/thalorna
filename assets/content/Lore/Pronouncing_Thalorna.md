@@ -97,7 +97,7 @@ Accent marks can look fussy, and plenty of readers find them off-putting at firs
 
 ## The marks can be ignored
 
-A reader who ignores every mark still says each word recognisably, and the game works perfectly well. The marks bring a word closer to its speakers' own sound; they are never a test. The same goes for the few harder sounds below. Each comes with a plainer sound that is always fine to use instead.
+A reader who ignores every mark still says each word recognizably, and the game works perfectly well. The marks bring a word closer to its speakers' own sound; they are never a test. The same goes for the few harder sounds below. Each comes with a plainer sound that is always fine to use instead.
 
 ## The official sound, and IPA
 
@@ -105,7 +105,7 @@ Every sound in this guide is given two ways: as an everyday comparison from Engl
 
 ## One guide for every tongue
 
-Every language of Thalorna is read by these same rules. A language uses some of these sounds and leaves others aside, which is part of what gives each tongue its own flavour, but no language reads a letter differently. Once the rules below are familiar, every word in the setting is open to you.
+Every language of Thalorna is read by these same rules. A language uses some of these sounds and leaves others aside, which is part of what gives each tongue its own flavor, but no language reads a letter differently. Once the rules below are familiar, every word in the setting is open to you.
 
 ## Vowels
 

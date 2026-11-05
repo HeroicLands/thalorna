@@ -25,7 +25,7 @@ A traveler hears the country before seeing it. The roar of the falls carries for
 
 ## Geography
 
-The country lies between two of the great lakes and along the river that drains them. The upper lake spills over a cliff of grey rock at the Great Falls, a drop of a hundred and seventy feet that no canoe survives, and the river runs on through a deep gorge to the lower lake. Every canoe going east or west is unloaded at the foot of the gorge and carried around the falls on the longest portage in the north, a hard day's carry up the escarpment with a canoe overhead. The Falls People feed whoever carries it, and their villages stand along it.
+The country lies between two of the great lakes and along the river that drains them. The upper lake spills over a cliff of gray rock at the Great Falls, a drop of a hundred and seventy feet that no canoe survives, and the river runs on through a deep gorge to the lower lake. Every canoe going east or west is unloaded at the foot of the gorge and carried around the falls on the longest portage in the north, a hard day's carry up the escarpment with a canoe overhead. The Falls People feed whoever carries it, and their villages stand along it.
 
 Below the lower lake the Great River leaves for the sea, broad, cold and full of islands. Its first stretch is broken by rapids, white water a mile long where the canoes are walked down on lines or carried, and the Rapids People live along them. Beyond the rapids the river runs on to the [[place-tsiorhenrgn|Dawn Shore]].
 

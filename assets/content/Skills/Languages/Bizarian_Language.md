@@ -195,7 +195,7 @@ data:
     - form: geitin
       class: n
       field: Everyday expression
-      gloss: A taste or flavour.
+      gloss: A taste or flavor.
       concept: taste-noun
     - form: meltir
       class: adj
@@ -530,7 +530,7 @@ data:
     - form: prosarin er keirin
       class: n
       field: Everyday expression
-      gloss: The palm; the inner or front face of the hand. This is a fixed anatomical use of the face word. Telmin retains its separate meaning of satisfaction or fulfilment.
+      gloss: The palm; the inner or front face of the hand. This is a fixed anatomical use of the face word. Telmin retains its separate meaning of satisfaction or fulfillment.
       concept: palm
     - form: merotin
       class: n
@@ -986,7 +986,7 @@ data:
     - form: eritin
       class: n
       field: Everyday expression
-      gloss: Wool; the fleece fibre of sheep and similar animals.
+      gloss: Wool; the fleece fiber of sheep and similar animals.
       concept: wool
     - form: nematin
       class: n
@@ -1202,21 +1202,17 @@ data:
       field: Everyday expression
       gloss: To count; determine the number of things.
       concept: count-verb
-    - {form: erutir, class: adj, field: Everyday expression, gloss: Red in colour., concept: red}
+    - {form: erutir, class: adj, field: Everyday expression, gloss: Red in color., concept: red}
     - form: ksanter
       class: adj
       field: Everyday expression
-      gloss: Yellow in colour.
+      gloss: Yellow in color.
       concept: yellow
-    - form: politir
-      class: adj
-      field: Everyday expression
-      gloss: Grey in colour.
-      concept: grey
+    - {form: politir, class: adj, field: Everyday expression, gloss: Gray in color., concept: grey}
     - form: kastelir
       class: adj
       field: Everyday expression
-      gloss: Brown in colour.
+      gloss: Brown in color.
       concept: brown
     - form: rabhelir
       class: adj
@@ -3577,7 +3573,7 @@ Eastern Frontier Dialect
 
 ## Ordinary inherited expressions
 
-Bizarian keeps the Helonic SVO frame and uses its own inherited citations beside its eastern vocabulary. _Rétasin_ is speak or say aloud, _keirin_ the hand, and _arkhin_ an ordinary origin or beginning. _Arkhidin_ keeps its use in titles of the eastern rite. _Prosarin er keirin_ names the palm, the front or inner face of the hand; _telmin_ names satisfaction or fulfilment. The two meanings have separate expressions.
+Bizarian keeps the Helonic SVO frame and uses its own inherited citations beside its eastern vocabulary. _Rétasin_ is speak or say aloud, _keirin_ the hand, and _arkhin_ an ordinary origin or beginning. _Arkhidin_ keeps its use in titles of the eastern rite. _Prosarin er keirin_ names the palm, the front or inner face of the hand; _telmin_ names satisfaction or fulfillment. The two meanings have separate expressions.
 
 The market's existing words keep their exact scope: _vardesh_ is an owed debt, _vardeshin_ a debt sold on, and _sepuz_ one forgiven before witnesses. _Vezh_ denies that anything exists or remains; the inherited _uf_ negates an ordinary statement. An ordinary negative reply is _noir_. _Zhe toum esh enit_ asks whether you are here, while _zhe_ in a refusal can soften the refusal. _Chazh_ gives emphatic indeed.
 
@@ -3621,7 +3617,7 @@ The declaration
 : A text said back line by line, in lines of five beats. Each line states a term, and the answering line repeats its formula unchanged.
 
 The borderer's line
-: The song of the road-forts, in long lines of fifteen syllables broken hard after the eighth. Where a name or a term will not divide there, the singer moves the break by one syllable. The catalogue asks and answers: _Tirm sotharin krenir vesmor? Kezvunash Drinsfradel esh._
+: The song of the road-forts, in long lines of fifteen syllables broken hard after the eighth. Where a name or a term will not divide there, the singer moves the break by one syllable. The catalog asks and answers: _Tirm sotharin krenir vesmor? Kezvunash Drinsfradel esh._
 
 The telling
 : Prose, said by a clerk and set out by paragraph, carrying its formulas whole: the declarations, the four bindings and the policy of the League are given in the words the apprentices learn.

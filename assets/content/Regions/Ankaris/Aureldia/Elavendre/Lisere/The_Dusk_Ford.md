@@ -26,7 +26,7 @@ A crossing in each direction asks a toll. The return is heavier than the going, 
 
 ## The Far Bank
 
-The causeway ends at a low shore of grey mud and black stakes, and on the mud lie ships. They are Nordmen longships and Varokh river-boats, rotted to their ribs, with their oars shipped and their gear stowed. The crews sit on the benches. They are the **Forfeit-Men**: raiders who crossed to rob the far bank, were asked what they would give, and gave their names. A man who has paid his name cannot be named, cannot name himself, and cannot rest. They sit at the benches and wait for a roll to be called.
+The causeway ends at a low shore of gray mud and black stakes, and on the mud lie ships. They are Nordmen longships and Varokh river-boats, rotted to their ribs, with their oars shipped and their gear stowed. The crews sit on the benches. They are the **Forfeit-Men**: raiders who crossed to rob the far bank, were asked what they would give, and gave their names. A man who has paid his name cannot be named, cannot name himself, and cannot rest. They sit at the benches and wait for a roll to be called.
 
 Behind the ships stands a long low house of stakes and reed, the **tally-house**. It holds the forfeits: a shelf of knotted cords, bone tokens, little coils of hair and braided straw, each tied to something the payers gave. The raiders' plunder lies in heaps along the walls. Nothing in the house is guarded but by the rule that what is taken from it carries its owner's unpaid debt.
 

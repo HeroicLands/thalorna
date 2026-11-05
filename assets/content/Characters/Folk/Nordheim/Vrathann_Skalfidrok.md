@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Vrathann Skalfidrok is a 26-year-old man who stands 6'3" tall with a light build. He has pale skin, smooth complexion, dark brown hair, and grey eyes.
+Vrathann Skalfidrok is a 26-year-old man who stands 6'3" tall with a light build. He has pale skin, smooth complexion, dark brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

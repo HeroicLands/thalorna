@@ -28,7 +28,7 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [smooth]
-    extra_features: [Rasikara's grey ash-mark on her brow, Burn-scars on both palms]
+    extra_features: [Rasikara's gray ash-mark on her brow, Burn-scars on both palms]
   packFolder: ankarisvedyara
 sohl:
   items:
@@ -398,7 +398,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Manduli is a big, deep-voiced woman of fifty, 5'8" and heavy, brown-skinned and smooth-faced, with black hair cut short for the fire and brown eyes that do not blink at smoke. She wears the plain linen robe and single cord of an ordained priest of the [[affiliation-triyangasampradeya|Triyanga-sampradeya]], and [[affiliation-rasikara|Rasikara]]'s grey ash-mark on her brow every day. Both her palms carry the burn-scars of the Walk of Coals.
+Manduli is a big, deep-voiced woman of fifty, 5'8" and heavy, brown-skinned and smooth-faced, with black hair cut short for the fire and brown eyes that do not blink at smoke. She wears the plain linen robe and single cord of an ordained priest of the [[affiliation-triyangasampradeya|Triyanga-sampradeya]], and [[affiliation-rasikara|Rasikara]]'s gray ash-mark on her brow every day. Both her palms carry the burn-scars of the Walk of Coals.
 
 # Dossier {#dossier}
 

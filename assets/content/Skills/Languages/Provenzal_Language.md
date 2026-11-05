@@ -3571,7 +3571,7 @@ data:
     - form: iltele
       class: adj
       field: Qualities
-      gloss: light in colour; pale
+      gloss: light in color; pale
       concept: [light-colour, pale]
       source: {kind: coined}
     - form: silkre
@@ -6004,7 +6004,7 @@ data:
 
     - {form: galona, class: n f, field: Time and the year, gloss: "hour", source: {kind: coined}}
 
-    - {form: grilena, class: adj, field: Qualities, gloss: "grey", source: {kind: coined}}
+    - {form: grilena, class: adj, field: Qualities, gloss: "gray", source: {kind: coined}}
 
     - form: ravele
       class: n m
@@ -6535,7 +6535,7 @@ data:
     - form: jormel
       class: n m
       field: The market and the counting-house
-      gloss: "plough"
+      gloss: "plow"
       source: {kind: coined}
 
     - form: tuvate
@@ -7619,7 +7619,7 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 **Vowels:** Provenzal employs five primary vowels with systematic distinction between open and close variants. Nasal vowels are phonemic, particularly in words borrowed from or influenced by Élavendri speech. Diphthongs are common (ai, ei, oi, au, eu, ou) and serve both phonetic and expressive purposes.
 
-**Prosody:** The language favors a rising intonation at phrase boundaries, creating a naturally questioning, inviting quality. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provenzian favours short words, so it often lands at the front (FA-ris, AR-vel). Long vowels are expressed through vowel doubling or diphthongization, making the language highly flexible for verse composition.
+**Prosody:** The language favors a rising intonation at phrase boundaries, creating a naturally questioning, inviting quality. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provenzian favors short words, so it often lands at the front (FA-ris, AR-vel). Long vowels are expressed through vowel doubling or diphthongization, making the language highly flexible for verse composition.
 
 **Distinctive Features:** Provenzal employs consonant lenition and assimilation freely—a trademark of the language's fluid character. The palatal fricative /j/ marks the boundary between formal and familiar speech (similar to Vylari's formal registers but less rigid). Regional variation is accepted and even celebrated; each city is known for its distinctive pronunciation patterns.
 
@@ -7635,7 +7635,7 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 _Jo okete korvatis_ means “I see the sun”; _jo tavete dokela_, “I hear a voice”; and _jo taurate ulmera_, “I keep water”. These concrete spoken utterances put the speaker first, then the action and its object. The copula in ordinary speech is _ez_: _jo ez revote_ means “I am free”. The poetic _en_ keeps its place in the songs below.
 
-_Jo neltate neltis_ means “I smell a scent”; _jo tirmate tirmis_, “I taste a flavour”; _jo tolvate dechaze_, “I touch a hand”; and _jo zarvete zarvandon_, “I feel a bodily sensation”. _Jo silvate korvatis_ directs my gaze toward the sun; _jo silvarete korvatis_ watches it attentively. _De lizela ez talv daje neltis_ describes this flower as fragrant, with a pleasant scent. With _korete_ in place of _daje_, the scent is unpleasant. _De lizela demate daje okandon_ means “This flower seems good”, giving a good appearance rather than guaranteeing its quality.
+_Jo neltate neltis_ means “I smell a scent”; _jo tirmate tirmis_, “I taste a flavor”; _jo tolvate dechaze_, “I touch a hand”; and _jo zarvete zarvandon_, “I feel a bodily sensation”. _Jo silvate korvatis_ directs my gaze toward the sun; _jo silvarete korvatis_ watches it attentively. _De lizela ez talv daje neltis_ describes this flower as fragrant, with a pleasant scent. With _korete_ in place of _daje_, the scent is unpleasant. _De lizela demate daje okandon_ means “This flower seems good”, giving a good appearance rather than guaranteeing its quality.
 
 In _jo taurate kremila_, “I feel anger”, the speaker keeps anger within; _jo taurate jaleza_ similarly expresses joy. These are particular ordinary feeling expressions. _Zarvete_ gives bodily sensation, while _taurate_ in these utterances names the feeling one harbors. _Vedamolis_ names felt guilt over one's own wrongdoing; the old _damolis_ keeps its place in the language of judgment.
 

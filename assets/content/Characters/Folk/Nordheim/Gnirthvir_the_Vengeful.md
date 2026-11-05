@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Gnirthvir the Vengeful is a 38-year-old man who stands 6'0" tall with a heavy build. He has light skin, weathered complexion, red hair, and grey eyes.
+Gnirthvir the Vengeful is a 38-year-old man who stands 6'0" tall with a heavy build. He has light skin, weathered complexion, red hair, and gray eyes.
 
 # Dossier {#dossier}
 

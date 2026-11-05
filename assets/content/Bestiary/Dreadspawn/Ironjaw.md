@@ -94,7 +94,7 @@ sohl:
             block: {disabled: true, modifier: 0, successLevelMod: 0}
             counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
           traits: {noBlock: true}
-    - name: Armour Charge
+    - name: Armor Charge
       type: skill
       system:
         shortcode: ram
@@ -105,7 +105,7 @@ sohl:
         strikeMode:
           type: melee
           shortcode: ram
-          name: Armour Charge
+          name: Armor Charge
           minParts: 1
           assocSkillCode: null
           attack: {disabled: false, spread: 4, modifier: 0}

@@ -400,7 +400,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sunarsha is a heavy, florid man of 5'10", tawny-skinned and ruddy, with grey hair worn long and tied back and brown eyes that crease when he smiles, which is often. He dresses in a silk tunic and a wool mantle at the palace and in the same clothes on the plain, because he says a man who changes his coat between two courts is telling both of them something. He rides a big valley horse and carries a lance and a rhinoceros-hide shield on a muster day, and on every other day a signet ring and a purse of Chendrapuri silver.
+Sunarsha is a heavy, florid man of 5'10", tawny-skinned and ruddy, with gray hair worn long and tied back and brown eyes that crease when he smiles, which is often. He dresses in a silk tunic and a wool mantle at the palace and in the same clothes on the plain, because he says a man who changes his coat between two courts is telling both of them something. He rides a big valley horse and carries a lance and a rhinoceros-hide shield on a muster day, and on every other day a signet ring and a purse of Chendrapuri silver.
 
 # Dossier {#dossier}
 

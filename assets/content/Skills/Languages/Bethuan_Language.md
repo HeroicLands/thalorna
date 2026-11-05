@@ -140,7 +140,7 @@ data:
     - form: plios er edhin
       class: adj
       field: Everyday expression
-      gloss: Sated; full after eating or drinking. The island word plios gives the bodily fullness, rather than fulfilment of an unrelated desire.
+      gloss: Sated; full after eating or drinking. The island word plios gives the bodily fullness, rather than fulfillment of an unrelated desire.
       concept: sated
     - form: kesenethir
       class: n
@@ -186,12 +186,12 @@ data:
     - form: leokhelir
       class: adj
       field: Everyday expression
-      gloss: White in colour.
+      gloss: White in color.
       concept: white
     - form: kesanther
       class: adj
       field: Everyday expression
-      gloss: Yellow in colour.
+      gloss: Yellow in color.
       concept: yellow
     - form: féranin heom prou thu
       class: v

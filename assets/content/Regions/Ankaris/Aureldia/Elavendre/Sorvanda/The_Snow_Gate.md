@@ -18,7 +18,7 @@ Nelgan is the eastern pass of the Áelendan country, a notch in the high ridge a
 
 ## The Cairn
 
-Near the top of the pass, on the west side, stands a cairn of grey stones over the ones who sat down to rest in the snow during [[lore-nelgancross|the Crossing]] and did not stand again. The Áelendan say they sit there still.
+Near the top of the pass, on the west side, stands a cairn of gray stones over the ones who sat down to rest in the snow during [[lore-nelgancross|the Crossing]] and did not stand again. The Áelendan say they sit there still.
 
 ## The Watch-Post
 

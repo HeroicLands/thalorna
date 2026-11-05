@@ -20,7 +20,7 @@ The builder-priests of [[affiliation-piqalkulqat|P'iqal Kul'qat]] raised the tem
 
 - **The barrier.** At the back of the pillared sanctuary a stone slab the height of two men hangs in a slot, held by a counterweight and a locking pin in a gallery inside the wall. Lowered and pinned, it closes the stair to the sealed chamber. A service stair inside the thickness of the wall leads down to the gallery.
 - **The shaft.** In the sanctuary floor a square shaft drops into the dark under a pivoting stone lid. Offerings went down it. The lid turns on a pin that a person in the gallery can draw, and a second gate in the pit beneath can be dropped to close the pit off from the chamber.
-- **The paving.** The processional way that runs from the foot of the stair around the platform and down to a landing on the river is paved in fitted stone, now under a hand's depth of fern and leaf-mould. The builders paved it to the exact line the specification gave, and no wider.
+- **The paving.** The processional way that runs from the foot of the stair around the platform and down to a landing on the river is paved in fitted stone, now under a hand's depth of fern and leaf-mold. The builders paved it to the exact line the specification gave, and no wider.
 
 At the foot of the platform, on the line of the processional way, a culvert mouth the height of a crouching person opens in the stone and breathes cold air. One pillar near the back of the sanctuary carries a builder's glyph, cut deep, that marks it as the pillar carrying the roof; the builders cut the same glyph on every temple they raise.
 

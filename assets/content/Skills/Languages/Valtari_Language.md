@@ -377,7 +377,7 @@ data:
     - form: getu
       class: n
       field: Everyday speech
-      gloss: A taste or flavour.
+      gloss: A taste or flavor.
       source: {kind: borrowed, language: skill-helonclng, form: geithin}
       concept: taste-noun
     - form: afaru
@@ -1787,7 +1787,7 @@ data:
     - form: sukoiru
       class: n
       field: Goods, money and the bargain
-      gloss: A rope; a thick line of twisted fibres.
+      gloss: A rope; a thick line of twisted fibers.
       source: {kind: borrowed, language: skill-helonclng, form: skoirin}
       concept: rope
     - form: belonu
@@ -1901,7 +1901,7 @@ data:
     - form: eritu
       class: n
       field: Goods, money and the bargain
-      gloss: Wool; the fleece fibre of sheep and similar animals.
+      gloss: Wool; the fleece fiber of sheep and similar animals.
       source: {kind: borrowed, language: skill-helonclng, form: erithin}
       concept: wool
     - form: nematu
@@ -2285,55 +2285,55 @@ data:
     - form: melanu
       class: adj
       field: Describing
-      gloss: Black in colour.
+      gloss: Black in color.
       source: {kind: borrowed, language: skill-helonclng, form: melanir}
       concept: black
     - form: leukelu
       class: adj
       field: Describing
-      gloss: White in colour.
+      gloss: White in color.
       source: {kind: borrowed, language: skill-helonclng, form: leukhelir}
       concept: white
     - form: erutu
       class: adj
       field: Describing
-      gloss: Red in colour.
+      gloss: Red in color.
       source: {kind: borrowed, language: skill-helonclng, form: eruthir}
       concept: red
     - form: kulorir
       class: adj
       field: Describing
-      gloss: Green in colour.
+      gloss: Green in color.
       source: {kind: borrowed, language: skill-helonclng, form: klorir}
       concept: green
     - form: kusanuter
       class: adj
       field: Describing
-      gloss: Yellow in colour.
+      gloss: Yellow in color.
       source: {kind: borrowed, language: skill-helonclng, form: ksanther}
       concept: yellow
     - form: kuanu
       class: adj
       field: Describing
-      gloss: Blue in colour, from pale to dark blue.
+      gloss: Blue in color, from pale to dark blue.
       source: {kind: borrowed, language: skill-helonclng, form: kuanir}
       concept: blue
     - form: politu
       class: adj
       field: Describing
-      gloss: Grey in colour.
+      gloss: Gray in color.
       source: {kind: borrowed, language: skill-helonclng, form: polithir}
       concept: grey
     - form: kasutelu
       class: adj
       field: Describing
-      gloss: Brown in colour.
+      gloss: Brown in color.
       source: {kind: borrowed, language: skill-helonclng, form: kasthelir}
       concept: brown
     - form: okuru
       class: adj
       field: Describing
-      gloss: Pale or light in colour; having little saturation or dark pigment.
+      gloss: Pale or light in color; having little saturation or dark pigment.
       source: {kind: borrowed, language: skill-helonclng, form: okhrir}
       concept: [light-colour, pale]
     - form: diaugu
@@ -5722,7 +5722,7 @@ Valtari takes its name from the port of [[place-valthari|Valthari]], the free ci
 
 ## How Valtari sounds
 
-Valtari is the harbour pidgin of the inner sea. Every sound in it is one any sailor can say.
+Valtari is the harbor pidgin of the inner sea. Every sound in it is one any sailor can say.
 
 **The vowels.** _a_, _e_, _i_, _o_ and _u_, with one vowel to a syllable.
 

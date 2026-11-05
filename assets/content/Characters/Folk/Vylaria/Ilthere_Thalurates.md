@@ -36,7 +36,7 @@ data:
 
 # Appearance {#appearance}
 
-Ilthere Thalurates is a 31-year-old woman who stands 5'7" tall and is of medium build. She has fair skin with a high colour, black hair dressed in the fashion of the court, and green eyes that stay on whoever she is bargaining with. Her clothes are new, costly and correct, and her one ornament is a ring of bright new gold cut with her house's cypher, a seal-ring on an open hand. She is pleasant, quick and never in a hurry.
+Ilthere Thalurates is a 31-year-old woman who stands 5'7" tall and is of medium build. She has fair skin with a high color, black hair dressed in the fashion of the court, and green eyes that stay on whoever she is bargaining with. Her clothes are new, costly and correct, and her one ornament is a ring of bright new gold cut with her house's cypher, a seal-ring on an open hand. She is pleasant, quick and never in a hurry.
 
 # Dossier {#dossier}
 

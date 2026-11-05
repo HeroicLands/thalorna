@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-P'enqal Q'aptel is a 58-year-old man who stands 5'3" tall with a medium build. He has tawny skin, ruddy complexion, grey hair, and dark brown eyes.
+P'enqal Q'aptel is a 58-year-old man who stands 5'3" tall with a medium build. He has tawny skin, ruddy complexion, gray hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

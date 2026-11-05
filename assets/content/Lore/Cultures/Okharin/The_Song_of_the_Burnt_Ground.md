@@ -3,7 +3,7 @@ shortcode: ashbornsong
 name: {full: The Song of the Burnt Ground, okha: [zhebolu zhimbalin khutheling]}
 type: lore
 subType: literature
-description: "The Ashborn war-hymn of Vuthraka, called by a leader and answered by the line: the red fire invoked, the ash laid on the arms, and the stand of Otham's company on burnt ground among the Táluméng herds, with the edge he would not cross and the names of the seven who did not come home."
+description: "The Ashborn war-hymn of Vuthraka, called by a leader and answered by the line: the red fire invoked, the ash laid on the arms, and the stand of Otham's company on burned ground among the Táluméng herds, with the edge he would not cross and the names of the seven who did not come home."
 tags: [draft, okharis]
 data:
   packFolder: settinglore

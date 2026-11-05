@@ -408,7 +408,7 @@ Her largest custom is the court. When the Arbitrators of the [[affiliation-grand
 
 ## Background
 
-**The shop.** Bashimuya learned the craft at her mother's pots and took over the shop when her mother died. She makes her candles the way her mother made them, with the same moulds and the same wicks.
+**The shop.** Bashimuya learned the craft at her mother's pots and took over the shop when her mother died. She makes her candles the way her mother made them, with the same molds and the same wicks.
 
 **The court.** She won the Khurutun's custom in her first year on her own, by bringing a basket of candles to the porch on an evening when a hearing ran past dark, and she has kept it ever since.
 

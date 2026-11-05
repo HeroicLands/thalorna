@@ -501,12 +501,12 @@ data:
     - form: mezhel
       class: v
       field: Everyday speech
-      gloss: to taste; to perceive a flavour in the mouth
+      gloss: to taste; to perceive a flavor in the mouth
       concept: taste-verb
     - form: mezhum
       class: n
       field: Everyday speech
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       concept: taste-noun
     - form: tukhel
       class: v
@@ -2258,22 +2258,22 @@ data:
       gloss: black
       concept: black
       built: [kunesh]
-    - {form: uzhesh, class: adj, field: Everyday speech, gloss: white in colour, concept: white}
-    - {form: roqem, class: adj, field: Everyday speech, gloss: red in colour, concept: red}
-    - {form: zhelush, class: adj, field: Everyday speech, gloss: green in colour, concept: green}
-    - {form: zogheq, class: adj, field: Everyday speech, gloss: yellow in colour, concept: yellow}
-    - {form: osheq, class: adj, field: Everyday speech, gloss: blue in colour, concept: blue}
-    - {form: roqeshul, class: adj, field: Everyday speech, gloss: grey in colour, concept: grey}
-    - {form: tumozeq, class: adj, field: Everyday speech, gloss: brown in colour, concept: brown}
+    - {form: uzhesh, class: adj, field: Everyday speech, gloss: white in color, concept: white}
+    - {form: roqem, class: adj, field: Everyday speech, gloss: red in color, concept: red}
+    - {form: zhelush, class: adj, field: Everyday speech, gloss: green in color, concept: green}
+    - {form: zogheq, class: adj, field: Everyday speech, gloss: yellow in color, concept: yellow}
+    - {form: osheq, class: adj, field: Everyday speech, gloss: blue in color, concept: blue}
+    - {form: roqeshul, class: adj, field: Everyday speech, gloss: gray in color, concept: grey}
+    - {form: tumozeq, class: adj, field: Everyday speech, gloss: brown in color, concept: brown}
     - form: helbuk
       class: adj
       field: Everyday speech
-      gloss: light in colour; toward white rather than dark
+      gloss: light in color; toward white rather than dark
       concept: light-colour
     - form: nilroq
       class: adj
       field: Everyday speech
-      gloss: pale; weak or washed-out in colour
+      gloss: pale; weak or washed-out in color
       concept: pale
     - form: qeshel
       class: adj
@@ -2318,7 +2318,7 @@ data:
     - form: zhem
       class: v
       field: Everyday speech
-      gloss: "to go; to move from one place to another; to walk when travelling on foot. Eq zhem ter olgez: I walk toward the house."
+      gloss: "to go; to move from one place to another; to walk when traveling on foot. Eq zhem ter olgez: I walk toward the house."
       concept: [go, walk]
     - form: zhoq
       class: v

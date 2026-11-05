@@ -65,7 +65,7 @@ data:
 
 They crossed a river in spate by roping the sheep, then the children to the men, and Dhargan went back into the water for one more child and brought her out. The river took his wife. The plain beyond was flat and long, and when the last ewes were eaten the hungry men looked at the seed. Dhargan sat down on the sacks and would not rise. He told them to eat the sheep and the dogs and, if they must, himself, and not the seed, and nobody drew a knife after that.
 
-The mountains stood up out of what had passed for cloud all summer. The pass was high and the snow came cold. Some of the band sat down to rest on it and did not stand again. Dhargan's daughter [Nela]{.name data-type="being/npc"} would not let the lamb go from her coat, and at dawn the people stood on the pass and saw a grey wood below them. The pass is [[place-nelgan|Nelgan]].
+The mountains stood up out of what had passed for cloud all summer. The pass was high and the snow came cold. Some of the band sat down to rest on it and did not stand again. Dhargan's daughter [Nela]{.name data-type="being/npc"} would not let the lamb go from her coat, and at dawn the people stood on the pass and saw a gray wood below them. The pass is [[place-nelgan|Nelgan]].
 
 ## The Silver Wood
 

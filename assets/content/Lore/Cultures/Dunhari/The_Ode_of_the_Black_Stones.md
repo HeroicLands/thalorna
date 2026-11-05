@@ -3,7 +3,7 @@ shortcode: blackstonesode
 name: {full: The Ode of the Black Stones, dunh: [sharvend re qodar qazram]}
 type: lore
 subType: literature
-description: "The ode of the poet Siaran Bergoz on one end-sound throughout: the empty camp of the Beluri and its three blackened hearth-stones, the night crossing of the Pale Floor on a grey she-camel, and the boast of the Bergoz, whose grandfather killed his last camel for a guest of the tribe at feud with his own."
+description: "The ode of the poet Siaran Bergoz on one end-sound throughout: the empty camp of the Beluri and its three blackened hearth-stones, the night crossing of the Pale Floor on a gray she-camel, and the boast of the Bergoz, whose grandfather killed his last camel for a guest of the tribe at feud with his own."
 tags: [draft, dunhara]
 data:
   culture: dunhariclt
@@ -12,7 +12,7 @@ data:
   subjects: [lore-dunhariclt, place-ghavulavad, place-twrlghtnmrkd, affiliation-dunhartrbs]
   lang: dunh
 
-# terran_analog: "The pre-Islamic qasida, above all the Mu'allaqat of Imru' al-Qays and Labid: the halt at the abandoned campsite, the journey with the praise of the camel, and the closing boast, all on one rhyme; the host Hatim al-Ta'i, who killed his only horse for guests. Departs: the rhyme is a single end-consonant, the journey crosses a salt flat on a day a toll-reader names, and the boast's centre is a guest who belonged to the enemy."
+# terran_analog: "The pre-Islamic qasida, above all the Mu'allaqat of Imru' al-Qays and Labid: the halt at the abandoned campsite, the journey with the praise of the camel, and the closing boast, all on one rhyme; the host Hatim al-Ta'i, who killed his only horse for guests. Departs: the rhyme is a single end-consonant, the journey crosses a salt flat on a day a toll-reader names, and the boast's center is a guest who belonged to the enemy."
 ---
 
 **The Ode of the Black Stones**, _sharvend re qodar qazram_, is an ode of [Siaran Bergoz]{.name data-type="being/npc"}, a poet of the [Bergoz]{.name data-type="affiliation/lineage"}, and it is the ode the tribes call for first when the common council sits at [[place-ghavulavad|Ghavulavad]] and the poets contend in the market under the palms. A _sharvend_ is one long poem held on a single end-sound from its first line to its last, and it moves through stages every listener knows: the halt at an abandoned camp, the journey, and the boast. The rendering keeps the end-sound as a closing _d_ on every line, which is as near as the rendering comes to the one sound the poem never lets go of.

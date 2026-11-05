@@ -59,7 +59,7 @@ The common hand has 24 **core** glyphs, which almost everyone knows.
 
 `MAN` is the unmarked person, and `MAN MAN` is people.
 
-**The four quarters.** `EAST` and `WEST` are time: the sun's path across a day, and a life from birth to death. `NORTH` is the zenith, the world above, where the gods and the honoured dead dwell and where the noon sun stands at its height. `SOUTH` is the nadir, the world below: _Ch'al Ts'umaq_ beneath every cenote, the night sun's hidden journey and the soul's trials. Read in the order `EAST`, `NORTH`, `WEST`, `SOUTH`, they are the whole round. The sun rises, stands at noon, sets and travels beneath the world, as a soul is born, lives at its height, dies, passes the trials below and is born again. Where context calls for it, `NORTH` and `SOUTH` are also the plain directions.
+**The four quarters.** `EAST` and `WEST` are time: the sun's path across a day, and a life from birth to death. `NORTH` is the zenith, the world above, where the gods and the honored dead dwell and where the noon sun stands at its height. `SOUTH` is the nadir, the world below: _Ch'al Ts'umaq_ beneath every cenote, the night sun's hidden journey and the soul's trials. Read in the order `EAST`, `NORTH`, `WEST`, `SOUTH`, they are the whole round. The sun rises, stands at noon, sets and travels beneath the world, as a soul is born, lives at its height, dies, passes the trials below and is born again. Where context calls for it, `NORTH` and `SOUTH` are also the plain directions.
 
 ## The ceremonial hand
 

@@ -3,7 +3,7 @@ shortcode: valdum
 name: {full: The Lost City of Hulabat, khaz: [hulabat]}
 type: lore
 subType: history
-description: "Hulabat, the legendary Khazari city of the far north whose people delved too deep and loosed something that destroyed it, and the burnt fragment of a poem that hints where it lies."
+description: "Hulabat, the legendary Khazari city of the far north whose people delved too deep and loosed something that destroyed it, and the burned fragment of a poem that hints where it lies."
 tags: [lore, legend]
 data: {packFolder: settinglore}
 ---

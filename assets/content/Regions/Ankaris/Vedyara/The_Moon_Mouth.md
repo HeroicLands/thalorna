@@ -45,7 +45,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] keeps one licensed factor here, and 
 
 The town keeps the coast's habit of ignoring station, and keeps it more thoroughly than any other port. A crew signs on at the quay and nobody asks to see a wrist. The stevedores are drawn from whoever is standing on the beach at dawn. Men who could not draw water from a well fifty miles inland handle the cargo that feeds the temples that would refuse them, and the temples of Chendramukhva—there are four, all small—have long since stopped saying anything about it.
 
-What the town does not have is any way for a man to stay. A deck is a place to be, not a place to belong. A runaway who reaches Chendramukhva is safe until the season ends and is safe afterwards only if he sails.
+What the town does not have is any way for a man to stay. A deck is a place to be, not a place to belong. A runaway who reaches Chendramukhva is safe until the season ends and is safe afterward only if he sails.
 
 ## See Also
 

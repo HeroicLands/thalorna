@@ -385,7 +385,7 @@ The last of the guards is down in the passage, and the chamber beyond it is warm
 
 The Grukar-ahk is the spawner of the Grukar, the caste on which every tribe's existence depends. It is self-fertilizing, and every Grukar of its tribe hatched from its eggs. It chooses what each clutch will become, [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]] or [[being-grkrhshk|Grukar-Hushk]], by what it feeds into the eggs as it lays them, and the clutch hatches on the schedule of whatever it was told to become: six weeks for Uk, twelve for Hushk, eighteen for Sha and for Ahk alike. A tribe has one fertile Ahk and three to six infertile ones, its guards and its reserves. The Ahk has no ambition of its own. The welfare and increase of its tribe is its whole purpose, and every cruelty and calculation in a Grukar tribe serves it.
 
-The name Grukar-ahk is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see, the Ahk among them. Nobody knows whether the Grukar recognise the distinction themselves.
+The name Grukar-ahk is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see, the Ahk among them. Nobody knows whether the Grukar recognize the distinction themselves.
 
 ## Presentation
 

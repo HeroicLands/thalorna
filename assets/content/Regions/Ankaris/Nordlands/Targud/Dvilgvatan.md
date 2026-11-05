@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-North of [[place-driskborg|Draskborg]], up the river and past the last of the burned farms, the ground drops to a lake that does not thaw. The name is sleep taken standing, on watch, _dvilg-_, with the generic for a lake, and it describes what the lake keeps. [[affiliation-nalok|Nalok]] call it the Void-Water. The ice at its shore is the grey of any northern lake. Toward the middle it darkens to a black that takes the light and gives none back, and at the center, on a still night, the black has a depth in it that the eye cannot find the bottom of.
+North of [[place-driskborg|Draskborg]], up the river and past the last of the burned farms, the ground drops to a lake that does not thaw. The name is sleep taken standing, on watch, _dvilg-_, with the generic for a lake, and it describes what the lake keeps. [[affiliation-nalok|Nalok]] call it the Void-Water. The ice at its shore is the gray of any northern lake. Toward the middle it darkens to a black that takes the light and gives none back, and at the center, on a still night, the black has a depth in it that the eye cannot find the bottom of.
 
 Hunters of [[place-targud|Targud]] say the lake looks back. A person who crosses the black ice and glances down sees a face in it. It is the face of someone they have lost, and the face is looking up.
 

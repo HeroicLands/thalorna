@@ -44,7 +44,7 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **Consequences.** The party has heard the knocking and cannot pretend it is a story. If they opened the door they meet the Gate-dead in the open and are walked north. The first hours of the night are the hardest to get through, and what the party does with them decides the rest.
 
-**If bypassed.** A party that arrives by day, stays in the settlement, or passes through the gate before dusk still hears the knocking from the lanes at night. The sound carries through the whole town. The warden finds them in the first grey hour and asks them to see the Shekhul.
+**If bypassed.** A party that arrives by day, stays in the settlement, or passes through the gate before dusk still hears the knocking from the lanes at night. The sound carries through the whole town. The warden finds them in the first gray hour and asks them to see the Shekhul.
 
 ## Scene Two: The Song and the Priest
 

@@ -32,7 +32,7 @@ The prior sells the cutting, and the stands are dying. [[being-mlknssrvths|Melka
 
 ## Where a Party Lodges
 
-The carters' bunkhouse stands beside the timber yard, a long hut of unpeeled logs with a fire at each end, and takes any traveller who will sleep among teamsters and share the pot. There is no inn. A party with silver asks the forester, who keeps a spare loft over the tool store and charges by the weight of the coin.
+The carters' bunkhouse stands beside the timber yard, a long hut of unpeeled logs with a fire at each end, and takes any traveler who will sleep among teamsters and share the pot. There is no inn. A party with silver asks the forester, who keeps a spare loft over the tool store and charges by the weight of the coin.
 
 ## Hooks {#hooks}
 

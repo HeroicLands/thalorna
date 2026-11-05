@@ -266,7 +266,7 @@ You almost missed it. At the edge of the firelight, half turned as if already le
 
 The Grukar-Sha is the thinker of the Grukar, roughly one Grukar in ten: four and a half to five feet tall, thin, physically the weakest of its kind, and the only Grukar that can think forward. [[being-grukaruk|An Uk]] hatches with everything it will ever know and a [[being-grkrhshk|Hushk]] learns only what a fight teaches; a Sha sees what a course will cost several moves on, what another creature wants and how that wanting can be turned. To other Grukar this looks very nearly like sorcery. The Sha are the tribe's scouts, spies, counselors and poisoners, its only voice to outsiders, and the only Grukar that can see that a tribe is finished. They survive by being too useful to kill, until the day the spawn-chamber decides they are too useful to leave alive.
 
-The name Grukar-Sha is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see. Nobody knows whether the Grukar recognise the distinction themselves.
+The name Grukar-Sha is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see. Nobody knows whether the Grukar recognize the distinction themselves.
 
 ## Presentation
 

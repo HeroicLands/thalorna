@@ -262,7 +262,7 @@ Water buffalo live in herds built around related cows and calves, with bulls alo
 
 ## What the Farmers Do
 
-The farmers of the river plains plough the rice-fields with water buffalo and use them to draw carts, pump water and thresh. A buffalo gives milk and butter, and the dung is fuel. A child leads one by a nose-ring. Bulls in rut are dangerous, and herd-boys keep clear. Tigers take calves from the herds at the jungle edge, and a herd defends its young by forming a ring. A feral herd is hunted with spears and dogs, and the horns are carved. A buffalo is washed daily in the river.
+The farmers of the river plains plow the rice-fields with water buffalo and use them to draw carts, pump water and thresh. A buffalo gives milk and butter, and the dung is fuel. A child leads one by a nose-ring. Bulls in rut are dangerous, and herd-boys keep clear. Tigers take calves from the herds at the jungle edge, and a herd defends its young by forming a ring. A feral herd is hunted with spears and dogs, and the horns are carved. A buffalo is washed daily in the river.
 
 ## Signs
 

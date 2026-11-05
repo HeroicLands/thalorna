@@ -21,7 +21,7 @@ data:
     - lore-tantsouclt
   lang: tant
 
-# terran_analog: "The Book of Songs' calendar song of the year's labours and its soldiers' songs of the far frontier; the Han and Tang ballads of the garrison wall; the frontier rolls that listed a soldier by his county and his father. Departs: the soldiers' fear is not death but being written down wrong, and the song's victory is an entry."
+# terran_analog: "The Book of Songs' calendar song of the year's labors and its soldiers' songs of the far frontier; the Han and Tang ballads of the garrison wall; the frontier rolls that listed a soldier by his county and his father. Departs: the soldiers' fear is not death but being written down wrong, and the song's victory is an entry."
 ---
 
 **The Song of the Unnumbered Tower** is the song of the Wonong on the northern marches, where a wall of tamped earth and a line of watchtowers face the [[place-grkrhlmrgn|Grukarholm]] country and the garrison colonies farm behind them. The towers of a stretch of wall are numbered from its western end, and the number is cut over each door with the command's seal. The tower between the third and the fifth carries no number and no seal, because four belongs to no domain and no official building is marked with it, and the register calls it "the tower after the third". The soldiers call it the unnumbered tower, and it is the tower of this song wherever along the marches the song is sung.

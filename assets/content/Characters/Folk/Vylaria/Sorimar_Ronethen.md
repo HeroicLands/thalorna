@@ -84,7 +84,7 @@ The younger masters want the guild run for profit, and their number grows every 
 1. **The judging.** The buyers who undercut Branakis want the Order's knight at Kalderenna to find him in breach of the estate's rules. Sorimar wants a party to bring her a sample of his charcoal and a sample of theirs, carried down from the clamps sealed, so that the guild can judge them before the estate court sits.
 2. **The altar-screen.** A guild master's screen for a temple has cracked before its consecration. Sorimar wants to know whether the timber was bad or the work was, before the temple asks.
 3. **The vote.** The younger masters have called a meeting of the guild to strike Branakis from it, and Sorimar needs a party to bring him down from the forest to answer for himself, which he has refused to do twice.
-4. **The grey stand.** A burner of the guild has brought Sorimar charcoal from a stand whose leaves turned the wrong color, and says it is not like other charcoal. She wants it taken to someone who can say why.
+4. **The gray stand.** A burner of the guild has brought Sorimar charcoal from a stand whose leaves turned the wrong color, and says it is not like other charcoal. She wants it taken to someone who can say why.
 
 :::secret {title="Why she keeps him"}
 Sorimar keeps Branakis in the guild because the guild's judging of charcoal rests on him. His clamps are the standard the burners are measured against, and if he is struck from the guild, there is no master left who can say what good charcoal is, and the cheap charcoal from the dead stands will pass the judging within a year. She has never said this to him, or to the younger masters, because both would take it the wrong way.

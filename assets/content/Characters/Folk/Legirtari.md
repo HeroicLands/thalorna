@@ -3,7 +3,7 @@ shortcode: legirtari
 name: {full: Legirtari, khel: [legi]}
 type: being
 subType: npc
-description: "A high priestess and patron, whose relationship with the artisan she funds is the subject of rumours neither of them troubles to deny"
+description: "A high priestess and patron, whose relationship with the artisan she funds is the subject of rumors neither of them troubles to deny"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Legirtari is a 50-year-old woman who stands 6'0" tall with a heavy build. She ha
 
 # Dossier {#dossier}
 
-Legirtari is a high priestess and patron out of [[place-galezkara|Galezkara]]. Her relationship with the artisan she funds is the subject of rumours that neither of them troubles to deny. Whatever the truth of it, the funding has not stopped, and neither have the rumours.
+Legirtari is a high priestess and patron out of [[place-galezkara|Galezkara]]. Her relationship with the artisan she funds is the subject of rumors that neither of them troubles to deny. Whatever the truth of it, the funding has not stopped, and neither have the rumors.

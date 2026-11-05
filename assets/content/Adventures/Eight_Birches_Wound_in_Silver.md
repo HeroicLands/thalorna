@@ -26,7 +26,7 @@ Pick the entry that suits the hero. Each leads to [[place-rngtrndpths|the Ring o
 - **The thief.** A carter from [[place-lisere|Lísere]] drinks too much in [[place-liranel|Liranel]] and talks about a cargo of raw [[place-sorvanda|Sórvanda]] silver he sold to a man with an Order seal and no questions. The silver went east into the Silver Forests, and the carter wants a cut of what it became.
 - **The mercenary or common soldier.** A [[place-auldalon|Áuldalon]] sergeant's company was hired by a _marendos_ from [[place-beravel|Péravel]], marched into the Silver Forests and not marched out. The sergeant's widow pays a tenth of what the company's pay-chest holds to whoever finds it.
 - **The leader.** A headwoman from [[place-sourimael|Sóurimel]] has lost a daughter, [Alena Alveryn]{.name data-type="being/npc"}, who guided lowland strangers into the wood. The Wardens will not escort a search into sacred ground, and the village will pay in honey, hazel and the standing of those who go.
-- **The lone wanderer.** A Warden of the Silver Forests, [Silken]{.name data-type="being/npc"}, grey and tired, finds a stranger at the wood's edge and says the paths have turned him from one hollow three seasons running. He cannot ask a lowlander in. He can fail to notice one walking past.
+- **The lone wanderer.** A Warden of the Silver Forests, [Silken]{.name data-type="being/npc"}, gray and tired, finds a stranger at the wood's edge and says the paths have turned him from one hollow three seasons running. He cannot ask a lowlander in. He can fail to notice one walking past.
 
 ### Overview
 

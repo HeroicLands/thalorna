@@ -32,7 +32,7 @@ data:
     skin_color: tanned
     complexion: [weathered]
     extra_features:
-      - a thick black-and-grey beard cut square
+      - a thick black-and-gray beard cut square
       - two fingers of the left hand stiff and crooked from an old rope burn
   packFolder: midhalionvylaria
 ---

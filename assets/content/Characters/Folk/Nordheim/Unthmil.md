@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Unthmil is a 21-year-old man who stands 5'11" tall with a medium build. He has fair skin, ruddy complexion, red hair, and grey eyes.
+Unthmil is a 21-year-old man who stands 5'11" tall with a medium build. He has fair skin, ruddy complexion, red hair, and gray eyes.
 
 # Dossier {#dossier}
 

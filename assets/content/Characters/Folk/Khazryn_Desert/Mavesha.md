@@ -53,7 +53,7 @@ The teaching is a heresy to the strict of the [[affiliation-tribestrzd|Atarzád]
 
 ### Personality
 
-She is calm, gentle and fearless, with a grief that she does not hide and does not speak of. She listens more than she preaches and remembers everyone's dead. She has a rough humour that surprises people who expect a saint.
+She is calm, gentle and fearless, with a grief that she does not hide and does not speak of. She listens more than she preaches and remembers everyone's dead. She has a rough humor that surprises people who expect a saint.
 
 ### Motivation
 

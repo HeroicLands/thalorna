@@ -30,7 +30,7 @@ This is a guide for anyone writing a passage in the common hand of [[skill-chlxp
 1. **Prefer the core.** Nearly everyone knows the 24 core glyphs, and many people know a good number of two-glyph compounds. A notice meant for workers, a shaft warning or a market tally keeps to the core, the numbers and the glyphs of the trade it serves.
 2. **Then the conventional compounds.** Scribes know the longer compounds; a scribal text uses them freely.
 3. **Glyphs beyond the core** carry a tier: most readers know the general glyphs, a trade knows its own, and the sacred glyphs belong to the priests.
-4. **The quarters are cosmological.** `EAST` and `WEST` are time: sunrise and sunset, birth and death. `NORTH` is the zenith, the world above, the gods and the honoured dead; `SOUTH` is the nadir, the world below and its trials. `EAST NORTH WEST SOUTH` is the whole round of the sun's day and the soul's existence. They are the plain directions only where context says so.
+4. **The quarters are cosmological.** `EAST` and `WEST` are time: sunrise and sunset, birth and death. `NORTH` is the zenith, the world above, the gods and the honored dead; `SOUTH` is the nadir, the world below and its trials. `EAST NORTH WEST SOUTH` is the whole round of the sun's day and the soul's existence. They are the plain directions only where context says so.
 
 ## Sounds and names
 
@@ -70,32 +70,32 @@ Read: night thirteen; the star-priest (`MAN MOUTH SKY STAR`, one who prays to th
 
 ## The core glyphs
 
-| Code      | Concept                                                                | Named by         | Sound |
-| --------- | ---------------------------------------------------------------------- | ---------------- | ----- |
-| `SUN`     | the sun; light, revelation, authority                                  | _ts'en_          | tse   |
-| `MOON`    | the moon; night, cycles, hidden things                                 | _ish'uqal_       | i     |
-| `SKY`     | the sky, the heavens; divinity                                         | _h'ulal_         | hu    |
-| `STAR`    | a star; fate, guidance, destiny                                        | _ish'ilan_       | i     |
-| `WATER`   | water; flow, cleansing, change                                         | _ne'_            | ne    |
-| `FIRE`    | fire; heat, destruction, purification                                  | _k'ayumel_       | ka    |
-| `EARTH`   | earth, soil; fertility, foundation                                     | _sh'akan_        | sha   |
-| `STONE`   | stone, mountain; permanence, strength                                  | _kulum_          | ku    |
-| `MAN`     | a person, a man; manhood, fatherhood                                   | _ch'ekbal cham_  | che   |
-| `WOMAN`   | a woman; womanhood, motherhood                                         | _ch'ekbal ishal_ | che   |
-| `PLANT`   | vegetation; growth, cultivation                                        | _shik_           | shi   |
-| `BEAST`   | an animal; instinct, wilderness, flesh                                 | _ch'ekum_        | che   |
-| `EAST`    | the east, sunrise; birth, beginning                                    | _ts'en ch'ulun_  | tse   |
-| `WEST`    | the west, sunset; death, ending                                        | _ts'en ishan_    | tse   |
-| `NORTH`   | the north, the zenith; the world above, the gods and the honoured dead | _nukal_          | nu    |
-| `SOUTH`   | the south, the nadir; the world below, the underworld and its trials   | _toshal_         | to    |
-| `HIGH`    | above, greater; age, rank                                              | _ts'ikik_        | tsi   |
-| `LOW`     | below, lesser; youth, humility                                         | _ch'alik_        | cha   |
-| `INSIDE`  | within; hidden, belonging                                              | _ch'ikal_        | chi   |
-| `OUTSIDE` | beyond; foreign, exposed                                               | _ts'ikal_        | tsi   |
-| `HOUSE`   | a house, shelter; family, community                                    | _sh'ulum_        | shu   |
-| `HAND`    | a hand; work, action, possession                                       | _p'ishum_        | pi    |
-| `EYE`     | the eye; sight, knowledge, witness                                     | _k'ayikash_      | ka    |
-| `MOUTH`   | the mouth; speech, naming                                              | _nalak_          | na    |
+| Code      | Concept                                                               | Named by         | Sound |
+| --------- | --------------------------------------------------------------------- | ---------------- | ----- |
+| `SUN`     | the sun; light, revelation, authority                                 | _ts'en_          | tse   |
+| `MOON`    | the moon; night, cycles, hidden things                                | _ish'uqal_       | i     |
+| `SKY`     | the sky, the heavens; divinity                                        | _h'ulal_         | hu    |
+| `STAR`    | a star; fate, guidance, destiny                                       | _ish'ilan_       | i     |
+| `WATER`   | water; flow, cleansing, change                                        | _ne'_            | ne    |
+| `FIRE`    | fire; heat, destruction, purification                                 | _k'ayumel_       | ka    |
+| `EARTH`   | earth, soil; fertility, foundation                                    | _sh'akan_        | sha   |
+| `STONE`   | stone, mountain; permanence, strength                                 | _kulum_          | ku    |
+| `MAN`     | a person, a man; manhood, fatherhood                                  | _ch'ekbal cham_  | che   |
+| `WOMAN`   | a woman; womanhood, motherhood                                        | _ch'ekbal ishal_ | che   |
+| `PLANT`   | vegetation; growth, cultivation                                       | _shik_           | shi   |
+| `BEAST`   | an animal; instinct, wilderness, flesh                                | _ch'ekum_        | che   |
+| `EAST`    | the east, sunrise; birth, beginning                                   | _ts'en ch'ulun_  | tse   |
+| `WEST`    | the west, sunset; death, ending                                       | _ts'en ishan_    | tse   |
+| `NORTH`   | the north, the zenith; the world above, the gods and the honored dead | _nukal_          | nu    |
+| `SOUTH`   | the south, the nadir; the world below, the underworld and its trials  | _toshal_         | to    |
+| `HIGH`    | above, greater; age, rank                                             | _ts'ikik_        | tsi   |
+| `LOW`     | below, lesser; youth, humility                                        | _ch'alik_        | cha   |
+| `INSIDE`  | within; hidden, belonging                                             | _ch'ikal_        | chi   |
+| `OUTSIDE` | beyond; foreign, exposed                                              | _ts'ikal_        | tsi   |
+| `HOUSE`   | a house, shelter; family, community                                   | _sh'ulum_        | shu   |
+| `HAND`    | a hand; work, action, possession                                      | _p'ishum_        | pi    |
+| `EYE`     | the eye; sight, knowledge, witness                                    | _k'ayikash_      | ka    |
+| `MOUTH`   | the mouth; speech, naming                                             | _nalak_          | na    |
 
 ## Glyphs beyond the core
 
@@ -145,7 +145,7 @@ Read: night thirteen; the star-priest (`MAN MOUTH SKY STAR`, one who prays to th
 | `BAT`         | a bat; the night's messenger             | (traditional) | ye    | most readers   |
 | `NET`         | a net; catching, gathering               | (traditional) | bi    | the fishers    |
 | `HUMMINGBIRD` | a hummingbird; the warrior's soul        | (traditional) | lo    | most readers   |
-| `SHIELD`      | a shield; defence                        | (traditional) | hi    | the warriors   |
+| `SHIELD`      | a shield; defense                        | (traditional) | hi    | the warriors   |
 | `DEER`        | a deer; the hunt                         | (traditional) | he    | the hunters    |
 | `MASK`        | a mask; a face put on, a god worn        | (traditional) | be    | priests        |
 | `n0`          | zero; the shell, an empty thing; nothing | _ts'amal_     | tsa   | most readers   |

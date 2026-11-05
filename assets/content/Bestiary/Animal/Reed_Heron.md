@@ -3,7 +3,7 @@ shortcode: rdhrn
 name: {full: Reed Heron, kali: [Lirunei]}
 type: being
 subType: creature
-description: "A tall, pale grey wading bird with a rust stripe down the neck that stands motionless in the reed-beds of the Bowl Lake for an hour and strikes with the whole neck."
+description: "A tall, pale gray wading bird with a rust stripe down the neck that stands motionless in the reed-beds of the Bowl Lake for an hour and strikes with the whole neck."
 tags: [animal, creature, image-needed]
 data:
   packFolder: animals
@@ -233,15 +233,15 @@ sohl:
 
 # Appearance {#appearance}
 
-The reeds at the lake's edge are still, and one of the stems is a bird. It stands in the shallows on long legs, pale grey with a rust stripe down the neck, and it has not moved for as long as you have watched. Then the neck uncoils like a whip, the long bill goes into the water, and the bird straightens with a small silver fish crosswise in its beak.
+The reeds at the lake's edge are still, and one of the stems is a bird. It stands in the shallows on long legs, pale gray with a rust stripe down the neck, and it has not moved for as long as you have watched. Then the neck uncoils like a whip, the long bill goes into the water, and the bird straightens with a small silver fish crosswise in its beak.
 
 # Dossier {#dossier}
 
-The Reed Heron, _lirunei_ in [[skill-kalihrlng|Kalihari]], "the one marked by the reed", is a tall wading bird, pale grey with a rust stripe down the neck. It stands motionless in the reeds for an hour and strikes with the whole neck. It lives in the reed-beds that form the margins of [[place-klhrlake|the Bowl Lake]], and it nests in colonies there. The colony's chorus at first light carries across the water. It is no danger to anyone who does not put a hand into a nest.
+The Reed Heron, _lirunei_ in [[skill-kalihrlng|Kalihari]], "the one marked by the reed", is a tall wading bird, pale gray with a rust stripe down the neck. It stands motionless in the reeds for an hour and strikes with the whole neck. It lives in the reed-beds that form the margins of [[place-klhrlake|the Bowl Lake]], and it nests in colonies there. The colony's chorus at first light carries across the water. It is no danger to anyone who does not put a hand into a nest.
 
 ## Presentation
 
-A tall, long-legged bird with a pale grey back, a rust stripe running down the front of a long, supple neck, and a straight bill like a dagger. In the reeds it stands with the neck folded and the bill pointed down, and is hard to tell from a stem. In flight the neck is drawn back and the legs trail.
+A tall, long-legged bird with a pale gray back, a rust stripe running down the front of a long, supple neck, and a straight bill like a dagger. In the reeds it stands with the neck folded and the bill pointed down, and is hard to tell from a stem. In flight the neck is drawn back and the legs trail.
 
 ## In the Land
 
@@ -257,9 +257,9 @@ The lake lineages tend the reed-beds and keep the herons' nesting count as they 
 
 ## Signs
 
-- A pale grey shape standing among the reed stems, with a rust line down its neck.
+- A pale gray shape standing among the reed stems, with a rust line down its neck.
 - A chorus of harsh calls across the water before dawn.
-- Long grey feathers caught in the reeds below a nesting colony.
+- Long gray feathers caught in the reeds below a nesting colony.
 - Small fish and frogs left stranded on a reed mat where a strike has missed.
 
 ## Combat Strategy

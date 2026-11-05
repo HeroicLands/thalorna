@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Pirkelar Revothandis is a 71-year-old woman who stands 5'8" tall and is of medium build. She has pale skin coloured by the summers she has sat out in the street, grey hair that was black, and sharp green eyes. She wears a wool shawl with sawdust in its folds and sits on her bench as though it were a judge's chair. She calls everyone in the village by name and every stranger "carver" until told otherwise.
+Pirkelar Revothandis is a 71-year-old woman who stands 5'8" tall and is of medium build. She has pale skin colored by the summers she has sat out in the street, gray hair that was black, and sharp green eyes. She wears a wool shawl with sawdust in its folds and sits on her bench as though it were a judge's chair. She calls everyone in the village by name and every stranger "carver" until told otherwise.
 
 # Dossier {#dossier}
 
@@ -82,7 +82,7 @@ She is old, proud and stubborn, and she will defend the village's ways against a
 
 1. **The merchant's commission.** A rich merchant offers Zadros a commission and a place in his household while it is installed. Pirkelar wants a party to go with the shy carver and bring him home again.
 2. **The cheap goods.** Mass-made bowls and boxes from the south are selling in the village market at half the craftsmen's price. Pirkelar suspects that someone in the village is letting the pedlars in, and she wants to know who.
-3. **The stranger's timber.** A traveller with a load of wood from a distant forest will pay a fortune to have it carved. It resists the chisel, the old coopers will not touch it, and Pirkelar wants to know where it came from before she lets Zadros take the work.
+3. **The stranger's timber.** A traveler with a load of wood from a distant forest will pay a fortune to have it carved. It resists the chisel, the old coopers will not touch it, and Pirkelar wants to know where it came from before she lets Zadros take the work.
 4. **The dying stand.** The timber that comes down from the forest above the village comes in with a black stain under the bark. Pirkelar asks a party to go up to the cutting and learn whether the stands that feed Dremenna are dying.
 
 :::secret {title="The Truth of the Withering"}

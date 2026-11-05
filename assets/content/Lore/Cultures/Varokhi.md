@@ -178,7 +178,7 @@ Injury, lasting illness and old age do not cancel the duty of care. Kin feed and
 
 Elderly Varokh who can no longer work or produce effectively often choose to stop eating. [[lore-oakwardens|The Tally of the Oak Wardens]] remembers one elder of the Eichthúl, in a winter of hand-measured stores, as the man [who stopped eating that winter and said so before the hearth first, so that nobody could say afterward he had been made to.]{.verse} That choice does not release kin or clan from offering care. It is no formal requirement for the old to die. In a failed winter, the three elders apportion scarce stores with the kindreds, and dependent people retain their claim even when provision becomes difficult.
 
-## Shelter, Teaching and Defence
+## Shelter, Teaching and Defense
 
 When family support fails, the Other Chief coordinates a receiving household and draws on common stores or pledged contributions. The clan must arrange teaching as well as food and shelter. The Shaman guards the person's rites and standing; the War Chief ensures physical protection. An unsupported child stays within the clan and receives the naming and introduction that other children do.
 

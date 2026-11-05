@@ -43,9 +43,9 @@ The capital can neither lose [[affiliation-provncmktr|Moktur]] nor pay to hold i
 
 ## The Opening {#opening}
 
-Tirellan's forum at the state's offerings, on the last days of the month. The border lords stand apart and watch one another. In the Eagle Shrine someone has left a cup of wine and a strip of red cloth, the old colour of the cashiered Fourth. Riders of the auxiliaries come down from the Keep with their pay-tallies, waiting for the first.
+Tirellan's forum at the state's offerings, on the last days of the month. The border lords stand apart and watch one another. In the Eagle Shrine someone has left a cup of wine and a strip of red cloth, the old color of the cashiered Fourth. Riders of the auxiliaries come down from the Keep with their pay-tallies, waiting for the first.
 
-> The grey walls hold the morning cold. A rider at the Keep gate says to another, in the Varokh tongue, that the chest is two days late.
+> The gray walls hold the morning cold. A rider at the Keep gate says to another, in the Varokh tongue, that the chest is two days late.
 
 ## Scenes {#scenes}
 

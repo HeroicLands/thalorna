@@ -39,7 +39,7 @@ data:
 
 # Appearance {#appearance}
 
-Khilodlun Biilokur is a 54-year-old woman who stands 5'7" tall and is of medium build. She has tanned skin weathered by the northern grass, dark brown hair worn in one thick plait wound with a red cord, and brown eyes that crease when she is pleased. A small blue banner is tattooed on the back of her right hand, the mark of the family she was born to, and she is missing an upper tooth from a fall off a horse at twelve. She wears a long riding coat of grey felt, good boots and no gold at all. She talks to everyone at a fire, the herd-boys first, and she laughs before she bargains.
+Khilodlun Biilokur is a 54-year-old woman who stands 5'7" tall and is of medium build. She has tanned skin weathered by the northern grass, dark brown hair worn in one thick plait wound with a red cord, and brown eyes that crease when she is pleased. A small blue banner is tattooed on the back of her right hand, the mark of the family she was born to, and she is missing an upper tooth from a fall off a horse at twelve. She wears a long riding coat of gray felt, good boots and no gold at all. She talks to everyone at a fire, the herd-boys first, and she laughs before she bargains.
 
 # Dossier {#dossier}
 

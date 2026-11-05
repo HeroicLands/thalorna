@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Ts'ultel Ishkul K'ushi is a 63-year-old man who stands 5'3" tall with a light build. He has tawny skin, smooth complexion, grey hair, and brown eyes.
+Ts'ultel Ishkul K'ushi is a 63-year-old man who stands 5'3" tall with a light build. He has tawny skin, smooth complexion, gray hair, and brown eyes.
 
 # Dossier {#dossier}
 

@@ -56,14 +56,14 @@ The Hojujai Domain, held by House Hojujai (Hot Spring Place), holds [[place-hoja
 
 ## The Land
 
-Hojai smokes. Its ash has made the best rice soil in the realm on the terraces at its foot, its springs feed the bathhouses on its southern slope, and its sulphur is dug and carried down to the coast. The villages pay in ash-soil rice, and [Yanju]{.name data-type="place/settlement"} pays in sulphur and in the takings of its bathhouses.
+Hojai smokes. Its ash has made the best rice soil in the realm on the terraces at its foot, its springs feed the bathhouses on its southern slope, and its sulfur is dug and carried down to the coast. The villages pay in ash-soil rice, and [Yanju]{.name data-type="place/settlement"} pays in sulfur and in the takings of its bathhouses.
 
 The roll names three villages here; smaller terraces and hamlets, each under its headman, make up the rest of the 70,000 bales.
 
 | Village | Meaning          | Kind         | Holder                                  | Livelihood                              | Assessed |
 | ------- | ---------------- | ------------ | --------------------------------------- | --------------------------------------- | -------: |
 | Fanu    | Fortune Terraces | Court estate | The Emperor, through the lord's granary | Rice on ash soil, the best in the realm |    2,200 |
-| Yanju   | Cloud Spring     | Demesne      | The lord's granary at Yanwu             | Hot springs, bathhouses and sulphur     |    1,500 |
+| Yanju   | Cloud Spring     | Demesne      | The lord's granary at Yanwu             | Hot springs, bathhouses and sulfur      |    1,500 |
 | Weinu   | Jade Terraces    | Fief         | A Shuizhuo of the domain                | Rice                                    |    2,600 |
 
 The summit shrine of Hojai is provisioned from the lord's villages, and its Tanchei keep the mountain record on which the house's claim to heaven's favor rests.

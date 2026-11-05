@@ -3,7 +3,7 @@ shortcode: linltgrglzkr
 name: {full: Lin'Lutgar elu Galezkara, en: [The Local Innkeepers' Association]}
 type: affiliation
 subType: guild
-description: The innkeepers of the capital, who share what they know of travellers and stand together against the merchant houses that would rather own them
+description: The innkeepers of the capital, who share what they know of travelers and stand together against the merchant houses that would rather own them
 tags: [generated, draft]
 data:
   culture: khelathiclt

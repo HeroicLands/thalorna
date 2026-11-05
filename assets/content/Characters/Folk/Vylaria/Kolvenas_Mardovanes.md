@@ -104,7 +104,7 @@ He has no coin of his own. Every promise he makes is paid, if it is paid, by his
 
 ## Plot Hooks
 
-1. **The guardian's escort.** Kolvenas hires a party to escort his niece's betrothal gifts up the river road to the Ganothandis townhouse at Aravantara, and to bring back the signed acknowledgement before the next sitting of the Seldan.
+1. **The guardian's escort.** Kolvenas hires a party to escort his niece's betrothal gifts up the river road to the Ganothandis townhouse at Aravantara, and to bring back the signed acknowledgment before the next sitting of the Seldan.
 2. **The precedent.** A scribe of the Offices claims to have found the original record of Azénales's adoption, with a clause no copy carries. Kolvenas pays a party to buy it before another claimant's household does, and to say nothing of its contents until he has read them.
 3. **The officers' dinner.** Kolvenas sends a party to a supper of Guard officers in a cookshop below the Guard Camp, as his steward's guests, to learn which watch-captains still speak of his promise and which have stopped.
 4. **The mask's wearer.** At an Orzas's funeral, men of the great houses walk in the masks of the divine Orzoi, and the Keeper of the Masks chooses them. Kolvenas wants a Mardovanes to walk in Azénales's mask at the old Orzas's funeral, and hires a party to learn what the Keeper will want for it.

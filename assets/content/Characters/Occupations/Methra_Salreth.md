@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [commoner]
-  occupation: Labourer (unskilled)
+  occupation: Laborer (unskilled)
   lore: []
   culture: elavendriclt
   homes: [liranel]

@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Tsul Ishkul is a 54-year-old man who stands 5'4" tall with a heavy build. He has brown skin, weathered complexion, greying black hair, and dark brown eyes.
+Tsul Ishkul is a 54-year-old man who stands 5'4" tall with a heavy build. He has brown skin, weathered complexion, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

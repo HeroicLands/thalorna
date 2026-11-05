@@ -492,4 +492,4 @@ The Renewal
 : The fort contract falls due. Hevrel goes down to meet the janpodas' factor at the edge of the village, and Delzh asks the party to go with him and hear the offer made, so that it can be said aloud on the floor in the factor's own words.
 
 The Crown's Man
-: A lowlander turns up on a fort pack-train at the col, travelling as a drover, and the Sangra-fort's commander does not know him. Delzh wants him brought down before the turn is drawn, and quietly, since a Hvarn hearth brought him up.
+: A lowlander turns up on a fort pack-train at the col, traveling as a drover, and the Sangra-fort's commander does not know him. Delzh wants him brought down before the turn is drawn, and quietly, since a Hvarn hearth brought him up.

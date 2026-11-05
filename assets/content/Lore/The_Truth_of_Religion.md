@@ -23,7 +23,7 @@ This document develops the implications of that distinction.
 
 Within the cosmology established in [[doc-magictruth|Magic Truth]], gods are not metaphysically distinct from other beings. They are _souls_—the same kind of thing that mortals, spirits, elementals, and dragons are. What distinguishes them is the magnitude of what they have, and what they can do with it.
 
-A god is a **supra-being**: a soul of vast Aura, whose connection to the formless arcane potential is correspondingly vast. Where a mortal _marendos_ (master) is, in cosmological terms, a soul that touches the potential deeply enough to support a sustained channel and a moderately complex Morfís, a god is a soul that touches the potential at a scale beyond mortal comparison. The same metaphysics that governs mortal magic governs divine action—Aura plus framework, channeling potential into actualization—but the parameters are so radically different that the _kind_ of magic a god can perform is unrecognisable to mortal practitioners.
+A god is a **supra-being**: a soul of vast Aura, whose connection to the formless arcane potential is correspondingly vast. Where a mortal _marendos_ (master) is, in cosmological terms, a soul that touches the potential deeply enough to support a sustained channel and a moderately complex Morfís, a god is a soul that touches the potential at a scale beyond mortal comparison. The same metaphysics that governs mortal magic governs divine action—Aura plus framework, channeling potential into actualization—but the parameters are so radically different that the _kind_ of magic a god can perform is unrecognizable to mortal practitioners.
 
 Several specific consequences of this scale matter for understanding the gods:
 
@@ -41,7 +41,7 @@ This is the cosmology's answer to the question of what gods _are_. They are soul
 
 Because gods are souls, and souls differ, gods differ. The cosmology imposes no uniformity on what kind of beings gods are or how they relate to mortal affairs. Just as mortals range from the deeply communal to the radically solitary, from the attention-hungry to the entirely self-contained, from the engaged to the indifferent, gods occupy the full breadth of these dispositions—at scales and intensities that match their other capacities.
 
-Several recognisable types appear in the pantheons of Thalorna and elsewhere:
+Several recognizable types appear in the pantheons of Thalorna and elsewhere:
 
 **Worship-desiring gods.** Some gods _want_ worship, and some may even _need_ it in some functional sense. Whether the need is psychological (the god's interior life is sustained by being known and acknowledged), structural (the god's attention to the material plane is anchored by the focused thought of worshippers), or something else, these gods care that their religions thrive. They may take a more active interest in their adherents—not in ways that violate the non-intervention principle, but through more frequent naturalistic interventions, through favorable attention to their priests, through whatever the divine equivalent of _attentiveness_ amounts to. A worship-desiring god whose religion is declining may be experiencing something analogous to grief or hunger; whether this can amount to _dying_, in any meaningful sense, is a question the GM may answer per-deity.
 

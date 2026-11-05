@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thilmorv the Elder is a 49-year-old man who stands 5'9" tall with a medium build. He has fair skin, scarred complexion, blonde hair, and grey eyes.
+Thilmorv the Elder is a 49-year-old man who stands 5'9" tall with a medium build. He has fair skin, scarred complexion, blonde hair, and gray eyes.
 
 # Dossier {#dossier}
 

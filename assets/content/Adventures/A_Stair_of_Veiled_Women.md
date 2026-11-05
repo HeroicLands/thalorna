@@ -30,7 +30,7 @@ The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. Mezhvadez i
 
 **Situation.** The stair is open at the dune's flank. Wind-polished steps run down into shadow between rows of veiled women carved in the pale stone, and the lowest landing is sealed by a slab of the same stone. A drift of fine sand lies over the threshold, unmarked by any foot.
 
-**NPCs and threats.** The vault's first guardians are the **sand-veils**, strips of grey cloth that hang in the gate-arch and drift upright when a living thing draws near. They are thin and quiet, and they move toward warmth. Where one lands on bare skin it clings, and a body wrapped in them is slowly emptied of breath and water. They fear fire and the glare of a mirror held to the light. A **guide**, [Zirvash]{.name data-type="being/npc"}, a lean man who has seen the stair open twice and been below once, waits at the top with the caravan's camels. He will not go down.
+**NPCs and threats.** The vault's first guardians are the **sand-veils**, strips of gray cloth that hang in the gate-arch and drift upright when a living thing draws near. They are thin and quiet, and they move toward warmth. Where one lands on bare skin it clings, and a body wrapped in them is slowly emptied of breath and water. They fear fire and the glare of a mirror held to the light. A **guide**, [Zirvash]{.name data-type="being/npc"}, a lean man who has seen the stair open twice and been below once, waits at the top with the caravan's camels. He will not go down.
 
 **Player choices.**
 
@@ -51,7 +51,7 @@ The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. Mezhvadez i
 
 **Situation.** The stair opens into a long hall whose pillars carry a continuous band of figures. In the hall's center stands a basin of dry stone with three jars beside it: one of salt, one of ash, one of clean sand. The air hums faintly, as if a voice is speaking at the edge of hearing, and the whispers are in [[skill-dunharlng|Dunhari]].
 
-**NPCs and threats.** The hall is guarded by **whisper-moths**, large grey insects with pale, human-shaped markings on their wings. They settle on a visitor's shoulder and speak in the voice of the listener's own dead, answering questions and offering to help. They are honest in nothing. They lead travelers off the safe path with the voices of friends. A single bright flame makes them dissolve.
+**NPCs and threats.** The hall is guarded by **whisper-moths**, large gray insects with pale, human-shaped markings on their wings. They settle on a visitor's shoulder and speak in the voice of the listener's own dead, answering questions and offering to help. They are honest in nothing. They lead travelers off the safe path with the voices of friends. A single bright flame makes them dissolve.
 
 **Player choices.**
 

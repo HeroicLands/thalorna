@@ -40,6 +40,6 @@ Okwiahasterio, Watches the Bear, is the speaker (_katirohen_) of the Pine People
 
 He goes to hear the doctor. The healers of the Grove call it witchcraft: a power answered in the dark, behind bark walls, where no one can see what is asked or given. Okwiahasterio answers that the doctor's lodge is the most public thing in the village, since everyone hears it shake. The question has gone to the great council, and the great council is still talking. It has grown harder this year, because the Dawn People have quietly asked whether a doctor in a closed lodge can see across the sea, and where four people taken over it might be.
 
-He is fifty, a hunter as much as a farmer, and he likes the bands better than he likes the healers. A party travelling north into the pines passes through his village, and a party with a question no healer of the Grove can answer may be taken by him to the doctor's lodge after dark.
+He is fifty, a hunter as much as a farmer, and he likes the bands better than he likes the healers. A party traveling north into the pines passes through his village, and a party with a question no healer of the Grove can answer may be taken by him to the doctor's lodge after dark.
 
 What he wants is the doctor's lodge left standing in his village, and the bands left welcome at his fires.

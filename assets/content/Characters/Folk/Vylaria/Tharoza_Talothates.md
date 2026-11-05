@@ -3,7 +3,7 @@ shortcode: tharozatalot
 name: {full: Tharoza Talothates, en: [Commander Tharoza]}
 type: being
 subType: npc
-description: "The _zoralus_ of Moktur, the province's commander of order at Tirellan, who commands its urban cohorts, keeps the peace of the Keep and the forum, and defers to the gaoler Zerofon Kalmakanes on the province's prison."
+description: "The _zoralus_ of Moktur, the province's commander of order at Tirellan, who commands its urban cohorts, keeps the peace of the Keep and the forum, and defers to the jailer Zerofon Kalmakanes on the province's prison."
 tags: []
 data:
   icon: icon-person
@@ -33,13 +33,13 @@ data:
 
 # Appearance {#appearance}
 
-Tharoza Talothates is a 43-year-old woman who stands 5'7" tall and is of medium build. She has light skin weathered by northern winters, black hair worn in a short braid, and steady brown eyes. She wears a plain mail shirt under a grey wool cloak, the _therkos_'s color, and carries an officer's sword she rarely touches. She is calm and economical in speech, and she keeps her hands behind her back while she listens.
+Tharoza Talothates is a 43-year-old woman who stands 5'7" tall and is of medium build. She has light skin weathered by northern winters, black hair worn in a short braid, and steady brown eyes. She wears a plain mail shirt under a gray wool cloak, the _therkos_'s color, and carries an officer's sword she rarely touches. She is calm and economical in speech, and she keeps her hands behind her back while she listens.
 
 # Dossier {#dossier}
 
 Tharoza Talothates is the _zoralus_ of [[affiliation-provncmktr|the Province of Moktur]], its commander of order and the highest officer of its law enforcement. From her rooms in the Keep at [[place-tyrellan|Tirellan]] she commands the province's urban cohorts, the city watch of Tirellan among them, and keeps the peace of the Keep, the forum and the market. The streets of Tirellan are kept by the border lords' towers, the _therkos_'s riders answer to the _therkos_ alone, and her cohorts hold everything between.
 
-She respects the judgment of [[being-xrphnklmkns|Zerofon Kalmakanes]], the gaoler of Kezrora above [[place-sanctara|Ulthora]], who served in the city watch of Tirellan before he went to the prison, and she defers to his recommendations on how the prison is run.
+She respects the judgment of [[being-xrphnklmkns|Zerofon Kalmakanes]], the jailer of Kezrora above [[place-sanctara|Ulthora]], who served in the city watch of Tirellan before he went to the prison, and she defers to his recommendations on how the prison is run.
 
 ## Background
 
@@ -71,7 +71,7 @@ She serves a governor the capital neither commands nor replaces, and her office 
 
 ### Others
 
-- [[being-xrphnklmkns|Zerofon Kalmakanes]]: The gaoler of Kezrora, an old soldier of the city watch whose judgment she trusts on everything to do with the prison.
+- [[being-xrphnklmkns|Zerofon Kalmakanes]]: The jailer of Kezrora, an old soldier of the city watch whose judgment she trusts on everything to do with the prison.
 
 ### Affiliations
 

@@ -3,7 +3,7 @@ shortcode: reevesthrees
 name: {full: The Reeve's Threes, en: [The Threes of the Manor]}
 type: lore
 subType: literature
-description: "The sayings in threes a new reeve of an Aldorathi manor learns by heart before the manor court, and says there when a custom is in dispute: the holding, the word given, the lord and what he owes, the things older than the crown, the crossroads and the dead, the folk who were on the island first, the neighbouring realms, and the reeve's own charge, ending on what he says when his year is out."
+description: "The sayings in threes a new reeve of an Aldorathi manor learns by heart before the manor court, and says there when a custom is in dispute: the holding, the word given, the lord and what he owes, the things older than the crown, the crossroads and the dead, the folk who were on the island first, the neighboring realms, and the reeve's own charge, ending on what he says when his year is out."
 tags: [draft, aelwyth]
 data:
   culture: aelwythanclt

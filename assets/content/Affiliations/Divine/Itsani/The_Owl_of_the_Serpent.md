@@ -68,7 +68,7 @@ data:
       Guide of the Newly Dead: >-
         Meets a death at the moment of it, since interception is only possible before the soul enters the labyrinth.
       Shepherd of the Degrading: >-
-        Takes charge of the returned once nothing recognisable is left, and puts them where they will do the movement's work.
+        Takes charge of the returned once nothing recognizable is left, and puts them where they will do the movement's work.
   seat: null
   population: null
   economy: []

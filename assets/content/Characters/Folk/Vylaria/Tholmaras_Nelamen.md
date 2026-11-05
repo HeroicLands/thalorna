@@ -37,7 +37,7 @@ data:
 
 # Appearance {#appearance}
 
-Tholmaras Nelamen is a 57-year-old man who stands 5'11" tall and is of medium build. He has light skin weathered by years on the frontier, black hair greying and cut short, and grey eyes. He holds his audience standing, in a soldier's cloak, and he wears the province's grey, the colour his post-masters and his toll-keepers wear. He is courteous to everyone, and he is very well informed.
+Tholmaras Nelamen is a 57-year-old man who stands 5'11" tall and is of medium build. He has light skin weathered by years on the frontier, black hair graying and cut short, and gray eyes. He holds his audience standing, in a soldier's cloak, and he wears the province's gray, the color his post-masters and his toll-keepers wear. He is courteous to everyone, and he is very well informed.
 
 # Dossier {#dossier}
 
@@ -45,7 +45,7 @@ Tholmaras Nelamen is the _therkos_ (governor) of the [[affiliation-provncmktr|Pr
 
 The capital can neither lose Moktur nor pay to hold it, and Tholmaras governs it in the gap. He pays some twelve hundred Varokh-born auxiliaries, horse, slingers and light foot, in coin, on the first day of every month, in the yard of the Keep, from the tolls of [[place-korrast|Korras]] and the province's share of the metal of [[place-ferrovan|Zargonara]], and they are sworn to him by name. They have never been paid late. The legion at [[place-dolvar|Dolvar]] is paid by the treasury in the capital, when its coin arrives.
 
-He keeps the road as well. The _pozerus_ (warden of the roads) is his officer, the post-masters of the posting-stations wear his grey, and every letter from the north to the capital, the _vandraks_'s and the revenue officer's included, passes through a station he keeps. Each spring he names the commander of the gate at Korras, whose tolls pay his riders, and he cares more that the gate is held than who holds it. On the state's days he makes the offering before the Orzas's image in the provincial temple with the border lords behind him. Tirellan counts his rule as loyalty, because he pays his riders on the day and holds the frontier quiet.
+He keeps the road as well. The _pozerus_ (warden of the roads) is his officer, the post-masters of the posting-stations wear his gray, and every letter from the north to the capital, the _vandraks_'s and the revenue officer's included, passes through a station he keeps. Each spring he names the commander of the gate at Korras, whose tolls pay his riders, and he cares more that the gate is held than who holds it. On the state's days he makes the offering before the Orzas's image in the provincial temple with the border lords behind him. Tirellan counts his rule as loyalty, because he pays his riders on the day and holds the frontier quiet.
 
 ## Background
 

@@ -37,7 +37,7 @@ data:
 
 # Appearance {#appearance}
 
-Ghotazkharu Koserur is a 71-year-old man who stands 5'6" tall and is of light build, with a rider's bowed legs and a stiffness in the left shoulder where an arrow went in forty years ago. He has brown skin gone leathery from the steppe wind, grey hair in two thin plaits, a sparse grey beard and brown eyes that are slow and warm. He wears a felt coat with the Koserur sign stitched on the back, much patched, and keeps his hands in the sleeves. He sits low by the fire, speaks last, and pours the tea himself for a guest of any rank.
+Ghotazkharu Koserur is a 71-year-old man who stands 5'6" tall and is of light build, with a rider's bowed legs and a stiffness in the left shoulder where an arrow went in forty years ago. He has brown skin gone leathery from the steppe wind, gray hair in two thin plaits, a sparse gray beard and brown eyes that are slow and warm. He wears a felt coat with the Koserur sign stitched on the back, much patched, and keeps his hands in the sleeves. He sits low by the fire, speaks last, and pours the tea himself for a guest of any rank.
 
 # Dossier {#dossier}
 

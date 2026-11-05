@@ -38,7 +38,7 @@ Tsawahakwa is a 31-year-old man who stands 5'7" tall with a heavy build. He has 
 
 Tsawahakwa, Lifts the Sea, is a war canoe captain (_yakwismis_) of the [[affiliation-bearhouse|Bear House]] at [[place-lamekis|Bear Beach]], a young noble of the [[affiliation-kelwanuk|Cedar People]] who holds a small name of the house and commands forty paddlers in a black-and-red Gwemlasis hull. Each raiding season he takes his canoe south past the river bar to the great bay and up the rivers into the oak valleys behind the Shell-Bead coast, where nobody pays the Strand and nobody is protected by it. The captives he brings back are sold on the beach at Lamekis to any house that can pay.
 
-He is thirty-one, quick, well-liked by his paddlers, and openly ambitious: every captive he brings home is a gift his chief, [[being-yaldukita|Yaldukita]], can give or sell, and a captain whose canoe makes the house rich can hope for a greater name at the next feast. He treats the Shell-Bead canoe master who comes north to buy captives back, [[being-sitiqnush|Sitiqnush]], with the courtesy the house shows an honoured guest, and charges him what the house tells him to.
+He is thirty-one, quick, well-liked by his paddlers, and openly ambitious: every captive he brings home is a gift his chief, [[being-yaldukita|Yaldukita]], can give or sell, and a captain whose canoe makes the house rich can hope for a greater name at the next feast. He treats the Shell-Bead canoe master who comes north to buy captives back, [[being-sitiqnush|Sitiqnush]], with the courtesy the house shows an honored guest, and charges him what the house tells him to.
 
 :::secret {title="The Strand buys less"}
 

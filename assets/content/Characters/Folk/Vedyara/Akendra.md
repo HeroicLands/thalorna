@@ -400,7 +400,7 @@ The style has gone downriver. The great houses of [[place-chendrapur2|the Moon C
 
 ## Vanika
 
-The traditional cook he means is [[being-vanikartns|Vanika Ratnisen]]. They have quarrelled across the town for years, in front of their patrons, and the quarrel sells meals for both of them. It became serious when the Achorya [[being-mandulikulan|Manduli Kulanaya]] gave Vanika the commission to cook Rasikara's feast-meal at the great temple's fire chamber. Akendra had asked for it first.
+The traditional cook he means is [[being-vanikartns|Vanika Ratnisen]]. They have quarreled across the town for years, in front of their patrons, and the quarrel sells meals for both of them. It became serious when the Achorya [[being-mandulikulan|Manduli Kulanaya]] gave Vanika the commission to cook Rasikara's feast-meal at the great temple's fire chamber. Akendra had asked for it first.
 
 ## Psyche
 

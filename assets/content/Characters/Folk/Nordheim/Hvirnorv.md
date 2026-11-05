@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Hvirnorv is a 52-year-old man who stands 5'11" tall with a massive build. He has tanned skin, ruddy complexion, black hair, and grey eyes.
+Hvirnorv is a 52-year-old man who stands 5'11" tall with a massive build. He has tanned skin, ruddy complexion, black hair, and gray eyes.
 
 # Dossier {#dossier}
 

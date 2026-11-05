@@ -259,7 +259,7 @@ data:
       concept: hear-noun
     - form: mularei
       class: v
-      gloss: to smell; to perceive an odour
+      gloss: to smell; to perceive an odor
       source: {kind: coined}
       field: Senses and feelings
       concept: smell-verb
@@ -271,13 +271,13 @@ data:
       concept: smell-noun
     - form: minorei
       class: v
-      gloss: to taste; to perceive flavour
+      gloss: to taste; to perceive flavor
       source: {kind: coined}
       field: Senses and feelings
       concept: taste-verb
     - form: minao
       class: n
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       source: {kind: coined}
       field: Senses and feelings
       concept: taste-noun
@@ -821,7 +821,7 @@ data:
       concept: [loyalty, devotion]
     - form: vaarei
       class: v
-      gloss: to hold; to keep; to have in one’s possession; with a named feeling, to harbour that feeling
+      gloss: to hold; to keep; to have in one’s possession; with a named feeling, to harbor that feeling
       source: {kind: coined}
       field: Ordinary life and speech
       concept: [hold, have]
@@ -1470,7 +1470,7 @@ data:
       concept: urinate
     - form: murao
       class: n
-      gloss: dung; faeces
+      gloss: dung; feces
       source: {kind: coined}
       field: Ordinary life and speech
       concept: dung
@@ -2020,7 +2020,7 @@ data:
       concept: stranger
     - form: selunei
       class: n
-      gloss: a neighbour; someone living nearby
+      gloss: a neighbor; someone living nearby
       source: {kind: coined}
       field: Ordinary life and speech
       concept: neighbor
@@ -2686,7 +2686,7 @@ data:
       concept: dark
     - form: naorao
       class: adj
-      gloss: green in colour
+      gloss: green in color
       source: {kind: coined}
       field: Ordinary life and speech
       concept: green
@@ -3053,55 +3053,55 @@ data:
       concept: count-verb
     - form: nurario
       class: adj
-      gloss: black; of the darkest colour
+      gloss: black; of the darkest color
       source: {kind: coined}
       field: Ordinary life and speech
       concept: black
     - form: nerurei
       class: adj
-      gloss: white; of the lightest colour
+      gloss: white; of the lightest color
       source: {kind: coined}
       field: Ordinary life and speech
       concept: white
     - form: naravei
       class: adj
-      gloss: red; blood-coloured
+      gloss: red; blood-colored
       source: {kind: coined}
       field: Ordinary life and speech
       concept: red
     - form: nararua
       class: adj
-      gloss: yellow; the colour of ripe pale grain
+      gloss: yellow; the color of ripe pale grain
       source: {kind: coined}
       field: Ordinary life and speech
       concept: yellow
     - form: nerarua
       class: adj
-      gloss: blue; the colour of a clear deep sky
+      gloss: blue; the color of a clear deep sky
       source: {kind: coined}
       field: Ordinary life and speech
       concept: blue
     - form: nurarua
       class: adj
-      gloss: grey; between black and white without a strong hue
+      gloss: gray; between black and white without a strong hue
       source: {kind: coined}
       field: Ordinary life and speech
       concept: grey
     - form: nararoa
       class: adj
-      gloss: brown; the colour of much earth or dry wood
+      gloss: brown; the color of much earth or dry wood
       source: {kind: coined}
       field: Ordinary life and speech
       concept: brown
     - form: nerovei
       class: adj
-      gloss: light in colour; having a high light value, distinct from emitting light
+      gloss: light in color; having a high light value, distinct from emitting light
       source: {kind: coined}
       field: Ordinary life and speech
       concept: light-colour
     - form: neraroa
       class: adj
-      gloss: pale; weak or washed out in colour
+      gloss: pale; weak or washed out in color
       source: {kind: coined}
       field: Ordinary life and speech
       concept: pale

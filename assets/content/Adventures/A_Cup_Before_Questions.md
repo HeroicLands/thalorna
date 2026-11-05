@@ -52,7 +52,7 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 
 **Situation.** The hall is long and warm, and the feast is generous. The Samonta sits at the high table with his household, and his guests are placed by rank. The servants move quietly and the talk is of horses and weather. A bound ledger lies on the steward's table at the far end of the hall.
 
-**NPCs and threats.** [Jayabira Chorbhavishana]{.name data-type="being/npc"} is the Samonta, a big grey man whose courtesy is all that holds him upright. He speaks well and laughs well, and he has not slept properly in a year. His wife, [Sundeli]{.name data-type="being/npc"}, the mistress of the house, watches every guest as one watches a debt. Their son [Anandabira]{.name data-type="being/npc"}, a boy of sixteen, does not drink the water and does not say why. The household priest, Purohata [Jnanadasa]{.name data-type="being/npc"}, is a quiet man in grey who asks the party their shrines and listens to the answers. The steward, [Olgupal]{.name data-type="being/npc"}, an Outcaste whose struck-through wrist-line is bound in cloth, keeps the ledger. He was never asked to the high table, and he is the only person in the household who has counted.
+**NPCs and threats.** [Jayabira Chorbhavishana]{.name data-type="being/npc"} is the Samonta, a big gray man whose courtesy is all that holds him upright. He speaks well and laughs well, and he has not slept properly in a year. His wife, [Sundeli]{.name data-type="being/npc"}, the mistress of the house, watches every guest as one watches a debt. Their son [Anandabira]{.name data-type="being/npc"}, a boy of sixteen, does not drink the water and does not say why. The household priest, Purohata [Jnanadasa]{.name data-type="being/npc"}, is a quiet man in gray who asks the party their shrines and listens to the answers. The steward, [Olgupal]{.name data-type="being/npc"}, an Outcaste whose struck-through wrist-line is bound in cloth, keeps the ledger. He was never asked to the high table, and he is the only person in the household who has counted.
 
 **Player choices.**
 
@@ -123,7 +123,7 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 **Player choices.**
 
 - _Lead them out._ The stair is long, and the sleepers are weak.
-- _Take the cache._ The grandfather left a chest on the lowest ledge, with a purse of chendra, a string of tomra and a bundle of cloth that has kept its colour.
+- _Take the cache._ The grandfather left a chest on the lowest ledge, with a purse of chendra, a string of tomra and a bundle of cloth that has kept its color.
 - _Tell the council._ The three wells that share the seam belong to Samontas of the Maharava's martial council, who have their own reasons to keep the secret. The party's choice of what to tell them shapes the march.
 - _Keep it quiet._ A pledge of silence to the Samonta, in return for the fort's protection, buys the party a favor in the foothills.
 

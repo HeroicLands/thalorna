@@ -59,7 +59,7 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 
 **Purpose.** Teach the rule of guest-right and offer the party the choice that matters.
 
-**Situation.** The great hall is warm, long and roofed with turf. A fire the length of a river-barge burns down the middle, and the Kept sit at the long benches in their rotted harness, eating. The cook, a grey-armed man in a leather apron, carries bread to every guest. A seat stands at the head of the hall with no one in it, a plain chair of black wood, and nobody looks at it.
+**Situation.** The great hall is warm, long and roofed with turf. A fire the length of a river-barge burns down the middle, and the Kept sit at the long benches in their rotted harness, eating. The cook, a gray-armed man in a leather apron, carries bread to every guest. A seat stands at the head of the hall with no one in it, a plain chair of black wood, and nobody looks at it.
 
 **NPCs and threats.** [Thelvaran]{.name data-type="being/npc"}, the senior sergeant, sits nearest the party and speaks Vylari with a hill accent. He tells them, kindly, to eat. The _Lusar_ watches from the far end and does not rise. The Kept are neither hostile nor friendly. They are bored, loyal, and desperate for news.
 

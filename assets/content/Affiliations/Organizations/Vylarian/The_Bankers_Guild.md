@@ -146,10 +146,10 @@ The great houses lend to the throne, and this year they quarrel over the price. 
 
 The houses have rivals for the throne's paper. [[being-krznsthlrts|Korzenas Thalurates]] buys the debts of the old houses through factors, and the Khelathi factor on Orzara's Strangers' Row, [[being-mthszrtml|Methisi Azeret'Mulu]], offers the throne silver for its paper and has begun buying the same houses' debts with Khelathi silver, at better prices.
 
-Bread divides the Council of the Danvori as well. [[being-nthrsmrdvns|Nethoras Mardovanes]] wants a duty on foreign grain, and Amarza opposes it in the Council and in every drawing room on the Heights, because a duty raises bread and the riots that follow dear bread end at the chapterhouse doors. Every house lends partly on the hope that its man is adopted and its paper honoured by the next reign, and none of them can afford a default.
+Bread divides the Council of the Danvori as well. [[being-nthrsmrdvns|Nethoras Mardovanes]] wants a duty on foreign grain, and Amarza opposes it in the Council and in every drawing room on the Heights, because a duty raises bread and the riots that follow dear bread end at the chapterhouse doors. Every house lends partly on the hope that its man is adopted and its paper honored by the next reign, and none of them can afford a default.
 
 :::secret {title="The House of Veldis"}
-The House of Veldis has issued about a fifth more notes than its reserves hold, and the Imperial _Tarkelos_'s true ledger records it. Amarza lends the legate [[being-hlzrsvndrn|Halzoras Vendaren]] his donative through her chapter at Delalara, against a letter in his hand promising the throne's paper honoured whole and the auditors kept out, and the house pays [[affiliation-cleanshlds|the Clean Shields]] through an account at its own chapter. When the city burns she means to sell it the only armed company outside the legions' command, at the price of the next reign's signature.
+The House of Veldis has issued about a fifth more notes than its reserves hold, and the Imperial _Tarkelos_'s true ledger records it. Amarza lends the legate [[being-hlzrsvndrn|Halzoras Vendaren]] his donative through her chapter at Delalara, against a letter in his hand promising the throne's paper honored whole and the auditors kept out, and the house pays [[affiliation-cleanshlds|the Clean Shields]] through an account at its own chapter. When the city burns she means to sell it the only armed company outside the legions' command, at the price of the next reign's signature.
 :::
 
 ## Plot Hooks

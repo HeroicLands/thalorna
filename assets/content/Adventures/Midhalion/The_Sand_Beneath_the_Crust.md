@@ -127,7 +127,7 @@ The party reaches the Wharves after midnight, when the barges land. The horn sou
 
 **Player choices.** Sell to one, play two against each other, give it to the Tarkelos, or take it to the [[affiliation-seldan|Seldan]] in public.
 
-**Clues and rewards.** Coin, favour and enemies, in proportions the party chooses. Each bidder lets slip something of its own: the Grain House's forward sale, the Corsair cargoes, the factor's anchorage, the Tarmeks's true debt.
+**Clues and rewards.** Coin, favor and enemies, in proportions the party chooses. Each bidder lets slip something of its own: the Grain House's forward sale, the Corsair cargoes, the factor's anchorage, the Tarmeks's true debt.
 
 **Consequences.** The house the party chooses moves first. A party that goes public starts a queue at every bakery on the Circles before nightfall.
 

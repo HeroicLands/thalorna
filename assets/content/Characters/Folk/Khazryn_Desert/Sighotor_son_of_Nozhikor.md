@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Sighotor son of Nozhikor is an 80-year-old man who stands 5'8" tall and is of scant build, little more than bone under a grey wool mantle. He has tawny skin gone leathery and deeply lined, a bald crown with a fringe of white hair, a white beard to the chest, and amber eyes clouded at the edges. His hands shake until he folds them. He wears the plain grey of the keepers, barefoot on the stone in every season, and he carries nothing. He speaks so quietly that the keepers repeat his words to the pilgrims, and he often says nothing at all for a long time before he speaks.
+Sighotor son of Nozhikor is an 80-year-old man who stands 5'8" tall and is of scant build, little more than bone under a gray wool mantle. He has tawny skin gone leathery and deeply lined, a bald crown with a fringe of white hair, a white beard to the chest, and amber eyes clouded at the edges. His hands shake until he folds them. He wears the plain gray of the keepers, barefoot on the stone in every season, and he carries nothing. He speaks so quietly that the keepers repeat his words to the pilgrims, and he often says nothing at all for a long time before he speaks.
 
 # Dossier {#dossier}
 
@@ -53,7 +53,7 @@ His office has one part in government. When the Council considers acclaiming a Z
 
 ### Personality
 
-He is gentle, silent and unhurried, and he listens to everyone who reaches the ring of stones, pilgrim or prince, for as long as they wish to speak. He laughs at very small things. He has a dry humour that the keepers do not always notice, and an iron patience that the Council does.
+He is gentle, silent and unhurried, and he listens to everyone who reaches the ring of stones, pilgrim or prince, for as long as they wish to speak. He laughs at very small things. He has a dry humor that the keepers do not always notice, and an iron patience that the Council does.
 
 ### Motivation
 
@@ -94,7 +94,7 @@ Sighotor has dreamed of Yotekhor every night since Aqeshat began to preach, and 
 
 The Council will want his reading soon. A man is gathering the steppe tribes into a union, and if he rises the Council must acclaim a Zhudek or face him with twelve warrior societies and no one to lead them. Sighotor believes the union is the crisis the office exists for, and he believes that a Zhudek acclaimed to fight it will be acclaimed again and again until the tribes have a king in all but name.
 
-Last winter he sent a Burqalod keeper in pilgrim's grey to the Tellumi school of the Kingdom with an unsigned letter for [[being-narvunakethr|Narvuna of Kethramír]], asking one question about the Promise. He has not had an answer. He wants it before the Council sends for him, because he means to give the Council the answer he reaches, whatever it is, as his last reading.
+Last winter he sent a Burqalod keeper in pilgrim's gray to the Tellumi school of the Kingdom with an unsigned letter for [[being-narvunakethr|Narvuna of Kethramír]], asking one question about the Promise. He has not had an answer. He wants it before the Council sends for him, because he means to give the Council the answer he reaches, whatever it is, as his last reading.
 
-**Hook: the keeper on the road.** The keeper carrying the letter's answer, if Narvuna gives one, must come back through the held cities in pilgrim's grey. Aqeshat's followers know a keeper went west, and are watching the belt road for him to come back.
+**Hook: the keeper on the road.** The keeper carrying the letter's answer, if Narvuna gives one, must come back through the held cities in pilgrim's gray. Aqeshat's followers know a keeper went west, and are watching the belt road for him to come back.
 :::

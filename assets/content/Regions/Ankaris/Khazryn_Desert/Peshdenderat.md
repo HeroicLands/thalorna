@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The [Vurinkarvem cliff]{.name data-type="place/feature"} over [[place-oasishirvn|Shirvan]] is riddled with cut chambers and pilgrim stairs, and some of them are older than the city. At the bottom of one of the oldest, a gallery of seven bays below the level of the lower basin, a well-head of grey stone stands in a round chamber. The Tellumi of the quarter call it **Peshdenderat**, "the dry well". It has no water in it.
+The [Vurinkarvem cliff]{.name data-type="place/feature"} over [[place-oasishirvn|Shirvan]] is riddled with cut chambers and pilgrim stairs, and some of them are older than the city. At the bottom of one of the oldest, a gallery of seven bays below the level of the lower basin, a well-head of gray stone stands in a round chamber. The Tellumi of the quarter call it **Peshdenderat**, "the dry well". It has no water in it.
 
 It is a deep shaft. A weighted line paid out from the lip runs for a hundred and forty fathoms without touching, which is more than three times the depth at which the great spring's water stands. The wall of the shaft is cut stone for the first forty fathoms, then rough rock, then something the plumb-lines come up wet and cold from, a damp that is not water. At the lip, in the dark of the moon, the stones whisper.
 
@@ -28,7 +28,7 @@ What it asks in return grows. A drop becomes a measure, a measure a cup, a cup a
 
 :::secret {title="The sorcerer-priest"}
 
-The quarter's secret is that the Tally has a servant. A Shekhul of the old rite comes to the well, the hidden one the Ozhmarod have hunted for ninety years. The hidden office has passed through three hands in that time, and he is the third. He is [Nurmelul]{.name data-type="being/npc"}, a lean grey man of sixty whose hands are scarred to the wrist. He holds the old observances in a back room of the lower town and teaches in secret, and he believes he is keeping the Tellumi alive. Every secret that has kept him hidden has come from the well, and every secret has been paid for in blood: his own at first, then the blood of volunteers from the quarter, who give it for the cause.
+The quarter's secret is that the Tally has a servant. A Shekhul of the old rite comes to the well, the hidden one the Ozhmarod have hunted for ninety years. The hidden office has passed through three hands in that time, and he is the third. He is [Nurmelul]{.name data-type="being/npc"}, a lean gray man of sixty whose hands are scarred to the wrist. He holds the old observances in a back room of the lower town and teaches in secret, and he believes he is keeping the Tellumi alive. Every secret that has kept him hidden has come from the well, and every secret has been paid for in blood: his own at first, then the blood of volunteers from the quarter, who give it for the cause.
 
 The well takes more than it was given, and the oasis pays for it.
 :::

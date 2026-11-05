@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Mildwin Stormwell is a 31-year-old man who stands 6'1" tall with a massive build. He has light skin, freckled complexion, red hair, and grey eyes.
+Mildwin Stormwell is a 31-year-old man who stands 6'1" tall with a massive build. He has light skin, freckled complexion, red hair, and gray eyes.
 
 # Dossier {#dossier}
 

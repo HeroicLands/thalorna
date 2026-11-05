@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Amqelifu is a 41-year-old woman who stands 5'5" tall with a light build. She has brown skin, grey hair, and dark brown eyes.
+Amqelifu is a 41-year-old woman who stands 5'5" tall with a light build. She has brown skin, gray hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

@@ -49,7 +49,7 @@ The mole at Kastamar at evening, beside the names of the Shoals dead. Half the s
 
 ### Scene One: The Slipway
 
-**Purpose.** Introduce the war-port and the rumour.
+**Purpose.** Introduce the war-port and the rumor.
 
 **Situation.** The Slipway inn, full of shipwrights, marines and laid-up crews. A Taruzelian merchant captain drinks in the corner.
 
@@ -59,7 +59,7 @@ The mole at Kastamar at evening, beside the names of the Shoals dead. Half the s
 
 **Clues and rewards.** The captain names the hull by its League name and the convoy it rows in, and describes a stern carving only Kastamar cuts.
 
-**Consequences.** The rumour reaches the admiral's officers within a day of the party asking.
+**Consequences.** The rumor reaches the admiral's officers within a day of the party asking.
 
 **If bypassed.** The widow's sailor tells the same story, less exactly.
 
@@ -123,11 +123,11 @@ The mole at Kastamar at evening, beside the names of the Shoals dead. Half the s
 
 **Consequences.** If the Senate hears it, the war party is shamed and the treaty petition gains a season. If the admiral hears it first, he buries the Roll and the yard's men pay. If the League hears it, it knows Kastamar's lines are better than its own, and wants more.
 
-**If bypassed.** The rumour stays a rumour in the Slipway.
+**If bypassed.** The rumor stays a rumor in the Slipway.
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
-The rumour spreads along the waterfront of Kastamar until the admiral's officers hear it. Kaldremos is questioned and says nothing. The Delalara houses send their petition by post, and it reaches the Senate a month late and opened, as last year's did. In the islands Delzuru presses his toll, and the foreign masters in the roads hire advocates. The widow remarries.
+The rumor spreads along the waterfront of Kastamar until the admiral's officers hear it. Kaldremos is questioned and says nothing. The Delalara houses send their petition by post, and it reaches the Senate a month late and opened, as last year's did. In the islands Delzuru presses his toll, and the foreign masters in the roads hire advocates. The widow remarries.
 
 ## Aftermath {#aftermath}
 

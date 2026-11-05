@@ -12,7 +12,7 @@ data:
   subjects: [lore-tarvenanclt, affiliation-ardavon, affiliation-ordrsldwrd]
   lang: tarv
 
-# terran_analog: "The call-and-response of a military muster and of liturgy; the roll of the fallen answered by the living; the catalogue of the dead with a deed apiece; the oath renewed at the new year; and the blank kept in a list for a name erased, as on a monument where a name has been struck."
+# terran_analog: "The call-and-response of a military muster and of liturgy; the roll of the fallen answered by the living; the catalog of the dead with a deed apiece; the oath renewed at the new year; and the blank kept in a list for a name erased, as on a monument where a name has been struck."
 ---
 
 **The Roll at the Thresholds** is said by a crossbow company of the valleys at its oath stone, the _goitsa_, on the first morning of the [Feast of Thresholds]{.name data-type="lore/gathering"} at the turning of the year ([[affiliation-ardavon|Faith of Árdavon]]), when the lords and vassals of the pantheon's faiths renew their bonds in the temples. The company keeps the feast the way its valley keeps it. The village priest stands by the stone as witness and says nothing until the end, and the captain calls the muster roll, the _therna_, from memory, because a company's roll is a thing carried in the captain's head and in the company's, and not in a book.

@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Gaoler
+  occupation: Jailer
   lore: []
   culture: vylarianclt
   homes: [sanctara]

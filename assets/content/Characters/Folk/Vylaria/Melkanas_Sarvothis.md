@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Melkanas Sarvothis is a 47-year-old man who stands 5'8" tall and is of heavy build. He has light skin with high color in the cheeks, chestnut hair kept short, and hazel eyes. He wears the grey robe of a priest of Sélmoros in fine wool, belted with a purse and a set of brass weights, and a heavy silver seal-ring on his right hand. His hands are soft except for a callus on the right thumb where a scale's beam rests. He is pleasant, quick and friendly, and he does sums in his head while he talks.
+Melkanas Sarvothis is a 47-year-old man who stands 5'8" tall and is of heavy build. He has light skin with high color in the cheeks, chestnut hair kept short, and hazel eyes. He wears the gray robe of a priest of Sélmoros in fine wool, belted with a purse and a set of brass weights, and a heavy silver seal-ring on his right hand. His hands are soft except for a callus on the right thumb where a scale's beam rests. He is pleasant, quick and friendly, and he does sums in his head while he talks.
 
 # Dossier {#dossier}
 
@@ -41,7 +41,7 @@ Melkanas Sarvothis is a prior of the [[affiliation-hlykngdmnrtm|Holy Kingdom of 
 
 He sells the cutting by the valley. A contract crew pays the temple for the right to take a whole valley at once, cuts it in a season and moves on, and the coin comes to the temple in a single sealed bag rather than in a year of charcoal. The temple's dues have never been paid so promptly.
 
-[The Withering]{.name data-type="lore"} has reached the estate, as it has reached every estate in the kingdom. Wherever a stand of his forest goes grey in midsummer, he orders the procession with lamps around it, the fast, and the village's dues raised for the year, as the high priesthood teaches. The dead stands are then let to the contract crews, who cut them for charcoal.
+[The Withering]{.name data-type="lore"} has reached the estate, as it has reached every estate in the kingdom. Wherever a stand of his forest goes gray in midsummer, he orders the procession with lamps around it, the fast, and the village's dues raised for the year, as the high priesthood teaches. The dead stands are then let to the contract crews, who cut them for charcoal.
 
 ## Background
 

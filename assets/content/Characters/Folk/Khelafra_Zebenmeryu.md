@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khelafra Zebenmeryu is a 45-year-old man who stands 5'9" tall with a medium build. He has tawny skin, weathered complexion, grey hair, and brown eyes.
+Khelafra Zebenmeryu is a 45-year-old man who stands 5'9" tall with a medium build. He has tawny skin, weathered complexion, gray hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Khelafra Zebenmeryu holds the post of First Smith of the Gar-Au out of [[place-galezkara|Galezkara]], and chairs the [[affiliation-garmelnu|Gar'Melnu]] besides. The guild has not seen internal politics this contentious in a generation, and this chair sits at the centre of it. Anyone wanting the guild's favour now has to survive the politics to get it.
+Khelafra Zebenmeryu holds the post of First Smith of the Gar-Au out of [[place-galezkara|Galezkara]], and chairs the [[affiliation-garmelnu|Gar'Melnu]] besides. The guild has not seen internal politics this contentious in a generation, and this chair sits at the center of it. Anyone wanting the guild's favor now has to survive the politics to get it.

@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Themerit Shaluku is a 48-year-old woman who stands 5'7" tall with a medium build. She has dark brown skin, greying black hair, and dark brown eyes.
+Themerit Shaluku is a 48-year-old woman who stands 5'7" tall with a medium build. She has dark brown skin, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

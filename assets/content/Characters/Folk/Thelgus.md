@@ -3,7 +3,7 @@ shortcode: thelgus
 name: {full: Thelgus}
 type: being
 subType: npc
-description: "A rival who spreads rumours that a performer's music is tainted and his scars a mark of a curse"
+description: "A rival who spreads rumors that a performer's music is tainted and his scars a mark of a curse"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Thelgus is a 33-year-old man who stands 5'8" tall with a light build. He has oli
 
 # Dossier {#dossier}
 
-Thelgus entertains out of [[place-galezkara|Galezkara]], and spreads rumours that a rival performer's music is tainted and the scars a mark of a curse. The rumours cost him nothing to spread and the rival something to deny. Anyone booking either performer hears both the music and the rumour before deciding.
+Thelgus entertains out of [[place-galezkara|Galezkara]], and spreads rumors that a rival performer's music is tainted and the scars a mark of a curse. The rumors cost him nothing to spread and the rival something to deny. Anyone booking either performer hears both the music and the rumor before deciding.

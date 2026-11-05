@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
-_**Mótefnir, The Maker**—a clay mould and an unfinished casting, work put down before it was done and never taken up again._
+_**Mótefnir, The Maker**—a clay mold and an unfinished casting, work put down before it was done and never taken up again._
 
 **Mótefnir** is the god every craft in the north invokes over the beginning of a piece of work, and the only one of the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] whose own work is said to be met on a road. A Hofgudja keeping the great hov in [[place-vithgard|Vithgard]] states the [[affiliation-motefnir|Faith of Mótefnir]]'s whole claim in one breath: he makes living things, he makes each of them once, and he does not come back for them. "Ask me where he works and I will tell you nobody knows," she says. "I have heard the laboratories described by men who swear they have stood in one. I have heard they are halls, and I have heard they are nowhere at all. What I can tell you is what comes out of them, because it walks."
 

@@ -411,7 +411,7 @@ Nagarit is controlled, sociable, intelligent and entirely self-interested. He is
 
 ### Motivation
 
-He wants his debt to the Gar-Gezru cancelled, and the price they have set on it is Darmapalda Vimuktan.
+He wants his debt to the Gar-Gezru canceled, and the price they have set on it is Darmapalda Vimuktan.
 
 ### Strengths
 

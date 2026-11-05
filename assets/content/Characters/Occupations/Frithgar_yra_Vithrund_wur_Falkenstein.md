@@ -415,7 +415,7 @@ Experienced strategist, skilled in melee combat, good mentor.
 
 ## Social
 
-Frithgár fights with Falkenstein’s war-band and trains younger warriors there. He owes service to the village’s War Chief in matters of defence and raid, not to a hereditary lord.
+Frithgár fights with Falkenstein’s war-band and trains younger warriors there. He owes service to the village’s War Chief in matters of defense and raid, not to a hereditary lord.
 
 ## Companions
 

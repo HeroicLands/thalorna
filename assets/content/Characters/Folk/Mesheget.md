@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Mesheget is a 55-year-old woman who stands 6'3" tall with a massive build. She has dark brown skin, grey hair, and dark brown eyes.
+Mesheget is a 55-year-old woman who stands 6'3" tall with a massive build. She has dark brown skin, gray hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

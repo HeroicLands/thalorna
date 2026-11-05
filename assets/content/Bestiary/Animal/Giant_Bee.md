@@ -265,7 +265,7 @@ The Okharin honey-men rob a hive once a year, in the week after the first rains 
 
 - A hum under the sounds of the forest, felt in the teeth before it is heard.
 - A tree with sheets of pale comb hanging from its crown like washing.
-- A sweet, cloying smell with a burnt edge, carried a long way on the wind.
+- A sweet, cloying smell with a burned edge, carried a long way on the wind.
 - Bees crossing a valley in a straight line, one every few breaths, all going the same way.
 - A dead monkey or a dead man under a tree, swollen, with no mark but a few small punctures.
 

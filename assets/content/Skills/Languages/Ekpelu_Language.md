@@ -436,13 +436,13 @@ data:
     - "form": "melan"
       "class": "adj"
       "field": "Everyday speech"
-      "gloss": ["easy; good or favourable in an evaluative use", "easy", "good"]
+      "gloss": ["easy; good or favorable in an evaluative use", "easy", "good"]
       "tones": "HL"
       "concept": ["easy", "good"]
     - "form": "gaban"
       "class": "adj"
       "field": "Everyday speech"
-      "gloss": ["bad; unfavourable", "bad"]
+      "gloss": ["bad; unfavorable", "bad"]
       "tones": "LH"
       "concept": "bad"
     - "form": "mbaka"
@@ -571,13 +571,13 @@ data:
     - "form": "senuba"
       "class": "n"
       "field": "Everyday speech"
-      "gloss": "a smell; an odour"
+      "gloss": "a smell; an odor"
       "concept": "smell-noun"
       "tones": "LHL"
     - "form": "paliba"
       "class": "n"
       "field": "Everyday speech"
-      "gloss": "a taste; a flavour"
+      "gloss": "a taste; a flavor"
       "concept": "taste-noun"
       "tones": "LHL"
     - "form": "kumo"
@@ -3398,7 +3398,7 @@ data:
     - "form": "gbanan"
       "class": "adj"
       "field": "Everyday speech"
-      "gloss": "grey"
+      "gloss": "gray"
       "concept": "grey"
       "tones": "LH"
     - "form": "daban"
@@ -3410,7 +3410,7 @@ data:
     - "form": "selan sini"
       "class": "adj"
       "field": "Everyday speech"
-      "gloss": "light in colour; approaching white"
+      "gloss": "light in color; approaching white"
       "concept": "light-colour"
       "built": ["selan", "sini"]
       "note": "Ordinary separately spoken words; read with the head, modifier and clause constructions in Everyday speech."
@@ -6798,7 +6798,7 @@ Tone is level pitch, never a rising question tune. Each vowel has the high or lo
 
 A plain clause puts its subject first, object next and verb last: _Nimo salu seli_ means “I drink water,” literally “I water drink.” _Nimohe liho hira_ means “You give fish.” The receiver can be placed before the object with _pawa_, the word for movement toward an endpoint: _Nimo nimohe pawa liho hira_, “I give you fish.” The corresponding source word is _hewa_: _Nimo nimohe hewa liho tadi_, “I take fish from you.” Keep the receiver or source phrase together. A bare verb addresses the listener as an instruction: _Nela_, “Look,” and _Bami kele_, “Listen attentively.” A subject can be left out when the previous clause clearly supplies it; use it again to prevent a change of actor from becoming ambiguous.
 
-Verbs keep the same form for every person and number. _Kedi_ means “be” or “exist” and also closes an explicit description: _Luwa moro kedi_, “The river is deep.” A noun naming a state can stand in that description as well: _Nimo saluba kedi_, “I am thirsty,” literally “I am thirst.” For a noun naming an action, put _neloba_ before the verb: _neloba bami_ is hearing, whereas _bami_ tells someone to hear or listen. The head _neloba_ can introduce a longer action group too. This keeps a perceived thing, such as _senuba_, an odour, distinct from _senu_, to smell it. The dictionary's action nouns and verbal phrases show the intended use directly. _Nelobo_ is a sight, the thing or scene seen; _bamuba_ is a sound, the audible thing heard. These differ from the actions _neloba nelo_ and _neloba bami_. _Nebola_ is the appearance of any person, object or place: _luwa lako nebola_, “the river’s appearance”; _nimo nebola nelo_, “I see the appearance.” _Biko nelo_ remains a narrower conventional expression for a person’s appearance.
+Verbs keep the same form for every person and number. _Kedi_ means “be” or “exist” and also closes an explicit description: _Luwa moro kedi_, “The river is deep.” A noun naming a state can stand in that description as well: _Nimo saluba kedi_, “I am thirsty,” literally “I am thirst.” For a noun naming an action, put _neloba_ before the verb: _neloba bami_ is hearing, whereas _bami_ tells someone to hear or listen. The head _neloba_ can introduce a longer action group too. This keeps a perceived thing, such as _senuba_, an odor, distinct from _senu_, to smell it. The dictionary's action nouns and verbal phrases show the intended use directly. _Nelobo_ is a sight, the thing or scene seen; _bamuba_ is a sound, the audible thing heard. These differ from the actions _neloba nelo_ and _neloba bami_. _Nebola_ is the appearance of any person, object or place: _luwa lako nebola_, “the river’s appearance”; _nimo nebola nelo_, “I see the appearance.” _Biko nelo_ remains a narrower conventional expression for a person’s appearance.
 
 ### Nouns, qualities and possession
 
@@ -6822,7 +6822,7 @@ Time words precede the clause when they frame the whole event: _Habelo dabo nimo
 
 _Leno_ joins participants or complete clauses, _lano_ gives alternatives and _lino_ introduces a contrasting clause. _Yabo_ introduces the reason: _Nimo kolu kedi yabo rano kedi_, “I am in shelter because it is raining.” A condition comes first with _yabi_, followed by its result with _yabu_: _Yabi rano kedi, yabu nimo kolu kedi_, “If it rains, then I stay in shelter.” _Yemi pawa_ introduces a purpose; it is followed by the action being aimed at. In such connected speech, repeat a subject whenever the person changes. These words connect clauses without altering their internal order.
 
-A degree word follows its quality. _Melan mbaka_ is better; _melan mbaka bolu_ is best in the relevant set. The comparison's standard follows _hewa_: _Luwa moro mbaka hewa salu kolu_, “The river is deeper than the lake.” _Leli_ states equality in the property under discussion. _Mbaka_ and _sika_ give much and little; _mbaka gaban_ and _sika gaban_ say too much and too little for the present need. A physical quality stays distinct from a feeling or evaluation: _badan_ is heavy, _badan wano_ light in weight, and _selan sini_ light in colour.
+A degree word follows its quality. _Melan mbaka_ is better; _melan mbaka bolu_ is best in the relevant set. The comparison's standard follows _hewa_: _Luwa moro mbaka hewa salu kolu_, “The river is deeper than the lake.” _Leli_ states equality in the property under discussion. _Mbaka_ and _sika_ give much and little; _mbaka gaban_ and _sika gaban_ say too much and too little for the present need. A physical quality stays distinct from a feeling or evaluation: _badan_ is heavy, _badan wano_ light in weight, and _selan sini_ light in color.
 
 Numbers follow their noun. The series from one to ten is _nuka, nuke, nuki, nuko, nuku, meka, meke, meki, meko, meku_. State tens before units with _leno_: _meku nuke leno nuki_ is twenty-three, literally “ten two and three.” Multipliers follow the scale; _mekuba nuki_ is three hundred. _Keno_ after any cardinal gives its ordered position: _meku keno_, tenth; _meku nuke leno nuki keno_, twenty-third. Fractions name the denominator before _pali_, a division: _nuke pali_ is half and _nuko pali_ a quarter. A numerator can precede the whole fraction, as _nuki nuko pali_, three quarters.
 

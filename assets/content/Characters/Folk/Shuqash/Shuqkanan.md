@@ -40,6 +40,6 @@ Shuqkanan, Bright Bead, is the chief of [[place-kulaywil|Canoe Place]], the larg
 
 She has never joined a quarrel between towns, and every quarrel on the coast comes to her house sooner or later. At the [Holding of the Sun]{.name data-type="lore/gathering"} the chiefs feast in her house for four days while the counters line up before the Sky Elder, [[being-tiyupliq|Tiyupliq]], with their measuring cords, and the quarrels are heard at her fire. She listens more than she speaks and settles most of them by arranging that both sides owe her something.
 
-She is about fifty, heavy, slow-moving and very hard to surprise. A party that wants anything done on the [[place-shuqhalaqrgn|Bead Coast]], a canoe found, a debt collected, a quarrel ended, comes to her in the end. She helps in exchange for a favour named later, and she always names it.
+She is about fifty, heavy, slow-moving and very hard to surprise. A party that wants anything done on the [[place-shuqhalaqrgn|Bead Coast]], a canoe found, a debt collected, a quarrel ended, comes to her in the end. She helps in exchange for a favor named later, and she always names it.
 
 What she wants is every quarrel on the coast settled in her house, and none of them fought on her beach.

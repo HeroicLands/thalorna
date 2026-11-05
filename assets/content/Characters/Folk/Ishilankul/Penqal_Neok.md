@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-P'enqal Ne'ok is a 56-year-old man who stands 5'5" tall with a heavy build. He has golden skin, smooth complexion, grey hair, and dark brown eyes.
+P'enqal Ne'ok is a 56-year-old man who stands 5'5" tall with a heavy build. He has golden skin, smooth complexion, gray hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

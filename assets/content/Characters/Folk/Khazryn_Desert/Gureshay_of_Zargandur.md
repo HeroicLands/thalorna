@@ -35,13 +35,13 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [weathered, scarred]
-    extra_features: [a healed sabre cut across the left forearm, a rider's calluses on both palms]
+    extra_features: [a healed saber cut across the left forearm, a rider's calluses on both palms]
   packFolder: ankariskhazryndesert
 ---
 
 # Appearance {#appearance}
 
-Gureshay of Zargandur is a 27-year-old man who stands 6'0" tall and is of medium build. He has tawny skin weathered by the Kingdom's border marches, black hair cropped short in the soldier's fashion of Amradad, and amber eyes under straight black brows. A healed sabre cut runs white across his left forearm, and his palms are callused from the reins. In the court of his house he wears the black of Zargandur with a horse worked small in silver on the collar; on duty he wears a Kingdom officer's coat and carries the officer's lance-sabre as if he had been born holding it. He stands still when others fidget, and he looks at a room's doors before he looks at its people.
+Gureshay of Zargandur is a 27-year-old man who stands 6'0" tall and is of medium build. He has tawny skin weathered by the Kingdom's border marches, black hair cropped short in the soldier's fashion of Amradad, and amber eyes under straight black brows. A healed saber cut runs white across his left forearm, and his palms are callused from the reins. In the court of his house he wears the black of Zargandur with a horse worked small in silver on the collar; on duty he wears a Kingdom officer's coat and carries the officer's lance-saber as if he had been born holding it. He stands still when others fidget, and he looks at a room's doors before he looks at its people.
 
 # Dossier {#dossier}
 
@@ -98,7 +98,7 @@ He has no army. The Kingdom will not lend him one, the Council will not raise on
 
 1. **The count.** Gureshay pays, in Shebarakhend, for a true count of the Zhoqarod at every gate of Zargandur, at the weirs and on the three bridges, and of how fast the garrison is reinforced from the north pastures. A party caught counting is treated as spies.
 2. **A signet.** The court pays a fortune for a prince's signet out of the trench at [[place-relvanvesul|Relvanvesut]], where the palace household of Zargandur lies and where raiders already dig. Gureshay wants to know which of his house died in the palace and where.
-3. **The troop.** A Tellumi trooper of his has deserted with two horses and a Kingdom sabre, and has been seen riding east on the belt road. Gureshay wants him found before the Kingdom asks why a Tellumi prince's man is riding toward the held cities armed.
+3. **The troop.** A Tellumi trooper of his has deserted with two horses and a Kingdom saber, and has been seen riding east on the belt road. Gureshay wants him found before the Kingdom asks why a Tellumi prince's man is riding toward the held cities armed.
 
 :::secret {title="The bows in Zargandur"}
 Gureshay has a date. He means to ride on Zargandur on the night of the summer Festival of the Promise in four years' time, when most of the Zhoqarod warrior society is on [[place-mountshofar|Mount Shofar]] and the garrison is old men and boys. His men have been carrying silver into the Tellumi quarter of Zargandur for two years, and the silver has bought bows, which lie under the floors of three workshops near the north gate. Nimeshay's counting room pays for the silver and does not ask where it goes.

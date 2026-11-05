@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [commoner]
-  occupation: Labourer (semi-skilled)
+  occupation: Laborer (semi-skilled)
   lore: []
   culture: tarvenanclt
   homes: [nebralis]

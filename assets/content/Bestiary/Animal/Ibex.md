@@ -258,7 +258,7 @@ Ibex live on the cliff faces, mesa tops and canyon walls of the Dunhara Desert, 
 
 ## Key Behaviors
 
-Ibex live in groups of the same sex for most of the year, females and kids on the best cliffs and bachelor males on the ground nearby, and come together for the winter rut. Bucks settle rank by rearing and crashing headfirst, with a crack that echoes through the canyons, for hours at a time. They feed in the cool hours on the tough plants of crevices, ledges and mesa tops and come down to water at night. Their defence is to go up where nothing can follow. Kids climb within days of birth. They need water more often than oryx or gazelle, which ties them to ground near springs.
+Ibex live in groups of the same sex for most of the year, females and kids on the best cliffs and bachelor males on the ground nearby, and come together for the winter rut. Bucks settle rank by rearing and crashing headfirst, with a crack that echoes through the canyons, for hours at a time. They feed in the cool hours on the tough plants of crevices, ledges and mesa tops and come down to water at night. Their defense is to go up where nothing can follow. Kids climb within days of birth. They need water more often than oryx or gazelle, which ties them to ground near springs.
 
 ## What the Hunters Do
 

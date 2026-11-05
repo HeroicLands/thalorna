@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Kotsude Kanarris is a 68-year-old man who stands 5'11" tall with a medium build. He has olive skin, sun-kissed complexion, dark brown hair, and grey eyes.
+Kotsude Kanarris is a 68-year-old man who stands 5'11" tall with a medium build. He has olive skin, sun-kissed complexion, dark brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

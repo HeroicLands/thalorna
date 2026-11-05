@@ -37,7 +37,7 @@ data:
 
 # Appearance {#appearance}
 
-Ardemos Velthamen is a 51-year-old man who stands 6'0" tall and is of heavy build. He has skin tanned and toughened by a life outdoors, green eyes, a nose broken and set crooked, and greying brown hair worn in a single long braid. He dresses like his own foresters, in leather and undyed wool, with a baron's silver chain over it only when he goes up to the holy city. His hands are scarred across the knuckles by rope and bark. He talks loudly, swears by the trees, and laughs at his own jokes before he finishes them.
+Ardemos Velthamen is a 51-year-old man who stands 6'0" tall and is of heavy build. He has skin tanned and toughened by a life outdoors, green eyes, a nose broken and set crooked, and graying brown hair worn in a single long braid. He dresses like his own foresters, in leather and undyed wool, with a baron's silver chain over it only when he goes up to the holy city. His hands are scarred across the knuckles by rope and bark. He talks loudly, swears by the trees, and laughs at his own jokes before he finishes them.
 
 # Dossier {#dossier}
 
@@ -90,8 +90,8 @@ He holds his land of a temple and cannot defy its prior for long. He speaks befo
 
 ## Plot Hooks
 
-1. **The grey stand above Dremenna.** A stand at the head of the valley has gone grey in midsummer, the first in Ardemos's forest. The village elder of Dremenna wants it cut and burned before the prior hears of it, Ardemos wants it left for the king to see, and the carvers want a party to tell them which of the two to obey.
-2. **What the woodsmen fear.** His oldest woodsmen will not go into the upper valley after dark since the stand went grey, and will not say why. Ardemos thinks they are being foolish, and wants a party to spend a night there and prove it.
+1. **The gray stand above Dremenna.** A stand at the head of the valley has gone gray in midsummer, the first in Ardemos's forest. The village elder of Dremenna wants it cut and burned before the prior hears of it, Ardemos wants it left for the king to see, and the carvers want a party to tell them which of the two to obey.
+2. **What the woodsmen fear.** His oldest woodsmen will not go into the upper valley after dark since the stand went gray, and will not say why. Ardemos thinks they are being foolish, and wants a party to spend a night there and prove it.
 3. **The baron's case.** Ardemos means to put his case against the contracts to the king's court and needs evidence: the dates each valley was cut and the dates each stand died. The prior's forester keeps the book, and will not lend it.
 4. **The king's hunt.** Ardemos is gathering the barons for the king's hunt toward Moktur and wants a party to ride ahead and see that no temple's men are waiting in the forest.
 

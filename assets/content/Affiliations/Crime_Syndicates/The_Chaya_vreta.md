@@ -84,7 +84,7 @@ That is the whole of the difference, and it is enough. The [Council of the Dream
 
 Three things, and the third is the one people pay for.
 
-The **misdirection**: a person looks at the thing and does not see it, or looks away at the moment that matters and cannot afterwards say why.
+The **misdirection**: a person looks at the thing and does not see it, or looks away at the moment that matters and cannot afterward say why.
 
 The **errand nobody recalls**: a message delivered, a door opened, a seal carried, and a person who did all three and remembers a dull afternoon.
 

@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Flarnthann Braldaruk is a 50-year-old man who stands 6'0" tall with a medium build. He has light skin, weathered complexion, blonde hair, and grey eyes.
+Flarnthann Braldaruk is a 50-year-old man who stands 6'0" tall with a medium build. He has light skin, weathered complexion, blonde hair, and gray eyes.
 
 # Dossier {#dossier}
 

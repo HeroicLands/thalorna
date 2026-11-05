@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Nulthira is a 36-year-old woman who stands 5'7" tall with a light build. She has pale skin, smooth complexion, auburn hair, and grey eyes.
+Nulthira is a 36-year-old woman who stands 5'7" tall with a light build. She has pale skin, smooth complexion, auburn hair, and gray eyes.
 
 # Dossier {#dossier}
 

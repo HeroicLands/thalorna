@@ -414,7 +414,7 @@ sohl:
 
 # Appearance {#appearance}
 
-A bough high in the canopy shivers and something pale-bellied lets go of it. It drops, and the loose fold of skin from its wrist to its ankle opens into a flat grey-green sail. It slides across the gap between two trees with a hundred yards of forest below it, banks on its flat tail, and lands head-up on a trunk with its large dark eyes turned toward you. It has crossed the whole of the clearing without touching the ground.
+A bough high in the canopy shivers and something pale-bellied lets go of it. It drops, and the loose fold of skin from its wrist to its ankle opens into a flat gray-green sail. It slides across the gap between two trees with a hundred yards of forest below it, banks on its flat tail, and lands head-up on a trunk with its large dark eyes turned toward you. It has crossed the whole of the clearing without touching the ground.
 
 # Dossier {#dossier}
 
@@ -422,7 +422,7 @@ The Canopy Glider, _luorithuri_ in [[skill-kalihrlng|Kalihari]], "canopy wind", 
 
 ## Presentation
 
-A long-limbed animal about the size of a cat, grey-green above and pale below, with a soft, close coat, a flat tail and large dark eyes set for night sight. At rest the skin-fold lies in loose pleats along its flanks and it looks like an ordinary climbing animal. Spread, it is a flat sheet with the limbs at its corners and the tail trailing as a rudder.
+A long-limbed animal about the size of a cat, gray-green above and pale below, with a soft, close coat, a flat tail and large dark eyes set for night sight. At rest the skin-fold lies in loose pleats along its flanks and it looks like an ordinary climbing animal. Spread, it is a flat sheet with the limbs at its corners and the tail trailing as a rudder.
 
 ## In the Land
 

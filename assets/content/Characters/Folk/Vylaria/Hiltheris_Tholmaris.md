@@ -71,7 +71,7 @@ She trusted her partner, and she lost the argument with him in front of the Orde
 
 ### Enemies
 
-- [[being-azatodmzns|Azato Damzanis]]: Her partner in the work and then her public critic, the last colleague she quarrelled with before her death.
+- [[being-azatodmzns|Azato Damzanis]]: Her partner in the work and then her public critic, the last colleague she quarreled with before her death.
 
 ### Affiliations
 
@@ -81,7 +81,7 @@ She trusted her partner, and she lost the argument with him in front of the Orde
 ## Plot Hooks
 
 1. **The old records.** An apprentice of the Epistémion finds references in old records to a project Hiltheris and Azato Damzanis worked on together before their public rupture, and asks innocent questions about it. A party asked to find the rest of the records finds that someone has been asking for them before.
-2. **The pupils.** A former pupil of Hiltheris, now a _therman_ (licensed practitioner), wants to republish her mistress's theory with a defence of it, and hires a party to find Hiltheris's working notes, which went missing at her death.
+2. **The pupils.** A former pupil of Hiltheris, now a _therman_ (licensed practitioner), wants to republish her mistress's theory with a defense of it, and hires a party to find Hiltheris's working notes, which went missing at her death.
 3. **The grave.** Hiltheris's family asks a party to escort her remains from a temporary tomb to the family's own, and the Sekran's notary asks to be present when the tomb is opened.
 
 :::secret {title="The shared project and the dormant file"}

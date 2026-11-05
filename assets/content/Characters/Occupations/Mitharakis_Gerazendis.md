@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Mitharakis Gerazendis is a 49-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows and give him a measured gaze. He has a prominent nose and narrow lips. He has light skin with a weathered complexion. His grey hair is short and swept back. Out of motley he dresses like a prosperous clerk, and nobody who passes him in the street takes him for a fool.
+Mitharakis Gerazendis is a 49-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows and give him a measured gaze. He has a prominent nose and narrow lips. He has light skin with a weathered complexion. His gray hair is short and swept back. Out of motley he dresses like a prosperous clerk, and nobody who passes him in the street takes him for a fool.
 
 # Dossier {#dossier}
 

@@ -70,7 +70,7 @@ A knight who breaks his oath is Forsworn. His own small lamp, lit for him on the
 
 ## The Order's Houses
 
-The chapter house stands over the main gate of the holy city, a tall block of grey stone with stables in the gate-passage below and the order's lamp in a window over the arch, where it is the first light a traveler on the road sees of Nartun. The Master lives there, with the council of elder knights and about a hundred knights and their novices.
+The chapter house stands over the main gate of the holy city, a tall block of gray stone with stables in the gate-passage below and the order's lamp in a window over the arch, where it is the first light a traveler on the road sees of Nartun. The Master lives there, with the council of elder knights and about a hundred knights and their novices.
 
 The chapels stand at the kingdom's borders and at the crossings of its forest roads, each kept by an elder knight called the Keeper of the Lamp with a dozen knights or fewer. The best known stands on the kingdom's bank of the border stream below the Hilen march-town of [[place-ashenmere|Ashenmere]], directly opposite a forge-shrine of the Sacred Forge, and the stretch of water between the chapel lamp and the forge-fire is called the Two Lights.
 

@@ -18,7 +18,7 @@ data:
     - lore-hvarnclt
   lang: hvar
 
-# terran_analog: "The Irish dindshenchas, in which a place is known by who died there; the itinerary of stations in Numbers 33, one camp to a line in the order walked; the Icelandic lawspeaker reciting at the Law Rock and corrected by those present. Departs: the catalogue is ordered by ground rather than by time, it gives the dead no fate, and a disputed correction is kept as a second line rather than settled."
+# terran_analog: "The Irish dindshenchas, in which a place is known by who died there; the itinerary of stations in Numbers 33, one camp to a line in the order walked; the Icelandic lawspeaker reciting at the Law Rock and corrected by those present. Departs: the catalog is ordered by ground rather than by time, it gives the dead no fate, and a disputed correction is kept as a second line rather than settled."
 ---
 
 **The Roll of the Upper Shelf** is the part of the Hvarn roll, _rouzen_, that walks the upper shelf of [[place-jnanadvar|Jnanadvar]], recited each winter by the Bone-bringer in the middle of the long house at [[place-nurvhrn|Nurvharn]]. The roll is not kept in the order people died. It is kept in the order the ground is walked: from the foot of a crossing to its summit, place by place, and at each place the dead found there, the oldest first. To recite the roll is to walk the road aloud, and a Roadwalker who has heard it every winter of his life knows each stone of the shelf before he has set a foot on it.

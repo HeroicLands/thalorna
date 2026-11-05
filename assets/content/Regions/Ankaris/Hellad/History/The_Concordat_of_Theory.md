@@ -69,7 +69,7 @@ A teacher of the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledg
 ## The Terms
 
 - **Theory.** A philosopher may study, teach and dispute arcane theory without belonging to the Order.
-- **Practice.** A man who practices without the Order's licence is the Order's concern and not the city's.
+- **Practice.** A man who practices without the Order's license is the Order's concern and not the city's.
 - **The colleges.** The [[affiliation-panepistmm|Epistémion]]'s colleges in the two cities teach their students theory under the Concordat, and the councils answer for what the colleges teach.
 
 The Concordat says nothing about the line between the first two. Both sides know the line exists, and both have argued about it since the terms were signed.

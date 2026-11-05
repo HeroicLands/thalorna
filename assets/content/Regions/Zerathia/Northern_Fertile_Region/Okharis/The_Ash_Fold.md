@@ -12,9 +12,9 @@ East of [[place-zarhanis|Zarhanis]], where the cattle country opens out and the 
 
 ## What Is There
 
-Shuremis was a temple estate of the kind the temples hold across the grazing country: a granary for the tribute-grain, pens for the temple's herds and a yard of bondsmen who worked both. The estate has a cairn at its gate, as every estate does, with the flame-mark cut into the capstone. The mark has been chiselled out, and the stone beneath is black.
+Shuremis was a temple estate of the kind the temples hold across the grazing country: a granary for the tribute-grain, pens for the temple's herds and a yard of bondsmen who worked both. The estate has a cairn at its gate, as every estate does, with the flame-mark cut into the capstone. The mark has been chiseled out, and the stone beneath is black.
 
-The grain-pits under the granary floor are filled to the lip with fine grey ash. The pens beyond them are empty of cattle that anyone owns. The cattle that stand in them have the shape of cattle and the color of a banked hearth, and they do not eat. They face the granary all night, and at dawn they walk out onto the grazing and stand in the herders' way.
+The grain-pits under the granary floor are filled to the lip with fine gray ash. The pens beyond them are empty of cattle that anyone owns. The cattle that stand in them have the shape of cattle and the color of a banked hearth, and they do not eat. They face the granary all night, and at dawn they walk out onto the grazing and stand in the herders' way.
 
 Under the granary there is a fire. It was not kindled from any ember carried from a temple. It burns without light, and a flame brought into its hall leans toward it and goes out. The Okharin creed is that the Flame renews only what is given to it. This fire is the plain reverse of the creed: it takes and gives nothing back, and the herds that stray within its reach come out as ash on four legs.
 

@@ -443,7 +443,7 @@ He has no enemy of his own. The clerks of the [[affiliation-tanaduni|Tanaduni]],
 
 ## Plot Hooks
 
-1. **The terraces.** The veterans ploughing the marked plots on [[place-khamisar|Khamisar]]'s southern terraces ask Kubasan to put their claim to the land in proper form before the marines clear them for the [[lore-fleetreview|Fleet Review]]. A claim needs the promise it rests on, and nobody in the quarter has a copy of it.
+1. **The terraces.** The veterans plowing the marked plots on [[place-khamisar|Khamisar]]'s southern terraces ask Kubasan to put their claim to the land in proper form before the marines clear them for the [[lore-fleetreview|Fleet Review]]. A claim needs the promise it rests on, and nobody in the quarter has a copy of it.
 2. **The shipwright's letter.** The shipwright of the yards who did not come back through the gate after the evening bell had Kubasan write a letter for him the week before, to a man at an inn on the switchback road whose name he would not give. Kubasan has the fair copy.
 3. **The unread clause.** A captain of the League brings him a crew's articles to copy fair, and one clause in them gives the owners the crew's share of any prize taken in the narrows. Kubasan wants it read aloud before the crew signs, and the captain does not.
 4. **The rent.** A clerk of the Tanaduni offers to pay a year of the rent on Kubasan's table in return for a fair copy of every claim the quarter brings him before it goes up to the height.

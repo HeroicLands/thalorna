@@ -28,7 +28,7 @@ data:
     - lore-akhdivriver
   lang: khel
 
-# terran_analog: "Royal victory stelae and the Kadesh inscriptions, for the dated heading, the king's titles, the verb-first boast and the count of plunder at a gate; the victory stela of a conqueror from outside the valley written for him by the valley's own scribes; and memorial lists of the fallen, row by row. Departs: the catalogue of the slain is a column of entries with the names left open, filled one by one as families bring them."
+# terran_analog: "Royal victory stelae and the Kadesh inscriptions, for the dated heading, the king's titles, the verb-first boast and the count of plunder at a gate; the victory stela of a conqueror from outside the valley written for him by the valley's own scribes; and memorial lists of the fallen, row by row. Departs: the catalog of the slain is a column of entries with the names left open, filled one by one as families bring them."
 ---
 
 A stone stands at the upstream end of [[place-zelhalzi|Zel-Halzi]], the Unmeasured Field, on the west-bank floodplain below [[place-lenennezut|Lenen-Nezut]], where the road leaves the field's edge to bend round it. It is **the Stela of Kuz'Uqa at Zel-Halzi**, _Qedlet elu Kuz'Uqa_, a _qedlet_ of the [[lore-khelathiclt|Khelathi]] royal kind: a dated heading, the throne name in its chain of titles, the deeds in the old formulas with the verb first, the plunder counted at a gate, and the enemy set under the king's feet.

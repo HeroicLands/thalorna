@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Korvathos Volkemates is a 47-year-old man who stands 5'7" tall and is of medium build, though he has grown thinner than his clothes. He has tanned skin, black hair with little grey in it, and pale blue eyes in a face that has hollowed this past year. He coughs and does not acknowledge it. He dresses as a border lord does, in good wool and a fur collar, with a sword he still wears every day, and he greets guests at his tower's door himself.
+Korvathos Volkemates is a 47-year-old man who stands 5'7" tall and is of medium build, though he has grown thinner than his clothes. He has tanned skin, black hair with little gray in it, and pale blue eyes in a face that has hollowed this past year. He coughs and does not acknowledge it. He dresses as a border lord does, in good wool and a fur collar, with a sword he still wears every day, and he greets guests at his tower's door himself.
 
 # Dossier {#dossier}
 

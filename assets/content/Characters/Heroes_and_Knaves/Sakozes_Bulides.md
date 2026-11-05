@@ -422,7 +422,7 @@ sohl:
 
 ![[flndrsbldds|Sakozes Bulides]]{float=top-left}
 
-Sakozes stands 5'9" tall with a medium build. He has sun-tanned skin, greying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, greying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
+Sakozes stands 5'9" tall with a medium build. He has sun-tanned skin, graying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, graying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
 
 # Dossier {#dossier}
 

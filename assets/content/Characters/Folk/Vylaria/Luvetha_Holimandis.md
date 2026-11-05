@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Luvetha Holimandis was a woman of 23 when she died, 5'8" tall and of medium build, with light, smooth skin, dark brown hair and hazel eyes. Those who knew her before her illness remember a tall young woman who laughed easily. The sickness that killed her wasted her slowly, and the people who sat with her at the end remember her thin and grey.
+Luvetha Holimandis was a woman of 23 when she died, 5'8" tall and of medium build, with light, smooth skin, dark brown hair and hazel eyes. Those who knew her before her illness remember a tall young woman who laughed easily. The sickness that killed her wasted her slowly, and the people who sat with her at the end remember her thin and gray.
 
 # Dossier {#dossier}
 

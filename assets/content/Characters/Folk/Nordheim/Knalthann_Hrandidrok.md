@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Knalthann Hrandidrok is a 26-year-old man who stands 6'1" tall with a medium build. He has pale skin, weathered complexion, brown hair, and grey eyes.
+Knalthann Hrandidrok is a 26-year-old man who stands 6'1" tall with a medium build. He has pale skin, weathered complexion, brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

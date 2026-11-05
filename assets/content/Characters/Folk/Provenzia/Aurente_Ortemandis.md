@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Aurente Ortemandis is a 37-year-old man who stands 5'7" tall with a light build. He has olive skin, smooth complexion, red hair, and grey eyes.
+Aurente Ortemandis is a 37-year-old man who stands 5'7" tall with a light build. He has olive skin, smooth complexion, red hair, and gray eyes.
 
 # Dossier {#dossier}
 

@@ -65,7 +65,7 @@ Half the company died in the valley. The muster took most of the rest alive, whi
 - **Falkenstein's watch.** The hill fort has been manned in every season since, and its War Chief's word carries further inside its timber ring than any War Chief's in the forest.
 - **The Hall's caution.** The Compact tells the story to every new captain, and a company that signs to take ground in Vristwald signs knowing what the Stormhand found there.
 - **The ransom.** The largest the forest ever took, and the reason the Nordmal halls of the [[place-nalthmark|Nalthmark]] still say, sourly, that the Varokh are reasonable people to lose to.
-- **The valley.** A wooded valley a week inside the frontier with rusted mail in its leaf-mould and nothing else; the Varokh treat it as ordinary ground, because it is.
+- **The valley.** A wooded valley a week inside the frontier with rusted mail in its leaf-mold and nothing else; the Varokh treat it as ordinary ground, because it is.
 
 ## See Also
 

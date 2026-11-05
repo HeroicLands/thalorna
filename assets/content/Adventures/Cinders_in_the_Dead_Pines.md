@@ -3,7 +3,7 @@ shortcode: blackfireblkkln
 name: {full: Cinders in the Dead Pines}
 type: scenario
 subType: adventure
-description: "In a ruined priory ringed by grey pines a black fire still burns, and the dead who guard it kneel at the door as if in prayer."
+description: "In a ruined priory ringed by gray pines a black fire still burns, and the dead who guard it kneel at the door as if in prayer."
 tags: [draft]
 data:
   parents: []
@@ -32,7 +32,7 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 
 **Purpose.** Show the fire's reach and put the dead on guard.
 
-**Situation.** The charcoal road runs between pines gone grey and brittle. Cairns mark each furlong and each cairn has a charred bone set in its top. The heat reaches the road at dusk and the air smells of hot iron. In the clearing, a figure in blackened mail kneels at the chapel door, a long sword across his knees.
+**Situation.** The charcoal road runs between pines gone gray and brittle. Cairns mark each furlong and each cairn has a charred bone set in its top. The heat reaches the road at dusk and the air smells of hot iron. In the clearing, a figure in blackened mail kneels at the chapel door, a long sword across his knees.
 
 **NPCs and threats.** The **cinder-sentry** is the cell's dead gatekeeper, a charred man in the cell's mail who kneels as if in prayer and rises when a living step crosses the threshold. He is slow and strong, shedding ash at every step. His blade is hot enough to scorch wood. The pines around him shed dry needles that catch easily, and the clearing is a tinderbox.
 
@@ -48,7 +48,7 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 
 **Purpose.** Give the party the priory's history and a hard choice about the one living thing in it.
 
-**Situation.** In the chapel's nave, under a patch of surviving roof, a man in a grey robe sits on a stool beside a cold brazier. [Tamsen Orlick]{.name data-type="being/npc"} is a lay brother of [[affiliation-selmoros|Sélmoros]] who has kept a vigil at the priory for eleven years, sent by his order to see that the fire does not spread. He has a sack of salt, a bell, and a half-written record.
+**Situation.** In the chapel's nave, under a patch of surviving roof, a man in a gray robe sits on a stool beside a cold brazier. [Tamsen Orlick]{.name data-type="being/npc"} is a lay brother of [[affiliation-selmoros|Sélmoros]] who has kept a vigil at the priory for eleven years, sent by his order to see that the fire does not spread. He has a sack of salt, a bell, and a half-written record.
 
 **NPCs and threats.** Tamsen Orlick is gaunt, courteous and tired. He fears the fire and feels responsible for the dead, who he believes can be released if the fire is quenched. He is lying about one thing: he has been feeding the fire himself, small offerings of his own blood, to keep the dead quiet, and the fire has begun to answer him.
 
@@ -66,7 +66,7 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 
 **Situation.** The crypt is a vault of black stone with three braziers set in niches along its length and a stair beyond them. The braziers are cold. The air is hot and still, and the walls are warm to the touch. A tablet by the stair gives the Black Flame's order of rites in blackened letters.
 
-**NPCs and threats.** The fire is the threat. A brazier lit in the wrong order flares black and the dead stir in the walls. The **ash-brothers**, Aspirants of the cell, rise from the niches as grey, silent figures that move in the dark without light, and they put out any lamp. The only light in the crypt is the party's own, and every lamp is put out in turn.
+**NPCs and threats.** The fire is the threat. A brazier lit in the wrong order flares black and the dead stir in the walls. The **ash-brothers**, Aspirants of the cell, rise from the niches as gray, silent figures that move in the dark without light, and they put out any lamp. The only light in the crypt is the party's own, and every lamp is put out in turn.
 
 **Player choices.** Force: fight the ash-brothers in the dark. Stealth: cross the crypt along the wall by touch. Guile: light the braziers in the order the tablet gives, reading it as the cell's rites. Parley: speak the cell's rites over the dead and ask for passage.
 

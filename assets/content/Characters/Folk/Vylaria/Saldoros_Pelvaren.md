@@ -41,7 +41,7 @@ data:
 
 # Appearance {#appearance}
 
-Saldoros Pelvaren is a 54-year-old man who stands 5'11" tall and is of heavy build. He has fair skin weathered by years on the walls, close-cropped grey hair, and pale blue eyes, and an old lance scar crosses the bridge of his nose. He wears the white surcoat with the lamp on the breast over plain mail even in the chapter house, and walks with a stiff right knee that he does not favor in company. His voice is a parade-ground voice kept low indoors, and he listens with his arms folded.
+Saldoros Pelvaren is a 54-year-old man who stands 5'11" tall and is of heavy build. He has fair skin weathered by years on the walls, close-cropped gray hair, and pale blue eyes, and an old lance scar crosses the bridge of his nose. He wears the white surcoat with the lamp on the breast over plain mail even in the chapter house, and walks with a stiff right knee that he does not favor in company. His voice is a parade-ground voice kept low indoors, and he listens with his arms folded.
 
 # Dossier {#dossier}
 

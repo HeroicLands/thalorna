@@ -35,7 +35,7 @@ data:
 
 **The audit.** Tirmana believes the treasury's strongroom is short, though she does not know by how much or why. She is right. [[being-yshdyjkdn|Yushuduya Jakuduni]], the Kubasum, entered Vylaria's unpaid war indemnity in the ledger as gold held in the vault. It was the only way to make the first script good, and it has stayed on the books since. An audit would find the gap in a day. Tirmana has not considered what the coast's paper is worth on the morning after.
 
-**The house's own debt.** When the Qizikuni strongroom ran low early in the war, Tirmana borrowed from Khelathi lenders through a broker of the [[affiliation-mrchntryvl|Merchantry of the Veil]], on notes in the house's name entered in none of its books. The notes lie in the head factor's strongbox at the Khelathi factorage on the Guild Quarter. [[affiliation-empireakhlth|Au'Khelathu]] spent more on Taruzel's war than it meant to, and the head factor now asks, gently, when the houses mean to pay something down. Tirmana pays a little each quarter and finds the coin by calling in what the cities owe the Compact sooner and dearer. The calls fall on the harbour streets and the veterans' halls.
+**The house's own debt.** When the Qizikuni strongroom ran low early in the war, Tirmana borrowed from Khelathi lenders through a broker of the [[affiliation-mrchntryvl|Merchantry of the Veil]], on notes in the house's name entered in none of its books. The notes lie in the head factor's strongbox at the Khelathi factorage on the Guild Quarter. [[affiliation-empireakhlth|Au'Khelathu]] spent more on Taruzel's war than it meant to, and the head factor now asks, gently, when the houses mean to pay something down. Tirmana pays a little each quarter and finds the coin by calling in what the cities owe the Compact sooner and dearer. The calls fall on the harbor streets and the veterans' halls.
 
 **The factor's offer.** The same head factor has twice offered Yushuduya bullion to make the book and the vault agree, against the Confederation's acknowledgment of the war debt. She has refused twice.
 
@@ -97,7 +97,7 @@ The Qizikuni counting-house on the quay, at the hour the evening clearing closes
 
 **Purpose.** A search, a witness, and a choice of master.
 
-**Situation.** Khamisar, the fortress island, where the clerk has gone to ground in a lodging below the signal towers. Every traveller on the ridge is logged.
+**Situation.** Khamisar, the fortress island, where the clerk has gone to ground in a lodging below the signal towers. Every traveler on the ridge is logged.
 
 **NPCs and threats.** The clerk, terrified; a Qizikuni agent who is also looking; and the tower-wardens, whose logs say who went where. The agent prefers a bribe to a fight and is good with a knife if it comes to one.
 

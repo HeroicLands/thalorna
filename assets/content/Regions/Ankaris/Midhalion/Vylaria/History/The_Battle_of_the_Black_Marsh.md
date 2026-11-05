@@ -63,7 +63,7 @@ data:
         - how many of the dead lie in the marsh and how many were carried out for the pyres
 ---
 
-A sergeant of the watch at [[place-dolvar|Dolvar]], teaching a recruit to count smoke from the wall at dusk, points down the valley to where the light goes grey and flat. "That is the marsh," he says. "We do not look at it. We look at the forest. Anything that comes out of the forest, we count. Anything that went into the marsh, we leave."
+A sergeant of the watch at [[place-dolvar|Dolvar]], teaching a recruit to count smoke from the wall at dusk, points down the valley to where the light goes gray and flat. "That is the marsh," he says. "We do not look at it. We look at the forest. Anything that comes out of the forest, we count. Anything that went into the marsh, we leave."
 
 ## The Eagle in the Forest
 

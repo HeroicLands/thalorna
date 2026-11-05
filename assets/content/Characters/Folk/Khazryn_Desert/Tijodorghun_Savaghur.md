@@ -57,7 +57,7 @@ He has mentored [[being-rznshmrvrn|Razanash Mervaran]] in the tribe's own ways s
 
 ### Personality
 
-He is mild, slow and stubborn, and he has a dry sense of humour that the young shamans do not always catch. He prefers the sky to people and children to adults. He is not easily impressed, and he is impressed by Razanash.
+He is mild, slow and stubborn, and he has a dry sense of humor that the young shamans do not always catch. He prefers the sky to people and children to adults. He is not easily impressed, and he is impressed by Razanash.
 
 ### Motivation
 

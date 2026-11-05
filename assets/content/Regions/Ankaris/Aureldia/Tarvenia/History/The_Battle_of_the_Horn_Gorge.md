@@ -70,7 +70,7 @@ The mountain lord [Tórsaro]{.name data-type="being/npc"} knew that a legion wou
 
 ## What the Empire Did
 
-[[affiliation-vylarinmpr|Vylaria]] never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of [[lore-westernwars|the Western Wars]] says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgement.
+[[affiliation-vylarinmpr|Vylaria]] never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of [[lore-westernwars|the Western Wars]] says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgment.
 
 ## What It Left
 

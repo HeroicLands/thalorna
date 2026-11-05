@@ -18,7 +18,7 @@ data:
 
 "Do not count what the ring weighs," a clerk of the Hringvordur, the keeper of the rings the king gives, tells a newcomer standing at the back of the hall at Knalthstead. "Count who is watching when it is handed over." Knalthstead is the seat of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], whose king holds the realm only as long as the ting goes on handing back his arm-ring, and the hall here is where that handing-back is watched most closely. A hringberi slighted at this hall is slighted in front of every clan with business here, which makes a king's generosity a public performance and not a private virtue.
 
-Fifteen hundred people live inside and hard against the town's timber ramparts, more than in any other settlement of the kingdom. The wall is there because a capital cannot afford to lose what it keeps: the king's hall, the court where a niding is named and a wergild reckoned, and the gaol below it, where a man waits on the ting's word. The name is older than the hall. _Knalth-_ is the hard grade of the stem for an oath that needs no scribe to bind it, and a stead built on that word answers for every oath the kingdom swears in its own name.
+Fifteen hundred people live inside and hard against the town's timber ramparts, more than in any other settlement of the kingdom. The wall is there because a capital cannot afford to lose what it keeps: the king's hall, the court where a niding is named and a wergild reckoned, and the jail below it, where a man waits on the ting's word. The name is older than the hall. _Knalth-_ is the hard grade of the stem for an oath that needs no scribe to bind it, and a stead built on that word answers for every oath the kingdom swears in its own name.
 
 ## The Harbor and the Hall
 

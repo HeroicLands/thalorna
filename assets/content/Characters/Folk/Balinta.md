@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Balinta is a 46-year-old woman who stands 5'11" tall with a heavy build. She has golden skin, greying black hair, and brown eyes.
+Balinta is a 46-year-old woman who stands 5'11" tall with a heavy build. She has golden skin, graying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

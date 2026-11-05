@@ -401,7 +401,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vurn stands 5'7" and is built narrow and long in the arm, with the light frame of a man who spends the open months on a rope and the closed months on short rations. His skin is tanned and weathered, his black hair is cut short above the ears, and his eyes are a pale grey that looks lighter against the snow-burn. Both palms are crossed with old rope-burn, white and shiny, from the day he held a party's weight on a shelf alone.
+Vurn stands 5'7" and is built narrow and long in the arm, with the light frame of a man who spends the open months on a rope and the closed months on short rations. His skin is tanned and weathered, his black hair is cut short above the ears, and his eyes are a pale gray that looks lighter against the snow-burn. Both palms are crossed with old rope-burn, white and shiny, from the day he held a party's weight on a shelf alone.
 
 He wears leather over wool and a beaver cloak, and he carries three ropes, greased dark, coiled over the pack. When he is asked his name he answers with a place.
 

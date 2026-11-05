@@ -3,7 +3,7 @@ shortcode: lstbtnrrws
 name: {full: The Last Boat Through the Narrows}
 type: scenario
 subType: adventure
-description: "In the last days before Taruzel's Fleet Review the veterans plough the plots they were promised, crates of the empire's crossbows lie under a cooper's floor, a League galley waits off the cape, and the man every side wants at the head of the rising answers nobody."
+description: "In the last days before Taruzel's Fleet Review the veterans plow the plots they were promised, crates of the empire's crossbows lie under a cooper's floor, a League galley waits off the cape, and the man every side wants at the head of the rising answers nobody."
 tags: []
 data:
   parents: []
@@ -27,11 +27,11 @@ data:
 
 ## Overview {#overview}
 
-On the fourteenth of Brazemandi [[place-yamuzel2|Yamuzel]] holds the [[lore-fleetreview|Fleet Review]] for the victory at the Tamzir Shoals. The Corsair League's galleys call their oars under the Grand Council's stand on the wall of [[place-straitfortress|the Strait Fortress]], and the veterans' small boats come down the narrows at the tail of the line. This year the halls of the Veterans' Quarter, the outlaw captains and the harbour veterans mean to rise on that morning. The party arrives in the last days before the Review, on a hall's errand, a guild's job or a captain's passage, and the plan reaches it from every side. Nobody has agreed to lead the rising, and the man the halls want has not answered them.
+On the fourteenth of Brazemandi [[place-yamuzel2|Yamuzel]] holds the [[lore-fleetreview|Fleet Review]] for the victory at the Tamzir Shoals. The Corsair League's galleys call their oars under the Grand Council's stand on the wall of [[place-straitfortress|the Strait Fortress]], and the veterans' small boats come down the narrows at the tail of the line. This year the halls of the Veterans' Quarter, the outlaw captains and the harbor veterans mean to rise on that morning. The party arrives in the last days before the Review, on a hall's errand, a guild's job or a captain's passage, and the plan reaches it from every side. Nobody has agreed to lead the rising, and the man the halls want has not answered them.
 
 ## What Is Really Happening {#what-is-really-happening}
 
-**The plan.** The Old Hands of the Yamuzel halls of the [[affiliation-unchained|Unchained]], the [[affiliation-freecaptains|Free Captains]] and the harbour veterans mean the veterans' boats to close the line through the narrows on the morning of the Review, while the councilors stand on the fortress wall within a bowshot of them. What happens then is not settled, because the rising has no head. [[being-rzznpddn|Razzina Padduni]]'s hall is where it is talked over.
+**The plan.** The Old Hands of the Yamuzel halls of the [[affiliation-unchained|Unchained]], the [[affiliation-freecaptains|Free Captains]] and the harbor veterans mean the veterans' boats to close the line through the narrows on the morning of the Review, while the councilors stand on the fortress wall within a bowshot of them. What happens then is not settled, because the rising has no head. [[being-rzznpddn|Razzina Padduni]]'s hall is where it is talked over.
 
 **The captain.** Every side courts [[being-zbzmjkdn|Zabuzum Jakuduni]], captain of [[affiliation-thetamzir|the Tamzir]]: the halls, [[being-ashurazhitus|Ashuraz Hitusuni]] of the Merchantry, and a Vylarian agent whose servant has been seen on the Tamzir's quay. He has answered none of them.
 
@@ -67,17 +67,17 @@ The Veterans' Quarter of Yamuzel at dusk, a week before the Review. Every hall i
 
 **Purpose.** Show the promise that was broken, on the ground.
 
-**Situation.** Dawn on the south slope of Khamisar. Veterans plough marked plots with painted stones. Marines come up the path to clear them, and the marines are veterans' sons.
+**Situation.** Dawn on the south slope of Khamisar. Veterans plow marked plots with painted stones. Marines come up the path to clear them, and the marines are veterans' sons.
 
-**NPCs and threats.** The ploughmen; their wives with bread; the marines' sergeant, who does not want this; the admirals' stewards, who watch from the road. A fight here is a brawl the marines do not want to win.
+**NPCs and threats.** The plowmen; their wives with bread; the marines' sergeant, who does not want this; the admirals' stewards, who watch from the road. A fight here is a brawl the marines do not want to win.
 
-**Player choices.** Bear witness, help the marines, help the ploughmen, or find the survey book first.
+**Player choices.** Bear witness, help the marines, help the plowmen, or find the survey book first.
 
-**Clues and rewards.** One ploughman's widow keeps her husband's discharge papers, with a copy of the list of names folded inside the cover. She does not know what it is.
+**Clues and rewards.** One plowman's widow keeps her husband's discharge papers, with a copy of the list of names folded inside the cover. She does not know what it is.
 
 **Consequences.** A cleared terrace sends more veterans to Razzina's hall. A party that saves the list holds the veterans' proof.
 
-**If bypassed.** The marines clear the plots slowly, and the ploughmen come back the next night.
+**If bypassed.** The marines clear the plots slowly, and the plowmen come back the next night.
 
 ### Scene Two: The Archive
 
@@ -105,7 +105,7 @@ The Veterans' Quarter of Yamuzel at dusk, a week before the Review. Every hall i
 
 **Player choices.** Fight, flee, surrender the crates, or bargain with the galley's captain.
 
-**Clues and rewards.** The crates bear a Merchantry seal over a Vylarian armourer's mark, filed half away. The galley's captain had the date and the cove from a Compact enforcer.
+**Clues and rewards.** The crates bear a Merchantry seal over a Vylarian armorer's mark, filed half away. The galley's captain had the date and the cove from a Compact enforcer.
 
 **Consequences.** The outlaws spread word that the party betrayed them, and only Ashuraz Hitusuni, who sold the date, knows otherwise.
 

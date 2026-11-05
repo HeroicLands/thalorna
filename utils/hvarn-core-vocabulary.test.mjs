@@ -85,7 +85,7 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
     });
     assert.equal(
         hash(splitFrontmatter(note.raw).body.replace(/\n## Everyday speech\n[\s\S]*$/u, "")),
-        "3cbdb3dc588820021486d90791da50d462833087d2f960d01406fbef8fa6022a",
+        "aa3e119be80de2762a19926a44a5b17834ac2ca08b507d8f19532335527215e1",
     );
     const beforeData = { ...note.fm.data, words: words.slice(0, 21), fields: fields.slice(0, -1) },
         before = pieceGlosses(beforeData),

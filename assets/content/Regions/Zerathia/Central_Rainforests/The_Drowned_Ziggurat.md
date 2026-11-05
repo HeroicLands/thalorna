@@ -42,7 +42,7 @@ The common account across the interior is that the wheels must not be stopped. T
 
 The Ziggurat lies a long week by dugout upriver from the last river-tribe camp, through water that grows darker and slower each day. The drowned plain is a maze of flooded trunks, and boats that leave the old channel are lost. A guide who has been there is needed, and the only guides are men who will not say why they know the way.
 
-At the end of the channel, the river-terraces of the Ziggurat rise from the water in the grey before dawn. A causeway of roots runs from the nearest dry ground to the lowest terrace, and the sound of the wheels carries a mile across the flooded forest.
+At the end of the channel, the river-terraces of the Ziggurat rise from the water in the gray before dawn. A causeway of roots runs from the nearest dry ground to the lowest terrace, and the sound of the wheels carries a mile across the flooded forest.
 
 ## See Also
 

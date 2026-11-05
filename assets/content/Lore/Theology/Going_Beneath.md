@@ -36,7 +36,7 @@ What met them becomes the first of their helpers. A shaman has several, gathered
 
 **Healing** is the same work in small. A sick person has lost their soul, or something has been put into them. The shaman goes beneath for the soul and puts it back through the top of the head, or sucks out what was put in, a sliver of bone, a knot of hair, and shows it to the house. The family pays with a share of its next seal.
 
-**Sending** is the other side of healing. A shaman who can go beneath for a soul can send a helper to take one, and every death in a village that has quarrelled with its shaman is remembered. The men's house can try a shaman for it, and some have been killed, by their own families, so that no feud follows.
+**Sending** is the other side of healing. A shaman who can go beneath for a soul can send a helper to take one, and every death in a village that has quarreled with its shaman is remembered. The men's house can try a shaman for it, and some have been killed, by their own families, so that no feud follows.
 
 ## The Telling
 

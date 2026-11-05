@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Ish'bal Ne'ok K'ushi is a 55-year-old woman who stands 5'0" tall with a heavy build. She has brown skin, weathered complexion, greying black hair, and dark brown eyes.
+Ish'bal Ne'ok K'ushi is a 55-year-old woman who stands 5'0" tall with a heavy build. She has brown skin, weathered complexion, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

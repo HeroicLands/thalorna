@@ -12,7 +12,7 @@ data:
   subjects: [lore-nalthmrktkng, place-hrindstead, lore-wintertally, lore-varokhiclt]
   lang: varo
 
-# terran_analog: "The Gothic ancestor-songs Jordanes reports; Ynglingatal and Hyndluljóð as death-by-death and name-by-name catalogues; the Welsh Stanzas of the Graves, for the dead under ground now held by others; the Landnámabók habit of a name and one remembered thing. Departs: the tally runs backward, ends on names with no deeds, and turns at the end to the living."
+# terran_analog: "The Gothic ancestor-songs Jordanes reports; Ynglingatal and Hyndluljóð as death-by-death and name-by-name catalogs; the Welsh Stanzas of the Graves, for the dead under ground now held by others; the Landnámabók habit of a name and one remembered thing. Departs: the tally runs backward, ends on names with no deeds, and turns at the end to the living."
 ---
 
 At [Weskskald]{.name data-type="lore/gathering"}, the deep-winter evening of family memory, every [[lore-varokhiclt|Varokh]] kindred says its dead, and the saying is the _eldskorn_, the ancestor-tally: one name to a line and one deed to a name, struck out on the hall floor with the butt of a staff by the eldest of each hearth in turn, one stroke to a name, while the hall keeps time with its feet. The tally runs backward, so an event is placed by how far back in it a name falls, and beyond the names whose deeds are remembered the names run on bare ([[lore-wintertally|The Tally of Winters]]).

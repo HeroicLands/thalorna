@@ -23,7 +23,7 @@ The Pine Country (_tsitaraten_) is the northern edge of the Grove, a country of 
 
 ## Geography
 
-The land is the bare bones of the earth: rounded hills of pink and grey rock scraped clean by ice, with a thin skin of soil, and a lake in every hollow. Pine stands everywhere on the ridges, white and red, so tall that the Grove's canoe makers come north for the paddles and the frames. The soil is thin and the summers short, and a Pine People village plants its maize on the few patches of deep soil along the rivers and hopes for a late frost.
+The land is the bare bones of the earth: rounded hills of pink and gray rock scraped clean by ice, with a thin skin of soil, and a lake in every hollow. Pine stands everywhere on the ridges, white and red, so tall that the Grove's canoe makers come north for the paddles and the frames. The soil is thin and the summers short, and a Pine People village plants its maize on the few patches of deep soil along the rivers and hopes for a late frost.
 
 The Pine People eat more fish and game than any other nation of the Grove. They fish the lakes through the ice in winter, hunt moose and deer in the hills, gather wild rice in the shallow bays, and trade furs south for the maize they cannot grow. Their furs are the best in the Grove, because the cold makes them thick.
 

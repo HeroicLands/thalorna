@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Pirkelos Holimandis is a 74-year-old man who stands 6'0" tall and is of heavy build, broad still though age has softened him. He has medium skin weathered by a lifetime on the slopes, grey hair kept short, and green eyes under heavy brows. He holds his back straight like the soldier he was, walks the village wall each evening with a stick he does not lean on, and has a voice made for calling a muster.
+Pirkelos Holimandis is a 74-year-old man who stands 6'0" tall and is of heavy build, broad still though age has softened him. He has medium skin weathered by a lifetime on the slopes, gray hair kept short, and green eyes under heavy brows. He holds his back straight like the soldier he was, walks the village wall each evening with a stick he does not lean on, and has a voice made for calling a muster.
 
 # Dossier {#dossier}
 

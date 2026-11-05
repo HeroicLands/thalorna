@@ -52,7 +52,7 @@ What does recur is a recognition that the forest itself is alive in a way that m
 
 ## Politics and Power
 
-No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; Empire of Au'Khelathu has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, gifts given to feared neighbours, and long feuds whose origins are often mythological rather than historical.
+No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; Empire of Au'Khelathu has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, gifts given to feared neighbors, and long feuds whose origins are often mythological rather than historical.
 
 ## Trade
 

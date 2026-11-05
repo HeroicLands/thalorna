@@ -15,7 +15,7 @@ _Patron of the Hunt._
 
 He is the second of [[affiliation-empireakhlth|Au'Khelathu]]'s two hunt-patrons and inseparable in practice from Linhur. [[affiliation-garnul|Gar'Nul]], the guild of hunters, conducts its senior elevations at both temples in tandem, and neither rite counts alone.
 
-In the guild's tradition, Linkur and Linhur are brothers, and the guild swears to both because a brother's judgement is never given alone. Beyond the hunt there is nothing to tell: Linkur is a guild god, and his whole being is the clean kill. He has no myth, no cosmic role and no place in the [[affiliation-khelathpnthn|Khelathi Pantheon]].
+In the guild's tradition, Linkur and Linhur are brothers, and the guild swears to both because a brother's judgment is never given alone. Beyond the hunt there is nothing to tell: Linkur is a guild god, and his whole being is the clean kill. He has no myth, no cosmic role and no place in the [[affiliation-khelathpnthn|Khelathi Pantheon]].
 
 ## See Also
 

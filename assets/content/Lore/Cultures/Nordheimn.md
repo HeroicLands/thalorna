@@ -128,7 +128,7 @@ Vraldorv belongs to the [[doc-heroessgrd|Heroes of Asguard]], figures the skalds
 
 [[being-grosdrnrgd|Groa the Seid of Norgaad]] is a living female ideal. She heals a sick child at cost to her own strength, wanders between clans in service, and brings warnings her people may fear to hear. Her authority rests on knowledge, resolve and what she gives of herself. She does not need a husband's office or a warrior's victory to make that service worthy.
 
-The epic repertoire praises other forms of care. Tales of [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]] celebrate feeding and teaching through famine; those of [[being-krldthnshldbr|Krildthann Shieldbearer]] praise defence of the infirm. Like Vraldorv, they are figures of song, and the songs make feeding and protecting people count as courage.
+The epic repertoire praises other forms of care. Tales of [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]] celebrate feeding and teaching through famine; those of [[being-krldthnshldbr|Krildthann Shieldbearer]] praise defense of the infirm. Like Vraldorv, they are figures of song, and the songs make feeding and protecting people count as courage.
 
 ## Rings, Runes and Remembered Words
 
@@ -202,7 +202,7 @@ At Veturnetur the hall's _buvordur_ seats its honored old by the door and serves
 
 ## The Reckoning after Death
 
-At [[lore-aldarlok|Aldarlok]], the defending gods and their honored dead face the last fire. A Nordman hopes to be remembered as one who stood well when duty called. Honorable deaths include battle, keeping an oath, childbirth and defence of one's craft. The honored gather in [[place-valsal|Valsal]] or [[place-solvangur|Solvangur]], under Odvar and Solrún, to prepare for that final contest.
+At [[lore-aldarlok|Aldarlok]], the defending gods and their honored dead face the last fire. A Nordman hopes to be remembered as one who stood well when duty called. Honorable deaths include battle, keeping an oath, childbirth and defense of one's craft. The honored gather in [[place-valsal|Valsal]] or [[place-solvangur|Solvangur]], under Odvar and Solrún, to prepare for that final contest.
 
 The faiths of the Ten also teach that oath-breakers, those who turn from duty, and those who die of sickness without distinction pass to [[place-nulthey|Nulthey]], where they fade. The faithful of the [[affiliation-solrun|Faith of Solrún]] affirm that a life need not include battle to earn honor. Illness and honor therefore remain a difficult question; a family's duty to feed an incapacitated member does not depend on claiming certainty about their eventual fate. The women of the Malagna yards put the question at every sickness death in [[lore-folmhnura|Folmhnura]], a shipwright's suit for her fevered daughter, whose cut strake is in a ship at sea: [Say she was never called on./Say it to the plank.]{.verse}
 
@@ -218,7 +218,7 @@ If a haunting harms people, kin first look for a disturbed site or unmet obligat
 
 ## What a Person Owes
 
-The oath comes first: a person owes the bond they freely spoke before witnesses. Kin are owed work, truth, defence and help in need; the hall is owed the service and repayment its member undertook. A guest accepted at the fire is owed protection. A full clan member answers the muster and pays the kingdom's dues.
+The oath comes first: a person owes the bond they freely spoke before witnesses. Kin are owed work, truth, defense and help in need; the hall is owed the service and repayment its member undertook. A guest accepted at the fire is owed protection. A full clan member answers the muster and pays the kingdom's dues.
 
 In return, kin must answer for their member and provide care when it is needed. A hall gives its sworn follower food, shelter and the protection promised with service. A bundi has a voice at the ting and inherited _odel_ land that a jarl cannot take at will. A _lidmadur_ can work, travel and hold property, but reaches protection through the following that vouches for them. A thrall's food and shelter come through an owner; the thrall holds no corresponding rights in their own name. The bargain is binding and unequal.
 
@@ -238,7 +238,7 @@ The remembered Three Winters famine gives this duty its shameful story: in the t
 
 ## When Kin Cannot Teach or Defend
 
-The receiving household must offer more than a bed. Children and unestablished young people need teaching, belonging and protection as well as meals. The jarl arranges the placement and hall support; kin and the household supply the teaching and daily care. The gudi or gudja witnesses belonging and necessary rites. Clan and hall retain their duty of defence when a small family cannot meet it.
+The receiving household must offer more than a bed. Children and unestablished young people need teaching, belonging and protection as well as meals. The jarl arranges the placement and hall support; kin and the household supply the teaching and daily care. The gudi or gudja witnesses belonging and necessary rites. Clan and hall retain their duty of defense when a small family cannot meet it.
 
 Learning follows people who know the work. A young person learns the holding's tasks, a craft or service; the Circle's apprenticeship gives a demanding path into skilled memory and verse. Foster care joins a child to that ordinary life. There is no need to acquire an honored name before claiming the care that makes such a life possible.
 

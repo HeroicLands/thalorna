@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Brildmil is a 19-year-old man who stands 5'8" tall with a heavy build. He has pale skin, weathered complexion, blonde hair, and grey eyes.
+Brildmil is a 19-year-old man who stands 5'8" tall with a heavy build. He has pale skin, weathered complexion, blonde hair, and gray eyes.
 
 # Dossier {#dossier}
 

@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Glarvinda is a 22-year-old woman who stands 5'9" tall with a heavy build. She has light skin, scarred complexion, dark brown hair, and grey eyes.
+Glarvinda is a 22-year-old woman who stands 5'9" tall with a heavy build. She has light skin, scarred complexion, dark brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

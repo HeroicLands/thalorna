@@ -235,7 +235,7 @@ sohl:
 
 # Appearance {#appearance}
 
-The light on the terrace wall goes from gold to grey, and a thread of dark specks comes over the ridge. It lengthens, thickens and pours down toward the village gardens in a single streaming flock, tight, fast and silent, and wheels once over the rooftops. Then it drops into the garden trees all at once and the leaves are full of small slate-backed birds with white throats.
+The light on the terrace wall goes from gold to gray, and a thread of dark specks comes over the ridge. It lengthens, thickens and pours down toward the village gardens in a single streaming flock, tight, fast and silent, and wheels once over the rooftops. Then it drops into the garden trees all at once and the leaves are full of small slate-backed birds with white throats.
 
 # Dossier {#dossier}
 

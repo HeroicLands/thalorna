@@ -426,7 +426,7 @@ sohl:
 
 ![[thefnutiltgr|Thefnuti Let'Gerau]]{float=top-left}
 
-Thefnuti stands 5'10" tall with a medium build. He has warm amber skin, grey hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
+Thefnuti stands 5'10" tall with a medium build. He has warm amber skin, gray hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
 
 # Dossier {#dossier}
 

@@ -41,7 +41,7 @@ At [[place-khelunu|Khelunu]] a Keeper of the King-Lists lays a thumbnail beside 
 
 The house of [Qelt'Gultau]{.name data-type="affiliation/lineage"} took the throne in 2559 ST (449 AF), and its first Gar-Au, [Kuz'el'Retha I]{.name data-type="being/npc"}, reigned eighteen years. [Kuz'el'Retha II]{.name data-type="being/npc"} followed her and reigned four. When he went to the West in 2579 ST (469 AF), [Kuz'el'Retha III]{.name data-type="being/npc"} was crowned a child of three floods, and [Zu'Meku]{.name data-type="affiliation/lineage"} stood beside him.
 
-That is the list's formula for a regent. A child of three floods cannot hold the sceptre or speak the rites, and the head of a named house stands beside him to do both. The list enters the two names together for the child's reign, as it enters them in every reign of this kind, and the Keepers read the pair as a warning, because a regent of a named house stands closer to the mound than anyone else in the valley.
+That is the list's formula for a regent. A child of three floods cannot hold the scepter or speak the rites, and the head of a named house stands beside him to do both. The list enters the two names together for the child's reign, as it enters them in every reign of this kind, and the Keepers read the pair as a warning, because a regent of a named house stands closer to the mound than anyone else in the valley.
 
 ## The Night
 

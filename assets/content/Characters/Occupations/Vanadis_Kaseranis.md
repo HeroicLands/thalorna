@@ -395,7 +395,7 @@ Vanadis Kaseranis is a 27-year-old woman who stands 5'7" tall and is slender. Sh
 
 Vanadis Kaseranis is a courtesan of [[place-polthara|Polthara]], the market town of the [[place-hylen|Hilen]] estate country, who keeps two rooms over a saddler's shop on the road into the square. She sings, plays the lyre, dances and talks well, and she is the evening's entertainment that the district's people come to Polthara for when they are not buying or selling.
 
-Her year runs by the market bell. The night before a market and the night of it, the [Steward's Rest]{.name data-type="place/structure"} is full of stewards and the buyers of the capital who dine with them, and a buyer who has closed a good bargain wants company that knows how to talk to a man from the capital. Between markets the town is empty and so is her purse, and she spends the quiet days practising, mending and reckoning.
+Her year runs by the market bell. The night before a market and the night of it, the [Steward's Rest]{.name data-type="place/structure"} is full of stewards and the buyers of the capital who dine with them, and a buyer who has closed a good bargain wants company that knows how to talk to a man from the capital. Between markets the town is empty and so is her purse, and she spends the quiet days practicing, mending and reckoning.
 
 She hears a great deal at those dinners: which estate sold what, which steward carries his master's coin home, which buyer paid over the odds and why. She keeps all of it to herself, and that discretion is what the buyers pay for as much as the music.
 

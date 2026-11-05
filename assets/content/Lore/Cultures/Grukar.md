@@ -46,7 +46,7 @@ The Grukar tell no story of where they came from, because they tell no stories. 
 
 **Good is whatever feeds, shelters and enlarges the tribe. Evil is whatever diminishes it.** That is not a teaching. The Ahk's one purpose is the welfare and increase of its tribe, and that purpose is dosed into every egg along with the caste. An Uk that carries a stone to the palisade is doing good. A Hushk that kills a rival Hushk is doing good too, because the spawner wants the strongest Hushk alive and none of them strong enough to reach for the chamber. A Sha that steers a raid away from a village with soldiers behind it is doing the most good of the three.
 
-The Grukar judge nothing aloud, because they have nothing to judge with but the body and the scent. A judgement is a posture: deference, challenge, the throat bared, the bristles raised. What a human would call manners is the order of approach to food, to the water and to the chamber, and the posture a Grukar takes when a higher caste passes. A Grukar that takes food out of its turn is challenged at once, and the challenge settles it.
+The Grukar judge nothing aloud, because they have nothing to judge with but the body and the scent. A judgment is a posture: deference, challenge, the throat bared, the bristles raised. What a human would call manners is the order of approach to food, to the water and to the chamber, and the posture a Grukar takes when a higher caste passes. A Grukar that takes food out of its turn is challenged at once, and the challenge settles it.
 
 ## Standing in the Nest
 

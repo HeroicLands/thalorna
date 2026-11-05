@@ -270,7 +270,7 @@ A knight rides a destrier into battle and a palfrey on the road, and leads his d
 - A hoof-print as wide as a dinner-plate, sunk deep in the mud of a castle yard.
 - A stable-door with iron bands and a bar, and a stallion's scream behind it.
 - A heavy saddle, high before and behind, hung on a peg above a stall.
-- A line of armoured horses in the field at dawn, steaming in the cold.
+- A line of armored horses in the field at dawn, steaming in the cold.
 
 ## Combat Strategy
 

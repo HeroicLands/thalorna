@@ -3,7 +3,7 @@ shortcode: geron
 name: {full: Geron}
 type: being
 subType: npc
-description: "An alchemist hostile to independent practitioners, and to women practising outside male supervision in particular"
+description: "An alchemist hostile to independent practitioners, and to women practicing outside male supervision in particular"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Geron is a 43-year-old man who stands 5'7" tall with a light build. He has dark brown skin, grey hair, and hazel eyes.
+Geron is a 43-year-old man who stands 5'7" tall with a light build. He has dark brown skin, gray hair, and hazel eyes.
 
 # Dossier {#dossier}
 

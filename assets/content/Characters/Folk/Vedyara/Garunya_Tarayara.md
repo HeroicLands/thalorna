@@ -405,7 +405,7 @@ He sails for a cloth-factor of the street who owns the hull, the [Kingfisher]{.n
 
 They call him the Reckless on the street, and he answers to it. He puts out on the first clear day after the rains, which the old masters will not do. He keeps the sea at night off the capes where the old masters anchor. He drives a crew watch on watch for a week and pays it well at the end, if it is still standing. He has lost one hull's worth of bales and no hull, and two men, and he counts that a good record for the time he makes.
 
-[[being-vishvrmhpr|Vishvara Mahapar]] sailed under him one voyage and walked off at the bar with half the crew behind him. The two have quarrelled on the quay at Nilatir every season since, in front of the lodging houses, and it has become personal. Vishvara calls Garunya a drowner of men. Garunya calls Vishvara's practices old men's habits, kept up by men too slow to need anything else.
+[[being-vishvrmhpr|Vishvara Mahapar]] sailed under him one voyage and walked off at the bar with half the crew behind him. The two have quarreled on the quay at Nilatir every season since, in front of the lodging houses, and it has become personal. Vishvara calls Garunya a drowner of men. Garunya calls Vishvara's practices old men's habits, kept up by men too slow to need anything else.
 
 ## Twice in a Season
 

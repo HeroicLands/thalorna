@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thaiya Lenuret is a 51-year-old man who stands 5'4" tall with a light build. He has dark brown skin, weathered complexion, greying black hair, and dark brown eyes.
+Thaiya Lenuret is a 51-year-old man who stands 5'4" tall with a light build. He has dark brown skin, weathered complexion, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

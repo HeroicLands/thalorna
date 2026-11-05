@@ -262,7 +262,7 @@ Palfreys are calm and answer their riders, selected over generations for obedien
 
 ## What the Road Does
 
-Ladies, couriers, factors and merchants ride a palfrey, because the animal's steady walk will cover thirty miles a day for a week without tiring a rider. A noble house gives one to a daughter at her marriage. The inns on the trade roads keep horses for hire and ask a deposit. A good palfrey costs more than a plough team, and a thief who takes one is hanged. The animal is neither fast nor strong, and it is not a war-horse; it is walked cool and watered at every ford.
+Ladies, couriers, factors and merchants ride a palfrey, because the animal's steady walk will cover thirty miles a day for a week without tiring a rider. A noble house gives one to a daughter at her marriage. The inns on the trade roads keep horses for hire and ask a deposit. A good palfrey costs more than a plow team, and a thief who takes one is hanged. The animal is neither fast nor strong, and it is not a war-horse; it is walked cool and watered at every ford.
 
 ## Signs
 

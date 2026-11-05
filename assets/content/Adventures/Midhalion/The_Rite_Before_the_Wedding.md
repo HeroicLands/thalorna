@@ -35,7 +35,7 @@ About 401 AF Vylarian legions killed one another in a wheat-field on the Olkassa
 ## Hooks {#hooks}
 
 - **The thief.** A rival house of the Street of the Houses wants a copy of the list in the _zalvos_'s box, and says only that it is "a list of names in their own hands".
-- **The mercenary or soldier.** [[being-klvnsmrdvns|Kolvenas Mardovanes]] hires guards to escort his niece's betrothal gifts up the river road to the Ganothandis townhouse at Aravantara, and to bring back the signed acknowledgement before the next sitting of the Seldan.
+- **The mercenary or soldier.** [[being-klvnsmrdvns|Kolvenas Mardovanes]] hires guards to escort his niece's betrothal gifts up the river road to the Ganothandis townhouse at Aravantara, and to bring back the signed acknowledgment before the next sitting of the Seldan.
 - **The leader.** [[being-ylzmsmlvrts|Yalzemas Molvarates]] wants her bid for the ten-year contract on Hilen's land tax carried to the capital before the Seldan sits on it, and a house of the province wants the same party to arrive late.
 - **The wanderer.** [[being-nthrsmrdvns|Nethoras Mardovanes]] hires a party to escort Sélmoros's priests to the field and report to him, and is plainly hoping the rite fails.
 
@@ -43,7 +43,7 @@ About 401 AF Vylarian legions killed one another in a wheat-field on the Olkassa
 
 The river road into Hilen at harvest, between estates whose walls run for miles. The gift-wagon carries a chest of silver plate, a bolt of purple and a pair of carved masks. The wagoners are Mardovanes men, and they talk of the wedding as if it were a harvest.
 
-> The wheat stands gold to the horizon on both sides of the road. On one estate the reapers are already in the field, two weeks before their neighbours.
+> The wheat stands gold to the horizon on both sides of the road. On one estate the reapers are already in the field, two weeks before their neighbors.
 
 ## Scenes {#scenes}
 

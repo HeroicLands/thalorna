@@ -24,7 +24,7 @@ Nobody moots there. A thatched cottage of black timber sits against the dell's l
 
 [Nanwyth Crake]{.name data-type="being/npc"} is a woman who looks sixty and has looked sixty longer than the clan elders have lived. She was a shaman of the nine fords, trained in the mysteries of the stones and trackways and expelled from her clan for a binding she would not undo. She lives in the hollow with a black cat, a loom and a long table of jars. She sells cures, curses and the finding of lost things, and she is fair in her dealings: she says what each costs and takes only that.
 
-What she takes is **years**. A cure for a fever costs a month, a curse on a rival costs a year, the finding of a lost child costs five. She takes them from the buyer or, if the buyer is generous, from a third party the buyer names. The years go into the oaks. The old dead of the clan, rooted in the trees since she bound them, are fed by them, and in return they answer her call. A dozen are warriors still. They stand at the dell's rim among the oaks, grey and silent, and they put the intruder to the question.
+What she takes is **years**. A cure for a fever costs a month, a curse on a rival costs a year, the finding of a lost child costs five. She takes them from the buyer or, if the buyer is generous, from a third party the buyer names. The years go into the oaks. The old dead of the clan, rooted in the trees since she bound them, are fed by them, and in return they answer her call. A dozen are warriors still. They stand at the dell's rim among the oaks, gray and silent, and they put the intruder to the question.
 
 ## What the Country Says
 

@@ -11,7 +11,7 @@ data:
   abbreviation: Sin.
   fields:
     - name: "Light, stars, sky and the hours"
-      holds: "Light and dark, the sun, moon and stars, the colours of the sky, the parts of the day."
+      holds: "Light and dark, the sun, moon and stars, the colors of the sky, the parts of the day."
     - name: "Water, weather and the seasons"
       holds: "Still and running water, rain, snow, frost and wind, the turning of the year."
     - name: "Trees, plants and the living wood"
@@ -152,7 +152,7 @@ data:
     - form: hirsa
       class: adj
       field: "Light, stars, sky and the hours"
-      gloss: "gold, sun-coloured"
+      gloss: "gold, sun-colored"
     - form: helti
       class: adj
       field: "Light, stars, sky and the hours"
@@ -161,12 +161,12 @@ data:
     - form: olsel
       class: adj
       field: "Light, stars, sky and the hours"
-      gloss: "grey"
+      gloss: "gray"
       concept: grey
     - form: ikkessa
       class: adj
       field: "Light, stars, sky and the hours"
-      gloss: "blue, the colour of the high sky"
+      gloss: "blue, the color of the high sky"
       concept: blue
     - form: ylpe
       variants: [ylpehe]
@@ -286,7 +286,7 @@ data:
     - form: molu
       class: "n"
       field: "Water, weather and the seasons"
-      gloss: "the colour of a deep pool"
+      gloss: "the color of a deep pool"
     - form: unturo
       class: "n"
       field: "Water, weather and the seasons"
@@ -1465,7 +1465,7 @@ data:
     - form: selpai
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
-      gloss: "colour"
+      gloss: "color"
     - form: tarnevi
       variants: ["sarnevi"]
       class: "n"
@@ -3454,7 +3454,7 @@ data:
     - form: irseli
       class: "n"
       field: "The fae, the thin places, dream and the god"
-      gloss: "wonder, astonishment before something marvellous"
+      gloss: "wonder, astonishment before something marvelous"
     - form: senval
       class: "v"
       field: "Motion, rest and being"
@@ -4864,7 +4864,7 @@ data:
     - form: laivo
       class: n
       field: "Kin, hearth, the person and the body"
-      gloss: "a taste, a flavour"
+      gloss: "a taste, a flavor"
       concept: taste-noun
     - form: laivota
       class: v
@@ -5601,7 +5601,7 @@ data:
     - form: hepylirne
       class: n
       field: "Kin, hearth, the person and the body"
-      gloss: "a neighbour"
+      gloss: "a neighbor"
       built: [hepy, lirne]
       concept: neighbor
     - form: kusenno
@@ -5958,7 +5958,7 @@ data:
     - form: vaurel
       class: n
       field: "Kin, hearth, the person and the body"
-      gloss: "honour"
+      gloss: "honor"
       concept: honor
     - form: naumi
       class: n
@@ -6464,7 +6464,7 @@ data:
     - form: ilmu
       class: n
       field: "The land: ground, hill, valley, shore and stone"
-      gloss: "the centre, the middle, the midst"
+      gloss: "the center, the middle, the midst"
       concept: center
     - form: ilmuho
       class: part
@@ -6619,13 +6619,13 @@ data:
     - form: ruskelsa
       class: adj
       field: "Light, stars, sky and the hours"
-      gloss: "brown, bark-coloured"
+      gloss: "brown, bark-colored"
       built: [ruskel, "-sa"]
       concept: brown
     - form: aulirasa
       class: adj
       field: "Light, stars, sky and the hours"
-      gloss: "light in colour, full of light"
+      gloss: "light in color, full of light"
       built: [aulira, "-sa"]
       concept: light-colour
     - form: ilevasa
@@ -6649,7 +6649,7 @@ data:
     - form: ilteselpai
       class: adj
       field: "Light, stars, sky and the hours"
-      gloss: "plain, of a single colour, without a pattern"
+      gloss: "plain, of a single color, without a pattern"
       built: [ilte, selpai]
       concept: plain-pattern
     - form: telvisa
@@ -7738,7 +7738,7 @@ Sinale is the eldest tongue, sung as often as spoken. Its words are long and ope
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-_Dh_ is the voiced sound between the teeth, rare, and only between vowels. _D_ is the one voiced stop, and it stands only after a liquid or a nasal, where the tongue is already raised to it. There are no affricates and no back scrape—nothing a human would call harsh. _P_, _t_, _k_, _s_, _m_, _n_, _l_ and _r_ also have a **long** form, and the length is meaningful: _mollu_ is a deep pool and _molu_ is the colour of it.
+_Dh_ is the voiced sound between the teeth, rare, and only between vowels. _D_ is the one voiced stop, and it stands only after a liquid or a nasal, where the tongue is already raised to it. There are no affricates and no back scrape—nothing a human would call harsh. _P_, _t_, _k_, _s_, _m_, _n_, _l_ and _r_ also have a **long** form, and the length is meaningful: _mollu_ is a deep pool and _molu_ is the color of it.
 
 ### Vowels
 
@@ -7759,7 +7759,7 @@ ORDER BY list_position(['a', 'e', 'i', 'o', 'u', 'y'], v)
 
 **A word never holds a back vowel and a front vowel together.** Neutral vowels stand in either kind, and a word built only of neutral vowels counts as back.
 
-The front vowels are the language's rarer colour. Most words are back, neutral or a mixture of the two, so a suffix most often takes its back form, and a word that runs on _y_ stands out in a line as a bright word among dark ones.
+The front vowels are the language's rarer color. Most words are back, neutral or a mixture of the two, so a suffix most often takes its back form, and a word that runs on _y_ stands out in a line as a bright word among dark ones.
 
 **Suffixes are listed with their back and front forms**—_-ho_ beside _-he_, _-tos_ beside _-tes_—and the stem chooses the form. Use the listed forms rather than inventing an ending from the vowel table.
 
@@ -7804,7 +7804,7 @@ The back nasal _ng_ stands only between vowels, and no word opens on it.
 
 ### Stress
 
-**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favours short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinale in a monotone is not to speak it badly but to say something else.
+**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favors short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinale in a monotone is not to speak it badly but to say something else.
 
 ### Wearing
 
@@ -7884,7 +7884,7 @@ Two stems make one word: the first is the modifier and wears, the second is the 
 
 **Two stems join with the _e_ that _-rsa_ takes after a consonant** wherever the first ends in a consonant and the second begins with one that the cluster table does not pair with it. _Patten_ "return", worn to _vatten_, and _leesy_ "a path" give _vatteneleesy_, a way back. Where the two consonants make one of the listed pairings they meet directly, as _irtal_ and _melke_ give _irtalmelke_, a fountain.
 
-A **place name** is a compound of this kind, or a single stem with the place suffix. An enclave's own name is Sinale; the names human neighbours give enclaves are words in the neighbours' tongues.
+A **place name** is a compound of this kind, or a single stem with the place suffix. An enclave's own name is Sinale; the names human neighbors give enclaves are words in the neighbors' tongues.
 
 ### Adjectives and Modifiers
 
@@ -7997,7 +7997,7 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **The consonants are the visible line.** One sign to each consonant of the inventory, arranged in three families by place of articulation—the lips, the tongue-tip and the back of the mouth—so that the stop, the fricative and the nasal of one family are the same shape at three grades. The liquids and the soft sounds—_l_, _r_, _dh_ and _d_—stand outside the families and have signs of their own. Because wearing only ever moves a stop to the fricative of its own family, a worn word is the same shape one grade along—which is where the romanization is at its clumsiest, writing _t_ and _s_ as two unrelated letters for what the hand shows as one letter lowered. The back nasal has a sign like the rest, but no word opens on it and so it is never the first thing on a line.
 
-**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mollu_, and the _tt_, _ss_ and _rr_ of the phonology—while the Veldikko writes the sign once and sets a bar beneath it. _Mollu_ and _molu_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
+**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mollu_, and the _tt_, _ss_ and _rr_ of the phonology—while the Veldikko writes the sign once and sets a bar beneath it. _Mollu_ and _molu_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the color of it.
 
 **The vowels ride above.** Six marks, one each for _a_, _e_, _i_, _o_, _u_ and _y_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A long vowel in the romanization—_aa_, _ii_ or _uu_—is a single mark drawn long rather than two marks, and _ee_ is two _e_ marks, the second on the carrier; a diphthong is two marks over one carrier, in the order they are said.
 
@@ -8013,7 +8013,7 @@ Sinale is the **eldest language on Thalorna**, older than even [[skill-kalihrlng
 
 Scholars identify layers in Sinale historical development:
 
-- **Primordial layer** (oldest, rarely used in modern speech): Archaic verb forms, ancient colour and elemental terminology
+- **Primordial layer** (oldest, rarely used in modern speech): Archaic verb forms, ancient color and elemental terminology
 - **Classical layer** (main body of literature and ceremony): The form preserved in epic poems and sacred texts
 - **Modern layer** (contemporary Sinale speech): Philosophical and artistic vocabulary reflecting Sinale concerns with meaning, beauty, and eternity
 

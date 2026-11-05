@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Thraskvir Draskendik is a 33-year-old man who stands 6'0" tall with a light build. He has tanned skin, weathered complexion, blonde hair, and grey eyes.
+Thraskvir Draskendik is a 33-year-old man who stands 6'0" tall with a light build. He has tanned skin, weathered complexion, blonde hair, and gray eyes.
 
 # Dossier {#dossier}
 

@@ -83,5 +83,5 @@ The Senate and the guild-masters rebuilt. They passed the decree of the [Clearan
 
 - [[place-antel|Antel]] · [[place-selvin|Selvin]]—the hill that burned and the hill that rose
 - [[lore-olcassabtl|The Battle of Olkassa]]—the war behind the failed dole
-- [[lore-restorehouse|The Restoration]]—who took the city afterwards
+- [[lore-restorehouse|The Restoration]]—who took the city afterward
 - [[place-orzara|Orzara]]

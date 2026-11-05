@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Zaboret is a 46-year-old woman who stands 5'5" tall with a light build. She has dark brown skin, greying black hair, and dark brown eyes.
+Zaboret is a 46-year-old woman who stands 5'5" tall with a light build. She has dark brown skin, graying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

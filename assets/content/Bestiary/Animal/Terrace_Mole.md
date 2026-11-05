@@ -3,7 +3,7 @@ shortcode: trrcml
 name: {full: Terrace Mole, kali: [Manulua]}
 type: being
 subType: creature
-description: "A dog-sized burrower with broad forelimbs and soft grey fur that works the terrace banks by night, and whose tunnels carry water through the terrace walls."
+description: "A dog-sized burrower with broad forelimbs and soft gray fur that works the terrace banks by night, and whose tunnels carry water through the terrace walls."
 tags: [animal, creature, image-needed]
 data:
   packFolder: animals
@@ -244,15 +244,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Before dawn the terrace bank is quiet. Then a clod of earth lifts at the foot of the wall, a blunt snout pushes out of it, and a dog-sized animal in soft grey fur heaves itself up on broad forelimbs and shakes the soil from its coat. It noses along the wall for grubs, digs once, twice, and stops with its head up. It has heard you, and it is not frightened. It looks at you with the flat, irritated patience of something that has work to do.
+Before dawn the terrace bank is quiet. Then a clod of earth lifts at the foot of the wall, a blunt snout pushes out of it, and a dog-sized animal in soft gray fur heaves itself up on broad forelimbs and shakes the soil from its coat. It noses along the wall for grubs, digs once, twice, and stops with its head up. It has heard you, and it is not frightened. It looks at you with the flat, irritated patience of something that has work to do.
 
 # Dossier {#dossier}
 
-The Terrace Mole, _manulua_ in [[skill-kalihrlng|Kalihari]], "root dawn", for the animal that comes up out of the ground with the first light, is a dog-sized burrower with broad forelimbs, a blunt snout and soft grey fur. It lives in the terraced river valleys of [[place-klhrcntnnt|Kalihara]], especially the broad eastern ones, and works in the terrace banks by night. At dawn it comes up to feed on grubs and roots. Its tunnels run along the terrace walls and carry water through them. It is not a danger to anyone who leaves it alone, but a manulua that is cornered bites hard, and the terraces keep their runs open by leaving the animals be.
+The Terrace Mole, _manulua_ in [[skill-kalihrlng|Kalihari]], "root dawn", for the animal that comes up out of the ground with the first light, is a dog-sized burrower with broad forelimbs, a blunt snout and soft gray fur. It lives in the terraced river valleys of [[place-klhrcntnnt|Kalihara]], especially the broad eastern ones, and works in the terrace banks by night. At dawn it comes up to feed on grubs and roots. Its tunnels run along the terrace walls and carry water through them. It is not a danger to anyone who leaves it alone, but a manulua that is cornered bites hard, and the terraces keep their runs open by leaving the animals be.
 
 ## Presentation
 
-A thickset animal the size of a dog, with a blunt snout, small eyes, soft grey fur and forelimbs that are broad, flat and heavily clawed. The back carries a loose plated hide under the fur, and the tail is short. On the ground it moves in a rolling, hurried trot, and in the earth it moves faster than a person can dig.
+A thickset animal the size of a dog, with a blunt snout, small eyes, soft gray fur and forelimbs that are broad, flat and heavily clawed. The back carries a loose plated hide under the fur, and the tail is short. On the ground it moves in a rolling, hurried trot, and in the earth it moves faster than a person can dig.
 
 ## In the Land
 

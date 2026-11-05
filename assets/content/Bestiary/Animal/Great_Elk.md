@@ -246,7 +246,7 @@ The mud at the river's edge has been trodden to a trough by hundreds of cloven h
 
 # Dossier {#dossier}
 
-The Great Elk is the giant deer of the northern forests and plains, a bull standing nearly eight feet at the shoulder and weighing close to a ton. Herds range the birch and pine forest of the [[place-nrdlndsrgn|Nordlands]], the river valleys and mixed woodland of [[place-vrystwald|Vristwald]] and the forest-steppe of [[place-velanthrgn|Velanthia]], moving hundreds of miles between summer and winter ground by routes handed down over generations. They are peaceful until the rut and fierce in defence of calves.
+The Great Elk is the giant deer of the northern forests and plains, a bull standing nearly eight feet at the shoulder and weighing close to a ton. Herds range the birch and pine forest of the [[place-nrdlndsrgn|Nordlands]], the river valleys and mixed woodland of [[place-vrystwald|Vristwald]] and the forest-steppe of [[place-velanthrgn|Velanthia]], moving hundreds of miles between summer and winter ground by routes handed down over generations. They are peaceful until the rut and fierce in defense of calves.
 
 ## Presentation
 

@@ -53,7 +53,7 @@ The **Pilots' Shrena of Chendramukhva** takes the deep-water hulls across the ba
 
 A hull that cannot cross the bar unaided waits in the roadstead for a pilot, and pilots are taken in the order of the shrena's queue. A master who comes in without one pays the same fee and takes the same risk. The fee, the queue and the season's chart are fixed by the council of master pilots, who sit in the pilots' quarter behind the yards.
 
-The shrena stands under [[affiliation-chendrapur|Chendrapur]], whose galleys and merchant hulls all pass the bar, and it answers to the Maharava's harbour officers for the fee and for wrecks. Within the port it keeps its own rules.
+The shrena stands under [[affiliation-chendrapur|Chendrapur]], whose galleys and merchant hulls all pass the bar, and it answers to the Maharava's harbor officers for the fee and for wrecks. Within the port it keeps its own rules.
 
 ## Membership and Structure
 
@@ -67,4 +67,4 @@ An apprentice rides the pilot boats for years before a master puts a name forwar
 
 ## Plot Hook
 
-- **The Sold Chart.** This season's chart of the bar is being offered in a sail-loft, and the council has learned that someone is selling. It needs hands that do not wear the shrena's colours to find the seller first.
+- **The Sold Chart.** This season's chart of the bar is being offered in a sail-loft, and the council has learned that someone is selling. It needs hands that do not wear the shrena's colors to find the seller first.

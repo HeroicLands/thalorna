@@ -36,6 +36,6 @@ sohl:
     perceptionPenaltyBase: 0
 ---
 
-Plates of bone and ivory, each drilled and laced to its neighbours and to a hide backing, hang from the shoulders to the thigh. The [[affiliation-tikupilarit|Ice-Edge People]] call it _salaq_. They wore it in the old wars between peoples, and Trading Shore is the only village on the coast that still keeps sets in use against the canoes that come north for slaves ([[place-simimanik|Simi Manik]]).
+Plates of bone and ivory, each drilled and laced to its neighbors and to a hide backing, hang from the shoulders to the thigh. The [[affiliation-tikupilarit|Ice-Edge People]] call it _salaq_. They wore it in the old wars between peoples, and Trading Shore is the only village on the coast that still keeps sets in use against the canoes that come north for slaves ([[place-simimanik|Simi Manik]]).
 
 It turns a stone-edged knife and a spear thrust that does not land square, and it does little against a copper blade driven hard. The lacing is the weak point; a set left damp or unoiled comes apart plate by plate.

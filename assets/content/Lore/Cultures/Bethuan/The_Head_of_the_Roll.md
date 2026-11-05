@@ -19,7 +19,7 @@ data:
     - lore-bethuanclt
   lang: beth
 
-# terran_analog: "The founding legends of Mediterranean colonies, and the Carthaginian story of Elissa and the oxhide, for a colony's charter told as a woman's shrewdness; the Hebrew genealogies and the Mesopotamian king-lists, for a catalogue that every later claim reads itself down from; the drought rationing of besieged cities and of ancient water-courts, for the cup counted to every name."
+# terran_analog: "The founding legends of Mediterranean colonies, and the Carthaginian story of Elissa and the oxhide, for a colony's charter told as a woman's shrewdness; the Hebrew genealogies and the Mesopotamian king-lists, for a catalog that every later claim reads itself down from; the drought rationing of besieged cities and of ancient water-courts, for the cup counted to every name."
 ---
 
 **The Head of the Roll** is the opening of the Archivist's rolls, the genealogies on which every House of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] rests its standing, and it is read aloud in the [Council of Houses]{.name data-type="affiliation/governmental"} at [[place-bethura|Bethura]] each time a Dómissa takes her House's seal. The new Dómissa stands in front of the Archivist's table while it is read. When the head is done, the Archivist reads her own House's line down from it, daughter after daughter, until she reaches the woman standing there and says her name, and the Dómissa answers with the name of her House and her own. The head is the same for every House. A Lesser House and the oldest Great House hear the same words, and only the reading-down differs.

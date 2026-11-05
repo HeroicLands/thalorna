@@ -1587,7 +1587,7 @@ data:
     - form: "saiwat"
       class: n
       field: "Body and feeling"
-      gloss: "the face; standing and honour, which a gift raises and shame takes away"
+      gloss: "the face; standing and honor, which a gift raises and shame takes away"
       concept: [face, honor]
       source: {kind: coined}
     - form: "yalas"
@@ -1624,7 +1624,7 @@ data:
     - form: "danlilas"
       class: n
       field: "Body and feeling"
-      gloss: "a taste; a flavour"
+      gloss: "a taste; a flavor"
       concept: taste-noun
       built: ["danli", "-las"]
       source: {kind: coined}
@@ -4042,7 +4042,7 @@ data:
     - form: "diya"
       class: adj
       field: "Everyday speech"
-      gloss: "grey"
+      gloss: "gray"
       concept: grey
       source: {kind: coined}
     - form: "nakwesla"
@@ -4054,7 +4054,7 @@ data:
     - form: "paklepus"
       class: adj
       field: "Everyday speech"
-      gloss: "light in colour"
+      gloss: "light in color"
       concept: light-colour
       source: {kind: coined}
     - form: "sauga"
@@ -6033,7 +6033,7 @@ The Kelwanuk Language is a tongue of long words, dense with _k_, _kw_ and _ts_, 
 
 ### Stress
 
-Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Kelwanuk favours short words with the weight at the front: _tsilkas_ is TSIL-kas, _kenwatukwa_ is ken-wa-TU-kwa, and _kelwanuk_ is kel-WA-nuk. No word of the dictionary needs an accent.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Kelwanuk favors short words with the weight at the front: _tsilkas_ is TSIL-kas, _kenwatukwa_ is ken-wa-TU-kwa, and _kelwanuk_ is kel-WA-nuk. No word of the dictionary needs an accent.
 
 ## Grammar Notes
 

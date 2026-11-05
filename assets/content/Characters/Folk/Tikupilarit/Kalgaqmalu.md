@@ -40,6 +40,6 @@ Kalgaqmalu, Raven Running, is a hunter (_kuvlatiq_) of [[place-simimanik|Trading
 
 Every few years the canoes come north with warriors instead of goods and land at night to take slaves. Trading Shore is the only village on the coast that still keeps armor (_salaq_) of bone and ivory plates in use, and Kalgaqmalu owns a set and a sinew-backed bow, as every man of the village does. The last raid took nine people, a dozen winters ago. Two were ransomed at the next midsummer trade for ivory, and he did the ransoming. The village still speaks of the other seven by name, and has not given those names to any child.
 
-He is fifty, grey at the temples, patient, and he trusts the Cedar leader who comes every year, [[being-kwayukapala|Kwayukapala]] of the [[affiliation-eaglehouse|Eagle House]], as far as he trusts anyone who comes by sea. A party that comes north with the Cedar canoes is met on the beach by him and watched until it leaves.
+He is fifty, gray at the temples, patient, and he trusts the Cedar leader who comes every year, [[being-kwayukapala|Kwayukapala]] of the [[affiliation-eaglehouse|Eagle House]], as far as he trusts anyone who comes by sea. A party that comes north with the Cedar canoes is met on the beach by him and watched until it leaves.
 
 What he wants is a midsummer trade that never turns into a raid, and seven names he can give to children again.

@@ -18,7 +18,7 @@ data:
     - affiliation-alndnwrdns
   lang: elav
 
-# terran_analog: "The Breton lai as Marie de France wrote it down (one marvellous episode, octosyllabic couplets, the harper's frame), for the form; the white hart of the lais and of Breton hunting tales that leads a lord off the road; the coronation oath sworn in a set form after a recital, for the occasion."
+# terran_analog: "The Breton lai as Marie de France wrote it down (one marvelous episode, octosyllabic couplets, the harper's frame), for the form; the white hart of the lais and of Breton hunting tales that leads a lord off the road; the coronation oath sworn in a set form after a recital, for the occasion."
 ---
 
 **The Lay of the Tree Line** is the lay [[affiliation-bardicolgs|the Bardic Colleges]] sing at every crowning in [[place-elavendre|Élavendre]], in the hall at [[place-beravel|Péravel]], before the monarch swears. It tells one episode, the going up of [Táldoren]{.name data-type="being/npc"}, the First Crowned, to [[place-eshalshldg|Ésalosa]] ([[lore-firstcrown|The First Crowning of Élavendre]]), and it is the shortest of the songs the Circle keeps by heart, because it is sung once in a reign and must be sung without a fault. A Bard of the Circle sings it to the harp in rhymed couplets of four beats, the form of the lays, while the monarch stands bareheaded with the crown on its cloth beside the throne. When the lay is done the monarch says the oath in a set form, aloud and without a page, and only then is crowned.

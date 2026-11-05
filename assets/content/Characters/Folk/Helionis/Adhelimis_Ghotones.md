@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Adhélimis Ghotones is a 90-year-old man who stands 5'10" tall with a medium build. He has tanned skin, smooth complexion, brown hair, and grey eyes.
+Adhélimis Ghotones is a 90-year-old man who stands 5'10" tall with a medium build. He has tanned skin, smooth complexion, brown hair, and gray eyes.
 
 # Dossier {#dossier}
 

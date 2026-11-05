@@ -415,7 +415,7 @@ sohl:
 
 ![[vrldmylhrfnsvld|Vrildmil Hrafansvald]]{float=top-left}
 
-Vrildmil stands 6'0" tall with a medium build. He has light fair skin, brown hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, and hollow cheeks.
+Vrildmil stands 6'0" tall with a medium build. He has light fair skin, brown hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, and hollow cheeks.
 
 # Dossier {#dossier}
 

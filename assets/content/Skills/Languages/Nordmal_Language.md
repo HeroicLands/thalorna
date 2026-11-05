@@ -1032,7 +1032,7 @@ data:
       class: "stem"
       field: "Name elements"
       gloss: "memory held rather than written"
-    - {form: "mót-", class: "stem", field: "Name elements", gloss: "a shape, a mould"}
+    - {form: "mót-", class: "stem", field: "Name elements", gloss: "a shape, a mold"}
     - {form: "mun-", class: "stem", field: "Name elements", gloss: "memory recited"}
     - {form: "ná-", class: "stem", field: "Name elements", gloss: "a corpse"}
     - {form: "njor-", class: "stem", field: "Name elements", gloss: "the open sea's deep"}
@@ -1140,12 +1140,12 @@ data:
     - {form: snura, class: n, gloss: a smell; a scent, field: Everyday speech, concept: smell-noun}
     - form: smag
       class: v
-      gloss: to taste; to perceive a flavour in the mouth
+      gloss: to taste; to perceive a flavor in the mouth
       field: Everyday speech
       concept: taste-verb
     - form: smeld
       class: n
-      gloss: a taste; a flavour
+      gloss: a taste; a flavor
       field: Everyday speech
       concept: taste-noun
     - form: hnip
@@ -2921,28 +2921,28 @@ data:
       concept: measure-verb
     - form: svarti
       class: adj
-      gloss: "black in colour. Gnum es svarti: the pot is black."
+      gloss: "black in color. Gnum es svarti: the pot is black."
       field: Everyday speech
       concept: black
-    - {form: hvitna, class: adj, gloss: white in colour, field: Everyday speech, concept: white}
-    - {form: raudva, class: adj, gloss: red in colour, field: Everyday speech, concept: red}
+    - {form: hvitna, class: adj, gloss: white in color, field: Everyday speech, concept: white}
+    - {form: raudva, class: adj, gloss: red in color, field: Everyday speech, concept: red}
     - form: groni
       class: adj
-      gloss: green in colour; also used of the colour of growing leaves
+      gloss: green in color; also used of the color of growing leaves
       field: Everyday speech
       concept: green
-    - {form: gulva, class: adj, gloss: yellow in colour, field: Everyday speech, concept: yellow}
-    - {form: blova, class: adj, gloss: blue in colour, field: Everyday speech, concept: blue}
-    - {form: hlomi, class: adj, gloss: grey in colour, field: Everyday speech, concept: grey}
-    - {form: brunva, class: adj, gloss: brown in colour, field: Everyday speech, concept: brown}
+    - {form: gulva, class: adj, gloss: yellow in color, field: Everyday speech, concept: yellow}
+    - {form: blova, class: adj, gloss: blue in color, field: Everyday speech, concept: blue}
+    - {form: hlomi, class: adj, gloss: gray in color, field: Everyday speech, concept: grey}
+    - {form: brunva, class: adj, gloss: brown in color, field: Everyday speech, concept: brown}
     - form: ljomi
       class: adj
-      gloss: light in colour; toward white rather than dark
+      gloss: light in color; toward white rather than dark
       field: Everyday speech
       concept: light-colour
     - form: blemi
       class: adj
-      gloss: pale; weak or washed-out in colour
+      gloss: pale; weak or washed-out in color
       field: Everyday speech
       concept: pale
     - form: skelmi
@@ -5548,7 +5548,7 @@ data:
     - {form: hafgras, class: n, field: Everyday speech, gloss: seaweed}
     - {form: lirva, class: n, field: Everyday speech, gloss: color}
     - {form: merka, class: v, field: Everyday speech, gloss: mark or indicate a place}
-    - {form: motgnum, class: n, field: Everyday speech, gloss: mould used to cast or press a shape}
+    - {form: motgnum, class: n, field: Everyday speech, gloss: mold used to cast or press a shape}
     - {form: vadsta, class: n, field: Everyday speech, gloss: ford}
     - {form: skromrap, class: n, field: Everyday speech, gloss: scree}
     - {form: geitva, class: n, field: Everyday speech, gloss: goat}
@@ -6154,7 +6154,7 @@ The language stands apart from southern Pelwar tongues, having developed in rela
 
 ## How Nordmal sounds
 
-Nordmal is hammer-stressed and short: it favours one or two syllables, with the weight at the front.
+Nordmal is hammer-stressed and short: it favors one or two syllables, with the weight at the front.
 
 **The vowels.** _a_, _o_, _u_ and _i_ are short and hard. _e_ is rarer.
 
@@ -6176,7 +6176,7 @@ Nordmal employs a consonant-heavy inventory with particular emphasis on stops an
 
 **Vowels:** Nordmal maintains five vowel positions (a, e, i, o, u) with systematic length distinctions. Diphthongs are limited in inventory but phonemic. Nasal vowels do not occur.
 
-**Stress and Rhythm:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Nordmal favours short words, so the weight falls at the front. This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
+**Stress and Rhythm:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Nordmal favors short words, so the weight falls at the front. This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
 
 **Distinctive Features:** The hard closing _k_ of a clan name marks formal speech, since a clan name is read out at the ting. The combination of initial consonant clusters with the strong initial stress gives Nordmal a distinctive "punch" in speech. Nordmal also preserves some archaic Pelwar features that other branches have lost.
 
@@ -6224,7 +6224,7 @@ FROM name_shapes WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY posit
 
 ### Weight, foot and beat
 
-Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favours put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favors put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.
 
 A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—[[lore-solrundty|Solrún]] and [[lore-thrunvalddty|Thrunvald]] open long, Althmil and Hlartharuk open short.
 

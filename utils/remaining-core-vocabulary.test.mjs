@@ -9,6 +9,7 @@ import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { WORD_CLASS_BASES, parseWordClass } from "@heroiclands/package-build/engine/word-classes";
 import {
+    americanSpelling,
     baselinePath,
     withCommonStress,
     withNameForms,
@@ -154,11 +155,13 @@ const respelled = (file, raw) => {
         .replace(/ü/gu, "u");
 };
 const fromBaseline = (file) =>
-    respelled(
-        file,
-        execFileSync("git", ["show", `${baseline}:${baselinePath(file, baseline)}`], {
-            encoding: "utf8",
-        }).replaceAll("khazrilng", "tellumilng"),
+    americanSpelling(
+        respelled(
+            file,
+            execFileSync("git", ["show", `${baseline}:${baselinePath(file, baseline)}`], {
+                encoding: "utf8",
+            }).replaceAll("khazrilng", "tellumilng"),
+        ),
     );
 // Baseline older names, by file, whose register rows and older-name list
 // entries the comparison drops from the baseline fixture.
@@ -199,7 +202,7 @@ const replacedProse = new Map([
         [
             [
                 "Features full vowel marking and adherence to classical grammar.",
-                "Favours the full run of _a_, _u_ and _i_ in open syllables, the endings _-um_, _-ush_ and _-uni_, and adherence to classical grammar.",
+                "Favors the full run of _a_, _u_ and _i_ in open syllables, the endings _-um_, _-ush_ and _-uni_, and adherence to classical grammar.",
             ],
             [
                 "and heavily marked vowels for contractual precision.",
