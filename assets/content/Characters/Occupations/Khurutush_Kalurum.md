@@ -3,7 +3,8 @@ shortcode: khrtshklrm
 name: {full: Khurutush Kalurum}
 type: being
 subType: npc
-tags: [draft, guilded, soldiery]
+description: "A swordmaster of Sharimun who keeps a fencing yard near the arena gate, where he teaches the sons of guild families and takes care never to teach them like gladiators."
+tags: [guilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,57 +393,56 @@ sohl:
 
 # Appearance {#appearance}
 
-Khurutush Kalurum is a 45-year-old man who stands 6'1" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His piercing brown eyes sit beneath prominent brows, lending him a penetrating gaze. A hawkish nose and expressive lips complete his features. He has tanned skin with a smooth complexion. His brown hair is cropped short.
+Khurutush Kalurum is a 44-year-old man who stands 6'1" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His piercing brown eyes sit beneath prominent brows, lending him a penetrating gaze. A hawkish nose and expressive lips complete his features. He has tanned skin with a smooth complexion. His brown hair is cropped short. He stands very straight, and favors his right hip when he thinks nobody is watching.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Khurutush Kalurum came into the world of the swordmaster through a combination of circumstance and aptitude.
+Khurutush Kalurum is a swordmaster of [[place-sharimun|Sharimun]], a freeman of the town who keeps a fencing yard near the gate of the arena, in the old quarry pit under the terraces. His pupils are the sons and daughters of the town's guild families, sent to him to learn the blade as a gentleman's exercise and a merchant's protection. He teaches them a straight guard, a short lunge and the sense to walk away, and he is careful never to teach them anything a gladiator would use.
 
-Khurutush is a veteran swordsman who once was a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Khurutush takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
+The yard is close enough to the arena that his pupils hear the crowd on a fight day. He keeps them at their lessons through it.
+
+## Background
+
+**The guard.** Khurutush served for many years as captain of the guard of a guild house, walking its masters and its money between the counting room and the quay. He left its service when the years began to tell on his hip, with a good name and enough silver to open the yard.
+
+**The yard.** The guild families who had seen him at the house's door sent him their children, and he has kept the yard on that custom since.
 
 ## Psyche
 
 ### Personality
 
-Age has affected his stamina and flexibility; struggles with accepting that he is past his prime.
+Khurutush is strict, exact and proud. He does not admit that his body is slower than it was, and he takes any doubt of his skill as an insult.
 
 ### Motivation
 
-Khurutush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in swordmaster work keep him vigilant and adaptable.
+He wants his pupils to leave his yard able to defend themselves without ever having to, and he wants the yard to remain the one the guild families choose.
 
 ### Strengths
 
-Expert in swordsmanship, experienced in combat tactics, skilled teacher.
+He is a fine swordsman and a patient, exacting teacher, and he knows the guild families of the town by their children.
+
+### Weaknesses
+
+His right hip is failing, and a long bout tells on him.
 
 ## Social
 
-Khurutush is affiliated with the [City Swordmasters' Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian swordmaster, Khurutush occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Khurutush's primary patrons are wealthy nobles who hire him to train their children. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Rival swordmasters who challenge his reputation.
+The trainers of the [Gladiators' Guild of Sharimun]{.name data-type="affiliation/guild"} think him a dancing master, and say so at the arena gate where his pupils can hear.
+
+### Others
+
+- **The guild families of Sharimun**, who pay for their children's lessons by the season.
+- **The guild house he served**, which still sends its new guards to him to be looked over.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keep the Thunderer's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Swordmaster's Dilemma
-: Khurutush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: Rival swordmasters who challenge his reputation. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Khurutush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Khurutush depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Khurutush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The pupil in the arena.** The eldest son of a guild family has registered with the Gladiators' Guild under another name, to fight a free fighter's bout on the next fight day. His father will blame the yard, and the son has asked Khurutush to come and watch.
+2. **The bout.** A trainer of the arena has challenged Khurutush to a bout in front of his pupils with blunted blades, and Khurutush has accepted before thinking of his hip.
+3. **The litigant's guard.** A merchant come for the Arbitrators' session asks Khurutush to look over the two bodyguards he hired on the quay, because one of them has been asking about his papers.

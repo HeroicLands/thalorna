@@ -127,7 +127,7 @@ Noon on the Spire Circle. The pay-hall's doors are shut and barred, and a clerk 
 
 - [[being-rzmsplthn|Razemos Pelthen]] offers the crowd to the claimant who pays for the bread, and asks the party to carry the offer.
 - [[being-trzmsbrkrts|Torzemos Brakarates]]'s preachers tell the Warrens that the empire is weak and the faith is strong.
-- [[being-kholsamelint|Kolsame Linthimis]] of the Watch wants names, so that his sweeps have someone to sweep.
+- [[being-kholsamelint|Kolsame Linthimis]] of the Watch wants names, so that her sweeps have someone to sweep.
 - [[being-sthmrrdln|Sathemar Ardelen]] must say something on the third noon, and asks the party what.
 
 **Player choices.** Persuade the tribune to tell the truth, help him keep the promise, buy the queue three days of bread, or let it break.

@@ -3,7 +3,8 @@ shortcode: tndnhlrn
 name: {full: Tanadan Helaruni}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "A locksmith of Shamular who makes the strongbox locks in which the town's merchants keep attar, ambergris and silver, and whose name is in question since one of his locks opened without a mark."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,56 @@ sohl:
 
 # Appearance {#appearance}
 
-Tanadan Helaruni is a 36-year-old man who stands 5'8" tall and is of moderate build. He has a long face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a pointed chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A prominent nose and curved lips complete his features. He has warm-toned skin with a sun-tanned complexion. His gray hair is kept practical and short.
+Tanadan Helaruni is a 35-year-old man who stands 5'8" tall and is of moderate build. He has a long face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a pointed chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A prominent nose and curved lips complete his features. He has warm tawny skin with a sun-kissed complexion. His hair went gray early and is kept practical and short. A tattoo of a knight's helmet is inked on his shoulder.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Tanadan Helaruni came into the world of the locksmith through a combination of circumstance and aptitude.
+Tanadan Helaruni is a locksmith of [[place-shamular|Shamular]], the merchant town of [[place-milazun|Milazun]]. His shop stands a street behind the market square, and for twenty years he has made the high-security locks for the strongboxes in which the merchants of Shamular keep attar, ambergris and silver. He makes them for the guild families of the town and for wealthy merchants of every island, and he will not fit a lock he knows can be picked.
 
-Tanadan is a skilled locksmith known for his craftsmanship and attention to detail. He has been in the business for over twenty years, specializing in creating high-security locks for nobles and wealthy merchants. Tanadan takes pride in his work and is known for his integrity, often refusing to create locks that can be easily picked.
+A strongbox locked by Tanadan was opened in the night without a mark on its lock, and the ambergris in it is gone. Its owner has told the [[affiliation-gldbrdshmlr|Guild Board of Shamular]] that the locksmith must have kept a key.
+
+## Background
+
+**The bench.** Tanadan was put to a locksmith's bench in Shamular as a boy and was making strongbox locks of his own before he was twenty.
+
+**The name.** His trade is his name. A merchant who keeps a drop of attar worth its weight in silver buys the locksmith as much as the lock, and Tanadan has kept his name clean by refusing work he did not trust.
 
 ## Psyche
 
 ### Personality
 
-Can be overly serious, struggles with marketing his services.
+Tanadan is serious, reserved and exact, and slow to trust a new customer.
 
 ### Motivation
 
-Tanadan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in locksmith work keep him vigilant and adaptable.
+He wants his name cleared of the accusation, and he wants every lock he has made to stay shut.
 
 ### Strengths
 
-Highly skilled craftsman, knowledgeable about security systems, trustworthy.
+He is a master of his craft, knows how every strongbox in the town is made, and is known to be honest.
+
+### Weaknesses
+
+He cannot sell himself, and he does not know how to answer an accusation in front of the board.
 
 ## Social
 
-Tanadan is affiliated with the local [Locksmiths' Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian locksmith, Tanadan occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Tanadan's primary patrons are nobles and local businesses seeking secure locking mechanisms. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Few; well-respected in the community.
+The owner of the opened strongbox, who has accused him before the Guild Board.
+
+### Others
+
+- **The merchants and guild families of Shamular**, whose strongboxes carry his locks.
+- **The perfumer [[being-kdmyqbsn|Kadumuya Kubasuni]]**, who keeps the oldest shop on the square, one street from his.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-yamuzel|Yamuzel]], the city-state that holds Milazun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keep the feasts of the god of the creative fire without office in the temple.
 
 ## Plot Hooks
 
-The Locksmith's Dilemma
-: Tanadan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: Few; well-respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Tanadan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Tanadan depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Tanadan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The lock that opened.** Tanadan wants a party to clear his name. The lock on the empty strongbox is unmarked and still works, and nobody but its owner has had a key to it.
+2. **The formulas.** Kadumuya Kubasuni asks Tanadan for a lock for the cabinet in her back room where her formulas are kept, in a hurry and on credit, because she has heard that someone has bought up her debts.
+3. **The Warden's drawers.** The Warden of the Seals has been brought a flask with a seal that matches no mark in her cabinet, and she wants a new lock on the cabinet before anyone else looks into it.

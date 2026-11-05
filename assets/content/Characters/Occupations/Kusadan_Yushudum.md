@@ -3,7 +3,8 @@ shortcode: qsdnyshdm
 name: {full: Kusadan Yushudum}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A glassworker of Sharimun's furnace street who makes the glass birds, ships and figured lamps that stand in guild halls from Sharimun to Besikar, and keeps his father's furnace-house lit on luck and his creditors' patience."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -398,13 +399,17 @@ sohl:
 
 # Appearance {#appearance}
 
-Kusadan Yushudum is a 38-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and a sharp jaw that leads to a strong chin. His piercing amber eyes sit beneath straight brows and give him a penetrating gaze. He has a strong nose and narrow lips. He has medium-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side. A notable feature is calloused hands from years of hard work.
+Kusadan Yushudum is a 37-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and a sharp jaw that leads to a strong chin. His piercing amber eyes sit beneath straight brows and give him a penetrating gaze. He has a strong nose and narrow lips. He has medium-toned skin with a sun-kissed complexion. His black hair is combed neatly to one side. His hands are scarred by the furnace from wrist to fingertip, and a tattoo of a compass is inked on his chest.
 
 # Dossier {#dossier}
 
-Kusadan Yushudum is a glassworker of [[place-sharimun|Sharimun]], in [[place-taruzelrgn|Taruzel]], a [[lore-taruzelianclt|Taruzelian]] freeman who has worked his father's furnace-house since he was a boy.
+Kusadan Yushudum is a glassworker of [[place-sharimun|Sharimun]], a freeman who has worked his father's furnace-house in the street of furnace-houses below the quarries since he was a boy. The glassmakers of the street work with sand brought by sea and the ash of the beacon's pine, their furnaces glow all night, and every furnace-house works under a license from the [Glassworkers' Guild of Sharimun]{.name data-type="affiliation/guild"}. Kusadan makes the glass birds, ships and figured lamps that the guild families of the [[affiliation-cnfdrtntrzlnstts|Confederation]] buy to stand in their halls from Sharimun to [[place-besikar2|Besikar]].
 
-Kusadan learned window panes and bottles from his father and then went past them, into blown vessels, figured lamps and the glass sculptures—birds, ships, a hand—that the guild families of Sharimun buy to stand in their halls. He loves the making and is bad at everything else about a shop. The books are behind, the apprentices are paid late, and the price he names is usually less than the work is worth. The furnace has burned him a dozen times and his hands are scarred from wrist to fingertip; a bad burn costs the shop a month, and the shop cannot always afford a month.
+He loves the making and is bad at everything else about a shop. The books are behind, the apprentices are paid late, and the price he names is usually less than the work is worth. A bad burn costs the shop a month, and the shop cannot always afford a month.
+
+## Background
+
+**The furnace-house.** Kusadan learned window panes and bottles from his father and went past them, into blown vessels, figured lamps and the glass sculptures that made his name. The furnace-house came to him with its license and its debts.
 
 ## Psyche
 
@@ -414,36 +419,34 @@ Kusadan is absorbed, driven and impractical, and hard on any piece of his own th
 
 ### Motivation
 
-Kusadan wants to make glass better than any he has made, and each finished piece is only the measure for the next. Under that is the need to keep his father's furnace-house lit, which he manages by luck and the patience of his creditors.
+He wants to make glass better than any he has made, and each finished piece is only the measure for the next. Under that is the need to keep his father's furnace lit.
 
 ### Strengths
 
-Skilled in glassblowing and sculpture, inventive, painstaking with a piece once it is in hand.
+He is a master of glassblowing and figured work, inventive and painstaking with a piece once it is in hand.
+
+### Weaknesses
+
+He keeps no accounts, names prices too low, and is behind on his guild dues.
 
 ## Social
 
-Kusadan holds his license from the [Glassworkers' Guild of Sharimun]{.name data-type="affiliation/guild"} and is behind on its dues.
-
-## Companions
-
-### Patrons
-
-Kusadan's patrons are the guild houses of Sharimun, who commission glass for their halls and their gifts and pay handsomely when he remembers to ask. Two of them send a steward to settle his suppliers directly, so that the piece they want is finished.
-
 ### Enemies
 
-Rival glassworkers of the port who want the guild houses' commissions and are better at asking for them; one of them keeps an account of Kusadan's late dues and mentions it where guild-wardens can hear.
+A rival glassworker of the street who wants the guild houses' commissions, is better at asking for them, and keeps an account of Kusadan's late dues that he mentions where the guild's wardens can hear.
+
+### Others
+
+- **The guild houses** that commission his glass for their halls and their gifts. Two of them send a steward to settle his suppliers directly, so that the piece they want is finished.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keep the feasts of the god of the creative fire without office in the temple.
 
 ## Plot Hooks
 
-The Burned Hand
-: Kusadan has taken a commission for a guild-warden's wedding, the largest of his life, and put his right hand in the furnace mouth a month before it is due. The piece is half-made and only he can finish it.
-
-The Rival's Bid
-: The house that has bought from Kusadan for ten years is being courted by a rival with a better ledger and a copy of Kusadan's best design. The house has asked him to match a price he cannot make glass at.
-
-The Partner
-: A merchant of the port has offered to take over the shop's books and its debts for a half share, which would keep the furnace lit and put a stranger's name on his father's door.
-
-A Piece for the Compact
-: An officer of the [[affiliation-auricompct|Auric Compact]] has commissioned a glass ship from Kusadan as a gift for the [[affiliation-grandcouncil|Grand Council]] and has made clear that the Compact does not accept excuses.
+1. **The burned hand.** Kusadan has taken a commission for a guild master's wedding, the largest of his life, and has put his right hand in the furnace mouth a month before it is due. The piece is half-made and only he can finish it.
+2. **The rival's bid.** The house that has bought from Kusadan for ten years is being courted by the rival with a better ledger and a copy of Kusadan's best design, and has asked him to match a price he cannot make glass at.
+3. **The partner.** A merchant of the port has offered to take over the shop's books and its debts for a half share, which would keep the furnace lit and put a stranger's name on his father's door.
+4. **A piece for the Compact.** An officer of the [[affiliation-auricompct|Auric Compact]] has commissioned a glass ship from Kusadan as a gift for the [[affiliation-grandcouncil|Grand Council]] and has made clear that the Compact does not accept excuses.

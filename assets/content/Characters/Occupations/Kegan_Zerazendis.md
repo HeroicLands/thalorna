@@ -3,7 +3,8 @@ shortcode: chgnzrznds
 name: {full: Kegan Zerazendis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Keeper of the Zerazendis Inn two streets back from Elissara's Long Quay, whose kitchen is the best in the lower town and whose tables hear the news of the estates, the quay and the river."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [aelissium]
-  affiliations: {vylarinmpr: {rank: 4}, olvenia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.38
@@ -393,57 +394,58 @@ sohl:
 
 # Appearance {#appearance}
 
-Kegan Zerazendis is a 28-year-old woman who stands 5'7" tall and is slender. She has a long face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her narrow green eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and full lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is adorned with simple pins.
+Kegan Zerazendis is a 27-year-old woman who stands 5'7" tall and is slender. She has a long face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her narrow green eyes sit beneath heavy brows, lending her a keen gaze. A straight nose, crossed at the bridge by a thin white scar, and full lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is pinned up out of the way of the kitchen fire.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Kegan Zerazendis came into the world of the innkeeper through a combination of circumstance and aptitude.
+Kegan Zerazendis keeps the [Zerazendis Inn]{.name data-type="place/structure"} in [[place-aelissium|Elissara]], two streets back from the [Long Quay]{.name data-type="place/structure"}, which her parents kept before her. It is the inn for travelers who come in by sea and for the farmers who bring produce down from the estates of [[place-salkhalon|Salkalon]] by the coast road, and its kitchen is the best in the lower town. She cooks for it herself.
 
-Kegan inherited the [Zerazendis Inn]{.name data-type="place/structure"} from her parents and has worked hard to keep it running smoothly. She is known for her hearty meals and warm hospitality. Kegan is passionate about creating a welcoming atmosphere, and her inn has become a beloved spot for local farmers and travelers alike. Despite her dedication, she often feels the weight of the responsibilities on her shoulders.
+The farmers come in the evening after market with their carts empty and their purses full, and the travelers come up from the [Sea Gate]{.name data-type="place/structure"} at any hour the tide brings them. Between the two she hears most of what is said in the lower town about the estates, the quay and the river.
+
+## Background
+
+**The kitchen.** Kegan grew up in the inn's kitchen and cooked for its tables before she could see over them.
+
+**The inheritance.** Her parents left her the inn, its custom and its debts together. She has kept all three.
 
 ## Psyche
 
 ### Personality
 
-Can be overwhelmed by stress, sometimes lacks confidence.
+Kegan is warm with guests, quick in the kitchen and anxious everywhere else. She doubts her own judgment, and the weight of the house sits on her more heavily than she shows.
 
 ### Motivation
 
-Kegan is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
+She wants the inn kept as her parents kept it, full, fed and paid for, and the debt on it cleared in her own time.
 
 ### Strengths
 
-Great cook, personable, good at managing the inn.
+She is a fine cook, good company, and a careful manager of a busy house. She remembers every regular's name and what he drinks.
+
+### Weaknesses
+
+She cannot refuse a farmer credit for a night's bed, she worries, and a hard bargainer can talk her down.
 
 ## Social
 
-Kegan is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
-
-As a Vylarian innkeeper, Kegan occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Kegan's primary patrons are local farmers and traveling merchants. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-None; respected by the community.
+She has none. The lower town likes her, and the farmers of the estates come back to her.
+
+### Others
+
+- **The farmers of the Salkalon estates**, who lodge with her on market nights and bring her their news and their produce.
+- **The travelers off the ships**, who ask for her inn by name at the Sea Gate.
+- **The [[affiliation-danvar|Danvar]] chapterhouse**, which holds the note on the inn.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-olvenia|Faith of Ólvenia]]**: one of the lay faithful, the Devran, who keeps the feasts of the Bountiful One without office in the temple.
 
 ## Plot Hooks
 
-The Innkeeper's Dilemma
-: Kegan faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
-
-Old Grudges
-: None; respected by the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kegan's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Kegan depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kegan the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The guest who writes.** The advocate from [[place-mercavia|Delalara]] who says he is writing a history of the city has taken her best room, and he writes more letters in an evening than a historian needs. They go out by the coast road to the province, by his own rider.
+2. **The toll-house.** The farmers who lodge with her say that the province's men have begun to stand beside the city's clerks at the toll-house on the coast road, writing down every cart. Two of them have stopped coming.
+3. **The note.** The Danvar chapterhouse has called in the note on the inn a year early. Kegan can pay it by selling the inn's lease, or by finding out why it was called.
+4. **The quiet table.** Two seamen of the [[affiliation-seamensgld|Seamen's Guild of Elissara]] meet a stranger at her corner table every evening the fleet's clerk is in the city, and they pay her well to keep the table free.

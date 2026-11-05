@@ -3,7 +3,8 @@ shortcode: ltryqzkn
 name: {full: Lataruya Qizikuni}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "A litigant of Sazumun who bears the Qizikuni name and pleads the Besikar banking house's inheritance cases in the city, and the cases of the families who cannot pay a house's fee."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,55 +394,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Lataruya Qizikuni is a 28-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows and give her an open gaze. She has a strong nose and narrow lips. She has olive-tanned skin with a sun-tanned complexion. Her black hair is tucked beneath a kerchief.
+Lataruya Qizikuni is a 27-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows and give her an open gaze. She has a strong nose and narrow lips. She has olive skin with a sun-kissed complexion. Her black hair is tucked beneath a kerchief, and a small leaf is tattooed on the inside of her wrist, where her cuff covers it in court.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a noble family of [[lore-taruzelianclt|Taruzelian]] heritage, Lataruya Qizikuni is a litigant.
+Lataruya Qizikuni is a litigant of [[place-sazumun2|Sazumun]], a freewoman on the city's register who pleads family and inheritance cases in the city's courts. She bears the name of the [[affiliation-qizikuni|Qizikuni]], the oldest banking house of [[place-besikar2|Besikar]], which keeps litigants of its own name in other cities to see that its debts are honored, and in Sazumun the house's inheritance cases are hers. When a captain who sailed under a Qizikuni bond dies, or a merchant who borrowed from the house, she sees that what he owed passes to his heirs with the rest of what he left.
 
-Lataruya is a skilled litigant specializing in family law and inheritance disputes. As a respected member of the [Litigants' Guild]{.name data-type="affiliation/guild"}, she is known for her compassion and dedication to her clients. She understands the feelings in a case as well as the law, and handles difficult cases with care. She cares that justice is done and works tirelessly for her clients.
+A debt a man dies owing is a debt his house inherits, and the courts of Sazumun hear such cases under the guilds' rules. Lataruya argues them well, and she argues the other side of them too, for widows and younger sons who come to her rooms off the temple streets without a house of their own to plead for them. The Qizikuni pay her for the first kind of case. She takes the second kind for what the family can give.
+
+## Background
+
+**The schooling.** She was schooled in rhetoric, mathematics and mercantile law, as children of the guild families are, and reads and writes the [[skill-merazanscrpt|Merazan script]] as fast as the clerks of the court.
+
+**The courts.** She came to Sazumun to plead for the house and has stayed, because inheritance in a port city of 200,000 is never short of cases.
 
 ## Psyche
 
 ### Personality
 
-She can feel too much for her clients, and takes on too much of the weight of her cases.
+Lataruya is warm, patient and persuasive, and she feels too much for her clients. She carries the weight of a case home and does not put it down until the verdict.
 
 ### Motivation
 
-Lataruya wants justice done for the families who come to her.
+She wants each inheritance to pass fairly, the debt with the estate, and she wants the families who cannot pay a litigant to be heard as well as the houses that can.
 
 ### Strengths
 
-She deals well with people, is adept at mediation, and is compassionate.
+She knows the law of inheritance and the guilds' rules thoroughly, she is a skilled mediator, and few can match her in argument or in reading a hostile witness.
+
+### Weaknesses
+
+Her two kinds of client are often on opposite sides of the same debt, and she has not found a way to serve both that leaves her easy.
 
 ## Social
 
-Lataruya belongs to the Litigants' Guild.
-
-## Companions
-
-### Patrons
-
-Lataruya's patrons are the families seeking legal advice and representation.
-
 ### Enemies
 
-Few; respected in her field but occasionally faces skepticism from more traditional litigators.
+The litigants who plead for the [[affiliation-hitusuni|Hitusuni]] have lost two inheritance cases to her and say in the courts that a Besikar name has no business in a Sazumun estate.
+
+### Others
+
+- **The Qizikuni's counting room in Besikar**, which sends her its cases by sealed letter and expects them won.
+- **The families of the quays**, who send their neighbors to her rooms when a death leaves a debt behind.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Sazumun, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through her state's councilors.
+- **[[affiliation-marendas|Faith of Marendas]]**: one of the lay faithful, the Devran, who keeps the feasts of the god of knowledge without office in the temple.
 
 ## Plot Hooks
 
-The Litigant's Dilemma
-: An inheritance case turns on a will Lataruya knows to be forged, and she has to choose between her client and the truth.
-
-Old Grudges
-: One of the traditional litigants who doubt her takes a case against her personally.
-
-Echoes of the Past
-: A family dispute Lataruya settled years ago resurfaces with a party she had forgotten.
-
-Shifting Winds
-: Political change in Taruzel threatens the courts Lataruya depends upon, and she can adapt, resist, or leave.
-
-The Opportunity
-: A noble house offers Lataruya its business beyond anything she has hoped for, and the price is not named up front.
+1. **The widow's bond.** A porter of the quays has died owing on a Qizikuni bond, and the house wants the debt from his widow. The house's letter names Lataruya to plead its case, and the widow has come to her rooms asking her to plead the other side.
+2. **The receipt.** The widow of an outlawed captain of the [[affiliation-freecaptains|Free Captains]] brings Lataruya a Hitusuni receipt for a prize cargo stored in the war, and asks to inherit what is written on it. The Hitusuni say the captain was outside protocol when he died, and his estate with him.
+3. **The sealed letter.** A sealed letter from Besikar asks her, as the house's litigant of inheritance, how a seat in the [[place-houseoffactors|House of Factors]] could be made to pass from a head to his heir under the guilds' rules. Nobody in Sazumun has asked the question, and she is not to discuss it.
+4. **The second will.** A factor of the slope has died leaving two wills, one under the seal of his guild and one in his own hand, and the second leaves his warehouse leases to a son whose name is on the black board at the foot of the House's stair.

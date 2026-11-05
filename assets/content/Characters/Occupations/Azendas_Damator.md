@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 4}, lizelas: {rank: 3}}
+  affiliations: {vylarinmpr: {rank: 3}, lizelas: {rank: 3}}
   gender: male
   species: humanflk
   born: 679.83
@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Azendas Damator is a 41-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and wide lips. He has tanned skin with a weathered complexion. His dark brown hair is short and swept back.
+Azendas Damator is a 40-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and wide lips. He has tanned skin with a weathered complexion. His dark brown hair is short and swept back.
 
 The dragon tattooed around his upper arm tells a story he rarely discusses—a coiled beast inked in deep black and rust, the kind of mark men earn in distant wars or mercenary camps. The tattoo has faded with time and sun exposure, its edges softened but unmistakable. Those familiar with such things recognize it as the mark of a soldier, though Azendas turned toward the green blessing of the [[affiliation-lizelas|Faith of Lizelas]] long ago.
 
@@ -405,7 +405,7 @@ Azendas did not come to the priesthood by the expected path. Born into a freeman
 
 As the mercenary roads began to close—as they always do—Azendas found himself in [[place-tyrellan|Tirellan]] with few skills but considerable experience and a deep weariness. He took work as a farmhand, then as a steward for a modest estate, learning the cycles of planting and harvest with the intensity he'd once applied to warfare. It was an old priestess of Lizelas, seeing the warrior's hands trying to coax life from the soil, who first suggested he had the makings of a healer. That suggestion took root in him like seed in good earth.
 
-Now, at forty-five, Azendas serves the farming communities and villages throughout Tirellan with the same disciplined commitment he once gave to combat. He oversees the [Temple of Lizelas]{.name data-type="affiliation"}'s seasonal festivals—the blessing of the fields at spring plowing, the harvest thanksgiving festivals that draw entire villages. His reputation grows not from eloquence—he speaks plainly, sometimes harshly—but from results. Cattle blessed under his rituals rarely sicken. Herbal remedies he compounds ease childbirth complications. Crops tended with Lizelas's wisdom flourish even as the imperial roads and works crumble elsewhere. In a realm gradually strangled by economic decline, Azendas has become essential.
+Now, at forty, Azendas serves the farming communities and villages throughout Tirellan with the same disciplined commitment he once gave to combat. He oversees the [Temple of Lizelas]{.name data-type="affiliation"}'s seasonal festivals—the blessing of the fields at spring plowing, the harvest thanksgiving festivals that draw entire villages. His reputation grows not from eloquence—he speaks plainly, sometimes harshly—but from results. Cattle blessed under his rituals rarely sicken. Herbal remedies he compounds ease childbirth complications. Crops tended with Lizelas's wisdom flourish even as the imperial roads and works crumble elsewhere. In a realm gradually strangled by economic decline, Azendas has become essential.
 
 Yet the decline troubles him deeply. He watches the imperial roads fall into disrepair, sees fewer merchant caravans arriving in Tirellan, witnesses the slow starvation of the towns that depended on imperial trade. The farming communities he serves grow more desperate, more vulnerable. He knows that in a dying empire, the priesthood becomes either the last holdfast of civilized order or merely another hungry mouth competing for scraps. He works as a healer and as a bulwark, trying to hold back chaos through old knowledge and care.
 

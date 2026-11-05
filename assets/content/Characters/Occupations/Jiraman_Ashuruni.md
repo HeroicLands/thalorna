@@ -3,7 +3,8 @@ shortcode: jrmnashrn
 name: {full: Jiraman Ashuruni}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A singer of Yamuzel's Veterans' Quarter who sings the war's songs in the veterans' halls, makes his own instruments, and is wanted on Review night both in the halls and at the banquet on the height."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Jiraman Ashuruni is a 43-year-old man who stands 5'10" tall and is of moderate build. He has an angular face with prominent cheekbones, a high forehead, and a narrow jaw that leads to a strong chin. His large hazel eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has medium-toned skin with an olive-toned complexion. His dark brown hair is cropped short.
+Jiraman Ashuruni is a 42-year-old man who stands 5'10" tall and is of moderate build. He has an angular face with prominent cheekbones, a high forehead, and a narrow jaw that leads to a strong chin. His large hazel eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has medium-toned skin. His dark brown hair is cropped short, and a tattoo of a falcon is inked on his right arm.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Jiraman Ashuruni came into the world of the skald through a combination of circumstance and aptitude.
+Jiraman Ashuruni is a singer and teller of tales in [[place-yamuzel2|Yamuzel]], who lives and works in the [Veterans' Quarter]{.name data-type="place/site"} on the slope between the admirals' street and the yards. He sings in the veterans' halls of the quarter, in the taverns of the harbor streets and at the festivals, and his voice is deep and carries to the back of any hall. He plays instruments he has made himself, at a bench in his room under the eaves of a yard men's tenement.
 
-Jiraman was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is known for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
+His songs are the war's: the yards building the fleet, the blockade broken, the squadrons going into the [[place-tamzirshoals|Tamzir Shoals]] at dawn. On the night of the [[lore-fleetreview|Fleet Review]] the halls pin fresh paper over the old broadsheets, read the names of their dead and sing [[lore-paidattheshoals|What Was Paid at the Shoals]] until the lamps burn out, and in the hall he sings in, Jiraman leads it.
+
+## Background
+
+**The family.** Jiraman was raised in a family of fighting men and learned the sword before he learned his letters, but it was his voice that the harbor taverns paid for.
+
+**The war.** He was a grown man when the war of independence came, and he sang in the yards while the fleet was built. Many of the songs the quarter sings now he first sang there.
 
 ## Psyche
 
 ### Personality
 
-Sometimes perceived as aloof, struggles to adapt stories for different audiences.
+Jiraman is proud, reserved and serious about his songs. He sings a song one way, the way he first made it, and does not change it for a room that wants something lighter.
 
 ### Motivation
 
-Jiraman is driven by the desire to master his craft and secure a stable future. The uncertainties of life in skald work keep him vigilant and adaptable.
+He wants the war remembered as the men who fought it remember it, and he wants his songs sung after him.
 
 ### Strengths
 
-Skilled storyteller, powerful voice, knowledgeable in [[lore-nordheimnclt|Nordmen]] history.
+He has a powerful voice, a great store of songs and tales, and a craftsman's hand with wood. He notices everything in a room while he sings.
+
+### Weaknesses
+
+He can seem aloof, and an audience that does not want the war's songs gets little else from him.
 
 ## Social
 
-Jiraman is affiliated with [[affiliation-skaldscrcl|the Skalds' Circle]], the Nordland Skalds' Guild.
-
-As a Taruzelian skald, Jiraman occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Jiraman's primary patrons are local chieftains and warriors who appreciate his tales of heroism. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Rival skalds who envy his skill and fame.
+Other singers of the harbor taverns envy him the halls' custom and say that he sings the same ten songs.
+
+### Others
+
+- **The veterans' halls of the quarter**, which feed him and keep a stool for him by the fire.
+- **The tavern hosts of the harbor streets**, who pay him to sing when the convoys are in the roads.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Yamuzel, free to trade under the Confederation's tariffs and entitled to petition the [[affiliation-grandcouncil|Grand Council]] through his state's councilors.
+- **[[affiliation-lusinia|Faith of Lusinia]]**: one of the lay faithful, the Devran, who keep the World-Weaver's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Skald's Dilemma
-: Jiraman faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
+1. **The new verse.** The hall Jiraman sings in wants a new verse for Review night, one that names a captain of the height and says what he did at the Shoals. The men who asked for it will not say the name in the tavern, and Jiraman has not yet said whether he will sing it.
+2. **The banquet.** The [Admiral's Council]{.name data-type="affiliation/governmental"} has asked Jiraman to sing at its banquet on the height on Review night, for a purse larger than the halls have ever paid him. The halls keep their own night, and the halls do not go up to the height.
+3. **The terraces.** The veterans ploughing the marked plots on [[place-khamisar|Khamisar]]'s southern terraces ask Jiraman to come and sing on the day the marines come to clear them, because many of the marines grew up in the quarter singing his songs.
 
-Old Grudges
-: Rival skalds who envy his skill and fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Jiraman's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Jiraman depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Jiraman the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+:::secret {title="The Truth of Yamuzel"}
+The captain the hall wants named is the one whose ship broke from the line on the second day of the Shoals and was later counted among the victors. His house is on the height, and the ship model missing from an admirals' window is his: a veteran's son of the quarter took it, and the card left behind with one battle scratched out is the veterans' accusation. The new verse would say aloud what the card says in silence.
+:::

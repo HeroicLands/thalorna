@@ -3,7 +3,8 @@ shortcode: gorzndsbrs
 name: {full: Gorazendis Bares}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A young locksmith of Korvenara who fits the locks of the legion camp's store-rooms and strongboxes, and makes fine locks with hidden wards for anyone who can pay."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {rank: 4}, sacredforge: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
   born: 697.276
@@ -392,55 +393,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Gorazendis Bares is a 23-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin. Her piercing hazel eyes sit beneath straight brows and give her a penetrating gaze. She has a strong nose and wide lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
+Gorazendis Bares is a 22-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin, and a thin scar crosses her left cheek. Her piercing hazel eyes sit beneath straight brows and give her a penetrating gaze. She has a strong nose and wide lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Gorazendis Bares is a locksmith.
+Gorazendis Bares is a locksmith of [[place-corvinus|Korvenara]], the garrison town of [[place-alyssa|Alessa]], who keeps a shop on the street that runs from the camp's south gate into the town. The town lives by the legion, and so does she: she fits the locks on the camp's store-rooms and strongboxes to its patterns, mends the officers' chests, and makes fine locks with hidden wards for the veterans of the town council and the few households of means.
 
-Gorazendis is a talented locksmith with secret ties to [[affiliation-velvethand|the Velvet Hand]]. She uses her skills to make locks that are both beautiful and functional, often with hidden mechanisms that only a few know about. While she runs a legitimate locksmith's shop, her connections to the Velvet Hand let her provide unusual services to those in the underworld. She walks the line between legality and crime, using her talents to get by.
+## Background
+
+**The bench.** Gorazendis learned the trade at a locksmith's bench in the town and opened her own shop young, on the strength of her fine work.
 
 ## Psyche
 
 ### Personality
 
-She can be reckless, and struggles with the right and wrong of her work.
+Gorazendis is quick, proud of her work and reckless with risk, and she argues with herself about the right and wrong of some of her work more than she lets it stop her.
 
 ### Motivation
 
-Gorazendis wants her shop to stand on its own, and her work for the Velvet Hand to stay the secret it is.
+She wants her shop to stand on its own, and some of her customers to stay secret.
 
 ### Strengths
 
-She is skilled in lockpicking and in fine, detailed lockwork, resourceful, and street-smart.
+She is skilled in fine and hidden lockwork and in opening locks she did not make, resourceful and street-wise.
+
+### Weaknesses
+
+She is young, she takes chances for the pleasure of them, and she has customers who know more about her than she knows about them.
 
 ## Social
 
-Gorazendis belongs to the Velvet Hand, a network of skilled operatives in Vylaria.
-
-## Companions
-
-### Patrons
-
-Gorazendis's patrons are members of the Velvet Hand and the local nobles who appreciate her craft.
-
 ### Enemies
 
-Some city guards suspect her affiliations.
+A sergeant of the Vallar's gate patrol has noticed that two locks she fitted were opened without force, and has begun asking who her customers are.
+
+### Others
+
+- **The camp's store-keepers and paymaster's clerks**, who order its locks from her.
+- **The veterans of the town council and the few households of means**, who buy her finer locks.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keeps the feasts of the creative fire without office in the temple.
 
 ## Plot Hooks
 
-The Locksmith's Dilemma
-: A noble commissions a lock from Gorazendis and the Velvet Hand asks for its hidden mechanism, and she cannot keep faith with both.
+1. **The paymaster's chest.** The legion's paymaster has ordered a new lock for the chest that holds the muster rolls, and wants it made in a week.
+2. **The officer's case.** The officer coming from [[place-orzara|Orzara]] to inspect the legion will carry his orders in a locked dispatch case, and somebody in the town wants to know what they say before the Vallar does.
+3. **The opened store.** A store-room she fitted has been emptied without its lock being forced, and the sergeant of the gate patrol has come to her shop with the lock in his hand.
+4. **The masterpiece.** A veteran of the town council wants a lock with hidden wards for a box he keeps under his bed, and he will not say what is in it.
 
-Old Grudges
-: A city guard who suspects Gorazendis's affiliations has begun watching her shop.
+:::secret {title="The second trade"}
+Gorazendis works for [[affiliation-velvethand|the Velvet Hand]], which buys secrets in the aristocratic households of Alessa, and a locksmith who keeps the keys of a legion's camp is worth more to it than most. The Hand found her through a buyer who wanted a lock opened without its key, and it has paid her since for a copy of a key now and then, and for the names of the men who ordered the locks. She knows its contact only by the inn table where he waits.
 
-Echoes of the Past
-: A lock Gorazendis made with a hidden mechanism in her first years turns up on a door the Velvet Hand has been paid to open.
-
-Shifting Winds
-: Political change in Vylaria threatens the Velvet Hand and the nobles who buy Gorazendis's locks alike, and she can adapt, resist, or leave.
-
-The Opportunity
-: A noble house offers Gorazendis its whole custom in locks, and the Velvet Hand's interest in that house is the part no one mentions.
+The Hand wants a second key to the paymaster's new chest, and it is the Hand that wants the officer's dispatch case opened. The store-room the sergeant asks about was opened with a key she copied.
+:::

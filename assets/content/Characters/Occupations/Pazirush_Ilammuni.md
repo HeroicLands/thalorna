@@ -3,7 +3,8 @@ shortcode: pzrshilmmn
 name: {full: Pazirush Ilammuni}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "The footman of a factor's house on Pashinar's slope, who keeps its door and waits at its table among the caravan masters, and knows every one of them by sight."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,13 +393,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Pazirush Ilammuni is a 29-year-old man who stands 5'7" tall and is lean and wiry. He has a long face with angular cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His piercing brown eyes sit beneath arched brows and give him a penetrating gaze. He has a straight nose and thin lips. He has warm-toned skin with an olive-toned complexion. His black hair is kept practical and short.
+Pazirush Ilammuni is a 28-year-old man who stands 5'7" tall and is lean and wiry. He has a long face with angular cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His piercing brown eyes sit beneath arched brows and give him a penetrating gaze. He has a straight nose and thin lips. He has tawny skin, and his black hair is kept practical and short. A waterfall is tattooed on his shoulder, under the house's livery coat.
 
 # Dossier {#dossier}
 
-Pazirush Ilammuni is a domestic servant of [[place-pashinar|Pashinar]], the caravan town on the largest island of [[place-taruzelrgn|Taruzel]], facing the mainland crossing, a [[lore-taruzelianclt|Taruzelian]] freeman who is footman in the house of one of the town's factors and keeps a family on it.
+Pazirush Ilammuni is a domestic servant of [[place-pashinar|Pashinar]], a freeman on the register who is footman in the house of one of the town's factors and keeps a family on his wage. The factors' houses stand on the slope above the bazaars behind blank walls, each with a courtyard for guests and a counting room off it, and they lend, store and broker for merchants they may never see again.
 
-Pazirush went into service at fourteen because his father's stall in the bazaar could not feed six, and he has served for fifteen years in the house of a factor of Pashinar, who lends, stores and brokers for the merchants who pass through and are gone within the week. Pazirush keeps the door, waits at table and attends the guests, [[lore-dunhariclt|Dunhari]] caravan-masters, [[lore-vedyariclt|Vedyaran]] brokers and Taruzelian factors, with a quickness and a courtesy that the guests remark on and the master takes as his due. He hears everything a footman hears, and forgets it, which is the whole of the trade. He sends most of his wage to his mother and sisters in the bazaar quarter, and keeps back what he can toward a house of his own, a caravanserai's stable-yard or a stall in the cloth market.
+Pazirush keeps the door and waits at the table, where [[lore-dunhariclt|Dunhari]] caravan masters, [[lore-vedyariclt|Vedyaran]] brokers and Taruzelian factors eat together and bargain over the coffee. He attends them with a quickness and a courtesy that the guests praise and the master takes as his due. He knows every caravan master in the town by sight and most by their tallies. He hears everything a footman hears, and forgets it, which is the whole of the trade.
+
+## Background
+
+**The bazaar.** Pazirush went into service at fourteen, because his father's stall in the bazaar could not feed six.
+
+**The house.** He has served in the same factor's house for fourteen years. He sends most of his wage to his mother and sisters in the bazaar quarter, and keeps back what he can toward a house of his own, a caravanserai's stable-yard or a stall in the cloth market.
 
 ## Psyche
 
@@ -408,36 +415,35 @@ Pazirush is polite, watchful and quick, and too mild for his own good: he cannot
 
 ### Motivation
 
-Pazirush wants his mother and sisters fed on his wage, which they are, and he wants a house of his own in a town where every house is somebody's, which he is saving toward at a rate that will take twenty years. He has not yet been offered a faster way that did not frighten him.
+He wants his mother and sisters fed on his wage, which they are, and he wants a house of his own in a town where every house is somebody's, which he is saving toward at a rate that will take twenty years.
 
 ### Strengths
 
-Courteous and attentive, skilled in the manners of a merchant's house.
+He is courteous and attentive, skilled in the manners of a merchant's house, and he remembers faces, names and who sat beside whom.
+
+### Weaknesses
+
+He is timid, and the house is his whole standing in Pashinar: he has nothing to fall back on if he loses it.
 
 ## Social
 
-Pazirush belongs to no body; the factor's house is his whole standing in Pashinar, and he is careful of it.
-
-## Companions
-
-### Patrons
-
-Pazirush's patron is the factor whose door he keeps, who values a footman the guests praise and pays him what a footman is paid.
-
 ### Enemies
 
-The house's steward, who runs the servants and takes a share of what the guests give them, and has taken to giving Pazirush's errands to a nephew.
+The house's steward, who runs the servants, takes a share of what the guests give them, and has begun giving Pazirush's errands to a nephew.
+
+### Others
+
+- **The factor whose door he keeps**, who values a footman the guests praise and pays him what a footman is paid.
+- **The caravan masters who lodge at the house**, several of whom ask for him by name.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Pashinar, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through his state's councilors.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keeps the goddess's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Letter
-: A guest left a letter open on his table and Pazirush, clearing it, read a line he should not have: the caravan is carrying something the factor is not to know about. The guest saw him read it.
-
-The Caravan-Master's Offer
-: A Dunhari caravan-master who has stayed at the house for six years has offered Pazirush a place as his steward on the southern road, at three times his wage, leaving in two days.
-
-The Missing Silver
-: The steward has been selling the house's plate to the passing trade, and the factor has found the plate short and the footman's room searched. The steward searched it.
-
-The Master's Credit
-: The factor's credit at the [[affiliation-merazuni|Merazuni]] has been questioned, and the caravan-masters who bank with him are asking Pazirush, at the door, whether the house is sound. It is not.
+1. **The letter.** A guest left a letter open on his table, and Pazirush, clearing it, read a line he should not have: the caravan is carrying something the factor is not to know about. The guest saw him read it.
+2. **The caravan master's offer.** A Dunhari caravan master who has lodged at the house for six years offers Pazirush a place as his steward on the southern road, at three times his wage, leaving in two days.
+3. **The missing plate.** The steward has been selling the house's plate to the passing trade, and the factor has found the plate short and the footman's room searched. The steward searched it.
+4. **The called note.** The factor's note has been bought through the [[affiliation-auricompct|Auric Compact]] and called by the [[affiliation-balinuni|Balinuni]] of Kudumel, with a month to pay. The factor has told nobody, and the caravan masters who bank with him are asking Pazirush, at the door, whether the house is sound.

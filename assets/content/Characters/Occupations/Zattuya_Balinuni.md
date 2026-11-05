@@ -3,7 +3,8 @@ shortcode: zttyblnn
 name: {full: Zattuya Balinuni}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A timberwright of the Alz woods who chooses the standing trees that become Sazumun's ships, and has been asked to mark a whole winter's keel timber for a single buyer."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,15 +392,21 @@ sohl:
 
 # Appearance {#appearance}
 
-Zattuya Balinuni is a 31-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with high cheekbones, a wide forehead, and a narrow jaw that leads to a strong chin. Her almond-shaped dark brown eyes sit beneath straight brows and give her a measured gaze. She has a hawkish nose and thin lips. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair falls in dark cascades.
+Zattuya Balinuni is a 30-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with high cheekbones, a wide forehead, and a narrow jaw that leads to a strong chin. Her almond-shaped dark brown eyes sit beneath straight brows and give her a measured gaze. She has a hawkish nose and thin lips. She has tawny skin with a sun-kissed complexion. Her dark brown hair falls loose to her shoulders in the city and is bound under a cap in the woods. She carries a marking-axe on her belt and the smell of resin with her.
 
 # Dossier {#dossier}
 
-Zattuya Balinuni is a timberwright of [[place-sazumun2|Sazumun]], the port city at the mouth of the [[place-alzriver|Alz River]] in [[place-taruzelrgn|Taruzel]], a [[lore-taruzelianclt|Taruzelian]] freewoman who chooses the standing trees that become the city's ships and furniture.
+Zattuya Balinuni is a timberwright of [[place-sazumun2|Sazumun]], a freewoman on the city's register who chooses the standing trees that become the city's ships and furniture. The trees of the Alz woods up the valley of the [[place-alzriver|Alz River]] are what Sazumun's shipwrights build with, and a keel that sails out of Sazumun usually grew on the Alz.
 
-Zattuya was born to timberwrights in the hill woods up the Alz valley, where the family has cut for three generations. Her work begins before the axe: she walks a stand, reads the lean of a trunk and the run of its grain, and marks which tree will make a keel, which a mast, which a chest, and which will split in the seasoning. The shipwrights of Sazumun have learned that a stem with her mark on it does not surprise them on the saw-bench. She will not mark a tree she has doubts about, which the shipwrights value and the timber-dealers do not.
+Her work begins before the axe. She walks a stand, reads the lean of a trunk and the run of its grain, and marks which tree will make a keel, which a mast, which a chest, and which will split in the seasoning. The timber comes down the river in chained rafts on the winter flood and lies in the timber basin on the south bank until the shipwrights buy it, and the shipwrights have learned that a stem with her mark on it does not surprise them on the saw-bench. She will not mark a tree she has doubts about, which the shipwrights value and the timber-dealers do not.
 
-She has been slower to be accepted in the compact than her marks have been in the yards. The older men say a woman cannot read a tree, and she answers them by never once being wrong about one.
+Above the timber camps runs the line of stone heaps that marks the ground of the [[affiliation-haduruni|Haduruni]]. A tree on their side of the line is bought from the tribe trunk by trunk, and the tribe's Marker of Trees cuts its mark into the bark beside hers. Sazumun's charters to the timberwrights say nothing about the tribe.
+
+## Background
+
+**The valley.** Zattuya was born to a timberwright family in the hill woods up the Alz valley, where the family has cut for three generations.
+
+**The compact.** She is registered as a master with the [Timberwrights' Compact of Sazumun]{.name data-type="affiliation/guild"}, chartered under the [[affiliation-vezakuni|Vezakuni]], and sits at the bottom of its seniority. The older men say a woman cannot read a tree, and she answers them by never once being wrong about one.
 
 ## Psyche
 
@@ -409,36 +416,36 @@ Zattuya is exact, quiet and hard to hurry, cautious to a fault in choosing a tre
 
 ### Motivation
 
-Zattuya wants the right tree for the right work, every time, and she wants the men of the compact to take her word on a stand as they take each other's. The second will follow the first only if she outlives them.
+She wants the right tree for the right work, every time, and she wants the men of the compact to take her word on a stand as they take each other's.
 
 ### Strengths
 
-Skilled at choosing and working timber, knows the trees of the Alz woods.
+She knows the trees of the Alz woods better than anyone in the compact, works timber as well as she chooses it, and is trusted by the shipwrights of the south bank.
+
+### Weaknesses
+
+She is junior in a compact run by the men who doubt her, and she cannot afford to lose a season's cutting.
 
 ## Social
 
-Zattuya is registered as a master with the [Timberwrights' Compact of Sazumun]{.name data-type="affiliation/guild"}, chartered under the [[affiliation-vezakuni|Vezakuni]], and sits at the bottom of its seniority.
-
-## Companions
-
-### Patrons
-
-Zattuya's patrons are the shipwrights of the Sazumun yards, who ask for her marks on their keel and mast timber.
-
 ### Enemies
 
-The vezakum of the compact, an old timber-dealer who has said in council that a woman marking ship-timber is a joke the yards will regret; and the dealers whose stems the shipwrights now send back.
+- **The vezakum of the compact**, an old timber-dealer who has said in council that a woman marking ship-timber is a joke the yards will regret.
+- **The dealers whose stems the shipwrights now send back.**
+
+### Others
+
+- **The shipwrights of the south bank**, who ask for her marks on their keel and mast timber.
+- **The Haduruni's Marker of Trees**, who walks the stands above the line with her and agrees each trunk's price.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Sazumun, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through her state's councilors.
+- **[[affiliation-karnavos|Faith of Karnavos]]**: one of the lay faithful, the Devran, who keeps the Wild Beast's feasts and takes no part in the Circle.
 
 ## Plot Hooks
 
-The Keel
-: A galley built on a keel Zattuya refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the vezakum wants her silent.
-
-The Hill Stand
-: The best oak she has found in years stands on ground the hill tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
-
-The Examination
-: The compact has called Zattuya to re-examination on a complaint about her marks. The complaint is the vezakum's, and the examiners are his.
-
-The Factors' Timber
-: The [[place-houseoffactors|House of Factors]] has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattuya would not mark a tree like it.
+1. **The keel cut.** Zattuya has been asked to mark next winter's whole cut of keel timber in the Alz woods for one buyer, to the lengths of the [[affiliation-corsairleg|Corsair League]]'s galleys, and the League has ordered nothing. She wants to know who is buying before she marks a single tree.
+2. **The stand above the line.** The best oak she has found in years stands on the Haduruni side of the boundary, and the shipwrights of Sazumun want it. She asks a party to wait with her at the stone heap with silver, and to speak for her when the Keeper of the Boundary comes down.
+3. **The broken keel.** A merchant hull built on a keel Zattuya refused, and another timberwright passed, has broken her back in the first heavy sea. The shipwright who built her wants Zattuya to say so before the compact, and the vezakum wants her silent.
+4. **The examination.** The compact has called Zattuya to re-examination on a complaint about her marks. The complaint is the vezakum's, and the examiners are his.

@@ -3,7 +3,8 @@ shortcode: bssshtndn
 name: {full: Bissush Tanaduni}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "The cook of the roadside tavern an hour short of Sharimun's gate on the coast road, who feeds the quarry carters and farm drivers on the plain food of the country."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,54 @@ sohl:
 
 # Appearance {#appearance}
 
-Bissush Tanaduni is a 34-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with wide-set cheekbones, a prominent forehead, and a narrow jaw that leads to a prominent chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has golden skin with a sun-tanned complexion. His dark brown hair is short and swept back.
+Bissush Tanaduni is a 33-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with wide-set cheekbones, a prominent forehead, and a narrow jaw that leads to a prominent chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has golden skin with a sun-kissed complexion. His dark brown hair is short and swept back off his forehead, out of the steam.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bissush Tanaduni came into the world of the cook through a combination of circumstance and aptitude.
+Bissush Tanaduni is the cook of the roadside tavern on the coast road from [[place-besikar2|Besikar]], an hour short of the gate of [[place-sharimun|Sharimun]], where the road runs between the farms of the north-western plain. He cooks the plain food of the country: bread from the tavern's own oven, beans and onions, a pot of goat or mutton stewed all day, cheese, olives and whatever the farms bring to the back door that morning. The food is better than anything in the town, and the carters stop there whether they are hungry or not.
 
-Bissush grew up on a farm and learned to cook using simple, local ingredients. His specialty is rustic cuisine, and he works at a well-known tavern in the countryside, where travelers come to enjoy his hearty meals. Bissush is humble and hardworking, always willing to adapt and improve his recipes.
+His custom is the road's. The quarry carts going north with the town's pale stone stop on the way out, the farm wagons coming in stop on the way to market, and in the Arbitrators' sessions the merchants coming down from Besikar with their papers and their bodyguards stop for a last meal before the lodging-houses on the square.
+
+## Background
+
+**The farm.** Bissush grew up on a farm of the plain and learned to cook at its hearth from what the farm grew. He went to the tavern's kitchen as a boy to turn the spit and was its cook by twenty.
 
 ## Psyche
 
 ### Personality
 
-Lacks experience with fine dining, sometimes underestimates his own talent.
+Bissush is cheerful, hardworking and modest, and he thinks less of his own cooking than the carters do.
 
 ### Motivation
 
-Bissush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cook work keep him vigilant and adaptable.
+He wants the road's people fed well and cheaply, and he wants the tavern's kitchen to stay his.
 
 ### Strengths
 
-Skilled at using local ingredients to create delicious dishes, strong work ethic.
+He cooks well from whatever the farms bring, keeps a kitchen running for forty at a sitting, and hears everything said at the tavern's tables.
+
+### Weaknesses
+
+He has never cooked for a guild house's table and is afraid he would be found out at one.
 
 ## Social
 
-Bissush is affiliated with none; he works independently at the tavern.
-
-As a Taruzelian cook, Bissush occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Bissush's primary patrons are travelers and locals who frequent the tavern. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-None; he is well-liked and friendly with competitors.
+He has none. He is on good terms with the carters, the farmers and the other taverns of the road.
+
+### Others
+
+- **The quarry carters**, among them [[being-zzrnqsdn|Zazuran Kusaduni]], who eat at his tables twice on every journey north.
+- **The farms of the plain**, which sell him their bread grain, beans, cheese and goats.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keep the Nurturer's harvest feasts without office in the temple.
 
 ## Plot Hooks
 
-The Cook's Dilemma
-: Bissush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: None; he is well-liked and friendly with competitors. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Bissush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Bissush depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Bissush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The traveler at the corner table.** A man who keeps his hat on has eaten at the tavern three times this week, always alone, and asked the carters how long the road to Besikar takes on foot. Bissush has heard that a litigant on the square is looking for a ship's master who should be at sea.
+2. **The guild house kitchen.** A guild house of the town wants Bissush to cook for its table through the Arbitrators' session, for the merchants it means to win over. The pay is a year's wage, and he does not believe he can do it.
+3. **The carters' talk.** The quarry carters talk at his tables about the back pay their masters owe them, and one of them is talking loudly. Bissush remembers that the last quarryman who talked like that was sentenced to the arena.

@@ -3,7 +3,8 @@ shortcode: lrtshgnrm
 name: {full: Lartush Genirum}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A swordmaster of Yamuzel, a former sell-sword blind in one eye, who teaches the blade in a tenement yard at the edge of the Veterans' Quarter to sons of veterans, yard men and marines."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -24,7 +25,7 @@ data:
     hair_color: grey
     skin_color: medium
     complexion: [weathered]
-    extra_features: [a scar running down the back]
+    extra_features: [a scar running down the back, a blind left eye]
   packFolder: midhaliontaruzel
 sohl:
   items:
@@ -395,55 +396,54 @@ sohl:
 
 # Appearance {#appearance}
 
-Lartush Genirum is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown right eye sits beneath prominent brows and gives him a candid gaze; the left is scarred and blind. He has a prominent nose and thin lips. He has medium-toned skin with a weathered complexion. His gray hair is tied in a low tail.
+Lartush Genirum is a 49-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown right eye sits beneath prominent brows and gives him a candid gaze; the left is scarred and blind. He has a prominent nose and thin lips. He has medium-toned skin with a weathered complexion, and an old blade scar runs down the length of his back. His gray hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Lartush Genirum is a swordmaster.
+Lartush Genirum is a swordmaster of [[place-yamuzel2|Yamuzel]], who teaches the blade in the court of a tenement at the edge of the [Veterans' Quarter]{.name data-type="place/site"}, on the slope below the admirals' street. His pupils are the sons and daughters of veterans and of yard men, and young men about to join the marines, and they pay him what they can. He teaches them to fight as men fight when it is real: short, ugly and finished quickly. He keeps the practice blades himself, at his own grindstone.
 
-Lartush was a mercenary who spent most of his life fighting in skirmishes and wars. After losing his left eye in a battle, he left mercenary life and settled in a small village, where he teaches swordsmanship to young men and women who mean to defend their homeland. His experience of real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
+## Background
+
+**The trade.** Lartush sold his sword for most of his life, in skirmishes and wars along the coasts of the [[place-vylarianse|Vylarian Sea]], wherever a captain or a merchant would pay for one more man.
+
+**The eye.** He lost his left eye in a fight he does not describe, and he came home to Yamuzel after the war of independence with nothing but his skill. He opened the yard because the quarter's young men were already coming to him.
 
 ## Psyche
 
 ### Personality
 
-He is haunted by his past, and struggles with the morality of his former life.
+Lartush is quiet, blunt and haunted by his past. He does not talk about the men he killed for pay, and he does not forgive himself for them.
 
 ### Motivation
 
-Lartush wants the young men and women he trains to be able to defend their homes, and to answer in that way for the lives he took.
+He wants the young men and women he trains to be able to defend themselves and their homes, and to answer in that way for the lives he took.
 
 ### Strengths
 
-He has combat experience, is skilled in practical sword technique, and is tough and resilient.
+He has long experience of real fighting, a practical sword technique and an expert hand at keeping a blade. He is tough and slow to tire.
+
+### Weaknesses
+
+He is blind on his left side, and slow to a blow that comes from it.
 
 ## Social
 
-Lartush belongs to no company and works on his own in the village.
-
-## Companions
-
-### Patrons
-
-Lartush's patrons are the local villagers who seek his instruction for their defense.
-
 ### Enemies
 
-Former mercenary comrades hold grudges from past conflicts.
+Old comrades from the sell-sword years who blame him for a defeat on a foreign coast.
+
+### Others
+
+- **The families of the Veterans' Quarter**, who send him their sons and daughters and feed him when the fees run short.
+- **The marine sergeants** raised in the quarter, several of whom learned the sword in his yard.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Yamuzel, free to trade under the Confederation's tariffs and entitled to petition the [[affiliation-grandcouncil|Grand Council]] through his state's councilors.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keep the Thunderer's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Swordmaster's Dilemma
-: A mercenary company offers to hire the students Lartush has trained, and the pay would take them from the village they were trained to defend.
-
-Old Grudges
-: A former comrade who holds Lartush responsible for a past defeat has learned which village he settled in.
-
-Echoes of the Past
-: A survivor of a battle Lartush fought as a mercenary comes to the village, and knows him despite the lost eye.
-
-Shifting Winds
-: Political change in Taruzel brings war toward the village Lartush trains, and he can adapt, resist, or leave.
-
-The Opportunity
-: A lord offers Lartush command of his household troops, and taking it would put him back in the life he left.
+1. **The hall's young men.** [[being-rzznpddn|Razzina Padduni]]'s hall has asked Lartush to take thirty of its young men into his yard and teach them as much as they can learn before the [[lore-fleetreview|Fleet Review]], and it has paid in advance.
+2. **The sergeant's order.** A marine sergeant who learned the sword in Lartush's yard tells him that the marines have been ordered to clear the veterans off the southern terraces of [[place-khamisar|Khamisar]], and asks him what a man should do with such an order.
+3. **The blades.** A man who came up the goat path from the rocks below the slope at night wants forty blades put to an edge by the end of the month, and pays in foreign silver.

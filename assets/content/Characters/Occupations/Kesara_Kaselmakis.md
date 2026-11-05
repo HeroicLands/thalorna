@@ -3,7 +3,8 @@ shortcode: kysrkslmks
 name: {full: Kesara Kaselmakis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A player of Tirellan, a city with no theater, who acts, sings and dances in the inn yards of the North Gate, at the wool fair and in the border lords' winter halls."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 4}, lusinia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, lusinia: {rank: 1}}
   gender: female
   species: humanflk
   born: 691.253
@@ -388,57 +389,58 @@ sohl:
 
 # Appearance {#appearance}
 
-Kesara Kaselmakis is a 29-year-old woman who stands 5'4" tall and is slender. She has a long face with sharp cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her almond-shaped hazel eyes sit beneath arched brows, lending her a measured gaze. A strong nose and firm lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her brown hair is gathered in a practical bun.
+Kesara Kaselmakis is a 28-year-old woman who stands 5'4" tall and is slender. She has a long face with sharp cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her almond-shaped hazel eyes sit beneath arched brows, lending her a measured gaze. A strong nose and firm lips complete her features. She has tawny skin with a sun-kissed complexion. Her brown hair is gathered in a practical bun, and a small dragonfly is tattooed on the side of her neck, painted over when a part calls for it.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Kesara Kaselmakis came into the world of the thespian through a combination of circumstance and aptitude.
+Kesara Kaselmakis is a player of [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]], who acts, sings and dances wherever the city will pay for it. Tirellan has no theater. She plays in the inn yards of the North Gate for soldiers going up to the frontier and coming down from it, on a cart in the forum on feast days, in the carters' inns outside the South Gate in the weeks of the wool fair, and in the halls of the border lords' towers through the winter, when the lords want company and the roads are shut.
 
-Kesara began her acting career as a street performer before being discovered by a theater director. She quickly rose to prominence, known for her ability to shift seamlessly between comedic and dramatic roles. Her performances are marked by a raw intensity that draws audiences in, but offstage, she struggles with bouts of loneliness and self-doubt.
+She plays comedy for the soldiers and tragedy for the lords, and she is good at both. Her best piece is the story of the Fourth's eagle, from the burning of its camp to the reeds of [[lore-blackmarshbtl|the Black Marsh]], which she plays alone, every part, and which soldiers of the north ask for by name.
+
+## Background
+
+**The street.** Kesara began as a girl doing mimicry and songs for coppers at the North Gate, and a company of players passing through on the road took her south with them for three seasons.
+
+**The return.** She came back to Tirellan and has worked the city's inns and halls since. She makes her own masks and costumes, and trains two girls of the lanes to play beside her.
 
 ## Psyche
 
 ### Personality
 
-Prone to self-doubt, struggles with personal relationships.
+Kesara is fierce on a stage and unsure of herself off it. She doubts every performance once it is over, and she finds it easier to play a friend than to keep one.
 
 ### Motivation
 
-Kesara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in thespian work keep her vigilant and adaptable.
+She wants to play in a real theater, before an audience that came to see a play and not to drink, at least once.
 
 ### Strengths
 
-Versatile actress, skilled at improvisation, strong emotional range.
+She has a great range, from clowning to grief, she improvises well, and she dances and sings with real skill.
+
+### Weaknesses
+
+Self-doubt, and a temper with anyone who talks through her best speeches.
 
 ## Social
 
-Kesara is affiliated with the [City Theater Company]{.name data-type="affiliation/venture"}.
-
-As a Vylarian thespian, Kesara occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Kesara's primary patrons are theater enthusiasts and local nobles who attend her performances. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Envious actresses who see her as a threat.
+The young singer from the capital who has become the _therkos_'s favorite has taken the winter halls of two border lords from her, and tells them her eagle piece is old-fashioned.
+
+### Others
+
+- **The innkeepers of the North Gate**, who pay her in board and a share of the evening's takings.
+- **The soldiers of the frontier**, who are her best audience and her worst critics.
+- **The border lords**, who keep her through the winter and forget her in summer.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-lusinia|Faith of Lusinia]]**: one of the lay faithful, the Devran, who keeps the feasts of the World-Weaver without office in the temple.
 
 ## Plot Hooks
 
-The Thespian's Dilemma
-: Kesara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
-
-Old Grudges
-: Envious actresses who see her as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kesara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Kesara depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kesara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The eagle piece.** The families of the Fourth's cashiered officers have asked Kesara to play the eagle piece at the [Eagle Shrine]{.name data-type="place/structure"} by night, on the anniversary of the Black Marsh, with the legion's name spoken aloud. The keeper of the shrine has forbidden it.
+2. **The slow road.** A cloth merchant of the capital asks Kesara, whose company goes south on the road each spring, to carry his letter to Orzara herself and to note at which posting-station it is taken from her for the post-bag.
+3. **The rival.** The _therkos_'s favorite has been given the midwinter feast in the hall of the [Keep]{.name data-type="place/structure"}, and the steward has asked Kesara to play the servants' hall the same night. The servants want the eagle piece.
+4. **The stage.** A merchant house of the town council offers to build Tirellan a theater against the [Wool Hall]{.name data-type="place/structure"} outside the South Gate if Kesara will run it. It wants the council's leave first, and the three senators who lead the council have not been asked.

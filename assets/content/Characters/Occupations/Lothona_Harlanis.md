@@ -374,11 +374,11 @@ Lothona stands 5'8" with a solid, medium build that carries its weight in the sh
 
 # Dossier {#dossier}
 
-Lothona joined the Delalara docks patrol at seventeen, same as her older brother [[being-brakshrlns|Brakos]], though she went to the urban garrison while he went to garrison cavalry. She spent her first years breaking up merchant-crew brawls and maintaining order in the chaotic marketplace of the docks. The work required learning to read violence instantly—to recognize which fights would cool at a guard's presence and which would require actual intervention. She became very good at this judgment.
+Lothona joined the Delalara docks patrol at seventeen. Her younger brother [[being-brakshrlns|Brakos]] went to the frontier garrisons of [[place-moktur|Moktur]] as a courier years later. She spent her first years breaking up merchant-crew brawls and maintaining order in the chaotic marketplace of the docks. The work required learning to read violence instantly—to recognize which fights would cool at a guard's presence and which would require actual intervention. She became very good at this judgment.
 
 In her late twenties she was made supervisor of the docks night patrol—the role that placed her between the guard station's officers and the work on the street. The docks at night are their own kind of violent: smuggling, theft, prostitution, the occasional murder disguised as drunken accident. She has dealt with all of it. Her hands are calloused from hauling drunks and breaking up fights, and she carries herself with the wariness of someone who has learned that almost anyone will become dangerous if cornered.
 
-At thirty-five, she remains in the same post—not through lack of advancement opportunity but through deliberate choice. She declined promotion twice, preferring the actual work of the watch to the paperwork of higher ranks. She knows the docks better than anyone else in the guard, and the merchants and dock workers know her as someone who is fair but incorruptible.
+At thirty-four, she remains in the same post—not through lack of advancement opportunity but through deliberate choice. She declined promotion twice, preferring the actual work of the watch to the paperwork of higher ranks. She knows the docks better than anyone else in the guard, and the merchants and dock workers know her as someone who is fair but incorruptible.
 
 ## Psyche
 
@@ -388,7 +388,7 @@ Lothona is tough without being cruel, and fair without being soft. She speaks pl
 
 ### Motivation
 
-What drives Lothona first is keeping order on the docks while protecting the people under her watch from the worst predators. She has no illusions that she can eliminate crime; she simply wants to prevent the unnecessary suffering that comes when violence goes unopposed. Second is proving that she earned her position through competence rather than family connection (her brother's place in the garrison invites assumptions of favoritism).
+What drives Lothona first is keeping order on the docks while protecting the people under her watch from the worst predators. She has no illusions that she can eliminate crime; she simply wants to prevent the unnecessary suffering that comes when violence goes unopposed. Second is proving that she earned her position through competence rather than family connection (her family's name invites assumptions of favoritism).
 
 ### Strengths
 
@@ -396,7 +396,7 @@ Her ability to calm a fight before it starts is rare and was earned through expe
 
 ## Social
 
-Lothona occupies an unusual role: she is respected by dock workers and merchants both, accepted into neither world fully. Her gender initially made authority more difficult; it has slowly become an advantage as she proved she could carry it.
+Lothona is a citizen of the [[affiliation-vylarinmpr|Vylarian Empire]] by her house's station, since the Harlanis are a minor noble family, though the name brings her no money and no favor on the docks. She occupies an unusual role: she is respected by dock workers and merchants both, accepted into neither world fully. Her gender initially made authority more difficult; it has slowly become an advantage as she proved she could carry it.
 
 ## Companions
 

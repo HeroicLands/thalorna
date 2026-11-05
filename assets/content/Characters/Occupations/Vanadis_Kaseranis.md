@@ -3,7 +3,8 @@ shortcode: vandsksrns
 name: {full: Vanadis Kaseranis}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "A courtesan of Polthara who sings and talks for the stewards and the capital's buyers at the inns on market nights who hears what every steward is carrying home."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [polthara]
-  affiliations: {vylarinmpr: {rank: 4}, olvenia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.288
@@ -388,57 +389,66 @@ sohl:
 
 # Appearance {#appearance}
 
-Vanadis Kaseranis is a 28-year-old woman who stands 5'7" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her piercing hazel eyes sit beneath heavy brows, lending her a penetrating gaze. A straight nose and firm lips complete her features. She has medium-toned skin with a smooth complexion. Her dark brown hair is pinned in an elegant twist.
+Vanadis Kaseranis is a 27-year-old woman who stands 5'7" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her piercing hazel eyes sit beneath heavy brows, lending her a penetrating gaze. A straight nose and firm lips complete her features. She has medium-toned skin with a smooth complexion. Her dark brown hair is pinned in an elegant twist, and she dresses better than anyone else in Polthara on a market night and plainly on every other.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Vanadis Kaseranis came into the world of the courtesan through a combination of circumstance and aptitude.
+Vanadis Kaseranis is a courtesan of [[place-polthara|Polthara]], the market town of the [[place-hylen|Hilen]] estate country, who keeps two rooms over a saddler's shop on the road into the square. She sings, plays the lyre, dances and talks well, and she is the evening's entertainment that the district's people come to Polthara for when they are not buying or selling.
 
-Vanadis was born into poverty, but her charm and beauty allowed her to rise above her circumstances. She began working as a courtesan in her late teens, attracting the attention of wealthy patrons. Vanadis is skilled in the art of conversation, music, and dance, making her a companion. Despite her success, she struggles with the societal judgment that comes with her profession.
+Her year runs by the market bell. The night before a market and the night of it, the [Steward's Rest]{.name data-type="place/structure"} is full of stewards and the buyers of the capital who dine with them, and a buyer who has closed a good bargain wants company that knows how to talk to a man from the capital. Between markets the town is empty and so is her purse, and she spends the quiet days practising, mending and reckoning.
+
+She hears a great deal at those dinners: which estate sold what, which steward carries his master's coin home, which buyer paid over the odds and why. She keeps all of it to herself, and that discretion is what the buyers pay for as much as the music.
+
+## Background
+
+**Poverty.** Vanadis was born poor in the district, to a carter's family, and learned to sing in the inn yards of the market street.
+
+**The house.** At twenty she left the inn yards for the dinners of the market town, by choice, and set her own price.
 
 ## Psyche
 
 ### Personality
 
-Vulnerable to social stigma, often keeps people at a distance emotionally.
+Vanadis is charming in company and guarded out of it. She reads a room quickly, and she keeps every patron at the distance she chooses.
 
 ### Motivation
 
-Vanadis is driven by the desire to master her craft and secure a stable future. The uncertainties of life in courtesan work keep her vigilant and adaptable.
+She wants enough put by to stop: a house of her own and an income that does not depend on the market bell or a buyer's mood.
 
 ### Strengths
 
-Charismatic, skilled at reading people, talented in dance and music.
+She is a fine musician and dancer, a reader of people and a keeper of secrets, and she writes a good hand.
+
+### Weaknesses
+
+The respectable households of the town do not receive her, and the slight wears on her more than she shows.
 
 ## Social
 
-Vanadis is affiliated with none; she prefers to remain independent.
-
-As a Vylarian courtesan, Vanadis occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Vanadis's primary patrons are wealthy merchants and nobles who value her company. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Rival courtesans who envy her popularity.
+The wives of two stewards of the district, who know where their husbands dine on market nights, would see her out of Polthara if they could.
+
+### Others
+
+- **The buyers of the capital**, who ask for her at the Steward's Rest and pay for her company and her silence.
+- **The host of the Steward's Rest**, who sends for her when a table wants music and takes a share for it.
+- **The clerks of the Register House**, who drink at the inns on market nights and talk about the day's entries.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-olvenia|Faith of Ólvenia]]**: one of the lay faithful, the Devran, who keeps the feasts of the goddess of prosperity without office in the temple.
 
 ## Plot Hooks
 
-The Courtesan's Dilemma
-: Vanadis faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The missing clerk.** The clerk of the Register House who kept the register on the day of the torn page was a regular of hers, and he left Polthara the week after without a word to her. She knows he talked about a sale that worried him, and she will tell a party what he said for a price.
+2. **The robbed stewards.** The stewards robbed on the road home this season were all men who dined at the Steward's Rest the night before, and two of them sat at tables she played for. She has begun to wonder who at those tables is listening besides her.
+3. **The offer.** A buyer of the capital offers to take Vanadis to Orzara and keep her there in a house of her own. His agent at the inn says the buyer is about to be sued over a silver service bought at Polthara, and has nothing to keep her with.
+4. **The wives.** The two stewards' wives have complained to the town's council that she keeps a disorderly house, and the junior _tavemos_ has called her to answer. She has no citizen's appeal past him, and the moneylender of the capital who holds the lease on her rooms would be glad to see her answer badly.
 
-Old Grudges
-: Rival courtesans who envy her popularity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+:::secret {title="The Truth of Polthara"}
+[Brazemos]{.name data-type="being/npc"}, the senior _tavemos_, chooses which stewards' wagons the bandits of the wooded margins rob, and takes a share of every theft. He has begun to ask Vanadis which stewards are carrying their masters' coin home after a good market, and pays well for the answers. The stewards she names are the ones who are robbed. She has noticed, and has not yet decided whether to stop answering, to raise her price or to tell someone.
 
-Echoes of the Past
-: Something from Vanadis's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Vanadis depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Vanadis the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The clerk of the first hook was sent to a cousin's farm in the south with a purse and instructions to stay there, because the torn page recorded a sale Brazemos had not expected anyone to trace.
+:::

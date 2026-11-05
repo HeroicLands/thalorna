@@ -3,7 +3,8 @@ shortcode: vszzpm
 name: {full: Visiza Zupumi}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A bodyguard of Sazumun who guards whoever pays her, from Dunhari traders at a sale in Jiramun to factors walking home from the slope after dark."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,57 +392,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Visiza Zupumi is a 25-year-old woman who stands 6'3" tall and is of moderate build. She has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a prominent chin. Her round brown eyes sit beneath heavy brows, lending her a candid gaze. A hawkish nose and curved lips complete her features. She has golden skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
+Visiza Zupumi is a 24-year-old woman who stands 6'3" tall and is of moderate build. She has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a prominent chin. Her round brown eyes sit beneath heavy brows, lending her a candid gaze. A hawkish nose and curved lips complete her features. She has golden skin with a sun-kissed complexion. Her dark brown hair falls in loose waves when it is down, and she braids it tight before she goes out to work. She stands a head above most of a crowd in Jiramun, which is half of what she is paid for.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Visiza Zupumi came into the world of the bodyguard through a combination of circumstance and aptitude.
+Visiza Zupumi is a bodyguard of [[place-sazumun2|Sazumun]], a freewoman on the city's register who guards whoever pays her. Her clients are the traders who come ashore with something to sell and nobody to stand beside them: a [[lore-dunhariclt|Dunhari]] merchant at a sale in [Jiramun]{.name data-type="place/site"}, a captain carrying his payment from the warehouse to his ship, a factor's son walking home up the slope after a dinner on the quays. She hires by the day or the week, never by the season, and she keeps her rate where the captains' inns and the lodging-houses round Jiramun know it.
 
-Visiza has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and outstanding combat skills, she has earned a reputation for being a reliable protector. Visiza values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
+The guilds keep their own quays and rows with their own watchmen, and a guild's watch guards the guild's goods, not the man who is carrying his money through the lanes. That is the work Visiza does. She knows which streets of the temple slope are dark after the lamps go out, which money-changers count slow, and which of the interpreters at the market's corners talk to people they are not paid to talk to.
+
+## Background
+
+**The quays.** She grew up on the quays among the porters and tally-men and was taller than any of them at fifteen.
+
+**The trade.** She took her first hire guarding a Dunhari trader through Jiramun for a week, was paid twice what a porter earns, and has worked the market and the slope since.
 
 ## Psyche
 
 ### Personality
 
-Can be overly protective, struggles with vulnerability.
+Visiza is alert, steady and protective, quick to stand between a client and a threat and slow to talk about herself.
 
 ### Motivation
 
-Visiza is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bodyguard work keep her vigilant and adaptable.
+She wants every client home with his purse, and she wants a name on the quays good enough that the factors of the slope hire her by the season.
 
 ### Strengths
 
-Skilled fighter, observant, good at reading situations.
+She is a strong fighter with sword and thrown knife, quick to move, and good at reading a crowd before it turns.
+
+### Weaknesses
+
+She grows attached to the people she guards and will stay on past her hire for a client she likes, unpaid.
 
 ## Social
 
-Visiza is affiliated with the local [Mercenaries Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian bodyguard, Visiza occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Visiza's primary patrons are merchants and minor nobles seeking reliable protection. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Few; respected among peers.
+None of her own. The watchmen of the market guild dislike a hired guard working their rows, and say so when she is in them.
+
+### Others
+
+- **The hosts of the captains' inns and the lodging-houses round Jiramun**, who send her clients and take a coin for it.
+- **The interpreters at the market's corners**, some of whom she trusts.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Sazumun, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through her state's councilors.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the storm god's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Bodyguard's Dilemma
-: Visiza faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Taruzel.
-
-Old Grudges
-: Few; respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Visiza's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Visiza depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Visiza the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The sale in Jiramun.** A Dunhari trader hires Visiza to stand behind him at a sale, and she sees his own clerk speak to the buyer before the bargaining begins. The trader trusts the clerk and suspects his interpreter.
+2. **The black board.** A [[lore-khelathiclt|Khelathi]] captain whose name went up on the black board this spring hires her because he has been followed from the House of Factors' stair to his inn every night since.
+3. **The clerk's dinners.** A clerk of the [[affiliation-merazuni|Merazuni]] hires her to walk him home from the dinners [[being-ashurazhitus|Ashuraz Hitusuni]] gives on the slope. He drinks little, talks less, and wants to know if anyone is watching the house's door when he leaves it.
+4. **The guard who needs a guard.** [[being-pzsnkhdzm|Pazasan Khidizum]], whose record has gone from his lodgings, asks Visiza to sleep in the room below his until he knows who took it, and can pay her for a week.

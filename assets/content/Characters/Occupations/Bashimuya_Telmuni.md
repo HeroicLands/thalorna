@@ -3,7 +3,8 @@ shortcode: bshmytlmn
 name: {full: Bashimuya Telmuni}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A chandler of Sharimun's harbor square who has made the town's candles for twenty years and lights the Arbitrators' evening hearings in the Khurutun."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -397,57 +398,56 @@ sohl:
 
 # Appearance {#appearance}
 
-Bashimuya Telmuni is a 47-year-old woman who stands 5'6" tall and is of moderate build. She has an oval face with wide-set cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. Her large hazel eyes sit beneath prominent brows, lending her an expressive gaze. An aquiline nose and firm lips complete her features. She has olive skin with a weathered complexion. Her dark brown hair is falling in dark cascades.
+Bashimuya Telmuni is a 46-year-old woman who stands 5'6" tall and is of moderate build. She has an oval face with wide-set cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. Her large hazel eyes sit beneath prominent brows, lending her an expressive gaze. An aquiline nose and firm lips complete her features. She has olive skin weathered by the heat of the melting pots, and her dark brown hair falls loose to her shoulders when it is not pinned up away from the tallow.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bashimuya Telmuni came into the world of the chandler through a combination of circumstance and aptitude.
+Bashimuya Telmuni is a chandler of [[place-sharimun|Sharimun]], a freewoman of the town who keeps a candle shop off the harbor square, a few doors from the porch of the [Khurutun]{.name data-type="place/site"}. She makes tallow dips for the harbor inns and the lodging-houses, beeswax candles for the guild houses, and soap from what is left, and she has made them on the same street for more than twenty years.
 
-Bashimuya has been making candles for over twenty years in her small village. She learned the craft from her mother and now runs a small shop, supplying candles to the local community and nearby towns. Bashimuya takes pride in her work, using only the best tallow and beeswax, and her candles are known for their quality and long burn times.
+Her largest custom is the court. When the Arbitrators of the [[affiliation-grandcouncil|Grand Council]] sit in their two long sessions a year, the evening hearings run late, and the candles on the Arbitrators' tables and in the clerks' room are hers. Her wax candles burn long and do not gutter, and the clerks have never had to send out for more in the middle of a judgment.
+
+## Background
+
+**The shop.** Bashimuya learned the craft at her mother's pots and took over the shop when her mother died. She makes her candles the way her mother made them, with the same moulds and the same wicks.
+
+**The court.** She won the Khurutun's custom in her first year on her own, by bringing a basket of candles to the porch on an evening when a hearing ran past dark, and she has kept it ever since.
 
 ## Psyche
 
 ### Personality
 
-Set in her ways and resistant to adopting new techniques.
+Bashimuya is careful, proud of her work and set in her ways. She distrusts any new method of making a candle until it has been shown to her for a year.
 
 ### Motivation
 
-Bashimuya is driven by the desire to master her craft and secure a stable future. The uncertainties of life in chandler work keep her vigilant and adaptable.
+She wants her candles to be the best in the town and her name to stand behind them, and she wants the court's custom kept in her shop.
 
 ### Strengths
 
-Skilled at making high-quality candles and soap.
+She makes candles and soap of the first quality and knows every inn, lodging-house and clerk on the square by what they buy.
+
+### Weaknesses
+
+She will not change a price or a method, and a cheaper candle draws the inns away from her.
 
 ## Social
 
-Bashimuya is affiliated with the [Village Craft Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian chandler, Bashimuya occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Bashimuya's primary patrons are local villagers and merchants who appreciate her craftsmanship. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-A younger chandler who tries to undercut her prices.
+A younger chandler on the square sells cheaper tallow candles to the inns and lodging-houses, and has begun to offer the clerks of the court a lower price.
+
+### Others
+
+- **The clerks of the Khurutun**, who order her candles for each session and pay for them out of the court's book.
+- **The hosts of the harbor inns**, who buy her dips by the gross outside the sessions.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through her state's councilors.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keep the feasts of the god of the creative fire without office in the temple.
 
 ## Plot Hooks
 
-The Chandler's Dilemma
-: Bashimuya faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Taruzel.
-
-Old Grudges
-: A younger chandler who tries to undercut her prices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Bashimuya's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Bashimuya depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Bashimuya the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **Paid twice.** This session the court's bill for Bashimuya's candles has been paid twice, once by the clerks out of the court's book and once by a merchant's servant, and the merchant's case was entered in the book only last week and is to be heard tomorrow.
+2. **The dark hearing.** The clerks have bought the younger chandler's cheaper candles for one evening, and a long hearing went dark in the middle of the Arbitrator's judgment. A litigant is saying that the dark was arranged, and the clerks say the candles were hers.
+3. **The theft.** Someone has broken into her shop and taken the court's candles for the next session, and the trail leads into the street of furnace-houses, where the town watch does not go.

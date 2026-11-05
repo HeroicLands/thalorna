@@ -3,7 +3,8 @@ shortcode: pyrnszrlmkr
 name: {full: Piranes Zeralmakor}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A mapmaker of Polthara who walks and draws the estates of the Hilen country, plain plans for their stewards and gilded ones for the collectors of the capital, and who knows the wooded margins better than its bandits do."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Piranes Zeralmakor is a 39-year-old man who stands 5'9" tall and is of moderate build. He has a square face with angular cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has olive skin with a weathered complexion. His brown hair is combed neatly to one side.
+Piranes Zeralmakor is a 38-year-old man who stands 5'9" tall and is of moderate build. He has a square face with angular cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has olive skin with a weathered complexion from years of walking fields in all weathers. His brown hair is combed neatly to one side. A long scar on his left thigh, from a fall down a ravine in the wooded margins of the district, gives him a slight hitch on stairs.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a noble family of [[lore-vylarianclt|Vylarian]] heritage, Piranes Zeralmakor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
+Piranes Zeralmakor is a mapmaker and draughtsman of [[place-polthara|Polthara]], the market town of the [[place-hylen|Hilen]] estate country, and a man of the propertied order whose family keeps a house in the town. He draws the estates of the district: their fields, vineyards, woods, roads and boundary-stones, surveyed on foot with a chain and a sighting-board and drawn fair on vellum.
 
-Piranes hails from a wealthy family and pursued cartography out of a love for exploration. His maps are highly detailed and often feature embellishments that make them popular among collectors. However, his adventurous spirit sometimes gets him into dangerous situations, as he insists on personally surveying remote and uncharted areas.
+His work has two buyers. The stewards of the great houses commission plain plans of their masters' land, for leases, for boundary quarrels and for the courts of the province, where a sealed plan stands beside a register copy as evidence of what an estate holds. The collectors of the capital buy the other kind: the same estates drawn with their houses in elevation, their vines in rows and their woods in single trees, bordered with the arms of the house. The second kind pays for the first.
+
+He walks every survey himself, including the wooded margins of the district where the stewards ride home in company. He knows those roads better than most of the men who rob on them.
+
+## Background
+
+**The family.** The Zeralmakor hold a little land in the district and a town house off the market square, and they live on its rents. Piranes was taught to draw by a tutor, to survey by an old boundary-setter of the estates, and to sell by nobody.
+
+**The margins.** He has surveyed the district from one edge to the other, and his plans are on the tables of half the stewards who sell at Polthara. He took the scar on his thigh on a survey in the margins, and he walked the rest of the survey before he had it seen to.
 
 ## Psyche
 
 ### Personality
 
-Prone to taking unnecessary risks during expeditions.
+Piranes is curious, exact and reckless with his own skin. He takes a risk on a survey that he would forbid a hired chainman, and he cannot leave a blank on a plan.
 
 ### Motivation
 
-Piranes is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cartographer/artist work keep him vigilant and adaptable.
+He wants the map of the district complete and true: every field where it lies, every boundary-stone where it stands, whatever the estate's master says it holds.
 
 ### Strengths
 
-Skilled at combining art and practical cartography, adventurous spirit.
+He draws beautifully and measures accurately, he is patient on the ground, and he has a sharp eye for a field that has gone back to scrub.
+
+### Weaknesses
+
+He is no man of business, and he will tell a steward exactly what his plan shows whether the steward wants to hear it or not.
 
 ## Social
 
-Piranes is affiliated with the [Royal Cartographers' Society]{.name data-type="affiliation"}.
-
-As a Vylarian cartographer/artist, Piranes occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Piranes's primary patrons are wealthy collectors and explorers. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-None, though some find his methods reckless.
+He has none he knows of. Several stewards of absent masters would prefer that the plans of their estates were less exact.
+
+### Others
+
+- **The stewards of the district**, who commission his plans and argue with what they show.
+- **The collectors of the capital**, who buy his drawn estates through a dealer of the market square and never see the ground.
+- **The pupils of the heralds' school** on the north road, who come to him on market days to check the arms in his borders.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Gulmen, of the propertied order from which the empire's officers and great commands are filled.
+- **[[affiliation-marendas|Faith of Marendas]]**: one of the lay faithful, the Devran, who keeps the feasts of the god of knowledge without office in the temple.
 
 ## Plot Hooks
 
-The Cartographer/Artist's Dilemma
-: Piranes faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
-
-Old Grudges
-: None, though some find his methods reckless. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Piranes's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Piranes depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Piranes the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The fallow estate.** Piranes surveyed an estate of a capital master six years ago and drew its fields as scrub. Its steward brings wagons of grain and wine under its mark to the Polthara market twice a month. Piranes has noticed, and he wants someone to ride out with him and look at the fields again before he says anything at the Register House.
+2. **The road home.** The stewards robbed on the road home from the market want a plan of the woods where it happened, and Piranes is the only man who has walked them. He asks a party to come with him, because the last time he went alone he came back with the scar.
+3. **The dead man's desk.** A widow who found her late husband's writing-desk in a Polthara sale, sold as the goods of an estate she has never heard of, has come to Piranes for a plan of that estate. His plan shows a farmhouse of four rooms, and no house that ever held a desk like hers.
+4. **The collector.** A collector of the capital offers Piranes more than a year's commissions for a drawn map of the whole district on one sheet, every estate and every road, and will not say what he wants it for.

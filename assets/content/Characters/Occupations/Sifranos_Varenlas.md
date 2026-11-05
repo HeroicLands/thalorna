@@ -3,7 +3,8 @@ shortcode: syphrnsvrnls
 name: {full: Sifranos Varenlas}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A freed slave who fights in the arena of Belekos under contract to a great house, by a code the crowd knows: he does not strike a fallen man or lose a bout he is paid to lose."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {vylarinmpr: {rank: 4}, brazemas: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 2}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.299
@@ -391,55 +392,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Sifranos Varenlas is a 37-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His hooded dark brown eyes sit beneath prominent brows and give him a guarded gaze. He has a straight nose and full lips. He has light skin with a sun-tanned complexion. His black hair is short and swept back.
+Sifranos Varenlas is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His hooded dark brown eyes sit beneath prominent brows and give him a guarded gaze. He has a straight nose and full lips. He has light skin with a sun-tanned complexion. His black hair is short and swept back, and a small crescent moon is tattooed on the side of his neck.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a poor family of [[lore-vylarianclt|Vylarian]] heritage, Sifranos Varenlas is a gladiator.
+Sifranos Varenlas is a gladiator of [[place-belekos|Belekos]], the city of the merchant houses above the grain valleys of [[place-alyssa|Alessa]], who fights in the city's arena on the state's days for the great house that holds his contract. The houses of Belekos sponsor the games and keep gladiators of their own, and a house's fighter is one more thing it buys to be seen buying.
 
-Sifranos was born into poverty and sold into slavery at a young age. He was trained as a gladiator and quickly rose to prominence in the arena, earning the name "Varenlas" for his ferocity in combat. He has fought countless opponents and won his freedom through his victories, but he continues to fight for glory and coin. For all the brutality of his fighting style, he is honorable, and keeps a strict code of conduct in the arena.
+He has fought in that arena for most of his life. He is honorable in it, and keeps a strict code of conduct that the crowd has learned and the other fighters respect: he does not strike a man who has fallen, and he does not lose a bout he has been paid to lose.
+
+## Background
+
+**The sale.** Sifranos was born poor in the Vylarian country and sold into slavery as a boy, and he was trained for the arena because he was big.
+
+**The freedom.** He won his freedom with his victories, and with it a name of his own, and went on fighting under contract because it was the trade he had.
 
 ## Psyche
 
 ### Personality
 
-He is haunted by his past, and struggles to adapt to life outside the arena.
+Sifranos is guarded, controlled and slow to trust, and outside the arena he does not know what to do with his hands.
 
 ### Motivation
 
-Sifranos wants glory and coin enough that no one can sell him again.
+He wants enough glory and coin that no one can ever sell him again.
 
 ### Strengths
 
-He is physically powerful, skilled in several styles of combat, and experienced in the arena.
+He is very strong, skilled in several styles of arena combat and long experienced before a crowd.
+
+### Weaknesses
+
+He is haunted by his years as a slave, he cannot read a contract, and he signs what his house puts in front of him.
 
 ## Social
 
-Sifranos belongs to the [Gladiators' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Sifranos's patrons are the wealthy sponsors who bet on his matches.
-
 ### Enemies
 
-Rival gladiators seek to surpass his reputation.
+The younger gladiators of the rival houses want his name, and the best of them has asked his house for the bout.
+
+### Others
+
+- **The house that holds his contract**, which keeps him, feeds him and fights him on the state's days.
+- **The wealthy men of the upper terraces** who bet on his bouts.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Freedman, freed by his victories in the arena, without the citizenship.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the Thunderer's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Gladiator's Dilemma
-: A sponsor who bets on Sifranos wants a bout thrown, and his code in the arena and the coin he fights for cannot both be kept.
-
-Old Grudges
-: A rival gladiator who means to surpass Sifranos has challenged him to a bout outside the guild's rules.
-
-Echoes of the Past
-: The man who bought Sifranos as a boy is in the stands, and claims the sale was never properly undone.
-
-Shifting Winds
-: Political change in Vylaria threatens the arena Sifranos lives by, and he can adapt, resist, or leave.
-
-The Opportunity
-: A sponsor offers Sifranos a bout against a champion from another city, for a purse that would end his fighting days, and the champion's record is not what the sponsor says.
+1. **The fallen house.** The house that held his contract fell last year, and its creditors and its last son are each trying to collect him with its townhouse and its warehouse. Sifranos wants to know who owns him before either of them arrives.
+2. **The bout.** A house has offered him a purse to lose to its young fighter on the next state's day, cleanly and in front of the whole city.
+3. **The lettered man.** A clerk of a great house offers to read Sifranos's contract to him for nothing, and tells him that it has seven years to run, not the two he was promised.
+4. **The sale.** A buyer from the capital wants a fighter for the games at [[place-rathaunamelvar|Rathauna Melvar]] and has made an offer for his contract.

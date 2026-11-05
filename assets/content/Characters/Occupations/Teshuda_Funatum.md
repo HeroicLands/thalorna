@@ -3,7 +3,8 @@ shortcode: tshdfntm
 name: {full: Teshuda Funatum}
 type: being
 subType: npc
-tags: [draft, guilded, common-folk]
+description: "The head cook of a factor's house on Sazumun's slope, who keeps the best table in the city and the house's whole name for hospitality in her kitchen."
+tags: [guilded, common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,13 +394,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Teshuda Funatum is a 50-year-old woman who stands 5'9" tall and is solidly built. She has a long face with high cheekbones, a lined forehead, and a strong jaw that leads to a pointed chin. Her piercing dark brown eyes sit beneath prominent brows and give her a penetrating gaze. She has a prominent nose and full lips. She has medium-toned skin with a sun-kissed complexion. Her graying black hair is braided and coiled at the nape. She has laugh lines around the eyes.
+Teshuda Funatum is a 49-year-old woman who stands 5'9" tall and is solidly built. She has a long face with high cheekbones, a lined forehead, and a strong jaw that leads to a pointed chin. Her piercing dark brown eyes sit beneath prominent brows and give her a penetrating gaze. She has a prominent nose and full lips. She has medium-toned skin with a sun-kissed complexion. Her graying black hair is braided and coiled at the nape. She has laugh lines around the eyes, though her kitchen rarely sees her laugh, and a horse tattooed high on her thigh that nobody in it has seen.
 
 # Dossier {#dossier}
 
-Teshuda Funatum is a cook of [[place-sazumun2|Sazumun]], the port city at the mouth of the [[place-alzriver|Alz River]] in the [[place-taruzelrgn|Taruzel Region]], a [[lore-taruzelianclt|Taruzelian]] freewoman of a guild family who is head cook to one of the factors' houses that rule the city.
+Teshuda Funatum is a cook of [[place-sazumun2|Sazumun]], a freewoman of a guild family on the city's register, and head cook to a factor of the slope whose house stands behind its white wall under the [[place-houseoffactors|House of Factors]]. For eleven years she has kept that kitchen, with a staff of six under her and the household's whole name for hospitality in her hands, and its table is the best in the city.
 
-Teshuda came up through the kitchens of Sazumun from scullery to spit to the head of the table, and she has cooked for [[lore-khelathiclt|Khelathi]] captains, [[lore-vylarianclt|Vylarian]] envoys and the whole of the [[place-houseoffactors|House of Factors]] at a sitting. For eleven years she has kept the kitchen of a factor's house on the harbor, with a staff of six under her and the household's whole name for hospitality in her hands. A Taruzelian house does its business over its table, and a factor who feeds a Khelathi captain badly loses the cargo before the sweet is served. Her honeyed pastries are known across the harbor, and so is her temper; she has driven out two kitchen hands this year for a sauce that was nearly right.
+A Taruzelian house does its business over its table, and a house that feeds forty people well is telling the harbor how sound its credit is. A factor who feeds a [[lore-khelathiclt|Khelathi]] captain badly loses the cargo before the sweet is served. Teshuda has cooked for Khelathi captains, [[lore-vylarianclt|Vylarian]] envoys and the whole of the House of Factors at a sitting, and a party with a letter to her factor eats at her table. Her honeyed pastries are known across the harbor, and so is her temper: she has put out two kitchen hands this year for a sauce that was nearly right.
+
+## Background
+
+**The kitchens.** She came up through the kitchens of Sazumun from scullery to spit to the head of the table, in houses on the quays and then on the slope.
+
+**The house.** The factor took her from a rival house eleven years ago and has never let her go. She holds her mastery from the [Cooks' Compact of Sazumun]{.name data-type="affiliation/guild"}, chartered under the [[affiliation-vezakuni|Vezakuni]], as her family has since before the war of independence.
 
 ## Psyche
 
@@ -409,36 +416,35 @@ Teshuda is exacting, proud, and hard on everyone under her, herself first. She m
 
 ### Motivation
 
-Teshuda wants every plate that leaves her kitchen to be exactly what it should be, because the house is judged on it and she on the house. She wants the kitchen to stay hers, and she has trained nobody who could hold it after her, which is not an accident.
+She wants every plate that leaves her kitchen to be exactly what it should be, because the house is judged on it and she on the house. She wants the kitchen to stay hers, and she has trained nobody who could hold it after her, which is not an accident.
 
 ### Strengths
 
-Skilled in the whole range of Taruzelian cooking, experienced in running a kitchen.
+She commands the whole range of Taruzelian cooking and the dishes of half the coasts that trade at Sazumun, and she runs a kitchen like a ship.
+
+### Weaknesses
+
+Her temper costs her the hands she needs, and her pride will not let her ask the steward for anything.
 
 ## Social
 
-Teshuda holds her mastery from the [Cooks' Compact of Sazumun]{.name data-type="affiliation/guild"}, chartered under the [[affiliation-vezakuni|Vezakuni]], as her family has since before the war of independence.
-
-## Companions
-
-### Patrons
-
-Teshuda's patron is the factor whose house she keeps, who means his table to stay the best in Sazumun at whatever she asks.
-
 ### Enemies
 
-The house's steward, who holds the purse she cooks from and has never forgiven her for going over his head; and a kitchen hand she dismissed who now cooks for a rival house and knows her recipes.
+- **The house's steward**, who holds the purse she cooks from and has never forgiven her for going over his head to the factor.
+- **A kitchen hand she put out**, who now cooks for a rival house of the slope and knows her recipes.
+
+### Others
+
+- **The factor whose house she keeps**, who means his table to stay the best in Sazumun at whatever she asks.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Sazumun, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through her state's councilors.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keeps the goddess's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Captain's Table
-: A Khelathi captain is to dine at the house on the night the season's cargo is settled, and the steward has cut the kitchen's silver by half. The captain's cook has told Teshuda which dish would give offense.
-
-The Dismissed Hand
-: The rival house is serving Teshuda's honeyed pastries, to the last spice, and its factor has begun inviting her patron's guests.
-
-The Sickness
-: Three guests were ill after a dinner at the house, and the steward has said in the factor's hearing that the kitchen was the cause. Teshuda knows every dish that left it, and one she did not cook.
-
-The Empty Cellar
-: The house's credit at the [[affiliation-merazuni|Merazuni]] has been stopped, quietly, and the tradesmen have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.
+1. **The captain's table.** A Khelathi captain is to dine at the house on the night the season's cargo is settled, and the steward has cut the kitchen's silver by half. The captain's own cook has told Teshuda which dish would give offense.
+2. **The pastries.** The rival house is serving Teshuda's honeyed pastries, to the last spice, and its factor has begun inviting her factor's guests.
+3. **The sickness.** Three guests were ill after a dinner at the house, and the steward has said in the factor's hearing that the kitchen was the cause. Teshuda knows every dish that left it, and one she did not cook.
+4. **The empty cellar.** The house's credit at the [[affiliation-merazuni|Merazuni]] has been stopped, quietly, and the tradesmen of the market have begun asking for coin. The factor has said nothing to his kitchen, and there is a feast in ten days.

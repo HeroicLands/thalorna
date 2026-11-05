@@ -3,7 +3,8 @@ shortcode: mglshhtsn
 name: {full: Mugilush Hitusuni}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "An apothecary of the Hitusuni's own name in the lane behind Sazumun's warehouses, across whose counter the rare goods of the bonded stores pass on the way to their buyers."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -395,57 +396,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Mugilush Hitusuni is a 52-year-old man who stands 5'7" tall and is of moderate build. He has a long face with angular cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. His sharp dark brown eyes sit beneath arched brows, lending him an incisive gaze. A straight nose and firm lips complete his features. He has warm golden skin with an olive-toned complexion. His gray hair is tied in a low tail.
+Mugilush Hitusuni is a 51-year-old man who stands 5'7" tall and is of moderate build. He has a long face with angular cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. His sharp dark brown eyes sit beneath arched brows, lending him an incisive gaze. A straight nose and firm lips complete his features. He has golden skin with a clear complexion. His gray hair is tied in a low tail, and his fingertips are yellowed by the powders he grinds.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Mugilush Hitusuni came into the world of the apothecary through a combination of circumstance and aptitude.
+Mugilush Hitusuni is an apothecary of [[place-sazumun2|Sazumun]], a freeman on the city's register who keeps a narrow shop in the lane behind the warehouses, between the ship-chandlers, the money-changers and the notaries. He is a cousin of the [[affiliation-hitusuni|Hitusuni]], the warehouse house of the city, and he sells rare herbs and remedies, and poisons when he must. The rare goods that come through the house's bonded warehouses, desert resins, eastern roots and alchemical salts, often pass across his counter on the way to their buyers.
 
-Mugilush is a well-known apothecary in the city, often sought after for his knowledge of rare medicinal herbs and remedies. He inherited the shop from his father, who was also an apothecary. Mugilush has seen the darker side of city life, treating those who come to him for poisons as well as cures.
+He keeps out of the house's business so carefully that he knows a great deal of it. He knows which stores hold what, which cargoes leave by night, and which of his buyers come from the factors' houses on the slope and which from the boats that do not fly the house's mark. He writes nothing down and trusts nobody.
+
+## Background
+
+**The shop.** He inherited the shop from his father, an apothecary before him, and has kept it in the same lane for most of his life.
+
+**The house.** He has never held a place in the house's counting room and has never asked for one. The house sends its buyers to his counter, and he does not ask where their goods come from.
 
 ## Psyche
 
 ### Personality
 
-Cynical and somewhat paranoid due to dealings with shady characters.
+Mugilush is cynical, watchful and dry, suspicious of every kindness and courteous to every customer.
 
 ### Motivation
 
-Mugilush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in apothecary work keep him vigilant and adaptable.
+He wants to keep his shop, his name and his life, in that order, and he wants to know more about everyone who comes through his door than they know about him.
 
 ### Strengths
 
-Skilled in the preparation of medicinal herbs, excellent knowledge of local flora.
+He prepares remedies well, knows poisons as well as cures, and knows the trade of the lane behind the warehouses by heart.
+
+### Weaknesses
+
+He is a Hitusuni in a city where that name is suspected, and he has handled enough of the house's goods to be ruined with it if it falls.
 
 ## Social
 
-Mugilush is affiliated with the [Apothecaries' Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian apothecary, Mugilush occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Mugilush's primary patrons are wealthy merchants and nobles who value his expertise. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-A rival apothecary who accuses him of underhanded business practices.
+An apothecary of the temple streets says to anyone who will listen that the rare goods on Mugilush's counter never paid their tariff, and has taken the complaint to the Keeper of the Tariff.
+
+### Others
+
+- **Merchant Prince [[being-ashurazhitus|Ashuraz Hitusuni]]**, head of the house, who greets him at the house's feasts by name and has never once come to the shop.
+- **The factors' households of the slope**, who buy his remedies and, now and then, something else.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Sazumun, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through his state's councilors.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keeps the feasts of the goddess of growth and healing without office in the temple.
 
 ## Plot Hooks
 
-The Apothecary's Dilemma
-: Mugilush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: A rival apothecary who accuses him of underhanded business practices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Mugilush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Mugilush depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Mugilush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The bale on the sand.** A girl who walks the beaches after storms brings a sealed bale to Mugilush's counter. Its lead seal is a Hitusuni seal, unbroken, and he knows the moment he sees it what it is and who would pay to have it.
+2. **The guard's record.** [[being-pzsnkhdzm|Pazasan Khidizum]]'s record of what leaves the Hitusuni warehouses untaxed has gone missing from his lodgings. Someone has offered to sell Mugilush a page of it, to prove they have the rest.
+3. **The dose.** A steward of a factor's house buys a remedy for sleeplessness and asks, as he pays, how much of it would make a man sleep for good. Mugilush has given the steward a smaller bottle than he paid for, and is waiting to learn whose household it was for.
+4. **The complaint.** The Keeper of the Tariff has sent a clerk to the shop with the temple-street apothecary's complaint, and wants to see where Mugilush's resins came from.

@@ -3,7 +3,8 @@ shortcode: shrrshkhmsn
 name: {full: Sharrush Khamisuni}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "A locksmith of Yamuzel who has made the locks of the admirals' houses, the strongrooms of the harbor streets and the Naval Yards for thirty years, and teaches his trade to the young."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Sharrush Khamisuni is a 51-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with sharp cheekbones, a lined forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows, lending him a measured gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a rough complexion. His gray hair is kept practical and short. A notable feature is rough, work-worn hands.
+Sharrush Khamisuni is a 50-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with sharp cheekbones, a lined forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows, lending him a measured gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a rough complexion and rough, work-worn hands, and a long scar runs across his stomach. His gray hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Sharrush Khamisuni came into the world of the locksmith through a combination of circumstance and aptitude.
+Sharrush Khamisuni is a locksmith of [[place-yamuzel2|Yamuzel]], with a shop in the harbor streets below the switchback road. For more than thirty years he has made locks for the city: the doors and strongboxes of the admirals' houses on the height, the strongrooms of the chandlers and the [[affiliation-corsairleg|Corsair League]]'s hall on the mole, and the chests and doors inside the wall of the [Naval Yards]{.name data-type="place/site"}. He works in iron and in wood, and he has fitted locks to ships' cabins and strongboxes aboard as well as ashore.
 
-Sharrush has been a locksmith for over three decades, earning a reputation for his high-quality work and innovative designs. He has seen the trade change over the years and adapted by incorporating new techniques and materials. Sharrush is well-respected in the community and often shares his knowledge with young apprentices, believing in the importance of passing down skills. He has a strong sense of ethics and refuses to work with anyone associated with the [Thieves Guild]{.name data-type="affiliation/criminal"}.
+He takes apprentices and teaches them everything he knows, and he will not make a key or a lock for a man he does not know.
+
+## Background
+
+**The bench.** Sharrush learned the trade at a locksmith's bench in the harbor streets and took over the shop from his master. He has changed his methods as the work changed, and he is proud of it.
+
+**The war.** He made the locks for the yards' armories while the fleet was built, and the yards have sent for him since.
 
 ## Psyche
 
 ### Personality
 
-Resistant to change, can be overly nostalgic.
+Sharrush is upright, patient with apprentices and fond of the old days, and he dislikes the way the harbor streets have changed since the war.
 
 ### Motivation
 
-Sharrush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in locksmith work keep him vigilant and adaptable.
+He wants his locks to keep out everyone they are meant to keep out, and his trade passed on to young hands.
 
 ### Strengths
 
-Highly experienced, skilled craftsman, knowledgeable mentor.
+He is a master of his craft in metal and wood, knows the locks of half the city, and is a good teacher.
+
+### Weaknesses
+
+He is set in his loyalties, and he knows more about the city's strongrooms than is safe for one man to know.
 
 ## Social
 
-Sharrush is affiliated with the local [Locksmiths' Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian locksmith, Sharrush occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Sharrush's primary patrons are nobles and local businesses who value his craftsmanship. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-None; generally respected.
+He has none of his own.
+
+### Others
+
+- **The admirals' houses on the height**, whose stewards send for him when a lock sticks.
+- **The Master of the Naval Yards**, whose doors and chests carry his locks.
+- **His apprentices**, sons of the harbor streets and of the Veterans' Quarter.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Yamuzel, free to trade under the Confederation's tariffs and entitled to petition the [[affiliation-grandcouncil|Grand Council]] through his state's councilors.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keep the feasts of the god of the creative fire without office in the temple.
 
 ## Plot Hooks
 
-The Locksmith's Dilemma
-: Sharrush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: None; generally respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Sharrush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Sharrush depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Sharrush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The drawing loft.** The Master of the Naval Yards sends for Sharrush to change every lock in the yards' drawing loft, the day after a shipwright failed to come back through the gate, and wants it done before anyone asks why.
+2. **The window.** A ship model has vanished overnight from the window of an admirals' house, whose locks are Sharrush's work, and the house's steward wants to know how the window was opened. Sharrush can see how, and the one who did it is an apprentice's friend from the quarter.
+3. **The armory key.** A marine sergeant raised in the Veterans' Quarter asks Sharrush, quietly, whether he still has the pattern of the key to the yards' armories, and how long a copy would take.

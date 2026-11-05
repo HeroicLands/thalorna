@@ -3,7 +3,8 @@ shortcode: arznlsbrds
 name: {full: Arzanalas Baredas}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "An old huscarl of the Volkemates household at Tirellan, sworn to the house at seventeen, who now trains its young men in the yard of its tower and keeps its street."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 4}, brazemas: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 670.45
@@ -391,52 +392,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Arzanalas Baredas is a 50-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze. He has a straight nose and wide lips. He has medium-toned skin with an olive-toned complexion. His gray hair is kept practical and short. A notable feature is crow's feet at the corners of sharp eyes.
+Arzanalas Baredas is a 49-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze, with deep crow's feet at their corners. He has a straight nose and wide lips. He has medium-toned skin. His grey hair is kept practical and short. Over his heart he carries an old tattoo of a heart, done in the yard the year he swore his oath, and he walks stiffly on knees that have stood in too many shield-lines.
 
 # Dossier {#dossier}
 
-Arzanalas Baredas is a huscarl of Lord [[being-korvathosvol|Korvathos Volkemates]]'s household at [[place-tyrellan|Tirellan]], in the [[place-moktur|Moktur]] march of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freeman of the border who swore to the [Volkemates]{.name data-type="affiliation/lineage"} house at seventeen and has never served anyone else.
+Arzanalas Baredas is a huscarl of Lord [[being-korvathosvol|Korvathos Volkemates]]'s household at [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]], a [[lore-vylarianclt|Vylarian]] of the border who swore to the [Volkemates]{.name data-type="affiliation/lineage"} house at seventeen and has served no one else.
 
-In Moktur, the [[affiliation-vylarinmpr|Vylarian Empire]]'s northern shield, the border-lords keep households of sworn fighting men against [[lore-varokhiclt|the Varokh]] raids that come over the march every summer. Arzanalas has been one of Lord Korvathos's for thirty-seven years—a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
+In Moktur the border lords keep households of sworn fighting men against the [[lore-varokhiclt|Varokh]] raids that come over the march every summer, and in Tirellan a lord's men sleep in the lower floors of his tower at the street corner. Arzanalas has been one of the Volkemates' men for thirty-two years: a spearman, then a captain of the household, and now, with his knees gone, the master of the yard. The young men of the house learn the spear and the shield-line from him in the tower's yard, and when a shopkeeper of the Volkemates' street is robbed in the night, it is Arzanalas who sends them to find the thief.
+
+## Background
+
+**The oath.** He swore to Lord Korvathos's father when Korvathos was a boy, and has served the son as he served the father.
+
+**The march.** He stood in the household's shield-line against the summer raids for twenty years, and has the scars and the knees of it. He has buried more of the house's men than he has trained.
 
 ## Psyche
 
 ### Personality
 
-Arzanalas is steady, plain and set in his ways; he learned to fight one way and teaches that way and regards the newer drill from the capital as a fashion.
+Arzanalas is steady, plain and set in his ways. He learned to fight one way and teaches that way, and he regards the newer drill from the capital as a fashion.
 
 ### Motivation
 
-Arzanalas wants the Volkemates house to stand, because he swore it would, and he wants the men he trains to be fit to hold it after him.
+He wants the Volkemates house to stand, because he swore it would, and he wants the men he trains to be fit to hold it after him.
 
 ### Strengths
 
-Highly experienced, a sound judge of ground and of men, hard to break.
+He is a sound judge of ground and of men, a hard fighter still, and a patient teacher. Some of his pupils are better than he ever was, and he tells them so.
+
+### Weaknesses
+
+His knees, his age, and a loyalty to the house that does not ask what the house is doing.
 
 ## Social
 
-Arzanalas belongs to Lord Korvathos's retinue and has for his whole adult life.
-
-## Companions
-
-### Patrons
-
-Arzanalas's patrons are Lord Korvathos and his family, whom he has served since boyhood. The lord keeps him out of gratitude and habit.
-
 ### Enemies
 
-The Varokh war-bands across the march, and Lord Korvathos's eldest son, who wants younger captains and a household drilled the capital's way.
+- The [[lore-varokhiclt|Varokh]] war-bands across the march, who know the Volkemates' colors.
+- Lord Korvathos's eldest son and heir, who wants younger captains and a household drilled the capital's way.
+
+### Others
+
+- **[[being-korvathosvol|Lord Korvathos Volkemates]]**, who keeps him out of gratitude and habit.
+- **The young men of the household**, who are his pupils, and who would follow him out of the tower.
+- **The shopkeepers of the Volkemates' street**, who bring their losses to him at the tower door.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the feasts of the Thunderer without office in the temple.
 
 ## Plot Hooks
 
-The Heir
-: Lord Korvathos is failing, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
-
-The Raid
-: A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tirellan is Arzanalas, with a yard of boys he has trained and no knees.
-
-The Lord's Loyalty
-: Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas swore to the house, not to [[place-orzara|Orzara]], and someone from the capital has come to ask him what he has seen.
-
-The Pupil
-: The best spearman Arzanalas ever trained has come back to Tirellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.
+1. **The heir.** Lord Korvathos has fallen ill, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
+2. **The raid.** A Varokh band has come over the march in a bad summer with the household's best men away at the frontier towers, and the only captain left in the tower is Arzanalas, with a yard of boys he has trained and no knees.
+3. **The lord's dealings.** Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas swore to the house, not to [[place-orzara|Orzara]], and the clerk of the [[affiliation-imperialoffices|Imperial Offices]] who is measuring the road has come to the tower to ask him what he has seen.
+4. **The pupil.** The best spearman Arzanalas ever trained has come back to Tirellan as captain of a rival lord's tower, and the two houses are about to quarrel over a ford.

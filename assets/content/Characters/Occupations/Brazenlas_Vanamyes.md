@@ -3,7 +3,8 @@ shortcode: brznlsvnmys
 name: {full: Brazenlas Vanamyes}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "An embalmer of Korvenara, third of his line, who prepares the town's and the garrison's dead by his grandfather's rite and will not hurry it for anyone."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {rank: 4}, selmoros: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, selmoros: {rank: 1}}
   gender: male
   species: humanflk
   born: 668.331
@@ -396,13 +397,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Brazenlas Vanamyes is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and expressive lips. He has olive-tanned skin with a weathered complexion. His gray hair is cropped short.
+Brazenlas Vanamyes is a 51-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and expressive lips. He has olive skin with a weathered complexion. His gray hair is cropped short, and he smells faintly of resin and cedar oil.
 
 # Dossier {#dossier}
 
-Brazenlas Vanamyes is an embalmer of [[place-corvinus|Korvenara]], the garrison town in the Alessan heartland of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
+Brazenlas Vanamyes is an embalmer of [[place-corvinus|Korvenara]], the garrison town of [[place-alyssa|Alessa]], the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
 
-Brazenlas holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the guild, who use the quicker preparations from [[place-orzara|Orzara]], find him a reproach.
+He holds that the rite as his grandfather taught it is what sees a soul across to the ancestors, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The camp sends him its dead because he does not complain of the numbers and does not talk about them.
+
+## Background
+
+**The house.** Brazenlas learned the rite from his father, who learned it from his own, in the same house by the town's edge where he works now.
+
+**The garrison.** He has had the camp's dead since his father's death: soldiers of fever, of accident and of old age, and every one of them prepared in full.
 
 ## Psyche
 
@@ -412,36 +419,35 @@ Brazenlas is grave, exact and distant, and seems to prefer the dead, whose needs
 
 ### Motivation
 
-Brazenlas wants every corpse that comes to him prepared correctly, because the soul's passage depends on it. He wants the house to continue after him, and he has no son and has not chosen an apprentice.
+He wants every body that comes to him prepared correctly, because the soul's passage depends on it, and he wants the house to continue after him.
 
 ### Strengths
 
-Experienced, skilled in the traditional rites and preservations, wholly dedicated to the work.
+He is experienced, skilled in the traditional rites and preservations, and wholly dedicated to the work. He forgets nothing he has seen on his table.
+
+### Weaknesses
+
+He has no son and has turned away every apprentice as unfit, and he will not bend the rite for a grieving family or for the camp.
 
 ## Social
 
-Brazenlas is a master of the [Morticians' Guild of Korvenara]{.name data-type="affiliation/guild"} and attends its meetings to vote against every change in method.
-
-## Companions
-
-### Patrons
-
-Brazenlas's patrons are the old families of Korvenara, who want the rite their grandparents had, and the garrison's quartermaster, who sends him the legion's dead.
-
 ### Enemies
 
-The younger embalmers of the guild, who use the Orzara preparations and would have the guild drop the old rite from its standard; their leader wants the garrison contract.
+The younger embalmers of the [Morticians' Guild of Korvenara]{.name data-type="affiliation/guild"}, who use the quicker preparations from [[place-orzara|Orzara]], would have the guild drop the old rite from its standard, and their leader wants the garrison's dead.
+
+### Others
+
+- **The old families of Korvenara**, who want the rite their grandparents had.
+- **The camp's quartermaster**, who sends him the legion's dead.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-selmoros|Faith of Sélmoros]]**: one of the lay faithful, the Devran, who keeps the Silent Judge's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Garrison's Dead
-: A fever in the barracks has given Brazenlas forty bodies in a week and the quartermaster wants them ready in three days, which the full rite will not allow.
-
-A New Rite
-: The daughter of an old family wants her father buried with a rite from the capital that Brazenlas holds to be worthless and has asked him to perform it because her father trusted no one else.
-
-The Body That Should Not Be Embalmed
-: A body has come from the garrison with a clerk's tally and a wound that no fever made, and Brazenlas has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
-
-No Heir
-: Brazenlas has no son and has turned away every apprentice as unfit. A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.
+1. **The count.** The officer coming from Orzara to inspect the legion has heard that the camp's roll shows no losses in nine years. He asks Brazenlas, politely, how many soldiers he has prepared in that time.
+2. **The fever.** A fever in the barracks has given Brazenlas forty bodies in a week, and the quartermaster wants them ready in three days, which the full rite will not allow.
+3. **The wound.** A body has come from the camp with a clerk's tally and a wound that no fever made, and Brazenlas has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
+4. **No heir.** A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.

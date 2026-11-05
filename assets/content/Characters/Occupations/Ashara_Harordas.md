@@ -3,7 +3,8 @@ shortcode: asharhrrds
 name: {full: Ashara Harordas}
 type: being
 subType: npc
-tags: [draft, guilded, soldiery]
+description: "A swordmaster of Tirellan who keeps a fencing yard in the garrison lanes below the Horse Yards, teaching the sword and the thrown blade to merchants' sons, border households and garrison officers."
+tags: [guilded, soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 4}, brazemas: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: 686.99
@@ -392,55 +393,58 @@ sohl:
 
 # Appearance {#appearance}
 
-Ashara Harordas is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a square jaw that leads to a square chin. Her round brown eyes sit beneath prominent brows and give her a candid gaze. She has a prominent nose and thin lips. She has sun-tanned skin. Her dark brown hair is swept up and held with carved combs.
+Ashara Harordas is a 33-year-old woman who stands 6'0" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a square jaw that leads to a square chin. Her round brown eyes sit beneath prominent brows and give her a candid gaze. She has a prominent nose and thin lips. She has sun-tanned skin with a sun-kissed complexion. Her dark brown hair is swept up and held with carved combs, which leaves bare the small dragonfly tattooed on the side of her neck.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a guilded family of [[lore-vylarianclt|Vylarian]] heritage, Ashara Harordas is a swordmaster.
+Ashara Harordas is a swordmaster of [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]], who keeps a fencing yard in a lane below the [Horse Yards]{.name data-type="place/site"}, among the armorers and saddlers who work for the garrison. She teaches the sword: to the sons of the merchant houses who sit on the town's council, to young men of the border lords' households who have learned the spear in their lords' yards and want a blade as well, and to any officer of the garrison who can pay her by the month.
 
-Ashara is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Her quick reflexes and sharp eye make her a dangerous opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
+Tirellan is a city of soldiers, and a fencing master there is judged by soldiers. Ashara has fought every challenger who has come to her gate and lost to few, and her pupils win the bouts that the households hold among themselves in the long evenings of winter. She teaches the throwing of knives and javelins as well as the sword, and she is better at that than any rider of the auxiliaries she has met.
+
+## Background
+
+**The frontier.** Ashara grew up in the lanes below the Keep, a saddler's daughter who watched the auxiliaries drill on the training ground at the foot of the Horse Yards and copied them with a stick.
+
+**The yard.** She learned the sword in the garrison lanes, won her bouts against every challenger, and opened her own yard when her name was made. Her pupils have multiplied each year since.
 
 ## Psyche
 
 ### Personality
 
-She is overly competitive and sometimes lets pride dictate her actions.
+Ashara is quick, proud and fiercely competitive. She cannot turn down a challenge, and she lets her pride decide when her judgment should.
 
 ### Motivation
 
-Ashara wants her school to be the first in Vylaria and her own name to stay ahead of every rival's.
+She wants her yard to be the first in Moktur and her name to be the one the border lords send their sons to.
 
 ### Strengths
 
-She has quick reflexes, is skilled in dueling, and is an adept teacher.
+She has very fast hands and a sharp eye, she is a fine teacher of the sword and a better one of the thrown blade, and the lanes of the garrison respect her.
+
+### Weaknesses
+
+Her pride. She takes every bout as a matter of honor and has made enemies of men she should have let win.
 
 ## Social
 
-Ashara belongs to the [City Fencing Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Ashara's patrons are the wealthy families who seek her instruction for their children.
-
 ### Enemies
 
-Rival fencers challenge her for supremacy in the dueling circles.
+A master of the spear in one of the border lords' towers, who tells the young men of his house that a sword is a townsman's weapon, and whose best pupil she beat in front of his lord.
+
+### Others
+
+- **The sons of the merchant houses**, who pay her by the month and boast of her in the forum.
+- **The armorers and saddlers of the garrison lanes**, her neighbors, who send her their customers' sons.
+- **The officers of the garrison**, some of whom come to her yard to keep their hand in.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the feasts of the Thunderer without office in the temple.
 
 ## Plot Hooks
 
-The Swordmaster's Dilemma
-: A wealthy patron's son is not good enough to pass, and his family's fees and her school's name cannot both be kept.
-
-Old Grudges
-: A rival fencer she beat in a tournament challenges her to a duel she cannot decline without losing face.
-
-Echoes of the Past
-: A rival from Ashara's tournament years returns to Vylaria with an old score to settle.
-
-Shifting Winds
-: Political change in Vylaria threatens the standing Ashara's guild gives her, and she can adapt, resist, or leave.
-
-The Opportunity
-: Ashara is offered the post of swordmaster to a noble house, and its price is not named up front.
+1. **The pay chest.** The _tarkelos_ needs extra blades to bring the auxiliaries' pay chest down from [[place-korrast|Korras]] by the first of the month, with a war-band on the march. Ashara has been asked to choose them from her best pupils, and the pupils want her to ride with them.
+2. **The tower's challenge.** The master of the spear has challenged her to fight his best man before the households in midwinter, spear against sword. If she loses, half her border pupils go back to the spear.
+3. **The surveyor's guard.** The clerk of the [[affiliation-imperialoffices|Imperial Offices]] who is measuring the road has asked her for a guard, because the last man sent on the same errand came back with a broken leg. Several of her pupils are sons of the _pozerus_'s men.
+4. **The eagle.** One of her pupils, the son of a family of the Fourth's cashiered officers, has been seen at the [Eagle Shrine]{.name data-type="place/structure"} after dark. He asks her not to say so.

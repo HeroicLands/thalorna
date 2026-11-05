@@ -3,7 +3,8 @@ shortcode: mentrkrmys
 name: {full: Mentra Keramyes}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A glassworker of Belekos whose colored windows, in patterns the guild's masters disdain, hang in the counting halls of houses that buy art to be seen buying it."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {vylarinmpr: {rank: 4}, sacredforge: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
   born: "693.110"
@@ -392,52 +393,56 @@ sohl:
 
 # Appearance {#appearance}
 
-Mentra Keramyes is a 27-year-old woman who stands 5'10" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and an angular jaw that leads to a prominent chin. Her bright green eyes sit beneath arched brows and give her a lively gaze. She has a prominent nose and thin lips. She has medium-toned skin with a ruddy complexion. Her auburn hair is adorned with simple pins.
+Mentra Keramyes is a 26-year-old woman who stands 5'10" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and an angular jaw that leads to a prominent chin. Her bright green eyes sit beneath arched brows and give her a lively gaze. She has a prominent nose and thin lips. She has medium-toned skin with a ruddy complexion. Her auburn hair is adorned with simple pins, and a wolf is tattooed on her left shoulder.
 
 # Dossier {#dossier}
 
-Mentra Keramyes is a glassworker of [[place-belekos|Belekos]], the city of the merchant houses in the [[place-alyssa|Alessa]] country of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freewoman who makes colored windows and colored glass for houses that buy art to be seen buying it.
+Mentra Keramyes is a glassworker of [[place-belekos|Belekos]], the city of the merchant houses above the grain valleys of [[place-alyssa|Alessa]], who makes colored windows for houses that buy art to be seen buying it. The houses rebuild their fronts every generation in the newest manner, and the glassworkers of the city are kept busy setting colored windows into the counting halls where the sacks are tallied under painted ceilings.
 
-Mentra went into a glasshouse at fourteen because her family needed her wage, and stayed because she found she could see color in a way the masters could not. She served the guild's seven years and came out with her seal and a name for windows nobody had seen before: patterns of her own, and colors laid against each other in ways the trade holds to be wrong and the buyers hold to be beautiful. In Belekos that is a living. The great merchant houses collect art because patronage is how a house shows its weight, and a window no rival house has is worth more to such a house than a window the temples approve. Her mother and sisters eat on what the houses pay.
+Her windows are patterns of her own, with colors laid against each other in ways the trade holds to be wrong and the buyers hold to be beautiful. In Belekos that is a living. A window no rival house has is worth more to a great house than a window the temples approve.
+
+## Background
+
+**The glasshouse.** Mentra went into a glasshouse at fourteen because her family needed her wage, and stayed because she found she could see color in a way the masters could not.
+
+**The seal.** She served the glassworkers' seven years and came out with her seal and a name for windows nobody had seen before. Her mother and sisters eat on what the houses pay.
 
 ## Psyche
 
 ### Personality
 
-Mentra is quick, eager and easily wounded. She has never yet made a window the size of a temple's east wall, and a word against her colors lands harder than she lets the masters see.
+Mentra is quick, eager and easily wounded, and a word against her colors lands harder than she lets the masters see.
 
 ### Motivation
 
-Mentra wants to make glass that is hers, in colors and patterns nobody taught her, and she wants her family kept on what that glass earns. The houses that pay for the first can withdraw the second in a season.
+She wants to make glass that is hers, in colors and patterns nobody taught her, and she wants her family kept on what that glass earns.
 
 ### Strengths
 
-Skilled in colored and decorative glass, inventive, quick to learn.
+She is skilled in colored and decorative glass, inventive and quick to learn.
+
+### Weaknesses
+
+She has never yet made a window the size of a temple's east wall, and she depends on one house's favor, which it can withdraw in a season.
 
 ## Social
 
-Mentra holds her seal from the [Glassworkers' Guild of Belekos]{.name data-type="affiliation/guild"}, whose senior masters examined her and passed her, and have said since that they should not have.
-
-## Companions
-
-### Patrons
-
-Mentra's patrons are a merchant house of Belekos that has made her windows part of how it shows itself, and the temple that house endows.
-
 ### Enemies
 
-The senior masters of the guild, who hold her colors to be a fashion and her patterns a want of training; and a rival glasshouse that has begun copying her borders.
+The senior masters of the [Glassworkers' Guild of Belekos]{.name data-type="affiliation/guild"}, who examined her and passed her, hold her colors to be a fashion and her patterns a want of training, and say they should not have passed her. A rival glasshouse has begun copying her borders.
+
+### Others
+
+- **The merchant house that has made her windows part of how it shows itself**, and the temple that house endows.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keeps the feasts of the creative fire without office in the temple.
 
 ## Plot Hooks
 
-The Rival's Window
-: A second merchant house has commissioned a window from Mentra for the hall where it receives the first house's rivals, and her patron has heard of it.
-
-The Master's Examination
-: The guild has called Mentra to show a full window before the masters to confirm her seal, as it may under charter. The subject set is a traditional one.
-
-The Ledgers Go South
-: Mentra's patron house is moving its money out of Belekos and out of the empire, quietly, and has asked whether she will follow it to a foreign city where nobody knows her colors.
-
-The Cracked Light
-: A window Mentra set for the temple has cracked through in the first frost, and the priests say the fault is in her glass. The lead was set by a master who has not liked her since the examination.
+1. **The broken emblem.** A second house has commissioned a window from Mentra showing its rival's emblem broken, to be set where the rival must pass it every morning. Her patron has heard of it.
+2. **The examination.** The guild has called Mentra to show a full window before the masters to confirm her seal, as it may under its charter. The subject set is a traditional one.
+3. **The ledgers go south.** Mentra's patron house is moving its money out of Belekos and out of the empire, quietly, and has asked whether she will follow it to a foreign city where nobody knows her colors.
+4. **The cracked light.** A window Mentra set for the temple has cracked through in the first frost, and the priests say the fault is in her glass. The lead was set by a master who has not liked her since the examination.

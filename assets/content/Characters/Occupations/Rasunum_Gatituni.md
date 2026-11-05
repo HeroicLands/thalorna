@@ -3,7 +3,8 @@ shortcode: rsnmgttn
 name: {full: Rasunum Gatituni}
 type: being
 subType: npc
-tags: [draft, guilded, administration]
+description: "The clerk of Pashinar's Guild Board, who has kept its books for thirty years and enters every name on the Forgetting in his own hand."
+tags: [guilded, administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -396,55 +397,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Rasunum Gatituni is a 53-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set black eyes sit beneath heavy brows and give him a watchful gaze. He has an aquiline nose and full lips. He has olive skin with a smooth complexion. His brown hair is kept practical and short.
+Rasunum Gatituni is a 52-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set dark brown eyes sit beneath heavy brows and give him a watchful gaze. He has an aquiline nose and full lips. He has olive skin with a smooth complexion. His brown hair is kept practical and short, and he carries a battered leather writing-case everywhere he goes.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Rasunum Gatituni is a bureaucrat.
+Rasunum Gatituni is the clerk of the [[affiliation-gldbrdpshnr|Guild Board of Pashinar]], a freeman on the register who has kept the board's books in the toll-house above the ferry quay for thirty years. He keeps the landing dues taken on the weigh-house's lead tags, the licenses of the factors' houses and the caravanserais, the board's acts and its accounts, and he is the clerk of [the Forgetting]{.name data-type="lore"}, the book of names the caravan trade will not deal with.
 
-Rasunum has worked in the city’s administrative offices for over three decades, climbing the ranks through diligence and a feel for the politics of the bureaucracy. He is known for his exact record-keeping and strict adherence to procedure, though the years have left him jaded and weary of corruption in the higher offices.
+A name goes onto the Forgetting when two witnesses swear before the Warden of the Weights that its owner broke a bargain struck in Pashinar or on the road from it. The Warden hears the oaths, and Rasunum enters each name in his own hand, with the witnesses' names beside it. Every spring at the first sailing the Warden reads the new names aloud on the ferry quay, and the ferry masters carry Rasunum's copies to [[place-qudumel2|Kudumel]] and the Amradi ports. He has written down more ruined men than anyone in the town.
+
+## Background
+
+**The toll-house.** He came to the board as a copying boy, learned the law of the caravan trade from the board's own books, and was its clerk before he was thirty.
+
+**The Wardens.** He has served several Wardens of the Weights. The Warden names the clerk of the Forgetting and can unname him, and Rasunum has outlasted them all by doing exactly what each of them asked.
 
 ## Psyche
 
 ### Personality
 
-He is cynical and resistant to change, especially when it comes to reform.
+Rasunum is precise, dry and cynical, with no patience for reformers and a great deal for procedure.
 
 ### Motivation
 
-Rasunum wants to keep his office and the order he knows, and to stay clear of the corruption above him.
+He wants his office, his books in order and his pension, and he wants to stay clear of whatever the men above him are doing.
 
 ### Strengths
 
-He is extremely organized and knowledgeable about city regulations.
+He knows the law of the caravan trade, the town's every license and the board's every act, and he forgets nothing he has written.
+
+### Weaknesses
+
+He has kept his place for thirty years by saying nothing, and he has said nothing about things that matter.
 
 ## Social
 
-Rasunum belongs to the city bureaucracy.
-
-## Companions
-
-### Patrons
-
-Rasunum's patrons are the city officials who value his experience.
-
 ### Enemies
 
-Reformists who view him as a symbol of the stagnant system.
+None of his own. Every name on the Forgetting is in his hand.
+
+### Others
+
+- **[Ashuran Dapumi]{.name data-type="being/npc"}**, the Warden of the Weights, who hears the oaths and names the clerk.
+- **[Qazima Zazuruni]{.name data-type="being/npc"}**, First of the Board this term, whose house owns the largest warehouses on the quay.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Pashinar, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through his state's councilors.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: one of the lay faithful, the Devran, who keeps the feasts of the Keeper of the Gates without office in the temple.
 
 ## Plot Hooks
 
-The Bureaucrat's Dilemma
-: A superior's corruption reaches Rasunum's own desk, and he has to choose between his principles and his office.
+1. **The disputed name.** A [[lore-dunhariclt|Dunhari]] caravan master read on the Forgetting this spring swears he broke no bargain, and offers a party half his freight to learn who swore against him. Rasunum entered the name in his own hand, and the witnesses' names are beside it.
+2. **The called notes.** A factor of the [[affiliation-balinuni|Balinuni]] asks Rasunum, over coffee, for a copy of the board's register of what the caravan masters owe Pashinar's factors. It is not his to give, and the factor has offered a great deal for it.
+3. **The clerk at his elbow.** The Warden has begun bringing a young copyist to sit beside Rasunum at the board's table and learn the books.
 
-Old Grudges
-: Reformists who see him as a symbol of the stagnant system may make him the example when they move against it.
-
-Echoes of the Past
-: A record Rasunum filed decades ago resurfaces and has to be answered for.
-
-Shifting Winds
-: Political change in Taruzel threatens the offices Rasunum depends upon, and he can adapt, resist, or leave.
-
-The Opportunity
-: An offer of higher office comes to Rasunum from someone whose interest in him he cannot see, and its price is not named up front.
+:::secret {title="The four names"}
+The Warden of the Weights has entered four names on the Forgetting in the last two seasons on the oaths of witnesses he was paid to believe, and all four belong to caravan masters who land at Pashinar every year and never at Kudumel. Rasunum wrote the four names in, and he recognized two of the witnesses, who had sworn to other bargains broken in other years by other men. He has said nothing, because the Warden can unname him. He has copied the four entries and the witnesses' names onto a separate sheet, which he keeps in the lining of his writing-case. The Dunhari caravan master of the first hook is the fourth name.
+:::

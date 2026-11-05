@@ -3,7 +3,8 @@ shortcode: rmkshtmdm
 name: {full: Rumukush Temadum}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A bodyguard of Sharimun hired by the merchants who come for the Arbitrators' sessions, to walk them and their papers from their lodgings to the porch of the Khurutun."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,56 @@ sohl:
 
 # Appearance {#appearance}
 
-Rumukush Temadum is a 31-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and thin lips complete his features. He has tanned skin with an even complexion. His black hair is cropped short.
+Rumukush Temadum is a 30-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and thin lips complete his features. He has tanned skin marked with old nicks and scars, and a long knife scar runs down his right forearm. His black hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Rumukush Temadum came into the world of the bodyguard through a combination of circumstance and aptitude.
+Rumukush Temadum is a bodyguard of [[place-sharimun|Sharimun]]. Twice a year, when the Arbitrators of the [[affiliation-grandcouncil|Grand Council]] sit in the [Khurutun]{.name data-type="place/site"}, merchants and factors come to the town with their papers and their witnesses, because a suit worth a voyage to Sharimun is often worth a knife. They hire him to walk them from the lodging-houses on the harbor square to the court's porch and back, to stand behind them while they wait for their case to be called, and to sit outside their door at night.
 
-Rumukush is a seasoned bodyguard with years of experience in protecting merchants and their valuable goods. Known for his intimidating presence and combat expertise, he often acts as the first line of defense against threats. Rumukush is deeply loyal to those he protects and has a strong sense of justice. He believes in using force only when necessary and often tries to defuse situations peacefully before they escalate.
+Between the sessions he guards the quarry masters' pay chests on the road and the glass that goes out of the furnace street to the guild houses of Besikar.
+
+## Background
+
+**The quay.** Rumukush grew up on the harbor of Sharimun, loading cut stone onto hulls at the quarry quay, and he was big enough at sixteen that a factor hired him to stand at his shoulder through a session.
+
+**The scar.** He took the scar on his forearm on the porch of the Khurutun, turning a knife meant for a client, and the client paid him for a year.
 
 ## Psyche
 
 ### Personality
 
-Can be too aggressive, struggles with negotiation skills.
+Rumukush is loyal, direct and quick to anger. He would rather end a quarrel with a look than a blow, and when the look fails he is too quick with the blow.
 
 ### Motivation
 
-Rumukush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bodyguard work keep him vigilant and adaptable.
+He wants to bring every client to the porch and home again unhurt, and to be the bodyguard the merchants ask for by name.
 
 ### Strengths
 
-Strong and intimidating, skilled in hand-to-hand combat, good at intimidation.
+He is strong, fast with his hands and a knife, and frightening to look at.
+
+### Weaknesses
+
+He cannot talk a quarrel down, and a client who needs one ended quietly is badly served by him.
 
 ## Social
 
-Rumukush is affiliated with the local [Mercenaries Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian bodyguard, Rumukush occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Rumukush's primary patrons are merchants and minor lords requiring strong protection. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Few; generally well-respected but some may fear him.
+The bodyguards of the merchants on the other side of his clients' suits, who have met him on the porch, and one of them still nurses a broken hand.
+
+### Others
+
+- **The factors and merchants of the five cities** who hire him for the sessions and send their friends to him.
+- **The hosts of the lodging-houses on the square**, who tell him which clients have come into town.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keep the Thunderer's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Bodyguard's Dilemma
-: Rumukush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: Few; generally well-respected but some may fear him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Rumukush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Rumukush depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Rumukush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The walk to the porch.** Rumukush's client this session is the Kudumel merchant whose suit turns on a missing ship's master, and someone has twice followed them from the lodging-house to the porch. The merchant wants the follower found before the session closes.
+2. **The purse for the clerk.** A client asks Rumukush to carry a sealed purse to a clerk of the Khurutun after dark and to ask no questions. It is heavy for a fee.
+3. **The champion's errand.** [[being-nbrnfsnn|Niburan Fusanuni]] asks Rumukush to watch the house of the man who accused him, and to tell him who comes to the door at night.

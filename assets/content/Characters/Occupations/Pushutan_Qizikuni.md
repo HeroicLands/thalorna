@@ -3,7 +3,8 @@ shortcode: pshtnqzkn
 name: {full: Pushutan Qizikuni}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "A senior pleader of Sharimun's Litigants' Guild who carries the name of the Qizikuni of Besikar, argues their trade disputes before the Arbitrators and is hard on the young litigants in his chambers."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -394,57 +395,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Pushutan Qizikuni is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a pointed chin. His large dark brown eyes sit beneath heavy brows, lending him an expressive gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is kept practical and short.
+Pushutan Qizikuni is a 40-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a pointed chin. His large dark brown eyes sit beneath heavy brows, lending him an expressive gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a noble family of [[lore-taruzelianclt|Taruzelian]] heritage, Pushutan Qizikuni came into the world of the litigant through a combination of circumstance and aptitude.
+Pushutan Qizikuni is a litigant of [[place-sharimun|Sharimun]], one of the most senior pleaders of the [Litigants' Guild]{.name data-type="affiliation/guild"}, whose hall stands at the top of the harbor square above the [Khurutun]{.name data-type="place/site"}. He pleads commercial suits before the Arbitrators of the [[affiliation-grandcouncil|Grand Council]]: charters, cargoes, partnerships and debts between merchants of different cities, where the laws of one city and another disagree. He carries the name of the [[affiliation-qizikuni|Qizikuni]] of [[place-besikar2|Besikar]], and he argues the house's trade disputes in Sharimun, where the house keeps litigants of its own name to see that what is owed to it is paid.
 
-Pushutan has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the [Litigants' Guild]{.name data-type="affiliation/guild"}. Pushutan is respected for his analytical approach and ability to handle complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
+He keeps chambers off the square, takes young litigants of the guild into them to learn the trade, and is hard on them. He knows the laws of all five cities, the habits of every Arbitrator and the order of the court's book.
+
+## Background
+
+**The guild.** Pushutan was schooled in rhetoric, mathematics and mercantile law, as the children of the guild families are, and he has pleaded before the Arbitrators for nearly twenty years.
 
 ## Psyche
 
 ### Personality
 
-Can be overly critical, sometimes dismisses unconventional methods.
+Pushutan is exacting, dry and critical. He has no patience with a careless argument or with a method he has not seen work.
 
 ### Motivation
 
-Pushutan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in litigant work keep him vigilant and adaptable.
+He wants every bargain the court weighs held to its terms, because a bargain not honored is theft, and he wants the young litigants he trains to plead as well as he does.
 
 ### Strengths
 
-Highly knowledgeable in commercial law, good strategist, respected mentor.
+He is learned in the commercial law of the five cities, a strong strategist in a long suit and a demanding teacher.
+
+### Weaknesses
+
+He dismisses an argument he did not think of himself, and his pupils fear him more than they like him.
 
 ## Social
 
-Pushutan is affiliated with Litigants' Guild.
-
-As a Taruzelian litigant, Pushutan occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Pushutan's primary patrons are merchants and business owners seeking legal representation. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Few; generally respected but occasionally challenged by ambitious newcomers.
+Ambitious younger litigants of the guild want his clients and say in the guild hall that he wins the house's suits on the house's name.
+
+### Others
+
+- **The young litigants of his chambers**, who copy his briefs and run his errands to the clerks.
+- **The merchants of the five cities** who hire him for suits worth a voyage to Sharimun.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-marendas|Faith of Marendas]]**: one of the lay faithful, the Devran, who keep the feasts of the god of knowledge without office in the temple.
 
 ## Plot Hooks
 
-The Litigant's Dilemma
-: Pushutan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
+1. **The master at sea.** A Kudumel merchant's suit against a Besikar house turns on a ship's master who signed the charter and has gone to sea, and the session closes in twenty days. Pushutan pleads for the Besikar side, and he would be content if the master stayed at sea.
+2. **The pupil's scruple.** The best of Pushutan's pupils has quarrelled with him over what the chambers charge their clients, and means to raise the matter before an Arbitrator. Pushutan has twenty days of the session left and a pupil who will not be quiet.
+3. **The war's debt.** A merchant who borrowed against the Qizikuni's gold in the first months of the war has brought a suit to have the debt read as a gift to the Confederation. Pushutan is briefed to answer him.
 
-Old Grudges
-: Few; generally respected but occasionally challenged by ambitious newcomers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+:::secret {title="The Truth of Sharimun"}
+The clerks of the Khurutun sell places in the Arbitrators' book, and cases are heard in the order they are entered. A Besikar house's suit is heard in the session it is entered, and a merchant without a litigant who knows the price waits two years or more. Every litigant of the guild knows the clerks' price, Pushutan among them, and puts it in his own fees and says nothing.
 
-Echoes of the Past
-: Something from Pushutan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Pushutan depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Pushutan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The pupil of the second hook has learned the price and which clerks are paid it, and that is what the quarrel over the chambers' charges is about. Pushutan means to keep the pupil quiet until the session closes, because a word before an Arbitrator would put every pleader of the guild, and the Qizikuni's own suits, in question.
+:::

@@ -3,7 +3,8 @@ shortcode: hrprsvrkrtys
 name: {full: Harperos Varkratis}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A veteran archer of the legion at Korvenara who keeps a plot along the road and teaches the bow to the boys who come to take the oath."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -394,57 +395,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Harperos Varkratis is a 39-year-old man who stands 5'11" tall and is of moderate build. He has a square face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. An aquiline nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His auburn hair is receding at the temples.
+Harperos Varkratis is a 38-year-old man who stands 5'11" tall and is of moderate build. He has a square face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a square chin, with an old scar along the jawline. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. An aquiline nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His auburn hair is receding at the temples, and the fingers of his right hand are callused from the string.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Harperos Varkratis came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Harperos Varkratis is a veteran archer of the legion at [[place-corvinus|Korvenara]], the garrison town of [[place-alyssa|Alessa]]. He took the oath at fifteen, served his twenty years as an archer and came out by the south gate a citizen, and he went no farther than a plot along the road, a cottage and a vine laid out by the surveyors' chains in a row as straight as the camp's streets.
 
-Harperos has been a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Harperos prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
+He hunts the country round the town and sells what he brings home, and he teaches the bow to the boys who walk in to take the oath and to any veteran's son who asks. The camp sends for him when its patrols want a man who can track, and he goes, because he still keeps the camp's hours.
+
+## Background
+
+**The legion.** Harperos served his twenty years in a legion that never went to war while he was in it. He shot at marks, rode the road patrols and buried the men who died of fever.
+
+**The plot.** He came out three years ago with the citizenship and the dole, and took his plot along the road beside the men he served with.
 
 ## Psyche
 
 ### Personality
 
-Reluctant to take leadership roles, sometimes overly cautious.
+Harperos is calm, patient and quiet, and he does not put himself forward. He is cautious to a fault and would rather teach than lead.
 
 ### Motivation
 
-Harperos's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
+He wants to see out his years on his plot, and he wants the boys he teaches to come home from their twenty years as he did.
 
 ### Strengths
 
-Experienced archer, skilled tracker, calm under pressure.
+He is an excellent archer and a skilled tracker, steady under pressure, and the younger men of the town follow him without his asking them to.
+
+### Weaknesses
+
+He refuses every post the town council offers him, and he will not say a hard thing to a man he served with.
 
 ## Social
 
-Harperos is affiliated with Local Militia.
-
-As a Vylarian yeoman archer, Harperos occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Harperos's primary patron is the local lord who values his consistency and reliability. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Rival soldiers who have lost to him in archery competitions.
+The soldiers of the camp who have lost to him at the marks on pay day do not like it, and one of them is now a sergeant.
+
+### Others
+
+- **The veterans of the plots along the road**, who were his comrades and are his neighbors.
+- **The boys he teaches**, before and after they take the oath.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Citizen by twenty years in the legions, with the dole, appeal at law and liability to the citizen's taxes.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the Thunderer's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Yeoman Archer's Dilemma
-: Harperos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
-
-Old Grudges
-: Rival soldiers who have lost to him in archery competitions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Harperos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Harperos depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Harperos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The names.** Harperos has heard names read at the camp's pay parade that belong to men he helped bury. He has told nobody, and he does not know who to tell.
+2. **The plot next door.** Two veterans claim the plot beside his, each with a surveyor's paper that looks genuine. Both served with him, both have asked him to say which is true, and the Vallar wants the forger found before the quarrel comes to knives.
+3. **The widow's son.** A boy of fifteen who has walked in to take the oath is learning the bow from Harperos, and his mother has come after him to bring him home before he swears.
+4. **The road.** The Vallar has asked Harperos to ride out with a party and keep the officer coming from [[place-orzara|Orzara]] on the road for three days, without the officer knowing that he is being kept.

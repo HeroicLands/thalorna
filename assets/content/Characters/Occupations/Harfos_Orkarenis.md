@@ -3,7 +3,8 @@ shortcode: hrphsrchrns
 name: {full: Harfos Orkarenis}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "A chandler of Elissara's Long Quay who sells ships' stores to the masters in the Sea Basin and scented wax to the stewards of the capital, and cuts his wax with tallow when wax is dear."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [aelissium]
-  affiliations: {vylarinmpr: {rank: 4}, sacredforge: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.176
@@ -393,57 +394,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Harfos Orkarenis is a 38-year-old man who stands 5'10" tall and is of moderate build. He has a long face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a square chin. His wide-set green eyes sit beneath straight brows, lending him an open gaze. A straight nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is receding at the temples.
+Harfos Orkarenis is a 37-year-old man who stands 5'10" tall and is of moderate build. He has a long face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a square chin. His wide-set green eyes sit beneath straight brows, lending him an open gaze. A straight nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is receding at the temples, and his forearms carry the small pale burns of the dipping vats.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a guilded family of [[lore-vylarianclt|Vylarian]] heritage, Harfos Orkarenis came into the world of the chandler through a combination of circumstance and aptitude.
+Harfos Orkarenis is a chandler of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vylaris]], who keeps a candle shop and a stores warehouse behind the [Long Quay]{.name data-type="place/structure"}. He sells two trades from one door. To the ships in the [Sea Basin]{.name data-type="place/feature"} he sells tallow candles, lamp oil, cordage and the rest of a ship's stores, by the crate and on account. To the stewards of the great houses of [[place-orzara|Orzara]] he sells beeswax candles, scented and colored, which go up the river on the barges from the [Barge Basin]{.name data-type="place/feature"} with the capital's own cargoes.
 
-Harfos operates a candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Harfos is always looking for ways to expand his business.
+The second trade is the one he is proud of. A steward of the capital buys in quantity, pays through a [[affiliation-danvar|Danvar]] draft and orders again, and Harfos means to have more of them on his books every year than any chandler on the quay.
+
+## Background
+
+**The vats.** Harfos was born to a chandler's family of the city and learned the trade at his father's dipping vats, tallow for the ships and wax for the few households that could pay for it.
+
+**The stewards.** When the shop came to him he took a sample crate of scented wax up the river himself and came back with three stewards' orders. He has sent a barge-load up every season since.
 
 ## Psyche
 
 ### Personality
 
-Focused on profit, sometimes at the expense of quality.
+Harfos is quick, ambitious and pleasant to deal with until the price is settled. He watches his costs closely and does not always watch his quality as closely as his costs.
 
 ### Motivation
 
-Harfos is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chandler work keep him vigilant and adaptable.
+He wants the largest chandlery on the Long Quay and a name the stewards of the capital ask for by itself.
 
 ### Strengths
 
-Business savvy, skilled at marketing his products.
+He has a sharp head for business, a good nose for scent and color, and a talent for selling a candle as something more than light.
+
+### Weaknesses
+
+He cuts his wax with tallow when wax is dear, undersells his neighbors to take their custom, and assumes everyone else does the same.
 
 ## Social
 
-Harfos is affiliated with the [Urban Craft Guild]{.name data-type="affiliation/guild"}.
-
-As a Vylarian chandler, Harfos occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Harfos's primary patrons are local nobles who purchase scented candles for their homes. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Competitors who resent his aggressive business tactics.
+The other chandlers of the quay, whose ships' accounts he has taken by underselling them, resent him, and say so at his guild's hall.
+
+### Others
+
+- **The stewards of the capital's great houses**, who buy his scented wax by the barge-load.
+- **The masters of the ships in the Sea Basin**, who buy their stores from him on account and settle when they come home.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keeps the feasts of the creative fire without office in the temple.
 
 ## Plot Hooks
 
-The Chandler's Dilemma
-: Harfos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
-
-Old Grudges
-: Competitors who resent his aggressive business tactics. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Harfos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Harfos depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Harfos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The free cargo.** The charter lets the capital's cargoes through the city free of its dues. Harfos has been sending his wax up the river marked as a steward's cargo, and a clerk of the [[affiliation-tevranaelissium|Tevran of Elissara]] has begun to count his crates.
+2. **The advocate's offer.** The advocate from [[place-mercavia|Delalara]] who is asking every guild for a copy of the city's charter has offered Harfos the candle contract of the [[affiliation-provincvld|Province of Salkalon]]'s offices if he brings the chandlers' copy to his rooms.
+3. **The smoking candles.** A steward of the capital has sent back a whole season's order, saying the candles smoked his master's ceiling black on a feast day. Harfos knows how much tallow was in them, and the steward wants a better answer than the truth.
+4. **The customs house.** His tallow comes in from over the sea and pays duty at the customs house the [[affiliation-byzarianlg|Bizarian League]]'s clerks keep at the river mouth. Their tariff has doubled since spring, and a League clerk suggests the rate could be lowered for a chandler who would tell him which ships carry what.

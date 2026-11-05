@@ -3,7 +3,8 @@ shortcode: hshdyqsdn
 name: {full: Hushaduya Kusaduni}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "An armorer of Pashinar's armorers' street whose fine daggers and throwing knives are made to be beautiful, and who wants the caravan guards who buy them to prove them useful."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,55 +392,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Hushaduya Kusaduni is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with soft cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a straight nose and wide lips. She has medium-toned skin with a bronzed complexion. Her black hair is braided and coiled at the nape.
+Hushaduya Kusaduni is a 32-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with soft cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a straight nose and wide lips. She has medium-toned skin with a sun-kissed complexion, freckled on the forearms by forge-sparks. Her black hair is braided and coiled at the nape, out of the fire's way, and an old scar crosses her left ankle above the shoe.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Hushaduya Kusaduni is a weaponcrafter and armorer.
+Hushaduya Kusaduni is an armorer of [[place-pashinar|Pashinar]], a freewoman on the register who keeps a forge in the armorers' street below the western gate, where the street sells to the caravan guards. The street makes what the road needs: mail mended overnight, swords ground, spearheads by the dozen. Hushaduya makes daggers and throwing knives, fine ones, with patterns worked into the steel and grips of wrapped and tooled leather, and they are made to be beautiful.
 
-Hushaduya is a talented weaponcrafter who grew up in a family of blacksmiths. She took a particular interest in making smaller, finer weapons such as daggers and throwing knives. She is known for her detailed work and the designs she works into her blades. Her weapons are beautiful, but some would-be customers see them as more decorative than useful, and she means to change that by proving them in combat.
+They are made to be used, too, and that is her trouble. The caravan guards who come down the street before a train goes over the pass want a blade that will not break, and they take one look at hers and call them ornaments. She sells to the factors' households on the slope, who buy them as gifts, and to the few guards who have tried one and come back for a second. She wants the rest of the guards to try them.
+
+## Background
+
+**The forge.** She grew up in a family of smiths and learned on their anvil, and from the first she wanted to make the small, fine pieces nobody else in the family had the patience for.
+
+**The street.** She took her own forge in the armorers' street when she was twenty, and has been arguing with its older smiths about what a knife is for ever since.
 
 ## Psyche
 
 ### Personality
 
-She struggles to sell her work as practical, and can be stubborn about her designs.
+Hushaduya is stubborn, exacting and proud of her work, and bad at selling it to anyone who does not already admire it.
 
 ### Motivation
 
-Hushaduya wants her blades proved in combat, so that no one again calls them ornaments.
+She wants her blades proved where the caravan trade can see it, so that nobody calls them ornaments again.
 
 ### Strengths
 
-She is skilled in detailed metalwork, inventive in her weapon designs, and resourceful.
+She is a fine smith and an inventive designer, and she is quieter on her feet and better at keeping out of sight than an armorer has any need to be.
+
+### Weaknesses
+
+She will not make a plain blade to pay the rent, and the rent is often late.
 
 ## Social
 
-Hushaduya belongs to the [City Artisans' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Hushaduya's patrons are the wealthy clients who appreciate her artistry, and a few adventurers seeking unusual weapons.
-
 ### Enemies
 
-Traditional blacksmiths see her work as too ornamental.
+The older smiths of the armorers' street, who say her blades shame the street and keep her off its stalls on the mornings a caravan leaves.
+
+### Others
+
+- **The factors' households of the slope**, who buy her knives as gifts.
+- **[[being-gnrbbd|Genira Bibudi]]**, the fighter of the caravanserai yards, whom the caravan men watch and whose hands Hushaduya would like to see her knives in.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Pashinar, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through her state's councilors.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keeps the feasts of the forge-fire without office in the temple.
 
 ## Plot Hooks
 
-The Weaponcrafter (Armorer)'s Dilemma
-: A wealthy client wants a blade from Hushaduya made for show alone, and taking the commission would concede what she has spent years denying.
-
-Old Grudges
-: A traditional blacksmith who calls Hushaduya's work ornament has brought a complaint against her to the City Artisans' Guild.
-
-Echoes of the Past
-: A dagger from Hushaduya's first years at the forge is found in a dead man, and its design names its maker.
-
-Shifting Winds
-: Political change in Taruzel threatens the wealthy clients Hushaduya's trade depends on, and she can adapt, resist, or leave.
-
-The Opportunity
-: An adventurer offers to carry one of Hushaduya's blades into a fight the whole city will hear of, on the condition that she comes to see it used.
+1. **The proving.** Hushaduya offers a pair of her throwing knives to Genira Bibudi if she will fight with them in the caravanserai yards before the guards who call them ornaments. Genira has not said yes.
+2. **The knife from the pass.** A caravan guard comes down from the new toll-gate on the road to [[place-besikar2|Besikar]] with a knife he took off one of the men who keep it. It is one of Hushaduya's, and she remembers who she sold it to.
+3. **The gifts.** A factor of the [[affiliation-balinuni|Balinuni]] orders a dozen presentation daggers from her, to be given to the caravan masters who move their trade to [[place-qudumel2|Kudumel]]. The fee would pay her rent for two years.
+4. **The stalls.** The smiths of the street have asked the [[affiliation-gldbrdpshnr|Guild Board]] to forbid ornamented blades on its stalls on caravan mornings, as a matter of the town's good name.

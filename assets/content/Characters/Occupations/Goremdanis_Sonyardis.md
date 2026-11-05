@@ -3,7 +3,8 @@ shortcode: grmdnshnyrds
 name: {full: Goremdanis Sonyardis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A lyre player of Korvenara who plays the garrison inns, the pay-day market and the farm country's feasts, and dreams of the court in the capital."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {rank: 4}, lusinia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.38
@@ -393,55 +394,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Goremdanis Sonyardis is a 35-year-old man who stands 6'1" tall and is of moderate build. He has a long face with defined cheekbones, a broad forehead, and a strong jaw that leads to a firm chin. His almond-shaped dark brown eyes sit beneath arched brows and give him a measured gaze. He has a hawkish nose and curved lips. He has medium-toned skin with a sun-tanned complexion. His dark brown hair is kept practical and short.
+Goremdanis Sonyardis is a 34-year-old man who stands 6'1" tall and is of moderate build. He has a long face with defined cheekbones, a broad forehead, and a strong jaw that leads to a firm chin. His almond-shaped dark brown eyes sit beneath arched brows and give him a measured gaze. He has a hawkish nose and curved lips. He has medium-toned skin with a sun-tanned complexion. His dark brown hair is kept practical and short, and he carries his lyre in an oiled leather case on his back.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Goremdanis Sonyardis is a musician who plays the lyre.
+Goremdanis Sonyardis is a lyre player who lives in [[place-corvinus|Korvenara]], the garrison town of [[place-alyssa|Alessa]], and plays wherever he is welcome along the roads of the farm country around it. In the town he plays in the inns along the street from the camp's south gate, which keep the garrison's hours, and on the legion's pay day, the busiest market day in the town's month, he plays in the market for whatever is thrown.
 
-Goremdanis was raised in a small village where music was a large part of life. He learned to play the lyre from his father and now travels from town to town, playing wherever he is welcome. His songs are often drawn from nature, and he is known for the vivid pictures his music calls up. Though he plays mostly for rural audiences, he dreams of becoming a court musician.
+His songs are drawn from the country, its fields, rivers and weather, and they are known for the pictures they call up. The farm folk love them and the soldiers ask for them, and he plays the legion's road-songs for the recruits who walk in each spring to take the oath, because they ask for those more.
+
+## Background
+
+**The village.** Goremdanis was raised in a farming village of the Alessan country, where his father played the lyre at every feast and taught him to play before he could work in the fields.
+
+**The road.** He came to Korvenara because the garrison's pay day draws money and people from a day's ride around, and he has stayed because it keeps him fed.
 
 ## Psyche
 
 ### Personality
 
-He lacks the polish courts expect of a performer, and struggles with town life.
+Goremdanis is gentle, dreamy and patient, at ease in a farm kitchen and stiff in a fine house.
 
 ### Motivation
 
-Goremdanis wants a place as a court musician, and the polish to hold it once he has it.
+He wants a place as a court musician in [[place-orzara|Orzara]], and the polish to hold it once he has it.
 
 ### Strengths
 
-He is skilled in lyric and composition, and at ease with rural audiences.
+He is a skilled player and a gifted maker of songs, and he can hold a rural crowd for an evening.
+
+### Weaknesses
+
+He lacks the polish that a court expects of a performer, he knows nobody of standing, and he mistakes a compliment for a promise.
 
 ## Social
 
-Goremdanis belongs to the [Minstrels' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Goremdanis's patrons are the village elders and travelers who enjoy his playing.
-
 ### Enemies
 
-None, though some court musicians see him as a rustic.
+He has none. The town's innkeepers like him and the farm folk feed him.
+
+### Others
+
+- **The innkeepers of the south gate street**, who give him a supper and a corner for an evening's playing.
+- **The farm folk of the Korvenara country**, who send for him to play at weddings and harvests.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-lusinia|Faith of Lusinia]]**: one of the lay faithful, the Devran, who keeps the World-Weaver's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Musician (Lyre)'s Dilemma
-: A court sends for Goremdanis at last, on the condition that he leave his village songs behind and play what the court prefers.
-
-Old Grudges
-: A court musician who calls Goremdanis a rustic has seen to it that his name is struck from a lord's entertainments.
-
-Echoes of the Past
-: A song Goremdanis learned from his father is sung back to him in a town far from the village, with words he never taught anyone.
-
-Shifting Winds
-: Political change in Vylaria closes the courts Goremdanis hoped to play in, and he can adapt, resist, or leave.
-
-The Opportunity
-: A traveler who heard Goremdanis play offers to bring him before a lord's court, and does not say what he wants for the introduction.
+1. **The officer from the capital.** An officer is coming from Orzara to inspect the legion. Goremdanis means to play for him and be heard in the capital, and the Vallar would like the officer kept at an inn on the road for three days.
+2. **The last night.** A widow's son of fifteen has come to Korvenara to take the oath, and has spent his last free evening asking Goremdanis for the [[lore-goldbandsng|Song of the Gold Band]]. The widow is on the road behind him.
+3. **The feud song.** Two veterans who claim the same plot along the road each want a song made of his claim, to be sung on pay day.
+4. **The patron.** A traveler of good dress who heard him on pay day has offered him a place in a house of the capital. The traveler has given no house's name, and wants Goremdanis to leave tonight.

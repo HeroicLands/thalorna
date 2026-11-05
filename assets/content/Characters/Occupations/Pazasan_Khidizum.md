@@ -11,7 +11,7 @@ data:
   occupation: Town Guard
   lore: []
   culture: taruzelianclt
-  homes: [taruzelrgn]
+  homes: [sazumun2]
   affiliations: {cnfdrtntrzlnstts: {rank: 3}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
@@ -369,15 +369,17 @@ sohl:
 
 # Appearance {#appearance}
 
-Pazasan stands 5'11" with a medium build—rangy and loose-limbed, with the easy posture of a man comfortable in his own skin. His dark brown hair is thick and slightly curling, worn to his ears in the [[lore-taruzelianclt|Taruzelian]] style, and his dark amber eyes are sharp and calculating beneath a left eyebrow bisected by a thin white scar—the only visible evidence of a dockside altercation three years past. His medium-toned skin is clear and unblemished, and his face is long and narrow, with a straight nose and a neatly trimmed beard that follows his jawline. He wears the warehouse district guard uniform: a light padded tunic, leather bracers, and soft-soled boots designed for quiet movement on wooden dock planking. He carries a short sword, but his hands—long-fingered and precise—seem better suited to counting coins than drawing steel.
+Pazasan stands 5'11" with a medium build—rangy and loose-limbed, with the easy posture of a man comfortable in his own skin. His dark brown hair is thick and slightly curling, worn to his ears in the [[lore-taruzelianclt|Taruzelian]] style, and his dark amber eyes are sharp and calculating beneath a left eyebrow bisected by a thin white scar—the only visible evidence of a fight with smugglers on the quays five years past. His medium-toned skin is clear and unblemished, and his face is long and narrow, with a straight nose and a neatly trimmed beard that follows his jawline. He wears the coat of his guild's watch: a light padded tunic, leather bracers, and soft-soled boots designed for quiet movement on wooden dock planking. He carries a short sword, but his hands—long-fingered and precise—seem better suited to counting coins than drawing steel.
 
 # Dossier {#dossier}
 
-Pazasan was born into a Taruzelian merchant family but chose military service over commercial life. At seventeen, he joined the port warehouse district guard, a position that monitors cargo movement, prevents theft, and enforces commercial regulations. The work had less prestige than he might have hoped, but it proved more interesting than his family's expectations. He discovered a talent for understanding how wealth actually moves through the city—not the official channels that appear on manifests but the real, complex networks that merchants use to avoid taxes, hide profits, and facilitate trade that exists outside the law.
+Pazasan was born into a Taruzelian merchant family but chose a watchman's coat over commercial life. At seventeen he joined the watch of the guild that keeps the warehouse quays of [[place-sazumun2|Sazumun]], where every quay and warehouse belongs to a guild and the guild's own watchmen keep it. The watch guards the bonded warehouses, three and four floors high behind the quays, checks their seals against the tally-men's counts, and stops theft. Most of the warehouses on his stretch of the quay belong to the [[affiliation-hitusuni|Hitusuni]], the great house of the city. The work had less prestige than he might have hoped, but it proved more interesting than his family's expectations. He discovered a talent for understanding how wealth actually moves through the city—not the official channels that appear on manifests but the real, complex networks that merchants use to avoid taxes, hide profits, and facilitate trade that exists outside the law.
 
-At thirty-two, he has spent fifteen years in warehouse district work and has become expert at detecting deception in shipping documentation. Most guards look at cargo manifests and verify quantities; Pazasan reads documentation and understands the gaps where illegal goods are hidden, where profits are being siphoned, where merchants are deceiving both the city and each other. His colleagues consider him overly focused on paperwork, but Pazasan understands that actual crimes are often ledger crimes—visible in numbers and documentation rather than in physical evidence.
+At thirty-one, he has spent fourteen years on the warehouse quays and has become expert at detecting deception in shipping documentation. Most guards look at cargo manifests and verify quantities; Pazasan reads documentation and understands the gaps where illegal goods are hidden, where profits are being siphoned, where merchants are deceiving both the city and each other. His colleagues consider him overly focused on paperwork, but Pazasan understands that actual crimes are often ledger crimes—visible in numbers and documentation rather than in physical evidence.
 
-The scar through his left eyebrow was earned during a confrontation with smugglers five years ago. He was investigating inconsistencies in a merchant's shipment documentation and encountered resistance that turned physical. He survived and pressed charges. The smugglers were prosecuted. The incident reinforced his understanding that the most dangerous criminals are the ones intelligent enough to hide their crimes in paperwork.
+The scar through his left eyebrow was earned in a fight with smugglers on the quays five years ago. He was investigating inconsistencies in a merchant's shipment documentation and encountered resistance that turned physical. He survived and pressed charges. The smugglers were prosecuted. The incident reinforced his understanding that the most dangerous criminals are the ones intelligent enough to hide their crimes in paperwork.
+
+For years he has kept a record of the cargoes that leave the Hitusuni warehouses at night with their seals unbroken and their tariffs unpaid: dates, stores, bale-counts and the boats that took them, which fly no house's mark. This spring the record went missing from his lodgings. He does not know who took it, and the house's head, [[being-ashurazhitus|Ashuraz Hitusuni]], has begun saying at good dinners that Pazasan is corrupt.
 
 ## Psyche
 
@@ -395,13 +397,13 @@ His understanding of commercial documentation and accounts is thorough. He can r
 
 ## Social
 
-Pazasan occupies an unusual role within the port warehouse district—respected by merchants who value his honesty and feared by merchants engaged in fraud. He is barely noticed by the broader city, content with his relative invisibility.
+Pazasan holds an unusual place on the warehouse quays: respected by the merchants who value his honesty and feared by those engaged in fraud. Beyond the quays he is little known, and he prefers it.
 
 ## Companions
 
 ### Patrons
 
-**Warehouse Master [Zazurush Bunituni]{.name data-type="being/npc"}**—The administrator of the port warehouse district. Zazurush has come to rely on Pazasan absolutely for maintaining order and preventing theft. He pays Pazasan substantially above standard guard wages and has made his position secure and protected from reassignment.
+**Warehouse Master [Zazurush Bunituni]{.name data-type="being/npc"}**—The master of the guild watch on the warehouse quays. Zazurush has come to rely on Pazasan absolutely for maintaining order and preventing theft. He pays Pazasan substantially above standard guard wages and has made his position secure and protected from reassignment.
 
 ### Enemies
 
@@ -410,7 +412,7 @@ Pazasan occupies an unusual role within the port warehouse district—respected 
 ## Plot Hooks
 
 The Documentation Trap
-: Pazasan discovers evidence in shipping manifests that suggests a major merchant operation is engaged in the trade in people—moving them through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Pazasan assembles the evidence carefully. But when he reports it to Warehouse Master Zazurush, he learns that the operation is being protected by senior government officials. Zazurush warns him that pursuing the investigation will cost him his position and possibly his life. Pazasan can keep his post and his safety, or expose a serious crime.
+: Pazasan discovers evidence in shipping manifests that suggests a major merchant operation is engaged in the trade in people—moving them through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Pazasan assembles the evidence carefully. But when he reports it to Warehouse Master Zazurush, he learns that the operation is protected by men who sit in the [[place-houseoffactors|House of Factors]]. Zazurush warns him that pursuing the investigation will cost him his position and possibly his life. Pazasan can keep his post and his safety, or expose a serious crime.
 
 The Corrupted Guard
 : Pazasan discovers that a younger warehouse guard has been accepting payments from Merchant Prince Ashuraz in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Pazasan faces a choice: arrest the guard, ending his service, or give him a chance to resign, which allows Ashuraz to continue fraud while preserving the guard's future.
@@ -418,8 +420,8 @@ The Corrupted Guard
 The Warehouse Master's Deception
 : Pazasan discovers that Warehouse Master Zazurush has been engaged in systematic fraud—falsifying inspection records to allow contraband through the warehouse in exchange for bribes. Zazurush has been Pazasan's patron and supporter. The discovery is devastating to him. He can report his patron or become complicit in corruption.
 
-The Ledger Conspiracy
-: Pazasan discovers a pattern across multiple merchants that suggests they are working together to manipulate prices and monopolize certain goods. The conspiracy is probably illegal but is technically complex, and the merchants involved have political protection. Pazasan is being pressured by his superiors to either stop investigating (because it involves politically protected people) or to rapidly close the case with insufficient evidence.
+The Guard's Record
+: Pazasan's record of the cargoes that left the Hitusuni warehouses untaxed has gone from his lodgings, and Ashuraz did not take it. Pazasan wants a party to find it before whoever has it decides what to do with it, and before Ashuraz's talk of corruption reaches his guild.
 
 The Whistleblower's Risk
 : A merchant's employee approaches Pazasan privately with documentation proving that the employee's employer (a major merchant) is engaged in systematic crime: smuggling, fraud, and likely involvement in the trade in people. The employee has stolen the documentation and is now in possession of evidence that proves the crime but is itself technically evidence obtained through theft. The employee is asking Pazasan to help her bring charges while protecting her identity. Accepting the evidence makes Pazasan complicit in the theft. Refusing means allowing serious crime to continue.

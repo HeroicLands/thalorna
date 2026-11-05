@@ -3,7 +3,8 @@ shortcode: imrkszrznds
 name: {full: Imarakis Zerazendis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A drummer of Belekos who keeps the beat for the great houses' games in the city's arena and plays their gatherings loud enough to be heard from the street."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {vylarinmpr: {rank: 4}, lusinia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, lusinia: {rank: 1}}
   gender: female
   species: humanflk
   born: 689.171
@@ -393,57 +394,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Imarakis Zerazendis is a 31-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with broad cheekbones, a lined forehead, and an angular jaw that leads to a square chin. Her piercing brown eyes sit beneath prominent brows, lending her a penetrating gaze. A hawkish nose and full lips complete her features. She has tanned skin with a ruddy complexion. Her black hair is adorned with simple pins.
+Imarakis Zerazendis is a 30-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with broad cheekbones, a lined forehead, and an angular jaw that leads to a square chin, with a pale scar along the jawline. Her piercing brown eyes sit beneath prominent brows, lending her a penetrating gaze. A hawkish nose and full lips complete her features. She has tanned skin with a ruddy complexion. Her black hair is adorned with simple pins, and the heels of her hands are hard as horn from the drum.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Imarakis Zerazendis came into the world of the musician (drums) through a combination of circumstance and aptitude.
+Imarakis Zerazendis is a drummer of [[place-belekos|Belekos]], the city of the merchant houses above the grain valleys of [[place-alyssa|Alessa]], who plays for whoever is paying: the games the great houses sponsor in the city's arena on the state's days, the dances in the lower town along the river, and, when a house wants its gathering heard from the street, the counting halls of the upper terraces.
 
-Imarakis grew up in a traveling performers' troupe, learning to play various percussion instruments. She specializes in rhythmic drumming that accompanies dances and storytelling performances. Imarakis’s energetic and spirited playing has made her popular at festivals, though some consider her style to be too wild for refined tastes.
+Her drumming is fast, loud and made for dancing, and the great houses hire her for exactly the noise that their own musicians are too refined to make. In the arena she keeps the beat under the bouts, and she can bring a crowd to its feet or hold it still with the same two sticks.
+
+## Background
+
+**The road.** Imarakis grew up in a troupe of traveling players and learned every drum the troupe carried before she could read.
+
+**The city.** When the troupe went on she stayed in Belekos, where the houses pay for spectacle and the arena plays more days in the year than any town on the road.
 
 ## Psyche
 
 ### Personality
 
-Unpolished, sometimes too loud for certain audiences, struggles with formal music.
+Imarakis is loud, warm and unpolished, quick to laugh and quick to quarrel, and bored by any music that sits still.
 
 ### Motivation
 
-Imarakis is driven by the desire to master her craft and secure a stable future. The uncertainties of life in musician (drums) work keep her vigilant and adaptable.
+She wants to play to a full arena and be paid like it, and she wants never to go back on the road.
 
 ### Strengths
 
-Skilled in various percussion techniques, energetic, captivating performer.
+She has mastered many drums and rhythms, she has stamina for a whole day of games, and she can read a crowd as well as a dancer.
+
+### Weaknesses
+
+She has no patience for formal music, says what she thinks to people who pay her, and spends her fee before she has it.
 
 ## Social
 
-Imarakis is affiliated with the [Minstrels' Guild]{.name data-type="affiliation/guild"}.
-
-As a Vylarian musician (drums), Imarakis occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Imarakis's primary patrons are traveling performers and festival organizers. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Some traditional musicians who dislike her unconventional style.
+The musicians whom the great houses keep for their dinners think her style too wild for refined tastes, and say so to the houses that hire her.
+
+### Others
+
+- **The stewards of the great houses**, who hire her for games and gatherings.
+- **The dancers and players of the lower town**, who are the friends she has.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-lusinia|Faith of Lusinia]]**: one of the lay faithful, the Devran, who keeps the World-Weaver's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Musician (Drums)'s Dilemma
-: Imarakis faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
-
-Old Grudges
-: Some traditional musicians who dislike her unconventional style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Imarakis's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Imarakis depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Imarakis the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The tired man.** The house sponsoring the next games has paid Imarakis to quicken the beat whenever its own gladiator begins to tire, so that the crowd will call for the bout to be ended in his favor.
+2. **The broken emblem.** The house that has commissioned a window of a rival house's broken emblem wants drums under it on the morning it is set, to bring the street out to see it.
+3. **The loud room.** A great house hires her for a gathering and asks her to play loud enough that the guests in the hall cannot hear what is said at the far table, where a factor of its house is sitting with a foreign agent.
+4. **The troupe.** Her old troupe has come back through Belekos short a drummer, and it is leaving Alessa for good.

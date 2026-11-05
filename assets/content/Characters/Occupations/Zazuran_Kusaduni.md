@@ -3,7 +3,8 @@ shortcode: zzrnqsdn
 name: {full: Zazuran Kusaduni}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A carter of Sharimun who drives the quarries' pale stone north along the coast road to the guild houses of Besikar, two days each way behind a team of oxen."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -395,57 +396,56 @@ sohl:
 
 # Appearance {#appearance}
 
-Zazuran Kusaduni is a 38-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His deep-set brown eyes sit beneath prominent brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has warm golden skin with a weathered complexion. His dark brown hair is cropped short.
+Zazuran Kusaduni is a 37-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His deep-set brown eyes sit beneath prominent brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has golden skin weathered by the road, and white stone dust in the creases of his hands. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Zazuran Kusaduni came into the world of the teamster through a combination of circumstance and aptitude.
+Zazuran Kusaduni is a carter of [[place-sharimun|Sharimun]] who drives cut stone from the quarries above the town north along the coast road to [[place-besikar2|Besikar]], where the guild houses build their fronts in the town's fine pale limestone. The road is two days for a loaded cart, through the farms of the north-western plain, and he comes back with grain, timber or nothing. He drives a pair of oxen he has raised himself, and he gets his load to Besikar on the day promised in any weather.
 
-Zazuran has spent his life transporting goods across the countryside, driving wagons filled with everything from grain to lumber. He knows the trade routes well and has a reputation for getting cargo to its destination on time, no matter the conditions. While reliable and hardworking, Zazuran is a bit rough around the edges and can be gruff with strangers.
+He is paid by the load by the quarry master whose terrace cuts it, and the masters dock him for every block that reaches Besikar chipped.
+
+## Background
+
+**The terraces.** Zazuran worked as a quarryman on the terraces as a youth, dragging blocks to the quay on sledges, and took to the carts as soon as he could buy a team.
+
+**The road.** He has driven the coast road for most of twenty years, and he knows every ford, every farm with water for oxen and every tavern on it.
 
 ## Psyche
 
 ### Personality
 
-Gruff and unpolished, struggles with social niceties.
+Zazuran is gruff, plain-spoken and impatient with strangers, and kinder to his oxen than to most people.
 
 ### Motivation
 
-Zazuran is driven by the desire to master his craft and secure a stable future. The uncertainties of life in teamster work keep him vigilant and adaptable.
+He wants to be paid what he is owed for every load, and to own a second cart before his back gives out.
 
 ### Strengths
 
-Skilled in handling draft animals, experienced in navigating rough terrain.
+He handles oxen well, judges a load and a road surely, and knows the coast road and its people as well as anyone alive.
+
+### Weaknesses
+
+He speaks his mind to quarry masters and magistrates alike, which is dangerous for a carter in Sharimun.
 
 ## Social
 
-Zazuran is affiliated with the [Teamsters' Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian teamster, Zazuran occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Zazuran's primary patrons are local merchants who trust him to transport their goods safely. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Bandits who view his well-loaded wagons as targets.
+The clerk of the terrace he hauls for, who docks him for chipped blocks he says were chipped on the quay.
+
+### Others
+
+- **The other carters of the coast road**, who drive in company with him when the weather is bad.
+- **The cook [[being-bssshtndn|Bissush Tanaduni]]**, at the tavern an hour short of the gate, where he eats on every journey out and every journey home.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-pozeras|Faith of Pozeras]]**: one of the lay faithful, the Devran, who keep the Wayfarer's feasts without office in the temple, and he says a word to him at every ford.
 
 ## Plot Hooks
 
-The Teamster's Dilemma
-: Zazuran faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: Bandits who view his well-loaded wagons as targets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Zazuran's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Zazuran depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Zazuran the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The back pay.** The carters have not been paid for three months of loads, and Zazuran means to ask the quarry master for it in front of the others. A quarryman tells him quietly what happens in Sharimun to a laborer who argues about his wage.
+2. **The passenger.** A man pays Zazuran well to carry him to Besikar lying flat between the blocks, the day before he is to swear on the porch of the [Khurutun]{.name data-type="place/site"}.
+3. **The block.** One block in a load for a guild house of Besikar is heavier than any block of its size should be, and the quarry master's clerk has told Zazuran to deliver it to a different door.

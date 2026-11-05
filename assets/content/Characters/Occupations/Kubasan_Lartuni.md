@@ -3,7 +3,8 @@ shortcode: qbsnlrtn
 name: {full: Kubasan Lartuni}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A scribe of Yamuzel's harbor streets who writes crews' articles, bills of lading, letters and the veterans' claims to their promised land, and writes too many of them for nothing."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,57 +393,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Kubasan Lartuni is a 30-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His bright brown eyes sit beneath straight brows, lending him a lively gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His brown hair is tied in a low tail.
+Kubasan Lartuni is a 29-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin, with a small white scar across it. His bright brown eyes sit beneath straight brows, lending him a lively gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His brown hair is tied in a low tail, and the first two fingers of his right hand are stained with ink to the second joint.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Kubasan Lartuni came into the world of the scribe through a combination of circumstance and aptitude.
+Kubasan Lartuni is a scribe of [[place-yamuzel2|Yamuzel]], a freeman on the city's register who keeps a writing table in the harbor streets, between the wall of the [Naval Yards]{.name data-type="place/site"} and the foot of the cliff. He writes what the waterfront cannot write for itself: the articles a crew signs at the [[affiliation-corsairleg|Corsair League]]'s hall at the head of the mole, bills of lading for the foreign masters waiting in the roads for a convoy, letters home for sailors waiting in the taverns for a ship, and the statements a robbed shopkeeper carries to the marine post at the head of his street. He writes the [[skill-merazanscrpt|Merazan script]] with every vowel pointed, as a bill should be, and he keeps a fair copy of everything he writes.
 
-Kubasan is a humble scribe who works in a small village, transcribing important documents and maintaining records for the local community. He is known for his friendly demeanor and willingness to help others, often offering his services to those who cannot afford them. Kubasan values the preservation of knowledge and is dedicated to ensuring that important information is recorded accurately for future generations.
+Much of his custom comes down from the [Veterans' Quarter]{.name data-type="place/site"} on the slope above, where the halls bring him the veterans' claims to the land, the guild places and the pensions they were promised after the war. He writes those for a copper, or for nothing, and the quarter knows it.
+
+## Background
+
+**The table.** Kubasan learned his letters and the merchants' reckoning at a writing table in the harbor streets, and took the table over when its old scribe's eyes failed.
+
+**The war.** He was a young man when the war of independence came to the narrows, and he spent the war writing muster rolls and ration tallies for the yards while the fleet was built. He has written for the men of the fleet ever since.
 
 ## Psyche
 
 ### Personality
 
-Can be too generous, struggles with asserting himself in business matters.
+Kubasan is friendly, open-handed and easy to talk to. He cannot name a fair price to a man who cannot pay it, and he lets a debtor talk him out of a debt.
 
 ### Motivation
 
-Kubasan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in scribe work keep him vigilant and adaptable.
+He wants things written down truly and kept: a promise made to a crew or a veteran is worth what its copy is worth, and he means every copy to be good.
 
 ### Strengths
 
-Friendly and approachable, skilled in transcription, community-oriented.
+He has a quick, clean hand, a head for figures and a good memory for faces. The hosts of the harbor taverns send their customers to him, and the halls of the quarter trust his copies.
+
+### Weaknesses
+
+He is poor, behind on the rent of his table, and too generous to mend it.
 
 ## Social
 
-Kubasan is affiliated with the local [Scribes' Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian scribe, Kubasan occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Kubasan's primary patrons are local villagers, farmers, and tradespeople seeking documentation. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Few; generally well-liked, though some may take advantage of his generosity.
+He has no enemy of his own. The clerks of the [[affiliation-tanaduni|Tanaduni]], whose house leases the southern terraces the veterans claim, know his hand from the veterans' claims and do not like to see it.
+
+### Others
+
+- **The halls of the Veterans' Quarter**, which bring him their claims and petitions and pay him in what they have.
+- **The tavern hosts of the harbor streets**, who send him sailors with letters to write and captains with articles to copy.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Yamuzel, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through his state's councilors.
+- **[[affiliation-marendas|Faith of Marendas]]**: one of the lay faithful, the Devran, who keeps the god of knowledge's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Scribe's Dilemma
-: Kubasan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: Few; generally well-liked, though some may take advantage of his generosity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kubasan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Kubasan depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kubasan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The terraces.** The veterans ploughing the marked plots on [[place-khamisar|Khamisar]]'s southern terraces ask Kubasan to put their claim to the land in proper form before the marines clear them for the [[lore-fleetreview|Fleet Review]]. A claim needs the promise it rests on, and nobody in the quarter has a copy of it.
+2. **The shipwright's letter.** The shipwright of the yards who did not come back through the gate after the evening bell had Kubasan write a letter for him the week before, to a man at an inn on the switchback road whose name he would not give. Kubasan has the fair copy.
+3. **The unread clause.** A captain of the League brings him a crew's articles to copy fair, and one clause in them gives the owners the crew's share of any prize taken in the narrows. Kubasan wants it read aloud before the crew signs, and the captain does not.
+4. **The rent.** A clerk of the Tanaduni offers to pay a year of the rent on Kubasan's table in return for a fair copy of every claim the quarter brings him before it goes up to the height.

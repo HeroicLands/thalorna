@@ -3,7 +3,8 @@ shortcode: grlndrskrzns
 name: {full: Garlindris Korazenis}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "The herald of Tirellan, of a minor noble house of Moktur, who cries the province's proclamations from the forum steps and calls the border lords to their places at the state's offerings."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -396,57 +397,58 @@ sohl:
 
 # Appearance {#appearance}
 
-Garlindris Korazenis is a 45-year-old man who stands 5'9" tall and is of moderate build. He has a square face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath heavy brows, lending him an expressive gaze. A hawkish nose and thin lips complete his features. He has fair skin with a weathered complexion. His black hair is receding at the temples.
+Garlindris Korazenis is a 44-year-old man who stands 5'9" tall and is of moderate build. He has a square face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath heavy brows, lending him an expressive gaze. A hawkish nose and thin lips complete his features. He has fair skin with a weathered complexion. His black hair is receding at the temples. On formal days he wears a herald's tabard in the grey and black of the _therkos_, and his voice carries the length of the forum without being raised.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a minor noble family of [[lore-vylarianclt|Vylarian]] heritage, Garlindris Korazenis came into the world of the herald through a combination of circumstance and aptitude.
+Garlindris Korazenis is the herald of [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]], a man of a minor noble house of the province who cries the _therkos_'s proclamations in the forum and calls the order of precedence on the state's days. When the _therkos_ makes the offering before the Orzas's image in the provincial temple of the [[affiliation-imperialcult|Imperial Cult]], it is Garlindris who calls each border lord to his place behind him, and the city watches to see which lords answer.
 
-Garlindris comes from a long line of minor nobility who have been heralds for generations. Trained from a young age in the intricacies of heraldry, he is known for his commanding voice and attention to the details of ceremony. He takes great pride in upholding the dignity of his family’s legacy and is often tasked with announcing important decrees and leading ceremonial events for the city’s nobility. His adherence to tradition sometimes makes him appear rigid, but his dedication to his craft is unquestionable.
+The post is older than his family's hold on it. Every proclamation of the province, every new levy of the _pozerus_, every outlawing and every reward, is read aloud from the steps of the council hall by his voice, and a proclamation he has not cried has not, in Tirellan's eyes, been made. He keeps a book of the arms and colors of every border house, every lord's tower and every company of the auxiliaries, and he drew most of it himself.
+
+## Background
+
+**The house.** The Korazenis are a small noble family of Moktur that has given the province its heralds for four generations. Garlindris learned the precedence of the border houses from his father at the foot of the forum steps and cried his first proclamation at seventeen.
+
+**The audience.** He has served three _therkoi_. He stands at the door of the hall of the [Keep]{.name data-type="place/structure"} at first light when the _therkos_ hears petitions, and calls the petitioners in.
 
 ## Psyche
 
 ### Personality
 
-Inflexible, struggles to adapt to informal or modern events.
+Garlindris is correct, rigid and proud of it. He believes that the forms hold the province together, and he is uncomfortable anywhere the forms do not reach.
 
 ### Motivation
 
-Garlindris is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herald work keep him vigilant and adaptable.
+He wants every lord in his right place and every word of the province said properly in public. A thing cried by the herald is a thing done, and he means his cries to be true.
 
 ### Strengths
 
-Strong, clear voice, knowledgeable in heraldry, experienced in formal ceremonies.
+His voice, his memory for arms and precedence, and a good hand at drawing. He knows the standing of every house in Moktur and how it has changed.
+
+### Weaknesses
+
+He has no talent for the informal. A quarrel that the forms do not settle leaves him at a loss, and he has been slow to see that the province is ruled by more than its ceremonies.
 
 ## Social
 
-Garlindris is affiliated with the [City Heralds' Guild]{.name data-type="affiliation/guild"}.
-
-As a Vylarian herald, Garlindris occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Garlindris's primary patrons are high-ranking nobles who value his skill and adherence to tradition. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Younger, more modern heralds who see him as outdated.
+A border lord whose place at the state's offerings Garlindris lowered by one step, on the precedence book, after the lord missed two offerings running.
+
+### Others
+
+- **The _therkos_'s household**, whose steward gives him the proclamations to cry and tells him which to cry first.
+- **The border lords of the towers**, who court him before every state's day.
+- **The clerks of the provincial offices round the forum**, who hand him the levies and outlawings.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Citizen, holding the citizenship by his house's station, with its appeal at law and its taxes.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: one of the lay faithful, the Devran, who keeps the feasts of the Keeper of the Gates without office in the temple.
 
 ## Plot Hooks
 
-The Herald's Dilemma
-: Garlindris faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
-
-Old Grudges
-: Younger, more modern heralds who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Garlindris's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Garlindris depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Garlindris the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The proclamation.** A rider in the colors of the legion at [[place-dolvar|Dolvar]] has left a sealed letter with Garlindris, a copy of a letter under the old Orzas's seal, and asked him to cry it from the forum steps at the next state's day. He has not opened it. A letter from the chancery comes to him through the _therkos_'s steward, and this one has not.
+2. **The empty places.** Three border lords did not answer when he called them to their places at the last offering, and the _therkos_ has asked him for their names in writing. Garlindris wants to know why they stayed away before he writes anything.
+3. **The surveyor's book.** The clerk of the [[affiliation-imperialoffices|Imperial Offices]] measuring the road has asked to copy Garlindris's book of arms, so that the capital knows which houses of Moktur keep riders. The _pozerus_ has asked him to refuse.
+4. **The offerings at the shrine.** The families of the Fourth's cashiered officers have asked him to cry their names at the [Eagle Shrine]{.name data-type="place/structure"}, once, on the anniversary of the Black Marsh. Their names are off the roll, and a herald may cry only what is on it.

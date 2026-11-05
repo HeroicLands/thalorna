@@ -3,7 +3,8 @@ shortcode: mthrksgrznds
 name: {full: Mitharakis Gerazendis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A jester of Tirellan who has kept the halls of Moktur's therkoi and border lords laughing for thirty years, and has kept his head by knowing how far a fool may go."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 4}, lusinia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
   born: 670.292
@@ -394,13 +395,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Mitharakis Gerazendis is a 50-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows and give him a measured gaze. He has a prominent nose and narrow lips. He has light skin with a weathered complexion. His gray hair is short and swept back.
+Mitharakis Gerazendis is a 49-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows and give him a measured gaze. He has a prominent nose and narrow lips. He has light skin with a weathered complexion. His grey hair is short and swept back. Out of motley he dresses like a prosperous clerk, and nobody who passes him in the street takes him for a fool.
 
 # Dossier {#dossier}
 
-Mitharakis Gerazendis is a jester of [[place-tyrellan|Tirellan]], the provincial city of [[place-moktur|Moktur]] on the northern frontier of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freeman who has made the halls of the frontier's _therkoi_ (governors) and border-lords laugh for thirty years.
+Mitharakis Gerazendis is a jester of [[place-tyrellan|Tirellan]], the walled capital of [[place-moktur|Moktur]] on the northern frontier of the [[affiliation-vylarinmpr|Vylarian Empire]], who has made the halls of the province's military _therkoi_ (governors) and its border lords laugh for thirty years.
 
-Mitharakis came up from the taverns of Tirellan as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three military _therkoi_, a dozen border-lords, and [[lore-varokhiclt|Varokh]] chiefs across the line who did not understand a word and laughed anyway. His humor is story and satire, the _therkos_'s temper, the [[affiliation-seldan|Seldan]]'s letters, the legion's pay, the winter, and he has learned how far a frontier lord will let a fool go and how far past it a fool can go if the hall is laughing. He has kept his head when men who spoke plainly lost theirs. He holds that a hall that can laugh at its lord will follow him, and one that cannot will not.
+He came up from the inns of the North Gate as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three _therkoi_, a dozen border lords in their towers, and [[lore-varokhiclt|Varokh]] chiefs across the line who did not understand a word and laughed anyway. His humor is story and satire: the _therkos_'s temper, the [[affiliation-seldan|Seldan]]'s letters, the legion's late pay, the slowness of the road and the winter. He has learned how far a frontier lord will let a fool go, and how far past it a fool can go if the hall is laughing, and he has kept his head where men who spoke plainly lost their posts.
+
+## Background
+
+**The inns.** He was a carter's son of the North Gate, and he learned his trade doing the voices of officers in the inn yards for the soldiers going up to the frontier.
+
+**The hall.** A _therkos_ heard him in an inn yard thirty years ago and took him up to the hall of the [Keep]{.name data-type="place/structure"} for a feast. He has played the Keep's feasts by custom ever since, under every _therkos_ since.
 
 ## Psyche
 
@@ -410,36 +417,37 @@ Mitharakis is warm in performance and dry out of it, cynical about lords and aud
 
 ### Motivation
 
-Mitharakis wants the hall laughing when the winter is hard and the news is bad, because he has seen a frontier hall when nobody does. He wants to matter to it still, and the _therkos_ has a new favorite who is twenty-four.
+He wants the hall laughing when the winter is hard and the news is bad, because he has seen a frontier hall when nobody laughs. He holds that a hall that can laugh at its lord will follow him, and he wants still to matter to the hall.
 
 ### Strengths
 
-An experienced performer, a fine storyteller, knows the politics of every hall in the province.
+He is an experienced performer and a fine storyteller, quick and nimble, and he knows the politics of every hall and tower in the province.
+
+### Weaknesses
+
+He is nearly fifty, the _therkos_ has a new favorite who is twenty-four, and his best stories are about men who are still alive.
 
 ## Social
 
-Mitharakis holds no post; he performs at the _therkos_'s hall by long custom and elsewhere by invitation, and is paid by all of them and kept by none.
-
-## Companions
-
-### Patrons
-
-Mitharakis's patrons are the military _therkos_ of Moktur, whose hall he has kept through three _therkoi_' tenures, and the border-lords who ask for him.
-
 ### Enemies
 
-The _therkos_'s new favorite, a young singer from the capital who has told the _therkos_'s steward that the old man's satire is dangerous; and a border-lord who was the subject of it.
+- The _therkos_'s new favorite, a young singer from the capital, who has told the _therkos_'s steward that the old man's satire is dangerous.
+- A border lord who was the subject of one of his stories, and has not forgiven it.
+
+### Others
+
+- **The _therkos_ and his household**, who keep him by long custom and pay him by the feast.
+- **The border lords**, who ask for him in their towers in the winter.
+- **The inn yards of the North Gate**, where he still plays in summer for the soldiers.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-lusinia|Faith of Lusinia]]**: one of the lay faithful, the Devran, who keeps the feasts of the World-Weaver without office in the temple.
 
 ## Plot Hooks
 
-The Satire
-: Mitharakis told a story at the _therkos_'s table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the _therkos_ has asked to see the fool.
-
-The Message
-: A border-lord has asked Mitharakis, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
-
-The Favorite
-: The young singer has been given the _therkos_'s midwinter feast, and Mitharakis the servants' hall, which has asked him for the story about the singer.
-
-The Therkos's Temper
-: The _therkos_ has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharakis to say to him what they cannot.
+1. **The satire.** Mitharakis told a story at the _therkos_'s table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border lord who had been at the table did not, and the _therkos_ has asked to see the fool.
+2. **The message.** A border lord has asked Mitharakis, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
+3. **The unopened letter.** Mitharakis has a story about a _therkos_ who will not open a letter, and the household laughs at it. The _therkos_ has not laughed, and the steward has asked Mitharakis where he heard it.
+4. **The favorite.** The young singer has been given the midwinter feast in the hall of the Keep, and Mitharakis the servants' hall, which has asked him for the story about the singer.

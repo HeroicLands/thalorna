@@ -3,7 +3,8 @@ shortcode: bbdnblgnm
 name: {full: Bibudan Belginum}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A sapper in the pay of a guild watch on Sazumun's quays, who knows how the bonded warehouses are built and so how they are broken into."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -396,57 +397,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Bibudan Belginum is a 26-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His large brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has warm-toned skin with a dusky complexion. His graying black hair is combed neatly to one side.
+Bibudan Belginum is a 25-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His large brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has tawny skin, and his black hair, already graying, is combed neatly to one side. A fish is tattooed on the small of his back. He goes about the quays in a padded coat with a mason's rule and a sounding-rod slung beside his sword.
 
 # Dossier {#dossier}
 
-Born in the [[place-taruzelrgn|Taruzel region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Bibudan Belginum came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Bibudan Belginum is a man-at-arms of [[place-sazumun2|Sazumun]], a freeman on the city's register who serves in the watch of the guild that keeps his stretch of the quays. Every quay and warehouse in Sazumun belongs to a guild, and the guild's own watchmen keep it. Bibudan is the one man of his watch who is a sapper: he knows how a wall is laid, how a floor carries its load and how a lock is let into stone, and so he knows how each of them is broken.
 
-Bibudan has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Bibudan is known for his planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
+His work is the bonded warehouses, three and four floors high behind the quays, with iron-barred doors and a seal on every lock. He walks their walls at low water, sounds their floors, checks the barred doors against the warehouse clerks' ledgers, and is sent for when a bale goes missing from a store whose seals are whole. Thieves in Sazumun do not break seals, because a broken seal is noticed at once. They come through a wall or under a floor, and Bibudan is the man who finds the hole.
+
+## Background
+
+**The south bank.** Bibudan learned masonry and the reckoning of loads on the south bank of the river mouth, carrying stone for the slipways and the walls of the timber basin, and taught himself the figures from the masons' books.
+
+**The watch.** He took the guild's pay as a man-at-arms when a warehouse wall on its quay was undermined from the lane behind and the watch could not say how. He found the tunnel in a morning, and the guild has kept him since.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, struggles with physical strength compared to others.
+Bibudan is careful, patient and slow to commit to anything he has not measured twice. He is calm in a collapsing cellar and uneasy at a guild dinner.
 
 ### Motivation
 
-Bibudan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in man-at-arms (sapper) work keep him vigilant and adaptable.
+He wants every wall on his quay sound and every theft through one found. He also wants to be paid as a sapper and not as a watchman, which the guild has not yet agreed to.
 
 ### Strengths
 
-Skilled in engineering, good at problem-solving, calm under pressure.
+He is a fine mason and a better reckoner, calm under pressure, and good with a sword in a confined space.
+
+### Weaknesses
+
+He is not as strong as the porters and watchmen he works beside, and his caution makes him late to every decision that has to be made in the moment.
 
 ## Social
 
-Bibudan is affiliated with the local [Engineers' Guild]{.name data-type="affiliation/guild"}.
-
-As a Taruzelian man-at-arms (sapper), Bibudan occupies a recognized social niche within Taruzel society.
-
-## Companions
-
-### Patrons
-
-Bibudan's primary patrons are military leaders who require his expertise. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Few; respected for his skills.
+Two men of the lane behind the warehouses lost their places when he found the tunnel they had cut under a warehouse floor. They have not left Sazumun.
+
+### Others
+
+- **The sergeant of his watch**, who values him and cannot get the guild to pay him more.
+- **The masons of the south bank**, who still lend him their tools and their opinions.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of Sazumun, entitled to petition the [[affiliation-grandcouncil|Grand Council]] through his state's councilors.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: one of the lay faithful, the Devran, who keeps the storm god's feasts and waits for the first strike of the [[lore-thunderheadvigil|Thunderhead Vigil]] with the rest of the quays.
 
 ## Plot Hooks
 
-The Man-at-Arms (Sapper)'s Dilemma
-: Bibudan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
-
-Old Grudges
-: Few; respected for his skills. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Bibudan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Taruzel threaten to upend the social order that Bibudan depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Bibudan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+1. **The river door.** Walking a warehouse of the [[affiliation-hitusuni|Hitusuni]] at low water, Bibudan finds the hinges of its river door bright with fresh grease. The warehouse ledger says the door has not been opened in years. He has told nobody yet, and he wants a witness before he does.
+2. **The channel.** A harbor pilot fined for one of the three foreign merchantmen stuck on the bar since spring asks Bibudan to survey the marked channel with him at low water, because the pilot swears he steered by the marks and the marks were wrong.
+3. **The strongroom.** A factor of the slope offers Bibudan a year's pay, in advance, to build a strongroom under his house that no tally-man knows of and no warehouse ledger records.
+4. **The second tunnel.** A store on his quay has lost three bales of silk with its seals whole, and Bibudan can find no hole. The only way in that he has not sounded is through the next warehouse, which belongs to another guild.

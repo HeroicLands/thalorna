@@ -3,7 +3,8 @@ shortcode: klndrskrklns
 name: {full: Kalendris Korkalenis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A clothier of Velisara's forum who turns, mends and refits the old families' patrician robes so that their council still looks as it did when the city could afford it."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [velysara]
-  affiliations: {vylarinmpr: {rank: 4}, olvenia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 690.83
@@ -394,57 +395,58 @@ sohl:
 
 # Appearance {#appearance}
 
-Kalendris Korkalenis is a 30-year-old woman who stands 5'6" tall and is slender. She has an angular face with broad cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. Her sharp green eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and curved lips complete her features. She has medium-toned skin with a bronzed complexion. Her auburn hair is gathered in a practical bun.
+Kalendris Korkalenis is a 29-year-old woman who stands 5'6" tall and is slender. She has an angular face with broad cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. Her sharp green eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and curved lips complete her features. She has medium-toned skin with a sun-kissed complexion. Her auburn hair is gathered in a practical bun stuck with pins, and a knotted measuring cord usually hangs round her neck.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Kalendris Korkalenis came into the world of the clothier through a combination of circumstance and aptitude.
+Kalendris Korkalenis is a clothier of [[place-velysara|Velisara]], a secondary city of the [[affiliation-provinclys|Province of Alessa]], who keeps a shop of cloth and tailoring on the south side of the forum. She sells cloth by the ell, makes clothes to order, and does a trade the city needs more than either: she turns, mends and refits the formal dress of the old families.
 
-Kalendris learned the craft of sewing from her grandmother, who was the village seamstress. When her grandmother passed away, she took over the role and now provides clothing repair and custom garments for the villagers. Kalendris has a natural eye for design and has started experimenting with incorporating local dyes into her fabrics.
+Velisara keeps the old patrician forms at every meeting of its council and every state ceremony, and the forms are worn as much as performed. The old families cannot buy new robes as their grandfathers did, and the robes they have are their grandfathers'. Kalendris takes them in, lets them out, replaces the borders, dyes the faded panels to match, and puts new leather into old belts and shoes, so that a council meeting looks as it did when the city could afford it.
+
+## Background
+
+**The trade.** Kalendris learned tailoring from her grandmother, a seamstress of the lanes behind the chapterhouse, and inherited her customers along with her needles.
+
+**The shop.** She took the shop on the forum with the savings of her years at the needle. She does the old families' work at the back of it, out of sight of the street, because the families do not like to be seen bringing it in.
 
 ## Psyche
 
 ### Personality
 
-Lacks experience with high-end fabrics and formal attire.
+Kalendris is sharp, practical and discreet, friendly with customers and close-mouthed about them.
 
 ### Motivation
 
-Kalendris is driven by the desire to master her craft and secure a stable future. The uncertainties of life in clothier work keep her vigilant and adaptable.
+She wants the shop to prosper, and she wants to make something new one day, not another old robe made to look like itself.
 
 ### Strengths
 
-Skilled with basic sewing techniques and natural dyes, good rapport with customers.
+She is a skilled tailor and cutter, good with dyes and leather, and an accurate judge of what a family can pay.
+
+### Weaknesses
+
+She has no feel for the rich new cloths of the capital and has never cut one, and she extends too much credit to the old families.
 
 ## Social
 
-Kalendris is affiliated with none; she works independently.
-
-As a Vylarian clothier, Kalendris occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Kalendris's primary patrons are local villagers who need durable and affordable clothing. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-None; well-liked within her community.
+She has none. A clothier of Belekos has begun selling ready-made patrician robes in the city at a price she cannot match.
+
+### Others
+
+- **The old families of the council**, who bring her their robes at the back door and pay her late.
+- **The widows of the scholars' lanes**, who sew for her by the piece.
+- **The acolytes' families of the province**, who buy the plain cloth for their children's temple dress from her.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-olvenia|Faith of Ólvenia]]**: one of the lay faithful, the Devran, who keeps the feasts of the goddess of prosperity without office in the temple.
 
 ## Plot Hooks
 
-The Clothier's Dilemma
-: Kalendris faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
-
-Old Grudges
-: None; well-liked within her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kalendris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Kalendris depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kalendris the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The council's robes.** Three old families have asked her to make over their robes for the same council meeting, the first in the old hall since its porch was mended. The families have each asked her not to tell the others, and all three are in debt to her.
+2. **The acolyte.** A grain family of [[place-belekos|Belekos]] wants its daughter home from the Temple of [[affiliation-blackflame|the Black Flame]]. The family has asked Kalendris, who made the girl's temple dress, to take her a message on her next fitting.
+3. **The courier's coat.** A courier from the capital has ordered a coat to be ready in two days, and paid in good coin. He wants it cut to carry a sealed letter flat inside the lining, where a search will not find it.
+4. **The pawned robe.** A robe of one of the old families has turned up for sale at a dealer of the forum, and Kalendris knows its borders, because she sewed them. The family says it was never sold.

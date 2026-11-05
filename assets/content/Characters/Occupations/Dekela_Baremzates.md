@@ -3,7 +3,8 @@ shortcode: deklbrmzts
 name: {full: Dekela Baremzates}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A master potter of Elissara whose green-glazed bowls reach the tables of the capital, and who cannot sell, speak to strangers or stop someone forging her seal."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [aelissium]
-  affiliations: {vylarinmpr: {rank: 4}, sacredforge: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.45
@@ -392,13 +393,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Dekela Baremzates is a 28-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with prominent cheekbones, a broad forehead, and an angular jaw that leads to a strong chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a hawkish nose and wide lips. She has olive skin with a ruddy complexion. Her auburn hair is swept up and held with carved combs.
+Dekela Baremzates is a 27-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with prominent cheekbones, a broad forehead, and an angular jaw that leads to a strong chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a hawkish nose and wide lips. She has olive skin with a ruddy complexion. Her auburn hair is swept up and held with carved combs, and there is clay under her nails whatever she does.
 
 # Dossier {#dossier}
 
-Dekela Baremzates is a potter of [[place-aelissium|Elissara]], the trade city of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freewoman who was raised at her parents' wheel and now keeps their shop.
+Dekela Baremzates is a potter of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vylaris]], who was raised at her parents' wheel, keeps their shop off the market square, and holds the master's seal of the potters' guild that they held before her. Her green-glazed bowls are on the tables of houses in [[place-orzara|Orzara]] that have never heard her name.
 
-Dekela learned to throw at the wheel of a shop off the market where her parents made plain crockery for the households of Elissara. By the time the shop came to her she had gone somewhere her parents never went: patterned ware, bowls and jars and lamps with designs worked into the slip, and glazes she has spent years arriving at—a green that holds its color through the kiln, a blue that came out of a season of failures. She is never satisfied with any of it. What she cannot do is sell. She takes a stall at the markets and fairs and stands behind it saying too little, and the merchants who might carry her ware to the capital have never been asked. Her work remains less widely known than it deserves.
+Her parents made plain crockery for the households of the city. By the time the shop came to her she had gone where they never went: patterned ware, bowls and jars and lamps with designs worked into the slip, and glazes she has spent years arriving at, a green that holds its color through the kiln and a blue that came out of a season of failures. She fires in the kilns outside the landward wall, and she is never satisfied with anything that comes out of them.
+
+## Background
+
+**The wheel.** Dekela learned to throw at her parents' wheel and took her master's seal at the guild's examination in her own name.
+
+**The stall.** She cannot sell. She takes a stall at the market and stands behind it saying too little, and the merchants who carry her ware to the capital found her rather than the other way round.
 
 ## Psyche
 
@@ -408,36 +415,35 @@ Dekela is intent, self-critical and awkward with strangers, and will break a bow
 
 ### Motivation
 
-Dekela wants the next glaze—the color she has seen in her head and not yet got out of the kiln—and she wants her ware in the hands of people who will use it.
+She wants the next glaze, the color she has seen in her head and not yet got out of the kiln, and she wants her ware in the hands of people who will use it.
 
 ### Strengths
 
-Skilled at the wheel, inventive with glaze and pattern, attentive to detail.
+She is skilled at the wheel, inventive with glaze and pattern, and exact about detail. The other potters come to her about glaze.
+
+### Weaknesses
+
+She is no judge of a price, hates to speak in front of people, and has agreed to terms with merchants that she should never have agreed to.
 
 ## Social
 
-Dekela holds her master's seal from the potters' guild of Elissara, which her parents held before her and is the potter the others come to about glaze and never about business.
-
-## Companions
-
-### Patrons
-
-Dekela's patrons are the households of Elissara that have found her stall and come back to it, and two or three merchants of the city who buy her patterned ware by the crate at a price she should never have agreed to.
-
 ### Enemies
 
-Nobody who wishes her harm, but a rival shop in the potters' street has begun copying her patterns in a cheaper glaze and selling them under a name close enough to hers to confuse a buyer.
+Nobody wishes her harm. A rival shop in the potters' streets copies her patterns in a cheaper glaze and sells them under a name close enough to hers to confuse a buyer.
+
+### Others
+
+- **The households of Elissara** that have found her stall and come back to it.
+- **Two or three merchants of the city** who buy her patterned ware by the crate for the capital, at a price she should not have accepted.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keeps the feasts of the creative fire without office in the temple.
 
 ## Plot Hooks
 
-Plain Ware by the Thousand
-: A merchant house of Elissara has offered Dekela a contract for plain crockery in quantity, enough to keep the shop for years and to leave her no time for anything else.
-
-The Glaze That Failed
-: A commission for a senatorial household—her first—has come out of the kiln with the blue gone gray across half the set. The delivery is in a week.
-
-The Copy
-: The rival shop's copies of her patterns have reached the capital under a name that is nearly hers. The guild will hear a case only if she brings one, in front of people.
-
-The Examination
-: The guild has asked Dekela to sit as an examiner for new masters, an honor that would give her a voice on standards. It would require her to speak to strangers about money and method, several times a year.
+1. **The seal.** Bowls carrying Dekela's master's seal are selling in the capital, and she did not make them. The potters' guild wants the forger found inside the guild before the city's council hears of it.
+2. **Plain ware by the thousand.** A merchant house of Elissara has offered her a contract for plain crockery in quantity, enough to keep the shop for years and to leave her no time for anything else.
+3. **The glaze that failed.** A commission for a senatorial household, her first, has come out of the kiln with the blue gone gray across half the set. The delivery is in a week.
+4. **The examination.** The guild has asked Dekela to sit as an examiner for new masters, which would give her a voice on standards. It would require her to speak to strangers about money and method, several times a year.

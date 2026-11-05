@@ -3,7 +3,8 @@ shortcode: arklrdsklmkns
 name: {full: Arkalordas Kalmakanes}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A seaman on the roll of the Seamen's Guild of Elissara, the senior hand on every deck he sails and the one the captains ask for by name when the cargo matters."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [aelissium]
-  affiliations: {vylarinmpr: {rank: 4}, pozeras: {rank: 1}, seamensgld: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, pozeras: {rank: 1}, seamensgld: {rank: 1}}
   gender: male
   species: humanflk
   born: 687.101
@@ -24,7 +25,7 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [scarred]
-    extra_features: [a scar on the right calf and a Seaman's Guild tatoo on his right arm]
+    extra_features: [a scar on the right calf and a Seaman's Guild tattoo on his right arm]
   packFolder: midhalionvylaria
 sohl:
   items:
@@ -395,13 +396,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Arkalordas Kalmakanes is a 33-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows and give him a keen gaze. He has an aquiline nose and narrow lips. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples.
+Arkalordas Kalmakanes is a 32-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows and give him a keen gaze. He has an aquiline nose and narrow lips. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples. The blue anchor of the Seamen's Guild is pricked on his right arm, and a long scar runs down his right calf where a parted line caught him.
 
 # Dossier {#dossier}
 
-Arkalordas Kalmakanes is a common seaman of [[place-aelissium|Elissara]], a trade city of [[place-vylariargn|Vylaria]], a [[lore-vylarianclt|Vylarian]] freeman who has worked the merchant ships of the [[place-vylarianse|Vylarian Sea]] for twenty years and is the hand the captains ask for by name.
+Arkalordas Kalmakanes is a common seaman of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vylaris]], who has worked the merchant ships of the [[place-vylarianse|Vylarian Sea]] for fifteen years and is the hand its captains ask for by name.
 
-Arkalordas went to sea from Elissara at seventeen and has been aboard something ever since: grain ships to the capital, timber ships to [[place-salkhalon|Salkalon]], and the long runs east to [[place-helionis|Helionis]] and, before the war, to [[place-taruzelrgn|Taruzel]]. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck for ten years, the man the captain asks before he turns for a lee shore. He teaches the boys: how to reef, how to stow, what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
+He has been aboard something since he first went to sea: grain ships to the capital's barges, timber ships to [[place-salkhalon|Salkalon]], and the long runs east to [[place-helionis|Helionis]] and, before the war, to [[place-taruzelrgn|Taruzel]]. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck he has sailed for ten years, the man the captain asks before he turns for a lee shore. Between voyages he sleeps at the [Roll House]{.name data-type="place/structure"} with the other hands of the roll.
+
+## Background
+
+**The first voyage.** Arkalordas went to sea from Elissara at seventeen and came home from his first voyage to have the anchor pricked on his arm.
+
+**The boys.** He teaches the boys of every crew he sails with how to reef, how to stow and what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
 
 ## Psyche
 
@@ -411,36 +418,36 @@ Arkalordas is steady, stubborn and set in the ways he learned, and distrusts any
 
 ### Motivation
 
-Arkalordas wants the ship he is on to come home with every hand it left with, and he wants to keep the standing that makes the captains ask for him. The young officers do not ask.
+He wants the ship he is on to come home with every hand it left with, and he wants to keep the standing that makes the captains ask for him.
 
 ### Strengths
 
-Long experience at sea, a natural leader on deck, a fine seaman.
+He has long experience of the sea, a natural authority on deck and the trust of the crews, who sign because he has.
+
+### Weaknesses
+
+He will not learn a new way of working a ship, and the young officers who did not learn theirs from him do not ask for him.
 
 ## Social
 
-Arkalordas is on the roll of the [[affiliation-seamensgld|Seamen's Guild of Elissara]], whose mark is on his right arm, and hires by the voyage as the seamen of Vylaria do.
-
-## Companions
-
-### Patrons
-
-Arkalordas's patrons are the merchant captains of Elissara, who ask for him when the cargo matters, and the crews who sign because he has.
-
 ### Enemies
 
-A young mate on the Helionis run who learned his trade in a Taruzelian yard and has told his captain that the old hand is slowing the deck; and a Taruzelian privateer who took a ship Arkalordas was aboard and did not take him.
+A young mate on the Helionis run who learned his trade in a Taruzelian yard has told his captain that the old hand is slowing the deck. A Taruzelian privateer took a ship Arkalordas was aboard during the war and let him go, and Arkalordas has never forgiven him for either.
+
+### Others
+
+- **The merchant captains of Elissara**, who ask for him when the cargo matters.
+- **The hands of the roll**, who sign for a voyage when they hear he has signed.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-seamensgld|Seamen's Guild of Elissara]]**: a Hand on the roll, marked on the right arm after his first voyage home and hired by the voyage in the roll's turn or by name.
+- **[[affiliation-pozeras|Faith of Pozeras]]**: one of the lay faithful, the Devran, who keeps the Wayfarer's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Shoals
-: A captain has offered double wages to take a cargo through the [[place-tamzirshoals|Tamzir]] channels, which Taruzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkalordas.
-
-The Letters of Marque
-: A Taruzelian ship carrying letters against Vylarian trade has been seen off the Helionis coast, and it is the privateer's. Arkalordas's ship is the next out.
-
-The Navy's Need
-: The [[affiliation-vylarinmpr|Vylarian Empire]]'s navy is short of seamen and is paying the guild for its rolls. Arkalordas's name is at the top of one.
-
-The Young Mate
-: The mate has been given the deck for the Helionis run and has set the ship the Taruzelian way, with half the hands aloft that Arkalordas would keep there. The weather is coming.
+1. **The shoals.** A captain has offered double wages to take a cargo through the [[place-tamzirshoals|Tamzir]] channels, which Taruzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkalordas.
+2. **The privateer.** A Taruzelian ship carrying letters against Vylarian trade has been seen off the Helionis coast, and it is the privateer's. Arkalordas's ship is the next out.
+3. **The navy's need.** The fleet is short of seamen and is paying the guild for copies of its roll. Arkalordas's name is at the top of one, and he wants to know what the fleet means to do with it.
+4. **The young mate.** The mate has been given the deck for the Helionis run and has set the ship the Taruzelian way, with half the hands aloft that Arkalordas would keep there. The weather is coming.

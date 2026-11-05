@@ -3,7 +3,8 @@ shortcode: lagrxrznds
 name: {full: Lagora Kerazendis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A fool who juggles and mocks on Korvenara's pay days, and whose jokes about the camp's empty barracks come closer to the truth than the camp likes."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {rank: 4}, lusinia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, lusinia: {rank: 1}}
   gender: female
   species: humanflk
   born: "697.4"
@@ -390,57 +391,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Lagora Kerazendis is a 23-year-old woman who stands 5'8" tall and is slender. She has a square face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. Her round brown eyes sit beneath arched brows, lending her a candid gaze. A prominent nose and wide lips complete her features. She has light skin with a sallow complexion. Her brown hair is adorned with simple pins.
+Lagora Kerazendis is a 22-year-old woman who stands 5'8" tall and is slender. She has a square face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. Her round brown eyes sit beneath arched brows, lending her a candid gaze. A prominent nose and wide lips complete her features. She has light skin with a sallow complexion. Her brown hair is adorned with simple pins, and a scar on her right elbow shows where a tumble went wrong.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Lagora Kerazendis came into the world of the fool through a combination of circumstance and aptitude.
+Lagora Kerazendis is a fool of [[place-corvinus|Korvenara]], the garrison town of [[place-alyssa|Alessa]], who juggles, tumbles and mocks for coin in the market on the legion's pay day and in the inns of the south gate street on every other night. She travels the country towns between pay days, and comes back for the next one because nowhere in the country has more coin in it on a single day.
 
-Lagora grew up in a small village and developed a talent for mischief and humor at an early age. She travels from town to town, performing tricks and stunts to entertain audiences. Lagora is known for her sharp tongue and playful antics, often using her humor to challenge social norms and expectations. While her jokes can be biting, she uses them to provoke thought and laughter.
+Her tongue is sharp and her jokes bite. She makes fun of the recruits, the veterans of the council, the Vallar's table at the south gate and the empty barracks behind the camp wall, and the soldiers laugh loudest at the jokes about the camp.
+
+## Background
+
+**The village.** Lagora grew up in a village of the Alessan country with a gift for mischief, and left it with a sack of juggling balls as soon as she was old enough to be let go.
+
+**The town.** She found that a soldier with his pay in his hand will pay a fool to tell him what he cannot say himself, and she has worked Korvenara's pay days since.
 
 ## Psyche
 
 ### Personality
 
-Can be impulsive, sometimes crosses the line with her jokes.
+Lagora is impulsive, quick-witted and fearless in front of a crowd, and she sometimes goes past the line with a joke without seeing it.
 
 ### Motivation
 
-Lagora is driven by the desire to master her craft and secure a stable future. The uncertainties of life in fool work keep her vigilant and adaptable.
+She wants a crowd that laughs and a hat that fills, and she wants to say true things that nobody else will say out loud.
 
 ### Strengths
 
-Creative and quick-witted, skilled in sleight of hand, engaging performer.
+She is quick, inventive and skilled in sleight of hand, and she can hold a market crowd for an hour.
+
+### Weaknesses
+
+She cannot leave a good joke unsaid, she has no patron, and she has made enemies she does not know about.
 
 ## Social
 
-Lagora is affiliated with none; she works independently.
-
-As a Vylarian fool, Lagora occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Lagora's primary patrons are local villagers and traveling fairs. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Those who find her humor inappropriate or offensive.
+Several veterans of the town council find her jokes insolent, and one of them wants her barred from the market on pay day.
+
+### Others
+
+- **The soldiers of the camp**, who are her best audience and her best customers.
+- **The innkeepers of the south gate street**, who feed her because she fills their benches.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-lusinia|Faith of Lusinia]]**: one of the lay faithful, the Devran, who keeps the World-Weaver's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Fool's Dilemma
-: Lagora faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
-
-Old Grudges
-: Those who find her humor inappropriate or offensive. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Lagora's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Lagora depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Lagora the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+1. **The count.** Lagora's new joke on pay day counts the soldiers on parade and gets a different number every time. A clerk of the paymaster has bought her a drink and asked her, kindly, to stop telling it.
+2. **The guest.** The Vallar asks Lagora to entertain the officer coming from [[place-orzara|Orzara]] at an inn on the road, and to keep him laughing and drinking there for three days.
+3. **The ban.** The veterans of the council will vote on barring her from the market, and the man who proposed it is one of the two veterans who claim the same plot along the road.
+4. **The recruit.** A boy of fifteen who walked in to take the oath has asked Lagora to take him with her on the road instead, and he has not yet sworn.

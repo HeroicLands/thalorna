@@ -3,7 +3,8 @@ shortcode: dpmnjkdn
 name: {full: Dapuman Jakuduni}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "The hideworker of Hitusel, who tans and works leather the old way in the pits above the northern cove and is failing with no son and no apprentice to take them."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,52 +393,57 @@ sohl:
 
 # Appearance {#appearance}
 
-Dapuman Jakuduni is a 37-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows and give him an open gaze. He has a prominent nose and narrow lips. He has warm golden skin with an olive-toned complexion. His dark brown hair is cropped short.
+Dapuman Jakuduni is a 36-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows and give him an open gaze. He has a prominent nose and narrow lips. He has golden skin, scarred on the hands and forearms by the knife and the lime, and an old scar runs down his right leg. His dark brown hair is cropped short. He stands bent from the scraping-beam, and his hands are a man of sixty's.
 
 # Dossier {#dossier}
 
-Dapuman Jakuduni is a hideworker of [[place-hitusel|Hitusel]], a fishing village on the coast of [[place-taruzelrgn|Taruzel]], a [[lore-taruzelianclt|Taruzelian]] freeman who tans and works leather in the pits below the village as his father did.
+Dapuman Jakuduni is the hideworker of [[place-hitusel|Hitusel]], a fishing village on a low headland of [[place-visizel|Visizel]]'s western coast, and a freeman of the Confederation who tans and works leather in the pits his father worked before him. The pits are a row of stone-lined tanks cut into the slope above the northern cove, downwind of everything, fed with sea water and fresh water by channels, and their smell reaches a traveler on the coast road a mile before the village does.
 
-Dapuman learned the trade at his father's pits and has kept them since his father's hands gave out: the soaking, the liming, the scraping and the long tan in bark and water that turns a hide into leather that lasts a lifetime. He makes what the coast needs, boots, harness and the heavy jerkins the fishermen wear against the wind, and he makes them the old way, slowly, and they last. Buyers come up from [[place-sazumun2|Sazumun]] for his hides because the city tanneries tan faster and sell leather that cracks in two winters. The work is filthy and heavy, and it is wearing him out. His hands are a man of sixty's, he has cut himself to the bone twice this year, and his back has begun to fail him on the scraping-beam.
+He tans the old way: the soaking, the liming, the scraping and the long tan in bark and water that turns a hide into leather that lasts a lifetime. He makes boots, harness and the heavy jerkins the fishermen wear against the wind, and buyers ride up the coast road from [[place-sazumun2|Sazumun]] for his hides, because the city tanneries' leather cracks in two winters. He works the pits alone with two hired men, and he sits for the pits on the [[affiliation-cnclhtsl|Council of Hitusel]], which meets on the beach of the southern cove in fair weather.
+
+## Background
+
+**The pits.** He learned the trade at his father's pits and has kept them since his father's hands gave out.
+
+**The cost.** The work is filthy and heavy, and it is wearing him out. He has cut himself to the bone twice this year, and his back has begun to fail him on the scraping-beam.
 
 ## Psyche
 
 ### Personality
 
-Dapuman is steady, modest and slow to speak, proud of his leather and embarrassed to praise it. He works through pain because stopping is not something his father did.
+Dapuman is steady, modest and slow to speak, proud of his leather and embarrassed to praise it. He works through pain, because his father did.
 
 ### Motivation
 
-Dapuman wants leather that lasts, made the way his father made it, and he wants his hands and his back to last long enough to make it. He has begun to understand that they will not, and he has no son and no apprentice.
+He wants leather that lasts, made the way his father made it, and he wants his hands and his back to last long enough to make it. He has begun to understand that they will not.
 
 ### Strengths
 
-Skilled in tanning and leather-work, knows hides and how to cure them, hard to stop.
+He knows hides and how to cure them better than any tanner in Sazumun, and he does not stop.
+
+### Weaknesses
+
+His body is failing, he has no son and no apprentice, and he will not ask for help.
 
 ## Social
 
-Dapuman belongs to no compact. The [[affiliation-vezakuni|Vezakuni]] requires a master to be registered, and a village tanner has so far been beneath its notice; his buyers from Sazumun are careful how they describe where his leather came from.
-
-## Companions
-
-### Patrons
-
-Dapuman's patrons are the fishermen and farmers of Hitusel and the villages either side of it, and the leather-buyers who come up the coast from Sazumun.
-
 ### Enemies
 
-A tannery of Sazumun, chartered under the compact, whose vezakum has learned where the good coast leather comes from and would like it stopped, or bought.
+A chartered tannery of Sazumun, whose vezakum has learned where the good coast leather comes from and would like it stopped, or bought.
+
+### Others
+
+- **The fishermen of Hitusel**, who wear his jerkins and his boots.
+- **The leather-buyers of Sazumun**, who ride up the coast road for his hides and fear the old way will end with him.
+
+### Affiliations
+
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman, enrolled in the register of [[affiliation-sazumun|Sazumun]], the city-state whose island Visizel is.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keeps the goddess's feasts without office in the temple.
 
 ## Plot Hooks
 
-The Registration
-: A pazasum of the Vezakuni has come up the coast with a list of unregistered tanners, and Dapuman's name is on it. Registration means the compact's fee, methods and prices; refusal means the pits filled in.
-
-The Hands
-: Dapuman has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Sazumun, and the tannery's vezakum has offered to send for one.
-
-The Strange Hide
-: The fishermen have brought Dapuman a hide off something they netted that none of them can name. He does not know how to tan it, and has begun to think it should not be tanned.
-
-The Pits
-: The village well has gone foul, and the elders have looked at the tan-pits. Moving them means a year without income and a debt to whoever lends it.
+1. **The apprentice.** A Sazumun buyer offers a party the price of a good horse to find a young hideworker in the city willing to go to Hitusel and learn the old way from Dapuman before his hands give out.
+2. **The stranger's boat.** A boat from Sazumun went out round the reef at night without a Hitusel man aboard and came back without striking it, so someone in the village has shown the channel to strangers. The council must judge a neighbor, and Dapuman, who sits on it, saw a light on the northern cove that night.
+3. **The registration.** An officer of the [[affiliation-vezakuni|Vezakuni]] has come up the coast with a list of unchartered tanners, and Dapuman's name is on it. Registration means the compact's fee, methods and prices, and refusal means the pits closed.
+4. **The hand.** Dapuman has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Sazumun, and the tannery's vezakum has offered to send for one.

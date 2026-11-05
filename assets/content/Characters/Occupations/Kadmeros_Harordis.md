@@ -3,7 +3,8 @@ shortcode: kdmrshrrds
 name: {full: Kadmeros Harordis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A woodworker and carver of Velisara, who makes and mends furniture for the city's old families and carves for its masons."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [velysara]
-  affiliations: {vylarinmpr: {rank: 4}, sacredforge: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 3}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.263
@@ -392,57 +393,64 @@ sohl:
 
 # Appearance {#appearance}
 
-Kadmeros Harordis is a 38-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round dark brown eyes sit beneath arched brows, lending him a candid gaze. An aquiline nose and wide lips complete his features. He has olive skin with a smooth complexion. His auburn hair is kept practical and short.
+Kadmeros Harordis is a 37-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round dark brown eyes sit beneath arched brows, lending him a candid gaze. An aquiline nose and wide lips complete his features. He has olive skin with a smooth complexion. His auburn hair is kept practical and short, and his forearms are scored with the small healed nicks of the carving trade.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Kadmeros Harordis came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Kadmeros Harordis is a woodworker of [[place-velysara|Velisara]], a secondary city of the [[affiliation-provinclys|Province of Alessa]], who keeps a workshop in a lane off the old quarter. He makes what the city's old families still order and can no longer quite afford: carved chests and tables, doors and shutters for their town houses, panelling, picture frames, and the wooden fittings of the forums, which are mended rather than renewed. He works in iron and brass as well as wood, and fits his own hinges, locks and mounts.
 
-Kadmeros has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his carvings and quality craftsmanship, Kadmeros is proud of his trade, though he often struggles to find steady customers in a small community.
+He also carves for the city's masons, cutting patterns and moulds from their drawings for the repairs to the forums. He is the best carver in the city, and the masons bring him more of this work every season.
+
+## Background
+
+**The trade.** Kadmeros learned carving and joinery from his father, a freeman of a forest village in the Vylaria country, and learned the smith's work on small fittings by himself.
+
+**The workshop.** He set up in Velisara two years ago, because a widow of the scholars' lanes let him the workshop cheaply, and because a city of old families with old furniture needs a man who can mend it.
 
 ## Psyche
 
 ### Personality
 
-Has difficulty finding customers beyond his village, struggles with pricing his work.
+Kadmeros is steady, patient and proud of his work, quiet in company and contented alone at the bench. He has never learned to ask a fair price, because his father never asked his customers for one.
 
 ### Motivation
 
-Kadmeros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcrafter work keep him vigilant and adaptable.
+He wants a workshop with a name in the city and an apprentice to leave it to, and he wants to carve something meant to last, under his own name.
 
 ### Strengths
 
-Skilled in woodworking, detailed carving, and finishing techniques.
+He is a fine carver and joiner, a good smith of small fittings, a careful draughtsman and a sharp-eyed worker who notices a crooked line at forty paces.
+
+### Weaknesses
+
+He charges too little and the old families pay late. He asks no questions of a customer who pays on the day.
 
 ## Social
 
-Kadmeros is affiliated with none; he works independently in his family workshop.
-
-As a Vylarian woodcrafter, Kadmeros occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Kadmeros's primary patrons are local villagers and travelers who appreciate handmade wooden items. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-None; he is generally well-liked.
+He has none. The city's other joiners resent the masons' custom he has taken from them.
+
+### Others
+
+- **The masons of the city**, who bring him their drawings and pay on the day.
+- **The old families of the council**, who order his chests and doors and pay at the end of the year if at all.
+- **The widows of the scholars' lanes**, who let rooms behind the chapterhouse and send him their broken furniture.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: one of the lay faithful, the Devran, who keeps the feasts of the creative fire without office in its temple.
 
 ## Plot Hooks
 
-The Woodcrafter's Dilemma
-: Kadmeros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The large order.** The masons have brought Kadmeros the largest order he has had, wanted within the month, and have asked him to keep the drawing in a locked chest rather than on the bench.
+2. **The crane.** A builder's crew from Orzara that works at night at the north end of the [Old Forum]{.name data-type="place/site"} has sent for him to mend its crane, by lamplight, and pays in advance. The watch at the end of the forum lets him through without a word.
+3. **The scholar.** A scholar of the chapterhouse has taken to stopping at Kadmeros's bench to look over the masons' work on it, and has asked him whether he has ever looked closely at the joins in the forums.
+4. **The neighbor.** A man from his father's village has come to Velisara as a guard of the [[affiliation-sekran|Sekran]]'s office, and has asked Kadmeros, as a favor between neighbors, to make a strongbox with a hidden lock for his master.
 
-Old Grudges
-: None; he is generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+:::secret {title="The Truth of Velisara"}
+The masons' repairs are replacements. When builders from the capital buy a column, a capital or a facing slab from the less-walked ends of the forums, the masons set a copy of brick and stucco in its place the same week, painted to match, and its carved capitals and mouldings are cast in the wooden moulds Kadmeros cuts from their drawings. The masons want the weathering of the real marble carved into each mould so the copy passes. Kadmeros has never asked what the moulds are for, and he has not worked it out.
 
-Echoes of the Past
-: Something from Kadmeros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Kadmeros depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kadmeros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The large order of the first hook is for six capitals at once, and the drawing is of the capitals of the old council hall's porch: the moulds for the copies that will replace the columns the builder's crew at the north end of the Old Forum has come to take. The scholar of the third hook knows what the joins mean, and his question is as far as he will go.
+:::

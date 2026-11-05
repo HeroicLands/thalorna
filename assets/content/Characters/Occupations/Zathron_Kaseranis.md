@@ -3,7 +3,8 @@ shortcode: xthrnksrns
 name: {full: Zathron Kaseranis}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "The physician of Polthara, a learned and experimenting man of the propertied order whose dispensary on the square supplies the circuit priest's medicines and treats the district's hurt and sick on market days."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -395,57 +396,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Zathron Kaseranis is a 44-year-old man who stands 5'9" tall and is of moderate build. He has an angular face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a square chin. His sharp brown eyes sit beneath prominent brows, lending him an incisive gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a weathered complexion. His chestnut hair is kept practical and short.
+Zathron Kaseranis is a 43-year-old man who stands 5'9" tall and is of moderate build. He has an angular face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a square chin. His sharp brown eyes sit beneath prominent brows, lending him an incisive gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a weathered complexion. His chestnut hair is kept practical and short, and his fingers are often stained with the salts and powders he grinds.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria region]] to a noble family of [[lore-vylarianclt|Vylarian]] heritage, Zathron Kaseranis came into the world of the physician through a combination of circumstance and aptitude.
+Zathron Kaseranis is the physician of [[place-polthara|Polthara]], the market town of the [[place-hylen|Hilen]] estate country, and the one the district's people come to when a village remedy has failed. He keeps a house with a dispensary on the street into the square, and on a market day it has a queue: stewards with fevers they caught on the road, carters with crushed hands, tenants' wives with children the circuit priest has sent in.
 
-Zathron is a physician with a reputation for his innovative treatments and thorough approach to patient care. He has spent years researching various medical practices and is known for his willingness to experiment with new methods. Zathron is passionate about advancing medical knowledge and often shares his findings with peers. Despite his serious demeanor, he has a kind heart and is dedicated to his patients' well-being.
+He is a physician of the learned kind, who reads every treatise he can buy and keeps his own case books, and he has a reputation for trying what the treatises only suggest. He compounds his own medicines from herbs and from mineral salts, and much of what the circuit priest of [[affiliation-lizelas|Lizelas]], [[being-rvthrbrmztr|Revothar Baremzator]], carries round the tenant villages is bought from his dispensary on market days.
+
+## Background
+
+**The family.** The Kaseranis are of the propertied order and hold farms in the district. Zathron was the son with no farm coming to him, and he was sent to study medicine in the provincial capital.
+
+**The town.** He came back to Polthara as a young man because it had no physician. He has been its physician for twenty years, and he has kept a case book of every one of them.
 
 ## Psyche
 
 ### Personality
 
-Can be too focused on experimentation, struggles with interpersonal relationships.
+Zathron is serious, precise and kind under it, impatient with anyone who will not follow his instructions and gentle with anyone in pain. He is better with patients than with colleagues.
 
 ### Motivation
 
-Zathron's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
+He wants to know why the people of the district fall ill and how to stop them, and he writes up what he learns in the hope that a better physician will read it.
 
 ### Strengths
 
-Highly experienced, excellent researcher, skilled at complex diagnoses.
+He is a skilled diagnostician and surgeon, he knows his herbs and minerals thoroughly, and his case books are the best record of the district's health that exists.
+
+### Weaknesses
+
+He tries untested remedies when the tested ones fail, and the families of the patients they did not save remember.
 
 ## Social
 
-Zathron is affiliated with the local [Physicians' Guild]{.name data-type="affiliation/guild"}.
-
-As a Vylarian physician, Zathron occupies a recognized social niche within Vylaria society.
-
-## Companions
-
-### Patrons
-
-Zathron's primary patrons are local nobles and community members seeking advanced medical treatment. This relationship provides both opportunity and obligation.
-
 ### Enemies
 
-Few; generally well-respected but may face skepticism from traditionalists.
+The older physicians of the provincial capital think his methods dangerous and have said so in letters, and a steward whose master died under a new remedy holds him to blame.
+
+### Others
+
+- **[[being-rvthrbrmztr|Revothar Baremzator]]**, the circuit priest, who buys medicines from him and sends him the cases the villages cannot treat. Each thinks the other too stubborn.
+- **The stewards of the district**, who pay him in coin on market days and in produce at harvest.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Gulmen, of the propertied order from which the empire's officers and great commands are filled.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keeps the feasts of the goddess of fertility without office in the temple.
 
 ## Plot Hooks
 
-The Physician's Dilemma
-: Zathron faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The fever.** A fever has come into the tenant villages on the carts of the market, and Revothar is nursing the sick. Zathron believes he knows the remedy, and the only supply of its chief salt is in the capital. He asks a party to ride for it.
+2. **The robbed steward.** A steward robbed on the road home from the market was brought in with a cut across the forearm. He is the third Zathron has stitched this season, each robbed after a good market, and Zathron has begun to keep a note of what each of them tells him over the needle.
+3. **The case books.** A physician of the capital has written to ask for Zathron's case books, to be published under the capital physician's name with a line of thanks. He is offering enough to buy the dispensary twice over.
+4. **The poisoner's question.** A buyer of the capital who lodges at the [Steward's Rest]{.name data-type="place/structure"} on market nights has asked Zathron, three markets running, which of his salts are fatal and how quickly.
 
-Old Grudges
-: Few; generally well-respected but may face skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Zathron's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vylaria threaten to upend the social order that Zathron depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Zathron the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+:::secret {title="The Truth of Polthara"}
+Each of the three robbed stewards told Zathron over the needle that he had dined the night before with the senior _tavemos_, [Brazemos]{.name data-type="being/npc"}. Brazemos chooses which wagons the bandits of the wooded margins rob, because the register tells him what every steward sold and so what every steward carries home, and he takes a share of every theft. Zathron has the pattern in his notes and has not yet seen what it means.
+:::
