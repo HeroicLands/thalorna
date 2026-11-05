@@ -1,6 +1,6 @@
 ---
 shortcode: helonclng
-name: {full: Helonic Language}
+name: {full: Helonik Language}
 type: skill
 subType: language
 description: "The tongue of culture and the arts—drama, rhetoric, poetry and the epics—spoken in Helionis and the parent of Bizarian and Bethuan."
@@ -15,7 +15,7 @@ data:
     - name: "The gods, the stage and the assembly"
       holds: "The god and the goddess, honor and its loss, glory, the play, the chorus, the assembly and the vote."
     - name: "Sea, river, land and sky"
-      holds: "The coast the Helonic peoples live on, the rivers Bizaria trades along, the sun, the wind and the hours."
+      holds: "The coast the Helonik peoples live on, the rivers Bizaria trades along, the sun, the wind and the hours."
     - name: "The city, law and office"
       holds: "The city and its walls, the law and the custom, the magistrate, the roll of citizens and the seal."
     - name: "Trade, coin, goods and the road"
@@ -5611,7 +5611,7 @@ data:
       - skill-kentra
       - lore-zmrhdhsncnttns
   tongues:
-    - {tag: helonic, meaning: a Helonic name, language: skill-helonclng}
+    - {tag: helonic, meaning: a Helonik name, language: skill-helonclng}
     - {tag: byzarian, meaning: a Bizarian name, language: skill-byzarnlng}
     - {tag: bethuan, meaning: a Bethuan name, language: skill-bethunlng}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -5753,9 +5753,9 @@ data:
     - {name: Helionite, tongue: helonic}
     - {name: Hellád, tongue: helonic}
     - {name: Hellád Region, tongue: translation}
-    - {name: Helonic, tongue: translation}
-    - {name: Helonic Language, tongue: translation}
-    - {name: Helonic Lexicon, tongue: translation}
+    - {name: Helonik, tongue: translation}
+    - {name: Helonik Language, tongue: translation}
+    - {name: Helonik Lexicon, tongue: translation}
     - {name: Helónika, tongue: helonic}
     - {name: Helónika Script, tongue: translation}
     - {name: Herald Zhevranikos Nesharzát, tongue: translation}
@@ -6372,21 +6372,22 @@ data:
     - form: Panepistemium
       instead: Epistémion
       why: "a word of an Earth tongue, for the university"
-    - {form: Panepistēmion, instead: Epistémion, why: a spelling the letters of Helonic refuse}
+    - {form: Panepistēmion, instead: Epistémion, why: a spelling the letters of Helonik refuse}
     - form: Epistemium
       instead: Epistémion
       why: "a word of an Earth tongue, for the college of knowledge"
-    - {form: Héx Hodäi, instead: Zemor Hodhis, why: a name that breaks the sounds of Helonic}
+    - {form: Héx Hodäi, instead: Zemor Hodhis, why: a name that breaks the sounds of Helonik}
     - form: Eídma
       instead: rhezin
-      why: "a spelling the letters of Helonic refuse, for a current of the arcane"
+      why: "a spelling the letters of Helonik refuse, for a current of the arcane"
     - form: Eídmata
       instead: rheza
-      why: "a spelling the letters of Helonic refuse, for the currents of the arcane"
-    - {form: Pneuménos, instead: Neumenos, why: a spelling the letters of Helonic refuse}
+      why: "a spelling the letters of Helonik refuse, for the currents of the arcane"
+    - {form: Pneuménos, instead: Neumenos, why: a spelling the letters of Helonik refuse}
     - form: Incantus
       instead: Incantation
       why: "a word of an Earth tongue, for a working of the arcane"
+    - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6395,24 +6396,24 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Helonic}}
+  flags: {"thalorna": {lang_family: Helonik}}
 
-# terran_analog: Helonic reads classical Greek and its daughters read a Greek koine of the eastern trade road and a Romance-like island tongue with an Arabic-shaped loan stratum. The inherited stock is Greek-shaped (sothira beside sophia, kosamir beside kosmos) without being the Greek word; the coined roots here are made to the rules and are not the Greek, Turkish, Persian or Arabic word for their meaning. The particles and the article that stood as real Greek, Turkish and Arabic words are re-coined on this page.
+# terran_analog: Helonik reads classical Greek and its daughters read a Greek koine of the eastern trade road and a Romance-like island tongue with an Arabic-shaped loan stratum. The inherited stock is Greek-shaped (sothira beside sophia, kosamir beside kosmos) without being the Greek word; the coined roots here are made to the rules and are not the Greek, Turkish, Persian or Arabic word for their meaning. The particles and the article that stood as real Greek, Turkish and Arabic words are re-coined on this page.
 ---
 
-Helonic is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Helonik is a tongue of the [Helonik Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Helonik, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonic carries prestige throughout [[place-midhalnrgn|Midhalión]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-zemorhodhis|Zemor Hodhis]] were first written in Helonic, which is why those institutions keep Helonic names inside the [[affiliation-vylarinmpr|Vilérian system]].
+The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonik is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonik carries prestige throughout [[place-midhalnrgn|Midhalión]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-zemorhodhis|Zemor Hodhis]] were first written in Helonik, which is why those institutions keep Helonik names inside the [[affiliation-vylarinmpr|Vilérian system]].
 
 The roman repertoire includes `j` and `J` in its own given and clan names, including Jumina and Jamiros.
 
 ## Overview
 
-Helonic is characterized by its flowing, musical quality—a language that rewards the ear and encourages elaborate periodic constructions. The rhythm and stress patterns make it naturally suited to dramatic recitation and poetic meter. Vowels are clear and often long; consonants, while distinct, rarely cluster in harsh ways. The language appears designed for contemplation and beauty of expression, reflecting the philosophical values of its speakers.
+Helonik is characterized by its flowing, musical quality—a language that rewards the ear and encourages elaborate periodic constructions. The rhythm and stress patterns make it naturally suited to dramatic recitation and poetic meter. Vowels are clear and often long; consonants, while distinct, rarely cluster in harsh ways. The language appears designed for contemplation and beauty of expression, reflecting the philosophical values of its speakers.
 
-## How Helonic sounds
+## How Helonik sounds
 
-Helonic is the tongue of drama and argument. It is clear-voweled and fond of breathed consonants.
+Helonik is the tongue of drama and argument. It is clear-voweled and fond of breathed consonants.
 
 **The vowels.** _a_, _e_, _i_, _o_ and _u_, and the pairs _ai_ and _ei_. Long _e_ and long _o_ are letters of their own in the Helónika, written _ei_ and _ou_ on these pages.
 
@@ -6420,21 +6421,21 @@ Helonic is the tongue of drama and argument. It is clear-voweled and fond of bre
 
 **Clusters.** _ps_, _ks_, _kr_, _tr_ and _thr_ open words, and _-sm_ and _-st_ close syllables.
 
-**Endings.** Helonic words end in _-os_, _-on_, _-is_, _-in_, _-ir_ or _-ion_.
+**Endings.** Helonik words end in _-os_, _-on_, _-is_, _-in_, _-ir_ or _-ion_.
 
-**What Helonic leaves out.** It has no _zh_, _sh_ or _q_, which belong to Bizarian and [[skill-taruzelilng|Taruzeli]]. It has no _y_ as a vowel, since the guide reads _y_ as in _yes_.
+**What Helonik leaves out.** It has no _zh_, _sh_ or _q_, which belong to Bizarian and [[skill-taruzelilng|Taruzeli]]. It has no _y_ as a vowel, since the guide reads _y_ as in _yes_.
 
-**Verse.** Helonic verse counts beats and does not rhyme. Its nouns and verbs close on a handful of shared endings, so a rhyme would only repeat a grammar ending, and a line is measured by its stressed syllables instead. The rhapsodes' long line has six beats: the epics and the teaching poems are sung in it, and the heralds' asking is said in it. The choral odes of the stage and the sayings of the schools keep a short line of four beats, and a turn and its answering turn have the same number of lines. A telling in prose, such as a legend the priests tell at an altar, is not counted. The craft is in the fixed epithet that returns with a name (_Ythros egeirir er ithrin_, Ythros the fire-wakeful), the formula repeated whole or changed by a single word, the simile opened with _hoth_ and closed with _hometh_, the catalog, and the same word opening line after line.
+**Verse.** Helonik verse counts beats and does not rhyme. Its nouns and verbs close on a handful of shared endings, so a rhyme would only repeat a grammar ending, and a line is measured by its stressed syllables instead. The rhapsodes' long line has six beats: the epics and the teaching poems are sung in it, and the heralds' asking is said in it. The choral odes of the stage and the sayings of the schools keep a short line of four beats, and a turn and its answering turn have the same number of lines. A telling in prose, such as a legend the priests tell at an altar, is not counted. The craft is in the fixed epithet that returns with a name (_Ythros egeirir er ithrin_, Ythros the fire-wakeful), the formula repeated whole or changed by a single word, the simile opened with _hoth_ and closed with _hometh_, the catalog, and the same word opening line after line.
 
 ## Phonology
 
 ### Vowel System
 
-Helonic uses the guide's five vowels _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it, and the pairs _ai_, _ei_, _oi_, _au_ and _ou_. The vowel inventory is one reason Helonic achieves its melodic quality.
+Helonik uses the guide's five vowels _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it, and the pairs _ai_, _ei_, _oi_, _au_ and _ou_. The vowel inventory is one reason Helonik achieves its melodic quality.
 
 ### Consonant System
 
-Helonic maintains a moderate consonant inventory with some distinctive features:
+Helonik maintains a moderate consonant inventory with some distinctive features:
 
 Stops
 : p, b, t, d, k, g
@@ -6453,13 +6454,13 @@ Glides
 
 The Helónika has a letter for _th_ and writes _kh_, _gh_, _dh_ and _rh_ as the plain letter and _h_; the glides are written with _i_ and _u_.
 
-The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced throaty rasp written **gh** is unique to Helonic among western languages—a guttural sound that is distinctly non-trivial to produce correctly.
+The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced throaty rasp written **gh** is unique to Helonik among western languages—a guttural sound that is distinctly non-trivial to produce correctly.
 
 ## Grammar Notes
 
 ### Word Order and Syntax
 
-Helonic is fundamentally a Subject-Verb-Object language, though word order is relatively flexible.
+Helonik is fundamentally a Subject-Verb-Object language, though word order is relatively flexible.
 
 Example constructions:
 
@@ -6478,29 +6479,29 @@ Articles
 : Definite article _as_ (masculine and feminine) and _ath_ (neuter); indefinite article _fom_ (a/an)
 
 Participial constructions
-: Helonic is famous for its flexible use of participles, allowing compact and elegant subordinate clauses
+: Helonik is famous for its flexible use of participles, allowing compact and elegant subordinate clauses
 
 The grammar reflects philosophical precision, and the language's flexibility supports the construction of elaborate, nested arguments.
 
 ## Script and Literacy
 
-Helonic is written in the [[skill-helnkscrpt|Helónika]]—the Helonic alphabet, a modernized descendant of an ancient script tradition unique to Helionis. It consists of 24 letters—7 vowels and 17 consonants—each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
+Helonik is written in the [[skill-helnkscrpt|Helónika]]—the Helonik alphabet, a modernized descendant of an ancient script tradition unique to Helionis. It consists of 24 letters—7 vowels and 17 consonants—each with distinct majuscule (capital) and minuscule (lower) forms. The script is written left to right, with words separated by spaces and sentences punctuated by raised dots.
 
-**Literacy and Education:** True Helonic literacy—the ability to read and compose continuous text—is the province of the nobility (perhaps 30-40% of whom can read), the priesthood (who learn enough to recite and interpret liturgical texts), and professional scribes, poets and scholars of the old texts. The Epistémion (the Academy of Knowledge) still teaches Helonic to those who study them, but these are a tiny fraction of the population. Among merchants and guildsmen, functional literacy exists—enough to recognize common signs, tally marks, and the shape of one's own name—but even prosperous traders rely on scribes or solicitors for contracts and correspondence. The vast majority of the population (well over 90%) cannot read or write. Public monuments and civic inscriptions are read aloud by heralds and criers, not by passersby.
+**Literacy and Education:** True Helonik literacy—the ability to read and compose continuous text—is the province of the nobility (perhaps 30-40% of whom can read), the priesthood (who learn enough to recite and interpret liturgical texts), and professional scribes, poets and scholars of the old texts. The Epistémion (the Academy of Knowledge) still teaches Helonik to those who study them, but these are a tiny fraction of the population. Among merchants and guildsmen, functional literacy exists—enough to recognize common signs, tally marks, and the shape of one's own name—but even prosperous traders rely on scribes or solicitors for contracts and correspondence. The vast majority of the population (well over 90%) cannot read or write. Public monuments and civic inscriptions are read aloud by heralds and criers, not by passersby.
 
 ## Historical Development
 
-Helonic descended from [Proto-Helonic]{.name data-type="skill/language"}, spoken by the ancient maritime peoples who settled Helionis in the early mythic age. The language evolved through three broad phases:
+Helonik descended from [Proto-Helonik]{.name data-type="skill/language"}, spoken by the ancient maritime peoples who settled Helionis in the early mythic age. The language evolved through three broad phases:
 
-1. **Ancient Helonic** (pre-1500 years ago): The language of the earliest epics and philosophical schools, conservative in its grammar. Some texts remain difficult even for modern educated speakers.
+1. **Ancient Helonik** (pre-1500 years ago): The language of the earliest epics and philosophical schools, conservative in its grammar. Some texts remain difficult even for modern educated speakers.
 
-2. **Classical Helonic** (1500–500 years ago): The height of the language's refinement, used by Helionis' greatest dramatists and philosophers. This period established the norms and models still taught to poets and speakers. The works of this era remain the standard for excellence in rhetoric and expression.
+2. **Classical Helonik** (1500–500 years ago): The height of the language's refinement, used by Helionis' greatest dramatists and philosophers. This period established the norms and models still taught to poets and speakers. The works of this era remain the standard for excellence in rhetoric and expression.
 
-3. **Modern Helonic** (500 years ago–present): Increased contact vocabulary from trade languages (particularly Bizarian and [[skill-dunharlng|Dunhari]]), and the emergence of regional dialects. Yet the written language remains conservative—educated speakers and writers still aim for Classical standards.
+3. **Modern Helonik** (500 years ago–present): Increased contact vocabulary from trade languages (particularly Bizarian and [[skill-dunharlng|Dunhari]]), and the emergence of regional dialects. Yet the written language remains conservative—educated speakers and writers still aim for Classical standards.
 
 ## Regional Dialects
 
-While Helonic is relatively standardized through written tradition and the schools of rhetoric, several regional variants exist:
+While Helonik is relatively standardized through written tradition and the schools of rhetoric, several regional variants exist:
 
 Helionis City Dialect
 : The prestige standard, the speech of the stage and of formal writing. Clear vowels, careful articulation of the velar fricatives.
@@ -6516,11 +6517,11 @@ Literary Register
 
 ## Core Vocabulary
 
-The following lexicon defines the root words of Helonic. These roots appear throughout the Helonic language family—[[skill-byzarnlng|Bizarian]] and [[skill-bethunlng|Bethuan]] both derive their core vocabulary from this stock, though pronunciation and usage diverge. Sample phrases in all three languages draw from this shared foundation.
+The following lexicon defines the root words of Helonik. These roots appear throughout the Helonik language family—[[skill-byzarnlng|Bizarian]] and [[skill-bethunlng|Bethuan]] both derive their core vocabulary from this stock, though pronunciation and usage diverge. Sample phrases in all three languages draw from this shared foundation.
 
 ### Nouns
 
-| Helonic     | Meaning                            | Notes                                                   |
+| Helonik     | Meaning                            | Notes                                                   |
 | ----------- | ---------------------------------- | ------------------------------------------------------- |
 | _sothira_   | wisdom                             | fem.                                                    |
 | _thásirin_  | god                                | masc.; fem. _thásira_ (goddess)                         |
@@ -6546,7 +6547,7 @@ The following lexicon defines the root words of Helonic. These roots appear thro
 
 ### Verbs
 
-| Helonic      | Meaning                          |
+| Helonik      | Meaning                          |
 | ------------ | -------------------------------- |
 | _ésarin_     | is, exists                       |
 | _théradhin_  | to behold, contemplate           |
@@ -6562,7 +6563,7 @@ The following lexicon defines the root words of Helonic. These roots appear thro
 
 ### Adjectives & Determiners
 
-| Helonic                       | Meaning                | Notes                               |
+| Helonik                       | Meaning                | Notes                               |
 | ----------------------------- | ---------------------- | ----------------------------------- |
 | _as / ath_                    | the (def. article)     | common / neuter; pl. _asir / athir_ |
 | _fom_                         | a, some (indef.)       |                                     |
@@ -6577,7 +6578,7 @@ The following lexicon defines the root words of Helonic. These roots appear thro
 
 ### Particles & Prepositions
 
-| Helonic | Meaning                        |
+| Helonik | Meaning                        |
 | ------- | ------------------------------ |
 | _in_    | in                             |
 | _dres_  | through                        |
@@ -6619,19 +6620,19 @@ Olasin kosamir in lékhisir
 
 ## Related Languages
 
-Helonic is the ancient progenitor and prestige member of the **Helonic language family**, which includes:
+Helonik is the ancient progenitor and prestige member of the **Helonik language family**, which includes:
 
 Bizarian
-: A crossroads language blending Helonic grammar with eastern vocabulary and phonetic influence, spoken in the [[affiliation-byzarianlg|Bizarian League]]
+: A crossroads language blending Helonik grammar with eastern vocabulary and phonetic influence, spoken in the [[affiliation-byzarianlg|Bizarian League]]
 
 Bethuan
-: A distinct evolution spoken in the [[affiliation-mtrrchybth|Matriarchy of Bethua]], preserving older Helonic features but with significant innovation in its register system
+: A distinct evolution spoken in the [[affiliation-mtrrchybth|Matriarchy of Bethua]], preserving older Helonik features but with significant innovation in its register system
 
 Despite centuries of separation and contact with other language families, all three remain mutually intelligible to educated speakers, though not to common folk.
 
 ## Naming Traditions
 
-Helonic names reflect the culture's embrace of distinctive, sonorous personal identity. The naming tradition emphasizes:
+Helonik names reflect the culture's embrace of distinctive, sonorous personal identity. The naming tradition emphasizes:
 
 Patronymic honor
 : Family names often derive from ancestors or founding figures, with the suffix _-os_ (for clans) preserving this genealogical link
@@ -6947,17 +6948,17 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Zakinos
 - Zarakion
 
-## Helonic Lexicon {#lexicon}
+## Helonik Lexicon {#lexicon}
 
-A grammarian at [[affiliation-thyrenae|Thirenae]], who teaches the verse of the stage, takes a merchant's son from [[place-byzaris|Bizaris]] as a pupil, and the first lesson is that the boy already speaks Helonic and has only to find out that he does. _Sothira_ is wisdom in the theater, in a Bizaris counting-house and in a temple at [[place-bethura|Bethura]]; what changes from one mouth to the next is how the word is said, and what stands around it. The Helonic family is one written stock and three spoken tongues: Helonic, the old speech of culture and the arts, of drama, rhetoric and poetry; [[skill-byzarnlng|Bizarian]], the crossroads speech of the [[affiliation-byzarianlg|Bizarian League]], which clips the stock short and hangs eastern endings on it; and [[skill-bethunlng|Bethuan]], the island speech of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], which holds the vowels long and keeps two registers of the same grammar, one for the temple and one for the quay.
+A grammarian at [[affiliation-thyrenae|Thirenae]], who teaches the verse of the stage, takes a merchant's son from [[place-byzaris|Bizaris]] as a pupil, and the first lesson is that the boy already speaks Helonik and has only to find out that he does. _Sothira_ is wisdom in the theater, in a Bizaris counting-house and in a temple at [[place-bethura|Bethura]]; what changes from one mouth to the next is how the word is said, and what stands around it. The Helonik family is one written stock and three spoken tongues: Helonik, the old speech of culture and the arts, of drama, rhetoric and poetry; [[skill-byzarnlng|Bizarian]], the crossroads speech of the [[affiliation-byzarianlg|Bizarian League]], which clips the stock short and hangs eastern endings on it; and [[skill-bethunlng|Bethuan]], the island speech of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], which holds the vowels long and keeps two registers of the same grammar, one for the temple and one for the quay.
 
-This is the word-hoard of the three: every stem the family is known to share, what each daughter does to it, the words each daughter has that the others lack, the rules a new word is built by, and the register of every name the setting gives in the three lands. It is laid out for the table. A Helonic word met in play can be taken apart here, and a name a GM needs for a Bizarian clerk or a Bethuan priestess can be built in a minute.
+This is the word-hoard of the three: every stem the family is known to share, what each daughter does to it, the words each daughter has that the others lack, the rules a new word is built by, and the register of every name the setting gives in the three lands. It is laid out for the table. A Helonik word met in play can be taken apart here, and a name a GM needs for a Bizarian clerk or a Bethuan priestess can be built in a minute.
 
 The three tongues sound nothing alike, which is the first thing a traveler notices and the last thing a grammarian admits:
 
-- **Helonic** is musical and long-voweled. Every vowel comes short or long, and the rasp _kh_ and its voiced partner _gh_ are the sounds the rest of the west cannot make. Stress falls on the second-last syllable unless an acute says otherwise. _Sothira_, _kosamir_, _Kalidrás_.
+- **Helonik** is musical and long-voweled. Every vowel comes short or long, and the rasp _kh_ and its voiced partner _gh_ are the sounds the rest of the west cannot make. Stress falls on the second-last syllable unless an acute says otherwise. _Sothira_, _kosamir_, _Kalidrás_.
 - **Bizarian** is clipped and percussive. The stops at the ends of its words are let go with a crack, which is why every house name closes on one, and _th_ and _dh_ have flattened to _t_ and _d_. It has a buzzing _z_ and _zh_ the others lack, and in the bazaar it swallows the end of a verb whole: _esh_ for _ésharin_. _Krisandáhr_, _Siderakit_, _Ghaleniza_.
-- **Bethuan** is slow and gliding. Vowels are held and run into one another, and a word that closes on _-os_ in Helonic closes on a long _-os_ here. The feminine register pronounces every _th_ and every ending; the masculine register drops the article to a breath, _'s_. _Sotira_, _fótamir_, _Hiérissa_.
+- **Bethuan** is slow and gliding. Vowels are held and run into one another, and a word that closes on _-os_ in Helonik closes on a long _-os_ here. The feminine register pronounces every _th_ and every ending; the masculine register drops the article to a breath, _'s_. _Sotira_, _fótamir_, _Hiérissa_.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -6987,7 +6988,7 @@ SELECT CASE edge WHEN 'openCluster' THEN 'Pairs that may open a word' WHEN 'clos
 FROM edges WHERE language = 'thalorna-note-skill-helonclng' ORDER BY position
 ```
 
-A Helonic word of the old stock closes on `n`, `r`, `s`, `m`, `l` or `th`; `sh`, `z`, `zh` and the pair `hr` close Bizarian hybrid names and the bazaar's clipped verbs; `f` and `gh` close a handful of grammar words; and `t`, `k`, `d` and `b` close only the four Bizarian house endings, the eastern words of the Bizarian bazaar and the Khelathi loans of Bethuan.
+A Helonik word of the old stock closes on `n`, `r`, `s`, `m`, `l` or `th`; `sh`, `z`, `zh` and the pair `hr` close Bizarian hybrid names and the bazaar's clipped verbs; `f` and `gh` close a handful of grammar words; and `t`, `k`, `d` and `b` close only the four Bizarian house endings, the eastern words of the Bizarian bazaar and the Khelathi loans of Bethuan.
 
 ### Clusters
 
@@ -7002,9 +7003,9 @@ Three moves make every built word on this page, and a new word made the same way
 
 **An ending on a stem.** The inherited stock keeps its stems bound and gives each a family of endings: _soth-_ "wise" takes _-ira_ and gives _sothira_, wisdom, takes _-arin_ and gives _sotharin_, to hold together, takes _-ir_ and gives _sothir_, a wise one. A stem is listed in its field with the class `stem`, and the words built on it stand beside it.
 
-**Two words set together.** The first describes the second, and where a vowel meets a vowel the joining table decides what is written: _khris-_ "gold" and _andáhr_ "lord" give _Krisandáhr_, the gold-lord, a Bizarian man's name. Bizarian compounds freely; Helonic compounds only in poetry and in names.
+**Two words set together.** The first describes the second, and where a vowel meets a vowel the joining table decides what is written: _khris-_ "gold" and _andáhr_ "lord" give _Krisandáhr_, the gold-lord, a Bizarian man's name. Bizarian compounds freely; Helonik compounds only in poetry and in names.
 
-**A name-ending on a root.** A person's name is a root with an ending the tongue reserves for names, and the daughters differ most here: the same root _Méril-_ is _Mérilos_ in a Helonic school roll, _Mérilash_ on a Bizarian contract and _Mérilia_ in a Bethuan temple register. The endings stand under Making names.
+**A name-ending on a root.** A person's name is a root with an ending the tongue reserves for names, and the daughters differ most here: the same root _Méril-_ is _Mérilos_ in a Helonik school roll, _Mérilash_ on a Bizarian contract and _Mérilia_ in a Bethuan temple register. The endings stand under Making names.
 
 ### Joining
 
@@ -7034,7 +7035,7 @@ The three tongues share one stock. The parent form is the one the schools write;
 ### Roots
 
 ```sql
-SELECT '`' || max(form) FILTER (WHERE form_language = 'thalorna-note-skill-helonclng') || '`' AS "Helonic",
+SELECT '`' || max(form) FILTER (WHERE form_language = 'thalorna-note-skill-helonclng') || '`' AS "Helonik",
        '`' || max(form) FILTER (WHERE form_language = 'thalorna-note-skill-byzarnlng') || '`' AS "Bizarian",
        '`' || max(form) FILTER (WHERE form_language = 'thalorna-note-skill-bethunlng') || '`' AS "Bethuan", gloss AS "Gloss"
 FROM cognates WHERE language = 'thalorna-note-skill-helonclng'
@@ -7047,16 +7048,16 @@ Bizarian lost the breathed consonants of the schools and kept the rasps: _th_ an
 
 ### Bethuan
 
-Bethuan kept every breathed sound, which is why a hymn in the feminine register is thick with _th_; it took the eastern _f_ as Bizarian did; a doubled _s_ fell together; and a Helonic man's name in _-os_ is, in a formal register, recast on a woman's ending. The doubled _s_ is why _Wissaros_ is written _Wisaros_ in a Bethuan hand, and a temple roll recasts the name on a woman's ending as _Wisaria_.
+Bethuan kept every breathed sound, which is why a hymn in the feminine register is thick with _th_; it took the eastern _f_ as Bizarian did; a doubled _s_ fell together; and a Helonik man's name in _-os_ is, in a formal register, recast on a woman's ending. The doubled _s_ is why _Wissaros_ is written _Wisaros_ in a Bethuan hand, and a temple roll recasts the name on a woman's ending as _Wisaria_.
 
 ## Words {#words}
 
 ### Thought, measure and the schools
 
-A Helonic speaker has one word for wisdom and a dozen for ways of being wrong, because the old schools of Helionis spent their days naming errors, and wrote their debates in Helonic, the tongue of culture and the arts. The stock those schools built is the stock the daughters inherited whole: a Bizarian factor who has never read a line of philosophy still calls a fair bargain _métharin_, a measure, and a Bethuan priestess who despises the counting-house still begins her judgments with _arkhidhin_, the first principle.
+A Helonik speaker has one word for wisdom and a dozen for ways of being wrong, because the old schools of Helionis spent their days naming errors, and wrote their debates in Helonik, the tongue of culture and the arts. The stock those schools built is the stock the daughters inherited whole: a Bizarian factor who has never read a line of philosophy still calls a fair bargain _métharin_, a measure, and a Bethuan priestess who despises the counting-house still begins her judgments with _arkhidhin_, the first principle.
 
 ```sql
-SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
+SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonik' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language IN ('thalorna-note-skill-helonclng', 'thalorna-note-skill-byzarnlng', 'thalorna-note-skill-bethunlng') AND field = 'Thought, measure and the schools' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
 ORDER BY position
@@ -7064,10 +7065,10 @@ ORDER BY position
 
 ### The gods, the stage and the assembly
 
-Honor in Helionis is paid in blood and glory, and the words show it: _dokharin_, glory, is the thing a citizen owns, and a citizen stripped of it is not called wicked but _átimor_, un-honored, a man with nothing left to be judged by. The stage and the assembly share their vocabulary, because the Helonic peoples hold that a city argues as a chorus sings, many voices to one line.
+Honor in Helionis is paid in blood and glory, and the words show it: _dokharin_, glory, is the thing a citizen owns, and a citizen stripped of it is not called wicked but _átimor_, un-honored, a man with nothing left to be judged by. The stage and the assembly share their vocabulary, because the Helonik peoples hold that a city argues as a chorus sings, many voices to one line.
 
 ```sql
-SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
+SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonik' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language IN ('thalorna-note-skill-helonclng', 'thalorna-note-skill-byzarnlng', 'thalorna-note-skill-bethunlng') AND field = 'The gods, the stage and the assembly' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
 ORDER BY position
@@ -7075,10 +7076,10 @@ ORDER BY position
 
 ### Sea, river, land and sky
 
-Helionis reaches the sea along one short coast and never stops talking about it; [[place-byzariargn|Bizaria]] lives on its rivers and the roads beside them; [[place-bethuargn|Bethua]] is an island and has a word for every state of the water around it. The sky words are the schools': the hours are measured, and a Helonic day is named by its light.
+Helionis reaches the sea along one short coast and never stops talking about it; [[place-byzariargn|Bizaria]] lives on its rivers and the roads beside them; [[place-bethuargn|Bethua]] is an island and has a word for every state of the water around it. The sky words are the schools': the hours are measured, and a Helonik day is named by its light.
 
 ```sql
-SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
+SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonik' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language IN ('thalorna-note-skill-helonclng', 'thalorna-note-skill-byzarnlng', 'thalorna-note-skill-bethunlng') AND field = 'Sea, river, land and sky' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
 ORDER BY position
@@ -7086,10 +7087,10 @@ ORDER BY position
 
 ### The city, law and office
 
-Every Helonic city of note has its academies, its gymnasia and its theaters, and the words of civic life are the oldest in the stock. A Bizarian carries them east and hangs a seal on them: the League's cities keep the Helonic magistracies and add a treasurer. Bethua keeps them in the feminine register and gives every office a woman's ending.
+Every Helonik city of note has its academies, its gymnasia and its theaters, and the words of civic life are the oldest in the stock. A Bizarian carries them east and hangs a seal on them: the League's cities keep the Helonik magistracies and add a treasurer. Bethua keeps them in the feminine register and gives every office a woman's ending.
 
 ```sql
-SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
+SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonik' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language IN ('thalorna-note-skill-helonclng', 'thalorna-note-skill-byzarnlng', 'thalorna-note-skill-bethunlng') AND field = 'The city, law and office' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
 ORDER BY position
@@ -7097,10 +7098,10 @@ ORDER BY position
 
 ### Trade, coin, goods and the road
 
-Bizaris was named for its workshops, and the Bizarian tongue is the family's counting-house: it has a word for a debt that is owed, a debt that is forgiven and a debt that is sold on. A factor can state the grade of a bale of wool in one word where a Helonic merchant needs a sentence. The eastern words came up the caravan road with the goods and took Bizarian endings at the gate.
+Bizaris was named for its workshops, and the Bizarian tongue is the family's counting-house: it has a word for a debt that is owed, a debt that is forgiven and a debt that is sold on. A factor can state the grade of a bale of wool in one word where a Helonik merchant needs a sentence. The eastern words came up the caravan road with the goods and took Bizarian endings at the gate.
 
 ```sql
-SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
+SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonik' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language IN ('thalorna-note-skill-helonclng', 'thalorna-note-skill-byzarnlng', 'thalorna-note-skill-bethunlng') AND field = 'Trade, coin, goods and the road' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
 ORDER BY position
@@ -7111,7 +7112,7 @@ ORDER BY position
 The household is the one thing all three peoples name alike and rule differently. In Helionis the house is the father's and the clan name says whose line a man is of; in Bizaria the house is a firm, and the house name says what it trades; in Bethua the house is the mother's, and the woman who rules it is the _Dómissa_ in the register's own ending.
 
 ```sql
-SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
+SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonik' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language IN ('thalorna-note-skill-helonclng', 'thalorna-note-skill-byzarnlng', 'thalorna-note-skill-bethunlng') AND field = 'Kin, the person and the body' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
 ORDER BY position
@@ -7122,7 +7123,7 @@ ORDER BY position
 Bethua cannot run its tunnel-wells, keep its treasury or clear a cargo without the words it borrowed from [[skill-khelathlng|Khelathi]], and the tell of a borrowed word is the article that came with it: _en-_ or _et-_ on the front of a noun that means nothing without it. The feminine register of the temple reaches past every one of these for an inherited word, and the practical register cannot do without them.
 
 ```sql
-SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
+SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonik' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language IN ('thalorna-note-skill-helonclng', 'thalorna-note-skill-byzarnlng', 'thalorna-note-skill-bethunlng') AND field = 'Water, works and the island' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
 ORDER BY position
@@ -7133,7 +7134,7 @@ ORDER BY position
 The verbs are the schools' and they end alike, in _-arin_ or _-in_; the daughters shorten them more and more the farther they get from Thirenae. Bizarian says most of them in one or two syllables; Bethuan keeps the whole word in the feminine register and shortens it in the masculine.
 
 ```sql
-SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonic' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
+SELECT CASE language WHEN 'thalorna-note-skill-helonclng' THEN 'Helonik' WHEN 'thalorna-note-skill-byzarnlng' THEN 'Bizarian' ELSE 'Bethuan' END AS "Tongue", form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language IN ('thalorna-note-skill-helonclng', 'thalorna-note-skill-byzarnlng', 'thalorna-note-skill-bethunlng') AND field = 'Doing, going and being' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
 ORDER BY position
@@ -7145,11 +7146,11 @@ The article is the family's badge: the schools say _as_, _as_ and _ath_ for the 
 
 ## Making names {#making-names}
 
-**A Helonic person** carries a given name and a clan name, the given name first: [[being-damsnghlrn|Dámasun Gholaron]] is Dámasun of the clan Gholaron. A man's given name closes on _-os_, _-on_, _-es_ or _-is_; a woman's on _-a_, _-tha_, _-ra_ or _-ia_, and the women's names run longer and richer in vowels, which the Helonic peoples hold to be the graceful shape. A clan name is a root with _-os_, _-ides_, _-es_ or _-is_, and the root is most often an ancestor's name worn down: the clan Ghanides is the line of a Ghan nobody remembers. The names a Helionite child is given are chosen for how they will sound in the assembly, and a name is tested by saying it aloud across a room. Among friends a given name is cut to its first two syllables with the stress kept: _Dámasun_ is _Dama_ at home, and the register lists such a short form where a note gives one.
+**A Helonik person** carries a given name and a clan name, the given name first: [[being-damsnghlrn|Dámasun Gholaron]] is Dámasun of the clan Gholaron. A man's given name closes on _-os_, _-on_, _-es_ or _-is_; a woman's on _-a_, _-tha_, _-ra_ or _-ia_, and the women's names run longer and richer in vowels, which the Helonik peoples hold to be the graceful shape. A clan name is a root with _-os_, _-ides_, _-es_ or _-is_, and the root is most often an ancestor's name worn down: the clan Ghanides is the line of a Ghan nobody remembers. The names a Helionite child is given are chosen for how they will sound in the assembly, and a name is tested by saying it aloud across a room. Among friends a given name is cut to its first two syllables with the stress kept: _Dámasun_ is _Dama_ at home, and the register lists such a short form where a note gives one.
 
-**A Bizarian** carries a given name and a house name, and the tongue builds the two by different operations so that a clerk never has to ask which is which: a given name is a root with a personal ending and closes on a vowel or a continuant; a house name is a root with one of four house endings, _-ákit_ for the house of a trade, _-íkot_ for the house of a place, _-ídek_ for the house of a forebear and _-zát_ for the house of an eastern founder, and every one of them closes on a stop. [[being-chrysntssdrkt|Fibakon Siderakit]] is Fibakon of the iron-house. Three registers of given name are live at once: the old Helonic names in _-os_ and _-es_ among the merchant dynasties, eastern roots with a Helonic or Bizarian ending among families with eastern marriages, and the hybrid names that are Bizarian proper, a Helonic root with an ending no other tongue has. A merchant known formally as _Krisandáhr Nomismakit_ is _Krisha_ in the bazaar: the trade name keeps the first two syllables of the given name and nothing else.
+**A Bizarian** carries a given name and a house name, and the tongue builds the two by different operations so that a clerk never has to ask which is which: a given name is a root with a personal ending and closes on a vowel or a continuant; a house name is a root with one of four house endings, _-ákit_ for the house of a trade, _-íkot_ for the house of a place, _-ídek_ for the house of a forebear and _-zát_ for the house of an eastern founder, and every one of them closes on a stop. [[being-chrysntssdrkt|Fibakon Siderakit]] is Fibakon of the iron-house. Three registers of given name are live at once: the old Helonik names in _-os_ and _-es_ among the merchant dynasties, eastern roots with a Helonik or Bizarian ending among families with eastern marriages, and the hybrid names that are Bizarian proper, a Helonik root with an ending no other tongue has. A merchant known formally as _Krisandáhr Nomismakit_ is _Krisha_ in the bazaar: the trade name keeps the first two syllables of the given name and nothing else.
 
-**A Bethuan** is named in the register she lives in. The feminine register gives a woman's name in _-a_, _-ia_ or _-e_ and keeps every _th_; a priestess's name takes _-issa_, the office-ending that also makes the titles of the realm, and a high priestess alone takes _-e_. A man's name in the practical register is the Helonic one with the island's sounds, _-os_ with the _o_ held long; in a formal document the same man is entered under his mother's house. [[being-juthrjmthn|Júthara Jamithon]] is Júthara of the house Jamithon. The short name a Bethuan answers to is the given name's first two syllables with the first vowel held long: _Júthara_ is _Jutha_ to her sisters.
+**A Bethuan** is named in the register she lives in. The feminine register gives a woman's name in _-a_, _-ia_ or _-e_ and keeps every _th_; a priestess's name takes _-issa_, the office-ending that also makes the titles of the realm, and a high priestess alone takes _-e_. A man's name in the practical register is the Helonik one with the island's sounds, _-os_ with the _o_ held long; in a formal document the same man is entered under his mother's house. [[being-juthrjmthn|Júthara Jamithon]] is Júthara of the house Jamithon. The short name a Bethuan answers to is the given name's first two syllables with the first vowel held long: _Júthara_ is _Jutha_ to her sisters.
 
 **A place** of the old stock is a root with _-on_, _-ea_, _-ia_ or _-os_: _Thirenae_, _Pelagora_, _Kalidria_. A Bizarian town takes the schools' spelling and is most often a compound whose first word describes the second, or a root with _-ion_, the place of it: _Krusteikhos_ is the gold wall, _Argirteikhos_ the silver one, _Karvashion_ the caravan-place. A Bethuan town is named in the feminine register, in _-a_: _Bethura_, _Oshira_, _Sehela_.
 
@@ -7175,7 +7176,7 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 ### Tongues
 
 ```sql
-SELECT '`' || tag || '`' AS "Tongue", meaning || coalesce(CASE tag WHEN 'helonic' THEN ', [[' || tongue_language || '|Helonic Language]]' WHEN 'byzarian' THEN ', [[' || tongue_language || '|Bizarian Language]]' WHEN 'bethuan' THEN ', [[' || tongue_language || '|Bethuan Language]]' END, '') AS "Meaning"
+SELECT '`' || tag || '`' AS "Tongue", meaning || coalesce(CASE tag WHEN 'helonic' THEN ', [[' || tongue_language || '|Helonik Language]]' WHEN 'byzarian' THEN ', [[' || tongue_language || '|Bizarian Language]]' WHEN 'bethuan' THEN ', [[' || tongue_language || '|Bethuan Language]]' END, '') AS "Meaning"
 FROM tongues WHERE language = 'thalorna-note-skill-helonclng' ORDER BY position
 ```
 

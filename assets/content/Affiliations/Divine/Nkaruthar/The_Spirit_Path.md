@@ -91,7 +91,7 @@ An Okharik villager goes to the pyramid at the turning of the year and to the ca
 is wrong.
 
 To outsiders this is incomprehensible. Au'Khelathu priests and Vilérian factors have written the
-Okharics down as muddled, as syncretists, as people who have not finished deciding—and the
+Okharik down as muddled, as syncretists, as people who have not finished deciding—and the
 question they keep asking, which of the two is really believed, is one no Okharik can find a use
 for. To insiders it is not a compromise between two systems. It is simply the natural order of
 things: the Flame is what the world is made of and the zohira are who you deal with about the

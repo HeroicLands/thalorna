@@ -109,7 +109,7 @@ A howe is a claim as well as a grave: a line proves its _odel_ land by the howes
 
 ## Stormveld: the Plain Across the Water
 
-Sixty years ago, Nordmen crossed to the island of [[place-aelwyth|Aelwyth]] and took its north-east, the one large body of good arable on the island. The [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] is the only realm of the Nordmen that is not a kingdom. It is a loose confederation of jarldoms, each with its own hall, levy and moot, under a [[lore-highjarlrnk|High Jarl]] elected from among them, and its elections sometimes end in armed contests. About 30,000 Nordmen hold it. About 120,000 native people of [[lore-vardain|the Vardain]] work [[place-stormplain|the Stormplain]] as their thralls, four in five of the Jarldom's people the property of the fifth.
+Sixty years ago, Nordmen crossed to the island of [[place-aelwyth|Eilwith]] and took its north-east, the one large body of good arable on the island. The [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] is the only realm of the Nordmen that is not a kingdom. It is a loose confederation of jarldoms, each with its own hall, levy and moot, under a [[lore-highjarlrnk|High Jarl]] elected from among them, and its elections sometimes end in armed contests. About 30,000 Nordmen hold it. About 120,000 native people of [[lore-vardain|the Vardain]] work [[place-stormplain|the Stormplain]] as their thralls, four in five of the Jarldom's people the property of the fifth.
 
 Seen from the Nordlands, Stormveld is arithmetic: a people whose land could not feed them took land that could. Seen from the plain, it is a conquest. The country was [[place-vardanreach|Vardanreach]], and the Vardain were a nation for thousands of years before the Nordmen came. They keep their speech and observances out of sight, and they have risen twice. At [[place-stormveil|Stormveil]], the seat, the thralls' quarters lie down the slope and apart from the hall. Thoughtful Nordmen themselves dispute an honor that protects a guest at the hearth and excuses the enslavement of strangers.
 
@@ -149,7 +149,7 @@ These are the rules strangers break most often:
 
 ## Ways In
 
-A party can arrive by sea at Knalthstead or Gnarthborg, sign on with a free company at Hringstead, come up from [[place-vrystwald|Vristwald]], where Nordmen settlers and the [[lore-varokhiclt|Varokh]] contest the forest, or cross from Aelwyth. A character from the north might be a bundi's younger child looking for a hall, a skald's apprentice who must one day recite against a patron, a fosterling owed care by a jarl, or a shield-maiden signed to a company. An outsider who settles counts as a _lidmadur_ and needs a following to vouch for them.
+A party can arrive by sea at Knalthstead or Gnarthborg, sign on with a free company at Hringstead, come up from [[place-vrystwald|Vristwald]], where Nordmen settlers and the [[lore-varokhiclt|Varokh]] contest the forest, or cross from Eilwith. A character from the north might be a bundi's younger child looking for a hall, a skald's apprentice who must one day recite against a patron, a fosterling owed care by a jarl, or a shield-maiden signed to a company. An outsider who settles counts as a _lidmadur_ and needs a following to vouch for them.
 
 At the first hall, three questions place a character in the north: **Whose kin are you? What have you sworn? Who will stand behind you at the ting?**
 
@@ -182,5 +182,5 @@ Every hall in the north sings, and a handful of works are sung in all of them. T
 - [[affiliation-asguardian|The Asguardian Pantheon]] for the Ten, the blet and Aldarlok
 - [[lore-nrdlndsraid|The Raid and the Longship]], [[lore-nrdlndswhal|the Whale Strand]] and [[lore-nrdlndsseal|the Ice-Edge and the Rookery]] for the ships and the sea that feeds them
 - [[affiliation-skaldscrcl|The Skalds' Circle]] and [[affiliation-malldbndlg|the Málalidabandalag]] for the north's memory and its swords for hire
-- [[affiliation-jrldmstrmvld|The Jarldom of Stormveld]] for the conquered plain on Aelwyth
+- [[affiliation-jrldmstrmvld|The Jarldom of Stormveld]] for the conquered plain on Eilwith
 - [[skill-nordmalng|Nordmal]] for the tongue and how a name is built in it

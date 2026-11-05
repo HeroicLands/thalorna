@@ -3,7 +3,7 @@ shortcode: vorgald
 name: {full: Vorgald}
 type: place
 subType: settlement
-description: "A Khazari hold in the eastern heights of the Ironfells—known to exist, effectively impossible to reach, and holding no relationship with any realm on Aelwyth."
+description: "A Khazari hold in the eastern heights of the Ironfells—known to exist, effectively impossible to reach, and holding no relationship with any realm on Eilwith."
 tags: [sacred, mountain]
 data:
   demonym: null
@@ -16,16 +16,16 @@ data:
 
 **Vorgald** is a hold of the [[lore-flkkhazar|Khazari]] in the eastern heights of
 [[place-ironfells|the Ironfells]], where the range meets the sea cliffs. It is the only Khazari presence
-anyone on [[place-aelwyth|Aelwyth]] can name, and almost everything said about it is inference.
+anyone on [[place-aelwyth|Eilwith]] can name, and almost everything said about it is inference.
 
 ## What Is Known
 
-That it is there. Aelwythans have known for centuries, in the way such things are known: lights in
+That it is there. Eilwithans have known for centuries, in the way such things are known: lights in
 places with no business having them, openings in the cliff that are not quite natural, and the very occasional
 cloaked figure appearing at a market to buy specific materials, pay in worked metal of impossible
 quality, and leave without conversation.
 
-Vorgald is the Aelwythan rendering of the Khazari **Varíg**, "farthest", a name that reached the island
+Vorgald is the Eilwithan rendering of the Khazari **Varíg**, "farthest", a name that reached the island
 through one of those transactions.
 
 ## Getting There
@@ -38,12 +38,12 @@ any secret of them.
 found a doorway, in a cliff face, that would not open and could not be marked in any way that was still
 there the following season.
 
-## What Aelwyth Was For
+## What Eilwith Was For
 
 There is a reason both elder races are on this island, and it is not coincidence.
 
 After [[lore-khazarturn|Khazartúrn]] the [[lore-flksinale|Sinale]] recovered [[miscgear-secondvoice|the Second Voice]], and the two peoples
-made the only agreement they have reached since: the relic would be **held in trust on Aelwyth, by both
+made the only agreement they have reached since: the relic would be **held in trust on Eilwith, by both
 races together**—this being the one country in the world where Sinale and Khazari still shared ground,
 and therefore the only place neither would be trusted to keep it alone.
 
@@ -58,23 +58,23 @@ finish it alone.
 
 ## The Old Kingdom
 
-Aelwyth was once ruled by both elder races together, and it was not an ancient inheritance. It was an
+Eilwith was once ruled by both elder races together, and it was not an ancient inheritance. It was an
 **attempt at repair**.
 
 Khazartúrn fell in 2427 BF and the two peoples stopped speaking everywhere in the
-world—except here. The Sinale and Khazari of Aelwyth in time united the island under a **single crown**, held
+world—except here. The Sinale and Khazari of Eilwith in time united the island under a **single crown**, held
 by a Sinale king, and managed its affairs jointly for **six hundred years**. [[lore-jointcrown|The Joint Crown]] began about 1585 BF. It is the only reconciliation
 either race has ever attempted, and the works of that period are still in the ground: [[place-aelwyth|roads that run where
-no later road runs]], cut stone [[lore-vardain|the Vardain]] cannot match, foundations under three Aelwythan
+no later road runs]], cut stone [[lore-vardain|the Vardain]] cannot match, foundations under three Eilwithan
 towns that nobody has satisfactorily dated.
 
-It ended with people who had nowhere else to go. The **[[lore-pelwarpepl|Pelwar]]** reached Aelwyth around **1200 BF**,
+It ended with people who had nowhere else to go. The **[[lore-pelwarpepl|Pelwar]]** reached Eilwith around **1200 BF**,
 driven off the mainland by the [Varkhad]{.name data-type="lore/folk"} ([[lore-varkhadcnq|The Varkhad Conquest]]); two centuries of pressure became the **[Great
 War]{.name data-type="lore/history"}**; and in **984 BF** the king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]]. The surviving
 Sinale withdrew into the forest that is now the Hallowwood and
 left the Khazari to finish the war alone.
 
-They finished it. They have never forgiven it, and the two elder races of Aelwyth have had nothing to do
+They finished it. They have never forgiven it, and the two elder races of Eilwith have had nothing to do
 with one another since.
 
 For the Khazari of this hold it was the second abandonment in fourteen hundred years—and the second, unlike
@@ -107,7 +107,7 @@ goes through Vardain hands.
 ## The Grukar
 
 The Khazari of Vorgald extend a measured indifference to nearly everything on this island. They extend
-none whatever to [[lore-grukaraelwyth|Grukar]], who have been on Aelwyth for some seven hundred
+none whatever to [[lore-grukaraelwyth|Grukar]], who have been on Eilwith for some seven hundred
 years and in these mountains for most of them.
 
 They kill them **immediately, wherever found, without negotiation and without exception**—and without
@@ -132,7 +132,7 @@ asked for more.
 
 ## No Relationship
 
-No Aelwythan realm has a treaty, an understanding, an embassy or a correspondence with Vorgald. Nobody
+No Eilwithan realm has a treaty, an understanding, an embassy or a correspondence with Vorgald. Nobody
 who was not born in the valleys has been invited in. The
 [[affiliation-dunavarsynod|Synod]] has attempted contact repeatedly, by every method available to it, and
 records the results in a file it does not discuss.

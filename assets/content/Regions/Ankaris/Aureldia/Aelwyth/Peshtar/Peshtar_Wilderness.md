@@ -3,7 +3,7 @@ shortcode: pshtrwldrns
 name: {full: Peshtar Wilderness, en: [Peshtar Highlands]}
 type: place
 subType: region
-description: Ungoverned highland forests of the Peshtar tribes—animist, shamanic, and fiercely independent within the Misty Isle of Aelwyth.
+description: Ungoverned highland forests of the Peshtar tribes—animist, shamanic, and fiercely independent within the Misty Isle of Eilwith.
 tags: [region]
 data:
   demonym: Peshtar
@@ -12,14 +12,14 @@ data:
   population: 63000
   packFolder: aelwyth
 
-# terran_analog: "Ireland—the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior."
+# terran_analog: "Ireland—the great western arm of the inverted-V Eilwithan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior."
 ---
 
-The Peshtar Wilderness is the ungoverned highland quarter of [[place-aelwyth|Aelwyth]]—rugged mountains, old-growth forests, boggy upland moors, and mist-choked valleys that have resisted every attempt at conquest, incorporation, or civilization for as long as Aelwyth has kept written records. Nominally part of the Misty Isle, it lies entirely beyond the writ of any crowned king, and the Peshtar tribes who inhabit it regard all outside authority as trespass. The region is a running scandal to the lowland kingdoms, an opportunity for mercenary recruiters, and a spiritual mystery to the older Aureldian clergy who suspect that some of what the Peshtar worship may be older than any pantheon on record.
+The Peshtar Wilderness is the ungoverned highland quarter of [[place-aelwyth|Eilwith]]—rugged mountains, old-growth forests, boggy upland moors, and mist-choked valleys that have resisted every attempt at conquest, incorporation, or civilization for as long as Eilwith has kept written records. Nominally part of the Misty Isle, it lies entirely beyond the writ of any crowned king, and the Peshtar tribes who inhabit it regard all outside authority as trespass. The region is a running scandal to the lowland kingdoms, an opportunity for mercenary recruiters, and a spiritual mystery to the older Aureldian clergy who suspect that some of what the Peshtar worship may be older than any pantheon on record.
 
 ## Geography
 
-The Peshtar Wilderness occupies the northwestern quarter of Aelwyth, the largest island of the [[place-aureldirgn|Aureldian]] sphere. Its physical character is defined by highland terrain—granite ridges, glacial valleys, cold fast rivers, and peat-soaked upland moor—with dense forests of oak, pine, and ancient hazel covering everything below the treeline. Fog is a near-constant presence: the lowlanders call the region "the cloud-country," and travelers report that one can climb for a full day without seeing the sun through the mist.
+The Peshtar Wilderness occupies the northwestern quarter of Eilwith, the largest island of the [[place-aureldirgn|Aureldian]] sphere. Its physical character is defined by highland terrain—granite ridges, glacial valleys, cold fast rivers, and peat-soaked upland moor—with dense forests of oak, pine, and ancient hazel covering everything below the treeline. Fog is a near-constant presence: the lowlanders call the region "the cloud-country," and travelers report that one can climb for a full day without seeing the sun through the mist.
 
 The coastline is cliff-bound, broken by a handful of rocky inlets that the tribes use for fishing and occasional coastal raids but that support no real harbors. The one or two natural anchorages that might have made good ports have never been developed—the Peshtar have no interest in concentrated settlement of any kind, and any outsider who has tried to build a port has had his workers harassed, his materials burned, and his stockade overrun within a season.
 
@@ -46,7 +46,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ## Peoples and Culture
 
-The Peshtar are a fierce and fractious highland people, descended from the [[lore-pelwarpepl|Pelwar refugees]] who reached Aelwyth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands.
+The Peshtar are a fierce and fractious highland people, descended from the [[lore-pelwarpepl|Pelwar refugees]] who reached Eilwith around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands.
 
 Peshtar society is organized around the clan, which is in turn organized around the war-chief and the shaman. The war-chief is the martial leader—typically the foremost warrior of his lineage, chosen by the acclamation of the clan's warriors and holding his position only as long as he remains the foremost warrior. The shaman is the spiritual and legal authority—trained from childhood in the clan's mysteries and the landscape's lore, invested with authority over questions of ritual and inheritance and dispute. The two offices balance one another; neither alone can rule, and clans whose war-chief and shaman openly quarrel tend to fission.
 
@@ -78,13 +78,13 @@ Peshtar warriors occasionally take service as mercenaries in the lowland kingdom
 
 To the **south** lies the [[affiliation-repblcndrth|Republic of Ondareth]], which has borne the brunt of Peshtar raiding for centuries and whose border is a long line of fortified farmsteads, watch-burgs, and burned-over no-man's-land. Relations are formally hostile, practically managed.
 
-To the **east** lies the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Nordmen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aureldian polities.
+To the **east** lies the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] and other Nordmal-descended polities of Eilwith. The Peshtar and the Nordmen of Eilwith share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aureldian polities.
 
 To the **north and west** lies the sea. The Peshtar have no maritime ambition, and the cliff coasts discourage any outside power from attempting a landing in strength.
 
 ## See Also
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : the parent island
 
 [[affiliation-repblcndrth|Republic of Ondareth]]
@@ -108,7 +108,7 @@ To the **north and west** lies the sea. The Peshtar have no maritime ambition, a
 ## Extent and Peoples
 
 The **Peshtar Wilderness** is not a polity and does not consider itself one. It covers the **entire
-north-west of Aelwyth and much of the northern coast**, and it holds, with the other unsettled country,
+north-west of Eilwith and much of the northern coast**, and it holds, with the other unsettled country,
 roughly **125,000** people—about a sixth of everyone on the island.
 
 They are not one people. The wilderness supports many **tribal cultures**, differing in speech, custom
@@ -118,7 +118,7 @@ settled realms are intermittent, wary and mostly commercial.
 
 Beyond Peshtar proper, further tribal communities live in **isolated wooded settlements** through the
 island's interior and its eastern and southern zones, in the deep forest that covers a third of
-Aelwyth. These are markedly **more warlike** than the northern tribes—they raid, they are raided, and
+Eilwith. These are markedly **more warlike** than the northern tribes—they raid, they are raided, and
 they have long memories about which is owed—and the settled realms treat the forest margins as
 frontier rather than as border.
 
@@ -127,7 +127,7 @@ frontier rather than as border.
 For **more than five hundred years** the peoples of the wilderness have been fighting
 [[lore-grukaraelwyth|Grukar]].
 
-The Grukar reached Aelwyth some seven centuries ago and established themselves in exactly the country
+The Grukar reached Eilwith some seven centuries ago and established themselves in exactly the country
 the tribes live in—the deep forest, the wooded folds, the moor. There is no lowland chronicle of the
 fighting because no lowland realm has ever been in it, and the tribes have neither the means nor the
 inclination to send anybody an account.

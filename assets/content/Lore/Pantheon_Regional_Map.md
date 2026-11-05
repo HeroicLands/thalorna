@@ -29,7 +29,7 @@ The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant pantheon of we
 [[place-elavendre|Elavendre]]
 : practiced alongside the older Áelendan tradition of [[affiliation-theoldway|the Old Way]] and its fae/nature traditions
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : dominant in southern kingdoms
 
 [[place-tarvenirgn|Tarvénia]]
@@ -58,7 +58,7 @@ The [[affiliation-asguardian|Asguardian Pantheon]] is the pantheon of the frozen
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 : core homeland of the Asguardian faith
 
-Northern [[place-aelwyth|Aelwyth]]
+Northern [[place-aelwyth|Eilwith]]
 : brought by [[lore-nordheimnclt|Nordmen]] settlers
 
 **Secondary influence:**

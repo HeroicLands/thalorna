@@ -172,7 +172,7 @@ Kingdom of Élavendre uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / 
 [[place-elavendre|Élavendre]]
 : Regional overview
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : Cultural cousin across the water
 
 [[affiliation-arldnpnthn|Aureldian]]

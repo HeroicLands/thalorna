@@ -156,7 +156,7 @@ A Dómissa sits in judgment over her own clansfolk, a Hégissa holds the courts,
 
 ## Learning and the Foreign Eye
 
-The [[skill-bethunlng|Bethuan tongue]] is related to [[skill-helonclng|Helonic]] by an ancient migration, and Bethuan scholars keep up a correspondence with Helionite intellectuals that both sides find useful. An educated Bethuan woman reads both.
+The [[skill-bethunlng|Bethuan tongue]] is related to [[skill-helonclng|Helonik]] by an ancient migration, and Bethuan scholars keep up a correspondence with Helionite intellectuals that both sides find useful. An educated Bethuan woman reads both.
 
 Toward foreigners the realm is exact and cool. A foreign man trading in a Bethuan port is suffered, not welcomed: served fairly, his coin taken, his contracts honored, and met throughout with a condescension he can do nothing about. Part of it is simple affront, since a free man trading on his own account presumes as of right to do what no Bethuan man may do. A foreign woman trading on her own account meets none of it, and often finds Bethua the easiest market on the coast.
 
@@ -240,9 +240,9 @@ The sin is the Spadai. The realm takes boys young, unmakes them, binds them by o
 : the gods, and the three goddess-orders that govern
 
 [[skill-bethunlng|Bethuan]]
-: the tongue and its Helonic kinship
+: the tongue and its Helonik kinship
 
-[[skill-helonclng#lexicon|Helonic Lexicon]]
+[[skill-helonclng#lexicon|Helonik Lexicon]]
 : the words of the House, the water and the island
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]

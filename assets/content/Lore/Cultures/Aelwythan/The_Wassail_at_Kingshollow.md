@@ -384,4 +384,4 @@ And the barons rememberen, and so doen the men.
 ## See Also
 
 - [[place-kingsholow|Kingshollow]] · [[lore-kingshlwcrwn|the Crowning at Kingshollow]] · [[affiliation-kngdmldrth|the Kingdom of Aldorath]]
-- [[lore-aelwythanclt|The Aelwythans]]—the barons' gift and the midwinter feast
+- [[lore-aelwythanclt|The Eilwithans]]—the barons' gift and the midwinter feast

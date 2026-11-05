@@ -14,7 +14,7 @@ data:
   government: repblcndrth
 ---
 
-**Thornbury** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on [[place-aelwyth|Aelwyth]]'s western
+**Thornbury** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on [[place-aelwyth|Eilwith]]'s western
 coast: fourteen thousand people, the republic's chief harbor, and the stage on which its entire
 political performance is mounted.
 
@@ -56,4 +56,4 @@ masters comply, resentfully and without exception, with the requirement to call 
 
 ## See Also
 
-- [[affiliation-repblcndrth|Republic of Ondareth]] · [[place-aelwyth|Aelwyth]]
+- [[affiliation-repblcndrth|Republic of Ondareth]] · [[place-aelwyth|Eilwith]]

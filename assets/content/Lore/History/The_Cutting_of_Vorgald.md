@@ -1,6 +1,6 @@
 ---
 shortcode: vorgaldcut
-name: {full: The Cutting of Vorgald, en: [The Khazari Reach Aelwyth]}
+name: {full: The Cutting of Vorgald, en: [The Khazari Reach Eilwith]}
 type: lore
 subType: history
 description: "Around 3100 BF the Khazari cut Vorgald in the eastern Ironfells—the westernmost hold they ever placed and the only one reached across open sea—and bring across the farmers beneath it who become the Vardain."
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [place-ironfells, lore-flkkhazar, lore-grukaraelwyth]
       summary: >-
-        In the late centuries of Khazartúrn the Khazari carry a hold further west than they ever carry another, across open sea, and cut Vorgald in the eastern Ironfells of Aelwyth. Because a hold cannot import what it eats, the Khazari bring a small company of humans across with them to farm beneath it, a much older people than the Pelwar. Their descendants become the Vardain, and Aelwyth becomes the one country where both Elder Races are living on the same ground.
+        In the late centuries of Khazartúrn the Khazari carry a hold further west than they ever carry another, across open sea, and cut Vorgald in the eastern Ironfells of Eilwith. Because a hold cannot import what it eats, the Khazari bring a small company of humans across with them to farm beneath it, a much older people than the Pelwar. Their descendants become the Vardain, and Eilwith becomes the one country where both Elder Races are living on the same ground.
       standing: single-source
       where:
         locus: [place-vorgald]
@@ -41,7 +41,7 @@ data:
           agrees: partly
           withholds: everything else about the hold
         - by: place-aelwyth
-          says: Nothing. No Aelwythan record goes anywhere near it.
+          says: Nothing. No Eilwithan record goes anywhere near it.
           agrees: silent
       unresolved: [how a date held inside a hold reaches anybody outside it]
 ---

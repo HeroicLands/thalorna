@@ -58,7 +58,7 @@ data:
       stated: {calendar: wintertally, text: "51 TW"}
       sources: [lore-pelwarmigr, place-edriwald, affiliation-alndnwrdns, place-aelwyth]
       summary: >-
-        The Pelwar who will not stay to be married leave west along the bay shore that is now Edriwald, toward the coast and the crossing to Aelwyth. They gather at a stone landing the Varokh never learned to use and leave behind rock shrines, springs and burial places the host has no names for.
+        The Pelwar who will not stay to be married leave west along the bay shore that is now Edriwald, toward the coast and the crossing to Eilwith. They gather at a stone landing the Varokh never learned to use and leave behind rock shrines, springs and burial places the host has no names for.
       standing: reconstructed
       names: [{name: the Driving-Out along the Bay, by: lore-varokhiclt}]
       where:
@@ -91,7 +91,7 @@ About 1250 BF that host reached the eastern edge of the forest that is now [[pla
 
 ## The Driving-Out along the Bay
 
-The Pelwar who would neither fight nor marry went west. They followed the bay shore that the Varokh now call [[place-edriwald|Edriwald]] toward the coast, and the reciters keep the road they took as the lost shore path, which the singers of [Skaldwald]{.name data-type="place/settlement"} still claim to know. They gathered at a stone landing on the bay, [[place-theodhaven|Theódhaven]], the folk's haven, and crossed in whatever would float. The ones who reached [[place-aelwyth|Aelwyth]] about 1200 BF arrived, as the island's own accounts put it, driven off the mainland by the Varkhad. Most of them did not arrive at all.
+The Pelwar who would neither fight nor marry went west. They followed the bay shore that the Varokh now call [[place-edriwald|Edriwald]] toward the coast, and the reciters keep the road they took as the lost shore path, which the singers of [Skaldwald]{.name data-type="place/settlement"} still claim to know. They gathered at a stone landing on the bay, [[place-theodhaven|Theódhaven]], the folk's haven, and crossed in whatever would float. The ones who reached [[place-aelwyth|Eilwith]] about 1200 BF arrived, as the island's own accounts put it, driven off the mainland by the Varkhad. Most of them did not arrive at all.
 
 They left holy ground behind them that the host did not understand: rock-cut shrines at the landing, springs, and burial places with no Varokh name. The [[affiliation-alndnwrdns|Áelendan Wardens]] keep Varokh parties off several of those places on the Edriwald shore to this day, and they have never said for whom.
 

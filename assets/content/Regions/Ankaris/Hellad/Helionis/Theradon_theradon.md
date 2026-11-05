@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Theradon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the [Theradic Gulf]{.name data-type="place/feature"}, known for its philosophers, physicians and natural historians and for an [[affiliation-panepistmm|Epistémion]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Theradon]]. Theradon fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in 330 BF, the first city of the war to fall, and lost its mage-warlord and his workshop in the same season. The chapterhouse does not teach that year.
+Theradon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the [Theradik Gulf]{.name data-type="place/feature"}, known for its philosophers, physicians and natural historians and for an [[affiliation-panepistmm|Epistémion]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Theradon]]. Theradon fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in 330 BF, the first city of the war to fall, and lost its mage-warlord and his workshop in the same season. The chapterhouse does not teach that year.
 
 Government
 : oligarchic assembly of the wealthiest and most educated citizens
@@ -111,7 +111,7 @@ Theradon uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel
 - [[affiliation-ctysttshlns|City-States of Helionis]]—the seven cities and how they are governed
 - [[place-helionis|Helionis]]—the region
 - [[place-theradon2|Theradon]]—the city itself
-- [[skill-helonclng|Helonic]]—the naming tradition
+- [[skill-helonclng|Helonik]]—the naming tradition
 - [[affiliation-arldnpnthn|Aureldian Pantheon]]—the shared faith
 - [[affiliation-panepistmm|Epistémion]]—the scholarly federation
 - [[lore-dragondead|The Dragon Dead at Theradon]]

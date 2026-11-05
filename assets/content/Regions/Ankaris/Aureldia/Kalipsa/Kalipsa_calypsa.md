@@ -158,7 +158,7 @@ Kalipsa uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel)
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : Principal Nordmen trading partner
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : Southern island neighbor
 
 [[skill-nordmalng|Nordmal]], [[skill-valtarlng|Valtari]]

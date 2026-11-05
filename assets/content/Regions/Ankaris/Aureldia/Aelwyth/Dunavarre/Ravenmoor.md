@@ -3,7 +3,7 @@ shortcode: ravenmoor
 name: {full: Ravenmoor}
 type: place
 subType: settlement
-description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Aelwyth and the mainland—where the Arcane Order inspects the island's entire commerce, and takes particular interest in anything magical."
+description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Eilwith and the mainland—where the Arcane Order inspects the island's entire commerce, and takes particular interest in anything magical."
 tags: [city, port, coastal]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   government: kingdmdnvr
 ---
 
-Ravenmoor stands on [[place-aelwyth|Aelwyth]]'s south-eastern coast where the open moor that gives it its name breaks
+Ravenmoor stands on [[place-aelwyth|Eilwith]]'s south-eastern coast where the open moor that gives it its name breaks
 off into a deep sheltered anchorage. Thirty-five hundred people, the seat of the
 [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the seat of the [[affiliation-dunavarsynod|Synod]].
 
@@ -23,13 +23,13 @@ it is the one every ship must enter. In the hall of the Synod the last king's ch
 
 ## The Compulsory Call
 
-The Synod **requires every vessel crossing between the mainland and Aelwyth to put in at Ravenmoor
+The Synod **requires every vessel crossing between the mainland and Eilwith to put in at Ravenmoor
 first**: inbound before it may proceed to any other port on the island, outbound before it may leave for
 the mainland. There are no exceptions worth the name, and the requirement applies to Ondarethan,
 Aldorathi and Stormveld shipping exactly as it applies to foreigners. The Synod instituted the call in 660 AF, the year the Nordmen took the north-east of the island ([[lore-stormveldtkn|the Taking of Stormveld]]), in the name of a coast that had just been invaded.
 
 The Synod's officers inspect cargo and manifests as customs officials anywhere would, looking for
-prohibited goods in both directions. That much is unremarkable and, on the whole, welcome: Aelwyth's
+prohibited goods in both directions. That much is unremarkable and, on the whole, welcome: Eilwith's
 other realms have no capacity to police their own coasts and quietly benefit from someone doing it.
 
 What is not unremarkable is the second interest. **Anything magical is reported.** Relics, worked
@@ -38,19 +38,19 @@ frequently detained—for study, for valuation, for safekeeping, according to wh
 chooses. Compensation is offered and is usually fair. Refusal is possible in principle.
 
 Nothing about this is concealed. The Synod's stated reason is that unexamined magic entering or leaving
-an island as fae-touched as Aelwyth is a danger to everyone, which is true, and not the whole truth: the
-requirement means that no relic has left Aelwyth in living memory without the [[affiliation-ordoarcanis|Arcane Order]] seeing it first, and
+an island as fae-touched as Eilwith is a danger to everyone, which is true, and not the whole truth: the
+requirement means that no relic has left Eilwith in living memory without the [[affiliation-ordoarcanis|Arcane Order]] seeing it first, and
 no mainland working has arrived without the same.
 
 ## What Happens to Those Who Try It
 
 The compulsory call is not enforced by ships, and the Synod has never in its history threatened anyone
-over it. It does not need to. Its instrument is the thing every ruler on Aelwyth most wants to keep.
+over it. It does not need to. Its instrument is the thing every ruler on Eilwith most wants to keep.
 
 **Arcane Order advisors serve in almost every significant polity**, here and across the world. Their value is
 inestimable and their rulers know it: a court mage's knowledge, judgment and power are advantages no
 neighbor without one can match, and every person of consequence wants one. They are not neutral
-scholars for hire. They are members of an order, and on Aelwyth that order answers to the **Synod at
+scholars for hire. They are members of an order, and on Eilwith that order answers to the **Synod at
 Ravenmoor**, which is its central chantry for the whole island.
 
 So the first sanction is simply **withdrawal**. Word goes out to the Arcane Order in the offending realm, and
@@ -81,8 +81,8 @@ back. Neither has discussed it since.
 The other realms dislike the compulsory call and comply with it, out of a combination of fear and
 indifference. They are **afraid of Dúnavarre** and would rather not discover what testing the Synod
 costs. And they do not much care: an insular people with no interest in the mainland gives up little by
-letting someone else handle the mainland, and every Aelwythan realm is far more exercised by what
-happens on Aelwyth than by what arrives from beyond it.
+letting someone else handle the mainland, and every Eilwithan realm is far more exercised by what
+happens on Eilwith than by what arrives from beyond it.
 
 [[affiliation-repblcndrth|Ondareth]] dislikes it most and most loudly—a trading republic on the far
 side of the island, obliged to send its shipping the long way round to be searched by mages it despises—and its Senate has passed resolutions on the matter for sixty years without once refusing to comply.
@@ -93,16 +93,16 @@ choice rather than in defiance of it. Its trade and its wars run north to the
 north-east coast without troubling Ravenmoor.
 
 The Synod does not stop them because it **does not care**. The compulsory call was never really about
-customs; it is about the channel between Aelwyth and the Aureldian world—what knowledge crosses it,
+customs; it is about the channel between Eilwith and the Aureldian world—what knowledge crosses it,
 what relics cross it, and who arrives by it. Northern traffic carries iron, timber, thralls' produce and
 quarrels between jarls, none of which bears on any of that. So the Synod watches the eastern water
 closely, ignores the northern water entirely, and has never troubled to explain the distinction to
 anyone who resents it.
 
-The practical effect is that the Synod sees the entire commerce of Aelwyth, knows every mainland visitor
+The practical effect is that the Synod sees the entire commerce of Eilwith, knows every mainland visitor
 before that visitor reaches anyone else, and can shape what the island learns of the world by choosing
-what may cross. Of all the ways Aelwyth is kept insular, this is the only deliberate one.
+what may cross. Of all the ways Eilwith is kept insular, this is the only deliberate one.
 
 ## See Also
 
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-wraymouth|Wraymouth]] · [[place-aelwyth|Aelwyth]]
+- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-wraymouth|Wraymouth]] · [[place-aelwyth|Eilwith]]

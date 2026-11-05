@@ -294,7 +294,7 @@ text rather than becoming a broken link.
 
 ## Bold names in northern prose
 
-A proper name in the Nordlands and Vrystwald notes is either the subject of the
+A proper name in the Nordlands and Vristwald notes is either the subject of the
 paragraph that introduces it or a pointer to the note that tells its story.
 
 - **A name with an account elsewhere is a wikilink, not bold.** A king, a royal

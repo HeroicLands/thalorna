@@ -3,7 +3,7 @@ shortcode: sixhillsvyl
 name: {full: Six Hills}
 type: place
 subType: feature
-description: "The six hills on the eastern bank of the River Vylaris on which Orzara stands, from the walled crown of Arvel to the packed tenements of Nerval; the high ground is the good ground, and the city's water, fire and rank all run downhill."
+description: "The six hills on the eastern bank of the River Vilaris on which Orzara stands, from the walled crown of Arvel to the packed tenements of Nerval; the high ground is the good ground, and the city's water, fire and rank all run downhill."
 tags: [vylaria, orzara]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
 
 ## Overview {#overview}
 
-Everything in [[place-orzara|Orzara]] is carried up or down one of six hills, and a bearer learns the names before he learns the streets. The Six Hills stand in a cluster on the eastern bank of the [[place-vylarisrvr|River Vylaris]], and the city's bounds follow their contours rather than any drawn circle: an irregular sprawl, kinked along the river and notched and bulging wherever the high ground runs.
+Everything in [[place-orzara|Orzara]] is carried up or down one of six hills, and a bearer learns the names before he learns the streets. The Six Hills stand in a cluster on the eastern bank of the [[place-vylarisrvr|River Vilaris]], and the city's bounds follow their contours rather than any drawn circle: an irregular sprawl, kinked along the river and notched and bulging wherever the high ground runs.
 
 A bearer who has carried firewood, water and wine up the hill-lanes for thirty years teaches an apprentice by the slope: "The high ground is the good ground. Better air, better view, and nobody's cart-wheels in your ear. But nothing up there comes to you. You carry it, one load at a time, and that is how the great houses know what an address costs."
 
@@ -86,5 +86,5 @@ The [Vilérian Republic]{.name data-type="affiliation/polity"} built its city on
 [[place-warrensorz|Warrens]]
 : the tenements packed on Nerval
 
-[[place-vylarisrvr|River Vylaris]]
+[[place-vylarisrvr|River Vilaris]]
 : the river below them

@@ -392,7 +392,7 @@ Hildwyn Browning is a 20-year-old woman who stands 5'6" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Hildwyn Browning is a prostitute.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Hildwyn Browning is a prostitute.
 
 Hildwyn works at a busy brothel but has strong ties to [[affiliation-graytide|the Gray Tide]]. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
 
@@ -412,7 +412,7 @@ She is persuasive, resourceful, and good at gathering information.
 
 ## Social
 
-Hildwyn belongs to the Gray Tide, a maritime crime network operating in Aelwyth.
+Hildwyn belongs to the Gray Tide, a maritime crime network operating in Eilwith.
 
 ## Companions
 
@@ -436,7 +436,7 @@ Echoes of the Past
 : Someone from the family Hildwyn left behind finds her at the brothel.
 
 Shifting Winds
-: Political change in Aelwyth threatens the Gray Tide's hold on the docks, and Hildwyn can adapt, resist, or leave.
+: Political change in Eilwith threatens the Gray Tide's hold on the docks, and Hildwyn can adapt, resist, or leave.
 
 The Opportunity
 : The Gray Tide offers Hildwyn a place in the organization that would take her out of the brothel, and its price is not named up front.

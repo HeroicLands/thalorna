@@ -19,12 +19,12 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 ## Overview
 
-[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-wyndmarch|the Wyndmarch]] and [[place-hallowwood|the Hallowwood]]. Its keeper, the **Reeve**, is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
+[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-wyndmarch|the Wiindmarch]] and [[place-hallowwood|the Hallowwood]]. Its keeper, the **Reeve**, is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
 
 ## Hooks
 
-- **The thief.** A [[place-caerwynd|Kaerwynd]] quartermaster who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
-- **The mercenary or common soldier.** The commander at Kaerwynd needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
+- **The thief.** A [[place-caerwynd|Kaerwiind]] quartermaster who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
+- **The mercenary or common soldier.** The commander at Kaerwiind needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
 - **The leader.** [[lore-vardain|A Vardain elder]] from the valleys below [[place-ironfells|the Ironfells]] wants the stage's ledger. The [[lore-khazariclt|Khazari]] say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
 - **The lone wanderer.** The wanderer is caught on the old road at dusk, with the forest dark on either side and a line of pale lamps showing the way.
 
@@ -106,7 +106,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazari of [[place-vorgald|Vorgald]], who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Sinale, if they learn it was written down, will want it least.
 
-**If bypassed.** A party that leaves the strong-room unopened hears of the silver from a Wyndmarch drover within the year.
+**If bypassed.** A party that leaves the strong-room unopened hears of the silver from a Wiindmarch drover within the year.
 
 ## Aftermath
 
@@ -120,13 +120,13 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 [[place-wenlornestage|Wenlorne Stage]]
 : the relay house and its keeper
 
-[[place-wyndmarch|The Wyndmarch]]
+[[place-wyndmarch|The Wiindmarch]]
 : where the old road begins
 
 [[place-hallowwood|The Hallowwood]]
 : where the road stops
 
-[[lore-jointcrown|The Joint Crown of Aelwyth]]
+[[lore-jointcrown|The Joint Crown of Eilwith]]
 : the elder kingdom that cut the road
 
 [[lore-theshadow|The Shadow]]

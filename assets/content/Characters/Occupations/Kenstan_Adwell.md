@@ -399,7 +399,7 @@ Kenstan Adwell is a 38-year-old man who stands 6'1" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Kenstan Adwell is a herder.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Kenstan Adwell is a herder.
 
 Kenstan comes from a long line of herders, and has spent his life tending sheep and goats in the hills. He knows the land like the back of his hand and can find his way over even the most treacherous paths. His quiet, calm manner suits him to the solitary life of a herder, though he can be protective when he needs to be. He is deeply attached to his animals and believes in treating them with care and respect.
 
@@ -443,7 +443,7 @@ Echoes of the Past
 : A boundary stone Kenstan's family set generations ago is found moved, and the hill it marked is claimed by another.
 
 Shifting Winds
-: Political change in Aelwyth threatens the common grazing Kenstan's flock depends on, and he can adapt, resist, or leave.
+: Political change in Eilwith threatens the common grazing Kenstan's flock depends on, and he can adapt, resist, or leave.
 
 The Opportunity
 : A lord offers Kenstan the keeping of his own flocks, with a cottage and wages, and what would become of Kenstan's animals is not said.

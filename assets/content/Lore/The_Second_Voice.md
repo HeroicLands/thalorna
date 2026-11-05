@@ -94,7 +94,7 @@ what they failed to say beforehand.
 ## The Crossing
 
 The Sinale recovered the Second Voice, and eventually the two peoples agreed the only thing they have
-ever agreed since: it would be **held in trust on [[place-aelwyth|Aelwyth]], by both races together**—the one place in the world where Sinale and Khazari still shared a country, and therefore the only
+ever agreed since: it would be **held in trust on [[place-aelwyth|Eilwith]], by both races together**—the one place in the world where Sinale and Khazari still shared a country, and therefore the only
 ground on which neither would be trusted to hold it alone.
 
 A convoy of **six ships** sailed from [[place-elavendre|Élavendre]] carrying it.
@@ -103,7 +103,7 @@ It never arrived.
 
 There was no storm of any note. No wreckage came ashore, then or since; no spar, no cargo, no body, on
 any coast, in any year. Six hulls and every soul aboard them went off the water between Élavendre and
-Aelwyth and left nothing whatever behind.
+Eilwith and left nothing whatever behind.
 
 The crews and the escort were **above reproach**—chosen for exactly that, by people who understood
 precisely what they were entrusting and to whom. This is the detail that has troubled everyone who has

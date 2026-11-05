@@ -3,7 +3,7 @@ shortcode: kingshlwcrwn
 name: {full: The Crowning at Kingshollow, en: [The First Crowning of Aldorath]}
 type: lore
 subType: history
-description: "About 120 AF the eastern barons of Aelwyth accepted Drethar of Kingshollow, one of their own, as king; the kings of Aldorath are crowned in the same chapel and buried in the same ground."
+description: "About 120 AF the eastern barons of Eilwith accepted Drethar of Kingshollow, one of their own, as king; the kings of Aldorath are crowned in the same chapel and buried in the same ground."
 tags: [history]
 data:
   culture: aelwythanclt
@@ -62,5 +62,5 @@ The arrangement shaped the crown that followed. A king of Aldorath rules with th
 [[place-dunmere|Dunmere]]
 : the seat the court moved to
 
-[[lore-grukarcomes|The Grukar Come to Aelwyth]]
+[[lore-grukarcomes|The Grukar Come to Eilwith]]
 : the war the barons wanted a king for

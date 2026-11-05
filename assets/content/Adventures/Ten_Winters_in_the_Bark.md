@@ -123,7 +123,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 [[place-pshtrwldrns|Peshtar Wilderness]]
 : the highland country to the north-west
 
-[[lore-grukaraelwyth|The Grukar of Aelwyth]]
+[[lore-grukaraelwyth|The Grukar of Eilwith]]
 : the hunters of the interior forest
 
 [[affiliation-selmoros|Faith of Sélmoros]]

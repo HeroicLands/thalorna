@@ -6,7 +6,16 @@ import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { assertEncodingMigrationPreserved } from "./encoding-preservation.mjs";
 import { notePath } from "./note-index.mjs";
-import { renamedFile, respellVileria } from "./vileria-sweep.mjs";
+import fs from "node:fs";
+import os from "node:os";
+import path from "node:path";
+import {
+    RESPELLINGS_FILE,
+    loadRespellings,
+    renamedFile,
+    respellVileria,
+    sweepTable,
+} from "./vileria-sweep.mjs";
 
 test("each mapping applies, with case, possessives and lowercase prose", () => {
     for (const [before, after] of [
@@ -54,7 +63,7 @@ test("shortcodes, wikilink targets, codage and stem-only words stay", () => {
         "---",
         "[[lore-vylari|Vilari]] and [[place-vylaria#the-vylarian-calendar|the Vilérian Calendar]]",
         "### The Vilérian Calendar {#the-vylarian-calendar}",
-        "⟦VYLARI Vylaria⟧ and `vylari:` and Vylarisian and the River Vylaris",
+        "⟦VYLARI Vylaria⟧ and `vylari:` and Vylarisian and the River Vilaris",
         "The_Vylarian_Calendar.md and lore-vylari and affiliation-vylarinmpr and khazrynclt, [[place-khazryndesert|Khazrin]]",
     ].join("\n");
     assert.equal(respellVileria(source), expected);
@@ -83,6 +92,71 @@ test("note file names take the accent-free forms and a second pass changes nothi
         "Khazrin_Desert_Adventurers_Guide.md",
     );
     assert.equal(renamedFile("Vilerian_Empire.md"), "Vilerian_Empire.md");
+});
+
+test("a data file's respellings apply as written, capitalized or in capitals, never in lowercase", () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "vileria-sweep-"));
+    const file = path.join(dir, "respellings.json");
+    fs.writeFileSync(
+        file,
+        JSON.stringify({
+            respellings: [
+                { from: "Caldovia", to: "Kaldóvia", reading: "kahl-DOH-vee-ah" },
+                { from: "Lut-Regyt", to: "Lut-Regit" },
+            ],
+            forOwner: [{ names: ["Wyndmarch"] }],
+        }),
+    );
+    try {
+        const table = sweepTable(loadRespellings(file));
+        const source = [
+            "---",
+            "shortcode: caldovia",
+            "name: Caldovia",
+            "data: {parents: [caldovia], see: caldovia}",
+            "---",
+            "[Caldovia]{.name} and [[place-caldovia|Caldovia]], CALDOVIA, a caldovia,",
+            "Lut-Regyt's fields, ⟦Caldovia⟧, `Caldovia`, and the Vylarian road.",
+        ].join("\n");
+        const expected = [
+            "---",
+            "shortcode: caldovia",
+            "name: Kaldóvia",
+            "data: {parents: [caldovia], see: caldovia}",
+            "---",
+            "[Kaldóvia]{.name} and [[place-caldovia|Kaldóvia]], KALDÓVIA, a caldovia,",
+            "Lut-Regit's fields, ⟦Caldovia⟧, `Caldovia`, and the Vilérian road.",
+        ].join("\n");
+        const counts = new Map();
+        assert.equal(respellVileria(source, counts, table), expected);
+        assert.equal(respellVileria(expected, undefined, table), expected);
+        assert.equal(counts.get("Kaldóvia"), 4);
+        assert.equal(renamedFile("Caldovia.md", table), "Kaldovia.md");
+        assert.equal(renamedFile("Lut_Regyt.md", table), "Lut_Regit.md");
+        assert.equal(renamedFile("Caldovia_caldovia.md", table), "Kaldovia_caldovia.md");
+        assert.equal(renamedFile("Vylaria.md", table), "Vileria.md");
+    } finally {
+        fs.rmSync(dir, { recursive: true, force: true });
+    }
+});
+
+test("a data file entry without a from or a to is refused", () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "vileria-sweep-"));
+    const file = path.join(dir, "respellings.json");
+    fs.writeFileSync(file, JSON.stringify({ respellings: [{ from: "Caldovia" }] }));
+    try {
+        assert.throws(() => loadRespellings(file), /needs a from and a to/);
+    } finally {
+        fs.rmSync(dir, { recursive: true, force: true });
+    }
+});
+
+test("the respellings data file loads, and each entry is a respelling the default sweep applies", () => {
+    for (const { from, to } of loadRespellings(RESPELLINGS_FILE)) {
+        assert.notEqual(from, to);
+        assert.equal(respellVileria(`the ${from} road`), `the ${to} road`, from);
+        assert.equal(respellVileria(`the ${to} road`), `the ${to} road`, to);
+    }
 });
 
 /** A preservation record for the Dunhari note, read from its raw text. */

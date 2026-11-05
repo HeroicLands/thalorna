@@ -30,7 +30,7 @@ Pelwar were the people they took. Peaceful, agricultural, patient and numerous, 
 None of this was remembered by the Pelwar as an event. It is not in their traditions; it happened to
 particular villages over centuries and left no story. It is, however, why human communities turn up
 beside Khazari holds far earlier than any human migration accounts for—and
-[[lore-vardain|the Vardain]] of [[place-aelwyth|Aelwyth]], who are not Pelwar but an older people, still farm for a hold and cannot say why they were taught to,
+[[lore-vardain|the Vardain]] of [[place-aelwyth|Eilwith]], who are not Pelwar but an older people, still farm for a hold and cannot say why they were taught to,
 and are the last such community.
 
 ## What Drove Them: the Varkhad

@@ -524,6 +524,7 @@ data:
     - {form: Lonkhai, instead: Lorkhai, why: an Earth word}
     - {form: Lonkhissa, instead: Lorkhissa, why: the officer of a retired name}
     - {form: Lonkhissai, instead: Lorkhissai, why: the plural of a retired name}
+    - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -532,29 +533,29 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Helonic}}
+  flags: {"thalorna": {lang_family: Helonik}}
 
-# terran_analog: Bethuan stands to Helonic as Spanish to the Roman tongue, and the Khelathi superstrate parallels the Arabic stratum in Spanish.
+# terran_analog: Bethuan stands to Helonik as Spanish to the Roman tongue, and the Khelathi superstrate parallels the Arabic stratum in Spanish.
 # terran_analog: the fossilized article is Arabic al- frozen into Spanish loans such as alcazar and almacén.
 ---
 
-Bethuan is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Bethuan is a tongue of the [Helonik Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient [[skill-helonclng|Helonic heritage]] in isolation. Bethuan represents a distinct evolutionary path from the common Helonic ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonic sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
+The tongue of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient [[skill-helonclng|Helonik heritage]] in isolation. Bethuan represents a distinct evolutionary path from the common Helonik ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonik sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
 
-Two forces shaped the language, and the relationship between them mirrors Bethua's own history. Its bones are **Helonic**—Bethuan stands to mainland Helonic roughly as one sister tongue stands to another, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-khelathlng|Khelathi Language]]**, the prestige tongue of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] that midwifed Bethuan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Khelathi loanwords. (See [[skill-bethunlng#the-khelathi-superstrate|the Khelathi Superstrate]].)
+Two forces shaped the language, and the relationship between them mirrors Bethua's own history. Its bones are **Helonik**—Bethuan stands to mainland Helonik roughly as one sister tongue stands to another, the inheritance of the Helonik colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-khelathlng|Khelathi Language]]**, the prestige tongue of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] that midwifed Bethuan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury. The deep grammar, the register system, and the core vocabulary remain Helonik to the root; the machinery of the modern state speaks in Khelathi loanwords. (See [[skill-bethunlng#the-khelathi-superstrate|the Khelathi Superstrate]].)
 
-The roman repertoire retains `v` and `V` in established names such as Kervanion and Khalivras. Inherited Helonic words such as _cholsama_ (harvest) retain `ch` in roman spelling, so the repertoire includes `c` and `C` as part of that pair. This assigns no independent sound to `c`.
+The roman repertoire retains `v` and `V` in established names such as Kervanion and Khalivras. Inherited Helonik words such as _cholsama_ (harvest) retain `ch` in roman spelling, so the repertoire includes `c` and `C` as part of that pair. This assigns no independent sound to `c`.
 
 ## Overview
 
-Bethuan is immediately recognizable to Helonic speakers as a linguistic cousin—the core vocabulary and basic grammar are intelligible—yet the sound is subtly different. Vowels tend to be longer and more open; consonants soften (particularly velar and sibilant sounds); and the overall rhythm is more flowing, less percussive than either Helonic or [[skill-byzarnlng|Bizarian]]. The language rewards elongation and gliding transitions between phonemes.
+Bethuan is immediately recognizable to Helonik speakers as a linguistic cousin—the core vocabulary and basic grammar are intelligible—yet the sound is subtly different. Vowels tend to be longer and more open; consonants soften (particularly velar and sibilant sounds); and the overall rhythm is more flowing, less percussive than either Helonik or [[skill-byzarnlng|Bizarian]]. The language rewards elongation and gliding transitions between phonemes.
 
 The defining feature is its **gender-register system**: elevated formal speech employs the "feminine register" with specific grammatical markers, particle forms, and even some sound shifts that signal prestige, formality, and intellectual authority. Casual speech, military speech, and traditionally "masculine" domains often employ a distinct grammatical register. This is not mere social convention—the grammar itself bifurcates, with different paradigms for nominative and accusative marking, and different auxiliary verbs depending on which register is active.
 
 ## How Bethuan sounds
 
-Bethuan is the open, vowel-final daughter of Helonic, with a layer of desert words.
+Bethuan is the open, vowel-final daughter of Helonik, with a layer of desert words.
 
 **The vowels.** _a_, _i_ and _o_ lead, and _ia_ and _io_ close many words.
 
@@ -564,13 +565,13 @@ Bethuan is the open, vowel-final daughter of Helonic, with a layer of desert wor
 
 **Endings.** Bethuan words end in _-a_, _-ira_, _-ia_, _-os_ or _-is_.
 
-**What Bethuan leaves out.** It has no Helonic _ps_, _ks_ or _eu_.
+**What Bethuan leaves out.** It has no Helonik _ps_, _ks_ or _eu_.
 
 ## Phonology
 
 ### Vowel System
 
-Bethuan's vowels are fuller and longer-holding than Helonic's. It uses the guide's five vowels _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it.
+Bethuan's vowels are fuller and longer-holding than Helonik's. It uses the guide's five vowels _a_, _e_, _i_, _o_ and _u_, each said as the guide gives it.
 
 Diphthongs are richer and more common than in Bizarian: _ou_ and _au_ are native pairs, and other vowels standing together are said apart. **Hiatus** (two adjacent vowels not forming a pair) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
 
@@ -589,7 +590,7 @@ kh
 : a rasp at the back of the throat, as when clearing it (present but less frequent than in Bizarian)
 
 gh
-: the same rasp voiced, a throaty "g" that never quite closes (more common in Bethuan than western Helonic)
+: the same rasp voiced, a throaty "g" that never quite closes (more common in Bethuan than western Helonik)
 
 Liquid gemination
 : Doubled r and l (_rr_, _ll_) are common in formal speech, signaling emphasis or prestige
@@ -605,7 +606,7 @@ Consonant clusters are avoided; vowel epenthesis creates intermediate vowels: _s
 **FEMININE REGISTER (Elevated, Formal, Prestige)**
 
 - Used in formal speech, philosophical discourse, legal contexts, and by authority figures (priestesses, judges, administrators)
-- More conservative grammatically; preserves ancient Helonic forms
+- More conservative grammatically; preserves ancient Helonik forms
 - Employs elaborate participial constructions and clear syntactic hierarchies
 - Favors lengthy periodic sentences with subordinate clauses
 
@@ -627,7 +628,7 @@ Both registers share the core SVO structure, but the feminine register keeps ful
 
 ### Sample Constructions
 
-These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Core Vocabulary), showing how the two registers handle the same underlying lexicon differently.
+These examples use vocabulary inherited from [[skill-helonclng|Helonik]] (see Core Vocabulary), showing how the two registers handle the same underlying lexicon differently.
 
 **Feminine register:**
 
@@ -649,15 +650,15 @@ In modern Bethuan, educated speakers code-switch fluidly, employing the feminine
 
 ## Script and Literacy
 
-Bethuan is written in the [[skill-helnkscrpt|Helónika]]—the Helonic alphabet in a Bethuan recension, with some distinctive letterforms:
+Bethuan is written in the [[skill-helnkscrpt|Helónika]]—the Helonik alphabet in a Bethuan recension, with some distinctive letterforms:
 
-The basic inventory matches Helonic (24 letters), but Bethuan orthography includes:
+The basic inventory matches Helonik (24 letters), but Bethuan orthography includes:
 
 Diacritical length marks
 : long vowels often marked, especially in formal writing
 
 Aspirate letters
-: _th_ has a letter of its own, and Bethuan writes _kh_ with a letter of its own where Helonic writes _k_ and _h_
+: _th_ has a letter of its own, and Bethuan writes _kh_ with a letter of its own where Helonik writes _k_ and _h_
 
 Accent marks
 : the accent marks a stressed syllable the common rule would not choose, where the voice rises; feminine register texts are more carefully accentuated
@@ -671,10 +672,10 @@ Outside [[place-bethuargn|Bethua]], Bethuan texts are rare; knowledge of the lan
 
 ## Historical Development
 
-Bethuan evolved from **Proto-Helonic** along a distinct path, isolated by geography and political circumstance:
+Bethuan evolved from **Proto-Helonik** along a distinct path, isolated by geography and political circumstance:
 
 Ancient Bethuan (before about 480 BF)
-: Little is known; presumably similar to contemporary Helonic, though some older phonetic features were retained.
+: Little is known; presumably similar to contemporary Helonik, though some older phonetic features were retained.
 
 Classical Bethuan (about 480 BF to 220 AF)
 : The period when the matriarchal society crystallized. The register system emerged during this era, initially as social convention, then formalized into grammar. Texts from this period show transition from a single grammatical system to the two-register paradigm.
@@ -683,13 +684,13 @@ Medieval Bethuan (about 220 to 520 AF)
 : The golden age of Bethuan literature, philosophy, and theatrical arts. The feminine register reached its fullest elaboration; conservative grammar was celebrated as a marker of elite identity.
 
 Modern Bethuan (from about 520 AF)
-: Gradual simplification of the masculine register through contact with practical trades, and—the great lexical event of the modern period—a heavy influx of **Khelathi loanwords** following independence, as the realm rebuilt its treasury, its water-engineering, its calendar, and its overseas commerce on Khelathi models (see below). Yet the prestige of the feminine register ensures its preservation in formal contexts, and the loanwords largely spared the literary language. Modern poets and philosophers deliberately employ archaic feminine forms—and pointedly _un_-borrowed Helonic vocabulary—to signal learning and refinement.
+: Gradual simplification of the masculine register through contact with practical trades, and—the great lexical event of the modern period—a heavy influx of **Khelathi loanwords** following independence, as the realm rebuilt its treasury, its water-engineering, its calendar, and its overseas commerce on Khelathi models (see below). Yet the prestige of the feminine register ensures its preservation in formal contexts, and the loanwords largely spared the literary language. Modern poets and philosophers deliberately employ archaic feminine forms—and pointedly _un_-borrowed Helonik vocabulary—to signal learning and refinement.
 
 ## The Khelathi Superstrate {#the-khelathi-superstrate}
 
-If the gender registers are what make Bethuan structurally unique, the **Khelathi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonic, but layered over that inheritance is a dense stratum of loanwords from [[skill-khelathlng|Khelathi Language]], the unrelated and far older tongue of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. It is a prestigious neighbor's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
+If the gender registers are what make Bethuan structurally unique, the **Khelathi superstrate** is what makes it sound unmistakably itself. Bethuan inherited its grammar and its core vocabulary from Helonik, but layered over that inheritance is a dense stratum of loanwords from [[skill-khelathlng|Khelathi Language]], the unrelated and far older tongue of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. It is a prestigious neighbor's vocabulary, entering not by descent but by cultural gravity and patronage, and clustering tightly in particular domains of life.
 
-The borrowing followed the realm's history. When Au'Khelathu backed Bethuan independence and the new state rebuilt its institutions on Khelathi models, it imported the words along with the methods. The result is that the technical, administrative, and commercial life of Bethua is conducted in a Helonic grammar studded with Khelathi nouns—while the language of poetry, philosophy, and the temple stays defiantly Helonic.
+The borrowing followed the realm's history. When Au'Khelathu backed Bethuan independence and the new state rebuilt its institutions on Khelathi models, it imported the words along with the methods. The result is that the technical, administrative, and commercial life of Bethua is conducted in a Helonik grammar studded with Khelathi nouns—while the language of poetry, philosophy, and the temple stays defiantly Helonik.
 
 ### Domains of Borrowing
 
@@ -724,28 +725,28 @@ Khelathi has sounds Bethuan does not, and they are regularly smoothed away on th
 - **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _sekatar_).
 - Stress is reset to the Bethuan **paroxytone** default.
 
-The single most recognizable mark of a Khelathi loan, though, is the **fossilized article**. Khelathi nouns often entered Bethuan with their definite article _en-_ or _et-_ still attached, and Bethuan speakers ceased to parse it as an article at all—so the word _is_ _en-telekas_, "the quay," article and all. A prefixed _en-_ or _et-_ on an otherwise opaque noun is, to a Helonic ear, the instant tell of a Khelathi borrowing.
+The single most recognizable mark of a Khelathi loan, though, is the **fossilized article**. Khelathi nouns often entered Bethuan with their definite article _en-_ or _et-_ still attached, and Bethuan speakers ceased to parse it as an article at all—so the word _is_ _en-telekas_, "the quay," article and all. A prefixed _en-_ or _et-_ on an otherwise opaque noun is, to a Helonik ear, the instant tell of a Khelathi borrowing.
 
 ### The Register Split
 
 The most telling fact about the superstrate is **where it does and does not appear**, and the answer maps precisely onto Bethuan's two registers—and onto the realm's politics.
 
-The **feminine register**—the language of the temple, the law, philosophy, and high poetry—is **deliberately purist Helonic**. A hymn to [[lore-lusiniadty|Lusinia]] or a formal judgment will contain almost no Khelathi vocabulary; where a loanword exists for a thing, the cultivated speaker reaches past it for the inherited Helonic synonym. To lard formal or sacred speech with Khelathi loans is to mark oneself as ill-bred—"talking like a counting-house," in the Bethuan phrase.
+The **feminine register**—the language of the temple, the law, philosophy, and high poetry—is **deliberately purist Helonik**. A hymn to [[lore-lusiniadty|Lusinia]] or a formal judgment will contain almost no Khelathi vocabulary; where a loanword exists for a thing, the cultivated speaker reaches past it for the inherited Helonik synonym. To lard formal or sacred speech with Khelathi loans is to mark oneself as ill-bred—"talking like a counting-house," in the Bethuan phrase.
 
-The **masculine and practical register**—and all technical, administrative, mercantile, and maritime speech regardless of who is speaking—is **saturated** with the Khelathi stratum. One simply cannot run the tunnel-wells, keep the treasury's books, clear cargo on the quay, or reckon the calendar without it, and within those domains the loanwords carry their own prestige: they are the vocabulary of competence. An engineer-priestess of the [Order of the Waters]{.name data-type="affiliation/order"} and a hymn-singing priestess of the same temple will speak about water in two almost different languages—one in Khelathi jargon, the other in Helonic poetry.
+The **masculine and practical register**—and all technical, administrative, mercantile, and maritime speech regardless of who is speaking—is **saturated** with the Khelathi stratum. One simply cannot run the tunnel-wells, keep the treasury's books, clear cargo on the quay, or reckon the calendar without it, and within those domains the loanwords carry their own prestige: they are the vocabulary of competence. An engineer-priestess of the [Order of the Waters]{.name data-type="affiliation/order"} and a hymn-singing priestess of the same temple will speak about water in two almost different languages—one in Khelathi jargon, the other in Helonik poetry.
 
-The result is a productive irony that runs through all of Bethuan life: the most prestigious register is the most linguistically _purist_, while the actual machinery of the state speaks the patron's tongue. Among the fashionable, a sprinkling of Khelathi vocabulary in conversation signals worldliness and good connections at [[place-galezkara|Galezkara]]; among the priestly conservatives, the same habit signals exactly the creeping foreign dependence they distrust. A character's Bethuan can therefore say a great deal about where she stands—Helonic purism for the temple traditionalist, Khelathi-flavored speech for the engineer, the merchant, and the cosmopolitan.
+The result is a productive irony that runs through all of Bethuan life: the most prestigious register is the most linguistically _purist_, while the actual machinery of the state speaks the patron's tongue. Among the fashionable, a sprinkling of Khelathi vocabulary in conversation signals worldliness and good connections at [[place-galezkara|Galezkara]]; among the priestly conservatives, the same habit signals exactly the creeping foreign dependence they distrust. A character's Bethuan can therefore say a great deal about where she stands—Helonik purism for the temple traditionalist, Khelathi-flavored speech for the engineer, the merchant, and the cosmopolitan.
 
 ### A Practical-Register Sample
 
-Where the feminine examples above (see Sample Constructions) run on pure Helonic vocabulary, ordinary practical speech mixes the strata freely:
+Where the feminine examples above (see Sample Constructions) run on pure Helonik vocabulary, ordinary practical speech mixes the strata freely:
 
 _En-telekas-s khabetun plios et-degan_
-: "The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _-s_, shortened endings, three Khelathi loans—_en-telekas, khabetun, et-degan_—carried on a Helonic frame).
+: "The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _-s_, shortened endings, three Khelathi loans—_en-telekas, khabetun, et-degan_—carried on a Helonik frame).
 
 ## Regional Dialects
 
-Bethuan shows less dialectal variation than other Helonic languages, due to strong centralized literacy and cultural standardization. However, subtle variations exist:
+Bethuan shows less dialectal variation than other Helonik languages, due to strong centralized literacy and cultural standardization. However, subtle variations exist:
 
 Priestess Dialect
 : The most conservative, employed in religious contexts and formal state speech. Preserves archaic feminine register forms; theta (th) is frequent and clearly articulated. Nearly identical across Bethuan territory.
@@ -757,17 +758,17 @@ Rural/Interior Dialects
 : More conservative phonetically (fuller vowels, more careful distinction of consonants). Both registers are employed, but the boundary is less sharp—casual speech may employ some feminine forms, and formal masculine register is rarer.
 
 Border Dialects
-: In regions adjacent to Bizarian or Helonic speakers, some phonetic influence and vocabulary borrowing occurs. The feminine register remains standard for formal speech; the masculine register shows greater flexibility.
+: In regions adjacent to Bizarian or Helonik speakers, some phonetic influence and vocabulary borrowing occurs. The feminine register remains standard for formal speech; the masculine register shows greater flexibility.
 
 ## Ordinary inherited expressions
 
-Bethuan shares the Helonic stock and its SVO order. The Bethuan entries give island citations where its open vowels and simplified clusters make a different ordinary form: _heom_ this, _meos_ one, _kesenir_ guest and _okesarin_ sour. These are inherited core words. The administrative and technical loans keep their own domains; _selkur_ is a year of the calendar count from Khelathi _selqur_, while kin, numbers, body words and grammatical words belong to the Helonic inheritance.
+Bethuan shares the Helonik stock and its SVO order. The Bethuan entries give island citations where its open vowels and simplified clusters make a different ordinary form: _heom_ this, _meos_ one, _kesenir_ guest and _okesarin_ sour. These are inherited core words. The administrative and technical loans keep their own domains; _selkur_ is a year of the calendar count from Khelathi _selqur_, while kin, numbers, body words and grammatical words belong to the Helonik inheritance.
 
 The full article distinguishes the formal register: _ashe dómissa_ names the House-Mother. A household's authority is its _dómissa_; _kiris_ is the courtesy for a valued man and grants no property, rights or voice. _Plios er edhin_ means sated, full after food or drink. The native word _heom_ also appears inside shared expressions: _féranin heom prou thu_, bring this to you; _in arithmas meos_, first. Each dictionary expression gives its own meaning and usage.
 
 ## Sample Phrases
 
-All phrases use vocabulary from the shared [[skill-helonclng|Helonic]] lexicon.
+All phrases use vocabulary from the shared [[skill-helonclng|Helonik]] lexicon.
 
 Thásira sothira ársidhir pluma
 : "The goddess of wisdom rules all things" (formal, feminine; _thásira_ "goddess", _ársidhir_ "rules" from _árshidhin_, _pluma_ "all things")
@@ -786,28 +787,28 @@ Olashin kosamir in harmodhin
 
 ## Related Languages
 
-Bethuan is a distinct member of the **Helonic language family**, alongside:
+Bethuan is a distinct member of the **Helonik language family**, alongside:
 
-Helonic
-: The ancient common ancestor; Bethuan shares vocabulary and grammar but has developed the unique register system. Bethuan stands to mainland Helonic roughly as one Romance tongue stands to a sister: clearly related, broadly intelligible in their shared core, distinct in sound and idiom.
+Helonik
+: The ancient common ancestor; Bethuan shares vocabulary and grammar but has developed the unique register system. Bethuan stands to mainland Helonik roughly as one Romance tongue stands to a sister: clearly related, broadly intelligible in their shared core, distinct in sound and idiom.
 
 Bizarian
-: The synthetic crossroads language; more distantly related through the shared Helonic base
+: The synthetic crossroads language; more distantly related through the shared Helonik base
 
 [[skill-khelathlng|Khelathi Language]]
-: Not a relative at all, but the great _lexical_ influence on Bethuan: an unrelated isolate from which Bethuan has borrowed a heavy stratum of administrative, technical, commercial, and luxury vocabulary (see [[skill-bethunlng#the-khelathi-superstrate|the Khelathi Superstrate]]). The grammar and core lexicon remain Helonic; the loanwords sit on top.
+: Not a relative at all, but the great _lexical_ influence on Bethuan: an unrelated isolate from which Bethuan has borrowed a heavy stratum of administrative, technical, commercial, and luxury vocabulary (see [[skill-bethunlng#the-khelathi-superstrate|the Khelathi Superstrate]]). The grammar and core lexicon remain Helonik; the loanwords sit on top.
 
-Educated speakers of Helonic can understand formal Bethuan relatively easily—the prestige register's purism works in their favor—but find practical Bethuan harder, between the masculine register's simplifications and the thicket of Khelathi loanwords that mean nothing to a Helonic ear. Bizarian speakers find Bethuan's flowing vowels and softer consonants somewhat difficult but can manage with exposure.
+Educated speakers of Helonik can understand formal Bethuan relatively easily—the prestige register's purism works in their favor—but find practical Bethuan harder, between the masculine register's simplifications and the thicket of Khelathi loanwords that mean nothing to a Helonik ear. Bizarian speakers find Bethuan's flowing vowels and softer consonants somewhat difficult but can manage with exposure.
 
 ## Naming Traditions
 
-Bethuan maintains the Helonic naming structure but applies **Bethuan pronunciation conventions** and often favors names that sound graceful in the feminine register.
+Bethuan maintains the Helonik naming structure but applies **Bethuan pronunciation conventions** and often favors names that sound graceful in the feminine register.
 
-### Pronunciation Shifts from Helonic to Bethuan
+### Pronunciation Shifts from Helonik to Bethuan
 
-When Helonic names are used in Bethuan contexts, they undergo regular phonetic shifts:
+When Helonik names are used in Bethuan contexts, they undergo regular phonetic shifts:
 
-| Helonic Feature                        | Bethuan Shift                            | Example                             |
+| Helonik Feature                        | Bethuan Shift                            | Example                             |
 | -------------------------------------- | ---------------------------------------- | ----------------------------------- |
 | Final -os (masculine)                  | In formal feminine context, recast to -a | _Wissaros_ > _Wisaria_ (formal)     |
 | Short vowels before consonant clusters | Cluster simplified                       | _Jádharos_ > _Jadharos_             |
@@ -819,7 +820,7 @@ Formal names (feminine register)
 : Often end in -a, -ia, -e for elegance; preserve theta (th) when present. Used in legal documents, formal introductions, and official contexts.
 
 Practical names (masculine register)
-: May truncate or simplify Helonic forms; lose some vowel length markers.
+: May truncate or simplify Helonik forms; lose some vowel length markers.
 
 Priestess names
 : Specially elevated forms reserved for priestesses and high officials; sometimes employ archaic feminine endings (-issa for goddesses/priestesses, -e for high priestess).
@@ -829,7 +830,7 @@ Trade names
 
 ## Name Lists
 
-Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical conventions applied:
+Bethuan uses the **Helonik name list**, with Bethuan phonetic and grammatical conventions applied:
 
 ### Male Given Names
 
@@ -1038,7 +1039,7 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 
 ### Clan Names
 
-(Used identically across Bethuan and Helonic contexts; suffixes -os, -on, -is indicate lineage)
+(Used identically across Bethuan and Helonik contexts; suffixes -os, -on, -is indicate lineage)
 
 - Afiros
 - Agóranides

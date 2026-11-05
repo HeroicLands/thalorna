@@ -85,7 +85,7 @@ The fleet answers, like all of Bethua's armed force, through the bridging comman
 
 - The [[affiliation-mtrrchybth#the-martial-bridge-the-spear-sisterhood-and-the-fleet|Stratégissa]] holds supreme command of the whole host, army and fleet alike, as the Metrissa's lent authority.
 - The **Naukrátissa** ("sea-mistress") is the admiral of the fleet and the realm's chief naval commander—in a maritime power whose navy is its proudest arm, one of the most prestigious commands in Bethua, and a frequent stepping-stone to the highest circles of both councils.
-- Below her, each war-galley or squadron is commanded by a **Nauklera** (pl. _Nauklerai_; "ship-mistress," from Helonic _naukir_, "ship"), a captain who in the private and privateer service is also the owner of her vessel.
+- Below her, each war-galley or squadron is commanded by a **Nauklera** (pl. _Nauklerai_; "ship-mistress," from Helonik _naukir_, "ship"), a captain who in the private and privateer service is also the owner of her vessel.
 
 ## The Purple Warrant: the Privateer War
 

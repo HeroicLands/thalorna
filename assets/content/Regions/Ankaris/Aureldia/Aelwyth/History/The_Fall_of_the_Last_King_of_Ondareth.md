@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [affiliation-repblcndrth, place-thornbury, place-ondareth]
       summary: >-
-        Tralkar, the last king of Aelwyth's western coast, taxes the carrying trade to ruin and hangs the captains who complain. The coast's levies under Zalmen take Thornbury and throw his castle down, and the captains, who need a government that is not a king, build one out of what travelers have told them of Viléria: a Senate, senators, mantles and magistracies with Vilérian names. They get the forms and miss the meaning, and the republic has kept both.
+        Tralkar, the last king of Eilwith's western coast, taxes the carrying trade to ruin and hangs the captains who complain. The coast's levies under Zalmen take Thornbury and throw his castle down, and the captains, who need a government that is not a king, build one out of what travelers have told them of Viléria: a Senate, senators, mantles and magistracies with Vilérian names. They get the forms and miss the meaning, and the republic has kept both.
       standing: attested
       where:
         locus: [place-thornbury]
@@ -44,7 +44,7 @@ data:
         - which traveler first described the Vilérian Senate on the Thornbury quays
 ---
 
-The Fall of the Last King of Ondareth began as a tax dispute in [[place-ondareth|Ondareth]], the only part of [[place-aelwyth|Aelwyth]] that was a republic on purpose. [Tralkar]{.name data-type="being/npc"}, the last king of the western coast, taxed the carrying trade until it could not pay and then hanged the captains who said so. The captains of the coast were the one class on it with ships, money and men used to command, and they were the ones he ought not to have hanged.
+The Fall of the Last King of Ondareth began as a tax dispute in [[place-ondareth|Ondareth]], the only part of [[place-aelwyth|Eilwith]] that was a republic on purpose. [Tralkar]{.name data-type="being/npc"}, the last king of the western coast, taxed the carrying trade until it could not pay and then hanged the captains who said so. The captains of the coast were the one class on it with ships, money and men used to command, and they were the ones he ought not to have hanged.
 
 ## The Rising
 

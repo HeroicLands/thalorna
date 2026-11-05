@@ -75,7 +75,7 @@ Varokh hall, and does not make twice.
 
 It also explains a thing that puzzles Aureldian scholars: how the Varokh can be simultaneously descended from the people
 who **drove [[lore-pelwarmigr|the Pelwar Migration]]**—the great displacement that scattered Pelwar peoples across half a
-continent and eventually onto [[place-aelwyth|Aelwyth]]—and themselves descend from the Pelwar. Both are correct.
+continent and eventually onto [[place-aelwyth|Eilwith]]—and themselves descend from the Pelwar. Both are correct.
 The Varkhad drove out the Pelwar who would not stay, and the Varokh are the children of the Varkhad and the Pelwar who did.
 
 ## History
@@ -301,7 +301,7 @@ between them is not courage. It is **how much of themselves they can bring to on
   beat and who cannot, in the ordinary sense, win.
 - The Nordmen are less fierce than the Varokh and vastly more organized: five
   kingdoms, jarls, a ting, and above all **fleets**. Which is why it is the Nordmen and not the Varokh who
-  crossed open water, took a fifth of Aelwyth and are still holding it sixty years later.
+  crossed open water, took a fifth of Eilwith and are still holding it sixty years later.
 
 Ferocity decides who wins the fight. Concentration decides who keeps the ground. Vristwald has an
 abundance of the first and a permanent shortage of the second, and the result is a country that has

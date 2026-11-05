@@ -59,7 +59,7 @@ Native word readings belong to Ki'i'chek. Borrow the writing system's structure 
 | [[place-provenzrgn\|Provénzia Region]]                               | Portugal, southwestern France                                             |
 | [[place-tarvenirgn\|Tarvénia]]                                       | Northern Spain, southern France (Atlantic coast)                          |
 | [[place-elavendre\|Élavendre]]                                       | France (mythic Celtic / fae-influenced)                                   |
-| [[place-aelwyth\|Aelwyth Region]]                                    | Britain / Ireland (mythic, Arthurian)                                     |
+| [[place-aelwyth\|Eilwith Region]]                                    | Britain / Ireland (mythic, Arthurian)                                     |
 | [[affiliation-cnfdrtntrzlnstts\|Confederation of Taruzelian States]] | Mesopotamian/Levantine maritime city-states (Phoenicia, Carthage, Venice) |
 | [[place-helionis\|Helionis Region]]                                  | Ancient Greece (classical Athens, philosophical schools)                  |
 

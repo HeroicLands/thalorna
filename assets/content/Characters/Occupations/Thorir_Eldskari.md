@@ -374,7 +374,7 @@ Thorir is an enormous man, standing 6'1" and carrying 256 pounds of heavy bone a
 
 # Dossier {#dossier}
 
-Thorir was born in the Stormveil mountains, to a family of quarrymen who had worked the black stone for generations. At fourteen, he was conscripted into the garrison—a standard practice in [[place-aelwyth|Aelwyth]]. He was broad, strong, and ideally suited for the physical labor the garrison required. He spent his first three years doing essentially what his family did: moving stone, building fortifications, hauling supplies. Then a captain noticed his size and recruited him for the castle guard.
+Thorir was born in the Stormveil mountains, to a family of quarrymen who had worked the black stone for generations. At fourteen, he was conscripted into the garrison—a standard practice in [[place-aelwyth|Eilwith]]. He was broad, strong, and ideally suited for the physical labor the garrison required. He spent his first three years doing essentially what his family did: moving stone, building fortifications, hauling supplies. Then a captain noticed his size and recruited him for the castle guard.
 
 In twenty-six years of castle guard service, Thorir has become what the military calls "essential furniture." His dense muscle is running to gray-speckled fat as he ages. The scar that runs from his right ear to his chin was earned in a barracks brawl in his twenties—a knife fight over a woman, the kind of stupid violence that Thorir now regards with the distant disgust of age. He has suppressed more riots, broken up more fights, physically removed more drunken nobles from the castle than any three other guards combined.
 
@@ -396,7 +396,7 @@ His physical strength remains great despite age. His judgment in physical confro
 
 ## Social
 
-Thorir is respected by guards and soldiers, invisible to most nobility, and regarded as vaguely dangerous by those who interact with him regularly. He has no family in Aelwyth anymore; his siblings either died or left for other territories.
+Thorir is respected by guards and soldiers, invisible to most nobility, and regarded as vaguely dangerous by those who interact with him regularly. He has no family in Eilwith anymore; his siblings either died or left for other territories.
 
 ## Companions
 

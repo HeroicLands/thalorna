@@ -1,6 +1,6 @@
 ---
 shortcode: vylarisrvr
-name: {full: River Vylaris, vyl: [Vilaras]}
+name: {full: River Vilaris, vyl: [Vilaras]}
 type: place
 subType: feature
 description: "The river the Vilérian heartland is named for, which carries the capital's grain down from the inland landings and its sea cargoes up from Elissara, and reaches the sea through a fan of reed-marsh channels called the Mouths."
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vylariargn], population: null, packFol
 
 ## Overview
 
-The River Vylaris gave the heartland its name, and it runs through it. It rises in the hills of the interior, crosses the [[affiliation-provinclys|Province of Alessa]], flows past the western flank of [[place-orzara|Orzara]], and reaches the sea on the coast of the [[affiliation-provincvld|Province of Salkalon]] at [[place-aelissium|Elissara]], a chartered city that belongs to no province. For a land that lives on hauled goods, it is the one road that carries a cargo without a team.
+The River Vilaris gave the heartland its name, and it runs through it. It rises in the hills of the interior, crosses the [[affiliation-provinclys|Province of Alessa]], flows past the western flank of [[place-orzara|Orzara]], and reaches the sea on the coast of the [[affiliation-provincvld|Province of Salkalon]] at [[place-aelissium|Elissara]], a chartered city that belongs to no province. For a land that lives on hauled goods, it is the one road that carries a cargo without a team.
 
 A barge-master on the lower river puts it to the passengers who come aboard at the capital: "Every sack you saw in the gate-yards this morning came the long way round, by water or by road. We are the water. We bring the grain in to the city's wharves under [Nerval]{.name data-type="place/feature"} in the dark, so the bakers have flour at dawn, and we take the empties back. The river does not care about [[affiliation-seldan|Seldan]], the Senate. It cares about the rains in the hills."
 
@@ -32,7 +32,7 @@ The river passes Orzara along the city's western flank, under the slope of Nerva
 
 ## The Lower River
 
-Below the capital the Vylaris is broad, brown and slow, winding between levees through the flat estate country toward the sea. Everything the capital buys over the sea comes up this stretch. Ships cannot pass far above the mouth, so the cargoes go from ship to barge on the quays of Elissara, and the barges are hauled upstream by ox teams on the towpath, a string at a time, for several days against the current. The towpath is the busiest road in the empire that has no paving. Its inns stand a day's haul apart, each with a yard for oxen and a landing for a string, and the teamsters who walk it belong to the boatmen's fraternities of the landings they start from.
+Below the capital the Vilaris is broad, brown and slow, winding between levees through the flat estate country toward the sea. Everything the capital buys over the sea comes up this stretch. Ships cannot pass far above the mouth, so the cargoes go from ship to barge on the quays of Elissara, and the barges are hauled upstream by ox teams on the towpath, a string at a time, for several days against the current. The towpath is the busiest road in the empire that has no paving. Its inns stand a day's haul apart, each with a yard for oxen and a landing for a string, and the teamsters who walk it belong to the boatmen's fraternities of the landings they start from.
 
 ## The Mouths
 

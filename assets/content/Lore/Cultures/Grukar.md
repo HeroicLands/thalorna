@@ -151,8 +151,8 @@ The blind spot is that the tribe eats its own best minds. The knowledge a guest 
 [[skill-grukarlng|Grukar Language]]
 : how the Grukar converse, by body and scent, with no words
 
-[[lore-grukaraelwyth|The Grukar of Aelwyth]]
-: the Grukar established on Aelwyth and the peoples who hold them back
+[[lore-grukaraelwyth|The Grukar of Eilwith]]
+: the Grukar established on Eilwith and the peoples who hold them back
 
 [[place-grkrhlmrgn|Grukarholm]]
 : the forest and marsh where the tribes are thickest

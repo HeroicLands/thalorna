@@ -242,7 +242,7 @@ The sky over the gulf was clear at noon. Now a wall of black cloud stands out ov
 
 # Dossier {#dossier}
 
-The Stormseer is an air elemental of storm and lightning: a spirit of the sky manifested as a great eagle of thundercloud and electricity, thirty feet or more across the wings, which rides storms and makes them, attacks with lightning, wind and thunder, and regards everything that walks or sails as beneath its notice. It is intelligent and arrogant. One haunts the [[place-batarengulf|Gulf of Bataren]], the one deep harbor on [[place-provenzrgn|Provénzia Region]]'s cold ocean coast, and the sea-roads north from it toward [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]]. The fishermen and the shipmasters of [[place-batarencity|Bataren City]] believe that the stormseer brings the storms that close the gulf, and the belief is hard to argue with. Like every elemental, it can be destroyed in the material world, and it comes back with the next great storm.
+The Stormseer is an air elemental of storm and lightning: a spirit of the sky manifested as a great eagle of thundercloud and electricity, thirty feet or more across the wings, which rides storms and makes them, attacks with lightning, wind and thunder, and regards everything that walks or sails as beneath its notice. It is intelligent and arrogant. One haunts the [[place-batarengulf|Gulf of Bataren]], the one deep harbor on [[place-provenzrgn|Provénzia Region]]'s cold ocean coast, and the sea-roads north from it toward [[place-elavendre|Élavendre]] and [[place-aelwyth|Eilwith]]. The fishermen and the shipmasters of [[place-batarencity|Bataren City]] believe that the stormseer brings the storms that close the gulf, and the belief is hard to argue with. Like every elemental, it can be destroyed in the material world, and it comes back with the next great storm.
 
 ## Presentation
 
@@ -250,7 +250,7 @@ The stormseer is shaped like a great eagle, but its body is cloud: dark, roiling
 
 ## In the Land
 
-The Gulf of Bataren is a broad, deep, sheltered bay biting inland from the cold ocean, and everything that comes there comes down from Élavendre and Aelwyth and out of the northern seas. The stormseer ranges over the gulf and the open ocean beyond it, and over the cliff coast to either side, and it comes in with the autumn and winter storms. It seems to claim the sky over the gulf and the weather in it as its own: when it is there, storms come in against the forecast and stay longer than they should, and the harbor is closed. It roosts, if it roosts at all, in the storm clouds themselves, and in calm weather it is not seen.
+The Gulf of Bataren is a broad, deep, sheltered bay biting inland from the cold ocean, and everything that comes there comes down from Élavendre and Eilwith and out of the northern seas. The stormseer ranges over the gulf and the open ocean beyond it, and over the cliff coast to either side, and it comes in with the autumn and winter storms. It seems to claim the sky over the gulf and the weather in it as its own: when it is there, storms come in against the forecast and stay longer than they should, and the harbor is closed. It roosts, if it roosts at all, in the storm clouds themselves, and in calm weather it is not seen.
 
 ## Key Behaviors
 

@@ -96,7 +96,7 @@ The High Judge, [[being-dumarsrfrs|Dumares Rafiros]], is consulted by the counci
 
 ## Standing and Relations
 
-Standing in Korinthea is the common Helionite ladder, from the citizen by descent down to the metic who pays tax without a vote. Korinthea is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]], and it shares the [[skill-helonclng|Helonic tongue]], its gods and its festivals with the other six city-states.
+Standing in Korinthea is the common Helionite ladder, from the citizen by descent down to the metic who pays tax without a vote. Korinthea is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]], and it shares the [[skill-helonclng|Helonik tongue]], its gods and its festivals with the other six city-states.
 
 ## See Also
 

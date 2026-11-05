@@ -54,7 +54,7 @@ data:
     - form: kiromu
       class: n
       field: People of the quay
-      gloss: a captain, a master; whoever gives the orders; Helonic _kiros_
+      gloss: a captain, a master; whoever gives the orders; Helonik _kiros_
       concept: [leader, master]
     - form: bashimu
       class: n
@@ -64,11 +64,11 @@ data:
     - form: eparo
       class: "n"
       field: People of the quay
-      gloss: "a trader, a factor who buys and sells for a house; Helonic _émfarin_"
+      gloss: "a trader, a factor who buys and sells for a house; Helonik _émfarin_"
     - form: pelaro
       class: "n"
       field: People of the quay
-      gloss: "a sailor, a seaman; Helonic _pléarin_, to sail"
+      gloss: "a sailor, a seaman; Helonik _pléarin_, to sail"
     - form: asevu
       class: n
       field: People of the quay
@@ -94,7 +94,7 @@ data:
     - form: etalu
       class: "n"
       field: "Goods, money and the bargain"
-      gloss: "profit, gain; Helonic _euthalir_"
+      gloss: "profit, gain; Helonik _euthalir_"
     - form: telusu
       class: "n"
       field: "Goods, money and the bargain"
@@ -119,13 +119,13 @@ data:
     - form: idiro
       class: n
       field: Ship, sea and road
-      gloss: water; Helonic _hidhir_
+      gloss: water; Helonik _hidhir_
       concept: water
     - {form: vidu, class: "n", field: "Ship, sea and road", gloss: "bread; Nordmal _vuld_, grain"}
     - form: durasu
       class: "n"
       field: "Ship, sea and road"
-      gloss: "salt; Helonic _duras_, natron"
+      gloss: "salt; Helonik _duras_, natron"
     - form: ula
       class: n
       field: Ship, sea and road
@@ -134,16 +134,16 @@ data:
     - form: anevo
       class: n
       field: Ship, sea and road
-      gloss: the wind, a storm; Helonic _ánevir_
+      gloss: the wind, a storm; Helonik _ánevir_
       concept: [wind, storm]
     - form: odisu
       class: "n"
       field: "Ship, sea and road"
-      gloss: "a road, a route; Helonic _hodis_"
+      gloss: "a road, a route; Helonik _hodis_"
     - form: norodu
       class: n
       field: Ship, sea and road
-      gloss: the north; Aelwythi _nord_
+      gloss: the north; Eilwithi _nord_
       concept: north
     - form: lokatu
       class: v
@@ -163,7 +163,7 @@ data:
     - form: dorasu
       class: v
       field: Doing
-      gloss: to give, to trade; Helonic _doras-_
+      gloss: to give, to trade; Helonik _doras-_
       concept: [give, trade]
     - form: geniru
       class: v
@@ -187,7 +187,7 @@ data:
     - form: kerisu
       class: n
       field: Doing
-      gloss: a hand, and the skill in it; Helonic _kheirin_
+      gloss: a hand, and the skill in it; Helonik _kheirin_
       concept: hand
     - form: latara
       class: adj
@@ -207,11 +207,11 @@ data:
     - form: sotaru
       class: adj
       field: Describing
-      gloss: "safe, secure; Helonic _sotharin_, to save"
+      gloss: "safe, secure; Helonik _sotharin_, to save"
     - form: pulumu
       class: adj
       field: Describing
-      gloss: many, much; Helonic _plum_, all
+      gloss: many, much; Helonik _plum_, all
       concept: [many, much]
     - form: funatu
       class: "n"
@@ -270,7 +270,7 @@ data:
     - form: ufi
       class: part
       field: Asking, time and number
-      gloss: no, not, among Helonic speakers; Helonic _uf_
+      gloss: no, not, among Helonik speakers; Helonik _uf_
       concept: [not, no]
     - form: yezu
       class: num
@@ -300,7 +300,7 @@ data:
     - form: zekoru
       class: num
       field: Asking, time and number
-      gloss: ten; Helonic _zekhor_
+      gloss: ten; Helonik _zekhor_
       concept: ten
     - form: ushador
       class: "n"
@@ -5340,7 +5340,7 @@ data:
     - form: ufi-ufi
       class: call
       field: Asking, time and number
-      gloss: not at all; emphatic no in the established Helonic-speaking dock register, repeating ufi for emphasis
+      gloss: not at all; emphatic no in the established Helonik-speaking dock register, repeating ufi for emphasis
       built: [ufi, ufi]
       concept: expression-not-at-all
     - form: retasu dorasira
@@ -5697,6 +5697,8 @@ data:
     - form: Shadal
       instead: Ilumanei
       why: "an Earth name, in the name lists; the scribe of Vashurán"
+    - {form: Aelwythi, instead: Eilwithi, why: respelled to Pronouncing Thalorna}
+    - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -5712,11 +5714,11 @@ Valtari is a tongue of the Pidgin (contact) family. Fluency measures the sophist
 
 ## Overview
 
-Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Midhalión]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonic Language]], [[skill-vylarilng|Vilari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
+Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Midhalión]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonik Language]], [[skill-vylarilng|Vilari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
 
 Valtari is the lingua franca of maritime merchants, dock laborers, ship captains, chandlers, harbor masters, fishmongers, and anyone whose livelihood depends on cross-cultural commerce. It is **never** a first language—no child grows up speaking Valtari as their mother tongue. Instead, it is picked up on the docks through constant repetition, error correction, and pragmatic negotiation. A Valtari speaker is identifiable not by mastery of the language but by their ability to make themselves understood despite imperfect knowledge.
 
-The language is characterized by **heavy Taruzeli and Helonic substrate** (the two dominant maritime cultures), simplified grammar, extensive borrowing, and a vocabulary ruthlessly pruned to the essentials of commerce and daily port life. It is rarely written; when it is, speakers borrow whatever script they know—[[skill-merazanscrpt|Merazan Script]], [[skill-helnkscrpt|Helónika Script]], or hastily invented symbols.
+The language is characterized by **heavy Taruzeli and Helonik substrate** (the two dominant maritime cultures), simplified grammar, extensive borrowing, and a vocabulary ruthlessly pruned to the essentials of commerce and daily port life. It is rarely written; when it is, speakers borrow whatever script they know—[[skill-merazanscrpt|Merazan Script]], [[skill-helnkscrpt|Helónika Script]], or hastily invented symbols.
 
 Valtari takes its name from the port of [[place-valthari|Valthari]], the free city whose quays gave the pidgin its first fixed form.
 
@@ -5758,11 +5760,11 @@ Liquids
 Glides
 : W, Y
 
-Valtari has no H and none of the throat sounds of its parents: the Taruzeli and Helonic _kh_ and _gh_ are said _k_ and _g_, _q_ is said _k_, and _th_ is said _t_. Consonant clusters are rare and usually occur where two words meet. Most syllables are open (ending in a vowel), which simplifies pronunciation across language backgrounds, and a word closes on a vowel or on _n_, _l_ or _r_.
+Valtari has no H and none of the throat sounds of its parents: the Taruzeli and Helonik _kh_ and _gh_ are said _k_ and _g_, _q_ is said _k_, and _th_ is said _t_. Consonant clusters are rare and usually occur where two words meet. Most syllables are open (ending in a vowel), which simplifies pronunciation across language backgrounds, and a word closes on a vowel or on _n_, _l_ or _r_.
 
 ### Vowels
 
-Five basic vowels, each said as written, stressed or not. The long vowels of Taruzeli and Helonic are all said short in Valtari:
+Five basic vowels, each said as written, stressed or not. The long vowels of Taruzeli and Helonik are all said short in Valtari:
 
 A
 : as in "father"
@@ -5781,7 +5783,7 @@ U
 
 ### Intonation
 
-Rising intonation at the end of statements is common, turning assertions into questions, a feature borrowed from Helonic. This makes Valtari speech rhythmically irregular, contributing to its "unfinished" quality.
+Rising intonation at the end of statements is common, turning assertions into questions, a feature borrowed from Helonik. This makes Valtari speech rhythmically irregular, contributing to its "unfinished" quality.
 
 ## Grammar Notes
 
@@ -5831,7 +5833,7 @@ Number is usually clear from context or explicit quantity markers (_fomul yakodu
 
 ### Negation
 
-Negation is expressed through the **particle _zu_, placed before the verb or predicate**; speakers of Helonic say _ufi_ in the same place:
+Negation is expressed through the **particle _zu_, placed before the verb or predicate**; speakers of Helonik say _ufi_ in the same place:
 
 _Zu kusadu_
 : "Do not bring" / "He does not bring" (context clarifies)
@@ -5897,7 +5899,7 @@ Valtari is **rarely written**. When it is, speakers employ:
 : Common in southern ports and Taruzeli-dominated cities
 
 [[skill-helnkscrpt|Helónika]] letters
-: Used in northern ports and Helonic trading centers
+: Used in northern ports and Helonik trading centers
 
 [[skill-semrnscrpt|Semaron Script]] letters
 : Used in Vilérian and Aureldian harbors, and by any factor with an imperial education
@@ -5913,7 +5915,7 @@ Literacy in Valtari is minimal. Most dock workers cannot read or write the langu
 
 Valtari crystallized over centuries of maritime trade, reaching its modern form roughly 300 years ago as trade intensified. The language did not _replace_ native languages but rather _supplemented_ them—a lingua franca for the docks, not a language of home, family, or identity.
 
-The vocabulary is **45% Taruzeli, 25% Helonic, 20% from the Vilari family, 7% Nordmal and 3% from other tongues of the setting**, every word drawn from the setting's own tongues. This breakdown varies regionally: southern ports lean more Taruzeli; northern ports, more Helonic.
+The vocabulary is **45% Taruzeli, 25% Helonik, 20% from the Vilari family, 7% Nordmal and 3% from other tongues of the setting**, every word drawn from the setting's own tongues. This breakdown varies regionally: southern ports lean more Taruzeli; northern ports, more Helonik.
 
 Historical layers are detectable in the vocabulary:
 
@@ -5929,7 +5931,7 @@ Valtari varies noticeably by port:
 
 - **[[place-ilovanu|Ilovanu]] dialect**: The prestige form; favors clarity and slower speech. Influenced by the mixed Taruzeli-Kaliharan population. Closest to a "standard."
 - **[[place-vashuran|Vashurán]] dialect**: Fast, clipped, heavily Taruzeli. Difficult for non-native Taruzeli speakers to follow; prized for its efficiency.
-- **Northern port dialects** ([[place-velanthrgn|Velanthian coast]]): Softer, more Helonic-influenced. Slower, more vowel-heavy.
+- **Northern port dialects** ([[place-velanthrgn|Velanthian coast]]): Softer, more Helonik-influenced. Slower, more vowel-heavy.
 - **Other Kaliharan ports** (the island's eastern coast): Mix of [[skill-kalihrlng|Kalihari]] cadence with Valtari vocabulary; unique tonal patterns.
 
 A trader from Ilovanu moving to Vashurán must re-learn the rapid-fire delivery and emphatic stress patterns. Similarly, a Nordmal merchant's Valtari will carry Nordmal phonemes and word order habits.
@@ -5937,7 +5939,7 @@ A trader from Ilovanu moving to Vashurán must re-learn the rapid-fire delivery 
 ## Sample Phrases
 
 _Kiromu kusadu latara pashin_
-: "The captain offers a fair price" (Helonic _kiromu_ "master"; Taruzeli _kusadu_ "carry", _latara_ "fair" and _pashin_ from _pashinu_ "fair price")
+: "The captain offers a fair price" (Helonik _kiromu_ "master"; Taruzeli _kusadu_ "carry", _latara_ "fair" and _pashin_ from _pashinu_ "fair price")
 
 _Zu funatu, asevu, mavitu yakodu?_
 : "No trouble, friend—where is the ship?" (casual, reassuring)
@@ -5953,7 +5955,7 @@ _Koru latara pelaro, temadu kerisu, geniru yu rusaku?_
 
 ## Core Vocabulary
 
-The following represents the stable core of Valtari—words understood in virtually every port. Since Valtari is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Taruzeli (**H**, with the Taruzeli source form), a quarter from Helonic (**He**), a fifth from the Vilari family (**V**), a few from Nordmal and its kin (**N**), and a few from other tongues of the setting (**O**). The [[skill-valtarlng#lexicon|Valtari Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
+The following represents the stable core of Valtari—words understood in virtually every port. Since Valtari is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Taruzeli (**H**, with the Taruzeli source form), a quarter from Helonik (**He**), a fifth from the Vilari family (**V**), a few from Nordmal and its kin (**N**), and a few from other tongues of the setting (**O**). The [[skill-valtarlng#lexicon|Valtari Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
 
 **People & Trade:** kiromu (He, from _kiros_) "captain, master" · bashimu (H, from _bashimum_) "merchant" · eparo (He, from _émfarin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · asevu (V, from [[skill-provnzlng|Provenzal]] _anseve_) "friend, companion" · koru (V, from _koroi_) "you"
 
@@ -5967,9 +5969,9 @@ The following represents the stable core of Valtari—words understood in virtua
 
 **Place & Time:** besiku (H, from _besiku_) "port, harbor, port town" · yu (H, from _ju_) "this" · denu (V, from _denos_) "here" · mavitu (O, from Sinale _maviho_) "where" · mavu (O, from Sinale _mavi_) "what" · kedi (V, from _kedis_) "who" · gulodu (N, from _glud_ "day") "when" · tapelu (V, from _thapelon_ "hour") "now" · paramisu (V, from _pramiza_ "morning") "tomorrow" · olimu (V, from _holimos_ "first") "already"
 
-**Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from [[skill-aelwthlng|Aelwythi]] _nord_) "north"
+**Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from [[skill-aelwthlng|Eilwithi]] _nord_) "north"
 
-**Numerals (Taruzeli-derived):** yezu "one" · lelor "two" · zemu "three" · vubu "four" · fomul "five" · zekoru "ten" (from Helonic _zekhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul vubu_ "nine".
+**Numerals (Taruzeli-derived):** yezu "one" · lelor "two" · zemu "three" · vubu "four" · fomul "five" · zekoru "ten" (from Helonik _zekhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul vubu_ "nine".
 
 ## Related Languages
 
@@ -5978,7 +5980,7 @@ Valtari is **fundamentally a mixed language**, not genealogically related to any
 Taruzeli
 : Grammar skeleton, 45% of vocabulary
 
-Helonic
+Helonik
 : Phonological innovations, 25% of vocabulary, some syntactic patterns
 
 The Vilari family
@@ -6009,7 +6011,7 @@ Valtari trade names follow **simple, memorable patterns** that function across m
 
 **Given Name + Occupational or Geographic Epithet**
 
-_Kiromu_ (the word for "captain", from Helonic)
+_Kiromu_ (the word for "captain", from Helonik)
 : common given name for merchants and masters
 
 _Odisor_ (from _odisu_, "road")
@@ -6072,7 +6074,7 @@ Bashimari Eparari Pelarari Asevari Zazurari Ushadari Etalari Telusari Kubasari Y
 
 ## Valtari Lexicon {#lexicon}
 
-On any quay from [[place-midhalnrgn|Midhalión]] to [[place-ilovanu|Ilovanu]], a ship's captain is a _kiromu_, the cargo is _zazuru_, and the price is a _pashin_. None of the three is a word of one people, and the tongue itself is named for the port of Valthari. _Kiromu_ is the Helonic _kiros_ worn down on the docks, and _zazuru_ and _pashin_ are the Taruzeli _zazurush_ and _pashinu_ with their endings dropped. Valtari, the harbor pidgin, is built this way throughout: a word of [[skill-taruzelilng|Taruzeli]] or [[skill-helonclng|Helonic]], stripped of the endings that carry its grammar and of the sounds a stranger cannot make, and set down in a sentence that has no grammar to give it. This page is the word-hoard of that pidgin: the core words every port understands, where each came from, the sound rules a borrowed word is bent to, and how a trade name is made.
+On any quay from [[place-midhalnrgn|Midhalión]] to [[place-ilovanu|Ilovanu]], a ship's captain is a _kiromu_, the cargo is _zazuru_, and the price is a _pashin_. None of the three is a word of one people, and the tongue itself is named for the port of Valthari. _Kiromu_ is the Helonik _kiros_ worn down on the docks, and _zazuru_ and _pashin_ are the Taruzeli _zazurush_ and _pashinu_ with their endings dropped. Valtari, the harbor pidgin, is built this way throughout: a word of [[skill-taruzelilng|Taruzeli]] or [[skill-helonclng|Helonik]], stripped of the endings that carry its grammar and of the sounds a stranger cannot make, and set down in a sentence that has no grammar to give it. This page is the word-hoard of that pidgin: the core words every port understands, where each came from, the sound rules a borrowed word is bent to, and how a trade name is made.
 
 A Valtari word does not change. _Lokatu_ is to come, to go and to arrive, at any time and for any speaker, and _yakodu_ is one boat or many. What the parent tongues say with endings, the pidgin says with a separate word or leaves to the context: _tapelu_, now, and _olimu_, already, are the nearest it has to tenses, and a plural is the word said twice, _yakodu-yakodu_.
 
@@ -6113,7 +6115,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-valtarlng'
 
 ## Building words {#building-words}
 
-**A borrowed word** is bent to the sounds above. Its long vowels are said short. Taruzeli and Helonic _kh_ and _gh_ become _k_ and _g_, _q_ becomes _k_, _th_ and _dh_ become _t_ and _d_, _j_ becomes _y_, the rounded _ü_ becomes _i_, and _h_ is not said at all. The endings that carry the parent tongue's grammar fall away, and a word left closing on a consonant other than _n_, _l_ or _r_ takes a vowel after it, most often _-u_ in a Taruzeli word and _-o_ in a Helonic one: the Taruzeli _jakudu_, a ship, is _yakodu_, and the Helonic _ánevir_, the wind, is _anevo_. A word in daily use is often clipped further, and the words of the Vilari family, of Nordmal and of the setting's other tongues are bent the same way.
+**A borrowed word** is bent to the sounds above. Its long vowels are said short. Taruzeli and Helonik _kh_ and _gh_ become _k_ and _g_, _q_ becomes _k_, _th_ and _dh_ become _t_ and _d_, _j_ becomes _y_, the rounded _ü_ becomes _i_, and _h_ is not said at all. The endings that carry the parent tongue's grammar fall away, and a word left closing on a consonant other than _n_, _l_ or _r_ takes a vowel after it, most often _-u_ in a Taruzeli word and _-o_ in a Helonik one: the Taruzeli _jakudu_, a ship, is _yakodu_, and the Helonik _ánevir_, the wind, is _anevo_. A word in daily use is often clipped further, and the words of the Vilari family, of Nordmal and of the setting's other tongues are bent the same way.
 
 **Two words side by side** make a compound phrase, the second naming what the first is: _bazunu-kerisu_ is a sail-hand, a sailmaker. **A word said twice** is a plural, or an emphasis.
 
@@ -6132,7 +6134,7 @@ ORDER BY position
 
 ### Asking, time and number
 
-The question words share the opening _se-_ of _mavu_, what: _mavitu_ is where, the what-place. A Taruzeli speaker says not with _zu_ and a Helonic speaker with _ufi_, each keeping the negative of his own tongue, and every docker understands both. The numbers past five are counted on: six is _fomul yezu_, five-one, and nine is _fomul vubu_.
+The question words share the opening _se-_ of _mavu_, what: _mavitu_ is where, the what-place. A Taruzeli speaker says not with _zu_ and a Helonik speaker with _ufi_, each keeping the negative of his own tongue, and every docker understands both. The numbers past five are counted on: six is _fomul yezu_, five-one, and nine is _fomul vubu_.
 
 ## Making names {#making-names}
 

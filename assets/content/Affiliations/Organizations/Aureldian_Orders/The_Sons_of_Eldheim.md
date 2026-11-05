@@ -38,7 +38,7 @@ sohl: {system: {commonSkills: []}}
 
 ## From Stormveld toward the North {#present}
 
-The order has gained a foothold in [[affiliation-jrldmstrmvld|Stormveld]] on [[place-aelwyth|Aelwyth]], among Nordmen whose Asguardian beliefs it seeks to displace. From there the Sons attempt to make inroads into the wider [[place-nrdlndsrgn|Nordlands]]. Their principal campaign is to take land from the [[affiliation-vrystwldtrbs|Varokhi villages]] of [[place-vrystwald|Vristwald]] and use it as a base for further incursions. Raids have brought them into direct conflict with [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] and [[place-eichengrnd|Eichengrund]], but control of Vristwald is still their aim, not an accomplished conquest.
+The order has gained a foothold in [[affiliation-jrldmstrmvld|Stormveld]] on [[place-aelwyth|Eilwith]], among Nordmen whose Asguardian beliefs it seeks to displace. From there the Sons attempt to make inroads into the wider [[place-nrdlndsrgn|Nordlands]]. Their principal campaign is to take land from the [[affiliation-vrystwldtrbs|Varokhi villages]] of [[place-vrystwald|Vristwald]] and use it as a base for further incursions. Raids have brought them into direct conflict with [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] and [[place-eichengrnd|Eichengrund]], but control of Vristwald is still their aim, not an accomplished conquest.
 
 [[being-sirethoskhol|Sirethos]] holds the order's **Blazewarden** title and commands forces in that campaign. He has sworn to burn the Varokhi forest and sacrifice its Shamans to [[lore-ustarondty|Ústaron]]. The threat gives the villages a common enemy without placing them under a lasting unified command.
 
@@ -48,7 +48,7 @@ The order has gained a foothold in [[affiliation-jrldmstrmvld|Stormveld]] on [[p
 : the destructive Ústaran faith to which the order belongs
 
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]
-: the order's foothold on Aelwyth
+: the order's foothold on Eilwith
 
 [[place-vrystwald|Vristwald]]
 : the forest whose villages the Sons seek to seize

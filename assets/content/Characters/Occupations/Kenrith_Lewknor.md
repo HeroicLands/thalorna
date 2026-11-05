@@ -395,7 +395,7 @@ Kenrith Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Kenrith Lewknor is a farmer.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Kenrith Lewknor is a farmer.
 
 Kenrith grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Kenrith is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
 
@@ -430,7 +430,7 @@ A rival farmer who often competes for the same markets.
 ## Plot Hooks
 
 The Farmer's Dilemma
-: Kenrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+: Kenrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
 
 Old Grudges
 : A rival farmer who often competes for the same markets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -439,7 +439,7 @@ Echoes of the Past
 : Something from Kenrith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Aelwyth threaten to upend the social order that Kenrith depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwith threaten to upend the social order that Kenrith depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Kenrith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

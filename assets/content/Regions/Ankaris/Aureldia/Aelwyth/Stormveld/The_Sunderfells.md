@@ -16,7 +16,7 @@ data:
 
 The **Sunderfells** are [[place-stormveld|Stormveld]]'s southern march: the northern arm of [[place-ironfells|the Ironfells]]
 where the range walls the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] off from the [[affiliation-kngdmldrth|Kingdom of Aldorath]]. Sixteen thousand people
-in high, wet, difficult country, and the most strategically important ground on [[place-aelwyth|Aelwyth]].
+in high, wet, difficult country, and the most strategically important ground on [[place-aelwyth|Eilwith]].
 
 ## The Passes
 
@@ -25,12 +25,12 @@ island that do not involve a sea voyage. Both are approached through deep wilder
 both are shut by snow for months, and both can be held at the top by a force far smaller than one
 attempting to cross.
 
-This is the whole reason the political map of Aelwyth looks as it does. The Jarldom has never pushed
+This is the whole reason the political map of Eilwith looks as it does. The Jarldom has never pushed
 south because pushing south means the passes; Aldorath has never seriously tried to retake the
 north-east for the same reason. Sixty years of mutual hostility have produced skirmishes at the pass-heads
 and nothing else whatever.
 
-The southern ends are watched from [[place-caerwynd|Kaerwynd]]; the northern ends are garrisoned by
+The southern ends are watched from [[place-caerwynd|Kaerwiind]]; the northern ends are garrisoned by
 whichever of the jarl's men is currently out of favor, which tells you what the posting is thought
 to be worth.
 
@@ -43,4 +43,4 @@ outside world comes over these mountains on a pack-pony.
 
 ## See Also
 
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-ironfells|the Ironfells]] · [[place-caerwynd|Kaerwynd]]
+- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-ironfells|the Ironfells]] · [[place-caerwynd|Kaerwiind]]

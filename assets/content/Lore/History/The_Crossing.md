@@ -3,7 +3,7 @@ shortcode: thecrossing
 name: {full: The Crossing, en: [The Convoy of Six]}
 type: lore
 subType: history
-description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Aelwyth, to be held there in trust by the Sinale and the Khazari together, and go off the water leaving nothing whatever behind."
+description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Eilwith, to be held there in trust by the Sinale and the Khazari together, and go off the water leaving nothing whatever behind."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [miscgear-secondvoice, place-aelwyth, place-ironfells]
       summary: >-
-        Five centuries after Khazartúrn, the Sinale have recovered the Second Voice and the two Elder Races have agreed the only thing they agree on: that it is to be held on Aelwyth by both peoples together, the one country where they still share ground. Six ships sail from Élavendre carrying it, with crews and an escort chosen for being above reproach. They do not arrive. There is no storm of any note, and no wreckage, spar, cargo or body comes ashore on any coast in any year since. The relic has not been found.
+        Five centuries after Khazartúrn, the Sinale have recovered the Second Voice and the two Elder Races have agreed the only thing they agree on: that it is to be held on Eilwith by both peoples together, the one country where they still share ground. Six ships sail from Élavendre carrying it, with crews and an escort chosen for being above reproach. They do not arrive. There is no storm of any note, and no wreckage, spar, cargo or body comes ashore on any coast in any year since. The relic has not been found.
       standing: attested
       where:
         locus: [place-elavendre]
@@ -38,7 +38,7 @@ data:
       follows:
         - event: lore-fallkhazturn
           how: answered
-          note: the trust on Aelwyth is the two peoples' one answer to what the relic did to Khazartúrn
+          note: the trust on Eilwith is the two peoples' one answer to what the relic did to Khazartúrn
       accounts:
         - by: lore-flksinale
           says: >-
@@ -61,8 +61,8 @@ data:
 
 The [[lore-flksinale|Sinale]] recovered [[miscgear-secondvoice|the Second Voice]], and in time the two
 Elder Races reached the only agreement they have reached since
-[[lore-fallkhazturn|Khazartúrn fell]]: the relic would be held in trust on [[place-aelwyth|Aelwyth]],
-by both peoples together. Aelwyth was the one country in the world where Sinale and [[lore-flkkhazar|Khazari]] still
+[[lore-fallkhazturn|Khazartúrn fell]]: the relic would be held in trust on [[place-aelwyth|Eilwith]],
+by both peoples together. Eilwith was the one country in the world where Sinale and [[lore-flkkhazar|Khazari]] still
 lived on the same ground, and therefore the only ground on which neither would be trusted to hold it
 alone.
 
@@ -70,7 +70,7 @@ A convoy of **six ships** sailed from [[place-elavendre|Élavendre]] carrying it
 
 There was no storm of any note. No wreckage came ashore, then or since—no spar, no cargo, no body,
 on any coast, in any year. Six hulls and every soul aboard them went off the water between Élavendre
-and Aelwyth and left nothing whatever behind. The passage is not a long one, and it had been made
+and Eilwith and left nothing whatever behind. The passage is not a long one, and it had been made
 before.
 
 The crews and the escort were above reproach, chosen for exactly that by people who understood

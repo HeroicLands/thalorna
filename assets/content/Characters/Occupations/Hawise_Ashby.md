@@ -397,7 +397,7 @@ Hawise Ashby is a 44-year-old woman who stands 5'10" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Hawise Ashby is a huscarl.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Hawise Ashby is a huscarl.
 
 Hawise is a veteran huscarl who has fought alongside her comrades for many years. Known for her strength and loyalty, she serves Lord [Erik]{.name data-type="being/npc"} and is often tasked with training younger warriors. Hawise has a wealth of knowledge about combat tactics and is respected for her insights and experience. She believes in the importance of honor and camaraderie among warriors.
 
@@ -432,7 +432,7 @@ Few; well-respected in her community.
 ## Plot Hooks
 
 The Huscarl's Dilemma
-: Hawise faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+: Hawise faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
 
 Old Grudges
 : Few; well-respected in her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -441,7 +441,7 @@ Echoes of the Past
 : Something from Hawise's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Aelwyth threaten to upend the social order that Hawise depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwith threaten to upend the social order that Hawise depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Hawise the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

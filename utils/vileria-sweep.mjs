@@ -19,8 +19,15 @@
  * script on any tree, including one that merged other work first, finishes
  * the job and a second run changes nothing.
  *
- * Note files whose names carry a Vylar or Khazryn form are renamed to the accent-free
- * form (Vylarian_Empire.md becomes Vilerian_Empire.md, Khazryn_Desert.md becomes Khazrin_Desert.md); directories are not.
+ * Further respellings are read from `utils/fixtures/place-name-respellings.json`,
+ * each a `from` and a `to`. Such a form changes only as written, all in capitals
+ * or capitalized, never in lowercase, so an English word of the same letters and
+ * a shortcode stay as they are.
+ *
+ * Note files whose names carry a Vylar or Khazryn form, or a respelled form, are
+ * renamed to the accent-free form (Vylarian_Empire.md becomes Vilerian_Empire.md,
+ * Khazryn_Desert.md becomes Khazrin_Desert.md, Lut_Regyt.md becomes Lut_Regit.md);
+ * directories are not.
  *
  * Usage: node utils/vileria-sweep.mjs [--check] [path ...]
  * Without paths it sweeps `assets/content` and `.changeset`. `--check`
@@ -28,6 +35,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import YAML from "yaml";
 import { CONTENT_DIR, noteIndex } from "./note-index.mjs";
 
@@ -49,6 +57,65 @@ const FILE_FORMS = {
     Khazryni: "Khazrini",
     Khazryn: "Khazrin",
 };
+
+/** The data file of further respellings. */
+export const RESPELLINGS_FILE = fileURLToPath(
+    new URL("./fixtures/place-name-respellings.json", import.meta.url),
+);
+
+/**
+ * The respellings a data file lists.
+ * @param {string} [file]
+ * @returns {{from: string, to: string}[]}
+ */
+export function loadRespellings(file = RESPELLINGS_FILE) {
+    const { respellings = [] } = JSON.parse(fs.readFileSync(file, "utf8"));
+    for (const { from, to } of respellings)
+        if (typeof from !== "string" || typeof to !== "string" || !from || !to)
+            throw new Error(`${file}: a respelling needs a from and a to`);
+    return respellings.map(({ from, to }) => ({ from, to }));
+}
+
+const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const accentFree = (s) => s.normalize("NFD").replace(/\p{M}/gu, "").normalize("NFC");
+const fileForm = (s) => accentFree(s).replace(/-/g, "_");
+
+/**
+ * The table a sweep applies: the built-in mapping, which also changes lowercase
+ * forms, and the data file's respellings, which change only as written,
+ * capitalized or all in capitals.
+ * @param {{from: string, to: string}[]} [respellings]
+ */
+export function sweepTable(respellings = []) {
+    const words = new Map();
+    for (const [from, to] of MAPPING) words.set(from, { from, to, lower: true });
+    for (const { from, to } of respellings)
+        words.set(from.toLowerCase(), { from, to, lower: false });
+    const files = new Map(Object.entries(FILE_FORMS));
+    for (const { from, to } of respellings) files.set(fileForm(from), fileForm(to));
+    const alternation = (keys) =>
+        [...keys]
+            .sort((a, b) => b.length - a.length)
+            .map(escape)
+            .join("|");
+    return {
+        words,
+        word: `(?<![\\p{L}\\p{N}]|[\\p{L}\\p{N}]_)(${alternation(words.keys())})(?![\\p{L}\\p{N}]|_[\\p{L}\\p{N}])`,
+        files,
+        filePattern: new RegExp(
+            `(?<![\\p{L}\\p{N}])(${alternation(files.keys())})(?![\\p{L}\\p{N}])`,
+            "gu",
+        ),
+    };
+}
+
+/** The table the command line and the default calls use. */
+let defaultTable;
+function tableOf(table) {
+    if (table) return table;
+    defaultTable ??= sweepTable(fs.existsSync(RESPELLINGS_FILE) ? loadRespellings() : []);
+    return defaultTable;
+}
 
 /** Spans that never change, in frontmatter and body alike. */
 const SPANS = [
@@ -183,39 +250,35 @@ export function excludedRanges(yaml) {
     return ranges.sort((a, b) => a[0] - b[0] || b[1] - a[1]);
 }
 
-const WORD =
-    /(?<![\p{L}\p{N}]|[\p{L}\p{N}]_)(vylarians|vylarian|vylaria|vylari|khazryni|khazryn)(?![\p{L}\p{N}]|_[\p{L}\p{N}])/iu
-        .source;
+const capitalized = (s) => s[0].toUpperCase() + s.slice(1).toLowerCase();
 
-const MAPPING_PATTERN = new RegExp(
-    `(?<![\\p{L}\\p{N}])(${Object.keys(FILE_FORMS).join("|")})(?![\\p{L}\\p{N}])`,
-    "gu",
-);
-
-/** Match the case of `source` (all lower, Capitalised or all upper) or return undefined. */
-function matchCase(source, target) {
-    if (source === source.toLowerCase()) return target;
-    if (source === source.toUpperCase()) return target.toUpperCase();
-    if (source === source[0].toUpperCase() + source.slice(1).toLowerCase())
-        return target[0].toUpperCase() + target.slice(1);
+/**
+ * The respelling of `source` in its case (as listed, all lower where the entry
+ * allows it, Capitalised or all upper), or undefined.
+ */
+function matchCase(source, { from, to, lower }) {
+    if (source === from) return to;
+    if (source === source.toLowerCase()) return lower ? to.toLowerCase() : undefined;
+    if (source === source.toUpperCase()) return to.toUpperCase();
+    if (source === capitalized(source)) return capitalized(to);
     return undefined;
 }
 
 /**
  * Respell one stretch of text.
  * @param {string} text
- * @param {{ protect?: string, lower?: boolean, counts?: Map<string, number> }} options
+ * @param {{ protect?: string, lower?: boolean, counts?: Map<string, number>, table: object }} options
  *   `protect` is the pattern of spans left as written; `lower: false` keeps lowercase forms.
  */
-function respellStretch(text, { protect = PROTECTED, lower = true, counts }) {
-    const re = new RegExp(`(${protect})|${WORD}`, "gimu");
+function respellStretch(text, { protect = PROTECTED, lower = true, counts, table }) {
+    const re = new RegExp(`(${protect})|${table.word}`, "gimu");
     return text.replace(re, (whole, protectedText, word, offset) => {
         if (protectedText !== undefined || word === undefined) return whole;
         if (word === word.toLowerCase() && (!lower || text[offset - 1] === "-")) return whole;
-        const target = MAPPING.get(word.toLowerCase());
-        const result = matchCase(word, target);
+        const entry = table.words.get(word.toLowerCase());
+        const result = matchCase(word, entry);
         if (result === undefined) return whole;
-        counts?.set(target, (counts.get(target) ?? 0) + 1);
+        counts?.set(entry.to, (counts.get(entry.to) ?? 0) + 1);
         return result;
     });
 }
@@ -224,46 +287,53 @@ function respellStretch(text, { protect = PROTECTED, lower = true, counts }) {
  * Respell parsed frontmatter between its excluded ranges. Frontmatter that does not
  * parse keeps its inline excluded fields and every lowercase form.
  */
-function respellFrontmatter(yaml, counts) {
+function respellFrontmatter(yaml, counts, table) {
     const ranges = excludedRanges(yaml);
-    if (!ranges) return respellStretch(yaml, { lower: false, counts });
+    if (!ranges) return respellStretch(yaml, { lower: false, counts, table });
     const spans = SPANS.join("|");
     let out = "",
         at = 0;
     for (const [start, end] of ranges) {
         if (start < at) continue;
-        out += respellStretch(yaml.slice(at, start), { protect: spans, counts });
+        out += respellStretch(yaml.slice(at, start), { protect: spans, counts, table });
         out += yaml.slice(start, end);
         at = end;
     }
-    return out + respellStretch(yaml.slice(at), { protect: spans, counts });
+    return out + respellStretch(yaml.slice(at), { protect: spans, counts, table });
 }
 
 /**
  * Respell a whole note or changeset.
  * @param {string} text
  * @param {Map<string, number>} [counts] receives a tally per new form.
+ * @param {object} [table] a `sweepTable`; the built-in mapping and the data file by default.
  * @returns {string}
  */
-export function respellVileria(text, counts) {
+export function respellVileria(text, counts, table) {
+    table = tableOf(table);
     const front = /^(---\r?\n)([\s\S]*?)(\r?\n---[ \t]*)(?=\r?\n|$)/u.exec(text);
-    if (!front) return respellStretch(text, { counts });
+    if (!front) return respellStretch(text, { counts, table });
     const [head, open, yaml, close] = front;
     return (
         open +
-        respellFrontmatter(yaml, counts) +
+        respellFrontmatter(yaml, counts, table) +
         close +
-        respellStretch(text.slice(head.length), { counts })
+        respellStretch(text.slice(head.length), { counts, table })
     );
 }
 
 /** A note file name with the accent-free forms the file-name rule requires. */
-export function renamedFile(name) {
-    return name.replace(MAPPING_PATTERN, (word) => FILE_FORMS[word]);
+export function renamedFile(name, table) {
+    const { filePattern, files } = tableOf(table);
+    return name.replace(filePattern, (word) => files.get(word));
 }
 
 /** The changesets that state the renames name the old spellings and stay as written. */
-const STATEMENTS = new Set([".changeset/vileria.md", ".changeset/khazrin.md"]);
+const STATEMENTS = new Set([
+    ".changeset/vileria.md",
+    ".changeset/khazrin.md",
+    ".changeset/place-name-respellings.md",
+]);
 
 function* walk(target) {
     const stat = fs.statSync(target);

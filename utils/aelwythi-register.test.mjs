@@ -25,7 +25,7 @@ test("ordinary Aelwythi questions and courtesies state the addressee's number", 
         ["question-clarification", "What meanest thou."],
         ["expression-please", "I pray thee"],
         ["expression-thank-you", "I thank thee"],
-        ["expression-how-do-you-say", "How sayst thou this in Aelwythi."],
+        ["expression-how-do-you-say", "How sayst thou this in Eilwithi."],
         ["expression-what-is-this-called", "What callest thou this."],
         ["expression-excuse-me", "By thy leave"],
     ])

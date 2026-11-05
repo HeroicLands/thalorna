@@ -398,7 +398,7 @@ Ethelinda Wigmore is a 30-year-old woman who stands 6'0" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Ethelinda Wigmore is a jailer.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Ethelinda Wigmore is a jailer.
 
 Ethelinda became a jailer after serving as a city guard for several years. She was drawn to the role by the chance to keep order and safety within the prison. Known for her sharp mind and close observation, she is good at reading people and often mediates disputes between inmates. While dedicated to her work, she sometimes struggles with the harshness of the place.
 
@@ -442,7 +442,7 @@ Echoes of the Past
 : A man Ethelinda arrested in her years as a city guard is brought into her prison and remembers her.
 
 Shifting Winds
-: A change of officials in Aelwyth puts the prison under men who want it run harder, and Ethelinda can bend to them, resist them, or leave.
+: A change of officials in Eilwith puts the prison under men who want it run harder, and Ethelinda can bend to them, resist them, or leave.
 
 The Opportunity
 : Ethelinda is offered charge of the prison, and the price of it is not named up front.

@@ -21,7 +21,7 @@ the head of navigation. Twenty-four thousand people live on them, most within si
 ## The Outlet
 
 The Levels are Aldorath's connection to everywhere else. Everything the kingdom sells—grain from the
-[[place-aldorvale|Aldorvale]], wool off [[place-brynwold|Brynwold]], the wine of
+[[place-aldorvale|Aldorvale]], wool off [[place-brynwold|Brinwold]], the wine of
 [[place-sunnerslade|Sunnerslade]]—comes down the river and out through Greywater, and everything the
 kingdom buys comes back the same way.
 

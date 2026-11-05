@@ -46,7 +46,7 @@ Nethoras Mardovanes is a 51-year-old man who stands 5'10" tall and is of heavy b
 
 # Dossier {#dossier}
 
-Nethoras Mardovanes is master of [[affiliation-mardovanes|House Mardovanes]], the Grain House of [[place-orzara|Orzara City]], and a _kurthos_ (senator) of the [[affiliation-seldan|Seldan]]. His house's money is grain: its factors buy on the estates of [[place-hylen|Hilen]], see the wagons weighed at [[place-aravantia|Aravantara]], bring the sacks down the [[place-vylarisrvr|River Vylaris]] on barges under the house's contracts, and sell them into the state granaries on the [[place-wharvesorz|Wharves]]. The city holds about a week of grain, and the house that fills the granaries knows it better than anyone.
+Nethoras Mardovanes is master of [[affiliation-mardovanes|House Mardovanes]], the Grain House of [[place-orzara|Orzara City]], and a _kurthos_ (senator) of the [[affiliation-seldan|Seldan]]. His house's money is grain: its factors buy on the estates of [[place-hylen|Hilen]], see the wagons weighed at [[place-aravantia|Aravantara]], bring the sacks down the [[place-vylarisrvr|River Vilaris]] on barges under the house's contracts, and sell them into the state granaries on the [[place-wharvesorz|Wharves]]. The city holds about a week of grain, and the house that fills the granaries knows it better than anyone.
 
 He gives the best dinners on [[place-selvin|Selvin]]. The succession is discussed at every one of them without the Orzas ever being named, and every guest leaves owing him a small favor.
 

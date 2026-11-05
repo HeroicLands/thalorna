@@ -118,7 +118,7 @@ apply where a tongue's section does not give its own readings.
 
 Aelwythi uses the existing Semaron letters through its own orthographic
 `aelwythi-semaron` map in
-`assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md`. The Aelwythi
+`assets/content/Lore/Scripts/Eilwithi_Semaron_Encoding.md`. The Aelwythi
 language note selects it with `data.writtenIn`, so `[Whither goest thou.]{.nativefont lang=aelw}`
 converts to Semaron. Without `.nativefont`, the same language tag keeps roman
 spelling. All conversion rules are executable frontmatter rows;
@@ -384,7 +384,7 @@ root. The schema has no cases, declensions, tenses, moods or irregular-verb
 tables, and no sound-change derivation.
 
 Aelwythi has an expressly defined prose register in
-`assets/content/Skills/Languages/Aelwythi_Language.md`: strict singular _thou/thee_,
+`assets/content/Skills/Languages/Eilwithi_Language.md`: strict singular _thou/thee_,
 plural _ye/you_, singular present endings and finite plural _-en_, with the
 listed exceptional and modal forms. Follow its tables when writing a passage;
 only the finite auxiliary inflects in _we haven come_. Its ordinary questions

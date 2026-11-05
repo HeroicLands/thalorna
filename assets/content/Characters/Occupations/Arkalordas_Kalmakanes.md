@@ -400,7 +400,7 @@ Arkalordas Kalmakanes is a 32-year-old man who stands 6'4" tall and is broad and
 
 # Dossier {#dossier}
 
-Arkalordas Kalmakanes is a common seaman of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vylaris]], who has worked the merchant ships of the [[place-vylarianse|Vilérian Sea]] for fifteen years and is the hand its captains ask for by name.
+Arkalordas Kalmakanes is a common seaman of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vilaris]], who has worked the merchant ships of the [[place-vylarianse|Vilérian Sea]] for fifteen years and is the hand its captains ask for by name.
 
 He has been aboard something since he first went to sea: grain ships to the capital's barges, timber ships to [[place-salkhalon|Salkalon]], and the long runs east to [[place-helionis|Helionis]] and, before the war, to [[place-taruzelrgn|Taruzel]]. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck he has sailed for ten years, the man the captain asks before he turns for a lee shore. Between voyages he sleeps at the [Roll House]{.name data-type="place/structure"} with the other hands of the roll.
 

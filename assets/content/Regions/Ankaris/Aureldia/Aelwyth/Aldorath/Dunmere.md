@@ -16,7 +16,7 @@ data:
 
 **Dunmere** is the seat of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] and, at some twenty
 thousand people, the only place in the realm that is a city rather than a market town. It stands inland
-on the eastern side of [[place-aelwyth|Aelwyth]], under a castle that has been extended by every king who could afford to.
+on the eastern side of [[place-aelwyth|Eilwith]], under a castle that has been extended by every king who could afford to.
 
 Everything a feudal kingdom does is done here: the king's court and household, the assize, the exchequer
 such as it is, the great fairs, and the perpetual attendance of lords who must be seen at court often
@@ -31,7 +31,7 @@ interest, and the bargaining is conducted in hall, at table and in the yards out
 and with an attention to precedence that visitors from [[affiliation-kingdmdnvr|Dúnavarre]] find
 exhausting and revealing.
 
-It is also, in the manner of Aelwyth, conducted with the entire seriousness of a great power. Nobody at
+It is also, in the manner of Eilwith, conducted with the entire seriousness of a great power. Nobody at
 Dunmere has any working sense of how small Aldorath is.
 
 ## The Town
@@ -43,4 +43,4 @@ holds four in five of Aldorath's people.
 
 ## See Also
 
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-aelwyth|Aelwyth]]
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-aelwyth|Eilwith]]

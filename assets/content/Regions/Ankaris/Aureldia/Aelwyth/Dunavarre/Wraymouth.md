@@ -14,12 +14,12 @@ data:
   government: kingdmdnvr
 ---
 
-**Wraymouth** stands where the [Wray]{.name data-type="place/feature"} comes down to the sea on [[place-aelwyth|Aelwyth]]'s south-eastern coast, and is the
+**Wraymouth** stands where the [Wray]{.name data-type="place/feature"} comes down to the sea on [[place-aelwyth|Eilwith]]'s south-eastern coast, and is the
 second city of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] at about twenty-five hundred people.
 
 [[place-ravenmoor|Ravenmoor]] is the seat and holds the [[affiliation-dunavarsynod|Synod]]; Wraymouth does the work. These are the
 best natural harbors on the island, facing open water toward [[place-elavendre|Élavendre]] and the
-mainland beyond, and effectively all of Dúnavarre's trade—and a good share of Aelwyth's—passes over
+mainland beyond, and effectively all of Dúnavarre's trade—and a good share of Eilwith's—passes over
 its quays.
 
 ## The Port

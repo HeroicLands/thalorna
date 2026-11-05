@@ -1,28 +1,13 @@
 ---
 shortcode: aelwsemaronenc
-name: {full: Aelwythi Semaron Encoding}
+name: {full: Eilwithi Semaron Encoding}
 type: doc
 subType: reference
 data:
   packFolder: languages
   language: aelw
   font: semaron-kuriale
-  accepts:
-    - a-w
-    - y-z
-    - A-W
-    - Y-Z
-    - 0-9
-    - á
-    - é
-    - í
-    - ó
-    - ú
-    - Á
-    - É
-    - Í
-    - Ó
-    - Ú
+  accepts: [a-w, y-z, A-W, Y-Z, 0-9, á, é, í, ó, ú, Á, É, Í, Ó, Ú]
   vowels: aeiouAEIOUáéíóúÁÉÍÓÚ
   mappings:
     "0": DIGIT_ZERO
@@ -102,36 +87,16 @@ data:
     ng: ENGARIS_MIN
     Ng: ENGARIS_MAJ
     .: POINT
-    á:
-      - ANKRON_MIN
-      - STRESS
-    é:
-      - ELZA_MIN
-      - STRESS
-    í:
-      - ILTHERA_MIN
-      - STRESS
-    ó:
-      - ORNETHE_MIN
-      - STRESS
-    ú:
-      - ULMERA_MIN
-      - STRESS
-    Á:
-      - ANKRON_MAJ
-      - STRESS
-    É:
-      - ELZA_MAJ
-      - STRESS
-    Í:
-      - ILTHERA_MAJ
-      - STRESS
-    Ó:
-      - ORNETHE_MAJ
-      - STRESS
-    Ú:
-      - ULMERA_MAJ
-      - STRESS
+    á: [ANKRON_MIN, STRESS]
+    é: [ELZA_MIN, STRESS]
+    í: [ILTHERA_MIN, STRESS]
+    ó: [ORNETHE_MIN, STRESS]
+    ú: [ULMERA_MIN, STRESS]
+    Á: [ANKRON_MAJ, STRESS]
+    É: [ELZA_MAJ, STRESS]
+    Í: [ILTHERA_MAJ, STRESS]
+    Ó: [ORNETHE_MAJ, STRESS]
+    Ú: [ULMERA_MAJ, STRESS]
   rules:
     normalization: NFC
     matching: longest-first
@@ -147,25 +112,16 @@ data:
       changes-sound: false
       changes-length: false
       vowel-group-position: first-vowel
-    diaeresis:
-      allowed: false
+    diaeresis: {allowed: false}
     contextual-mappings:
-      - match: ny
-        before: vowel
-        emit: NYELIS_MIN
-      - match: Ny
-        before: vowel
-        emit: NYELIS_MAJ
-    y:
-      kind: consonant
-      sound: y in yes
-      vowel-reading: false
-    grave-accent:
-      allowed: false
+      - {match: ny, before: vowel, emit: NYELIS_MIN}
+      - {match: Ny, before: vowel, emit: NYELIS_MAJ}
+    y: {kind: consonant, sound: y in yes, vowel-reading: false}
+    grave-accent: {allowed: false}
 ---
 
-Aelwythi is written in [[skill-semrnscrpt|Semaron]], in the Kuriale hand.
-This encoding writes [[skill-aelwthlng|Aelwythi]] Roman spelling. The [[skill-aelwthlng#pronunciation|language note]] defines its pronunciation,
+Eilwithi is written in [[skill-semrnscrpt|Semaron]], in the Kuriale hand.
+This encoding writes [[skill-aelwthlng|Eilwithi]] Roman spelling. The [[skill-aelwthlng#pronunciation|language note]] defines its pronunciation,
 grammar and words.
 
 ## Letters and groups
@@ -182,7 +138,7 @@ The letter y is always a consonant, YALZEMIS, with the sound in yes.
 Before a vowel, ny takes NYELIS, the sound in canyon. Elsewhere n and y
 retain their individual signs. Write i for the vowel in machine.
 
-Aelwythi has no x, and c occurs only in ch. Its English-derived words use
+Eilwithi has no x, and c occurs only in ch. Its English-derived words use
 the respellings specified in the language note. Word lookup ignores case;
 encoding preserves the spelling's case. No word-specific native writing is
 stored or inferred by this encoding.

@@ -1,6 +1,6 @@
 ---
 shortcode: brynhallow
-name: {full: Brynhallow}
+name: {full: Brinhallow}
 type: place
 subType: settlement
 description: "A hill town of Aldorath's uplands—a wool and stone town, poorer and older than the lowland manors, keeping observances the cathedral at Dunmere would rather not examine."
@@ -8,7 +8,7 @@ tags: [town, hill, inland]
 data: {demonym: null, lore: [], parents: [brynwold], population: 1800, packFolder: aelwyth}
 ---
 
-**Brynhallow** sits high in the [[place-aldorathrgn|Aldorath Region]]'s upland country, where the manorial arable gives out and the land
+**Brinhallow** sits high in the [[place-aldorathrgn|Aldorath Region]]'s upland country, where the manorial arable gives out and the land
 is good for sheep, stone and very little else. Eighteen hundred people, and a reputation in the lowlands
 for being difficult.
 
@@ -24,12 +24,12 @@ back up.
 
 ## The Observances
 
-Brynhallow honors the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and keeps something else as well, at the old
+Brinhallow honors the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and keeps something else as well, at the old
 stones above the town, at the turnings of the year. The priest sent up from
 [[place-dunmere|Dunmere]] attends both and reports the parish devout, which is true, and complete, which
 it is not.
 
-This is unremarkable in the Aelwythan uplands, and it is one of the reasons lowland Aldorathi regard the
+This is unremarkable in the Eilwithan uplands, and it is one of the reasons lowland Aldorathi regard the
 hill parishes as half-barbarian and the hill parishes regard the lowlands as soft.
 
 ## See Also

@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-A dry late summer leaves the [[place-vylarisrvr|River Vylaris]] low, and the night's grain barges reach [[place-orzara|Orzara]] short. The Veramus of the Grain is about to open the state granaries on the River Circle to hold the price. Two of those halls hold sand beneath an arm's depth of wheat, and the city's week of bread is a day or more shorter than its council believes. The party is drawn in by a porters' quarrel, a late barge or a house's errand, and arrives at the moment when knowing about the sand is worth most. Every house that can fill the gap wants to know first, and none of them wants the city to learn it in a queue.
+A dry late summer leaves the [[place-vylarisrvr|River Vilaris]] low, and the night's grain barges reach [[place-orzara|Orzara]] short. The Veramus of the Grain is about to open the state granaries on the River Circle to hold the price. Two of those halls hold sand beneath an arm's depth of wheat, and the city's week of bread is a day or more shorter than its council believes. The party is drawn in by a porters' quarrel, a late barge or a house's errand, and arrives at the moment when knowing about the sand is worth most. Every house that can fill the gap wants to know first, and none of them wants the city to learn it in a queue.
 
 ## What Is Really Happening {#what-is-really-happening}
 

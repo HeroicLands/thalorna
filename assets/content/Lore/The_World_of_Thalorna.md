@@ -81,7 +81,7 @@ Thalorna is populated by warriors, scholars, rulers, rogues, priests, bards, and
 
 ## Creatures
 
-From the great river-beasts of [[place-aukhelathrgq|Au'Khelathu]] to the mountain-wights of [[place-aelwyth|Aelwyth]] and the spirit-fauna of the [[place-cntrlrnfrsts|Central Rainforests]], Thalorna's creatures are as varied as its peoples. Browse the full [[doc-being|catalog of beings]].
+From the great river-beasts of [[place-aukhelathrgq|Au'Khelathu]] to the mountain-wights of [[place-aelwyth|Eilwith]] and the spirit-fauna of the [[place-cntrlrnfrsts|Central Rainforests]], Thalorna's creatures are as varied as its peoples. Browse the full [[doc-being|catalog of beings]].
 
 ## Companies
 

@@ -1,6 +1,6 @@
 ---
 shortcode: wyndmarch
-name: {full: The Wyndmarch}
+name: {full: The Wiindmarch}
 type: place
 subType: region
 description: "Aldorath's eastern march below the Ironfells—the foothill country that watches the two passes, holds the royal forest, and shades into wilderness nobody governs."
@@ -14,7 +14,7 @@ data:
   packFolder: aelwyth
 ---
 
-The **Wyndmarch** is [[affiliation-kngdmldrth|Aldorath]]'s eastern frontier: the foothill country under
+The **Wiindmarch** is [[affiliation-kngdmldrth|Aldorath]]'s eastern frontier: the foothill country under
 [[place-ironfells|the Ironfells]], running from the approaches to the two passes in the north down toward
 [[place-hallowwood|the Hallowwood]] in the south. Thirty-four thousand people, and the kingdom's whole
 military attention.
@@ -22,7 +22,7 @@ military attention.
 ## The Passes
 
 Everything here is arranged around the two passes over [[place-sunderfells|the Sunderfells]] into
-[[affiliation-jrldmstrmvld|Stormveld]]. [[place-caerwynd|Kaerwynd]] is the march's fortress and watches
+[[affiliation-jrldmstrmvld|Stormveld]]. [[place-caerwynd|Kaerwiind]] is the march's fortress and watches
 the southern pass-heads; the garrisons, the levies and the beacon chain all exist for the possibility
 that something comes down out of the north.
 
@@ -53,4 +53,4 @@ Nobody at [[place-dunmere|Dunmere]] expects otherwise.
 
 ## See Also
 
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|the Sunderfells]]
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-caerwynd|Kaerwiind]] · [[place-sunderfells|the Sunderfells]]

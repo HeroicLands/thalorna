@@ -3,7 +3,7 @@ shortcode: hallowwood
 name: {full: The Hallowwood}
 type: place
 subType: region
-description: "The fae forest of southern Aelwyth, where the Sinale reside—closed to outsiders, tolerating embassies from Dúnavarre and welcoming only those from Élavendre and the Áelendan."
+description: "The fae forest of southern Eilwith, where the Sinale reside—closed to outsiders, tolerating embassies from Dúnavarre and welcoming only those from Élavendre and the Áelendan."
 tags: [region, woodland, sacred]
 data:
   demonym: null
@@ -14,12 +14,12 @@ data:
   packFolder: aelwyth
 ---
 
-The **Hallowwood** covers the south of [[place-aelwyth|Aelwyth]], between the farmland of
+The **Hallowwood** covers the south of [[place-aelwyth|Eilwith]], between the farmland of
 [[place-aldorathrgn|Aldorath]] to the north and the lowlands of
 [[place-dunavarre|Dúnavarre]] to the east: old, deep, unbroken forest, part of the third of the
 island that no realm has ever plowed.
 
-It is where the **[[lore-flksinale|Sinale]] of Aelwyth reside**, and it is the reason the island's
+It is where the **[[lore-flksinale|Sinale]] of Eilwith reside**, and it is the reason the island's
 reputation abroad is not entirely nonsense.
 
 ## Not Welcome
@@ -38,7 +38,7 @@ Three exceptions are recognized, and they are exceptions of person rather than o
 - [[affiliation-kngdmlvndr|Élavendre]] is genuinely welcome, on the strength of a relationship the Sinale
   hold with that kingdom and not with this island.
 - The [[lore-aelendnppl|Áelendan]] most of all. An Áelendan embassy from across the water is
-  received as no human party on Aelwyth has ever been received, which every Aelwythan realm knows and
+  received as no human party on Eilwith has ever been received, which every Eilwithan realm knows and
   none has been able to turn to any use.
 
 ## Why They Are In Here
@@ -47,7 +47,7 @@ The Sinale did not always live in the Hallowwood, and they did not withdraw into
 
 After [[lore-khazarturn|Khazartúrn fell]] in 2427 BF and the two elder races stopped speaking, the
 Sinale and [[lore-flkkhazar|Khazari]] **of this island** did something no others of their kind have ever
-attempted: they tried to repair it. In time they united Aelwyth under a **single crown**, held by a Sinale king,
+attempted: they tried to repair it. In time they united Eilwith under a **single crown**, held by a Sinale king,
 and governed the island together—and they kept that up for **six hundred years**. [[lore-jointcrown|The Joint Crown]] began about 1585 BF.
 
 Then, around **1200 BF**, the **[[lore-pelwarpepl|Pelwar]]** arrived: refugees, driven off the mainland by the
@@ -59,7 +59,7 @@ The surviving Sinale came into this forest and stayed, leaving the Khazari to fi
 them.
 
 That is the second time the Sinale have walked away from the Khazari in a crisis, and the Khazari have
-never forgiven either. The two elder races of Aelwyth have had nothing to do with one another since, and
+never forgiven either. The two elder races of Eilwith have had nothing to do with one another since, and
 the Sinale of the Hallowwood will not discuss it—not with the Synod, not
 with Élavendre, and not with [[lore-vardain|the Vardain]], who are the Khazari's
 people and are the one group the wood has never received at all.
@@ -73,7 +73,7 @@ Before the withdrawal there was an agreement, and it is the only one the two eld
 the sundering.
 
 [[miscgear-secondvoice|The Second Voice]]—the relic a Sinale outlaw used to destroy
-[[lore-khazarturn|Khazartúrn]]—was to be **held in trust on Aelwyth by both races together**, because
+[[lore-khazarturn|Khazartúrn]]—was to be **held in trust on Eilwith by both races together**, because
 this island was the one place they still shared a country and neither would be trusted to hold it alone.
 A convoy of six ships sailed from Élavendre carrying it, crewed by people chosen for
 being beyond reproach.
@@ -86,13 +86,13 @@ do is precisely the question, and it is one of the reasons an
 
 ## The Arcane Order Problem
 
-This is the flaw in the Synod's arrangement. Aelwyth is [[affiliation-ordoarcanis|Thordimalon]]'s unconstrained research ground
+This is the flaw in the Synod's arrangement. Eilwith is [[affiliation-ordoarcanis|Thordimalon]]'s unconstrained research ground
 precisely because its fae country has no [[affiliation-alndnwrdns|Wardens]]—and the single greatest concentration of fae presence
 on the island is the one place that does have a keeper, and it does not answer to Dúnavarre, and it
 tolerates the Synod's envoys the way one tolerates weather.
 
-The Arcane Order has learned a great deal on Aelwyth. It has learned almost nothing here.
+The Arcane Order has learned a great deal on Eilwith. It has learned almost nothing here.
 
 ## See Also
 
-- [[lore-flksinale|Sinale]] · [[place-aelwyth|Aelwyth]] · [[lore-aelendnppl|Áelendan People]]
+- [[lore-flksinale|Sinale]] · [[place-aelwyth|Eilwith]] · [[lore-aelendnppl|Áelendan People]]

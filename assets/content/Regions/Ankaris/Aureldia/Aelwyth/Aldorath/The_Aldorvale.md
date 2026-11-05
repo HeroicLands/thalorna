@@ -3,7 +3,7 @@ shortcode: aldorvale
 name: {full: The Aldorvale}
 type: place
 subType: region
-description: "The fertile heart of Aldorath and the breadbasket of Aelwyth—the grain country that feeds the island and makes the kingdom the largest power on it."
+description: "The fertile heart of Aldorath and the breadbasket of Eilwith—the grain country that feeds the island and makes the kingdom the largest power on it."
 tags: [region, valley, inland]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
 ---
 
 The **Aldorvale** is the broad, lush, well-watered heart of [[affiliation-kngdmldrth|Aldorath]], and the
-reason the kingdom is the largest on [[place-aelwyth|Aelwyth]]. Ninety-five thousand people live in it—half of
+reason the kingdom is the largest on [[place-aelwyth|Eilwith]]. Ninety-five thousand people live in it—half of
 Aldorath's total—on some of the best arable ground in the Aureldian west.
 
 ## The Breadbasket
@@ -27,7 +27,7 @@ here every year, [[affiliation-repblcndrth|Ondareth]] buys it in bad ones, and e
 [[affiliation-jrldmstrmvld|Stormveld]] has bought it over the passes when the northern harvest failed,
 through intermediaries, at prices nobody enjoyed.
 
-Being fed by Aldorath is a fact of Aelwythan politics that Aldorath's kings understand very well and
+Being fed by Aldorath is a fact of Eilwithan politics that Aldorath's kings understand very well and
 mention perhaps too often.
 
 ## The Manors

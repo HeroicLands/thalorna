@@ -89,7 +89,7 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-A foreign envoy who asks to be taken to the government of Helionis has asked for something that does not exist. [[place-helionis|Helionis]] has never been united under one ruler, and its people are too proud, too argumentative and too sure of their own city's constitution to submit to another's. Seven sovereign city-states share the region and its three million people. What binds them is a common culture, the [[skill-helonclng|Helonic Language]], the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]], and a network of festivals, athletic games and religious observances that holds them together socially while leaving each of them free.
+A foreign envoy who asks to be taken to the government of Helionis has asked for something that does not exist. [[place-helionis|Helionis]] has never been united under one ruler, and its people are too proud, too argumentative and too sure of their own city's constitution to submit to another's. Seven sovereign city-states share the region and its three million people. What binds them is a common culture, the [[skill-helonclng|Helonik Language]], the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]], and a network of festivals, athletic games and religious observances that holds them together socially while leaving each of them free.
 
 ## Who Decides
 

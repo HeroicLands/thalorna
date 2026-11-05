@@ -53,7 +53,7 @@ sohl: {system: {commonSkills: []}}
 
 "They are going to lose," a gudi who keeps a farm hov in the [[place-norgaad|Norgaad]] passes tells every newcomer, before he gives them a single god's name. "At the close of this age the gods who stand against the fire go down with the world, and their heirs inherit whatever comes after. We worship them because they know it and go out to meet it anyway. If you want gods who promise to win, go south."
 
-The Asguardian Pantheon is the dominant faith of the northern and coastal peoples of the [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]], [[place-aelwyth|Aelwyth]] and other northern territories. In its teaching, its ten gods each govern a part of existence, and its people expect the present age to end at [[lore-aldarlok|Aldarlok]] in a battle the defending gods do not survive. An outsider remembers the faith for that expectation, and for the weight it gives a sworn word.
+The Asguardian Pantheon is the dominant faith of the northern and coastal peoples of the [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]], [[place-aelwyth|Eilwith]] and other northern territories. In its teaching, its ten gods each govern a part of existence, and its people expect the present age to end at [[lore-aldarlok|Aldarlok]] in a battle the defending gods do not survive. An outsider remembers the faith for that expectation, and for the weight it gives a sworn word.
 
 ## The Ten
 

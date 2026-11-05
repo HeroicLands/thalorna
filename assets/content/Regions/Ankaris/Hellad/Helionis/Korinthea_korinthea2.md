@@ -18,7 +18,7 @@ The [Council of Korinthea]{.name data-type="affiliation/governmental"} is the vi
 
 ## Character
 
-[[affiliation-korinthea|Korinthea]] shares the [[skill-helonclng|Helonic Language]] and the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with the other Helionite city-states, and like them it settles quarrels in the open. Honor is a civic matter here: the temple judges honor-trials, and the duels of its judges are famous throughout the city. The High Judge's reputation for holding every party to its oath earns him formal courtesy from the city's powerful, and a careful distance.
+[[affiliation-korinthea|Korinthea]] shares the [[skill-helonclng|Helonik Language]] and the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with the other Helionite city-states, and like them it settles quarrels in the open. Honor is a civic matter here: the temple judges honor-trials, and the duels of its judges are famous throughout the city. The High Judge's reputation for holding every party to its oath earns him formal courtesy from the city's powerful, and a careful distance.
 
 ## See Also
 

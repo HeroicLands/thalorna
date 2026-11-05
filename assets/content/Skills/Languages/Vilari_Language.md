@@ -9648,7 +9648,7 @@ data:
     - {name: Tirellan, tongue: vylari}
     - {name: Nartun, tongue: vylari}
     - {name: Nartun Kingdom, tongue: translation}
-    - {name: River Vylaris, tongue: translation}
+    - {name: River Vilaris, tongue: translation}
     - {name: Kozmai, tongue: vylari, built: [kozma, "-ai"]}
     - {name: Sulkozma, tongue: vylari, built: ["sulk-", kozma]}
     - {name: The Mouths, tongue: translation}
@@ -10765,6 +10765,8 @@ data:
     - {form: Vylarian, instead: Vilérian, why: respelled to Pronouncing Thalorna}
     - {form: Vylaria, instead: Viléria, why: respelled to Pronouncing Thalorna}
     - {form: Vylari, instead: Vilari, why: respelled to Pronouncing Thalorna}
+    - {form: Vylaris, instead: Vilaris, why: respelled to Pronouncing Thalorna}
+    - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -10792,15 +10794,15 @@ The language also carries the empire's order in its names. The **hallowed** endi
 
 Vilari is crisp and clipped, the speech of law and the court. Most words have two or three syllables, and a word ends on a vowel or on _s_, _n_ or _r_.
 
-**The vowels.** _a_, _e_ and _o_ carry most words, with _i_ after them. Vilari keeps its vowels single: _ei_ and _eu_ belong to [[skill-helonclng|Helonic]].
+**The vowels.** _a_, _e_ and _o_ carry most words, with _i_ after them. Vilari keeps its vowels single: _ei_ and _eu_ belong to [[skill-helonclng|Helonik]].
 
-**The consonants.** _l_, _r_, _s_, _z_, _m_, _n_, _t_, _k_ and _v_ do most of the work. _th_ stands inside a word, as in _semrotha_. _z_ is the language's mark, and it stands where Helonic would put _s_.
+**The consonants.** _l_, _r_, _s_, _z_, _m_, _n_, _t_, _k_ and _v_ do most of the work. _th_ stands inside a word, as in _semrotha_. _z_ is the language's mark, and it stands where Helonik would put _s_.
 
 **Clusters.** _lm_, _lt_, _rm_, _rth_, _nd_ and _st_ meet inside a word. A word opens on one consonant or on a stop followed by _l_ or _r_.
 
 **Endings.** Nouns end in _-os_, _-is_, _-a_, _-en_ or _-on_. Titles end in _-andos_, _-enos_ or _-or_. Feminine names end in _-a_ or _-enna_.
 
-**What Vilari leaves out.** It has no _kh_, _gh_ or _dh_, which are Helonic's, and no _ei_ or _eu_. The ancient forms write their catch with an apostrophe, as in _k'aralzon_ and _k'arthorgila_, where the _k_ is said with the catch. The catch adds no vowel or syllable, and has no quotation role. The worn-down article of Alessa speech is _a'_, an _a_ with the catch after it.
+**What Vilari leaves out.** It has no _kh_, _gh_ or _dh_, which are Helonik's, and no _ei_ or _eu_. The ancient forms write their catch with an apostrophe, as in _k'aralzon_ and _k'arthorgila_, where the _k_ is said with the catch. The catch adds no vowel or syllable, and has no quotation role. The worn-down article of Alessa speech is _a'_, an _a_ with the catch after it.
 
 ## Two Stages
 

@@ -30,11 +30,11 @@ Eastward the country changes. In Bizaria the warm coast climbs into dry, steppe-
 
 ## Two Peoples of One Stock
 
-The Helladic peoples are overwhelmingly human, descended from an old stock whose tongue gave rise to [[skill-helonclng|Helonic]] and its sister languages, [[skill-byzarnlng|Bizarian]] among them. They divide into two related cultures.
+The Helladic peoples are overwhelmingly human, descended from an old stock whose tongue gave rise to [[skill-helonclng|Helonik]] and its sister languages, [[skill-byzarnlng|Bizarian]] among them. They divide into two related cultures.
 
 The [[lore-helioniteclt|Helionite]] people of the west are pastoral, philosophical and, in their older cities, democratic. Their academies, philosophical schools and civic assemblies have produced more of the continent's theological, metaphysical and political writing than any other region. Their cities govern themselves in every form a Helionite has found an argument for—oligarchy, democracy, hereditary tyranny, elected kingship—and quarrel over which form is best, often settling the question by war. Their _hetairin_ (educated companions), schooled in music, philosophy, rhetoric and the social arts, are known across Midhalión as companions to the powerful and as subtle political agents.
 
-The [[lore-byzarianclt|Bizarian]] people of the eastern confederation are commercial and polyglot. Their five cities—[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]] and [[affiliation-orashion|Órashion]]—are merchant republics whose people descend from generations of marriage among Helonic, Taruzeli, Khazrin and Vilérian families. Guilds and banking houses run them. The League settles its business in trade councils far more often than on battlefields, and the First of the Council who holds each city's seal serves a fixed term, under heavy constraint from the council that elected him.
+The [[lore-byzarianclt|Bizarian]] people of the eastern confederation are commercial and polyglot. Their five cities—[[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]] and [[affiliation-orashion|Órashion]]—are merchant republics whose people descend from generations of marriage among Helonik, Taruzeli, Khazrin and Vilérian families. Guilds and banking houses run them. The League settles its business in trade councils far more often than on battlefields, and the First of the Council who holds each city's seal serves a fixed term, under heavy constraint from the council that elected him.
 
 ## The Gods in Two Rites
 

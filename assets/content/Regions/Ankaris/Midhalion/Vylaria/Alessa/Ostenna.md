@@ -3,7 +3,7 @@ shortcode: ostenna
 name: {full: Ostenna}
 type: place
 subType: settlement
-description: "A small river-port town on the River Vylaris where the road meets the barges, whose boatmen, warehousemen and toll-clerks pass a great part of the capital's grain downstream and decide between them which barge goes and which one waits."
+description: "A small river-port town on the River Vilaris where the road meets the barges, whose boatmen, warehousemen and toll-clerks pass a great part of the capital's grain downstream and decide between them which barge goes and which one waits."
 tags: [port, town, river]
 data:
   demonym: null
@@ -22,7 +22,7 @@ A toll-clerk at the landing, teaching a boy to read the barges, starts with the 
 
 ## Arriving
 
-The river is the [[place-vylarisrvr|River Vylaris]], and Ostenna stands on a low bluff above it, upstream of the capital, with the road coming down to the water through a cutting. Below the bluff the [Landing]{.name data-type="place/site"} runs along the bank: stone quays, a row of tall warehouses with hoists jutting from their upper doors, and the [Toll House]{.name data-type="place/structure"}, the one handsome building in the town, with a colonnade on the water side and the tariff of the river cut into a bronze board beside its door. Barges lie two and three deep along the quays, and more wait in a line in midstream for a berth. On a still evening the smell of wet grain carries up to the town.
+The river is the [[place-vylarisrvr|River Vilaris]], and Ostenna stands on a low bluff above it, upstream of the capital, with the road coming down to the water through a cutting. Below the bluff the [Landing]{.name data-type="place/site"} runs along the bank: stone quays, a row of tall warehouses with hoists jutting from their upper doors, and the [Toll House]{.name data-type="place/structure"}, the one handsome building in the town, with a colonnade on the water side and the tariff of the river cut into a bronze board beside its door. Barges lie two and three deep along the quays, and more wait in a line in midstream for a berth. On a still evening the smell of wet grain carries up to the town.
 
 The upper quay is busy. The lower one has silted, and its warehouses have bricked up their river doors and load from the road instead. The bronze tariff board was cut for coins that are no longer struck, and a clerk has chalked the present charges beside it.
 
@@ -58,7 +58,7 @@ The boatmen's inns stand at the top of the cutting, where the road reaches the b
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : the imperial overview
 
-[[place-vylarisrvr|River Vylaris]]
+[[place-vylarisrvr|River Vilaris]]
 : the river the barges run
 
 [[place-orzara|Orzara]]

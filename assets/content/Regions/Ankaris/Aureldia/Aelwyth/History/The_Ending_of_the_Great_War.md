@@ -60,7 +60,7 @@ data:
         - whether the Khazari meant to leave the island to the humans, or merely stopped wanting it
 ---
 
-The Ending of the Great War is recalled by a short saying in [[place-vardainvalleys|the Vardain valleys is short]]: the [[lore-flkkhazar|Khazari]] finished it, and then they went home. It is a complete account of how the [Great War]{.name data-type="lore/history"} ended on [[place-aelwyth|Aelwyth]], and it leaves out only the question of why a people who had just won would go home.
+The Ending of the Great War is recalled by a short saying in [[place-vardainvalleys|the Vardain valleys is short]]: the [[lore-flkkhazar|Khazari]] finished it, and then they went home. It is a complete account of how the [Great War]{.name data-type="lore/history"} ended on [[place-aelwyth|Eilwith]], and it leaves out only the question of why a people who had just won would go home.
 
 ## A War With Nobody Left to Fight It
 
@@ -76,7 +76,7 @@ The works of [[lore-jointcrown|the Joint Crown]] stood on that ground and had no
 
 - **The bounds of [[place-vardanreach|Vardanreach]].** A fifth of the island, kept by the one hold that never claimed to rule it.
 - **A friendship of thousands of years.** The Vardain's standing with Vorgald, which lasts until [[lore-stormveldtkn|the Taking of Stormveld]] by the Nordmen in 660 AF.
-- **Every Aelwythan realm's ground.** Land that came to the humans because the elder races stopped, and not because anyone gave it.
+- **Every Eilwithan realm's ground.** Land that came to the humans because the elder races stopped, and not because anyone gave it.
 - **An unwritten ending.** The Khazari archive records the war and its end in the same entry, and the entry is two lines long.
 
 ## See Also
@@ -84,7 +84,7 @@ The works of [[lore-jointcrown|the Joint Crown]] stood on that ground and had no
 [[lore-threesistrs|The Battle of the Three Sisters]]
 : the field the war was lost on
 
-[[lore-jointcrown|The Joint Crown of Aelwyth]]
+[[lore-jointcrown|The Joint Crown of Eilwith]]
 : the kingdom whose roads the Pelwar inherited
 
 [[place-vardanreach|Vardanreach]] · [[lore-vardain|the Vardain]]

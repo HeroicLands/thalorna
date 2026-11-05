@@ -103,7 +103,7 @@ The breach that followed is the one the world half-knows and cannot date. The [[
 existed and had never thought a weapon against cities worth mentioning, since they build none; one of
 theirs used it; and they hunted him down themselves, took a long time about it, and handed over
 nothing. Both positions are defensible and neither survives contact with the other. Only on
-[[place-aelwyth|Aelwyth]], where the two peoples were already neighbors, did anybody try to repair it.
+[[place-aelwyth|Eilwith]], where the two peoples were already neighbors, did anybody try to repair it.
 
 The relic was never recovered a second time, which is why the Khazari kill Grukar on sight everywhere,
 knowing perfectly well that the Grukar were its first victims and chose none of it.

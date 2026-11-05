@@ -3,7 +3,7 @@ shortcode: stormveld
 name: {full: Stormveld}
 type: place
 subType: region
-description: "The land of the Jarldom of Stormveld—the fjord-cut north-east of Aelwyth, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."
+description: "The land of the Jarldom of Stormveld—the fjord-cut north-east of Eilwith, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."
 tags: [region]
 data:
   demonym: Stormvelder
@@ -14,16 +14,16 @@ data:
   government: jrldmstrmvld
   culture: nordheimnclt
 
-# terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands). The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
+# terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands). The northeastern tip of the eastern arm of the inverted-V Eilwithan island."
 ---
 
 ## Overview
 
 "The [[place-nrdlndsrgn|Nordlands Region]] is where my grandfather's boat came from," a [[place-stormveil|Stormveil]] harbor pilot says, bringing a Nordheim hull in past the headland, "and the plain is where I was born, and I have never been asked which one is home." He grins, and then does not. "Mind the channel. It shifts."
 
-Stormveld is the land of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], the north-east of [[place-aelwyth|Aelwyth]]: [[place-stormplain|the Stormplain]] between [[place-nordfells|the Nordfells]] and [[place-sunderfells|the Sunderfells]]. It occupies something like a fifth of the island's land area, more than any other realm holds, and about 150,000 people live in it.
+Stormveld is the land of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], the north-east of [[place-aelwyth|Eilwith]]: [[place-stormplain|the Stormplain]] between [[place-nordfells|the Nordfells]] and [[place-sunderfells|the Sunderfells]]. It occupies something like a fifth of the island's land area, more than any other realm holds, and about 150,000 people live in it.
 
-The northeastern coast of Aelwyth, with its fjord-like inlets and rocky headlands, was taken by Nordmen about sixty years ago, seafarers from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and they hold it still.
+The northeastern coast of Eilwith, with its fjord-like inlets and rocky headlands, was taken by Nordmen about sixty years ago, seafarers from the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and they hold it still.
 
 ## Character
 
@@ -42,7 +42,7 @@ Timber, thrall-worked produce and hides go north; iron, ships, men and quarrels 
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]
 : the Jarldom that holds this land
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : the island
 
 [[place-stormveil|Stormveil]]

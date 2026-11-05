@@ -141,7 +141,7 @@ This encoding writes [[skill-bethunlng|Bethuan]] in helonika-book. A passage sel
 
 ## From the Spelling Guide to the Helónika
 
-- **_kh_ is one letter**, the aspirate letter that Bethuan writes where Helonic writes _k_ and _h_. _Zh_ is _z_ and _h_.
+- **_kh_ is one letter**, the aspirate letter that Bethuan writes where Helonik writes _k_ and _h_. _Zh_ is _z_ and _h_.
 - **_ei_ is the long _e_ and _ou_ the long _o_**, letters of their own.
 - **A doubled _aa_, _ii_ or _uu_ is the barred vowel**, one letter with a bar over it.
 - **An acute vowel is the vowel followed by the accent**, which Bethuan writes on the stressed syllable. An acute on the first letter of _ei_ or _ou_ stresses the long vowel and writes it followed by the accent. An acute on the second letter starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _eí_ is _e_ and then the accented _i_.

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Wharves feed [[place-orzara|Orzara City]] in the dark. The barges of the [[place-vylarisrvr|River Vylaris]] come in through the night with the grain, the oil and the wine, so that the bakers have flour at dawn, and by first light the quays below [Nerval]{.name data-type="place/feature"}, the River Hill, are stacked with sacks and loud with porters. The district runs along the river from the river gate to the foot of the [[place-warrensorz|Warrens]]: the quays and their water-stairs, the long state granaries under the imperial seal, the warehouses of the chandlers and the great houses, the fish-market, the halls of the watermen and the porters, and the walled [Strangers' Row]{.name data-type="place/site"}, where the city's registered foreign traders live. At its heart lies the [River Circle]{.name data-type="place/site"}, with a great aqueduct-fountain throwing water higher than the barges' masts.
+The Wharves feed [[place-orzara|Orzara City]] in the dark. The barges of the [[place-vylarisrvr|River Vilaris]] come in through the night with the grain, the oil and the wine, so that the bakers have flour at dawn, and by first light the quays below [Nerval]{.name data-type="place/feature"}, the River Hill, are stacked with sacks and loud with porters. The district runs along the river from the river gate to the foot of the [[place-warrensorz|Warrens]]: the quays and their water-stairs, the long state granaries under the imperial seal, the warehouses of the chandlers and the great houses, the fish-market, the halls of the watermen and the porters, and the walled [Strangers' Row]{.name data-type="place/site"}, where the city's registered foreign traders live. At its heart lies the [River Circle]{.name data-type="place/site"}, with a great aqueduct-fountain throwing water higher than the barges' masts.
 
 A barge-master who has brought grain down the river for twenty-five years tells every passenger who comes ashore at the water-stairs the three things the Wharves will ask him: "The Watch will ask you who you are. The customs clerk will ask what you are carrying. And at dusk the Watch will ask you where you sleep, and if you are not a citizen and have no paper, the answer had better be outside the line."
 
@@ -68,7 +68,7 @@ The Wharves fear a low river and a burned granary, and the quarrel on the quays 
 [[place-orzara|Orzara]]
 : the city
 
-[[place-vylarisrvr|River Vylaris]]
+[[place-vylarisrvr|River Vilaris]]
 : the river the barges come down
 
 [[place-grandmarketorz|Grand Market]]

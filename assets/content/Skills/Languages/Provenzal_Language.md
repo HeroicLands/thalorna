@@ -7579,6 +7579,7 @@ data:
       why: "a name written with the hiatus ia, which Provenzal lacks"
     - {form: treëme, instead: treeme, why: "respelled without the diaeresis"}
     - {form: kordutreëma, instead: kordutreema, why: "respelled without the diaeresis"}
+    - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7618,7 +7619,7 @@ Provenzal is soft and sung, the coast speech of courtly verse. Its consonants we
 
 **Endings.** Provenzal words end in _-a_, _-e_, _-el_, _-or_, _-ena_ or _-is_. Lyric and courtly words take _-eza_.
 
-**What Provenzal leaves out.** It has no _th_ or _dh_, which soften to _t_ and _d_. It has no _kh_ or _gh_, no _zd_, and no _-os_ from [[skill-helonclng|Helonic Language]].
+**What Provenzal leaves out.** It has no _th_ or _dh_, which soften to _t_ and _d_. It has no _kh_ or _gh_, no _zd_, and no _-os_ from [[skill-helonclng|Helonik Language]].
 
 ## Phonology
 

@@ -164,7 +164,7 @@ Campaigns start well from a contest. A city needs a team for the games and its b
 - [[affiliation-panepistmm|The Epistémion]], [[lore-panepistfnd|its founding]] and [[affiliation-ordoarcanis|the Thordimalon]] for the academies and the order that grew out of them
 - [[lore-helionscnq|The Conquest of Helionis]] for the war that ended the cities' freedom and began the Order
 - [[affiliation-arldnpnthn|The Aureldian Pantheon]] for the gods the cities share
-- [[skill-helonclng|Helonic]] for the tongue of the theater and its naming traditions
+- [[skill-helonclng|Helonik]] for the tongue of the theater and its naming traditions
 - [[place-heladrgn|Hellád]] for the wider country, and [[place-byzariargn|Bizaria]] for the cousins to the east
 
 ## Glossary

@@ -398,7 +398,7 @@ Harfos Orkarenis is a 37-year-old man who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Harfos Orkarenis is a chandler of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vylaris]], who keeps a candle shop and a stores warehouse behind the [Long Quay]{.name data-type="place/structure"}. He sells two trades from one door. To the ships in the [Sea Basin]{.name data-type="place/feature"} he sells tallow candles, lamp oil, cordage and the rest of a ship's stores, by the crate and on account. To the stewards of the great houses of [[place-orzara|Orzara]] he sells beeswax candles, scented and colored, which go up the river on the barges from the [Barge Basin]{.name data-type="place/feature"} with the capital's own cargoes.
+Harfos Orkarenis is a chandler of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vilaris]], who keeps a candle shop and a stores warehouse behind the [Long Quay]{.name data-type="place/structure"}. He sells two trades from one door. To the ships in the [Sea Basin]{.name data-type="place/feature"} he sells tallow candles, lamp oil, cordage and the rest of a ship's stores, by the crate and on account. To the stewards of the great houses of [[place-orzara|Orzara]] he sells beeswax candles, scented and colored, which go up the river on the barges from the [Barge Basin]{.name data-type="place/feature"} with the capital's own cargoes.
 
 The second trade is the one he is proud of. A steward of the capital buys in quantity, pays through a [[affiliation-danvar|Danvar]] draft and orders again, and Harfos means to have more of them on his books every year than any chandler on the quay.
 

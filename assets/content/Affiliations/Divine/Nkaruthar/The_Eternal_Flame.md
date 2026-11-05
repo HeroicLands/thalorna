@@ -258,7 +258,7 @@ any care. People do it. Rather a lot of them do not do it twice.
 
 The reverse case does not arise. There is no apostasy from the Spirit Path, because there is
 nothing to renounce—only [[affiliation-yenorzhrng|Spirit-Deafness]], which is inflicted rather
-than chosen, and which the Okharics regard as a far worse thing to have happen to a person than
+than chosen, and which the Okharik regard as a far worse thing to have happen to a person than
 being burned for refusing the Flame.
 
 ### Relationship to Other Faiths

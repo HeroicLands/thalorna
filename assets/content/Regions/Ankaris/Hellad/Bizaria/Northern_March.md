@@ -39,7 +39,7 @@ The March's relationship to the capital is that of a country estate to a great h
 
 ## Peoples
 
-The uplanders of the Northern March are Bizarian hill-farmers of Helonic stock, worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, plain-spoken and clannish, with a reputation in the coastal cities for stubbornness and honesty in roughly equal measure. Along the frontier they have intermarried with Velanthian drovers for generations, and the border villages speak a dialect of [[skill-byzarnlng|Bizarian]] thick with Velanthian loanwords. A few small monasteries of the eastern rite stand in the high valleys, chroniclers and hospitallers for the road; the [[affiliation-ashanpnthn|Ashaian shrines]] of the other marches are absent here.
+The uplanders of the Northern March are Bizarian hill-farmers of Helonik stock, worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, plain-spoken and clannish, with a reputation in the coastal cities for stubbornness and honesty in roughly equal measure. Along the frontier they have intermarried with Velanthian drovers for generations, and the border villages speak a dialect of [[skill-byzarnlng|Bizarian]] thick with Velanthian loanwords. A few small monasteries of the eastern rite stand in the high valleys, chroniclers and hospitallers for the road; the [[affiliation-ashanpnthn|Ashaian shrines]] of the other marches are absent here.
 
 ## Economy
 

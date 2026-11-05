@@ -397,7 +397,7 @@ Dekela Baremzates is a 27-year-old woman who stands 5'11" tall and is of moderat
 
 # Dossier {#dossier}
 
-Dekela Baremzates is a potter of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vylaris]], who was raised at her parents' wheel, keeps their shop off the market square, and holds the master's seal of the potters' guild that they held before her. Her green-glazed bowls are on the tables of houses in [[place-orzara|Orzara]] that have never heard her name.
+Dekela Baremzates is a potter of [[place-aelissium|Elissara]], the chartered free city at the mouth of the [[place-vylarisrvr|River Vilaris]], who was raised at her parents' wheel, keeps their shop off the market square, and holds the master's seal of the potters' guild that they held before her. Her green-glazed bowls are on the tables of houses in [[place-orzara|Orzara]] that have never heard her name.
 
 Her parents made plain crockery for the households of the city. By the time the shop came to her she had gone where they never went: patterned ware, bowls and jars and lamps with designs worked into the slip, and glazes she has spent years arriving at, a green that holds its color through the kiln and a blue that came out of a season of failures. She fires in the kilns outside the landward wall, and she is never satisfied with anything that comes out of them.
 

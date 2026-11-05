@@ -105,7 +105,7 @@ The syndicates compete ruthlessly for territory, contacts, and revenue. Border d
 [[affiliation-adanshreni|The Adanshreni]] (The Shrena of Taking)
 : the chartered thieves' guild of the Vedyaran kingdoms, and the exception that proves the pattern above. It is larger than any syndicate on this list and behaves nothing like one: a hereditary craft guild holding lawful charters in some forty kingdoms, earning more from underwriting theft than from committing it, and outliving every dynasty that has tried to be rid of it. The syndicates regard it as barely criminal. It regards them as unchartered.
 
-### Aelwyth
+### Eilwith
 
 [[affiliation-umbralcourt|The Umbral Court]]
 : the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the other body on this page that is not really a syndicate. It is the household of a crown the [[affiliation-ordoarcanis|Thordimalon]] Synod set aside generations ago, kept alive by the dispossessed nobility: a shadow court that funds itself on gaming debt and contraband, hears petitions from subjects the Synod will not hear, and has spent four generations learning how not to be seen by rulers who are mages.

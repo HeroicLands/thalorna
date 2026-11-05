@@ -397,7 +397,7 @@ Wilstan Osgood is a 30-year-old man who stands 5'9" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Wilstan Osgood is a ratter.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Wilstan Osgood is a ratter.
 
 Wilstan has spent most of his life catching rats in the crowded streets of the city. Known for his quick reflexes and sharp nose, he uses traps and trained ferrets together to keep the rats down. He is a familiar figure in his neighborhood, often seen with his loyal ferret, [Squeak]{.name data-type="being/creature"}. His skills are in high demand, especially in homes and markets plagued by infestations.
 
@@ -441,7 +441,7 @@ Echoes of the Past
 : A household Wilstan cleared years ago is infested again, worse, and the neighbors say he never cleared it at all.
 
 Shifting Winds
-: Political change in Aelwyth threatens the markets Wilstan's trade depends on, and he can adapt, resist, or leave.
+: Political change in Eilwith threatens the markets Wilstan's trade depends on, and he can adapt, resist, or leave.
 
 The Opportunity
 : A lord's steward offers Wilstan the run of a whole manor's rats at good wages, and Squeak is not welcome in the house.

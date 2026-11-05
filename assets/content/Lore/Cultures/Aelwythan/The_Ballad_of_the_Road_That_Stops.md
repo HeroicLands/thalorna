@@ -287,5 +287,5 @@ Nor what the laying kost.
 
 ## See Also
 
-- [[lore-jointcrown|The Joint Crown of Aelwyth]]—who laid the roads
+- [[lore-jointcrown|The Joint Crown of Eilwith]]—who laid the roads
 - [[place-hallowwood|The Hallowwood]] · [[place-threesisters|the Three Sisters]] · [[place-cntrlhghlnds|the Central Highlands]]

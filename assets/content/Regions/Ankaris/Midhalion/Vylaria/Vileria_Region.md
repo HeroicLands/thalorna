@@ -48,9 +48,9 @@ The **Vilérian roads** still join the great cities and run on into provinces th
 
 The empire's western frontier rises into the [[place-kervaron|Kervaron Spine]], a great arc of high mountains between the Vilérian peninsula and the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of [[place-tarvenirgn|Tarvénia]]. Its dozen narrow passes are the only practicable crossings from east to west. [[affiliation-seldan|Seldan]], the Senate, lists the range as imperial territory on the strength of the boundary-stones its legions planted at the passes in [[lore-westernwars|the Western Wars]], and the empire has never governed a valley of it. The Kervaron is the sacred country of the [[lore-aelendnppl|Áelendan]], who hold its peaks to be the dwellings of [[affiliation-firstgods|the First Gods]], and Vilérian merchants cross it by paying the clans a passage-gift at the first camp below each pass. Since the [Doran Hilvan]{.name data-type="affiliation"} was lost in the range ([[lore-twelfthloss|The Loss of the Twelfth]]), no merchant questions the gift and the chancery has not raised the range with the clans.
 
-### The River Vylaris
+### The River Vilaris
 
-The [[place-vylarisrvr|River Vylaris]] crosses the heartland from the interior hills to the sea. Grain comes down it from the inland landings to the capital, and the capital's sea cargoes are hauled up it from [[place-aelissium|Elissara]], the chartered city at its mouth, where the river reaches the sea through a fan of reed-marsh channels called the [Mouths]{.name data-type="place/feature"}.
+The [[place-vylarisrvr|River Vilaris]] crosses the heartland from the interior hills to the sea. Grain comes down it from the inland landings to the capital, and the capital's sea cargoes are hauled up it from [[place-aelissium|Elissara]], the chartered city at its mouth, where the river reaches the sea through a fan of reed-marsh channels called the [Mouths]{.name data-type="place/feature"}.
 
 ## Current Situation {#present}
 
@@ -64,12 +64,12 @@ The heartland lives on borrowed money and waits on an old man's death. The [[aff
 The Vilérian Roads
 : the engineering that once joined the empire's territories; many stand and remain the main overland trade routes.
 
-The River Vylaris
+The River Vilaris
 : the river the heartland is named for, running through Alessa and [[place-salkhalon|Salkalon]] to the sea.
 
 ## Hooks {#hooks}
 
-- **The week of bread.** A grain house of [[place-orzara|Orzara]] hires a party to bring a string of grounded barges down the [[place-vylarisrvr|River Vylaris]] before the granaries run low.
+- **The week of bread.** A grain house of [[place-orzara|Orzara]] hires a party to bring a string of grounded barges down the [[place-vylarisrvr|River Vilaris]] before the granaries run low.
 - **The empty chair.** A family that lost a case in [[place-alyssa|Alessa]] this year wants to know who sealed the judgment.
 
 ## See Also
@@ -95,7 +95,7 @@ The River Vylaris
 [[place-kervaron|Kervaron Spine]]
 : the western frontier range
 
-[[place-vylarisrvr|River Vylaris]]
+[[place-vylarisrvr|River Vilaris]]
 : the river the land is named for
 
 [[lore-vylarianclt|Vilérian]]

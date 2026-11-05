@@ -139,9 +139,9 @@ This encoding writes [[skill-valtarlng|Valtari]] in helonika-book. A passage sel
 - **_ch_ is three letters.** The script has no _c_, so _ch_ is written _t_, _s_, _h_.
 - **_ph_ is the letter _f_.**
 - **_y_ is the letter _i_ and _w_ the letter _u_**, as glides and as vowels alike.
-- **An acute vowel is the plain vowel.** Helonic writes no accent. An acute on the second letter of _ei_ or _ou_ starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _eí_ is the letters _e_ and _i_.
+- **An acute vowel is the plain vowel.** Helonik writes no accent. An acute on the second letter of _ei_ or _ou_ starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _eí_ is the letters _e_ and _i_.
 - **A diaeresis vowel is the plain vowel**, so it never joins the vowel before it into _ē_ or _ō_.
-- **A doubled vowel is two letters.** Helonic writes no length.
+- **A doubled vowel is two letters.** Helonik writes no length.
 - **_q_ is the letter _k_.** The script has no _q_.
 
 - **The numerals** 0 to 9 are the Helónika digits.

@@ -6135,6 +6135,7 @@ data:
     - {form: aldr, instead: aldur, why: "an Earth word"}
     - {form: hringr, instead: hringur, why: "an Earth word"}
     - {form: brandr, instead: brandur, why: "an Earth word"}
+    - {form: Aelwyth, instead: Eilwith, why: respelled to Pronouncing Thalorna}
 # terran_analog: the place-name layers follow Scandinavian toponymy: theophoric names such as Odensvi, Torsberg and Ullevi, a founder's name as in Grimsstadir, and the assembly's as in Thingvellir and Logberg.
 sohl:
   system:
@@ -6149,7 +6150,7 @@ sohl:
 
 Nordmal is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Nordmal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Nordmal is the tongue of the frozen north, spoken across the five [[lore-nordheimnclt|Nordmen]] kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Aelwyth]] where Nordman settlers have established communities among the [[place-elavendre|Élavendri lands]]. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
+Nordmal is the tongue of the frozen north, spoken across the five [[lore-nordheimnclt|Nordmen]] kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Eilwith]] where Nordman settlers have established communities among the [[place-elavendre|Élavendri lands]]. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
 
 ## Overview
 
@@ -6265,7 +6266,7 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 
 **Interior Highland:** Spoken in mountainous regions inland, preserves more archaic features.
 
-**Frontier Speech (Aelwyth Nordmal):** A mixed variety spoken in north-eastern Aelwyth, where the Nordmen of [[place-stormveld|Stormveld]] hold land, incorporating some [[skill-elvndrlng|Élavendri]] vocabulary and showing phonetic simplification due to bilingual contact.
+**Frontier Speech (Eilwith Nordmal):** A mixed variety spoken in north-eastern Eilwith, where the Nordmen of [[place-stormveld|Stormveld]] hold land, incorporating some [[skill-elvndrlng|Élavendri]] vocabulary and showing phonetic simplification due to bilingual contact.
 
 ## Sample Phrases
 
@@ -6336,7 +6337,7 @@ Nordmal stands closest to [[skill-varokhlng|Varokhi]], sharing many archaic Pelw
 
 The relationship to southern Pelwar languages ([[skill-vylarilng|Vilari]], [[skill-provnzlng|Provenzal]], [[skill-tarvenlng|Tarveni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
 
-[[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Aelwyth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
+[[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Eilwith, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
 
 ## Naming Traditions
 

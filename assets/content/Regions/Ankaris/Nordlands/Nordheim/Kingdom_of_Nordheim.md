@@ -119,7 +119,7 @@ The crown has stayed in one clan since the acclamations: the [Knalthidrok]{.name
 - [Thrildorv]{.name data-type="being/npc"}, about 455 to 481, who held the shore at [[place-skalfvatan|Skalfvatan]] when Malagna's host went through the ice ([[lore-nordkinwars|The Kin-Wars]]).
 - [Bruldmil]{.name data-type="being/npc"}, about 503 to 519, king of [[lore-threewinters|the Three Winters]], who swore the door-seat oath at the sitting of 518.
 - [Thraskmil]{.name data-type="being/npc"}, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
-- [Vruthorv]{.name data-type="being/npc"}, about 650 to 689, who sent three kingdoms' fleets to [[place-aelwyth|Aelwyth]] ([[lore-stormveldtkn|The Taking of Stormveld]]).
+- [Vruthorv]{.name data-type="being/npc"}, about 650 to 689, who sent three kingdoms' fleets to [[place-aelwyth|Eilwith]] ([[lore-stormveldtkn|The Taking of Stormveld]]).
 - [Hvarnorv]{.name data-type="being/npc"}, king since 689.
 
 Hvarnorv is old. He has two grown grandsons and has named neither, and the ting at Knalthstead will not be asked to choose between them while he lives. Each grandson has jarls who would sit behind him at the sixty-third sitting, and each knows which seats those are.

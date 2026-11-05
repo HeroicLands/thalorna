@@ -1,6 +1,6 @@
 ---
 shortcode: sunderwynd
-name: {full: Sunderwynd}
+name: {full: Sunderwiind}
 type: place
 subType: site
 description: "An Aldorathi watch-post on a crag above a gorge on the southern approach to one of the Ironfells passes, its garrison taken one by one and hung in a dead pine by a made thing that keeps to the heights."
@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-The southern approach to the more easterly of the two [[place-ironfells|Ironfells passes]] climbs for a day through steep, sodden forest and then enters a gorge, a narrow cleft with a torrent at the bottom and a trail cut along one wall. At the gorge's upper end, on a crag that overhangs the trail, stands **Sunderwynd**: a square stone tower, a walled yard, a gatehouse and a barrack range with arrow-slits on the gorge side. The name is the gorge's, the split way between the hills. Every pack-pony that crosses the pass from the south goes under the post's walls, and the post collects the crown's toll on it.
+The southern approach to the more easterly of the two [[place-ironfells|Ironfells passes]] climbs for a day through steep, sodden forest and then enters a gorge, a narrow cleft with a torrent at the bottom and a trail cut along one wall. At the gorge's upper end, on a crag that overhangs the trail, stands **Sunderwiind**: a square stone tower, a walled yard, a gatehouse and a barrack range with arrow-slits on the gorge side. The name is the gorge's, the split way between the hills. Every pack-pony that crosses the pass from the south goes under the post's walls, and the post collects the crown's toll on it.
 
-Sunderwynd is an outpost of [[place-caerwynd|Kaerwynd]], which watches the southern ends of the passes. Its garrison is a captain and a score of men, relieved by a patrol up from Kaerwynd at intervals, and its life is weather, smugglers and the occasional skirmish with the jarl's men at the pass-head ([[place-sunderfells|the Sunderfells]]).
+Sunderwiind is an outpost of [[place-caerwynd|Kaerwiind]], which watches the southern ends of the passes. Its garrison is a captain and a score of men, relieved by a patrol up from Kaerwiind at intervals, and its life is weather, smugglers and the occasional skirmish with the jarl's men at the pass-head ([[place-sunderfells|the Sunderfells]]).
 
 ## The Post
 
@@ -52,31 +52,31 @@ The Hangman has no voice. The voices from the heights are the taken, alive, hung
 
 :::
 
-It is a [[lore-dreadspawncrtr|dreadspawn]], made and not born, and there is nothing else like it on [[place-aelwyth|Aelwyth]]. A band of dark metal is sunk into one of its limbs, grown over at the edges, cut with marks nobody at the post could read. What it was made for, who made it and why it came down to Sunderwynd are not known.
+It is a [[lore-dreadspawncrtr|dreadspawn]], made and not born, and there is nothing else like it on [[place-aelwyth|Eilwith]]. A band of dark metal is sunk into one of its limbs, grown over at the edges, cut with marks nobody at the post could read. What it was made for, who made it and why it came down to Sunderwiind are not known.
 
 ## Who Knows, and What They Say
 
-- **Kaerwynd** knows the post has sent no signal for some days and has sent a relief patrol up the gorge.
+- **Kaerwiind** knows the post has sent no signal for some days and has sent a relief patrol up the gorge.
 - **The smugglers** who cross the pass know that something took a string of ponies off the trail in the gorge a season ago, and have used the other pass since. They say the trail-men of the far side tell of a long thing in the high rocks that calls down in the voices of the men it took, and that nobody there goes up alone or answers a voice from above.
 - **[[lore-vardain|The Vardain]] of the valleys** below the range have a word for a made thing that walks where it should not, and they will not say it in the post's direction.
 
 ## Reaching It
 
-The gorge trail is the only road to Sunderwynd. It is a day's climb from the last forest steading below, and the trail is cut into a wall of loose rock that comes down after heavy rain. Above the post the pass runs on into high country under snow for a third of the year. The post's drainage tunnel opens on the gorge face below the trail, and a climber who knows it is there can reach the trail from it, below any slide in the upper gorge.
+The gorge trail is the only road to Sunderwiind. It is a day's climb from the last forest steading below, and the trail is cut into a wall of loose rock that comes down after heavy rain. Above the post the pass runs on into high country under snow for a third of the year. The post's drainage tunnel opens on the gorge face below the trail, and a climber who knows it is there can reach the trail from it, below any slide in the upper gorge.
 
 ## Hooks
 
-- **The pay vault.** The toll and the garrison's silver lie walled up behind the cistern. Kaerwynd's quartermaster wants them carried down, and so does anyone else who hears of them.
+- **The pay vault.** The toll and the garrison's silver lie walled up behind the cistern. Kaerwiind's quartermaster wants them carried down, and so does anyone else who hears of them.
 - **The relief patrol.** A patrol went up the gorge to relieve the post and has not signaled.
 - **The captain's sword.** The captain who walled the vault carried a fine sword, a gift of the crown, and his family has asked for it.
 
 ## See Also
 
 - [[scenario-hangingdead|The Hanging Dead of the Ironfells]]—a scenario set here
-- [[place-ironfells|The Ironfells]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|the Sunderfells]]
+- [[place-ironfells|The Ironfells]] · [[place-caerwynd|Kaerwiind]] · [[place-sunderfells|the Sunderfells]]
 - [[lore-dreadspawncrtr|Dreadspawn]]—made things, of which the Hangman is one
 
-# The Truth of Sunderwynd {#truth .secret}
+# The Truth of Sunderwiind {#truth .secret}
 
 **The Hangman.** It is what the daybook says in every particular but two: it has no voice, and most of what it hangs is alive. It keeps to the heights, moving across walls, ceilings, beams and the hollow places in the masonry, and it never touches the ground. On open ground with nothing above it to climb it does not come, so the open yard is safe at any hour. Brought down to the floor it is slow, clumsy and badly placed, its reach is short, and it can be killed. Its body is light for its size and smells of nothing. Who made it, and to what end, is not known to anyone living.
 
@@ -84,7 +84,7 @@ The gorge trail is the only road to Sunderwynd. It is a day's climb from the las
 
 **Why the voices call.** It lets the hung call because a man who goes to a voice in the heights comes within reach. The voice is the bait, and the Hangman waits beside whoever is calling. Every voice in the post is a living man's, saying what he sees and what he wants.
 
-**The hung now.** This is the post on the afternoon a rockslide closes the upper gorge below it, the day the relief patrol from [[place-caerwynd|Kaerwynd]] reaches the gate.
+**The hung now.** This is the post on the afternoon a rockslide closes the upper gorge below it, the day the relief patrol from [[place-caerwynd|Kaerwiind]] reaches the gate.
 
 - **Captain Aldmund Hardwick** hangs in the tower's roof-room under the signal platform, above the table where he was writing when he was taken, three nights before the slide. A rafter cracked as the rope took his weight. He is weak and lucid at dusk, after the watering, and he calls down the trap and through the platform's slits for [Kenric Brandley]{.name data-type="being/npc"}, the one man of the garrison left on the ground, by name.
 - **The dead pine** holds three. Two are men of the garrison taken on the wall in the first nights, dead and dry. The third is a patrolman of that relief, taken at the gate that afternoon and dipped within the hour, alive. When he wakes he calls for his sergeant, [Wilrik]{.name data-type="being/npc"}.

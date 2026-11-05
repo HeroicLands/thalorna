@@ -48,7 +48,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-_Helonic: **Epistémion**—"the place of all knowledge," the Helonic word for a university, often clipped to the **Epistémion** and called, in plain words, simply the Academy of Knowledge._
+_Helonik: **Epistémion**—"the place of all knowledge," the Helonik word for a university, often clipped to the **Epistémion** and called, in plain words, simply the Academy of Knowledge._
 
 A lecturer of the [College of Ethics]{.name data-type="affiliation"}, asked what the Epistémion is, takes you to the gate of a chapterhouse and points at the sign. "That is the seal of the oldest scholarly body in the west. It teaches law, logic, language and natural philosophy, and a farmer's son can learn his letters under it. Now ask me who pays for the roof, who appoints the head of the house, and whose students are quietly counted for a talent the Order wants. My college refused its seal to the charter that made the Order, and the seal is on the door anyway."
 

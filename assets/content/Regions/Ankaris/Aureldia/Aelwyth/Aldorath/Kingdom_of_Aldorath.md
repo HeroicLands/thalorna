@@ -3,7 +3,7 @@ shortcode: kngdmldrth
 name: {full: Kingdom of Aldorath}
 type: affiliation
 subType: polity
-description: "Chivalric kingdom surrounding Aelwyth's great central lake—feudal, mystical, and deeply intertwined with prophecy and the legends of the lake's ancient power."
+description: "Chivalric kingdom surrounding Eilwith's great central lake—feudal, mystical, and deeply intertwined with prophecy and the legends of the lake's ancient power."
 data:
   templatePriority: null
   demonym: Aldorathi
@@ -119,7 +119,7 @@ sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 
 ## Overview
 
-The Kingdom of Aldorath is the heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, [Drethar of Kingshollow]{.name data-type="being/npc"}, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of the [[place-aldorathrgn|Aldorath Region]].
+The Kingdom of Aldorath is the heartland kingdom of [[place-aelwyth|Eilwith]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, [Drethar of Kingshollow]{.name data-type="being/npc"}, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of the [[place-aldorathrgn|Aldorath Region]].
 
 ## Character
 
@@ -127,7 +127,7 @@ Prophecy and questing are woven into the fabric of Aldorathian culture; knights 
 
 ## The Sinale Connection
 
-The [[lore-flksinale|Sinale]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Aelwythan polity. This connection gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Sinale do not explain their reasons, and the Aldorathian court knows better than to press them.
+The [[lore-flksinale|Sinale]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Eilwithan polity. This connection gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Sinale do not explain their reasons, and the Aldorathian court knows better than to press them.
 
 ## Relations
 
@@ -139,7 +139,7 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ar
 
 ## See Also
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : The island
 
 [[place-aldorathrgn|Aldorath Region]]
@@ -159,7 +159,7 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ar
 
 ## Population and Society
 
-Aldorath holds about **200,000** people, making it much the largest of Aelwyth's settled realms—half
+Aldorath holds about **200,000** people, making it much the largest of Eilwith's settled realms—half
 again the size of the Jarldom and nearly three times [[affiliation-kingdmdnvr|Dúnavarre]], a fact its
 lords mention rather more often than their neighbors enjoy.
 

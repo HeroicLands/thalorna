@@ -58,7 +58,7 @@ Each city has its own government, laws and customs. They combine against a commo
 
 ## Demonstrated, Not Claimed
 
-Public debate on philosophy and politics is a cherished part of civic life, and it is public in the plain sense—held in the agorin, before an audience, with the audience deciding. So is athletics, so is theater, so is the law. The tongue says as much: the stage and the assembly share their vocabulary, because the Helonic peoples hold that a city argues as a chorus sings, many voices to one line.
+Public debate on philosophy and politics is a cherished part of civic life, and it is public in the plain sense—held in the agorin, before an audience, with the audience deciding. So is athletics, so is theater, so is the law. The tongue says as much: the stage and the assembly share their vocabulary, because the Helonik peoples hold that a city argues as a chorus sings, many voices to one line.
 
 The consequence is that a Helionite reputation cannot be inherited and cannot be bought. It must be performed, repeatedly, in front of witnesses who know the difference. A rich man's son who cannot argue is a rich man's son who cannot argue; the city says so to his face, and then invites him to dinner anyway.
 
@@ -215,11 +215,11 @@ The schools teach a city's songs, legends and plays as its record, and these are
 [[lore-heladthyrsiege|The Siege of Thirenae]]
 : the terms that kept the colleges
 
-[[skill-helonclng|Helonic]]
+[[skill-helonclng|Helonik]]
 : the tongue of drama, rhetoric and verse
 
 ## Glossary {#glossary}
 
-The full dictionary is in the [[skill-helonclng#lexicon|Helonic Language]].
+The full dictionary is in the [[skill-helonclng#lexicon|Helonik Language]].
 
 Ardin, Solden and Bit are loanwords from the [[lore-vylarianclt#glossary|Vilérian]] culture.

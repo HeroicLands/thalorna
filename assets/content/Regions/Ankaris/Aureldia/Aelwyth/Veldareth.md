@@ -3,14 +3,14 @@ shortcode: veldareth
 name: {full: Veldareth}
 type: place
 subType: settlement
-description: "A free city on Aelwyth's southern coast between Dúnavarre and Ondareth, a neutral meeting ground whose Epistémion chapterhouse is among the most respected on the island."
+description: "A free city on Eilwith's southern coast between Dúnavarre and Ondareth, a neutral meeting ground whose Epistémion chapterhouse is among the most respected on the island."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [aelwyth], packFolder: aelwyth}
 ---
 
 ## Overview
 
-Veldareth is a free city on the southern coast of [[place-aelwyth|Aelwyth]], standing between the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], and it belongs to neither. It is one of the island's smaller polities—one of the free cities and independent lordships scattered between the major realms—and it has made its living from being the place where the two neighbors can meet without either one being at home.
+Veldareth is a free city on the southern coast of [[place-aelwyth|Eilwith]], standing between the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], and it belongs to neither. It is one of the island's smaller polities—one of the free cities and independent lordships scattered between the major realms—and it has made its living from being the place where the two neighbors can meet without either one being at home.
 
 ## Neutral Ground and Learning
 

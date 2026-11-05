@@ -28,7 +28,7 @@ data:
     complexion: {weathered: 4, sun_kissed: 3, smooth: 2, ruddy: 1}
     height: {female: {min: 5' 4", max: 6' 1"}, male: {min: 5' 6", max: 6' 5"}}
 
-# terran_analog: "Classical and Byzantine-era Anatolia (philosophical city-states, caravan crossroads, an upland plateau behind the coast, frontier marches facing the Persian and Pontic worlds). Carries over: crossroads cities of mixed Helonic, Levantine and Persian-world families, guild-chartered trade, monasteries serving an eastern-rite civic faith. Departs: five cities held together by a reputation for keeping terms, with professional arbitrators and guild enforcement in place of feud."
+# terran_analog: "Classical and Byzantine-era Anatolia (philosophical city-states, caravan crossroads, an upland plateau behind the coast, frontier marches facing the Persian and Pontic worlds). Carries over: crossroads cities of mixed Helonik, Levantine and Persian-world families, guild-chartered trade, monasteries serving an eastern-rite civic faith. Departs: five cities held together by a reputation for keeping terms, with professional arbitrators and guild enforcement in place of feud."
 ---
 
 Bizarian culture is the culture of the bargain. The tongue has more words for kinds of agreement than most languages have for colors, the courts are staffed by professional arbitrators, and the highest civic honor in any of the five cities of the [[affiliation-byzarianlg|Bizarian League]] is to be named Warden of the Weights—the officer whose inspections make the city's word good. [[lore-heladweighing|The Weighing at Krusteikhos]], about 455 AF, is where the first Warden proved a tax-farmer's brass standard false. A Bizarian understands that his cities have no great river and no divine mandate. What they have is a reputation for keeping terms, and he regards that reputation as infrastructure.
@@ -43,7 +43,7 @@ Apprenticeship is long and is understood as a kind of adoption. A master owes hi
 
 ## Two Bizarias
 
-The coast and the caravan cities are a deep mixture—Helonic, [[lore-taruzelianclt|Taruzeli]], Khazrin and [[lore-vylarianclt|Vilérian]] families intermarried for generations, with [[lore-dunhariclt|Dunhari]] and Khazrini merchant quarters that keep their own tongues, faiths and law and are left to do it.
+The coast and the caravan cities are a deep mixture—Helonik, [[lore-taruzelianclt|Taruzeli]], Khazrin and [[lore-vylarianclt|Vilérian]] families intermarried for generations, with [[lore-dunhariclt|Dunhari]] and Khazrini merchant quarters that keep their own tongues, faiths and law and are left to do it.
 
 The plateau is another country: herding clans and farming villages, more homogeneous and considerably more conservative, speaking with an upland accent and regarding the coastal cities as foreigners who happen to buy their wool. The plateau feeds and clothes the coast and resents it; the coast pays the plateau and patronizes it. Neither can do without the other, and both say so only when drunk.
 

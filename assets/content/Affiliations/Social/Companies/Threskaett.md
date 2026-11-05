@@ -3,7 +3,7 @@ shortcode: threskaett
 name: {full: Threskaett}
 type: affiliation
 subType: venture
-description: "A Norgaad company that began as coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of Aelwyth."
+description: "A Norgaad company that began as coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of Eilwith."
 tags: [draft, company, norgaad, mariner]
 data:
   culture: nordheimnclt
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Threskaett** is a company of [[place-norgaad|Norgaad]]. It began as a band of coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of [[place-aelwyth|Aelwyth]]. The [[affiliation-malldbndlg|Málalidabandalag]] names it among the companies heard of in the north.
+**Threskaett** is a company of [[place-norgaad|Norgaad]]. It began as a band of coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of [[place-aelwyth|Eilwith]]. The [[affiliation-malldbndlg|Málalidabandalag]] names it among the companies heard of in the north.
 
 The name is the keel-kin: _thresk-_ is a keel, and _-aett_ is a kin reckoned together.
 
@@ -48,5 +48,5 @@ The name is the keel-kin: _thresk-_ is a keel, and _-aett_ is a kin reckoned tog
 [[place-norgaad|Norgaad]]
 : the kingdom it sails from
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : the land whose merchant kings hire it

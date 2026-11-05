@@ -19,13 +19,13 @@ The **Nordfells** run along the whole northern edge of [[place-stormveld|Stormve
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]'s territory and hold about twenty-two thousand of its people—which is to say they are nearly
 empty.
 
-The name is a Nordmen one, and recent. What the Aelwythans called them before the conquest is recorded in
+The name is a Nordmen one, and recent. What the Eilwithans called them before the conquest is recorded in
 places and is not used.
 
 ## The Country
 
 Cold, wet, and higher than [[place-ironfells|the Ironfells]] to the south. Snow lies on the tops well
-into what passes for summer on [[place-aelwyth|Aelwyth]], the valleys are narrow and boggy, and the whole range drops
+into what passes for summer on [[place-aelwyth|Eilwith]], the valleys are narrow and boggy, and the whole range drops
 sharply to the northern coast in cliffs and inlets.
 
 Those inlets are the Nordfells' importance. Small craft can put in along the whole northern shore
@@ -36,7 +36,7 @@ that the Jarldom has never managed to stop.
 ## Its People
 
 Shepherds, turf-cutters and a scatter of hard upland steadings, Nordmen and thrall alike, plus the
-Jarldom's hunters. The fells also hold a number of communities that acknowledge nobody—Aelwythan
+Jarldom's hunters. The fells also hold a number of communities that acknowledge nobody—Eilwithan
 uplanders who withdrew after the conquest and have not come down since, and whom the jarls treat as
 weather rather than as rebels.
 
@@ -46,7 +46,7 @@ The fells hold [[lore-grukaraelwyth|Grukar]], as the empty country of this islan
 hundred years—long before there was a Jarldom to be troubled by them.
 
 They are in the high folds and the old workings, and Stormveld loses upland steadings to them most
-years. The Jarldom books these losses as raiding by the Aelwythan uplanders who withdrew after the
+years. The Jarldom books these losses as raiding by the Eilwithan uplanders who withdrew after the
 conquest, which is convenient, occasionally accurate, and not believed by the men who patrol up there.
 
 ## See Also

@@ -395,7 +395,7 @@ Osrun Barnwell is a 25-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Osrun Barnwell is a potter.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Osrun Barnwell is a potter.
 
 Osrun is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Osrun enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
 
@@ -430,7 +430,7 @@ Few; generally well-liked, though some traditionalists may disapprove of her sty
 ## Plot Hooks
 
 The Potter's Dilemma
-: Osrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+: Osrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
 
 Old Grudges
 : Few; generally well-liked, though some traditionalists may disapprove of her style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -439,7 +439,7 @@ Echoes of the Past
 : Something from Osrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Aelwyth threaten to upend the social order that Osrun depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwith threaten to upend the social order that Osrun depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Osrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

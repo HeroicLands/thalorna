@@ -395,7 +395,7 @@ Mildrun Harden is a 41-year-old woman who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Mildrun Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of [[lore-aelwythanclt|Aelwythan]] heritage.
+Mildrun Harden was born in the [[place-aelwyth|Eilwith]] region to a guilded family of [[lore-aelwythanclt|Eilwithan]] heritage.
 
 Mildrun has run the [Harden Inn]{.name data-type="place/structure"} for more than twenty years. She takes pride in her ale and offers travelers a meal and a bed. Locals and travelers gather at the inn, where she often shares stories from her own travels.
 
@@ -430,7 +430,7 @@ Few; well-liked in the community.
 ## Plot Hooks
 
 The Innkeeper's Dilemma
-: Mildrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+: Mildrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
 
 Old Grudges
 : Few; well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -439,7 +439,7 @@ Echoes of the Past
 : Something from Mildrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Aelwyth threaten to upend the social order that Mildrun depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwith threaten to upend the social order that Mildrun depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Mildrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

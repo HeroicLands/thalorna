@@ -3,7 +3,7 @@ shortcode: helnkscrpt
 name: {full: Helónika Script}
 type: skill
 subType: script
-description: "The Helonic letters—the eastern alphabet of theater, verse and the ledger, carried by three tongues and every harbor between them."
+description: "The Helonik letters—the eastern alphabet of theater, verse and the ledger, carried by three tongues and every harbor between them."
 tags: []
 data:
   icon: icon-speaking
@@ -21,7 +21,7 @@ sohl:
   flags: {"thalorna": {script_family: Alphabetic}}
 ---
 
-The Helónika is the alphabet of [[place-helionis|Helionis]] and the eastern half of the civilized world—twenty-four letters, seven of them vowels, each with a majuscule and a minuscule form, written left to right with spaces between words and a raised dot at the end of a sentence. It is the older of the two great alphabets: the [[skill-semrnscrpt|Semaron]] took its habit of writing vowels as letters rather than as points from [[skill-helonclng|Helonic]] practice, and [[lore-vylarianclt|Vilérian]] scholars, who dislike admitting it, still cite Helonic works in the original.
+The Helónika is the alphabet of [[place-helionis|Helionis]] and the eastern half of the civilized world—twenty-four letters, seven of them vowels, each with a majuscule and a minuscule form, written left to right with spaces between words and a raised dot at the end of a sentence. It is the older of the two great alphabets: the [[skill-semrnscrpt|Semaron]] took its habit of writing vowels as letters rather than as points from [[skill-helonclng|Helonik]] practice, and [[lore-vylarianclt|Vilérian]] scholars, who dislike admitting it, still cite Helonik works in the original.
 
 A capital marks a proper name and the first word of a paragraph, and nothing else; a sentence that begins inside a paragraph begins in a minuscule.
 
@@ -29,8 +29,8 @@ It is a script, not a tongue. A character needs **both** the Helónika and the r
 
 ## What it carries
 
-Helonic
-: the original fit, and still the prestige one. Published drama, poetry and rhetoric are written in Helonic in the Helónika whatever the writer's birth tongue.
+Helonik
+: the original fit, and still the prestige one. Published drama, poetry and rhetoric are written in Helonik in the Helónika whatever the writer's birth tongue.
 
 [[skill-byzarnlng|Bizarian]]
 : the same letters plus additions for _zh_ and the eastern _kh_, and length diacritics that formal writing feels free to omit. The scribe-houses of [Soridion]{.name data-type="place/settlement"} and [Kalumion]{.name data-type="place/settlement"} standardized it.
@@ -39,7 +39,7 @@ Helonic
 : a recension that sets a length bar over a long vowel, writes _kh_ with a letter of its own, marks the pitch accent with an accent over the vowel, and has the **§ register-mark** that signals a shift between the masculine and feminine grammatical registers. Feminine-register texts are the more carefully pointed; temple copies are pointed throughout.
 
 [[skill-valtarlng|Valtari]]
-: in the northern and Helonic-facing ports, where a docker's tally is set down in Helonic letters by whoever is holding the stylus, with no orthography worth the name.
+: in the northern and Helonik-facing ports, where a docker's tally is set down in Helonik letters by whoever is holding the stylus, with no orthography worth the name.
 
 ## Hands
 
@@ -47,8 +47,8 @@ The book hand is upright, evenly spaced, and slow, and is what a copyist in a mo
 
 ## Who has it
 
-Perhaps 30–40% of the Helonic nobility and 30–50% of the Bizarian; the priesthood, to the extent needed to recite and gloss liturgy; and the professional scribes and magistrates the Epistémion (the Academy of Knowledge) chapterhouses train. In [[place-bethuargn|Bethua]] the temple scribes hold it and [[affiliation-bthntrdhss|the Trade-Houses]] depend on it—a letter of credit is a sealed papyrus in Bethuan letters, and the seal is worth nothing if the text beneath it cannot be read back. Over ninety in a hundred people cannot read at all; civic inscriptions are cut in the Helónika and then read aloud to the crowd by a herald.
+Perhaps 30–40% of the Helonik nobility and 30–50% of the Bizarian; the priesthood, to the extent needed to recite and gloss liturgy; and the professional scribes and magistrates the Epistémion (the Academy of Knowledge) chapterhouses train. In [[place-bethuargn|Bethua]] the temple scribes hold it and [[affiliation-bthntrdhss|the Trade-Houses]] depend on it—a letter of credit is a sealed papyrus in Bethuan letters, and the seal is worth nothing if the text beneath it cannot be read back. Over ninety in a hundred people cannot read at all; civic inscriptions are cut in the Helónika and then read aloud to the crowd by a herald.
 
 ## In play
 
-The commonest trouble is not the alphabet but which language is inside it. A character with the Helónika and only Bizarian can sound out a Helonic inscription letter-perfect and understand nothing—which is exactly how a herald with no education performs one. The second trouble is pointing: Bizarian formal writing drops the length marks, so a name or an amount can be read two ways, and contracts have been fought over in three cities on that basis.
+The commonest trouble is not the alphabet but which language is inside it. A character with the Helónika and only Bizarian can sound out a Helonik inscription letter-perfect and understand nothing—which is exactly how a herald with no education performs one. The second trouble is pointing: Bizarian formal writing drops the length marks, so a name or an amount can be read two ways, and contracts have been fought over in three cities on that basis.

@@ -27,7 +27,7 @@ To a raider, a captive may be a ransom claim or someone to sell. To the person t
 
 At [[lore-sumarmal|Somarmál]], ships return to the water and offerings seek a good growing and sailing year. The open season gives crews a chance to trade, raid or carry service along the same routes. It also leaves households to tend fields, stores and the people who depend on them. [[lore-veturnetur|Veturnetur]] turns attention to preserved food and the coming scarcity. A voyage's gain matters most when the hall must feed those who stayed.
 
-Raids from the Nordlands to [[place-aelwyth|Aelwyth]] and [[place-elavendre|Élavendre]], and as far south as [[place-provenzrgn|Provénzia]], happen. Such voyages take stores and time that the hall must reckon against the work left to those ashore.
+Raids from the Nordlands to [[place-aelwyth|Eilwith]] and [[place-elavendre|Élavendre]], and as far south as [[place-provenzrgn|Provénzia]], happen. Such voyages take stores and time that the hall must reckon against the work left to those ashore.
 
 The north's thin fields and long winters explain the pressure to sail south. They do not turn every voyage into a raid, and they do not excuse what a crew does when it lands. Malagnan sailors trade and negotiate as well as fight; [[place-targud|Targud]]'s frontier calls people to defend forts and settlements. A longship can bring food home by exchange as readily as by force.
 

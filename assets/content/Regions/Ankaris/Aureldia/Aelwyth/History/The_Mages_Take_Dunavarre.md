@@ -55,7 +55,7 @@ data:
 
 ## Three Reigns
 
-The [[affiliation-ordoarcanis|Thordimalon]] came to Dúnavarre as advisors, as it came to every Aelwythan court, and the advisors at Ravenmoor were more capable than the kings they served. The first king lost his treasury to an advisor who kept it solvent. The second lost the courts to a _marendos_ (master) who kept them honest. The third lost the harbors and the host, each to a mage who held it better, and the last held nothing that had to be done. The crown became ceremonial a reign at a time, and the day it was set aside was a day on which nothing changed. The [[affiliation-dunavarsynod|Synod]] governed the day before, and it governed the day after.
+The [[affiliation-ordoarcanis|Thordimalon]] came to Dúnavarre as advisors, as it came to every Eilwithan court, and the advisors at Ravenmoor were more capable than the kings they served. The first king lost his treasury to an advisor who kept it solvent. The second lost the courts to a _marendos_ (master) who kept them honest. The third lost the harbors and the host, each to a mage who held it better, and the last held nothing that had to be done. The crown became ceremonial a reign at a time, and the day it was set aside was a day on which nothing changed. The [[affiliation-dunavarsynod|Synod]] governed the day before, and it governed the day after.
 
 The kingdom's own chronicles tell this as a natural evolution, and the account is consistent with the facts as far as they are recorded. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] and the [[affiliation-repblcndrth|Republic of Ondareth]] tell it as a coercion, and the account is consistent with the same facts. The Synod's records do not decide between them and the Synod has never been asked to open them.
 

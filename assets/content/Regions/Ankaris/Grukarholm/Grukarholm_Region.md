@@ -37,7 +37,7 @@ to a country from outside, by people describing where the Grukar are.
 The land came by the name honestly enough. Nobody else wanted it—cold, wet, forested, marshy,
 agriculturally worthless—so nobody else took it, and over a long time it filled up with Grukar. Naming
 it after them is simple accuracy on a chart. It is not a statement about how they are organized, and
-Nordmen and Vristwaldic usage that speaks of "the Grukar king" is a convenience of grammar with nothing
+Nordmen and Vristwaldik usage that speaks of "the Grukar king" is a convenience of grammar with nothing
 behind it.
 
 **Ahks do not cooperate.** Every tribe is its own thing, centered on its own spawner, and there is no

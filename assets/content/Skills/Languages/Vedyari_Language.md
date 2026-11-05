@@ -8406,6 +8406,7 @@ data:
     - form: Vaidyavallabha
       instead: Ghotranyasa
       why: "an Earth phrase, the title of a book of Earth"
+    - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -8443,7 +8444,7 @@ Vedyari has two registers, and they sound alike but end differently. The classic
 
 **Verse.** Vedyari verse counts syllables, by the count given under calling names below, and does not rhyme. Most of its forms are couplets (_poksa_), a long line answered by a short one: the recitation and the sworn oath of ten and six, the catechism of twelve and eight, the dialogue of fourteen and seven, and the epic couplet of sixteen and eight, whose long line breaks near its middle. The laments of the march companies keep one short line of seven, and their spoken close stands outside the count. The craft is in return and echo: a refrain the hearers answer, a close repeated with one word changed, a formula that comes back through a catalog, and a sound doubled within a line, as in _jvelaka jvelak_, "kindles the lamp".
 
-**What Vedyari leaves out.** It has no _th_ and no _dh_, since the guide reads both as the sounds of _thin_ and _this_, and no _ph_; the sound of _f_ is written _f_. It avoids _lv_ and the endings of [[skill-helonclng|Helonic Language]], _-os_ and _-is_. No word closes on two consonants but _nd_, and none closes on _sh_, _kh_, _bh_, _v_ or _h_.
+**What Vedyari leaves out.** It has no _th_ and no _dh_, since the guide reads both as the sounds of _thin_ and _this_, and no _ph_; the sound of _f_ is written _f_. It avoids _lv_ and the endings of [[skill-helonclng|Helonik Language]], _-os_ and _-is_. No word closes on two consonants but _nd_, and none closes on _sh_, _kh_, _bh_, _v_ or _h_.
 
 ## Phonology
 

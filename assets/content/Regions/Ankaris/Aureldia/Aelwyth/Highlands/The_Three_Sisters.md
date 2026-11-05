@@ -3,25 +3,25 @@ shortcode: threesisters
 name: {full: The Three Sisters, en: [Battle of Three Sisters]}
 type: place
 subType: site
-description: "Three peaks above the Central Highlands, and the battlefield where the Sinale king of Aelwyth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
+description: "Three peaks above the Central Highlands, and the battlefield where the Sinale king of Eilwith was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
 tags: [sacred, mountain, inland]
 data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: null, packFolder: aelwyth}
 ---
 
 The Three Sisters are three peaks standing together above the open ground of [[place-cntrlhghlnds|the Central Highlands]], in
-the middle of [[place-aelwyth|Aelwyth]]. They are unremarkable mountains and the most important place on the island.
+the middle of [[place-aelwyth|Eilwith]]. They are unremarkable mountains and the most important place on the island.
 
 ## The Battle
 
 In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar]] and their [Varkhad]{.name data-type="lore/folk"} masters beneath them, and the **Sinale king of
-Aelwyth was killed** by the Varkhad.
+Eilwith was killed** by the Varkhad.
 
 It was the decisive engagement of the [Great War]{.name data-type="lore/history"}, and its consequences went far past who held the
 field. With the king dead the surviving [[lore-flksinale|Sinale]] **withdrew**—out of the war, out of
 the kingdom, and into the deep forest of the south that is now [[place-hallowwood|the Hallowwood]]—and
 left the [[lore-flkkhazar|Khazari]] to finish it.
 
-The Khazari finished it. They have never forgiven the withdrawal, and the two elder races of Aelwyth
+The Khazari finished it. They have never forgiven the withdrawal, and the two elder races of Eilwith
 have had nothing whatever to do with one another since.
 
 ## What Was Lost There
@@ -30,7 +30,7 @@ More than a king and more than a war.
 
 The joint kingdom had been **a deliberate attempt at reconciliation**. [[lore-khazarturn|The Fall of Khazartúrn]] had occurred in 2427 BF
 and the sundering with it, and the two peoples on this island—alone among their kind—had decided
-that would not be the end of it. In time they united under a single crown, governed Aelwyth together, and kept
+that would not be the end of it. In time they united under a single crown, governed Eilwith together, and kept
 it up for six centuries; [[lore-jointcrown|the Joint Crown]] was founded about 1585 BF. It is the only such attempt either race has ever made.
 
 The Three Sisters is where that ended, and it ended in the way most calculated to make it
@@ -39,9 +39,9 @@ second time, having spent six hundred years persuading them it would not happen 
 
 ## How It Came About
 
-The Pelwar were not invaders, and Aelwyth already knew them.
+The Pelwar were not invaders, and Eilwith already knew them.
 
-There had been humans on Aelwyth for a very long time, and it was the
+There had been humans on Eilwith for a very long time, and it was the
 Khazari who put them there.
 
 A hold grows nothing and cannot be supplied from outside, so the Deep Folk have always needed farmers
@@ -54,7 +54,7 @@ Pelwar came afterward on their own account, in **small numbers**, and were **acc
 taken into the kingdom, and dealt with as subjects rather than intruders. The Khazari in particular
 took to them, for reasons that were entirely practical and not at all secret.
 
-So when the flood arrived, many of the humans already on Aelwyth were **the newcomers' own kin**, settled
+So when the flood arrived, many of the humans already on Eilwith were **the newcomers' own kin**, settled
 generations deep, farming for elder-race lords. That is a large part of why the island could not simply
 refuse them, and a large part of why refusing them anyway went as badly as it did.
 
@@ -67,7 +67,7 @@ because the Migration had run out of land against the western coast and there wa
 
 It should be understood what that means.
 
-Aelwyth lies something like two hundred and thirty sea-miles off the coast. That is not a distance
+Eilwith lies something like two hundred and thirty sea-miles off the coast. That is not a distance
 barbarian peoples cross—not in the craft they had, not with families and stock aboard, not without
 pilots or charts or any notion of what the weather does out there. The ancestors of the Vardain had come as
 **passengers**, carried in Khazari bottoms by people who knew the water. The ones who came in 1200 BF
@@ -75,7 +75,7 @@ came in whatever would float.
 
 Most of them died. The traditions do not give a figure and the figure has been guessed at ever since,
 but nobody who has looked at it seriously puts the losses below **two in three**, and the usual estimate
-is worse. For every community that made a landfall on Aelwyth, two or three went off the water and were
+is worse. For every community that made a landfall on Eilwith, two or three went off the water and were
 never accounted for by anybody.
 
 Which is the fact that ought to govern any judgment of what followed. **Tens of thousands arrived**, and
@@ -115,7 +115,7 @@ into [[place-hallowwood|the wood]], and they have not come out.
 
 Everything they left, they left **to the other races**: to the Khazari who had been fighting beside them,
 and to the humans they had been fighting. The Khazari finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Sinale handed over
-by walking away is, in a straightforward sense, the reason Aelwyth has human kingdoms on it at all.
+by walking away is, in a straightforward sense, the reason Eilwith has human kingdoms on it at all.
 
 ## Now
 
@@ -125,5 +125,5 @@ the name means anything.
 
 ## See Also
 
-- [[place-hallowwood|The Hallowwood]] · [[place-vorgald|Vorgald]] · [[place-aelwyth|Aelwyth]]
+- [[place-hallowwood|The Hallowwood]] · [[place-vorgald|Vorgald]] · [[place-aelwyth|Eilwith]]
 - [[lore-khazarturn|The Fall of Khazartúrn]]

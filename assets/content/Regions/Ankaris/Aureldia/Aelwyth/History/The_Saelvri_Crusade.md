@@ -66,7 +66,7 @@ data:
 
 ## Nine Years
 
-The Saelvri lived in the valleys and woods of [[place-aelwyth|Aelwyth]]'s south-east, among the forest peoples of the island, with their own speech, their own rites and their own dead. The Synod declared them a danger to the island in about 694 AF, and the Order of the Just Blade took the field. The Knight-Captains drove them out valley by valley, burning steadings and taking the passes, and the Saelvri withdrew toward the oldest of their woods. By the turn of the year about 703 AF the last of them, several thousand with their children, were gathered in it, and the Order went in. The killing took three days.
+The Saelvri lived in the valleys and woods of [[place-aelwyth|Eilwith]]'s south-east, among the forest peoples of the island, with their own speech, their own rites and their own dead. The Synod declared them a danger to the island in about 694 AF, and the Order of the Just Blade took the field. The Knight-Captains drove them out valley by valley, burning steadings and taking the passes, and the Saelvri withdrew toward the oldest of their woods. By the turn of the year about 703 AF the last of them, several thousand with their children, were gathered in it, and the Order went in. The killing took three days.
 
 ## What the Knights Heard
 

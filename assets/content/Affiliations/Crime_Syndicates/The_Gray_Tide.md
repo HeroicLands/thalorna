@@ -75,15 +75,15 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-A maritime crime network operating where the [[place-vylarianse|Vilérian Sea]] meets the cold northern waters. The Gray Tide began as a loose alliance of [[place-nordheim|Nordheim]] smugglers, [[place-aelwyth|Aelwyth]] fences, and [[place-vrystwald|Vristwald]] coastal raiders who discovered that cooperation paid better than competition—at least some of the time. What started as handshake deals in waterfront taverns hardened into an organization over generations, driven by the simple economics of geography: the northern Vilérian Sea is vast, poorly patrolled, dotted with islands and hidden coves, and absolutely critical to legitimate trade. Every merchant ship passing through pays tariffs to someone. The Gray Tide makes sure some of those tariffs are paid to them.
+A maritime crime network operating where the [[place-vylarianse|Vilérian Sea]] meets the cold northern waters. The Gray Tide began as a loose alliance of [[place-nordheim|Nordheim]] smugglers, [[place-aelwyth|Eilwith]] fences, and [[place-vrystwald|Vristwald]] coastal raiders who discovered that cooperation paid better than competition—at least some of the time. What started as handshake deals in waterfront taverns hardened into an organization over generations, driven by the simple economics of geography: the northern Vilérian Sea is vast, poorly patrolled, dotted with islands and hidden coves, and absolutely critical to legitimate trade. Every merchant ship passing through pays tariffs to someone. The Gray Tide makes sure some of those tariffs are paid to them.
 
 The Tide is rougher, more violent, and more decentralized than the other syndicates. It has no equivalent of [[affiliation-crimsnldgr|the Crimson Ledger]]'s financial sophistication or [[affiliation-velvethand|the Velvet Hand]]'s aristocratic pretensions. Its leaders are ship captains, harbor masters, and brothel madams—practical people who solve problems with pragmatism and, when pragmatism fails, with hatchets.
 
 ## Territory
 
-**Primary:** Aelwyth port towns (especially [[place-ashford|Ashford]]), Nordheim's coastal settlements, Vristwald's harbor villages
+**Primary:** Eilwith port towns (especially [[place-ashford|Ashford]]), Nordheim's coastal settlements, Vristwald's harbor villages
 
-**Secondary:** The islands scattered between Aelwyth and Nordheim serve as staging areas, stash points, and meeting grounds. A few larger islands have semi-permanent Tide settlements—ostensibly fishing villages, actually smuggling depots. The Tide also maintains fences and agents in Vilérian and Taruzelian ports, though these operate cautiously on the Crimson Ledger's turf.
+**Secondary:** The islands scattered between Eilwith and Nordheim serve as staging areas, stash points, and meeting grounds. A few larger islands have semi-permanent Tide settlements—ostensibly fishing villages, actually smuggling depots. The Tide also maintains fences and agents in Vilérian and Taruzelian ports, though these operate cautiously on the Crimson Ledger's turf.
 
 ## Operations
 
@@ -93,13 +93,13 @@ The Tide is rougher, more violent, and more decentralized than the other syndica
 
 **Piracy:** The Tide maintains several fast ships that prey on merchant vessels, particularly those carrying high-value cargo through the less-patrolled northern routes. Piracy is seasonal—concentrated in the warmer months when shipping is heaviest—and selective. The Tide avoids attacking Nordheim vessels (bad for local relations) and Taruzelian warships (suicidal). Vilérian merchants and independent traders are preferred targets.
 
-**Fencing stolen goods:** Stolen cargo needs buyers, and the Tide provides them. A network of shops, market stalls, and traveling merchants throughout Aelwyth and Vristwald moves stolen goods into legitimate commerce. The chandler who sells suspiciously cheap rope, the tavern that always has imported wine at local prices, the farmer's wife who wears silk—all signs of the Tide's reach into everyday commerce.
+**Fencing stolen goods:** Stolen cargo needs buyers, and the Tide provides them. A network of shops, market stalls, and traveling merchants throughout Eilwith and Vristwald moves stolen goods into legitimate commerce. The chandler who sells suspiciously cheap rope, the tavern that always has imported wine at local prices, the farmer's wife who wears silk—all signs of the Tide's reach into everyday commerce.
 
 **Intelligence gathering:** The Tide's brothels and taverns are intelligence hubs. Madams and tavernkeepers track ship movements, cargo manifests, crew rosters, and the drinking habits of harbor officials. Sailors talk freely in bed and in their cups, and the Tide listens. This intelligence is used to plan operations but is also sold—sometimes to the Velvet Hand, which infuriates the Tide's own leadership but is too profitable to stop.
 
 ## Organization
 
-The Gray Tide is a loose confederation rather than a hierarchy. Regional captains control operations in their territory—a captain in Ashford runs the Aelwyth waterfront, another in Nordheim's [Stormhaven]{.name data-type="place/settlement"} runs the northern routes, a third manages the Vristwald coves. These captains meet periodically (usually on a neutral island) to coordinate, divide territory, and settle disputes. Disputes that can't be settled by negotiation are settled by combat—not ritual duels but ugly, practical fights that occasionally result in one captain's crew absorbing the other's.
+The Gray Tide is a loose confederation rather than a hierarchy. Regional captains control operations in their territory—a captain in Ashford runs the Eilwith waterfront, another in Nordheim's [Stormhaven]{.name data-type="place/settlement"} runs the northern routes, a third manages the Vristwald coves. These captains meet periodically (usually on a neutral island) to coordinate, divide territory, and settle disputes. Disputes that can't be settled by negotiation are settled by combat—not ritual duels but ugly, practical fights that occasionally result in one captain's crew absorbing the other's.
 
 Below the captains, local gang bosses run day-to-day operations in individual port towns. These bosses handle petty crime (pickpocketing, protection rackets, prostitution) and feed information and tribute up to the Tide in exchange for access to the smuggling network and protection from rivals. A local boss who tries to operate independently—keeping too large a share, or dealing with a rival syndicate behind the Tide's back—is typically given one warning. The second offense ends with the boss's body washing up on the beach.
 

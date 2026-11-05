@@ -1,6 +1,6 @@
 ---
 shortcode: aelwyth
-name: {full: Aelwyth, en: [The Misty Isle]}
+name: {full: Eilwith, en: [The Misty Isle]}
 type: place
 subType: region
 description: "Great island off Élavendre's western coast—deeply legendary. The Peshtar Wilderness occupies the west, the kingdom-belt the east, joined at the misty north."
@@ -12,14 +12,14 @@ data:
   packFolder: aelwyth
   culture: aelwythanclt
 
-# terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V. The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the British-analog kingdom belt (Stormveld in northeastern Scotland, the southern Aelwythan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
+# terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V. The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the British-analog kingdom belt (Stormveld in northeastern Scotland, the southern Eilwithan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
 ---
 
-Off the western coast of the [[place-ankrscntnnt|Ankaris Continent]], some two hundred and thirty miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Aelwyth is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as [[place-stormveld|Stormveld]] and [[place-ondareth|Ondareth]]. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
+Off the western coast of the [[place-ankrscntnnt|Ankaris Continent]], some two hundred and thirty miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Eilwith is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as [[place-stormveld|Stormveld]] and [[place-ondareth|Ondareth]]. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
 
 ## Geography
 
-Aelwyth is a large island of markedly unequal country, and its shape governs its politics.
+Eilwith is a large island of markedly unequal country, and its shape governs its politics.
 
 **The east** is mountain. [[place-ironfells|The Ironfells]] rise along the southern edge of
 Stormveld, run eastward to the sea, then turn **south down the coast**,
@@ -36,14 +36,14 @@ the Jarldom's ground—and [[place-sunderfells|the Sunderfells]] to the south.
 [[place-pshtrwldrns|Peshtar Wilderness]], which runs east until it meets the Nordfells.
 
 **The center-east**, west of the Ironfells, is Aldorath—the lush and fertile
-country that is the **breadbasket of Aelwyth**, whose grain feeds the island and whose wool and wine are
+country that is the **breadbasket of Eilwith**, whose grain feeds the island and whose wool and wine are
 known as far as the mainland.
 
 **The west** is open: [[place-cntrlhghlnds|the Central Highlands]] at the island's middle, falling to the
 western coastal country of Ondareth, and reaching north to the Peshtar forests.
 
 **The south**, below Aldorath and west of Dúnavarre, is [[place-hallowwood|the Hallowwood]]—deep
-fae forest where the [[lore-flksinale|Sinale]] of Aelwyth live, and which does not welcome visitors.
+fae forest where the [[lore-flksinale|Sinale]] of Eilwith live, and which does not welcome visitors.
 
 ## Climate
 
@@ -55,7 +55,7 @@ northern coast is little better and the mountains are worse.
 
 The exceptions are two and both are sheltered. The Central Highlands stand
 above the coastal fog, which is a low thing, and are clearer and warmer than anywhere else—relative to
-Aelwyth, which is to say a Provénzian would still want his cloak. And the slopes of
+Eilwith, which is to say a Provénzian would still want his cloak. And the slopes of
 [[place-sunnerslade|Sunnerslade]], in the Ironfells' rain-shadow, are dry and warm enough to ripen
 vines, which is the single most improbable fact about the island's agriculture.
 
@@ -94,35 +94,35 @@ The [[affiliation-repblcndrth|Republic of Ondareth]] in the west is the exceptio
 
 ## Magic
 
-Aelwyth is one of the most magically active regions in the known world. The great central bay is believed to be a nexus of mystical energy, and the veil between the mortal world and other realms is thinner here than anywhere outside of [[place-elavendre|Élavendre]].
+Eilwith is one of the most magically active regions in the known world. The great central bay is believed to be a nexus of mystical energy, and the veil between the mortal world and other realms is thinner here than anywhere outside of [[place-elavendre|Élavendre]].
 
-The the Epistémion maintains chapterhouses in each of Aelwyth's five great cities, functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, the [[affiliation-ordoarcanis|Thordimalon]] operates through these chapterhouses, using them to extend its influence over arcane practice. In [[affiliation-kingdmdnvr|Dúnavarre]], this influence has reached its logical extreme: the Arcane Order governs the kingdom outright through a [[affiliation-dunavarsynod|Synod]] of mages, the only polity anywhere on Ankaris where the Arcane Order holds direct political power.
+The the Epistémion maintains chapterhouses in each of Eilwith's five great cities, functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, the [[affiliation-ordoarcanis|Thordimalon]] operates through these chapterhouses, using them to extend its influence over arcane practice. In [[affiliation-kingdmdnvr|Dúnavarre]], this influence has reached its logical extreme: the Arcane Order governs the kingdom outright through a [[affiliation-dunavarsynod|Synod]] of mages, the only polity anywhere on Ankaris where the Arcane Order holds direct political power.
 
 Elsewhere on the island, the relationship between the local rulers and their Epistémion (the Academy of Knowledge) chapterhouses varies—Aldorath's feudal lords defer to their own seers on matters of prophecy, Ondareth's senate insists on civic oversight, and the Nordmen of Stormveld are culturally indifferent to scholarly institutions. But even where the Epistémion (the Academy) is viewed with suspicion, the chapterhouses are respected and their presence tolerated. The Epistémion's power is not military but intellectual: its scholars educate the gentry's children, its sages provide expertise no local tradition can match, and its libraries hold knowledge available nowhere else. A polity that earns the Epistémion's sanction—losing access to its teachers, its specialists, and its accumulated wisdom—finds life considerably harder for its ruling class. This quiet leverage ensures that chapterhouse doors remain open across the island, whatever the local rulers may think of the Arcane Order lurking behind them.
 
 ## Relations
 
-Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the cold sea. The Nordmen of Stormveld maintain connections to the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vilérian Empire]].
+Eilwith's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the cold sea. The Nordmen of Stormveld maintain connections to the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vilérian Empire]].
 
 ## The Elder Kingdom
 
-Before there were kingdoms on Aelwyth there was one, and both elder races held it.
+Before there were kingdoms on Eilwith there was one, and both elder races held it.
 
 After [[lore-khazarturn|Khazartúrn fell]] in 2427 BF the Sinale and
 Khazari ceased dealing with one another everywhere in the world—except on this
-island, where instead they attempted to repair it. In time they united Aelwyth under a **single crown** held by a
+island, where instead they attempted to repair it. In time they united Eilwith under a **single crown** held by a
 Sinale king and governed it together for **six centuries**: the only reconciliation either race has ever
 tried. [[lore-jointcrown|The Joint Crown]] was founded about 1585 BF.
 
 It was ended by refugees. The **[[lore-pelwarpepl|Pelwar]]**, driven off the mainland by the [Varkhad]{.name data-type="lore/folk"} ([[lore-varkhadcnq|The Varkhad Conquest]]),
-reached Aelwyth around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
+reached Eilwith around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
 land. Two centuries of arrival and pressure and reprisal became the [Great War]{.name data-type="lore/history"}, and in **984 BF** the
 king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]] in what is now the
 Central Highlands. The Sinale withdrew into the Hallowwood;
 the Khazari finished the war alone and have not spoken to them since. How the war ended, and what it left
 to the humans who stayed, is told in [[lore-endgreatwar|the Ending of the Great War]].
 
-Nearly every human on Aelwyth today descends from those refugees, the Peshtar among them. The exception is [[lore-vardain|the Vardain]], who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.
+Nearly every human on Eilwith today descends from those refugees, the Peshtar among them. The exception is [[lore-vardain|the Vardain]], who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.
 
 ## The Crown Roads
 
@@ -133,7 +133,7 @@ the footing is better than anything the realms have laid. The Sinale, who built 
 stone, planted the avenues beside them, and where a stretch survives whole there is often a line of oak or
 beech running along it that is far too old to have been set by anyone since.
 
-Under three towns, [[place-veldareth|Veldareth]], [[place-ashford|Ashford]] and [[place-brynhallow|Brynhallow]], lie
+Under three towns, [[place-veldareth|Veldareth]], [[place-ashford|Ashford]] and [[place-brynhallow|Brinhallow]], lie
 footings of the same cut stone, which the Epistémion's scholars have not been able to date and the towns have
 built upon for as long as they have stood. The Synod's scholars follow the roads when the Synod's business takes
 them that way, and the [[lore-vardain|Vardain]], who know the stone better than anyone, say what it is and are not
@@ -146,23 +146,23 @@ house does not say whether it has been tried.
 
 ## The Island and the World
 
-Two things are true about Aelwyth at once, and neither of the people concerned believes the other.
+Two things are true about Eilwith at once, and neither of the people concerned believes the other.
 
-**Aelwythans think of themselves as the world.** Seven hundred thousand people on one island conduct
+**Eilwithans think of themselves as the world.** Seven hundred thousand people on one island conduct
 their affairs with the entire seriousness of continental powers: the rivalry between
 Aldorath and Dúnavarre is followed as great
-politics, the standing of the realms is weighed and argued, and a good Aelwythan family knows its
+politics, the standing of the realms is weighed and argued, and a good Eilwithan family knows its
 position in an order it has never occurred to them is local. A single Vilérian province holds ten times
-as many people as the whole island. Most Aelwythans have no functional idea of this, and those who are
+as many people as the whole island. Most Eilwithans have no functional idea of this, and those who are
 told it tend to treat the figure as a traveler's exaggeration.
 
-This is not a quirk of one realm. **Aelwyth is insular and parochial through and through**, and for a
+This is not a quirk of one realm. **Eilwith is insular and parochial through and through**, and for a
 plain reason: almost nobody leaves. The mainland is a long and dangerous sail; what news arrives is
 second-hand, years old, and carried by people with an interest in telling their patrons what pleases
 them. There is, on the whole island, almost nobody in a position to say _that is not how it is done
 elsewhere_—and there has not been for generations.
 
-So every Aelwythan institution is conducted with total seriousness and no external measure. Aldorath's
+So every Eilwithan institution is conducted with total seriousness and no external measure. Aldorath's
 lords hold court as though their precedence mattered beyond the next valley; Dúnavarre's Synod deliberates
 as a great power; the jarls of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] reckon themselves conquerors of consequence. The most florid case is
 Ondareth, which has built an entire imitation Vilérian republic—Senate,
@@ -171,24 +171,24 @@ seen the original.
 
 ### The One Exception
 
-There is exactly one body on Aelwyth that knows precisely how the island compares with the mainland, and
+There is exactly one body on Eilwith that knows precisely how the island compares with the mainland, and
 that is the **Synod** of Thordimalon mages who govern
 Dúnavarre.
 
 They are not parochial and never have been. They are members of a continental institution, they read its
 correspondence, some of them trained in the Empire, and they know to the nearest order of magnitude how
-small Aelwyth is and how little the mainland thinks of it. They know what a Vilérian would make of
+small Eilwith is and how little the mainland thinks of it. They know what a Vilérian would make of
 Ondareth's Senate.
 
 They have never said so. Not once, to anybody.
 
-**The rest of the western part of [[place-worldthlrn|the World of Thalorna]] thinks of Aelwyth as somewhere to avoid.** Its reputation abroad is
+**The rest of the western part of [[place-worldthlrn|the World of Thalorna]] thinks of Eilwith as somewhere to avoid.** Its reputation abroad is
 uniformly bad and uniformly lurid: a wilderness of barbarians, fell creatures and mystical powers, where
 the forests are not safe, the tribes take heads, and the ruling class of one kingdom are mages who
 answer to nobody. Mainland factors quote higher for the crossing. Mainland mothers use it in
 warnings.
 
-Most inhabitants of Aelwyth would be astonished to hear any of it. Their lives are boring and normal in
+Most inhabitants of Eilwith would be astonished to hear any of it. Their lives are boring and normal in
 the way lives generally are—market days, tithes, weather, the harvest, the neighbors—and the most
 alarming thing the great majority will ever meet is a bad winter.
 
@@ -197,12 +197,12 @@ alarming thing the great majority will ever meet is a bad winter.
 The reputation is wrong about the people and **right about the land**—and, within living memory, right
 about something else as well.
 
-There are [[lore-grukaraelwyth|Grukar on Aelwyth]], and there have been for the better part of
+There are [[lore-grukaraelwyth|Grukar on Eilwith]], and there have been for the better part of
 **seven hundred years**—established in the empty third of the island, endemic, and impossible to
-eradicate. The mainland's talk of fell creatures in the Aelwythan woods is very old, and so are they.
+eradicate. The mainland's talk of fell creatures in the Eilwithan woods is very old, and so are they.
 It is entirely possible the reputation was always about them.
 
-There genuinely are places on Aelwyth where the fae are strong—sites of real and unpredictable power,
+There genuinely are places on Eilwith where the fae are strong—sites of real and unpredictable power,
 concentrated in the deep forest of the interior and in the wilder north, in country that the settled
 realms have never brought under the plow and do not pretend to govern. These are not folklore. The
 tribes of those regions organize their lives around them, the realms' borders bend to avoid them, and
@@ -211,60 +211,60 @@ unconnected with the fact.
 
 So the mainland is not simply wrong; it has heard true things about a third of the island and applied
 them to all of it—and has been correct for centuries about a third thing it has never troubled to
-understand. And the Aelwythan farmer who has never in his life seen anything stranger than a
+understand. And the Eilwithan farmer who has never in his life seen anything stranger than a
 heron is also not wrong, because he has never had cause to go where such things are.
 
 ## The Synod's Backyard
 
-Why the Thordimalon (the Arcane Order) governs one Aelwythan kingdom outright—the only place in the world where it does—is a question usually answered in terms of Dúnavarren history. The more useful answer is on the rest of
+Why the Thordimalon (the Arcane Order) governs one Eilwithan kingdom outright—the only place in the world where it does—is a question usually answered in terms of Dúnavarren history. The more useful answer is on the rest of
 the island.
 
-**Aelwyth is where the Arcane Order can study the fae without constraint.** In
+**Eilwith is where the Arcane Order can study the fae without constraint.** In
 Élavendre, which is the richest fae country in the known world, the Arcane Order is permitted
 and limited: it holds the [University of Péravel]{.name data-type="affiliation"}, at [[place-beravel|Péravel]], and it does not go past the tree line, because the
 [[affiliation-alndnwrdns|Áelendan Wardens]] enforce a boundary the Élavendren crown declines to move.
-Aelwyth has real fae sites and **no equivalent institution**. The country they lie in belongs to
+Eilwith has real fae sites and **no equivalent institution**. The country they lie in belongs to
 scattered tribes with no common council, no wardens, no treaty with anyone and no means of compelling
 the lowland realms to care.
 
 So the Synod does there what it cannot do anywhere else, and has done for generations.
 
-It also **protects** Aelwyth, and the word is used sincerely by everyone including the Synod. Dúnavarren
+It also **protects** Eilwith, and the word is used sincerely by everyone including the Synod. Dúnavarren
 mages have warned off, turned back and occasionally destroyed things that would otherwise have reached
 the island's people. The other realms are aware of it and grateful in a resentful sort of way.
 
 But protection and possession are difficult to tell apart from outside, and the Synod's interests run all
-one way. An Aelwyth that stays isolated, disregarded and slightly frightening is an Aelwyth nobody else
+one way. An Eilwith that stays isolated, disregarded and slightly frightening is an Eilwith nobody else
 comes to. The island's parochialism keeps its people incurious; its dreadful reputation keeps the
 mainland away; and the tribes' disunity keeps the fae country open. Every one of those conditions
 benefits the Synod, and the Synod has never lifted a finger to change any of them.
 
-It has done one thing deliberately. **Every ship crossing between Aelwyth and the mainland must call
+It has done one thing deliberately. **Every ship crossing between Eilwith and the mainland must call
 first at [[place-ravenmoor|Ravenmoor]]** to be inspected—inbound before it may go on to any other
 port, outbound before it may leave. Prohibited goods are the stated purpose; magic and relics are the
 real interest, and are recorded and frequently detained. The other realms dislike it and acquiesce, for two reasons that reinforce each other. They are **afraid of Dúnavarre**, and the fear is specific. The Synod is the Arcane Order's central chantry for
-the island, and every court on Aelwyth keeps Arcane Order advisors it would be crippled without. A realm that
+the island, and every court on Eilwith keeps Arcane Order advisors it would be crippled without. A realm that
 goes around the Synod finds those advisors taking a courteous leave and no replacement obtainable from
 anywhere—shunned by the very men its neighbors still have. If that does not suffice, harvests fail
 and sicknesses arrive that no physician knows, and nothing is ever claimed or connected. It is also
 reversible: acknowledge the fault, pay restitution, petition the Synod at whatever length it requires,
 and the advisors come back and the misfortunes stop. And they do not, in the end, care very
 much: an insular people with no interest in the mainland loses little by letting somebody else manage
-the mainland, and what an Aelwythan realm cares about is what happens **on Aelwyth**. Dúnavarre wants
+the mainland, and what an Eilwithan realm cares about is what happens **on Eilwith**. Dúnavarre wants
 the tedious business of foreigners; it is welcome to it.
 
 **Except Stormveld**, which is the exception here as it is everywhere else. The effect is that the Synod sees the
-island's entire commerce, meets every mainland visitor first, and decides a great deal of what Aelwyth
+island's entire commerce, meets every mainland visitor first, and decides a great deal of what Eilwith
 learns of the world.
 
 Whether it has done more than not lift a finger—whether the reputation abroad is merely convenient or
-has been quietly encouraged—is a question nobody on Aelwyth is equipped to ask. The Synod has never
+has been quietly encouraged—is a question nobody on Eilwith is equipped to ask. The Synod has never
 denied a story about the island in its life.
 
 ## Population
 
-Aelwyth holds about **710,000** people, which is few for an island of its size, and the reason is that
-most of Aelwyth is empty: **a third of it is dense forest**—old, deep and effectively unsettled—and
+Eilwith holds about **710,000** people, which is few for an island of its size, and the reason is that
+most of Eilwith is empty: **a third of it is dense forest**—old, deep and effectively unsettled—and
 beyond that lie further large tracts of upland, moor and bog that support nobody at all.
 
 They fall into three groups, and the smallest of the three is not a tribe and should not be counted as
@@ -284,7 +284,7 @@ warlike than the northern tribes, and the settled realms treat the forest margin
 than border.
 
 The **Vardain** are something else entirely, and lumping them with the tribes is the commonest error
-outsiders make about Aelwyth. They are the free remnant of [[place-vardanreach|Vardanreach]], the nation that held the
+outsiders make about Eilwith. They are the free remnant of [[place-vardanreach|Vardanreach]], the nation that held the
 whole north-east until the Nordmen took it sixty years ago—a settled, literate, farming people whose
 kin make up the hundred and twenty thousand thralls of Stormveld. Eight
 thousand five hundred of them live in [[place-vardainvalleys|the Vardain Valleys]] (the high valleys) of the
@@ -303,7 +303,7 @@ coast:
 
 Three things about that table matter more than the numbers.
 
-**Stormveld is not an Aelwythan realm.** Nordmen took the north-east some sixty years ago and enslaved
+**Stormveld is not an Eilwithan realm.** Nordmen took the north-east some sixty years ago and enslaved
 the population; of its 150,000, around 30,000 are Nordmen and around 120,000 are native thralls. A
 Nordmen holding a third of the island's settled people sits under four hundred sea-miles from
 Élavendre, which explains a good deal of Élavendren foreign policy.
@@ -312,12 +312,12 @@ Nordmen holding a third of the island's settled people sits under four hundred s
 serfs or peasants on manorial estates.
 
 **Dúnavarre is the smallest and the most powerful**, and this is the single most informative fact about
-Aelwyth. Aldorath has nearly three times as many subjects and
+Eilwith. Aldorath has nearly three times as many subjects and
 Ondareth twice as many, and both mind very much what the little kingdom on
 the south-east coast thinks of them.
 
 The reason is not the harbors, or the trade, or even the [[affiliation-justbladeordr|Order of the Just Blade]]. It is that the
-**Synod is the Arcane Order's central chantry for the island**, and every court on Aelwyth keeps Arcane Order advisors
+**Synod is the Arcane Order's central chantry for the island**, and every court on Eilwith keeps Arcane Order advisors
 it would be crippled without. Dúnavarre does not need an army to discipline a neighbor three times its
 size. It needs only to let the Arcane Order in that neighbor's realm know its services are no longer
 appropriate—and to decline, from every chantry the petitioner can reach, to send anyone else.

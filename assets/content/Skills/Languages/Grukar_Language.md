@@ -37,10 +37,10 @@ data:
     - {name: grukarfolk, tongue: translation}
     - {name: Grukarholm, tongue: translation}
     - {name: Grukarholm Region, tongue: translation}
-    - {name: The Aelwyth Grukar, tongue: translation}
+    - {name: The Eilwith Grukar, tongue: translation}
     - {name: The Appearing, tongue: translation}
     - {name: The Appearing of the Grukar, tongue: translation}
-    - {name: The Grukar of Aelwyth, tongue: translation}
+    - {name: The Grukar of Eilwith, tongue: translation}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

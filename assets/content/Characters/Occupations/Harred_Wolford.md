@@ -400,7 +400,7 @@ Harred Wolford is a 44-year-old man who stands 5'8" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of [[lore-aelwythanclt|Aelwythan]] heritage, Harred Wolford is a clothier.
+Born in the [[place-aelwyth|Eilwith]] region to a guilded family of [[lore-aelwythanclt|Eilwithan]] heritage, Harred Wolford is a clothier.
 
 Harred has been a clothier for over twenty years, running a small but reputable shop in the city that caters to both the nobility and common folk. His expertise lies in fine tailoring and embroidery, and he is known for his skill in creating custom garments for special occasions. Harred is meticulous about his work, often taking on fewer clients to ensure the highest quality.
 
@@ -435,7 +435,7 @@ Competing clothiers who view his reputation as a threat.
 ## Plot Hooks
 
 The Clothier's Dilemma
-: Harred faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+: Harred faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
 
 Old Grudges
 : Competing clothiers who view his reputation as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -444,7 +444,7 @@ Echoes of the Past
 : Something from Harred's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Aelwyth threaten to upend the social order that Harred depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwith threaten to upend the social order that Harred depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Harred the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

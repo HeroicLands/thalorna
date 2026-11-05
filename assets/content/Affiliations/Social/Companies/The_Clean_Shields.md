@@ -53,13 +53,13 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: "A condottiere company kept near a capital on a modest public contract and a much larger private retainer, in the manner of the bankers' and princes' companies of the Italian city-states."
 ---
 
-A barge-master who brings grain down the [[place-vylarisrvr|River Vylaris]] from the [[place-hylen|Hilen]] landings describes the company in two sentences: "Nobody has robbed a barge string above the river gate for three years. The men who stopped it ride better horses than [[affiliation-sorvan|The Imperial Guard]]." The first sentence is the company's contract. The second is the question every faction in [[place-orzara|Orzara City]] would like answered.
+A barge-master who brings grain down the [[place-vylarisrvr|River Vilaris]] from the [[place-hylen|Hilen]] landings describes the company in two sentences: "Nobody has robbed a barge string above the river gate for three years. The men who stopped it ride better horses than [[affiliation-sorvan|The Imperial Guard]]." The first sentence is the company's contract. The second is the question every faction in [[place-orzara|Orzara City]] would like answered.
 
 Type
 : company in imperial pay
 
 Region
-: the [[place-outskirtsorz|Outskirts]] of Orzara, upriver of the city along the River Vylaris and the grain road
+: the [[place-outskirtsorz|Outskirts]] of Orzara, upriver of the city along the River Vilaris and the grain road
 
 Strength
 : about three hundred, sixty of them mounted, with boat crews for twelve river boats
@@ -156,7 +156,7 @@ Shattar Kassumi knows who pays him and why. The house has promised him what the 
 [[place-wharvesorz|Wharves]]
 : the river port inside the city's line, where the barges land
 
-[[place-vylarisrvr|River Vylaris]]
+[[place-vylarisrvr|River Vilaris]]
 : the river the company keeps
 
 [[affiliation-danvar|The Bankers' Guild]]

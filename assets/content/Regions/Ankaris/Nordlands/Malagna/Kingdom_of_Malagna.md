@@ -120,13 +120,13 @@ Malagna's two great clans, the [[affiliation-grimvar|Grimvar]] and the [[affilia
 
 ## The People and Their Ports
 
-Malagna's western trade gives it a more cosmopolitan character than its sister kingdoms. The kingdom lies east of [[place-nordheim|Nordheim]], but its ships sail west, to [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]] and [[place-calypsacity|Kalipsa]], and have done so for as long as Gnarthborg has had yards. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, the merchant households of Gnarthborg keep standing arrangements with foreign traders that a more insular eastern kingdom would never tolerate, and the kingdom's port towns host small communities of foreign traders. The exposure has softened some of the harsher edges of Nordmen culture. Malagna's people are still warriors and sailors, and they are diplomats and deal-makers too.
+Malagna's western trade gives it a more cosmopolitan character than its sister kingdoms. The kingdom lies east of [[place-nordheim|Nordheim]], but its ships sail west, to [[place-elavendre|Élavendre]], [[place-aelwyth|Eilwith]] and [[place-calypsacity|Kalipsa]], and have done so for as long as Gnarthborg has had yards. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Eilwithan]] merchants, the merchant households of Gnarthborg keep standing arrangements with foreign traders that a more insular eastern kingdom would never tolerate, and the kingdom's port towns host small communities of foreign traders. The exposure has softened some of the harsher edges of Nordmen culture. Malagna's people are still warriors and sailors, and they are diplomats and deal-makers too.
 
 The land shows the same range. Gnarthborg's forges run on charcoal that Braldheim's homesteads cut, bank and burn down slow through the long nights. Málstead is the second-busiest market in the kingdom, and it holds that rank by default, because the law sits there. [[place-hvalgvik|Hvalgvík]] holds a bay that gives shelter in any wind. [[place-glarvey|Glarvey]] is an island holding whose roofs are its hersvald's pride, and [[place-dvilgborg|Dvilgborg]] is the garrisoned height where recruits learn to keep a watch that does not sleep.
 
 ## Relations
 
-Malagna trades with Élavendre, with the northern communities of Aelwyth, and occasionally with [[place-salkhalon|Salkalon]] and the ports of the [[place-vylarianse|Vilérian Sea]]. Its dealings with the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal and competitive at once: the two kingdoms have long vied for dominance among the Nordmen. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms. The [[affiliation-kingdmnrgd|Kingdom of Norgaad]], the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Malagna nor against it.
+Malagna trades with Élavendre, with the northern communities of Eilwith, and occasionally with [[place-salkhalon|Salkalon]] and the ports of the [[place-vylarianse|Vilérian Sea]]. Its dealings with the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal and competitive at once: the two kingdoms have long vied for dominance among the Nordmen. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms. The [[affiliation-kingdmnrgd|Kingdom of Norgaad]], the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Malagna nor against it.
 
 ## Commerce and Currency
 
@@ -152,7 +152,7 @@ Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylr
 [[place-elavendre|Élavendre]]
 : western trading partner
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : maritime neighbor
 
 [[affiliation-asguardian|Asguardian Pantheon]]

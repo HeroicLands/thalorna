@@ -78,7 +78,7 @@ reality.
 
 The calendar is the part of it that outlived the [[affiliation-vylarinmpr|Empire]]. Events before this year are reckoned **Before
 the Founding**, events after it **After the Founding**, and the reckoning is the working calendar of
-[[place-midhalnrgn|Midhalión Region]], [[place-aureldirgn|Aureldia Region]], [[place-helionis|Helionis]], [[place-taruzelrgn|Taruzel Region]], [[place-provenzrgn|Provénzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]]—including the
+[[place-midhalnrgn|Midhalión Region]], [[place-aureldirgn|Aureldia Region]], [[place-helionis|Helionis]], [[place-taruzelrgn|Taruzel Region]], [[place-provenzrgn|Provénzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Eilwith]]—including the
 provinces that have long since gone their own way. Beyond that sphere other civilizations keep their
 own, and [[lore-commoncal|the Vilérian Calendar]]'s reach is itself a visible measure of where the Empire's cultural
 gravity still holds even where its legions no longer do.

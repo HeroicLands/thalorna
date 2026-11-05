@@ -3,7 +3,7 @@ shortcode: wenlornestage
 name: {full: Wenlorne Stage, en: [The Lit Stage, The Reeve's House]}
 type: place
 subType: site
-description: "A relay house of the elder kingdom on a Crown Road in the empty forest between the Wyndmarch and the Hallowwood, whose lamps are lit every dusk by nobody living and whose keeper does not let guests leave."
+description: "A relay house of the elder kingdom on a Crown Road in the empty forest between the Wiindmarch and the Hallowwood, whose lamps are lit every dusk by nobody living and whose keeper does not let guests leave."
 tags: [draft, haunted, ruin, road]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Crown Road that runs south from [[place-wyndmarch|the Wyndmarch]] toward [[place-hallowwood|the Hallowwood]] is whole for most of a day's walk beyond the last Aldorathi steading. Its fitted blocks are as true as when the Khazari masons of [[lore-jointcrown|the Joint Crown]] cut them, and the oaks and beeches the [[lore-flksinale|Sinale]] planted along it have grown into a roofed lane. About halfway down the whole stretch stands **Wenlorne Stage**, a square stone relay house with a gate-arch, a stable court and a tower at the north-west corner for the road-horn. The crown kept such houses a day apart so that a rider with a royal writ changed horses at each one and a traveler slept behind a barred door.
+The Crown Road that runs south from [[place-wyndmarch|the Wiindmarch]] toward [[place-hallowwood|the Hallowwood]] is whole for most of a day's walk beyond the last Aldorathi steading. Its fitted blocks are as true as when the Khazari masons of [[lore-jointcrown|the Joint Crown]] cut them, and the oaks and beeches the [[lore-flksinale|Sinale]] planted along it have grown into a roofed lane. About halfway down the whole stretch stands **Wenlorne Stage**, a square stone relay house with a gate-arch, a stable court and a tower at the north-west corner for the road-horn. The crown kept such houses a day apart so that a rider with a royal writ changed horses at each one and a traveler slept behind a barred door.
 
 Nothing lives at Wenlorne. The roof is sound and the gate stands open. At dusk the iron lamp-posts that line the last mile of road are lit, one after another, from the stage outward, and burn with a steady pale light until dawn. Nobody has been seen to light them.
 
@@ -28,24 +28,24 @@ The oath was caught by [[lore-theshadow|the Shadow]]. What keeps the stage now i
 
 ## What the Countryside Says
 
-- **The Wyndmarch drovers.** Carters who work the last Aldorathi steadings say there is a lit house down the old road that never charges for a bed. Two of them have gone to see and one has come back. He does not say what he saw.
-- **The garrison at [[place-caerwynd|Kaerwynd]].** The Wyndmarch's soldiers count nine patrols that have taken the old road south and not returned. The commander has stopped sending them. He keeps the roll anyway.
+- **The Wiindmarch drovers.** Carters who work the last Aldorathi steadings say there is a lit house down the old road that never charges for a bed. Two of them have gone to see and one has come back. He does not say what he saw.
+- **The garrison at [[place-caerwynd|Kaerwiind]].** The Wiindmarch's soldiers count nine patrols that have taken the old road south and not returned. The commander has stopped sending them. He keeps the roll anyway.
 - **[[lore-vardain|The Vardain]].** A Vardain drover who knows the Crown Roads says only that a stage should never be lit, since the [[lore-flkkhazar|Khazari]] put out the lamps when they left a house.
 - **The Hallowwood's edge.** The Sinale do not discuss the stage. Travelers who reach the wood's edge from the north by the road are turned, politely and without conversation, and sent back the way they came.
 
 ## Reaching It
 
-From the Wyndmarch the old road starts at a ford below the last royal-forest lodge and runs south under the trees. A party on foot reaches Wenlorne in a long day. The road is the surest footing in the forest, and the forest on either side of it is wet, dense and held by Grukar, so the road is where a party stays. After dark the lamps begin.
+From the Wiindmarch the old road starts at a ford below the last royal-forest lodge and runs south under the trees. A party on foot reaches Wenlorne in a long day. The road is the surest footing in the forest, and the forest on either side of it is wet, dense and held by Grukar, so the road is where a party stays. After dark the lamps begin.
 
 ## See Also
 
-[[place-wyndmarch|The Wyndmarch]]
+[[place-wyndmarch|The Wiindmarch]]
 : the march whose forests the road crosses
 
 [[place-hallowwood|The Hallowwood]]
 : where the road ends
 
-[[lore-jointcrown|The Joint Crown of Aelwyth]]
+[[lore-jointcrown|The Joint Crown of Eilwith]]
 : the elder kingdom that cut the road
 
 [[lore-theshadow|The Shadow]]

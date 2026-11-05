@@ -220,6 +220,6 @@ wrecked is a question its own officers disagree about, and Larad has not been to
 
 ## See Also
 
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-ravenmoor|Ravenmoor]] · [[place-aelwyth|Aelwyth]]
+- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-ravenmoor|Ravenmoor]] · [[place-aelwyth|Eilwith]]
 - [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-justbladeordr|Order of the Just Blade]]
 - [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] · [[affiliation-velvethand|the Velvet Hand]]

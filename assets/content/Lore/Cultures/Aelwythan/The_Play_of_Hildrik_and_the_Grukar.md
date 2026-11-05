@@ -3,7 +3,7 @@ shortcode: hildricplay
 name: {full: The Play of Hildrik and the Grukar, en: [The Drovers' Play]}
 type: lore
 subType: literature
-description: "The play the drovers of the march put on in the inn-yards of Ashford on the nights of the autumn drove fair: Old Tally sweeping the ring, Hildrik of the Wyndmarch and an Ahk of the Grukar matching boasts, the champion struck down, a Doctor of Ravenmoor who cures in court Élavendri and is stopped before he raises the dead, the ale-wife who knows better, and a second Grukar for every one killed."
+description: "The play the drovers of the march put on in the inn-yards of Ashford on the nights of the autumn drove fair: Old Tally sweeping the ring, Hildrik of the Wiindmarch and an Ahk of the Grukar matching boasts, the champion struck down, a Doctor of Ravenmoor who cures in court Élavendri and is stopped before he raises the dead, the ale-wife who knows better, and a second Grukar for every one killed."
 tags: [draft, aelwyth]
 data:
   culture: aelwythanclt
@@ -22,11 +22,11 @@ data:
 # terran_analog: "The British mummers' and hero-combat plays of the house-visiting season, with their presenter who calls for room, the champion's boast, the combat, the comic quack doctor and the collection at the end; the flyting, the boasting-match in verse; the frontier ballad's habit of telling a war that never ends."
 ---
 
-The Play of Hildrik and the Grukar belongs to the drovers. They bring the beasts of the manorial country down the drove roads to [[place-ashford|Ashford]] for the autumn fair, the one occasion on which a serf may lawfully stand a long way from his manor, and on the nights of the fair they put on the play in the inn-yards for whatever the yard will throw into the bowl. The money buys the drovers' ale. The players are men from the manors of [[place-wyndmarch|the Wyndmarch]] and the forest edge, and a part passes from a man to his son or his nephew. They wear their working clothes with strips of fleece sewn over them, and the Grukar wears a fleece turned inside out with his face blacked.
+The Play of Hildrik and the Grukar belongs to the drovers. They bring the beasts of the manorial country down the drove roads to [[place-ashford|Ashford]] for the autumn fair, the one occasion on which a serf may lawfully stand a long way from his manor, and on the nights of the fair they put on the play in the inn-yards for whatever the yard will throw into the bowl. The money buys the drovers' ale. The players are men from the manors of [[place-wyndmarch|the Wiindmarch]] and the forest edge, and a part passes from a man to his son or his nephew. They wear their working clothes with strips of fleece sewn over them, and the Grukar wears a fleece turned inside out with his face blacked.
 
 The cast is fixed. [Old Tally]{.name data-type="being/npc"} opens the play and closes it, keeps the ring clear with a besom, and carries the notched stick a drover keeps his count of beasts on, which gives him his name. [Hildrik]{.name data-type="being/npc"} is the champion of the march. The Grukar calls himself an Ahk, the march's old name for a Grukar spawner, which the drovers take for a chief's title. The Grukar a drover meets in the wood says nothing, but the play's Grukar boasts in rhyme like every other part. The Doctor comes from [[place-ravenmoor|Ravenmoor]] and speaks the court register of the [[skill-elvndrlng|Élavendri Language]], and his one line of it is the greeting the [[affiliation-dunavarsynod|Synod]]'s harbor officers give every ship from the mainland. Nobody in an Ashford inn-yard knows what it means, and the Doctor uses it as a charm. The ale-wife is played by the oldest man in the company.
 
-The Grukar's boast about the twelve kings is the line every yard waits for. [[affiliation-kngdmldrth|Aldorath]] has mounted a formal campaign against the Grukar about a dozen times, and each was declared a success ([[lore-grukaraelwyth|The Grukar of Aelwyth]]). The Doctor's cure is stopped because the priests of the [[affiliation-selmoros|Faith of Sélmoros]] forbid bringing back the dead, and the drovers keep the scene so that the ale-wife can settle it. The second Grukar comes in at the end of every performance, however late it is.
+The Grukar's boast about the twelve kings is the line every yard waits for. [[affiliation-kngdmldrth|Aldorath]] has mounted a formal campaign against the Grukar about a dozen times, and each was declared a success ([[lore-grukaraelwyth|The Grukar of Eilwith]]). The Doctor's cure is stopped because the priests of the [[affiliation-selmoros|Faith of Sélmoros]] forbid bringing back the dead, and the drovers keep the scene so that the ale-wife can settle it. The second Grukar comes in at the end of every performance, however late it is.
 
 The verses are rhymed in couplets.
 
@@ -91,7 +91,7 @@ Hildrik.
 : Hildrik's Boast {#hildrik-boast}
 
 ::: {.verse form=mummers-play lang=en work=hildrik-boast}
-Here come I, Hildrik, of the Wyndmarch bred,/
+Here come I, Hildrik, of the Wiindmarch bred,/
 That stand betwixt the forest and your bread./
 Where'er the forest meeteth with the field,/
 There have I stood, with this my bill and shield;/
@@ -102,7 +102,7 @@ And I will hew him down with this right hand.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-boast}
-Here kome I, Hildrik, of the Wyndmarch bred,/
+Here kome I, Hildrik, of the Wiindmarch bred,/
 That stand betwikst the forest and your bread./
 Wherever forest meeteth with the field,/
 There have I stood, with this my bill and shield./
@@ -684,5 +684,5 @@ _The players go out singing, the Grukar and the Grukar's son behind them, still 
 
 ## See Also
 
-- [[place-ashford|Ashford]] · [[place-wyndmarch|the Wyndmarch]] · [[lore-grukaraelwyth|the Grukar of Aelwyth]]
+- [[place-ashford|Ashford]] · [[place-wyndmarch|the Wiindmarch]] · [[lore-grukaraelwyth|the Grukar of Eilwith]]
 - [[place-ravenmoor|Ravenmoor]] · [[affiliation-selmoros|the Faith of Sélmoros]] · [[lore-vylrncrncy|Vilérian currency]]

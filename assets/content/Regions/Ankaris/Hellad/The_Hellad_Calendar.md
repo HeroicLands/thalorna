@@ -96,7 +96,7 @@ So 1 [Lizelandi]{.name data-type="lore/calendar"} 571 in the Vilérian Calendar 
 
 ### The Landings, about 1300 BF to about 800 BF
 
-A seafaring people who speak [Proto-Helonic]{.name data-type="skill/language"} come down the coast and take the peninsulas and islands, burying their dead beside tombs already old ([[lore-heladlandngs|The Landings]]). The cities that grow in the valleys meet at one sanctuary for contests under a herald's truce ([[lore-firstgames|The First Games]]). The age ends when the valleys are full and the younger sons begin to cross the sea.
+A seafaring people who speak [Proto-Helonik]{.name data-type="skill/language"} come down the coast and take the peninsulas and islands, burying their dead beside tombs already old ([[lore-heladlandngs|The Landings]]). The cities that grow in the valleys meet at one sanctuary for contests under a herald's truce ([[lore-firstgames|The First Games]]). The age ends when the valleys are full and the younger sons begin to cross the sea.
 
 ### The Daughter-Cities, about 800 BF to about 400 BF
 

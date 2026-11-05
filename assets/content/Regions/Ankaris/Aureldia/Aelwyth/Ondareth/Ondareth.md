@@ -3,7 +3,7 @@ shortcode: ondareth
 name: {full: Ondareth}
 type: place
 subType: region
-description: "The land of the Republic of Ondareth—Aelwyth's western coast, good for fishing and moderate for farming, living by the carrying trade along its shore."
+description: "The land of the Republic of Ondareth—Eilwith's western coast, good for fishing and moderate for farming, living by the carrying trade along its shore."
 tags: [region]
 data:
   demonym: Ondarethan
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Ondareth is the land of the [[affiliation-repblcndrth|Republic of Ondareth]], along the western coast of [[place-aelwyth|Aelwyth]].
+Ondareth is the land of the [[affiliation-repblcndrth|Republic of Ondareth]], along the western coast of [[place-aelwyth|Eilwith]].
 
 ## Extent
 
@@ -28,7 +28,7 @@ carrying trade along the western shore and from what it can charge others for ac
 [[affiliation-repblcndrth|Republic of Ondareth]]
 : The republic that holds this land
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : The island
 
 [[place-thornbury|Thornbury]]

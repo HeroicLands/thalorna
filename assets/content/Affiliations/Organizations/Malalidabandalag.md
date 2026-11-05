@@ -105,7 +105,7 @@ The rules are short, and a captain who breaks any of them faces expulsion. In th
 
 - The Hringstead Long-Ship Fellowship is the largest signed company and the Hall's semi-permanent garrison, under Captain Vrildselda Eldskari.
 - The [Wolves of Vithgard]{.name data-type="affiliation/venture"} are long-standing inland heavy infantry whose specialty is sieges.
-- [[affiliation-threskaett|Threskaett]] of [[place-norgaad|Norgaad]] began as coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of [[place-aelwyth|Aelwyth]].
+- [[affiliation-threskaett|Threskaett]] of [[place-norgaad|Norgaad]] began as coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of [[place-aelwyth|Eilwith]].
 - The [Iron-Beard Company]{.name data-type="affiliation/venture"} is small, elite and expensive, and the only signed company that works routinely outside the Nordlands. It has taken contracts as far south as [[place-helionis|Helionis]].
 
 [[affiliation-blckpnwlvs|The Blackpine Wolves]] of Vristwald are the best-known unsigned company. The Compact refused them for repeated oath-breaking under their previous captain.

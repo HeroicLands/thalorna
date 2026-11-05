@@ -4,7 +4,7 @@ name: {full: Aldorath Region}
 type: place
 subType: region
 description: >-
-  The lands the Kingdom of Aldorath holds—the fertile lowlands and gentle hills surrounding Aelwyth's great central lake, together with the southern forests where the Sinale keep their enclaves.
+  The lands the Kingdom of Aldorath holds—the fertile lowlands and gentle hills surrounding Eilwith's great central lake, together with the southern forests where the Sinale keep their enclaves.
 tags: [draft]
 data:
   demonym: null
@@ -19,7 +19,7 @@ data:
 > [[affiliation-kngdmldrth|Kingdom of Aldorath]] has a place to hold sway over.
 > Its settlements, its terrain and its boundaries are not yet written.
 
-The Aldorath Region is the heartland of [[place-aelwyth|Aelwyth]]: the lowlands and hills around the
+The Aldorath Region is the heartland of [[place-aelwyth|Eilwith]]: the lowlands and hills around the
 great central lake, bounded by the mountains that separate them from the
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] to the northeast and running
 south into the forests where the Sinale enclaves lie.
@@ -30,7 +30,7 @@ Aldorath's proximity to the great central lake gives it a mystical character tha
 
 ## See Also
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : the island this region is part of
 
 [[affiliation-kngdmldrth|Kingdom of Aldorath]]

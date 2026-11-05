@@ -40,10 +40,10 @@ northern shore.
 
 ## Peoples and Culture
 
-Many Okharics move with their cattle between seasonal grazings, while the
+Many Okharik move with their cattle between seasonal grazings, while the
 village tribes farm, fish, fell timber and work their crafts from fixed seats.
 Where the Khelathi and the Bethuans built their civilizations around canals,
-the Okharics built theirs around the herds and the rain-fed land. Religious life follows the three-flame cosmology of
+the Okharik built theirs around the herds and the rain-fed land. Religious life follows the three-flame cosmology of
 [[affiliation-nkaruthar|Nkaru'thar]], whose creation-destruction-renewal triad
 is expressed through the three temple-cities; those cities are the region's
 religious, trade and diplomatic anchors, and the urban-rural compact between

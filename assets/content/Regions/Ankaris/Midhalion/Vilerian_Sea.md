@@ -40,7 +40,7 @@ The sea is a long east-west ellipse, wider at its eastern and western ends and n
 | Eastern  | The [[affiliation-kngdmmrdd\|Kingdom of Amradad]], and off it the [[affiliation-cnfdrtntrzlnstts\|Taruzelian]] archipelago                                                             |
 | Southern | The [[affiliation-empireakhlth\|Empire of Au'Khelathu]], [[affiliation-okharis\|Okharis]] and the [[affiliation-mtrrchybth\|Matriarchy of Bethua]]                                     |
 
-Hundreds of islands stud the sea. The largest—the archipelago of the [[place-taruzelrgn|Taruzel Region]] and [[place-aelwyth|Aelwyth]] (the Misty Isle) far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
+Hundreds of islands stud the sea. The largest—the archipelago of the [[place-taruzelrgn|Taruzel Region]] and [[place-aelwyth|Eilwith]] (the Misty Isle) far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
 
 The **western strait**, between [[place-provenzrgn|Provénzia]] and the Zerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Midhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
 
@@ -66,7 +66,7 @@ Several smaller powers matter locally. Foremost is the [[affiliation-mtrrchybth|
 
 ## Current Situation {#present}
 
-The eastern sea belongs to the Taruzelian fleet, and the Vilérian navy cannot pay to take it back. The admiral at [[place-castamar|Kastamar]] wants the war resumed while half his warships lie laid up for want of crews. At [[place-yamuzel2|Yamuzel]] the Taruzelian admiral [[being-dlzrtndn|Delzuru Tanaduni]] presses the Grand Council for a toll on every hull through the narrows, and the foreign masters in the roads resist it. Bethuan privateers sail against Vilérian shipping under the [[affiliation-bethuanflt|Purple Warrant]]. The grain that feeds Orzara comes down the [[place-vylarisrvr|River Vylaris]] from Hilen and across the sea from the Khelathi delta.
+The eastern sea belongs to the Taruzelian fleet, and the Vilérian navy cannot pay to take it back. The admiral at [[place-castamar|Kastamar]] wants the war resumed while half his warships lie laid up for want of crews. At [[place-yamuzel2|Yamuzel]] the Taruzelian admiral [[being-dlzrtndn|Delzuru Tanaduni]] presses the Grand Council for a toll on every hull through the narrows, and the foreign masters in the roads resist it. Bethuan privateers sail against Vilérian shipping under the [[affiliation-bethuanflt|Purple Warrant]]. The grain that feeds Orzara comes down the [[place-vylarisrvr|River Vilaris]] from Hilen and across the sea from the Khelathi delta.
 
 ## Trade
 

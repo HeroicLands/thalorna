@@ -398,7 +398,7 @@ Hildmund Chilton is a 41-year-old man who stands 5'7" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage, Hildmund Chilton is an embalmer.
+Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Hildmund Chilton is an embalmer.
 
 Hildmund grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and careful nature, he has prepared many bodies for burial over the years. He takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, he is dedicated to his craft and carries out his duties with a solemn respect for the dead.
 
@@ -442,7 +442,7 @@ Echoes of the Past
 : A family whose dead Hildmund's father prepared years ago returns with questions about how it was done.
 
 Shifting Winds
-: Political change in Aelwyth threatens the Morticians' Guild and the custom Hildmund depends upon, and he can adapt, resist, or leave.
+: Political change in Eilwith threatens the Morticians' Guild and the custom Hildmund depends upon, and he can adapt, resist, or leave.
 
 The Opportunity
 : A wealthy family offers Hildmund the preparation of all its dead, and what that custom will cost him is not named up front.

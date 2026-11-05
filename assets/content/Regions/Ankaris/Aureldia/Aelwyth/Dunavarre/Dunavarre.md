@@ -3,7 +3,7 @@ shortcode: dunavarre
 name: {full: Dúnavarre}
 type: place
 subType: region
-description: "The land of the Kingdom of Dúnavarre—Aelwyth's southeastern coast, whose sheltered harbors and fertile coastal plains face Élavendre across the water."
+description: "The land of the Kingdom of Dúnavarre—Eilwith's southeastern coast, whose sheltered harbors and fertile coastal plains face Élavendre across the water."
 tags: [region]
 data:
   demonym: Dúnavarran
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Dúnavarre is the land of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and lies on the southeastern coast of [[place-aelwyth|Aelwyth]].
+Dúnavarre is the land of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and lies on the southeastern coast of [[place-aelwyth|Eilwith]].
 
 Its sheltered harbors, fertile coastal plains, and proximity to the mainland have made it the island's gateway to the wider world.
 
@@ -35,7 +35,7 @@ at about thirty-five hundred, and [[place-wraymouth|Wraymouth]], the chief harbo
 [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]
 : The kingdom that holds this land
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : The island
 
 [[place-ravenmoor|Ravenmoor]]

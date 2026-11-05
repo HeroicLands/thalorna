@@ -395,7 +395,7 @@ Edrun Wolford is a 25-year-old woman who stands 5'8" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of [[lore-aelwythanclt|Aelwythan]] heritage, Edrun Wolford is a jeweler.
+Born in the [[place-aelwyth|Eilwith]] region to a guilded family of [[lore-aelwythanclt|Eilwithan]] heritage, Edrun Wolford is a jeweler.
 
 Edrun discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting pieces that often incorporate unique designs inspired by nature. Edrun's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
 
@@ -430,7 +430,7 @@ None; generally well-liked in the community.
 ## Plot Hooks
 
 The Jeweler's Dilemma
-: Edrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+: Edrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
 
 Old Grudges
 : None; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -439,7 +439,7 @@ Echoes of the Past
 : Something from Edrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Aelwyth threaten to upend the social order that Edrun depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwith threaten to upend the social order that Edrun depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Edrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

@@ -3,7 +3,7 @@ shortcode: daughtercts
 name: {full: The Daughter-Cities, en: [The Sending Out]}
 type: lore
 subType: history
-description: "From about 700 BF to about 450 BF Helionite cities short of land send colonists over the sea: Pelagora plants Bethua on the southern shore about 650 BF, and settlers from several cities found the harbors of the eastern straits and climb to the plateau, so that the east becomes Helonic at root."
+description: "From about 700 BF to about 450 BF Helionite cities short of land send colonists over the sea: Pelagora plants Bethua on the southern shore about 650 BF, and settlers from several cities found the harbors of the eastern straits and climb to the plateau, so that the east becomes Helonik at root."
 tags: [history, hellad, daughterage]
 data:
   packFolder: helionis
@@ -21,7 +21,7 @@ data:
         - place-kostaros
         - affiliation-nesthiros
       summary: >-
-        Helionite cities with more sons than land send colonists over the sea. Pelagora plants Bethua on the southern shore, about 650 BF, and governs it through a council in Pelagora. Settlers from several cities found harbors in the eastern straits, among them the isle of Nesthiros, and along the coast, and Kostaros sends a daughter-port that keeps its mother's name. From the harbors the settlers climb to the plateau, and the east becomes Helonic at root.
+        Helionite cities with more sons than land send colonists over the sea. Pelagora plants Bethua on the southern shore, about 650 BF, and governs it through a council in Pelagora. Settlers from several cities found harbors in the eastern straits, among them the isle of Nesthiros, and along the coast, and Kostaros sends a daughter-port that keeps its mother's name. From the harbors the settlers climb to the plateau, and the east becomes Helonik at root.
       standing: attested
       names: [{name: the Sending Out, by: place-helionis}]
       where:
@@ -29,7 +29,7 @@ data:
         reach:
           - place: place-bethuargn
             how: >-
-              a council in Pelagora governs the colony for twelve centuries, and the Bethuan tongue and faith are Helonic descendants of those years
+              a council in Pelagora governs the colony for twelve centuries, and the Bethuan tongue and faith are Helonik descendants of those years
             knowledge: named
           - place: place-byzariargn
             how: >-
@@ -65,19 +65,19 @@ A Pelagoran ship's master, asked where [[place-bethuargn|Bethua]] lies, answers 
 
 ## Bethua
 
-[[affiliation-pelagora|Pelagora]] sends its colonists south to a shore it has seen from its own harbor, and plants [[place-bethuargn|Bethua]] there about 650 BF. A council in Pelagora governs the colony, appoints the officers who keep its harbor and collects its dues, and the arrangement lasts through the republic, the empire and the age of the legions. Bethua takes the [[skill-helonclng|Helonic Language]] and the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with it, and in time makes both its own.
+[[affiliation-pelagora|Pelagora]] sends its colonists south to a shore it has seen from its own harbor, and plants [[place-bethuargn|Bethua]] there about 650 BF. A council in Pelagora governs the colony, appoints the officers who keep its harbor and collects its dues, and the arrangement lasts through the republic, the empire and the age of the legions. Bethua takes the [[skill-helonclng|Helonik Language]] and the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with it, and in time makes both its own.
 
 ## The Eastern Straits
 
-Colonists and traders from several cities found the harbors of the eastern straits, among them the fortress isle of [[place-nesthiros2|Nesthiros]], and settle the coast on either side. From the harbors they climb the escarpments to the plateau, where [[lore-heladlandngs|the Landings]] had left a burial ground and little else. The east becomes Helonic at root: the [[lore-byzarianclt|Bizarian]] people are of Helonic stock and carry the tongue in a shape that the harbors clipped.
+Colonists and traders from several cities found the harbors of the eastern straits, among them the fortress isle of [[place-nesthiros2|Nesthiros]], and settle the coast on either side. From the harbors they climb the escarpments to the plateau, where [[lore-heladlandngs|the Landings]] had left a burial ground and little else. The east becomes Helonik at root: the [[lore-byzarianclt|Bizarian]] people are of Helonik stock and carry the tongue in a shape that the harbors clipped.
 
 [[affiliation-kostaros2|Kostaros]] sends a daughter-port that keeps its mother's name, and the two have been taken for one another since. A Bizarian port of that name, [[place-kostaros|Kostaros]], still stands on the coast, and a debt contracted at one is sometimes sued for at the other.
 
 ## What the Colonies Left
 
-- **Bethua's Helonic tongue and faiths**, and the long tie between the island city and Pelagora.
+- **Bethua's Helonik tongue and faiths**, and the long tie between the island city and Pelagora.
 - **The two Kostaros**, a Helionite city-state and a Bizarian port of one name.
-- **The Bizarian stock**, Helonic at root, which centuries of trade across the straits have hardened into a people of its own.
+- **The Bizarian stock**, Helonik at root, which centuries of trade across the straits have hardened into a people of its own.
 - **Nesthiros's sea-trade**, which the eastern harbors have kept for as long as there have been captains to keep it.
 
 ## See Also

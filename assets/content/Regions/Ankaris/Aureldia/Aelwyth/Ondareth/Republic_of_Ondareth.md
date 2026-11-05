@@ -3,7 +3,7 @@ shortcode: repblcndrth
 name: {full: Republic of Ondareth}
 type: affiliation
 subType: polity
-description: "Senatorial republic on Aelwyth's southwestern coast—pragmatic and martial polity that fields the island's most disciplined military force under civic governance."
+description: "Senatorial republic on Eilwith's southwestern coast—pragmatic and martial polity that fields the island's most disciplined military force under civic governance."
 data:
   templatePriority: null
   demonym: Ondarethan
@@ -103,9 +103,9 @@ Republic of Ondareth uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / A
 
 ## Extent
 
-Ondareth runs along [[place-aelwyth|Aelwyth]]'s **western coast** and holds about **150,000** people—the second-largest
+Ondareth runs along [[place-aelwyth|Eilwith]]'s **western coast** and holds about **150,000** people—the second-largest
 polity on the island, twice the size of Dúnavarre, and the only part of
-Aelwyth governed by anything resembling a civic constitution.
+Eilwith governed by anything resembling a civic constitution.
 
 Its
 merchants are able, its accounts are creative, and its neighbors deal with it warily and constantly.
@@ -176,7 +176,7 @@ Often enough it does not, and nothing is done, and this is understood by everyon
 
 ## The Two Faiths
 
-Ondareth's religious life is unlike anywhere else on Aelwyth, and both of its peculiarities follow
+Ondareth's religious life is unlike anywhere else on Eilwith, and both of its peculiarities follow
 from the corruption rather than sitting beside it.
 
 ### The Black Flame
@@ -215,7 +215,7 @@ are careful to be seen at both temples.
 
 ## See Also
 
-[[place-aelwyth|Aelwyth]]
+[[place-aelwyth|Eilwith]]
 : The island
 
 [[place-ondareth|Ondareth]]

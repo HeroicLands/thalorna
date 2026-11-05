@@ -44,7 +44,7 @@ person goes to the temple for the turning of the year and to the cairn when the 
 Tension arises between the formalized hierarchy and the outlying tribes from time to time, but it
 is a tension about precedence and resources, never about whether the other is true.
 
-Foreign observers find this incomprehensible and record it as confusion. Okharics find the
+Foreign observers find this incomprehensible and record it as confusion. Okharik find the
 confusion itself odd—to them it is not two beliefs held awkwardly together but the natural order
 of things, and the question of which one is _really_ believed has no answer because it has no
 purchase.
@@ -71,7 +71,7 @@ events, and neither defers.
 
 _"How can you possibly believe both? They contradict!"_ is the outsider's objection, and it is
 made with some force by Au'Khelathu priests, by Vilérian factors, and by every foreign scholar who
-has written the Okharics up. It does not concern the people it is addressed to in the slightest.
+has written the Okharik up. It does not concern the people it is addressed to in the slightest.
 
 The widow does not think she has a problem. She had the temple rite and she had the Bone-Reader,
 she holds that her husband is where the Flame takes him and also what the bones say of him, and the visitor
@@ -80,7 +80,7 @@ the accounts do not match and see no consequence in it. Ask a Talithari Nkaring 
 zohira are the Flame's own emissaries and that what a Bone-Reader does is therefore not a rival
 rite, which does not actually answer the contradiction and is not offered as though it did.
 
-The contradictions are not felt as a problem awaiting a theologian. They are how Okharics understand the world to be
+The contradictions are not felt as a problem awaiting a theologian. They are how Okharik understand the world to be
 arranged. Foreign scholars have repeatedly mistaken this for an unfinished synthesis and predicted
 that one sphere will absorb the other; neither shows the least sign of it, because neither is
 under any pressure to.

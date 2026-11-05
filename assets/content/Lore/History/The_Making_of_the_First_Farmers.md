@@ -50,7 +50,7 @@ data:
             It is the settled opinion of human scholarship that both Elder Races observed a strict policy of non-interference with human development.
           agrees: disputes
       unresolved:
-        - what became of the arrangements away from Aelwyth, every one of which has lapsed
+        - what became of the arrangements away from Eilwith, every one of which has lapsed
         - whether the Khazari took any interest at all in what the knowledge became
         - the record dates this only as within a few centuries of the arrival
 ---

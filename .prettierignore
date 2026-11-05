@@ -18,4 +18,4 @@ assets/manifests/*.json
 
 # This encoding reference deliberately shows YAML \UXXXXXXXX escapes.
 # Frontmatter reserialization replaces those escapes with literal glyphs.
-assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md
+assets/content/Lore/Scripts/Eilwithi_Semaron_Encoding.md

@@ -3,7 +3,7 @@ shortcode: cntrlhghlnds
 name: {full: The Central Highlands}
 type: place
 subType: region
-description: "The warm open uplands at the middle of Aelwyth—rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Ondareth."
+description: "The warm open uplands at the middle of Eilwith—rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Ondareth."
 tags: [region, hill, inland]
 data:
   demonym: null
@@ -14,13 +14,13 @@ data:
   government: repblcndrth
 ---
 
-The **Central Highlands** occupy the middle of [[place-aelwyth|Aelwyth]] between the western coast and the farmland of
+The **Central Highlands** occupy the middle of [[place-aelwyth|Eilwith]] between the western coast and the farmland of
 [[place-aldorathrgn|Aldorath]]: open, rolling, largely treeless upland, held by the
 [[affiliation-repblcndrth|Republic of Ondareth]] and home to some fifty-eight thousand of its people.
 
 ## Above the Weather
 
-Aelwyth is a cool, wet, windy island, and its **western coast is the worst of it**—gray, fog-bound and
+Eilwith is a cool, wet, windy island, and its **western coast is the worst of it**—gray, fog-bound and
 chilly for much of the year, with the wind coming off the ocean unbroken.
 
 The Highlands are not. The fog is a low thing that lies on the coast and in the western valleys, and the
@@ -29,7 +29,7 @@ within an hour and looks back on a white sea covering everything he has just wal
 Highlands are accordingly **warmer, clearer and markedly more pleasant** than anywhere else in the
 republic, and the difference is the first thing any Ondarethan will tell an outsider about them.
 
-All of which is thoroughly relative. This is still Aelwyth: a cool island in a cold sea, where _warm_
+All of which is thoroughly relative. This is still Eilwith: a cool island in a cold sea, where _warm_
 means the wind has dropped and one can see the far side of the valley. A visitor from
 [[place-provenzrgn|Provénzia]], taken up into the Highlands at the height of summer and told this is the
 finest weather the island affords, would put his cloak back on and say something polite.

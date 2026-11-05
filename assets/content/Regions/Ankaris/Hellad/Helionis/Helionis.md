@@ -79,7 +79,7 @@ The relationship is still uneasy, because the Helionite habit of independent inq
 
 ## Relations
 
-The Republic conquered Helionis between 335 and 312 BF, during its expansion across the Vilérian Sea ([[lore-helionscnq|The Conquest of Helionis]]). The conquest was military, and what followed ran the other way. Viléria ruled Helionis, and Helionite culture, education, philosophy and arcane scholarship reshaped Viléria. The Republic's legal tradition drew on Helionite political theory, its theology took on Helionite subtlety, and the Thordimalon was built on Helionite intellectual foundations. Vilérian aristocrats have sent their children to Helionite academies for centuries, and the most cultivated Vilérians read Helonic drama and verse in the original. As the empire declines, Helionis has regained practical independence while keeping its formal ties, and the relationship is that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
+The Republic conquered Helionis between 335 and 312 BF, during its expansion across the Vilérian Sea ([[lore-helionscnq|The Conquest of Helionis]]). The conquest was military, and what followed ran the other way. Viléria ruled Helionis, and Helionite culture, education, philosophy and arcane scholarship reshaped Viléria. The Republic's legal tradition drew on Helionite political theory, its theology took on Helionite subtlety, and the Thordimalon was built on Helionite intellectual foundations. Vilérian aristocrats have sent their children to Helionite academies for centuries, and the most cultivated Vilérians read Helonik drama and verse in the original. As the empire declines, Helionis has regained practical independence while keeping its formal ties, and the relationship is that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
 
 Across the southern sea, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] is an ancient civilization with which Helionis has exchanged ideas for centuries. Helionite philosophy has shaped Khelathi theological debate, and Khelathi mathematics, astronomy and architecture have enriched Helionite scholarship. That relationship is warmer and more equal than the entanglement with Viléria.
 
@@ -146,5 +146,5 @@ The theaters
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
 : the gods of Helionis
 
-[[skill-helonclng|Helonic]]
+[[skill-helonclng|Helonik]]
 : the tongue and its naming traditions

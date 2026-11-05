@@ -32,7 +32,7 @@ Human scholars place holds in the mountains of every major continent: above [[pl
 
 **In Tantsou**, the one human realm with a lasting relationship with the Khazari, the empire classifies them by what they do: most as artisans, engineers and scholars, a few as military officers and a very few as nobles. Their strongholds govern themselves, and the empire relies on their weapons, armor and fortifications. A party in imperial service can carry a commission to a stronghold's gate, serve beside a Khazari officer on the mountain border, or guard an engineer whose methods infuriate a human general. The [[lore-elderraces|Elder Races]] note sets out the terms.
 
-**On [[place-aelwyth|Aelwyth]]**, [[place-vorgald|Vorgald]] stands in the eastern heights of [[place-ironfells|the Ironfells]], the westernmost hold the Khazari ever founded. Below it live [[lore-vardain|the Vardain]] of [[place-vardainvalleys|the Vardain Valleys]], the one human people that still farms for a hold. A caravan road climbs nearly six thousand feet to [[place-vargate|Vargate]], shut by snow a third of the year, whose market sells instruments, fine tools, wire and worked metal that the Vardain call their own work. Above the market, at the [Weighing Yard]{.name data-type="place/site"}, Vardain factors exchange the valleys' grain, cheese and fuel for what the hold makes. No outsider enters the yard, and no Khazár is seen below it.
+**On [[place-aelwyth|Eilwith]]**, [[place-vorgald|Vorgald]] stands in the eastern heights of [[place-ironfells|the Ironfells]], the westernmost hold the Khazari ever founded. Below it live [[lore-vardain|the Vardain]] of [[place-vardainvalleys|the Vardain Valleys]], the one human people that still farms for a hold. A caravan road climbs nearly six thousand feet to [[place-vargate|Vargate]], shut by snow a third of the year, whose market sells instruments, fine tools, wire and worked metal that the Vardain call their own work. Above the market, at the [Weighing Yard]{.name data-type="place/site"}, Vardain factors exchange the valleys' grain, cheese and fuel for what the hold makes. No outsider enters the yard, and no Khazár is seen below it.
 
 > At Vargate a Vardain factor in a sheepskin coat counts your coin onto a cloth, folds the cloth over it and puts your sealed letter into her own satchel. She turns and walks up the road toward the yard without a word, and the boy at the gate of the yard steps aside to let her through and back across to stop you. The snow on the road above her is untrodden except by her own boots and the ruts of handcarts.
 
@@ -131,7 +131,7 @@ Khazari characters are rare and suit a campaign built around them: an engineer o
 Campaigns start well from something a hold needs and will not leave the rock to fetch. A delivery from the farmers below has not arrived. A forebear's flawed passage in a human mine bears a Khazari name, and the house that owes its mending wants a party to guide its workers there. A Grukar tribe has budded in a valley within reach of a hold. An exile offers to sell a secret.
 
 :::secret
-**For the GM:** After the fall of Khazartúrn the Sinale recovered the Second Voice, and the two elder peoples agreed it would be held in trust on Aelwyth by both together. Six ships left Élavendre with it and vanished without wreckage or survivors, and Vorgald has waited three thousand years for the delivery. A party that finds any trace of those ships becomes the most important human beings the Khazari have dealt with since, and the most dangerous to them.
+**For the GM:** After the fall of Khazartúrn the Sinale recovered the Second Voice, and the two elder peoples agreed it would be held in trust on Eilwith by both together. Six ships left Élavendre with it and vanished without wreckage or survivors, and Vorgald has waited three thousand years for the delivery. A party that finds any trace of those ships becomes the most important human beings the Khazari have dealt with since, and the most dangerous to them.
 :::
 
 ## Where to Read Next
@@ -139,6 +139,6 @@ Campaigns start well from something a hold needs and will not leave the rock to 
 - [[lore-khazariclt|The culture]] for listening, the light hand, the record, the dead and what a person owes
 - [[lore-flkkhazar|The Khazari]] for the people, the seven clans, the holds and their withdrawal from humanity
 - [[lore-khazarturn|Khazartúrn]] for the city and its fall
-- [[place-vorgald|Vorgald]], [[place-vargate|Vargate]] and [[lore-vardain|the Vardain]] for the one hold humans can reach on Aelwyth
+- [[place-vorgald|Vorgald]], [[place-vargate|Vargate]] and [[lore-vardain|the Vardain]] for the one hold humans can reach on Eilwith
 - [[lore-elderraces|Elder Races]] for the Khazari in Tantsou
 - [[skill-khazarlng|The language]], [[skill-khazarlng#lexicon|the lexicon]] and [[skill-drthrkscrpt|Pirzath]] for words, names, numbers and letters

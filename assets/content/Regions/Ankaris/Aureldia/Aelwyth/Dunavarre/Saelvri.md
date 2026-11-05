@@ -3,7 +3,7 @@ shortcode: saelvri
 name: {full: Saelvri}
 type: affiliation
 subType: polity
-description: "A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination."
+description: "A people of Eilwith against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination."
 tags: [draft]
 data:
   templatePriority: null
@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination.
+      A people of Eilwith against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination.
     ranks:
       - level: 0
         title: Outlaw
@@ -22,7 +22,7 @@ data:
       - level: 1
         title: Saelvri
         description: >-
-          One of the Saelvri people of Aelwyth, against whom Dúnavarre prosecuted a crusade of extermination.
+          One of the Saelvri people of Eilwith, against whom Dúnavarre prosecuted a crusade of extermination.
     offices: {}
   seat: aelwyth
   population: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Saelvri are a people of [[place-aelwyth|Aelwyth]] against whom the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] prosecuted a crusade of extermination. [[lore-saelvricrusade|The Saelvri Crusade]] ran from about 694 to 703 AF and ended in [[place-hushwood|the Hushwood]].
+The Saelvri are a people of [[place-aelwyth|Eilwith]] against whom the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] prosecuted a crusade of extermination. [[lore-saelvricrusade|The Saelvri Crusade]] ran from about 694 to 703 AF and ended in [[place-hushwood|the Hushwood]].

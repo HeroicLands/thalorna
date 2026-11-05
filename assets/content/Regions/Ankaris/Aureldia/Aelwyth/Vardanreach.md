@@ -3,14 +3,14 @@ shortcode: vardanreach
 name: {full: Vardanreach}
 type: place
 subType: region
-description: "The Vardain nation's name for the north-east of Aelwyth—the plain, the fells and the high valleys—which kept the Khazari's friendship for millennia until the Nordmen took it sixty years ago."
+description: "The Vardain nation's name for the north-east of Eilwith—the plain, the fells and the high valleys—which kept the Khazari's friendship for millennia until the Nordmen took it sixty years ago."
 tags: [draft, history]
 data: {demonym: Vardain, lore: [vardain], parents: [aelwyth], population: 0, packFolder: aelwyth}
 ---
 
 ## Overview
 
-Vardanreach is what the Aelwythans called the north-east of their island while [[lore-vardain|the Vardain]] held it: the great plain, [[place-nordfells|the Nordfells]] and [[place-sunderfells|the Sunderfells]] above it, and the high valleys within them, something like a fifth of [[place-aelwyth|Aelwyth]]'s land, whose bounds the [[lore-flkkhazar|Khazár Folk]] fixed in [[lore-endgreatwar|the Ending of the Great War]]. It was a settled, literate, farming nation, and for thousands of years it kept a friendship no other human people has kept: a standing, mutually valued relationship with the Khazari of [[place-vorgald|Vorgald]].
+Vardanreach is what the Eilwithans called the north-east of their island while [[lore-vardain|the Vardain]] held it: the great plain, [[place-nordfells|the Nordfells]] and [[place-sunderfells|the Sunderfells]] above it, and the high valleys within them, something like a fifth of [[place-aelwyth|Eilwith]]'s land, whose bounds the [[lore-flkkhazar|Khazár Folk]] fixed in [[lore-endgreatwar|the Ending of the Great War]]. It was a settled, literate, farming nation, and for thousands of years it kept a friendship no other human people has kept: a standing, mutually valued relationship with the Khazari of [[place-vorgald|Vorgald]].
 
 ## What Vardanreach Was
 

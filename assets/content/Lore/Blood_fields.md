@@ -182,7 +182,7 @@ In Aureldia the dead are judged. The Threshold Keepers of Sélmoros perform the 
 
 **A rite must be the dead's own.** Sélmoros places in his keeping the dead who were his. The legion that died in [[place-horngorge|the Horn Gorge]] kept the Twelve, so a settlement could reach it, though no one has paid for one. The [[affiliation-saelvri|Saelvri]] did not keep the Twelve, and the rite they kept for their dead died with them, so no rite the living keep can settle [[place-hushwood|the Hushwood]]. It is the newest field in Aureldia and the only one in living memory.
 
-Aureldia has eight fields: six in Provénzia, the Horn Gorge in [[place-asturath|Asturath]] and the Hushwood on Aelwyth. [[affiliation-twinbldrdr|The Twinblade Order]] keeps stations at a few battlefields as guards at a threshold, and keeps none of them. [[place-threesisters|The Three Sisters]], where the [Great War of Aelwyth]{.name data-type="lore/history"} ended, left no field, and nothing marks the ground.
+Aureldia has eight fields: six in Provénzia, the Horn Gorge in [[place-asturath|Asturath]] and the Hushwood on Eilwith. [[affiliation-twinbldrdr|The Twinblade Order]] keeps stations at a few battlefields as guards at a threshold, and keeps none of them. [[place-threesisters|The Three Sisters]], where the [Great War of Eilwith]{.name data-type="lore/history"} ended, left no field, and nothing marks the ground.
 
 ## Helionis: the Herald's Crossing
 
@@ -225,7 +225,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-dvulgvangur\|Dvulgvangur]]           | The Nordlands (Targud)     | [[lore-burningeast\|The Burning of the East]]                | 613 AF  | dread                | thin                            |
 | [[place-henhulpedin\|Henhutpedin]]           | Tellumel                   | the Breaking                                                 | ~620 AF | recurrence           | moderate                        |
 | [[place-relvanvesul\|Relvanvesut]]           | Tellumel                   | the Breaking                                                 | ~620 AF | recurrence           | moderate                        |
-| [[place-hushwood\|The Hushwood]]             | Aelwyth (the Saelvri dead) | [[lore-saelvricrusade\|The Saelvri Crusade]]                 | ~703 AF | silence              | thin                            |
+| [[place-hushwood\|The Hushwood]]             | Eilwith (the Saelvri dead) | [[lore-saelvricrusade\|The Saelvri Crusade]]                 | ~703 AF | silence              | thin                            |
 | [[place-bldfldkyvarel\|Kivarel]]             | Provénzia                  | —                                                            | —       | quickening           | moderate                        |
 | [[place-bldfldcalvenza\|Kalvenza]]           | Provénzia                  | —                                                            | —       | silence              | slight                          |
 

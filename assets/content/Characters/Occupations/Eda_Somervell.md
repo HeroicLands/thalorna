@@ -398,7 +398,7 @@ Eda Somervell is a 25-year-old woman who stands 5'7" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Eda Somervell was born in the [[place-aelwyth|Aelwyth]] region to a freeman family of [[lore-aelwythanclt|Aelwythan]] heritage.
+Eda Somervell was born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage.
 
 Eda took over the [Somervell Inn]{.name data-type="place/structure"} from her parents. It stands near a popular trade route. Her friendly manner helps her connect with guests, though running the inn can be a strain.
 
@@ -433,7 +433,7 @@ Few; she is generally liked by the community.
 ## Plot Hooks
 
 The Innkeeper's Dilemma
-: Eda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+: Eda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
 
 Old Grudges
 : Few; she is generally liked by the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -442,7 +442,7 @@ Echoes of the Past
 : Something from Eda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Aelwyth threaten to upend the social order that Eda depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwith threaten to upend the social order that Eda depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Eda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

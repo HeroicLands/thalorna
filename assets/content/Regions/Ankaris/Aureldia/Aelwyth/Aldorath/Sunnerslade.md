@@ -16,11 +16,11 @@ data:
 
 **Sunnerslade** is the strip of south- and west-facing slope where the
 [[place-ironfells|Ironfells foothills]] come down into [[place-aldorvale|the Aldorvale]], and it is the
-warmest, driest and most improbable ground on [[place-aelwyth|Aelwyth]].
+warmest, driest and most improbable ground on [[place-aelwyth|Eilwith]].
 
 ## Why the Wine Exists
 
-Aelwyth is a **cool wet island**. Vines should not ripen here and very nearly do not.
+Eilwith is a **cool wet island**. Vines should not ripen here and very nearly do not.
 
 What makes Sunnerslade possible is the range behind it. Weather crossing the island from the western
 ocean has given up most of its rain by the time it reaches the Ironfells, so the country in their lee is
@@ -34,7 +34,7 @@ The margin is thin. A cold summer costs the vintage outright, and does so about 
 
 That precariousness is exactly why the wine is worth what it is. Sunnerslade produces a pale, sharp,
 long-lived white in small quantity, and it is **known on the mainland**—one of only two things
-Aelwyth exports that anyone abroad asks for by name, the other being Aldorathi wool.
+Eilwith exports that anyone abroad asks for by name, the other being Aldorathi wool.
 
 Mainland buyers who have troubled to come and see where it is grown are generally astonished, and say
 so, and are not thanked.

@@ -3,7 +3,7 @@ shortcode: vardainvalleys
 name: {full: The Vardain Valleys}
 type: place
 subType: region
-description: "The high valleys beneath Vorgald—a town, eight villages and some eight and a half thousand people, held by the Khazari and belonging to no Aelwythan realm."
+description: "The high valleys beneath Vorgald—a town, eight villages and some eight and a half thousand people, held by the Khazari and belonging to no Eilwithan realm."
 tags: [region, mountain, valley]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
 ---
 
 The Vardain Valleys are a system of high valleys running down toward the sea cliffs beneath [[place-vorgald|Vorgald]], in the eastern heights of [[place-ironfells|the Ironfells]].
-They hold about **eight thousand five hundred [[lore-vardain|Vardain]]**—one town and eight villages—and they are not part of any Aelwythan
+They hold about **eight thousand five hundred [[lore-vardain|Vardain]]**—one town and eight villages—and they are not part of any Eilwithan
 kingdom.
 
 No map made at [[place-dunmere|Dunmere]] or [[place-ravenmoor|Ravenmoor]] shows a border here, because
@@ -24,7 +24,7 @@ concerned has found it easier not to raise the question.
 
 They are also all that is left free of [[place-vardanreach|Vardanreach]]—and the valleys were part of it. The Vardain
 nation held the whole of what is now [[place-stormveld|Stormveld]], something like a fifth of
-[[place-aelwyth|Aelwyth]]'s land, and these mountains with it. When the Nordmen came in 660 AF ([[lore-stormveldtkn|the Taking of Stormveld]]) they devastated the lowlands and
+[[place-aelwyth|Eilwith]]'s land, and these mountains with it. When the Nordmen came in 660 AF ([[lore-stormveldtkn|the Taking of Stormveld]]) they devastated the lowlands and
 enslaved the people; a hundred and twenty thousand Vardain are thralls down there now, and what reached
 the high valleys was a remnant of a remnant.
 
@@ -40,7 +40,7 @@ hundred people can live here at all.
 The proportion matters and the Vardain never forget it. This is **one basin**: perhaps twenty miles from
 end to end and a few across at its widest, with two or three side valleys hanging off it. Below and
 north lies Stormveld—an immense expanse, something like a fifth of
-Aelwyth, all of it Vardanreach once and all of it conquered. The free Vardain hold a pocket in the
+Eilwith, all of it Vardanreach once and all of it conquered. The free Vardain hold a pocket in the
 mountains above a country they used to own.
 
 Within that pocket the ground is good. The floor is open and gently rolling: grass, scattered oak and
@@ -87,7 +87,7 @@ basin by gravity alone, calibrated so precisely that a Vardain farmer's water ar
 hour on an appointed day and has done for centuries.
 
 The same system takes water _away_. The basin floor was bog; it is now the best arable in the district,
-drained by the valley's own falls, led off along gradients no human surveyor on Aelwyth could reproduce.
+drained by the valley's own falls, led off along gradients no human surveyor on Eilwith could reproduce.
 
 ### The Heat
 
@@ -107,7 +107,7 @@ Four months of growing must feed twelve, four of them snowbound. Every village h
 **granary**: sealed chambers in the rock, dry, vermin-proof, and held at an even temperature by
 ventilation shafts that are still open and still working after an unrecorded number of centuries.
 
-Aelwyth loses part of its stored grain to damp and spoilage every year, as everywhere does. The Vardain
+Eilwith loses part of its stored grain to damp and spoilage every year, as everywhere does. The Vardain
 do not.
 
 ### Who Keeps It Working

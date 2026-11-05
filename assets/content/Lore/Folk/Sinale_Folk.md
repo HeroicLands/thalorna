@@ -57,13 +57,13 @@ They pass in the same silence around a second meeting, earlier and elsewhere, in
 
 Then came the [[lore-flkkhazar|Khazari]]—the Deep Folk, the Stone-Wrights—a second people, different in form and temperament but kindred in spirit. For a time, the two elder races lived in concert. The fragments that survive suggest a period of cooperation, even unity—a shared realm or alliance that spanned much of Thalorna, governed under a single accord. The Sinale crafted in forest and starlight; the Khazari crafted in stone and flame. Between them, they shaped wonders that neither could have achieved alone.
 
-But something broke. The nature of the sundering between the Sinale and the Khazari is the most closely guarded secret of both peoples—neither will speak of it to humans, and the rare scholar who has pressed the question has been met with a silence so absolute and so cold that the conversation was never attempted again. What is clear is that the two elder races separated, long before the first human civilizations arose. Apart from one attempt on the isle of [[place-aelwyth|Aelwyth]], they do not speak to each other. They do not trade. They do not acknowledge each other's existence except in the most oblique terms. Whatever happened between them, it has not been forgiven.
+But something broke. The nature of the sundering between the Sinale and the Khazari is the most closely guarded secret of both peoples—neither will speak of it to humans, and the rare scholar who has pressed the question has been met with a silence so absolute and so cold that the conversation was never attempted again. What is clear is that the two elder races separated, long before the first human civilizations arose. Apart from one attempt on the isle of [[place-aelwyth|Eilwith]], they do not speak to each other. They do not trade. They do not acknowledge each other's existence except in the most oblique terms. Whatever happened between them, it has not been forgiven.
 
 What broke it was [[lore-khazarturn|Khazartúrn]]. In 2427 BF a Sinale outlaw took up [[miscgear-secondvoice|the Second Voice]]—a relic the Sinale knew of and had never thought worth mentioning, since a weapon that commands [[lore-grukarfolk|Grukar]] is a weapon against cities and the Sinale keep none—and used it to destroy the greatest city the Khazari ever raised, killing thirty thousand. The Sinale hunted him down themselves, took a long time about it, and afterward handed over nothing and explained nothing.
 
 Each people guards the secret for its own reason. The Khazari because it is their humiliation; the Sinale because one of theirs did it, and because of what they had failed to say beforehand.
 
-On Aelwyth the break was afterward attempted in earnest. A sub-group of the Sinale and a sub-group of the Khazari joined in a single kingdom that governed the whole island, before the Pelwar arrived there. When the Sinale king was killed at [[place-threesisters|the Three Sisters]], the Sinale abandoned the field, and the Khazari took it very poorly.
+On Eilwith the break was afterward attempted in earnest. A sub-group of the Sinale and a sub-group of the Khazari joined in a single kingdom that governed the whole island, before the Pelwar arrived there. When the Sinale king was killed at [[place-threesisters|the Three Sisters]], the Sinale abandoned the field, and the Khazari took it very poorly.
 
 By the time humanity began to build cities and keep records, the Sinale were already diminished—fewer in number, withdrawn into ever-more-remote sanctuaries, engaged in concerns that had nothing to do with the affairs of the younger race. The rise of human civilizations barely registered in their reckoning. Empires that seemed eternal to humans—the [Vilérian Republic]{.name data-type="affiliation/polity"}, the Khelathi dynasties—were brief seasons to a people who remembered the world before cities existed.
 
@@ -73,7 +73,7 @@ The Sinale live in scattered enclaves throughout Thalorna—hidden communities i
 
 The enclaves are protected not by walls or armies but by the Sinale's relationship with the land itself. Paths that lead to an enclave have a way of leading elsewhere. Travelers who approach uninvited find themselves walking in circles, or losing track of time, or simply feeling an overwhelming conviction that they should turn back. These are not hostile defenses—the Sinale have no interest in harming lost travelers—but they are absolute. You do not find a Sinalean enclave unless the Sinale wish to be found.
 
-The number and location of these enclaves is unknown. Human scholars have confirmed the existence of perhaps a dozen, scattered across the forests of [[place-elavendre|Élavendre]], [[place-hallowwood|the Hallowwood]] of [[place-aelwyth|Aelwyth Region]], the deep woods of [[place-vrystwald|Vristwald]], and remote corners of other continents. There are certainly more. The Sinale do not volunteer information about their settlements, and the enclaves that humans know about are probably the ones the Sinale consider least important.
+The number and location of these enclaves is unknown. Human scholars have confirmed the existence of perhaps a dozen, scattered across the forests of [[place-elavendre|Élavendre]], [[place-hallowwood|the Hallowwood]] of [[place-aelwyth|Eilwith Region]], the deep woods of [[place-vrystwald|Vristwald]], and remote corners of other continents. There are certainly more. The Sinale do not volunteer information about their settlements, and the enclaves that humans know about are probably the ones the Sinale consider least important.
 
 Not all enclaves endure. [[place-haulonna|Haulonna]], a hidden sanctuary in the deep interior of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], was destroyed by the [[being-tereb|tereb]] necromancer [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]] in the service of [[affiliation-nahild|Nahild]]. Its corruption—and the imprisonment of its inhabitants' spirits—is an open wound among the Sinale, and a grim demonstration that even the Firstborn's ancient protections are not absolute.
 
@@ -142,7 +142,7 @@ The Sinale keep three conclaves in [[place-kiichchik|Ki'ich'chik]]: [[place-hers
 [[place-vrystwald|Vristwald Region]]
 : Known to contain Sinalean enclaves
 
-[[place-aelwyth|Aelwyth Region]]
+[[place-aelwyth|Eilwith Region]]
 : Known to contain Sinalean enclaves
 
 [[place-haulonna|Haulonna]]

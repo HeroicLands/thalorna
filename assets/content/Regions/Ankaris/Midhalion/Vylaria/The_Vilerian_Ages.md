@@ -68,7 +68,7 @@ A date gives the day and month of the Vilérian Calendar, the year, and the mark
 
 | Age                        | Written | Its years (AF)          | What marks it                                                                       |
 | -------------------------- | ------- | ----------------------- | ----------------------------------------------------------------------------------- |
-| The Kings and the Republic | KR      | counted back from 1 BF  | a city on the Vylaris becomes the power of the sea, and a kurthos ends the Republic |
+| The Kings and the Republic | KR      | counted back from 1 BF  | a city on the Vilaris becomes the power of the sea, and a kurthos ends the Republic |
 | The First Orzoi            | FA      | 1 to 96                 | the Founder's line builds the Empire's machinery                                    |
 | The Age of Conquest        | AC      | 96 to 389               | the legions push every frontier, and the Empire's reach is widest                   |
 | The Years of Three Eagles  | TE      | 389 to 406              | three claimants, three armies, and a capital that burns                             |

@@ -3,7 +3,7 @@ shortcode: bethuasep
 name: {full: The Separation of Bethua}
 type: lore
 subType: history
-description: "About 615 AF, under the queen Meqes XI, Bethua won its war of separation from its Helonic metropole with Khelathi gold, engineers and loans, and rebuilt its treasury and water corps on Khelathi models."
+description: "About 615 AF, under the queen Meqes XI, Bethua won its war of separation from its Helonik metropole with Khelathi gold, engineers and loans, and rebuilt its treasury and water corps on Khelathi models."
 tags: [history, khelathu]
 data:
   culture: khelathiclt
@@ -19,7 +19,7 @@ data:
         - affiliation-garhalzi
         - lore-garauu
       summary: >-
-        Bethua fights a war of separation from its Helonic metropole, and the Khelathi queen Meqes XI underwrites it with gold, engineers and loans. Bethua wins, rebuilds its treasury and its water corps on Khelathi models, and takes Khelathi titles for both. It is the eastern counterpart of Provénzia's independence, and comes a century before Taruzel's.
+        Bethua fights a war of separation from its Helonik metropole, and the Khelathi queen Meqes XI underwrites it with gold, engineers and loans. Bethua wins, rebuilds its treasury and its water corps on Khelathi models, and takes Khelathi titles for both. It is the eastern counterpart of Provénzia's independence, and comes a century before Taruzel's.
       standing: attested
       where:
         locus: [place-bethuargn]
@@ -63,9 +63,9 @@ A trade-house factor in [[place-bethura|Bethura]] pays a bill with a Khelathi we
 
 ## The War
 
-Bethua began as a daughter-settlement of the Helonic peoples, planted on the southern shore of the [[place-vylarianse|Vilérian Sea]] and governed from across the water. About 2725 ST (615 AF) it fought a war of separation from that metropole. Bethua did not fight alone, and could not have: the queen [Meqes XI]{.name data-type="being/npc"} (2710 ST to 2738 ST) underwrote the war with Khelathi gold, with engineers, and with loans.
+Bethua began as a daughter-settlement of the Helonik peoples, planted on the southern shore of the [[place-vylarianse|Vilérian Sea]] and governed from across the water. About 2725 ST (615 AF) it fought a war of separation from that metropole. Bethua did not fight alone, and could not have: the queen [Meqes XI]{.name data-type="being/npc"} (2710 ST to 2738 ST) underwrote the war with Khelathi gold, with engineers, and with loans.
 
-The court at [[place-galezkara|Galezkara]] had its reasons. A free Bethua on the southern shore of the sea, aligned with the empire, would keep Helonic and Vilérian ambitions in [[place-midhalnrgn|Midhalión]] divided and give the court a partner at sea without the cost of a navy. The instruments were the [[affiliation-garhalzi|Gar-Hálzi]] correspondents, the engineers of the temples, and the loans themselves.
+The court at [[place-galezkara|Galezkara]] had its reasons. A free Bethua on the southern shore of the sea, aligned with the empire, would keep Helonik and Vilérian ambitions in [[place-midhalnrgn|Midhalión]] divided and give the court a partner at sea without the cost of a navy. The instruments were the [[affiliation-garhalzi|Gar-Hálzi]] correspondents, the engineers of the temples, and the loans themselves.
 
 ## The Rebuilding
 

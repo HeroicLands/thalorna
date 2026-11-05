@@ -1,0 +1,226 @@
+{
+    "respellings": [
+        {
+            "from": "Aelwyth",
+            "to": "Eilwith",
+            "reading": "AIL-weeth",
+            "uses": 526,
+            "tongue": "Eilwithi",
+            "kind": "land"
+        },
+        {
+            "from": "Aelwythan",
+            "to": "Eilwithan",
+            "reading": "ail-WEE-thahn",
+            "uses": 117,
+            "tongue": "Eilwithi",
+            "kind": "people"
+        },
+        {
+            "from": "Aelwythans",
+            "to": "Eilwithans",
+            "reading": "ail-WEE-thahns",
+            "uses": 23,
+            "tongue": "Eilwithi",
+            "kind": "people"
+        },
+        {
+            "from": "Aelwythi",
+            "to": "Eilwithi",
+            "reading": "ail-WEE-thee",
+            "uses": 80,
+            "tongue": "Eilwithi",
+            "kind": "people"
+        },
+        {
+            "from": "Brynwold",
+            "to": "Brinwold",
+            "reading": "BREEN-wold",
+            "uses": 9,
+            "tongue": "Eilwithi",
+            "kind": "land"
+        },
+        {
+            "from": "Brynhallow",
+            "to": "Brinhallow",
+            "reading": "breen-HAHL-loh",
+            "uses": 8,
+            "tongue": "Eilwithi",
+            "kind": "place"
+        },
+        {
+            "from": "Vylaris",
+            "to": "Vilaris",
+            "reading": "vee-LAH-rees",
+            "uses": 42,
+            "tongue": "Vilari",
+            "kind": "water"
+        },
+        {
+            "from": "Valyrian",
+            "to": "Vilérian",
+            "reading": "vee-LEH-ree-ahn",
+            "uses": 1,
+            "tongue": "Vilari",
+            "kind": "water"
+        },
+        {
+            "from": "Caldovia",
+            "to": "Kaldóvia",
+            "reading": "kahl-DOH-vee-ah",
+            "uses": 1,
+            "tongue": "Vilari",
+            "kind": "place",
+            "acute": "ó keeps the stress on DOH"
+        },
+        {
+            "from": "Calvenna",
+            "to": "Kalvenna",
+            "reading": "kahl-VEN-nah",
+            "uses": 1,
+            "tongue": "Vilari",
+            "kind": "place"
+        },
+        {
+            "from": "Castellis",
+            "to": "Kastellis",
+            "reading": "kahs-TEL-lees",
+            "uses": 1,
+            "tongue": "Vilari",
+            "kind": "place"
+        },
+        {
+            "from": "Corennis",
+            "to": "Korennis",
+            "reading": "koh-REN-nees",
+            "uses": 1,
+            "tongue": "Vilari",
+            "kind": "place"
+        },
+        {
+            "from": "Caldera",
+            "to": "Kaldera",
+            "reading": "kahl-DEH-rah",
+            "uses": 1,
+            "tongue": "Vilari",
+            "kind": "place"
+        },
+        {
+            "from": "Oxenna",
+            "to": "Oksenna",
+            "reading": "ohk-SEN-nah",
+            "uses": 1,
+            "tongue": "Vilari",
+            "kind": "place"
+        },
+        {
+            "from": "Wynnara",
+            "to": "Winnara",
+            "reading": "ween-NAH-rah",
+            "uses": 1,
+            "tongue": "Vilari",
+            "kind": "place"
+        },
+        {
+            "from": "Helonic",
+            "to": "Helonik",
+            "reading": "heh-LOH-neek",
+            "uses": 329,
+            "tongue": "Helonik",
+            "kind": "people"
+        },
+        {
+            "from": "Theradic",
+            "to": "Theradik",
+            "reading": "theh-RAH-deek",
+            "uses": 1,
+            "tongue": "Helonik",
+            "kind": "water"
+        },
+        {
+            "from": "Okharics",
+            "to": "Okharik",
+            "reading": "oh-KHAH-reek",
+            "uses": 9,
+            "tongue": "Okharik",
+            "kind": "people"
+        },
+        {
+            "from": "Vrystwald",
+            "to": "Vristwald",
+            "reading": "VREEST-wahld",
+            "uses": 2,
+            "tongue": "Varokhi",
+            "kind": "land"
+        },
+        {
+            "from": "Vristwaldic",
+            "to": "Vristwaldik",
+            "reading": "vreest-WAHL-deek",
+            "uses": 1,
+            "tongue": "Varokhi",
+            "kind": "land"
+        },
+        {
+            "from": "Lut-Regyt",
+            "to": "Lut-Regit",
+            "reading": "loot-REH-geet",
+            "uses": 4,
+            "tongue": "Khelathi",
+            "kind": "place"
+        },
+        {
+            "from": "Wyndmarch",
+            "to": "Wiindmarch",
+            "reading": "WEEND-march",
+            "uses": 0,
+            "tongue": "Eilwithi",
+            "kind": "region"
+        },
+        {
+            "from": "Sunderwynd",
+            "to": "Sunderwiind",
+            "reading": "sun-DER-weend",
+            "uses": 0,
+            "tongue": "Eilwithi",
+            "kind": "place"
+        },
+        {
+            "from": "Kaerwynd",
+            "to": "Kaerwiind",
+            "reading": "kah-ER-weend",
+            "uses": 0,
+            "tongue": "Eilwithi",
+            "kind": "place"
+        }
+    ],
+    "forOwner": [
+        {
+            "names": ["Wyndmarch", "Sunderwynd", "Kaerwynd"],
+            "tongue": "Eilwithi",
+            "question": "The shared element wynd is also an English word, a narrow lane; respelled, it becomes wind, which Eilwithi already records as the word for moving air.",
+            "recommendation": "Respell to Windmarch, Sunderwind and Kaerwind, with the element wind; Eilwithi lets a word and a name share a spelling."
+        },
+        {
+            "names": ["Kulaywil", "K'aypukal", "K'aypuk", "Wraymouth", "Meykhathi"],
+            "tongue": "Shuqash, Ki'i'chek, Eilwithi, Khelathi",
+            "question": "A y after a vowel and before a consonant or the end of a word is the guide's consonant y in a place the spelling guard refuses, but not a vowel y; the same shape runs through the Shuqash, Sovidur, Tellumi and Ki'i'chek lexicons.",
+            "recommendation": "Settle it once for every tongue in its own issue; if it goes, the guide's own pairs take its place (Kulaiwil, K'aipukal, K'aipuk, Wraimouth)."
+        },
+        {
+            "names": [
+                "Cotiere",
+                "Nakarys",
+                "Alveryn",
+                "Ythrides",
+                "Celivren",
+                "Karnavic",
+                "Mórvanic"
+            ],
+            "tongue": "various",
+            "question": "These are a speech, an order, two lineages, a tournament and two faiths, outside the place, land, water, people and polity scope.",
+            "recommendation": "Respell by the same rules in a follow-up that covers every in-world proper name: Kotiere, Nakaris, Alverin, Ithrides, Selivren, Karnavik, Mórvanik."
+        }
+    ],
+    "owner": []
+}

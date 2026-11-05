@@ -60,7 +60,7 @@ The bank of the dead and the temple-towns:
 [[place-garlegulu|Gar-Legulu]] (~30,000)
 : a temple-estate town east of the capital: the granaries, workshops and tenant-villages of one of the great cult-temples, a town that exists to feed and serve its god.
 
-The hinterland villages: the dense farm-and-market country around the capital holds scores of villages, many of 500–3,000 people. Among them are [[place-iuguleri|Iugu-Leri]], [[place-garzekhemu|Gar-Zekhemu]] (180), [[place-zmabelgen|Zma-Belgen]], [[place-khelutathen|Khelut-Thelqen]], [[place-yathzabes|Yath-Zabes]], [[place-garger|Gar-Ger]], [[place-sheluzu|Shelu-Zu]], [[place-anlaghthawu|Anlagh-Thawu]], [[place-amqelagefu|Amqel-Agefu]] and [[place-lutregyt|Lut-Regyt]]. Each renders grain, beer and labor to the capital and the temples, and each lies within a half-day's barge of the great city's markets.
+The hinterland villages: the dense farm-and-market country around the capital holds scores of villages, many of 500–3,000 people. Among them are [[place-iuguleri|Iugu-Leri]], [[place-garzekhemu|Gar-Zekhemu]] (180), [[place-zmabelgen|Zma-Belgen]], [[place-khelutathen|Khelut-Thelqen]], [[place-yathzabes|Yath-Zabes]], [[place-garger|Gar-Ger]], [[place-sheluzu|Shelu-Zu]], [[place-anlaghthawu|Anlagh-Thawu]], [[place-amqelagefu|Amqel-Agefu]] and [[place-lutregyt|Lut-Regit]]. Each renders grain, beer and labor to the capital and the temples, and each lies within a half-day's barge of the great city's markets.
 
 ## See Also
 

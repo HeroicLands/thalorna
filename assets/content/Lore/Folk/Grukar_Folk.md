@@ -140,5 +140,5 @@ Where the Grukar spread, the land suffers. Their tribes are a roiling cauldron o
 [[skill-grukarlng|Grukar Language]]
 : body language and scent, with sound for emphasis and no words
 
-[[lore-grukaraelwyth|The Grukar of Aelwyth]]
+[[lore-grukaraelwyth|The Grukar of Eilwith]]
 : the tribes of the island's empty interior

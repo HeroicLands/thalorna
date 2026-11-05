@@ -401,7 +401,7 @@ Dunred Harden is a 38-year-old man who stands 5'11" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Dunred Harden is a mercantyler of [[place-kingsholow|Kingshollow]], the old royal seat of [[affiliation-kngdmldrth|Aldorath]] in [[place-aelwyth|Aelwyth]], a gentleman of a small Aldorathi house who trades in fine cloth and worked metal for the royal household and the barons' halls.
+Dunred Harden is a mercantyler of [[place-kingsholow|Kingshollow]], the old royal seat of [[affiliation-kngdmldrth|Aldorath]] in [[place-aelwyth|Eilwith]], a gentleman of a small Aldorathi house who trades in fine cloth and worked metal for the royal household and the barons' halls.
 
 Dunred comes of a family that holds a few farms below the king's hall, long enough to be gentry and not long enough to be barons, and his father was the first Harden to see that the hall was worth more to the house than the farms. When the court comes down to Kingshollow for a coronation or the midwinter feast, it wants hangings, plate and cloth of a kind the village does not make, and it wants them at once. Dunred supplies them, buying through the harbors of the island and selling from a warehouse at [[place-dunmere|Dunmere]] to the household and to any hall in Aldorath that wants to look as the king's does. He knows exactly what a baron will pay to be seen wearing what the king wears.
 

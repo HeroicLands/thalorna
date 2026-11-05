@@ -1,6 +1,6 @@
 ---
 shortcode: brynwold
-name: {full: Brynwold}
+name: {full: Brinwold}
 type: place
 subType: region
 description: "The wool uplands of Aldorath—poorer, older and freer than the vale below, running the flocks whose clip is known across Thalorna."
@@ -14,17 +14,17 @@ data:
   packFolder: aelwyth
 ---
 
-**Brynwold** is the [[place-aldorathrgn|Aldorath Region]]'s upland country, rising west and north of [[place-aldorvale|the Aldorvale]]
+**Brinwold** is the [[place-aldorathrgn|Aldorath Region]]'s upland country, rising west and north of [[place-aldorvale|the Aldorvale]]
 into hills too high and thin-soiled for grain. Twenty-six thousand people, and a great many more sheep.
 
 ## The Wool
 
-Aldorathi wool is one of the two Aelwythan goods with a mainland reputation, and nearly all of it comes
+Aldorathi wool is one of the two Eilwithan goods with a mainland reputation, and nearly all of it comes
 off these hills. The flocks are large, the staple is long and fine, and the clip is gathered each summer
 and driven down to [[place-ashford|Ashford]] to be graded and sold.
 
 It is the kingdom's principal export by value and the foundation of whatever cash economy Aldorath has.
-The vale grows the food; Brynwold earns the coin.
+The vale grows the food; Brinwold earns the coin.
 
 ## Older Terms
 
@@ -34,9 +34,9 @@ correspondingly harder to command and appreciably freer, which the lowlands cons
 irregularity and the uplands consider the natural order.
 
 They honor the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and keep rather more besides, at the old stones above
-[[place-brynhallow|Brynhallow]] and elsewhere, and their parish priests report them devout and leave it
+[[place-brynhallow|Brinhallow]] and elsewhere, and their parish priests report them devout and leave it
 there.
 
 ## See Also
 
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-brynhallow|Brynhallow]] · [[place-ashford|Ashford]]
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-brynhallow|Brinhallow]] · [[place-ashford|Ashford]]

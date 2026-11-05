@@ -1,9 +1,9 @@
 ---
 shortcode: jointcrown
-name: {full: The Joint Crown of Aelwyth, en: [The Elder Kingdom]}
+name: {full: The Joint Crown of Eilwith, en: [The Elder Kingdom]}
 type: lore
 subType: history
-description: "About 1585 BF the Sinale of the southern forest and the Khazari of the Ironfells raised one crown over the whole of Aelwyth, held by a Sinale king and governed by both peoples, and kept it for six centuries."
+description: "About 1585 BF the Sinale of the southern forest and the Khazari of the Ironfells raised one crown over the whole of Eilwith, held by a Sinale king and governed by both peoples, and kept it for six centuries."
 tags: [history]
 data:
   culture: aelwythanclt
@@ -68,11 +68,11 @@ data:
         - how a Sinale king and a Khazari council divided the island's business between them
 ---
 
-A drover who follows a straight, paved road across the island's interior and finds it ending at a bank of old oaks has found the work of **the Joint Crown**, the one kingdom the two elder races of [[place-aelwyth|Aelwyth]] ever raised together. It was founded about 1585 BF and it ended in 984 BF at [[place-threesisters|the Three Sisters]].
+A drover who follows a straight, paved road across the island's interior and finds it ending at a bank of old oaks has found the work of **the Joint Crown**, the one kingdom the two elder races of [[place-aelwyth|Eilwith]] ever raised together. It was founded about 1585 BF and it ended in 984 BF at [[place-threesisters|the Three Sisters]].
 
 ## Why Here
 
-[[lore-fallkhazturn|The fall of Khazartúrn]] in 2427 BF ended all dealing between the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] everywhere in the world. Aelwyth was the exception. The Khazari of [[place-vorgald|Vorgald]] and the Sinale of the southern forest, [[place-hallowwood|the Hallowwood]] of today, shared one island and no other pair of their peoples shared a country at all. In [[lore-thecrossing|the Crossing]], the Convoy of Six sailed in 1919 BF to put [[miscgear-secondvoice|the Second Voice]] into their joint keeping and never arrived. A little over three centuries later the two peoples tried a larger undertaking, and they made it a government.
+[[lore-fallkhazturn|The fall of Khazartúrn]] in 2427 BF ended all dealing between the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] everywhere in the world. Eilwith was the exception. The Khazari of [[place-vorgald|Vorgald]] and the Sinale of the southern forest, [[place-hallowwood|the Hallowwood]] of today, shared one island and no other pair of their peoples shared a country at all. In [[lore-thecrossing|the Crossing]], the Convoy of Six sailed in 1919 BF to put [[miscgear-secondvoice|the Second Voice]] into their joint keeping and never arrived. A little over three centuries later the two peoples tried a larger undertaking, and they made it a government.
 
 ## One Crown, Two Hands
 
@@ -82,7 +82,7 @@ The subjects were [[lore-vardain|the Vardain]], the farmers the Khazari had long
 
 ## What It Left
 
-- **The Crown Roads.** Stretches of fitted-stone road run across Aelwyth's interior and highlands where no later road runs, and one of them goes straight to the Hallowwood's edge and stops. They are described under [[place-aelwyth|Aelwyth]].
+- **The Crown Roads.** Stretches of fitted-stone road run across Eilwith's interior and highlands where no later road runs, and one of them goes straight to the Hallowwood's edge and stops. They are described under [[place-aelwyth|Eilwith]].
 - **Footings under three towns.** Cut stone nobody has dated lies beneath the oldest quarters of [[place-veldareth|Veldareth]] and two other towns, and one cellar in Veldareth has a door cut in the footing that does not open.
 - **Six centuries of being assured.** The Khazari reckon the Sinale's withdrawal from the Three Sisters the worse for coming after it, and [[place-vorgald|Vorgald]]'s archive counts it as the second abandonment in fourteen hundred years.
 - **A people's standing.** The Vardain are farmers of a crown and a hold, and they tell the crown without wonder, as a thing that was ordinary once.

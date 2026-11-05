@@ -3,7 +3,7 @@ shortcode: nethermootholw
 name: {full: Nethermoot Hollow, en: [The Witch's Hollow, The Oaths' Moot]}
 type: place
 subType: site
-description: "A sunken oak-ringed dell in the deep forest of the Aelwythan interior where a forest clan once held its moot, now the dwelling of a witch who trades in years and keeps the clan's ancestors rooted in the trees."
+description: "A sunken oak-ringed dell in the deep forest of the Eilwithan interior where a forest clan once held its moot, now the dwelling of a witch who trades in years and keeps the clan's ancestors rooted in the trees."
 tags: [draft, forest, witch, haunted]
 data:
   demonym: null
@@ -42,10 +42,10 @@ The hollow lies a hard three days' walk into the interior forest from the neares
 [[place-pshtrwldrns|Peshtar Wilderness]]
 : the highland country to the north-west
 
-[[lore-grukaraelwyth|The Grukar of Aelwyth]]
+[[lore-grukaraelwyth|The Grukar of Eilwith]]
 : the hunters of the same forest
 
-[[lore-aelwythanclt|Aelwythan culture]]
+[[lore-aelwythanclt|Eilwithan culture]]
 : the trackstones and the old observance of the interior
 
 [[affiliation-selmoros|Faith of Sélmoros]]
