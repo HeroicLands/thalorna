@@ -97,6 +97,9 @@ The fire in Kudumel's oldest temple was burning before the empire came to the is
 [[affiliation-tribestrzd|Tribes of Atarzád]] and [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the two peoples of the Khazryn caravan courts
 
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a campaign frame for a caravan season from the strait to Kethramír
+
 [[place-taruzelrgn|Taruzel Region]]
 : the regional overview
 

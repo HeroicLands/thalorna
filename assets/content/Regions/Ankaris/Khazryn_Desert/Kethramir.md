@@ -64,3 +64,6 @@ The old [House of Kethramír]{.name data-type="affiliation/lineage"}, the Tellum
 
 [[place-qudumel2|Kudumel]]
 : the Taruzelian port across the strait where the city's goods are sold
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a campaign frame for a caravan season from the strait to Kethramír
