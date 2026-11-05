@@ -23,10 +23,18 @@ The [[place-alndntrblnds|Áelendan Tribal Lands]] within Sórvanda are sovereign
 protected by crown law in principle: the courts of [[affiliation-kngdmlvndr|Élavendre]] will act against anyone who encroaches, and
 generally do not have to, because the [[affiliation-alndnwrdns|Áelendan Wardens]] get there first.
 
-This is the densest concentration of fae sites on the [[place-ankrscntnnt|Ankaris Continent]]. The [[lore-aralwen|aralwain]], the sacred
+This is the densest concentration of fae sites on the [[place-ankrscntnnt|Ankaris Continent]]. The [[lore-aralwen|Araelwen]], the sacred
 groves, the seated spirits—[[place-urontekhi|the Uron Tekhi]] in
 [[place-silvrfrsts|the Silver Forests]], the river-mother [[lore-salendaspr|Sálenda]] at [[place-longstair|the Long Stair]], the owl-spirit of [[place-owlhollow|the Owl Hollow]]—are all here,
 and all watched.
+
+## The Araelwen {#present}
+
+Sórvanda holds most of the known [[lore-aralwen|Araelwen]], the thin places the Áelendan hold sacred, and they are the thing outsiders come for and the thing the tribes exist to keep. The mountains and forests are full of other sacred places too, groves and springs and sanctuaries where no thin place stands; the Araelwen are a charge of their own within that country, forbidden to every outsider and dangerous to everyone.
+
+On [[place-drenavrspn|the Drenavar Spine]] they are of every kind. In [[place-hldhr|the Held Hour]] the light stands still; at [[place-sngngtrn|the Singing Tarn]] the sirens of the water sing from the dusk; [[place-wndrngrdg|the Wandering Ridge]] is never where it was. In the Silver Forests the trees of [[place-wkngstnd|the Waking Stand]] wake and move, and at the forests' edge the watch on the fog-hollow [[place-talve|Talve]] is the oldest in the Áelendan keeping. South along the frontier with [[place-provenzrgn|Provénzia]] lies [[place-ukuaraelwen|Úkua-Araelwen]], where a day inside can be a month outside.
+
+The [[affiliation-ordoarcanis|Thordimalon]] wants all of them, and this year more than ever it sends its scholars past the crown's guides with guards it hires at [[place-beravel|Péravel]] and [[place-liranel|Liranel]]. A Warden who finds an Order camp above the line warns once. At the Held Hour an Order party is camped below the Warden ring waiting for the watch to change; on the Wandering Ridge an Order survey has lost a guard and its scholar will not leave the valley; on the ridge above the Singing Tarn another scholar waits for a still night with a clerk who writes music.
 
 ## The Wealth That Cannot Be Taken
 
@@ -57,7 +65,7 @@ defense.
 
 ## The King's Cut
 
-Above the tree line in the Spine lie the sealed adits of the workings a king opened to pay the Empire's tribute and the Wardens closed in a season ([[lore-sorvandaclose|The Sórvanda Closing]]). Spoil heaps stand under birch, and a broken ore-road runs down to [[place-elanmere|Elanmere]]. The Wardens turn prospectors and Arcane Order surveyors back from it.
+Above the tree line in the Spine lie the sealed adits of [[place-kngscut|the workings]] a king opened to pay the Empire's tribute and the Wardens closed in a season ([[lore-sorvandaclose|The Sórvanda Closing]]). Spoil heaps stand under birch, and a broken ore-road runs down to [[place-elanmere|Elanmere]]. The Wardens turn prospectors and Arcane Order surveyors back from it.
 
 - **A map of the old workings.** A prospector hires guides with one, and the Wardens have the original.
 - **The deepest adit.** It was sealed with more than stone.
@@ -77,6 +85,14 @@ Above the tree line in the Spine lie the sealed adits of the workings a king ope
 - [[place-eshalshldg|Ésalosa Lodge]]—Áelendan settlement and ceremonial center.
 - [[place-elanmere|Elanmere]]—the lake town at the mountains' foot.
 - [[place-sourimael|Sóurimel]]—a woodland settlement of the Silver Forests.
+- Araelwen: [[place-hldhr|The Held Hour]] · [[place-sngngtrn|The Singing Tarn]] ·
+  [[place-wndrngrdg|The Wandering Ridge]] · [[place-wkngstnd|The Waking Stand]]
+
+## Hooks {#hooks}
+
+- **The Order's guards.** A scholar at Péravel hires the party for a season above the tree line, and the Wardens of the Spine warn them on the first day ([[lore-aralwen|Araelwen]]).
+- **The missing guard.** A guard of an Order survey is lost on [[place-wndrngrdg|the Wandering Ridge]], and his scholar pays well to have him found.
+- **The bark at Péravel.** A strip of bark from [[place-wkngstnd|the Waking Stand]] lies green in a chapterhouse collection, and a Warden of the Silver Forests wants the name of the man who cut it.
 
 ## See Also
 

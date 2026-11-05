@@ -21,11 +21,19 @@ toward [[place-lisere|Lísere]], where the cliffs give way to long shingle and s
 Lirve is the reason Élavendre is what it is. The [[lore-flksinale|Sinale]] keep their enclaves in
 the deep forests here, and have since thousands of years before any human settlement—a fact the
 kingdom lives with rather than administers. Outside [[place-sorvanda|Sórvanda]] this is where the
-[[lore-aralwen|aralwain]] lie thickest: thin places, shifting paths, lights among the trees, and the
+[[lore-aralwen|Araelwen]] lie thickest: thin places, shifting paths, lights among the trees, and the
 [[affiliation-alndnwrdns|Áelendan Wardens]] patrolling ground that is nominally the crown's.
 
 Nothing is taken from the deep forest without a license, and the license is not the crown's to give
 alone.
+
+## Siralonke and Its Araelwen
+
+The deep forest behind the coast is **[Siralonke]{.name data-type="place/feature"}**, the sea wood: old oak and silver birch from behind [[place-liranel|Liranel]] to the Sinale country, cut only under license at its margins and not at all within. It is sacred ground of the [[lore-aelendnppl|Áelendan]], far from their mountains, and the Wardens who patrol it keep its [[lore-aralwen|Araelwen]] as strictly as any on the Spine. Every one is forbidden to outsiders, and every one is dangerous.
+
+The best known is [[place-wrghthllw|the Wrought Hollow]], a door through which made things walk out into Siralonke by night and go back before light. The woodcutters of the licensed coppice find their tracks, and the [[affiliation-ordoarcanis|Thordimalon]] keeps one of them, unmoving, in a chapterhouse collection at [[place-beravel|Péravel]]. The thin places of Siralonke draw the [[being-blinkfox|blinkfoxes]] of the coast, which hunt round them.
+
+Lirve is where the Order's study of the thin places comes closest to the coast, and where it hires most of its guards. Liranel's guides take pilgrims to the margins and, for more money, past them; the crown's guides take Order expeditions in and bring them back having found nothing; and between the two, Liranel's inns are full of sellswords waiting for a scholar who pays well and names no destination.
 
 ## The Economy
 
@@ -39,7 +47,7 @@ alone.
 - **Pilgrim and scholar traffic.** People come to see the thin places. Some of them pay very well, and a
   quiet local trade exists in guiding them—legally to the edges, and otherwise past them.
 
-## Its Places
+## Its Places {#places}
 
 [[place-portaelion|Port Aelion]]
 : the chief harbor of the coast, where the cliffs yield.
@@ -47,6 +55,36 @@ alone.
 [[place-liranel|Liranel]]
 : a forest town of the inner coast, at the edge of Sinale country.
 
+[[place-cardeth|Kardeth]]
+: a village and noble seat within reach of Liranel.
+
+[[place-heligstrom|Hélithron]]
+: a village of the forest country around Liranel.
+
+[[place-serenthale|Serenthale]]
+: the withdrawn Sinale enclave of the sea-facing forest.
+
+[[place-wrghthllw|The Wrought Hollow]]
+: an Araelwen of Siralonke, through which made things come and go.
+
+## Current Situation {#present}
+
+The licenses to cut the deep forest are issued, recorded and disputed at [[place-liranel|Liranel]]'s forest
+court, and often enough quietly exceeded. Liranel's guides for hire take people past the margins of the
+old forest, and the crown's guides take [[affiliation-ordoarcanis|Arcane Order]] expeditions in and bring
+them back having found nothing, least of all [[place-serenthale|Serenthale]]. At
+[[place-heligstrom|Hélithron]] the men of a warlord and privateer are watching for the alchemist
+[[being-sevnmyrkls|Sevren Mírkelis]], and at [[place-cardeth|Kardeth]] the young lady of the seat buys
+discreet remedies from [[being-belrkflwyn|Melrik Salvin]] of Liranel.
+
+An Order fellow at Liranel is hiring guards to go to the Wrought Hollow on a moonlit night with nets and a cart and bring out one of the made things that still walks. The crown's guides are not going with him, and the Wardens of Siralonke have heard that someone is asking the way.
+
+## Hooks {#hooks}
+
+- **The cart and the nets.** The Order fellow at Liranel hires the party to guard his night in Siralonke ([[place-wrghthllw|The Wrought Hollow]]).
+- **Past the margin.** A Liranel guide who takes pilgrims past the margins has not come back, and the Wardens are asking who he took.
+- **A sellsword's question.** A guard home from an Order survey of the interior wants to know whether what he was paid to do was murder under the law of the ground he stood on.
+
 ## See Also
 
-- [[place-elavendre|Élavendre]] · [[lore-flksinale|Sinale]] · [[lore-aralwen|Aralwen]]
+- [[place-elavendre|Élavendre]] · [[lore-flksinale|Sinale]] · [[lore-aralwen|Araelwen]]

@@ -78,7 +78,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 The Lands have no surveyed border, but in practice their edge is the point at which the lowland cultivation, roads, and settled villages give way to unbroken forest and rising terrain. Crown magistrates do not attempt to impose their authority beyond that line. Where royal roads end, the Wardens' jurisdiction begins; where Élavendri villages give way to Áelendan hamlets and seasonal camps, the law of the tribes takes over.
 
-A handful of chartered lowland settlements sit at the edge of the Lands, serving as points of contact and trade. Beyond them, no outside institution—neither the Crown's, nor the [[affiliation-ordoarcanis|Thordimalon]]'s, nor any merchant house's—holds standing.
+A handful of chartered lowland settlements sit at the edge of the Lands, among them [[place-gandelis|Gandelis]] and [[place-kalvanel|Kalvanel]], serving as points of contact and trade. Beyond them, no outside institution—neither the Crown's, nor the [[affiliation-ordoarcanis|Thordimalon]]'s, nor any merchant house's—holds standing.
 
 ## Notable Places
 
@@ -93,6 +93,13 @@ The Silver Forests
 
 Mountain sanctuaries and grove shrines
 : Scattered across the interior; each has its own standing in the Kindred Pact and its own customary protocols
+
+[[lore-aralwen|The Araelwen]]
+: The sacred thin places, among them [[place-hldhr|the Held Hour]], [[place-sngngtrn|the Singing Tarn]], [[place-wndrngrdg|the Wandering Ridge]] and [[place-wkngstnd|the Waking Stand]]
+
+## The Araelwen and the Order {#present}
+
+The Tribal Lands hold most of the known [[lore-aralwen|Araelwen]], and they are the part of the sacred country that no leave opens: a guest of a tribe may walk a sacred road under escort and see the outer margin of a sacred wood, and never set foot in a thin place. The [[affiliation-ordoarcanis|Thordimalon]] wants exactly those places, and its scholars come up the valleys past the crown's guides with guards they have hired in the lowlands. The communities at the edge of the Lands see them first, and the Wardens warn them once.
 
 ## Access and Travel
 

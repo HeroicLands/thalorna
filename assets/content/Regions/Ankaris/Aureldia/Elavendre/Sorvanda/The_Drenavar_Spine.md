@@ -47,7 +47,25 @@ Mountain sanctuaries
 Sacred springs and lakes
 : Water sources held to be especially sacred, around which certain Áelendan rituals are performed.
 
+Thin places
+: The [[lore-aralwen|Araelwen]], every one of them sacred and forbidden to outsiders without exception, and every one dangerous. The Spine holds more of them than anywhere else in the kingdom.
+
 [[place-silvrfrsts|The Silver Forests]] lie at the edge of the Drenavar range, in a transition zone where the mountains descend into the deepest forests of the interior.
+
+## The Araelwen of the Spine {#present}
+
+Not every sacred site on the Spine is a thin place, and the Áelendan keep the two apart. The Araelwen of the Spine are of every kind the Áelendan know:
+
+[[place-hldhr|The Held Hour]]
+: a bowl of pale stone where the light stands still at one hour of the afternoon, and time inside does not run as it runs outside.
+
+[[place-sngngtrn|The Singing Tarn]]
+: a high-meadow tarn whose water sings at dusk and draws whoever answers into it.
+
+[[place-wndrngrdg|The Wandering Ridge]]
+: a living ridge whose saddle, springs and gullies are never where they were, and the plainest case of the shifting paths travelers tell of.
+
+Each is kept by the Wardens of the Spine, and each has an Order party near it this season. At the Held Hour an Order scholar camps below the Warden ring and waits for the watch to change; above the Singing Tarn another waits for a still night to write the song down; on the Wandering Ridge an Order survey has set a line of cairns, lost a guard, and refuses to leave. The Wardens warn each of them once, and the scholars have hired guards precisely so that a warning need not be the end of it.
 
 ## [[place-eshalshldg|Ésalosa Lodge]]
 

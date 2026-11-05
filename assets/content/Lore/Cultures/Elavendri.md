@@ -15,8 +15,8 @@ data:
       definition: "The true name, used only among intimates and at night"
       common: true
     - {name: "sun name", definition: "The name used in formal and public life", common: true}
-    - name: "arálwen-water"
-      definition: "A river that is aralwen along its length, running partly in each world"
+    - name: "Araelwen-water"
+      definition: "A river that is Araelwen along its length, running partly in each world"
     - name: "hinge-days"
       definition: "The equinoxes and solstices, when the Grove Council gathers"
     - name: "leaf-mark"

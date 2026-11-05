@@ -14,9 +14,9 @@ This note sets out what the peoples of [[place-worldthlrn|Thalorna]] agree a blo
 
 ## What a Blood-field Is
 
-An [[lore-aralwen|aralwen]] is a natural thinness, old beyond reckoning, where the two worlds lie close enough to cross. A blood-field is an injury. It is made at a moment that can be dated, it takes its character from the battle that made it, and nobody keeps it the way the [[affiliation-alndnwrdns|Áelendan Wardens]] keep the aralwain.
+An [[lore-aralwen|Araelwen]] is a natural thinness, old beyond reckoning, where the two worlds lie close enough to cross. A blood-field is an injury. It is made at a moment that can be dated, it takes its character from the battle that made it, and nobody keeps it the way the [[affiliation-alndnwrdns|Áelendan Wardens]] keep the Araelwen.
 
-|              | Aralwen                                  | Blood-field                                                                  |
+|              | Araelwen                                 | Blood-field                                                                  |
 | ------------ | ---------------------------------------- | ---------------------------------------------------------------------------- |
 | Origin       | Natural, and older than any record       | Made by slaughter, at a moment that can be dated                             |
 | Character    | Takes its nature from the land—a passage | Takes its nature from the battle                                             |
@@ -78,11 +78,11 @@ From the field's side, two kinds of thing come through.
 
 **The hunters.** The predator spirits gather where unreceived souls are, and a blood-field is a place where they never stop being. On a thin field some of them cross into this world in a semi-material form, and in that form they can act on it: they are seen close to, they take hold, they attack, and they kill. This is the reason a thin field is called cursed. A body found at the edge of one in the morning is a thing every such district has seen.
 
-**Nothing living crosses bodily the other way.** A traveler on a blood-field never walks into the spirit realm, however thin the field. That is the plainest difference between a blood-field and an aralwen, which is a passage and goes somewhere: a boat that follows a second bank seen on a blood-field comes back to the same reach at dawn.
+**Nothing living crosses bodily the other way.** A traveler on a blood-field never walks into the spirit realm, however thin the field. That is the plainest difference between a blood-field and an Araelwen, which is a passage and goes somewhere: a boat that follows a second bank seen on a blood-field comes back to the same reach at dawn.
 
 ## Who Keeps One
 
-Nobody, by office. No people has made anyone answerable for a blood-field the way the Wardens answer for the aralwain. Local custom tends some fields: a house that makes a yearly offering at the edge, a line of ash laid where the grazing stops, a cup poured at the anniversary, lamps set out by the families whose dead lie there. A sect may claim one as its own work, as the [[affiliation-agmipantra|Agmi-pantra]] claims the fields of Vedyara. None of these is an office, and none of them obliges anyone to anything.
+Nobody, by office. No people has made anyone answerable for a blood-field the way the Wardens answer for the Araelwen. Local custom tends some fields: a house that makes a yearly offering at the edge, a line of ash laid where the grazing stops, a cup poured at the anniversary, lamps set out by the families whose dead lie there. A sect may claim one as its own work, as the [[affiliation-agmipantra|Agmi-pantra]] claims the fields of Vedyara. None of these is an office, and none of them obliges anyone to anything.
 
 ## What Ends One
 
@@ -178,7 +178,7 @@ In Aureldia the dead are judged. The Threshold Keepers of Sélmoros perform the 
 
 **The ground, not the battle.** [[place-provenzrgn|Provénzia]] has more fields than anywhere else, and its custom is to name the ground and let the battle go ([[lore-bloodfields|The Blood-fields of Provénzia]]). The battle at [[place-bldfldtiravlen|Tiravlen]] is known only from the Vilérian account, and no record says what war made [[place-bldfldkyvarel|Blood-field of Kivarel]] or [[place-bldfldcalvenza|Blood-field of Kalvenza]].
 
-**[[place-elavendre|Élavendre]] has none.** Its thin places are [[lore-aralwen|aralwain]], natural and kept by the Wardens. Its wars were fought by not being where the army was, and [[lore-elvtribute|the war of the tribute]] and [[lore-sorvandaclose|the Sórvanda Closing]] cost lives without a slaughter. The [[lore-aelendnppl|Áelendan dead]] are commended onward by their shamans, and the Death-Speakers go to [[lore-ossendaspr|Óssenda]] to ask whether they have gone.
+**[[place-elavendre|Élavendre]] has none.** Its thin places are [[lore-aralwen|Araelwen]], natural and kept by the Wardens. Its wars were fought by not being where the army was, and [[lore-elvtribute|the war of the tribute]] and [[lore-sorvandaclose|the Sórvanda Closing]] cost lives without a slaughter. The [[lore-aelendnppl|Áelendan dead]] are commended onward by their shamans, and the Death-Speakers go to [[lore-ossendaspr|Óssenda]] to ask whether they have gone.
 
 **A rite must be the dead's own.** Sélmoros places in his keeping the dead who were his. The legion that died in [[place-horngorge|the Horn Gorge]] kept the Twelve, so a settlement could reach it, though no one has paid for one. The [[affiliation-saelvri|Saelvri]] did not keep the Twelve, and the rite they kept for their dead died with them, so no rite the living keep can settle [[place-hushwood|the Hushwood]]. It is the newest field in Aureldia and the only one in living memory.
 
@@ -231,7 +231,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 
 ## See Also
 
-[[lore-aralwen|Aralwen]]
+[[lore-aralwen|Araelwen]]
 : the natural thin places, which a blood-field is not
 
 [[lore-bloodfields|The Blood-fields of Provénzia]]

@@ -28,7 +28,7 @@ data:
         description: >-
           Among the most experienced Wardens of a territory, on whom its leadership falls by the recognition of their peers rather than by appointment.
     offices:
-      Runner: Carrier of messages between territories, through whom coordination across tribal boundaries passes.
+      Runner: Held by one Warden. Carrier of messages between territories, through whom coordination across tribal boundaries passes.
   seat: null
   population: null
   economy: []
@@ -52,7 +52,7 @@ Region
 
 ### Overview
 
-The **Áelendan Wardens** are an ancient order tasked with protecting the [[lore-aralwen|aralwain]]—the thin places—of the mountains and deep forests of [[place-elavendre|Élavendre]], particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge with absolute seriousness. They are the living instrument of the [Kindred Pact]{.name data-type="lore/law"}—the ancient compact between the [[lore-aelendnppl|Áelendan]] and the land itself—and their authority over sacred territory is recognized by both Áelendan custom and the crown of [[affiliation-kngdmlvndr|Élavendre]].
+The **Áelendan Wardens** are an ancient order tasked with protecting the [[lore-aralwen|Araelwen]]—the sacred thin places—of the mountains and deep forests of [[place-elavendre|Élavendre]], particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge with absolute seriousness. They are the living instrument of the [Kindred Pact]{.name data-type="lore/law"}—the ancient compact between the [[lore-aelendnppl|Áelendan]] and the land itself—and their authority over sacred territory is recognized by both Áelendan custom and the crown of [[affiliation-kngdmlvndr|Élavendre]].
 
 ### Origin and Purpose
 
@@ -107,7 +107,33 @@ The Silver Forests
 Mountain sanctuaries and grove shrines
 : Scattered across the interior, each with its own small complement of Wardens
 
-### See Also
+The deep forests of the coast
+: The Wardens who patrol [Siralonke]{.name data-type="place/feature"} behind [[place-lirve|Lirve]], and the watch that comes down by turns to [[place-fndr|the Fen Door]] in [Olvalonke]{.name data-type="place/feature"}, the farthest from the mountains the order keeps
+
+### Áelendan Groves in the Kingdom's Woods
+
+The Wardens' writ runs wherever Áelendan ground is, and some of it lies inside the kingdom: Áelendan groves in the old growth between the river settlements, kept by a shaman or a Tradition Keeper and guarded by the Wardens of the nearest territory. The crown does not own such a grove and does not claim to. A grove-elder of [[affiliation-groveconcl|the Grove Council]] keeps a Council grove, which is Élavendren ground and the crown's, and the Wardens take no writ from the Council for either kind. A license to cut, issued at [[place-liranel|Liranel]], does not reach an Áelendan grove, and a license-holder who clears one is met by the Wardens' graduated response.
+
+## The Araelwen {#present}
+
+The Araelwen are the order's first charge and the reason it exists, and the Wardens keep them according to what each one does.
+
+At a **door**, whether it lets in the fae or fell things, the Wardens keep the watch, the oldest form of their keeping: two sit by it through every night with spear and dog, turn what comes through by song, fire or stone, retire when it does not turn, and sing from shelter on the nights it wins. The watch on the fog-hollow [Talve]{.name data-type="place/site"} is the first, and a watch is never pulled.
+
+At a place that **disturbs time**, such as [[place-hldhr|the Held Hour]], the Wardens keep the bounds and turn people away, and no Warden goes in.
+
+At every one of them the law is the same. Warden leave can take a stranger along a sacred road; it never takes him into an Araelwen. The Wardens warn a trespasser once and escort him out, and one who returns or desecrates is dealt with finally. A device of the art carried inside, such as a [[miscgear-temprlcmpss|Temporal Compass]], counts as a working, and a working there as desecration.
+
+What the order wants now is to hold that line against an Order that has stopped relying on the crown's guides. The [[affiliation-ordoarcanis|Thordimalon]] hires mercenaries and guards to protect its scholars from the Wardens, at Péravel and Liranel, and sends them past the margins in numbers. The Wardens make no distinction between the scholar and the guard, and warn each once. They are stretched: this season an Order party camps below the Held Hour, another waits above [[place-sngngtrn|the Singing Tarn]], a survey has lost a guard on [[place-wndrngrdg|the Wandering Ridge]], and the watch at the Fen Door is down to a single Warden.
+
+## Hooks {#hooks}
+
+- **Hands they would not otherwise accept.** The lone Warden at [[place-fndr|the Fen Door]] needs a second at the cleft through the dark nights, and no Warden can come down before the passes open.
+- **The other side of the contract.** A Warden of the Spine asks the party to carry a warning to the Order's hired guards below [[place-hldhr|the Held Hour]], plainly, so that no guard can say he was not told.
+- **Whose grove.** A license-holder has cleared a stand between two river villages. A grove-elder says it was his, and the Warden of the territory says it was Áelendan ground and asks the party to say what stood there before the Wardens act.
+- **Who cut the bark.** The Wardens of the Silver Forests want the man who cut bark from [[place-wkngstnd|the Waking Stand]], and they cannot go to Péravel to ask.
+
+## See Also
 
 [[lore-aelendnppl|Áelendan]]
 : The people the Wardens serve

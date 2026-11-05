@@ -103,7 +103,7 @@ The Áelendan have never forgiven the door. Order expeditions have taken artifac
 ## What It Left
 
 - **The felzos's house,** now the University's oldest court, and the Order's foothold in the capital ([[place-beravel|Péravel]]).
-- **[The Tribute Road]{.name data-type="place/feature"}.** Imperial milestones that run from the east and stop at Valdun ([[place-valdun|Valdun]]).
+- **[[place-trbtrd|The Tribute Road]].** Imperial milestones that run from the east and stop at Valdun ([[place-valdun|Valdun]]).
 - **The Lost Cohort's camp,** a ditched camp in the Áuldalon woods that hunters find and cannot find again ([[place-auldalon|Áuldalon]]).
 - **The kingdom's standing.** Élavendre paid as a tributary of the Empire and was never a province of it; the Empire kept a _felzos_ at Péravel and no _therkos_ (governor), and the tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]].
 - **The oldest grievance.** The Áelendan hold the Order's welcome against the crown that gave it.

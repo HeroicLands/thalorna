@@ -276,7 +276,7 @@ Ultimate Goal
 
 ## Adventure 1: The [[miscgear-heartofdhirikri|Heart of Dirikri]]
 
-Central Plot: The mission arrives at [[place-beravel|Péravel]], capital of [[affiliation-kngdmlvndr|Élavendre]]. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], expresses interest in sending a party to [Úkua-Arálwen]{.name data-type="place"} to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
+Central Plot: The mission arrives at [[place-beravel|Péravel]], capital of [[affiliation-kngdmlvndr|Élavendre]]. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], expresses interest in sending a party to [[place-ukuaraelwen|Úkua-Araelwen]] to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
 
 ### The Leader of Epistémion:
 
@@ -290,14 +290,14 @@ Background
 : Áelithra is a Mistress of the Thordimalon and a wealthy commoner from Péravel.
 
 Ancient Scroll
-: Áelithra possesses a recently discovered ancient scroll that mentions the [[miscgear-heartofdhirikri|Heart of Dirikri]] currently located within Úkua-Arálwen. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
+: Áelithra possesses a recently discovered ancient scroll that mentions the [[miscgear-heartofdhirikri|Heart of Dirikri]] currently located within Úkua-Araelwen. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
 
 Time Navigational Device
-: Áelithra provides the party with a device known as the [[miscgear-temprlcmpss|Temporal Compass]]. This magical instrument helps navigate the time distortions within Úkua-Arálwen, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dirikri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
+: Áelithra provides the party with a device known as the [[miscgear-temprlcmpss|Temporal Compass]]. This magical instrument helps navigate the time distortions within Úkua-Araelwen, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dirikri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
 
-### Úkua-Arálwen
+### Úkua-Araelwen
 
-The Úkua-Arálwen is a "slow" zone with deep [Terrae]{.name data-type="lore/arcana"} resonance—the elemental way of earth, stone, and growth—home to ancient trees and dryads. Few humans who have entered have ever returned. The zone is known for its temporal anomalies, where a day spent within could translate to a month passing outside.
+The Úkua-Araelwen is a "slow" zone with deep [Terrae]{.name data-type="lore/arcana"} resonance—the elemental way of earth, stone, and growth—home to ancient trees and dryads. Few humans who have entered have ever returned. The zone is known for its temporal anomalies, where a day spent within could translate to a month passing outside.
 
 #### Challenge: Temporal Distortion:
 
@@ -313,7 +313,7 @@ Encountering and negotiating or combating Dryads who protect their domain.
 
 #### Deadly Flora
 
-The flora in Úkua-Arálwen is not only gigantic but also potentially deadly, with some plants capable of moving and attacking intruders.
+The flora in Úkua-Araelwen is not only gigantic but also potentially deadly, with some plants capable of moving and attacking intruders.
 
 **Solution:** The party must identify and avoid or neutralize these dangerous plants, possibly utilizing alchemical concoctions to create safe passages.
 
@@ -333,26 +333,26 @@ A crystalline artifact believed to hold the essence of the powerful elemental sp
 
 ### Opposition: Áelendan Wardens
 
-The Áelendan Wardens are elite guardians of the ethereal zones, highly skilled in wilderness survival and archery. They operate in squads, often feared by their enemies. Their primary role is to monitor and protect the Aralwen from any disturbance.
+The Áelendan Wardens are elite guardians of the ethereal zones, highly skilled in wilderness survival and archery. They operate in squads, often feared by their enemies. Their primary role is to monitor and protect the Araelwen from any disturbance.
 
-The Wardens will be aware of the Temporal Compass and will attempt to seize it, either to disrupt the party’s navigation or to prevent time manipulation within the Aralwen.
+The Wardens will be aware of the Temporal Compass and will attempt to seize it, either to disrupt the party’s navigation or to prevent time manipulation within the Araelwen.
 
 #### Role of the Wardens
 
 Initial Interception
-: The Wardens will attempt to stop the party from reaching Úkua-Arálwen. They believe that meddling with the artifact and the Aralwen could have catastrophic consequences for the natural balance.
+: The Wardens will attempt to stop the party from reaching Úkua-Araelwen. They believe that meddling with the artifact and the Araelwen could have catastrophic consequences for the natural balance.
 
     Tactics
-    : They will set up ambushes and checkpoints along potential entry paths to the Aralwen, using their superior knowledge of the terrain to trap and slow down the party.
+    : They will set up ambushes and checkpoints along potential entry paths to the Araelwen, using their superior knowledge of the terrain to trap and slow down the party.
 
     Challenge
-    : The party must find ways to sneak past or diplomatically engage with the Wardens to gain entry into Úkua-Arálwen.
+    : The party must find ways to sneak past or diplomatically engage with the Wardens to gain entry into Úkua-Araelwen.
 
 Recovery Attempt
 : Once the party retrieves the Heart of Dirikri, the Áelendan Wardens will try to recover it, fearing the artifact's removal will disrupt the zone's harmonic balance.
 
     Tactics
-    : The Wardens may launch a surprise attack on the party as they exit the Aralwen, aiming to reclaim the artifact.
+    : The Wardens may launch a surprise attack on the party as they exit the Araelwen, aiming to reclaim the artifact.
 
     Challenge
     : The party will need to defend themselves and the artifact, using tactical prowess to escape or fend off the Wardens.

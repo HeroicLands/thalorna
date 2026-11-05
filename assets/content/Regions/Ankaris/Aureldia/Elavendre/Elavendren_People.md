@@ -28,7 +28,7 @@ competition. The land is held to be a participant in human affairs rather than a
 ## The Interior
 
 That deference is not merely sentimental. Élavendre's mountains and deep forests hold the
-[[lore-aralwen|aralwain]], the thin places where the material and spirit worlds lie close enough to
+[[lore-aralwen|Araelwen]], the thin places where the material and spirit worlds lie close enough to
 cross, and the crown recognizes the authority of the [[affiliation-alndnwrdns|Áelendan Wardens]] over
 them. The Élavendren court, which prefers not to name such things precisely, calls them the thin
 places and leaves their keeping to the people who have always kept them.
@@ -41,5 +41,5 @@ places and leaves their keeping to the people who have always kept them.
 [[place-elavendre|Élavendre]]
 : the kingdom
 
-[[lore-aralwen|Aralwen]]
+[[lore-aralwen|Araelwen]]
 : the thin places of its interior

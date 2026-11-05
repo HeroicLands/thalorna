@@ -25,7 +25,7 @@ and they are also the road by which trouble arrives overland.
 
 Where [[place-lisere|Lísere]] is raided from the sea, Áuldalon is raided by land. Bands of
 [[lore-grukarfolk|Grukar]] out of [[place-grkrhlmrgn|Grukarholm]], and Varokh war-parties ranging
-south out of [[place-vrystwald|Vristwald]], come down through the eastern hills—not as armies, and
+south out of [[place-vrystwald|Vristwald]], come down through the eastern hills, many of them along [[place-trbtrd|the Tribute Road]]—not as armies, and
 not seasonally enough to plan around comfortably, but often enough that no generation of Áuldalon has
 been without it.
 

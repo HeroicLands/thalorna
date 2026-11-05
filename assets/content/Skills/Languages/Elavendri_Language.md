@@ -6707,6 +6707,19 @@ data:
     - {name: Óssenda's Hollow, tongue: translation}
     - {name: The Bardic Colleges, tongue: translation}
     - {name: The Bardic Circle, tongue: translation}
+    - {name: The College of the Line, tongue: translation}
+    - {name: The College of Tongues, tongue: translation}
+    - {name: "The Envoys' College", tongue: translation}
+    - {name: The College of the Wood-Song, tongue: translation}
+    - {name: Struck from the Roll, tongue: translation}
+    - {name: Master of the College, tongue: translation}
+    - {name: Archivist of the Line, tongue: translation}
+    - {name: Singer at the Crowning, tongue: translation}
+    - {name: Examiner of Tongues, tongue: translation}
+    - {name: Envoy of the College, tongue: translation}
+    - {name: Keeper of the Closed Songs, tongue: translation}
+    - {name: Keeper of a Lesser Grove, tongue: translation}
+    - {name: Circuit-Walker, tongue: translation}
     - {name: Áuldalon, tongue: elavendri}
     - {name: Kélpasi, tongue: other:aelendi}
     - {name: Valdun, tongue: elavendri}
@@ -6827,6 +6840,9 @@ data:
     - {name: Enclave of Aelirosse, tongue: translation}
     - {name: Vierka, tongue: other:sinale}
     - {name: Member of the Enclave, tongue: translation}
+    - {name: Lord of the Enclave, tongue: translation}
+    - {name: Councilor, tongue: translation}
+    - {name: Keeper of the Wharves, tongue: translation}
     - {name: Resident, tongue: translation}
     - {name: Cast Out, tongue: translation}
     - {name: Student, tongue: translation}
@@ -6954,6 +6970,71 @@ data:
     - {name: Sorhand, tongue: elavendri}
     - {name: Keeper of the Spring, tongue: translation}
     - {name: Speaker to the Lowlands, tongue: translation}
+    - {name: House of Kírethel, tongue: translation}
+    - {name: Struck from the Proof, tongue: translation}
+    - {name: Of the Household, tongue: translation}
+    - {name: Of the Blood, tongue: translation}
+    - {name: Head of the House of Kírethel, tongue: translation}
+    - {name: Heir of Kírethel, tongue: translation}
+    - {name: Bard of the House, tongue: translation}
+    - {name: House of Hálvireth, tongue: translation}
+    - {name: Struck from the Line, tongue: translation}
+    - {name: Of the Meadows, tongue: translation}
+    - {name: Of the Line, tongue: translation}
+    - {name: Head of the House of Hálvireth, tongue: translation}
+    - {name: Heir of Hálvireth, tongue: translation}
+    - {name: Áurenthe Kírethel, tongue: elavendri}
+    - {name: Queen Áurenthe Kírethel, tongue: translation}
+    - {name: Queen Áurenthe, tongue: translation}
+    - {name: Íelaras Kírethel, tongue: elavendri}
+    - {name: Prince Íelaras Kírethel, tongue: translation}
+    - {name: Prince Íelaras, tongue: translation}
+    - {name: Araelwen, tongue: elavendri}
+    - {name: Ruthelmar, tongue: elavendri}
+    - {name: Lámanis, tongue: elavendri}
+    - {name: Ósselen, tongue: elavendri}
+    - {name: Sirlathen, tongue: elavendri}
+    - {name: Gandelis, tongue: elavendri}
+    - {name: Kalvanel, tongue: elavendri}
+    - {name: Zétmarendon, tongue: elavendri}
+    - {name: Ranthor Párdalen, tongue: elavendri}
+    - {name: Néthara Halren, tongue: elavendri}
+    - {name: Orlen Tárvenel, tongue: elavendri}
+    - {name: Sárena Salthar, tongue: elavendri}
+    - {name: Úkua-Araelwen, tongue: elavendri}
+    - {name: Siralonke, tongue: elavendri}
+    - {name: Olvalonke, tongue: elavendri}
+    - {name: Sarmelis, tongue: elavendri}
+    - {name: Durmelen, tongue: elavendri}
+    - {name: Hendrel, tongue: elavendri}
+    - {name: Harnasel, tongue: elavendri}
+    - {name: The Coast Road, tongue: translation}
+    - {name: Quay Council of Sarmelis, tongue: translation}
+    - {name: Garrison of Durmelen, tongue: translation}
+    - {name: The Beacon Families, tongue: translation}
+    - {name: Put Off the Quay, tongue: translation}
+    - {name: Quay-Freeman, tongue: translation}
+    - {name: Quay-Councilor, tongue: translation}
+    - {name: Reeve of the Harbor, tongue: translation}
+    - {name: Fish-Reeve, tongue: translation}
+    - {name: Keeper of the Boom, tongue: translation}
+    - {name: Struck from the Roll, tongue: translation}
+    - {name: Levyman, tongue: translation}
+    - {name: Sworn Man, tongue: translation}
+    - {name: Muster-Serjeant, tongue: translation}
+    - {name: Keeper of the Great Fire, tongue: translation}
+    - {name: Put Out of the Chain, tongue: translation}
+    - {name: Shoredweller, tongue: translation}
+    - {name: Lamp-Hand, tongue: translation}
+    - {name: Head of a Line, tongue: translation}
+    - {name: Chain-Keeper, tongue: translation}
+    - {name: Reckoner of Fuel, tongue: translation}
+    - {name: Speaker to the Crown, tongue: translation}
+    - {name: Salten Elarven, tongue: elavendri}
+    - {name: Orlen Salthar, tongue: elavendri}
+    - {name: Moren Othral, tongue: elavendri}
+    - {name: Taldor Párdalen, tongue: elavendri}
+    - {name: Sólmere Kálmereth, tongue: elavendri}
   retired:
     - {form: Tirwen, instead: Éllive, why: a name borrowed from an Earth tongue}
     - {form: Glanmor, instead: Lirve, why: a name borrowed from an Earth tongue}
@@ -7001,6 +7082,15 @@ data:
     - {form: Vélaria, instead: Velthra, why: "a sound Élavendri lacks: the hiatus ia"}
     - {form: Yálith, instead: Jalith, why: "a sound Élavendri lacks: y as a vowel"}
     - {form: Béravel, instead: Péravel, why: "a sound Élavendri lacks: b"}
+    - form: Arálwen
+      instead: Araelwen
+      why: "an acute on the syllable the stress rule already chooses"
+    - form: Úkua-Arálwen
+      instead: Úkua-Araelwen
+      why: "an acute on the syllable the stress rule already chooses; the compound keeps its hyphen and one stress, on Ú"
+    - form: aralwain
+      instead: Araelwen
+      why: "a plural the name does not take; Araelwen is the same in the plural"
     - {form: Aelwyth, instead: Eilwith, why: respelled to Pronouncing Thalorna}
     - {form: Aelwythi, instead: Eilwithi, why: respelled to Pronouncing Thalorna}
     - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}

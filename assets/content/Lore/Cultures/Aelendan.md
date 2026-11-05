@@ -17,6 +17,9 @@ data:
     - {name: "Death-Speaker", definition: "A shaman whose rapport is with the spirits of the dead"}
     - name: "the watch"
       definition: "The two who sit by a thin place through the night to turn back what comes through"
+    - name: "Araelwen"
+      definition: "A thin place the Áelendan hold sacred, tied to the fae and forbidden to every outsider; the same word in the plural"
+      common: true
   appearanceProfile:
     frame: {light: 3, medium: 5, heavy: 3}
     eye_color: {green: 3, blue: 3, brown: 4, grey: 3, hazel: 2}
@@ -69,11 +72,13 @@ Provénzia tolerates the defense as a matter of policy rather than sympathy. The
 
 ## Keepers of the Thin Places
 
-The Áelendan hold that they are the guardians of the [[lore-aralwen|aralwain]], the thin places, and of the fae and the numinous that cross at them. Their oldest pledge is the watch that Dhargan set on the fog-hollow the Sinale named [Talve]{.name data-type="place"}: two to sit by it through the night with spear and dog, to turn what comes through by song, fire or stone, to retire when it will not turn, and to sing from the hall on the nights it wins. The Wardens began as that watch, and their charge widened to the passes and the groves.
+The Áelendan hold that they are the guardians of the [[lore-aralwen|Araelwen]], the sacred thin places, and of the fae and the numinous that cross at them. The Araelwen are the core of what the people keep. Some disturb time, as [[place-hldhr|the Held Hour]] does; some are doors that let in the fae, as trees that wake, made things that walk, sirens of still water and ground that is alive; and some are doors that let in demons and fell creatures. All of them are dangerous, and all of them are forbidden utterly to outsiders. Their oldest pledge is the watch that Dhargan set on the fog-hollow the Sinale named [[place-talve|Talve]]: two to sit by it through the night with spear and dog, to turn what comes through by song, fire or stone, to retire when it will not turn, and to sing from the hall on the nights it wins. The Wardens began as that watch, and their charge widened to the passes and the groves.
 
 Not every sacred place is a thin place. The Long Stair is sacred because the river-mother [[lore-salendaspr|Sálenda]] is seated there, the Owl Hollow because Óssenda is, and Ésalosa because its hearth is [[lore-tenaspr|Tena]]'s. The thin places are a charge of their own, and a thin place left unwatched is the one failure the tradition does not forgive in itself ([[lore-blacksnow|The Black Snow]]).
 
-The guardianship sets the Áelendan against [[affiliation-ordoarcanis|the Thordimalon]], which comes up the valleys to study what the tribes exist to keep. The Áelendan count the Order's thefts from the sacred sites among the gravest wrongs done to them ([[lore-aelendnppl|Áelendan People]]).
+**The law of the Araelwen** is the plainest in the Pact. A guest of a tribe may be taken along a sacred road or into the outer margin of a sacred wood; nobody from outside the people is ever taken into an Araelwen. A trespasser who blunders in is warned once and escorted out, and one who returns or desecrates is dealt with finally by the Wardens. To take anything out of an Araelwen, to cut or dig there, or to work the art there is to desecrate it. A door is kept by the watch, and a place that disturbs time is kept from outside its bounds.
+
+The guardianship sets the Áelendan against [[affiliation-ordoarcanis|the Thordimalon]], which comes up the valleys to study what the tribes exist to keep. The Áelendan count the Order's thefts from the sacred sites among the gravest wrongs done to them ([[lore-aelendnppl|Áelendan People]]). When the Order sends its scholars past the crown's guides, it sends hired guards with them, and the Áelendan draw no line between the scholar and the man paid to stand in front of him: both are on ground forbidden to them, and both were warned.
 
 ## Loved and Apart
 
@@ -201,7 +206,7 @@ The sin is the Black Snow, and the Áelendan tell it as the people's and not the
 [[affiliation-alndnwrdns|Áelendan Wardens]]
 : the sacred sites and the thin places
 
-[[lore-aralwen|Aralwen]]
+[[lore-aralwen|Araelwen]]
 : the thin places
 
 [[skill-aelendlng|Áelendi]]

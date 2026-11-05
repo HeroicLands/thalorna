@@ -90,7 +90,7 @@ The silver came back to the bark of the birch that were left, slowly, over four 
 
 - **The birch law.** No standing silver birch is felled in Áelendan country, ever, by anyone, for any reason, and the village of [[place-sourimael|Sóurimel]] inside [[place-silvrfrsts|the Silver Forests]] keeps it as strictly as the tribes do.
 - **The Kinless.** The sentence of Kinlessness is passed by a tribe's hall to this day. It is the worst the Áelendan have.
-- **[The Felled Stand]{.name data-type="place/site"}.** The stumps of the cut birch stand in a ring at the margin of the Silver Forests nearest the Lodge, and the young [[affiliation-alndnwrdns|Wardens]] are brought to see it ([[place-silvrfrsts|The Silver Forests]]).
+- **[[place-fldstnd|The Felled Stand]].** The stumps of the cut birch stand in a ring at the margin of the Silver Forests nearest the Lodge, and the young [[affiliation-alndnwrdns|Wardens]] are brought to see it ([[place-silvrfrsts|The Silver Forests]]).
 - **The pattern.** Failure, return and asking, and a yes that does not name its price, is the shape of every Áelendan telling after this one.
 
 ## See Also

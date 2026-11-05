@@ -16,4 +16,6 @@ sohl:
     initSkillMult: 0
 ---
 
+Standing with Tena measures how well a person keeps and invokes the peace of the hall at Ésalosa. Tena is the oldest tended fire in Áelendan country, and everything under her roof is under her notice: no weapon carried past her fire, no oath sworn at it and afterward broken, no guest received and then harmed. The skill is used to swear an oath at the fire, to claim guest-right, to wake a thin hearth in a returned camp and to carry an ember so that a distant camp burns under her notice. A violation is not forgiven by the Áelendan, who have no standing to forgive for her, and what follows is between Tena and the offender.
+
 See [[lore-tenaspr|Tena, the Hearth of Ésalosa]]—hearth-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

@@ -37,6 +37,10 @@ raiders out of the [[place-nrdlndsrgn|Nordlands]] have worked this coast for cen
 ships that need no narrows at all, and they do not stop at the bay. Élavendre's memory of the north is
 long and unfriendly, and it is not chiefly about the Varokh.
 
+## What Stands on It
+
+[[place-sarmelis|Sarmelis]] is the bay's one harbor for ships, at its head behind a stone mole. [[place-durmelen|Durmelen]] stands on the tip of the Élavendren horn at the narrows, with the Great Fire of the beacon chain on its tower, and the [[place-coastroad|Coast Road]] runs from the fort along the shore to the border of [[place-lirve|Lirve]]. The [[affiliation-beaconfamlys|Beacon Families]] keep a lamp on every headland between.
+
 ## See Also
 
 - [[place-lisere|Lísere]] · [[place-vrystwald|Vristwald]] · [[affiliation-calypsa|Kalipsa]]

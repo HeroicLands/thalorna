@@ -127,15 +127,21 @@ The Kingdom of Élavendre is one of the oldest continuously governed realms in t
 
 ## Government
 
-The monarch of Élavendre rules with the counsel of two ancient institutions: [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circleand the [[affiliation-groveconcl|Grove Council]]. The Bardic Circle serves as the kingdom's memory and conscience—bards are historians, lawmakers, diplomats, and (when necessary) the voice of public opinion expressed in song and satire that can make or break a ruler's reputation. The Grove Council is a body of grove-elders and wise-women who advise on matters touching the natural and supernatural worlds, which in Élavendre is nearly everything.
+The monarch of Élavendre rules with the counsel of two ancient institutions: [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle) and the [[affiliation-groveconcl|Grove Council]]. The Bardic Circle serves as the kingdom's memory and conscience—bards are historians, lawmakers, diplomats, and (when necessary) the voice of public opinion expressed in song and satire that can make or break a ruler's reputation. The Grove Council is a body of grove-elders and wise-women who advise on matters touching the natural and supernatural worlds, which in Élavendre is nearly everything.
 
 This system produces governance that is slow, deliberate, and deeply attuned to tradition. Decisions of consequence are debated at length, with attention to precedent, prophecy, and the counsel of [[lore-faecourts|the fae courts]]. Outsiders find it maddening; Élavendrians find it wise.
+
+## The Crown
+
+The crown is held by the [[affiliation-hsekirethel|House of Kírethel]], which the Bardic Circle chose when the line of Orethan, the house of the First Crowned, ended without an heir ([[lore-sorvandaclose|The Sórvanda Closing]]). The reigning monarch is [[being-aurenthekir|Queen Áurenthe Kírethel]], who reigns in her own right from the court at [[place-beravel|Péravel]], and her heir is her only son, [[being-ielaraskir|Prince Íelaras]].
+
+The crown passes to the monarch's eldest child, son or daughter. Every monarch is crowned in the hall at Péravel, stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]], and swears that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When a line ends without an heir, the Bardic Circle chooses the next monarch from a house whose descent the Colleges have proved. Below the royal house stand the noble houses, each with its proof, among them the [[affiliation-hsehalvireth|House of Hálvireth]] of the river-meadows below the capital.
 
 ## Character
 
 Élavendre's culture is saturated with the magical and the mythic. Encounters with fae beings are not legend in Élavendre; they are a routine hazard (and occasional blessing) of daily life.
 
-## The Thordimalon in Élavendre
+## The Thordimalon in Élavendre {#present}
 
 The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial and deeply entrenched presence in Élavendre—far more than many outsiders realize. The [University of Péravel]{.name data-type="affiliation"}, the largest [[affiliation-panepistmm|Epistémion]] campus outside of Viléria itself, dominates the intellectual life of the capital. Multiple Zulen (fellowship) chapterhouses stand on the university grounds, and the Order's scholars, administrators, and agents have woven themselves into the fabric of urban Élavendri society over centuries. In [[place-beravel|Péravel]] and the kingdom's other major towns, the Order wields influence that equals or exceeds that of the Bardic Circle and Grove Council—its schools educate the children of the nobility, its scholars advise the courts, and its patron networks reach into every significant merchant house and noble family.
 
@@ -155,6 +161,12 @@ Outside the urban centers, the conflict loses its veneer of civility entirely. T
 
 The Bardic Circle, the Grove Council, and above all the [[lore-aelendnppl|Áelendan]] work relentlessly to counter these incursions. Order surveyors who venture too deep into the forests sometimes do not return. Research camps are found abandoned, notes scattered, equipment destroyed. Informants recant or vanish. The [[affiliation-alndnwrdns|Áelendan Wardens]] regard Order intrusions into sacred territory as violations of the oldest pacts of the land, and they respond accordingly—with warnings first, and with lethal force when warnings are ignored. The Order publicly deplores these "incidents" as barbarism; privately, it tallies its losses and sends more agents.
 
+### The Crown and the Araelwen
+
+What the Order most wants beyond the walls is the [[lore-aralwen|Araelwen]], the sacred thin places of the mountains and deep forests, and the crown stands squarely between the Order and the [[lore-aelendnppl|Áelendan]] over them. Every monarch swears at the crowning that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]), and the Araelwen lie beyond it. The crown recognizes the Wardens' authority over them, its magistrates hear no complaint from anyone hurt at one, and it cannot govern the interior at all except through Wardens who answer to the tribes.
+
+It also licenses the Order to survey, receives its scholars at court and gives its expeditions guides. The guides lead nowhere that matters, and the Order answers by **hiring mercenaries and guards** to protect the scholars it sends past them. The crown neither forbids the hiring nor asks where the guards go. [[being-aurenthekir|Queen Áurenthe]] keeps the balance as her house has always kept it, warm to the Order inside the walls and guided beyond them. [[being-ielaraskir|Prince Íelaras]], schooled by the Order, says in company that the old blood and the Order's books are not enemies, and the Áelendan hear in that the thing they count as the real offense: the kingdom's permission for the Order, more than any single theft from an Araelwen.
+
 The rural population is caught between these forces. Most commoners respect the old traditions and distrust the Order's intentions, but the chapter houses also provide genuine services—education, healing, legal scholarship—that the traditional institutions cannot always match. A village that turns away the Order's traveling scholars may find itself without access to the medical and administrative resources those scholars quietly provided.
 
 ## The Áelendan
@@ -166,6 +178,16 @@ The [[affiliation-alndnwrdns|Áelendan Wardens]]—guardians of the sacred sites
 ## Commerce and Currency
 
 Kingdom of Élavendre uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Élavendre is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## History {#history}
+
+The lowland houses of the Berav basin acclaimed Táldoren of the house of Orethan as the first king about 560 BF, and he swore at Ésalosa that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When the legions came into the hills of Áuldalon, Queen Réidane of Orethan treated at Valdun and bought the kingdom's law and line with a yearly tribute in silver ([[lore-elvtribute|The Tribute of Élavendre]]). The line of Orethan ended without an heir, the Bardic Circle chose Hóuradel of the [[affiliation-hsekirethel|House of Kírethel]], and his workings above the tree line were closed by the Wardens about 320 AF ([[lore-sorvandaclose|The Sórvanda Closing]]). The tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]], and the House of Kírethel holds the crown.
+
+## Hooks {#hooks}
+
+- **The guides and the guarded.** The queen grants an Order expedition guides out of [[place-liranel|Liranel]] at once, and the expedition has quietly hired guards to go where the guides do not. She wants to know where it means to go.
+- **A complaint the court does not hear.** A noble house's son, hired as a guard by the Order, comes back from an [[lore-aralwen|Araelwen]] with a Warden's arrow in him, and his father petitions the magistrates, who ask only whether he was warned.
+- **The prince's friends.** Íelaras's friends at the University are planning a survey of the thin places for the summer, and he means to go with them.
 
 ## See Also
 

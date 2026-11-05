@@ -118,7 +118,7 @@ function tableOf(table) {
 }
 
 /** Spans that never change, in frontmatter and body alike. */
-const SPANS = [
+export const SPANS = [
     /⟦[^⟧]*⟧/u.source,
     /```[\s\S]*?```/u.source,
     /`[^`\n]*`/u.source,

@@ -51,7 +51,7 @@ A noble house hires you to escort its bard to the Elanmere fair, where its claim
 - [[lore-elavendriclt|The Élavendri]] for the houses, the bards, prophecy and what a person owes
 - [[lore-aelendnppl|The Áelendan]], [[affiliation-alndnwrdns|the Wardens]] and [[place-eshalshldg|Ésalosa Lodge]] for the interior
 - [[affiliation-bardicolgs|The Bardic Colleges]] and [[affiliation-groveconcl|the Grove Council]] for the old institutions
-- [[lore-aralwen|Aralwen]], [[place-silvrfrsts|the Silver Forests]] and [[lore-faecourts|the Fae Courts]] for the thin places
+- [[lore-aralwen|Araelwen]], [[place-silvrfrsts|the Silver Forests]] and [[lore-faecourts|the Fae Courts]] for the thin places
 - [[skill-elvndrlng|The Élavendri language]] for names and the sun name and shadow name
 
 ## Glossary

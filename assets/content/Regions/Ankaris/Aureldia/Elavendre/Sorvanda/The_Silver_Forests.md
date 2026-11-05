@@ -29,13 +29,19 @@ The forests are not large in the cartographic sense, but they are difficult to m
 
 The Silver Forests are one of the thinnest places between the mortal world and the fae realm anywhere on the [[place-ankrscntnnt|Ankaris Continent]]. Beings that in other lands are glimpsed once in a lifetime and then doubted by the witness forever afterward are, in the Silver Forests, simply present. The Áelendan who enter the forests on sanctioned business know the protocols: what to speak, what to leave as offering, what paths to walk and which to avoid, what moonlight conditions indicate that it is time to turn back. These protocols are not improvisations; they are the codified result of many generations of experience, and they are not shared with outsiders.
 
+## The Araelwen of the Forests {#present}
+
+Most of the Silver Forests is sacred ground, and within it stand [[lore-aralwen|Araelwen]], thin places that are forbidden to every outsider whatever leave he has been given for the outer margin. [[place-talve|Talve]], the fog-hollow at the forests' edge, is a door to fell things and carries the oldest watch the Áelendan keep. [[place-mallonna|Mallonna]], the deep pool the Sinale Lauva keeps, lies in the wood, and so does [[place-tehy|Tehy]], the clearing of the Uron Tekhi. Deep beyond [[place-sourimael|Sóurimel]] stands [[place-wkngstnd|the Waking Stand]], whose trees are not birch and are not still.
+
+A strip of bark from the Waking Stand lies green in a chapterhouse collection at [[place-beravel|Péravel]], and the Order has licensed a fellow of the University to come back for a living cutting with hired guards. The Wardens of the forests know bark was taken, and they are looking for the man who took it.
+
 ## Relationship with the Sinale
 
 The [[lore-flksinale|Sinale enclaves]] in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinale have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinale in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinale. Both versions may be true; the Áelendan do not consider these mutually exclusive.
 
 ## The Felled Stand
 
-At the margin of the forests nearest [[place-eshalshldg|Ésalosa Lodge]] stands [The Felled Stand]{.name data-type="place/site"}, a ring of birch stumps that have never sprouted again, and the ring is kept clear. It is what is left of the stand cut in the Black Snow ([[lore-blacksnow|The Black Snow]]), and beyond it lies the fog-hollow the Wardens watch. Young Wardens are brought to see it, and nobody else is.
+At the margin of the forests nearest [[place-eshalshldg|Ésalosa Lodge]] stands [[place-fldstnd|The Felled Stand]], a ring of birch stumps that have never sprouted again, and the ring is kept clear. It is what is left of the stand cut in the Black Snow ([[lore-blacksnow|The Black Snow]]), and beyond it lies the fog-hollow the Wardens watch. Young Wardens are brought to see it, and nobody else is.
 
 - **A fresh stump.** Someone has cut a standing birch, and the cut is clean.
 - **The watch left for a night.** The fog-hollow has been unwatched, and something has already come through.
@@ -68,6 +74,12 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 
 [[place-hntrsrng|The Hunter's Ring]]
 : The ring of boundary stones on the forests' outer margin, and the hunter whose ground it holds
+
+[[place-wkngstnd|The Waking Stand]]
+: An Araelwen of the deep forest, whose trees wake and move
+
+[[affiliation-mtslvrfrsts|The Moot of the Silver Forests]]
+: The gathering of the shamen whose tribes touch the forest
 
 [[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]
 : A scenario set at the Hunter's Ring

@@ -15,7 +15,7 @@ tributaries of the whole interior as it goes.
 It is navigable a considerable way inland—comfortably past [[place-beravel|Péravel]], which
 stands on its banks some fifteen miles up from the coast and takes its name from the water. Sea-going
 hulls come up to the capital's quays on the tide; above that the traffic is barge and lighter, working
-as far as the country towns of the upper basin some forty miles inland.
+as far as the country towns of the upper basin some forty miles inland, [[place-ruthelmar|Ruthelmar]] the last of them. The orchard town of [[place-lamanis|Lámanis]] stands a day above the capital. Below Péravel the river braids through the reed beds of [[place-osselen|Ósselen]] to the pilots' village of [[place-sirlathen|Sirlathen]] at its mouth.
 
 ## Why It Matters
 

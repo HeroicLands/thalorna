@@ -61,4 +61,4 @@ Provénzia's songs are sung at patrons' tables, in the temple squares and on the
 
 ## Glossary
 
-Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Viléria]]. Aralwen is a loanword from [[lore-elavendriclt#glossary|Élavendre]].
+Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Viléria]]. Araelwen is a loanword from [[lore-elavendriclt#glossary|Élavendre]].

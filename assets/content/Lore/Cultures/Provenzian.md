@@ -210,4 +210,4 @@ The same habit runs through the frontier of the north. At Bataren, which faces t
 
 The full dictionary is in the [[skill-provnzlng#lexicon|Provenzal Language]].
 
-Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Viléria]]. Ael, aralwen, en, sil and thal are loanwords from [[lore-elavendriclt#glossary|Élavendre]].
+Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Viléria]]. Ael, Araelwen, en, sil and thal are loanwords from [[lore-elavendriclt#glossary|Élavendre]].

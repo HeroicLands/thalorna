@@ -79,7 +79,7 @@ Provénzia was once a part of the Vilérian Empire: a colony on the great road (
 
 That cordiality is between kingdoms, and should not be mistaken for ease everywhere along the line. In the borderlands—and conspicuously in [[place-batarencity|Bataren]]—Provénzian rulers and the settled [[lore-elavendrnppl|Élavendren]] population have real and unresolved quarrels over land, rights and tradition. Both crowns treat these as domestic matters and are careful not to let them become anything else, which is itself a measure of how much both value the friendship.
 
-The northern mountains are, in the way that matters, neither kingdom's. They are
+The northern mountains and the high forest of [[place-sathvothe|Satvote]] are, in the way that matters, neither kingdom's. They are
 [[affiliation-aelndntrbs|Áelendan]] country—the tribal kin of the
 [[lore-elavendrnppl|Élavendren]], holding to the old ways in the high valleys—and the Áelendan are
 entirely indifferent to which crown's map colors the ground they live on. They do not petition, they

@@ -300,6 +300,19 @@ export const RETIRED = [
             "place-velanthrgn",
         ],
     },
+    {
+        retired: [
+            "Úkua-Arálwen",
+            "Arálwen",
+            "arálwen",
+            "Aralwen",
+            "aralwen",
+            "Aralwain",
+            "aralwain",
+        ],
+        replacement: "Araelwen (Úkua-Araelwen)",
+        scope: "corpus",
+    },
     { retired: ["Via Aquaria"], replacement: "Ulmerkazthos", scope: "corpus" },
     { retired: ["naumachiae", "naumachia"], replacement: "mock sea-battles", scope: "corpus" },
     {

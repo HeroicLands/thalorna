@@ -27,13 +27,13 @@ The battle is over. The field is still there, and still has to be walked past.
 
 ## What a Blood-field Is
 
-An [[lore-aralwen|aralwen]] is a place where the material world and the spirit world lie naturally
+An [[lore-aralwen|Araelwen]] is a place where the material world and the spirit world lie naturally
 thin against one another. A blood-field is not that. A blood-field is a place where the boundary was
 **torn**—by a great many deaths in one place at one time—and did not close afterward.
 
 The distinction matters in every practical respect:
 
-|              | **Aralwen**                            | **Blood-field**                         |
+|              | **Araelwen**                           | **Blood-field**                         |
 | ------------ | -------------------------------------- | --------------------------------------- |
 | Origin       | Natural; old beyond reckoning          | Made, at a datable moment, by slaughter |
 | Character    | Takes its nature from the land—a _way_ | Takes its nature from the battle        |
@@ -41,11 +41,11 @@ The distinction matters in every practical respect:
 | Who keeps it | The Áelendan Wardens and long custom   | Nobody. That is much of the problem     |
 
 Blood-fields have no equivalent of the [[affiliation-alndnwrdns|Áelendan Wardens]], who keep the
-aralwain of [[place-elavendre|Élavendre]]; nobody has ever been made responsible for a blood-field. What every people
+Araelwen of [[place-elavendre|Élavendre]]; nobody has ever been made responsible for a blood-field. What every people
 agrees a blood-field is, how thin one runs and what crosses it, are set out in
 [[lore-bloodfield|Blood-fields]].
 
-An aralwen is a feature of the world. A blood-field is an injury to it, and injuries do not
+An Araelwen is a feature of the world. A blood-field is an injury to it, and injuries do not
 necessarily heal.
 
 ## The Resonances
@@ -121,5 +121,5 @@ not need a name to be a blood-field.
 ## See Also
 
 - [[lore-bloodfield|Blood-fields]]—what every people agrees a blood-field is, and the register of fields
-- [[place-provenzrgn|Provénzia Region]] · [[lore-aralwen|Aralwen]]
+- [[place-provenzrgn|Provénzia Region]] · [[lore-aralwen|Araelwen]]
 - [[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-blackflame|the Black Flame]]

@@ -32,8 +32,8 @@ always mention and residents never do.
 
 ## The University
 
-The [University of Péravel]{.name data-type="affiliation"} is the largest [[affiliation-panepistmm|Epistémion]] campus outside
-the [[affiliation-vylarinmpr|Vilérian Empire]], with several Zulen (fellowship) chapterhouses, and it makes the
+The [[affiliation-univperavel|University of Péravel]] is the largest [[affiliation-panepistmm|Epistémion]] campus outside
+the [[affiliation-vylarinmpr|Vilérian Empire]], with four Zulen (fellowship) chapterhouses, and it makes the
 capital the center of the [[affiliation-ordoarcanis|Thordimalon]]'s presence in the kingdom. The University's oldest court is the house the Empire's _felzos_ (legate) took after the treaty ([[lore-elvtribute|The Tribute of Élavendre]]).
 
 It also makes Péravel the field on which the kingdom's central quarrel is fought.

@@ -24,6 +24,8 @@ data:
 
 On the western shores of the [[place-ankrscntnnt|Ankaris Continent]], Élavendre stands as a beacon of culture and magic. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.
 
+At the heart of it lie the [[lore-aralwen|Araelwen]], the land's core mystery: thin places in its mountains and deep forests where the world lies close to the spirit world, time goes wrong, and doors open to the fae and to fell things. The [[lore-aelendnppl|Áelendan]] hold every one of them sacred and forbid them utterly to outsiders, and the [[affiliation-ordoarcanis|Thordimalon]] wants to study them more than anything else in the west.
+
 ## Geography
 
 Élavendre occupies the western coast of Ankaris, sheltered by mountain ranges to the southeast and south, rolling hills to the east, and open to the sea on the north and west. [[place-calypsacity|Kalipsa]] lies a day-and-a-night's sail off the western portion of the northern coastline. The landscape is lush and varied: primeval forests of silver birch and ancient oak, rolling green plains crossed by winding rivers, and dramatic coastal cliffs battered by cold ocean swells. Inland, crystal-clear lakes fill glacial valleys, and the mountains are perpetually shrouded in mist. The climate is mild and wet, with frequent rains that keep the land eternally green.
@@ -50,7 +52,7 @@ The relationship between the two peoples is one of mutual respect. The Élavendr
 
 #### The Áelendan Wardens
 
-The most widely known Áelendan institution is the [[affiliation-alndnwrdns|Áelendan Wardens]]—an ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge seriously. Trespassers who stumble into sacred territory are warned once and escorted out; those who persist or who desecrate a site are dealt with harshly. The Wardens are skilled trackers, archers, and survivalists, and they know the mountain passes and forest paths with an intimacy that no outsider can match.
+The most widely known Áelendan institution is the [[affiliation-alndnwrdns|Áelendan Wardens]]—an ancient order tasked with protecting the sacred sites of the mountains and deep forests, and above all the Araelwen, the sacred thin places connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior, and they take their charge seriously. Trespassers who stumble into sacred territory are warned once and escorted out; those who persist or who desecrate a site are dealt with harshly. The Wardens are skilled trackers, archers, and survivalists, and they know the mountain passes and forest paths with an intimacy that no outsider can match.
 
 The kingdom's authorities accept the Wardens' jurisdiction over sacred sites without question. Even the most ambitious Élavendri noble knows better than to challenge a Warden on their own ground.
 
@@ -60,7 +62,7 @@ The Élavendren worship the [[affiliation-arldnpnthn|Aureldian Pantheon]], but t
 
 Sacred groves, standing stones, and holy wells serve as places of worship alongside more formal temples. The turning of the seasons is marked by elaborate festivals that honor both the Aureldian gods and the older spirits of the land.
 
-## Magic
+## Magic {#present}
 
 Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial presence in the kingdom's cities—the [University of Péravel]{.name data-type="affiliation"} is the largest [[affiliation-panepistmm|Epistémion]] campus outside of the [[affiliation-vylarinmpr|Vilérian Empire]], with multiple Zulen (fellowship) chapterhouses—but its authority is bitterly contested by the kingdom's own traditions. [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle), [[affiliation-groveconcl|the Grove Council]], and the Áelendan guard magical practices that predate the Order by centuries, and the struggle between these institutions and the Order for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. The crown's settled position is that the Order is **permitted and limited**: it may hold its houses, teach, and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest. Where the limit runs is not the Order's to argue—the [[affiliation-alndnwrdns|Wardens]] enforce it, and the courts back them. In the cities the contest is accordingly conducted through civilized rivalry; beyond the walls it turns deadly (see [[affiliation-kngdmlvndr|the Thordimalon in Élavendre]]).
 
@@ -72,12 +74,12 @@ The Order question is not a quarrel between two parties but a standoff between t
 simply have their way.
 
 **The Order wants a great deal from Élavendre**, and makes no secret of it. There is nowhere else in the
-known world where the veil is this thin over this much ground: aralwain by the score, seated spirits,
+known world where the veil is this thin over this much ground: Araelwen by the score, seated spirits,
 living fae sites, a documented relationship with the [[lore-flksinale|Sinale]], and arcane materials—the gemstone of [[place-sorvanda|Sórvanda]] above all—in quantities that exist nowhere the Order can
 reach. Everything the Order most wishes to study is here, and most of it is behind a line it is not
 allowed to cross.
 
-**The crown sees profit in cordiality.** The royal house in particular has judged, consistently and for
+**The crown sees profit in cordiality.** The royal house, the [[affiliation-hsekirethel|House of Kírethel]], in particular has judged, consistently and for
 generations, that a warm relationship with the Order is worth having: it brings the University, the
 scholars, the standing in Vilérian eyes, and the goodwill of institutions that can make a small kingdom's
 diplomacy much easier. Élavendre's monarchs have never been willing to expel the Order, and are unlikely
@@ -131,6 +133,12 @@ is managing them as much as managing the Order, and they tolerate the arrangemen
 alternative is worse. What they do about the men with the sketchbooks is not the crown's business, and
 the crown takes considerable care not to ask.
 
+### The Araelwen and the Hired Guards
+
+The Order's want comes down to the [[lore-aralwen|Araelwen]]. The mountains and forests are full of places the Áelendan hold sacred, and among them stand the thin places, every one sacred, every one dangerous and every one forbidden to outsiders without exception. Some disturb time: in [[place-ukuaraelwen|Úkua-Araelwen]] a day can be a month outside, and in [[place-hldhr|the Held Hour]] on the Spine the light does not move. Some are doors that let in the fae, as trees that wake, made things that walk, sirens of still water and ground that is alive. Some are doors that let in demons and fell creatures, and those the [[affiliation-alndnwrdns|Wardens]] keep by a watch through every night.
+
+The Order's scholars cannot reach them with the crown's guides, and the Wardens warn once. So the Order **hires mercenaries and guards** to protect its scholars from the Áelendan, at [[place-beravel|Péravel]] and at [[place-liranel|Liranel]], and the work is well paid and plentiful. For anyone who takes it the question is an ethical one before it is a fighting one: the guard stands between a scholar and a law older than the crown, on ground the crown has sworn to stop short of, and the places themselves send through things that no contract names.
+
 ### The Sinale
 
 Élavendre's magical character is not merely cultural—it reflects genuine proximity to the [[lore-flksinale|Sinale]], the elder race whose enclaves in the deep forests of the western coast predate human settlement by thousands of years. Both the Áelendan and the Élavendren royal family have maintained a relationship with the local Sinalean communities for centuries. This is not an alliance in the political sense. The Sinale have kings, queens and lords of their own, who do not work as human ones do, and the royal family's formal relation is carried day to day by Áelendan intermediaries. It is closer to a neighborly understanding between peoples who share the same forests and have, over many generations, learned to respect each other's presence.
@@ -162,6 +170,9 @@ The kingdom's economy runs inward and then out again: raw material from the four
 
 ## Notable Features
 
+[[lore-aralwen|The Araelwen]]
+: The sacred thin places of the mountains and deep forests, kept by the Wardens, forbidden to outsiders, and wanted by the Order above everything else in the land.
+
 [[lore-faecourts|The Fae Courts]]
 : Rumored to exist in the deepest forests, these otherworldly courts are said to be ruled by beings of immense power who occasionally meddle in mortal affairs.
 
@@ -174,6 +185,12 @@ The kingdom's economy runs inward and then out again: raw material from the four
 ## Character
 
 The forests are old—genuinely ancient in a way that the cleared, farmed landscapes of the [[place-vylariargn|Viléria Region]] and the Provénzia Region are not—and the boundary between the mortal world and the fae realm is thin.
+
+## Hooks {#hooks}
+
+- **The guard's choice.** An Order scholar at [[place-beravel|Péravel]] hires the party to keep him alive for a season in the interior, and the ground he means to reach is an [[lore-aralwen|Araelwen]].
+- **A watch left short.** The Warden watch at [[place-fndr|the Fen Door]] in Lísere is down to one keeper since midwinter, and no relief can come down before the passes open.
+- **The Heart.** The Royal Loremaster [[being-aelithraenewyn|Áelithra Énevin]] wants a party to go into Úkua-Araelwen for the [[miscgear-heartofdhirikri|Heart of Dirikri]], and the Wardens know it.
 
 ## See Also
 
@@ -197,6 +214,9 @@ The forests are old—genuinely ancient in a way that the cleared, farmed landsc
 
 [[lore-flksinale|Sinale]]
 : The elder race with enclaves in Élavendre's forests
+
+[[lore-aralwen|Araelwen]]
+: The sacred thin places
 
 [[lore-flkkhazar|Khazari]]
 : The second elder race (no known presence in Élavendre)

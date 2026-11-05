@@ -63,6 +63,10 @@ The Áelendan live in the mountainous interior of Élavendre, most thickly aroun
 [[place-eshalshldg|Ésalosa Lodge]]
 : The principal Áelendan settlement, a ceremonial and political center
 
+## The Araelwen
+
+The Áelendan live most thickly around the sites sacred to the Pact, and at the center of that sacred country stand the [[lore-aralwen|Araelwen]], the thin places, which the people exist to keep. The mountains and forests hold many other sacred places, groves, springs and seated spirits, but the Araelwen are a charge of their own: every one is dangerous, some disturb time and some are doors to the fae or to fell things, and every one is forbidden to outsiders without exception. The [[affiliation-alndnwrdns|Wardens]] keep them, the Tradition Keepers hold their songs and the names of those they have taken, and a household near one teaches its children the place's rules before almost anything else. On the [[place-drenavrspn|Spine]] they include [[place-hldhr|the Held Hour]], [[place-sngngtrn|the Singing Tarn]] and [[place-wndrngrdg|the Wandering Ridge]]; in the Silver Forests, [[place-wkngstnd|the Waking Stand]] and the fog-hollow Talve; and far from the mountains, [[place-wrghthllw|the Wrought Hollow]] in Lirve and [[place-fndr|the Fen Door]] in Lísere.
+
 ## The Order
 
 The Áelendan **do not trust the [[affiliation-ordoarcanis|Thordimalon]] at all**, and do not pretend
@@ -79,6 +83,8 @@ seated there; scholars admitted to the margins are found past them; and objects 
 grove or a spring have a way of reappearing in a chapterhouse collection at [[place-beravel|Péravel]], cataloged,
 provenance unrecorded. The Order calls this recovery and study. The Áelendan call it what it is, and
 have never accepted a single explanation offered.
+
+The Order's study of the Araelwen is the heart of the quarrel, and the Order's answer to the Wardens is to **hire mercenaries and guards** to protect its scholars from the Áelendan. The Áelendan hold that a man who takes that pay and walks onto an Araelwen has made himself a trespasser like the scholar, and the Wardens warn him once like the scholar.
 
 An Order expedition turned back at the tree line is a routine
 event. An Order expedition that does not turn back is a different kind of event, and the Order's own

@@ -6782,6 +6782,18 @@ data:
     - {name: People of the Pact, tongue: translation}
     - {name: Áelendan Tribal Lands, tongue: translation}
     - {name: Tribal Lands, tongue: translation}
+    - {name: The Moot of the Silver Forests, tongue: translation}
+    - {name: Shut out of the Moot, tongue: translation}
+    - {name: Hearer, tongue: translation}
+    - {name: Shaman of the Moot, tongue: translation}
+    - {name: Speaker of the Moot, tongue: translation}
+    - {name: Carrier to Ethalosse, tongue: translation}
+    - {name: tírindi, tongue: aelendi}
+    - {name: kháldendi, tongue: aelendi}
+    - {name: thanandi, tongue: aelendi}
+    - {name: dulundi, tongue: aelendi}
+    - {name: ronondi, tongue: aelendi}
+    - {name: sáthandi, tongue: aelendi}
     - {name: The Interior, tongue: translation}
     - {name: The Drenavar Spine, tongue: translation}
     - {name: The Drenavar, tongue: translation}
@@ -6815,6 +6827,12 @@ data:
     - {name: pálmirno, tongue: aelendi}
     - {name: dáimela, tongue: aelendi}
     - {name: áelendan, tongue: aelendi}
+    - {name: The Held Hour, tongue: translation}
+    - {name: The Singing Tarn, tongue: translation}
+    - {name: The Wandering Ridge, tongue: translation}
+    - {name: The Waking Stand, tongue: translation}
+    - {name: The Wrought Hollow, tongue: translation}
+    - {name: The Fen Door, tongue: translation}
   retired:
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}
@@ -7364,6 +7382,12 @@ data:
       instead: mórdamon
       why: "a word that reads as a Vilari word; the native word is written instead"
     - {form: khe, instead: khena, why: "an Earth word, the yes-or-no question particle"}
+    - form: Arálwen
+      instead: Araelwen
+      why: "an acute on the syllable the stress rule already chooses"
+    - form: aralwain
+      instead: Araelwen
+      why: "a plural the name does not take; Araelwen is the same in the plural"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7728,6 +7752,8 @@ The wood itself is _lonku_, the deep wood, the Sinale's word. Every tree that gr
 ### The fae, the thin places and the wards
 
 Nearly every word here is Sinale, and the Áelendan do not count a single one of them as foreign. The lore of the veil came with the keeping of the wood, and a thing that is kept is part of the people that keeps it. _Audhi_ is the veil, _sírnasto_ a thin place where it wears, and _orthi_ a ward. The fae themselves are _pénallanu_, one at a time; the tongue has a plural for them and the highlands do not say it.
+
+The words of the keeping cluster round the [[lore-aralwen|Araelwen]], the sacred thin places, and they are among the first a child of a valley that holds one learns. _Araelwen_ is [[affiliation-theoldway|the Old Way]]'s own name for a thin place held sacred, said the same in the singular and the plural, and _sírnasto_ is any place the veil wears, sacred or not. The watch that sits by a door through the night is _ánsoru_, the long watch, and each of the two who keep it is an _ánsorunno_. The bound of the hallowed ground round an Araelwen is _ruthis_, which no blade crosses drawn, and the Warden who holds a site for the kin is a _gheland_. An outsider meets these words in one sentence, the warning, and he hears it once.
 
 The art the empire calls magic is _simme_ here, the Sinale word, and the Áelendi words for it share nothing with the [[affiliation-ordoarcanis|Thordimalon]]'s. These words, like the others for [[lore-flksinale#the-numinous|the numinous]], are Sinale loans for its outer fringe, which is all the Áelendan are taught. Áelendi has no word for the inner Sinale ways: the Áelendan have the concept and cannot fully apprehend it. The Arcane Order's scholars, who come up the valleys to study what the tribes exist to keep, have never been taught these words, and this is the field they most want.
 

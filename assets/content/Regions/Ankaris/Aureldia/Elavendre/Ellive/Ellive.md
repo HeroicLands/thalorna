@@ -16,7 +16,7 @@ data:
 
 **Éllive**—_the bright land_—is the heartland of [[place-elavendre|Élavendre]]: the broad, green,
 well-watered basin of [[place-beravriver|the Berav]], running from the northwestern uplands down to the
-sea. It holds roughly nine hundred thousand people, the capital, the [University of Péravel]{.name data-type="affiliation"}, and the great majority
+sea. It holds roughly nine hundred thousand people, the capital, the [[affiliation-univperavel|University of Péravel]], and the great majority
 of the kingdom's wealth.
 
 It is also the only quarter of Élavendre that is not a frontier of some kind, which is the whole
@@ -52,10 +52,52 @@ outside the [[affiliation-vylarinmpr|Vilérian Empire]]—and [[affiliation-bard
 the Áelendan tradition contest its authority over the kingdom's supernatural life. In Éllive that
 contest is polite, institutional and conducted through patronage. Beyond it, it is not.
 
+## The Araelwen from the Capital {#present}
+
+Éllive holds none of the [[lore-aralwen|Araelwen]], the sacred thin places of the mountains and deep forests, and it is where most of the trouble over them begins. The basin's own sacred places are the groves and holy wells of the remnant woods, kept by [[affiliation-groveconcl|the Grove Council]]'s elders and the village hedge-affiliates; they are sacred ground and not thin places, and nobody comes from Viléria to study them.
+
+The [[affiliation-ordoarcanis|Thordimalon]]'s study of the Araelwen is planned here. Its theorists at the University argue what the thin places are, its licensed expeditions are fitted out here and given the crown's guides, and the objects that come back from beyond the tree line, a strip of bark that stays green, a construct of root and stone, things taken from groves and springs, are cataloged in the chapterhouse collections at [[place-beravel|Péravel]] with no provenance recorded. Its fellows hire guards in Péravel's inns and lodging houses, and the work is talked of openly: a season in the interior, good pay, half in advance, and a scholar to be kept alive. The bards of [[affiliation-bardicolgs|the Bardic Colleges]] sing in the same inns about the men who took that work and did not come back.
+
+## Towns and Villages {#settlements}
+
+The basin's people live in three kinds of place, and each does a different part of the work that makes [[place-beravel|Péravel]] rich.
+
+**Market towns** sit along the river where the barges stop. [[place-ruthelmar|Ruthelmar]], at the head of barge navigation, sells the upper basin's grain and cattle to the capital's factors, and [[place-lamanis|Lámanis]], among the orchards of the middle basin, presses the cider and perry that every kitchen in Péravel buys by the cask.
+
+**River villages** live on the tidal reach below the capital. [[place-osselen|Ósselen]] cuts the reed that roofs the river, and [[place-sirlathen|Sirlathen]] at the mouth supplies the pilots without whom no hull goes up to Péravel.
+
+**Chartered settlements** stand at the upper rim of the basin, where the farmland ends and the [[place-alndntrblnds|Tribal Lands]] begin. [[place-gandelis|Gandelis]] is a market town at the end of the last royal road, and [[place-kalvanel|Kalvanel]] is a village whose charter binds it to lodge pilgrims and to refuse hired companies. Both keep a gate that the crown's writ does not pass.
+
+The [[affiliation-univperavel|University of Péravel]] holds the capital's courts and four Zulen chapterhouses, and is the one institution of the basin that reaches every part of it.
+
+## Hooks {#hooks}
+
+- **Half in advance.** A fellow of the University offers the party a season's pay to guard him in the interior, and will not name the ground until they are past the tree line ([[lore-aralwen|Araelwen]]).
+- **A collection without provenance.** A chapterhouse at Péravel wants a cataloged object moved quietly to another house before a grove-elder's petition reaches the court.
+- **The song in the inn.** A bard sings in a Péravel inn of a guard killed at an Araelwen by a Warden, and the dead man's employer wants the singing stopped.
+
 ## Its Places
 
 [[place-beravel|Péravel]]
 : the capital, fifteen miles up the river from the sea.
+
+[[place-ruthelmar|Ruthelmar]]
+: the market town at the head of barge navigation.
+
+[[place-lamanis|Lámanis]]
+: the orchard and cider town of the middle basin.
+
+[[place-osselen|Ósselen]]
+: the reed-cutters' village of the tidal marsh.
+
+[[place-sirlathen|Sirlathen]]
+: the pilots' village at the river mouth.
+
+[[place-gandelis|Gandelis]]
+: the chartered market town at the end of the last royal road.
+
+[[place-kalvanel|Kalvanel]]
+: the chartered pilgrims' village at the birch edge.
 
 [[place-beravriver|The Berav]]
 : the river the whole region is arranged around.

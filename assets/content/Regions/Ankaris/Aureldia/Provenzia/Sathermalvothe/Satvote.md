@@ -28,7 +28,7 @@ between a trespasser, a licensed antiquarian and an army.
 
 [[place-hydravenmnt|Mount Hidraven]], the source of the kingdom's water, is theirs.
 [[place-sirmenne|Sirmenne]]—shared with the [[lore-flksinale|Sinale]]—is theirs.
-[Úkua-Arálwen]{.name data-type="place"}, which straddles the frontier, is held by their [[affiliation-alndnwrdns|Wardens]] and administered by neither kingdom.
+[[place-ukuaraelwen|Úkua-Araelwen]], which straddles the frontier, is held by their [[affiliation-alndnwrdns|Wardens]] and administered by neither kingdom.
 
 ## The Sea-Frontier
 
@@ -48,6 +48,15 @@ Two centuries ago a fleet used it ([[lore-southrnfleets|the Southern Fleets]]). 
 [[place-batarencity|Bataren City]]
 : the ocean port, substantially Élavendren, trading north rather than south, and quietly grinding over rights both crowns treat as domestic.
 
+## Current Situation {#present}
+
+The march is quiet on the surface. The border is open, the crowns are cordial, and the Áelendan keep to their mountains. What a traveler meets is the weight of what is sacred in the high forest.
+
+[[place-ukuaraelwen|Úkua-Araelwen]], a slow [[lore-aralwen|Araelwen]] in the high forest, lies across the frontier. A day inside it can be a month outside. Anyone who goes past the margin comes out to find kin older, debts due and news stale, and many do not come out. No road crosses it, and a traveler who strays toward the ancient trees finds the [[affiliation-alndnwrdns|Wardens]]' posts first, manned in pairs. They warn once and do not warn again. Neither crown's courts hear a complaint from anyone hurt in it.
+
+The posts on the Provénzia side have been doubled this season, and agents of the [[affiliation-ordoarcanis|Thordimalon]] are camped at the edge of the forest with a bought map. The Order wants the [[miscgear-heartofdhirikri|Heart of Dirikri]] that lies beyond the [[place-mazeofechos|Maze of Echoes]], and the Wardens know it. A traveler on the roads of the high valleys is likely to be asked by one side or the other where he is bound and what he carries. A [[miscgear-temprlcmpss|Temporal Compass]] in a pack is read as a declaration of purpose.
+
 ## See Also
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-elavendre|Élavendre]]
+- [[place-mazeofechos|Maze of Echoes]] · [[lore-aralwen|Araelwen]]

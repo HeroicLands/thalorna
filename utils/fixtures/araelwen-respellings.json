@@ -1,0 +1,12 @@
+{
+    "respellings": [
+        { "from": "Úkua-Arálwen", "to": "Úkua-Araelwen" },
+        { "from": "Arálwen", "to": "Araelwen" },
+        { "from": "arálwen", "to": "Araelwen" },
+        { "from": "Aralwen", "to": "Araelwen" },
+        { "from": "aralwen", "to": "Araelwen" },
+        { "from": "Aralwain", "to": "Araelwen" },
+        { "from": "aralwain", "to": "Araelwen" }
+    ],
+    "files": [{ "from": "Aralwen", "to": "Araelwen" }]
+}

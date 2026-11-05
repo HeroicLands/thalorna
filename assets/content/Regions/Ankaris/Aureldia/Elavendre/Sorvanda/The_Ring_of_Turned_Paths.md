@@ -18,7 +18,7 @@ The Ring of Turned Paths consists of eight silver birch standing in a ring in a 
 
 ## The Ring
 
-The trees are large and close-set, their bark the pale metal of the forest, and between them the ground is bare of undergrowth. Starlight lies on the bark after dark in a way ordinary light does not, and a visitor who has seen [The Felled Stand]{.name data-type="place/site"} (in the [[place-silvrfrsts|Silver Forests]]) knows what it is to see the same bark gone dull. Here it has stayed bright.
+The trees are large and close-set, their bark the pale metal of the forest, and between them the ground is bare of undergrowth. Starlight lies on the bark after dark in a way ordinary light does not, and a visitor who has seen [[place-fldstnd|The Felled Stand]] (in the [[place-silvrfrsts|Silver Forests]]) knows what it is to see the same bark gone dull. Here it has stayed bright.
 
 The ring is a place where the [[lore-flksinale|Sinale]] turn paths, and it is one of the places where they turn them hardest. A track that runs toward the hollow bends away from it a little at a time, so gently that a walker takes the bend for his own choice. A traveler who pushes against the turning finds the wood closing in front of him, distances stretching, and the daylight shifting in ways the sun does not account for. Nothing in the turning is a weapon. It is the wood declining to be walked, and it holds as long as the paths are left to turn.
 
