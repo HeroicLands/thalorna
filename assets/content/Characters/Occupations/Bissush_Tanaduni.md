@@ -13,7 +13,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [sharimun]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, lizelas: {rank: 1}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, tanaduni: {rank: 2}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 686.69
@@ -406,6 +406,8 @@ His custom is the road's. The quarry carts going north with the town's pale ston
 
 **The farm.** Bissush grew up on a farm of the plain and learned to cook at its hearth from what the farm grew. He went to the tavern's kitchen as a boy to turn the spit and was its cook by twenty.
 
+**The name.** Bissush carries the name of the [[affiliation-tanaduni|Tanaduni]], the admirals' house of [[place-yamuzel2|Yamuzel]], as kin of the house, and holds no office in it.
+
 ## Psyche
 
 ### Personality
@@ -438,6 +440,7 @@ He has none. He is on good terms with the carters, the farmers and the other tav
 ### Affiliations
 
 - **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-tanaduni|Tanaduni]]**: Kin of the House, bearing the name of the admirals' house of Yamuzel, without office in the house.
 - **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keep the Nurturer's harvest feasts without office in the temple.
 
 ## Plot Hooks

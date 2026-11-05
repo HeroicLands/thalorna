@@ -398,55 +398,61 @@ At thirty-four, Yutalush Pushutum appears a decade older than his actual age, wo
 
 # Dossier {#dossier}
 
-Yutalush was born into a freeman family of modest means in [[place-bazunel2|Bazunel]]. He was twenty-three when the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] won its independence from the [[affiliation-vylarinmpr|Vylarian Empire]], a young healer in a time of cautious optimism—the new oligarchy had not yet consolidated its control, and there remained hope that Taruzel's revolutionary sacrifice might yield real freedom and prosperity for common people. He was apprenticed to an older healer at fourteen and showed immediate aptitude: his perception was sharp, his feeling for the sick real, and his hands steady in crisis.
+Yutalush Pushutum is a healer-priest of the [[affiliation-lizelas|Faith of Lizelas]] in [[place-bazunel2|Bazunel]], a _sarnor_ who keeps a clinic below the temple and treats whoever comes through its door: the poor of [Zatturel]{.name data-type="place/site"}, the newcomers' lanes behind the eastern quays, the houses' men, and the council's own men alike. He asks no one who wounded them, and he tells no one who came.
 
-The twelve years since independence have been grinding. The [[affiliation-auricompct|Auric Compact]]'s consolidation of power meant that wealth concentrated upward while common people discovered that independence meant only that their oppressors were local rather than distant. The [[affiliation-corsairleg|Corsair League]]'s rise created periodic violence. The [[affiliation-mrchntryvl|Merchantry of the Veil]] operated in shadows. Yutalush treated the consequences: wound infections, poverty-related illness, malnutrition, complications from unsafe births. He also treated soldiers—sometimes soldiers of the oligarchy's forces, sometimes wounded corsairs or resistance fighters. His clinic stands below the temple, and he treats whoever comes through its door, the poor of [Zatturel]{.name data-type="place/site"}, the newcomers' lanes behind the eastern quays, and the council's own men alike. Over the years it became a neutral ground, and through his work, he accumulated knowledge that no one person should carry alone.
+That even hand has made the clinic a neutral ground in a city that prides itself on its balance, and it has made Yutalush the keeper of more secrets than one man should carry: who was hurt and by whom, which of the powerful are ill, and who comes ashore by night. On the magistrates' bench [[being-tarrukeshkar|Tarruk Eshkarum]] says that the even hand is a refusal to take a side, and the city argues over whether it can afford to take none.
 
-He came to the priesthood of [[affiliation-lizelas|Lizelas]] almost incidentally, recognizing that the goddess of growth and fertility encompassed the healing he performed. The temple gave him some legitimacy and minor protection, though everyone in Bazunel knew that his true authority came not from hierarchy but from the fact that everyone—oligarch, corsair, common laborer—might eventually need his ministrations. His gray hair is the visible cost of this knowledge: information that could destabilize the city, secrets that could end lives, the accumulated weight of knowing exactly how fragile the oligarchy's control truly is.
+## Background
+
+**The apprentice.** Yutalush was born to a freeman family of modest means in Bazunel and was apprenticed to an older healer at fourteen. His eye was sharp and his hands steady.
+
+**The war.** He was a young healer when the war of independence came, and he treated its wounded. The years since have brought him the wounds of the peace instead: the newcomers' fevers in Zatturel, the quarrels of the quays, the men the council's watch chases and the men who chase them.
+
+**The temple.** He came to the priesthood almost by accident, seeing that the goddess of growth and fertility held the healing he already did. The temple gives him a roof for the clinic and some protection, and the city knows that his real standing is that anyone in it may one day need him.
 
 ## Psyche
 
-Yutalush is a man suspended between his calling as a healer and his unwilling role as a repository of dangerous information. His feeling for others lets him perceive his patients' physical ailments and also the social and political realities that produced them. His eye for intrigue is not his gift as much as it is his curse—he has learned to read the subtext beneath every conversation, to recognize when wounded men are military intelligence operatives, to understand the hidden connections between disparate patients.
+### Personality
 
-He operates from a framework of absolute commitment to the sanctity of healing. In his world, his patients' lives matter more than political allegiances, ideological purity, or even his own safety. This has made him simultaneously respected and dangerous—both the oligarchy and the resistance trust him, and both understand that he would never betray a patient's confidence, even under threat. This integrity is his armor and the source of his vulnerability.
+Yutalush is gentle, watchful and very tired. He has learned to read the wound behind the story he is told, and he speaks less each year.
 
-He suffers from the moral weight of witnessing human suffering produced by an unjust order while having only the power to address its symptoms, not its causes. His perception means he sees clearly; his feeling for others means he feels what follows. He has become increasingly aware that his very existence as a neutral space enables the oligarchy's continuance—if he did not treat the consequences of their rule, the suffering would be more visible, the pressure for change more intense.
+### Motivation
 
-His great strength is his absolute trustworthiness and his skilled hands. His great weakness is that he is emotionally depleted, burned out on human suffering, and increasingly aware that his commitments are irreconcilable. He cannot heal his way to justice. The realization has turned him inward; he speaks less each year and seems to recede further into himself, driven forward only by the fact that turning away from a suffering person remains unthinkable.
+He holds a patient's life above any side, and he will not turn away anyone who is suffering. He has begun to fear that by treating the consequences of the city's quarrels he helps them go on.
+
+### Strengths
+
+He is a skilled healer, he is trusted by people who trust no one else, and he has never broken a patient's confidence.
+
+### Weaknesses
+
+He is worn out, his neutrality is only as safe as his silence, and the clinic depends on money he does not ask about.
 
 ## Social
 
-Yutalush is a Sarnor of the [[affiliation-lizelas|Faith of Lizelas]] in Bazunel, one of the ordained priests who serve as healers and midwives, a position that offers him some legitimacy and minimal resources. Yet his actual social authority derives not from the temple hierarchy but from his indispensable position in Bazunel's tangled politics. The oligarchs view him as a resource to be protected. The corsair networks know him as trustworthy. The merchant families consult him regarding family matters. The dispossessed and the desperate know him as the one person who will treat them without judgment or exploitation.
+### Enemies
 
-This positions him as uniquely isolated. He has no peers in Bazunel's priesthood—the other temple clergy view him with a mixture of reverence and resentment. He cannot socialize openly with either oligarchs or resistance figures without raising questions about his loyalties. His personal relationships are minimal; people approach him as a healer, not as a friend. The emotional cost of this role, however necessary it is, accumulates daily.
+- [[being-tarrukeshkar|Tarruk Eshkarum]]: A young magistrate of the council, rising among its oligarchs, who presses the temple to bring the clinic under its control.
 
-His status as a Freeman rather than a member of the formal nobility or merchant class initially seemed like a disadvantage. In practice, it has been essential to his ability to move between social strata. He is not beholden to any faction, which means all factions must treat him as neutrally as possible.
+### Others
 
-## Companions
+- [[being-beshuratarmu|Beshura Tarmumi]]: A [[affiliation-freecaptains|Free Captain]] whose life he saved years ago. She calls him a friend and owes him a life-debt, and the friendship of an outlaw is dangerous to them both.
+- [[being-ninurishamir|Ninuri Shamiru]]: The master of the [[affiliation-auricompct|Auric Compact]]'s counting house, who quietly steers money to the clinic and asks only his discretion.
 
-**Patrons:**
+### Affiliations
 
-- **Captain [[being-beshuratarmu|Beshura Tarmumi]]**, a corsair captain with an old wound that Yutalush healed years ago. Tarmumi considers him a friend and owes him life-debt, but this association is dangerous if discovered by the oligarchs.
-- **Merchant-Mother [[being-ninurishamir|Ninuri Shamiru]]**, one of the more enlightened members of the Auric Compact who quietly steers resources toward Yutalush's clinic and has never demanded anything in return beyond his discretion.
-
-**Enemies:**
-
-- **Magistrate [[being-tarrukeshkar|Tarruk Eshkarum]]**, one of the council's magistrates and a rising figure in the city, who says from the bench that Yutalush's even hand is a refusal to take a side. He has been slowly pressuring the temple authorities to exert more control over the clinic's operations.
-- [The Shadow Broker]{.name data-type="being/npc"}, a mysterious figure who operates in the interstices of Bazunel's resistance networks and who has been attempting to pressure or leverage Yutalush into providing information about the oligarchs' health vulnerabilities—a request Yutalush has thus far refused at considerable personal risk.
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman, enrolled in the register of [[affiliation-bazunel|Bazunel]].
+- **[[affiliation-lizelas|Faith of Lizelas]]**: a _sarnor_, an ordained priest and healer.
 
 ## Plot Hooks
 
-The Lethal Patient
-: A dying man arrives at Yutalush's clinic bearing a fresh wound from an oligarchic enforcer. He is a resistance leader, and his death would cripple a faction already weakened by betrayal. The man asks Yutalush to save him, knowing that his recovery will inevitably lead to Yutalush being implicated in resistance activities. Yutalush cannot refuse, but compliance will destroy his neutrality and potentially his clinic.
+1. **The supplies.** The physic the clinic buys at the quay has begun to arrive late or not at all, and the merchants who sold to it have found reasons to stop. Yutalush asks a party to follow the next shipment up from the harbor and see who stops it.
+2. **The copyist.** An agent of a [[place-besikar2|Besikar]] guild has a warrant for a copyist of Zatturel that the magistrates will not hear, and the copyist has come to the clinic. Yutalush will not hand over a patient. He asks a party to keep the copyist safe until the agent's ship leaves.
+3. **The cove.** One of Beshura Tarmumi's crew is badly hurt in the channels, and she cannot bring him into Bazunel by day. A messenger asks Yutalush to come to a cove on [[place-tashilar|Tashilar]]'s shore at night, and he wants a party to go with him.
+4. **The accounts.** A senior priest of Lizelas has asked for the clinic's accounts. Yutalush does not know where all of its money comes from, and he wants a party to find out before the temple does.
 
-The Oligarch's Secret
-: Yutalush diagnoses a terminal illness in a high-ranking member of the Auric Compact—someone whose death might actually destabilize the regime or precipitate civil war. The patient asks him to keep the diagnosis secret while they arrange succession, but delaying disclosure means allowing the oligarchy to continue policies that are actively killing the poor. Yutalush's commitment to healer's discretion conflicts irreconcilably with his knowledge of the consequences of silence.
+:::secret {title="Whose quarrel the clinic is in"}
+Tarruk Eshkarum has been undermining the clinic's supplies, so that the temple can take it over as a rescue rather than a seizure and hand its keeping to men the council trusts. What he wants is the clinic's knowledge: who comes, wounded by whom. The money that keeps refilling its shelves is the Compact's, entered under other heads in [[being-ninurishamir|Ninuri Shamiru]]'s books, and an assessor from Besikar is reading those books now.
 
-The Informant's Test
-: An intelligence operative of a foreign power arrives in Bazunel and begins deliberately getting wounded in ways that require Yutalush's care, each time establishing deeper rapport and testing whether he might be turned as an informant. The operative is subtle and charming, and by the time Yutalush realizes what is happening, he has already become emotionally attached to them.
-
-The Clinic's Collapse
-: Resources mysteriously begin drying up. Magistrate Eshkarum has been quietly but systematically undermining the clinic's supply chains and the temple authorities are becoming less protective. Within months, Yutalush may have to close the clinic. The realization that he might be forced to abandon his patients breaks something in him, and he begins considering desperate measures.
-
-The Healer's Choice
-: Two former patients—one an oligarchic official, one a resistance fighter—both arrive at the clinic gravely wounded at nearly the same moment. Yutalush has resources to save one, perhaps both if he is extraordinarily fortunate. But his knowledge of each man's role and significance makes this decision far more than medical. Whoever he saves shapes Bazunel's future. The weight of choosing which faction deserves to win finally forces Yutalush to confront that his "neutrality" has always been a fiction.
+The copyist of the second hook is one of the Zatturel newcomers whom a factor of [[affiliation-crimsnldgr|The Crimson Ledger]] found through the council's roll and set to copying, and the Ledger made sure his old guild heard where he was. Beshura Tarmumi and the Free Captains mean to be on the water when the halls of [[place-yamuzel2|Yamuzel]] rise at the [[lore-fleetreview|Fleet Review]], and she has not told Yutalush. If the magistrates learn that the clinic has kept a Free Captain alive and said nothing, its neutrality is finished.
+:::

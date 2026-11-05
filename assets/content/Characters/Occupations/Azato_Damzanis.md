@@ -3,7 +3,7 @@ shortcode: azatodmzns
 name: {full: Azato Damzanis}
 type: being
 subType: npc
-tags: [draft, guilded, mages]
+tags: [guilded, mages]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,11 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 5}, marendas: {rank: 1}}
+  affiliations:
+    vylarinmpr: {rank: 5}
+    marendas: {rank: 1}
+    ordoarcanis: {rank: 4}
+    fisera: {rank: 3}
   gender: male
   species: humanflk
   born: 670.147
@@ -400,56 +404,67 @@ At forty-nine, Azato Damzanis cuts a sparse, scholarly figure—a little over fi
 
 # Dossier {#dossier}
 
-Azato Damzanis was born into the [Damzanis family]{.name data-type="affiliation/lineage"} in [[place-tyrellan|Tirellan]], one of the [[affiliation-vylarinmpr|Vylarian Empire]]'s merchant-patrician houses whose gilded status granted him access to the [[affiliation-panepistmm|Epistémion]] but little true power in the senatorial hierarchies that rule the realm. As a child showing precocious intellectual gifts—particularly in mathematics and the study of natural substances—he was marked for the [[affiliation-ordoarcanis|Thordimalon]], as all gifted children are marked in Vylaria. However, his talent suggested an aptitude for something beyond the six magical schools: he possessed the rare insight of an alchemist, that peculiar blend of analytical precision, mineral knowledge, and herbal craft that places alchemists apart even within the Arcane Order's ranks. By his thirties, he had earned his _marendoi_ (masters) rank within the Zulen (fellowship) [[affiliation-fisera|Fisera]]—the fellowship of earth and substance—though his ascent was slower and more contentious than his intellectual gifts alone would suggest.
+Azato Damzanis is the alchemist of the [[affiliation-ordoarcanis|Thordimalon]] at [[place-tyrellan|Tirellan]], a _marendos_ (master) of the Zulen (fellowship) [[affiliation-fisera|Fisera]], the fellowship of earth and substance, and the city's best-known scholar. He is the son of the [Damzanis]{.name data-type="affiliation/lineage"}, a merchant house that holds a seat on the town council below the three _kurthoi_ (senators) who govern it, and his family's standing gave him the [[affiliation-panepistmm|Epistémion]] but no share of real power.
 
-His reputation rests on two abilities: a mastery of mineral transmutation that borders on the uncanny, and an encyclopedic knowledge of herbal lore and funeral practices. The latter—his skill in embalming—points to a deeper fascination with preservation, with stopping time itself, with understanding the boundary between living substance and inert matter. His discourse with colleagues is articulate and commanding, yet those who know him recognize it as performance rather than connection; he feels almost nothing for other people, which leaves him capable of brilliant argument but incapable of human warmth. This peculiarity earned him the alias "Kuthstan Crey," adopted quietly during a contentious period with [[affiliation-sekran|The Arcane Inquisition]] (the Sekran)—the Arcane Order's enforcement arm—roughly fifteen years ago. The nature of that conflict remains opaque, though it involved a fellow _marendos_ (master) named [[being-hiltheristho|Hiltheris Tholmaris]], whose theories Azato publicly demolished as "fundamentally confused about the nature of mineral essence." Tholmaris died under circumstances never fully clarified; Azato moved his main laboratory to a rented estate on the outskirts of Tirellan and has maintained the alias ever since.
+His reputation rests on mineral transmutation that borders on the uncanny, and on a knowledge of herbs and of embalming that points to the question he cares about most: how living substance becomes inert matter, and whether it can be held at the boundary. He works in a laboratory on a rented estate outside the city. His talk is eloquent and commanding, and those who know him well understand it as performance: he feels almost nothing for other people.
 
-More peculiar still is his skill in piloting—unusual for an alchemist rooted in the inland valleys of Vylaria. Ten years prior, a trading venture down the [Veridian River]{.name data-type="place/feature"} to purchase rare crystalline samples required him to master navigation and river piloting. The experience left him with knowledge of currents, coastal landmarks, and maritime trade routes that remain curiously current in his memory.
+For work that skirts what [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) would sanction, he keeps a second name, Kuthstan Crey. Under it he buys and sells through contacts who have never heard of Azato Damzanis.
 
-His conscience wavers, pulled between the ruthless pragmatism required by his investigations and an increasingly insubstantial commitment to principle. He has never crossed into outright amorality, but the gap narrows with each year.
+## Background
+
+**The marked child.** Azato showed a gift for number and the study of substances young, and was marked for the Order as every gifted child in Vylaria is. He rose to _marendos_ in the Fisera by his thirties, more slowly and with more quarrels than his gifts alone would explain.
+
+**The partner.** He worked for a time with the _marendos_ [[being-hiltheristho|Hiltheris Tholmaris]] on a project neither of them entered in the Order's records. The partnership ended when he published a demolition of her theories as "fundamentally confused about the nature of mineral essence". She died soon after, sixteen years ago, in circumstances never fully cleared, and the Sekran's inquiry touched him at its edge. He moved his laboratory to the rented estate and took the second name soon after.
+
+**The response.** Thirteen years ago he took apart the framework of another _marendos_ of the Fisera, [[being-tholmararort|Tholmarar Orthemandis]], in a published response read across the Order. She now chairs the fellowship's examination board.
+
+**The river.** A trading venture by river and coast, to buy crystal specimens ten years ago, made him a competent pilot, an odd skill for an alchemist of the inland valleys.
 
 ## Psyche
 
-Azato's inner life is one of towering intellect untethered from any feeling for others. His mind operates with the clarity of polished steel, analyzing problems down to their elemental components. His creativity shows in unexpected leaps of insight, in novel approaches to transmutation that colleagues struggle to replicate. Yet this same mind is fundamentally isolated: he experiences others largely as obstacles, instruments, or irrelevant background detail. He can articulate their motivations with precision; he simply does not feel them.
+### Personality
 
-This creates a peculiar dissonance in his social presentation. His eloquence and discourse allow him to project warmth, concern, even intimacy. But it is entirely constructed—a mask worn so consistently that even Azato has begun to wonder, in rare quiet moments, whether anything beneath it remains. His will is resolute, driving him through long nights of experimentation, through setbacks in his work, through the slow corrosion of aging. Yet that same will, untempered by any real feeling, has begun to calcify into something approaching obsession.
+He is brilliant, precise and cold. He can describe another person's motives exactly, and he does not feel them. His warmth in company is built, and he has worn it so long that he sometimes wonders whether anything is behind it.
 
-He tells himself his work matters. That the secrets hidden in mineral crystal structures, in the slow rot of buried matter, in the preservation of flesh beyond death, will ultimately vindicate the years of solitude and cold precision. Whether he truly believes this, or whether the belief itself is simply another elegant construct he maintains for his own reassurance, remains unanswered.
+### Motivation
+
+He wants to understand preservation, the line between living substance and dead matter, and he tells himself that the understanding will justify the years of solitude it has cost.
+
+### Strengths
+
+He is a master of mineral alchemy, herbalism and embalming, an eloquent speaker and a patient, careful worker. He keeps his two lives as separate as any two reagents on his bench.
+
+### Weaknesses
+
+He has no friends, his apprentices resent his exacting coldness, and his name is in a Sekran file that has been set down but not closed.
 
 ## Social
 
-Within [[lore-vylarianclt|Vylarian]] society, Azato occupies the privileged but constrained position of the guilded class. His family name carries weight in Tirellan's merchant councils, but true political power remains the province of the senatorial families above. Within the Thordimalon (the Arcane Order) and the Epistémion (the Academy), he holds the rank of _marendos_ in the Zulen Fisera, a position of considerable authority over junior alchemists and apprentices—though his authority is increasingly resented, as younger practitioners detect the coldness beneath his eloquence and bridle under his exacting, unsympathetic instruction.
+### Enemies
 
-His use of the alias "Kuthstan Crey" in certain academic circles and with certain contacts has become almost routine. He maintains a carefully bifurcated existence: Azato Damzanis conducts authorized research through Epistémion channels, while Kuthstan Crey pursues more delicate investigations that skirt the edges of what the Sekran would officially sanction. This duality has become second nature, a compartmentalization as precise as any of his laboratory work.
+- [[being-tholmararort|Tholmarar Orthemandis]]: The _marendos_ whose framework he took apart in print, who chairs the Fisera's examination board and is making careful inquiries into his methods.
+- [[being-ronethoszurm|Ronethos Zurmelates]]: A _sekeros_ (inquirer) of the Sekran following thefts from the Epistémion's mineral stores and new compounds on the black market, whose path keeps crossing his.
 
-He maintains cordial but distant relations with the senatorial families whose patronage funds much alchemical research, including [House Valerion]{.name data-type="affiliation/lineage"}, the dominant merchant-patron of the Epistémion's mineral research program.
+### Others
 
-## Companions
+- [[being-zenothenguri|Zenothen Gurimandis]]: A _dasken_ (ordained teacher) of [[affiliation-marendas|Marendas]] at the [Temple of Wisdom]{.name data-type="place/structure"} on the forum, whom he meets monthly and speaks to with something like candor.
+- **One of the three _kurthoi_ of Tirellan's council**, who has funded his mineral research for twelve years in return for first access to any compound of use in war or manufacture.
+- **A merchant's widow of the coast trade**, who has bought and authenticated rare mineral specimens for him for five years and knows him only as Kuthstan Crey.
 
-### Patrons and Allies
+### Affiliations
 
-**Kurthos [Velthoris Valerion]{.name data-type="being/npc"}**—The most influential of the three senior _kurthoi_ (senators) who govern Tirellan, Valerion has become Azato's primary patron over the past twelve years. Their relationship is transactional and carefully maintained: Valerion funds Azato's mineral research with the expectation of first access to any compounds of use in war or manufacture. Azato has learned to deliver results that satisfy this arrangement while keeping his most proprietary discoveries sequestered.
-
-**Brother [[being-zenothenguri|Zenothen Gurimandis]]**—A priest of the [[affiliation-marendas|Faith of Marendas]] at the [Temple of Wisdom]{.name data-type="place/structure"} in Tirellan, Zenothen is confessor to several Epistémion scholars and has become one of the few people Azato engages with something approaching candor. Their conversations occur monthly and ostensibly concern theological matters, but both understand that Zenothen is a necessary anchor, keeping Azato's detachment from slipping into something worse. Brother Zenothen harbors no illusions about his colleague's capacity for warmth; he simply views the work as maintaining a brilliant mind in sufficient equilibrium to continue contributing to human knowledge.
-
-[Azene Armendanis]{.name data-type="being/npc"}—A merchant's widow of lower _gulmen_ (equestrian) standing, Azene manages her late husband's trading concerns and has contracted with Azato for the past five years to source and authenticate rare mineral specimens across coastal trade networks. She knows him only as Kuthstan Crey and believes him to be a scholar-merchant of independent means. Their dealings have remained stable precisely because no personal connection threatens it.
-
-### Enemies and Threats
-
-**Marenda [[being-tholmararort|Tholmarar Orthemandis]]**—A fellow _marendos_ in the Zulen Fisera whose theoretical framework on mineral essences Azato systematically disassembled in a published response thirteen years ago. Tholmarar has never forgiven him, and her influence within the Epistémion has grown considerably; she now chairs the Zulen examination board and has begun initiating subtle investigations into Azato's unconventional methods. She suspects—correctly—that some of his research exists outside official Arcane Order sanction.
-
-**The Sekran Inquiry**—A quiet, ongoing concern. Fifteen years ago, the death of _Marendos_ Hiltheris Tholmaris created an internal investigation that touched Azato peripherally. The matter was officially closed, but file agents within the Sekran maintain certain suspicions. These remain dormant—there is no proof, and Azato has been scrupulously careful since—but the knowledge that those files exist, that they contain his name, has never truly left him.
-
-**Sekeros [[being-ronethoszurm|Ronethos Zurmelates]]**—A Sekran field investigator with a reputation for dogged persistence. Zurmelates has recently taken interest in certain mineral thefts from Epistémion stores and the emergence of novel alchemical compounds in black-market channels. He has no direct evidence against Azato, but their paths have begun to cross with uncomfortable frequency.
+- **[[affiliation-ordoarcanis|Thordimalon]]**: a _marendos_, with a vote in his chapter's council.
+- **[[affiliation-fisera|Fisera]]**: a Master of the Art, with authority over the fellowship's junior alchemists and apprentices at Tirellan.
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a _gulmen_ of the propertied order, by his family's standing.
+- **[[affiliation-marendas|Faith of Marendas]]**: one of the lay faithful.
 
 ## Plot Hooks
 
-**The Book Problem**—A merchant ship carrying a rare alchemical codex from the coastal holdings was intercepted and its cargo scattered. Azene Armendanis has contracted "Kuthstan Crey" to retrieve pages from a private collector in a neighboring realm without official sanction. The cost offered is extraordinary, but the retrieval would almost certainly trigger Sekran scrutiny if discovered.
+1. **The old records.** An apprentice of the Epistémion has found references to the project Azato and Hiltheris Tholmaris worked on before their rupture, and asks innocent questions about it. Azato hires a party to find the rest of the records before anyone else does.
+2. **The steel.** The _kurthos_ who funds him has heard that the forging of [[miscgear-vylsteel|Vylarian Steel]] involves an alchemical process the Steel Houses keep as their own, and he wants Azato to learn it. Azato needs a party to bring him samples from a Steel House's bench, which is espionage against the most jealously kept secret in the Empire.
+3. **The young priest.** Zenothen Gurimandis has begun to train a young priest to take Azato's monthly confessions after him. The young man is warm, idealistic and worried for Azato's soul, and he has begun to visit the estate uninvited. Azato wants him kept away.
+4. **The examination.** An apprentice of Azato's comes before Tholmarar Orthemandis's examination board and is failed on a point of mineral theory that is Azato's, not his. Azato hires a party to learn what else the board asked the boy about his master's work.
 
-**Hiltheris Redivivus**—An apprentice has discovered references in old Epistémion records to a secret project Azato conducted with the late _Marendos_ Hiltheris Tholmaris before their public rupture. The apprentice, lacking context, asks innocent questions about the work. Azato can suppress the inquiry or allow a dormant chapter of his past to reopen.
-
-**The Transmutation of Iron**—_Kurthos_ Valerion has learned rumors of [[miscgear-vylsteel|Vylarian Steel]]'s forging secrets and suspects they involve alchemical processing unknown to the Steel Houses. He has tasked Azato with discovering these secrets through research, willing to fund any necessary expedition or investigation. The request is both an enormous opportunity and an invitation to espionage against Vylaria's most jealously guarded monopoly.
-
-**Brother Zenothen's Successor**—The aging priest has begun mentoring a young ecclesiast to eventually hear Azato's monthly confessions. This replacement—idealistic, warm, and concerned with Azato's spiritual welfare rather than his usefulness—poses an unexpected threat: the kind of human connection Azato has spent his life avoiding.
-
-**The Preservation Question**—Azato's research into herbal preservatives and funeral embalming has attracted unexpected attention from the Arcane Order's mortality scholars and a shadowy faction within the Epistémion that studies the boundary between death and restoration. They have begun leaving anonymous inquiries asking whether he would be interested in a collaborative project of considerable scope and extraordinary risk.
+:::secret {title="The two names"}
+Neither Ronethos nor Tholmarar knows the name Kuthstan Crey, and Zenothen has not been told it. The day Ronethos hears it in a hearing and puts it beside Azato's, his file has a suspect, and a _holsekeros_ (senior inquirer) may open the dormant file on Hiltheris's death beside it, since Azato's name is already in that file. Tholmarar has found the gaps in Azato's laboratory book where the unsanctioned work goes, though not the work itself. Only Azato knows what the shared project with Hiltheris was, and why it ended.
+:::

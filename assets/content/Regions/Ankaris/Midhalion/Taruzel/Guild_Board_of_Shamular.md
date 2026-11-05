@@ -49,7 +49,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [yamuzel]
   relations: {}
   packFolder: taruzel
 sohl: {system: {commonSkills: [taruzelilng]}}

@@ -85,5 +85,5 @@ She does not know the docks, and she will not learn them from Lothona. Her searc
 4. **The night patrol.** Eltheza asks a party to walk the quays with Lothona's patrol and tell her which of the night's arrests Lothona did not make.
 
 :::secret {title="The nephew on the patrol"}
-A young guard of Lothona's patrol, the nephew of a merchant family with political connections, takes the smuggler Verath Carlock's money to let contraband through the checkpoints. Eltheza does not know of the bribe. Her searches have not touched the cargo he passes, and his family has just secured a contract with the harbor authority, so the arrest she would make if she knew would cost her the Dock Master's goodwill and the houses' along with it.
+A young guard of Lothona's patrol, the nephew of a merchant family with political connections, takes a smuggler's money to let contraband past the patrol. Eltheza does not know of the bribe. Her searches have not touched the cargo he passes, and his family has just won a contract from the town council that keeps the harbor, so the arrest she would make if she knew would cost her the harbor-master's goodwill and the houses' along with it.
 :::

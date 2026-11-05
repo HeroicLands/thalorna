@@ -90,5 +90,5 @@ He has no proof, and an inquirer who accuses a _marendos_ (master) of the Order 
 :::secret {title="The trained hand and the dormant file"}
 The Sekran's file on the death of [[being-hiltheristho|Hiltheris Tholmaris]], set down sixteen years ago, has Azato Damzanis's name in it, and its agents never lost their suspicion of him. Ronethos has not read it. If his own file brings Azato's name to a _holsekeros_, the old file can be opened again, and Ronethos becomes the man who reads both.
 
-Azato keeps a second name, Kuthstan Crey, for work that skirts what the Sekran would sanction, and a merchant's widow, [Azene Armendanis]{.name data-type="being/npc"}, knows him only by it. Ronethos does not know the name. The day he hears it in a hearing and puts it beside Azato's, his file has a suspect.
+Azato keeps a second name, Kuthstan Crey, for work that skirts what the Sekran would sanction, and a merchant's widow of the coast trade who buys mineral specimens for him knows him only by it. Ronethos does not know the name. The day he hears it in a hearing and puts it beside Azato's, his file has a suspect.
 :::

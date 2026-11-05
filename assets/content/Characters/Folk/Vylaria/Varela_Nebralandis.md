@@ -1,19 +1,19 @@
 ---
 shortcode: varelanebral
-name: {full: Varela Nebralandis, en: [Bishop Varela]}
+name: {full: Varela Nebralandis, en: [Sarnor Varela]}
 type: being
 subType: npc
-description: "An ambitious bishop of the Temple of Lizelas in Orzara, of its conservative party, who has marked the circuit priest Revothar Baremzator as a heretic in waiting and is gathering the evidence against him."
+description: "An ambitious _sarnor_ (ordained priestess) of the Temple of Lizelas in Orzara, of its conservative party, who has marked the circuit priest Revothar Baremzator as a heretic in waiting and is gathering the evidence against him."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric, courtier]
-  occupation: Bishop
+  occupation: Sarnor
   lore: []
   culture: vylarianclt
   homes: [arvon]
-  affiliations: {lizelas: {rank: 3}}
+  affiliations: {lizelas: {rank: 3, office: Sarnor}}
   socialTies: {being-rvthrbrmztr: rival}
   gender: female
   species: humanflk
@@ -33,11 +33,11 @@ data:
 
 # Appearance {#appearance}
 
-Varela Nebralandis is a 48-year-old woman who stands 5'9" tall and is of medium build. She has tanned, weathered skin, dark brown hair worn under a bishop's veil, and amber eyes. Her robes are of fine cloth and immaculate, and she carries a writing case of her own rather than wait for a clerk. She is gracious in company, and she remembers what is said to her.
+Varela Nebralandis is a 48-year-old woman who stands 5'9" tall and is of medium build. She has tanned, weathered skin, dark brown hair worn under a priestess's veil, and amber eyes. Her robes are of fine cloth and immaculate, and she carries a writing case of her own rather than wait for a clerk. She is gracious in company, and she remembers what is said to her.
 
 # Dossier {#dossier}
 
-Bishop Varela Nebralandis is a senior ecclesiastic of the [[affiliation-lizelas|Faith of Lizelas]] in [[place-orzara|Orzara]], where the faith keeps its great temple among the temples of the Twelve in the Temple District of [[place-arvon|Arvon]]. She is ambitious, and she is of the Temple's conservative party, which regards [[being-rvthrbrmztr|Revothar Baremzator]], the circuit priest of the villages around [[place-polthara|Polthara]], as a threat to the Temple's stability.
+Varela Nebralandis is a _sarnor_, an ordained priestess, of the [[affiliation-lizelas|Faith of Lizelas]] in [[place-orzara|Orzara]], where the faith keeps its great temple among the temples of the Twelve in the Temple District of [[place-arvon|Arvon]]. She is ambitious, and she is of the Temple's conservative party, which regards [[being-rvthrbrmztr|Revothar Baremzator]], the circuit priest of the villages around [[place-polthara|Polthara]], as a threat to the Temple's stability.
 
 She has marked Revothar as a heretic in waiting. She is gathering evidence against him, patiently, and she means to have enough before she moves that the villages which love him cannot save him.
 
@@ -45,7 +45,7 @@ She has marked Revothar as a heretic in waiting. She is gathering evidence again
 
 **The capital.** Varela has risen in the Temple of the capital, where advancement goes to those who defend the Temple's tradition and prerogatives.
 
-**The bishop.** As a bishop of the capital she has a voice in the Temple's hierarchy across the Empire.
+**The sarnor.** She serves the faith's great temple in the capital, and her letters go out from it to the temples of the provinces.
 
 **The circuit priest.** Revothar's criticisms of the Temple's indifference to the countryside reached the capital, and so did reports of his independence. Varela opened her file on him then.
 
@@ -57,11 +57,11 @@ She is courteous, controlled and methodical. She never raises her voice and neve
 
 ### Motivation
 
-She wants the Temple's order kept and its authority unquestioned, and she wants the credit for keeping it. Removing a heretic before he becomes a rebel is the kind of service that makes a bishop's name.
+She wants the Temple's order kept and its authority unquestioned, and she wants the credit for keeping it. Removing a heretic before he becomes a rebel is the kind of service that makes a priestess's name.
 
 ### Strengths
 
-Her standing in the capital, her voice in the hierarchy and her patience.
+Her standing in the capital's temple, her correspondents in the provinces and her patience.
 
 ### Weaknesses
 
@@ -75,7 +75,7 @@ The Temple will not remove Revothar while his villages would rise for him, so sh
 
 ### Affiliations
 
-- **[[affiliation-lizelas|Faith of Lizelas]]**: an ordained priestess and a bishop of the Temple in the capital, of its conservative party.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: a _sarnor_, an ordained priestess of the Temple in the capital, of its conservative party.
 
 ## Plot Hooks
 
@@ -84,7 +84,7 @@ The Temple will not remove Revothar while his villages would rise for him, so sh
 3. **The auditor.** A new imperial auditor is looking at where the Temple's goods go in Polthara. Varela wants to know what the auditor has found before the auditor reports it.
 4. **The grain merchant.** A grain merchant of Polthara who hates Revothar offers Varela evidence for a price. She asks a party to judge whether it is real.
 
-:::secret {title="What the bishop has not found"}
+:::secret {title="What the sarnor has not found"}
 Varela's evidence so far is of words: sermons, letters and reports of Revothar's criticism of the Temple. She has not found what would hang him. Revothar keeps hidden grain caches stocked partly from the Temple's own resources, moves grain through channels that blur charity into theft, and corresponds with reform movements within the priesthood that the Temple would suppress. A network calling itself [the Gathering]{.name data-type="affiliation/faithtradition"} is pressing him to break with the Temple altogether.
 
 **Hook: the cache.** If soldiers find one of the caches, Varela has her proof at last. She hires a party to bring Revothar to the capital before his villages can hide him, and the villages are ready to fight.

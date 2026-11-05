@@ -13,7 +13,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [hitusel]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, lizelas: {rank: 1}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, lizelas: {rank: 1}, cnclhtsl: {rank: 2}}
   gender: male
   species: humanflk
   born: 683.257
@@ -440,6 +440,7 @@ A chartered tannery of Sazumun, whose vezakum has learned where the good coast l
 
 - **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman, enrolled in the register of [[affiliation-sazumun|Sazumun]], the city-state whose island Visizel is.
 - **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keeps the goddess's feasts without office in the temple.
+- **[[affiliation-cnclhtsl|Council of Hitusel]]**: a Householder, who sits for the pits.
 
 ## Plot Hooks
 

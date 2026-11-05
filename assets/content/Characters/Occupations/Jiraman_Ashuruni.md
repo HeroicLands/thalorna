@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [scholar]
-  occupation: Skald
+  occupation: Shudarum
   lore: []
   culture: taruzelianclt
   homes: [yamuzel2]
@@ -398,7 +398,7 @@ Jiraman Ashuruni is a 42-year-old man who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Jiraman Ashuruni is a singer and teller of tales in [[place-yamuzel2|Yamuzel]], who lives and works in the [Veterans' Quarter]{.name data-type="place/site"} on the slope between the admirals' street and the yards. He sings in the veterans' halls of the quarter, in the taverns of the harbor streets and at the festivals, and his voice is deep and carries to the back of any hall. He plays instruments he has made himself, at a bench in his room under the eaves of a yard men's tenement.
+Jiraman Ashuruni is a _shudarum_, a singer of war songs and teller of tales, in [[place-yamuzel2|Yamuzel]], who lives and works in the [Veterans' Quarter]{.name data-type="place/site"} on the slope between the admirals' street and the yards. He sings in the veterans' halls of the quarter, in the taverns of the harbor streets and at the festivals, and his voice is deep and carries to the back of any hall. He plays instruments he has made himself, at a bench in his room under the eaves of a yard men's tenement.
 
 His songs are the war's: the yards building the fleet, the blockade broken, the squadrons going into the [[place-tamzirshoals|Tamzir Shoals]] at dawn. On the night of the [[lore-fleetreview|Fleet Review]] the halls pin fresh paper over the old broadsheets, read the names of their dead and sing [[lore-paidattheshoals|What Was Paid at the Shoals]] until the lamps burn out, and in the hall he sings in, Jiraman leads it.
 

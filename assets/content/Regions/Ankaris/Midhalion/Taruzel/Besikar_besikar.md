@@ -90,6 +90,9 @@ Besikar was the seat of the empire's rule in the islands: the _therkos_ kept his
 [[place-besikar2|Besikar]]
 : the city itself
 
+[[affiliation-gldbrdshrmn|Guild Board of Sharimun]], [[affiliation-gldbrdpshnr|Guild Board of Pashinar]]
+: the town governments of Qalirel, under the city-state
+
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the confederation whose Council meets here
 

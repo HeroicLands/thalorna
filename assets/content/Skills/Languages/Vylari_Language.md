@@ -9954,7 +9954,7 @@ data:
     - {name: Tholmarar Orthemandis, tongue: vylari}
     - {name: Marendos Tholmarar Orthemandis, tongue: translation}
     - {name: Varela Nebralandis, tongue: vylari}
-    - {name: Bishop Varela, tongue: translation}
+    - {name: Sarnor Varela, tongue: translation}
     - {name: Venthelen Kaldremis, tongue: vylari}
     - {name: Captain Kaldremis, tongue: translation}
     - {name: Volkemar Zurmelates, tongue: vylari}

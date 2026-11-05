@@ -11,7 +11,7 @@ data:
   occupation: Town Guard
   lore: []
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [alyssar]
   affiliations: {vylarinmpr: {rank: 3}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
@@ -374,53 +374,53 @@ Zenokos is young and still growing into himself—twenty-one years old, 5'9", wi
 
 # Dossier {#dossier}
 
-Zenokos joined the town guard of [[place-alyssar|Alessar]], the provincial seat, eighteen months ago at twenty years old, fresh from his training and full of idealism about protecting his home city. The idealism has held up better than he expected, though it is being gradually tempered by the reality of keeping the peace in a city of a declining empire. He is lean and restless, and still young enough that people are not entirely certain whether to take him seriously.
+Zenokos Bardas is a guard of the province's urban cohort quartered in the watch-house below the [Governor's House]{.name data-type="place/structure"} in [[place-alyssar|Alessar]], the seat of [[affiliation-provinclys|the Province of Alessa]]. He walks the central district, the richest and most crowded quarter of the city, where merchants, minor nobles and prosperous tradespeople live beside their servants and the city's poor, and at assize time he walks the inns of [Petitioners' Row]{.name data-type="place/feature"} at night with the rest of the cohort.
 
-The scar on his forehead was earned during his first month of patrol, breaking up a brawl between drunk merchants in the market district. A man with a bottle caught him badly enough to require stitches. The incident taught him that violence is often chaotic and random rather than disciplined. He recovered well and returned to patrol within a week.
+He joined eighteen months ago at twenty, full of idealism about protecting his home city, and the idealism has held up better than he expected. He is conscientious and quick to learn, and still green. The old captain of the district, [[being-ganothisdora|Ganothis Dorandates]], has taken him under his wing, and this year a new senior officer, [[being-zurmelosorth|Zurmelos Orthemandis]], has taken command of the station over Ganothis's head.
 
-His posting is the central district—the wealthiest, most densely populated part of Alessar, where merchants, minor nobles, and successful tradespeople live alongside their servants and the perpetual population of urban poor. The work is managing disputes, stopping theft, enforcing the minor regulations that keep urban society functional. He is not especially skilled yet, but he is conscientious and learning quickly.
+## Background
+
+**The scar.** In his first month on patrol a drunk merchant in the market caught him with a bottle while he broke up a brawl, and the stitches left the scar across his forehead. He was back on the street within a week.
+
+**The importer.** Twice he has begun asking questions about a spice importer of the central district whose business looks to him like a black market wearing a respectable sign, and twice the importer's advocates, friends and hints have made him stop.
 
 ## Psyche
 
 ### Personality
 
-Zenokos is earnest and tries too hard to treat everyone fairly. He is not yet experienced enough to understand when fairness is being manipulated against him, and older criminals have learned to exploit his good nature. He is self-doubting in ways that will probably diminish with age and experience. He is polite to almost everyone, including people who resent being treated with politeness. His humor is not yet refined, though it is developing.
+Zenokos is earnest and polite to everyone, including people who resent it. He tries too hard to be fair, and older thieves have learned to use his good nature against him. He doubts himself.
 
 ### Motivation
 
-Zenokos wants to be a good guard—good, not just competent. He feels responsible to his city and its people. His secondary motivation is proving his suitability for the role despite his youth and small stature. He is concerned that people judge him on appearance and is quietly determined to demonstrate that he belongs in the position.
+He wants to be a good guard, not merely a competent one, and to prove that he belongs in the cohort despite his youth and his slight build.
 
 ### Strengths
 
-He is very fast for his age and frame. His commitment to the work is whole. He is literate and intelligent, which helps him with paperwork and understanding legal procedures. He is emotionally resilient in ways that will serve him well.
+He is very fast, wholly committed and literate, which makes him useful with the station's paperwork and the law it answers to.
+
+### Weaknesses
+
+He cannot tell when fairness is being turned against him, and he believes that a crime, once seen, must be reported.
 
 ## Social
 
-Zenokos is on the lowest rung of the town guard hierarchy. He is barely respected by older guards and is probably invisible to the central district's merchant class. He is beginning to build a modest reputation for fairness and steadiness.
-
-## Companions
-
-### Patrons
-
-**Senior Guard Captain [[being-ganothisdora|Ganothis Dorandates]]**—The sergeant commanding the central district patrols. Ganothis recognized Zenokos's sincerity and has taken him under his wing as an unofficial mentor. Ganothis is an older man nearing retirement and sees potential in Zenokos. He actively protects him from the more cynical guards who would teach him to accept bribes and overlook crimes for coin.
-
 ### Enemies
 
-**Merchant [Kallias]{.name data-type="being/npc"}**—A successful trader in the central district who runs what is likely a lucrative black-market operation disguised as a legitimate spice importing business. Zenokos has tried to investigate the operation twice, and both times Merchant Kallias has made it clear—through legal threats, social pressure, and subtle intimidation—that the investigation needs to stop. Zenokos has backed off twice. Kallias views him as intimidated and beneath contempt.
+- **The spice importer of the central district**, who has twice made him drop his questions and regards him as beneath contempt.
+
+### Others
+
+- [[being-ganothisdora|Ganothis Dorandates]]: The old senior captain of the district, his mentor, who keeps him from the guards who would teach him to take bribes.
+- [[being-zurmelosorth|Zurmelos Orthemandis]]: The station's new senior officer, whose searches and heavy hand contradict everything Ganothis has taught him.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-arldnpnthn|Aureldian Pantheon]]**: one of the lay faithful.
 
 ## Plot Hooks
 
-The Mentor's Corruption
-: Zenokos discovers that another guard in his squad, an older man he respected, is accepting bribes from Merchant Kallias. The guard's corruption is extensive and has been ongoing for years. Zenokos is caught between reporting his fellow guard (which will make him unpopular with everyone) or ignoring the corruption. When he reports the situation to Captain Ganothis, Ganothis tells him that the guard is well-connected and that Zenokos would be foolish to pursue the matter. Zenokos can push the investigation despite his mentor's warning, or let it drop.
-
-The Noble's Crime
-: Zenokos witnesses a minor noble, **Lord [Castellan]{.name data-type="being/npc"}**, commit a clear crime—beating a servant nearly to death during a drunken rage. There are witnesses. The crime is documented. But when Zenokos attempts to arrest Castellan, he is told by Captain Ganothis that Castellan's family has political protection and that arresting him would result in official retaliation against the guard station. Zenokos can ignore the crime or make an arrest that will end his service before it has truly begun.
-
-The Orphan's Choice
-: Zenokos encounters a street orphan, [Mera]{.name data-type="being/npc"}, a fourteen-year-old girl who has been stealing to survive. He catches her red-handed stealing bread. Instead of arresting her, he begins buying her meals and trying to connect her with shelter and legitimate work. He comes to care about her welfare. Then Merchant Kallias approaches Zenokos with the revelation that Mera's theft is actually directed by Kallias's operation—she is a child the black-market organization uses. Kallias is using the girl as leverage against Zenokos. If Zenokos investigates Kallias's operation, Kallias will have Mera arrested as punishment. Protecting the child and pursuing justice have become two different things.
-
-The Guard Station Politics
-: The central district guard station receives a new senior officer, **Captain [[being-zurmelosorth|Zurmelos]]**, who is politically ambitious and wants to reduce the district's reported crimes through more aggressive enforcement. His approach involves heavy-handed tactics that Zenokos recognizes as counterproductive and likely to create more crime. Zenokos is supposed to support Zurmelos, but Zurmelos's methods contradict Captain Ganothis's mentoring about keeping the peace by knowing the district. His loyalty to his new commander and his loyalty to the mentoring he respects now pull against each other.
-
-The Dangerous Knowledge
-: During a routine patrol, Zenokos encounters a highly placed government official conducting a clandestine meeting with what appears to be a foreign agent. The meeting is brief and he catches only fragments, but it suggests potential treason or at least serious corruption. The official recognizes that Zenokos witnessed the meeting and approaches him privately, identifying himself and explaining that the meeting involved legitimate but secret work. He asks Zenokos not to report what he saw. Zenokos is too young to easily verify whether the official's claims are true, and reporting them would put him in direct conflict with extremely powerful people.
+1. **The guard on the importer's books.** Zenokos has learned that an older guard of his own squad takes the spice importer's money, and has for years. Ganothis has told him to let it go. Zenokos asks a party to find proof that the station cannot ignore.
+2. **The robbed petitioner.** A petitioner on Petitioners' Row has been robbed of the papers for his hearing in the night, and Zenokos was on the Row. He wants the papers found before the case is called and the robbery is entered against his watch.
+3. **The young lord.** Zenokos has seen the son of a family with friends on the square beat a servant nearly to death, before witnesses. Ganothis says that an arrest would cost the station more than it is worth, and Zurmelos wants the numbers that an arrest would give him. Zenokos asks a party what the servant's family wants.
+4. **The rider from Vennara.** Zenokos has stood the night watch at the foot of the Long Stair through the spring, and on no night before a reading on the steps has he seen a courier come up from the Vennara road. He mentioned it to Zurmelos, who told him not to repeat gossip about the _therkos_, and he wants to know whether it is gossip.

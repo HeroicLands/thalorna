@@ -6307,6 +6307,12 @@ data:
       "field": "Everyday speech"
       "gloss": "war"
       "concept": "war"
+    - {"form": "shudar-", "class": "stem", "field": "Everyday speech", "gloss": "to sing of a war"}
+    - "form": "shudarum"
+      "class": "n"
+      "field": "Everyday speech"
+      "gloss": "a singer of war songs"
+      "built": ["shudar-", "-um"]
     - "form": "qatukush"
       "class": "n"
       "field": "Everyday speech"

@@ -51,7 +51,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: [cnfdrtntrzlnstts]
+  parents: [besikar]
   relations: {}
   packFolder: taruzel
 sohl: {system: {commonSkills: [taruzelilng]}}
@@ -86,6 +86,9 @@ Sharimun's guilds have governed the town from their hall on the harbor square wh
 
 [[place-sharimun|Sharimun]]
 : the town the board governs
+
+[[affiliation-besikar|Besikar]]
+: the city-state that holds Qalirel and the town
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the confederation whose Arbitrators sit in the town

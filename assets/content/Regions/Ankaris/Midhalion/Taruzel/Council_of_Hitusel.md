@@ -39,7 +39,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [sazumun]
   relations: {}
   packFolder: taruzel
 sohl: {system: {commonSkills: [taruzelilng]}}
@@ -75,6 +75,9 @@ The households that own the boats and the pits have sat together on the southern
 
 [[place-visizel|Visizel]]
 : the island
+
+[[affiliation-sazumun|Sazumun]]
+: the city-state whose buyers and tax collectors the council deals with
 
 [[place-taruzelrgn|Taruzel Region]]
 : the region

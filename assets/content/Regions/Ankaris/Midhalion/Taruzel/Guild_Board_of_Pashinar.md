@@ -51,7 +51,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [besikar]
   relations: {}
   packFolder: taruzel
 sohl: {system: {commonSkills: [taruzelilng]}}
@@ -84,6 +84,9 @@ Pashinar stands at the foot of the old military road the legions cut over Qalire
 
 [[place-pashinar|Pashinar]]
 : the town the board governs, and the Forgetting
+
+[[affiliation-besikar|Besikar]]
+: the city-state that holds Qalirel and the town
 
 [[place-taruzelrgn|Taruzel Region]]
 : the region

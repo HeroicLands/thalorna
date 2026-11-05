@@ -98,6 +98,9 @@ Yamuzel's admirals' families were the empire's sailors before they were the Conf
 [[place-yamuzel2|Yamuzel]]
 : the city itself
 
+[[affiliation-gldbrdshmlr|Guild Board of Shamular]]
+: the town government of Milazun, under the city-state
+
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the parent polity
 

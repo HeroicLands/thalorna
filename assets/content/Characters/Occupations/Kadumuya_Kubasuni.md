@@ -13,7 +13,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [shamular]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, lizelas: {rank: 1}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, lizelas: {rank: 1}, gldbrdshmlr: {rank: 4}}
   gender: female
   species: humanflk
   born: 694.79
@@ -441,6 +441,7 @@ A rival perfumer's house on the same square, better run and less gifted, would l
 
 - **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-yamuzel|Yamuzel]], the city-state that holds Milazun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through her state's councilors.
 - **[[affiliation-lizelas|Faith of Lizelas]]**: one of the lay faithful, the Devran, who keep the Nurturer's feasts without office in the temple.
+- **[[affiliation-gldbrdshmlr|Guild Board of Shamular]]**: a Member of the Board, holding the perfumers' unelected seat with the oldest perfumer's license on the square. She attends when she remembers.
 
 ## Plot Hooks
 

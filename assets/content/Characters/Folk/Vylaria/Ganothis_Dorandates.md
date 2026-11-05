@@ -85,5 +85,5 @@ He is tired, and he has learned to bend where the district's powerful families l
 3. **The young guard.** Ganothis asks a party to keep an eye on Zénokos, who has been asking questions about a spice importer of the central district, and to warn the boy off before someone else does it harder.
 
 :::secret {title="The quiet district"}
-Ganothis knows that a guard of Zénokos's squad has taken money from the spice importer Kallias for years, and he knows that the guard is too well connected for the station to touch. When Zénokos brings him the corruption or a noble's crime, Ganothis tells him to let it go, because the station would pay for the arrest, and he has never told the boy how many such things he has let go himself.
+Ganothis knows that a guard of Zénokos's squad has taken money from a spice importer of the central district for years, and he knows that the guard is too well connected for the station to touch. When Zénokos brings him the corruption or a noble's crime, Ganothis tells him to let it go, because the station would pay for the arrest, and he has never told the boy how many such things he has let go himself.
 :::

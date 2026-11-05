@@ -13,7 +13,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [sharimun]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, marendas: {rank: 1}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, qizikuni: {rank: 2}, marendas: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.286
@@ -439,6 +439,7 @@ Ambitious younger litigants of the guild want his clients and say in the guild h
 ### Affiliations
 
 - **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Freeman on the register of [[affiliation-besikar|Besikar]], the city-state that holds Sharimun, free to trade under the Confederation's tariffs and entitled to petition the Grand Council through his state's councilors.
+- **[[affiliation-qizikuni|Qizikuni]]**: Kin of the House, bearing the name of the Besikar banking house and pleading its trade disputes in Sharimun, without office in the house.
 - **[[affiliation-marendas|Faith of Marendas]]**: one of the lay faithful, the Devran, who keep the feasts of the god of knowledge without office in the temple.
 
 ## Plot Hooks

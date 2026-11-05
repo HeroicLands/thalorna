@@ -11,7 +11,7 @@ data:
   occupation: Town Guard
   lore: []
   culture: vylarianclt
-  homes: [vylariargn]
+  homes: [mercavia]
   affiliations: {vylarinmpr: {rank: 4}, arldnpnthn: {rank: 1}}
   gender: female
   species: humanflk
@@ -374,53 +374,59 @@ Lothona stands 5'8" with a solid, medium build that carries its weight in the sh
 
 # Dossier {#dossier}
 
-Lothona joined the Delalara docks patrol at seventeen. Her younger brother [[being-brakshrlns|Brakos]] went to the frontier garrisons of [[place-moktur|Moktur]] as a courier years later. She spent her first years breaking up merchant-crew brawls and maintaining order in the chaotic marketplace of the docks. The work required learning to read violence instantly—to recognize which fights would cool at a guard's presence and which would require actual intervention. She became very good at this judgment.
+Lothona Harlanis is the supervisor of the night patrol of the urban cohort quartered on the quays of [[place-mercavia|Delalara]], the port of [[affiliation-provincvld|the Province of Salkalon]]. The cohort guards the [Customs House]{.name data-type="place/structure"} and walks the mile of waterfront after dark, and for most of her service the patrol has come out with clubs only for a riot, an attack on the Customs House or a crime in the foreign quarters, because order on the quays rests on the shipping houses, their quay-masters and the harbor-master.
 
-In her late twenties she was made supervisor of the docks night patrol—the role that placed her between the guard station's officers and the work on the street. The docks at night are their own kind of violent: smuggling, theft, prostitution, the occasional murder disguised as drunken accident. She has dealt with all of it. Her hands are calloused from hauling drunks and breaking up fights, and she carries herself with the wariness of someone who has learned that almost anyone will become dangerous if cornered.
+She keeps that balance by knowing it. She knows which quay-master settles a theft before the owner has missed the goods, which crews will cool at the sight of a cohort tunic and which fights need a club, and which berths take cargo after dark. The merchants and the dock workers know her as fair and not for sale. This spring the cohort has a new commander, [[being-elthezasolte|Eltheza Solterates]], who calls the patrol soft and has ordered Lothona to carry out searches on the berths and arrests on the quays.
 
-At thirty-four, she remains in the same post—not through lack of advancement opportunity but through deliberate choice. She declined promotion twice, preferring the actual work of the watch to the paperwork of higher ranks. She knows the docks better than anyone else in the guard, and the merchants and dock workers know her as someone who is fair but incorruptible.
+## Background
+
+**The cohort.** Lothona joined the cohort on the quays at seventeen and spent her first years breaking up crew brawls under the warehouse cranes. Her younger brother [[being-brakshrlns|Brakos]] took the legion's oath at [[place-corvinus|Korvenara]] years later.
+
+**The night patrol.** In her late twenties she was made supervisor of the night patrol, the post that stands between the cohort's officers and the work on the waterfront. She has declined promotion twice, preferring the quays to the forum.
 
 ## Psyche
 
 ### Personality
 
-Lothona is tough without being cruel, and fair without being soft. She speaks plainly and expects the same in return. She has no patience for excuses and will call out deception immediately. But she is concerned for the welfare of the people on her watch, even when they are criminals; she will arrest someone with regret rather than satisfaction. She has a dark sense of humor born from years of dealing with urban violence.
+Lothona is tough without being cruel and fair without being soft. She speaks plainly, has no patience for excuses and arrests a thief with regret rather than satisfaction. Her humor is dark.
 
 ### Motivation
 
-What drives Lothona first is keeping order on the docks while protecting the people under her watch from the worst predators. She has no illusions that she can eliminate crime; she simply wants to prevent the unnecessary suffering that comes when violence goes unopposed. Second is proving that she earned her position through competence rather than family connection (her family's name invites assumptions of favoritism).
+She wants the quays kept quiet and the people on them kept from the worst of the waterfront. She also wants it understood that she holds her post by her own work, not her family's name.
 
 ### Strengths
 
-Her ability to calm a fight before it starts is rare and was earned through experience. She is physically strong and skilled with her weapons, though she prefers avoiding combat. She understands how the docks' trade and its people work better than any single merchant or dock master. She is intelligent and thinks ahead about how the docks are kept.
+She can calm a fight before it starts, she is strong and skilled with club and short sword, and she understands how the quays' trade and people work better than any single merchant or quay-master.
+
+### Weaknesses
+
+She has bent the cohort's rules on the waterfront for years, for good reasons, and a commander who wants an example could make one of her.
 
 ## Social
 
-Lothona is a citizen of the [[affiliation-vylarinmpr|Vylarian Empire]] by her house's station, since the Harlanis are a minor noble family, though the name brings her no money and no favor on the docks. She occupies an unusual role: she is respected by dock workers and merchants both, accepted into neither world fully. Her gender initially made authority more difficult; it has slowly become an advantage as she proved she could carry it.
-
-## Companions
-
-### Patrons
-
-**Dock Master [Sevenros]{.name data-type="being/npc"}**—The official in charge of the docks for Delalara's harbor authority. Sevenros has worked with Lothona for twelve years and respects her judgment completely. He has authority to hire additional guards and has frequently requested Lothona for delicate work, providing her with extra pay and a secure post.
+Lothona is a citizen of the [[affiliation-vylarinmpr|Vylarian Empire]] by her house's station, since the Harlanis are a minor noble family, though the name brings her no money and no favor on the docks. On the quays she is respected by the dock workers and the merchants both, and accepted fully into neither world.
 
 ### Enemies
 
-**Smuggling Kingpin [Verath Carlock]{.name data-type="being/npc"}**—A criminal leader who runs much of the black-market trade through the docks. Carlock is intelligent and careful, leaving minimal evidence for legal prosecution. Lothona knows he is guilty of everything from weapons smuggling to the moving of slaves, but has never been able to build a prosecutable case. Carlock has made it clear that he respects Lothona as a guard while making equally clear that he will destroy her if she becomes too much of an obstacle.
+- [[being-elthezasolte|Eltheza Solterates]]: The cohort's new commander, who means to turn the patrol into hard enforcement and has ordered Lothona to break the balance she has kept.
+
+### Others
+
+- **The harbor-master**, the town council's officer, who has asked for her by name for delicate work on the quays for twelve years.
+- **The quay-masters of the shipping houses**, who settle their own thefts and tell her what she needs to know.
+
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a citizen by her house's station.
+- **[[affiliation-arldnpnthn|Aureldian Pantheon]]**: one of the lay faithful.
 
 ## Plot Hooks
 
-The Corruption Ascension
-: Lothona discovers that a younger guard in her patrol has been taking bribes from Verath Carlock in exchange for allowing specific contraband to pass through checkpoints. The guard is the nephew of a powerful merchant family with political connections. When she tries to arrest him, she is blocked by Dock Master Sevenros, who reveals that the young guard's family has just secured a major contract with the harbor authority. Sevenros is trapped between pressure from above and his loyalty to Lothona. Lothona can accept corruption to protect her standing with Sevenros or pursue the arrest and lose her most important patron.
+1. **The searches.** Eltheza orders a search of a Taruzelian factor's warehouse in the Eastern Quarter in the very spring his waiver from the _therkos_ is late. Lothona asks a party to warn the factor's clerks before the patrol arrives, so that the search finds nothing worth a diplomatic quarrel.
+2. **The hidden dock.** The slaver who works from a dock no harbor-master admits to has taken a sailor's child from the waterfront. Lothona has walked every yard of the quays for years and believes she knows the stretch, and she cannot search it without Eltheza's leave.
+3. **The repainted ship.** A Delalara ship reported lost off the [[place-tamzirshoals|Tamzir Shoals]] has been seen in [[place-qudumel2|Kudumel]] under another name. One of Lothona's patrol saw her cargo loaded at night the week before she sailed, and the house that owned her has asked the harbor-master which of the patrol was on the quay.
+4. **The second chalk.** A Hilen wine merchant was charged the customs twice on one cargo, the second time at a warehouse door by men carrying the Customs House's chalk. Lothona wants a party to find those men before Eltheza blames the patrol.
 
-The Slave Ship
-: Evidence arrives at the guard station that one of the merchant vessels currently docked is operating as a slave ship—the cargo is human beings destined for illegal sale. The ship is officially a merchant vessel registered to a legitimate trading house. The captain claims the "cargo" is actually indentured laborers legally bound to work. Lothona knows this is a lie, but the papers support the captain's version. She cannot legally board and arrest without better evidence, but waiting means the ship will sail. She can board unlawfully, which ends her service if discovered, or allow the ship to depart with enslaved people.
-
-The Informant's Price
-: Lothona is approached by someone offering information that would allow her to prosecute Verath Carlock. The informant is a low-ranking member of Carlock's gang who wants out. He will provide everything needed to build an airtight case—in exchange for Lothona helping him disappear with a substantial bribe to a merchant captain for passage away from Delalara. The request asks Lothona to commit a serious corruption herself. She believes the information is sound and the case would be unassailable. Her integrity and the removal of a major criminal cannot both be had.
-
-The Guard Station War
-: The Delalara city guard is reorganized and places Lothona under a new commanding officer, **Captain [[being-elthezasolte|Eltheza Solterates]]**, who is ambitious and wants to reform the "soft" docks patrol into aggressive enforcement. Solterates's methods involve heavy-handed searches, harassment of merchants and dock workers, and a general approach that Lothona knows will upset the careful balance she has maintained. Lothona is ordered to carry out Solterates's methods. She can accept destructive changes or openly defy her commander.
-
-The Merchant's Daughter
-: Lothona encounters a young woman, [Lyssa]{.name data-type="being/npc"}, daughter of a major merchant family, who is operating as a fence for stolen goods from the docks. Lyssa is intelligent, careful, and her trade is actually less harmful than most of the smuggling that occurs. Lothona knows Lyssa personally—they grew up in the same part of the city. Lyssa asks Lothona to let her operate unimpeded, in exchange for information about larger criminal enterprises. Lothona would be protecting a criminal while gaining access to better targets. The bargain may or may not be one she can live with.
+:::secret {title="The nephew on the patrol"}
+A young guard of Lothona's own patrol, the nephew of a merchant family with friends on the town council, takes a smuggler's money to let contraband past the patrol. Lothona knows. His family has just won a contract from the council that keeps the harbor, and the harbor-master has asked her, as a favor, to leave the boy alone. If she arrests him she loses her best patron. If she leaves him and Eltheza finds him first, the arrest is Eltheza's, and so is the patrol.
+:::

@@ -401,53 +401,58 @@ The dragon tattooed around his upper arm tells a story he rarely discusses—a c
 
 # Dossier {#dossier}
 
-Azendas did not come to the priesthood by the expected path. Born into a freeman family in rural [[place-vylariargn|Vylaria]], he spent his younger years as what soldiers call a "contract man"—hired out to provincial warlords and trading companies, riding with militia bands across the declining [[affiliation-vylarinmpr|Vylarian Empire]]'s borderlands. The work was brutal, the pay inconsistent, and the cause always uncertain. Somewhere in those blood-soaked years, he learned horsemanship, endurance, and the hard mathematics of survival. The dragon on his arm marked him as a survivor of the [Taruzel campaign]{.name data-type="lore/history"}, though he was among the fortunate few who escaped before the independence forces overran the eastern province twelve years ago.
+Azendas Damator is a _sarnor_ of the [[affiliation-lizelas|Faith of Lizelas]] and the senior priest of the faith in the Tirellan region, serving from the temple of Lizelas at [[place-tyrellan|Tirellan]], the capital of [[affiliation-provncmktr|the Province of Moktur]]. He takes the blessing of the fields at spring plowing and the harvest thanksgiving out to the farming villages of the Tirellan circuit, among them [[place-mylanthos|Milanthos]], and he receives the temple's share of each village's harvest, a sheaf in ten.
 
-As the mercenary roads began to close—as they always do—Azendas found himself in [[place-tyrellan|Tirellan]] with few skills but considerable experience and a deep weariness. He took work as a farmhand, then as a steward for a modest estate, learning the cycles of planting and harvest with the intensity he'd once applied to warfare. It was an old priestess of Lizelas, seeing the warrior's hands trying to coax life from the soil, who first suggested he had the makings of a healer. That suggestion took root in him like seed in good earth.
+His standing on the circuit comes from results, not eloquence. He speaks plainly and sometimes harshly, and the villages say that cattle he has blessed rarely sicken, that his remedies ease a hard birth, and that fields blessed under his hand bring in a harvest that keeps a family alive. In a valley where a wet summer means a hungry winter, and where fewer southern caravans come up the patched imperial road each year, the farmers count him as necessary as the granaries under the Keep.
 
-Now, at forty, Azendas serves the farming communities and villages throughout Tirellan with the same disciplined commitment he once gave to combat. He oversees the [Temple of Lizelas]{.name data-type="affiliation"}'s seasonal festivals—the blessing of the fields at spring plowing, the harvest thanksgiving festivals that draw entire villages. His reputation grows not from eloquence—he speaks plainly, sometimes harshly—but from results. Cattle blessed under his rituals rarely sicken. Herbal remedies he compounds ease childbirth complications. Crops tended with Lizelas's wisdom flourish even as the imperial roads and works crumble elsewhere. In a realm gradually strangled by economic decline, Azendas has become essential.
+## Background
 
-Yet the decline troubles him deeply. He watches the imperial roads fall into disrepair, sees fewer merchant caravans arriving in Tirellan, witnesses the slow starvation of the towns that depended on imperial trade. The farming communities he serves grow more desperate, more vulnerable. He knows that in a dying empire, the priesthood becomes either the last holdfast of civilized order or merely another hungry mouth competing for scraps. He works as a healer and as a bulwark, trying to hold back chaos through old knowledge and care.
+**The levy.** Azendas was born to a free family of the countryside and was taken in the levy raised for the war in [[place-taruzelrgn|Taruzel]]. The dragon on his arm was inked in the levy's camp, and he came home from the lost war with no wish to fight again.
+
+**The farms.** He came north to work the farms of the Tirellan circuit, first as a hired hand and then as a steward. The elder of Milanthos, [[being-pirkelosholi|Pirkelos Holimandis]], saw a soldier's hands trying to coax life from the soil and told him to take up healing in the goddess's service.
+
+**The circuit.** Azendas has served the circuit since his ordination and has refused every post that would take him off it.
 
 ## Psyche
 
-Azendas carries two distinct temperaments in uneasy tension. The soldier in him is methodical, pragmatic, resistant to sentiment—he believes in discipline, clear hierarchy, and proven methods. The priest in him has learned compassion, a fellow-feeling rooted in his years as a helpless laborer and a soldier who saw too much suffering. This conflict manifests as someone who can be blunt to the point of cruelty when discussing policy or change, yet very gentle with the sick and dying in his care.
+### Personality
 
-He is stubborn, even rigid, in matters where he has formed conviction. Once he has determined that a farming method works, or that a herbal treatment is effective, he resists those who advocate different approaches. He sees this not as closed-mindedness but as the hard-won wisdom of experience—a soldier's judgment that uncertainty gets people killed. He is no speaker and cannot persuade through rhetoric; he relies on demonstrated results and on being known to be right. When those fail to convince, he grows frustrated and sometimes contemptuous of those he deems foolish.
+He is methodical, blunt and stubborn, with a soldier's trust in what has been proved to work. He can be contemptuous of people he thinks foolish, and he is very gentle with the sick and the dying.
 
-For all this hardness, he chose the priesthood because he could no longer stomach meaningless violence. His feeling for the suffering, particularly for farmers and laborers, is real and runs deep. He tends the dying with a tenderness that surprises those who know only his gruff exterior. He has sacrificed comfort and personal advancement to remain in Tirellan rather than seek higher station in the Temple hierarchy—a choice born of real commitment to the people he serves.
+### Motivation
 
-What drives Azendas is the need to make a tangible difference in a collapsing world. Having learned through mercenary work that glory is a lie and honor is expensive, he seeks instead to build something that lasts: healthy harvests, living children, communities resilient enough to weather the empire's decline. He no longer asks whether change is possible in the grand sense; he focuses instead on whether he can stave off hunger in the next village and ease the pain of the next dying woman. It is a small ambition, but one he pursues with the same uncompromising intensity he once gave to war.
+He wants the villages of the circuit fed through every winter and their children kept alive. He has given up on mending the empire and works on the next village and the next birth.
+
+### Strengths
+
+He is a skilled healer and herbalist, he knows every village and field of the circuit, and the farmers trust him without question.
+
+### Weaknesses
+
+He will not change a method he trusts, he cannot persuade by words, and he has made opponents of the younger priests in the temple who want the circuit run another way.
 
 ## Social
 
-Azendas holds the formal rank of Senior Priest of Lizelas in the Tirellan region, answerable nominally to the Temple hierarchy in Vylaria's capital but exercising near-total autonomy in his rural circuits. The Temple trusts him precisely because he asks for so little and delivers consistent results—harvests blessed under his watch feed the temple's institutional charity, and his medical knowledge has become indispensable as Vylaria's formal physicians grow scarce.
+### Enemies
 
-Among the farming classes, his standing is unassailable. He is known as a man who keeps his word, who can be trusted with the temple's secrets and a dying person's final wishes. Farmers leave portions of their harvest at the temple not out of blind tradition but because they have seen Azendas's blessing translate into tangible survival. His status among the free commons is almost aristocratic in its stability.
+- **The younger priests of the temple** who resent his influence and his old methods, and one of them in particular, who has friends in the capital and wants the Tirellan circuit.
 
-Yet among the Temple's upper clergy and certainly among Vylaria's senatorial class, he is regarded with a complex mixture of respect and faint dismissal. He is "useful"—a priest who keeps the rural populations fed, calm, and devotional without requiring expensive imperial support. But he carries the stain of his mercenary past (whispered about even now), speaks without courtly refinement, and shows little interest in the intramural politics that consume the capital's priesthood. Some reform-minded priests see his traditional methods and resistance to changing temple practice as reactionary; some of the traditional faction appreciate his steadfastness but find his lack of ambition peculiar.
+### Others
 
-He is not part of any faction, by design. His alliance is with Lizelas and with the farming communities, in that order.
+- [[being-pirkelosholi|Pirkelos Holimandis]]: The elder of Milanthos, who set him on the goddess's road and shelters him when the temple in the capital questions his methods.
+- **The farmers and village elders of the circuit**, who leave their share of the harvest at the temple because they have seen his blessing turn into bread.
 
-## Companions
+### Affiliations
 
-**Patrons:** The farmers and village elders of the Tirellan circuit are Azendas's true patrons. Specific among them is Elder [[being-pirkelosholi|Pirkelos]] of [[place-mylanthos|Milanthos]], a former militia commander now in his seventies, who first encouraged Azendas to take up healing work and who provides shelter and local political cover whenever the Temple hierarchy questions his methods. The Temple Matriarch in the capital, [Avrella Corisande]{.name data-type="being/npc"}, respects his work enough to defend his autonomy, though she wishes he were more ambitious.
-
-**Enemies:** Azendas has few personal enemies, but he has accrued opponents through his refusal to compromise. The land-merchant [Daphanos Garela]{.name data-type="being/npc"}, who seeks to consolidate failing farmland into vast estates, views Azendas's work strengthening small-holder farmers as direct opposition to his ambitions—they have clashed twice over water rights. Several younger priests in the Temple hierarchy resent his influence and his old-fashioned methods, viewing him as an obstacle to reform. And somewhere in the declining provinces, there may still be former contract soldiers who remember Azendas's face from the Taruzel campaign and bear him grudges he does not even know about.
+- **[[affiliation-vylarinmpr|Vylarian Empire]]**: a Palvethos, a free resident under imperial law without the citizenship, and liable to the Empire's taxes.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: a _sarnor_, an ordained priest and healer, the senior priest of the faith on the Tirellan circuit.
 
 ## Plot Hooks
 
-The Failing Harvest
-: A blight spreads through the Tirellan grain fields despite Azendas's blessings and remedies, and superstitious farmers begin to whisper that he has lost Lizelas's favor. In truth, the blight is something new, perhaps carried on merchant caravans from the dying eastern provinces, and requires him to venture beyond his known methods. He must travel to the capital's great libraries to consult with the Temple's scholars before the community loses faith entirely.
+1. **The blight.** A blight has come into the barley on the upper strips at Milanthos that Azendas's blessing has not stopped, and some of the farmers whisper that Lizelas has turned from him. He asks a party to carry a sample of the blighted grain to someone who knows more than he does.
+2. **The auditor.** An auditor of the revenue has come to Tirellan to learn why the temple's harvest receipts from the circuit are so small, and Milanthos's are the smallest of all. Azendas wants to know what she has been told before she rides out to the villages.
+3. **The successor.** The temple means to give the Tirellan circuit to a younger priest with friends in the capital. Azendas asks a party to learn who the man is, and what he means to do with the villages' harvest share.
 
-A Mercenary's Shadow
-: A woman arrives in Tirellan claiming to be the widow of a man Azendas once fought beside in [[place-taruzelrgn|Taruzel]], and she carries a debt that only he can pay. She needs information about a missing shipment of weapons that may still be cached in the region, and she's willing to destroy his reputation as a man of peace to get it. The life he has built and a blood-debt from his violent past cannot both be honored.
-
-Imperial Authority
-: A new imperial auditor, aggressively reforming rural Vylaria's tax collection, arrives in Tirellan and immediately suspects that the Temple's tithes are being misdirected toward feeding the population rather than filling imperial coffers. She demands Azendas open the temple's records and justify why the harvest blessings yield so little "official yield." Azendas must either falsify records or allow the Temple's charity work to be exposed—and likely shut down.
-
-The Plague Bearer
-: A merchant caravan arrives in one of Azendas's circuit villages carrying, along with its goods, the seeds of a fever that kills rapidly. Azendas recognizes it as something from the eastern wars—the kind of sickness that military camps bred. He can isolate the village completely, dooming the trapped merchants and perhaps the village's trade, or risk spreading the contagion to neighboring communities while he seeks a cure.
-
-The Successor Question
-: Azendas's health begins to fail subtly—nothing dramatic, but enough for him to recognize mortality's approach. The Temple hierarchy wants to install a younger, politically connected priest to take over the Tirellan circuit, but Azendas fears the institutional changes this would bring. He must either groom a successor who will preserve his legacy, accept the Temple's choice, or fight to maintain control of a post he may soon be unable to fill effectively.
+:::secret {title="The store at Milanthos"}
+The temple's share from Milanthos never leaves the village. For nine harvests the sheaves carried to the Blockhouse have been threshed and stored in the tower's cellar and in pits under its floor, and the receipts Azendas sends to the temple at Tirellan record a fraction of them. He and Pirkelos agreed it in the year the imperial road's last bridge below the provincial boundary fell and the southern grain stopped coming, and in the wet summer three years ago the store fed four villages through the winter. It is taken from the temple and from the emperor's tithe on the temple's grain, and it is enough to have Azendas stripped of his rank. The auditor's books, and the successor's first harvest, would both find it.
+:::

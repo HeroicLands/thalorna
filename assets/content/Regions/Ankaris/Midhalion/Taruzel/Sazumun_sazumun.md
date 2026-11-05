@@ -100,6 +100,9 @@ Sazumun's name is the toll's, and the city has always lived by what passes its q
 [[place-sazumun2|Sazumun]]
 : the city itself
 
+[[affiliation-cnclhtsl|Council of Hitusel]]
+: the town government of Visizel, under the city-state
+
 [[place-alzriver|Alz River]]
 : the river whose mouth makes the harbor
 

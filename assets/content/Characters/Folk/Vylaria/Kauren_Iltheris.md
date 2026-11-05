@@ -89,5 +89,5 @@ His contempt for political appointees is obvious, and he makes enemies of people
 3. **The courier.** A dispatch rider brings Kauren sealed orders and stays a night longer than she needs to. Kauren wants to know whom else she has spoken to in the camp.
 
 :::secret {title="The roll"}
-Kauren knows that the legion's muster rolls carry rather more than half a legion's worth of men who are not in the camp, and that the Vallar spends their pay on the camp's roofs, fuel and bread. His irregular riders are among the men who do exist. If the officer from Orzara counts the parade, Kauren's patrols are what the legion has, and he would rather the officer counted his riders than anything else.
+Kauren knows that the legion's muster rolls carry a full legion while the camp holds rather more than half of one, and that the Vallar spends the missing men's pay on the camp's roofs, fuel and bread. His irregular riders are among the men who do exist. If the officer from Orzara counts the parade, Kauren's patrols are what the legion has, and he would rather the officer counted his riders than anything else.
 :::
