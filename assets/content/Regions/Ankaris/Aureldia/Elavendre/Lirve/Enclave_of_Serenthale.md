@@ -23,9 +23,13 @@ data:
         title: Member of the Enclave
         description: >-
           A Senalo of Serenthale, of a hearth the enclave keeps.
+      - level: 2
+        title: Lord
+        description: >-
+          A Senalo of Serenthale raised to the enclave's respect for things done and by every voice. The standing is a rank and not a holding: a lord holds no ground and governs nothing by it.
     offices:
       Lord of the Enclave: >-
-        Held by a Member of the Enclave, raised for things done and by every voice. Governs Serenthale after the Senali manner, which is not the manner of a human lordship.
+        Held by a Lord, raised to it for things done and by every voice. Governs Serenthale after the Senali manner, which is not the manner of a human lordship.
   seat: serenthale
   population: 90
   economy: []
@@ -42,7 +46,7 @@ The **Enclave of Serenthale** is the community of about ninety of the [[lore-flk
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Senalo of Serenthale belongs to a hearth the enclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and no human record names the lord of Serenthale. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
+A Senalo of Serenthale belongs to a hearth the enclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and no human record names the lord of Serenthale, who is [[being-rukkolaelvir|Rukkola Elvìrinte]]. Beside the lord of the enclave stand other lords, Senali the enclave holds in respect for things done, among them [[being-seittavonwomi|Seittavo Nwominto]] and [[being-silkelehalle|Sìlkele Hallesinto]]. A lord's standing is a rank and not a holding. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
 
 Serenthale keeps to itself even from the [[lore-aelendnppl|Áelendan]]. Its contact with them is real, respectful and rare, and it happens at the enclave's initiative and never at anyone else's. No Áelendan guides anyone to it.
 

@@ -7306,6 +7306,14 @@ data:
         - "olmarnala"
         - "olmarnatta"
         - "ressila"
+        - "rukkola"
+        - "sìlkele"
+        - "seltula"
+        - "saikila"
+        - "sìrnele"
+        - "raltila"
+        - "issaltela"
+        - "valkele"
       male:
         - "nuuvatti"
         - "kalpitti"
@@ -7366,6 +7374,14 @@ data:
         - "olmarnatti"
         - "olmarnavo"
         - "ressitti"
+        - "seittavo"
+        - "ilkaivetti"
+        - "ilsettivo"
+        - "orvakkatti"
+        - "lauppivo"
+        - "lirnavo"
+        - "aldessevo"
+        - "auldivo"
     lineage:
       - "nuuvanto"
       - "kalpinto"
@@ -7557,6 +7573,22 @@ data:
     - {name: ansorutti lonkunto, tongue: senali, built: [ansoru, -tti, lonku, -nto]}
     - {name: ansorula masserinto, tongue: senali, built: [ansoru, -la, masseri, -nto]}
     - {name: Ansorula of Ethalosse, tongue: translation}
+    - {name: rukkola elvìrinte, tongue: senali, built: [rukko, -la, elvìri, -nte]}
+    - {name: seittavo nwominto, tongue: senali, built: [seitta, -vo, nwomi, -nto]}
+    - {name: sìlkele hallesinto, tongue: senali, built: [sìlke, -le, hallesi, -nto]}
+    - {name: ilkaivetti kelkasinto, tongue: senali, built: [ilkaive, -tti, kelkasi, -nto]}
+    - {name: seltula lorraminto, tongue: senali, built: [seltu, -la, lorrami, -nto]}
+    - {name: ilsettivo unturonto, tongue: senali, built: [ilsetti, -vo, unturo, -nto]}
+    - {name: orvakkatti nìlkinte, tongue: senali, built: [orvakka, -tti, nìlki, -nte]}
+    - {name: lauppivo solmerinto, tongue: senali, built: [lauppi, -vo, solmeri, -nto]}
+    - {name: saikila mollunto, tongue: senali, built: [saiki, -la, mollu, -nto]}
+    - {name: lirnavo porkinto, tongue: senali, built: [lirna, -vo, porki, -nto]}
+    - {name: sìrnele kalpinto, tongue: senali, built: [sìrne, -le, kalpi, -nto]}
+    - {name: raltila oltessanto, tongue: senali, built: [ralti, -la, oltessa, -nto]}
+    - {name: aldessevo lapurinto, tongue: senali, built: [aldesse, -vo, lapuri, -nto]}
+    - {name: issaltela liserinto, tongue: senali, built: [issalte, -la, liseri, -nto]}
+    - {name: auldivo sulmento, tongue: senali, built: [auldi, -vo, sulme, -nto]}
+    - {name: valkele rellìnte, tongue: senali, built: [valki, -le, rellì, -nte]}
     - {name: sirmenne, tongue: older}
     - {name: veldikko, tongue: senali, built: [veldi, -kko]}
     - {name: The God of Dreams, tongue: translation}
@@ -8361,11 +8393,11 @@ A Senali known for something more carries it as an epithet, which stands after t
 
 ### Male Given Names
 
-Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Hwomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nwomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hìsseve, Ilvìtti, Tellakitti, Eilavatti, Rellìtti, Nelìvetti, Hìssetti, Pelvaitti, Tilvaitti, Esselivo, Elvìritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nwomitti, Selkitti, Nìlkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo
+Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Hwomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nwomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hìsseve, Ilvìtti, Tellakitti, Eilavatti, Rellìtti, Nelìvetti, Hìssetti, Pelvaitti, Tilvaitti, Esselivo, Elvìritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nwomitti, Selkitti, Nìlkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo, Seittavo, Ilkaivetti, Ilsettivo, Orvakkatti, Lauppivo, Lirnavo, Aldessevo, Auldivo
 
 ### Female Given Names
 
-Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Hwomala, Hwomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelìvele, Talvela, Talvetta, Nwomila, Nwomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hìssele, Hìssette, Ilvìle, Ilvìtte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rellìle, Rellìtte, Nelìvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvìrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nìlkile, Nìlkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
+Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Hwomala, Hwomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelìvele, Talvela, Talvetta, Nwomila, Nwomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hìssele, Hìssette, Ilvìle, Ilvìtte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rellìle, Rellìtte, Nelìvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvìrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nìlkile, Nìlkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta, Rukkola, Sìlkele, Seltula, Saikila, Sìrnele, Raltila, Issaltela, Valkele
 
 ### Lineage Names (Inherited Matrilineally)
 

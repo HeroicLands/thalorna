@@ -14,7 +14,7 @@ data:
   culture: senaliclt
   homes: [ethalosse]
   affiliations: {nclvthlss: {rank: 1}}
-  socialTies: {affiliation-aelndntrbs: friend}
+  socialTies: {affiliation-aelndntrbs: friend, being-raltilaoltes: patron}
   gender: female
   species: flksenali
   born: null
@@ -67,7 +67,7 @@ The carriers who come up from the lowlands, and the other Senali of the court.
 
 ### Patrons
 
-The enclave's lord, whom no human record names.
+[[being-raltilaoltes|Raltila Oltessanto]], the Lord of the Enclave, whom no human record names.
 
 ### Enemies
 

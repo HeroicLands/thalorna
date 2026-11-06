@@ -23,9 +23,13 @@ data:
         title: Member of the Enclave
         description: >-
           A Senalo of Aelirosse, of a hearth the enclave keeps.
+      - level: 2
+        title: Lord
+        description: >-
+          A Senalo of Aelirosse raised to the enclave's respect for things done and by every voice. The standing is a rank and not a holding: a lord holds no ground and governs nothing by it.
     offices:
       Lord of the Enclave: >-
-        Held by a Member of the Enclave, raised for things done and by every voice. Governs Aelirosse after the Senali manner, which is not the manner of a human lordship.
+        Held by a Lord, raised to it for things done and by every voice. Governs Aelirosse after the Senali manner, which is not the manner of a human lordship.
   seat: aelirosse
   population: 120
   economy: []
@@ -42,7 +46,7 @@ The **Enclave of Aelirosse** is the community of about a hundred and twenty of t
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Senalo of Aelirosse belongs to a hearth the enclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and no human record names the lord of Aelirosse. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
+A Senalo of Aelirosse belongs to a hearth the enclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and no human record names the lord of Aelirosse, who is [[being-orvakkatnilki|Orvakkatti Nìlkinte]]. Beside the lord of the enclave stand other lords, Senali the enclave holds in respect for things done, among them [[being-lauppivosolme|Lauppivo Solmerinto]] and [[being-saikilamollu|Saikila Mollunto]]. A lord's standing is a rank and not a holding. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
 
 What passes between the enclave and a human authority goes, as all such business does, through [[affiliation-nclvthlss|Ethalosse]] and the Áelendan who carry. What passes between Aelirosse and its Áelendan neighbors needs no carrier. Áelendan come and go without ceremony, Senali attend some Áelendan observances and are attended at some of their own, and marriage, fosterage and long friendship happen at that edge, rarely and quietly.
 

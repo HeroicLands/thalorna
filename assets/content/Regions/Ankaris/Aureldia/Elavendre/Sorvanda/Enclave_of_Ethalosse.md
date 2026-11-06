@@ -23,9 +23,13 @@ data:
         title: Member of the Enclave
         description: >-
           A Senalo of Ethalosse, of a hearth the enclave keeps.
+      - level: 2
+        title: Lord
+        description: >-
+          A Senalo of Ethalosse raised to the enclave's respect for things done and by every voice. The standing is a rank and not a holding: a lord holds no ground and governs nothing by it.
     offices:
       Lord of the Enclave: >-
-        Held by a Member of the Enclave, raised for things done and by every voice. Governs Ethalosse after the Senali manner, which is not the manner of a human lordship.
+        Held by a Lord, raised to it for things done and by every voice. Governs Ethalosse after the Senali manner, which is not the manner of a human lordship.
   seat: ethalosse
   population: 70
   economy: []
@@ -42,7 +46,7 @@ The **Enclave of Ethalosse** is the community of about seventy of the [[lore-flk
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Senalo of Ethalosse belongs to a hearth the enclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and a Senali praise-song praises the deed and withholds the doer; no human record names the lord of Ethalosse. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
+A Senalo of Ethalosse belongs to a hearth the enclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and a Senali praise-song praises the deed and withholds the doer; no human record names the lord of Ethalosse, who is [[being-raltilaoltes|Raltila Oltessanto]]. Beside the lord of the enclave stand other lords, Senali the enclave holds in respect for things done, among them [[being-aldessevolapu|Aldessevo Lapurinto]] and [[being-issaltelalise|Issaltela Liserinto]]. A lord's standing is a rank and not a holding. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
 
 The Senali do not treat with human powers directly, and they decline to explain why. They deal with the [[lore-aelendnppl|Áelendan]], and the Áelendan carry. A warning, a refusal, a question about a disturbed site or the return of something taken goes up to Ethalosse in the mouths of Áelendan elders who have been asked to carry it. The elders are received, and they go back down and speak to whoever needs speaking to. **The Áelendan carry; they do not represent.** What is carried is carried exactly, and no Áelendan claims to speak for the Senali.
 
