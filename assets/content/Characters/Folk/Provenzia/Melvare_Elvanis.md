@@ -15,7 +15,6 @@ data:
   homes: [jalnazdal, ravensholdcstl]
   affiliations: {kngdmprvnz: {rank: 6}, councilpeers: {rank: 1}, prvnzthtrclctv: {rank: 2}}
   socialTies:
-    being-kelnstylgn: friend
     being-rutalplnvr: acquaintance
     being-velzoreaitv: acquaintance
     being-chzltolmrs: dependent

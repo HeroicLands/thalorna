@@ -36,7 +36,7 @@ The quarrel between the two lords serves a third. Kilan Ilovrel wants Belsaren's
 
 - **The pressing matter.** Tarlas hires a party of strangers to find the outlaws his village will not give up ([[scenario-bndtscrvlvl|The Bandits of Keravel Vale]]).
 - **The cave below the ridge.** The village gives up the outlaws' cave, and the deposed heir makes his stand there ([[scenario-caveoutlin|Cave Outline]]).
-- **The clerk.** A clerk who drew the treason charge against the old lords lives in the village, and a party looking into the lord of Ilovren's game may need what he remembers ([[scenario-webdeceit|The Web of Deceit]]).
+- **The clerk.** A clerk who drew the treason charge against the old lords lives in the village, and a party looking into the charge may need what he remembers ([[scenario-webdeceit|The Web of Deceit]]).
 - **The road east.** Belsaren's road is the way into the Blood Hills ([[scenario-firsbldhls|The Fires of the Blood Hills]]).
 
 ## See Also

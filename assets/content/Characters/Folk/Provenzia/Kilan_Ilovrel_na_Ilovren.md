@@ -27,9 +27,7 @@ data:
     hair_color: greying_black
     skin_color: olive
     complexion: [smooth]
-    extra_features:
-      - long hands
-      - an old burn scar on the inside of the left wrist that he keeps covered
+    extra_features: [long hands]
   packFolder: aureldiaprovenzia
 ---
 

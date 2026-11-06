@@ -27,7 +27,7 @@ data:
     hair_color: chestnut
     skin_color: medium
     complexion: [sun_kissed]
-    extra_features: [thick forearms, and hands stained at the nails from the fruit]
+    extra_features: [thick forearms, hands stained at the nails from the fruit]
   packFolder: aureldiaprovenzia
 ---
 

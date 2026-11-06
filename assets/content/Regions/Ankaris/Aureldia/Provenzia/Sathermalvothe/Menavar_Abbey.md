@@ -32,7 +32,7 @@ and has never formally denied it.
 
 ## The Relic
 
-Something was kept at Ménavar that was not carried out: a relic of one of the Aureldian faiths, rumored to
+Something was kept at Ménavar that was not carried out: [[miscgear-menavarreliq|a relic]] of one of the Aureldian faiths, rumored to
 have **healing properties**, and rumored with enough consistency and for long enough that serious
 people take it seriously.
 
@@ -69,3 +69,4 @@ worth considering. See [[scenario-lstrlcmnvrby|The Lost Relic of Ménavar Abbey]
 
 - [[place-sathvothe|Satvote]] · [[place-yharvalenhenge|Yarvalen Henge]]
 - [[affiliation-arldnpnthn|Aureldian Pantheon]]
+- [[miscgear-menavarreliq|The Reliquary of Ménavar]]

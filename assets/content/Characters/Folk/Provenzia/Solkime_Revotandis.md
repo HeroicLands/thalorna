@@ -31,7 +31,7 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [wrinkled]
-    extra_features: [a stoop, and a hand that trembles when he writes]
+    extra_features: [a stoop, a hand that trembles when he writes]
   packFolder: aureldiaprovenzia
 ---
 

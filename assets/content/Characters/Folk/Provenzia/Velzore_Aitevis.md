@@ -27,7 +27,7 @@ data:
     hair_color: greying_black
     skin_color: olive
     complexion: [sallow]
-    extra_features: [ink-stained fingers on the right hand, and short sight]
+    extra_features: [ink-stained fingers on the right hand, short sight]
   packFolder: aureldiaprovenzia
 ---
 

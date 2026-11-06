@@ -25,7 +25,7 @@ The party enters as the hands of any one of them, or of none.
 
 ## What Is Really Happening {#what-is-really-happening}
 
-**The relic.** It is a reliquary of beaten silver the size of a loaf, holding the bones of the hand of the abbey's founder, a healer of the [[affiliation-lizelas|Faith of Lizelas]]. The brothers credited it with cures. Whether it heals anyone is not settled in this scenario, and nothing in it depends on the answer.
+**The relic.** [[miscgear-menavarreliq|The Reliquary of Ménavar]] is a reliquary of beaten silver the size of a loaf, holding the bones of the hand of the abbey's founder, a healer of the [[affiliation-lizelas|Faith of Lizelas]]. The brothers credited it with cures. Whether it heals anyone is not settled in this scenario, and nothing in it depends on the answer.
 
 **The plans.** The brothers drew the three plans themselves, each wrong in a different place, and gave them to three houses of the faith in the south as the fleets came in. Laid over one another, the three plans disagree about every crypt and stair, and agree about one wall: the east wall of the chapter house, which all three draw as solid. The reliquary is behind it, in a niche the brothers bricked up the night before the abbey fell.
 
@@ -131,6 +131,9 @@ The four parties send their own expeditions. The Order's and the house's are tur
 A party that gave the relic to the faith has the house of Lizelas for a friend and the Black Flame for an enemy, whether or not the relic heals anything at Yarvalen. A party that gave it to the Order has a debtor in Zedime Diravis. A party that sold it has a fortune and has done exactly what the Flame wanted. Kirama Iltoris remembers who kept her house's name out of it.
 
 ## See Also {#see-also}
+
+[[miscgear-menavarreliq|The Reliquary of Ménavar]]
+: the relic itself
 
 [[place-menavarabbey|Ménavar Abbey]]
 : the ruined house and its brothers

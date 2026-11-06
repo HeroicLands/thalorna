@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-The Maul of Gashang is a spiked mace of blackened steel made by the priest-artificers of [[affiliation-blackflame|the Black Flame]] to show what the faith holds to be the cruel and destroying face of [[lore-ustarondty|Ústaron]]. The Ashlord Hazarak Bloodhand carried it at [[lore-bloodhillsbtl|the Battle of the Blood Hills]] about 248 AF and fell with it. The Flame's zealots carried it to a cave shrine in [[place-bloodhills|the Blood Hills]] and set traps to keep it for a worthy successor.
+The [[weapongear-gashangmaul|Maul of Gashang]] is a spiked mace of blackened steel made by the priest-artificers of [[affiliation-blackflame|the Black Flame]] to show what the faith holds to be the cruel and destroying face of [[lore-ustarondty|Ústaron]]. The Ashlord Hazarak Bloodhand carried it at [[lore-bloodhillsbtl|the Battle of the Blood Hills]] about 248 AF and fell with it. The Flame's zealots carried it to a cave shrine in [[place-bloodhills|the Blood Hills]] and set traps to keep it for a worthy successor.
 
 The party enters the shrine, passes the blood gate, the fire pits and the altar, faces the guardian, and finds the maul on its pedestal. Then it must decide whether to take it, destroy it, or give it up, and to whom. This adventure follows [[scenario-firsbldhls|The Fires of the Blood Hills]] and ends the campaign.
 
@@ -138,6 +138,9 @@ Kaldin's next band passes the gate with a devotee's blood and the guardian with 
 Whatever it chose, the party has changed the vale: who holds [[place-belsaren|Belsaren]] and [[place-ilovren|Ilovren]], what the [[being-jarvelplnvr|Marshal]] owes it or holds against it, and which faith has a grievance it will carry to court.
 
 ## See Also {#see-also}
+
+[[weapongear-gashangmaul|Maul of Gashang]]
+: the weapon itself
 
 [[place-bloodhills|The Blood Hills]]
 : the field and the shrine

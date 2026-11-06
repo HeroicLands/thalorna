@@ -27,12 +27,12 @@ The house of Ilovrel has held Ilovren longer than the Pélanvri have held anythi
 Ilovren's lord has made the vale's trouble his argument. Kilan has offered the Marshal at [[place-caerceravel|Torvila Keravel]] his men and his advice, and his advice is that [[place-belsaren|Belsaren]] needs a lord who can keep its roads. He is on good terms with [[being-kaldinlnvl|Kaldin al Lénavel na Leravren]] of [[place-leravren|Leravren]], the Black Flame lord beyond the vale, which the Forge's knights mark. A message that asks a stranger to come alone to the grove near Ilovren on the night of the new moon, offering proof of Kilan's lies, is the kind of message the vale's politics produce. Whether it is an offer or a trap depends on who sent it.
 
 :::secret {title="Kilan's game"}
-Kilan is a secret sympathizer of [[affiliation-blackflame|the Black Flame]]. He has been manipulating the quarrel between the deposed lord of Belsaren and the new one, supplying the outlaw [[being-diravekldrm|Dirave al Kaldremis]] with resources and false intelligence to keep the raids going, so that the Marshal removes Belsaren's lord and accepts Kilan as the man who can restore order. What he wants from Belsaren is its timber, its minerals and its road into [[place-bloodhills|the Blood Hills]], where he believes a Black Flame artifact lies hidden. His ally Kaldin of Leravren has supplied him with Black Flame soldiers, who serve in his household as his own men.
+Kilan is a secret devotee of [[affiliation-blackflame|the Black Flame]]. The grove near Ilovren is where he keeps a monthly appointment with Kaldin's Black Flame envoys. He has been manipulating the quarrel between the deposed lord of Belsaren and the new one, supplying the outlaw [[being-diravekldrm|Dirave al Kaldremis]] with resources and false intelligence to keep the raids going, so that the Marshal removes Belsaren's lord and accepts Kilan as the man who can restore order. What he wants from Belsaren is its timber, its minerals and its road into [[place-bloodhills|the Blood Hills]], where he believes a Black Flame artifact lies hidden. His ally Kaldin of Leravren has supplied him with Black Flame soldiers, who serve in his household as his own men.
 :::
 
 ## Hooks {#hooks}
 
-- **The grove at the new moon.** A letter from the outlaws' cave names a meeting in the grove near Ilovren, and the lord of Ilovren keeps an appointment there each month ([[scenario-webdeceit|The Web of Deceit]]).
+- **The grove at the new moon.** A letter from the outlaws' cave names a meeting in the grove near Ilovren ([[scenario-webdeceit|The Web of Deceit]]).
 - **The late patrol.** An archer of Kilan's household asks a party to ride the Belsaren road on a night she knows the patrol will be sent late.
 
 ## See Also

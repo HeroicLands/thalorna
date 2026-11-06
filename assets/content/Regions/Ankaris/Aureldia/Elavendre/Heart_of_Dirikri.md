@@ -22,7 +22,7 @@ What is known of the Heart comes from one ancient scroll, recently found and now
 
 ## What It Does {#what-it-does}
 
-Growth quickens near it, and time within its Araelwen runs slow. A [[miscgear-temprlcmpss|Temporal Compass]] vibrates as it approaches the Heart, more strongly the nearer it comes.
+Growth quickens near it, and time within its Araelwen runs slow. The [[miscgear-temprlcmpss|Temporal Compass]] vibrates as it approaches the Heart, more strongly the nearer it comes.
 
 ## Who Wants It {#who-wants-it}
 

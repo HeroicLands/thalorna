@@ -27,9 +27,7 @@ data:
     hair_color: greying_brown
     skin_color: olive
     complexion: [ruddy]
-    extra_features:
-      - a heavy jaw
-      - and a left eyelid that drooped after an illness in his last years
+    extra_features: [a heavy jaw, a left eyelid that drooped after an illness in his last years]
   packFolder: provenzia
 ---
 

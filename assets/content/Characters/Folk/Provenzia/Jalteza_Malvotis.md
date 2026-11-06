@@ -27,7 +27,7 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
-    extra_features: [two fingers missing from the left hand, lost to a hawser]
+    extra_features: [two fingers missing from the left hand]
   packFolder: aureldiaprovenzia
 ---
 

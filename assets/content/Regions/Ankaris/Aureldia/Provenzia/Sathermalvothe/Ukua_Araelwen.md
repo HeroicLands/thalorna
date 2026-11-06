@@ -38,7 +38,7 @@ What the forest is, and why its time is slow, is not known to anyone who has com
 
 ## What Is There Now {#present}
 
-The Royal Loremaster [[being-aelithraenewyn|Áelithra Énevin]] holds the scroll and wants a party to carry a Temporal Compass into the forest and bring the Heart out. The Wardens know she wants it. The posts on the Provénzia side have been doubled this season, and a pair of Order agents is camped at the margin on the Élavendre side with a map they bought.
+The Royal Loremaster [[being-aelithraenewyn|Áelithra Énevin]] holds the scroll and wants a party to carry the [[miscgear-temprlcmpss|Temporal Compass]] into the forest and bring the Heart out. The Wardens know she wants it. The posts on the Provénzia side have been doubled this season, and a pair of Order agents is camped at the margin on the Élavendre side with a map they bought.
 
 ## Dangerous Neighbors {#dangerous-neighbours}
 
@@ -58,7 +58,7 @@ The Royal Loremaster [[being-aelithraenewyn|Áelithra Énevin]] holds the scroll
 
 **The Maze of Echoes.** A labyrinth of living wood and vine, shifting, that answers to sound. The correct way returns a clear, crystalline resonance. Crystals set through it must be struck in order, and wrong notes lead to dead ends.
 
-**The Heart.** A crystal at the center, behind the Maze. A Temporal Compass vibrates more strongly the nearer it comes.
+**The Heart.** A crystal at the center, behind the Maze. The Temporal Compass vibrates more strongly the nearer it comes.
 
 :::secret {title="The truth of Úkua-Araelwen"}
 The ratio is not fixed. A day at the margin is a few days outside, a day among the dryads is a month, and a day in the Maze is longer than that. The Compass does not stop the slowing. It holds the bearer's own time steady, so the party ages as it expects while the world outside runs ahead, and the longer it stays the greater the debt when it comes out.
