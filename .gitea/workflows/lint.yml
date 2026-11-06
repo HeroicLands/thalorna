@@ -96,9 +96,13 @@ jobs:
             - name: Check localization files
               if: ${{ !cancelled() }}
               run: npm run lint:lang
+            - name: Check WIP workflow gating
+              if: ${{ !cancelled() }}
+              run: node --test utils/wip-workflows.test.mjs
 
     guards:
         name: Reference people and utility tests
+        if: ${{ !startsWith(github.event.pull_request.title, 'WIP:') }}
         runs-on: lint
 
         steps:
@@ -150,6 +154,7 @@ jobs:
     # Native geometry uses FONTS_REVISION; language spellings use installed public encoders.
     fonts:
         name: Font lexicon guards
+        if: ${{ !startsWith(github.event.pull_request.title, 'WIP:') }}
         runs-on: lint
 
         steps:
@@ -238,12 +243,23 @@ jobs:
 
     lint:
         name: Content, prose, and registry checks
-        # Only reads the other jobs' results, so it takes no lint slot.
-        runs-on: ubuntu-latest
         needs: [format, guards, fonts, build]
         if: ${{ !cancelled() }}
+        # Only reads the other jobs' results, so it takes no lint slot.
+        runs-on: ubuntu-latest
 
         steps:
+            - name: Require a ready pull request
+              id: ready
+              env:
+                  PR_TITLE: ${{ github.event.pull_request.title }}
+              run: |
+                  case "${PR_TITLE-}" in
+                      [Ww][Ii][Pp]:*)
+                          echo "WIP pull request: the long checks have not run. Remove WIP with earl pr ready." >&2
+                          exit 1
+                          ;;
+                  esac
             - name: Every check passed
               run: |
                   results='${{ join(needs.*.result, ' ') }}'
@@ -251,9 +267,11 @@ jobs:
                   for r in $results; do
                       [ "$r" = success ] || { echo "a check did not pass"; exit 1; }
                   done
+              if: ${{ !startsWith(github.event.pull_request.title, 'WIP:') && steps.ready.outcome == 'success' && (success()) }}
 
     build:
         name: Content pack compile
+        if: ${{ !startsWith(github.event.pull_request.title, 'WIP:') }}
         runs-on: build
 
         steps:

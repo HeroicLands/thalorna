@@ -225,3 +225,13 @@ never a fact. A language scope uses `folders` (the notes' `data.packFolder`),
 `cultures`, `lore`, `parents`, `addresses`, `types` and `skip`.
 `utils/address-only-queries.test.mjs` fails on any note that selects by file or
 folder.
+
+## Pull request checks
+
+A pull request whose title starts with `WIP:` runs the light checks. An existing
+required check runs a short guard and fails, blocking merges while the expensive
+steps stay skipped. Remove the prefix with `earl pr ready`; it starts fresh
+required checks before scheduling a merge. Changing the title by hand does not
+start those checks. Main, release and manual runs keep their existing checks.
+
+Check the workflow gating locally with `node --test utils/wip-workflows.test.mjs`.
