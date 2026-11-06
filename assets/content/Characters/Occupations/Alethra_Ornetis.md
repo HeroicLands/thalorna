@@ -3,7 +3,7 @@ shortcode: alethraornet
 name: {full: Alethra Ornetis}
 type: being
 subType: npc
-tags: [todo, clergy]
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null

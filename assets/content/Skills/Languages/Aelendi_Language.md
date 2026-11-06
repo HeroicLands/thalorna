@@ -6766,7 +6766,7 @@ data:
     - {name: urnel, tongue: aelendi}
     - {name: "Gildand, the West Wind", tongue: translation}
     - {name: gildand, tongue: aelendi}
-    - {name: "Korsand, the Grey Wolf of the Ridge", tongue: translation}
+    - {name: "Korsand, the Gray Wolf of the Ridge", tongue: translation}
     - {name: korsand, tongue: aelendi}
     - {name: "Timel, the Hawk of the Spine", tongue: translation}
     - {name: timel, tongue: aelendi}

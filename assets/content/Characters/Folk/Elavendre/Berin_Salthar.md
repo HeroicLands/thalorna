@@ -36,7 +36,7 @@ Berin Salthar is a 39-year-old man who stands 5'11" tall and is of medium build.
 
 # Dossier {#dossier}
 
-Berin Salthar guides parties through the licensed belt behind [[place-liranel|Liranel]]. He took the Order's scouts to the lip of the Wrought Hollow in [[place-siralonke|Siralonke]], and later led a second party into the wood. He has not come home since. His wife [[being-sedrasalth|Sedra]] has asked at the guides' stand, and the guides say only that he was last seen on the ride toward the hollow.
+Berin Salthar guides parties through the licensed belt behind [[place-liranel|Liranel]]. He took the Order's scouts to the lip of the Wrought Hollow in [[place-siralonke|Siralonke]], and later led a second party into the wood. He has not come home since. His wife [[being-sedrasalth|Sedra Salthar]] has asked at the guides' stand, and the guides say only that he was last seen on the ride toward the hollow.
 
 :::secret {title="Where Berin is"}
 When Berin led the second party in, the [[affiliation-alndnwrdns|Wardens]] held him at a turf watch-hut at the forest edge, and they are sending him out of Lirve's woods for good. [[being-kelpanedhar|Kélpane]] of the Dhárgandi keeps him, and she would let Sedra see him.

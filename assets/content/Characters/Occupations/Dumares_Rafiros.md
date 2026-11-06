@@ -3,7 +3,7 @@ shortcode: dumarsrfrs
 name: {full: Dumares Rafiros}
 type: being
 subType: npc
-tags: [todo, draft, clergy]
+tags: [draft, clergy]
 data:
   icon: icon-person
   templatePriority: null

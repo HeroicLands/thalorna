@@ -3,7 +3,7 @@ shortcode: angldsptrks
 name: {full: Fodios Rores, given: Fodios, clan: Rores}
 type: being
 subType: character
-tags: [heroes-and-knaves, todo, guilded, mages]
+tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

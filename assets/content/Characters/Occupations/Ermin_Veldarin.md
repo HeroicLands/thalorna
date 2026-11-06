@@ -4,7 +4,7 @@ name: {full: Ermin Véldarin}
 type: being
 subType: npc
 description: "A gray-haired young yeoman of the crown's serjeanty at Liranel, a child of the road from a Varokh raid, set to watch the tally-house at night."
-tags: [todo-warrior, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null

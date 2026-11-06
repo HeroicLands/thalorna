@@ -3,7 +3,7 @@ shortcode: gnrthsldhfrngr
 name: {full: Gnurthselda Hafringur}
 type: being
 subType: npc
-tags: [todo-warrior, draft, soldiery]
+tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

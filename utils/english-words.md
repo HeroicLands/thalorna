@@ -72,13 +72,13 @@ The repository's cached inputs and reviewed additions are regenerated with:
 
 ```sh
 node utils/generate-english-words.mjs \
-  --base nogit/english-word-sources/wordlist-english \
-  --input nogit/english-word-sources/archaic.jsonl \
-  --input nogit/english-word-sources/obsolete.jsonl \
-  --input nogit/english-word-sources/dated.jsonl \
-  --input nogit/english-word-sources/middle-english.jsonl \
+  --base nogit/reference/wordlists/english-word-sources/wordlist-english \
+  --input nogit/reference/wordlists/english-word-sources/archaic.jsonl \
+  --input nogit/reference/wordlists/english-word-sources/obsolete.jsonl \
+  --input nogit/reference/wordlists/english-word-sources/dated.jsonl \
+  --input nogit/reference/wordlists/english-word-sources/middle-english.jsonl \
   --review utils/english-word-review.json \
-  --provenance nogit/english-word-sources/english-words.provenance.json
+  --provenance nogit/reference/wordlists/english-word-sources/english-words.provenance.json
 ```
 
 This uses the default `assets/data/english-words.json` output. The cached

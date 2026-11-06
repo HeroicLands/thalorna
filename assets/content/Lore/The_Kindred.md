@@ -77,7 +77,7 @@ through any rite of the tradition at large.
 | [[lore-salendaspr\|Sálenda of the Long Stair]]            | Water-kin   | [[place-longstair\|The Long Stair]] | [[skill-salendasprt\|Sálenda Spirit Power]]     |
 | [[lore-uronspr\|The Uron Tekhi]]                          | Place-kin   | [[place-urontekhi\|The Uron Tekhi]] | [[skill-uronsprt\|The Uron Tekhi Spirit Power]] |
 | [[lore-gilpandspr\|Gildand, the West Wind]]               | Weather-kin | _none; he is where he blows_        | [[skill-gilpandsprt\|Gildand Spirit Power]]     |
-| [[lore-porsandspr\|Korsand, the Grey Wolf of the Ridge]]  | Animal-kin  | the Drenavar Spine                  | [[skill-porsandsprt\|Korsand Spirit Power]]     |
+| [[lore-porsandspr\|Korsand, the Gray Wolf of the Ridge]]  | Animal-kin  | the Drenavar Spine                  | [[skill-porsandsprt\|Korsand Spirit Power]]     |
 | [[lore-urnelspr\|Urnel, the Bear of the High Corries]]    | Animal-kin  | the Drenavar Spine                  | [[skill-urnelsprt\|Urnel Spirit Power]]         |
 | [[lore-tipelspr\|Timel, the Hawk of the Spine]]           | Animal-kin  | the Drenavar Spine                  | [[skill-tipelsprt\|Timel Spirit Power]]         |
 | [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]] | Animal-kin  | [[place-owlhollow\|The Owl Hollow]] | [[skill-ossendasprt\|Óssenda Spirit Power]]     |

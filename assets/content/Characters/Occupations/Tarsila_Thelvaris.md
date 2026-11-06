@@ -3,7 +3,7 @@ shortcode: tarsilathelv
 name: {full: Társila Thelvaris}
 type: being
 subType: npc
-tags: [todo-warrior, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null

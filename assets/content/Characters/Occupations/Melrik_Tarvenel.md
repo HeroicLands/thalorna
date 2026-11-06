@@ -4,7 +4,7 @@ name: {full: Melrik Tárvenel}
 type: being
 subType: npc
 description: "A sworn man of the Border Militia at Valdun who scouts the forest margin and wants to know how a Varokh party knew his patrol's road."
-tags: [todo-warrior, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null

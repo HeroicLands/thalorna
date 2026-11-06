@@ -3,7 +3,7 @@ shortcode: thrnlrkhld
 name: {full: Thornila ira Rikhild wur Thornhaven}
 type: being
 subType: npc
-tags: [todo, draft, clergy]
+tags: [draft, clergy]
 data:
   icon: icon-person
   templatePriority: null

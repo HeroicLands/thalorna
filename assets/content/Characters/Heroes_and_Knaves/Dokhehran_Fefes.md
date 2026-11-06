@@ -3,7 +3,7 @@ shortcode: dkhhrnbsrn
 name: {full: Dókhehran Fefes, given: Dókhehran, clan: Fefes}
 type: being
 subType: character
-tags: [heroes-and-knaves, todo, guilded, mages]
+tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
   templatePriority: null

@@ -3,7 +3,7 @@ shortcode: delnshfrdn
 name: {full: Delanash Ferudan}
 type: being
 subType: npc
-tags: [todo-warrior, draft, soldiery]
+tags: [draft, soldiery]
 data:
   icon: icon-person
   templatePriority: null

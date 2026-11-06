@@ -3,7 +3,7 @@ shortcode: hldndrgn
 name: {full: Haldena Durgana}
 type: being
 subType: npc
-tags: [todo-warrior, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null

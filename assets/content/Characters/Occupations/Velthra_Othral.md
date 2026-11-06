@@ -4,7 +4,7 @@ name: {full: Velthra Othral}
 type: being
 subType: npc
 description: "A young priestess of Lizelas who treats the poor of Liranel's lower town from a room above a chandler's shop."
-tags: [todo, clergy]
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null

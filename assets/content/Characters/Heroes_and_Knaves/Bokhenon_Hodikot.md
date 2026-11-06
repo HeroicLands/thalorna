@@ -3,7 +3,7 @@ shortcode: lnntshdkt
 name: {full: Bokhenon Hodikot, given: Bokhenon, clan: Hodikot}
 type: being
 subType: character
-tags: [heroes-and-knaves, todo, guilded, clergy]
+tags: [heroes-and-knaves, guilded, clergy]
 data:
   icon: icon-person
   templatePriority: null

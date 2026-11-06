@@ -4,7 +4,7 @@ name: {full: Father Ostaran Dorvás, given: Ostaran, clan: Dorvás, en: [The Ár
 type: being
 subType: character
 description: "A young priest of Árdavon at Thórgila who arbitrates under the seal of Polthamis and is investigating the lord Nizel Ganotis."
-tags: [heroes-and-knaves, todo, hero, clergy]
+tags: [heroes-and-knaves, hero, clergy]
 data:
   icon: icon-person
   templatePriority: null

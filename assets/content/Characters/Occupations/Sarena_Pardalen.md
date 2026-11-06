@@ -4,7 +4,7 @@ name: {full: Sárena Párdalen}
 type: being
 subType: npc
 description: "A young itinerant priestess of Lizelas who walks a healing circuit around Sóurimel."
-tags: [todo, clergy]
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null

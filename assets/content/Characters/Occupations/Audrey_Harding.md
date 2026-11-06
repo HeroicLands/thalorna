@@ -3,7 +3,7 @@ shortcode: audryhrdng
 name: {full: Audrey Harding, aelw: [Shénasene Callista Tradewind]}
 type: being
 subType: npc
-tags: [todo, draft, clergy]
+tags: [draft, clergy]
 data:
   icon: icon-person
   templatePriority: null

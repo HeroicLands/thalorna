@@ -3,7 +3,7 @@ shortcode: helnmystks
 name: {full: Bazia Lokios, given: Bazia, clan: Lokios}
 type: being
 subType: character
-tags: [heroes-and-knaves, todo, clergy]
+tags: [heroes-and-knaves, clergy]
 data:
   icon: icon-person
   templatePriority: null

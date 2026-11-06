@@ -6813,7 +6813,7 @@ data:
     - {name: "Urnel, the Bear of the High Corries", tongue: translation}
     - {name: "Gildand, the West Wind", tongue: translation}
     - {name: Beast-Speaker, tongue: translation}
-    - {name: "Korsand, the Grey Wolf of the Ridge", tongue: translation}
+    - {name: "Korsand, the Gray Wolf of the Ridge", tongue: translation}
     - {name: Death-Speaker, tongue: translation}
     - {name: Elder Shaman, tongue: translation}
     - {name: Exiled, tongue: translation}

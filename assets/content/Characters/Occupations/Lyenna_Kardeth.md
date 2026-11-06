@@ -4,7 +4,7 @@ name: {full: Lyenna Kardeth}
 type: being
 subType: npc
 description: "The widowed head of House Kardeth of Port Aelion, who sits on the town council and whose husband was killed on the Elanmere road."
-tags: [todo, administration]
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null

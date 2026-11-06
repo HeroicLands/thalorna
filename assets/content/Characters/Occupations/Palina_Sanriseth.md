@@ -3,7 +3,7 @@ shortcode: palnsnrcth
 name: {full: Pálina Sánriseth}
 type: being
 subType: npc
-tags: [todo, clergy]
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null

@@ -14,6 +14,12 @@
  * bearer keeps: there the retired form is swept only from the notes that speak
  * of the renamed person.
  *
+ * An Adventurer's Guide is a note of type `doc` and subType `settingguide`. It is
+ * swept for the forms its culture's language lists in `data.retired`, found
+ * through the culture's `lang` key and the build configuration's language table.
+ * Only capitalized forms are swept: a lowercase retired form may be an ordinary
+ * English word.
+ *
  * Read past, because they are not prose: a `shortcode:` line, a
  * `# terran_analog:` comment, a language note's `data.retired` row, a
  * wikilink's target, a markdown link's target, an address and inline code.
@@ -21,9 +27,11 @@
 
 import assert from "node:assert/strict";
 import fs from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import test from "node:test";
-import { notePath } from "./note-index.mjs";
+import YAML from "yaml";
+import { frontmatterOf, noteFilesWhere, noteIndex, notePath } from "./note-index.mjs";
 
 const CONTENT_DIR = "assets/content";
 
@@ -438,6 +446,67 @@ function notes(dir) {
     }
     return out;
 }
+
+/**
+ * The forms a guide's culture's language retires, with the guide's file.
+ * @param {string} root The directory holding `assets/content`.
+ * @returns {{file: string, forms: string[]}[]}
+ */
+export function guideForms(root = ".") {
+    const languages =
+        YAML.parse(fs.readFileSync(path.join(root, "package-build.config.yaml"), "utf8"))
+            ?.languages ?? {};
+    const { byAddress } = noteIndex(root);
+    return noteFilesWhere((fm) => fm?.type === "doc" && fm.subType === "settingguide", root).map(
+        (file) => {
+            const culture = byAddress.get(`lore-${frontmatterOf(file, root).data?.culture}`);
+            const key = culture && frontmatterOf(culture, root).data?.lang;
+            const note = key && languages[key]?.note;
+            const language = note && byAddress.get(note);
+            const rows = (language && frontmatterOf(language, root).data?.retired) || [];
+            const proper = rows
+                .map((row) => row.form)
+                .filter((form) => /^\p{Lu}/u.test(form ?? ""));
+            return { file, forms: proper };
+        },
+    );
+}
+
+test("a guide using a form its culture's language retires is a sighting", () => {
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), "retired-guide-"));
+    const write = (name, text) => {
+        const file = path.join(root, "assets/content", name);
+        fs.mkdirSync(path.dirname(file), { recursive: true });
+        fs.writeFileSync(file, text);
+    };
+    fs.writeFileSync(
+        path.join(root, "package-build.config.yaml"),
+        "languages:\n  zz: {note: skill-zzlng, tag: zz}\n",
+    );
+    write(
+        "lang.md",
+        "---\nshortcode: zzlng\ntype: skill\nsubType: language\ndata:\n  retired:\n    - {form: Alveryn, instead: Alverin, why: x}\n---\n",
+    );
+    write(
+        "culture.md",
+        "---\nshortcode: zzclt\ntype: lore\nsubType: culture\ndata: {lang: zz}\n---\n",
+    );
+    write(
+        "guide.md",
+        "---\nshortcode: zzguide\ntype: doc\nsubType: settingguide\ndata: {culture: zzclt}\n---\nHouse Alveryn rules.\n",
+    );
+    const [{ file, forms }] = guideForms(root);
+    assert.deepEqual(forms, ["Alveryn"]);
+    assert.equal(sightings(file, fs.readFileSync(path.join(root, file), "utf8"), forms).length, 1);
+});
+
+test("no Adventurer's Guide uses a form its culture's language retires", () => {
+    const findings = [];
+    for (const { file, forms } of guideForms()) {
+        if (forms.length) findings.push(...sightings(file, fs.readFileSync(file, "utf8"), forms));
+    }
+    assert.deepEqual(findings, []);
+});
 
 test("the sweep reads prose and passes over shortcodes, link targets and analogues", () => {
     const text = [
