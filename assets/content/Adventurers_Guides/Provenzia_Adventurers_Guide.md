@@ -45,7 +45,7 @@ Provénzia's songs are sung at patrons' tables, in the temple squares and on the
 - [[lore-orderqstn|The Divided Question of the Order]], a debate sung at a patron's table in Kalveza, sets the beloved against the order of duty and recites that order as every child learns it.
 - [[lore-karalzelmnt|The Lament for Karalze]] is what the Talote sings when a patron dies, and it shows what a train is and what it becomes without its patron.
 - [[lore-morningname|The Dawn Song of the Morning Name]] is the capital's dawn song, sung late at table, and it turns on a love name that is never said in public.
-- [[lore-namelessjar|The Song of the Nameless Jar]] is sung in the temple squares at the Golden Harvest, never at a table, and its refrain is the question a guest does not ask.
+- [[lore-namelessjar|The Song of the Nameless Jar]] is sung in the temple squares at the [[lore-goldenharvest|Golden Harvest]], never at a table, and its refrain is the question a guest does not ask.
 - [[lore-lastshrine|The Song of the Last Shrine]], sung at the autumn Arrivals, follows a Volsater master past the Wayfarer's last shrine and back, and out again.
 - [[lore-saltpansongs|The Songs of the Salt Pans]] are the women's raking songs on Volsater's terraces while the boats are out.
 - [[lore-boughtlonging|How the South Bought Longing]] is told by the eldest of every house at the Festival of the Hearth, and it explains the one word of longing the south had to buy from the north.

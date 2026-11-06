@@ -40,7 +40,7 @@ The common people of Eilwith keep their customs in a few works, each tied to a r
 - [[lore-roadstops|The Ballad of the Road That Stops]] is the drovers' walking song of the Crown Road that ends at a bank of oaks, and the reason the highlands tell their children not to take it.
 - [[lore-hildricplay|The Play of Hildrik and the Grukar]] is played in the Ashford inn-yards at the autumn fair, a war against the Grukar that the march never expects to end.
 - [[lore-coldfordhead|The Head at Koldford]] is told at Wiindmarch wakes, and explains the loaf left by the dead and carried to the crossroads stone.
-- [[lore-windownaming|The Naming at the Window]] is the widow's lament said over the black candle at the Silent Passage, for dead the wood took without graves.
+- [[lore-windownaming|The Naming at the Window]] is the widow's lament said over the black candle at the [[lore-silentpassage|Silent Passage]], for dead the wood took without graves.
 - [[lore-kingswassail|The Wassail at Kingshollow]] is sung at the royal hall's door at midwinter, and asks the king for the one tree the village may cut.
 
 ## Where to Read Next

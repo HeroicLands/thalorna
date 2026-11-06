@@ -357,4 +357,4 @@ Trim the kandles‼ Hand the kup round‼ It wanteth three hours yet of light.
 
 - [[place-wyndmarch|The Wiindmarch]] · [[place-caerwynd|Kaerwiind]] · [[lore-grukaraelwyth|the Grukar of Eilwith]]
 - [[affiliation-selmoros|The Faith of Sélmoros]] · [[lore-selmorosdty|Sélmoros]]
-- [[lore-windownaming|The Naming at the Window]]—a widow of the march at the Silent Passage
+- [[lore-windownaming|The Naming at the Window]]—a widow of the march at the [[lore-silentpassage|Silent Passage]]

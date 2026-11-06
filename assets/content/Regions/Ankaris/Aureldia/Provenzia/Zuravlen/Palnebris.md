@@ -33,7 +33,7 @@ Use Palnebris as the model of a **manor run for a single high-value crop**.
 ## Officers and Custom
 
 A **steward** who runs the estate, a **bailiff** for the demesne, and an elected **reeve** who speaks
-for the tenants and is nobody's friend by the [Festival of the Golden Harvest]{.name data-type="lore/gathering"}. The **court baron** sits four times a year and
+for the tenants and is nobody's friend by the [[lore-goldenharvest|Festival of the Golden Harvest]]. The **court baron** sits four times a year and
 oftener in harvest, and its rolls are mostly water, folding and fruit-theft.
 
 The manor's custom obliges every tenant to keep the **frost vigil**—to attend with prunings and

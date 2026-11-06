@@ -84,7 +84,7 @@ Three things a dying man must settle while he hath breath: his debts, his heir, 
 
 Three the priests of the Judge bury without a fee: the pauper, the stranger, and the one no man claimeth.
 
-Three things the dead are owed: the rites of their house, their names at the Silent Passage, and their graves left where they lie.
+Three things the dead are owed: the rites of their house, their names at the [[lore-silentpassage|Silent Passage]], and their graves left where they lie.
 
 : Those That Were Here Before {#before}
 

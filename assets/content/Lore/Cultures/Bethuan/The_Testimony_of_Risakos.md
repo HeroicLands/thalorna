@@ -106,7 +106,7 @@ _Rísakos:_ I'll say them the same way. You have to say both, they told me, or t
 
 **The lamps.** I kept the lamp line forty years and it was true. You can go down into any line I dug and look back along it and the lamps will sit in a row like beads on a string. And after the master's gang went home I never lost a man to bad air, not once, in forty years. Every man on every gang of mine knew the blue flame. I beat it into them. If a man argued with me about the flame I put him on the baskets for a month. Some of them are alive because I did that. I can't tell you which. That's the way of it with air.
 
-**The boy.** There was a fall on the line at the cistern below the Hadrikes land, not a big one, and a boy of the gang was under it, [Lékhisos]{.name data-type="being/npc"}, a carrier, twelve years old. I was nearest. I dug him out with my hands, the gravel coming down on me while I dug, and I got his face clear first and then the rest, and he was alive. He's a head of a gang now himself, at the lines in the east. He sends my wife oil at the Golden Harvest. That's a good thing, and I'll say it. I'd say it louder if I had the breath.
+**The boy.** There was a fall on the line at the cistern below the Hadrikes land, not a big one, and a boy of the gang was under it, [Lékhisos]{.name data-type="being/npc"}, a carrier, twelve years old. I was nearest. I dug him out with my hands, the gravel coming down on me while I dug, and I got his face clear first and then the rest, and he was alive. He's a head of a gang now himself, at the lines in the east. He sends my wife oil at the [[lore-goldenharvest|Golden Harvest]]. That's a good thing, and I'll say it. I'd say it louder if I had the breath.
 
 **The gangs.** I taught a lot of men to dig. I taught them to listen to the sister and to watch the flame and to look back along the lamps. Most of them are still digging. You can't dig in Bethua without somebody I taught being on the gang.
 
@@ -130,7 +130,7 @@ _The priest:_ Is there anything you ask?
 
 _Rísakos:_ Three things, and I know none of them are mine to give.
 
-I ask my wife's House to send oil to the Houses of Tharkós and Nabiros at every Silent Passage for as long as it stands. Damines and Lamides. I know it's hers to give and not mine. I'm asking her. She's here. She's nodding, priest, write that down, she's nodding.
+I ask my wife's House to send oil to the Houses of Tharkós and Nabiros at every [[lore-silentpassage|Silent Passage]] for as long as it stands. Damines and Lamides. I know it's hers to give and not mine. I'm asking her. She's here. She's nodding, priest, write that down, she's nodding.
 
 I ask that somebody tell Thériria I said yes.
 

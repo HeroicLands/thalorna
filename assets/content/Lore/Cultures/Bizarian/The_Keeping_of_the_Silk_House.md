@@ -495,7 +495,7 @@ Kleitarin turin nunet‼ Egh ekhárin kleitir./
 : the keeping of the dead, the account settled aloud and the apprenticeship that is an adoption
 
 [[lore-selmorosdty|Sélmoros]]
-: the god of the Silent Passage and the black candles
+: the god of the [[lore-silentpassage|Silent Passage]] and the black candles
 
 [[lore-firstterms|The Hymn of the First Terms]]
 : the refrain she has sung since she was a bride

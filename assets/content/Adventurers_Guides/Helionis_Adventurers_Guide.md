@@ -111,7 +111,7 @@ The schools teach these works as the cities' record, and their lines turn up in 
 - [[lore-firstasking|The Herald Who Asked for the Dead]] is the legend of the first herald to ask for the dead, told at the heralds' altar before every Games, and it holds the words every herald says on the field.
 - [[lore-veillessons|The Lessons of the Silver Veil]] are the sayings a companion learns in her eight years at the Academy, and they are the rules she keeps at every table she sits at.
 - [[lore-unreceived|The Unreceived]] is the Kalidrian tragedy of the levy standing on the Sour Plain, and it says on the stage what Korinthea has not said in its assembly.
-- [[lore-silentdinner|The Dinner of the Silent Passage]] is the College of Ethics' own dialogue on whether glory is the only life the dead have, read on the first night of the Silent Passage.
+- [[lore-silentdinner|The Dinner of the Silent Passage]] is the College of Ethics' own dialogue on whether glory is the only life the dead have, read on the first night of the [[lore-silentpassage|Silent Passage]].
 
 ## What Gets a Newcomer into Trouble
 
