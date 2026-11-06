@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [kavrenath]
-  affiliations: {kngdmstrth: {rank: 3}}
+  affiliations: {kngdmstrth: {rank: 3, office: Castellan}}
   socialTies: {being-tarsilathelv: rival}
   gender: male
   species: humanflk
@@ -37,7 +37,7 @@ Tholmar Gútharen is a 44-year-old man who stands 5'11" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Tholmar Gútharen is a captain of the garrison of [[place-kavrenath|Kávrenath]], commanding the sector next to that of [[being-tarsilathelv|Társila Thelvaris]]. He is a knight of the king of Asturath's household, ambitious and politically connected.
+Tholmar Gútharen is a captain of the garrison of [[place-kavrenath|Kávrenath]], commanding the sector next to that of [[being-tarsilathelv|Társila Thelvaris]]. He is a knight of the king of Asturath's household, ambitious and politically connected, and he holds his sector's tower for the king as its castellan, answerable for its garrison and stores.
 
 He resents that she, younger and a Thelvaris, was given the more valuable Kávrenath posting. He documents her minor decisions and spreads rumors that her unit's success comes from brutality toward refugees.
 
@@ -75,7 +75,7 @@ Társila Thelvaris and Estaril Dómivar.
 
 ### Affiliations
 
-- **[[affiliation-kngdmstrth|Kingdom of Asturath]]**: Tholmar is a Knight in the garrison.
+- **[[affiliation-kngdmstrth|Kingdom of Asturath]]**: Tholmar is a Knight in the garrison and holds the office of Castellan.
 
 ## Plot Hooks
 

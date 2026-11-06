@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [polthamis]
-  affiliations: {ardavon: {rank: 5}}
+  affiliations: {ardavon: {rank: 5}, tmplplthms: {rank: 3, office: Prelate}}
   socialTies: {being-frstrndrvs: patron, being-zedimazenoth: friend}
   gender: male
   species: humanflk
@@ -37,7 +37,7 @@ Thaluro Zenothis is a 58-year-old man who stands 5'11" tall with a heavy build. 
 
 # Dossier {#dossier}
 
-Thaluro Zenothis is the Árdavonian archbishop at [[place-polthamis|Polthamis]], the prelate of the [[place-grttmplrdvn|Great Temple of Árdavon]]. He confirms the arbitrations of the faith's traveling priests under seal, and the commissions that send them into cases of noble corruption carry his seal too, with the protection those cases need from the complaints they draw.
+Thaluro Zenothis is the Árdavonian archbishop at [[place-polthamis|Polthamis]], the prelate of the [[place-grttmplrdvn|Great Temple of Árdavon]], and with the temple's chapter he rules the city under a royal charter as the [[affiliation-tmplplthms|Temple City of Polthamis]]. He confirms the arbitrations of the faith's traveling priests under seal, and the commissions that send them into cases of noble corruption carry his seal too, with the protection those cases need from the complaints they draw.
 
 He meets [[being-frstrndrvs|Father Ostaran Dorvás]] on the register four times a year. He is the brother of [[being-zedimazenoth|Zédima Zenothis]], Ostaran's mother, a kinship neither of them states. His protection holds only while the work never reaches the royal court.
 
@@ -76,6 +76,7 @@ Nizel Ganotis and the court faction that protects him.
 ### Affiliations
 
 - **[[affiliation-ardavon|Faith of Árdavon]]**: Thaluro is a Volsarnor of the faith and prelate at Polthamis.
+- **[[affiliation-tmplplthms|Temple City of Polthamis]]**: He holds the office of Prelate and rules the city with the temple's chapter.
 
 ## Plot Hooks
 

@@ -402,7 +402,7 @@ Haldena is respected and feared alike. She has few friends outside her work fami
 
 ### Patrons
 
-**Castellan Hilther Oltris**—The brother of the king, who holds the walls, the gates and their tolls. Hilther has held the walls for twelve years and has come to rely on Haldena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
+**Castellan [[being-hiltheroltr|Hilther Oltris]]**—The brother of the king, who holds the walls, the gates and their tolls. Hilther has held the walls for twelve years and has come to rely on Haldena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
 
 ### Enemies
 

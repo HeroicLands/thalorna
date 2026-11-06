@@ -34,7 +34,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [kingdmtrvn]
   relations: {}
   packFolder: tarvenia
 sohl: {system: {commonSkills: [tarvenlng]}}
@@ -46,7 +46,7 @@ The **Council of Thórgila** governs [[place-thorgila|Thórgila]], a hill town i
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The free men of Thórgila meet in council to decide what concerns the town in common, and a matter between neighbors goes to the council. Many of the town's men are away under contract for years at a time, and their wives run the farms and hold the contracts in their husbands' names. A sale at the fair is sworn at the oath stone. Once a year the town holds its autumn horse fair, the _arthauna_, and the horse-judge, the _kornazdo_, sits over it. The present horse-judge is [[being-thelvarmozk|Thelvar Mozkarreta]]. His word on a horse's age settles a sale, and at the fair's verse-duel he sets each bout and says which way the stamping went, for the fair itself is the judge.
+The free men of Thórgila meet in council to decide what concerns the town in common, and a matter between neighbors goes to the council. Many of the town's men are away under contract for years at a time, and their wives run the farms and hold the contracts in their husbands' names. A sale at the fair is sworn at the oath stone. No lord holds the town, and the council answers to the crown of [[affiliation-kingdmtrvn|Tarvénia]] directly. Once a year the town holds its autumn horse fair, the _arthauna_, and the horse-judge, the _kornazdo_, sits over it. The present horse-judge is [[being-thelvarmozk|Thelvar Mozkarreta]]. His word on a horse's age settles a sale, and at the fair's verse-duel he sets each bout and says which way the stamping went, for the fair itself is the judge.
 
 ## Current Situation {#present}
 

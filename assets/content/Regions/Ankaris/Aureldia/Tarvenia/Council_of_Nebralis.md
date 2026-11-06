@@ -38,7 +38,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [kingdmtrvn]
   relations: {}
   packFolder: tarvenia
 sohl: {system: {commonSkills: [tarvenlng]}}
@@ -50,7 +50,7 @@ The **Council of Nebralis** governs [[place-nebralis|Nebralis]], a port town on 
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The aldermen govern the town and choose a First of the Council from among themselves to preside over it. The present First is the merchant-captain [[being-gulmalenothel|Gulmaleno Thelvaris]], whose family has been gathering the harbor trade into its own hands. Most of the aldermen are men of the merchant houses. One seat belongs to the fishing cooperative, whose leader, the alderman [[being-dorandaroort|Dorándaro Orthemandis]], speaks for the common fishermen of Nebralis. Beside the council stands the older body, the [Freemen's Assembly of Nebralis]{.name data-type="affiliation/governmental"}, the communal assembly of the town and its country, in which every free man has a voice and matters of common concern are decided. The council governs the harbor town day to day, and the assembly decides what the town and its country share, and what is shared in a lean year.
+The aldermen govern the town and choose a First of the Council from among themselves to preside over it. The present First is the merchant-captain [[being-gulmalenothel|Gulmaleno Thelvaris]], whose family has been gathering the harbor trade into its own hands. Most of the aldermen are men of the merchant houses. One seat belongs to the fishing cooperative, whose leader, the alderman [[being-dorandaroort|Dorándaro Orthemandis]], speaks for the common fishermen of Nebralis. Beside the council stands the older body, the [Freemen's Assembly of Nebralis]{.name data-type="affiliation/governmental"}, the communal assembly of the town and its country, in which every free man has a voice and matters of common concern are decided. The council governs the harbor town day to day, and the assembly decides what the town and its country share, and what is shared in a lean year. No lord holds the town, and the council answers to the crown of [[affiliation-kingdmtrvn|Tarvénia]] directly.
 
 ## Current Situation {#present}
 

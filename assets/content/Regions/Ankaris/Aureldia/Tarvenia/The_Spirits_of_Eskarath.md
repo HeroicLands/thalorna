@@ -6,6 +6,7 @@ subType: spirittradition
 description: "The old faith of the Eskárathi under their nominal Aureldian worship: mountain spirits, forest guardians and the forebears, kept at shrines on the passes, at the springs and in the old oak groves."
 tags: []
 data:
+  culture: tarvenanclt
   templatePriority: null
   demonym: null
   epithet: null
@@ -35,7 +36,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Spirits of Eskarath is the faith the Eskárathi of the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] keep under their worship of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. They honor the Aureldian gods in name. In practice that worship lies over a much older tradition of the highlands, and the highland people venerate mountain spirits, forest guardians and ancestral figures alongside the gods or instead of them.
+The Spirits of Eskarath is the faith the Eskárathi of the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] keep under their worship of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. They honor the Aureldian gods in name. In practice that worship lies over a much older tradition of the highlands, and the highland people venerate mountain spirits, forest guardians and ancestral figures alongside the gods or instead of them. Its culture is the [[lore-tarvenanclt|Tarvenan]], in the strand of it the mountain clans of the free territory keep by their own customs.
 
 ## Belief {#belief}
 

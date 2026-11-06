@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [tarvenirgn]
-  population: null
+  population: 11000
   borders: [{to: talothe, bearing: W}]
   government: kingdmtrvn
   packFolder: tarvenia
@@ -27,7 +27,7 @@ The year turns on the snow. In winter the passes are shut, the valleys keep to t
 
 ## Who Holds It {#who-holds-it}
 
-Each valley is a baron's, held from a tower or a fortified house, and the baron brings its men down the pass under his own banner. No crown governs the March as a whole. The High King of [[affiliation-kingdmtrvn|Tarvénia]] claims it as he claims every Tarveni-speaking land, and the crown presses its claims on the Talote's uplands whenever the court of [[affiliation-kngdmprvnz|Provénzia]] is weak.
+Each valley is a baron's, held from a tower or a fortified house, and the baron brings its men down the pass under his own banner. About 11,000 people live in the March's valleys. No crown governs the March as a whole. The High King of [[affiliation-kingdmtrvn|Tarvénia]] claims it as he claims every Tarveni-speaking land, and the crown presses its claims on the Talote's uplands whenever the court of [[affiliation-kngdmprvnz|Provénzia]] is weak.
 
 The March's houses raise knights for the border. [[being-srdlvnthrvkknghtwstrnmrchs|Sir Dalven Thorvek]], the youngest son of a prominent house of the March, made his name in its campaigns and is known through the valleys as the Knight of the Western Marches.
 

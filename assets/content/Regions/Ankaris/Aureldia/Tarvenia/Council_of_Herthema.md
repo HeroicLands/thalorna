@@ -40,7 +40,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [kingdmtrvn]
   relations: {}
   packFolder: tarvenia
 sohl: {system: {commonSkills: [tarvenlng]}}
@@ -52,7 +52,7 @@ The **Council of Herthema** governs [[place-herthema|Herthema]], a walled town o
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The merchants of the town and the masters of its crafts hold the council's seats, and the council chooses a First of the Council from among them to preside and to speak for the town. The present First is [[being-brazemotholm|Brazemo Tholmaris]], who deals in wine and in the jars that carry it. It governs Herthema inside its walls and keeps the town's sellswords' roll: a man on the roll may take hire in Herthema lawfully, and a man the Keeper of the Roll strikes from it may not.
+The merchants of the town and the masters of its crafts hold the council's seats, and the council chooses a First of the Council from among them to preside and to speak for the town. The present First is [[being-brazemotholm|Brazemo Tholmaris]], who deals in wine and in the jars that carry it. It governs Herthema inside its walls and keeps the town's sellswords' roll: a man on the roll may take hire in Herthema lawfully, and a man the Keeper of the Roll, [[being-tharozobrazi|Tharozo Brazis]], strikes from it may not. No lord holds the town, and the council answers to the crown of [[affiliation-kingdmtrvn|Tarvénia]] directly.
 
 ## Current Situation {#present}
 

@@ -16,6 +16,14 @@ data:
     - galtsathol
     - zorganotsan
     - soraineleper
+    - gaztorogerd
+    - ibunaregoz
+    - uzarneolden
+    - aidarnearrun
+    - arrunomendur
+    - alvrkrnthl
+    - zoriladmvr
+    - valarnlvnr
   factions: [frtrtryskrth, biltzarrath, eskrthsprts, kingdmtrvn, kingdmlnrk, alndnwrdns]
   follows: []
   party: {size: null, archetypes: []}
@@ -32,9 +40,9 @@ The party arrives for any of those: a gift to carry, a messenger to follow, a gu
 
 **The factor.** Galtsa Tholmaris is a factor of Lyenrik's Master of Commerce, [[being-hiltheratsol|Hilthera Tsoluregi]]. The road is Lyenrik's. Valthari buys most of what Lyenrik sells, at prices Valthari sets, and a toll-road over Leparrun's pass to the Élavendre border would give the lowland kingdom a northern market and a second buyer. Zenoth Oltris wants it laid, or promised, before the next election, as proof that Lyenrik does not need the free city's charter to be rich.
 
-**The road is more than a road.** The terms a High King swears allow the ban only against an enemy from outside Tarvénia, and the Biltzarrath weighs every call against them before the Host-Caller summons a warrior. A road a host can use lets a king's men enter the highlands without asking. The factor does not say so, and he does not know it. His mistress does.
+**The road is more than a road.** The terms a High King swears allow the ban only against an enemy from outside Tarvénia, and the Biltzarrath weighs every call against them before the Host-Caller, [[being-arrunomendur|Arruno Mendurena]], summons a warrior. A road a host can use lets a king's men enter the highlands without asking. The factor does not say so, and he does not know it. His mistress does.
 
-**The quarrel.** A neighboring clan, the Otsanena, has drawn from Ibotsain's spring out of its turn three times. Their elder, [[being-zorganotsan|Zorgan Otsanena]], claims an older order and has not carried the claim to the Water-Warden, [[being-soraineleper|Soraine Leparena]]. The factor has sat at his hearth twice. He has offered to pay the blood owed in a feud the Otsanena cannot end, a debt that the Keeper of the Feud counts in the meadow, and he has not yet said what he wants in return.
+**The quarrel.** A neighboring clan, the Otsanena, has drawn from Ibotsain's spring out of its turn three times. Their elder, [[being-zorganotsan|Zorgan Otsanena]], claims an older order and has not carried the claim to the Water-Warden, [[being-soraineleper|Soraine Leparena]]. The factor has sat at his hearth twice. He has offered to pay the blood owed in a feud the Otsanena cannot end, a debt that the Keeper of the Feud, [[being-aidarnearrun|Aidarne Arrunena]], counts in the meadow, and he has not yet said what he wants in return.
 
 **The offering.** The offering left at the spring's shrine has been taken before dawn. The clan that took it is the same. Zorgan took it as a sign that his claim is heard by the spirit of the place, and no one else knows.
 
@@ -68,6 +76,9 @@ Ibotsain at dusk. The village stands round its spring, and the factor's gift lie
 
 **NPCs and threats.** [[being-elutsaribot|Elutsar Ibotsena]], mild and thorough. The household heads, who speak for their flocks. The factor, polite and watchful, with a guide hired in Leparrun.
 
+> [!NOTE]
+> The household heads are run as [[being-alvrkrnthl|Alvarik Árenthar]], a stock farmer, and the factor's guide as [[being-zoriladmvr|Zórila Dómivar]], a stock hunter.
+
 **Player choices.** Take Elutsar's errand, ask the factor what he serves, watch the spring at dawn, or look for who took the offering.
 
 **Clues and rewards.** The offering was taken by someone who knew the shrine's path in the dark. The gift's salt carries the mark of a Lyenrik royal store.
@@ -83,6 +94,9 @@ Ibotsain at dusk. The village stands round its spring, and the factor's gift lie
 **Situation.** The Otsanena's pastures in the next valley, where an old feud lies unended.
 
 **NPCs and threats.** [[being-zorganotsan|Zorgan Otsanena]], proud and wronged by an old order he cannot prove. The factor's offer, carried by a clerk of his who sits at the hearth. The kindred the Otsanena owe blood to.
+
+> [!NOTE]
+> The factor's clerk is run as [[being-valarnlvnr|Valaren Álvanar]], a stock clerk, and the men of the kindred as [[being-alvrkrnthl|Alvarik Árenthar]].
 
 **Player choices.** Carry Elutsar's account to Zorgan, carry Zorgan's to the Water-Warden, expose the offer, or let the factor go on.
 
@@ -100,6 +114,9 @@ Ibotsain at dusk. The village stands round its spring, and the factor's gift lie
 
 **NPCs and threats.** The surveyor, who works for the factor and answers only to him. [[being-tergadanmiri|Térgadan Mirindi]], who has come down from the high reaches and warns once. A guide of Leparrun who has taken the factor's silver.
 
+> [!NOTE]
+> The surveyor is run as [[being-valarnlvnr|Valaren Álvanar]], and the guides as [[being-zoriladmvr|Zórila Dómivar]].
+
 **Player choices.** Pull the stakes, warn the surveyor off, follow the line, or carry the stakes' placing to Elutsar.
 
 **Clues and rewards.** The line runs beyond the pass into ground the clans hold sacred. The surveyor's map shows the road on the Élavendre side to a market town.
@@ -114,7 +131,7 @@ Ibotsain at dusk. The village stands round its spring, and the factor's gift lie
 
 **Situation.** [[place-gaztorai|Gaztorai]], the high meadow, on the day of the solstice. The council sits in the open under the Truce-Warden's peace. There is no hall, no clerk and no record.
 
-**NPCs and threats.** The Speaker of the Council, the Lawkeeper, the Truce-Warden, the Keeper of the Feud, and the Host-Caller. [[being-carengrvth|Kárenna Graveth]], who gives the High King's greeting and waits to be asked about the road. The factor, who waits to be asked.
+**NPCs and threats.** The Speaker of the Council, [[being-gaztorogerd|Gaztoro Gerdoiena]]; the Lawkeeper, [[being-ibunaregoz|Ibunar Egozena]]; the Truce-Warden, [[being-uzarneolden|Uzarne Oldena]]; the Keeper of the Feud, Aidarne Arrunena; and the Host-Caller, Arruno Mendurena. [[being-carengrvth|Kárenna Graveth]], who gives the High King's greeting and waits to be asked about the road. The factor, who waits to be asked.
 
 **Player choices.** Speak through a delegate, bring the Water-Warden's account, name the road's purpose, or say nothing.
 

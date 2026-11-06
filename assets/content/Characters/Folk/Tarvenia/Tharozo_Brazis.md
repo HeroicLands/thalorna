@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [herthema]
-  affiliations: {cnclhrthm: {rank: 3}}
+  affiliations: {cnclhrthm: {rank: 3, office: Keeper of the Roll}}
   socialTies: {being-palnsnrcth: rival}
   gender: male
   species: humanflk
@@ -37,7 +37,7 @@ Tharozo Brazis is a 45-year-old man who stands 6'2" tall with a medium build. He
 
 # Dossier {#dossier}
 
-Tharozo Brazis is a wealthy merchant of [[place-herthema|Herthema]] and a Councilor of the [[affiliation-cnclhrthm|Council of Herthema]], styled Lord Tharozo by his clerks. He deals in wine and ship-timber and is one of the merchants who employ the town's bodyguards.
+Tharozo Brazis is a wealthy merchant of [[place-herthema|Herthema]] and a Councilor of the [[affiliation-cnclhrthm|Council of Herthema]], styled Lord Tharozo by his clerks. He deals in wine and ship-timber and is one of the merchants who employ the town's bodyguards. The council has named him Keeper of the Roll, so he keeps the sellswords' roll of Herthema, enters the men who may take hire in the town lawfully and strikes those who may not.
 
 He approached [[being-palnsnrcth|Pálina Sánriseth]] for intimate counsel and was rebuffed. He takes her refusal as an affront and has begun to undermine her reputation in higher circles, suggesting that her work is beneath her station.
 
@@ -75,7 +75,7 @@ Pálina Sánriseth.
 
 ### Affiliations
 
-- **[[affiliation-cnclhrthm|Council of Herthema]]**: Tharozo holds a seat as a Councilor.
+- **[[affiliation-cnclhrthm|Council of Herthema]]**: Tharozo holds a seat as a Councilor and the office of Keeper of the Roll.
 
 ## Plot Hooks
 

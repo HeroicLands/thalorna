@@ -8,7 +8,21 @@ tags: []
 data:
   parents: []
   locations: [durvolka, threskon]
-  cast: [ganothervo, brazemabetsu, korvaththal, tsalaornet, oltremobraz]
+  cast:
+    - ganothervo
+    - brazemabetsu
+    - korvaththal
+    - tsalaornet
+    - oltremobraz
+    - oztukular
+    - zurgadekaldr
+    - itsurrekanar
+    - alvrngrvth
+    - klrthdlvnr
+    - tavirdlvnr
+    - valarnlvnr
+    - elsrdrgn
+    - lrgspdr
   factions: [kngdmglvrn, frctyvlthr, consejarath, drownedroad, pozeras]
   follows: []
   party: {size: null, archetypes: []}
@@ -17,7 +31,7 @@ data:
 
 ## Overview {#overview}
 
-The crown of [[affiliation-kngdmglvrn|Galvaren]] buys its salt from the pans of [[place-threskon|Threskon]] and sells it to the curing houses of [[place-durvolka|Durvolka]] at its own price, and for the second year running the price has risen. The curing-house mistresses of the Strand have begun to buy from a ship that anchors outside the bay at night. The Warden of the Strand wants the ship named. The crown's buyers have complained to the council of [[affiliation-frctyvlthr|Valthari]] that a Valthari ship is selling past them, and the Reeve of Threskon, [[being-oltremobraz|Oltremo Brazis]], has been told to find out whose. Meanwhile the Masters' Hall elects in the autumn, and somebody is paying the herring crews to vote.
+The crown of [[affiliation-kngdmglvrn|Galvaren]] buys its salt from the pans of [[place-threskon|Threskon]] and sells it to the curing houses of [[place-durvolka|Durvolka]] at its own price, and for the second year running the price has risen. The curing-house mistresses of the Strand have begun to buy from a ship that anchors outside the bay at night. The Warden of the Strand, [[being-oztukular|Oztuk Ularris]], wants the ship named. The crown's buyers have complained to the council of [[affiliation-frctyvlthr|Valthari]] that a Valthari ship is selling past them, and the Reeve of Threskon, [[being-oltremobraz|Oltremo Brazis]], has been told to find out whose. Meanwhile the Masters' Hall elects in the autumn, and somebody is paying the herring crews to vote.
 
 The party enters on any of three errands: the king's, the mistresses', or the Reeve's. [[being-brazemabetsu|Brazema Betsuris]], who commands the king's six galleys, thinks she knows the hull.
 
@@ -38,7 +52,7 @@ The party enters on any of three errands: the king's, the mistresses', or the Re
 
 ## Hooks {#hooks}
 
-- **The leader.** Ganoth, through his Keeper of the Seal, asks a party to name the night ship before the Table sits.
+- **The leader.** Ganoth, through his Keeper of the Seal, [[being-itsurrekanar|Itsurre Kanarris]], asks a party to name the night ship before the Table sits.
 - **The mercenary.** Brazema Betsuris asks a party to row out with her on a night the fog is down.
 - **The thief.** The mistresses of the Strand pay a party to see that the Warden of the Strand does not find the ship.
 - **The wanderer.** A herring crew's cut net sends its master to ask a party who is following him home.
@@ -57,7 +71,10 @@ The Strand at the turn of the tide. The fog is in, and the boats go out by bell 
 
 **Situation.** The fish market bench, the curing houses where the cod is split and stacked, the net lofts and the cellars where the large spiders of the coast kill the rats.
 
-**NPCs and threats.** The Warden of the Strand, who hears quarrels at his bench at dawn. The curing-house mistresses, who say nothing to him. The king's Keeper of the Salt, the most resented man on the coast, who sits in the salt-house at the Lyenrik Gate.
+**NPCs and threats.** The Warden of the Strand, who hears quarrels at his bench at dawn. The curing-house mistresses, who say nothing to him. The king's Keeper of the Salt, [[being-zurgadekaldr|Zurgade Kaldris]], the most resented man on the coast, who sits in the salt-house at the Lyenrik Gate.
+
+> [!NOTE]
+> The curing-house mistresses are run as [[being-alvrngrvth|Alvaren Graveth]], a stock salter. The spiders of the cellars and lofts are [[being-lrgspdr|large spiders]], which the net-menders let be because they kill the rats.
 
 **Player choices.** Take the king's errand, take the mistresses', or ask what the crown's salt costs a cask of herring.
 
@@ -75,6 +92,9 @@ The Strand at the turn of the tide. The fog is in, and the boats go out by bell 
 
 **NPCs and threats.** [[being-tsalaornet|Tsala Ornetis]], loud and sure of her case. [[being-korvaththal|Korvath Thaluris]] of Ulhera, who has come up the coast to speak against the crown's price and is the first voice of the harbor side. Herring crews, some paid and some frightened. The two men who follow crews home.
 
+> [!NOTE]
+> The herring crews are run as [[being-tavirdlvnr|Taviro Delvanor]], a stock seaman, and their masters, the king's candidate among them, as [[being-klrthdlvnr|Kolrith Delvanor]], a stock master. The candidate's brother-in-law of the net lofts is run as [[being-alvrngrvth|Alvaren Graveth]], and the two men he hired as [[being-elsrdrgn|Élsaro Durgana]], a stock sellsword.
+
 **Player choices.** Watch the crews, follow the silver, protect a crew, or tell the king's candidate's brother-in-law what the silver is.
 
 **Clues and rewards.** The silver is Valthari coin, minted in the city's name. A crew master shows a cut net and does not say who he thinks did it.
@@ -91,6 +111,9 @@ The Strand at the turn of the tide. The fog is in, and the boats go out by bell 
 
 **NPCs and threats.** The night ship's master and crew, who will sell, run or fight depending on the party's choice. A curing house's boat alongside. Brazema, who recognizes the hull and says nothing.
 
+> [!NOTE]
+> The night ship's master is run as [[being-klrthdlvnr|Kolrith Delvanor]] and its crew as [[being-tavirdlvnr|Taviro Delvanor]]. The house's factor who pays him is run as [[being-valarnlvnr|Valaren Álvanar]], a stock clerk.
+
 **Player choices.** Board the ship, follow the boat to the headland, ring the harbor bell, or let it be.
 
 **Clues and rewards.** The cargo is white salt, not crown salt. The papers name a house of Valthari. A crew member says the master takes his orders from the Reeve's factor.
@@ -106,6 +129,9 @@ The Strand at the turn of the tide. The fog is in, and the boats go out by bell 
 **Situation.** [[place-threskon|Threskon]]. The salt sheds, the pans in squares of gray and white, the channel across the dunes, the temple of Pozeras.
 
 **NPCs and threats.** [[being-oltremobraz|Oltremo Brazis]], Reeve of Threskon, patient and courteous, who asks the party the council's question again. The masters of the salt ships, who say they sell only at the crown's quay. The house's own master, who is not in town.
+
+> [!NOTE]
+> The masters of the salt ships are run as [[being-klrthdlvnr|Kolrith Delvanor]].
 
 **Player choices.** Name the house to the Reeve, bring the name to the council, keep it, or sell the name to the crown's buyers.
 

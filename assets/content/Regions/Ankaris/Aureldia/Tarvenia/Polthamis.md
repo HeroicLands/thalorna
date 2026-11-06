@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A Tarvenan city whose Great Temple of Árdavon trains the faith's priests in theology, law and the sword, and whose prelate seals the arbitrations and commissions of its traveling priests."
 tags: []
-data: {demonym: null, lore: [], parents: [tarvenirgn], packFolder: tarvenia}
+data:
+  demonym: null
+  lore: []
+  parents: [tarvenirgn]
+  population: 8000
+  government: tmplplthms
+  packFolder: tarvenia
 ---
 
 ## Overview {#overview}
@@ -19,6 +25,8 @@ A boy who comes to the Great Temple as an acolyte studies theology, law and comb
 A village priest in Tarvénia is usually a local man, and his village resists any attempt to regularize its shrine, its priest or its festivals. The priests the Great Temple sends out are traveling priests, whose arbitrations carry its seal.
 
 ## The Prelate's Seal
+
+Polthamis is a temple city of about 8,000 people, under none of the three kingdoms. The High King of [[affiliation-kingdmtrvn|Tarvénia]] has chartered it to the Great Temple, and the prelate and the temple's chapter rule it as the [[affiliation-tmplplthms|Temple City of Polthamis]]: the prelate judges in the city, keeps its seal, and is elected for life by the chapter from its canons.
 
 The temple's reach outlasts the training. The Árdavonian prelate at Polthamis, Archbishop [[being-thalurozenot|Thaluro Zenothis]], confirms the arbitrations of the faith's traveling priests under seal, and the commissions that send them into cases of noble corruption carry that seal too, along with the protection those cases need from the complaints they draw.
 

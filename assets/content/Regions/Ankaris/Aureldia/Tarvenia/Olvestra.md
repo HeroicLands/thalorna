@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A great commercial city of Tarvénia behind the Twin Gate, home to the mother-houses of the Order of the Sealed Word and the Twinblade Order, the master register of contested oaths, and the moneylenders who make it one of the costliest markets in the west."
 tags: [city]
-data: {demonym: Ólvestran, lore: [], parents: [tarvenirgn], packFolder: tarvenia}
+data:
+  demonym: Ólvestran
+  lore: []
+  parents: [tarvenirgn]
+  population: 30000
+  government: cnclolvstr
+  packFolder: tarvenia
 ---
 
 ## Overview {#overview}
@@ -20,7 +26,7 @@ Prices inside run higher for premium goods than almost anywhere in the west, and
 
 ## Politics {#present}
 
-Influence in Ólvestra runs through its moneylenders and its two orders.
+Ólvestra is a royal city of about 30,000 people. It lies under none of the three kingdoms, and it is governed under a charter of the High King of [[affiliation-kingdmtrvn|Tarvénia]] by the [[affiliation-cnclolvstr|Council of Ólvestra]], the chartered council of its merchant and moneylending houses, whose First is [[being-iltherobetsu|Ilthero Betsuris]]. Influence in Ólvestra runs through those houses and its two orders.
 
 The great houses of [[affiliation-danvar|the Danvar]], the moneylenders' guild, keep offices here, the [House of Peleris]{.name data-type="affiliation/venture"} among them, and an Ólvestran house's notes travel far. The imperial treasury, [[affiliation-tarmex|the Tarmeks]], has suspended one of the city's major moneylender houses for political reasons: its senior partners made the wrong enemy at court. Notes that other houses cashed and forwarded to the suspended house's Tarmeks account cannot be redeemed, the houses that cashed them are exposed, and the wariness is spreading from Ólvestra across Aureldia.
 

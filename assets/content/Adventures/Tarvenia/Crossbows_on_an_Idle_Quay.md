@@ -8,7 +8,18 @@ tags: []
 data:
   parents: []
   locations: [valthari, charterhall, vlthrshpyrds]
-  cast: [hiltherbetsu, dalenavlrn, iltherahilth, hlrksbrnthr, orthemaiken, kanarrektsuk]
+  cast:
+    - hiltherbetsu
+    - dalenavlrn
+    - iltherahilth
+    - hlrksbrnthr
+    - orthemaiken
+    - kanarrektsuk
+    - ornethothol
+    - thesidlvnr
+    - valarnlvnr
+    - jolrenlvnr
+    - tavirdlvnr
   factions: [frctyvlthr, consejarath, kngdmstrth, kingdmtrvn, pozeras]
   follows: []
   party: {size: null, archetypes: []}
@@ -59,6 +70,9 @@ The hiring yards at dusk. A hundred and more crossbowmen sit on their chests amo
 
 **NPCs and threats.** [[being-kanarrektsuk|Kanarrek Tsukurreta]], steady and short of sleep. Hilther Betsuris, who recites the rolls of the dead for a coin. Agents of two other houses who walk the yards offering a passage on terms that would cost the company its contract.
 
+> [!NOTE]
+> The company's crossbowmen are run as [[being-thesidlvnr|Thésira Delvanor]], a stock sellsword. The houses' agents, the Garrundeta valley's steward and the factor in the Taruzeli Quarter are run as [[being-valarnlvnr|Valaren Álvanar]], a stock clerk.
+
 **Player choices.** Take the captain's errand, press Hilther for what he has heard, or read the contract's clause on causes beyond the master's control.
 
 **Clues and rewards.** The contract's last page names the house that holds the ship. A man in the Garrundeta colors will say, if asked, that the steward went to the Taruzeli Quarter in the spring.
@@ -75,6 +89,9 @@ The hiring yards at dusk. A hundred and more crossbowmen sit on their chests amo
 
 **NPCs and threats.** [[being-iltherahilth|Ilthera Hiltheris]], composed and weary. [[being-hlrksbrnthr|Hálrikos Bránthira]], who answers a question with the exact page. Advocates in the arcade who sell opinions to both sides.
 
+> [!NOTE]
+> The advocates are run as [[being-valarnlvnr|Valaren Álvanar]].
+
 **Player choices.** Carry the case to Hálrikos, press the bench to rule, or buy the precedent from an advocate.
 
 **Clues and rewards.** Hálrikos names the roll and the page of the pilots' refusal, in his own hand. A ruling for the seamen frees every house that could not sail, the company's clause included.
@@ -87,9 +104,12 @@ The hiring yards at dusk. A hundred and more crossbowmen sit on their chests amo
 
 **Purpose.** Find the house, and the one man who wants the strike to end.
 
-**Situation.** The shipyards. Half the slips stand empty. The shipwrights' Guild Master presses the houses and the seamen to settle, and his journeymen are losing a season.
+**Situation.** The shipyards. Half the slips stand empty. The shipwrights' Guild Master, [[being-ornethothol|Ornetho Tholmaris]], presses the houses and the seamen to settle, and his journeymen are losing a season.
 
 **NPCs and threats.** The Guild Master, who knows which slip has been quiet and which has not. [[being-orthemaiken|Orthema Ikentsis]], who comes down to the yards before the council sits and asks what a stranger has learned. A house's yard foreman who will not answer questions about the ship at anchor.
+
+> [!NOTE]
+> The yard foreman is run as [[being-jolrenlvnr|Holren Álvanar]], a stock mason.
 
 **Player choices.** Tell the First what the party knows, keep it, or bring it to the seamen.
 
@@ -106,6 +126,9 @@ The hiring yards at dusk. A hundred and more crossbowmen sit on their chests amo
 **Situation.** [[being-dalenavlrn|Dálena Valaron]]'s ship at the foot of a dark quay, her crew loyal and idle. The tide serves in the early morning and the bar is quiet.
 
 **NPCs and threats.** Dálena, who has no third course. Her crew. Two seamen of the strike who have come to learn which way she sails and who have brought friends.
+
+> [!NOTE]
+> Dálena's crew and the seamen of the strike are run as [[being-tavirdlvnr|Taviro Delvanor]], a stock seaman.
 
 **Player choices.** Take the company aboard Dálena's ship under a new contract, argue that she sail for the seamen, or find the seamen a way to let her go.
 

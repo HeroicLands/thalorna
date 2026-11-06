@@ -13,7 +13,9 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [valthari]
-  affiliations: {consejarath: {rank: 2, office: First of the Council}, frctyvlthr: {rank: 7}}
+  affiliations:
+    consejarath: {rank: 2, office: First of the Council}
+    frctyvlthr: {rank: 7, office: First of the Council}
   gender: female
   species: humanflk
   born: "672.80"
@@ -75,7 +77,7 @@ The houses that trade only along the Provénzian and Galváreni coasts, and any 
 ### Affiliations
 
 - **[[affiliation-consejarath|Konsezarath]]**: Orthema sits as a Councilor and holds the office of First of the Council.
-- **[[affiliation-frctyvlthr|Free City of Valthari]]**: She is a Councilor of the free city and the head of her house.
+- **[[affiliation-frctyvlthr|Free City of Valthari]]**: She is a Councilor of the free city and the head of her house, and holds the city's office of First of the Council.
 
 ## Plot Hooks
 

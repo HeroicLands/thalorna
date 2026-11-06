@@ -9,14 +9,14 @@ data:
   demonym: null
   lore: []
   parents: [asturath]
-  population: null
+  population: 150000
   government: kngdmstrth
   packFolder: tarvenia
 ---
 
 ## Overview {#overview}
 
-The Gray Highlands are the high country of [[place-asturath|Asturath]]: the ridges of gray limestone and darker rock above the kingdom's valley floors, the high meadows of the summer grazing, and the passes the crossbow companies take when they go abroad. A man of the high valleys names them as his country when he signs on, so that a captain is "of the Gray Highlands" in the hiring yards of [[place-valthari|Valthari]] and abroad. Their people live in the valleys below them and come up with the flocks in the summer drive.
+The Gray Highlands are the high country of [[place-asturath|Asturath]]: the ridges of gray limestone and darker rock above the kingdom's valley floors, the high meadows of the summer grazing, and the passes the crossbow companies take when they go abroad. A man of the high valleys names them as his country when he signs on, so that a captain is "of the Gray Highlands" in the hiring yards of [[place-valthari|Valthari]] and abroad. Their people, about 150,000 of them, live in the high valleys below the ridges and come up with the flocks in the summer drive.
 
 ## The Land {#the-land}
 

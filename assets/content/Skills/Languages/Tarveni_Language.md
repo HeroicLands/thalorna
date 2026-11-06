@@ -5162,6 +5162,75 @@ data:
     - {name: Castellan Hilther, tongue: translation}
     - {name: Oltremo of the Sealed Forge, tongue: tarveni}
     - {name: Elder Oltremo, tongue: translation}
+    - {name: "Átseka Volkemis", tongue: tarveni}
+    - {name: "Lady Átseka", tongue: translation}
+    - {name: the lady of Enthara, tongue: translation}
+    - {name: Zedmo Oltris, tongue: tarveni}
+    - {name: Prince Zedmo, tongue: translation}
+    - {name: Dorándara Hiltheris, tongue: tarveni}
+    - {name: Lady Dorándara, tongue: translation}
+    - {name: the Master of the Pleas, tongue: translation}
+    - {name: Tholmar Volkemis, tongue: tarveni}
+    - {name: Keeper Tholmar, tongue: translation}
+    - {name: Kaldra Lizelis, tongue: tarveni}
+    - {name: Towerkeeper Kaldra, tongue: translation}
+    - {name: Nebralo Zedimis, tongue: tarveni}
+    - {name: Bailiff Nebralo, tongue: translation}
+    - {name: Gaimel Ornetis, tongue: tarveni}
+    - {name: River Warden Gaimel, tongue: translation}
+    - {name: Volkema Ganotis, tongue: tarveni}
+    - {name: Ugarrek Thaluris, tongue: tarveni}
+    - {name: Lord Ugarrek Thaluris, tongue: translation}
+    - {name: the Marshal of the Ban, tongue: translation}
+    - {name: Itsurre Kanarris, tongue: tarveni}
+    - {name: Zurgade Kaldris, tongue: tarveni}
+    - {name: Oztuk Ularris, tongue: tarveni}
+    - {name: Oltremo Thelvaris, tongue: tarveni}
+    - {name: Reeve Oltremo, tongue: translation}
+    - {name: Tharozo Ulmis, tongue: tarveni}
+    - {name: Betsa Korvathandis, tongue: tarveni}
+    - {name: Ervotha Kanarris, tongue: tarveni}
+    - {name: Chancellor Ervotha, tongue: translation}
+    - {name: Kaldro Thaluris, tongue: tarveni}
+    - {name: Treasurer Kaldro, tongue: translation}
+    - {name: Mozkarra Betsuris, tongue: tarveni}
+    - {name: Harbormaster Mozkarra, tongue: translation}
+    - {name: Garrunda Iltheris, tongue: tarveni}
+    - {name: Thelvar Ikentsis, tongue: tarveni}
+    - {name: Consul Thelvar, tongue: translation}
+    - {name: Ozka Tholmaris, tongue: tarveni}
+    - {name: Captain Ozka, tongue: translation}
+    - {name: Nizela Orthemandis, tongue: tarveni}
+    - {name: Ornetho Tholmaris, tongue: tarveni}
+    - {name: Guild Master Ornetho, tongue: translation}
+    - {name: Ulma Ozkuregi, tongue: tarveni}
+    - {name: Thelvar Tsoluregi, tongue: tarveni}
+    - {name: Drove-Warden Thelvar, tongue: translation}
+    - {name: Ganoth Mozkarreta, tongue: tarveni}
+    - {name: Sir Ganoth, tongue: translation}
+    - {name: Garrutsa Ugarreta, tongue: tarveni}
+    - {name: Herald Garrutsa, tongue: translation}
+    - {name: Brazemo Ugarreta, tongue: tarveni}
+    - {name: the Steward of Dúrgalis, tongue: translation}
+    - {name: Tsola Galtsuregi, tongue: tarveni}
+    - {name: the Notary of Dúrgalis, tongue: translation}
+    - {name: Lizela Volkemis, tongue: tarveni}
+    - {name: Teller Lizela, tongue: translation}
+    - {name: Zekudi Betsuris, tongue: tarveni}
+    - {name: Grave-Keeper Zekudi, tongue: translation}
+    - {name: Tsukurra Ozkuregi, tongue: tarveni}
+    - {name: Wise-Woman Tsukurra, tongue: translation}
+    - {name: Thalura Iltheris, tongue: tarveni}
+    - {name: Adept Thalura, tongue: translation}
+    - {name: Ilthero Betsuris, tongue: tarveni}
+    - {name: First Ilthero, tongue: translation}
+    - {name: Orthemo Ulmis, tongue: tarveni}
+    - {name: Warden Orthemo, tongue: translation}
+    - {name: Council of Ólvestra, tongue: translation}
+    - {name: Temple City of Polthamis, tongue: translation}
+    - {name: Prelate, tongue: translation}
+    - {name: Canon, tongue: translation}
+    - {name: Townsman, tongue: translation}
   retired:
     - form: Consejarath
       instead: Konsezarath

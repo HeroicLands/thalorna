@@ -36,7 +36,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [kingdmtrvn]
   relations: {}
   packFolder: tarvenia
 sohl: {system: {commonSkills: [tarvenlng]}}
@@ -48,7 +48,9 @@ The **Council of Dúrgalis** is the assembly of the free men of [[place-durgalis
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The assembly meets on its assembly day in the square under the castle, and every free man of the town and the valley has a voice in it. It has no officer of its own. The old men and the young argue a matter round until it is settled, and a speaker who wants to be heard stands on the steps of the well. The lord's steward sits in the assembly and says what the lord thinks, which the valley weighs as one voice among the rest. The assembly governs the valley's common matters and hears the quarrels of neighbors. A contract the valley makes as a whole is sworn at the stone in the square, by the other party and by the valley, and the castle's notary writes it down, seals it with the castle's seal and reads it out when it falls due. At the autumn fair the assembly counts what the valley owes and what it is owed, and pays in the square.
+The assembly meets on its assembly day in the square under the castle, and every free man of the town and the valley has a voice in it. It has no officer of its own. The old men and the young argue a matter round until it is settled, and a speaker who wants to be heard stands on the steps of the well. The lord's steward, [[being-brazemougar|Brazemo Ugarreta]], a barley farmer of the valley floor, sits in the assembly and says what the lord thinks, which the valley weighs as one voice among the rest. He speaks for the castle, not for the assembly, and it chooses no president. The assembly governs the valley's common matters and hears the quarrels of neighbors. A contract the valley makes as a whole is sworn at the stone in the square, by the other party and by the valley, and the castle's notary, [[being-tsolagaltsur|Tsola Galtsuregi]], writes it down, seals it with the castle's seal and reads it out when it falls due. At the autumn fair the assembly counts what the valley owes and what it is owed, and pays in the square.
+
+The valley answers to the lord of the castle, [[being-ugarrektsol|Ugarrek Tsoluregi]], who holds it from the hill, and through him to the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]].
 
 ## Current Situation {#present}
 

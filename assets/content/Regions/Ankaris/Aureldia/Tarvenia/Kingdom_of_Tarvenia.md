@@ -48,7 +48,7 @@ data:
       Herald of the Crown: >-
         Held by a Freeman or above. Carries the crown's word to the lords, and rides to every lord with a seat in the High Hall when a High King dies.
   seat: lezkora
-  population: 3000000
+  population: 3500000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: []
@@ -89,7 +89,7 @@ The High King is elected at [[place-lezkora|Lezkora]], in [[place-lezkorahall|th
 
 The free city and the free territory have no voice in the hall. Valthari sends one of its councilors to hear the terms sworn, because its charter is one of them, and pays the new king the year's tribute; Eskarath sends the Speaker of its council for the same reason. A High King who breaks the terms is answered the way any lord who claims more than was agreed is answered, and the lords stop obeying him. If enough of them come up to Lezkora, they can put out the hearth and elect another, and the crown has been lost that way more than once.
 
-Local governance varies wildly. Some territories are ruled by hereditary lords in fortified hilltop castles. Others are governed by town councils of merchants and master craftsmen. The mountain clans in the interior follow their own ancient customs and acknowledge the High King only when it suits them.
+Local governance varies wildly. Some territories are ruled by hereditary lords in fortified hilltop castles. Others are governed by town councils of merchants and master craftsmen. The councils of four such towns answer to the crown, [[affiliation-cncldrgls|Dúrgalis]] through the lord of its castle and [[affiliation-cnclhrthm|Herthema]], [[affiliation-cnclnbrls|Nebralis]] and [[affiliation-cnclthrgl|Thórgila]] directly. The mountain clans in the interior follow their own ancient customs and acknowledge the High King only when it suits them.
 
 ## Current Situation {#present}
 
@@ -119,6 +119,16 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 
 [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
 : The highland territory along the northern border with [[place-elavendre|Élavendre]], home to an ancient people who predate the Tarveni migration. The Eskárathi speak their own language alongside [[skill-tarvenlng|Tarveni]], maintain their own customs and legal traditions, and acknowledge the High King only in the loosest sense. They are fiercely independent even by Tarvenan standards—which is saying something.
+
+### The Royal Cities
+
+Two cities lie under none of the three kingdoms and hold their government by the High King's charter.
+
+[[affiliation-cnclolvstr|Council of Ólvestra]]
+: The chartered council of the merchant and moneylending houses of [[place-olvestria|Ólvestra]], the moneylenders' city behind the Twin Gate and the seat of the Order of the Sealed Word.
+
+[[affiliation-tmplplthms|Temple City of Polthamis]]
+: [[place-polthamis|Polthamis]], ruled by the prelate of the Great Temple of Árdavon and his chapter.
 
 ## Character
 

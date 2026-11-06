@@ -109,7 +109,7 @@ The Kingdom of Galvaren holds the land of [[place-galvaren|Galvaren]], the fog-b
 
 ## The King and the Long Table
 
-The crown belongs to the house of Ervothandis and passes to the late king's eldest son, or failing sons to his eldest daughter. The present king, [[being-ganothervo|Ganoth Ervothandis]], came to the throne in 712 AF. He owes the High King of Tarvénia his presence at an election and his levy when the ban is called, and he owes him nothing else.
+The crown belongs to the house of Ervothandis and passes to the late king's eldest son, or failing sons to his eldest daughter. The present king, [[being-ganothervo|Ganoth Ervothandis]], came to the throne in 712 AF. He owes the High King of Tarvénia his presence at an election and his levy when the ban is called, and he owes him nothing else. The office of Queen is held only when the crown has passed to a daughter, and it stands empty while a king reigns.
 
 The king governs through the [Long Table]{.name data-type="affiliation/governmental"}, the royal council, which meets in the hall of the Headland at Durvolka four times a year and whenever the king summons it. The landed lords of the valleys sit along one side by right of their lordships. The shipmasters sit along the other, elected each autumn by the rolls of masters of the harbors: three from Durvolka, two from [[place-ulhera|Ulhera]], and one from each lesser harbor, about a dozen in all. A master keeps his seat for the year and stands again if he wants it.
 

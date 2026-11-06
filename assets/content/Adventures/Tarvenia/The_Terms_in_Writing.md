@@ -8,7 +8,19 @@ tags: []
 data:
   parents: []
   locations: [lezkora, lezkorahall, ardalis]
-  cast: [ularrekgarr, alzemozold, zenotholtr, ervothotholm, kolsailthe, hurdathol, thelvarougar]
+  cast:
+    - ularrekgarr
+    - alzemozold
+    - zenotholtr
+    - ervothotholm
+    - kolsailthe
+    - hurdathol
+    - thelvarougar
+    - tholmarvolk
+    - carengrvth
+    - valarnlvnr
+    - tarsilathelv
+    - jolrenlvnr
   factions: [kingdmtrvn, kngdmstrth, kingdmlnrk, ordrsldwrd, sacredforge]
   follows: []
   party: {size: null, archetypes: []}
@@ -25,7 +37,7 @@ The party enters on any road up the plateau: a guard hire, a pilgrim's path to t
 
 **The draft.** Clerks of the Court of Pleas at [[place-torvaleth|Torvaleth]], on the word of [[being-zenotholtr|Zenoth Oltris]], have written the terms of the crown fair. Each term is the one a High King swears at the stone: the ban only against an enemy from outside Tarvénia, the judging of quarrels, the charter of Valthari, the old arrangement with Eskarath, and nothing taken from any lord's land that the terms do not allow. The draft changes only who keeps them. The terms are to be entered in the roll of the Court of Pleas as well as in the hall's roll, and the Court's copy decides a doubt. The ban is to be called from a muster roll of every lord's banner and men, kept by the Marshal of Lyenrik, and a lord who does not come answers for it at the Court. The draft breaks no term a mountain lord would hear read aloud, and that is the danger. A king who keeps the roll and the muster needs no army, and every lord who has gripped his forearm has agreed to words that mean what the Court says they mean.
 
-**The clerk.** [[being-kolsailthe|Kolsa Iltheris]], a clerk of the Court of Pleas, copied the draft twice and refused a third copy. The Keeper of the Roll of Houses has moved her house down a place for it. She knows the draft is meant to be sworn at the next election, and that Zenoth's men in the city are carrying fair copies to read to lords in the bargaining after the voting. She has a copy of her own, written in her own hand, and she will swear at the stone to what she copied.
+**The clerk.** [[being-kolsailthe|Kolsa Iltheris]], a clerk of the Court of Pleas, copied the draft twice and refused a third copy. The Keeper of the Roll of Houses, [[being-tholmarvolk|Tholmar Volkemis]], has moved her house down a place for it. She knows the draft is meant to be sworn at the next election, and that Zenoth's men in the city are carrying fair copies to read to lords in the bargaining after the voting. She has a copy of her own, written in her own hand, and she will swear at the stone to what she copied.
 
 **The old king.** Ularrek has read the draft. [[being-ervothotholm|Ervotho Tholmaris]], the retired chief herald, sits on a bench in the yard below the hall most days and talks to the clerks of both courts. He brought the old king a copy a month ago. Ularrek has not come down because every step into the hall is a step the lowland lords' men would see, and a High King who denounces the draft before the lords gather gives Zenoth the month to rewrite it. He wants the mountain lords to hear it for the first time in the hall from a voice they trust, and he wants a witness who will swear to it. The clerk is the witness. Ervotho, who has no office, is the voice.
 
@@ -38,7 +50,7 @@ The party enters on any road up the plateau: a guard hire, a pilgrim's path to t
 
 ## Hooks {#hooks}
 
-- **The leader.** A herald of the crown asks the party to learn who has gone through the old king's door in a month, because the Warden counts the lords' men and nobody counts the king's visitors.
+- **The leader.** A herald of the crown, [[being-carengrvth|Kárenna Graveth]], asks the party to learn who has gone through the old king's door in a month, because the Warden counts the lords' men and nobody counts the king's visitors.
 - **The thief.** A lowland steward pays a party to take a clerk's copy of the draft from her lodging before she carries it upstairs.
 - **The wanderer.** Kolsa Iltheris asks a party to get her through the gate and into the hall before the Keeper of the Roll of Houses finds her.
 - **The mercenary.** The Warden of the Plateau Gate hires guards to stand watch at the cisterns, because one of the western cisterns has turned in a dry spring.
@@ -58,6 +70,9 @@ The yard between the gates at midday. The clerk stands among carters and mule-bo
 **Situation.** The two-gated tower of gray stone. The Warden's men hold the party between the gates while they look it over.
 
 **NPCs and threats.** [[being-thelvarougar|Thelvaro Ugarreta]], the Warden of the Plateau Gate, a lord for life who knows every face in the climb. A lowland steward whose lord's twelve have just gone in. The clerk, afraid.
+
+> [!NOTE]
+> The Warden's men are run as [[being-tarsilathelv|Társila Thelvaris]], a stock man-at-arms, and the lowland stewards as [[being-valarnlvnr|Valaren Álvanar]], a stock clerk.
 
 **Player choices.** Vouch for the clerk, hide her among the carters, send her up alone, or leave her at the gate.
 
@@ -91,6 +106,9 @@ The yard between the gates at midday. The clerk stands among carters and mule-bo
 
 **NPCs and threats.** [[being-hurdathol|Hurda Tholmaris]], who lives in two rooms behind the west door and opens the hall only to lords. A brother of the [[affiliation-ordrsldwrd|Order of the Sealed Word]] who sits by the chest. A lowland steward looking for the way up.
 
+> [!NOTE]
+> The brother of the Sealed Word is run as [[being-tarsilathelv|Társila Thelvaris]], a stock man-at-arms.
+
 **Player choices.** Ask the Keeper for the old king's hour, test the ledge, copy the roll's order of voting, or carry the clerk's satchel to the stone.
 
 **Clues and rewards.** The outer edge of the ledge has been worked at with a chisel, recently. The Keeper says the old king takes the air there before dawn.
@@ -120,7 +138,7 @@ The yard between the gates at midday. The clerk stands among carters and mule-bo
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
-The stewards read their fair copies to the lowland lords in the inns, one lord at a time. The clerk is found in her lodging and sent back down the road. Alzemo learns of the draft from a mountain lord who was offered a place in it, and the old king stays in his rooms. A mason of the city is paid to work the outer stone of the ledge, and the Keeper finds the scrape before the king does.
+The stewards read their fair copies to the lowland lords in the inns, one lord at a time. The clerk is found in her lodging and sent back down the road. Alzemo learns of the draft from a mountain lord who was offered a place in it, and the old king stays in his rooms. A mason of the city, run as [[being-jolrenlvnr|Holren Álvanar]], is paid to work the outer stone of the ledge, and the Keeper finds the scrape before the king does.
 
 ## Aftermath {#aftermath}
 

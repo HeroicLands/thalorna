@@ -140,7 +140,7 @@ The High King of Tarvénia is often the king of Asturath, and he is not at prese
 
 ## Offices
 
-The king's officers are few, and each holds one thing for him. The Warden of the Plateau Gate holds Lezkora's gate and road for life, the Warden of the March holds the eastern frontier from Kávrenath, the Warden of the Iron counts the king's share at [[place-ardalis|Ardalis]], and the Drove-Warden keeps the drove roads and the king's meadows from [[place-tsaberis|Tsaberis]]. The Keeper of the Roll and the Steward of the King's Valleys serve in the king's household, the heralds carry his word, and castellans hold towers for the lords who appoint them. The Captain of the Ban serves for one campaign and goes home.
+The king's officers are few, and each holds one thing for him. The Warden of the Plateau Gate holds Lezkora's gate and road for life, the Warden of the March holds the eastern frontier from Kávrenath, the Warden of the Iron counts the king's share at [[place-ardalis|Ardalis]], and the Drove-Warden keeps the drove roads and the king's meadows from [[place-tsaberis|Tsaberis]]. The Keeper of the Roll and the Steward of the King's Valleys serve in the king's household, the heralds carry his word, and castellans hold towers for the lords who appoint them. The Captain of the Ban serves for one campaign and goes home, and no ban is called at present, so the office has no holder. The Keeper of the Stone is chosen for each meeting of the council of mountain lords and holds nothing between meetings, so the office stands empty from the autumn council until the next.
 
 ## Current Situation {#present}
 

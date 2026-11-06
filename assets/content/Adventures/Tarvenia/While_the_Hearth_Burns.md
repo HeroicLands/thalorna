@@ -31,6 +31,12 @@ data:
     - carengrvth
     - hiltheratsol
     - dalenavlrn
+    - kolsailthe
+    - hurdathol
+    - kanarrektsuk
+    - tergadanmiri
+    - gaztorogerd
+    - valarnlvnr
   factions:
     - kingdmtrvn
     - kngdmstrth
@@ -61,7 +67,7 @@ The hearth in [[place-lezkorahall|the High Hall]] burns while there is a High Ki
 
 **The free city.** The [[affiliation-consejarath|Konsezarath]] of Valthari has no voice in the hall and a charter that is one of the terms. It cannot agree whether to pay the year's tribute and no more or to back the likeliest lord. Its seamen are on strike, its idle houses hold paper on half of Tarvénia, and its debts reach farther up the plateau road than its councilors know.
 
-**The highlands.** The Eskárathi send their warriors when the High King calls the ban against a foreign enemy, and the rest of Tarvénia leaves them alone in return. The Speaker of the Biltzarrath goes to Lezkora to hear the terms sworn, because the arrangement is one of them. A candidate who offers the highlands a road, a gift or a muster to be promised in advance is a candidate who has not read the arrangement.
+**The highlands.** The Eskárathi send their warriors when the High King calls the ban against a foreign enemy, and the rest of Tarvénia leaves them alone in return. The Speaker of the Biltzarrath, [[being-gaztorogerd|Gaztoro Gerdoiena]], goes to Lezkora to hear the terms sworn, because the arrangement is one of them. A candidate who offers the highlands a road, a gift or a muster to be promised in advance is a candidate who has not read the arrangement.
 
 **The Order and the roll.** The brothers of the [[affiliation-ordrsldwrd|Order of the Sealed Word]] keep the hall's roll between elections and write down each voice. The keeper of the roll writes the terms. Whoever keeps the terms keeps the crown.
 
@@ -122,8 +128,8 @@ The arcs run in the order of the season or out of it, and each moves the choosin
 1. **For a king.** Zenoth Oltris, Alzemo Zolduregi or Ganoth Ervothandis hires a party to count another king's men, carry a letter, or learn what a rival pays.
 2. **For a house.** A Valthari house, a councilor of the Konsezarath or a master of the hiring yards pays a party bound upcountry to carry a sum, a debt or a count of the lords' men.
 3. **For the crown.** A herald of the crown, or the Herald Emeritus, asks a party to learn who has gone through the old king's door.
-4. **For the companies.** A captain of a high valley hires a party to see his company aboard in time, or to carry its pay home.
-5. **For the highlands.** An elder of Eskarath, or a Warden of the Toravar, asks a party to learn whom a gift is meant to serve.
+4. **For the companies.** A captain of a high valley, such as [[being-kanarrektsuk|Kanarrek Tsukurreta]], hires a party to see his company aboard in time, or to carry its pay home.
+5. **For the highlands.** An elder of Eskarath, or a Warden of the Toravar such as [[being-tergadanmiri|Térgadan Mirindi]], asks a party to learn whom a gift is meant to serve.
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
@@ -137,13 +143,16 @@ The arcs run in the order of the season or out of it, and each moves the choosin
 
 **The debt on the High King's own valley.** A Valthari house holds the paper on the valley of Ularrek Garrundeta, bought through a factor in the Taruzeli Quarter from a steward who never told his lord. The Konsezarath does not know the house holds it, and the house means to spend it on the charter. The frame does not say who learns it first, or what Alzemo does when he does.
 
-**The terms in writing.** Zenoth's clerks have written the terms so that every word is the old word and the keeping of them is Lyenrik's. Two people outside Lyenrik have read the draft: the Herald Emeritus, who has told the old king, and a clerk of the Court of Pleas, who will swear to it. The frame does not say whether the hall hears it read before the voting.
+> [!NOTE]
+> The steward and the factor are run as [[being-valarnlvnr|Valaren Álvanar]], a stock clerk.
+
+**The terms in writing.** Zenoth's clerks have written the terms so that every word is the old word and the keeping of them is Lyenrik's. Two people outside Lyenrik have read the draft: the Herald Emeritus, who has told the old king, and a clerk of the Court of Pleas, [[being-kolsailthe|Kolsa Iltheris]], who will swear to it. The frame does not say whether the hall hears it read before the voting.
 
 **The silver on the coast.** The same house that holds the debt sells salt to Durvolka's curing houses past the crown, and its silver is buying the herring crews' votes. Ganoth Ervothandis does not know the salt is the target, and the Konsezarath does not know it is the house's doing.
 
 **The road.** Lyenrik's Master of Commerce has surveyed a road over Leparrun's pass to the Élavendre border. It would give Lyenrik a northern market and an open door to the highlands. The frame does not say whether any clan carries it home.
 
-**The ledge.** The outer stone of the ledge beside the High King's chair has been worked with a chisel this spring, and the Keeper of the Hall knows that one of the two High Kings who died there did not fall. The frame does not say who worked the stone, or whether the old king knows.
+**The ledge.** The outer stone of the ledge beside the High King's chair has been worked with a chisel this spring, and the Keeper of the Hall, [[being-hurdathol|Hurda Tholmaris]], knows that one of the two High Kings who died there did not fall. The frame does not say who worked the stone, or whether the old king knows.
 
 ## The Hooks It Gathers {#hooks}
 
