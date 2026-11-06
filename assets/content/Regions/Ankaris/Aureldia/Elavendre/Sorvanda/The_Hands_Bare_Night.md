@@ -18,7 +18,7 @@ The silver that left the bark on the night of the felling ([[lore-blacksnow|The 
 
 ## The Law Behind It
 
-No standing silver birch is felled at Sóurimel, ever, by anyone, for any reason. The night is the law's yearly sitting: the night is the village's way of asking again, as the chief's sister led the people back to the wood's edge to ask. The Sinale of [[place-aelirosse|Aelirosse]], whose dwellings are worked into living birch, are the other party to the law.
+No standing silver birch is felled at Sóurimel, ever, by anyone, for any reason. The night is the law's yearly sitting: the night is the village's way of asking again, as the chief's sister led the people back to the wood's edge to ask. The Senali of [[place-aelirosse|Aelirosse]], whose dwellings are worked into living birch, are the other party to the law.
 
 ## Outsiders
 
@@ -37,7 +37,7 @@ A party that comes up with the village sits where it is put. It hears the song a
 : the felling the night answers
 
 [[place-aelirosse|Aelirosse]]
-: the Sinale enclave whose homes are worked into the birch
+: the Senali enclave whose homes are worked into the birch
 
 [[place-silvrfrsts|The Silver Forests]]
 : the wood the village keeps terms with

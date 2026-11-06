@@ -31,7 +31,7 @@ The forests take their name from the distinctive silvery sheen of their trees' b
 
 The forests are not large in the cartographic sense, but they are difficult to measure. Travelers who have attempted to circumambulate them report inconsistent journeys—a path that took three days in one direction required five in the other, or vice versa—and maps produced by different expeditions rarely agree. Áelendan tradition holds that the forests exist partly in the mortal world and partly elsewhere, and that they cannot be straightforwardly measured because their boundaries are not entirely spatial.
 
-About 6,500 people live in the forests and at their margin: Áelendan households along the outer edge, the Élavendri village of [[place-sourimael|Sóurimel]] and the Sinale of [[place-aelirosse|Aelirosse]]. Nobody lives in the deep wood.
+About 6,500 people live in the forests and at their margin: Áelendan households along the outer edge, the Élavendri village of [[place-sourimael|Sóurimel]] and the Senali of [[place-aelirosse|Aelirosse]]. Nobody lives in the deep wood.
 
 ## Fae Presence
 
@@ -39,13 +39,13 @@ The Silver Forests are one of the thinnest places between the mortal world and t
 
 ## The Araelwen of the Forests {#present}
 
-Most of the Silver Forests is sacred ground, and within it stand [[lore-aralwen|Araelwen]], thin places that are forbidden to every outsider whatever leave he has been given for the outer margin. [[place-talve|Talve]], the fog-hollow at the forests' edge, is a door to fell things and carries the oldest watch the Áelendan keep. [[place-mallonna|Mallonna]], the deep pool the Sinale Lauva keeps, lies in the wood, and so does [[place-tehy|Tehì]], the clearing of the Uron Tekhi. Deep beyond [[place-sourimael|Sóurimel]] stands [[place-wkngstnd|the Waking Stand]], whose trees are not birch and are not still.
+Most of the Silver Forests is sacred ground, and within it stand [[lore-aralwen|Araelwen]], thin places that are forbidden to every outsider whatever leave he has been given for the outer margin. [[place-talve|Talve]], the fog-hollow at the forests' edge, is a door to fell things and carries the oldest watch the Áelendan keep. [[place-mallonna|Mallonna]], the deep pool the Senali Lauva keeps, lies in the wood, and so does [[place-tehy|Tehì]], the clearing of the Uron Tekhi. Deep beyond [[place-sourimael|Sóurimel]] stands [[place-wkngstnd|the Waking Stand]], whose trees are not birch and are not still.
 
 A strip of bark from the Waking Stand lies green in a chapterhouse collection at [[place-beravel|Péravel]], and the Order has licensed a fellow of the University to come back for a living cutting with hired guards. The Wardens of the forests know bark was taken, and they are looking for the man who took it.
 
-## Relationship with the Sinale
+## Relationship with the Senali
 
-The [[lore-flksinale|Sinale enclaves]] in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinale have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinale in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinale. Both versions may be true; the Áelendan do not consider these mutually exclusive.
+The [[lore-flksenali|Senali enclaves]] in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Senali have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Senali in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Senali. Both versions may be true; the Áelendan do not consider these mutually exclusive.
 
 ## The Felled Stand
 
@@ -58,7 +58,7 @@ At the margin of the forests nearest [[place-eshalshldg|Ésalosa Lodge]] stands 
 
 The Silver Forests are effectively closed to outsiders. The [[affiliation-alndnwrdns|Áelendan Wardens]] patrol their approaches with particular diligence, and trespass within the forests proper is treated as a violation of the most serious order. The crown of [[affiliation-kngdmlvndr|Élavendre]] has acknowledged this jurisdiction for as long as the kingdom has existed, and royal magistrates decline to hear complaints from those who enter unauthorized and fail to return.
 
-In rare cases, the Áelendan have escorted specific individuals into outer portions of the forests—usually scholars of high reputation, envoys from the Sinale, or persons who have demonstrated some particular claim on Áelendan trust. Such visits are not something one arranges; they are something one is offered, on terms one does not set.
+In rare cases, the Áelendan have escorted specific individuals into outer portions of the forests—usually scholars of high reputation, envoys from the Senali, or persons who have demonstrated some particular claim on Áelendan trust. Such visits are not something one arranges; they are something one is offered, on terms one does not set.
 
 ## See Also
 
@@ -74,20 +74,20 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 [[lore-faecourts|The Fae Courts]]
 : Related fae phenomena
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : The elder race associated with the forests
 
 [[lore-blacksnow|The Black Snow]]
 : The felling that gave the Áelendan their birch law
 
 [[place-aelirosse|Aelirosse]]
-: The Sinale enclave of the forests, near the Uron Tekhi
+: The Senali enclave of the forests, near the Uron Tekhi
 
 [[place-urontekhi|The Uron Tekhi]]
 : The ancient tree in which the spirit of the same name is seated
 
 [[place-rngtrndpths|The Ring of Turned Paths]]
-: A ring of silver birch east of Sóurimel where the Sinale turn every path away
+: A ring of silver birch east of Sóurimel where the Senali turn every path away
 
 [[place-hntrsrng|The Hunter's Ring]]
 : The ring of boundary stones on the forests' outer margin, and the hunter whose ground it holds

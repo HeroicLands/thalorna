@@ -3,22 +3,22 @@ shortcode: theasking
 name: {full: The Asking}
 type: lore
 subType: literature
-description: "A Sinalean lay held in Élavendre: the Pelwar band that came over the eastern pass, the herdsman Dhargan who sat four days at the wood's edge and asked, and the generations after him, told in nine turnings by the Sinale who watched."
+description: "A Senalian lay held in Élavendre: the Pelwar band that came over the eastern pass, the herdsman Dhargan who sat four days at the wood's edge and asked, and the generations after him, told in nine turnings by the Senali who watched."
 tags: []
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: elavendre
   form: lay
-  subjects: [lore-flksinale, lore-aelendnppl, lore-pelwarpepl, place-ethalosse]
+  subjects: [lore-flksenali, lore-aelendnppl, lore-pelwarpepl, place-ethalosse]
   lang: sina
 ---
 
-**The Asking** is a [[lore-flksinale|Sinalean]] song held in [[place-elavendre|Élavendre]]. The
+**The Asking** is a [[lore-flksenali|Senalian]] song held in [[place-elavendre|Élavendre]]. The
 [[lore-aelendnppl|Áelendan Tradition Keepers]] hold it with the tribal songs and count it, with
 [[lore-seventowers|The Seven Towers]], among the songs first heard at [[place-aelirosse|Aelirosse]]
 and carried out of [[place-silvrfrsts|the Silver Forests]] by people to whom it was given freely;
 [[affiliation-bardicolgs|the Bardic Colleges]] sing it to the harp in nine turnings, each named for what
-stands out in it. The song is the [[lore-flksinale|Sinale Folk]]'s own account of the [[lore-pelwarpepl|Pelwar band]] that came
+stands out in it. The song is the [[lore-flksenali|Senali Folk]]'s own account of the [[lore-pelwarpepl|Pelwar band]] that came
 over [[place-nelgan|the eastern pass]] into the interior ([[lore-nelgancross|The Crossing of Nelgan]]), of the herdsman [Dhargan]{.name data-type="being/npc"} who sat four days at the wood's edge and
 asked, and of the generations after him: [[lore-lowestpoolpct|the Kindred Pact]] sung at the lowest pool of [[place-longstair|the Long Stair]],
 the watch set at [[place-talve|the fog-hollow]], the chief made Kinless at the fire of [[lore-tenaspr|Tena, the Hearth of Ésalosa]] in the
@@ -26,12 +26,12 @@ the watch set at [[place-talve|the fog-hollow]], the chief made Kinless at the f
 [[place-ethalosse|Ethalosse]].
 
 The [Dhárgandi]{.name data-type="affiliation/polity"} hold that the Dhargan of the song is the founder of their line, and the [Kháldendi]{.name data-type="affiliation/polity"} are the
-line the song calls cold-handed. The Sinale have confirmed neither claim and corrected neither, and the
-Tradition Keepers sing the song as it was received, adding nothing. The Sinale names in it, for the wood,
+line the song calls cold-handed. The Senali have confirmed neither claim and corrected neither, and the
+Tradition Keepers sing the song as it was received, adding nothing. The Senali names in it, for the wood,
 the pool, the clearing, the fog-hollow and the epithet the song gives Dhargan at its close, are sung as
-the Sinale say them, and are the only Sinale words most Áelendan ever speak.
+the Senali say them, and are the only Senali words most Áelendan ever speak.
 
-The Sinale original uses first-syllable stresses, alliteration and answering lines. The translation beside it is in iambic tetrameter, rhymed ABBA.
+The Senali original uses first-syllable stresses, alliteration and answering lines. The translation beside it is in iambic tetrameter, rhymed ABBA.
 
 : I. The Last Trees {#asking-1}
 
@@ -77,7 +77,7 @@ He kept the sheep, and nothing more,/
 and did not open any door.
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-1}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-1}
 irtal nìmme auldiho nalduho/
 .penvai onsa tarnevinu halpi polpeho/
 .ahi sennevi onsa ahi sìltete onsa/
@@ -208,7 +208,7 @@ We were not friends. Not then. That took/
 four days outside, till we would look.
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-2}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-2}
 sìlpehe vennas ovuu vorasi vennas/
 .sellelle naltu vennas onsaa oltessaho sendeppistoho uulse sendeppistoho/
 .oso tenvas tirvali irvattostotos tunes/
@@ -389,7 +389,7 @@ She ate the bread when he had gone,/
 she'd done, we talked. The talk went on.
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-3}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-3}
 seltai ovuu seltoho eso ossendaho hìrrete ovuu/
 .hìrre hìrre aldevano halpi ruskel/
 .raakke nuuva irtal onsa nalduho/
@@ -462,7 +462,7 @@ tarnevi mevul hautte lenti volpe vonu oirava
 
 ahi hessave lonku ossendaho ilte lirne iltettu/
 .lonsi onsa mollu lirtìhe evi esoho/
-.eho sinalo ilte lauva onsa leltairsa/
+.eho senalo ilte lauva onsa leltairsa/
 melke seltì onsa mollu valkiho
 
 nevai onsa onsa lonku nalkai onsa/
@@ -585,7 +585,7 @@ Hauletta stood a long time there./
 back in. We left the paths laid bare.
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-4}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-4}
 ahi hessave ovuu ahi evatte ehii/
 .tìltete ehii irseli ovuu taumeltos/
 .toimunu vennas ennos tìltete ehii onsa pelpe uulse/
@@ -796,7 +796,7 @@ He went down. And the paths stayed straight/
 of us said, "He is old. We're late."
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-5}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-5}
 tenvas onsa uttes teipannu oltessaho leevi onsa/
 .issalteho salpu vennas seltoho/
 .paval onsa alken sipes onsa paltiso/
@@ -815,7 +815,7 @@ leevi onsa evatte onsa ennos kilpete lirne onsa oha ahi
 tenvas vemitelvani teipan tunes hirkel/
 .lemmes onsa selkorosa oha lemmes ehii seltoho/
 .sattai hauletta seltoho ahi erdavi onsa/
-saunarinu oha mairevi onsa sinalo iltettu
+saunarinu oha mairevi onsa senalo iltettu
 
 hìlpe hauletta uvi leevi ovu mavitos evatte [dhargan]{lang=aele}/
 .meerìnne ehi meerì oso taltai lirne vaukka/
@@ -899,7 +899,7 @@ vonu ovuu ovuutos ennos sìlpe sirnata aurannos
 
 lonsi onsa kousto vennavi leesì vennas/
 .onsa tirvaliho oso ahi irna ehii tevanni/
-.ummes ovuu sìlpehe evi sinalo ilte/
+.ummes ovuu sìlpehe evi senalo ilte/
 ehiitos vandel vonu onsa ulveli ehii
 :::
 
@@ -1067,7 +1067,7 @@ He had the face. We would find out,/
 nothing in it to make us doubt.
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-6}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-6}
 ahi hessave ovuu ahi evatte ehii/
 .alte ahi sannai ovuu sendeppi ovuu/
 .meerìkkite ovuu meerì vennas sipes penvai ovuu/
@@ -1313,7 +1313,7 @@ You asked. We said yes. We've not told/
 say no to you. The why we hold.
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-7}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-7}
 neravanno [ghalmir]{lang=aele} nalki nìke toimunuho/
 .nìke nelìvehe uulni ultas raukke onsa/
 .meerìkki vennas nemmameerì ulnavaho veltu onsa/
@@ -1391,7 +1391,7 @@ selkorosa ennos sirta onsa nalduho
 
 kessave ovuu seimakata ehii ahi sirneta ehii/
 .onsa telnu oha oso tenvas onsa/
-.ulsen ummes sennaveho ahi ertai sinalo aurannos/
+.ulsen ummes sennaveho ahi ertai senalo aurannos/
 kellavi ovuu kalpe ehii mavitos
 :::
 
@@ -1474,7 +1474,7 @@ You counted in the morning sun./
 they came, out of the trees. Each one.
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-8}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-8}
 sulme ilte hìrre vennas sorkanda aldesseho ossendaho/
 .[nelgan]{lang=aele} evatte ovuu insu nìke ovaikke/
 .taumel oso taltai ovuu hauttel vennas ulveli onsaa/
@@ -1548,7 +1548,7 @@ vatten naltu eso toimunuho oha eso sennavetos serdattota ovuu eso
 telvanita ovuu rosel teipano/
 .lellavi onsa lertiso ulpes kelpas onsa ramme alte heevete onsa tunes/
 .tenvas nìmme vennas teipano tenvas ehii entel/
-tenvas onsaa salputos ummes sinalo
+tenvas onsaa salputos ummes senalo
 :::
 
 : IX. The Giving-Over {#asking-9}
@@ -1660,7 +1660,7 @@ And some of you leave bread. We've said/
 it anyway. It is good bread.
 :::
 
-::: {.verse form=lay lang=sina enc=sinaveldikkoenc work=asking-9}
+::: {.verse form=lay lang=sina enc=senaveldikkoenc work=asking-9}
 ahi sìltete ovuu ehii seikandaho ennos/
 .pama vautti ehii seikandaho pama surnai ehii/
 .ahi raivas vennas oso seltìta ovuu evi salmira/
@@ -1769,7 +1769,7 @@ onsa alte sovaisa tarnevi onsa tennai
 
 ## The names in the song
 
-The song keeps the Áelendan names as the Áelendan say them and the Sinale names as the Sinale say them.
+The song keeps the Áelendan names as the Áelendan say them and the Senali names as the Senali say them.
 
 | Name         | Who or what                                                                                                                                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1783,15 +1783,15 @@ The song keeps the Áelendan names as the Áelendan say them and the Sinale name
 | **Mogha**    | Ghalmir's sister, a Tradition Keeper, who led the return                                                                                                                                                                         |
 | **Dulthan**  | The raiders' chief as the Áelendan name him, a name mothers use to still a child                                                                                                                                                 |
 | **Nelgan**   | [[place-nelgan                                                                                                                                     \| The eastern pass]], also called the Snow-Gate                              |
-| **Hauletta** | The eldest of the Sinale of Lonku, she who said "the sea", once a guest in the makers' halls                                                                                                                                     |
-| **Lauva**    | The Sinale whose care is the pool, who ate the bread                                                                                                                                                                             |
-| **Pilme**    | Dhargan's epithet in the Sinale tongue, "the one who sat", withheld until the song's close                                                                                                                                       |
-| **Lonku**    | [[place-silvrfrsts                                                                                                                                 \| The Silver Forests]], as the Sinale name them                              |
+| **Hauletta** | The eldest of the Senali of Lonku, she who said "the sea", once a guest in the makers' halls                                                                                                                                     |
+| **Lauva**    | The Senali whose care is the pool, who ate the bread                                                                                                                                                                             |
+| **Pilme**    | Dhargan's epithet in the Senali tongue, "the one who sat", withheld until the song's close                                                                                                                                       |
+| **Lonku**    | [[place-silvrfrsts                                                                                                                                 \| The Silver Forests]], as the Senali name them                              |
 | **Mallonna** | [[place-mallonna                                                                                                                                   \| The deep pool]] Lauva keeps, a thin place in water                         |
 | **Tehì**     | [[place-tehy                                                                                                                                       \| The clearing]] round the one tree, [[place-urontekhi   \| the Uron Tekhi]] |
 | **Talve**    | [[place-talve                                                                                                                                      \| The fog-hollow]] thin place at the wood's edge                             |
 
 ## See Also
 
-- [[lore-seventowers|The Seven Towers]] · [[lore-flksinale|Sinale]] · [[lore-aelendnppl|Áelendan People]]
+- [[lore-seventowers|The Seven Towers]] · [[lore-flksenali|Senali]] · [[lore-aelendnppl|Áelendan People]]
 - [[place-aelirosse|Aelirosse]] · [[place-ethalosse|Ethalosse]] · [[affiliation-bardicolgs|the Bardic Colleges]]

@@ -3,7 +3,7 @@ shortcode: kalvirneilsv
 name: {full: Kálvirne Ílsevende}
 type: being
 subType: npc
-description: "The Master of the College of Tongues at Liranel, who keeps its curriculum in Áelendi, the carved rune-row and the fragments of Sinalean, and says which pupils go up the valleys as interpreters."
+description: "The Master of the College of Tongues at Liranel, who keeps its curriculum in Áelendi, the carved rune-row and the fragments of Senalian, and says which pupils go up the valleys as interpreters."
 tags: []
 data:
   icon: icon-person
@@ -40,7 +40,7 @@ Kálvirne Ílsevende is a 60-year-old man who stands 5'11" tall and is of light 
 
 # Dossier {#dossier}
 
-Kálvirne Ílsevende is the Master of [[affiliation-clgtongues|the College of Tongues]] at [[place-liranel|Liranel]], the College of [[affiliation-bardicolgs|the Bardic Colleges]] that teaches [[skill-aelendlng|Áelendi]], the carved rune-row and the fragments of Sinalean, and licenses the interpreters who go up the valleys. He keeps the curriculum and says which pupils go, and no pupil goes until the Examiner of Tongues has tested him in speech and in the carved word.
+Kálvirne Ílsevende is the Master of [[affiliation-clgtongues|the College of Tongues]] at [[place-liranel|Liranel]], the College of [[affiliation-bardicolgs|the Bardic Colleges]] that teaches [[skill-aelendlng|Áelendi]], the carved rune-row and the fragments of Senalian, and licenses the interpreters who go up the valleys. He keeps the curriculum and says which pupils go, and no pupil goes until the Examiner of Tongues has tested him in speech and in the carved word.
 
 His quarrel is with his own pupils' road. The College refuses the Order's patronage, and yet pupils of the College walk to the margins as interpreters with Order parties, because the parties hire them in Liranel's inns and pay. The Circle has asked what the College means to do about it, and Kálvirne has not answered. He holds that an interpreter is better than none at the tree line, and that a College pupil at least says plainly what a Warden said.
 

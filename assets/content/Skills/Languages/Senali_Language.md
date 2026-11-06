@@ -1,6 +1,6 @@
 ---
-shortcode: sinalelng
-name: {full: Sinale Language, en: [Elder Tongue]}
+shortcode: senalilng
+name: {full: Senali Language, en: [Elder Tongue]}
 type: skill
 subType: language
 description: "The eldest of the Elder Tongues—vowel-heavy, clean-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
@@ -26,12 +26,12 @@ data:
     - name: "Kin, hearth, the person and the body"
       holds: "The hearth and the household, kin and guest, the parts of the body, eating, sleep and love."
     - name: "Time: age, season, waiting and the long view"
-      holds: "Time as the Sinale reckon it: ages, years, seasons, beginnings, ends and patience."
+      holds: "Time as the Senali reckon it: ages, years, seasons, beginnings, ends and patience."
     - name: "The fae, the thin places, dream and the god"
       holds: "Dream and vision, the veil and the places it wears thin, the fae, spirits, wards and rites."
     - name: "Death, loss, grief and the Shadow"
       holds: "Death and the dead, grief and its songs, wounds, fear, corruption and the Shadow."
-    - {name: Other peoples, holds: "The peoples who are not Sinale, and the things they build."}
+    - {name: Other peoples, holds: "The peoples who are not Senali, and the things they build."}
     - name: "Motion, rest and being"
       holds: "Going and coming, rest and stillness, seeing, knowing and living."
     - name: "Grammar words: pronouns, particles, numbers and pointing words"
@@ -1258,7 +1258,7 @@ data:
     - form: veldikko
       class: "n"
       field: "Song, speech, memory and the telling"
-      gloss: "the gathered hand; the Sinale script"
+      gloss: "the gathered hand; the Senali script"
       built: [veldi, "-kko"]
     - form: kilpekki
       class: "n"
@@ -1669,10 +1669,10 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "a person"
       concept: person
-    - form: sinalo
+    - form: senalo
       class: "n"
       field: "Kin, hearth, the person and the body"
-      gloss: "one of the Sinale"
+      gloss: "one of the Senali"
     - form: taumel
       class: n
       field: "Kin, hearth, the person and the body"
@@ -2159,7 +2159,7 @@ data:
     - form: aulveira
       class: "n"
       field: "The fae, the thin places, dream and the god"
-      gloss: "light and dream as one; the Sinale name of the God of Dreams"
+      gloss: "light and dream as one; the Senali name of the God of Dreams"
     - form: raivas
       class: "n"
       field: "The fae, the thin places, dream and the god"
@@ -2264,7 +2264,7 @@ data:
       variants: [ultasaldevano]
       class: "n"
       field: "The fae, the thin places, dream and the god"
-      gloss: "the deeper places, where the fae are and no Sinalo has a claim"
+      gloss: "the deeper places, where the fae are and no Senalo has a claim"
       built: [ultas, aldevan]
     - form: seirata
       class: v
@@ -7520,7 +7520,7 @@ data:
       barredAfter: [t]
     - {form: -nto, front: -nte, gloss: lineage, kind: lineage, barredAfter: [n]}
   older:
-    - {form: Sinale, gloss: the people's name for themselves and their tongue, layer: Primordial}
+    - {form: Senali, gloss: the people's name for themselves and their tongue, layer: Primordial}
     - form: Haulonna
       gloss: the hearth of the unfallen leaf; an enclave of the north
       layer: Primordial
@@ -7531,43 +7531,43 @@ data:
       gloss: the hearth of the deep pool; a thin place in water
       layer: Primordial
     - form: Lauva
-      gloss: one whose care is a pool; the name of a Sinale woman of the old stock
+      gloss: one whose care is a pool; the name of a Senali woman of the old stock
       layer: Primordial
   tongues:
-    - {tag: sinale, meaning: a Sinale word, language: skill-sinalelng}
+    - {tag: senali, meaning: a Senali word, language: skill-senalilng}
     - tag: older
-      meaning: a Sinale word older than the rules the language page states
-      language: skill-sinalelng
+      meaning: a Senali word older than the rules the language page states
+      language: skill-senalilng
     - {tag: exonym, meaning: "a name another people gives, its tongue not stated"}
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
-    - {name: sinale, tongue: older}
+    - {name: senali, tongue: older}
     - {name: dulthan, tongue: exonym:aelendi}
     - {name: mogha, tongue: exonym:aelendi}
     - {name: ghalmir, tongue: exonym:aelendi}
     - {name: ansel, tongue: exonym:aelendi}
     - {name: dranketh, tongue: exonym:aelendi}
     - {name: silor, tongue: exonym:aelendi}
-    - {name: Sinalean, tongue: translation}
-    - {name: sinalo, tongue: sinale, built: [sinalo]}
+    - {name: Senalian, tongue: translation}
+    - {name: senalo, tongue: senali, built: [senalo]}
     - {name: haulonna, tongue: older}
-    - {name: haulonnaho, tongue: sinale, built: [haulonna, -ho], gloss: in Haulonna}
+    - {name: haulonnaho, tongue: senali, built: [haulonna, -ho], gloss: in Haulonna}
     - {name: thalmdal, tongue: exonym:nordmal}
-    - {name: ansorutti lonkunto, tongue: sinale, built: [ansoru, -tti, lonku, -nto]}
-    - {name: ansorula masserinto, tongue: sinale, built: [ansoru, -la, masseri, -nto]}
+    - {name: ansorutti lonkunto, tongue: senali, built: [ansoru, -tti, lonku, -nto]}
+    - {name: ansorula masserinto, tongue: senali, built: [ansoru, -la, masseri, -nto]}
     - {name: Ansorula of Ethalosse, tongue: translation}
     - {name: sirmenne, tongue: older}
-    - {name: veldikko, tongue: sinale, built: [veldi, -kko]}
+    - {name: veldikko, tongue: senali, built: [veldi, -kko]}
     - {name: The God of Dreams, tongue: translation}
-    - {name: aulveira, tongue: sinale, built: [aulveira]}
-    - {name: aulirakko, tongue: sinale, built: [aulira, -kko]}
+    - {name: aulveira, tongue: senali, built: [aulveira]}
+    - {name: aulirakko, tongue: senali, built: [aulira, -kko]}
     - {name: lubát, tongue: exonym:khazari}
     - {name: bjart, tongue: exonym:nordmal}
     - {name: zunelas, tongue: exonym}
-    - {name: ansorun, tongue: sinale, built: [ansorun]}
+    - {name: ansorun, tongue: senali, built: [ansorun]}
     - {name: Long-Watcher, tongue: translation}
-    - {name: iltorin, tongue: sinale, built: [iltorin]}
+    - {name: iltorin, tongue: senali, built: [iltorin]}
     - {name: Seer, tongue: translation}
     - {name: The Faithful, tongue: translation}
     - {name: Unaccorded, tongue: translation}
@@ -7584,85 +7584,89 @@ data:
     - {name: Zerathian Rainforests, tongue: translation}
     - {name: Green Interior, tongue: translation}
     - {name: Guest-Right, tongue: translation}
-    - {name: ellevirsa, tongue: sinale, built: [ellevi, -rsa]}
-    - {name: nìlkitti esselinto, tongue: sinale, built: [nìlki, -tti, esseli, -nto]}
+    - {name: ellevirsa, tongue: senali, built: [ellevi, -rsa]}
+    - {name: nìlkitti esselinto, tongue: senali, built: [nìlki, -tti, esseli, -nto]}
     - {name: The Oak-Warden's Sayings, tongue: translation}
-    - {name: sorvel ortinnoren saunari, tongue: sinale, built: [torvel, ortinno, -ren, saunari]}
-    - {name: sorvel ortinno, tongue: sinale, built: [torvel, ortinno]}
+    - {name: sorvel ortinnoren saunari, tongue: senali, built: [torvel, ortinno, -ren, saunari]}
+    - {name: sorvel ortinno, tongue: senali, built: [torvel, ortinno]}
     - {name: Oak-Warden, tongue: translation}
-    - {name: sorvel saumikki, tongue: sinale, built: [torvel, saumikki]}
+    - {name: sorvel saumikki, tongue: senali, built: [torvel, saumikki]}
     - {name: Oak-Pupil, tongue: translation}
     - name: olmasitti ropelinto torvelsa
-      tongue: sinale
+      tongue: senali
       built: [olmasi, -tti, ropeli, -nto, torvel, -sa]
-    - {name: ilevala hwomanto, tongue: sinale, built: [ileva, -la, hwoma, -nto]}
-    - {name: ollevikko, tongue: sinale, built: [ollevi, -kko]}
+    - {name: ilevala hwomanto, tongue: senali, built: [ileva, -la, hwoma, -nto]}
+    - {name: ollevikko, tongue: senali, built: [ollevi, -kko]}
     - {name: The Lament of Haulonna, tongue: translation}
-    - {name: haulonnaren neltava, tongue: sinale}
+    - {name: haulonnaren neltava, tongue: senali}
     - {name: hlusmil svartrunar, tongue: exonym:nordmal}
-    - {name: pelvaila pelvainto, tongue: sinale, built: [pelvai, -la, pelvai, -nto]}
-    - {name: pelvaila, tongue: sinale, built: [pelvai, -la]}
-    - {name: kinsatti hallesinto, tongue: sinale, built: [kinsa, -tti, hallesi, -nto]}
-    - {name: kinsatti, tongue: sinale, built: [kinsa, -tti]}
-    - {name: kelkasitta nwominto, tongue: sinale, built: [kelkasi, -tta, nwomi, -nto]}
-    - {name: kelkasitta, tongue: sinale, built: [kelkasi, -tta]}
-    - {name: toimuvo sulmento, tongue: sinale, built: [toimu, -vo, sulme, -nto]}
-    - {name: toimuvo, tongue: sinale, built: [toimu, -vo]}
-    - {name: porkila ilevanto, tongue: sinale, built: [porki, -la, ileva, -nto]}
-    - {name: porkila, tongue: sinale, built: [porki, -la]}
-    - {name: ropelinto, tongue: sinale, built: [ropeli, -nto]}
-    - {name: lorraminto, tongue: sinale, built: [lorrami, -nto]}
-    - {name: lovanto, tongue: sinale, built: [lova, -nto]}
-    - {name: hìssente, tongue: sinale, built: [hìsse, -nte]}
-    - {name: tellakinto, tongue: sinale, built: [tellaki, -nto]}
-    - {name: olmasinto, tongue: sinale, built: [olmasi, -nto]}
-    - {name: eilavanto, tongue: sinale, built: [eilava, -nto]}
-    - {name: nìlkinte, tongue: sinale, built: [nìlki, -nte]}
-    - {name: mollunto, tongue: sinale, built: [mollu, -nto]}
-    - {name: esselinto, tongue: sinale, built: [esseli, -nto]}
-    - {name: kilpente, tongue: sinale, built: [kilpe, -nte]}
+    - {name: pelvaila pelvainto, tongue: senali, built: [pelvai, -la, pelvai, -nto]}
+    - {name: pelvaila, tongue: senali, built: [pelvai, -la]}
+    - {name: kinsatti hallesinto, tongue: senali, built: [kinsa, -tti, hallesi, -nto]}
+    - {name: kinsatti, tongue: senali, built: [kinsa, -tti]}
+    - {name: kelkasitta nwominto, tongue: senali, built: [kelkasi, -tta, nwomi, -nto]}
+    - {name: kelkasitta, tongue: senali, built: [kelkasi, -tta]}
+    - {name: toimuvo sulmento, tongue: senali, built: [toimu, -vo, sulme, -nto]}
+    - {name: toimuvo, tongue: senali, built: [toimu, -vo]}
+    - {name: porkila ilevanto, tongue: senali, built: [porki, -la, ileva, -nto]}
+    - {name: porkila, tongue: senali, built: [porki, -la]}
+    - {name: ropelinto, tongue: senali, built: [ropeli, -nto]}
+    - {name: lorraminto, tongue: senali, built: [lorrami, -nto]}
+    - {name: lovanto, tongue: senali, built: [lova, -nto]}
+    - {name: hìssente, tongue: senali, built: [hìsse, -nte]}
+    - {name: tellakinto, tongue: senali, built: [tellaki, -nto]}
+    - {name: olmasinto, tongue: senali, built: [olmasi, -nto]}
+    - {name: eilavanto, tongue: senali, built: [eilava, -nto]}
+    - {name: nìlkinte, tongue: senali, built: [nìlki, -nte]}
+    - {name: mollunto, tongue: senali, built: [mollu, -nto]}
+    - {name: esselinto, tongue: senali, built: [esseli, -nto]}
+    - {name: kilpente, tongue: senali, built: [kilpe, -nte]}
     - {name: The Gathering on the End, tongue: translation}
-    - {name: oltandiren aulirakko, tongue: sinale, built: [oltandi, -ren, aulira, -kko]}
-    - {name: tellakitta eilavanto, tongue: sinale, built: [tellaki, -tta, eilava, -nto]}
-    - {name: tellakitta, tongue: sinale, built: [tellaki, -tta]}
-    - {name: rellìtti sìllente, tongue: sinale, built: [rellì, -tti, sìlle, -nte]}
-    - {name: lentila talvento, tongue: sinale, built: [lenti, -la, talve, -nto]}
-    - {name: hìssetti toimunto, tongue: sinale, built: [hìsse, -tti, toimu, -nto]}
+    - {name: oltandiren aulirakko, tongue: senali, built: [oltandi, -ren, aulira, -kko]}
+    - {name: tellakitta eilavanto, tongue: senali, built: [tellaki, -tta, eilava, -nto]}
+    - {name: tellakitta, tongue: senali, built: [tellaki, -tta]}
+    - {name: rellìtti sìllente, tongue: senali, built: [rellì, -tti, sìlle, -nte]}
+    - {name: lentila talvento, tongue: senali, built: [lenti, -la, talve, -nto]}
+    - {name: hìssetti toimunto, tongue: senali, built: [hìsse, -tti, toimu, -nto]}
     - {name: The Long Road, tongue: translation}
-    - {name: tirvali, tongue: sinale, built: [tirvali]}
-    - {name: tirvalitta solmerinto, tongue: sinale, built: [tirvali, -tta, solmeri, -nto]}
-    - {name: tirvalitta, tongue: sinale, built: [tirvali, -tta]}
-    - {name: tirvalitta tirvali, tongue: sinale, built: [tirvali, -tta, tirvali]}
+    - {name: tirvali, tongue: senali, built: [tirvali]}
+    - {name: tirvalitta solmerinto, tongue: senali, built: [tirvali, -tta, solmeri, -nto]}
+    - {name: tirvalitta, tongue: senali, built: [tirvali, -tta]}
+    - {name: tirvalitta tirvali, tongue: senali, built: [tirvali, -tta, tirvali]}
     - {name: The Praise of the One Who Stays, tongue: translation}
-    - {name: sendeppinnoren tellame, tongue: sinale, built: [sendeppinno, -ren, tellame]}
-    - {name: lapurinto, tongue: sinale, built: [lapuri, -nto]}
-    - {name: kalpinto, tongue: sinale, built: [kalpi, -nto]}
-    - {name: nuuvanto, tongue: sinale, built: [nuuva, -nto]}
-    - {name: unturonto, tongue: sinale, built: [unturo, -nto]}
+    - {name: sendeppinnoren tellame, tongue: senali, built: [sendeppinno, -ren, tellame]}
+    - {name: lapurinto, tongue: senali, built: [lapuri, -nto]}
+    - {name: kalpinto, tongue: senali, built: [kalpi, -nto]}
+    - {name: nuuvanto, tongue: senali, built: [nuuva, -nto]}
+    - {name: unturonto, tongue: senali, built: [unturo, -nto]}
     - {name: The Asking, tongue: translation}
-    - {name: hauletta, tongue: sinale, built: [haule, -tta]}
+    - {name: hauletta, tongue: senali, built: [haule, -tta]}
     - {name: lauva, tongue: older}
-    - {name: pilme, tongue: sinale, built: [pilme]}
-    - {name: lonku, tongue: sinale, built: [lonku]}
+    - {name: pilme, tongue: senali, built: [pilme]}
+    - {name: lonku, tongue: senali, built: [lonku]}
     - {name: mallonna, tongue: older}
-    - {name: tehì, tongue: sinale, built: [tehì]}
-    - {name: talve, tongue: sinale, built: [talve]}
-    - {name: aelirosse, tongue: sinale}
-    - {name: etalosse, tongue: sinale}
+    - {name: tehì, tongue: senali, built: [tehì]}
+    - {name: talve, tongue: senali, built: [talve]}
+    - {name: aelirosse, tongue: senali}
+    - {name: etalosse, tongue: senali}
     - {name: ethalosse, tongue: exonym:elavendri}
-    - {name: serentale, tongue: sinale}
+    - {name: serentale, tongue: senali}
     - {name: serenthale, tongue: exonym:elavendri}
-    - {name: vyerka, tongue: sinale}
+    - {name: vyerka, tongue: senali}
     - {name: dhargan, tongue: exonym:aelendi}
     - {name: nela, tongue: exonym:aelendi}
     - {name: nelgan, tongue: exonym:aelendi}
     - {name: tena, tongue: exonym:aelendi}
-    - {name: hersellonku, tongue: sinale, built: [hersel, lonku]}
-    - {name: lirnasto, tongue: sinale, built: [lirna, -sto]}
-    - {name: ilkaivesto, tongue: sinale, built: [ilkaive, -sto]}
+    - {name: hersellonku, tongue: senali, built: [hersel, lonku]}
+    - {name: lirnasto, tongue: senali, built: [lirna, -sto]}
+    - {name: ilkaivesto, tongue: senali, built: [ilkaive, -sto]}
   negation: {particle: ahi, mutation: wearing}
   naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
   retired:
+    - {form: Sinale, instead: Senali, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalean, instead: Senalian, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalo, instead: Senalo, why: "respelled to Pronouncing Thalorna"}
+    - {form: sinalo, instead: senalo, why: "respelled to Pronouncing Thalorna"}
     - {form: eëvi, instead: eevi, why: "respelled without the diaeresis"}
     - {form: eëviny, instead: eevinì, why: "respelled without the diaeresis"}
     - {form: heëve, instead: heeve, why: "respelled without the diaeresis"}
@@ -7927,19 +7931,19 @@ sohl:
   flags: {"thalorna": {lang_family: Elder}}
 ---
 
-Sinale is a tongue of the Elder family. Fluency measures the sophistication of expression in Sinale, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Senali is a tongue of the Elder family. Fluency measures the sophistication of expression in Senali, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Sinale is the language of the **[[lore-flksinale|Sinale]]** (known in human legends as "elves"; one of them is a **Sinalo**), the eldest of the Elder Races to settle on [[place-worldthlrn|Thalorna]]. The language predates all human tongues by millennia, surviving as living speech in scattered Sinale communities hidden in deep forests and remote valleys. The Sinale are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, known to outsiders only through legend and fragmentary encounter.
+Senali is the language of the **[[lore-flksenali|Senali]]** (known in human legends as "elves"; one of them is a **Senalo**), the eldest of the Elder Races to settle on [[place-worldthlrn|Thalorna]]. The language predates all human tongues by millennia, surviving as living speech in scattered Senali communities hidden in deep forests and remote valleys. The Senali are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, known to outsiders only through legend and fragmentary encounter.
 
-To the human ear, Sinale is hauntingly beautiful: melodic and vowel-heavy, with open syllables and consonants that seem to flow like water. Its consonants are clean and often long—_t_, _s_, _k_ and _n_ above all, with _l_ and _r_ running between them—and its vowels are the open _a_, _e_, _i_ and _o_, often held long. No word opens on a voiced stop and there are no guttural sounds. Nearly every syllable ends in a vowel, and the language slides from one to the next without ever stacking consonants at the front of a word. A Sinale speaker seems to be singing rather than speaking, and the song is a slow one: the language has the sound of a long memory, of starlight and twilight, and of things a long time lost.
+To the human ear, Senali is hauntingly beautiful: melodic and vowel-heavy, with open syllables and consonants that seem to flow like water. Its consonants are clean and often long—_t_, _s_, _k_ and _n_ above all, with _l_ and _r_ running between them—and its vowels are the open _a_, _e_, _i_ and _o_, often held long. No word opens on a voiced stop and there are no guttural sounds. Nearly every syllable ends in a vowel, and the language slides from one to the next without ever stacking consonants at the front of a word. A Senali speaker seems to be singing rather than speaking, and the song is a slow one: the language has the sound of a long memory, of starlight and twilight, and of things a long time lost.
 
-What a human listener never notices is where the grammar sits. The work of saying how one word bears on another is done at the **front** of a word: a word that leans on another **wears down** at its head, and the worn consonant is the grammar. A Sinale hears the relation before the word is finished. A human hears a pretty variation and misses it entirely.
+What a human listener never notices is where the grammar sits. The work of saying how one word bears on another is done at the **front** of a word: a word that leans on another **wears down** at its head, and the worn consonant is the grammar. A Senali hears the relation before the word is finished. A human hears a pretty variation and misses it entirely.
 
-## How Sinale sounds
+## How Senali sounds
 
-Sinale is the eldest tongue, sung as often as spoken. Its words are long and open, full of vowels, and its consonants are clean: the stops _t_, _k_ and _p_ beside _s_, _n_, _l_ and _r_, and nothing harsh.
+Senali is the eldest tongue, sung as often as spoken. Its words are long and open, full of vowels, and its consonants are clean: the stops _t_, _k_ and _p_ beside _s_, _n_, _l_ and _r_, and nothing harsh.
 
 **The vowels.** _a_ most often, then _i_, _e_, _u_ and _o_. A long vowel is _aa_, _ii_ or _uu_ (_nuuva_, _aamas_, _ehii_), and _ee_ is two _e_ sounds said in turn (_leesì_), and _ai_, _ei_, _oi_, _au_ and _ou_ are frequent (_toimu_, _eilava_), as are _ye_ and _wo_ (_vyerka_, _hwoma_). _ì_ is a front vowel, the short _i_ of _sit_ (_ìlpi_, _nelìve_).
 
@@ -7949,7 +7953,7 @@ Sinale is the eldest tongue, sung as often as spoken. Its words are long and ope
 
 **Endings.** Most words end in a vowel. The rest end in _-n_, _-s_, _-l_ or _-r_.
 
-**What Sinale leaves out.** It has no _th_ or _rh_, no _w_ except as a glide after a consonant or before a vowel, no _b_, _g_, _f_, _z_, _sh_ or _ch_, and no _d_ except after _l_, _n_ or _r_. _dh_ is rare and stands only between vowels.
+**What Senali leaves out.** It has no _th_ or _rh_, no _w_ except as a glide after a consonant or before a vowel, no _b_, _g_, _f_, _z_, _sh_ or _ch_, and no _d_ except after _l_, _n_ or _r_. _dh_ is rare and stands only between vowels.
 
 ## Phonology
 
@@ -7961,16 +7965,16 @@ _Dh_ is the voiced sound between the teeth, rare, and only between vowels. _D_ i
 
 ### Vowels
 
-Sinale has **six vowels**, and _a_, _i_ and _u_ each have a long form, written doubled, so that length distinguishes words throughout. The vowels fall into three sets, and the sets govern the shape of every word:
+Senali has **six vowels**, and _a_, _i_ and _u_ each have a long form, written doubled, so that length distinguishes words throughout. The vowels fall into three sets, and the sets govern the shape of every word:
 
 ```sql
 SELECT '_' || v || '_' AS "Vowel", vset AS "Set"
 FROM (
-  SELECT unnest(harmony_back) AS v, 'back' AS vset FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+  SELECT unnest(harmony_back) AS v, 'back' AS vset FROM syllables WHERE language = 'thalorna-note-skill-senalilng'
   UNION ALL
-  SELECT unnest(harmony_neutral), 'neutral' FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+  SELECT unnest(harmony_neutral), 'neutral' FROM syllables WHERE language = 'thalorna-note-skill-senalilng'
   UNION ALL
-  SELECT unnest(harmony_front), 'front' FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+  SELECT unnest(harmony_front), 'front' FROM syllables WHERE language = 'thalorna-note-skill-senalilng'
 )
 WHERE list_contains(['a', 'e', 'i', 'o', 'u', 'ì'], v)
 ORDER BY list_position(['a', 'e', 'i', 'o', 'u', 'ì'], v)
@@ -7984,14 +7988,14 @@ The front vowels are the language's rarer color. Most words are back, neutral or
 
 ### Diphthongs
 
-Sinale's diphthongs are the pairs below, each said in one beat. A _w_ or a _y_ before another vowel glides into it, as in _hwoma_ and _vyerka_. Any other two vowels side by side are said apart, each its own syllable, as _eo_ is:
+Senali's diphthongs are the pairs below, each said in one beat. A _w_ or a _y_ before another vowel glides into it, as in _hwoma_ and _vyerka_. Any other two vowels side by side are said apart, each its own syllable, as _eo_ is:
 
 ```sql
-SELECT 'back' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_back, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+SELECT 'back' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_back, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-senalilng'
 UNION ALL
-SELECT 'neutral' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_neutral, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+SELECT 'neutral' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_neutral, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-senalilng'
 UNION ALL
-SELECT 'front' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_front, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+SELECT 'front' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_front, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-senalilng'
 ```
 
 _ye_ opens wide and closes narrow, the reverse of every other pair. In _eo_ each vowel keeps its own set, _e_ neutral and _o_ back.
@@ -8002,34 +8006,34 @@ _ye_ opens wide and closes narrow, the reverse of every other pair. In _eo_ each
 
 ```sql
 SELECT what AS "Kind", array_to_string(list_transform(clusters, x -> '_' || x || '_'), ', ') AS "Clusters", use AS "Use"
-FROM cluster_groups WHERE language = 'thalorna-note-skill-sinalelng' ORDER BY position
+FROM cluster_groups WHERE language = 'thalorna-note-skill-senalilng' ORDER BY position
 ```
 
 **_d_ stands only after _n_, _l_ or _r_**, so it never begins a word, never ends one and never stands alone between vowels. _Dh_ stands only between vowels.
 
-The common pairings are the body of the language: a word holds one of them, or none, and its other syllables are open. The sparing ones are true Sinale and stand in old words, hard words and words for sharp things, but a line that holds more than one of them sounds clipped, and a poet avoids it.
+The common pairings are the body of the language: a word holds one of them, or none, and its other syllables are open. The sparing ones are true Senali and stand in old words, hard words and words for sharp things, but a line that holds more than one of them sounds clipped, and a poet avoids it.
 
 ### Onsets and finals
 
 ```sql
 SELECT CASE edge WHEN 'openConsonant' THEN 'beginning a word' ELSE 'ending a word' END AS "Edge",
        'any vowel, or one of ' || array_to_string(list_transform(sounds, x -> '_' || x || '_'), ', ') AS "Sounds"
-FROM edges WHERE language = 'thalorna-note-skill-sinalelng' ORDER BY position
+FROM edges WHERE language = 'thalorna-note-skill-senalilng' ORDER BY position
 ```
 
 The back nasal _ng_ stands only between vowels, and no word opens on it.
 
 ### Stress
 
-**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favors short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing.
+**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Senali favors short words with the weight at the front.** So a Senali word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing.
 
 ### Wearing
 
-The device that carries Sinale's grammar is **wearing**, _oltenne_—the softening of the consonant a word begins with when that word leans on another. A stop wears to the fricative made in the same place, and nothing else moves:
+The device that carries Senali's grammar is **wearing**, _oltenne_—the softening of the consonant a word begins with when that word leans on another. A stop wears to the fricative made in the same place, and nothing else moves:
 
 ```sql
 SELECT '_' || sound || '_' AS "Radical", '_' || becomes || '_' AS "Worn", example AS "Example"
-FROM mutations WHERE language = 'thalorna-note-skill-sinalelng' AND mutation = 'wearing' ORDER BY position
+FROM mutations WHERE language = 'thalorna-note-skill-senalilng' AND mutation = 'wearing' ORDER BY position
 ```
 
 Every other beginning—_v_, _s_, _h_, _m_, _n_, _l_, _r_ and the vowels—is worn already and does not change. A name never wears. There is one grade of wearing and no other: a worn consonant never wears further.
@@ -8055,12 +8059,12 @@ A verb's object does not wear. A count is another exception: it follows the noun
 
 ### Sentence Structure
 
-Sinale is **Verb-Subject-Object**:
+Senali is **Verb-Subject-Object**:
 
 _Yinse ehi pelvai_
 : "I see the low cloud": _yinse_ is the act, _ehi_ the actor, and _pelvai_ the object. The object keeps its _p_.
 
-The act comes first. Sinale rhetoric holds that naming the actor before the act is a way of taking credit, and formal speech avoids it.
+The act comes first. Senali rhetoric holds that naming the actor before the act is a way of taking credit, and formal speech avoids it.
 
 ### Verbs
 
@@ -8082,7 +8086,7 @@ In _Toimunu ilte onsa sirne sennave_, "his name's time is one year", _onsa sirne
 
 ### Number
 
-Sinale counts the world the way it meets it. A noun for something met in quantity—leaves, stars, rain, grass, birds—is **collective** in its plain form, and a suffix picks out one of them: _nuuva_ is starlight and _nuuvanu_ a single star. A noun for a thing met singly—a person, a particular tree, a stone—is singular in its plain form, and the word _vennas_ "many" standing after it gives the plural: _mollu vennas_ "many deep pools". No suffix makes a plural: _leesì vennas_ means "many paths".
+Senali counts the world the way it meets it. A noun for something met in quantity—leaves, stars, rain, grass, birds—is **collective** in its plain form, and a suffix picks out one of them: _nuuva_ is starlight and _nuuvanu_ a single star. A noun for a thing met singly—a person, a particular tree, a stone—is singular in its plain form, and the word _vennas_ "many" standing after it gives the plural: _mollu vennas_ "many deep pools". No suffix makes a plural: _leesì vennas_ means "many paths".
 
 ### Derivational suffixes
 
@@ -8090,7 +8094,7 @@ A closed set of suffixes makes new words from old ones. Each takes the back or f
 
 ```sql
 SELECT gloss AS "Makes", '_' || written || '_' AS "Back", '_' || coalesce(front, written) || '_' AS "Front", examples[1] AS "Example"
-FROM affixes WHERE language = 'thalorna-note-skill-sinalelng' AND kind IN ('derivation') ORDER BY position
+FROM affixes WHERE language = 'thalorna-note-skill-senalilng' AND kind IN ('derivation') ORDER BY position
 ```
 
 Two suffixes change shape after a stem that ends in a consonant, so that no join breaks the clusters. _-ho_ loses its _h_, which never follows another consonant: _rosel_ "morning" gives _roselo_ "in the morning", and _kalten_ "a cup" gives _kalteno_. _-rsa_ takes an _e_ before it, since three consonants never stand together: _patten_ "return" gives _pattenersa_ "a coming back".
@@ -8101,7 +8105,7 @@ Two stems make one word: the first is the modifier and wears, the second is the 
 
 **Two stems join with the _e_ that _-rsa_ takes after a consonant** wherever the first ends in a consonant and the second begins with one that the cluster table does not pair with it. _Patten_ "return", worn to _vatten_, and _leesì_ "a path" give _vatteneleesì_, a way back. Where the two consonants make one of the listed pairings they meet directly, as _irtal_ and _melke_ give _irtalmelke_, a fountain.
 
-A **place name** is a compound of this kind, or a single stem with the place suffix. An enclave's own name is Sinale; the names human neighbors give enclaves are words in the neighbors' tongues.
+A **place name** is a compound of this kind, or a single stem with the place suffix. An enclave's own name is Senali; the names human neighbors give enclaves are words in the neighbors' tongues.
 
 ### Adjectives and Modifiers
 
@@ -8163,7 +8167,7 @@ A demonstrative is a modifier and stands before its noun. All three open on a vo
 
 ### Numbers
 
-Sinale counts in twenties, with ten and fifteen as resting points along the way:
+Senali counts in twenties, with ten and fifteen as resting points along the way:
 
 | Value | Word    |
 | ----- | ------- |
@@ -8188,7 +8192,7 @@ The ending _-tos_ compares: what something exceeds is the place it stands out fr
 
 ## Script and Literacy
 
-Sinale is written in the [[skill-clthndscrpt|Veldikko]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written right to left, line below line, and the flowing nature of the letters creates a visual impression of music.
+Senali is written in the [[skill-clthndscrpt|Veldikko]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written right to left, line below line, and the flowing nature of the letters creates a visual impression of music.
 
 Key features:
 
@@ -8204,13 +8208,13 @@ Ligatures
 Ornate variants
 : Sacred texts employ extremely elaborate, decorated letter forms
 
-The Veldikko is the Sinale's own featural script, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vilérian alphabet, and always has.
+The Veldikko is the Senali's own featural script, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendi]] took the script from the Senali, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vilérian alphabet, and always has.
 
-Literacy in Sinale is near-universal among the Sinale themselves—the language and written tradition are central to their culture. However, human literacy in Sinale is **extremely rare**. Only scholars, elves, and highly educated humans can read or write the language.
+Literacy in Senali is near-universal among the Senali themselves—the language and written tradition are central to their culture. However, human literacy in Senali is **extremely rare**. Only scholars, elves, and highly educated humans can read or write the language.
 
 ### Setting a romanized word back in the Veldikko
 
-Every Sinale word on these pages is a romanization, written in the romanization for readers who do not have the hand. Setting one back into the Veldikko is not a matter of taste: the mapping below is fixed, so that two scribes working from the same romanized spelling produce the same page. What may differ between one page and another is the cut of the letterforms—an everyday hand, the elaborated sacred one, a carved inscription—and never which sign is which.
+Every Senali word on these pages is a romanization, written in the romanization for readers who do not have the hand. Setting one back into the Veldikko is not a matter of taste: the mapping below is fixed, so that two scribes working from the same romanized spelling produce the same page. What may differ between one page and another is the cut of the letterforms—an everyday hand, the elaborated sacred one, a carved inscription—and never which sign is which.
 
 **The consonants are the visible line.** One sign to each consonant of the inventory, arranged in three families by place of articulation—the lips, the tongue-tip and the back of the mouth—so that the stop, the fricative and the nasal of one family are the same shape at three grades. The liquids and the soft sounds—_l_, _r_, _dh_ and _d_—stand outside the families and have signs of their own. Because wearing only ever moves a stop to the fricative of its own family, a worn word is the same shape one grade along—which is where the romanization is at its clumsiest, writing _t_ and _s_ as two unrelated letters for what the hand shows as one letter lowered. The back nasal has a sign like the rest, but no word opens on it and so it is never the first thing on a line.
 
@@ -8218,23 +8222,23 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **The vowels ride above.** Six marks, one each for _a_, _e_, _i_, _o_, _u_ and _ì_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A long vowel in the romanization—_aa_, _ii_ or _uu_—is a single mark drawn long rather than two marks, and _ee_ is two _e_ marks, the second on the carrier; a diphthong is two marks over one carrier, in the order they are said.
 
-**Writing and performance.** Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken, and formal speech and song rise and fall on far more syllables than are ever written. Sinale coins with tone: a held vowel, _aa_, _ii_ or _uu_, may rise or fall, and a written pitch follows [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A caron marks a rising voice and a circumflex a falling one, on the first letter of the held vowel, at most one in a word: _ovûu_ and _onsâa_ fall on their held vowel. A toned syllable takes the stress, unless an acute sits elsewhere in the word, and saying the word on a level voice, with only its stress, is always correct. A short vowel or a vowel pair carries no tone mark, and an acute marks only a stress the common rule would not choose. The automatic Veldikko spelling rows carry a written pitch on its held vowel. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
+**Writing and performance.** Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken, and formal speech and song rise and fall on far more syllables than are ever written. Senali coins with tone: a held vowel, _aa_, _ii_ or _uu_, may rise or fall, and a written pitch follows [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A caron marks a rising voice and a circumflex a falling one, on the first letter of the held vowel, at most one in a word: _ovûu_ and _onsâa_ fall on their held vowel. A toned syllable takes the stress, unless an acute sits elsewhere in the word, and saying the word on a level voice, with only its stress, is always correct. A short vowel or a vowel pair carries no tone mark, and an acute marks only a stress the common rule would not choose. The automatic Veldikko spelling rows carry a written pitch on its held vowel. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
 
-**The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
+**The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Senali reader sees.
 
 **[[skill-aelendlng|Áelendi Language]] has its own rows.** The Áelendan write the same letters in an older, plainer hand, unchanged in centuries, and their _g_ and aspirates take letters of their own, so a separate mapping holds them.
 
 ## Historical Development
 
-Sinale is the **eldest language on Thalorna**, older than even [[skill-kalihrlng|Kalihari Language]] or [[skill-kiichek|Kì'ì'chek Language]]. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Sinale experience and philosophy.
+Senali is the **eldest language on Thalorna**, older than even [[skill-kalihrlng|Kalihari Language]] or [[skill-kiichek|Kì'ì'chek Language]]. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Senali experience and philosophy.
 
-Scholars identify layers in Sinale historical development:
+Scholars identify layers in Senali historical development:
 
 - **Primordial layer** (oldest, rarely used in modern speech): Archaic verb forms, ancient color and elemental terminology
 - **Classical layer** (main body of literature and ceremony): The form preserved in epic poems and sacred texts
-- **Modern layer** (contemporary Sinale speech): Philosophical and artistic vocabulary reflecting Sinale concerns with meaning, beauty, and eternity
+- **Modern layer** (contemporary Senali speech): Philosophical and artistic vocabulary reflecting Senali concerns with meaning, beauty, and eternity
 
-The language has **absorbed almost no borrowings** from other tongues, and the reason is mechanical as much as cultural: a foreign word cannot be worn, cannot take an ending that agrees with it, and cannot be made to keep harmony with the rest of the sentence. It sits in a Sinale line like a stone in a stream. Sinale who need a word for a foreign thing build one from Sinale parts, and the coinage is heard as the language working properly rather than as an affectation.
+The language has **absorbed almost no borrowings** from other tongues, and the reason is mechanical as much as cultural: a foreign word cannot be worn, cannot take an ending that agrees with it, and cannot be made to keep harmony with the rest of the sentence. It sits in a Senali line like a stone in a stream. Senali who need a word for a foreign thing build one from Senali parts, and the coinage is heard as the language working properly rather than as an affectation.
 
 ### Words older than the rules
 
@@ -8242,16 +8246,16 @@ A handful of the oldest words keep shapes the regular language no longer makes: 
 
 ```sql
 SELECT '_' || form || '_' AS "Form", coalesce(gloss, '—') AS "Gloss", coalesce(layer, '—') AS "Layer"
-FROM older WHERE language = 'thalorna-note-skill-sinalelng' ORDER BY position
+FROM older WHERE language = 'thalorna-note-skill-senalilng' ORDER BY position
 ```
 
-The singular, _Sinalo_ "one of the Sinale", is not among them. It holds back and neutral vowels only and is a regular word of the language.
+The singular, _Senalo_ "one of the Senali", is not among them. It holds back and neutral vowels only and is a regular word of the language.
 
 ## Regional Dialects
 
-Sinale is fragmented geographically, with scattered communities speaking distinct—though mutually intelligible—dialects, each named for the country it is spoken in:
+Senali is fragmented geographically, with scattered communities speaking distinct—though mutually intelligible—dialects, each named for the country it is spoken in:
 
-- **Lonku** (the deep wood): The most conservative and archaic form, closest to ancient Sinale, and the slowest
+- **Lonku** (the deep wood): The most conservative and archaic form, closest to ancient Senali, and the slowest
 - **Eilava** (the wide sky, the high valleys): Slightly more rapid speech, some flattening of pitch, subtly different vowel lengths
 - **Lova** (the far bank, the old coastal settlements): Long isolated; some unique vocabulary and archaic constructions
 
@@ -8261,7 +8265,7 @@ Deep-wood speech sounds archaic and formal beside the speech of the high valleys
 
 Compose from the declared lexicon and grammar, then have the passage independently translated back into plain language. Check actors, objects, possessors and locations before judging the sound. A remembered event and the age of a name need their intended context, even when every word is valid.
 
-Check the exact surface spellings used in the passage against the wordbook. It does not automatically derive Sinale's general wearing and suffix forms; the required variants must be stored explicitly. Register full foreign names both here and in their source language, as with _Hlusmil Svartrunar_ in Sinale and Nordmal. A suffixed place name also needs its used form; _Haulonnaho_ is already registered.
+Check the exact surface spellings used in the passage against the wordbook. It does not automatically derive Senali's general wearing and suffix forms; the required variants must be stored explicitly. Register full foreign names both here and in their source language, as with _Hlusmil Svartrunar_ in Senali and Nordmal. A suffixed place name also needs its used form; _Haulonnaho_ is already registered.
 
 Finally inspect the actual rendered passage in its intended script and font, including line grouping. Lexical lookup cannot establish the meaning of a clause or the quality of its performance. The [authoring guide](https://git.pupluppy.org/HeroicLands/thalorna/src/branch/main/docs/writing-in-the-tongues.md) covers the lookup and rendering workflow.
 
@@ -8284,11 +8288,11 @@ _Luuro ileva, luuro rellì_
 
 ## Related Languages
 
-Sinale is one of the **two surviving Elder Tongues**, the other being [[skill-khazarlng|Khazari]]. Both descend from a **common Elder language** spoken before the Elder Races diverged. That ancestor is extinct and no text preserves it.
+Senali is one of the **two surviving Elder Tongues**, the other being [[skill-khazarlng|Khazari]]. Both descend from a **common Elder language** spoken before the Elder Races diverged. That ancestor is extinct and no text preserves it.
 
-The kinship is not audible. Sinale runs on open syllables, long vowels and a clean inventory; Khazari runs on clusters, short vowels and back fricatives. Nothing in the sound of either suggests the other.
+The kinship is not audible. Senali runs on open syllables, long vowels and a clean inventory; Khazari runs on clusters, short vowels and back fricatives. Nothing in the sound of either suggests the other.
 
-What the two share is a habit no human tongue on Thalorna has: **both make a new word by altering the body of an old one rather than by hanging a piece on its end.** Sinale changes the consonant a word begins with according to the work the word is doing; Khazari pours a different vowel frame through a fixed skeleton of consonants. Suffixes are the shallow layer in both—the deep one is inside the word.
+What the two share is a habit no human tongue on Thalorna has: **both make a new word by altering the body of an old one rather than by hanging a piece on its end.** Senali changes the consonant a word begins with according to the work the word is doing; Khazari pours a different vowel frame through a fixed skeleton of consonants. Suffixes are the shallow layer in both—the deep one is inside the word.
 
 Beyond that instinct the two agree on **a closed inventory of derivational shapes** rather than an open one, so neither language borrows readily.
 
@@ -8298,27 +8302,27 @@ Scholars debate whether the Elder Races deliberately drove their languages apart
 
 ### Structure and Philosophy
 
-A Sinale carries a **given name** and a **lineage name**, and their endings separate them, so the two can never be confused:
+A Senali carries a **given name** and a **lineage name**, and their endings separate them, so the two can never be confused:
 
 1. A **given name** is a stem in its **radical** form with a naming ending. **A given name runs two to four syllables.**
 2. A **lineage name** is a stem in its **radical** form with the hearth ending. It means "the hearth of" the stem.
 
-**The ending that would repeat the stem's own last consonant is not used**, so a stem ending in _-va_ takes _-tti_ rather than _-vo_, and **a stem whose last consonant is _n_ takes no hearth ending** and cannot found a lineage. Sinale find this last fact funny and outsiders find it arbitrary.
+**The ending that would repeat the stem's own last consonant is not used**, so a stem ending in _-va_ takes _-tti_ rather than _-vo_, and **a stem whose last consonant is _n_ takes no hearth ending** and cannot found a lineage. Senali find this last fact funny and outsiders find it arbitrary.
 
-Sinale hold that a name carries spiritual weight and shapes what the bearer becomes, so a name is chosen slowly, sometimes over years, and a child goes unnamed in the meantime without anyone thinking it strange.
+Senali hold that a name carries spiritual weight and shapes what the bearer becomes, so a name is chosen slowly, sometimes over years, and a child goes unnamed in the meantime without anyone thinking it strange.
 
 ### Name endings
 
 ```sql
 SELECT 'a ' || given AS "Given to", '_' || form || '_' AS "Back", '_' || front || '_' AS "Front"
-FROM affixes WHERE language = 'thalorna-note-skill-sinalelng' AND kind = 'name' ORDER BY position
+FROM affixes WHERE language = 'thalorna-note-skill-senalilng' AND kind = 'name' ORDER BY position
 ```
 
 ### The hearth ending
 
 ```sql
 SELECT gloss AS "Name", '_' || written || '_' AS "Back", '_' || coalesce(front, written) || '_' AS "Front"
-FROM affixes WHERE language = 'thalorna-note-skill-sinalelng' AND kind IN ('lineage') ORDER BY position
+FROM affixes WHERE language = 'thalorna-note-skill-senalilng' AND kind IN ('lineage') ORDER BY position
 ```
 
 ### Given Names
@@ -8335,23 +8339,23 @@ Two endings are available to each, and the choice is the namer's ear rather than
 
 A lineage is a **hearth**, and its name is the thing the hearth keeps, closed with _-nto_ or _-nte_. _Kalpi_ "pale wood" gives **Kalpinto**; _tirvali_ "the long road" gives **Tirvalinto**; _pelvai_ "the low cloud" gives **Pelvainto**.
 
-Lineage names descend through the **maternal line**. They are not chosen and not changed. A Sinale whose deeds no existing hearth can account for may found one, which happens perhaps once in an age and is the most consequential thing a Sinale can do.
+Lineage names descend through the **maternal line**. They are not chosen and not changed. A Senali whose deeds no existing hearth can account for may found one, which happens perhaps once in an age and is the most consequential thing a Senali can do.
 
-A lineage name is glossed for outsiders and never translated into a foreign compound. What a hearth keeps is a Sinale thing, and the Sinale word for it is the only word that holds the whole of it.
+A lineage name is glossed for outsiders and never translated into a foreign compound. What a hearth keeps is a Senali thing, and the Senali word for it is the only word that holds the whole of it.
 
 ### Gender Distinctions
 
-The stems are not gendered and are freely shared: a brother and a sister are commonly named from the same stem, with different endings, and read as obviously a pair. Only the ending distinguishes them, and a Sinale who prefers the other set takes it without remark.
+The stems are not gendered and are freely shared: a brother and a sister are commonly named from the same stem, with different endings, and read as obviously a pair. Only the ending distinguishes them, and a Senali who prefers the other set takes it without remark.
 
 Lineage names have no gendered form.
 
 ### A Name Is Never Shortened
 
-A Sinale is called by the whole given name, all the syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kalpi_ is the pale wood of the birch, so a Sinale who says _Kalpi_ is talking about trees, and _Kalpitti_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables are no burden to a people who live as long as the Sinale do.
+A Senali is called by the whole given name, all the syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kalpi_ is the pale wood of the birch, so a Senali who says _Kalpi_ is talking about trees, and _Kalpitti_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables are no burden to a people who live as long as the Senali do.
 
 Closeness is heard in the call instead. A name spoken to its bearer takes the pitch of a call, falling at its end as a closed thought does, so every call already sounds different from talk about a person, and the pitch the speaker lays over the name carries the warmth, the summons or the reproach.
 
-A Sinale known for something more carries it as an epithet, which stands after the full name and adds to it without taking its place. Among the Sinale a name grows by addition and never by subtraction.
+A Senali known for something more carries it as an epithet, which stands after the full name and adds to it without taking its place. Among the Senali a name grows by addition and never by subtraction.
 
 ## Name Lists
 
@@ -8369,20 +8373,20 @@ Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—
 
 ## Lexicon
 
-Every stem and word this page uses, and several hundred more, stand in the [[skill-sinalelng#lexicon|Sinale Lexicon]], grouped by what they are about, with the way each built word is made and a register of every Sinale name the setting uses.
+Every stem and word this page uses, and several hundred more, stand in the [[skill-senalilng#lexicon|Senali Lexicon]], grouped by what they are about, with the way each built word is made and a register of every Senali name the setting uses.
 
 ## External References
 
-- Sinale Names (given names and matrilineal lineage names)
+- Senali Names (given names and matrilineal lineage names)
 - Elder Tongue comparative linguistics
-- Sinale literature and epic poetry
-- Scattered Sinale communities and their oral traditions
+- Senali literature and epic poetry
+- Scattered Senali communities and their oral traditions
 
-## Sinale Lexicon {#lexicon}
+## Senali Lexicon {#lexicon}
 
-This is the word-hoard of the Sinale tongue: the words a player or a GM reaches for when a Sinale speaks, sings, names a child or names a place. Every word here obeys the rules the language page sets out—its sounds, its harmony and its wearing—so a word made from these by those rules is a Sinale word.
+This is the word-hoard of the Senali tongue: the words a player or a GM reaches for when a Senali speaks, sings, names a child or names a place. Every word here obeys the rules the language page sets out—its sounds, its harmony and its wearing—so a word made from these by those rules is a Senali word.
 
-Each word carries the field it belongs to. The last section is a register of every Sinale name the setting uses, with the note where each is met.
+Each word carries the field it belongs to. The last section is a register of every Senali name the setting uses, with the note where each is met.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -8393,7 +8397,7 @@ An entry gives the word as it is cited: a noun in its plain form, a verb in its 
 ```sql
 SELECT name AS "Field", holds AS "What it holds"
 FROM fields
-WHERE language = 'thalorna-note-skill-sinalelng'
+WHERE language = 'thalorna-note-skill-senalilng'
 ORDER BY position
 ```
 
@@ -8407,19 +8411,19 @@ Three moves make regular built words in this lexicon. Fixed lexical forms are le
 
 **A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word with the hearth ending. _Tirvali_ "the long road" gives the given names _Tirvalitti_ and _Tirvalitta_ and the lineage name _Tirvalinto_, "the hearth of the long road". The ending _-la_ is not used on _tirvali_, which already ends on _l_.
 
-**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Iltoritti_ without _-tti_ is _iltori_, a vision and not a person—so a Sinale is called by the whole name, on the pitch of a call, and the language page's naming section sets out why.
+**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Iltoritti_ without _-tti_ is _iltori_, a vision and not a person—so a Senali is called by the whole name, on the pitch of a call, and the language page's naming section sets out why.
 
 A new root word—one made from nothing in this lexicon—is a larger thing than a built one. It must keep every rule of sound and harmony, and it belongs in the table of its field with `—` in its Built from column.
 
 ## Attested names {#attested-names}
 
-Every name the setting gives a Sinale person, place, rite or thing, and every name another people gives to something the Sinale hold, with the note where it is met. A name built from this lexicon shows how; a name the Sinale use that is not yet built from it shows `—`.
+Every name the setting gives a Senali person, place, rite or thing, and every name another people gives to something the Senali hold, with the note where it is met. A name built from this lexicon shows how; a name the Senali use that is not yet built from it shows `—`.
 
 ### Tongues
 
 ```sql
 SELECT '`' || tag || '`' AS "Tongue", meaning AS "Meaning"
-FROM tongues WHERE language = 'thalorna-note-skill-sinalelng' ORDER BY position
+FROM tongues WHERE language = 'thalorna-note-skill-senalilng' ORDER BY position
 ```
 
 ### Names
@@ -8429,5 +8433,5 @@ SELECT '**' || name || '**' AS "Name",
        coalesce(array_to_string(list_transform(notes, n -> '[[' || n || '|' || name || ']]'), ', '), '—') AS "Note",
        '`' || tongue || '`' AS "Tongue",
        coalesce(array_to_string(list_transform(built, x -> '`' || x || '`'), ' + ') || CASE WHEN gloss = 'worn' THEN ', worn' ELSE '' END, '—') AS "Built from"
-FROM register WHERE language = 'thalorna-note-skill-sinalelng' ORDER BY position
+FROM register WHERE language = 'thalorna-note-skill-senalilng' ORDER BY position
 ```

@@ -3,10 +3,10 @@ shortcode: longroad
 name: {full: The Long Road, sina: [tirvali]}
 type: lore
 subType: literature
-description: "The tale the Sinale who hold office in Tantsou tell on the evening a Sinalo is first entered on an imperial roll: a clerk cuts a name to three signs, a scholar answers to a road for forty years, and the planting roll has the last word."
-tags: [sinale]
+description: "The tale the Senali who hold office in Tantsou tell on the evening a Senalo is first entered on an imperial roll: a clerk cuts a name to three signs, a scholar answers to a road for forty years, and the planting roll has the last word."
+tags: [senali]
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: settinglore
   form: ennedhi
   subjects:
@@ -16,23 +16,23 @@ data:
     - lore-clndrstrlgy
     - lore-personlnms
     - lore-longnhrtnc
-    - skill-sinalelng
+    - skill-senalilng
   lang: sina
 
 # terran_analog: "Gogol's and Chekhov's petty clerks, for the man whose whole dignity is the correctness of a file; the Chinese anecdote collections in which a scholar-official's exactness is the joke and the virtue at once, and the dry closing line the compiler leaves without comment; the imperial census and the registered name as public documentation."
 ---
 
-**The Long Road**, _Tirvali_, is a tale (_ennedhi_) the [[lore-flksinale|Sinale]] who hold office in [[affiliation-tantsouempr|Tantsou]] tell one another, and they tell it on one occasion. Under the old arrangement between the imperial court and the forest enclaves, which neither side explains and both keep, the [[lore-tanchei|Tanchei]] hall of a western prefecture holds one or two Sinale scholars at a time, and on the evening a new one is entered on the hall's roll the eldest Sinalo present tells the newest this story, after the entry is made and before the classification tablet is issued, in a plain voice and with no point drawn from it. The title is the clerk's entry: three signs of a four-syllable name, which in Sinale is the word for a long road. The tellers say the tale is funny and tell it as a funny story to the end.
+**The Long Road**, _Tirvali_, is a tale (_ennedhi_) the [[lore-flksenali|Senali]] who hold office in [[affiliation-tantsouempr|Tantsou]] tell one another, and they tell it on one occasion. Under the old arrangement between the imperial court and the forest enclaves, which neither side explains and both keep, the [[lore-tanchei|Tanchei]] hall of a western prefecture holds one or two Senali scholars at a time, and on the evening a new one is entered on the hall's roll the eldest Senalo present tells the newest this story, after the entry is made and before the classification tablet is issued, in a plain voice and with no point drawn from it. The title is the clerk's entry: three signs of a four-syllable name, which in Senali is the word for a long road. The tellers say the tale is funny and tell it as a funny story to the end.
 
-It is the one Sinale story that reached human hands without being given. A gloss in the [[skill-clthndscrpt|Veldikko]] hand stands against a single line of one prefecture's planting roll, written there by a Sinale scholar of that hall long after the line itself, and the empire re-files its rolls at every change of era and a copyist copies what stands on the page, so the gloss has gone up with its roll to the Warlord's archive and on to the chancellery in the hands of copyists who cannot read it. The rendering below is from the gloss, which is the tale written down, with what the tellers add in speech kept where they add it.
+It is the one Senali story that reached human hands without being given. A gloss in the [[skill-clthndscrpt|Veldikko]] hand stands against a single line of one prefecture's planting roll, written there by a Senali scholar of that hall long after the line itself, and the empire re-files its rolls at every change of era and a copyist copies what stands on the page, so the gloss has gone up with its roll to the Warlord's archive and on to the chancellery in the hands of copyists who cannot read it. The rendering below is from the gloss, which is the tale written down, with what the tellers add in speech kept where they add it.
 
 Under the arrangement, an enclave owes a prefecture a scholar. The enclave above the prefecture of this tale had sent one down for as long as the prefecture had kept a roll to enter one on, and when the scholar before went back up into the forest the enclave sent [Tirvalitta Solmerinto]{.name data-type="being/npc"}. Her hearth was the hearth of the smell of rain. Her given name was the long road, with the ending that makes a word a woman's name. She had watched the sky for longer than the prefecture had stood, and she had never in her life been written down, because her people keep their names in mouths and an enclave has no roll.
 
-The hall had held Sinale before her, one at a time, back past the oldest copy of its roll, and every one of them had gone onto the page without trouble. The scholar before her had carried a given name of three syllables, as it happened, and the three cells had taken it as if they had been cut for it. Nobody in the hall had ever had reason to count the cells.
+The hall had held Senali before her, one at a time, back past the oldest copy of its roll, and every one of them had gone onto the page without trouble. The scholar before her had carried a given name of three syllables, as it happened, and the three cells had taken it as if they had been cut for it. Nobody in the hall had ever had reason to count the cells.
 
-The hall of the Tanchei in that prefecture kept the prefecture's part of the [Dao Nong Chou]{.name data-type="lore/law"}, the Great Person Record (see [[lore-castelaws|Caste Laws]]), the roll on which every person in the empire stands, from the Son of Heaven to the slave who carries his owner's name on a tablet. The clerk who held the brush at the roll that year was the second son of the keeper of the roll. He was nineteen. He had held the brush for one year, and in that year the roll had not been wrong once, and he had the manner the roll gives to the people who keep it, which is the manner of someone who has never needed to raise his voice because the page is on his side. The Sinale who tell this do not give his designation, which ran to eleven characters and stated his clan, his father's office and his district, and they do not shorten it either. They say "the clerk," which is not a name, and so breaks no rule.
+The hall of the Tanchei in that prefecture kept the prefecture's part of the [Dao Nong Chou]{.name data-type="lore/law"}, the Great Person Record (see [[lore-castelaws|Caste Laws]]), the roll on which every person in the empire stands, from the Son of Heaven to the slave who carries his owner's name on a tablet. The clerk who held the brush at the roll that year was the second son of the keeper of the roll. He was nineteen. He had held the brush for one year, and in that year the roll had not been wrong once, and he had the manner the roll gives to the people who keep it, which is the manner of someone who has never needed to raise his voice because the page is on his side. The Senali who tell this do not give his designation, which ran to eleven characters and stated his clan, his father's office and his district, and they do not shorten it either. They say "the clerk," which is not a name, and so breaks no rule.
 
-She came down in the autumn with the Warlord's letter, which classified her as Tanchei because the enclave had sent a scholar and a scholar is what the fourth caste is for. The hall stood at the top of the prefecture town, a court of gray tile with the records store along its east side and a flat roof above the store where the charts were kept under oiled cloth, and she was brought to the roll before she was brought to the roof. The clerk read the letter twice, set it in its place and opened the roll. Those who tell this like to give the columns, and they give them in the roll's own order: the caste, in one character; the clan, in as many characters as the clan takes; the household; the district; the sex; the name, if the person brought one, in three cells; the meaning of the name; the year of entry; the hand that entered it; and the events, which for most people stay empty all their lives. A Sinalo has a name cell filled where most of the fourth caste have none, because the Tanchei teach that the [[lore-elderraces|Elder Races]] were sorted at the [Great Sorting]{.name data-type="lore/cosmology"} with the names they already carried, so the roll enters the name an enclave gives. A name the empire grants is entered beside the description it is granted over, in the grant's own place on the roll; the name cell is for a name the person brought, which the empire did not give, and it is cut to three, because four is an unsorted number and the roll keeps it out of its filings.
+She came down in the autumn with the Warlord's letter, which classified her as Tanchei because the enclave had sent a scholar and a scholar is what the fourth caste is for. The hall stood at the top of the prefecture town, a court of gray tile with the records store along its east side and a flat roof above the store where the charts were kept under oiled cloth, and she was brought to the roll before she was brought to the roof. The clerk read the letter twice, set it in its place and opened the roll. Those who tell this like to give the columns, and they give them in the roll's own order: the caste, in one character; the clan, in as many characters as the clan takes; the household; the district; the sex; the name, if the person brought one, in three cells; the meaning of the name; the year of entry; the hand that entered it; and the events, which for most people stay empty all their lives. A Senalo has a name cell filled where most of the fourth caste have none, because the Tanchei teach that the [[lore-elderraces|Elder Races]] were sorted at the [Great Sorting]{.name data-type="lore/cosmology"} with the names they already carried, so the roll enters the name an enclave gives. A name the empire grants is entered beside the description it is granted over, in the grant's own place on the roll; the name cell is for a name the person brought, which the empire did not give, and it is cut to three, because four is an unsorted number and the roll keeps it out of its filings.
 
 The caste he wrote from the letter. The clan he asked for.
 
@@ -48,7 +48,7 @@ He wrote _Tir_, and _va_, and _li_. The fourth cell was not there. He looked at 
 
 He turned the roll so that she could see the column where that was already marked. "The roll has a column for it," he said. "A record does not say a thing twice, and a name is not written in four."
 
-She looked at the three cells for some time. The Sinale who tell this give the pause its length, and then they give her line, which is the line the tale is told for.
+She looked at the three cells for some time. The Senali who tell this give the pause its length, and then they give her line, which is the line the tale is told for.
 
 "Then you have registered a road."
 
@@ -66,7 +66,7 @@ Her stipend was drawn once from the roads allocation, because the allocation cle
 
 Her letters came down from the enclave written in the Veldikko, which nobody in the hall could read, addressed to Tirvalitta Solmerinto. The sorting clerk, finding no Tirvalitta on the roll and a Tirvali of the right clan, sent them where the index sent everything of hers, and she read her hearth's letters in the Bureau of Passage's room, among the surveys, which she did not mind, since it was the quietest room in the hall.
 
-Word of the roll went up into the forest, as words do, and in [Jingyou]{.name data-type="lore/calendar"} of her first year, when the inspector had been and gone, she went up after it. The tellers give the hearth scene short. Her mother's mother asked what the empire called her, and she took the tablet out of her sleeve and laid it on the hearthstone, caste up, and the hearth read the three syllables on it and said nothing for the length of time her people say nothing, and then laughed, and did what the Sinale do with a thing worth keeping, which is to add it. Among her own people she is Tirvalitta Tirvali, which is the long road twice over, the clerk's three syllables standing after her name as an epithet stands, and the hearth of the smell of rain has called her so ever since. The empire took a syllable off her and her people put three on, and the hearth was content, and the roll was unchanged.
+Word of the roll went up into the forest, as words do, and in [Jingyou]{.name data-type="lore/calendar"} of her first year, when the inspector had been and gone, she went up after it. The tellers give the hearth scene short. Her mother's mother asked what the empire called her, and she took the tablet out of her sleeve and laid it on the hearthstone, caste up, and the hearth read the three syllables on it and said nothing for the length of time her people say nothing, and then laughed, and did what the Senali do with a thing worth keeping, which is to add it. Among her own people she is Tirvalitta Tirvali, which is the long road twice over, the clerk's three syllables standing after her name as an epithet stands, and the hearth of the smell of rain has called her so ever since. The empire took a syllable off her and her people put three on, and the hearth was content, and the roll was unchanged.
 
 She did not leave it unchanged for want of trying. On the first day of [Jwiyou]{.name data-type="lore/calendar"} (see [[lore-clndrstrlgy|Calendar and Astrology]]), which is the new year, when the Emperor opens the celestial filing and every bureau in the empire settles its ledgers and takes in the year's petitions, she filed hers. She had learned the imperial hand in her first winter, because a Tanchei reads the sacred texts and the sacred texts are in it, and she wrote the petition herself, in the same words every year, which the tellers give exactly:
 
@@ -84,7 +84,7 @@ Once, in her ninth year, she filed it differently. The petition that year came i
 
 Those who hear the tale for the first time ask here why he did not add the syllable himself, and the tellers answer that he could not. The [Teng Lou]{.name data-type="lore/law"}, the Heavenly Law (see [[lore-tseising|Tseising]]), makes an alteration to the roll without a granted petition an unauthorized reclassification, which is the crime the empire kills for, in the open, so that the lesson carries. The one lawful way to a fourth cell was a petition, and the petition's only ground was a ground the roll already answered in another column. Both of them understood this. Neither said so. She filed on the first day of Jwiyou and he denied her, and the year went on, and the stars did what she said they would.
 
-For that was the other half of her office, and the tale does not forget it. She gave the hall its dates. She said when the river would be safe to levy on and when the passes would close, and once, when the bureau's chart showed a comet due and the chart was wrong by a season, she said the comet would be late, and it was, and when the Warlord's man asked how she knew she said, "I have seen it come the last three times," and the hall entered her counsel as received and unverifiable, as the hall enters any Sinale counsel, and acted on it.
+For that was the other half of her office, and the tale does not forget it. She gave the hall its dates. She said when the river would be safe to levy on and when the passes would close, and once, when the bureau's chart showed a comet due and the chart was wrong by a season, she said the comet would be late, and it was, and when the Warlord's man asked how she knew she said, "I have seen it come the last three times," and the hall entered her counsel as received and unverifiable, as the hall enters any Senali counsel, and acted on it.
 
 In her twelfth year the commandant of the Warlord's column came to the hall himself, in [Chyauyou]{.name data-type="lore/calendar"}, with the bureau's almanac under his arm, because the column was to go over the high pass with the winter's grain and the almanac gave the pass as open for a month yet and the hall's Tanchei had given it as closing in ten days. He asked the keeper of the roll for the scholar who had given the date. The keeper opened the roll and read him the entry, caste, clan, household, district, sex, name and meaning, as the roll gave it, and the commandant said he had not asked for a road, and the keeper said that the hall held no other Tanchei from the enclave and that the commandant would find her on the roof. He found her on the roof. "The almanac is a book," she said. "The pass is a pass. It closes in ten days." The commandant went up with his wagons on the almanac's word, and the snow came on the ninth day, and the column came down without the wagons and without the grain, and the Warlord's office opened a file on the loss, which the index put with the roads, where it lay beside her. In her thirteenth year the commandant came up to the roof before he came to the roll, and the column went when she said, and in every year after. She was right for forty years. The hall never wrote that down, because there is no column for being right.
 
@@ -96,7 +96,7 @@ His elder son learned the roll at his side from the age of eight, as he had lear
 
 He never earned a personal name. A name in the empire is granted for a thing done that heaven notices, a reading that turns the court or a star found where no star was charted, and the keeping of a roll without an error for forty years is what a Tanchei does. Nobody is named for it. The roll gave him what it gave every unnamed Tanchei, his clan and his office and his district, and he answered to it, and she answered to a road, and the hall did its business between them.
 
-She counted the years her own way, in twenties, and when the roll had counted forty she had counted two. Each year, when the inspector had been and gone, she went up into the forest in Jingyou and came down again in [Wengyou]{.name data-type="lore/calendar"}, the month of winds, when the Tanchei read the year's dispatches out of the sky. She showed the tablet at the town gate and at the bridge and at the last post on the road up, and at the forest's edge she put it away in her sleeve, since the road ended there, and so, for the summer, did Tirvali. In Wengyou she took it out again at the last post and was a road to the town gate. Some Sinale who serve a term in the halls do not come back out of the forest when it ends. She came back every Wengyou for forty years, and nobody in the hall asked her why, and the clerk did not ask either, having no column for it.
+She counted the years her own way, in twenties, and when the roll had counted forty she had counted two. Each year, when the inspector had been and gone, she went up into the forest in Jingyou and came down again in [Wengyou]{.name data-type="lore/calendar"}, the month of winds, when the Tanchei read the year's dispatches out of the sky. She showed the tablet at the town gate and at the bridge and at the last post on the road up, and at the forest's edge she put it away in her sleeve, since the road ended there, and so, for the summer, did Tirvali. In Wengyou she took it out again at the last post and was a road to the town gate. Some Senali who serve a term in the halls do not come back out of the forest when it ends. She came back every Wengyou for forty years, and nobody in the hall asked her why, and the clerk did not ask either, having no column for it.
 
 In his thirty-fourth year the archivist of the hall, going into the records store at night for a lamp, heard the keeper of the roll alone among the shelves saying one word, low, with the pitch falling at the end of it, and took it for a recitation from the sacred texts, and went out again without the lamp.
 
@@ -120,17 +120,17 @@ He wrote what the roll held. The line is the one the gloss stands against, and t
 
 ## See Also
 
-[[lore-flksinale|Sinale Folk]]
+[[lore-flksenali|Senali Folk]]
 : the people, their enclaves and their dealings with Tantsou
 
 [[lore-elderraces|Elder Races]]
-: how the empire classifies the Sinale and what passes between them
+: how the empire classifies the Senali and what passes between them
 
 [[lore-castelaws|Caste Laws]]
 : the Great Person Record and the classification tablet
 
 [[lore-tanchei|Tanchei]]
-: the caste the hall belongs to, and the Sinale scholars within it
+: the caste the hall belongs to, and the Senali scholars within it
 
 [[lore-personlnms|Personal Names]]
 : who in the empire holds a name, and what the rest are called
@@ -138,7 +138,7 @@ He wrote what the roll held. The line is the one the gloss stands against, and t
 [[lore-clndrstrlgy|Calendar and Astrology]]
 : the months the tale keeps its years by
 
-[[skill-sinalelng|Sinale Language]]
+[[skill-senalilng|Senali Language]]
 : the name that is never shortened, and the call that falls
 
 [[lore-longnhrtnc|The Long Inheritance]]

@@ -32,7 +32,7 @@ data:
             how: the village inside the Silver Forests keeps the law that no standing silver birch is felled, by anyone, for any reason
             knowledge: named
           - place: place-aelirosse
-            how: the Sinale of the enclave, whose dwellings are worked into living silver birch, are the other party to the law that those trees are not cut
+            how: the Senali of the enclave, whose dwellings are worked into living silver birch, are the other party to the law that those trees are not cut
             knowledge: unlinked
           - place: place-alndntrblnds
             how: the sentence of Kinlessness, and the habit of returning to the wood's edge to ask once more, run through every Áelendan telling of a failure
@@ -40,7 +40,7 @@ data:
       who:
         - {ref: lore-aelendnppl, role: actor}
         - {ref: lore-tenaspr, role: witness}
-        - {ref: lore-flksinale, role: witness}
+        - {ref: lore-flksenali, role: witness}
       follows:
         - event: lore-lowestpoolpct
           how: answered
@@ -50,7 +50,7 @@ data:
           says: >-
             We cut birch, and we left the smoke on the hollow, and we did not ask. We went back to ask.
           agrees: full
-        - by: lore-flksinale
+        - by: lore-flksenali
           says: >-
             They broke it, and they came back and sat with their hands bare, and we said yes. We have not told them the cost.
           agrees: full
@@ -76,13 +76,13 @@ The right song was in the lore, and it was held whole by the chief's sister, [Mo
 
 ## Kinless
 
-The hall did not wait for the [[lore-flksinale|Sinale]]. It met at the hearth of [[lore-tenaspr|Tena]] and made Ghalmir Kinless: no hearth, no shade, no water, no name and no friend. He walked into the wood alone. The Sinale did not turn the paths against him; they turned of themselves. What he met in there he had earned, the Sinale say, and they keep what it was.
+The hall did not wait for the [[lore-flksenali|Senali]]. It met at the hearth of [[lore-tenaspr|Tena]] and made Ghalmir Kinless: no hearth, no shade, no water, no name and no friend. He walked into the wood alone. The Senali did not turn the paths against him; they turned of themselves. What he met in there he had earned, the Senali say, and they keep what it was.
 
 ## The Return
 
 Mogha brought the people up to the wood's edge in the cold, the young and the old with their hands bare, and they sat three days as Dhargan had sat, and nobody begged. [Hauletta]{.name data-type="being/npc"} went out to her and asked why they sat. Mogha said that they had broken it, that they had cut birch and left the smoke on the hollow and not asked, and that they had come back to ask. They did not ask for the trees, which were gone. They asked to keep the wood again: the watch, the deep pool, the fog. They said they would fail, and ask once more.
 
-Hauletta stood a long time. She saw the cost: it would not be this once, since each time after, a face would come to the edge and sit with its hands bare. She said, "Keep it," and nothing more. The Sinale went with the people once to the hollow, and in the fog they sang together, and the thin place took the thing back.
+Hauletta stood a long time. She saw the cost: it would not be this once, since each time after, a face would come to the edge and sit with its hands bare. She said, "Keep it," and nothing more. The Senali went with the people once to the hollow, and in the fog they sang together, and the thin place took the thing back.
 
 The silver came back to the bark of the birch that were left, slowly, over four lives. The men who had swung the axes and their sons were dead before it lit the dark.
 

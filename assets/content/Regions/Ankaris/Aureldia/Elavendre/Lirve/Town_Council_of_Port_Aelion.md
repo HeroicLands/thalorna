@@ -76,7 +76,7 @@ The town's patron hero is [Aelion]{.name data-type="being/npc"}, a half-legendar
 
 ## History {#history}
 
-Port Aelion's foundation stones are said to have been blessed by members of the [[lore-flksinale|Sinale Folk]] who once walked the coastline. The council's blend of the town's freemen and its older families is a balance kept through centuries of compromise and mutual respect, and the town grew into the kingdom's chief harbor under it.
+Port Aelion's foundation stones are said to have been blessed by members of the [[lore-flksenali|Senali Folk]] who once walked the coastline. The council's blend of the town's freemen and its older families is a balance kept through centuries of compromise and mutual respect, and the town grew into the kingdom's chief harbor under it.
 
 ## Relations {#relations}
 

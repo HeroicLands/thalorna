@@ -186,7 +186,7 @@ The living and the dead are bound by obligations that run both ways. The living 
 
 The channel is the **Leigen**, the spirit master, a Nouwen born with the gift of speaking to the dead. He carries a household's business to its ancestors and brings back the answer, reads ancestral commands, treats sickness from the spirit side, leads the village rites and settles disputes by asking the ancestors concerned to rule. He is a peasant by caste and every caste respects him; Warlords consult him in private, since acknowledging a peasant's authority openly would break caste. The cost is the offering the ancestors demand and whatever the Leigen's craft requires. The dead give orders, and a command through a Leigen, a dream or an omen is treated as a directive from heaven. The older the ancestor, the more binding the word, and in most families the dead have the last say on a great decision, including a marriage, a feud or an alliance.
 
-The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] within the empire do not keep these rites, and the bureaucracy has no place to file their dead.
+The [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] within the empire do not keep these rites, and the bureaucracy has no place to file their dead.
 
 ## Names, and Who May Have One
 

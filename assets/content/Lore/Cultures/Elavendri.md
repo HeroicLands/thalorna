@@ -84,7 +84,7 @@ The consequence is that the Élavendri are unimpressed by displays. Power casual
 
 The magic they study is the [[affiliation-zemorhodhis|Zemor Hodhis]], the Six Ways, as [[affiliation-ordoarcanis|the Thordimalon]] teaches it, and the houses' ties with the Order are very close: the [University of Péravel]{.name data-type="affiliation"} and the Order's chapterhouses are where a well-bred Élavendri learns the art. The bond is a real point of tension with the Áelendan, who actively dislike the Order and do not tolerate its meddling in their sacred sites.
 
-Because the [[lore-flksinale|Sinale]] walk openly among them, the Élavendri also have a settled sense of proportion about their own arts. They know what a truly old practitioner looks like, and the knowledge prevents a certain kind of human vanity.
+Because the [[lore-flksenali|Senali]] walk openly among them, the Élavendri also have a settled sense of proportion about their own arts. They know what a truly old practitioner looks like, and the knowledge prevents a certain kind of human vanity.
 
 ## Prophecy, and the Long View
 
@@ -114,7 +114,7 @@ Her admiration is not a lesser form of Ranthor's. He holds the line between the 
 
 ## What the Houses and the Groves Keep
 
-An Élavendri can name the things that hold the kingdom's old institutions in place. **The genealogies** are kept by the Bardic Colleges, the kingdom's definitive authority on who descends from whom, and the proofs of descent they hold are among its most valuable documents. The Pact is the unwritten compact of the Áelendan with the land, sung and enacted through the seasons and held by the Tradition Keepers. [[lore-theasking|The Asking]] is the Sinalean lay of the Pelwar band that came over the eastern pass and asked the wood for a place in it; the Tradition Keepers hold it, and the Colleges sing it to the harp in nine turnings. [[lore-seventowers|The Seven Towers]] is a second Sinalean song, held the same way. **The grove-elder's circlet** is woven of living wood, tended through a lifetime and burned with its wearer. **The leaf-mark** is the tattoo on the inside of an initiate's wrist that records the home grove, renewed by its elder and fading with absence. **The tree line** is the limit the crown swears to at each crowning.
+An Élavendri can name the things that hold the kingdom's old institutions in place. **The genealogies** are kept by the Bardic Colleges, the kingdom's definitive authority on who descends from whom, and the proofs of descent they hold are among its most valuable documents. The Pact is the unwritten compact of the Áelendan with the land, sung and enacted through the seasons and held by the Tradition Keepers. [[lore-theasking|The Asking]] is the Senalian lay of the Pelwar band that came over the eastern pass and asked the wood for a place in it; the Tradition Keepers hold it, and the Colleges sing it to the harp in nine turnings. [[lore-seventowers|The Seven Towers]] is a second Senalian song, held the same way. **The grove-elder's circlet** is woven of living wood, tended through a lifetime and burned with its wearer. **The leaf-mark** is the tattoo on the inside of an initiate's wrist that records the home grove, renewed by its elder and fading with absence. **The tree line** is the limit the crown swears to at each crowning.
 
 Each person carries smaller things. A hedge-affiliate carries a knotted cord of grove-blessed yarn, often under the clothes. A noble house carries a signet. A sun name goes in public, and a shadow name stays among intimates and at night.
 
@@ -215,7 +215,7 @@ The sin is the welcome. The crown's cordiality to the Order is warm and sincere,
 : the tree line and the sacred sites
 
 [[lore-theasking|The Asking]]
-: the Sinalean lay of the band that asked the wood
+: the Senalian lay of the band that asked the wood
 
 [[being-rnthrprdln|Ranthor Párdalen]]
 : the shaman between the kingdom and the interior

@@ -6,7 +6,7 @@
 /**
  * The Veldikko spelling generator (`node utils/veldikko-spelling.mjs`).
  *
- * The two Veldikko encoding notes, `sinaveldikkoenc` for Sinale and `aeleveldikkoenc`
+ * The two Veldikko encoding notes, `senaveldikkoenc` for Senali and `aeleveldikkoenc`
  * for Áelendi, share nearly every row. This script writes the `data.mappings` and `data.rules`
  * of both from one source, so they cannot drift; everything else in a note is
  * authored by hand and left as it is.
@@ -25,7 +25,7 @@ import { fileURLToPath } from "node:url";
 import { notePath } from "./note-index.mjs";
 
 export const NOTES = [
-    { tongue: "sinale", file: notePath("doc-sinaveldikkoenc") },
+    { tongue: "senali", file: notePath("doc-senaveldikkoenc") },
     { tongue: "aelendi", file: notePath("doc-aeleveldikkoenc") },
 ];
 
@@ -72,7 +72,7 @@ const cm = (...ks) => ks.map((k) => "U+" + L[k].toString(16).toUpperCase()).join
 /**
  * The rows of a tongue's mapping, as the lines of a YAML list.
  *
- * @param {"sinale" | "aelendi"} tongue
+ * @param {"senali" | "aelendi"} tongue
  * @returns {string[]}
  */
 function spellingRows(tongue) {
@@ -125,7 +125,7 @@ function spellingRows(tongue) {
     for (const v of cases("nk")) add(v, ch("ng", "k"), cm("ng", "k"));
     for (const v of cases("ch")) add(v, ch("k"), cm("k"));
     // Áelendi writes sh as s. The rule is Áelendi's alone: s and h never
-    // meet in a Sinale word.
+    // meet in a Senali word.
     if (AE) for (const v of cases("sh")) add(v, ch("s"), cm("s"));
     for (const v of cases("x")) add(v, ch("k", "s"), cm("k", "s"));
     for (const c of singles) for (const v of cases(c)) add(v, ch(c), cm(c));
@@ -140,10 +140,10 @@ function spellingRows(tongue) {
     add("-", "", "writes nothing", "at: end");
     add("-", " ", "a word space");
 
-    // Sinale's performance marks belong to the selected vowel nucleus. The
+    // Senali's performance marks belong to the selected vowel nucleus. The
     // shared Áelendi spelling keeps its existing stress-only vowel rows.
     if (!AE) {
-        addSinaleVowels(add);
+        addSenaliVowels(add);
         return rows;
     }
 
@@ -186,9 +186,9 @@ function spellingRows(tongue) {
 }
 
 /**
- * Sinale vowel spellings under the common marks of Pronouncing Thalorna. A
+ * Senali vowel spellings under the common marks of Pronouncing Thalorna. A
  * word is read left to right, taking the held vowels aa, ii and uu and
- * Sinale's diphthongs as groups wherever they start; every other vowel stands
+ * Senali's diphthongs as groups wherever they start; every other vowel stands
  * alone. Each group or lone vowel is one nucleus, and a nucleus followed by a
  * vowel writes the carrier that vowel stands on, so a vowel after another
  * nucleus is always on the carrier. An acute marks stress and draws the stress
@@ -207,7 +207,7 @@ function spellingRows(tongue) {
  * this reaches one group back: a second toned held vowel straight after such a
  * row, as in paaâaâa, has no row and is refused.
  */
-function addSinaleVowels(add) {
+function addSenaliVowels(add) {
     const acute = { a: "á", e: "é", i: "í", o: "ó", u: "ú", y: "ý" };
     const tones = { "\u030c": "rise", "\u0302": "fall" };
     const write = (from, letters, after) => {
@@ -218,7 +218,7 @@ function addSinaleVowels(add) {
             add(from, ch(...letters), "", condition);
         }
     };
-    const groups = new Set([..."aiu"].map((v) => v + v).concat(SINALE_DIPHTHONGS));
+    const groups = new Set([..."aiu"].map((v) => v + v).concat(SENALI_DIPHTHONGS));
     // Where a toned held vowel may follow directly: after a consonant, or
     // after a vowel that would open no group with its toned letter.
     const after = Object.fromEntries(
@@ -246,7 +246,7 @@ function addSinaleVowels(add) {
                 after: after[held],
             });
     }
-    for (const [first, last] of SINALE_DIPHTHONGS) {
+    for (const [first, last] of SENALI_DIPHTHONGS) {
         spelled.push({ from: first + last, last, letters: [first, last] });
         spelled.push({ from: acute[first] + last, last, letters: [first, "emphasis", last] });
     }
@@ -275,11 +275,11 @@ function addSinaleVowels(add) {
         }
 }
 
-/** Sinale's diphthongs, as its language note lists them. */
-const SINALE_DIPHTHONGS = ["ai", "au", "ia", "eo", "oi", "ou", "ui", "uo", "ei", "ie", "yi", "ye"];
+/** Senali's diphthongs, as its language note lists them. */
+const SENALI_DIPHTHONGS = ["ai", "au", "ia", "eo", "oi", "ou", "ui", "uo", "ei", "ie", "yi", "ye"];
 
-/** Every vowel letter a Sinale spelling writes, marked or not, for the `before: vowel` rows. */
-const SINALE_VOWELS = "aeiouyìáéíóúýǎâǐîǔû";
+/** Every vowel letter a Senali spelling writes, marked or not, for the `before: vowel` rows. */
+const SENALI_VOWELS = "aeiouyìáéíóúýǎâǐîǔû";
 
 /** Selected font metadata is the only glyph-code table. */
 export const GLYPH_CODES = fontCodes(resolveScriptFonts(process.cwd()), "veldikko");
@@ -322,7 +322,7 @@ export function generateEncoding(tongue) {
             "word-separators": ["-"],
             "contextual-mappings": [...contextual.values()],
         },
-        ...(tongue === "sinale" ? { vowels: SINALE_VOWELS } : {}),
+        ...(tongue === "senali" ? { vowels: SENALI_VOWELS } : {}),
     };
 }
 

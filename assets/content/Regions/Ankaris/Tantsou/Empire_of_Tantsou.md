@@ -214,7 +214,7 @@ The Empire's external trade is enormous. It flows west along [[lore-celestialroa
 **Peoples**
 
 [[lore-elderraces|Elder Races]]
-: the [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] within the caste system
+: the [[lore-flksenali|Senali]] and [[lore-flkkhazar|Khazari]] within the caste system
 
 **Politics and intrigue**
 

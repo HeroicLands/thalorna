@@ -3,7 +3,7 @@ shortcode: forestnoroad
 name: {full: The Forest of No Road}
 type: place
 subType: site
-description: "The forest below the Eastern Reach that no janpoda has ever sent an assembly into, where Sinale enclaves are rumored and nobody's rumor has ever been confirmed."
+description: "The forest below the Eastern Reach that no janpoda has ever sent an assembly into, where Senali enclaves are rumored and nobody's rumor has ever been confirmed."
 tags: [forest, frontier, strange, inland]
 data: {demonym: null, lore: [], parents: [estrnreach], population: null, packFolder: vedyara}
 ---
@@ -14,9 +14,9 @@ There are ways through it. There is no road.
 
 ## The Rumor
 
-Enclaves of [[lore-flksinale|Sinale]] are rumored there, and [[lore-flkkhazar|Khazari]] halls above the tree line on the far side of the same range. The rumors are old, consistent and entirely unconfirmed, which is the condition in which such rumors are most useful to the people who repeat them.
+Enclaves of [[lore-flksenali|Senali]] are rumored there, and [[lore-flkkhazar|Khazari]] halls above the tree line on the far side of the same range. The rumors are old, consistent and entirely unconfirmed, which is the condition in which such rumors are most useful to the people who repeat them.
 
-What is repeated is always the same: lights at a distance that do not move as a camp's fire moves, a path that is clear for a day and gone the next, and a traveler who came out at a different place from the one he expected. Nobody produces a Sinale. Nobody produces a body, an artifact or a name.
+What is repeated is always the same: lights at a distance that do not move as a camp's fire moves, a path that is clear for a day and gone the next, and a traveler who came out at a different place from the one he expected. Nobody produces a Senali. Nobody produces a body, an artifact or a name.
 
 ## Who Goes In
 

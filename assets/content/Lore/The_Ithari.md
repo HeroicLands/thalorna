@@ -3,7 +3,7 @@ shortcode: theithari
 name: {full: The Ithari, en: [Those Who Came Before, The Precursors]}
 type: lore
 subType: history
-description: "The people who came before—who arrived on Thalorna before 10,000 BF, raised Kaliharan civilization out of nothing, left works of a single substance standing across the world, met the Sinale once and found them quaint, and departed at 7,300 BF for a destination no record names. Known to Kalihara alone; everywhere else there are only sites."
+description: "The people who came before—who arrived on Thalorna before 10,000 BF, raised Kaliharan civilization out of nothing, left works of a single substance standing across the world, met the Senali once and found them quaint, and departed at 7,300 BF for a destination no record names. Known to Kalihara alone; everywhere else there are only sites."
 tags: [lore, history, kalihara]
 data: {packFolder: settinglore}
 ---
@@ -160,7 +160,7 @@ stops, and on Kalihara the custodians have been stopping there for eighty centur
 
 They are not machines: there is nothing inside them to turn, no linkage, no store, no fuel, no wear.
 They are not arcane apparatus either. They answer to no process known anywhere on Thalorna—not to the
-[[lore-flksinale|Sinale]], not to the [[lore-flkkhazar|Khazari]], not to any human tradition that has
+[[lore-flksenali|Senali]], not to the [[lore-flkkhazar|Khazari]], not to any human tradition that has
 ever been near one—they draw on nothing an adept can detect, and they do not respond to the Aura
 being worked beside them. A structure that calms a monsoon calms it. A structure that makes a
 sea-approach unnavigable makes it unnavigable. Ask how, and there is no how: nothing to open, nothing
@@ -277,40 +277,40 @@ business on Thalorna. Whatever the rest of it was, they conducted it without fou
 teaching anybody, or leaving a word behind—which is why, everywhere but one island, they left no
 trace of themselves at all, only of their work.
 
-## The Sinale, who found them quaint
+## The Senali, who found them quaint
 
 The one crack in the silence is an afternoon, and almost nothing came through it.
 
-The [[lore-flksinale|Sinale]] reached Thalorna approximately 7500 BF—a figure nobody holds more
+The [[lore-flksenali|Senali]] reached Thalorna approximately 7500 BF—a figure nobody holds more
 closely than that—and the Ithari were still here. The
-Sinale did not seek them out; by their own account they came upon them. It is the only occasion on
+Senali did not seek them out; by their own account they came upon them. It is the only occasion on
 record of anyone outside Kalihara meeting the Ithari at all.
 
-What the Sinale report is short and has never been elaborated. They were received. They were not
+What the Senali report is short and has never been elaborated. They were received. They were not
 rebuffed, threatened, questioned or taken seriously. The impression they came away with—and the
-Sinale are careful to give it as an impression—is that they were found **quaint**: an interesting
+Senali are careful to give it as an impression—is that they were found **quaint**: an interesting
 young people, met with courtesy, and politely declined. No exchange was proposed. No further meeting
-was arranged. The others returned to whatever they had been doing, and the Sinale went away.
+was arranged. The others returned to whatever they had been doing, and the Senali went away.
 
-**The limit of it should be stated plainly.** The Sinale met someone and learned nothing. They were not
+**The limit of it should be stated plainly.** The Senali met someone and learned nothing. They were not
 told who they had met, where those people had come from, what they were doing on Thalorna, or that
 there was any connection between them and anything else in the world. They do not use the name Ithari,
 because they were never given it. The Kaliharans were not party to the encounter and did not learn of
-it from the Ithari, and nothing records whether the Sinale ever put that afternoon together with the
+it from the Ithari, and nothing records whether the Senali ever put that afternoon together with the
 builders of Kalihara's works—the question would require them to know that Kalihara's works had
 builders, and there is no account of anyone telling them.
 
-The Sinale have never said where it happened, what was said, or what the others were doing when they
+The Senali have never said where it happened, what was said, or what the others were doing when they
 were found. They will confirm that it occurred, and that is the end of what they will give. The
 [[lore-flkkhazar|Khazari]], arriving two thousand years later, never met them and have nothing of their
-own; whatever the Sinale chose to pass on in the years when the two peoples still spoke went no further
+own; whatever the Senali chose to pass on in the years when the two peoples still spoke went no further
 than that, and both peoples have been silent since long before any human asked.
 
 ## The departure
 
 Kaliharan civilization dates the departure, and it is the one Ithari date the Kaliharans hold
-precisely: **7,300 BF**, some two centuries after the Sinale encounter. Everything else in this account
-is reckoned loosely, the Sinale's own arrival included; this one figure the custodians carry to the
+precisely: **7,300 BF**, some two centuries after the Senali encounter. Everything else in this account
+is reckoned loosely, the Senali's own arrival included; this one figure the custodians carry to the
 year, because everything they do is counted from it.
 
 The record describes it as a disturbance. Something went through the Ithari—the word the custodians
@@ -339,7 +339,7 @@ Across that span the understanding has drifted where the practice has not. Proce
 presumably meant as maintenance have acquired ritual weight; the tending is performed with exactness
 and with reverence, and the two are no longer separable. The island's refusal of the outside world is
 of the same lineage: the Ithari tended what was theirs and left the rest alone, and their students have
-done the same with a consistency that no other human society has come close to. When the Sinale asked
+done the same with a consistency that no other human society has come close to. When the Senali asked
 for settlement and, later, the Khazari, Kalihara received both with courtesy and refused both, on the
 grounds that the island was complete. It has not revised that answer since.
 

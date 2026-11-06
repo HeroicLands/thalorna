@@ -120,7 +120,7 @@ export const SOURCES = {
     "skill-provnzlng": ["occitan", "galician", "portuguese"],
     // The word lists hold no chumash list, so a Shuqash coinage is checked by reading.
     "skill-shuqashlng": ["barbareno-chumash", "ventureno-chumash"],
-    "skill-sinalelng": ["finnish"],
+    "skill-senalilng": ["finnish"],
     "skill-sowideslng": ["mongolian", "turkish"],
     "skill-tantsoulng": ["chinese"],
     "skill-taruzelilng": ["akkadian", "phoenician"],
@@ -150,7 +150,7 @@ export const RULED_KEPT = new Map([
         "skill-byzarnlng",
         new Map([["pluma", "the spelling The Sayings of the First Warden quotes"]]),
     ],
-    ["skill-sinalelng", new Map([["sahke", "the spelling The Seven Towers quotes"]])],
+    ["skill-senalilng", new Map([["sahke", "the spelling The Seven Towers quotes"]])],
 ]);
 
 /** The notes whose words collide only when the meaning agrees as well as the form. */

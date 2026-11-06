@@ -27,7 +27,7 @@ The land is the bare bones of the earth: rounded hills of pink and gray rock scr
 
 The Pine People eat more fish and game than any other nation of the Grove. They fish the lakes through the ice in winter, hunt moose and deer in the hills, gather wild rice in the shallow bays, and trade furs south for the maize they cannot grow. Their furs are the best in the Grove, because the cold makes them thick.
 
-On the far ridges north and west of the villages, where the oldest pines stand, lies [[place-hersellonku|Hersellonku]], a conclave of the [[lore-flksinale|Sinale Folk]]. The canoe makers leave those ridges uncut, and the Pine People hunt elsewhere.
+On the far ridges north and west of the villages, where the oldest pines stand, lies [[place-hersellonku|Hersellonku]], a conclave of the [[lore-flksenali|Senali Folk]]. The canoe makers leave those ridges uncut, and the Pine People hunt elsewhere.
 
 The [Lake of Islands]{.name data-type="place/feature"} lies on their southern edge, between them and the [[place-kahsiotargn|Falls Country]], and the Pine People's canoes cross it without stopping.
 
@@ -56,7 +56,7 @@ Furs go south: beaver, marten, otter and moose hide, down the rivers to the Fall
 : the heart of the Grove, to the south
 
 [[place-hersellonku|Hersellonku]]
-: the Sinale conclave on the far ridges
+: the Senali conclave on the far ridges
 
 [[lore-tiatorenhsa|Answering]]
 : the faith of the Grove, and its quarrel with the bands' spirit-doctors

@@ -35,7 +35,7 @@ languages:
     oske: { tag: art-x-oske, note: skill-osketlng }
     prov: { tag: art-x-prov, note: skill-provnzlng }
     shuq: { tag: art-x-shuq, note: skill-shuqashlng }
-    sina: { tag: art-x-sina, note: skill-sinalelng }
+    sina: { tag: art-x-sina, note: skill-senalilng }
     sovi: { tag: art-x-sovi, note: skill-sowideslng }
     tant: { tag: art-x-tant, note: skill-tantsoulng }
     taru: { tag: art-x-taru, note: skill-taruzelilng }
@@ -428,26 +428,26 @@ pdf:
               - sectionName: Lore
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-provenzianclt'
-        - id: sinale
-          title: Sinalë
+        - id: senali
+          title: Senali
           abbreviation: "Sin."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
                 contents:
-                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-sinaleclt'
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-senaliclt'
               - sectionName: Places
                 contents:
-                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-sinaleclt'
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-senaliclt'
               - sectionName: Affiliations
                 contents:
-                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-sinaleclt'
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-senaliclt'
               - sectionName: People
                 contents:
-                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-sinaleclt'
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-senaliclt'
               - sectionName: Lore
                 contents:
-                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-sinaleclt'
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-senaliclt'
         - id: tantsou
           title: Tāntsou
           abbreviation: "Tānt."

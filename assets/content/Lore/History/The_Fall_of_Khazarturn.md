@@ -3,7 +3,7 @@ shortcode: fallkhazturn
 name: {full: The Fall of Khazartúrn, en: [The Sundering of the Elder Races]}
 type: lore
 subType: history
-description: "In 2427 BF a Sinale outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazartúrn and kills every soul in it—and the two Elder Races have not spoken since."
+description: "In 2427 BF a Senali outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazartúrn and kills every soul in it—and the two Elder Races have not spoken since."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -15,10 +15,10 @@ data:
         - lore-khazarturn
         - miscgear-secondvoice
         - lore-flkkhazar
-        - lore-flksinale
+        - lore-flksenali
         - lore-grukarfolk
       summary: >-
-        A Sinale outlaw takes up the Second Voice, a relic that speaks over Ahks and commands the hatched directly, and drives tens of thousands of Grukar against Khazartúrn. All thirty thousand inhabitants are killed. The Khazari lay their dead in their own chambers, clean the city, and seal it for all generations. The Old Compact ends here, the Sinale hunt the outlaw down themselves and render no accounting, and the two Elder Races have had nothing to do with one another since.
+        A Senali outlaw takes up the Second Voice, a relic that speaks over Ahks and commands the hatched directly, and drives tens of thousands of Grukar against Khazartúrn. All thirty thousand inhabitants are killed. The Khazari lay their dead in their own chambers, clean the city, and seal it for all generations. The Old Compact ends here, the Senali hunt the outlaw down themselves and render no accounting, and the two Elder Races have had nothing to do with one another since.
       standing: attested
       where:
         locus: [place-worldthlrn]
@@ -44,7 +44,7 @@ data:
             knowledge: unlinked
       who:
         - {ref: lore-flkkhazar, role: victim}
-        - {ref: lore-flksinale, role: actor}
+        - {ref: lore-flksenali, role: actor}
         - {ref: lore-grukarfolk, role: instrument}
       follows:
         - event: lore-khazturnrsd
@@ -59,10 +59,10 @@ data:
       accounts:
         - by: lore-flkkhazar
           says: >-
-            The Sinale knew the thing existed and never said so. One of theirs held it. They settled it in private, handed over nothing, and explained nothing.
+            The Senali knew the thing existed and never said so. One of theirs held it. They settled it in private, handed over nothing, and explained nothing.
           agrees: partly
           withholds: whether anyone has entered the city since it was sealed, and what is in it
-        - by: lore-flksinale
+        - by: lore-flksenali
           says: >-
             One outlaw, whom we destroyed ourselves, and it took a long time. We owed no reckoning.
           agrees: partly
@@ -99,7 +99,7 @@ blocked the skylights with granite dressed to the surrounding rock, shut the fou
 source, put the birds out, and sealed it. Khazartúrn is not a ruin. It is intact, in good order, and
 full of its people.
 
-The breach that followed is the one the world half-knows and cannot date. The [[lore-flksinale|Sinale]] knew the relic
+The breach that followed is the one the world half-knows and cannot date. The [[lore-flksenali|Senali]] knew the relic
 existed and had never thought a weapon against cities worth mentioning, since they build none; one of
 theirs used it; and they hunted him down themselves, took a long time about it, and handed over
 nothing. Both positions are defensible and neither survives contact with the other. Only on

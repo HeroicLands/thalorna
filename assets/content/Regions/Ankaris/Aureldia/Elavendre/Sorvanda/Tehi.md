@@ -3,7 +3,7 @@ shortcode: tehy
 name: {full: Tehì}
 type: place
 subType: site
-description: "The round clearing in the Silver Forests, near the Sinale enclave of Aelirosse, where a single great tree answers one question truly and where a night can run to a month: the ground the Uron Tekhi holds."
+description: "The round clearing in the Silver Forests, near the Senali enclave of Aelirosse, where a single great tree answers one question truly and where a night can run to a month: the ground the Uron Tekhi holds."
 tags: [sacred, woodland, fae]
 data:
   demonym: null
@@ -11,18 +11,18 @@ data:
   parents: [silvrfrsts]
   population: 0
   packFolder: elavendre
-  culture: sinaleclt
+  culture: senaliclt
 ---
 
 ## Overview {#overview}
 
-**Tehì** is a round clearing in [[place-silvrfrsts|the Silver Forests]], not far from [[place-aelirosse|Aelirosse]], with one tree standing in the middle of it and nothing else growing. In the Sinale tongue the word means the clearing round a single tree. The tree is [[place-urontekhi|the Uron Tekhi]], and the Áelendan, who took the Sinale word and made their own name of it, mean the tree and the clearing by it.
+**Tehì** is a round clearing in [[place-silvrfrsts|the Silver Forests]], not far from [[place-aelirosse|Aelirosse]], with one tree standing in the middle of it and nothing else growing. In the Senali tongue the word means the clearing round a single tree. The tree is [[place-urontekhi|the Uron Tekhi]], and the Áelendan, who took the Senali word and made their own name of it, mean the tree and the clearing by it.
 
 The tree speaks. It answers a question put to it, and the answer is true, and what comes of the answer is not the asker's care. A traveler who comes near it by chance sees lights go ahead of him through the trunks, and follows them, and the wood closes behind him. It is ground the [[lore-aelendnppl|Áelendan]] hold sacred, and a place where time slips, and the [[affiliation-alndnwrdns|Wardens]] keep it as the [[lore-aralwen|Araelwen]] it is.
 
 ## Who Holds It {#who-holds-it}
 
-The tree holds the clearing, and [[lore-uronspr|the Uron Tekhi]] is the oldest spirit the Áelendan deal with. The Sinale of Aelirosse keep nearer to it than anybody and say nothing of what they know. The Wardens keep the approaches from outside the bounds, with a watch that turns people away, and no Warden goes into the clearing without a reason that a shaman has weighed.
+The tree holds the clearing, and [[lore-uronspr|the Uron Tekhi]] is the oldest spirit the Áelendan deal with. The Senali of Aelirosse keep nearer to it than anybody and say nothing of what they know. The Wardens keep the approaches from outside the bounds, with a watch that turns people away, and no Warden goes into the clearing without a reason that a shaman has weighed.
 
 The rules for it are short, and the Áelendan teach them to children. Go there seldom. Go with a cause. Ask one thing.
 
@@ -32,7 +32,7 @@ The tree is older than the tribes, and what is said of it is what the first band
 
 **The Áelendan account.** The people were new to the forest when a boy of ten followed lights into it. The wood closed behind him, his mother ran in after him and went round and round it all night, and in the morning it put her out at the edge. The boy came out at the next full moon, no thinner, and said he had been gone a breath. The lights had led him to a tree in a round clearing, and it had said one word to him: _Begin_ ([[lore-theasking|The Asking]]).
 
-**The Sinale account.** Hauletta told the chief the rule of the place: it answers true, but what the asker brings away belongs to some other care. The boy asked nothing, and the tree told him to begin. It meant something by it, and the Sinale do not say what.
+**The Senali account.** Hauletta told the chief the rule of the place: it answers true, but what the asker brings away belongs to some other care. The boy asked nothing, and the tree told him to begin. It meant something by it, and the Senali do not say what.
 
 **The shamen's account.** The tree and the spirit are not two things. What stands there is what is spoken to.
 
@@ -69,7 +69,7 @@ The tree does not answer a second question from the same asker, and does not ans
 
 - **The University's question.** The fellow wants a guard to walk him to the clearing, and the Wardens want to know who is guiding him.
 - **The shaman.** She went in at the new moon and has not come out. The tribe asks the party to find her, which means going where the Wardens have not gone.
-- **The loaf.** Someone leaves bread on the ground at the clearing's edge at every new moon, and the Sinale of Aelirosse do not say who, and the Wardens have not moved it.
+- **The loaf.** Someone leaves bread on the ground at the clearing's edge at every new moon, and the Senali of Aelirosse do not say who, and the Wardens have not moved it.
 
 ## See Also {#see-also}
 

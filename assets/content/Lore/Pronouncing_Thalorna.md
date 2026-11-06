@@ -238,7 +238,7 @@ A hyphen inside a word keeps two letters from forming a group, without adding a 
 
 ## Punctuation
 
-When a line of a Thalorna tongue is written out, such as a quoted line of Elavendri or a verse of a Sinale poem, it uses one shared set of punctuation, and each mark says what kind of sentence it closes. English prose around it keeps ordinary English punctuation, and these marks appear only inside the line itself. Most of them look familiar. Three are worth learning, because they carry what a voice would: `‼` closes an order, `«` and `»` open and close a quotation, and `‹` and `›` mark a quotation inside another.
+When a line of a Thalorna tongue is written out, such as a quoted line of Elavendri or a verse of a Senali poem, it uses one shared set of punctuation, and each mark says what kind of sentence it closes. English prose around it keeps ordinary English punctuation, and these marks appear only inside the line itself. Most of them look familiar. Three are worth learning, because they carry what a voice would: `‼` closes an order, `«` and `»` open and close a quotation, and `‹` and `›` mark a quotation inside another.
 
 | Mark    | What it does                                                                      |
 | ------- | --------------------------------------------------------------------------------- |

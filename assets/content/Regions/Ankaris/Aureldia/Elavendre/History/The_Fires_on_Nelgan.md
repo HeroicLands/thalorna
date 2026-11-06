@@ -3,7 +3,7 @@ shortcode: firesnelgan
 name: {full: The Fires on Nelgan, en: [The Giving-Over]}
 type: lore
 subType: history
-description: "About 1250 BF a war-band of the host then taking the forest east of the mountains came over Nelgan with brands, the Áelendan stood at the trees under a second Dhargan, the Sinale showed themselves, and the wood was given over to the Áelendan at Ethalosse."
+description: "About 1250 BF a war-band of the host then taking the forest east of the mountains came over Nelgan with brands, the Áelendan stood at the trees under a second Dhargan, the Senali showed themselves, and the wood was given over to the Áelendan at Ethalosse."
 tags: [history]
 data:
   culture: aelendanclt
@@ -16,20 +16,20 @@ data:
         - lore-theasking
         - lore-takingwood
         - lore-aelendnppl
-        - lore-flksinale
+        - lore-flksenali
         - place-ethalosse
         - place-nelgan
       summary: >-
-        Fires are seen on Nelgan. A war-band of the host that is taking the forest east of the mountains comes over the pass, led by a chief the Áelendan call Dulthan. A second Dhargan stands the Áelendan at the trees and goes forward alone with his hands bare to ask the Sinale to take the children in. The Sinale turn the wood so that the paths run straight for the Áelendan and in rings for the raiders. When the raiders' brands set a stand of birch alight, Hauletta walks out through the fire with the whole of the Sinale behind her, and the raiders break and do not come back that year or since. The wounded Dhargan is laid in the court at Ethalosse, and there Hauletta gives the wood to the Áelendan to keep.
+        Fires are seen on Nelgan. A war-band of the host that is taking the forest east of the mountains comes over the pass, led by a chief the Áelendan call Dulthan. A second Dhargan stands the Áelendan at the trees and goes forward alone with his hands bare to ask the Senali to take the children in. The Senali turn the wood so that the paths run straight for the Áelendan and in rings for the raiders. When the raiders' brands set a stand of birch alight, Hauletta walks out through the fire with the whole of the Senali behind her, and the raiders break and do not come back that year or since. The wounded Dhargan is laid in the court at Ethalosse, and there Hauletta gives the wood to the Áelendan to keep.
       standing: attested
       names:
         - {name: the Fires on Nelgan, by: lore-aelendnppl}
-        - {name: the Giving-Over, by: lore-flksinale}
+        - {name: the Giving-Over, by: lore-flksenali}
       where:
         locus: [place-nelgan, place-ethalosse]
         reach:
           - place: place-ethalosse
-            how: the court becomes the one place where the Sinale deal with the world, and only through Áelendan who carry what is said exactly
+            how: the court becomes the one place where the Senali deal with the world, and only through Áelendan who carry what is said exactly
             knowledge: named
           - place: place-silvrfrsts
             how: the Wardens' charge widens from the groves and the fog-hollow to the passes
@@ -39,7 +39,7 @@ data:
             knowledge: unlinked
       who:
         - {ref: lore-aelendnppl, role: actor}
-        - {ref: lore-flksinale, role: actor}
+        - {ref: lore-flksenali, role: actor}
         - {ref: affiliation-alndnwrdns, role: instrument}
       follows:
         - event: "lore-takingwood#taking"
@@ -53,7 +53,7 @@ data:
           says: >-
             Dulthan came with fire, and Dhargan took the brand out of the tree with his bare hand, and no man of them has come back.
           agrees: full
-        - by: lore-flksinale
+        - by: lore-flksenali
           says: >-
             We do not fight. We sing, and no song puts out a fire, so we walked out through it.
           agrees: full
@@ -79,24 +79,24 @@ Hauletta had set this task to the first [Dhargan]{.name data-type="being/npc"} l
 
 The raiders came at dusk with brands. The Áelendan held the edge and the first spears flew. The brands passed over the line and into the birch, and a stand of it caught.
 
-The [[lore-flksinale|Sinale]] do not fight, and no song puts out a fire. Hauletta looked at the burning for a long time and raised her hand. She walked out through the fire, and the whole of the Sinale came out of the wood after her into the light of the raiders' own fire, in sight of men who had never seen them. Half the raiders ran. The rest stood like stones, and the brands dropped.
+The [[lore-flksenali|Senali]] do not fight, and no song puts out a fire. Hauletta looked at the burning for a long time and raised her hand. She walked out through the fire, and the whole of the Senali came out of the wood after her into the light of the raiders' own fire, in sight of men who had never seen them. Half the raiders ran. The rest stood like stones, and the brands dropped.
 
 Dulthan stayed. He threw one brand at the nearest tree, and it caught. Dhargan went up to it and took it out bare-handed, and it burned through his hand. Dulthan's spear took him in the side. Dhargan stood, held the brand until it died in his burned hand, and then sat down where the trees thin. Hauletta looked at him, and that was all she did. He turned and ran, and his men ran after him. No man of them came back that year, or since.
 
 ## The Giving-Over
 
-In the morning the Áelendan counted, and Dhargan lay speared and breathing. The children came out of the wood, and the Sinale came out with them. The people had not seen the Sinale in the light before. They are by day too tall and too still, and not the gods the Áelendan had made of them.
+In the morning the Áelendan counted, and Dhargan lay speared and breathing. The children came out of the wood, and the Senali came out with them. The people had not seen the Senali in the light before. They are by day too tall and too still, and not the gods the Áelendan had made of them.
 
-The wounded Dhargan was laid in the court of worked stone at [[place-ethalosse|Ethalosse]], where the last trees thin toward the pass. Hauletta spoke aloud, so that all could hear, which the Sinale do not do. She told them they had not earned the wood, that nobody earns a wood, that they had broken it and would break more and would still come back each time with their hands spread. She told them that was the reason for the gift: not that they had kept it, but that they wanted it and had no deeper want. The wood had never been hers, and she gave what was not hers to give, which is how a thing like this is given. The night was the Sinale's, she said, and the day the Áelendan's. The wood woke to them. They were to be its first light.
+The wounded Dhargan was laid in the court of worked stone at [[place-ethalosse|Ethalosse]], where the last trees thin toward the pass. Hauletta spoke aloud, so that all could hear, which the Senali do not do. She told them they had not earned the wood, that nobody earns a wood, that they had broken it and would break more and would still come back each time with their hands spread. She told them that was the reason for the gift: not that they had kept it, but that they wanted it and had no deeper want. The wood had never been hers, and she gave what was not hers to give, which is how a thing like this is given. The night was the Senali's, she said, and the day the Áelendan's. The wood woke to them. They were to be its first light.
 
-That is the day the Áelendan were named, in the Sinale tongue, first light. Dhargan sat up in the court and said, "To keep it," and lay back down, and the wood passed to them. Hauletta smiled. The Áelendan set the watch again that day with Dhargan's sons and theirs, and they walk a wall that is not there.
+That is the day the Áelendan were named, in the Senali tongue, first light. Dhargan sat up in the court and said, "To keep it," and lay back down, and the wood passed to them. Hauletta smiled. The Áelendan set the watch again that day with Dhargan's sons and theirs, and they walk a wall that is not there.
 
-Hauletta told the people the name the Sinale had kept since the first Dhargan sat at the wood's edge. It was **Pilme**, the one who sat. The Áelendan say it to children by the hearth and at his cairn.
+Hauletta told the people the name the Senali had kept since the first Dhargan sat at the wood's edge. It was **Pilme**, the one who sat. The Áelendan say it to children by the hearth and at his cairn.
 
 ## What It Left
 
 - **The Wardens' wider charge.** The order that had begun with a fog-hollow keeps the passes as well as the groves from this day ([[affiliation-alndnwrdns|The Áelendan Wardens]]).
-- **Ethalosse as the door.** The Sinale deal with the world there and nowhere else, and only through Áelendan who carry what is said without adding to it ([[place-ethalosse|Ethalosse]]).
+- **Ethalosse as the door.** The Senali deal with the world there and nowhere else, and only through Áelendan who carry what is said without adding to it ([[place-ethalosse|Ethalosse]]).
 - **Dulthan's name,** said to quiet a child, and behind it a grudge east of the mountains that the Áelendan expect to see paid.
 - **Fire-scarred rock on the pass,** where the raiders camped, and a raider's iron that still turns up in the scree ([[place-nelgan|Nelgan]]).
 - **A gift that is not earned.** The Áelendan hold the wood as given and not won, and say so first when an outsider asks by what right.

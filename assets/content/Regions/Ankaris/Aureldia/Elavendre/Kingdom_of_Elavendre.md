@@ -3,7 +3,7 @@ shortcode: kngdmlvndr
 name: {full: Kingdom of Élavendre}
 type: affiliation
 subType: polity
-description: "Woodland kingdom of forests, music, and ancient magic—center of Elavendri culture where Sinale and humans coexist as equals in a land apart."
+description: "Woodland kingdom of forests, music, and ancient magic—center of Elavendri culture where Senali and humans coexist as equals in a land apart."
 data:
   templatePriority: null
   demonym: Élavendren
@@ -104,7 +104,7 @@ data:
   packFolder: elavendre
 sohl: {system: {commonSkills: [elvndrlng]}}
 
-# terran_analog: "Northern France and Switzerland—the Pelwar kingdom proper, with Sinale diplomatic relations."
+# terran_analog: "Northern France and Switzerland—the Pelwar kingdom proper, with Senali diplomatic relations."
 ---
 
 ## Overview
@@ -175,7 +175,7 @@ The [[affiliation-alndnwrdns|Áelendan Wardens]]—guardians of the sacred sites
 
 ## Holdings {#holdings}
 
-The crown holds the four lowland and coastal quarters of the land, [[place-ellive|Éllive]], [[place-lirve|Lirve]], [[place-auldalon|Áuldalon]] and [[place-lisere|Lísere]], through its sheriffs and royal courts, and the town of [[place-elanmere|Elanmere]] at the foot of [[place-sorvanda|Sórvanda]]. The capital, [[place-beravel|Péravel]], is its seat. The [[place-alndntrblnds|Áelendan Tribal Lands]] are the tribes', and the three [[lore-flksinale|Sinale]] enclaves are their own.
+The crown holds the four lowland and coastal quarters of the land, [[place-ellive|Éllive]], [[place-lirve|Lirve]], [[place-auldalon|Áuldalon]] and [[place-lisere|Lísere]], through its sheriffs and royal courts, and the town of [[place-elanmere|Elanmere]] at the foot of [[place-sorvanda|Sórvanda]]. The capital, [[place-beravel|Péravel]], is its seat. The [[place-alndntrblnds|Áelendan Tribal Lands]] are the tribes', and the three [[lore-flksenali|Senali]] enclaves are their own.
 
 Below the crown stand bodies that govern their own ground under it:
 

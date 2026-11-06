@@ -23,8 +23,8 @@ import {
 
 const fixture = {
     respellings: [
-        { from: "leesy", to: "leesì", tongue: "sinale" },
-        { from: "-ny", to: "-nì", tongue: "sinale" },
+        { from: "leesy", to: "leesì", tongue: "senali" },
+        { from: "-ny", to: "-nì", tongue: "senali" },
         { from: "yra", to: "ira", tongue: "varokhi" },
         { from: "envy", to: "envi", tongue: "eilwithi", scope: "eilwithi" },
     ],
@@ -33,7 +33,7 @@ const fixture = {
 const table = proseTable(fixture);
 const prose = (text) => respellProse(text, table);
 
-test("a vowel y is i, or Sinale's ì; a y before a vowel or after one stays", () => {
+test("a vowel y is i, or Senali's ì; a y before a vowel or after one stays", () => {
     for (const [word, after] of [
         ["envy", "envi"],
         ["Ythros", "Ithros"],

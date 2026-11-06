@@ -42,9 +42,9 @@ there the following season.
 
 There is a reason both elder races are on this island, and it is not coincidence.
 
-After [[lore-khazarturn|Khazartúrn]] the [[lore-flksinale|Sinale]] recovered [[miscgear-secondvoice|the Second Voice]], and the two peoples
+After [[lore-khazarturn|Khazartúrn]] the [[lore-flksenali|Senali]] recovered [[miscgear-secondvoice|the Second Voice]], and the two peoples
 made the only agreement they have reached since: the relic would be **held in trust on Eilwìth, by both
-races together**—this being the one country in the world where Sinale and Khazari still shared ground,
+races together**—this being the one country in the world where Senali and Khazari still shared ground,
 and therefore the only place neither would be trusted to keep it alone.
 
 **It never arrived.** Six ships left [[place-elavendre|Élavendre]] and went off the water without
@@ -52,8 +52,8 @@ wreckage, without survivors and without explanation, and Vorgald has been waitin
 three thousand years overdue.
 
 What the Khazari of this island make of that is not discussed. It is worth noting only that they were
-promised something by the Sinale, did not receive it, were given no account of why—and that some
-centuries later the Sinale of [[place-hallowwood|the Hallowwood]] withdrew from a war and left them to
+promised something by the Senali, did not receive it, were given no account of why—and that some
+centuries later the Senali of [[place-hallowwood|the Hallowwood]] withdrew from a war and left them to
 finish it alone.
 
 ## The Old Kingdom
@@ -62,8 +62,8 @@ Eilwìth was once ruled by both elder races together, and it was not an ancient 
 **attempt at repair**.
 
 Khazartúrn fell in 2427 BF and the two peoples stopped speaking everywhere in the
-world—except here. The Sinale and Khazari of Eilwìth in time united the island under a **single crown**, held
-by a Sinale king, and managed its affairs jointly for **six hundred years**. [[lore-jointcrown|The Joint Crown]] began about 1585 BF. It is the only reconciliation
+world—except here. The Senali and Khazari of Eilwìth in time united the island under a **single crown**, held
+by a Senali king, and managed its affairs jointly for **six hundred years**. [[lore-jointcrown|The Joint Crown]] began about 1585 BF. It is the only reconciliation
 either race has ever attempted, and the works of that period are still in the ground: [[place-eilwith|roads that run where
 no later road runs]], cut stone [[lore-vardain|the Vardain]] cannot match, foundations under three Eilwìthan
 towns that nobody has satisfactorily dated.
@@ -71,7 +71,7 @@ towns that nobody has satisfactorily dated.
 It ended with people who had nowhere else to go. The **[[lore-pelwarpepl|Pelwar]]** reached Eilwìth around **1200 BF**,
 driven off the mainland by the [Varkhad]{.name data-type="lore/folk"} ([[lore-varkhadcnq|The Varkhad Conquest]]); two centuries of pressure became the **[Great
 War]{.name data-type="lore/history"}**; and in **984 BF** the king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]]. The surviving
-Sinale withdrew into the forest that is now the Hallowwood and
+Senali withdrew into the forest that is now the Hallowwood and
 left the Khazari to finish the war alone.
 
 They finished it. They have never forgiven it, and the two elder races of Eilwìth have had nothing to do
@@ -121,7 +121,7 @@ this hold for millennia and know the Deep Folk better than any humans alive, are
 older and more particular than territory.
 
 The reason is recorded, and it is not a secret so much as a thing the Deep Folk do not raise with
-outsiders. In **2427 BF** a Sinale outlaw wielding the Second Voice took tens of
+outsiders. In **2427 BF** a Senali outlaw wielding the Second Voice took tens of
 thousands of Grukar from their spawners and destroyed [[lore-khazarturn|Khazartúrn]], the greatest
 city the Khazari ever built. Every hold since has kept the account in its working archive and reads it,
 so a Khazár of Vorgald who has never seen a Grukar knows precisely what one is before it is in front of

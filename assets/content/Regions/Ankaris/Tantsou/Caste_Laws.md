@@ -89,25 +89,25 @@ A foreigner with a bureau classification stays marked as other. The classificati
 
 ## The Elder Races and the Classification
 
-The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] are a different case entirely, because they are not unclassified. They are older than the empire and older than humanity, and the [Great Sorting]{.name data-type="lore/cosmology"}, the Tanchei teach, classified all of existence, including beings that existed long before people were sorted into castes. The Elder Races were sorted. They have their place.
+The [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] are a different case entirely, because they are not unclassified. They are older than the empire and older than humanity, and the [Great Sorting]{.name data-type="lore/cosmology"}, the Tanchei teach, classified all of existence, including beings that existed long before people were sorted into castes. The Elder Races were sorted. They have their place.
 
-That place is not quite the human one. The Elder Races are classified functionally, by the role each performs within the empire, and not by the cosmological reasoning behind the human castes. A human Tsaihwo artisan is Tsaihwo because the Great Sorting designated that category for craft-workers; a Sinalo master jeweler is Tsaihwo because that is the nearest administrative category the system has for what he does. The classification fits, and it was not made for him.
+That place is not quite the human one. The Elder Races are classified functionally, by the role each performs within the empire, and not by the cosmological reasoning behind the human castes. A human Tsaihwo artisan is Tsaihwo because the Great Sorting designated that category for craft-workers; a Senalo master jeweler is Tsaihwo because that is the nearest administrative category the system has for what he does. The classification fits, and it was not made for him.
 
 ### Caste Placement
 
-**Tsaihwo**, the majority. Most Sinale and Khazari within the empire are classified as [[lore-tsaihuo|Tsaihwo]], since their craftsmanship, Sinalean woodwork, textiles and jewelry, Khazárian metalwork, masonry and engineering, makes it the obvious functional fit. Their work commands extraordinary prices and respect, and lifts individual artisans to wealth and influence far above their nominal standing.
+**Tsaihwo**, the majority. Most Senali and Khazari within the empire are classified as [[lore-tsaihuo|Tsaihwo]], since their craftsmanship, Senalian woodwork, textiles and jewelry, Khazárian metalwork, masonry and engineering, makes it the obvious functional fit. Their work commands extraordinary prices and respect, and lifts individual artisans to wealth and influence far above their nominal standing.
 
-**Tanchei**, the scholars and priests. Sinalean sages and Khazárian masters of engineering and earth-lore are classified as [[lore-tanchei|Tanchei]] when their knowledge serves the empire's scholarly and spiritual institutions. The priests who keep their own peoples' traditions are placed here too, because "keeper of sacred knowledge" is the nearest equivalent the caste system offers.
+**Tanchei**, the scholars and priests. Senalian sages and Khazárian masters of engineering and earth-lore are classified as [[lore-tanchei|Tanchei]] when their knowledge serves the empire's scholarly and spiritual institutions. The priests who keep their own peoples' traditions are placed here too, because "keeper of sacred knowledge" is the nearest equivalent the caste system offers.
 
-**Wohou**, the warriors and the nobles. Khazárian warriors of proven valor and Sinalean officers who serve in the imperial military are classified as [[lore-wohou|Wohou]], and so are the leaders of enclaves and strongholds who must deal with the imperial administration, because that standing carries the authority such dealings need. In rare cases an Elder noble is classified [[lore-zhazho|Zhazho]].
+**Wohou**, the warriors and the nobles. Khazárian warriors of proven valor and Senalian officers who serve in the imperial military are classified as [[lore-wohou|Wohou]], and so are the leaders of enclaves and strongholds who must deal with the imperial administration, because that standing carries the authority such dealings need. In rare cases an Elder noble is classified [[lore-zhazho|Zhazho]].
 
-**Never Wandwo.** Magic is intrinsic to the Elder Races, woven into their nature in a way no human shares, and no Sinalo or Khazár is ever classified as [[lore-wanduo|Wandwo]]. The Wandwo classification exists for humans born with innate magic who must be controlled through the chattel system, and Elder magic does not work through the petition model at all; it is not channeled through mental forms built from aura as human magic is, whether [[affiliation-ordoarcanis|Arcane Order]] or Wandwo. The system can categorize the Elder Races and cannot explain their magic, a loose end the Tanchei prefer not to examine.
+**Never Wandwo.** Magic is intrinsic to the Elder Races, woven into their nature in a way no human shares, and no Senalo or Khazár is ever classified as [[lore-wanduo|Wandwo]]. The Wandwo classification exists for humans born with innate magic who must be controlled through the chattel system, and Elder magic does not work through the petition model at all; it is not channeled through mental forms built from aura as human magic is, whether [[affiliation-ordoarcanis|Arcane Order]] or Wandwo. The system can categorize the Elder Races and cannot explain their magic, a loose end the Tanchei prefer not to examine.
 
 ### The Dual Existence
 
 The Elder Races live in two worlds at once. Inside the empire, in human cities, at court, in trade and in military service, they accept and work within their assigned classifications: they attend the Son of Heaven when summoned, serve in the armies when called, and trade under the same rules as any other Tsaihwo or Wohou. They understand that dealing with the human world means fitting the human hierarchy, and that refusal would mean reclassification downward, or treatment as unclassified, with all the loss of standing that entails.
 
-Inside their own enclaves, the Sinalean forest sanctuaries and the Khazárian mountain holds, the human classification does not apply. Each people keeps its own understanding of its place in the world, its own spiritual traditions and social structures, all of them older than the Great Sorting, or at least older than the human account of it. A Sinalo master craftsman classified as Tsaihwo finds the designation administratively useful and cosmologically meaningless. He is Sinale. The paperwork is a human concern.
+Inside their own enclaves, the Senalian forest sanctuaries and the Khazárian mountain holds, the human classification does not apply. Each people keeps its own understanding of its place in the world, its own spiritual traditions and social structures, all of them older than the Great Sorting, or at least older than the human account of it. A Senalo master craftsman classified as Tsaihwo finds the designation administratively useful and cosmologically meaningless. He is Senali. The paperwork is a human concern.
 
 The empire manages this tension and never resolves it. The classification insists that it sorted everything, the Elder Races included; the Elder Races' quiet refusal to take their classifications to heart is, from the cosmological side, a low-grade breach that has been running for millennia. The Tanchei know it and have collectively decided not to think about it too hard. [[lore-elderraces|Elder Races]] gives the territories, the autonomy, the military cooperation and the diplomacy in full.
 
@@ -126,7 +126,7 @@ The empire manages this tension and never resolves it. The classification insist
 : auspicious and inauspicious numbers
 
 [[lore-elderraces|Elder Races]]
-: how the [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] fit within the caste system
+: how the [[lore-flksenali|Senali]] and [[lore-flkkhazar|Khazari]] fit within the caste system
 
 [[lore-tantsoucrncy|Tantsou Currency]]
 : the ledger-credit a classification opens

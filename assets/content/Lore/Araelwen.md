@@ -98,7 +98,7 @@ The crown stands between them. It keeps the Order warm inside the walls and guid
 : the fog-hollow at the edge of the Silver Forests, a door to fell things, and the oldest watch in the Áelendan keeping.
 
 [[place-mallonna|Mallonna]]
-: the deep pool that the Sinale Lauva keeps, a thin place in water.
+: the deep pool that the Senali Lauva keeps, a thin place in water.
 
 [[place-hldhr|The Held Hour]]
 : a corrie high on the Drenavar Spine where the light does not move.
@@ -123,7 +123,7 @@ The crown stands between them. It keeps the Order warm inside the walls and guid
 
 ## The Name
 
-_Araelwen_ is [[affiliation-theoldway|the Old Way]]'s name for a sacred thin place, and the lowlands say it as the highlands do. It is the same word in the singular and the plural: one Araelwen, and the Araelwen of the Spine. For a thin place of any kind, sacred or not, the Áelendan say _sírnasto_ and the Élavendri _sírnaste_, a word both tongues took from the [[lore-flksinale|Sinale]] ([[skill-aelendlng|Áelendi]]). The Élavendren court, which prefers not to name such things precisely, says _the thin places_.
+_Araelwen_ is [[affiliation-theoldway|the Old Way]]'s name for a sacred thin place, and the lowlands say it as the highlands do. It is the same word in the singular and the plural: one Araelwen, and the Araelwen of the Spine. For a thin place of any kind, sacred or not, the Áelendan say _sírnasto_ and the Élavendri _sírnaste_, a word both tongues took from the [[lore-flksenali|Senali]] ([[skill-aelendlng|Áelendi]]). The Élavendren court, which prefers not to name such things precisely, says _the thin places_.
 
 ## Hooks {#araelwen-hooks}
 

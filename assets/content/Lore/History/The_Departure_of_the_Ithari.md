@@ -54,5 +54,5 @@ perform, indistinguishable now from the older body of practice, and nothing in t
 of the tendings were added at the end. Nobody knows what they were for.
 
 This is the one Ithari date the Kaliharans hold precisely, because everything they do is counted from
-it. Everything else in the account—the arrival, the raising, the meeting with the [[lore-flksinale|Sinale]]—is
+it. Everything else in the account—the arrival, the raising, the meeting with the [[lore-flksenali|Senali]]—is
 reckoned loosely.

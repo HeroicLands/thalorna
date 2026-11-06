@@ -3,7 +3,7 @@ shortcode: liranel
 name: {full: Liranel}
 type: place
 subType: settlement
-description: "A forest town of the western coast, set back from the cliffs at the edge of Sinale country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."
+description: "A forest town of the western coast, set back from the cliffs at the edge of Senali country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."
 tags: [town, woodland, coastal]
 data:
   demonym: null
@@ -21,7 +21,7 @@ and its business is timber and everything that follows from timber.
 ## The Edge
 
 Liranel matters because of where it stops. East and north of the town the managed coppice and oak give
-way to the old forest, and the old forest is the country of the [[lore-flksinale|Sinale Folk]] and
+way to the old forest, and the old forest is the country of the [[lore-flksenali|Senali Folk]] and
 patrolled by the [[affiliation-alndnwrdns|Áelendan Wardens]]. Liranel is where the licenses to cut are issued, recorded,
 disputed and—often enough—quietly exceeded.
 
@@ -58,6 +58,6 @@ The forest court has a quarrel of its own. A ring of old oak inside the block th
 
 ## See Also
 
-- [[place-lirve|Lirve]] · [[lore-flksinale|Sinale]] · [[place-portaelion|Port Aelion]] · [[affiliation-clgtongues|The College of Tongues]]
+- [[place-lirve|Lirve]] · [[lore-flksenali|Senali]] · [[place-portaelion|Port Aelion]] · [[affiliation-clgtongues|The College of Tongues]]
 - [[scenario-crpntrsnght|The Carpenters' Night]], a scenario set here
 - [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

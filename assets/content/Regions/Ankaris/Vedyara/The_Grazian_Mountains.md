@@ -29,7 +29,7 @@ A register-writer at the [[place-suryadvar|Suryadvar]] shrine, asked by a newcom
 
 The **Grazian Mountains** are the unaligned wall north of the Vedyari subcontinent and south of the [[place-khzryndsrtrgn|Khazrin Desert]]. [[place-tantsouregin|Tantsou]] lies north of the range's eastern reach. In the west the range ends in the foothills of the [[place-dunharargn|Dunhara]], and the road between Dunhara and Vedyara goes around it. The ridges answer to no state; the passes are watched by local guides, by the shrines at their summits, and by the occasional lowland garrison at their approaches.
 
-The summits stay under snow and glacier ice throughout the year, even when the lower passes briefly open in late summer, and the peaks catch the dawn an hour before the lowlands beneath them. The glaciers have held their valleys to the same shape since before the [[lore-flksinale|Sinale]] arrived on the world, and their snowfields feed half the rivers of Vedyara and a meaningful share of the Khazrin's southwestern oases.
+The summits stay under snow and glacier ice throughout the year, even when the lower passes briefly open in late summer, and the peaks catch the dawn an hour before the lowlands beneath them. The glaciers have held their valleys to the same shape since before the [[lore-flksenali|Senali]] arrived on the world, and their snowfields feed half the rivers of Vedyara and a meaningful share of the Khazrin's southwestern oases.
 
 Vedyari geographers write **the Grazian Range** in formal scholarship and **the Grazian Wall** in poetry. The foothill janpodas keep a dozen older names in their own dialect, each of them older than the classical Vedyari tongue and none of them translating cleanly.
 

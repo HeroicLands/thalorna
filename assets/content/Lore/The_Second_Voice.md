@@ -11,13 +11,13 @@ sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 20}}
 The Second Voice is the most dangerous object known to have existed on [[place-worldthlrn|Thalorna]]. It has been missing
 for a very long time, and the two peoples who know what it is have spent that time not discussing it.
 
-The [[lore-flkkhazar|Khazari]] call it Zugán. The [[lore-flksinale|Sinale]] do not name it aloud.
+The [[lore-flkkhazar|Khazari]] call it Zugán. The [[lore-flksenali|Senali]] do not name it aloud.
 
 ## Where It Came From
 
 Unknown, and the silence on the point is total.
 
-The Sinale knew of it before [[lore-khazarturn|Khazartúrn]]—that much is established, because their
+The Senali knew of it before [[lore-khazarturn|Khazartúrn]]—that much is established, because their
 failure to mention it is half the Khazari case against them. They have never said who made it, how it
 was found, how long they had known, or what they understood it to be. They have equally never given the
 renegade's name, said what became of him, or offered any account of what drove him.
@@ -45,7 +45,7 @@ afterward.
 
 ## Khazartúrn
 
-In **2427 BF** the Second Voice was taken up by a **Sinale outlaw**, and used to destroy
+In **2427 BF** the Second Voice was taken up by a **Senali outlaw**, and used to destroy
 Khazartúrn—the greatest city the Khazari ever built, and at that date the greatest
 work of any people on Thalorna.
 
@@ -62,39 +62,39 @@ agricultural hinterland around it and expanding it for twenty-seven centuries: f
 rivers diverted, whole uplands terraced and settled. It was the largest sustained alteration of the
 living world anyone on Thalorna had ever attempted.
 
-To a Sinale, that is not engineering. It is a stone thing eating the world to keep itself alive, and
+To a Senali, that is not engineering. It is a stone thing eating the world to keep itself alive, and
 getting larger every century.
 
 He was, narrowly, **not wrong about what was happening**. That is why his people's condemnation of him
-carried an edge they could not put down: a good many Sinale shared his diagnosis while being appalled by
+carried an edge they could not put down: a good many Senali shared his diagnosis while being appalled by
 his remedy, and that is not a thing one can say to the bereaved.
 
 ## The Sundering
 
-The Khazari have never forgiven the Sinale for Khazartúrn, and their case is not the simple one.
+The Khazari have never forgiven the Senali for Khazartúrn, and their case is not the simple one.
 
-**The Sinale knew the Second Voice existed and said nothing.** Not from malice—from indifference. A
-weapon that commands Grukar is a weapon against cities, and the Sinale keep no cities, so it did
+**The Senali knew the Second Voice existed and said nothing.** Not from malice—from indifference. A
+weapon that commands Grukar is a weapon against cities, and the Senali keep no cities, so it did
 not concern them. That unconcern was itself a failure to take another people's way of living seriously
 enough to imagine what it had at stake, and it is the same blindness that later let one of their own
 decide a Khazari city did not much signify.
 
 **They dealt with him themselves.** It took a long time—an immortal with a Grukar army is not
 concluded quickly—and the Khazari spent that time watching them not manage it. When it was finished
-the Sinale handed over nothing, explained nothing, and offered no accounting of any kind.
+the Senali handed over nothing, explained nothing, and offered no accounting of any kind.
 
 Both positions are defensible. _Your people knew, your people did it, and your people settled it in
 private._ Against: _one outlaw, whom we destroyed; we owed you no reckoning._ Neither survives contact
 with the other, and the two elder races have had effectively nothing to do with one another since.
 
 It is the most closely guarded secret of both peoples, and each has its own reason. The Khazari guard
-it because it is their humiliation. The Sinale guard it because one of theirs did it, and because of
+it because it is their humiliation. The Senali guard it because one of theirs did it, and because of
 what they failed to say beforehand.
 
 ## The Crossing
 
-The Sinale recovered the Second Voice, and eventually the two peoples agreed the only thing they have
-ever agreed since: it would be **held in trust on [[place-eilwith|Eilwìth]], by both races together**—the one place in the world where Sinale and Khazari still shared a country, and therefore the only
+The Senali recovered the Second Voice, and eventually the two peoples agreed the only thing they have
+ever agreed since: it would be **held in trust on [[place-eilwith|Eilwìth]], by both races together**—the one place in the world where Senali and Khazari still shared a country, and therefore the only
 ground on which neither would be trusted to hold it alone.
 
 A convoy of **six ships** sailed from [[place-elavendre|Élavendre]] carrying it.
@@ -124,5 +124,5 @@ Grukar were the Second Voice's first victims and chose none of it.
 
 ## See Also
 
-- [[lore-khazarturn|The Fall of Khazartúrn]] · [[lore-flkkhazar|Khazari]] · [[lore-flksinale|Sinale]]
+- [[lore-khazarturn|The Fall of Khazartúrn]] · [[lore-flkkhazar|Khazari]] · [[lore-flksenali|Senali]]
 - [[lore-grukarfolk|Grukar Folk]]

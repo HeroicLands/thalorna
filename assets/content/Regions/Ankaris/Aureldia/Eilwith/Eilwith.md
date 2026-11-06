@@ -43,7 +43,7 @@ known as far as the mainland.
 western coastal country of Ondareth, and reaching north to the Peshtar forests.
 
 **The south**, below Aldorath and west of Dúnavarre, is [[place-hallowwood|the Hallowwood]]—deep
-fae forest where the [[lore-flksinale|Sinale]] of Eilwìth live, and which does not welcome visitors.
+fae forest where the [[lore-flksenali|Senali]] of Eilwìth live, and which does not welcome visitors.
 
 ## Climate
 
@@ -80,7 +80,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ### Elder Race Enclaves
 
-The southern forests shelter ancient communities of Sinale (elves), who maintain a distant but real relationship with the crown of [[affiliation-kngdmldrth|Aldorath]]. The mountains northeast of Aldorath—the range separating the central lowlands from the Stormveld coast—contain holds of the Khazari (dwarves), which few humans have seen and which are among the most reclusive of their kind anywhere on Ankaris.
+The southern forests shelter ancient communities of Senali (elves), who maintain a distant but real relationship with the crown of [[affiliation-kngdmldrth|Aldorath]]. The mountains northeast of Aldorath—the range separating the central lowlands from the Stormveld coast—contain holds of the Khazari (dwarves), which few humans have seen and which are among the most reclusive of their kind anywhere on Ankaris.
 
 ### Minor Polities
 
@@ -108,17 +108,17 @@ Eilwìth's closest ties are with [[place-elavendre|Élavendre]] on the nearby ma
 
 Before there were kingdoms on Eilwìth there was one, and both elder races held it.
 
-After [[lore-khazarturn|Khazartúrn fell]] in 2427 BF the Sinale and
+After [[lore-khazarturn|Khazartúrn fell]] in 2427 BF the Senali and
 Khazari ceased dealing with one another everywhere in the world—except on this
 island, where instead they attempted to repair it. In time they united Eilwìth under a **single crown** held by a
-Sinale king and governed it together for **six centuries**: the only reconciliation either race has ever
+Senali king and governed it together for **six centuries**: the only reconciliation either race has ever
 tried. [[lore-jointcrown|The Joint Crown]] was founded about 1585 BF.
 
 It was ended by refugees. The **[[lore-pelwarpepl|Pelwar]]**, driven off the mainland by the [Varkhad]{.name data-type="lore/folk"} ([[lore-varkhadcnq|The Varkhad Conquest]]),
 reached Eilwìth around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
 land. Two centuries of arrival and pressure and reprisal became the [Great War]{.name data-type="lore/history"}, and in **984 BF** the
 king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]] in what is now the
-Central Highlands. The Sinale withdrew into the Hallowwood;
+Central Highlands. The Senali withdrew into the Hallowwood;
 the Khazari finished the war alone and have not spoken to them since. How the war ended, and what it left
 to the humans who stayed, is told in [[lore-endgreatwar|the Ending of the Great War]].
 
@@ -129,7 +129,7 @@ Nearly every human on Eilwìth today descends from those refugees, the Peshtar a
 The Joint Crown left roads. They are stretches of **fitted-stone road**, laid by Khazari masons in blocks no
 later mason on the island can match, and they run across the interior and the highlands where no later road
 runs. Most are broken by farms and fords, and a drover who comes to a whole stretch going his way uses it, because
-the footing is better than anything the realms have laid. The Sinale, who built little in
+the footing is better than anything the realms have laid. The Senali, who built little in
 stone, planted the avenues beside them, and where a stretch survives whole there is often a line of oak or
 beech running along it that is far too old to have been set by anyone since.
 
@@ -339,7 +339,7 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 [[affiliation-asguardian|Asguardian Pantheon]]
 : Northern pantheon influence
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : Elder race with southern forest enclaves
 
 [[lore-flkkhazar|Khazari]]

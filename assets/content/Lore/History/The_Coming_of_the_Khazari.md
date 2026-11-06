@@ -3,7 +3,7 @@ shortcode: khazararrv
 name: {full: The Coming of the Khazari, en: [The Arrival of the Seven Clans]}
 type: lore
 subType: history
-description: "The Khazari reach Thalorna around 5300 BF as seven clans, two thousand years after the Sinale, and find a world whose humans are hunter-gatherers and cannot provision a hold."
+description: "The Khazari reach Thalorna around 5300 BF as seven clans, two thousand years after the Senali, and find a world whose humans are hunter-gatherers and cannot provision a hold."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [lore-flkkhazar, place-ankrscntnnt, lore-vardain, lore-khazarturn]
       summary: >-
-        The Khazari reach Thalorna from Humadan, a realm they seldom speak of, two thousand years after the Sinale and as seven clans fleeing with their god Lubát. They take to the mountains and begin cutting holds. A hold grows nothing and will not be supplied from outside, and the humans they find are hunter-gatherers who cannot provision anybody.
+        The Khazari reach Thalorna from Humadan, a realm they seldom speak of, two thousand years after the Senali and as seven clans fleeing with their god Lubát. They take to the mountains and begin cutting holds. A hold grows nothing and will not be supplied from outside, and the humans they find are hunter-gatherers who cannot provision anybody.
       standing: single-source
       where:
         locus: [place-worldthlrn]
@@ -29,14 +29,14 @@ data:
             We came from Humadan, the middle place, where a great war between the powers of good and evil forged rings that warp the mind and the soul; some were given to our ancestors and corrupted them, and seven clans fled with Lubát, saved by Puthakun, the god's servant, who led us out, held the passage behind us and sealed it. A Khazár can recite a line back to one of the seven without hesitation or notes.
           agrees: partly
           withholds: the tale of Humadan beyond its outline, which they seldom tell
-        - by: lore-flksinale
-          says: Nothing. The Sinale will not speak of the Khazari at all.
+        - by: lore-flksenali
+          says: Nothing. The Senali will not speak of the Khazari at all.
           agrees: silent
       unresolved:
-        - how long after the Sinale they followed, which the oldest mountain traditions put at roughly two thousand years and nobody holds more closely
+        - how long after the Senali they followed, which the oldest mountain traditions put at roughly two thousand years and nobody holds more closely
 ---
 
-The [[lore-flkkhazar|Khazari]] came after the [[lore-flksinale|Sinale]]—the Second People, as some
+The [[lore-flkkhazar|Khazari]] came after the [[lore-flksenali|Senali]]—the Second People, as some
 traditions call them. They came from another realm, which they call [Humadan]{.name data-type="place/world"}, "the middle place".
 They seldom speak of it, and what they say is a tale rather than a record.
 
@@ -87,6 +87,6 @@ The houses of a clan hold crafts within its own, and each clan later held one of
 carefully as the craft-records, and every line on Thalorna traces to one of the seven.
 
 For a long span afterward the two Elder Races lived and worked together, under what fragmentary
-tradition calls [[lore-oldcompact|the Old Compact]]: the Sinale crafting in forest and starlight, the Khazari in stone and
+tradition calls [[lore-oldcompact|the Old Compact]]: the Senali crafting in forest and starlight, the Khazari in stone and
 flame, and between them wonders neither could have made alone. Neither people will say when it began,
 and one of them will not say anything at all.

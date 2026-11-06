@@ -3,7 +3,7 @@ shortcode: ansorulamasse
 name: {full: Ansorula Masserinto, en: [Ansorula of Ethalosse]}
 type: being
 subType: npc
-description: "A Sinalo of the enclave of Ethalosse who receives the Áelendan carriers in the court of worked stone, hears what they bring up from the lowlands and gives them back exactly what the enclave has said."
+description: "A Senalo of the enclave of Ethalosse who receives the Áelendan carriers in the court of worked stone, hears what they bring up from the lowlands and gives them back exactly what the enclave has said."
 tags: []
 data:
   icon: icon-person
@@ -11,12 +11,12 @@ data:
   archetypes: [scholar, mage]
   occupation: Receiver of Carriers
   lore: []
-  culture: sinaleclt
+  culture: senaliclt
   homes: [ethalosse]
   affiliations: {nclvthlss: {rank: 1}}
   socialTies: {affiliation-aelndntrbs: friend}
   gender: female
-  species: flksinale
+  species: flksenali
   born: null
   died: null
   height: 6' 1"
@@ -37,9 +37,9 @@ Ansorula Masserinto is a woman who stands 6'1" tall and is of light build. She i
 
 # Dossier {#dossier}
 
-Ansorula Masserinto is a Sinalo of the enclave of [[place-ethalosse|Ethalosse]], the smallest of Élavendre's three enclaves and the only one placed for access rather than seclusion. It is where the Sinale conduct business with the world, and she is the one who receives the carriers in the court of worked stone. A warning, a refusal, a question about a disturbed site or the return of something taken goes up to Ethalosse in the mouths of [[lore-aelendnppl|Áelendan]] elders who have been asked to carry it.
+Ansorula Masserinto is a Senalo of the enclave of [[place-ethalosse|Ethalosse]], the smallest of Élavendre's three enclaves and the only one placed for access rather than seclusion. It is where the Senali conduct business with the world, and she is the one who receives the carriers in the court of worked stone. A warning, a refusal, a question about a disturbed site or the return of something taken goes up to Ethalosse in the mouths of [[lore-aelendnppl|Áelendan]] elders who have been asked to carry it.
 
-The Áelendan carry; they do not represent. What is carried is carried exactly, and Ansorula hears it in the carrier's own words and gives it back in the enclave's. The court's last great question stands unanswered: when Péravel asked how the Sinale hold that the world ends, what came down was [[lore-gatheringend|The Gathering on the End]], the account of a convocation that has never reached accord. The enclave's answer was: we have not agreed. Ask again when you have a speech of your own.
+The Áelendan carry; they do not represent. What is carried is carried exactly, and Ansorula hears it in the carrier's own words and gives it back in the enclave's. The court's last great question stands unanswered: when Péravel asked how the Senali hold that the world ends, what came down was [[lore-gatheringend|The Gathering on the End]], the account of a convocation that has never reached accord. The enclave's answer was: we have not agreed. Ask again when you have a speech of your own.
 
 ## Psyche
 
@@ -49,7 +49,7 @@ Ansorula is grave, unhurried and entirely courteous. She names a visitor by the 
 
 ### Motivation
 
-She wants the carrying done exactly and no carrier made to embellish. She wants the Sinale's few words to reach those who ask, whole.
+She wants the carrying done exactly and no carrier made to embellish. She wants the Senali's few words to reach those who ask, whole.
 
 ### Strengths
 
@@ -63,7 +63,7 @@ The enclave does not agree on much, and she cannot give an answer the enclave ha
 
 ### Companions
 
-The carriers who come up from the lowlands, and the other Sinale of the court.
+The carriers who come up from the lowlands, and the other Senali of the court.
 
 ### Patrons
 

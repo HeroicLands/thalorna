@@ -3,19 +3,19 @@ shortcode: saunari
 name: {full: The Oak-Warden's Sayings, sina: [sorvel ortinnoren saunari]}
 type: lore
 subType: literature
-description: "The sayings of one Oak-Warden of Aelirosse to the Oak-Pupil he taught, in the fixed stanza the Sinale pass a saying on in, as an Áelendan foster-child learned them in the grove and at the sickbed, ending on the Oak-Pupil's own."
-tags: [sinale]
+description: "The sayings of one Oak-Warden of Aelirosse to the Oak-Pupil he taught, in the fixed stanza the Senali pass a saying on in, as an Áelendan foster-child learned them in the grove and at the sickbed, ending on the Oak-Pupil's own."
+tags: [senali]
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: settinglore
   form: saunari
-  subjects: [lore-flksinale, lore-goddreams, place-aelirosse, lore-longnhrtnc]
+  subjects: [lore-flksenali, lore-goddreams, place-aelirosse, lore-longnhrtnc]
   lang: sina
 
 # terran_analog: "The Welsh gnomic englynion, an image from the weather or the wood answered by a rule; Hávamál's stanzas of counsel to a guest; the question-and-answer instructions of the Irish wisdom texts; the Kanteletar's habit of restating a line by the line after it."
 ---
 
-**The Oak-Warden's Sayings**, _Sorvel ortinnoren saunari_, are the sayings of one Oak-Warden of [[place-aelirosse|Aelirosse]], [Olmasitti Ropelinto]{.name data-type="being/npc"}, to the Oak-Pupil he taught, said to her one at a time across the years of her learning: in the grove, at the water-court, over whoever was sick, and once at the ford. _Saunari_ are words kept whole and passed on, and a saying becomes one the first time somebody other than its speaker says it; the stanza it is passed on in opens every time on the same line, _Uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki_, "Have you heard what the Oak-Warden said to the Oak-Pupil?", then gives the thing he was looking at, then the rule. The [[lore-flksinale|Sinale]] of Aelirosse passed his sayings among themselves while he lived, and an [[lore-aelendnppl|Áelendan child]] fostered there heard them that way, in runs, as the grove was tended and the sick were sat with and the dreams held to be sent by [[lore-goddreams|the God of Dreams]] (Aulveira) were read; she carried them to the Tradition Keepers, who hold them with the tribal songs and say them, since nobody has set them to a harp. The near humans of the sayings are the Áelendan, under the name the Sinale of Aelirosse give them. The sayings stand here in the order the Keepers hold them, which is the order she learned them, which is roughly the order of an Oak-Pupil's learning. One saying names a tree whose Sinale name she did not carry, and the Keepers leave the gap. The Oak-Warden is dead, and Aelirosse says his name now with an epithet after it, Torvelsa, of the oak.
+**The Oak-Warden's Sayings**, _Sorvel ortinnoren saunari_, are the sayings of one Oak-Warden of [[place-aelirosse|Aelirosse]], [Olmasitti Ropelinto]{.name data-type="being/npc"}, to the Oak-Pupil he taught, said to her one at a time across the years of her learning: in the grove, at the water-court, over whoever was sick, and once at the ford. _Saunari_ are words kept whole and passed on, and a saying becomes one the first time somebody other than its speaker says it; the stanza it is passed on in opens every time on the same line, _Uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki_, "Have you heard what the Oak-Warden said to the Oak-Pupil?", then gives the thing he was looking at, then the rule. The [[lore-flksenali|Senali]] of Aelirosse passed his sayings among themselves while he lived, and an [[lore-aelendnppl|Áelendan child]] fostered there heard them that way, in runs, as the grove was tended and the sick were sat with and the dreams held to be sent by [[lore-goddreams|the God of Dreams]] (Aulveira) were read; she carried them to the Tradition Keepers, who hold them with the tribal songs and say them, since nobody has set them to a harp. The near humans of the sayings are the Áelendan, under the name the Senali of Aelirosse give them. The sayings stand here in the order the Keepers hold them, which is the order she learned them, which is roughly the order of an Oak-Pupil's learning. One saying names a tree whose Senali name she did not carry, and the Keepers leave the gap. The Oak-Warden is dead, and Aelirosse says his name now with an epithet after it, Torvelsa, of the oak.
 
 : The Oak by the Water-Court {#oak}
 
@@ -45,7 +45,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .Teach her nothing. She learns anyway. See that what she learns is true.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=oak}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=oak}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .vaissa ehi torvel melke raltiilevaho ahi vautti onsa ehitos tunes yinse ehi onsa lervi/
 .yinse ovu lervi torvel yinse ovu onsa oso pelpe yinse ovu oso lirta sorvel elniso alte vaissa ovu onsa
@@ -107,7 +107,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .Tell her what it means. If it means nothing for the harvest, that is also what it means.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=dreams}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=dreams}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .aulveira alken olpeira ovu palmiso nalduho evatte onsa iha/
 .ahi navessi onsa ovu ennomi ovu onsa ahi verrun ovu onsa
@@ -185,7 +185,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .Walk past it as you walk past a neighbor's door: knowing where it is, and not going in.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=grove}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=grove}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .terkata ovu vettise nwomiho terkata ovu hantel entel ulsa alpes/
 .ahi serkata ovu eikka sennevi ovu toimunu letta elki kessave ovu ehi uvi mavitos
@@ -263,7 +263,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .Learn the difference at the bedside. The grove will not teach it.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=sickbed}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=sickbed}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .pelvanni ovu emmaka mettis entel hilsì onsa leevi onsa vessitaho irna onsa aume/
 .iha selpi maurekkirsa vennai
@@ -329,7 +329,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .Say so plainly when you are asked. Then go on with the rite.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=light}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=light}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .sirneta ehii onsaa aulira sirneta ehii onsaa naldu/
 .ehii sirne vennas onsaa ahi seimakata onsaa iha evatte ovu sirne vennas serdattota ovu iha
@@ -387,7 +387,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .Do not let her hear you reckon it.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=naming}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=naming}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .evatte ovu sirne kelsa kalpi ummes toimunuho ilte ennos kelsa nìmme onsa/
 .entel ahi nerkavi kalpi telnavi ovu sirne melkeho
@@ -441,7 +441,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .Do not correct the particulars. Keep being there.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=young}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=young}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .ahi ilkarota ovu hepìmuuvu lirne entel pelvanni onsa melke ovu kalteno/
 .eho sennave uulse ihatos ahi eho uttes ovu irnarsa eso sennaveho
@@ -495,7 +495,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .We are good at watering.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=enclave}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=enclave}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .elvata yinsenne vennas lirne onsa tevannitos/
 .ahi elvata ovu lirne onsa evakkatos oso evatte onsa irna ehi uulse
@@ -545,7 +545,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .The rest I am telling you about now.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=silence}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=silence}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .seltì ehii elnerinu nerveho aulten sennaveho evatte ehii aume ervu iha valmi uttes evakkatos ummes/
 .hìppe iha pehersa ravellirsa uttes pehersatos ummes erni ovu oso pehe ovu
@@ -587,7 +587,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .It is a reason. It does not have to be a good one.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=going}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=going}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .erdavi aulveira ollevi eho onsaa aulveira koldiho ollevikkoho erni ehii iha/
 .erni ehii elnerinu peve tupe ovu iha kuse ovu alken sipes
@@ -617,7 +617,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .That silence should have been a word. It is the worst thing I have done.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=question}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=question}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .kessave sorvel saumikki sorvel ortinno uvi mavi ansoru oltandi sennave tìltete sorvel ortinno melke raltiileva kousto onsa tìlteterse
 
@@ -638,7 +638,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .I will have a saying by then, or I will have four oaks.
 :::
 
-::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=seer}
+::: {.verse form=saunari lang=sina enc=senaveldikkoenc work=seer}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .aume iha toimunuho selkorota sorvel ortinno vekkanelo pehe torvel aimetti tunes erdavi aulveira onsa eho onsa ollevikkoho/
 .evatte aelirosse olmasitti ropelinto torvelsa insu penvai onsa evesi ilte uulse sirne/
@@ -649,7 +649,7 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 
 ## See Also
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : the people whose sayings these are
 
 [[place-aelirosse|Aelirosse]]
@@ -667,5 +667,5 @@ Sorvel ortinno · Sorvel saumikki
 [[lore-longnhrtnc|The Long Inheritance]]
 : what passes to humans by being seen
 
-[[skill-sinalelng|Sinale Language]]
+[[skill-senalilng|Senali Language]]
 : the wearing, the naming and the hearth ending

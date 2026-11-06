@@ -22,7 +22,7 @@ People go to it to see trees that wake. The [[affiliation-ordoarcanis|Thordimalo
 
 ## Who Holds It {#who-holds-it}
 
-The [[affiliation-alndnwrdns|Áelendan Wardens]] of the Silver Forests hold the stand, and their patrols pass round it in daylight and never camp within sight of it. The [[lore-flksinale|Sinale]], who share the Silver Forests with the Áelendan, have never said whether the stand is anything to them.
+The [[affiliation-alndnwrdns|Áelendan Wardens]] of the Silver Forests hold the stand, and their patrols pass round it in daylight and never camp within sight of it. The [[lore-flksenali|Senali]], who share the Silver Forests with the Áelendan, have never said whether the stand is anything to them.
 
 The birch law of the Áelendan forbids anyone to fell a standing silver birch for any reason ([[lore-blacksnow|The Black Snow]]). The trees of the stand are not birch, and the Wardens treat them as if the law ran twice over: nobody cuts, breaks or takes a branch, a leaf or a strip of bark, and nobody lights a fire within the stand.
 

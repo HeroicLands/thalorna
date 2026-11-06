@@ -102,9 +102,9 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: break the box and carry the silver. Stealth: copy the ledgers and leave the silver. Guile: take the stage's seal ring, which every Crown Road gate will recognize. Parley: bring the ledgers to the Vardain and the Khazari.
 
-**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a [[lore-flksinale|Sinale envoy]] had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
+**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a [[lore-flksenali|Senali envoy]] had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
 
-**Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazari of [[place-vorgald|Vorgald]], who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Sinale, if they learn it was written down, will want it least.
+**Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazari of [[place-vorgald|Vorgald]], who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Senali, if they learn it was written down, will want it least.
 
 **If bypassed.** A party that leaves the strong-room unopened hears of the silver from a Wiindmarch drover within the year.
 
@@ -112,7 +112,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 - **If the oath is ended.** The lamps go out and stay out. The road is open again, and drovers begin to use it. The Vardain bury the dead in the stage's court.
 - **If the Reeve is destroyed with the board standing.** The stage keeps its lamps and the road swallows another patrol within the year.
-- **If the ledger reaches Vorgald.** The Khazari learn what passed at the gate on the last night, and have more to say about the Sinale than they did.
+- **If the ledger reaches Vorgald.** The Khazari learn what passed at the gate on the last night, and have more to say about the Senali than they did.
 - **If the party fails.** The stage holds the party's names, and the lamps are lit for them.
 
 ## See Also

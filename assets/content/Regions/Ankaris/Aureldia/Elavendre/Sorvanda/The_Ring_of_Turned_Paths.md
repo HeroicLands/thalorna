@@ -3,7 +3,7 @@ shortcode: rngtrndpths
 name: {full: The Ring of Turned Paths, aele: [khálpilonpu]}
 type: place
 subType: site
-description: "A ring of living silver birch in a hollow of the Silver Forests where the Sinale turn every path away, and where the wood has been closed hardest of all for three seasons running."
+description: "A ring of living silver birch in a hollow of the Silver Forests where the Senali turn every path away, and where the wood has been closed hardest of all for three seasons running."
 tags: [woodland, sacred, haunted]
 data:
   demonym: null
@@ -20,18 +20,18 @@ The Ring of Turned Paths consists of eight silver birch standing in a ring in a 
 
 The trees are large and close-set, their bark the pale metal of the forest, and between them the ground is bare of undergrowth. Starlight lies on the bark after dark in a way ordinary light does not, and a visitor who has seen [[place-fldstnd|The Felled Stand]] (in the [[place-silvrfrsts|Silver Forests]]) knows what it is to see the same bark gone dull. Here it has stayed bright.
 
-The ring is a place where the [[lore-flksinale|Sinale]] turn paths, and it is one of the places where they turn them hardest. A track that runs toward the hollow bends away from it a little at a time, so gently that a walker takes the bend for his own choice. A traveler who pushes against the turning finds the wood closing in front of him, distances stretching, and the daylight shifting in ways the sun does not account for. Nothing in the turning is a weapon. It is the wood declining to be walked, and it holds as long as the paths are left to turn.
+The ring is a place where the [[lore-flksenali|Senali]] turn paths, and it is one of the places where they turn them hardest. A track that runs toward the hollow bends away from it a little at a time, so gently that a walker takes the bend for his own choice. A traveler who pushes against the turning finds the wood closing in front of him, distances stretching, and the daylight shifting in ways the sun does not account for. Nothing in the turning is a weapon. It is the wood declining to be walked, and it holds as long as the paths are left to turn.
 
 ## Layers {#history}
 
-The Áelendan say the ring is one of the places where the Sinale turn paths hardest, and that it has been so for as long as there have been Áelendan in the Silver Forests. What lies under the bare ground between the trees is not known. The recent layer is told only in pieces: the [[affiliation-ordoarcanis|Order]] records an expedition of its [[affiliation-sideris|Sideris]] as lost in the northern interior within living memory, a [[place-lisere|Lísere]] carter sold a quantity of Sórvanda silver to a master of Péravel about the same time, and Sóurimel lost a guide who went with lowland strangers.
+The Áelendan say the ring is one of the places where the Senali turn paths hardest, and that it has been so for as long as there have been Áelendan in the Silver Forests. What lies under the bare ground between the trees is not known. The recent layer is told only in pieces: the [[affiliation-ordoarcanis|Order]] records an expedition of its [[affiliation-sideris|Sideris]] as lost in the northern interior within living memory, a [[place-lisere|Lísere]] carter sold a quantity of Sórvanda silver to a master of Péravel about the same time, and Sóurimel lost a guide who went with lowland strangers.
 
 :::secret {title="What was done here"}
 Within living memory a _marendos_ (master) of [[affiliation-ordoarcanis|Thordimalon]]'s [[affiliation-sideris|Sideris]], the Fellowship of Metal, came to the hollow with a party of retainers and a plan. [[being-denrikrnkrs|Denrik Rénkaris]] held that a path is a bound thing and that a binding can be reversed with the right metal. He drove silver pegs into the ground in a circle among the trees, strung silver wire between them at the height of a man's knee, and worked a [Straight Road]{.name data-type="mysticalability"} upon the wire. The silver came from the spoil heaps of the [[lore-sorvandaclose|King's Cut]], bought from a [[place-lisere|Lísere]] carter who asked no questions.
 
 The working succeeded and did not do what he meant. The paths hold straight now, and every straight line in the hollow ends at the ring. The wire draws a walker in, and the working takes his footing: he walks the circuit between the pegs and cannot stop or turn aside. Each dusk it takes another. The _marendos_ stands in the middle of the ring in the working's eye, kept alive by it and unable to unmake it without unmaking himself.
 
-The Sinale have done nothing, because they do not fight. The paths around the ring turn outward harder than before, and the hollow is sealed on every side but the one the wire opens.
+The Senali have done nothing, because they do not fight. The paths around the ring turn outward harder than before, and the hollow is sealed on every side but the one the wire opens.
 
 **The walkers.** The Áelendan name them the **Pegged**: the _marendos_'s retainers, and anyone since drawn along the wire. A Pegged walker paces the circuit in step with the others, pale, silent and unhurried. He is not dead and not one of the dead of [[lore-theshadow|the Shadow]]. The [[affiliation-alndnwrdns|Wardens]] call him a lingering spirit held by an ill-made working, and take the point seriously. He tires, and he eats and drinks if food is put to his mouth, but he does not stop of his own will.
 
@@ -65,4 +65,4 @@ The ring is in sacred territory, and the Wardens turn back everyone who enters w
 - [[lore-blacksnow|The Black Snow]]—the birch law and the Felled Stand
 - [[lore-theasking|The Asking]]—how the wood is asked to keep what it keeps
 - [[place-silvrfrsts|The Silver Forests]] · [[place-aelirosse|Aelirosse]] · [[place-sourimael|Sóurimel]]
-- [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[affiliation-ordoarcanis|Thordimalon]] · [[lore-flksinale|Sinale]]
+- [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[affiliation-ordoarcanis|Thordimalon]] · [[lore-flksenali|Senali]]

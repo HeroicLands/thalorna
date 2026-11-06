@@ -24,7 +24,7 @@ To cross into the Tribal Lands is to pass out of the jurisdiction of royal magis
 
 ## Geography
 
-The Lands occupy the broad mountainous interior that rises behind the coastal plains and lowland river valleys where the settled [[lore-elavendrnppl|Élavendri]] make their cities. The heart of the territory is [[place-drenavrspn|the Drenavar Spine]], a sacred range whose peaks and high valleys hold the most ancient sites of the Kindred Pact. Around the mountains lie the ancient forests—oldest among them **[[place-silvrfrsts|the Silver Forests]]**, a fae-touched woodland of unusual depth and darkness that the Áelendan and the [[lore-flksinale|Sinale]] share as neighbors.
+The Lands occupy the broad mountainous interior that rises behind the coastal plains and lowland river valleys where the settled [[lore-elavendrnppl|Élavendri]] make their cities. The heart of the territory is [[place-drenavrspn|the Drenavar Spine]], a sacred range whose peaks and high valleys hold the most ancient sites of the Kindred Pact. Around the mountains lie the ancient forests—oldest among them **[[place-silvrfrsts|the Silver Forests]]**, a fae-touched woodland of unusual depth and darkness that the Áelendan and the [[lore-flksenali|Senali]] share as neighbors.
 
 The landscape is characterized by:
 
@@ -91,10 +91,10 @@ A handful of chartered lowland settlements sit at the edge of the Lands, among t
 : The principal Áelendan settlement, a ceremonial and political gathering place in a sheltered valley of the Drenavar Spine
 
 [[place-silvrfrsts|The Silver Forests]]
-: An ancient fae-touched woodland under heavy Warden watch, shared in neighborly arrangement with the [[lore-flksinale|Sinale]]
+: An ancient fae-touched woodland under heavy Warden watch, shared in neighborly arrangement with the [[lore-flksenali|Senali]]
 
 [[place-ethalosse|Ethalosse]]
-: The threshold enclave at the eastern margin, through which the Sinale deal with the world by way of Áelendan carriers
+: The threshold enclave at the eastern margin, through which the Senali deal with the world by way of Áelendan carriers
 
 [[place-owlhollow|The Owl Hollow]]
 : The seat of the owl-spirit Óssenda, where Death-Speakers ask whether the recently dead have gone
@@ -141,5 +141,5 @@ Those who have reason to travel the Lands are expected to take a tribal guide, t
 [[affiliation-theoldway|The Old Way]]
 : The religious tradition of the Áelendan (pantheon: [[affiliation-firstgods|The First Gods]])
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : Neighboring elder race of the Silver Forests

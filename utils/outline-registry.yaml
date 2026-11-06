@@ -57,8 +57,8 @@ sharedGovernance: []
 
 # Settlements an owner exception excuses from a homed being: address, then the reason.
 homedBeingExceptions:
-    place-serenthale: No human record names the people of the Sinale enclave.
-    place-aelirosse: No human record names the people of the Sinale enclave.
+    place-serenthale: No human record names the people of the Senali enclave.
+    place-aelirosse: No human record names the people of the Senali enclave.
 
 # Ids of the lands held to this registry. A finding in a finished land is an
 # error; in every other land it is a warning.

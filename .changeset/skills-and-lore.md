@@ -5,7 +5,7 @@
 **Peoples and cultures**
 
 - The Gar-Au's regalia are described, the Ruwozi and the Kolembozi are named as clans of the Nyáluba, and the Ústaran Schism has a single entry.
-- The Sinale's numinous, which joins spirit, totem and the celestial to the natural world, is described, along with how little of it humans may reach.
+- The Senali's numinous, which joins spirit, totem and the celestial to the natural world, is described, along with how little of it humans may reach.
 - The Tevran and Vilérian military pages show their tables as tables.
 
 **Literature and verse**

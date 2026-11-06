@@ -7,7 +7,7 @@ description: The largest continent of Thalorna—home to Viléria, Taruzel, the 
 tags: [continent, ankaris]
 data:
   demonym: Ankarian
-  lore: [humanflk, grukarfolk, flksinale, flkkhazar]
+  lore: [humanflk, grukarfolk, flksenali, flkkhazar]
   parents: [worldthlrn]
   population: 300000000
   packFolder: ankaris
@@ -44,15 +44,15 @@ Ankaris is overwhelmingly a human continent. The great mass of its population—
 
 Two non-human peoples hold substantial territory. The [[lore-grukarfolk|Grukar]] tribes dominate the far northeast, with scattered nests in the Vristwald forests and the highlands of neighboring regions. The goblin clans maintain their own territories in the deep Vristwald and in the marginal lands between the settled kingdoms, though they are rarely organized at a scale that registers on Ankarian political maps.
 
-The Elder Races—the [[lore-flksinale|Sinale]] who arrived roughly eight thousand years ago and the [[lore-flkkhazar|Khazari]] who followed two thousand years later—are vanishingly rare on Ankaris as everywhere else. Fewer than one in ten thousand Ankarians has ever seen a Sinale or Khazari; most doubt they exist at all. Where they do persist, they do so in remote enclaves: Sinalean communities in the oldest forests of [[place-elavendre|Élavendre]] and in the imperial court of Tantsou, Khazari cities in the high faces of the eastern ranges.
+The Elder Races—the [[lore-flksenali|Senali]] who arrived roughly eight thousand years ago and the [[lore-flkkhazar|Khazari]] who followed two thousand years later—are vanishingly rare on Ankaris as everywhere else. Fewer than one in ten thousand Ankarians has ever seen a Senali or Khazari; most doubt they exist at all. Where they do persist, they do so in remote enclaves: Senalian communities in the oldest forests of [[place-elavendre|Élavendre]] and in the imperial court of Tantsou, Khazari cities in the high faces of the eastern ranges.
 
 Religiously, Ankaris is divided rather than united. The [[affiliation-arldnpnthn|Aureldian Pantheon]] comprises the distinct faiths of the western heartlands and Midhalión. The [[affiliation-asguardian|Asguardian Pantheon]] holds the north. The [[affiliation-ashanpnthn|Ashaian Pantheon]] dominates the central and southern deserts. The [[affiliation-vrnkpnthn|Varnuka Pantheon]] anchors Vedyara. The [[affiliation-tengwouronglei|Celestial Order]] of Tantsou and Jenchai stands entirely apart from the western religious world. Older still, the tradition of [[affiliation-firstgods|the First Gods]] among the [[lore-aelendnppl|Áelendan People]] persists beneath the Aureldian surface in certain corners of the west.
 
 ## History
 
-Ankaris's recorded history begins with the arrival of the Sinale roughly seventy-five centuries before [[lore-thefounding|the Founding]] of the Vilérian Empire (the present-day calendar anchor), when humanity already existed as scattered hunter-gatherer bands. The Khazari followed two thousand years later, around 5300 BF.
+Ankaris's recorded history begins with the arrival of the Senali roughly seventy-five centuries before [[lore-thefounding|the Founding]] of the Vilérian Empire (the present-day calendar anchor), when humanity already existed as scattered hunter-gatherer bands. The Khazari followed two thousand years later, around 5300 BF.
 
-It is the settled opinion of human scholarship that both Elder Races observed a strict policy of non-interference with human development. Of the Sinale this appears to be true. Of the Khazari it is not, and the reason human scholarship believes otherwise is that no human has ever read a Khazari archive.
+It is the settled opinion of human scholarship that both Elder Races observed a strict policy of non-interference with human development. Of the Senali this appears to be true. Of the Khazari it is not, and the reason human scholarship believes otherwise is that no human has ever read a Khazari archive.
 
 **The Deep Folk could not feed themselves.** A hold grows nothing and cannot be supplied from outside—a people dependent on an outside larder can be starved by whoever holds the road, which the Khazari have never been willing to accept. They arrived into a world whose humans were hunter-gatherers, and hunter-gatherers cannot provision a hold. So within a few centuries of their arrival, in the upland country around their first holds, the Khazari **taught the peoples nearest them to farm**—water-works, drainage, terracing, seed-storage, the granary—which are precisely the crafts the Khazari are best at and precisely what turns thin mountain ground into a food supply.
 

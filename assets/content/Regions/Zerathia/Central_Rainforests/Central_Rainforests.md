@@ -7,7 +7,7 @@ description: Trackless equatorial jungle at the heart of Zerathia—teeming with
 tags: [region]
 data:
   demonym: null
-  lore: [humanflk, flksinale]
+  lore: [humanflk, flksenali]
   parents: [xerathia]
   population: 250000
   packFolder: centralrainforests
@@ -42,7 +42,7 @@ Nearly every forest person lives first by hunting, fishing and gathering.
 
 The forest peoples, the [[lore-bikoclt|Biko]], share one small common tongue, [[skill-ekpelulng|Ekpelu]], which each of their four traditions speaks with its own accent.
 
-A small number of [[lore-flksinale|Sinale]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
+A small number of [[lore-flksenali|Senali]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
 
 ## Religion
 
@@ -88,5 +88,5 @@ To the **east and west** the forests fade gradually into coastal terrain that ha
 [[lore-bikoclt|Biko]]
 : the forest peoples and their four traditions
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : rumored deep-forest enclaves

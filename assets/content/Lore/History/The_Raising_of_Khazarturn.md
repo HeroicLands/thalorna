@@ -17,7 +17,7 @@ data:
       standing: single-source
       names:
         - name: The Valley of Seven Towers
-          by: lore-flksinale
+          by: lore-flksenali
           gloss: a name only somebody who had been told what they were looking at could have used
       where: {locus: [place-worldthlrn]}
       who: [{ref: lore-flkkhazar, role: founder}]
@@ -26,7 +26,7 @@ data:
           how: enabled
           note: the seven clans that came together built for all seven together
       accounts:
-        - by: lore-flksinale
+        - by: lore-flksenali
           says: >-
             It was wondrous while it lived—the halls, the light, the fountains, the birds—and the memory of it comes out as elegy in songs whose subject is not announced.
           agrees: partly

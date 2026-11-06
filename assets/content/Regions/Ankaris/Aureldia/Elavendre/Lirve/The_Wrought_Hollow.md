@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-**The Wrought Hollow** is a steep-sided hollow in [[place-siralonke|Siralonke]], the old oak and silver birch forest of [[place-lirve|Lirve]] that runs from behind [[place-liranel|Liranel]] toward the [[lore-flksinale|Sinale]] country. Out of it, at night, walk things that were made rather than born: figures of root and wood, of stone bound with root, of antler and bark, from the size of a hound to twice the height of a man. They go about the forest on errands of their own and go back into the hollow before light. It is an [[lore-aralwen|Araelwen]] whose door lets in the fae as constructs, and it is sacred ground of the [[lore-aelendnppl|Áelendan]].
+**The Wrought Hollow** is a steep-sided hollow in [[place-siralonke|Siralonke]], the old oak and silver birch forest of [[place-lirve|Lirve]] that runs from behind [[place-liranel|Liranel]] toward the [[lore-flksenali|Senali]] country. Out of it, at night, walk things that were made rather than born: figures of root and wood, of stone bound with root, of antler and bark, from the size of a hound to twice the height of a man. They go about the forest on errands of their own and go back into the hollow before light. It is an [[lore-aralwen|Araelwen]] whose door lets in the fae as constructs, and it is sacred ground of the [[lore-aelendnppl|Áelendan]].
 
 People go to it for what the made things are. The woodcutters of the licensed coppice find their tracks, and a few have seen one cross a ride in the moonlight. The [[affiliation-ordoarcanis|Thordimalon]] has one of them, and wants another.
 

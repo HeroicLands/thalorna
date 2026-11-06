@@ -20,7 +20,7 @@ Hélithron is a village of about 300 in [[place-lirve|Lirve]], on the western co
 
 ## The Village {#the-village}
 
-Hélithron lies in the licensed forest of the inner coast. The Crown's forest court at Liranel issues the licenses to cut, the tally-house there measures every licensed stem, and the timber goes down to [[place-portaelion|Port Aelion]] for shipping. Past the licensed belt the old forest is the country of the [[lore-flksinale|Sinale Folk]], and the [[affiliation-alndnwrdns|Áelendan Wardens]] turn back anyone who goes too far into it.
+Hélithron lies in the licensed forest of the inner coast. The Crown's forest court at Liranel issues the licenses to cut, the tally-house there measures every licensed stem, and the timber goes down to [[place-portaelion|Port Aelion]] for shipping. Past the licensed belt the old forest is the country of the [[lore-flksenali|Senali Folk]], and the [[affiliation-alndnwrdns|Áelendan Wardens]] turn back anyone who goes too far into it.
 
 ## Who Leads It {#who-leads}
 

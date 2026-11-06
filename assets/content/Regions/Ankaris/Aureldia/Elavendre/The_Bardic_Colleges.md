@@ -75,7 +75,7 @@ Genealogy and history
 : The noble houses of Élavendre set great store by accurate lineage, and the Colleges are the kingdom's definitive authority on the question of who is descended from whom ([[lore-sorvandaclose|The Sórvanda Closing]]).
 
 Languages
-: All Pelwar descendants are taught to some degree, along with the principal Ankarian trade languages. The most learned bards also study [[skill-aelendlng|Áelendi]] and, in rare cases, fragments of [[skill-sinalelng|Sinalean]].
+: All Pelwar descendants are taught to some degree, along with the principal Ankarian trade languages. The most learned bards also study [[skill-aelendlng|Áelendi]] and, in rare cases, fragments of [[skill-senalilng|Senalian]].
 
 Bardic magic
 : The old magical traditions of Élavendre, distinct from the institutional arcana of the [[affiliation-ordoarcanis|Thordimalon]]. These include song-binding, memory-shaping, and various forms of inspiration and dispiriting magic that operate through voice and narrative. The Colleges do not teach these openly to outsiders, and their exact mechanisms are closely held.
@@ -91,7 +91,7 @@ Four Colleges teach the whole curriculum, each stressing one part of it, and eac
 : At [[place-beravel|Péravel]]. Genealogy, history and the proofs of descent; it holds the crown's proof and sings the Lay of the Tree Line at every crowning.
 
 [[affiliation-clgtongues|The College of Tongues]]
-: At [[place-liranel|Liranel]]. Áelendi, the carved rune-row and the fragments of Sinalean; it licenses the interpreters who go up the valleys.
+: At [[place-liranel|Liranel]]. Áelendi, the carved rune-row and the fragments of Senalian; it licenses the interpreters who go up the valleys.
 
 [[affiliation-clgenvoys|The Envoys' College]]
 : At [[place-portaelion|Port Aelion]]. Diplomacy, protocol and gathering information without seeming to; it sends envoys to houses and foreign courts and takes Order patronage.

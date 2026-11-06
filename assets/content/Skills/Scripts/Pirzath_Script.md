@@ -49,7 +49,7 @@ Literacy is **near-universal among the Khazari**, which is true of no human cult
 
 ## Who has it, among humans
 
-Almost nobody. Dedicated scholars, and those with Khazari kinship or long fosterage. There is no equivalent of the [[lore-flksinale|Sinale Folk]]'s occasional gift of a text to a bardic college—the Khazari do not distribute their records, and their memorial objects, the preserved tools and weapons of ancestors, are not to be handled by outsiders at all, let alone read and copied.
+Almost nobody. Dedicated scholars, and those with Khazari kinship or long fosterage. There is no equivalent of the [[lore-flksenali|Senali Folk]]'s occasional gift of a text to a bardic college—the Khazari do not distribute their records, and their memorial objects, the preserved tools and weapons of ancestors, are not to be handled by outsiders at all, let alone read and copied.
 
 ## In play
 

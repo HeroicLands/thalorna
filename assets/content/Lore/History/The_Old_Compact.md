@@ -3,7 +3,7 @@ shortcode: oldcompact
 name: {full: The Old Compact, en: [The Compact]}
 type: lore
 subType: history
-description: "From 5274 BF to 2427 BF the Sinale and the Khazari hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazartúrn falls."
+description: "From 5274 BF to 2427 BF the Senali and the Khazari hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazartúrn falls."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -12,9 +12,9 @@ data:
       until: -2427
       kind: treaty
       depth: world
-      sources: [place-worldthlrn, lore-flkkhazar, lore-flksinale]
+      sources: [place-worldthlrn, lore-flkkhazar, lore-flksenali]
       summary: >-
-        The two Elder Races hold a shared accord spanning much of Thalorna for twenty-eight centuries, beginning within a generation of the Khazari's arrival and ending on the day Khazartúrn falls. Under it they live and work together and produce what neither can produce alone: structures that marry living wood to shaped stone, artifacts that marry Sinalean enchantment to Khazárian craft, and a worship of the god of dreams held in common. Neither people has ever stated the accord's terms, and neither has spoken to the other since it ended.
+        The two Elder Races hold a shared accord spanning much of Thalorna for twenty-eight centuries, beginning within a generation of the Khazari's arrival and ending on the day Khazartúrn falls. Under it they live and work together and produce what neither can produce alone: structures that marry living wood to shaped stone, artifacts that marry Senalian enchantment to Khazárian craft, and a worship of the god of dreams held in common. Neither people has ever stated the accord's terms, and neither has spoken to the other since it ended.
       standing: attested
       where:
         locus: [place-worldthlrn]
@@ -31,7 +31,7 @@ data:
             how: >-
               the god of dreams is kept here in a rite that was once held in common with the Deep Folk, and the two traditions have diverged so far that neither would recognize the other's
             knowledge: named
-      who: [{ref: lore-flksinale, role: signatory}, {ref: lore-flkkhazar, role: signatory}]
+      who: [{ref: lore-flksenali, role: signatory}, {ref: lore-flkkhazar, role: signatory}]
       follows:
         - event: lore-khazararrv
           how: enabled
@@ -47,26 +47,26 @@ data:
             A golden age of collaboration. Soon after it began their envoy asked us to withdraw from the world's troubles as they do, and we answered that we had not come so far to hide. What we made together neither people could have made alone. The breach was final and the fault was not ours alone.
           agrees: partly
           withholds: the accord's terms, and why it broke
-        - {by: lore-flksinale, says: Nothing whatever., agrees: silent}
+        - {by: lore-flksenali, says: Nothing whatever., agrees: silent}
       unresolved:
         - what the accord's terms were, neither people having ever stated one of them
         - whether it was one realm or two peoples in agreement, which the surviving fragments do not settle
         - where the joint works stand, how many of them there are, and which of them are still doing what they were made to do
 ---
 
-For twenty-eight centuries The Old Compact let the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] hold
+For twenty-eight centuries The Old Compact let the [[lore-flksenali|Senali Folk]] and the [[lore-flkkhazar|Khazár Folk]] hold
 ground together. The accord opens within a generation of the Khazari arriving as seven clans, before
 [[lore-khazturnrsd|Khazartúrn was cut]], and it closes on the single day in 2427 BF when that city
 was killed. Nothing in the world has ever recorded what its terms were.
 
-The Khazari account opens the accord with a refusal. Soon after the two peoples first met, a Sinale
-envoy came to the clans and urged them to do as the Sinale do: to draw back from the world's
+The Khazari account opens the accord with a refusal. Soon after the two peoples first met, a Senali
+envoy came to the clans and urged them to do as the Senali do: to draw back from the world's
 troubles and leave them to whoever stayed in it. The clans refused. Their answer, as their account
-keeps it, is that they had not come so far to hide. The Sinale say nothing of the envoy, as they say nothing of the Khazari at all.
+keeps it, is that they had not come so far to hide. The Senali say nothing of the envoy, as they say nothing of the Khazari at all.
 
-What it produced is the part the world can still touch. The Sinale had the living world and the
+What it produced is the part the world can still touch. The Senali had the living world and the
 intangible; the Khazari had stone and metal and the enduring; and the fragments describe structures
-that blended living wood with shaped stone and artifacts that married Sinalean enchantment to
+that blended living wood with shaped stone and artifacts that married Senalian enchantment to
 Khazárian craft. Humans meet these as ruins and as priceless curiosities from an age before
 humanity, and cannot reproduce either half of one. They are not usually recognized as the work of two
 hands.
@@ -75,7 +75,7 @@ It reached further than craft. Both peoples honored [[lore-goddreams|the god of 
 least in parallel, under the accord's terms—and when the accord shattered, the shared rites shattered
 with it. The Khazari also venerate the god's servant
 [Puthakun]{.name data-type="being/npc"}, who led the seven clans out of [Humadan]{.name data-type="place/world"} and saved their people (see [[lore-khazararrv|the Coming of the Khazari]]), and the
-Sinale give him no honor at all. The two traditions have diverged so completely since that whether the Sinale's
+Senali give him no honor at all. The two traditions have diverged so completely since that whether the Senali's
 Aulveira and the Khazari's Lubát would recognize each other's rites is an
 open question, and one neither race has any interest in answering.
 

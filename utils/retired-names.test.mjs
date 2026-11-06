@@ -330,6 +330,11 @@ export const RETIRED = [
         replacement: "Eilwìth, Eilwìthi, Eilwìthan, Eilwìthans",
         scope: "corpus",
     },
+    {
+        retired: ["Sinale", "Sinalean", "Sinalo"],
+        replacement: "Senali, Senalian, Senalo",
+        scope: "corpus",
+    },
     { retired: ["Via Aquaria"], replacement: "Ulmerkazthos", scope: "corpus" },
     { retired: ["naumachiae", "naumachia"], replacement: "mock sea-battles", scope: "corpus" },
     {

@@ -24,7 +24,7 @@ data:
             knowledge: named
           - place: place-eilwith
             how: >-
-              the island is the one country in the world where Sinale and Khazari hold ground together, which is why what happens elsewhere seven centuries later is answered here rather than accepted
+              the island is the one country in the world where Senali and Khazari hold ground together, which is why what happens elsewhere seven centuries later is answered here rather than accepted
             knowledge: named
       who: [{ref: lore-flkkhazar, role: actor}, {ref: lore-vardain, role: instrument}]
       follows:

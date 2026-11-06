@@ -114,11 +114,11 @@ it whose feasts mark deliveries, tallies and the turning of the Khazari year.
 ## What They Know
 
 The Vardain are the only humans who can tell any version of what happened between the elder races here:
-the joint kingdom under a Sinale king, the war, the king's death, and the retreat into the forest that
+the joint kingdom under a Senali king, the war, the king's death, and the retreat into the forest that
 the Khazari have never forgiven. They tell it plainly, as a thing that happened to their lords long ago.
 
 Whether this is the great sundering between the two elder races or only its Eilwìthan chapter, they do
-not know. The Khazari have not said. The [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] will not receive anyone who asks.
+not know. The Khazari have not said. The [[lore-flksenali|Senali]] of [[place-hallowwood|the Hallowwood]] will not receive anyone who asks.
 
 ## See Also
 

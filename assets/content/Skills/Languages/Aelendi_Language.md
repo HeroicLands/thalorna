@@ -3,7 +3,7 @@ shortcode: aelendlng
 name: {full: Áelendi Language}
 type: skill
 subType: language
-description: "The old Pelwar tongue of the Áelendan highlanders, unchanged in its mountain valleys for hundreds of years and heavily marked by Sinale."
+description: "The old Pelwar tongue of the Áelendan highlanders, unchanged in its mountain valleys for hundreds of years and heavily marked by Senali."
 tags: []
 data:
   roman: "adeghiklmnoprstuáéíóúë-"
@@ -328,13 +328,13 @@ data:
     - form: íthanersa
       class: n f
       field: "Kin, the clan and the name"
-      gloss: "fosterage; the raising of a child of another clan, or of the Sinale"
-      source: {kind: borrowed, language: skill-sinalelng, form: ittanersa}
+      gloss: "fosterage; the raising of a child of another clan, or of the Senali"
+      source: {kind: borrowed, language: skill-senalilng, form: ittanersa}
     - form: érnapisa
       class: adj
       field: "Kin, the clan and the name"
       gloss: "of one kin; said of two clans who share a founder"
-      source: {kind: borrowed, language: skill-sinalelng, form: ernattisa}
+      source: {kind: borrowed, language: skill-senalilng, form: ernattisa}
     - form: kárathon
       class: n n
       field: "The lodge, the fire and the guest"
@@ -415,45 +415,45 @@ data:
     - form: éllepirsa
       class: n f
       field: "The lodge, the fire and the guest"
-      gloss: "guest-right, as the Sinale give it; the welcome between the kin and the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: ellevirsa}
+      gloss: "guest-right, as the Senali give it; the welcome between the kin and the wood"
+      source: {kind: borrowed, language: skill-senalilng, form: ellevirsa}
     - form: tárnepi
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "bread; the loaf of the offering"
-      source: {kind: borrowed, language: skill-sinalelng, form: tarnevi}
+      source: {kind: borrowed, language: skill-senalilng, form: tarnevi}
     - form: tárnepinu
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "a loaf"
-      source: {kind: borrowed, language: skill-sinalelng, form: tarnevinu}
+      source: {kind: borrowed, language: skill-senalilng, form: tarnevinu}
     - form: ánsepi
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "a friend; one outside the kin who is owed as kin"
-      source: {kind: borrowed, language: skill-sinalelng, form: ansekki}
+      source: {kind: borrowed, language: skill-senalilng, form: ansekki}
       concept: friend
     - form: ánsepirsa
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "friendship"
       concept: love-philia
-      source: {kind: borrowed, language: skill-sinalelng, form: ansekkirsa}
+      source: {kind: borrowed, language: skill-senalilng, form: ansekkirsa}
     - form: séimara
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "accord; what a council reaches when nobody is left speaking against"
-      source: {kind: borrowed, language: skill-sinalelng, form: seimaka}
+      source: {kind: borrowed, language: skill-senalilng, form: seimaka}
     - form: náupessi
       class: n n
       field: "The lodge, the fire and the guest"
-      gloss: "a usage; the way a thing is done among the Sinale, which the kin copies"
-      source: {kind: borrowed, language: skill-sinalelng, form: nauvessi}
+      gloss: "a usage; the way a thing is done among the Senali, which the kin copies"
+      source: {kind: borrowed, language: skill-senalilng, form: nauvessi}
     - form: óirapa
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "a debt owed to the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: oirava}
+      source: {kind: borrowed, language: skill-senalilng, form: oirava}
     - form: drun
       class: n m
       field: "Herds, pasture and the high grass"
@@ -607,7 +607,7 @@ data:
       class: n n
       field: "Mountain, snow and stone"
       gloss: "the wood below the snow line"
-      source: {kind: borrowed, language: skill-sinalelng, form: lonku}
+      source: {kind: borrowed, language: skill-senalilng, form: lonku}
       concept: forest
     - form: ghersa
       class: n f
@@ -618,12 +618,12 @@ data:
       class: n m
       field: "Mountain, snow and stone"
       gloss: "an eagle"
-      source: {kind: borrowed, language: skill-sinalelng, form: raumel}
+      source: {kind: borrowed, language: skill-senalilng, form: raumel}
     - form: auldi
       class: n n
       field: "Mountain, snow and stone"
       gloss: "a hill"
-      source: {kind: borrowed, language: skill-sinalelng, form: auldi}
+      source: {kind: borrowed, language: skill-senalilng, form: auldi}
       concept: hill
     - form: áuldalon
       class: n n
@@ -634,7 +634,7 @@ data:
       class: n f
       field: "Mountain, snow and stone"
       gloss: "a mountain"
-      source: {kind: borrowed, language: skill-sinalelng, form: sorkanda}
+      source: {kind: borrowed, language: skill-senalilng, form: sorkanda}
       concept: mountain
     - form: ánkenathen
       class: v
@@ -683,19 +683,19 @@ data:
       class: n m
       field: "Light, sky and the turning year"
       gloss: "the sun"
-      source: {kind: borrowed, language: skill-sinalelng, form: hirkel}
+      source: {kind: borrowed, language: skill-senalilng, form: hirkel}
       concept: sun
     - form: sotel
       class: n m
       field: "Light, sky and the turning year"
       gloss: "the moon"
-      source: {kind: borrowed, language: skill-sinalelng, form: sotel}
+      source: {kind: borrowed, language: skill-senalilng, form: sotel}
       concept: moon
     - form: núpanu
       class: n n
       field: "Light, sky and the turning year"
       gloss: "a star"
-      source: {kind: borrowed, language: skill-sinalelng, form: nuuvanu}
+      source: {kind: borrowed, language: skill-senalilng, form: nuuvanu}
       concept: star
     - form: kiron
       class: n n
@@ -728,362 +728,362 @@ data:
       class: n n
       field: "Light, sky and the turning year"
       gloss: "a cluster of stars"
-      source: {kind: borrowed, language: skill-sinalelng, form: nuuvakko}
+      source: {kind: borrowed, language: skill-senalilng, form: nuuvakko}
     - form: náldursa
       class: n f
       field: "Light, sky and the turning year"
       gloss: "darkness; the quality of the dark"
-      source: {kind: borrowed, language: skill-sinalelng, form: naldursa}
+      source: {kind: borrowed, language: skill-senalilng, form: naldursa}
     - form: áulira
       class: n f
       field: "Light, sky and the turning year"
       gloss: "light"
-      source: {kind: borrowed, language: skill-sinalelng, form: aulira}
+      source: {kind: borrowed, language: skill-senalilng, form: aulira}
     - form: áuliranu
       class: n n
       field: "Light, sky and the turning year"
       gloss: "a ray of light"
-      source: {kind: borrowed, language: skill-sinalelng, form: auliranu}
+      source: {kind: borrowed, language: skill-senalilng, form: auliranu}
     - form: éllipe
       class: adj
       field: "Light, sky and the turning year"
       gloss: "bright"
-      source: {kind: borrowed, language: skill-sinalelng, form: ekkìve}
+      source: {kind: borrowed, language: skill-senalilng, form: ekkìve}
       concept: bright
     - form: nupa
       class: n f
       field: "Light, sky and the turning year"
       gloss: "starlight"
-      source: {kind: borrowed, language: skill-sinalelng, form: nuuva}
+      source: {kind: borrowed, language: skill-senalilng, form: nuuva}
     - form: nupasto
       class: n n
       field: "Light, sky and the turning year"
       gloss: "a place of starlight; a high clearing where the stars are watched"
-      source: {kind: borrowed, language: skill-sinalelng, form: nuuvasto}
+      source: {kind: borrowed, language: skill-senalilng, form: nuuvasto}
     - form: nupasa
       class: adj
       field: "Light, sky and the turning year"
       gloss: "starlit"
-      source: {kind: borrowed, language: skill-sinalelng, form: nuuvasa}
+      source: {kind: borrowed, language: skill-senalilng, form: nuuvasa}
     - form: éilapa
       class: n f
       field: "Light, sky and the turning year"
       gloss: "the wide sky"
-      source: {kind: borrowed, language: skill-sinalelng, form: eilava}
+      source: {kind: borrowed, language: skill-senalilng, form: eilava}
       concept: sky
     - form: írpalo
       class: n n
       field: "Light, sky and the turning year"
       gloss: "dawn"
-      source: {kind: borrowed, language: skill-sinalelng, form: irvatto}
+      source: {kind: borrowed, language: skill-senalilng, form: irvatto}
       concept: dawn
     - form: séiranda
       class: n f
       field: "Light, sky and the turning year"
       gloss: "noon"
-      source: {kind: borrowed, language: skill-sinalelng, form: seikanda}
+      source: {kind: borrowed, language: skill-senalilng, form: seikanda}
       concept: noon
     - form: ólpessa
       class: n f
       field: "Light, sky and the turning year"
       gloss: "the long dusk"
-      source: {kind: borrowed, language: skill-sinalelng, form: oltessa}
+      source: {kind: borrowed, language: skill-senalilng, form: oltessa}
       concept: dusk
     - form: ólparne
       class: n n
       field: "Light, sky and the turning year"
       gloss: "evening, as the wood reckons it"
-      source: {kind: borrowed, language: skill-sinalelng, form: oltarne}
+      source: {kind: borrowed, language: skill-senalilng, form: oltarne}
       concept: evening
     - form: úlpessen
       class: n m
       field: "Light, sky and the turning year"
       gloss: "the deep of night"
-      source: {kind: borrowed, language: skill-sinalelng, form: ulkessen}
+      source: {kind: borrowed, language: skill-senalilng, form: ulkessen}
     - form: olthe
       class: n n
       field: "Light, sky and the turning year"
       gloss: "a cast shadow"
-      source: {kind: borrowed, language: skill-sinalelng, form: olte}
+      source: {kind: borrowed, language: skill-senalilng, form: olte}
     - form: ilpe
       class: n n
       field: "Light, sky and the turning year"
       gloss: "the high air"
-      source: {kind: borrowed, language: skill-sinalelng, form: ìlpe}
+      source: {kind: borrowed, language: skill-senalilng, form: ìlpe}
     - form: írpalosto
       class: n n
       field: "Light, sky and the turning year"
       gloss: "the east, where the dawn is"
-      source: {kind: borrowed, language: skill-sinalelng, form: irvattosto}
+      source: {kind: borrowed, language: skill-senalilng, form: irvattosto}
       concept: east
     - form: ólpessasto
       class: n n
       field: "Light, sky and the turning year"
       gloss: "the west, where the dusk is"
-      source: {kind: borrowed, language: skill-sinalelng, form: oltessasto}
+      source: {kind: borrowed, language: skill-senalilng, form: oltessasto}
       concept: west
     - form: áuremel
       class: n m
       field: "Light, sky and the turning year"
       gloss: "summer"
-      source: {kind: borrowed, language: skill-sinalelng, form: autemel}
+      source: {kind: borrowed, language: skill-senalilng, form: autemel}
     - form: pérranel
       class: n m
       field: "Light, sky and the turning year"
       gloss: "autumn"
-      source: {kind: borrowed, language: skill-sinalelng, form: vekkanel}
+      source: {kind: borrowed, language: skill-senalilng, form: vekkanel}
     - form: tálparo
       class: n n
       field: "Light, sky and the turning year"
-      gloss: "a long age; one the Sinale count"
-      source: {kind: borrowed, language: skill-sinalelng, form: talkaro}
+      gloss: "a long age; one the Senali count"
+      source: {kind: borrowed, language: skill-senalilng, form: talkaro}
     - form: lánthapo
       class: n n
       field: "Water and the wood's weather"
       gloss: "the slow river"
-      source: {kind: borrowed, language: skill-sinalelng, form: lantavo}
+      source: {kind: borrowed, language: skill-senalilng, form: lantavo}
     - form: lánthepi
       class: n n
       field: "Water and the wood's weather"
       gloss: "a river below the tree line"
-      source: {kind: borrowed, language: skill-sinalelng, form: lanteppi}
+      source: {kind: borrowed, language: skill-senalilng, form: lanteppi}
     - form: lánthepilu
       class: n n
       field: "Water and the wood's weather"
       gloss: "a stream"
-      source: {kind: borrowed, language: skill-sinalelng, form: lanteppikki}
+      source: {kind: borrowed, language: skill-senalilng, form: lanteppikki}
       concept: stream
     - form: kélpasi
       class: n n
       field: "Water and the wood's weather"
       gloss: "the cold spring"
-      source: {kind: borrowed, language: skill-sinalelng, form: kelkasi}
+      source: {kind: borrowed, language: skill-senalilng, form: kelkasi}
     - form: gáinessa
       class: n f
       field: "Water and the wood's weather"
       gloss: "a lake in the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: vainessa}
+      source: {kind: borrowed, language: skill-senalilng, form: vainessa}
     - form: sálenda
       class: n f
       field: "Water and the wood's weather"
       gloss: "a waterfall"
-      source: {kind: borrowed, language: skill-sinalelng, form: sattenda}
+      source: {kind: borrowed, language: skill-senalilng, form: sattenda}
     - form: líseri
       class: n n
       field: "Water and the wood's weather"
       gloss: "still water"
-      source: {kind: borrowed, language: skill-sinalelng, form: liseri}
+      source: {kind: borrowed, language: skill-senalilng, form: liseri}
     - form: lirpi
       class: n n
       field: "Water and the wood's weather"
       gloss: "a shore"
-      source: {kind: borrowed, language: skill-sinalelng, form: lirtì}
+      source: {kind: borrowed, language: skill-senalilng, form: lirtì}
       concept: shore
     - form: sólmeri
       class: n n
       field: "Water and the wood's weather"
       gloss: "the smell of rain coming"
-      source: {kind: borrowed, language: skill-sinalelng, form: solmeri}
+      source: {kind: borrowed, language: skill-senalilng, form: solmeri}
     - form: ilpi
       class: n n
       field: "Water and the wood's weather"
       gloss: "thin ice"
-      source: {kind: borrowed, language: skill-sinalelng, form: ilvì}
+      source: {kind: borrowed, language: skill-senalilng, form: ilvì}
     - form: nélipe
       class: n n
       field: "Water and the wood's weather"
       gloss: "the first frost"
-      source: {kind: borrowed, language: skill-sinalelng, form: nelìve}
+      source: {kind: borrowed, language: skill-senalilng, form: nelìve}
     - form: gilpai
       class: n n
       field: "Water and the wood's weather"
       gloss: "a wind in the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: vilkai}
+      source: {kind: borrowed, language: skill-senalilng, form: vilkai}
     - form: gílpaisto
       class: n n
       field: "Water and the wood's weather"
       gloss: "a windy place"
-      source: {kind: borrowed, language: skill-sinalelng, form: vilkaisto}
+      source: {kind: borrowed, language: skill-senalilng, form: vilkaisto}
     - form: élpane
       class: n n
       field: "Water and the wood's weather"
       gloss: "weather"
-      source: {kind: borrowed, language: skill-sinalelng, form: eltane}
+      source: {kind: borrowed, language: skill-senalilng, form: eltane}
     - form: rápalonu
       class: n n
       field: "Water and the wood's weather"
       gloss: "a raindrop"
-      source: {kind: borrowed, language: skill-sinalelng, form: ravattonu}
+      source: {kind: borrowed, language: skill-senalilng, form: ravattonu}
     - form: rápalosa
       class: adj
       field: "Water and the wood's weather"
       gloss: "rainy"
-      source: {kind: borrowed, language: skill-sinalelng, form: ravattosa}
+      source: {kind: borrowed, language: skill-senalilng, form: ravattosa}
     - form: pélpailu
       class: n n
       field: "Water and the wood's weather"
       gloss: "a wisp of cloud"
-      source: {kind: borrowed, language: skill-sinalelng, form: pelvaikki}
+      source: {kind: borrowed, language: skill-senalilng, form: pelvaikki}
     - form: móllursa
       class: n f
       field: "Water and the wood's weather"
       gloss: "depth; the depth of a pool"
-      source: {kind: borrowed, language: skill-sinalelng, form: mollursa}
+      source: {kind: borrowed, language: skill-senalilng, form: mollursa}
     - form: mélpesa
       class: adj
       field: "Water and the wood's weather"
       gloss: "watery"
-      source: {kind: borrowed, language: skill-sinalelng, form: melkesa}
+      source: {kind: borrowed, language: skill-senalilng, form: melkesa}
     - form: únturosa
       class: adj
       field: "Water and the wood's weather"
       gloss: "wintry"
-      source: {kind: borrowed, language: skill-sinalelng, form: unturosa}
+      source: {kind: borrowed, language: skill-senalilng, form: unturosa}
     - form: rískalo
       class: n n
       field: "Water and the wood's weather"
       gloss: "lightning"
-      source: {kind: borrowed, language: skill-sinalelng, form: riskatto}
+      source: {kind: borrowed, language: skill-senalilng, form: riskatto}
       concept: lightning
     - form: torpel
       class: n m
       field: Trees and the living wood
       gloss: "an oak"
-      source: {kind: borrowed, language: skill-sinalelng, form: torvel}
+      source: {kind: borrowed, language: skill-senalilng, form: torvel}
     - form: khersel
       class: n m
       field: Trees and the living wood
       gloss: "a pine"
-      source: {kind: borrowed, language: skill-sinalelng, form: hersel}
+      source: {kind: borrowed, language: skill-senalilng, form: hersel}
     - form: eipa
       class: n f
       field: Trees and the living wood
       gloss: "a yew"
-      source: {kind: borrowed, language: skill-sinalelng, form: eikka}
+      source: {kind: borrowed, language: skill-senalilng, form: eikka}
     - form: lámaine
       class: n n
       field: Trees and the living wood
       gloss: "an apple"
-      source: {kind: borrowed, language: skill-sinalelng, form: lamaine}
+      source: {kind: borrowed, language: skill-senalilng, form: lamaine}
     - form: ossel
       class: n m
       field: Trees and the living wood
       gloss: "a reed"
-      source: {kind: borrowed, language: skill-sinalelng, form: ossel}
+      source: {kind: borrowed, language: skill-senalilng, form: ossel}
     - form: morpel
       class: n m
       field: Trees and the living wood
       gloss: "berries"
-      source: {kind: borrowed, language: skill-sinalelng, form: morpel}
+      source: {kind: borrowed, language: skill-senalilng, form: morpel}
     - form: ólmasi
       class: n n
       field: Trees and the living wood
       gloss: "moss on stone"
-      source: {kind: borrowed, language: skill-sinalelng, form: olmasi}
+      source: {kind: borrowed, language: skill-senalilng, form: olmasi}
     - form: ólmarna
       class: n f
       field: Trees and the living wood
       gloss: "the heartwood"
-      source: {kind: borrowed, language: skill-sinalelng, form: olmarna}
+      source: {kind: borrowed, language: skill-senalilng, form: olmarna}
     - form: kálpirno
       class: n n
       field: Trees and the living wood
       gloss: "a stand of birch"
-      source: {kind: borrowed, language: skill-sinalelng, form: kalpikko}
+      source: {kind: borrowed, language: skill-senalilng, form: kalpikko}
     - form: khálpilonpu
       class: n n
       field: Trees and the living wood
       gloss: "a birch stand within the deep wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: halpilonku}
+      source: {kind: borrowed, language: skill-senalilng, form: halpilonku}
     - form: sálpurno
       class: n n
       field: Trees and the living wood
       gloss: "a grove"
-      source: {kind: borrowed, language: skill-sinalelng, form: salpukko}
+      source: {kind: borrowed, language: skill-senalilng, form: salpukko}
     - form: láupinu
       class: n n
       field: Trees and the living wood
       gloss: "a single leaf"
-      source: {kind: borrowed, language: skill-sinalelng, form: lauppinu}
+      source: {kind: borrowed, language: skill-senalilng, form: lauppinu}
       concept: leaf
     - form: láupisa
       class: adj
       field: Trees and the living wood
       gloss: "leafy"
-      source: {kind: borrowed, language: skill-sinalelng, form: lauppisa}
+      source: {kind: borrowed, language: skill-senalilng, form: lauppisa}
     - form: áimelinu
       class: n n
       field: Trees and the living wood
       gloss: "a single seed"
-      source: {kind: borrowed, language: skill-sinalelng, form: aimettinu}
+      source: {kind: borrowed, language: skill-senalilng, form: aimettinu}
       concept: seed
     - form: pálsairsa
       class: n f
       field: Trees and the living wood
       gloss: "greenness; the green of the wood in spring"
-      source: {kind: borrowed, language: skill-sinalelng, form: valsairsa}
+      source: {kind: borrowed, language: skill-senalilng, form: valsairsa}
     - form: sírreluro
       class: n n
       field: Trees and the living wood
       gloss: "birdsong"
-      source: {kind: borrowed, language: skill-sinalelng, form: sìtteluuro}
+      source: {kind: borrowed, language: skill-senalilng, form: sìtteluuro}
     - form: ílsepi
       class: n n
       field: Trees and the living wood
       gloss: "a deer"
-      source: {kind: borrowed, language: skill-sinalelng, form: ilsetti}
+      source: {kind: borrowed, language: skill-senalilng, form: ilsetti}
     - form: ílsepilu
       class: n n
       field: Trees and the living wood
       gloss: "a fawn"
-      source: {kind: borrowed, language: skill-sinalelng, form: ilsettikki}
+      source: {kind: borrowed, language: skill-senalilng, form: ilsettikki}
     - form: pórsarno
       class: n n
       field: Trees and the living wood
       gloss: "a wolf pack"
-      source: {kind: borrowed, language: skill-sinalelng, form: vorsakko}
+      source: {kind: borrowed, language: skill-senalilng, form: vorsakko}
     - form: úrthapen
       class: n m
       field: Trees and the living wood
       gloss: "a wild beast of the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: urtappen}
+      source: {kind: borrowed, language: skill-senalilng, form: urtappen}
     - form: porsa
       class: n f
       field: Trees and the living wood
       gloss: "a wolf"
-      source: {kind: borrowed, language: skill-sinalelng, form: vorsa}
+      source: {kind: borrowed, language: skill-senalilng, form: vorsa}
     - form: urnel
       class: n m
       field: Trees and the living wood
       gloss: "a bear"
-      source: {kind: borrowed, language: skill-sinalelng, form: urnel}
+      source: {kind: borrowed, language: skill-senalilng, form: urnel}
     - form: tipel
       class: n m
       field: Trees and the living wood
       gloss: "a hawk"
-      source: {kind: borrowed, language: skill-sinalelng, form: tihvel}
+      source: {kind: borrowed, language: skill-senalilng, form: tihvel}
     - form: óssenda
       class: n f
       field: Trees and the living wood
       gloss: "night"
-      source: {kind: borrowed, language: skill-sinalelng, form: ossenda}
+      source: {kind: borrowed, language: skill-senalilng, form: ossenda}
       concept: night
     - form: kiltas
       class: adj
       field: Trees and the living wood
       gloss: "quick"
-      source: {kind: borrowed, language: skill-sinalelng, form: kiltas}
+      source: {kind: borrowed, language: skill-senalilng, form: kiltas}
       concept: fast
     - form: tekhi
       class: n n
       field: Trees and the living wood
       gloss: "the clearing round a single tree"
-      source: {kind: borrowed, language: skill-sinalelng, form: tehì}
+      source: {kind: borrowed, language: skill-senalilng, form: tehì}
     - form: súldinno
       class: n n
       field: Trees and the living wood
       gloss: "a hunter in the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: suldinno}
+      source: {kind: borrowed, language: skill-senalilng, form: suldinno}
     - form: ílsepand
       class: n m
       field: Trees and the living wood
@@ -1093,22 +1093,22 @@ data:
       class: n n
       field: Trees and the living wood
       gloss: "the long road; a path through the deep wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: tirvali}
+      source: {kind: borrowed, language: skill-senalilng, form: tirvali}
     - form: audhi
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "the veil between the worlds"
-      source: {kind: borrowed, language: skill-sinalelng, form: audhi}
+      source: {kind: borrowed, language: skill-senalilng, form: audhi}
     - form: sírnasto
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a thin place; where the veil wears"
-      source: {kind: borrowed, language: skill-sinalelng, form: sirnasto}
+      source: {kind: borrowed, language: skill-senalilng, form: sirnasto}
     - form: sírnalta
       class: v
       field: "The fae, the thin places and the wards"
       gloss: "to wear thin; said of the veil"
-      source: {kind: borrowed, language: skill-sinalelng, form: sirnata}
+      source: {kind: borrowed, language: skill-senalilng, form: sirnata}
     - form: sálpurnand
       class: n m
       field: "The fae, the thin places and the wards"
@@ -1118,98 +1118,98 @@ data:
       class: n m
       field: "The fae, the thin places and the wards"
       gloss: "the far side; what lies beyond the veil"
-      source: {kind: borrowed, language: skill-sinalelng, form: aldevan}
+      source: {kind: borrowed, language: skill-senalilng, form: aldevan}
     - form: úlpaldepan
       class: n m
       field: "The fae, the thin places and the wards"
-      gloss: "what lies beyond the veil, as the Sinale name it"
-      source: {kind: borrowed, language: skill-sinalelng, form: ultasaldevan}
+      gloss: "what lies beyond the veil, as the Senali name it"
+      source: {kind: borrowed, language: skill-senalilng, form: ultasaldevan}
     - form: áithepi
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a spirit"
-      source: {kind: borrowed, language: skill-sinalelng, form: aittevi}
+      source: {kind: borrowed, language: skill-senalilng, form: aittevi}
     - form: áithepisto
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "the place of spirits"
-      source: {kind: borrowed, language: skill-sinalelng, form: aittevisto}
+      source: {kind: borrowed, language: skill-senalilng, form: aittevisto}
     - form: pénallanu
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "one of the fae"
-      source: {kind: borrowed, language: skill-sinalelng, form: venattanu}
+      source: {kind: borrowed, language: skill-senalilng, form: venattanu}
     - form: orthi
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a ward"
-      source: {kind: borrowed, language: skill-sinalelng, form: orti}
+      source: {kind: borrowed, language: skill-senalilng, form: orti}
     - form: simme
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "the art; what the lowlands call magic"
-      source: {kind: borrowed, language: skill-sinalelng, form: sìmme}
+      source: {kind: borrowed, language: skill-senalilng, form: sìmme}
     - form: ólpeira
       class: n f
       field: "The fae, the thin places and the wards"
       gloss: "a dream"
-      source: {kind: borrowed, language: skill-sinalelng, form: olpeira}
+      source: {kind: borrowed, language: skill-senalilng, form: olpeira}
       concept: dream
     - form: ólpeiranno
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a dreamer; one whose dreams the council hears"
-      source: {kind: borrowed, language: skill-sinalelng, form: olpeiranno}
+      source: {kind: borrowed, language: skill-senalilng, form: olpeiranno}
     - form: ílthori
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a vision"
-      source: {kind: borrowed, language: skill-sinalelng, form: iltori}
+      source: {kind: borrowed, language: skill-senalilng, form: iltori}
     - form: ílthorinno
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a seer"
-      source: {kind: borrowed, language: skill-sinalelng, form: iltorin}
+      source: {kind: borrowed, language: skill-senalilng, form: iltorin}
     - form: séisalpurno
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a hallowed grove"
-      source: {kind: borrowed, language: skill-sinalelng, form: seirasalpukko}
+      source: {kind: borrowed, language: skill-senalilng, form: seirasalpukko}
     - form: áulirarno
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a gathering of light; the open circle where the wood is bright"
-      source: {kind: borrowed, language: skill-sinalelng, form: aulirakko}
+      source: {kind: borrowed, language: skill-senalilng, form: aulirakko}
     - form: ánsoru
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "the long watch"
-      source: {kind: borrowed, language: skill-sinalelng, form: ansoru}
+      source: {kind: borrowed, language: skill-senalilng, form: ansoru}
     - form: ánsorunno
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "one who keeps the long watch at a thin place"
-      source: {kind: borrowed, language: skill-sinalelng, form: ansorun}
+      source: {kind: borrowed, language: skill-senalilng, form: ansorun}
     - form: pálmirno
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "a ring of standing stones"
-      source: {kind: borrowed, language: skill-sinalelng, form: valkikko}
+      source: {kind: borrowed, language: skill-senalilng, form: valkikko}
     - form: sínalo
       class: n n
       field: "The fae, the thin places and the wards"
-      gloss: "one of the Sinale"
-      source: {kind: borrowed, language: skill-sinalelng, form: sinalo}
+      gloss: "one of the Senali"
+      source: {kind: borrowed, language: skill-senalilng, form: senalo}
     - form: khépimupu
       class: n n
       field: "The fae, the thin places and the wards"
-      gloss: "the near people; the Sinale name for the Áelendan, which the Áelendan use of themselves in the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: hepìmuuvu}
+      gloss: "the near people; the Senali name for the Áelendan, which the Áelendan use of themselves in the wood"
+      source: {kind: borrowed, language: skill-senalilng, form: hepìmuuvu}
     - form: mupu
       class: n n
       field: "The fae, the thin places and the wards"
       gloss: "humans; the people beyond the wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: muuvu}
+      source: {kind: borrowed, language: skill-senalilng, form: muuvu}
       concept: human
     - form: lonthand
       class: n m
@@ -1225,95 +1225,95 @@ data:
       class: n f
       field: "The fae, the thin places and the wards"
       gloss: "a working; one act of the art as the lowland mages do it"
-      source: {kind: borrowed, language: skill-sinalelng, form: kyette}
+      source: {kind: borrowed, language: skill-senalilng, form: kyette}
     - form: símmenne
       class: n m
       field: "The fae, the thin places and the wards"
       gloss: "a lowland mage"
-      source: {kind: borrowed, language: skill-sinalelng, form: sìmmenne}
+      source: {kind: borrowed, language: skill-senalilng, form: sìmmenne}
     - form: sélporo
       class: n n
       field: Rite and the dead
       gloss: "death"
-      source: {kind: borrowed, language: skill-sinalelng, form: selkoro}
+      source: {kind: borrowed, language: skill-senalilng, form: selkoro}
       concept: death
     - form: sélporosa
       class: adj
       field: Rite and the dead
       gloss: "dead"
-      source: {kind: borrowed, language: skill-sinalelng, form: selkorosa}
+      source: {kind: borrowed, language: skill-senalilng, form: selkorosa}
       concept: dead
     - form: ílparo
       class: n n
       field: Rite and the dead
       gloss: "grief"
-      source: {kind: borrowed, language: skill-sinalelng, form: ilkaro}
+      source: {kind: borrowed, language: skill-senalilng, form: ilkaro}
       concept: grief
     - form: nélthapa
       class: n f
       field: Rite and the dead
       gloss: "a lament; the song at the cairn"
-      source: {kind: borrowed, language: skill-sinalelng, form: neltava}
+      source: {kind: borrowed, language: skill-senalilng, form: neltava}
     - form: réndalo
       class: n n
       field: Rite and the dead
       gloss: "rot; the corruption in a thing gone wrong"
-      source: {kind: borrowed, language: skill-sinalelng, form: rendatto}
+      source: {kind: borrowed, language: skill-senalilng, form: rendatto}
     - form: áipelo
       class: n n
       field: Rite and the dead
       gloss: "a lingering spirit; one of the dead who will not go on"
-      source: {kind: borrowed, language: skill-sinalelng, form: aivetto}
+      source: {kind: borrowed, language: skill-senalilng, form: aivetto}
     - form: óllepinu
       class: n n
       field: Rite and the dead
       gloss: "one of the dead"
-      source: {kind: borrowed, language: skill-sinalelng, form: ollevinu}
+      source: {kind: borrowed, language: skill-senalilng, form: ollevinu}
     - form: náuldinno
       class: n n
       field: Rite and the dead
-      gloss: "a binder of the dead, among the Sinale"
-      source: {kind: borrowed, language: skill-sinalelng, form: nauldinno}
+      gloss: "a binder of the dead, among the Senali"
+      source: {kind: borrowed, language: skill-senalilng, form: nauldinno}
     - form: náuldisto
       class: n n
       field: Rite and the dead
-      gloss: "a place of binding, among the Sinale"
-      source: {kind: borrowed, language: skill-sinalelng, form: nauldisto}
+      gloss: "a place of binding, among the Senali"
+      source: {kind: borrowed, language: skill-senalilng, form: nauldisto}
     - form: sáuldisto
       class: n n
       field: Rite and the dead
       gloss: "a burial ground"
-      source: {kind: borrowed, language: skill-sinalelng, form: sauldisto}
+      source: {kind: borrowed, language: skill-senalilng, form: sauldisto}
     - form: sáuldilonthe
       class: n n
       field: Rite and the dead
       gloss: "a burial rite"
-      source: {kind: borrowed, language: skill-sinalelng, form: sauldilonte}
+      source: {kind: borrowed, language: skill-senalilng, form: sauldilonte}
     - form: sélposalpu
       class: n n
       field: Rite and the dead
       gloss: "a tree planted for one of the dead"
-      source: {kind: borrowed, language: skill-sinalelng, form: selkorosalpu}
+      source: {kind: borrowed, language: skill-senalilng, form: selkorosalpu}
     - form: lónthesto
       class: n n
       field: Rite and the dead
       gloss: "a place of rites"
-      source: {kind: borrowed, language: skill-sinalelng, form: lontesto}
+      source: {kind: borrowed, language: skill-senalilng, form: lontesto}
     - form: ólpairsa
       class: n f
       field: Rite and the dead
       gloss: "a walking away; the desertion of one's kin"
-      source: {kind: borrowed, language: skill-sinalelng, form: olkairsa}
+      source: {kind: borrowed, language: skill-senalilng, form: olkairsa}
     - form: luro
       class: v
       field: "Song, speech and the letters"
       gloss: "to sing"
-      source: {kind: borrowed, language: skill-sinalelng, form: luuro}
+      source: {kind: borrowed, language: skill-senalilng, form: luuro}
     - form: lúronno
       class: n n
       field: "Song, speech and the letters"
       gloss: "a singer; one who sings at the gathering"
-      source: {kind: borrowed, language: skill-sinalelng, form: luuronno}
+      source: {kind: borrowed, language: skill-senalilng, form: luuronno}
     - form: rúnathen
       class: v
       field: "Song, speech and the letters"
@@ -1349,7 +1349,7 @@ data:
       class: n f
       field: "Song, speech and the letters"
       gloss: "wisdom"
-      source: {kind: borrowed, language: skill-sinalelng, form: saumirsa}
+      source: {kind: borrowed, language: skill-senalilng, form: saumirsa}
     - form: sárgathen
       class: v
       field: "Song, speech and the letters"
@@ -1375,73 +1375,73 @@ data:
       class: n n
       field: "Song, speech and the letters"
       gloss: "the Keepers' teaching; the years a child spends learning the genealogies"
-      source: {kind: borrowed, language: skill-sinalelng, form: saumi}
+      source: {kind: borrowed, language: skill-senalilng, form: saumi}
     - form: sáuminno
       class: n m
       field: "Song, speech and the letters"
       gloss: "a teacher; a Keeper who teaches the genealogies"
-      source: {kind: borrowed, language: skill-sinalelng, form: sauminno}
+      source: {kind: borrowed, language: skill-senalilng, form: sauminno}
     - form: ólnaro
       class: n n
       field: "Song, speech and the letters"
-      gloss: "a song, as the Sinale sing"
-      source: {kind: borrowed, language: skill-sinalelng, form: olnaro}
+      gloss: "a song, as the Senali sing"
+      source: {kind: borrowed, language: skill-senalilng, form: olnaro}
     - form: sérdalo
       class: n n
       field: "Song, speech and the letters"
       gloss: "memory"
-      source: {kind: borrowed, language: skill-sinalelng, form: serdatto}
+      source: {kind: borrowed, language: skill-senalilng, form: serdatto}
     - form: sérdalorno
       class: n n
       field: "Song, speech and the letters"
       gloss: "lore; what memory holds together"
-      source: {kind: borrowed, language: skill-sinalelng, form: serdattokko}
+      source: {kind: borrowed, language: skill-senalilng, form: serdattokko}
     - form: példirno
       class: n n
       field: "Song, speech and the letters"
-      gloss: "the Veldikko; the Sinale hand, and anything written in it"
-      source: {kind: borrowed, language: skill-sinalelng, form: veldikko}
+      gloss: "the Veldikko; the Senali hand, and anything written in it"
+      source: {kind: borrowed, language: skill-senalilng, form: veldikko}
     - form: példinno
       class: n n
       field: "Song, speech and the letters"
       gloss: "a scribe"
-      source: {kind: borrowed, language: skill-sinalelng, form: veldinno}
+      source: {kind: borrowed, language: skill-senalilng, form: veldinno}
     - form: sírnerno
       class: n n
       field: "Song, speech and the letters"
       gloss: "a roll of names"
-      source: {kind: borrowed, language: skill-sinalelng, form: sirnekko}
+      source: {kind: borrowed, language: skill-senalilng, form: sirnekko}
     - form: khálthepeldi
       class: n n
       field: "Song, speech and the letters"
       gloss: "an inscription"
-      source: {kind: borrowed, language: skill-sinalelng, form: halteveldi}
+      source: {kind: borrowed, language: skill-senalilng, form: halteveldi}
     - form: thénnairsa
       class: n f
       field: "Song, speech and the letters"
       gloss: "truth"
-      source: {kind: borrowed, language: skill-sinalelng, form: tennairsa}
+      source: {kind: borrowed, language: skill-senalilng, form: tennairsa}
       concept: truth
     - form: épesirno
       class: n n
       field: "Song, speech and the letters"
       gloss: "a speech; a hoard of words"
-      source: {kind: borrowed, language: skill-sinalelng, form: evesikko}
+      source: {kind: borrowed, language: skill-senalilng, form: evesikko}
     - form: sáunarinu
       class: n n
       field: "Song, speech and the letters"
       gloss: "a saying"
-      source: {kind: borrowed, language: skill-sinalelng, form: saunarinu}
+      source: {kind: borrowed, language: skill-senalilng, form: saunarinu}
     - form: áurenthe
       class: n n
       field: "Song, speech and the letters"
       gloss: "a turning; one part of a long song"
-      source: {kind: borrowed, language: skill-sinalelng, form: aurente}
+      source: {kind: borrowed, language: skill-senalilng, form: aurente}
     - form: órrisanno
       class: n n
       field: "Song, speech and the letters"
       gloss: "one who foretells"
-      source: {kind: borrowed, language: skill-sinalelng, form: orrisanno}
+      source: {kind: borrowed, language: skill-senalilng, form: orrisanno}
     - form: drúgathen
       class: v
       field: The Wardens and the border
@@ -1485,7 +1485,7 @@ data:
       class: n f
       field: The Wardens and the border
       gloss: "a bow"
-      source: {kind: borrowed, language: skill-sinalelng, form: kaives}
+      source: {kind: borrowed, language: skill-senalilng, form: kaives}
     - form: dhelkon
       class: n n
       field: The Wardens and the border
@@ -1597,33 +1597,33 @@ data:
       class: n n
       field: Craft and the metals
       gloss: "woven cloth"
-      source: {kind: borrowed, language: skill-sinalelng, form: lorrami}
+      source: {kind: borrowed, language: skill-senalilng, form: lorrami}
     - form: lórramipi
       class: n n
       field: Craft and the metals
       gloss: "a loom"
-      source: {kind: borrowed, language: skill-sinalelng, form: lorramipi}
+      source: {kind: borrowed, language: skill-senalilng, form: lorramipi}
     - form: lórraminno
       class: n n
       field: Craft and the metals
       gloss: "a weaver"
-      source: {kind: borrowed, language: skill-sinalelng, form: lorraminno}
+      source: {kind: borrowed, language: skill-senalilng, form: lorraminno}
     - form: pirnis
       class: n m
       field: Craft and the metals
       gloss: "a thread"
-      source: {kind: borrowed, language: skill-sinalelng, form: virnis}
+      source: {kind: borrowed, language: skill-senalilng, form: virnis}
       concept: thread
     - form: sárnoli
       class: n n
       field: Craft and the metals
       gloss: "a knot"
-      source: {kind: borrowed, language: skill-sinalelng, form: sarnotti}
+      source: {kind: borrowed, language: skill-senalilng, form: sarnotti}
     - form: khálthenno
       class: n n
       field: Craft and the metals
       gloss: "a carver of wood"
-      source: {kind: borrowed, language: skill-sinalelng, form: haltenno}
+      source: {kind: borrowed, language: skill-senalilng, form: haltenno}
     - form: árnathen
       class: v
       field: "Doing, going and being"
@@ -3990,7 +3990,7 @@ data:
       class: n n
       field: Mountain, snow and stone
       gloss: rain; water falling from clouds
-      source: {kind: borrowed, language: skill-sinalelng, form: ravatto}
+      source: {kind: borrowed, language: skill-senalilng, form: ravatto}
       concept: rain
     - form: nelthon
       class: n n
@@ -4001,8 +4001,8 @@ data:
     - form: pelpai
       class: n n
       field: Mountain, snow and stone
-      gloss: a cloud; any mass of visible moisture suspended in the sky in ordinary Áelendi usage; the Sinale source pelvai specifically names low cloud
-      source: {kind: borrowed, language: skill-sinalelng, form: pelvai}
+      gloss: a cloud; any mass of visible moisture suspended in the sky in ordinary Áelendi usage; the Senali source pelvai specifically names low cloud
+      source: {kind: borrowed, language: skill-senalilng, form: pelvai}
       concept: cloud
     - form: sathron
       class: n n
@@ -4032,25 +4032,25 @@ data:
       class: n n
       field: Mountain, snow and stone
       gloss: a tree; a tall woody plant with a main trunk
-      source: {kind: borrowed, language: skill-sinalelng, form: salpu}
+      source: {kind: borrowed, language: skill-senalilng, form: salpu}
       concept: tree
     - form: nilki
       class: n n
       field: Mountain, snow and stone
-      gloss: a root; any part of a plant growing into the ground in ordinary Áelendi usage; the Sinale source nìlki specifically names the deep root
-      source: {kind: borrowed, language: skill-sinalelng, form: nìlki}
+      gloss: a root; any part of a plant growing into the ground in ordinary Áelendi usage; the Senali source nìlki specifically names the deep root
+      source: {kind: borrowed, language: skill-senalilng, form: nìlki}
       concept: root
     - form: pattel
       class: n m
       field: Mountain, snow and stone
       gloss: a branch; a woody limb of a tree
-      source: {kind: borrowed, language: skill-sinalelng, form: vattel}
+      source: {kind: borrowed, language: skill-senalilng, form: vattel}
       concept: branch
     - form: saiki
       class: n n
       field: Mountain, snow and stone
       gloss: a flower; the blossom of a plant
-      source: {kind: borrowed, language: skill-sinalelng, form: saiki}
+      source: {kind: borrowed, language: skill-senalilng, form: saiki}
       concept: flower
     - form: marnis
       class: n f
@@ -6876,6 +6876,9 @@ data:
     - {name: Warden Silmaren, tongue: translation}
     - {name: Silmaren of the Dhárgandi, tongue: translation}
   retired:
+    - {form: Sinale, instead: Senali, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalean, instead: Senalian, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalo, instead: Senalo, why: "respelled to Pronouncing Thalorna"}
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}
     - {form: Awelon, instead: Gildand, why: a name borrowed from an Earth tongue}
@@ -6899,26 +6902,26 @@ data:
       why: "a word that reads as a Vilari word; the native word is written instead"
     - form: kaldrema
       instead: lonku
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: orkhaima
       instead: raumel
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: korathis
       instead: khirkel
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: alsemis
       instead: sotel
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: ílthera
       instead: núpanu
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
-    - {form: ilthera, instead: ólparne, why: "the evening is written with the Sinale loan"}
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
+    - {form: ilthera, instead: ólparne, why: "the evening is written with the Senali loan"}
     - form: sorimathen
       instead: luro
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: sorimand
       instead: lúronno
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: dokhathen
       instead: rúnathen
       why: "a word that reads as a Vilari word; the native word is written instead"
@@ -6927,13 +6930,13 @@ data:
       why: "a word that reads as a Vilari word; the native word is written instead"
     - form: marendis
       instead: sáumirsa
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: marendalon
       instead: saumi
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: marendand
       instead: sáuminno
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: tháurathen
       instead: ghélathen
       why: "a word that reads as a Vilari word; the native word is written instead"
@@ -7056,7 +7059,7 @@ data:
       why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thordima
       instead: kithe
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: thilandon
       instead: grathon
       why: "a word that reads as a Vilari word; the native word is written instead"
@@ -7077,7 +7080,7 @@ data:
       why: "a word that reads as a Vilari word; the native word is written instead"
     - form: gáimela
       instead: kaipes
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: thurdimon
       instead: kranon
       why: "a word that reads as a Vilari word; the native word is written instead"
@@ -7152,7 +7155,7 @@ data:
       why: "a word that reads as a Vilari word; the native word is written instead"
     - form: thordimand
       instead: símmenne
-      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+      why: "a word of the Senali's own domains; the Senali loan is written instead"
     - form: aruk
       instead: nonduk
       why: "a word that reads as a Vilari word; the native word is written instead"
@@ -7440,7 +7443,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Pelwar}}
 
-# terran_analog: Áelendi is patterned on a conservative mountain branch of a family whose lowland daughters changed fast, with a deep layer of borrowings from a neighbor it shares nothing else with, in the way the Celtic tongues of the uplands kept old sounds and took words from their neighbors. Every loan is taken from a row of the Sinale lexicon, and every word is checked against Earth word lists.
+# terran_analog: Áelendi is patterned on a conservative mountain branch of a family whose lowland daughters changed fast, with a deep layer of borrowings from a neighbor it shares nothing else with, in the way the Celtic tongues of the uplands kept old sounds and took words from their neighbors. Every loan is taken from a row of the Senali lexicon, and every word is checked against Earth word lists.
 ---
 
 Áelendi is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill; see below for the linguistic and cultural background of the tongue itself.
@@ -7449,7 +7452,7 @@ sohl:
 
 ## Overview
 
-Áelendi descends from a Proto-Pelwar tongue (see [[lore-pelwarpepl|Pelwar People]]) and has been heavily influenced by [[skill-sinalelng|Sinale]], from which it has many loanwords (see [[skill-aelendlng#the-sinale-loans|the Sinale loans]]). Its speakers do not speak Sinale.
+Áelendi descends from a Proto-Pelwar tongue (see [[lore-pelwarpepl|Pelwar People]]) and has been heavily influenced by [[skill-senalilng|Senali]], from which it has many loanwords (see [[skill-aelendlng#the-senali-loans|the Senali loans]]). Its speakers do not speak Senali.
 
 The Áelendan are [[lore-aelendanclt#the-unchanging|deeply conservative]]. Their language and their writing systems have not changed in hundreds of years. They deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss, and new concepts are made from ancient roots.
 
@@ -7507,7 +7510,7 @@ Cognate pairs, the Áelendi form beside the Élavendri one:
 
 ### Ordinary expressions
 
-The dictionary includes fixed expressions as well as single words. Their order and sense belong to the whole expression; a space does not turn two words into a new ending. In _ghur dhoris_, "terror", _ghur_ intensifies _dhoris_, "fear". The same intensifier gives _ghur rondis_, "awe", from admiration. _Ghren_ describes something sustained: _ghren ghárasa_ is resentment, anger kept over a wrong, and _ghren ilnis_ is longing, desire held toward something absent. These are feelings in ordinary human life. They name no additional rite or Sinale teaching.
+The dictionary includes fixed expressions as well as single words. Their order and sense belong to the whole expression; a space does not turn two words into a new ending. In _ghur dhoris_, "terror", _ghur_ intensifies _dhoris_, "fear". The same intensifier gives _ghur rondis_, "awe", from admiration. _Ghren_ describes something sustained: _ghren ghárasa_ is resentment, anger kept over a wrong, and _ghren ilnis_ is longing, desire held toward something absent. These are feelings in ordinary human life. They name no additional rite or Senali teaching.
 
 _Dhárison_ is reliance on a word held true, with the Pact at its heart. _Mund ghirth tos dhárison dhárkathen_, "I hold trust in you", introduces the person relied on with _ghirth_, "toward", before the trust held. It says that the speaker relies on the other's keeping of their word. _Tenghis_ is confidence in one's ability or success; _tendris_ is conviction that a claim is true. Neither makes the claim _tenar_, true in fact. The physical tongue is _ghalis_; _óstila_ names speech and language.
 
@@ -7531,7 +7534,7 @@ For linked alternatives, _ghos ... ghos_ marks "either ... or", _nond ghos ... n
 
 The broad country words keep the local ones precise. _Dulnon_ names a lake in any setting, while _dulna_ is the tarn in its corrie. _Sirnon_ names a river above or below the tree line; _lánthepi_ remains the river below it. _Mirlon_ is land in general, while _mirla_ is a clan's grazing ground. _Kenrison_ is any line of descent; _úrkenon_ is the old line carried back to the crossing. The physical hearth is _khendron_; the fire kept there is _kárathon_.
 
-The Sinale source and its Áelendi use need not have the same breadth. Sinale _pelvai_ names low cloud; Áelendi _pelpai_ is the ordinary word for any cloud. Sinale _nìlki_ names the deep root; Áelendi _nilki_ names a plant root at any depth. These ordinary physical uses concern the wood and its weather, within the teaching open to humans.
+The Senali source and its Áelendi use need not have the same breadth. Senali _pelvai_ names low cloud; Áelendi _pelpai_ is the ordinary word for any cloud. Senali _nìlki_ names the deep root; Áelendi _nilki_ names a plant root at any depth. These ordinary physical uses concern the wood and its weather, within the teaching open to humans.
 
 _Either_ selects from the actual pair: _uk threl thend_, "one from the two", while _nonduk threl thend_ is "none from the two; neither". _Ghuri ghuri dhelar_, "exhausted", and _ghuri ghuri lunnar_, "tiny", use the degree adverb _ghuri_, repeated for extreme degree. The adjective _ghur_ describes a noun, as in _ghur dhoris_, "overwhelming fear". In _ris soldar rundis rúnathen_, "to shout", _ris_ introduces the loud voice in which the speech is made. _Ris nimon rundis rúnathen_ means "to whisper": _nimon rundis_, "breath voice", names the unvoiced manner of speech.
 
@@ -7555,13 +7558,13 @@ An Élavendri speaker cannot understand Áelendi without study. The phonetic dif
 
 The settlers who came over the pass had only the [[skill-thrvrdhscrpt|Thurarth]] runes, the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the [[lore-nordheimnclt|Nordheimn]] their [[skill-thuravarkscript|Thuravark Runic Script]] and the [[affiliation-vylarinmpr|Vilérian Empire]] its [[skill-thrvrknscrpt|Tharavarkon Script]]. Thurarth is for carving, and they had nothing to write with in the ordinary way. Monuments, old magic and poetry are still cut in it, and its cuttings hold separate staves for _kh_, _gh_ and _dh_, which [[skill-elvndrlng|Élavendri]] has lost, so a lowland scholar reading an old inscription is spelling sounds his own mouth no longer makes.
 
-What is written rather than cut is written in the [[skill-clthndscrpt|Veldikko]], the Sinale starlight-hand, which the Áelendan took from their neighbors rather than received from any ancestor. Writing Áelendi in the Veldikko is not writing [[skill-sinalelng|Sinale]]: the script came across and the tongue did not. Áelendi is Pelwar in descent, takes its loanwords from Sinale without sharing its grammar, and is the language of every page set down in the hand. Anything old enough to be ancient in the region is therefore Áelendi, written in the Veldikko, and carved work is in Thurarth. The [[lore-flksinale|Sinale]] enclaves are near, old, and on terms with the highlands they keep with nobody else, and the hand came across the way everything else between them has. Why the Sinale opened it to these neighbors and not to others is the same question their whole closeness raises, and it has never been answered by either side.
+What is written rather than cut is written in the [[skill-clthndscrpt|Veldikko]], the Senali starlight-hand, which the Áelendan took from their neighbors rather than received from any ancestor. Writing Áelendi in the Veldikko is not writing [[skill-senalilng|Senali]]: the script came across and the tongue did not. Áelendi is Pelwar in descent, takes its loanwords from Senali without sharing its grammar, and is the language of every page set down in the hand. Anything old enough to be ancient in the region is therefore Áelendi, written in the Veldikko, and carved work is in Thurarth. The [[lore-flksenali|Senali]] enclaves are near, old, and on terms with the highlands they keep with nobody else, and the hand came across the way everything else between them has. Why the Senali opened it to these neighbors and not to others is the same question their whole closeness raises, and it has never been answered by either side.
 
-[[skill-elvndrlng|Élavendri]] did not take it. The lowlands went the other way and adopted the [[skill-semrnscrpt|Semaron]], the working alphabet of the Vilérian Empire, and an Élavendri book is in imperial letters. So the two branches borrowed their writing from opposite neighbors, and that is the whole account of how they came to differ: one people stayed in the Sinale's orbit and took what the Sinale had, the other moved into Viléria's and took what Viléria had, and the speech of each went the way of the company it kept.
+[[skill-elvndrlng|Élavendri]] did not take it. The lowlands went the other way and adopted the [[skill-semrnscrpt|Semaron]], the working alphabet of the Vilérian Empire, and an Élavendri book is in imperial letters. So the two branches borrowed their writing from opposite neighbors, and that is the whole account of how they came to differ: one people stayed in the Senali's orbit and took what the Senali had, the other moved into Viléria's and took what Viléria had, and the speech of each went the way of the company it kept.
 
-What the two hands reach is not comparable. An Élavendri page can be read by anyone holding the Semaron, which is most of the educated across [[place-midhalnrgn|Midhalión Region]] and the western [[place-ankrscntnnt|Ankaris Continent]]; an Áelendi page can be read by the Sinale and by almost nobody else alive. And the two peoples can speak and cannot read—the tongues are near enough for a conversation, and the highlander commonly has the lowland one besides, but neither makes out a line the other has set down. Only in the carved work of magic and old poetry, which the Élavendri read as a learned skill, do they meet on a page.
+What the two hands reach is not comparable. An Élavendri page can be read by anyone holding the Semaron, which is most of the educated across [[place-midhalnrgn|Midhalión Region]] and the western [[place-ankrscntnnt|Ankaris Continent]]; an Áelendi page can be read by the Senali and by almost nobody else alive. And the two peoples can speak and cannot read—the tongues are near enough for a conversation, and the highlander commonly has the lowland one besides, but neither makes out a line the other has set down. Only in the carved work of magic and old poetry, which the Élavendri read as a learned skill, do they meet on a page.
 
-The Áelendan hand is the same letters in an older, plainer ductus than the Sinale now write, and it has not changed in centuries. A borrowed script never fits, and this one misfits in both directions at once. Veldikko was made for a clean-consonant tongue and has no letter for _kh_, _gh_ or _dh_, so Áelendan scribes write them as ligatures—the hand's constant ligaturing put to a job Sinale never asked of it, and the first thing a Sinale reader notices. Running the other way, the marks the hand keeps for pitch have nothing to mark in a tongue whose stress follows one plain rule, and the scribes leave them out.
+The Áelendan hand is the same letters in an older, plainer ductus than the Senali now write, and it has not changed in centuries. A borrowed script never fits, and this one misfits in both directions at once. Veldikko was made for a clean-consonant tongue and has no letter for _kh_, _gh_ or _dh_, so Áelendan scribes write them as ligatures—the hand's constant ligaturing put to a job Senali never asked of it, and the first thing a Senali reader notices. Running the other way, the marks the hand keeps for pitch have nothing to mark in a tongue whose stress follows one plain rule, and the scribes leave them out.
 
 The Áelendan nonetheless write very little. The [Kindred Pact]{.name data-type="lore/law"} is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thurarth is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) who has been permitted—rarely, and under watch—to copy an inscription.
 
@@ -7617,20 +7620,20 @@ The roots are ordinary vocabulary, and a speaker hears the sense as he hears the
 
 ## Áelendi Lexicon {#lexicon}
 
-At a gathering in [[place-eshalshldg|Ésalosa]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Sinale, and the Áelendan count them as their own.
+At a gathering in [[place-eshalshldg|Ésalosa]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Senali, and the Áelendan count them as their own.
 
-This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the Pelwar tongue that changed least: it still says the _kh_, _gh_ and _dh_ the lowland speech gave up, and it makes no sound with the lips but _m_. It is also the only Pelwar tongue that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the pieces the names are built from.
+This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the Pelwar tongue that changed least: it still says the _kh_, _gh_ and _dh_ the lowland speech gave up, and it makes no sound with the lips but _m_. It is also the only Pelwar tongue that took a whole second layer of words from a neighbor. The [[lore-flksenali|Senali]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the pieces the names are built from.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the word as it is cited: a noun in its basic form, an adjective in its masculine, a verb in its infinitive. An inherited word is native Proto-Pelwar and names no source form, and a loan names its Sinale form, marked as the table of sources below sets out. Its meaning is given in Áelendi. A word made of smaller parts names the Áelendi words and suffixes it is made of.
+An entry gives the word as it is cited: a noun in its basic form, an adjective in its masculine, a verb in its infinitive. An inherited word is native Proto-Pelwar and names no source form, and a loan names its Senali form, marked as the table of sources below sets out. Its meaning is given in Áelendi. A word made of smaller parts names the Áelendi words and suffixes it is made of.
 
 ### Sources
 
 | Source    | From                                        | Meaning                                                                      |
 | --------- | ------------------------------------------- | ---------------------------------------------------------------------------- |
 | `*`       | —                                           | inherited: native Proto-Pelwar; no source form is given                      |
-| `sinale:` | [[skill-sinalelng#lexicon\|Sinale Lexicon]] | a loan from Sinale: the Sinale form, as the Sinale lexicon gives it          |
+| `senali:` | [[skill-senalilng#lexicon\|Senali Lexicon]] | a loan from Senali: the Senali form, as the Senali lexicon gives it          |
 | `built`   | —                                           | made in Áelendi from the words of this lexicon; the Built from cell says how |
 
 ### Fields
@@ -7646,7 +7649,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The tongue has no `f`, no `v`, no `b`, no `h` alone and no `w`: the only sound it makes with the lips is `m`. A Sinale `v` is said `p`, the one other lip sound the Áelendan learned to make for their neighbors' words, and a Sinale `w` is said `g`. So the yew, _eiva_ in the Sinale's mouth, is _eipa_ in an Áelendan's.
+The tongue has no `f`, no `v`, no `b`, no `h` alone and no `w`: the only sound it makes with the lips is `m`. A Senali `v` is said `p`, the one other lip sound the Áelendan learned to make for their neighbors' words, and a Senali `w` is said `g`. So the yew, _eiva_ in the Senali's mouth, is _eipa_ in an Áelendan's.
 
 ### Word edges
 
@@ -7666,9 +7669,9 @@ SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
 FROM clusters WHERE language = 'thalorna-note-skill-aelendlng'
 ```
 
-## The Sinale loans {#the-sinale-loans}
+## The Senali loans {#the-senali-loans}
 
-When the band came over the eastern pass, about two thousand one hundred years ago, the Sinale met them at the lowest pool and set a watch at [Talve]{.name data-type="place/site"}, and what they taught was the wood: "You learn it: tree, path, pool. And there are places where it's thin." The words came with the teaching. They are thickest where the teaching was, in the trees, the water below the snow line, the veil and the rites, and they are absent from the herds, the kin, the body, the numbers and the oath, which the band brought with it. A second band of loans came later with the [[skill-clthndscrpt|Veldikko]], the Sinale hand. The loans are almost all nouns. No pronoun, number, kin word, part of the body or ending was ever borrowed, and no given name, because names are inherited.
+When the band came over the eastern pass, about two thousand one hundred years ago, the Senali met them at the lowest pool and set a watch at [Talve]{.name data-type="place/site"}, and what they taught was the wood: "You learn it: tree, path, pool. And there are places where it's thin." The words came with the teaching. They are thickest where the teaching was, in the trees, the water below the snow line, the veil and the rites, and they are absent from the herds, the kin, the body, the numbers and the oath, which the band brought with it. A second band of loans came later with the [[skill-clthndscrpt|Veldikko]], the Senali hand. The loans are almost all nouns. No pronoun, number, kin word, part of the body or ending was ever borrowed, and no given name, because names are inherited.
 
 A loan noun takes its gender from its last sound: feminine on `-a`, neuter on any other vowel, masculine on a consonant.
 
@@ -7758,7 +7761,7 @@ A child is _lughon_ until it is named, and the naming is the event. The genealog
 
 The lodge is a fire with a roof over it. Every hearth keeps _kárathon_, the kept fire, which is banked at night and never let die, and a household whose fire goes out borrows a coal from a neighbor and owes for it. Where a guest sits is settled before he is fed: _máldathen_ is to give a man his place at the fire, and _máldalon_ is the order of the seats, worked out again for every gathering.
 
-Half the courtesy in this field came over the eastern pass from the [[lore-flksinale|Sinale]], and the loans are the gentler half. The native _khálalon_ is guest-right as a duty: what the hall owes the man under its roof. The loan _éllepirsa_ is guest-right as a welcome, the word the Áelendan use for what passes between them and their neighbors in the wood. _Tárnepi_, bread, is a loan as well, because the first bread the band was given on the far side of the pass was Sinale bread, and the offering is still made with it.
+Half the courtesy in this field came over the eastern pass from the [[lore-flksenali|Senali]], and the loans are the gentler half. The native _khálalon_ is guest-right as a duty: what the hall owes the man under its roof. The loan _éllepirsa_ is guest-right as a welcome, the word the Áelendan use for what passes between them and their neighbors in the wood. _Tárnepi_, bread, is a loan as well, because the first bread the band was given on the far side of the pass was Senali bread, and the offering is still made with it.
 
 ### Herds, pasture and the high grass
 
@@ -7772,39 +7775,39 @@ Stone is cut for two purposes, to raise as a boundary and to cover the dead. _Ta
 
 ### The body, life and death
 
-The dead are buried under cairns, a stone for each kinsman who comes to the burial, so the size of a cairn is the size of a life. A single grave is _ghromon_. The field of cairns at the edge of a valley is _ghrómalon_. The Sinale words for death and grief, which the Áelendan use beside these, stand under the rites.
+The dead are buried under cairns, a stone for each kinsman who comes to the burial, so the size of a cairn is the size of a life. A single grave is _ghromon_. The field of cairns at the edge of a valley is _ghrómalon_. The Senali words for death and grief, which the Áelendan use beside these, stand under the rites.
 
 ### Light, sky and the turning year
 
-Here the two layers of the tongue lie side by side. The day and the month are inherited words, the ones the band brought over the pass. The sun and the moon, the light itself and the hours when it changes are Sinale: _khirkel_, the sun, _sotel_, the moon, _áulira_, light, _írpalo_, dawn, _ólpessa_, the long dusk, and _nupa_, starlight, the Sinale's own word for what they are. An Áelendan says _núpanu_ for a star and _nupa_ for the light it gives, and does not hear the two as belonging to different tongues.
+Here the two layers of the tongue lie side by side. The day and the month are inherited words, the ones the band brought over the pass. The sun and the moon, the light itself and the hours when it changes are Senali: _khirkel_, the sun, _sotel_, the moon, _áulira_, light, _írpalo_, dawn, _ólpessa_, the long dusk, and _nupa_, starlight, the Senali's own word for what they are. An Áelendan says _núpanu_ for a star and _nupa_ for the light it gives, and does not hear the two as belonging to different tongues.
 
 The year is counted from the crossing, _ganthis_.
 
 ### Water and the wood's weather
 
-Above the tree line the water is inherited and the weather is the mountain's: snow, the torrent, the tarn. Below it, in the wood the band was taught to keep, nearly every word is Sinale, because the Sinale named that water first and the newcomers learned it from them. The slow river is _lánthapo_ and the cold spring _kélpasi_, and the smell of rain coming, for which the grassland tongue had no word at all, is _sólmeri_.
+Above the tree line the water is inherited and the weather is the mountain's: snow, the torrent, the tarn. Below it, in the wood the band was taught to keep, nearly every word is Senali, because the Senali named that water first and the newcomers learned it from them. The slow river is _lánthapo_ and the cold spring _kélpasi_, and the smell of rain coming, for which the grassland tongue had no word at all, is _sólmeri_.
 
 ### Trees and the living wood
 
-The wood itself is _lonku_, the deep wood, the Sinale's word. Every tree that grows in it is called by a Sinale name. _Torpel_ is the oak, _khersel_ the pine, _eipa_ the yew, and a stand of birch is _kálpirno_. This is the field where the loans are thickest, because the trees were what the Sinale taught first: "You learn it: tree, path, pool." A birch stand within the deep wood, _khálpilonpu_, is a Sinale compound the Áelendan say whole and never take apart.
+The wood itself is _lonku_, the deep wood, the Senali's word. Every tree that grows in it is called by a Senali name. _Torpel_ is the oak, _khersel_ the pine, _eipa_ the yew, and a stand of birch is _kálpirno_. This is the field where the loans are thickest, because the trees were what the Senali taught first: "You learn it: tree, path, pool." A birch stand within the deep wood, _khálpilonpu_, is a Senali compound the Áelendan say whole and never take apart.
 
 ### The fae, the thin places and the wards
 
-Nearly every word here is Sinale, and the Áelendan do not count a single one of them as foreign. The lore of the veil came with the keeping of the wood, and a thing that is kept is part of the people that keeps it. _Audhi_ is the veil, _sírnasto_ a thin place where it wears, and _orthi_ a ward. The fae themselves are _pénallanu_, one at a time; the tongue has a plural for them and the highlands do not say it.
+Nearly every word here is Senali, and the Áelendan do not count a single one of them as foreign. The lore of the veil came with the keeping of the wood, and a thing that is kept is part of the people that keeps it. _Audhi_ is the veil, _sírnasto_ a thin place where it wears, and _orthi_ a ward. The fae themselves are _pénallanu_, one at a time; the tongue has a plural for them and the highlands do not say it.
 
 The words of the keeping cluster round the [[lore-aralwen|Araelwen]], the sacred thin places, and they are among the first a child of a valley that holds one learns. _Araelwen_ is [[affiliation-theoldway|the Old Way]]'s own name for a thin place held sacred, said the same in the singular and the plural, and _sírnasto_ is any place the veil wears, sacred or not. The watch that sits by a door through the night is _ánsoru_, the long watch, and each of the two who keep it is an _ánsorunno_. The bound of the hallowed ground round an Araelwen is _ruthis_, which no blade crosses drawn, and the Warden who holds a site for the kin is a _gheland_. An outsider meets these words in one sentence, the warning, and he hears it once.
 
-The art the empire calls magic is _simme_ here, the Sinale word, and the Áelendi words for it share nothing with the [[affiliation-ordoarcanis|Thordimalon]]'s. These words, like the others for [[lore-flksinale#the-numinous|the numinous]], are Sinale loans for its outer fringe, which is all the Áelendan are taught. Áelendi has no word for the inner Sinale ways: the Áelendan have the concept and cannot fully apprehend it. The Arcane Order's scholars, who come up the valleys to study what the tribes exist to keep, have never been taught these words, and this is the field they most want.
+The art the empire calls magic is _simme_ here, the Senali word, and the Áelendi words for it share nothing with the [[affiliation-ordoarcanis|Thordimalon]]'s. These words, like the others for [[lore-flksenali#the-numinous|the numinous]], are Senali loans for its outer fringe, which is all the Áelendan are taught. Áelendi has no word for the inner Senali ways: the Áelendan have the concept and cannot fully apprehend it. The Arcane Order's scholars, who come up the valleys to study what the tribes exist to keep, have never been taught these words, and this is the field they most want.
 
 ### Rite and the dead
 
-A rite is done the way the Sinale showed it, so its words are theirs, and the burial of the dead is a rite. _Sélporo_ is death, _ílparo_ grief, and _nélthapa_ the lament sung at the cairn. The Sinale plant a tree for each of their dead, and the Áelendan have kept the custom and its word, _sélposalpu_, beside their own cairns. A lingering spirit, one that will not go on, is _áipelo_. The binder who settles one is _náuldinno_, and the highlands keep two or three in every generation and do not speak of them.
+A rite is done the way the Senali showed it, so its words are theirs, and the burial of the dead is a rite. _Sélporo_ is death, _ílparo_ grief, and _nélthapa_ the lament sung at the cairn. The Senali plant a tree for each of their dead, and the Áelendan have kept the custom and its word, _sélposalpu_, beside their own cairns. A lingering spirit, one that will not go on, is _áipelo_. The binder who settles one is _náuldinno_, and the highlands keep two or three in every generation and do not speak of them.
 
 ### Song, speech and the letters
 
 The Kindred Pact lives in the mouth, and the people who carry it are the Tradition Keepers, the _lornand_: a reciter, one who says the old words aloud at the gathering exactly as they were said to him. To recite is _lórnethen_; an account of what was done is _moghon_, a recitation that is never written down.
 
-Letters are a borrowing, and late. The Áelendan cut a few words in [[skill-thrvrdhscrpt|Thurarth]], their own rune-row, and a stave of it is _ugrin_. What they write with ink they write in the Sinale hand, the [[skill-clthndscrpt|Veldikko]], which they call _példirno_; its scribe is _példinno_, and a roll of names kept in it _sírnerno_. These words came with the hand, a band of loans later than the rest.
+Letters are a borrowing, and late. The Áelendan cut a few words in [[skill-thrvrdhscrpt|Thurarth]], their own rune-row, and a stave of it is _ugrin_. What they write with ink they write in the Senali hand, the [[skill-clthndscrpt|Veldikko]], which they call _példirno_; its scribe is _példinno_, and a roll of names kept in it _sírnerno_. These words came with the hand, a band of loans later than the rest.
 
 ### The Wardens and the border
 
@@ -7816,7 +7819,7 @@ A smith in the highlands works bronze and copper more than iron, and the metal w
 
 ### Doing, going and being
 
-The verbs are almost all inherited, and every inherited verb closes on the old infinitive ending, as _rógathen_ (to go) and _nórethen_ (to see) do. The few Sinale verbs in the tongue belong to the veil and the wood, and keep the Sinale shape.
+The verbs are almost all inherited, and every inherited verb closes on the old infinitive ending, as _rógathen_ (to go) and _nórethen_ (to see) do. The few Senali verbs in the tongue belong to the veil and the wood, and keep the Senali shape.
 
 ### Numbers and grammar words
 

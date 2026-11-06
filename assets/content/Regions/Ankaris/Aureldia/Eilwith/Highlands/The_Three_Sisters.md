@@ -3,7 +3,7 @@ shortcode: threesisters
 name: {full: The Three Sisters, en: [Battle of Three Sisters]}
 type: place
 subType: site
-description: "Three peaks above the Central Highlands, and the battlefield where the Sinale king of Eilwìth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
+description: "Three peaks above the Central Highlands, and the battlefield where the Senali king of Eilwìth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
 tags: [sacred, mountain, inland]
 data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: null, packFolder: eilwith}
 ---
@@ -13,11 +13,11 @@ the middle of [[place-eilwith|Eilwìth]]. They are unremarkable mountains and th
 
 ## The Battle
 
-In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar]] and their [Varkhad]{.name data-type="lore/folk"} masters beneath them, and the **Sinale king of
+In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar]] and their [Varkhad]{.name data-type="lore/folk"} masters beneath them, and the **Senali king of
 Eilwìth was killed** by the Varkhad.
 
 It was the decisive engagement of the [Great War]{.name data-type="lore/history"}, and its consequences went far past who held the
-field. With the king dead the surviving [[lore-flksinale|Sinale]] **withdrew**—out of the war, out of
+field. With the king dead the surviving [[lore-flksenali|Senali]] **withdrew**—out of the war, out of
 the kingdom, and into the deep forest of the south that is now [[place-hallowwood|the Hallowwood]]—and
 left the [[lore-flkkhazar|Khazari]] to finish it.
 
@@ -34,7 +34,7 @@ that would not be the end of it. In time they united under a single crown, gover
 it up for six centuries; [[lore-jointcrown|the Joint Crown]] was founded about 1585 BF. It is the only such attempt either race has ever made.
 
 The Three Sisters is where that ended, and it ended in the way most calculated to make it
-irrecoverable: not in a quarrel, but with the Sinale walking away from the Khazari in a crisis, for the
+irrecoverable: not in a quarrel, but with the Senali walking away from the Khazari in a crisis, for the
 second time, having spent six hundred years persuading them it would not happen again.
 
 ## How It Came About
@@ -98,23 +98,23 @@ them. They had nowhere to go. Both of those were true at once for two hundred ye
 The Varkhad among the settlers killed him, and how they did it is the part of the account that is vague in every telling and has never been
 filled in.
 
-A Sinale king of that age was not a thing that mortals killed. Whatever met him beneath the Three
+A Senali king of that age was not a thing that mortals killed. Whatever met him beneath the Three
 Sisters, the tradition is consistent that it was **not merely an army**—that some other force was at
 work, spiritual in nature, and that it was present on that field for a reason nobody has ever explained.
 
-The Sinale do not discuss it. The Khazari were not told. What is agreed is only the outcome: the king
+The Senali do not discuss it. The Khazari were not told. What is agreed is only the outcome: the king
 died, and the effect on his people was not defeat but **heart-failure**—they simply stopped.
 
 ## What They Did Next
 
 They did not withdraw from the war. They **abandoned everything**.
 
-The Sinale gave up the crown, the kingdom, the settled country, the coasts, the works of six hundred
+The Senali gave up the crown, the kingdom, the settled country, the coasts, the works of six hundred
 years of joint rule, and every claim of any kind outside the deep forest of the south—and they went
 into [[place-hallowwood|the wood]], and they have not come out.
 
 Everything they left, they left **to the other races**: to the Khazari who had been fighting beside them,
-and to the humans they had been fighting. The Khazari finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Sinale handed over
+and to the humans they had been fighting. The Khazari finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Senali handed over
 by walking away is, in a straightforward sense, the reason Eilwìth has human kingdoms on it at all.
 
 ## Now

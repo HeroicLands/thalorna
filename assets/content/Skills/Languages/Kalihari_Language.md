@@ -6086,7 +6086,7 @@ data:
     - {name: Warden of the Approaches, tongue: translation}
     - {name: Watcher, tongue: translation}
     - {name: Weaver of the Band, tongue: translation}
-    - {name: What the Sinale Recognized, tongue: translation}
+    - {name: What the Senali Recognized, tongue: translation}
     - {name: Anorivei Thavoeli, tongue: kalihari}
     - {name: Merchant-Prince Anorivei, tongue: translation}
     - {name: Maithori Naelithuri, tongue: kalihari}
@@ -6098,6 +6098,9 @@ data:
     - {name: Veithari Kuethori, tongue: kalihari}
     - {name: Merchant Prince Veithari, tongue: translation}
   retired:
+    - {form: Sinale, instead: Senali, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalean, instead: Senalian, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalo, instead: Senalo, why: "respelled to Pronouncing Thalorna"}
     - {form: Qasirah, instead: Ilovanu, why: "an Earth word, the principal port"}
     - {form: Qasirahn, instead: Ilovanu, why: "an Earth word, the principal port's people"}
     - {form: Korinthel, instead: Nalurithan, why: "built on an Earth city's name, the second port"}

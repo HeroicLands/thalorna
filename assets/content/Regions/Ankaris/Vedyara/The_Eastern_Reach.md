@@ -22,7 +22,7 @@ The Reach is lower than [[place-sthrnwall|the Southern Wall]] and narrower, whic
 
 On the Vedyari flank the Reach breaks into [[place-slvrgorges|the Silver Gorges]], deep-cut valleys whose lapis and silver have been dug since before the kingdom of [[affiliation-shikhalaya|Shikhalaya]] was chartered. Their smithing clans hold the workings by prerogatives older than the charter that supposedly grants them.
 
-Below the Gorges the ground falls into forest that no janpoda has ever sent an assembly into. Enclaves of [[lore-flksinale|Sinale]] are rumored there, and Khazari halls above the tree line. The rumors are old, consistent and entirely unconfirmed, which is the condition in which such rumors are most useful to the people who repeat them.
+Below the Gorges the ground falls into forest that no janpoda has ever sent an assembly into. Enclaves of [[lore-flksenali|Senali]] are rumored there, and Khazari halls above the tree line. The rumors are old, consistent and entirely unconfirmed, which is the condition in which such rumors are most useful to the people who repeat them.
 
 ## The Other Side
 

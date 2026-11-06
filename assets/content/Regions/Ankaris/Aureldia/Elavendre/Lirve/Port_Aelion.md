@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-**Port Aelion** stands on the western coast of [[place-elavendre|Élavendre]], where the great cliffs of [[place-lirve|Lirve]] yield to gentler slopes and a run of natural harbors gives shelter to merchant hulls and fishing boats alike. About 9,000 people live there, and it is the kingdom's chief harbor for sea trade: the timber of [[place-liranel|Liranel]] and the salt-fish of the coast go out over its wharves, and ships from distant realms come in. Its stone houses carry fae motifs in their carving, and its foundation stones are said to have been blessed by [[lore-flksinale|Sinale]] who once walked the coastline.
+**Port Aelion** stands on the western coast of [[place-elavendre|Élavendre]], where the great cliffs of [[place-lirve|Lirve]] yield to gentler slopes and a run of natural harbors gives shelter to merchant hulls and fishing boats alike. About 9,000 people live there, and it is the kingdom's chief harbor for sea trade: the timber of [[place-liranel|Liranel]] and the salt-fish of the coast go out over its wharves, and ships from distant realms come in. Its stone houses carry fae motifs in their carving, and its foundation stones are said to have been blessed by [[lore-flksenali|Senali]] who once walked the coastline.
 
 The town is more cosmopolitan than any inland Élavendren town, and it is also stranger. Its people treat as plain fact what outsiders call sailors' tales: tides that sometimes keep their own hours, independent of any reckoning, and travelers who walk into the mist and come back days later saying that no time has passed.
 

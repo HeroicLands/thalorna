@@ -22,7 +22,7 @@ Kardeth is a village of about 250 and a noble seat in [[place-lirve|Lirve]], on 
 
 Kardeth belongs to the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], and its lady holds the seat under the crown. Among the [[lore-elavendriclt|Élavendri]] the land in a lord's keeping is a duty and not a possession. A household turns first to its own house, second to its lord and third to the village healer, and a lord whose people go hungry has failed the duty the rank exists for. In a bad year the lady's stewardship is the first thing Kardeth draws on.
 
-The country around Liranel is licensed forest. The Crown's forest court at Liranel issues the licenses and its tally-house measures every stem cut, and past the licensed belt the old forest is the country of the [[lore-flksinale|Sinale Folk]], patrolled by the [[affiliation-alndnwrdns|Áelendan Wardens]].
+The country around Liranel is licensed forest. The Crown's forest court at Liranel issues the licenses and its tally-house measures every stem cut, and past the licensed belt the old forest is the country of the [[lore-flksenali|Senali Folk]], patrolled by the [[affiliation-alndnwrdns|Áelendan Wardens]].
 
 ## Who Leads It {#who-leads}
 

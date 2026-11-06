@@ -87,7 +87,7 @@ The common rules of the guide:
   pair (_ai_, _au_, _ei_, _oi_, _ou_, the long _aa_, _ii_, _uu_, and _ie_, _uo_,
   _ae_). A pair that is not in the table is sounded apart, as in _Zoë_.
 - **Some pairs belong to some tongues.** _ee_ and _oo_ occur in
-  Sinale and Sovidur. Aelwythi keeps its own vowel spellings, including _ea_.
+  Senali and Sovidur. Aelwythi keeps its own vowel spellings, including _ea_.
   _ao_ belongs to Tantsou, and _ui_ to Tantsou and Jurthati. _bh_ is written only by a tongue whose own note says
   so. A letter pair outside the guide is used only by a language whose note
   allows it.
@@ -248,7 +248,7 @@ exact Unicode characters its tagged roman text permits. The declaration lists
 both cases, accented letters, numerals and punctuation explicitly. Spaces and
 line breaks belong to layout. A language tag alone checks the source, as does a
 native presentation: a mapping or a dictionary spelling cannot hide an invalid
-source character. Use NFC spelling. Sinale's optional performance notation also
+source character. Use NFC spelling. Senali's optional performance notation also
 lists the combining accents needed on vowels without a precomposed spelling.
 
 This is a character repertoire, not a phonotactic rule. For example, a language
@@ -277,7 +277,7 @@ for one native pause. The declarations follow these author conventions:
 | Élavendri, Provenzal, Tarveni                                                                               | Their own palettes, the shared guide and registered names             | Period is the sole sentence pause in Semaron.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Varokhi                                                                                                     | Its forest palette, phonology and the shared guide                    | Period is the sentence pause; a joining hyphen retains its lexical role.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Khazari                                                                                                     | Its consonant skeletons, stress rule and Pirzath Spelling             | Period, comma, imperative `!` and hyphen are distinct signs. Only `“` and `”` write the quote pair. `@ # $ % ^ &` are the established sources of the six higher numeral signs, not punctuation.                                                                                                                                                                                                                                                                                                            |
-| Sinale                                                                                                      | Its clean-consonant palette and optional performance notation         | No sentence punctuation. A hyphen joins parts. Editorial gaps and omissions are outside the Sinale text.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Senali                                                                                                      | Its clean-consonant palette and optional performance notation         | No sentence punctuation. A hyphen joins parts. Editorial gaps and omissions are outside the Senali text.                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Vedyari                                                                                                     | Its two spoken registers and Vedyakshara Spelling                     | Comma is the short one-knot pause; period is the full two-knot stop. A straight apostrophe writes a lexical cut, and a hyphen joins parts. Questions and commands are carried by words.                                                                                                                                                                                                                                                                                                                    |
 | Ekpelu, Hvarn, Jurthati, Kalihari, Ki'i'chek, Nyáluban, Okharik, Osket, Sovidur, Tantsou, Taruzeli, Tellumi | Each note's palette and phonology, and the shared pronunciation guide | Common transcription uses editorial period, comma, colon, semicolon, question and exclamation marks, curly double quotation marks, parentheses, dashes, ellipsis and joining hyphen. These are reader guidance and claim no native signs. A straight apostrophe is also admitted where the language documents a catch. Ki'i'chek additionally keeps its documented curly lexical catch `’` in established names, without giving it a quotation or pause role. Tone is not added to ordinary transcription. |
 | Grukar, Nyáluban Drum-Speech                                                                                | Their notes explicitly describe no independent written words          | An empty inventory declares that lack of writing. Transcribe the drum register's spoken words under Nyáluban.                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -565,7 +565,7 @@ stress: { two: first, longer: first }
 ```
 
 `longer: first` places the stress on the first syllable of a word of three or
-more, counted from the start rather than the end. Áelendi, Sinale, Nordmal,
+more, counted from the start rather than the end. Áelendi, Senali, Nordmal,
 Hvarn and Nyaluban state it.
 
 **Syllables are vowel groups.** A vowel is a letter whose base is _a_, _e_, _i_,
@@ -602,7 +602,7 @@ every coinage**, so the workflow is propose, approve, apply.
    compared. The model languages are in `SOURCES` in `utils/earth-words.mjs`.
    Khazari's model is Tolkien's Khuzdul, and like Tolkien it writes a two-root
    name as two dashed parts. Tolkien's words are his: a whole Khuzdul word is a
-   collision for Khazari, and a whole Quenya or Sindarin word is one for Sinale,
+   collision for Khazari, and a whole Quenya or Sindarin word is one for Senali,
    whose Finnish model Quenya shares. `SOURCES` holds no list for Khazari, so
    no command catches a Khuzdul collision: compare by reading.
 
@@ -853,7 +853,7 @@ error. The chosen face must support the chosen mapping.
 | Atárzadi          | `qalezu`, `qalezu-hand`               |                                                            |
 | Dunhari           | `qalezu`, `qalezu-hand`               |                                                            |
 | Nyáluban (`nyal`) | none; oral language                   | A foreign transcription may explicitly name its own script |
-| Sinale (`sina`)   | `veldikko`, `veldikko`                |                                                            |
+| Senali (`sina`)   | `veldikko`, `veldikko`                |                                                            |
 | Áelendi (`aele`)  | `veldikko-aelendi`, `veldikko`        |                                                            |
 
 Tantsou and Jurthati are written in Teng Chou. No mapping note exists for that
@@ -1535,7 +1535,7 @@ Notes on the table:
   (a built piece that prints with no gloss). Neither fails the build, and
   neither is a reason to change a passage.
 
-- **Veldikko reads a freshly generated metadata index.** After changing Sinale,
+- **Veldikko reads a freshly generated metadata index.** After changing Senali,
   Áelendi or their encoding documents, run:
 
   ```sh
@@ -1544,7 +1544,7 @@ Notes on the table:
   npm run lint:veldikko -- --index build/content-index/thalorna-metadata.jsonl
   ```
 
-  Sinale's scalars are also compared with the independent local reference
+  Senali's scalars are also compared with the independent local reference
   converter, using glyph code points from the installed fonts package. An absent,
   malformed or incompatible index is an error; the guard never rebuilds it. The guard
   loads the index once for both languages and reads a language note only to

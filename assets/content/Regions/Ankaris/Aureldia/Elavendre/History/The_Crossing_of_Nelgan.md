@@ -3,7 +3,7 @@ shortcode: nelgancross
 name: {full: The Crossing of Nelgan, en: [The Lean Year]}
 type: lore
 subType: history
-description: "About 1380 BF a Pelwar band led by the herdsman Dhargan came over the eastern pass in snow, starved through a winter at the edge of the Silver Forests that cost them a son, and were watched by the Sinale the whole time and welcomed by none."
+description: "About 1380 BF a Pelwar band led by the herdsman Dhargan came over the eastern pass in snow, starved through a winter at the edge of the Silver Forests that cost them a son, and were watched by the Senali the whole time and welcomed by none."
 tags: [history]
 data:
   culture: aelendanclt
@@ -16,11 +16,11 @@ data:
         - lore-theasking
         - lore-pelwarmigr
         - lore-aelendnppl
-        - lore-flksinale
+        - lore-flksenali
         - place-silvrfrsts
         - place-ethalosse
       summary: >-
-        A western Pelwar band, pushed ahead of the Migration, crosses the eastern pass in snow under the herdsman Dhargan, who has kept sheep all his life and never led. Some of the band sit down on the pass and do not get up. In the winter they spend at the edge of the Silver Forests, the Lean Year, the Sinale turn the paths in rings so that the band can neither come in nor be driven off, and open no door, and the fog-hollow at the wood's margin keeps one of Dhargan's sons. The Sinale watch the band the whole time.
+        A western Pelwar band, pushed ahead of the Migration, crosses the eastern pass in snow under the herdsman Dhargan, who has kept sheep all his life and never led. Some of the band sit down on the pass and do not get up. In the winter they spend at the edge of the Silver Forests, the Lean Year, the Senali turn the paths in rings so that the band can neither come in nor be driven off, and open no door, and the fog-hollow at the wood's margin keeps one of Dhargan's sons. The Senali watch the band the whole time.
       standing: attested
       names:
         - {name: the Crossing of Nelgan, by: lore-aelendnppl}
@@ -37,7 +37,7 @@ data:
       who:
         - {ref: lore-aelendnppl, role: actor}
         - {ref: lore-pelwarpepl, role: actor}
-        - {ref: lore-flksinale, role: witness}
+        - {ref: lore-flksenali, role: witness}
       follows:
         - event: lore-pelwarmigr
           how: enabled
@@ -47,14 +47,14 @@ data:
           says: >-
             We came over the snow with the children and the seed, and every ewe we keep comes down from one lamb.
           agrees: full
-        - by: lore-flksinale
+        - by: lore-flksenali
           says: >-
             They came down the hill half-dead with cold, and we stayed in.
           agrees: full
-          withholds: that the paths were turned in rings to keep them out and that the Lean Year was the Sinale's doing
+          withholds: that the paths were turned in rings to keep them out and that the Lean Year was the Senali's doing
       unresolved:
         - who lit the fires on the plain beyond the mountains, and whether they were the people of the Taking of the Wood
-        - what the Sinale had grieved before the band came
+        - what the Senali had grieved before the band came
 ---
 
 [[lore-aelendnppl|The Áelendan]] tell their own beginning with a herdsman at the head of the people, and they are particular that he had never led anyone before. He had kept sheep.
@@ -73,13 +73,13 @@ The wood's bark took the starlight, and a light that was not fire moved in it. T
 
 The shaman [Silor]{.name data-type="being/npc"} sang at the edge of the trees, and the wood did not answer. His songs had been made for wolf and rain and river on open ground. A boy followed the lights in, and the wood closed behind him; he came out at the next full moon, no thinner, certain that a breath had passed, and said that a tree had spoken one word to him, which was _Begin_. A man cut birch from the wood's edge for the fire, and his hands went numb and stayed numb, and the numbness passed to his sons.
 
-The [[lore-flksinale|Sinale]] watched all of it. [Hauletta]{.name data-type="being/npc"}, the eldest of them, held that a pushed people does to the next thing what was done to it, and that the wood was the next thing, and she would have turned every path away to the sea. [Lauva]{.name data-type="being/npc"}, who keeps the pool, answered that the band would stay by them either way. The rest said neither, and the Sinale turned the paths in rings: they would not drive the band off to the sea, nor let it in, nor let it go.
+The [[lore-flksenali|Senali]] watched all of it. [Hauletta]{.name data-type="being/npc"}, the eldest of them, held that a pushed people does to the next thing what was done to it, and that the wood was the next thing, and she would have turned every path away to the sea. [Lauva]{.name data-type="being/npc"}, who keeps the pool, answered that the band would stay by them either way. The rest said neither, and the Senali turned the paths in rings: they would not drive the band off to the sea, nor let it in, nor let it go.
 
 ## The Lean Year
 
 The game went into the wood where nobody could follow it, and the band hunted nothing in the snow. The people call that winter the Lean Year. A girl died in the camp, and her brothers went into the wood with fire to drive the deer out to the spears. The brands went out, and the wood walked the brothers in rings until dark. One of them, [Dranketh]{.name data-type="being/npc"}, Dhargan's son, followed a call he thought was a deer's into a white fog lying in a low hollow, and the fog kept him. He was not dead and he was not returned. Dhargan's other son, [Ansel]{.name data-type="being/npc"}, lay down in the snow and laid his head on it.
 
-Dhargan came up through the dark with no fire and no spear and his hands open, calling the boy by name. Hauletta could have left the paths turned, and she let them straighten, so nothing turned him. He took Ansel out, and the rest after him. At the edge where the trees thin, he turned to the dark trees and said that he would come back with no cup, no fire, no spear and no bread, alone, and he went down into the smoke of the camp. Hauletta stood a long while and said to let him come, and the Sinale left the paths straight.
+Dhargan came up through the dark with no fire and no spear and his hands open, calling the boy by name. Hauletta could have left the paths turned, and she let them straighten, so nothing turned him. He took Ansel out, and the rest after him. At the edge where the trees thin, he turned to the dark trees and said that he would come back with no cup, no fire, no spear and no bread, alone, and he went down into the smoke of the camp. Hauletta stood a long while and said to let him come, and the Senali left the paths straight.
 
 ## What It Left
 
@@ -91,7 +91,7 @@ Dhargan came up through the dark with no fire and no spear and his hands open, c
 
 ## See Also
 
-- [[lore-theasking|The Asking]]—the Sinalean lay that tells the crossing
+- [[lore-theasking|The Asking]]—the Senalian lay that tells the crossing
 - [[lore-lowestpoolpct|The Pact at the Lowest Pool]]—what the band did next
 - [[lore-pelwarmigr|The Pelwar Migration]]—the pressure behind it
 - [[place-nelgan|Nelgan]] · [[place-ethalosse|Ethalosse]] · [[place-silvrfrsts|the Silver Forests]]

@@ -3,7 +3,7 @@ shortcode: elavendre
 name: {full: Élavendre Region, elav: [Élavendre]}
 type: place
 subType: region
-description: "Woodland kingdom where Sinale and humans coexist in a culture of music, prophecy, and ancient magic—the only human realm in Ankaris where the Elder Races walk openly as equals."
+description: "Woodland kingdom where Senali and humans coexist in a culture of music, prophecy, and ancient magic—the only human realm in Ankaris where the Elder Races walk openly as equals."
 data:
   demonym: null
   lore: [humanflk]
@@ -76,7 +76,7 @@ simply have their way.
 
 **The Order wants a great deal from Élavendre**, and makes no secret of it. There is nowhere else in the
 known world where the veil is this thin over this much ground: Araelwen by the score, seated spirits,
-living fae sites, a documented relationship with the [[lore-flksinale|Sinale]], and arcane materials—the gemstone of [[place-sorvanda|Sórvanda]] above all—in quantities that exist nowhere the Order can
+living fae sites, a documented relationship with the [[lore-flksenali|Senali]], and arcane materials—the gemstone of [[place-sorvanda|Sórvanda]] above all—in quantities that exist nowhere the Order can
 reach. Everything the Order most wishes to study is here, and most of it is behind a line it is not
 allowed to cross.
 
@@ -140,13 +140,13 @@ The Order's want comes down to the [[lore-aralwen|Araelwen]]. The mountains and 
 
 The Order's scholars cannot reach them with the crown's guides, and the Wardens warn once. So the Order **hires mercenaries and guards** to protect its scholars from the Áelendan, at [[place-beravel|Péravel]] and at [[place-liranel|Liranel]], and the work is well paid and plentiful. For anyone who takes it the question is an ethical one before it is a fighting one: the guard stands between a scholar and a law older than the crown, on ground the crown has sworn to stop short of, and the places themselves send through things that no contract names.
 
-### The Sinale
+### The Senali
 
-Élavendre's magical character is not merely cultural—it reflects genuine proximity to the [[lore-flksinale|Sinale]], the elder race whose enclaves in the deep forests of the western coast predate human settlement by thousands of years. Both the Áelendan and the Élavendren royal family have maintained a relationship with the local Sinalean communities for centuries. This is not an alliance in the political sense. The Sinale have kings, queens and lords of their own, who do not work as human ones do, and the royal family's formal relation is carried day to day by Áelendan intermediaries. It is closer to a neighborly understanding between peoples who share the same forests and have, over many generations, learned to respect each other's presence.
+Élavendre's magical character is not merely cultural—it reflects genuine proximity to the [[lore-flksenali|Senali]], the elder race whose enclaves in the deep forests of the western coast predate human settlement by thousands of years. Both the Áelendan and the Élavendren royal family have maintained a relationship with the local Senalian communities for centuries. This is not an alliance in the political sense. The Senali have kings, queens and lords of their own, who do not work as human ones do, and the royal family's formal relation is carried day to day by Áelendan intermediaries. It is closer to a neighborly understanding between peoples who share the same forests and have, over many generations, learned to respect each other's presence.
 
-The Áelendan fae traditions—the sacred groves, the nature spirits, the bardic magic—are not superstition. They reflect genuine contact with the Sinale and with the other fae beings that inhabit these ancient forests. The bardic colleges preserve songs and stories that the Sinale have shared with them, and Áelendan grovekeepers practice forms of magic that bear a distant, diluted resemblance to Sinalean arts. The Sinale tolerate this—perhaps even encourage it—in a way they do not elsewhere.
+The Áelendan fae traditions—the sacred groves, the nature spirits, the bardic magic—are not superstition. They reflect genuine contact with the Senali and with the other fae beings that inhabit these ancient forests. The bardic colleges preserve songs and stories that the Senali have shared with them, and Áelendan grovekeepers practice forms of magic that bear a distant, diluted resemblance to Senalian arts. The Senali tolerate this—perhaps even encourage it—in a way they do not elsewhere.
 
-Why the Sinale have opened themselves to the Áelendan is a question that has puzzled scholars, diplomats, and envious monarchs for centuries. The Sinale have never explained, and the Áelendan do not discuss it. Whatever the reason, this unique relationship gives Élavendre a quality that few other human realms possess: a living connection to the eldest age of the world.
+Why the Senali have opened themselves to the Áelendan is a question that has puzzled scholars, diplomats, and envious monarchs for centuries. The Senali have never explained, and the Áelendan do not discuss it. Whatever the reason, this unique relationship gives Élavendre a quality that few other human realms possess: a living connection to the eldest age of the world.
 
 ## Relations
 
@@ -165,7 +165,7 @@ The crown keeps a few companies of sworn soldiers at the border posts and in the
 | Region                       | People  | What it is                                                                                       |
 | ---------------------------- | ------- | ------------------------------------------------------------------------------------------------ |
 | [[place-ellive\|Éllive]]     | 900,000 | the heartland basin of the Berav—the capital, the University, and where everything is made       |
-| [[place-lirve\|Lirve]]       | 420,000 | the western seaboard: cliffs, Sinale forest, and the thickest fae country outside the mountains  |
+| [[place-lirve\|Lirve]]       | 420,000 | the western seaboard: cliffs, Senali forest, and the thickest fae country outside the mountains  |
 | [[place-auldalon\|Áuldalon]] | 240,000 | the eastern hills—wool, iron and the land march that takes the raiding                           |
 | [[place-lisere\|Lísere]]     | 260,000 | the northern coast on Lísere Bay, thirty miles from Vristwald across the water                   |
 | [[place-sorvanda\|Sórvanda]] | 180,000 | the eastern and southern mountains—Áelendan country, and mineral wealth the kingdom may not take |
@@ -222,7 +222,7 @@ The Áelendan reckon themselves from the band that came over the eastern pass in
 [[affiliation-kngdmlvndr|Kingdom of Élavendre]]
 : Polity details
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : The elder race with enclaves in Élavendre's forests
 
 [[lore-aralwen|Araelwen]]

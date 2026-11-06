@@ -3,7 +3,7 @@ shortcode: lirve
 name: {full: Lirve}
 type: place
 subType: region
-description: "Élavendre's western seaboard—cliffs and deep sea-facing forest where the Sinale keep their enclaves, the fae sites lie thickest outside the mountains, and the kingdom's finest timber and dyes are cut under license."
+description: "Élavendre's western seaboard—cliffs and deep sea-facing forest where the Senali keep their enclaves, the fae sites lie thickest outside the mountains, and the kingdom's finest timber and dyes are cut under license."
 tags: [region, coastal, woodland]
 data:
   demonym: null
@@ -22,9 +22,9 @@ The coast faces the open western ocean and is worked by the same cold, heavy swe
 [[place-provenzrgn|Provénzia]] further south. It is craggy, and the cliffs are real, but the country softens northward
 toward [[place-lisere|Lísere]], where the cliffs give way to long shingle and sheltered inlets.
 
-## The Sinale Coast
+## The Senali Coast
 
-Lirve is the reason Élavendre is what it is. The [[lore-flksinale|Sinale]] keep their enclaves in
+Lirve is the reason Élavendre is what it is. The [[lore-flksenali|Senali]] keep their enclaves in
 the deep forests here, and have since thousands of years before any human settlement—a fact the
 kingdom lives with rather than administers. Outside [[place-sorvanda|Sórvanda]] this is where the
 [[lore-aralwen|Araelwen]] lie thickest: thin places, shifting paths, lights among the trees, and the
@@ -35,7 +35,7 @@ alone.
 
 ## Siralonke and Its Araelwen
 
-The deep forest behind the coast is **[[place-siralonke|Siralonke]]**, the sea wood: old oak and silver birch from behind [[place-liranel|Liranel]] to the Sinale country, cut only under license at its margins and not at all within. It is sacred ground of the [[lore-aelendnppl|Áelendan]], far from their mountains, and the Wardens who patrol it keep its [[lore-aralwen|Araelwen]] as strictly as any on the Spine. Every one is forbidden to outsiders, and every one is dangerous.
+The deep forest behind the coast is **[[place-siralonke|Siralonke]]**, the sea wood: old oak and silver birch from behind [[place-liranel|Liranel]] to the Senali country, cut only under license at its margins and not at all within. It is sacred ground of the [[lore-aelendnppl|Áelendan]], far from their mountains, and the Wardens who patrol it keep its [[lore-aralwen|Araelwen]] as strictly as any on the Spine. Every one is forbidden to outsiders, and every one is dangerous.
 
 The best known is [[place-wrghthllw|the Wrought Hollow]], a door through which made things walk out into Siralonke by night and go back before light. The woodcutters of the licensed coppice find their tracks, and the [[affiliation-ordoarcanis|Thordimalon]] keeps one of them, unmoving, in a chapterhouse collection at [[place-beravel|Péravel]]. The thin places of Siralonke draw the [[being-blinkfox|blinkfoxes]] of the coast, which hunt round them.
 
@@ -59,7 +59,7 @@ Lirve is where the Order's study of the thin places comes closest to the coast, 
 : the chief harbor of the coast, where the cliffs yield.
 
 [[place-liranel|Liranel]]
-: a forest town of the inner coast, at the edge of Sinale country.
+: a forest town of the inner coast, at the edge of Senali country.
 
 [[place-cardeth|Kardeth]]
 : a village and noble seat within reach of Liranel.
@@ -68,7 +68,7 @@ Lirve is where the Order's study of the thin places comes closest to the coast, 
 : a village of the forest country around Liranel.
 
 [[place-serenthale|Serenthale]]
-: the withdrawn Sinale enclave of the sea-facing forest.
+: the withdrawn Senali enclave of the sea-facing forest.
 
 [[place-siralonke|Siralonke]]
 : the sea wood behind Liranel, sacred ground of the Áelendan kept by the Wardens.
@@ -96,6 +96,6 @@ An Order fellow at Liranel is hiring guards to go to the Wrought Hollow on a moo
 
 ## See Also
 
-- [[place-elavendre|Élavendre]] · [[lore-flksinale|Sinale]] · [[lore-aralwen|Araelwen]]
+- [[place-elavendre|Élavendre]] · [[lore-flksenali|Senali]] · [[lore-aralwen|Araelwen]]
 - [[scenario-crpntrsnght|The Carpenters' Night]], a scenario set here
 - [[scenario-grvthtsntrs|The Grove That Is Not Ours]], a scenario set here

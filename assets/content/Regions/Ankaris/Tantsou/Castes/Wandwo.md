@@ -60,7 +60,7 @@ A Warlord who rises against the throne brings his Wandwo with him, because they 
 
 ## The Elder Races
 
-No member of the [[lore-flksinale|Sinale Folk]] or the [[lore-flkkhazar|Khazár Folk]] is ever classified Wandwo. Their magic is part of their nature and does not work the way human sorcery does, and the chattel system has no hold on it. The Wandwo know this better than anyone. Elder magic is the one power in the empire that does not answer to their monopoly, and the sorcerers' compounds watch the Elder enclaves with a suspicion the Tanchei prefer not to put in writing. [[lore-elderraces|Elder Races]] says more.
+No member of the [[lore-flksenali|Senali Folk]] or the [[lore-flkkhazar|Khazár Folk]] is ever classified Wandwo. Their magic is part of their nature and does not work the way human sorcery does, and the chattel system has no hold on it. The Wandwo know this better than anyone. Elder magic is the one power in the empire that does not answer to their monopoly, and the sorcerers' compounds watch the Elder enclaves with a suspicion the Tanchei prefer not to put in writing. [[lore-elderraces|Elder Races]] says more.
 
 ## See Also
 

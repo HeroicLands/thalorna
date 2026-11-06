@@ -28,7 +28,7 @@ import { convertVeldikko } from "./veldikko-reference.mjs";
 
 const config = {
     contentPackage: "thalorna",
-    languages: { sina: { tag: "art-x-sina", note: "skill-sinalelng" } },
+    languages: { sina: { tag: "art-x-sina", note: "skill-senalilng" } },
 };
 const sign = (...points) => String.fromCodePoint(...points);
 function records() {
@@ -37,9 +37,9 @@ function records() {
             package: "thalorna",
             type: "skill",
             subType: "language",
-            shortcode: "sinalelng",
-            file: { path: "sinale.md" },
-            address: { canonical: "thalorna-note-skill-sinalelng" },
+            shortcode: "senalilng",
+            file: { path: "senali.md" },
+            address: { canonical: "thalorna-note-skill-senalilng" },
             data: {
                 words: [{ form: "pa", gloss: "test" }],
                 names: { personal: ["pa"], pattern: "ignored" },
@@ -49,9 +49,9 @@ function records() {
         {
             package: "thalorna",
             type: "doc",
-            shortcode: "sinaveldikkoenc",
-            file: { path: "sinale-encoding.md" },
-            data: { language: "sina", font: "veldikko", ...generateEncoding("sinale") },
+            shortcode: "senaveldikkoenc",
+            file: { path: "senali-encoding.md" },
+            data: { language: "sina", font: "veldikko", ...generateEncoding("senali") },
         },
     ];
 }
@@ -103,7 +103,7 @@ function fixture(t, values = records()) {
         index,
         language: {
             name: "sina",
-            enc: "sinaveldikkoenc",
+            enc: "senaveldikkoenc",
             note: path.join(dir, "missing.md"),
             reference: true,
         },
@@ -227,7 +227,7 @@ test("performance adapter keeps the independent converter's scalars and sign ord
 
 test("the reference refuses a tone off a held vowel's first letter", () => {
     for (const source of ["pâ", "paâ", "pâi", "pâá", "pấa"])
-        assert.throws(() => referenceWithPerformance(source, convertVeldikko), /Sinale/, source);
+        assert.throws(() => referenceWithPerformance(source, convertVeldikko), /Senali/, source);
 });
 
 /**
@@ -304,16 +304,16 @@ test("an acute on a held vowel's or diphthong's second letter splits it", () => 
     assert.equal(referenceWithPerformance("pái", convertVeldikko), sign(P, A, STRESS, I));
 });
 
-/** The Sinale program compiled with the installed font's codes. */
-function sinale() {
+/** The Senali program compiled with the installed font's codes. */
+function senali() {
     return compileEncoding(
-        { language: "sina", font: "veldikko", ...generateEncoding("sinale") },
-        { codes: GLYPH_CODES, name: "thalorna-note-doc-sinaveldikkoenc" },
+        { language: "sina", font: "veldikko", ...generateEncoding("senali") },
+        { codes: GLYPH_CODES, name: "thalorna-note-doc-senaveldikkoenc" },
     );
 }
 
-test("the Sinale program accepts only the common tone and stress marks", () => {
-    const encoding = sinale();
+test("the Senali program accepts only the common tone and stress marks", () => {
+    const encoding = senali();
     const accepted = [
         "onsâa",
         "ovûu",
@@ -339,8 +339,17 @@ test("the Sinale program accepts only the common tone and stress marks", () => {
         assert.throws(() => encodeText(encoding, source), undefined, source);
 });
 
-test("the Sinale program groups three or more vowels as the reference does", () => {
-    const encoding = sinale();
+test("the Senali program round-trips the people's name and a person of them", () => {
+    const encoding = senali();
+    for (const source of ["senali", "senalo"]) {
+        const native = encodeText(encoding, source);
+        assert.equal(native, referenceWithPerformance(source, convertVeldikko), source);
+        assert.equal(decodeText(encoding, native).replace(/^ch/, "k"), source, source);
+    }
+});
+
+test("the Senali program groups three or more vowels as the reference does", () => {
+    const encoding = senali();
     for (const source of [
         "pâaa",
         "paaâa",
@@ -391,10 +400,10 @@ const PLACED_TONES = [
     "ovûu",
 ];
 
-test("the Sinale program refuses a tone the left-to-right grouping puts off a held vowel's first letter", () => {
-    const encoding = sinale();
+test("the Senali program refuses a tone the left-to-right grouping puts off a held vowel's first letter", () => {
+    const encoding = senali();
     for (const source of [...OVERLAPPING_TONES, "paáâa", "paâaâa", "kaâaîi", "pyîi", "peîi"]) {
-        assert.throws(() => referenceWithPerformance(source, convertVeldikko), /Sinale/, source);
+        assert.throws(() => referenceWithPerformance(source, convertVeldikko), /Senali/, source);
         assert.throws(() => encodeText(encoding, source), /No row|not in/, source);
     }
     for (const source of PLACED_TONES) {
@@ -432,7 +441,7 @@ test("a lexicon form with a tone on a group's second letter is a finding", (t) =
 });
 
 test("a held vowel's tone round-trips on its first letter, bare and with the lexicon", (t) => {
-    const encoding = sinale();
+    const encoding = senali();
     for (const source of ["onsâa", "ovûu"])
         assert.equal(decodeText(encoding, encodeText(encoding, source)), source);
     const values = records();
@@ -445,7 +454,7 @@ test("a held vowel's tone round-trips on its first letter, bare and with the lex
     const decoded = readIndex(index, config);
     const ctx = indexedContext(config, decoded);
     ctx.lexicons = new Map([["sina", { language: "sina", data: decoded[0].data }]]);
-    const selected = encodingFor(ctx, { enc: "sinaveldikkoenc", lang: "sina" });
+    const selected = encodingFor(ctx, { enc: "senaveldikkoenc", lang: "sina" });
     assert.ok(selected.lexicon);
     for (const source of ["onsâa", "ovûu"]) {
         const options = { font: selected.font, lexicon: selected.lexicon };
@@ -540,7 +549,7 @@ test("encoding-note checks retain source reads and exact code-program diagnostic
         const program = generateEncoding(tongue);
         assert(Object.keys(program.mappings).every((source) => source === source.toLowerCase()));
         const compiled = compileEncoding(
-            { language: tongue === "sinale" ? "sina" : "aele", font: "veldikko", ...program },
+            { language: tongue === "senali" ? "sina" : "aele", font: "veldikko", ...program },
             { codes: GLYPH_CODES, name: "lowercase-veldikko" },
         );
         const uppercase = encodeWithLanguage(compiled, "Pa");

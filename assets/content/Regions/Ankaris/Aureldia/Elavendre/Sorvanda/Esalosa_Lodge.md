@@ -43,7 +43,7 @@ Warden coordination
 : The senior [[affiliation-alndnwrdns|Wardens]] meet at Ésalosa to coordinate patrols across tribal territories, to share intelligence about intrusions, and to train new generations of Wardens. The Lodge is not the Wardens' headquarters in any formal sense, but it is the place where their leadership converges.
 
 Hospitality to invited outsiders
-: On rare occasions, the Áelendan extend invitations to outsiders—scholars of high reputation, envoys from the Sinale, or persons with some specific claim on Áelendan trust. Such guests are received at Ésalosa, under protocols that the Áelendan set.
+: On rare occasions, the Áelendan extend invitations to outsiders—scholars of high reputation, envoys from the Senali, or persons with some specific claim on Áelendan trust. Such guests are received at Ésalosa, under protocols that the Áelendan set.
 
 ## Access
 

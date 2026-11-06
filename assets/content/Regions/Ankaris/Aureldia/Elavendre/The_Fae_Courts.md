@@ -14,7 +14,7 @@ No mortal scholar has ever described a Fae Court from direct experience in terms
 
 Certain motifs appear consistently across the various accounts:
 
-- **The Courts are not mortal.** Whatever their rulers are, they are not human, not Sinalean, and not any of the known elder races. They are described as being "of the forest itself" or "of the thin places," and they appear to stand outside the ordinary mortal reckoning of time and place.
+- **The Courts are not mortal.** Whatever their rulers are, they are not human, not Senalian, and not any of the known elder races. They are described as being "of the forest itself" or "of the thin places," and they appear to stand outside the ordinary mortal reckoning of time and place.
 
 - **The Courts are aware of mortal affairs.** Though they do not intervene often, when they do intervene the consequences are rarely ambiguous. Ancient Élavendren songs recount occasions on which a Fae Court judgment has granted a blessing, imposed a curse, bound a lineage to a particular duty, or withdrawn some previously granted favor. These events are rare but not imaginary.
 
@@ -22,15 +22,15 @@ Certain motifs appear consistently across the various accounts:
 
 - **Access is not arranged; it is offered.** In the rare cases where a mortal has been brought before a Fae Court, the encounter was initiated by the Courts themselves, on their terms. There is no known protocol by which a mortal can petition the Courts or seek their attention.
 
-## Relation to the Sinale
+## Relation to the Senali
 
-Scholars sometimes conflate the Fae Courts with the enclaves of the [[lore-flksinale|Sinale Folk]] in the Élavendren forests, but this conflation is mistaken. The Sinale are an elder race—mortal in their own way, even if exceptionally long-lived, and they occupy ordinary physical locations in the material world. The Fae Courts are something else. The Sinale themselves distinguish clearly between their own enclaves and "the deeper places," and they do not claim authority over the latter.
+Scholars sometimes conflate the Fae Courts with the enclaves of the [[lore-flksenali|Senali Folk]] in the Élavendren forests, but this conflation is mistaken. The Senali are an elder race—mortal in their own way, even if exceptionally long-lived, and they occupy ordinary physical locations in the material world. The Fae Courts are something else. The Senali themselves distinguish clearly between their own enclaves and "the deeper places," and they do not claim authority over the latter.
 
-That said, some Áelendan songs suggest that the Sinale and the Fae Courts have their own dealings with one another, and that the Sinalean enclaves in Élavendre may exist partly as intermediaries between the Fae Courts and the mortal world. Whether this is accurate is not something the Sinale have ever confirmed.
+That said, some Áelendan songs suggest that the Senali and the Fae Courts have their own dealings with one another, and that the Senalian enclaves in Élavendre may exist partly as intermediaries between the Fae Courts and the mortal world. Whether this is accurate is not something the Senali have ever confirmed.
 
 ## Scholarly Status
 
-[[affiliation-ordoarcanis|Thordimalon]] theorists have attempted for centuries to develop a systematic account of the Fae Courts, with limited success. The Arcane Order's agents who venture deep enough into the Élavendren interior to gather firsthand evidence tend either not to return, or to return in states that make their testimony unreliable. The Arcane Order's standing position—its public position, at least—is that the Fae Courts are a literary conceit that encodes older memories of the Sinale, conflated and mythologized over generations of oral transmission. Privately, senior members of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) are known to take the question more seriously.
+[[affiliation-ordoarcanis|Thordimalon]] theorists have attempted for centuries to develop a systematic account of the Fae Courts, with limited success. The Arcane Order's agents who venture deep enough into the Élavendren interior to gather firsthand evidence tend either not to return, or to return in states that make their testimony unreliable. The Arcane Order's standing position—its public position, at least—is that the Fae Courts are a literary conceit that encodes older memories of the Senali, conflated and mythologized over generations of oral transmission. Privately, senior members of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) are known to take the question more seriously.
 
 The Áelendan, for their part, regard Arcane Order curiosity about the Courts with particular wariness. The Courts are not a subject to be studied by outside scholars. They are not a phenomenon to be cataloged. The Áelendan have given no consent for such investigation and they consider unauthorized inquiry into Court matters to be among the more serious violations of the [Kindred Pact]{.name data-type="lore/law"}.
 
@@ -45,7 +45,7 @@ The Áelendan, for their part, regard Arcane Order curiosity about the Courts wi
 [[place-silvrfrsts|The Silver Forests]]
 : The principal fae-touched woodland associated with the Courts
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : The elder race often conflated with, but distinct from, the Courts
 
 [[affiliation-alndnwrdns|Áelendan Wardens]]

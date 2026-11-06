@@ -49,7 +49,7 @@ A Leigen is a peasant by caste, and every caste respects him. Speaking with the 
 
 ## The Elder Dead
 
-The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] within the empire do not keep the Tantsou rites. The Sinale honor their dead by planting trees and tending sacred groves, in private ceremonies with nothing of the ledger about them. The Khazari make memorials and keep the tools and weapons of the dead as sacred things. Both traditions stand wholly apart from the human faith, the celestial bureaucracy has no place to file them, and the [[lore-tanchei|Tanchei]] do not look into the matter.
+The [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] within the empire do not keep the Tantsou rites. The Senali honor their dead by planting trees and tending sacred groves, in private ceremonies with nothing of the ledger about them. The Khazari make memorials and keep the tools and weapons of the dead as sacred things. Both traditions stand wholly apart from the human faith, the celestial bureaucracy has no place to file them, and the [[lore-tanchei|Tanchei]] do not look into the matter.
 
 ## The Festival of the Dead
 
@@ -70,7 +70,7 @@ The greatest festival of the dead is the [Festival of the Dead]{.name data-type=
 : the faith and its moral ledger
 
 [[lore-elderraces|Elder Races]]
-: the ancestral traditions of the Sinale and Khazari
+: the ancestral traditions of the Senali and Khazari
 
 [[lore-clndrstrlgy|Calendar and Astrology]]
 : the festivals of the dead

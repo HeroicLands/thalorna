@@ -34,7 +34,7 @@ The visible landscape is dominated by dense tropical jungle, thorny scrubland in
 
 The jungle that blankets K'ankul was not always primary forest; centuries of deliberate landscape management have transformed it into a mosaic of productive and sacred zones. The greatest cities are surrounded by carefully maintained agricultural zones where slash-and-burn maize plots rotate in a 7-year cycle with regenerating forest. Beyond these zones lie wilderness areas reserved for hunting and the gathering of specialty woods, rubber, and medicinal plants. The K'ankul people have learned to read the jungle as the priests read the stars—as a complex, ordered system governed by sacred principles and celestial cycles.
 
-One stretch of high jungle in the interior of the platform, far from every city, has never been worked at all. It is [[place-lirnasto|Lirnasto]], the conclave of the [[lore-flksinale|Sinale Folk]], and by an old understanding the realm keeps its people out of it.
+One stretch of high jungle in the interior of the platform, far from every city, has never been worked at all. It is [[place-lirnasto|Lirnasto]], the conclave of the [[lore-flksenali|Senali Folk]], and by an old understanding the realm keeps its people out of it.
 
 ## City-States and Realms
 
@@ -81,4 +81,4 @@ K'ankul quarrels with Ish'ilankul over whether it is a partner or a tributary, a
 : The Walled City on the sea-cliffs
 
 [[place-lirnasto|Lirnasto]]
-: The Sinale conclave in the uncut jungle of the interior
+: The Senali conclave in the uncut jungle of the interior

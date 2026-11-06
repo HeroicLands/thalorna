@@ -46,7 +46,7 @@ The poets are the Dunhara's great achievement. Genealogy, history, legal precede
 
 The settled people of Amradad are of Dunhari stock and have grown apart from their cousins. The tribes admire the wealth of the cities and despise the softness of a settled life, and the Amradi return both opinions. The Kingdom is sovereign and the tribes are independent, and the arrangement has held for centuries.
 
-A few [[lore-flkkhazar|Khazari]] halls are rumored in the mountain margins, and now and then a [[lore-flksinale|Sinale traveler]] is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
+A few [[lore-flkkhazar|Khazari]] halls are rumored in the mountain margins, and now and then a [[lore-flksenali|Senali traveler]] is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
 
 ## Faith
 

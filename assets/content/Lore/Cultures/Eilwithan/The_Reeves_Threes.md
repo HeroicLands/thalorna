@@ -14,7 +14,7 @@ data:
     - lore-aelwythanclt
     - affiliation-ardavon
     - affiliation-selmoros
-    - lore-flksinale
+    - lore-flksenali
     - lore-flkkhazar
     - lore-vardain
     - affiliation-repblcndrth
@@ -30,7 +30,7 @@ data:
 
 Every manor has threes of its own, about its own bounds and dues, and those are not written here. These are the threes the manors of the eastern country share, as the reeves of the manors under [[place-dunmere|Dunmere]] say them. They are said plainly, one after another, with no verse to them; the plainness is held to be the point, and a reeve who dresses a three up is told to say it again.
 
-Some threes are followed by a saying of the reeves that goes with them; these stand after the three they belong to. The threes about the folk who were on the island before the Eilwìthans name the [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]], the [[lore-flkkhazar|Khazari]] of [[place-ironfells|the Ironfells]] and [[lore-vardain|the Vardain]] who farm beneath them, in the order the island's history puts them, which the reeves do not know is an order.
+Some threes are followed by a saying of the reeves that goes with them; these stand after the three they belong to. The threes about the folk who were on the island before the Eilwìthans name the [[lore-flksenali|Senali]] of [[place-hallowwood|the Hallowwood]], the [[lore-flkkhazar|Khazari]] of [[place-ironfells|the Ironfells]] and [[lore-vardain|the Vardain]] who farm beneath them, in the order the island's history puts them, which the reeves do not know is an order.
 
 : The Holding {#holding}
 

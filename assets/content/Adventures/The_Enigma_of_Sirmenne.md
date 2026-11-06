@@ -3,7 +3,7 @@ shortcode: engmsrmnn
 name: {full: The Enigma of Sirmenne}
 type: scenario
 subType: adventure
-description: "Treasure-seekers with crown permits crowd the woods around Sirmenne because the Order let a scholar's account circulate to cover its own night entry, and the stone its men carried out has broken the old restraint between the Áelendan and the Sinale."
+description: "Treasure-seekers with crown permits crowd the woods around Sirmenne because the Order let a scholar's account circulate to cover its own night entry, and the stone its men carried out has broken the old restraint between the Áelendan and the Senali."
 tags: []
 data:
   parents: []
@@ -17,9 +17,9 @@ data:
 
 ## Overview {#overview}
 
-[[place-sirmenne|Sirmenne]] is a ruin in the wooded borderland of [[place-sathvothe|Satvote]], below the Áelendan mountains, older than any settlement of either kingdom. It is sacred to the [[affiliation-aelndntrbs|Áelendan Tribes]] and to the [[lore-flksinale|Sinale]] who dwell in the hidden forests nearby, and the two peoples keep it by a long mutual restraint that neither has ever explained. Neither crown administers it. Local legend holds that the Sinale left things of power behind when they withdrew, and nothing has ever been produced to show it.
+[[place-sirmenne|Sirmenne]] is a ruin in the wooded borderland of [[place-sathvothe|Satvote]], below the Áelendan mountains, older than any settlement of either kingdom. It is sacred to the [[affiliation-aelndntrbs|Áelendan Tribes]] and to the [[lore-flksenali|Senali]] who dwell in the hidden forests nearby, and the two peoples keep it by a long mutual restraint that neither has ever explained. Neither crown administers it. Local legend holds that the Senali left things of power behind when they withdrew, and nothing has ever been produced to show it.
 
-This summer a scholar's account of Sirmenne has gone the rounds of the academies of [[place-aureliane|Aurelane]], in copies from the scriptorium of the [[affiliation-acadmedcn|Academy of Medicine and Manuscripts]], and treasure-seekers, antiquarians and agents of the [[affiliation-ordoarcanis|Thordimalon]] are in the woods together. Some of them carry permits sealed in [[place-jalnazdal|Jalnasdal]]. The Áelendan make no distinction between a looter and a licensed antiquarian, and the Sinale have been seen at the ruin's edge in daylight, which nobody in the borderland can remember.
+This summer a scholar's account of Sirmenne has gone the rounds of the academies of [[place-aureliane|Aurelane]], in copies from the scriptorium of the [[affiliation-acadmedcn|Academy of Medicine and Manuscripts]], and treasure-seekers, antiquarians and agents of the [[affiliation-ordoarcanis|Thordimalon]] are in the woods together. Some of them carry permits sealed in [[place-jalnazdal|Jalnasdal]]. The Áelendan make no distinction between a looter and a licensed antiquarian, and the Senali have been seen at the ruin's edge in daylight, which nobody in the borderland can remember.
 
 The party enters as hired guards for a treasure-seeking company, as the Order's hands, or as people caught in the woods when the Áelendan decide they have had enough.
 
@@ -27,9 +27,9 @@ The party enters as hired guards for a treasure-seeking company, as the Order's 
 
 **The account.** The scholar's account was the Order's doing. [[being-zdmdrvs|Zedime Diravis]], the Order's magister at Bataren, bought an old traveler's description of Sirmenne from a bookseller and let it be copied, knowing what it would bring into the woods. While the Áelendan watched the treasure-seekers on the paths, two men of the Order went in by night past the outer precinct to the inner court.
 
-**The stone.** They found the sealed doors the account describes and could not open them. They carried out instead a carved stone from the threshold of the inner court, cut with an inscription in the old Sinale script, which Zedime believes is the key the doors were sealed against. It is not. It is the stone at which the Sinale keep their observance, and it lies now in a cart under sacking at the Order's camp at the forest edge.
+**The stone.** They found the sealed doors the account describes and could not open them. They carried out instead a carved stone from the threshold of the inner court, cut with an inscription in the old Senali script, which Zedime believes is the key the doors were sealed against. It is not. It is the stone at which the Senali keep their observance, and it lies now in a cart under sacking at the Order's camp at the forest edge.
 
-**The restraint.** Each people keeps Sirmenne in its own way and acknowledges the other's right to be there. The stone was in the Áelendan's keeping, by that arrangement, when it went. The Sinale have come to the ruin's edge in daylight to see whether the Áelendan let it go. The Áelendan, who did not, mean to clear every lowlander out of the borderland woods by force before the next moon, permit or none, and to bring back what was taken.
+**The restraint.** Each people keeps Sirmenne in its own way and acknowledges the other's right to be there. The stone was in the Áelendan's keeping, by that arrangement, when it went. The Senali have come to the ruin's edge in daylight to see whether the Áelendan let it go. The Áelendan, who did not, mean to clear every lowlander out of the borderland woods by force before the next moon, permit or none, and to bring back what was taken.
 
 **The permits.** The permits are real. The Treasurer, [[being-gredalekalv|Gredale Kalvezis]], needs every fee the crown can raise, and his clerks have sold licenses to search at Sirmenne to anyone who paid, on the ground that the crown's claim to the site is unambiguous. That the claim is practically theoretical is not the Treasurer's concern.
 
@@ -71,15 +71,15 @@ The forest edge below Sirmenne at dawn. Three camps within a bowshot of each oth
 
 ### Scene Two: The Ruin's Edge
 
-**Purpose.** The Sinale and the precinct.
+**Purpose.** The Senali and the precinct.
 
 **Situation.** [[place-sirmenne|Sirmenne]]: crumbling walls of worked stone among old trees, the outer precinct swept clean by Áelendan hands, and beyond it the inner court with its sealed doors.
 
-**NPCs and threats.** The Sinale who stand at the ruin's edge, tall and silent, and do not answer questions. The Áelendan who keep the precinct and warn once.
+**NPCs and threats.** The Senali who stand at the ruin's edge, tall and silent, and do not answer questions. The Áelendan who keep the precinct and warn once.
 
 **Player choices.** Approach openly, stay at the precinct's edge, or try for the inner court.
 
-**Clues and rewards.** A party that keeps to the precinct's edge sees the empty socket at the inner court's threshold. A party that approaches the Sinale with nothing in its hands is looked at for a long time and then let go.
+**Clues and rewards.** A party that keeps to the precinct's edge sees the empty socket at the inner court's threshold. A party that approaches the Senali with nothing in its hands is looked at for a long time and then let go.
 
 **Consequences.** A party that crosses the precinct is turned out of the woods by the Áelendan and marked as one of the looters.
 
@@ -111,7 +111,7 @@ The forest edge below Sirmenne at dawn. Three camps within a bowshot of each oth
 
 **Player choices.** Carry the stone back to the threshold, lead the treasure-seekers out, stand and argue, or fight.
 
-**Clues and rewards.** A party that sets the stone back in its socket in sight of the Áelendan is let walk out of the woods with everyone it leads. The Sinale are gone from the ruin's edge in the morning.
+**Clues and rewards.** A party that sets the stone back in its socket in sight of the Áelendan is let walk out of the woods with everyone it leads. The Senali are gone from the ruin's edge in the morning.
 
 **Consequences.** If the stone goes back, the restraint holds and the borderland is quiet again. If it does not, the Áelendan close the woods to every lowlander, and the crown's permits are worthless.
 
@@ -119,7 +119,7 @@ The forest edge below Sirmenne at dawn. Three camps within a bowshot of each oth
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
-The cart reaches Bataren and Zedime studies a stone he cannot read. The Áelendan clear the borderland woods at the moon, and two treasure-seekers who stood on their permits are carried out with broken arms. The Sinale are not seen again, and the Áelendan come down to Bataren in the autumn for the stone. The crown learns that a site it claims has been closed to its subjects by people who do not dispute its claim.
+The cart reaches Bataren and Zedime studies a stone he cannot read. The Áelendan clear the borderland woods at the moon, and two treasure-seekers who stood on their permits are carried out with broken arms. The Senali are not seen again, and the Áelendan come down to Bataren in the autumn for the stone. The crown learns that a site it claims has been closed to its subjects by people who do not dispute its claim.
 
 ## Aftermath {#aftermath}
 
@@ -133,7 +133,7 @@ A party that put the stone back has the precinct-keepers' tolerance, which is th
 [[affiliation-aelndntrbs|Áelendan Tribes]]
 : the people who keep the precinct
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : the other keepers of the site
 
 [[scenario-crsmnthydrvn|The Curse of Mount Hidraven]]

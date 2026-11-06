@@ -1,29 +1,29 @@
 ---
 shortcode: itharicntc
-name: {full: The Sinale Meet the Ithari, en: [The Only Meeting]}
+name: {full: The Senali Meet the Ithari, en: [The Only Meeting]}
 type: lore
 subType: history
-description: "Sinale wayfarers come upon the Ithari by chance, are received with courtesy and politely declined—the only contact between the Ithari and an Elder Race in any record."
+description: "Senali wayfarers come upon the Ithari by chance, are received with courtesy and politely declined—the only contact between the Ithari and an Elder Race in any record."
 tags: [history, spine]
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: settinglore
   events:
     - when: ~-7500
       kind: contact
       depth: world
-      sources: [lore-theithari, lore-flksinale]
+      sources: [lore-theithari, lore-flksenali]
       summary: >-
-        Sinale wayfarers come upon the Ithari in a place neither people has ever named. They are received, offered no exchange, and politely declined. The Sinale come away without learning who they had met, where those people came from, what they were doing on Thalorna, or that there was any connection between them and the works on Kalihara. It is the only contact between the Ithari and an Elder Race in any record.
+        Senali wayfarers come upon the Ithari in a place neither people has ever named. They are received, offered no exchange, and politely declined. The Senali come away without learning who they had met, where those people came from, what they were doing on Thalorna, or that there was any connection between them and the works on Kalihara. It is the only contact between the Ithari and an Elder Race in any record.
       standing: single-source
       where: {locus: [place-worldthlrn]}
-      who: [{ref: lore-flksinale, role: actor}, {ref: lore-theithari, role: actor}]
+      who: [{ref: lore-flksenali, role: actor}, {ref: lore-theithari, role: actor}]
       follows:
-        - event: lore-sinalearrv
+        - event: lore-senaliarrv
           how: enabled
           note: the wayfarers who came upon them had been in the world a short time
       accounts:
-        - by: lore-flksinale
+        - by: lore-flksenali
           says: >-
             We came upon them, we were not rebuffed and not taken seriously, and the impression we came away with—given as an impression—is that we were found quaint.
           agrees: partly
@@ -34,17 +34,17 @@ data:
           agrees: silent
       unresolved:
         - where the meeting happened
-        - whether the Sinale ever put that afternoon together with the builders of Kalihara's works
+        - whether the Senali ever put that afternoon together with the builders of Kalihara's works
 ---
 
-The Sinale Meet the Ithari records the one crack in the silence: an afternoon, and almost nothing came through it.
+The Senali Meet the Ithari records the one crack in the silence: an afternoon, and almost nothing came through it.
 
-The [[lore-flksinale|Sinale]] did not seek [[lore-theithari|the Ithari]] out; by their own account they
+The [[lore-flksenali|Senali]] did not seek [[lore-theithari|the Ithari]] out; by their own account they
 came upon them. They were received. They were not rebuffed, threatened, questioned or taken seriously.
 No exchange was proposed and no further meeting was arranged. The others returned to whatever they had
-been doing, and the Sinale went away.
+been doing, and the Senali went away.
 
-The limit of it is worth stating plainly. The Sinale met someone and learned nothing—not who they
+The limit of it is worth stating plainly. The Senali met someone and learned nothing—not who they
 had met, not where those people had come from, not that there was any connection between them and
 anything else in the world. They do not use the name Ithari, because they were never given it. Nobody
 told the Kaliharans either, and [[affiliation-kalihara|Kalihara]] has never told them.

@@ -20,7 +20,7 @@ data:
         - lore-flkkhazar
         - lore-pelwarpepl
       summary: >-
-        With the Sinale gone into the Hallowwood, the Khazari finish the Great War in a few seasons and do not take the island. They keep the Ironfells and the north-east plain under their protection for the Vardain, and leave the rest of the country the Sinale abandoned to the Pelwar who had fought for it. Nothing is written down and no oath is sworn; the Deep Folk simply stop. The works of the joint crown pass to whoever lives beside them.
+        With the Senali gone into the Hallowwood, the Khazari finish the Great War in a few seasons and do not take the island. They keep the Ironfells and the north-east plain under their protection for the Vardain, and leave the rest of the country the Senali abandoned to the Pelwar who had fought for it. Nothing is written down and no oath is sworn; the Deep Folk simply stop. The works of the joint crown pass to whoever lives beside them.
       standing: reconstructed
       where:
         locus: [place-eilwith]
@@ -35,7 +35,7 @@ data:
             how: the eastern interior is left to the Pelwar settled there, and every realm of the island later stands on ground the Khazari did not claim
             knowledge: unlinked
           - place: place-hallowwood
-            how: the Sinale, who left the field, learn of the settlement from no one and ask no one
+            how: the Senali, who left the field, learn of the settlement from no one and ask no one
             knowledge: unlinked
       who:
         - {ref: lore-flkkhazar, role: actor}
@@ -64,13 +64,13 @@ The Ending of the Great War is recalled by a short saying in [[place-vardainvall
 
 ## A War With Nobody Left to Fight It
 
-The Great War had been two centuries of arrival and reprisal between the refugees of the [[lore-pelwarpepl|Pelwar People]] on the island and the elder kingdom that could not absorb them. When the Sinale king fell at [[place-threesisters|the Three Sisters]] in 984 BF the [[lore-flksinale|Sinale]] left the field and the crown, and the Khazari stayed to finish a war they had joined as one half of a government. They did it in a few seasons, as they do anything that has been decided, and then they stopped.
+The Great War had been two centuries of arrival and reprisal between the refugees of the [[lore-pelwarpepl|Pelwar People]] on the island and the elder kingdom that could not absorb them. When the Senali king fell at [[place-threesisters|the Three Sisters]] in 984 BF the [[lore-flksenali|Senali]] left the field and the crown, and the Khazari stayed to finish a war they had joined as one half of a government. They did it in a few seasons, as they do anything that has been decided, and then they stopped.
 
 They did not take the island. A hold grows nothing and needs farmers within reach of its gate, and the Khazari had never wanted the lowlands, only the people on them who fed [[place-vorgald|Vorgald]]. So they kept what a hold needs: [[place-ironfells|the Ironfells]] and the north-east plain, with the high valleys, held for [[lore-vardain|the Vardain]] who farmed it. Everything else, from the interior and the coast to the western uplands and the forest edge, they left to the Pelwar who had fought them. No oath was sworn and no line was drawn; the garrisons went back inside the mountain, and the Pelwar found that nobody remained to dispute the ground.
 
 ## Whose Roads
 
-The works of [[lore-jointcrown|the Joint Crown]] stood on that ground and had no keepers. The Sinale did not return for their avenues and the Khazari did not send masons to repair their roadbeds. The Pelwar settled beside them, used the roads, quarried the footings for their first walls, and forgot who had laid them. The realms that rose on the island in the following centuries stand on this settlement, and none of their charters mentions it.
+The works of [[lore-jointcrown|the Joint Crown]] stood on that ground and had no keepers. The Senali did not return for their avenues and the Khazari did not send masons to repair their roadbeds. The Pelwar settled beside them, used the roads, quarried the footings for their first walls, and forgot who had laid them. The realms that rose on the island in the following centuries stand on this settlement, and none of their charters mentions it.
 
 ## What It Left
 

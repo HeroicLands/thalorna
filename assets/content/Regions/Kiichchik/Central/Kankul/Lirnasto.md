@@ -3,18 +3,18 @@ shortcode: lirnasto
 name: {full: Lirnasto}
 type: place
 subType: settlement
-description: "The central conclave of the Sinale in Kì'ìch'chik, in the uncut high jungle of the limestone lowlands, which the realm of K'ankul keeps its people out of by an old understanding."
+description: "The central conclave of the Senali in Kì'ìch'chik, in the uncut high jungle of the limestone lowlands, which the realm of K'ankul keeps its people out of by an old understanding."
 tags: [village, forest]
 data:
   demonym: null
-  lore: [flksinale]
+  lore: [flksenali]
   parents: [kankulrgn]
   population: null
   packFolder: kankul
-  culture: sinaleclt
+  culture: senaliclt
 ---
 
-**Lirnasto**, the place of vines in the [[skill-sinalelng|Sinale language]], is the conclave the [[lore-flksinale|Sinale Folk]] keep in the middle of [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-kankulrgn|K'ankul Region]], in the high jungle of the interior of the limestone platform, a long way from the coast and from every city of the realm. It is the one place in Kì'ìch'chik where the Sinale and a human realm hold to an understanding. Nobody outside it has counted the Sinale there.
+**Lirnasto**, the place of vines in the [[skill-senalilng|Senali language]], is the conclave the [[lore-flksenali|Senali Folk]] keep in the middle of [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-kankulrgn|K'ankul Region]], in the high jungle of the interior of the limestone platform, a long way from the coast and from every city of the realm. It is the one place in Kì'ìch'chik where the Senali and a human realm hold to an understanding. Nobody outside it has counted the Senali there.
 
 ## What a Traveler Finds
 
@@ -24,9 +24,9 @@ Nobody in K'ankul goes in, so a traveler has only the edge to describe: the wall
 
 ## The Understanding
 
-The realm of [[affiliation-kankul|K'ankul]] keeps an understanding with the Sinale of Lirnasto: its people stay out of the old jungle and do not disturb those who live there. Every Ts'enmah of the realm holds to it, and the Ha'nalmah of the towns along the forest's edge enforce it on their people. Hunters, rubber-tappers and gatherers of medicinal plants turn back where the old trees begin, and a man who goes in is answerable to his Ha'nalmah when he comes out. No causeway is laid toward the forest and no plot is burned into it. The day-tables of [[affiliation-ishilanshulum|the Star House]] mark no rite to be held there.
+The realm of [[affiliation-kankul|K'ankul]] keeps an understanding with the Senali of Lirnasto: its people stay out of the old jungle and do not disturb those who live there. Every Ts'enmah of the realm holds to it, and the Ha'nalmah of the towns along the forest's edge enforce it on their people. Hunters, rubber-tappers and gatherers of medicinal plants turn back where the old trees begin, and a man who goes in is answerable to his Ha'nalmah when he comes out. No causeway is laid toward the forest and no plot is burned into it. The day-tables of [[affiliation-ishilanshulum|the Star House]] mark no rite to be held there.
 
-When the understanding was made, and by whom, the realm's books do not say. The Sinale have never come out of the forest to speak of it. They take no part in the realm's trade, its rites or its quarrel with [[affiliation-ixilankul|Ish'ilankul]], and the realm asks nothing of them beyond what the understanding already holds.
+When the understanding was made, and by whom, the realm's books do not say. The Senali have never come out of the forest to speak of it. They take no part in the realm's trade, its rites or its quarrel with [[affiliation-ixilankul|Ish'ilankul]], and the realm asks nothing of them beyond what the understanding already holds.
 
 ## Hooks
 
@@ -35,7 +35,7 @@ When the understanding was made, and by whom, the realm's books do not say. The 
 
 ## See Also
 
-[[lore-flksinale|Sinale Folk]]
+[[lore-flksenali|Senali Folk]]
 : the people of the conclave
 
 [[place-kankulrgn|K'ankul Region]]

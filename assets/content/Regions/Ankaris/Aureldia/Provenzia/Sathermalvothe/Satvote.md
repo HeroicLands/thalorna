@@ -33,7 +33,7 @@ They will involve themselves the instant a sacred site is disturbed, and they do
 between a trespasser, a licensed antiquarian and an army.
 
 [[place-hydravenmnt|Mount Hidraven]], the source of the kingdom's water, is theirs.
-[[place-sirmenne|Sirmenne]]—shared with the [[lore-flksinale|Sinale]]—is theirs.
+[[place-sirmenne|Sirmenne]]—shared with the [[lore-flksenali|Senali]]—is theirs.
 [[place-ukuaraelwen|Úkua-Araelwen]], which straddles the frontier, is held by their [[affiliation-alndnwrdns|Wardens]] and administered by neither kingdom.
 
 ## The Sea-Frontier

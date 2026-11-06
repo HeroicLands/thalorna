@@ -73,7 +73,7 @@ to act quickly.
 
 The reason is not competition, though they do compete. It is [[lore-khazarturn|Khazartúrn]].
 
-In 2427 BF a [[lore-flksinale|Sinale outlaw]] wielding [[miscgear-secondvoice|the Second Voice]] took tens of thousands of
+In 2427 BF a [[lore-flksenali|Senali outlaw]] wielding [[miscgear-secondvoice|the Second Voice]] took tens of thousands of
 Grukar from their spawners and destroyed the greatest city the Deep Folk ever built. The account—exact,
 with every name lost—has been kept in the working archive of every hold since, and is read at
 intervals. It is not treated as history.

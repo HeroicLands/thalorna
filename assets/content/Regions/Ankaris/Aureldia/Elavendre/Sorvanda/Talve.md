@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-**Talve** is a bowl of ground at the edge of [[place-silvrfrsts|the Silver Forests]], beyond [[place-fldstnd|the Felled Stand]] and within sound of [[place-eshalshldg|Ésalosa Lodge]], where a white fog lies. It lies in every season, and in spring, when the cold goes out of the ground, it thickens and rises. The hollow is a door to fell things: an [[lore-aralwen|Araelwen]] that lets in what does not belong on this side and does not go back of itself. The Sinale gave it its name, which means the low fog, and it is sacred ground of the [[lore-aelendnppl|Áelendan]], the oldest they keep.
+**Talve** is a bowl of ground at the edge of [[place-silvrfrsts|the Silver Forests]], beyond [[place-fldstnd|the Felled Stand]] and within sound of [[place-eshalshldg|Ésalosa Lodge]], where a white fog lies. It lies in every season, and in spring, when the cold goes out of the ground, it thickens and rises. The hollow is a door to fell things: an [[lore-aralwen|Araelwen]] that lets in what does not belong on this side and does not go back of itself. The Senali gave it its name, which means the low fog, and it is sacred ground of the [[lore-aelendnppl|Áelendan]], the oldest they keep.
 
 It is the first thing the Áelendan watched. [[affiliation-alndnwrdns|The Wardens]] began as the watch set on it.
 
@@ -32,9 +32,9 @@ The first account of the hollow comes from the winter after the Áelendan reache
 
 **The Áelendan account.** The band had come to the edge of the forest and was starving. A son of the chief's went in by day with fire to drive the deer, and the fog kept him. The chief set the watch the following spring, and the watch has not left the hollow since ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
 
-**The Sinale account.** The hollow is thin when the cold goes out of the ground. [Hauletta]{.name data-type="being/npc"} told the chief how to keep it, and told him his son was not dead. The Sinale do not say more of what keeps him.
+**The Senali account.** The hollow is thin when the cold goes out of the ground. [Hauletta]{.name data-type="being/npc"} told the chief how to keep it, and told him his son was not dead. The Senali do not say more of what keeps him.
 
-**The Black Snow.** In the killing winter, the chief of the people pulled the watch from the hollow to haul and split wood, and in spring something of fog, shaped like a stag and without eyes, came through and killed at the Lodge. The people and the Sinale sang together at the hollow, and the thin place took the thing back ([[lore-blacksnow|The Black Snow]]).
+**The Black Snow.** In the killing winter, the chief of the people pulled the watch from the hollow to haul and split wood, and in spring something of fog, shaped like a stag and without eyes, came through and killed at the Lodge. The people and the Senali sang together at the hollow, and the thin place took the thing back ([[lore-blacksnow|The Black Snow]]).
 
 **The Order's reading.** A theorist of the [[affiliation-univperavel|University of Péravel]] holds that the hollow is a frost pocket where cold air pools and breeds fog, and that what has come out of it on spring nights is a deer in the mist.
 

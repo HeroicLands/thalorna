@@ -7,7 +7,7 @@ description: The Midhalión basin—a cross-continental constellation of politie
 tags: [region]
 data:
   demonym: null
-  lore: [humanflk, grukarfolk, flksinale, flkkhazar]
+  lore: [humanflk, grukarfolk, flksenali, flkkhazar]
   parents: [ankrscntnnt]
   population: 47000000
   packFolder: midhalion
@@ -35,7 +35,7 @@ Behind the ports lie the hinterlands that feed them: the farmland and vineyards 
 
 Midhalión is overwhelmingly human, and its people run the whole range of human looks—from the fair-skinned northerners of the coastal part of the [[place-vylariargn|Viléria Region]] to the dark-skinned Khelathi and Bethuans of the southern shore, with every shade between. In the great ports, marriage across lines of nation and kin is three thousand years old and still going on.
 
-Other peoples are scarce. Small [[lore-flksinale|Sinale]] enclaves are recorded in Élavendre and in the oldest temples of Au'Khelathu, and a handful of [[lore-flkkhazar|Khazari]] halls are rumored in the highland margins. The [[lore-grukarfolk|Grukar]] are known from frontier warnings and nowhere else: their nests send neither traders nor settlers to live under a city's laws, so no port has a Grukar quarter.
+Other peoples are scarce. Small [[lore-flksenali|Senali]] enclaves are recorded in Élavendre and in the oldest temples of Au'Khelathu, and a handful of [[lore-flkkhazar|Khazari]] halls are rumored in the highland margins. The [[lore-grukarfolk|Grukar]] are known from frontier warnings and nowhere else: their nests send neither traders nor settlers to live under a city's laws, so no port has a Grukar quarter.
 
 The ports have more in common with each other than with the land behind them. A sailor working from [[place-mercavia|Delalara]] to [[place-byzaris|Bizaris]] to [[place-galezkara|Galezkara]] meets different languages, gods and buildings at every landfall, and the same kind of merchant, the same dockside institutions, and the same easy attitude to other people's religions, marriages and laws. That port culture has its own traditions and its own continuity, distinct from any inland culture that feeds it.
 
@@ -120,7 +120,7 @@ Midhalión dates by [[lore-commoncal|the Vilérian Calendar]]: years counted Aft
 : independent western peninsula
 
 [[place-elavendre|Élavendre]]
-: woodland kingdom where Sinale and humans live as equals
+: woodland kingdom where Senali and humans live as equals
 
 [[place-eilwith|Eilwìth]]
 : the Misty Isle

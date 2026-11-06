@@ -65,7 +65,7 @@ She is patient, courteous and very hard to hurry, with a long memory and no tast
 
 ### Motivation
 
-She wants the crown handed on whole: the Order kept, the Áelendan kept, the Sinale relation carried by Áelendan intermediaries and not withdrawn. She knows that relation could be ended without a word said to anyone at Péravel ([[place-ethalosse|Ethalosse]]), and that her house's right to the throne rests on the old blood.
+She wants the crown handed on whole: the Order kept, the Áelendan kept, the Senali relation carried by Áelendan intermediaries and not withdrawn. She knows that relation could be ended without a word said to anyone at Péravel ([[place-ethalosse|Ethalosse]]), and that her house's right to the throne rests on the old blood.
 
 ### Strengths
 

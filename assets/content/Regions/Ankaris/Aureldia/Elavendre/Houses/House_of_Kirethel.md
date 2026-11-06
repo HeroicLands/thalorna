@@ -83,7 +83,7 @@ The law of succession is not in question. What is in question is the judgment th
 
 **The balance.** Queen Áurenthe keeps the University, the scholars and the Vilérian goodwill, and keeps the Order's movement inward deferred, complicated and guided ([[place-elavendre|Élavendre]]). The crown's guides out of [[place-liranel|Liranel]] show the Order real country and nothing of consequence. The Áelendan know what the guides are for, and they tolerate the arrangement because the alternative is worse.
 
-**The Sinale.** The crown's formal relation with the [[lore-flksinale|Sinale]] is carried day to day by Áelendan intermediaries, and it could be withdrawn without a word said to anyone at Péravel ([[place-ethalosse|Ethalosse]]). The queen has not been asked up to [[place-eshalshldg|Ésalosa]], and no monarch goes there unasked.
+**The Senali.** The crown's formal relation with the [[lore-flksenali|Senali]] is carried day to day by Áelendan intermediaries, and it could be withdrawn without a word said to anyone at Péravel ([[place-ethalosse|Ethalosse]]). The queen has not been asked up to [[place-eshalshldg|Ésalosa]], and no monarch goes there unasked.
 
 **The heir.** The prince's friends are fellows of the University, and he says in company that learning and the old blood are not enemies. The bards of the Circle have heard him say it. He means to answer them in the way the houses answer a doubted claim, by having his line sung at the Elanmere fair before people who remember the genealogy differently, and the fair is in the autumn.
 

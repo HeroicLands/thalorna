@@ -129,7 +129,7 @@ data:
     - form: ula
       class: n
       field: Ship, sea and road
-      gloss: fish; Sinale _hulka_
+      gloss: fish; Senali _hulka_
       concept: fish
     - form: anevo
       class: n
@@ -220,12 +220,12 @@ data:
     - form: mavu
       class: pron
       field: Asking, time and number
-      gloss: what; Sinale _mavi_
+      gloss: what; Senali _mavi_
       concept: [question-what, expression-what]
     - form: mavitu
       class: part
       field: Asking, time and number
-      gloss: where; Sinale _maviho_
+      gloss: where; Senali _maviho_
       concept: question-where
     - form: kedi
       class: pron
@@ -5505,6 +5505,9 @@ data:
     - {name: Kubasor Norodari, tongue: valtari}
     - {name: Telusor Bazunari, tongue: valtari}
   retired:
+    - {form: Sinale, instead: Senali, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalean, instead: Senalian, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalo, instead: Senalo, why: "respelled to Pronouncing Thalorna"}
     - {form: hâkim, instead: kiromu, why: "an Earth word, the captain"}
     - {form: khrema, instead: zazuru, why: "an Earth word, goods"}
     - {form: kerdo, instead: etalu, why: "an Earth word, profit"}
@@ -5973,13 +5976,13 @@ The following represents the stable core of Valtari—words understood in virtua
 
 **Goods & Money:** zazuru (H, from _zazurush_) "goods, wares, cargo" · ushadu (H, from _hushadu_) "gold, coin, money" · pashin (H, from _pashinu_) "price, value, worth" · etalu (He, from _euthalir_) "profit, gain" · telusu (H, from _telmush_) "deal, contract, bond"
 
-**Objects:** yakodu (H, from _jakudu_) "boat, ship" · idiro (He, from _hidhir_) "water" · vidu (N, from _vuld_ "grain") "bread" · durasu (He, from _duras_) "salt" · bazunu (H, from _bazunu_) "sail, canvas" · ula (O, from [[skill-sinalelng|Sinale]] _hulka_) "fish"
+**Objects:** yakodu (H, from _jakudu_) "boat, ship" · idiro (He, from _hidhir_) "water" · vidu (N, from _vuld_ "grain") "bread" · durasu (He, from _duras_) "salt" · bazunu (H, from _bazunu_) "sail, canvas" · ula (O, from [[skill-senalilng|Senali]] _hulka_) "fish"
 
 **Actions:** lokatu (V, from _lokathen_) "come, go, arrive" · kusadu (H, from _kusad-_) "bring, carry" · begi (H, from _belgin-_) "leave, depart" · dorasu (He, from _doras-_) "give, trade" · geniru (H, from _genir-_) "take, accept" · yepalu (V, from _yerpalon_ "duty") "need, must" · kubasu (H, from _kubas-_) "count, measure, reckon" · katusu (H, from _qatush_) "hold, keep, grip"
 
 **Descriptions:** latara (H, from _lataran_) "good, fair, worthy" · bibuda (H, from _bibudan_) "big, great" · temadu (H, from _temadan_) "strong, sound" · sotaru (He, from _sotharin_ "to save") "safe, secure" · pulumu (He, from _plum_ "all") "many, much"
 
-**Place & Time:** besiku (H, from _besiku_) "port, harbor, port town" · yu (H, from _ju_) "this" · denu (V, from _denos_) "here" · mavitu (O, from Sinale _maviho_) "where" · mavu (O, from Sinale _mavi_) "what" · kedi (V, from _kedis_) "who" · gulodu (N, from _glud_ "day") "when" · tapelu (V, from _thapelon_ "hour") "now" · paramisu (V, from _pramiza_ "morning") "tomorrow" · olimu (V, from _holimos_ "first") "already"
+**Place & Time:** besiku (H, from _besiku_) "port, harbor, port town" · yu (H, from _ju_) "this" · denu (V, from _denos_) "here" · mavitu (O, from Senali _maviho_) "where" · mavu (O, from Senali _mavi_) "what" · kedi (V, from _kedis_) "who" · gulodu (N, from _glud_ "day") "when" · tapelu (V, from _thapelon_ "hour") "now" · paramisu (V, from _pramiza_ "morning") "tomorrow" · olimu (V, from _holimos_ "first") "already"
 
 **Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from [[skill-aelwthlng|Eilwìthi]] _nord_) "north"
 
@@ -6002,7 +6005,7 @@ Nordmal and its kin
 : 7% of vocabulary, grain, the north and the day
 
 Other tongues of the setting
-: 3%, Sinale words for fish and for the questions
+: 3%, Senali words for fish and for the questions
 
 Valtari has **no descendants**—it does not natively reproduce itself. Children of two Valtari speakers revert to their parents' native languages or, in mixed families, learn whatever language the dominant parent or community uses. Valtari is a language of **individual transaction**, not of community continuity.
 

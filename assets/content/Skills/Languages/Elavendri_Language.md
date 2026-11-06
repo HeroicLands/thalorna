@@ -117,7 +117,7 @@ data:
     - form: íthanersa
       class: n
       field: The house and the old blood
-      gloss: "fosterage; the raising of a child of another clan, or of the Sinale"
+      gloss: "fosterage; the raising of a child of another clan, or of the Senali"
       source: {kind: borrowed, language: skill-aelendlng, form: íthanersa}
     - form: érnavisa
       class: adj
@@ -296,7 +296,7 @@ data:
     - form: ólnare
       class: n
       field: The bard and the word
-      gloss: "a song, as the Sinale sing"
+      gloss: "a song, as the Senali sing"
       source: {kind: borrowed, language: skill-aelendlng, form: ólnaro}
     - form: sérdale
       class: n
@@ -311,7 +311,7 @@ data:
     - form: példirne
       class: n
       field: The bard and the word
-      gloss: "the Veldikko; the Sinale hand, and anything written in it"
+      gloss: "the Veldikko; the Senali hand, and anything written in it"
       source: {kind: borrowed, language: skill-aelendlng, form: példirno}
     - form: sírnerne
       class: n
@@ -432,7 +432,7 @@ data:
     - form: hévimuve
       class: n
       field: The art and the thin places
-      gloss: "the near people; the Sinale name for the Áelendan, which the Áelendan use of themselves in the wood"
+      gloss: "the near people; the Senali name for the Áelendan, which the Áelendan use of themselves in the wood"
       source: {kind: borrowed, language: skill-aelendlng, form: khépimupu}
     - form: myeve
       class: n
@@ -717,7 +717,7 @@ data:
     - form: éllevirsa
       class: n
       field: The hall and the guest
-      gloss: "guest-right, as the Sinale give it; the welcome between the kin and the wood"
+      gloss: "guest-right, as the Senali give it; the welcome between the kin and the wood"
       source: {kind: borrowed, language: skill-aelendlng, form: éllepirsa}
     - form: tárneve
       class: n
@@ -749,7 +749,7 @@ data:
     - form: náuvesse
       class: n
       field: The hall and the guest
-      gloss: "a usage; the way a thing is done among the Sinale, which the kin copies"
+      gloss: "a usage; the way a thing is done among the Senali, which the kin copies"
       source: {kind: borrowed, language: skill-aelendlng, form: náupessi}
     - form: hirkel
       class: n
@@ -880,7 +880,7 @@ data:
     - form: tálvare
       class: n
       field: "Light, sky and the turning year"
-      gloss: "a long age; one the Sinale count"
+      gloss: "a long age; one the Senali count"
       source: {kind: borrowed, language: skill-aelendlng, form: tálparo}
     - form: lántheve
       class: n
@@ -3386,13 +3386,13 @@ data:
     - form: pelvai
       class: n
       field: The wood and its weather
-      gloss: a cloud; any mass of visible moisture suspended in the sky; the Áelendi parent pelpai has this broad sense beside its Sinale source's low cloud
+      gloss: a cloud; any mass of visible moisture suspended in the sky; the Áelendi parent pelpai has this broad sense beside its Senali source's low cloud
       source: {kind: borrowed, language: skill-aelendlng, form: pelpai}
       concept: cloud
     - form: nyelke
       class: n
       field: The wood and its weather
-      gloss: a plant root at any depth; the broad sense comes through Áelendi nilki, whose Sinale source names the deep root
+      gloss: a plant root at any depth; the broad sense comes through Áelendi nilki, whose Senali source names the deep root
       source: {kind: borrowed, language: skill-aelendlng, form: nilki}
       concept: root
     - form: ravale
@@ -6688,7 +6688,7 @@ data:
     - {name: Áelendan Tribal Lands, tongue: translation}
     - {name: Tribal Lands, tongue: translation}
     - {name: The Interior, tongue: translation}
-    - {name: Aelirosse, tongue: other:sinale}
+    - {name: Aelirosse, tongue: other:senali}
     - {name: Sórvanda, tongue: elavendri}
     - {name: The Drenavar Spine, tongue: translation}
     - {name: The Drenavar, tongue: translation}
@@ -6838,7 +6838,7 @@ data:
     - {name: Enclave of Serenthale, tongue: translation}
     - {name: Enclave of Ethalosse, tongue: translation}
     - {name: Enclave of Aelirosse, tongue: translation}
-    - {name: Vyerka, tongue: other:sinale}
+    - {name: Vyerka, tongue: other:senali}
     - {name: Member of the Enclave, tongue: translation}
     - {name: Lord of the Enclave, tongue: translation}
     - {name: Councilor, tongue: translation}
@@ -7214,6 +7214,9 @@ data:
     - {name: The Lip-Stone of Lámanis, tongue: translation}
     - {name: The Lip-Stone, tongue: translation}
   retired:
+    - {form: Sinale, instead: Senali, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalean, instead: Senalian, why: "respelled to Pronouncing Thalorna"}
+    - {form: Sinalo, instead: Senalo, why: "respelled to Pronouncing Thalorna"}
     - {form: Tirwen, instead: Éllive, why: a name borrowed from an Earth tongue}
     - {form: Glanmor, instead: Lirve, why: a name borrowed from an Earth tongue}
     - {form: Brynavar, instead: Áuldalon, why: a name borrowed from an Earth tongue}
@@ -7341,7 +7344,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Pelwar}}
 
-# terran_analog: Élavendri is patterned on the way a conservative highland tongue becomes a lowland one, in the tone of the Romance speech of Gaul becoming the speech of Paris (long vowels broken into diphthongs, consonants softened between vowels, final vowels reduced to a murmured e, the breathed stops loosened into fricatives), and its Sinale layer, carried down through Áelendi, gives it the color of the Breton lai. Every inherited word is derived by the tables below from a row of the Áelendi lexicon, and every learned word from a row of the Vilari lexicon; every word is checked against Earth word lists, Breton and Parisian speech among them.
+# terran_analog: Élavendri is patterned on the way a conservative highland tongue becomes a lowland one, in the tone of the Romance speech of Gaul becoming the speech of Paris (long vowels broken into diphthongs, consonants softened between vowels, final vowels reduced to a murmured e, the breathed stops loosened into fricatives), and its Senali layer, carried down through Áelendi, gives it the color of the Breton lai. Every inherited word is derived by the tables below from a row of the Áelendi lexicon, and every learned word from a row of the Vilari lexicon; every word is checked against Earth word lists, Breton and Parisian speech among them.
 ---
 
 Élavendri is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -7404,7 +7407,7 @@ The physical tongue is _gaelis_; _óstila_ is speech or language. _Kenlon_ names
 
 The household words retain their different uses. _Ómbela_ is a chair, _mórvalis_ a table, _zúndela_ a lock and _kézra_ a key. _Gorth thodkis_ is a boot, the high foot covering. _Sira mirlis_ is water-soaked earth, mud. _En munde dielar_ means "I am tired", using the existing copula. _En munde gaeri gaeri dielar_ means "I am extremely tired". _Ryenathen munde rith soldar rundis_, "I speak in a loud voice", is a shout; _ryenathen munde rith nyemon rundis_, "I speak in the breath voice", is a whisper, the unvoiced manner of speech.
 
-The physical wood and weather words come through Áelendi. _Pelvai_ names any cloud here, and _nyelke_ any plant root; the Áelendi parent words have those broad uses, beside their Sinale sources' low cloud and deep root. _Ravale_ is rain and _salve_ a tree. A weather report can put the existence verb first: _elnathen nonduk pelvai_, "no cloud exists; the weather is clear", or _elnathen gurnar pelvai_, "many clouds exist; it is cloudy". The separate river and lake words keep their scopes: _sirnon_ is a river above or below the tree line, _lántheve_ the river below it; _dulnon_ is a lake in any setting and _dulna_ the tarn in its corrie.
+The physical wood and weather words come through Áelendi. _Pelvai_ names any cloud here, and _nyelke_ any plant root; the Áelendi parent words have those broad uses, beside their Senali sources' low cloud and deep root. _Ravale_ is rain and _salve_ a tree. A weather report can put the existence verb first: _elnathen nonduk pelvai_, "no cloud exists; the weather is clear", or _elnathen gurnar pelvai_, "many clouds exist; it is cloudy". The separate river and lake words keep their scopes: _sirnon_ is a river above or below the tree line, _lántheve_ the river below it; _dulnon_ is a lake in any setting and _dulna_ the tarn in its corrie.
 
 _Rith ordur taldis_ says "in position four; fourth". Another numeral names its own position in that expression: _rith reithik taldis_, "fifth", and _rith taehes taldis_, "tenth". _Ta taehes_, "two tens", is twenty; _dyema dyema_, "half of a half", is a quarter. _Uk threl thend_, "one from the two", selects either member of a pair, while _nonduk threl thend_, "none from the two", selects neither. _Rith kren miron_, _rith nonduk miron_ and _rith alnar miron_ say "in some place", "in no place" and "in all places".
 
@@ -7439,7 +7442,7 @@ and named speakers identify dialogue without quotation marks.
 
 ## Script & Literacy
 
-Élavendri is written in the [[skill-semrnscrpt|Semaron]], the same alphabet used in Vilari and neighboring regions, with diacritics added for pitch. The lowlands took it up readily, as they take up anything that serves. The Áelendan rune-row [[skill-thrvrdhscrpt|Thurarth]] and the [[skill-clthndscrpt|Veldikko]] of the [[lore-flksinale|Sinale]] belong to the highlanders, who carve in the one and write [[skill-aelendlng|Áelendi]] in the other, so two peoples who can hold a conversation cannot read a word of each other. Ancient texts in the region are Áelendi, and an Élavendri who reads one has learned a second tongue and a second script to do it.
+Élavendri is written in the [[skill-semrnscrpt|Semaron]], the same alphabet used in Vilari and neighboring regions, with diacritics added for pitch. The lowlands took it up readily, as they take up anything that serves. The Áelendan rune-row [[skill-thrvrdhscrpt|Thurarth]] and the [[skill-clthndscrpt|Veldikko]] of the [[lore-flksenali|Senali]] belong to the highlanders, who carve in the one and write [[skill-aelendlng|Áelendi]] in the other, so two peoples who can hold a conversation cannot read a word of each other. Ancient texts in the region are Áelendi, and an Élavendri who reads one has learned a second tongue and a second script to do it.
 
 A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps one noble in four. The common folk of Élavendre, like those elsewhere on [[place-worldthlrn|Thalorna]], are almost entirely non-literate and rely on scribes for any written communication.
 
@@ -7508,7 +7511,7 @@ Gulmand, Hersel, Ossel, Sórvanda, Súldinne, Ílsevand, Sálvurnand, Sóurimand
 
 A bard of a great house in [[place-elavendre|Élavendre]] is reciting the house's line at a feast, and he is doing it in two tongues at once without anyone at the table remarking on it. The names of the founders are highland names, said the way the highlands say them, with the old _kh_ and _gh_ in; the words that join them are Élavendri, the same words with those sounds gone, the plain vowels opened into vowel pairs and the last vowel of each one let fall to a murmur. The house's claim to the old blood rests on the guests hearing the difference and believing the line runs across it.
 
-This is the word-hoard of Élavendri, the tongue of the lowland kingdom. It is the daughter of Áelendi, the highland tongue that came over the eastern pass, made over by the lowlands in the centuries since: it has lost _kh_, _gh_ and _dh_, many of its plain vowels opened into the vowel pairs it is admired for, and many of its final vowels softened to _-e_. Because it is Áelendi's daughter it carries Áelendi's great layer of [[skill-sinalelng|Sinale]] words, the trees, the light, the veil and the art, and several of them came back nearly to their Sinale shape on the way down. Because the kingdom owed the empire service for centuries, it carries a smaller layer of imperial words as well: the law, the coin, the letters and the University.
+This is the word-hoard of Élavendri, the tongue of the lowland kingdom. It is the daughter of Áelendi, the highland tongue that came over the eastern pass, made over by the lowlands in the centuries since: it has lost _kh_, _gh_ and _dh_, many of its plain vowels opened into the vowel pairs it is admired for, and many of its final vowels softened to _-e_. Because it is Áelendi's daughter it carries Áelendi's great layer of [[skill-senalilng|Senali]] words, the trees, the light, the veil and the art, and several of them came back nearly to their Senali shape on the way down. Because the kingdom owed the empire service for centuries, it carries a smaller layer of imperial words as well: the law, the coin, the letters and the University.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -7538,7 +7541,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-Many Sinale words come back toward their Sinale shape on the way down, because the lowland softening undoes what the highland mouth did to them: the Sinale `v` the Áelendan said as `p` is `v` again between vowels. This is where the "fey" sound of Élavendri comes from. The words that open on _th-_ are disproportionately the Sinale words, and the tongue's whole Brittonic color, the color of the lays, is the Sinale layer heard through two mouths.
+Many Senali words come back toward their Senali shape on the way down, because the lowland softening undoes what the highland mouth did to them: the Senali `v` the Áelendan said as `p` is `v` again between vowels. This is where the "fey" sound of Élavendri comes from. The words that open on _th-_ are disproportionately the Senali words, and the tongue's whole Brittonic color, the color of the lays, is the Senali layer heard through two mouths.
 
 ### Word edges
 
@@ -7578,7 +7581,7 @@ Poetry is how a house's history is held, how a prophecy is passed on and how a j
 
 ### The art and the thin places
 
-Magic is ordinary here, studied and discussed at table and expected of the well-bred, and its words came down through the highlands from the [[lore-flksinale|Sinale]]. That is where the tongue's _th-_ comes from: so many of the Sinale words open on it that _th-_ is the sound of the uncanny in the tongue. The art is _simme_, a thin place _sírnaste_, a spirit _áitheve_, and the fae, one at a time, _pénallane_. The lowland mage, _thórdimand_, and his working, _thórdima_, are the Arcane Order's words, learned from the empire; the highlands call him _símmenne_.
+Magic is ordinary here, studied and discussed at table and expected of the well-bred, and its words came down through the highlands from the [[lore-flksenali|Senali]]. That is where the tongue's _th-_ comes from: so many of the Senali words open on it that _th-_ is the sound of the uncanny in the tongue. The art is _simme_, a thin place _sírnaste_, a spirit _áitheve_, and the fae, one at a time, _pénallane_. The lowland mage, _thórdimand_, and his working, _thórdima_, are the Arcane Order's words, learned from the empire; the highlands call him _símmenne_.
 
 ### The Pact, the oath and the judgment
 
@@ -7586,15 +7589,15 @@ The [Kindred Pact]{.name data-type="lore/law"} is the last thing an Élavendri o
 
 ### The hall and the guest
 
-The lodge of the highlands is the lowland hall, and the courtesy of the hall is the highlands' own, refined. The kept fire is _káerathon_; the order of the seats, _máldalon_, is worked out for every feast; and the welcome, _éllevirsa_, is the Sinale word the highlands took and the lowlands kept.
+The lodge of the highlands is the lowland hall, and the courtesy of the hall is the highlands' own, refined. The kept fire is _káerathon_; the order of the seats, _máldalon_, is worked out for every feast; and the welcome, _éllevirsa_, is the Senali word the highlands took and the lowlands kept.
 
 ### Light, sky and the turning year
 
-The light words are the most Sinale of all, and the bards' favorites: _áulira_, light, _olthe_, a cast shadow, _írvale_, dawn. The years are counted from the crossing, _ganthis_, like the highlands' and unlike the empire's.
+The light words are the most Senali of all, and the bards' favorites: _áulira_, light, _olthe_, a cast shadow, _írvale_, dawn. The years are counted from the crossing, _ganthis_, like the highlands' and unlike the empire's.
 
 ### The wood and its weather
 
-The kingdom is a woodland kingdom, and every tree in it has a Sinale name brought down through the highlands: _hersel_, a pine, _sálvurne_, a grove. Several came back to their Sinale shape on the way, the lowland changes undoing what the highland mouth had done to them.
+The kingdom is a woodland kingdom, and every tree in it has a Senali name brought down through the highlands: _hersel_, a pine, _sálvurne_, a grove. Several came back to their Senali shape on the way, the lowland changes undoing what the highland mouth had done to them.
 
 ### Mountain, water and stone
 
@@ -7602,7 +7605,7 @@ The kingdom's interior is the Áelendan's mountains, and the lowland words for i
 
 ### The body and the dead
 
-The dead are part of the house, and the words for them are many. The highland cairn, _groumon_, is a lowland tomb, and the Sinale words for death and grief, _sélvore_ and _nélthava_, are the bards' words for them.
+The dead are part of the house, and the words for them are many. The highland cairn, _groumon_, is a lowland tomb, and the Senali words for death and grief, _sélvore_ and _nélthava_, are the bards' words for them.
 
 ### Arms and the border
 

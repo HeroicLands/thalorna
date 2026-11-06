@@ -11235,7 +11235,7 @@ The numbers count in tens, and twelve has a word of its own, _dorekis_, because 
 
 Ancient Vilari is the mother of five tongues, and the scholars of [[place-orzara|Orzara]] named it for the one of them the empire speaks. The [[lore-aelendnppl|Áelendan]] reject the name; to them the old tongue is their own, and the empire's speech its worn-down coastal cousin.
 
-- [[skill-aelendlng|Áelendi]] split first, carried over the eastern pass into the highlands, and kept the old sounds best of all: it still says _kh_, _gh_ and _dh_. It lost the lip sounds, took a great layer of words from [[skill-sinalelng|Sinale]], and kept its old oaths.
+- [[skill-aelendlng|Áelendi]] split first, carried over the eastern pass into the highlands, and kept the old sounds best of all: it still says _kh_, _gh_ and _dh_. It lost the lip sounds, took a great layer of words from [[skill-senalilng|Senali]], and kept its old oaths.
 - [[skill-elvndrlng|Élavendri]] is the lowland daughter of Áelendi, softened and sung.
 - Imperial Vilari stayed on the coast, kept the most grammar and lightened its sounds.
 - [[skill-provnzlng|Provenzal]] made articles of all three pointing words, and turned its consonants soft between vowels.

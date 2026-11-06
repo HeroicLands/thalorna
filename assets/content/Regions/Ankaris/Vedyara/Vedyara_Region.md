@@ -93,7 +93,7 @@ Three janpodas set the pattern for the rest: [[affiliation-rajeprjnpd|Rajepur]],
 
 ## Peoples and Beasts
 
-Vedyara is overwhelmingly human, and nearly all of it is [[lore-vedyariclt|Vedyari]]: one language, one classical learning, one faith in the Varnuka gods, and one order of stations read from a mark on the wrist. The guide-peoples above [[place-pssshrines|the Pass-Shrines]] stand outside that order entirely. The gathering peoples of the Bharava forest work under temple license and are counted by nobody. Enclaves of [[lore-flksinale|Sinale]] are rumored in the Forest of No Road and have never been confirmed.
+Vedyara is overwhelmingly human, and nearly all of it is [[lore-vedyariclt|Vedyari]]: one language, one classical learning, one faith in the Varnuka gods, and one order of stations read from a mark on the wrist. The guide-peoples above [[place-pssshrines|the Pass-Shrines]] stand outside that order entirely. The gathering peoples of the Bharava forest work under temple license and are counted by nobody. Enclaves of [[lore-flksenali|Senali]] are rumored in the Forest of No Road and have never been confirmed.
 
 The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass of the floodplains. [[being-vdyrnelphnt|Vedyaran elephants]] serve as temple mounts and war beasts.
 

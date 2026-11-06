@@ -3,17 +3,17 @@ shortcode: gatheringend
 name: {full: The Gathering on the End, sina: [oltandiren aulirakko]}
 type: lore
 subType: literature
-description: "The account, carried down from Ethalosse, of the open convocation the Sinale called in the Age of Stars on how the world ends, which has never reached accord and so has never closed: four sung speeches, the exchanges between them, and the answer the Élavendren court received when it asked for one word."
-tags: [sinale]
+description: "The account, carried down from Ethalosse, of the open convocation the Senali called in the Age of Stars on how the world ends, which has never reached accord and so has never closed: four sung speeches, the exchanges between them, and the answer the Élavendren court received when it asked for one word."
+tags: [senali]
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: settinglore
   form: ommenda
   subjects:
     - lore-goddreams
     - doc-godsrelign
-    - lore-flksinale
-    - lore-sinalearrv
+    - lore-flksenali
+    - lore-senaliarrv
     - place-ethalosse
     - place-haulonna
   lang: sina
@@ -21,13 +21,13 @@ data:
 # terran_analog: "The Kalevala and Kanteletar line that is restated by the line after it, for the sung speeches; the Icelandic Althing and the Buddhist councils as recorded by partisans, for a deliberative body whose record keeps the disagreement; the rabbinic habit of keeping a dissent beside the majority; Canu Heledd for a survivor speaking over an emptied hall."
 ---
 
-**The Gathering on the End**, _Oltandiren aulirakko_, is what came down from [[place-ethalosse|Ethalosse]] when the court at [[place-beravel|Péravel]] asked, through the [[lore-aelendnppl|Áelendan]] who carry, how the [[lore-flksinale|Sinale]] hold that the world ends. The question went up in the ordinary way, in the mouths of two elders asked to carry it, and what came back down in the same mouths is the account of an [Aulirakko]{.name data-type="affiliation/governmental"}, the open convocation of the faith whose god is [[lore-goddreams|the God of Dreams]] (Aulveira), called on that question in the Age of Stars (see [[lore-sinalearrv|the Coming of the Sinale]]). An Aulirakko speaks until it reaches accord. This one has not, so by its own rule it has never closed: a Sinalo may rise and add a speech to it in any age, and the latest was added after the fall of [[place-haulonna|Haulonna]]. The carriers were given the account as the Sinale keep it, and they brought it down as it was given, adding nothing. Where a passage was withheld from them they say so, where they did not follow what was sung they say that too, and the court's scribe kept both in the copy he took down from their mouths, which is the copy below. The archive at Péravel keeps that copy under the two words the carriers gave for its standing, no accord, and the copy does not say why the court asked. [[affiliation-bardicolgs|The Bardic Colleges]] have read it and have not set it, since it is prose with the speeches sung inside it, and nothing in it is theirs to sing.
+**The Gathering on the End**, _Oltandiren aulirakko_, is what came down from [[place-ethalosse|Ethalosse]] when the court at [[place-beravel|Péravel]] asked, through the [[lore-aelendnppl|Áelendan]] who carry, how the [[lore-flksenali|Senali]] hold that the world ends. The question went up in the ordinary way, in the mouths of two elders asked to carry it, and what came back down in the same mouths is the account of an [Aulirakko]{.name data-type="affiliation/governmental"}, the open convocation of the faith whose god is [[lore-goddreams|the God of Dreams]] (Aulveira), called on that question in the Age of Stars (see [[lore-senaliarrv|the Coming of the Senali]]). An Aulirakko speaks until it reaches accord. This one has not, so by its own rule it has never closed: a Senalo may rise and add a speech to it in any age, and the latest was added after the fall of [[place-haulonna|Haulonna]]. The carriers were given the account as the Senali keep it, and they brought it down as it was given, adding nothing. Where a passage was withheld from them they say so, where they did not follow what was sung they say that too, and the court's scribe kept both in the copy he took down from their mouths, which is the copy below. The archive at Péravel keeps that copy under the two words the carriers gave for its standing, no accord, and the copy does not say why the court asked. [[affiliation-bardicolgs|The Bardic Colleges]] have read it and have not set it, since it is prose with the speeches sung inside it, and nothing in it is theirs to sing.
 
 ## The Calling
 
 The account tells the time of the gathering by a tree: it was called in the winter the first oak on the eastern slope seeded. The carriers asked which slope, and were told that it was the slope.
 
-A child not yet named asked the question. The child had been watching the fires of the young bands at the edge of the wood, where a band had put one of its own in the ground that autumn and sat about the fire afterward and then gone on, and the child came up from the edge and asked the Ansorun who read the dreams of that hearth whether the world also stops. The account keeps the child's words: "They put him in the ground and sat by it. Then they went on. Does the world stop too? When?" The Ansorun said: "I do not know." The account keeps that too, and the carriers say that the Sinalo who gave it to them sang those three words and said all the rest around them. The Ansorun called the gathering, which any of them may do. The account does not say what the child was later named.
+A child not yet named asked the question. The child had been watching the fires of the young bands at the edge of the wood, where a band had put one of its own in the ground that autumn and sat about the fire afterward and then gone on, and the child came up from the edge and asked the Ansorun who read the dreams of that hearth whether the world also stops. The account keeps the child's words: "They put him in the ground and sat by it. Then they went on. Does the world stop too? When?" The Ansorun said: "I do not know." The account keeps that too, and the carriers say that the Senalo who gave it to them sang those three words and said all the rest around them. The Ansorun called the gathering, which any of them may do. The account does not say what the child was later named.
 
 They came from the hearths within a season's walk, and the account names the hearths by what each keeps and not by who came: from the wide sky, from the rising note, from the low fog, from the cold spring, from the long dusk, from the cupped hand, from the split log. It counts two twenties and seven of the Ansorun and the Iltorin, and more than that again who were neither and came to hear. They met in a clearing below the eastern passes that the account calls only the clearing, and sat on the ground in no order. It was the first night of the snow, and nobody remarked on it.
 
@@ -35,13 +35,13 @@ Nobody presides at an Aulirakko. Whoever rises speaks or sings, and sits when th
 
 Asked the child: when stops the world?
 
-That is the question as the gathering took it. The carriers say the order of the words is the order the Sinale gave them, and that they were asked to keep it.
+That is the question as the gathering took it. The carriers say the order of the words is the order the Senali gave them, and that they were asked to keep it.
 
 Before anyone rose with a speech, an Iltorin who is not named asked what the dreams of that winter had said, since every hearth that came had read its dreams before setting out and would read them again in the clearing. The Ansorun answered that they had been read, and the account lists what the dreams of that winter were of, hearth by hearth, in the order the hearths had come: a ford in low water; a hand on an unstrung bow; bread, and the smell of it; a stranger at a hearth, welcome; a fox on the snow at the edge of the wood, looking back; a child counting stars and losing the count and beginning again; still water with nothing on it. The reading was that the god had sent nothing about an end, and the account says that nobody in the clearing took nothing for an answer, and that the one who had asked sat down.
 
 ## The One Who Keeps the Long Song
 
-The first to rise kept the long song of the stars, which is sung from the first star that stands out over the eastern passes in the evening to the last that the morning takes, and which fills the whole of a winter's night in the singing. She had kept it since before the oaks on that slope were oaks. The account gives her name at the end of her speech, as the Sinale give a speaker's name, and the carriers kept it there. They asked how many stars the long song holds and were told that it holds the ones that are there. She sang:
+The first to rise kept the long song of the stars, which is sung from the first star that stands out over the eastern passes in the evening to the last that the morning takes, and which fills the whole of a winter's night in the singing. She had kept it since before the oaks on that slope were oaks. The account gives her name at the end of her speech, as the Senali give a speaker's name, and the carriers kept it there. They asked how many stars the long song holds and were told that it holds the ones that are there. She sang:
 
 : The Speech of the One Who Keeps the Long Song {#long-song}
 
@@ -64,7 +64,7 @@ Who sings it, I do not say. Ask me whether the sound ends and I will stand silen
 .Ask me whether this ends: yes. It is a song. It is being sung now. Hear how it is held.
 :::
 
-::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=long-song}
+::: {.verse form=evesikko lang=sina enc=senaveldikkoenc work=long-song}
 eho olnaro oso luuro ehii eirandi nuuvanutos ellun oltandi nuuvanu/
 .eirandita olnaro seltì eirandi nuuvanu aldesse eilavaho seltai olnaro raakke rosel oltandi nuuvanu/
 tupe ehi onsa ennos kauve eso lentas torvel vennas torvel/
@@ -118,7 +118,7 @@ Tellakitta sang that the world ends when its singer stops. I say it ends when it
 .So tend. That is my speech. It is not long, because the oak is waiting and the rot does not wait with it.
 :::
 
-::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=oaks}
+::: {.verse form=evesikko lang=sina enc=senaveldikkoenc work=oaks}
 leltai ehi torvel irvattosto lentaso kinsa onsa ehi alken vauttirsaho tunes leltai ehi onsa insu/
 .vonu uttes torvel onsatos aldis onsa eirandi torveltos rendatto onsa olmarnaho leltai ehi onsa erme/
 rellì ummes toimunuho vennas pelpe lauppi raakke polpe onsa polpe onsa sulmeho/
@@ -147,7 +147,7 @@ She said: "Then your end is a speed." They laughed here. The carriers say they d
 
 ## The One Who Keeps the Meadow
 
-She kept the meadow below the passes, the tall grass that the fog lies in, and she had kept it longer than either of the others had kept anything; she was the eldest in the clearing. The account says she sang sitting, which an elder may, and that she did not look at the two who had sung before her while she answered them. The carriers say that the Sinalo who gave them the account sang her speech lower than the other two, and slower.
+She kept the meadow below the passes, the tall grass that the fog lies in, and she had kept it longer than either of the others had kept anything; she was the eldest in the clearing. The account says she sang sitting, which an elder may, and that she did not look at the two who had sung before her while she answered them. The carriers say that the Senalo who gave them the account sang her speech lower than the other two, and slower.
 
 : The Speech of the One Who Keeps the Meadow {#meadow}
 
@@ -167,7 +167,7 @@ Ours have not. Put the question down. It is not ours to lift, and we did not lif
 The grass goes down. The grass stands. Between the two there is a winter, and that is all there is between them.
 :::
 
-::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=meadow}
+::: {.verse form=evesikko lang=sina enc=senaveldikkoenc work=meadow}
 pelpe lentinu vennas ummes sautteno aldesse polpeho nìkehe ummes unturoho vennas/
 .nalki lenti peravi onsa sulmeho eho polpe levatti oltandi onsa eirandi yinserseho/
 yinse ehi leiken ervu ehi yinserse vennas vonu sorvel soimutekkiretos vennas/
@@ -199,7 +199,7 @@ Rellìtti said: "The child asked at the edge of the wood. The oak is in the wood
 
 The gathering spoke the rest of that night and the nights after it, and it did not agree. When the hearths were ready to go back, the Ansorun who had called it said this, and the account keeps it in these words: "It has not agreed, so it is not closed. Let it wait. Whoever has a speech may rise with it, in this age or in another." A gathering had been left open before, for a season or a winter; one had not been left to wait across ages, and nobody spoke against it. The child who had asked was asleep.
 
-This is how the gathering has been kept open since, as the carriers were told it. A Sinalo who has a speech to add does not add it alone. The gathering is called again, as any Ansorun may call it, and those who come sit in the clearing, and before the new speech is sung every speech that stands in the account is sung again in its order, by whoever keeps it, with the exchanges between them said as they were said, so that the one who rises last has heard the whole of what they are answering and the gathering has heard it too. The account is never recited for its own sake; it is recited because someone is about to add to it. The Sinalo who gave it to the carriers told them that this is why they were given it whole: "Nobody sings a part of it. I sang it in the clearing in the year a speech was added, and I have not sung it since."
+This is how the gathering has been kept open since, as the carriers were told it. A Senalo who has a speech to add does not add it alone. The gathering is called again, as any Ansorun may call it, and those who come sit in the clearing, and before the new speech is sung every speech that stands in the account is sung again in its order, by whoever keeps it, with the exchanges between them said as they were said, so that the one who rises last has heard the whole of what they are answering and the gathering has heard it too. The account is never recited for its own sake; it is recited because someone is about to add to it. The Senalo who gave it to the carriers told them that this is why they were given it whole: "Nobody sings a part of it. I sang it in the clearing in the year a speech was added, and I have not sung it since."
 
 The gathering holds other speeches between these three and the last, from the ages between, and those were not given to the carriers. The account they were given goes from the meadow to the north, and the carriers say that they were told the distance and did not ask what filled it.
 
@@ -232,7 +232,7 @@ We know where the dead go. Aulveira takes them to [Ollevikko]{.name data-type="p
 .I do not know whether Ollevikko outlasts the world. I asked two who chose to go there and have slipped back. They are no wiser about it than I am.
 :::
 
-::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=edge}
+::: {.verse form=evesikko lang=sina enc=senaveldikkoenc work=edge}
 ellevi ehi vittel aukkessaho eso sennavetos aukkessa sirne ahi velpe lauppi tunes/
 .patten ehi onsa aunekkeho iha toimunuho seltì ehi issalteho evatte ehi oso yinse ehi ahi evatte ehi uttes/
 seltì salpu vennas selkorosa onsaa ressa melke naldusa onsa ahi ulpes vaitten vennas/
@@ -253,19 +253,19 @@ erni ehii ollevi leesì erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aul
 
 The account marks a silence after this the length of a long line, and nobody took it up.
 
-The account names him: [Hìssetti Toimunto]{.name data-type="being/npc"}, the held breath, of the hearth of the turning year, and after the name an epithet the carriers rendered as the one who stood at the edge. He went north again when the gathering had sat its nights, and his speech stayed in the clearing with the one who keeps it now, as each of them is kept by someone until the gathering is called again. The account does not say that he came back, and the Sinalo who gave it to the carriers did not say either. Of Ollevikko the carriers were told that the name is the gathering of the dead, and nothing else, and they asked nothing else.
+The account names him: [Hìssetti Toimunto]{.name data-type="being/npc"}, the held breath, of the hearth of the turning year, and after the name an epithet the carriers rendered as the one who stood at the edge. He went north again when the gathering had sat its nights, and his speech stayed in the clearing with the one who keeps it now, as each of them is kept by someone until the gathering is called again. The account does not say that he came back, and the Senalo who gave it to the carriers did not say either. Of Ollevikko the carriers were told that the name is the gathering of the dead, and nothing else, and they asked nothing else.
 
 ## The One Word
 
-The carriers say that the account was given to them at Ethalosse over three evenings by one Sinalo, who sang the speeches and said the rest, and who told them at the end of the third evening to carry the speeches sung and the rest said. They said that they could not carry a Sinale song as it was sung, having neither the pitch nor the breath for it, and that they would carry the words. They were told to carry the words, then, and that the words were the lesser part, and that this was understood. The court's copy carries the words.
+The carriers say that the account was given to them at Ethalosse over three evenings by one Senalo, who sang the speeches and said the rest, and who told them at the end of the third evening to carry the speeches sung and the rest said. They said that they could not carry a Senali song as it was sung, having neither the pitch nor the breath for it, and that they would carry the words. They were told to carry the words, then, and that the words were the lesser part, and that this was understood. The court's copy carries the words.
 
 The court heard the account read and sent the carriers up again with a second question, which was to have the gathering's answer in one word.
 
-They carried it up and brought the answer down the same day, which the carriers say is the only time either of them has carried anything down from Ethalosse on the day it was carried up. No gathering was called for it. The Sinalo who had given them the account gave them the answer at Ethalosse, and said that it was the gathering's standing and not a new word from it: "We have not agreed. Ask again when you have a speech of your own."
+They carried it up and brought the answer down the same day, which the carriers say is the only time either of them has carried anything down from Ethalosse on the day it was carried up. No gathering was called for it. The Senalo who had given them the account gave them the answer at Ethalosse, and said that it was the gathering's standing and not a new word from it: "We have not agreed. Ask again when you have a speech of your own."
 
 The carriers say that they asked, since the answer was short and the day was long, whether a speech of the court's own would be heard if one came up, and that they were told that the gathering has no door, and that nothing was said about whether it would be answered.
 
-The carriers gave the account's last line as it was given to them, in the order the Sinale gave it, and asked that it be written as it was said and not turned into a sentence of the court's. It stands so in the copy, and nothing stands after it:
+The carriers gave the account's last line as it was given to them, in the order the Senali gave it, and asked that it be written as it was said and not turned into a sentence of the court's. It stands so in the copy, and nothing stands after it:
 
 Speaks the gathering.
 
@@ -274,10 +274,10 @@ Speaks the gathering.
 [[lore-goddreams|The God of Dreams]]
 : Aulveira, the Ansorun and the Iltorin, and the Aulirakko that speaks until it agrees
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : the people whose gathering this is
 
-[[lore-sinalearrv|The Coming of the Sinale]]
+[[lore-senaliarrv|The Coming of the Senali]]
 : the Age of Stars, in which it was called
 
 [[place-ethalosse|Ethalosse]]
@@ -290,4 +290,4 @@ Speaks the gathering.
 : the valley the latest speaker stood at the edge of
 
 [[lore-seventowers|The Seven Towers]]
-: another Sinale song held in Élavendre, broken off where the Sinale stop
+: another Senali song held in Élavendre, broken off where the Senali stop

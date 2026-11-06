@@ -3,7 +3,7 @@ shortcode: thecrossing
 name: {full: The Crossing, en: [The Convoy of Six]}
 type: lore
 subType: history
-description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Eilwìth, to be held there in trust by the Sinale and the Khazari together, and go off the water leaving nothing whatever behind."
+description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Eilwìth, to be held there in trust by the Senali and the Khazari together, and go off the water leaving nothing whatever behind."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [miscgear-secondvoice, place-eilwith, place-ironfells]
       summary: >-
-        Five centuries after Khazartúrn, the Sinale have recovered the Second Voice and the two Elder Races have agreed the only thing they agree on: that it is to be held on Eilwìth by both peoples together, the one country where they still share ground. Six ships sail from Élavendre carrying it, with crews and an escort chosen for being above reproach. They do not arrive. There is no storm of any note, and no wreckage, spar, cargo or body comes ashore on any coast in any year since. The relic has not been found.
+        Five centuries after Khazartúrn, the Senali have recovered the Second Voice and the two Elder Races have agreed the only thing they agree on: that it is to be held on Eilwìth by both peoples together, the one country where they still share ground. Six ships sail from Élavendre carrying it, with crews and an escort chosen for being above reproach. They do not arrive. There is no storm of any note, and no wreckage, spar, cargo or body comes ashore on any coast in any year since. The relic has not been found.
       standing: attested
       where:
         locus: [place-elavendre]
@@ -28,26 +28,26 @@ data:
             knowledge: named
           - place: place-hallowwood
             how: >-
-              the Sinale here lose a second time the one thing they took back, and had chosen the crews themselves
+              the Senali here lose a second time the one thing they took back, and had chosen the crews themselves
             knowledge: named
           - place: place-grkrhlmrgn
             how: >-
               the killing on sight hardens into permanent doctrine rather than a generation's anger, because the thing that made the tribes into ammunition is still somewhere in the world
             knowledge: unlinked
-      who: [{ref: lore-flksinale, role: actor}, {ref: lore-flkkhazar, role: signatory}]
+      who: [{ref: lore-flksenali, role: actor}, {ref: lore-flkkhazar, role: signatory}]
       follows:
         - event: lore-fallkhazturn
           how: answered
           note: the trust on Eilwìth is the two peoples' one answer to what the relic did to Khazartúrn
       accounts:
-        - by: lore-flksinale
+        - by: lore-flksenali
           says: >-
             We recovered it, we agreed to give it up, and we chose the crews ourselves. There is no explanation of what became of them that we are prepared to offer.
           agrees: partly
           withholds: what the escort was, and what the search since has turned up
         - by: lore-flkkhazar
           says: >-
-            The Sinale had it, the Sinale sailed it, and the Sinale have handed over nothing on this occasion either.
+            The Senali had it, the Senali sailed it, and the Senali have handed over nothing on this occasion either.
           agrees: partly
         - by: place-elavendre
           says: >-
@@ -59,10 +59,10 @@ data:
         - whether anything was recovered from the sea floor afterward, by anybody
 ---
 
-The [[lore-flksinale|Sinale]] recovered [[miscgear-secondvoice|the Second Voice]], and in time the two
+The [[lore-flksenali|Senali]] recovered [[miscgear-secondvoice|the Second Voice]], and in time the two
 Elder Races reached the only agreement they have reached since
 [[lore-fallkhazturn|Khazartúrn fell]]: the relic would be held in trust on [[place-eilwith|Eilwìth]],
-by both peoples together. Eilwìth was the one country in the world where Sinale and [[lore-flkkhazar|Khazari]] still
+by both peoples together. Eilwìth was the one country in the world where Senali and [[lore-flkkhazar|Khazari]] still
 lived on the same ground, and therefore the only ground on which neither would be trusted to hold it
 alone.
 

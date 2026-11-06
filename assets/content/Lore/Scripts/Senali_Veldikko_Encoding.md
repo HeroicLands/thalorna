@@ -1,6 +1,6 @@
 ---
-shortcode: sinaveldikkoenc
-name: {full: Sinale Veldikko Encoding}
+shortcode: senaveldikkoenc
+name: {full: Senali Veldikko Encoding}
 type: doc
 subType: reference
 data:
@@ -2453,13 +2453,13 @@ data:
   vowels: aeiouyìáéíóúýǎâǐîǔû
 ---
 
-This encoding writes [[skill-sinalelng|Sinale]] in veldikko. A passage selects it with `enc=sinaveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
+This encoding writes [[skill-senalilng|Senali]] in veldikko. A passage selects it with `enc=senaveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
 
 ## From the Spelling Guide to the Veldikko
 
 - **Each consonant is its letter**, and its Roman spelling is lowercase. _p_, _v_, _m_, _t_, _s_, _n_, _d_, _k_, _h_, _l_ and _r_ are one letter each.
 - **_ng_ and _dh_ are one letter each.** _N_ before _k_ is the letter _ng_ and then _k_. _Dh_ is the voiced fricative between vowels.
-- **_g_ is _k_**, since Sinale has no _g_.
+- **_g_ is _k_**, since Senali has no _g_.
 - **A glide _w_ is the vowel _u_ it glides from**, so _wo_ and _wi_ are the pairs _uo_ and _ui_: _hwoma_ is written with _u_ and _o_.
 - **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and any other _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
 - **_s_ followed by _h_ writes both consonants**, including where _-ho_ follows a stem ending in _s_.

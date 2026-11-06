@@ -32,11 +32,11 @@ A _marendos_ (master) of [[affiliation-ordoarcanis|the Order]] forced the paths 
 
 ## What Is Really Happening {#what-is-really-happening}
 
-[[being-denrikrnkrs|Denrik Rénkaris]], a _marendos_ of the Order's [[affiliation-sideris|Sideris]], came into the Silver Forests to prove that the [[lore-flksinale|Sinale paths]] can be bound straight by metal. He drove silver pegs in a ring around eight living birch, strung silver wire between them, and worked a Straight Road upon it. The working took. Every straight line in the hollow now ends at the ring, the wire draws walkers in along it, and the working takes the footing of whoever follows. They walk the circuit of the pegs and cannot stop. Each dusk it takes another.
+[[being-denrikrnkrs|Denrik Rénkaris]], a _marendos_ of the Order's [[affiliation-sideris|Sideris]], came into the Silver Forests to prove that the [[lore-flksenali|Senali paths]] can be bound straight by metal. He drove silver pegs in a ring around eight living birch, strung silver wire between them, and worked a Straight Road upon it. The working took. Every straight line in the hollow now ends at the ring, the wire draws walkers in along it, and the working takes the footing of whoever follows. They walk the circuit of the pegs and cannot stop. Each dusk it takes another.
 
 Rénkaris stands in the middle in the working's eye, alive because the working needs him. He cannot undo it without unmaking himself, and he has not asked the wood to turn the paths because to ask is to admit the Order's reading of the paths was wrong.
 
-The Sinale do nothing. They do not fight, and the paths around the ring now turn outward harder than before. The Wardens' own paths have turned them from the hollow for three seasons.
+The Senali do nothing. They do not fight, and the paths around the ring now turn outward harder than before. The Wardens' own paths have turned them from the hollow for three seasons.
 
 The silver came from a smuggler of the Lísere shore, and the leave to survey came from Péravel, sealed in the household of the Chancellor, [[being-hlvlnsrdlnd|Hálvilon Sérdalnde]], with the district written wide. The Chancellor did not read it.
 
@@ -139,7 +139,7 @@ Read or paraphrase:
 - _Force:_ killing him unmakes the working with a lash of silver wire that takes the footing of everyone near him, and the Pegged fall where they stand. It frees the walkers and leaves the killer pacing the circuit alone until the others pull him out.
 - _Stealth:_ cut the wire behind him, thread by thread, while he is talking. It buys time and enrages him, and the working lashes out at random.
 - _Guile:_ convince Rénkaris that the Order will abandon him. It is true, and he half knows it. A man who has nothing left to protect asks.
-- _Parley:_ the party sits at the ring's edge with their hands bare, as the first Dhargan sat, and asks the wood to turn the paths. The wood turns them. It takes the better part of a night, and no Sinale shows, and the price the wood keeps is not named.
+- _Parley:_ the party sits at the ring's edge with their hands bare, as the first Dhargan sat, and asks the wood to turn the paths. The wood turns them. It takes the better part of a night, and no Senali shows, and the price the wood keeps is not named.
 
 **Clues and rewards.** If the party asks, the paths turn, the wire goes slack, and the walkers stop. Rénkaris sits down for the first time in a season and does not stand again for a day. The silver pegs lie loose in the ground.
 
@@ -178,7 +178,7 @@ The working holds. Each dusk it takes the walker furthest from its footing, and 
 ## Aftermath {#aftermath}
 
 - **If the party asked and the paths turned,** the ring stays closed to everyone, and the birch keep their starlight. The Wardens treat the party as friends of the wood. The wood keeps its price and does not name it: a face comes to the wood's edge, sits bare-handed, and asks again.
-- **If the party broke the working by force,** the walkers are freed and the _marendos_ is dead. The wood does not reward the breaking, and the Sinale do not turn a path for the killer afterward.
+- **If the party broke the working by force,** the walkers are freed and the _marendos_ is dead. The wood does not reward the breaking, and the Senali do not turn a path for the killer afterward.
 - **If the party took the silver,** Lísere's smuggling trade learns of it and sends buyers. Sóurimel does not forget who left a daughter in the wood.
 - **If the party left,** the working holds, a dusk takes another, and a rumor of a lamp walking straight in the Silver Forests spreads as far as Liranel.
 - **The letter** is the lasting trouble. Whoever holds it holds the crown's cordiality toward the Order by the throat.

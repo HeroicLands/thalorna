@@ -55,7 +55,7 @@ Nine is the number of the throne. Rites of the Emperor and his caste are reckone
 
 ## The Elder Races
 
-A member of the [[lore-flksinale|Sinale Folk]] or the [[lore-flkkhazar|Khazár Folk]] is classified Zhazho only rarely: the lord of an Elder enclave, or the head of a house bound to a Warlord by a strategic alliance. Those who hold the rank manage their people's dealings with the empire, and their position lasts only as long as the politics of the court allow.
+A member of the [[lore-flksenali|Senali Folk]] or the [[lore-flkkhazar|Khazár Folk]] is classified Zhazho only rarely: the lord of an Elder enclave, or the head of a house bound to a Warlord by a strategic alliance. Those who hold the rank manage their people's dealings with the empire, and their position lasts only as long as the politics of the court allow.
 
 ## See Also
 

@@ -36,7 +36,7 @@ const donors = [
     "skill-vylarilng",
     "skill-provnzlng",
     "skill-nordmalng",
-    "skill-sinalelng",
+    "skill-senalilng",
     "skill-aelwthlng",
 ].map((address) => read(notePath(address)));
 const notes = [language, inventory, ...donors];

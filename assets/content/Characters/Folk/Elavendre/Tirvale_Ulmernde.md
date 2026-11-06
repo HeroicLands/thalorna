@@ -37,9 +37,9 @@ Tírvale Úlmernde is a 50-year-old man who stands 5'8" tall and is of medium bu
 
 # Dossier {#dossier}
 
-Tírvale Úlmernde is the crown's Sheriff of [[place-lirve|Lirve]], the western seaboard of cliffs and Sinale forest. He tries the crown's pleas in the shire, holds the posse and collects the levy and the road tolls, and his hall stands above the harbor of [[place-portaelion|Port Aelion]]. He is a knight of the Úlmernde of [[place-liranel|Liranel]], and the uncle of [[being-aimelineulme|Lady Áimeline Úlmernde]], whose health he worries over.
+Tírvale Úlmernde is the crown's Sheriff of [[place-lirve|Lirve]], the western seaboard of cliffs and Senali forest. He tries the crown's pleas in the shire, holds the posse and collects the levy and the road tolls, and his hall stands above the harbor of [[place-portaelion|Port Aelion]]. He is a knight of the Úlmernde of [[place-liranel|Liranel]], and the uncle of [[being-aimelineulme|Lady Áimeline Úlmernde]], whose health he worries over.
 
-Lirve is the hardest shire in the kingdom to keep. The forest behind the coast is licensed only in its inner belt, the deep wood is the Wardens', the Sinale keep [[place-serenthale|Serenthale]] and nobody's law reaches them, and the fae country of the seaboard is the thickest outside the mountains. His writ runs in the towns, on the roads and in the licensed belt, and he says so to every complainant who wants it to run further.
+Lirve is the hardest shire in the kingdom to keep. The forest behind the coast is licensed only in its inner belt, the deep wood is the Wardens', the Senali keep [[place-serenthale|Serenthale]] and nobody's law reaches them, and the fae country of the seaboard is the thickest outside the mountains. His writ runs in the towns, on the roads and in the licensed belt, and he says so to every complainant who wants it to run further.
 
 He wants Lirve's towns kept in the crown's peace and the town council of Port Aelion kept out of the crown's pleas. The council holds that the harbor's charter gives it the trial of its own freemen, the sheriff holds that it does not, and the chancery has not answered either of them.
 

@@ -77,7 +77,7 @@ A date is given as the day of the season and the winter of the age: the elders b
 
 ### Before the Kindreds (BK)
 
-The forest of the tellings: the _dorg_ (giants) who walked it before the clans, the stone circles beyond [[place-blackthornrdg|Blackthorn Ridge]] carved with marks that are neither Varokh nor Vilérian, and the paths in the deep wood that have led somewhere else since the [[lore-flksinale|Sinale]] came. The [[lore-pelwarpepl|Pelwar]] lived in the clearings then, without walls. Nothing here is counted, and the reciters disagree about whether it happened to the Varokh at all or to somebody they replaced.
+The forest of the tellings: the _dorg_ (giants) who walked it before the clans, the stone circles beyond [[place-blackthornrdg|Blackthorn Ridge]] carved with marks that are neither Varokh nor Vilérian, and the paths in the deep wood that have led somewhere else since the [[lore-flksenali|Senali]] came. The [[lore-pelwarpepl|Pelwar]] lived in the clearings then, without walls. Nothing here is counted, and the reciters disagree about whether it happened to the Varokh at all or to somebody they replaced.
 
 ### The Taking of the Wood (TW), from about 1250 BF
 

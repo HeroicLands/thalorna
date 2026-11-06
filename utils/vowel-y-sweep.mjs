@@ -6,8 +6,8 @@
  * Respell every vowel _y_ to Pronouncing Thalorna: _y_ is never a vowel.
  *
  * A vowel _y_ is a _y_ that neither stands before a vowel nor closes a glide
- * after one (_ay_, _ey_, _iy_, _oy_, _uy_), and any _ý_. Sinale writes it _ì_,
- * the front vowel of its harmony, and every other tongue _i_. Sinale has no
+ * after one (_ay_, _ey_, _iy_, _oy_, _uy_), and any _ý_. Senali writes it _ì_,
+ * the front vowel of its harmony, and every other tongue _i_. Senali has no
  * _ny_ consonant, so its _ny_ before a consonant or at a word's end is _n_ and
  * the vowel too.
  *

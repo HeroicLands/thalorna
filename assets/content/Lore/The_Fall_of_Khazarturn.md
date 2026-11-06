@@ -3,7 +3,7 @@ shortcode: khazarturn
 name: {full: The Fall of Khazartúrn, en: [The Valley of Seven Towers]}
 type: lore
 subType: history
-description: "The destruction of the Khazari's greatest city and every soul in it in 2427 BF—Grukar driven by a renegade Sinale, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."
+description: "The destruction of the Khazari's greatest city and every soul in it in 2427 BF—Grukar driven by a renegade Senali, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."
 tags: []
 data: {packFolder: settinglore}
 ---
@@ -30,7 +30,7 @@ all. There is nothing in either record to suggest that anybody involved knew the
 No human has ever seen Khazartúrn. Everything said of it in the human world is **story**—and the
 stories do not come from the Khazari, who never speak of it at all.
 
-They come from the [[lore-flksinale|Sinale]], who saw the city while it lived and who will, very
+They come from the [[lore-flksenali|Senali]], who saw the city while it lived and who will, very
 occasionally, let something out: a snippet, an aside, a phrase in one of their ancient songs that turns
 out to be about a place rather than an idea. Sometimes to one of the [[lore-aelendnppl|Áelendan People]]. From there it
 travels, at three and four removes, into human hands.
@@ -169,7 +169,7 @@ the city fell—and it did not matter, which is the part the Khazari have never 
 ## The Calamity
 
 In 2427 BF Khazartúrn was destroyed by Grukar, in numbers and under a coordination that should not have
-been possible, **driven by a renegade of the [[lore-flksinale|Sinale]]** who had taken up [[miscgear-secondvoice|the Second Voice]]—a relic that speaks over Ahks and commands the hatched
+been possible, **driven by a renegade of the [[lore-flksenali|Senali]]** who had taken up [[miscgear-secondvoice|the Second Voice]]—a relic that speaks over Ahks and commands the hatched
 directly.
 
 It was not a war and it was not a siege. It was **a single act of genocide**, carried out on a city that
@@ -287,7 +287,7 @@ the people in it, and that is an affront to their own ancestors which no Khazár
 convenience of ending a conversation. Pressed, one will decline to answer. None has ever said it did not
 happen.
 
-So the shape of what is known is set entirely by what the Sinale have let slip and what the Khazari have
+So the shape of what is known is set entirely by what the Senali have let slip and what the Khazari have
 declined to contradict—and everything else is open:
 
 - **Where it stands.** No comment, and no name on any map they have let out of their hands.
@@ -299,7 +299,7 @@ declined to contradict—and everything else is open:
 
 Three thousand years of that, and it has never once slipped.
 
-## What the Sinale Say
+## What the Senali Say
 
 Two things, and no more.
 
@@ -322,7 +322,7 @@ A hall that a bird will live in is not a room./
 .We said so to the makers once. They said they knew.
 :::
 
-::: {.verse form=elegy lang=sina enc=sinaveldikkoenc work=the-fall-of-khazarturn-1}
+::: {.verse form=elegy lang=sina enc=senaveldikkoenc work=the-fall-of-khazarturn-1}
 evi eho sìtte/
 .ulpes sìtte seipan leesìhe sendeppi eltes/
 irna sìtte maulpe vennas aldis holdi leesì issalteho/
@@ -339,12 +339,12 @@ They do not say the renegade was **one of their own**.
 
 They never have. The word is left standing on its own with no people attached to it, in every telling, in
 every song, without exception—and this is not carelessness in a race with memory like theirs. Pressed
-on the point, a Sinale does not deny it. They stop, and the stopping is unmistakable, and everyone who
+on the point, a Senali does not deny it. They stop, and the stopping is unmistakable, and everyone who
 has ever pushed that far has come away certain of the answer and without having been given it.
 
 So nobody has been _told_. It has been **inferred**—by the handful who noticed the shape of the
 silence, and corroborated by the other silence beside it, which is that the Deep Folk have not spoken to
-the Sinale about anything at all in three thousand years and will not say why.
+the Senali about anything at all in three thousand years and will not say why.
 
 Everything else remains closed. The renegade's name, never given. What became of him, never described.
 What drove him, never offered, defended or disputed. Where the [[miscgear-secondvoice|Second Voice]] came
@@ -385,5 +385,5 @@ years against a species they know to be innocent, and never once revisited.
 
 ## See Also
 
-- [[miscgear-secondvoice|The Second Voice]] · [[lore-flkkhazar|Khazari]] · [[lore-flksinale|Sinale]]
+- [[miscgear-secondvoice|The Second Voice]] · [[lore-flkkhazar|Khazari]] · [[lore-flksenali|Senali]]
 - [[lore-grukarfolk|Grukar Folk]] · [[lore-grukaraelwyth|the Grukar of Eilwìth]]

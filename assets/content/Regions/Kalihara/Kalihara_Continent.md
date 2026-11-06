@@ -66,9 +66,9 @@ The Kaliharans kept what they were given, and eighty centuries later they keep i
 
 ## The Elder Races on Kalihara
 
-Kalihara is the one human civilization on Thalorna with a long relationship to an Elder Race, and the relationship ran the other way from everywhere else. When the [[lore-flksinale|Sinale]] first arrived on Thalorna, some seventy-five centuries before [[lore-thefounding|the founding]] of the [[affiliation-vylarinmpr|Vilérian Empire]], the Kaliharans were already thousands of years into their civilization, and the Ithari were still in the world. It was the Ithari the Sinale met, once and by chance, and were politely declined by; the Sinale came away without learning who they had met, and Kalihara, which was not party to the meeting, has never told them. When the [[lore-flkkhazar|Khazari]] followed two thousand years later, the Ithari had gone and the island stood alone. Each Elder Race in its turn asked the island for settlement. Each was received with courtesy, told that Kalihara was complete, and refused, and each was welcome to trade at the ports and did so. The interior was closed to both, and the answer has not been revised since.
+Kalihara is the one human civilization on Thalorna with a long relationship to an Elder Race, and the relationship ran the other way from everywhere else. When the [[lore-flksenali|Senali]] first arrived on Thalorna, some seventy-five centuries before [[lore-thefounding|the founding]] of the [[affiliation-vylarinmpr|Vilérian Empire]], the Kaliharans were already thousands of years into their civilization, and the Ithari were still in the world. It was the Ithari the Senali met, once and by chance, and were politely declined by; the Senali came away without learning who they had met, and Kalihara, which was not party to the meeting, has never told them. When the [[lore-flkkhazar|Khazari]] followed two thousand years later, the Ithari had gone and the island stood alone. Each Elder Race in its turn asked the island for settlement. Each was received with courtesy, told that Kalihara was complete, and refused, and each was welcome to trade at the ports and did so. The interior was closed to both, and the answer has not been revised since.
 
-Everywhere else on Thalorna the Elder Races held to a policy of non-interference with human development, and uplifted humanity in spite of it, by observation, inference and the occasional unauthorized individual; that argument is made in [[lore-longnhrtnc|the Long Inheritance]]. On Kalihara the uplift was deliberate, it was done by someone else, and it is admitted. The Kaliharans did not need Sinalean wisdom or Khazari craft. They had an older teaching, and they kept it.
+Everywhere else on Thalorna the Elder Races held to a policy of non-interference with human development, and uplifted humanity in spite of it, by observation, inference and the occasional unauthorized individual; that argument is made in [[lore-longnhrtnc|the Long Inheritance]]. On Kalihara the uplift was deliberate, it was done by someone else, and it is admitted. The Kaliharans did not need Senalian wisdom or Khazari craft. They had an older teaching, and they kept it.
 
 ## The Ports and the World
 
@@ -105,7 +105,7 @@ Ankarian contact with Kalihara is commercially significant and culturally thin. 
 [[place-kiichchik|Kì'ìch'chik]]
 : the next land west, across open ocean
 
-[[lore-flksinale|Sinale]], [[lore-flkkhazar|Khazari]]
+[[lore-flksenali|Senali]], [[lore-flkkhazar|Khazari]]
 : Elder Races whose settlement Kalihara refused
 
 [[place-worldthlrn|The World of Thalorna]]

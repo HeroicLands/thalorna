@@ -1,38 +1,38 @@
 ---
-shortcode: sinalearrv
-name: {full: The Coming of the Sinale, en: [The Arrival of the Firstborn]}
+shortcode: senaliarrv
+name: {full: The Coming of the Senali, en: [The Arrival of the Firstborn]}
 type: lore
 subType: history
-description: "The Sinale reach Thalorna at approximately 7500 BF from a prior realm they do not disclose—the first of the Elder Races, and the beginning of the world's recorded history."
+description: "The Senali reach Thalorna at approximately 7500 BF from a prior realm they do not disclose—the first of the Elder Races, and the beginning of the world's recorded history."
 tags: [history, spine]
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: settinglore
   events:
     - when: ~-7500
       kind: arrival
       depth: world
-      sources: [lore-flksinale, lore-theithari, place-ankrscntnnt]
+      sources: [lore-flksenali, lore-theithari, place-ankrscntnnt]
       summary: >-
-        The Sinale reach Thalorna from a prior realm they do not disclose, the first of the Elder Races and the first of the speaking peoples to walk the world. Humanity is everywhere in the hunter-gatherer stage, without cities, letters or settled tongues. The Sinale observe the human bands and leave them to their own becoming.
+        The Senali reach Thalorna from a prior realm they do not disclose, the first of the Elder Races and the first of the speaking peoples to walk the world. Humanity is everywhere in the hunter-gatherer stage, without cities, letters or settled tongues. The Senali observe the human bands and leave them to their own becoming.
       standing: single-source
       names:
         - name: the Age of Stars
-          by: lore-flksinale
-          gloss: what the Sinale call the era their arrival opens, remembered in song and never described
+          by: lore-flksenali
+          gloss: what the Senali call the era their arrival opens, remembered in song and never described
       where:
         locus: [place-worldthlrn]
         reach:
           - place: place-elavendre
             how: >-
-              the royal family and aristocracy keep the longest sustained contact between humans and Sinale anywhere, and the bardic colleges hold songs no human composed
+              the royal family and aristocracy keep the longest sustained contact between humans and Senali anywhere, and the bardic colleges hold songs no human composed
             knowledge: named
           - place: place-tantsouregin
             how: >-
               the enclaves inside the empire's borders hold formal standing at the imperial court and answer to the caste law that classified them
             knowledge: named
           - place: place-eilwith
-            how: the Sinale of the Hallowwood stand beside the Khazari of the mountains, and together they held a crown for six centuries
+            how: the Senali of the Hallowwood stand beside the Khazari of the mountains, and together they held a crown for six centuries
             knowledge: named
           - place: place-vrystwald
             how: paths into the deep woods have a way of leading somewhere else
@@ -49,9 +49,9 @@ data:
             how: >-
               three conclaves stand in a northern forest, a central jungle and a southern swamp, and the peoples near them keep away
             knowledge: unlinked
-      who: [{ref: lore-flksinale, role: actor}]
+      who: [{ref: lore-flksenali, role: actor}]
       accounts:
-        - by: lore-flksinale
+        - by: lore-flksenali
           says: >-
             We are the Firstborn, we came from a prior realm, and of that time we tell outsiders nothing.
           agrees: partly
@@ -61,11 +61,11 @@ data:
             The continent's recorded history begins here, roughly seventy-five centuries before the Founding.
           agrees: full
       unresolved:
-        - where the Sinale came from, and whether it is the realm the Khazari left
+        - where the Senali came from, and whether it is the realm the Khazari left
         - the figure is approximate and nobody holds it more closely than that
 ---
 
-[[lore-flksinale|The Sinale]] hold themselves to be the first of the speaking peoples to walk
+[[lore-flksenali|The Senali]] hold themselves to be the first of the speaking peoples to walk
 [[place-worldthlrn|Thalorna]], and by their own telling they are. They came from a prior realm whose nature they do not
 disclose, and for a time they walked with only the creatures and spirits humans would later call fae,
 and with scattered bands of humans who lived then without cities or letters or settled tongues.
@@ -76,5 +76,5 @@ humanity from learning a great deal simply by watching them back. That is the be
 every human craft that improved for a thousand years after appearing suddenly and badly.
 
 Where they made landfall is not recorded, and the date is approximate: nobody holds it more closely
-than a century, the Sinale least of all, since they do not share their reckoning of years with
+than a century, the Senali least of all, since they do not share their reckoning of years with
 outsiders.

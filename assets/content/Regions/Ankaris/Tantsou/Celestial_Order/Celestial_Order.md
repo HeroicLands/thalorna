@@ -23,7 +23,7 @@ Keeping the cosmos in order is therefore upkeep, and every rite, offering and pe
 
 The Great Sorting classified every creature, plant and insect, and the [Bureau of Creation]{.name data-type="affiliation"} (_Tsai Sei_) administers all life. The [[lore-tanchei|Tanchei]] keep a great bestiary, the [Zha Dau]{.name data-type="lore/literature"} (Life Record), which lists every known form of life by classification, elemental affinity, habitat, habits and danger. It recognizes three kinds of living thing.
 
-**Persons** (_Nong Zha_) are beings with moral agency: humans, [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]]. They keep moral ledgers, hold castes and answer to the whole apparatus of celestial accounting, and most of the empire's administration exists to keep them in order.
+**Persons** (_Nong Zha_) are beings with moral agency: humans, [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]]. They keep moral ledgers, hold castes and answer to the whole apparatus of celestial accounting, and most of the empire's administration exists to keep them in order.
 
 **Kinds** (_Zha Tsou_) are the species that breed true: dogs, horses, hawks, fish, serpents, beetles, rice and bamboo. Each kind is a pattern kept by the Bureau of Creation, which sets its elemental affinities, its range, its habits and its place in the cosmos. A horse is chiefly Earth, a hawk Air, a river carp Water; a venomous serpent may be both Water and Metal. A kind is a finished commission: the Bureau designed it, it breeds by its pattern, and it needs nothing but routine care.
 
@@ -96,7 +96,7 @@ That changes what rebellion means. In the kingdoms of the west a rebel is a crim
 : the castes, and how the classification treats foreigners
 
 [[lore-elderraces|Elder Races]]
-: how the Sinale and Khazari fit within the classification
+: how the Senali and Khazari fit within the classification
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the empire whose government mirrors heaven's

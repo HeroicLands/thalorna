@@ -13500,7 +13500,7 @@ Literacy in Khazari is **nearly universal among the Khazari**—writing is funda
 
 ## Historical Development
 
-Khazari is one of the **two surviving Elder Tongues**, sharing a common ancestor with [[skill-sinalelng|Sinale]] but diverging sharply in development. The language emerged among a people who live in the faces of mountains and talk along passages in the rock, and it reflects that origin: compact, resonant, built to carry along a passage.
+Khazari is one of the **two surviving Elder Tongues**, sharing a common ancestor with [[skill-senalilng|Senali]] but diverging sharply in development. The language emerged among a people who live in the faces of mountains and talk along passages in the rock, and it reflects that origin: compact, resonant, built to carry along a passage.
 
 Historical layers in Khazari:
 
@@ -13637,9 +13637,9 @@ One word serves both of the last two uses: _varn_, the true line the rock runs. 
 
 ## Related Languages
 
-Khazari is one of the **two surviving Elder Tongues**, descended from a **common Elder ancestor** shared with Sinale. The kinship is not audible. Sinale runs on open syllables, long vowels and a clean inventory; Khazari runs on clusters, short vowels and back fricatives, and nothing in the sound of either suggests the other.
+Khazari is one of the **two surviving Elder Tongues**, descended from a **common Elder ancestor** shared with Senali. The kinship is not audible. Senali runs on open syllables, long vowels and a clean inventory; Khazari runs on clusters, short vowels and back fricatives, and nothing in the sound of either suggests the other.
 
-What the two share is a habit no human tongue on Thalorna has: **both make a new word by altering the body of an old one rather than by hanging a piece on its end.** Khazari pours a different vowel frame through a fixed skeleton; Sinale changes the consonant a word begins with according to the work the word is doing. Suffixes are the shallow layer in both—the deep one is inside the word.
+What the two share is a habit no human tongue on Thalorna has: **both make a new word by altering the body of an old one rather than by hanging a piece on its end.** Khazari pours a different vowel frame through a fixed skeleton; Senali changes the consonant a word begins with according to the work the word is doing. Suffixes are the shallow layer in both—the deep one is inside the word.
 
 Beyond that instinct the two agree on **a closed inventory of derivational shapes** rather than an open one, so neither language borrows readily.
 

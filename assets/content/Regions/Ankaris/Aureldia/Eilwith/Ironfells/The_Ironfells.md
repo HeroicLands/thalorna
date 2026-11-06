@@ -59,7 +59,7 @@ The date is approximate and it is the Khazari's; no Eilwìthan record goes anywh
 settles is the ground everything else in the island's elder history stands on. Khazartúrn fell seven
 centuries later and the two elder races stopped dealing with one another everywhere in the world—except here, where they had been living on the same ground for seven hundred years already. That is why
 [[miscgear-secondvoice|the Second Voice]] was to be held in trust on Eilwìth by both races together,
-and why the [[lore-flksinale|Sinale]] and Khazari of this island attempted a joint kingdom that no
+and why the [[lore-flksenali|Senali]] and Khazari of this island attempted a joint kingdom that no
 others of their kind have ever tried.
 
 ## See Also

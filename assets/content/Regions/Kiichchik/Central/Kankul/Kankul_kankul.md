@@ -103,7 +103,7 @@ The pool-centered spirituality of K'ankul has produced a distinct tradition with
 
 ## The Understanding
 
-K'ankul keeps an understanding with the [[lore-flksinale|Sinale Folk]] of [[place-lirnasto|Lirnasto]], the conclave in the high jungle of the platform's interior: the realm's people stay out of that jungle and do not disturb those who live there. Every Ts'enmah holds to it, and the Ha'nalmah of the towns along the forest's edge turn back hunters, rubber-tappers and gatherers where the old trees begin. The realm's books do not say when or how the understanding was made, and the Sinale take no other part in the realm's affairs.
+K'ankul keeps an understanding with the [[lore-flksenali|Senali Folk]] of [[place-lirnasto|Lirnasto]], the conclave in the high jungle of the platform's interior: the realm's people stay out of that jungle and do not disturb those who live there. Every Ts'enmah holds to it, and the Ha'nalmah of the towns along the forest's edge turn back hunters, rubber-tappers and gatherers where the old trees begin. The realm's books do not say when or how the understanding was made, and the Senali take no other part in the realm's affairs.
 
 ## See Also
 
@@ -123,4 +123,4 @@ K'ankul keeps an understanding with the [[lore-flksinale|Sinale Folk]] of [[plac
 : The land K'ankul holds
 
 [[place-lirnasto|Lirnasto]]
-: The Sinale conclave the realm's people stay away from
+: The Senali conclave the realm's people stay away from

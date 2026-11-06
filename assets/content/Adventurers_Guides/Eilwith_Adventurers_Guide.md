@@ -26,7 +26,7 @@ An Eilwìthan attends the [[affiliation-arldnpnthn|Aureldian]] temple and also l
 
 [[place-wraymouth|Wraymouth]] is Dúnavarre's working harbor and [[place-dunmere|Dunmere]] Aldorath's walled seat. [[place-sunnerslade|Sunnerslade]] ripens a wine in the lee of [[place-ironfells|the Ironfells]] that has no business existing. In the high valleys of the Ironfells the [[lore-vardain|Vardain]], free remnant of the conquered north-east, live under the protection of the [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]].
 
-The island's reputation abroad is wrong about its people and right about its land. There are places where the fae are strong, deep in the forest and in the wild north, and the borders of the realms bend around them. [[lore-grukaraelwyth|Grukar]] have lived in the empty third of the island for seven hundred years. The tribes of the [[place-pshtrwldrns|Peshtar Wilderness]] live outside every realm, and the forest peoples are the most warlike of them. [[place-hallowwood|The Hallowwood]] in the south is the forest of Eilwìth's [[lore-flksinale|Sinale]], and it does not receive visitors.
+The island's reputation abroad is wrong about its people and right about its land. There are places where the fae are strong, deep in the forest and in the wild north, and the borders of the realms bend around them. [[lore-grukaraelwyth|Grukar]] have lived in the empty third of the island for seven hundred years. The tribes of the [[place-pshtrwldrns|Peshtar Wilderness]] live outside every realm, and the forest peoples are the most warlike of them. [[place-hallowwood|The Hallowwood]] in the south is the forest of Eilwìth's [[lore-flksenali|Senali]], and it does not receive visitors.
 
 ## Ways In
 

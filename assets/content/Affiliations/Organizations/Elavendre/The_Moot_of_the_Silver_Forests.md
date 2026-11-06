@@ -56,7 +56,7 @@ Sits at
 
 The **Moot of the Silver Forests** is the gathering of the shamen whose tribes share a border with [[place-silvrfrsts|the Silver Forests]]. It sits four times a year, on the day after each of the great seasonal rites of the Pact at [[place-eshalshldg|Ésalosa Lodge]], in the stone-walled council hall beside the ceremonial one. It is not a court and not a government. The Council of Elders in each tribe decides, and the Moot advises the elders on what the forest asks of the people who live beside it.
 
-What the Moot holds is the people's standing with the wood. The [[affiliation-alndnwrdns|Wardens]] keep the watches and the boundary, and the Moot keeps the terms: the birch law, the protocols for entering the outer margin, and the understanding with the [[lore-flksinale|Sinale]] who share the forest. Questions that touch the Pact and the wood together come to it before they come to the elders.
+What the Moot holds is the people's standing with the wood. The [[affiliation-alndnwrdns|Wardens]] keep the watches and the boundary, and the Moot keeps the terms: the birch law, the protocols for entering the outer margin, and the understanding with the [[lore-flksenali|Senali]] who share the forest. Questions that touch the Pact and the wood together come to it before they come to the elders.
 
 ## Who Sits {#who-sits}
 
@@ -84,7 +84,7 @@ The Moot differs from the common council of the tribes. The council's delegates 
 
 The bark of [[place-wkngstnd|the Waking Stand]] is before the Moot this season. A strip was cut from one of the trees and sold at [[place-lisere|Lísere]]. It lies green in a chapterhouse collection at [[place-beravel|Péravel]], and the [[affiliation-ordoarcanis|Thordimalon]] has licensed a fellow of the University to come back for a living cutting with hired guards. The Wardens of the forests know bark was taken and are looking for the man who took it.
 
-The question is what to carry to the Sinale, and when. The two seated shamen, of the Tírindi and the Thanandi, hold that the Carrier must go to Ethalosse now and say what has been done, because the wood is shared and its neighbors should hear it from the people who keep it. The Dhárgandi have no shaman seated this season, and their elders have sent word that nothing should be carried until the man is found, because the Áelendan carry exactly and add nothing, and a thing told half-known is carried wrong. A seat belongs to a tribe, and what the Carrier takes to the stone court is the Moot's word for all three tribes, so the Speaker will not send it while one seat is empty and its tribe disagrees. She has kept the question open through two sittings, and the Dhárgandi's young Hearer is the one who can close it, once he is seated.
+The question is what to carry to the Senali, and when. The two seated shamen, of the Tírindi and the Thanandi, hold that the Carrier must go to Ethalosse now and say what has been done, because the wood is shared and its neighbors should hear it from the people who keep it. The Dhárgandi have no shaman seated this season, and their elders have sent word that nothing should be carried until the man is found, because the Áelendan carry exactly and add nothing, and a thing told half-known is carried wrong. A seat belongs to a tribe, and what the Carrier takes to the stone court is the Moot's word for all three tribes, so the Speaker will not send it while one seat is empty and its tribe disagrees. She has kept the question open through two sittings, and the Dhárgandi's young Hearer is the one who can close it, once he is seated.
 
 ## How a Party Meets It {#how-a-party-meets-it}
 
@@ -113,5 +113,5 @@ A party does not attend the Moot. It meets the Moot's findings: a Warden who wil
 [[place-wkngstnd|The Waking Stand]]
 : The thin place whose bark is before the Moot
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : The neighbors the Carrier goes to

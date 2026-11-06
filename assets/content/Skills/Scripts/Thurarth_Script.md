@@ -23,7 +23,7 @@ It carries [[skill-aelendlng|Áelendi]]. A character needs **both** the script a
 
 ## Carved, not written
 
-The settlers who came to the highlands had only these runes, and they are for carving: the first Áelendan had nothing to write with in the ordinary way. They took the [[skill-clthndscrpt|Veldikko]] from the [[lore-flksinale|Sinale]] for everything written, and write [[skill-aelendlng|Áelendi]] in it. Thurarth is kept for the work that is cut, which is **monuments** and boundary stones, **old magic**, where the older form is held to matter, and **poetry**, where the runes' associations are part of the effect.
+The settlers who came to the highlands had only these runes, and they are for carving: the first Áelendan had nothing to write with in the ordinary way. They took the [[skill-clthndscrpt|Veldikko]] from the [[lore-flksenali|Senali]] for everything written, and write [[skill-aelendlng|Áelendi]] in it. Thurarth is kept for the work that is cut, which is **monuments** and boundary stones, **old magic**, where the older form is held to matter, and **poetry**, where the runes' associations are part of the effect.
 
 The Áelendan habit of _not_ writing important things down—the Kindred Pact is deliberately unwritten, and the [[place-eshalshldg|Ésalosa Lodge]] forbids writing in certain rooms altogether—means the inscriptions that do exist were cut by people who thought the matter exceptional. The highlands are full of cut stone, and anything in the region old enough to be called ancient is Áelendi, carved in Thurarth or set down in the Veldikko.
 

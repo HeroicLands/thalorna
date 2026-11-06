@@ -1,7 +1,7 @@
 // Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
 // SPDX-License-Identifier: GPL-3.0-or-later
 
-/** Independent Sinale spelling model, adapted from the author's OFL-1.1 script
+/** Independent Senali spelling model, adapted from the author's OFL-1.1 script
  * fonts tools/veldikko/convert.mjs
  * at 3ec43cd207ba13072a0806421a2a62efb7aabca6. Glyph values come from the
  * installed font manifest, independently of the authored encoding document. */
@@ -66,7 +66,7 @@ export function veldikkoTable(fonts = resolveScriptFonts(process.cwd())) {
 }
 
 /**
- * The Veldikko code points a romanized Sinale text is written with.
+ * The Veldikko code points a romanized Senali text is written with.
  *
  * @param {string} text - The romanized spelling.
  * @returns {string} The code points, in logical order.

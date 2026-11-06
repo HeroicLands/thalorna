@@ -125,9 +125,9 @@ The Kingdom of Aldorath is the heartland kingdom of [[place-eilwith|Eilwìth]], 
 
 Prophecy and questing are woven into the fabric of Aldorathian culture; knights ride out to fulfill visions, and the court seers wield as much influence as the military commanders. The kingdom's chronicles are as much mythology as history—tales of kings who drew a sword from a stone, of bargains struck with lake-spirits, and of a sacred vessel hidden in mist-shrouded ruins are told not as fables but as the deeds of ancestors whose bloodlines still rule.
 
-## The Sinale Connection
+## The Senali Connection
 
-The [[lore-flksinale|Sinale]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Eilwìthan polity. This connection gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Sinale do not explain their reasons, and the Aldorathian court knows better than to press them.
+The [[lore-flksenali|Senali]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Eilwìthan polity. This connection gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Senali do not explain their reasons, and the Aldorathian court knows better than to press them.
 
 ## Relations
 
@@ -151,7 +151,7 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ar
 [[affiliation-repblcndrth|Republic of Ondareth]]
 : Southwestern republic
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : Elder race with southern forest enclaves
 
 [[affiliation-arldnpnthn|Aureldian]]

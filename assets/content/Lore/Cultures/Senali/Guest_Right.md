@@ -3,22 +3,22 @@ shortcode: ellevirsa
 name: {full: Guest-Right, sina: [ellevirsa]}
 type: lore
 subType: literature
-description: "The Sinale origin song cut into a stone at Sirmenne: how they came into a valley that was not theirs, what was already in it, the council that argued over the human bands, and the saying that left the valley open."
-tags: [sinale]
+description: "The Senali origin song cut into a stone at Sirmenne: how they came into a valley that was not theirs, what was already in it, the council that argued over the human bands, and the saying that left the valley open."
+tags: [senali]
 # terran_analog: "The Kalevala's origin charms (the birth of fire, the birth of iron) for a song that tells where a thing came from so as to hold it; the Kanteletar's runo-song for lines restated by the line beneath; the gnomic englynion for pairs that state a rule beside a thing seen; and inscriptions that locate themselves at their own stone."
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: settinglore
   form: ellante
-  subjects: [lore-sinalearrv, lore-flksinale, lore-longnhrtnc, place-sirmenne]
+  subjects: [lore-senaliarrv, lore-flksenali, lore-longnhrtnc, place-sirmenne]
   lang: sina
 ---
 
-**Guest-Right**, _Ellevirsa_, is a [[lore-flksinale|Sinale origin song]]: how the Sinale came into a valley that was not theirs, what they found already in it, and what they decided there, which is where the custom its title names comes from. It is cut into a standing stone at [[place-sirmenne|Sirmenne]] in an old hand of the [[skill-clthndscrpt|Veldikko]], in the long paired lines of the Sinale long song, each line answered by the one beneath it. The stone is broken in two places, and where it is broken the reading is silent. The [[lore-aelendnppl|Áelendan]] Tradition Keepers hold the reading pair for pair and give it at the stone when they go to Sirmenne, and [[affiliation-bardicolgs|the Bardic Colleges]] sing what the Keepers read. The living song is the same song with one difference, set out below: the Áelendan hear it at [[place-aelirosse|Aelirosse]] on the night a guest of theirs first sleeps there, sung over the guest, who is what it is about.
+**Guest-Right**, _Ellevirsa_, is a [[lore-flksenali|Senali origin song]]: how the Senali came into a valley that was not theirs, what they found already in it, and what they decided there, which is where the custom its title names comes from. It is cut into a standing stone at [[place-sirmenne|Sirmenne]] in an old hand of the [[skill-clthndscrpt|Veldikko]], in the long paired lines of the Senali long song, each line answered by the one beneath it. The stone is broken in two places, and where it is broken the reading is silent. The [[lore-aelendnppl|Áelendan]] Tradition Keepers hold the reading pair for pair and give it at the stone when they go to Sirmenne, and [[affiliation-bardicolgs|the Bardic Colleges]] sing what the Keepers read. The living song is the same song with one difference, set out below: the Áelendan hear it at [[place-aelirosse|Aelirosse]] on the night a guest of theirs first sleeps there, sung over the guest, who is what it is about.
 
-The song begins with a refusal. Its first line is "We came out of" and then a space the cutter left blank, dressed smooth and never filled; the living song holds the same place as a silence. Of what came before [[place-worldthlrn|Thalorna]] the Sinale say nothing to outsiders, and the song says so in the only way it can. What follows is a catalog of what was already in the valley when they came: the fae (see [[lore-faecourts|the Fae Courts]]), at the thin places; the trees, by which the song tells its time, since it carries no dates; the waters; the beasts; and bands of the younger people, with fire and with words that changed every summer, who are the ancestors of everyone who hears it. Nobody asked the Sinale in and nobody turned them out, and the council that sits in the valley argues over what to do about the bands. Three voices are kept whole. The elder who kept the watch at the pass asks that the bands be kept out; the one the valley had raised, which is how the Sinale make a lord, by acclaim for what one has done, answers that a people who build nothing have no door to shut; and a third, who is never named, says the saying the custom comes from. _Ellevirsa_ is the ordinary Sinale word for the welcome a guest is owed; the song reads it from the other side, as the welcome a guest owes to whoever comes after. Where the song says "this valley", the Keepers take it to mean the one the stone stands in, and the Sinale have not said. The Keepers do not fill the two breaks from the living song, so what the stone lost is lost.
+The song begins with a refusal. Its first line is "We came out of" and then a space the cutter left blank, dressed smooth and never filled; the living song holds the same place as a silence. Of what came before [[place-worldthlrn|Thalorna]] the Senali say nothing to outsiders, and the song says so in the only way it can. What follows is a catalog of what was already in the valley when they came: the fae (see [[lore-faecourts|the Fae Courts]]), at the thin places; the trees, by which the song tells its time, since it carries no dates; the waters; the beasts; and bands of the younger people, with fire and with words that changed every summer, who are the ancestors of everyone who hears it. Nobody asked the Senali in and nobody turned them out, and the council that sits in the valley argues over what to do about the bands. Three voices are kept whole. The elder who kept the watch at the pass asks that the bands be kept out; the one the valley had raised, which is how the Senali make a lord, by acclaim for what one has done, answers that a people who build nothing have no door to shut; and a third, who is never named, says the saying the custom comes from. _Ellevirsa_ is the ordinary Senali word for the welcome a guest is owed; the song reads it from the other side, as the welcome a guest owes to whoever comes after. Where the song says "this valley", the Keepers take it to mean the one the stone stands in, and the Senali have not said. The Keepers do not fill the two breaks from the living song, so what the stone lost is lost.
 
-The stone and the living song differ by one pair. The stone closes on the name of the elder who argued to keep the bands out, set last, after the valley and after the stars, which is how the Sinale name the doer of a deed when they name one at all; the living song keeps his argument whole, ends on the stars, and has let go of whose the argument was. The Keepers read the stone to its last pair. The living song still sings that the one who would have turned a guest out "is cut at the end of this", and then names no one.
+The stone and the living song differ by one pair. The stone closes on the name of the elder who argued to keep the bands out, set last, after the valley and after the stars, which is how the Senali name the doer of a deed when they name one at all; the living song keeps his argument whole, ends on the stars, and has let go of whose the argument was. The Keepers read the stone to its last pair. The living song still sings that the one who would have turned a guest out "is cut at the end of this", and then names no one.
 
 : Guest-Right {#song}
 
@@ -248,7 +248,7 @@ The one who said keep them out, who kept the watch at the pass: [Nìlkitti Essel
 .He was let in with the rest of us. He is cut here last, after the valley, which is the right order.
 :::
 
-::: {.verse form=ellante lang=sina enc=sinaveldikkoenc work=song}
+::: {.verse form=ellante lang=sina enc=senaveldikkoenc work=song}
 olkai ehii [ ]{lang=en}/
 .olkai ehii ahi halte ehii ihaho oso olkai ehii onsatos ahi luuro ehii onsa/
 olkai ehii eikka tehìhe aldis issalteho eho aunekke ehii ulnavaho/
@@ -339,7 +339,7 @@ toimunu onsa patten onsa ahi erni ehii eso/
 
 eirandi unturo ahi erni ehii unturo/
 .ahi erni ehii mavi tenvas aldessetos nìkehe oha uvi tenvas aume/
-vaukka sinalo ilte aldesseho ansoruta onsa oluho/
+vaukka senalo ilte aldesseho ansoruta onsa oluho/
 .ansoruta onsa iltettu nìkehe ellun sulme tenvas aume alte ansoruta onsa/
 lonsi onsa leikeno ahi evatte onsa iha/
 .ahi hessave ehii eirandi ansoru aunekkeho
@@ -360,7 +360,7 @@ eho ehii aunekkeho ahi hilpete lirne ehii ahi evatte lirne olkai ovuu/
 
 eho ommenda iha aunekkeho oso seltì iha ropeli iha ommenda evakka/
 .leevi ehii evatte ehii ellun seimakata ehii nauvessi iha raakke onsa unturo/
-olpeirata sinalo ilte seira olpeira evatte onsa enneli/
+olpeirata senalo ilte seira olpeira evatte onsa enneli/
 .hìrre aunekkeho hemmikatos aldesseho ahi eho ehii esoho/
 ennomi iltorin vennas onsa ennomi ilte varnissa ennomi uttes orrisa/
 .tupe ehii ennomirsa sipes ovanne olpeira ehiiho
@@ -394,7 +394,7 @@ evatte uttes vennas evatte ilte vaukka muuvu ardaso alte evatte ilte ahi vaukka 
 evatte lirne ilte olkai venatta ehiitos kessave onsa uvi movi ehii entel seltì ehii lirne leesìhe/
 .evatte ilte olkai venatta leesìtes vaukka onsaa ultasaldevano kessave onsa uvi vaukka ehii maviho/
 evatte ilte olkai ehii tunes irtal ehii aldesse aldevano oso remis aume ilsetti pehe ehii onsaa aunekke/
-.eso evatte ehii aulten ummes uttestos evatte uttes sinalo vennas onsa insu uttes aunekkeho/
+.eso evatte ehii aulten ummes uttestos evatte uttes senalo vennas onsa insu uttes aunekkeho/
 vandel lirne oso elvata ehii eso erme uvi vaukka ehii maviho aunekke aldesse aldevano/
 .aunekke uulse aunekke eho muuvu ummes aunekkeho oha eho onsaa uulse vaukka ehii aurannos/
 ahi seimakata ehii eso halte ehii onsa ihaho osotos evatte ehii onsa evi osotos evatte ehii onsa insu/
@@ -406,7 +406,7 @@ ellun nelkis oso ahi nelkis vaukka onsaa ardaso ellun tunes/
 .uulse ulpes onsaa olkai ehi leesìtes mavisa olkai venatta leesìtes ehiitos/
 sovaisa evakka onsa halte ehii onsa ummes ihaho osotos sovaisa evakka onsa
 
-tunes evatte sinalo ilte iha evi iha oso evatte ehii/
+tunes evatte senalo ilte iha evi iha oso evatte ehii/
 ahi hilpete lirne ehii/
 .ahi halpe lirne leesì/
 oso irna lirne ehiiho irna ehii onsa/
@@ -476,8 +476,8 @@ evatte ansorun kalpe ovuu aunekke ansoruta onsa aldesseho nìlkitti esselinto/
 
 ## See Also
 
-- [[lore-sinalearrv|The Coming of the Sinale]] · [[lore-longnhrtnc|the Long Inheritance]] ·
-  [[lore-flksinale|Sinale]]
+- [[lore-senaliarrv|The Coming of the Senali]] · [[lore-longnhrtnc|the Long Inheritance]] ·
+  [[lore-flksenali|Senali]]
 - [[place-sirmenne|Sirmenne]] · [[lore-aelendnppl|Áelendan People]] ·
   [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-faecourts|the Fae Courts]]
-- [[lore-seventowers|The Seven Towers]]—another Sinalean song held in Élavendre
+- [[lore-seventowers|The Seven Towers]]—another Senalian song held in Élavendre

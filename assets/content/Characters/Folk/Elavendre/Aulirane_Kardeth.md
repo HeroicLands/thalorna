@@ -39,7 +39,7 @@ data:
 
 Áulirane Kardeth is a young noblewoman with ancestry among the [[lore-aelendnppl|Áelendan People]] who holds the noble seat of [[place-cardeth|Kardeth]] near [[place-liranel|Liranel]]. She is intelligent and ambitious, and she seeks out the alchemist [[being-belrkflwyn|Melrik Salvin]] for discreet remedies.
 
-Kardeth is a village of about 250 on the coast of Lirve. The lady holds the seat under the crown, and among the Élavendri the land in a lord's keeping is a duty and not a possession. In a bad year her stewardship is the first thing the village draws on. The crown's forest court at Liranel issues the licenses and measures every stem cut, and past the licensed belt the old forest is the country of the Sinale and the Wardens.
+Kardeth is a village of about 250 on the coast of Lirve. The lady holds the seat under the crown, and among the Élavendri the land in a lord's keeping is a duty and not a possession. In a bad year her stewardship is the first thing the village draws on. The crown's forest court at Liranel issues the licenses and measures every stem cut, and past the licensed belt the old forest is the country of the Senali and the Wardens.
 
 ## Psyche
 

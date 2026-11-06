@@ -3,10 +3,10 @@ shortcode: onewhostays
 name: {full: The Praise of the One Who Stays, sina: [sendeppinnoren tellame]}
 type: lore
 subType: literature
-description: "The Sinale praise-song of the unnamed king who held the joint crown of Eilwìth, one deed to a stanza and the king never named, kept by the Vardain and sung in the valleys beneath Vorgald on the night the road to the Gate closes."
-tags: [sinale]
+description: "The Senali praise-song of the unnamed king who held the joint crown of Eilwìth, one deed to a stanza and the king never named, kept by the Vardain and sung in the valleys beneath Vorgald on the night the road to the Gate closes."
+tags: [senali]
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: settinglore
   form: tellame
   subjects:
@@ -21,11 +21,11 @@ data:
 # terran_analog: "The Welsh bardic praise-poem (Taliesin's songs to Urien, which praise the deed and the hall and keep the refrain), for the praise that counts deeds; the Kalevala's verb-leading restated line for the calque; Deor for a refrain that turns at the close; the Vardain's keeping of it draws on the way a conquered people keeps the songs of lords it has outlived."
 ---
 
-**The Praise of the One Who Stays**, _Sendeppinnoren tellame_, is a [[lore-flksinale|Sinale praise-song]] (_tellame_) of the king who held the one crown of [[place-eilwith|Eilwìth]] in the centuries when both elder peoples governed the island under it, made at his court and kept today by [[lore-vardain|the Vardain]] of [[place-vardainvalleys|the high valleys]] beneath [[place-vorgald|Vorgald]]. A Sinale praise-song praises the deed and withholds the doer, and this one withholds him entirely: the king is never named, and the song calls him only by what he does, _sendeppinno_, "the one who stays." Most lines open on their verb, as a Sinale sentence does, so that the act is heard before the actor; each stanza carries one deed and closes on the same refrain; and the song is sung in the present throughout, as the Sinale sing what is long past. The Vardain sing it on the evening of the year's last delivery to the Gate, when the road up the mountain has closed behind the carts and the valleys are about to be alone until the thaw. Everyone sings; there is no singer. The native reading below is Sinale. The Vardain sing the song in their valley tongue, where only the refrain and the promise keep that tongue's own order.
+**The Praise of the One Who Stays**, _Sendeppinnoren tellame_, is a [[lore-flksenali|Senali praise-song]] (_tellame_) of the king who held the one crown of [[place-eilwith|Eilwìth]] in the centuries when both elder peoples governed the island under it, made at his court and kept today by [[lore-vardain|the Vardain]] of [[place-vardainvalleys|the high valleys]] beneath [[place-vorgald|Vorgald]]. A Senali praise-song praises the deed and withholds the doer, and this one withholds him entirely: the king is never named, and the song calls him only by what he does, _sendeppinno_, "the one who stays." Most lines open on their verb, as a Senali sentence does, so that the act is heard before the actor; each stanza carries one deed and closes on the same refrain; and the song is sung in the present throughout, as the Senali sing what is long past. The Vardain sing it on the evening of the year's last delivery to the Gate, when the road up the mountain has closed behind the carts and the valleys are about to be alone until the thaw. Everyone sings; there is no singer. The native reading below is Senali. The Vardain sing the song in their valley tongue, where only the refrain and the promise keep that tongue's own order.
 
-The gate-folk of the song are the humans the [[lore-flkkhazar|Khazari]] carried across to farm beneath [[place-vorgald|Vorgald]], an older people than the [[lore-pelwarpepl|Pelwar]], and the few who came after them and were taken in. They are the Vardain's own forebears, which no Vardain knows: the valleys sing the gate-folk and the boat-folk as other people, long gone, whom their lords once kept. The song came down to the valleys through no gift of the Sinale, and the Vardain hold it as they hold the rest of what happened to their lords: plainly, and with the counts kept exact. The names the king gave the island's places went with the Sinale tongue; the valley rendering keeps the deeds and not the names, and the three peaks he names last are the ones the island calls [[place-threesisters|the Three Sisters]]. The song gives the makers no name either; it says only that the king's people had stopped speaking to them, and that he had not.
+The gate-folk of the song are the humans the [[lore-flkkhazar|Khazari]] carried across to farm beneath [[place-vorgald|Vorgald]], an older people than the [[lore-pelwarpepl|Pelwar]], and the few who came after them and were taken in. They are the Vardain's own forebears, which no Vardain knows: the valleys sing the gate-folk and the boat-folk as other people, long gone, whom their lords once kept. The song came down to the valleys through no gift of the Senali, and the Vardain hold it as they hold the rest of what happened to their lords: plainly, and with the counts kept exact. The names the king gave the island's places went with the Senali tongue; the valley rendering keeps the deeds and not the names, and the three peaks he names last are the ones the island calls [[place-threesisters|the Three Sisters]]. The song gives the makers no name either; it says only that the king's people had stopped speaking to them, and that he had not.
 
-The song stops before its own ending. Beneath the three peaks he named, in [[lore-threesistrs|the decisive battle of the Great War]], the king was killed, and his people gave up the crown and every claim outside [[place-hallowwood|the Hallowwood]] and left the Khazari to finish the war alone; the Khazari have not forgiven it. The Hallowwood does not sing this song, and the Vardain, who are the Khazari's people, are the one people on Eilwìth it has never received. So the promise the song ends on is sung in the valleys of the people it was made to, by the one people the Sinale of the island will not admit, and the Vardain sing it as it stands and add nothing to it.
+The song stops before its own ending. Beneath the three peaks he named, in [[lore-threesistrs|the decisive battle of the Great War]], the king was killed, and his people gave up the crown and every claim outside [[place-hallowwood|the Hallowwood]] and left the Khazari to finish the war alone; the Khazari have not forgiven it. The Hallowwood does not sing this song, and the Vardain, who are the Khazari's people, are the one people on Eilwìth it has never received. So the promise the song ends on is sung in the valleys of the people it was made to, by the one people the Senali of the island will not admit, and the Vardain sing it as it stands and add nothing to it.
 
 : The Praise of the One Who Stays {#song}
 
@@ -264,7 +264,7 @@ He stays. We stay./
 We do not walk away.
 :::
 
-::: {.verse form=tellame lang=sina enc=sinaveldikkoenc work=song}
+::: {.verse form=tellame lang=sina enc=senaveldikkoenc work=song}
 kelsa ovuu tevanni ahi hessave ovuu tevanninno/
 tenvas tevanninno uulse olnaroho oha ahi senvas onsa/
 kelsa ovuu ovaikke ulnavaho oso melti sarnevi aimetti/
@@ -503,4 +503,4 @@ ahi olkai ehii
 
 - [[lore-threesistrs|The Battle of the Three Sisters]] · [[place-threesisters|the Three Sisters]] · [[place-hallowwood|the Hallowwood]]
 - [[lore-vardain|The Vardain]] · [[place-vardainvalleys|the Vardain Valleys]] · [[place-vorgald|Vorgald]]
-- [[lore-flksinale|Sinale]] · [[skill-sinalelng|Sinale Language]] · [[lore-pelwarmigr|the Pelwar Migration]]
+- [[lore-flksenali|Senali]] · [[skill-senalilng|Senali Language]] · [[lore-pelwarmigr|the Pelwar Migration]]

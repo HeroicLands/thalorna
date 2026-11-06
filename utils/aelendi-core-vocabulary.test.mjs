@@ -151,14 +151,14 @@ test("four loves, bodily sensation, emotion and epistemic claims stay distinct",
         );
 });
 
-test("every borrowed word names a real Sinale source", () => {
-    const sinale = note(notePath("skill-sinalelng"));
-    const forms = new Set(sinale.fm.data.words.map((word) => word.form));
+test("every borrowed word names a real Senali source", () => {
+    const senali = note(notePath("skill-senalilng"));
+    const forms = new Set(senali.fm.data.words.map((word) => word.form));
     for (const word of language.fm.data.words.filter((word) => word.source?.kind === "borrowed")) {
-        assert.equal(word.source.language, "skill-sinalelng", word.form);
+        assert.equal(word.source.language, "skill-senalilng", word.form);
         assert(
             forms.has(word.source.form),
-            `${word.form}: unattested Sinale source ${word.source.form}`,
+            `${word.form}: unattested Senali source ${word.source.form}`,
         );
     }
 });

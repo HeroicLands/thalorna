@@ -7,7 +7,7 @@ description: The southern continent—fertile crescent along the Vilérian Sea, 
 tags: [continent]
 data:
   demonym: Zerathian
-  lore: [humanflk, flksinale, flkkhazar]
+  lore: [humanflk, flksenali, flkkhazar]
   parents: [worldthlrn]
   borders: [{to: sandvsmdr, bearing: E}]
   population: 29000000
@@ -49,7 +49,7 @@ The great northern empires are as ancient and urbanized as anything on Thalorna.
 
 The rainforest and savannah peoples are far more diverse and far less documented. What Ankarian scholars know suggests considerable variety: structured priesthoods and named spirit-courts in the more settled rainforest communities, ancestor veneration and landscape-tied spirit relationships among the pastoral peoples of the south. These traditions do not map neatly onto the pantheon model familiar to western Ankaris, and attempts to force that framework onto them have produced more confusion than clarity.
 
-Non-human peoples are extremely rare. A few scattered [[lore-flksinale|Sinale]] enclaves are rumored in the deepest rainforests; the [[lore-flkkhazar|Khazari]] are absent from almost all Zerathian accounts except for a handful of mountain halls in the continent's interior highlands.
+Non-human peoples are extremely rare. A few scattered [[lore-flksenali|Senali]] enclaves are rumored in the deepest rainforests; the [[lore-flkkhazar|Khazari]] are absent from almost all Zerathian accounts except for a handful of mountain halls in the continent's interior highlands.
 
 ## History
 

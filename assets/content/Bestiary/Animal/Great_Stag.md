@@ -262,7 +262,7 @@ Herds are made up of does and their young, and the dominant stag has the breedin
 
 ## What the Villages Do
 
-The stag is the wesk of Vristwald villages such as [Eichwald]{.name data-type="place/settlement"}, [Thragrund]{.name data-type="place/settlement"} and [Dagstein]{.name data-type="place/settlement"}, and a stag's hunt there is a rite, led by the Weskár. The lords of the Aureldian kingdoms keep woods for the chase, and take a great stag with hounds, a horn and a mounted party. The Sinale call the stag by a name of its own, and treat its kill as a theft from the wood. A stag's antlers are carved into hilts and combs, and the hide is made into gloves. A village that kills the master stag in its own woods loses the herd for several seasons.
+The stag is the wesk of Vristwald villages such as [Eichwald]{.name data-type="place/settlement"}, [Thragrund]{.name data-type="place/settlement"} and [Dagstein]{.name data-type="place/settlement"}, and a stag's hunt there is a rite, led by the Weskár. The lords of the Aureldian kingdoms keep woods for the chase, and take a great stag with hounds, a horn and a mounted party. The Senali call the stag by a name of its own, and treat its kill as a theft from the wood. A stag's antlers are carved into hilts and combs, and the hide is made into gloves. A village that kills the master stag in its own woods loses the herd for several seasons.
 
 ## Signs
 

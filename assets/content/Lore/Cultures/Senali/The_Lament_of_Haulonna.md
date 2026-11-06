@@ -3,10 +3,10 @@ shortcode: lamenthaulonna
 name: {full: The Lament of Haulonna, sina: [haulonnaren neltava]}
 type: lore
 subType: literature
-description: "The Sinale lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by name, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
-tags: [sinale]
+description: "The Senali lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by name, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
+tags: [senali]
 data:
-  culture: sinaleclt
+  culture: senaliclt
   packFolder: settinglore
   form: neltava
   subjects:
@@ -20,11 +20,11 @@ data:
 # terran_analog: "Canu Heledd and the Llywarch Hen englynion, for the survivor's refrain over the empty hall; the Kalevala and the Kanteletar, for the line restated by the line that follows; Karelian lament-singing, which calls the dead by name and circumlocution; Finnic origin-charms, which tell how a harm was made so that it can be undone."
 ---
 
-**The Lament of Haulonna**, _Haulonnaren neltava_, is sung by the [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] when a solitary traveler brings word from [[place-haulonna|Thalmdal]], the valley they call Haulonna, the hearth of the unfallen leaf. The singers call five of its dead: [Pelvaila Pelvainto]{.name data-type="being/npc"}, [Kinsatti Hallesinto]{.name data-type="being/npc"}, [Kelkasitta Nwominto]{.name data-type="being/npc"}, [Toimuvo Sulmento]{.name data-type="being/npc"} and [Porkila Ilevanto]{.name data-type="being/npc"}. Porkila is kin to the singers; through her, the other four belong to their lament.
+**The Lament of Haulonna**, _Haulonnaren neltava_, is sung by the [[lore-flksenali|Senali]] of [[place-hallowwood|the Hallowwood]] when a solitary traveler brings word from [[place-haulonna|Thalmdal]], the valley they call Haulonna, the hearth of the unfallen leaf. The singers call five of its dead: [Pelvaila Pelvainto]{.name data-type="being/npc"}, [Kinsatti Hallesinto]{.name data-type="being/npc"}, [Kelkasitta Nwominto]{.name data-type="being/npc"}, [Toimuvo Sulmento]{.name data-type="being/npc"} and [Porkila Ilevanto]{.name data-type="being/npc"}. Porkila is kin to the singers; through her, the other four belong to their lament.
 
-A _neltava_ opens with [[lore-goddreams|The God of Dreams]], whom the Sinale call Aulveira. In the singers' account the god takes the dead to [Ollevikko]{.name data-type="place"}, the gathering of the dead. A lament closes with a familiar line affirming that gathering. Haulonna's dead remain captive in the valley, and this lament leaves that line unsung. The long-watcher, [Ansorutti Lonkunto]{.name data-type="being/npc"}, is described at work inside the prison and never named in the verse. The singers keep his name and leave him at his watch.
+A _neltava_ opens with [[lore-goddreams|The God of Dreams]], whom the Senali call Aulveira. In the singers' account the god takes the dead to [Ollevikko]{.name data-type="place"}, the gathering of the dead. A lament closes with a familiar line affirming that gathering. Haulonna's dead remain captive in the valley, and this lament leaves that line unsung. The long-watcher, [Ansorutti Lonkunto]{.name data-type="being/npc"}, is described at work inside the prison and never named in the verse. The singers keep his name and leave him at his watch.
 
-The Sinale verse moves in pairs, with an answering line set inward. Alliteration falls on the first stressed syllables, joining an act to its bearer; the answering line repeats an image or turns it against itself. Each called name keeps its full spelling and takes the falling pitch of direct address in performance. The written reading leaves pitch unmarked. The translation follows the images and sense of the [[skill-sinalelng|Sinale]] lines.
+The Senali verse moves in pairs, with an answering line set inward. Alliteration falls on the first stressed syllables, joining an act to its bearer; the answering line repeats an image or turns it against itself. Each called name keeps its full spelling and takes the falling pitch of direct address in performance. The written reading leaves pitch unmarked. The translation follows the images and sense of the [[skill-senalilng|Senali]] lines.
 
 The [[lore-aelendnppl|Áelendan People]] hold the lament as a gift to an embassy received in the Hallowwood. Their Tradition Keepers are the only humans who sing it. Their copy preserves a missing line in the roll of paths, and the singers' silence where the closing line belongs.
 
@@ -310,7 +310,7 @@ Here stands the line that ends a lament./
 .Every one of us knows it. Toimuvo, you knew it, who had your name a year.
 :::
 
-::: {.verse form=neltava lang=sina enc=sinaveldikkoenc work=lament}
+::: {.verse form=neltava lang=sina enc=senaveldikkoenc work=lament}
 lonsi evesi vitteltos iha teipannuho lonsi lirne ehiitos kuse onsa/
 .irtal onsa iltettu leikeno lonsi onsa vekkanelo evatte onsa seltì onsa/
 seltì onsa mavisa seltì onsa uulse roselo rauttu aume esoho/
@@ -318,7 +318,7 @@ seltì onsa mavisa seltì onsa uulse roselo rauttu aume esoho/
 ovuu oso tenvas melketos iha teipannuho aukkenni ehii ovuu kelsa ovuu iha ennos ummes/
 .leevi ovuu ahi aulten onsa iltettu lìsse ehiiho oso ahi aulten onsa
 
-entel selkorota sinalo ahi selnavi onsa/
+entel selkorota senalo ahi selnavi onsa/
 .senval aulveira lirne oso selkorota/
 ahi evatte ehii mavisa tenvas raivas tìltete ehii onsa ahi evatte ehii/
 .raakke raivas ollevinu raivas koldiho/
@@ -593,5 +593,5 @@ ihaho seltì tìlne oso selvani neltava/
 ## See Also
 
 - [[place-haulonna|Haulonna]] · [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]] · [[affiliation-nahild|Faith of Nahild]]
-- [[lore-goddreams|The God of Dreams]] · [[lore-flksinale|Sinale]] · [[place-hallowwood|the Hallowwood]]
-- [[skill-sinalelng|Sinale Language]] · [[skill-sinalelng#lexicon|Sinale Lexicon]] · [[lore-aelendnppl|Áelendan People]]
+- [[lore-goddreams|The God of Dreams]] · [[lore-flksenali|Senali]] · [[place-hallowwood|the Hallowwood]]
+- [[skill-senalilng|Senali Language]] · [[skill-senalilng#lexicon|Senali Lexicon]] · [[lore-aelendnppl|Áelendan People]]

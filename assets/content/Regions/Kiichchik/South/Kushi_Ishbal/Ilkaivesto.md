@@ -3,28 +3,28 @@ shortcode: ilkaivesto
 name: {full: Ilkaivesto}
 type: place
 subType: settlement
-description: "The southern conclave of the Sinale in Kì'ìch'chik, in the great swamp of the lowland below K'ushi Ish'bal's plateau, the last green country north of the wastes."
+description: "The southern conclave of the Senali in Kì'ìch'chik, in the great swamp of the lowland below K'ushi Ish'bal's plateau, the last green country north of the wastes."
 tags: [village, swamp]
 data:
   demonym: null
-  lore: [flksinale]
+  lore: [flksenali]
   parents: [kuxiixbalrgn]
   population: null
   packFolder: kuxiixbal
-  culture: sinaleclt
+  culture: senaliclt
 ---
 
-**Ilkaivesto**, the place of herons in the [[skill-sinalelng|Sinale language]], is the southernmost of the three conclaves the [[lore-flksinale|Sinale Folk]] keep in [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], in the great swamp of the lowland east of the plateau, where the land falls away below the sacred lake into slow rivers and standing water. South of the swamp the waste of [[place-xelemixbalrgn|Shelem Ish'bal Region]] begins. Nobody outside it has counted the Sinale there.
+**Ilkaivesto**, the place of herons in the [[skill-senalilng|Senali language]], is the southernmost of the three conclaves the [[lore-flksenali|Senali Folk]] keep in [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], in the great swamp of the lowland east of the plateau, where the land falls away below the sacred lake into slow rivers and standing water. South of the swamp the waste of [[place-xelemixbalrgn|Shelem Ish'bal Region]] begins. Nobody outside it has counted the Senali there.
 
 ## What a Traveler Finds
 
 The swamp is the last green country before the waste, and it is green to excess. In the wet season the rivers spread over the lowland until it is one sheet of water broken by islands of trees, floating meadows of weed and channels deep enough for a canoe. In the dry season the water draws back into lagoons and the herons, storks and spoonbills crowd onto the mud in thousands. The water here is good to drink, and the swamp's beasts are the ordinary caiman, snakes and fish of any lowland river.
 
-A traveler can pole a canoe along the swamp's western channels for days. The Sinale are somewhere in the deep of it, and a canoe that turns toward them comes out of the reeds into a lagoon it has already crossed. Nobody has seen a dwelling there. The plateau's people know the deep swamp by its herons, which rise from it at evening in flights larger than anywhere else on the lowland.
+A traveler can pole a canoe along the swamp's western channels for days. The Senali are somewhere in the deep of it, and a canoe that turns toward them comes out of the reeds into a lagoon it has already crossed. Nobody has seen a dwelling there. The plateau's people know the deep swamp by its herons, which rise from it at evening in flights larger than anywhere else on the lowland.
 
 ## The Plateau's People
 
-The people nearest the swamp are the hunters and fishers of the plateau's eastern rim, who go down in the dry season for feathers, hides and fish and keep to the swamp's edges. They say that the deep swamp belongs to the tall people, that a hunter who follows the herons inward comes home empty-handed and days late, and that nothing worse happens to him. They leave the deep swamp alone. The water priestesses of [[place-ixkulchalix|Ishkul Ch'alish]] count the swamp among the lowland's waters and hold no rite in it. Neither the Ts'enmah of [[affiliation-kuxiixbal|K'ushi Ish'bal]] nor the temples have ever sent anyone to the Sinale, and the Sinale have never come up to the plateau.
+The people nearest the swamp are the hunters and fishers of the plateau's eastern rim, who go down in the dry season for feathers, hides and fish and keep to the swamp's edges. They say that the deep swamp belongs to the tall people, that a hunter who follows the herons inward comes home empty-handed and days late, and that nothing worse happens to him. They leave the deep swamp alone. The water priestesses of [[place-ixkulchalix|Ishkul Ch'alish]] count the swamp among the lowland's waters and hold no rite in it. Neither the Ts'enmah of [[affiliation-kuxiixbal|K'ushi Ish'bal]] nor the temples have ever sent anyone to the Senali, and the Senali have never come up to the plateau.
 
 ## Hooks
 
@@ -33,7 +33,7 @@ The people nearest the swamp are the hunters and fishers of the plateau's easter
 
 ## See Also
 
-[[lore-flksinale|Sinale Folk]]
+[[lore-flksenali|Senali Folk]]
 : the people of the conclave
 
 [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]

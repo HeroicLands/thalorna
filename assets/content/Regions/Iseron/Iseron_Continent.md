@@ -69,5 +69,5 @@ What draws the occasional expedition south is not trade but the ruins—and the 
 [[affiliation-kalihara|Kalihara]]
 : Source of the only commentary anywhere that speculates about the ruins
 
-[[lore-flksinale|Sinale]], [[lore-flkkhazar|Khazari]]
+[[lore-flksenali|Senali]], [[lore-flkkhazar|Khazari]]
 : Elder Races, whose relationship (if any) to the Iseronian ruins is unknown

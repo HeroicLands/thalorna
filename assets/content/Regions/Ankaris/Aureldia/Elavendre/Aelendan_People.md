@@ -14,7 +14,7 @@ Culture
 : [[lore-aelendanclt|Áelendan]]
 
 Related peoples
-: [[lore-pelwarpepl|Pelwar People]] (ancestral), [[lore-flksinale|Sinale]] (neighbors)
+: [[lore-pelwarpepl|Pelwar People]] (ancestral), [[lore-flksenali|Senali]] (neighbors)
 
 Language
 : [[skill-aelendlng|Áelendi]]
@@ -32,15 +32,15 @@ The name "People of the Pact" refers to the [Kindred Pact]{.name data-type="lore
 
 Áelendan communities are organized tribally, with authority vested in councils of elders rather than hereditary nobility. Leadership is earned through demonstrated wisdom, skill in the old ways, and service to the community. The Áelendan are [[lore-aelendanclt|deeply conservative]], almost to the point of it defining them, and their beliefs, mores and obligations are described in [[lore-aelendanclt|the Áelendan culture note]].
 
-The Áelendan speak [[skill-aelendlng|Áelendi]], a Proto-Pelwar tongue heavily influenced by Sinale, with many Sinale loanwords; they do not speak Sinale. They write it in the [[skill-clthndscrpt|Veldikko]], and carve in the [[skill-thrvrdhscrpt|Thurarth]] runes. See [[skill-aelendlng|Áelendi Language]] for linguistic details.
+The Áelendan speak [[skill-aelendlng|Áelendi]], a Proto-Pelwar tongue heavily influenced by Senali, with many Senali loanwords; they do not speak Senali. They write it in the [[skill-clthndscrpt|Veldikko]], and carve in the [[skill-thrvrdhscrpt|Thurarth]] runes. See [[skill-aelendlng|Áelendi Language]] for linguistic details.
 
 ## Relationship with the Élavendri
 
 The relationship between the Áelendan and the settled [[lore-elavendrnppl|Élavendri]] is one of mutual respect, and the crown of [[affiliation-kngdmlvndr|Élavendre]] protects Áelendan sacred ground by law ([[lore-aelendanclt#the-elavendri|the Élavendri]]).
 
-## Relationship with the Sinale
+## Relationship with the Senali
 
-The Áelendan maintain a uniquely close neighborly relationship with the enclaves of the [[lore-flksinale|Sinale Folk]] in the deep forests. This is not an alliance in any formal sense—the Sinale have kings, queens and lords of their own, who do not work as human ones do—but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Sinale and with the other fae beings that inhabit the ancient forests. Áelendan grovekeepers practice forms of magic that bear a distant, diluted resemblance to Sinalean arts. The Sinale love the Áelendan and keep them apart from [[lore-flksinale#the-numinous|the numinous]]: the Áelendan are taught its outer fringes only. They have the concept and cannot fully apprehend it, because it is closed to humans, and no Áelendan practices the inner Sinale ways. Why the Sinale have opened themselves to the Áelendan in a way they do not to other peoples is a question the Sinale have never explained, and that the Áelendan do not discuss.
+The Áelendan maintain a uniquely close neighborly relationship with the enclaves of the [[lore-flksenali|Senali Folk]] in the deep forests. This is not an alliance in any formal sense—the Senali have kings, queens and lords of their own, who do not work as human ones do—but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Senali and with the other fae beings that inhabit the ancient forests. Áelendan grovekeepers practice forms of magic that bear a distant, diluted resemblance to Senalian arts. The Senali love the Áelendan and keep them apart from [[lore-flksenali#the-numinous|the numinous]]: the Áelendan are taught its outer fringes only. They have the concept and cannot fully apprehend it, because it is closed to humans, and no Áelendan practices the inner Senali ways. Why the Senali have opened themselves to the Áelendan in a way they do not to other peoples is a question the Senali have never explained, and that the Áelendan do not discuss.
 
 ## Institutions
 
@@ -107,8 +107,8 @@ records of the northern interior are notably thin on what became of several of t
 [[affiliation-alndnwrdns|Áelendan Wardens]]
 : The order that protects sacred sites
 
-[[lore-flksinale|Sinale]]
+[[lore-flksenali|Senali]]
 : The elder race with whom the Áelendan maintain neighborly relations
 
 [[lore-theasking|The Asking]]
-: The Sinalean lay of the Pelwar band, held by the Tradition Keepers
+: The Senalian lay of the Pelwar band, held by the Tradition Keepers

@@ -32,7 +32,7 @@ Whoever cut the stand did so in the one winter the Áelendan hold up as the wors
 
 **The Áelendan account.** The people cut birch, left the smoke on the hollow and did not ask, and then went back to ask. The Stand is the place where the asking began ([[lore-theasking|The Asking]]).
 
-**The Sinale account.** The people broke the law, came back and sat with their hands bare, and the Sinale said yes without telling them the cost ([[lore-flksinale|Sinale]]).
+**The Senali account.** The people broke the law, came back and sat with their hands bare, and the Senali said yes without telling them the cost ([[lore-flksenali|Senali]]).
 
 **The Order's reading.** A theorist of the [[affiliation-univperavel|University of Péravel]] holds that the stumps are dead from a fungus that took the roots when the trees came down, and that a graft from a living birch would sprout. No Warden will let him try.
 

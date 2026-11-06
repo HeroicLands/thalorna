@@ -3,7 +3,7 @@ shortcode: talmenatirin
 name: {full: Tálmena}
 type: being
 subType: npc
-description: "A shaman of the Tírindi and the Speaker of the Moot of the Silver Forests, who keeps the order in which the shamen speak, speaks for none of them, and must keep the Moot together while it divides over what to carry to the Sinale."
+description: "A shaman of the Tírindi and the Speaker of the Moot of the Silver Forests, who keeps the order in which the shamen speak, speaks for none of them, and must keep the Moot together while it divides over what to carry to the Senali."
 tags: []
 data:
   icon: icon-person
@@ -39,7 +39,7 @@ Tálmena is a 58-year-old woman who stands 5'5" tall and is of light build. She 
 
 Tálmena of the Tírindi is a shaman of the tribe of the outer margin of [[place-silvrfrsts|the Silver Forests]], and the Speaker of [[affiliation-mtslvrfrsts|the Moot of the Silver Forests]], named at the Moot's first sitting of the year. She keeps the order in which the shamen of the Dhárgandi, the Tírindi and the Thanandi speak at [[place-eshalshldg|Ésalosa Lodge]] after each great seasonal rite, and she speaks for none of them.
 
-The Moot is divided over the Sinale. Someone cut a strip of bark from [[place-wkngstnd|the Waking Stand]], and it lies green in a chapterhouse collection at Péravel. One part of the Moot holds that its Carrier must go to [[place-ethalosse|Ethalosse]] now and say what has been done, because the wood is shared and its neighbors should hear it from the people who keep it. The other part holds that nothing should be carried until the man is found. Tálmena keeps the order of speaking and the peace, and the decision is not hers.
+The Moot is divided over the Senali. Someone cut a strip of bark from [[place-wkngstnd|the Waking Stand]], and it lies green in a chapterhouse collection at Péravel. One part of the Moot holds that its Carrier must go to [[place-ethalosse|Ethalosse]] now and say what has been done, because the wood is shared and its neighbors should hear it from the people who keep it. The other part holds that nothing should be carried until the man is found. Tálmena keeps the order of speaking and the peace, and the decision is not hers.
 
 ## Psyche
 

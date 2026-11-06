@@ -6,13 +6,13 @@
 /**
  * The Veldikko spelling guard (`npm run lint:veldikko`).
  *
- * Sinale and Áelendi use their own encoding documents. Every lexicon form,
+ * Senali and Áelendi use their own encoding documents. Every lexicon form,
  * derived form and personal or clan name must encode into the Veldikko block
  * (U+1ED50 to U+1EDFF) and word spaces. Unsupported source characters are
  * reported with the form that holds them.
  *
  * The spelling documents must agree with `utils/veldikko-spelling.mjs`.
- * Sinale's forms also match the independent `utils/veldikko-reference.mjs`
+ * Senali's forms also match the independent `utils/veldikko-reference.mjs`
  * spelling model, using code points from the installed font's glyph metadata.
  *
  * Findings are written `file:line:column: error: message`, the path first and
@@ -52,8 +52,8 @@ const BLOCK_END = 0x1edff;
 export const LANGUAGES = [
     {
         name: "sina",
-        enc: "sinaveldikkoenc",
-        note: notePath("skill-sinalelng"),
+        enc: "senaveldikkoenc",
+        note: notePath("skill-senalilng"),
         reference: true,
     },
     {
@@ -176,7 +176,7 @@ function hex(text) {
 }
 
 /**
- * Add Sinale's common marks to the fonts' plain-spelling reference conversion.
+ * Add Senali's common marks to the fonts' plain-spelling reference conversion.
  * The upstream converter predates the marks. It still decides every letter,
  * vowel, length sign and carrier; this adapter adds the stress sign for an
  * acute and the rise or fall sign for a tone after the vowel nucleus they
@@ -225,7 +225,7 @@ export function referenceWithPerformance(source, convert) {
         }
         if (marks.has(letter)) {
             if (!last || !vowels.has(last.letter) || last.signs.length)
-                throw new Error("a Sinale mark must annotate a vowel, one mark to a vowel");
+                throw new Error("a Senali mark must annotate a vowel, one mark to a vowel");
             last.signs.push(marks.get(letter));
         } else {
             tokens.push({ letter, signs: [] });
@@ -233,7 +233,7 @@ export function referenceWithPerformance(source, convert) {
     }
     const toned = (token) => token.signs.length > 0 && token.signs[0] !== STRESS;
     const misplaced = () =>
-        new Error("a Sinale tone mark belongs on the first letter of aa, ii or uu");
+        new Error("a Senali tone mark belongs on the first letter of aa, ii or uu");
     // Each vowel nucleus's signs, in written order: one entry for a lone or
     // held vowel, one per letter for a diphthong, which writes two vowel signs.
     const deliveries = [];
@@ -288,7 +288,7 @@ export function referenceWithPerformance(source, convert) {
  * @param {{name: string, enc: string, note: string, reference: boolean}} language
  * @param {object} ctx The canonical mapping context for the decoded index.
  * @param {object} record The decoded language note.
- * @param {((text: string) => string) | undefined} convert Sinale's reference converter.
+ * @param {((text: string) => string) | undefined} convert Senali's reference converter.
  * @returns {{checked: number, findings: string[]}}
  */
 export function checkLanguage(language, ctx, record, convert) {

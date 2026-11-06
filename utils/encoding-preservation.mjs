@@ -775,7 +775,7 @@ export const COMMON_STRESS_NOTES = new Set([
     "skill-aelendlng",
     "skill-hvarnlng",
     "skill-nordmalng",
-    "skill-sinalelng",
+    "skill-senalilng",
     "skill-nyalbnlng",
     "skill-provnzlng",
     "skill-tellumilng",
@@ -841,11 +841,11 @@ export const STRESS_PROSE = new Map([
         ],
     ],
     [
-        "skill-sinalelng",
+        "skill-senalilng",
         [
             [
-                "**Stress falls on the first syllable of every word, without exception.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _OL-tes-sa_, _SEL-kin-te_.",
-                "**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favors short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_.",
+                "**Stress falls on the first syllable of every word, without exception.** So a Senali word of any length can be said correctly on sight: _NUU-va_, _OL-tes-sa_, _SEL-kin-te_.",
+                "**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Senali favors short words with the weight at the front.** So a Senali word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_.",
             ],
             [
                 "**Writing and performance.** Stress stays on the first syllable. ",

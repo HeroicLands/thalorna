@@ -19,6 +19,6 @@
 - The K'otsel cord records are described knot by knot, Kaliharans keep their knowledge by memory through the Vaarthari skill, and the Ithari's stone marks are no script.
 - Spelling pages show how roman Vilari, Khazari, Nordmal and Khelathi are set in Semaron, Pirzath, Thuravark and Qalezu, each script's page shows words in it, and each says how a scribe marks stress.
 - Khelathi inscriptions can be written sign by sign in Zethu on any page, and Khelathi names such as Meqes can be written in Semaron, which writes its missing _q_ as _k_.
-- The Áelendan write their own tongue in the Sinale hand and carve in their old runes, the Élavendri write in Semaron, and ancient texts in the region are Áelendi.
-- The Veldikko, the Sinale hand, is written right to left.
+- The Áelendan write their own tongue in the Senali hand and carve in their old runes, the Élavendri write in Semaron, and ancient texts in the region are Áelendi.
+- The Veldikko, the Senali hand, is written right to left.
 - Thuravark and Qalezu write the letters they lack with their nearest letter, and every script writes ë as e.

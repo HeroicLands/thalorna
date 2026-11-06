@@ -4,7 +4,7 @@ name: {full: Aldorath Region}
 type: place
 subType: region
 description: >-
-  The lands the Kingdom of Aldorath holds—the fertile lowlands and gentle hills surrounding Eilwìth's great central lake, together with the southern forests where the Sinale keep their enclaves.
+  The lands the Kingdom of Aldorath holds—the fertile lowlands and gentle hills surrounding Eilwìth's great central lake, together with the southern forests where the Senali keep their enclaves.
 tags: [draft]
 data:
   demonym: null
@@ -22,7 +22,7 @@ data:
 The Aldorath Region is the heartland of [[place-eilwith|Eilwìth]]: the lowlands and hills around the
 great central lake, bounded by the mountains that separate them from the
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] to the northeast and running
-south into the forests where the Sinale enclaves lie.
+south into the forests where the Senali enclaves lie.
 
 ## Character
 

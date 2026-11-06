@@ -13,7 +13,7 @@ Leiwo teaches that the world is sustained by Lei, the cosmic energy that runs th
 
 ## One Energy, Many Models
 
-The Tantsou Lei is the same cosmic force every magical tradition draws on. The [[affiliation-ordoarcanis|Thordimalon]] pictures it in elemental geometries; the [[lore-flksinale|Sinale]] feel it as a living current through the natural world; the [[lore-flkkhazar|Khazari]] hear it as a resonance in stone and metal. Each people builds its own mental model of one reality.
+The Tantsou Lei is the same cosmic force every magical tradition draws on. The [[affiliation-ordoarcanis|Thordimalon]] pictures it in elemental geometries; the [[lore-flksenali|Senali]] feel it as a living current through the natural world; the [[lore-flkkhazar|Khazari]] hear it as a resonance in stone and metal. Each people builds its own mental model of one reality.
 
 The Tantsou model is administrative. Lei is the energy that keeps sorted things in their categories. The model sees some things the others miss, and it is blind where they are not.
 

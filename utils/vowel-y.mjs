@@ -22,7 +22,7 @@ export const TONGUES = {
     elavendri: "skill-elvndrlng",
     helonic: "skill-helonclng",
     nordmal: "skill-nordmalng",
-    sinale: "skill-sinalelng",
+    senali: "skill-senalilng",
     varokhi: "skill-varokhlng",
 };
 
@@ -36,7 +36,7 @@ const fold = (text) => text.normalize("NFC").toLowerCase();
  * A word with every vowel _y_ respelled.
  *
  * @param {string} word
- * @param {{front?: boolean}} [options] - `front` writes Sinale's _ì_ and reads
+ * @param {{front?: boolean}} [options] - `front` writes Senali's _ì_ and reads
  *   _ny_ as _n_ and a vowel.
  * @returns {string}
  */

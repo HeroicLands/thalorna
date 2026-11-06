@@ -30,7 +30,7 @@ substantial share of a continent.
 Close to six centuries after they appeared, Grukar destroyed Khazartúrn—and this is the
 most misunderstood fact about them. They did not do it and could not have: **Ahks do not cooperate**,
 which is the constraint that has always kept the Grukar a frontier nuisance rather than a conquest. An outlaw of
-[[lore-flksinale|Sinale Folk]] wielding [[miscgear-secondvoice|the Second Voice]] took tens of
+[[lore-flksenali|Senali Folk]] wielding [[miscgear-secondvoice|the Second Voice]] took tens of
 thousands of them from their spawners and used them as a weapon. The tribes so emptied did not
 recover; an Ahk cannot follow its own spawn, and does not stop existing afterward.
 

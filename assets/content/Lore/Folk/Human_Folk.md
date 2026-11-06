@@ -19,7 +19,7 @@ and cities. The [[lore-aelendnppl|Áelendan People]], the [[lore-nordheimnclt|No
 while maintaining distinct customs and loyalties.
 
 Human craft and learning carry traces of contact with the
-[[lore-flkkhazar|Khazár Folk]] and [[lore-flksinale|Sinale Folk]]. Scholars call this
+[[lore-flkkhazar|Khazár Folk]] and [[lore-flksenali|Senali Folk]]. Scholars call this
 [[lore-longnhrtnc|the Long Inheritance]]. Its extent remains disputed, especially
 in healing, song and magic. Relations with the Elder Folk vary by country; most
-humans know the Sinale only through stories.
+humans know the Senali only through stories.
