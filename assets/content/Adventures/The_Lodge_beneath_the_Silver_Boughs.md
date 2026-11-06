@@ -4,26 +4,35 @@ name: {full: The Lodge beneath the Silver Boughs}
 type: scenario
 subType: adventure
 description: "A Warden leads the party along the margin of the Silver Forests to find a missing envoy and a stolen casket, and something in a ring of overturned stones takes them one at a time."
-tags: [draft]
+tags: []
 data:
   parents: []
-  locations: [hntrsrng]
-  cast: []
-  factions: []
+  locations: [hntrsrng, silvrfrsts, eshalshldg]
+  cast:
+    - sirganatirin
+    - norvenhalren
+    - astherenwrdn
+    - devrikveldr
+    - vendrikothrl
+    - torlanslrth
+    - shdwstlk
+    - thalrkhlrn
+    - dorlenkirs
+  factions: [alndnwrdns, kngdmlvndr, aelndntrbs]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-An envoy carrying a sealed casket to [[place-eshalshldg|Ésalosa Lodge]] has gone missing on the road beside [[place-hntrsrng|the Hunter's Ring]], and the casket with him. Thieves pried the silver from the ring's boundary stones on their way through, and the stones they overturned have let the ring's hunter out of its bounds. A Warden takes the party in to find the envoy. The wood closes behind them, and the hunter takes the one who is alone. The one survivor in the keepers' lodge tells the party the hunter took the envoy's Warden first, and the hunter, which can only say what its prey said, tells the party something else.
+## Overview {#overview}
 
-## Overview
+An envoy carrying a sealed casket to [[place-eshalshldg|Ésalosa Lodge]] has gone missing on the road beside [[place-hntrsrng|the Hunter's Ring]], and the casket with him. Thieves pried the silver from the ring's boundary stones on their way through, and the stones they overturned have let the ring's hunter out of its bounds. A Warden takes the party in to find the envoy. The wood closes behind them, and the hunter takes the one who is alone. The one survivor in the keepers' lodge tells the party the hunter took the envoy's Warden first, and the hunter, which can only say what its prey said, tells the party something else.
 
 The Hunter's Ring is a ring of carved boundary stones on the outer margin of [[place-silvrfrsts|the Silver Forests]], holding the ground of a fae hunter the [[affiliation-alndnwrdns|Wardens]] call _súldinno_. Inside the stones it may take whatever walks there; outside them it may take nothing. It takes one at a time, and always the one who is alone. It hangs what it takes in woven branches in a moonlit clearing at the ring's heart, and it walks in the shapes and calls in the voices of those it has taken.
 
-The envoy [Devrik Véldarin]{.name data-type="being/npc"} was traveling the road under the escort of the Warden [Ástheren]{.name data-type="being/npc"}, carrying a silver casket for the great council at Ésalosa. A band of lowland poachers under [Vendrik Othral]{.name data-type="being/npc"} robbed them on the road at dusk, took the casket, and fled uphill into the ring, prying the silver bands off the stones as they went. With four stones down, the hunter's ground has no edge. It has taken most of the thieves, and the envoy, and Ástheren is dead. One poacher, [Norven Halren]{.name data-type="being/npc"}, is holed up in the old keepers' lodge with a wound in his side, and has not slept for two nights.
+The envoy [[being-devrikveldr|Devrik Véldarin]] was traveling the road under the escort of the Warden [[being-astherenwrdn|Ástheren]], carrying a silver casket for the great council at Ésalosa. A band of lowland poachers under [[being-vendrikothrl|Vendrik Othral]] robbed them on the road at dusk, took the casket, and fled uphill into the ring, prying the silver bands off the stones as they went. With four stones down, the hunter's ground has no edge. It has taken most of the thieves, and the envoy, and Ástheren is dead. One poacher, [[being-norvenhalren|Norven Halren]], is holed up in the old keepers' lodge with a wound in his side, and has not slept for two nights.
 
-The Warden [Sírgana]{.name data-type="being/npc"} of the [Tírindi]{.name data-type="affiliation/lineage"}, Ástheren's partner on the road, has come to find them. She has sense enough to know that a Warden alone in the ring is prey, and the party is her company.
+The Warden [[being-sirganatirin|Sírgana]] of the [Tírindi]{.name data-type="affiliation/lineage"}, Ástheren's partner on the road, has come to find them. She has sense enough to know that a Warden alone in the ring is prey, and the party is her company.
 
 The supernatural stays partly unexplained. Nobody knows who set the stones, or why the hunter was given its ground, and the party does not need to.
 
@@ -37,7 +46,7 @@ The party learns how the hunter works from several sources, and each fact can be
 | It wears the taken.                    | The journal's last line; Norven's account; the hunter seen whole in Scene Three or Four                                      |
 | It says only what its prey said.       | The voice in Scene Three, which repeats itself word for word; Sírgana's song; the envoy in Scene Four                        |
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 The full truth of the ring—what the hunter is, what the Wardens' last verses say, and what happened at the lodge door—is in [[place-hntrsrng#truth|the truth of the Hunter's Ring]]. In short: Ástheren came to the lodge alive, at dusk two days before the party arrives, and Norven, who had already seen the hunter walk back in a dead thief's shape, put his boar-spear through the Warden's back. He dragged the body out and barred the door, and the hunter took what lay alone outside. Norven's story, that the thing at his hearth was already dead, covers the cloak hanging by his fire. The hunter can only repeat what its prey said, and Ástheren's last words were said to Norven.
 
@@ -67,7 +76,7 @@ The reveal belongs in Scene Three, and it comes from the hunter's own rule. The 
 
 - **In the lodge.** The voice calls from the canopy above the barred back room where Norven lies, and Norven, behind the bar, starts to shout back at it.
 - **In the open.** The voice calls from the branches over the party's heads, in the dark between it and the lodge, and whoever has Norven beside them feels him go rigid.
-- **If Norven is already taken.** Ástheren's voice calls, and Norven's own voice answers it from higher in the branches with what he said at the door: "Stay off me. I watched it take [Torlan]{.name data-type="being/npc"}, and Torlan came back."
+- **If Norven is already taken.** Ástheren's voice calls, and Norven's own voice answers it from higher in the branches with what he said at the door: "Stay off me. I watched it take [[being-torlanslrth|Torlan]], and Torlan came back."
 - **If the party killed Norven in Scene One.** The same exchange of voices, from the trees above the lodge, and the party knows whom it has killed.
 
 > [!TIP]
@@ -86,7 +95,7 @@ Once the reveal lands, the party is no longer only finding an envoy. Sírgana wa
 > [!TIP]
 > Play Sírgana's demand as quiet and certain. She does not threaten the party, and she does not walk off alone, because a Warden alone in the ring is prey. She says what the law of the ring is and waits for the party to give her Norven.
 
-## Hooks
+## Hooks {#hooks}
 
 Pick the entry that suits the hero. Each leads to the lodge with Sírgana.
 
@@ -95,7 +104,10 @@ Pick the entry that suits the hero. Each leads to the lodge with Sírgana.
 - **The leader.** The envoy is the leader's kinsman, friend or rival, and the casket carries the crown's word to the Lodge. The leader goes to the Wardens' post on the road and asks, which is the only way a lowlander enters that country.
 - **The lone wanderer.** The wanderer is on the road at dusk when a Warden steps out of the trees, looks at the wanderer for a long moment, and asks for company for one night. She does not say why one companion is better than none.
 
-## Opening
+> [!NOTE]
+> The Péravel fence is run as [[being-dorlenkirs|Dorlen Kirsal]], a stock smuggler, and the poachers of Vendrik's band and the envoy's two servants, living or hanging, as [[being-thalrkhlrn|Thalrik Halren]], a stock woodcutter.
+
+## The Opening {#opening}
 
 Read or paraphrase:
 
@@ -104,7 +116,9 @@ Read or paraphrase:
 > [!TIP]
 > Let the blaze sit for a breath before anyone speaks. The opening's job is the first cold certainty that the wood is wrong, and the closing shutter is the first thing the party walks toward.
 
-## Scene One: The Lodge
+## Scenes {#scenes}
+
+### Scene One: The Lodge
 
 **Purpose.** Arrival and first unease. Set the practical task, find the envoy and the casket, show that something has already walked here wearing a familiar face, and put the cloak, the spear and the floor in front of the party.
 
@@ -142,7 +156,7 @@ Read or paraphrase:
 
 **If bypassed, failed or cut short.** A party that goes past the lodge into the trees finds that the path brings it back to the lodge within the hour, from the uphill side. A party that kills Norven finds his body gone from the floor by morning and the door still barred from inside; his voice calls in Scene Three all the same. If the party never enters, Norven opens the door a crack at dawn and throws the cloak out onto the step, where Sírgana finds it, and the scraped spear is in his hands as he does it.
 
-## Scene Two: The Journal and the Carvings
+### Scene Two: The Journal and the Carvings
 
 **Purpose.** Evidence of something wrong. Give the party the means to understand the hunter, from more than one source, while the source itself stays out of sight, and put the envoy's own dates into the party's hands.
 
@@ -182,7 +196,7 @@ The sack of silver bands is what was pried from the stones. Without it a set sto
 
 **If bypassed, failed or cut short.** A party that never reads the journal or the carvings still meets the facts later: the envoy, alive in Scene Four, says the same things in a whisper; the standing stones in the wood carry the same marks as the lodge walls; and the hunter's own conduct in Scene Three teaches the rule about the one alone at a cost. If the sack of silver is left behind, Sírgana goes back for it, or the party finds a few bands dropped on the path where a thief fell. If the journal is never opened, Sírgana finds it in the satchel in Scene Three, by the light of the fire, and reads the last two entries aloud.
 
-## Scene Three: The Voice in the Trees
+### Scene Three: The Voice in the Trees
 
 **Purpose.** The horror draws close, and the reversal lands. Show that the hunter is active, that a locked room is no refuge and that the way out is gone, and let the hunter tell the party what happened at the lodge door.
 
@@ -191,6 +205,9 @@ The sack of silver bands is what was pried from the stones. Without it a set sto
 **Situation.** At nightfall Norven, fevered, asks to be shut in the lodge's back room, which has one window, barred with oak, and a door with a bar on the inside. He wants walls between himself and the trees. The voice calls before midnight, and again each time the fire is fed, in the same words. Behind the barred door Norven begins to shout back at it. If the party leaves him barred in alone, the back room goes quiet some time after midnight. The bar is still across the door. The window bars are intact. Norven is gone, and a moment later his voice answers Ástheren's from high in the trees: "Stay off me. I watched it take Torlan, and Torlan came back."
 
 At first light, Sírgana walks the party down to the envoys' road, intending to send for more Wardens. The road is not there. Every track out of the lodge bends uphill within a few hundred paces. Her blazes from the day before turn up ahead of her, one after another, all pointing inward.
+
+> [!NOTE]
+> The hunter, the _súldinno_, is run as a [[being-shdwstlk|Shadowstalker]] that keeps the rules of the ring: it takes only the one who is alone, never within arm's reach of an upright stone, and never across a whole line of stones.
 
 **NPCs and threats.** The **hunter**, still not seen plainly: a tall, narrow shape glimpsed between trunks, too quiet for its size, gone when looked at. It calls in Ástheren's voice, and in Norven's once it has him. If anyone is alone, even for a moment, even behind a closed door, it is there. Sírgana is the likeliest next victim after Norven: she is the one who walks ahead, scouting, because that is a Warden's habit.
 
@@ -219,13 +236,13 @@ At first light, Sírgana walks the party down to the envoys' road, intending to 
 
 **If bypassed, failed or cut short.** A party that leaves the lodge before night is overtaken by the same events in the open: the voice calls from the canopy over the party's camp, and one of them, or Sírgana, walks a little ahead and is gone. A party that refuses to go inward finds the folded paths make the choice for it: every way leads to the clearing by moonrise. If Sírgana is taken and the party has no songs, the carvings on the standing stones in the wood still show the line, and the envoy in Scene Four knows the rest.
 
-## Scene Four: The Clearing
+### Scene Four: The Clearing
 
 **Purpose.** Confrontation. Show the source, make the earlier clues intelligible, let the party use what it learned, and make it choose what happens to Norven.
 
 > At the heart of the ring the trees open on a round clearing, silver under the moon. In the middle stands a vast tree whose lower branches are woven together into cradles of bough and bark, and things hang in them. One of them turns slowly as you look, and it is a man, and his eyes are open.
 
-**Situation.** In the cradles hang the taken: the envoy Devrik, alive and silent; two of the thieves, one alive; Norven, if he was taken, alive; Ástheren, dead, with a spear-head broken off in his back. Others hang higher, older, dry. The roots below are crowded with bones and with gear rotted to scraps. The casket hangs in a cradle with Vendrik Othral's pack, three branches up. The hunter is here, among the trunks at the clearing's edge, moving when the party moves.
+**Situation.** In the cradles hang the taken: the envoy Devrik, alive and silent; two of the thieves, and the living one is Vendrik Othral; Norven, if he was taken, alive; Ástheren, dead, with a spear-head broken off in his back. Others hang higher, older, dry. The roots below are crowded with bones and with gear rotted to scraps. The casket hangs in a cradle with Vendrik Othral's pack, three branches up. The hunter is here, among the trunks at the clearing's edge, moving when the party moves.
 
 **NPCs and threats.** The **hunter** at last, seen whole: very tall, long-limbed and thin, its joints bending where no joint should be, wearing Ástheren's leather and a thief's hood over a face that cannot be held in the eye. It moves between the trunks without sound and comes out of the dark at whoever is apart. It does not take what stands within arm's reach of an upright mark-stone, and it does not cross a line of stones that is whole. It is hard to wound and harder to catch; blades find it, but it is gone before a second blow. Wounding drives it off for a time; nothing the party carries is known to kill it, and the Wardens do not want it killed. Sírgana, if she lives, cuts Ástheren down first, and when she finds the spear-head she holds it up to Norven's spear, or to Norven in his cradle, without a word.
 
@@ -250,7 +267,7 @@ At first light, Sírgana walks the party down to the envoys' road, intending to 
 
 **If bypassed, failed or cut short.** A party that arrives unprepared, without the line or the silver, can still survive: an upright stone at the clearing's edge, the fifth from the gap, gives a refuge for those who reach it, and the hunter goes still among the roots at moonset until the next night. In the dark between moonset and dawn the party can cut down the captives, take the casket, and walk out along the line of standing stones, which the hunter's ground does not reach while the moon is down. The stones stay broken, and the Wardens must set them later. A party that fled the clearing can come back the next night by the same folded paths, with what it lacked.
 
-## Scene Five: Before Dawn
+### Scene Five: Before Dawn
 
 **Purpose.** Escape and aftermath. Resolve the casket, the envoy and Norven, pay out the reward, and leave the ring as it was, or not.
 
@@ -279,7 +296,11 @@ At first light, Sírgana walks the party down to the envoys' road, intending to 
 
 **If bypassed, failed or cut short.** A party that fled the ring without the casket hears within the season that the Wardens set the stones and recovered it from the roots. The reward goes to whoever brought out the envoy. A party that left the ring open is not welcome on the road again.
 
-## Aftermath
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The stones stay down, and the hunter's ground runs farther along the broken line each night. Sírgana goes in alone for her partner and is taken, and her voice joins Ástheren's in the trees. Norven's fever takes him or the hunter does, the envoy hangs silent in his cradle, and the casket never reaches Ésalosa. The envoys' road is closed by midwinter, the great council meets without the crown's word, and the Wardens send for enough company to set the stones themselves, and count the lowland's thieves against the lowland.
+
+## Aftermath {#aftermath}
 
 - **If the stones were set and the captives brought out,** the ring is whole, the paths are straight, and the Wardens owe the party.
 - **If Norven was left in the ring,** he hangs in the clearing until the hunter tires of him, and on still dusks the charcoal-burners of [[place-sourimael|Sóurimel]] hear two voices in the trees above the road, one asking for the spear to be put up and one refusing. The Wardens count the matter closed, and the party has the thanks of Ástheren's kin.
@@ -290,10 +311,11 @@ At first light, Sírgana walks the party down to the envoys' road, intending to 
 - **If the ring was left open,** the hunter's ground runs farther along the broken line each night, and the envoys' road is closed until the Wardens find enough company to set the stones.
 - **If the casket was opened,** the crown's word to the Lodge reaches the council broken, and the crown hears from the Lodge about it.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-hntrsrng|The Hunter's Ring]]—the stones, the lodge and the clearing
 - [[place-hntrsrng#truth|The truth of the Hunter's Ring]]—what happened at the lodge door
 - [[place-silvrfrsts|The Silver Forests]] · [[place-eshalshldg|Ésalosa Lodge]] · [[place-sorvanda|Sórvanda]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—Sírgana and her order
+- [[being-sirganatirin|Sírgana]] · [[being-norvenhalren|Norven Halren]] · [[being-devrikveldr|Devrik Véldarin]]
 - [[lore-faecourts|The Fae Courts]]—what the wood's hunters are said to answer to

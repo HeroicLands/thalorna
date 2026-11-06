@@ -53,8 +53,8 @@ The track runs inland from the shingle between two beacon stations of [[place-li
 
 ## Hooks {#hooks}
 
-- **A bard's last verse.** A College bard who crossed in search of the ballad's ending has not come back, and his master pays well for the bard or the verse.
-- **A raider's hoard.** The Forfeit-Men's plunder is real silver, real iron and real amber, and the ships' gear includes a chieftain's sword.
+- **A bard's last verse.** A student of the Colleges, [[being-valenadrndl|Válena Drindal]], crossed in search of the ballad's ending and has not come back, and her master pays well for the student or the verse.
+- **A raider's hoard.** The Forfeit-Men's plunder is real silver, real iron and real amber, and the ships' gear includes [[miscgear-chftswrddsk|a chieftain's sword]].
 - **A name.** A boy of the shore lost his father to the Ford and has been forgotten by his own mother. He does not know why.
 
 ## See Also

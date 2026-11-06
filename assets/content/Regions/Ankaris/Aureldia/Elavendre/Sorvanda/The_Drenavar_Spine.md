@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [alndntrblnds]
-  population: null
+  population: 35000
   government: aelndntrbs
   packFolder: elavendre
 
@@ -37,6 +37,8 @@ The Drenavar is part of a larger Áelendan sacred mountain country that extends 
 ## Geography
 
 The Drenavar rises steeply from the inland valleys of Élavendre, its peaks perpetually shrouded in mist and often capped in snow. The slopes support dense old-growth forest at lower elevations, yielding to alpine meadows and bare rock as altitude increases. The mountains are cut through by glacial valleys and clear lakes, and countless streams run down to feed the rivers of the lowlands. Passes through the range are few, often narrow, and—to outsiders attempting to cross without Áelendan escort—notoriously difficult to navigate. Travelers report that paths which appeared obvious on one day have shifted or vanished by the next, a phenomenon that the Áelendan do not bother to explain.
+
+About 35,000 Áelendan live in the range, in the forested valleys and on the high pastures below the snow, and their summer camps follow the herds up toward the tree line.
 
 The mountains are home to unusual concentrations of wildlife—some common to [[place-ankrscntnnt|Ankaris]], some rare, and some that appear to exist only in these ranges and the deep forests that ring them. Among the Áelendan, it is understood that not all of the creatures encountered in the mountains are ordinary beasts.
 

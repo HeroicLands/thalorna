@@ -80,6 +80,6 @@ The Order's scholars, who ask about the village's terms.
 
 ## Plot Hooks
 
-1. **The lamp that walked.** The mother of Alena Alveryn, a charcoal-burner's daughter who left with lowland strangers and did not return, says a lamp was seen walking in a straight line through the trees. Mélvesa asks a party to hear her out and to go no farther than the village's edge.
+1. **The lamp that walked.** [[being-selithalvrn|Selith Alverin]], the mother of [[being-alenaalvrn|Alena Alverin]], a charcoal-burner's daughter who left with lowland strangers and did not return, says a lamp was seen walking in a straight line through the trees. Mélvesa asks a party to hear her out and to go no farther than the village's edge.
 2. **The circuit's supply.** Sárena Párdalen's circuit is short of herbs, and the picking grounds are on Áelendan land. Mélvesa asks a party to ask the Wardens' leave for her.
 3. **The festival guest.** An outsider has arrived for the festival, is made welcome and is watched. Mélvesa asks a party to be the ones who watch.

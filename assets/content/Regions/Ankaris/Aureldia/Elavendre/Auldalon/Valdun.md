@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [auldalon]
+  routes:
+    - {to: leonrik, bearing: SE, mode: land, days: 10, terrain: [hills, road]}
+    - {to: trbtrd, bearing: SE, mode: land, days: 5, terrain: [hills, road]}
   population: 5200
   government: kngdmlvndr
   packFolder: elavendre
@@ -40,7 +43,7 @@ who would in any case have been the ones to worry about.
 
 ## History {#history}
 
-[[place-trbtrd|The road]] that reaches Valdun from the east is marked with imperial milestones, and the milestones stop at the gate. They were set when the legions marched into the hills and the queen treated with the _felzos_ (legate) in the town ([[lore-elvtribute|The Tribute of Élavendre]]), and the Empire laid no road beyond the treaty town. The town's first wall was raised in that year, and it has been rebuilt three times since.
+[[place-trbtrd|The road]] that reaches Valdun from the east, ten days by pack-train out of [[place-leonrik|Lyenrik]], is marked with imperial milestones, and the milestones stop at the gate. They were set when the legions marched into the hills and the queen treated with the _felzos_ (legate) in the town ([[lore-elvtribute|The Tribute of Élavendre]]), and the Empire laid no road beyond the treaty town. The town's first wall was raised in that year, and it has been rebuilt three times since.
 
 Valdun has been the march's muster ever since. The hill levy that harried the legion into the forest margin mustered under its walls, the sworn company of [[affiliation-brdrmltia|the Border Militia]] was posted here when the crown found that a levy alone could not be raised in time, and the drove fairs grew up in the yards the soldiers left empty between raids.
 

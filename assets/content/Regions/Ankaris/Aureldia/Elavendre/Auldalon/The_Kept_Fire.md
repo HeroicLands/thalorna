@@ -21,7 +21,7 @@ Where the [[place-auldalon|Áuldalon]] hills climb toward the mountains and the 
 When the Vilérian legions came north-west into the hills and the war at Valdun recounted in [[lore-elvtribute|the Tribute of Élavendre]] was fought, a cohort that followed a path at the forest margin was not seen again. The hill levy tells it as a victory of the ground. Hunters find the cohort's last ditched camp in the woods and cannot find it twice ([[place-auldalon|Áuldalon]]), and the drovers say the cohort went on from the camp to the hill, and that the men in the hall are the ones who stayed.
 
 :::secret {title="The truth of the Kept Fire"}
-The cohort's _Lusar_, [Solkimos]{.name data-type="being/npc"}, led it on a winter night into the fold, and found a hall with a lit door.
+The cohort's _Lusar_, [[being-solkimoslsr|Solkimos]], led it on a winter night into the fold, and found a hall with a lit door.
 
 He did not ask. A Vilérian _Lusar_ with frostbitten men at his back and a legion's name behind him demanded shelter for the Sovereign's soldiers. The one within, whom the [[lore-aelendnppl|Áelendan]] name _[Dáimela]{.name data-type="lore/spirit"}_, the Giver, answered in the manner of its kind: exactly. It gave a hall, a fire and bread. The _Lusar_ swore that his cohort would hold the place against all comers for as long as the Sovereign's name stood, and the Giver took him at his word.
 
@@ -55,7 +55,7 @@ The fold lies a day's walk south of the last Áuldalon drove road, where the pon
 
 - **The muster-roll.** A clerk of the _felzos_'s house at Péravel wants proof the cohort held, not deserted. It is worth money to a family that carries the cohort's name.
 - **A drover's brother.** A boy followed a lamp into the fold and has been counted at the door for three years.
-- **The banner.** A Vilérian collector pays for a cohort's standard. A Bardic College pays for the lament's last verse.
+- **The banner.** A Vilérian collector pays for a cohort's standard, and [[miscgear-keptstandard|the Kept cohort's]] hangs in the hall. A Bardic College pays for the lament's last verse.
 
 ## See Also
 

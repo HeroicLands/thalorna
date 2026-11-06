@@ -26,7 +26,8 @@
  *    summary-depth place and affiliation notes carry `{#present}` where the
  *    outline registry requires it. The per-note finding is the outline guard's.
  * 2. **`homed-being`** — a settlement longer than `rowMaxWords` that no
- *    being's `data.homes` resolves to.
+ *    being's `data.homes` resolves to, unless the registry's
+ *    `homedBeingExceptions` records an owner exception for its address.
  * 3. **`archetype-coverage`** — an archetype of the registry's `archetypes`
  *    list that no being of the land holds in `data.archetypes`, unless
  *    `archetypeAbsences` records the absence for that land. The summary also
@@ -212,6 +213,7 @@ export function check({ root = ".", registry = loadRegistry() } = {}) {
     for (const n of notes) {
         if (n.fm.type !== "place" || n.fm.subType !== "settlement") continue;
         if (wordCount(n.body) <= registry.rowMaxWords || homed.has(n.address)) continue;
+        if (registry.homedBeingExceptions?.[n.address]) continue;
         report(n, "homed-being", "settlement of summary depth has no being whose home it is");
     }
 

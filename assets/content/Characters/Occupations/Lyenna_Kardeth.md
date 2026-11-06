@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: {kngdmlvndr: {rank: 5}, twncnclprtaln: {rank: 3}, blackflame: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 5}, twncnclprtaln: {rank: 3}}
   gender: female
   species: humanflk
   born: 692.86

@@ -12,6 +12,8 @@ data:
   routes:
     - {to: hendrel, bearing: SW, mode: land, days: 1, terrain: [road]}
     - {to: durmelen, bearing: NE, mode: land, days: 2, terrain: [road, coast]}
+    - {to: morthalmrch, bearing: E, mode: land, days: 1, terrain: [coast, track]}
+    - {to: edriwald, bearing: NE, mode: land, days: 5, terrain: [coast, track]}
   population: 5600
   government: sarmelisconcl
   packFolder: elavendre

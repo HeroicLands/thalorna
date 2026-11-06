@@ -4,35 +4,55 @@ name: {full: The Toll You Will Not Miss}
 type: scenario
 subType: adventure
 description: "A ford rises only for the length of a dusk, and its keeper asks each traveler for something they will not miss until they reach the far bank."
-tags: [draft]
+tags: []
 data:
   parents: []
-  locations: [dskfrd]
-  cast: []
-  factions: []
+  locations: [dskfrd, lisere, hendrel]
+  cast:
+    - varlangrth
+    - valenadrndl
+    - glmsprt
+    - gnrthsldhfrngr
+    - taldorpardal
+    - solmerekalme
+    - sirrelurethr
+    - dorlenkirs
+    - porenadhrl
+  factions: [beaconfamlys, clgwoodsng, bardicolgs, groveconcl]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-## The Toll You Will Not Miss
+## Overview {#overview}
 
-A ford behind the [[place-lisere|Lísere]] shore stands for the length of a dusk, and its keeper asks what a traveler will give that he will not miss until he is across. On the far bank lie the ships of crews who gave their names, a house of forfeits, and a hoard of raiders' silver. A man named [Warlan Garanth]{.name data-type="being/npc"} has found out that forfeits can be sold. The party can bring something out, give something up, or be asked the toll twice.
+A ford behind the [[place-lisere|Lísere]] shore stands for the length of a dusk, and its keeper asks what a traveler will give that he will not miss until he is across. On the far bank lie the ships of crews who gave their names, a house of forfeits, and a hoard of raiders' silver. A man named [[being-varlangrth|Varlan Gárath]] has found out that forfeits can be sold. The party can bring something out, give something up, or be asked the toll twice.
 
-### Hook
+## What Is Really Happening {#what-is-really-happening}
+
+A beacon-keeper of the shore asked the thing of the reeds to hold the raiders back, and the thing answered with a ford that takes a toll. Raiders who cross pay their names and sit forever on the benches of their ships. The line of the beacon-keeper, the oldest line of [[place-hendrel|Hendrel]], whose head is [[being-taldorpardal|Taldor Párdalen]], crosses free.
+
+Varlan Gárath, a cousin of that line through his mother, who crosses free as its kin do, has learned that the forfeits in the tally-house can be held. A man who holds a name commands the man it came from. He keeps a satchel of knotted cords, and a company of Forfeit-Men follow him, and he sells the rest to buyers on the Kalipsa run. His line does not know.
+
+## Hooks {#hooks}
 
 Pick the entry that suits the hero. Each leads to [[place-dskfrd|the Dusk Ford]].
 
-- **The thief.** A [[place-calypsacity|Kalipsa]] fence tells a story over wine: a Nordmen captain's sword, a chest of arm-rings and a ship's worth of amber lie unguarded on a far bank behind the shore, with a single toll to pay. The fence would like a tenth.
-- **The mercenary or common soldier.** A beacon-station captain on the northern shore says his neighbors' stations are raided less than his own and cannot say why, and he wants to know whether it is the Ford. He pays a month's wages to find out.
-- **The leader.** A [[affiliation-bardicolgs|College master]] wants his student [Fálena Bryndal]{.name data-type="being/npc"}, who crossed three nights ago looking for the last verse of the ballad of the Forfeit-Men, and has not come back. The Colleges pay in a patron's debt.
+- **The thief.** A smuggler on the [[place-calypsacity|Kalipsa]] run tells a story over wine: a Nordmen captain's sword, a chest of arm-rings and a ship's worth of amber lie unguarded on a far bank behind the shore, with a single toll to pay. The smuggler would like a tenth.
+- **The mercenary or common soldier.** The keeper of the beacon-house at [[place-harnasel|Harnasel]], [[being-solmerekalme|Sólmere Kálmereth]], says her neighbors' stations are raided less than her own and cannot say why, and she wants to know whether it is the Ford. She pays a month's wages to find out.
+- **The leader.** The Master of [[affiliation-clgwoodsng|the College of the Wood-Song]], [[being-sirrelurethr|Sírrelure Thaurnde]], wants her student [[being-valenadrndl|Válena Drindal]], who crossed three nights ago looking for the last verse of the ballad of the Forfeit-Men, and has not come back. The Colleges pay in a patron's debt.
 - **The lone wanderer.** A boy of the shore lost his father to the Ford. His mother does not remember she had a husband. The boy asks the wanderer what they might do.
 
-### Overview
+> [!NOTE]
+> The smuggler is run as [[being-dorlenkirs|Dorlen Kirsal]], the stock smuggler of the Lísere shore, and the boy's mother as [[being-porenadhrl|Pórena Darel]], a stock shorewoman.
 
-A beacon-keeper of the shore asked the thing of the reeds to hold the raiders back, and the thing answered with a ford that takes a toll. Raiders who cross pay their names and sit forever on the benches of their ships. The line of the beacon-keeper crosses free.
+## The Opening {#opening}
 
-Warlan Garanth, a cousin of that line through his mother, who crosses free as its kin do, has learned that the forfeits in the tally-house can be held. A man who holds a name commands the man it came from. He keeps a satchel of knotted cords, and a company of Forfeit-Men follow him, and he sells the rest to buyers on the Kalipsa run.
+Read or paraphrase:
+
+> The track runs into black water and reed and stops. You wait while the light goes. Then, between one breath and the next, there are stones: flat and pale, leading away across the river to a causeway that was not there a moment ago. At the first stone a tall thin figure in woven reed stands with its head tilted, as if it is listening to a question you have not yet asked.
+
+## Scenes {#scenes}
 
 ### Scene One: The First Stone
 
@@ -40,7 +60,10 @@ Warlan Garanth, a cousin of that line through his mother, who crosses free as it
 
 **Situation.** Dusk. The track runs into black water and reed, and then the stones appear, flat and pale, leading away across the river to a causeway that was not there a moment ago. At the first stone a tall thin figure in woven reed waits with its head tilted, as if listening to a question the party has not yet asked.
 
-**NPCs and threats.** The **Toll-Keeper** speaks gently, in a voice that sounds like the party's own, repeating their words back with small changes. It asks each traveler what he will give that he will not miss until he is across. It does not hurry, and it does not threaten. The stones stay until the first star.
+**NPCs and threats.** The [Toll-Keeper]{.name data-type="lore/spirit"} speaks gently, in a voice that sounds like the party's own, repeating their words back with small changes. It asks each traveler what he will give that he will not miss until he is across. It does not hurry, and it does not threaten. The stones stay until the first star.
+
+> [!NOTE]
+> The Toll-Keeper is run as a [[being-glmsprt|Gloomsprite]], a fey of bargains, if a figure is needed. It does not fight, and it cannot be struck.
 
 **Player choices.**
 
@@ -59,28 +82,31 @@ Warlan Garanth, a cousin of that line through his mother, who crosses free as it
 
 **Purpose.** The puzzle: find what was lost, and learn how to name it.
 
-**Situation.** The causeway ends in gray mud, the black stakes and the rotted ships with their silent crews. Behind the ships stands a long house of stakes and reed. Inside, on shelves, hang the forfeits: cords, tokens, braided straw. Every one hums faintly when the hand nears it. Fálena Bryndal, the bard, sits on a bench by the door with her harp across her knees. She cannot tell the party her name.
+**Situation.** The causeway ends in gray mud, the black stakes and the rotted ships with their silent crews. Behind the ships stands a long house of stakes and reed. Inside, on shelves, hang the forfeits: cords, tokens, braided straw. Every one hums faintly when the hand nears it. Válena Drindal, the student bard, sits on a bench by the door with her harp across her knees. She cannot tell the party her name.
 
-**NPCs and threats.** Fálena gave her memory of the last verse, the thing she crossed to learn, and has lost the memory of who she is. She is gentle, puzzled, and certain of nothing but that she was looking for something. The Forfeit-Men on the benches turn their heads toward the party as it passes, and one of them, a **steersman**, rises and walks to the house door without being told.
+**NPCs and threats.** Válena gave her memory of the last verse, the thing she crossed to learn, and has lost the memory of who she is. She is gentle, puzzled, and certain of nothing but that she was looking for something. The Forfeit-Men on the benches turn their heads toward the party as it passes, and one of them, a **steersman**, rises and walks to the house door without being told.
+
+> [!NOTE]
+> The Forfeit-Men, the steersman among them, are run as [[being-gnrthsldhfrngr|Gnurthselda Hafringur]], a stock Nordmen man-at-arms. They are slow, strong and silent.
 
 **Player choices.**
 
 - _Force:_ search every shelf. Every forfeit that is picked up without being named adds a debt to the picker.
 - _Stealth:_ read the shelves by touch. A forfeit hums in answer to someone who remembers what was given. A thief who knows one name finds one cord.
 - _Guile:_ trade. The steersman cannot name himself, but he can recall the names of the crew. The party can trade a crew name for the crew's forfeits.
-- _Parley:_ ask Fálena to sing. She cannot remember what she gave, but she remembers how to play. A tune from the Colleges calls the forfeit that belongs to the player of it.
+- _Parley:_ ask Válena to sing. She cannot remember what she gave, but she remembers how to play. A tune from the Colleges calls the forfeit that belongs to the player of it.
 
-**Clues and rewards.** A forfeit is reclaimed by naming exactly what was given and by whom. A forfeit named correctly by someone who remembers it is reclaimed for its owner. The party can restore Fálena's verse if one of them knows what she was looking for, and the steersman's name if one of them has heard the ballad.
+**Clues and rewards.** A forfeit is reclaimed by naming exactly what was given and by whom. A forfeit named correctly by someone who remembers it is reclaimed for its owner. The party can restore Válena's verse if one of them knows what she was looking for, and the steersman's name if one of them has heard the ballad.
 
 **Consequences.** Reclaiming a forfeit gives the owner back a piece of themselves. The Keeper knows, and notes it.
 
-**If bypassed.** A party that skips the house sees the Forfeit-Men and the heaped plunder, and not the forfeits. They do not know what Warlan holds.
+**If bypassed.** A party that skips the house sees the Forfeit-Men and the heaped plunder, and not the forfeits. They do not know what Varlan holds.
 
 ### Scene Three: The Weight of Silver
 
 **Purpose.** The setback: the hoard is real, and so is the weight of it.
 
-**Situation.** Along the walls of the house the raiders' plunder lies in heaps: arm-rings, hacked silver, amber in lumps the size of a fist, iron-bound chests, a long sword with a wrapped hilt. It is the finest loot on the shore. Touching any of it takes on its owner's unpaid debt.
+**Situation.** Along the walls of the house the raiders' plunder lies in heaps: arm-rings, hacked silver, amber in lumps the size of a fist, iron-bound chests, [[miscgear-chftswrddsk|a long sword with a wrapped hilt]]. It is the finest loot on the shore. Touching any of it takes on its owner's unpaid debt.
 
 **NPCs and threats.** The hoard has no guardian but its rule. A Forfeit-Man who sees a hand close on a ring rises from his bench, slowly, and walks to stand by the one who took it. He does not strike. He adds his weight, and the next toll is paid by two.
 
@@ -95,28 +121,28 @@ Warlan Garanth, a cousin of that line through his mother, who crosses free as it
 
 **Consequences.** The dusk is shorter on the far bank than on the near, and every heap handled costs time. The party must be at the stones before the first star clears the trees.
 
-**If bypassed.** If the party takes nothing, they reach the causeway early, and Warlan is waiting for them rather than catching them.
+**If bypassed.** If the party takes nothing, they reach the causeway early, and Varlan is waiting for them rather than catching them.
 
 ### Scene Four: The Satchel
 
 **Purpose.** The confrontation.
 
-**Situation.** Where the causeway meets the stones, a man stands holding a lamp and a leather satchel. Warlan Garanth is a lean, dry man in a shore-cloak, with a beacon-keeper's signet on his thumb and a smile that has learned to fit his face. He crosses free, as his line does, and has been taking the forfeits for years.
+**Situation.** Where the causeway meets the stones, a man stands holding a lamp and a leather satchel. Varlan Gárath is a lean, dry man in a shore-cloak, with a beacon-keeper's signet on his thumb and a smile that has learned to fit his face. He crosses free, as his line does, and has been taking the forfeits for years.
 
-**NPCs and threats.** Warlan holds forfeits in the satchel, knotted cords that each hold a Forfeit-Man's name. A man who holds a name commands the man. Four Forfeit-Men rise from the benches at Warlan's word and walk the causeway to stand by him. They are slow, strong, and perfectly obedient. Warlan does not fight. He bargains, and when bargaining fails he sends the Forfeit-Men.
+**NPCs and threats.** Varlan holds forfeits in the satchel, knotted cords that each hold a Forfeit-Man's name. A man who holds a name commands the man. Four Forfeit-Men rise from the benches at Varlan's word and walk the causeway to stand by him. They are slow, strong, and perfectly obedient. Varlan does not fight. He bargains, and when bargaining fails he sends the Forfeit-Men.
 
 **Player choices.**
 
-- _Force:_ kill Warlan, and the satchel's cords fall into the mud. A forfeit left lying is free to be taken by anyone, and the Forfeit-Men sit down.
+- _Force:_ kill Varlan, and the satchel's cords fall into the mud. A forfeit left lying is free to be taken by anyone, and the Forfeit-Men sit down.
 - _Stealth:_ cut the satchel's strap in the dark. The lamp dies if its flame is shaded.
 - _Guile:_ offer a trade he cannot refuse: a forfeit of his own, a name he lost in his youth. The satchel opens.
-- _Parley:_ Warlan is not a fool, and he is not happy. He has lived by selling the shore's secret and does not sleep well. Offered a way to stop, he considers it.
+- _Parley:_ Varlan is not a fool, and he is not happy. He has lived by selling the shore's secret and does not sleep well. Offered a way to stop, he considers it.
 
-**Clues and rewards.** The satchel. The signet, which marks the pact's line. Warlan's account of the buyers on the Kalipsa run.
+**Clues and rewards.** The satchel. The signet, which marks the pact's line. Varlan's account of the buyers on the Kalipsa run.
 
-**Consequences.** If Warlan is spared, he gives the satchel or trades it, and the party owes the beacon family a favor. If he dies, the signet is the proof of the family's line.
+**Consequences.** If Varlan is spared, he gives the satchel or trades it, and the party owes the beacon family a favor. If he dies, the signet is the proof of the family's line.
 
-**If bypassed.** If the party takes another way back, the stones are laid longer, and Warlan is on the near bank.
+**If bypassed.** If the party takes another way back, the stones are laid longer, and Varlan is on the near bank.
 
 ### Scene Five: The Return
 
@@ -139,17 +165,22 @@ Warlan Garanth, a cousin of that line through his mother, who crosses free as it
 
 **If bypassed.** A party that skips the return stays on the far bank, among the ships, until the next dusk.
 
-### Aftermath
+## If the Party Does Nothing {#if-the-party-does-nothing}
 
-- **If the satchel was returned,** the Forfeit-Men rest, Fálena recovers her verse, and the Colleges owe the party a debt. The shore behind the Ford is raided as often as its neighbors.
-- **If the satchel was kept,** the party holds a hundred names and the knowledge of how to use them. Warlan's buyers come looking.
+The Ford stands every dusk. Válena sits in the tally-house until her master stops asking along the coast road, and then until nobody asks. Varlan keeps selling, a Kalipsan captain on the bay sails with a crew that does not speak, and the Order scholar asking at Hendrel about the families' kin finds Varlan before anyone else does. The shore behind the Ford stays the safest stretch of the coast, and nobody on it wishes to know why.
+
+## Aftermath {#aftermath}
+
+- **If the satchel was returned,** the Forfeit-Men rest, Válena recovers her verse, and the Colleges owe the party a debt. The shore behind the Ford is raided as often as its neighbors.
+- **If the satchel was kept,** the party holds a hundred names and the knowledge of how to use them. Varlan's buyers come looking.
 - **If the hoard was taken,** a sword with a chieftain's debt is in someone's hands.
 - **If the party left without crossing,** the Ford stands every dusk, and the boy is still forgotten.
 
-### See Also
+## See Also {#see-also}
 
 - [[place-dskfrd|The Dusk Ford]]
 - [[place-lisere|Lísere]]
 - [[lore-theasking|The Asking]]
-- [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|the Grove Council]]
+- [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|the Grove Council]] · [[affiliation-beaconfamlys|the Beacon Families]]
+- [[being-varlangrth|Varlan Gárath]] · [[being-valenadrndl|Válena Drindal]] · [[being-taldorpardal|Taldor Párdalen]]
 - [[lore-vylrncrncy|Vilérian Currency]]

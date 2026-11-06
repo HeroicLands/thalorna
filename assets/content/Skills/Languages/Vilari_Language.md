@@ -10011,6 +10011,11 @@ data:
     - {name: Thalbezara, tongue: vylari, built: ["thalbez-", "-ara"]}
     - {name: The Steel Guild, tongue: translation}
     - {name: Thalbezalon, tongue: vylari, built: ["thalbez-", "-alon"]}
+    - {name: Solkimos, tongue: vylari}
+    - {name: Lusar Solkimos, tongue: vylari}
+    - {name: The Lusar, tongue: translation}
+    - {name: Thelvaran, tongue: vylari}
+    - {name: Sergeant Thelvaran, tongue: translation}
   retired:
     - {form: Campus Vylaris, instead: Vilarpolthamis, why: an Earth phrase for the city commons}
     - {form: Viridarium, instead: Velmiros, why: an Earth word for the city green}

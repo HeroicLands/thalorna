@@ -11,6 +11,9 @@ data:
   parents: [auldalon]
   population: 6000
   borders: [{to: edriwald, bearing: NE}]
+  routes:
+    - {to: sarmelis, bearing: W, mode: land, days: 1, terrain: [coast, track]}
+    - {to: edriwald, bearing: NE, mode: land, days: 3, terrain: [coast, track]}
   government: kngdmlvndr
   packFolder: elavendre
 ---
@@ -41,7 +44,7 @@ The second quarrel is quieter. [[affiliation-ordoarcanis|Order]] agents who want
 
 ## Roads and Trade {#roads-and-trade}
 
-The bay road is slower than the water and safer in a gale. Varokh who would rather trade than raid bring furs round the head of the bay on pack ponies, and the Watch lets them through at the tally-post for a toll and a count, which is the same arrangement the furs have by boat at [[place-sarmelis|Sarmelis]]. In the hill steadings the Watch's riders are the only law that comes up the valley more than once a year, and the steadings feed them for it.
+The bay road is slower than the water and safer in a gale. From [[place-sarmelis|Sarmelis]] it is a day to the causeway, and three more round the head of the bay to the first steadings of [[place-edriwald|Edriwald]]. Varokh who would rather trade than raid bring furs round the head of the bay on pack ponies, and the Watch lets them through at the tally-post for a toll and a count, which is the same arrangement the furs have by boat at [[place-sarmelis|Sarmelis]]. In the hill steadings the Watch's riders are the only law that comes up the valley more than once a year, and the steadings feed them for it.
 
 ## Dangers {#dangers}
 

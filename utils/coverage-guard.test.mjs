@@ -46,6 +46,7 @@ function registryFor(name, over = {}) {
         finished: [],
         archetypes: rule.archetypes ?? [],
         archetypeAbsences: {},
+        homedBeingExceptions: {},
         sharedGovernance: [],
         ...over,
     };
@@ -66,6 +67,13 @@ test("homed-being names a summary-depth settlement nobody calls home", () => {
     const { found } = run("homed-being");
     assert.deepEqual(files(found), ["Empty.md"]);
     assert.equal(found[0].severity, "warning");
+});
+
+test("homed-being accepts a recorded owner exception", () => {
+    const { found } = run("homed-being", {
+        homedBeingExceptions: { "place-empty": "No record names its people." },
+    });
+    assert.deepEqual(found, []);
 });
 
 test("archetype-coverage reports an archetype the land lacks", () => {

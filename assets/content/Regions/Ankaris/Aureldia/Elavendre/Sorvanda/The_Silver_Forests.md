@@ -7,7 +7,7 @@ data:
   demonym: null
   lore: []
   parents: [alndntrblnds]
-  population: null
+  population: 6500
   government: aelndntrbs
   packFolder: elavendre
 ---
@@ -30,6 +30,8 @@ The **Silver Forests** are an ancient woodland said to have been planted by the 
 The forests take their name from the distinctive silvery sheen of their trees' bark, which catches moonlight and starlight in ways that ordinary wood does not. Travelers who have glimpsed the Silver Forests from a distance describe a shimmer that seems to hover between the branches—sometimes bright, sometimes dim, never entirely still. Whether this effect is a property of the trees themselves, a manifestation of the fae presence that lingers there, or something else entirely has never been determined by outside observers, because outside observers are almost never permitted close enough to study the phenomenon.
 
 The forests are not large in the cartographic sense, but they are difficult to measure. Travelers who have attempted to circumambulate them report inconsistent journeys—a path that took three days in one direction required five in the other, or vice versa—and maps produced by different expeditions rarely agree. Áelendan tradition holds that the forests exist partly in the mortal world and partly elsewhere, and that they cannot be straightforwardly measured because their boundaries are not entirely spatial.
+
+About 6,500 people live in the forests and at their margin: Áelendan households along the outer edge, the Élavendri village of [[place-sourimael|Sóurimel]] and the Sinale of [[place-aelirosse|Aelirosse]]. Nobody lives in the deep wood.
 
 ## Fae Presence
 

@@ -4,37 +4,61 @@ name: {full: Eight Birches Wound in Silver}
 type: scenario
 subType: adventure
 description: "Silver pegs and wire bind eight birches in a forest hollow where every straight path ends, and each dusk the ring takes one more walker."
-tags: [draft]
+tags: []
 data:
   parents: []
-  locations: [rngtrndpths]
-  cast: []
-  factions: []
+  locations: [rngtrndpths, silvrfrsts, sourimael]
+  cast:
+    - denrikrnkrs
+    - alenaalvrn
+    - selithalvrn
+    - silmarenwrdn
+    - parkeldarel
+    - dorlenkirs
+    - belrktrvnl
+    - haliranrdh
+    - malianardh
+    - ostrenmald
+    - hlvlnsrdlnd
+  factions: [ordoarcanis, sideris, alndnwrdns, kngdmlvndr]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-## Eight Birches Wound in Silver
+## Overview {#overview}
 
 A _marendos_ (master) of [[affiliation-ordoarcanis|the Order]] forced the paths of [[place-silvrfrsts|the Silver Forests]] straight with silver pegs and silver wire, and the working has been walking his company in a circle ever since. The wood does not fight it, the [[affiliation-alndnwrdns|Wardens]] cannot find it, and the silver in the ground is worth more than a village. The party can cut the wire, take the silver, or do the one thing the _marendos_ would not do and ask.
 
-### Hook
+## What Is Really Happening {#what-is-really-happening}
+
+[[being-denrikrnkrs|Denrik Rénkaris]], a _marendos_ of the Order's [[affiliation-sideris|Sideris]], came into the Silver Forests to prove that the [[lore-flksinale|Sinale paths]] can be bound straight by metal. He drove silver pegs in a ring around eight living birch, strung silver wire between them, and worked a Straight Road upon it. The working took. Every straight line in the hollow now ends at the ring, the wire draws walkers in along it, and the working takes the footing of whoever follows. They walk the circuit of the pegs and cannot stop. Each dusk it takes another.
+
+Rénkaris stands in the middle in the working's eye, alive because the working needs him. He cannot undo it without unmaking himself, and he has not asked the wood to turn the paths because to ask is to admit the Order's reading of the paths was wrong.
+
+The Sinale do nothing. They do not fight, and the paths around the ring now turn outward harder than before. The Wardens' own paths have turned them from the hollow for three seasons.
+
+The silver came from a smuggler of the Lísere shore, and the leave to survey came from Péravel, sealed in the household of the Chancellor, [[being-hlvlnsrdlnd|Hálvilon Sérdalnde]], with the district written wide. The Chancellor did not read it.
+
+## Hooks {#hooks}
 
 Pick the entry that suits the hero. Each leads to [[place-rngtrndpths|the Ring of Turned Paths]].
 
-- **The thief.** A carter from [[place-lisere|Lísere]] drinks too much in [[place-liranel|Liranel]] and talks about a cargo of raw [[place-sorvanda|Sórvanda]] silver he sold to a man with an Order seal and no questions. The silver went east into the Silver Forests, and the carter wants a cut of what it became.
-- **The mercenary or common soldier.** A [[place-auldalon|Áuldalon]] sergeant's company was hired by a _marendos_ from [[place-beravel|Péravel]], marched into the Silver Forests and not marched out. The sergeant's widow pays a tenth of what the company's pay-chest holds to whoever finds it.
-- **The leader.** A headwoman from [[place-sourimael|Sóurimel]] has lost a daughter, [Alena Alveryn]{.name data-type="being/npc"}, who guided lowland strangers into the wood. The Wardens will not escort a search into sacred ground, and the village will pay in honey, hazel and the standing of those who go.
-- **The lone wanderer.** A Warden of the Silver Forests, [Silken]{.name data-type="being/npc"}, gray and tired, finds a stranger at the wood's edge and says the paths have turned him from one hollow three seasons running. He cannot ask a lowlander in. He can fail to notice one walking past.
+- **The thief.** A smuggler from [[place-lisere|Lísere]] drinks too much in [[place-liranel|Liranel]] and talks about a cargo of raw [[place-sorvanda|Sórvanda]] silver he sold to a man with an Order seal and no questions. The silver went east into the Silver Forests, and the smuggler wants a cut of what it became.
+- **The mercenary or common soldier.** An [[place-auldalon|Áuldalon]] sergeant's company was hired by a _marendos_ from [[place-beravel|Péravel]], marched into the Silver Forests and not marched out. The sergeant's wife at [[place-valdun|Valdun]], who counts herself a widow, pays a tenth of what the company's pay-chest holds to whoever finds it.
+- **The leader.** A charcoal-burner of [[place-sourimael|Sóurimel]], [[being-selithalvrn|Selith Alverin]], has lost a daughter, [[being-alenaalvrn|Alena Alverin]], who guided lowland strangers into the wood. The Wardens will not escort a search into sacred ground, and the village will pay in honey, hazel and the standing of those who go.
+- **The lone wanderer.** A Warden of the Silver Forests, [[being-silmarenwrdn|Silmaren]], gray and tired, finds a stranger at the wood's edge and says the paths have turned him from one hollow three seasons running. He cannot ask a lowlander in. He can fail to notice one walking past.
 
-### Overview
+## The Opening {#opening}
 
-[Denrik Réncaris]{.name data-type="being/npc"}, a _marendos_ of the Order's [[affiliation-sideris|Sideris]], came into the Silver Forests to prove that the [[lore-flksinale|Sinale paths]] can be bound straight by metal. He drove silver pegs in a ring around eight living birch, strung silver wire between them, and worked a [Straight Road]{.name data-type="mysticalability"} upon it. The working took. Every straight line in the hollow now ends at the ring, the wire draws walkers in along it, and the working takes the footing of whoever follows. They walk the circuit of the pegs and cannot stop. Each dusk it takes another.
+Read or paraphrase:
 
-Réncaris stands in the middle in the working's eye, alive because the working needs him. He cannot undo it without unmaking himself, and he has not asked the wood to turn the paths because to ask is to admit the Order's reading of the paths was wrong.
+> At dusk the path you have followed all afternoon bends away from the hollow again, gently, as it has six times today. Then a glint at knee height catches the last of the light: a silver wire, strung taut from tree to tree, running straight into the dark where no path runs straight. The trees on either side lean away from it.
 
-The Sinale do nothing. They do not fight, and the paths around the ring now turn outward harder than before. The Wardens' own paths have turned them from the hollow for three seasons.
+> [!TIP]
+> Let the wire be the first straight thing the party has seen in the Silver Forests. Every path has bent for a day, and this one does not, and that is the danger.
+
+## Scenes {#scenes}
 
 ### Scene One: The Wire and the Walkers
 
@@ -42,7 +66,7 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 
 **Situation.** The silver wire runs knee-high from tree to tree, glinting at dusk. A party that follows it keeps its footing as the paths bend away on either side. Along the wire, at intervals, stand marker-cairns of pegs set by someone who counted. The last stretch drops into a hollow ringed by eight pale birch, and in the hollow the Pegged are walking.
 
-**NPCs and threats.** The **Pegged** pace the outer circuit between the pegs: Áuldalon sell-swords, a clerk with an ink-stained cuff, a charcoal-burner's cap. They are pale, silent, and walk as men walk who have walked for a season. They do not strike. A stranger in their path is carried along by the press of the circuit, and one who keeps step for a hundred paces cannot stop. Their sergeant, a heavy man named [Barcel]{.name data-type="being/npc"}, walks at the head and still carries a short spear, and if the party stands against the circuit he lowers it as a rail, not a weapon.
+**NPCs and threats.** The **Pegged** pace the outer circuit between the pegs: Áuldalon sell-swords, a clerk with an ink-stained cuff, a charcoal-burner's cap. They are pale, silent, and walk as men walk who have walked for a season. They do not strike. A stranger in their path is carried along by the press of the circuit, and one who keeps step for a hundred paces cannot stop. Their sergeant, a heavy man named [[being-parkeldarel|Parkel Darel]], walks at the head and still carries a short spear, and if the party stands against the circuit he lowers it as a rail, not a weapon.
 
 **Player choices.**
 
@@ -51,7 +75,10 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 - _Guile:_ a drum, a rope, or a song out of step with the walkers breaks the press. A bard of [[affiliation-bardicolgs|the Colleges]] steps out with half a verse.
 - _Parley:_ the clerk's lips move. He cannot speak, but he can write in the dirt with a finger while walking, and what he writes is the count of the pegs and the word _ask_.
 
-**Clues and rewards.** Cairns of pegs, the count of the pegs on the circuit (thirty-one), a clerk's scrawl, a Warden's cord tied on a birch (Silken's, left on a day he could not enter). A Áuldalon sell-sword carries a purse of honest Vilérian silver, a few Ardin.
+> [!NOTE]
+> The Pegged sell-swords are run as [[being-belrktrvnl|Melrik Tárvenel]], a stock man-at-arms, and the clerk as [[being-haliranrdh|Hálira Nareth]], a stock scribe. They do not fight back.
+
+**Clues and rewards.** Cairns of pegs, the count of the pegs on the circuit (thirty-one), a clerk's scrawl, a Warden's cord tied on a birch (Silmaren's, left on a day he could not enter). An Áuldalon sell-sword carries a purse of honest Vilérian silver, a few Ardin.
 
 **Consequences.** A character who falls into step must be carried off the circuit by the others, and loses a night. A death at the circuit adds to the tally the working keeps, and the _marendos_ feels it.
 
@@ -61,7 +88,7 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 
 **Purpose.** Give the party a witness, the working's rules, and the thing the _marendos_ would not do.
 
-**Situation.** Inside the ring, at the foot of the largest birch, a small camp stands with the tents of the _marendos_'s party still pitched. A woman sits by a cold hearth with her hands in her lap. She is Alena Alveryn, the Sóurimel guide, and she is lucid for an hour at each dusk, between the working taking one walker and the circuit closing. She keeps her mind because she grew up in the wood, and the wood knows her footing.
+**Situation.** Inside the ring, at the foot of the largest birch, a small camp stands with the tents of the _marendos_'s party still pitched. A woman sits by a cold hearth with her hands in her lap. She is Alena Alverin, the Sóurimel guide, and she is lucid for an hour at each dusk, between the working taking one walker and the circuit closing. She keeps her mind because she grew up in the wood, and the wood knows her footing.
 
 **NPCs and threats.** Alena is practical and angry. She was paid to guide a lowland party to a place she knew to avoid, and she did it for the silver, and she says so. She knows the _marendos_'s party by name, how many walked in, how many are left, and that each dusk the working picks the one furthest from its footing. She is the next, tomorrow. She will not leave unless the circuit is stopped for the others as well.
 
@@ -70,7 +97,7 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 - _Force:_ none worth taking. A party that threatens her loses the one witness the working has not already taken.
 - _Stealth:_ she can show the camp's clerk's tent, where the _marendos_'s journal and a small chest are kept, if the party can reach it between circuits.
 - _Guile:_ the party can pretend to be Wardens. Alena knows better, and says so, and then says what a Warden would do.
-- _Parley:_ she answers questions about [[lore-blacksnow|the Black Snow]] and the birch law as a village girl answers them, and ends by telling the party what the _marendos_'s journal omits. The first [Dhargan]{.name data-type="being/npc"} did not command the wood, and he sat four days with his hands bare. The _marendos_ did not sit.
+- _Parley:_ she answers questions about [[lore-blacksnow|the Black Snow]] and the birch law as a village girl answers them, and ends by telling the party what the _marendos_'s journal omits. The first Dhargan did not command the wood, and he sat four days with his hands bare. The _marendos_ did not sit.
 
 **Clues and rewards.** The journal records the working's rules: the wire holds the footing, the pegs hold the wire, the _marendos_ holds the pegs. It leaves out the line that matters, which Alena supplies from the song: the wood turns paths for those who ask, and the _marendos_ never asked. The chest holds the working's counterfeit pegs, lead plated in silver, which the clerk packed to confuse a rescuer.
 
@@ -103,30 +130,30 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 
 **Purpose.** The confrontation, and the party's choice about how to end the working.
 
-**Situation.** In the middle of the ring, where the eight birch meet their shadow, Denrik Réncaris stands upright on bare ground. Silver threads run under his skin from the wire at his feet, and the wire hums when he speaks. He is courteous, wasted and clear-headed. He knows he has made a mistake, and he knows the only people who can end it are the people he has been working to avoid.
+**Situation.** In the middle of the ring, where the eight birch meet their shadow, Denrik Rénkaris stands upright on bare ground. Silver threads run under his skin from the wire at his feet, and the wire hums when he speaks. He is courteous, wasted and clear-headed. He knows he has made a mistake, and he knows the only people who can end it are the people he has been working to avoid.
 
-**NPCs and threats.** The _marendos_ holds the Pegged in his hand, and they come to him at a word. He can bind a character's feet to the ground, wind the wire round a limb, and slow a body to a crawl. He does not move. A character who reaches him by force is stopped by his own footing at three paces and carried round to the circuit. Réncaris does not want to kill. He wants a relief: someone to hold the center in his place.
+**NPCs and threats.** The _marendos_ holds the Pegged in his hand, and they come to him at a word. He can bind a character's feet to the ground, wind the wire round a limb, and slow a body to a crawl. He does not move. A character who reaches him by force is stopped by his own footing at three paces and carried round to the circuit. Rénkaris does not want to kill. He wants a relief: someone to hold the center in his place.
 
 **Player choices.**
 
 - _Force:_ killing him unmakes the working with a lash of silver wire that takes the footing of everyone near him, and the Pegged fall where they stand. It frees the walkers and leaves the killer pacing the circuit alone until the others pull him out.
 - _Stealth:_ cut the wire behind him, thread by thread, while he is talking. It buys time and enrages him, and the working lashes out at random.
-- _Guile:_ convince Réncaris that the Order will abandon him. It is true, and he half knows it. A man who has nothing left to protect asks.
+- _Guile:_ convince Rénkaris that the Order will abandon him. It is true, and he half knows it. A man who has nothing left to protect asks.
 - _Parley:_ the party sits at the ring's edge with their hands bare, as the first Dhargan sat, and asks the wood to turn the paths. The wood turns them. It takes the better part of a night, and no Sinale shows, and the price the wood keeps is not named.
 
-**Clues and rewards.** If the party asks, the paths turn, the wire goes slack, and the walkers stop. Réncaris sits down for the first time in a season and does not stand again for a day. The silver pegs lie loose in the ground.
+**Clues and rewards.** If the party asks, the paths turn, the wire goes slack, and the walkers stop. Rénkaris sits down for the first time in a season and does not stand again for a day. The silver pegs lie loose in the ground.
 
-**Consequences.** Réncaris, freed, is a very old man. The Wardens, if the party meets them, treat him as a prisoner and a witness. The Order treats him as lost.
+**Consequences.** Rénkaris, freed, is a very old man. The Wardens, if the party meets them, treat him as a prisoner and a witness. The Order treats him as lost.
 
 **If bypassed.** If the party leaves without confronting the _marendos_, the working continues. The next dusk takes another walker, and the party's absence is noted by Alena's mother.
 
-### Scene Five: The marendos's Chest
+### Scene Five: The Marendos's Chest
 
 **Purpose.** Reward the party and turn the story into a political problem.
 
 **Situation.** The _marendos_'s journal and chest hold the proceeds of a decade of licensed survey: carved lintels, a spring-cup, a harp-key of white birch, tokens that belonged to groves and wells. Each is tagged in a clerk's hand with a place and a date. Beneath them is the thing the _marendos_ was hiding: a letter of leave to survey the Silver Forests, signed by an officer of the Chancellor's household at Péravel.
 
-**NPCs and threats.** If the party took the real pegs, a Sóurimel villager who watched from the treeline may say so to the Wardens. Réncaris, if alive, bargains for his life with what he knows.
+**NPCs and threats.** If the party took the real pegs, a Sóurimel villager who watched from the treeline may say so to the Wardens. Rénkaris, if alive, bargains for his life with what he knows.
 
 **Player choices.**
 
@@ -139,9 +166,16 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 
 **Consequences.** What the party does with the letter shapes the next season at Péravel. The Wardens withdraw their guides for a year if the letter becomes known, as they did after [[lore-sorvandaclose|the King's Cut]]. If it is hidden, the Wardens hold the debt.
 
-**If bypassed.** A party that leaves the chest behind will meet it again, in the hands of the Order agent who comes to recover it.
+**If bypassed.** A party that leaves the chest behind meets it again, in the hands of the Order agent who comes to recover it.
 
-### Aftermath
+> [!NOTE]
+> The Order agent is run as [[being-ostrenmald|Ostren Maldeth]], a stock inquirer of the Sekran. The smuggler of the thief's hook is run as [[being-dorlenkirs|Dorlen Kirsal]], and the sergeant's wife as [[being-malianardh|Malsa Nareth]], a stock hillwoman.
+
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The working holds. Each dusk it takes the walker furthest from its footing, and the next one is Alena. When the last of the marendos's company is walking, it takes whoever follows the wire in: a charcoal-burner of Sóurimel looking for her daughter, a Warden who has stopped being turned. Rénkaris lasts the winter, and the ring of turned paths spreads a little farther east each season, until the wood east of Sóurimel is closed to everyone and the Wardens begin to say that the Silver Forests have a wound in them.
+
+## Aftermath {#aftermath}
 
 - **If the party asked and the paths turned,** the ring stays closed to everyone, and the birch keep their starlight. The Wardens treat the party as friends of the wood. The wood keeps its price and does not name it: a face comes to the wood's edge, sits bare-handed, and asks again.
 - **If the party broke the working by force,** the walkers are freed and the _marendos_ is dead. The wood does not reward the breaking, and the Sinale do not turn a path for the killer afterward.
@@ -149,10 +183,11 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 - **If the party left,** the working holds, a dusk takes another, and a rumor of a lamp walking straight in the Silver Forests spreads as far as Liranel.
 - **The letter** is the lasting trouble. Whoever holds it holds the crown's cordiality toward the Order by the throat.
 
-### See Also
+## See Also {#see-also}
 
 - [[place-rngtrndpths|The Ring of Turned Paths]]
 - [[lore-blacksnow|The Black Snow]]—the birch law
 - [[lore-theasking|The Asking]]—the song of asking
 - [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-sideris|Zulen Sideris]]
+- [[being-denrikrnkrs|Denrik Rénkaris]] · [[being-alenaalvrn|Alena Alverin]] · [[being-silmarenwrdn|Silmaren]] · [[being-hlvlnsrdlnd|Hálvilon Sérdalnde]]
 - [[lore-vylrncrncy|Vilérian Currency]]

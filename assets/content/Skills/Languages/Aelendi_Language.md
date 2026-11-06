@@ -6866,6 +6866,15 @@ data:
     - {name: Rupena the Herdwife, tongue: translation}
     - {name: dolmir, tongue: aelendi}
     - {name: thórnasa, tongue: aelendi}
+    - {name: sírgana, tongue: aelendi}
+    - {name: Warden Sírgana, tongue: translation}
+    - {name: Sírgana of the Tírindi, tongue: translation}
+    - {name: ástheren, tongue: aelendi}
+    - {name: Warden Ástheren, tongue: translation}
+    - {name: Ástheren of the Tírindi, tongue: translation}
+    - {name: silmaren, tongue: aelendi}
+    - {name: Warden Silmaren, tongue: translation}
+    - {name: Silmaren of the Dhárgandi, tongue: translation}
   retired:
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}

@@ -9,7 +9,7 @@ data:
   demonym: Áelendan
   lore: [humanflk]
   parents: [sorvanda]
-  population: null
+  population: 150000
   packFolder: elavendre
   government: aelndntrbs
 
@@ -17,6 +17,8 @@ data:
 ---
 
 The **Áelendan Tribal Lands** are the mountainous interior of [[place-elavendre|Élavendre]]—a vast, lightly populated expanse of peaks, valleys, ancient forests, and sacred sites that the [[lore-aelendnppl|Áelendan]] have inhabited continuously since the earliest Pelwar settlement of the region. The Lands are not a polity in the lowland sense: there is no capital, no central administration, no marked border enforced by officials. What there is, instead, is an understood territory—recognized by the Crown, by the tribes themselves, and by anyone with sense—whose extent is defined by the geography of the interior and by the sacred sites of the [Kindred Pact]{.name data-type="lore/law"}.
+
+About 150,000 people live in the Lands, nearly all of them Áelendan, about three in every four of the people of the Pact. The rest live across the mountains and in the uplands of northern Tarvénia.
 
 To cross into the Tribal Lands is to pass out of the jurisdiction of royal magistrates and into a landscape governed by tribal custom, the word of local councils of elders, and the watchful attention of the [[affiliation-alndnwrdns|Wardens]].
 

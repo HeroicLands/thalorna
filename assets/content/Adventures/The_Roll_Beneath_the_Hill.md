@@ -4,22 +4,30 @@ name: {full: The Roll Beneath the Hill}
 type: scenario
 subType: adventure
 description: "A legion cohort walked into a hill in a winter war and never came out, and its door is still held against everyone who knocks."
-tags: [draft]
+tags: []
 data:
   parents: []
-  locations: [kptfr]
-  cast: []
-  factions: []
+  locations: [kptfr, auldalon]
+  cast: [solkimoslsr, thelvarnkpt, brakshrlns, lmnshd, ylthklmrth, malianardh, haliranrdh]
+  factions: [vylrnmltry, vylarinmpr, bardicolgs, ordoarcanis]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-## The Roll Beneath the Hill
+## Overview {#overview}
 
 A cohort of the old [[affiliation-vylarinmpr|Vilérian legion]] went into a hill in [[place-auldalon|Áuldalon]] in the war at [[place-valdun|Valdun]] and never came out. Its _Lusar_ demanded shelter of the thing that kept the hall, and the thing gave exactly what was demanded. The cohort holds the door against all comers, and the roll of those who hold it grows by anyone who eats the bread.
 
-### Hook
+## What Is Really Happening {#what-is-really-happening}
+
+The cohort's _Lusar_, [[being-solkimoslsr|Solkimos]], led it into the fold on a winter night, starving and harried, and demanded shelter in the Sovereign's name. The Giver, [Dáimela]{.name data-type="lore/spirit"}, the thing that keeps the hall, gave a fire, bread and a roof. The _Lusar_ swore to hold the place against all comers while the Sovereign's name stood. The Giver took the oath exactly.
+
+The Kept do not age, do not sleep, and do not leave. They are not dead, and nothing of [[lore-theshadow|the Shadow]] is in them. They eat the hall's bread and answer the roll. A stranger who eats at the fire is entered on the roll and owes the hall its watch.
+
+The Giver did not hold the cohort. It answers an asking and nothing else, and the door has stood open the whole time. Only the _Lusar_ can release his men, by asking, and a Vilérian _Lusar_ does not ask a barbarian spirit for anything.
+
+## Hooks {#hooks}
 
 Pick the entry that suits the hero. Each leads to [[place-kptfr|the Kept Fire]].
 
@@ -28,11 +36,19 @@ Pick the entry that suits the hero. Each leads to [[place-kptfr|the Kept Fire]].
 - **The leader.** A drover family from the southern hills asks the party to bring back a boy who followed a lamp into the fold three years ago. The boy is counted at the door.
 - **The lone wanderer.** A [[affiliation-bardicolgs|College bard]] at the hill's foot asks for company. She has the lament's last verse and needs to hear whether the cohort still answers it.
 
-### Overview
+> [!NOTE]
+> The bard is run as [[being-ylthklmrth|Jalith Kálmereth]], a stock traveling bard, the drover family as [[being-malianardh|Malsa Nareth]], a stock herder, and the clerk of the _felzos_'s house as [[being-haliranrdh|Hálira Nareth]], a stock scribe.
 
-The cohort's _Lusar_, [Solkimos]{.name data-type="being/npc"}, led it into the fold on a winter night, starving and harried, and demanded shelter in the Sovereign's name. The Giver, [Dáimela]{.name data-type="lore/spirit"}, the thing that keeps the hall, gave a fire, bread and a roof. The _Lusar_ swore to hold the place against all comers while the Sovereign's name stood. The Giver took the oath exactly.
+## The Opening {#opening}
 
-The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not leave. They are not dead, and nothing of [[lore-theshadow|the Shadow]] is in them. They eat the hall's bread and answer the roll. A stranger who eats at the fire is entered on the roll and owes the hall its watch.
+Read or paraphrase:
+
+> The drovers' detour has taken half a day, and the ponies would go no nearer. Past the last birch the path is stone, laid square, and somebody has swept it this morning. At its end a door of fitted stone stands in the hillside, and before it a young man in rotted harness grounds his spear and calls a challenge you do not understand, ending on a rising note.
+
+> [!TIP]
+> The swept path is the first wrong thing. The drovers do not come within half a day of it, and the stones are clean.
+
+## Scenes {#scenes}
 
 ### Scene One: The Door
 
@@ -49,6 +65,9 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 - _Guile:_ the watchword is a Vilari phrase from the legion's last year in the hills. A party that has the phrase from the _felzos_'s house or the lament answers the challenge as a relief detail. A party that bluffs a courier's errand holds the sentry for one question only.
 - _Parley:_ ask for shelter instead of demanding it. The sentry has not heard the word in centuries and does not know what to do with it, and he lets the party in on that confusion.
 
+> [!NOTE]
+> The sentry, the four Kept in the passage and every soldier of the cohort are run as [[being-brakshrlns|Brakos Harlanis]], a stock Vilérian man-at-arms. They fight in good order and do not fear death.
+
 **Clues and rewards.** The sentry's harness bears the cohort's mark. The watchword, if found, is useful in every scene. The vent is the way out when the door is not.
 
 **Consequences.** A party that breaks the door is entered on the roll as hostile, and the _Lusar_ greets them as such. A party that answers the watchword is treated as officers.
@@ -61,7 +80,7 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 
 **Situation.** The great hall is warm, long and roofed with turf. A fire the length of a river-barge burns down the middle, and the Kept sit at the long benches in their rotted harness, eating. The cook, a gray-armed man in a leather apron, carries bread to every guest. A seat stands at the head of the hall with no one in it, a plain chair of black wood, and nobody looks at it.
 
-**NPCs and threats.** [Thelvaran]{.name data-type="being/npc"}, the senior sergeant, sits nearest the party and speaks Vilari with a hill accent. He tells them, kindly, to eat. The _Lusar_ watches from the far end and does not rise. The Kept are neither hostile nor friendly. They are bored, loyal, and desperate for news.
+**NPCs and threats.** [[being-thelvarnkpt|Thelvaran]], the senior sergeant, sits nearest the party and speaks Vilari with a hill accent. He tells them, kindly, to eat. The _Lusar_ watches from the far end and does not rise. The Kept are neither hostile nor friendly. They are bored, loyal, and desperate for news.
 
 **Player choices.**
 
@@ -105,6 +124,9 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 
 **NPCs and threats.** The _Lusar_ and the Kept at his back, and the empty chair that is not empty. The Kept fight in good order with locked shields, the sergeant on the right, and the _Lusar_ with a short sword he has not drawn in a long time. The Giver does not move, and the air near the chair is a little thicker than elsewhere.
 
+> [!NOTE]
+> The Giver is run as a [[being-lmnshd|Luminshade]]: present, alien and not hostile. It never fights, and nothing the party does harms it.
+
 **Player choices.**
 
 - _Force:_ kill the _Lusar_, and command of the cohort passes to the one who took it. The Kept obey the new commander, and the commander is bound to the watch. A party that wins by sword is told, gently, to hold the door.
@@ -122,7 +144,7 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 
 **Purpose.** Reward the party and turn a lost cohort into a claim.
 
-**Situation.** Behind the standard-rack, in a stone-lined cell, the cohort's pay-chest is bolted to the floor. It holds the legion's last pay, in Ardin of the old striking, still legal tender and worth as much as any Ardin. The banner is in the rack, rotted but legible. The _Lusar_'s tablets of record lie beside the chest, and they show that the cohort held its post and was never recalled.
+**Situation.** Behind the standard-rack, in a stone-lined cell, the cohort's pay-chest is bolted to the floor. It holds the legion's last pay, in Ardin of the old striking, still legal tender and worth as much as any Ardin. [[miscgear-keptstandard|The banner]] is in the rack, rotted but legible. The _Lusar_'s tablets of record lie beside the chest, and they show that the cohort held its post and was never recalled.
 
 **NPCs and threats.** The Kept, until the watch ends. After it ends, nobody.
 
@@ -139,7 +161,11 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 
 **If bypassed.** If the party leaves the watch unrelieved, the chest stays bolted, and the Kept go on.
 
-### Aftermath
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The door is kept. The roll grows by whoever eats: the drover's boy is counted at the door each night, an Order antiquarian who pays for the hunter's road to the woods comes to the fold with hired men and sits down to eat, and the hall has more sentries by spring. The unrusted helmet in Valdun is the first of several things to come out of the hill, and the Order's antiquarians follow them in.
+
+## Aftermath {#aftermath}
 
 - **If the Lusar asked,** the watch ends. The hill is quiet, the fire goes out, and the drovers drive their flocks through the fold.
 - **If a party member took command,** the hall has a new _Lusar_ who cannot leave. The Kept obey, and a rescue is a later story.
@@ -147,10 +173,11 @@ The [Kept]{.name data-type="affiliation"} do not age, do not sleep, and do not l
 - **If the party robbed the chest,** the fire burns on, and the drovers tell the story of the thieves who ate.
 - **The tablets** reach Péravel either way: someone carries them, or someone sells them.
 
-### See Also
+## See Also {#see-also}
 
 - [[place-kptfr|The Kept Fire]]
 - [[lore-elvtribute|The Tribute of Élavendre]]—the war at Valdun
 - [[lore-theasking|The Asking]]—what asking is for
-- [[affiliation-vylarinmpr|Vilérian Empire]] · [[affiliation-bardicolgs|the Bardic Colleges]]
+- [[affiliation-vylarinmpr|Vilérian Empire]] · [[affiliation-vylrnmltry|Vilérian Military]] · [[affiliation-bardicolgs|the Bardic Colleges]]
+- [[being-solkimoslsr|Solkimos]] · [[being-thelvarnkpt|Thelvaran]]
 - [[lore-vylrncrncy|Vilérian Currency]]

@@ -5,12 +5,20 @@ type: place
 subType: feature
 description: "The road a Vilérian legion marched into the hills of Áuldalon and the silver of the tribute went east along, marked with imperial milestones that run from the east and stop at the gate of Valdun."
 tags: [road, hill, frontier]
-data: {demonym: null, lore: [], parents: [auldalon], population: null, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [auldalon]
+  routes:
+    - {to: valdun, bearing: NW, mode: land, days: 5, terrain: [hills, road]}
+    - {to: leonrik, bearing: SE, mode: land, days: 5, terrain: [hills, road]}
+  population: null
+  packFolder: elavendre
 ---
 
 ## Overview {#overview}
 
-**The Tribute Road** is the road the legion marched into the eastern hills of [[place-auldalon|Áuldalon]] and the road the yearly silver of [[lore-elvtribute|the Tribute of Élavendre]] went east along. It comes up out of the occupied march of [[place-leonrik|Lyenrik]], crosses the hills on the ridges, and ends at the gate of [[place-valdun|Valdun]], where the treaty was made. Imperial milestones mark it from the east, one to each mile, and they stop at the gate. West of Valdun the Empire laid no road at all.
+**The Tribute Road** is the road the legion marched into the eastern hills of [[place-auldalon|Áuldalon]] and the road the yearly silver of [[lore-elvtribute|the Tribute of Élavendre]] went east along. It comes up out of the lowlands of [[place-leonrik|Lyenrik]], which the Empire held as an occupied march, crosses the hills on the ridges, and ends at the gate of [[place-valdun|Valdun]], where the treaty was made. A pack-train takes about ten days from the first towers of Lyenrik to the gate. Imperial milestones mark it from the east, one to each mile, and they stop at the gate. West of Valdun the Empire laid no road at all.
 
 People call it the Tribute Road because of what it carried, and the name has outlasted the tribute. A drover, a pack-train master and a hill levyman all say it without thinking of silver.
 

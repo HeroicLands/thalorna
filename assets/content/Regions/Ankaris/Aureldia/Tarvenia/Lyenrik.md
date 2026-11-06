@@ -11,6 +11,9 @@ data:
   parents: [tarvenirgn]
   population: 1000000
   borders: [{to: asturath, bearing: N}, {to: galvaren, bearing: W}, {to: vylarianse, bearing: S}]
+  routes:
+    - {to: valdun, bearing: NW, mode: land, days: 10, terrain: [hills, road]}
+    - {to: trbtrd, bearing: NW, mode: land, days: 5, terrain: [hills, road]}
   packFolder: tarvenia
   government: kingdmlnrk
 ---
@@ -23,7 +26,7 @@ It is the richest farmland in the western part of the [[place-ankrscntnnt|Ankari
 
 ## The Land
 
-The country runs about four days' ride from the foot of the mountains to the shore. In the north it begins in foothills under the peaks of Asturath, where [[place-ronetho|Ornetho]] stands at the mouth of the gorge. South of the city the land opens into a wide, gently falling plain of wheat and barley, cut by hedges, lanes and the walls of manors, with a fortified manor house to every few villages and a walled town about a day's ride from the next. Along the eastern side of the plain rise the eastern hills, low and dry, whose south faces carry the vineyards of [[place-enthara|Enthara]] and olive groves below them. To the west the plain climbs into the forests that mark the border with [[place-galvaren|Galvaren]]. In the south it ends in salt marsh, mudflat and shingle, a coast with no harbor worth the name; the harbor of that coast is [[place-valthari|Valthari]]'s.
+The country runs about four days' ride from the foot of the mountains to the shore. In the north it begins in foothills under the peaks of Asturath, where [[place-ronetho|Ornetho]] stands at the mouth of the gorge. South of the city the land opens into a wide, gently falling plain of wheat and barley, cut by hedges, lanes and the walls of manors, with a fortified manor house to every few villages and a walled town about a day's ride from the next. Along the eastern side of the plain rise the eastern hills, low and dry, whose south faces carry the vineyards of [[place-enthara|Enthara]] and olive groves below them. Through those hills runs the old imperial road the legions marched north-west to [[place-valdun|Valdun]] in Élavendre, [[place-trbtrd|the Tribute Road]], about ten days for a pack-train from the first towers of the plain to Valdun's gate. To the west the plain climbs into the forests that mark the border with [[place-galvaren|Galvaren]]. In the south it ends in salt marsh, mudflat and shingle, a coast with no harbor worth the name; the harbor of that coast is [[place-valthari|Valthari]]'s.
 
 The plain is made by one river. The [Thalsira]{.name data-type="place/feature"}, the red river, rises in the mountains above Ornetho, comes out of its gorge under the city's walls and runs south through the whole length of Lyenrik to the marsh below [[place-bruthena|Bruthena]]. Its name comes from the color of its water: _thal_ is red, and in spring the Thalsira runs the color of the clay it carries down from the hills. That clay is the wealth of the lowlands. The river spreads it over the water meadows every year, and the same clay, fired, builds every brick town of the plain.
 

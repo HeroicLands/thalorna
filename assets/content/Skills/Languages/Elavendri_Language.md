@@ -7157,6 +7157,45 @@ data:
     - {name: Lóuresand, tongue: elavendri}
     - {name: Háresand, tongue: elavendri}
     - {name: Dórkima, tongue: elavendri}
+    - {name: Hálvilon Sérdalnde, tongue: elavendri}
+    - {name: Chancellor Hálvilon, tongue: translation}
+    - {name: Lord Hálvilon, tongue: translation}
+    - {name: Ánsevirsa Kélvasende, tongue: elavendri}
+    - {name: Treasurer Ánsevirsa, tongue: translation}
+    - {name: Nyevarne Sémrothende, tongue: elavendri}
+    - {name: Justiciar Nyevarne, tongue: translation}
+    - {name: Lady Nyevarne, tongue: translation}
+    - {name: Thaurand Lísernde, tongue: elavendri}
+    - {name: Forester Thaurand, tongue: translation}
+    - {name: Úrthaven Ósselnde, tongue: elavendri}
+    - {name: Butler Úrthaven, tongue: translation}
+    - {name: Írvale Háresende, tongue: elavendri}
+    - {name: Sheriff Írvale, tongue: translation}
+    - {name: Sheriff of Éllive, tongue: translation}
+    - {name: Tírvale Úlmernde, tongue: elavendri}
+    - {name: Sheriff Tírvale, tongue: translation}
+    - {name: Sheriff of Lirve, tongue: translation}
+    - {name: Adrila Salreth, tongue: elavendri}
+    - {name: Harbor-Clerk Adrila, tongue: translation}
+    - {name: Háresand Othral, tongue: elavendri}
+    - {name: Lieutenant Háresand, tongue: translation}
+    - {name: Olthe Mórlineth, tongue: elavendri}
+    - {name: Coroner Olthe, tongue: translation}
+    - {name: Mistress Áelithra, tongue: translation}
+    - {name: Royal Loremaster, tongue: translation}
+    - {name: Denrik Rénkaris, tongue: elavendri}
+    - {name: Master Denrik, tongue: translation}
+    - {name: Alena Alverin, tongue: elavendri}
+    - {name: Selith Alverin, tongue: elavendri}
+    - {name: Parkel Darel, tongue: elavendri}
+    - {name: Sergeant Parkel, tongue: translation}
+    - {name: Norven Halren, tongue: elavendri}
+    - {name: Devrik Véldarin, tongue: elavendri}
+    - {name: Envoy Devrik, tongue: translation}
+    - {name: Vendrik Othral, tongue: elavendri}
+    - {name: Torlan Salreth, tongue: elavendri}
+    - {name: Varlan Gárath, tongue: elavendri}
+    - {name: Válena Drindal, tongue: elavendri}
   retired:
     - {form: Tirwen, instead: Éllive, why: a name borrowed from an Earth tongue}
     - {form: Glanmor, instead: Lirve, why: a name borrowed from an Earth tongue}
@@ -7260,6 +7299,12 @@ data:
     - {form: drýenalon, instead: dríenalon, why: y is never a vowel}
     - {form: rýedamon, instead: ríedamon, why: y is never a vowel}
     - {form: rynel, instead: rinel, why: y is never a vowel}
+    - {form: Alveryn, instead: Alverin, why: "a sound Élavendri lacks: y"}
+    - {form: Barcel, instead: Parkel, why: "a sound Élavendri lacks: b and c"}
+    - form: Warlan Garanth
+      instead: Varlan Gárath
+      why: "a sound Élavendri lacks: w, and a final nth"
+    - {form: Fálena Bryndal, instead: Válena Drindal, why: "a sound Élavendri lacks: f, b and y"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

@@ -15,7 +15,7 @@ data:
   homes: [beravel]
   affiliations:
     hsehalvireth: {rank: 2, office: Head of the House of Hálvireth}
-    kngdmlvndr: {rank: 5}
+    kngdmlvndr: {rank: 5, office: Councilor of the Crown}
   socialTies: {being-kurthandlauv: acquaintance}
   gender: male
   species: humanflk
@@ -39,7 +39,7 @@ Taeren is a 36-year-old man who stands 5'10" tall and is of medium build. He is 
 
 # Dossier {#dossier}
 
-Taeren is the head of [[affiliation-hsehalvireth|the House of Hálvireth]], a lowland house of the middle rank holding river-meadows in the basin of [[place-beravriver|the Berav]] below [[place-beravel|Péravel]], and he keeps a house at the capital. He holds the meadows, and his people eat. His heir is his infant daughter, Sílvera, counted into the line at her naming feast in the hearing of everyone who might dispute it.
+Taeren is the head of [[affiliation-hsehalvireth|the House of Hálvireth]], a lowland house of the middle rank holding river-meadows in the basin of [[place-beravriver|the Berav]] below [[place-beravel|Péravel]], and he keeps a house at the capital, where he holds a chair on the royal council as a Councilor of the Crown. He holds the meadows, and his people eat. His heir is his infant daughter, Sílvera, counted into the line at her naming feast in the hearing of everyone who might dispute it.
 
 The house claims the old blood through Sírtala, a woman of the Dhárgandi who came down to the basin, and every autumn its bard goes up to the fair at [[place-elanmere|Elanmere]] and sings her line before the Dhárgandi camped on the shore. Nobody has ever stood up. This year a Dhárgandi elder has sent word down that he means to hear it, and the Dhárgandi keep no daughter of the man the house names as Sírtala's father. The house's standing rests on the old blood, and Taeren knows it.
 
@@ -78,7 +78,7 @@ The Dhárgandi elder who means to hear the claim, and any house that would profi
 ### Affiliations
 
 - **[[affiliation-hsehalvireth|House of Hálvireth]]**: Taeren is Of the Line and holds the office of Head of the House of Hálvireth.
-- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: He is a Noble of the crown.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: He is a Noble of the crown and holds the office of Councilor of the Crown.
 
 ## Plot Hooks
 
