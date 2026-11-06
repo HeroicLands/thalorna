@@ -1,13 +1,13 @@
 ---
 shortcode: aelwthlng
-name: {full: Eilwithi Language}
+name: {full: Eilwìthi Language}
 type: skill
 subType: language
-description: "The speech of the island of Eilwith, given in these pages in the older register of thou and thee."
+description: "The speech of the island of Eilwìth, given in these pages in the older register of thou and thee."
 tags: []
 
 data:
-  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚ0123456789"
+  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚìÌ0123456789"
   core: true
   abbreviation: Aelw.
   fields:
@@ -2621,10 +2621,10 @@ data:
       field: Ability and conversation
       gloss: I do not understand; stating a failure to comprehend
       concept: expression-i-do-not-understand
-    - form: "How sayst thou this in Eilwithi."
+    - form: "How sayst thou this in Eilwìthi."
       class: call
       field: Ability and conversation
-      gloss: How do you say this in Eilwithi? A request for a translation or the words that express a thing or thought
+      gloss: How do you say this in Eilwìthi? A request for a translation or the words that express a thing or thought
       concept: expression-how-do-you-say
     - form: "What kallest thou this."
       class: call
@@ -3677,22 +3677,22 @@ data:
     - form: Harmund
       class: name
       field: Ordinary speech
-      gloss: an established Eilwithi given name
+      gloss: an established Eilwìthi given name
       variants: [Harmundes]
     - form: Hildrik
       class: name
       field: Ordinary speech
-      gloss: an established Eilwithi given name
+      gloss: an established Eilwìthi given name
       variants: [Hildrikes]
     - form: Mildwald
       class: name
       field: Ordinary speech
-      gloss: an established Eilwithi given name
+      gloss: an established Eilwìthi given name
       variants: [Mildwaldes]
     - form: Wilwin
       class: name
       field: Ordinary speech
-      gloss: an established Eilwithi given name
+      gloss: an established Eilwìthi given name
       variants: [Wilwines]
     - form: Koldford
       class: name
@@ -3971,9 +3971,9 @@ data:
       - "Adwik"
   scope:
     types: [place, being]
-    folders: [aelwyth]
+    folders: [eilwith]
     addresses:
-      - place-aelwyth
+      - place-eilwith
       - place-veldareth
       - place-vardanreach
       - place-ironfells
@@ -4285,7 +4285,7 @@ data:
     - {name: Dunmore, kind: byname, built: [dun, more]}
     - {name: Godrun, kind: given, built: [god, run]}
     - {name: Winley, kind: byname, built: [win, ley]}
-    - {name: Eilwith, kind: place, why: The island's name; no element builds it.}
+    - {name: Eilwìth, kind: place, why: The island's name; no element builds it.}
     - name: Alananor
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
@@ -4323,7 +4323,7 @@ data:
     - name: Dúnavarre
       kind: place
       why: A realm name shaped like the mainland names; no element builds it.
-    - {name: Eldskari, kind: byname, why: A Nordmal name borne by an Eilwithan of Nordmen descent.}
+    - {name: Eldskari, kind: byname, why: A Nordmal name borne by an Eilwìthan of Nordmen descent.}
     - name: Elowir
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
@@ -4335,7 +4335,7 @@ data:
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
     - name: Hafringur
       kind: byname
-      why: A Nordmal name borne by an Eilwithan of Nordmen descent.
+      why: A Nordmal name borne by an Eilwìthan of Nordmen descent.
     - name: Hawise
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
@@ -4395,7 +4395,7 @@ data:
     - name: Rowena
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
-    - {name: Sigrún, kind: given, why: A Nordmal name borne by an Eilwithan of Nordmen descent.}
+    - {name: Sigrún, kind: given, why: A Nordmal name borne by an Eilwìthan of Nordmen descent.}
     - name: Stormveld
       kind: place
       why: "Storm joined to veld, an element the lowland names do not use."
@@ -4411,7 +4411,7 @@ data:
     - name: Thábavel
       kind: byname
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - {name: Thorir, kind: given, why: A Nordmal name borne by an Eilwithan of Nordmen descent.}
+    - {name: Thorir, kind: given, why: A Nordmal name borne by an Eilwìthan of Nordmen descent.}
     - name: Torad
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
@@ -4425,6 +4425,15 @@ data:
     - {name: Wenlorne Stage, kind: place, why: A place name of two words; no element builds it.}
     - {name: Drethar, kind: given, why: An established royal given name retained as a whole.}
   retired:
+    - form: Eilwith
+      instead: Eilwìth
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: Eilwithi
+      instead: Eilwìthi
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: Eilwithan
+      instead: Eilwìthan
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
     - {form: already, instead: alreadi, why: y is never a vowel}
     - {form: ashby, instead: ashbi, why: y is never a vowel}
     - {form: assuredly, instead: assuredli, why: y is never a vowel}
@@ -4508,19 +4517,19 @@ sohl:
   flags: {"thalorna": {lang_family: Pelwar}}
 ---
 
-Eilwithi is the speech of the island of [[place-aelwyth|Eilwith]]. Fluency measures the sophistication of expression in Eilwithi, from the halting phrases of a visitor to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Eilwìthi is the speech of the island of [[place-eilwith|Eilwìth]]. Fluency measures the sophistication of expression in Eilwìthi, from the halting phrases of a visitor to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The [[skill-aelwthlng#lexicon|Eilwithi Lexicon]] gives words and useful phrases, the elements the island's names are built from, and the names in use.
+The [[skill-aelwthlng#lexicon|Eilwìthi Lexicon]] gives words and useful phrases, the elements the island's names are built from, and the names in use.
 
 ## Overview
 
-Eilwithi is the tongue of the three Eilwithan realms, the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], which share essentially one culture and one speech though they share no political order ([[lore-aelwythanclt|Eilwithan]]). It is spoken in the manor and the market town, at the [[affiliation-dunavarsynod|Synod]]'s harbor and in the [Senate]{.name data-type="affiliation/governmental"}'s portico, and an Eilwithan carries it wherever the island's people go.
+Eilwìthi is the tongue of the three Eilwìthan realms, the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], which share essentially one culture and one speech though they share no political order ([[lore-aelwythanclt|Eilwìthan]]). It is spoken in the manor and the market town, at the [[affiliation-dunavarsynod|Synod]]'s harbor and in the [Senate]{.name data-type="affiliation/governmental"}'s portico, and an Eilwìthan carries it wherever the island's people go.
 
-Nearly every human on the island descends from the [[lore-pelwarpepl|Pelwar refugees]] who reached it about 1200 BF, and Eilwithi is the speech of those descendants. The notes name no mainland tongue as its parent and give no account of how it parted from the speech the refugees brought, and this page says no more than they do.
+Nearly every human on the island descends from the [[lore-pelwarpepl|Pelwar refugees]] who reached it about 1200 BF, and Eilwìthi is the speech of those descendants. The notes name no mainland tongue as its parent and give no account of how it parted from the speech the refugees brought, and this page says no more than they do.
 
-Other speech on the island stands apart from it. The [[lore-nordheimnclt|Nordmen]] of [[place-stormveld|Stormveld]] speak [[skill-nordmalng|Nordmal]], and the [[place-pshtrwldrns|Peshtar clans]] keep a language family of their own with no written form. Eilwithi is not the speech of either.
+Other speech on the island stands apart from it. The [[lore-nordheimnclt|Nordmen]] of [[place-stormveld|Stormveld]] speak [[skill-nordmalng|Nordmal]], and the [[place-pshtrwldrns|Peshtar clans]] keep a language family of their own with no written form. Eilwìthi is not the speech of either.
 
-## How Eilwithi sounds {#pronunciation}
+## How Eilwìthi sounds {#pronunciation}
 
 The vocabulary entries and name register are authoritative. Their recorded
 forms, meanings, pronunciation and context notes, together with expressly
@@ -4529,15 +4538,15 @@ An explicit present-tense table form takes precedence over its regular pattern.
 A flat list of variants attests those forms without assigning each a tense,
 person or other grammatical role.
 
-Where no entry or Eilwithi rule specifies otherwise, ordinary English supplies
+Where no entry or Eilwìthi rule specifies otherwise, ordinary English supplies
 the vocabulary, meaning, grammar and dictionary pronunciation. An English-derived word
-need not appear in the lexicon to be usable, but its Eilwithi spelling must
+need not appear in the lexicon to be usable, but its Eilwìthi spelling must
 follow the respelling rules below. The historical sound conventions
 below are a finite practical reading standard; they do not require recovering
 a historical pronunciation for every word. An unlisted or uncertain reading
 uses an ordinary English dictionary unless a local rule overrides it.
 
-English-derived words use Eilwithi spelling while keeping their familiar
+English-derived words use Eilwìthi spelling while keeping their familiar
 word readings. Every word, name, variant and grammatical form follows this
 alphabet: c occurs only in ch, and x is absent. Coined words and names use
 the fixed transcription on this page unless an authoritative entry states
@@ -4545,7 +4554,7 @@ an exception. A coined spelling has one canonical pronunciation,
 including stress; different spellings may give the same sound. The easy
 pronunciations for play below do not change a word's lexical identity.
 [[doc-prnncthlrn|Pronouncing Thalorna]] supplies background on the shared
-transcription; this note states the Eilwithi rules in full.
+transcription; this note states the Eilwìthi rules in full.
 
 A new, unrecorded coinage must not duplicate a whole English word, including
 its admitted inflections and documented historical spellings. Capitalization
@@ -4558,7 +4567,7 @@ coinage without such an entry or exception.
 
 ### English-derived words {#english-pronunciation}
 
-Eilwithi respells its English-derived vocabulary consistently:
+Eilwìthi respells its English-derived vocabulary consistently:
 
 - c before e, i or y becomes s; sc before those letters also becomes s.
 - ck becomes k, and every other c becomes k, except in ch.
@@ -4567,8 +4576,8 @@ Eilwithi respells its English-derived vocabulary consistently:
 
 An English-derived word keeps its English sound and is written in the common letters: _kìdni_.
 
-Thus English silence is Eilwithi silense, pack is pak and exact is eksakt.
-English skeptic is Eilwithi skeptik, an explicit exception to the sc rule.
+Thus English silence is Eilwìthi silense, pack is pak and exact is eksakt.
+English skeptic is Eilwìthi skeptik, an explicit exception to the sc rule.
 The vocabulary records the exceptions needed to distinguish colliding forms:
 English scent is sente, distinct from sent, and thick is thikke. These added
 final e spellings retain their English-derived readings; a single preceding
@@ -4590,7 +4599,7 @@ penultimate stress rule for English words, and an unstressed vowel may reduce
 to uh as the word's reading requires.
 
 The English source spellings in this table identify lexical sound classes.
-They are pronunciation models, not alternative Eilwithi spellings. They are not
+They are pronunciation models, not alternative Eilwìthi spellings. They are not
 unconditional substitutions for every occurrence of the listed letters.
 Apply a class where its familiar example or an explicit entry identifies
 the word's reading; other spellings and unresolved cases retain their dictionary reading.
@@ -4624,7 +4633,7 @@ respell English words.
 
 English-derived consonants keep their source word readings with these
 explicit conventions. The table cites English source spellings; c and x
-are respelled by the rules above before an Eilwithi word is written:
+are respelled by the rules above before an Eilwìthi word is written:
 
 | Spelling                              | Reading                                                                          |
 | ------------------------------------- | -------------------------------------------------------------------------------- |
@@ -4733,7 +4742,7 @@ In coined spellings, ny stands before a vowel, and y stands before a vowel or cl
 A word boundary keeps consonants out of a group: as ha has separate s and h,
 whereas asha contains sh. A compound written as one word is read as a whole,
 including where its naming elements meet. Choose a separate phrase when the
-consonants must stay separate. Eilwithi spelling uses no apostrophe for a
+consonants must stay separate. Eilwìthi spelling uses no apostrophe for a
 glottal catch; an exact native character can instead be cited by font codage.
 
 #### Syllables, stress and marks {#stress}
@@ -4777,22 +4786,22 @@ coining another word.
 
 ### Foreign words and names {#foreign-names}
 
-A foreign word used as Eilwithi is adapted into Eilwithi speech and respelled
-by its fixed transcription. Its Eilwithi form is pronounced entirely by the
+A foreign word used as Eilwìthi is adapted into Eilwìthi speech and respelled
+by its fixed transcription. Its Eilwìthi form is pronounced entirely by the
 coined-word rules, not by the source language. A borrowed word that is already
 an ordinary English word uses the conventional-English exception.
 
-A foreign name likewise has a pronounceable Eilwithi form, rather than requiring
+A foreign name likewise has a pronounceable Eilwìthi form, rather than requiring
 a reader to know another tongue's spelling. Where a source name contains a
-sound or consonant cluster Eilwithi speakers cannot pronounce, its adapted form
-uses pronounceable Eilwithi sounds and syllables. The register states that form
+sound or consonant cluster Eilwìthi speakers cannot pronounce, its adapted form
+uses pronounceable Eilwìthi sounds and syllables. The register states that form
 and may identify the person or place it names. An acute marks exceptional
 stress; a mark is not retained merely as part of a foreign spelling. Adapted
-forms mark a sounded second vowel with a diaeresis, as every Eilwithi word does.
+forms mark a sounded second vowel with a diaeresis, as every Eilwìthi word does.
 
 ### The naming palette {#naming-palette}
 
-Eilwithi names have two parts, each an old word: a first part such as _Ald-_,
+Eilwìthi names have two parts, each an old word: a first part such as _Ald-_,
 _Ed-_, _God-_, _Hild-_ or _Leof-_, and a second such as _-wald_, _-rik_,
 _-mund_, _-rith_, _-win_ or _-run_. The elements and the complete name obey the
 coined-word rules, including stress across the complete name, except where
@@ -4817,27 +4826,27 @@ explicit exception is recorded.
 
 ## Beside Élavendri and Vilari
 
-Three tongues meet on Eilwith, each with its own work. Eilwithi is the island's own speech: plain, direct and quick to take in foreign words. Mainlanders call it coarse; Eilwithans hold that its plainness is honesty.
+Three tongues meet on Eilwìth, each with its own work. Eilwìthi is the island's own speech: plain, direct and quick to take in foreign words. Mainlanders call it coarse; Eilwìthans hold that its plainness is honesty.
 
-[[skill-elvndrlng|Élavendri]] is the language of courts and verse. Its grammar draws fine distinctions of rank, courtesy and feeling that Eilwithi leaves unsaid, and it carries prestige at court, above all at [[affiliation-kingdmdnvr|Dúnavarre]], whose Synod keeps close ties with the Élavendren royal house. [[skill-vylarilng|Vilari]] is the language of law, scholarship and treaty, and the learned, clergy, lawyers and diplomats of the island use it as their counterparts across the west do.
+[[skill-elvndrlng|Élavendri]] is the language of courts and verse. Its grammar draws fine distinctions of rank, courtesy and feeling that Eilwìthi leaves unsaid, and it carries prestige at court, above all at [[affiliation-kingdmdnvr|Dúnavarre]], whose Synod keeps close ties with the Élavendren royal house. [[skill-vylarilng|Vilari]] is the language of law, scholarship and treaty, and the learned, clergy, lawyers and diplomats of the island use it as their counterparts across the west do.
 
-Ordinary folk who stay at home speak Eilwithi alone. The traveled and educated commonly have more: nobles and courtiers, the learned, merchants and traders, sailors, and anyone who goes abroad. Such a person speaks Eilwithi, the neighbor's Élavendri, and Vilari for anything written to last. The learned and well-traveled of [[place-elavendre|Élavendre]] likewise speak Eilwithi. Eilwithi and Élavendri have long borrowed words from each other.
+Ordinary folk who stay at home speak Eilwìthi alone. The traveled and educated commonly have more: nobles and courtiers, the learned, merchants and traders, sailors, and anyone who goes abroad. Such a person speaks Eilwìthi, the neighbor's Élavendri, and Vilari for anything written to last. The learned and well-traveled of [[place-elavendre|Élavendre]] likewise speak Eilwìthi. Eilwìthi and Élavendri have long borrowed words from each other.
 
-## How Eilwithi is written down
+## How Eilwìthi is written down
 
-Eilwithi is given in these pages in readable Roman spelling, in a register that stays older than the ordinary prose of the notes. Anything said, sung or recorded in Eilwithi is set in this register throughout: quoted speech, songs, proverbs, oaths, charms and folklore. The notes that describe the language, the people and the land stay in the setting's ordinary present-tense prose; only the text in Eilwithi follows the rules below.
+Eilwìthi is given in these pages in readable Roman spelling, in a register that stays older than the ordinary prose of the notes. Anything said, sung or recorded in Eilwìthi is set in this register throughout: quoted speech, songs, proverbs, oaths, charms and folklore. The notes that describe the language, the people and the land stay in the setting's ordinary present-tense prose; only the text in Eilwìthi follows the rules below.
 
-Eilwithi is written in the [[skill-semrnscrpt|Semaron Script]], in the Kuriale
+Eilwìthi is written in the [[skill-semrnscrpt|Semaron Script]], in the Kuriale
 hand. Roman spellings and spoken readings follow this note. The separate
-[[doc-aelwsemaronenc|Eilwithi Semaron Encoding]] defines how those spellings
+[[doc-aelwsemaronenc|Eilwìthi Semaron Encoding]] defines how those spellings
 are written in the font. Its glyph codes belong to Semaron Kuriale; its
 mappings and rules belong to this language. A run naming that encoding gets
-its Eilwithi language and Kuriale face from the encoding note. A language
+its Eilwìthi language and Kuriale face from the encoding note. A language
 without an encoding remains Roman text.
 
 ### Rules for writers {#writing-rules}
 
-Use the Eilwithi respellings above for English-derived words and the fixed
+Use the Eilwìthi respellings above for English-derived words and the fixed
 transcription for coinages. The shared punctuation standard applies: a period
 ends a complete sentence, a comma marks an internal pause, ? marks a question,
 ‼ an imperative and ! an exclamation. Semicolons and colons are not used.
@@ -4848,8 +4857,8 @@ interruption, not an ordinary pause. Verse boundaries are structural.
 The possessive is -es, added to the full stem without an apostrophe: kinges
 from king, summeres from summer and stonees from stone. A plural stem likewise
 takes -es, as loverses from lovers. The stem's lexical stress is retained.
-Other elisions omit the apostrophe: English o'er is Eilwithi oer, without
-restoring the omitted v. Apostrophes are not Eilwithi characters.
+Other elisions omit the apostrophe: English o'er is Eilwìthi oer, without
+restoring the omitted v. Apostrophes are not Eilwìthi characters.
 
 There are no hyphenated words. An established joined form is written as one
 word, as kandlelight; descriptive combinations remain separate words, as
@@ -5006,7 +5015,7 @@ The knight said I shall return ere night.
 :::
 
 Convey emphasis through word choice, order and inversion, repetition,
-parallelism and antithesis. Eilwithi passages use no bold, italics or underline.
+parallelism and antithesis. Eilwìthi passages use no bold, italics or underline.
 Fronting can give prominence to an object or refusal:
 
 ::: {lang=aelw font=serif}
@@ -5039,7 +5048,7 @@ I did warn thee.
 **Worked phrases.** These examples preserve number, tense and the intended
 meaning while applying the same grammar:
 
-| Meaning                                                                            | Eilwithi                                                                   |
+| Meaning                                                                            | Eilwìthi                                                                   |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Where are you going? We have been waiting for you since morning. (One addressee.)  | Whither goest thou. We haven been waiting for thee sinse morn.             |
 | Do not enter the forest after dark. Dangerous things live there.                   | Enter not the forest after nightfall. Perilous things dwellen therein.     |
@@ -5118,7 +5127,7 @@ syllables to a line.
 
 ### Verse forms {#verse-forms}
 
-Eilwithi verse is accentual: a line is counted by its beats, and its words keep
+Eilwìthi verse is accentual: a line is counted by its beats, and its words keep
 the readings set out above, so an English-derived word keeps its dictionary
 stress in verse as in speech. Rhyme falls on the stressed vowel and what follows
 it, never on a shared ending alone: _thine_ and _line_ rhyme, _goeth_ and
@@ -5140,7 +5149,7 @@ The harvest song and the crossroads charm above are four-beat couplets.
 
 ## Naming Traditions {#names}
 
-Names on Eilwith use the authoritative spellings given in the register. Their explicit notes take precedence; otherwise ordinary English words keep their familiar readings and coined names obey the fixed pronunciation and stress rules above. The island's people name by compounding, and the same small stock of elements serves places, people and families.
+Names on Eilwìth use the authoritative spellings given in the register. Their explicit notes take precedence; otherwise ordinary English words keep their familiar readings and coined names obey the fixed pronunciation and stress rules above. The island's people name by compounding, and the same small stock of elements serves places, people and families.
 
 **A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greywater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
 
@@ -5148,14 +5157,14 @@ Names on Eilwith use the authoritative spellings given in the register. Their ex
 
 **A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsley_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grayling_ does.
 
-**Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Eilwith_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Eilwithi form and its origin or reason. An exception to the element pattern does not itself specify an exceptional pronunciation. The fixed sound and stress rules apply unless the register or an authored entry explicitly states another reading; foreign origin alone does not supply one. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Eilwithi spelling.
+**Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Eilwìth_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Eilwìthi form and its origin or reason. An exception to the element pattern does not itself specify an exceptional pronunciation. The fixed sound and stress rules apply unless the register or an authored entry explicitly states another reading; foreign origin alone does not supply one. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Eilwìthi spelling.
 
-## Eilwithi Lexicon
+## Eilwìthi Lexicon
 
-Eilwithi is the speech of Eilwith, plain, direct and quick to take in foreign words, and the setting gives it in the reader's own language, in the older register set out above. Mainlanders call it coarse; Eilwithans hold that its plainness is honesty. This note states the English-word sound conventions and fixed coined transcription; explicit lexical and name-register notes take precedence. Ordinary English supplies meanings, grammar and dictionary readings where neither an entry nor a local rule specifies otherwise. Every lexical form follows the Eilwithi respelling rules. The encoding writes
+Eilwìthi is the speech of Eilwìth, plain, direct and quick to take in foreign words, and the setting gives it in the reader's own language, in the older register set out above. Mainlanders call it coarse; Eilwìthans hold that its plainness is honesty. This note states the English-word sound conventions and fixed coined transcription; explicit lexical and name-register notes take precedence. Ordinary English supplies meanings, grammar and dictionary readings where neither an entry nor a local rule specifies otherwise. Every lexical form follows the Eilwìthi respelling rules. The encoding writes
 those forms directly without stored native spellings. The vocabulary below covers ordinary actions, feelings, relationships, questions and reasoning. The naming tables record the elements of place names, given names and bynames, and the names already in use.
 
-The elements are the island's own, and the pattern they make is what keeps a new name from sounding as if it came from another coast. A new place, person or family on Eilwith is built from the elements below, or it is a plain exception and is entered in the last table with the reason.
+The elements are the island's own, and the pattern they make is what keeps a new name from sounding as if it came from another coast. A new place, person or family on Eilwìth is built from the elements below, or it is a plain exception and is entered in the last table with the reason.
 
 ## Words and useful phrases {#lexicon}
 

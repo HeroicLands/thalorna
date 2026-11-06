@@ -386,4 +386,4 @@ years against a species they know to be innocent, and never once revisited.
 ## See Also
 
 - [[miscgear-secondvoice|The Second Voice]] · [[lore-flkkhazar|Khazari]] · [[lore-flksinale|Sinale]]
-- [[lore-grukarfolk|Grukar Folk]] · [[lore-grukaraelwyth|the Grukar of Eilwith]]
+- [[lore-grukarfolk|Grukar Folk]] · [[lore-grukaraelwyth|the Grukar of Eilwìth]]

@@ -392,7 +392,7 @@ Hildwiin Browning is a 20-year-old woman who stands 5'6" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Hildwiin Browning is a prostitute.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Hildwiin Browning is a prostitute.
 
 Hildwiin works at a busy brothel but has strong ties to [[affiliation-graytide|the Gray Tide]]. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
 
@@ -412,7 +412,7 @@ She is persuasive, resourceful, and good at gathering information.
 
 ## Social
 
-Hildwiin belongs to the Gray Tide, a maritime crime network operating in Eilwith.
+Hildwiin belongs to the Gray Tide, a maritime crime network operating in Eilwìth.
 
 ## Companions
 
@@ -436,7 +436,7 @@ Echoes of the Past
 : Someone from the family Hildwiin left behind finds her at the brothel.
 
 Shifting Winds
-: Political change in Eilwith threatens the Gray Tide's hold on the docks, and Hildwiin can adapt, resist, or leave.
+: Political change in Eilwìth threatens the Gray Tide's hold on the docks, and Hildwiin can adapt, resist, or leave.
 
 The Opportunity
 : The Gray Tide offers Hildwiin a place in the organization that would take her out of the brothel, and its price is not named up front.

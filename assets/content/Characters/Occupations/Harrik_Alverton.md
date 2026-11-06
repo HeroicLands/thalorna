@@ -398,7 +398,7 @@ Harrik Alverton is a 53-year-old man who stands 5'11" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Harrik Alverton is a farmer.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harrik Alverton is a farmer.
 
 Harrik has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Harrik often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
 
@@ -433,7 +433,7 @@ None; generally well-regarded in the community.
 ## Plot Hooks
 
 The Farmer's Dilemma
-: Harrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
+: Harrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
 
 Old Grudges
 : None; generally well-regarded in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -442,7 +442,7 @@ Echoes of the Past
 : Something from Harrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Harrik depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Harrik depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Harrik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

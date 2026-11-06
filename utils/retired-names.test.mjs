@@ -317,6 +317,11 @@ export const RETIRED = [
         replacement: "Araelwen (Úkua-Araelwen)",
         scope: "corpus",
     },
+    {
+        retired: ["Eilwith", "Eilwithi", "Eilwithan", "Eilwithans"],
+        replacement: "Eilwìth, Eilwìthi, Eilwìthan, Eilwìthans",
+        scope: "corpus",
+    },
     { retired: ["Via Aquaria"], replacement: "Ulmerkazthos", scope: "corpus" },
     { retired: ["naumachiae", "naumachia"], replacement: "mock sea-battles", scope: "corpus" },
     {

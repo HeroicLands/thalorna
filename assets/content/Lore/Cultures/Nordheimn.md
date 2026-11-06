@@ -87,7 +87,7 @@ data:
     complexion: {weathered: 4, ruddy: 3, freckled: 1, smooth: 1, scarred: 1}
     height: {female: {min: 5' 1", max: 5' 11"}, male: {min: 5' 4", max: 6' 6"}}
 
-# terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blet offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods. Norse settlement on Eilwith (Stormveld, Northeastern Scotland analog) stays culturally tied to its kindred kingdom across the sea."
+# terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blet offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods. Norse settlement on Eilwìth (Stormveld, Northeastern Scotland analog) stays culturally tied to its kindred kingdom across the sea."
 ---
 
 Sit one evening at a northern fire and three things come up before the ale is gone: whose kin you are, what you have sworn, and what people say of your grandmother. A skald of [[affiliation-skaldscrcl|the Skalds' Circle]] who teaches the fosterlings of a hall in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] gives them the whole culture in two sentences: "We live by the sea and by what our neighbors remember of us. The sea feeds you for a season; the remembering feeds your children."
@@ -102,7 +102,7 @@ Good conduct begins with keeping an oath, protecting kin and an accepted guest, 
 
 A false oath attacks the trust on which the whole society rests. Deliberate false witness at a ting, betrayal of guest protection, and hoarding shared food while dependents starve are shameful. So are robbing a grave and disturbing a place guarded by the dead without its customary permission. A person can be feared for violence and still be despised for these acts. The Jel telling of [[lore-aldarlok|Aldarlok]] counts what a broken oath costs in the gods' own time: [Broken oaths bite/at the years remaining./Trust rots slowly;/the roof beam weakens.]{.verse}
 
-This moral reckoning is strongest within the circle of kin, hall and pledged peace. The conquest of [[affiliation-jrldmstrmvld|Stormveld]] on [[place-aelwyth|Eilwith]] shows its limit. Nordmen seized the plain and enslaved its inhabitants; their descendants still work land held by the conquerors. Raids and the slave trade likewise reward acts that Nordmen condemn when done to their own people. Thoughtful Nordmen dispute an honor that protects a guest at the hearth while excusing the enslavement of strangers.
+This moral reckoning is strongest within the circle of kin, hall and pledged peace. The conquest of [[affiliation-jrldmstrmvld|Stormveld]] on [[place-eilwith|Eilwìth]] shows its limit. Nordmen seized the plain and enslaved its inhabitants; their descendants still work land held by the conquerors. Raids and the slave trade likewise reward acts that Nordmen condemn when done to their own people. Thoughtful Nordmen dispute an honor that protects a guest at the hearth while excusing the enslavement of strangers.
 
 ## The Reputation Is the Estate
 
@@ -278,7 +278,7 @@ A hall gathers a lord's close kin and sworn followers under one roof. Oath and a
 : the tongue and how a name is built in it
 
 [[affiliation-jrldmstrmvld|Stormveld]]
-: the conquered plain on Eilwith
+: the conquered plain on Eilwìth
 
 ## Glossary {#glossary}
 

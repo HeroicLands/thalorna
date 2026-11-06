@@ -6228,7 +6228,16 @@ data:
     - form: "-úlfur"
       instead: "-ulfur"
       why: "an acute on the syllable the common rule stresses does nothing"
-    - {form: Aelwyth, instead: Eilwith, why: respelled to Pronouncing Thalorna}
+    - {form: Aelwyth, instead: Eilwìth, why: respelled to Pronouncing Thalorna}
+    - form: Eilwith
+      instead: Eilwìth
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: Eilwithi
+      instead: Eilwìthi
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: Eilwithan
+      instead: Eilwìthan
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
     - {form: bodfyl, instead: bodfil, why: y is never a vowel}
     - {form: dyrva, instead: dirva, why: y is never a vowel}
     - {form: hravstyrma, instead: hravstirma, why: y is never a vowel}
@@ -6255,7 +6264,7 @@ sohl:
 
 Nordmal is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Nordmal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Nordmal is the tongue of the frozen north, spoken across the five [[lore-nordheimnclt|Nordmen]] kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Eilwith]] where Nordman settlers have established communities among the [[place-elavendre|Élavendri lands]]. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
+Nordmal is the tongue of the frozen north, spoken across the five [[lore-nordheimnclt|Nordmen]] kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-eilwith|Eilwìth]] where Nordman settlers have established communities among the [[place-elavendre|Élavendri lands]]. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
 
 ## Overview
 
@@ -6371,7 +6380,7 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 
 **Interior Highland:** Spoken in mountainous regions inland, preserves more archaic features.
 
-**Frontier Speech (Eilwith Nordmal):** A mixed variety spoken in north-eastern Eilwith, where the Nordmen of [[place-stormveld|Stormveld]] hold land, incorporating some [[skill-elvndrlng|Élavendri]] vocabulary and showing phonetic simplification due to bilingual contact.
+**Frontier Speech (Eilwìth Nordmal):** A mixed variety spoken in north-eastern Eilwìth, where the Nordmen of [[place-stormveld|Stormveld]] hold land, incorporating some [[skill-elvndrlng|Élavendri]] vocabulary and showing phonetic simplification due to bilingual contact.
 
 ## Sample Phrases
 
@@ -6442,7 +6451,7 @@ Nordmal stands closest to [[skill-varokhlng|Varokhi]], sharing many archaic Pelw
 
 The relationship to southern Pelwar languages ([[skill-vylarilng|Vilari]], [[skill-provnzlng|Provenzal]], [[skill-tarvenlng|Tarveni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
 
-[[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Eilwith, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
+[[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Eilwìth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
 
 ## Naming Traditions
 

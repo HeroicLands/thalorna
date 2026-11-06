@@ -118,7 +118,7 @@ Nordmen silver was earned under southern skies, and at home the eastern frontier
 
 ### The Stormveld Generation, 660 to 700
 
-Nordheim's king sent the fleets of three kingdoms over open sea to take [[place-aelwyth|Eilwith]]'s plain ([[lore-stormveldtkn|The Taking of Stormveld]]), and an iron-man was made at [[place-vrathavan|Vrathavan]] while they were away. The hungry whaling winter of 679 ended in the burning at [[place-askholm|Askholm]]; the king of Norgaad's brother was lost on the Saddle in 688; the [Stormhand Brotherhood]{.name data-type="affiliation/venture"} was broken in [[place-vrystwald|Vristwald]] about 692; and Vithgard's king died in 694 and his sons fought for seven summers ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
+Nordheim's king sent the fleets of three kingdoms over open sea to take [[place-eilwith|Eilwìth]]'s plain ([[lore-stormveldtkn|The Taking of Stormveld]]), and an iron-man was made at [[place-vrathavan|Vrathavan]] while they were away. The hungry whaling winter of 679 ended in the burning at [[place-askholm|Askholm]]; the king of Norgaad's brother was lost on the Saddle in 688; the [Stormhand Brotherhood]{.name data-type="affiliation/venture"} was broken in [[place-vrystwald|Vristwald]] about 692; and Vithgard's king died in 694 and his sons fought for seven summers ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
 
 ### The Present Reckoning, from 701
 

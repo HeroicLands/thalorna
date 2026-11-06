@@ -28,6 +28,15 @@ export const contentHash = (value) =>
  * current shortcode, by current shortcode.
  */
 const BASELINE_SHORTCODES = new Map([["tellumilng", "khazrilng"]]);
+/** Addresses the pinned baselines name, by the address that now stands in their place. */
+const BASELINE_ADDRESSES = new Map([["place-aelwyth", "place-eilwith"]]);
+/** `text` with every baseline address in {@link BASELINE_ADDRESSES} replaced by its current one. */
+function withCurrentAddresses(text) {
+    let out = text;
+    for (const [from, to] of BASELINE_ADDRESSES)
+        out = out.replace(new RegExp(`(?<![\\w-])${from}(?![\\w-])`, "gu"), to);
+    return out;
+}
 /**
  * The path a note had at a revision, found by its type and shortcode.
  *
@@ -172,10 +181,11 @@ export function inAmericanSpelling(before) {
 }
 /**
  * `text` with every listed British form in its American spelling, keeping initial case, and
- * the Vilérian forms of Viléria's names, and every vowel y respelled.
+ * the Vilérian forms of Viléria's names, every vowel y respelled, and every baseline address
+ * in its current form.
  */
 export function americanSpelling(text) {
-    return respellVowelYText(respellVileria(britishToAmerican(text)));
+    return respellVowelYText(respellVileria(britishToAmerican(withCurrentAddresses(text))));
 }
 function britishToAmerican(text) {
     const kept = [];

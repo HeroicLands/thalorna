@@ -12,7 +12,7 @@ data:
       until: -1100
       kind: migration
       depth: world
-      sources: [lore-pelwarpepl, place-aelwyth, place-threesisters]
+      sources: [lore-pelwarpepl, place-eilwith, place-threesisters]
       summary: >-
         Generations of pressure push whole Pelwar peoples west, south and east across half of Ankaris. It is not one exodus but a displacement running roughly three centuries, and it stops at the sea: the western coastline is where the movement runs out of land, which is why the Pelwar-descended peoples are packed along it as densely as they are. A few communities do the one thing left and go across the water. Some of the Varkhad follow them.
       standing: attested
@@ -23,7 +23,7 @@ data:
             how: >-
               the Áelendan hold that their language, their songs and the Kindred Pact are the closest surviving echo of the culture the movement carried here
             knowledge: named
-          - place: place-aelwyth
+          - place: place-eilwith
             how: >-
               tens of thousands land around 1200 BF of perhaps a hundred thousand who set out, and every human on the island today descends from those who made it
             knowledge: named
@@ -43,7 +43,7 @@ data:
           says: >-
             Our forebears entered into sacred agreement with the land itself when they first settled western Ankaris, and the Kindred Pact traces to it.
           agrees: partly
-        - by: place-aelwyth
+        - by: place-eilwith
           says: >-
             The newcomers' own kin were already here, settled generations deep, farming for elder-race lords. That is a large part of why the island could not simply refuse them.
           agrees: partly
@@ -52,7 +52,7 @@ data:
             Nothing about a flight. The people here are the ones who stayed and the ones who came after them.
           agrees: silent
       unresolved:
-        - how many died on the crossing to Eilwith, which the traditions do not give and which nobody serious puts below two in three
+        - how many died on the crossing to Eilwìth, which the traditions do not give and which nobody serious puts below two in three
 ---
 
 The [[lore-pelwarpepl|Pelwar]] were not a nation or a polity but a loose cultural-linguistic
@@ -64,7 +64,7 @@ It stopped at the sea. That is why the Pelwar-descended peoples—the [[lore-ela
 Nordmal, [[lore-varokhiclt|Varokhi]], Tarveni, Provenzal and the rest—are packed along the western coastline as densely
 as they are, and why a few communities did the only thing left and went across the water.
 
-**[[place-aelwyth|Eilwith]] lies something like two hundred and thirty sea-miles off the coast.** That is
+**[[place-eilwith|Eilwìth]] lies something like two hundred and thirty sea-miles off the coast.** That is
 not a distance barbarian peoples cross—not in the craft they had, not with families and stock
 aboard, not without pilots or charts. The ancestors of [[lore-vardain|the Vardain]] had come to the island as passengers, carried in
 [[lore-flkkhazar|Khazari]] bottoms by people who knew the water. The ones who came around 1200 BF came in whatever would

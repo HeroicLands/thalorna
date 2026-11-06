@@ -278,7 +278,7 @@ The rain has stopped and the cloud is lifting off the crag above the path, and f
 
 # Dossier {#dossier}
 
-The Mountain Drake is a lean, gray, spined lizard of the high crags, seven to eight feet from snout to tail-tip, with short wings that cannot lift it from flat ground but carry it a long way in a glide from a height. It hunts the goats, sheep, hares and birds of the steep country from ledges and outcrops, dropping onto them out of the cloud, and it fights anything that comes near its lair. It is an animal and not a true dragon, whatever the name. On [[place-aelwyth|Eilwith]] its country is [[place-ironfells|the Ironfells]], wet, steep and snow-covered for a third of the year, and the shepherds and smugglers who use the high ground there count it with the weather as the dangers of the passes.
+The Mountain Drake is a lean, gray, spined lizard of the high crags, seven to eight feet from snout to tail-tip, with short wings that cannot lift it from flat ground but carry it a long way in a glide from a height. It hunts the goats, sheep, hares and birds of the steep country from ledges and outcrops, dropping onto them out of the cloud, and it fights anything that comes near its lair. It is an animal and not a true dragon, whatever the name. On [[place-eilwith|Eilwìth]] its country is [[place-ironfells|the Ironfells]], wet, steep and snow-covered for a third of the year, and the shepherds and smugglers who use the high ground there count it with the weather as the dangers of the passes.
 
 ## Presentation
 

@@ -248,7 +248,7 @@ A bird calls somewhere up the slope, a run of notes that jars like a bell struck
 
 # Dossier {#dossier}
 
-The Feathercrest Velon is a four-foot, fifty-pound hunting bird of the highland forests of the [[place-pshtrwldrns|Peshtar Wilderness]] on [[place-aelwyth|Eilwith]], which runs on two legs, flies in short, fast bursts between crag and tree, and hunts in packs of six to a dozen. Its plumage shifts from blue to green to violet with the light, and the crest it fans when it attacks is the brightest thing in the forest. It takes hares, grouse and fawns for the most part, and a pack that is hungry takes a man.
+The Feathercrest Velon is a four-foot, fifty-pound hunting bird of the highland forests of the [[place-pshtrwldrns|Peshtar Wilderness]] on [[place-eilwith|Eilwìth]], which runs on two legs, flies in short, fast bursts between crag and tree, and hunts in packs of six to a dozen. Its plumage shifts from blue to green to violet with the light, and the crest it fans when it attacks is the brightest thing in the forest. It takes hares, grouse and fawns for the most part, and a pack that is hungry takes a man.
 
 The Peshtar tribes hunt it for the crest and keep well clear of its ground otherwise. The lowland kingdoms know it from the headdresses and from the few hunters who come home without their dogs.
 

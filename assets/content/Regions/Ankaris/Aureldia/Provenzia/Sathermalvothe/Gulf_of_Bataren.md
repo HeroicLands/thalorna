@@ -25,7 +25,7 @@ The Gulf faces the **open ocean**—vast, cold and rough—and not the warm
 [[place-vylarianse|Vilérian Sea]] that carries the rest of the kingdom's trade around the southern
 coast. That single fact makes the Gulf a different country commercially from every other Provénzian
 port. Nothing much of the Vilérian world comes here. What comes here comes down from
-[[place-elavendre|Élavendre]] and [[place-aelwyth|Eilwith]], and out of the northern seas beyond them.
+[[place-elavendre|Élavendre]] and [[place-eilwith|Eilwìth]], and out of the northern seas beyond them.
 
 It is also, inevitably, the way [[lore-southrnfleets|the Nordheim raids]] came two centuries ago (the Nordheim raids), and northern
 Provénzia's memory of the sea is colored accordingly. The

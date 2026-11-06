@@ -143,7 +143,7 @@ data:
     - form: norodu
       class: n
       field: Ship, sea and road
-      gloss: the north; Eilwithi _nord_
+      gloss: the north; Eilwìthi _nord_
       concept: north
     - form: lokatu
       class: v
@@ -5697,7 +5697,16 @@ data:
     - form: Shadal
       instead: Ilumanei
       why: "an Earth name, in the name lists; the scribe of Vashurán"
-    - {form: Aelwythi, instead: Eilwithi, why: respelled to Pronouncing Thalorna}
+    - {form: Aelwythi, instead: Eilwìthi, why: respelled to Pronouncing Thalorna}
+    - form: Eilwith
+      instead: Eilwìth
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: Eilwithi
+      instead: Eilwìthi
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: Eilwithan
+      instead: Eilwìthan
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
     - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
@@ -5969,7 +5978,7 @@ The following represents the stable core of Valtari—words understood in virtua
 
 **Place & Time:** besiku (H, from _besiku_) "port, harbor, port town" · yu (H, from _ju_) "this" · denu (V, from _denos_) "here" · mavitu (O, from Sinale _maviho_) "where" · mavu (O, from Sinale _mavi_) "what" · kedi (V, from _kedis_) "who" · gulodu (N, from _glud_ "day") "when" · tapelu (V, from _thapelon_ "hour") "now" · paramisu (V, from _pramiza_ "morning") "tomorrow" · olimu (V, from _holimos_ "first") "already"
 
-**Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from [[skill-aelwthlng|Eilwithi]] _nord_) "north"
+**Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from [[skill-aelwthlng|Eilwìthi]] _nord_) "north"
 
 **Numerals (Taruzeli-derived):** yezu "one" · lelor "two" · zemu "three" · vubu "four" · fomul "five" · zekoru "ten" (from Helonik _zekhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul vubu_ "nine".
 

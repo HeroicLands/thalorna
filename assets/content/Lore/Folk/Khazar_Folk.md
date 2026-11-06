@@ -99,7 +99,7 @@ Like the Sinalean enclaves, the holds are remote, and the remoteness is the moun
 
 Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vristwald]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tantsouempr|Tantsou]]'s western border, and ranges in [[place-xerathia|Zerathia]] and beyond. The Khazari do not confirm or deny any of this, and a Khazár asked about the inner passages of a hold will simply stop talking. The one location kept as a guarded secret is Khazartúrn.
 
-The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Eilwith]], founded around **3100 BF** in the late centuries of Khazartúrn—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the Khazari carried a small company of humans across with them to farm beneath it, and their descendants are [[lore-vardain|the Vardain]].
+The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-eilwith|Eilwìth]], founded around **3100 BF** in the late centuries of Khazartúrn—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the Khazari carried a small company of humans across with them to farm beneath it, and their descendants are [[lore-vardain|the Vardain]].
 
 ## Relations with Humanity
 
@@ -109,7 +109,7 @@ Very rarely—perhaps a handful of times in a human generation—a Khazár will 
 
 No human _realm_ except Tantsou has a sustained relationship with them, no human scholar has been invited into a hold, and no crown on Thalorna has ever received an embassy from one. Whatever the Khazari think of humanity—if they think of humanity at all—they keep it behind walls of stone and silence.
 
-There is exactly one exception, and it is not a realm. The [[lore-vardain|Vardain]] of Eilwith have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazari engineers work openly in their valleys. It is a closer and older relationship than [[place-elavendre|Élavendre]]'s with the Sinale, and almost nobody outside those valleys knows it exists.
+There is exactly one exception, and it is not a realm. The [[lore-vardain|Vardain]] of Eilwìth have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazari engineers work openly in their valleys. It is a closer and older relationship than [[place-elavendre|Élavendre]]'s with the Sinale, and almost nobody outside those valleys knows it exists.
 
 ## What the Vardain Are the Last Of
 

@@ -26,7 +26,7 @@ About 45 BF the standing lease of the dragons was not renewed. On the Order's co
 
 The late Republic was a quarrel of generals and senators, and in Year 1 a _kurthos_ (senator) with loyal legions and the Arcane Order behind him took supreme power and called himself Emperor ([[lore-thefounding|The Founding]]). No record gives his name. The Senate survived as an advisory body, and western Ankaris counts its years from that day.
 
-**What it left.** The calendar every clerk from Midhalión to [[place-aelwyth|Eilwith]] writes in. The Thordimalon's monopoly, its register and the Sekran's prisons. A fenced tract in the Alessan country that has never been dug. A sealed hill under the capital, and a quarrel with the dragons whose terms the chancery never wrote down.
+**What it left.** The calendar every clerk from Midhalión to [[place-eilwith|Eilwìth]] writes in. The Thordimalon's monopoly, its register and the Sekran's prisons. A fenced tract in the Alessan country that has never been dug. A sealed hill under the capital, and a quarrel with the dragons whose terms the chancery never wrote down.
 
 ## The First Orzoi, 1 to 95
 

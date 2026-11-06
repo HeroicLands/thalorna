@@ -25,7 +25,7 @@ southern ports are the kingdom as foreigners picture it: sunlit, rich, sophistic
 manner if no longer in law.
 
 Bataren is none of that. It faces the **open ocean**, trades with [[place-elavendre|Élavendre]],
-[[place-aelwyth|Eilwith]] and the northern seas beyond, and takes its money from fish, timber, northern
+[[place-eilwith|Eilwìth]] and the northern seas beyond, and takes its money from fish, timber, northern
 furs and freight the south has no interest in. Its weather is gray where the south is bright. Its
 building is heavy and low. A Provénzian from [[place-valarencity|Válaren]] finds Bataren cold in every sense and says so.
 

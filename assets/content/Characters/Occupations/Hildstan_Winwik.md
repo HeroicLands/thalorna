@@ -400,7 +400,7 @@ Hildstan Winwik is a 33-year-old man who stands 5'8" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a noble family of [[lore-aelwythanclt|Eilwithan]] heritage, Hildstan Winwik is a mercantyler (supercargo).
+Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Hildstan Winwik is a mercantyler (supercargo).
 
 Hildstan is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Hildstan has developed an understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
 
@@ -435,7 +435,7 @@ Few; generally well-respected.
 ## Plot Hooks
 
 The Mercantyler (Supercargo)'s Dilemma
-: Hildstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
+: Hildstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
 
 Old Grudges
 : Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -444,7 +444,7 @@ Echoes of the Past
 : Something from Hildstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Hildstan depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Hildstan depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Hildstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

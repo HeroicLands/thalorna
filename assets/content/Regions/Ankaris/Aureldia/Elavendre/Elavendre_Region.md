@@ -150,7 +150,7 @@ Why the Sinale have opened themselves to the Áelendan is a question that has pu
 
 ## Relations
 
-Élavendre has close cultural ties with the [[place-provenzrgn|Provénzia Region]] to the south, sharing the Pelwar heritage and a love of the arts. Its relationship with the [[affiliation-vylarinmpr|Vilérian Empire]] is more complicated—while never fully conquered by the Vilérian Empire, Élavendre was long a vassal state ([[lore-elvtribute|The Tribute of Élavendre]]) and retains some Vilérian cultural influence. The island of [[place-aelwyth|Eilwith]] lies to the **north-west**, some two hundred and thirty sea-miles off the Élavendren coast—almost due west of [[place-vrystwald|Vristwald]] and south-west of the [[place-nrdlndsrgn|Nordlands]]—and the two have deep historical and cultural connections. [[affiliation-kingdmdnvr|Dúnavarre]] occupies the island's south-eastern shore, the side that faces Élavendre, and relations are **very cordial**: the mage **[[affiliation-dunavarsynod|Synod]]** that governs Dúnavarre has kept close relations with the Élavendren royal house for generations—a striking thing in a kingdom that permits the Order only on a short leash.
+Élavendre has close cultural ties with the [[place-provenzrgn|Provénzia Region]] to the south, sharing the Pelwar heritage and a love of the arts. Its relationship with the [[affiliation-vylarinmpr|Vilérian Empire]] is more complicated—while never fully conquered by the Vilérian Empire, Élavendre was long a vassal state ([[lore-elvtribute|The Tribute of Élavendre]]) and retains some Vilérian cultural influence. The island of [[place-eilwith|Eilwìth]] lies to the **north-west**, some two hundred and thirty sea-miles off the Élavendren coast—almost due west of [[place-vrystwald|Vristwald]] and south-west of the [[place-nrdlndsrgn|Nordlands]]—and the two have deep historical and cultural connections. [[affiliation-kingdmdnvr|Dúnavarre]] occupies the island's south-eastern shore, the side that faces Élavendre, and relations are **very cordial**: the mage **[[affiliation-dunavarsynod|Synod]]** that governs Dúnavarre has kept close relations with the Élavendren royal house for generations—a striking thing in a kingdom that permits the Order only on a short leash.
 
 Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendre's general diplomacy, and a long-standing one. **Nordmen** raiders have struck the northern coast for centuries, and the kingdom's memory of them is unforgiving ([[lore-northshorefire|The Burning of the North Shore]]). King [Thélmoren]{.name data-type="being/npc"} swore, when [[lore-southrnfleets|the Southern Fleets]] burned the north shore, that the crown would make no treaty with the Nordmen, and there has been no treaty, no embassy and no appetite for either since. To the north across [[place-liserebay|Lísere Bay]] lie the Varokh tribes of [[place-vrystwald|Vristwald]] and the [[lore-grukarfolk|Grukar]] bands ranging out of [[place-grkrhlmrgn|Grukarholm]], whose raiding on the northern shore and the eastern hills is a fact of every generation rather than a crisis of any one of them.
 
@@ -204,7 +204,7 @@ The Áelendan reckon themselves from the band that came over the eastern pass in
 
 ## See Also
 
-[[place-aelwyth|Eilwith]]
+[[place-eilwith|Eilwìth]]
 : Island off the western coast
 
 [[place-provenzrgn|Provénzia Region]]

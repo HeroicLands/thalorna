@@ -393,7 +393,7 @@ A Grukar-ahk stands about five to five and a half feet tall, shorter than a Hush
 
 ## In the Land
 
-A Grukar tribe is a place with a spawner in it, and the Ahk is the reason the tribe is where it is. It lives in the spawn-chamber at the heart of the nest, in [[place-grkrhlmrgn|Grukarholm]], the eastern [[place-vrystwald|Vristwald]] and [[place-skathwald|Skathwald]], the borderland of [[place-targud|Targud]], and the empty interior of [[place-aelwyth|Eilwith]], and it almost never leaves. Its infertile reserves cannot leave either: they stay barren only while they are near enough to taste the spawner's suppressing scent, which reaches a chamber or two and no more, and one carried beyond it wakes fertile and founds a new tribe. That is how the Grukar spread. They do not migrate; they bud, a faction stealing a reserve and running with it into unclaimed land, and so the nests move outward one theft at a time.
+A Grukar tribe is a place with a spawner in it, and the Ahk is the reason the tribe is where it is. It lives in the spawn-chamber at the heart of the nest, in [[place-grkrhlmrgn|Grukarholm]], the eastern [[place-vrystwald|Vristwald]] and [[place-skathwald|Skathwald]], the borderland of [[place-targud|Targud]], and the empty interior of [[place-eilwith|Eilwìth]], and it almost never leaves. Its infertile reserves cannot leave either: they stay barren only while they are near enough to taste the spawner's suppressing scent, which reaches a chamber or two and no more, and one carried beyond it wakes fertile and founds a new tribe. That is how the Grukar spread. They do not migrate; they bud, a faction stealing a reserve and running with it into unclaimed land, and so the nests move outward one theft at a time.
 
 ## Key Behaviors
 

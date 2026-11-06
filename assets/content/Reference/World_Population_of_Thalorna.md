@@ -50,7 +50,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | [[place-provenzrgn\|Provénzia]]  | ~5,000,000 |
 | [[place-tarvenirgn\|Tarvénia]]   | ~3,500,000 |
 | [[place-elavendre\|Élavendre]]   | ~2,000,000 |
-| [[place-aelwyth\|Eilwith]]       | ~710,000   |
+| [[place-eilwith\|Eilwìth]]       | ~710,000   |
 | [[affiliation-calypsa\|Kalipsa]] | ~45,000    |
 
 #### Ankaris—the East (the great powers)
@@ -111,7 +111,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 **A 1-million capital is feedable.** [[place-orzara|Orzara]] at ~1M is ~5% of Viléria proper—high, but sustainable for a primate imperial city supplied by [[place-hylen|Hilen]]'s grain, [[place-salkhalon|Salkalon]]'s fisheries and seaborne imports, and the state granaries run by the Veramus of the Grain.
 
-**The Aureldian kingdoms are itemized, not estimated.** [[place-provenzrgn|Provénzia]], [[place-elavendre|Élavendre]], [[place-tarvenirgn|Tarvénia]], [[place-aelwyth|Eilwith]] and [[affiliation-calypsa|Kalipsa]] each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vilérian Empire's, which is why no Aureldian crown can face Orzara alone and why the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], not a treaty, are what hold the west together.
+**The Aureldian kingdoms are itemized, not estimated.** [[place-provenzrgn|Provénzia]], [[place-elavendre|Élavendre]], [[place-tarvenirgn|Tarvénia]], [[place-eilwith|Eilwìth]] and [[affiliation-calypsa|Kalipsa]] each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vilérian Empire's, which is why no Aureldian crown can face Orzara alone and why the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], not a treaty, are what hold the west together.
 
 **The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád and [[place-taruzelrgn|Taruzel]] run higher, toward 12–15%, and the frontier and pastoral country of the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]] and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
 

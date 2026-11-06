@@ -1,6 +1,6 @@
 ---
 shortcode: vorgaldcut
-name: {full: The Cutting of Vorgald, en: [The Khazari Reach Eilwith]}
+name: {full: The Cutting of Vorgald, en: [The Khazari Reach Eilwìth]}
 type: lore
 subType: history
 description: "Around 3100 BF the Khazari cut Vorgald in the eastern Ironfells—the westernmost hold they ever placed and the only one reached across open sea—and bring across the farmers beneath it who become the Vardain."
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [place-ironfells, lore-flkkhazar, lore-grukaraelwyth]
       summary: >-
-        In the late centuries of Khazartúrn the Khazari carry a hold further west than they ever carry another, across open sea, and cut Vorgald in the eastern Ironfells of Eilwith. Because a hold cannot import what it eats, the Khazari bring a small company of humans across with them to farm beneath it, a much older people than the Pelwar. Their descendants become the Vardain, and Eilwith becomes the one country where both Elder Races are living on the same ground.
+        In the late centuries of Khazartúrn the Khazari carry a hold further west than they ever carry another, across open sea, and cut Vorgald in the eastern Ironfells of Eilwìth. Because a hold cannot import what it eats, the Khazari bring a small company of humans across with them to farm beneath it, a much older people than the Pelwar. Their descendants become the Vardain, and Eilwìth becomes the one country where both Elder Races are living on the same ground.
       standing: single-source
       where:
         locus: [place-vorgald]
@@ -22,7 +22,7 @@ data:
             how: >-
               grain, cheese, meat, fodder and fuel have gone up to the Gate on a schedule unaltered in centuries, and Khazari engineers come down to keep the terraces and the rock-cut granaries working
             knowledge: named
-          - place: place-aelwyth
+          - place: place-eilwith
             how: >-
               the island is the one country in the world where Sinale and Khazari hold ground together, which is why what happens elsewhere seven centuries later is answered here rather than accepted
             knowledge: named
@@ -40,8 +40,8 @@ data:
             The date is ours and it is approximate. Vorgald is the far western end of the reach, on an island, across open water, at the edge of the country its founders knew.
           agrees: partly
           withholds: everything else about the hold
-        - by: place-aelwyth
-          says: Nothing. No Eilwithan record goes anywhere near it.
+        - by: place-eilwith
+          says: Nothing. No Eilwìthan record goes anywhere near it.
           agrees: silent
       unresolved: [how a date held inside a hold reaches anybody outside it]
 ---

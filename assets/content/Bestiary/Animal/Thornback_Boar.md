@@ -258,7 +258,7 @@ The ride turns down into a hollow of oak and holly, and the ground there has bee
 
 # Dossier {#dossier}
 
-The Thornback Boar is a big, black, savage wild boar, four to five feet at the shoulder, with long upcurved tusks and a crest of bony spines down its back that it raises when it is angry. The sows and young live in herds; the old males live alone and defend their ground against anything that comes into it, horse, hound or man, with a charge that guts a horse. On [[place-aelwyth|Eilwith]] it is the great beast of the royal forest above [[place-kingsholow|Kingshollow]] in [[place-wyndmarch|the Wiindmarch]], where the kings of [[affiliation-kngdmldrth|Aldorath]] hunt it, and it is the reason the forest's poachers prefer deer.
+The Thornback Boar is a big, black, savage wild boar, four to five feet at the shoulder, with long upcurved tusks and a crest of bony spines down its back that it raises when it is angry. The sows and young live in herds; the old males live alone and defend their ground against anything that comes into it, horse, hound or man, with a charge that guts a horse. On [[place-eilwith|Eilwìth]] it is the great beast of the royal forest above [[place-kingsholow|Kingshollow]] in [[place-wyndmarch|the Wiindmarch]], where the kings of [[affiliation-kngdmldrth|Aldorath]] hunt it, and it is the reason the forest's poachers prefer deer.
 
 ## Presentation
 

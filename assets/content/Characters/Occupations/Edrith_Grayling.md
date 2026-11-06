@@ -396,7 +396,7 @@ Edrith Grayling is a 24-year-old woman who stands 5'8" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Edrith Grayling is a hideworker.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Edrith Grayling is a hideworker.
 
 Edrith learned the art of hideworking from her mother, who taught her the secrets of tanning and crafting leather into beautiful items. She specializes in creating garments and accessories that are both functional and fashionable. Edrith is known for her creativity and eye for design, and she often incorporates patterns into her work. While she enjoys her craft, she faces challenges in a male-dominated trade.
 
@@ -431,7 +431,7 @@ Some male hideworkers who resent her success.
 ## Plot Hooks
 
 The Hideworker's Dilemma
-: Edrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
+: Edrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
 
 Old Grudges
 : Some male hideworkers who resent her success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -440,7 +440,7 @@ Echoes of the Past
 : Something from Edrith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Edrith depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Edrith depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Edrith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

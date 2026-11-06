@@ -5,15 +5,15 @@ type: lore
 subType: folk
 description: "The people of Vardanreach—the north-eastern nation that kept the Khazari's friendship for millennia, conquered by Nordmen sixty years ago and now largely thralls, whose only free remnant lives in the mountain valleys."
 tags: []
-data: {packFolder: aelwyth}
+data: {packFolder: eilwith}
 ---
 
-**The Vardain** are a people of the north-east of [[place-aelwyth|Eilwith]], and their history divides sharply into what
+**The Vardain** are a people of the north-east of [[place-eilwith|Eilwìth]], and their history divides sharply into what
 they were and what they are.
 
 For most of the island's history they held the whole of the north-east—the great plain, the mountains
-above it and the valleys within them, something like **a fifth of Eilwith's land area**—in a nation
-the Eilwithans called [[place-vardanreach|Vardanreach]], and they were the one human people in the world with a standing,
+above it and the valleys within them, something like **a fifth of Eilwìth's land area**—in a nation
+the Eilwìthans called [[place-vardanreach|Vardanreach]], and they were the one human people in the world with a standing,
 mutually valued relationship with the [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]]. That
 lasted thousands of years, and the Khazari fixed its bounds at [[lore-endgreatwar|the Ending of the Great War]] and kept the north-east for the Vardain.
 
@@ -36,7 +36,7 @@ always needed farmers at its gate. When the Deep Folk arrived around 5300 BF the
 holds, the Khazari taught the nearest peoples to farm. Water-works, drainage, terracing, the granary.
 They were not making a civilization; they were making a larder.
 
-The Vardain's own line runs back more than a hundred generations, to the country around what is now eastern [[place-aukhelathrgq|Au'Khelathu]] and western [[place-dunharargn|Dunhara]]. Their ancestors were a people of that country before they took service with the Khazari, and that service carried them to Eilwith. They are neither [[lore-pelwarpepl|Pelwar]] nor [Varkhad]{.name data-type="lore/folk"}, and no kin to either.
+The Vardain's own line runs back more than a hundred generations, to the country around what is now eastern [[place-aukhelathrgq|Au'Khelathu]] and western [[place-dunharargn|Dunhara]]. Their ancestors were a people of that country before they took service with the Khazari, and that service carried them to Eilwìth. They are neither [[lore-pelwarpepl|Pelwar]] nor [Varkhad]{.name data-type="lore/folk"}, and no kin to either.
 
 Every other such arrangement has lapsed in the six thousand years since—the peoples changed, the
 holds closed, the ground was conquered by somebody. The valleys beneath [[place-vorgald|Vorgald]] are
@@ -67,7 +67,7 @@ without spending a protection that is not theirs to spend.
 
 ## The Word Itself
 
-In lowland Eilwithan speech "Vardain" now means the valley folk, because the rest are simply called
+In lowland Eilwìthan speech "Vardain" now means the valley folk, because the rest are simply called
 thralls. The valley people are precise about this and correct it when they hear it. They are not a
 mountain tribe. They are what is left of a nation, and the thralls on [[place-stormplain|the Stormplain]] are their kin,
 their cousins by name, and in a good many cases their actual cousins.
@@ -117,7 +117,7 @@ The Vardain are the only humans who can tell any version of what happened betwee
 the joint kingdom under a Sinale king, the war, the king's death, and the retreat into the forest that
 the Khazari have never forgiven. They tell it plainly, as a thing that happened to their lords long ago.
 
-Whether this is the great sundering between the two elder races or only its Eilwithan chapter, they do
+Whether this is the great sundering between the two elder races or only its Eilwìthan chapter, they do
 not know. The Khazari have not said. The [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] will not receive anyone who asks.
 
 ## See Also

@@ -396,7 +396,7 @@ Wilwin Garmon is a 24-year-old man who stands 6'2" tall and is of moderate build
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Wilwin Garmon is a huscarl.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Wilwin Garmon is a huscarl.
 
 Wilwin is a promising young huscarl serving Lord [Ragnar]{.name data-type="being/npc"}. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Wilwin dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
 
@@ -431,7 +431,7 @@ Rival warriors who see him as a threat.
 ## Plot Hooks
 
 The Huscarl's Dilemma
-: Wilwin faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
+: Wilwin faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
 
 Old Grudges
 : Rival warriors who see him as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -440,7 +440,7 @@ Echoes of the Past
 : Something from Wilwin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Wilwin depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Wilwin depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Wilwin the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

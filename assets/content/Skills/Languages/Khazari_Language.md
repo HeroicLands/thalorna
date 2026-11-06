@@ -13134,7 +13134,7 @@ data:
     - {name: lummáv, tongue: khazari, built: [l-m-v, mastery]}
     - {name: puthakun, tongue: khazari, built: [p-th-k, "given name, man"]}
     - {name: The Cutting of Vorgald, tongue: translation}
-    - {name: The Khazari Reach Eilwith, tongue: translation}
+    - {name: The Khazari Reach Eilwìth, tongue: translation}
     - {name: vorgald, tongue: human}
     - {name: Vorgald Hold, tongue: translation}
     - {name: varíg, tongue: khazari, built: [v-r-g, adjective]}

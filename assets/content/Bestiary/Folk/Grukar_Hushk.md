@@ -395,7 +395,7 @@ A Grukar-Hushk is a slab of corded muscle over thick, heavy bone, dense enough t
 
 ## In the Land
 
-Every Grukar tribe has its Hushk, one or two at a time and seldom more, in [[place-grkrhlmrgn|Grukarholm]], in the eastern [[place-vrystwald|Vristwald]], on [[place-targud|Targud]]'s burned eastern border, and in the empty interior of [[place-aelwyth|Eilwith]]. The Hushk leads the raids that come out of those places, at the head of its Uk. It is the Hushk, more than any other Grukar, that the frontier peoples remember. In [[lore-burningeast|the Burning of the East]], which laid waste Targud's eastern districts from 604 to 614 AF, a [[being-grkrsh|Sha]] did the planning, and a Hushk led what the Sha planned.
+Every Grukar tribe has its Hushk, one or two at a time and seldom more, in [[place-grkrhlmrgn|Grukarholm]], in the eastern [[place-vrystwald|Vristwald]], on [[place-targud|Targud]]'s burned eastern border, and in the empty interior of [[place-eilwith|Eilwìth]]. The Hushk leads the raids that come out of those places, at the head of its Uk. It is the Hushk, more than any other Grukar, that the frontier peoples remember. In [[lore-burningeast|the Burning of the East]], which laid waste Targud's eastern districts from 604 to 614 AF, a [[being-grkrsh|Sha]] did the planning, and a Hushk led what the Sha planned.
 
 ## Key Behaviors
 

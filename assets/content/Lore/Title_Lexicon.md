@@ -47,7 +47,7 @@ account of it.
 ```sql {section-level=3}
 WITH people_of(folder, people) AS (
   VALUES
-    ('thalorna-none-folder-aelwyth', 'Eilwithan'),
+    ('thalorna-none-folder-eilwith', 'Eilwìthan'),
     ('thalorna-none-folder-bethua', 'Bethuan'),
     ('thalorna-none-folder-byzaria', 'Bizarian'),
     ('thalorna-none-folder-calypsa', 'Calypsan'),
@@ -196,7 +196,7 @@ actually does.
 ```sql {section-level=3}
 WITH people_of(folder, people) AS (
   VALUES
-    ('thalorna-none-folder-aelwyth', 'Eilwithan'),
+    ('thalorna-none-folder-eilwith', 'Eilwìthan'),
     ('thalorna-none-folder-bethua', 'Bethuan'),
     ('thalorna-none-folder-byzaria', 'Bizarian'),
     ('thalorna-none-folder-calypsa', 'Calypsan'),

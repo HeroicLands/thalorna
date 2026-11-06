@@ -394,7 +394,7 @@ Harstan Helmsley is a 49-year-old man who stands 6'5" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a noble family of [[lore-aelwythanclt|Eilwithan]] heritage, Harstan Helmsley is a chieftain.
+Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harstan Helmsley is a chieftain.
 
 Harstan, known as "Helmsley" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Harstan struggles with diplomacy, often letting his temper dictate his actions.
 
@@ -429,7 +429,7 @@ Neighboring chieftains who oppose his expansionist ambitions.
 ## Plot Hooks
 
 The Chieftain's Dilemma
-: Harstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
+: Harstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
 
 Old Grudges
 : Neighboring chieftains who oppose his expansionist ambitions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -438,7 +438,7 @@ Echoes of the Past
 : Something from Harstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Harstan depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Harstan depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Harstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

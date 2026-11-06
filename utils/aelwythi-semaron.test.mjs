@@ -53,6 +53,7 @@ test("the actual encoding document reads its selected font's glyph codes", () =>
     assert.equal(codes.LONG_ORNETHE_MAJ, "\u{F0223}");
     assert.equal(codes.CATCH, "\u{F0270}");
     assert.equal(codes.STRESS, "\u{E0114}");
+    assert.equal(codes.SHORT, "\u{E0116}");
     for (const key of ["map", "name", "codes", "codage"])
         assert(!Object.hasOwn(own.fm.data, key), `${key} is not copied into the encoding note`);
     assert(!Object.hasOwn(language.fm.data, "writtenIn"));
@@ -113,6 +114,10 @@ test("fixed letter groups, case, contextual ny and stress have exact usable glyp
         ["Ó", [0xf020d, 0xe0114]],
         ["ú", [0xf0242, 0xe0114]],
         ["Ú", [0xf0212, 0xe0114]],
+        ["ì", [0xf0237, 0xe0116]],
+        ["Ì", [0xf0207, 0xe0116]],
+        ["Eilwìth", [0xf0203, 0xf0237, 0xf023a, 0xf0244, 0xf0237, 0xe0116, 0xf0250]],
+        ["Eilwìthi", [0xf0203, 0xf0237, 0xf023a, 0xf0244, 0xf0237, 0xe0116, 0xf0250, 0xf0237]],
     ];
     for (const [source, points] of cases) {
         const native = encodeText(encoding, source);
@@ -134,6 +139,9 @@ test("fixed letter groups, case, contextual ny and stress have exact usable glyp
     const stress = outlines.glyph(0xe0114);
     assert.equal(stress.d, "");
     assert.equal(stress.advance, 0);
+    const short = outlines.glyph(0xe0116);
+    assert.equal(short.d, "");
+    assert.equal(short.advance, 0);
 });
 
 test("literal codage uses the selected font's code names", () => {

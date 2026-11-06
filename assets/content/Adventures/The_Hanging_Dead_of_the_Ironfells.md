@@ -262,7 +262,7 @@ As the round goes on, the voices begin, one after another as each hung man is wa
 - The **garrison's pay**, a chest of crown silver.
 - The **toll chests**, in coin and in kind: spice, amber and a bolt of fine cloth taken from a smuggler's ponies.
 - The **captain's sword**, a fine blade given by the crown to the captain who walled the vault, with his name and the crown's mark on the blade. His family wants it back, and pays.
-- From the Hangman, if it died: the band of dark metal, cut with marks no scholar on [[place-aelwyth|Eilwith]] has read.
+- From the Hangman, if it died: the band of dark metal, cut with marks no scholar on [[place-eilwith|Eilwìth]] has read.
 - From Kaerwiind: a reward for every man of the garrison and the relief brought down alive.
 
 **Consequences.** The party comes out on the gorge face below the slide, with the forest below and the snow above.
@@ -276,7 +276,7 @@ As the round goes on, the voices begin, one after another as each hung man is wa
 - **If the captain was brought down,** the first thing he asks for is Kenric, and what he says to him nobody else hears. He names Kenric in his report as the man who held the post.
 - **If the captain was left,** Kenric goes back up the gorge with the first party Kaerwiind sends in the spring, whatever the orders.
 - **If living men were left in the cistern,** Kaerwiind hears it from the ones who came out, and asks the party why.
-- **If the band of metal is taken to a scholar,** the marks on it match nothing in any library on Eilwith. The [[affiliation-dunavarsynod|Synod]] at [[place-ravenmoor|Ravenmoor]] asks to see it.
+- **If the band of metal is taken to a scholar,** the marks on it match nothing in any library on Eilwìth. The [[affiliation-dunavarsynod|Synod]] at [[place-ravenmoor|Ravenmoor]] asks to see it.
 - **If Kenric lives,** he does not serve under a roof again.
 
 ## See Also

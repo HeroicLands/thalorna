@@ -108,7 +108,7 @@ pdf:
         - "Empire of "
     books:
         - id: aelwyth
-          title: Eilwith
+          title: Eilwìth
           abbreviation: "Aelw."
           subtitle: A Gazetteer of Thalorna
           contents:

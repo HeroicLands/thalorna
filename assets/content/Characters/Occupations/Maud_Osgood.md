@@ -394,7 +394,7 @@ Maud Osgood is a 62-year-old woman who stands 5'5" tall and is slight of build. 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Maud Osgood is a beggar.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Maud Osgood is a beggar.
 
 Maud has been living on the streets for most of her life, begging for scraps and coins. Once a domestic servant, she fell into poverty after the death of her employer, leaving her with no family or means to survive. Maud is resourceful and has learned how to navigate the dangers of city life, relying on both charity and cunning to get by.
 
@@ -429,7 +429,7 @@ Street thugs who extort money from beggars.
 ## Plot Hooks
 
 The Beggar's Dilemma
-: Maud faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
+: Maud faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
 
 Old Grudges
 : Street thugs who extort money from beggars. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -438,7 +438,7 @@ Echoes of the Past
 : Something from Maud's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Maud depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Maud depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Maud the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

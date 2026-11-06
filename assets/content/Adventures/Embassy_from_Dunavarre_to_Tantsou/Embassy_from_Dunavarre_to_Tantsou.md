@@ -6,7 +6,7 @@ subType: adventure
 tags: [draft]
 data:
   parents: []
-  locations: [aelwyth, elavendre, tantsouregin]
+  locations: [eilwith, elavendre, tantsouregin]
   cast:
     - arancelavren
     - baridanalendavel

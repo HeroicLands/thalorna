@@ -397,7 +397,7 @@ Harwald Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a peasant family of [[lore-aelwythanclt|Eilwithan]] heritage, Harwald Helmsley is an animal trainer.
+Born in the [[place-eilwith|Eilwìth]] region to a peasant family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harwald Helmsley is an animal trainer.
 
 Harwald grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
 
@@ -432,7 +432,7 @@ Town official who dislikes his methods.
 ## Plot Hooks
 
 The Animal Trainer's Dilemma
-: Harwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
+: Harwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
 
 Old Grudges
 : Town official who dislikes his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -441,7 +441,7 @@ Echoes of the Past
 : Something from Harwald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Harwald depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Harwald depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Harwald the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

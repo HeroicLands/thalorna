@@ -399,7 +399,7 @@ Kuthstan Harden is a 46-year-old man who stands 6'2" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Kuthstan Harden was born in the [[place-aelwyth|Eilwith]] region to a guilded family of [[lore-aelwythanclt|Eilwithan]] heritage.
+Kuthstan Harden was born in the [[place-eilwith|Eilwìth]] region to a guilded family of [[lore-aelwythanclt|Eilwìthan]] heritage.
 
 Kuthstan left blacksmithing to run the [Forge & Flame Inn]{.name data-type="place/structure"}. He serves hearty meals and strong drinks to passing adventurers and merchants. His humor helps make the inn lively.
 
@@ -434,7 +434,7 @@ Few; generally well-liked.
 ## Plot Hooks
 
 The Innkeeper's Dilemma
-: Kuthstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
+: Kuthstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
 
 Old Grudges
 : Few; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -443,7 +443,7 @@ Echoes of the Past
 : Something from Kuthstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Kuthstan depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Kuthstan depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Kuthstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -394,7 +394,7 @@ Aldwald Grayling is a 48-year-old man who stands 6'0" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Aldwald Grayling is a beggar.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Aldwald Grayling is a beggar.
 
 Aldwald once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwald is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
 
@@ -429,7 +429,7 @@ Guards who harass vagrants.
 ## Plot Hooks
 
 The Beggar's Dilemma
-: Aldwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
+: Aldwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
 
 Old Grudges
 : Guards who harass vagrants. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -438,7 +438,7 @@ Echoes of the Past
 : Something from Aldwald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Aldwald depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Aldwald depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Aldwald the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

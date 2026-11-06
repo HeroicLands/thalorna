@@ -5,4 +5,4 @@ type: folder
 data: {parent: heroesandknavesankaris, color: "#32CD32"}
 ---
 
-This folder gathers the characters of Aureldia within the Ankaris heroes and knaves. It divides them further by realm, as in [[place-aelwyth|Eilwith]], [[affiliation-calypsa|Kalipsa]] and the other lands of Aureldia.
+This folder gathers the characters of Aureldia within the Ankaris heroes and knaves. It divides them further by realm, as in [[place-eilwith|Eilwìth]], [[affiliation-calypsa|Kalipsa]] and the other lands of Aureldia.

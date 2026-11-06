@@ -24,7 +24,7 @@ data:
     height: {female: {min: 5' 1", max: 6' 1"}, male: {min: 5' 5", max: 6' 5"}}
 ---
 
-The Aureldian culture is a civilization several peoples hold in common, not a people of its own. The [[lore-vylarianclt|Vilérians]], [[lore-elavendriclt|Élavendri]], [Kalipsan]{.name data-type="lore/culture"}, [[lore-aelwythanclt|Eilwithan]], [[lore-tarvenanclt|Tarvenan]] and [[lore-provenzianclt|Provénzian]] peoples each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.
+The Aureldian culture is a civilization several peoples hold in common, not a people of its own. The [[lore-vylarianclt|Vilérians]], [[lore-elavendriclt|Élavendri]], [Kalipsan]{.name data-type="lore/culture"}, [[lore-aelwythanclt|Eilwìthan]], [[lore-tarvenanclt|Tarvenan]] and [[lore-provenzianclt|Provénzian]] peoples each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.
 
 ## The Twelve
 
@@ -77,7 +77,7 @@ Two of the faiths field knightly orders that carry their doctrine where the civi
 
 **Orders of Árdavon.** [[affiliation-ordrsldwrd|The Order of the Sealed Word]] enforces binding oaths and contracts when the civil courts cannot compel the oath-breaker. Its sworn brothers hear the matter and, if the breach is established, compel a remedy by trial-by-combat where required and by force where necessary. It does not displace the civil law; it answers where the law has failed. It keeps chapter houses in each of the five Aureldian kingdoms, with its mother-house at [[place-olvestria|Ólvestra]] in [[place-tarvenirgn|Tarvénia]]. [[affiliation-twinbldrdr|The Twinblade Order]] guards thresholds: city gates, contested borders, treaty lines and sacred boundaries. Its members are the ritual presence that confers on a gate or boundary the recognition of a binding limit, and their mother-house stands at the [Twin Gate of Ólvestra]{.name data-type="place/structure"}.
 
-**Orders of the Black Flame.** [[affiliation-ordershnvw|The Order of the Ashen Vow]] is the largest organized fighting body of the Black Flame, sworn to purifying fire. Its doctrinal priority is corruption within the Sacred Forge, then foreign heresies, then anyone judged beyond redemption. [[affiliation-ironcinder|The Iron Cinder]] is the faith's covert arm: small, secretive, without fixed bases, and deployed when the heresy needs results without trial, debate or witnesses. [[affiliation-sonsmuspell|The Sons of Eldheim]] are a military band of the Black Flame established in [[affiliation-jrldmstrmvld|Stormveld]] on [[place-aelwyth|Eilwith]], campaigning to take [[lore-varokhiclt|Varokhi]] land in [[place-vrystwald|Vristwald]] as a way into the [[place-nrdlndsrgn|Nordlands]].
+**Orders of the Black Flame.** [[affiliation-ordershnvw|The Order of the Ashen Vow]] is the largest organized fighting body of the Black Flame, sworn to purifying fire. Its doctrinal priority is corruption within the Sacred Forge, then foreign heresies, then anyone judged beyond redemption. [[affiliation-ironcinder|The Iron Cinder]] is the faith's covert arm: small, secretive, without fixed bases, and deployed when the heresy needs results without trial, debate or witnesses. [[affiliation-sonsmuspell|The Sons of Eldheim]] are a military band of the Black Flame established in [[affiliation-jrldmstrmvld|Stormveld]] on [[place-eilwith|Eilwìth]], campaigning to take [[lore-varokhiclt|Varokhi]] land in [[place-vrystwald|Vristwald]] as a way into the [[place-nrdlndsrgn|Nordlands]].
 
 ## The Peoples Who Share It
 
@@ -92,8 +92,8 @@ Six peoples share the Aureldian culture. Each is a culture in its own right, and
 Kalipsan
 : the people of [[affiliation-calypsa|Kalipsa]], a free port city on a small island off Élavendre's northern coast. They have no culture note of their own.
 
-[[lore-aelwythanclt|Eilwithan]]
-: the people of the island of Eilwith. They are one people in three realms, the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], who share essentially one culture and are governed differently: Aldorath is a feudal monarchy advised by a council of barons, Dúnavarre is ruled directly by [[affiliation-dunavarsynod|a synod]] of [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) mages, and Ondareth is a senatorial republic. The realms share no political order.
+[[lore-aelwythanclt|Eilwìthan]]
+: the people of the island of Eilwìth. They are one people in three realms, the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], who share essentially one culture and are governed differently: Aldorath is a feudal monarchy advised by a council of barons, Dúnavarre is ruled directly by [[affiliation-dunavarsynod|a synod]] of [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) mages, and Ondareth is a senatorial republic. The realms share no political order.
 
 [[lore-tarvenanclt|Tarvenan]]
 : the people of Tarvénia.

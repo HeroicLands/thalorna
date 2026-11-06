@@ -2,34 +2,34 @@
     "respellings": [
         {
             "from": "Aelwyth",
-            "to": "Eilwith",
-            "reading": "AIL-weeth",
+            "to": "Eilwìth",
+            "reading": "AIL-with",
             "uses": 526,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "land"
         },
         {
             "from": "Aelwythan",
-            "to": "Eilwithan",
-            "reading": "ail-WEE-thahn",
+            "to": "Eilwìthan",
+            "reading": "ail-WITH-ahn",
             "uses": 117,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "people"
         },
         {
             "from": "Aelwythans",
-            "to": "Eilwithans",
-            "reading": "ail-WEE-thahns",
+            "to": "Eilwìthans",
+            "reading": "ail-WITH-ahns",
             "uses": 23,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "people"
         },
         {
             "from": "Aelwythi",
-            "to": "Eilwithi",
-            "reading": "ail-WEE-thee",
+            "to": "Eilwìthi",
+            "reading": "ail-WITH-ee",
             "uses": 80,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "people"
         },
         {
@@ -37,7 +37,7 @@
             "to": "Brinwold",
             "reading": "BREEN-wold",
             "uses": 9,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "land"
         },
         {
@@ -45,7 +45,7 @@
             "to": "Brinhallow",
             "reading": "breen-HAHL-loh",
             "uses": 8,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "place"
         },
         {
@@ -174,7 +174,7 @@
             "to": "Wiindmarch",
             "reading": "WEEND-march",
             "uses": 0,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "region"
         },
         {
@@ -182,7 +182,7 @@
             "to": "Sunderwiind",
             "reading": "sun-DER-weend",
             "uses": 0,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "place"
         },
         {
@@ -190,7 +190,7 @@
             "to": "Kaerwiind",
             "reading": "kah-ER-weend",
             "uses": 0,
-            "tongue": "Eilwithi",
+            "tongue": "Eilwìthi",
             "kind": "place"
         },
         {
@@ -205,13 +205,13 @@
     "forOwner": [
         {
             "names": ["Wyndmarch", "Sunderwynd", "Kaerwynd"],
-            "tongue": "Eilwithi",
-            "question": "The shared element wynd is also an English word, a narrow lane; respelled, it becomes wind, which Eilwithi already records as the word for moving air.",
-            "recommendation": "Respell to Windmarch, Sunderwind and Kaerwind, with the element wind; Eilwithi lets a word and a name share a spelling."
+            "tongue": "Eilwìthi",
+            "question": "The shared element wynd is also an English word, a narrow lane; respelled, it becomes wind, which Eilwìthi already records as the word for moving air.",
+            "recommendation": "Respell to Windmarch, Sunderwind and Kaerwind, with the element wind; Eilwìthi lets a word and a name share a spelling."
         },
         {
             "names": ["Kulaywil", "K'aypukal", "K'aypuk", "Wraymouth", "Meykhathi"],
-            "tongue": "Shuqash, Ki'i'chek, Eilwithi, Khelathi",
+            "tongue": "Shuqash, Ki'i'chek, Eilwìthi, Khelathi",
             "question": "A y after a vowel and before a consonant or the end of a word is the guide's consonant y in a place the spelling guard refuses, but not a vowel y; the same shape runs through the Shuqash, Sovidur, Tellumi and Ki'i'chek lexicons.",
             "recommendation": "Settle it once for every tongue in its own issue; if it goes, the guide's own pairs take its place (Kulaiwil, K'aipukal, K'aipuk, Wraimouth)."
         },

@@ -3,7 +3,7 @@ shortcode: commoncal
 name: {full: The Vilérian Calendar, en: [Vilérian Reckoning]}
 type: lore
 subType: calendar
-description: "The Vilérian Calendar, kept from Midhalión to Eilwith: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
+description: "The Vilérian Calendar, kept from Midhalión to Eilwìth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
 tags: [reference, calendar]
 data:
   culture: vylarianclt
@@ -63,7 +63,7 @@ Years are reckoned **[After the Founding]{.name data-type="lore/calendar"} (AF)*
 
 ## Who Keeps It
 
-The Vilérian Calendar is the working calendar of the [[place-midhalnrgn|Midhalión Region]], [[place-aureldirgn|Aureldia]], and every land the Vilérian Empire's cultural sphere still reaches: [[place-helionis|Helionis]], the [[place-byzariargn|Bizaria Region]], the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provénzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Eilwith]] all date by it. Vilérian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
+The Vilérian Calendar is the working calendar of the [[place-midhalnrgn|Midhalión Region]], [[place-aureldirgn|Aureldia]], and every land the Vilérian Empire's cultural sphere still reaches: [[place-helionis|Helionis]], the [[place-byzariargn|Bizaria Region]], the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provénzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-eilwith|Eilwìth]] all date by it. Vilérian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
 
 Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empireakhlth|Empire of Au'Khelathu]] and [[affiliation-okharis|Okharis]] reckon from [[lore-qettelgu|the Qet Telgu]] (the First Occasion); [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tantsou]] keep independent dating systems of their own.
 

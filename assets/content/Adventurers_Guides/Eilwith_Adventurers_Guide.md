@@ -1,32 +1,32 @@
 ---
 shortcode: aelwythadvguide
-name: {full: Eilwith Adventurer's Guide}
+name: {full: Eilwìth Adventurer's Guide}
 type: doc
 subType: settingguide
-description: A short player and GM introduction to Eilwith—the island's four realms, the Synod's harbor, the fae country and the ways a campaign begins there.
+description: A short player and GM introduction to Eilwìth—the island's four realms, the Synod's harbor, the fae country and the ways a campaign begins there.
 tags: [draft]
 data: {packFolder: adventurersguides, culture: aelwythanclt}
 ---
 
 > Dawn on the crossing is gray, and it stays gray. Fog lies on the water so thick that the ship's lantern makes a yellow room around the bow and nothing more; the deck is slick, the rigging drips, and the cold works through your cloak to the skin. Then the fog thins, and a brown moor rises out of it, heather and black peat cut in steps, and below it the sheltered anchorage of [[place-ravenmoor|Ravenmoor]]. Stone houses roofed in gray slate crowd the slope, peat smoke lies flat over the chimneys, and gulls scream over a fishing boat unloading herring in silver baskets. Nobody on the quay is in a hurry. A cooper hoops a barrel with slow taps of his mallet, two women in dun shawls mend a net between them, and a line of ships rides at anchor waiting its turn: Aldorathi cogs riding low under bales of fleece, and an Ondarethan trader with a red mantle painted on her stern.
 >
-> A boat brings the harbor officers out to you. The first aboard is a woman in a long coat of charcoal wool with a brass chain of office at her throat, followed by a clerk with a writing board and a young man carrying a tray lined with gray felt. She looks at the ship before she looks at anyone on it, then at you. "Welcome to [[place-aelwyth|Eilwith]], friend, and well met," she says, quietly, in the formal way, and again in the court register of the [[skill-elvndrlng|Élavendri Language]] a ship from the mainland is owed: "_Shalor en kir a thel_," welcome, friend of the light. "I am [Ívelin of Ravenmoor]{.name data-type="being/npc"}, and I serve the [[affiliation-dunavarsynod|Synod]]." Her clerk dips his pen. She nods at the felt tray. "Your lading may bide. Hath your ship aught aboard that ye cannot explain?"
+> A boat brings the harbor officers out to you. The first aboard is a woman in a long coat of charcoal wool with a brass chain of office at her throat, followed by a clerk with a writing board and a young man carrying a tray lined with gray felt. She looks at the ship before she looks at anyone on it, then at you. "Welcome to [[place-eilwith|Eilwìth]], friend, and well met," she says, quietly, in the formal way, and again in the court register of the [[skill-elvndrlng|Élavendri Language]] a ship from the mainland is owed: "_Shalor en kir a thel_," welcome, friend of the light. "I am [Ívelin of Ravenmoor]{.name data-type="being/npc"}, and I serve the [[affiliation-dunavarsynod|Synod]]." Her clerk dips his pen. She nods at the felt tray. "Your lading may bide. Hath your ship aught aboard that ye cannot explain?"
 
-Eilwith is a large island of about seven hundred thousand people off the western coast of [[place-ankrscntnnt|Ankaris]], a long and dangerous sail from the mainland. Four realms share its coasts, a third of it is old forest that no plow has touched, and fog is the ordinary weather of the west. The island runs its affairs with the entire seriousness of a continent and almost no news of one: its lords hold court as though their precedence mattered beyond the next valley, and most Eilwithans have no idea how small the island is.
+Eilwìth is a large island of about seven hundred thousand people off the western coast of [[place-ankrscntnnt|Ankaris]], a long and dangerous sail from the mainland. Four realms share its coasts, a third of it is old forest that no plow has touched, and fog is the ordinary weather of the west. The island runs its affairs with the entire seriousness of a continent and almost no news of one: its lords hold court as though their precedence mattered beyond the next valley, and most Eilwìthans have no idea how small the island is.
 
-**The one thing to understand first: every ship that crosses calls at Ravenmoor.** The Synod of [[affiliation-ordoarcanis|Thordimalon]] mages that governs [[affiliation-kingdmdnvr|Dúnavarre]] requires every vessel between Eilwith and the mainland to put in at Ravenmoor first, inbound and outbound. Its officers look for prohibited goods, and they record and often detain anything magical. The Synod meets every visitor before anyone else on the island does, and it is the only body on Eilwith that knows how the island compares with the world.
+**The one thing to understand first: every ship that crosses calls at Ravenmoor.** The Synod of [[affiliation-ordoarcanis|Thordimalon]] mages that governs [[affiliation-kingdmdnvr|Dúnavarre]] requires every vessel between Eilwìth and the mainland to put in at Ravenmoor first, inbound and outbound. Its officers look for prohibited goods, and they record and often detain anything magical. The Synod meets every visitor before anyone else on the island does, and it is the only body on Eilwìth that knows how the island compares with the world.
 
 ## What You Meet First
 
 The realms are [[affiliation-kngdmldrth|Aldorath]], the feudal breadbasket of the interior, where four in five people are serfs on manorial estates; Dúnavarre, the smallest and the most powerful, where the Synod rules through stewards and the [[affiliation-justbladeordr|Order of the Just Blade]]; the [[affiliation-repblcndrth|Republic of Ondareth]] on the west coast, a senate of mantled senators built in imitation of a Vilérian republic few there have seen, whose offices are for sale; and [[affiliation-jrldmstrmvld|Stormveld]] in the north-east, where Nordmen took the plain sixty years ago and work it with thralls. Every court keeps Arcane Order advisors, and every ruler knows the Synod can withdraw them.
 
-An Eilwithan attends the [[affiliation-arldnpnthn|Aureldian]] temple and also leaves something at the stone, the crossroads and the lake, and of all his duties those observances are the last he neglects. A farmer may say something naive about the [[affiliation-vylarinmpr|Empire]] and then name exactly which crossroads not to stand at after dark, in the words of [[lore-reevesthrees|the Reeve's Threes]]: "Three things not to be done after dark: to stand where the roads divide, to call the lake by name, and to count the standing stones." The coin is [[lore-vylrncrncy|Vilérian]]: the Solden, the Ardin and the Bit.
+An Eilwìthan attends the [[affiliation-arldnpnthn|Aureldian]] temple and also leaves something at the stone, the crossroads and the lake, and of all his duties those observances are the last he neglects. A farmer may say something naive about the [[affiliation-vylarinmpr|Empire]] and then name exactly which crossroads not to stand at after dark, in the words of [[lore-reevesthrees|the Reeve's Threes]]: "Three things not to be done after dark: to stand where the roads divide, to call the lake by name, and to count the standing stones." The coin is [[lore-vylrncrncy|Vilérian]]: the Solden, the Ardin and the Bit.
 
 ## Where to Go, and What to Fear
 
 [[place-wraymouth|Wraymouth]] is Dúnavarre's working harbor and [[place-dunmere|Dunmere]] Aldorath's walled seat. [[place-sunnerslade|Sunnerslade]] ripens a wine in the lee of [[place-ironfells|the Ironfells]] that has no business existing. In the high valleys of the Ironfells the [[lore-vardain|Vardain]], free remnant of the conquered north-east, live under the protection of the [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]].
 
-The island's reputation abroad is wrong about its people and right about its land. There are places where the fae are strong, deep in the forest and in the wild north, and the borders of the realms bend around them. [[lore-grukaraelwyth|Grukar]] have lived in the empty third of the island for seven hundred years. The tribes of the [[place-pshtrwldrns|Peshtar Wilderness]] live outside every realm, and the forest peoples are the most warlike of them. [[place-hallowwood|The Hallowwood]] in the south is the forest of Eilwith's [[lore-flksinale|Sinale]], and it does not receive visitors.
+The island's reputation abroad is wrong about its people and right about its land. There are places where the fae are strong, deep in the forest and in the wild north, and the borders of the realms bend around them. [[lore-grukaraelwyth|Grukar]] have lived in the empty third of the island for seven hundred years. The tribes of the [[place-pshtrwldrns|Peshtar Wilderness]] live outside every realm, and the forest peoples are the most warlike of them. [[place-hallowwood|The Hallowwood]] in the south is the forest of Eilwìth's [[lore-flksinale|Sinale]], and it does not receive visitors.
 
 ## Ways In
 
@@ -34,7 +34,7 @@ An Ondarethan merchant hires you to get a relic past the officers at Ravenmoor, 
 
 ## Songs and Sayings
 
-The common people of Eilwith keep their customs in a few works, each tied to a road, a night or an office:
+The common people of Eilwìth keep their customs in a few works, each tied to a road, a night or an office:
 
 - [[lore-reevesthrees|The Reeve's Threes]] hold the custom of the Aldorathi manors in sayings a reeve learns by heart and says first at the manor court.
 - [[lore-roadstops|The Ballad of the Road That Stops]] is the drovers' walking song of the Crown Road that ends at a bank of oaks, and the reason the highlands tell their children not to take it.
@@ -45,8 +45,8 @@ The common people of Eilwith keep their customs in a few works, each tied to a r
 
 ## Where to Read Next
 
-- [[place-aelwyth|Eilwith]] for the island, its elder kingdom, its peoples and the Synod
-- [[lore-aelwythanclt|The Eilwithans]] for parochialism, the land and what a person owes
+- [[place-eilwith|Eilwìth]] for the island, its elder kingdom, its peoples and the Synod
+- [[lore-aelwythanclt|The Eilwìthans]] for parochialism, the land and what a person owes
 - [[place-ravenmoor|Ravenmoor]] and [[affiliation-kingdmdnvr|Dúnavarre]] for the compulsory call and how the Synod enforces it
 - [[affiliation-kngdmldrth|Aldorath]], [[affiliation-repblcndrth|Ondareth]] and [[affiliation-jrldmstrmvld|Stormveld]] for the other realms
 - [[place-vardainvalleys|The Vardain Valleys]] and [[place-hallowwood|the Hallowwood]] for the island's elder neighbors

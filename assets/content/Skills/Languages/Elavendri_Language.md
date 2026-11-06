@@ -7293,8 +7293,17 @@ data:
     - form: aralwain
       instead: Araelwen
       why: "a plural the name does not take; Araelwen is the same in the plural"
-    - {form: Aelwyth, instead: Eilwith, why: respelled to Pronouncing Thalorna}
-    - {form: Aelwythi, instead: Eilwithi, why: respelled to Pronouncing Thalorna}
+    - {form: Aelwyth, instead: Eilwìth, why: respelled to Pronouncing Thalorna}
+    - {form: Aelwythi, instead: Eilwìthi, why: respelled to Pronouncing Thalorna}
+    - form: Eilwith
+      instead: Eilwìth
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: Eilwithi
+      instead: Eilwìthi
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: Eilwithan
+      instead: Eilwìthan
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
     - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
     - {form: drýenalon, instead: dríenalon, why: y is never a vowel}
     - {form: rýedamon, instead: ríedamon, why: y is never a vowel}
@@ -7320,7 +7329,7 @@ sohl:
 
 Élavendri is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where [[skill-vylarilng|Vilari]] is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse: in western [[place-aureldirgn|Aureldia Region]] Élavendri is held to be the modern language of love, the courts and art, with [[skill-helonclng|Helonik]] its classical counterpart. The [[lore-vylarianclt|Vilérian]] people do not hold it so. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On [[place-aelwyth|Eilwith]] the traveled and educated commonly speak it beside [[skill-aelwthlng|Eilwithi]], and the learned of Élavendre commonly speak Eilwithi in return; the two tongues have long borrowed words from each other.
+Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where [[skill-vylarilng|Vilari]] is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse: in western [[place-aureldirgn|Aureldia Region]] Élavendri is held to be the modern language of love, the courts and art, with [[skill-helonclng|Helonik]] its classical counterpart. The [[lore-vylarianclt|Vilérian]] people do not hold it so. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On [[place-eilwith|Eilwìth]] the traveled and educated commonly speak it beside [[skill-aelwthlng|Eilwìthi]], and the learned of Élavendre commonly speak Eilwìthi in return; the two tongues have long borrowed words from each other.
 
 The roman inventory includes `j` and `J` for the registered Élavendri name Jeldor; the repertoire records established names as well as ordinary word sounds.
 

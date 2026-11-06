@@ -397,7 +397,7 @@ Mildmund Dunwell is a 45-year-old man who stands 6'1" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Mildmund Dunwell is a herder.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Mildmund Dunwell is a herder.
 
 Mildmund comes from a family of herders, and has spent his life tending cattle and sheep. Known for his strength and resilience, he can handle the hardest work that herding brings. He has a deep understanding of the weather and what it does to livestock, and lets it guide his practice. For all his ruggedness he has a soft spot for his animals, and often talks to them as if they were companions.
 
@@ -441,7 +441,7 @@ Echoes of the Past
 : A calf Mildmund raised by hand and sold years ago is found among stolen cattle, and its mark is his.
 
 Shifting Winds
-: Political change in Eilwith threatens the common grazing Mildmund's herds depend on, and he can adapt, resist, or leave.
+: Political change in Eilwìth threatens the common grazing Mildmund's herds depend on, and he can adapt, resist, or leave.
 
 The Opportunity
 : A lord offers Mildmund the mastery of all his herds, and the methods the lord wants used are not the ones Mildmund's family has always used.

@@ -4,7 +4,7 @@ name: {full: The Umbral Court, en: [The Shadow Court, The Set-Aside Crown, The S
 type: affiliation
 subType: criminal
 description: "The shadow court of Dúnavarre—the household of a crown the Thordimalon set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
-tags: [organization, crime, underworld, dunavarre, aelwyth]
+tags: [organization, crime, underworld, dunavarre, eilwith]
 data:
   culture: aelwythanclt
   templatePriority: null
@@ -220,6 +220,6 @@ wrecked is a question its own officers disagree about, and Larad has not been to
 
 ## See Also
 
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-ravenmoor|Ravenmoor]] · [[place-aelwyth|Eilwith]]
+- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-ravenmoor|Ravenmoor]] · [[place-eilwith|Eilwìth]]
 - [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-justbladeordr|Order of the Just Blade]]
 - [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] · [[affiliation-velvethand|the Velvet Hand]]

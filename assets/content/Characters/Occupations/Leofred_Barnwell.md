@@ -398,7 +398,7 @@ Leofred Barnwell is a 38-year-old man who stands 5'7" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a noble family of [[lore-aelwythanclt|Eilwithan]] heritage, Leofred Barnwell is a physician.
+Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Leofred Barnwell is a physician.
 
 Leofred Barnwell is a respected physician known for his wide knowledge of medicine and healing. He has spent many years studying both the old remedies and the newer techniques, and is a trusted figure in the community. He is dedicated to his patients and often treats the poor without charge. His calm manner and kindness have made him well loved.
 
@@ -442,7 +442,7 @@ Echoes of the Past
 : A patient Leofred lost in his early years has a family that has not forgotten him.
 
 Shifting Winds
-: Political change in Eilwith threatens the standing Leofred's noble family gives him, and he can adapt, resist, or leave.
+: Political change in Eilwìth threatens the standing Leofred's noble family gives him, and he can adapt, resist, or leave.
 
 The Opportunity
 : Leofred is offered the post of physician to a great house, and its price is not named up front.

@@ -61,7 +61,7 @@ Type
 : pan-regional bardic fellowship
 
 Region
-: [[place-nrdlndsrgn|the Nordlands]], all five kingdoms, and [[place-vrystwald|Vristwald]] and [[place-aelwyth|Eilwith]] where Asguardian custom holds
+: [[place-nrdlndsrgn|the Nordlands]], all five kingdoms, and [[place-vrystwald|Vristwald]] and [[place-eilwith|Eilwìth]] where Asguardian custom holds
 
 Founded
 : tradition holds that the Circle was sworn at the great gathering at [[place-hringstead|Hringstead]], five generations before any present Nordland kingdom was founded
@@ -80,7 +80,7 @@ A skald is made by a skald. A sitting master picks out a candidate, typically in
 
 That first saga is the _geldra_, a long formal poem delivered before the assembled skalds at the Circle's yearly gathering, the [[lore-skaldating|Skaldating]]. If the assembly accepts it, the master swears the apprentice into the Circle and he is a skald in his own right. If it is rejected, he may try again the following year, and twice more after that. After three rejections the apprenticeship ends without recrimination and without rank.
 
-The [[lore-skaldating|Skaldating]] meets once a year, hosted in rotation by the five Nordland kingdoms and occasionally by Eilwith or Vristwald. New apprentices present their geldra there; the standing repertoire is reviewed and verified by collective recitation; and the assembled body resolves disputes over the accuracy of a contested verse.
+The [[lore-skaldating|Skaldating]] meets once a year, hosted in rotation by the five Nordland kingdoms and occasionally by Eilwìth or Vristwald. New apprentices present their geldra there; the standing repertoire is reviewed and verified by collective recitation; and the assembled body resolves disputes over the accuracy of a contested verse.
 
 The Circle holds four ranks:
 

@@ -27,7 +27,7 @@ data:
             how: >-
               the hold in these mountains had stood seven centuries when the account reached it, and has killed Grukar on sight ever since without waiting to be asked
             knowledge: named
-          - place: place-aelwyth
+          - place: place-eilwith
             how: >-
               the two Elder Races here, alone among their kind, unite the island under a single crown and govern it together for six centuries rather than let the breach be the end of it
             knowledge: named
@@ -103,7 +103,7 @@ The breach that followed is the one the world half-knows and cannot date. The [[
 existed and had never thought a weapon against cities worth mentioning, since they build none; one of
 theirs used it; and they hunted him down themselves, took a long time about it, and handed over
 nothing. Both positions are defensible and neither survives contact with the other. Only on
-[[place-aelwyth|Eilwith]], where the two peoples were already neighbors, did anybody try to repair it.
+[[place-eilwith|Eilwìth]], where the two peoples were already neighbors, did anybody try to repair it.
 
 The relic was never recovered a second time, which is why the Khazari kill Grukar on sight everywhere,
 knowing perfectly well that the Grukar were its first victims and chose none of it.

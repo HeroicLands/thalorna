@@ -214,7 +214,7 @@ The lowland houses of the Berav basin acclaimed Táldoren of the house of Oretha
 [[place-elavendre|Élavendre]]
 : Regional overview
 
-[[place-aelwyth|Eilwith]]
+[[place-eilwith|Eilwìth]]
 : Cultural cousin across the water
 
 [[affiliation-arldnpnthn|Aureldian]]

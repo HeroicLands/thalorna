@@ -81,7 +81,7 @@ The forest of the tellings: the _dorg_ (giants) who walked it before the clans, 
 
 ### The Taking of the Wood (TW), from about 1250 BF
 
-The mixed host [[lore-varkhadcnq|the Varkhad conquest]] made out of the eastern grasslands came into the forest from the east, broke the Pelwar who stood and married the ones who stayed. The rest went west along the bay toward the sea and [[place-aelwyth|Eilwith]], and the forest's oldest mounds hold both stocks side by side. The tellings keep two accounts of this age at once, one in which the people came out of the east and one in which they came out of the oaks. [[lore-takingwood|The Taking of the Wood]] tells it.
+The mixed host [[lore-varkhadcnq|the Varkhad conquest]] made out of the eastern grasslands came into the forest from the east, broke the Pelwar who stood and married the ones who stayed. The rest went west along the bay toward the sea and [[place-eilwith|Eilwìth]], and the forest's oldest mounds hold both stocks side by side. The tellings keep two accounts of this age at once, one in which the people came out of the east and one in which they came out of the oaks. [[lore-takingwood|The Taking of the Wood]] tells it.
 
 ### The Mound Centuries (MC), from about 1100 BF
 

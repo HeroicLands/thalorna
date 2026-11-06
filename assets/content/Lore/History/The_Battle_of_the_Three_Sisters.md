@@ -3,7 +3,7 @@ shortcode: threesistrs
 name: {full: The Battle of the Three Sisters, en: [The End of the Elder Kingdom]}
 type: lore
 subType: history
-description: "In 984 BF the Sinale king of the joint Eilwithan kingdom is killed at the Three Sisters by the Varkhad—and the Sinale abandon the crown, the kingdom and every claim outside the Hallowwood."
+description: "In 984 BF the Sinale king of the joint Eilwìthan kingdom is killed at the Three Sisters by the Varkhad—and the Sinale abandon the crown, the kingdom and every claim outside the Hallowwood."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -11,9 +11,9 @@ data:
     - when: -984
       kind: battle
       depth: world
-      sources: [place-threesisters, place-aelwyth, place-hallowwood]
+      sources: [place-threesisters, place-eilwith, place-hallowwood]
       summary: >-
-        The Sinale king of the joint Sinale–Khazari kingdom of Eilwith is killed at the Three Sisters amid the Great War by the Varkhad among the settlers, in a manner the tradition is consistent only in calling more than an army's work. The surviving Sinale abandon the crown, the kingdom and every claim outside the Hallowwood and withdraw permanently. The Khazari finish the war alone. It ends the only attempt either Elder Race has made to repair the breach that began at Khazartúrn.
+        The Sinale king of the joint Sinale–Khazari kingdom of Eilwìth is killed at the Three Sisters amid the Great War by the Varkhad among the settlers, in a manner the tradition is consistent only in calling more than an army's work. The surviving Sinale abandon the crown, the kingdom and every claim outside the Hallowwood and withdraw permanently. The Khazari finish the war alone. It ends the only attempt either Elder Race has made to repair the breach that began at Khazartúrn.
       standing: attested
       where:
         locus: [place-threesisters]
@@ -25,7 +25,7 @@ data:
             how: >-
               the Deep Folk finish a war alone that they entered as one half of a crown, and have not spoken to the Sinale since
             knowledge: named
-          - place: place-aelwyth
+          - place: place-eilwith
             how: >-
               a single crown over the whole island ends, and every realm on the map today stands in the ground it left
             knowledge: named
@@ -52,7 +52,7 @@ data:
           says: >-
             The joint kingdom under a Sinale king, the war, the king's death, and the retreat into the forest that the Khazari have never forgiven.
           agrees: full
-          withholds: nothing, and they do not know whether it is the great sundering or only its Eilwithan chapter
+          withholds: nothing, and they do not know whether it is the great sundering or only its Eilwìthan chapter
         - by: lore-flkkhazar
           says: >-
             The Sinale walked away from us in a crisis, for the second time, having spent six hundred years persuading us it would not happen again.
@@ -63,13 +63,13 @@ data:
           agrees: silent
       unresolved:
         - how the Varkhad killed the Sinale king, which the tradition is consistent only in calling more than an army's work
-        - whether this is the great sundering between the Elder Races or only its Eilwithan chapter
+        - whether this is the great sundering between the Elder Races or only its Eilwìthan chapter
 ---
 
-Before there were kingdoms on [[place-aelwyth|Eilwith]] there was one, and both Elder Races held it.
+Before there were kingdoms on [[place-eilwith|Eilwìth]] there was one, and both Elder Races held it.
 After [[lore-fallkhazturn|the Fall of Khazartúrn]] the [[lore-flksinale|Sinale Folk]] and
 [[lore-flkkhazar|Khazár Folk]] ceased dealing with one another everywhere in the world—except on this
-island, where instead they tried to repair it. In time they united Eilwith under a single crown held by a
+island, where instead they tried to repair it. In time they united Eilwìth under a single crown held by a
 Sinale king and governed it together for six centuries. It is the only such attempt either race has
 ever made.
 
@@ -82,4 +82,4 @@ What was lost there is more than a king and more than a war. It ended in the way
 make it irrecoverable: not in a quarrel, but with the Sinale walking away from the Khazari in a
 crisis, for the second time, having spent six hundred years persuading them it would not happen again.
 
-Nearly every human on Eilwith today descends from those refugees, the Peshtar among them. The exception is [[lore-vardain|the Vardain]], who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.
+Nearly every human on Eilwìth today descends from those refugees, the Peshtar among them. The exception is [[lore-vardain|the Vardain]], who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.

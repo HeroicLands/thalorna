@@ -23,7 +23,7 @@ data:
             how: >-
               ruins and artifacts of two makings at once stand across the continent, and no human workshop can reproduce either half of one
             knowledge: unlinked
-          - place: place-aelwyth
+          - place: place-eilwith
             how: >-
               the two peoples here are still on the same ground when the accord ends, and are the only ones of their kind who ever try to put it back together
             knowledge: named
@@ -83,5 +83,5 @@ The end is not gradual. It is [[lore-fallkhazturn|the Fall of Khazartúrn]], and
 one moment seen from two sides: the Khazari lose their greatest city and thirty thousand of their
 people, and the world loses the only arrangement the Elder Races ever made with one another. They do
 not speak. They do not trade. They do not enter each other's territories. On
-[[place-aelwyth|Eilwith]], where both peoples were already living on the same ground, the estrangement
+[[place-eilwith|Eilwìth]], where both peoples were already living on the same ground, the estrangement
 was resisted for six centuries by a joint crown, and that is the only place anyone tried.

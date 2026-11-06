@@ -126,7 +126,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 [[place-hallowwood|The Hallowwood]]
 : where the road stops
 
-[[lore-jointcrown|The Joint Crown of Eilwith]]
+[[lore-jointcrown|The Joint Crown of Eilwìth]]
 : the elder kingdom that cut the road
 
 [[lore-theshadow|The Shadow]]

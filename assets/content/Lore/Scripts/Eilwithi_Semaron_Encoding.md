@@ -1,14 +1,14 @@
 ---
 shortcode: aelwsemaronenc
-name: {full: Eilwithi Semaron Encoding}
+name: {full: Eilwìthi Semaron Encoding}
 type: doc
 subType: reference
 data:
   packFolder: languages
   language: aelw
   font: semaron-kuriale
-  accepts: [a-w, y-z, A-W, Y-Z, 0-9, á, é, í, ó, ú, Á, É, Í, Ó, Ú]
-  vowels: aeiouAEIOUáéíóúÁÉÍÓÚ
+  accepts: [a-w, y-z, A-W, Y-Z, 0-9, á, é, í, ó, ú, Á, É, Í, Ó, Ú, ì, Ì]
+  vowels: aeiouAEIOUáéíóúÁÉÍÓÚìÌ
   mappings:
     "0": DIGIT_ZERO
     "1": DIGIT_ONE
@@ -97,6 +97,8 @@ data:
     Í: [ILTHERA_MAJ, STRESS]
     Ó: [ORNETHE_MAJ, STRESS]
     Ú: [ULMERA_MAJ, STRESS]
+    ì: [ILTHERA_MIN, SHORT]
+    Ì: [ILTHERA_MAJ, SHORT]
   rules:
     normalization: NFC
     matching: longest-first
@@ -117,11 +119,11 @@ data:
       - {match: ny, before: vowel, emit: NYELIS_MIN}
       - {match: Ny, before: vowel, emit: NYELIS_MAJ}
     y: {kind: consonant, sound: y in yes, vowel-reading: false}
-    grave-accent: {allowed: false}
+    grave-accent: {allowed: true}
 ---
 
-Eilwithi is written in [[skill-semrnscrpt|Semaron]], in the Kuriale hand.
-This encoding writes [[skill-aelwthlng|Eilwithi]] Roman spelling. The [[skill-aelwthlng#pronunciation|language note]] defines its pronunciation,
+Eilwìthi is written in [[skill-semrnscrpt|Semaron]], in the Kuriale hand.
+This encoding writes [[skill-aelwthlng|Eilwìthi]] Roman spelling. The [[skill-aelwthlng#pronunciation|language note]] defines its pronunciation,
 grammar and words.
 
 ## Letters and groups
@@ -138,7 +140,7 @@ The letter y is always a consonant, YALZEMIS, with the sound in yes.
 Before a vowel, ny takes NYELIS, the sound in canyon. Elsewhere n and y
 retain their individual signs. Write i for the vowel in machine.
 
-Eilwithi has no x, and c occurs only in ch. Its English-derived words use
+Eilwìthi has no x, and c occurs only in ch. Its English-derived words use
 the respellings specified in the language note. Word lookup ignores case;
 encoding preserves the spelling's case. No word-specific native writing is
 stored or inferred by this encoding.
@@ -151,8 +153,14 @@ length. An acute on the first vowel of a vowel group stresses the group. An
 acute on its second vowel starts a syllable there, as
 [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so aé writes ANKRON, ELZA
 and STRESS: the two vowels with the modifier after the second. Each vowel
-takes its own sign, in a group or apart. Neither diaeresis nor grave accents
-are used.
+takes its own sign, in a group or apart. The diaeresis is not used.
+
+A grave writes a short vowel, as in the common guide. Eilwìthi uses one, ì,
+the short i of sit, as in Eilwìth. Semaron draws the short vowel with the same
+sign as the plain one, so ì writes ILTHERA followed by the font's non-printing
+SHORT mark, and Ì writes the majuscule with the same mark. The mark keeps the
+grave in the native text, so decoding restores it exactly. No other grave is
+accepted.
 
 ## Word spelling
 

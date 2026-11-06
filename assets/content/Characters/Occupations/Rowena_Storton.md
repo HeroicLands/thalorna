@@ -396,7 +396,7 @@ Rowena Storton is a 28-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a guilded family of [[lore-aelwythanclt|Eilwithan]] heritage, Rowena Storton is an animal trainer.
+Born in the [[place-eilwith|Eilwìth]] region to a guilded family of [[lore-aelwythanclt|Eilwìthan]] heritage, Rowena Storton is an animal trainer.
 
 Rowena trains exotic birds for a noble family. She is skilled at teaching them tricks and mimicking sounds, and often accompanies her employers to social events.
 
@@ -431,16 +431,16 @@ Rowena has managed to avoid making serious enemies, though the nature of her wor
 ## Plot Hooks
 
 The Animal Trainer's Dilemma
-: Rowena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwith.
+: Rowena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
 
 Unwelcome Attention
-: A powerful figure in Eilwith has taken an interest in Rowena's work, and their intentions remain unclear. Cooperation could mean security—or compromise.
+: A powerful figure in Eilwìth has taken an interest in Rowena's work, and their intentions remain unclear. Cooperation could mean security—or compromise.
 
 Echoes of the Past
 : Something from Rowena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Rowena depends upon. She must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Rowena depends upon. She must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Rowena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

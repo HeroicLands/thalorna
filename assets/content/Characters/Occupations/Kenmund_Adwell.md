@@ -395,7 +395,7 @@ Kenmund Adwell is a 36-year-old man who stands 6'2" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Eilwith]] region to a freeman family of [[lore-aelwythanclt|Eilwithan]] heritage, Kenmund Adwell is a caravan guard.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Kenmund Adwell is a caravan guard.
 
 Kenmund is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Kenmund believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
 
@@ -430,7 +430,7 @@ Few; well-respected among peers.
 ## Plot Hooks
 
 The Caravan Guard's Dilemma
-: Kenmund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwith.
+: Kenmund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
 
 Old Grudges
 : Few; well-respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
@@ -439,7 +439,7 @@ Echoes of the Past
 : Something from Kenmund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Eilwith threaten to upend the social order that Kenmund depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Eilwìth threaten to upend the social order that Kenmund depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
 : A chance encounter offers Kenmund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

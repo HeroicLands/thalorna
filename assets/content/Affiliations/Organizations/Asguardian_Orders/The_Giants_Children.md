@@ -64,7 +64,7 @@ Patron
 : [[affiliation-hrimthur|Hrimthur]], the Rime-Giant
 
 Region
-: [[place-nrdlndsrgn|the Nordlands]], with the strongest concentrations in the colder northern reaches, and smaller chapters in [[place-vrystwald|Vristwald]] and the more remote valleys of [[place-aelwyth|Eilwith]]
+: [[place-nrdlndsrgn|the Nordlands]], with the strongest concentrations in the colder northern reaches, and smaller chapters in [[place-vrystwald|Vristwald]] and the more remote valleys of [[place-eilwith|Eilwìth]]
 
 Seats
 : nine chapter halls, each led by a Father of the Hall

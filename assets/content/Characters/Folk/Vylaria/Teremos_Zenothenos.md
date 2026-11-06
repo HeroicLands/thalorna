@@ -3,7 +3,7 @@ shortcode: teremoszenot
 name: {full: Teremos Zenothenos, en: [Marendos Teremos]}
 type: being
 subType: npc
-description: "An austere marendos and sekeros of the Arcane Inquisition who works its western investigations, and who is asking the villages of the Eilwith borderlands about a traveling healer whose real name he does not know."
+description: "An austere marendos and sekeros of the Arcane Inquisition who works its western investigations, and who is asking the villages of the Eilwìth borderlands about a traveling healer whose real name he does not know."
 tags: [draft]
 data:
   icon: icon-person
@@ -39,7 +39,7 @@ Teremos Zenothenos is a 45-year-old man who stands 5'6" tall and is of heavy bui
 
 Teremos Zenothenos is a _marendos_ (master) of the Thordimalon and a _sekeros_ (inquirer) of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran), working its investigations in the west. His field is "irregular practice": hedge-healers, cunning folk and alchemists whose remedies actually work and who learned them from somebody off the Order's register.
 
-His present inquiry is in the borderlands of [[place-aelwyth|Eilwith]], where the Order's reach is thin. He goes from village to village, holds his hearings in the back rooms of inns, and asks the same questions everywhere: who treats the sick here, where did that person learn it, and from whom.
+His present inquiry is in the borderlands of [[place-eilwith|Eilwìth]], where the Order's reach is thin. He goes from village to village, holds his hearings in the back rooms of inns, and asks the same questions everywhere: who treats the sick here, where did that person learn it, and from whom.
 
 ## Background
 
@@ -47,7 +47,7 @@ His present inquiry is in the borderlands of [[place-aelwyth|Eilwith]], where th
 
 **The west.** The Sekran set him to its western inquiries, where the Order keeps chapters but holds no law, and a _sekeros_ works on his standing, his reputation and his hired help.
 
-**The healer.** In the Eilwith borderlands he has heard, more than once, of a traveling healer and scholar who sells remedies in the less-settled villages and knows more than a hedge-healer should.
+**The healer.** In the Eilwìth borderlands he has heard, more than once, of a traveling healer and scholar who sells remedies in the less-settled villages and knows more than a hedge-healer should.
 
 ## Psyche
 

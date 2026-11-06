@@ -59,7 +59,7 @@ The longships are the north's great craft. They draw little enough water to run 
 
 The Nordmen give one answer when a southerner asks, and they give it without embarrassment: arithmetic. A people whose land cannot feed them must take food, or land, or both, from a country that can. Two million people on rock and ice have done so along every coast within reach for as long as anyone has kept a record, and the [[lore-nrdlndsraid|raid]] has its own customs of crew, share and muster.
 
-The same arithmetic explains [[affiliation-jrldmstrmvld|Stormveld]]. Sixty years ago Nordmen crossed to [[place-aelwyth|Eilwith]] and took its north-east, and what they took was the _plain_, the one large body of good arable on that island, now worked by a hundred and twenty thousand thralls. Seen from the Nordlands it is the most rational thing anyone up there has ever done. Seen from the plain, it is a conquest, and the thralls' children still work land the conquerors hold.
+The same arithmetic explains [[affiliation-jrldmstrmvld|Stormveld]]. Sixty years ago Nordmen crossed to [[place-eilwith|Eilwìth]] and took its north-east, and what they took was the _plain_, the one large body of good arable on that island, now worked by a hundred and twenty thousand thralls. Seen from the Nordlands it is the most rational thing anyone up there has ever done. Seen from the plain, it is a conquest, and the thralls' children still work land the conquerors hold.
 
 ## Clans, Halls and the Ting
 
@@ -87,13 +87,13 @@ Succession is hereditary in name and qualified by the ting in fact. A king whose
 
 ## Trade and the Wider World
 
-The Nordlands are woven into Ankaris's trade whatever their reputation. Nordmen longships reach as far south as the [[place-vylarianse|Vilérian Sea]], and Nordmen mercenaries serve in armies from [[place-aelwyth|Eilwith]] to [[place-tantsouregin|Tantsou]]. The region exports amber, furs, whale ivory, iron, smoked fish and slaves, and imports wine, fine cloth, grain, silver and the luxuries only a warmer country grows. Commerce in coin runs on [[lore-vylrncrncy|Vilérian money]], since the north strikes none of its own; larger dealings run on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]].
+The Nordlands are woven into Ankaris's trade whatever their reputation. Nordmen longships reach as far south as the [[place-vylarianse|Vilérian Sea]], and Nordmen mercenaries serve in armies from [[place-eilwith|Eilwìth]] to [[place-tantsouregin|Tantsou]]. The region exports amber, furs, whale ivory, iron, smoked fish and slaves, and imports wine, fine cloth, grain, silver and the luxuries only a warmer country grows. Commerce in coin runs on [[lore-vylrncrncy|Vilérian money]], since the north strikes none of its own; larger dealings run on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]].
 
-Eilwith is the closest trading partner. The two face each other across some three hundred miles of open sea, and they share a family of gods through the Eilwithan syncretism of the Twelve of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the Asguardians, and centuries of intermarriage, feud and quiet alliance.
+Eilwìth is the closest trading partner. The two face each other across some three hundred miles of open sea, and they share a family of gods through the Eilwìthan syncretism of the Twelve of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the Asguardians, and centuries of intermarriage, feud and quiet alliance.
 
 ## The Neighbors
 
-To the south and west lies [[place-aureldirgn|Aureldia]]: trading partner, theological rival, occasional victim of raids, and party to the Eilwithan syncretism that sets the Asguardian gods in an Aureldian landscape. To the south, the frontier with [[place-vrystwald|Vristwald]] is a long, wooded contest between Nordmen settlers and the [[lore-varokhiclt|Varokh]] tribes of the deep forest, where who built the last stockade matters more than any formal rule. To the east is [[place-grkrhlmrgn|Grukarholm]], home of the Grukar. The two peoples share a climate and a martial temper and nothing else. Grukar raids on the coastal settlements are a perennial problem, and Nordmen punitive expeditions into Grukar country are the recurring answer.
+To the south and west lies [[place-aureldirgn|Aureldia]]: trading partner, theological rival, occasional victim of raids, and party to the Eilwìthan syncretism that sets the Asguardian gods in an Aureldian landscape. To the south, the frontier with [[place-vrystwald|Vristwald]] is a long, wooded contest between Nordmen settlers and the [[lore-varokhiclt|Varokh]] tribes of the deep forest, where who built the last stockade matters more than any formal rule. To the east is [[place-grkrhlmrgn|Grukarholm]], home of the Grukar. The two peoples share a climate and a martial temper and nothing else. Grukar raids on the coastal settlements are a perennial problem, and Nordmen punitive expeditions into Grukar country are the recurring answer.
 
 Far to the south, Midhalión is the great market. Nordmen traders and mercenaries are a familiar sight in every Vilérian port, and a good share of the north's silver is earned under southern skies.
 
@@ -146,7 +146,7 @@ Three fields of the dead lie in the north, Domsey, Skalfvatan and [[place-dvulgv
 [[place-vrystwald|Vristwald]]
 : southern frontier
 
-[[place-aelwyth|Eilwith]]
+[[place-eilwith|Eilwìth]]
 : religious syncretism and cultural cousin
 
 [[place-aureldirgn|Aureldia Region]]
