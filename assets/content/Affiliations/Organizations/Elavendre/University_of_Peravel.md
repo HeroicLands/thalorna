@@ -82,7 +82,7 @@ Seat
 : Péravel
 
 Head
-: the Rector, [Ranthor Párdalen]{.name data-type="being/npc"}
+: the Rector, [[being-thorenveldar|Thoren Véldarin]]
 
 ## What It Controls {#what-it-controls}
 
@@ -118,9 +118,9 @@ A person struck from the roll is refused the courts, the libraries and the colle
 
 ## Masters {#masters}
 
-[Ranthor Párdalen]{.name data-type="being/npc"}, **the Rector**, is a Master of the Oldest Court, sixty, courteous, and learned in the law. He holds the University's charter in trust for the crown and keeps the Order warm and the queen informed. He does not discuss what the fellows do beyond the tree line, and says so with some regret.
+[[being-thorenveldar|Thoren Véldarin]], **the Rector**, is a Master of the Oldest Court, sixty, courteous, and learned in the law. He holds the University's charter in trust for the crown and keeps the Order warm and the queen informed. He does not discuss what the fellows do beyond the tree line, and says so with some regret.
 
-[Néthara Halren]{.name data-type="being/npc"}, **the Keeper of the Collections**, is a Master of the Fisera house, who knows every object in the four collections by its weight in her hand. She is meticulous, and she is the only person at the University who knows where each object came from.
+[[being-netharahalre|Néthara Halren]], **the Keeper of the Collections**, is a Master of the Fisera house, who knows every object in the four collections by its weight in her hand. She is meticulous, and she is the only person at the University who knows where each object came from.
 
 ## The Present Quarrel {#present}
 

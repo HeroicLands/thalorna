@@ -39,7 +39,7 @@ A wall of beach stone closes the landward side, with a road gate on the southwes
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The [[affiliation-sarmelisconcl|Quay Council of Sarmelis]] governs the quay, the market and the boom. Its Reeve of the Harbor gives the berths, sets the boom, and speaks to the crown's officers for the town. The crown's own law runs in the sheriff's hall: the **sheriff of Lísere**, [Salten Elarven]{.name data-type="being/npc"}, tries the crown's pleas, holds the posse and collects the road toll and the duty on whatever is entered at the tally-house. A lieutenant of the Admiral keeps the crown's three cutters at the mole and answers to the Admiral for the coast.
+The [[affiliation-sarmelisconcl|Quay Council of Sarmelis]] governs the quay, the market and the boom. Its Reeve of the Harbor gives the berths, sets the boom, and speaks to the crown's officers for the town. The crown's own law runs in the sheriff's hall: the **sheriff of Lísere**, [[being-saltenelarve|Salten Elarven]], tries the crown's pleas, holds the posse and collects the road toll and the duty on whatever is entered at the tally-house. A lieutenant of the Admiral keeps the crown's three cutters at the mole and answers to the Admiral for the coast.
 
 The two offices are courteous with each other in public. The council holds that the quay is the town's and the tally-house is the crown's, and the sheriff holds that the quay is wherever a crown cargo lies. A quarrel in the market is settled by the council. A killing, a theft from a crown cargo or a raider found in the town goes to the sheriff.
 

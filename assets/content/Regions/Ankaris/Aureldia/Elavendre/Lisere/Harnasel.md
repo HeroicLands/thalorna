@@ -35,7 +35,7 @@ One regular customer is not on the crown's books: the watch at the Fen Door. A W
 
 ## Who Leads It {#who-leads}
 
-The village is led by [Sólmere Kálmereth]{.name data-type="being/npc"}, the head of the oldest line and keeper of the beacon-house, who sits on the council of the [[affiliation-beaconfamlys|Beacon Families]]. She is a woman of sixty, broad and slow-spoken. She keeps the beacon-roster and the bake-house accounts in her head. The grove-elder of the coast tries the village's cases when he comes down, and he stays for the bread.
+The village is led by [[being-solmerekalme|Sólmere Kálmereth]], the head of the oldest line and keeper of the beacon-house, who sits on the council of the [[affiliation-beaconfamlys|Beacon Families]]. She is a woman of sixty, broad and slow-spoken. She keeps the beacon-roster and the bake-house accounts in her head. The grove-elder of the coast tries the village's cases when he comes down, and he stays for the bread.
 
 ## The Failing or the Quarrel {#present}
 

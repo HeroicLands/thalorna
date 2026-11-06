@@ -7555,6 +7555,8 @@ data:
     - {name: haulonnaho, tongue: sinale, built: [haulonna, -ho], gloss: in Haulonna}
     - {name: thalmdal, tongue: exonym:nordmal}
     - {name: ansorutti lonkunto, tongue: sinale, built: [ansoru, -tti, lonku, -nto]}
+    - {name: ansorula masserinto, tongue: sinale, built: [ansoru, -la, masseri, -nto]}
+    - {name: Ansorula of Ethalosse, tongue: translation}
     - {name: sirmenne, tongue: older}
     - {name: veldikko, tongue: sinale, built: [veldi, -kko]}
     - {name: The God of Dreams, tongue: translation}

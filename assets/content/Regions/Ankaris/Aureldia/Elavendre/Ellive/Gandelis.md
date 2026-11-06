@@ -34,7 +34,7 @@ The road from [[place-ruthelmar|Ruthelmar]] climbs for a day through hay meadows
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The crown's charter-reeve, [Orlen Tárvenel]{.name data-type="being/npc"}, holds the gate-house, collects the market dues and keeps the peace within the walls. A quarrel inside the gate goes to him, and a quarrel outside it goes to nobody: it is the Wardens' ground, and the Wardens' judgment is final. The town's magistrates take a dim public view of the companies that cross the line, and a pragmatic private one.
+The crown's charter-reeve, [[being-orlentarvene|Orlen Tárvenel]], holds the gate-house, collects the market dues and keeps the peace within the walls. A quarrel inside the gate goes to him, and a quarrel outside it goes to nobody: it is the Wardens' ground, and the Wardens' judgment is final. The town's magistrates take a dim public view of the companies that cross the line, and a pragmatic private one.
 
 ## The Present {#present}
 

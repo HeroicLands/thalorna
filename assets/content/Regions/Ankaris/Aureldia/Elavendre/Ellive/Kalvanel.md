@@ -32,7 +32,7 @@ The village was chartered by the crown on terms the Áelendan wrote: it lodges a
 
 ## Who Leads It {#who-leads}
 
-The keeper of the pilgrim-house leads Kalvanel, and the post passes by the house's own choice, not by the lord's. The present keeper is [Sárena Salthar]{.name data-type="being/npc"}, a widow of fifty who has fed pilgrims for thirty years and has never failed to count them out as carefully as she counted them in.
+The keeper of the pilgrim-house leads Kalvanel, and the post passes by the house's own choice, not by the lord's. The present keeper is [[being-sarenasalth|Sárena Salthar]], a widow of fifty who has fed pilgrims for thirty years and has never failed to count them out as carefully as she counted them in.
 
 ## The Present {#present}
 

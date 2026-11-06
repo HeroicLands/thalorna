@@ -65,7 +65,7 @@ A **sworn man** serves a term for pay and a share of the stores. A **levyman** c
 
 ## Current Situation {#present}
 
-The garrison is short of men. The Castellan, [Moren Othral]{.name data-type="being/npc"}, has asked [[place-beravel|Péravel]] for more and been told the matter is under consideration, and the best of the shore's young men are on the quay at [[place-sarmelis|Sarmelis]], hired by an [[affiliation-ordoarcanis|Order]] scholar at wages the crown does not match. The Keeper of the Great Fire has lost two of his four lamp-hands since midwinter, and one night in five the fire is stood by a single man.
+The garrison is short of men. The Castellan, [[being-morenothral|Moren Othral]], has asked [[place-beravel|Péravel]] for more and been told the matter is under consideration, and the best of the shore's young men are on the quay at [[place-sarmelis|Sarmelis]], hired by an [[affiliation-ordoarcanis|Order]] scholar at wages the crown does not match. The Keeper of the Great Fire has lost two of his four lamp-hands since midwinter, and one night in five the fire is stood by a single man.
 
 A Varokh boat under a green branch has lain on the beach in the lee of the point for several days, and the garrison is divided on whether its people should be heard.
 
@@ -96,6 +96,12 @@ The garrison answers to the crown, and its relations with the shore are practica
 
 [[affiliation-beaconfamlys|The Beacon Families]]
 : the lamp-keepers who answer its fire
+
+[[affiliation-brdrmltia|The Border Militia]]
+: the standing arms the garrison belongs to
+
+[[lore-northshorefire|The Burning of the North Shore]]
+: why the fort stands
 
 [[affiliation-kngdmlvndr|Kingdom of Élavendre]]
 : the crown the garrison serves

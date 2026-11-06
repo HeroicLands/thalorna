@@ -6833,6 +6833,33 @@ data:
     - {name: The Waking Stand, tongue: translation}
     - {name: The Wrought Hollow, tongue: translation}
     - {name: The Fen Door, tongue: translation}
+    - {name: Warden Kéldira, tongue: translation}
+    - {name: Death-Speaker Norgatha, tongue: translation}
+    - {name: Keeper Lúmreda, tongue: translation}
+    - {name: Warden-Captain Gólmaren, tongue: translation}
+    - {name: kéldira, tongue: aelendi}
+    - {name: norgatha, tongue: aelendi}
+    - {name: lúmreda, tongue: aelendi}
+    - {name: gólmaren, tongue: aelendi}
+    - {name: Kéldira of the Dhárgandi, tongue: translation}
+    - {name: Norgatha of the Thanandi, tongue: translation}
+    - {name: Lúmreda of the Móghorendi, tongue: translation}
+    - {name: Gólmaren of the Kárandi, tongue: translation}
+    - {name: aldreth, tongue: aelendi}
+    - {name: Warden Aldreth, tongue: translation}
+    - {name: Aldreth of the Tírindi, tongue: translation}
+    - {name: kélpane, tongue: aelendi}
+    - {name: Warden Kélpane, tongue: translation}
+    - {name: Kélpane of the Dhárgandi, tongue: translation}
+    - {name: thandrel, tongue: aelendi}
+    - {name: Warden Thandrel, tongue: translation}
+    - {name: Thandrel of the Tírindi, tongue: translation}
+    - {name: marenne, tongue: aelendi}
+    - {name: Warden Marenne, tongue: translation}
+    - {name: orpeth, tongue: aelendi}
+    - {name: Warden Orpeth, tongue: translation}
+    - {name: rupena, tongue: aelendi}
+    - {name: Rupena the Herdwife, tongue: translation}
   retired:
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}

@@ -32,7 +32,7 @@ Charcoal, honey, hazel and withy, and the gathering of the herbs that the physic
 pay absurd prices for. No felling of standing silver birch, ever, by anyone, for any reason ([[lore-blacksnow|The Black Snow]]).
 
 The village keeps the old festivals rather than the Aureldian calendar, and outsiders who arrive for
-one are made welcome and watched.
+one are made welcome and watched. The one outsiders remember is [[lore-handsbarnight|the Hands-Bare Night]].
 
 ## See Also
 

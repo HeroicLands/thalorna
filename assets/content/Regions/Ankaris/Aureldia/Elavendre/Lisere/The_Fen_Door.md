@@ -60,7 +60,7 @@ The watch is short. One of the two Wardens who came down at the autumn turn was 
 :::secret {title="The truth of the Fen Door"}
 What came through at midwinter is still on this side. It killed the Warden who went at it alone with fire and the wrong song, as the thing in the fog killed a man of the Lodge in the Black Snow, and it did not go back. It is a long, low thing, black and wet like the bog, with too many joints and no face, and it moves under the moss as a man moves through water. By day it lies in the black water of Olvalonke. On dark nights it hunts along the edge of the forest toward the shore, and it does not come into the light of a beacon. The beacon families of the nearest stretch have lost a dog and a child's pony since midwinter and have not said why.
 
-The Warden left at the Door, [Kéldira]{.name data-type="being/npc"} of the [Dhárgandi]{.name data-type="affiliation/lineage"}, cannot hunt it and keep the watch at once, and keeping the watch comes first. While she sits by the cleft, nothing else has come through. If the watch is left for a night, something else does.
+The Warden left at the Door, [[being-keldiradhar|Kéldira]] of the [Dhárgandi]{.name data-type="affiliation/lineage"}, cannot hunt it and keep the watch at once, and keeping the watch comes first. While she sits by the cleft, nothing else has come through. If the watch is left for a night, something else does.
 
 The Order scholar's guards mean to keep the Warden away from the mound while he watches. If they do, the Door is unwatched.
 :::

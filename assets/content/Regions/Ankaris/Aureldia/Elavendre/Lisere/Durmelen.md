@@ -37,7 +37,7 @@ A Varokh boat under a green branch has lain on the beach in the lee of the point
 
 ## The Holder {#holder}
 
-The Castellan is [Moren Othral]{.name data-type="being/npc"}, a knight of fifty-odd winters whose father held the fort before him. He is careful, tired and a stickler for the muster roll. He knows that the Varokh furs reach Sarmelis with Kalipsan marks and has chosen not to ask, on the principle that a Varokh who trades is a Varokh who is not landing. He keeps the oath against the Nordmen to the letter and the shore's other raiders by the measure of what keeps his men alive.
+The Castellan is [[being-morenothral|Moren Othral]], a knight of fifty-odd winters whose father held the fort before him. He is careful, tired and a stickler for the muster roll. He knows that the Varokh furs reach Sarmelis with Kalipsan marks and has chosen not to ask, on the principle that a Varokh who trades is a Varokh who is not landing. He keeps the oath against the Nordmen to the letter and the shore's other raiders by the measure of what keeps his men alive.
 
 ## The Garrison {#garrison}
 

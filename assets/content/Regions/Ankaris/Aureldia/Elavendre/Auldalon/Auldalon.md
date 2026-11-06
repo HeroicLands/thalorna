@@ -30,7 +30,7 @@ not seasonally enough to plan around comfortably, but often enough that no gener
 been without it.
 
 So the region is built for it. Towns are walled or ditched; steadings cluster; stock is grazed within a
-day's drive of somewhere defensible; and the hill levy is the most experienced body of fighting men in
+day's drive of somewhere defensible; and the hill levy ([[affiliation-brdrmltia|the Border Militia]]) is the most experienced body of fighting men in
 Élavendre and knows it. Áuldalon's opinion of the court at [[place-beravel|Péravel]] is that it is charming, cultured, and
 has never once arrived in time.
 
@@ -62,6 +62,9 @@ Somewhere in the woods of the hills stands the ditched camp of the cohort that f
 
 [[place-kelpasi|Kélpasi]]
 : a hill village of the interior.
+
+[[place-morthalmrch|The Morthal March]]
+: the crown's strip of shore and hill at the head of Lísere Bay, held by [[affiliation-morthalwtch|the Morthal Watch]].
 
 ## See Also
 

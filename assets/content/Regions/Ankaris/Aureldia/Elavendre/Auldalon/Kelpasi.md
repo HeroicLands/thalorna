@@ -32,7 +32,7 @@ and its memory all older than the walls of [[place-valdun|Valdun]].
 
 Kélpasi is named for the cold spring at its head, and what is done at that spring is not, strictly, part of
 the [[affiliation-arldnpnthn|Aureldian calendar]]. The village honors its gods properly and keeps
-something else besides, and has never seen a contradiction in this.
+something else besides, and has never seen a contradiction in this. One night of the year is [[lore-springguest|the Spring Guest]].
 
 Priests sent up from the lowlands have generally reported the village devout and left it alone.
 [[lore-aelendnppl|Áelendan]] passing through the hills are received here in a way that suggests an

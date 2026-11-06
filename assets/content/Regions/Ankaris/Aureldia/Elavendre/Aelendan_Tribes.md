@@ -65,7 +65,7 @@ data:
 sohl: {system: {commonSkills: [aelendlng]}}
 ---
 
-The Áelendan Tribes have no central government of the [[place-alndntrblnds|Tribal Lands]]. Each tribal community governs itself through a **Council of Elders**, and coordination between tribes is handled through seasonal councils and through runners who carry word between territories. The Crown of [[affiliation-kngdmlvndr|Élavendre]] recognizes this arrangement and treats the Áelendan as sovereign in their own land—the kingdom's courts will act against Élavendri who encroach, but they will not accept cases brought against the tribes themselves.
+The Áelendan Tribes have no central government of the [[place-alndntrblnds|Tribal Lands]]. Each tribal community governs itself through a **Council of Elders**, and coordination between tribes is handled through [[lore-seasnlcncls|seasonal councils]] and through runners who carry word between territories. The Crown of [[affiliation-kngdmlvndr|Élavendre]] recognizes this arrangement and treats the Áelendan as sovereign in their own land—the kingdom's courts will act against Élavendri who encroach, but they will not accept cases brought against the tribes themselves.
 
 Sacred sites are a special category. Authority over them falls to the [[affiliation-alndnwrdns|Áelendan Wardens]], whose jurisdiction is unchallenged within the sacred territory. Where the Wardens' charge applies, no other authority holds sway—not the tribal councils, not the Crown, not outside observers. The Wardens' judgment on trespass, desecration, or disturbance of a sacred site is final.
 

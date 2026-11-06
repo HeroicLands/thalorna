@@ -59,7 +59,7 @@ The heaviest thing the council does is to put a man off the quay. A man put off 
 
 ## Current Situation {#present}
 
-The council is divided on the Kalipsa trade. The outer quay's Kalipsan captains pay well for berths, and the Quay-Councilors of the inner quay hold that every barrel entered at the tally-house in part is a barrel the council has not weighed. The Reeve of the Harbor, [Orlen Salthar]{.name data-type="being/npc"}, a stout, shrewd boat-master of fifty, holds the middle: he gives the Kalipsan ships their berths and gives the sheriff's clerk a place to stand beside them.
+The council is divided on the Kalipsa trade. The outer quay's Kalipsan captains pay well for berths, and the Quay-Councilors of the inner quay hold that every barrel entered at the tally-house in part is a barrel the council has not weighed. The Reeve of the Harbor, [[being-orlensalthar|Orlen Salthar]], a stout, shrewd boat-master of fifty, holds the middle: he gives the Kalipsan ships their berths and gives the sheriff's clerk a place to stand beside them.
 
 An [[affiliation-ordoarcanis|Order]] scholar is hiring guards from the quay at wages the council cannot match, and the Fish-Reeve has proposed that no boat's crew may sign with him in the herring season. The motion is before the council and is not carried.
 

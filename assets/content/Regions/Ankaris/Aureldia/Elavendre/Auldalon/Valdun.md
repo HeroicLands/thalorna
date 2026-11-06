@@ -26,7 +26,7 @@ market as well as the houses; the stock pens are inside it; the gates are shut a
 routine rather than alarm; and every outlying steading within a day's drive knows which road it runs
 to.
 
-The **hill levy** musters here. It is not a noble force and does not pretend to be—drovers,
+The **hill levy** musters here under the Hill-Captain of Valdun ([[affiliation-brdrmltia|the Border Militia]]). It is not a noble force and does not pretend to be—drovers,
 foresters, smiths and their sons, mounted on Áuldalon ponies, who have done this before and expect to
 do it again. Its officers are local men. Its opinion of the court's cavalry is unprintable, and its
 record against Varokh war-parties and [[lore-grukarfolk|Grukar]] bands is better.

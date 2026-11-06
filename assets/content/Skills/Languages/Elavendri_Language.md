@@ -7011,6 +7011,22 @@ data:
     - {name: The Coast Road, tongue: translation}
     - {name: Quay Council of Sarmelis, tongue: translation}
     - {name: Garrison of Durmelen, tongue: translation}
+    - {name: Morthal, tongue: elavendri}
+    - {name: The Morthal March, tongue: translation}
+    - {name: The Morthal Watch, tongue: translation}
+    - {name: Warden of Morthal, tongue: translation}
+    - {name: Tally-Serjeant, tongue: translation}
+    - {name: Post-Serjeant, tongue: translation}
+    - {name: Struck from the Watch, tongue: translation}
+    - {name: The Border Militia, tongue: translation}
+    - {name: Hill-Captain of Valdun, tongue: translation}
+    - {name: Cashiered, tongue: translation}
+    - {name: Watchman, tongue: translation}
+    - {name: Rider, tongue: translation}
+    - {name: The Burning of the North Shore, tongue: translation}
+    - {name: The Seasonal Councils, tongue: translation}
+    - {name: The Spring Guest, tongue: translation}
+    - {name: The Hands-Bare Night, tongue: translation}
     - {name: The Beacon Families, tongue: translation}
     - {name: Put Off the Quay, tongue: translation}
     - {name: Quay-Freeman, tongue: translation}
@@ -7035,6 +7051,71 @@ data:
     - {name: Moren Othral, tongue: elavendri}
     - {name: Taldor Párdalen, tongue: elavendri}
     - {name: Sólmere Kálmereth, tongue: elavendri}
+    - {name: Ílsevand Sérdalnde, tongue: elavendri}
+    - {name: Fellow Ílsevand, tongue: translation}
+    - {name: Sheriff Salten, tongue: translation}
+    - {name: Castellan Moren, tongue: translation}
+    - {name: Reeve Orlen, tongue: translation}
+    - {name: Keeper Sólmere, tongue: translation}
+    - {name: Keeper Taldor, tongue: translation}
+    - {name: Lénira Sérdalnde, tongue: elavendri}
+    - {name: Crown Guide Lénira, tongue: translation}
+    - {name: Master Néthara, tongue: translation}
+    - {name: Keeper of the Collections, tongue: translation}
+    - {name: Kurthand Láuvinnde, tongue: elavendri}
+    - {name: Master Kurthand, tongue: translation}
+    - {name: Shéimara Thólmarnde, tongue: elavendri}
+    - {name: Goldsmith Shéimara, tongue: translation}
+    - {name: Gulmand Élvannde, tongue: elavendri}
+    - {name: Grove-Elder Gulmand, tongue: translation}
+    - {name: Charter-Reeve Orlen, tongue: translation}
+    - {name: Keeper Sárena, tongue: translation}
+    - {name: Jeldor Mórlineth, tongue: elavendri}
+    - {name: Levy-Captain Jeldor, tongue: translation}
+    - {name: Grovekeeper Lánthevile, tongue: translation}
+    - {name: Admiral Tenral, tongue: translation}
+    - {name: Thoren Véldarin, tongue: elavendri}
+    - {name: Rector Thoren, tongue: translation}
+    - {name: Dorlen Kirsal, tongue: elavendri}
+    - {name: Smuggler Dorlen, tongue: translation}
+    - {name: Ostren Maldeth, tongue: elavendri}
+    - {name: Inquirer Ostren, tongue: translation}
+    - {name: Palven Orsel, tongue: elavendri}
+    - {name: Fellow Palven, tongue: translation}
+    - {name: Lisra Venthal, tongue: elavendri}
+    - {name: Clerk Lisra, tongue: translation}
+    - {name: Ivelin Nareth, tongue: elavendri}
+    - {name: Fellow Ivelin, tongue: translation}
+    - {name: Ormen Halren, tongue: elavendri}
+    - {name: Woodcutter Ormen, tongue: translation}
+    - {name: Berin Salthar, tongue: elavendri}
+    - {name: Guide Berin, tongue: translation}
+    - {name: Sedra Salthar, tongue: elavendri}
+    - {name: Goodwife Sedra, tongue: translation}
+    - {name: Evrane Tolsel, tongue: elavendri}
+    - {name: Grove-Elder Evrane, tongue: translation}
+    - {name: Garrel Pelthal, tongue: elavendri}
+    - {name: Factor Garrel, tongue: translation}
+    - {name: Orlen Veldarin, tongue: elavendri}
+    - {name: Tally-Clerk Orlen, tongue: translation}
+    - {name: Ulwen Dareth, tongue: elavendri}
+    - {name: Copyist Ulwen, tongue: translation}
+    - {name: Merodan Salthar, tongue: elavendri}
+    - {name: Proctor Merodan, tongue: translation}
+    - {name: Pelra Orsel, tongue: elavendri}
+    - {name: Fitter Pelra, tongue: translation}
+    - {name: Ilvane Thorsel, tongue: elavendri}
+    - {name: Fellow Ilvane, tongue: translation}
+    - {name: Pelra Dareth, tongue: elavendri}
+    - {name: Fellow Pelra, tongue: translation}
+    - {name: Kelvan Orsel, tongue: elavendri}
+    - {name: Fellow Kelvan, tongue: translation}
+    - {name: Hethar Pelthal, tongue: elavendri}
+    - {name: Fellow Hethar, tongue: translation}
+    - {name: Taldor Lidren, tongue: elavendri}
+    - {name: Surveyor Taldor, tongue: translation}
+    - {name: Ermin Tarvenel, tongue: elavendri}
+    - {name: Captain Ermin, tongue: translation}
   retired:
     - {form: Tirwen, instead: Éllive, why: a name borrowed from an Earth tongue}
     - {form: Glanmor, instead: Lirve, why: a name borrowed from an Earth tongue}

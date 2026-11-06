@@ -35,7 +35,7 @@ A gap in the reeds beside the village is where the old drove track leaves the ro
 
 ## Who Leads It {#who-leads}
 
-Hendrel is led by the head of its oldest line, [Taldor Párdalen]{.name data-type="being/npc"}, who keeps the beacon-house and sits on the council of the [[affiliation-beaconfamlys|Beacon Families]]. The village judges its own quarrels in the beacon-house, and the grove-elder who tries cases in the villages of this coast comes down twice a year. The crown's sheriff collects what Hendrel owes through a clerk who comes in the autumn and does not stay the night.
+Hendrel is led by the head of its oldest line, [[being-taldorpardal|Taldor Párdalen]], who keeps the beacon-house and sits on the council of the [[affiliation-beaconfamlys|Beacon Families]]. The village judges its own quarrels in the beacon-house, and the grove-elder who tries cases in the villages of this coast comes down twice a year. The crown's sheriff collects what Hendrel owes through a clerk who comes in the autumn and does not stay the night.
 
 ## The Failing or the Quarrel {#present}
 
