@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Alvaren Graveth is a 35-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
+Alvaren Graveth is a 35-year-old man who stands 6'2" tall and is broad and heavily built. He has a diamond face with high cheekbones, a prominent forehead and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. His tawny skin is browned further by the glare off the salt pans, and his hands are cracked white with brine. His dark brown hair is cropped short, and he favors his left knee, which carries an old scar.
 
 # Dossier {#dossier}
 
@@ -432,5 +432,5 @@ Few; he is generally well respected, though he has competitors in the trade.
 ## Plot Hooks
 
 1. **The harbor's salt.** A merchant house gathering the harbor trade of [[place-nebralis|Nebralis]] into its hands offers to buy Alvaren's whole output for its own ships, which would leave the fishing families who salt their catch to buy his salt from the merchants.
-2. **The lean year.** A run of poor catches has begun, and the assembly will decide what is shared. Alvaren has salt stored and the cooperative's families have no coin; Dorándaro Orthemandis asks a party to carry his request for the salt on credit, and the merchants' agents ask the same party to carry an offer for the whole store.
+2. **The cooperative's salt.** [[being-dorandaroort|Dorándaro Orthemandis]] wants Alvaren's stored salt on credit for the fishing cooperative's autumn curing, and the factors of [[being-gulmalenothel|Gulmaleno Thelvaris]] have offered coin for the whole store in the same week. Each side asks a party to carry its offer, and to bring back what the other offered.
 3. **The adulterated salt.** A competing salter undercuts Alvaren's prices with salt he suspects is adulterated, and the harbor houses are buying it. He wants a party to prove it before the autumn curing.

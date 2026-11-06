@@ -7,7 +7,7 @@ tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [entertainer, guildsperson]
+  archetypes: [entertainer]
   occupation: Thespian
   lore: []
   culture: tarvenanclt
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Dometh Ornethran is a 35-year-old man who stands 5'9" tall and is of moderate build. He has a square face with sharp cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His piercing amber eyes sit beneath straight brows, lending him a penetrating gaze. An aquiline nose and expressive lips complete his features. He has tanned skin with a weathered complexion. His brown hair is shorn at the sides with length on top.
+Dometh Ornethran is a 35-year-old man who stands 5'9" tall and is of medium build. He has a square face with sharp cheekbones, a wide forehead and a sharp jaw that leads to a firm chin. His amber eyes sit beneath straight brows and hold whoever he is speaking to as if the whole hall were watching. He has an aquiline nose and expressive lips, and his tanned skin is lined by years on the road between engagements. His brown hair is shorn at the sides with length on top, and his voice is deep enough to fill a square.
 
 # Dossier {#dossier}
 
-Born in [[place-durgalis|Dúrgalis]] to a guilded family of [[lore-tarvenanclt|Tarvenan]] heritage, Dometh Ornethran is a thespian.
+Dometh Ornethran is a player of [[place-durgalis|Dúrgalis]], a castle town of [[place-tarvenirgn|Tarvénia]], a [[lore-tarvenanclt|Tarvenan]] of a family of tradesmen who plays tragedy at the feasts of the coast's merchant houses and comes home every autumn to play at the valley's fair.
 
-Dometh is a seasoned actor known for his dramatic performances on the stages of the coast. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. While he enjoys fame and the company of admirers, he secretly struggles with self-doubt, fearing that he will one day be forgotten.
+Dometh is a seasoned actor known for his dramatic performances in the feast-halls of [[place-valthari|Valthari]] and the harbor towns. He excels at tragic roles, captivating audiences with his deep voice and expressive mannerisms. While he enjoys fame and the company of admirers, he secretly struggles with self-doubt, fearing that he will one day be forgotten.
 
 ## Psyche
 
@@ -416,13 +416,13 @@ Skilled actor, talented at captivating an audience, strong stage presence.
 
 ## Social
 
-Dometh is affiliated with the [City Theater Company]{.name data-type="affiliation/venture"}.
+Dometh belongs to no company. He hires himself, and two or three players when a piece needs them, to whatever house will pay for a night's tragedy, and he is a Freeman of the valley, with a voice in its assembly.
 
 ## Companions
 
 ### Patrons
 
-Dometh's primary patrons are wealthy patrons who fund his theater.
+Dometh's patrons are the merchant houses of Valthari, who pay for a night's tragedy at their feasts, and the [[affiliation-cncldrgls|Council of Dúrgalis]], which pays him in barley and a place by the well to play at the autumn fair.
 
 ### Enemies
 
@@ -432,4 +432,4 @@ Rival actors who resent his success.
 
 1. **The adept in the square.** The [[affiliation-cncldrgls|Council of Dúrgalis]] wants [[lore-adepthail|the Adept and the Hail]] played in the square at the autumn fair, and Dometh, home from the coast's stages, is asked to play the adept before a valley that counts its liars the same afternoon.
 2. **The day after.** Hail has come out of a clear sky onto a single field, and its owner swore in the square the day before. The assembly asks Dometh to play the scene before the owner, to see whether he flinches.
-3. **The Valaron note.** A Valthari house holds the note on the Valaron ship, and Dometh, who knows the coast's playhouses, is asked to carry a letter to a patron there.
+3. **The Valaron note.** A Valthari house holds the note on the Valaron ship, and Dometh, who knows the coast's feast-halls, is asked to carry a letter to a patron there.

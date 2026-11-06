@@ -390,11 +390,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Tórsaro Thalidran is a 28-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a prominent chin. His almond-shaped black eyes sit beneath prominent brows, lending him a measured gaze. A strong nose and thin lips complete his features. He has medium-toned skin with a smooth complexion. His black hair is kept practical and short.
+Tórsaro Thalidran is a 28-year-old man who stands 6'0" tall and is of medium build. He has an angular face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a prominent chin. His almond-shaped black eyes sit beneath prominent brows and give him a measured gaze. He has a strong nose and thin lips. His skin is smooth and unmarked for a fighting man, and his black hair is kept short.
 
 # Dossier {#dossier}
 
-Born in [[place-durgalis|Dúrgalis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tórsaro Thalidran is a yeoman infantry.
+Tórsaro Thalidran is a yeoman of [[place-durgalis|Dúrgalis]], a castle town of [[place-tarvenirgn|Tarvénia]], a [[lore-tarvenanclt|Tarvenan]] freeman of the barley farms who fights on foot in the valley's militia.
 
 Tórsaro grew up on a farm, but his strength and eagerness to serve led him to the life of a yeoman infantryman. He is known for his agility and ability to adapt quickly in battle. While he lacks the years of experience of some of his comrades, his enthusiasm and quick learning have earned him respect among his peers.
 
@@ -414,13 +414,13 @@ Agile, quick learner, strong in close combat.
 
 ## Social
 
-Tórsaro is affiliated with Local Militia.
+Tórsaro stands in the militia of the Dúrgalis valley, which turns out against the bandits who raid the farms below the pass, and he is a Freeman of the valley, with a voice in its assembly.
 
 ## Companions
 
 ### Patrons
 
-Tórsaro's primary patron is a local militia leader who saw potential in him.
+Tórsaro's patron is the militia leader of the valley, who saw promise in him and took him in.
 
 ### Enemies
 

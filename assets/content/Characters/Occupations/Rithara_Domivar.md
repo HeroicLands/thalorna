@@ -15,7 +15,7 @@ data:
   affiliations: {cnclthrgl: {rank: 2}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
-  born: 702.37
+  born: 697.37
   height: 5' 8"
   weight: 146 lbs
   frame: medium
@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ríthara Dómivar is an 17-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with defined cheekbones, a narrow forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath thick brows and give her an expressive gaze. She has a prominent nose and narrow lips. She has medium-toned skin with a weathered complexion. Her black hair is pulled back tightly from her face.
+Ríthara Dómivar is a 22-year-old woman who stands 5'8" tall and is of medium build. She has a long face with defined cheekbones, a narrow forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath thick brows and give her an expressive gaze. She has a prominent nose and narrow lips. Her skin is weathered by five years of sea wind, and her black hair is pulled back tightly from her face.
 
 # Dossier {#dossier}
 

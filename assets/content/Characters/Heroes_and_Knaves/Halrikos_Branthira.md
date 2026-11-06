@@ -3,6 +3,7 @@ shortcode: hlrksbrnthr
 name: {full: Hálrikos Bránthira, given: Hálrikos, clan: Bránthira}
 type: being
 subType: character
+description: "The senior clerk of Valthari's Charter Hall, who keeps its rolls and precedents and whose memory the Arbitrators' bench cannot do without."
 tags: [heroes-and-knaves, guilded, administration]
 data:
   icon: icon-person
@@ -421,108 +422,98 @@ sohl:
 
 ![[hlrksbrnthr|Hálrikos Bránthira]]{float=top-left}
 
-Hálrikos stands 5'4" tall with a medium build. He has pale sallow skin, graying black hair, and hazel eyes. His features include an oval face, a strong nose, a pointed chin, a wide mouth, thick dark brows.
+Hálrikos Bránthira is a 52-year-old man who stands 5'4" tall and is of medium build, though years at a desk have left him soft and stooped. He has an oval face with a strong nose, a pointed chin, a wide mouth and thick dark brows. His hazel eyes rarely leave the page in front of him. His skin is pale and sallow from a life indoors, and his black hair is graying.
 
 # Dossier {#dossier}
 
-Hálrikos was born into a merchant family of modest means in the free port of [[place-valthari|Valthari]], though his parents harbored ambitions beyond trade. Recognizing their son's preternatural gift for understanding written regulations and legal structure, they apprenticed him to the [Guild of Scribes]{.name data-type="affiliation/guild"} at age twelve. By his eighteenth year, Hálrikos had become the fastest, most accurate copyist in the city, capable of rendering even the most complex legal documents with flawless precision. He rose through the ranks of the city's bureaucratic apparatus, becoming a record-keeper, then a clerk of minor courts, and eventually ascending to his current position as Senior Archivist and Advisory Clerk to the [City Council]{.name data-type="affiliation/governmental"}.
+Hálrikos was born into a merchant family of modest means in the free port of [[place-valthari|Valthari]], though his parents had ambitions beyond trade. Seeing their son's uncommon gift for written rules and legal forms, they apprenticed him at twelve to a notary of the arcade of [[place-charterhall|the Charter Hall]], where the advocates and clerks wait for business. By eighteen he was the fastest and most accurate copyist in the city, able to render the most complicated instrument without an error. He rose through the hall's clerkships, keeping rolls for the city court, then for the Arbitrators' bench, and he is now the senior clerk of the hall, keeper of its rolls and its precedents under the [[affiliation-frctyvlthr|Free City of Valthari]]'s Chancellor and adviser to the Arbitrators.
 
-For thirty-five years, Hálrikos has been the institutional memory of Valthari, the man who knows every law, every precedent, every regulation, and every hidden clause that governs the city's operations. He has served under six different city magistrates, each one depending on his institutional knowledge to keep the wheels of governance turning. His marriage to a practical woman named [Thessa]{.name data-type="being/npc"} has produced two children, both of whom have become bureaucrats themselves—a source of quiet pride for Hálrikos. His wife died seven years ago, and he has since devoted even more time to his work, finding in the orderly world of documents and regulations a comfort that human relationships cannot provide.
+For thirty-five years Hálrikos has been the memory of the Charter Hall: the man who knows every law, every precedent and every clause of the commercial custom by which the houses of Valthari settle their quarrels. Six Firsts of the Council have come and gone in his time, each one relying on him to find the ruling the city had already made. His marriage to a practical woman named [Tsala]{.name data-type="being/npc"} gave him two children, both now clerks themselves, a source of quiet pride to him. His wife died seven years ago, and he has given still more of himself to the work since, finding in the order of the rolls a comfort that people never gave him.
 
-Currently, Hálrikos maintains his position as one of the most indispensable figures in Tarvénia's government, though his power is wielded entirely through influence and information rather than formal authority. He lives in a modest apartment above a city administrative office, surrounded by filing cabinets and books of law, and spends nearly every waking hour either reading, cataloging, or advising city officials on procedural matters.
+He holds no seat and no office of the city, and he is one of the most indispensable men in it. His power is influence and information, never authority. He lives in two rooms above a scrivener's shop behind the hall, among chests of copied rolls and books of the custom, and spends nearly every waking hour reading, ordering the rolls, or advising the bench on points of procedure.
+
+This season the bench needs him more than it ever has. The seamen of Valthari refuse to sign on until the ship-owning houses raise the crew's share, the houses whose cargoes have not sailed are suing one another for late delivery, and the Arbitrators must decide whether a seamen's refusal excuses a house that could not sail. Every house in the city wants the precedent that saves it found in the hall's rolls, and Hálrikos is the man who knows whether it is there.
 
 ## Psyche
 
 ### Personality
 
-Hálrikos speaks in measured tones, precisely articulating each word as though every sentence were being entered into an official record. He is neither friendly nor hostile, but exists in a permanent state of formal courtesy—pleasant, but emotionally distant. He views emotional displays as unseemly indulgences and tends to interpret passionate advocacy as a lack of rational argument. He is deeply cynical about human nature, having spent his career witnessing how people bend, twist, and reinterpret rules to suit their interests. He has no patience for idealism and views [The Reformist Coalition]{.name data-type="affiliation"} that has arisen in recent years as composed of naive fools who do not understand the delicate equilibrium that existing regulations maintain.
+Hálrikos speaks in measured tones, articulating each word as though every sentence were being entered into the roll. He is neither friendly nor hostile but lives in a permanent state of formal courtesy, pleasant and distant. He considers displays of feeling unseemly and takes passionate advocacy as a sign that the advocate has no argument. He is deeply cynical about human nature, having spent his career watching people bend and reread the rules to suit themselves, and he has no patience for idealism. The younger advocates and lesser houses who say the custom should be written plainly and the hall's rolls opened are, to him, fools who do not understand the balance the old rules keep.
 
-His humor, when it emerges, is dry and acerbic—a quick observation about the absurdity of human behavior followed by immediate return to serious matters. He respects precision, consistency, and adherence to form, and he views those who violate these principles as fundamentally untrustworthy, regardless of their intentions. He is not unkind, merely indifferent to the emotional lives of others, and he has long since made peace with being viewed as cold and inhuman.
+His humor, when it shows, is dry and acerbic: a quick remark on the absurdity of some litigant, then straight back to the matter. He respects precision, consistency and form, and he distrusts anyone who breaks them, whatever their intentions. He is not unkind, merely indifferent to other people's feelings, and he long ago made peace with being thought cold.
 
 ### Motivation
 
-Hálrikos is motivated by a deep, almost religious belief that proper procedure, correctly applied, is the only thing that prevents civilization from descending into chaos. He views his work as a sacred duty to maintain the structural integrity of society, and he fears that abandoning the carefully balanced regulations that have evolved over centuries would lead to precisely the sort of corruption and disorder that he has spent his life preventing. His secondary motivation is the maintenance of his own position and influence—he derives satisfaction from being indispensable, from being the person that city leaders must consult before making important decisions. He fears obsolescence more than death, and he views the Reformist push to modernize and streamline regulations as a personal threat to his relevance.
+Hálrikos believes, almost religiously, that proper procedure correctly applied is all that keeps a city of quarreling houses from chaos. He treats his work as a sacred duty to keep the custom whole, and he fears that loosening the balance of rules built up over generations would bring exactly the corruption and disorder he has spent his life preventing. His second motive is his own place. He likes being indispensable, the man the bench must consult before it rules, and he fears obsolescence more than death.
 
 ### Strengths
 
-Encyclopedic Legal Knowledge
-: Hálrikos has internalized every regulation, statute, precedent, and procedural rule governing Tarvénia, making him capable of citing law and procedure in nearly any situation and of identifying how existing rules apply to novel situations.
+Knowledge of the Custom
+: He has every rule, ruling and form of the commercial custom by heart, can cite it in nearly any case, and sees at once how an old ruling bears on a new quarrel.
 
-Institutional Architecture
-: He possesses an almost supernatural ability to organize complex systems of information, to identify gaps in regulation, and to design procedural solutions that address problems without requiring entirely new laws.
+Order
+: He can arrange a mass of records so that anything in them can be found, see the gaps in the rules, and propose a procedure that closes one without a new law.
 
 Procedural Precision
-: His mastery of proper forms, official procedures, and bureaucratic ritual means that he can navigate almost any government situation, and his documents are legally airtight in ways that protect his allies and confound his enemies.
+: He knows every form and step of the hall, and the instruments he drafts are proof against challenge in ways that protect his allies and confound their opponents.
 
 Reliability
-: In a world of shifting loyalties and political convenience, Hálrikos is absolutely reliable—his word is his bond, and he follows through on every commitment because deviation from commitment is contrary to his nature.
+: In a city of shifting loyalties he is absolutely reliable. He does what he has said he will do, because anything else is contrary to his nature.
 
-Writing Mastery
-: His skill in Script is strong, allowing him to draft complex legal documents, carefully worded advisories, and devastating administrative critiques that are both beautiful and lethal in their precision.
+The Pen
+: His hand is fine and his drafting exact, and his written advice to the bench is as precise, and as cutting, as anything written in the city.
 
 ### Weaknesses
 
 Emotional Isolation
-: Hálrikos's inability to connect emotionally with others has left him friendless and deeply lonely, a fact he refuses to acknowledge and therefore never addresses.
+: He has no friends and is deeply lonely, a fact he refuses to acknowledge and so never addresses.
 
 Inflexibility
-: His devotion to procedure and precedent means that he struggles to recognize when situations require adaptation or when rules have outlived their usefulness; he clings to the old way because it is the old way.
+: He cannot see when a case needs a new answer or when a rule has outlived its use, and he clings to the old way because it is the old way.
 
-Vulnerability to Ambiguity
-: In situations where regulations are unclear or conflicting, Hálrikos becomes indecisive, often freezing rather than making the kind of pragmatic judgment that other people make naturally.
+Paralysis Before Ambiguity
+: Where the rules are unclear or contradict each other, he freezes rather than make the practical judgment other people make without thinking.
 
 Physical Weakness
-: Years of sedentary work have left him weak and unhealthy; he has modest endurance and minimal ability to defend himself physically, making him dependent on others for protection.
+: Years at a desk have left him weak and unhealthy, unable to defend himself and dependent on others for protection.
 
 Contempt for Intuition
-: Hálrikos dismisses decisions made on intuition, instinct, or emotional grounds, viewing them as irrational; this causes him to underestimate the practical wisdom of those who make good decisions through non-rational means.
+: He dismisses any decision made on instinct or feeling, and so underestimates people who judge well without knowing why.
 
 ## Social
 
 ### Patrons
 
 Magistrate [[being-iltherahilth|Ilthera]]
-: The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
+: [[being-iltherahilth|Ilthera Hiltheris]], the Arbitrator who presides on the bench when its members differ, relies heavily on his counsel and has protected him from several attempts to diminish his standing, knowing her bench would founder without him.
 
-City Judge [Thelessa]{.name data-type="being/npc"}
-: The head of the city's courts views Hálrikos as a useful ally in maintaining the city's legal integrity and often calls upon him to resolve disputed points of law.
+The Chancellor of Valthari
+: The councilor who keeps the city's charter in the hall's locked charter room and leaves the hall's rolls in Hálrikos's charge.
 
-Master Merchant [Vaelot]{.name data-type="being/npc"}
-: A wealthy trader who has benefited from Hálrikos's careful interpretation of mercantile regulations and who pays him a regular consulting fee for ongoing advice.
-
-The Guild of Scribes
-: His original guild regards him as one of their greatest achievements and maintains him as an honored senior member, consulting him on matters of the guild's standards.
+A merchant house of the city
+: An old house that has profited from his careful readings of the custom and pays him a regular fee for his advice, which he declares to the bench.
 
 ### Enemies
 
-The Reformist Coalition
-: This loose alliance of younger officials, progressive merchants, and idealistic citizens views Hálrikos as the primary obstacle to necessary modernization and has made his removal from influence a central goal.
+The open-roll advocates
+: Younger advocates of the arcade and the lesser houses they serve, who want the custom written plainly and the hall's rolls open to any litigant. They call Hálrikos the obstacle to it and want him gone from the bench's ear.
 
-Inspector [Kelix]{.name data-type="being/npc"}
-: A younger city official who was denied promotion in part due to Hálrikos's testimony that she lacked proper understanding of procedural law; she blames him bitterly and works to discredit him.
+[Ozka Ularris]{.name data-type="being/npc"}
+: A younger clerk of the hall passed over for promotion partly on his word that she did not understand the procedure of the court. She blames him bitterly and works to discredit him.
 
 Lady Merchant [[being-durrekaikent|Dúrreka]]
-: An ambitious trader who views Hálrikos's strict interpretation of contract law as an impediment to her commercial ambitions and has attempted to have him removed from his position.
+: [[being-durrekaikent|Dúrreka Ikentsis]], an ambitious trader who finds his strict reading of contract law an obstacle to her ambitions and has tried to have him removed from the hall.
 
-[The Shadow Syndicate]{.name data-type="affiliation/criminal"}
-: This organized crime network views Hálrikos's institutional knowledge as a threat to their operations and has made vague but unmistakable threats against him.
+The smugglers of the port
+: The men who run cargoes past the Harbormaster's dues fear what the hall's rolls hold about their partners, and they have made vague but unmistakable threats against him.
 
 ### Affiliations
 
-The City Bureaucracy
-: Hálrikos is part of Valthari's government and is an advisor to nearly every city office.
-
-The Guild of Scribes
-: He maintains his membership and attends quarterly meetings, though he relates to fewer and fewer of the younger members.
-
-[The Archives of Tarvénia]{.name data-type="affiliation"}
-: He has effectively become the guardian of the city's historical records and legal documents.
-
-[The Order of Brazemas]{.name data-type="affiliation"}
-: Hálrikos is a pious if unemotional follower of the [[affiliation-brazemas|Faith of Brazemas]], devoted to [[lore-brazemasdty|Brazemas]], god of storms and order, attending temple services regularly.
+- **[[affiliation-frctyvlthr|Free City of Valthari]]**: Hálrikos is a Master of a Trade, enrolled among the city's notaries, and the senior clerk of the Charter Hall.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: He is a pious if unemotional follower of [[lore-brazemasdty|Brazemas]], the god of storms and order, and keeps the feasts at the temple.
 
 ## Plot Hooks
 
 1. **The clause and the arbitrator.** Two regulations of the city appear to contradict each other in a case before [[being-iltherahilth|Ilthera Hiltheris]]. Hálrikos asks a party to carry the papers to the Warden of the Weights and bring back his reading in writing.
-2. **The coalition.** The Reformist Coalition has begun a campaign to show that Hálrikos's strictness enables corruption. He asks a party to learn who among the houses funds it.
+2. **The first ruling.** A house sued for a cargo that did not sail wants a precedent from the hall's rolls that a seamen's refusal excuses delivery. Hálrikos knows of one that cuts the other way, and the house has asked a party to make sure he cannot find it before its case is called.
 3. **The altered archive.** Someone has altered several records in the Charter Hall's archive, not enough to be obviously false, but enough to change a ruling. Hálrikos asks a party to find who had the key.

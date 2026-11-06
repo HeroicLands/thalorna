@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Lizéth Bránthira is a 40-year-old man who stands 6'4" tall and is broad and solidly built. He has a square face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His wide-set green eyes sit beneath heavy brows, lending him an open gaze. A strong nose and thin lips complete his features. He has olive skin with a weathered complexion. His black hair is short and swept back.
+Lizéth Bránthira is a 40-year-old man who stands 6'4" tall and is broad and heavily built. He has a square face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His wide-set green eyes sit beneath heavy brows and give him an open gaze. He has a strong nose and thin lips. His olive skin is weathered by work in the open, and his black hair is short and swept back.
 
 # Dossier {#dossier}
 
@@ -418,7 +418,7 @@ Physically strong, experienced in various labor roles, good leadership skills.
 
 ## Social
 
-Lizéth is affiliated with the local [Laborers' Union]{.name data-type="affiliation"}.
+Lizéth belongs to no guild or company. He hires his gang out by the job and lives in Nebralis as a Resident under its council.
 
 ## Companions
 

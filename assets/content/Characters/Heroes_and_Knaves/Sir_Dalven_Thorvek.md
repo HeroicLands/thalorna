@@ -1,12 +1,9 @@
 ---
 shortcode: srdlvnthrvkknghtwstrnmrchs
-name:
-  full: "Sir Dalven Thorvek, Knight of the Western Marches"
-  given: Dalven
-  clan: Thorvek
-  en: [Knight of the Western Marches]
+name: {full: Sir Dalven Thorvek, given: Dalven, clan: Thorvek, en: [Knight of the Western Marches]}
 type: being
 subType: character
+description: "A knight of the Western March, known through its valleys as the Knight of the Western Marches, who comes up to Kemthoza each spring and rides as Father Ostaran Dorvás's protector."
 tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
@@ -425,15 +422,17 @@ sohl:
 
 # Appearance {#appearance}
 
-![[srdlvnthrvkknghtwstrnmrchs|Sir Dalven Thorvek, Knight of the Western Marches]]{float=top-left}
+![[srdlvnthrvkknghtwstrnmrchs|Sir Dalven Thorvek]]{float=top-left}
 
-Sir Dalven stands at 6'1", with a broad, muscular build, the result of years of rigorous knightly training. His olive-toned skin speaks of his noble heritage, while the faint scars that line his face and arms tell the story of a life dedicated to battle and honor. His dark hair is shoulder-length and slightly graying at the temples, often tied back or tucked under his helm during combat. Sir Dalven’s sharp, deep-set brown eyes reveal a calm but intense demeanor, and his chiseled jaw is typically clean-shaven, in accordance with the disciplined standards of his knightly order. He wears well-maintained plate armor, polished but not excessively ornate, marked with the sigil of his knightly order—a silver falcon, symbolizing vigilance and nobility. His favored weapon is a longsword, which he wields with precision and strength, and a round kite shield bearing his family crest.
+Sir Dalven Thorvek is a 43-year-old man who stands 6'1" tall and is broad and heavily muscled from years of knightly training. Faint scars line his face and forearms. His dark hair is shoulder-length and graying at the temples, tied back or tucked under his helm in the field, and his deep-set dark brown eyes are calm and intent. His jaw is clean-shaven and his olive skin is browned by the mountain sun. He wears well-kept plate, polished but not ornate, marked with his house's sigil, a silver falcon for vigilance, and he carries a longsword and a kite shield bearing the same crest.
 
 # Dossier {#dossier}
 
-Born into a noble family in the [[place-westernmrch|Western Marches]], Sir Dalven was groomed for knighthood from a young age. The youngest son of a prominent house, he was instilled with a strong sense of duty and loyalty to his family and his kingdom. As a squire, he served under a famous knight, learning the ways of chivalry, combat, and leadership. His early years were marked by long campaigns defending the borders of his homeland from invaders, and it was here that he earned his reputation as a skilled warrior and a leader of men.
+Born into a noble house of the [[place-westernmrch|Western March]], Sir Dalven was groomed for knighthood from a young age. The youngest son of a prominent house, he was taught a strong sense of duty to his family and his people. As a squire he served under a famous knight of the March and learned the ways of chivalry, combat and command. His early years were the long summers of [[lore-summerwar|the Summer War]], when the March's hosts went down the passes into [[place-talothe|the Talote]] and the border families of the far side came back over to raid, and it was there that he earned his name as a fighter and a leader of men.
 
-Over the years, Sir Dalven has fought in numerous battles, defending his kingdom and upholding the chivalric code. Though his elder brothers inherited the family’s lands and titles, Sir Dalven forged his own path through his deeds on the battlefield and his unshakeable loyalty to the knightly order. He is now known throughout the Western Marches as a knight of honor and integrity, a man whose sword is at the service of his people and his king.
+His elder brothers took the house's land and titles, and Sir Dalven made his own way by his deeds in the field and his unshakeable loyalty to his word. The valleys know him as the Knight of the Western Marches, a man of honor and integrity whose sword is at the service of his people and of the High King. Between seasons he rides with his friend [[being-frstrndrvs|Father Ostaran Dorvás]] on the priest's inquiries, as his protector.
+
+Each spring he comes up to [[place-kemthoza|Kemthoza]], the fort at the head of [Grumagando]{.name data-type="place/feature"}, the war pass, where the March's hosts gather before they go down. This spring the fort is watching the snow go off the saddle, two barons want the first crossing, and the dead of the first raid still lie unreceived on the road below the pass, where every host that goes down from Kemthoza passes them.
 
 ## Background
 
@@ -476,22 +475,19 @@ Eloquence
 : His words carry the weight of authority, though he’s more action-driven than talkative.
 
 Morality
-: Sir Dalven follows the strict chivalric code of his knightly order, consistently upholding the mores of his culture, even when faced with personal loss or hardship.
+: Sir Dalven keeps the chivalric code of the March, consistently upholding the mores of his culture, even when faced with personal loss or hardship.
 
 Voice
 : Sir Dalven has a firm, commanding voice that is suitable for giving orders or leading in prayer. His singing voice is solid but unremarkable, more focused on strength than melody.
 
 Skilled Combatant
-: Sir Dalven is a master of the longsword and skilled in other knightly weapons such as lances and maces. His years on the battlefield have made him a dangerous opponent, both in single combat and leading troops in battle.
+: Sir Dalven is a master of the longsword and skilled in other knightly weapons such as lances and maces. His years in the field have made him a dangerous opponent, both in single combat and leading troops in battle.
 
 Tactical Leader
-: His experience as a knight has given him a sharp tactical mind. He is skilled at leading men into battle, reading the battlefield, and adjusting his plans to win the day.
+: His experience as a knight has given him a sharp tactical mind. He is skilled at leading men into battle, reading the ground, and adjusting his plans to win the day.
 
 Chivalric Code
-: Sir Dalven’s strong adherence to the chivalric code grants him a moral clarity that guides his decisions. His reputation as a just and honorable knight often earns him the respect and trust of others.
-
-Endurance
-: His training has given him great stamina, allowing him to endure long campaigns and grueling battles without faltering.
+: His strong adherence to the code grants him a moral clarity that guides his decisions. His reputation as a just and honorable knight often earns him the respect and trust of others.
 
 Shield Bearer
 : His mastery of the shield allows him to defend himself and others, using it for protection and as a weapon in its own turn.
@@ -500,15 +496,15 @@ Shield Bearer
 
 ### Personality
 
-Sir Dalven is stoic and reserved, his personality shaped by a lifetime of discipline and sacrifice. He is calm under pressure, maintaining a clear head in the chaos of battle, and is deeply introspective, often contemplating the moral weight of his actions. He is a man of few words, preferring to let his actions speak for him, but when he does speak, his words are measured and carry great weight. Honor and duty are the pillars of his life, and he holds himself to the highest standards, even when it means making difficult decisions or personal sacrifices.
+Sir Dalven is stoic and reserved, his personality shaped by a lifetime of discipline and sacrifice. He is calm under pressure, keeping a clear head in the chaos of battle, and he is deeply introspective, often weighing the moral cost of what he does. He is a man of few words who prefers to let his actions speak for him, and when he does speak, his words are measured and carry weight. Honor and duty are the pillars of his life, and he holds himself to the highest standard even when it means hard decisions or personal sacrifice.
 
-Though outwardly stern, Sir Dalven is deeply compassionate, particularly toward those who cannot defend themselves. He feels a strong sense of responsibility to protect the weak, and this sense of justice fuels his every decision. However, he can be somewhat rigid in his adherence to the chivalric code, and his unwillingness to compromise on his principles can sometimes make him seem distant or inflexible to those who don't understand his deep sense of honor.
+Though outwardly stern, Sir Dalven is deeply compassionate, particularly toward those who cannot defend themselves. He feels the protection of the weak as a duty, and that sense of justice drives his decisions. He can be rigid in keeping the code, and his refusal to compromise on principle makes him seem distant or inflexible to those who do not share it.
 
 ### Motivation
 
-Sir Dalven is driven by his commitment to the ideals of knighthood—honor, loyalty, and the protection of the weak. He views his role as a knight as a calling and a sacred duty, one that he must uphold at all costs. His primary goal is to safeguard the Western Marches from external threats and to maintain peace and justice in the land. However, he is also motivated by a desire to live up to the legacy of his ancestors and the knightly order to which he belongs.
+Sir Dalven is driven by the ideals of knighthood: honor, loyalty and the protection of the weak. He holds his knighthood to be a calling and a sacred duty. His first aim is to keep the March's valleys safe from the raiders of the far side and to hold the old customs of the season, by which the first host over sets the terms and the dead are brought home. He also wants to live up to the name his ancestors left him.
 
-Though he has achieved much in his life, Sir Dalven feels that his work is far from over. He seeks to leave behind a legacy that will inspire future generations of knights, and he is always on the lookout for opportunities to prove his worth, whether by defending the innocent or confronting the forces that threaten the stability of the realm. His greatest ambition is to be remembered as a knight who upheld the highest virtues of his order, even in the face of overwhelming odds.
+He feels his work is far from done. He means to leave behind a name that will teach the March's young knights how to bear arms, and he does not believe the Summer War is a thing a man can be proud of while its first dead lie unreceived on the road below the pass.
 
 ### Strengths
 
@@ -516,6 +512,21 @@ Though he has achieved much in his life, Sir Dalven feels that his work is far f
 - **Leadership**
 
 ## Social
+
+### Companions
+
+[[being-frstrndrvs|Father Ostaran Dorvás]]
+: The priest of Árdavon at Thórgila, his close friend, whom he has ridden beside as protector on many dangerous errands and whose inquiry into Lord Nizel Ganotis he has set his sword behind.
+
+### Enemies
+
+The raiders of the far side
+: The border families of the Talote, who counter-raid the March's pastures for stock and ransom, and who know his falcon from the far side of the pass.
+
+### Affiliations
+
+- **[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]**: Sir Dalven is a Knight, holding land by mounted service and riding to the ban when it is called.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: He keeps the storm god's feasts, as the mountain folk do, and prays to Brazemas before every crossing.
 
 ## Plot Hooks
 

@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thésira Delvanor is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has medium-toned skin with a bronzed complexion. Her dark brown hair is braided and coiled at the nape. She has narrow lips and a nose crooked from an old break.
+Thésira Delvanor is a 24-year-old woman who stands 5'10" tall and is of medium build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. Her skin is browned by days on guard in the open, her dark brown hair is braided and coiled at the nape, and she has narrow lips and a nose crooked from an old break.
 
 # Dossier {#dossier}
 
@@ -417,7 +417,7 @@ She is an excellent fighter, a strong leader, and quick to feel for others.
 
 ## Social
 
-Thésira belongs to the local [Mercenaries' Guild]{.name data-type="affiliation/guild"}.
+Thésira is on the sellswords' roll of Herthema, which the Keeper of the Roll keeps for the [[affiliation-cnclhrthm|Council of Herthema]] and which lets a sellsword take hire in the town lawfully. She belongs to no company yet.
 
 ## Companions
 

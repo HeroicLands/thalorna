@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Tharla Durgana is a 26-year-old woman who stands 5'8" tall and is slender. She has an angular face with angular cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. She has olive, battle-scarred skin. Her gray hair is braided and coiled at the nape.
+Tharla Durgana is a 26-year-old woman who stands 5'8" tall and is slender. She has an angular face with angular cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. Her olive skin is scarred at the wrists and across one cheek, and her hair, gray before its time, is braided and coiled at the nape. She keeps her eyes down in company.
 
 # Dossier {#dossier}
 
-Born in [[place-herthema|Herthema]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Tharla Durgana is a domestic servant.
+Tharla Durgana is a domestic servant of [[place-herthema|Herthema]], a [[lore-tarvenanclt|Tarvenan]] born free in a village of the hills, who is held unfree in the house of a merchant family of the town.
 
-Tharla was captured during a raid on her village and sold into slavery in [[place-herthema|Herthema]], where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
+Tharla was captured during a raid on her village and sold into slavery in Herthema, where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
 
 ## Psyche
 

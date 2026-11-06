@@ -388,13 +388,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Ánira Órseneth is a 25-year-old woman who stands 5'9" tall and is slender. She has an angular face with defined cheekbones, a high forehead, and a square jaw that leads to a firm chin. Her large black eyes sit beneath heavy brows, lending her an expressive gaze. A straight nose and narrow lips complete her features. She has tanned skin with a sun-tanned complexion. Her gray hair is pulled back tightly from her face.
+Ánira Órseneth is a 25-year-old woman who stands 5'9" tall and is of light build. She has an angular face with defined cheekbones, a high forehead and a square jaw that leads to a firm chin. Her large dark brown eyes sit beneath heavy brows and give her an expressive gaze. She has a straight nose and narrow lips, and her skin is tanned from singing at summer fairs in the open. Her hair went gray early, and she wears it pulled back tightly from her face. A tattoo of a tree covers her back.
 
 # Dossier {#dossier}
 
 Born in [[place-thorgila|Thórgila]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Ánira Órseneth is a musician (lute).
 
-Ánira grew up on the streets and found solace in music. She learned to play the lute from a traveling bard, and now performs in the inns and at the fairs of the Thórgila valleys. Her music is known for its warmth and beauty, and she has a talent for improvising melodies that suit the mood of the crowd. While popular among common folk, she aspires to perform for nobility.
+Ánira grew up poor in the lanes of the town and found solace in music. She learned to play the lute from a traveling bard, and now performs in the inns and at the fairs of the Thórgila valleys. Her music is known for its warmth and beauty, and she has a talent for improvising melodies that suit the mood of the crowd. While popular among common folk, she aspires to perform for nobility.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Talented musician, quick improviser, charming stage presence.
 
 ## Social
 
-Ánira is affiliated with the [Minstrels' Guild]{.name data-type="affiliation/guild"}.
+Ánira belongs to no guild or company. She is a Freeman of Thórgila, with a voice in its council, and sings wherever an innkeeper or a fair will pay her.
 
 ## Companions
 

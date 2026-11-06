@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Valaren Álvanar is a 36-year-old man who stands 5'9" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and expressive lips complete his features. He has light skin with an olive-toned complexion. His dark brown hair is kept practical and short.
+Valaren Álvanar is a 36-year-old man who stands 5'9" tall and is of medium build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and expressive lips. His light skin carries the pallor of the clerks' rooms, his dark brown hair is kept short, and he walks a little unevenly on a scarred left foot.
 
 # Dossier {#dossier}
 
@@ -418,13 +418,13 @@ Clever and resourceful, good at navigating red tape.
 
 ## Social
 
-Valaren is affiliated with the Court of Pleas.
+Valaren is a clerk of the [Court of Pleas]{.name data-type="affiliation/governmental"} at Torvaleth, a Freeman of [[affiliation-kingdmlnrk|Lyenrik]] who copies and keeps the plea rolls.
 
 ## Companions
 
 ### Patrons
 
-Valaren's primary patron is a powerful city councilor who appreciates Valaren's cunning.
+Valaren's patron is a great lord of the king's council at Torvaleth, who finds his cunning useful and his ambition easy to buy.
 
 ### Enemies
 

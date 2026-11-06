@@ -3,6 +3,7 @@ shortcode: domthgrvth
 name: {full: Dometh Graveth, given: Dometh, clan: Graveth}
 type: being
 subType: character
+description: "The master shipwright of Herthema, whose hulls outlast a generation and whose hands have begun to tremble while the town's reform merchants try to discredit him."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -424,95 +425,94 @@ sohl:
 
 ![[domthgrvth|Dometh Graveth]]{float=top-left}
 
-Dometh stands 5'11" tall with a heavy build. He has tanned weathered skin, graying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
+Dometh Graveth is a 48-year-old man who stands 5'11" tall and is heavily built. He has a narrow face with an aquiline nose, a pointed chin, well-defined lips and prominent brows. His brown eyes are steady and slow to move from the work in front of him, and his skin is tanned and lined by thirty years of the shipyard. His black hair is graying. When he strips to the waist on a hot day in the yard, a tattoo of a snake shows on his chest.
 
 # Dossier {#dossier}
 
-Dometh was born to shipwrights in the coastal district of [[place-tarvenirgn|Tarvénia]], where the sea determines all things and timber is the only true currency. His father, **Master [Toren Graveth]{.name data-type="being/npc"}**, was considered the kingdom's finest builder of ocean-going vessels, and Dometh inherited the trade and with it a philosophy of absolute dedication to the craft. For thirty-one years, Dometh worked beside his father, learning that ships are not products but living things—entities that must be honored, understood, and negotiated with rather than imposed upon.
+Dometh was born to shipwrights in [[place-herthema|Herthema]], on the coast of [[place-tarvenirgn|Tarvénia]], where the sea decides most things and seasoned timber is worth more than coin. His father, **Master [Toren Graveth]{.name data-type="being/npc"}**, was counted the finest builder of ocean-going vessels in the kingdom, and Dometh inherited the trade and with it a philosophy of absolute dedication to the craft. From boyhood he worked beside his father, learning that ships are not products but living things, to be honored, understood and negotiated with rather than imposed upon.
 
-When his father passed—drowning in the very sea that had always been his realm—Dometh inherited both his workshop and his reputation. Rather than expand or capitalize on his inheritance, he deliberately restricted his output, accepting only commissions that met his personal standards. Over the next two decades, he became known not for productivity but for creating ships of such durability and elegance that captains would wait years for a Graveth vessel and pay premiums without complaint.
+When his father drowned, in the sea that had always been his realm, Dometh inherited both his workshop and his reputation. Rather than expand or capitalize on his inheritance, he deliberately restricted his output, accepting only commissions that met his personal standards. Over the two decades since, he has become known not for productivity but for ships of such durability and elegance that captains wait years for a Graveth hull and pay premiums without complaint.
 
-Currently, at the height of his mastery, Dometh finds himself something of an anomaly in an age of cheaper, faster construction. He refuses to compromise, refuses to cut corners, and has become increasingly isolated as younger shipwrights choose speed over excellence. Yet his vessels still sail after generations, and his name remains synonymous with quality among those who understand that a ship is more than cargo and passage.
+At the height of his mastery, Dometh finds himself out of step with a town that wants things made faster and cheaper. He refuses to compromise, refuses to cut corners, and has become increasingly isolated as younger shipwrights choose speed over excellence. Yet his vessels still sail after a generation, and his name remains synonymous with quality among those who understand that a ship is more than cargo and passage.
+
+This year the quarrel has come to his door. A reform faction among the merchants of the [[affiliation-cnclhrthm|Council of Herthema]] wants shipbuilding standardized and his name discredited, the rival shipwright [Oztuk Kanarris]{.name data-type="being/npc"} tells every captain on the quay that Graveth vessels are overpriced relics, and Dometh's hands have begun to tremble.
 
 ## Psyche
 
 ### Personality
 
-Dometh is a man of long silences. He speaks rarely and only when speech serves purpose—explanations of his methods, discussions of timber quality, or rare moments of real human connection. This quietude is often mistaken for coldness or arrogance, though in truth it emerges from a deep introversion and intense focus. His entire consciousness seems oriented toward the work at hand, and casual conversation strikes him as frivolous distraction.
+Dometh is a man of long silences. He speaks rarely and only when speech serves purpose: explanations of his methods, discussions of timber, or rare moments of real human connection. This quietude is often mistaken for coldness or arrogance, though in truth it comes from a deep introversion and intense focus. His whole attention is on the work at hand, and casual conversation strikes him as a frivolous distraction.
 
-Yet those rare individuals who have penetrated his reserve report discovering unexpected warmth and a bone-deep sincerity. He is capable of deep attachment—to his craft, to ships he has built, and occasionally to individuals who demonstrate equal dedication to their own pursuits. His stubbornness is not mere obstinacy but a commitment to principle that cannot be negotiated away by mere economics. When something is wrong, he will say so plainly, regardless of consequences to his purse or reputation. This integrity has cost him dearly, but it remains uncompromised.
+Yet the few who have got past his reserve find unexpected warmth and a bone-deep sincerity. He is capable of deep attachment, to his craft, to ships he has built, and now and then to people who show equal dedication to their own work. His stubbornness is not mere obstinacy but a commitment to principle that money cannot move. When something is wrong, he says so plainly, whatever it costs his purse or his reputation. That integrity has cost him dearly, and it remains whole.
 
 ### Motivation
 
-Dometh is animated by a conviction that approaches religious fervor: that excellence in craft is an act of respect toward both the materials and the individuals who will depend upon the finished work. Every ship he builds is created with consciousness that it may carry families across treacherous waters, or carry merchants to distant lands, or serve warriors in naval warfare. To compromise on quality is to betray these people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to [[affiliation-olvenia|Ólvenia]]** and to the unspoken compact between craftsperson and world.
+Dometh holds, with something close to religious fervor, that excellence in craft is an act of respect toward both the materials and the people who will depend on the finished work. Every ship he builds may carry families across bad water, merchants to distant ports, or warriors to a sea fight. To compromise on quality is to betray those people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to [[affiliation-olvenia|Ólvenia]] and to the unspoken compact between a craftsman and the world.
 
-A deeper motivation underlies this: Dometh builds ships because they are permanent. In a world of flux and change, a well-built vessel can outlast nations, can be repaired and renewed for generations. In creating ships, he creates something that approaches immortality, and through these vessels, some fragment of himself will persist when he is dust.
+Under this lies a deeper motive: ships are permanent. A well-built vessel can outlast a kingdom and be repaired and renewed for generations, and through his ships some part of him will persist when he is dust.
 
 ### Strengths
 
 Shipwright Mastery
-: His understanding of vessel construction encompasses technique and an almost intuitive grasp of how wood behaves in water, how forces distribute through structure, and how to create ships that are simultaneously stronger and lighter than conventional design permits.
+: He understands how wood behaves in water and how forces run through a hull, and he builds ships that are stronger and lighter than the common design allows.
 
 Materials Expertise
-: His knowledge of timber types, their properties, strengths, and weaknesses is encyclopedic; he can select materials for specific purposes with an accuracy that borders on prophetic.
+: His knowledge of timber, its kinds, strengths and weaknesses, is encyclopedic, and he chooses wood for a purpose with an accuracy that borders on the uncanny.
 
 Structural Reasoning
-: His mathematical and reasoning faculties are strong, allowing him to calculate the stresses that will bear upon a vessel and design against them with precision.
+: He calculates the stresses a vessel will bear and designs against them with precision.
 
 Leadership Through Respect
-: Those who work under Dometh recognize the integrity of his vision and respond with absolute dedication, resulting in construction crews of unusual coherence and quality.
+: Those who work under Dometh recognize the integrity of his vision and answer it with absolute dedication, and his yard crews hold together as few in the town do.
 
-Durability Achievement
-: His vessels last longer, require less maintenance, and handle adverse conditions better than those built by rival shipwrights, generating a customer loyalty that outweighs price.
+Durability
+: His vessels last longer, need less mending and handle foul weather better than those of rival shipwrights, which earns him a loyalty that outweighs his price.
 
 ### Weaknesses
 
 Economic Fragility
-: His refusal to accept lower-quality commissions leaves him vulnerable to periods of drought, and his income is perpetually uncertain in an era of faster, cheaper production.
+: His refusal of lesser commissions leaves him exposed in lean years, and his income is never certain in a town that has learned to buy cheap.
 
-Inflexible Quality Standards
-: His inability to compromise even when circumstances demand it has lost him major commissions and left him unable to adapt to changing market realities.
+Inflexible Standards
+: He cannot compromise even when circumstances demand it, and it has lost him great commissions.
 
-Interpersonal Isolation
-: His distance from human connection and inability to engage in political or social maneuvering has left him without powerful patrons or allies in the [Coastal Shipwrights' Guild]{.name data-type="affiliation/guild"}.
+Isolation
+: He keeps apart from people and will not work the council or the merchants' tables, so he has no powerful allies among the shipwrights or the houses that buy ships.
 
 Age and Declining Capacity
-: Physical decline has begun to manifest—his hands occasionally tremble, his stamina has diminished, and he is acutely aware that his working life is entering its final chapter.
+: His hands have begun to tremble, his stamina is less than it was, and he knows his working life is entering its last chapter.
 
 Unwillingness to Delegate
-: His insistence on personally overseeing all critical work has limited his output and created dangerous bottlenecks in his production.
+: He insists on overseeing every critical joint himself, which limits his output and leaves every hull waiting on him.
 
 ## Social
 
 ### Patrons
 
 Captain-Admiral [[being-brazemabetsu|Brazema]]
-: A celebrated naval commander who has commissioned multiple vessels from Dometh over two decades and would speak of his craftsmanship as the only reason certain campaigns succeeded.
+: [[being-brazemabetsu|Brazema Betsuris]], the Master of the Fleet of Galvaren, who has commissioned hulls from Dometh for two decades and has waited eight years for the one now on his slip.
 
-[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Tarvénia's Harbor
-: A collective of wealthy traders who have maintained standing orders for Graveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
+The ship-owning houses of [[place-valthari|Valthari]]
+: A few of the houses of the free port keep standing orders for Graveth hulls despite the cost and the delays, because his ships outlast and outsail theirs.
 
 Priestess-Keeper [[being-thelvaravolk|Thélvara]] of Ólvenia's Temple
-: The keeper of the ocean-goddess's temple considers Dometh's work a form of worship and sees to it that the temple's ships are always commissioned from him, providing him with steady work during lean years.
+: [[being-thelvaravolk|Thélvara Volkemis]], the priestess-keeper of the temple of Ólvenia at Herthema, holds Dometh's work to be a form of worship and sees that the temple's ships are always commissioned from him, which keeps him in work through lean years.
 
 ### Enemies
 
-Master-Craftsman [Tazek the Swift]{.name data-type="being/npc"}
-: A rival shipwright who has built his reputation on fast, cheap construction and views Dometh's premium work as market distortion; Tazek actively spreads rumors that Graveth vessels are overpriced relics and works to capture Dometh's would-be customers.
+Oztuk Kanarris
+: A rival shipwright who has built his name on fast, cheap hulls and calls Dometh's prices a distortion of the market. He spreads the word that Graveth vessels are overpriced relics and works to take Dometh's customers.
 
-[The Merchant's Association Reform Faction]{.name data-type="affiliation"}
-: A segment of the merchant class seeking to modernize and standardize shipbuilding practices views Dometh's stubborn individualism as an impediment to progress and has launched campaigns to discredit him.
+The reform faction of the council
+: Merchants of the Council of Herthema who want shipbuilding standardized and see Dometh's stubborn craft as an obstacle. They are gathering stories of Graveth hulls lost at sea.
 
 ### Affiliations
 
-Coastal Shipwrights' Guild
-: Nominally a member, though increasingly at odds with the guild's direction toward industrialized production.
-
-The keepers of Ólvenia's temple
-: Informal but deep connection through shared devotion to the prosperity-goddess and reverence for maritime traditions.
+- **[[affiliation-cnclhrthm|Council of Herthema]]**: Dometh is a Freeman of the town, entitled to trade in it and to plead before the council.
+- **[[affiliation-olvenia|Faith of Ólvenia]]**: He is one of the goddess's lay faithful, and the keepers of her temple are the nearest thing he has to friends.
 
 ## Plot Hooks
 
 1. **The reform faction.** The merchants who want Dometh discredited are gathering stories of Graveth hulls lost at sea. Dometh suspects the stories, and the wrecks, are not what they seem, and he cannot ask the questions himself.
 2. **The trembling hands.** Dometh's hands have begun to tremble, and the hull the Master of the Fleet of Galvaren has waited eight years for is not finished. He asks a party to carry a message to Brazema Betsuris at Durvolka that he cannot write.
-3. **The rival's hull.** The rival shipwright Tazek the Swift builds fast, cheap hulls and spreads the word that Graveth vessels are overpriced relics. A hull of Tazek's has gone down in a harbor storm, and Dometh asks a party to learn who built her keel.
+3. **The rival's hull.** Oztuk Kanarris builds fast, cheap hulls and spreads the word that Graveth vessels are overpriced relics. A hull of Oztuk's has gone down in a harbor storm, and Dometh asks a party to learn who built her keel.

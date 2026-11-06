@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Alvarik Árenthar is a 40-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with defined cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. His piercing gray eyes sit beneath straight brows and give him a penetrating gaze. He has a prominent nose and firm lips. He has medium-toned skin with a bronzed complexion. His gray hair is shorn at the sides with length on top.
+Alvarik Árenthar is a 40-year-old man who stands 6'2" tall and is broad and heavily built. He has a long face with defined cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. His piercing gray eyes sit beneath straight brows and give him a penetrating gaze. He has a prominent nose and firm lips. His skin is browned and lined by forty summers in the fields, and his gray hair is shorn at the sides with length on top. When he works stripped to the waist, a tattoo of a compass shows on his chest.
 
 # Dossier {#dossier}
 
@@ -437,9 +437,6 @@ The Leat
 
 The Notes
 : Alvarik's notes have been bought from the Nebralis moneylender by the lord's steward, and they fall due after harvest.
-
-The Ban
-: The High King has called the ban, and Nebralis must send its freemen, in the second week of the cutting. Alvarik is a freeman.
 
 The Son
 : Alvarik's son has taken a sellsword's advance from a captain recruiting in the port, as Tarvenan boys do, and means to go before the harvest is in.

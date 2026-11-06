@@ -4817,6 +4817,13 @@ data:
     - {name: Pálina Sánriseth, tongue: tarveni}
     - {name: Gerthan Gútharen, tongue: tarveni}
     - {name: Ríthara Dómivar, tongue: tarveni}
+    - {name: Oztuk Kanarris, tongue: tarveni}
+    - {name: Zekudi Ozkuregi, tongue: tarveni}
+    - {name: Korvath Dorvás, tongue: tarveni}
+    - {name: Ozka Ularris, tongue: tarveni}
+    - {name: Nelma Thaluris, tongue: tarveni}
+    - {name: Ulma, tongue: tarveni}
+    - {name: Hurda, tongue: tarveni}
     - {name: Kaldrén Gútharen, tongue: tarveni}
     - {name: Velmar Gútharen, tongue: tarveni}
     - {name: Alethra Ornetis, tongue: tarveni}

@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Galver Ornethran is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a square chin. His piercing brown eyes sit beneath straight brows, lending him a penetrating gaze. A straight nose and narrow lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is tied in a low tail.
+Galver Ornethran is a 45-year-old man who stands 6'0" tall and is broad and heavily built. He has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a square chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and narrow lips. His olive skin is weathered by thirty years on scaffolds, his hair went white early and is tied in a low tail, and stone dust lives in the creases of his knuckles.
 
 # Dossier {#dossier}
 
-Born in [[place-nebralis|Nebralis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Galver Ornethran is a mason.
+Galver Ornethran is a mason of [[place-nebralis|Nebralis]], a port town of [[place-tarvenirgn|Tarvénia]], a [[lore-tarvenanclt|Tarvenan]] freeman who has built the town's houses, warehouses and quays for more than thirty years.
 
-Galver is a veteran mason with over thirty years of experience. He has worked on countless projects, from simple homes to grand cathedrals. Known for his strength and expertise, Galver often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
+Galver is a veteran mason. He has worked on everything from fishermen's cottages to the warehouses of the harbor houses and the temple of [[affiliation-lizelas|Lizelas]], and the merchant houses now want him for the longer quay they are building. Known for his strength and expertise, Galver often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
 
 ## Psyche
 
@@ -419,13 +419,13 @@ Highly experienced, strong leadership skills, excellent craftsmanship.
 
 ## Social
 
-Galver is affiliated with the local [Masons' Guild]{.name data-type="affiliation/guild"}.
+Galver belongs to no guild. He keeps a yard of his own with two journeymen and three apprentices, and he is a Freeman of Nebralis, with a voice in its Freemen's Assembly.
 
 ## Companions
 
 ### Patrons
 
-Galver's primary patrons are architects and builders seeking experienced masons.
+Galver's patrons are the merchant houses building on the harbor, who pay well and argue every course, and the priestess [[being-alethraornet|Alethra Ornetis]], who pays little and never argues.
 
 ### Enemies
 
@@ -434,5 +434,5 @@ Few; respected in the community.
 ## Plot Hooks
 
 1. **The new quay.** The merchant houses that control the [[place-nebralis|Nebralis]] harbor have commissioned a longer quay from Galver, and the stone they have supplied is the wrong stone. He asks a party to find who sold it.
-2. **The temple's roof.** The temple of Lizelas needs its roof mended before winter, and the bishop's recommended oversight would put the work out to formally trained clergy's builders. Galver asks a party to carry the priestess's request to the assembly.
+2. **The temple's roof.** The temple of Lizelas needs its roof mended before winter, and the bishop's recommended oversight would take the temple's purse out of the priestess's hands. Galver asks a party to carry the priestess's request to the assembly.
 3. **The guild's vote.** The older teamsters' vote on whether a seat may pass to a daughter will decide who carts Galver's stone. He asks a party to learn which teamsters have been paid.

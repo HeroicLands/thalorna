@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Gerthan Gútharen is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a square face with sharp cheekbones, a high forehead, and a square jaw that leads to a firm chin. His sharp hazel eyes sit beneath thick brows, lending him an incisive gaze. A hawkish nose and expressive lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is kept practical and short. A notable feature is laugh lines around the eyes.
+Gerthan Gútharen is a 52-year-old man who stands 6'0" tall and is of medium build. He has a square face with sharp cheekbones, a high forehead, and a square jaw that leads to a firm chin. His sharp hazel eyes sit beneath thick brows and give him an incisive gaze. He has a hawkish nose and expressive lips. His olive skin is weathered, his white hair is kept short, and deep laugh lines run from the corners of his eyes. A tattoo of a falcon shows on his right arm when he rolls his sleeves to the canvas.
 
 # Dossier {#dossier}
 
 Born in [[place-thorgila|Thórgila]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Gerthan Gútharen is a tentmaker.
 
-Gerthan has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in [[place-thorgila|Thórgila]], often employing apprentices to keep up with demand. Although Gerthan is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
+Gerthan has been making tents and tarpaulins for the companies that march from the Thórgila valleys for over thirty years, and a Gútharen tent is known to stand through a mountain storm. He runs a busy workshop in [[place-thorgila|Thórgila]], often employing apprentices to keep up with demand. Although Gerthan is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
 
 ## Psyche
 
@@ -420,13 +420,13 @@ Experienced in making durable tents for harsh conditions, strong work ethic.
 
 ## Social
 
-Gerthan is affiliated with the [Tentmakers' Guild]{.name data-type="affiliation/guild"}.
+Gerthan belongs to no guild. He is a Freeman of the town, with a voice in its council.
 
 ## Companions
 
 ### Patrons
 
-Gerthan's primary patrons are military officials and merchants who value his sturdy products.
+Gerthan's patrons are the captains of the companies who buy their tents at the autumn fair, and the merchants who need canvas that keeps a cargo dry.
 
 ### Enemies
 

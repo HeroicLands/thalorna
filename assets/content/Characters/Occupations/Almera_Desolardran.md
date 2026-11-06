@@ -389,13 +389,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Álmera Desolardran is a 23-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with prominent cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A strong nose and full lips complete her features. She has olive-tanned skin with a ruddy complexion. Her dark brown hair is gathered in a practical bun.
+Álmera Desolardran is a 23-year-old woman who stands 5'10" tall and is of medium build. She has a square face with prominent cheekbones, a smooth forehead and an angular jaw that leads to a firm chin. Her dark brown eyes sit beneath prominent brows and are always on the road ahead. She has a strong nose and full lips, and her olive skin is ruddy from the wind off the salt marsh. Her dark brown hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 
-Born in [[place-valthari|Valthari]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Álmera Desolardran is a caravan guard.
+Álmera Desolardran is a caravan guard of [[place-valthari|Valthari]], a [[lore-tarvenanclt|Tarvenan]] of the city's laboring streets who rides with the caravans that carry Lyenrik's goods down the road from [[place-bruthena|Bruthena]] to the port.
 
-Álmera has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her a useful asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
+Álmera has guarded that road for several years, known for her agility and keen senses. She rides ahead of the caravan to find trouble before it finds the wagons: smugglers in the marsh, a washed-out causeway, a toll-collector who wants more than the King of Lyenrik's toll. Her quick reflexes and sharp wit make her a useful asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
 
 ## Psyche
 
@@ -413,7 +413,7 @@ Agile and quick, skilled in stealth, strong at reconnaissance.
 
 ## Social
 
-Álmera is affiliated with the local [Mercenaries' Guild]{.name data-type="affiliation/guild"}.
+Álmera signs with the caravan masters by the season and belongs to no company. She lives in Valthari as a Resident, under the city's protection without its freedom.
 
 ## Companions
 
@@ -423,10 +423,10 @@ Agile and quick, skilled in stealth, strong at reconnaissance.
 
 ### Enemies
 
-Few; generally well-liked among her peers.
+The smugglers who work the salt marsh beside the Bruthena road, who have learned her face.
 
 ## Plot Hooks
 
 1. **The Bruthena road.** The caravan Álmera guards runs from [[place-bruthena|Bruthena]] to [[place-valthari|Valthari]], and a house has proposed a channel through the salt marsh that would make the caravan unnecessary. She asks a party to join the survey that the marsh people want stopped.
 2. **The quiet factor.** A factor of the Thordimalon in Valthari hires guards who will not ask why the quarter has gone quiet around him. Álmera has been offered the work and asks a party to find out what he is afraid of.
-3. **The strike.** The seamen refuse to sign until the owners raise the crew's share, and Álmera's caravan carries the owners' cargo to the quay. She asks a party to learn who is paying the carters to cross the picket.
+3. **The carters at the quay.** The seamen refuse to sign until the owners raise the crew's share, and Álmera's caravan carries the owners' cargo to the quay. She asks a party to learn who is paying the carters to cross the picket.

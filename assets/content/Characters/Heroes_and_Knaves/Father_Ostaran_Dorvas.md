@@ -3,6 +3,7 @@ shortcode: frstrndrvs
 name: {full: Father Ostaran Dorvás, given: Ostaran, clan: Dorvás, en: [The Árdavonian Priest]}
 type: being
 subType: character
+description: "A young priest of Árdavon at Thórgila who arbitrates under the seal of Polthamis and is investigating the lord Nizel Ganotis."
 tags: [heroes-and-knaves, todo, hero, clergy]
 data:
   icon: icon-person
@@ -419,25 +420,25 @@ sohl:
 
 ![[frstrndrvs|Father Ostaran Dorvás]]{float=top-left}
 
-Standing at 5'11", Father Ostaran has a medium build, weighing around 170 pounds, with a tanned complexion that speaks to his [Meridiane]{.name data-type="lore/culture"} heritage. His hair is dark and wavy, cut short, and his beard is neatly trimmed. His dark brown eyes are calm and observant, reflecting his deep sense of justice and his role as a [[affiliation-ardavon|Árdavonian priest]]. His nose is straight, and his face is marked by a serene, almost paternal expression. Father Ostaran wears the traditional garb of the Árdavonian clergy—a long, white robe embroidered with silver, and a red sash symbolizing his status as priest. He carries a ceremonial staff topped with the symbol of Árdavon, though a short sword hangs at his waist as a reminder of his chivalric duties.
+Father Ostaran Dorvás is a 25-year-old man who stands 5'11" tall and is of medium build, with skin tanned by the roads he rides. His hair is dark and wavy, cut short, and his beard is neatly trimmed. His dark brown eyes are calm and observant, reflecting his deep sense of justice and his role as a [[affiliation-ardavon|Árdavonian priest]]. His nose is straight, and his face is marked by a serene, almost paternal expression. Father Ostaran wears the traditional garb of the Árdavonian clergy—a long, white robe embroidered with silver, and a red sash symbolizing his status as priest. He carries a ceremonial staff topped with the symbol of Árdavon, though a short sword hangs at his waist as a reminder of his chivalric duties.
 
 # Dossier {#dossier}
 
-Ostaran Dorvás was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, [Álvaro Dorvás]{.name data-type="being/npc"}, was a knight in the royal guard, while his mother, **[[being-zedimazenoth|Zédima]]**, was the daughter of a well-known scholar. From an early age, Ostaran was taught the principles of the **Árdavonian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
+Ostaran Dorvás was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, [Korvath Dorvás]{.name data-type="being/npc"}, was a knight in the royal guard, while his mother, **[[being-zedimazenoth|Zédima]]**, was the daughter of a well-known scholar. From an early age, Ostaran was taught the principles of the **Árdavonian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
 
-Although Ostaran’s family hoped he would follow in his father’s footsteps as a knight, Ostaran felt a strong calling to the clergy. He was particularly inspired by his faith's account of the god **[[lore-ardavondty|Árdavon]]**, the god of justice and honor, who teaches his followers to defend the helpless and stand against oppression. By the age of 12, Ostaran expressed his desire to join the [Order of the Sword of Árdavon]{.name data-type="affiliation/order"}, the priesthood dedicated to serving both the spiritual and martial aspects of the Árdavonian faith.
+Although Ostaran’s family hoped he would follow in his father’s footsteps as a knight, Ostaran felt a strong calling to the clergy. He was particularly inspired by his faith's account of the god **[[lore-ardavondty|Árdavon]]**, the god of justice and honor, who teaches his followers to defend the helpless and stand against oppression. By the age of twelve, Ostaran had asked to be given to the priesthood of [[affiliation-ardavon|Árdavon]], whose priests serve both the spiritual and the martial sides of the faith.
 
 ## Background
 
-### Joining the Árdavonian Church
+### Joining the Priesthood
 
-Ostaran was sent to the [[place-grttmplrdvn|Great Temple of Árdavon]] in the city of [[place-polthamis|Polthamis]], where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Ostaran excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
+Ostaran was sent to the [[place-grttmplrdvn|Great Temple of Árdavon]] in the city of [[place-polthamis|Polthamis]], where he began his formal training as an Acolyte of the Threshold. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Ostaran excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
 
-At the age of 20, Ostaran took his vows and was ordained as a priest dedicated to serving Árdavon’ cause on the battlefield and in the courts. He became known for his dedication to justice, traveling throughout the kingdom to mediate disputes, bring corrupt officials to justice, and uphold the ideals of the Árdavonian church.
+At twenty, Ostaran took his vows and was ordained a Volsar, a priest who witnesses oaths and contracts and serves Árdavon’s cause in the courts and, when he must, in the field. He made his home at [[place-thorgila|Thórgila]], where every sale at the autumn horse fair is sworn at the oath stone, and he has become known for his dedication to justice, riding the hill country to arbitrate disputes, bring corrupt officials to account and uphold the ideals of the faith.
 
 ### The Rising Threat of Injustice
 
-In recent years, the Kingdom of Tarvénia has faced increasing political unrest, with corruption spreading among the nobility. Several powerful lords have begun to use their influence to exploit the common people, disregarding the chivalric code and the teachings of Árdavon. As a priest, Ostaran has become a central figure in the church’s efforts to combat this rising tide of injustice. He is often called upon to investigate claims of corruption and arbitrate disputes, so that the kingdom’s laws of honor and protection are upheld.
+In recent years, the Kingdom of Tarvénia has faced increasing political unrest, with corruption spreading among the nobility. Several powerful lords have begun to use their influence to exploit the common people, disregarding the chivalric code and the teachings of Árdavon. As a priest, Ostaran has become a central figure in the faith’s efforts to combat this rising tide of injustice. He is often called upon to investigate claims of corruption and arbitrate disputes, so that the kingdom’s laws of honor and protection are upheld.
 
 One of Ostaran’s most recent assignments involves investigating **Lord [[being-nizelganotis|Nizel Ganotis]]**, a noble accused of abusing his power and oppressing the local peasantry. Nizel has seized land unlawfully and has shown a blatant disregard for the kingdom’s laws, presenting Ostaran with one of his most difficult challenges yet. As Ostaran digs further into the investigation, he uncovers a web of corruption that extends beyond Lord Nizel, threatening the very foundations of Tarvénia’s chivalric code.
 
@@ -487,7 +488,7 @@ Voice
 
 ## Psyche
 
-## Personality and Motivations
+### Personality and Motivation
 
 Father Ostaran is a man of deep faith, driven by his devotion to Árdavon and the ideals of justice and honor. He believes that those who possess power must wield it responsibly, using their strength to protect the weak and uphold the law. He is both a scholar and a warrior, combining his knowledge of the law with his martial prowess to uphold justice in a world increasingly marred by corruption.
 
@@ -503,7 +504,7 @@ Despite his commitment to his faith, Father Ostaran is pragmatic enough to recog
 ### Patrons
 
 [[being-srdlvnthrvkknghtwstrnmrchs|Sir Dalven Thorvek]]
-: A loyal knight and Ostaran’s close friend, Sir Dalven has been Ostaran’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir Dalven lives by the ideals of Árdavonian chivalry and holds firm in his support of Ostaran’s quest for justice.
+: A knight of the Western March and Ostaran’s close friend, who has ridden with him as his protector on many dangerous errands. Together they have fought bandits and brought corrupt lords to account. Sir Dalven was struck by Ostaran’s dedication and has set his sword behind the inquiry, out of a respect that runs both ways.
 
 Archbishop [[being-thalurozenot|Thaluro Zenothis]]
 : The Árdavonian prelate at Polthamis, who confirms Ostaran’s arbitrations under seal and so meets him on the register four times a year. The commissions into noble corruption carry that seal, and so does the protection from the complaints they draw—protection Ostaran knows is conditional on the matter never reaching the royal court. Zenothis is also **Zédima**’s brother. Neither of them says so, and nobody counts a scholar’s daughter who married into the royal guard as kin to an archbishop.
@@ -518,8 +519,8 @@ Lady [[being-zenothaulmis|Zenotha Ulmis]]
 
 ### Affiliations
 
-Sir [[being-srdlvnthrvkknghtwstrnmrchs|Dalven]] Thorvek
-: A staunch advocate of chivalry and honor, Sir Dalven was impressed with Father Ostaran’s commitment and dedication, and has decided to support his goals. Their friendship is borne out of mutual respect and admiration.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: Ostaran is a Volsar, an ordained priest of the god, and his arbitrations are confirmed under seal at Polthamis.
+- **[[affiliation-cnclthrgl|Council of Thórgila]]**: He is a Freeman of the town, with a voice in its council.
 
 ## Plot Hooks
 

@@ -39,7 +39,7 @@ Bedarrek Mozkarreta is a 46-year-old man who stands 5'10" tall with a medium bui
 
 Bedarrek Mozkarreta is a merchant-lord of [[place-torvaleth|Torvaleth]], the red-brick capital of Lyenrik. He buys cattle from the drovers at the east gate, sells hides and tallow to Valthari and holds a stall at the greatest harvest fair in Tarvénia. A gentleman by wealth and not by birth, he sits among the gentry of the plain by the weight of his purse.
 
-He holds documented evidence of the herald [[being-carengrvth|Kárenna Graveth]]'s conflicts of interest and her entanglement with House Graveth's commercial interests, and he offers her a choice between commercial concessions and exposure to the king's justice. In Torvaleth a lord who wants a better place on the Roll of Houses spends years and a great deal of money finding a record, and Bedarrek has made a trade of the records.
+He holds documented evidence of the herald [[being-carengrvth|Kárenna Graveth]]'s conflicts of interest and her entanglement with her family's commercial interests, and he offers her a choice between commercial concessions and exposure to the king's justice. In Torvaleth a lord who wants a better place on the Roll of Houses spends years and a great deal of money finding a record, and Bedarrek has made a trade of the records.
 
 ## Psyche
 

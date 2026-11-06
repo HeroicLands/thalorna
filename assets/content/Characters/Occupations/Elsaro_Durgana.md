@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Élsaro Durgana is a 26-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His narrow dark brown eyes sit beneath heavy brows, lending him a keen gaze. An aquiline nose and curved lips complete his features. He has tanned skin with a weathered complexion. His graying brown hair is tied in a low tail.
+Élsaro Durgana is a 26-year-old man who stands 6'0" tall and is of medium build. He has an angular face with high cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His narrow dark brown eyes sit beneath heavy brows and give him a keen gaze. He has an aquiline nose and curved lips. His skin is tanned and weathered, his brown hair is graying early and tied in a low tail, and a tattoo of a tiger runs along one forearm.
 
 # Dossier {#dossier}
 
@@ -408,7 +408,7 @@ Can be overly secretive, struggles with trusting others.
 
 ### Motivation
 
-Élsaro wants to be paid on the day, to keep his name out of the council's roll and to avoid any client who can read.
+Élsaro wants to be paid on the day, to keep his name out of the Council of Thórgila's hearing and to avoid any client who can read.
 
 ### Strengths
 

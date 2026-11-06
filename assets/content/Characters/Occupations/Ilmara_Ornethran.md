@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilmara Ornethran is a 47-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a narrow forehead, and a strong jaw that leads to a prominent chin. Her hooded brown eyes sit beneath straight brows, lending her a guarded gaze. A strong nose and narrow lips complete her features. She has dark skin with a weathered complexion. Her brown hair is pulled back tightly from her face.
+Ilmara Ornethran is a 47-year-old woman who stands 5'10" tall and is of medium build. She has an oval face with sharp cheekbones, a narrow forehead, and a strong jaw that leads to a prominent chin. Her hooded brown eyes sit beneath straight brows and give her a guarded gaze. She has a strong nose and narrow lips. Her dark skin is lined by years over a kitchen fire, and her brown hair is pulled back tightly from her face.
 
 # Dossier {#dossier}
 
@@ -416,7 +416,7 @@ Skilled cook, strong work ethic, resilient.
 
 ## Social
 
-Ilmara is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
+Ilmara belongs to no guild. She keeps the inn as a Freeman of Herthema, entitled to trade in the town and to plead before its council.
 
 ## Companions
 

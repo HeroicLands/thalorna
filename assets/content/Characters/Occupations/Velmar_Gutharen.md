@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Velmar Gútharen is a 51-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with broad cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has an aquiline nose and narrow lips. He has medium-toned skin with a weathered complexion. His gray hair is shorn at the sides with length on top. A notable feature is sun-darkened skin on the arms and face.
+Velmar Gútharen is a 51-year-old man who stands 6'1" tall and is of medium build. He has an oval face with broad cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has an aquiline nose and narrow lips. His face and forearms are weathered and darkened by thirty years in front of the furnace mouth, his gray hair is shorn at the sides with length on top, and a small scar marks his chin.
 
 # Dossier {#dossier}
 

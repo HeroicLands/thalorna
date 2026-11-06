@@ -399,7 +399,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Holren Álvanar is a 30-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath thick brows, lending him an expressive gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is shorn at the sides with length on top.
+Holren Álvanar is a 30-year-old man who stands 6'0" tall and is of medium build. He has an oval face with sharp cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath thick brows and give him an expressive gaze. He has an aquiline nose and full lips. His skin is browned by work on the walls in the plateau sun, and his black hair is shorn at the sides with length on top.
 
 # Dossier {#dossier}
 
@@ -423,13 +423,13 @@ Highly skilled stone carver, creative, good problem solver.
 
 ## Social
 
-Holren is affiliated with the local [Masons' Guild]{.name data-type="affiliation/guild"}.
+Holren belongs to no guild. He is a Freeholder of Asturath and takes his work from the officers who keep the city's walls and cisterns.
 
 ## Companions
 
 ### Patrons
 
-Holren's primary patrons are local builders and architects seeking quality craftsmanship.
+Holren's patron is the Warden of the Plateau Gate, who keeps Lezkora's gate, its road and its cisterns and hires him for the work on them.
 
 ### Enemies
 

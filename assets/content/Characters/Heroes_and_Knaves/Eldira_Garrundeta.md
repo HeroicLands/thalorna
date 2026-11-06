@@ -3,6 +3,7 @@ shortcode: eldiragarrun
 name: {full: Eldira Garrundeta, given: Eldira, clan: Garrundeta}
 type: being
 subType: character
+description: "A glassworker of Herthema whose bold, nearly abstract windows make enemies of both sides of the town's quarrel over figured glass."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -420,93 +421,87 @@ sohl:
 
 ![[eldiragarrun|Eldira Garrundeta]]{float=top-left}
 
-Eldira stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
+Eldira Garrundeta is a 26-year-old woman who stands 5'10" tall and is of light build. She has a diamond-shaped face with a hawkish nose, a pronounced chin, slightly pursed lips and dark brows. Her green eyes rest on light and color before they rest on people, and her olive skin carries small white burn scars on the backs of both hands. Her dark brown hair is tied back from the furnace, and a tattoo of a wolf shows on her shoulder when she works in a sleeveless shift.
 
 # Dossier {#dossier}
 
-Eldira Garrundeta was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldira was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local temple. By age twelve, she had begun seeking out the temple's glassworker, Master [Gerdan]{.name data-type="being/npc"}, begging him to teach her his craft.
+Eldira Garrundeta was born in [[place-herthema|Herthema]], on the coast of [[place-tarvenirgn|Tarvénia]], to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and grew rare plants. From childhood Eldira was fascinated by light and color, particularly the way sunlight changed when it passed through the colored glass of the temple windows. By twelve she was haunting the temple's glassworker, Master [Gerdan]{.name data-type="being/npc"}, begging him to teach her his craft.
 
-Gerdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Eldira's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from temple tradition, and pushed the boundaries of what glass could express.
+Gerdan, who had no children of his own and saw unusual talent, took her on as an informal apprentice. For eight years she learned traditional glasswork: cutting, leading, soldering and the practical making of windows. Even as an apprentice her inclinations ran against the conventional. She tried color combinations her master thought garish, designed patterns that departed from temple tradition, and pushed at what glass could say.
 
-At twenty-three, following Gerdan's death, Eldira established her own workshop in [[place-herthema|Herthema]]. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of temples of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
+At twenty-three, after Gerdan's death, Eldira set up her own furnace-house in Herthema. Her work, bold, unconventional and sometimes nearly abstract, drew a devoted clientele of reform-minded priests, wealthy collectors and merchants who wanted something no one else had. The town's glass trade is quarreling over whether the old plain standard should give way to the figured glass the merchants' houses buy, and Eldira's work belongs to neither side, so she has made enemies of both. She remains fiercely independent and will not trim her work to win acceptance, which has made her reputation and her enemies together.
 
 ## Psyche
 
 ### Personality
 
-Eldira is a creature of paradoxes: confident in her vision to the point of stubbornness, yet sensitive to criticism and sometimes paralyzed by doubt about her direction. She is intensely creative but can become obsessive about small details, sometimes losing sight of larger projects. She is reserved in personal matters, rarely discussing her inner life, yet deeply moved by others' struggles—she gives generously of her time and often takes commissions at reduced cost from those in real need.
+Eldira is a creature of paradoxes: confident in her vision to the point of stubbornness, yet sensitive to criticism and sometimes paralyzed by doubt about her direction. She is intensely creative but can become obsessive over small details and lose sight of larger work. She is reserved about her own life and quick to be moved by other people's troubles, and she often takes commissions at reduced cost from those in real need.
 
-She possesses a dry wit and surprising humor, though these emerge only in situations where she feels truly safe. She is spiritually inclined in a non-traditional way, viewing her glasswork as a form of meditation and spiritual expression rather than mere craft. She is independent to the point of isolation, having structured her life to minimize emotional entanglement, though she harbors deeper longings for connection that she rarely acknowledges.
+She has a dry wit and a surprising humor, which show only where she feels safe. She is spiritually inclined in an unconventional way and treats her glasswork as meditation and devotion rather than mere craft. She has arranged her life to keep others at a distance, though she longs for company more than she admits.
 
 ### Motivation
 
-Eldira is motivated by a drive to create beauty that expresses truth as she perceives it, regardless of whether that truth aligns with conventional understanding. She seeks to prove that glasswork need not be limited to functional windows or traditional temple imagery, but can be a vehicle for personal and spiritual expression. She also has a quieter drive: to establish herself as an artist of the first rank, respected not because she conforms to tradition but because she has gone beyond it and transformed it.
+Eldira wants to make beauty that says what she believes is true, whether or not it matches what others expect. She means to prove that glass need not be limited to plain windows or the old temple images, and can carry personal and spiritual meaning. She also wants, more quietly, to be counted an artist of the first rank, respected not for keeping the tradition but for having gone beyond it.
 
 ### Strengths
 
 Artistic Vision
-: Her creativity—her highest attribute—combined with her drawing, ceramics, and theater gives her a rare aesthetic sensibility. She can perceive color relationships and compositional balances that others miss entirely.
+: Her eye for color and composition, sharpened by drawing, pottery and the stage, sees relationships and balances that others miss.
 
-Extraordinary Technical Skill
-: Her glassworking, dexterity, and perception allow her to execute her artistic visions with precision. Her hands are instruments of great capability, able to manipulate glass with both delicacy and strength.
+Technical Skill
+: Her hands are precise and strong, and she can carry out what she imagines in glass with both delicacy and force.
 
-Innovative Problem-Solving
-: Her reasoning and high creativity allow her to develop novel techniques and solutions to technical challenges. She has invented several new approaches to glass manipulation that other artisans have since adopted.
+Invention
+: She works out new techniques when old ones fail her, and other glassworkers of the town have quietly taken up several of them.
 
-Physical Grace and Awareness
-: Her agility, climbing, and awareness make her comfortable working at heights and in awkward positions. She is fearless when working on large installations.
+Grace at Height
+: She is agile and fearless on a scaffold, and comfortable fitting a window from a ladder in a high wind.
 
-Versatile Craftsmanship
-: Her abilities span ceramics, metalcraft, hideworking, and script, making her capable of creating complete artistic works integrating multiple materials and techniques.
+Versatility
+: She works in pottery, metal and leather and can letter a design, so she can make a whole piece that joins several materials.
 
 ### Weaknesses
 
 Limited Large-Scale Experience
-: While she excels at smaller pieces and moderate installations, she has not yet completed major architectural glasswork projects. Large commissions intimidate her, and she sometimes struggles with the planning and scheduling such projects require.
+: She excels at small pieces and moderate windows but has not finished a great one. Large commissions frighten her, and she struggles with the planning they need.
 
 Sensitivity to Criticism
-: While intellectually aware that critique is necessary for growth, she takes criticism personally and can become defensive or paralyzed by it. A negative response to her work can discourage her for weeks.
+: She knows criticism is necessary and takes it personally all the same. A harsh word about her work can stop her for weeks.
 
 Emotional Isolation
-: Her guile and intrigue, while useful in her trade, have made her excellent at maintaining emotional distance. This has prevented meaningful relationships and leaves her chronically lonely, though she rarely admits this.
+: Her skill at keeping her own counsel has kept her from any close bond and leaves her lonely, though she rarely admits it.
 
 Commercial Naïveté
-: Her reasoning, while sufficient for technical matters, leaves her vulnerable to being exploited in business dealings. She sometimes accepts commissions at rates that undervalue her work and struggles with client negotiations.
+: She undervalues her work, takes commissions at poor rates and struggles to bargain with clients.
 
-Lack of Patrons and Institutional Support
-: Unlike more traditional glassworkers who benefit from guild support and established patron networks, her unconventional approach has left her relatively isolated from these networks, making her economically vulnerable.
+Few Patrons
+: The guild's masters on both sides of the quarrel steer commissions away from her, and she has none of the long patronage the established furnace-houses enjoy.
 
 ## Social
 
 ### Patrons
 
 A priest of the [[affiliation-brazemas|Faith of Brazemas]]
-: A reform-minded Priest of Storms who commissioned Eldira to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative priests.
+: A reform-minded Priest of Storms who commissioned windows from her that express the god without picturing him. He is her chief patron and her loudest defender against more conservative priests.
 
-Merchant Collector Lady [[being-oltremalizel|Oltrema Lizelis]]
-: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces for her private manor. She appreciates Eldira's originality and has paid premium prices for original works.
+Lady [[being-oltremalizel|Oltrema Lizelis]]
+: A wealthy widow of [[place-valthari|Valthari]] with refined taste, who has commissioned several great pieces for her manor and pays premium prices for original work.
 
-Artist-Patrons the [Ravencroft Collective]{.name data-type="affiliation"}
-: A loose association of artists, musicians, and intellectual rebels who admire Eldira's work and frequently commission pieces from her. They represent her artistic peer group and provide emotional support for her unconventional approach.
-
-Master Gerdan's Estate
-: Though her mentor passed years ago, his will established a small trust specifically to commission an annual work from Eldira, giving her both financial stability and continuity of their artistic relationship.
+Master Gerdan's estate
+: Her master's will left a small sum to commission one work from her every year, which gives her a little security and keeps faith with their work together.
 
 ### Enemies
 
-Master Glassworker [Helmut Thorne]{.name data-type="being/npc"}
-: A traditionalist of great reputation who views Eldira's work as a corruption of the glassmaker's craft. He has publicly criticized her work, called her a charlatan, and actively encourages clients and institutions to hire more "authentic" traditionalist glassworkers instead. He views her success as a personal threat to the integrity of his life's work.
+[[being-vlmrjthrn|Velmar Gútharen]]
+: The master who speaks for the old plain standard on the bench of the [Glassworkers' Guild of Herthema]{.name data-type="affiliation/guild"}. He calls her work a corruption of the craft and steers clients toward the furnace-houses that keep the standard.
 
-Rival Artisan [Cassian Darkglass]{.name data-type="being/npc"}
-: A younger glassworker who initially studied under Eldira but left her workshop in bitter circumstances, feeling inadequate compared to her natural talents. Cassian has adopted traditional methods specifically to distance himself from her influence and publicly portrays her as a fraud whose novelties are merely abandonment of proper technique.
+[Zekudi Ozkuregi]{.name data-type="being/npc"}
+: A younger glassworker who studied in her furnace-house and left it bitterly, feeling himself outmatched. He has taken up the figured work of the younger masters to put distance between himself and her, and calls her novelties an abandonment of proper technique.
 
 ### Affiliations
 
-the [Glassworkers' Guild of Tarvénia]{.name data-type="affiliation/guild"}
-: Eldira maintains formal membership but exists in uneasy relationship with the organization, which leans conservative and has several times suggested she adopt more traditional practices. She attends meetings sporadically and resists their authority.
-
-the [Ravencroft Artistic Circle]{.name data-type="affiliation"}
-: An informal community of forward-looking artists, philosophers, and others pushing at the bounds of custom, who see Eldira as a key member and a voice for artistic freedom and new work.
+- **[[affiliation-cnclhrthm|Council of Herthema]]**: Eldira is a Freeman of the town, entitled to trade in it and to plead before the council.
+- **The Glassworkers' Guild of Herthema**: She holds a master's place in the guild and sits uneasily in it. She attends its meetings rarely and resists its rulings.
 
 ## Plot Hooks
 

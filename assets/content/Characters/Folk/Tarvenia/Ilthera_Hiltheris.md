@@ -57,7 +57,7 @@ Her rulings are cited in every counting-house. She cannot be hurried and cannot 
 
 ### Weaknesses
 
-She depends on one man's memory. The Reformist Coalition has noticed.
+She depends on one man's memory, and the advocates who want the hall's rolls opened have noticed.
 
 ## Social
 
@@ -71,7 +71,7 @@ None; the Konsezarath names her and she answers to the charter.
 
 ### Enemies
 
-The Reformist Coalition and any house that has lost before her.
+The advocates of the arcade who want the custom written plainly and the hall's rolls opened, and any house that has lost before her.
 
 ### Affiliations
 
@@ -80,5 +80,5 @@ The Reformist Coalition and any house that has lost before her.
 ## Plot Hooks
 
 1. **The impossible contradiction.** Two regulations of the city appear to contradict each other in a case before her. Ilthera asks a party to carry the papers to Hálrikos Bránthira and bring back his answer in his own hand.
-2. **The coalition.** The Reformist Coalition has begun a campaign against Hálrikos. Ilthera asks a party to learn who funds it.
+2. **The first ruling.** The bench must decide whether a seamen's refusal excuses a house that could not sail, and every house in the city will be bound by it. Ilthera asks a party to learn which houses have been visiting Hálrikos Bránthira after dark.
 3. **A struck house.** A house struck from the roll asks Ilthera to rule that its contracts stand. She asks a party to learn who bought the house's debts.

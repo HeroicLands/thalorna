@@ -3,6 +3,7 @@ shortcode: torniskbry
 name: {full: Tornis Kubri, given: Tornis, clan: Kubri, tarv: [Kalen]}
 type: being
 subType: character
+description: "A charming, forgettable scout of the Silent Talon who watches the eastern frontier at Kávrenath for the band."
 tags: [hero, silent-talon, unguilded, soldiery]
 data:
   icon: icon-person
@@ -411,15 +412,17 @@ sohl:
 
 ![[torniskbry|Tornis Kubri]]{float=top-left}
 
-Tornis is a man of thirty with a slender, roguish appearance—fair-skinned, with dark blonde hair and green eyes. His face is the kind that is easy to forget: pleasant, unremarkable, and perfectly suited to a man who makes his living not being noticed. He moves with an easy, unhurried confidence that makes him look like he belongs wherever he happens to be.
+Tornis Kubri is a 33-year-old man of medium build with a slender, roguish look, fair-skinned, with dark blonde hair and green eyes. His face is the kind that is easy to forget: pleasant, unremarkable, and perfectly suited to a man who makes his living not being noticed. He moves with an easy, unhurried confidence that makes him look like he belongs wherever he happens to be.
 
 # Dossier {#dossier}
 
-The man who calls himself Tornis Kubri was born Kalen, a [[lore-tarvenanclt|Tarvenan]] outlaw who spent years operating with a brigand band along the border between [Ibiria]{.name data-type="place"} and the [[place-provenzrgn|Provénzia Region]]. He was skilled in stealth, sabotage, and manipulation—known among his comrades for his cunning and his ability to talk his way out of situations that would get a less charming man killed.
+The man who calls himself Tornis Kubri was born Kalen, a [[lore-tarvenanclt|Tarvenan]] outlaw who spent years with a brigand band in the high valleys of the [[place-westernmrch|Western March]], along the frontier of the [[place-provenzrgn|Provénzia Region]]. He was skilled in stealth, sabotage, and manipulation—known among his comrades for his cunning and his ability to talk his way out of situations that would get a less charming man killed.
 
 That life ended in blood. A betrayal within his group led to a massacre, and Kalen barely escaped with his life. He buried his old name, adopted the alias Tornis, and reinvented himself as a scout and trader—a wanderer who knew the roads, especially the ones people tended to avoid. When [[being-branwldrgr|Branval]] recruited him into [[affiliation-slntlncmpny|the Silent Talon]], it was for exactly the skills his old life had given him: intelligence-gathering, infiltration, and the ability to neutralize threats without drawing attention.
 
 Tornis presents himself as a simple, affable traveler. He is charming, easy to like, and always ready with a self-deprecating joke. Beneath the surface, however, he trusts no one completely and keeps everyone at a calculated distance. His past haunts him, and he is determined never to be caught off guard again.
+
+Tornis keeps a room at [[place-kavrenath|Kávrenath]], where the road comes down from the [[place-kervaron|Kervaron Spine]], and watches the frontier for the band: the smugglers who cross at night by the valley paths, the refugees camped below the town gate, and the imperial deserters who have come over the passes with good armor and a captain of their own, looking for a company to sign with.
 
 Recently, his carefully maintained emotional walls have developed a crack: he has begun developing feelings for [[being-elyseskyrn|Élithe]], and he is not entirely sure what to do about it.
 
@@ -460,7 +463,7 @@ Tornis seeks to distance himself from his past life as a Tarvenan brigand and bu
 
 ## Social
 
-## Companions
+### Companions
 
 [[being-branwldrgr|Branval Dorgal]]
 : Captain of the Silent Talon. Tornis respects Branval's competence and is loyal to him—as loyal as Tornis is capable of being.

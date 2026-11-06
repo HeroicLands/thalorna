@@ -37,7 +37,7 @@ Zédima Zenothis is a 62-year-old woman who stands 5'11" tall with a medium buil
 
 # Dossier {#dossier}
 
-Zédima Zenothis is the mother of [[being-frstrndrvs|Father Ostaran Dorvás]] and the daughter of a well-known scholar. She married [Álvaro Dorvás]{.name data-type="being/npc"}, a knight of the royal guard, and lives in [[place-lezkora|Lezkora]], in the house the guard's widows keep below the plateau wall.
+Zédima Zenothis is the mother of [[being-frstrndrvs|Father Ostaran Dorvás]] and the daughter of a well-known scholar. She married [Korvath Dorvás]{.name data-type="being/npc"}, a knight of the royal guard, and lives in [[place-lezkora|Lezkora]], in the house the guard's widows keep below the plateau wall.
 
 She is the sister of Archbishop [[being-thalurozenot|Thaluro Zenothis]], a kinship neither of them states. She hears the news of both courts from the guard.
 

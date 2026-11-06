@@ -71,7 +71,7 @@ The lords of the older houses with seats in the High Hall.
 
 ### Enemies
 
-Kárenna Graveth and the herald's guild that backs her.
+[[being-carengrvth|Kárenna Graveth]], Herald of the Crown, and the crown's authority behind her.
 
 ### Affiliations
 

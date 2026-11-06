@@ -3,6 +3,7 @@ shortcode: slvrvlskyr
 name: {full: Sélvara Valskir, given: Sélvara, clan: Valskir}
 type: being
 subType: character
+description: "The first mate of the Tamzir, a fisherman's daughter from the coast near Nebralis who has fought beside Zabuzum Jakuduni since she was fourteen."
 tags: [tamzir-crew, tradesfolk]
 data:
   banner: tamzirbnr
@@ -408,7 +409,7 @@ sohl:
 
 ![[slvrvlskyr|Sélvara Valskir]]{float=top-left}
 
-Sélvara Valskir is a striking woman—tall, dark-skinned, and built with the lean, hard muscle of a career soldier. Her brown hair is kept short and practical, and her hazel eyes hold a steady, assessing gaze that has unnerved far larger opponents. She moves with the quiet precision of someone who has spent years navigating both battlefields and heaving ship decks, and her bearing carries an unmistakable military authority. She dresses practically in a leather vest over simple cloth, with a short sword and battleaxe within easy reach. A fine roundshield, battered but well-maintained, hangs from a strap across her back when trouble is expected.
+Sélvara Valskir is a striking 34-year-old woman, tall, dark-skinned and weathered, and built with the lean, hard muscle of a career soldier. Her brown hair is kept short and practical, and her hazel eyes hold a steady, assessing gaze that has unnerved far larger opponents. She moves with the quiet precision of someone who has spent years navigating both battlefields and heaving ship decks, and her bearing carries an unmistakable military authority. She dresses practically in a leather vest over simple cloth, with a short sword and battleaxe within easy reach. A fine roundshield, battered but well-maintained, hangs from a strap across her back when trouble is expected.
 
 # Dossier {#dossier}
 
@@ -416,7 +417,7 @@ Sélvara Valskir is a striking woman—tall, dark-skinned, and built with the le
 
 ### Origin
 
-Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when [[lore-vylarianclt|Vilérian]] imperial forces raided her village searching for [[lore-tarvenanclt|Tarvenan]] rebels. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
+Sélvara was born in a fishing village on the coast near [[place-nebralis|Nebralis]], in [[place-tarvenirgn|Tarvénia]], the daughter of [[lore-tarvenanclt|Tarvenan]] fishermen. Life was hard but stable until she was fourteen, when [[lore-vylarianclt|Vilérian]] imperial marines came ashore and searched her village for Taruzelian rebels. [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
 
 ### The War
 

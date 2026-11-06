@@ -397,7 +397,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Dálena Valaron is a 27-year-old woman who stands 5'9" tall and is slender. She has a long face with defined cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair falls in dark cascades.
+Dálena Valaron is a 27-year-old woman who stands 5'9" tall and is slender. She has a long face with defined cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. Her olive skin is browned by sun and sea, and her dark brown hair falls loose when she is ashore. She walks with the roll of a deck, and a scar runs down her right leg.
 
 # Dossier {#dossier}
 
@@ -435,17 +435,7 @@ The ship-owners' council of Valthari, which sets the crews' share and has heard 
 
 ## Plot Hooks
 
-The Storm Season
-: A merchant house has offered a charter that would clear her house's debts, for a run to [[place-helionis|Helionis]] in the month the pilots of Valthari do not sail.
-
-The Strike
-: The seamen of Valthari have refused to sign until the owners raise the share, and the owners' council has asked Dálena, whose crew is loyal, to sail and break it.
-
-The Debt
-: Her father has borrowed against the ship to hold the lordship, and the lender is a house on the owners' council.
-
-The Cargo
-: A charter's manifest says wine, and the casks are the wrong weight. Dálena is at sea, and the port she is bound for hangs smugglers.
-
-Sworn at the Stone
-: Her father wants to raise the money for his note in the valley itself, by a contract sworn at the stone in the square at [[place-durgalis|Dúrgalis]], and the [[affiliation-cncldrgls|Council of Dúrgalis]] will not swear it until Dálena stands on the steps of the well and tells the assembly plainly what the ship is worth. In that valley the hail comes for a lie.
+1. **The loyal crew.** The seamen of [[place-valthari|Valthari]] refuse to sign until the owners raise the share, and the owners' council has asked Dálena, whose crew would follow her, to sail and break the refusal. She asks a party to learn what the seamen's leaders will do to a ship that sails.
+2. **Her father's note.** Her father has borrowed against the ship to hold the lordship at Dúrgalis, and the lender is a house on the owners' council. Dálena asks a party to find out whether the house means to call the note if she refuses to sail.
+3. **A run in the closed month.** A merchant house has offered a charter that would clear her house's debts, for a run to [[place-helionis|Helionis]] in the month the pilots of Valthari do not sail. Its manifest says wine, and the casks are the wrong weight.
+4. **Sworn at the stone.** Her father wants to raise the money for his note in the valley itself, by a contract sworn at the stone in the square at [[place-durgalis|Dúrgalis]], and the [[affiliation-cncldrgls|Council of Dúrgalis]] will not swear it until Dálena stands on the steps of the well and tells the assembly plainly what the ship is worth. In that valley the hail comes for a lie.

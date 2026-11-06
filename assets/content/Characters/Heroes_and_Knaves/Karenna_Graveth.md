@@ -3,6 +3,7 @@ shortcode: carengrvth
 name: {full: Kárenna Graveth, given: Kárenna, clan: Graveth}
 type: being
 subType: character
+description: "A Herald of the Crown of Tarvénia from Thórgila, a skilled mediator whose ambition and private alliances have given her enemies at court."
 tags: [heroes-and-knaves, guilded, administration]
 data:
   icon: icon-person
@@ -83,7 +84,7 @@ sohl:
     - name: Scrolls of royal announcements
       type: miscgear
       system: {shortcode: scrollsofroyal, weight: 1, value: 100, durability: 3}
-    - name: Family seal (House Graveth)
+    - name: Family seal (Graveth)
       type: miscgear
       system: {shortcode: familyseal, weight: 1, value: 100, durability: 3}
     - name: Silver writing pen
@@ -416,13 +417,13 @@ sohl:
 
 ![[carengrvth|Kárenna Graveth]]{float=top-left}
 
-Kárenna stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, and expressive brows.
+Kárenna Graveth is a 31-year-old woman who stands 6'0" tall and is of light build. She has an oblong face with a prominent nose, a strong jawline, well-defined lips and expressive brows. Her green eyes are quick and warm and miss very little, her olive skin is clear, and her black hair is dressed for court even on the road. She carries her height like a dancer, and her voice reaches the back of a hall without being raised.
 
 # Dossier {#dossier}
 
-Born into [House Graveth]{.name data-type="affiliation/lineage"}, a cadet branch of nobility with connections to the royal court, Kárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
+Born into the Graveth family of [[place-thorgila|Thórgila]], a family of standing that holds no lordship but has long had friends at the High King's court, Kárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
 
-At twenty-four, she achieved full status as a Herald of [[affiliation-kingdmtrvn|Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past seven years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
+At twenty-four, she was named a Herald of the Crown of [[affiliation-kingdmtrvn|Tarvénia]] and attached to the High King's household at [[place-lezkora|Lezkora]], a post of real prestige. For the past seven years, she has been one of the kingdom's principal emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
 
 ## Psyche
 
@@ -434,7 +435,7 @@ Her philosophy is fundamentally pragmatic: the world is better served by agreeme
 
 ### Motivation
 
-Kárenna's driving ambition is the advancement of her house and, by extension, herself. She seeks to become the most trusted advisor to the crown, the herald whose voice carries such weight that her recommendations shape policy. She believes that by positioning House Graveth at the center of court influence, she secures not only her family's prosperity but her own lasting legacy. She also harbors a real, if secondary, commitment to preventing conflict where possible, viewing her diplomatic successes as victories for the realm itself. Recognition and status matter deeply to her; she cultivates the appearance of humble service while actually pursuing power and influence with considerable ambition.
+Kárenna's driving ambition is the advancement of her house and, by extension, herself. She seeks to become the most trusted advisor to the crown, the herald whose voice carries such weight that her recommendations shape policy. She believes that by placing the Graveth name at the center of the court's favor, she secures not only her family's prosperity but her own lasting legacy. She also harbors a real, if secondary, commitment to preventing conflict where possible, viewing her diplomatic successes as victories for the realm itself. Recognition and status matter deeply to her; she cultivates the appearance of humble service while actually pursuing power and influence with considerable ambition.
 
 ### Strengths
 
@@ -481,29 +482,24 @@ Lord [[being-volkemokaldr|Volkemo Kaldris]], Marshal of Lyenrik
 : A powerful lord of the lowland host who has engaged Kárenna's services repeatedly in mediating disputes with the neighboring kingdoms. He views her as a valuable ally.
 
 Lady [[being-hiltheratsol|Hilthera Tsoluregi]], Master of Commerce
-: The crown's chief advisor on trade and mercantile matters has become Kárenna's closest confidant and patron within court, offering guidance on the political currents of the royal household.
+: The king of Lyenrik's chief advisor on trade, a Crown Councilor at Torvaleth, who has become Kárenna's closest confidant and patron among the courts and guides her through the currents of the lowland lords.
 
 ### Enemies
 
 Lord [[being-ervothotholm|Ervotho Tholmaris]], Herald Emeritus
-: The previous chief herald, now retired, views Kárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions to the king and his allies among the older nobility.
+: The previous chief herald, now retired, views Kárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions before the High King and his allies among the older nobility.
 
-[The Canonist Orthodox]{.name data-type="affiliation"}
-: A traditionalist faction among the priesthoods of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] who view Kárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
+The conservative priests
+: Some of the older priests of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] think Kárenna's pragmatic morality improper in a woman who speaks for the crown, and have begun questioning her moral standing from their pulpits.
 
 Merchant-Lord [[being-bedarrekmozk|Bedarrek]]
 : A wealthy and politically connected trader whose interests Kárenna opposed in a recent negotiation, resulting in significant financial loss to his enterprises. He has been quietly gathering evidence of her conflicts of interest and inappropriate relationships, intending to expose her when circumstances allow.
 
 ### Affiliations
 
-[City Heralds' Guild of Tarvénia]{.name data-type="affiliation/guild"}
-: Her primary affiliation and source of authority. She maintains its political interests while advancing her own.
-
-House Graveth
-: Her family house, whose interests she subtly promotes through her position.
-
-The Aureldian Pantheon
-: A devoted follower of the [[affiliation-pozeras|Faith of Pozeras]] (Pozeras the Voyager), she maintains public religious devotion while privately entertaining doubts about institutional faith.
+- **[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]**: Kárenna is of the Gentry and holds the office of Herald of the Crown, which is her source of authority and the protection of her person.
+- **The Graveth family**: Her family, whose interests she quietly promotes through her position.
+- **[[affiliation-pozeras|Faith of Pozeras]]**: She keeps a public devotion to Pozeras the Voyager while privately doubting the priesthoods.
 
 ## Plot Hooks
 

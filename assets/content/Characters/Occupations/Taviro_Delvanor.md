@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Taviro Delvanor is a 21-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
+Taviro Delvanor is a 21-year-old man who stands 6'2" tall and is broad and heavily built. He has an oval face with defined cheekbones, a broad forehead and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. His light skin is reddened and lined by wind and salt, and his dark brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
@@ -431,5 +431,5 @@ Few; he is generally respected, though some see him as overly serious.
 ## Plot Hooks
 
 1. **The share.** The merchant-captain who controls the harbor trade has reduced the crew's share on his ships. Taviro asks a party to learn whether the other captains mean to follow.
-2. **The lean year.** The assembly will decide what is shared in the poor catches, and Taviro is a freeman with a voice. He asks a party to carry his argument to Dorándaro Orthemandis.
+2. **The seamen's voice.** The merchant aldermen of the [[affiliation-cnclnbrls|Council of Nebralis]] want the harbor's matters taken out of the Freemen's Assembly, and Taviro, a freeman with a voice there, asks a party to carry the seamen's argument to [[being-dorandaroort|Dorándaro Orthemandis]] before the assembly meets.
 3. **A berth abroad.** A captain at the quay offers a berth on a ship bound west, and the ship is the one that sells salt outside Durvolka's bay at night.

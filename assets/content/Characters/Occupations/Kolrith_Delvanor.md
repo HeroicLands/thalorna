@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kolrith Delvanor is a 24-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with prominent cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His hooded dark brown eyes sit beneath prominent brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has olive skin with a bronzed complexion. His black hair is cropped short.
+Kolrith Delvanor is a 24-year-old man who stands 5'11" tall and is of medium build. He has an oval face with prominent cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His hooded dark brown eyes sit beneath prominent brows and give him a guarded gaze. He has a strong nose and narrow lips. His olive skin is browned by sun on the water, and his black hair is cropped short.
 
 # Dossier {#dossier}
 
@@ -419,7 +419,7 @@ Fast reflexes, skilled at maneuvers, resourceful in challenging situations.
 
 ## Social
 
-Kolrith is affiliated with the local [Pilots' Guild]{.name data-type="affiliation/guild"}.
+Kolrith is a master of the [Pilots' Guild of Valthari]{.name data-type="affiliation/guild"}, which examines every pilot who works the bar, and holds the city's freedom as a Master of a Trade.
 
 ## Companions
 
@@ -434,5 +434,5 @@ Few; generally well-liked, but some competitors may resent his success.
 ## Plot Hooks
 
 1. **The bar in the storm month.** A merchant house has offered a charter that would clear Kolrith's debts, for a crossing in the month the pilots of [[place-valthari|Valthari]] do not sail. He asks a party to ride with him and see that the cargo is what the manifest says.
-2. **The strike.** The seamen refuse to sign until the owners raise the share, and the owners' council has asked Kolrith to pilot the strike-breaking ship across the bar. He asks a party to learn what the guild will do to him if he agrees.
+2. **The strike-breaker.** The seamen refuse to sign until the owners raise the share, and the owners' council has asked Kolrith to pilot the strike-breaking ship across the bar. He asks a party to learn what the guild will do to him if he agrees.
 3. **A pilot's secret.** The bar has shifted in the night and Kolrith alone knows where. A house offers a fortune for the channel.

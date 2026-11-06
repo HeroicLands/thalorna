@@ -27,7 +27,7 @@ Herthema's trades are old ones, handed down master to apprentice. The glassworke
 The new money of Herthema wants things made faster, cheaper and finer, and the town's old masters will not make them that way.
 
 - **In the furnace-houses**, the younger masters of the [Glassworkers' Guild of Herthema]{.name data-type="affiliation/guild"} make colored and figured glass for the merchants' houses. One of them, trained in [[place-provenzrgn|Provénzia]], is taking the commissions [[being-vlmrjthrn|Velmar Gútharen]] held and calling his work peasant ware, and Velmar has sat on the guild's bench for a decade.
-- **In the shipyards**, the rival shipwright [Tazek the Swift]{.name data-type="being/npc"} builds fast, cheap hulls and spreads the word that Graveth vessels are overpriced relics, and a reform faction among the merchants wants shipbuilding standardized and Dometh Graveth discredited. Dometh's hands have begun to tremble.
+- **In the shipyards**, the rival shipwright [Oztuk Kanarris]{.name data-type="being/npc"} builds fast, cheap hulls and spreads the word that Graveth vessels are overpriced relics, and a reform faction among the merchants wants shipbuilding standardized and Dometh Graveth discredited. Dometh's hands have begun to tremble.
 - **In the temple of [[affiliation-olvenia|Ólvenia]]**, the austere priest [[being-gaimelkorvat|Gaimel Korvathandis]] is agitating for stricter oversight of the temple's work in Herthema. His target is the priest [[being-palnsnrcth|Pálina Sánriseth]], whose work among the poor brings the temple little money and many complications, and whom the common people of Herthema hold close to a saint.
 
 ## Garrison {#garrison}
