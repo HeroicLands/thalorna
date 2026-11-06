@@ -4,7 +4,7 @@ name: {full: Ardalis}
 type: place
 subType: settlement
 description: "The iron town of Asturath, a day's climb below Lezkora on the plateau road, whose forges make the crossbows and blades the mountain companies carry abroad."
-tags: [town, mountain, draft]
+tags: [town, mountain]
 data:
   demonym: null
   lore: []
@@ -16,9 +16,9 @@ data:
 
 Ardalis is the iron town of [[place-asturath|Asturath]], a smoky valley town of five thousand a day's climb below [[place-lezkora|Lezkora]] on the plateau road. Its name is the old mountain word for iron, _ardal_, and the town has never had another trade. When a Tarvenan crossbowman abroad shows off his weapon, the steel bow on it was most likely forged here.
 
-## Arriving
+## Arriving {#arriving}
 
-You smell Ardalis before you see it. The plateau road comes over a shoulder of the hill and drops into a narrow valley of beech woods, and the charcoal smoke lies in the valley bottom on still mornings like a second river. Below it the town runs along both banks of a fast stream: forges at the water's edge, where the stream turns the hammer wheels and the bellows, and stone houses climbing the slopes behind them with their roofs weighted down against the wind off the peaks. Above the town, on the east side of the valley, the iron hill is scarred with the mouths of old workings and the spoil heaps below them.
+Ardalis shows itself first as smoke. The plateau road comes over a shoulder of the hill and drops into a narrow valley of beech woods, and the charcoal smoke lies in the valley bottom on still mornings like a second river. Below it the town runs along both banks of a fast stream: forges at the water's edge, where the stream turns the hammer wheels and the bellows, and stone houses climbing the slopes behind them with their roofs weighted down against the wind off the peaks. Above the town, on the east side of the valley, the iron hill is scarred with the mouths of old workings and the spoil heaps below them.
 
 The road is the town's main street. Everyone going up to Lezkora comes through it—lords, pilgrims, mule trains with grain for the plateau—and every one of them is offered a blade at the first forge they pass.
 
@@ -34,7 +34,7 @@ Ardalis makes three things for the world outside, and makes them well:
 
 The town sells nothing raw. An Ardalis smith will sell a lowland merchant a hundred bows and refuse him a single bar of iron. The rule is the town's oldest, and it is the miners' and the smiths' together: the miners sell their ore only to the forges, the forges buy only from the miners, and the price is fixed each autumn at the stream's edge before witnesses. Merchants from the [[affiliation-kingdmlnrk|Kingdom of Lyenrik]] offer more for the iron than the forges pay, every year, and every year the miners say no.
 
-## Who Rules
+## Who Rules {#who-rules}
 
 Ardalis belongs to the [[affiliation-kngdmstrth|Kingdom of Asturath]], and the iron hill belongs to its king. The king's Warden of the Iron lives in a stone tower above the main forge, and every smelting owes the crown one bloom in ten. The town's own affairs—the price of ore, a quarrel over a gallery, the order of the forges on the stream—go to the assembly of the miners and the smiths, which meets at the stream on the morning after the price is fixed. A matter the assembly cannot settle goes up the road to the Warden, and a matter between the town and a lord goes up the road to the king.
 
@@ -48,6 +48,12 @@ Miners keep an older observance. A gallery in the iron hill is [[affiliation-men
 
 Ardalis feeds Lezkora, or feeds the mules that do. The grain that goes up to the plateau is bought in the lowlands and comes through Ardalis on the road, and the town's carters and muleteers make a steady living on the climb. When the lords of [[place-tarvenirgn|Tarvénia]] come up to elect a High King, every one of them passes through Ardalis with his twelve sworn men, and the forges do a season's trade in a fortnight. An election that runs long makes the town rich.
 
+## The Present {#present}
+
+Ardalis is doing an election's trade before there is an election. The High King, [[being-ularrekgarr|Ularrek Garrundeta]], is old, and the lords of the lowlands have begun sending their men up the road to [[place-lezkora|Lezkora]] one and two at a time. Every one of them comes through Ardalis, and the inns and the forges are busier in spring than they have been since the last king was made.
+
+The same lowland money is pressing on the iron. The merchants of [[affiliation-kingdmlnrk|Lyenrik]] offer more for raw iron than the forges pay, as they do every year, and this year one mining family deep in debt has been offered a price for its ore that no forge can match. The town's oldest rule holds only while every family keeps it. Above the main forge, the Warden of the Iron has begun counting the blooms twice.
+
 ## Hooks
 
 - **The lowland offer.** A Liénriki merchant has offered one mining family a price for its ore that no forge can match, and the family is in debt. The other families have noticed.
@@ -60,3 +66,5 @@ Ardalis feeds Lezkora, or feeds the mules that do. The grain that goes up to the
 - [[place-lezkora|Lezkora]]—the High King's city at the top of the road
 - [[affiliation-kngdmstrth|Kingdom of Asturath]]—the kingdom that holds the iron hill
 - [[affiliation-sacredforge|The Sacred Forge]]—the faith whose fire lights the forges
+- [[scenario-trmsnwrtng|The Terms in Writing]]—a scenario: the terms of the crown copied fair and carried to Lezkora
+- [[scenario-whlhrthbrns|While the Hearth Burns]]—the campaign frame: the season before the next High King is elected

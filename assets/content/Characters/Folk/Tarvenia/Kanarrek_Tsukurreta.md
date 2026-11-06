@@ -54,7 +54,7 @@ His men trust him because he has never signed them to a contract he could not re
 
 ### Weaknesses
 
-He does not know that the valley's steward has borrowed against the pay, and he will not ask a house for help.
+He will not ask a house for help.
 
 ## Social
 
@@ -80,3 +80,8 @@ The house that holds the ship, and any agent who offers passage for the contract
 1. **Three tides gone.** Kanarrek hires a party to find the company a hull and a crew before the day, with a third of the pay to the party.
 2. **The steward's errand.** A man in the valley's colors says the steward went to the Taruzeli Quarter in the spring. Kanarrek asks a party to learn why without letting the company hear.
 3. **The clause.** Kanarrek wants a reader to find the clause on causes beyond the master's control and carry it to the Arbitrators.
+
+:::secret {title="The steward's borrowing"}
+The valley's steward has borrowed against the company's pay through a factor in the Taruzeli Quarter of Valthari, and Kanarrek does not know it.
+
+:::

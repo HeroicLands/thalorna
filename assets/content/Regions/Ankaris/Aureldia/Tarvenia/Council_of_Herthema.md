@@ -4,7 +4,7 @@ name: {full: Council of Herthema}
 type: affiliation
 subType: polity
 description: "The council of merchants and master craftsmen that governs the walled coastal town of Herthema under a First of the Council and keeps its roll of sellswords."
-tags: [draft]
+tags: []
 data:
   templatePriority: null
   demonym: null
@@ -52,7 +52,7 @@ The **Council of Herthema** governs [[place-herthema|Herthema]], a walled town o
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The merchants of the town and the masters of its crafts hold the council's seats, and the council chooses a First of the Council from among them to preside and to speak for the town. It governs Herthema inside its walls and keeps the town's sellswords' roll: a man on the roll may take hire in Herthema lawfully, and a man the Keeper of the Roll strikes from it may not.
+The merchants of the town and the masters of its crafts hold the council's seats, and the council chooses a First of the Council from among them to preside and to speak for the town. The present First is [[being-brazemotholm|Brazemo Tholmaris]], who deals in wine and in the jars that carry it. It governs Herthema inside its walls and keeps the town's sellswords' roll: a man on the roll may take hire in Herthema lawfully, and a man the Keeper of the Roll strikes from it may not.
 
 ## Current Situation {#present}
 

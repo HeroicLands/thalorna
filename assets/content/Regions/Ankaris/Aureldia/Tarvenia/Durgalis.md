@@ -4,7 +4,7 @@ name: {full: Dúrgalis}
 type: place
 subType: settlement
 description: "A castle town of about 3,000 in Tarvénia's hill country, whose castle stands over a square with a well and an oath stone, and whose valley assembly governs the barley farms below it and buys no contract against the hail."
-tags: [castle, town, draft]
+tags: [castle, town]
 data:
   demonym: null
   lore: []

@@ -388,7 +388,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ánira Órseneth is a 26-year-old woman who stands 5'9" tall and is slender. She has an angular face with defined cheekbones, a high forehead, and a square jaw that leads to a firm chin. Her large black eyes sit beneath heavy brows, lending her an expressive gaze. A straight nose and narrow lips complete her features. She has tanned skin with a sun-tanned complexion. Her gray hair is pulled back tightly from her face.
+Ánira Órseneth is a 25-year-old woman who stands 5'9" tall and is slender. She has an angular face with defined cheekbones, a high forehead, and a square jaw that leads to a firm chin. Her large black eyes sit beneath heavy brows, lending her an expressive gaze. A straight nose and narrow lips complete her features. She has tanned skin with a sun-tanned complexion. Her gray hair is pulled back tightly from her face.
 
 # Dossier {#dossier}
 

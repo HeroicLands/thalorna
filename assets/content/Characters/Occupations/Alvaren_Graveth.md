@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Alvaren Graveth is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
+Alvaren Graveth is a 35-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 

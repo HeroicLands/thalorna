@@ -4,7 +4,7 @@ name: {full: Herthema}
 type: place
 subType: settlement
 description: "A walled coastal town of about 4,000 in Tarvénia that breeds sellswords, builds ships and blows plain glass for the wine trade, and whose shipyards, furnace-houses and temple are all quarreling over whether the old standard should give way to the new."
-tags: [town, fortified, draft]
+tags: [town, fortified]
 data:
   demonym: null
   lore: []
@@ -36,7 +36,7 @@ Herthema's walls keep a garrison, and the town keeps a roll of sellswords: a man
 
 ## Government, Faith and Trade {#government-faith-trade}
 
-The [[affiliation-cnclhrthm|Council of Herthema]], the merchants and master craftsmen of the town, governs Herthema and keeps the sellswords' roll. The merchants and minor nobility of the town are the employers of its bodyguards and the buyers of its glass, and its vintners and wine merchants need ware that holds above all.
+The [[affiliation-cnclhrthm|Council of Herthema]], the merchants and master craftsmen of the town, governs Herthema and keeps the sellswords' roll, and its First of the Council is the wine merchant [[being-brazemotholm|Brazemo Tholmaris]]. The merchants and minor nobility of the town are the employers of its bodyguards and the buyers of its glass, and its vintners and wine merchants need ware that holds above all.
 
 The temple of [[affiliation-olvenia|Ólvenia]] is the town's great house of faith. Its priestess-keeper, [[being-thelvaravolk|Thélvara Volkemis]], holds Dometh Graveth's work to be a form of worship and sees that the temple's ships are always commissioned from him. Fishing families seek Pálina Sánriseth's blessing before long voyages, and the wives of absent sailors, widows and women with nowhere else to go know they can come to her.
 

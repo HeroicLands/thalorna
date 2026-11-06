@@ -4,7 +4,7 @@ name: {full: Kaurema, en: [The Black Cliffs]}
 type: place
 subType: feature
 description: "The black sea-cliffs of the Galvaren coast north of Durvolka, eighteen miles of sheer rock with seal rocks and sea-caves at their foot, standing stones along their top, and the drowned ruin the fishing towns call the sunken city beneath them."
-tags: [coast, draft]
+tags: [coast]
 data: {demonym: null, lore: [], parents: [galvaren], population: 0, packFolder: tarvenia}
 ---
 
@@ -29,6 +29,10 @@ The cliff path from Ezkoba runs the length of the top, and it is the only road. 
 ## Dangers
 
 The cliffs kill more people than anything that lives at their foot. A boat in an onshore wind has nowhere to land, the tide runs hard along the reefs, the edge of the heath is undercut in places and gives way without warning, and the fog comes in fast enough to lose a shepherd a hundred yards from the path. The coast also tells of what comes with the fog, the cold lights among the stones that the [[being-vprwsp|vaporwisps]] are blamed for, and of a long dark shape that boats coming home late have seen gliding along the cliff face against the stars.
+
+## Converging Interests {#present}
+
+Three things draw people to the cliffs this year. Twice this autumn a boat has come onto the reefs south of [[place-ezkoba|Ezkoba]] steering on a yellow light that was not the Long Lamp, and what a wreck brings ashore under Kaurema goes to the crown once its crew is counted dead, which is the harbor teller's ruling, and is claimed by the Warden of Wrecks unless it reaches somebody else first. Goods whose owners live to claim them stay theirs. The Long Lamp itself is short of oil, with a month's fuel left and the darkest months to come. And a spring tide in late summer will uncover more of the sunken city than anyone living has seen, and a young man of Ezkoba has a boat ready to go down the stairs.
 
 ## See Also
 

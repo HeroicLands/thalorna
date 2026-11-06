@@ -32,13 +32,17 @@ What Torvaleth's wine market does not take of Enthara's wine goes down to the ri
 
 Half the terraces of Enthara are in debt to one Valthari house or another, and the town is bitter about it. The growers call the advance "the Valthari chain," and they say so in the square in front of the factors, who have heard it before.
 
-## Who Governs
+## Who Governs {#who-rules}
 
-Enthara is held of the king by a lord whose house has held it since the kingdom was founded. The present lord has been under contract with a company in the east for six years, and his wife runs the town in his name: she holds the market charter, sits at the press-house when the vintage comes in, and answers to the crown's bailiff for the dues. Every grower in Enthara knows whose word settles a dispute over a boundary wall, and the documents all carry her husband's name. The crown's share of the vintage is taken at the press-houses in wine, and the lord's at the same time; the factor of a Valthari house is usually standing in the yard while both are measured.
+Enthara is held of the king by a lord whose house has held it since the kingdom was founded. The present lord has been under contract with a company in the east for six years, and his wife, [[being-atsekavolke|Átseka Volkemis]], runs the town in his name: she holds the market charter, sits at the press-house when the vintage comes in, and answers to the crown's bailiff for the dues. Every grower in Enthara knows whose word settles a dispute over a boundary wall, and the documents all carry her husband's name. The crown's share of the vintage is taken at the press-houses in wine, and the lord's at the same time; the factor of a Valthari house is usually standing in the yard while both are measured.
 
 :::secret
 **For the GM:** The lady of Enthara has been quietly buying the debts of the poorest terraces from the Valthari houses at a discount, with money her husband sends home from his contract. If she holds enough of them she can break the advance in Enthara by setting her own price at the next spring, and the Valthari houses that notice it first are already asking who in the town is selling to her.
 :::
+
+## The Present {#present}
+
+The advance came up the hill road this spring as it does every spring, and this year the wine has nowhere to go. The seamen of [[place-valthari|Valthari]] refuse to sign on until the ship-owning houses raise the crew's share, the port's ships lie idle, and the wine that went down to Bruthena by barge waits there and at the port for a hull. The factors still want the vintage the advance bought. The growers say a house that cannot ship the wine it holds has no business buying more of it, and the terraces that owe the most are the ones that cannot refuse.
 
 ## See Also
 

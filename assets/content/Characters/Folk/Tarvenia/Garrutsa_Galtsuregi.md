@@ -3,7 +3,7 @@ shortcode: garrutsagalt
 name: {full: Garrutsa Galtsuregi, en: [Smuggling Magnate Garrutsa]}
 type: being
 subType: npc
-description: A smuggling magnate of Ornetho who has run contraband through the city's gates for decades and bribes the guard to let it pass.
+description: A smuggling magnate of Ornetho, master of the city's largest company of carters, who has run contraband through its gates for decades and wins his seized goods back in the courts.
 tags: []
 data:
   icon: icon-person
@@ -39,7 +39,7 @@ Garrutsa Galtsuregi is a 55-year-old man who stands 5'7" tall with a light build
 
 Garrutsa Galtsuregi is a merchant of questionable legitimacy who has run contraband through the gates of [[place-ronetho|Ornetho]] for decades. He is a Freeman of the kingdom without a rank, and he runs the largest company of carters in the lowland city that is Lyenrik's market and gate to Asturath.
 
-[[being-hldndrgn|Haldena Durgana]] has repeatedly prevented his operations and seized his contraband. He bribes her guard captain, [[being-zekudiorneti|Zekudi Ornetis]], and has offered her a bribe himself.
+[[being-hldndrgn|Haldena Durgana]] has repeatedly prevented his operations and seized his contraband, and his goods come back to him on appeal. He has offered her a bribe himself.
 
 ## Psyche
 
@@ -57,7 +57,7 @@ He knows the shifts of every guard and the weak sections of the wall. The guilds
 
 ### Weaknesses
 
-His reliance on Zekudi is a single point of failure. A persistent guard-captain with an honest tongue could ruin him.
+His trade needs a gate that looks the other way, and a persistent watch commander with an honest tongue could ruin him.
 
 ## Social
 
@@ -81,4 +81,9 @@ Haldena Durgana and any honest watchman.
 
 1. **The escalation.** Garrutsa has offered Haldena Durgana a bribe, and the offer is explicitly disrespectful. He wagers that even someone as incorruptible as she will bend at the right number, and he asks a party to carry the offer.
 2. **The vaults.** Garrutsa has heard that the vaults under the old barracks hold papers worth having. He asks a party to find a way in.
-3. **The carter's wain.** A wain of Garrutsa's was stopped at the north gate, and Zekudi Ornetis let it through. Garrutsa asks a party to find who sent a second wain behind it.
+3. **The carter's wain.** A wain of Garrutsa's was stopped at the north gate and let through, and a second came behind it that was not his. Garrutsa asks a party to find who sent it.
+
+:::secret {title="The captain at the gate"}
+Garrutsa bribes Haldena's guard captain, [[being-zekudiorneti|Zekudi Ornetis]], to let his contraband through the gates, and his whole trade rests on Zekudi. It was Zekudi who let the stopped wain through.
+
+:::

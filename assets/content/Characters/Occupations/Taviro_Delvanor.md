@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Taviro Delvanor is a 22-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
+Taviro Delvanor is a 21-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 

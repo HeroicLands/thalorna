@@ -83,4 +83,5 @@ Anyone who would have the hearth put out early.
 Hurda knows that one of the two High Kings who died on the ledge beside the chair did not fall. The outer stone of the ledge has been scraped again, and she has chained the door.
 
 1. **The chisel.** Hurda asks a party to learn who has been at the ledge's outer stone.
-   :::
+
+:::

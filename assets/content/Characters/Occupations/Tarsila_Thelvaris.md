@@ -404,7 +404,7 @@ Társila's social position is privileged and deeply uncomfortable. She is treate
 
 ### Patrons
 
-**[Estaril Dómivar]{.name data-type="being/npc"}, Warden of the March**—The senior officer commanding the entire Kávrenath frontier sector. Dómivar is Társila's uncle by marriage and respects her abilities, but their dealings as officers are poisoned by the fact that nobody can ever quite believe his endorsements rest on merit. Dómivar desperately wants to see Társila knighted and eventually to command the entire frontier, but fears that doing so will undermine her credibility with the soldiers.
+**[[being-estarildomi|Estaril Dómivar]], Warden of the March**—The senior officer commanding the entire Kávrenath frontier sector. Dómivar is Társila's uncle by marriage and respects her abilities, but their dealings as officers are poisoned by the fact that nobody can ever quite believe his endorsements rest on merit. Dómivar desperately wants to see Társila knighted and eventually to command the entire frontier, but fears that doing so will undermine her credibility with the soldiers.
 
 ### Enemies
 

@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Valaren Álvanar is a 37-year-old man who stands 5'9" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and expressive lips complete his features. He has light skin with an olive-toned complexion. His dark brown hair is kept practical and short.
+Valaren Álvanar is a 36-year-old man who stands 5'9" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and expressive lips complete his features. He has light skin with an olive-toned complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 

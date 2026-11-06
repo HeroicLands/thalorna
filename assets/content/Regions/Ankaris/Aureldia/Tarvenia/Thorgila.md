@@ -4,7 +4,7 @@ name: {full: Thórgila}
 type: place
 subType: settlement
 description: "A hill town of about 2,500 in Tarvénia, with no sea in sight, whose autumn horse fair and its verse-duel set the measure for the fairs of the Thórgila valleys, and whose farms are run by women while their men are away under contract."
-tags: [town, hill, draft]
+tags: [town, hill]
 data:
   demonym: null
   lore: []
@@ -22,7 +22,7 @@ Thórgila is a hill town of about 2,500 in the [[place-tarvenirgn|Tarvénia Regi
 
 Thórgila lives by its farms and its horses. The farms on the slopes above the town are run through the men's long contracts by the women who manage them, and the valleys bring their horses to the autumn horse fair, the _arthauna_, where the races and the trading are the occasion.
 
-The fair has its horse-judge, the _kornazdo_, who reads the horses' teeth and says their ages, and his word settles a sale. He also gives the themes at the fair's verse-duel, the _gortsada_, in which two singers make verse against each other on the spot and the fair judges them by stamping. [[lore-fairverses|The Verses of the Thórgila Fair]] are what the town kept of one such duel, between a woman of the third farm above the town and a crossbowman home from six years under contract, and the valleys sing them at the hearth in winter. The town and the upper farms sing one line of them differently, and both versions are kept.
+The fair has its horse-judge, the _kornazdo_, [[being-thelvarmozk|Thelvar Mozkarreta]], who reads the horses' teeth and says their ages, and his word settles a sale. He also gives the themes at the fair's verse-duel, the _gortsada_, in which two singers make verse against each other on the spot and the fair judges them by stamping. [[lore-fairverses|The Verses of the Thórgila Fair]] are what the town kept of one such duel, between a woman of the third farm above the town and a crossbowman home from six years under contract, and the valleys sing them at the hearth in winter. The town and the upper farms sing one line of them differently, and both versions are kept.
 
 ## Who Rules and Keeps Order {#who-rules}
 

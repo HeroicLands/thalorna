@@ -389,7 +389,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Álmera Desolardran is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with prominent cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A strong nose and full lips complete her features. She has olive-tanned skin with a ruddy complexion. Her dark brown hair is gathered in a practical bun.
+Álmera Desolardran is a 23-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with prominent cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A strong nose and full lips complete her features. She has olive-tanned skin with a ruddy complexion. Her dark brown hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 

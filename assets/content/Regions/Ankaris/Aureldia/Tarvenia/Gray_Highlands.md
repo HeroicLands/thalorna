@@ -36,7 +36,7 @@ The [[affiliation-kngdmstrth|Kingdom of Asturath]] holds the highlands, valley b
 
 ## Current Situation {#present}
 
-The High King of [[affiliation-kingdmtrvn|Tarvénia]] is a man of the highlands. The electing council chose [Ularrek Garrundeta]{.name data-type="being/npc"}, an old lord of the high valleys and one of the king of Asturath's own mountain lords, because each of the greater candidates could block the others, and every lord in the kingdom knows that the High King is old. When he dies the lords meet again at [[place-lezkorahall|the High Hall]] to elect his successor.
+The High King of [[affiliation-kingdmtrvn|Tarvénia]] is a man of the highlands. The electing council chose [[being-ularrekgarr|Ularrek Garrundeta]], an old lord of the high valleys and one of the king of Asturath's own mountain lords, because each of the greater candidates could block the others, and every lord in the kingdom knows that the High King is old. When he dies the lords meet again at [[place-lezkorahall|the High Hall]] to elect his successor.
 
 Each spring the highlands send their young men down to the coast under contract. The cairns on Zurgando grow in the years of a long war abroad and shrink in a peace, and their height in late autumn is the count of the valleys' men still away.
 

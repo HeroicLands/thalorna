@@ -4,7 +4,7 @@ name: {full: Ezkoba}
 type: place
 subType: settlement
 description: "A cliff town of about 2,500 in the one cleft of the Black Cliffs north of Durvolka, which keeps the Long Lamp that brings the boats of the coast home in fog, and whose harbor teller is the senior teller of the Drowned Road."
-tags: [port, village, draft]
+tags: [port, town]
 data:
   demonym: Ezkoban
   lore: []
@@ -30,7 +30,7 @@ The lamp is paid for by the whole coast. Every boat that lands fish anywhere bet
 
 The harbor teller of Ezkoba is the senior teller of the [[affiliation-drownedroad|Drowned Road]] along the whole coast. She lives in the house at the foot of the Long Lamp, and she keeps two rolls there: the roll of Ezkoba's own drowned, and the roll of the drowned of Kaurema, every boat and every man the cliffs have taken from any harbor, read aloud on the [Night of Lanterns]{.name data-type="lore/gathering"} from the top of the tower while the lamp burns behind her. The tellers of the other harbors come to Ezkoba when they disagree, and what the teller of Ezkoba says about a disputed name is what the coast does.
 
-The present teller is [Nelma Ularris]{.name data-type="being/npc"}, a woman of sixty who lost her husband and both her brothers under the cliffs and has kept the roll for twenty-two years. She knows the name of every boat lost on Kaurema in her lifetime and most of those before it, and she knows which of the families who come to her at the Night of Lanterns have lied to her about how their men were lost.
+The present teller is [[being-nelmaular|Nelma Ularris]], a woman of sixty who lost her husband and both her brothers under the cliffs and has kept the roll for twenty-two years. She knows the name of every boat lost on Kaurema in her lifetime and most of those before it, and she knows which of the families who come to her at the Night of Lanterns have lied to her about how their men were lost.
 
 ## Life in the Cleft
 
@@ -40,7 +40,7 @@ The king's reeve at Ezkoba is a shipmaster's younger son sent from Durvolka, and
 
 The passage graves inside the stone ring at the northern end of the cliffs belong to Ezkoba, and every drowned man the sea gives back along Kaurema is carried there along the cliff path, whatever harbor he sailed from. The coast holds that the cliffs keep the men they take, and that the road under Kaurema runs to Ezkoba's ring and not home.
 
-## Trouble in Ezkoba
+## Trouble in Ezkoba {#present}
 
 - **A false light.** Twice this autumn a boat has come onto the reefs south of the town steering on a yellow light that was not the Long Lamp. The keepers swear the lamp was lit, the teller has two new names for the roll, and somebody on the coast has learned that what a wreck under Kaurema brings ashore reaches the Warden of Wrecks only if nobody reaches it first.
 - **The oil fails.** A bad seal year and a crown that is slow to send the oil have left the lamp with a month's fuel and the darkest months still to come. The Keeper of the Lamp needs oil from somewhere, and the only large store on the coast belongs to a Durvolka curing house that is owed money by the crown.

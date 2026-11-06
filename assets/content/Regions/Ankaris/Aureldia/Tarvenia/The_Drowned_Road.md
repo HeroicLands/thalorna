@@ -4,7 +4,7 @@ name: {full: The Drowned Road, en: [The Road]}
 type: affiliation
 subType: spirittradition
 description: "The folk faith of the Galvaren coast: the drowned come home in the fog to the passage graves, a lamp in the seaward window shows them the door, and the harbor tellers keep the roll of everyone the sea has taken."
-tags: [draft]
+tags: []
 data:
   culture: tarvenanclt
   templatePriority: null
@@ -92,6 +92,10 @@ The crown's quarrel with the road is about property. What the sea brings ashore 
 Nobody joins the Drowned Road. A child born on the coast is on it from birth, as one of the shore kin whose house sets a lamp and whose harbor will answer for it, and an incomer belongs once he has a house with a seaward window and a lamp in it. The tellers are confirmed by one another, and the grave-keepers are chosen by their parishes.
 
 The road has one sin, and its name is the wrecker's. A man who shows a false light to bring a boat onto the rocks, or who strips the drowned before the teller has said their names, is struck from the road at the next Night of Lanterns: the teller says his name at the grave door as one the road will never carry in. No house sets a lamp for him, no teller will say his name again, and when he dies no passage grave on the coast takes his body. The coast holds that he wanders the fog forever.
+
+## The Present {#present}
+
+The road's one seniority is failing. [[being-nelmaular|Nelma Ularris]], the teller of [[place-ezkoba|Ezkoba]], is old and ill and has not named who will keep the rolls after her, and two women want the post: a teller's daughter, and a widow who has learned the rolls by heart. The tellers of the other harbors are taking sides, and the choice is also a choice about who is a widow. At [[place-durvolka|Durvolka]] a herring boat whose crew was called in at the last Night of Lanterns has come home through the fog with four of its six aboard, and the passage grave at the top of the Lantern Stair has lost its spider, so three drowned men wait in the teller's cellar for a door that is kept. Under [[place-kaurema|Kaurema]] someone has shown a false light, and the road has a wrecker to find.
 
 ## See Also
 

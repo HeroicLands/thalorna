@@ -53,7 +53,7 @@ The council decides what the city does: the tribute it pays and the terms it ask
 The council is drawn from the dozen or so merchant dynasties that control the city's great trading houses, its [[place-vlthrshpyrds|shipyards]] and its banks. Each of them is written on the Roll of Great Houses, and the head of each house on the roll votes when a seat falls vacant. A seat goes to the House Head who can gather the votes, and seats are fiercely contested: a seat is won by commercial alliance and marriage pact, and occasionally by a discreet assassination that leaves one open.
 
 First of the Council
-: Presides over the council and holds the city's seal for a fixed term. The present First is [Orthema Ikentsis]{.name data-type="being/npc"}, head of a house that ships wine and oil to the Taruzelian ports.
+: Presides over the council and holds the city's seal for a fixed term. The present First is [[being-orthemaiken|Orthema Ikentsis]], head of a house that ships wine and oil to the Taruzelian ports.
 
 Keeper of the Roll
 : Keeps the Roll of Great Houses. A house written onto it can vote; a house struck from it has lost its standing in the city's government, whatever its money.

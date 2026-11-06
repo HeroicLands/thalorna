@@ -51,6 +51,12 @@ The Liénriki are the most settled of the Tarvenans and the most formal. They ar
 
 Lyenrik sends its sons abroad under contract like every other Tarvenan land, and the money they send home is spent on land. A man who comes back from ten years abroad buys a field, and a captain who comes back rich buys a manor.
 
+## Current Situation {#present}
+
+King [[being-zenotholtr|Zenoth Oltris]] means to stand at the next election of a High King, and the lords of the plain have begun sending their men up the road to [[place-lezkora|Lezkora]] one and two at a time. The clerks of the Court of Pleas at [[place-torvaleth|Torvaleth]] have copied the terms of the crown fair, and the lowland lords carry the copies with them.
+
+Down the river the plain's trade waits on the coast. The seamen of [[place-valthari|Valthari]] refuse to sign on until the ship-owning houses raise the crew's share, so the grain and wine that Lyenrik sells to the world lie in the warehouses at [[place-bruthena|Bruthena]] and the port, and the crown's toll at the bridge is taken on loads that go no farther. North of the plain the crown's Master of Commerce, [[being-hiltheratsol|Hilthera Tsoluregi]], has sent a factor into the highlands of [[place-eskarath|Eskarath]] to ask the elders for a toll-road over the pass at [[place-leparrun|Leparrun]].
+
 ## See Also
 
 [[affiliation-kingdmlnrk|Kingdom of Lyenrik]]

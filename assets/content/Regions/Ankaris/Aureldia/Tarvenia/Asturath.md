@@ -43,9 +43,9 @@ The lowlands of Lyenrik lie to the south, and the two kingdoms need each other a
 
 ## Current Situation {#present}
 
-Lezkora holds two courts. The High King of [[affiliation-kingdmtrvn|Tarvénia]], [Ularrek Garrundeta]{.name data-type="being/npc"}, is one of the king of Asturath's own mountain lords, chosen because each of the greater candidates could block the others, and he is old. The king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}, keeps his court in the castle at the north end of the same city, and the lords of the lowlands, whose king means to stand at the next election, have begun sending their men up the road one and two at a time.
+Lezkora holds two courts. The High King of [[affiliation-kingdmtrvn|Tarvénia]], [[being-ularrekgarr|Ularrek Garrundeta]], is one of the king of Asturath's own mountain lords, chosen because each of the greater candidates could block the others, and he is old. The king of Asturath, [[being-alzemozold|Alzemo Zolduregi]], keeps his court in the castle at the north end of the same city, and the lords of the lowlands, whose king means to stand at the next election, have begun sending their men up the road one and two at a time.
 
-At the eastern edge the Warden of the March, [Estaril Dómivar]{.name data-type="being/npc"}, holds the road at Kávrenath. Smugglers go round his gate by the valley paths, imperial deserters come over the passes to sell their swords to the companies, and in a bad year beyond the Kervaron refugees come down the road in hundreds. In the high valleys the companies are abroad under contract, and the cairns on Zurgando count the men still away.
+At the eastern edge the Warden of the March, [[being-estarildomi|Estaril Dómivar]], holds the road at Kávrenath. Smugglers go round his gate by the valley paths, imperial deserters come over the passes to sell their swords to the companies, and in a bad year beyond the Kervaron refugees come down the road in hundreds. In the high valleys the companies are abroad under contract, and the cairns on Zurgando count the men still away.
 
 ## See Also
 

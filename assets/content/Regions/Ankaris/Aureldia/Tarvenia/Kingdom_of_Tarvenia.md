@@ -93,7 +93,7 @@ Local governance varies wildly. Some territories are ruled by hereditary lords i
 
 ## Current Situation {#present}
 
-The High King is old. The electors chose [Ularrek Garrundeta]{.name data-type="being/npc"}, a lord of Asturath's high valleys, because each of the greater candidates could block the others. He holds his court in the High Hall as the guest of the king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}, and passes through that king's gate. The king of Lyenrik, [Zenoth Oltris]{.name data-type="being/npc"}, means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
+The High King is old. The electors chose [[being-ularrekgarr|Ularrek Garrundeta]], a lord of Asturath's high valleys, because each of the greater candidates could block the others. He holds his court in the High Hall as the guest of the king of Asturath, [[being-alzemozold|Alzemo Zolduregi]], and passes through that king's gate. The king of Lyenrik, [[being-zenotholtr|Zenoth Oltris]], means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
 
 ## The Five Regions
 
@@ -128,7 +128,7 @@ The Tarvenans are deeply skeptical of magic and of the [[affiliation-ordoarcanis
 
 ## Commerce and Currency
 
-Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Tarvénia is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+The Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The kingdom is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## History {#history}
 

@@ -29,7 +29,7 @@ The city is loud and all its tongues talk at once. [[skill-provnzlng|Provenzal]]
 
 ## Politics {#present}
 
-The Konsezarath is drawn from the dozen or so merchant dynasties that control the city's trading houses, [[place-vlthrshpyrds|shipyards]] and banks, and its seats are fiercely contested: Valthari politics is a dance of commercial alliances, marriage pacts and, occasionally, discreet assassination. Its First this term is [Orthema Ikentsis]{.name data-type="being/npc"}, whose house ships wine and oil to the Taruzelian ports. Three quarrels fill the square this season.
+The Konsezarath is drawn from the dozen or so merchant dynasties that control the city's trading houses, [[place-vlthrshpyrds|shipyards]] and banks, and its seats are fiercely contested: Valthari politics is a dance of commercial alliances, marriage pacts and, occasionally, discreet assassination. Its First this term is [[being-orthemaiken|Orthema Ikentsis]], whose house ships wine and oil to the Taruzelian ports. Three quarrels fill the square this season.
 
 - **The charter.** If the High King dies, his successor swears the terms of the crown at [[place-lezkora|Lezkora]], the city's charter among them, and is paid the year's tribute. The council cannot agree whether to pay that and no more or to back the likeliest lord, and every rider up the road from the city is watched.
 - **The share.** The seamen of Valthari refuse to sign on until the ship-owning houses raise the crew's share. The owners' council, the houses that own ships meeting apart, has asked the pilot [[being-dalenavlrn|Dálena Valaron]] to sail with her loyal crew and break the refusal. Her house's own ship is mortgaged to one of those houses ([[place-durgalis|Dúrgalis]]).
@@ -97,3 +97,9 @@ The legions took the southern coast about 140 AF and made Valthari an imperial p
 
 [[affiliation-kngdmstrth|Kingdom of Asturath]]
 : the mountain lords who distrust it
+
+[[scenario-crssbwsndlqy|Crossbows on an Idle Quay]]
+: a scenario: a crossbow company waiting on Valthari's idle quay
+
+[[scenario-whlhrthbrns|While the Hearth Burns]]
+: the campaign frame: the season before the next High King is elected

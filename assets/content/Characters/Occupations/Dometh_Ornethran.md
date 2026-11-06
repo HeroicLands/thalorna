@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Dometh Ornethran is a 36-year-old man who stands 5'9" tall and is of moderate build. He has a square face with sharp cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His piercing amber eyes sit beneath straight brows, lending him a penetrating gaze. An aquiline nose and expressive lips complete his features. He has tanned skin with a weathered complexion. His brown hair is shorn at the sides with length on top.
+Dometh Ornethran is a 35-year-old man who stands 5'9" tall and is of moderate build. He has a square face with sharp cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His piercing amber eyes sit beneath straight brows, lending him a penetrating gaze. An aquiline nose and expressive lips complete his features. He has tanned skin with a weathered complexion. His brown hair is shorn at the sides with length on top.
 
 # Dossier {#dossier}
 

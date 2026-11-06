@@ -21,9 +21,9 @@ data:
 # terran_analog: "The bulk of Spain (including Andorra) and southeastern France up to the southern Alps—a peninsular patchwork of feudal kingdoms, free cities, and contested mountain marches between the Aureldian west and the Vilérian east."
 ---
 
-## Overview
+## Overview {#overview}
 
-Tarvénia lies east of the [[place-provenzrgn|Provénzia Region]] and west of the [[place-vylariargn|Viléria Region]], a land of rugged mountains, rich coastal areas, and fiercely independent peoples. The landscape is as varied as its people—dense forests, golden beaches, and high, windswept peaks are home to small, isolated villages and proud city-states. The Tarvenans trace their lineage back to ancient warrior tribes, and their culture prizes strength, resilience, and an unshakeable sense of freedom.
+Tarvénia is the land of the sellsword and the sworn word: three petty kingdoms, a free city and a free territory under an elected High King, whose crossbow companies serve in armies across [[place-ankrscntnnt|Ankaris]] on contracts they keep to the letter. It lies east of the [[place-provenzrgn|Provénzia Region]] and west of the [[place-vylariargn|Viléria Region]], a land of rugged mountains, rich coastal areas, and fiercely independent peoples. The landscape is as varied as its people—dense forests, golden beaches, and high, windswept peaks are home to small, isolated villages and proud city-states. The Tarvenans trace their lineage back to ancient warrior tribes, and their culture prizes strength, resilience, and an unshakeable sense of freedom.
 
 ## Geography {#the-land}
 
@@ -37,7 +37,7 @@ The climate is dominated by the Vilérian Sea—long, dry summers and mild winte
 
 ## Culture and Society
 
-The Tarvenans are fiercely independent and proud of their heritage. In contrast to the more refined and cultured people of Provénzia, they are known for their strength, resilience, and deeply entrenched sense of personal and communal freedom. Many of the great warriors and military leaders of [[place-ankrscntnnt|Ankaris]] come from Tarvénia, and the region is home to skilled tacticians, mercenaries, and raiders.
+The Tarvenans are fiercely independent and proud of their heritage. In contrast to the more refined and cultured people of Provénzia, they are known for their strength, resilience, and deeply entrenched sense of personal and communal freedom. Many of the great warriors and military leaders of Ankaris come from Tarvénia, and the region is home to skilled tacticians, mercenaries, and raiders.
 
 Politically, Tarvénia is a patchwork of semi-autonomous regions united under the loose authority of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. Three petty kingdoms—[[affiliation-kngdmstrth|Asturath]] (the mountainous heartland), [[affiliation-kngdmglvrn|Galvaren]] (the misty south-western shore), and [[affiliation-kingdmlnrk|Lyenrik]] (the fertile central lowlands)—share power with the [[affiliation-frctyvlthr|Free City of Valthari]] (a merchant port on the southern coast) and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] (an ancient highland people on the Élavendren border). They share a common language and a history of both collaboration and rivalry. The people of Tarvénia are united by their warrior culture and their defiance of outside rule—a trait that has made them difficult subjects for every empire that has tried to conquer them. Even the [[affiliation-vylarinmpr|Vilérian Empire]] at its height struggled to hold Tarvénia: it took the lowlands about 140 AF ([[lore-lowlandstaken|The Lowlands Taken]]), lost a legion in the mountains ([[lore-horngorgebtl|The Horn Gorge]]), and was driven out of the lowlands by the first High King, elected for the purpose ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
 
@@ -63,7 +63,7 @@ Tarvenan sailors and mercenaries are found across the [[place-vylarianse|Viléri
 
 ## Current Situation {#present}
 
-The High King is old. The electing council chose [Ularrek Garrundeta]{.name data-type="being/npc"}, a lord of Asturath's high valleys, because each of the greater candidates could block the others, and he holds his court at [[place-lezkora|Lezkora]] as the guest of the king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}. The king of Lyenrik, [Zenoth Oltris]{.name data-type="being/npc"}, means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
+The High King is old. The electing council chose [[being-ularrekgarr|Ularrek Garrundeta]], a lord of Asturath's high valleys, because each of the greater candidates could block the others, and he holds his court at [[place-lezkora|Lezkora]] as the guest of the king of Asturath, [[being-alzemozold|Alzemo Zolduregi]]. The king of Lyenrik, [[being-zenotholtr|Zenoth Oltris]], means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
 
 On the western frontier the [[lore-summerwar|Summer War]] goes on. The barons of the Western March go down the passes into the Talote every season the snow allows, and Provénzia's walls at [[place-durvalis|Durvalis]] stand on the road they use. On the eastern frontier the Warden of the March at Kávrenath holds the road over the Kervaron against smugglers and imperial deserters, and in a bad year beyond the mountains, against refugees.
 

@@ -4,7 +4,7 @@ name: {full: Ulhera}
 type: place
 subType: settlement
 description: "The cod port at the southern end of Galvaren's coast, a town of about 9,000 at the mouth of a long drowned valley, whose half-decked boats work the Far Grounds for weeks at a time and whose masters chart the open sea."
-tags: [port, town, fishing, draft]
+tags: [port, town, fishing]
 data:
   demonym: Ulheran
   lore: []
@@ -32,7 +32,7 @@ The masters of Ulhera know the open water of the sea better than anyone in [[pla
 
 The king's reeve holds the town for the crown, collects the dues on the catch and keeps the salt store, and he governs very little else. Ulhera is run in practice by its roll of masters, about sixty names written in a book that the reeve keeps and the masters correct. The roll elects two seats at the [Long Table]{.name data-type="affiliation/governmental"} in Durvolka each autumn, and it settles the town's own quarrels in the masters' room above the salt store: a net fouled on another boat's line, a crew-man who left one master for another in the middle of a season, a share disputed after a death.
 
-The present first master of the roll is [Korvath Thaluris]{.name data-type="being/npc"}, who has sailed thirty seasons, holds one of the town's seats at the Long Table and has been beyond the Far Grounds three times. He is the loudest voice at the Table against the crown's price for salt, and the king's council has learned to let him speak first and briefly.
+The present first master of the roll is [[being-korvaththal|Korvath Thaluris]], who has sailed thirty seasons, holds one of the town's seats at the Long Table and has been beyond the Far Grounds three times. He is the loudest voice at the Table against the crown's price for salt, and the king's council has learned to let him speak first and briefly.
 
 The curing houses are the other power in the town. They lend the masters the money for boats and salt, buy the catch at the quay, dry it, and sell it south. Most are run by women, the widows and daughters of masters, and a curing-house mistress who holds the notes on six boats has more say in Ulhera than most of the masters she has lent to.
 
@@ -42,10 +42,10 @@ Ulhera keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and
 
 The priests of the [[affiliation-brazemas|Faith of Brazemas]] bless the cod boats on the quay before each voyage, each master pays them for it, and each master also carries a smith's hammer in the boat against the fog.
 
-## Trouble in Ulhera
+## Trouble in Ulhera {#present}
 
 - **The book of soundings.** Korvath Thaluris's old rival on the roll has died at sea, and his book of soundings, with the only chart of an island shore he claimed to have found beyond the Far Grounds, has gone missing from his widow's house. A Valthari shipping house has offered a sum for it, and the widow wants it back before anyone can sell it.
-- **The salt runs out.** The autumn salt ship from the south is a month late, the crown's store at Ulhera is empty, and the boats cannot sail without it. The masters want the party to ride to Durvolka and come back with salt, or with a reason the Long Table will believe.
+- **The salt runs out.** The autumn salt ship from the south is a month late, the crown's store at Ulhera is empty, and the boats cannot sail without it. The masters need salt from Durvolka, or a reason the Long Table will believe.
 - **A crew-man on two rolls.** A line-hand signed with one master in spring and went out with another, and the first master's boat sailed short-handed and lost a man. The masters' room must decide whether the line-hand owes the dead man's share to his widow, and the line-hand has friends.
 - **A boat out too long.** A cod boat is in its eleventh month out. The teller will call it in at the Night of Lanterns, and its master's young wife has been seen meeting a man at the drying racks after dark. Her husband's brother wants to know who he is before the roll is read.
 

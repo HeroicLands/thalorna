@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [torvaleth]
-  affiliations: {kingdmlnrk: {rank: 6, office: Crown Councilor}}
+  affiliations: {kingdmlnrk: {rank: 6, office: [Crown Councilor, Master of Commerce]}}
   socialTies: {being-carengrvth: dependent}
   gender: female
   species: humanflk
@@ -75,7 +75,7 @@ Merchants who resent her control of the toll and the harvest fair.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Hilthera holds a seat on the king's council as a Crown Councilor, as a Great Lord.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Hilthera holds the office of Master of Commerce and a seat on the king's council as a Crown Councilor, as a Great Lord.
 
 ## Plot Hooks
 

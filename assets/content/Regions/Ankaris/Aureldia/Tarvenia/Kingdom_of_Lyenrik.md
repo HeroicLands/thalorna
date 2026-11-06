@@ -59,6 +59,8 @@ data:
         Held by a Prince or Princess of Oltris. Holder of the walled city of Ornetho, its gates, tolls and garrison, given by custom to a son or brother of the king.
       Crown Councilor: >-
         Held by a Great Lord. A great lord sworn to the king's council, which advises him on war, on the Roll of Houses and on Lyenrik's claim to the High Kingship.
+      Master of Commerce: >-
+        Held by a Great Lord who sits as a Crown Councilor. Advises the king on the kingdom's trade, its markets and tolls and its dealings with the Free City of Valthari, and keeps factors who carry the crown's business abroad.
       Master of the Pleas: >-
         Held by a Great Lord. President of the Court of Pleas, which hears the cases between the lords of Lyenrik and every appeal from a bailiff's court, and keeper of its plea rolls.
       Keeper of the Roll of Houses: >-
@@ -120,7 +122,7 @@ Lyenrik bore the brunt of Vilérian occupation during the imperial era ([[lore-l
 
 ## The Crown and Its Court
 
-The crown of Lyenrik descends to the king's eldest son, and in default of sons to his nearest male kinsman; a daughter carries a claim to her sons and holds none herself. The house of [Oltris]{.name data-type="affiliation/lineage"} has held it since the kingdom was founded at the Falling Away, and the present king, [Zenoth Oltris]{.name data-type="being/npc"}, keeps his court in the king's hall at [[place-torvaleth|Torvaleth]]. His heir sits in the [Court of Pleas]{.name data-type="affiliation/governmental"} from his sixteenth year, to learn the kingdom's law where the kingdom's lords argue it. His council is made up of the Crown Councilors, a dozen great lords sworn to it, and the question it argues most is the High Kingship of [[affiliation-kingdmtrvn|Tarvénia]]: King Zenoth means to stand when it next falls vacant, and every lord on his council has an opinion on what his support will cost the king.
+The crown of Lyenrik descends to the king's eldest son, and in default of sons to his nearest male kinsman; a daughter carries a claim to her sons and holds none herself. The house of [Oltris]{.name data-type="affiliation/lineage"} has held it since the kingdom was founded at the Falling Away, and the present king, [[being-zenotholtr|Zenoth Oltris]], keeps his court in the king's hall at [[place-torvaleth|Torvaleth]]. His heir sits in the [Court of Pleas]{.name data-type="affiliation/governmental"} from his sixteenth year, to learn the kingdom's law where the kingdom's lords argue it. His council is made up of the Crown Councilors, a dozen great lords sworn to it, one of whom the king names Master of Commerce to keep the kingdom's trade and its dealings with Valthari; the present Master is [[being-hiltheratsol|Hilthera Tsoluregi]]. The question it argues most is the High Kingship of [[affiliation-kingdmtrvn|Tarvénia]]: King Zenoth means to stand when it next falls vacant, and every lord on his council has an opinion on what his support will cost the king.
 
 Lyenrik governs through its courts. The kingdom is divided into sixteen districts, each under a Bailiff who holds its court, raises its watch and answers for its dues. A matter between neighbors goes first to the village and the lord of the manor; a matter the lord cannot settle, or one against the lord, goes to the bailiff's court; and a matter between lords, or an appeal from a bailiff, goes to the Court of Pleas at Torvaleth under the Master of the Pleas. Every one of these courts writes its judgments down, and the plea rolls at Torvaleth hold every case the kingdom has heard. A Liénriki lord who loses a case goes looking in the rolls for an older judgment that would have given it to him, and the _lozo_ (advocate) who knows his way through the rolls lives well in Torvaleth on the search.
 
@@ -144,7 +146,7 @@ On the plain the Towerkeepers keep their beacons lit and take the light-due. The
 
 ## Commerce and Currency
 
-Kingdom of Lyenrik uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Lyenrik is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+The Kingdom of Lyenrik uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The kingdom is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## History {#history}
 

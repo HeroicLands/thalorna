@@ -34,15 +34,21 @@ The iron is worked here. The smiths of Ornetho make most of the crossbows, mail 
 
 Ornetho is also the kingdom's door to the mountains for people. Drovers bring down the lean cattle that the meadows around Torvaleth fatten; Astúrathi second sons come down looking for a company; shepherds bring the flocks down in autumn to winter on the stubble of the plain. The meadow by the river where armed companies camp is the city's busiest ground in spring and autumn, and the inns along it take the mountain trade.
 
-## Who Governs
+## Who Governs {#present}
 
-Ornetho is a royal city, ruled by the crown through the Castellan of Ornetho, who holds the walls, the gates and their tolls, and keeps the garrison. By custom the castellancy goes to a son or a brother of the reigning king, and it is the post a king of Lyenrik gives the kinsman he most wants to keep busy and away from his own court. The castellan's court sits in the old barracks. The guilds govern their own trades and the market's daily business, and the quarrel between the wool hall and the iron hall over who sits nearer the castellan at the feasts is older than anyone now living in either.
+Ornetho is a royal city, ruled by the crown through the Castellan of Ornetho, who holds the walls, the gates and their tolls, and keeps the garrison. By custom the castellancy goes to a son or a brother of the reigning king, and it is the post a king of Lyenrik gives the kinsman he most wants to keep busy and away from his own court. The present castellan is the king's brother, [Hilther Oltris]{.name data-type="being/npc"}, who has held the walls for twelve years. The castellan's court sits in the old barracks. The guilds govern their own trades and the market's daily business, and the quarrel between the wool hall and the iron hall over who sits nearer the castellan at the feasts is older than anyone now living in either.
+
+The gates are the city's quarrel now. The senior watch commander of the gates, [[being-hldndrgn|Haldena Durgana]], has seized the contraband of the carter and smuggler [[being-garrutsagalt|Garrutsa Galtsuregi]] again and again, and every time his goods come back to him on appeal through the courts at [[place-torvaleth|Torvaleth]]. He has offered her a bribe himself, and his carts still come through a gate she does not hold. At the north gate an old knight-errant, [[being-kotsudekanar|Kotsude Kanarris]], watches the companies march out, and asks after a stolen thing he will not describe.
 
 The city's faith keeps a soldier's shape. [[lore-ardavondty|Árdavon]] of gates and oaths has his largest temple of the kingdom at the north gate, built into the wall beside the tower, and every company that marches out through it stops for the priest's blessing on the contract.
 
 :::secret
 **For the GM:** The vaults under the old barracks still hold the archive of the imperial march: the garrison's registers and the records of the Empire's courts, including the lists of the Liénriki lords who took the Empire's offices and those who refused them. The castellans have kept the vaults locked since the occupation ended, and the [Court of Pleas]{.name data-type="affiliation/governmental"} at Torvaleth does not know how much survives. A record from these vaults could raise a house on the [Roll of Houses]{.name data-type="lore"} or ruin one, and several houses would pay a great deal to know what is in them before anyone else does.
 :::
+
+## History {#history}
+
+The Empire built Ornetho after it took the lowlands about 140 AF ([[lore-lowlandstaken|The Lowlands Taken]]), and it was the garrison city of the occupied march for four centuries, the seat from which the Empire governed Lyenrik and watched the mountains. When the lowlands stopped paying and the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]), the new kings of Lyenrik took the city whole, kept the legions' rule of twelve at its gates and turned every tower of the chain but the north gate's to face the coast. The castellancy has gone to a son or a brother of the king since the kingdom was founded.
 
 ## See Also
 

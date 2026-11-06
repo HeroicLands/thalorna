@@ -27,3 +27,9 @@ The Biltzarrath has met in the high meadow for as long as the clans' custom reac
 
 [[place-eskarath|Eskarath]]
 : the highlands it lies in
+
+[[scenario-gftfrldrs|A Gift for the Elders]]
+: a scenario: a factor's gift and a toll-road over Leparrun's pass
+
+[[scenario-whlhrthbrns|While the Hearth Burns]]
+: the campaign frame: the season before the next High King is elected

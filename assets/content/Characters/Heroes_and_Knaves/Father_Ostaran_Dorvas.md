@@ -514,7 +514,7 @@ Lord Nizel Ganotis
 : A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Nizel sees Ostaran’s investigation as a direct threat to his power. Lord Nizel will use every means at his disposal—bribery, manipulation, and even violence—to stop Ostaran from uncovering the full extent of his crimes.
 
 Lady [[being-zenothaulmis|Zenotha Ulmis]]
-: A shrewd noblewoman who plays a dangerous political game, Lady Zenotha publicly supports the Árdavonian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Ostaran as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
+: A shrewd noblewoman of Lezkora who publicly supports the Árdavonian faith and is welcome at both of the city's courts. Ostaran counts her among those at court who would see his inquiry stopped, and the rumors against him there move through her circle.
 
 ### Affiliations
 

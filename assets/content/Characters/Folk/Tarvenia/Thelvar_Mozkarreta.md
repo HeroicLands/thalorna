@@ -38,7 +38,7 @@ Thelvar Mozkarreta is a 56-year-old man who stands 5'7" tall and is of light bui
 
 Thelvar Mozkarreta is the horse-judge, the _kornazdo_, of [[place-thorgila|Thórgila]]. At the autumn horse fair he reads each horse's teeth and says its age and soundness, and his word settles the sale. At the fair's verse-duel, the _gortsada_, he gives each bout its theme, its parts and its vowel, and says which way the fair's stamping went. The fair has judged between him and a lord before, and Thelvar has never been overruled.
 
-He is a Freeman of the [[affiliation-cnclthrgl|Council of Thórgila]] who has been bought and sold horses all his life and has never kept one. A sale is sworn at the oath stone, and a seller is held to the word he gave there, so a horse-judge who is wrong is wrong before the whole fair.
+He is a Freeman of the [[affiliation-cnclthrgl|Council of Thórgila]] who has bought and sold horses all his life and has never kept one. A sale is sworn at the oath stone, and a seller is held to the word he gave there, so a horse-judge who is wrong is wrong before the whole fair.
 
 ## Psyche
 

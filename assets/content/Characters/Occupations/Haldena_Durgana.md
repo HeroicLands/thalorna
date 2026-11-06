@@ -370,15 +370,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Haldena is a tall woman—6'0"—with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting—bright and sharp beneath sun-darkened brows—and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears [[place-ronetho|Ornetho]] gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
+Haldena is a tall woman—6'0"—with a medium build that has been hardened by twenty years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting—bright and sharp beneath sun-darkened brows—and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears [[place-ronetho|Ornetho]] gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
 
 # Dossier {#dossier}
 
-Haldena was born in the city of [[place-ronetho|Ornetho]] to a family of gate keepers—her father managed the southern gates for thirty years, and his father before him. The position is not particularly prestigious but requires the kind of attention to detail and integrity that few people maintain. Haldena inherited both the job and the work ethic. She joined the gate watch formally at nineteen and has served there for twenty-one years.
+Haldena was born in the city of [[place-ronetho|Ornetho]] to a family of gate keepers—her father managed the southern gates for thirty years, and his father before him. The position is not particularly prestigious but requires the kind of attention to detail and integrity that few people maintain. Haldena inherited both the job and the work ethic. She joined the gate watch formally at nineteen and has served there for twenty years.
 
 The work of the gate watch is different from street patrol. It requires the ability to make snap judgments about people crossing the gates—determining whether they represent threat, whether they are attempting to smuggle contraband, whether their papers are authentic. Haldena developed an uncanny ability to read people and detect deception. The other guards say she can smell lies, though the truth is less mystical: she notices the flicker of a face, inconsistencies in stories, the physical signs of nervousness or concealment.
 
-At forty years old, she is the senior watch commander for the Ornetho gates and has trained most of the younger guards in current service. She is missing a tooth from a smuggler's elbow during a confrontation years ago—a physical reminder that gate work can become violent. She has not smiled broadly since the incident, a change born more from self-consciousness than pain.
+At thirty-nine, she is the senior watch commander for the Ornetho gates and has trained most of the younger guards in current service. She is missing a tooth from a smuggler's elbow during a confrontation years ago—a physical reminder that gate work can become violent. She has not smiled broadly since the incident, a change born more from self-consciousness than pain.
 
 ## Psyche
 
@@ -411,5 +411,5 @@ Haldena is respected and feared alike. She has few friends outside her work fami
 ## Plot Hooks
 
 1. **The separatist wain.** Haldena detects a significant smuggling operation coming through the gates: weapons destined for a faction she later learns is separatist. She asks a party to carry her evidence to the castellan's court and bring back his answer.
-2. **The traitor in her ranks.** [[being-zekudiorneti|Zekudi Ornetis]], her guard captain, has been accepting bribes from [[being-garrutsagalt|Garrutsa Galtsuregi]]. Haldena asks a party to watch his shift before she names him.
+2. **The traitor in her ranks.** Haldena suspects that one of her own captains takes money from [[being-garrutsagalt|Garrutsa Galtsuregi]], and she asks a party to watch the gate shifts before she names anyone.
 3. **The castellan's request.** Castellan Hilther approaches Haldena privately with a request to let one man through the gate without inspection. She asks a party to learn who the man is.

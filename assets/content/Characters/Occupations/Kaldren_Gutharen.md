@@ -399,7 +399,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kaldrén Gútharen is a 38-year-old man who stands 6'1" tall and is of moderate build. He has a long face with wide-set cheekbones, a lined forehead, and a square jaw that leads to a square chin. His hooded gray eyes sit beneath heavy brows, lending him a guarded gaze. An aquiline nose and firm lips complete his features. He has olive skin with an olive-toned complexion. His chestnut hair is shorn at the sides with length on top.
+Kaldrén Gútharen is a 37-year-old man who stands 6'1" tall and is of moderate build. He has a long face with wide-set cheekbones, a lined forehead, and a square jaw that leads to a square chin. His hooded gray eyes sit beneath heavy brows, lending him a guarded gaze. An aquiline nose and firm lips complete his features. He has olive skin with an olive-toned complexion. His chestnut hair is shorn at the sides with length on top.
 
 # Dossier {#dossier}
 

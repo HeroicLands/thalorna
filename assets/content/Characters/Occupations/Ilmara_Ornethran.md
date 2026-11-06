@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilmara Ornethran is a 48-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a narrow forehead, and a strong jaw that leads to a prominent chin. Her hooded brown eyes sit beneath straight brows, lending her a guarded gaze. A strong nose and narrow lips complete her features. She has dark skin with a weathered complexion. Her brown hair is pulled back tightly from her face.
+Ilmara Ornethran is a 47-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a narrow forehead, and a strong jaw that leads to a prominent chin. Her hooded brown eyes sit beneath straight brows, lending her a guarded gaze. A strong nose and narrow lips complete her features. She has dark skin with a weathered complexion. Her brown hair is pulled back tightly from her face.
 
 # Dossier {#dossier}
 

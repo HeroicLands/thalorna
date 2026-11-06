@@ -4,7 +4,7 @@ name: {full: Nebralis}
 type: place
 subType: settlement
 description: "A port town of about 6,000 on Tarvénia's coast, growing rich on its harbor, where the merchant houses that control the harbor trade are taking hold of the council while the fishing families, the farms above the town and their priestess keep the Freemen's Assembly."
-tags: [port, town, draft]
+tags: [port, town]
 data:
   demonym: null
   lore: []
@@ -34,7 +34,7 @@ The priestess [[being-alethraornet|Alethra Ornetis]] of [[affiliation-lizelas|Li
 
 The merchant houses are consolidating their hold on Nebralis, and the old arrangements are giving way under them one by one.
 
-- **The harbor.** A merchant-captain's family has been gathering the harbor trade into its own hands, and he works quietly to undermine Alethra Ornetis, whose standing with the common people stands in the way of the changes he wants.
+- **The harbor.** The family of the merchant-captain [[being-gulmalenothel|Gulmaleno Thelvaris]], the First of the Council, has been gathering the harbor trade into its own hands, and he works quietly to undermine Alethra Ornetis, whose standing with the common people stands in the way of the changes he wants.
 - **The temple.** A bishop of the formal priesthood, [[being-ornethoilthe|Ornetho Iltheris]], visited Nebralis and was scandalized by Alethra's unstructured way with her duties. He has recommended that she be placed under closer oversight and her temple's funding redirected to formally trained clergy, and the merchant leaders who find her mediation slower than a magistrate's would welcome it.
 - **The guild.** The older teamsters have proposed at their guild that a seat may not pass to a daughter, and the vote is next month. If it carries, the teamster [[being-estrsnrcth|Estara Sánriseth]] loses the seat she took on her father's death, her license and the harbor work together.
 - **The notes.** The lord of the manor beside Alvarik Árenthar's land disputes his boundary and his water-course, and the lord's steward has bought Alvarik's notes from the Nebralis moneylender. They fall due after harvest.

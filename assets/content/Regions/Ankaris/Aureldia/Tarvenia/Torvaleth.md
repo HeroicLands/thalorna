@@ -20,6 +20,10 @@ You smell Torvaleth before you see it. The road down the [Thalsira]{.name data-t
 
 It is a brick town. The Thalsira carries a red clay down from the hills, and the brickworks along the riverbank have been firing it into _paltho_ (bricks) for as long as there has been a market here, so the walls, the granaries, the houses and the king's hall are all the same dull red, and the dust that blows off the brickyards in a dry summer turns every cart and every hem the same color. A Torvaleth carter carries the red on his boots wherever in the kingdom he drives.
 
+## Politics {#present}
+
+King [[being-zenotholtr|Zenoth Oltris]] means to stand at the next election of a High King of [[affiliation-kingdmtrvn|Tarvénia]], and the town is where his claim is written. The clerks of the Court of Pleas have copied the terms of the crown fair, and the lowland lords who climb to [[place-lezkora|Lezkora]] carry the copies; one clerk who copied them has climbed after them to swear to what she wrote. His council argues what each lord's support will cost, the Master of Commerce, [[being-hiltheratsol|Hilthera Tsoluregi]], is looking for a northern road to a market Valthari does not set the price of, and the Keeper of the Roll of Houses hears the claims of houses that want a higher place before the king needs their voices.
+
 ## The Ford and the Market
 
 Torvaleth is older than the kingdom that rules from it. The ford was a market before the legions came, a place where the herdsmen of the hills brought their cattle down to meet the grain farmers of the plain, and it stayed one through the occupation ([[lore-lowlandstaken|The Lowlands Taken]]). The [[affiliation-vylarinmpr|Vilérian Empire]] governed the march from behind the stone walls of Ornetho and let the market at the ford go on paying. When the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]), the lords of the lowlands chose a king, and the king set his hall among the fields that fed him, at the ford.
@@ -40,7 +44,7 @@ The fair has its own officer, the Master of the Fair, who keeps its peace and it
 
 ## The King's Hall
 
-On the rise above the ford stands the _harka_ (king's hall) of the kings of Lyenrik, a long red-brick hall with a squat tower at each end, a dry ditch and no keep. [Zenoth Oltris]{.name data-type="being/npc"}, King of Lyenrik, keeps his court in it, and its lower chamber is the seat of the [Court of Pleas]{.name data-type="affiliation/governmental"}, where the cases between the lords of the kingdom are heard and where every appeal from a bailiff's court in Lyenrik ends.
+On the rise above the ford stands the _harka_ (king's hall) of the kings of Lyenrik, a long red-brick hall with a squat tower at each end, a dry ditch and no keep. [[being-zenotholtr|Zenoth Oltris]], King of Lyenrik, keeps his court in it, and its lower chamber is the seat of the [Court of Pleas]{.name data-type="affiliation/governmental"}, where the cases between the lords of the kingdom are heard and where every appeal from a bailiff's court in Lyenrik ends.
 
 The Court of Pleas writes everything down. Its clerks keep the plea rolls, which record every case it has heard since the kingdom was founded, and the [Roll of Houses]{.name data-type="lore"}, the written order of precedence of every noble house of Lyenrik, is kept in the same chamber under its own keeper. The habit is a legacy of the Empire, whose courts decided the lowland lords' disputes for four centuries, and the mountain lords mock it: a Tarvenan swears on a stone, and a Liénriki lord, they say, swears on a stone and then sends for a clerk. In Torvaleth the clerks are the busiest men at court, and a lord who wants a better place on the Roll of Houses spends years and a great deal of money finding a record that puts one there.
 
@@ -51,6 +55,10 @@ Most of Torvaleth's people work the trades the markets feed: drovers, butchers, 
 Order in the streets is the neighbors' first and the crown's second. A shopkeeper whose stall is broken into in the night goes to the guild of his trade and to the men of his street, who usually know whose son it was; if they cannot settle it he goes to the bailiff's watch at the market gate, and only a matter worth a written plea goes up the hill. Torvaleth's walls are low, built of brick after the occupation, and the town has long since spread past them along the river; its real defense is the chain of watchtowers along the Thalsira, of which the tower over the river gate is one, and the host the king can raise from the richest farmland in the west.
 
 The town's faith is the plain's. The temple of Lusinia stands at the ford beside the bridge-foot; [[lore-ardavondty|Árdavon]] of gates and oaths has his shrine at the east gate, where the cattle come in and the oaths of sale are sworn; and the brickmakers keep the hearth festival of [[affiliation-sacredforge|the Sacred Forge]] with their kilns.
+
+## History {#history}
+
+The ford was a market before the legions came, where the herdsmen of the hills met the grain farmers of the plain, and it went on paying through the occupation while the Empire governed the march from [[place-ronetho|Ornetho]] ([[lore-lowlandstaken|The Lowlands Taken]]). When the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]), the lords of the lowlands chose a king of the house of Oltris, who set his hall on the rise above the ford, and the Court of Pleas has kept its rolls there from the kingdom's founding. The brick walls were raised after the occupation, and the town has since outgrown them along the river. From about 605 AF the kings and lords of Lyenrik have contested the High Kingship of Tarvénia, and Torvaleth has been the seat of that claim at every election since.
 
 ## See Also
 
@@ -71,3 +79,6 @@ The town's faith is the plain's. The temple of Lusinia stands at the ford beside
 
 [[place-valthari|Valthari]]
 : the port that buys the fair's grain and cattle
+
+[[scenario-whlhrthbrns|While the Hearth Burns]]
+: the campaign frame: the season before the next High King is elected

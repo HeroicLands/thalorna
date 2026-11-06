@@ -47,6 +47,12 @@ The coast is crowded with stones older than the Tarveni. Standing stones stand s
 
 The Galváreni are seafarers, fishermen and storytellers, and the Tarvenans of the interior call them dreamers. They speak [[skill-tarvenlng|Tarveni]] in the coast's own way, swallowing their unstressed vowels and softening their clusters, so that the coast's speech is the hardest Tarveni in the kingdoms to follow. They keep the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], above all the [[affiliation-brazemas|Faith of Brazemas]] of storms and the [[affiliation-pozeras|Faith of Pozeras]] of voyages, and they keep the Drowned Road beside them. Galváreni sailors are known across the [[place-vylarianse|Vilérian Sea]] as fearless or foolhardy, and the kingdom produces more than its share of the navigators and sea captains who chart the open water and the islands of the sea.
 
+## Current Situation {#present}
+
+Salt divides the coast this year. The crown of the [[affiliation-kngdmglvrn|Kingdom of Galvaren]] has raised its price for the second year running, and at [[place-durvolka|Durvolka]] the curing-house mistresses of the Strand have begun buying from a ship that anchors outside the bay at night. At [[place-ulhera|Ulhera]] the autumn salt ship is a month late and the boats cannot sail without it, and [[being-korvaththal|Korvath Thaluris]], the first master of Ulhera's roll, is the loudest voice at the Long Table against the price. The Masters' Hall at Durvolka elects in the autumn, and the harbor side of the Table is learning that it can outvote the crown's friends.
+
+Up the coast, the senior teller of the [[affiliation-drownedroad|Drowned Road]] at [[place-ezkoba|Ezkoba]], [[being-nelmaular|Nelma Ularris]], is failing and has not named who will keep the rolls after her, and twice this autumn a boat has come onto the reefs under [[place-kaurema|Kaurema]] steering on a light that was not Ezkoba's lamp.
+
 ## See Also
 
 [[affiliation-kngdmglvrn|Kingdom of Galvaren]]

@@ -39,7 +39,7 @@ Volkemo Kaldris is a 52-year-old man who stands 5'11" tall with a medium build. 
 
 Volkemo Kaldris is the Marshal of Lyenrik, the commander of the king's host, who calls the lords' musters and keeps the roll of the fees that owe the crown service. He holds a province of the crown directly and lives in a town house on the streets below the king's hall at [[place-torvaleth|Torvaleth]].
 
-He has engaged the services of [[being-carengrvth|Kárenna Graveth]] repeatedly in mediating disputes with the neighboring kingdoms. He views her as a valuable ally and, in a relationship carefully concealed, an occasional lover.
+He has engaged the services of [[being-carengrvth|Kárenna Graveth]] repeatedly in mediating disputes with the neighboring kingdoms. He views her as a valuable ally.
 
 ## Psyche
 
@@ -57,7 +57,7 @@ The host is the largest in Tarvénia and he commands it. He has the king's ear.
 
 ### Weaknesses
 
-His lords argue precedence before they argue anything else. His secret liaison is a lever.
+His lords argue precedence before they argue anything else.
 
 ## Social
 
@@ -80,5 +80,11 @@ The younger lords who want his post.
 ## Plot Hooks
 
 1. **The muster.** A muster called at the king's order has produced half the men owed. Volkemo asks a party to learn which lords stayed home.
-2. **The child.** A noblewoman claims to have borne Volkemo a child by Kárenna Graveth, and he wants a party to learn her purpose.
-3. **The marsh toll.** The channel through the salt marsh would bring barges past Bruthena. Volkemo asks a party to learn how the warden of the towers means to answer.
+2. **The marsh toll.** The channel through the salt marsh would bring barges past Bruthena. Volkemo asks a party to learn how the warden of the towers means to answer.
+
+:::secret {title="The herald"}
+In a relationship carefully concealed, [[being-carengrvth|Kárenna Graveth]] is Volkemo's occasional lover, and the liaison is a lever on him.
+
+1. **The child.** A noblewoman claims to have borne Volkemo a child by Kárenna Graveth, and he wants a party to learn her purpose.
+
+:::

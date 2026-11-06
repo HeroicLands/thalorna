@@ -48,3 +48,6 @@ One house is still building. On its slip is a fast hull with long lines and clev
 
 [[affiliation-rusakuni|The Rusakuni]]
 : the Taruzelian house whose lines are copied
+
+[[scenario-crssbwsndlqy|Crossbows on an Idle Quay]]
+: a scenario: a crossbow company waiting on Valthari's idle quay

@@ -422,7 +422,7 @@ Kárenna stands 6'0" tall with a light build. She has warm olive skin, black hai
 
 Born into [House Graveth]{.name data-type="affiliation/lineage"}, a cadet branch of nobility with connections to the royal court, Kárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
 
-At twenty-four, she achieved full status as a Herald of [[affiliation-kingdmtrvn|Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past eight years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
+At twenty-four, she achieved full status as a Herald of [[affiliation-kingdmtrvn|Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past seven years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
 
 ## Psyche
 
@@ -477,8 +477,8 @@ Dependence on Position
 Lord [[being-iltherozedim|Ilthero]] III, a Crown Councilor of Lyenrik
 : The Councilor values Kárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
 
-Duke [[being-volkemokaldr|Volkemo]] of the [Eastern Marches]{.name data-type="place/region"}
-: A powerful regional lord who has engaged Kárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
+Lord [[being-volkemokaldr|Volkemo Kaldris]], Marshal of Lyenrik
+: A powerful lord of the lowland host who has engaged Kárenna's services repeatedly in mediating disputes with the neighboring kingdoms. He views her as a valuable ally.
 
 Lady [[being-hiltheratsol|Hilthera Tsoluregi]], Master of Commerce
 : The crown's chief advisor on trade and mercantile matters has become Kárenna's closest confidant and patron within court, offering guidance on the political currents of the royal household.
@@ -510,3 +510,8 @@ The Aureldian Pantheon
 1. **The herald's house.** The quarrels of the High King's court follow Kárenna home to [[place-thorgila|Thórgila]]. [[being-nizelganotis|Nizel Ganotis]] asks her to carry the court's displeasure to her neighbor, Father Ostaran Dorvás, who is investigating him.
 2. **The merchant's leverage.** [[being-bedarrekmozk|Bedarrek Mozkarreta]] reveals that he holds documented evidence of her conflicts of interest and offers her a choice. She asks a party to learn how he came by it.
 3. **The old herald.** [[being-ervothotholm|Ervotho Tholmaris]] is undermining her authority with the older nobility at Lezkora. She asks a party to carry the crown's word to a lord who will not take it from her.
+
+:::secret {title="The Marshal"}
+Kárenna is the occasional lover of [[being-volkemokaldr|Volkemo Kaldris]], the Marshal of Lyenrik, and the two keep it carefully concealed.
+
+:::

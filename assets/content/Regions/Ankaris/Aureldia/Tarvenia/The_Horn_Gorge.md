@@ -21,11 +21,15 @@ The gorge is a [[lore-bloodfield|blood-field]] made by [[lore-horngorgebtl|the b
 
 The harm is the dream, and the dreams stay with the sleeper for weeks. By day the gorge is a cold, stony cleft with nothing in it.
 
+## Layers {#history}
+
+Before the battle the gorge was a shepherds' cleft, too narrow for a road and used by nobody. About 143 AF the mountain lord [Tórsaro]{.name data-type="being/npc"} let the fourth of the Empire's expeditions into it and closed both ends ([[lore-horngorgebtl|The Battle of the Horn Gorge]]), and the legion died there in two days. The Astúrathi raised their cairn at the upper end, and the Empire struck the legion off its rolls. What is older than the shepherds no story in [[place-asturath|Asturath]] tells.
+
 ## How the Place Is Treated
 
 At the upper end the Astúrathi raised a cairn after the battle. They leave nothing there for the Vilérian dead and something for their own, and the cairn's stones are the ones the legion's baggage lay under. No priest of the [[affiliation-selmoros|Faith of Sélmoros]], which teaches that the [[affiliation-vylarinmpr|Vilérian Empire]]'s dead are judged before the god [[lore-selmorosdty|Sélmoros]], has been asked to settle the field, though the legion's dead were his in its teaching and the rite could reach them. The Astúrathi will not pay to settle an enemy's dead, and the Empire struck the legion off its rolls and has not asked for it since.
 
-## Who Goes
+## Who Goes {#present}
 
 - **Astúrathi shepherds**, by day and never to stay.
 - **Vilérian antiquarians**, who want the legion's name and its standards.

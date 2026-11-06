@@ -49,3 +49,9 @@ In the charter room the Chancellor is having a fair copy of the charter made for
 
 [[affiliation-frctyvlthr|Free City of Valthari]]
 : the city-state whose courts the hall holds
+
+[[scenario-crssbwsndlqy|Crossbows on an Idle Quay]]
+: a scenario: a crossbow company waiting on Valthari's idle quay
+
+[[scenario-whlhrthbrns|While the Hearth Burns]]
+: the campaign frame: the season before the next High King is elected

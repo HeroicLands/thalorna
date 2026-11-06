@@ -4,13 +4,13 @@ name: {full: The High Hall, tarv: [Harka Thelvar]}
 type: place
 subType: structure
 description: "The High King's hall on the lip of the plateau at Lezkora, where the lords of Tarvénia elect a High King, hear him swear the terms and light his hearth from the Sacred Forge."
-tags: [hall, draft]
+tags: [hall]
 data: {demonym: null, lore: [], parents: [lezkora], population: 0, packFolder: tarvenia}
 ---
 
 The High Hall—Harka Thelvar in Tarveni—is the hall of the High King of [[affiliation-kingdmtrvn|Tarvénia]] on the eastern lip of the plateau at [[place-lezkora|Lezkora]]. It is a long building of gray stone with a roof of stone slabs, plain enough that a stranger takes it for a great barn, and it stands so close to the edge that its east wall is the cliff. Every High King since the first has been elected under its roof.
 
-## The Hall
+## The Hall {#inside}
 
 You enter by the west door, which faces the city. The hall is a single room a hundred paces long, lit by narrow windows on the north and south and by a hearth in the middle of the floor, a ring of stones as wide as a cart with a smoke-hole in the roof above it. Benches of black beech run along both long walls, and every lord who has a seat in the hall has his own place on them, carved with his house's mark. At the east end, against the cliff wall, stand the High King's chair and, in front of it, the hall's _goitsa_ (oath stone), a block of dark rock older than the building. A door beside the chair opens on a ledge over the drop, which looks down on [[place-horngorge|the Horn Gorge]] and out across three days' march of mountain country.
 
@@ -26,11 +26,15 @@ The lords sit on their benches, and each stands in turn at the oath stone and na
 
 Between the days of voting the hall is empty and the bargaining goes on in the city. A lord who promises his voice and gives it elsewhere is answered for it before the same lords who heard him promise, and the benches remember.
 
-## Who Goes
+## Who Goes {#who-is-there}
 
-- **The Keeper of the Hall**, who lives in two rooms behind the west door, keeps the benches and the roof and the roll's chest, and opens the hall to the lords.
-- **The High King**, who holds his court and hears the quarrels lords bring him here.
+- **The Keeper of the Hall**, [[being-hurdathol|Hurda Tholmaris]], who lives in two rooms behind the west door, keeps the benches and the roof and the roll's chest, and opens the hall to the lords.
+- **The High King**, [[being-ularrekgarr|Ularrek Garrundeta]], who holds his court and hears the quarrels lords bring him here.
 - **Pilgrims of the Sacred Forge**, who come to see the hearth their temple's fire lit.
+
+## The Present {#present}
+
+The hearth burns, and the hall is quiet. The High King has not come down to it for a month, and the quarrels lords bring him wait. The Keeper keeps the benches ready and the chest of the roll shut. She chained the ledge door beside the chair, and the High King has had the chain taken off. The lowland lords' men are already in the city, and a lowland steward has asked to count the benches before the lords arrive.
 
 :::secret {title="The ledge door"}
 The ledge beside the High King's chair is narrower than it looks from the hall, and its outer edge is loose. Two High Kings have died in falls from it. The chroniclers record both as accidents in the fog, and the Keeper of the Hall knows that one of them was not.
@@ -42,3 +46,5 @@ The ledge beside the High King's chair is narrower than it looks from the hall, 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—the crown and its election
 - [[place-horngorge|The Horn Gorge]]—the gorge below the ledge
 - [[affiliation-sacredforge|The Sacred Forge]]—the faith whose fire lights the hearth
+- [[scenario-trmsnwrtng|The Terms in Writing]]—a scenario: the terms of the crown copied fair and carried to Lezkora
+- [[scenario-whlhrthbrns|While the Hearth Burns]]—the campaign frame: the season before the next High King is elected

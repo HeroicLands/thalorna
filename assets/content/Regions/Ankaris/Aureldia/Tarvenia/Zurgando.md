@@ -4,7 +4,7 @@ name: {full: Zurgando, en: [The Cairn Pass]}
 type: place
 subType: feature
 description: "The high pass at the head of the valleys above Kávrenath, marked by cairns through the autumn fog, where a man going abroad under contract sets a stone and a man coming home takes one."
-tags: [mountain, pass, draft]
+tags: [mountain, pass]
 data: {demonym: null, lore: [], parents: [asturath], population: 0, packFolder: tarvenia}
 ---
 
@@ -35,6 +35,10 @@ The old path down from the saddle along the stream, past every house in the vall
 - **Men of the valleys**, going down under contract in spring and coming home in autumn.
 - **Captains** who know the pass and will take a company over it to save two days on the valley road.
 - **Smugglers**, a few, who want a way to the coast that the fortress at Kávrenath does not watch.
+
+## Converging Interests {#present}
+
+The cairns are the valleys' count of their men still away, and the valleys read them each autumn as the men come home. The fortress at [[place-kavrenath|Kávrenath]] holds the valley road against smugglers and deserters, so the few who want a way to the coast it does not watch use Zurgando, at night and in the fog. On the south side of the saddle the hermit [[being-tholmaozku|Tholma Ozkuregi]] lives in the shepherds' hut, restacks the cairns the wind takes down and keeps both huts in firewood. She knows whose stones are on the topmost cairn and says nothing about them.
 
 :::secret {title="The stones that are never taken"}
 Some stones on the topmost cairn belong to captains who did not come home, and a few belong to captains who did and left them there. A captain who breaks a contract abroad and is struck from every roll in the west may still come home over the pass, and some do, at night and in the fog. The valleys know which stones those are. The stones stay, and nobody in the valley will name the captain who left one.

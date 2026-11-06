@@ -3,7 +3,7 @@ shortcode: korvaththal
 name: {full: Korvath Thaluris, en: [Master Korvath]}
 type: being
 subType: npc
-description: The first master of Ulhera's roll, a Galváreni shipmaster of thirty seasons who has been west of the Far Grounds three times and is the loudest voice at the Long Table against the crown's price for salt.
+description: The first master of Ulhera's roll, a Galváreni shipmaster of thirty seasons who has been beyond the Far Grounds three times and is the loudest voice at the Long Table against the crown's price for salt.
 tags: []
 data:
   icon: icon-person
@@ -37,7 +37,7 @@ Korvath Thaluris is a 48-year-old man who stands 5'8" tall and is broad and heav
 
 # Dossier {#dossier}
 
-Korvath Thaluris is the first master of the roll of [[place-ulhera|Ulhera]], the cod port of Galvaren's south-western shore, and a shipmaster of thirty seasons. He holds one of the town's seats at the Long Table at Durvolka and has been west of the Far Grounds three times, to waters the charts of Valthari leave blank. He keeps his own book of soundings, currents and landmarks in his own shorthand, as every master does, and means to leave it to his heir.
+Korvath Thaluris is the first master of the roll of [[place-ulhera|Ulhera]], the cod port of Galvaren's south-western shore, and a shipmaster of thirty seasons. He holds one of the town's seats at the Long Table at Durvolka and has been beyond the Far Grounds three times, to waters the charts of Valthari leave blank. He keeps his own book of soundings, currents and landmarks in his own shorthand, as every master does, and means to leave it to his heir.
 
 He is the loudest voice at the Table against the crown's price for salt, and the king's council has learned to let him speak first and briefly. Ulhera is run in practice by its roll of masters, about sixty names, and the roll elects two seats at the Table each autumn.
 

@@ -4,7 +4,7 @@ name: {full: Lezkora}
 type: place
 subType: settlement
 description: "The fortress-city on a cliff-walled plateau in Asturath's central mountains, seat of the kings of Asturath and of Tarvénia's elected High King, reached by one road and one gate."
-tags: [city, mountain, draft]
+tags: [city, mountain]
 data:
   demonym: null
   lore: []
@@ -16,11 +16,11 @@ data:
 
 Lezkora is a city of eight thousand on top of a mountain with a flat roof. The plateau it stands on rises out of the central ranges of [[place-asturath|Asturath]] on cliffs a thousand feet high, and one road climbs them to one gate. It is the seat of the kings of the [[affiliation-kngdmstrth|Kingdom of Asturath]] and of the elected High King of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and no army has ever reached the top. Its name comes from _lezkor_ (rock shelter), a word of the old mountain speech.
 
-## The Climb
+## The Climb {#arriving}
 
 The plateau road comes up from [[place-ardalis|Ardalis]], a day's climb below, and meets the cliff on its south face. From there it goes up in switchbacks cut into the rock, wide enough for one loaded mule, with a stone parapet on the outer edge and a guard-niche at every third turn. It takes a laden traveler most of a morning. At the top the road passes through the plateau gate, a tower of gray stone with two gates in it, one behind the other, and between them a yard where a traveler waits while the gate's men look him over. Nobody comes through the outer gate while the inner one is open.
 
-The gate belongs to the kingdom of Asturath. Its keeper is the Warden of the Plateau Gate, a mountain lord who holds the office for life, and the gate's men are his.
+The gate belongs to the kingdom of Asturath. Its keeper is the Warden of the Plateau Gate, a mountain lord who holds the office for life, and the gate's men are his. The present warden is [[being-thelvarougar|Thelvaro Ugarreta]].
 
 ## The Plateau
 
@@ -34,15 +34,19 @@ Lezkora grows almost nothing it eats. Its rye and its flocks feed perhaps a tent
 
 The people of the city are mostly servants of the two courts and the temple, the muleteers and carters of the road, the gate's men and their families, and the craftsmen who serve all of them. They speak the old-fashioned Tarveni of the mountains and are proud of it.
 
-## Two Kings in One City
+## Two Kings in One City {#present}
 
-When the High King is also the king of Asturath, Lezkora has one court and one master. When he is not, the city holds two, and it holds two now. The High King, [Ularrek Garrundeta]{.name data-type="being/npc"}, is an old lord of the high valleys whom the electing council chose because each of the greater candidates could block the others. He holds his court in the High Hall. The king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}, holds his in the castle at the north end, so the High King lives in another king's city, passes through that king's gate and eats bread carried up that king's road.
+When the High King is also the king of Asturath, Lezkora has one court and one master. When he is not, the city holds two, and it holds two now. The High King, [[being-ularrekgarr|Ularrek Garrundeta]], is an old lord of the high valleys whom the electing council chose because each of the greater candidates could block the others. He holds his court in the High Hall. The king of Asturath, [[being-alzemozold|Alzemo Zolduregi]], holds his in the castle at the north end, so the High King lives in another king's city, passes through that king's gate and eats bread carried up that king's road.
 
 The two courts are courteous to each other. The arrangement is old, the High King owes the city nothing beyond the price of what he eats, and the king of Asturath gains from having the crown's court on his plateau. The lords of the lowlands like it less. A High King from Lyenrik lives at Lezkora as the guest of the king of Asturath, and every lord who comes up for an election passes through a gate kept by Asturath's man, with only twelve sworn men behind him.
 
 ## The Defense
 
 The plateau has never been taken, and the city's whole defense is the cliff and the gate. A Vilérian legion that climbed toward it about 143 AF died in the gorge below before it reached the road ([[lore-horngorgebtl|The Battle of the Horn Gorge]]). The Astúrathi say the plateau has stores for a year's siege, and nobody has tested the claim.
+
+## History {#history}
+
+Lezkora is older than anything written about it, and its name is a word of the old mountain speech. The kings of Asturath held it through the occupation, when the legions took the lowlands and left the mountains alone after the [[lore-horngorgebtl|Battle of the Horn Gorge]] about 143 AF. About 540 AF the mountain lords met here to elect [Garvaneth]{.name data-type="being/npc"} of Asturath the first High King ([[lore-tarvfallsawy|Tarvénia Falls Away]]), and every High King since has been elected in [[place-lezkorahall|the High Hall]] on the plateau's lip. The crown has gone to the lords of Lyenrik several times since about 605 AF, and each of those kings lived at Lezkora as the guest of Asturath. The present High King, Ularrek Garrundeta, is an Astúrathi lord who is not Asturath's king, and the city has held two courts since his election.
 
 ## Hooks
 
@@ -58,3 +62,5 @@ The plateau has never been taken, and the city's whole defense is the cliff and 
 - [[affiliation-kngdmstrth|Kingdom of Asturath]]—the kingdom that holds the city and its gate
 - [[place-ardalis|Ardalis]]—the iron town at the foot of the climb
 - [[place-horngorge|The Horn Gorge]]—the gorge below the plateau
+- [[scenario-trmsnwrtng|The Terms in Writing]]—a scenario: the terms of the crown copied fair and carried to Lezkora
+- [[scenario-whlhrthbrns|While the Hearth Burns]]—the campaign frame: the season before the next High King is elected

@@ -85,4 +85,5 @@ The council has told Oltremo to find out whose ship sells salt to Durvolka's cur
 
 1. **The council's question.** Oltremo hires a party to name the ship, and expects it to name another house's.
 2. **The sheds.** A party that counts the salt in his house's sheds finds more than the pans can make.
-   :::
+
+:::

@@ -32,9 +32,17 @@ South and west of the town the marsh runs to the sea: reed beds, mudflats, salt 
 
 The tower watches the marsh as much as the sea. Its beacon is the last link in the chain, and a fire on the tower passes up the river from tower to tower to Ornetho in a single night. A warning every boatman in the marsh gives a stranger: a fire lit on the shore after dark is taken for a signal, and the castle's men come down to the shore to see who lit it, whatever the weather.
 
-## Who Governs
+## History {#history}
 
-Bruthena is a royal town. The castle is the seat of the Warden of the Towers, the royal officer who commands the whole chain of watchtowers from here to Ornetho, and the warden governs the town as castellan, keeps the bridge and its toll, and holds the town court in the castle hall. Each tower of the chain along the river is kept by its own family of towerkeepers, who hold the tower by inheritance and take a measure of grain at harvest from every village in sight of its light. The villages call it the light-due and pay it with the complaint that the light has not been needed for generations, and the towerkeepers answer that it has not been needed because it was kept.
+The legions built the bridge while they held the lowlands ([[lore-lowlandstaken|The Lowlands Taken]]), and the road from the march to the port crossed the Thalsira on it for four centuries. When the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]), the first kings of Lyenrik raised the castle on the south bank to hold the bridge against an empire that might come back by sea, and turned the chain of towers down the river to face the coast with Bruthena at its end. The crown has taken its toll at the bridge since, and the Valthari houses have proposed a channel round it, and been refused, for nearly as long.
+
+## Current Situation {#present}
+
+The toll is the town's quarrel. The Warden of the Towers, [[being-orthemoulmis|Orthemo Ulmis]], keeps it for King [[being-zenotholtr|Zenoth Oltris]], who counts it among the crown's rights over Valthari's trade and means to keep it. The merchant houses of [[place-valthari|Valthari]] pay it on most of what they buy in Lyenrik, and men with poles and lines have been seen again on Valthari's side of the marsh, where a house would begin a channel. In the reed beds the marsh people move goods round the bridge by channels the castle's boats do not know, and a fire lit on the shore after dark brings the castle's men down to the shingle to see who lit it.
+
+## Who Governs {#holder}
+
+Bruthena is a royal town. The castle is the seat of the Warden of the Towers, the royal officer who commands the whole chain of watchtowers from here to Ornetho. The present warden, [[being-orthemoulmis|Orthemo Ulmis]], is a landed lord who keeps the toll roll in his own hand, and he governs the town as castellan, keeps the bridge and its toll, and holds the town court in the castle hall. Each tower of the chain along the river is kept by its own family of towerkeepers, who hold the tower by inheritance and take a measure of grain at harvest from every village in sight of its light. The villages call it the light-due and pay it with the complaint that the light has not been needed for generations, and the towerkeepers answer that it has not been needed because it was kept.
 
 :::secret
 **For the GM:** Some of the light-due is paid twice. A few of the towerkeeping families along the lower river take money from the marsh smugglers, who move Valthari goods and Lyenrik grain through the reed channels to avoid the bridge toll, and on a night agreed beforehand the paid towers keep a particular lamp dark or lit as a signal that the castle's boats are out. The Warden of the Towers suspects one family. There are three.
@@ -56,3 +64,6 @@ Bruthena is a royal town. The castle is the seat of the Warden of the Towers, th
 
 [[place-ronetho|Ornetho]]
 : the city at the head of the watchtower chain
+
+[[scenario-whlhrthbrns|While the Hearth Burns]]
+: the campaign frame: the season before the next High King is elected

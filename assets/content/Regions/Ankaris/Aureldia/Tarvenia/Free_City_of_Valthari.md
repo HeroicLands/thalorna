@@ -140,7 +140,7 @@ The city's charter frees it from the High King's levies, and it keeps its own fo
 
 ## Commerce and Currency {#commerce}
 
-Free City of Valthari uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free City of Valthari is a post-imperial commonwealth member: it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+The Free City of Valthari uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The city is a post-imperial commonwealth member: it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 Wine, olive oil, grain, wool and iron go out through the harbor; spices, silk, luxury goods and coin come in. The city's houses buy most of what [[place-leonrik|Lyenrik]] sells to the world, at prices Valthari sets, and Lyenrik pays the city's harbor dues on every cargo it ships.
 

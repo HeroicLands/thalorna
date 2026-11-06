@@ -4,7 +4,7 @@ name: {full: Durvolka}
 type: place
 subType: settlement
 description: "The harbor capital of Galvaren, a fog-bound fishing port of about 20,000 on a deep south-western bay, where the shipmasters sit at the king's Long Table and the harbor teller keeps the roll of the drowned."
-tags: [port, town, draft]
+tags: [port, town]
 data:
   demonym: Durvolkan
   lore: []
@@ -34,9 +34,9 @@ Durvolka climbs a steep, wet hillside from the water, and it is built of the gra
 
 [The Lyenrik Gate]{.name data-type="place/site"} is the inland quarter at the top of the valley road, where the carts come down from [[place-leonrik|Lyenrik]] with grain, cattle and wine and go back loaded with salt fish. The king's salt-house stands here, beside the cattle market, because every grain of salt the curing houses use is bought from it.
 
-## Who Governs
+## Who Governs {#who-rules}
 
-The king governs the kingdom from the Headland, and the town through his officers. The [Long Table]{.name data-type="affiliation/governmental"}, the royal council, seats the landed lords of the inland valleys on one side and the elected shipmasters of the harbor towns on the other, with the king at its head; Durvolka's three masters sit there with the masters of [[place-ulhera|Ulhera]] and the lesser harbors. The present king is [Ganoth Ervothandis]{.name data-type="being/npc"}, who came to the throne in 712 AF and is a careful man with the crown's money.
+The king governs the kingdom from the Headland, and the town through his officers. The [Long Table]{.name data-type="affiliation/governmental"}, the royal council, seats the landed lords of the inland valleys on one side and the elected shipmasters of the harbor towns on the other, with the king at its head; Durvolka's three masters sit there with the masters of [[place-ulhera|Ulhera]] and the lesser harbors. The present king is [[being-ganothervo|Ganoth Ervothandis]], who came to the throne in 712 AF and is a careful man with the crown's money.
 
 The town has no council of its own. The Warden of the Strand holds the harbor for the king: he collects the dues on every hull and every basket of fish landed, keeps the bell and the harbor mouth, and hears the quarrels of the waterfront at a bench in the fish market every morning the boats are in. A man whose net is cut or whose catch is stolen goes to that bench, and the warden settles it there with the masters of both boats listening. A quarrel between two shipmasters goes to the Masters' Hall first, and to the Long Table only when the hall cannot settle it. A theft in the upper town goes to the warden's officer at the Lyenrik Gate.
 
@@ -52,10 +52,10 @@ The inland road carries what the sea cannot. Lyenrik's grain feeds the town, its
 
 Durvolka keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], and the coast's older custom beside them. The priests of the [[affiliation-brazemas|Faith of Brazemas]] bless the fleet with lamps each spring before the cod boats sail, and a shipmaster family sets up its household shrine to the [[affiliation-pozeras|Faith of Pozeras]] of voyages. The town's dead are buried by the priests of the [[affiliation-selmoros|Faith of Sélmoros]] in the burial ground behind the Lyenrik Gate, all except the drowned. A body the sea gives back is carried up the Lantern Stair to the passage grave, the harbor teller says its name aloud at the door, and the priests do not argue the point in Durvolka, though some of them preach against it elsewhere.
 
-## Trouble in Durvolka
+## Trouble in Durvolka {#present}
 
 - **A boat called in comes home.** The harbor teller called in a herring boat's crew of six at the last [Night of Lanterns]{.name data-type="lore/gathering"}, and their shares and widows have passed under the law. On a foggy morning the boat comes in through the harbor mouth with four of the six aboard, and none of them will say where they have been for nearly two years.
-- **The salt price.** The Keeper of the Salt has raised the crown's price for the second year running, and the curing-house mistresses of the Strand have begun to buy from a Valthari ship that anchors outside the bay at night. The warden wants the smugglers found; the mistresses want the party to make sure he does not find them.
+- **The salt price.** The Keeper of the Salt has raised the crown's price for the second year running, and the curing-house mistresses of the Strand have begun to buy from a Valthari ship that anchors outside the bay at night. The warden wants the smugglers found, and the mistresses mean that he shall not find them.
 - **A seat at the Long Table.** The Masters' Hall elects in autumn, and a shipmaster who lost two boats on the Far Grounds this year is standing for one of Durvolka's three seats against the king's own candidate. Somebody has been paying the herring crews to vote, which is unlawful, and somebody else has been threatening them, which is worse.
 - **The spider in the grave.** The passage grave at the top of the Lantern Stair has lost its spider, and the teller will not say a drowned man in at the door, and the grave-keeper will not carry one, until the door is kept again. Three bodies wait in the teller's cellar, the families are at the door, and the nearest grave with a spider in it is two days' walk up the coast.
 
@@ -78,3 +78,9 @@ Durvolka keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], 
 
 [[place-tarvenirgn|Tarvénia Region]]
 : the enclosing region
+
+[[scenario-nghtshp|The Night Ship]]
+: a scenario: salt sold outside Durvolka's bay at night
+
+[[scenario-whlhrthbrns|While the Hearth Burns]]
+: the campaign frame: the season before the next High King is elected

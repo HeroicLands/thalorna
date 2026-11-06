@@ -60,3 +60,9 @@ The carters who take the salt to Valthari keep an inn at the dune road's end, pl
 
 [[place-tarvenirgn|Tarvénia Region]]
 : the region
+
+[[scenario-nghtshp|The Night Ship]]
+: a scenario: salt sold outside Durvolka's bay at night
+
+[[scenario-whlhrthbrns|While the Hearth Burns]]
+: the campaign frame: the season before the next High King is elected

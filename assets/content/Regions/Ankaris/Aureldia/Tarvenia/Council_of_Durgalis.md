@@ -4,7 +4,7 @@ name: {full: Council of Dúrgalis}
 type: affiliation
 subType: polity
 description: "The assembly of the free men of Dúrgalis and the hill farms under it, which meets in the square under the castle on its assembly day, swears the valley's contracts at the stone and counts the fields the hail took at every autumn fair."
-tags: [draft]
+tags: []
 data:
   templatePriority: null
   demonym: null

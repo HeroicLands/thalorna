@@ -431,7 +431,7 @@ Sir Dalven stands at 6'1", with a broad, muscular build, the result of years of 
 
 # Dossier {#dossier}
 
-Born into a noble family in the [Western Marches]{.name data-type="place/region"}, Sir Dalven was groomed for knighthood from a young age. The youngest son of a prominent house, he was instilled with a strong sense of duty and loyalty to his family and his kingdom. As a squire, he served under a famous knight, learning the ways of chivalry, combat, and leadership. His early years were marked by long campaigns defending the borders of his homeland from invaders, and it was here that he earned his reputation as a skilled warrior and a leader of men.
+Born into a noble family in the [[place-westernmrch|Western Marches]], Sir Dalven was groomed for knighthood from a young age. The youngest son of a prominent house, he was instilled with a strong sense of duty and loyalty to his family and his kingdom. As a squire, he served under a famous knight, learning the ways of chivalry, combat, and leadership. His early years were marked by long campaigns defending the borders of his homeland from invaders, and it was here that he earned his reputation as a skilled warrior and a leader of men.
 
 Over the years, Sir Dalven has fought in numerous battles, defending his kingdom and upholding the chivalric code. Though his elder brothers inherited the family’s lands and titles, Sir Dalven forged his own path through his deeds on the battlefield and his unshakeable loyalty to the knightly order. He is now known throughout the Western Marches as a knight of honor and integrity, a man whose sword is at the service of his people and his king.
 

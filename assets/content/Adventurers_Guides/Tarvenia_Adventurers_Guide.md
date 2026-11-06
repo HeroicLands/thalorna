@@ -4,7 +4,7 @@ name: {full: Tarvénia Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Tarvénia—its kingdoms and free city, its mercenary companies and the public word, and the ways a campaign begins there.
-tags: [draft]
+tags: []
 data: {packFolder: adventurersguides, culture: tarvenanclt}
 ---
 
@@ -24,13 +24,20 @@ Honor is transacted in public. An insult given before witnesses is answered befo
 
 ## Where to Go
 
-Valthari, the richest port, governs itself through the [Konsezarath]{.name data-type="affiliation/governmental"}, a council of merchant houses under a charter bought from the High King, and the mountain lords call it soft. [[place-olvestria|Ólvestra]] is a moneylenders' city behind the [[place-twingate|Twin Gate]], where the [[affiliation-ordrsldwrd|Order of the Sealed Word]] keeps the register of every contested oath and the [[affiliation-twinbldrdr|Twinblade Order]] keeps the gate; it is also where the [[affiliation-ordershnvw|Order of the Ashen Vow]] keeps its largest cell. At [[place-polthamis|Polthamis]] the [[place-grttmplrdvn|Great Temple of Árdavon]] trains priests who are taught law and the sword together. [[affiliation-kngdmglvrn|Galvaren]] on the foggy west coast sends out the largest fishing fleets in the west, [[affiliation-kingdmlnrk|Lyenrik]] holds the richest farmland and the most ambitious lords, and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] keeps a people older than the Tarveni and their own law.
+Valthari, the richest port, governs itself through the [[affiliation-consejarath|Konsezarath]], a council of merchant houses under a charter bought from the High King, and the mountain lords call it soft. [[place-olvestria|Ólvestra]] is a moneylenders' city behind the [[place-twingate|Twin Gate]], where the [[affiliation-ordrsldwrd|Order of the Sealed Word]] keeps the register of every contested oath and the [[affiliation-twinbldrdr|Twinblade Order]] keeps the gate; it is also where the [[affiliation-ordershnvw|Order of the Ashen Vow]] keeps its largest cell. At [[place-polthamis|Polthamis]] the [[place-grttmplrdvn|Great Temple of Árdavon]] trains priests who are taught law and the sword together. [[affiliation-kngdmglvrn|Galvaren]] on the foggy west coast sends out the largest fishing fleets in the west, [[affiliation-kingdmlnrk|Lyenrik]] holds the richest farmland and the most ambitious lords, and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] keeps a people older than the Tarveni and their own law.
 
 The western border with [[place-provenzrgn|Provénzia]] is fought over every summer in raid and counter-raid that neither crown calls a war, and the passes close in winter. In the north, the [[place-toravarrange|Toravar Range]] is [[lore-aelendnppl|Áelendan high country]], and a baron who pushes his herds or his loggers up into it can start a small mountain war.
 
 ## Ways In
 
-A company signs you on for a season abroad, and the employer begins to bend the terms. A widow who has run her husband's holding for six years learns that his captain sold his contract, and she wants the captain found before witnesses. A brother of the Sealed Word needs riders to bring an oath-breaker to a hearing, and the oath-breaker is a baron with friends in the hills around Ólvestra. An Arcane Order factor in Valthari hires guards who will not ask why the town has gone quiet around him.
+- **A company on an idle quay.** A crossbow company from the High King's own valley has sworn you on at its stone, and it waits on Valthari's quay for a ship the striking seamen will not sail, while a day named in its contract passes ([[scenario-crssbwsndlqy|Crossbows on an Idle Quay]]).
+- **Salt at night.** On the [[place-galvaren|Galvaren]] coast a ship sells salt outside [[place-durvolka|Durvolka]]'s bay after dark, and the king, the curing-house mistresses and the Reeve of [[place-threskon|Threskon]] each want it named ([[scenario-nghtshp|The Night Ship]]).
+- **The terms in writing.** Lowland lords are climbing to Lezkora with the terms of the crown copied fair, and a clerk who copied them needs to reach an old king who has not left his rooms in a month ([[scenario-trmsnwrtng|The Terms in Writing]]).
+- **A gift for the elders.** A factor of Lyenrik brings the elders of [[place-ibotsain|Ibotsain]] a gift and asks them for a toll-road over [[place-leparrun|Leparrun]]'s pass ([[scenario-gftfrldrs|A Gift for the Elders]]).
+- **A hearing.** A brother of the Sealed Word needs riders to bring an oath-breaker to a hearing, and the oath-breaker is a baron with friends in the hills around [[place-olvestria|Ólvestra]].
+- **A letter east.** The lady of [[place-enthara|Enthara]], [[being-atsekavolke|Átseka Volkemis]], has run her husband's town for the six years he has served abroad, and she wants a letter carried to him and his answer brought home.
+
+All of these meet in [[scenario-whlhrthbrns|While the Hearth Burns]], the season before the next High King is elected.
 
 ## What the Valleys Sing
 

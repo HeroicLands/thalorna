@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Galver Ornethran is a 46-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a square chin. His piercing brown eyes sit beneath straight brows, lending him a penetrating gaze. A straight nose and narrow lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is tied in a low tail.
+Galver Ornethran is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a square chin. His piercing brown eyes sit beneath straight brows, lending him a penetrating gaze. A straight nose and narrow lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is tied in a low tail.
 
 # Dossier {#dossier}
 

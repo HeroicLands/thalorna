@@ -106,7 +106,7 @@ A mountain lord of Asturath holds a valley because his house has always held it,
 
 The crown passes by blood. The king's heir is his eldest child, and failing children the nearest kinsman of the royal house, but the heir is king only once the council of mountain lords has acknowledged them. Each lord grips the heir's forearm at the council's oath stone and says the ban—that his banner will come when the king calls it—and a lord who does not grip it owes the new king nothing until he does. The council has never refused an heir outright. It has more than once let an heir wait at the stone for a day while the lords settled what the new reign would cost them.
 
-The present king is [Alzemo Zolduregi]{.name data-type="being/npc"}, who holds his court in the castle at the north end of Lezkora.
+The present king is [[being-alzemozold|Alzemo Zolduregi]], who holds his court in the castle at the north end of Lezkora.
 
 ## The Council of Mountain Lords
 
@@ -136,7 +136,7 @@ Invading armies that have ventured into Asturath's mountains have regretted it. 
 
 ## Asturath and the Crown
 
-The High King of Tarvénia is often the king of Asturath, and he is not at present. The electing council chose [Ularrek Garrundeta]{.name data-type="being/npc"}, an old lord of the high valleys, one of the king of Asturath's own mountain lords, because each of the greater candidates could block the others. The High King now holds his court in the High Hall in the king of Asturath's city and passes through the king of Asturath's gate. The two courts are courteous, and every lord in the kingdom knows that the High King is old.
+The High King of Tarvénia is often the king of Asturath, and he is not at present. The electing council chose [[being-ularrekgarr|Ularrek Garrundeta]], an old lord of the high valleys, one of the king of Asturath's own mountain lords, because each of the greater candidates could block the others. The High King now holds his court in the High Hall in the king of Asturath's city and passes through the king of Asturath's gate. The two courts are courteous, and every lord in the kingdom knows that the High King is old.
 
 ## Offices
 

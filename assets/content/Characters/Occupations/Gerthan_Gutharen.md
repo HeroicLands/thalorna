@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Gerthan Gútharen is a 53-year-old man who stands 6'0" tall and is of moderate build. He has a square face with sharp cheekbones, a high forehead, and a square jaw that leads to a firm chin. His sharp hazel eyes sit beneath thick brows, lending him an incisive gaze. A hawkish nose and expressive lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is kept practical and short. A notable feature is laugh lines around the eyes.
+Gerthan Gútharen is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a square face with sharp cheekbones, a high forehead, and a square jaw that leads to a firm chin. His sharp hazel eyes sit beneath thick brows, lending him an incisive gaze. A hawkish nose and expressive lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is kept practical and short. A notable feature is laugh lines around the eyes.
 
 # Dossier {#dossier}
 

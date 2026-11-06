@@ -390,7 +390,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Tórsaro Thalidran is a 29-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a prominent chin. His almond-shaped black eyes sit beneath prominent brows, lending him a measured gaze. A strong nose and thin lips complete his features. He has medium-toned skin with a smooth complexion. His black hair is kept practical and short.
+Tórsaro Thalidran is a 28-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a prominent chin. His almond-shaped black eyes sit beneath prominent brows, lending him a measured gaze. A strong nose and thin lips complete his features. He has medium-toned skin with a smooth complexion. His black hair is kept practical and short.
 
 # Dossier {#dossier}
 
