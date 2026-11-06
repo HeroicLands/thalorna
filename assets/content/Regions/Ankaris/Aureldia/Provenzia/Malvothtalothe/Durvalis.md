@@ -10,6 +10,9 @@ data:
   lore: []
   parents: [talothe]
   population: 4500
+  routes:
+    - {to: grumagando, bearing: E, mode: land, days: 2, terrain: [mountains, road]}
+    - {to: kemthoza, bearing: E, mode: land, days: 3, terrain: [mountains, road]}
   government: kngdmprvnz
   packFolder: provenzia
 ---
@@ -58,3 +61,4 @@ The campaign season is at its height and the town is full. The levy is out along
 
 - [[place-pirnebris|Pirnebris]] · [[place-tiravellake|Lake Tiravel]] · [[place-tarvenirgn|Tarvénia Region]]
 - [[scenario-hndsrdngssn|Hands for the Raiding Season]]
+- [[scenario-greenbough|The Green Bough]]—an adventure: the green bough on trial at the thaw

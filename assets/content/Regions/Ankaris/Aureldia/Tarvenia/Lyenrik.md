@@ -38,7 +38,7 @@ The dangerous season is late spring. When the snow melts in the mountains of Ast
 
 ## The Towers
 
-The chain of watchtowers runs the length of the Thalsira, from the tower over Ornetho's north gate to the castle tower at Bruthena, each within sight of the next and each with a beacon on its roof. The Empire built them to give warning of a rising in the mountains; when the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]) the Liénriki turned them to face the coast, against an empire that might come back by sea. A fire lit at Bruthena passes up the whole chain in a single night.
+The chain of watchtowers, [[place-ithrathorga|Ithrathorga]], runs the length of the Thalsira, from the tower over Ornetho's north gate to the castle tower at Bruthena, each within sight of the next and each with a beacon on its roof. The Empire built them to give warning of a rising in the mountains; when the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]) the Liénriki turned them to face the coast, against an empire that might come back by sea. A fire lit at Bruthena passes up the whole chain in a single night.
 
 Families of towerkeepers hold the towers by inheritance, keep the beacons and the lamps, and take a measure of grain from every village in sight of their light, the light-due. The villages pay it and grumble, and from almost any field in Lyenrik a gray tower stands against the sky.
 
@@ -82,6 +82,9 @@ Down the river the plain's trade waits on the coast. The seamen of [[place-valth
 
 [[place-thornhillmnr|Thornhill Manor]]
 : a hunting manor at the southern end of the plain, near Valthari
+
+[[place-ithrathorga|Ithrathorga]]
+: the chain of watchtowers down the Thalsira
 
 [[lore-lowlandstaken|The Lowlands Taken]]
 : the occupation that walled the towns and raised the towers

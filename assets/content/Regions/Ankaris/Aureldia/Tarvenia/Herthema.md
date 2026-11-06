@@ -32,7 +32,7 @@ The new money of Herthema wants things made faster, cheaper and finer, and the t
 
 ## Garrison {#garrison}
 
-Herthema's walls keep a garrison, and the town keeps a roll of sellswords: a man on the roll may take hire in Herthema lawfully, and a man off it may not. The bodyguard [[being-banrkcrsld|Banrik Káriselda]] is on the roll and belongs to no company, and the bigger bodyguards of the town, who have lost work to him, say a man who cannot lift a shield has no business in the trade.
+Herthema's walls keep a garrison, and the town keeps a roll of sellswords: a man on the roll may take hire in Herthema lawfully, and a man off it may not. [[being-pramizamozk|Prámiza Mozkarreta]]'s crossbow company, [[affiliation-kraveldo|Kraveldo]], fills its ranks from the roll. The bodyguard [[being-banrkcrsld|Banrik Káriselda]] is on the roll and belongs to no company, and the bigger bodyguards of the town, who have lost work to him, say a man who cannot lift a shield has no business in the trade.
 
 ## Government, Faith and Trade {#government-faith-trade}
 

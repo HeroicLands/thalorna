@@ -520,7 +520,7 @@ High Blazewarden [Hadrik]{.name data-type="being/npc"}
 ### Enemies
 
 Sir [[being-nebraloozkur|Nebralo Ozkuregi]]
-: A knight of the [[affiliation-ardavon|Faith of Árdavon]] in the [Order of the Righteous Path]{.name data-type="affiliation/order"}, sworn to protect the weak and uphold justice, Nebralo has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred an Árdavonian outpost, and Nebralo has since sworn to bring him to justice. The two are destined to clash again, as Nebralo sees in Drazhan everything he stands against.
+: A knight of the [[affiliation-ardavon|Faith of Árdavon]] in [[affiliation-twinbldrdr|the Twinblade Order]], sworn to keep Árdavon's thresholds, Nebralo has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred an Árdavonian outpost, and Nebralo has since sworn to bring him to justice. The two are destined to clash again, as Nebralo sees in Drazhan everything he stands against.
 
 Sir [[being-zekaztrosusk|Zekáz Trosuskar]] of Nakarys the Scourge
 : Once a fellow knight of the Blazing Oath, Sir Zekáz turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Zekáz’s defection as the ultimate betrayal and has vowed to hunt him down. However, Zekáz has proven elusive, and members of his order continue to disrupt Servants of Vezhnurikos operations throughout the Desert of Hek'ar.

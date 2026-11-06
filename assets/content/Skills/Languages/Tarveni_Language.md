@@ -5130,7 +5130,41 @@ data:
     - {name: River Warden, tongue: translation}
     - {name: Master of the Fair, tongue: translation}
     - {name: Grumagando, tongue: tarveni, built: [gruma, gando], gloss: the war pass}
+    - {name: The War Pass, tongue: translation}
+    - {name: Legrotherna, tongue: tarveni, built: [legro, therna], gloss: "the legate's roll"}
+    - {name: "The Legate's Roll", tongue: translation}
+    - {name: The Roll of the March, tongue: translation}
     - {name: Kemthoza, tongue: tarveni, built: [kemtho], gloss: the walling}
+    - {name: Thumbalero, tongue: tarveni, built: [thumba, valero], gloss: the forge road}
+    - {name: The Forge Road, tongue: translation}
+    - {name: "The Pilgrims' Path", tongue: translation}
+    - {name: Ithrakemtho, tongue: tarveni, built: [ithra, kemtho], gloss: the lamp wall}
+    - {name: The Lamp Wall, tongue: translation}
+    - {name: The Upper House, tongue: translation}
+    - {name: Hrethumba, tongue: tarveni, built: [hreth, thumba], gloss: the ford forge}
+    - {name: The Ford Forge, tongue: translation}
+    - {name: The Lower House, tongue: translation}
+    - {name: Harkatalor, tongue: tarveni, built: [harka, talor], gloss: the stone hall}
+    - {name: "The King's Castle", tongue: translation}
+    - {name: The Castle of the Kings of Asturath, tongue: translation}
+    - {name: Ithrathorga, tongue: tarveni, built: [ithra, thorga], gloss: the lamp towers}
+    - {name: The Thalsira Towers, tongue: translation}
+    - {name: The Towers of the Thalsira, tongue: translation}
+    - {name: The Chain of Towers, tongue: translation}
+    - {name: Kraveldo, tongue: tarveni, built: [kraveldo], gloss: the crow}
+    - {name: The Crows, tongue: translation}
+    - {name: The Crow Company, tongue: translation}
+    - {name: Dilkorla, tongue: tarveni, built: [dil, korla], gloss: the yard of the vote}
+    - {name: The Village Assembly, tongue: translation}
+    - {name: The Assembly, tongue: translation}
+    - {name: Zurgaregi, tongue: tarveni, built: [zurga], gloss: the house of the pass-cairn}
+    - {name: Tharozo Zurgaregi, tongue: tarveni}
+    - {name: Baron Tharozo, tongue: translation}
+    - {name: Bedarrek Ulmis, tongue: tarveni}
+    - {name: Bedarrek of the Bough, tongue: translation}
+    - {name: Volkemo Hiltheris, tongue: tarveni}
+    - {name: Hammer-Priest Volkemo, tongue: translation}
+    - {name: The Green Bough, tongue: translation}
     - {name: Western March, tongue: translation}
     - {name: The Western March, tongue: translation}
     - {name: Western Marches, tongue: translation}
@@ -5167,8 +5201,7 @@ data:
     - {name: Voice Alzema, tongue: translation}
     - {name: Hilther Oltris, tongue: tarveni}
     - {name: Castellan Hilther, tongue: translation}
-    - {name: Oltremo of the Sealed Forge, tongue: tarveni}
-    - {name: Elder Oltremo, tongue: translation}
+    - {name: Oltremo, tongue: tarveni}
     - {name: "Átseka Volkemis", tongue: tarveni}
     - {name: "Lady Átseka", tongue: translation}
     - {name: the lady of Enthara, tongue: translation}
@@ -5339,9 +5372,7 @@ data:
     - {form: kiézilo, instead: kyézilo, why: "respelled to the guide: a glide is written y"}
     - {form: Lienrik, instead: Lyenrik, why: "respelled to the guide: a glide is written y"}
     - {form: Lucien Vasquez, instead: Gulmaleno Thelvaris, why: "an Earth personal name"}
-    - form: Drogo of the Sealed Forge
-      instead: Oltremo of the Sealed Forge
-      why: "an Earth personal name"
+    - {form: Drogo, instead: Oltremo, why: "an Earth personal name"}
     - {form: Veronica Aldorina, instead: Alzema Thaluris, why: "an Earth personal name"}
     - {form: Anselmo Veroniani, instead: Oztuk Iltheris, why: "an Earth personal name"}
     - {form: Kekhebon Yegis, instead: Hilther Oltris, why: "a name outside the Tarveni palette"}

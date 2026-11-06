@@ -130,7 +130,7 @@ The other book the court keeps is the [Roll of Houses]{.name data-type="lore"}, 
 
 ## The Towers and the Host
 
-The kingdom's defense rests on the chain of watchtowers down the [Thalsira]{.name data-type="place/feature"} and on the host its lords raise. The Warden of the Towers commands the chain from the castle at [[place-bruthena|Bruthena]], and the Towerkeepers who hold each tower by inheritance keep its beacon lit and its watch kept. A fire on any tower calls out the kingdom.
+The kingdom's defense rests on [[place-ithrathorga|Ithrathorga]], the chain of watchtowers down the [Thalsira]{.name data-type="place/feature"}, and on the host its lords raise. The Warden of the Towers commands the chain from the castle at [[place-bruthena|Bruthena]], and the Towerkeepers who hold each tower by inheritance keep its beacon lit and its watch kept. A fire on any tower calls out the kingdom.
 
 The host is the lords' muster. Every lord who holds land of the crown owes the king a number of mounted men for the length of a campaign season, set down for his fee in the Marshal's roll, and the Marshal of Lyenrik calls the musters and commands in the field. The host of Lyenrik is the largest in Tarvénia, and the richest; it is also the slowest to gather, because its lords argue precedence at the muster before they argue anything else. When the High King calls the ban the Liénriki lords come with their full musters, and they expect the High King to remember that they did.
 

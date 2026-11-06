@@ -4,7 +4,7 @@ name: {full: The Verses of the Thórgila Fair, en: [The Sling and the Hail]}
 type: lore
 subType: literature
 description: "The verse-duel the hill town of Thórgila still sings back from one autumn horse fair, where the horse-judge set the themes and the vowels and the fair stamped for the winner: the Sling and the Hail greet the fair, a herd boy asks a captain for a place on the roll, a man home from contract asks whose mule is in the byre, a horse-seller answers the oath stone, and each sings once on the word free."
-tags: [draft, tarvenia]
+tags: [tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore

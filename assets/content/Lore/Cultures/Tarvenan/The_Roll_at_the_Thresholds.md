@@ -4,7 +4,7 @@ name: {full: The Roll at the Thresholds, en: [The Calling of the Roll]}
 type: lore
 subType: literature
 description: "The words a crossbow company of the valleys says at its oath stone on the first morning of the Feast of Thresholds, captain and company answering: the year let out and in at the gate, the living who marched, the dead who are answered for, the place in the roll where a struck name was, the names earned that year, the boys who come in at the gate, and the contract said over again before the stone."
-tags: [draft, tarvenia]
+tags: [tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore

@@ -43,6 +43,8 @@ data:
         description: >-
           The crown of Asturath, held for life by the heir of the last king once the council of mountain lords has acknowledged them, and lord of the king's own valleys besides.
     offices:
+      King: >-
+        Held by a King. The sovereign of Asturath, holding the crown for life once the council of mountain lords has acknowledged him at its oath stone, with three rights over the other lords: to call the ban, to judge a quarrel between two lords, and to hold the crown's offices; he keeps his court in the castle at the north end of Lezkora.
       Keeper of the Stone: >-
         Presiding officer of the council of mountain lords, who opens each meeting, keeps the order of speaking at the council's oath stone and closes it; a mountain lord chosen by the council for that meeting.
       Warden of the Plateau Gate: >-
@@ -106,7 +108,7 @@ A mountain lord of Asturath holds a valley because his house has always held it,
 
 The crown passes by blood. The king's heir is his eldest child, and failing children the nearest kinsman of the royal house, but the heir is king only once the council of mountain lords has acknowledged them. Each lord grips the heir's forearm at the council's oath stone and says the ban—that his banner will come when the king calls it—and a lord who does not grip it owes the new king nothing until he does. The council has never refused an heir outright. It has more than once let an heir wait at the stone for a day while the lords settled what the new reign would cost them.
 
-The present king is [[being-alzemozold|Alzemo Zolduregi]], who holds his court in the castle at the north end of Lezkora.
+The present king is [[being-alzemozold|Alzemo Zolduregi]], who holds his court in [[place-harkatalor|Harkatalor]], the castle at the north end of Lezkora.
 
 ## The Council of Mountain Lords
 
@@ -118,7 +120,7 @@ When the High Kingship falls vacant, the lords of all Tarvénia meet at Lezkora 
 
 ## Justice
 
-A quarrel in Asturath goes to the nearest body that can end it. Neighbors take theirs to the village assembly, where the free householders of the village hear both sides and decide. A matter the assembly cannot settle, or one that touches the lord's rights, goes to the lord, who judges it in his hall before witnesses. A quarrel between two lords goes to the king and the council. Along the eastern road the Warden of the March judges in the king's name, and the Warden's justice is quicker and harder than any valley lord's. A broken oath that no lord can remedy goes to the [[affiliation-ordrsldwrd|Order of the Sealed Word]], as everywhere in Tarvénia.
+A quarrel in Asturath goes to the nearest body that can end it. Neighbors take theirs to the [[lore-dilkorla|village assembly]], where the free householders of the village hear both sides and decide. A matter the assembly cannot settle, or one that touches the lord's rights, goes to the lord, who judges it in his hall before witnesses. A quarrel between two lords goes to the king and the council. Along the eastern road the Warden of the March judges in the king's name, and the Warden's justice is quicker and harder than any valley lord's. A broken oath that no lord can remedy goes to the [[affiliation-ordrsldwrd|Order of the Sealed Word]], as everywhere in Tarvénia.
 
 The heaviest sentence a lord can pass is _ventha_ (banishment), which puts the banished outside every valley's shelter. A man banished from one valley is banished from them all, because no lord shelters another lord's banished.
 
@@ -140,7 +142,7 @@ The High King of Tarvénia is often the king of Asturath, and he is not at prese
 
 ## Offices
 
-The king's officers are few, and each holds one thing for him. The Warden of the Plateau Gate holds Lezkora's gate and road for life, the Warden of the March holds the eastern frontier from Kávrenath, the Warden of the Iron counts the king's share at [[place-ardalis|Ardalis]], and the Drove-Warden keeps the drove roads and the king's meadows from [[place-tsaberis|Tsaberis]]. The Keeper of the Roll and the Steward of the King's Valleys serve in the king's household, the heralds carry his word, and castellans hold towers for the lords who appoint them. The Captain of the Ban serves for one campaign and goes home, and no ban is called at present, so the office has no holder. The Keeper of the Stone is chosen for each meeting of the council of mountain lords and holds nothing between meetings, so the office stands empty from the autumn council until the next.
+The King holds the crown itself and the three rights it carries, and his officers are few, each holding one thing for him. The Warden of the Plateau Gate holds Lezkora's gate and road for life, the Warden of the March holds the eastern frontier from Kávrenath, the Warden of the Iron counts the king's share at [[place-ardalis|Ardalis]], and the Drove-Warden keeps the drove roads and the king's meadows from [[place-tsaberis|Tsaberis]]. The Keeper of the Roll and the Steward of the King's Valleys serve in the king's household, the heralds carry his word, and castellans hold towers for the lords who appoint them. The Captain of the Ban serves for one campaign and goes home, and no ban is called at present, so the office has no holder. The Keeper of the Stone is chosen for each meeting of the council of mountain lords and holds nothing between meetings, so the office stands empty from the autumn council until the next.
 
 ## Current Situation {#present}
 

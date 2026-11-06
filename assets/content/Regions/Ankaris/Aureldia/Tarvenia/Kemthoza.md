@@ -5,12 +5,21 @@ type: place
 subType: structure
 description: "The fort at the head of Grumagando, the war pass of Tarvénia's Western March, where a baron's men watch the saddle through the winter and the March's hosts gather before they go down into Provénzia."
 tags: [frontier, mountain]
-data: {demonym: null, lore: [], parents: [westernmrch], population: null, packFolder: tarvenia}
+data:
+  demonym: null
+  lore: []
+  parents: [westernmrch]
+  routes:
+    - {to: grumagando, bearing: W, mode: land, days: 1, terrain: [mountains, road]}
+    - {to: durvalis, bearing: W, mode: land, days: 3, terrain: [mountains, road]}
+    - {to: mirgonlodge, bearing: N, mode: land, days: 1, terrain: [mountains, forest]}
+  population: null
+  packFolder: tarvenia
 ---
 
 ## Overview {#overview}
 
-Kemthoza is the fort that holds the head of [Grumagando]{.name data-type="place/feature"}, the war pass, on the side of Tarvénia's [[place-westernmrch|Western March]]. Its name means "the walling", from _kemtho_ (a wall). It is the last Tarvenan roof before the saddle, and the road the March's hosts take down into [[place-talothe|the Talote]] runs under its gate. The baron of the valley below keeps it, and in the season it is where the March's hosts gather before they go down.
+Kemthoza is the fort that holds the head of [[place-grumagando|Grumagando]], the war pass, on the side of Tarvénia's [[place-westernmrch|Western March]]. Its name means "the walling", from _kemtho_ (a wall). It is the last Tarvenan roof before the saddle, and the road the March's hosts take down into [[place-talothe|the Talote]] runs under its gate. The baron of the valley below keeps it, and in the season it is where the March's hosts gather before they go down.
 
 ## Inside {#inside}
 
@@ -35,8 +44,17 @@ The fort watches the saddle for the snow's going, because the first host over Gr
 [[place-westernmrch|Western March]]
 : the March the fort guards
 
+[[place-grumagando|Grumagando]]
+: the war pass whose head it holds
+
 [[lore-summerwar|The Summer War]]
 : the war its hosts go down to
 
 [[place-toravarrange|Toravar Range]]
 : the mountains whose western arm the pass crosses
+
+[[place-mirgonlodge|Mirgon Lodge]]
+: the Áelendan lodge a day's climb above the valley
+
+[[scenario-greenbough|The Green Bough]]
+: an adventure on the March at the thaw

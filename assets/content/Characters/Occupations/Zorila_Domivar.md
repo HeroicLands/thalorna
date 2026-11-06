@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Zórila Dómivar is a 24-year-old woman who stands 5'8" tall and is slender. She has a square face with prominent cheekbones, a wide forehead, and a square jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and firm lips. Her olive skin is browned by days in the woods, her dark brown hair is plaited in a single thick braid, and a thin scar crosses her left cheek.
+Zórila Dómivar is a 24-year-old woman who stands 5'8" tall and is slender. Her olive skin is browned by days in the woods, her dark brown hair is plaited in a single thick braid, and her amber eyes are large and alert. She wears greens and browns with a hunting bow across her back, moves quietly even indoors, and a thin scar crosses her left cheek.
 
 # Dossier {#dossier}
 

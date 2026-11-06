@@ -154,6 +154,10 @@ From about 538 AF the occupied lowlands stopped paying the Empire, and about 540
 
 The lords of Lyenrik have contested the crown more often than anyone, and [Estaril]{.name data-type="being/npc"} of Lyenrik held it from about 605 AF, the first of several Liénriki High Kings. The High King has still most often been an Astúrathi lord, and the present one is.
 
+### The Present Reign (from about 709 AF)
+
+About 709 AF the hearth of the High Hall went out, and the greater candidates, the king of Lyenrik, [[being-zenotholtr|Zenoth Oltris]], among them, could each block the others. The lords gave their voices instead to [[being-ularrekgarr|Ularrek Garrundeta]], an old lord of Asturath's high valleys, who swore the terms and lit the hearth ([[lore-ularrekelect|The Election of Ularrek]]). He holds the crown still, as the guest of the king of Asturath at Lezkora, and the next election is already being bought.
+
 ## See Also
 
 [[place-tarvenirgn|Tarvénia Region]]

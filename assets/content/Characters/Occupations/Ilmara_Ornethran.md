@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilmara Ornethran is a 47-year-old woman who stands 5'10" tall and is of medium build. She has an oval face with sharp cheekbones, a narrow forehead, and a strong jaw that leads to a prominent chin. Her hooded brown eyes sit beneath straight brows and give her a guarded gaze. She has a strong nose and narrow lips. Her dark skin is lined by years over a kitchen fire, and her brown hair is pulled back tightly from her face.
+Ilmara Ornethran is a 47-year-old woman who stands 5'10" tall and is of medium build. Her dark skin is lined by years over a kitchen fire, her brown hair is pulled back tightly from her face, and her brown eyes weigh a guest's purse before his story. She wears a broad apron with the inn's keys on a cord at her waist, and she smells of woodsmoke and bread.
 
 # Dossier {#dossier}
 

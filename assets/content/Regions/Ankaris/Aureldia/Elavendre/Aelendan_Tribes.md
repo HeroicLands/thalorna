@@ -5,6 +5,7 @@ type: affiliation
 subType: polity
 description: ""
 data:
+  culture: aelendanclt
   templatePriority: null
   demonym: Áelendan
   epithet: null

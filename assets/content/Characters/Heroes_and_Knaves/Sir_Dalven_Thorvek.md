@@ -432,7 +432,7 @@ Born into a noble house of the [[place-westernmrch|Western March]], Sir Dalven w
 
 His elder brothers took the house's land and titles, and Sir Dalven made his own way by his deeds in the field and his unshakeable loyalty to his word. The valleys know him as the Knight of the Western Marches, a man of honor and integrity whose sword is at the service of his people and of the High King. Between seasons he rides with his friend [[being-frstrndrvs|Father Ostaran Dorvás]] on the priest's inquiries, as his protector.
 
-Each spring he comes up to [[place-kemthoza|Kemthoza]], the fort at the head of [Grumagando]{.name data-type="place/feature"}, the war pass, where the March's hosts gather before they go down. This spring the fort is watching the snow go off the saddle, two barons want the first crossing, and the dead of the first raid still lie unreceived on the road below the pass, where every host that goes down from Kemthoza passes them.
+Each spring he comes up to [[place-kemthoza|Kemthoza]], the fort at the head of [[place-grumagando|Grumagando]], the war pass, where the March's hosts gather before they go down. This spring the fort is watching the snow go off the saddle, two barons want the first crossing, and the dead of the first raid still lie unreceived on the road below the pass, where every host that goes down from Kemthoza passes them.
 
 ## Background
 

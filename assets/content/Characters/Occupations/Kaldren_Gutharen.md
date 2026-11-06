@@ -399,7 +399,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kaldrén Gútharen is a 37-year-old man who stands 6'1" tall and is of medium build. He has a long face with wide-set cheekbones, a lined forehead, and a square jaw that leads to a square chin. His hooded gray eyes sit beneath heavy brows and give him a guarded gaze. He has an aquiline nose and firm lips. His olive skin is gray with the dust of the galleries, his chestnut hair is roughly shorn at the sides, and a tattoo of a tiger shows on his forearm.
+Kaldrén Gútharen is a 37-year-old man who stands 6'1" tall and is of medium build. His olive skin is gray with the dust of the galleries, his chestnut hair is roughly shorn at the sides, and his gray eyes squint in daylight. He wears a leather cap and a miner's heavy boots, coughs before he speaks, and a tattoo of a tiger shows on his forearm.
 
 # Dossier {#dossier}
 

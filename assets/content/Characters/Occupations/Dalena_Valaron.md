@@ -397,7 +397,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Dálena Valaron is a 27-year-old woman who stands 5'9" tall and is slender. She has a long face with defined cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. Her olive skin is browned by sun and sea, and her dark brown hair falls loose when she is ashore. She walks with the roll of a deck, and a scar runs down her right leg.
+Dálena Valaron is a 27-year-old woman who stands 5'9" tall and is slender. Her olive skin is browned by sun and sea, her dark brown hair falls loose when she is ashore, and her amber eyes go to the sky before they go to anyone she is speaking to. She walks with the roll of a deck, in a seaman's short coat with a sounding line coiled at her belt, and a scar runs down her right leg.
 
 # Dossier {#dossier}
 

@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Tharla Durgana is a 26-year-old woman who stands 5'8" tall and is slender. She has an angular face with angular cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. Her olive skin is scarred at the wrists and across one cheek, and her hair, gray before its time, is braided and coiled at the nape. She keeps her eyes down in company.
+Tharla Durgana is a 26-year-old woman who stands 5'8" tall and is slender. Her olive skin is scarred at the wrists and across one cheek, her hair, gray before its time, is braided and coiled at the nape, and her amber eyes are large and kept down in company. She wears a household's plain gray gown with the sleeves pushed back for work, and she moves through a room without being noticed.
 
 # Dossier {#dossier}
 

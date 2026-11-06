@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Galver Ornethran is a 45-year-old man who stands 6'0" tall and is broad and heavily built. He has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a square chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and narrow lips. His olive skin is weathered by thirty years on scaffolds, his hair went white early and is tied in a low tail, and stone dust lives in the creases of his knuckles.
+Galver Ornethran is a 45-year-old man who stands 6'0" tall and is broad and heavily built. His olive skin is weathered by thirty years on scaffolds, his hair went white early and is tied in a low tail, and his brown eyes measure a wall before they look at the man who built it. Stone dust lives in the creases of his knuckles, and he carries his mallet and chisels in a leather roll under his arm.
 
 # Dossier {#dossier}
 

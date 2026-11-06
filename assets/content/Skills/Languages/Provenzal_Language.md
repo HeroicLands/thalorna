@@ -7260,6 +7260,8 @@ data:
     - {name: Nilara Tolgen, tongue: provenzal}
     - {name: Ordan Brilonde, tongue: provenzal}
     - {name: Rilden Branvilde, tongue: provenzal}
+    - {name: Tordima Kalvezis, tongue: provenzal}
+    - {name: Keeper Tordima, tongue: translation}
     - {name: Tarlige Tolgen, tongue: provenzal}
     - {name: Taven Farven, tongue: provenzal}
     - {name: Urele Ralven, tongue: provenzal}

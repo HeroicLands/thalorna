@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [herthema]
-  affiliations: {cnclhrthm: {rank: 2}, kingdmtrvn: {rank: 2}}
+  affiliations: {cnclhrthm: {rank: 2}, kingdmtrvn: {rank: 2}, kraveldo: {rank: 2, office: Captain}}
   gender: female
   species: humanflk
   born: "679.40"
@@ -36,7 +36,7 @@ Prámiza Mozkarreta is a 40-year-old woman who stands 5'10" tall and is of mediu
 
 # Dossier {#dossier}
 
-Prámiza Mozkarreta is a mercenary captain who recruits in the back streets of [[place-herthema|Herthema]], the walled town that breeds sellswords. A man on the town's roll may take hire in Herthema lawfully, and a man off it may not, and the Keeper of the Roll of the [[affiliation-cnclhrthm|Council of Herthema]] enters and strikes the names. Prámiza fills her company from the roll and from the young men who hope to be put on it.
+Prámiza Mozkarreta is a mercenary captain who recruits in the back streets of [[place-herthema|Herthema]], the walled town that breeds sellswords. A man on the town's roll may take hire in Herthema lawfully, and a man off it may not, and the Keeper of the Roll of the [[affiliation-cnclhrthm|Council of Herthema]] enters and strikes the names. Prámiza fills her company, [[affiliation-kraveldo|Kraveldo]], from the roll and from the young men who hope to be put on it.
 
 She is a captain of a crossbow company in the Tarvenan way: she swears her men to a contract they can recite, and she is sworn to them by it. Where she differs from the captains of the valleys is in what she will put her name to. She has taken contracts the Named Men of other companies would not touch, and she pays on the day.
 
@@ -75,6 +75,7 @@ The bigger bodyguards of the town, who have lost work to men on the roll without
 ### Affiliations
 
 - **[[affiliation-cnclhrthm|Council of Herthema]]**: Prámiza is a Freeman of the town and recruits from its roll.
+- **[[affiliation-kraveldo|Kraveldo]]**: Prámiza is the company's Captain. This season it is under contract to [[being-tharozozurg|Tharozo Zurgaregi]], a baron of the Western March.
 
 ## Plot Hooks
 

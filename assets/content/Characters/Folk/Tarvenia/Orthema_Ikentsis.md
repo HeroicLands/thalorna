@@ -82,5 +82,5 @@ The houses that trade only along the Provénzian and Galváreni coasts, and any 
 ## Plot Hooks
 
 1. **The road to Lezkora.** Orthema wants a party to ride to Lezkora and send word the day the High King's hearth goes out, before any other house's rider brings it, so that the council can choose its man first.
-2. **The narrows toll.** The Taruzelian admiral at Yamuzel presses the Grand Council for a toll on every hull through the narrows. Orthema asks a party to learn how the other houses mean to vote before the First argues the city's case.
+2. **The narrows toll.** The Taruzelian admiral at Yamuzel presses the Grand Council for a toll on every hull through the narrows. Orthema asks a party to learn how the other houses mean to vote before she argues the city's case, because the houses that trade no farther than the Provénzian and Galváreni coasts say she cannot be trusted to argue it.
 3. **The struck house.** The Keeper of the Roll has been asked to strike a failing house from the roll, and the house's head offers a party good money to find out which councilor bought its debts. Orthema would like the same answer.

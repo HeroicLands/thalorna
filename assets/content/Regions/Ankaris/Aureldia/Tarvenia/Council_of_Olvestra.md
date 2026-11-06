@@ -62,6 +62,12 @@ The charter stops at the city's fields. The hill-baronies around Ólvestra are t
 
 The imperial treasury, [[affiliation-tarmex|the Tarmeks]], has suspended one of the city's major moneylending houses, and the notes other houses cashed and forwarded against it cannot be redeemed. The council must decide how much of that loss falls on the city's credit, and several of its councilors' houses hold the paper. In the hills, the barons who shelter [[affiliation-blackflame|the Black Flame]] owe the city's houses more than they have paid. The High King is old, and the charter, like Valthari's, is renewed by each High King in turn.
 
+## History {#history}
+
+About 421 AF, when the Edicts of Arzanas closed the western wars, Árdavon's priesthood chartered [[affiliation-ordrsldwrd|the Order of the Sealed Word]] at Ólvestra, and the order has kept its mother-house and its master register there since ([[lore-sealedwordfnd|The Founding of the Sealed Word]]). The city's charter is a High King's, so it is no older than the High Kingship, which the lords elected about 540 AF to drive the imperial garrisons out of the lowlands ([[lore-tarvfallsawy|Tarvénia Falls Away]]). Like Valthari's, it has been renewed by each High King in turn.
+
+Seven years ago the Ólvestran Marendos of the Sealed Word died three days before he was to issue a writ against a baron of the hills. The death was ruled natural, and the city has not stopped talking about it. The suspension of one of its great houses by [[affiliation-tarmex|the Tarmeks]] is the council's present trouble.
+
 ## See Also
 
 [[place-olvestria|Ólvestra]]

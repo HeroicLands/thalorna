@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [lezkora]
-  affiliations: {kngdmstrth: {rank: 6}, kingdmtrvn: {rank: 5, office: Elector}}
+  affiliations: {kngdmstrth: {rank: 6, office: King}, kingdmtrvn: {rank: 5, office: Elector}}
   socialTies: {being-ularrekgarr: dependent, being-zenotholtr: rival}
   gender: male
   species: humanflk

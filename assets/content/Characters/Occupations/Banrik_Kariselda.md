@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Banrik Káriselda is a 28-year-old man who stands 6'1" tall and is of medium build. He has an oval face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a square chin. His piercing gray eyes sit beneath prominent brows and give him a penetrating gaze. He has a prominent nose and full lips. His olive skin is browned by the coast's sun, and his brown hair, already graying, is short and swept back. A small tattoo of a flower sits on one ankle.
+Banrik Káriselda is a 28-year-old man who stands 6'1" tall and is of medium build. His olive skin is browned by the coast's sun, his brown hair, already graying, is short and swept back, and his gray eyes move over a room before he steps into it. He wears a plain coat over mail and stands half a pace behind whoever is paying him. A small tattoo of a flower sits on one ankle.
 
 # Dossier {#dossier}
 

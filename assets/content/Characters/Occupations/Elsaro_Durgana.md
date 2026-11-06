@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Élsaro Durgana is a 26-year-old man who stands 6'0" tall and is of medium build. He has an angular face with high cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His narrow dark brown eyes sit beneath heavy brows and give him a keen gaze. He has an aquiline nose and curved lips. His skin is tanned and weathered, his brown hair is graying early and tied in a low tail, and a tattoo of a tiger runs along one forearm.
+Élsaro Durgana is a 26-year-old man who stands 6'0" tall and is of medium build. His skin is tanned and weathered, his brown hair is graying early and tied in a low tail, and his dark brown eyes are narrow and watchful. He wears a company's brigandine with the badge cut off it and a crossbow on his back, and a tattoo of a tiger runs along one forearm.
 
 # Dossier {#dossier}
 

@@ -29,7 +29,7 @@ The weather follows the height. Winters are long and hard, and snow closes the p
 
 Lezkora stands near the middle of the kingdom on a plateau ringed by cliffs, and the plateau road climbs to it from the south. A day below the plateau lies [[place-ardalis|Ardalis]], the iron town, and below Ardalis the road goes down out of the mountains to the lowlands of [[place-leonrik|Lyenrik]]. North of Lezkora the high valleys open toward the summer meadows, and their flocks gather at [[place-tsaberis|Tsaberis]] each spring for the drive. At the kingdom's eastern edge [[place-kavrenath|Kávrenath]] watches the road toward the [[place-kervaron|Kervaron Spine]] and the imperial frontier, and above its valleys the pass of [[place-zurgando|Zurgando]] gives the companies a short road to the coast. The gorge below the plateau, [[place-horngorge|the Horn Gorge]], is where the legion died, and nobody uses it as a way through.
 
-Most of the kingdom's people live in villages of a few hundred. A valley is a lord's holding, its villages are his, and its people meet in a village assembly to settle what concerns them all. Roads between valleys are mule paths, and the only roads a cart can use are the plateau road and the valley road to Kávrenath.
+Most of the kingdom's people live in villages of a few hundred. A valley is a lord's holding, its villages are his, and its people meet in a [[lore-dilkorla|village assembly]] to settle what concerns them all. Roads between valleys are mule paths, and the only roads a cart can use are the plateau road and the valley road to Kávrenath.
 
 ## Livelihood
 
@@ -58,3 +58,5 @@ At the eastern edge the Warden of the March, [[being-estarildomi|Estaril Dómiva
 - [[place-kavrenath|Kávrenath]]—the frontier town on the eastern road
 - [[place-zurgando|Zurgando]]—the companies' pass above Kávrenath
 - [[place-horngorge|The Horn Gorge]]—the gorge below the plateau
+- [[place-thumbalero|Thumbalero]]—the pilgrims' path to Lezkora
+- [[place-harkatalor|Harkatalor]]—the castle of the kings at Lezkora

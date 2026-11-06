@@ -36,7 +36,7 @@ Kaldro Kanarris is a 37-year-old man who stands 6'0" tall and is of medium build
 
 # Dossier {#dossier}
 
-Kaldro Kanarris is the baron of the valley below [[place-kemthoza|Kemthoza]], and the fort at the head of [Grumagando]{.name data-type="place/feature"} is his to keep. It is the last Tarvenan roof before the saddle, and the road the March's hosts take down into [[place-talothe|the Talote]] runs under its gate. A handful of his men hold it through the winter, snowed in with him when the passes close.
+Kaldro Kanarris is the baron of the valley below [[place-kemthoza|Kemthoza]], and the fort at the head of [[place-grumagando|Grumagando]] is his to keep. It is the last Tarvenan roof before the saddle, and the road the March's hosts take down into [[place-talothe|the Talote]] runs under its gate. A handful of his men hold it through the winter, snowed in with him when the passes close.
 
 No crown governs the [[place-westernmrch|Western March]] as a whole. Each valley is a baron's, held from a tower or a fortified house, and each baron brings its men down the pass under his own banner. Kaldro gathers the March's hosts in his yard in the season, and the first host over Grumagando sets the terms of the season.
 
@@ -80,4 +80,4 @@ The border families of the Talote who counter-raid for stock and ransom, and the
 
 1. **The first host over.** The snow is going off the saddle and two barons want the first crossing. Kaldro asks a party to ride to the other valleys and learn which baron means to cheat the custom.
 2. **The dead on the road.** The dead of the first raid lie on the road below Grumagando unreceived, and the village priest wants a rite said. Kaldro will carry no priest across ground neither crown will grant the other's priests, and he asks a party to find a way.
-3. **The clan's ground.** One of Kaldro's herders has driven a flock into ground an Áelendan clan holds sacred. The Wardens want the herder, and Kaldro wants a party to settle it before a mountain-war starts.
+3. **The clan's ground.** One of Kaldro's herders drove a flock into the hallowed grove above [[place-mirgonlodge|Mirgon Lodge]] last autumn. The Wardens want the herder, and Kaldro wants a party to settle it before a mountain-war starts.

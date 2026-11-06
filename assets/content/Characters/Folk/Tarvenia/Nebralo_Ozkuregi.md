@@ -3,7 +3,7 @@ shortcode: nebraloozkur
 name: {full: Nebralo Ozkuregi, en: [Sir Nebralo Ozkuregi, Sir Nebralo]}
 type: being
 subType: npc
-description: A knight of the Order of the Righteous Path at Ólvestra, sworn to protect the weak and uphold justice, who has sworn to bring Drazha Vezhnur to justice.
+description: A Twinblade knight of Ólvestra, sworn to Árdavon's thresholds, who has sworn to bring Drazha Vezhnur of the Black Flame to justice.
 tags: []
 data:
   icon: icon-person
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [olvestria]
-  affiliations: {kingdmtrvn: {rank: 4}, ardavon: {rank: 3}}
+  affiliations: {kingdmtrvn: {rank: 4}, ardavon: {rank: 3}, twinbldrdr: {rank: 2}}
   socialTies: {being-drzhvzhnr: nemesis}
   gender: male
   species: humanflk
@@ -33,13 +33,13 @@ data:
 
 # Appearance {#appearance}
 
-Nebralo Ozkuregi is a 33-year-old man who stands 5'11" tall with a light build. He has olive skin, weathered complexion, black hair, and green eyes.
+Nebralo Ozkuregi is a 33-year-old man who stands 5'11" tall and is of light build. He has olive skin weathered by gate duty, black hair cut short, and green eyes. He wears the pale gray of the Twinblades, with the two faces of Árdavon over crossed gold-and-silver blades at the breast, and he carries a pair of matched swords.
 
 # Dossier {#dossier}
 
-Nebralo Ozkuregi is a knight of the Faith of [[affiliation-ardavon|Árdavon]] in the [Order of the Righteous Path]{.name data-type="affiliation/order"}, sworn to protect the weak and uphold justice. He lodges in [[place-olvestria|Ólvestra]], where two of Árdavon's orders keep their mother-houses, and he rides out from it on the order's writs.
+Nebralo Ozkuregi is a knight of the Faith of [[affiliation-ardavon|Árdavon]] and a Sworn Twinblade of [[affiliation-twinbldrdr|the Twinblade Order]], whose calling is the keeping of thresholds. He serves at the order's mother-house at [[place-twingate|the Twin Gate]] of [[place-olvestria|Ólvestra]], and he rides out from it to the order's stations and to the hearings where a Twinblade's presence is required.
 
-His enmity with [[being-drzhvzhnr|Drazha Vezhnur]] began when Drazha's forces massacred an Árdavonian outpost, and he has sworn to bring him to justice. He is a knight of an old mountain house.
+His enmity with [[being-drzhvzhnr|Drazha Vezhnur]] of [[affiliation-blackflame|the Black Flame]] began when Drazha's forces massacred an Árdavonian outpost that a station of his order kept, and he has sworn to bring him to justice. He is a knight of an old mountain house.
 
 ## Psyche
 
@@ -63,11 +63,11 @@ His vow narrows his sight. He has refused two commissions that would have led hi
 
 ### Companions
 
-The brothers of the Sealed Word and the Twinblades on station at the gate.
+The Twinblades on station at the gate and the brothers of the Sealed Word.
 
 ### Patrons
 
-The First Marendos of the Sealed Word.
+[[being-alzemathalu|Alzema Thaluris]], the Voice of the Twin Gate, who chairs his order.
 
 ### Enemies
 
@@ -75,7 +75,8 @@ Drazha Vezhnur and the hill-baronies that shelter his friends.
 
 ### Affiliations
 
-- **[[affiliation-ardavon|Faith of Árdavon]]**: Nebralo is a Volsar of the faith and a knight of the order.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: Nebralo is a Volsar of the faith.
+- **[[affiliation-twinbldrdr|Twinblade Order]]**: He is a Sworn Twinblade.
 - **[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]**: He holds land of a lord by mounted service.
 
 ## Plot Hooks

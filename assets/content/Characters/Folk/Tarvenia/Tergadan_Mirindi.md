@@ -12,7 +12,7 @@ data:
   occupation: Warden
   lore: []
   culture: aelendanclt
-  homes: [toravarrange]
+  homes: [mirgonlodge]
   affiliations: {alndnwrdns: {rank: 1}}
   gender: male
   species: humanflk
@@ -36,7 +36,7 @@ Térgadan Mirindi is a 39-year-old man who stands 6'0" tall and is of light, wir
 
 # Dossier {#dossier}
 
-Térgadan Mirindi is a Warden of the Áelendan clans of the [[place-toravarrange|Toravar Range]], the forested mountain belt that closes Tarvénia's north and west. He holds with his clan the same [Kindred Pact]{.name data-type="lore/law"} as the clans of the Tribal Lands and answers to the [[affiliation-alndnwrdns|Wardens]] alone. The high reaches are the clans' sacred country, and no Tarvenan crown claims them.
+Térgadan Mirindi is a Warden of the Áelendan clans of the [[place-toravarrange|Toravar Range]], the forested mountain belt that closes Tarvénia's north and west. He holds with his clan the same [Kindred Pact]{.name data-type="lore/law"} as the clans of the Tribal Lands and answers to the [[affiliation-alndnwrdns|Wardens]] alone. The high reaches are the clans' sacred country, and no Tarvenan crown claims them. His clan, the Mirindi, winters at [[place-mirgonlodge|Mirgon Lodge]] under the boundary cairn above the Western March, and he keeps its hallowed grove and its ground.
 
 Frictions over straying herds, logging concessions and road surveys near sacred groves are handled by the local Wardens with the local baron, usually without reaching the crown. Térgadan is the Warden whom the barons of the western arm meet, and he settles each quarrel one valley at a time.
 

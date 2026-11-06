@@ -4,7 +4,7 @@ name: {full: The Mother's Yes and No, en: [How the First Stone Was Set]}
 type: lore
 subType: literature
 description: "The winter tale the wise-women of the mountain villages tell of the Mother beneath the later gods: the mountains that were there before the wheel, the two words she has, the two shepherds of the high meadow who went into her cave and came out with a boundary, the stone she set between them and the son who moved it three times, and the day she gets up."
-tags: [draft, tarvenia]
+tags: [tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore

@@ -410,6 +410,10 @@ Haldena is respected and feared alike. She has few friends outside her work fami
 
 ## Plot Hooks
 
-1. **The separatist wain.** Haldena detects a significant smuggling operation coming through the gates: weapons destined for a faction she later learns is separatist. She asks a party to carry her evidence to the castellan's court and bring back his answer.
+1. **The weapons wain.** Haldena has stopped a wain at the north gate carrying more crossbows than any company in the meadow has ordered, under a carter's seal she does not know. She asks a party to carry her evidence to the castellan's court and bring back his answer.
 2. **The traitor in her ranks.** Haldena suspects that one of her own captains takes money from [[being-garrutsagalt|Garrutsa Galtsuregi]], and she asks a party to watch the gate shifts before she names anyone.
 3. **The castellan's request.** Castellan Hilther approaches Haldena privately with a request to let one man through the gate without inspection. She asks a party to learn who the man is.
+
+:::secret {title="The wain's buyers"}
+The crossbows are bound for a separatist faction, and Haldena learns it only after the castellan's court has had her evidence.
+:::

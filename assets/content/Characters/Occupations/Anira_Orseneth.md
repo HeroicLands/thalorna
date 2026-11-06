@@ -388,7 +388,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ánira Órseneth is a 25-year-old woman who stands 5'9" tall and is of light build. She has an angular face with defined cheekbones, a high forehead and a square jaw that leads to a firm chin. Her large dark brown eyes sit beneath heavy brows and give her an expressive gaze. She has a straight nose and narrow lips, and her skin is tanned from singing at summer fairs in the open. Her hair went gray early, and she wears it pulled back tightly from her face. A tattoo of a tree covers her back.
+Ánira Órseneth is a 25-year-old woman who stands 5'9" tall and is of light build. Her skin is tanned from playing at summer fairs in the open, her hair went gray early and is pulled back tightly from her face, and her dark brown eyes are large and quick. She carries her lute in a leather case on her back, over a tattoo of a tree that covers her back and shows at the neck of her dress.
 
 # Dossier {#dossier}
 

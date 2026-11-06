@@ -32,7 +32,7 @@ The temple's reach outlasts the training. The Árdavonian prelate at Polthamis, 
 
 ## The Present {#present}
 
-The protection is conditional: it holds only while the work never reaches the royal court. [[being-frstrndrvs|Father Ostaran Dorvás]] trained at the Great Temple and meets the prelate on the register four times a year. His commission against Lord [[being-nizelganotis|Nizel Ganotis]], a noble accused of seizing land unlawfully and oppressing the peasantry, is uncovering a web of corruption that reaches past Lord Nizel, and the further it reaches the nearer it comes to the court where the seal of Polthamis stops.
+The protection is conditional: it holds only while the work never reaches the royal court. [[being-frstrndrvs|Father Ostaran Dorvás]] trained at the Great Temple and meets the prelate on the register four times a year. His commission against Lord [[being-nizelganotis|Nizel Ganotis]], a noble accused of seizing land unlawfully and oppressing the peasantry, is following accusations that reach beyond Lord Nizel, and the further it reaches the nearer it comes to the court where the seal of Polthamis stops.
 
 The prelate is the brother of [[being-zedimazenoth|Zédima Zenothis]], Ostaran's mother. Neither of them states the kinship.
 

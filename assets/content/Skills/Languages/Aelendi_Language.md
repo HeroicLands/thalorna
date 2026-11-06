@@ -6875,6 +6875,11 @@ data:
     - {name: silmaren, tongue: aelendi}
     - {name: Warden Silmaren, tongue: translation}
     - {name: Silmaren of the Dhárgandi, tongue: translation}
+    - {name: mirgon, tongue: aelendi, gloss: the boundary cairn}
+    - {name: Mirgon Lodge, tongue: translation}
+    - {name: The Lodge under the Cairn, tongue: translation}
+    - {name: Elder Rándira, tongue: translation}
+    - {name: Rándira of the Mirindi, tongue: translation}
   retired:
     - {form: Sinale, instead: Senali, why: "respelled to Pronouncing Thalorna"}
     - {form: Sinalean, instead: Senalian, why: "respelled to Pronouncing Thalorna"}

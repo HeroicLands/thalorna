@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Estara Sánriseth is a 28-year-old woman who stands 5'11" tall and is of medium build. She has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a prominent chin. Her hooded amber eyes sit beneath heavy brows and give her a guarded gaze. She has a prominent nose and wide lips. Her skin is tanned and clear, and her black hair is plaited in a single thick braid.
+Estara Sánriseth is a 28-year-old woman who stands 5'11" tall and is of medium build. Her skin is tanned and clear, her black hair is plaited in a single thick braid, and her amber eyes are wary under a teamster's broad hat. She walks beside her team with the whip coiled in her fist and her sleeves rolled to the elbow, and her voice carries the length of a wagon train.
 
 # Dossier {#dossier}
 

@@ -399,7 +399,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Holren Álvanar is a 30-year-old man who stands 6'0" tall and is of medium build. He has an oval face with sharp cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath thick brows and give him an expressive gaze. He has an aquiline nose and full lips. His skin is browned by work on the walls in the plateau sun, and his black hair is shorn at the sides with length on top.
+Holren Álvanar is a 30-year-old man who stands 6'0" tall and is of medium build. His skin is browned by work on the walls in the plateau sun, his black hair is shorn at the sides with length on top, and his hazel eyes are large and expressive. Mortar whitens his boots and the backs of his hands, and he carries a mason's square through his belt.
 
 # Dossier {#dossier}
 

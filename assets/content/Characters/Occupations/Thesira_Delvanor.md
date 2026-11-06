@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thésira Delvanor is a 24-year-old woman who stands 5'10" tall and is of medium build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. Her skin is browned by days on guard in the open, her dark brown hair is braided and coiled at the nape, and she has narrow lips and a nose crooked from an old break.
+Thésira Delvanor is a 24-year-old woman who stands 5'10" tall and is of medium build. Her skin is browned by days on guard in the open, her dark brown hair is braided and coiled at the nape, and her amber eyes are measuring. Her nose is crooked from an old break. She wears a padded jack and a short sword and stands like a soldier waiting for an order.
 
 # Dossier {#dossier}
 

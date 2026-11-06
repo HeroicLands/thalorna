@@ -24,11 +24,11 @@ The Toravar Range is the great forested mountain belt of [[place-tarvenirgn|Tarv
 
 **The northern arm.** Along the Élavendre border the range is a forested belt, and under it lie the highlands of [[place-eskarath|Eskarath]], whose people are older than the Tarveni.
 
-**The western arm.** Along the Provénzian frontier the range is cold, and its passes are very nearly impassable from the first snow to the thaw. Under it lie the valleys of the [[place-westernmrch|Western March]]. Its passes go over into the Talote, and the chief of them is [Grumagando]{.name data-type="place/feature"}, the war pass, which the March's hosts take down to the road at [[place-bldfldmalnebris|Malnebris]]. [[place-kemthoza|Kemthoza]] holds its head on the Tarvenan side.
+**The western arm.** Along the Provénzian frontier the range is cold, and its passes are very nearly impassable from the first snow to the thaw. Under it lie the valleys of the [[place-westernmrch|Western March]]. Its passes go over into the Talote, and the chief of them is [[place-grumagando|Grumagando]], the war pass, which the March's hosts take down to the road at [[place-bldfldmalnebris|Malnebris]]. [[place-kemthoza|Kemthoza]] holds its head on the Tarvenan side.
 
 ## Who Uses It {#who-uses-it}
 
-- **The Áelendan of the Toravar**, who are the same people as the clans of the Tribal Lands: they hold the same [Kindred Pact]{.name data-type="lore/law"}, recognize the same [[affiliation-alndnwrdns|Wardens]] and keep the same religious calendar, and they live in the high mountains because the high mountains are where they have always lived.
+- **The Áelendan of the Toravar**, who are the same people as the clans of the Tribal Lands: they hold the same [Kindred Pact]{.name data-type="lore/law"}, recognize the same [[affiliation-alndnwrdns|Wardens]] and keep the same religious calendar, and they live in the high mountains because the high mountains are where they have always lived. In the western arm the Mirindi winter at [[place-mirgonlodge|Mirgon Lodge]], under the boundary cairn above the Western March.
 - **The Tarvenan barons** below the range, whose herds graze toward its pastures and whose loggers work its lower forests.
 - **The hosts of the Western March**, which go down the western passes every season the snow allows ([[lore-summerwar|The Summer War]]), and the border families of the Talote, which come up them.
 
@@ -71,3 +71,6 @@ The clans hold the high reaches, and no Tarvenan crown claims them. The barons b
 
 [[place-kervaron|Kervaron Spine]]
 : the eastern arm of the same uplift
+
+[[place-mirgonlodge|Mirgon Lodge]]
+: the Mirindi's lodge in the western arm

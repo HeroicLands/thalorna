@@ -10,6 +10,9 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: 45000
+  routes:
+    - {to: durvolka, bearing: W, mode: ship, days: 3, terrain: [coast]}
+    - {to: besikar2, bearing: SE, mode: ship, days: 5, terrain: [open-sea]}
   government: frctyvlthr
 ---
 

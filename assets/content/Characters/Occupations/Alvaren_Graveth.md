@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Alvaren Graveth is a 35-year-old man who stands 6'2" tall and is broad and heavily built. He has a diamond face with high cheekbones, a prominent forehead and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. His tawny skin is browned further by the glare off the salt pans, and his hands are cracked white with brine. His dark brown hair is cropped short, and he favors his left knee, which carries an old scar.
+Alvaren Graveth is a 35-year-old man who stands 6'2" tall and is broad and heavily built. His tawny skin is browned further by the glare off the salt pans, his dark brown hair is cropped short, and his brown eyes are narrowed against the light. His hands are cracked white with brine, his apron is stiff with salt, and he favors his left knee, which carries an old scar.
 
 # Dossier {#dossier}
 

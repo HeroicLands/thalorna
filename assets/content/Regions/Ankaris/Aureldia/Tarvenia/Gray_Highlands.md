@@ -24,7 +24,7 @@ The ridges are broken and steep, with peaks that keep snow into summer. Beech an
 
 ## Who Holds It {#who-holds-it}
 
-The [[affiliation-kngdmstrth|Kingdom of Asturath]] holds the highlands, valley by valley. A mountain lord holds a valley and its share of the high meadows because his house has always held them, and he holds them of nobody. The village assembly settles what concerns the whole village, and the shepherds' council orders the flocks at [[place-tsaberis|Tsaberis]] for the drive.
+The [[affiliation-kngdmstrth|Kingdom of Asturath]] holds the highlands, valley by valley. A mountain lord holds a valley and its share of the high meadows because his house has always held them, and he holds them of nobody. The [[lore-dilkorla|village assembly]] settles what concerns the whole village, and the shepherds' council orders the flocks at [[place-tsaberis|Tsaberis]] for the drive.
 
 ## Places {#places}
 

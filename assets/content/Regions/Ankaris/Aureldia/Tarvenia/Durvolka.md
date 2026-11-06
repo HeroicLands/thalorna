@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [galvaren]
   population: 20000
+  routes: [{to: valthari, bearing: E, mode: ship, days: 3, terrain: [coast]}]
   packFolder: tarvenia
   government: kngdmglvrn
 ---

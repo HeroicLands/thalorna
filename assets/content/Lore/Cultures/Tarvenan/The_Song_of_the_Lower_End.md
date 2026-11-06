@@ -4,7 +4,7 @@ name: {full: The Song of the Lower End, en: [The Long Poem of the Gorge]}
 type: lore
 subType: literature
 description: "The long poem Asturath sings after supper of the Horn Gorge, in the voice of the herd boy who carried stone there: the man struck from Tórsaro's roll on three witnesses' word, the lower end he asked for and the stone he swore on, the legion's recall blown a night too late, and the name the company gave him on the stone when there was nobody left to give it to."
-tags: [draft, tarvenia]
+tags: [tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore

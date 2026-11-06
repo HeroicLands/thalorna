@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kolrith Delvanor is a 24-year-old man who stands 5'11" tall and is of medium build. He has an oval face with prominent cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His hooded dark brown eyes sit beneath prominent brows and give him a guarded gaze. He has a strong nose and narrow lips. His olive skin is browned by sun on the water, and his black hair is cropped short.
+Kolrith Delvanor is a 24-year-old man who stands 5'11" tall and is of medium build. His olive skin is browned by sun on the water, his black hair is cropped short, and his dark brown eyes are hooded and careful. He wears the bronze token of the Pilots' Guild on a cord at his throat and a short oilskin coat, and he reads the harbor bar's water while other men are still talking.
 
 # Dossier {#dossier}
 

@@ -4,7 +4,7 @@ name: {full: The Light at the Front, en: [The Pay of the Eleven]}
 type: lore
 subType: literature
 description: "The tale the valleys above Kávrenath tell on the night the lanterns go out on the thresholds: a crossbowman coming home late over the pass with eleven dead men's pay, the procession that overtook him on the dead road with his companion carrying its light, the eleven doors he stopped at, and the threshold where his wife reached for the pole."
-tags: [draft, tarvenia]
+tags: [tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore

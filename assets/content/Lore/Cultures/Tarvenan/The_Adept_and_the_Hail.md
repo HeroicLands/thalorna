@@ -4,7 +4,7 @@ name: {full: The Adept and the Hail, en: [How Dúrgalis Paid for Its Liars]}
 type: lore
 subType: literature
 description: "The comic winter tale the hill farms under Dúrgalis tell of the adept of the Arcane Order who sold the valley a contract against the hail: the assembly that bought it on the wise-woman's terms, the summer it ran, the weekly account the adept gave the assembly, the fields the hail found and the ones it missed, and the reckoning at the autumn fair, where the valley paid exactly what it owed."
-tags: [draft, tarvenia]
+tags: [tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore
@@ -91,13 +91,13 @@ And your grandmother. Your grandmother told her sister she hadn't been to the fa
 
 **The reckoning.** Well. The harvest came in, and the autumn fair came, and the assembly met in the square, and the adept stood on the steps of the well with his case, and the notary from the castle stood beside him with the contract, and they counted the fields.
 
-Two hundred and twelve fields in the valley. The hail had touched twenty-three of them.
+Two hundred and twelve fields in the valley. The hail had touched twenty of them.
 
-The adept had turned every storm that came over the pass. Every one. He'd done what he said he could do. It was true. The storms from the pass never touched the valley that whole summer. All twenty-three fields had been hit by hail out of a clear sky, from a little black cloud, the day after somebody lied.
+The adept had turned every storm that came over the pass. Every one. He'd done what he said he could do. It was true. The storms from the pass never touched the valley that whole summer. All twenty fields had been hit by hail out of a clear sky, from a little black cloud, the day after somebody lied.
 
-So the notary read the terms. One silver from the valley for every field the hail didn't touch: a hundred and eighty-nine silver. One silver from the adept for every field it did: twenty-three silver. The valley owed him a hundred and sixty-six silver, and it paid. Every bit. In the square, in front of the stone, counted out on the steps of the well. The valley keeps its contracts.
+So the notary read the terms. One silver from the valley for every field the hail didn't touch: a hundred and ninety-two silver. One silver from the adept for every field it did: twenty silver. The valley owed him a hundred and seventy-two silver, and it paid. Every bit. In the square, in front of the stone, counted out on the steps of the well. The valley keeps its contracts.
 
-And the adept stood there with his hundred and sixty-six silver, which was a great deal of money, and he should have been happy. He wasn't. He'd had the hail on his own field six times that summer, and he'd paid the innkeeper for his barley each time out of his own purse, because the innkeeper had made him, and he didn't know why, and he hated not knowing why. He was a mage. Not knowing why is the worst thing that can happen to a mage.
+And the adept stood there with his hundred and seventy-two silver, which was a great deal of money, and he should have been happy. He wasn't. He'd had the hail on his own field four times that summer, and he'd paid the innkeeper for his barley each time out of his own purse, because the innkeeper had made him, and he didn't know why, and he hated not knowing why. He was a mage. Not knowing why is the worst thing that can happen to a mage.
 
 He said to the assembly: I turned every storm at the pass. You saw it. Where did the other hail come from?
 
@@ -107,15 +107,15 @@ And Beruzta stood up with her stick.
 
 The other hail's not weather. It's hers. It comes for a lie. You told us four of them on those steps, and she heard every one, and she found your field every time, because your field's where your mouth sleeps.
 
-And the rest of us told her nineteen. She found those too. Twenty-three fields. Twenty-three lies. You paid a silver for each of them, under term three, because that's what we agreed.
+And the rest of us told her nineteen. She found those too. Twenty-three lies, on twenty fields, because your four all fell on yours. You paid a silver for each field, under term three, because that's what we agreed.
 
-So what the valley has had from you this summer, for a hundred and sixty-six silver, is this. Our barley's whole from the pass storms, which is worth it. And we know who our liars are. Every one. By name, by field, by the day after.
+So what the valley has had from you this summer, for a hundred and seventy-two silver, is this. Our barley's whole from the pass storms, which is worth it. And we know who our liars are. Every one. By name, by field, by the day after.
 
 And the hail can't be turned, because it isn't weather. And it doesn't come for us at all, if we don't lie. So we won't be buying it again next year. We'll be doing it ourselves. Thank you.
 
 And she sat down.
 
-The assembly didn't laugh. Not then. You don't laugh at a man in front of the stone. They thanked him, very politely, and they stood up when he left, and the lord's steward walked him to the edge of the valley. He went down the road to the city with his hundred and sixty-six silver and his brass instrument and his mule.
+The assembly didn't laugh. Not then. You don't laugh at a man in front of the stone. They thanked him, very politely, and they stood up when he left, and the lord's steward walked him to the edge of the valley. He went down the road to the city with his hundred and seventy-two silver and his brass instrument and his mule.
 
 They laughed after. They've been laughing since.
 
@@ -125,7 +125,7 @@ That last part's true.
 
 The miller mended his own weir. The steward was kept on, because the lord liked a steward who'd lie for him, but the lord stopped believing a word he said. The man with the goat paid for the goat. And your grandmother married the blacksmith's son, in the end, from the next valley, which you know, because he's your grandfather.
 
-And the valley never bought another contract against the hail. Every year since, at the autumn fair, the assembly stands in the square and says out loud how many fields the hail took that summer. It's never as many as twenty-three. Some years it's none, and in those years, while she was alive, Beruzta sat through the count with her eyes on the young men and said nothing at all.
+And the valley never bought another contract against the hail. Every year since, at the autumn fair, the assembly stands in the square and says out loud how many fields the hail took that summer. It's never as many as twenty. Some years it's none, and in those years, while she was alive, Beruzta sat through the count with her eyes on the young men and said nothing at all.
 
 That's the adept and the hail. Bed. And if you told me you'd washed your feet, go and wash them, because it's a clear night.
 
@@ -139,6 +139,9 @@ That's the adept and the hail. Bed. And if you told me you'd washed your feet, g
 
 [[lore-motheryesno|The Mother's Yes and No]]
 : the Mother, the two words and the hail
+
+[[lore-dilkorla|The Village Assembly]]
+: how a valley's assembly meets, decides and binds
 
 [[lore-tarvenanclt|Tarvenan]]
 : the wise-woman, the village assembly, the oath stone and the mage nobody sent for

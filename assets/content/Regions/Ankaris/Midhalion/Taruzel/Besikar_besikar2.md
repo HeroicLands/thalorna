@@ -13,6 +13,7 @@ data:
   routes:
     - {to: pashinar, bearing: SE, mode: land, days: 5, terrain: [road, hills]}
     - {to: sharimun, bearing: SW, mode: land, days: 2, terrain: [road, plain]}
+    - {to: valthari, bearing: NW, mode: ship, days: 5, terrain: [open-sea]}
   packFolder: taruzel
   government: besikar
 ---

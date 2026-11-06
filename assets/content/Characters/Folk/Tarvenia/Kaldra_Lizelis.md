@@ -37,7 +37,7 @@ Kaldra Lizelis is a 35-year-old woman who stands 5'6" tall and is of medium buil
 
 # Dossier {#dossier}
 
-Kaldra Lizelis is a Towerkeeper of the chain of watchtowers down the [Thalsira]{.name data-type="place/feature"}, holding the tower her family has kept for as long as the chain has faced the coast, on a bluff over the river between [[place-ronetho|Ornetho]] and [[place-bruthena|Bruthena]]. She keeps its beacon ready and its watch kept, takes the light-due in grain from every village in sight of the tower and answers to the Warden of the Towers, [[being-orthemoulmis|Orthemo Ulmis]].
+Kaldra Lizelis is a Towerkeeper of [[place-ithrathorga|Ithrathorga]], the chain of watchtowers down the [Thalsira]{.name data-type="place/feature"}, holding the tower her family has kept for as long as the chain has faced the coast, on a bluff over the river between [[place-ronetho|Ornetho]] and [[place-bruthena|Bruthena]]. She keeps its beacon ready and its watch kept, takes the light-due in grain from every village in sight of the tower and answers to the Warden of the Towers, [[being-orthemoulmis|Orthemo Ulmis]].
 
 Her tower looks over the reed channels where the marsh smugglers move goods past the bridge, and the lamp in its window can be seen from both.
 

@@ -389,7 +389,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Álmera Desolardran is a 23-year-old woman who stands 5'10" tall and is of medium build. She has a square face with prominent cheekbones, a smooth forehead and an angular jaw that leads to a firm chin. Her dark brown eyes sit beneath prominent brows and are always on the road ahead. She has a strong nose and full lips, and her olive skin is ruddy from the wind off the salt marsh. Her dark brown hair is gathered in a practical bun.
+Álmera Desolardran is a 23-year-old woman who stands 5'10" tall and is of medium build. She has olive skin made ruddy by the wind off the salt marsh, dark brown hair gathered in a practical bun, and dark brown eyes that stay on the road ahead. She rides in a padded jack with a crossbow across her saddlebow and a long knife at her hip, and she sits a horse like someone who has done little else for five years.
 
 # Dossier {#dossier}
 

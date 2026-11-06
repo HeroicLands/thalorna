@@ -33,7 +33,7 @@ The March's houses raise knights for the border. [[being-srdlvnthrvkknghtwstrnmr
 
 ## Places {#places}
 
-[Grumagando]{.name data-type="place/feature"}
+[[place-grumagando|Grumagando]]
 : the war pass, the road Mórezan's host came down, which descends on the far side to the road at Malnebris.
 
 [[place-kemthoza|Kemthoza]]
@@ -44,6 +44,9 @@ The March's houses raise knights for the border. [[being-srdlvnthrvkknghtwstrnmr
 
 [[place-durvalis|Durvalis]]
 : the fortress town of the Talote, where Provénzia musters against the March.
+
+[[place-mirgonlodge|Mirgon Lodge]]
+: the lodge of the Mirindi, an Áelendan clan, under the boundary cairn above the valleys.
 
 ## Current Situation {#present}
 
@@ -76,8 +79,17 @@ The war began with Mórezan's raid about 556 AF ([[lore-malnebris|The First Grea
 [[lore-summerwar|The Summer War]]
 : the quarrel told from the March's side
 
+[[place-grumagando|Grumagando]]
+: the war pass
+
 [[place-kemthoza|Kemthoza]]
 : the fort at the head of the war pass
 
 [[being-srdlvnthrvkknghtwstrnmrchs|Sir Dalven Thorvek]]
 : a knight of the March
+
+[[affiliation-kraveldo|Kraveldo]]
+: a coast company under contract to a baron of the March this season
+
+[[scenario-greenbough|The Green Bough]]
+: an adventure on the March at the thaw

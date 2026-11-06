@@ -42,7 +42,7 @@ sohl: {system: {commonSkills: [tarvenlng]}}
 
 ## Overview {#overview}
 
-The **Council of Thórgila** governs [[place-thorgila|Thórgila]], a hill town in [[place-tarvenirgn|Tarvénia]]. It is the town's meeting of its free men, after the Tarvenan tradition of communal assembly, and its one office of note is the horse-judge of the autumn fair.
+The **Council of Thórgila** governs [[place-thorgila|Thórgila]], a hill town in [[place-tarvenirgn|Tarvénia]]. It is the town's meeting of its free men, after the Tarvenan tradition of [[lore-dilkorla|communal assembly]], and its one office of note is the horse-judge of the autumn fair.
 
 ## How It Is Ruled {#how-it-is-ruled}
 

@@ -56,7 +56,11 @@ The same seal stands behind the arbitrations of the [[affiliation-ardavon|Faith 
 
 ## Current Situation {#present}
 
-The seal's protection holds only while the work it covers never reaches the royal court. A commission under it, carried by [[being-frstrndrvs|Father Ostaran Dorvás]] against Lord [[being-nizelganotis|Nizel Ganotis]], is uncovering a web of corruption that reaches past Lord Nizel, and the further it reaches the nearer it comes to a court the temple's charter does not touch.
+The seal's protection holds only while the work it covers never reaches the royal court. A commission under it, carried by [[being-frstrndrvs|Father Ostaran Dorvás]] against Lord [[being-nizelganotis|Nizel Ganotis]], is following accusations that reach beyond Lord Nizel, and the further it reaches the nearer it comes to a court the temple's charter does not touch.
+
+## History {#history}
+
+The city's government is a High King's charter, so it dates from the High Kingship, which the lords of Tarvénia elected about 540 AF to drive the imperial garrisons out of the lowlands ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The prelates of [[place-grttmplrdvn|the Great Temple]] have ruled the city under that charter since, each elected for life by the chapter from its canons, and the seal they keep has stood behind the arbitrations of the faith's traveling priests. The present prelate is [[being-thalurozenot|Thaluro Zenothis]].
 
 ## See Also
 

@@ -49,7 +49,7 @@ Korvath is loud, funny and unhurried, and swears by every sea-saint in the calen
 
 ### Motivation
 
-He wants salt at a price the boats can live on, a chart of the coast he saw west of the Far Grounds, and a crew that comes home. He is slow to forgive a master who loses a man by cutting corners.
+He wants salt at a price the boats can live on, a chart of the island shore beyond the Far Grounds, and a crew that comes home. He is slow to forgive a master who loses a man by cutting corners.
 
 ### Strengths
 
@@ -79,6 +79,6 @@ The Keeper of the Salt, who sets the crown's price, and the rival master whose b
 
 ## Plot Hooks
 
-1. **The book of soundings.** Korvath's old rival on the roll has died at sea, and his book of soundings, with the only chart of a coast he claimed to have found west of the Far Grounds, has gone missing from his widow's house. A Valthari shipping house has offered a sum for it, and Korvath wants it back before anyone can sell it.
+1. **The book of soundings.** Korvath's old rival on the roll has died at sea, and his book of soundings, with the only chart of an island shore he claimed to have found beyond the Far Grounds, has gone missing from his widow's house. A Valthari shipping house has offered a sum for it, and Korvath wants it back before anyone can sell it.
 2. **The salt runs out.** The autumn salt ship from the south is a month late and the crown's store is empty. Korvath wants a party to ride to Durvolka and come back with salt, or with a reason the Long Table will believe.
 3. **A boat out too long.** A cod boat is in its eleventh month out, and its master is Korvath's brother-in-law. The teller will call it in at the Night of Lanterns, and Korvath wants to know why the master's wife has been seen meeting a man at the drying racks.

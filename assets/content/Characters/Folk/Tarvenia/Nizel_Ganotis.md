@@ -3,7 +3,7 @@ shortcode: nizelganotis
 name: {full: Nizel Ganotis, en: [Lord Nizel Ganotis, Lord Nizel]}
 type: being
 subType: npc
-description: A corrupt lord of the hills above Thórgila who seizes land unlawfully and oppresses his peasantry, and who would use bribery or violence to stop Father Ostaran Dorvás's inquiry.
+description: A lord of the hills above Thórgila, accused of seizing land unlawfully and oppressing his peasantry, who sees Father Ostaran Dorvás's inquiry as a threat to his power and would use bribery or violence to stop it.
 tags: []
 data:
   icon: icon-person
@@ -37,7 +37,7 @@ Nizel Ganotis is a 48-year-old man who stands 6'3" tall with a medium build. He 
 
 # Dossier {#dossier}
 
-Nizel Ganotis is a lord of the hills above [[place-thorgila|Thórgila]], a knight who holds his land by mounted service and calls himself Lord Nizel. He is accused of seizing land unlawfully and oppressing his peasantry, and he ignores the laws of the kingdom when they are in his way.
+Nizel Ganotis is a lord of the hills above [[place-thorgila|Thórgila]], a knight who holds his land by mounted service and calls himself Lord Nizel. He is accused of seizing land unlawfully and oppressing his peasantry, and his neighbors say he has never let the kingdom's laws stand in his way.
 
 He sees the investigation of [[being-frstrndrvs|Father Ostaran Dorvás]] as a direct threat to his power and would use bribery, manipulation and even violence to stop it. His riders come to the autumn fair asking where the priest keeps his papers.
 
@@ -57,7 +57,7 @@ He has friends at court and money to spend. His riders are many and loyal.
 
 ### Weaknesses
 
-His neighbors hate him, and the fair is public. One honest witness would end him.
+His neighbors hate him, and the fair is public. A witness who will speak against him before the inquiry is a danger he cannot buy off.
 
 ## Social
 

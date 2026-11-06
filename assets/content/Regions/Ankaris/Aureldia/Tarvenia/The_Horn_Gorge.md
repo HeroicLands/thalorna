@@ -33,7 +33,7 @@ At the upper end the Astúrathi raised a cairn after the battle. They leave noth
 
 - **Astúrathi shepherds**, by day and never to stay.
 - **Vilérian antiquarians**, who want the legion's name and its standards.
-- **Pilgrims of [[affiliation-sacredforge|the Sacred Forge]]**, who climb to Lezkora by the path above the gorge.
+- **Pilgrims of [[affiliation-sacredforge|the Sacred Forge]]**, who climb to Lezkora by [[place-thumbalero|Thumbalero]], the path above the gorge.
 
 ## Hooks
 

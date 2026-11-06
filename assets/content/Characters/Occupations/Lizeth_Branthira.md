@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Lizéth Bránthira is a 40-year-old man who stands 6'4" tall and is broad and heavily built. He has a square face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His wide-set green eyes sit beneath heavy brows and give him an open gaze. He has a strong nose and thin lips. His olive skin is weathered by work in the open, and his black hair is short and swept back.
+Lizéth Bránthira is a 40-year-old man who stands 6'4" tall and is broad and heavily built. His olive skin is weathered by work in the open, his black hair is short and swept back, and his green eyes are wide-set and open. He carries a load on one shoulder as easily as another man carries a cloak, and his hands are scarred across the knuckles from rope and crate.
 
 # Dossier {#dossier}
 

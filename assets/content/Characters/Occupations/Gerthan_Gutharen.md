@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Gerthan Gútharen is a 52-year-old man who stands 6'0" tall and is of medium build. He has a square face with sharp cheekbones, a high forehead, and a square jaw that leads to a firm chin. His sharp hazel eyes sit beneath thick brows and give him an incisive gaze. He has a hawkish nose and expressive lips. His olive skin is weathered, his white hair is kept short, and deep laugh lines run from the corners of his eyes. A tattoo of a falcon shows on his right arm when he rolls his sleeves to the canvas.
+Gerthan Gútharen is a 52-year-old man who stands 6'0" tall and is of medium build. His olive skin is weathered, his white hair is kept short, and deep laugh lines run from the corners of his hazel eyes. His fingers are calloused from the needle and the palm-iron, a coil of waxed thread hangs from his belt, and a tattoo of a falcon shows on his right arm when he rolls his sleeves to the canvas.
 
 # Dossier {#dossier}
 

@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Alvarik Árenthar is a 40-year-old man who stands 6'2" tall and is broad and heavily built. He has a long face with defined cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. His piercing gray eyes sit beneath straight brows and give him a penetrating gaze. He has a prominent nose and firm lips. His skin is browned and lined by forty summers in the fields, and his gray hair is shorn at the sides with length on top. When he works stripped to the waist, a tattoo of a compass shows on his chest.
+Alvarik Árenthar is a 40-year-old man who stands 6'2" tall and is broad and heavily built. His skin is browned and lined by forty summers in the fields, his gray hair is shorn at the sides with length on top, and his gray eyes are pale in a dark face. He works in a sleeveless smock and goes barefoot in the furrows, and when he strips to the waist a tattoo of a compass shows on his chest.
 
 # Dossier {#dossier}
 

@@ -32,23 +32,23 @@ data:
 
 # Appearance {#appearance}
 
-Kotsude Kanarris is a 68-year-old man who stands 5'11" tall with a medium build. He has olive skin, sun-kissed complexion, dark brown hair, and gray eyes.
+Kotsude Kanarris is a 68-year-old man who stands 5'11" tall and is of medium build. He has olive skin darkened by years on the road, dark brown hair worn long and tied back in the old knightly way, and gray eyes that wander and then fix. He wears mail that was good forty years ago over a faded surcoat, and he rides a tall gray horse with a white muzzle, which he talks to.
 
 # Dossier {#dossier}
 
 Kotsude Kanarris is an old knight-errant who lodges at [[place-ronetho|Ornetho]], where [[lore-ardavondty|Árdavon]] of gates and oaths has his largest temple of the kingdom at the north gate. He rides a horse of extraordinary breeding and apparent extreme age, which he says is preserved by magic. Every company that marches out through the north gate stops for the priest's blessing on the contract, and Kotsude watches them pass.
 
-He is on a quest to recover a stolen artifact that he believes holds knowledge able to change the balance of power in several kingdoms. He seeks the help of [[being-kjrvngjrln|Chorvan Jarlen]] with the horse.
+He is on a quest to recover a stolen artifact that he believes holds knowledge able to change the balance of power in several kingdoms: [[miscgear-legatesroll|the Legate's Roll]], the imperial legate's roll of the march, which was taken from the north-gate temple's keeping in 680 AF on a watch he stood as a young knight. He swore before the altar to bring it back. Each autumn, when the companies have marched out, he rides west into [[place-provenzrgn|Provénzia]] to [[being-kjrvngjrln|Chorvan Jarlen]], the ostler at [[place-lizela|Lizela]], because the horse is failing and Chorvan is the one ostler in the west he trusts with it.
 
 ## Psyche
 
 ### Personality
 
-Kotsude is courtly, absent-minded and strangely dangerous. He speaks of the artifact in half-sentences.
+Kotsude is courtly, absent-minded and strangely dangerous. He speaks of the roll in half-sentences, and never names it to a stranger.
 
 ### Motivation
 
-He wants the artifact back before it reaches anyone who would use it. He is afraid his horse will not live to see the end of the quest.
+He wants the roll back in the temple's keeping before it reaches anyone who would use it. He is afraid his horse will not live to see the end of the quest.
 
 ### Strengths
 
@@ -70,7 +70,7 @@ None.
 
 ### Enemies
 
-Whoever took the artifact, and the castellan's men, who wish he would leave the city.
+Whoever took the roll, and the castellan's men, who wish he would leave the city.
 
 ### Affiliations
 
@@ -80,5 +80,5 @@ Whoever took the artifact, and the castellan's men, who wish he would leave the 
 ## Plot Hooks
 
 1. **The horse's teeth.** A horse-judge at Thórgila's fair has said Kotsude's horse is too old to be alive. Kotsude asks a party to bring back the judge's reading in writing.
-2. **The archive in the vaults.** Kotsude believes the stolen artifact's last owner kept a record in the vaults under the old barracks. He asks a party to find a way in.
+2. **The archive in the vaults.** Kotsude believes the man who took the roll kept a record of where it went, in the vaults under the old barracks. He asks a party to find a way in.
 3. **The north gate's blessing.** A company marched out past the temple without the priest's blessing, and Kotsude saw the captain with a sealed packet. He asks a party to follow them.
