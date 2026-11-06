@@ -28,6 +28,8 @@ at Sirmenne is not a partnership so much as a long-standing mutual restraint: ea
 in its own way, each acknowledges the other's right to be there, and neither has ever explained the
 arrangement to an outsider who asked.
 
+A standing stone among the ruins carries [[lore-ellevirsa|Guest-Right]], the Sinale origin song, cut in an old hand of the [[skill-clthndscrpt|Veldikko]] and broken in two places. The Áelendan Tradition Keepers read it at the stone when they come.
+
 Neither crown administers it. [[affiliation-kngdmprvnz|Provénzia]]'s claim is formally unambiguous and practically theoretical.
 
 ## Layers {#history}

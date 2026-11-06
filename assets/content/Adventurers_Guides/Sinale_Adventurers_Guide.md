@@ -4,7 +4,7 @@ name: {full: Sinale Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to the Sinale—the elder people of the deep forests, met at the edge of their enclaves through Áelendan intermediaries, and the ways a campaign reaches them.
-tags: [draft]
+tags: []
 data: {packFolder: adventurersguides, culture: sinaleclt}
 ---
 

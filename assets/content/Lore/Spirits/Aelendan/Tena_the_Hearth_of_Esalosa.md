@@ -4,7 +4,7 @@ name: {full: "Tena, the Hearth of Ésalosa", en: [The Hearth]}
 type: lore
 subType: spirit
 description: "Hearth-kin of the great hall at Ésalosa—the oldest tended fire in Áelendan country, keeper of guest-right, and the one Kindred that came into being because people kept returning."
-tags: [draft, first-gods]
+tags: [first-gods]
 data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
@@ -22,6 +22,9 @@ Posture
 
 Met through
 : [[skill-tenasprt|Tena Spirit Power]]
+
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
 
 Tena is the hearth-kin of the great hall at Ésalosa, and the oldest continuously tended fire
 in [[lore-aelendnppl|Áelendan country]]—the Lodge has been inhabited since the earliest [[lore-pelwarpepl|Pelwar settlement]] of the
@@ -80,7 +83,7 @@ distance, and to be bound by its protocols while it does.
 When a new village is founded, its fire is kindled from a carried ember and not struck fresh. Where
 the ember came from Ésalosa, the new hall's hearth-kin is held to be Tena's own, and the tribe
 of that village stands in a particular relation to the Lodge ever afterward. This is as close as
-the Áelendan come to a political hierarchy, and they would not call it one.
+the Áelendan come to a political hierarchy.
 
 The [Dhárgandi]{.name data-type="affiliation/polity"} are the tribe whose hall was kindled from Ésalosa: they hold that [Dhargan]{.name data-type="being/npc"}, the founder of their line, died at the Lodge, and that their fire came from its hearth.
 

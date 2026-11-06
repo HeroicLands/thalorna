@@ -26,7 +26,7 @@ data:
 
 ## Overview {#overview}
 
-At the margin of [Siralonke]{.name data-type="place/feature"}, where the licensed coppice behind [[place-liranel|Liranel]] gives way to old oak and silver birch, cutters under a crown license have felled a ring of great oaks. A grove-elder of the [[affiliation-groveconcl|Grove Council]], [[being-evranetolsel|Evrane Tolsel]], holds that it was a Council grove, and asks the party to learn whose it is before the [[affiliation-alndnwrdns|Wardens]] act. The Wardens say it is Áelendan ground, and the nearest Warden has given the cutters the one warning the law gives.
+At the margin of [[place-siralonke|Siralonke]], where the licensed coppice behind [[place-liranel|Liranel]] gives way to old oak and silver birch, cutters under a crown license have felled a ring of great oaks. A grove-elder of the [[affiliation-groveconcl|Grove Council]], [[being-evranetolsel|Evrane Tolsel]], holds that it was a Council grove, and asks the party to learn whose it is before the [[affiliation-alndnwrdns|Wardens]] act. The Wardens say it is Áelendan ground, and the nearest Warden has given the cutters the one warning the law gives.
 
 The quarrel is the clearing. A charter to fell is the crown's to grant, and the license to cut is issued at Liranel. Neither reaches an Áelendan grove. Every new clearing is a negotiation with the nearest tribe, and the license-holder here has not negotiated.
 
@@ -40,7 +40,7 @@ The quarrel is the clearing. A charter to fell is the crown's to grant, and the 
 
 **The village.** Kardeth's levy takes the cut stems at a discount, and [[being-auliranekard|Lady Áulirane Kardeth]] has a roof to mend before winter. She is pragmatic about the gap between public virtue and private necessity. She does not know the oak ring was Áelendan, and learns it when the Wardens act.
 
-**The Wardens.** The graduated response has begun. [[being-thandreltirin|Thandrel]] of the [Tírindi]{.name data-type="affiliation/lineage"} turned the cutters' carts back once and left the stems where they lay. The next step is not a warning. The cutters are woodcutters of Kardeth and Liranel, poor men who were told the license covered the ring.
+**The Wardens.** The graduated response has begun. [[being-thandreltirin|Thandrel]] of the [Tírindi]{.name data-type="affiliation/polity"} turned the cutters' carts back once and left the stems where they lay. The next step is not a warning. The cutters are woodcutters of Kardeth and Liranel, poor men who were told the license covered the ring.
 
 **The law.** A license from Liranel does not reach Áelendan ground, and the royal magistrates hear no complaint from anyone hurt on it. Their first question is whether the complainant was warned.
 

@@ -3,8 +3,8 @@ shortcode: gilpandsprt
 name: {full: Gildand Spirit Power, en: ["Gildand, the West Wind"]}
 type: skill
 subType: mystical
-description: "Standing with Gildand, the West Wind—what this allied Kindred is met, asked and bargained with."
-tags: [first-gods, spirit-power, draft]
+description: "Standing with Gildand, the West Wind—how this Kindred is addressed in the moment, with no pact to keep and no bargain to make."
+tags: [first-gods, spirit-power]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:

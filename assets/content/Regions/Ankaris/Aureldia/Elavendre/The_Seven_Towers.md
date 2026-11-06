@@ -4,7 +4,7 @@ name: {full: The Seven Towers}
 type: lore
 subType: literature
 description: "A Sinalean elegy held in Élavendre for a city of light cut into a cliff, its halls, water and birds, and the night a horde came up the valley—sung without its subject named, and broken off where the Sinale stop."
-tags: [draft]
+tags: []
 data:
   culture: sinaleclt
   packFolder: elavendre

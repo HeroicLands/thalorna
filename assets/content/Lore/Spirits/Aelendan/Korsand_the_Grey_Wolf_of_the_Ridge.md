@@ -4,7 +4,7 @@ name: {full: "Korsand, the Grey Wolf of the Ridge"}
 type: lore
 subType: spirit
 description: "Presiding wolf-spirit of a ridge in the Drenavar Spine—the hunt-rite's usual addressee, and a hard reciprocator."
-tags: [draft, first-gods]
+tags: [first-gods]
 data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
@@ -22,6 +22,9 @@ Posture
 
 Met through
 : [[skill-porsandsprt|Korsand Spirit Power]]
+
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
 
 Korsand is the presiding spirit of the wolves of one long ridge—not a wolf, and not all wolves,
 but the ancestral presence the packs of that ridge belong to. He is the Kindred most hunt-rites of the [[lore-aelendnppl|Áelendan People]] in that country are addressed to, and the relationship is the plainest in the tradition:

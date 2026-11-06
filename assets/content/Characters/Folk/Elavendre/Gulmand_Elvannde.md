@@ -49,7 +49,7 @@ Gulmand is gentle, stubborn and unhurried. He speaks to the trees, to the well a
 
 ### Motivation
 
-He wants the lip-stone found and brought home. He wants the town to come back to the well, and he does not want the cider-pressers to be punished for being afraid.
+He wants the [[miscgear-lamanisstone|lip-stone]] found and brought home. He wants the town to come back to the well, and he does not want the cider-pressers to be punished for being afraid.
 
 ### Strengths
 

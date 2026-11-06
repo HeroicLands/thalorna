@@ -4,7 +4,7 @@ name: {full: Sálenda of the Long Stair}
 type: lore
 subType: spirit
 description: "River-mother of the Long Stair—exacting, exact, and the reason nobody climbs past the lowest pool."
-tags: [draft, first-gods]
+tags: [first-gods]
 data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
@@ -22,6 +22,9 @@ Posture
 
 Met through
 : [[skill-salendasprt|Sálenda of the Long Stair Spirit Power]]
+
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
 
 Sálenda is a river-mother of the old kind: her power runs the length of the seven falls and the
 gorge beneath them, and stops where the water slows. She is not malicious and she is not kind.

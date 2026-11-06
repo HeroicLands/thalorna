@@ -36,4 +36,8 @@ Kélpane is a 30-year-old woman who stands 5'7" tall and is of light build. She 
 
 # Dossier {#dossier}
 
-Kélpane of the Dhárgandi is a Warden of Siralonke, the stretch of wood behind [[place-liranel|Liranel]] where the Wrought Hollow lies. She warned the Order's scouts once and turned them out. She holds Berin Salthar at a turf watch-hut and is of a mind to let his wife see him.
+Kélpane of the Dhárgandi is a Warden of [[place-siralonke|Siralonke]], the stretch of wood behind [[place-liranel|Liranel]] where the Wrought Hollow lies. She warned the Order's scouts once and turned them out.
+
+:::secret {title="The guide at the watch-hut"}
+She holds [[being-berinsalth|Berin Salthar]], the guide who led a second party in, at a turf watch-hut at the forest edge, and she is of a mind to let his wife see him.
+:::

@@ -4,7 +4,7 @@ name: {full: The Lay of the Tree Line, en: [The Crowning Lay]}
 type: lore
 subType: literature
 description: "The Bardic Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears: the bread sent down from Ésalosa, the white hart in the wood, the page with its foot left blank, and the oath said at Tena's fire."
-tags: [draft, elavendri]
+tags: [elavendri]
 data:
   culture: elavendriclt
   packFolder: settinglore

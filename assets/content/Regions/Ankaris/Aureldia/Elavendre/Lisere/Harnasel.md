@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-**Harnasel** is a village of about 260 people on the [[place-coastroad|Coast Road]], the last beacon village before the road leaves [[place-lisere|Lísere]] for the cliffs of [[place-lirve|Lirve]]. It stands at the edge of the forest. Behind it the alders thicken into [Olvalonke]{.name data-type="place/feature"}, the wet wood whose deep parts are sacred ground of the [[lore-aelendnppl|Áelendan]]. The name is built on _hárnathen_, the Élavendri verb for lighting a lamp.
+**Harnasel** is a village of about 260 people on the [[place-coastroad|Coast Road]], the last beacon village before the road leaves [[place-lisere|Lísere]] for the cliffs of [[place-lirve|Lirve]]. It stands at the edge of the forest. Behind it the alders thicken into [[place-olvalonke|Olvalonke]], the wet wood whose deep parts are sacred ground of the [[lore-aelendnppl|Áelendan]]. The name is built on _hárnathen_, the Élavendri verb for lighting a lamp.
 
 ## The Village {#the-village}
 

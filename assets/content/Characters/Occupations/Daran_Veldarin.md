@@ -4,16 +4,16 @@ name: {full: Daran Véldarin}
 type: being
 subType: npc
 description: "The captain of the crown's garrison at Elanmere, a capable officer of a minor noble house who has risen as far as his manners allow."
-tags: [todo, clergy]
+tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [cleric, warrior, mage]
-  occupation: Priest
+  archetypes: [warrior]
+  occupation: Garrison Captain
   lore: []
   culture: elavendriclt
   homes: [elanmere]
-  affiliations: {kngdmlvndr: {rank: 5}}
+  affiliations: {kngdmlvndr: {rank: 5}, hseveldarin: {rank: 2, office: Heir of Véldarin}}
   gender: male
   species: humanflk
   born: 679.108
@@ -25,7 +25,7 @@ data:
     hair_color: auburn
     skin_color: pale
     complexion: [smooth]
-    extra_features: [a brand scarred into the skin above the heart]
+    extra_features: [a nose broken and set at least once]
   packFolder: aureldiaelavendre
 sohl:
   items:
@@ -397,7 +397,7 @@ Daran Véldarin is a 40-year-old man who stands 6'3" tall and is of heavy build,
 
 # Dossier {#dossier}
 
-Daran Véldarin is the captain of the crown's garrison at [[place-elanmere|Elanmere]], the force that answers for order in the district around the lake town, patrols the forest margin and the lake road, and investigates the crimes and heresies of a wide rural country. He was born to [House Véldarin]{.name data-type="affiliation/lineage"}, a minor noble family of the [[lore-elavendriclt|Élavendri]] with a long tradition of service on the kingdom's borders. His father commanded a garrison; his grandfather died fighting border raiders. Daran took to the sword with an aptitude that surprised no one. He was strong, aggressive and possessed of the kind of presence that makes other men fall in line without quite knowing why.
+Daran Véldarin is the captain of the crown's garrison at [[place-elanmere|Elanmere]], the force that answers for order in the district around the lake town, patrols the forest margin and the lake road, and investigates the crimes and heresies of a wide rural country. He was born to the [[affiliation-hseveldarin|House of Véldarin]], a minor noble family of the [[lore-elavendriclt|Élavendri]] with a long tradition of service on the kingdom's borders. His father commanded a garrison; his grandfather died fighting border raiders. Daran took to the sword with an aptitude that surprised no one. He was strong, aggressive and possessed of the kind of presence that makes other men fall in line without quite knowing why.
 
 He went to the border garrisons at sixteen and earned a commission by twenty. Stationed at a frontier post, he saw raiders and bandits who respected nothing but force, and he watched [[affiliation-bardicolgs|the Bardic Circle]] send envoys to men who understood only the blade and [[affiliation-groveconcl|the Grove Council]] debate while villages burned. The Élavendri way of wisdom and contemplation struck him not as noble but as a kind of cowardice, and he has never entirely hidden that he thinks so.
 
@@ -455,7 +455,7 @@ The soldiers of his company, several of whom have served with him for a decade.
 
 ### Patrons
 
-House Véldarin's military connections keep his commission sound, and his family's name still shields him from the worst of his reputation, though his father, retired and deeply traditional, has made it clear that the family's patience has limits.
+The [[affiliation-hseveldarin|House of Véldarin]]'s military connections keep his commission sound, and his family's name still shields him from the worst of his reputation, though his father, [[being-halmesarveld|Hálmesar]], retired and deeply traditional, has made it clear that the family's patience has limits.
 
 ### Enemies
 
@@ -464,6 +464,7 @@ Lánthevile Halren, who does not trust the garrison's explanations of the burned
 ### Affiliations
 
 - **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Daran is of a Noble house and holds the crown's captaincy at Elanmere.
+- **[[affiliation-hseveldarin|House of Véldarin]]**: He is Of the Line and holds the office of Heir of Véldarin.
 
 ## Plot Hooks
 

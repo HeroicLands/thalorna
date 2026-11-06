@@ -3,8 +3,8 @@ shortcode: urnelsprt
 name: {full: Urnel Spirit Power, en: ["Urnel, the Bear of the High Corries"]}
 type: skill
 subType: mystical
-description: "Standing with Urnel, the Bear of the High Corries—what this allied Kindred is met, asked and bargained with."
-tags: [first-gods, spirit-power, draft]
+description: "Standing with Urnel, the Bear of the High Corries—how this Kindred is warded against in winter and venerated in summer."
+tags: [first-gods, spirit-power]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:

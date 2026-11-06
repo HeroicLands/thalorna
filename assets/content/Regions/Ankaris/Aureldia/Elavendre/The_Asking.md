@@ -4,7 +4,7 @@ name: {full: The Asking}
 type: lore
 subType: literature
 description: "A Sinalean lay held in Élavendre: the Pelwar band that came over the eastern pass, the herdsman Dhargan who sat four days at the wood's edge and asked, and the generations after him, told in nine turnings by the Sinale who watched."
-tags: [draft]
+tags: []
 data:
   culture: sinaleclt
   packFolder: elavendre
@@ -19,13 +19,13 @@ data:
 and carried out of [[place-silvrfrsts|the Silver Forests]] by people to whom it was given freely;
 [[affiliation-bardicolgs|the Bardic Colleges]] sing it to the harp in nine turnings, each named for what
 stands out in it. The song is the [[lore-flksinale|Sinale Folk]]'s own account of the [[lore-pelwarpepl|Pelwar band]] that came
-over the eastern pass into the interior, of the herdsman [Dhargan]{.name data-type="being/npc"} who sat four days at the wood's edge and
-asked, and of the generations after him: the [Kindred Pact]{.name data-type="lore/law"} sung at the lowest pool of [[place-longstair|the Long Stair]],
-the watch set at the fog-hollow, the chief made Kinless at the fire of [[lore-tenaspr|Tena, the Hearth of Ésalosa]] in the
-Black Snow year, the fires on the pass, and the giving-over at the stone court of
+over [[place-nelgan|the eastern pass]] into the interior ([[lore-nelgancross|The Crossing of Nelgan]]), of the herdsman [Dhargan]{.name data-type="being/npc"} who sat four days at the wood's edge and
+asked, and of the generations after him: [[lore-lowestpoolpct|the Kindred Pact]] sung at the lowest pool of [[place-longstair|the Long Stair]],
+the watch set at [[place-talve|the fog-hollow]], the chief made Kinless at the fire of [[lore-tenaspr|Tena, the Hearth of Ésalosa]] in the
+[[lore-blacksnow|Black Snow]] year, [[lore-firesnelgan|the fires on the pass]], and the giving-over at the stone court of
 [[place-ethalosse|Ethalosse]].
 
-The [Dhárgandi]{.name data-type="affiliation/lineage"} hold that the Dhargan of the song is the founder of their line, and the [Kháldendi]{.name data-type="affiliation/lineage"} are the
+The [Dhárgandi]{.name data-type="affiliation/polity"} hold that the Dhargan of the song is the founder of their line, and the [Kháldendi]{.name data-type="affiliation/polity"} are the
 line the song calls cold-handed. The Sinale have confirmed neither claim and corrected neither, and the
 Tradition Keepers sing the song as it was received, adding nothing. The Sinale names in it, for the wood,
 the pool, the clearing, the fog-hollow and the epithet the song gives Dhargan at its close, are sung as
@@ -1771,25 +1771,25 @@ onsa alte sovaisa tarnevi onsa tennai
 
 The song keeps the Áelendan names as the Áelendan say them and the Sinale names as the Sinale say them.
 
-| Name         | Who or what                                                                                                                                        |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Dhargan**  | The herdsman who led the migration, sat four days at the wood's edge and died old at Ésalosa; later his descendant, chief at the fires on the pass |
-| **Nela**     | Dhargan's daughter, the lamb over Nelgan, who made the asking at the Stair and was the first Tradition Keeper after him                            |
-| **Silor**    | The band's shaman, whose grass-country forms fail on the fae, who makes the Pact at the lowest pool                                                |
-| **Ansel**    | Dhargan's son, who sat down in the snow and was called out                                                                                         |
-| **Dranketh** | Dhargan's other son, kept by the fog at Talve in the Lean Year                                                                                     |
-| **Tala**     | Nela's grandchild, who enlarged the fox's share in the song                                                                                        |
-| **Ghalmir**  | The chief of the Black Snow year, who felled the stand and pulled the watch, and was made Kinless                                                  |
-| **Mogha**    | Ghalmir's sister, a Tradition Keeper, who led the return                                                                                           |
-| **Dulthan**  | The raiders' chief as the Áelendan name him, a name mothers use to still a child                                                                   |
-| **Nelgan**   | The eastern pass, also called the Snow-Gate                                                                                                        |
-| **Hauletta** | The eldest of the Sinale of Lonku, she who said "the sea", once a guest in the makers' halls                                                       |
-| **Lauva**    | The Sinale whose care is the pool, who ate the bread                                                                                               |
-| **Pilme**    | Dhargan's epithet in the Sinale tongue, "the one who sat", withheld until the song's close                                                         |
-| **Lonku**    | The Silver Forests, as the Sinale name them                                                                                                        |
-| **Mallonna** | The deep pool Lauva keeps, a thin place in water                                                                                                   |
-| **Tehì**     | The clearing round the one tree                                                                                                                    |
-| **Talve**    | The fog-hollow thin place at the wood's edge                                                                                                       |
+| Name         | Who or what                                                                                                                                                                                                                      |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dhargan**  | The herdsman who led the migration, sat four days at the wood's edge and died old at Ésalosa; later his descendant, chief at the fires on the pass                                                                               |
+| **Nela**     | Dhargan's daughter, the lamb over Nelgan, who made the asking at the Stair and was the first Tradition Keeper after him                                                                                                          |
+| **Silor**    | The band's shaman, whose grass-country forms fail on the fae, who makes the Pact at the lowest pool                                                                                                                              |
+| **Ansel**    | Dhargan's son, who sat down in the snow and was called out                                                                                                                                                                       |
+| **Dranketh** | Dhargan's other son, kept by the fog at Talve in the Lean Year                                                                                                                                                                   |
+| **Tala**     | Nela's grandchild, who enlarged the fox's share in the song                                                                                                                                                                      |
+| **Ghalmir**  | The chief of the Black Snow year, who felled [[place-fldstnd                                                                                       \| the stand]] and pulled the watch, and was made Kinless                     |
+| **Mogha**    | Ghalmir's sister, a Tradition Keeper, who led the return                                                                                                                                                                         |
+| **Dulthan**  | The raiders' chief as the Áelendan name him, a name mothers use to still a child                                                                                                                                                 |
+| **Nelgan**   | [[place-nelgan                                                                                                                                     \| The eastern pass]], also called the Snow-Gate                              |
+| **Hauletta** | The eldest of the Sinale of Lonku, she who said "the sea", once a guest in the makers' halls                                                                                                                                     |
+| **Lauva**    | The Sinale whose care is the pool, who ate the bread                                                                                                                                                                             |
+| **Pilme**    | Dhargan's epithet in the Sinale tongue, "the one who sat", withheld until the song's close                                                                                                                                       |
+| **Lonku**    | [[place-silvrfrsts                                                                                                                                 \| The Silver Forests]], as the Sinale name them                              |
+| **Mallonna** | [[place-mallonna                                                                                                                                   \| The deep pool]] Lauva keeps, a thin place in water                         |
+| **Tehì**     | [[place-tehy                                                                                                                                       \| The clearing]] round the one tree, [[place-urontekhi   \| the Uron Tekhi]] |
+| **Talve**    | [[place-talve                                                                                                                                      \| The fog-hollow]] thin place at the wood's edge                             |
 
 ## See Also
 

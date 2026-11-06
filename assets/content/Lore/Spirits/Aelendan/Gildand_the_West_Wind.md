@@ -4,7 +4,7 @@ name: {full: "Gildand, the West Wind"}
 type: lore
 subType: spirit
 description: "The west wind off the sea—mobile, unreliable, and addressed in the moment rather than kept in pact."
-tags: [draft, first-gods]
+tags: [first-gods]
 data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
@@ -22,6 +22,9 @@ Posture
 
 Met through
 : [[skill-gilpandsprt|Gildand Spirit Power]]
+
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
 
 Gildand is weather-kin, and weather-kin are the awkward case in a tradition built on standing
 pacts: he holds no territory, cannot be located, and is present only while he is blowing. A tribe

@@ -36,4 +36,4 @@ Thandrel is a 38-year-old man who stands 6'0" tall and is of medium build. He is
 
 # Dossier {#dossier}
 
-Thandrel of the Tírindi is a Warden of Siralonke. He turned the cutters' carts back once and left the felled stems where they lay, as the graduated response of the [[affiliation-alndnwrdns|Wardens]] requires. The next step is not a warning, and he carries it out.
+Thandrel of the Tírindi is a Warden of [[place-siralonke|Siralonke]]. He turned the cutters' carts back once and left the felled stems where they lay, as the graduated response of the [[affiliation-alndnwrdns|Wardens]] requires. The next step is not a warning, and he carries it out.

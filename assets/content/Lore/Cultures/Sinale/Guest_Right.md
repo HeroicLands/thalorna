@@ -4,7 +4,7 @@ name: {full: Guest-Right, sina: [ellevirsa]}
 type: lore
 subType: literature
 description: "The Sinale origin song cut into a stone at Sirmenne: how they came into a valley that was not theirs, what was already in it, the council that argued over the human bands, and the saying that left the valley open."
-tags: [draft, sinale]
+tags: [sinale]
 # terran_analog: "The Kalevala's origin charms (the birth of fire, the birth of iron) for a song that tells where a thing came from so as to hold it; the Kanteletar's runo-song for lines restated by the line beneath; the gnomic englynion for pairs that state a rule beside a thing seen; and inscriptions that locate themselves at their own stone."
 data:
   culture: sinaleclt

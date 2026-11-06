@@ -37,7 +37,7 @@ Sírgana is a 31-year-old woman who stands 5'7" tall and is of light build. She 
 
 # Dossier {#dossier}
 
-Sírgana of the [Tírindi]{.name data-type="affiliation/lineage"} is a Warden of the [[affiliation-alndnwrdns|Áelendan Wardens]] who keeps the envoys' road below [[place-silvrfrsts|the Silver Forests]] with her partner [[being-astherenwrdn|Ástheren]]. Ástheren took the envoy [[being-devrikveldr|Devrik Véldarin]] up the road toward [[place-eshalshldg|Ésalosa Lodge]] with a sealed casket for the great council, and neither has come to the Lodge. She has followed the road to [[place-hntrsrng|the Hunter's Ring]], found four boundary stones overturned, and stopped at the edge. A Warden alone in the ring is prey, and she needs company to go in.
+Sírgana of the [Tírindi]{.name data-type="affiliation/polity"} is a Warden of the [[affiliation-alndnwrdns|Áelendan Wardens]] who keeps the envoys' road below [[place-silvrfrsts|the Silver Forests]] with her partner [[being-astherenwrdn|Ástheren]]. Ástheren took the envoy [[being-devrikveldr|Devrik Véldarin]] up the road toward [[place-eshalshldg|Ésalosa Lodge]] with a sealed casket for the great council, and neither has come to the Lodge. She has followed the road to [[place-hntrsrng|the Hunter's Ring]], found four boundary stones overturned, and stopped at the edge. A Warden alone in the ring is prey, and she needs company to go in.
 
 She wants Ástheren and the envoy found and the stones set right. She knows parts of the Wardens' song of the ring and sings them only for a price in kind.
 

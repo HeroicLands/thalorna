@@ -4,7 +4,7 @@ name: {full: "Urnel, the Bear of the High Corries"}
 type: lore
 subType: spirit
 description: "Bear-spirit of the high corries—warded against in winter and venerated in summer, the same spirit both times."
-tags: [draft, first-gods]
+tags: [first-gods]
 data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 

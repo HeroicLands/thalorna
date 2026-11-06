@@ -49,7 +49,7 @@ sohl: {system: {commonSkills: [elvndrlng]}}
 
 The **House of Hálvireth** is a lowland house of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] holding river-meadows in the basin of [[place-beravriver|the Berav]] below [[place-beravel|Péravel]]. It is a house of the middle rank, old enough to have had its line proved in the year the mountains closed, and known for one thing more than its land: its line, which its bard sings at the feast where a child of the house is named ([[lore-hlvrthline|The Line of the House of Hálvireth]]).
 
-The house claims the old blood through [Sírtala]{.name data-type="being/npc"}, a woman of the [Dhárgandi]{.name data-type="affiliation/lineage"} who came down from the hills to the basin, married a river trader and kept the high tongue in her mouth all her life. Above her the line is in the high tongue, and the house sings no further up it than three names and hands the rest to the Tradition Keepers, whose it is.
+The house claims the old blood through [Sírtala]{.name data-type="being/npc"}, a woman of the [Dhárgandi]{.name data-type="affiliation/polity"} who came down from the hills to the basin, married a river trader and kept the high tongue in her mouth all her life. Above her the line is in the high tongue, and the house sings no further up it than three names and hands the rest to the Tradition Keepers, whose it is.
 
 Kind
 : a lowland noble house

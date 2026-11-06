@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: {kngdmlvndr: {rank: 5}}
+  affiliations: {kngdmlvndr: {rank: 5}, hsekardeth: {rank: 2}}
   socialTies: {being-glyencrdth: rival, being-kenrelkardet: friend}
   gender: male
   species: humanflk
@@ -75,7 +75,8 @@ Lyenna Kardeth, who has not understood how much he knows.
 
 ### Affiliations
 
-- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Heltan is a Noble, of the house of Kardeth.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Heltan is a Noble.
+- **[[affiliation-hsekardeth|House of Kardeth]]**: He is Of the Line, the cousin of the late head of the house.
 
 ## Plot Hooks
 

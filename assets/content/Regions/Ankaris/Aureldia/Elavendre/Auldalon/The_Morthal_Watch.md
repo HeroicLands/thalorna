@@ -45,7 +45,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: [kngdmlvndr]
+  parents: [brdrmltia]
   relations: {}
   packFolder: elavendre
 sohl: {system: {commonSkills: [elvndrlng]}}
@@ -58,6 +58,8 @@ The **Morthal Watch** is the company that holds the bay road through [[place-mor
 ## How It Is Ruled {#how-it-is-ruled}
 
 The crown names the Warden, who is a Captain of the Watch. He judges the Watch's quarrels, keeps its rolls and speaks for it to the crown. Under him each **Post-Serjeant** holds a post: a stone-footed tower of timber, a yard and a horn. The **Tally-Serjeant** keeps the post on the causeway and writes down everything that crosses.
+
+The Watch keeps no seat. Its Warden rides the road between the posts with the rolls in his saddlebags, and the posts are wherever the road narrows.
 
 A **Watchman** serves his weeks and goes home. A **Rider** serves for pay and rides the road and the valleys behind it. The worst sentence the Warden gives is to strike a man from the roll: he may not stand a post or draw the Watch's meal, and the steadings of the March are not bound to feed him.
 

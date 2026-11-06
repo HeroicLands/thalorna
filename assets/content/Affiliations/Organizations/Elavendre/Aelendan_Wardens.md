@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      The Wardens of each tribal territory under its most experienced, recognized by their peers rather than appointed, with seasonal councils and runners carrying coordination between territories.
+      The Wardens of each tribal territory under its most experienced, recognized by their peers rather than appointed, with seasonal councils and runners carrying coordination between territories. The order has no head office: its Elder Wardens lead it together.
     ranks:
       - level: 0
         title: Cast Out
@@ -108,7 +108,7 @@ Mountain sanctuaries and grove shrines
 : Scattered across the interior, each with its own small complement of Wardens
 
 The deep forests of the coast
-: The Wardens who patrol [Siralonke]{.name data-type="place/feature"} behind [[place-lirve|Lirve]], and the watch that comes down by turns to [[place-fndr|the Fen Door]] in [Olvalonke]{.name data-type="place/feature"}, the farthest from the mountains the order keeps
+: The Wardens who patrol [[place-siralonke|Siralonke]] behind [[place-lirve|Lirve]], and the watch that comes down by turns to [[place-fndr|the Fen Door]] in [[place-olvalonke|Olvalonke]], the farthest from the mountains the order keeps
 
 ### Áelendan Groves in the Kingdom's Woods
 

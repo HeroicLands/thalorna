@@ -35,7 +35,7 @@ alone.
 
 ## Siralonke and Its Araelwen
 
-The deep forest behind the coast is **[Siralonke]{.name data-type="place/feature"}**, the sea wood: old oak and silver birch from behind [[place-liranel|Liranel]] to the Sinale country, cut only under license at its margins and not at all within. It is sacred ground of the [[lore-aelendnppl|Áelendan]], far from their mountains, and the Wardens who patrol it keep its [[lore-aralwen|Araelwen]] as strictly as any on the Spine. Every one is forbidden to outsiders, and every one is dangerous.
+The deep forest behind the coast is **[[place-siralonke|Siralonke]]**, the sea wood: old oak and silver birch from behind [[place-liranel|Liranel]] to the Sinale country, cut only under license at its margins and not at all within. It is sacred ground of the [[lore-aelendnppl|Áelendan]], far from their mountains, and the Wardens who patrol it keep its [[lore-aralwen|Araelwen]] as strictly as any on the Spine. Every one is forbidden to outsiders, and every one is dangerous.
 
 The best known is [[place-wrghthllw|the Wrought Hollow]], a door through which made things walk out into Siralonke by night and go back before light. The woodcutters of the licensed coppice find their tracks, and the [[affiliation-ordoarcanis|Thordimalon]] keeps one of them, unmoving, in a chapterhouse collection at [[place-beravel|Péravel]]. The thin places of Siralonke draw the [[being-blinkfox|blinkfoxes]] of the coast, which hunt round them.
 
@@ -69,6 +69,9 @@ Lirve is where the Order's study of the thin places comes closest to the coast, 
 
 [[place-serenthale|Serenthale]]
 : the withdrawn Sinale enclave of the sea-facing forest.
+
+[[place-siralonke|Siralonke]]
+: the sea wood behind Liranel, sacred ground of the Áelendan kept by the Wardens.
 
 [[place-wrghthllw|The Wrought Hollow]]
 : an Araelwen of Siralonke, through which made things come and go.

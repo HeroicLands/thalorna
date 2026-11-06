@@ -3,8 +3,8 @@ shortcode: tipelsprt
 name: {full: Timel Spirit Power, en: ["Timel, the Hawk of the Spine"]}
 type: skill
 subType: mystical
-description: "Standing with Timel, the Hawk of the Spine—what this allied Kindred is met, asked and bargained with."
-tags: [first-gods, spirit-power, draft]
+description: "Standing with Timel, the Hawk of the Spine—how this Kindred is appeased, and consulted for sight."
+tags: [first-gods, spirit-power]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:

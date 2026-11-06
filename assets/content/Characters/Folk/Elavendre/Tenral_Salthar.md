@@ -39,7 +39,7 @@ Tenral Salthar is a 50-year-old man who stands 6'2" tall and is of light build. 
 
 Tenral Salthar is the captain-commander and supreme naval commander of [[affiliation-kngdmlvndr|Élavendre]]'s maritime forces, the Admiral of the crown's ships and coast-cutters. He keeps his flag at [[place-portaelion|Port Aelion]], the kingdom's chief harbor, and he commands the Lieutenants who keep the cutters at the harbors. He employs [[being-tarelblthl|Tárella Pelthal]] for predictions.
 
-Port Aelion's tides sometimes follow their own rhythms, and travelers occasionally vanish into the mist and reappear days later claiming that no time has passed. The Admiral has a cutter's log that agrees with the second claim and a sea that disagrees. He trusts an astrologer more than a pilot in a fog, and the Mariners' Guild has noticed.
+Port Aelion's tides sometimes follow their own rhythms, and travelers occasionally vanish into the mist and reappear days later claiming that no time has passed. The Admiral has a cutter's log that agrees with the second claim and a sea that disagrees. He trusts an astrologer more than a pilot in a fog, and the harbor's pilots have noticed.
 
 ## Psyche
 
@@ -81,5 +81,5 @@ Tralkar Hérselnde, whose public blame of Tárella has begun to reach the Admira
 ## Plot Hooks
 
 1. **The log that disagrees.** A cutter of the Admiral's came into Port Aelion three days late, and her log shows a single night. Tenral asks a party to sit with her crew and learn what they will say off the record.
-2. **The forecast.** Tárella has told the Admiral that a fleet will come in on the next ebb, and the mariners' guild has refused to move its ships. He asks a party to learn whether the Guild is being paid.
+2. **The forecast.** Tárella has told the Admiral that a fleet will come in on the next ebb, and the harbor's pilots have refused to take his cutters out on it. He asks a party to learn whether the pilots are being paid.
 3. **The slander.** Tralkar Hérselnde's public blame of Tárella has begun to stick. Tenral wants it stopped and will not be the one to stop it.

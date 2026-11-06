@@ -40,8 +40,8 @@ data:
         description: >-
           Leading a clan or tribe by descent and by consent together, and losing it when either fails.
     offices:
-      Delegate: Held by one Elder. Sent by a tribe to the common council, empowered to argue and not to bind.
       Speaker of the Council: Held by one Elder. Presiding officer of the common council, keeper of its peace and of the order of speaking.
+      Delegate: Held by one Elder. Sent by a tribe to the common council, empowered to argue and not to bind.
       Chieftain: Held by one Elder of the clan's leading lineage. Head of a clan or tribe, holding by descent and consent together.
       Elder: Held by one Householder, the senior of a lineage. Whose recollection of custom settles disputes the young cannot.
       Lawkeeper: >-

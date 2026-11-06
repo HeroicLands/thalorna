@@ -3,8 +3,8 @@ shortcode: ossendasprt
 name: {full: Óssenda Spirit Power, en: ["Óssenda, the White Owl of the Hollow"]}
 type: skill
 subType: mystical
-description: "Standing with Óssenda, the White Owl of the Hollow—what this allied Kindred is met, asked and bargained with."
-tags: [first-gods, spirit-power, draft]
+description: "Standing with Óssenda, the White Owl of the Hollow—how this Kindred is approached, and asked about the recently dead."
+tags: [first-gods, spirit-power]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:

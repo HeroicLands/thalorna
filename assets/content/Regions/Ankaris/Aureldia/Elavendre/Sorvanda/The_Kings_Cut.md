@@ -73,7 +73,7 @@ The deepest adit is also where the best silver is. Opening it for ore is the des
 
 - **A map of the old workings.** A prospector at Elanmere hires guides with it, and the Wardens have the original.
 - **The silver carter.** A carter in Lísere is paying for rock from the Cut, and a party sent to find the carriers meets the Wardens first.
-- **The missing names.** A singer of the Minstrels' Guild at Elanmere pays to learn which names the coast sings that the lake does not, and who the extra ones were.
+- **The missing names.** A market singer at Elanmere pays to learn which names the coast sings that the lake does not, and who the extra ones were.
 - **The deepest adit.** An Order scholar believes the deepest seal was set to hide the best lode, and hires guards to find out.
 
 ## See Also {#see-also}

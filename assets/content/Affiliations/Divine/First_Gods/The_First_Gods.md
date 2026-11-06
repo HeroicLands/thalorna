@@ -6,7 +6,7 @@ subType: spirittradition
 description: The ancestral pantheon of the Áelendan—two primordial Powers locked in eternal struggle, and the celestial kindred who serve them.
 tags: []
 data:
-  culture: elavendriclt
+  culture: aelendanclt
   templatePriority: null
   demonym: null
   epithet: null

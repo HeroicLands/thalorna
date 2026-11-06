@@ -14,7 +14,7 @@ data:
   culture: elavendriclt
   homes: [beravel]
   affiliations:
-    kngdmlvndr: {rank: 8, office: Queen}
+    kngdmlvndr: {rank: 8, office: Sovereign}
     hsekirethel: {rank: 2, office: Head of the House of Kírethel}
   socialTies:
     being-ielaraskir: patron
@@ -89,7 +89,7 @@ Her son. Yélaras was schooled at the University and says in company that learni
 
 ### Affiliations
 
-- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Queen, reigning in her own right.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Áurenthe holds the office of Sovereign, styled Queen, and reigns in her own right.
 - **[[affiliation-hsekirethel|House of Kírethel]]**: head of the royal house.
 
 ## Plot Hooks

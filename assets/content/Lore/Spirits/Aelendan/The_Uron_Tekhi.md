@@ -4,7 +4,7 @@ name: {full: The Uron Tekhi}
 type: lore
 subType: spirit
 description: "The spirit seated in an ancient tree of the Silver Forests—old, awake, and not certainly of the mortal world."
-tags: [draft, first-gods]
+tags: [first-gods]
 data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
@@ -15,7 +15,7 @@ Seat
 : [[place-urontekhi|The Uron Tekhi]]
 
 Territory
-: the clearing, and as far as the tree's shadow reaches
+: [[place-tehy|the clearing]], and as far as the tree's shadow reaches
 
 Posture
 : Warded, and approached anyway
@@ -30,7 +30,7 @@ The Uron Tekhi is the oldest Kindred the [[lore-aelendnppl|Áelendan]] deal with
 certain about. Shamen count it place-kin, since it holds a clearing and does not leave it. They
 also count it fae-adjacent—one of the very old spirits understood to have crossed the boundary
 long ago, or to have been fae-kin since before the tribes came—and the protocols for approaching
-it borrow from the [Kindred Pact]{.name data-type="lore/law"} rather than from ordinary practice.
+it borrow from the [[lore-lowestpoolpct|Kindred Pact]] rather than from ordinary practice.
 
 It is not venerated, because nobody is confident what would be accepted. It is not straightforwardly
 warded against either, because it has never harmed anyone who kept to the forms. What the tradition

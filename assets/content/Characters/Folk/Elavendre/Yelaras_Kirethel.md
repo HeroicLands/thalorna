@@ -14,7 +14,7 @@ data:
   culture: elavendriclt
   homes: [beravel]
   affiliations:
-    kngdmlvndr: {rank: 7, office: Prince}
+    kngdmlvndr: {rank: 7, office: Heir}
     hsekirethel: {rank: 2, office: Heir of Kírethel}
   socialTies:
     being-aurenthekir: dependent

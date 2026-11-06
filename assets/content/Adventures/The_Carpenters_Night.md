@@ -26,7 +26,7 @@ data:
 
 ## Overview {#overview}
 
-In the inns of [[place-liranel|Liranel]], between the crown's forest court and the guides' stand, an [[affiliation-ordoarcanis|Order]] fellow is hiring guards for one night in [Siralonke]{.name data-type="place/feature"}. [[being-ivelinnareth|Ivelin Nareth]], a fellow of [[affiliation-neumenos|Neumenos]], wants a made thing that still walks. The one the Order keeps in a cellar at Péravel stands folded and silent, and he means to bring out a second with nets and a cart on a moonlit night, and be out of the forest before dawn. The crown's guides are not going with him, and the sellswords who are going are paid for the cart and for keeping the Wardens off.
+In the inns of [[place-liranel|Liranel]], between the crown's forest court and the guides' stand, an [[affiliation-ordoarcanis|Order]] fellow is hiring guards for one night in [[place-siralonke|Siralonke]]. [[being-ivelinnareth|Ivelin Nareth]], a fellow of [[affiliation-neumenos|Neumenos]], wants a made thing that still walks. The one the Order keeps in a cellar at Péravel stands folded and silent, and he means to bring out a second with nets and a cart on a moonlit night, and be out of the forest before dawn. The crown's guides are not going with him, and the sellswords who are going are paid for the cart and for keeping the Wardens off.
 
 Two other people in Liranel want something of the party at the same time. A woodcutter wants his grandfather's axe, which he lost in the deep wood. A guide's wife wants her husband, who took the fellow's scouts to the lip and has not come home.
 
@@ -40,7 +40,7 @@ Two other people in Liranel want something of the party at the same time. A wood
 
 **The axe.** The woodcutter, [[being-ormenhalren|Ormen Halren]], lost his grandfather's axe at the edge of the coppice, and a neighbor has told him where lost things in that wood are found. The axe lies in the hollow on the floor beside a stacked log and a dead deer laid out straight. Whoever lifts it from the floor is followed. The axe is the smallest test of the Wardens' law, and the party can choose to run it.
 
-**The guide.** [[being-berinsalth|Berin Salthar]] took the fellow's scouts to the lip. A Warden of Siralonke, [[being-kelpanedhar|Kélpane]] of the [Dhárgandi]{.name data-type="affiliation/lineage"}, warned them once and turned them out. When Berin led a second party in, the Wardens held him at a turf watch-hut at the forest edge, and they are sending him out of Lirve's woods for good. His wife, [[being-sedrasalth|Sedra Salthar]], does not know. The Wardens would let her see him.
+**The guide.** [[being-berinsalth|Berin Salthar]] took the fellow's scouts to the lip. A Warden of Siralonke, [[being-kelpanedhar|Kélpane]] of the [Dhárgandi]{.name data-type="affiliation/polity"}, warned them once and turned them out. When Berin led a second party in, the Wardens held him at a turf watch-hut at the forest edge, and they are sending him out of Lirve's woods for good. His wife, [[being-sedrasalth|Sedra Salthar]], does not know. The Wardens would let her see him.
 
 **The law.** Warden leave never takes a stranger into an Araelwen. A trespasser is warned once. One who returns, or who takes anything from the floor, is dealt with finally, and no court in Élavendre hears his side.
 

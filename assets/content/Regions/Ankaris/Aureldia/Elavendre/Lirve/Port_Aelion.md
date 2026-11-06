@@ -40,7 +40,7 @@ The [[affiliation-twncnclprtaln|Town Council of Port Aelion]] governs the town. 
 
 The harbor is arguing about the weather. The astrologer [[being-tarelblthl|Tárella Pelthal]] reads the sky for the Admiral and for Naldor Kardeth, whose fortune has followed her advice, and Tralkar Hérselnde, whose ship ignored her warning and was lost with its crew in the mist, tells every wharf that her readings cannot be trusted. An inquiry cleared her. The captains have not.
 
-House Kardeth has its own trouble. Lord [[being-kenrelkardet|Kenrel Kardeth]] was killed on the road to [[place-elanmere|Elanmere]] three years ago in what the garrison there called a bandit raid, and his cousin [[being-heltankardet|Heltan Kardeth]], home from service abroad, is asking at every gathering in the town how bandits came to know which rider to take. His questions trouble the widow, [[being-glyencrdth|Lyenna Kardeth]], who heads the house.
+The [[affiliation-hsekardeth|House of Kardeth]] has its own trouble. Lord [[being-kenrelkardet|Kenrel Kardeth]] was killed on the road to [[place-elanmere|Elanmere]] three years ago in what the garrison there called a bandit raid, and his cousin [[being-heltankardet|Heltan Kardeth]], home from service abroad, is asking at every gathering in the town how bandits came to know which rider to take. His questions trouble the widow, [[being-glyencrdth|Lyenna Kardeth]], who heads the house.
 
 ## Faith {#faith}
 

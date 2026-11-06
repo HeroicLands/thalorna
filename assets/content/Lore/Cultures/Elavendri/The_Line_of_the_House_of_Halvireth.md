@@ -4,7 +4,7 @@ name: {full: The Line of the House of Hálvireth, en: [Hálvireth's Line]}
 type: lore
 subType: literature
 description: "The short line of a lowland house as its bard sings it at the feast where a child is named: every head of the house from the child up to the proof the Colleges made in the year the mountains closed, the join where the names cross into the high tongue, and the Dhárgandi woman the house descends from, whom the Dhárgandi do not sing."
-tags: [draft, elavendri]
+tags: [elavendri]
 data:
   culture: elavendriclt
   packFolder: settinglore
@@ -20,11 +20,11 @@ data:
 # terran_analog: "The Irish and Welsh genealogies recited by a court poet, tracing a lord back through the generations to a founding ancestor, with their known seams where a dynasty is grafted onto an older line; the chained 'son of' formula of the royal lists; the feast at which a claim is renewed before people who could dispute it."
 ---
 
-**The Line of the House of Hálvireth** is a _sírnerne_, a roll of names, as the bard of a lowland house sings it at a _kurnis_, a feast at which the genealogies are sung. The [[affiliation-hsehalvireth|house of Hálvireth]] holds river-meadows in the [Berav basin]{.name data-type="place/feature"} below [[place-beravel|Péravel]], and it gives this feast on the night a child of the house is named; the bard sings the line from the child up, so that the child is counted into it in the hearing of everyone who might dispute it. What stands here is the short line, the heads of the house only, which is sung at a naming; the long line, with every branch and every marriage, takes a night and is sung at a death.
+**The Line of the House of Hálvireth** is a _sírnerne_, a roll of names, as the bard of a lowland house sings it at a _kurnis_, a feast at which the genealogies are sung. The [[affiliation-hsehalvireth|house of Hálvireth]] holds river-meadows in the basin of [[place-beravriver|the Berav]] below [[place-beravel|Péravel]], and it gives this feast on the night a child of the house is named; the bard sings the line from the child up, so that the child is counted into it in the hearing of everyone who might dispute it. What stands here is the short line, the heads of the house only, which is sung at a naming; the long line, with every branch and every marriage, takes a night and is sung at a death.
 
 The recital is in two forms. The bard's frame, which opens and closes it, is in rhymed couplets to the harp. The line itself is not composed and is not rhymed: it is said, each head in a set form, each line closing on the name that opens the next, exactly as [[affiliation-bardicolgs|the Colleges]] proved it, and a bard who changes a word of a proof has changed the proof. Each head is given one deed, the deed the house has chosen to keep, and the dead for whom trees stand are named with their trees. A debt of honor the line has never paid is sung at every feast until it is paid, and this line carries one, to a house whose line has ended.
 
-The line was proved before the Colleges by [Árnolen]{.name data-type="being/npc"} in the year the mountains closed ([[lore-sorvandaclose|The Sórvanda Closing]]), when every house set the Colleges to prove its descent, and the proof joins the house to the [[lore-aelendnppl|Áelendan]] through [Sírtala]{.name data-type="being/npc"}, a woman of the [Dhárgandi]{.name data-type="affiliation/lineage"} who came down to the basin and married a river trader. Above her the names are in the high tongue, and the house sings no further up the Dhárgandi line than three names, and hands the rest to the Tradition Keepers, whose it is. The Dhárgandi who come down to the autumn fair at [[place-elanmere|Elanmere]] keep no daughter of [Ronken]{.name data-type="being/npc"} who went down to the basin. The house has sung her at the fair every autumn since [Velthar]{.name data-type="being/npc"} went up and sang the line there, and nobody at the fair has stood up.
+The line was proved before the Colleges by [Árnolen]{.name data-type="being/npc"} in the year the mountains closed ([[lore-sorvandaclose|The Sórvanda Closing]]), when every house set the Colleges to prove its descent, and the proof joins the house to the [[lore-aelendnppl|Áelendan]] through [Sírtala]{.name data-type="being/npc"}, a woman of the [Dhárgandi]{.name data-type="affiliation/polity"} who came down to the basin and married a river trader. Above her the names are in the high tongue, and the house sings no further up the Dhárgandi line than three names, and hands the rest to the Tradition Keepers, whose it is. The Dhárgandi who come down to the autumn fair at [[place-elanmere|Elanmere]] keep no daughter of [Ronken]{.name data-type="being/npc"} who went down to the basin. The house has sung her at the fair every autumn since [Velthar]{.name data-type="being/npc"} went up and sang the line there, and nobody at the fair has stood up.
 
 The verses are in iambic tetrameter, rhymed in couplets.
 
@@ -148,28 +148,28 @@ Olthar, óllevine, lyero munde thend.
 
 The house sings the heads of its line by their sun names. The highland names above the join are sung as the highlands say them.
 
-| Name          | Who                                                                                              |
-| ------------- | ------------------------------------------------------------------------------------------------ |
-| **Hálvireth** | A house of the Berav basin holding river-meadows below Péravel                                   |
-| **Sílvera**   | The child named at the feast                                                                     |
-| **Taeren**    | Her father, head of the house                                                                    |
-| **Méldoreth** | Who studied the art at Péravel and kept a harper                                                 |
-| **Óuravel**   | Head of the house when the tribute lapsed; builder of the living bridge                          |
-| **Deneth**    | Who held the house in her own right and opened its stores in a bad year                          |
-| **Kálvorin**  | For whom the oak at the ford-gate was planted                                                    |
-| **Therseth**  | Who fought on the north shore in the years of the fleets                                         |
-| **Raenor**    | Who outlived a satire                                                                            |
-| **Ílthera**   | Who held a chair at court against the Arcane Order                                               |
-| **Gálveren**  | Who planted the birch in the low meadow for his brother                                          |
-| **Velthar**   | Who first sang the line at the Elanmere fair                                                     |
-| **Sarhel**    | Who rebuilt the harp-hall in stone                                                               |
-| **Nerrin**    | A harper of the Circle                                                                           |
-| **Árnolen**   | Who had the line proved in the year of the Sórvanda Closing                                      |
-| **Lothel**    | Fostered in the house of Orethan, and owing it a fosterling                                      |
-| **Méreval**   | A river trader, husband of Sírtala                                                               |
-| **Sírtala**   | A woman of the Dhárgandi who came down to the basin, through whom the house claims the old blood |
-| **Ronken**    | Her father, of the Dhárgandi                                                                     |
-| **Tháurmira** | His mother, of the Dhárgandi                                                                     |
+| Name          | Who                                                                                                                     |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Hálvireth** | A house of the Berav basin holding river-meadows below Péravel                                                          |
+| **Sílvera**   | The child named at the feast                                                                                            |
+| **Taeren**    | Her father, [[being-taerenhalvir                                                                 \| head of the house]] |
+| **Méldoreth** | Who studied the art at Péravel and kept a harper                                                                        |
+| **Óuravel**   | Head of the house when the tribute lapsed; builder of the living bridge                                                 |
+| **Deneth**    | Who held the house in her own right and opened its stores in a bad year                                                 |
+| **Kálvorin**  | For whom the oak at the ford-gate was planted                                                                           |
+| **Therseth**  | Who fought on the north shore in the years of the fleets                                                                |
+| **Raenor**    | Who outlived a satire                                                                                                   |
+| **Ílthera**   | Who held a chair at court against the Arcane Order                                                                      |
+| **Gálveren**  | Who planted the birch in the low meadow for his brother                                                                 |
+| **Velthar**   | Who first sang the line at the Elanmere fair                                                                            |
+| **Sarhel**    | Who rebuilt the harp-hall in stone                                                                                      |
+| **Nerrin**    | A harper of the Circle                                                                                                  |
+| **Árnolen**   | Who had the line proved in the year of the Sórvanda Closing                                                             |
+| **Lothel**    | Fostered in the house of Orethan, and owing it a fosterling                                                             |
+| **Méreval**   | A river trader, husband of Sírtala                                                                                      |
+| **Sírtala**   | A woman of the Dhárgandi who came down to the basin, through whom the house claims the old blood                        |
+| **Ronken**    | Her father, of the Dhárgandi                                                                                            |
+| **Tháurmira** | His mother, of the Dhárgandi                                                                                            |
 
 ## See Also
 

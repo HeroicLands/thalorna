@@ -4,20 +4,16 @@ name: {full: Élithe Sarneth, given: Élithe, clan: Sarneth}
 type: being
 subType: character
 description: "A healer and alchemist of Péravel who rides as the Silent Talon's field medic."
-tags: [hero, silent-talon, guilded, mages]
+tags: [hero, silent-talon, guilded]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [mage, healer]
+  archetypes: [healer]
   occupation: Alchemist
   lore: []
   culture: elavendriclt
   homes: [beravel]
-  affiliations:
-    slntlncmpny: {rank: 3}
-    ordoarcanis: {rank: 3}
-    kngdmlvndr: {rank: 2}
-    marendas: {rank: 1}
+  affiliations: {slntlncmpny: {rank: 3}, kngdmlvndr: {rank: 2}, marendas: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.329
@@ -438,9 +434,15 @@ sohl:
 
 Despite her success in Péravel, Élithe grew restless. Academic study was too slow, too contained. She wanted to see rare herbs in the wild, test remedies under real conditions, and learn techniques that no chapterhouse could teach her. When the opportunity arose to join [[affiliation-slntlncmpny|the Silent Talon]] as their field medic, she took it without hesitation. War brings patients, and patients bring learning.
 
-What Élithe does not advertise is that her skills extend beyond conventional healing. She possesses arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
+To everyone who knows her, she is a very good healer who is quietly guarded about her years at Péravel and quick to change the subject when they come up.
 
 Her relationship with [[being-torniskbry|Tornis]] has recently added an unexpected complication to her carefully ordered life.
+
+:::secret {title="The hidden gift"}
+Élithe's skills extend beyond conventional healing. She has an arcane talent, and a bad experience in her past has made her deeply cautious about revealing it. She keeps it from the band and from Tornis. Its nature and extent are known only to herself.
+
+**Hook: the hidden gift.** Someone discovers, or suspects, Élithe's concealed talent: a fellow mage who senses her power, an old acquaintance from Péravel, or an enemy who saw something she thought no one saw. Élithe must decide whether to flee, fight, or finally reveal what she has been hiding.
+:::
 
 ## Background
 
@@ -454,9 +456,6 @@ Alchemy
 
 Herbalism
 : An expert botanist with an encyclopedic knowledge of medicinal plants. She gathers specimens wherever the band travels, building a growing collection of rare ingredients.
-
-Hidden Arcane Talent
-: Élithe possesses magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
 
 Charm
 : Élithe has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is warm—but it also is effective camouflage for the things she chooses not to reveal.
@@ -499,12 +498,9 @@ None.
 
 ### Enemies
 
-Those who seek to control or exploit her knowledge—particularly anyone who might uncover her hidden arcane abilities.
+Those who seek to control or exploit her knowledge.
 
 ## Plot Hooks
-
-The Hidden Gift
-: Someone discovers—or suspects—Élithe's concealed arcane talent. Whether it is a fellow mage who senses her power, an old acquaintance from Péravel, or an enemy who witnessed something she thought no one saw, Élithe must decide whether to flee, fight, or finally reveal what she has been hiding.
 
 The Plague Contract
 : The Silent Talon is hired to escort supplies to a plague-stricken town. Élithe's skills are put to the ultimate test as she must identify the cause, develop a treatment, and keep the band healthy—all while someone in the town may be deliberately spreading the sickness.

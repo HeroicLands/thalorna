@@ -29,7 +29,7 @@ The man has gone down already. The party reaches the bowl as the Order's camp is
 
 **The camp.** Hethar knows the bowl disturbs time and does not know by how much. His water-clock went down with Taldor, and a clock carried into the bowl runs at the bowl's pace and tells its bearer nothing he does not already feel. The fellow's own instruments, left on the lip, tell the truth, and nobody has read them. Hethar wants Taldor's notes more than he wants Taldor, and does not say so to his guards.
 
-**The watch.** [[being-marennedhar|Marenne]] of the [Tírindi]{.name data-type="affiliation/lineage"} and her partner [[being-orpethward|Orpeth]] have the lip. It is summer and the herds are up, and the third Warden of the watch is down the mountain with a sick child. Marenne has seen the Order's tracks below the ring, and she is one Warden short of turning them back by force.
+**The watch.** [[being-marennedhar|Marenne]] of the [Tírindi]{.name data-type="affiliation/polity"} and her partner [[being-orpethward|Orpeth]] have the lip. It is summer and the herds are up, and the third Warden of the watch is down the mountain with a sick child. Marenne has seen the Order's tracks below the ring, and she is one Warden short of turning them back by force.
 
 **The law.** Warden leave cannot take an outsider into the bowl, and taking out anything from an Araelwen, a page of notes included, is desecration. A party that descends is warned once. The royal magistrates hear no complaint from anyone hurt at an Araelwen, and their first question is whether he was warned.
 

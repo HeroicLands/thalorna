@@ -4,7 +4,7 @@ name: {full: The Long Thread, en: [Áuvenna's Thread]}
 type: lore
 subType: literature
 description: "The tale the spinning bees of the inner coast tell on the long nights, passed from wheel to wheel when a thread breaks: the spinner who spun a thread for one of the deeper places on a hinge-night so that her line would not end, the name that was not to be asked, and the knot in the thread that every spinner at the bee still finds with her fingers."
-tags: [draft, elavendri]
+tags: [elavendri]
 data:
   culture: elavendriclt
   packFolder: settinglore
@@ -20,11 +20,11 @@ data:
 # terran_analog: "The fairy-bride and fairy-husband tales of Brittany and the Celtic fringe, with their taboo laid at the bargain (do not ask the name, do not look on the forbidden day), for the plot; Mélusine for the condition that binds a lineage; the spinning bee and the women's winter work-gathering where tales were told in turns, for the occasion; the folk etiology of a household custom."
 ---
 
-**The Long Thread** is the tale the women of the inner coast of [[place-lirve|Lirve]] tell at their spinning bees, in the villages of the worked forest between the coast road and the deep wood, on the long nights of the dark half of the year. It is told in turns, the way the bee spins: one woman tells while the others spin, and when her thread breaks she stops where she is and the next wheel takes the telling on, so the tale is never told the same way twice and never by one voice. The breaks stand in the text where they fell on the night it was taken down, at a bee in a village under the wood a morning's walk from [[place-liranel|Liranel]].
+**The Long Thread** is the tale the women of the inner coast of [[place-lirve|Lirve]] tell at their spinning bees, in the villages of the worked forest between the coast road and the deep wood of [[place-siralonke|Siralonke]], on the long nights of the dark half of the year. It is told in turns, the way the bee spins: one woman tells while the others spin, and when her thread breaks she stops where she is and the next wheel takes the telling on, so the tale is never told the same way twice and never by one voice. The breaks stand in the text where they fell on the night it was taken down, at a bee in a village under the wood a morning's walk from [[place-liranel|Liranel]].
 
 The tale is of [Áuvenna]{.name data-type="being/npc"}, a spinner, who spun on a hinge-night ([[affiliation-groveconcl|The Grove Council]]) when the hedge-wife had told her not to, and who made a bargain at her own door with one of the deeper places ([[lore-faecourts|The Fae Courts]]) that bound her line to keep a thread unbroken; of her daughter [Thélvara]{.name data-type="being/npc"}, who asked what was not offered; and of the knot. The bargain is said in verse and the women say it together. The one at the door is never named, because the tale is about not asking. The bees of that coast keep a long thread that runs from the bee-house window into the wood, and at the end of the night every spinner takes it through her fingers until she finds the knot, and says the name. In the houses of the inner coast nobody cuts a thread on a hinge-day; it is broken with the hands, and whoever breaks it says whose it was.
 
-The verse is in iambic tetrameter, rhymed in couplets.
+The bargain is in iambic tetrameter, rhymed in couplets.
 
 : The Long Thread {#tale}
 

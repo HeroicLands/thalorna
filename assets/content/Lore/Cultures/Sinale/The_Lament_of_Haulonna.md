@@ -4,7 +4,7 @@ name: {full: The Lament of Haulonna, sina: [haulonnaren neltava]}
 type: lore
 subType: literature
 description: "The Sinale lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by name, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
-tags: [draft, sinale]
+tags: [sinale]
 data:
   culture: sinaleclt
   packFolder: settinglore

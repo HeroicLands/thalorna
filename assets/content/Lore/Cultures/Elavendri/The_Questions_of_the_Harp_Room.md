@@ -4,7 +4,7 @@ name: {full: The Questions of the Harp-Room, en: [The Questions of the Degree]}
 type: lore
 subType: literature
 description: "The questions a College of the basin puts to a student who asks for the degree of Bard, with the fixed answer to each and the sayings of each teaching room, ending on a question the candidate must not answer."
-tags: [draft, elavendri]
+tags: [elavendri]
 data:
   culture: elavendriclt
   packFolder: settinglore

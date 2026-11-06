@@ -113,10 +113,10 @@ The crown stands between them. It keeps the Order warm inside the walls and guid
 : a stand of the Silver Forests whose trees wake and move.
 
 [[place-wrghthllw|The Wrought Hollow]]
-: a hollow of [Siralonke]{.name data-type="place/feature"}, Lirve's deep forest, through which made things come and go.
+: a hollow of [[place-siralonke|Siralonke]], Lirve's deep forest, through which made things come and go.
 
 [[place-fndr|The Fen Door]]
-: a door to fell things in [Olvalonke]{.name data-type="place/feature"}, the coastal forest of Lísere, under a Warden watch far from the mountains.
+: a door to fell things in [[place-olvalonke|Olvalonke]], the coastal forest of Lísere, under a Warden watch far from the mountains.
 
 [[lore-uronspr|The Uron Tekhi]]
 : not an Araelwen itself but a Kindred that holds one: the oldest the Áelendan deal with, counted fae-adjacent, and understood to have crossed the boundary long ago or to have been fae-kin from before the tribes came.

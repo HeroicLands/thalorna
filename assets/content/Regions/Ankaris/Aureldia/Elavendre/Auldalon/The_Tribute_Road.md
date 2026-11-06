@@ -2,7 +2,7 @@
 shortcode: trbtrd
 name: {full: The Tribute Road}
 type: place
-subType: feature
+subType: route
 description: "The road a Vilérian legion marched into the hills of Áuldalon and the silver of the tribute went east along, marked with imperial milestones that run from the east and stop at the gate of Valdun."
 tags: [road, hill, frontier]
 data:
@@ -22,7 +22,11 @@ data:
 
 People call it the Tribute Road because of what it carried, and the name has outlasted the tribute. A drover, a pack-train master and a hill levyman all say it without thinking of silver.
 
-## The Land {#the-land}
+## What Moves on It {#what-moves-on-it}
+
+The pack-trains that cross the march from the east come up the road and pay their escort money in the yards of Valdun, to men who know the ground. Drovers use the stretch nearest the town because it is the one length of the hills that is kept clear. The hill levy of Valdun rides it in muster and in pursuit, and the town's wall, gates and garrison exist because it is the road along which anything that crosses the march arrives.
+
+## The Way {#logistics}
 
 The road keeps to the high ground, where the legion's engineers could see an ambush coming. It runs along ridge-backs and across saddles of heath and bracken, drops to a ford only where the ridges give out, and climbs again at once. The surface is gone in most places. What is left is a bed of packed stone under turf, a ditch on each side that the drovers keep open, and the milestones, squared pillars of gray stone as tall as a man's chest, each cut with the imperial numeral and a worn line of lettering.
 
@@ -30,11 +34,13 @@ The hill country on either side is steadings, rough pasture and woodland. In the
 
 West of the gate the way is the ridge road, and the drove roads that come into it, and it carries the silver, wool and iron of the hills on to the markets of [[place-ellive|Éllive]]. The milestones do not follow it.
 
-## Who Uses It {#who-uses-it}
+## Who Patrols and Taxes It {#present}
 
-The pack-trains that cross the march from the east come up the road and pay their escort money in the yards of Valdun, to men who know the ground. Drovers use the stretch nearest the town because it is the one length of the hills that is kept clear. The hill levy of Valdun rides it in muster and in pursuit, and the town's wall, gates and garrison exist because it is the road along which anything that crosses the march arrives.
+The hill levy of [[place-valdun|Valdun]] patrols the road, and nobody else does. The crown has no toll on it. Valdun takes its price in escort and in stabling, and the escort money is paid in the town's yards before a pack-train sets out east.
 
-The crown has no toll on it. Valdun takes its price in escort and in stabling.
+The levy wants the road watched and its escort trade kept in the town's yards. The Order's antiquarians want the camp and what has come out of it. The drovers want the ditches kept open and nobody at the fords. A Varokh war-party in the hills wants whatever the pack-trains are carrying.
+
+A hunter of the hills has brought a helmet of an imperial pattern into Valdun, bright and without rust, and has not said where in the woods he found it. The Order's antiquarians are in the town and pay well for the answer.
 
 ## Dangers {#dangers}
 
@@ -49,12 +55,6 @@ The crown has no toll on it. Valdun takes its price in escort and in stabling.
 **The hill account.** The hill folk say the legion's engineers set the milestones as they came, and that the stones were set facing east so that the legion would always see how far it had come. The last milestone stands inside the gate of Valdun, and the town's children touch it going in and out.
 
 **The antiquarians' account.** The scholars of the [[affiliation-ordoarcanis|Thordimalon]] hold that the milestones carry the whole of the legion's march, stone by stone, and that the lettering on them was cut by men who thought they would be read.
-
-## Converging Interests {#present}
-
-The hill levy of Valdun wants the road watched and its escort trade kept in the town's yards. The Order's antiquarians want the camp and what has come out of it. The drovers want the ditches kept open and nobody at the fords. A Varokh war-party in the hills wants whatever the pack-trains are carrying.
-
-A hunter of the hills has brought a helmet of an imperial pattern into Valdun, bright and without rust, and has not said where in the woods he found it. The Order's antiquarians are in the town and pay well for the answer.
 
 ## History {#history}
 

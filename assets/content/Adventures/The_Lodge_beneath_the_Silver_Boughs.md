@@ -32,7 +32,7 @@ The Hunter's Ring is a ring of carved boundary stones on the outer margin of [[p
 
 The envoy [[being-devrikveldr|Devrik Véldarin]] was traveling the road under the escort of the Warden [[being-astherenwrdn|Ástheren]], carrying a silver casket for the great council at Ésalosa. A band of lowland poachers under [[being-vendrikothrl|Vendrik Othral]] robbed them on the road at dusk, took the casket, and fled uphill into the ring, prying the silver bands off the stones as they went. With four stones down, the hunter's ground has no edge. It has taken most of the thieves, and the envoy, and Ástheren is dead. One poacher, [[being-norvenhalren|Norven Halren]], is holed up in the old keepers' lodge with a wound in his side, and has not slept for two nights.
 
-The Warden [[being-sirganatirin|Sírgana]] of the [Tírindi]{.name data-type="affiliation/lineage"}, Ástheren's partner on the road, has come to find them. She has sense enough to know that a Warden alone in the ring is prey, and the party is her company.
+The Warden [[being-sirganatirin|Sírgana]] of the [Tírindi]{.name data-type="affiliation/polity"}, Ástheren's partner on the road, has come to find them. She has sense enough to know that a Warden alone in the ring is prey, and the party is her company.
 
 The supernatural stays partly unexplained. Nobody knows who set the stones, or why the hunter was given its ground, and the party does not need to.
 

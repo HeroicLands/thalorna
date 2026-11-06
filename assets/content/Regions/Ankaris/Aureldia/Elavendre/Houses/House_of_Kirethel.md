@@ -65,7 +65,7 @@ Heir
 
 ## The House Now {#the-house-now}
 
-The head of the house is [[being-aurenthekir|Queen Áurenthe]], fifty-two, who reigns in her own right. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Yélaras]], twenty-three, who was schooled at the [[affiliation-univperavel|University of Péravel]] as the children of the nobility are.
+The head of the house is [[being-aurenthekir|Queen Áurenthe]], fifty-one, who reigns in her own right. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Yélaras]], twenty-two, who was schooled at the [[affiliation-univperavel|University of Péravel]] as the children of the nobility are.
 
 **The succession.** The crown passes to the monarch's eldest child, son or daughter. A queen reigns in her own right, as [Réidane]{.name data-type="being/npc"} of Orethan did when she treated at [[place-valdun|Valdun]] ([[lore-elvtribute|The Tribute of Élavendre]]). Every monarch is crowned in the hall at Péravel, stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]], and swears with both hands open that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When a line ends without an heir, the Bardic Circle chooses the next monarch from a house whose descent the Colleges have proved, as it chose Hóuradel.
 
@@ -91,7 +91,7 @@ The law of succession is not in question. What is in question is the judgment th
 
 The lowland houses of the Berav basin acclaimed [Táldoren]{.name data-type="being/npc"} of Orethan as their first king about 560 BF, and his line held the crown through the Empire's wars and the treaty at Valdun. When it ended without an heir, the Bardic Circle chose Hóuradel of Kírethel. Hóuradel inherited the Empire's tribute in silver and a run of bad harvests, opened royal workings above the tree line in Sórvanda to pay it, and saw the [[affiliation-alndnwrdns|Wardens]] close them in a single season about 320 AF. He went up to Ésalosa uninvited, was turned back at the outer ridge, closed the workings and renewed the Tree-Line oath on the Lodge's terms. Every noble house then set the Colleges to prove its descent, and the house of Kírethel proved its own.
 
-The tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]], and the house has reigned since in the balance the region describes, between the Order inside the walls and the Áelendan above the tree line.
+The tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]] about 619 AF, and the house has reigned since in the balance the region describes, between the Order inside the walls and the Áelendan above the tree line. [[being-aurenthekir|Áurenthe]] was crowned about 698 AF, at thirty, on her father's death, and she has reigned since in the manner of her house.
 
 ## See Also
 

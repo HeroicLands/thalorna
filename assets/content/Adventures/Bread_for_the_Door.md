@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-[[place-fndr|The Fen Door]] is a cleft in a mound of peat and stone deep in [Olvalonke]{.name data-type="place/feature"}, the wet wood behind the [[place-lisere|Lísere]] shore, and on dark nights fell things come through it. The [[affiliation-alndnwrdns|Wardens]] keep it with the oldest form of their keeping: two sit by the cleft through every night with spear and dog and a banked fire. The watch is one Warden now. Her partner was killed at the cleft at midwinter, and no relief can come down from the mountains until the passes open.
+[[place-fndr|The Fen Door]] is a cleft in a mound of peat and stone deep in [[place-olvalonke|Olvalonke]], the wet wood behind the [[place-lisere|Lísere]] shore, and on dark nights fell things come through it. The [[affiliation-alndnwrdns|Wardens]] keep it with the oldest form of their keeping: two sit by the cleft through every night with spear and dog and a banked fire. The watch is one Warden now. Her partner was killed at the cleft at midwinter, and no relief can come down from the mountains until the passes open.
 
 An [[affiliation-ordoarcanis|Order]] scholar, [[being-ilsevandsrdl|Ílsevand Sérdalnde]], has heard at Kalipsa that the Door is thinly kept. He hires guards on the Lísere coast and means to camp at the mound for a fortnight of dark nights and watch what comes through, and the contract has the guards keep him safe from the Wardens first. The party is hired. [[place-harnasel|Harnasel]], the last beacon village before the road leaves Lísere, is where the guards buy bread and ask the way.
 
@@ -25,7 +25,7 @@ An [[affiliation-ordoarcanis|Order]] scholar, [[being-ilsevandsrdl|Ílsevand Sé
 
 **The Door.** What came through at midwinter is still on this side. It killed the Warden who went at it alone with fire and the wrong song, and it did not go back. It is a long, low thing, black and wet like the bog, with too many joints and no face, and it moves under the moss as a man moves through water. By day it lies in the black water of Olvalonke. On dark nights it hunts along the edge of the forest toward the shore, and it does not come into the light of a beacon. Harnasel has lost a dog and a child's pony, and has said it was wolves.
 
-**The watch.** The Warden, [[being-keldiradhar|Kéldira]] of the [Dhárgandi]{.name data-type="affiliation/lineage"}, cannot hunt the thing and keep the watch at once, and keeping the watch comes first. While she sits by the cleft, nothing else comes through. If the watch is left for a night, something else does.
+**The watch.** The Warden, [[being-keldiradhar|Kéldira]] of the [Dhárgandi]{.name data-type="affiliation/polity"}, cannot hunt the thing and keep the watch at once, and keeping the watch comes first. While she sits by the cleft, nothing else comes through. If the watch is left for a night, something else does.
 
 **The scholar.** Ílsevand holds that the mound's cold is bog vapor rising through a fault, and that what the coast sees on dark nights is marsh light. His guards' task is to keep the Warden away from the mound while he watches. If they do, the Door is unwatched.
 

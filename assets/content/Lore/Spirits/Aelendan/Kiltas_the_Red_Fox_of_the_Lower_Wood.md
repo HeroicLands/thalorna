@@ -4,7 +4,7 @@ name: {full: "Kiltas, the Red Fox of the Lower Wood"}
 type: lore
 subType: spirit
 description: "Fox-spirit of the lower wood—a thief, a bargainer, and the one Kindred that will renegotiate."
-tags: [draft, first-gods]
+tags: [first-gods]
 data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 

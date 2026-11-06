@@ -37,7 +37,7 @@ data:
 
 # Dossier {#dossier}
 
-Ástheren of the [Tírindi]{.name data-type="affiliation/lineage"} was a Warden of the [[affiliation-alndnwrdns|Áelendan Wardens]] who kept the envoys' road below [[place-silvrfrsts|the Silver Forests]] with his partner [[being-sirganatirin|Sírgana]]. He escorted the envoy [[being-devrikveldr|Devrik Véldarin]] up the road toward [[place-eshalshldg|Ésalosa Lodge]] with a sealed casket for the great council, and neither of them reached the Lodge. The envoy is missing with his escort on the road beside [[place-hntrsrng|the Hunter's Ring]].
+Ástheren of the [Tírindi]{.name data-type="affiliation/polity"} was a Warden of the [[affiliation-alndnwrdns|Áelendan Wardens]] who kept the envoys' road below [[place-silvrfrsts|the Silver Forests]] with his partner [[being-sirganatirin|Sírgana]]. He escorted the envoy [[being-devrikveldr|Devrik Véldarin]] up the road toward [[place-eshalshldg|Ésalosa Lodge]] with a sealed casket for the great council, and neither of them reached the Lodge. The envoy is missing with his escort on the road beside [[place-hntrsrng|the Hunter's Ring]].
 
 :::secret {title="The second dusk"}
 When poachers took the casket and fled into the Hunter's Ring, Ástheren kept the envoy at a fire by a standing stone. On the second dusk he went down alone to the keepers' lodge to bring the poachers to account. He was proud that a Warden is not prey at a hearth with men at it.

@@ -51,14 +51,10 @@ data:
         description: >-
           The crown of Élavendre, held in the house of Kírethel, from which every other standing derives and which swears at its crowning that it stops at the tree line.
     offices:
-      King: >-
-        Held by a Sovereign. Reigns in his own right from the court at Péravel, is crowned in the hall there and swears the Tree-Line oath with both hands open. The crown passes to the monarch's eldest child, son or daughter.
-      Queen: >-
-        Held by a Sovereign. Reigns in her own right from the court at Péravel, crowned and sworn as a king is, and keeps the balance between the Order inside the walls and the Áelendan beyond the tree line.
-      Prince: >-
-        Held by a Prince or Princess of the Blood. A son of the monarch. The monarch's eldest child is the heir, and is crowned in the hall at Péravel on the monarch's death.
-      Princess: >-
-        Held by a Prince or Princess of the Blood. A daughter of the monarch. The monarch's eldest child is the heir, and is crowned in the hall at Péravel on the monarch's death.
+      Sovereign: >-
+        Held by a Sovereign. Reigns in his or her own right from the court at Péravel, styled King or Queen as the holder is a man or a woman. Is crowned in the hall there and swears the Tree-Line oath with both hands open. The crown passes to the monarch's eldest child, son or daughter.
+      Heir: >-
+        Held by a Prince or Princess of the Blood. The monarch's eldest child, son or daughter, styled Prince or Princess, who is crowned in the hall at Péravel on the monarch's death.
       Chancellor: >-
         Held by Gentry or above. Heads the chancery, which keeps the crown's writs and the charters of its towns, its pilots and its University.
       Treasurer: >-
@@ -125,7 +121,7 @@ This system produces governance that is slow, deliberate, and deeply attuned to 
 
 The crown is held by the [[affiliation-hsekirethel|House of Kírethel]], which the Bardic Circle chose when the line of Orethan, the house of the First Crowned, ended without an heir ([[lore-sorvandaclose|The Sórvanda Closing]]). The reigning monarch is [[being-aurenthekir|Queen Áurenthe Kírethel]], who reigns in her own right from the court at [[place-beravel|Péravel]], and her heir is her only son, [[being-ielaraskir|Prince Yélaras]].
 
-The crown passes to the monarch's eldest child, son or daughter. Every monarch is crowned in the hall at Péravel, stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]], and swears that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When a line ends without an heir, the Bardic Circle chooses the next monarch from a house whose descent the Colleges have proved. Below the royal house stand the noble houses, each with its proof, among them the [[affiliation-hsehalvireth|House of Hálvireth]] of the river-meadows below the capital.
+The crown is one office, the Sovereign's, and its holder is styled King or Queen as the holder is a man or a woman; the heir is styled Prince or Princess the same way. The crown passes to the monarch's eldest child, son or daughter. Every monarch is crowned in the hall at Péravel, stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]], and swears that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When a line ends without an heir, the Bardic Circle chooses the next monarch from a house whose descent the Colleges have proved. Below the royal house stand the noble houses, each with its proof, among them the [[affiliation-hsehalvireth|House of Hálvireth]] of the river-meadows below the capital.
 
 ## The Crown's Officers {#officers}
 
@@ -136,8 +132,6 @@ The great officers sit at Péravel. [[being-hlvlnsrdlnd|Hálvilon Sérdalnde]] i
 Each of the four quarters has its sheriff. [[being-irvlhrsnd|Írvale Háresende]] is sheriff of Éllive, with her hall at Péravel. [[being-trvlulmrnd|Tírvale Úlmernde]] is sheriff of Lirve, at [[place-portaelion|Port Aelion]]. [[being-lotrenilther|Lotren Ílthernde]] is sheriff of Áuldalon, at [[place-valdun|Valdun]], and [[being-saltenelarve|Salten Elarven]] is sheriff of Lísere, with his hall at [[place-sarmelis|Sarmelis]], where [[being-olthemrlnth|Olthe Mórlineth]] is the coroner of the shore. The harbor-clerk at [[place-sirlathen|Sirlathen]] is [[being-adrlslrth|Adrila Salreth]].
 
 [[being-tenralsaltha|Captain-Commander Tenral Salthar]] commands the crown's ships as Admiral, and his Lieutenant [[being-hrsndothrl|Háresand Othral]] keeps the cutters at Sarmelis. [[being-morenothral|Moren Othral]], a knight, holds [[place-durmelen|Durmelen]] as its Castellan. [[being-elenorthaurn|Captain Élenor Thaurnde]] commands [[affiliation-brdrmltia|the border militia]], [[being-chenirahares|Captain Chénira Háresende]] is the crown's liaison with the tribes, and [[being-lenirasrdln|Lénira Sérdalnde]] is among the crown's guides at Liranel.
-
-Two offices of the crown stand empty, as the succession leaves them. A queen reigns in her own right, so there is no King, and the queen's only child is a son, so there is no Princess.
 
 The Áelendan Wardens hold no office of the crown. They answer to the tribes, the crown recognizes their authority over the sacred ground, and no royal court hears a complaint against the tribes. The crown's guides out of Liranel take licensed expeditions to the margins of the tribal country and no further.
 
@@ -193,7 +187,7 @@ Below the crown stand bodies that govern their own ground under it:
 - [[affiliation-brdrmltia|The Border Militia]], the crown's sworn companies and the levy.
 - [[affiliation-thrglnklps|The Thárgalon of Kélpasi]], the council of hearth-heads of a hill village of Áuldalon.
 
-The noble houses hold their seats of the crown: the royal [[affiliation-hsekirethel|House of Kírethel]] at Péravel, the [[affiliation-hsehalvireth|House of Hálvireth]] in the river-meadows below it, and the Kardeth seat at [[place-cardeth|Kardeth]] in Lirve.
+The noble houses hold their seats of the crown: the royal [[affiliation-hsekirethel|House of Kírethel]] at Péravel, the [[affiliation-hsehalvireth|House of Hálvireth]] in the river-meadows below it, the [[affiliation-hsekardeth|House of Kardeth]] at [[place-cardeth|Kardeth]] in Lirve, and the [[affiliation-hseveldarin|House of Véldarin]], a house of border service, at [[place-elanmere|Elanmere]].
 
 ## Commerce and Currency
 
@@ -201,7 +195,9 @@ The Kingdom of Élavendre uses the [[lore-vylrncrncy|Vilérian currency]] (Solde
 
 ## History {#history}
 
-The lowland houses of the Berav basin acclaimed Táldoren of the house of Orethan as the first king about 560 BF, and he swore at Ésalosa that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When the legions came into the hills of Áuldalon, Queen Réidane of Orethan treated at Valdun and bought the kingdom's law and line with a yearly tribute in silver ([[lore-elvtribute|The Tribute of Élavendre]]). The line of Orethan ended without an heir, the Bardic Circle chose Hóuradel of the [[affiliation-hsekirethel|House of Kírethel]], and his workings above the tree line were closed by the Wardens about 320 AF ([[lore-sorvandaclose|The Sórvanda Closing]]). The tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]], and the House of Kírethel holds the crown.
+The lowland houses of the Berav basin acclaimed Táldoren of the house of Orethan as the first king about 560 BF, and he swore at Ésalosa that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When the legions came into the hills of Áuldalon, Queen Réidane of Orethan treated at Valdun and bought the kingdom's law and line with a yearly tribute in silver ([[lore-elvtribute|The Tribute of Élavendre]]). The line of Orethan ended without an heir, the Bardic Circle chose Hóuradel of the [[affiliation-hsekirethel|House of Kírethel]], and his workings above the tree line were closed by the Wardens about 320 AF ([[lore-sorvandaclose|The Sórvanda Closing]]). The tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]] about 619 AF, and the kingdom stood free of the Empire's treasury and inside its trade.
+
+In the century since, the monarchs of Kírethel kept the balance their house had set: the Order's scholars were taken into the University, the chancery and the courts, and the crown kept the tree line. The Order went on asking for the interior and was given guides who showed it nothing, and it began sending its scholars past them with hired guards, and the crown neither forbade the hiring nor asked where the guards went. [[being-aurenthekir|Áurenthe Kírethel]] was crowned in the hall at Péravel about 698 AF, at thirty, on her father's death, and stood bareheaded through the Lay of the Tree Line as every monarch before her. Her son [[being-ielaraskir|Yélaras]] was born the year before her crowning. He was sent to the University at twelve and came back to court at twenty with friends among its fellows, and the House of Kírethel holds the crown under a queen who keeps the balance and an heir who doubts it.
 
 ## Hooks {#hooks}
 

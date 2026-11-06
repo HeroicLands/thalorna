@@ -4,7 +4,7 @@ name: {full: The Long Road, sina: [tirvali]}
 type: lore
 subType: literature
 description: "The tale the Sinale who hold office in Tantsou tell on the evening a Sinalo is first entered on an imperial roll: a clerk cuts a name to three signs, a scholar answers to a road for forty years, and the planting roll has the last word."
-tags: [draft, sinale]
+tags: [sinale]
 data:
   culture: sinaleclt
   packFolder: settinglore

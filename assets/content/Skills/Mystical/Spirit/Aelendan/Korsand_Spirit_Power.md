@@ -3,8 +3,8 @@ shortcode: porsandsprt
 name: {full: Korsand Spirit Power, en: ["Korsand, the Grey Wolf of the Ridge"]}
 type: skill
 subType: mystical
-description: "Standing with Korsand, the Grey Wolf of the Ridge—what this allied Kindred is met, asked and bargained with."
-tags: [first-gods, spirit-power, draft]
+description: "Standing with Korsand, the Grey Wolf of the Ridge—how the hunt-rite is made to this Kindred, and his terms kept."
+tags: [first-gods, spirit-power]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:

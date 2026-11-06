@@ -52,7 +52,7 @@ The stone is in a chapterhouse at Péravel, entered in a catalog without the nam
 
 ## Hooks {#hooks}
 
-- **The stone from the well.** The grove-elder wants the lip-stone found and brought home, and will pay in kind, in introductions to the elders of the Grove Council.
+- **The stone from the well.** The grove-elder wants the [[miscgear-lamanisstone|lip-stone]] found and brought home, and will pay in kind, in introductions to the elders of the Grove Council.
 - **The petition.** The levy-clerk wants the whole quarrel to go away before the autumn assessment, and would pay a party to persuade the elder to withdraw.
 
 ## See Also {#see-also}

@@ -13,7 +13,9 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: {kngdmlvndr: {rank: 5}}
+  affiliations:
+    kngdmlvndr: {rank: 5}
+    hsekardeth: {rank: 2, office: Head of the House of Kardeth}
   socialTies: {being-glyencrdth: dependent, being-heltankardet: friend}
   gender: male
   species: humanflk
@@ -75,7 +77,8 @@ None he would have named. He died without an enemy he knew.
 
 ### Affiliations
 
-- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Kenrel was a Noble, of the house of Kardeth, with a seat on the Town Council of Port Aelion.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Kenrel was a Noble, with a seat on the Town Council of Port Aelion.
+- **[[affiliation-hsekardeth|House of Kardeth]]**: He was Of the Line and head of the house until his death.
 
 ## Plot Hooks
 

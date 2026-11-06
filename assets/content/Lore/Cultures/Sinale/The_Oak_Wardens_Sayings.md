@@ -4,7 +4,7 @@ name: {full: The Oak-Warden's Sayings, sina: [sorvel ortinnoren saunari]}
 type: lore
 subType: literature
 description: "The sayings of one Oak-Warden of Aelirosse to the Oak-Pupil he taught, in the fixed stanza the Sinale pass a saying on in, as an Áelendan foster-child learned them in the grove and at the sickbed, ending on the Oak-Pupil's own."
-tags: [draft, sinale]
+tags: [sinale]
 data:
   culture: sinaleclt
   packFolder: settinglore

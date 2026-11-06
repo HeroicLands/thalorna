@@ -3,8 +3,8 @@ shortcode: salendasprt
 name: {full: Sálenda of the Long Stair Spirit Power, en: [Sálenda of the Long Stair]}
 type: skill
 subType: mystical
-description: "Standing with Sálenda of the Long Stair—what this allied Kindred is met, asked and bargained with."
-tags: [first-gods, spirit-power, draft]
+description: "Standing with Sálenda of the Long Stair—how exactly this Kindred's requirements are met at the lowest pool."
+tags: [first-gods, spirit-power]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
   system:

@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-Kardeth is a village of about 250 and a noble seat in [[place-lirve|Lirve]], on the western coast of [[place-elavendre|Élavendre]], within reach of the forest town of [[place-liranel|Liranel]]. It is held by **Lady [[being-auliranekard|Áulirane Kardeth]]**, a noblewoman of twenty-one with ancestry among the [[lore-aelendnppl|Áelendan People]]. Kardeth is an Élavendri name, and it is also borne as a family name by Élavendri households as far apart as [[place-portaelion|Port Aelion]] and [[place-sourimael|Sóurimel]].
+Kardeth is a village of about 250 and a noble seat in [[place-lirve|Lirve]], on the western coast of [[place-elavendre|Élavendre]], within reach of the forest town of [[place-liranel|Liranel]]. It is the old seat of the [[affiliation-hsekardeth|House of Kardeth]], and it is held for the house by **Lady [[being-auliranekard|Áulirane Kardeth]]**, a noblewoman of twenty-one with ancestry among the [[lore-aelendnppl|Áelendan People]]. Kardeth is an Élavendri name, and it is also borne as a family name by Élavendri households as far apart as [[place-portaelion|Port Aelion]] and [[place-sourimael|Sóurimel]].
 
 ## The Holding {#the-holding}
 

@@ -13,7 +13,10 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: {kngdmlvndr: {rank: 5}, twncnclprtaln: {rank: 3}}
+  affiliations:
+    kngdmlvndr: {rank: 5}
+    twncnclprtaln: {rank: 3}
+    hsekardeth: {rank: 2, office: Head of the House of Kardeth}
   gender: female
   species: humanflk
   born: 692.86
@@ -387,11 +390,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Lyenna Kardeth is a 27-year-old woman who stands 5'11" tall and carries herself with the upright, unhurried posture of someone who has never had to rush for anyone. She has a diamond face with high cheekbones, a prominent forehead and a sharp jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, and she looks at people as though assessing them, because she is. She has a slightly upturned nose, thin lips and light skin with a smooth complexion. Her blonde hair falls past her shoulders, usually dressed in one of the elaborate styles of the court at Péravel. She dresses impeccably in velvet, silk gloves and fine boots, wears the signet of [House Kardeth]{.name data-type="affiliation/lineage"} on her right hand, and carries a dagger openly at her waist, which is not unusual for a noblewoman of the kingdom.
+Lyenna Kardeth is a 27-year-old woman who stands 5'11" tall and carries herself with the upright, unhurried posture of someone who has never had to rush for anyone. She has a diamond face with high cheekbones, a prominent forehead and a sharp jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, and she looks at people as though assessing them, because she is. She has a slightly upturned nose, thin lips and light skin with a smooth complexion. Her blonde hair falls past her shoulders, usually dressed in one of the elaborate styles of the court at Péravel. She dresses impeccably in velvet, silk gloves and fine boots, wears the signet of the [[affiliation-hsekardeth|House of Kardeth]] on her right hand, and carries a dagger openly at her waist, which is not unusual for a noblewoman of the kingdom.
 
 # Dossier {#dossier}
 
-Lyenna Kardeth is the head of House Kardeth, a noble house of [[place-portaelion|Port Aelion]] of moderate standing, old enough to command respect and not prominent enough to draw unwanted scrutiny. As head of one of the town's older families she sits by custom on the [[affiliation-twncnclprtaln|Town Council of Port Aelion]].
+Lyenna Kardeth is the head of the [[affiliation-hsekardeth|House of Kardeth]], a noble house of [[place-portaelion|Port Aelion]] of moderate standing, old enough to command respect and not prominent enough to draw unwanted scrutiny. As head of one of the town's older families she sits by custom on the [[affiliation-twncnclprtaln|Town Council of Port Aelion]].
 
 She was raised in the way of [[lore-elavendriclt|Élavendri]] noblewomen: tutored in letters, heraldry, law and the arts of discourse, and expected to manage a household and represent her house with grace. She excelled at all of it. Where other young noblewomen found the maneuvering of court tedious, Lyenna found it invigorating, not because she enjoyed people but because she enjoyed winning.
 
@@ -405,6 +408,8 @@ The raid on the Elanmere road was arranged by Daran at Lyenna's request. She did
 Her connection to [[affiliation-blackflame|the Black Flame]] is older than her marriage. She came to the faith not by the martial road that brought Daran but by ideology: a young noblewoman who looked at the polite fictions of court life and saw mechanisms by which the timid restrain the capable. Her faith is cold and abstract, a conviction that the natural order is dominance and that courtesy exists to hide it from those too weak to face it. She and Daran are the backbone of the faith in the Elanmere country. He commands the garrison and its investigations; she works in the rooms he cannot reach, the council chamber and the receptions where reputations are made, and smooths over what his lack of grace stirs up. She does not give him orders, and he listens when she advises. When she needs force, a threat silenced or a message delivered, Daran provides it. Both answer to the same Flame-Warden, who counts their partnership a model of how the faith should work in hostile country.
 
 The grovekeeper [[being-lanthevileha|Lánthevile Halren]] has asked Lyenna, as a councilor, to press for a more thorough investigation of the burnings along the lake road than the garrison has made. Lyenna promised to raise it and has no intention of doing so, and that promise has put her in Lánthevile's sight.
+
+She counts Heltan her enemy, and he does not yet know it.
 
 **Hook: the cousin's questions.** Heltan has obtained a copy of the garrison's report on Kenrel's death and noted its inconsistencies, and he has asked for a private meeting. Lyenna must reassure him, mislead him, discredit him or arrange something more permanent, with the family watching.
 
@@ -445,11 +450,12 @@ Several of the council's members and the heads of two merchant houses of the har
 
 ### Enemies
 
-Lord Heltan Kardeth, whose questions trouble her, though he does not know he is her enemy.
+None she will name. Her late husband's cousin, Lord [[being-heltankardet|Heltan Kardeth]], asks at every gathering how Kenrel died, and she receives him with every courtesy.
 
 ### Affiliations
 
 - **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Lyenna is of a Noble house and heads it.
+- **[[affiliation-hsekardeth|House of Kardeth]]**: She is Of the Line by marriage and holds the office of Head of the House of Kardeth.
 - **[[affiliation-twncnclprtaln|Town Council of Port Aelion]]**: She sits as a Councilor, by custom as head of an older family.
 
 ## Plot Hooks

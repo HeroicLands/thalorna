@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [cardeth]
-  affiliations: {kngdmlvndr: {rank: 5}}
+  affiliations: {kngdmlvndr: {rank: 5}, hsekardeth: {rank: 2, office: Keeper of Kardeth}}
   socialTies: {being-belrkflwyn: acquaintance}
   gender: female
   species: humanflk
@@ -76,6 +76,7 @@ Whoever has been testing her through Melrik.
 ### Affiliations
 
 - **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Áulirane is a Noble, holding the seat of Kardeth under the crown.
+- **[[affiliation-hsekardeth|House of Kardeth]]**: She is Of the Line, of a younger branch, and holds the office of Keeper of Kardeth.
 
 ## Plot Hooks
 

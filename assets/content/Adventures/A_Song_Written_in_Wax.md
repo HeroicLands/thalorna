@@ -31,7 +31,7 @@ On the ridge above the corrie an [[affiliation-ordoarcanis|Order]] scholar, [[be
 
 **The scholar.** Palven holds that the song is wind across the corrie lip, shaped by the water. His clerk, [[being-lisraventha|Lisra Venthal]], has heard the song and does not agree. She writes music and has the best ear in Péravel, and she is afraid that she will answer. The wax she is to wear in her ears is made for the guards, not for her, because Palven needs her to hear.
 
-**The watch.** [[being-aldrethtirin|Aldreth]] of the [Tírindi]{.name data-type="affiliation/lineage"} sits the shore alone this week. His partner has fallen ill with a fever, and a Tradition Keeper must come from [[place-eshalshldg|Ésalosa Lodge]] to teach the counter-song to a replacement. Until then Aldreth sings it himself, and he is tiring.
+**The watch.** [[being-aldrethtirin|Aldreth]] of the [Tírindi]{.name data-type="affiliation/polity"} sits the shore alone this week. His partner has fallen ill with a fever, and a Tradition Keeper must come from [[place-eshalshldg|Ésalosa Lodge]] to teach the counter-song to a replacement. Until then Aldreth sings it himself, and he is tiring.
 
 **Shardbeaks.** The birds of the high meadows perch on the herders' cairns and dive at anyone who carries a working or a worked thing. A clerk's pen and a scholar's instruments both count.
 

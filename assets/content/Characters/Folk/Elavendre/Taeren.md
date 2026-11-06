@@ -65,7 +65,7 @@ He does not know whether the claim is true, and he has never dared ask the Tradi
 
 ### Companions
 
-The house's bard, who sings the line, and the harper his father kept.
+The house's bard, [[being-kelviraaulir|Kélvira Áulirnde]], who sings the line, and the harper his father kept.
 
 ### Patrons
 
@@ -82,6 +82,6 @@ The Dhárgandi elder who means to hear the claim, and any house that would profi
 
 ## Plot Hooks
 
-1. **The bard to the fair.** Taeren hires a party to escort the house's bard up to Elanmere and to stand by him when the Dhárgandi elder hears the line.
+1. **The bard to the fair.** Taeren hires a party to escort the house's bard, [[being-kelviraaulir|Kélvira Áulirnde]], up to Elanmere and to stand by her when the Dhárgandi elder hears the line.
 2. **A fosterling for Orethan.** A stranger at Péravel says he is of Orethan's blood and asks for the fosterling the house owes. Taeren wants him proved or disproved before he answers.
 3. **The Keepers' word.** Taeren asks a party to learn, quietly, whether the Tradition Keepers at Ésalosa remember Sírtala at all.

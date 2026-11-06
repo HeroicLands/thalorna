@@ -29,10 +29,10 @@ data:
         description: >-
           A free townsman who holds a share in a boat, a berth or a stall, and may trade on the quay and plead before the council.
     offices:
-      Quay-Councilor: >-
-        Held by a Quay-Freeman, chosen by the boat-masters of the inner quay for the year; votes on the harbor's business.
       Reeve of the Harbor: >-
         Held by a Quay-Freeman sitting as Quay-Councilor, chosen by the council. Presides over its sittings, gives the berths, and speaks for the town to the sheriff and to the Admiral's lieutenant.
+      Quay-Councilor: >-
+        Held by a Quay-Freeman, chosen by the boat-masters of the inner quay for the year; votes on the harbor's business.
       Fish-Reeve: >-
         Held by a Quay-Freeman sitting as Quay-Councilor, named by the council. Weighs the catch on the quay, keeps the tally, and sets the price of salt-fish that the north follows.
       Keeper of the Boom: >-

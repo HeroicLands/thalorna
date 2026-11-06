@@ -4,7 +4,7 @@ name: {full: The Gathering on the End, sina: [oltandiren aulirakko]}
 type: lore
 subType: literature
 description: "The account, carried down from Ethalosse, of the open convocation the Sinale called in the Age of Stars on how the world ends, which has never reached accord and so has never closed: four sung speeches, the exchanges between them, and the answer the Élavendren court received when it asked for one word."
-tags: [draft, sinale]
+tags: [sinale]
 data:
   culture: sinaleclt
   packFolder: settinglore

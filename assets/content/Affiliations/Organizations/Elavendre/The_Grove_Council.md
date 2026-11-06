@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A conclave of the elders of nineteen great groves, gathering on the four hinge-days of the year and in emergency, holding no charter and ruling by a custom older than the kingdom.
+      A conclave of the elders of nineteen great groves, gathering on the four hinge-days of the year and in emergency, holding no charter and ruling by a custom older than the kingdom. It has no head office: the grove-elders lead it together in session.
     ranks:
       - level: 0
         title: Put Out of the Groves

@@ -7197,6 +7197,22 @@ data:
     - {name: Torlan Salreth, tongue: elavendri}
     - {name: Varlan Gárath, tongue: elavendri}
     - {name: Válena Drindal, tongue: elavendri}
+    - {name: Heir, tongue: translation}
+    - {name: House of Kardeth, tongue: translation}
+    - {name: House Kardeth, tongue: translation}
+    - {name: Head of the House of Kardeth, tongue: translation}
+    - {name: Keeper of Kardeth, tongue: translation}
+    - {name: Heir of Kardeth, tongue: translation}
+    - {name: House of Véldarin, tongue: translation}
+    - {name: House Véldarin, tongue: translation}
+    - {name: Head of the House of Véldarin, tongue: translation}
+    - {name: Heir of Véldarin, tongue: translation}
+    - {name: Hálmesar Véldarin, tongue: elavendri}
+    - {name: Lord Hálmesar, tongue: translation}
+    - {name: Kélvira Áulirnde, tongue: elavendri}
+    - {name: Bard Kélvira, tongue: translation}
+    - {name: The Lip-Stone of Lámanis, tongue: translation}
+    - {name: The Lip-Stone, tongue: translation}
   retired:
     - {form: Tirwen, instead: Éllive, why: a name borrowed from an Earth tongue}
     - {form: Glanmor, instead: Lirve, why: a name borrowed from an Earth tongue}

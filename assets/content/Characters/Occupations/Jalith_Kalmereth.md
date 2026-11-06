@@ -418,7 +418,7 @@ Skilled singer, emotionally expressive, at ease with common people.
 
 ## Social
 
-Jalith belongs to the [Minstrels' Guild]{.name data-type="affiliation/guild"}, which gives her the right to sing for pay in any Élavendri market.
+Jalith belongs to no college. She learned her songs from her family and sings them for pay in any market that will have her, and the [[affiliation-bardicolgs|Bardic Colleges]], which train the kingdom's bards, count her a minstrel and not one of theirs.
 
 ## Companions
 
@@ -436,7 +436,7 @@ A Hall for Good
 : A lord of the [[place-lirve|Lirve]] country has offered Jalith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
 
 The Stolen Lament
-: A court bard has performed one of Jalith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
+: A court bard has performed one of Jalith's laments as his own before the Crown, and it has made his name. The Colleges hear no complaint from a singer outside them, and she must prove authorship of a song she never wrote down before anyone at court will listen.
 
 The One Who Came Back
 : A family that paid Jalith to sing a lament for a guide lost in the wood has had him walk into their house, years later, claiming no time has passed. They want a different song now.
