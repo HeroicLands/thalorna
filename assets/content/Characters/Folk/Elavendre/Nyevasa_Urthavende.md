@@ -3,7 +3,7 @@ shortcode: nyevasaurtha
 name: {full: Nyevasa Úrthavende, en: [Sorcerer Nyevasa]}
 type: being
 subType: npc
-description: "A sorcerer, the former master of Selon Brightheart, who has been destroying enchanted objects throughout the realm and is reported at Liranel, where the Order's expeditions are outfitted."
+description: "A sorcerer, the former master of the enchanter Selith Halren, who has been destroying enchanted objects throughout the realm and is reported at Liranel, where the Order's expeditions are outfitted."
 tags: []
 data:
   icon: icon-person
@@ -37,7 +37,7 @@ Nyevasa Úrthavende is a 40-year-old woman who stands 5'6" tall and is of medium
 
 # Dossier {#dossier}
 
-Nyevasa Úrthavende is a sorcerer and the former master of [Selon Brightheart]{.name data-type="being/npc"}. She has been destroying enchanted objects throughout the realm, seemingly hunting for something specific, as [[being-alyrklmrth|Álira Kálmereth]] learns. In the account of [[being-afzndhprnzr|Afzandah Parnazar]] she is a sorcerer-lord who seeks mithral for a dark ritual. The two accounts do not agree, and she gives neither.
+Nyevasa Úrthavende is a sorcerer and the former master of [Selith Halren]{.name data-type="being/npc"}. She has been destroying enchanted objects throughout the realm, seemingly hunting for something specific, as [[being-alyrklmrth|Álira Kálmereth]] learns. In the account of [[being-afzndhprnzr|Afzandah Parnazar]] she is a sorcerer-lord who seeks mithral for a dark ritual. The two accounts do not agree, and she gives neither.
 
 She has come to [[place-liranel|Liranel]], where the Order's expeditions are outfitted and the crown's guides are found. The town is where enchanted things are carried out of the old wood and sold, and where licenses to cut are argued. She buys nothing, and she walks the tally-house yard every morning.
 
@@ -63,7 +63,7 @@ She has made enemies of every maker of enchanted things. She is hunted, and she 
 
 ### Companions
 
-None, now. Selon Brightheart was her apprentice and is not with her.
+None, now. Selith Halren was her apprentice and is not with her.
 
 ### Patrons
 
@@ -71,7 +71,7 @@ None. Whoever pays for her passage does not buy her.
 
 ### Enemies
 
-Selon Brightheart, who left her. Álira Kálmereth, whose animate toys she has threatened. The Fitter of Expeditions, whose collection is a target.
+Selith Halren, who left her. Álira Kálmereth, whose animate toys she has threatened. The Fitter of Expeditions, whose collection is a target.
 
 ### Affiliations
 
@@ -81,4 +81,4 @@ Selon Brightheart, who left her. Álira Kálmereth, whose animate toys she has t
 
 1. **The tally-house yard.** A cart of enchanted trinkets from the old wood has been cleared through the tally-house and Nyevasa is waiting at the gate. The carter asks a party to take the cart round by the back road, and not to say why.
 2. **What she is hunting.** Nyevasa asks a party to carry a message to the Fitter of Expeditions' collection at Péravel, asking whether a certain thing is catalogued. She will pay in silver and tell them nothing else.
-3. **Selon's master.** A young enchanter named Selon has come to Liranel asking for his old master, and the town has told him she is at the inn. He asks a party to be in the room when they meet.
+3. **Selith's master.** A young enchanter named Selith has come to Liranel asking for her old master, and the town has told her she is at the inn. She asks a party to be in the room when they meet.

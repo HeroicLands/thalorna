@@ -79,7 +79,7 @@ The licenses to cut the deep forest are issued, recorded and disputed at [[place
 court, and often enough quietly exceeded. Liranel's guides for hire take people past the margins of the
 old forest, and the crown's guides take [[affiliation-ordoarcanis|Arcane Order]] expeditions in and bring
 them back having found nothing, least of all [[place-serenthale|Serenthale]]. At
-[[place-heligstrom|Hélithron]] the men of a warlord and privateer are watching for the alchemist
+[[place-heligstrom|Hélithron]] the men of a captain of hired guards are watching for the alchemist
 [[being-sevnmyrkls|Sevren Mírkelis]], and at [[place-cardeth|Kardeth]] the young lady of the seat buys
 discreet remedies from [[being-belrkflwyn|Melrik Salvin]] of Liranel.
 

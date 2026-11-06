@@ -1,19 +1,19 @@
 ---
 shortcode: lotrenilther
-name: {full: Lotren Ílthernde, en: [Lord Lotren Ílthernde, Lord Lotren]}
+name: {full: Lotren Ílthernde, en: [Sheriff Lotren Ílthernde, Sheriff Lotren]}
 type: being
 subType: npc
-description: "A city councilor of Valdun who intervened to advance Parthun Pelthal's career and remains technically his patron."
+description: "The crown's Sheriff at Valdun, who won Parthun Pelthal his clerkship and now signs what Parthun puts before him."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: City Councilor
+  occupation: Sheriff
   lore: []
   culture: elavendriclt
   homes: [valdun]
-  affiliations: {kngdmlvndr: {rank: 3}}
+  affiliations: {kngdmlvndr: {rank: 3, office: Sheriff}}
   socialTies: {being-prthnblthl: dependent, being-ilseviletirv: acquaintance}
   gender: male
   species: humanflk
@@ -33,52 +33,52 @@ data:
 
 # Appearance {#appearance}
 
-Lotren Ílthernde is a 58-year-old man who stands 5'10" tall and is of light build. He is tall, spare and fair, with chestnut hair and shrewd green eyes in a pleasant face, and a gouty swelling at the right knuckle. He wears a councilor's gown over a good coat and a gold chain that is heavier than the office warrants. He leans back when he listens, and his chair is the best in the room.
+Lotren Ílthernde is a 58-year-old man who stands 5'10" tall and is of light build. He is tall, spare and fair, with chestnut hair and shrewd green eyes in a pleasant face, and a gouty swelling at the right knuckle. He wears the sheriff's chain over a good coat, and the chain is heavier than the office requires. He leans back when he listens, and his chair is the best in the room.
 
 # Dossier {#dossier}
 
-Lotren Ílthernde is a city councilor of [[place-valdun|Valdun]]. He intervened to win [[being-prthnblthl|Parthun Pelthal]] a place in the [City Administration]{.name data-type="affiliation"} at twenty, and remains technically his patron.
+Lotren Ílthernde is the crown's Sheriff at [[place-valdun|Valdun]], the officer who tries the crown's pleas in the shire, holds the posse and collects the levy, the road tolls and the wall money through his clerks and reeves. Years ago, as a gentleman of the town, he won [[being-prthnblthl|Parthun Pelthal]] a clerkship in the sheriff's hall, and he remains Parthun's patron in name.
 
-He sits on the council of a border town that rebuilds its wall every few generations, and his seat has been the council's accountant since the third wall went up. The cost of the next repair is a debate he steers. Parthun now outranks him in everything but gratitude, and the debt is the only thing Lotren has left to call.
+Valdun rebuilds its wall every few generations, and the money for the next repair has passed through the sheriff's hall for years on its way to the treasury at [[place-beravel|Péravel]]. The cost of the repair is a sum Lotren answers for. Parthun now runs everything in the hall but the seal, and the debt of the old favor is the only thing Lotren has left to call. This winter the treasury has sent a clerk, [[being-kelyrslthr|Kélvira Salthar]], to read the hall's rolls, and Lotren does not know what she will find in them.
 
 ## Psyche
 
 ### Personality
 
-Lotren is amiable, practical and unwilling to quarrel. He agrees with the last speaker and votes with the first. He remembers every favor done him and every one he did.
+Lotren is amiable, practical and unwilling to quarrel. He agrees with the last speaker and signs what is put in front of him. He remembers every favor done him and every one he did.
 
 ### Motivation
 
-He wants the council to run without a vote and his name to be one of its comforts. He wants Parthun grateful and Ílsevile not at the table.
+He wants the hall to run without trouble and his name to be one of its comforts. He wants Parthun grateful and Ílsevile out of his business.
 
 ### Strengths
 
-He knows the town's accounts and the town's secrets. He is liked by the drovers' guilds.
+He knows the town's families and the town's secrets. He is liked by the droving families.
 
 ### Weaknesses
 
-He has put a rising man where he can pull him down, and has let him rise past it. His seat is a comfort and a liability.
+He has put a rising man where he could pull him down, and let him rise past it. He has not read his own rolls in years.
 
 ## Social
 
 ### Companions
 
-The council's clerk and the guild masters he lunches with.
+The hall's ushers and the drovers' heads he lunches with.
 
 ### Patrons
 
-The Treasurer's office at Péravel, through the wall levy.
+The Treasurer's office at Péravel, to which he answers for the wall money.
 
 ### Enemies
 
-Ílsevile Tírvalnde, whom he fears. A rival councilor with a sharper pencil.
+[[being-ilseviletirv|Ílsevile Tírvalnde]], whom he fears. A clerk he dismissed, who reads rolls better than he does.
 
 ### Affiliations
 
-- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Lotren is of the Gentry, a councilor of Valdun.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Lotren is of the Gentry and holds the office of Sheriff at Valdun.
 
 ## Plot Hooks
 
-1. **The wall levy.** The cost of the next wall repair is before the council. Lotren asks a party to count the stone in the quarry yard and tell him whether the quarry master is honest.
+1. **The wall money.** Kélvira Salthar is reading the hall's rolls. Lotren asks a party to count the stone in the quarry yard and tell him what she will find before she tells him.
 2. **Parthun's debt.** Parthun Pelthal has stopped calling on his patron. Lotren asks a party to learn who has his ear now, without letting Parthun learn he asked.
-3. **The favor owed.** A guild master has called in a favor and Lotren cannot grant it without going against Ílsevile's court. He asks a party to find another way to give the guild master what he wants.
+3. **The stall levy.** Parthun has put a stall levy before Lotren for signing, and the makers under the wall are to speak against it. Lotren asks a party to tell him how angry the makers are before he signs anything.

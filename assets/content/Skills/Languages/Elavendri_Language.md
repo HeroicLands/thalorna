@@ -6944,10 +6944,10 @@ data:
     - {name: Sálvurne Áulirnde, tongue: elavendri}
     - {name: Foreman Sálvurne, tongue: translation}
     - {name: Íthrola Sémrothende, tongue: elavendri}
-    - {name: Countess Íthrola, tongue: translation}
+    - {name: Lady Íthrola, tongue: translation}
     - {name: Lotren Ílthernde, tongue: elavendri}
-    - {name: Lord Lotren Ílthernde, tongue: translation}
-    - {name: Lord Lotren, tongue: translation}
+    - {name: Sheriff Lotren Ílthernde, tongue: translation}
+    - {name: Sheriff Lotren, tongue: translation}
     - {name: Naldor Kardeth, tongue: elavendri}
     - {name: Prince Naldor Kardeth, tongue: translation}
     - {name: Merchant Prince Naldor Kardeth, tongue: translation}
@@ -7125,6 +7125,38 @@ data:
     - {name: Surveyor Taldor, tongue: translation}
     - {name: Ermin Tarvenel, tongue: elavendri}
     - {name: Captain Ermin, tongue: translation}
+    - {name: Úrthaven Tárvenel, tongue: elavendri}
+    - {name: Selith Halren, tongue: elavendri}
+    - {name: Írvale Darel, tongue: elavendri}
+    - {name: Sérdalorne, tongue: elavendri}
+    - {name: Sálvurnand Sarneth, tongue: elavendri}
+    - {name: Hálvilon Nareth, tongue: elavendri}
+    - {name: Thaurand Mírkelis, tongue: elavendri}
+    - {name: Élkaris Thaurnde, tongue: elavendri}
+    - {name: Órhaima Halren, tongue: elavendri}
+    - {name: Moren Elarven, tongue: elavendri}
+    - {name: Semroth Pelthal, tongue: elavendri}
+    - {name: Olthe, tongue: elavendri}
+    - {name: Gáinessa Órhaimnde, tongue: elavendri}
+    - {name: Áulira Mírkelis, tongue: elavendri}
+    - {name: Thráemesand, tongue: elavendri}
+    - {name: Sóurimand Darel, tongue: elavendri}
+    - {name: Ryéthesand Salreth, tongue: elavendri}
+    - {name: Tírvale Darel, tongue: elavendri}
+    - {name: Pálsairsa, tongue: elavendri}
+    - {name: Aulde Othral, tongue: elavendri}
+    - {name: Áulirarne Thólmarnde, tongue: elavendri}
+    - {name: Tírvale, tongue: elavendri}
+    - {name: Thólmara Darel, tongue: elavendri}
+    - {name: Gúlmalon Lísernde, tongue: elavendri}
+    - {name: Hálmesar, tongue: elavendri}
+    - {name: Semroth Ílthernde, tongue: elavendri}
+    - {name: Ílthera Úlmernde, tongue: elavendri}
+    - {name: Aulde Hérselnde, tongue: elavendri}
+    - {name: Súldinne, tongue: elavendri}
+    - {name: Lóuresand, tongue: elavendri}
+    - {name: Háresand, tongue: elavendri}
+    - {name: Dórkima, tongue: elavendri}
   retired:
     - {form: Tirwen, instead: Éllive, why: a name borrowed from an Earth tongue}
     - {form: Glanmor, instead: Lirve, why: a name borrowed from an Earth tongue}

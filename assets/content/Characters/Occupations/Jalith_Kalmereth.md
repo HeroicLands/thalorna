@@ -3,6 +3,7 @@ shortcode: ylthklmrth
 name: {full: Jalith Kálmereth}
 type: being
 subType: npc
+description: "A traveling bard born at Liranel whose newest ballad names which of the town's guides work for the crown."
 tags: [tradesfolk]
 data:
   icon: icon-person

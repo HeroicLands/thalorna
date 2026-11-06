@@ -3,7 +3,8 @@ shortcode: prthncrdth
 name: {full: Parthun Kardeth}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "The play-maker of a company of players of Valdun, who has written a satire on a lord of the march."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -389,57 +390,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Parthun Kardeth is a 40-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a delicate chin. His sharp amber eyes sit beneath expressive brows, lending him an incisive gaze. A slightly upturned nose and expressive lips complete his features. He has pale skin with a flawless complexion. His black hair is tied in a low tail.
+Parthun Kardeth is a 40-year-old man who stands 5'7" tall and is of medium build. He has a heart-shaped face with wide-set cheekbones, a wide forehead and an angular jaw that leads to a delicate chin. His sharp amber eyes sit beneath expressive brows and give him an incisive gaze. He has a slightly upturned nose, expressive lips and pale skin with a clear complexion, and a thin scar runs along the right side of his face from cheekbone to jaw. His black hair is tied in a low tail, and his fingers are ink-stained to the second knuckle.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of [[lore-elavendriclt|Élavendri]] heritage, Parthun Kardeth came into the world of the thespian through a combination of circumstance and aptitude.
+Parthun Kardeth is a player and play-maker of [[place-valdun|Valdun]], an [[lore-elavendriclt|Élavendri]] freeman who writes the plays for a company of players that plays the drove fairs, the inn yards and the great halls of the eastern march.
 
-Parthun is an actor and playwright who has spent much of his life on the stage. He is known for his powerful voice and his ability to portray complex characters. Parthun's writing often draws from his own experiences, and his plays are filled with rich dialogue and plots. However, he struggles with perfectionism, often rewriting scenes endlessly before he's satisfied.
+He has spent most of his life on a cart stage: a player at fourteen, the company's play-maker at thirty. He is known for a voice that fills an inn yard and for parts written so close to the life that drovers shout at the villains. His plays are drawn from the march itself, its raids, its lords and its debts, and the lords of the march come to see whether they are in them. He rewrites every scene until the company begs him to stop, and he stages none of them as written.
+
+The company's patron is [[being-nelamisolnar|Lady Nélamis Ólnarnde]], and its principal player is [[being-veldrblthl|Veldor Pelthal]]. This winter Parthun has written a satire on a lord of the march who wants the tribes' ground opened to the crown's roads, and every lord in Valdun knows which one it means.
 
 ## Psyche
 
 ### Personality
 
-Perfectionist tendencies, prone to overworking himself.
+Parthun is intense, tireless and a perfectionist, and he overworks himself and everyone around him.
 
 ### Motivation
 
-Parthun is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thespian work keep him vigilant and adaptable.
+He wants to write the play that the march remembers. He wants it staged before the company's patron thinks better of it.
 
 ### Strengths
 
-Talented actor and writer, skilled in crafting compelling dialogue, strong stage presence.
+He is a talented player and writer, with a strong stage presence and an ear for how people really speak.
+
+### Weaknesses
+
+He cannot leave a scene alone, and he writes about powerful men with less care than they deserve.
 
 ## Social
 
-Parthun is affiliated with the [City Theater Company]{.name data-type="affiliation/venture"} and the [Writers' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As an Élavendri thespian, Parthun occupies a recognized social niche within Élavendre society.
-
-## Companions
+The company of players, Veldor Pelthal above all, with whom he quarrels daily.
 
 ### Patrons
 
-Parthun's primary patrons are wealthy patrons who commission his plays. This relationship provides both opportunity and obligation.
+Lady Nélamis Ólnarnde, who pays the company's winter keep and hosts its best nights in her hall.
 
 ### Enemies
 
-Critics who believe his work is overly complicated.
+Critics among the bards of Valdun, who say a play is a song too lazy to rhyme, and the lords who have recognized themselves on his stage.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Parthun is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Thespian's Dilemma
-: Parthun faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+The Satire
+: Parthun's new play mocks a lord of the march who wants the tribes' ground opened, and [[being-vargenhalmes|Lord Vargen Hálmesende]] has let it be known that he will attend the first night. Parthun asks a party to stand in the yard that night.
 
-Old Grudges
-: Critics who believe his work is overly complicated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Stolen Pages
+: The only fair copy of the satire has been stolen from the company's cart. Parthun suspects a rival company, Veldor suspects a lord, and Lady Nélamis asks a party to find the pages before anyone reads them.
 
-Echoes of the Past
-: Something from Parthun's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Parthun depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Parthun the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Drover's Grudge
+: A drover who saw himself as the fool in last year's play has sworn to cut the play-maker's face to match the scar on the other side. Parthun laughs about it and has stopped walking home alone.

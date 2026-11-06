@@ -1,15 +1,15 @@
 ---
 shortcode: ithrolasemro
-name: {full: Íthrola Sémrothende, en: [Countess Íthrola]}
+name: {full: Íthrola Sémrothende, en: [Lady Íthrola]}
 type: being
 subType: npc
-description: "A young countess whose domain lies on the grain and cattle roads above Ruthelmar, three days' ride from the cottage of Álira Kálmereth, and who hopes the toymaker can capture her daughter's nightmares."
+description: "A young noblewoman whose domain lies on the grain and cattle roads above Ruthelmar, three days' ride from the cottage of Álira Kálmereth, and who hopes the toymaker can capture her daughter's nightmares."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, trader]
-  occupation: Countess
+  occupation: Noblewoman
   lore: []
   culture: elavendriclt
   homes: [ruthelmar]
@@ -37,7 +37,7 @@ data:
 
 # Dossier {#dossier}
 
-Íthrola Sémrothende is a young countess whose domain lies on the grain and cattle roads above [[place-ruthelmar|Ruthelmar]], the market town at the head of barge navigation on the Berav. Its farms feed the barges that go down to [[place-beravel|Péravel]], and the Gandelis road starts at her door. Her domain is three days' ride from the cottage of [[being-alyrklmrth|Álira Kálmereth]].
+Íthrola Sémrothende is a young noblewoman whose domain lies on the grain and cattle roads above [[place-ruthelmar|Ruthelmar]], the market town at the head of barge navigation on the Berav. Its farms feed the barges that go down to [[place-beravel|Péravel]], and the Gandelis road starts at her door. Her domain is three days' ride from the cottage of [[being-alyrklmrth|Álira Kálmereth]].
 
 She has heard extraordinary tales of Álira's toymaking, and has a daughter whose nightmares she hopes the toymaker can capture. The cattle factors of the autumn drove need an escort for a herd going down the Gandelis road, which crosses ground where the Wardens are watching more closely than usual, and some of that herd is hers.
 
@@ -79,6 +79,6 @@ A neighbor who has been buying her tenants' debts. The bargemasters' fellowship,
 
 ## Plot Hooks
 
-1. **The countess's heir.** Íthrola commissions twelve figures from the toymaker, one for each month, each with a cryptic instruction, and asks a party to carry the first of them to Álira's door and wait.
-2. **The drove.** The factors of the autumn drove need an escort for a herd going down the Gandelis road. The countess has cattle in it and asks a party to ride beside it, and to keep the herd on the road.
+1. **The heir's figures.** Íthrola commissions twelve figures from the toymaker, one for each month, each with a cryptic instruction, and asks a party to carry the first of them to Álira's door and wait.
+2. **The drove.** The factors of the autumn drove need an escort for a herd going down the Gandelis road. Íthrola has cattle in it and asks a party to ride beside it, and to keep the herd on the road.
 3. **The bargemasters' refusal.** No bargemaster will carry a certain crate of hers downriver, and she does not know why. She asks a party to learn what the fellowship is afraid of.

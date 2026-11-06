@@ -3,6 +3,7 @@ shortcode: prthnblthl
 name: {full: Parthun Pelthal, given: Parthun, clan: Pelthal}
 type: being
 subType: character
+description: "The keeper of the sheriff's rolls at Valdun, the most powerful man in the hall who does not hold its seal."
 tags: [heroes-and-knaves, guilded, administration]
 data:
   icon: icon-person
@@ -419,39 +420,43 @@ sohl:
 
 ![[prthnblthl|Parthun Pelthal]]{float=top-left}
 
-Parthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
+Parthun Pelthal is a 36-year-old man who stands 5'9" tall and is of medium build. He has a heart-shaped face with a small nose, a gentle jawline and dark brows. His brown eyes give nothing away, and his tanned skin is ruddy at the cheek. His dark brown hair is cut close, and he walks with a slight limp from a scar on the left foot.
 
 # Dossier {#dossier}
 
 **Birth in the Shadow of Law**
 
-Parthun was born in the city of [[place-valdun|Valdun]], a major administrative center in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], to parents of modest means. His father, [Sethun]{.name data-type="being/npc"}, was a minor clerk in the [Royal Treasury]{.name data-type="affiliation/governmental"}, while his mother, [Élina]{.name data-type="being/npc"}, took in washing and mending to supplement the family income. From his earliest years, Parthun watched his father navigate the hierarchies and procedures of the kingdom's bureaucratic apparatus, and he learned that behind every law, behind every official edict, lay opportunities for those clever enough to exploit them. His father taught him that the power in any system rests not with those who make the laws but with those who interpret them and control their application.
+Parthun Pelthal was born in [[place-valdun|Valdun]], the walled border town of the eastern march of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], to parents of modest means. His father, [Semroth Pelthal]{.name data-type="being/npc"}, was a minor clerk of the sheriff's hall, and his mother, [Olthe]{.name data-type="being/npc"}, took in washing and mending. Parthun watched his father work the procedures of the crown's officers and learned that behind every writ lay opportunities for those clever enough to use them. His father taught him that power in any system rests less with those who make the rules than with those who keep the rolls.
 
-His youth was marked by careful observation. While other children played games of military conquest or heroic adventure, Parthun studied the local administrative structures. He became friends with the clerks who worked in the assessor's office, learned the schedules of judges and magistrates, and discovered which officials could be made sympathetic to requests if approached correctly. By his late teens, he had begun to actively use this knowledge, helping neighbors navigate disputes over property boundaries, taxes, and permits—always with a subtle understanding that such favors would eventually be repaid.
+While other children played at raids, Parthun studied the town's offices. He befriended the clerks of the sheriff's hall, learned the sitting days of the royal court and discovered which officers could be made sympathetic if approached correctly. By his late teens he was helping neighbors through disputes over boundaries, tolls and fair dues, always on the understanding that a favor would be repaid.
 
-**Rise Through Administration**
+**Rise Through the Sheriff's Hall**
 
-At twenty years of age, Parthun secured a position in [The City Administration of Valdun]{.name data-type="affiliation/governmental"} through a combination of legitimate qualification and the intervention of Lord [[being-lotrenilther|Lotren Ílthernde]], a city councilor who recognized in the young man a useful tool. For the past seventeen years, Parthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
-
-**The Foot's Mark**
-
-The scar on his foot dates to a pivotal moment in his career. Five years ago, Parthun began to recognize that his patron, Lord Lotren, was becoming a liability. The councilor's appetites were growing more expensive, his demands more unreasonable, and his patience with Parthun's careful approach was wearing thin. Rather than continue as a subordinate in Lotren's shadow, Parthun resolved to eliminate the problem. What might have been a simple poisoning or arranged accident was interrupted by an unexpected guest—a rival administrator who discovered Parthun in the act of preparation. The two men fought in Lotren's private study, and though Parthun emerged victorious, he sustained a knife wound to his foot. More importantly, he learned a crucial lesson: sometimes the most careful plans are disrupted by chaos, and the wise operator must have contingencies for unexpected interference.
+At twenty Parthun took a clerkship in the sheriff's hall at Valdun, through a mix of real qualification and the intervention of [[being-lotrenilther|Lotren Ílthernde]], then a gentleman of the town who saw a useful tool in him and who now holds the crown's office of Sheriff in the shire. In sixteen years Parthun has risen to keep the sheriff's rolls: a post that sounds minor and gives him every writ, tally and receipt the hall holds, with the say over how they are filed, found and read. The levy, the road tolls and the wall money all pass through his rolls.
 
 **Current Position and Agenda**
 
-At present, Parthun is effectively the most powerful unelected official in Valdun's administration. He controls the flow of documents, manipulates the interpretation of regulations, and has built a network of subordinates who are loyal to him either through belief in his ability or through fear and obligation. He has become moderately wealthy through entirely legal means—though the methods by which he achieved that wealth would scandalize those unfamiliar with administrative practice. His ambition continues to grow. He speaks openly of seeking legitimate election to the city council, a position that would formalize the power he already wields in the shadows.
+Parthun is the most powerful man in the sheriff's hall who does not hold its seal. Lotren signs what Parthun puts in front of him. Parthun has grown moderately rich by entirely legal means, by methods that would scandalize anyone who does not keep rolls. This winter he has drafted a stall levy on craftspeople who sell outside the fair days, and the treasury at [[place-beravel|Péravel]] has sent a clerk, [[being-kelyrslthr|Kélvira Salthar]], to audit the wall money he has been collecting. He speaks of rising to Gentry and of the shrievalty itself.
+
+:::secret {title="The foot's mark"}
+The scar on Parthun's foot dates from five years ago, when he decided that Lotren had become a liability: expensive, demanding and impatient with Parthun's careful methods. He meant to be rid of him by a quiet poisoning. A rival clerk walked into Lotren's study while Parthun was preparing it, the two men fought, and Parthun came out of it with a knife wound in the foot and the rival's silence, bought at a price he still pays. Lotren does not know how close he came. Parthun learned that the best plan is broken by chaos, and now keeps contingencies for everything.
+
+The round sums in the wall money are his. He has skimmed it for years in amounts too small to notice singly, and Kélvira is the first reader of the rolls clever enough to add them up.
+
+**Hook: the second roll.** The rival clerk who saw Parthun in Lotren's study has offered Kélvira a second roll of the wall levy, in his own hand, and the price is protection from Parthun.
+:::
 
 ## Psyche
 
 ### Personality
 
-Parthun is a student of human nature, endlessly fascinated by the mechanisms of motivation and control. In conversation, he is careful and measured, asking probing questions and revealing little about himself unless there is clear advantage to doing so. He maintains the public persona of a dedicated servant of the realm, a man committed to the proper functioning of government and the fair application of law. Those who work closely with him, however, recognize his capacity for ruthlessness and his willingness to sacrifice allies if they become inconvenient.
+Parthun is a student of human nature, endlessly fascinated by the mechanisms of motivation and control. In conversation, he is careful and measured, asking probing questions and revealing little about himself unless there is clear advantage to doing so. He keeps the public face of a dedicated servant of the crown, a man committed to the proper functioning of government and the fair application of law. Those who work closely with him, however, recognize his capacity for ruthlessness and his willingness to sacrifice allies if they become inconvenient.
 
 He is not cruel for cruelty's sake, nor does he act out of simple greed or ambition. Rather, he is a pragmatist who has developed a personal philosophy in which morality is subservient to utility. If a rule serves the functioning of society, he will uphold it scrupulously; if a rule hinders the goals he has deemed important, he will work to circumvent it. This makes him both reliable in certain contexts and deeply untrustworthy in others. His rare moments of warmth emerge when he is discussing the elegant logic of administrative systems or when he is sharing quiet hours with people he considers to have truly understood him—such moments are rare indeed.
 
 ### Motivation
 
-Parthun seeks to consolidate his power and expand his influence to the highest levels of government. He believes that most people are fundamentally incompetent or corrupt, and that his role is to be the hidden architect directing the machinery of government in ways that prevent catastrophic failure. While he would claim that his ultimate goal is the good of the kingdom, his actual priority is the advancement of his own position and the security of his power base. He is increasingly fascinated by the possibility of influence at the regional level, and has begun to consider whether a position as aide to a high-ranking noble might not afford him even greater leverage than a seat on the city council.
+Parthun seeks to consolidate his power and expand his influence to the highest levels of government. He believes that most people are fundamentally incompetent or corrupt, and that his role is to be the hidden architect directing the machinery of government in ways that prevent catastrophic failure. While he would claim that his ultimate goal is the good of the kingdom, his actual priority is the advancement of his own position and the security of his power base. He has begun to wonder whether a post in the chancery at Péravel might give him more leverage than the shrievalty.
 
 ### Strengths
 
@@ -491,44 +496,44 @@ Contempt for Others
 
 ### Patrons
 
-Lord Lotren Ílthernde
-: Despite the complications between them, Lotren remains technically Parthun's patron and the relationship continues, though now on more equal terms. Lotren values Parthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
+[[being-lotrenilther|Lotren Ílthernde]]
+: The Sheriff, who got Parthun his clerkship and remains his patron in name. Lotren depends on Parthun to run the hall and suspects that Parthun manages him.
 
-The Lord Chancellor of Élavendre
-: At the highest level of government, Parthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents patronage or merely the normal monitoring of an unusually capable official is unclear.
+The Chancellor of Élavendre
+: The head of the crown's chancery at Péravel has begun to notice the keeper of the rolls at Valdun. Whether this is patronage or the ordinary watching of an unusually capable clerk is not clear.
 
 ### Enemies
 
-Magistrate [[being-ilseviletirv|Ílsevile Tírvalnde]]
-: A judge who has clashed with Parthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
+[[being-ilseviletirv|Magistrate Ílsevile Tírvalnde]]
+: A magistrate of the royal court at Valdun who has clashed with Parthun again and again over the reading of writs and rolls, regards him as a danger to the crown's justice and would gladly see him out of the hall.
 
-[The Office of Civic Integrity]{.name data-type="affiliation/governmental"}
-: An official body tasked with investigating corruption in government. Parthun has managed to stay ahead of their inquiries so far, but the office has begun to focus attention on his affairs with increasing intensity.
+[[being-kelyrslthr|Kélvira Salthar]]
+: The treasury's clerk, who is reading his rolls and trusts none of them.
 
-Displaced Administrators
-: Those who have been forced out of positions by Parthun's machinations nurse considerable resentment. Some have enough knowledge of his methods to pose threats.
+Displaced clerks
+: Men Parthun has edged out of the hall, who know enough of his methods to be dangerous.
 
 ### Affiliations
 
-The City Administration of Valdun
-: His official position and the primary source of his power, though his actual loyalty is to himself rather than the institution.
+[[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+: Parthun is a Freeman of the crown and keeps the rolls of its sheriff's hall at Valdun. His loyalty is to himself.
 
-[The Bureaucrats' Guilds]{.name data-type="affiliation"}
-: A loose fraternal organization of administrative officials across the kingdom. He maintains good standing while carefully using the organization's resources for his own benefit.
+[[affiliation-ardavon|Faith of Árdavon]]
+: He keeps the faith's rites with exact and passionless attention.
 
 ## Plot Hooks
 
-The Auditor from the Capital
-: A representative from the Lord Chancellor's office arrives in Valdun announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named [Thecia Rothel]{.name data-type="being/npc"}, seems to take unusual interest in the Records department and Parthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Parthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
+The Auditor from Péravel
+: Kélvira Salthar is asking far more specific questions than a routine audit warrants, and she has begun examining sums Parthun was sure he had hidden. He wants a party to learn whether she is acting on evidence, on an enemy's word, or on her own, and whether she can be turned.
 
-The Blackmail That Cannot Be Refused
-: A figure approaches Parthun with documents that detail some of his more legally questionable activities over the years. The person claims not to be interested in exposing him; instead, they want him to use his administrative influence to accomplish something specific: the release of a person currently imprisoned for a serious crime, the alteration of property records to favor a particular buyer, or perhaps the blocking of an investigation into one of their business ventures. The blackmailer has taken precautions so that if anything happens to them, the documentation will be released. Parthun must decide whether to comply, to attempt to discredit or eliminate the threat, or to somehow turn the situation to his own advantage—all while being aware that blackmailers rarely accept a single payment and tend to return for more.
+The Stall Levy
+: Parthun's stall levy has the makers under the wall in an uproar, and the toymaker [[being-alyrklmrth|Álira Kálmereth]] is to speak against it before the Sheriff. Parthun hires a party to learn which of the makers mean to do more than speak.
 
-Conspiracy Among the Bureaucrats
-: Parthun discovers evidence that suggests a faction within the city government is planning to use a legal mechanism (possibly an inspection, regulation change, or formal complaint) to discredit and remove him from his position. The conspiracy involves several people he has worked with for years, which suggests either that his network is less reliable than he believed or that someone is impersonating his associates to frame them. He must identify the actual conspirators while maintaining his own cover and position, all while navigating the legal system he knows so well being used against him in unexpected ways.
+The Blackmail
+: Someone has sent Parthun copies of rolls he believed destroyed, and wants a prisoner released from the royal court's cells in return. The sender has arranged for the copies to reach Ílsevile if anything happens to them.
 
-The Inheritance Dispute That Conceals Darker Secrets
-: A prominent merchant family approaches Parthun requesting his assistance in a complex inheritance dispute. The ostensible issue is the interpretation of a will and the application of property law, matters well within his expertise. However, as Parthun investigates, he begins to uncover evidence that suggests the dispute may be a cover for something far darker—potentially murder, magical manipulation, or a crime significant enough that powerful people are willing to spend considerable resources to keep it hidden. Helping either faction could place him in danger, but refusing to assist may make enemies of people capable of causing him serious harm.
+The Drove Inheritance
+: A droving family asks Parthun to settle the inheritance of its grazing rights through the rolls. The dispute covers a death that may not have been natural, and both sides are people he cannot afford to offend.
 
-The Secret Archive Beneath the Archives
-: While conducting maintenance or repairs in the deep sections of the city's records archive, workers discover evidence of a hidden chamber sealed for decades. When it is opened, it is found to contain an archive of documents that predate the current administration—records from a previous regime that were supposed to have been destroyed. The documents contain information that could expose historical crimes, political conspiracies, or powerful secrets that certain people would go to great lengths to keep hidden. Parthun becomes aware that he is now custodian of information that multiple factions desperately want, and he must decide whether to suppress it, leverage it for power, or find some way to use it as insurance against future threats.
+The Room under the Hall
+: Masons repairing the sheriff's hall have broken into a sealed room full of rolls from the years of the treaty with the Empire, which were supposed to have been burned. They record what the town gave the legate and where the legion's dead were laid, and the [[affiliation-ordoarcanis|Order]]'s antiquarians, who want to know where an unrusted imperial helmet was found, would pay anything for them.

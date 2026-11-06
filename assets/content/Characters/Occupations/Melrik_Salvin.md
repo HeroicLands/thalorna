@@ -3,7 +3,8 @@ shortcode: belrkflwyn
 name: {full: Melrik Salvin}
 type: being
 subType: npc
-tags: [draft, guilded, mages]
+description: "A violet-eyed alchemist of Liranel who harvests where the Grove Council forbids, watched by a grove-elder and warned by the Wardens."
+tags: [guilded, mages]
 data:
   icon: icon-person
   templatePriority: null
@@ -394,71 +395,76 @@ sohl:
 
 # Appearance {#appearance}
 
-Melrik is a lean man of unremarkable height, yet his appearance commands attention for all the wrong reasons. His pale skin hangs slightly loose on a medium frame, marked with faint discolorations where alchemical reagents have stained his flesh. Most striking are his violet eyes—an unsettling shade that dominates an otherwise plain, scarred face; according to those who knew him in his youth, they were once brown. His black hair is pulled back in a practical low tail, often wrapped with cord soaked in herbal preparations. He habitually wears a leather apron stained with the residue of a thousand experiments, and his hands bear the calluses and minor burns of someone who works routinely with dangerous substances.
+Melrik Salvin is a 42-year-old man who stands 5'4" tall and is of medium build, a lean man whose appearance draws attention for the wrong reasons. His fair skin is marked with faint discolorations where reagents have stained it. Most striking are his violet eyes, an unsettling shade in an otherwise plain, scarred face; those who knew him young say they were once brown. His black hair is pulled back in a low tail, often wrapped with cord soaked in herbal preparations. He wears a leather apron stained by a thousand experiments, and his hands carry the calluses and small burns of a man who works with dangerous substances every day.
 
 # Dossier {#dossier}
 
-Melrik Salvin was born in [[place-liranel|Liranel]], a forest town deep within [[place-elavendre|Élavendre]], to a minor but respected guilded family with roots reaching back to the tribal settlements of the [[lore-aelendnppl|Áelendan People]] in the interior. His father was a cloth-merchant; his mother claimed descent from the mountain communities and knew the old herb-lores intimately. From her, Melrik learned the fundamentals—not from any formal academy, but from forest walks and kitchen experiments, the way knowledge has always moved through Élavendre's winding glens.
+Melrik Salvin is an alchemist of [[place-liranel|Liranel]], the timber town of the [[place-lirve|Lirve]] coast, an [[lore-elavendriclt|Élavendri]] freeman of a guilded family whose mother claimed descent from the [[lore-aelendnppl|Áelendan]] of the interior and knew the old herb-lore intimately. His father was a cloth-merchant. From his mother Melrik learned the fundamentals, not in any academy but on forest walks and in kitchen experiments.
 
-Melrik was seventeen when [[affiliation-bardicolgs|the Bardic Colleges]]' archivists came to Liranel seeking to catalog old manuscripts. Among them was [Senedd ap Gwynedd]{.name data-type="being/npc"}, a sharp-tongued scholar who marked him at once as someone worth teaching. Senedd recognized in the boy a mind sharp enough to cut glass and a curiosity that bordered on dangerous. Over five years, she taught him script, mathematics, and the deeper folklore—the true stories, not the sanitized versions [[affiliation-groveconcl|the Grove Council]] permitted for public consumption. She also taught him something else: that knowledge itself has no morality, only consequences, and that the prettiest lies are the ones told by those with power.
+He was seventeen when the archivists of [[affiliation-bardicolgs|the Bardic Colleges]] came to Liranel to catalog old manuscripts. Among them was [Thólmara Darel]{.name data-type="being/npc"}, a sharp-tongued scholar who marked him at once as worth teaching. Over five years she taught him script, mathematics and the deeper folklore, the true stories and not the versions [[affiliation-groveconcl|the Grove Council]] permits for public telling. She also taught him that knowledge has no morality, only consequences. When she went back to [[place-beravel|Péravel]] to the Colleges' archives, Melrik stayed in Liranel and began seeking out the plants that grow only in fae-touched groves and the minerals found near Áelendan holy places. His mother died of a wasting sickness the next winter, which neither herb-lore nor the grove-elders' singers could cure, and her death left him convinced that the old restrictions were excuses for accepting helplessness.
 
-When Senedd moved on to [[place-beravel|Péravel]] and the heart of the Bardic Circle's archives, Melrik remained in Liranel. But he did not remain idle. He began seeking out the Grove Council's forbidden specimens—the plants that grew only in fae-touched groves, the fungi that bloomed in places marked with ancient stones, the rare minerals found near Áelendi sacred sites. His mother, who might have stopped him, died in 699/8—a wasting sickness that neither herbalism nor the Grove Council's singers could cure. Her death crystallized something in him: a conviction that the traditional safeguards and restrictions were merely excuses for accepting powerlessness.
+His alchemy owes nothing to the theory of the [[affiliation-ordoarcanis|Thordimalon]]; it comes out of the forest's lore and rejects its reverence. He studies the grovekeepers' herbalism without their care for balance, and he approaches the fae-touched places as a scavenger, not a supplicant. His violet eyes are explained in Liranel either as the price the fae took for his trespasses or as a dose he gave himself on purpose. He brews tinctures that steady a trembling hand and elixirs that clear a clouded mind, and both work. He is exact, even brilliant, and the town respects him cautiously.
 
-His alchemy owes nothing to the rigid, bureaucratic art of the [[affiliation-ordoarcanis|Thordimalon]]; it flows from Élavendre's deeper currents. He studies the grovekeepers' herbalism but rejects its reverence for balance. He understands the fae-touched places but approaches them as a scavenger, not a supplicant. His recipes combine the old mountain knowledge with something harsher, more cutting. His violet eyes are explained in Liranel either as the price the fae demanded for his trespasses or as a dose he gave himself deliberately, seeking to touch something beyond human perception.
+Liranel is busy this winter with the wrong kind of hiring, and Melrik is in the middle of it. An Order fellow taking on guards for a moonlit night at [[place-wrghthllw|the Wrought Hollow]] has asked him for something to keep his men awake and unafraid, and the families waiting for the guides who went past the margin come to his door for something to make them sleep.
 
-By his early thirties, Melrik had earned a reputation in Liranel and the surrounding forest settlements: he could brew potions and distillations that produced results. A tincture that steadied a trembling hand. Elixirs that brought clarity to a clouded mind. But also darker wares, whispered about rather than named—substances that loosened the tongue, sharpened desire, or opened consciousness to visions that left the user changed. He is exact, even brilliant, in his work. He is also entirely pragmatic about whom he sells to and at what cost.
+:::secret {title="Melrik's second trade"}
+Melrik also sells darker wares, whispered about rather than named: substances that loosen the tongue, sharpen desire or open the mind to visions that leave the user changed. He is entirely practical about whom he sells to. Under the name [Gúlmalon Lísernde]{.name data-type="being/npc"} he sells them beyond the town. Inside the kingdom the alias keeps an unlicensed alchemist working with fae-touched materials out of sight of [[affiliation-sekran|the Arcane Inquisition]], which would take a close interest if his real name were attached. Beyond the borders, in [[place-aelwyth|Eilwith]] and [[affiliation-kingdmdnvr|Dúnavarre]], where the Order's grip is tighter still, Gúlmalon is a traveling herbalist of no fixed address, useful to nobles who want discreet remedies, scholars who want rare samples and merchants who want supply.
 
-Around this same time, Melrik adopted the alias **Aldrik Fallow**. The name serves him in two arenas. Within Élavendre, it shields him from the attention of the Thordimalon (the Arcane Order), whose [[affiliation-univperavel|University of Péravel]] and Zulen (fellowship) chapterhouses dominate the capital's intellectual life; an unlicensed alchemist operating with fae-touched materials would draw immediate scrutiny from [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) if connected to his real name. Beyond Élavendre's borders—in [[place-aelwyth|Eilwith]] and [[affiliation-kingdmdnvr|Dúnavarre]], where the Order's grip is tighter still—Aldrik Fallow is a useful fiction: a traveling herbalist of no fixed address, useful to nobles seeking discreet remedies, scholars wanting samples of rare substances, and merchants with discreet sources of supply. The work is as lucrative as it is dangerous.
+He will not poison a child or devastate a sacred grove, not from morality but because such acts invite retaliation from powers greater than his own. Everything else is negotiable.
 
-Now at forty-three, Melrik exists in a complicated equilibrium. He maintains his legitimate practice in Liranel, where he is respected—cautiously—for his knowledge and results. He supplies the Grove Council with certain ingredients they request (though he is careful never to ask their purposes), and he entertains occasional patronage from Bardic Circle scholars like Senedd, who value his insights into old folklore. Alongside this runs a parallel network: Aldrik Fallow's clientele, the shadow-traders, the desperate, the ambitious. He cultivates an air of mystery about his sources, and he has become skilled at playing one potential patron against another, never quite committing, always maintaining leverage.
-
-His conscience, such as it is, operates within a narrow band. He will not poison a child, nor will he deliberately devastate a sacred grove—not because of morality, but because such acts invite retaliation from forces more powerful than himself. Everything else, he has learned, is negotiable.
+**Hook: Gúlmalon's creditors.** A shipment carried by his go-between [Hálmesar]{.name data-type="being/npc"} has been seized by Dúnavarren customs, and the bottles bear Gúlmalon's careful labels. The Order has noticed, and discreet inquiries have begun in Liranel. Melrik can drop the name, call in a favor to stop the inquiry, or see that the evidence disappears before the Order examines it.
+:::
 
 ## Psyche
 
-Melrik possesses a brilliant analytical mind, the kind that can hold complex herb-lore and mathematical precision in the same thought. His reasoning is sharp enough to cut through flattery and deception—he sees the world as a system of pressures and incentives, and he is typically three steps ahead of those trying to manipulate him. Yet this same clarity of vision has a cost: he feels little for anyone. Others are primarily variables in his calculations, useful or not, positioned on a spectrum between assets and obstacles.
+### Personality
 
-His unscrupulous nature is not the theatrical evil of a villain in a bard's tale. It is quieter, more insidious—the reasoned pragmatism of someone who has decided that the old rules were written by people more cautious than himself. He believes he is smarter than the Grove Council's restrictions, more perceptive than the Bardic Circle's moral posturing, less deluded than those who trust in fae goodwill or natural balance. He is probably right about some of these things. This certainty is both his strength and his greatest vulnerability.
+Melrik has a brilliant analytical mind that holds herb-lore and mathematical precision in the same thought, and he sees the world as a system of pressures and incentives. He feels little for anyone. Others are variables in his calculations, useful or not. He is not a villain from a ballad but a quieter thing: a man who has decided that the old rules were written by people more cautious than himself, and who is probably right about some of it.
 
-What saves him from being merely contemptible is his real passion for knowledge and his craftsmanship. He takes pride in his work. A tincture made by Melrik is precise, powerful, and will do exactly what it claims. His lies are told with precision, his promises kept unless circumstances render them impossible, his word to a formal patron honored—not from virtue, but from understanding that reputation is capital. He is, in his way, a man of his trade.
+### Motivation
+
+He wants knowledge, the rarer the better, and the craft to use it. He wants to stay useful to every power in the town and owned by none of them.
+
+### Strengths
+
+His work is precise and does exactly what he says it will. He keeps his word to a patron because reputation is capital, he sees through flattery, and he is usually three steps ahead of anyone trying to use him.
+
+### Weaknesses
+
+His certainty that he is cleverer than the grove-elders, the bards and the Wardens is his greatest vulnerability, and his indifference to people leaves him with no one who would stand by him.
 
 ## Social
 
-In Élavendre proper, Melrik occupies the position of a respected if slightly suspicious craftsman—a member of the guilded class whose special knowledge is valuable enough to warrant continued tolerance despite his obvious moral flexibility. The Grove Council watches him, certainly, and there are elders who have debated whether his trespasses in sacred groves warrant intervention. But he has not yet crossed the line into open violation of their authority, and in Élavendre's careful balance of powers, that matters. The Bardic Circle knows of him—particularly through Senedd—and sees him as a source of information about the real thoughts and desires of Liranel's people, a useful if morally ambiguous informant.
+In Liranel Melrik is a respected and slightly suspect craftsman, tolerated for what he knows. The Grove Council watches him, and its elders have debated whether his trespasses in holy groves warrant action; he has not crossed into open defiance of them, and that matters in the kingdom's careful balance. The Bardic Circle knows of him through Thólmara and finds him a useful informant on what the town really thinks. He offers alchemy that works by direct effect, rooted in the old traditions and unbound by their reverence, which makes him indispensable to some and an irritant to the grovekeepers, the bards and the Order alike.
 
-His legitimacy rests on three pillars: his results, his careful obedience to the letter (if not the spirit) of Grove Council restrictions, and his exploitation of a gap in how magic is governed in Élavendre. In Péravel and the larger towns, the Thordimalon holds considerable sway through the University and its chapterhouses—but in the forest settlements like Liranel, the Order's writ carries little practical weight. The grovekeepers' arts are conservative by necessity—they must preserve balance. Bardic magic is subtle and tied to language and history. The Order's scholars study magic through rigid theory that struggles with the fae-touched chaos of Élavendre's interior. Melrik offers something different: alchemy that speaks in the language of raw power and direct effect, rooted in the old traditions but unbound by their reverence. This makes him indispensable to certain circles—and puts him at odds with all three of the powers that claim authority over magic in this kingdom.
+### Companions
 
-As Aldrik Fallow, he operates entirely outside such structures, answerable to no one but the code of commerce and mutual interest. This freedom is intoxicating—it is also precarious.
+Thólmara Darel, now in her seventies and an Archivist of the Bardic Colleges at Péravel, his teacher and the nearest thing he has to a friend. They write to each other; she sends rare texts and he sends specimens.
 
-## Companions
+### Patrons
 
-### Patrons and Allies
+[[being-auliranekard|Lady Áulirane]] of [[place-cardeth|Kardeth]], a young noblewoman of Áelendan descent who comes to him for discreet remedies. She is intelligent, ambitious and as practical as he is, and he does not know whether she is testing him for someone else.
 
-**Senedd ap Gwynedd**—Now in her early seventies, Senedd remains one of the archivists of the Bardic Circle in Péravel. She was Melrik's teacher and remains perhaps his only true intellectual peer and closest thing to a friend. Their correspondence is sporadic but affectionate in its way; she supplies him with rare texts and references, and he provides her with specimens and observations she could not access otherwise. The Circle does not formally know of their relationship, though certain members suspect it. Senedd would deny it if asked, but she also would not allow Melrik to be destroyed—at least not without cause that rose above the level of moral disapproval.
+### Enemies
 
-[Caldor]{.name data-type="being/npc"}—A half-fae merchant from the forest country beyond Liranel who handles much of Aldrik Fallow's cross-border trade. Caldor asks few questions, accepts unusual payment, and possesses an uncanny ability to move goods and people where they need to go. The relationship is purely transactional, but reliable. Melrik suspects Caldor may be significantly older than he appears and possibly bound to something in the [Unseen]{.name data-type="place"}—the fae-touched territories—but this is never mentioned aloud.
+[Semroth Ílthernde]{.name data-type="being/npc"}, a grove-elder of the Grove Council of about his own age, who has made it his business to watch Melrik, presses his suppliers and discourages his patrons. They have never spoken.
 
-Lady [[being-auliranekard|Áulirane]] of [[place-cardeth|Kardeth]]—A young noblewoman with Áelendan ancestry who has begun seeking Melrik out for discrete remedies. She is intelligent, ambitious, and shares his pragmatism about the gap between public virtue and private necessity. This patronage has become important to him, though he recognizes it as potentially dangerous: noble favor can be withdrawn as quickly as it is granted, and she may be testing his loyalty for the Bardic Circle.
+The [[affiliation-alndnwrdns|Áelendan Wardens]], who have caught him twice in holy groves and let him talk his way out both times. [Thórnasa]{.name data-type="being/npc"}, an elder Warden, has begun leaving carved warnings in places he frequents.
 
-### Enemies and Threats
+### Affiliations
 
-[Torven Wyndes]{.name data-type="being/npc"}—An elder of the Grove Council, approximately Melrik's age, who has made it his personal mission to monitor Melrik's activities. Torven is one of the few people who understands both that Melrik is dangerous and that direct suppression would be politically costly. Their conflict is therefore conducted through innuendo, carefully placed pressure on Melrik's suppliers, and the quiet discouragement of his patronage. They have never directly spoken, but both understand they are adversaries. Torven would eliminate Melrik without hesitation if circumstances permitted it.
-
-The [[affiliation-alndnwrdns|Áelendan Wardens]]—A loose confederation of guardians from the mountain communities who regard Melrik as a grave transgressor. They have caught him trespassing in sacred groves twice, and he has managed to talk or negotiate his way free both times. The next encounter may not go as smoothly. The eldest of the Wardens, a woman named [Seonaid]{.name data-type="being/npc"}, has begun leaving warnings in places she knows he frequents—physical markers, carved signs in an old script. The message is clear: continue, and the consequences will escalate.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Melrik is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Sacred Grove's Shadow
-: Melrik has located a specimen he has been seeking for years: a plant that grows only in places where the fae veil runs thin, something that might truly extend life or consciousness beyond normal human limits. The problem: the Grove Council has explicitly forbidden any harvesting from this location. The secondary problem: Seonaid and the Áelendan Wardens have set a watch. The question becomes whether the knowledge is worth the almost-certain confrontation—and whether Melrik can find a third path that avoids both detection and direct violence.
+The Thin Grove
+: Melrik has found a plant he has sought for years, growing where the fae veil runs thin, and the Grove Council has forbidden any harvest there. Thórnasa has set a watch on the grove, and Melrik hires a party to find him a third way that avoids both the Wardens and a fight.
 
-Aldrik Fallow's Creditors
-: A shipment from Caldor has been intercepted by Dúnavarren customs authorities, and among the seized goods are bottles bearing Aldrik Fallow's careful labeling. The Thordimalon has noticed. Discreet inquiries are being made. Melrik can distance himself from Aldrik Fallow entirely, call in favors from surprising quarters to suppress the investigation, or attempt something far riskier: seeing that the evidence disappears before the Order can examine it closely.
+The Order's Night
+: The Order fellow bound for the Wrought Hollow wants a draught to keep his hired guards awake and unafraid through a moonlit night, and he pays in University silver. The crown's guide [[being-lenirasrdln|Lénira Sérdalnde]] has told the guards not to go, and Melrik wants to know what the fellow means to catch with nets before he sells him anything.
 
-The Circle's Bargain
-: Senedd approaches Melrik with an unusual proposition. The Bardic Circle needs information about a fae incursion in the borderlands near Liranel—not the routine thin-veil encounters, but something organized, something with purpose. Senedd cannot investigate directly without raising questions. Melrik, with his network and his willingness to venture into places the Circle cannot, would be the perfect agent. But the task requires him to trust the Circle's intentions, which goes against every instinct he possesses.
+The Archivist's Bargain
+: Thólmara writes that the Bardic Circle needs to know what is happening past the margin near Liranel, where guides go in and do not come out, and she cannot ask openly. She asks Melrik, and Melrik, who trusts no one's intentions, asks a party.
 
-Violet Eyes, Violet Price
-: A stranger arrives in Liranel seeking Melrik out, someone with violet eyes who claims to have undergone similar alchemical alteration. They speak of others like them, a network, a conspiracy. Are they offering alliance or threat? The conversation unsettles Melrik in a way few things do—the possibility that his changes were not accidental, that forces beyond his understanding have been moving him toward something his entire life.
-
-Lady Áulirane's Ascending
-: Lady Áulirane's position within the Bardic Circle has strengthened, and she is now positioned to eventually inherit significant influence. She proposes to Melrik that they formalize their relationship: he becomes her private alchemist, her source of discrete advantage, her key to holding power as the kingdom's politics shift. The arrangement offers security and resources beyond his current reach. But it also means binding himself to her fortunes entirely, and should she fall from favor, he falls with her—and anyone she knows to be her confidant becomes suspect.
+Violet Eyes
+: A stranger with violet eyes has come to Liranel asking for Melrik, saying there are others like him. Melrik does not know whether he is being offered an alliance or warned.

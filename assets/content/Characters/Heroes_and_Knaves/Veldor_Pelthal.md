@@ -3,6 +3,7 @@ shortcode: veldrblthl
 name: {full: Veldor Pelthal, given: Veldor, clan: Pelthal}
 type: being
 subType: character
+description: "The principal player of a company of players of Valdun, at the height of his craft and hollow at its center."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -11,7 +12,7 @@ data:
   occupation: Thespian
   lore: []
   culture: elavendriclt
-  homes: [kelpasi]
+  homes: [valdun]
   affiliations: {kngdmlvndr: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
@@ -413,7 +414,7 @@ sohl:
 
 ![[veldrblthl|Veldor Pelthal]]{float=top-left}
 
-Veldor stands 5'9" tall with a medium build. He has light fair skin, dark brown hair, and blue eyes. His features include a broad face, a narrow nose, a rounded chin, dark brows.
+Veldor Pelthal is a 35-year-old man who stands 5'9" tall and is of medium build. He has a broad face with a narrow nose, a rounded chin and dark brows. His blue eyes are bright and quick, his light skin is clear, and his dark brown hair is worn long for the stage. His voice carries across an inn yard without being raised.
 
 # Dossier {#dossier}
 
@@ -421,15 +422,17 @@ Veldor stands 5'9" tall with a medium build. He has light fair skin, dark brown 
 
 ### Early Life
 
-Veldor was born into modest means in the streets of [[place-elavendre|Élavendre]]'s theatrical quarter, the son of a silk merchant and a chambermaid who possessed a voice of startling clarity. His mother's love of song became his earliest education, filling his childhood with melody and story. By age seven, he had already begun performing in the street pageants that drew crowds during the [Festival of Ólvenia]{.name data-type="lore/gathering"}, his precocious talent earning both coins and admiration. His father, initially skeptical of such frivolous pursuits, came to recognize his son's gift during a spring performance that moved the lord mayor himself to tears.
+Veldor Pelthal was born in [[place-valdun|Valdun]], the walled border town of the eastern march, the son of a cloth merchant and a chambermaid with a voice of startling clarity. His mother's love of song was his first schooling. By seven he was singing in the street pageants of the spring feast of [[affiliation-olvenia|Ólvenia]] and earning coins and praise for it, and his father, who thought it frivolous, changed his mind on the spring night his son's singing made the sheriff of the shire weep in the market.
 
 ### Training and Ascendance
 
-At fourteen, Veldor apprenticed with **Master [Celestyn Darnos]{.name data-type="being/npc"}**, the grand director of the [Élavendre City Theater Company]{.name data-type="affiliation"}, a stern but visionary craftsman who had shaped the finest performers in three kingdoms. Under Darnos's exacting tutelage, Veldor learned not merely to speak words, but to inhabit them—to become, through force of will and imagination, every hero, tyrant, lover, and fool written in the classical texts. His prowess grew with each passing year, and by his mid-twenties, he had become the principal actor of the Company, commanding top billing in productions of the greatest dramatic works.
+At fourteen Veldor was taken into a company of players that plays the drove fairs, the inn yards and the great halls of the march, under its old master-player, [Sóurimand Darel]{.name data-type="being/npc"}, a stern and gifted man who had trained the best players the march has seen. Under Sóurimand, Veldor learned not just to speak words but to live in them, to become every hero, tyrant, lover and fool the company plays. By his mid-twenties he was the company's principal player, and the yards fill when his name is cried.
 
 ### Current Situation
 
-Now, in his fourth decade, Veldor stands at the zenith of his career, yet feels the weight of time's passage. The roles that once came effortlessly now require greater discipline to master. His financial security is assured through generous patronage from the nobility of Élavendre—most notably from **Lady [[being-nelamisolnar|Nélamis]] of [House Valorant]{.name data-type="affiliation/lineage"}**, whose love of the theatrical arts has translated into unflagging support—yet he senses a gnawing hollow beneath his considerable success. The applause that once intoxicated him now feels, on certain nights, like the roar of an uncaring sea.
+In his middle thirties Veldor stands at the height of his craft and feels time passing. Roles that came easily now take discipline. His keep is assured by the patronage of [[being-nelamisolnar|Lady Nélamis Ólnarnde]], whose love of the players has become the company's winter bread, yet he senses a hollow beneath his success, and on some nights the applause sounds to him like the roar of an uncaring sea.
+
+The company's play-maker, [[being-prthncrdth|Parthun Kardeth]], has written a satire on a lord of the march who wants the tribes' ground opened to the crown's roads, and Veldor is to play the lord. Every lord in Valdun knows which one it means.
 
 ## Psyche
 
@@ -446,7 +449,7 @@ Veldor seeks the one thing that has always eluded him: the sense of real, lastin
 ### Strengths
 
 Consummate Performer
-: Veldor's mastery of theatrics, singing, and dance has no equal within three kingdoms. His voice alone can silence a restless crowd, and his ability to convey emotion through subtle gesture is almost uncanny.
+: Veldor's playing, singing and dancing have no equal on the march. His voice alone can silence a restless crowd, and his ability to convey emotion through subtle gesture is almost uncanny.
 
 Silver-Tongued Orator
 : With eloquence and charm as his weapons, Veldor can persuade, manipulate, or inspire with words alone. He has negotiated his way out of dangerous situations and into advantageous ones with equal ease.
@@ -481,41 +484,47 @@ Addiction to Validation
 
 ### Patrons
 
-Lady Nélamis of House Valorant
-: A noblewoman of considerable wealth and refined taste who has become Veldor's primary benefactor. She hosts exclusive performances at her estate and maintains his theater company with generous annual donations. Their relationship is primarily financial, though rumors of romantic entanglement have circulated for years.
-
-[The Élavendre City Theater Company's Board of Directors]{.name data-type="affiliation"}
-: A council of wealthy merchants and minor nobility who collectively fund the theater. They rely upon Veldor's star power to fill seats and maintain the company's prestigious reputation.
+[[being-nelamisolnar|Lady Nélamis Ólnarnde]]
+: A noblewoman of Valdun of wealth and refined taste who is Veldor's chief benefactor. She hosts the company's best nights in her hall and pays its winter keep. Their relationship is mostly financial, though rumors of a romance have gone round the town for years.
 
 ### Enemies
 
-[Dárion Ashford]{.name data-type="being/npc"}
-: A younger actor of considerable talent who has begun to eclipse Veldor in popularity. Their rivalry has turned personal, with Dárion taking every opportunity to undermine Veldor's authority within the company and to disparage his performances.
+[Ryéthesand Salreth]{.name data-type="being/npc"}
+: A younger player of real talent who has begun to eclipse Veldor at the fairs. The rivalry has turned personal, and Ryéthesand loses no chance to undermine Veldor in the company and mock his playing.
 
-[The Rival Stageworks Collective]{.name data-type="affiliation"}
-: A competing theatrical company that has begun aggressively poaching the City Theater's best performers and audiences. Veldor sees their success as a personal affront.
+A rival company
+: A company of players up from Péravel has begun playing the drove fairs and hiring away the march company's best players and its audiences. Veldor takes their success as a personal insult.
 
-Master Celestyn Darnos
-: Complicated. Though still Veldor's mentor and director, the aging Darnos has begun to criticize Veldor's recent work as lacking the depth and nuance of his earlier performances, suggesting that Veldor has grown complacent with success.
+Sóurimand Darel
+: Complicated. Still Veldor's master and the company's old head, Sóurimand has begun saying that Veldor's playing has lost its depth and that success has made him lazy.
 
 ### Affiliations
 
-The Élavendre City Theater Company
-: Veldor's home company and the center of his life. He is the company's principal actor and de facto artistic advisor, wielding considerable influence over casting and repertoire decisions.
+[[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+: Veldor is a Freeman of the crown.
+
+[[affiliation-olvenia|Faith of Ólvenia]]
+: He keeps the goddess's feasts and still sings in her pageant each spring.
+
+The company of players
+: Veldor's home and the center of his life. He is its principal player and, in all but name, its master of casting and choice of plays.
 
 ## Plot Hooks
 
-The Lost Manuscript
-: A scholar approaches Veldor claiming to have discovered the complete text of an ancient, unperformed masterwork—a tragedy of such power that its author was said to have gone mad during its composition. The scholar believes Veldor is the only actor alive capable of bringing the role's protagonist to life, but completion of the work requires Veldor to undertake a dangerous expedition into the [Obsidian Peaks]{.name data-type="place/feature"} to recover several missing pages from the ruins of an ancient library, where his rival **Dárion Ashford** has also taken an interest.
+The Satire
+: Veldor is to play the lord in Parthun Kardeth's satire, and [[being-vargenhalmes|Lord Vargen Hálmesende]] has let it be known that he will attend the first night. Veldor asks a party to sit near Vargen's bench and tell him afterward how the lord took it.
 
-The Patron's Dangerous Secret
-: **Lady Nélamis** discreetly summons Veldor and reveals that her patronage of the theater has been a cover for her involvement in a network of rebel agents working to undermine the current regime. She asks Veldor to use his access to noble circles to gather intelligence on a potential conspirator. Veldor must decide whether to involve himself in dangerous court politics, risk losing his patronage and livelihood, or betray Lady Nélamis's trust.
-
-A Role That Demands Everything
-: The Élavendre City Theater Company receives a commission to perform a controversial new work that critiques the very foundations of the kingdom's social order. **Master Darnos** insists that Veldor perform the lead role—a character whose struggle with who he is and what his life means mirrors Veldor's own crisis. The performance becomes an obsession that slowly unravels Veldor's carefully maintained public persona, forcing him to confront the line between performance and reality.
-
-The Rival's Proposal
-: In a shocking turn of events, **Dárion Ashford** approaches Veldor with a proposal: collaborate on a revolutionary theatrical production that would blend their talents and cement their place in history. The offer tempts Veldor with exactly what he secretly craves, but accepting it requires him to overcome years of resentment and to trust the one person who has most thoroughly undermined him.
+The Lost Play
+: A scholar of Péravel says he has the whole text of an old play never performed, a tragedy whose maker went mad writing it, and that only Veldor can play its hero. The missing pages lie in the ruin of a hall beyond the forest margin, and Ryéthesand has heard of them too.
 
 The Voice Stolen
-: Veldor wakes one morning to discover his voice mysteriously impaired—a condition no physician can diagnose or cure. Desperate and terrified, he must seek answers from shadowy practitioners of arcane arts, ventures into the criminal underworld of Élavendre, and ultimately confront whether his identity and value exist independent of the talent that has defined his entire life.
+: Veldor wakes one morning with his voice failing, and no healer can say why. In fear he goes looking for help among practitioners the temples would not approve, and must face whether he is anything without it.
+
+The Rival's Proposal
+: Ryéthesand comes to Veldor with an offer: to play together in a new piece that would make both their names. It is exactly what Veldor wants, from the one man who has done most to undo him.
+
+:::secret {title="The patron's request"}
+Nélamis's patronage covers her part in a network of rebel agents working against the present regime. She has begun to look among her players for a man who can use his access to the great houses to watch a conspirator, and Veldor is the man she has in mind.
+
+**Hook: the patron's request.** Nélamis summons Veldor and tells him the truth, and asks him to sit beside a knight of the march new to her circle during the interval of the satire's first night. Veldor must decide whether to risk his livelihood in politics or betray her trust.
+:::

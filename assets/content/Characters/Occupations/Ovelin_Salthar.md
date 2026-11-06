@@ -3,7 +3,8 @@ shortcode: ovlynslthr
 name: {full: Óvelin Salthar}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A chandler of Liranel who makes the tall lights that waiting families burn at the temple of Lizelas."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -395,57 +396,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Óvelin Salthar is a 28-year-old woman who stands 5'3" tall and is slender. She has a diamond face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a narrow chin. Her round brown eyes sit beneath thin brows, lending her a candid gaze. A delicate nose and thin lips complete her features. She has fair skin with a smooth complexion. Her blonde hair is swept up and held with carved combs.
+Óvelin Salthar is a 28-year-old woman who stands 5'3" tall and is of light build. She has a diamond face with wide-set cheekbones, a narrow forehead and a sharp jaw that leads to a narrow chin. Her round brown eyes sit beneath thin brows and give her a candid gaze. She has a delicate nose, thin lips and fair skin with a smooth complexion. Her blonde hair is swept up and held with carved combs, and she smells faintly of beeswax and bay.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Óvelin Salthar came into the world of the chandler through a combination of circumstance and aptitude.
+Óvelin Salthar is a chandler of [[place-liranel|Liranel]], an [[lore-elavendriclt|Élavendri]] freewoman who has kept her own shop below the temple of [[affiliation-lizelas|Lizelas]] for two years.
 
-Óvelin is a young chandler who recently started her own business after apprenticing with a skilled candle maker. She specializes in creating decorative and scented candles for special occasions and religious ceremonies. Her unique designs have begun attracting attention, though she still struggles to gain a foothold in the market.
+She served her time with an old tallow-chandler of the town and set up on her own as soon as she could, making the candles he would not: beeswax tapers scented with herbs from the temple's garden, colored candles for the feasts and the plain tall lights that families burn at the temple for someone in danger. Her work is beautiful and she has not learned to price it, and the older chandlers sell the town its tallow and wait for her to fail.
+
+The tall lights are most of her trade this season. Liranel is a town where families pay guides to take their people into the wood and then wait for them, and the families waiting this winter light a candle a night at the temple. [[being-sedrasalth|Sedra Salthar]], whose husband the guide [[being-berinsalth|Berin Salthar]] took a party past the margin and has not come back, is her cousin's wife.
 
 ## Psyche
 
 ### Personality
 
-Inexperienced in running a business, struggles with pricing and supply management.
+Óvelin is warm, artistic and disorganized. She runs out of wax at the worst moment, every time.
 
 ### Motivation
 
-Óvelin is driven by the desire to master her craft and secure a stable future. The uncertainties of life in chandler work keep her vigilant and adaptable.
+She wants the shop to last and a place in the town's trade. She wants Berin home for her cousin's sake.
 
 ### Strengths
 
-Creative and skilled at crafting aesthetically pleasing candles.
+She is creative and skilled, and the temple and the families trust her.
+
+### Weaknesses
+
+She cannot keep accounts or stock, and she gives too many candles away to families who cannot pay.
 
 ## Social
 
-Óvelin is affiliated with none yet, but is interested in joining a craft guild.
+### Companions
 
-As an Élavendri chandler, Óvelin occupies a recognized social niche within Élavendre society.
-
-## Companions
+Sedra Salthar, who sits in her shop when she cannot bear the temple bench.
 
 ### Patrons
 
-Óvelin's primary patrons are local clergy and townsfolk who buy her candles for special events. This relationship provides both opportunity and obligation.
+The temple of Lizelas and its priestess [[being-delithakelva|Délitha Kélvasende]], and the families who burn lights for someone in the wood.
 
 ### Enemies
 
-Established chandlers who view her as competition.
+An established tallow-chandler of the town who wants her shop's lease.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Óvelin is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Chandler's Dilemma
-: Óvelin faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Candle for Berin
+: Sedra's candle for Berin has burned blue three nights running, and the temple's acolytes say it means nothing. Sedra wants a party to go and find her husband, and Óvelin will pay what she has.
 
-Old Grudges
-: Established chandlers who view her as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Order's Lanterns
+: An [[affiliation-ordoarcanis|Order]] fellow has ordered two dozen shielded lanterns and a hundred candles that will burn in wind, all for one night at [[place-wrghthllw|the Wrought Hollow]]. Óvelin needs the money and does not like the order.
 
-Echoes of the Past
-: Something from Óvelin's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Óvelin depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Óvelin the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Lease
+: The tallow-chandler has bought the lease of her shop from under her and given her to the spring. She asks a party to learn who lent him the money.

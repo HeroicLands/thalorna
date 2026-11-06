@@ -3,6 +3,7 @@ shortcode: haliranrdh
 name: {full: Hálira Nareth}
 type: being
 subType: npc
+description: "A scribe of Valdun who writes drove contracts and escort bonds and cannot leave a page undecorated."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -415,7 +416,7 @@ Inventive and artistic, skilled with a pen and brush, quick at holding several t
 
 ## Social
 
-Hálira belongs to no guild. The [Guild of the Book at Péravel]{.name data-type="affiliation/guild"}, which governs the work she wants to do, takes members by examination, and she has neither the fee nor the journey yet.
+Hálira belongs to no guild. The copyists of Péravel work under license from the Licenser of Copyists of the [[affiliation-univperavel|University of Péravel]], who examines each of them, and she has neither the fee nor the journey yet.
 
 ## Companions
 

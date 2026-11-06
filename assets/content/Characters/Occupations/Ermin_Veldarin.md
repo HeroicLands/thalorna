@@ -3,7 +3,8 @@ shortcode: ermynvldrn
 name: {full: Ermin Véldarin}
 type: being
 subType: npc
-tags: [todo-warrior, draft, soldiery]
+description: "A gray-haired young yeoman of the crown's serjeanty at Liranel, a child of the road from a Varokh raid, set to watch the tally-house at night."
+tags: [todo-warrior, soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -370,57 +371,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Ermin is slight—5'8" and 128 pounds, with a light build that makes him seem younger than his twenty-three years. His hair is prematurely gray, a shock of silver-white that he keeps cropped close to his skull, and his dark brown eyes are large and watchful in a medium-toned, rugged face that carries more tension than a man his age should. His features are fine—narrow jaw, high cheekbones, a thin nose—with the slightly hollowed look of someone who does not eat or sleep enough. He moves quietly, almost silently, a habit from years as a refugee when making noise meant danger. He wears the forest-town guard's standard kit—leather tunic, quilted padding, soft boots—but everything hangs slightly loose on his spare frame, and he keeps his cloak drawn close regardless of weather, as though perpetually braced against cold.
+Ermin Véldarin is a 22-year-old man who stands 5'8" tall and is of light build, slight enough at 128 pounds to seem younger than he is. His hair is prematurely gray, a shock of silver-white that he keeps cropped close to his skull, and his dark brown eyes are large and watchful in a medium-toned, weathered face that carries more tension than a man his age should. His features are fine, a narrow jaw, high cheekbones and a thin nose, with the slightly hollowed look of someone who does not eat or sleep enough. He moves quietly, almost silently. He wears the serjeanty's kit of leather tunic, quilted padding and soft boots, all of it hanging loose on his spare frame, and he keeps his cloak drawn close in any weather.
 
 # Dossier {#dossier}
 
-Ermin was born to [[lore-elavendrnppl|Élavendren parents]] but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near [[place-elavendre|Élavendre]]'s forest edge—a community that specialized in accepting refugees and integrating them into its life.
+Ermin Véldarin is a yeoman of the crown's serjeanty at [[place-liranel|Liranel]], the timber town of the [[place-lirve|Lirve]] coast, an [[lore-elavendrnppl|Élavendren]] freeman who keeps the peace of the forest court under the serjeant [[being-khornhalrn|Horen Halren]].
 
-At eighteen, he joined the local town guard not out of ambition but out of pragmatic recognition that he had no other skills to sell. The work suited him in unexpected ways. His years as a refugee had made him acutely aware of danger and threat; his instinctive watchfulness, which had been a liability in civilian life, became an asset in security work. He moves through the forest-edge town with the characteristic silence of someone who learned early that making noise could mean death.
+He does not remember much of his early childhood. He was eleven when a [[lore-varokhiclt|Varokh]] war-party came over the [[place-auldalon|Áuldalon]] hills and burned his family's steading, and he walked west with the other families who fled it. His parents died on the road, and he will not say how. The temple of [[affiliation-lizelas|Lizelas]] at Liranel took in the children who reached the town, and the town found them places, not all of them kind.
 
-At twenty-three, he has served five years in the town guard and is respected by older, more experienced officers. His prematurely gray hair—which began during his refugee years—has become his identifying feature. He speaks quietly, often barely audible, and uses fewer words than almost anyone in his town. His reputation is for being the guard who notices things others miss and who remains calm under stress.
+At eighteen he took the crown's coin as a yeoman because he had no other skill to sell, and the work suited him. The watchfulness that made him a strange child makes him a good guard: he notices what others miss and stays calm when they do not. In four years under Horen he has become the yeoman sent to watch a door, follow a man or sit outside the tally-house all night. He speaks quietly and seldom, and his gray head is known in every street of the town.
 
 ## Psyche
 
 ### Personality
 
-Ermin is quiet to the point of seeming mute. He speaks only when necessary and often seems to be observing rather than participating. He is extraordinarily aware of his surroundings and reads danger signs that others miss. He is not unfriendly but is deeply private about his internal emotional state. He has learned not to trust easily, and his relationships are characterized by caution. He moves with the deliberate silence of someone for whom noise can be dangerous.
+Ermin is quiet to the point of seeming mute. He observes rather than joins in, reads danger before others see it and keeps his feelings to himself. He trusts slowly.
 
 ### Motivation
 
-Ermin's primary motivation is simple survival and security. He has experienced the worst that the world offers and has no illusions about human nature. His secondary motivation, which he rarely articulates even to himself, is the desire to protect the refugee community that saved him from death as a displaced child. He wants others spared the suffering he endured.
+He wants safety, his own and that of the other children of the road, most of whom still live in Liranel. He wants no one else to walk the road he walked.
 
 ### Strengths
 
-His awareness of danger is preternatural. His ability to move silently and remain unnoticed is uncommon. His physical competence is solid and reliable. His emotional restraint allows him to remain calm under stress that would destabilize others.
+His awareness of danger is uncommon, he moves silently and goes unnoticed, he is a steady hand with a spear and he does not panic.
+
+### Weaknesses
+
+He keeps everyone at a distance, he does not sleep, and a threat to the families of the road clouds his judgment.
 
 ## Social
 
-Ermin is regarded with a mixture of respect and unease by his community. His status as refugee-turned-guard makes him something of a symbol of successful integration, but the marks his past has left on him and his emotional distance make people uncomfortable in his company for long. He is welcomed but not fully accepted.
+The town regards Ermin with respect and some unease. He is welcome in the serjeanty's hall and the temple's kitchen, and in few other houses for long.
 
-## Companions
+### Companions
+
+The other yeomen of the serjeanty, who have stopped teasing him, and the families who came west with him.
 
 ### Patrons
 
-**Town Magistrate [Lénira Mórlineth]{.name data-type="being/npc"}**—The administrator of the forest-edge town. Lénira was instrumental in the settling of refugees and personally advocated for Ermin's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education.
+Horen Halren, who took him on, and the magistrate [Ílthera Úlmernde]{.name data-type="being/npc"} of Liranel's royal court, who placed the children of the road in the town and has quietly paid for Ermin's letters.
 
 ### Enemies
 
-**Local Extremist [Kessian Forestborn]{.name data-type="being/npc"}**—[[lore-elavendriclt|A Élavendren]] traditionalist who views refugees as a contamination of local culture. Kessian has publicly opposed the refugee settlement and has made it clear that he resents Ermin's presence in the guard. He spreads rumors that Ermin is a spy for external powers and that his refugee background makes him untrustworthy.
+A hired guide of the town, [Aulde Hérselnde]{.name data-type="being/npc"}, who says the road children are thieves and that a yeoman who was one of them cannot be trusted with a door.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Ermin is a Freeman of the crown and a yeoman of its serjeanty at Liranel.
 
 ## Plot Hooks
 
-The Refugee Crisis Revisited
-: A new wave of refugees arrives at the forest-edge town, fleeing the same political persecution that displaced Ermin a decade ago. The new arrivals include people Ermin knew in his childhood—people from his refugee cohort who scattered years before. Some want to stay and settle; others are being actively hunted by the persecutors they fled. The town becomes divided about accepting the refugees. Ermin is personally invested in their survival but must keep the impartiality of his office. Kessian uses the crisis to demand that Ermin be dismissed as potentially biased in favor of refugees.
+The Tally-House Door
+: Horen has set Ermin to watch the tally-house at night while the forest court's quarrel over the moved bounds is heard. On the second night someone came with a key, and Ermin let him pass, because he knew him.
 
-The Personal Recognition
-: One of the new refugees recognizes Ermin and reveals knowledge about Ermin's parents' deaths that he has buried—details he has shut out of memory in order to go on. The refugee is offering to tell him the truth. He can face what he has spent years avoiding, or keep his footing by refusing to know.
+The Order's Night
+: An [[affiliation-ordoarcanis|Order]] fellow is hiring guards for a moonlit night at [[place-wrghthllw|the Wrought Hollow]], and two of the road children have signed on for the wages. The crown's guide [[being-lenirasrdln|Lénira Sérdalnde]] has refused to go, and Ermin asks a party to go in his place and bring the two back.
 
-The Extremist's Escalation
-: Kessian begins actively organizing violence against the refugee settlement, using rhetoric that stokes local resentment. He is technically not breaking laws—his speech, while inflammatory, is within legal bounds. Ermin can see violence developing and knows that his intervention could prevent it, but doing so would require suppressing legal speech or arresting Kessian on insufficient evidence. Town Magistrate Lénira asks him to find a way to stop Kessian. He can hold to the law or prevent the violence, not both.
-
-The Forest Revelation
-: While patrolling the forest-edge, Ermin discovers evidence of an Élavendren government military operation that appears to be deliberately targeting refugee settlements beyond Élavendre's official borders. The operation is technically operating in foreign territory and therefore outside Élavendren's jurisdiction. But the refugees being targeted are people Ermin knows and cares about. Reporting this to Town Magistrate Lénira would be reporting his own government to someone outside it, technically treason. Not reporting means allowing refugees to be assassinated.
-
-The Spy's Truth
-: Ermin discovers evidence that the accusation Kessian made—that Ermin is a spy—is partially accurate. Someone has been using Ermin's access to town information to gather intelligence on the refugee settlement. Investigation suggests someone in the community has been coercing another refugee into providing information. Ermin learns that the coercion involves threats against family members. Ermin can expose the coercion, which means revealing how he obtained the evidence and admitting he was investigating Kessian's accusation, or protect the coerced refugee and let the spying go on.
+The Guide's Word
+: Aulde has told the guides that a road child robbed a party's packs past the margin, and the guides want the boy given up. Ermin knows the boy did not do it and knows who did.

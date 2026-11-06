@@ -3,7 +3,8 @@ shortcode: belrktrvnl
 name: {full: Melrik Tárvenel}
 type: being
 subType: npc
-tags: [todo-warrior, draft, soldiery]
+description: "A sworn man of the Border Militia at Valdun who scouts the forest margin and wants to know how a Varokh party knew his patrol's road."
+tags: [todo-warrior, soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -370,57 +371,65 @@ sohl:
 
 # Appearance {#appearance}
 
-Melrik stands 5'7" with a medium build—compact and quietly strong rather than imposing. His auburn hair falls past his collar in loose waves, and his warm brown eyes carry the slightly distant look of a man more accustomed to watching treelines than people. His fair skin has been bronzed by years of outdoor service, and a prominent scar runs along the right side of his neck—a pale, ropy line from a blade that came closer to killing him than he likes to remember. His face is angular, with a narrow jaw and high cheekbones that mark his ancestry among the [[lore-elavendrnppl|Élavendren People]]. He wears a forest warden's practical kit: a leather tunic over quilted padding, leather knee boots, and a longbow across his back. A hunting knife rides on his belt, and his cloak is the mottled green-brown of someone who prefers not to be seen.
+Melrik Tárvenel is a 34-year-old man who stands 5'7" tall and is of medium build, compact and quietly strong rather than imposing. His auburn hair falls past his collar in loose waves, and his warm brown eyes carry the slightly distant look of a man more used to watching treelines than people. His fair skin has been browned by years of outdoor service, and a prominent scar runs along the right side of his neck, a pale, ropy line from a blade that came closer to killing him than he likes to remember. His face is angular, with a narrow jaw and high cheekbones. He wears a leather tunic over quilted padding, leather knee boots and a longbow across his back, with a hunting knife on his belt and a cloak of mottled green-brown.
 
 # Dossier {#dossier}
 
-Melrik was born in the forest borderlands of [[place-elavendre|Élavendre]], son of a ranger who worked the deep woods. His mother was a settlement dweller; his father was a man of the wild who lived in that liminal space between [[lore-elavendriclt|Élavendren]] civilization and the ancient forest itself. Melrik inherited his father's discomfort with walls and his mother's connection to people, a combination that made him ideally suited for border patrol work.
+Melrik Tárvenel is a sworn man of [[affiliation-brdrmltia|the Border Militia]] at [[place-valdun|Valdun]], an [[lore-elavendrnppl|Élavendren]] freeman who scouts the hills and the forest margin of the eastern march for the crown's sworn company.
 
-At twenty, he volunteered for Élavendre's border militia, specifically requesting forest patrol duty. For fifteen years, he has worked that role: monitoring boundaries, protecting settlements from predatory creatures, tracking foreign incursions through terrain that others find disorienting. He is more comfortable with a bow than a sword, more at ease among trees than in garrison compounds. He has killed three foreign agents, two aggressive forest predators, and one Élavendren political fugitive—a complex shooting that required his judgment more than his aim.
+He was born on a steading at the margin, the son of a hunter who knew the old wood's edge as well as anyone in the hills and a mother from the town. He inherited his father's discomfort with walls and his mother's ease with people, and at twenty he took the crown's oath and asked for the scouting. For fourteen years he has walked the margin: watching the passes for [[lore-varokhiclt|Varokh]] war-parties and [[lore-grukarfolk|Grukar]] bands, tracking raiders through country that loses other men and keeping the march's steadings warned. He is happier with a bow than a sword and among trees than in the town's barracks.
 
-The scar on his neck is a reminder of an ambush five years ago—a coordinated attack by foreign scouts testing Élavendre's border defenses. Melrik survived through luck and superior knowledge of the terrain. The people responsible were executed by Élavendren government forces. Melrik has not stopped thinking about the attack since.
+The scar on his neck is from an ambush five years ago, when a Varokh scouting party caught his patrol in a defile above the ridge road. He lived through luck and knowing the ground better than they did, and the scouts were taken and hanged at Valdun, all but one, who was wounded and went into the wood. Melrik has not stopped thinking about how they knew where the patrol would be.
 
 ## Psyche
 
 ### Personality
 
-Melrik is quiet and observant, more comfortable with animals and plants than with most humans. He is patient to the point of stoicism and dislikes rapid emotional display. He is kind to those who approach him with respect, and his few friendships are deep and lasting. He is uncomfortable in formal social settings and will slip away from garrison gatherings whenever possible. He is not antisocial so much as asocial—people are not his native environment.
+Melrik is quiet and observant, patient to the point of stoicism and more comfortable with animals and weather than with most people. He is kind to those who come to him with respect, his few friendships are deep, and he slips away from every gathering in the barracks.
 
 ### Motivation
 
-Melrik's primary motivation is protection of Élavendre's borderlands and the rare wildlife that inhabits them. He is not ideologically committed to his government but rather to the land itself. His secondary motivation is the desire to understand the ambush that nearly killed him and to prevent similar incursions. This curiosity drives him to investigate political and military tensions that exceed his formal responsibilities.
+He wants the march's steadings kept safe and the margin kept as it is. He is loyal to the land more than to any captain, and he wants to know how the Varokh knew his patrol's road.
 
 ### Strengths
 
-His tracking ability is outstanding and earned through decades of living in forest environments. His archery is accurate at distances. He understands the deep forest better than nearly anyone alive. His judgment in dangerous wilderness situations is reliable and often brilliant.
+He is an outstanding tracker, an accurate archer at long range, and he knows the margin of the old wood better than nearly anyone in the march.
+
+### Weaknesses
+
+He is ill at ease in company and suspect to the older officers, who prefer a man they can read, and his question about the ambush makes enemies.
 
 ## Social
 
-Melrik occupies a liminal role within Élavendren society: respected as a specialist but regarded as emotionally distant and potentially untrustworthy by those who prefer more traditional social engagement. His status as half-forest-dweller makes him something of a legend to young soldiers but suspect to older officers.
+The young militiamen think him a legend, and the older serjeants think him half a hunter and not quite a soldier.
 
-## Companions
+### Companions
+
+Two young scouts he is training, and the hunters of the margin steadings, who feed him when he passes.
 
 ### Patrons
 
-**Captain [[being-elenorthaurn|Élenor Thaurnde]]**—The commander of Élavendre's border militia. Élenor is a professional soldier who respects Melrik's competence and has explicitly protected him from reassignment despite his social awkwardness. She has encouraged his investigative work into the ambush that nearly killed him, providing resources quietly.
+[[being-elenorthaurn|Captain Élenor Thaurnde]], who commands the crown's sworn company at Valdun, respects his skill and has kept him from being posted to the coast. She has quietly let him go on asking about the ambush.
 
 ### Enemies
 
-**Foreign Agent [Kessian]{.name data-type="being/npc"}**—A survivor of the ambush that scarred Melrik. Kessian was wounded in the attack and disappeared into the forest. Melrik has tracked him sporadically over the past five years and believes he is still active in the borderlands. Kessian has left evidence of his movements—dead animals, disturbed camp sites—that suggests he is specifically taunting Melrik. The two men have become locked in a long-distance confrontation that is somewhere between vendetta and a war of nerves.
+The Varokh scout who went into the wood five years ago, who has been leaving signs on Melrik's patrol routes: a dead hare on a stake, a cold fire in a place only Melrik camps.
+
+### Affiliations
+
+- **[[affiliation-brdrmltia|The Border Militia]]**: Melrik is a Sworn Man of the crown's sworn company at Valdun.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: He is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Ambush Investigation
-: Melrik's investigation into the ambush that scarred him leads him to discover that the foreign agents involved had support from within Élavendre—specifically, members of the regional government who were facilitating border incursions in exchange for political power and trade access. The conspiracy is significant and implicates people with connections to the capital. Captain Élenor warns him that pursuing the investigation will make him politically dangerous, and he will be removed or eliminated. Melrik must choose between abandoning the investigation or becoming a fugitive within his own country.
+One Plan
+: Captain Élenor wants the hill levy brought into one plan with the militia, and she sends Melrik to ride with [[being-jeldormorlin|Jeldor Mórlineth]]'s levy for a muster and report how they fight. The levy knows why he has come.
 
-The Deep Forest Sanctuary
-: Melrik discovers evidence of a hidden settlement deep in the forest—a community of people who have left Élavendren civilization for various reasons (refugees, dissidents, religious separatists). The settlement is peaceful and self-sufficient, but its existence violates multiple laws. Melrik has access to files that would expose the settlement and allow government forces to eliminate it. He is under pressure from his superiors to submit a report. He must choose between loyalty to law and loyalty to people he has come to respect.
+The Unrusted Helmet
+: The hill hunter who brought in the imperial helmet came out of the wood at a place Melrik knows, by a trail Melrik did not know was there. The [[affiliation-ordoarcanis|Order]]'s antiquarians want the trail, and Melrik wants to know who else has been using it.
 
-Kessian's Revelation
-: Melrik finally confronts Kessian after five years of tracking. Instead of combat, Kessian offers information: the ambush that scarred Melrik was not a military operation but a punishment by a foreign government against Élavendren officials who had wronged Kessian's people. The "invasion" was actually a targeted execution. Kessian has evidence that the Élavendren government knew this and lied about the attack's nature to avoid diplomatic consequences. Melrik must decide whether to report this truth or protect his government's credibility.
+The Signs on the Route
+: The Varokh scout's last sign was left inside the march, a day's walk from the town, on the road that Melrik's patrol takes tomorrow. Someone in Valdun told the scout the route, as someone told the war-party five years ago.
 
-The Cursed Forest
-: Melrik becomes aware that a region of deep forest is showing signs of corruption—trees dying unnaturally, animal behavior becoming erratic, the spiritual connection that Élavendren rangers feel with the forest becoming twisted and wrong. Investigation suggests the corruption is caused by artifact or ritual from an external source, possibly left by Kessian or similar foreign agents. Melrik must venture into a dangerous region to identify and neutralize the threat, knowing that the forest itself is becoming hostile.
-
-The Young Ranger's Responsibility
-: Melrik is asked to mentor a promising young border patrol recruit. The recruit is physically talented but emotionally volatile—prone to aggressive behavior and poor judgment. Melrik works hard to guide the recruit toward competence and restraint. But the recruit eventually admits that she is pregnant, fathered by a foreign agent she met during a border incident—a fraternization that is technically treason. She begs Melrik not to report her. Melrik must choose between military duty and his responsibility as a mentor to a young person making terrible but understandable mistakes.
+The Wounded Guard
+: A guard the Order hired came back over the margin with a Warden's arrow in him, swearing he was never warned. Melrik found him, and Melrik saw the Warden's warning cut into the tree a hundred yards back.

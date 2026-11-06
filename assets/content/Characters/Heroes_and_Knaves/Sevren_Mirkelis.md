@@ -3,6 +3,7 @@ shortcode: sevnmyrkls
 name: {full: Sevren Mírkelis, given: Sevren, clan: Mírkelis}
 type: being
 subType: character
+description: "An alchemist of Liranel who hunts an old recipe for foresight and whose road to his patron runs past a hired captain's grudge at Hélithron."
 tags: [heroes-and-knaves, hero, guilded, mages]
 data:
   icon: icon-person
@@ -429,7 +430,7 @@ sohl:
 
 ![[sevnmyrkls|Sevren Mírkelis]]{float=top-left}
 
-Sevren stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
+Sevren Mírkelis is a 36-year-old man who stands 5'10" tall and is of light build. He has a round face with a button nose, a gentle jawline, a wide mouth and expressive brows. His blue eyes are quick, his pale skin is clear, and his dark brown hair is cut short to keep it out of the flame. His fingertips are stained yellow.
 
 # Dossier {#dossier}
 
@@ -437,29 +438,19 @@ Sevren stands 5'10" tall with a light build. He has pale skin, dark hair, and bl
 
 ### Early Life and Family Background
 
-Sevren Mírkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The [Mírkelis family]{.name data-type="affiliation/lineage"} has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across [[place-nordheim|Nordheim]]. Sevren’s father, [Daron Mírkelis]{.name data-type="being/npc"}, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.
+Sevren Mírkelis was born in [[place-liranel|Liranel]], the timber town of the [[place-lirve|Lirve]] coast, into a modest and respected family of traders. The [Mírkelis family]{.name data-type="affiliation/lineage"} has long dealt in herbs, minerals and the rarer things the forest country yields, buying from the hedge-gatherers of the licensed belt and selling down the coast road to [[place-portaelion|Port Aelion]] and beyond. Sevren's father, [Thaurand Mírkelis]{.name data-type="being/npc"}, was a well-traveled merchant who built a trade among scholars, guides and factors, and the family shop became a reliable source of alchemical supplies.
 
-From a young age, Sevren showed a keen interest in the curiosities that passed through his family’s shop. Rather than focusing on commerce, he was more intrigued by the possibilities of transforming raw materials into substances of power. His fascination with alchemy grew when a traveling alchemist visited their shop and demonstrated the transmutation of common minerals into reactive compounds. This moment sparked Sevren’s lifelong passion for alchemical experimentation.
+From a young age Sevren cared more for what the goods could become than for what they would fetch. An alchemist who visited the shop and turned common minerals into reactive compounds on the counter settled the matter. Against his family's wishes, and with his parents' reluctant blessing, he apprenticed himself to [Élkaris Thaurnde]{.name data-type="being/npc"}, the old alchemist of the town, and learned from him the delicate art of elixirs and transmuting compounds.
 
-Despite his family’s wishes for him to take over the business, Sevren pursued a different path. With his parents’ reluctant blessing, he sought an apprenticeship under Master [Virel Danogir]{.name data-type="being/npc"}, a prominent member of the [Guild of Esoteric Crafts]{.name data-type="affiliation/guild"}. Under Master Virel’s tutelage, Sevren honed his skills in the delicate art of elixirs and the creation of various transmutation compounds.
+### Early Career
 
-### Early Career and Rise within the Guild
-
-Upon completing his apprenticeship, Sevren opened a small laboratory and shop. His early work focused on simple elixirs and herbal remedies for local clients, but his ambition quickly grew. With access to his family’s connections, he began acquiring rare and exotic ingredients that allowed him to experiment with more complex elixirs.
-
-Sevren’s alchemical talent didn’t go unnoticed by the **Guild of Esoteric Crafts**, and within a few years, he became a recognized member. His reputation for crafting potent elixirs and transmuting rare materials began to attract a more exclusive clientele, including minor nobles and wealthy merchants seeking cures, power, or influence through arcane means. Despite his growing reputation, Sevren remained grounded, preferring to keep his practice small and his ambitions focused.
+When his apprenticeship ended Sevren opened a small laboratory and shop of his own below the market. He began with simple elixirs and herbal remedies, then used his family's connections to acquire the rare ingredients that complex work needs. His reputation for potent elixirs drew a more exclusive clientele: minor nobles, timber factors and others seeking cures, strength or advantage. He keeps his practice small and his ambitions narrow, and he has stayed out of the politics that swirl around the town's other practitioners.
 
 ### Current Goals
 
-Sevren’s current obsession is with an ancient [[lore-pelwarpepl|Pelwar alchemical recipe]], the [Visionary Elixir]{.name data-type="concoctiongear"}, said to grant visions of the future. According to legend, this elixir was used by the ancient seers of the [Lost Pelwar Empire]{.name data-type="affiliation/polity"} to guide their people through troubled times. Sevren’s pursuit of this elusive formula has led him to scavenge old texts, correspond with distant scholars, and venture into dangerous territories to obtain rare ingredients. While he has made progress, the formula remains incomplete, and the final piece of the puzzle continues to elude him.
+Sevren's obsession is an old recipe preserved in a manuscript of [[lore-pelwarpepl|Pelwar]] origin, the [Visionary Elixir]{.name data-type="concoctiongear"}, said to grant visions of the future. He has scavenged old texts, corresponded with scholars at [[place-beravel|Péravel]] and gone into dangerous country for ingredients, and the formula is still missing its final part. He also wonders whether foresight would help those who took it or haunt them.
 
-Aside from his personal pursuit of the Visionary Elixir, Sevren’s more immediate goal is to expand his reputation within the Guild of Esoteric Crafts. He seeks to secure his place among the more senior members by contributing to the guild’s body of knowledge, possibly by perfecting a new type of transmutation. However, he is careful not to overstep his bounds, as the guild is filled with powerful figures who guard their secrets jealously.
-
-### End Goal
-
-Sevren’s ultimate goal is to unlock the secrets of the **Visionary Elixir**, believing that its power could lead to incredible breakthroughs in alchemical science. He imagines the elixir could guide individuals through their personal struggles by granting them foresight, offering them a glimpse of their potential futures. However, his fascination with the elixir is tempered by a lingering doubt—will the visions it provides truly benefit the individual, or will they become a curse that haunts those who seek to know too much?
-
-Sevren must navigate the perils of discovery, rivalry, and personal ambition while maintaining his relatively humble place in the world of [[place-calypsacity|Kalipsa]]’s arcane and political circles.
+Liranel's present troubles reach his shop. The road his remedies travel to his patron [[being-aimelineulme|Lady Áimeline Úlmernde]] runs through [[place-heligstrom|Hélithron]], where the men of [Úrthaven Tárvenel]{.name data-type="being/npc"} have been seen watching it.
 
 ### Skills and Abilities
 
@@ -507,11 +498,11 @@ Voice
 
 ## Psyche
 
-## Personality and Traits
+### Personality
 
-Sevren is careful, analytical, and deeply passionate about alchemy, but he remains humble in his ambitions. Unlike some of his colleagues, he does not seek power or influence beyond what is necessary to support his work. His curiosity often leads him into dangerous situations, though he is careful not to become entangled in the city’s more dangerous political games. While generally amiable, Sevren can be intensely focused, sometimes to the point of isolation, when pursuing a particularly difficult formula.
+Sevren is careful, analytical and deeply passionate about alchemy, but he remains humble in his ambitions. Unlike some of his colleagues, he does not seek power or influence beyond what is necessary to support his work. His curiosity often leads him into dangerous situations, though he keeps out of the town's quarrels. While generally amiable, Sevren can be intensely focused, sometimes to the point of isolation, when pursuing a particularly difficult formula.
 
-He avoids making enemies within the guild but is aware of the dangerous politics that often swirl around its members. His cautious approach allows him to navigate these complexities while quietly advancing his goals.
+He avoids making enemies among the town's practitioners and knows the quarrels that swirl around them. His cautious approach allows him to navigate these complexities while quietly advancing his goals.
 
 ### Strengths
 
@@ -523,35 +514,35 @@ He avoids making enemies within the guild but is aware of the dangerous politics
 ### Patrons
 
 Lady [[being-aimelineulme|Áimeline Úlmernde]]
-: A minor noblewoman with a keen interest in alchemical remedies. Lady Áimeline suffers from a rare blood disorder and frequently commissions Sevren to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
+: A minor noblewoman of Liranel with a keen interest in alchemical remedies, who suffers from a rare blood disorder and commissions Sevren's tonics. In return she funds his work and has opened noble houses to him, where his reputation has begun to grow.
 
-[The Merchant’s Guild]{.name data-type="affiliation/guild"}
-: Sevren has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Kalipsa.
+The timber factors
+: Several of the factors who hold licensed blocks commission elixirs of strength and stamina for their cutters and for their own hard bargains, and bring him rare ingredients off the ships at Port Aelion.
 
-Master Virel Danogir
-: Although he is no longer Sevren’s mentor, Master Virel remains an important figure in his life. The two maintain a mutually beneficial relationship, exchanging information and occasionally collaborating on projects. Master Virel provides Sevren with insights from the inner workings of the Guild of Esoteric Crafts, though his support comes at a price—Sevren often feels indebted to his old mentor.
+Élkaris Thaurnde
+: His old master, no longer his teacher, with whom he trades information and the occasional collaboration. Élkaris's help comes at a price, and Sevren always feels in his debt.
 
 ### Enemies
 
-[Arlis Ruthorn]{.name data-type="being/npc"}
-: A fellow member of the Guild of Esoteric Crafts and a long-standing rival, Arlis has always been envious of Sevren’s talent and his access to rare materials. While Arlis excels in creating alchemical weapons and volatile compounds, his aggressive ambition and desire for recognition have made him reckless. He frequently tries to undermine Sevren’s work, spreading rumors about his experiments and attempting to poach clients. Arlis also has his own designs on the **Visionary Elixir**, having learned of Sevren’s pursuit through guild gossip.
+[Órhaima Halren]{.name data-type="being/npc"}
+: An alchemist of the town and a long rival, envious of Sevren's talent and his access to rare materials. Órhaima makes volatile compounds and has a reckless hunger for recognition, spreads rumors about Sevren's experiments, poaches his clients, and has heard about the Visionary Elixir.
 
-Jarl [Kervan Redblade]{.name data-type="being/npc"}
-: Sevren once refused to sell a dangerous combat-enhancing elixir to Kervan, a notorious warlord and privateer who sought to use it to gain an edge in a bloody power struggle. This refusal has made Kervan a dangerous enemy. Though Sevren tries to avoid any direct confrontation, Kervan’s men have been seen lurking around [[place-heligstrom|Hélithron]], leading Sevren to believe that retaliation may be imminent.
+[Úrthaven Tárvenel]{.name data-type="being/npc"}
+: A captain of hired guards out of Liranel who takes paying parties past the margin of the old wood. He once asked Sevren for an elixir that would make his men fearless in a fight with a rival company of guides, and Sevren refused to sell it. Úrthaven has been a dangerous enemy since, and his men have been seen watching the road through Hélithron.
 
-[Guild of Apothecaries]{.name data-type="affiliation/guild"}
-: While Sevren is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This tension has led to strained relations between the two guilds, and Sevren has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
+The apothecaries of Liranel
+: Sevren's remedies take trade from the town's apothecaries, who make it hard for him to buy the herbs the forest court licenses for gathering.
 
 ## Plot Hooks
 
+The Road through Hélithron
+: Áimeline's last tonic is three days gone, and Sevren must take the next one through Hélithron, past Úrthaven's men. He wants company that can fight, and he does not want to know whether the men are there for him until he is past them.
+
 The Recipe of Ruin
-: Sevren receives an anonymous letter claiming to have the missing key to the **Visionary Elixir**, a formula he has been obsessively pursuing. The catch? The ingredients require him to retrieve volatile substances from the ruins of a long-abandoned alchemical fortress. As Sevren ventures into the fortress, he finds evidence that his mentor, Master Virel, may have intentionally withheld critical knowledge about the elixir. His quest for completion becomes a confrontation with betrayal and the ethical questions surrounding the power of foresight.
+: An anonymous letter offers Sevren the missing part of the Visionary Elixir, if he will fetch the ingredients from a ruin past the tree line. The crown's guide [[being-lenirasrdln|Lénira Sérdalnde]] will not take him, and the hired guides who would are Úrthaven's.
 
-A Merchant’s Deceit
-: One of Sevren’s patrons, Lady Áimeline Úlmernde, hires him to create a life-preserving elixir for her rare blood disorder. As Sevren works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevren must decide whether to confront her or continue his work under new terms.
+The Missing Guide's Packs
+: The guide [[being-berinsalth|Berin Salthar]] bought a satchel of Sevren's stimulants before he took his party past the margin, and has not come back. His wife has come to Sevren's shop asking what was in them, and whether they could make a man walk further into the wood than he meant to.
 
-The Alchemical Black Market
-: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevren’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Kalipsa. Investigating the truth places Sevren in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to handle a dangerous web of alliances and betrayals.
-
-The Elixir’s Curse
-: After finally synthesizing a prototype of the **Visionary Elixir**, Sevren tests it on himself, only to experience unsettling visions of destruction that appear to involve his close allies and the guild. The visions drive him to seek guidance from an ancient alchemical order, but their cryptic warnings suggest that the elixir’s power may carry a curse. The quest to understand the elixir’s true nature leads him into dangerous territory where failure could cost him his mind.
+The Black Market
+: Órhaima has had a shipment of Sevren's ingredients seized at Port Aelion as contraband, and the forest court wants to know where Sevren buys his herbs. The answer would embarrass Áimeline's house.

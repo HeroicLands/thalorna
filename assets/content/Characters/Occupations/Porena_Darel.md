@@ -3,7 +3,8 @@ shortcode: porenadhrl
 name: {full: Pórena Darel}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A longshorewoman of Port Aelion who stowed the hold of Tralkar Hérselnde's lost ship."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -389,55 +390,63 @@ sohl:
 
 # Appearance {#appearance}
 
-Pórena Darel is a 23-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows and give her a watchful gaze. She has a slightly upturned nose and firm lips. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
+Pórena Darel is a 23-year-old woman who stands 5'8" tall and is of medium build. She has an oval face with wide-set cheekbones, a broad forehead and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows and give her a watchful gaze. She has a slightly upturned nose, firm lips and pale skin with a smooth complexion. Her dark brown hair is loose and wavy under a knotted kerchief, and she moves across a crowded wharf faster than anyone on it.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Pórena Darel is a longshorewoman.
+Pórena Darel is a longshorewoman of [[place-portaelion|Port Aelion]], the kingdom's chief harbor on the [[place-lirve|Lirve]] coast, an [[lore-elavendriclt|Élavendri]] freewoman who has loaded and unloaded holds on its wharves since she was a girl.
 
-Pórena has worked as a longshorewoman since she was a girl, in a trade that has few women in it. She is known for her agility and for moving quickly through the crowded docks. She has earned respect among the other dock hands for her skill in cargo handling and is often called upon to train new workers. She takes pride in her work and is determined to show that a woman can do it as well as anyone.
+There are few women on the wharves and she has made herself one of the best hands on them. She is quick and agile rather than strong, and she has learned to stow a hold so that the weight sits right and the ship rides true, which the captains value more than a strong back. The older hands call her to show the new ones how a load is slung. She has taken a few blows from men who thought she had no place there and given a few back.
+
+Her gang works the timber berths, loading the squared oak that comes down from [[place-liranel|Liranel]], and the berth beside them is the one where [[being-tralkarherse|Tralkar Hérselnde]]'s lost ship was loaded before it sailed into the mist.
 
 ## Psyche
 
 ### Personality
 
-She sometimes meets prejudice, and struggles with the heaviest lifting.
+Pórena is quick, proud and outspoken. She meets prejudice with a joke the first time and a fist the second.
 
 ### Motivation
 
-Pórena wants to be taken as the equal of any man on the docks and to keep the work that gives her a living.
+She wants to be taken as the equal of any hand on the wharves and to run a gang of her own.
 
 ### Strengths
 
-She is agile and quick, good at ordering the loading of cargo, and speaks well.
+She is agile and quick, she stows a hold well, and she speaks well enough to talk a captain round.
+
+### Weaknesses
+
+She struggles with the heaviest lifts, and her temper has cost her work.
 
 ## Social
 
-Pórena belongs to the local [Longshorewomen's Union]{.name data-type="affiliation"}.
+### Companions
 
-## Companions
+Her gang of the timber berths, and the women who sell food on the wharf.
 
 ### Patrons
 
-Pórena's patrons are the cargo merchants and shipping houses.
+The captains and factors of the timber trade, who hire her gang by the hold.
 
 ### Enemies
 
-Few; respected but occasionally faces skepticism from traditionalists.
+An old hand of the next gang who has never forgiven her for taking his place.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Pórena is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Longshorewoman's Dilemma
-: A merchant asks Pórena to look away from what is in his cargo, and she has to choose between her principles and her place on the docks.
+The Last Load
+: Pórena's gang stowed Tralkar Hérselnde's ship the day before it sailed and was lost. Tralkar blames the astrologer [[being-tarelblthl|Tárella Pelthal]] for the loss, and the whole wharf knows which gang stowed the hold.
 
-Old Grudges
-: One of the traditionalists who doubted her goes from skepticism to sabotage.
+The Keeper's Gang
+: The Keeper of the Wharves, [[being-naldorkardet|Naldor Kardeth]], has offered Pórena a gang of her own on the berths his ships use. The old hand she displaced says she bought it, and the offer comes with a condition about which holds are not to be opened.
 
-Echoes of the Past
-: Something from Pórena's earlier life resurfaces on the docks and has to be settled.
+The Mist
+: A ship came in out of the mist this morning with its crew saying they sailed yesterday from a port a week away. Pórena's gang has been told to unload it fast and say nothing about the cargo.
 
-Shifting Winds
-: Political change in Élavendre threatens the docks Pórena depends upon, and she can adapt, resist, or leave.
-
-The Opportunity
-: A shipping house offers Pórena a post beyond anything she has hoped for, and its price is not named up front.
+:::secret {title="The mate's orders"}
+Pórena remembers that the hold was loaded heavy to one side on the mate's orders. She has told nobody what she saw.
+:::

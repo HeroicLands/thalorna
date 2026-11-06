@@ -3,6 +3,7 @@ shortcode: tldrklmrth
 name: {full: Taldor Kálmereth}
 type: being
 subType: npc
+description: "A fisher of Elanmere who has worked the lake alone for thirty years and keeps the boatmen's observances."
 tags: [common-folk]
 data:
   icon: icon-person

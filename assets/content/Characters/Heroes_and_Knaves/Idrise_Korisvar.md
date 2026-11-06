@@ -3,6 +3,7 @@ shortcode: idriskrsvr
 name: {full: Ídrise Kórisvar, given: Ídrise, clan: Kórisvar}
 type: being
 subType: character
+description: "A Provenzian bodyguard raised by the warrior-monks of Brazemas, who works the Elanmere fair and has guarded Lord Dalren Mórlineth before."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -413,7 +414,7 @@ sohl:
 
 ![[idriskrsvr|Ídrise Kórisvar]]{float=top-left}
 
-Ídrise stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, and angular cheeks.
+Ídrise Kórisvar is a 28-year-old woman who stands 6'3" tall and is of medium build. She has an angular face with a strong nose, a pointed chin, full lips, arched brows and angular cheeks. Her green eyes never stop moving across a room, and her olive skin is clear. Her brown hair is braided tight against her skull, and she stands where she can see every door.
 
 # Dossier {#dossier}
 
@@ -421,15 +422,17 @@ sohl:
 
 ### The Foundling
 
-Ídrise's earliest memory is of cold stone and the sound of chanting. She was raised in the [Shrine of Brazemas the Stormkeeper]{.name data-type="affiliation"}, in the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within the shrine, no one would ever tell her—the monks spoke only of her arrival as an act of divine will. They raised her alongside their sons and daughters, training her from childhood in the disciplines of blade, body, and spirit. While other children played, Ídrise trained. While other girls learned needlework, she learned the anatomy of vulnerable points on the human body.
+Ídrise Kórisvar's earliest memory is of cold stone and chanting. She was raised at a shrine of [[affiliation-brazemas|Brazemas]] the Stormkeeper in the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within its walls, nobody would tell her; the monks spoke of her arrival only as an act of the god's will. They raised her with their own children and trained her from childhood in blade, body and spirit. While other girls learned needlework, she learned where a body is weak.
 
 ### The Training and the Breaking
 
-At sixteen, the shrine was attacked by bandits seeking to loot the treasury. Ídrise fought alongside the elder monks and proved herself devastatingly effective. In the aftermath, as the wounded were tended and the dead were mourned, the shrine's hierarchy made a decision: Ídrise was too dangerous to keep cloistered. She was sent into the world with the monks' blessing to become what she was born to become—a protector, a warrior, a tool of the god's will. The transition from the spiritual discipline of the shrine to the brutal pragmatism of the mercenary world was deeply disorienting.
+At sixteen she fought beside the elder monks when bandits came for the shrine's treasury, and she was devastatingly effective. In the aftermath the shrine's elders decided that she was too dangerous to keep cloistered, and sent her into the world with their blessing to be what she was raised to be: a protector, a weapon of the god's will. The move from the shrine's discipline to the pragmatism of hired swords was deeply disorienting.
 
 ### Current Path
 
-For the last decade, Ídrise has worked as an independent bodyguard in Provénzia's major cities, though she maintains loose affiliation with [The Mercenaries Guild of Provénzia]{.name data-type="affiliation/guild"} for contract purposes. She has developed a sterling reputation for absolute reliability and lethality, taking contracts only with clients whose goals she can morally accept. Her rates are high, and her services in constant demand. Yet she is deeply disconnected from normal human life—she moves through the world aware of lines of attack and exit routes, unable to simply exist without weighing danger.
+For a decade Ídrise has worked as a bodyguard, first in the towns of Provénzia and for the last two years in [[place-elanmere|Elanmere]], the lake town of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] where the autumn fair draws lords, factors and the men who prey on them. She has a name for absolute reliability and for lethality, and she takes only contracts whose ends she can accept. Her rates are high and her services in demand. She moves through the world aware of lines of attack and ways out, unable simply to be anywhere without weighing danger.
+
+The fair is close, and her old client [[being-dalrenmorlin|Lord Dalren Mórlineth]] has taken rooms in the town ahead of it, sleeps in a different room each night and says someone has been hired to kill him.
 
 ## Psyche
 
@@ -446,7 +449,7 @@ She is, however, a deeply ethical individual. She will not take contracts to har
 ### Strengths
 
 Martial Skill
-: Her combat training spans multiple disciplines and decades of practice. She is ambidextrous, skilled with blade and ranged weapons, and devastatingly effective in hand-to-hand combat. Few people in the realm could match her in single combat.
+: Her combat training spans multiple disciplines and decades of practice. She is ambidextrous, skilled with blade and ranged weapons, and devastatingly effective in hand-to-hand combat. Few people in either kingdom could match her in single combat.
 
 Threat Assessment and Tactical Analysis
 : She reads situations with almost supernatural accuracy, identifying threats and ways out within moments of entering any space. This skill extends to understanding human behavior and motivation.
@@ -487,47 +490,44 @@ Difficulty with Ambiguity
 
 ### Patrons
 
-Duke [Reginald Stormthorne]{.name data-type="being/npc"}
-: A minor nobleman of real virtue who has employed Ídrise multiple times for protection work. He respects her integrity and has become one of the few people whose company she actively seeks rather than merely tolerates.
+[Áulirarne Thólmarnde]{.name data-type="being/npc"}
+: A factor of Péravel who deals in fine goods at the Elanmere fair and hires Ídrise for her escorts and her strongroom. Their working relationship has become something near friendship, though Ídrise would never use the word.
 
-Lady Merchant [Selena Goldleaf]{.name data-type="being/npc"}
-: A wealthy trader specializing in luxury goods who employs Ídrise for high-value escort work. Their working relationship has extended into something approaching friendship, though Ídrise would never use that word.
+[[being-dalrenmorlin|Lord Dalren Mórlineth]]
+: A nobleman whom Ídrise has guarded before and who relies on her. She does not entirely like him and does not know his past.
 
-The Shrine of Brazemas
-: The monks who raised her remain her deepest loyalty. Though she no longer practices their faith in any formal way, she maintains a connection to the community and would move mountains to protect them.
+The shrine of Brazemas
+: The monks who raised her keep her deepest loyalty. She no longer practices their faith formally, but she would move mountains to protect them.
 
 ### Enemies
 
-[The Red Syndicate]{.name data-type="affiliation/criminal"}
-: A criminal organization that attempted to force Ídrise into their employ. When she refused, they placed a contract on her life. The contract remains technically active, though several assassins have already tried and failed. The Syndicate views her refusal as an insult that must be answered.
+The smugglers of the Lísere coast
+: A ring of smugglers tried to force Ídrise into its employ. She refused, and they put a price on her life. Several have tried to collect it and failed.
 
-Lord [[being-urnathdorkim|Urnath]] the Cruel
-: A nobleman whose cruelty toward servants and dependents violated every principle Ídrise holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while keeping her distance.
+[[being-urnathdorkim|Lord Urnath the Cruel]]
+: A nobleman of Lámanis whose cruelty to his servants and dependents broke every principle Ídrise holds. He tried to hire her; she refused, and found evidence of his crimes. She has become his quiet enemy, gathering more and keeping her distance.
 
-Her own past, an inner enemy
-: In her younger years as a mercenary, before she developed her current moral code, Ídrise took contracts whose purposes she now regrets. She wonders if any of her former victims or their families will one day come seeking revenge.
+Her own past
+: Before she found her code she took contracts she now regrets, and she wonders whether any of their victims' families will come looking for her.
 
 ### Affiliations
 
-The Mercenaries Guild of Provénzia
-: She maintains loose membership for contract purposes, though she is often at odds with the Guild's leadership over their willingness to take any contract regardless of moral considerations.
+[[affiliation-kngdmprvnz|Kingdom of Provénzia]]
+: Ídrise is a Freeman of Provénzia, living in Élavendre by the crown's leave.
 
-The Shrine of Brazemas
-: Her spiritual home and place of origin, where the warrior-monks still speak of her as one of their most accomplished students, though she has moved beyond their direct community.
+[[affiliation-brazemas|Faith of Brazemas]]
+: The shrine that raised her is her spiritual home, where the monks still speak of her as one of their best.
 
 ## Plot Hooks
 
-The Mirror in the Storm
-: Ídrise is hired to protect **Lord [[being-dalrenmorlin|Dalren Mórlineth]]**, a nobleman she has guarded before who seems paranoid and frightened. He confesses that he has become aware of a shadow that mirrors his movements—a skilled fighter matching his patterns, present at multiple locations where he has been, never attacking but always watching. Dalren is convinced he is being hunted by a hired assassin. As Ídrise investigates, she discovers that the shadow is actually [Myrrh]{.name data-type="being/npc"}, another warrior trained at the Shrine of Brazemas decades before Ídrise was born. Myrrh claims to be hunting Dalren for a dark secret in his past, and asks Ídrise to stand aside. Her loyalty to her client is set against her respect for a sister from the Shrine, and she does not truly know her employer's past.
+The Mirror at the Fair
+: Dalren hires Ídrise for the fortnight of the fair and confesses that a skilled fighter has been shadowing him, never striking. The shadow is a woman trained at Ídrise's own shrine a generation before her, who says she hunts Dalren for something in his past and asks Ídrise to stand aside. Ídrise's duty to her client is set against her respect for a sister of the shrine.
 
 The Forbidden Vow
-: Ídrise falls into an unexpected relationship with [Kiran]{.name data-type="being/npc"}, a merchant's daughter, over the course of a multi-month contract protecting the merchant's household. It is the first real emotional connection Ídrise has allowed herself in years. When the contract ends, Kiran asks Ídrise to abandon her mercenary life and simply be with her. At the same moment, the Shrine of Brazemas calls upon Ídrise for a critical mission—monks are being kidnapped and experimented upon by a dark sorcerer seeking to create a new form of warrior-slave. Ídrise's training and combat skills are desperately needed. She is forced to choose between the personal happiness she has never allowed herself and the duty that defines her entire existence.
+: Over a long contract guarding a factor's household Ídrise has let herself love the factor's daughter, the first connection she has allowed in years. The daughter asks her to give up the work. In the same week the shrine sends for her: its monks are being taken by a sorcerer who wants warrior-slaves.
 
-The Assassin's Interrogation
-: Ídrise captures an assassin who was sent to kill one of her clients. Rather than execute him, she interrogates him and is shocked to learn that the employer is not the person she suspected; it is someone from deep within the mercenary underworld. The assassin reveals the existence of a secret network of warrior-slaves—people like Ídrise, trained from childhood but kept under magical compulsion to obey their handlers. The assassin himself claims he was once free but was captured years ago. He begs Ídrise to help him break free of his magical bonds and promises to help her understand whether the shrine's training methods, however benign, contained traces of the same dark magic.
+The Captured Assassin
+: Ídrise has taken an assassin sent after one of her clients. Under questioning he names an employer deep in the hired-sword trade and speaks of warriors trained from childhood and held under magical compulsion. He begs her to break his bonds, and asks whether the shrine's training carried any trace of the same magic.
 
-The Shrine's Dark Secret
-: The monks of the Shrine of Brazemas call Ídrise home urgently. When she arrives, she discovers that one of the senior monks, Master [Irnald]{.name data-type="being/npc"}, has begun performing mysterious rituals and seems to be attempting to create warrior-slaves similar to the ones the captured assassin described. Some among the monks believe this is necessary to defend against great evils coming; others want to stop him. Ídrise is confronted with the possibility that her entire upbringing may have been preparation for purposes she never fully understood, and that the place she considered sanctuary may have been complicit in creating a system of magical slavery.
-
-The Replacement
-: A new warrior, [Cassian]{.name data-type="being/npc"}, arrives in the city with a reputation nearly matching Ídrise's own. Within days, Cassian begins taking contracts that would normally come to Ídrise. Unlike other competitors, Cassian seems to know her methods and can counter her approaches. When Ídrise finally confronts him, she is stunned to recognize her own mirror image—Cassian is a double created through magical means, deliberately crafted to match her abilities. Someone has stolen her very substance and created a replacement, and Cassian claims to be the "true" version while suggesting that Ídrise is the copy. As Ídrise unravels this mystery, she must question everything about her own origins and who she is.
+Urnath's Ledger
+: Ídrise has a page of Lord Urnath's household ledger that shows what became of three servants who vanished. She asks a party to carry it to someone in Lámanis who can use it, because Urnath's men know her face.

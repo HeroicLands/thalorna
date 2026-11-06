@@ -3,7 +3,8 @@ shortcode: jethralydr
 name: {full: Jethra Lidren}
 type: being
 subType: npc
-tags: [draft, guilded, mages]
+description: "The sky-reader of Kélpasi, who told the Speaker to the Lowlands his day to go down to Valdun."
+tags: [guilded, mages]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [kelpasi]
-  affiliations: {kngdmlvndr: {rank: 2}, marendas: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, thrglnklps: {rank: 1}, marendas: {rank: 1}}
   gender: female
   species: humanflk
   born: 681.125
@@ -395,57 +396,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Jethra Lidren is a 38-year-old woman who stands 5'6" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows, lending her a candid gaze. A delicate nose and narrow lips complete her features. She has medium-toned skin with a smooth complexion. Her dark blonde hair is swept up and held with carved combs.
+Jethra Lidren is a 38-year-old woman who stands 5'6" tall and is of light build. She has a diamond face with soft cheekbones, a wide forehead and a sharp jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows and give her a candid gaze. She has a delicate nose, narrow lips and medium-toned skin with a smooth complexion. Her dark blonde hair is swept up and held with carved combs, and she squints at anything nearer than the horizon.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of [[lore-elavendriclt|Élavendri]] heritage, Jethra Lidren came into the world of the astrologer through a combination of circumstance and aptitude.
+Jethra Lidren is a sky-reader of [[place-kelpasi|Kélpasi]], the hidden village in a fold of the [[place-auldalon|Áuldalon]] hills, an [[lore-elavendriclt|Élavendri]] freewoman who reads the stars and the weather for the village's flocks, fields and journeys.
 
-Jethra grew up in a port city, where she developed a fascination with the night sky while watching ships navigate by the stars. She became an astrologer to provide guidance to sailors and merchants. Known for her practical and down-to-earth readings, she is popular among the seafaring community. She sometimes assists in navigation for long voyages.
+She learned the stars from her grandmother on the high pasture, and later from a chart-maker of Valdun who taught her the Aureldian reckoning of the year and the feasts the lowland priests keep. In Kélpasi she is asked when to lamb, when to cut, when the snow will close the track and when it is safe to take the cloth down to the fairs. She is practical and plain in her readings and popular for it. She has never been on a ship and is sick on a cart.
+
+What she reads is worth more than usual this winter. A priest from the lowlands is due within the month, and the Speaker to the Lowlands, who meets such visitors at the last bend of the track, went down to [[place-valdun|Valdun]] with the winter cloth on a day Jethra told him was good, and has not come back.
 
 ## Psyche
 
 ### Personality
 
-Prone to seasickness, limiting her ability to travel far from land.
+Jethra is calm, practical and dry. She dislikes grand prophecy and will not give a reading she cannot explain.
 
 ### Motivation
 
-Jethra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in astrologer work keep her vigilant and adaptable.
+She wants the village's year to go right and her readings to be trusted. She is afraid she sent the Speaker down on the wrong day.
 
 ### Strengths
 
-Excellent at interpreting omens related to travel and trade.
+She reads weather and season accurately, she knows the Aureldian feasts by heart, and the village believes her.
+
+### Weaknesses
+
+She cannot travel far, and she takes the village's bad luck as her own fault.
 
 ## Social
 
-Jethra is affiliated with the [Navigators' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As an Élavendri astrologer, Jethra occupies a recognized social niche within Élavendre society.
-
-## Companions
+The shepherds of the high pasture and the Keeper of the Spring, [[being-saunarindarl|Sáunarine Darel]], who asks her when the spring will first run clear.
 
 ### Patrons
 
-Jethra's primary patrons are merchants and sailors who seek her advice. This relationship provides both opportunity and obligation.
+The households of Kélpasi, who pay her in cloth, cheese and help with her own small flock.
 
 ### Enemies
 
-None; generally well-liked.
+None in the village. The lowland priests think a sky-reader in a hill village is close to heresy.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Jethra is a Freeman of the crown.
+- **[[affiliation-thrglnklps|Thárgalon of Kélpasi]]**: She is a Villager of Kélpasi.
 
 ## Plot Hooks
 
-The Astrologer's Dilemma
-: Jethra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Good Day
+: Jethra read the Speaker's day of departure herself, and she means to go down to Valdun and learn what happened to him. She has never been past the ridge road alone, and asks a party to take her.
 
-Old Grudges
-: None; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Priest's Calendar
+: The lowland priest is due within the month, and the thaw may come before he does. Jethra must tell the [[affiliation-thrglnklps|Thárgalon]] whether the priest will be in the village on the night of [[lore-springguest|the Spring Guest]], and she does not like what the sky says.
 
-Echoes of the Past
-: Something from Jethra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Jethra depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Jethra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Strange Star
+: A star has stood over the old wood to the north for nine nights where no star should be, and an [[affiliation-ordoarcanis|Order]] fellow in Valdun has heard that the Kélpasi sky-reader keeps a record of it. He wants her notebook.

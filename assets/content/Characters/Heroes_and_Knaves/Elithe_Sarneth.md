@@ -3,6 +3,7 @@ shortcode: elyseskyrn
 name: {full: Élithe Sarneth, given: Élithe, clan: Sarneth}
 type: being
 subType: character
+description: "A healer and alchemist of Péravel who rides as the Silent Talon's field medic."
 tags: [hero, silent-talon, guilded, mages]
 data:
   icon: icon-person
@@ -429,7 +430,7 @@ sohl:
 
 ![[elyseskyrn|Élithe Sarneth]]{float=top-left}
 
-Élithe is a slender young woman of twenty-seven with fair, lightly freckled skin, dark blonde hair that falls softly around her face, and striking green eyes. Her graceful demeanor and radiant charm add to her natural allure, making her both captivating and approachable. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.
+Élithe Sarneth is a 26-year-old woman who stands 5'6" tall and is of light build. She has fair, lightly freckled skin, dark blonde hair that falls loose around her face, and green eyes. She has an easy smile and a quick, warm laugh that put frightened patients at ease. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.
 
 # Dossier {#dossier}
 
@@ -478,7 +479,7 @@ Charm
 
 ## Social
 
-## Companions
+### Companions
 
 [[being-branwldrgr|Branval Dorgal]]
 : Captain of the Silent Talon.
@@ -507,6 +508,9 @@ The Hidden Gift
 
 The Plague Contract
 : The Silent Talon is hired to escort supplies to a plague-stricken town. Élithe's skills are put to the ultimate test as she must identify the cause, develop a treatment, and keep the band healthy—all while someone in the town may be deliberately spreading the sickness.
+
+The Survey of the Thin Places
+: The University's Fitter of Expeditions, [[being-pelraorsel|Pelra Orsel]], has offered the Silent Talon the guarding of a summer survey of the thin places beyond the tree line, the survey [[being-ielaraskir|Prince Yélaras]] means to join. The pay is good, the bards in the river-quarter inns sing about the guards who did not come back, and Élithe would be back in Péravel among teachers who knew her before she learned to hide.
 
 The Rare Ingredient
 : Élithe learns of an extraordinarily rare herb growing deep in dangerous territory. Obtaining it could be the breakthrough she needs for a remedy she has been developing for years—but the expedition would put the entire band at risk for the sake of her personal ambition.

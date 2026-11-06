@@ -3,7 +3,8 @@ shortcode: dernklmrth
 name: {full: Deren Kálmereth}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A salter of Sóurimel whose salting house stands on the cart road, past which every stranger to the village walks."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,57 +393,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Deren Kálmereth is a 24-year-old woman who stands 5'9" tall and is of moderate build. She has an oval face with high cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her hooded amber eyes sit beneath arched brows, lending her a guarded gaze. A delicate nose and narrow lips complete her features. She has light skin with a pale complexion. Her brown hair is loose and wavy.
+Deren Kálmereth is a 24-year-old woman who stands 5'9" tall and is of medium build. She has an oval face with high cheekbones, a wide forehead and an angular jaw that leads to a pointed chin. Her hooded amber eyes sit beneath arched brows and give her a guarded gaze. She has a delicate nose, narrow lips and light skin. Her brown hair is loose and wavy, and her hands are cracked from brine.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Deren Kálmereth came into the world of the salter through a combination of circumstance and aptitude.
+Deren Kálmereth is a salter of [[place-sourimael|Sóurimel]], the [[lore-elavendriclt|Élavendri]] village that keeps the birch law inside [[place-silvrfrsts|the Silver Forests]], a freewoman who works her father's salting house beside the stream.
 
-Deren is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Deren has an eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
+Sóurimel has no salt of its own. Deren's family buys the coarse gray salt that comes up from the coast on the carts that go back down loaded with charcoal and honey, and it salts what the village cannot eat fresh: the venison its hunters are allowed, the fish of the stream and the pork of the autumn killing. She grades and packs it and sells it at the market in the village and on the Sórvanda farms beyond the wood. She has an eye for a good barrel and a long memory for a bad one, and she takes the family's name in the trade seriously.
+
+The salting house stands on the cart road at the edge of the village, and every stranger who comes to Sóurimel passes its door. That makes Deren one of the people the [[affiliation-alndnwrdns|Wardens]] have asked, courteously and twice, who passed through in the autumn.
 
 ## Psyche
 
 ### Personality
 
-Can be overly perfectionistic, struggles with self-confidence.
+Deren is careful, exacting and uneasy with praise. She doubts herself more than her work deserves.
 
 ### Motivation
 
-Deren is driven by the desire to master her craft and secure a stable future. The uncertainties of life in salter work keep her vigilant and adaptable.
+She wants the family trade kept sound and her father's name kept good. She wants nothing to do with the Wardens' question, and knows she cannot have that.
 
 ### Strengths
 
-Attention to detail, skilled in customer relations, knowledgeable about salt's uses.
+She grades salt and meat better than anyone in the village, she keeps an honest tally, and she remembers faces.
+
+### Weaknesses
+
+Her perfectionism costs her sales, and her wish to stay out of trouble makes her slow to say what she knows.
 
 ## Social
 
-Deren is affiliated with none; she operates independently.
+### Companions
 
-As an Élavendri salter, Deren occupies a recognized social niche within Élavendre society.
-
-## Companions
+Her father, whose hands are failing, and the carters who bring the salt up.
 
 ### Patrons
 
-Deren's primary patrons are local households and merchants seeking quality salt. This relationship provides both opportunity and obligation.
+The households of Sóurimel and the farms of [[place-sorvanda|Sórvanda]], who buy her barrels for the winter.
 
 ### Enemies
 
-Few; generally well-liked, though some competitors may envy her success.
+None of her own. A carter she would not cover for has stopped stopping at her door.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Deren is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Salter's Dilemma
-: Deren faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Cart in the Autumn
+: A carter came up the road in the autumn with a stranger on the bench who bought salt and paid in Péravel silver. Deren has not told the Wardens, because the carter is her father's friend, and the bark from [[place-wkngstnd|the Waking Stand]] lies in a collection at [[place-beravel|Péravel]].
 
-Old Grudges
-: Few; generally well-liked, though some competitors may envy her success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Bad Barrel
+: A barrel of her salt pork has made a household sick, and the barrel was not packed in her salting house. Someone is selling under the Kálmereth mark, and she asks a party to find the seller.
 
-Echoes of the Past
-: Something from Deren's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Deren depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Deren the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Answer
+: The priestess [[being-melvesaelarv|Mélvesa Elarven]] has told the village to answer the Wardens plainly. Deren asks a party to go with her to the Wardens and stand beside her while she does.

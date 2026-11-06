@@ -3,7 +3,8 @@ shortcode: brthrslthr
 name: {full: Drethar Salthar}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A charcoal burner of Valdun on the hill levy's roll, stubborn about his clamps and his coppices."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [valdun]
-  affiliations: {kngdmlvndr: {rank: 2}, karnavos: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, brdrmltia: {rank: 1}, karnavos: {rank: 1}}
   gender: male
   species: humanflk
   born: 669.245
@@ -394,57 +395,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Drethar Salthar is a 50-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with high cheekbones, a narrow forehead, and an angular jaw that leads to a delicate chin. His round blue eyes sit beneath straight brows, lending him a candid gaze. A slightly upturned nose and full lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is combed neatly to one side.
+Drethar Salthar is a 50-year-old man who stands 6'2" tall and is of heavy build. He has a long face with high cheekbones, a narrow forehead and an angular jaw that leads to a delicate chin. His round blue eyes sit beneath straight brows and give him a candid gaze. He has a slightly upturned nose, full lips and fair skin weathered by smoke and wind. His brown hair is graying and combed to one side, and a tattoo of a mystical symbol, half lost under burn scars, marks his right forearm. He smells of the clamp at every hour.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Drethar Salthar came into the world of the charcoaler through a combination of circumstance and aptitude.
+Drethar Salthar is a charcoal burner of [[place-valdun|Valdun]], an [[lore-elavendriclt|Élavendri]] freeman who works the coppices on the slopes above the ridge road and sells his charcoal in the town.
 
-Drethar has worked as a charcoaler in the dense forests near his village for most of his life, producing charcoal used by blacksmiths and households alike. The work is physically demanding and dangerous, involving long hours and exposure to smoke and fire, but Drethar takes pride in his craft. He is known as a hardworking and gruff man, though his stubborn nature sometimes gets him into conflicts.
+He has built and watched clamps for most of his life: the stacked billets, the turf skin, the days and nights of watching the smoke for the color that says the fire has found a hole. Valdun's smiths and the eastern bloomeries buy what he burns, and the iron that goes out of the town's market was smelted over some of it. The work is hard and solitary, and it has made him stubborn. He has his own way of building a clamp and does not take advice on it, from his sons or anyone.
+
+He is on the roll of the hill levy, as every man with a pony and a spear in the hills is, and he has mustered under the walls more times than he can count. He has opinions about the sworn company of [[affiliation-brdrmltia|the Border Militia]] that keeps the town now, and he gives them freely.
 
 ## Psyche
 
 ### Personality
 
-Gruff and stubborn, reluctant to accept new methods or suggestions.
+Drethar is gruff, stubborn and slow to change his mind. He is generous to a neighbor and blunt to everyone else.
 
 ### Motivation
 
-Drethar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in charcoaler work keep him vigilant and adaptable.
+He wants his coppices left to him, his clamps left alone and his sons to take the trade on as he does it. He wants the levy led by men who know the hills.
 
 ### Strengths
 
-Physically strong and experienced in handling firewood and charcoal.
+He is strong and tireless, he knows every slope within a day of the town, and he can read weather and smoke.
+
+### Weaknesses
+
+He will not take advice, and he quarrels with men he needs.
 
 ## Social
 
-Drethar is affiliated with the [Woodworkers' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As an Élavendri charcoaler, Drethar occupies a recognized social niche within Élavendre society.
-
-## Companions
+His two sons, who burn with him, and the hill levy's men at the muster.
 
 ### Patrons
 
-Drethar's primary patrons are local blacksmiths and villagers who purchase his charcoal. This relationship provides both opportunity and obligation.
+The smiths of Valdun and the factors who buy for the eastern bloomeries.
 
 ### Enemies
 
-Rival charcoalers who compete for territory.
+A younger burner who has started cutting in Drethar's coppices, saying the slope is common.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Drethar is a Freeman of the crown.
+- **[[affiliation-brdrmltia|The Border Militia]]**: He is on the hill levy's roll as a Levyman.
 
 ## Plot Hooks
 
-The Charcoaler's Dilemma
-: Drethar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+The Smoke on the Ridge
+: Drethar saw riders on the ridge above his clamps at dawn, too many and too quiet for drovers. [[being-elenorthaurn|Captain Élenor Thaurnde]] wants his report brought to the militia, and [[being-jeldormorlin|Jeldor Mórlineth]] wants it brought to the levy first.
 
-Old Grudges
-: Rival charcoalers who compete for territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Helmet's Slope
+: The hill hunter who brought in the unrusted helmet came down past Drethar's coppice with mud on his boots from the old wood. The [[affiliation-ordoarcanis|Order]]'s antiquarians offer the burner silver to show them the hunter's track.
 
-Echoes of the Past
-: Something from Drethar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Drethar depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Drethar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Common Slope
+: The younger burner has built a clamp in Drethar's coppice, and Drethar means to kick it in before it is fired. The quarrel will go to [[being-ilseviletirv|the magistrate]], and neither man has a paper for the slope.

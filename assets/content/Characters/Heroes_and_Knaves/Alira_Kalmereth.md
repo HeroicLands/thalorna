@@ -3,6 +3,7 @@ shortcode: alyrklmrth
 name: {full: Álira Kálmereth, given: Álira, clan: Kálmereth}
 type: being
 subType: character
+description: "A shy toymaker of Valdun with a gift for making carved things seem alive, at odds with the sheriff's hall over a stall levy."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -422,7 +423,7 @@ sohl:
 
 ![[alyrklmrth|Álira Kálmereth]]{float=top-left}
 
-Álira stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, and full cheeks.
+Álira Kálmereth is a 26-year-old woman who stands 5'9" tall and is of light build. She has a heart-shaped face with a snub nose, a strong jawline, full lips, dark brows and full cheeks. Her green eyes drop when a stranger meets them, and her pale skin is clear. Her dark brown hair is tied back with a strip of dyed cloth, and her fingers are stained with color.
 
 # Dossier {#dossier}
 
@@ -430,15 +431,17 @@ sohl:
 
 ### Early Years
 
-Álira was born to a minor merchant family in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker [Valdyn Nareth]{.name data-type="being/npc"}, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
+Álira Kálmereth was born in [[place-valdun|Valdun]], the walled border town of the eastern march, to a minor merchant family; her father traded in fine woods from the hill steadings and her mother kept a garden of rare plants inside the wall. The youngest of five, she was meant for marriage or service, but her habit of building miniature worlds from scraps and shavings could not be ignored. At twelve she attached herself to the traveling toymaker [Hálvilon Nareth]{.name data-type="being/npc"}, who wintered in the town, trading housework for lessons in joinery, painting and the old craft of making a carved thing seem alive.
 
 ### Training and Growth
 
-For seven years, Álira served under Valdyn's exacting eye, learning to carve, to mix plant-based dyes from crushed flower petals and mineral pigments, and to understand the subtle magic of proportion that makes a toy compelling to a child's imagination. When Valdyn departed Élavendre at her coming of age, she was left with barely a copper in hand but possessed the technical mastery of her craft. Rather than return to her family's expectations, Álira purchased a modest cottage on the town's edge with her savings and established herself as an independent toymaker, creating everything from jointed wooden figurines to stuffed cloth creatures filled with straw and dried lavender.
+For eleven years she worked under Hálvilon's exacting eye, learning to carve, to mix dyes from crushed petals and mineral pigments, and to understand the proportion that makes a toy compelling to a child. When he left the march she had barely a copper but the whole of the craft. Rather than go back to her family's plans for her, she bought a small house under the wall by the stock pens with her savings and set up as an independent toymaker, making everything from jointed wooden figures to cloth creatures stuffed with straw and dried lavender.
 
 ### Current Station
 
-Three years into her independent work, Álira has gained a modest reputation for whimsical, detailed toys of fine quality. Yet she struggles with the brutal mathematics of commerce—her prices remain far below market value, and she often underestimates the true cost of her labor. Travelers and local nobility have begun commissioning custom pieces, but Álira's shyness and inexperience in negotiation frequently leave her at a disadvantage. Still, she works contentedly in her cottage workshop, surrounded by wood shavings, dye vats, and the imagined voices of the characters she brings into being.
+Three years into her own work Álira has a modest name for toys of fine quality and wit. She prices them far below their worth and underestimates her own labor. The drovers buy her figures for their children at the fairs, the gentry of the march have begun commissioning pieces, and her shyness leaves her at a disadvantage in every bargain. She works contentedly in her workshop among shavings and dye vats and the imagined voices of her figures.
+
+This winter the sheriff's hall has proposed a stall levy on craftspeople who sell outside the fair days, and the clerk who drafted it, [[being-prthnblthl|Parthun Pelthal]], has named the small workshops under the wall as the first to pay.
 
 ## Psyche
 
@@ -448,7 +451,7 @@ Three years into her independent work, Álira has gained a modest reputation for
 
 ### Motivation
 
-Álira is driven by the desire to create joy in small, perfect forms—to craft objects that kindle wonder in the hearts of children and preserve, even momentarily, the magic of childhood belief. She works not for wealth but for the singular, luminous moments when she witnesses a child's face light up upon receiving one of her creations. Equally, she harbors a quiet ambition to prove that artisans from modest backgrounds can create works of beauty, worthy of respect and fair compensation. Deep within, she yearns to transform her craft into a legacy, to build a workshop where other makers might learn and thrive alongside her.
+Álira is driven by the desire to create joy in small, perfect forms—to craft objects that kindle wonder in the hearts of children and preserve, even momentarily, the magic of childhood belief. She works not for wealth but for the moments when she witnesses a child's face light up upon receiving one of her creations. Equally, she harbors a quiet ambition to prove that artisans from modest backgrounds can create works of beauty, worthy of respect and fair compensation. Deep within, she yearns to transform her craft into a legacy, to build a workshop where other makers might learn and thrive alongside her.
 
 ### Strengths
 
@@ -459,7 +462,7 @@ Boundless Imagination
 : Her creativity allows her to envision entire worlds within a single carved figure. She designs toys that tell stories, that move in unexpected ways, that possess hidden mechanisms and surprising details that reward close inspection.
 
 Masterful Hand-Craft Skills
-: Drawing, Woodworking, Textilecraft, and Ceramics are all practiced to near-virtuosic levels. She can execute nearly any creative concept her mind conceives, from fine marquetry work to hand-painted miniatures.
+: She draws, carves, sews and works clay to a very high standard. She can execute nearly any creative concept her mind conceives, from fine marquetry work to hand-painted miniatures.
 
 Emotional Intelligence
 : Despite her shyness, Álira's feel for people allows her to understand what a client truly seeks, often creating pieces that exceed expectations by addressing emotional rather than literal requests.
@@ -488,41 +491,47 @@ Obsessive Perfectionism
 
 ### Patrons
 
-Mistress [Lirien Clearbrook]{.name data-type="being/npc"}
-: The local schoolmistress purchases toys in bulk for the children's lessons. She has become something of a mentor figure, gently pushing Álira toward higher prices and introducing her to noble families seeking commissioned work.
+[Írvale Darel]{.name data-type="being/npc"}
+: The schoolmistress who teaches the drovers' children their letters buys Álira's toys for her lessons. She has become a mentor, pushing Álira toward fairer prices and introducing her to the families of the march who want commissioned work.
 
-[Tralkar the Wanderer]{.name data-type="being/npc"}
-: A traveling storyteller who has taken Álira's figures on tour across three kingdoms. He credits her creations with enhancing his performances and has become her most reliable champion.
+[Sérdalorne]{.name data-type="being/npc"}
+: A market singer who carries Álira's figures from fair to fair along the march and uses them in her tales, and who has become her most reliable champion.
 
-[The Kálmereth Family]{.name data-type="affiliation/lineage"}
-: Despite early estrangement, Álira's mother and elder siblings now purchase her work regularly and have begun commissioning pieces as marriage gifts for their own children and grandchildren.
+The Kálmereth family
+: After an early estrangement, Álira's mother and elder siblings buy her work regularly, as gifts for their own children's weddings.
 
 ### Enemies
 
-Master [Galric Sarneth]{.name data-type="being/npc"}
-: The established toymaker of Élavendre, whose family has dominated the craft for three generations. He views Álira as an unwelcome upstart and has begun spreading rumors that her dyes are toxic, her craftsmanship mediocre, and her prices represent a predatory undercutting of established artisans. In truth, his own work has grown stale and his prices inflated.
+[Sálvurnand Sarneth]{.name data-type="being/npc"}
+: The established toymaker of Valdun, whose family has held the trade for three generations. He calls Álira an upstart and says her dyes are poisonous, her craft mediocre and her prices a theft from honest makers. His own work has grown stale and his prices high.
 
-[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]
-: Several merchant guild officials view her independent status with suspicion and have begun threatening to impose taxation and licensing requirements specifically targeting solo craftspeople, clearly designed to force her out of business or into their ranks.
+Parthun Pelthal
+: The sheriff's chief clerk, whose stall levy would fall hardest on makers like her, and who has let it be known that the levy could be waived for a workshop that joins with an established one.
 
 ### Affiliations
 
-[The Artisan's Path]{.name data-type="affiliation"}
-: An informal collective of independent craftspeople—woodworkers, potters, weavers, and others—who share knowledge, materials, and occasionally commission work. Álira is one of their youngest members but increasingly its heart, often mediating disputes and organizing collaborative works.
+[[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+: Álira is a Freeman of the crown.
+
+[[affiliation-ardavon|Faith of Árdavon]]
+: She keeps the faith's rites, and carves its threshold-charms for her neighbors' doors.
+
+The makers under the wall
+: An informal circle of Valdun's independent craftspeople, woodworkers, potters and weavers, who share materials and knowledge. Álira is one of its youngest and has become its heart, settling quarrels and organizing shared work.
 
 ## Plot Hooks
 
-The Countess's Heir
-: The young Countess [[being-ithrolasemro|Íthrola]], whose domain lies three days' ride from Álira's cottage, has heard extraordinary tales of a toymaker who captures the essence of her daughter's nightmares and transforms them into beloved companions. The Countess has commissioned a suite of twelve figures representing the months of the year, each accompanied by a cryptic instruction. As Álira researches ancient festival traditions to get them right, she discovers her commission may be connected to a dark family curse, and the toys themselves may be ritual anchors. Completing this work could either break the curse or bind it more tightly—and completing it will demand she venture into territories both geographical and magical that terrify her.
+Lady Íthrola's Commission
+: [[being-ithrolasemro|Lady Íthrola Sémrothende]], whose lands lie three days' ride away, has heard of a toymaker who turns a child's nightmares into beloved companions. She has commissioned twelve figures for the months of the year, each with a cryptic instruction, for her daughter. As Álira works out the old feast-customs the figures need, she begins to suspect they are meant to anchor something.
 
 The Enchanter's Apprentice
-: A mysterious wanderer named [Selon Brightheart]{.name data-type="being/npc"} arrives at Álira's workshop, claiming to be an apprentice enchanter seeking to learn the principles of physical craft to complement magical theory. In exchange for knowledge about the subtle art of animate objects, Selon hints they can teach Álira to infuse her toys with true animation—a technique that would revolutionize her work. Yet Selon's past is shadowed, and their former master, **the Sorcerer [[being-nyevasaurtha|Nyevasa]]**, has been destroying enchanted objects throughout the realm, seemingly hunting for something specific. Selon may be a true ally, or bait to draw Álira into a conflict that could destroy her life's work.
+: A wanderer named [Selith Halren]{.name data-type="being/npc"} has come to Álira's workshop claiming to be an apprentice enchanter who wants to learn the craft of physical making. Selith hints that she could teach Álira to make her toys truly move. Selith's former master, [[being-nyevasaurtha|the sorcerer Nyevasa]], has been destroying enchanted objects across the realm, and Selith may be an ally or bait.
 
-The Stolen Commission
-: A wealthy nobleman contracts Álira for an elaborate mechanical toy—a silver bird that sings and dances—offering an unprecedented fee. Before completion, the piece is stolen by a master thief operating in the Kingdom. The noble blames Álira for the loss and demands either a replacement at no cost or compensation she cannot afford. Desperate, Álira discovers the thief was hired to steal it for a competing artisan in a distant city. The theft spirals into a dangerous game of intrigue, forgery, and dangerous secrets that forces Álira to choose between her reputation and her conscience.
+The Stolen Bird
+: A lord of the march commissioned a silver bird that sings and dances for an unheard-of fee, and before it was finished it was stolen from her workshop. He blames Álira and demands a replacement or payment she cannot make, and the thief was hired by a maker in another town.
 
-The Child's Guardian Spirit
-: A frightened child arrives at Álira's cottage with a single silver coin and a desperate request: to create a toy that will house a protective spirit her grandmother (a hedge witch) has bound to protect her from a terrible force. The child reveals that her village has been plagued by something ancient and malevolent that feeds on fear and innocence. Álira's craft is asked for as spiritual practice as much as commerce—she must create a vessel worthy of housing something divine while remaining ignorant of the true nature of what she's creating. The work will demand she learn forbidden lore and potentially expose herself to the same horror that haunts the child.
+The Stall Levy
+: The makers under the wall want Álira to speak for them against Parthun's levy before the sheriff, [[being-lotrenilther|Lotren Ílthernde]]. Some of them want to do more than speak, and she must hold a line between protest and the men who mean to burn the sheriff's rolls.
 
-The Artisan's Rebellion
-: Lin'Zuwaret elu Au'Khelathu's restrictions grow untenable, and other craftspeople turn to Álira as a natural leader to organize resistance. She finds herself reluctantly thrust into political agitation, potentially requisitioning her workshop as a meeting place and her toys as symbols of artisan independence. As tensions escalate, Álira must hold a line between peaceful protest and those among her allies who advocate direct sabotage of the Consortium's interests. Her choice could reshape the economic structure of Élavendre—or destroy everything she's built in the attempt.
+The Child's Guardian
+: A frightened child from a hill steading comes to Álira's door with a silver coin and a request: a toy to house the protective spirit her grandmother, a hedge-witch, has bound to her against something that feeds on fear. The child's steading lies under the margin of the old wood.

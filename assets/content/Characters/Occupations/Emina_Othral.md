@@ -3,7 +3,8 @@ shortcode: emynaothrl
 name: {full: Émina Othral}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "A courtesan of Valdun, a noble daughter her family put out, at whose table the march's lords and the Order's fellows talk."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,57 +393,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Émina Othral is a 35-year-old woman who stands 5'3" tall and is slender. She has a heart-shaped face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a narrow chin. Her narrow gray eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and thin lips complete her features. She has fair skin with a pale complexion. Her blonde hair is twisted into an elaborate arrangement.
+Émina Othral is a 35-year-old woman who stands 5'3" tall and is of light build. She has a heart-shaped face with angular cheekbones, a wide forehead and a narrow jaw that leads to a narrow chin. Her narrow gray eyes sit beneath thin brows and give her a keen gaze. She has a delicate nose, thin lips and fair skin, and a fine pale scar runs down the left side of her neck, which she does not trouble to hide. Her blonde hair is dressed high in the fashion of Péravel, and she dresses better than most of the women in Valdun who call themselves her betters.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a noble family of [[lore-elavendriclt|Élavendri]] heritage, Émina Othral came into the world of the courtesan through a combination of circumstance and aptitude.
+Émina Othral is a courtesan of [[place-valdun|Valdun]], the walled border town of the eastern march, a daughter of a noble house of the [[lore-elavendriclt|Élavendri]] who keeps a house of her own on the ridge road.
 
-Émina is the daughter of a minor noble, but scandal forced her to leave her family and seek a living on her own terms. She became a courtesan, known for her grace and intellect, often entertaining clients who appreciate her conversation as much as her beauty. Émina maintains connections with high society, though she is cautious not to overstep boundaries that could reignite the scandal.
+She was raised to marry well and did not. What happened is told three ways in Valdun, and she corrects none of them: her family put her out, she kept her name, and she made her own living with it. Her rooms are the best conversation in the town. The officers of the garrison, the lords who keep houses on the ridge road, the factors of the drove fairs and the fellows of the [[affiliation-ordoarcanis|Order]] who come to hire guards for the interior all come to her for wine, for news and for her company, and she is careful about which of them meets which. She is welcome everywhere in the town but her family's door.
+
+Valdun is long on opinions this year, and most of them are spoken at her table. [[being-vargenhalmes|Lord Vargen Hálmesende]] says there, in company, that the tribes' ground should be opened to the crown's roads, and the Order's fellows listen to him closely.
 
 ## Psyche
 
 ### Personality
 
-Haunted by her past scandal, overly cautious about reputation.
+Émina is graceful, witty and guarded. She is watchful of her reputation, because she has seen how quickly a town takes one away.
 
 ### Motivation
 
-Émina's driving force is the search that defines her life—a quest that shapes every decision she makes and every risk she takes.
+She wants her house, her independence and her name, and she wants the old scandal to stay asleep. She has begun to want something of the men who talk at her table beyond their silver.
 
 ### Strengths
 
-Graceful, intelligent, skilled at handling social situations.
+She reads a room, keeps a confidence and knows who in Valdun owes whom.
+
+### Weaknesses
+
+Her caution over the old scandal makes her easy to threaten, and her independence depends on patrons who expect discretion.
 
 ## Social
 
-Émina is affiliated with an informal network of high-society courtesans.
+### Companions
 
-As an Élavendri courtesan, Émina occupies a recognized social niche within Élavendre society.
-
-## Companions
+Her housekeeper and her harper, who have been with her since she came to the town.
 
 ### Patrons
 
-Émina's primary patrons are wealthy intellectuals and nobles who enjoy her company. This relationship provides both opportunity and obligation.
+The gentry and officers of the march and the factors of the drove fairs, who pay for her company and her table.
 
 ### Enemies
 
-Former suitor who resents her independence.
+A former suitor of her own rank, now a knight of the march, who resents that she refused him and says so.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Émina is of a Noble house, whatever her family says.
 
 ## Plot Hooks
 
-The Courtesan's Dilemma
-: Émina faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Talk at the Table
+: Lord Vargen has begun bringing an Order fellow to Émina's table, and the two speak of a road beyond the tree line as if it were already surveyed. She asks a party to learn whom the fellow answers to before she decides what to do with what she has heard.
 
-Old Grudges
-: Former suitor who resents her independence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Wounded Guard
+: A guard the Order hired came back from the interior with a wound and has been telling Émina's housekeeper what he saw past the margin. He means to bring a complaint before [[being-ilseviletirv|Ílsevile Tírvalnde]], and the fellow who hired him has asked Émina to stop him.
 
-Echoes of the Past
-: Something from Émina's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Émina depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Émina the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Old Letter
+: A letter from the scandal that put her out of her family has turned up in the hands of her former suitor. She asks a party to get it back without a fight that the town will hear of.

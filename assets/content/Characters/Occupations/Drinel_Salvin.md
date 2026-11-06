@@ -3,7 +3,8 @@ shortcode: brynlflwyn
 name: {full: Drinel Salvin}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A toymaker of Liranel who carves from the yards' offcuts and has bought old oak from the felled ring."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Drinel Salvin is a 26-year-old woman who stands 5'9" tall and is slender. She has a heart-shaped face with angular cheekbones, a high forehead, and an angular jaw that leads to a narrow chin. Her round blue eyes sit beneath arched brows, lending her a candid gaze. A straight nose and curved lips complete her features. She has fair skin with a smooth complexion. Her red hair is twisted into an elaborate arrangement.
+Drinel Salvin is a 26-year-old woman who stands 5'9" tall and is of light build. She has a heart-shaped face with angular cheekbones, a high forehead and an angular jaw that leads to a narrow chin. Her round blue eyes sit beneath arched brows and give her a candid gaze. She has a straight nose, curved lips and fair skin with a smooth complexion. Her red hair is twisted up and pinned with a carving knife, and her apron pocket is always full of shavings.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Drinel Salvin came into the world of the toymaker through a combination of circumstance and aptitude.
+Drinel Salvin is a toymaker of [[place-liranel|Liranel]], the timber town of the [[place-lirve|Lirve]] coast, an [[lore-elavendriclt|Élavendri]] freewoman who carves from the offcuts of the town's yards.
 
-Drinel grew up in a small village, where she started making simple toys for her younger siblings out of whatever materials she could find. Her talent for creating playful and durable toys gained local attention, and she eventually opened a small workshop. Drinel’s work is known for its rustic charm, with a focus on toys that encourage outdoor play.
+She began by making toys for her younger brothers out of what the hauliers threw away, and she still works from what the yards throw away: oak and birch ends, bark, the curls from the squaring adze. Her toys are rustic and sturdy and meant to be played with outdoors, carts that roll, tops that spin on a plank, little hauliers with oxen. The yard-men's children have them, and so do the children of the guides who take parties into the wood. She prices her work too low and knows it.
+
+The yards are where the forest court's quarrel has reached her. The offcuts she bought this month came from the block that the timber factor [[being-garrelpelth|Garrel Pelthal]] holds under license, and some of them are old oak, close-grained and dark, from a tree far older than any the licensed belt should carry.
 
 ## Psyche
 
 ### Personality
 
-Inexperienced in running a business, struggles with pricing her work.
+Drinel is cheerful, inventive and hopeless with money. She talks to the wood as she carves it.
 
 ### Motivation
 
-Drinel is driven by the desire to master her craft and secure a stable future. The uncertainties of life in toymaker work keep her vigilant and adaptable.
+She wants a shop of her own on the market street, and she wants the children of Liranel to have something to play with.
 
 ### Strengths
 
-Resourceful, skilled in working with natural materials, imaginative.
+She is resourceful and imaginative, she knows wood by its grain and smell, and the town's families like her.
+
+### Weaknesses
+
+She cannot price her work, and she buys from anyone who will sell her wood cheap.
 
 ## Social
 
-Drinel is affiliated with none; she works independently.
+### Companions
 
-As an Élavendri toymaker, Drinel occupies a recognized social niche within Élavendre society.
-
-## Companions
+The yard-men who keep her offcuts aside, and the children who follow her down the market street.
 
 ### Patrons
 
-Drinel's primary patrons are local villagers and travelers who seek rustic, handmade toys. This relationship provides both opportunity and obligation.
+The families of the yards and the guides, and the travelers who come to Liranel to hire a guide and want a toy to take home.
 
 ### Enemies
 
-None; she is well-liked but competes with more established toymakers.
+None. A joiner of the town thinks her prices are an insult to the trade.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Drinel is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Toymaker's Dilemma
-: Drinel faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Old Oak
+: Drinel's offcuts are from the felled oak ring, and the grove-elder [[being-evranetolsel|Evrane Tolsel]] has heard that the toymaker has them. The [[affiliation-alndnwrdns|Wardens]] want to know who sold them to her, and Drinel does not want to say, because the carter is a friend.
 
-Old Grudges
-: None; she is well-liked but competes with more established toymakers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Guide's Boy
+: [[being-berinsalth|Berin Salthar]]'s son carries a little wooden ox that Drinel carved for his father to bring home. He says his father will come back for it, and his mother [[being-sedrasalth|Sedra Salthar]] asks Drinel to stop telling the boy so.
 
-Echoes of the Past
-: Something from Drinel's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Drinel depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Drinel the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Order's Commission
+: An [[affiliation-ordoarcanis|Order]] fellow has ordered a set of jointed wooden figures carved to a drawing he will not explain. The drawing came from [[place-wrghthllw|the Wrought Hollow]], and the figures are to be finished before the next full moon.

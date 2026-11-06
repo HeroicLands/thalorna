@@ -3,7 +3,8 @@ shortcode: daryanardh
 name: {full: Darva Nareth}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "A bard of Kélpasi trained at the College of the Wood-Song, who sings in the halls of the eastern march and was singing at the Valdun cloth fair the night the village's Speaker vanished."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [kelpasi]
-  affiliations: {kngdmlvndr: {rank: 2}, lusinia: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, clgwoodsng: {rank: 2}, lusinia: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.114
@@ -392,57 +393,67 @@ sohl:
 
 # Appearance {#appearance}
 
-Darva Nareth is a 27-year-old woman who stands 5'11" tall and is slender. She has an oval face with angular cheekbones, a prominent forehead, and a narrow jaw that leads to a delicate chin. Her narrow green eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and expressive lips complete her features. She has fair skin with a fair complexion. Her graying brown hair is flowing past her shoulders.
+Darva Nareth is a 27-year-old woman who stands 5'11" tall and is of light build. She has an oval face with angular cheekbones, a prominent forehead and a narrow jaw that leads to a delicate chin. Her narrow green eyes sit beneath thin brows and give her a keen gaze. She has a delicate nose, expressive lips and fair skin. Her brown hair is graying early and falls past her shoulders, and a tattoo of a bird in flight shows on her left shoulder when she sings in a sleeveless shift.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of [[lore-elavendriclt|Élavendri]] heritage, Darva Nareth came into the world of the bard through a combination of circumstance and aptitude.
+Darva Nareth is a bard of [[place-kelpasi|Kélpasi]], the hidden village in a fold of the [[place-auldalon|Áuldalon]] hills, an [[lore-elavendriclt|Élavendri]] freewoman trained at [[affiliation-clgwoodsng|the College of the Wood-Song]] who sings in the halls and inns of the eastern march and comes home for [[lore-springguest|the Spring Guest]].
 
-Darva was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Darva is passionate about preserving history through her craft.
+She went down to Elanmere at fourteen with a voice the village could not keep, and the College gave her the old ballads and the discipline to sing them. Her songs blend the march's history with its myths, and she has a gift for making a hall of drovers in [[place-valdun|Valdun]] go quiet. She is ambitious and knows it: a chair at a lord's table, a name at the drove fairs, perhaps a summons to [[place-beravel|Péravel]]. Kélpasi asks one thing of her in return for its pride in her, which is that its own songs stay in the hills.
+
+This winter the village's errand and her own have crossed. The Speaker to the Lowlands took Kélpasi's winter cloth down to Valdun and has not come back, and Darva was singing at the cloth fair the night he sold it.
 
 ## Psyche
 
 ### Personality
 
-Sometimes lets her ambition overshadow her sincerity, struggles with politics.
+Darva is charming, quick and restless, and she lets ambition run ahead of sincerity more often than she likes to admit. She is clumsy at politics, because she says what she thinks in the wrong room.
 
 ### Motivation
 
-Darva is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bard work keep her vigilant and adaptable.
+Darva wants a name that outlasts her and a hall that keeps her. She also wants to go home each spring and be welcome there, and the first want keeps testing the second.
 
 ### Strengths
 
-Skilled singer and storyteller, charismatic, knowledgeable in history.
+She is a skilled singer and storyteller, she holds an audience, and she knows the march's history better than most who write it down.
+
+### Weaknesses
+
+She trusts applause more than advice, and she has made enemies by singing the truth about a patron at his own table.
 
 ## Social
 
-Darva is affiliated with one of [[affiliation-bardicolgs|the Bardic Colleges]].
+### Companions
 
-As an Élavendri bard, Darva occupies a recognized social niche within Élavendre society.
-
-## Companions
+The innkeepers and drovers of Valdun, who give her a bench and a fire. Her mother's hearth in Kélpasi.
 
 ### Patrons
 
-Darva's primary patrons are nobles who appreciate her artistry and historical knowledge. This relationship provides both opportunity and obligation.
+The lesser lords and gentry of the march, who pay well for a night of the old ballads and expect their own ancestors in them.
 
 ### Enemies
 
-Rival bards who see her as a threat to their own fame.
+A bard of [[affiliation-clgline|the College of the Line]] who sings in Valdun's better houses and calls her songs hill noise.
+
+### Affiliations
+
+- **[[affiliation-clgwoodsng|The College of the Wood-Song]]**: Darva is a Bard of the College.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: She is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Bard's Dilemma
-: Darva faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Cloth Fair
+: The Speaker to the Lowlands went down to the cloth fair at Valdun and has not come back. The [[affiliation-thrglnklps|Thárgalon]] has asked Darva to go down and find him, and she asks a party to go with her.
 
-Old Grudges
-: Rival bards who see her as a threat to their own fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Priest at the Bend
+: The priest from the lowlands has reached Valdun early and asks the Kélpasi bard to guide him up the track. Nobody but the Speaker meets a visitor at the last bend, and the Speaker is missing, so Darva must keep the priest in Valdun without telling him why.
 
-Echoes of the Past
-: Something from Darva's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+A Song of the Spring
+: A lord of the march offers her a place at his table for one song of what Kélpasi does at its spring. The Keeper of the Closed Songs at Elanmere wants the same song for the College, and the village wants it sung by nobody.
 
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Darva depends upon. She must decide whether to adapt, resist, or flee.
+The Helmet
+: The hill hunter who brought an unrusted imperial helmet into Valdun comes from the slopes below Kélpasi, and Darva knows an old ballad that names a legion's grave there. The [[affiliation-ordoarcanis|Order]]'s antiquarians will pay well to hear it.
 
-The Opportunity
-: A chance encounter offers Darva the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+:::secret {title="The cloth-buyer's yard"}
+Darva saw the Speaker leave a cloth-buyer's yard in Valdun with two men she did not know, and she has said so to nobody.
+:::

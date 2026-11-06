@@ -3,7 +3,7 @@ shortcode: kenrelkardet
 name: {full: Kenrel Kardeth, en: [Lord Kenrel Kardeth, Lord Kenrel]}
 type: being
 subType: npc
-description: "The late husband of Lyenna Kardeth, fifteen years her senior, who held the house's estates and its seat on the regional council until he was killed on the road to Elanmere."
+description: "The late husband of Lyenna Kardeth, fifteen years her senior, who held the house's estates and its seat on the Town Council of Port Aelion until he was killed on the road to Elanmere."
 tags: []
 data:
   icon: icon-person
@@ -37,7 +37,7 @@ Kenrel Kardeth was a 40-year-old man who stood 6'1" tall and was of light build.
 
 # Dossier {#dossier}
 
-Kenrel Kardeth was the husband of [[being-glyencrdth|Lyenna Kardeth]] and fifteen years her senior. He held the family's estates and its seat on the regional council, a decent, well-liked and politically moderate man content to manage his lands. He was killed three years ago on the road between his estates and [[place-elanmere|Elanmere]], in what was reported as a bandit raid.
+Kenrel Kardeth was the husband of [[being-glyencrdth|Lyenna Kardeth]] and fifteen years her senior. He held the family's estates and, as head of one of the town's older families, its seat on the [[affiliation-twncnclprtaln|Town Council of Port Aelion]], a decent, well-liked and politically moderate man content to manage his lands. He was killed three years ago on the road between his estates and [[place-elanmere|Elanmere]], in what was reported as a bandit raid.
 
 The crown's garrison at Elanmere investigated under Captain [[being-dharnvldrn|Daran Véldarin]] and concluded that it was a raid. His cousin [[being-heltankardet|Heltan]] has come home asking whether it was.
 
@@ -75,7 +75,7 @@ None he would have named. He died without an enemy he knew.
 
 ### Affiliations
 
-- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Kenrel was a Noble, of the house of Kardeth, with a seat on the regional council.
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Kenrel was a Noble, of the house of Kardeth, with a seat on the Town Council of Port Aelion.
 
 ## Plot Hooks
 

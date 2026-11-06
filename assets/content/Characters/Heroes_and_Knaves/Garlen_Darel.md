@@ -3,6 +3,7 @@ shortcode: garlendhrl
 name: {full: Garlen Darel, given: Garlen, clan: Darel}
 type: being
 subType: character
+description: "The finest leather-worker of Elanmere, a limping master of the tanners' lanes who will not cut a corner."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -420,21 +421,23 @@ sohl:
 
 ![[garlendhrl|Garlen Darel]]{float=top-left}
 
-Garlen stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, and expressive brows. He has a scar running down his right leg.
+Garlen Darel is a 40-year-old man who stands 5'11" tall and is of medium build. He has a long face with a button nose, a prominent chin and expressive brows. His brown eyes are measuring, and his light skin is browned at face and forearm by the sun of the drying yards. His black hair is cut short, and he walks with a slight limp from a scar that runs down his right leg.
 
 # Dossier {#dossier}
 
 **Apprenticeship in Blood and Leather**
 
-Born in the [Tanners' Quarter]{.name data-type="place/site"} of [[place-elavendre|Élavendre]]'s capital city, Garlen was apprenticed to his uncle [Thorin Darel]{.name data-type="being/npc"} at age nine, beginning a decade-long education in the mysteries of leather craft. The work was harsh and malodorous—scraping hides, boiling solutions, treating skins with mineral salts and plant dyes—but Garlen showed aptitude and a love for the craft. By his twentieth year, he had earned the title of journeyman and established a modest workshop of his own in a leased space near the city's hunter's market.
+Garlen Darel was born in the tanners' lanes of [[place-elanmere|Elanmere]], the lake town where the hides and furs of [[place-sorvanda|Sórvanda]] come down to market, and at nine he was apprenticed to his uncle, [Tírvale Darel]{.name data-type="being/npc"}, for ten years of leather craft. The work was harsh and foul, scraping hides, boiling liquors, working skins with salts and bark, but Garlen had the hands for it and came to love it. By twenty he was a journeyman with a workshop of his own in a leased shed by the hide market.
 
 **The Accident and Recovery**
 
-At thirty-three, a moment of inattention with a splitting knife nearly cost Garlen his leg. The blade slipped, opened his thigh and calf nearly to the bone, and left him fevered and delirious for a month while a physician named [Cutheir]{.name data-type="being/npc"} fought the wound's infection with poultices and prayer. Garlen recovered, though imperfectly—the leg never regained its full strength, and he walks with a subtle limp that occasionally aches during damp seasons. More significantly, the incident shattered his confidence. For two years, he worked only simple projects, terrified of another mistake. Only through the patient encouragement of Cutheir and his regular customers did he gradually rebuild his skill and his nerve.
+At thirty-three a moment's carelessness with a splitting knife nearly cost him his leg. The blade opened his thigh and calf almost to the bone, and he lay a month in fever while a physician, [Pálsairsa]{.name data-type="being/npc"}, fought the infection with poultices and prayer. He recovered imperfectly. The leg never regained its full strength, he walks with a slight limp that aches in the damp, and for two years afterward he dared take only simple work. Pálsairsa's patience and his regular customers brought his skill and his nerve back.
 
 **Master of His Craft**
 
-Now established as the finest leather-worker in the city, Garlen has built a modest but comfortable living through quality craftsmanship and a reputation for fair dealing. His work adorns the armor of adventurers, the saddles of nobles' horses, and the everyday leather goods of Élavendre's working people. He has trained two apprentices—though only one, a young woman named [Órina]{.name data-type="being/npc"}, shows serious promise of mastery. He remains unmarried, his life consumed by his work and by the quiet satisfaction of creating objects that will outlast him.
+At forty Garlen is the finest leather-worker in Elanmere, with a modest, comfortable living built on quality and fair dealing. His work is on the jacks of the crown's garrison, the saddles of the lords who come for the fair and the boots and belts of the town's working people. He has trained two apprentices, and one of them, a young woman named [Órina]{.name data-type="being/npc"}, shows real promise. He has never married.
+
+The autumn fair is close, and the hides of the high country are coming down to the lake. So are the lords who buy his best work, and one of them, [[being-dalrenmorlin|Lord Dalren Mórlineth]], has come early and wants something made that he can wear under his coat.
 
 ## Psyche
 
@@ -446,7 +449,7 @@ He is unflinchingly honest, a trait that sometimes costs him sales when customer
 
 ### Motivation
 
-Garlen's primary drive is the pursuit of perfection in his craft. He seeks to create leather goods that become famous, articles spoken of by warriors and travelers for their durability and beauty. He is also increasingly concerned that the knowledge accumulated through forty years of practice should not be lost—he wishes to find a worthy successor to train in the deepest secrets of his art. Beyond craft, he harbors a quiet desire to be recognized as more than a tradesman, to be acknowledged as an artist and a master. He also remains haunted by his accident and occasionally by a lingering fear that his leg will fail him at a critical moment, a concern he has never voiced aloud to anyone.
+Garlen's primary drive is the pursuit of perfection in his craft. He seeks to create leather goods that become famous, articles spoken of by warriors and travelers for their durability and beauty. He is also increasingly concerned that the knowledge of thirty years at the bench should not be lost—he wishes to find a worthy successor to train in the deepest secrets of his art. Beyond craft, he harbors a quiet desire to be recognized as more than a tradesman, to be acknowledged as an artist and a master. He also remains haunted by his accident and occasionally by a lingering fear that his leg will fail him at a critical moment, a concern he has never voiced aloud to anyone.
 
 ### Strengths
 
@@ -486,41 +489,44 @@ Perfectionism as Paralysis
 
 ### Patrons
 
-Captain of the City Guard, Commander [Aldis]{.name data-type="being/npc"}
-: A patron who has commissioned multiple leather armor sets for the city's elite guard. Aldis values Garlen's work and sees that the guard's supply contracts flow regularly to his workshop.
+[[being-dharnvldrn|Captain Daran Véldarin]]
+: The captain of the crown's garrison at Elanmere, who has had Garlen make the jacks and harness of his company for years and sees that the garrison's orders come to his workshop.
 
-Lady [Merenna]{.name data-type="being/npc"} of [House Élavere]{.name data-type="affiliation/lineage"}
-: A minor nobility whose appreciation for Garlen's aesthetic sense has made her a regular customer. She commissions decorative leather goods and saddles, and her endorsement among the city's elite has brought significant prestige to his workshop.
+[[being-dalrenmorlin|Lord Dalren Mórlineth]]
+: A nobleman come early to the autumn fair, a long buyer of Garlen's saddles, who this year wants a leather jack lined with horn plates, made in secret and fitted by night.
 
-Master Physician Cutheir
-: The healer who saved Garlen's leg and his life decades ago, now elderly but still influential. The two remain in close contact, and Cutheir occasionally sends injured patients to Garlen to help them recover their strength.
+Pálsairsa
+: The physician who saved Garlen's leg, now old but still respected in the town. She sends him patients who need a brace or a strap to walk again.
 
 ### Enemies
 
-Master Leatherworker [Torvin]{.name data-type="being/npc"}
-: A rival craftsperson who produces faster, cheaper goods through corner-cutting methods. Torvin actively attempts to undercut Garlen on price and spreads rumors about his work's durability, despite the fact that his own products are objectively inferior.
+[Aulde Othral]{.name data-type="being/npc"}
+: A rival leather-worker who works faster and cheaper by cutting corners, undercuts Garlen's prices and says his work does not last, though his own is plainly worse.
 
-The [Tanners' Guild]{.name data-type="affiliation/guild"} Elders
-: Several guild administrators have attempted to pressure Garlen into their standardized pricing and methods. When he refused to compromise his standards or join their cartel, they blacklisted him from certain contracts, though his reputation has largely insulated him from the worst effects.
+The elder tanners
+: The old masters of the tanners' lanes, who want every leather-worker in the town to keep their prices and their methods, and who have turned some of the fair's buyers away from him because he will not.
 
 ### Affiliations
 
-[The Independent Craftspeople's Association]{.name data-type="affiliation"}
-: A loose collective of artisans who reject guild monopolies. Garlen holds no formal position but attends their meetings and contributes to their advocacy efforts.
+[[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+: Garlen is a Freeman of the crown.
+
+[[affiliation-lizelas|Faith of Lizelas]]
+: He gives thanks at the goddess's house every year on the day his fever broke.
 
 ## Plot Hooks
 
-The Unknown Hide
-: A wealthy merchant arrives with a mysterious material—a hide of extraordinary size and quality, allegedly from a creature that no one can identify. The merchant claims it will create the finest leather goods ever made and offers Garlen a substantial fee to work it into armor. However, the material subtly resists traditional tools and techniques. As Garlen works, he discovers the hide seems to possess strange properties—it appears to be learning from his touch, or perhaps it is attempting to guide his hands toward a specific purpose. Investigation reveals the hide is ancient, perhaps centuries old, and comes from a creature long thought mythical. The party must help determine whether the hide should be worked into the armor or whether its making is somehow dangerous.
+The Jack for Dalren
+: Lord Dalren wants a horn-lined jack made in secret before the fair, and says he cannot tell Garlen who he is afraid of. Garlen asks a party to deliver it by night and to watch who is watching Dalren's lodging.
+
+The Hide from the High Country
+: A tribal family at the hide market has brought down a skin of a size and quality Garlen has never seen, from an animal nobody in the lanes can name. The family will sell it only to a man who promises not to cut it, and a buyer from Péravel has offered Garlen a fortune to cut it into armor.
 
 The Poisoned Batch
-: Several of Garlen's recent customers fall mysteriously ill with a condition that no physician can identify—all the victims share only one connection: they purchased leather goods from Garlen's workshop within the past three months. Garlen is devastated and immediately suspects that his materials have been contaminated, but investigation suggests otherwise—someone has deliberately adulterated leather shipments intended for Garlen, trying to frame him and destroy his reputation. The party must uncover the culprit before Garlen's business is destroyed. The investigation leads to Torvin, his rival, who is willing to commit murder to eliminate competition.
+: Several of Garlen's customers have fallen ill, and all of them bought from his workshop this season. Someone has adulterated the liquor in a batch of his leather, and the trail leads toward Aulde Othral, who may be ready to kill to be rid of him.
 
-The Apprentice's Secret
-: Garlen's talented apprentice Órina begins to act strangely, occasionally disappearing for entire days. When confronted, she reveals that she has been secretly meeting with a black-market fence who has been hiring her to create specialized leather containers for smuggled goods. She owes them a substantial debt and fears what they will do if she refuses. Garlen can turn her over to the authorities or help her escape her obligations. If he helps, the party becomes entangled in conflict with organized crime. If he turns her in, he may destroy the talented apprentice he hopes to train into a master craftsperson.
+The Apprentice's Debt
+: Órina has been slipping away for whole days. She owes money to carriers who come down the ore-road at night, and they want strong leather sacks made quietly and asked about by no one.
 
-The Master's Masterwork
-: As age begins to creep upon him, Garlen commits to creating one final masterwork—a complete set of ceremonial leather armor of breathtaking complexity and beauty. He offers the party a substantial commission: find him a specific material he requires—the hide of a **shadowreaver**, a nocturnal predator rumored to inhabit the deepest forests. The quest to hunt this creature becomes an adventure in itself, testing whether the party can obtain a hide worthy of a true master craftsman. Upon completion, the armor is so extraordinary that nobility and warlords begin bidding for it, potentially changing Garlen's life—or attracting dangerous attention.
-
-The Injured Warrior's Salvation
-: A famous warrior or knight arrives at Garlen's workshop bearing a grievous wound on their dominant leg—one that threatens to end their fighting days. Cutheir, now very elderly, recommends that the warrior seek Garlen's help, suggesting that his experience of his own recovery might be of use, and that custom-crafted supportive leather garments might let the warrior return to active life. Garlen is initially reluctant—he is a craftsman, not a healer—but he begins designing specialized leather supports that allow the warrior graduated return to function. The party might need to protect Garlen from enemies of the warrior, or assist in testing his designs in the field.
+The Injured Warden
+: A Warden of the Spine has come down to the town with a ruined leg, which is not done, to ask the leather-worker who limps whether a brace could put her back on the mountain. The Wardens do not want it known that one of them is hurt.

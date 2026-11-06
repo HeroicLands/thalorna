@@ -3,7 +3,8 @@ shortcode: malianardh
 name: {full: Malsa Nareth}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A shepherd of Elanmere whose grazing runs past the burned shrines of the lake road."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -394,57 +395,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Malsa Nareth is a 27-year-old woman who stands 5'10" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. A delicate nose and expressive lips complete her features. She has light skin with a smooth complexion. Her auburn hair is loose and wavy.
+Malsa Nareth is a 27-year-old woman who stands 5'10" tall and is of light build. She has an oval face with wide-set cheekbones, a high forehead and a sharp jaw that leads to a firm chin. Her sharp brown eyes sit beneath arched brows and give her an incisive gaze. She has a delicate nose, expressive lips and light skin with a smooth complexion. Her auburn hair is loose and wavy under a felt hood, and she carries a crook taller than she is.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Malsa Nareth came into the world of the herder through a combination of circumstance and aptitude.
+Malsa Nareth is a shepherd of [[place-elanmere|Elanmere]], the lake town at the western foot of [[place-sorvanda|Sórvanda]], an [[lore-elavendriclt|Élavendri]] freewoman who runs her father's flock on the slopes above the lake road.
 
-Malsa grew up on a small farm, learning the art of herding from her father. She specializes in caring for a large flock of sheep, guiding them to the best pastures and ensuring their health. Known for her gentle touch and patience, Malsa has a knack for understanding animal behavior. While she loves her work, she dreams of one day owning her own land and expanding her flock.
+She learned the flock from her father and has run it alone since his knees gave out: the summer grazing up the valley sides, the autumn drive down to the fair, the lambing in the stone fold behind the house. She has a gentle hand with animals and a knack for knowing what is wrong with a ewe before the ewe does. She wants land of her own and a flock twice the size, and she counts the lambs at every fair against the price of a pasture.
+
+Her grazing runs along the lake road, through the forest margin where the grovekeeper [[being-lanthevileha|Lánthevile Halren]] has been mapping burned shrines and scorched clearings. Malsa has walked her sheep past three of them, and she was on the slope one night in the summer when the fire was lit.
 
 ## Psyche
 
 ### Personality
 
-Inexperienced in dealing with disputes over land, can be overly cautious.
+Malsa is patient, cautious and quick to learn, and unsure of herself in any dispute with men who own more land than she does.
 
 ### Motivation
 
-Malsa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in herder work keep her vigilant and adaptable.
+She wants a pasture of her own and the flock safe on it. She wants nothing to do with whatever burns the shrines.
 
 ### Strengths
 
-Empathetic toward animals, skilled in herding techniques, quick learner.
+She is good with animals, knows every slope above the lake and misses little that moves on them.
+
+### Weaknesses
+
+She is overcautious with authority, and she has no one to speak for her in a quarrel over grazing.
 
 ## Social
 
-Malsa is affiliated with none; she works independently.
+### Companions
 
-As an Élavendri herder, Malsa occupies a recognized social niche within Élavendre society.
-
-## Companions
+Her father, her two dogs and the other shepherds of the lake road.
 
 ### Patrons
 
-Malsa's primary patrons are local families who purchase her wool and lambs. This relationship provides both opportunity and obligation.
+The households of Elanmere, which buy her wool and lambs, and the factors of [[place-beravel|Péravel]] who come up for the autumn fair.
 
 ### Enemies
 
-Few, though some neighboring farmers see her as inexperienced.
+A neighboring farmer who grazes over her boundary and thinks a young woman will not object.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Malsa is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Herder's Dilemma
-: Malsa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Night on the Slope
+: Malsa saw riders by a fire in a clearing below her fold in the summer, and she reported it to the crown's garrison, which answers for order in the district. Nothing came of it. Lánthevile has heard that a shepherd saw something and wants Malsa to say it to the [[affiliation-groveconcl|Grove Council]], and Malsa wants a party beside her when she does.
 
-Old Grudges
-: Few, though some neighboring farmers see her as inexperienced. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Fair Price
+: The Péravel factors are offering more for wool this year than any year Malsa remembers, and they want the whole clip before the fair opens. The factors' agent will not say why.
 
-Echoes of the Past
-: Something from Malsa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Malsa depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Malsa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Prospectors' Track
+: The prospectors on the ore-road from [[place-kngscut|the King's Cut]] have been cutting across her summer grazing at night, and one of her ewes came back with silver-gray rock dust in her fleece.

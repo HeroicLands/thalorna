@@ -3,7 +3,8 @@ shortcode: kelyrslthr
 name: {full: Kélvira Salthar}
 type: being
 subType: npc
-tags: [draft, guilded, administration]
+description: "A treasury clerk of Péravel posted to Valdun to audit the wall levy, who trusts none of the rolls the sheriff's hall has given her."
+tags: [guilded, administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,7 +12,7 @@ data:
   occupation: Bureaucrat
   lore: []
   culture: elavendriclt
-  homes: [kelpasi]
+  homes: [valdun]
   affiliations: {kngdmlvndr: {rank: 2}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
@@ -394,57 +395,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Kélvira Salthar is a 41-year-old woman who stands 5'5" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. Her bright blue eyes sit beneath arched brows, lending her a lively gaze. A delicate nose and wide lips complete her features. She has pale skin with a smooth complexion. Her auburn hair is twisted into an elaborate arrangement. A notable feature is a slight squint from years of reading by candlelight.
+Kélvira Salthar is a 41-year-old woman who stands 5'5" tall and is of light build. She has a heart-shaped face with prominent cheekbones, a high forehead and a rounded jaw that leads to a delicate chin. Her bright blue eyes sit beneath arched brows and give her a lively gaze, narrowed by a squint from years of reading by candlelight. She has a delicate nose, wide lips and pale skin with a smooth complexion. Her auburn hair is twisted into a tight knot, and she carries a satchel of rolls everywhere, including to dinner.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of [[lore-elavendriclt|Élavendri]] heritage, Kélvira Salthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Kélvira Salthar is a clerk of the crown's treasury, an [[lore-elavendriclt|Élavendri]] freewoman from a family of treasury clerks in [[place-beravel|Péravel]], posted to [[place-valdun|Valdun]] this winter to audit the accounts of the wall levy.
 
-Kélvira comes from a family of civil servants and followed in their footsteps, working in the city’s treasury department. Known for her sharp mind and eye for detail, she has uncovered several cases of embezzlement. Her dedication to rooting out corruption has made her a few enemies among the more unscrupulous officials.
+She has spent twenty years in the treasury's counting rooms reading the returns of tolls, fees and levies, and she has a gift for the figure that does not belong. Three clerks of the treasury and one sheriff's reeve have lost their posts on her reading, and she has the enemies to show for it. Valdun rebuilds its wall every few generations, and the money for the next repair has been collected for years by the sheriff's hall and sent to Péravel in sums that the Treasurer's office has begun to think are too round.
+
+She took rooms in an inn by the market, laid the sheriff's rolls out on its tables and asked for the rest. The sheriff's chief clerk, [[being-prthnblthl|Parthun Pelthal]], has been courteous, prompt and helpful, and Kélvira does not trust a single page he has handed her.
 
 ## Psyche
 
 ### Personality
 
-Often works late hours, leaving little time for personal relationships.
+Kélvira is sharp, tireless and indifferent to charm. She works late, eats at her desk and has no life she would call personal.
 
 ### Motivation
 
-Kélvira is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bureaucrat work keep her vigilant and adaptable.
+She wants the accounts to balance or the person who unbalanced them named. She also wants, after twenty years, to be made a chief clerk herself.
 
 ### Strengths
 
-Skilled in accounting and detecting financial irregularities.
+She is skilled at accounts and at finding what was hidden in them, and she cannot be flattered.
+
+### Weaknesses
+
+She is out of her depth in a border town, where a sum is settled over ale and a favor counts as much as a coin. She has no friends in Valdun.
 
 ## Social
 
-Kélvira is affiliated with the treasury department.
+### Companions
 
-As an Élavendri bureaucrat, Kélvira occupies a recognized social niche within Élavendre society.
-
-## Companions
+A junior clerk she brought from Péravel, who is homesick.
 
 ### Patrons
 
-Kélvira's primary patron is the head of the treasury department who values her skills. This relationship provides both opportunity and obligation.
+The crown's Treasurer at Péravel, whose office sent her and who expects a report before the spring.
 
 ### Enemies
 
-Corrupt officials she has exposed.
+The clerks she has exposed. In Valdun, everyone who has had a hand in the wall money.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Kélvira is a Freeman of the crown and a clerk of its treasury.
 
 ## Plot Hooks
 
-The Bureaucrat's Dilemma
-: Kélvira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Round Sums
+: Kélvira asks a party to count the stone in the quarry yard and the men on the wall, so that she can set what the repair has cost against what the sheriff's hall says it has cost. The sheriff, [[being-lotrenilther|Lotren Ílthernde]], has asked the same party to tell him first what she finds.
 
-Old Grudges
-: Corrupt officials she has exposed. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Second Roll
+: A man who says he was once a clerk of the sheriff's hall has come to Kélvira's inn at night offering a second roll of the wall levy in his own hand, and his price is protection. She cannot tell whether it is the truth, a forgery or a trap laid by Parthun.
 
-Echoes of the Past
-: Something from Kélvira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Kélvira depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kélvira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Inn Fire
+: Someone has tried to burn the inn room where Kélvira keeps her papers. She has the papers, and she wants a guard on them and on herself until the report is on its way to Péravel.

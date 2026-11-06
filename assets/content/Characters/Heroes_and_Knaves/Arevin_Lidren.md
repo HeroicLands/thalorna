@@ -3,6 +3,7 @@ shortcode: arevynlydr
 name: {full: Árevin Lidren, given: Árevin, clan: Lidren}
 type: being
 subType: character
+description: "An old miner of Elanmere and the best reader of stone in Sórvanda, whom everyone with a map of the King's Cut comes to consult."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -11,7 +12,7 @@ data:
   occupation: Miner
   lore: []
   culture: elavendriclt
-  homes: [liranel]
+  homes: [elanmere]
   affiliations: {kngdmlvndr: {rank: 2}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
@@ -420,7 +421,7 @@ sohl:
 
 ![[arevynlydr|Árevin Lidren]]{float=top-left}
 
-Árevin stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
+Árevin Lidren is a 44-year-old man who stands 6'1" tall and is of heavy build. He has a broad face with a button nose, a narrow chin and light brows. His gray eyes are deep-set and steady, and his tanned skin is weathered by mountain weather. His black hair is cut short, and his knuckles are swollen from forty years of cold stone.
 
 # Dossier {#dossier}
 
@@ -428,44 +429,46 @@ sohl:
 
 ### Early Years in Stone
 
-Árevin was born the third son of a mining family whose lineage stretched back generations into the deep shafts beneath the [[affiliation-kngdmlvndr|Kingdom of Élavendre]]. From childhood, he descended into darkness where his father and uncles worked, learning the songs of stone and the subtle signatures that betrayed precious metals and gems. By fifteen, he had mapped more ore veins than many experienced miners ever would, his Mineralogy surpassing even his father's considerable expertise.
+Árevin Lidren was born the third son of a mining family of [[place-elanmere|Elanmere]], the lake town at the western foot of [[place-sorvanda|Sórvanda]], whose people have worked the marginal workings for generations: the shallow drifts on ground the [[lore-aelendnppl|Áelendan]] have not claimed or have released by arrangement. From childhood he went down with his father and uncles, learning the songs of stone and the signs that betray metal and gem. By fifteen he had read more veins than many miners twice his age, and his knowledge of the rock had passed his father's.
 
 ### Mastery and Mentorship
 
-In his prime, Árevin became known throughout Élavendre as the finest prospector in the realm. He discovered three major gemstone deposits that generated enormous wealth for the merchant houses, and his ability to extract materials without damaging them earned him contracts with jewelers across the Kingdom. As his physical stamina began its gradual decline with age, Árevin transitioned from active mining to consulting, training the younger generation and overseeing complex engineering projects in the mines. His reputation grew broader—local physicians sought his knowledge of mineral healing properties, and craftspeople valued his insights into metallurgy and material sciences.
+In his prime Árevin was known through the Sórvanda country as the best prospector working. He found three gem pockets on released ground that made fortunes for the [[place-beravel|Péravel]] factors who held the arrangements, and his gift for taking stones out whole won him the custom of the goldsmiths of the capital. As his stamina began to fade he turned from cutting to advising, training younger miners and laying out the timbering of the deeper drifts. Healers came to him for the mineral lore of remedies, and smiths for his knowledge of ores.
 
 ### Present Circumstances
 
-Now forty-five, Árevin operates from his modest workshop in the mining quarter, where apprentices gather to study his collections of geological samples and technical diagrams. He continues active fieldwork when called upon for particularly valuable deposits, though such expeditions leave him with aching joints that require attention from the herbalists. He maintains a complicated relationship with the rapidly expanding mining operations, which view his traditionalist methods as outdated even as they profit from his expertise.
+Now forty-four, Árevin works from a workshop by the lake shore where apprentices study his samples and drawings. He still goes up when a find is worth his knees, and comes down needing the herbalists. He has a hard name among the younger foremen, who dig faster than he thinks safe, and an honest one with the Wardens of the Spine, who know he has never put a pick into ground they did not release.
+
+The ore-road from [[place-kngscut|the King's Cut]] comes down into Elanmere this year with prospectors on it who say they have a map, and the autumn fair is close. Everyone who wants to dig in Sórvanda has come to ask Árevin what the map is worth.
 
 ## Psyche
 
 ### Personality
 
-Árevin possesses the confidence of a craftsman secure in his mastery, yet this certainty has hardened into a certain inflexibility that troubles his relationships with younger miners eager to implement new techniques. He speaks with deliberate precision, having learned that clarity in communication saves lives in the dangerous depths. His dry humor, often directed at those who underestimate the complexity of his work, can be mistaken for coldness by those unfamiliar with mining culture.
+Árevin has the confidence of a craftsman secure in his mastery, yet this certainty has hardened into a certain inflexibility that troubles his relationships with younger miners eager to implement new techniques. He speaks with deliberate precision, having learned that a plain word saves lives underground. His dry humor, often directed at those who underestimate the complexity of his work, can be mistaken for coldness by those unfamiliar with mining culture.
 
 Despite his reputation for gruffness, Árevin harbors a passion for knowledge-sharing. He views teaching as the final great work of his life—a way to keep dangerous mistakes born from ignorance from claiming more apprentices. His loyalty to those who demonstrate respect for the craft borders on fierce protectiveness.
 
 ### Motivation
 
-Árevin drives forward not from ambition or material need, but from a deep conviction that knowledge of the earth—its dangers, its possibilities, its careful balance—belongs to those who would work it responsibly. He fears that the rush for faster extraction and greater profits will lead to catastrophic accidents and the loss of irreplaceable geological knowledge. His true mission is to create a generation of miners who approach the earth as something to be respected and understood, not merely exploited. Legacy matters to Árevin; he wants to be remembered not for the gems he extracted, but for the wisdom he preserved.
+Árevin drives forward not from ambition or material need, but from a deep conviction that knowledge of the earth—its dangers, its possibilities, its careful balance—belongs to those who would work it responsibly. He fears that the rush for faster extraction and greater profits will lead to catastrophic accidents and the loss of irreplaceable geological knowledge. He means to leave a generation of miners who approach the earth as something to be respected and understood, not merely exploited. Legacy matters to Árevin; he wants to be remembered not for the gems he extracted, but for the wisdom he preserved.
 
 ### Strengths
 
 Master Mineralogist
-: Árevin's knowledge of ore composition, gemstone formations, and subsurface geology has no equal in the Kingdom. He can identify deposits by sight and scent, and predict their yield with accuracy.
+: Árevin's knowledge of ore composition, gemstone formations, and subsurface geology has no equal in the kingdom. He can identify deposits by sight and scent, and predict their yield with accuracy.
 
-Physician's Knowledge
-: Decades spent cataloging mineral properties have made him an expert in herbal remedies and mineral-based medicines. Healers consult him on rare compounds.
+Healer's Lore
+: Decades of cataloging minerals have made him knowledgeable in mineral and herbal remedies. Healers consult him on rare compounds.
 
 Engineering Acumen
-: His understanding of structural integrity, water flow, and safe tunnel construction has prevented countless mining disasters. He designs systems of durability.
+: His understanding of structural integrity, water flow, and safe tunnel construction has prevented more than one collapse. He timbers a drift to last.
 
 Master Tracker and Scout
 : His keen awareness and perception allow him to read landscapes and identify hidden resources. Few can match his ability to handle treacherous terrain.
 
-Culinary and Ritual Expertise
-: His knowledge of survival provisions and ceremonial practices provides unexpected depth; miners trust his judgment on both practical survival and spiritual matters.
+Rites of the Stone
+: He knows the provisions of the high country and the rites of his faith, and miners trust his judgment on both.
 
 ### Weaknesses
 
@@ -479,7 +482,7 @@ Dwindling Agility
 : While his strength remains respectable, his reflexes have slowed. Dangerous situations requiring quick movement pose challenges.
 
 Limited Charisma
-: His abrupt manner and technical focus sometimes alienate those outside the mining community. Politicians and merchants find him difficult to negotiate with.
+: His abrupt manner and technical focus sometimes alienate those outside the mining community. Factors and officials find him difficult to bargain with.
 
 Stubborn Pride
 : He struggles to ask for help or admit limitations, viewing such requests as weaknesses rather than practical necessities.
@@ -488,47 +491,44 @@ Stubborn Pride
 
 ### Patrons
 
-[Merchant House Kallinthiros]{.name data-type="affiliation/lineage"}
-: The wealthy gem-trading family relies on Árevin for prospecting expeditions and authentication services. They pay handsomely for his continued consultation.
+The Péravel factors
+: The capital's factors who hold the arrangements for released ground pay Árevin for prospecting and to authenticate the stones the tribes release at the autumn fair.
 
-Master Jeweler [Selyndor the Exquisite]{.name data-type="being/npc"}
-: A master craftsperson who learned her trade partly under Árevin's instruction. She remains his most loyal patron and friend.
+[[being-sheimarathol|Shéimara Thólmarnde]]
+: A goldsmith of Péravel who learned the reading of stones partly from Árevin, and his most loyal patron and friend. She sets what he finds.
 
-[The Royal Engineering Corps of Élavendre]{.name data-type="affiliation"}
-: The Kingdom occasionally contracts Árevin for important mining projects and tunnel assessments for works of state.
+[[affiliation-univperavel|The University of Péravel]]
+: The University's theorists hold that the old lodes are as rich as the king believed, and its surveyors pay Árevin to read samples and maps of the high country.
 
 ### Enemies
 
-Foreman [[being-salvurneauli|Sálvurne]] of the [Deepmine Consortium]{.name data-type="affiliation/venture"}
-: A ruthless operative who views Árevin's safety rules as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
+[[being-salvurneauli|Sálvurne Áulirnde]]
+: The foreman of a working above the town, who treats Árevin's warnings about the timbering of her drift as expensive obstacles to her quota. They have clashed again and again.
 
-[The Industrialists' Council]{.name data-type="affiliation"}
-: A growing faction of younger mine owners who see Árevin's traditionalism as a threat to their plans to dig faster and expand.
+The younger foremen
+: Diggers of the marginal workings who think Árevin's caution old-fashioned, and who profit from his knowledge while saying so.
 
 ### Affiliations
 
-[Miners' Union of Élavendre]{.name data-type="affiliation"}
-: Árevin holds the rank of Senior Advisor and chairs the [Safety Committee]{.name data-type="affiliation"}.
+[[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+: Árevin is a Freeman of the crown.
 
-[Craftspeople's Guild]{.name data-type="affiliation/guild"}
-: Membership in multiple specialized circles including Jewelcrafters and Metallurgists.
-
-The [[affiliation-ardavon|Order of Árdavon]] (Order Aspect)
-: A devout follower who attends ceremonies regularly, finding spiritual meaning in the order inherent in mineral formations.
+The [[affiliation-ardavon|Faith of Árdavon]]
+: A devout follower who keeps the faith's rites and finds the god's order in the order of the stone.
 
 ## Plot Hooks
 
-The Deepmine Disaster
-: Word arrives that the Deepmine Consortium—operating against Árevin's explicit warnings—has collapsed a major tunnel system, trapping dozens of miners. Local authorities ask Árevin to lead a rescue and investigation. He must descend into darkness once more to save lives and prove that his age-old cautions were prescient, all while confronting the physical and emotional toll of returning to active work.
+The Prospectors' Map
+: The prospectors on the ore-road have brought Árevin their map of the King's Cut to read. It is accurate, better than the Wardens' own, and drawn by someone who went above the tree line and came back. He asks a party to learn who drew it before he tells the prospectors what it shows.
 
-The Veins of Whispers
-: A young apprentice presents Árevin with samples of an unprecedented ore formation discovered far beneath the usual mining depths—a mineral that seems to hum with an eerie vibration when struck. The composition defies his extensive knowledge, suggesting either a complete redefinition of geology or something far stranger beneath Élavendre's mountains. Investigation reveals hints of something ancient and possibly dangerous awakening in the deep earth.
+The Rock in the Fleece
+: Silver-bearing rock is coming down off the spoil heaps of the King's Cut by night, and the [[affiliation-alndnwrdns|Wardens]] have seen the tracks. Árevin has seen a piece of it in Sálvurne's yard, and he does not know whether to tell the Wardens, who trust him, or to ask a party to learn first.
 
-The Heir's Validation
-: Merchant House Kallinthiros offers Árevin an enormous contract: prospect an entirely new mountain range on the Kingdom's border, with a team of the finest engineers and guards. The catch: he must validate it before the [[affiliation-byzarianlg|Bizarian League]] can claim it, and political tensions make the expedition a potential powder keg. Árevin must navigate not just treacherous terrain but international intrigue while proving his methods remain vital to the realm.
+The Failing Seal
+: Árevin has read in old records of the deepest adit at the Cut, sealed more thickly than the rest, and he believes the seal is failing. An [[affiliation-ordoarcanis|Order]] scholar wants it opened for the lode he thinks it hides. Árevin wants a party to go up with him and look at the stone before anyone else does.
 
-The Forbidden Depths
-: Árevin discovers references in old mining records to a chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Árevin faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
+The Drift
+: Sálvurne's drift has been cut past the timbering Árevin laid out, and the miners in it say the roof talks at night. If it comes down, the workings on released ground may be closed for a generation, and Árevin asks a party to stand with him when he tells her.
 
-The Apprentice's Betrayal
-: Árevin's most gifted apprentice, [Kenrel Elarven]{.name data-type="being/npc"}, begins secretly selling Árevin's prospecting charts to the Bizarian League, seeking personal wealth and advancement. When Árevin discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.
+The Apprentice
+: Árevin's most gifted apprentice, [Moren Elarven]{.name data-type="being/npc"}, has been selling copies of his master's prospecting drawings to the Order's surveyors. Árevin can break him or ask why, and his own stiffness may be the answer.

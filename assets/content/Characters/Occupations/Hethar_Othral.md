@@ -3,7 +3,8 @@ shortcode: fetharthrl
 name: {full: Hethar Othral}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A potter of Valdun whose kiln yard against the town wall the Border Militia wants for a store."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Hethar Othral is a 35-year-old man who stands 6'1" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a firm chin. His round green eyes sit beneath arched brows, lending him a candid gaze. A narrow nose and full lips complete his features. He has medium-toned skin with a fair complexion. His chestnut hair is tied in a low tail.
+Hethar Othral is a 35-year-old man who stands 6'1" tall and is of medium build. He has an angular face with angular cheekbones, a wide forehead and a rounded jaw that leads to a firm chin. His round green eyes sit beneath arched brows and give him a candid gaze. He has a narrow nose, full lips and medium-toned skin with a clear complexion. His chestnut hair is tied in a low tail, and clay is dry in the creases of his knuckles.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Hethar Othral came into the world of the potter through a combination of circumstance and aptitude.
+Hethar Othral is a potter of [[place-valdun|Valdun]], an [[lore-elavendriclt|Élavendri]] freeman who throws and fires stoneware in a yard inside the town wall.
 
-Hethar is a seasoned potter known for his expertise in creating sturdy stoneware. He has spent years perfecting his techniques and often teaches apprentices in his workshop. Hethar values the practical aspects of pottery and believes in producing items that can withstand daily use. His reputation for quality has earned him a loyal customer base, and he often collaborates with local artisans to create unique pieces.
+He makes what a border town breaks: crocks and jars for the stock fairs' butter and cheese, pitchers for the inns, lamp-bowls for the garrison and the heavy salt-glazed jars the pack-trains carry east. He learned from his father and has taught two apprentices of his own, and he holds that a pot should outlast whoever bought it. The drovers' wives and the innkeepers buy from him because his ware survives a cart.
+
+Valdun's wall encloses the market and the stock pens as well as the houses, and Hethar's kiln stands against it. The kiln is what has drawn trouble to his yard this winter: the sworn company of [[affiliation-brdrmltia|the Border Militia]] wants the ground for a store, and the hill levy says that ground has always been the potters'.
 
 ## Psyche
 
 ### Personality
 
-Can be resistant to new techniques, struggles with modern design trends.
+Hethar is patient, steady and set in his ways. He distrusts new glazes and new men alike until they have proved themselves in the fire.
 
 ### Motivation
 
-Hethar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in potter work keep him vigilant and adaptable.
+He wants the yard and the kiln kept in his family, his apprentices trained properly and his ware known for lasting.
 
 ### Strengths
 
-Experienced, skilled in crafting durable pottery, good mentor.
+He is a skilled and experienced potter, a good teacher and a fair dealer.
+
+### Weaknesses
+
+He resists change, and he will lose a customer rather than make a pot the way the customer wants it.
 
 ## Social
 
-Hethar is affiliated with the local [Potters' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As an Élavendri potter, Hethar occupies a recognized social niche within Élavendre society.
-
-## Companions
+His two apprentices and the innkeepers who drink his ale out of his own pitchers.
 
 ### Patrons
 
-Hethar's primary patrons are local families and restaurants seeking durable pottery. This relationship provides both opportunity and obligation.
+The households, inns and garrison of Valdun, and the pack-masters who buy jars for the eastern road.
 
 ### Enemies
 
-Few; generally respected but sometimes seen as traditionalist.
+The militia's quartermaster, who wants his yard.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Hethar is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Potter's Dilemma
-: Hethar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+The Kiln Yard
+: [[being-elenorthaurn|Captain Élenor Thaurnde]]'s quartermaster has marked Hethar's yard for a store, and [[being-jeldormorlin|Jeldor Mórlineth]] has told Hethar to refuse. The potter asks a party to find a paper that says whose the ground is before the two captains settle it over his kiln.
 
-Old Grudges
-: Few; generally respected but sometimes seen as traditionalist. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Sealed Jar
+: A pack-master bought a dozen of Hethar's heavy jars sealed and paid twice the price for wax seals of his own. One came back broken from the east road, and what spilled from it was not oil.
 
-Echoes of the Past
-: Something from Hethar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Hethar depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Hethar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Imperial Shard
+: The hill hunter who brought in the unrusted helmet also brought a shard of glazed ware that Hethar cannot match and the [[affiliation-ordoarcanis|Order]]'s antiquarians want badly. The hunter left it with Hethar to price.

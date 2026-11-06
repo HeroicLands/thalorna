@@ -3,7 +3,8 @@ shortcode: paliavldrn
 name: {full: Palva Véldarin}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A housekeeper of Kélpasi, twenty years in Valdun's great houses, who keeps the hearth of her brother the missing Speaker to the Lowlands."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [kelpasi]
-  affiliations: {kngdmlvndr: {rank: 2}, lizelas: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, thrglnklps: {rank: 1}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
   born: "674.100"
@@ -393,55 +394,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Palva Véldarin is a 45-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with broad cheekbones, a prominent forehead, and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows and give her a candid gaze. She has a slightly upturned nose and full lips. She has tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs.
+Palva Véldarin is a 45-year-old woman who stands 6' tall and is of medium build. She has a diamond face with broad cheekbones, a prominent forehead and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows and give her a candid gaze. She has a slightly upturned nose, full lips and tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs, and a tattoo of a bird in flight on her left shoulder dates from a younger and less careful year.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Palva Véldarin is a domestic servant.
+Palva Véldarin is a housekeeper of [[place-kelpasi|Kélpasi]], the hidden village in a fold of the [[place-auldalon|Áuldalon]] hills, an [[lore-elavendriclt|Élavendri]] freewoman who spent twenty years in service in the great houses of [[place-valdun|Valdun]] and came home to keep her brother's hearth.
 
-Palva has been a housemaid for several prominent families over her life. She now works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, and often takes on extra tasks to keep the household running smoothly. She is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
+She went down to the town at nineteen and rose to run the household of a lord of the march, with a dozen servants under her and the keys to every press. She was diligent, exact and feared by every junior maid who ever skimped a floor. When her brother's wife died she came home to Kélpasi to keep his house and raise his children, and she runs it as she ran the lord's.
+
+Her brother is the Speaker to the Lowlands. He took the village's winter cloth down to Valdun and has not come back, and the [[affiliation-thrglnklps|Thárgalon]] cannot choose another Speaker while his hearth has no voice at the spring. His eldest son is twelve.
 
 ## Psyche
 
 ### Personality
 
-She can be overly strict with junior servants, and has little patience for laziness.
+Palva is stern, capable and impatient with idleness. She is kinder than her manner and does not let it show.
 
 ### Motivation
 
-Palva wants the estate run properly and her place in it secure until she is too old to hold it.
+She wants her brother home, his children kept and his hearth's place in the council held until he comes. She knows the great houses of Valdun better than anyone in the village, and means to use it.
 
 ### Strengths
 
-She is skilled in household management, and can keep many tasks going at once.
+She manages a household of any size, keeps many tasks going at once and knows how the servants of a great house talk.
+
+### Weaknesses
+
+She is strict to the point of making enemies, and she has no standing of her own at the spring.
 
 ## Social
 
-Palva belongs to no guild, and is loyal only to her current employer.
+### Companions
 
-## Companions
+Her brother's three children, and a maid she trained in Valdun who still writes to her.
 
 ### Patrons
 
-Palva's patron is the noble family she currently serves.
+The lord of the march she served, whose steward still owes her a reference and a favor.
 
 ### Enemies
 
-Few; most respect her work, but some junior servants resent her strictness.
+A sorhand of the village who wants the Speaker's office for his own hearth and says a woman who lived twenty years in the lowlands cannot speak for a Kélpasi one.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Palva is a Freeman of the crown.
+- **[[affiliation-thrglnklps|Thárgalon of Kélpasi]]**: She is a Villager of Kélpasi.
 
 ## Plot Hooks
 
-The Domestic Servant's Dilemma
-: Palva learns something about the nobleman she serves that a loyal servant would keep and an honest one would not.
+The Voice at the Spring
+: Palva has asked the Thárgalon to let her speak for her brother's hearth until he returns, which no woman of the village has done. The council has not answered, and the sorhand who wants the office asks a party to learn something about her years in Valdun that will settle it.
 
-Old Grudges
-: A junior servant Palva dismissed for laziness has found a place in a household that visits the estate.
+The Servants' Gossip
+: The maid Palva trained writes that a cloth-buyer in Valdun has been selling Kélpasi cloth under his own name and that the Speaker was seen in his yard. Palva asks a party to go down with her and ask in the kitchens rather than the halls.
 
-Echoes of the Past
-: One of the prominent families Palva once served comes to the estate as guests, and one of them remembers her.
-
-Shifting Winds
-: Political change in Élavendre threatens the nobleman Palva serves, and she can adapt, resist, or leave.
-
-The Opportunity
-: A greater house offers Palva the running of its whole household, and taking it would mean leaving the employer she has given her loyalty to.
+The Priest at the Door
+: The priest from the lowlands has reached the village a week early, and nobody met him at the last bend. He has asked for lodging at the Speaker's house, and Palva must keep him there until the Thárgalon decides what to do.

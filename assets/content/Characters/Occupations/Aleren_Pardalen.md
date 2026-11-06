@@ -3,6 +3,7 @@ shortcode: alernprdln
 name: {full: Áleren Párdalen}
 type: being
 subType: npc
+description: "The shaman of Sóurimel, a plain-spoken former hunter who keeps the village's observance and is heard at the Moot of the Silver Forests."
 tags: [clergy]
 data:
   icon: icon-person
@@ -415,7 +416,7 @@ Skilled mediator, experienced in practical ritual and in settling quarrels.
 
 ## Social
 
-Áleren sits on the [[affiliation-mtslvrfrsts|Moot of the Silver Forests]], the seasonal gathering of the shamen whose tribes touch the Silver Forests, where he is respected for his judgment and disliked for his tongue.
+Áleren is heard at the [[affiliation-mtslvrfrsts|Moot of the Silver Forests]] on matters of Sóurimel's own ground. The Moot is the seasonal gathering of the shamen whose tribes touch the Silver Forests, and a village shaman holds no seat there. There he is respected for his judgment and disliked for his tongue.
 
 ## Companions
 

@@ -3,6 +3,7 @@ shortcode: thalrkhlrn
 name: {full: Thalrik Halren}
 type: being
 subType: npc
+description: "A woodcutter of Port Aelion who has worked the licensed slopes above the harbor for thirty years and will not fell what the stand cannot spare."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -392,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thalrik Halren is a 45-year-old man who stands 6'5" tall and is broad and solidly built. He has an angular face with high cheekbones, a broad forehead, and a sharp jaw that leads to a delicate chin. His large green eyes sit beneath thin brows and give him an expressive gaze. He has a slightly upturned nose and full lips. He has pale skin with a flawless complexion. His blonde hair is long and gathered with a leather thong.
+Thalrik Halren is a 45-year-old man who stands 6'5" tall and is broad and solidly built. He has an angular face with high cheekbones, a broad forehead, and a sharp jaw that leads to a delicate chin. His large green eyes sit beneath thin brows and give him an expressive gaze. He has a slightly upturned nose and full lips. He has pale skin with a clear complexion and a scar along the jawline. His blonde hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
@@ -416,7 +417,7 @@ Physically strong, experienced in forestry, knowledgeable about which trees to f
 
 ## Social
 
-Thalrik belongs to the [Woodcutters' Guild]{.name data-type="affiliation/guild"}, which holds his license and settles his disputes. He keeps a hut above Port Aelion rather than a house in it.
+Thalrik belongs to no guild. His license is the crown's forest court's at Liranel, and his disputes go to it. He keeps a hut above Port Aelion rather than a house in it.
 
 ## Companions
 

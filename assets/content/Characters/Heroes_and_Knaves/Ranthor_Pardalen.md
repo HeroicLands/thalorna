@@ -3,6 +3,7 @@ shortcode: rnthrprdln
 name: {full: Ranthor Párdalen, given: Ranthor, clan: Párdalen}
 type: being
 subType: character
+description: "A former knight of the march turned healer and spirit-worker at Valdun, counselor to an Áelendan chieftain and the crown's go-between at the margin."
 tags: [heroes-and-knaves, clergy]
 data:
   icon: icon-person
@@ -418,21 +419,23 @@ sohl:
 
 ![[rnthrprdln|Ranthor Párdalen]]{float=top-left}
 
-Ranthor stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, and rounded cheeks. He has a tattoo of a crown on his chest.
+Ranthor Párdalen is a 47-year-old man who stands 5'9" tall and is of medium build. He has a long face with a button nose, a prominent chin, dark brows and rounded cheeks. His brown eyes are patient, and his tanned skin is weathered by years of riding the march. His dark brown hair is tied back with a thong, and a tattoo of a crown shows on his chest at the open neck of his shirt.
 
 # Dossier {#dossier}
 
-**Service in Stone and Strife**
+**Service in Arms**
 
-Ranthor Párdalen came to shamanism through a path of warrior service, hard experience, and practical necessity. In his youth, he served the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] as a soldier and guard, eventually rising to significant rank in the royal forces. During a campaign against hostile tribal forces, he was captured and held by shamans of the enemy tribe who recognized in him a latent spiritual sensitivity that his martial training had suppressed. Rather than executing him, they inducted him into their shamanic traditions, believing that his warrior nature and spiritual capacity could be molded into something valuable. When he was eventually ransomed and released, Ranthor returned to Élavendre but found that something fundamental had shifted within him; he could no longer serve purely as a warrior, nor could he ignore the spiritual dimensions of existence he now perceived.
+Ranthor Párdalen came to the spirit-ways by a road of soldiering, hard experience and need. In his youth he served the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] in arms on the eastern march and rose to knighthood and a captain's charge. During a campaign against [[lore-grukarfolk|Grukar]] bands in the hills he was wounded and lost beyond the tree line, and he was found dying by [[lore-aelendnppl|Áelendan]] hunters. Their healers, the elder [[being-serdaleliser|Sérdale Lísernde]] among them, kept him through a winter, and saw in him a sensitivity to the spirits that his soldiering had buried. They taught him what a lowlander may be taught. When he came back down to the march in the spring, he could no longer serve purely as a soldier, nor ignore what he had begun to perceive.
 
-**The Pragmatist's Path**
+**The Practical Path**
 
-He eventually left the kingdom's service and sought out the Kingdom of Élavendre's shamanic traditions, eventually establishing himself as a shaman who bridges the gap between the mystical and the martial worlds. Where other shamans focus on ecstatic experiences, divine communion, and arcane knowledge, Ranthor built his practice around practical applications: using shamanic techniques to heal wounds, mediate disputes, prepare warriors for battle through ritual and steadiness of mind, and dealing with political currents with the cunning he learned both in royal service and in shamanic training. Now in his late forties, he sits on the [Tribal Council of Shamans]{.name data-type="affiliation/governmental"} and acts as a primary liaison between the shamanic order and the kingdom's military and political leadership.
+He left the crown's service and settled at [[place-valdun|Valdun]], and built a practice as a healer and spirit-worker that bridges the soldier's world and the shaman's. Where other spirit-workers seek ecstasy, communion and secret lore, Ranthor uses what he learned for practical ends: healing wounds, settling disputes, steadying fighters before a fight, and carrying word between the march and the tribes with the cunning he learned in two kinds of service. Now in his late forties, he counsels the chieftain [[being-ulmeraosseln|Úlmera Ósselnde]] and sits by her side at the great council at [[place-eshalshldg|Ésalosa Lodge]] when it hears the crown's business, and he is the man the crown's officers on the march send for when a quarrel with the tribes must not become a fight.
 
 **The Crown and the Question**
 
-The crown tattoo on his chest remains a point of speculation. One rumor holds that Ranthor was nobility in his past, possibly even royal blood, and that he abandoned his position for spiritual reasons. Another holds that the crown represents something he claims from the spirits themselves. Ranthor addresses the question rarely, offering only that he once served crowns and now serves the tribe instead, and that this represents spiritual growth rather than loss.
+The tattoo of a crown on his chest is a matter of speculation in Valdun. One story makes him of noble or even royal blood, a man who gave up his place for the spirits; another says the crown is something the spirits gave him. Ranthor says only that he once served crowns and now serves the tribes as well, and that this is growth and not loss.
+
+Valdun is long on opinions this year. Men hired by the [[affiliation-ordoarcanis|Order]] come back over the margin hurt and complain to the royal court that they were never warned, and [[being-vargenhalmes|Lord Vargen Hálmesende]] says in company that the tribes' ground should be opened to the crown's roads. Both put Ranthor's work at risk.
 
 ## Psyche
 
@@ -444,7 +447,7 @@ He has a sharp intelligence and real compassion for those who suffer, though he 
 
 ### Motivation
 
-Ranthor is motivated by a commitment to prevent the suffering he experienced in the conflicts between his former military service and the shamanic communities. He works tirelessly to build peace and understanding between the kingdom's government and the tribes, believing that spiritual wisdom and martial strength can and should be integrated rather than placed in opposition. He is driven by pragmatic belief that the shamanic arts are most valuable when applied to real human problems—healing injuries, resolving conflicts, preparing minds and spirits for necessary struggle—rather than being divorced into pure mysticism. Beyond these larger commitments, he is motivated by personal loyalty to those who have aided him, and by a quiet desire to mentor younger shamans (both traditional and pragmatic) in the integration of martial discipline with spiritual practice.
+Ranthor is motivated by a commitment to prevent the suffering he experienced in the conflicts between his former military service and the shamanic communities. He works tirelessly to build peace and understanding between the crown and the tribes, believing that spiritual wisdom and martial strength can and should be integrated rather than placed in opposition. He is driven by pragmatic belief that the shamanic arts are most valuable when applied to real human problems—healing injuries, resolving conflicts, preparing minds and spirits for necessary struggle—rather than being divorced into pure mysticism. Beyond these larger commitments, he is motivated by personal loyalty to those who have aided him, and by a quiet desire to mentor younger shamans (both traditional and pragmatic) in the integration of martial discipline with spiritual practice.
 
 ### Strengths
 
@@ -475,7 +478,7 @@ Limitations in Work
 : He is significantly less capable than purely mystical shamans at accessing the deepest levels of spirit realm communion, astral projection, or pure visionary work.
 
 Isolation Among Peers
-: His unconventional approach and skepticism have made him somewhat isolated from the broader shamanic community; he lacks the deep support among fellow shamans that others enjoy.
+: His plainness and skepticism leave him isolated among the spirit-workers of the tribes, and he lacks the support among them that a born Áelendan would have.
 
 Vulnerability to Emotional Isolation
 : His commitment to pragmatism and distance can mask deep loneliness; he allows few people close enough to truly know him.
@@ -490,50 +493,47 @@ Underestimation of Subtle Threats
 
 ### Patrons
 
-Chief [[being-ulmeraosseln|Úlmera]]
-: The current tribal leader who relies on Ranthor for counsel on matters both spiritual and martial; they have worked together for two decades and maintain deep trust despite their different temperaments.
+[[being-ulmeraosseln|Chief Úlmera Ósselnde]]
+: The chieftain who relies on Ranthor for counsel on matters both spiritual and martial. They have worked together for two decades and trust each other deeply despite their different tempers.
 
-Captain [[being-chenirahares|Chénira]]
-: A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes. She and Ranthor maintain a formal relationship with hints of deeper mutual respect and perhaps unresolved personal history.
+[[being-chenirahares|Captain Chénira Háresende]]
+: The crown's Liaison to the Tribes, a decorated officer who carries the crown's word to the Áelendan from the gate-house at Gandelis. She and Ranthor keep a formal relationship with hints of deeper respect, and perhaps of an unresolved history.
 
-Elder Healer [[being-serdaleliser|Sérdale]]
-: The oldest and most respected pure mystic shaman in the tribe who, despite their different approaches, respects Ranthor's results and refers patients to him for practical healing when her own spiritual work is insufficient.
+[[being-serdaleliser|Elder Healer Sérdale Lísernde]]
+: The oldest and most respected healer of Úlmera's tribe, who nursed him through his winter beyond the tree line. She refers patients to him for practical healing when her own work is not enough, and he is the one lowland healer she trusts.
 
 ### Enemies
 
-Traditionalist Shamans' Faction
-: Led by elder shamans like [Farlen the Keeper]{.name data-type="being/npc"}, this faction views Ranthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
+The elders of the fire
+: Elders of the tribes, led by the old spirit-keeper [Dolmir]{.name data-type="being/npc"}, who hold that no lowlander should sit at the council fire and ask whether the crown on his chest marks a man who still serves the kingdom.
 
-Kingdom Hardliners
-: Military commanders and courtiers within Élavendre who view Ranthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
+The hard men of the march
+: Officers and lords of the eastern march who think Ranthor's bridging work disloyal and his spirit-work a desertion of his old oath.
 
-Lord [[being-vargenhalmes|Vargen]]
-: An ambitious noble with ties to dark magic and military ambition who views Ranthor's peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have Ranthor discredited or eliminated.
+[[being-vargenhalmes|Lord Vargen Hálmesende]]
+: An ambitious lord of the march, rumored to have ties to dark magic, who wants the tribes' ground opened to the crown's roads and sees Ranthor's peace-brokering as the obstacle. He has twice tried to have Ranthor discredited or removed.
 
 ### Affiliations
 
-Tribal Council of Shamans
-: Ranthor is a full council member and is often called upon as the tie-breaker in disputes between mystical and practical factions.
+[[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+: Ranthor holds a knight's standing from his service, and the crown's officers on the march recognize and sometimes pay for his work with the tribes.
 
-The [[affiliation-kngdmlvndr|Crown of Élavendre]]
-: Though not formally part of the kingdom's government, Ranthor has the crown's official recognition and occasional funding for his peace-brokering work.
-
-[The Order of Balanced Stone]{.name data-type="affiliation/order"}
-: An ancient and secretive organization of shamans who believe in integration of martial and mystical traditions; Ranthor is suspected of membership, though he neither confirms nor denies it.
+[[affiliation-brazemas|Faith of Brazemas]]
+: He keeps the storm god's rites, as a soldier of the march does.
 
 ## Plot Hooks
 
-The Crown's True Story:
-: A royal emissary from the Kingdom of Élavendre arrives seeking Ranthor's assistance with a diplomatic crisis, and in conversation references details about Ranthor's past military service that he has never shared publicly. The emissary hints that Ranthor may have fled the kingdom under complicated circumstances, possibly involving a scandal or failure. Ranthor neither confirms nor denies the suggestion, but the party is drawn into investigating his history and the true meaning of the crown tattoo. He may be a disgraced noble, a traitor to the kingdom, or a man who was framed; the truth—if revealed—could either vindicate him or destroy the careful peace he has built between kingdom and tribe.
+The Crown's True Story
+: An envoy from the court at Péravel has come to Valdun seeking Ranthor's help with a quarrel at the margin, and in passing mentions details of his old service that he has never told. The envoy hints that Ranthor left the crown's service under a cloud, and the party is drawn into learning what the crown on his chest means. The truth could vindicate him or end the peace he has built.
 
-The Impossible Dispute:
-: Two communities in a conflict that threatens the survival of both approach Ranthor through neutral channels with an offer: if he mediates and achieves peace, they will grant him something he has long desired (perhaps information about his past, perhaps territory, perhaps spiritual knowledge). The problem is that this particular conflict involves irreconcilable moral positions—one side must be fundamentally wrong, and compromise means both sides become partially complicit in evil. Ranthor's famed ability to find middle ground is tested to its limits, and the party is drawn into helping him through a situation where his pragmatic approach may not be enough.
+A Complaint the Court Does Not Hear
+: A hired guard back from the interior with a Warden's arrow-wound wants witnesses to swear before [[being-ilseviletirv|Magistrate Ílsevile Tírvalnde]] that he was never warned. Ranthor knows the Warden who shot him, and asks a party to go with him to the margin and find the warning-mark before the court sits.
 
-The Shamanic Civil War:
-: Internal tensions within the Tribal Council of Shamans erupt into open conflict between the traditionalist faction and Ranthor's pragmatist faction. The traditionalists attempt to have Ranthor expelled from the council, claiming he has betrayed core shamanic principles through his association with the kingdom and his skepticism toward pure mysticism. Ranthor is forced to defend his work and his honor, but he refuses to engage in the kind of political maneuvering necessary to win the conflict. The party can help Ranthor through shamanic politics or stand aside and let him face the consequences of his refusal to play the game.
+The Road Beyond the Tree Line
+: Lord Vargen has brought an Order surveyor to Valdun and means to send him beyond the margin with an armed escort to "prove the ground". Ranthor asks a party to go with the escort and bring it back before it reaches a place where the Wardens will not ask twice.
 
-The Kingdom's Dark Turn:
-: Ranthor receives information suggesting that elements within the Kingdom of Élavendre are preparing for aggressive expansion against tribal lands, and that his peace-brokering work has been deliberately used as cover for military preparation. He also discovers that some of his students and allies may be being used as unwitting spies. Faced with the possibility that his life's work of building peace has been corrupted and used as camouflage for warmongering, Ranthor can inform the tribes and risk war, or secretly investigate and attempt to prevent the expansion without revealing that the kingdom's intentions have been discovered.
+The Elders' Challenge
+: Dolmir and the elders of the fire have asked the great council to bar Ranthor from it. He will not argue for himself, and Úlmera asks a party to learn who among the lowlanders has been feeding Dolmir stories about the tattoo.
 
-The Spirit's Contract:
-: Ranthor is visited by a powerful spirit that claims to have watched over him throughout his life and is now calling in an old debt: the spirit demands that Ranthor perform a ritual that will require significant personal sacrifice, and that will have great consequences for the balance of power between kingdom and tribe. The spirit refuses to explain why this ritual is necessary or what will happen if Ranthor refuses. Ranthor's pragmatism and spiritual commitment come into direct conflict, and he cannot tell whether he is being manipulated by a hostile entity claiming to be benevolent, or whether he truly does owe a debt beyond his current understanding.
+The Spirit's Debt
+: A spirit that says it watched over Ranthor in his winter beyond the tree line has come to call in a debt: a rite that will cost him dearly and change the balance between the march and the tribes. It will not say why. Ranthor cannot tell whether he is being used by something hostile or owes more than he knows.

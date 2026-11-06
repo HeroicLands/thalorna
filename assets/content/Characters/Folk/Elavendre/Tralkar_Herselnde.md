@@ -39,7 +39,7 @@ Tralkar Hérselnde is a 43-year-old man who stands 6'0" tall and is of heavy bui
 
 Tralkar Hérselnde is a successful merchant captain of [[place-portaelion|Port Aelion]] whose ship ignored the warnings of [[being-tarelblthl|Tárella Pelthal]] and met disaster. An investigation absolved her, but he still holds her responsible for his lost crew and missing cargo, and spreads the story that her predictions are unreliable.
 
-The [Mariners' Guild of Port Aelion]{.name data-type="affiliation/guild"} governs the maritime interests of the region, and Tralkar sits among its captains. The town's own people treat as plain fact what outsiders dismiss as sailors' tales: tides that follow their own rhythms, and travelers who vanish into the mist and reappear days later. He lost his crew in that kind of weather and will not use the word.
+The harbor's captains sit together in a mariners' guild that the [[affiliation-twncnclprtaln|Town Council]] hears on every question of the wharves, and Tralkar is one of them. The town's own people treat as plain fact what outsiders dismiss as sailors' tales: tides that follow their own rhythms, and travelers who vanish into the mist and reappear days later. He lost his crew in that kind of weather and will not use the word.
 
 ## Psyche
 
@@ -67,7 +67,7 @@ His surviving mates and the widows of the crew he lost, whom he supports.
 
 ### Patrons
 
-The Mariners' Guild, which has taken no side.
+The mariners' guild, which has taken no side.
 
 ### Enemies
 

@@ -39,7 +39,7 @@ Kélvase Halren is a 47-year-old woman who stands 5'6" tall and is of heavy buil
 
 Kélvase Halren is the reeve of [[place-heligstrom|Hélithron]], a village of about 300 in the licensed forest of [[place-lirve|Lirve]], a few miles from [[place-liranel|Liranel]]. The village elects her each spring to keep its coppice rights, its hauling roster and its tally against the forest court at Liranel, whose tally-house measures every licensed stem the village cuts. She is a woman of the Halren woodcutting families of the coast.
 
-The village has strangers on its road. Men nobody in Hélithron knows have been seen watching the way through the village, and the alchemist [[being-sevnmyrkls|Sevren Mírkelis]] of Liranel, whose remedies come by that road, says they are the men of [Kervan Redblade]{.name data-type="being/npc"}, a warlord and privateer he once refused. Kélvase does not care whose men they are. The hauling season begins at the thaw, and the village's carts go down that road to the yards every day of it.
+The village has strangers on its road. Men nobody in Hélithron knows have been seen watching the way through the village, and the alchemist [[being-sevnmyrkls|Sevren Mírkelis]] of Liranel, whose remedies come by that road, says they are the men of [Úrthaven Tárvenel]{.name data-type="being/npc"}, a captain of hired guards out of Liranel whom he once refused. Kélvase does not care whose men they are. The hauling season begins at the thaw, and the village's carts go down that road to the yards every day of it.
 
 ## Psyche
 

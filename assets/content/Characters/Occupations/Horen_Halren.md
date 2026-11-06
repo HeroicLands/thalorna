@@ -3,6 +3,7 @@ shortcode: khornhalrn
 name: {full: Horen Halren}
 type: being
 subType: npc
+description: "The crown's serjeant at Liranel, a veteran of the Lirve levy who keeps the peace of the forest court."
 tags: [soldiery]
 data:
   icon: icon-person

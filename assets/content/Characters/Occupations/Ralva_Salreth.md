@@ -3,7 +3,8 @@ shortcode: rhalizlrth
 name: {full: Ralva Salreth}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A river pilot of Sirlathen, next on the fellowship's roll for the Vilérian hull off the bar."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +12,8 @@ data:
   occupation: Pilot
   lore: []
   culture: elavendriclt
-  homes: [liranel]
-  affiliations: {kngdmlvndr: {rank: 5}, pozeras: {rank: 1}}
+  homes: [sirlathen]
+  affiliations: {kngdmlvndr: {rank: 2}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: "688.4"
@@ -396,57 +397,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Ralva Salreth is a 31-year-old woman who stands 5'7" tall and is of moderate build. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A narrow nose and narrow lips complete her features. She has tanned skin with a smooth complexion. Her blonde hair is twisted into an elaborate arrangement.
+Ralva Salreth is a 31-year-old woman who stands 5'7" tall and is of medium build. She has an angular face with soft cheekbones, a broad forehead and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows and give her a watchful gaze. She has a narrow nose, narrow lips and tanned skin with a smooth complexion. Her blonde hair is braided tight under an oilskin hood, and a tattoo of a skull on her upper arm marks the year she came closest to drowning.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a noble family of [[lore-elavendriclt|Élavendri]] heritage, Ralva Salreth came into the world of the pilot through a combination of circumstance and aptitude.
+Ralva Salreth is a river pilot of [[place-sirlathen|Sirlathen]], the pilots' village at the mouth of [[place-beravriver|the Berav]], an [[lore-elavendriclt|Élavendri]] freewoman whose house holds a place on the roll of the pilots' fellowship.
 
-Captain Elysia is an experienced pilot known for her navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Elysia is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
+Every child of Sirlathen learns the shoals before learning to read, and Ralva learned them from her father, whose place on the roll she took when his eyes failed. She brings sea-going hulls the fifteen miles up to [[place-beravel|Péravel]] on the flood and takes them down on the ebb, and she is known for keeping her head when the channel has moved and the hull has not. She is cautious with a strange ship, delegates nothing on the deck and teaches the younger pilots whether they ask or not.
+
+The fellowship's present trouble is hers too. A deep-hulled trader out of Viléria lies off the bar asking for a pilot, with eleven men on deck who are not sailors, and the Master Pilot, [[being-maerendilsev|Máerendand Ílsevende]], has been told in a letter on the University's paper to take it up on the night tide without a count. Ralva is next on the roll.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, struggles with delegating tasks.
+Ralva is calm, exact and overcautious. She trusts her soundings more than her orders.
 
 ### Motivation
 
-Ralva is driven by the desire to master her craft and secure a stable future. The uncertainties of life in pilot work keep her vigilant and adaptable.
+She wants her house's place on the roll kept and the channel kept safe. She wants no part in a passage the harbor-clerk has not counted.
 
 ### Strengths
 
-Highly skilled navigator, composed under pressure, good mentor.
+She is a highly skilled pilot, composed under pressure and a good teacher.
+
+### Weaknesses
+
+She will not delegate, and she says no to the Master Pilot more often than a pilot should.
 
 ## Social
 
-Ralva is affiliated with the local [Pilots' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As an Élavendri pilot, Ralva occupies a recognized social niche within Élavendre society.
-
-## Companions
+The pilots asleep in the fellowship's hall, and her father, who still reads the bar from the dune.
 
 ### Patrons
 
-Ralva's primary patrons are merchants and adventurers seeking reliable air travel. This relationship provides both opportunity and obligation.
+The pilots' fellowship and the Master Pilot, who assign her hulls.
 
 ### Enemies
 
-Few; well-respected, but may face rivalry from less experienced pilots.
+None of her own. A younger pilot who wants her place on the roll.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Ralva is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Pilot's Dilemma
-: Ralva faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Night Tide
+: The Master Pilot has put Ralva's name to the Vilérian hull. She will take it up only with witnesses aboard who answer neither to the University nor to the crown, and she asks a party to be those witnesses.
 
-Old Grudges
-: Few; well-respected, but may face rivalry from less experienced pilots. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Harbor-Clerk
+: The crown's harbor-clerk has noticed that the fellowship is hiding something and has asked Ralva, as the pilot most likely to tell him, what it is. She does not know whom she would be betraying.
 
-Echoes of the Past
-: Something from Ralva's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Ralva depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Ralva the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Moving Channel
+: The channel has moved more this winter than in any year on the fellowship's roll of soundings, and a pilot ran a barge aground where the roll says there is water. Ralva thinks someone has altered the roll.

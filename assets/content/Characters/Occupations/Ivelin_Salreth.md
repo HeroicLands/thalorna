@@ -3,7 +3,8 @@ shortcode: ivlynzlrth
 name: {full: Ívelin Salreth}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A woodcarver by Valdun's east gate who sells keepsakes to pack-masters and to the Order's fellows bound for the interior."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,55 +394,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Ívelin Salreth is a 28-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with angular cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows and give her a candid gaze. She has a delicate nose and thin lips. She has fair skin with a fair complexion. Her gray hair is twisted into an elaborate arrangement.
+Ívelin Salreth is a 28-year-old woman who stands 5'10" tall and is of light build. She has a heart-shaped face with angular cheekbones, a broad forehead and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows and give her a candid gaze. She has a delicate nose, thin lips and fair skin with a clear complexion. Her hair went gray before she was twenty, and she wears it twisted up and held with a carved pin of her own making.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Ívelin Salreth is a woodcrafter.
+Ívelin Salreth is a woodcarver of [[place-valdun|Valdun]], an [[lore-elavendriclt|Élavendri]] freewoman with a small workshop by the east gate, where the pack-trains form up.
 
-Ívelin grew up near a dense forest and spent her childhood learning to carve simple wooden toys. As she grew older she took on larger and more detailed pieces, including furniture and decorative carvings. Her work is known for its natural motifs, often drawn from the local flora and fauna. She enjoys trying different woods to find the best material for each piece.
+She grew up on a steading below the old wood and learned to carve on toys for her cousins, then on chests, settles and the carved door-posts the hill families like. Her work is known for its natural motifs, bramble and hazel, hare and hound, cut so close to the life that buyers run their thumbs over them. She tries every wood she can get to find the right one for each piece, and she takes longer over a piece than she promised, every time.
+
+Her best customers are the pack-masters who cross the march, who buy a carved box or a cup as a gift for the far end of the road, and the [[affiliation-ordoarcanis|Order]]'s fellows, who pass through the east gate on their way to the interior and buy her carvings as keepsakes. Some of them do not come back for the pieces they ordered.
 
 ## Psyche
 
 ### Personality
 
-She is prone to perfectionism, and can take longer than expected to finish a piece.
+Ívelin is quiet, absorbed and a perfectionist. She is easier with wood than with customers.
 
 ### Motivation
 
-Ívelin wants each piece to be the best the wood allows, and her workshop to stay her own.
+She wants each piece to be the best the wood allows, and her workshop to stay her own.
 
 ### Strengths
 
-She is creative, skilled in working with many kinds of wood, and exact in her carving.
+She is creative, skilled in working many kinds of wood and exact in her carving.
+
+### Weaknesses
+
+She is slow, she misses dates, and she will not sell a piece she thinks unfinished.
 
 ## Social
 
-Ívelin belongs to no guild and prefers to work alone in her small workshop.
+### Companions
 
-## Companions
+The pack-masters who gather at the east gate, and an old joiner who lends her his tools.
 
 ### Patrons
 
-Ívelin's patrons are the local artisans and travelers who admire her style.
+Travelers on the east road and the Order's fellows who pass through the gate on their way to the interior.
 
 ### Enemies
 
-Few, though some other woodcrafters see her as competition.
+A carver in the market who copies her motifs and sells the copies as hers.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Ívelin is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Woodcrafter's Dilemma
-: A traveler orders a piece from Ívelin that must be done by a date she cannot meet without finishing it worse than she would, and the price would keep the workshop for a year.
+The Unclaimed Box
+: An Order fellow paid half for a carved box and went into the interior in the autumn. He has not come back for it, and a man who says he is his brother has come to claim the box and asks what the fellow said about where he was going.
 
-Old Grudges
-: A woodcrafter who sees Ívelin as competition has begun copying her natural motifs and selling the copies as hers.
+The Wood from the Margin
+: A hill hunter sold Ívelin a log of a wood she has never seen, pale and close-grained, and it carves like nothing else. He will not say where it grew, and the [[affiliation-alndnwrdns|Wardens]] at the margin cut nothing.
 
-Echoes of the Past
-: One of the toys Ívelin carved as a child turns up in a traveler's pack, and the traveler wants to know who made it.
-
-Shifting Winds
-: Political change in Élavendre threatens the travelers' trade Ívelin's workshop depends on, and she can adapt, resist, or leave.
-
-The Opportunity
-: A guild of woodcrafters offers Ívelin membership and a larger shop, on condition that she stop working alone.
+The Copies
+: The market carver's copies have reached [[place-beravel|Péravel]] under her name, and a buyer there complains that they split. Ívelin asks a party to find where he sells and buy one to prove the difference.

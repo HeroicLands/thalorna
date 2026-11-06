@@ -39,7 +39,7 @@ data:
 
 Áimeline Úlmernde is a minor noblewoman of [[place-liranel|Liranel]] with a keen interest in alchemical remedies. She suffers from a rare blood disorder and commissions tonics and elixirs from [[being-sevnmyrkls|Sevren Mírkelis]], one of whose patrons she is. Her house holds a modest estate near the forest town and sits low in the order of precedence.
 
-Sevren's way into the town runs through [[place-heligstrom|Hélithron]], where the men of Jarl Kervan Redblade have been seen lurking, and the alchemist will not walk it alone. Her tonics are late, and she has begun to ration them.
+Sevren's way into the town runs through [[place-heligstrom|Hélithron]], where the men of [Úrthaven Tárvenel]{.name data-type="being/npc"}, a captain of hired guards out of Liranel, have been seen watching the road, and the alchemist will not walk it alone. Her tonics are late, and she has begun to ration them.
 
 ## Psyche
 
@@ -71,7 +71,7 @@ She is Sevren Mírkelis's patron.
 
 ### Enemies
 
-Kervan Redblade, whose men watch the road her tonics travel.
+Úrthaven Tárvenel, whose men watch the road her tonics travel.
 
 ### Affiliations
 

@@ -3,7 +3,8 @@ shortcode: sdrkmrlnth
 name: {full: Sedrik Mórlineth}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "The jailer of Liranel, who keeps the cells under the court hall for the royal court and the forest court."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -395,57 +396,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Sedrik Mórlineth is a 48-year-old man who stands 6'3" tall and is broad and solidly built. He has a long face with soft cheekbones, a lined forehead, and a rounded jaw that leads to a firm chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A narrow nose and narrow lips complete his features. He has light skin with a weathered complexion. His black hair is long and gathered with a leather thong.
+Sedrik Mórlineth is a 48-year-old man who stands 6'3" tall and is of heavy build. He has a long face with soft cheekbones, a lined forehead and a rounded jaw that leads to a firm chin. His hooded hazel eyes sit beneath arched brows and give him a guarded gaze. He has a narrow nose, narrow lips and light skin with a weathered complexion. His black hair is long and gathered with a leather thong, and a ring of iron keys hangs at his belt.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Sedrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
+Sedrik Mórlineth is the jailer of [[place-liranel|Liranel]], an [[lore-elavendriclt|Élavendri]] freeman who has kept the cells under the town's court hall for more than twenty years.
 
-Sedrik has been a jailer for over twenty years, working in the city’s largest prison. Known for his imposing stature and stern demeanor, he keeps order among the inmates with a firm hand. Despite his tough exterior, Sedrik believes in fair treatment and tries to help prisoners reform when he can. However, his dedication to his job has made him few friends outside the jail.
+The cells hold whoever the royal court and the crown's forest court have not yet tried: timber-thieves who cut over license, hired guides who took a party past the margin and came back without it, drunkards, debtors and now and then a man the magistrates want kept quiet. Sedrik keeps order among them with his size and a short temper, and treats them fairly. He has seen enough prisoners come back through his door to believe that some of them need work more than chains, and he has found a few of them work.
+
+He has few friends outside the hall. The town respects him and keeps its distance, and his own kin are scattered across the kingdom; he does not discuss the lords and soldiers who share his clan's name.
 
 ## Psyche
 
 ### Personality
 
-Gruff and unapproachable, struggles to separate work from his personal life.
+Sedrik is gruff, unapproachable and fair. He takes his prisoners home with him in his head.
 
 ### Motivation
 
-Sedrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jailer work keep him vigilant and adaptable.
+He wants the cells kept, the prisoners kept alive and his hall's keys in his own hands. He wants the magistrates to try men before the cells fill.
 
 ### Strengths
 
-Physically strong, experienced in maintaining order, calm under pressure.
+He is strong, experienced and calm in a fight, and he knows every thief and guide in the town by sight.
+
+### Weaknesses
+
+He cannot leave his work at the door, and his fairness to prisoners makes the magistrates doubt him.
 
 ## Social
 
-Sedrik is affiliated with the [City Watch]{.name data-type="affiliation"}.
+### Companions
 
-As an Élavendri jailer, Sedrik occupies a recognized social niche within Élavendre society.
-
-## Companions
+The court's ushers and the turnkey he trained.
 
 ### Patrons
 
-Sedrik's primary patrons are city officials who value his loyalty and service. This relationship provides both opportunity and obligation.
+The magistrates of Liranel's royal court and the crown's Forester, whose prisoners he keeps.
 
 ### Enemies
 
-Some prisoners who hold grudges against him.
+Some prisoners who hold grudges, and the hired guides, who think he favors the crown's.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Sedrik is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Jailer's Dilemma
-: Sedrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+The Clerk in the Cell
+: The forest court has given Sedrik the tally-clerk [[being-orlenveldar|Orlen Veldarin]] to hold until he is questioned about the bounds of a licensed block. Orlen begs the jailer to send word to [[place-beravel|Péravel]] before anyone questions him, and a stranger has offered Sedrik a purse to let him walk.
 
-Old Grudges
-: Some prisoners who hold grudges against him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Guide Who Came Back Alone
+: A hired guide is in Sedrik's cells for leading a party past the margin, and he came back alone. He says the rest of the party is alive and waiting past the tree line for someone to bring them out, and nobody believes him.
 
-Echoes of the Past
-: Something from Sedrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Sedrik depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Sedrik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Old Prisoner
+: A man Sedrik held and released fifteen years ago has written to him from the coast: he was innocent, he knows who was not, and that man now sits at the forest court's table.

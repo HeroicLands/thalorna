@@ -6864,6 +6864,8 @@ data:
     - {name: Warden Orpeth, tongue: translation}
     - {name: rupena, tongue: aelendi}
     - {name: Rupena the Herdwife, tongue: translation}
+    - {name: dolmir, tongue: aelendi}
+    - {name: thórnasa, tongue: aelendi}
   retired:
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}

@@ -3,7 +3,8 @@ shortcode: thornblthl
 name: {full: Thoren Pelthal}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A shipwright of Port Aelion who believes Tralkar Hérselnde's lost ship was rotten when it was laid."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,7 +12,7 @@ data:
   occupation: Shipwright
   lore: []
   culture: elavendriclt
-  homes: [kelpasi]
+  homes: [portaelion]
   affiliations: {kngdmlvndr: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
@@ -399,55 +400,59 @@ sohl:
 
 # Appearance {#appearance}
 
-Thoren Pelthal is a 44-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with soft cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows and give him an expressive gaze. He has a narrow nose and full lips. He has pale skin with a flawless complexion. His chestnut hair falls in loose waves. His hands are rough and work-worn.
+Thoren Pelthal is a 44-year-old man who stands 5'11" tall and is of heavy build. He has a long face with soft cheekbones, a narrow forehead and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows and give him an expressive gaze. He has a narrow nose, full lips and pale skin with a clear complexion. His chestnut hair falls in loose waves, his hands are rough and work-worn, and a tattoo of a snake coils across his chest under an open shirt.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Thoren Pelthal is a shipwright.
+Thoren Pelthal is a shipwright of [[place-portaelion|Port Aelion]], the kingdom's chief harbor on the [[place-lirve|Lirve]] coast, an [[lore-elavendriclt|Élavendri]] freeman with a building slip on the north shore of the harbor.
 
-Thoren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, he takes pride in his work but is often at odds with clients who want things done faster and cheaper. For all his gruffness, he has a deep respect for the sea and the ships that sail upon it.
+He learned the trade from his father on the same slip and has built and repaired hulls for the harbor's captains and factors for twenty-five years. He builds from the squared oak that comes down from [[place-liranel|Liranel]] and from the licensed woodcutters of the slopes above the town, and he takes pride in a hull that the sea cannot fault. He is often at odds with clients who want a ship faster and cheaper than he will build one, and he loses those clients without regret.
+
+A ship he did not build is the harbor's quarrel this season. [[being-tralkarherse|Tralkar Hérselnde]]'s ship was lost in the mist with its crew, and Thoren has been asked by both sides whether a sound hull could have been lost in such weather at all.
 
 ## Psyche
 
 ### Personality
 
-He is stubborn, and refuses to compromise on quality even when it costs him clients.
+Thoren is stubborn and plain-spoken, and he will not compromise on quality, even when it costs him clients.
 
 ### Motivation
 
-Thoren wants every hull that leaves his yard to be one the sea cannot fault, whatever the client wanted to pay.
+Thoren wants every hull that leaves his slip to be one the sea cannot fault, whatever the client wanted to pay.
 
 ### Strengths
 
-He is skilled in shipbuilding, and understands maritime conditions well.
+He is a skilled shipwright, a fine judge of timber and a sound reader of a hull's faults.
+
+### Weaknesses
+
+He loses work to cheaper yards, and he cannot keep his opinions about other men's hulls to himself.
 
 ## Social
 
-Thoren belongs to the [Coastal Shipwrights' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-## Companions
+His two sons, who work the slip with him, and the woodcutter [[being-thalrkhlrn|Thalrik Halren]], who brings him oak.
 
 ### Patrons
 
-Thoren's patrons are the local merchants and ship captains who value his craftsmanship.
+The captains and factors of Port Aelion, and the crown's Admiral, [[being-tenralsaltha|Tenral Salthar]], whose coast-cutters he repairs.
 
 ### Enemies
 
-Rival shipwrights undercut his prices.
+A rival yard on the south shore that undercuts his prices and built Tralkar's lost ship.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Thoren is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Shipwright's Dilemma
-: A merchant wants a ship from Thoren built faster and cheaper than he will build one, and the yard cannot go another season without the work.
+The Lost Hull
+: The council's inquiry cleared the astrologer [[being-tarelblthl|Tárella Pelthal]], who is Thoren's cousin, but Tralkar still blames her. Thoren believes the lost ship's keel was rotten when it was laid, and the yard that built it is the one that undercuts him. He asks a party to find the shipwright who laid it.
 
-Old Grudges
-: A rival shipwright who undercuts Thoren's prices has taken his oldest customer, and the ship he built for him is not sound.
+The Old Oak
+: Thoren has an Admiral's cutter to lay down and needs oak older than the licensed belt grows. Thalrik Halren has a stand he will not fell, and a factor has offered Thoren timber from Liranel that is old enough and cheap, with no tally-house mark on it.
 
-Echoes of the Past
-: A ship Thoren built with his father comes back to his yard for repair after years at sea.
-
-Shifting Winds
-: Political change in Élavendre threatens the coastal trade Thoren's yard depends on, and he can adapt, resist, or leave.
-
-The Opportunity
-: A ship captain offers Thoren the building of a whole fleet, on terms that would mean building faster than he has ever agreed to.
+The Fleet
+: A merchant of a foreign harbor has offered Thoren the building of six hulls in a single season, on terms that would mean building faster than he ever has. The merchant pays in advance, in silver from a mint Thoren does not know.

@@ -3,6 +3,7 @@ shortcode: tarelblthl
 name: {full: Tárella Pelthal, given: Tárella, clan: Pelthal}
 type: being
 subType: character
+description: "The chief sky-reader of Port Aelion, cleared by the council's inquiry and still blamed by a captain for his lost ship."
 tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
@@ -423,15 +424,17 @@ sohl:
 
 ![[tarelblthl|Tárella Pelthal]]{float=top-left}
 
-Tárella stands 5'6" tall with a light build. She has light fair skin, dark brown hair, and blue eyes. Her features include a soft-featured face, a narrow nose, a gentle jawline, and dark brows.
+Tárella Pelthal is a 38-year-old woman who stands 5'6" tall and is of light build. She has a soft-featured face with a narrow nose, a gentle jawline and dark brows. Her blue eyes are steady and tired, and her light skin is clear. Her dark brown hair is pinned up with a brass stylus, and she carries a satchel of star-tables wherever she goes.
 
 # Dossier {#dossier}
 
-Tárella Pelthal was born in a coastal trading city of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] to a merchant family with interests in maritime commerce. Her father, recognizing her aptitude for mathematics and observation, arranged for her to study with an aging astrologer named [Meridian the Far-Seeing]{.name data-type="being/npc"}, a woman of considerable reputation who had been advisor to merchant captains and the kingdom's navies. Where others found astrology mystical and obscure, Tárella approached it as a complex system of pattern recognition and mathematical correlation—a way of reading the future through the language of stars, cycles, and celestial mechanics.
+Tárella Pelthal was born in [[place-portaelion|Port Aelion]], the kingdom's chief harbor on the [[place-lirve|Lirve]] coast of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], to a merchant family with shares in the coasting trade. Her father saw her gift for numbers and patient watching and sent her to study with an aging sky-reader, [Gáinessa Órhaimnde]{.name data-type="being/npc"}, who had read the weather for the harbor's captains and the crown's ships for forty years. Where others found the stars mystical and obscure, Tárella treated them as a system of patterns and correlations: the future read in the language of stars, cycles and tides.
 
-By her early twenties, Tárella had already surpassed most of her contemporaries in her understanding of nautical astrology, the specific practices of predicting weather patterns, tides, and journeys by sea. She began consulting for major merchant ventures and, eventually, for the [Mariners' Guild of Port Aelion]{.name data-type="affiliation/guild"} itself. Her predictions—particularly regarding seasonal trade winds, storm patterns, and auspicious departure dates—became famous for their accuracy. An early mistake left a merchant vessel caught in an unexpected winter storm, resulting in significant loss of life. Though investigation showed the error was caused by the ship's captain ignoring her specific warnings, Tárella took the responsibility deeply to heart, and it has shaped her cautious, precise approach to her work ever since.
+By her early twenties she understood the reading of the sea better than most of her elders: the weather a season will bring, the tides that keep their own hours on this coast, the days on which a ship should and should not sail. She began advising the harbor's captains and factors and, in time, the harbor's mariners' guild, and her readings of the trade winds and the storm seasons became known for their accuracy.
 
-At thirty-nine, she has become the preeminent astrological advisor for maritime concerns in Élavendre. She maintains a small study in the coastal city of [[place-portaelion|Port Aelion]], where merchants and captains come seeking her guidance on everything from trade route timing to the auspiciousness of various ventures. She has never married, dedicating herself entirely to her craft, though this has not prevented certain romantic complications from shaping her personal life.
+At thirty-eight she is the harbor's chief sky-reader. She keeps a small study in the upper town of Port Aelion, where captains and merchants come to ask about sailing days and the auspices of a venture. She reads the sky for the crown's Admiral, [[being-tenralsaltha|Tenral Salthar]], and for the Keeper of the Wharves, [[being-naldorkardet|Naldor Kardeth]], whose fortune has followed her advice. She has never married.
+
+This year the harbor is arguing about her. [[being-tralkarherse|Tralkar Hérselnde]]'s ship ignored her warning and was lost with its crew in the mist, and Tralkar tells every wharf that her readings cannot be trusted. An inquiry of the [[affiliation-twncnclprtaln|Town Council]] cleared her, and the captains have not. Tárella takes the dead crew to heart as if she had sent them out herself, and it has made her more cautious and more exact than ever.
 
 ## Psyche
 
@@ -443,7 +446,7 @@ She possesses a dry wit and surprising capacity for playfulness when comfortable
 
 ### Motivation
 
-Tárella is motivated by a drive to prevent tragedy through accurate knowledge, stemming from the guilt she carries about the maritime disaster she failed to prevent. She seeks mastery of her craft not for fame or wealth, but as a form of expiation—a way of honoring those lost by making her knowledge serve the living. She also maintains a scholarly curiosity about the mechanisms underlying celestial influence, viewing each successful prediction as a step toward understanding the deeper patterns governing reality.
+Tárella is motivated by a drive to prevent tragedy through accurate knowledge, stemming from the guilt she carries over the ship and crew she could not save. She seeks mastery of her craft not for fame or wealth, but as a form of expiation—a way of honoring those lost by making her knowledge serve the living. She also maintains a scholarly curiosity about the mechanisms underlying celestial influence, viewing each successful prediction as a step toward understanding the deeper patterns governing reality.
 
 ### Strengths
 
@@ -457,7 +460,7 @@ Fluent Communication
 : Her eloquence, discourse, and voice allow her to explain complex concepts clearly and to persuade merchants and captains to follow her advice, even when it contradicts their instincts or previous plans.
 
 Scholarly Expertise
-: Her folk knowledge and script make her a repository of navigational and astrological lore. She can reference historical precedent to support her recommendations and has access to rare texts others cannot interpret.
+: Her folklore and her reading make her a store of the sea's and the sky's lore. She can reference historical precedent to support her recommendations and has access to rare texts others cannot interpret.
 
 Reliable Consultation
 : Her will makes her steady under pressure, and her presence of command means that those seeking her advice trust her guidance. She does not second-guess herself once committed to a prediction.
@@ -465,7 +468,7 @@ Reliable Consultation
 ### Weaknesses
 
 Physical Vulnerability to Sea Travel
-: Her seasickness is not a minor inconvenience—it is disabling. She cannot be on the water for extended periods without becoming incapacitated, severely limiting her ability to conduct research aboard ships or to travel to distant locations. This creates a paradox: the world's most knowledgeable maritime astrologer cannot actually travel by sea.
+: Her seasickness is not a minor inconvenience—it is disabling. She cannot be on the water for extended periods without becoming incapacitated, severely limiting her ability to conduct research aboard ships or to travel to distant locations. The harbor's best reader of the sea cannot go to sea.
 
 Emotional Isolation
 : Her dedication to her craft has left her with minimal social connections. This isolation can become severe, and she sometimes struggles with loneliness. Her lack of charm makes forming new relationships difficult.
@@ -483,47 +486,50 @@ Limited Combat Capability
 
 ### Patrons
 
-Merchant Prince [[being-naldorkardet|Naldor Kardeth]]
-: A wealthy trader whose fortune was significantly increased by consistently following Tárella's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
+[[being-naldorkardet|Naldor Kardeth]]
+: The merchant prince who keeps the wharves for the Town Council, whose fortune has grown on Tárella's advice about sailing days. He pays well for her first reading and counts her his secret advantage.
 
-Captain-Commander [[being-tenralsaltha|Tenral Salthar]]
-: The supreme naval commander of Élavendre's maritime forces, who employs Tárella for predictions regarding weather, enemy movements, and auspicious timing for naval operations. His trust in her has made her recommendations carry official weight.
+[[being-tenralsaltha|Admiral Tenral Salthar]]
+: The crown's Admiral, who keeps his flag in the harbor and asks Tárella's reading of weather and season before he sends out his coast-cutters. His trust gives her readings a weight on the wharves that a sky-reader seldom has.
 
-the [Mariners' Guild Council]{.name data-type="affiliation"}
-: The official governing body of the guild that has engaged Tárella as the primary consultant for matters of celestial navigation and maritime astrology. They pay her retainer and frequently consult her on matters affecting guild interests.
+The mariners' guild
+: The harbor's captains, who sit together in a guild that the Town Council hears on every question of the wharves, keep Tárella on a retainer for her reading of the sky and the sea.
 
-Scholar-Collector [Lóriena Mírkelis]{.name data-type="being/npc"}
-: An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárella to help authenticate, organize, and study new acquisitions. Their relationship is more that of fellow scholars than of patron and adviser.
+[Áulira Mírkelis]{.name data-type="being/npc"}
+: An elderly woman of learning with a private library of star-books, who has Tárella catalog and read her new acquisitions. They are fellow scholars more than patron and reader.
 
 ### Enemies
 
-Captain [[being-tralkarherse|Tralkar Hérselnde]]
-: A successful merchant captain who publicly blamed Tárella for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Tralkar continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
+[[being-tralkarherse|Captain Tralkar Hérselnde]]
+: A successful merchant captain who blames Tárella for his lost ship and crew. The inquiry cleared her, and he says on every wharf that her caution is fear and her readings luck.
 
-Charlatan Astrologer [Malachai the False]{.name data-type="being/npc"}
-: A rival astrologer who employs theatrical presentation and ambiguous prophecy to charm wealthy clients. He views Tárella as a threat to his livelihood and has actively worked to undermine her credibility, spreading claims that her success is due to luck rather than skill.
+[Thráemesand]{.name data-type="being/npc"}
+: A rival sky-reader of the harbor who sells grand prophecy in ambiguous words to wealthy clients, and who has taken up Tralkar's story with delight.
 
 ### Affiliations
 
-the Mariners' Guild of Port Aelion
-: The chief body governing maritime interests in the region. Tárella is an official advisor and maintains guild standing that enhances her credibility.
+[[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+: Tárella is a Freeman of the crown.
 
-the [Aureldian Academy of Celestial Studies]{.name data-type="affiliation"}
-: A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárella maintains membership and occasionally lectures there on maritime applications of her knowledge.
+[[affiliation-lizelas|Faith of Lizelas]]
+: She keeps the faith's rites and lights a lamp at the temple each time a ship she read for is late.
+
+[[affiliation-univperavel|The University of Péravel]]
+: She works independently, but corresponds with the fellows of the University who study the heavens and has been asked there to speak on the reading of the sea.
 
 ## Plot Hooks
 
-The Impossible Celestial Conjunction
-: For the first time in her working life, the stars are moving in ways that contradict every mathematical model and historical precedent Tárella possesses. A celestial conjunction is occurring that should not be possible according to known mechanics, and the signs suggest a catastrophe of unprecedented magnitude will occur unless action is taken. No merchant will listen to a prediction based on impossible astronomy, and Tárella must somehow prove both that her calculations are correct and that the threat is real before the convergence date arrives.
+The Mist That Took the Ship
+: Tárella believes the mist that took Tralkar's ship was not weather: it came against the wind and kept its own hours, as the tides of this coast sometimes do. Tralkar wants proof that her reading was wrong, and she wants proof of what the mist was, and both hire the same party.
 
-the Drowned Captain's Map
-: A waterlogged map surfaces in a merchant's possession, purporting to show trade routes recommended by an astrologer from three centuries past. When Tárella examines it, she realizes that the routes recommended perfectly align with her own predictions for next season's trade winds—suggesting either that celestial patterns are cyclical in ways she hasn't understood, or that someone with knowledge of her work created a false artifact. She must determine which is true and whether the map holds real value or is an elaborate deception.
+The Last Load
+: A longshorewoman of the timber berths, [[being-porenadhrl|Pórena Darel]], has told Tárella that Tralkar's hold was stowed heavy to one side on the mate's orders. If the ship was loaded to founder, the mist is not the whole story, and the mate has gone to sea again.
 
-The Sea-Curse Investigation
-: A series of merchant vessels have been mysteriously lost at sea, their final reports indicating they were following standard trading practices and experiencing normal weather. Yet Tárella's records show that none of those ships should have encountered problems according to her astral calculations. She is hired to investigate whether a curse, sorcery, or unknown natural phenomenon is affecting maritime travel, and her investigation suggests interference with the natural cycles themselves.
+The Conjunction
+: The stars are moving in a way that contradicts every table Tárella has, and the signs point to a calamity on the coast within the season. No captain will act on a reading drawn from impossible stars, and she must prove both the calculation and the danger.
 
-The Prophecy in Her Own Name
-: Tárella discovers an ancient text that contains a prophecy specifically naming someone called "Tárella the Star-Reader," describing events that have already occurred in her life with terrifying accuracy. The prophecy continues with predictions of her death under specific circumstances within a defined timeframe. The prophecy may be authentic and apply to her, it may be a coincidence, or someone may have created a false prophecy with her name deliberately inserted to manipulate her.
+The Prophecy in Her Name
+: Tárella has found an old star-book in Áulira's library that names "the star-reader of the harbor" and describes her life so far with terrible accuracy. It ends with her death on a named night. It may be true, a coincidence, or a forgery planted to frighten her into silence.
 
-the Silent Mutiny
-: A merchant captain she has worked with for years arrives at her door asking for an emergency consultation. He believes his crew is about to mutiny based on astrological interpretation—they believe that the stars indicate a terrible fate will befall any ship with his command. Tárella has to work out whether the crew's interpretation has any validity, what their true motivations are, and how to handle the political and personal consequences of what might be a conspiracy disguised as superstition.
+The Silent Mutiny
+: A captain she has read for for years comes to her at night: his crew believe the stars mark his command for disaster and are on the edge of refusing to sail. Tárella must learn whether the crew's reading has any truth and who taught it to them.

@@ -3,7 +3,8 @@ shortcode: methrzlrth
 name: {full: Methra Salreth}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A day-laborer of Liranel who held the measuring chain at the tally-house on the day a licensed block's bounds were measured."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,57 +393,65 @@ sohl:
 
 # Appearance {#appearance}
 
-Methra Salreth is a 21-year-old woman who stands 5'11" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a rounded jaw that leads to a delicate chin. Her round green eyes sit beneath expressive brows, lending her a candid gaze. A slightly upturned nose and expressive lips complete her features. She has pale skin with a fair complexion. Her brown hair is swept up and held with carved combs.
+Methra Salreth is a 21-year-old woman who stands 5'11" tall and is of light build. She has a diamond face with soft cheekbones, a wide forehead and a rounded jaw that leads to a delicate chin. Her round green eyes sit beneath expressive brows and give her a candid gaze. She has a slightly upturned nose, expressive lips and pale skin, and a long scar from a slipped chain runs down her left forearm. Her brown hair is swept up and held with carved combs, and there is sawdust in it by noon.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Methra Salreth came into the world of the laborer (unskilled) through a combination of circumstance and aptitude.
+Methra Salreth is a day-laborer of [[place-liranel|Liranel]], the timber town of the [[place-lirve|Lirve]] coast, an [[lore-elavendriclt|Élavendri]] freewoman who takes whatever work the yards, the tally-house and the hauliers have.
 
-Methra is a hardworking young woman who assists in various labor jobs around her village. She enjoys working with her hands and has developed skills in farming and crafting. Despite her lighter frame, she is determined and has a strong work ethic. Methra is known for her friendly disposition and ability to uplift those around her, making her popular among her peers.
+She stacks squared timber, holds chains for the measurers at the tally-house, sweeps the forest court's hall, loads carts for [[place-portaelion|Port Aelion]] and hires on with anyone who needs a strong back for a day. She is lighter than the men she works beside and makes up for it by never stopping. She is cheerful, liked and always tired, and she takes on more work than she can finish because she cannot say no to a coin.
+
+Her days at the tally-house put her in the room where the forest court's quarrel began. She held the chain on the day the bounds of [[being-garrelpelth|Garrel Pelthal]]'s block were measured, and she swept the floor the evening the roll was copied.
 
 ## Psyche
 
 ### Personality
 
-Lacks physical strength compared to others, sometimes takes on too much work.
+Methra is friendly, willing and talkative, and she overworks herself without noticing.
 
 ### Motivation
 
-Methra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in laborer (unskilled) work keep her vigilant and adaptable.
+She wants steady work, a room of her own and enough saved to learn a trade. She wants to stay out of the forest court's quarrel and is already in it.
 
 ### Strengths
 
-Skilled in various tasks, positive attitude, adaptable.
+She is adaptable, tireless and observant, and she knows every yard and clerk in the town.
+
+### Weaknesses
+
+She lacks the strength of the men she works with, and she will take any work at all, including work she should refuse.
 
 ## Social
 
-Methra is affiliated with the local [Laborers' Union]{.name data-type="affiliation"}.
+### Companions
 
-As an Élavendri laborer (unskilled), Methra occupies a recognized social niche within Élavendre society.
-
-## Companions
+The yard-hands and carters she eats with, and the tally-clerks who give her the sweeping.
 
 ### Patrons
 
-Methra's primary patrons are local farmers and artisans who appreciate her help. This relationship provides both opportunity and obligation.
+The yard-masters, the tally-house and the hauliers, who hire her by the day.
 
 ### Enemies
 
-Few; generally well-liked in the community.
+None. A foreman who docked her pay for a broken chain.
+
+### Affiliations
+
+- **[[affiliation-kngdmlvndr|Kingdom of Élavendre]]**: Methra is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Laborer (unskilled)'s Dilemma
-: Methra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+The Copied Roll
+: The tally-clerk [[being-orlenveldar|Orlen Veldarin]] has started being kind to Methra since the measuring, and the other measurers have noticed.
 
-Old Grudges
-: Few; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Cart to the Hollow
+: An [[affiliation-ordoarcanis|Order]] fellow has hired Methra to drive the cart for his moonlit night at [[place-wrghthllw|the Wrought Hollow]], at three days' wages for one night. She has never been to the Hollow, and the crown's guide [[being-lenirasrdln|Lénira Sérdalnde]] has told her not to go.
 
-Echoes of the Past
-: Something from Methra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+The Measuring Chain
+: The forest court has called the measurers to say under oath how long the chain was on the day of the measuring. Methra held the far end.
 
-Shifting Winds
-: Political changes in Élavendre threaten to upend the social order that Methra depends upon. She must decide whether to adapt, resist, or flee.
+:::secret {title="The roll and the chain"}
+Methra saw Orlen copying the roll alone after dark, with a second roll open beside the first. She has not told anyone.
 
-The Opportunity
-: A chance encounter offers Methra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+She also knows the measuring chain was shortened on the day of the measuring.
+:::

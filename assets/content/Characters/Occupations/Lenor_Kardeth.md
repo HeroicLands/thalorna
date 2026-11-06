@@ -3,6 +3,7 @@ shortcode: lenarcrdth
 name: {full: Lenor Kardeth}
 type: being
 subType: npc
+description: "The ratter of Sóurimel, who keeps the village's herb-lofts and honey-stores clear with traps, ferrets and his terrier."
 tags: [common-folk]
 data:
   icon: icon-person

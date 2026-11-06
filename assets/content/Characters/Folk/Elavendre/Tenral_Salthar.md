@@ -81,5 +81,5 @@ Tralkar Hérselnde, whose public blame of Tárella has begun to reach the Admira
 ## Plot Hooks
 
 1. **The log that disagrees.** A cutter of the Admiral's came into Port Aelion three days late, and her log shows a single night. Tenral asks a party to sit with her crew and learn what they will say off the record.
-2. **The forecast.** Tárella has told the Admiral that a fleet will come in on the next ebb, and the Mariners' Guild has refused to move its ships. He asks a party to learn whether the Guild is being paid.
+2. **The forecast.** Tárella has told the Admiral that a fleet will come in on the next ebb, and the mariners' guild has refused to move its ships. He asks a party to learn whether the Guild is being paid.
 3. **The slander.** Tralkar Hérselnde's public blame of Tárella has begun to stick. Tenral wants it stopped and will not be the one to stop it.
