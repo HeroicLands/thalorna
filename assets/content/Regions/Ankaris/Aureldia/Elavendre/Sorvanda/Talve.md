@@ -36,7 +36,7 @@ The first account of the hollow comes from the winter after the Áelendan reache
 
 **The Black Snow.** In the killing winter, the chief of the people pulled the watch from the hollow to haul and split wood, and in spring something of fog, shaped like a stag and without eyes, came through and killed at the Lodge. The people and the Sinale sang together at the hollow, and the thin place took the thing back ([[lore-blacksnow|The Black Snow]]).
 
-**The Order's reading.** A theorist of the [University of Péravel]{.name data-type="affiliation"} holds that the hollow is a frost pocket where cold air pools and breeds fog, and that what has come out of it on spring nights is a deer in the mist.
+**The Order's reading.** A theorist of the [[affiliation-univperavel|University of Péravel]] holds that the hollow is a frost pocket where cold air pools and breeds fog, and that what has come out of it on spring nights is a deer in the mist.
 
 ## What Is There Now {#present}
 

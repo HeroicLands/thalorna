@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Jethra Lidren is a 39-year-old woman who stands 5'6" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows, lending her a candid gaze. A delicate nose and narrow lips complete her features. She has medium-toned skin with a smooth complexion. Her dark blonde hair is swept up and held with carved combs.
+Jethra Lidren is a 38-year-old woman who stands 5'6" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows, lending her a candid gaze. A delicate nose and narrow lips complete her features. She has medium-toned skin with a smooth complexion. Her dark blonde hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 

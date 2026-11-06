@@ -40,11 +40,11 @@ data:
 
 # Appearance {#appearance}
 
-Yélaras Kírethel is a 23-year-old man who stands 5'11" tall and is of medium build. He has pale, clear skin, dark brown hair cut shorter than the court wears it, and his mother's gray eyes, narrowed a little from reading by lamplight. There is usually ink on the second finger of his right hand. He dresses well and plainly, in the green of the house, and he has a University man's habit of answering a question with a better question. He laughs easily and argues happily, and he says plainly what other people at court leave open.
+Yélaras Kírethel is a 22-year-old man who stands 5'11" tall and is of medium build. He has pale, clear skin, dark brown hair cut shorter than the court wears it, and his mother's gray eyes, narrowed a little from reading by lamplight. There is usually ink on the second finger of his right hand. He dresses well and plainly, in the green of the house, and he has a University man's habit of answering a question with a better question. He laughs easily and argues happily, and he says plainly what other people at court leave open.
 
 # Dossier {#dossier}
 
-Prince Yélaras Kírethel is the heir to the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] and the only son of [[being-aurenthekir|Queen Áurenthe]], head of the royal [[affiliation-hsekirethel|House of Kírethel]]. He lives at the court in [[place-beravel|Péravel]], and he was schooled at the [University of Péravel]{.name data-type="affiliation"}, where the [[affiliation-ordoarcanis|Thordimalon]] educates the children of the nobility. His friends are its fellows.
+Prince Yélaras Kírethel is the heir to the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] and the only son of [[being-aurenthekir|Queen Áurenthe]], head of the royal [[affiliation-hsekirethel|House of Kírethel]]. He lives at the court in [[place-beravel|Péravel]], and he was schooled at the [[affiliation-univperavel|University of Péravel]], where the [[affiliation-ordoarcanis|Thordimalon]] educates the children of the nobility. His friends are its fellows.
 
 He wants to be crowned as what he is, a prince of the old blood who has read the Order's books, and he holds that the two are not enemies. He says so in company. The bards of the Circle have heard him, and he means to answer them in the way a house answers a doubted claim: by having his line sung at the autumn fair at [[place-elanmere|Elanmere]], before the people who remember the genealogy differently.
 
@@ -92,7 +92,7 @@ The judgment the crown fears is never pronounced, only reached, and he is giving
 
 1. **The bard of standing.** A bard of the Circle is singing a satire on the prince in the dove-gray gown in the harp-rooms of Péravel. Yélaras hires a party to learn who is paying the bard, and refuses to believe the answer may be nobody.
 2. **The line at the fair.** Yélaras wants his line sung at the Elanmere fair this autumn, and he wants a bard of a College to sing it. He sends a party up with the bard, and the queen sends a second party to see that nothing is sung that cannot be unsung.
-3. **The tutor.** His old tutor, a fellow of the University, has gone inward from [[place-liranel|Liranel]] without the crown's guides. Yélaras wants him brought back before the [[affiliation-alndnwrdns|Wardens]] find him, and before his mother hears of it.
+3. **The tutor.** His old tutor, [[being-hlmsrthlmrnd|Hálmesar Thólmarnde]], a fellow of the University, has gone inward from [[place-liranel|Liranel]] without the crown's guides. Yélaras wants him brought back before the [[affiliation-alndnwrdns|Wardens]] find him, and before his mother hears of it.
 
 :::secret {title="The survey of the Cut"}
 The royal archive at Péravel keeps the survey [Hóuradel]{.name data-type="being/npc"}'s engineers made of the workings above the tree line, adit by adit ([[lore-sorvandaclose|The Sórvanda Closing]]). Yélaras had it copied for his tutor at the University, as a matter of history, in the year he came back to court. The tutor who has gone inward from Liranel is carrying the copy.

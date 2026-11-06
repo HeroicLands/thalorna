@@ -38,7 +38,7 @@ The tree is older than the tribes, and what is said of it is what the first band
 
 ## What Is There Now {#present}
 
-A fellow of the [University of Péravel]{.name data-type="affiliation"} has read the Asking, which the Bardic Colleges keep, and has worked out that the clearing lies near Aelirosse. He has hired guards at Liranel and means to put one question to the tree: where the center of [[place-ukuaraelwen|Úkua-Araelwen]] is, and what is in it.
+A fellow of the [[affiliation-univperavel|University of Péravel]] has read the Asking, which the Bardic Colleges keep, and has worked out that the clearing lies near Aelirosse. He has hired guards at Liranel and means to put one question to the tree: where the center of [[place-ukuaraelwen|Úkua-Araelwen]] is, and what is in it.
 
 A shaman of the tribes has gone in this month, as the rules require, with a cause that she has told nobody. The Wardens of the Silver Forests have let her. Nobody has seen her since the new moon.
 

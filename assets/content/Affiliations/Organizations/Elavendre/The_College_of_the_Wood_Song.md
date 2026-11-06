@@ -63,7 +63,7 @@ A student learns the open workings in order and is told nothing of the closed on
 
 ## Masters {#masters}
 
-The **Master of the College** decides which workings are shown to which pupil. The **Keeper of the Closed Songs** holds what is not shown.
+The **Master of the College**, [[being-sirrelurethr|Sírrelure Thaurnde]], decides which workings are shown to which pupil. The **Keeper of the Closed Songs** holds what is not shown.
 
 ## The Present Quarrel {#present}
 

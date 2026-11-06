@@ -12,6 +12,7 @@ data:
   borders:
     - {to: tarvenirgn, bearing: E}
     - {to: toravarrange, bearing: E}
+    - {to: elavendre, bearing: N}
     - {to: galvaren, bearing: E}
   packFolder: provenzia
   government: kngdmprvnz

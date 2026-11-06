@@ -32,7 +32,7 @@ What made the bowl, or when its light first stood still, is not known to anyone.
 
 **The Keepers' song.** The Tradition Keepers hold a short song of a herdsman who went down after a lamb in the first summers after the crossing, came back up before the stars, and was gray-haired, thin and silent from that evening on. The song gives the herdsman no name, and it is sung to children as the reason nobody goes down.
 
-**The Order's reading.** The Order's theorists at the [University of Péravel]{.name data-type="affiliation"} hold that the bowl is a reservoir of stored daylight, a kind of lamp left burning, and that its light could be drawn off and used. Its surveyors have measured the shadows from the lip with a sighting-rod, and the measurements agree with each other exactly, which the theorists take as proof.
+**The Order's reading.** The Order's theorists at the [[affiliation-univperavel|University of Péravel]] hold that the bowl is a reservoir of stored daylight, a kind of lamp left burning, and that its light could be drawn off and used. Its surveyors have measured the shadows from the lip with a sighting-rod, and the measurements agree with each other exactly, which the theorists take as proof.
 
 ## What Is There Now {#present}
 
@@ -72,3 +72,5 @@ A water-clock carried down runs at the bowl's pace and tells the bearer nothing 
 
 - [[lore-aralwen|Araelwen]] · [[place-drenavrspn|The Drenavar Spine]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]] · [[affiliation-ordoarcanis|The Thordimalon]]
+- [[scenario-rpctfrmblw|The Rope Cut from Below]], a scenario set here
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

@@ -4,7 +4,7 @@ name: {full: Kardeth}
 type: place
 subType: settlement
 description: "A village and noble seat of Lirve within reach of Liranel, held by the young Lady Áulirane Kardeth, a noblewoman of Áelendan ancestry who buys discreet remedies from the alchemist Melrik Salvin."
-tags: [village, woodland, draft]
+tags: [village, woodland]
 data:
   demonym: null
   lore: []
@@ -49,3 +49,6 @@ Lady Áulirane has begun seeking out [[being-belrkflwyn|Melrik Salvin]], the alc
 
 [[place-lirve|Lirve]]
 : the district the seat stands in
+
+[[scenario-grvthtsntrs|The Grove That Is Not Ours]]
+: a scenario set here

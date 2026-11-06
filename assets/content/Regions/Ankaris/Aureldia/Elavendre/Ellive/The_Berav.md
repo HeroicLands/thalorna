@@ -27,6 +27,12 @@ and dye out of [[place-lirve|Lirve]] come up the coast and in through the mouth.
 worked in Éllive and goes out again through Péravel, and the tolls on that traffic are the crown's
 steadiest revenue.
 
+## Converging Interests {#present}
+
+The river's quarrels are about what comes down it. The crown takes its toll at Péravel on everything that passes, the pilots of [[place-sirlathen|Sirlathen]] take their fee on every hull that comes up, and the market towns of the upper basin sell to the capital's factors at the head of navigation. Sórvanda silver is coming down in larger lots than the tribes have released, and the objects the Order's expeditions carry out of the interior reach the chapterhouses at Péravel by the same barges, entered on no manifest. Below the capital the reed-cutters of [[place-osselen|Ósselen]] keep the channels and are the first to see what is landed at night.
+
+## The Vulnerability
+
 A river that carries a kingdom's trade and passes its capital fifteen miles from open water is also,
 inevitably, the kingdom's chief vulnerability. It has never been forced. That it could be is the
 standing argument of every Élavendren admiral who has ever wanted money.

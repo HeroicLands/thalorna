@@ -58,6 +58,10 @@ alte seltì ehii aulten sennave eso leesìhe hissel ehii/
 Whether the [[place-sourimael|Sóurimel]] villagers a half-day west understand what they live beside is a
 matter on which the Sinale have never been asked and the Áelendan decline to speculate.
 
+## The Present {#present}
+
+The birch law holds, and it is under more pressure than it has been in a generation. No standing silver birch in the Silver Forests is felled by anyone for any reason, and the Sinale of Aelirosse, whose dwellings are worked into the living trees, are the other party to that law with the [[lore-aelendnppl|Áelendan]] ([[lore-blacksnow|The Black Snow]]). This year a strip of green bark cut from [[place-wkngstnd|the Waking Stand]] lies in a chapterhouse collection at [[place-beravel|Péravel]], the Wardens of the Silver Forests want the man who cut it, and [[affiliation-ordoarcanis|Order]] parties come up the valleys past the crown's guides with hired guards. The enclave has said nothing of any of it through [[place-ethalosse|Ethalosse]].
+
 ## See Also
 
-- [[lore-flksinale|Sinale]] · [[place-silvrfrsts|the Silver Forests]] · [[place-ethalosse|Ethalosse]] · [[lore-theasking|The Asking]]
+- [[lore-flksinale|Sinale]] · [[place-silvrfrsts|the Silver Forests]] · [[place-ethalosse|Ethalosse]] · [[lore-theasking|The Asking]] · [[affiliation-nclvlrss|Enclave of Aelirosse]]

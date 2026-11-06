@@ -22,7 +22,7 @@ People go to it because something has to be kept at it. The coast calls it the D
 
 ## Who Holds It {#who-holds-it}
 
-The Wardens hold it, and they keep it with the oldest form of their keeping, the watch Dhargan set on [Talve]{.name data-type="place/site"}. Two Wardens sit by the cleft through every night, with spear and dog and a banked fire, to turn what comes through by song, fire or stone, to retire when it does not turn, and to sing from shelter on the nights it wins. The watch comes down from the mountains by turns and is relieved at the turn of each season. It keeps a hut of turf on the dry ground a bowshot off, and the beacon families of the nearest stretch of shore sell it bread and do not ask.
+The Wardens hold it, and they keep it with the oldest form of their keeping, the watch Dhargan set on [[place-talve|Talve]]. Two Wardens sit by the cleft through every night, with spear and dog and a banked fire, to turn what comes through by song, fire or stone, to retire when it does not turn, and to sing from shelter on the nights it wins. The watch comes down from the mountains by turns and is relieved at the turn of each season. It keeps a hut of turf on the dry ground a bowshot off, and the beacon families of the nearest stretch of shore sell it bread and do not ask.
 
 The crown's sheriffs of Lísere do not go into that part of Olvalonke, and its foresters cut nothing there.
 
@@ -34,7 +34,7 @@ What is on the far side of the Door is not known, and the Áelendan do not say w
 
 **The coast's account.** The beacon families say that on a dark night something comes out of Olvalonke to the shore and goes back before dawn, and that a beacon kept lit keeps it off. The families of the stretch nearest the Door keep their beacons lit every night of the winter, raid or no raid.
 
-**The Order's reading.** An Order theorist of the [University of Péravel]{.name data-type="affiliation"} holds that the cold of the mound is a bog vapor rising through a fault, and that what the coast sees on dark nights is marsh light.
+**The Order's reading.** An Order theorist of the [[affiliation-univperavel|University of Péravel]] holds that the cold of the mound is a bog vapor rising through a fault, and that what the coast sees on dark nights is marsh light.
 
 ## What Is There Now {#present}
 
@@ -42,7 +42,7 @@ The watch is short. One of the two Wardens who came down at the autumn turn was 
 
 ## Dangerous Neighbors {#dangerous-neighbours}
 
-- **What comes through.**
+- **What comes through.** The cleft itself on the dark nights, and whatever the watch fails to turn.
 - **The bog.** Olvalonke is black water under moss, and a path that held a man in the autumn does not hold him in the thaw.
 - **Raiders.** Varokh war-parties out of [[place-vrystwald|Vristwald]] land on the Lísere shore, and some of them come inland through the wood.
 - **Smugglers** of the [[place-calypsacity|Kalipsa]] trade, who use the forest's tracks by night and do not want company.
@@ -75,3 +75,5 @@ The Order scholar's guards mean to keep the Warden away from the mound while he 
 
 - [[lore-aralwen|Araelwen]] · [[place-lisere|Lísere]] · [[place-dskfrd|The Dusk Ford]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]] · [[lore-blacksnow|The Black Snow]]
+- [[scenario-brdfrthdr|Bread for the Door]], a scenario set here
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

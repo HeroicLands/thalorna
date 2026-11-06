@@ -34,7 +34,7 @@ What first sang in the tarn, or when, is not known.
 
 **The herders' account.** The herders say that the drowned sing with the others, and that a mother who listens long enough hears her own child. The Keepers neither confirm this nor forbid it to be said.
 
-**The Order's reading.** An Order theorist of the [University of Péravel]{.name data-type="affiliation"} holds that the song is the wind across the corrie lip, shaped by the water's surface, and that the drownings are herders lost in the dark. His colleagues who have heard it do not hold this.
+**The Order's reading.** An Order theorist of the [[affiliation-univperavel|University of Péravel]] holds that the song is the wind across the corrie lip, shaped by the water's surface, and that the drownings are herders lost in the dark. His colleagues who have heard it do not hold this.
 
 ## What Is There Now {#present}
 
@@ -74,3 +74,5 @@ The counter-song does not drive the singers off. It gives the tarn a song it has
 
 - [[lore-aralwen|Araelwen]] · [[place-drenavrspn|The Drenavar Spine]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]] · [[lore-thekindred|The Kindred]]
+- [[scenario-sngwrttnnwx|A Song Written in Wax]], a scenario set here
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

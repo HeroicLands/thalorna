@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Drinel Salvin is a 27-year-old woman who stands 5'9" tall and is slender. She has a heart-shaped face with angular cheekbones, a high forehead, and an angular jaw that leads to a narrow chin. Her round blue eyes sit beneath arched brows, lending her a candid gaze. A straight nose and curved lips complete her features. She has fair skin with a smooth complexion. Her red hair is twisted into an elaborate arrangement.
+Drinel Salvin is a 26-year-old woman who stands 5'9" tall and is slender. She has a heart-shaped face with angular cheekbones, a high forehead, and an angular jaw that leads to a narrow chin. Her round blue eyes sit beneath arched brows, lending her a candid gaze. A straight nose and curved lips complete her features. She has fair skin with a smooth complexion. Her red hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 

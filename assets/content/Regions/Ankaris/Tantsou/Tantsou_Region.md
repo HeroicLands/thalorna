@@ -111,3 +111,6 @@ To the north, the frontier toward the [[place-grkrhlmrgn|Grukarholm Region]] is 
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
+
+[[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+: a scenario set here

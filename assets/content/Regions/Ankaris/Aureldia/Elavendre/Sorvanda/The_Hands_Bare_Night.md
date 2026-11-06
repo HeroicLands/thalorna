@@ -4,7 +4,7 @@ name: {full: The Hands-Bare Night}
 type: lore
 subType: custom
 description: "The longest night of the year at Sóurimel, when the village sits among the standing silver birch with its hands bare and sings until the bark takes the starlight, as the silver that came back to the wood after the Black Snow still does."
-tags: [custom, sourimel, draft]
+tags: [custom, sourimel]
 data: {culture: elavendriclt, packFolder: elavendre}
 ---
 
@@ -12,7 +12,7 @@ data: {culture: elavendriclt, packFolder: elavendre}
 
 ## The Night
 
-At dusk the whole village goes up to the birches and sits among the standing trees in the cold, with hands bare of gloves and wraps, and does not light a fire. The villagers sing in the manner of [[lore-theasking|The Asking]], low and in answering lines, from the dusk to the first grey. The singers are the village's own. They hold what the village has of the song and add nothing to it.
+At dusk the whole village goes up to the birches and sits among the standing trees in the cold, with hands bare of gloves and wraps, and does not light a fire. The villagers sing in the manner of [[lore-theasking|The Asking]], low and in answering lines, from the dusk to the first gray. The singers are the village's own. They hold what the village has of the song and add nothing to it.
 
 The silver that left the bark on the night of the felling ([[lore-blacksnow|The Black Snow]]) came back to the standing birch slowly, over four lives, and the village does not forget what it cost. Sóurimel sits to ask to keep the wood, as the people asked at the wood's edge when they went back, and it does not say what it asks or what answer it waits for.
 

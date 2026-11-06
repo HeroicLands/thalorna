@@ -4,7 +4,7 @@ name: {full: The Spring Guest}
 type: lore
 subType: custom
 description: "The night each year when Kélpasi's hearth-heads set a place by the cold spring for a guest from the high country, filled by whichever Áelendan has come down, and leave bread at the water if none has."
-tags: [custom, kelpasi, draft]
+tags: [custom, kelpasi]
 data: {culture: elavendriclt, packFolder: elavendre}
 ---
 

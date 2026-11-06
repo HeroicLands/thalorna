@@ -4,7 +4,7 @@ name: {full: The Uron Tekhi, en: [The Tekhi]}
 type: place
 subType: feature
 description: "An ancient tree in the Silver Forests, older than the tribes, in which a spirit of the same name is seated."
-tags: [draft]
+tags: []
 data:
   demonym: null
   lore: [uronspr]

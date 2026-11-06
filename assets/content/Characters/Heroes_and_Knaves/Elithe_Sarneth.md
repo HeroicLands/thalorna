@@ -11,7 +11,7 @@ data:
   occupation: Alchemist
   lore: []
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [beravel]
   affiliations:
     slntlncmpny: {rank: 3}
     ordoarcanis: {rank: 3}

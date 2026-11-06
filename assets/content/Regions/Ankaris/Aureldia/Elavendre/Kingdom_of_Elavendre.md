@@ -119,7 +119,7 @@ The Kingdom of Élavendre is one of the oldest continuously governed realms in t
 
 The monarch of Élavendre rules with the counsel of two ancient institutions: [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle) and the [[affiliation-groveconcl|Grove Council]]. The Bardic Circle serves as the kingdom's memory and conscience—bards are historians, lawmakers, diplomats, and (when necessary) the voice of public opinion expressed in song and satire that can make or break a ruler's reputation. The Grove Council is a body of grove-elders and wise-women who advise on matters touching the natural and supernatural worlds, which in Élavendre is nearly everything.
 
-This system produces governance that is slow, deliberate, and deeply attuned to tradition. Decisions of consequence are debated at length, with attention to precedent, prophecy, and the counsel of [[lore-faecourts|the fae courts]]. Outsiders find it maddening; Élavendrians find it wise.
+This system produces governance that is slow, deliberate, and deeply attuned to tradition. Decisions of consequence are debated at length, with attention to precedent, prophecy, and the counsel of [[lore-faecourts|the fae courts]]. Outsiders find it maddening; the Élavendri find it wise.
 
 ## The Crown
 
@@ -141,7 +141,7 @@ The Áelendan Wardens hold no office of the crown. They answer to the tribes, th
 
 ## The Thordimalon in Élavendre {#present}
 
-The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial and deeply entrenched presence in Élavendre—far more than many outsiders realize. The [University of Péravel]{.name data-type="affiliation"}, the largest [[affiliation-panepistmm|Epistémion]] campus outside of Viléria itself, dominates the intellectual life of the capital. Multiple Zulen (fellowship) chapterhouses stand on the university grounds, and the Order's scholars, administrators, and agents have woven themselves into the fabric of urban Élavendri society over centuries. In [[place-beravel|Péravel]] and the kingdom's other major towns, the Order wields influence that equals or exceeds that of the Bardic Circle and Grove Council—its schools educate the children of the nobility, its scholars advise the courts, and its patron networks reach into every significant merchant house and noble family.
+The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial and deeply entrenched presence in Élavendre—far more than many outsiders realize. The [[affiliation-univperavel|University of Péravel]], the largest [[affiliation-panepistmm|Epistémion]] campus outside of Viléria itself, dominates the intellectual life of the capital. Multiple Zulen (fellowship) chapterhouses stand on the university grounds, and the Order's scholars, administrators, and agents have woven themselves into the fabric of urban Élavendri society over centuries. In [[place-beravel|Péravel]] and the kingdom's other major towns, the Order wields influence that equals or exceeds that of the Bardic Circle and Grove Council—its schools educate the children of the nobility, its scholars advise the courts, and its patron networks reach into every significant merchant house and noble family.
 
 This was not achieved by conquest. The Vilérian legions that failed to subdue the deep forests nevertheless established the tributary relationship that opened a diplomatic channel, and the Order exploited it with characteristic patience. Where soldiers could not go, scholars could. The Epistémion (the Academy) offered education, administrative expertise, and the prestige of association with the most sophisticated intellectual institution in western Ankaris. Noble houses that traded with the Empire, that sought imperial favor, that wanted their children educated to the highest standard—these became the Order's natural allies. Over generations, the chapter houses grew from modest scholarly outposts into the institutional pillars they are today.
 
@@ -173,9 +173,25 @@ The kingdom shares its territory with the Áelendan—the People of the Pact—t
 
 The [[affiliation-alndnwrdns|Áelendan Wardens]]—guardians of the sacred sites, particularly those connected to the fae—operate independently within the kingdom's borders with the full sanction of the crown. Their jurisdiction over the mountain sanctuaries and deep forest shrines is unchallenged.
 
+## Holdings {#holdings}
+
+The crown holds the four lowland and coastal quarters of the land, [[place-ellive|Éllive]], [[place-lirve|Lirve]], [[place-auldalon|Áuldalon]] and [[place-lisere|Lísere]], through its sheriffs and royal courts, and the town of [[place-elanmere|Elanmere]] at the foot of [[place-sorvanda|Sórvanda]]. The capital, [[place-beravel|Péravel]], is its seat. The [[place-alndntrblnds|Áelendan Tribal Lands]] are the tribes', and the three [[lore-flksinale|Sinale]] enclaves are their own.
+
+Below the crown stand bodies that govern their own ground under it:
+
+- [[affiliation-twncnclprtaln|The Town Council of Port Aelion]], the freemen and older families of the chief harbor.
+- [[affiliation-sarmelisconcl|The Quay Council of Sarmelis]], the boat-masters who hold the bay's one harbor.
+- [[affiliation-beaconfamlys|The Beacon Families]], the lines that keep the lamps of the Lísere shore.
+- [[affiliation-durmelengrsn|The Garrison of Durmelen]], the crown's fort at the narrows under its Castellan.
+- [[affiliation-morthalwtch|The Morthal Watch]], which holds the bay road through [[place-morthalmrch|the Morthal March]].
+- [[affiliation-brdrmltia|The Border Militia]], the crown's sworn companies and the levy.
+- [[affiliation-thrglnklps|The Thárgalon of Kélpasi]], the council of hearth-heads of a hill village of Áuldalon.
+
+The noble houses hold their seats of the crown: the royal [[affiliation-hsekirethel|House of Kírethel]] at Péravel, the [[affiliation-hsehalvireth|House of Hálvireth]] in the river-meadows below it, and the Kardeth seat at [[place-cardeth|Kardeth]] in Lirve.
+
 ## Commerce and Currency
 
-Kingdom of Élavendre uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Élavendre is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+The Kingdom of Élavendre uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The kingdom is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## History {#history}
 

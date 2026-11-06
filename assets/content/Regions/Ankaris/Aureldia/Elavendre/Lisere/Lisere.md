@@ -74,7 +74,7 @@ Three bodies keep the shore: the [[affiliation-sarmelisconcl|Quay Council of Sar
 
 Behind the shore lies **[Olvalonke]{.name data-type="place/feature"}**, the evening wood: wet, thick forest of alder, oak and birch over bog and black water, running back from the shingle toward the hills. Its deep parts are sacred ground of the [[lore-aelendnppl|Áelendan]], and in its depth stands the one [[lore-aralwen|Araelwen]] the [[affiliation-alndnwrdns|Wardens]] keep this far from the mountains: [[place-fndr|the Fen Door]], a cold cleft through which demons and fell things come on the dark nights of winter. A watch of two Wardens sits by it through every night, as the oldest watch sits on Talve, and comes down from the mountains by turns. The beacon families of the nearest stretch of shore sell the watch its bread and keep their own beacons lit all winter, raid or no raid.
 
-The Door is not the coast's only uncanny place. [[place-dskfrd|The Dusk Ford]] behind the shingle is a pact a beacon-keeper asked for, and nobody keeps it as the Wardens keep an Araelwen.
+The Door is not the coast's only uncanny place. [[place-dskfrd|The Dusk Ford]] behind the shingle is told to be a pact a beacon-keeper asked for, and nobody keeps it as the Wardens keep an Araelwen.
 
 This winter the watch at the Door is down to one Warden, and no relief can come down before the passes open. An [[affiliation-ordoarcanis|Order]] scholar who heard as much at [[place-calypsacity|Kalipsa]] has hired guards on the coast and means to camp at the Door through the dark nights to see what comes through. He hires them on the quay at [[place-sarmelis|Sarmelis]], at wages that draw the best young hands from the boats, the levy at [[place-durmelen|Durmelen]] and the lamps of the [[affiliation-beaconfamlys|Beacon Families]].
 
@@ -91,3 +91,4 @@ This winter the watch at the Door is down to one Warden, and no relief can come 
 - [[place-liserebay|Lísere Bay]] · [[place-vrystwald|Vristwald]] · [[affiliation-calypsa|Kalipsa]]
 - [[place-fndr|The Fen Door]] · [[place-dskfrd|The Dusk Ford]] · [[lore-aralwen|Araelwen]]
 - [[place-elavendre|Élavendre]]
+- [[scenario-brdfrthdr|Bread for the Door]], a scenario set here

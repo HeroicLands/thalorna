@@ -36,7 +36,7 @@ The workings are the work of one season, opened by [Hóuradel]{.name data-type="
 
 **The diggers' account.** The market singers keep the names of the people who went up and did not come down, and sing them where the ore-road comes to Elanmere ([[lore-roadsendlmnt|The Lament at the Road's End]]). Singers on the coast give more names than those at the lake, and the lake does not agree with the coast on whether the king's engineer is among them.
 
-**The Order's reading.** The theorists of the [University of Péravel]{.name data-type="affiliation"} hold that the lodes are as rich as the king believed and that a licensed survey could map them. The Wardens hold that a licensed survey is a surveyor.
+**The Order's reading.** The theorists of the [[affiliation-univperavel|University of Péravel]] hold that the lodes are as rich as the king believed and that a licensed survey could map them. The Wardens hold that a licensed survey is a surveyor.
 
 ## What Is There Now {#present}
 
@@ -81,3 +81,4 @@ The deepest adit is also where the best silver is. Opening it for ore is the des
 - [[lore-sorvandaclose|The Sórvanda Closing]] · [[lore-roadsendlmnt|The Lament at the Road's End]]
 - [[place-sorvanda|Sórvanda]] · [[place-elanmere|Elanmere]] · [[place-drenavrspn|The Drenavar Spine]]
 - [[affiliation-alndnwrdns|The Áelendan Wardens]]
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

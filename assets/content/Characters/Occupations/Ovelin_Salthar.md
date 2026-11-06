@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Óvelin Salthar is a 29-year-old woman who stands 5'3" tall and is slender. She has a diamond face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a narrow chin. Her round brown eyes sit beneath thin brows, lending her a candid gaze. A delicate nose and thin lips complete her features. She has fair skin with a smooth complexion. Her blonde hair is swept up and held with carved combs.
+Óvelin Salthar is a 28-year-old woman who stands 5'3" tall and is slender. She has a diamond face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a narrow chin. Her round brown eyes sit beneath thin brows, lending her a candid gaze. A delicate nose and thin lips complete her features. She has fair skin with a smooth complexion. Her blonde hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 

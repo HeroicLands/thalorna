@@ -9,7 +9,7 @@ data:
   lore: [varokhiclt]
   parents: [vrystwald]
   population: null
-  borders: [{to: elavendre, bearing: S}]
+  borders: [{to: elavendre, bearing: S}, {to: morthalmrch, bearing: SW}]
   routes:
     - {to: falkhaven, bearing: W, mode: land, days: 45, terrain: [forest]}
     - {to: thornwald, bearing: E, mode: land, days: 45, terrain: [forest]}

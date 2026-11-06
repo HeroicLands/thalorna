@@ -37,6 +37,10 @@ raiders out of the [[place-nrdlndsrgn|Nordlands]] have worked this coast for cen
 ships that need no narrows at all, and they do not stop at the bay. Élavendre's memory of the north is
 long and unfriendly, and it is not chiefly about the Varokh.
 
+## Converging Interests {#present}
+
+This winter the bay has more watchers than usual. The beacon chain and the Great Fire at [[place-durmelen|Durmelen]] watch the narrows, and the Castellan there has a Varokh boat under a green branch beached in the lee of his point, carrying a woman who asks for him by name. At [[place-sarmelis|Sarmelis]] the boom was closed on a false fire, an [[affiliation-ordoarcanis|Order]] scholar up from Kalipsa is hiring the boats' best hands as guards, and the beacon-watch at [[place-hendrel|Hendrel]] has seen a darker shape on the water, carrying no lamp, three nights running.
+
 ## What Stands on It
 
 [[place-sarmelis|Sarmelis]] is the bay's one harbor for ships, at its head behind a stone mole. [[place-durmelen|Durmelen]] stands on the tip of the Élavendren horn at the narrows, with the Great Fire of the beacon chain on its tower, and the [[place-coastroad|Coast Road]] runs from the fort along the shore to the border of [[place-lirve|Lirve]]. The [[affiliation-beaconfamlys|Beacon Families]] keep a lamp on every headland between.

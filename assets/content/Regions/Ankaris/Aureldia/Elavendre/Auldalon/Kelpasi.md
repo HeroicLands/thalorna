@@ -38,6 +38,10 @@ Priests sent up from the lowlands have generally reported the village devout and
 [[lore-aelendnppl|Áelendan]] passing through the hills are received here in a way that suggests an
 older acquaintance than either side discusses.
 
+## The Present {#present}
+
+The village is waiting on two arrivals. A priest from the lowlands is expected within the month to see that Kélpasi is devout, and the Speaker to the Lowlands, who meets every such visitor at the last bend of the track, took the winter cloth down to [[place-valdun|Valdun]] and has not come back. The [[affiliation-thrglnklps|Thárgalon]] cannot choose another Speaker while the Speaker's own hearth has no voice at the spring, and the elders do not mean the priest to be met by anyone else.
+
 ## Life
 
 Sheep, ponies, oats and barley on the valley floor, charcoal off the slopes, and a great deal of
@@ -46,4 +50,4 @@ names.
 
 ## See Also
 
-- [[place-auldalon|Áuldalon]] · [[place-valdun|Valdun]]
+- [[place-auldalon|Áuldalon]] · [[place-valdun|Valdun]] · [[affiliation-thrglnklps|Thárgalon of Kélpasi]] · [[lore-springguest|The Spring Guest]]

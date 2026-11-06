@@ -3,7 +3,13 @@ shortcode: silvrfrsts
 name: {full: The Silver Forests}
 type: place
 subType: region
-data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [alndntrblnds]
+  population: null
+  government: aelndntrbs
+  packFolder: elavendre
 ---
 
 Type
@@ -72,6 +78,15 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 [[lore-blacksnow|The Black Snow]]
 : The felling that gave the Áelendan their birch law
 
+[[place-aelirosse|Aelirosse]]
+: The Sinale enclave of the forests, near the Uron Tekhi
+
+[[place-urontekhi|The Uron Tekhi]]
+: The ancient tree in which the spirit of the same name is seated
+
+[[place-rngtrndpths|The Ring of Turned Paths]]
+: A ring of silver birch east of Sóurimel where the Sinale turn every path away
+
 [[place-hntrsrng|The Hunter's Ring]]
 : The ring of boundary stones on the forests' outer margin, and the hunter whose ground it holds
 
@@ -83,3 +98,9 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 
 [[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]
 : A scenario set at the Hunter's Ring
+
+[[scenario-thprncssmmr|The Prince's Summer]]
+: a scenario set here
+
+[[scenario-smmrpsttrln|The Summer Past the Tree Line]]
+: a scenario set here

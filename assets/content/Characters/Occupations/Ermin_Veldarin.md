@@ -11,7 +11,7 @@ data:
   occupation: Town Guard
   lore: []
   culture: elavendriclt
-  homes: [elavendre]
+  homes: [liranel]
   affiliations: {kngdmlvndr: {rank: 2}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk

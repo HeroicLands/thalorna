@@ -105,3 +105,4 @@ The [[affiliation-univperavel|University of Péravel]] holds the capital's court
 ## See Also
 
 - [[place-elavendre|Élavendre]] · [[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+- [[scenario-kprscphr|The Keeper's Cipher]], a scenario set here

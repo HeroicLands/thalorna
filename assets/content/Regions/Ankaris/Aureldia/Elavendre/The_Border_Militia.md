@@ -4,7 +4,7 @@ name: {full: The Border Militia}
 type: affiliation
 subType: polity
 description: "The crown's standing soldiers at the kingdom's border posts and in its forest patrols, and the muster of tenants and knights that stands beside them, called by turns and by the horn and the beacon."
-tags: [draft]
+tags: []
 data:
   culture: elavendriclt
   templatePriority: null
@@ -43,11 +43,11 @@ data:
         Held by a Captain who is a man of the hills. Calls the hill levy to muster at Valdun and leads it in the field, and answers to the Captain of the Border Militia.
       Muster-Serjeant: >-
         Held by a Serjeant. Keeps the levy rolls of a district and calls each village's turn to its post.
-  seat: null
+  seat: valdun
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [kngdmlvndr]
   relations: {}
   packFolder: elavendre
 sohl: {system: {commonSkills: [elvndrlng]}}

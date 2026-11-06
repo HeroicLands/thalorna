@@ -51,7 +51,7 @@ Nobody else uses it. The Áelendan kneel at the edge and leave bread, as the fir
 
 The Áelendan want the pool left as it is, and the bread on the stone. The Wardens of the Silver Forests want it kept out of every Order survey. The Order wants a sample of the water and a look at what is under it. Lauva wants what she has always wanted from those who come: to be spoken to well, and left alone.
 
-A fellow of the [University of Péravel]{.name data-type="affiliation"} has asked the Order's chapterhouse for guards to carry a lead-lined vessel to the Silver Forests and bring it back full. The Wardens know he has asked.
+A fellow of the [[affiliation-univperavel|University of Péravel]] has asked the Order's chapterhouse for guards to carry a lead-lined vessel to the Silver Forests and bring it back full. The Wardens know he has asked.
 
 ## History {#history}
 

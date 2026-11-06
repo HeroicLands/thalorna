@@ -3,7 +3,7 @@ shortcode: ylthklmrth
 name: {full: Jalith Kálmereth}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Jalith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with broad cheekbones, a high forehead, and an angular jaw that leads to a firm chin. Her bright gray eyes sit beneath expressive brows and give her a lively gaze. She has a delicate nose and wide lips. She has light skin with a lightly freckled complexion. Her white hair is flowing past her shoulders.
+Jalith Kálmereth is a 32-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with broad cheekbones, a high forehead, and an angular jaw that leads to a firm chin. Her bright gray eyes sit beneath expressive brows and give her a lively gaze. She has a delicate nose and wide lips. She has light skin with a lightly freckled complexion. Her white hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 

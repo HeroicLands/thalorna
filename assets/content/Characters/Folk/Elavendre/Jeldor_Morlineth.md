@@ -13,7 +13,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [valdun]
-  affiliations: {kngdmlvndr: {rank: 4}}
+  affiliations: {kngdmlvndr: {rank: 4}, brdrmltia: {rank: 4, office: Hill-Captain of Valdun}}
   socialTies: {being-elenorthaurn: acquaintance}
   gender: male
   species: humanflk
@@ -37,7 +37,7 @@ Jeldor Mórlineth is a 35-year-old man who stands 5'9" tall and is of heavy buil
 
 # Dossier {#dossier}
 
-Jeldor Mórlineth is a hill knight of [[place-valdun|Valdun]], holding his steading of a house of the hills for service in arms. He leads the muster of the hill levy: drovers, foresters, smiths and their sons, mounted on Áuldalon ponies, who have done this before and expect to do it again. Its officers are local men, and Jeldor is the one the others follow.
+Jeldor Mórlineth is a hill knight of [[place-valdun|Valdun]], holding his steading of a house of the hills for service in arms. He is the Hill-Captain of Valdun of [[affiliation-brdrmltia|the Border Militia]] and leads the muster of the hill levy: drovers, foresters, smiths and their sons, mounted on Áuldalon ponies, who have done this before and expect to do it again. Its officers are local men, and Jeldor is the one the others follow.
 
 The levy musters at Valdun and is not a noble force and does not pretend to be. Its opinion of the court's cavalry is unprintable, and its record against Varokh war-parties and Grukar bands is better. The market town between raids is prosperous, with great drove fairs and the iron of the eastern bloomeries, and the pack-trains from the east pay their escort money in Valdun's yards, to men who would in any case have been the ones to worry.
 

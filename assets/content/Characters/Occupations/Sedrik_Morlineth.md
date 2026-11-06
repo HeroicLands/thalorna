@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sedrik Mórlineth is a 49-year-old man who stands 6'3" tall and is broad and solidly built. He has a long face with soft cheekbones, a lined forehead, and a rounded jaw that leads to a firm chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A narrow nose and narrow lips complete his features. He has light skin with a weathered complexion. His black hair is long and gathered with a leather thong.
+Sedrik Mórlineth is a 48-year-old man who stands 6'3" tall and is broad and solidly built. He has a long face with soft cheekbones, a lined forehead, and a rounded jaw that leads to a firm chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A narrow nose and narrow lips complete his features. He has light skin with a weathered complexion. His black hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 

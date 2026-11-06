@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The central sacred mountain range of Élavendre—heart of Áelendan territory, holding the greatest concentration of sacred sites in Ankaris, and sovereign to the tribes by ancient law the crown has never tried to revise."
 tags: [mountain, sacred]
-data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [alndntrblnds]
+  population: null
+  government: aelndntrbs
+  packFolder: elavendre
 
 # terran_analog: "The Swiss Alps and adjacent Savoyard Alpine massifs—the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Kervaron Spine that forms the Vilérian frontier further east."
 ---
@@ -45,7 +51,7 @@ Mountain sanctuaries
 : High-elevation sites on the peaks and ridges, often associated with particular fae beings or with specific Kindred Pact pledges.
 
 Sacred springs and lakes
-: Water sources held to be especially sacred, around which certain Áelendan rituals are performed.
+: Water sources held to be especially sacred, around which certain Áelendan rituals are performed, among them [[place-longstair|the Long Stair]], seat of the river-mother Sálenda.
 
 Thin places
 : The [[lore-aralwen|Araelwen]], every one of them sacred and forbidden to outsiders without exception, and every one dangerous. The Spine holds more of them than anywhere else in the kingdom.
@@ -103,3 +109,12 @@ The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar S
 
 [[place-graznmntns|The Grazian Mountains]]
 : A separate, far-eastern range between Vedyara and Khazrin (no relation to the Drenavar despite occasional Tellumi folk-confusion)
+
+[[scenario-sngwrttnnwx|A Song Written in Wax]]
+: a scenario set here
+
+[[scenario-rpctfrmblw|The Rope Cut from Below]]
+: a scenario set here
+
+[[scenario-smmrpsttrln|The Summer Past the Tree Line]]
+: a scenario set here

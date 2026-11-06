@@ -63,7 +63,7 @@ A student learns to hear before learning to read. The Áelendi he hears is the h
 
 ## Masters {#masters}
 
-The **Master of the College** keeps the curriculum and says which pupils go up the valleys. The **Examiner of Tongues** tests each pupil in speech and in the carved word before the license is given.
+The **Master of the College**, [[being-kalvirneilsv|Kálvirne Ílsevende]], keeps the curriculum and says which pupils go up the valleys. The **Examiner of Tongues** tests each pupil in speech and in the carved word before the license is given.
 
 ## The Present Quarrel {#present}
 

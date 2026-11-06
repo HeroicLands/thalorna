@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kélvira Salthar is a 42-year-old woman who stands 5'5" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. Her bright blue eyes sit beneath arched brows, lending her a lively gaze. A delicate nose and wide lips complete her features. She has pale skin with a smooth complexion. Her auburn hair is twisted into an elaborate arrangement. A notable feature is a slight squint from years of reading by candlelight.
+Kélvira Salthar is a 41-year-old woman who stands 5'5" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. Her bright blue eyes sit beneath arched brows, lending her a lively gaze. A delicate nose and wide lips complete her features. She has pale skin with a smooth complexion. Her auburn hair is twisted into an elaborate arrangement. A notable feature is a slight squint from years of reading by candlelight.
 
 # Dossier {#dossier}
 

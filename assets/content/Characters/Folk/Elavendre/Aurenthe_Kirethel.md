@@ -41,13 +41,13 @@ data:
 
 # Appearance {#appearance}
 
-Áurenthe Kírethel is a 52-year-old woman who stands 5'7" tall and is of medium build. She has pale skin lined at the eyes, gray hair worn long and bound with a plain silver cord, and gray eyes that rest on a speaker until he has finished. Her fingers are long and calloused at the tips from the harp, which she plays well and only in private, and a thin white scar crosses her left palm. In court she wears dove-gray and green with nothing on her head; she keeps the crown for the crowning and for the dead. She listens far more than she speaks, and when she answers she chooses words that read two ways.
+Áurenthe Kírethel is a 51-year-old woman who stands 5'7" tall and is of medium build. She has pale skin lined at the eyes, gray hair worn long and bound with a plain silver cord, and gray eyes that rest on a speaker until he has finished. Her fingers are long and calloused at the tips from the harp, which she plays well and only in private, and a thin white scar crosses her left palm. In court she wears dove-gray and green with nothing on her head; she keeps the crown for the crowning and for the dead. She listens far more than she speaks, and when she answers she chooses words that read two ways.
 
 # Dossier {#dossier}
 
 Queen Áurenthe Kírethel reigns over the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] in her own right, from the court at [[place-beravel|Péravel]], and is the head of the royal [[affiliation-hsekirethel|House of Kírethel]]. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Yélaras]].
 
-She wants to keep the balance every reign of her house has kept, and to keep it without incident, which none has managed. She keeps the [[affiliation-ordoarcanis|Thordimalon]] warm inside the walls and guided beyond them, the [[lore-aelendnppl|Áelendan]] content, and the [University of Péravel]{.name data-type="affiliation"} teaching. She would like, once in her reign, to be asked up to [[place-eshalshldg|Ésalosa]], and she has not been asked.
+She wants to keep the balance every reign of her house has kept, and to keep it without incident, which none has managed. She keeps the [[affiliation-ordoarcanis|Thordimalon]] warm inside the walls and guided beyond them, the [[lore-aelendnppl|Áelendan]] content, and the [[affiliation-univperavel|University of Péravel]] teaching. She would like, once in her reign, to be asked up to [[place-eshalshldg|Ésalosa]], and she has not been asked.
 
 ## Background
 

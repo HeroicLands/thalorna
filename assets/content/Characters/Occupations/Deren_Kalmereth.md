@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Deren Kálmereth is a 25-year-old woman who stands 5'9" tall and is of moderate build. She has an oval face with high cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her hooded amber eyes sit beneath arched brows, lending her a guarded gaze. A delicate nose and narrow lips complete her features. She has light skin with a pale complexion. Her brown hair is loose and wavy.
+Deren Kálmereth is a 24-year-old woman who stands 5'9" tall and is of moderate build. She has an oval face with high cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her hooded amber eyes sit beneath arched brows, lending her a guarded gaze. A delicate nose and narrow lips complete her features. She has light skin with a pale complexion. Her brown hair is loose and wavy.
 
 # Dossier {#dossier}
 

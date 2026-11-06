@@ -4,7 +4,7 @@ name: {full: Enclave of Aelirosse}
 type: affiliation
 subType: polity
 description: "The Sinale of Aelirosse in the Silver Forests, governed by their own lord, answering to neither the crown of Élavendre nor the Áelendan Wardens, and closer to their Áelendan neighbors than any Sinale community in the world."
-tags: [draft]
+tags: []
 data:
   templatePriority: null
   demonym: null

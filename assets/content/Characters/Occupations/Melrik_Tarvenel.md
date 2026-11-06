@@ -11,8 +11,8 @@ data:
   occupation: Man-at-Arms
   lore: []
   culture: elavendriclt
-  homes: [elavendre]
-  affiliations: {kngdmlvndr: {rank: 2}, arldnpnthn: {rank: 1}}
+  homes: [valdun]
+  affiliations: {kngdmlvndr: {rank: 2}, brdrmltia: {rank: 2}, arldnpnthn: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.246

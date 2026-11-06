@@ -4,7 +4,7 @@ name: {full: The Beacon Families}
 type: affiliation
 subType: polity
 description: "The lines of the Lísere shore who keep the beacon chain, each from its headland station, and govern their villages by a council of line-heads that answers the Great Fire at Durmelen."
-tags: [draft]
+tags: []
 data:
   culture: elavendriclt
   templatePriority: null
@@ -43,7 +43,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [kngdmlvndr]
   relations: {}
   packFolder: elavendre
 sohl: {system: {commonSkills: [elvndrlng]}}
@@ -63,7 +63,7 @@ To be put out of the chain is the heaviest sentence the council has. A man struc
 
 ## Current Situation {#present}
 
-The chain is under strain. The Order's gold at [[place-sarmelis|Sarmelis]] is pulling lamp-hands off the stations, and a winter beacon with one man on it is a beacon that a raid can darken. The Chain-Keeper, an old Head of a Line of the stretch toward Durmelen, has asked the council to forbid its lamp-hands to hire out, and the council is divided.
+The chain is under strain. The Order's gold at [[place-sarmelis|Sarmelis]] is pulling lamp-hands off the stations, and a winter beacon with one man on it is a beacon that a raid can darken. The Chain-Keeper, [[being-osselhersel|Ossel Hérselnde]], an old Head of a Line of the stretch toward Durmelen, has asked the council to forbid its lamp-hands to hire out, and the council is divided.
 
 The council has a second trouble that it does not discuss. The stretch behind the [[place-dskfrd|Dusk Ford]] is raided less than the rest, and the stretch nearest [[place-fndr|the Fen Door]] keeps its lamps lit every night of the winter whether a raid is feared or not. The lines at Hendrel and Harnasel each ask the council, in their own way, that the chain be left as it is.
 

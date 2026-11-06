@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Darva Nareth is a 28-year-old woman who stands 5'11" tall and is slender. She has an oval face with angular cheekbones, a prominent forehead, and a narrow jaw that leads to a delicate chin. Her narrow green eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and expressive lips complete her features. She has fair skin with a fair complexion. Her graying brown hair is flowing past her shoulders.
+Darva Nareth is a 27-year-old woman who stands 5'11" tall and is slender. She has an oval face with angular cheekbones, a prominent forehead, and a narrow jaw that leads to a delicate chin. Her narrow green eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and expressive lips complete her features. She has fair skin with a fair complexion. Her graying brown hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 

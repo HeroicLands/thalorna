@@ -88,8 +88,17 @@ A handful of chartered lowland settlements sit at the edge of the Lands, among t
 [[place-eshalshldg|Ésalosa Lodge]]
 : The principal Áelendan settlement, a ceremonial and political gathering place in a sheltered valley of the Drenavar Spine
 
-The Silver Forests
+[[place-silvrfrsts|The Silver Forests]]
 : An ancient fae-touched woodland under heavy Warden watch, shared in neighborly arrangement with the [[lore-flksinale|Sinale]]
+
+[[place-ethalosse|Ethalosse]]
+: The threshold enclave at the eastern margin, through which the Sinale deal with the world by way of Áelendan carriers
+
+[[place-owlhollow|The Owl Hollow]]
+: The seat of the owl-spirit Óssenda, where Death-Speakers ask whether the recently dead have gone
+
+[[place-nelgan|The Snow-Gate]]
+: The eastern pass the people came over in snow, kept by a Wardens' watch-post
 
 Mountain sanctuaries and grove shrines
 : Scattered across the interior; each has its own standing in the Kindred Pact and its own customary protocols

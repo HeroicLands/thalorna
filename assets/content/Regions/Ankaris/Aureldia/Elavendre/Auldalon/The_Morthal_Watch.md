@@ -4,7 +4,7 @@ name: {full: The Morthal Watch}
 type: affiliation
 subType: polity
 description: "The crown's company of riders and road-watchmen who hold the bay road through the Morthal March under the Warden of Morthal, count what crosses and stop at the tree line."
-tags: [draft]
+tags: []
 data:
   culture: elavendriclt
   templatePriority: null
@@ -45,7 +45,7 @@ data:
   population: null
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [kngdmlvndr]
   relations: {}
   packFolder: elavendre
 sohl: {system: {commonSkills: [elvndrlng]}}
@@ -53,7 +53,7 @@ sohl: {system: {commonSkills: [elvndrlng]}}
 
 ## Overview {#overview}
 
-The **Morthal Watch** is the company that holds the bay road through [[place-morthalmrch|the Morthal March]]. Its Watchmen come from the March's own steadings and stand the posts in turns, its Riders are the crown's sworn men on hill ponies, and over both stands the **Warden of Morthal**. The Áelendan [[affiliation-alndnwrdns|Wardens]] have the same word in their name and hold the heights above the road, and the March's people say _the March-warden_ when they mean the crown's.
+The **Morthal Watch** is the company that holds the bay road through [[place-morthalmrch|the Morthal March]]. Its Watchmen come from the March's own steadings and stand the posts in turns, its Riders are the crown's sworn men on hill ponies, and over both stands the **Warden of Morthal**, [[being-theirnmrlnth|Théironand Mórlineth]]. The Áelendan [[affiliation-alndnwrdns|Wardens]] have the same word in their name and hold the heights above the road, and the March's people say _the March-warden_ when they mean the crown's.
 
 ## How It Is Ruled {#how-it-is-ruled}
 

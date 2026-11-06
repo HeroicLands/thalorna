@@ -4,7 +4,7 @@ name: {full: The Seasonal Councils}
 type: lore
 subType: custom
 description: "The four sittings of the Áelendan common council at Ésalosa Lodge at the turn of each season, when the Wardens change their watches, the Moot of the Silver Forests sits the day after, and the truce-held market opens."
-tags: [custom, aelendan, draft]
+tags: [custom, aelendan]
 data: {culture: aelendanclt, packFolder: elavendre}
 ---
 

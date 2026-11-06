@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ívelin Salreth is a 29-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with angular cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows and give her a candid gaze. She has a delicate nose and thin lips. She has fair skin with a fair complexion. Her gray hair is twisted into an elaborate arrangement.
+Ívelin Salreth is a 28-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with angular cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows and give her a candid gaze. She has a delicate nose and thin lips. She has fair skin with a fair complexion. Her gray hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 

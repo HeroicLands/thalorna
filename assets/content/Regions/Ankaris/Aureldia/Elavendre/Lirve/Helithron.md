@@ -3,8 +3,8 @@ shortcode: heligstrom
 name: {full: Hélithron}
 type: place
 subType: settlement
-description: "A village of Lirve in the forest country around Liranel, where the men of the warlord and privateer Jarl Kervan Redblade have been seen watching for the alchemist Sevren Mírkelis."
-tags: [village, woodland, draft]
+description: "A woodcutting village of the licensed forest behind Liranel, where strangers have been seen watching the road the alchemist Sevren Mírkelis travels, and the hauling season is about to begin."
+tags: [village, woodland]
 data:
   demonym: null
   lore: []
@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-Hélithron is a village of about 300 in [[place-lirve|Lirve]], on the western coast of [[place-elavendre|Élavendre]], in the country around the forest town of [[place-liranel|Liranel]] where the alchemist [[being-sevnmyrkls|Sevren Mírkelis]] does his work. It is an ordinary village with an unordinary watch on it: the men of **Jarl [Kervan Redblade]{.name data-type="being/npc"}**, a notorious warlord and privateer, have been seen lurking around Hélithron.
+Hélithron is a village of about 300 in [[place-lirve|Lirve]], on the western coast of [[place-elavendre|Élavendre]], in the country around the forest town of [[place-liranel|Liranel]] where the alchemist [[being-sevnmyrkls|Sevren Mírkelis]] does his work. It is an ordinary village with an unordinary watch on it: the men of [Kervan Redblade]{.name data-type="being/npc"}, a warlord and privateer, have been seen watching the road through Hélithron.
 
 ## The Village {#the-village}
 
@@ -24,11 +24,11 @@ Hélithron lies in the licensed forest of the inner coast. The Crown's forest co
 
 ## Who Leads It {#who-leads}
 
-Hélithron belongs to the [[affiliation-kngdmlvndr|Kingdom of Élavendre]]. A quarrel in the village goes to the grove-elder, as in every [[lore-elavendriclt|Élavendri]] village, a case for the crown goes to the royal courts of the shire, and the crown's sheriffs collect what the village owes.
+Hélithron belongs to the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], and its reeve, [[being-kelvasehalrn|Kélvase Halren]], elected each spring, keeps its coppice rights, its hauling roster and its tally against the forest court. A quarrel in the village goes to the grove-elder, as in every [[lore-elavendriclt|Élavendri]] village, a case for the crown goes to the royal courts of the shire, and the crown's sheriffs collect what the village owes.
 
 ## Kervan's Watch {#present}
 
-Kervan once asked Sevren for a dangerous elixir that heightens a fighter in combat, meaning to use it to win a bloody power struggle, and Sevren refused to sell it. That refusal made Kervan a dangerous enemy. Sevren avoids any direct confrontation, and he reads the men at Hélithron as a sign that retaliation is coming. Nobody has asked the men what they are waiting for, and anyone who travels with Sevren through the village travels inside Kervan's grudge.
+Kervan once asked Sevren for a dangerous elixir that heightens a fighter in combat, meaning to use it to win a bloody power struggle, and Sevren refused to sell it. That refusal made Kervan a dangerous enemy. Sevren avoids any direct confrontation, and he reads the men at Hélithron as a sign that retaliation is coming. Nobody has asked the men what they are waiting for, and anyone who travels with Sevren through the village travels inside Kervan's grudge. The hauling season begins at the thaw, the village's carts go down that road to the yards at Liranel every day of it, and the reeve wants the road clear before the first of them.
 
 ## Hooks {#hooks}
 

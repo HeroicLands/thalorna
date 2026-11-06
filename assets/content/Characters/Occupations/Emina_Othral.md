@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Émina Othral is a 36-year-old woman who stands 5'3" tall and is slender. She has a heart-shaped face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a narrow chin. Her narrow gray eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and thin lips complete her features. She has fair skin with a pale complexion. Her blonde hair is twisted into an elaborate arrangement.
+Émina Othral is a 35-year-old woman who stands 5'3" tall and is slender. She has a heart-shaped face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a narrow chin. Her narrow gray eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and thin lips complete her features. She has fair skin with a pale complexion. Her blonde hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 

@@ -66,6 +66,18 @@ Somewhere in the woods of the hills stands the ditched camp of the cohort that f
 [[place-morthalmrch|The Morthal March]]
 : the crown's strip of shore and hill at the head of Lísere Bay, held by [[affiliation-morthalwtch|the Morthal Watch]].
 
+[[place-trbtrd|The Tribute Road]]
+: the legion's road over the ridges, its milestones stopping at Valdun's gate.
+
+[[place-kptfr|The Kept Fire]]
+: the hall under a hill in the southern forest margin, which the drovers drive their flocks round.
+
+## Current Situation {#present}
+
+The march is short of men in a season that needs them. The Order hires guards for the interior in the inns of [[place-valdun|Valdun]] at wages the crown does not match, and [[being-elenorthaurn|Captain Élenor Thaurnde]] of [[affiliation-brdrmltia|the Border Militia]] keeps the sworn company at strength only by moving serjeants from quiet posts to loud ones, while [[being-jeldormorlin|Jeldor Mórlineth]], the Hill-Captain, wants the hill levy led by men who know the ground and not folded into her plan. On the bay road the [[affiliation-morthalwtch|Morthal Watch]] has pulled its hill posts to keep the causeway manned, and its Riders chase raiders to the tree line and stop there with the raiders in sight.
+
+The old war is stirring as well. A hunter has brought into Valdun an imperial helmet that has not rusted and will not say where in the woods he found it, and the [[affiliation-ordoarcanis|Order]]'s antiquarians in the town are paying for his road to the lost cohort's camp. The drovers of the southern hills hold that only one place in the margin keeps iron bright, and they drive their flocks the long way round it.
+
 ## See Also
 
 - [[place-elavendre|Élavendre]] · [[place-sorvanda|Sórvanda]] · [[place-vrystwald|Vristwald]]

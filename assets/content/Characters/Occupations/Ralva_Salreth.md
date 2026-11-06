@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ralva Salreth is a 32-year-old woman who stands 5'7" tall and is of moderate build. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A narrow nose and narrow lips complete her features. She has tanned skin with a smooth complexion. Her blonde hair is twisted into an elaborate arrangement.
+Ralva Salreth is a 31-year-old woman who stands 5'7" tall and is of moderate build. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A narrow nose and narrow lips complete her features. She has tanned skin with a smooth complexion. Her blonde hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 

@@ -68,6 +68,10 @@ what it says.
 
 Sálenda has never been asked directly. Asking would require climbing.
 
+## Converging Interests {#present}
+
+The Stair is not secret, and that is its present trouble. The tribes about it bring lowlanders to the lowest pool with the offering explained beforehand, and this year one who asked to be brought was an [[affiliation-ordoarcanis|Order]] scholar whose questions were all about the wording of the first prohibition. The tribes refused him, and the [[affiliation-alndnwrdns|Wardens]] of the Spine have been told that he has asked again, of a guide out of [[place-liranel|Liranel]] who does not stop at the margins. The craft-economy of the Stair goes on regardless: carvings, leather and small metalwork made slowly by people who mean to give them away and do not want to.
+
 ## Outsiders
 
 The Stair is deep in the [[place-alndntrblnds|Áelendan Tribal Lands]] and the

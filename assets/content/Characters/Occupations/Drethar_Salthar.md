@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Drethar Salthar is a 51-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with high cheekbones, a narrow forehead, and an angular jaw that leads to a delicate chin. His round blue eyes sit beneath straight brows, lending him a candid gaze. A slightly upturned nose and full lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is combed neatly to one side.
+Drethar Salthar is a 50-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with high cheekbones, a narrow forehead, and an angular jaw that leads to a delicate chin. His round blue eyes sit beneath straight brows, lending him a candid gaze. A slightly upturned nose and full lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

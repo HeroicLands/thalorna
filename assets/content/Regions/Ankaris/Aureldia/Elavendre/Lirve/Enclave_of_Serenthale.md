@@ -4,7 +4,7 @@ name: {full: Enclave of Serenthale}
 type: affiliation
 subType: polity
 description: "The withdrawn Sinale enclave of Lirve's sea-facing forest, governed by its own lord, in contact with others only at its own initiative, and the enclave every Arcane Order expedition to Lirve is looking for."
-tags: [draft]
+tags: []
 data:
   templatePriority: null
   demonym: null

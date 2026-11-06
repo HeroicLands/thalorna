@@ -3,7 +3,7 @@ shortcode: khornhalrn
 name: {full: Horen Halren}
 type: being
 subType: npc
-tags: [draft, soldiery]
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Horen Halren is a 36-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with defined cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. His almond-shaped hazel eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
+Horen Halren is a 35-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with defined cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. His almond-shaped hazel eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

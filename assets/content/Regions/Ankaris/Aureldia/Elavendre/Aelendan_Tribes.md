@@ -77,7 +77,7 @@ The council's delegates argue and do not bind, and they are divided. Some tribes
 
 ## The Tribes {#tribes}
 
-A tribe is the clans of a valley or a range, and it takes the name of its oldest clan with the ending that means "those of". Seven hold the interior between the Lodge and the passes. Each keeps its own Council of Elders, its own lodge hearth and its own Kindred, and each sends delegates to the common council that meets at [[place-eshalshldg|Ésalosa Lodge]].
+A tribe is the clans of a valley or a range, and it takes the name of its oldest clan with the ending that means "those of". Seven hold the interior between the Lodge and the passes. Each keeps its own Council of Elders, its own lodge hearth and its own Kindred, and each sends delegates to the common council that meets at [[place-eshalshldg|Ésalosa Lodge]], where [[being-khoradeldhrg|Khoradel]] of the Dhárgandi is its Speaker.
 
 The [Dhárgandi]{.name data-type="affiliation/polity"}
 : The tribe of the Lodge, whose hall was kindled from the Lodge's hearth. They hold that [Dhargan]{.name data-type="being/npc"}, who sat at the wood's edge, founded their line, and the chief who felled the birch in the Black Snow bore Dhargan's face ([[lore-blacksnow|The Black Snow]]). They send an ember back to the Lodge at each founding, send their young to its rites, and are heard first when it calls the tribes together. A Warden of the Dhárgandi keeps the watch at the Fen Door in Lísere.

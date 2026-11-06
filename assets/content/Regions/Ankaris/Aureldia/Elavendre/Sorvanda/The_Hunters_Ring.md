@@ -4,7 +4,7 @@ name: {full: The Hunter's Ring, aele: [pálmirno]}
 type: place
 subType: site
 description: "A ring of carved boundary stones on the outer margin of the Silver Forests, with an empty keepers' lodge at its edge, that holds the ground of a fae hunter which takes whoever walks alone inside it."
-tags: [draft, woodland, sacred, haunted]
+tags: [woodland, sacred, haunted]
 data:
   demonym: null
   lore: []
@@ -42,7 +42,7 @@ It wears what it takes. A hunter caught in the ring is seen again, so the tellin
 In a taken shape the hunter walks its prey's last road again: from wherever the prey was taken back along the way the prey came, at dusk, to whoever the prey last spoke to, and it calls the prey's last words there. It takes the dead as readily as the living. A body left lying alone inside the line is the one alone, and the hunter wears it the next dusk as it wears any other.
 :::
 
-## The Stones and the Lodge
+## The Stones and the Lodge {#history}
 
 The Wardens say the stones are the bound of its ground. In their teaching a mark-stone standing upright closes the line on either side of it, and the space within arm's reach of an upright stone lies outside the hunt. The Wardens' word for such a bound is _ruthis_, the bound of a hallowed place, and a Warden teaching the young says it as a rule: nothing walks alone in the ring, and nothing runs from it but toward a standing stone.
 
@@ -56,7 +56,11 @@ A fallen stone, the Wardens say, opens the line. While the ring is whole the hun
 
 Silver is the usual reason a stone falls. The bands round the stones' heads are worth prying off, and a thief who sets his bar under one finds the stone comes up with it.
 
-## Who Knows, and What They Say
+## What Is There Now {#present}
+
+The ring is open. Four stones lie overturned in a line on the uphill side, their silver bands pried off, and the paths around the ring fold inward as far as the road. An envoy who was carrying a sealed casket along the road to [[place-eshalshldg|Ésalosa Lodge]] for the great council is missing with his escort, a [[affiliation-alndnwrdns|Warden]] of the Silver Forests is on her way down to look for them, and smoke has been seen from the keepers' empty lodge for two days.
+
+### Who Knows, and What They Say
 
 - **The Wardens** of the Silver Forests know the ring, its rule and its songs, and keep the songs' last verses to themselves. They escort travelers along the road below it and do not let them stop.
 - **Sóurimel** tells its children that the deer in the stone ring belong to someone. Its charcoal-burners leave the road a mile short of the lodge and rejoin it a mile past.
@@ -67,7 +71,7 @@ Silver is the usual reason a stone falls. The bands round the stones' heads are 
 
 The ring lies a day's walk along the envoys' road from the last lowland steading, inside sacred territory, on a road the Wardens watch. A party traveling the road under Warden escort passes the lodge in daylight. A party traveling without leave meets a Warden before it meets the ring.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The envoy and the casket.** An envoy carrying a sealed casket to Ésalosa is missing on the road beside the ring, and a Warden needs companions to look for him.
 - **Silver on the stones.** A fence in [[place-beravel|Péravel]] has bought silver bands of an old pattern from a band of poachers and wants more.

@@ -63,7 +63,7 @@ A student begins in the public gallery of the [[affiliation-twncnclprtaln|town c
 
 ## Masters {#masters}
 
-The **Master of the College** chooses which envoy goes where. An **Envoy of the College** carries its word. The College keeps no post for a spy, and its Master says so whenever asked.
+The **Master of the College**, [[being-ryethsemroth|Ryéthesand Sémrothende]], chooses which envoy goes where. An **Envoy of the College** carries its word. The College keeps no post for a spy, and its Master says so whenever asked.
 
 ## The Present Quarrel {#present}
 

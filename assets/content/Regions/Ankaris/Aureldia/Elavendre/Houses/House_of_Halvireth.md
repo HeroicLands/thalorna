@@ -58,14 +58,14 @@ Seat
 : the river-meadows of the Berav below Péravel
 
 Head
-: [Taeren]{.name data-type="being/npc"}
+: [[being-taerenhalvir|Taeren]]
 
 Heir
 : [Sílvera]{.name data-type="being/npc"}, his daughter
 
 ## The House Now {#the-house-now}
 
-The head of the house is [Taeren]{.name data-type="being/npc"}, who holds the river-meadows and whose people eat. His heir is his daughter [Sílvera]{.name data-type="being/npc"}, an infant, counted into the line at her naming feast in the hearing of everyone who might dispute it. Her other name, the shadow name, is not for the hall.
+The head of the house is [[being-taerenhalvir|Taeren]], who holds the river-meadows and whose people eat. His heir is his daughter [Sílvera]{.name data-type="being/npc"}, an infant, counted into the line at her naming feast in the hearing of everyone who might dispute it. Her other name, the shadow name, is not for the hall.
 
 Taeren's father [Méldoreth]{.name data-type="being/npc"} followed the art at Péravel and came home, and kept a harper twenty years and paid him. A house that produces no artists and no mages across two generations stops being counted in the first rank, and the house of Hálvireth has kept a harper and sent its children to the art.
 
@@ -82,7 +82,7 @@ Taeren's father [Méldoreth]{.name data-type="being/npc"} followed the art at P�
 
 **The claim.** The Dhárgandi who come down to the autumn fair at [[place-elanmere|Elanmere]] keep no daughter of [Ronken]{.name data-type="being/npc"} who went down to the basin. The house has sung Sírtala at the fair every autumn since [Velthar]{.name data-type="being/npc"} went up and sang the line there, and nobody at the fair has stood up. The house's standing rests on the old blood, and the old blood rests on a woman the Dhárgandi have never named. Every autumn the house's bard goes up to Elanmere and sings her again.
 
-**The Order.** [Ílthera]{.name data-type="being/npc"}, an earlier head of the house, held a chair at court against [[affiliation-ordoarcanis|the Order]] and kept it, and the house still sings her for it. It sits a short ride below a capital where the [University of Péravel]{.name data-type="affiliation"} educates the children of the nobility.
+**The Order.** [Ílthera]{.name data-type="being/npc"}, an earlier head of the house, held a chair at court against [[affiliation-ordoarcanis|the Order]] and kept it, and the house still sings her for it. It sits a short ride below a capital where the [[affiliation-univperavel|University of Péravel]] educates the children of the nobility.
 
 ## History as Told {#history}
 

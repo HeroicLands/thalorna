@@ -140,3 +140,12 @@ A silver casket sent up for the council is overdue, and its envoy with it. The L
 
 [[place-talve|Talve]]
 : The fog-hollow within sound of the Lodge
+
+[[scenario-sngwrttnnwx|A Song Written in Wax]]
+: a scenario set here
+
+[[scenario-thprncssmmr|The Prince's Summer]]
+: a scenario set here
+
+[[scenario-smmrpsttrln|The Summer Past the Tree Line]]
+: a scenario set here

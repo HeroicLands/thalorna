@@ -86,7 +86,7 @@ The old tongue
 
 The Wardens operate by a doctrine of graduated response. Trespassers who stumble into sacred territory by accident are warned once and escorted out. Those who ignore warnings, return after being escorted out, or who desecrate a site are dealt with harshly. The Wardens do not engage in elaborate trials or appeals; the sacred territory is not a place where outside authorities hold sway, and the Wardens' judgment is final within it.
 
-This doctrine has come into particular prominence in recent decades as the [[affiliation-ordoarcanis|Thordimalon]]—operating from its substantial presence at the [University of Péravel]{.name data-type="affiliation"} and the Zulen (fellowship) chapterhouses in Élavendre's cities—has increasingly sent agents into rural territory to study and map the fae-touched landscapes. Arcane Order surveyors who venture too deep into the forests sometimes do not return. Research camps are found abandoned, notes scattered, equipment destroyed. The Wardens regard Arcane Order intrusions into sacred territory as violations of the oldest pacts of the land, and they respond accordingly—with warnings first, and with lethal force when warnings are ignored. The Arcane Order publicly deplores these "incidents" as barbarism; privately, it tallies its losses and sends more agents.
+This doctrine has come into particular prominence in recent decades as the [[affiliation-ordoarcanis|Thordimalon]]—operating from its substantial presence at the [[affiliation-univperavel|University of Péravel]] and the Zulen (fellowship) chapterhouses in Élavendre's cities—has increasingly sent agents into rural territory to study and map the fae-touched landscapes. Arcane Order surveyors who venture too deep into the forests sometimes do not return. Research camps are found abandoned, notes scattered, equipment destroyed. The Wardens regard Arcane Order intrusions into sacred territory as violations of the oldest pacts of the land, and they respond accordingly—with warnings first, and with lethal force when warnings are ignored. The Arcane Order publicly deplores these "incidents" as barbarism; privately, it tallies its losses and sends more agents.
 
 ### Relationship with the Crown
 
@@ -118,7 +118,7 @@ The Wardens' writ runs wherever Áelendan ground is, and some of it lies inside 
 
 The Araelwen are the order's first charge and the reason it exists, and the Wardens keep them according to what each one does.
 
-At a **door**, whether it lets in the fae or fell things, the Wardens keep the watch, the oldest form of their keeping: two sit by it through every night with spear and dog, turn what comes through by song, fire or stone, retire when it does not turn, and sing from shelter on the nights it wins. The watch on the fog-hollow [Talve]{.name data-type="place/site"} is the first, and a watch is never pulled.
+At a **door**, whether it lets in the fae or fell things, the Wardens keep the watch, the oldest form of their keeping: two sit by it through every night with spear and dog, turn what comes through by song, fire or stone, retire when it does not turn, and sing from shelter on the nights it wins. The watch on the fog-hollow [[place-talve|Talve]] is the first, and a watch is never pulled.
 
 At a place that **disturbs time**, such as [[place-hldhr|the Held Hour]], the Wardens keep the bounds and turn people away, and no Warden goes in.
 

@@ -3,7 +3,7 @@ shortcode: haliranrdh
 name: {full: Hálira Nareth}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hálira Nareth is a 22-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows and give her a keen gaze. She has a narrow nose and narrow lips. She has medium-toned skin with a clear complexion. Her silver hair flows past her shoulders. She has ink-stained fingers.
+Hálira Nareth is a 21-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows and give her a keen gaze. She has a narrow nose and narrow lips. She has medium-toned skin with a clear complexion. Her silver hair flows past her shoulders. She has ink-stained fingers.
 
 # Dossier {#dossier}
 

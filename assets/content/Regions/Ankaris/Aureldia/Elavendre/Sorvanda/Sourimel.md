@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A woodland settlement within the Silver Forests—one of the few permanent Élavendri holdings inside Áelendan country, existing on sufferance and on an agreement nobody will produce in writing."
 tags: [village, woodland, sacred]
-data: {demonym: null, lore: [], parents: [silvrfrsts], population: 600, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [silvrfrsts]
+  population: 600
+  government: kngdmlvndr
+  packFolder: elavendre
 ---
 
 **Sóurimel** lies inside [[place-silvrfrsts|the Silver Forests]] of [[place-sorvanda|Sórvanda]], which
@@ -33,6 +39,10 @@ pay absurd prices for. No felling of standing silver birch, ever, by anyone, for
 
 The village keeps the old festivals rather than the Aureldian calendar, and outsiders who arrive for
 one are made welcome and watched. The one outsiders remember is [[lore-handsbarnight|the Hands-Bare Night]].
+
+## The Present {#present}
+
+Sóurimel keeps the birch law beside [[place-aelirosse|Aelirosse]] and the [[lore-aelendnppl|Áelendan]], and this year the law has a breach to answer for. Someone cut a strip of bark from [[place-wkngstnd|the Waking Stand]], and it lies green in a chapterhouse collection at [[place-beravel|Péravel]]. The [[affiliation-alndnwrdns|Wardens]] of the Silver Forests want the man who cut it, the village is the nearest settled place to the Stand, and its people have been asked twice, courteously, who passed through in the autumn. The village's priestess of [[affiliation-lizelas|Lizelas]], [[being-melvesaelarv|Mélvesa Elarven]], has told them to answer plainly, and some of them have not.
 
 ## See Also
 

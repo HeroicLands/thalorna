@@ -32,7 +32,7 @@ Pick the entry that suits the hero. Each leads to [[place-dskfrd|the Dusk Ford]]
 
 A beacon-keeper of the shore asked the thing of the reeds to hold the raiders back, and the thing answered with a ford that takes a toll. Raiders who cross pay their names and sit forever on the benches of their ships. The line of the beacon-keeper crosses free.
 
-Warlan Garanth, the last of that line, has learned that the forfeits in the tally-house can be held. A man who holds a name commands the man it came from. He keeps a satchel of knotted cords, and a company of Forfeit-Men follow him, and he sells the rest to buyers on the Kalipsa run.
+Warlan Garanth, a cousin of that line through his mother, who crosses free as its kin do, has learned that the forfeits in the tally-house can be held. A man who holds a name commands the man it came from. He keeps a satchel of knotted cords, and a company of Forfeit-Men follow him, and he sells the rest to buyers on the Kalipsa run.
 
 ### Scene One: The First Stone
 

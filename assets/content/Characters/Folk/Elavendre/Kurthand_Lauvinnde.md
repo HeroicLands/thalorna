@@ -15,7 +15,7 @@ data:
   homes: [beravel]
   affiliations:
     clgline: {rank: 3, office: Master of the College}
-    bardicolgs: {rank: 3}
+    bardicolgs: {rank: 3, office: Master of a College}
     kngdmlvndr: {rank: 3}
   socialTies: {being-ielaraskir: acquaintance}
   gender: male

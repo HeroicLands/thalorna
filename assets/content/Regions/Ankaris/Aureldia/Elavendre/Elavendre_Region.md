@@ -15,6 +15,7 @@ data:
     - {to: tarvenirgn, bearing: S}
     - {to: toravarrange, bearing: S}
     - {to: eskarath, bearing: S}
+    - {to: provenzrgn, bearing: S}
   packFolder: elavendre
   government: kngdmlvndr
   culture: elavendriclt
@@ -22,7 +23,7 @@ data:
 # terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aureldian heartland of forest and river-valley farming."
 ---
 
-On the western shores of the [[place-ankrscntnnt|Ankaris Continent]], Élavendre stands as a beacon of culture and magic. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.
+Élavendre is the woodland kingdom of the western shore of the [[place-ankrscntnnt|Ankaris Continent]] where the world lies close to the fae, and its specialty is the thin places its ancestor tribes keep sacred and the Order wants above everything else in the west. Rich in history and tradition, Élavendre is a land where ancient forests meet rolling plains, and towering mountains overlook tranquil lakes. It is a place steeped in the arcane, where magic flows freely through the air and the people are deeply attuned to the land's mystical energies.
 
 At the heart of it lie the [[lore-aralwen|Araelwen]], the land's core mystery: thin places in its mountains and deep forests where the world lies close to the spirit world, time goes wrong, and doors open to the fae and to fell things. The [[lore-aelendnppl|Áelendan]] hold every one of them sacred and forbid them utterly to outsiders, and the [[affiliation-ordoarcanis|Thordimalon]] wants to study them more than anything else in the west.
 
@@ -64,7 +65,7 @@ Sacred groves, standing stones, and holy wells serve as places of worship alongs
 
 ## Magic {#present}
 
-Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial presence in the kingdom's cities—the [University of Péravel]{.name data-type="affiliation"} is the largest [[affiliation-panepistmm|Epistémion]] campus outside of the [[affiliation-vylarinmpr|Vilérian Empire]], with multiple Zulen (fellowship) chapterhouses—but its authority is bitterly contested by the kingdom's own traditions. [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle), [[affiliation-groveconcl|the Grove Council]], and the Áelendan guard magical practices that predate the Order by centuries, and the struggle between these institutions and the Order for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. The crown's settled position is that the Order is **permitted and limited**: it may hold its houses, teach, and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest. Where the limit runs is not the Order's to argue—the [[affiliation-alndnwrdns|Wardens]] enforce it, and the courts back them. In the cities the contest is accordingly conducted through civilized rivalry; beyond the walls it turns deadly (see [[affiliation-kngdmlvndr|the Thordimalon in Élavendre]]).
+Magic is woven into the fabric of Élavendren life in a way that is unique in western Ankaris. The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial presence in the kingdom's cities—the [[affiliation-univperavel|University of Péravel]] is the largest [[affiliation-panepistmm|Epistémion]] campus outside of the [[affiliation-vylarinmpr|Vilérian Empire]], with multiple Zulen (fellowship) chapterhouses—but its authority is bitterly contested by the kingdom's own traditions. [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle), [[affiliation-groveconcl|the Grove Council]], and the Áelendan guard magical practices that predate the Order by centuries, and the struggle between these institutions and the Order for influence over the kingdom's supernatural life is the defining tension of Élavendren politics. The crown's settled position is that the Order is **permitted and limited**: it may hold its houses, teach, and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest. Where the limit runs is not the Order's to argue—the [[affiliation-alndnwrdns|Wardens]] enforce it, and the courts back them. In the cities the contest is accordingly conducted through civilized rivalry; beyond the walls it turns deadly (see [[affiliation-kngdmlvndr|the Thordimalon in Élavendre]]).
 
 The fae influence that makes Élavendre so magically rich is real and tangible: strange lights in the forest, paths that shift between visits, and encounters with beings that are neither fully mortal nor fully divine. It is precisely this richness that draws the Order's relentless interest—and that the traditional institutions are determined to keep beyond its grasp.
 
@@ -190,10 +191,15 @@ The kingdom's economy runs inward and then out again: raw material from the four
 
 The forests are old—genuinely ancient in a way that the cleared, farmed landscapes of the [[place-vylariargn|Viléria Region]] and the Provénzia Region are not—and the boundary between the mortal world and the fae realm is thin.
 
+## History {#history}
+
+The Áelendan reckon themselves from the band that came over the eastern pass in snow about 1380 BF ([[lore-nelgancross|The Crossing of Nelgan]]) and from the Pact sung at the lowest pool of the Long Stair in the generation after ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]); the birch law of the Silver Forests stands from [[lore-blacksnow|the Black Snow]], and the Wardens' charge over the passes from [[lore-firesnelgan|the Fires on Nelgan]]. The lowland houses acclaimed the first king of Orethan about 560 BF ([[lore-firstcrown|The First Crowning of Élavendre]]), the kingdom bought its law and line from the Empire with a yearly tribute after the legions came into Áuldalon ([[lore-elvtribute|The Tribute of Élavendre]]), and the Wardens closed a king's workings above the tree line about 320 AF ([[lore-sorvandaclose|The Sórvanda Closing]]). The Nordmen fleets burned the north shore from 519 AF ([[lore-northshorefire|The Burning of the North Shore]]), and the tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]].
+
 ## Hooks {#hooks}
 
 - **The guard's choice.** An Order scholar at [[place-beravel|Péravel]] hires the party to keep him alive for a season in the interior, and the ground he means to reach is an [[lore-aralwen|Araelwen]].
 - **A watch left short.** The Warden watch at [[place-fndr|the Fen Door]] in Lísere is down to one keeper since midwinter, and no relief can come down before the passes open.
+- **The season.** [[scenario-smmrpsttrln|The Summer Past the Tree Line]] gathers the Order's hired guards, the heir's ride to Ésalosa and the Elanmere fair into one season.
 - **The Heart.** The Royal Loremaster [[being-aelithraenewyn|Áelithra Énevin]] wants a party to go into Úkua-Araelwen for the [[miscgear-heartofdhirikri|Heart of Dirikri]], and the Wardens know it.
 
 ## See Also
@@ -224,3 +230,6 @@ The forests are old—genuinely ancient in a way that the cleared, farmed landsc
 
 [[lore-flkkhazar|Khazari]]
 : The second elder race (no known presence in Élavendre)
+
+[[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+: a scenario set here

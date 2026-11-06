@@ -3,7 +3,7 @@ shortcode: alernprdln
 name: {full: Áleren Párdalen}
 type: being
 subType: npc
-tags: [draft, clergy]
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Áleren Párdalen is a 44-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and an angular jaw that leads to a narrow chin. His hooded hazel eyes sit beneath thin brows and give him a guarded gaze. He has a slightly upturned nose and thin lips. He has light skin with a clear complexion. His brown hair is combed neatly to one side.
+Áleren Párdalen is a 43-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and an angular jaw that leads to a narrow chin. His hooded hazel eyes sit beneath thin brows and give him a guarded gaze. He has a slightly upturned nose and thin lips. He has light skin with a clear complexion. His brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
@@ -415,7 +415,7 @@ Skilled mediator, experienced in practical ritual and in settling quarrels.
 
 ## Social
 
-Áleren sits on the [Moot of the Silver Forests]{.name data-type="affiliation"}, the seasonal gathering of the shamen whose tribes touch the Silver Forests, where he is respected for his judgment and disliked for his tongue.
+Áleren sits on the [[affiliation-mtslvrfrsts|Moot of the Silver Forests]], the seasonal gathering of the shamen whose tribes touch the Silver Forests, where he is respected for his judgment and disliked for his tongue.
 
 ## Companions
 

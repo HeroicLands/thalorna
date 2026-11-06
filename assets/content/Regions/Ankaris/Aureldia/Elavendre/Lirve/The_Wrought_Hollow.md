@@ -72,3 +72,6 @@ The Order fellow's party means to take one on a moonlit night with nets and a ca
 
 - [[lore-aralwen|Araelwen]] · [[place-lirve|Lirve]] · [[place-liranel|Liranel]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]] · [[affiliation-ordoarcanis|The Thordimalon]]
+- [[scenario-crpntrsnght|The Carpenters' Night]], a scenario set here
+- [[scenario-grvthtsntrs|The Grove That Is Not Ours]], a scenario set here
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

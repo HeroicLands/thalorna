@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "Élavendre's western seaboard—cliffs and deep sea-facing forest where the Sinale keep their enclaves, the fae sites lie thickest outside the mountains, and the kingdom's finest timber and dyes are cut under license."
 tags: [region, coastal, woodland]
-data: {demonym: null, lore: [], parents: [elavendre], population: 420000, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [elavendre]
+  population: 420000
+  government: kngdmlvndr
+  packFolder: elavendre
 ---
 
 **Lirve**—_the shore_—is [[place-elavendre|Élavendre]]'s western coast: some four hundred and twenty
@@ -88,3 +94,5 @@ An Order fellow at Liranel is hiring guards to go to the Wrought Hollow on a moo
 ## See Also
 
 - [[place-elavendre|Élavendre]] · [[lore-flksinale|Sinale]] · [[lore-aralwen|Araelwen]]
+- [[scenario-crpntrsnght|The Carpenters' Night]], a scenario set here
+- [[scenario-grvthtsntrs|The Grove That Is Not Ours]], a scenario set here

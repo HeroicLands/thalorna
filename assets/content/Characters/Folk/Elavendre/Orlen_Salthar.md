@@ -37,7 +37,7 @@ Orlen Salthar is a 49-year-old man who stands 5'8" tall and is of heavy build. H
 
 # Dossier {#dossier}
 
-Orlen Salthar is the Reeve of the Harbor, chosen by the Quay-Councilors of [[place-sarmelis|Sarmelis]] from among themselves to preside over [[affiliation-sarmelisconcl|the Quay Council]]. He gives the berths, speaks to the sheriff and the Admiral's lieutenant for the town, and answers for the boom. He is a boat-master of fifty who still goes out in the herring season.
+Orlen Salthar is the Reeve of the Harbor, chosen by the Quay-Councilors of [[place-sarmelis|Sarmelis]] from among themselves to preside over [[affiliation-sarmelisconcl|the Quay Council]]. He gives the berths, speaks to the sheriff and the Admiral's lieutenant for the town, and answers for the boom. He is a boat-master of forty-nine who still goes out in the herring season.
 
 The council is divided on the Kalipsa trade. The outer quay's Kalipsan captains pay well for berths, and the Quay-Councilors of the inner quay hold that every barrel entered at the tally-house in part is a barrel the council has not weighed. Orlen holds the middle: he gives the Kalipsan ships their berths and gives the sheriff's clerk a place to stand beside them. An Order scholar newly up from Kalipsa is hiring the town's best young hands for guards, and the Fish-Reeve's motion to forbid any crew to sign with him in the herring season stands before the council, not carried.
 

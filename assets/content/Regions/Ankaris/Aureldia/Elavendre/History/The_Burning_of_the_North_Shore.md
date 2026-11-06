@@ -4,7 +4,7 @@ name: {full: The Burning of the North Shore}
 type: lore
 subType: history
 description: "From 519 to 530 AF the Nordmen fleets burned Lísere's villages and Sarmelis more than once, King Thélmoren swore the crown would make no treaty with them, and in the years after the crown raised stone at the narrows and the shore's beacons became a chain."
-tags: [history, lisere, draft]
+tags: [history, lisere]
 data:
   culture: elavendriclt
   packFolder: elavendre

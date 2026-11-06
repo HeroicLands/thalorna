@@ -44,6 +44,20 @@ guides are the crown's and which are for hire, and nobody explains the differenc
 
 The town's magistrates take a dim public view and a pragmatic private one.
 
+## The Present {#present}
+
+Liranel is busy with the wrong kind of hiring. An [[affiliation-ordoarcanis|Order]] fellow is taking on guards for a moonlit night at [[place-wrghthllw|the Wrought Hollow]] with nets and a cart, and the crown's guide [[being-lenirasrdln|Lénira Sérdalnde]], who has brought every party she led home alive, will not go with him. The hired guide [[being-berinsalth|Berin Salthar]] took a second party past the margin and has not come back, and his wife [[being-sedrasalth|Sedra]] waits for him on the bench in the herb garden of the temple of [[affiliation-lizelas|Lizelas]], where the priestess [[being-delithakelva|Délitha Kélvasende]] has no answer for the families who wait.
+
+The forest court has a quarrel of its own. A ring of old oak inside the block that the timber factor [[being-garrelpelth|Garrel Pelthal]] holds under license has been felled, the grove-elder [[being-evranetolsel|Evrane Tolsel]] says it stood inside her grove's bounds, and the Wardens say it was Áelendan ground and that someone moved the bounds on the tally-house roll ([[scenario-grvthtsntrs|The Grove That Is Not Ours]]).
+
+## Hooks {#hooks}
+
+- **The cart and the nets.** The Order fellow hires the party to guard his night at the Wrought Hollow, and Lénira tells them plainly what she thinks of it.
+- **The missing guide.** Sedra asks the party to learn where her husband is, and the only people who know are the Wardens.
+- **The roll.** A tally-clerk at the forest court wants to be taken to Péravel before anyone asks him about the bounds of a licensed block.
+
 ## See Also
 
-- [[place-lirve|Lirve]] · [[lore-flksinale|Sinale]] · [[place-portaelion|Port Aelion]]
+- [[place-lirve|Lirve]] · [[lore-flksinale|Sinale]] · [[place-portaelion|Port Aelion]] · [[affiliation-clgtongues|The College of Tongues]]
+- [[scenario-crpntrsnght|The Carpenters' Night]], a scenario set here
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

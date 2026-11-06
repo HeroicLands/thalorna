@@ -4,12 +4,13 @@ name: {full: The Morthal March}
 type: place
 subType: region
 description: "The strip of shore and wooded hill east of Sarmelis where Lísere gives way to the hills of Áuldalon, and the one land road round the head of Lísere Bay into Vristwald, held for the crown by the Morthal Watch."
-tags: [region, frontier, march, draft]
+tags: [region, frontier, march]
 data:
   demonym: null
   lore: []
   parents: [auldalon]
-  population: null
+  population: 6000
+  borders: [{to: edriwald, bearing: NE}]
   government: kngdmlvndr
   packFolder: elavendre
 ---

@@ -344,3 +344,6 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 
 [[lore-flkkhazar|Khazari]]
 : Elder race with northeastern mountain holds
+
+[[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+: a scenario set here

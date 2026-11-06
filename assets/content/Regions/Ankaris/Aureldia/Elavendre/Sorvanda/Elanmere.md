@@ -39,6 +39,23 @@ It is also understood to be _inhabited_, in the way most deep water in Sórvanda
 inhabited, and the boatmen keep observances about where one does and does not put down a net. Visitors
 who make light of this are corrected once.
 
+## The College of the Wood-Song
+
+[[affiliation-clgwoodsng|The College of the Wood-Song]] of [[affiliation-bardicolgs|the Bardic Colleges]] stands in the town. It teaches the old magic of voice and story, closely held, and its older bards go up in the thaw to hear what the Áelendan will sing.
+
+## The Present {#present}
+
+The town is getting ready for the autumn fair and does not like the look of the year. The grovekeeper [[being-lanthevileha|Lánthevile Halren]] has been mapping burned shrines and scorched clearings in the forests along the lake road, and the crown's garrison, which answers for order in the district, has found nothing behind them. Three years ago Lord [[being-kenrelkardet|Kenrel Kardeth]] was killed on the road into the town in what the garrison reported as a bandit raid, and his cousin in [[place-portaelion|Port Aelion]] has begun asking how the bandits knew which rider to take. Lord [[being-dalrenmorlin|Dalren Mórlineth]] has taken rooms ahead of the fair, sleeps in a different room each night, and says that someone has been hired to kill him.
+
+The fair itself carries the kingdom's argument up the valley. [[affiliation-clgline|The College of the Line]] is to sing the heir's line on the lake shore, and the ore-road from [[place-kngscut|the King's Cut]] comes down into the town with prospectors on it who say they have a map.
+
+## Hooks {#hooks}
+
+- **The map of the burnings.** Lánthevile asks the party to carry her map to the Grove Council at the next hinge-day and to tell nobody in the town what it shows.
+- **A guard for the fair.** Dalren Mórlineth hires the party for the fortnight of the fair and cannot say who he is afraid of.
+- **The wrong water.** The boatmen ask the party to stop a young fisher who has netted the deep hole under the eastern cliff, where nobody nets ([[being-tldrklmrth|Taldor Kálmereth]]).
+
 ## See Also
 
-- [[place-sorvanda|Sórvanda]] · [[place-ellive|Éllive]]
+- [[place-sorvanda|Sórvanda]] · [[place-ellive|Éllive]] · [[affiliation-clgwoodsng|The College of the Wood-Song]] · [[place-kngscut|The King's Cut]]
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

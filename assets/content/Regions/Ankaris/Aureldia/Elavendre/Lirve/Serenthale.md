@@ -42,6 +42,10 @@ has been looking, whether it knew the name or not, for Serenthale—and none has
 near it. The crown's guides out of [[place-liranel|Liranel]] are courteous about this and inexhaustibly
 resourceful, and the Áelendan who could actually find it would not, for the crown or for anyone.
 
+## The Present {#present}
+
+Serenthale is being looked for again. An [[affiliation-ordoarcanis|Order]] fellow at [[place-liranel|Liranel]] is hiring guards for the deep forest, and the guides for hire in the town, who take pilgrims past the margins for pay, have been asked how far into Lirve's old wood a party can go before the paths stop leading where they seem to. One of those guides has not come back from a second party past the margin. The Wardens are asking who he took, and the enclave, as always, has said nothing to anyone.
+
 ## See Also
 
-- [[lore-flksinale|Sinale]] · [[place-lirve|Lirve]] · [[place-liranel|Liranel]]
+- [[lore-flksinale|Sinale]] · [[place-lirve|Lirve]] · [[place-liranel|Liranel]] · [[affiliation-nclvsrnthl|Enclave of Serenthale]]

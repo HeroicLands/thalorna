@@ -77,3 +77,5 @@ Sóurimel's account is true: the stand moves toward the village, a little each w
 
 - [[lore-aralwen|Araelwen]] · [[place-silvrfrsts|The Silver Forests]] · [[place-sourimael|Sóurimel]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]] · [[lore-faecourts|The Fae Courts]]
+- [[scenario-thprncssmmr|The Prince's Summer]], a scenario set here
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

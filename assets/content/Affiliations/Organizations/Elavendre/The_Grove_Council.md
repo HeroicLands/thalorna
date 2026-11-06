@@ -119,7 +119,7 @@ The Council does not, however, make war, and it commands no force. The [[affilia
 
 **The [[affiliation-alndnwrdns|Áelendan Wardens]]** hold the Kindred Pact as sacred as the Council does, but they are not the Council's to command: they answer to the Áelendan alone, and their captains take no writ from the grove-elders.
 
-**The [[affiliation-ordoarcanis|Thordimalon]]** is the enemy. The Council has never recognized the Order's authority within Élavendre and never will. Every Order chapterhouse in the kingdom—including the [University of Péravel]{.name data-type="affiliation"}—operates over Council objection. The conflict is conducted through legal obstruction in the cities and through more direct measures beyond the city walls.
+**The [[affiliation-ordoarcanis|Thordimalon]]** is the enemy. The Council has never recognized the Order's authority within Élavendre and never will. Every Order chapterhouse in the kingdom—including the [[affiliation-univperavel|University of Péravel]]—operates over Council objection. The conflict is conducted through legal obstruction in the cities and through more direct measures beyond the city walls.
 
 **The Crown of Élavendre** treats the Council with careful, public deference and quiet private exasperation. The crown needs the Council's tacit cooperation to maintain rural order; the Council needs the crown's protection from the Order. Both sides have learned to live with the other.
 

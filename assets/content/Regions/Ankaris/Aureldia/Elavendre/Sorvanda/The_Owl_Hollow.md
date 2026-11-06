@@ -60,6 +60,10 @@ witnessed by something that will not forget it, and both parties know that.
 The same property makes carelessness expensive. A boast, a threat, a lie told in the dark under those
 trees is also remembered, and the Áelendan say, without elaborating, that this has mattered.
 
+## Converging Interests {#present}
+
+The Death-Speakers are coming oftener this winter. The [[affiliation-alndnwrdns|Warden]] killed at [[place-fndr|the Fen Door]] at midwinter lies under a cairn far down on the Lísere coast, and his kin want to know whether he has gone. A Death-Speaker of [[place-eshalshldg|Ésalosa Lodge]], [[being-norgathathan|Norgatha]], has come to the beck to ask, and has had no answer in two nights. The nearest tribe charges her nothing for the asking, as it charges nobody, and it has turned back a lowland trader at the upper path who offered to pay for an answer about a dead brother.
+
 ## Outsiders
 
 The Hollow is deep in the [[place-alndntrblnds|Áelendan Tribal Lands]] and the

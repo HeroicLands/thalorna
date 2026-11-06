@@ -3,7 +3,7 @@ shortcode: tldrklmrth
 name: {full: Taldor Kálmereth}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Taldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with high cheekbones, a prominent forehead, and a rounded jaw that leads to a delicate chin. His almond-shaped gray eyes sit beneath expressive brows and give him a measured gaze. He has a delicate nose and narrow lips. He has fair skin with a weathered complexion. His red hair falls in loose waves.
+Taldor Kálmereth is a 46-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with high cheekbones, a prominent forehead, and a rounded jaw that leads to a delicate chin. His almond-shaped gray eyes sit beneath expressive brows and give him a measured gaze. He has a delicate nose and narrow lips. He has fair skin with a weathered complexion. His red hair falls in loose waves.
 
 # Dossier {#dossier}
 

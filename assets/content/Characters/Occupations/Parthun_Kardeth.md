@@ -389,7 +389,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Parthun Kardeth is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a delicate chin. His sharp amber eyes sit beneath expressive brows, lending him an incisive gaze. A slightly upturned nose and expressive lips complete his features. He has pale skin with a flawless complexion. His black hair is tied in a low tail.
+Parthun Kardeth is a 40-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a delicate chin. His sharp amber eyes sit beneath expressive brows, lending him an incisive gaze. A slightly upturned nose and expressive lips complete his features. He has pale skin with a flawless complexion. His black hair is tied in a low tail.
 
 # Dossier {#dossier}
 

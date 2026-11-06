@@ -13,7 +13,9 @@ data:
   lore: []
   culture: elavendriclt
   homes: [valdun]
-  affiliations: {kngdmlvndr: {rank: 4, office: Captain of the Border Militia}}
+  affiliations:
+    kngdmlvndr: {rank: 4, office: Captain of the Border Militia}
+    brdrmltia: {rank: 4, office: Captain of the Border Militia}
   socialTies: {being-belrktrvnl: friend, being-jeldormorlin: rival}
   gender: female
   species: humanflk

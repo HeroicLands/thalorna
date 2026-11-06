@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The eastern and southern mountains of Élavendre—Áelendan country, thick with fae sites, and holding mineral wealth the kingdom is not permitted to take."
 tags: [region, mountain, sacred]
-data: {demonym: null, lore: [], parents: [elavendre], population: 180000, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [elavendre]
+  population: 180000
+  government: kngdmlvndr
+  packFolder: elavendre
 ---
 
 **Sórvanda**—_the mountains_—is the mountain quarter of [[place-elavendre|Élavendre]], running along

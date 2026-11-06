@@ -4,7 +4,7 @@ name: {full: Enclave of Ethalosse}
 type: affiliation
 subType: polity
 description: "The Sinale of Ethalosse, the threshold enclave at the eastern edge of the Áelendan tribal lands, governed by its own lord and dealing with the human world only through the Áelendan who carry what is said."
-tags: [draft]
+tags: []
 data:
   templatePriority: null
   demonym: null

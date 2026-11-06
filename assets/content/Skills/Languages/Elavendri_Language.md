@@ -7049,6 +7049,15 @@ data:
     - {name: Salten Elarven, tongue: elavendri}
     - {name: Orlen Salthar, tongue: elavendri}
     - {name: Moren Othral, tongue: elavendri}
+    - {name: Théironand Mórlineth, tongue: elavendri}
+    - {name: Kélvase Halren, tongue: elavendri}
+    - {name: Lámaine Ólnarnde, tongue: elavendri}
+    - {name: Ossel Hérselnde, tongue: elavendri}
+    - {name: Sáunarine Darel, tongue: elavendri}
+    - {name: Kálvirne Ílsevende, tongue: elavendri}
+    - {name: Sírrelure Thaurnde, tongue: elavendri}
+    - {name: Ryéthesand Sémrothende, tongue: elavendri}
+    - {name: Hálmesar Thólmarnde, tongue: elavendri}
     - {name: Taldor Párdalen, tongue: elavendri}
     - {name: Sólmere Kálmereth, tongue: elavendri}
     - {name: Ílsevand Sérdalnde, tongue: elavendri}

@@ -64,7 +64,7 @@ A seat belongs to a tribe, not to a person. Three tribes hold seats because thei
 
 Each seated shaman brings a **Hearer**, an apprentice who sits behind him and says nothing. The Hearers carry the Moot's matters home and are the ones who will sit one day, so a shaman's choice of Hearer is the first thing his fellows weigh about him.
 
-The Moot names a **Speaker** at the first sitting of the year. He keeps the order in which the shamen speak and speaks for none of them. A **Carrier to Ethalosse** is named as the need arises: the Áelendan carry to the stone court of [[place-ethalosse|Ethalosse]] what has been agreed and add nothing, and the Moot chooses the one who carries.
+The Moot names a **Speaker** at the first sitting of the year; this year it is [[being-talmenatirin|Tálmena]] of the Tírindi. The Speaker keeps the order in which the shamen speak and speaks for none of them. A **Carrier to Ethalosse** is named as the need arises: the Áelendan carry to the stone court of [[place-ethalosse|Ethalosse]] what has been agreed and add nothing, and the Moot chooses the one who carries.
 
 A shaman who turns his power to private ends is shut out of the Moot. His tribe is asked to seat no other in his place until the Moot has heard its reasons.
 
@@ -84,7 +84,7 @@ The Moot differs from the common council of the tribes. The council's delegates 
 
 The bark of [[place-wkngstnd|the Waking Stand]] is before the Moot this season. A strip was cut from one of the trees and sold at [[place-lisere|Lísere]]. It lies green in a chapterhouse collection at [[place-beravel|Péravel]], and the [[affiliation-ordoarcanis|Thordimalon]] has licensed a fellow of the University to come back for a living cutting with hired guards. The Wardens of the forests know bark was taken and are looking for the man who took it.
 
-The shamen are divided over the Sinale. One part holds that the Carrier must go to Ethalosse now and say what has been done, because the wood is shared and its neighbors should hear it from the people who keep it. The other part holds that nothing should be carried until the man is found, because the Áelendan carry exactly and add nothing, and a thing told half-known is carried wrong. The Speaker has kept the question open through two sittings. The Tírindi and the Thanandi favor sending, and the Dhárgandi favor waiting.
+The question is what to carry to the Sinale, and when. The two seated shamen, of the Tírindi and the Thanandi, hold that the Carrier must go to Ethalosse now and say what has been done, because the wood is shared and its neighbors should hear it from the people who keep it. The Dhárgandi have no shaman seated this season, and their elders have sent word that nothing should be carried until the man is found, because the Áelendan carry exactly and add nothing, and a thing told half-known is carried wrong. A seat belongs to a tribe, and what the Carrier takes to the stone court is the Moot's word for all three tribes, so the Speaker will not send it while one seat is empty and its tribe disagrees. She has kept the question open through two sittings, and the Dhárgandi's young Hearer is the one who can close it, once he is seated.
 
 ## How a Party Meets It {#how-a-party-meets-it}
 
@@ -92,7 +92,7 @@ A party does not attend the Moot. It meets the Moot's findings: a Warden who wil
 
 ## Hooks {#hooks}
 
-- **The empty place.** The senior shaman of the Tírindi died at midwinter and her Hearer is young. The Moot has not seated him, and the Tírindi ask someone from outside to carry a message to a village shaman at the forest's edge whose word they want before the next sitting.
+- **The empty place.** The senior shaman of the Dhárgandi died at midwinter and her Hearer is young. The Moot has not seated him, and the Dhárgandi ask someone from outside to carry a message to a village shaman at the forest's edge whose word they want before the next sitting.
 - **Named first.** A scholar of high reputation has been offered the outer margin, and the Moot names him at its next sitting. A party who vouched for him is asked by a Warden what he carries in his baggage.
 - **The Carrier's silence.** The Carrier to Ethalosse came back from the stone court a day early and has said nothing to anyone. The shamen want to know what he was told, and he will not say.
 

@@ -4,7 +4,7 @@ name: {full: Thárgalon of Kélpasi, en: [The Elders of Kélpasi]}
 type: affiliation
 subType: polity
 description: "The council of hearth-heads that governs the hill village of Kélpasi, sitting at the cold spring and deciding by accord."
-tags: [draft]
+tags: []
 data:
   culture: elavendriclt
   templatePriority: null
@@ -53,13 +53,21 @@ Most of what it decides is plain hill business: which slope is cut for charcoal 
 
 ## The Keeper and the Speaker
 
-Two sorhands hold offices. The **Keeper of the Spring** keeps the spring at the head of the village and leads what is done there, and does not discuss it. The **Speaker to the Lowlands** meets whatever comes up the track: the priest sent to see that the village is devout, the sheriff with the crown's tally, the buyer for the cloth. The Speaker is chosen for a pleasant manner and a short memory, and keeps every visitor courteously on the near side of the fields.
+Two sorhands hold offices. The **Keeper of the Spring**, [[being-saunarindarl|Sáunarine Darel]], keeps the spring at the head of the village and leads what is done there, and does not discuss it. The **Speaker to the Lowlands** meets whatever comes up the track: the priest sent to see that the village is devout, the sheriff with the crown's tally, the buyer for the cloth. The Speaker is chosen for a pleasant manner and a short memory, and keeps every visitor courteously on the near side of the fields.
+
+## Current Situation {#present}
+
+The council is a voice short at the wrong time. The Speaker to the Lowlands took the winter cloth down to [[place-valdun|Valdun]] and has not come back, and the council cannot choose another while the Speaker's hearth sits empty at the spring, because a matter is decided only when every hearth has spoken. A priest from the lowlands is expected within the month to see that the village is devout. The Keeper of the Spring will not meet him, and nobody else in Kélpasi has the manner for it.
+
+## History {#history}
+
+The council is older than the walls of Valdun, as the village is. Kélpasi has been reached by raiders twice in three hundred years, and both times the council sat at the spring the next evening and reached accord on what was to be rebuilt first. It has paid the crown what the sheriffs carry up the track since the hills were first counted to the kingdom, and it has never asked the crown for anything in return but to be left alone.
 
 ## Meeting It
 
 A party that finds its way to Kélpasi meets the Speaker before anyone else, usually at the last bend of the track, and is given bread, a dry barn and very little information. A party that wants something of the village, a guide over the ridge, a winter's shelter or a word about the raiders' roads, asks the Speaker, and the Speaker carries it to the council at the spring. The answer comes after the council reaches accord, which may be the next morning or the next week.
 
-## Hook
+## Hooks {#hooks}
 
 - **The Speaker's absence.** The Speaker took the winter cloth down to Valdun and has not come back. The council cannot choose another while the Speaker's own hearth has no voice at the spring, a priest from the lowlands is expected within the month, and the elders ask the party to bring the Speaker home before the priest arrives.
 

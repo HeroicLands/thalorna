@@ -3,8 +3,8 @@ shortcode: dskfrd
 name: {full: The Dusk Ford, elav: [Ólvarne]}
 type: place
 subType: site
-description: "A ford over a bog river behind the Lísere shore that stands only in the long dusk and asks a toll of whoever crosses, kept by a thing of the reeds whose bargain with a beacon-keeper's line has fed the far bank with raiders' forfeits."
-tags: [draft, river, haunted, coastal]
+description: "A ford over a bog river behind the Lísere shore that stands only in the long dusk and asks a toll of whoever crosses, kept by a thing of the reeds that the coast says a beacon-keeper once asked to stand between the raiders and the land."
+tags: [river, haunted, coastal]
 data:
   demonym: null
   lore: []
@@ -30,13 +30,17 @@ The causeway ends at a low shore of gray mud and black stakes, and on the mud li
 
 Behind the ships stands a long low house of stakes and reed, the **tally-house**. It holds the forfeits: a shelf of knotted cords, bone tokens, little coils of hair and braided straw, each tied to something the payers gave. The raiders' plunder lies in heaps along the walls. Nothing in the house is guarded but by the rule that what is taken from it carries its owner's unpaid debt.
 
-## Why It Stands
+## Layers {#history}
 
-The Ford was asked for. A beacon-keeper of the Lísere shore, in the generation after the first Nordmen landings, walked out to the reeds at dusk with a lantern and asked the thing that kept the water to stand between the raiders and the land. The Toll-Keeper answered in its fashion. It keeps a crossing that takes from any who cross, and it favors the line of the beacon-keeper who asked, whose kin cross free. The raiders who come through the bog behind the shore pay their names and stay.
+The coast tells that the Ford was asked for: that a beacon-keeper of the Lísere shore, in the generation after the first Nordmen landings, walked out to the reeds at dusk with a lantern and asked the thing that kept the water to stand between the raiders and the land. The telling does not say which keeper, and Lísere does not speak of it. A beacon-station that keeps its light lit on the stretch of shore behind the Ford is raided less than its neighbors, and nobody wishes to know why.
 
-Lísere does not speak of it. A beacon-station that keeps its light lit on the stretch of shore behind the Ford is raided less than its neighbors, and nobody wishes to know why.
+:::secret {title="Why the Ford stands"}
+The telling is true. The Toll-Keeper answered in its fashion: it keeps a crossing that takes from any who cross, and it favors the line of the beacon-keeper who asked, the oldest line of [[place-hendrel|Hendrel]], whose kin cross free by day or dusk and carry a knotted cord at the belt that the Toll-Keeper knows. The raiders who come through the bog behind the shore pay their names and stay.
+:::
 
-## Who Knows, and What They Say
+## What Is There Now {#present}
+
+The Ford stands every dusk, and this winter it has more callers than the coast likes. An [[affiliation-ordoarcanis|Order]] scholar on the coast has asked at Hendrel about the Ford and then about the families' kin, and his hired guards have been seen at the gap in the reeds. A student of [[affiliation-bardicolgs|the Bardic Colleges]] crossed at dusk in search of the last verse of the ballad of the Forfeit-Men and has not come back, and her master is asking along the road who saw her go.
 
 - **The beacon families** of the northern shore know the Ford exists and say only that the track is not to be crossed after the lamps are lit.
 - **[[affiliation-groveconcl|A Grove Council elder]]** at the coast says the Ford is a pact kept and a pact asked for, and that it holds the shore as the [[affiliation-alndnwrdns|Wardens]] hold the wood: by being what it is.
@@ -47,7 +51,7 @@ Lísere does not speak of it. A beacon-station that keeps its light lit on the s
 
 The track runs inland from the shingle between two beacon stations of [[place-lisere|Lísere]]. It is visible from the shore road as a gap in the reeds, and impassable until the sun is down. A traveler who arrives at dusk finds the stones already laid.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A bard's last verse.** A College bard who crossed in search of the ballad's ending has not come back, and his master pays well for the bard or the verse.
 - **A raider's hoard.** The Forfeit-Men's plunder is real silver, real iron and real amber, and the ships' gear includes a chieftain's sword.

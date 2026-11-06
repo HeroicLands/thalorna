@@ -6845,6 +6845,10 @@ data:
     - {name: Norgatha of the Thanandi, tongue: translation}
     - {name: Lúmreda of the Móghorendi, tongue: translation}
     - {name: Gólmaren of the Kárandi, tongue: translation}
+    - {name: tálmena, tongue: aelendi}
+    - {name: Tálmena of the Tírindi, tongue: translation}
+    - {name: khoradel, tongue: aelendi}
+    - {name: Khoradel of the Dhárgandi, tongue: translation}
     - {name: aldreth, tongue: aelendi}
     - {name: Warden Aldreth, tongue: translation}
     - {name: Aldreth of the Tírindi, tongue: translation}

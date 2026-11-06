@@ -96,7 +96,7 @@ The road the legion had marched became the tribute's road. Silver went east alon
 
 ## The Felzos's House
 
-The Empire's _felzos_ took a house at Péravel and lived in it. The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) came in by the _felzos_'s door: first clerks, then lecturers, then a school. The [University of Péravel]{.name data-type="affiliation"} was chartered about 230 AF, and the _felzos_'s house became its oldest court.
+The Empire's _felzos_ took a house at Péravel and lived in it. The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) came in by the _felzos_'s door: first clerks, then lecturers, then a school. The [[affiliation-univperavel|University of Péravel]] was chartered about 230 AF, and the _felzos_'s house became its oldest court.
 
 The Áelendan have never forgiven the door. Order expeditions have taken artifacts from the sacred sites for as long as the Order has been permitted into the kingdom, and the Áelendan count the permission, and not any single theft, as the offense.
 

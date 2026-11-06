@@ -65,7 +65,7 @@ Heir
 
 ## The House Now {#the-house-now}
 
-The head of the house is [[being-aurenthekir|Queen Áurenthe]], fifty-two, who reigns in her own right. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Yélaras]], twenty-three, who was schooled at the [University of Péravel]{.name data-type="affiliation"} as the children of the nobility are.
+The head of the house is [[being-aurenthekir|Queen Áurenthe]], fifty-two, who reigns in her own right. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Yélaras]], twenty-three, who was schooled at the [[affiliation-univperavel|University of Péravel]] as the children of the nobility are.
 
 **The succession.** The crown passes to the monarch's eldest child, son or daughter. A queen reigns in her own right, as [Réidane]{.name data-type="being/npc"} of Orethan did when she treated at [[place-valdun|Valdun]] ([[lore-elvtribute|The Tribute of Élavendre]]). Every monarch is crowned in the hall at Péravel, stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]], and swears with both hands open that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When a line ends without an heir, the Bardic Circle chooses the next monarch from a house whose descent the Colleges have proved, as it chose Hóuradel.
 

@@ -73,3 +73,4 @@ The roofless shelter is an Áelendan shelter from the herders' grandfathers' tim
 
 - [[lore-aralwen|Araelwen]] · [[place-drenavrspn|The Drenavar Spine]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]] · [[lore-thekindred|The Kindred]]
+- [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Palva Véldarin is a 46-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with broad cheekbones, a prominent forehead, and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows and give her a candid gaze. She has a slightly upturned nose and full lips. She has tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs.
+Palva Véldarin is a 45-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with broad cheekbones, a prominent forehead, and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows and give her a candid gaze. She has a slightly upturned nose and full lips. She has tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 

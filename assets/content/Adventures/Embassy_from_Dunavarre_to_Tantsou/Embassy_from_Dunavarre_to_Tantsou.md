@@ -25,6 +25,7 @@ data:
     - geldarpanivel
     - lheteklarnavel
     - rickarluavel
+    - balothnemirina
   factions: []
   follows: []
   party: {size: null, archetypes: []}
@@ -278,7 +279,7 @@ Ultimate Goal
 
 Central Plot: The mission arrives at [[place-beravel|Péravel]], capital of [[affiliation-kngdmlvndr|Élavendre]]. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], expresses interest in sending a party to [[place-ukuaraelwen|Úkua-Araelwen]] to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
 
-### The Leader of Epistémion:
+### The Royal Loremaster
 
 Name
 : Áelithra Énevin

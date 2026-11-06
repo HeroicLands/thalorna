@@ -389,7 +389,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Pórena Darel is a 24-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows and give her a watchful gaze. She has a slightly upturned nose and firm lips. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
+Pórena Darel is a 23-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows and give her a watchful gaze. She has a slightly upturned nose and firm lips. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
 
 # Dossier {#dossier}
 

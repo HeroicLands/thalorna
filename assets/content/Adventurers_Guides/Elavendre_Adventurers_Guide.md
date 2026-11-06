@@ -4,7 +4,7 @@ name: {full: Élavendre Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Élavendre—its houses and bards, the tree line the crown does not cross, and the ways a campaign begins there.
-tags: [draft]
+tags: []
 data: {packFolder: adventurersguides, culture: elavendriclt}
 ---
 
@@ -22,7 +22,7 @@ The kingdom is a monarchy of old noble houses, and each house works to trace its
 
 Expect courtesy, allusion and a great deal of patience. People leave arrangements open, decline to name a date, and choose words that read two ways, because prophecy is a living institution here and a decision may wait on a half-remembered line. Pressing for a plain answer is a rudeness, and the Colleges' sayings in [[lore-harproomqs|the Questions of the Harp-Room]] name it: [The plain answer to an open thing/is the rudest word a guest can bring.]{.verse} Power casually shown is vulgar; power precisely applied is admired.
 
-The [[affiliation-ordoarcanis|Thordimalon]] holds the [University of Péravel]{.name data-type="affiliation"}, the largest [[affiliation-panepistmm|Epistémion]] campus outside the [[affiliation-vylarinmpr|Vilérian Empire]], and the crown welcomes it warmly inside the walls. An Arcane Order party that asks to go inward is given excellent guides, who show it real country and nothing of consequence. You pay in [[lore-vylrncrncy|Vilérian coin]]: the Solden, the Ardin and the Bit.
+The [[affiliation-ordoarcanis|Thordimalon]] holds the [[affiliation-univperavel|University of Péravel]], the largest [[affiliation-panepistmm|Epistémion]] campus outside the [[affiliation-vylarinmpr|Vilérian Empire]], and the crown welcomes it warmly inside the walls. An Arcane Order party that asks to go inward is given excellent guides, who show it real country and nothing of consequence. You pay in [[lore-vylrncrncy|Vilérian coin]]: the Solden, the Ardin and the Bit.
 
 ## What the Kingdom Sings
 
@@ -43,7 +43,9 @@ The dangers are real. Paths shift between visits, lights stand among the trees, 
 
 ## Ways In
 
-A noble house hires you to escort its bard to the Elanmere fair, where its claim of descent must stand before people who remember the genealogy differently. An Arcane Order scholar in Liranel wants a guide who will not stop at the margins, and the Wardens already know her name. A grove-elder needs strangers to carry terms to a fae lord after a village cleared a copse for pasture and its children began to sicken. Deep in [[place-drenavrspn|the Drenavar Spine]] the nineteenth seat of the Grove Council has stood empty for a generation, and the signs now say its lost elder is coming home, or something wearing his shape.
+A noble house hires you to escort its bard to the Elanmere fair, where its claim of descent must stand before people who remember the genealogy differently ([[affiliation-hsehalvireth|the House of Hálvireth]]). An Arcane Order fellow in Liranel wants guards for a night at [[place-wrghthllw|the Wrought Hollow]] with a cart and nets, and the Wardens already know he is asking the way ([[scenario-crpntrsnght|The Carpenter's Night]]). A grove-elder needs strangers to learn whose ground a felled ring of oak stood on before the Wardens act ([[scenario-grvthtsntrs|The Grove That Is Not Ours]]). The lone Warden at [[place-fndr|the Fen Door]] on the Lísere coast needs hands through the dark nights, and no relief can come down before the passes open ([[scenario-brdfrthdr|Bread for the Door]]). Across the border at [[place-sirmenne|Sirmenne]] the nineteenth seat of [[affiliation-groveconcl|the Grove Council]] has stood empty for a generation, and the signs now say its lost elder is coming home, or something wearing his shape.
+
+For a whole season of it, [[scenario-smmrpsttrln|The Summer Past the Tree Line]] runs from the thaw to the Elanmere fair, when the Order sends its scholars past the crown's guides with hired guards and the heir means to ride to Ésalosa.
 
 ## Where to Read Next
 

@@ -4,7 +4,7 @@ name: {full: Garrison of Durmelen}
 type: affiliation
 subType: polity
 description: "The sworn men and the shore's levy who hold the crown's fort at the narrows of Lísere Bay under a Castellan, keep the Great Fire and muster the coast."
-tags: [draft]
+tags: []
 data:
   culture: elavendriclt
   templatePriority: null
@@ -47,7 +47,7 @@ data:
   population: 340
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [kngdmlvndr]
   relations: {}
   packFolder: elavendre
 sohl: {system: {commonSkills: [elvndrlng]}}
