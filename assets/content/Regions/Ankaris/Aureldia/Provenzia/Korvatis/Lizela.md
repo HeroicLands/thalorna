@@ -32,14 +32,23 @@ has made the town's fortunes without ever making it fashionable.
 ## The Houses
 
 Lizela's nobility are minor houses whose wealth rests on coastal trade and the pans rather than on
-broad land—the [Kórisvars]{.name data-type="affiliation/lineage"} among them—and they occupy an awkward rank: rich enough to matter in
+broad land—the [[affiliation-hsekorisvar|Kórisvars]] among them—and they occupy an awkward rank: rich enough to matter in
 the district, not landed enough to matter at [[place-jalnazdal|Jalnasdal]], and acutely conscious of
 the difference.
 
-Such houses have generally survived the long contest between the Crown and the [Council of Peers]{.name data-type="affiliation/governmental"} by
+Such houses have generally survived the long contest between the Crown and the [[affiliation-councilpeers|Council of Peers]] by
 declining to be interesting to either, a strategy that works until a daughter with more ambition than
 her father inherits.
+
+## The Present {#present}
+
+The daughter has inherited. [[being-arnelkrsvr|Arnela Kórisvar]] holds the Kórisvar estate, sits on the town's charter council and chairs its harbor commission, and she has made the house interesting to everyone it spent generations avoiding. Her small school teaches navigation and commercial law to the sons of the harbor, and Lord [[being-aurentheorth|Aurente Ortemandis]], head of the oldest family in the town, blocks her on the council at every turn.
+
+The salt has made the quarrel dangerous. The crown's treasurer has asked the coastal houses for a loan against the salt revenue, and Lizela's pans are the salt revenue. [[being-ordnbrylnd|Ordan Brilonde]], whose house trades more of the salt than any other, must answer either way, and so must the Kórisvars. Whichever answer Lizela gives places it in the contest at [[place-jalnazdal|Jalnasdal]] that its houses have always kept out of.
+
+In the hills above the town stand the [[place-ruinslizela|Ruins above Lizela]], older than the Vilérians. An instructor of Arnela's school went up to study them and has not come back.
 
 ## See Also
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-jalnazdal|Jalnasdal]]
+- [[affiliation-hsekorisvar|House Kórisvar]] · [[place-ruinslizela|Ruins above Lizela]]

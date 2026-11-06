@@ -100,7 +100,7 @@ A settlement rite performed over the field, in the rite of the people whose dead
 
 [[place-provenzrgn|Provénzia]] has more than anywhere else, and [[lore-bloodfields|the Blood-fields of Provénzia]] gives the reason. Elsewhere a people has two or three across its whole history, one to a great war at most.
 
-**[[affiliation-blackflame|The Black Flame]]** works fields wherever it finds them. A field can be worked on—its kind roused and deepened, its thinness drawn out, and its ruin turned on the district around it—and the Cult of the Black Flame does that work anywhere a field lies. The [[place-bldfldyharvalen|Blood-field of Yarvalen]] is the worked field every reader can name.
+**[[affiliation-blackflame|The Black Flame]]** works fields wherever it finds them. A field can be worked on—its kind roused and deepened, its thinness drawn out, and its ruin turned on the district around it—and the Cult of the Black Flame does that work anywhere a field lies. [[affiliation-sacredforge|The Sacred Forge]] names the [[place-bldfldyharvalen|Blood-field of Yarvalen]] as a worked field, and the Forge is an interested party.
 
 ## The Names
 
@@ -218,7 +218,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-olcassafld\|Olkassa]]                | Viléria                    | [[lore-olcassabtl\|The Battle of Olkassa]]                   | ~401 AF | quickening           | moderate                        |
 | [[place-skalfvatan\|Skalfvatan]]             | The Nordlands              | [[lore-nordkinwars\|The Kin-Wars]]                           | 466 AF  | recurrence           | moderate                        |
 | [[place-blackmarshfld\|The Black Marsh]]     | Moktur (the Varokh dead)   | [[lore-blackmarshbtl\|The Battle of the Black Marsh]]        | 520 AF  | dread                | thin                            |
-| [[place-bldfldyharvalen\|Yarvalen]]          | Provénzia                  | [[lore-southrnfleets\|The Southern Fleets]]                  | ~520 AF | withering            | thin, worked on                 |
+| [[place-bldfldyharvalen\|Yarvalen]]          | Provénzia                  | [[lore-southrnfleets\|The Southern Fleets]]                  | ~520 AF | withering            | thin                            |
 | [[place-grimak\|Grimak]]                     | The Varokh                 | [[lore-grimakburning\|The Burning at Grimak]]                | ~536 AF | silence              | moderate, thin in the hollow    |
 | [[place-qimod\|Qiimod]]                      | The Khazrin steppe         | the sack of the spur town                                    | ~548 AF | silence              | thin                            |
 | [[place-bldfldmalnebris\|Malnebris]]         | Provénzia                  | [[lore-malnebris\|Malnebris]]                                | ~556 AF | recurrence           | moderate in the campaign season |

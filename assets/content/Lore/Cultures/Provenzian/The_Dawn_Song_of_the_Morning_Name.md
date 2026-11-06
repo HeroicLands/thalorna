@@ -4,7 +4,7 @@ name: {full: The Dawn Song of the Morning Name, en: [The Watch Cries Morning]}
 type: lore
 subType: literature
 description: "A dawn song of Jalnasdal, with the reason the songbooks set before it: two lovers in a house below the cistern stair, a friend keeping the watch on the wall, a love name nobody else may say, and the cry the city's watch gives every morning from the walls, which the song holds back until its last line."
-tags: [draft, provenzia]
+tags: [provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore
@@ -17,7 +17,7 @@ data:
 
 **The Dawn Song of the Morning Name** is a dawn song of [[place-jalnazdal|Jalnasdal]], a lyric of two lovers parting at first light while a friend keeps watch for them on the wall. Three voices sing it, the lover, the lady and the watch, and the refrain says each time that the watch will soon cry the morning. The cry itself comes only in the last line the watch sings. The songbooks of the capital copy it with the prose the copyists set before a song to say why it was made, which they call the reason, and the two are given here as a songbook of Jalnasdal gives them.
 
-The song is [Sirrelure]{.name data-type="being/npc"}'s, made in his youth in the capital, before he went on the road and long before the patron he lamented ([[lore-karalzelmnt|The Lament for Karalze]]). The reason says what the song does not: that he gave the lady a love name, which is never spoken in public, and that the watch of Jalnasdal cries the morning from its walls every day as it comes off duty. The reason does not write the love name. Its readers draw their own conclusion from the last line.
+The song is [Sirrelure]{.name data-type="being/npc"}'s, made in his youth in the capital, before he went on the road and long before the patron he lamented ([[lore-karalzelmnt|The Lament for Karalze]]). The reason says what the song does not: that he gave the lady a love name, which is never spoken in public, and that the watch of Jalnasdal cries the morning from its walls every day as it comes off duty. The reason does not write the love name. Its readers draw their own conclusion from the last line. The academy the reason names is the [[affiliation-acadrhetrc|Academy of Philosophy and Rhetoric]] at [[place-aureliane|Aurelane]], where the houses of the capital send their sons, and Sirrelure came home to Jalnasdal between its terms.
 
 : The Reason {#reason}
 

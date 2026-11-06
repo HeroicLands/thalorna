@@ -3,7 +3,8 @@ shortcode: ylndrmyrdl
 name: {full: Ilendor Mirdal}
 type: being
 subType: npc
-tags: [draft, guilded, mages]
+description: "An astrologer of Jalnasdal who reads the stars for the Earl of Degavel's household and has cast the day the First Peer will be chosen."
+tags: [guilded, mages]
 data:
   icon: icon-person
   templatePriority: null
@@ -13,6 +14,7 @@ data:
   culture: provenzianclt
   homes: [jalnazdal]
   affiliations: {kngdmprvnz: {rank: 2}, marendas: {rank: 1}}
+  socialTies: {being-rutalplnvr: patron}
   gender: male
   species: humanflk
   born: 662.303
@@ -398,57 +400,64 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilendor Mirdal is a 58-year-old man who stands 5'4" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a delicate chin. His hooded dark brown eyes sit beneath thin brows, lending him a guarded gaze. An aquiline nose and wide lips complete his features. He has olive skin with a weathered complexion. His chestnut hair is tied in a low tail.
+Ilendor Mirdal is a 57-year-old man who stands 5'4" tall and is of medium build. He has olive skin weathered by forty years of nights on rooftops, chestnut hair gone dull and tied in a low tail, and hooded dark brown eyes that look past a questioner as though at something behind him. His aquiline nose and wide mouth give him a hawk's profile, and his fingers are stained with the inks of his charts.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a guilded family of [[lore-provenzianclt|Provénzian]] heritage, Ilendor Mirdal came into the world of the astrologer through a combination of circumstance and aptitude.
+Ilendor Mirdal is an astrologer of [[place-jalnazdal|Jalnasdal]] and the reader of the stars to the household of [[being-rutalplnvr|Rutal Pélanvri]], Earl of [[place-degavel|Degavel]] and First Peer of the [[affiliation-councilpeers|Council of Peers]].
 
-Ilendor is a well known astrologer who serves the court of a powerful noble family. His predictions have shaped political decisions and royal marriages. Though his accuracy is respected, he is also known for being cryptic and difficult to approach. Ilendor’s interest in the stars began during his youth, where a solar eclipse inspired him to pursue astrology.
+An eclipse he saw as a boy turned him to the stars, and he learned the reckoning of them from the priests of [[affiliation-marendas|Marendas]] and the mathematics from the academies of [[place-aureliane|Aurelane]]. He has served the Pélanvri for twenty years. His readings have chosen the days of their marriages, their journeys and their suits, and the earl's enemies say they have chosen a good deal of the earl's policy. He is respected for his accuracy and known for being cryptic and hard to reach. The [[affiliation-ordoarcanis|Thordimalon]] licenses his practice, and in Provénzia that means the crown does too.
+
+The contest between the crown and the Council is the city's weather, and Ilendor's charts are part of it. The Peers choose the First Peer at the year's first sitting, the Count of [[place-athavel|Atavel]]'s party needs one more voice to take the office from the earl, and the earl has asked Ilendor for the day.
 
 ## Psyche
 
 ### Personality
 
-Socially aloof and often dismissive of skeptics.
+Ilendor is aloof, precise and dismissive of skeptics, and he speaks in qualifications that his patrons hear as certainties.
 
 ### Motivation
 
-Ilendor is driven by the desire to master his craft and secure a stable future. The uncertainties of life in astrologer work keep him vigilant and adaptable.
+He wants his readings to be right and to be believed, and he wants the reckoning he has spent forty years refining written down before he dies.
 
 ### Strengths
 
-Highly knowledgeable about celestial events and their influences.
+He knows the heavens, their tables and their histories better than anyone at court, and he knows the Pélanvri household's secrets better than most of the Pélanvri.
+
+### Weaknesses
+
+His patron's fortunes and his reputation are now the same thing, and the earl's enemies know it.
 
 ## Social
 
-Ilendor is affiliated with the [Royal Astrological Society]{.name data-type="affiliation"}.
+### Companions
 
-As a Provénzian astrologer, Ilendor occupies a recognized social niche within Provénzia society.
-
-## Companions
+A pupil of the academies who copies his charts, and the priests of Marendas, with whom he argues about eclipses.
 
 ### Patrons
 
-Ilendor's primary patron is a noble family who funds his research. This relationship provides both opportunity and obligation.
+Rutal Pélanvri, Earl of Degavel, who keeps him in his household and asks his counsel before every move in the Council.
 
 ### Enemies
 
-A rival astrologer who seeks to discredit his work.
+A rival astrologer who serves a house of the Atavel party and has published a reading that the First Peer's office will change hands.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Ilendor is a Freeman of the crown.
+- **[[affiliation-marendas|Faith of Marendas]]**: He keeps the festivals of knowledge and lectures at the Festival of Illumination.
 
 ## Plot Hooks
 
-The Astrologer's Dilemma
-: Ilendor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
+The Day of the Sitting
+: Ilendor has cast the day of the First Peer's choosing, and the stars are against the earl. A man of the Atavel party has offered him a fortune to tell the earl so, and the earl will hear it either way. Ilendor wants a party to find who else has seen his chart.
 
-Old Grudges
-: A rival astrologer who seeks to discredit his work. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Stolen Tables
+: Ilendor's tables, forty years of observations, have been taken from his study, and the rival's reading appeared a week later.
 
-Echoes of the Past
-: Something from Ilendor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+The Eclipse
+: Ilendor has spent every night of the month on his roof and has put off his lecture at the Festival of Illumination. The priests of Marendas want to know what he is reckoning, and they hire a party to find out.
 
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Ilendor depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Ilendor the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+:::secret {title="The eclipse"}
+Ilendor's reckoning puts an eclipse of the sun in the month the Council sits. He has told nobody, because whoever knows first can make it mean what they like.
+:::

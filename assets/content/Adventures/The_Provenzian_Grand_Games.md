@@ -3,151 +3,138 @@ shortcode: prvnzngrndgms
 name: {full: The Provénzian Grand Games}
 type: scenario
 subType: adventure
-tags: [draft]
+description: "At the Lordeme in Hárivren the Earl of Degavel and the Count of Atavel bid for the Flame earl's vote while the Forge preaches against the fire ceremonies, and a Válaren wagerer who is the Earl of Degavel's client has bought a cupbearer to dose Hárivren's champion on the final day."
+tags: []
 data:
   parents: []
-  locations: [provenzrgn]
-  cast: []
-  factions: []
+  locations: [harivrencity]
+  cast: [avaarlzlvrn, olztbrzms, lrrmtlms, rutalplnvr, velzoreaitv, trztrvls]
+  factions: [erldmhrvrn, councilpeers, blackflame, sacredforge, ordoarcanis]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-The [Lordeme]{.name data-type="lore/gathering"} (Provénzian Grand Games), the realm's greatest athletic and martial competition, is held in [[place-harivrencity|Hárivren City]]. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.
+## Overview {#overview}
 
-## Overview
+Every fifth year [[place-harivrencity|Hárivren City]] hosts the [Lordeme]{.name data-type="lore/gathering"}, the Provénzian Grand Games: the realm's greatest festival of martial prowess and athletic excellence. For the months around the Games the city triples. Nobles negotiate alliances, debts and revenge in the open, enormous sums are wagered, and the [[affiliation-ordoarcanis|Thordimalon]] keeps an official presence to watch for magical interference. The ceremonies that frame the Games involve a great deal of fire, the Earl's family has shaped them for four generations, and [[affiliation-sacredforge|the Sacred Forge]] complains of them every five years and loses.
 
-Every five years, the City of Hárivren hosts the Lordeme—a festival of martial prowess, athletic excellence, and elaborate ceremonies that draws competitors and spectators from across [[place-provenzrgn|Provénzia Region]] and beyond. Nobles prove their worth, commoners rise to glory, merchants deal in spectacular wagers, and the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are honored through sacred games. The event is also a nexus of political intrigue, as factions maneuver for influence and rivals settle scores. The party may be competitors, investigators, or unwilling participants in machinations that threaten the games themselves.
+This time the Games fall in a hard season. The Forge's bishops have petitioned the crown to take the western march from [[being-avaarlzlvrn|Avaarl Zilavren]], the Earl of Hárivren and the most senior lord of [[affiliation-blackflame|the Black Flame]] in the kingdom, and the petition lies before the [[affiliation-councilpeers|Council of Peers]]. The Earl's vote is the most valuable in the Council, because the Peers choose their First Peer at the year's first sitting and Avaarl belongs to neither party. Both parties have sent envoys to the Games.
 
-## Stage One: Arrival & Opportunity
+The party enters as competitors, as the Earl's hands, or as somebody's eyes in the crowd.
 
-The party arrives in Hárivren as the games approach:
+## What Is Really Happening {#what-is-really-happening}
 
-- The city is crowded with competitors, nobility, merchants, and common folk
-- Competition brackets are announced; the party may register for events
-- Nobles are openly negotiating alliances, debts, and revenge
-- Rumors of cheating, poison, and assassination circulate
-- Spectators place enormous wagers; fortunes hang in the balance
-- The [[affiliation-ordoarcanis|Thordimalon]] has an official presence (monitoring for magical interference)
+**The champion.** [[being-olztbrzms|Olzate Brazemis]] carries Hárivren's colors in the sword games and is the favorite to win them for the third time. A Válaren wagering syndicate has staked a fortune against him. It offered him a purse to lose, and he refused it to their faces.
 
-**Potential Hooks:**
+**The cup.** The syndicate's head, [[being-lrrmtlms|Lorrame Tulemis]], a merchant of Válaren, has bought a cupbearer of the Earl's own household. On the morning of the final bout the champion drinks from a cup of the Earl's at the ceremony of the flame, before the whole city. The cupbearer is to put a sleeping draught in it, enough to slow a man's sword arm for an hour. It will not kill him. It may get him killed.
 
-- A competitor hires the party to investigate sabotage attempts
-- A noble patron commissions the party to ensure a favored athlete's success (or rival's failure)
-- The party discovers an assassination plot targeting a visiting dignitary
-- A mysterious figure offers the party substantial gold to "throw" or fix matches
-- An event organizer asks the party to investigate suspicions of cheating
+**The envoys.** The Earl of Degavel, [[being-rutalplnvr|Rutal Pélanvri]], who holds the office of First Peer, and the Count of Atavel, [[being-velzoreaitv|Velzore Aitevis]], who wants it for his party, have each sent an envoy to the Games to learn the price of the Earl's vote. Avaarl's price is simple: whichever party will refuse to second the Forge's petition has his vote. Neither envoy knows what the other has offered, and both would pay to.
 
-## Stage Two: The Games Begin
+**The connection.** Lorrame Tulemis is the Earl of Degavel's client, and his house has prospered on the Pélanvri name. Rutal knows nothing of the cup. If it came out that a Pélanvri client had drugged Hárivren's champion at Hárivren's own ceremony, the Earl of Degavel would lose Avaarl's vote and probably the office of First Peer with it.
 
-As the games unfold, various plots and complications emerge:
+**The Forge.** [[being-trztrvls|Taroze Torvilis]], the Forge's preacher from Bataren, has come to preach against the fire ceremonies in the square outside the Earl's games. He has a sworn witness who says a man was burned at the last Games and the burning was hushed. His purpose is the petition, not the champion, and he would be appalled to learn that the champion's cup is being used against the Earl.
 
-Cheating & Sabotage
-: Contestants use magic, poison, or hired assassins to eliminate rivals
+> [!IMPORTANT]
+> The Games are a festival, and most of the city is there to watch. The scenario ends with the final bout, won or lost, honestly or not, and with the Earl's vote promised to one party or neither.
 
-Gambling Corruption
-: Wealthy betters pressure the party to fix match outcomes
+## Hooks {#hooks}
 
-Political Plots
-: Assassination attempts target visiting dignitaries or rival nobles
+- **The leader.** Avaarl Zilavren wants the champion who carries Hárivren's colors kept alive and honest through the Games, and he does not trust his own household to do it.
+- **The mercenary.** The Atavel envoy hires a party to learn what the Degavel envoy has offered the Earl.
+- **The fighter.** A party member enters the sword games, and Lorrame's syndicate offers a purse to lose a bout.
+- **The faith.** Taroze Torvilis asks a party of the faithful to guard his witness, whom someone has tried to frighten off.
 
-Athlete Recruitment
-: Hidden factions attempt to recruit talented competitors for military or magical purposes
+## The Opening {#opening}
 
-Artifact Hunting
-: A rumor spreads that one of the prizes is a legendary item (true or false)
+The great square of Hárivren on the first morning of the Lordeme. Banners on every house, braziers along the processional way, the Earl's household in black and flame-red. A big swordsman in Hárivren's colors walks through the crowd and is cheered at every step.
 
-**If the party competes:**
+> "Three times, Olzate!" a woman shouts, and the crowd takes it up. The swordsman grins and does not look at the man in Válaren silk watching him from a balcony.
 
-- They face off against skilled and sometimes unscrupulous opponents
-- Victories open doors; defeats close them
-- They may become targets of those who have bet against them
-- Success in the games brings renown and allies
+## Scenes {#scenes}
 
-**If the party investigates:**
+### Scene One: The City of the Games
 
-- They uncover networks of corruption and conspiracy
-- Various factions attempt to compromise or silence them
-- Evidence of cheating accumulates, but revealing it may offend powerful people
-- They must decide who to trust
+**Purpose.** Show the Games, the wagers and the factions.
 
-## Stage Three: Investigation Deepens
+**Situation.** [[place-harivrencity|Hárivren City]] at three times its size: the lists, the race-ground, the wagering booths, the envoys' lodgings, the Forge preacher's crowd in the square.
 
-The party's involvement (whether as competitors or investigators) inevitably deepens:
+**NPCs and threats.** [[being-olztbrzms|Olzate Brazemis]], easy and proud. Lorrame's runners at the wagering booths. The two envoys, courteous to each other in public. Taroze, shouting about fire.
 
-- A spectacular assassination or poisoning occurs during the games
-- Evidence implicates a powerful noble or unexpected figure
-- Multiple conspiracies are revealed to be overlapping or connected
-- The Thordimalon begins their own investigation (potentially conflicting with the party's)
-- Threats escalate: the party receives warnings, is physically attacked, or faces magical compulsion
+**Player choices.** Enter the games, watch the wagers, call on an envoy, or hear the preacher.
 
-**Key Discoveries:**
+**Clues and rewards.** The odds against the champion are longer than his record can explain. Olzate, asked, laughs and says a man in silk offered him a purse to lose and he told the man where to put it.
 
-- The assassination plot targets the ruler of Provénzia Region or another prominent dignitary
-- Cheating is far more widespread than initially suspected
-- An outside power (the [[affiliation-vylarinmpr|Vilérian Empire]], [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] agents, etc.) is manipulating events
-- One of the party members is recognized or identified as a threat by conspirators
-- The true motive is not money or prestige but something deeper: political positioning, magical research, or preparation for conflict
+**Consequences.** The syndicate notices anyone who asks about the odds.
 
-## Stage Four: Climactic Conflict
+**If bypassed.** The party learns of the syndicate when its runners offer a party member a purse.
 
-The party must decide how to act. Options include:
+### Scene Two: The Envoys' Tables
 
-Expose the Conspirators
-: Publicly reveal the truth, risking the games' cancellation and potential violence
+**Purpose.** The vote.
 
-Disrupt the Assassination
-: Prevent the assassination through intervention or warning the target
+**Situation.** Two lodgings on the same street, two dinners on the same night. The Degavel envoy and the Atavel envoy each entertain whom they can.
 
-Work with Authorities
-: Alert the city guard or Thordimalon and coordinate response
+**NPCs and threats.** The envoys of [[being-rutalplnvr|Rutal Pélanvri]] and [[being-velzoreaitv|Velzore Aitevis]]. The Earl's secretary, who visits both. [[being-lrrmtlms|Lorrame Tulemis]], a guest at the Degavel table.
 
-Confront the Conspirators Directly
-: Attempt to stop them through negotiation, magic, or combat
+**Player choices.** Carry a message for one envoy, spy on the other, or carry the Earl's answer.
 
-Exploit the Chaos
-: Use the confusion and attention of the games as cover for their own investigation or agenda
+**Clues and rewards.** The Earl's price is no second for the Forge's petition. The Degavel envoy has not yet promised it. Lorrame is greeted at the Degavel table as a client of the house.
 
-**Combat/Chase Encounters:**
+**Consequences.** A party that carries the Earl's answer is trusted by him and watched by both envoys.
 
-- Confrontation with assassins in the crowded stadium
-- Combat in the streets as conspirators flee
-- Magical duels if the Thordimalon is involved
-- Chase sequences through Hárivren's streets and the games' venues
+**If bypassed.** The envoys bid blind, and the Earl keeps his vote until the first sitting.
 
-## Stage Five: Aftermath & Legacy
+### Scene Three: The Household
 
-**If the party succeeds:**
+**Purpose.** The cup and the cupbearer.
 
-- The assassination is prevented; those responsible face justice
-- The conspirators are exposed, and their faction is weakened
-- The games continue or are completed without further incident
-- The party gains recognition, allies, and potential enmity from powerful people
-- They may be commissioned for follow-up investigations or protection
-- The games' integrity is restored, or reforms are implemented to prevent future conspiracies
+**Situation.** The Earl's house, the kitchens and the ceremonial plate. The cup of the flame is kept in a locked press and carried out on the final morning by a cupbearer.
 
-**If the party fails or is compromised:**
+**NPCs and threats.** The cupbearers, one of whom is in debt to a wagering booth. The Earl's steward, who trusts his people. The Thordimalon's watchers, who look for magic and miss a draught.
 
-- The assassination succeeds, throwing Provénzia Region into chaos
-- The conspirators consolidate power, using the disruption to their advantage
-- The games are canceled or severely disrupted
-- The party may be blamed for the failure or exposed as complicit
-- Political upheaval in Provénzia Region creates both danger and opportunity
+**Player choices.** Watch the cupbearers, search for the draught, tell the Earl, or replace the cup.
 
-**Ongoing Consequences:**
+**Clues and rewards.** The indebted cupbearer's debt was paid this week by one of Lorrame's runners. A vial of sleeping draught is sewn into his sleeve.
 
-- Alliances made or broken during the games have lasting effects
-- The party may become recurring investigators (or targets) for powerful factions
-- If a high-ranking victim is killed, the political consequences ripple through the region
-- The games themselves may be reformed or suspended pending investigation
-- The party's reputation is significantly affected (heroic or notorious)
+**Consequences.** Told, the Earl takes the cupbearer quietly and asks who paid him.
 
-## See Also
+**If bypassed.** The cupbearer carries the cup out on the final morning.
 
-- [[place-provenzrgn|Provénzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
-- [[affiliation-arldnpnthn|Aureldian]]
-- [[affiliation-ordoarcanis|Thordimalon]]
-- [[affiliation-vylarinmpr|Vilérian Empire]]
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+### Scene Four: The Ceremony of the Flame and the Final Bout
+
+**Purpose.** The climax.
+
+**Situation.** The final morning. The fire ceremony in the great square, the champion's cup, and the sword games' final bout in the lists. Taroze preaching at the edge of the crowd with his witness.
+
+**NPCs and threats.** The champion and his opponent. The cupbearer, if still at large. Lorrame on his balcony. The crowd, which turns on anyone who interrupts the ceremony.
+
+**Player choices.** Stop the cup, let Olzate fight drugged and guard him, expose Lorrame in front of the envoys, or say nothing.
+
+**Clues and rewards.** A clean cup and an honest bout, which Olzate wins or loses on his merits. Lorrame's runners with the syndicate's book, which names every wager.
+
+**Consequences.** Lorrame exposed before the Degavel envoy costs the Earl of Degavel the Flame earl's vote. Kept quiet and handed to the Earl alone, it gives Avaarl a hold on the First Peer.
+
+**If bypassed.** Olzate fights drugged and loses, badly, and the syndicate collects.
+
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+Olzate drinks from the Earl's cup, fights slow and is cut down in the final bout before the whole city. He lives, but he does not fight again. The syndicate collects, the cupbearer leaves Hárivren with money in his boots, and the Forge's preacher tells the square that the flame has turned on its own. The Earl learns the truth a month later from a drunken runner, and the Earl of Degavel never learns why the Flame earl's vote went to Atavel.
+
+## Aftermath {#aftermath}
+
+A party that saved the champion has the Earl of Hárivren's thanks, which are worth a great deal in the west and something at Jalnasdal. What it did with Lorrame decides the First Peer. A party that served an envoy has made a friend at court and an enemy at the other table. Taroze Torvilis goes back to Bataren with his petition no stronger and no weaker, and the fire ceremonies go on.
+
+## See Also {#see-also}
+
+[[place-harivrencity|Hárivren City]]
+: the city of the Games
+
+[[affiliation-erldmhrvrn|Earldom of Hárivren]]
+: the march and its earl
+
+[[affiliation-councilpeers|Council of Peers]]
+: the council whose First Peer the Earl's vote decides
+
+[[scenario-siegevalrn|The Siege of Válaren]]
+: what Lorrame Tulemis is doing at home

@@ -20,7 +20,7 @@ data:
         - affiliation-sacredforge
         - affiliation-vylarinmpr
       summary: >-
-        Burdened with levies for the frontier and taxes for a distant Orzas, the province's estates refuse the therkos. The Sacred Forge preaches against an Empire that tolerates the Flame, and the port cities and the Tanevar country fight the therkos's legion for nine years. Nobody declares a kingdom. The peace grants a Charter of Rights, held by a king the estates choose, Ylarven of the Meridiane house of Lédravren, and the Empire stops sending therkoi.
+        Burdened with levies for the frontier and taxes for a distant Orzas, the province's estates refuse the therkos. The Sacred Forge preaches against an Empire that tolerates the Flame, and the port cities and the Tanevar country fight the therkos's legion for nine years. Nobody declares a kingdom. The peace grants a Charter of Rights, held by a king the estates choose, Ilarven of the Korvatis house of Lédravren, and the Empire stops sending therkoi.
       standing: attested
       names:
         - {name: the War of the Charter, by: affiliation-kngdmprvnz}
@@ -81,7 +81,7 @@ The _therkos_'s legion kept the great road and [[place-aureliane|Aurelane]]. It 
 
 ## The Charter
 
-The peace was a settlement, not a victory. The estates agreed to a king, so that the [Charter of Rights]{.name data-type="lore/law"} would have a holder, and chose one from among themselves: [Ylarven Lédravren]{.name data-type="being/npc"}, of the Meridiane [House **Lédravren**]{.name data-type="affiliation/lineage"}, whose lands lay on the southern coast. The Charter of Rights bound the king to take counsel of a [Council of Peers]{.name data-type="affiliation/governmental"}, to levy only by the estates' consent and to leave the cities their own law. The Empire recognized the Charter, and its chancery stopped sending _therkoi_ to the province; the terms were set down with the other realms that had left the Empire in [[lore-crownssettle|the Settlement of the Crowns]]. Nobody declared a kingdom, and the Provénzians do not date one. They date the Charter.
+The peace was a settlement, not a victory. The estates agreed to a king, so that the [[lore-chrtrrghts|Charter of Rights]] would have a holder, and chose one from among themselves: [Ilarven Lédravren]{.name data-type="being/npc"}, of the Korvatis [[affiliation-hseledravren|House **Lédravren**]], whose lands lay on the southern coast. The Charter of Rights bound the king to take counsel of a [[affiliation-councilpeers|Council of Peers]], to levy only by the estates' consent and to leave the cities their own law. The Empire recognized the Charter, and its chancery stopped sending _therkoi_ to the province; the terms were set down with the other realms that had left the Empire in [[lore-crownssettle|the Settlement of the Crowns]]. Nobody declared a kingdom, and the Provénzians do not date one. They date the Charter.
 
 ## What It Left
 

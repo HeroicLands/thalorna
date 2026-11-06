@@ -3,12 +3,13 @@ shortcode: vrynbrnwyld
 name: {full: Verinna Branvilde}
 type: being
 subType: npc
-tags: [draft, clergy]
+description: "A priestess of Zunelas at Aurelane, trained at Argenna, who reads the dreams of the city's families and lawyers and doubts her own gift."
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [cleric]
-  occupation: Shaman
+  archetypes: [cleric, healer]
+  occupation: Priestess
   lore: []
   culture: provenzianclt
   homes: [aureliane]
@@ -396,57 +397,64 @@ sohl:
 
 # Appearance {#appearance}
 
-Verinna Branvilde is a 30-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a wide forehead, and a strong jaw that leads to a pointed chin. Her round blue eyes sit beneath straight brows, lending her a candid gaze. A straight nose and narrow lips complete her features. She has medium-toned skin with a fair complexion. Her dark brown hair is twisted into an elaborate arrangement.
+Verinna Branvilde is a 29-year-old woman who stands 5'7" tall and is of light build. She has medium-toned skin, dark brown hair braided and wound about her head under the gray veil of the Dreamer's priesthood, and round blue eyes that seem always to have been awake too long. An old scar on her left thigh makes her favor that leg on stairs.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Verinna Branvilde came into the world of the shaman through a combination of circumstance and aptitude.
+Verinna Branvilde is a priestess of [[affiliation-zunelas|Zunelas]], the Veiled Dreamer, at [[place-aureliane|Aurelane]], the old city of law and learning, where she reads the dreams that the city's families, lawyers and petitioners bring to the Dreamer's temple.
 
-Verinna was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
+She was chosen young, when a dream of hers foretold a flood on the great road that came, and she was sent to the god's sanctuary at [[place-argenna|Argenna]] to be trained. She has served the temple at Aurelane for more than ten years: she keeps the dream-chambers where the faithful sleep for a sending, reads what they dream, divines omens for marriages and suits, and treats the sick who come to the temple with herbs and with sleep. She is good at all of it and doubts that she is, and she would sometimes give a great deal to be an ordinary woman who dreams of nothing.
+
+The high courts are the city's power this season, and they are full. The crown's loan against the salt revenue has raised the [[lore-chrtrrghts|Charter's]] oldest question before the high court, and both the crown's lawyers and the Peers' have argued it. A justice of the court has come to the temple at night, asking Verinna to read a dream he will not describe to anyone else.
 
 ## Psyche
 
 ### Personality
 
-Sometimes doubts her abilities and is hesitant to make decisions.
+Verinna is gentle, conscientious and hesitant, slow to decide and slower to trust her own gift.
 
 ### Motivation
 
-Verinna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in shaman work keep her vigilant and adaptable.
+She wants her readings to be true and to do no harm, and she wants to be sure, once, that what she sees is the god's and not her own.
 
 ### Strengths
 
-Skilled in divination, experienced in herbal medicine, strong spiritual connection.
+She is skilled in divination and dream-reading, experienced in herbal medicine, and trusted by the people who sleep in her temple.
+
+### Weaknesses
+
+She doubts herself at the moment she most needs to be certain, and she cannot refuse anyone who asks for help.
 
 ## Social
 
-Verinna is affiliated with the [Tribal Shamanic Circle]{.name data-type="affiliation"}.
+### Companions
 
-As a Provénzian shaman, Verinna occupies a recognized social niche within Provénzia society.
-
-## Companions
+The priests of the temple and the sleepers of the dream-chambers, and an old priestess at Argenna who taught her and still writes.
 
 ### Patrons
 
-Verinna's primary patrons are tribal elders who mentor her in the shamanic traditions. This relationship provides both opportunity and obligation.
+The families of Aurelane, whose offerings keep the temple, and the elders of the faith at Argenna.
 
 ### Enemies
 
-Skeptics within the tribe who challenge her authority.
+A lawyer of the high courts who calls dream-reading fraud and has twice asked the court to forbid a party from citing an omen.
+
+### Affiliations
+
+- **[[affiliation-zunelas|Faith of Zunelas]]**: Verinna is a priestess of the Dreamer, of the rank of Dunir.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: She is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Shaman's Dilemma
-: Verinna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Justice's Dream
+: The justice wants to know what his dream means before he rules, and the crown's lawyers and the Peers' would each pay to know what Verinna told him.
 
-Old Grudges
-: Skeptics within the tribe who challenge her authority. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+:::secret {title="The justice's dream"}
+The justice dreamed of the salt pans of [[place-lizela|Lizela]] burning, and of his own hand setting the fire.
+:::
 
-Echoes of the Past
-: Something from Verinna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+The Sleeper Who Would Not Wake
+: A student of the academies slept in the dream-chamber for a sending and has not woken in three days. He is breathing, and he is speaking in a tongue nobody in the temple knows.
 
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Verinna depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Verinna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Omen for Sale
+: A family in an inheritance suit has asked Verinna for an omen in their favor, and offered the temple a new roof. She has read their dream, and it says the opposite.

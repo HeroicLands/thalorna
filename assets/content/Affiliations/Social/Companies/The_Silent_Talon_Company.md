@@ -98,7 +98,7 @@ Specialized Protection
 
 - [[being-branwldrgr|Branval Dorgal]] --- _Captain_
 
-With a sharp mind for strategy and command, [[being-branwldrgr|Branval]] has led men through some of the most dangerous conflicts in the [Blood Lands]{.name data-type="place"}. He brings unparalleled leadership and tactical insight to the group, ensuring that every mission is executed with precision. His focus is on calculated decisions, ensuring the safety and success of his team.
+With a sharp mind for strategy and command, [[being-branwldrgr|Branval]] has led men through some of the most dangerous fighting on the Tarvénian frontier and in [[place-ceravelvale|Keravel Vale]]. He brings unparalleled leadership and tactical insight to the group, ensuring that every mission is executed with precision. His focus is on calculated decisions, ensuring the safety and success of his team.
 
 - [[being-dornsyndlr|Doren Sindalre]] --- _Assault Specialist_
 

@@ -3,7 +3,8 @@ shortcode: vlyrbrylnd
 name: {full: Volira Brilonde}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "A thatcher of Palnebris and the reeve its tenants elected, who says openly that the lord's quarrels are being paid for out of their strips."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +12,9 @@ data:
   occupation: Thatcher
   lore: []
   culture: provenzianclt
-  homes: [kalveza]
-  affiliations: {kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
+  homes: [palnebris]
+  affiliations: {brnyzrvln: {rank: 1}, kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
+  socialTies: {being-ryldnbrnwyld: rival}
   gender: female
   species: humanflk
   born: 690.81
@@ -394,57 +396,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Volira Brilonde is a 30-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. Her narrow brown eyes sit beneath thin brows, lending her a keen gaze. A straight nose and curved lips complete her features. She has light skin with a bronzed complexion. Her gray hair is swept up and held with carved combs.
+Volira Brilonde is a 29-year-old woman who stands 5'7" tall and is of light build. Her light skin is bronzed from roof work, her hair went gray in her twenties and she keeps it swept up with carved combs, and her narrow brown eyes are sharp and unimpressed. A scar runs down her right leg from a fall from a drying-shed roof that she climbed back onto the next morning.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Volira Brilonde came into the world of the thatcher through a combination of circumstance and aptitude.
+Volira Brilonde is a thatcher of [[place-palnebris|Palnebris]], the wealthiest manor of the [[affiliation-brnyzrvln|Barony of Zuravlen]], and the reeve its tenants elected to speak for them, an office that makes her nobody's friend by the Festival of the Golden Harvest.
 
-Volira learned the craft of thatching from her father, a well-known thatcher in their village. She was one of the few women in the area to take up the trade, earning respect for her skill and dedication. Her work is known for its neatness and durability, though some older villagers were initially skeptical about a woman working in such a physically demanding trade.
+She learned to thatch from her father, the manor's thatcher before her, and she is one of the few women in the valley in the trade. She keeps the roofs of the tenants' cottages, the drying sheds and the heated graft-house where the manor's famous grafters work through the winter. Her work is neat and lasting, and the older tenants who doubted a woman on a roof have stopped saying so. She takes on more work than she can do and cannot say no to a neighbor with a leaking roof. The tenants elected her reeve two years ago because she is on every roof in Palnebris and afraid of nobody.
+
+Palnebris is fighting on every front at once, and the tenants are paying for it. The grading table at [[place-elthrembis|Eltrembis]] failed a Palnebris consignment last week, which cost the tenants their rent, because their rent is paid in fruit reckoned at the table's marks. The lord, [[being-ryldnbrnwyld|Rilden Branvilde]], has not remitted it. Volira says openly that his quarrels are being paid for out of their strips.
 
 ## Psyche
 
 ### Personality
 
-Sometimes takes on too much work, struggles to say no to clients.
+Volira is plain-spoken, tireless and stubborn, quick to help and quicker to argue.
 
 ### Motivation
 
-Volira is driven by the desire to master her craft and secure a stable future. The uncertainties of life in thatcher work keep her vigilant and adaptable.
+She wants the tenants of Palnebris treated fairly by a lord who is frightened and a barony that judges their rent by a stranger's marks.
 
 ### Strengths
 
-Skilled in thatching, attentive to detail, innovative.
+She is a skilled, careful and inventive thatcher, and she knows every tenant and every roof of the manor.
+
+### Weaknesses
+
+She cannot refuse work or a fight, and she is running out of hours for both.
 
 ## Social
 
-Volira is affiliated with none; she works independently.
+### Companions
 
-As a Provénzian thatcher, Volira occupies a recognized social niche within Provénzia society.
-
-## Companions
+The tenants of Palnebris, and the grafters, whose graft-house roof she keeps.
 
 ### Patrons
 
-Volira's primary patrons are farmers and villagers who appreciate her work. This relationship provides both opportunity and obligation.
+None. The reeve answers to the tenants who elect her.
 
 ### Enemies
 
-Few; has generally earned the respect of the community.
+Rilden Branvilde, the lord of Palnebris, and his steward, who keeps the manor's accounts closer than its charter.
+
+### Affiliations
+
+- **[[affiliation-brnyzrvln|Barony of Zuravlen]]**: Volira is a subject of the barony and reeve of the tenants of Palnebris.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: She is a Freeman of the crown.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: She keeps the frost vigil with the rest of the manor.
 
 ## Plot Hooks
 
-The Thatcher's Dilemma
-: Volira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Frost Vigil
+: Volira has told the tenants not to come to the frost vigil until the lord remits their rent. If a late frost comes, the manor's blossom dies, and so does her standing; if it does not, the lord fines every tenant who stayed away.
 
-Old Grudges
-: Few; has generally earned the respect of the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Failed Mark
+: Volira believes the grader who failed the consignment was bribed by somebody who wants Palnebris ruined, and she suspects her own lord's steward. She wants a party to watch the grading table at the next consignment.
 
-Echoes of the Past
-: Something from Volira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Volira depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Volira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Graft-House Roof
+: Rethatching the graft-house, Volira found a sealed box hidden in the old roof: a copy of the manor's water-charter, older than the one kept in the church, and not the same.

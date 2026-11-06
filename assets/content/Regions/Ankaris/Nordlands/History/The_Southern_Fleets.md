@@ -61,7 +61,7 @@ data:
       accounts:
         - by: place-provenzrgn
           says: >-
-            The Nordheim raids came in off the gulf, threw down the henge, sacked the abbey and left a withering field that the Black Flame has been rousing since; the kingdom has never been paid for any of it.
+            The Nordheim raids came in off the gulf, threw down the henge, sacked the abbey and left a withering field that has woken again; the kingdom has never been paid for any of it.
           agrees: full
         - by: affiliation-kngdmlvndr
           says: >-
@@ -91,7 +91,7 @@ The fleets went south every summer for eleven years. Their targets were the [[af
 
 ## The Henge and the Abbey
 
-About 520 the fleets came in off the gulf onto northern Provénzia. The hirvs threw down [[place-yharvalenhenge|Yarvalen Henge]], the great stone circle of the north of that kingdom, and killed the men who stood on it, and they sacked [[place-menavarabbey|Ménavar Abbey]], a house of Aureldian learning that was never refounded. The killing on the ruins of a sacred circle made the [[place-bldfldyharvalen|Blood-field of Yarvalen]], a withering that kills the land around it and the worst field in a kingdom that has more fields than anywhere else. [[affiliation-kngdmprvnz|Provénzia]] has never been paid for it, and [[affiliation-blackflame|the Cult of the Black Flame]] has been rousing the field since.
+About 520 the fleets came in off the gulf onto northern Provénzia. The hirvs threw down [[place-yharvalenhenge|Yarvalen Henge]], the great stone circle of the north of that kingdom, and killed the men who stood on it, and they sacked [[place-menavarabbey|Ménavar Abbey]], a house of Aureldian learning that was never refounded. The killing on the ruins of a sacred circle made the [[place-bldfldyharvalen|Blood-field of Yarvalen]], a withering that kills the land around it and the worst field in a kingdom that has more fields than anywhere else. [[affiliation-kngdmprvnz|Provénzia]] has never been paid for it, and the field has woken again; the Sacred Forge blames [[affiliation-blackflame|the Cult of the Black Flame]].
 
 No Nordheim skald sings the henge. The fleets are sung as the answer to the hunger, the sons going south where the old had gone over the fell, and every kingdom's skalds leave the stones to another kingdom's hirv. The [[affiliation-skaldscrcl|Circle]] keeps the silence as a fact: the one deed of the Southern Fleets that the north will not claim is the one the south remembers.
 

@@ -3,16 +3,18 @@ shortcode: fryslvlskyr
 name: {full: Frisala Valskir}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "The head shepherd of Estivren, elected by the shepherd families, who means to raise the price of folding at the Eltrembis fair."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [warrior, courtier]
-  occupation: Chieftain
+  archetypes: [woodsman, courtier]
+  occupation: Head Shepherd
   lore: []
   culture: provenzianclt
-  homes: [lizela]
-  affiliations: {kngdmprvnz: {rank: 5}, ardavon: {rank: 1}}
+  homes: [estivren]
+  affiliations: {brnyzrvln: {rank: 1}, kngdmprvnz: {rank: 2}, ardavon: {rank: 1}}
+  socialTies: {being-ryldnbrnwyld: rival}
   gender: female
   species: humanflk
   born: 678.152
@@ -391,55 +393,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Frisala Valskir is a 42-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her hooded hazel eyes sit beneath thin brows and give her a guarded gaze. She has a delicate nose and expressive lips. She has fair skin with a clear complexion. Her chestnut hair is pinned in an elegant twist.
+Frisala Valskir is a 41-year-old woman who stands 5'10" tall and is of medium build, hard and spare from summers on the high grazing. Her fair skin is clear for an upland woman, her chestnut hair is pinned in a plain twist under a shepherd's hood, and her hooded hazel eyes give little away. She has a delicate nose and expressive lips, and a tattoo of an eagle spreads across her back, which the valley has heard of and few have seen.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a noble family of [[lore-provenzianclt|Provénzian]] heritage, Frisala Valskir is a chieftain.
+Frisala Valskir is the head shepherd of [[place-estivren|Estivren]], the upland pastoral manor of the [[affiliation-brnyzrvln|Barony of Zuravlen]], elected by the shepherd families to an office that is customary, older than the lords of Estivren and beyond their power to fill.
 
-Frisala became chieftain after her father's death in battle, and leads her clan by tradition where it serves and by her own methods where it does not. Known for her planning, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, her victories against raiders have won her respect.
+The shepherd families of Estivren hold their holdings on ancient terms no lord has managed to revise, and they take the manor's four thousand head up to the high summer grazing after lambing and bring them down in autumn, answering to nobody while they are gone. The head shepherd speaks for them, keeps their grazing boundaries against the holdings outside the barony, and settles their quarrels on the hill. Frisala's father held the office before her and died on the high grazing fighting rustlers from beyond the barony's boundary. The families elected his daughter, and she has led them by custom where it serves and by her own judgment where it does not. Her planning has kept the flocks whole through two bad winters, and her fights with the rustlers have won her a respect the older shepherds still give grudgingly.
+
+The folding contracts come up at this autumn's fair at [[place-elthrembis|Eltrembis]], and Estivren means to raise its price. The fast boats have made the orchards richer, and the shepherd families reason that the orchards can pay for the dung that grows the fruit. [[place-palnebris|Palnebris]] cannot do without the folding and cannot afford to be seen to give way, and Frisala speaks for the families and not for the lord.
 
 ## Psyche
 
 ### Personality
 
-She is distrusted by some elders who view her as too unorthodox.
+Frisala is guarded, deliberate and unorthodox, and some of the elders distrust her for it. She says little at the fair and a great deal on the hill.
 
 ### Motivation
 
-Frisala wants to hold her clan's lands and alliances against the raiders and against the elders who doubt her.
+She wants the shepherd families' terms kept and their price paid, and she wants the elders who doubt her to stop doubting.
 
 ### Strengths
 
-She is a planner, skilled at forming alliances, and a capable warrior.
+She is a careful planner, skilled at making and keeping agreements, and a capable fighter with a staff and a sling.
+
+### Weaknesses
+
+She has made the price of folding her test, and she cannot be seen to lower it whatever it costs the valley.
 
 ## Social
 
-Frisala belongs to the [Tribal Council]{.name data-type="affiliation/governmental"}.
+### Companions
 
-## Companions
+The shepherd families of Estivren, and the young shepherds who stood with her against the rustlers.
 
 ### Patrons
 
-Frisala's patrons are the clan warriors and young leaders who support her rule.
+None. The office answers to the families who elect it.
 
 ### Enemies
 
-Neighboring clan leaders threatened by her growing power.
+The lord of Palnebris, [[being-ryldnbrnwyld|Rilden Branvilde]], who has called the shepherds' price theft at the fair; and the rustlers beyond the barony's boundary, who have not forgotten her father.
+
+### Affiliations
+
+- **[[affiliation-brnyzrvln|Barony of Zuravlen]]**: Frisala is a subject of the barony.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: She is a Freeman of the crown.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: The shepherds keep the god of gates at the gate of every fold.
 
 ## Plot Hooks
 
-The Chieftain's Dilemma
-: A raid forces Frisala to choose between the elders' way and her own, with her clan's survival in the balance.
+The Price of Folding
+: Frisala will not lower the folding price at the fair, and Palnebris has hinted that a flock folded on the wrong fallow can sicken. She wants a party to guard the folds on the nights before the contracts are sealed.
 
-Old Grudges
-: A neighboring chieftain threatened by her growing power stops waiting for her to fail.
+The Rustlers on the High Grazing
+: Sheep are going missing on the high grazing in the same way they went the summer her father died. Frisala means to go up and settle it herself, and she wants hands she can trust who are not shepherds.
 
-Echoes of the Past
-: Something from the battle that killed her father resurfaces, and the clan looks to Frisala to settle it.
-
-Shifting Winds
-: Political change in Provénzia threatens the standing Frisala's clan depends upon, and she can adapt, resist, or leave.
-
-The Opportunity
-: An alliance is offered to Frisala on terms beyond anything she has hoped for, and its price is not named up front.
+The Elders' Choice
+: The older shepherds say Frisala has given away a grazing boundary to a holding outside the barony, and they will call a new election if she cannot show the old marker stones where her father set them.

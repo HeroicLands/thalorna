@@ -47,7 +47,7 @@ The March's houses raise knights for the border. [[being-srdlvnthrvkknghtwstrnmr
 
 ## Current Situation {#present}
 
-The Summer War goes on, season by season, below the level at which either crown must call it a war. Across the passes [Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}, Marshal of the Western Army, holds the frontier from [[place-caerceravel|Torvila Keravel]], and the walls of Durvalis stand on the road the March's hosts use. The March goes down regardless.
+The Summer War goes on, season by season, below the level at which either crown must call it a war. Across the passes [[being-jarvelplnvr|Jarvel al Pélanvri na Torvila Keravel]], Marshal of the Western Army, holds the frontier from [[place-caerceravel|Torvila Keravel]], and the walls of Durvalis stand on the road the March's hosts use. The March goes down regardless.
 
 The dead of the first raid still lie on the road below Grumagando. A Tarvenan holds that a field where the dead were left unreceived is a danger to everyone who passes it, and the March sends its men past Malnebris every summer. No rite of settlement has ever been attempted there, because it would have to be said in the campaign season on ground both crowns claim, and neither crown will grant the other's priests safe conduct.
 

@@ -1,109 +1,145 @@
 ---
 shortcode: lstrlcmnvrby
-name: {full: The Lost Relic of Menavar Abbey}
+name: {full: The Lost Relic of Ménavar Abbey}
 type: scenario
 subType: adventure
-tags: [draft]
+description: "With the country around Yarvalen dying, four parties want the healing relic hidden in the ruins of Ménavar Abbey, and the collector who bids highest is paid by the Black Flame to see that nobody ever uses it."
+tags: []
 data:
   parents: []
-  locations: [provenzrgn]
-  cast: []
-  factions: []
+  locations: [menavarabbey, batarencity]
+  cast: [ortmkrms, zdmdrvs, jntzgmls, kiramailthor]
+  factions: [lizelas, ordoarcanis, blackflame, arldnpnthn]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-## The Lost Relic of Ménavar Abbey
+## Overview {#overview}
 
-An ancient relic of one of the Aureldian faiths has been lost in the ruins of [[place-menavarabbey|Ménavar Abbey]], and both the church and shadowy interests seek to recover it before the other.
+[[place-menavarabbey|Ménavar Abbey]] was a great house of the [[affiliation-arldnpnthn|Twelve]] on the low country of [[place-sathvothe|Satvote]], with a library, a school and an endowment, until the Nordheim fleets gutted it about 520 AF. It was never refounded. Every attempt to reoccupy it was abandoned within a season, and it is said to be haunted by the brothers who died defending it.
 
-### Overview
+Something was kept there that was not carried out: a relic rumored to heal. Its place in the ruins is genuinely uncertain, because the abbey's plans survive in three versions that disagree exactly where it matters. With the country around [[place-bldfldyharvalen|Yarvalen]] withering a day's march away, a healing relic has become a question of politics as well as faith, and four parties want it.
 
-Ménavar Abbey, once a center of Aureldian learning and spiritual practice in the [[place-provenzrgn|Provénzia Region]], was damaged centuries ago during [[lore-southrnfleets|the Southern Fleets]] (the Nordheim raids) and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal church hierarchy and the [[affiliation-ordoarcanis|Thordimalon]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
+The party enters as the hands of any one of them, or of none.
 
-### Stage One: The Commission
+## What Is Really Happening {#what-is-really-happening}
 
-The party is approached by one of several factions seeking the relic:
+**The relic.** It is a reliquary of beaten silver the size of a loaf, holding the bones of the hand of the abbey's founder, a healer of the [[affiliation-lizelas|Faith of Lizelas]]. The brothers credited it with cures. Whether it heals anyone is not settled in this scenario, and nothing in it depends on the answer.
 
-- An Aureldian bishop or abbot who believes the relic belongs to the church
-- An agent of the Thordimalon tasked with "studying" the artifact
-- A noble house that claims historical custody of the relic
-- A mysterious collector who makes a substantial offer
+**The plans.** The brothers drew the three plans themselves, each wrong in a different place, and gave them to three houses of the faith in the south as the fleets came in. Laid over one another, the three plans disagree about every crypt and stair, and agree about one wall: the east wall of the chapter house, which all three draw as solid. The reliquary is behind it, in a niche the brothers bricked up the night before the abbey fell.
 
-**Initial Information:**
+**The brothers.** The dead brothers stand in the cloister at dusk, and they turn back anyone who comes into the abbey armed or digging. The expedition that failed came with picks and swords. A party that comes in unarmed, at dusk, and asks, is let through to the chapter house.
 
-- The relic's location within the abbey is uncertain (old maps conflict)
-- The abbey's ruins are dangerous—both from structural instability and other guardians
-- A previous expedition failed; some members returned mad or not at all
-- The abbey is said to be haunted by monks who died protecting it
+**The four parties.**
 
-**NPCs:**
+- **The church.** [[being-ortmkrms|Ortema Kiramis]], prioress of the house of Lizelas at [[place-batarencity|Bataren City]], holds that the relic is the faith's and has never been relinquished. She wants it carried to the withering country and used there.
+- **The Order.** [[being-zdmdrvs|Zedime Diravis]], the [[affiliation-ordoarcanis|Thordimalon]]'s magister at Bataren, wants to _study_ it, under a writ of the crown's oversight that nobody in the north can check.
+- **The house.** The counts of Bataren endowed the abbey, and the steward of the present countess, [[being-kiramailthor|Kirama Iltoris]], has pressed the house's claim to custody on her behalf without asking her. The claim is probably genuine. Kirama, who leads the reformers in the Council of Peers, would rather not be seen to grab a healing relic in a dying land.
+- **The collector.** A dealer from Válaren offers more than any of the others, for a client he will not name.
 
-- The hiring authority (with their own agenda)
-- A scholar who studied the abbey (partial information, possibly unreliable)
-- A local guide who claims familiarity with the ruins
+**The fifth interest.** The dealer's client is [[being-jntzgmls|Jentize Gaimelis]], the Bataren chandler who leads the [[affiliation-blackflame|Black Flame]]'s working at Yarvalen. A relic that might heal the country around the henge is a threat to that working. Jentize wants it bought and carried south, and he would as soon it were melted down.
 
-### Stage Two: Preparation & Research
+> [!IMPORTANT]
+> The ruin is dangerous only to people who come to take. The scenario ends when the reliquary leaves the abbey, by whatever hand, and the party chooses whose hand.
 
-The party must gather information about the abbey's layout and defenses:
+## Hooks {#hooks}
 
-- Interview survivors of earlier expeditions
-- Consult historical records at a monastery or archive
-- Acquire maps or blueprints of the abbey's design
-- Learn about the relic's nature and why it matters
-- Discover wards or protections the monks placed on the relic
+- **The faith.** Ortema Kiramis asks a party to bring the relic out for the faith and carry it to the withering country.
+- **The scholar.** Zedime Diravis hires a party to recover it for study, and offers a copy of one of the three plans.
+- **The leader.** Kirama Iltoris, who has learned what her steward has done, asks a party to see that the relic goes where it does the most good and not to her house.
+- **The mercenary.** The Válaren dealer offers a party a fortune to deliver the relic to him unopened.
 
-**Complications:**
+## The Opening {#opening}
 
-- Information is deliberately obscured or contradictory
-- Other factions are gathering intelligence and may interfere
-- Local superstitions add confusion (false leads)
-- A member of the party may be secretly representing a rival faction
+The prioress's parlor at the house of Lizelas in Bataren. One plan lies on the table, held flat with the prioress's cups.
 
-### Stage Three: Approach & Discovery
+> "There are three of these," she says, "and they show three different abbeys. The brothers drew them. I think they wanted us to look for a long time."
 
-The party travels to the abbey's ruins (a journey that may present its own challenges—bandits, weather, cursed lands). Upon arrival:
+## Scenes {#scenes}
 
-- The structure is more damaged than expected
-- Signs of recent activity suggest others have been here
-- Environmental hazards: unstable floors, cave-ins, flooded chambers
-- Strange phenomena: unnatural cold, disembodied voices, time distortions
+### Scene One: The Three Plans
 
-**Encounters:**
+**Purpose.** The puzzle, and the parties.
 
-- Skeletal remains of previous explorers
-- Undead monks or sanctified guardians created to protect the relic
-- A rival expedition claiming prior discovery
-- Creatures that lair in the ruins (owlbears, swarms, spectral entities)
+**Situation.** [[place-batarencity|Bataren City]]. The prioress has one plan, the Order has a copy of the second, and the third is in the archive of the house of Lizelas at Kalveza, a long way south. Each party has a reason to share and a reason not to.
 
-### Stage Four: Retrieving the Relic
+**NPCs and threats.** [[being-ortmkrms|Ortema Kiramis]], patient and determined. [[being-zdmdrvs|Zedime Diravis]], who trades a copy for a promise. The Válaren dealer, who wants to buy all three.
 
-The party must navigate the abbey to locate the relic's chamber. Challenges include:
+**Player choices.** Gather the plans, trade for them, copy them by stealth, or go to the abbey with one.
 
-- Solving puzzles or riddles left by the monks
-- Bypassing magical wards or locks
-- Navigating a guardian construct or spirit bound to protect the relic
-- Managing the abbey's structural hazards while under time pressure
-- Confrontation with a rival faction that has also reached the chamber
+**Clues and rewards.** Any two plans laid over one another show the deliberate disagreements. All three together agree on one wall.
 
-**The Guardian:** A manifestation of the abbey's purpose—perhaps an oath-bound spirit of a high priest, a construct of Aureldian magic, or a test woven into the very stones. It may be placated by piety, outsmarted by riddles, or overcome by force.
+**Consequences.** Whoever the party trades with expects to share in what is found.
 
-### Stage Five: Aftermath & Complications
+**If bypassed.** The party goes to the abbey with one plan, and searches a crypt that is not there.
 
-- If the party succeeds, they must decide what to do with the relic
-  - Return it to the hiring faction (creates enemies among rivals)
-  - Claim it (brings the Thordimalon and the church down on them)
-  - Destroy or hide it (prevents anyone from misusing it, but angers the hiring authority)
-- The relic may be cursed, addictive, or carry unforeseen consequences
-- Previously hidden secrets of the abbey are revealed (historical knowledge, prophecies)
-- Other factions pursue the party to recover or prevent use of the relic
-- The abbey itself may be awakening to new threats
+### Scene Two: The Road and the Ruin
 
-### See Also
+**Purpose.** Show the abbey and its guardians.
 
-- [[place-provenzrgn|Provénzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
-- [[affiliation-arldnpnthn|Aureldian]]
-- [[affiliation-ordoarcanis|Thordimalon]]
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+**Situation.** A day's march from the gulf, across the low country, the withering's edge in sight to the east. [[place-menavarabbey|Ménavar Abbey]]: roofless church, broken cloister, the library a shell, the chapter house standing.
+
+**NPCs and threats.** The unsound fabric, which drops stone on a careless foot. The dead brothers, who stand in the cloister at dusk. A rival party, sent by whichever of the four the party did not serve, with picks.
+
+**Player choices.** Come in at dusk unarmed, come in by day with picks, or wait and watch the rival party go in first.
+
+**Clues and rewards.** A party that watches sees the rivals turned back at the cloister by figures in brown who do not touch them, and sees one of the rivals come out weeping and unable to say why.
+
+**Consequences.** A party that comes armed is turned back and the brothers do not let it in again.
+
+**If bypassed.** The rival party digs in the church and brings down the vault on itself.
+
+### Scene Three: The Chapter House
+
+**Purpose.** The relic.
+
+**Situation.** The chapter house at dusk. Its east wall is plastered and plain, and one span of it is newer brick.
+
+**NPCs and threats.** The brothers, who stand at the door and watch. The brick, which must be taken down by hand.
+
+**Player choices.** Open the niche, ask the brothers' leave, or leave the reliquary where it is.
+
+**Clues and rewards.** The reliquary, wrapped in a rotten cloth, and a brother's note in the old hand asking the finder to carry it where it is needed. The brothers go from the door when it is lifted out.
+
+**Consequences.** The abbey is quiet that night for the first time in two centuries.
+
+**If bypassed.** The reliquary stays in the wall, and the brothers stay in the cloister.
+
+### Scene Four: The Bidding
+
+**Purpose.** Whose hands.
+
+**Situation.** Bataren, with the reliquary. Every party knows within a day.
+
+**NPCs and threats.** The prioress, the magister, the countess's steward and the Válaren dealer, each with an offer. Hired men of the dealer's on the road, who are paid to take it if it cannot be bought.
+
+**Player choices.** Give it to the faith, to the Order, to the countess's house, or sell it to the dealer. Or carry it to the withering country themselves, as the brother's note asks.
+
+**Clues and rewards.** A party that follows the dealer's money finds that it comes from a chandler in the north quarter. A party that has played [[scenario-crsyhrvlnhng|The Curse of Yarvalen Henge]] knows the chandler's name.
+
+**Consequences.** In the faith's hands the relic goes east to the dying farms. In the Order's it goes into a study. Sold to the dealer, it goes south and is not seen again.
+
+**If bypassed.** The dealer's men take it on the road.
+
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The four parties send their own expeditions. The Order's and the house's are turned back at the cloister. The church's prioress goes herself, unarmed, at dusk, and finds nothing, because she has only one plan. In the spring the dealer's men, who have bought all three plans, take the wall down by day with picks and lose a man to the brothers and another to the vault, and carry the reliquary south. It is not seen again.
+
+## Aftermath {#aftermath}
+
+A party that gave the relic to the faith has the house of Lizelas for a friend and the Black Flame for an enemy, whether or not the relic heals anything at Yarvalen. A party that gave it to the Order has a debtor in Zedime Diravis. A party that sold it has a fortune and has done exactly what the Flame wanted. Kirama Iltoris remembers who kept her house's name out of it.
+
+## See Also {#see-also}
+
+[[place-menavarabbey|Ménavar Abbey]]
+: the ruined house and its brothers
+
+[[place-bldfldyharvalen|Blood-field of Yarvalen]]
+: the withering a day's march away
+
+[[affiliation-lizelas|Faith of Lizelas]]
+: the faith that claims the relic
+
+[[scenario-crsyhrvlnhng|The Curse of Yarvalen Henge]]
+: the working the relic threatens

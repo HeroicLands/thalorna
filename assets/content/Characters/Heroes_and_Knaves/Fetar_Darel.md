@@ -3,6 +3,7 @@ shortcode: fethardhrl
 name: {full: Fetar Darel, given: Fetar, clan: Darel, prov: [Fet]}
 type: being
 subType: character
+description: "The pilot of the Tamzir, a cheerful dyer's son of Blavera in the Zuravlen valley and arguably the finest pilot on the Vilérian Sea."
 tags: [tamzir-crew, tradesfolk]
 data:
   banner: tamzirbnr
@@ -12,7 +13,7 @@ data:
   occupation: Pilot
   lore: []
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [blavera]
   affiliations: {thetamzir: {rank: 3}, kngdmprvnz: {rank: 2}}
   gender: male
   species: humanflk
@@ -403,67 +404,65 @@ sohl:
 
 ![[fethardhrl|Fetar Darel]]{float=top-left}
 
-Fetar Darel is a man who looks like he wandered off a [[lore-provenzianclt|Provénzian]] promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke, and an infectious grin. His most notable feature is his wardrobe—he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
+Fetar Darel is a 34-year-old man who stands 6'0" tall and is gangly and loose-limbed. He has a mop of unruly red hair, a scatter of freckles and blue eyes that always seem to be enjoying a private joke. He dresses like a man off a Provénzian promenade, in patterned tunics and embroidered tabards that clash with the grime of a trading deck, and his hands on the helm are as steady as stone.
 
 # Dossier {#dossier}
 
-## Background
+Fetar Darel is the pilot of [[affiliation-thetamzir|the Tamzir]], a trading ship of mixed crew and mixed reputation, and he was born and still has his family at [[place-blavera|Blavera]], the river manor of the [[place-zuravlenrgn|Zuravlen]] valley where the river slows on the flat ground.
 
-### Origin
+He is a dyer's son. As a boy he spent every hour he could steal on the river in whatever he could borrow or build, fishing for the family pot and watching the fruit boats go down toward the sea. At seventeen he followed them to the coast with his family's reluctant blessing and apprenticed himself to a pilot, and his river sense turned out to work on open water. Within five years he was one of the finest pilots on the southern coast.
 
-Fetar grew up in a landlocked river town in northern [[place-provenzrgn|Provénzia]], the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him—a pull toward horizons he could not see from the riverbank.
+He joined the Tamzir seven years ago, after its last pilot was taken up for smuggling of his own. [[being-zbzmjkdn|Zabuzum Jakuduni]], whom the crew call Bu, did not think much of the cheerful Provénzian in the ridiculous clothes until Fetar threaded the ship through a reef passage at night in a storm with an imperial patrol behind. Three years ago he married [[being-slvrvlskyr|Sélvara Valskir]], and he is besotted with her and a little afraid of not measuring up to her.
 
-### Finding the Sea
-
-At seventeen, Fetar left home with his family's reluctant blessing, traveling south to the Provénzian coast where he apprenticed himself to a pilot. He discovered that his river-born instincts translated magnificently to open water. He had an uncanny feel for wind, current, and tide—an intuitive understanding of how a vessel moved through water that his mentors found notable. Within five years he had earned a reputation as one of the finest pilots on the southern coast.
-
-### Aboard the Tamzir
-
-Fetar joined [[affiliation-thetamzir|the Tamzir]] seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzir's own smuggling). [[being-zbzmjkdn|Zabuzum Jakuduni]], known as Bu, was skeptical of the cheerful Provénzian with the ridiculous clothing, but Fetar's first demonstration of his skills—threading the Tamzir through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzir through impossible waters, it is Fetar.
-
-### Marriage
-
-Fetar married [[being-slvrvlskyr|Sélvara Valskir]] three years ago, and their relationship is the ship's worst-kept secret turned open joy. He is besotted with his wife in a way that is both real and slightly comedic, and he is amusingly insecure about measuring up to the warrior woman he somehow convinced to marry him. The crew alternately finds this endearing and insufferable.
+He goes home to Blavera when the Tamzir lays up, and the valley he left has changed. The fast boats out of [[place-volsather|Volsater]] carry fresh fruit on the evening wind, the barony quarrels over every basket, and his brothers have asked whether a pilot who can run a reef by night could run peaches down to Volsater faster than anyone else.
 
 ## Psyche
 
 ### Personality
 
-Fetar is the Tamzir's emotional counterweight—warm, funny, and relentlessly optimistic in a crew that trends toward cynicism and brooding. He uses humor to defuse tension and deflects his own anxieties with jokes. He is kind, with an easy way about him that puts strangers at ease. But beneath the clowning is a sharp mind and a steel nerve—in a crisis at the helm, Fetar becomes focused, making split-second decisions with a calm that surprises those who know only his lighter side.
+Fetar is the Tamzir's warmth: funny, kind and stubbornly cheerful in a crew that leans toward brooding. He jokes his way past his own worries, and in a crisis at the helm he goes quiet and quick in a way that surprises people who know only the clown.
 
 ### Motivation
 
-Fetar is motivated by love—for his wife, for the sea, for the strange family he has found aboard the Tamzir. He does not have grand ambitions or political grievances. He wants to sail, to be with the people he cares about, and to see what lies beyond the next horizon.
+He wants to sail, to be with Sélvara and the strange family of the Tamzir, and to see what is past the next headland. He also wants his family at Blavera proud of him, and they would rather he came home.
 
 ### Strengths
 
-He is arguably the finest pilot on the [[place-vylarianse|Vilérian Sea]], with an almost supernatural feel for ships and water. He is also the crew's emotional glue—his humor and warmth keep morale from collapsing during hard times. He is clever, observant in his own way, and has a courage that is all the more impressive for being quiet rather than dramatic.
+He is arguably the finest pilot on the [[place-vylarianse|Vilérian Sea]], with a feel for water and hulls that borders on the uncanny. He keeps the crew's spirits up when nothing else will, and his courage is the quiet kind.
 
 ### Weaknesses
 
-Fetar is not a fighter. He can handle a dagger in self-defense, but he is outmatched by any trained combatant. His insecurity about his value to the crew beyond piloting sometimes leads him to take unnecessary risks to prove himself. He can be naïve about people's darker motivations, and his optimism occasionally prevents him from seeing danger until it is too late.
+He is no fighter beyond a dagger in self-defense. He takes needless risks to prove he is worth more than his piloting, and he is slow to believe the worst of anyone.
 
 ## Social
 
+### Companions
+
+The crew of the Tamzir, and above all his wife, Sélvara Valskir.
+
 ### Patrons
 
-None formally. Fetar's family in Provénzia are respectable tradespeople who worry about him constantly.
+None formally. His family at Blavera are respectable dyers who worry about him constantly.
 
 ### Enemies
 
-Fetar has no personal enemies, but the Tamzir's enemies are his enemies by association.
+Nobody personally; the Tamzir's enemies are his by association.
 
 ### Affiliations
 
-Pilot of the **Tamzir**. Husband of **Sélvara Valskir**. He maintains occasional correspondence with his family in Provénzia.
+- **[[affiliation-thetamzir|The Tamzir]]**: Fetar is the ship's pilot.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: He is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Pilot's Price
-: A wealthy Provénzian shipping magnate offers Fetar a legitimate position as lead pilot for his fleet—good pay, respectability, and safety. Fetar is torn between the security this would offer Sélvara and the life he has built aboard the Tamzir. The offer may also not be as innocent as it appears.
+The Fast Boat
+: Fetar's brothers have bought a share in a Volsater fast boat and want him to pilot it through the harvest, down a coast he knows by night. The baron's steward at [[place-elthrembis|Eltrembis]] wants every basket graded before it sails, and the Volsater masters mean to sail ungraded or not at all.
 
-River and Sea
-: Fetar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives—but reaching them means leaving the Tamzir at a critical moment.
+The Pilot's Price
+: A Provénzian shipping house offers Fetar a lead pilot's berth: good pay, respectability and safety for Sélvara. The offer is generous, and the house's last pilot drowned in calm water.
+
+The Flood on the River
+: The weir above Blavera has broken in a spring flood, the manor's mill is gone and the fields are under water. His family needs help, and his knowledge of the river could save lives, but reaching them means leaving the Tamzir at a bad moment.
 
 The Uncharted Passage
-: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between [[place-taruzelrgn|Taruzel]] and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.
+: An old chart shows a passage through a reef-strewn archipelago that would cut weeks off the run between [[place-taruzelrgn|Taruzel]] and the northern ports. Only a pilot like Fetar could take it, and the chart may be incomplete or a trap.

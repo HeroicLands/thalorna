@@ -3,159 +3,138 @@ shortcode: pechszrvln
 name: {full: The Peaches of Zuravlen}
 type: scenario
 subType: adventure
-tags: [draft]
+description: "Zuravlen peaches under the first mark sickened a Válaren merchant's table and killed an old man, and the baron's steward, who wants every basket graded before it reaches the harbor, knows exactly how the poison got into them."
+tags: []
 data:
   parents: []
-  locations: [zuravlenrgn, provenzrgn]
-  cast: []
-  factions: []
+  locations: [elthrembis, volsather, valarencity]
+  cast: [plvzornts, selvarezrvl, thavenfrwn, fethardhrl, chalzimechol]
+  factions: [brnyzrvln, erldmhrvrn, olvenia]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-[[place-zuravlenrgn|The orchards of Zuravlen]] produce the finest peaches in the [[place-provenzrgn|Provénzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
+## Overview {#overview}
 
-## Overview
+The valley of [[affiliation-brnyzrvln|Zuravlen]] grows the finest peaches in Ankaris, and only fruit that passes the sworn graders at [[place-elthrembis|Eltrembis]] may be sold under the Zuravlen name. The baron's income is the drying yards below the town, where every holding without a yard of its own dries its crop and pays a share. Every harvest more fresh fruit goes down the cut to [[place-volsather|Volsater]] and south on the fast boats, and none of it pays the share. The harbor and the yards are at war in all but name.
 
-The region of Zuravlen, famous throughout Provénzia and beyond for its exceptional peaches, has been struck by a curse. The fruit that once brought prosperity now brings sickness and death to those who consume it. Entire merchant caravans have been poisoned, trade has collapsed, and the regional economy teeters on ruin. Multiple factions claim the cause and blame each other: some say it's deliberate sabotage by a rival house, others whisper of a curse from an offended mage or spirit. The party must investigate before political maneuvering turns crisis into catastrophe.
+At midsummer a basket of first-mark Zuravlen peaches was served at the table of [[being-chalzimechol|Chalzime Cholsamis]], a wine merchant of [[place-valarencity|Válaren City]]. Six of his guests were sick by midnight, and the eldest of them, a magistrate's father, died in the morning. The Válaren houses are talking of buying their peaches elsewhere. The baron's steward says that fruit carried ungraded off the fast boats is the cause and that every basket must now be graded at the head of the cut. The Volsater masters say they will carry it ungraded or not at all.
 
-## Stage One: The Crisis
+The party enters from the Válaren end, from the harbor, or from the baron's hall.
 
-The party arrives in or travels through Zuravlen as the crisis unfolds:
+## What Is Really Happening {#what-is-really-happening}
 
-- The orchards are cordoned off and dying
-- Merchants are panic-selling remaining inventory (though the fruit is dangerous)
-- Multiple deaths from consumption of Zuravlen peaches
-- Accusations fly between noble houses and merchant families
-- The market for peaches has collapsed, and economic devastation spreads
-- Neighboring regions are banning all Provénzian fruit as a precaution
+**The marks.** The poisoned baskets came south on a Volsater fast boat, and they carried genuine first-mark tallies. A grader at Eltrembis has been selling first marks to boat masters for fruit that never came to the table, which is how ungraded fruit reached a Válaren dinner under the Zuravlen name. That is a scandal of its own and the barony's oldest kind.
 
-**Initial Information:**
+**The poison.** It is not the fruit. [[being-plvzornts|Palveze Ornetis]], the baron's steward, told the foreman of the drying yards that the boats' fruit must become a scandal before the fair. The foreman chose the way. On the night the boat's baskets waited at the head of the cut for the morning tide, he worked a purge the yard men use on rats into three of them. He meant to sicken Válaren, not kill anyone. Palveze learned what had been done when the news of the death came up the valley, and he has been covering it since: the foreman has been sent up to the high pastures, and Palveze has made the grading of the boats his public cause.
 
-- The curse affected the orchards suddenly, about two weeks ago
-- Attempts to cure or cleanse the fruit have failed (mundane and magical)
-- The poisoning is not simple toxin—it seems woven into the fruit itself
-- Several nobles have economic motivations to destroy the orchards (land grabs, rival business interests)
-- An estranged mage or spurned noble may have cursed the orchards in revenge
-- The [[affiliation-ordoarcanis|Thordimalon]] has begun investigating (or may be involved)
+**The boat.** The master of the boat that carried the baskets is the one [[being-thavenfrwn|Taven Farven]] serves as bosun. The master bought the first marks from the grader, and he knows it. He does not know about the purge, and he is terrified that the death will be laid to his ungraded fruit, which is exactly what Palveze intends. Taven saw a yard man at the baskets on the night they waited at the cut, and he has told nobody, because nobody asked.
 
-**NPCs:**
+**The baron.** [[being-selvarezrvl|Selvare Zuravel]] does not know. He wants the Zuravlen name clean, the yards full and the boats running, and he cannot have all three. If he learns that his steward poisoned a Válaren table to win the yards' quarrel, he must choose between his steward and his name.
 
-- The primary orchard lord or lady (defensive, suspicious)
-- A rival noble with clear economic motives
-- A merchant family hit hard by the poisoned fruit
-- A local healer or alchemist studying the curse
+**The earl.** The fruit pays the Earl of Hárivren's tolls on its way south, and the earl takes a dim view of anything that empties his road. His factors are asking questions too.
 
-## Stage Two: Investigation
+> [!IMPORTANT]
+> The fruit is good. The scenario ends when the poisoner, the grader or both are named, or when the boats are stopped at the cut and the harvest rots in the waiting.
 
-The party must determine the curse's nature and source:
+## Hooks {#hooks}
 
-- Examine affected peaches and test them (dangerous; requires care)
-- Interview those who consumed poisoned fruit (if they survived)
-- Research the curse's origins: accident, deliberate magic, alchemical poison, or something else
-- Investigate rival houses and their motives
-- Discover if anyone consulted with the Thordimalon or dark practitioners
-- Uncover tension between the noble houses that might explain the sabotage
-- Learn about recent insults, broken contracts, or betrayals that could motivate revenge
+- **The merchant.** Chalzime Cholsamis wants to know who sold him poison under the Zuravlen mark before the magistrate whose father died decides it was Chalzime.
+- **The boat.** [[being-fethardhrl|Fetar Darel]], who pilots a Volsater fast boat for his brothers, asks a party to keep his boat's fruit from being blamed and its crew from being hanged.
+- **The baron.** Selvare Zuravel hires a party to find the grader selling first marks before the fair.
+- **The steward.** Palveze Ornetis hires a party to guard his new grader at the head of the cut, where the masters have threatened to throw him in.
 
-**Complications:**
+## The Opening {#opening}
 
-- Someone attempts to poison or kill the party if they get too close to the truth
-- Rival factions actively mislead the investigation
-- The Thordimalon demands the party cease investigation and turn findings over to them
-- A party member becomes suspected of involvement (framed or mistaken identity)
-- The poisoning spreads beyond Zuravlen, creating pressure to stop investigation and prevent panic
+The head of the cut above Volsater at dusk, the baskets stacked under wet sacking for the night tide. A grader in the baron's colors sits on a crate with his tally-sticks across his knees, and three boat masters stand in front of him.
 
-## Stage Three: The Conspiracy Unfolds
+> "Grade that," says the biggest of them, "and it sails in the morning, and by the time it reaches Válaren it's jam."
 
-The party's investigation reveals the truth:
+## Scenes {#scenes}
 
-**Possible Origins:**
+### Scene One: A Table in Válaren
 
-Deliberate Sabotage
-: A rival noble house hired a poisoner or dark mage to curse the orchards, destroying a competitor
+**Purpose.** The harm, and the mark.
 
-Alchemical Accident
-: An experimental process or new fertilizer caused unforeseen consequences
+**Situation.** [[place-valarencity|Válaren City]]. Chalzime Cholsamis's house on the hill, the dining room still shut up, the remains of the basket kept in a cold cellar.
 
-Magical Curse
-: A mage (hired or acting independently) cursed the orchards for personal revenge
+**NPCs and threats.** [[being-chalzimechol|Chalzime Cholsamis]], frightened and angry. The dead man's son, a magistrate of the city, who wants a name. Válaren buyers who are already writing to the orchards of other districts.
 
-Arcane Manipulation
-: The Thordimalon cursed the orchards to create leverage or opportunity
+**Player choices.** Examine the basket, question the guests, or trace the fruit to its boat.
 
-Fae Influence
-: A fae spirit or Áelendan power angered by desecration or broken compact inflicted the curse
+**Clues and rewards.** Only three of the peaches in the basket were tainted, and each has a tiny cut at the stem. The tally on the basket is a genuine first mark of the Eltrembis table. The fruit came on a named Volsater boat.
 
-Natural Phenomenon
-: A spiritual entity or natural force was awakened by something done in or near the orchards
+**Consequences.** The party knows the fruit was poisoned after it was picked, and by hand.
 
-**Key Evidence:**
+**If bypassed.** The magistrate has the boat's master arrested when he next comes into Válaren.
 
-- Letters or records implicating the conspirators
-- Testimony from a hired poisoner or mage
-- Magical residue or signatures identifying the curse's creator
-- Economic records showing who profits from the orchards' destruction
-- A captured agent with incriminating documents
+### Scene Two: The Cut
 
-## Stage Four: Resolution Options
+**Purpose.** The harbor's side, and a witness.
 
-The party must address the conspiracy and cure the orchards. Different approaches:
+**Situation.** [[place-volsather|Volsater]], the notch in the cliff, the boats at their moorings, the cut that is the town's only road to the valley. The new grader at its head.
 
-Expose the Conspirators
-: Publicly reveal who caused the curse, forcing accountability through law or politics
+**NPCs and threats.** [[being-thavenfrwn|Taven Farven]], the bosun who keeps every rule. His master, who bought the marks and will not say so. The masters who mean to throw the grader in. [[being-fethardhrl|Fetar Darel]], cheerful and worried.
 
-Reverse the Curse
-: Work with a mage to unmake or neutralize the magical poison
+**Player choices.** Protect the grader, side with the masters, question the boat's crew, or ask Taven what he saw.
 
-Cleanse the Land
-: Perform rituals to purify the orchards (may require cooperation with Aureldian clergy or other powers)
+**Clues and rewards.** Taven, asked plainly, says a man in the yards' leather apron was at the baskets on the night they waited at the cut. The master, pressed, admits he paid a grader for the marks.
 
-Negotiate Settlement
-: If the curse was born of a broken compact or insult, mediate between parties
+**Consequences.** If the grader goes in the water, the steward has the outrage he needs and the baron must stop the boats.
 
-Harvest Remains
-: If the orchards cannot be saved, salvage what value remains and plan for recovery
+**If bypassed.** The boats stop sailing in protest, and the fresh harvest begins to rot at the head of the cut.
 
-**Confrontations:**
+### Scene Three: The Table and the Yards
 
-- A final showdown with whoever orchestrated the sabotage
-- Negotiation or combat with a hired mage or poisoner
-- Political maneuvering to prevent a false solution or scapegoating
-- Magical challenges to reverse or neutralize the curse
-- Time pressure as the economic crisis deepens and desperate measures increase
+**Purpose.** The barony's two scandals.
 
-## Stage Five: Aftermath & Consequences
+**Situation.** [[place-elthrembis|Eltrembis]] at harvest: the grading table under the market hall, the drying yards to the south smelling of hot fruit, the shrine of [[affiliation-olvenia|Ólvenia]] receiving its first baskets.
 
-**If the party succeeds:**
+**NPCs and threats.** The graders, one of whom sells marks. [[being-plvzornts|Palveze Ornetis]], brisk, who asks the party to lay its findings before him. The yard men, who say the foreman went up to the pastures for his health.
 
-- The curse is lifted or reversed; the orchards begin to recover
-- The true conspirators face justice (execution, exile, loss of title, or compensation)
-- The orchards' reputation is restored, though recovery takes time and money
-- The affected noble house (or the region) is grateful and becomes an ally
-- Trade and commerce resume, stabilizing the local economy
+**Player choices.** Find the grader, find the foreman, watch the steward, or go to the baron.
 
-**Complications and Leverage:**
+**Clues and rewards.** The grader who sells marks keeps the silver in a crock at the shrine, in the name of a dead aunt. The foreman, found on the high pasture, confesses the purge and says he was told to make a scandal and not how.
 
-- Recovery is slow, and some orchards may be permanently damaged
-- If the Thordimalon was involved, they may seek to monopolize the cure or extract political concessions
-- The conspirators' allies may seek revenge or obstruct resolution
-- The party may uncover larger conspiracies or factions working against Provénzia
-- The successful resolution brings the party prominence, making them targets for others' schemes
+**Consequences.** The steward learns the party has found the foreman and offers it the grader in exchange for silence.
 
-**If the party fails or is compromised:**
+**If bypassed.** The foreman stays on the pasture until the fair, and then he is not seen again.
 
-- The orchards are destroyed, and Zuravlen's economy collapses
-- The conspirators consolidate power, and their faction grows
-- The party is blamed for the failure or exposed as complicit
-- A false narrative takes hold (scapegoating an innocent party)
-- The region destabilizes, creating opportunities for external powers to intervene
+### Scene Four: The Baron's Hall
 
-## See Also
+**Purpose.** The choice.
 
-- [[place-provenzrgn|Provénzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
-- [[affiliation-ordoarcanis|Thordimalon]]
-- [[affiliation-arldnpnthn|Aureldian]]
-- [[place-elavendre|Élavendre]]
+**Situation.** Selvare's hall above Eltrembis, the evening before the fair. The Earl of Hárivren's factor is a guest.
+
+**NPCs and threats.** [[being-selvarezrvl|Selvare Zuravel]], genial and appalled by turns. Palveze, who has served him for twenty years. The earl's factor, who wants the road open.
+
+**Player choices.** Lay both scandals before the baron, give him only the grader, give the steward to the earl's factor, or take the steward's bargain.
+
+**Clues and rewards.** Selvare, given the whole truth, dismisses the steward and sends a letter of his own to Válaren. Given only the grader, he grades the boats at the cut and the harbor's war with the yards gets worse.
+
+**Consequences.** The Zuravlen name is cleared in Válaren only if the poisoner is named there.
+
+**If bypassed.** The fair opens with the boats stopped, the steward triumphant and the poison unexplained.
+
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The magistrate hangs nobody but ruins the boat's master. The baron, persuaded by his steward, orders every basket graded at the head of the cut. The masters refuse, the fresh harvest rots or goes to the yards, and the Válaren houses buy their peaches from the orchards of other districts for a year. The steward fills the yards and empties the valley's goodwill, and the earl's tolls fall.
+
+## Aftermath {#aftermath}
+
+A party that named the steward has cleared the Zuravlen name in Válaren and earned the baron's thanks and his discomfort. A party that named only the grader has given the barony an old scandal and kept the new one buried. The harbor and the yards are still at war, and the next harvest will bring the question of grading at the cut back again.
+
+## See Also {#see-also}
+
+[[affiliation-brnyzrvln|Barony of Zuravlen]]
+: the valley and its grading table
+
+[[place-elthrembis|Eltrembis]]
+: the baron's seat and the drying yards
+
+[[place-volsather|Volsater]]
+: the harbor and its fast boats
+
+[[scenario-kvrlfld|The Field at Kivarel]]
+: the baron's other barony, and its own silence

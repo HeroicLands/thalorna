@@ -4,7 +4,7 @@ name: {full: The Songs of the Salt Pans, en: [The Cut Songs]}
 type: lore
 subType: literature
 description: "Six songs the women of Volsater sing in answering pairs while they rake the salt on the terraces above the town, each in couplets that come back with one word changed and a refrain between: a girl to her mother on the land wind, a suit against the sea for what was lent, the lamp and the wave, what the sea leaves in the pan, the sail that was not his, and the count at the cut."
-tags: [draft, provenzia]
+tags: [provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore

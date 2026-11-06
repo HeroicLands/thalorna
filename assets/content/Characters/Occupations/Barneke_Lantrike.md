@@ -3,7 +3,8 @@ shortcode: brnklnthrk
 name: {full: Barneke Lantrike}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "A sílador of Lizela who sings at the tables of the town's houses, embellishes every tale and has repeated in one house what he heard in another."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,57 +393,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Barneke Lantrike is a 40-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a lined forehead, and a narrow jaw that leads to a firm chin. His large amber eyes sit beneath expressive brows, lending him an expressive gaze. A narrow nose and thin lips complete his features. He has warm-toned skin with an olive-toned complexion. His gray hair is shoulder-length and loose.
+Barneke Lantrike is a 39-year-old man who stands 5'11" tall and is of medium build. His hair went gray early and he wears it loose to the shoulder because the patrons' wives like it. He has warm olive skin, a lined forehead, a narrow nose and thin lips that are always about to tell a story, and large amber eyes that widen at the good part.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a guilded family of [[lore-provenzianclt|Provénzian]] heritage, Barneke Lantrike came into the world of the bard through a combination of circumstance and aptitude.
+Barneke Lantrike is a sílador of [[place-lizela|Lizela]], a singer of the old songs and the new, who sings at the tables of the town's houses, at its festivals and in the harbor taverns when the houses are not paying.
 
-Barneke has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Barneke often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
+He learned the songs of the [[lore-provenzianclt|Provénzian]] canon from a singer of the coast who took him as a boy, and he has sung for more than twenty years, from [[place-kalveza|Kalveza]] to the Talote. He travels widely in search of tales and comes home with more than he went for, because he improves them on the road. He is a good mediator: a man who can make two houses laugh at the same song can often make them sit at the same table, and Lizela's houses have used him for it. He is respected and not entirely believed.
+
+Lizela has given him a problem he cannot sing his way past. He sings at the house of [[being-arnelkrsvr|Arnela Kórisvar]] and at the house of [[being-aurentheorth|Aurente Ortemandis]], who are fighting over how the town will answer the crown's request for a loan against the salt revenue, and each has asked him what the other says at table.
 
 ## Psyche
 
 ### Personality
 
-Prone to embellishment, can be overconfident in his abilities.
+Barneke is charming, overconfident and incapable of telling a story the same way twice. He is generous with praise and careless with secrets.
 
 ### Motivation
 
-Barneke's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
+He wants to find the song nobody has sung yet, the one that will be sung after him, and he has been looking for it for twenty years.
 
 ### Strengths
 
-Charismatic, experienced traveler, skilled diplomat.
+He is a charismatic singer and storyteller, an experienced traveler and a skilled peacemaker at a table.
+
+### Weaknesses
+
+He embellishes, and he has repeated in one house what he heard in another.
 
 ## Social
 
-Barneke is affiliated with the [Bardic College]{.name data-type="affiliation"}.
+### Companions
 
-As a Provénzian bard, Barneke occupies a recognized social niche within Provénzia society.
-
-## Companions
+The singers and players of the coast, who share roads and rooms with him.
 
 ### Patrons
 
-Barneke's primary patrons are nobles and merchants who appreciate his storytelling. This relationship provides both opportunity and obligation.
+The houses of Lizela, who pay for an evening of song and expect their ancestors in it.
 
 ### Enemies
 
-Some who distrust him due to his tendency to embellish stories.
+A merchant of Kalveza who heard himself in one of Barneke's comic songs and did not laugh.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Barneke is a Freeman of the crown.
+- **[[affiliation-lusinia|Faith of Lusinia]]**: He sings at the World-Weaver's festivals.
 
 ## Plot Hooks
 
-The Bard's Dilemma
-: Barneke faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
+Two Tables
+: Arnela and Aurente have each asked Barneke what the other says at dinner. He has already told one of them something he should not have, and he asks a party to learn which of his stories reached Aurente before the council votes.
 
-Old Grudges
-: Some who distrust him due to his tendency to embellish stories. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Song of the Ruins
+: An old fisherman sang Barneke a verse about [[place-ruinslizela|the ruins in the hills above Lizela]], and the verse names a door. Barneke wants to find it before he makes it into a song, and he wants company.
 
-Echoes of the Past
-: Something from Barneke's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Barneke depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Barneke the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Mediator
+: Two fishing families of Lizela and Kalveza have come to blows over a net torn under the compact, and both have asked Barneke to speak for them at the harbor commission.

@@ -35,6 +35,10 @@ manuscripts, and an appetite for the rare and perishable that supports whole tra
 A Válaren merchant regards [[place-batarencity|Bataren]] as a cold northern outpost of no consequence
 and the western march as a place wool comes from. Both opinions are returned with interest.
 
+## Politics {#present}
+
+The harbor mouth is the city's whole politics this season. Three hulls without colors have been seen standing off the coast, never together, and the merchant houses read them as the first move of a blockade. Credit has already begun to tighten: the great houses are calling in short loans, the smaller ones are selling stock below cost to stay liquid, and the partnerships that bind them are holding only because nobody wants to be the first to break one. The city's commander has few men and no fleet, and the houses that could hire one are each waiting for another to pay. Every house that remembers the last blockade suspects that someone ashore profits from this one.
+
 ## The Vulnerability
 
 Everything Válaren is rests on open water, and the city has no other resource—no great hinterland of
@@ -47,6 +51,14 @@ before, and the last time forces unknown held the roads and the water for a quar
 damage done to Válaren's standing outlasted the siege by a generation. See
 [[scenario-siegevalrn|The Siege of Válaren]].
 
+## History {#history}
+
+Válaren was a fishing harbor on the southern shore when Vilérian shipping first came to the coast, and it made itself the shipping's agent. Under the province of the West its houses carried the Empire's manufactures inland and the country's wine and glass out, and they grew rich on the margin between the two. [[lore-charterwar|The War of the Charter]] cost the city nothing: the port cities held the coast for the estates, the sea stayed open, and Válaren lent to both sides.
+
+The last blockade is the event the city dates itself by. For a quarter of a year forces nobody identified held the roads and the water, and the partnerships that bound the merchant houses came apart one by one. The houses that survived it lend short to this day, and Válaren's standing in the Vilérian ports took a generation to recover.
+
 ## See Also
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-vylarianse|Vilérian Sea]]
+- [[scenario-siegevalrn|The Siege of Válaren]] · [[scenario-pechszrvln|The Peaches of Zuravlen]]
+- [[affiliation-crownships|The Crown's Ships]], which the Admiral commands from the city

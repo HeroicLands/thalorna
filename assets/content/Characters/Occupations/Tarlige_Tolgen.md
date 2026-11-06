@@ -3,7 +3,8 @@ shortcode: tarligtlgn
 name: {full: Tarlige Tolgen}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "The thatcher of Blavera, a careful old craftsman whom the manor's tenants have asked to speak for them in the quarrel over the dung money."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +12,8 @@ data:
   occupation: Thatcher
   lore: []
   culture: provenzianclt
-  homes: [kalveza]
-  affiliations: {kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
+  homes: [blavera]
+  affiliations: {brnyzrvln: {rank: 1}, kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 673.127
@@ -394,57 +395,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Tarlige Tolgen is a 47-year-old man who stands 6'1" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and an angular jaw that leads to a pointed chin. His narrow blue eyes sit beneath expressive brows, lending him a keen gaze. An aquiline nose and wide lips complete his features. He has fair skin with a clear complexion. His graying brown hair is tied in a low tail.
+Tarlige Tolgen is a 46-year-old man who stands 6'1" tall and is of medium build, rangy and a little stooped from thirty years on ladders. His fair skin is clear, his graying brown hair is tied in a low tail, and his narrow blue eyes squint at a roof as though reading it. His wide mouth is usually holding a reed.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Tarlige Tolgen came into the world of the thatcher through a combination of circumstance and aptitude.
+Tarlige Tolgen is the thatcher of [[place-blavera|Blavera]], the ordinary mixed manor where the Zuravlen river slows on the flat ground, and of the manors around it. He keeps the roofs of the cottages, the barns, the lord's mill and the fold sheds, and he cuts his reed in the river margins below the manor.
 
-Tarlige has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his work and the durability of his roofs, Tarlige is often in high demand, though his services come at a slower pace due to his attention to detail.
+He learned the craft from his father and has taught it to his sons, and his roofs are known up and down the valley for lasting. He works slowly, because he will not lay a course he would not stand under himself, and the manors wait for him rather than hire faster men. The labor is beginning to tell on him. He is also a tenant of the manor, with strips in the three great fields and a share in the fold, and his voice carries in the manor court because he has been on every roof in Blavera and knows what every household can afford.
+
+The dung is the quarrel this year. Blavera's surplus has always gone up the valley to whichever orchard paid, and this autumn [[place-palnebris|Palnebris]], short of folding from [[place-estivren|Estivren]], has offered more for it than any manor has paid before. The tenants who keep the fold want the price shared; the bailiff says the surplus is the lord's; and the court baron sits after the fair with the question on its roll. The tenants have asked Tarlige to speak for them.
 
 ## Psyche
 
 ### Personality
 
-Slower-paced, struggles with the physical demands as he ages.
+Tarlige is slow, careful and stubborn, and he is happier on a roof than in a court.
 
 ### Motivation
 
-Tarlige is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thatcher work keep him vigilant and adaptable.
+He wants his roofs to outlast him and his sons to have a fair share of what the fold earns.
 
 ### Strengths
 
-Skilled in thatching techniques, highly experienced, and meticulous.
+He is a skilled and experienced thatcher, meticulous and trusted, and he knows every household of the manor.
+
+### Weaknesses
+
+His body is failing at the work, and he cannot afford to stop.
 
 ## Social
 
-Tarlige is affiliated with the [Rural Craftsmen's Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As a Provénzian thatcher, Tarlige occupies a recognized social niche within Provénzia society.
-
-## Companions
+His sons, who work with him, and the tenants of the fold.
 
 ### Patrons
 
-Tarlige's primary patrons are local farmers and villagers who need sturdy roofs. This relationship provides both opportunity and obligation.
+The lords and bailiffs of the valley's manors, who wait for his roofs.
 
 ### Enemies
 
-None, though some younger craftsmen see him as outdated.
+The bailiff of Blavera, and a younger thatcher from Eltrembis who works faster and cheaper and calls Tarlige's roofs old-fashioned.
+
+### Affiliations
+
+- **[[affiliation-brnyzrvln|Barony of Zuravlen]]**: Tarlige is a subject of the barony and a tenant of Blavera.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: He is a Freeman of the crown.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: He keeps the frost vigil when the bell rings, as every tenant of the valley does.
 
 ## Plot Hooks
 
-The Thatcher's Dilemma
-: Tarlige faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
+The Dung Money
+: Tarlige must speak for the tenants before the court baron, and the bailiff has offered to give his sons the manor's thatching for life if he speaks badly. He wants a party to find what the bailiff has already promised Palnebris.
 
-Old Grudges
-: None, though some younger craftsmen see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Mill Roof
+: Rethatching the lord's mill, Tarlige found a bundle wrapped in oilcloth in the old thatch above the stones: the miller's private tally of what he has taken from every sack for twenty years.
 
-Echoes of the Past
-: Something from Tarlige's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Tarlige depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Tarlige the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Reed Beds
+: Somebody has fired the reed beds below the manor, and the only reed left is on the far bank, where the river margin belongs to a holding outside the barony.

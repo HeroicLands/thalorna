@@ -3,7 +3,8 @@ shortcode: kiriszyrnd
 name: {full: Kirisa Zire}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "The cook of a harbor inn at Kalveza, who feeds the masters off the ships and hears a great deal at her tables."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,64 @@ sohl:
 
 # Appearance {#appearance}
 
-Kirisa Zire is a 41-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set brown eyes sit beneath thin brows, lending her an open gaze. A narrow nose and thin lips complete her features. She has olive skin with a sun-tanned complexion. Her graying brown hair is flowing past her shoulders.
+Kirisa Zire is a 40-year-old woman who stands 5'10" tall and is of medium build, with forearms scalded pink by thirty years of kitchen steam. She has olive skin, sun-browned, a firm chin, wide-set brown eyes and a mouth that does not smile at the customers. Her graying brown hair is tied back under a cloth, and she smells of onions and woodsmoke.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Kirisa Zire came into the world of the cook through a combination of circumstance and aptitude.
+Kirisa Zire is the cook of a harbor inn at [[place-kalveza|Kalveza]], the working port of the southern coast, where the masters, factors and supercargoes of the ships that put in eat her soups and stews and talk business in the harbor tongue.
 
-Kirisa works in the kitchen of an inn, where she has become known for her flavorful soups and stews. She is practical and no-nonsense, having learned to cook out of necessity rather than passion. However, over the years, she has come to appreciate the art of cooking and takes pride in feeding the many travelers who pass through.
+She learned to cook because her mother died and somebody had to, and she came to the inn's kitchen at sixteen. Over the years she has come to take a plain pride in feeding the men off the ships well and cheaply, and she has no patience with the fashionable kitchens of the hill. She manages a kitchen that feeds a hundred on a busy night, and the masters talk business over her food in the **Volchetarla**, the harbor register of [[skill-provnzlng|Provenzal]], as though the kitchen were not there.
+
+Kalveza is busy on Válaren's fear. With hulls without colors seen off the southern coast, the Vilérian masters who would have put in at [[place-valarencity|Válaren]] are putting in here, and her inn is full every night. Some of what is said at the tables in the harbor tongue would interest the factors of Válaren a great deal.
 
 ## Psyche
 
 ### Personality
 
-Can be dismissive of "fancy" cuisine, focusing instead on simple, hearty meals.
+Kirisa is practical, blunt and impatient with fuss. She dismisses fancy cooking and fancy talk alike.
 
 ### Motivation
 
-Kirisa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in cook work keep her vigilant and adaptable.
+She wants a full kitchen, a fair wage and to be left alone to run it. She has begun to want more than that for her son, who is clever.
 
 ### Strengths
 
-Practical cooking skills, good at managing large quantities of food.
+She can feed a crowd on very little, run a kitchen without shouting, and hear a great deal while seeming to hear nothing.
+
+### Weaknesses
+
+She has been listening longer than is safe.
 
 ## Social
 
-Kirisa is affiliated with the [City Cooks' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As a Provénzian cook, Kirisa occupies a recognized social niche within Provénzia society.
-
-## Companions
+The inn's kitchen staff, and the porters and fishermen of the quay who eat at her back door.
 
 ### Patrons
 
-Kirisa's primary patrons are inn guests and locals who enjoy her cooking. This relationship provides both opportunity and obligation.
+The innkeeper, who would close without her, and the masters who ask for her stew by name.
 
 ### Enemies
 
-A few chefs who look down on her simple style.
+The cook of a fashionable house on the hill who tried to hire her away, failed, and has said she cooks for dogs.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Kirisa is a Freeman of the crown.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: She lights a lamp at the goddess's shrine for her mother each spring.
 
 ## Plot Hooks
 
-The Cook's Dilemma
-: Kirisa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Talk at Table
+: Kirisa has heard something at her tables that she wants to sell to the right buyer, and she does not know who that is.
 
-Old Grudges
-: A few chefs who look down on her simple style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+:::secret {title="What Kirisa hears"}
+Kirisa has picked up enough of the Volchetarla to follow what is said at her tables, though she has never let a customer know it. Two Vilérian masters spoke in the harbor tongue at her table about a payment for staying away from Válaren, and named a Kalveza factor.
+:::
 
-Echoes of the Past
-: Something from Kirisa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+The Missing Supercargo
+: A supercargo who ate at the inn every night for a month has left his chest in his room and not come back. The innkeeper wants it sold for the bill. Kirisa looked inside.
 
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Kirisa depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kirisa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Son's Chance
+: A factor has offered her son a clerk's place in his counting-house, and asked Kirisa in return to tell him what certain masters say at dinner.

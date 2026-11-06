@@ -365,6 +365,11 @@ export const RETIRED = [
             "affiliation-qbdrtrb",
         ],
     },
+    {
+        retired: ["Lordeme"],
+        replacement: "Dolvere",
+        scope: ["being-lordhemekoris", "being-arnelkrsvr", "affiliation-hsekorisvar"],
+    },
 ];
 
 const LETTER = "\\p{L}\\p{M}";

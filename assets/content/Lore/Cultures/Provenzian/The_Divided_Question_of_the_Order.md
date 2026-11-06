@@ -4,7 +4,7 @@ name: {full: The Divided Question of the Order, en: [The Question of the Order]}
 type: lore
 subType: literature
 description: "A divided question sung at a patron's table in Kalveza at the Golden Harvest: Serdale asks where the beloved stands in the order of what a man owes, Iltore seats her first, Serdale keeps her off the list with the sea and the dead, and the judge both chose, Solvima of Kalveza, gives her judgment in the notary's form and settles nothing she was asked."
-tags: [draft, provenzia]
+tags: [provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore
@@ -17,7 +17,7 @@ data:
 
 **The Divided Question of the Order** is a debate in song between two síladors, made at a patron's table in [[place-kalveza|Kalveza]] on the second night of the [[lore-goldenharvest|Festival of the Golden Harvest]] of [[affiliation-olvenia|Ólvenia]], when patrons commission singers for their tables and the temple squares. In a divided question one singer sets a question with two answers and gives the other the choice; the other chooses an answer and defends it, and the first must defend the one left over, however little he believes it. They sing in turn, a stanza each, and close with a short stanza apiece that names the judge they agreed on before they began.
 
-[Serdale]{.name data-type="being/npc"} sets the question and [Iltore]{.name data-type="being/npc"} chooses. The question is the one the order of duty leaves open. A Provénzian owes his house, his patron, his city and his clients, in that order, and the beloved of the courtly songs stands nowhere in it. The judge is [Solvima]{.name data-type="being/npc"} of Kalveza, who keeps her own name. She gives her judgment in the form a notary uses for an award, as the custom of these debates allows, and the songbooks copy it after the song. The academies of rhetoric teach the debate for Serdale's arguments and the judgment for its form.
+[Serdale]{.name data-type="being/npc"} sets the question and [Iltore]{.name data-type="being/npc"} chooses. The question is the one the order of duty leaves open. A Provénzian owes his house, his patron, his city and his clients, in that order, and the beloved of the courtly songs stands nowhere in it. The judge is [Solvima]{.name data-type="being/npc"} of Kalveza, who keeps her own name. She gives her judgment in the form a notary uses for an award, as the custom of these debates allows, and the songbooks copy it after the song. The [[affiliation-acadrhetrc|Academy of Philosophy and Rhetoric]] at [[place-aureliane|Aurelane]] teaches the debate for Serdale's arguments and the judgment for its form.
 
 The poem is rhymed ABABCC.
 

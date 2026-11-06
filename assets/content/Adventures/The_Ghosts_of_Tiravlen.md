@@ -3,189 +3,174 @@ shortcode: ghststrvln
 name: {full: The Ghosts of Tiravlen}
 type: scenario
 subType: adventure
-tags: [draft]
+description: "A fisherman's son on Lake Tiravel watched the 9 Karnavar recurrence from the water and came back speaking the last Tanevar king's orders, and a Tanevar cause, a priest of Sélmoros and a scholar of the Order each want him before the anniversary, when only the lake's own custom can bring him home."
+tags: []
 data:
   parents: []
-  locations: [provenzrgn]
-  cast: []
-  factions: []
+  locations: [tiravellake, bldfldtiravlen]
+  cast: [slmrgrdls]
+  factions: [selmoros, ordoarcanis, kngdmprvnz]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-[[place-tiravellake|Lake Tiravel]] is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the [[place-bldfldtiravlen|Blood-field of Tiravlen]], where [[being-kingvelarikiii|King Vélarik III]] fell centuries before [[lore-thefounding|the Founding]], and uncover why the dead refuse to rest.
+On the shore of [[place-tiravellake|Lake Tiravel]], in the [[place-talothe|Talote]], the villages keep the night of 9 [Karnavar]{.name data-type="lore/calendar"} indoors, as they have for longer than anyone can count. Last year a fisherman's son went out on the water instead, and came back at dawn not himself. The anniversary is coming round again, and three parties want the young man for three different reasons. The party must get him through the night, and decide whose night it is.
 
-## Overview
+## Overview {#overview}
 
-Lake Tiravel, in central [[place-provenzrgn|Provénzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Vélarik III fought his final battle against invaders at the blood-field of Tiravlen. Though Vélarik fell and his kingdom fragmented, the victory he secured shaped the course of Provénzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
+The [[place-bldfldtiravlen|Blood-field of Tiravlen]] is a recurrence. On the anniversary of [[lore-tiravlenbattle|the breaking of the Tanevar kings]], about 152 AF, the battle replays out over the lake: ranks of lights move on the water and the noise of a line breaking carries to villages a mile off. The lakeside villages long ago made an observance of it. On the night of 9 Karnavar the boats are drawn up, the shutters close at dusk, and each household sits the night out together with the fire lit. In the morning there is a small offering at the water and the year goes on. The villages are firm that the field is not troublesome and that the observance is theirs, and they have never asked the priests of [[affiliation-selmoros|Sélmoros]] to perform the rite of settlement.
 
-## Stage One: The Haunting
+The field's harm is a lesser field's harm, done at night and to the mind: a household that watches over the water sleeps badly for weeks, and the villages remember people who watched too often and never came back to themselves.
 
-The party becomes aware of the haunting through:
+Last year a young fisherman of the village nearest the field did not draw up his boat. He rowed out to watch, alone, and came ashore at dawn speaking in a speech the village half-follows, old words the grandmothers know from the lake songs. Since then he stands at the waterline every dusk until his family brings him in, and he calls out orders to men who are not there. His mother has kept him indoors and the village has kept quiet, but word has gone up the valleys, and with a month to go before the anniversary three outsiders have arrived at the village wanting him.
 
-- Traveling near Lake Tiravel and witnessing supernatural phenomena
-- Being hired by a local authority or scholar to investigate
-- Encountering survivors of ghostly encounters
-- Meeting travelers who share stories of terror at the lake's shores
-- Discovering ancient battlegrounds and burial sites
+## What Is Really Happening {#what-is-really-happening}
 
-**Initial Information:**
+The young man is caught in the line. He watched from the water, inside the replay, at the moment the Tanevar line broke, and part of him stayed in the rank. What he speaks is what the rank heard that night: the last orders given on the shore, in the speech of the Tanevar country before the Vilérian province changed it.
 
-- The haunting has intensified over recent months or years
-- Spirits appear primarily at dawn and dusk, visible as shadowy warriors
-- The ghosts seem to re-enact moments from the ancient battle
-- Witnesses report that the ghosts are searching for something or attempting to communicate
-- Local villagers avoid the lake; trade routes that crossed the area are rerouted
-- Ancient burial cairns and monuments mark the battlefield
-- The lake itself is said to be haunted water; some claim it grants visions
+The voice he repeats is the last of the Tanevar kings to stand on the shore. When the line broke, that king did not run and did not let himself be taken. He walked into the lake with his household around him. He is a man in the line and nothing more: the field holds his orders and the cold of the water, and it does not hold his name. **No one can learn the king's name from the field.** The Vilérian dispatch that recorded the battle burned with the imperial archive, the Tanevar kings left no record, and the villages never named them. The young man has no name to give, however he is pressed.
 
-**NPCs:**
+On the anniversary night the replay draws the young man to the water to take his place in the rank. If he is on the lake or the shore when the line breaks, he walks into the water as the king did and is lost. If his household keeps the night with him indoors, by the fire, as the custom requires, and makes the morning offering at the water in his name, the field lets him go and he wakes himself again, with no memory of the year.
 
-- A local priest or scholar studying the site's history
-- A survivor of a ghostly encounter (traumatized or blessed with visions)
-- An elder who remembers older stories or traditions
-- A mysterious figure who understands the ghosts' nature
+The custom is the cure, and the villages do not know it. They know only that it is theirs.
 
-## Stage Two: Research & Investigation
+> [!IMPORTANT]
+> The scenario turns on the custom. Every outsider who arrives at the lake wants to change the night in some way, and every change endangers the young man.
 
-The party must gather information about King Vélarik III, the ancient battle, and what binds the spirits:
+**The outsiders.**
 
-**Historical Research:**
+- **The Tanevar man** comes from the hill villages, where the country people keep the memory of governing themselves and hold that the [[lore-chrtrrghts|Charter of Rights]] was the cities' and not theirs. He has heard that a king's voice speaks through the boy, and he wants the king's name: a name the Tanevar have never had, to set against the crown at [[place-jalnazdal|Jalnasdal]]. He means to have the young man out on the water on the anniversary night, where the voice is strongest, and he has brought men to see it done.
+- **The priest of Sélmoros** comes from the city with the authority of her faith over the dead and the ground that holds them. She holds that a field which has taken a living man is troublesome by any reckoning, and she wants to perform the rite of settlement on the anniversary night. The rite works perhaps half the time. If it works, the replay ends and the young man is released; if it fails, the night is lost for him. The villages refuse it, because the observance is theirs.
+- **The scholar** is [[being-slmrgrdls|Solmere Gredalis]], a scholar of the [[affiliation-ordoarcanis|Thordimalon]] at Aurelane, who has heard of a man who speaks a dead speech and wants him carried to [[place-aureliane|Aurelane]] for study before the anniversary. He has a writ that carries the crown's oversight and a carriage waiting at the lake road.
 
-- Records and chronicles describing Vélarik III's reign and final battle
-- Poetry and legend surrounding the king and the blood-field
-- Archaeological knowledge about burial customs and monuments at Tiravlen
-- Pre-Aureldían traditions and beliefs about death and the afterlife
-- Records of what happened to Vélarik's body, his legendary artifacts, or his family
+> [!WARNING]
+> Do not let the Tanevar man's hope settle the question. If the party believes the name can be learned, let them find the limit at the shore: the voice gives orders, and nothing else.
 
-**Physical Investigation:**
+## Hooks {#hooks}
 
-- Examination of burial cairns and ancient monuments
-- Discovery of ancient weapons, armor, or artifacts
-- Signs of recent disturbance or grave robbing
-- Environmental features: the shape of the lake, placement of stones, connections to ley lines
+- **The mother.** The young man's mother asks a party lodging at the lake to keep the outsiders from her son until the anniversary is past. She cannot say why the night matters, only that he must spend it at home.
+- **The cause.** A Tanevar contact asks a party sympathetic to the country people to escort a hill man to the lake and see that he is heard. The cause wants a king, and the party is told the boy has one.
+- **The writ.** The scholar hires a party to bring the young man safely to Aurelane before the road turns bad. The pay is good and the writ looks genuine.
+- **The faith.** A temple of Sélmoros asks a party of the faithful to escort its priest to the lake and to stand with her while she performs the rite, against a village that does not want it.
 
-**Spiritual Investigation:**
+## Scenes {#scenes}
 
-- Attempts to communicate with the ghosts
-- Experiences of visions or dreams connected to the battle
-- Signs of what binds the spirits: an oath unfulfilled, a debt unpaid, a betrayal unavenged
+### Scene One: The Village Nearest the Field
 
-**Possible Discoveries:**
+**Purpose.** The opening: show the lake, the custom and the young man, and put the three outsiders on the stage.
 
-- A prophecy or warning spoken by Vélarik or the ghostly king
-- Vélarik's legendary sword or crown missing or misplaced
-- A betrayal in the ancient battle that was never avenged
-- An oath or promise made by Vélarik that was never fulfilled
-- A descendent of Vélarik still alive (unknown to themselves)
-- Recent desecration or theft from the battlefield sites
+**Situation.** The village sits on the warmer shore, its boats on the shingle and its terraced vines above. The lake road runs along the edge of the field, and nobody has ever moved it. At dusk the young man is at the waterline, standing as a soldier stands in a rank, and calling out into the dark.
 
-**Complications:**
+**NPCs and threats.** The young man's **mother** keeps the house and keeps him in it when she can. The **village headman** wants the outsiders gone before the anniversary and will not say so to their faces. The **Tanevar man** lodges at the alehouse with three hill men and buys drinks for anyone who talks about the boy. The **priest** has taken a room at the headman's house and speaks to him every day. The **scholar** waits at the lake road with his carriage and his writ.
 
-- Historical records are incomplete or contradictory
-- Someone actively prevents investigation (protecting a secret or desecration)
-- A party member experiences profound visions or possession attempts
-- The ghosts become more aggressive as the party's investigation advances
-- The [[affiliation-ordoarcanis|Thordimalon]] or another faction shows interest in the site
+**Player choices.**
 
-## Stage Three: Communing with the Ghosts
+- _Listen at the waterline._ The young man's orders can be heard from the shingle at dusk. A party member who knows old songs catches words: _hold_, _the shore_, _no one runs_.
+- _Talk to the village._ The headman and the elders describe the custom and refuse to discuss changing it.
+- _Talk to the outsiders._ Each explains what they want, and each says the others endanger the boy.
 
-The party must make direct contact with the spirits:
+**Clues and rewards.** The grandmothers know the words of the lake songs and can give the party a rough sense of what he says. The old ones remember a girl who watched from the shore three nights running long ago and never came back to herself; she lived out her life in her family's house.
 
-**Methods of Communication:**
+**Consequences.** The outsiders mark the party as an interest. A party that takes a side is courted by the others.
 
-- Conducting rituals at sacred sites around the lake
-- Using magical means (divination, séance, spirit walking)
-- Approaching the ghosts directly and attempting dialogue
-- Experiencing visions or dreams that reveal the spirits' messages
-- Following the ghosts as they re-enact the ancient battle
+**If bypassed.** A party that arrives late finds the scholar's carriage gone and the young man in it, and must decide whether to follow it up the lake road.
 
-**What the Ghosts Reveal:**
+### Scene Two: The Grandmothers' Account
 
-- The nature of the final battle and Vélarik's last moments
-- A betrayal or loss that was never avenged
-- A sacred oath that was broken or abandoned
-- A treasure, artifact, or body that was lost and not properly honored
-- A descendant or heir who should inherit Vélarik's legacy
-- A warning about a future threat to [[place-provenzrgn|Provénzia Region]]
-- The identity of a ghost that holds particular power or authority
+**Purpose.** A roleplay and a puzzle: learn what the custom is for.
 
-**The Ghostly King:**
+**Situation.** The village's oldest women keep the songs of the lake and the details of the observance: who sits where, what fire is lit, what is offered in the morning and to whom. None of them has asked why.
 
-- King Vélarik III himself may manifest, providing direct revelation
-- He may serve as mediator between the party and the other spirits
-- He may test the party's worthiness before revealing his desires
-- His appearance may be inspiring (noble warrior) or terrifying (corrupted by death)
+**NPCs and threats.** The **eldest of the grandmothers** is blind and sharp, and she distrusts outsiders on principle. The **priest of Sélmoros** is asking the same questions and taking notes. The **Tanevar man** is asking different ones: he wants the songs about the kings.
 
-## Stage Four: The Quest Unfolds
+**Player choices.**
 
-The party must undertake a quest to fulfill the spirits' wishes:
+- _Ask about the custom._ The grandmothers tell it step by step. The offering in the morning is made to the water, in the name of the household.
+- _Ask about the songs._ The songs speak of a line on the shore and of a man who went into the water. They name no king.
+- _Tell them about the boy._ A party that trusts the grandmothers with what it has heard gets the old women's help on the night.
 
-**Possible Quests:**
+**Clues and rewards.** The custom's structure is the clue: a household together, a fire, a vigil to dawn and an offering in the name of the household. A party that notices the offering is made _in a name_ can reason that the young man's name belongs in it.
 
-Recover the Lost Artifact
-: Find Vélarik's legendary sword, crown, or regalia, lost in the chaos of battle or taken by an enemy
+**Consequences.** The priest learns enough to argue that the custom is a rite of settlement in all but name, which hardens the headman against her.
 
-Avenge the Betrayal
-: Identify the traitor or enemy responsible for Vélarik's death and bring them to justice (even if centuries have passed)
+**If bypassed.** The party reaches the night without knowing what the custom does, and must keep the young man safe by force or luck.
 
-Honor the Fallen
-: Perform grand ceremonies or construct monuments to properly honor the king and his warriors
+### Scene Three: The Tanevar Man's Night
 
-Restore the Bloodline
-: Locate a descendant of Vélarik and restore their claim or awareness of their heritage
+**Purpose.** A setback: the outsiders move before the anniversary.
 
-Fulfill the Oath
-: Complete a task or promise that Vélarik made before he died (protect a place, preserve knowledge, etc.)
+**Situation.** Three nights before the anniversary, the Tanevar man's men come for the young man after dark. They mean to hide him in a hill steading and bring him back to the water on the night.
 
-Prevent the Returning
-: Stop an ancient enemy or threat that Vélarik fought from returning to plague the land
+**NPCs and threats.** The **Tanevar man** is not cruel. He is certain, and he thinks a name is worth one fisherman's sleep. His **three hill men** are armed and unwilling to kill. A fight with them is a brawl a capable party wins.
 
-**Challenges:**
+**Player choices.**
 
-- The quest may take the party far from Lake Tiravel
-- Powerful interests may oppose the party's success
-- The artifact or goal may be protected by magical wards or guardians
-- Modern Provénzian authority may conflict with the party's quest
-- A rival claims legitimate claim to what the party seeks
+- _Stop them._ The party can fight, talk them down or hide the boy first.
+- _Let them take him._ The party can follow them to the steading and choose its moment.
+- _Bargain._ A party that has learned the truth can tell the Tanevar man that the field holds no name. He does not believe it.
 
-## Stage Five: Resolution & Restoration
+**Clues and rewards.** The Tanevar man carries letters from hill households that name him their speaker and promise men if a king's name is found. The letters show how far the Tanevar country is willing to go.
 
-**When the Quest is Fulfilled:**
+**Consequences.** Word of the attempt reaches the scholar, who decides he must leave with the boy at once, and the priest, who decides she must act on the night whatever the village says.
 
-- The ghosts are satisfied and fade peacefully into rest
-- The blood-field of Tiravlen becomes peaceful, no longer haunted
-- The party gains gratitude from both spirits and the living
-- Knowledge of the ancient past is preserved or revealed
-- Vélarik's legacy is honored or restored
+**If bypassed.** The Tanevar man has the young man hidden in the hills, and the party must bring him back to his mother's house by the night or lose him on the water.
 
-**Magical Consequences:**
+### Scene Four: The Night of 9 Karnavar
 
-- As the spirits rest, magical phenomena fade (or transform)
-- Residual spiritual energy may grant blessing to those present
-- The lake's waters become clear and untainted
-- Trade routes and travel can resume safely
+**Purpose.** The climax: the replay, and the custom kept or broken.
 
-**Ongoing Effects:**
+**Situation.** At dusk the boats are drawn up and the shutters close along the shore. The lights come out over the water in ranks. The noise of the line carries across the lake: horses, orders, the long sound of men going into cold water. Inside his mother's house, the young man rises and tries to go to the shore.
 
-- The party may be bound by oath to protect Vélarik's legacy
-- If a descendant was restored, they may become an ally or complication
-- The party's reputation grows as defenders and restorers of history
-- Ancient knowledge about [[place-provenzrgn|Provénzia Region]]'s past is revealed, affecting regional politics or religion
-- [[affiliation-arldnpnthn|The Aureldian Church]] may seek to reconsecrate the site or claim authority over it
+**NPCs and threats.** The **young man** is not violent, but he is strong and he does not stop. The **mother** and the **grandmothers** keep the fire. Outside, whoever of the outsiders is still in play makes their move: the Tanevar man's men try to take the boy to the boats, the priest begins the rite of settlement on the shore, and the scholar's carriage waits on the lake road.
 
-**If the party fails or refuses the quest:**
+**Player choices.**
 
-- The ghosts remain, possibly becoming more aggressive or despairing
-- The haunting may intensify or expand to surrounding lands
-- Vélarik's legacy remains tarnished or forgotten
-- The party may be cursed or pursued by the spirits
-- External parties may take action to resolve the situation (with consequences)
+- _Keep the night._ The party holds the young man by the fire until dawn, as the custom requires, and keeps the outsiders out of the house.
+- _Let the priest work._ The rite of settlement may end the replay and free him, or it may fail. The village never forgives a party that allows it.
+- _Take him out._ A party that takes him onto the water hears the king's last orders spoken clearly and watches him walk into the lake.
 
-## See Also
+> [!TIP]
+> Play the night in short exchanges from inside the shuttered house: the noise on the water rising, the young man pulling toward the door, a knock at the shutters, the fire burning low. Let the party feel the rank calling him.
 
-- [[place-provenzrgn|Provénzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
-- [[affiliation-arldnpnthn|Aureldian]]
-- [[affiliation-ordoarcanis|Thordimalon]]
+**Clues and rewards.** If the party holds the young man by the fire, there is a moment when the noise from the lake reaches the breaking of the line and he cries out the king's last order, _no one runs_, and sits down. The voice does not return.
+
+**Consequences.** Kept, the young man survives the night, and he is not free until the morning offering.
+
+**If bypassed.** If the party is elsewhere, the outsider who is strongest that night decides the young man's fate.
+
+### Scene Five: The Offering at the Water
+
+**Purpose.** The resolution and the reward.
+
+**Situation.** At dawn the village goes down to the water with its small offerings. The young man's mother carries hers.
+
+**NPCs and threats.** No threat remains but the outsiders' disappointment. The Tanevar man watches from the road.
+
+**Player choices.**
+
+- _Make the offering in his name._ The young man's mother, or the party, speaks his name at the water. He wakes himself, asks what day it is and remembers nothing of the year.
+- _Leave the offering as it has always been made._ The young man stays as he is until the next anniversary, and the next chance.
+
+**Clues and rewards.** The village's gratitude, which is quiet and lasting: a party that saved the boy has a house on Lake Tiravel for life. The grandmothers add a line to the observance, and the offering is made in the name of each household member from then on.
+
+**Consequences.** The Tanevar man goes back to the hills with no name, and his letters remain. The priest reports to her temple that the lake has a rite of its own. The scholar writes to Aurelane.
+
+**If bypassed.** The young man's mother makes her offering in the household's name as always, and the young man wakes a little more each year, for years.
+
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The scholar leaves with the young man before the anniversary, and the boy is in a carriage on the lake road when the line breaks. He walks into the shallows of a stream by the road and is pulled out half-drowned and empty, and he never recovers. The Tanevar man goes back to the hills and tells them a king's voice was taken to Aurelane by the crown's mages, which is close enough to the truth to raise two valleys in anger. The priest performs the rite on the shore against the village's will, and it fails; the lake villages refuse every priest of Sélmoros from then on.
+
+## Aftermath {#aftermath}
+
+- **The Tanevar country.** The hill households that wrote the letters wanted a king's name and did not get one. Their speaker keeps looking, and the country people's grievance against the cities is no smaller.
+- **The temple of Sélmoros.** A priest who saw the custom work carries the account home, and the faith must decide whether the lake's observance is a rite it recognizes.
+- **The Thordimalon.** A scholar who reached the young man has a dead speech written down and a reason to come back.
+- **The lake.** The villages keep the night as they always have, with one line added.
+
+## See Also {#see-also}
+
+- [[place-tiravellake|Lake Tiravel]] · [[place-bldfldtiravlen|Blood-field of Tiravlen]] · [[place-talothe|Talote]]
+- [[lore-tiravlenbattle|The Breaking of the Tanevar Kings]] · [[lore-bloodfields|The Blood-fields of Provénzia]]
+- [[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-ordoarcanis|Thordimalon]]

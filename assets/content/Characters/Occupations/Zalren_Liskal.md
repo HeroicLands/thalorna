@@ -3,7 +3,8 @@ shortcode: zalrnlyskl
 name: {full: Zalren Liskal}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A cooper and wright of Durvalis whose marked staves can prove the spoiled barrels in the winter store are not his."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -13,6 +14,7 @@ data:
   culture: provenzianclt
   homes: [durvalis]
   affiliations: {kngdmprvnz: {rank: 2}, sacredforge: {rank: 1}}
+  socialTies: {being-chynrkrsvr: friend}
   gender: male
   species: humanflk
   born: 666.56
@@ -393,57 +395,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Zalren Liskal is a 54-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His deep-set blue eyes sit beneath straight brows, lending him a watchful gaze. A narrow nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His gray hair is combed neatly to one side.
+Zalren Liskal is a 53-year-old man who stands 6'0" tall and is of medium build, with a woodworker's hard hands and a slight stoop from the bench. His medium-toned skin is weathered, his gray hair is combed neatly to one side, and his deep-set blue eyes judge a stave before they judge a man. A small butterfly is tattooed on his neck, which he got at twenty on a wager and has never explained to his apprentices.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Zalren Liskal came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Zalren Liskal is a cooper and wright of [[place-durvalis|Durvalis]], the fortress town of the eastern march, who makes the barrels, the cart-wheels, the spear-shafts and the saddle-trees that the garrison and the levy use up every season.
 
-Zalren has been a woodcrafter for over thirty years, known for his craftsmanship in building sturdy furniture and everyday items. He learned the craft from his grandfather, who instilled in him a love for woodworking and a dedication to quality. Zalren's workshop is filled with tools and half-finished projects, reflecting his preference for practicality over aesthetics. Although his work lacks decorative flair, it is highly valued for its durability.
+He learned the craft from his grandfather and has worked it for more than thirty years, and his work is plain, heavy and lasting. He makes nothing for show. A Liskal barrel holds brine through a winter, a Liskal wheel takes the pass road with a full load, and the garrison's quartermaster buys from him by preference for both. Every stave he cuts carries his mark, burned in at the bench, and he can tell his own stave from another man's in the dark.
+
+That has made him a witness. Barrels in the garrison's winter store have begun to spoil, and they carry the salter [[being-chynrkrsvr|Chinara Kórisvar]]'s mark. Chinara buys her barrels from Zalren, and the spoiled barrels are not his.
 
 ## Psyche
 
 ### Personality
 
-Uninterested in decorative work, prefers traditional methods over innovation.
+Zalren is taciturn, practical and old-fashioned, uninterested in ornament and suspicious of anything that saves time.
 
 ### Motivation
 
-Zalren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcrafter work keep him vigilant and adaptable.
+He wants work that lasts and a name that stands for it, and he wants his apprentices to learn to cut a stave properly before they learn to cut it quickly.
 
 ### Strengths
 
-Skilled at creating sturdy, functional items, highly experienced, practical.
+He is a highly skilled cooper and wright with long experience, and his word on a piece of wood is taken by the quartermaster and the [[affiliation-wntrassize|Winter Assize]] alike.
+
+### Weaknesses
+
+He does not care who is offended by the truth about a barrel, and some of them can hurt him.
 
 ## Social
 
-Zalren is affiliated with the [Rural Craftsmen's Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As a Provénzian woodcrafter, Zalren occupies a recognized social niche within Provénzia society.
-
-## Companions
+His two apprentices and the carters of the town, whose wheels he keeps on the road.
 
 ### Patrons
 
-Zalren's primary patrons are local farmers and townspeople who need durable wooden goods. This relationship provides both opportunity and obligation.
+The garrison's quartermaster, and the salters and victualers who buy his barrels.
 
 ### Enemies
 
-None; respected for his consistency and reliability.
+A cooper who came to Durvalis with the victualer [Palveze Gredalis]{.name data-type="being/npc"} and sells him barrels of green wood at half Zalren's price.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Zalren is a Freeman of the crown.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: He keeps the craftsmen's faith and presents his apprentices at the Dedication of the Apprentice.
 
 ## Plot Hooks
 
-The Woodcrafter's Dilemma
-: Zalren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
+The Staves in the Store
+: Zalren has looked at the spoiled barrels and says they are green wood, badly cut, and not his. He will say so to the Assize, and the man whose barrels they are has let it be known that a cooper's yard burns easily.
 
-Old Grudges
-: None; respected for his consistency and reliability. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Wheel That Broke
+: A supply cart broke a wheel on the pass road and the escort was caught on the open slope. The wheel was Zalren's, and somebody cut the spokes halfway through after it left his yard.
 
-Echoes of the Past
-: Something from Zalren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Zalren depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Zalren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Apprentice
+: Zalren's best apprentice has been offered twice the wage to work for the green-wood cooper, and has been seen at night in Palveze's yard.

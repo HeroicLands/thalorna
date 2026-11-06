@@ -3,6 +3,7 @@ shortcode: dornsyndlr
 name: {full: Doren Sindalre, given: Doren, clan: Sindalre}
 type: being
 subType: character
+description: "The Silent Talon's axeman, a hill farmer's son of the Talote whose village the Tarvénian raiders burned, standing with the company at Belsaren."
 tags: [hero, silent-talon, unguilded, soldiery]
 data:
   icon: icon-person
@@ -11,7 +12,7 @@ data:
   occupation: Mercenary
   lore: []
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [belsaren]
   affiliations: {slntlncmpny: {rank: 3}, kngdmprvnz: {rank: 2}}
   gender: male
   species: humanflk
@@ -414,79 +415,60 @@ sohl:
 
 ![[dornsyndlr|Doren Sindalre]]{float=top-left}
 
-Doren is a towering man of twenty-eight, standing six foot four with a heavy, muscular frame and olive-toned skin marked by battle scars. A deep, ragged scar runs diagonally across his left cheek. His short black hair and gray eyes give him a hard, uncompromising look. There is nothing subtle about him, and he would not want there to be.
+Doren Sindalre is a 27-year-old man who stands 6'4" tall and is of heavy build. His olive skin is marked by old cuts, and a deep, ragged scar runs diagonally across his left cheek. He wears his black hair short, his gray eyes are hard, and nothing about him is subtle.
 
 # Dossier {#dossier}
 
-Doren hails from the rugged highlands of [[place-provenzrgn|Provénzia]], where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
+Doren Sindalre is the axeman of [[affiliation-slntlncmpny|the Silent Talon]], a mercenary from the hill country of the [[place-talothe|Talote]], the eastern march, and this season he stands with the band at [[place-belsaren|Belsaren]] in [[place-ceravelvale|Keravel Vale]].
 
-His reputation as a fighter drew the attention of [[being-branwldrgr|Branval]], who recruited him into [[affiliation-slntlncmpny|the Silent Talon]] for his resilience and brute force. Doren has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
+He was a farmer's son on a hill holding below the passes, and that life ended when Tarvénian riders came over in the raiding season and burned the village. With nothing left he took the march's levy at [[place-durvalis|Durvalis]] and fought for vengeance, and he rose quickly on strength and fearlessness. [[being-branwldrgr|Branval Dorgal]] saw him hold a ford alone and recruited him. He fights with axe and shield in the old hill style, direct and unrelenting, and he has found in the Talon the family he lost.
 
-Doren is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like [[being-torniskbry|Tornis]]. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
-
-## Background
-
-### Skills and Abilities
-
-Battle Prowess
-: Doren is the Silent Talon's frontline fighter. He wields his axe and shield with devastating effect, combining raw strength with the hard-won experience of years of combat.
-
-Physical Strength
-: Strong, even by the standards of fighting men. His highland upbringing and years of manual labor gave him a powerful frame that his military career has only hardened.
-
-Endurance
-: Doren can fight, march, and endure hardship longer than most men. He does not complain, does not slow down, and does not quit.
-
-Loyalty
-: Not a skill in the conventional sense, but Doren's absolute reliability in battle makes him useful. He will hold a position, protect a flank, or stand over a fallen companion until he is physically unable to continue.
+Belsaren is a hard posting for him. The Tanevar villagers whose sons the lord hangs are hill people like his own, and he has begun to wonder which side of the road he is standing on.
 
 ## Psyche
 
 ### Personality
 
-Doren is straightforward, loyal, and practical. He lacks patience for politics or subtlety, preferring to solve problems with his axe and shield. He speaks plainly and cares deeply for his comrades, often forming deep bonds with those he fights alongside. He is not unintelligent—he simply sees no reason to overcomplicate things that are, at their core, simple.
+Doren is straightforward, loyal and practical. He has no patience for politics or scheming, speaks plainly and cares deeply for the people he fights beside. He is not slow; he sees no reason to make simple things complicated.
 
 ### Motivation
 
-Doren seeks stability after losing his family and home. He has little desire for wealth beyond what is needed to live comfortably. His true motivation is to find a new family in the Silent Talon and to protect them from the kind of destruction he once faced. As long as he is swinging his axe alongside people he trusts, he is where he needs to be.
+He wants a place to stand and people worth standing beside, and to keep them from what happened to his own.
 
 ### Strengths
 
-- **Battle Prowess**
-- **Physical Strength**
-- **Endurance**
+He is the Talon's front line: very strong, very hard to stop, and certain to hold a position or stand over a fallen companion until he cannot.
+
+### Weaknesses
+
+A burning village blinds him. He will break a contract to go after raiders, and he cannot hide what he thinks of a lord who hangs farmers.
 
 ## Social
 
-## Companions
+### Companions
 
-[[being-branwldrgr|Branval Dorgal]]
-: Captain of the Silent Talon. Koris respects Branval's competence and follows his orders without question.
-
-[[being-elyseskyrn|Élithe Sarneth]]
-: Fellow band member. Koris is protective of her.
-
-[[being-torniskbry|Tornis Kubri]]
-: Fellow band member. Koris finds Tornis's evasiveness mildly irritating but trusts him in the field.
-
-[[being-chlbrhydyn|Chelebe Riddin]]
-: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
+[[being-branwldrgr|Branval Dorgal]], whose orders he follows without question; [[being-elyseskyrn|Élithe Sarneth]], of whom he is protective; [[being-torniskbry|Tornis Kubri]], whose evasions irritate him and whom he trusts in the field; and [[being-chlbrhydyn|Chelebe Riddin]], with whom he shares a quiet respect.
 
 ### Patrons
 
-None.
+None but the Talon.
 
 ### Enemies
 
-The raiders who destroyed his village.
+The Tarvénian raiders who burned his village, whose captain's face he still knows.
+
+### Affiliations
+
+- **[[affiliation-slntlncmpny|The Silent Talon]]**: Doren is a Sworn Member and the company's axeman.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: He is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Burning Village
-: The Silent Talon passes through a region where villages are being raided in a pattern disturbingly similar to the attack that destroyed Doren's home. He becomes obsessed with finding the raiders, and the band must decide whether to pursue his personal vendetta or stick to their current contract.
+The Hanging at Belsaren
+: Tarlas has ordered three Tanevar boys hanged at dawn for feeding the outlaws, and Doren has spoken with one of them. He asks a party to find out by morning whether the boy is guilty, because if he is not, Doren will not stand guard at the gallows.
 
-The Old Militia
-: A former comrade from Doren's militia days appears, asking for help with a desperate situation. The request is real, but fulfilling it would put the Silent Talon in direct conflict with a powerful lord who is one of their potential employers.
+The Old Levy
+: A comrade from his years with the levy at Durvalis has come to the vale with word that the Tarvénian captain who burned Doren's village was taken in this summer's raiding and is held at Durvalis, and that his ransom will be argued before the [[affiliation-wntrassize|Winter Assize]]. Doren wants to be in the courtroom when it is.
 
 The Shield Wall
-: During a pitched battle, Doren is faced with an impossible choice: hold the line and protect the band's retreat, or break formation to save a civilian caught in the fighting. Whatever he chooses, someone pays the price.
+: In a fight on the Belsaren road, Doren must choose between holding the line for the band's retreat and breaking it to save a carter's child caught in the open.

@@ -3,7 +3,8 @@ shortcode: ureleralwn
 name: {full: Urele Ralven}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A young perfumer of Válaren City from a minor house of the eastern march, whose season's oils were bought on paper the merchant house has now called."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,8 +12,9 @@ data:
   occupation: Perfumer
   lore: []
   culture: provenzianclt
-  homes: [durvalis]
+  homes: [valarencity]
   affiliations: {kngdmprvnz: {rank: 5}, lizelas: {rank: 1}}
+  socialTies: {being-ilvnralwn: friend}
   gender: female
   species: humanflk
   born: 696.295
@@ -394,57 +396,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Urele Ralven is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with wide-set cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. Her narrow gray eyes sit beneath expressive brows, lending her a keen gaze. A narrow nose and thin lips complete her features. She has olive skin with a fair complexion. Her dark brown hair is hanging in ringlets.
+Urele Ralven is a 23-year-old woman who stands 5'10" tall and is of medium build. She has clear olive skin, dark brown hair in ringlets, a long face with a strong jaw and narrow gray eyes that catch every detail of a customer's dress. She carries her own scent so faintly that a visitor notices it only when she leaves the room, which is the effect she intends.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a noble family of [[lore-provenzianclt|Provénzian]] heritage, Urele Ralven came into the world of the perfumer through a combination of circumstance and aptitude.
+Urele Ralven is a perfumer of [[place-valarencity|Válaren City]], the southern port that takes the kingdom's glamour and its luxury freight, a young woman of a minor noble house of the eastern march who keeps a small shop below the merchants' quarter.
 
-Urele is an up-and-coming perfumer who has gained recognition for her floral and fresh scents. Working in her small but charming shop, she focuses on creating natural and eco-friendly perfumes. Urele is passionate about sustainability and often collaborates with local farmers to source her ingredients. Her warm personality and commitment to her craft have made her a beloved figure in the community.
+She is a cousin of [[being-ilvnralwn|Ilvena Ralven]] of [[place-durvalis|Durvalis]], and she came south at eighteen to learn the trade from a Válaren perfumer because the march had nothing for a girl who could tell twenty roses apart by smell. Her floral scents have made her a name among the merchant houses' wives in three years. She buys her flowers from the growers of the southern hills and her oils and resins off the Vilérian ships, and she has no head for credit.
+
+The harbor mouth is the city's whole politics this season. Three hulls without colors have been seen standing off the coast, the merchant houses read them as the first move of a blockade, and credit has begun to tighten. Urele has a season's oils bought on a merchant house's paper, and the house has called the loan.
 
 ## Psyche
 
 ### Personality
 
-Can be overwhelmed by competition, sometimes struggles with the business side.
+Urele is warm, eager and easily overwhelmed, brilliant at the bench and lost at the ledger.
 
 ### Motivation
 
-Urele is driven by the desire to master her craft and secure a stable future. The uncertainties of life in perfumer work keep her vigilant and adaptable.
+She wants a shop of her own name in the best street of Válaren, and she wants never to have to go home to the march and admit she failed.
 
 ### Strengths
 
-Knowledgeable about natural ingredients, environmentally conscious, friendly.
+She has an exceptional nose and knows flowers, resins and oils thoroughly, and she is well liked by her customers and their households.
+
+### Weaknesses
+
+She cannot read a contract and has signed several.
 
 ## Social
 
-Urele is affiliated with the local [Artisans' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As a Provénzian perfumer, Urele occupies a recognized social niche within Provénzia society.
-
-## Companions
+The flower-growers of the southern hills who supply her, and the ladies' maids of the merchant houses who gossip in her shop.
 
 ### Patrons
 
-Urele's primary patrons are local residents and eco-conscious customers seeking natural fragrances. This relationship provides both opportunity and obligation.
+The wives of the merchant houses, who buy her scents and recommend her to each other.
 
 ### Enemies
 
-Few; generally well-liked, though some competitors may see her as a threat.
+An older perfumer of the city whose customers she has taken, and who sells the same roses to the same houses at twice her price.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Urele is of the Lesser Nobility by birth.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: She gives the goddess of gardens the first oil of every season.
 
 ## Plot Hooks
 
-The Perfumer's Dilemma
-: Urele faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Called Loan
+: The merchant house that holds Urele's paper has called the loan and offered to forgive it if she will make a scent to a recipe they give her, for a single customer. One of the ingredients has no business in a perfume.
 
-Old Grudges
-: Few; generally well-liked, though some competitors may see her as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Ship with No Colors
+: A sailor who sold Urele a flask of resin swears he had it from one of the hulls without colors, which put a boat ashore at night to trade. He will show her the cove for a price.
 
-Echoes of the Past
-: Something from Urele's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Urele depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Urele the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Lady's Maid
+: A maid of a great house has stopped coming to the shop, and her mistress has bought a scent from Urele that the maid carried for her to someone else.

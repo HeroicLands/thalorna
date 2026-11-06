@@ -60,7 +60,7 @@ In [[place-ceravelvale|Keravel Vale]]the war is called the **Kéravian Rebellion
 
 ## The Heir
 
-[Padran Lédravren]{.name data-type="being/npc"} of [House Lédravren]{.name data-type="affiliation/lineage"} had reigned for six years when he died in 653 AF, and he had not named an heir. The [Charter of Rights]{.name data-type="lore/law"} held the king to the counsel of the [Council of Peers]{.name data-type="affiliation/governmental"} and gave the Council no word on the succession. Two princes of the blood each held a party. One was backed by the centralizing houses of the coast, who wanted a crown strong enough to bind the cities and the provinces to it. The other was backed by the Tanevar country and the regional lords who had never loved the Charter, and who wanted a crown that left them alone.
+[Padran Lédravren]{.name data-type="being/npc"} of [[affiliation-hseledravren|House Lédravren]] had reigned for six years when he died in 653 AF, and he had not named an heir. The [[lore-chrtrrghts|Charter of Rights]] held the king to the counsel of the [[affiliation-councilpeers|Council of Peers]] and gave the Council no word on the succession. Two princes of the blood each held a party. One was backed by the centralizing houses of the coast, who wanted a crown strong enough to bind the cities and the provinces to it. The other was backed by the Tanevar country and the regional lords who had never loved the Charter, and who wanted a crown that left them alone.
 
 ## The War
 

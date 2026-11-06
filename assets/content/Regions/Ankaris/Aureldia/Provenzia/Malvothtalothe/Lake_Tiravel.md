@@ -33,6 +33,10 @@ anniversary into an observance rather than a crisis, and are firm that the field
 
 Which battle made it, the villages cannot say. The lake has been worth taking for a very long time, and the Vilérian account of the one that took it, in about 152 AF, burned with the imperial archive ([[lore-tiravlenbattle|Tiravlen]]).
 
+## Converging Interests {#present}
+
+The custom has been broken, and the lake is uneasy about it. Last year on the night of 9 Karnavar a fisherman's son of the village nearest the field took his boat out onto the water instead of drawing it up, and came ashore at dawn not himself. He speaks an old country speech the village barely follows, and at dusk he stands at the waterline until his family brings him in. The village keeps him indoors and says nothing to outsiders, but word has gone up the valleys. A Tanevar man from the hill villages has come asking what the boy says, a priest of [[affiliation-selmoros|Sélmoros]] from the city has offered the rite of settlement the lake has always refused, and the anniversary comes round again in early autumn. See [[scenario-ghststrvln|The Ghosts of Tiravlen]].
+
 ## See Also
 
 - [[place-bldfldtiravlen|Blood-field of Tiravlen]] · [[lore-bloodfields|the Blood-fields of Provénzia]]

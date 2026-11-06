@@ -18,8 +18,8 @@ data:
 valley grows. Some fourteen hundred people live there—more in August, very many more during the
 fair—and almost none of them farm.
 
-It is the seat of **Baron [Selvare Zuravel]{.name data-type="being/npc"}**, who holds [[affiliation-brnyzrvln|Zuravlen]] of the
-[[affiliation-kngdmprvnz|Crown of Provénzia]] and whose hall stands above the town rather than in it,
+It is the seat of **Baron [[being-selvarezrvl|Selvare Zuravel]]**, who holds [[affiliation-brnyzrvln|Zuravlen]] of the
+Earl of [[place-harivrencity|Hárivren]], and through him of the [[affiliation-kngdmprvnz|Crown of Provénzia]], and whose hall stands above the town rather than in it,
 and the administrative center of the barony: the water-rolls, the manor customs and the grading
 records are all kept here.
 
@@ -53,6 +53,10 @@ settled, and the manor courts hold their most crowded sessions of the year.
 
 For those eight days Eltrembis is one of the wealthiest small towns in Provénzia, and knows it.
 
+## The Present {#present}
+
+The yards are emptier than they should be at harvest, and the town knows why. Every fast boat out of [[place-volsather|Volsater]] carries fruit that never comes to the yards, and the baron's steward has begun to ask whether fresh fruit that leaves the barony should pass the grading table first, and pay a share there instead. The orchardists who sell to the boats call that a new tax, and the graders, who hold office for three years and are forbidden to own orchards, are being courted by both sides. A grader who failed a Palnebris consignment last week has had his door marked in the night.
+
 ## Notable Features
 
 - **The market hall**, open-sided, with the grading table at its center and the water-rolls in the
@@ -66,3 +70,4 @@ For those eight days Eltrembis is one of the wealthiest small towns in Provénzi
 ## See Also
 
 - [[place-zuravlenrgn|Zuravlen Region]] · [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
+- [[scenario-pechszrvln|The Peaches of Zuravlen]] · [[scenario-kvrlfld|The Field at Kivarel]]

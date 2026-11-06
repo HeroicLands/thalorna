@@ -3,6 +3,7 @@ shortcode: branwldrgr
 name: {full: Branval Dorgal, given: Branval, clan: Dorgal}
 type: being
 subType: character
+description: "The captain of the Silent Talon, a landless son of the ruined House Dorgal, quartered with his company at Belsaren under contract to clear the bandits from its roads."
 tags: [hero, silent-talon, soldiery]
 data:
   icon: icon-person
@@ -11,8 +12,13 @@ data:
   occupation: Mercenary Captain
   lore: []
   culture: provenzianclt
-  homes: [provenzrgn]
+  homes: [belsaren]
   affiliations: {slntlncmpny: {rank: 7, office: Captain}, kngdmprvnz: {rank: 3}}
+  socialTies:
+    being-elyseskyrn: friend
+    being-torniskbry: friend
+    being-chlbrhydyn: friend
+    being-dornsyndlr: friend
   gender: male
   species: humanflk
   born: 686.77
@@ -421,79 +427,68 @@ sohl:
 
 ![[branwldrgr|Branval Dorgal]]{float=top-left}
 
-Branval is a weathered, sharp-eyed man of thirty-four with a medium frame, fair skin worn by years of battle, dark brown hair streaked with gray, and steady brown eyes. His bearing still carries traces of the noble upbringing he lost long ago. He moves with the easy confidence of a seasoned commander who has survived more battles than he cares to count.
+Branval Dorgal is a 33-year-old man who stands 6'1" tall and is of medium build. His fair skin is weathered by years of campaigning, his dark brown hair is already streaked with gray, and his brown eyes are steady and measuring. He still carries himself like the son of a manor, straight-backed in a mended coat, and he listens to a client the way he reads a road, for where the trap is.
 
 # Dossier {#dossier}
 
-Branval Dorgal is the founder and captain of [[affiliation-slntlncmpny|the Silent Talon]], a tight-knit mercenary band operating out of [[place-provenzrgn|Provénzia Region]]. Born into a minor noble family that had lost its lands and standing when [House Dorgal]{.name data-type="affiliation/lineage"} chose the wrong side in [[lore-warprinces|the War of the Princes]], he inherited the loss and none of the estate. Rather than fade into obscurity, Branval turned his strategic mind and martial skill to the mercenary trade, building a reputation in the [Blood Lands]{.name data-type="place"} as a commander who brings his people home alive.
+Branval Dorgal is the founder and captain of [[affiliation-slntlncmpny|the Silent Talon]], a small mercenary company of five, and this season he and his band are quartered at [[place-belsaren|Belsaren]] in [[place-ceravelvale|Keravel Vale]], under contract to its lord to clear the bandits from his roads.
 
-He has led men for more than a decade, and his philosophy is simple: war is a game of wits as much as steel. He prefers to stay two steps ahead of his enemies, and while he has swung a sword plenty of times, he wins his battles before they begin. His charismatic leadership and sharp tactical instincts have attracted a loyal core of companions—[[being-elyseskyrn|Élithe Sarneth]], [[being-torniskbry|Tornis Kubri]], [[being-chlbrhydyn|Chelebe Riddin]], and [[being-dornsyndlr|Doren]]—who together form the Silent Talon.
+He was born to [House Dorgal]{.name data-type="affiliation/lineage"}, a minor family of the vale that chose the wrong prince in [[lore-warprinces|the War of the Princes]]. Its manor above the vale's second river was burned, its lands were given to a rival house, and Branval inherited the loss and none of the estate. Rather than fade, he turned a strategic mind and a good sword to the mercenary trade and built a name on the Tarvénian frontier and in the vale as a captain who brings his people home alive. He has led men for more than ten years. He holds that a fight is won before it starts, and he would rather spend a week learning a road than an hour fighting on it.
 
-Beneath his practical, sometimes cold exterior, Branval cares deeply for his people. He sees the band as the family that replaced the one he lost, and he will take considerable risks to protect them—though he would never admit to sentimentality.
+His company is a family he chose: [[being-elyseskyrn|Élithe Sarneth]], [[being-torniskbry|Tornis Kubri]], [[being-chlbrhydyn|Chelebe Riddin]] and [[being-dornsyndlr|Doren Sindalre]]. He is cold with clients and careful of his people, and he would deny the second if asked.
 
-## Background
-
-### Skills and Abilities
-
-Leadership
-: Branval's greatest asset. He commands respect through experience, competence, and the unshakable loyalty he inspires in those who serve under him.
-
-Strategy
-: A keen tactical mind honed over a decade of mercenary campaigns. He reads a battlefield the way a scholar reads a text—seeing patterns, weaknesses, and opportunities others miss.
-
-Personal Combat
-: A skilled swordsman who can hold his own in close fighting, though he prefers to direct the battle rather than wade into it.
-
-Cunning
-: Sharp-tongued and quick-witted, Branval navigates negotiations, contracts, and the treacherous politics of the mercenary trade with a noble's instinct for power dynamics.
+The Belsaren contract brought him home. [[being-tarlasplnvr|Tarlas al Pélanvri na Belsaren]] has hired the Talon because the Marshal at [[place-caerceravel|Torvila Keravel]] has told him to end the raids, and the outlaws strike the timber carts where the escorts are thinnest, as though they knew the orders. The burned Dorgal manor stands a morning's ride away, its lands are disputed between two lords, and the vale says the family's deeds are walled up in its cellar.
 
 ## Psyche
 
 ### Personality
 
-Branval is practical, cunning, and sharp-tongued, with a strong sense of camaraderie. He commands respect through experience and skill, and though he may appear cold, he cares deeply for the welfare of his men. There is a slight arrogance about him—a remnant of his noble upbringing—and he has a taste for calculated risks that occasionally unnerves his companions.
+Branval is practical, cunning and sharp-tongued, with a strong sense of comradeship. There is a slight arrogance about him, a remnant of the manor, and a taste for calculated risk that unnerves his companions.
 
 ### Motivation
 
-Branval seeks to restore his family's honor and reclaim their lost lands by amassing wealth and influence through mercenary work. His immediate aim is to grow the Silent Talon's reputation, attracting high-paying contracts that will bring him closer to his long-term ambition. For now, the band is enough—but he has never stopped thinking about the day he can reclaim the name Dorgal.
+He wants his family's name and lands back. The Talon's reputation is how he means to earn the silver and the friends to press the claim, and the Belsaren contract has put the claim in front of him sooner than he planned.
 
 ### Strengths
 
-- **Leadership**
-- **Strategy**
-- **Personal Combat**
+He is a fine captain of a small company, a sound tactician and a capable swordsman, and he bargains with a noble's sense of who holds the power.
+
+### Weaknesses
+
+He wants the Dorgal lands badly enough to take a contract for them that he would refuse for silver.
 
 ## Social
 
-## Companions
+### Companions
 
-[[being-elyseskyrn|Élithe Sarneth]]
-: The band's healer and alchemist.
-
-[[being-torniskbry|Tornis Kubri]]
-: Scout, spy, and infiltrator.
-
-[[being-chlbrhydyn|Chelebe Riddin]]
-: Tracker and archer of the [[lore-aelendnppl|Áelendan People]].
-
-[[being-dornsyndlr|Doren Sindalre]]
-: Frontline fighter and axeman.
+- [[being-elyseskyrn|Élithe Sarneth]]: the band's healer and apothecary.
+- [[being-torniskbry|Tornis Kubri]]: scout, spy and infiltrator.
+- [[being-chlbrhydyn|Chelebe Riddin]]: tracker and archer of the [[lore-aelendnppl|Áelendan People]].
+- [[being-dornsyndlr|Doren Sindalre]]: the band's axeman.
 
 ### Patrons
 
-None currently, though he seeks to earn the favor of powerful lords.
+Tarlas al Pélanvri na Belsaren, who pays the Talon by the month and wants results by the autumn.
 
 ### Enemies
 
-The houses that brought down House Dorgal during the War of the Princes, and the heirs who hold its lands.
+The rival house that holds the Dorgal lands, and the outlaws of the vale, who have learned who the Talon are.
+
+### Affiliations
+
+- **[[affiliation-slntlncmpny|The Silent Talon]]**: Branval founded the company and holds the office of Captain.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: He is of the Gentry, a gentleman without lands.
 
 ## Plot Hooks
 
-The Dorgal Claim
-: Word reaches Branval that the lands once held by his family are now disputed between two rival lords. If he can amass enough silver and the right allies, he may be able to press his ancestral claim—but doing so means entering the very political arena that drove his family out.
+The Thin Escort
+: The outlaws have struck three timber convoys in a row on the days the escort was smallest. Branval wants to know who in Belsaren knew the orders, and he hires a party who are strangers to the vale to ride with the next one.
 
-A Contract Too Good
-: The Silent Talon is offered an extraordinarily well-paying contract by an anonymous patron. The target turns out to be connected to the events that destroyed House Dorgal, forcing Branval to choose between profit and the personal reckoning he has been avoiding.
+The Cellar
+: The lord who holds the Dorgal lands has offered to buy out the other claimant, and once he does the dispute is closed. Branval asks a party to search the cellar of the burned manor at night, before the sale, on the strength of a story the whole vale tells.
+
+The Lord of Ilovren's Offer
+: [[being-kilanilvrl|Kilan Ilovrel na Ilovren]] has offered Branval a better contract than Tarlas pays, to serve the man who will hold Belsaren next. Branval does not know whether the offer is a bribe, a test or a trap.
 
 Blood in the Band
-: One of the Silent Talon's members is targeted by enemies from their past, and Branval must decide how far he is willing to go to protect his people—even if it means jeopardizing the band's contracts and reputation.
+: Enemies from one of the Talon's past contracts have followed Doren into the vale, and Branval must decide how far to go to protect his people while the Belsaren contract runs.

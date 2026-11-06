@@ -3,7 +3,8 @@ shortcode: arislkrsvr
 name: {full: Arisla Kórisvar}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "The herald of the Warden of the Talote at Durvalis, who carries the march's word over the passes to settle ransoms and truces."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,8 @@ data:
   lore: []
   culture: provenzianclt
   homes: [durvalis]
-  affiliations: {kngdmprvnz: {rank: 2}, ardavon: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 3}, ardavon: {rank: 1}, hsekorisvar: {rank: 1}}
+  socialTies: {being-talvenekmrl: patron, being-chynrkrsvr: friend}
   gender: female
   species: humanflk
   born: 688.111
@@ -393,55 +395,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Arisla Kórisvar is a 32-year-old woman who stands 6'0" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a narrow jaw that leads to a firm chin. Her piercing gray eyes sit beneath expressive brows and give her a penetrating gaze. She has an aquiline nose and narrow lips. She has olive-tanned skin with a weathered complexion. Her black hair is twisted into an elaborate arrangement. She has laugh lines around her eyes.
+Arisla Kórisvar is a 31-year-old woman who stands 6'0" tall and is of light build, long-necked and straight as a standard. Her olive skin is weathered from riding the pass road, her gray eyes are steady, and her black hair is braided and pinned up under the herald's cap. She has an aquiline nose, narrow lips that smile easily, and laugh lines at her eyes that the older heralds think unbecoming.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a minor noble family of [[lore-provenzianclt|Provénzian]] heritage, Arisla Kórisvar is a herald.
+Arisla Kórisvar is the herald of the Warden of the [[place-talothe|Talote]] at [[place-durvalis|Durvalis]], the fortress town of the eastern march. She carries the Warden's word: the muster call to the levy in spring, the proclamations of the [[affiliation-wntrassize|Winter Assize]] in the autumn, and, under a white staff, the messages that cross the passes to the Tarvénian lords when there are ransoms to settle or a truce to keep.
 
-Lady Arisla Kórisvar was born into a minor noble family known for their service as heralds and courtiers. She has a natural gift for oratory and a sharp understanding of how people stand with one another, which she uses to her advantage when delivering announcements and mediating disputes. She is well liked for her poise and her ability to suit her style to the occasion, whether formal or more relaxed. Her informal manner has won her praise, and it has also drawn criticism from more traditional heralds.
+She is of a cadet branch of the [[affiliation-hsekorisvar|Kórisvars]] of [[place-lizela|Lizela]], a house that has sent its younger children into service as heralds and secretaries for generations. She has a gift for speech and a sharp sense of how people stand with one another, and she uses both: a herald who can make a Tarvénian lord laugh across a ransom table brings back more of the march's men. Her easy manner has won her the Warden's confidence and the disapproval of the older heralds, who think a herald should be stiff to be respected.
+
+The campaign season is at its height and her road is busy. Every raid leaves prisoners on both sides of the passes, every prisoner has a price, and every disputed price waits for the Assize. This summer she carried a ransom offer over the passes that the Warden says he never sent.
 
 ## Psyche
 
 ### Personality
 
-She sometimes lacks the gravitas expected of a herald and can be overly diplomatic.
+Arisla is warm, quick and diplomatic, sometimes too diplomatic. She lacks the gravity the old heralds expect and makes up for it with nerve.
 
 ### Motivation
 
-Arisla wants to be heard and liked in every hall she speaks in, and to prove that a herald need not be stiff to be respected.
+She wants to be heard and believed in every hall she speaks in, on both sides of the passes, and to prove that a herald need not be stiff to be respected.
 
 ### Strengths
 
-She is charismatic, adaptable, and skilled in etiquette and mediation.
+She is charismatic and adaptable, exact in the forms of her office, and a skilled mediator who can keep a ransom table from turning into a fight.
+
+### Weaknesses
+
+She likes being liked, and a Tarvénian lord who flatters her has learned more than he should.
 
 ## Social
 
-Arisla belongs to the [City Heralds' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-## Companions
+The riders who escort her over the passes, and her cousin [[being-chynrkrsvr|Chinara Kórisvar]], the salter, whose house is two streets from hers.
 
 ### Patrons
 
-Arisla's patrons are the nobles who like her informal manner and her skill at diplomacy.
+[[being-talvenekmrl|Talvene Komrelis]], the Warden of the Talote, who trusts her with his word.
 
 ### Enemies
 
-Traditionalists believe she is too informal for a herald.
+The older heralds of the march, who say she is too familiar for the office, and a Tarvénian lord whose son she left unransomed because the price was a lie.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Arisla is of the Gentry and serves the Warden as his herald.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: She keeps the god of gates, as a woman who crosses a border for a living does.
+- **[[affiliation-hsekorisvar|House Kórisvar]]**: She is of a cadet line.
 
 ## Plot Hooks
 
-The Herald's Dilemma
-: Arisla is given a proclamation to deliver that she knows to be false, and her office and her conscience ask different things of her.
+The Offer Nobody Sent
+: The ransom offer Arisla carried over the passes this summer bore the Warden's seal, and the Warden says he never sealed it. Somebody at Durvalis is bargaining for prisoners in his name, and Arisla wants a party to ride with her when she goes back over to learn what the Tarvénians were promised.
 
-Old Grudges
-: A traditionalist herald brings a complaint against Arisla's manner before the guild.
+The Captain's Price
+: A Tarvénian captain taken in this summer's raiding is held at Durvalis, and his family's price is more than the march has ever been offered. Before the Assize sits, Arisla must carry the answer, and she suspects the captain is worth more alive in Tarvénia than anyone at Durvalis has said.
 
-Echoes of the Past
-: A dispute Arisla mediated in her early years comes apart, and both sides blame her.
-
-Shifting Winds
-: Political change in Provénzia threatens the standing Arisla's noble patrons give her, and she can adapt, resist, or leave.
-
-The Opportunity
-: Arisla is offered the post of herald to a great house, and its price is not named up front.
+The Proclamation
+: The Warden has given Arisla a proclamation for the Assize that she believes to be false, and her office and her conscience ask different things of her.

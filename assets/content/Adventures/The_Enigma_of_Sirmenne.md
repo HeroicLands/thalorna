@@ -3,132 +3,138 @@ shortcode: engmsrmnn
 name: {full: The Enigma of Sirmenne}
 type: scenario
 subType: adventure
-tags: [draft]
+description: "Treasure-seekers with crown permits crowd the woods around Sirmenne because the Order let a scholar's account circulate to cover its own night entry, and the stone its men carried out has broken the old restraint between the Áelendan and the Sinale."
+tags: []
 data:
   parents: []
-  locations: [provenzrgn]
-  cast: []
-  factions: []
+  locations: [sirmenne]
+  cast: [zdmdrvs, gredalekalv]
+  factions: [aelndntrbs, ordoarcanis, kngdmprvnz]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[affiliation-aelndntrbs|Áelendi tribes]] and their [[lore-flksinale|Sinale]] allies. The artifacts within could reshape Provénzian power—if the party can uncover them without awakening what guards them.
+## Overview {#overview}
 
-## Overview
+[[place-sirmenne|Sirmenne]] is a ruin in the wooded borderland of [[place-sathvothe|Satvote]], below the Áelendan mountains, older than any settlement of either kingdom. It is sacred to the [[affiliation-aelndntrbs|Áelendan Tribes]] and to the [[lore-flksinale|Sinale]] who dwell in the hidden forests nearby, and the two peoples keep it by a long mutual restraint that neither has ever explained. Neither crown administers it. Local legend holds that the Sinale left things of power behind when they withdrew, and nothing has ever been produced to show it.
 
-Deep in the borderlands between the [[place-provenzrgn|Provénzia Region]] and [[place-elavendre|Élavendre]], the crumbling ruins of [[place-sirmenne|Sirmenne]] stand—a sacred site shared between the Áelendan Tribes (the reclusive human tribes who are the original people of Élavendre) and the Sinale who dwell in the hidden forests nearby. Sirmenne predates any Provénzian or even Élavendren settlement by centuries, and its purpose remains a mystery to outsiders. Local legends speak of artifacts of incredible power left behind when the Sinale withdrew deeper into their enclaves. The party is contracted to explore the ruins, document findings, and retrieve anything of value. But the Áelendan have guarded this place for generations, and the Sinale did not leave their creations unprotected.
+This summer a scholar's account of Sirmenne has gone the rounds of the academies of [[place-aureliane|Aurelane]], in copies from the scriptorium of the [[affiliation-acadmedcn|Academy of Medicine and Manuscripts]], and treasure-seekers, antiquarians and agents of the [[affiliation-ordoarcanis|Thordimalon]] are in the woods together. Some of them carry permits sealed in [[place-jalnazdal|Jalnasdal]]. The Áelendan make no distinction between a looter and a licensed antiquarian, and the Sinale have been seen at the ruin's edge in daylight, which nobody in the borderland can remember.
 
-## Stage One: The Commission & Preparation
+The party enters as hired guards for a treasure-seeking company, as the Order's hands, or as people caught in the woods when the Áelendan decide they have had enough.
 
-The party is hired by:
+## What Is Really Happening {#what-is-really-happening}
 
-- A scholar or antiquarian seeking knowledge of the ancients
-- A noble seeking to expand Provénzian prestige and power
-- The [[affiliation-ordoarcanis|Thordimalon]], claiming authority to study arcane artifacts
-- A mysterious patron with their own hidden agenda
+**The account.** The scholar's account was the Order's doing. [[being-zdmdrvs|Zedime Diravis]], the Order's magister at Bataren, bought an old traveler's description of Sirmenne from a bookseller and let it be copied, knowing what it would bring into the woods. While the Áelendan watched the treasure-seekers on the paths, two men of the Order went in by night past the outer precinct to the inner court.
 
-**Initial Information:**
+**The stone.** They found the sealed doors the account describes and could not open them. They carried out instead a carved stone from the threshold of the inner court, cut with an inscription in the old Sinale script, which Zedime believes is the key the doors were sealed against. It is not. It is the stone at which the Sinale keep their observance, and it lies now in a cart under sacking at the Order's camp at the forest edge.
 
-- Sirmenne lies in remote, difficult terrain (mountains, forests, cursed lands)
-- Previous expeditions have vanished or returned traumatized and empty-handed
-- The Áelendan tribes fiercely protect the site and refuse all outsiders
-- The ruins are said to be warded by ancient magic far older than the Arcane Order's traditions
-- An artifact recovered centuries ago caused unforeseen consequences for whoever possessed it
+**The restraint.** Each people keeps Sirmenne in its own way and acknowledges the other's right to be there. The stone was in the Áelendan's keeping, by that arrangement, when it went. The Sinale have come to the ruin's edge in daylight to see whether the Áelendan let it go. The Áelendan, who did not, mean to clear every lowlander out of the borderland woods by force before the next moon, permit or none, and to bring back what was taken.
 
-**NPCs:**
+**The permits.** The permits are real. The Treasurer, [[being-gredalekalv|Gredale Kalvezis]], needs every fee the crown can raise, and his clerks have sold licenses to search at Sirmenne to anyone who paid, on the ground that the crown's claim to the site is unambiguous. That the claim is practically theoretical is not the Treasurer's concern.
 
-- The hiring authority (with unstated expectations)
-- A scholar with partial translations of ancient inscriptions
-- An Áelendan elder who is deeply opposed to the expedition
-- A survivor of a previous expedition (if any exist)
+**The doors.** Nobody opens them in this scenario. Whether anything lies behind them is not settled here.
 
-## Stage Two: The Journey
+> [!IMPORTANT]
+> There is no treasure to win. The scenario ends when the stone goes back to the threshold or the Áelendan clear the woods, and it turns on how many treasure-seekers are still in them when the tribes come.
 
-The party travels to Sirmenne, facing challenges both natural and political:
+## Hooks {#hooks}
 
-- Difficult terrain: mountain passes, dense forest, cursed valleys
-- Encounters with Áelendan scouts who challenge, warn, or outright attack trespassers
-- Environmental hazards: cave-ins, unstable cliffs, magical phenomena
-- Warnings from the land itself—visions, whispers, time distortions
-- The Áelendan may attempt to misdirect, delay, or frighten the party into turning back
-- If the party earns Áelendan trust (a difficult feat), they may receive cryptic guidance instead
+- **The mercenary.** A treasure-seeking company from the south, holding a Treasurer's permit, hires a party as guards in the borderland woods.
+- **The scholar.** Zedime Diravis hires a party to escort a cart from the forest edge to Bataren, and does not say what is under the sacking.
+- **The wanderer.** A party on the borderland road meets a company of antiquarians running out of the woods without their packs, and one of them is wounded.
+- **The thief.** A treasure-seeker who saw the Order's men come out at night offers a party half of whatever the cart holds.
 
-## Stage Three: Approaching the Ruins
+## The Opening {#opening}
 
-Upon arrival at Sirmenne, the party discovers:
+The forest edge below Sirmenne at dawn. Three camps within a bowshot of each other, a company of treasure-seekers, a pair of antiquarians with a mule, and the Order's tents with a cart under sacking. A boy comes running out of the trees.
 
-- Buildings of elegant, impossible architecture partially reclaimed by nature—clearly not built by human hands
-- Inscriptions in an ancient script (decipherable with effort or magical aid, possibly requiring Áelendi or Sinale knowledge)
-- Evidence of deliberate sealing—doorways blocked, entrances barred
-- Lingering magical wards that react to intrusion
-- Signs that the Áelendan maintain the outer grounds as a sacred precinct
+> "They're standing in the ruin," he says, "in the open, in the daylight. The tall ones. Just standing there."
 
-**Initial Encounters:**
+## Scenes {#scenes}
 
-- Activation of dormant magical defenses (illusions, barriers, minor constructs)
-- Sinale-created guardians (golems, animated sentinels) responding to trespass
-- An ancient spirit bound to the site that manifests to challenge or question the intruders
-- Environmental hazards (crumbling structures, magical energy flux)
+### Scene One: The Camps
 
-## Stage Four: Exploration & Discovery
+**Purpose.** Show the crowd and its permits.
 
-The party must navigate the ruins, overcome obstacles, and locate the artifact(s). Key elements include:
+**Situation.** The forest edge, the borderland woods behind it, and the paths in. Every camp has a paper and a theory.
 
-Puzzle Chambers
-: Tests of wit, morality, or worthiness designed by the builders
+**NPCs and threats.** The treasure-seekers' captain, who shows the Treasurer's seal to anyone who asks. Two antiquarians from Aurelane with a copy of the account. The Order's men, who keep to their tents and their cart.
 
-Guardian Constructs
-: Magical beings created to preserve and protect the ruins
+**Player choices.** Read the permits, read the account, ask what the boy saw, or ask what is in the cart.
 
-Layered Mysteries
-: Understanding the shared Áelendi-Sinale history and the purpose of this place
+**Clues and rewards.** Every copy of the account traces to a Bataren bookseller. The Order's men have mud from the inner court on their boots, a pale clay found nowhere else in the woods.
 
-The Artifact
-: What the party seeks may be dangerous, cursed, or far more significant than expected
+**Consequences.** The party knows the Order went in, and the Order knows the party asked.
 
-A Final Guardian
-: Perhaps an ancient Sinale spirit, or a powerful Áelendi shaman bound to the site by oath
+**If bypassed.** The cart leaves for Bataren that night, and the party meets it on the road.
 
-**Significant Discoveries:**
+### Scene Two: The Ruin's Edge
 
-- The Sinale built Sirmenne in partnership with the Áelendan, not as conquerors
-- They withdrew deliberately, entrusting the site's protection to the Áelendan tribes
-- An ancient threat prompted the withdrawal—a threat that may still be relevant
-- The artifact sought carries consequences: power and danger in equal measure
+**Purpose.** The Sinale and the precinct.
 
-## Stage Five: Aftermath & Complications
+**Situation.** [[place-sirmenne|Sirmenne]]: crumbling walls of worked stone among old trees, the outer precinct swept clean by Áelendan hands, and beyond it the inner court with its sealed doors.
 
-**If the party succeeds:**
+**NPCs and threats.** The Sinale who stand at the ruin's edge, tall and silent, and do not answer questions. The Áelendan who keep the precinct and warn once.
 
-- The artifact is secured (but what to do with it remains the question)
-- Knowledge of the ancient partnership between Áelendi and Sinale is recovered
-- The party may have awakened attention from the Sinale themselves (who may not appreciate disturbance)
-- Possession of the artifact brings interest from the Thordimalon, foreign powers, and hidden factions
-- The Áelendan tribes' reaction depends on how the party treated them and what was disturbed
+**Player choices.** Approach openly, stay at the precinct's edge, or try for the inner court.
 
-**Consequences of the Artifact:**
+**Clues and rewards.** A party that keeps to the precinct's edge sees the empty socket at the inner court's threshold. A party that approaches the Sinale with nothing in its hands is looked at for a long time and then let go.
 
-- It may enhance or expand Provénzian power significantly
-- It could cause unforeseen harm if used or studied carelessly
-- It might grant the party incredible advantages or dangerous curses
-- Other powers may pursue the party to claim, destroy, or study it
-- The awakening of ancient magic may trigger larger consequences in the region
+**Consequences.** A party that crosses the precinct is turned out of the woods by the Áelendan and marked as one of the looters.
 
-**If the party fails:**
+**If bypassed.** The party learns of the missing stone only when the Áelendan come for the camps.
 
-- The ruins seal themselves again, or become more dangerous
-- The artifact remains hidden, potentially to be claimed by others
-- The Áelendi and their Sinale allies become hostile to all future expeditions
-- The party may be bound by oath or curse to never return
+### Scene Three: The Cart
 
-## See Also
+**Purpose.** The stone, and who holds it.
 
-- [[place-provenzrgn|Provénzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
-- [[affiliation-aelndntrbs|Áelendan Tribes]]
-- [[lore-flksinale|Sinale]]
-- [[place-elavendre|Élavendre]]
-- [[affiliation-ordoarcanis|Thordimalon]]
-- [[affiliation-arldnpnthn|Aureldian]]
+**Situation.** The Order's camp, or the road to Bataren if the cart has gone. Zedime's men guard it with a writ of the crown's oversight and a pair of hired swords.
+
+**NPCs and threats.** The Order's men. [[being-zdmdrvs|Zedime Diravis]] himself, if the party follows the cart to Bataren, who believes he holds a key.
+
+**Player choices.** Take the stone, buy it, persuade Zedime it is no key, or let the cart go.
+
+**Clues and rewards.** The inscription matches the carving at the empty socket. Zedime's notes show he has not read a word of it.
+
+**Consequences.** A party that takes the stone has the Order for an enemy. A party that persuades Zedime has him for a debtor.
+
+**If bypassed.** The stone reaches Bataren, and the Áelendan follow it there.
+
+### Scene Four: The Clearing of the Woods
+
+**Purpose.** The climax: the tribes come.
+
+**Situation.** The borderland woods at dusk on the night before the moon. The Áelendan come through the trees in silence and drive every lowlander before them toward the forest edge.
+
+**NPCs and threats.** The Áelendan, who do not kill a person who walks out but do not stop for one who argues. The treasure-seekers, who have permits and swords and think the one answers for the other. The woods at night.
+
+**Player choices.** Carry the stone back to the threshold, lead the treasure-seekers out, stand and argue, or fight.
+
+**Clues and rewards.** A party that sets the stone back in its socket in sight of the Áelendan is let walk out of the woods with everyone it leads. The Sinale are gone from the ruin's edge in the morning.
+
+**Consequences.** If the stone goes back, the restraint holds and the borderland is quiet again. If it does not, the Áelendan close the woods to every lowlander, and the crown's permits are worthless.
+
+**If bypassed.** The tribes clear the woods, and the treasure-seekers who fought are carried out.
+
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The cart reaches Bataren and Zedime studies a stone he cannot read. The Áelendan clear the borderland woods at the moon, and two treasure-seekers who stood on their permits are carried out with broken arms. The Sinale are not seen again, and the Áelendan come down to Bataren in the autumn for the stone. The crown learns that a site it claims has been closed to its subjects by people who do not dispute its claim.
+
+## Aftermath {#aftermath}
+
+A party that put the stone back has the precinct-keepers' tolerance, which is the most any lowlander has at Sirmenne. Zedime has lost his key and gained a grudge or a debt. The Treasurer's clerks go on selling permits to a site nobody may now enter, and the treasure-seekers who paid for them want their money back from the crown.
+
+## See Also {#see-also}
+
+[[place-sirmenne|Sirmenne]]
+: the ruin and its keepers
+
+[[affiliation-aelndntrbs|Áelendan Tribes]]
+: the people who keep the precinct
+
+[[lore-flksinale|Sinale]]
+: the other keepers of the site
+
+[[scenario-crsmnthydrvn|The Curse of Mount Hidraven]]
+: another of Zedime Diravis's errands into the mountains

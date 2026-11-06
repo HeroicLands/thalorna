@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The great orchard manor of Zuravlen's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
 tags: [village, hill]
-data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 310, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [zuravlenrgn]
+  population: 310
+  government: brnyzrvln
+  packFolder: provenzia
 ---
 
 Palnebris holds the best of the upper terraces, and is the wealthiest manor in
@@ -47,3 +53,7 @@ is needed. And it is the manor a late frost ruins first, being highest.
 
 It is, in short, rich, hungry, dependent and frightened—which is why its lord is the most politically
 active man in the barony after the baron himself.
+
+## The Quarrel {#present}
+
+Palnebris is fighting on every front at once. Estivren means to raise the price of folding at the fair; Blavera is selling its dung to the highest bidder; and the grading table at [[place-elthrembis|Eltrembis]] failed a Palnebris consignment last week, which cost the tenants their rent and the lord his temper. The lord has turned the manor's own drying yard into an argument against the baron's share, and he sells more fruit fresh through [[place-volsather|Volsater]] every year. His steward keeps the charter in the church and the accounts close, and the reeve the tenants elected says openly that the lord's quarrels are being paid for out of their strips.

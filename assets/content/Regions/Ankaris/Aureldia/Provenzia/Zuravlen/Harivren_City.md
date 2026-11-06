@@ -30,8 +30,8 @@ still follow the line the first ones did.
 
 ## The Earl
 
-Hárivren is the seat of **[Avaarl Zylavren]{.name data-type="being/npc"}, Earl of Hárivren**, who holds the western march for the
-Crown and commands great respect and considerable power. Among his vassals is [Selvare Zuravel]{.name data-type="being/npc"},
+Hárivren is the seat of **[[being-avaarlzlvrn|Avaarl Zilavren]], Earl of Hárivren**, who holds the western march for the
+Crown and commands great respect and considerable power. Among his vassals is [[being-selvarezrvl|Selvare Zuravel]],
 Baron of [[affiliation-brnyzrvln|Zuravlen]] and [[place-kyvarel|Kivarel]]; the fruit and wine that make Zuravlen famous pass through Avaarl's city
 and pay his tolls.
 
@@ -50,14 +50,13 @@ its concern.
 The usual explanation given at [[place-jalnazdal|Jalnasdal]] is that a Flame lord who can be seen is worth more than a
 dozen who cannot, and that the western march is quiet, well governed and pays. Whether that is
 statecraft or an accommodation nobody has the standing to refuse is a question Provénzians ask each
-other and not strangers. It is, in any case, why the cult's activity in Provénzia—at
-Yarvalen above all—is so much harder to act against here than it would be
-anywhere else.
+other and not strangers. It is, in any case, why every accusation the Forge brings against the cult in Provénzia, over
+Yarvalen above all, goes nowhere at court.
 
 ## The Lordeme
 
-Every fifth year Hárivren hosts the [Lordeme]{.name data-type="lore/gathering"}, the Provénzian Grand Games,
-also called the Grand Games: the realm's greatest festival of martial prowess and athletic excellence,
+Every fifth year Hárivren hosts the [Lordeme]{.name data-type="lore/gathering"}, the Provénzian Grand Games:
+the realm's greatest festival of martial prowess and athletic excellence,
 drawing competitors and spectators from across Provénzia and well beyond it. A season of Provénzia's
 politics arranges itself around the Games.
 
@@ -69,6 +68,16 @@ poison and arranged defeat circulate every cycle and are occasionally true.
 The Games are the earldom's chief instrument of prestige, and the ceremonies that frame them—which
 involve a great deal of fire, and which the Earl's family has been quietly shaping for four
 generations—are the subject of a complaint the Sacred Forge renews every five years, and loses.
+
+## Politics {#present}
+
+The Forge has stopped asking politely. With the country round [[place-bldfldyharvalen|Yarvalen]] withering and the Forge's preachers naming the Black Flame from every pulpit in the north, its bishops have petitioned the crown to take the western march from a Flame earl, and the petition lies before the Council of Peers, where the Earl of [[place-degavel|Degavel]] and the Count of [[place-athavel|Atavel]] each wait to see which way the other moves. Avaarl answers that his march is quiet and pays, and both are true. His own vassal, Baron Selvare of [[affiliation-brnyzrvln|Zuravlen]], is a patron of the [[affiliation-brnngbrnd|Order of the Burning Brand]], and the baron's fruit pays the earl's tolls on its way south. Earl and baron are civil in public, and every merchant in the city knows how little that means.
+
+## History {#history}
+
+Hárivren was a stronghold on the river crossing before any crown claimed the west, and its name belongs to the older stratum of the country, with Yarvalen's. The province of the West made it the post where the west's produce was gathered and taxed for the road south, and it grew rich on the tolls without ever being a port.
+
+After [[lore-charterwar|the War of the Charter]] the kingdom made the west a march and gave it to an earl at Hárivren, and the earls have held it since. The present earl's family has spent four generations shaping the ceremonies of the Lordeme to its taste, and the Sacred Forge has protested about Avaarl's faith for thirty years and been thanked for its concern.
 
 ## See Also
 

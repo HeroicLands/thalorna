@@ -3,7 +3,8 @@ shortcode: lyrnvlskyr
 name: {full: Liren Valskir}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "The housekeeper of the supply merchant Tuleme Serdalis at Pirnebris, who keeps his house, resents him, and has seen his ledgers."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -13,6 +14,7 @@ data:
   culture: provenzianclt
   homes: [pirnebris]
   affiliations: {kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
+  socialTies: {being-tulemeserdal: patron}
   gender: female
   species: humanflk
   born: 682.55
@@ -394,57 +396,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Liren Valskir is a 38-year-old woman who stands 6'0" tall and is of moderate build. She has an oval face with wide-set cheekbones, a high forehead, and a narrow jaw that leads to a firm chin. Her hooded green eyes sit beneath straight brows, lending her a guarded gaze. An aquiline nose and narrow lips complete her features. She has olive skin with an even complexion. Her brown hair is swept up and held with carved combs.
+Liren Valskir is a 37-year-old woman who stands 6'0" tall and is of medium build. She has olive skin, an even complexion, a high forehead and hooded green eyes that miss nothing in a room, and she keeps her brown hair swept up and held with carved combs that were a gift from a mistress long dead. She wears a housekeeper's keys at her belt and walks quietly.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Liren Valskir came into the world of the domestic servant through a combination of circumstance and aptitude.
+Liren Valskir is the housekeeper of the house of [[being-tulemeserdal|Tuleme Serdalis]], the supply merchant, at [[place-pirnebris|Pirnebris]], the walled cherry town of the eastern march.
 
-Liren has worked in service since she was a teenager, starting as a scullery maid and eventually rising to the position of housekeeper for a prominent family. She is organized and meticulous, managing the other servants and ensuring the household runs smoothly. Despite her hard work, she often feels undervalued.
+She went into service at fourteen as a scullery maid in a merchant house of the town and rose to run one: she manages the servants, the stores and the household accounts, and Tuleme's house runs as smoothly as his wagons because of her. She is organized and exact. She is also undervalued and knows it, because Tuleme has never once said so, and she has a long memory for each time he failed to.
+
+Pirnebris has shut its gates once already this summer, with half the orchard hands outside the walls, and the merchants who supplied the garrison did very well out of the week. Liren keeps the household accounts, and Tuleme's house account and his trading account are kept in the same room.
 
 ## Psyche
 
 ### Personality
 
-Feels unappreciated and has a tendency to hold grudges.
+Liren is meticulous, reserved and proud, and she holds a grudge with the same care she gives a linen press.
 
 ### Motivation
 
-Liren is driven by the desire to master her craft and secure a stable future. The uncertainties of life in domestic servant work keep her vigilant and adaptable.
+She wants to be valued for the house she keeps, and she has begun to want a house of her own.
 
 ### Strengths
 
-Highly organized, skilled in household management, reliable.
+She is highly organized, reliable and observant, and she knows every servant in every merchant house of the town.
+
+### Weaknesses
+
+Her resentment of her master is close enough to the surface that the wrong offer could reach it.
 
 ## Social
 
-Liren is affiliated with none; she is dedicated to her job.
+### Companions
 
-As a Provénzian domestic servant, Liren occupies a recognized social niche within Provénzia society.
-
-## Companions
+The servants of Tuleme's house, who fear and trust her in about equal measure, and the housekeepers of the other merchant houses.
 
 ### Patrons
 
-Liren's primary patron is her current employer, who trusts her to manage the household. This relationship provides both opportunity and obligation.
+Tuleme Serdalis, who pays her well and has never thanked her.
 
 ### Enemies
 
-Some of the younger servants who see her as too strict.
+The younger servants who think her too strict, and one who thinks he could do her work and has said so to Tuleme.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Liren is a Freeman of the crown.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: She keeps the goddess's festivals and her small household shrine.
 
 ## Plot Hooks
 
-The Domestic Servant's Dilemma
-: Liren faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Ledger
+: Liren has seen what Tuleme's house charged the garrison for the week the gates were shut, and she knows the [[affiliation-wntrassize|Winter Assize]] would want to see it. She will give it to a party who can promise her a place in another house afterward.
 
-Old Grudges
-: Some of the younger servants who see her as too strict. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Philosopher's Dinner
+: Tuleme has invited the tavern philosopher [[being-vornantlgn|Vornan Tolgen]] to dine, which he has never done before, and has told Liren to serve the wine herself.
 
-Echoes of the Past
-: Something from Liren's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Liren depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Liren the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Shutting
+: The alarm sounds again, and Pirnebris shuts its gates with Tuleme's wagons outside. He orders Liren to have the house's men open the postern for them, against the Warden's order.

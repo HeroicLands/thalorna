@@ -3,16 +3,18 @@ shortcode: ryldnbrnwyld
 name: {full: Rilden Branvilde}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "The lord of Palnebris, the richest and most precarious manor of the Barony of Zuravlen, who runs it like a besieged fort and fights all his neighbors at once."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [warrior, courtier]
-  occupation: Chieftain
+  archetypes: [courtier, warrior]
+  occupation: Nobility (Manor Lord)
   lore: []
   culture: provenzianclt
-  homes: [durvalis]
-  affiliations: {kngdmprvnz: {rank: 5}, ardavon: {rank: 1}}
+  homes: [palnebris]
+  affiliations: {brnyzrvln: {rank: 1}, kngdmprvnz: {rank: 5}, ardavon: {rank: 1}}
+  socialTies: {being-selvarezrvl: patron, being-fryslvlskyr: rival, being-vlyrbrylnd: rival}
   gender: male
   species: humanflk
   born: 664.353
@@ -392,57 +394,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Rilden Branvilde is a 56-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a strong chin. His hooded hazel eyes sit beneath expressive brows, lending him a guarded gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin lined with age. His gray hair is shoulder-length and loose.
+Rilden Branvilde is a 55-year-old man who stands 6'2" tall and is of heavy build, still broad though the muscle has begun to go. His medium-toned skin is lined with age and weather, his gray hair hangs loose to his shoulders, and his hooded hazel eyes are always watching the door. An old scar across his left eye has left the lid stiff, so that he seems to squint at anyone he distrusts, which is most people.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a noble family of [[lore-provenzianclt|Provénzian]] heritage, Rilden Branvilde came into the world of the chieftain through a combination of circumstance and aptitude.
+Rilden Branvilde is the lord of [[place-palnebris|Palnebris]], the wealthiest manor of the [[affiliation-brnyzrvln|Barony of Zuravlen]] and the most precarious, and the most politically active man in the barony after the baron himself.
 
-Rilden is the chieftain of a powerful tribal clan known for their warriors and hunters. He earned his place as leader through both his strength in battle and his cunning in negotiation. Rilden is respected by his people, but his harsh and uncompromising ways have also made him feared. He is always looking out for threats to his position, both from rival clans and ambitious members of his own tribe.
+Nearly the whole of his demesne is under peach. In a good year he out-earns the baron; in a frost year he borrows, and everyone knows it. His manor has no grain to speak of and buys its bread, too few sheep to dung its own terraces, and it is the first a late frost ruins, being highest. He fought on the frontier in his youth, where he got the scar, and he came home to an inheritance that is rich, hungry, dependent and frightened, and he has run it like a besieged fort ever since. He is respected by his tenants and feared by them, and he trusts none of them.
+
+He is fighting on every front at once. [[place-estivren|Estivren]] means to raise the price of folding at the fair; [[place-blavera|Blavera]] is selling its dung to the highest bidder; and the grading table at [[place-elthrembis|Eltrembis]] failed a Palnebris consignment last week, which cost the tenants their rent and Rilden his temper. He has turned the manor's own drying yard into an argument against the baron's share, and he sells more fruit fresh through [[place-volsather|Volsater]] every year. The reeve the tenants elected says openly that his quarrels are being paid for out of their strips.
 
 ## Psyche
 
 ### Personality
 
-Paranoid and slow to trust others, especially outsiders.
+Rilden is suspicious, harsh and slow to trust, and he takes every disagreement as the first move of an attack. He is also brave, and he does not forget a man who stood by him.
 
 ### Motivation
 
-Rilden is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chieftain work keep him vigilant and adaptable.
+He wants Palnebris to stop being dependent on anyone: on Estivren's sheep, on Blavera's grain, on the baron's graders. He knows it cannot be done, and the knowledge makes him worse.
 
 ### Strengths
 
-Skilled warrior, experienced leader, strong in negotiation and tactics.
+He is a seasoned fighter, an experienced lord of a difficult manor and a hard bargainer who knows exactly what every neighbor needs from him.
+
+### Weaknesses
+
+He sees enemies everywhere, and by treating his neighbors as enemies he has made most of them so.
 
 ## Social
 
-Rilden is affiliated with the [Tribal Council]{.name data-type="affiliation/governmental"}.
+### Companions
 
-As a Provénzian chieftain, Rilden occupies a recognized social niche within Provénzia society.
-
-## Companions
+His steward, who keeps the manor's charter in the church and its accounts close, and a few old soldiers who came home with him from the frontier.
 
 ### Patrons
 
-Rilden's primary patrons are tribal elders who support his rule. This relationship provides both opportunity and obligation.
+[[being-selvarezrvl|Selvare Zuravel]], the baron, of whom he holds Palnebris and against whom he argues every season.
 
 ### Enemies
 
-Rival chieftains who wish to take his territory.
+[[being-fryslvlskyr|Frisala Valskir]], the head shepherd of Estivren, who sets the price of folding; the graders of Eltrembis; and [[being-vlyrbrylnd|Volira Brilonde]], the reeve of his own tenants.
+
+### Affiliations
+
+- **[[affiliation-brnyzrvln|Barony of Zuravlen]]**: Rilden holds Palnebris of the baron.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: He is of the Lesser Nobility.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: He keeps the god's festivals with the manor.
 
 ## Plot Hooks
 
-The Chieftain's Dilemma
-: Rilden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
+The Failed Consignment
+: Rilden is sure the grader who failed his fruit was paid to do it, and he wants a party to find out by whom before the fair. Somebody at the grading table is selling first marks, and he may be right about the grader for the wrong reason.
 
-Old Grudges
-: Rival chieftains who wish to take his territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Charter in the Church
+: Palnebris holds the earliest water-turns on the _reva_ by a charter kept in the church rather than in the hall, and a neighbor has challenged the turns before the baron's court. Rilden's steward will not bring the charter out, and Rilden does not know why.
 
-Echoes of the Past
-: Something from Rilden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Rilden depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Rilden the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Frost Bell
+: A late frost is coming, the bell will ring, and every tenant is bound to the frost vigil on pain of a fine. The reeve has told the tenants not to come until Rilden remits the rent the failed consignment cost them.

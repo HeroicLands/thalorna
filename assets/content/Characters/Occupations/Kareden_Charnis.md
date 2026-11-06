@@ -3,12 +3,13 @@ shortcode: cardnchrns
 name: {full: Kareden Charnis}
 type: being
 subType: npc
-tags: [draft, clergy]
+description: "An old priest of Zunelas at Palvote who keeps the hill observances the summer families never see, and whose people have asked him for a guide lost in the Túravel."
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [cleric]
-  occupation: Shaman
+  archetypes: [cleric, healer]
+  occupation: Priest
   lore: []
   culture: provenzianclt
   homes: [palvothe]
@@ -393,57 +394,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Kareden Charnis is a 62-year-old man who stands 5'6" tall and is of moderate build. He has a long face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His narrow brown eyes sit beneath straight brows, lending him a keen gaze. An aquiline nose and expressive lips complete his features. He has light skin with a bronzed complexion. His white hair is short and swept back.
+Kareden Charnis is a 61-year-old man who stands 5'6" tall and is of medium build, gone thin and slightly bent. His light skin is bronzed from the hill sun, his white hair is cut short and swept back, and his narrow brown eyes are keen. He walks with a blackthorn stick he does not need on the flat and uses on every slope.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Kareden Charnis came into the world of the shaman through a combination of circumstance and aptitude.
+Kareden Charnis is a priest of [[affiliation-zunelas|Zunelas]], the Veiled Dreamer, at [[place-palvothe|Palvote]], the summer town in the green uplands where the settled south gives way to the [[place-thuravelhills|Túravel Hills]].
 
-Kareden is a respected shaman who has guided his tribe for decades, serving as a healer, spiritual advisor, and keeper of ancient traditions. He communicates with the spirits of nature and the ancestors, often leading rituals to ensure the tribe’s prosperity. While age has diminished his physical strength, his wisdom is highly valued, and his influence remains strong.
+He keeps the small temple below the ridge where the summer families come to have their dreams read, and he keeps something older as well. Palvote has a good deal of hill blood in it and one or two observances its summer visitors would find surprising, and for forty years Kareden has been the man who keeps them: the night prayers at the spring above the town, the offerings left at the hill shrines before a family's son goes up with the flocks, and the dream-reading that tells the hill families whether a road into the Túravel is open. The hill families come to him for healing and for counsel, and the summer families never see them do it. Age has taken his strength and none of his memory.
+
+The two lives of the town have begun to meet. More scholars, antiquarians and agents of [[affiliation-ordoarcanis|the Thordimalon]] have outfitted at Palvote for the Túravel this summer than in any year the innkeepers can remember, and some pay hill men to guide them. A guide who took a party into the hills in spring has not come down, and his family has not asked the town for help. They have asked Kareden.
 
 ## Psyche
 
 ### Personality
 
-Physically frail due to age, occasionally struggles with more demanding tasks.
+Kareden is patient, dry and secretive, courteous to the summer families and plain with the hill ones. He tires quickly and hides it badly.
 
 ### Motivation
 
-Kareden is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shaman work keep him vigilant and adaptable.
+He wants the hill observances kept and kept quiet, and the hill families kept out of the summer visitors' business and the visitors out of theirs.
 
 ### Strengths
 
-Knowledgeable in herbal healing, rituals, and spiritual matters.
+He knows herbal healing, the rites of his god and every family of the hill, and he reads a dream as well as anyone in the kingdom outside [[place-argenna|Argenna]].
+
+### Weaknesses
+
+He cannot walk into the hills, and the families' trouble is there.
 
 ## Social
 
-Kareden is affiliated with the [Tribal Spiritual Council]{.name data-type="affiliation"}.
+### Companions
 
-As a Provénzian shaman, Kareden occupies a recognized social niche within Provénzia society.
-
-## Companions
+The hill families of Palvote, and a young acolyte he is teaching the observances he has never written down.
 
 ### Patrons
 
-Kareden's primary patron is the tribe's chieftain, who seeks his counsel. This relationship provides both opportunity and obligation.
+The summer families, whose offerings keep the temple, and who do not know what else it keeps.
 
 ### Enemies
 
-Rival shamans who question his methods and beliefs.
+A hill elder who says Kareden has given the strangers too much, and a scholar of the Thordimalon who has asked him too many questions about the spring.
+
+### Affiliations
+
+- **[[affiliation-zunelas|Faith of Zunelas]]**: Kareden is a priest of the Dreamer, of the rank of Dunir.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: He is a Freeman of the crown.
 
 ## Plot Hooks
 
-The Shaman's Dilemma
-: Kareden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
+The Guide Who Did Not Come Down
+: The missing guide's family has dreamed him alive and in a dark place, and Kareden believes the dream. He wants a party to go up into the Túravel to the place the dream shows him, and to tell nobody in the summer town why.
 
-Old Grudges
-: Rival shamans who question his methods and beliefs. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Question at the Spring
+: A scholar of the Thordimalon has been seen at the spring above the town at night, writing. Kareden wants to know what he is writing before the hill families decide for themselves.
 
-Echoes of the Past
-: Something from Kareden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Kareden depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kareden the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Dream for the Villa
+: A summer family on the ridge has asked Kareden to read a dream for a marriage, and the dream shows a death. They want a better reading and are willing to pay for one.

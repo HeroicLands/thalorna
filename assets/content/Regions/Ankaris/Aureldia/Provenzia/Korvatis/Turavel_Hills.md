@@ -40,6 +40,10 @@ is romantic invention by collectors. The people of the hills decline to help the
   over arcane sites, nobles have sought power in old practices before, and the district's obscurity is
   exactly what makes it attractive.
 
+## Converging Interests {#present}
+
+The hills are more crowded than they have been in a century. Scholars and antiquarians outfit at [[place-palvothe|Palvote]] and come in by the shepherds' paths, agents of the Thordimalon come in behind them with the Order's authority over arcane sites, and at least one noble's men have been asking in the hill villages about observances no priest of the Twelve keeps. All of them want the forgotten shrine. The hill families want them gone, and some of the younger shepherds have found that a stranger pays well for a path that is not written down.
+
 ## Notable Features
 
 [[place-shrinethuravelhills|The Forgotten Shrine]]

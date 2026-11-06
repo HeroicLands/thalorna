@@ -3,7 +3,8 @@ shortcode: hrlkvlskyr
 name: {full: Arlake Valskir}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A houndsman of Aurelane who trains the old families' hunting dogs, and who has kept a dead lord's pack that two houses are suing for."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -395,57 +396,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Arlake Valskir is a 38-year-old man who stands 6'1" tall and is broad and solidly built. He has a heart-shaped face with prominent cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. His round dark brown eyes sit beneath straight brows, lending him a candid gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a clear complexion. His brown hair is tied in a low tail.
+Arlake Valskir is a 37-year-old man who stands 6'1" tall and is of heavy build, broad in the shoulder and thick in the forearm. His skin is clear and browned, his round dark brown eyes are wary of people and easy with dogs, and he ties his brown hair in a low tail out of the way of teeth. An old bite has left a scar on the back of his left arm, and he wears a leather sleeve over it in the kennels.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Arlake Valskir came into the world of the animal trainer through a combination of circumstance and aptitude.
+Arlake Valskir is a houndsman of [[place-aureliane|Aurelane]], the old city of law and learning on the great road, who breeds and trains the hunting dogs of its old families and runs their packs in the hunting season.
 
-A rugged animal trainer who works with hunting dogs. Braden has a talent for taming wild beasts and often participates in local hunts.
+He grew up in the kennels of an Aurelane house, the son of its kennelman, and he has never been happier anywhere else. He has a gift for a difficult animal, a hound that will not hunt or a guard dog that bites the wrong man, and the old families send him the ones nobody else can manage. He rides with the hunts in the hills south of the city, and he is better company for the dogs than for the riders. He finds people hard to read and harder to talk to, and he trusts a dog's opinion of a stranger more than his own.
+
+Aurelane's high courts are full this season, and one of the suits is his business. Two old houses are fighting over a dead lord's inheritance, and the dead lord's pack, the best in the city, has been in Arlake's kennels since the funeral. Both houses have sent for it, and the court has not said whose it is.
 
 ## Psyche
 
 ### Personality
 
-Distrustful of people, hard to communicate with.
+Arlake is distrustful of people and slow to speak, patient with animals and short with anyone who mistreats one.
 
 ### Motivation
 
-Arlake is driven by the desire to master his craft and secure a stable future. The uncertainties of life in animal trainer work keep him vigilant and adaptable.
+He wants the dogs in his care well kept, well trained and given to masters who deserve them, and he wants to be left alone to do it.
 
 ### Strengths
 
-Great rapport with animals, strong endurance.
+He has a great rapport with animals, a deep knowledge of breeding and training, and the endurance to run with a hunt all day.
+
+### Weaknesses
+
+He cannot hide what he thinks of a man, and he has said it to the wrong ones.
 
 ## Social
 
-Arlake is affiliated with the [Hunter's Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As a Provénzian animal trainer, Arlake occupies a recognized social niche within Provénzia society.
-
-## Companions
+His dogs, and the huntsmen of the old families, who share his silences.
 
 ### Patrons
 
-Arlake's primary patron is a local lord who provides animals for training. This relationship provides both opportunity and obligation.
+The old families of Aurelane, who pay him to keep and train their packs.
 
 ### Enemies
 
-Rival animal trainer who sabotages his efforts.
+A rival kennelman who sells the new families dogs that look fine and do not hunt, and who has twice let it be said that Arlake's hounds carry the mange.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Arlake is a Freeman of the crown.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: He leaves an offering at the goddess's shrine when a bitch whelps.
 
 ## Plot Hooks
 
-The Animal Trainer's Dilemma
-: Arlake faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provénzia.
+The Dead Lord's Pack
+: Both houses in the inheritance suit want the dead lord's pack, and one of them has offered Arlake a year's keep to swear that the old lord gave it to their side. The other has sent men to take it.
 
-Old Grudges
-: Rival animal trainer who sabotages his efforts. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Hound That Found Something
+: On a hunt in the hills south of Aurelane, Arlake's best hound went to ground in a ruin nobody knew was there and came out with a bone that is not an animal's. He wants a party to go back with him before the hunt's master tells anyone.
 
-Echoes of the Past
-: Something from Arlake's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Arlake depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Arlake the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Bitten Man
+: A guard dog Arlake trained has bitten a stranger in an old house's garden at night, and the stranger has vanished. The house wants the dog killed and the matter forgotten. Arlake wants to know what the stranger was doing there.

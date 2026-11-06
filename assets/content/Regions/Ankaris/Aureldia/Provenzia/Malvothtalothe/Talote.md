@@ -57,6 +57,20 @@ The mountains are the kingdom's mineral country. Their veins carry precious meta
 [[place-bldfldtiravlen|Blood-field of Tiravlen]]
 : on the lake shore, which replays out over the water.
 
+[[place-ceravelvale|Keravel Vale]]
+: the frontier vale under the Marshal of the Western Army at Torvila Keravel, troubled by bandits.
+
+[[place-leravren|Leravren]]
+: the lordship northeast of Keravel that holds the road into the mountains and forests.
+
+[[place-athavel|Atavel]]
+: the county of the western basins, the march's granary, held by the Count of Atavel.
+
+## Current Situation {#present}
+
+The raiding season is open and the march is fighting on two fronts. Tarvénian riders are over the passes as they are every summer, and the levy that mustered at [[place-durvalis|Durvalis]] in spring is spread along the road below them. Behind that line, in [[place-ceravelvale|Keravel Vale]], the bandits strike the roads with a precision the Marshal of the Western Army cannot account for, and the men he needs on the frontier are riding after outlaws instead. The Tanevar villages of the vale shelter the outlaws and the Provénzian lords hang the ones they catch. The Black Flame lord of [[place-leravren|Leravren]] and the Forge's knights watch each other across the vale, and the [[affiliation-wntrassize|Winter Assize]] has more charges waiting for the snow than it has heard in years.
+
 ## See Also
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-tarvenirgn|Tarvénia Region]] · [[place-westernmrch|Western March]]
+- [[scenario-hndsrdngssn|Hands for the Raiding Season]] · [[scenario-ghststrvln|The Ghosts of Tiravlen]]

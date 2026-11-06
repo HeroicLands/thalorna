@@ -3,7 +3,8 @@ shortcode: ilvnralwn
 name: {full: Ilvena Ralven}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "A daughter of a family of march officers at Durvalis, whose house is the town's winter gathering place and whose betrothed is to be tried at the Winter Assize."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,8 @@ data:
   lore: []
   culture: provenzianclt
   homes: [durvalis]
-  affiliations: {kngdmprvnz: {rank: 2}, ardavon: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 3}, ardavon: {rank: 1}}
+  socialTies: {being-talvenekmrl: patron}
   gender: female
   species: humanflk
   born: 697.167
@@ -390,57 +392,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilvena Ralven is a 23-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and expressive lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair is hanging in ringlets.
+Ilvena Ralven is a 22-year-old woman who stands 5'8" tall and is of light build. She has warm-toned skin browned by a march summer, dark brown hair in ringlets she keeps meaning to have cut, and sharp brown eyes under arched brows. Her aquiline nose and expressive mouth make her look older and more decided than she feels.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a minor noble family of [[lore-provenzianclt|Provénzian]] heritage, Ilvena Ralven came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
+Ilvena Ralven is a daughter of a family of march officers at [[place-durvalis|Durvalis]], the fortress town of the eastern march, and the young woman whose house is the town's gathering place in the winter, when the passes close and the [[affiliation-wntrassize|Winter Assize]] sits.
 
-Ilvena is a minor noble with a keen interest in the arts and local governance. She is known for her charitable contributions to the community and her ability to connect with the common folk. Ilvena often hosts gatherings at her estate to promote local artists and musicians, and she advocates for education and the welfare of her people. Her warm demeanor and passion for philanthropy have made her popular among her peers and the populace.
+Her father commanded a company of the garrison and died of a fever two winters ago, and she keeps his house with her mother. She has made it what Durvalis lacks: a place where the officers, the justices of the Assize and the few gentry of the march can hear music and talk of something besides remounts. She brings players and singers up from [[place-pirnebris|Pirnebris]], gives to the families of the levy's dead and is liked by the carters and the soldiers' wives, who know she pays her debts. She is trusting, and she has been told so.
+
+The campaign season has brought her a trouble of her own. A junior officer who took the tavern philosopher [[being-vornantlgn|Vornan Tolgen]]'s questions seriously has refused an order in the field and is to be tried at the Winter Assize, and he is the man she means to marry.
 
 ## Psyche
 
 ### Personality
 
-Can be naive about the realities of nobility, sometimes too trusting.
+Ilvena is warm, generous and impulsive, and she believes the best of people until they prove otherwise, sometimes after.
 
 ### Motivation
 
-Ilvena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in nobility (courtier) work keep her vigilant and adaptable.
+She wants the officer she loves acquitted, and she wants her house to go on being the one warm room in Durvalis.
 
 ### Strengths
 
-Charismatic, compassionate, skilled in diplomacy.
+She is charming and kind, she knows every family of the garrison, and her house hears what the town says.
+
+### Weaknesses
+
+She is too trusting, and she is about to ask favors of people who will want them repaid.
 
 ## Social
 
-Ilvena is affiliated with the local [Nobility Council]{.name data-type="affiliation/governmental"}.
+### Companions
 
-As a Provénzian courtier, Ilvena occupies a recognized social niche within Provénzia society.
-
-## Companions
+Her mother, the officers' wives of the garrison and the players she brings up for the winter.
 
 ### Patrons
 
-Ilvena's primary patrons are local artists and craftsmen seeking support. This relationship provides both opportunity and obligation.
+[[being-talvenekmrl|Talvene Komrelis]], the Warden of the Talote, who served with her father and treats her as a niece.
 
 ### Enemies
 
-Few; generally well-liked, though some rival nobles may envy her influence.
+The captain of the garrison who brought the charge against her betrothed and has said at her own table that he will see the man hanged.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Ilvena is of the Gentry, a daughter of a family of the march's officers.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: She keeps the god's festivals with her mother.
 
 ## Plot Hooks
 
-The Nobility (Courtier)'s Dilemma
-: Ilvena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Officer's Defense
+: Ilvena wants to know what really happened in the field before the Assize sits, from the men who were there and will not say so to a court. She asks a party to find them before the snow scatters the levy.
 
-Old Grudges
-: Few; generally well-liked, though some rival nobles may envy her influence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Teacher
+: The supply merchants of Pirnebris want Vornan Tolgen silenced before the Assize sends for him, and Ilvena has learned they have hired someone to do it. Vornan is the one witness who can explain why her betrothed refused.
 
-Echoes of the Past
-: Something from Ilvena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Ilvena depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Ilvena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Warden's Favor
+: The Warden has offered to have the charge quietly dropped, if Ilvena will persuade her betrothed to say that Vornan put him up to it.

@@ -3,98 +3,136 @@ shortcode: firsbldhls
 name: {full: The Fires of the Blood Hills}
 type: scenario
 subType: adventure
-tags: [blood-and-ashes-in-ceravel-vale, draft]
+description: "With Kilan's map the party goes into the Blood Hills, a blood-field that returns the dread of a losing line, with the Black Flame lord of Leravren's soldiers behind it and the Forge's knights keeping the battle-night vigil below."
+tags: [blood-and-ashes-in-ceravel-vale]
 data:
   parents: [bldshscrvlvl]
-  locations: [provenzrgn]
-  cast: []
-  factions: []
+  locations: [bloodhills, belsaren]
+  cast: [darisenlrn, kilanilvrl, tarlasplnvr, kaldinlnvl]
+  factions: [blackflame, sacredforge, twinbldrdr, selmoros, kngdmprvnz]
   follows: [webdeceit]
   party: {size: null, archetypes: []}
   packFolder: bloodandashesinceravelvale
 ---
 
-## Teaser
+## Overview {#overview}
 
-The secrets of [[place-ceravelvale|Keravel Vale]] lead to its most perilous chapter yet. Deep within the ominous terrain of [[place-bloodhills|the Blood Hills]] lies a place shrouded in legend, rumored to conceal a powerful artifact capable of altering the balance of power in the region. The adventurers must race against time to uncover its secrets before it falls into the wrong hands. Along the way, they will face treacherous terrain, shadowed ruins, and unknown challenges that will test their mettle at every turn. Harrowing choices await—choices that will not only define their legacy but determine the fate of the Vale itself.
+East of [[place-belsaren|Belsaren]] the hills rise in long bare ridges that nobody grazes. They are [[place-bloodhills|the Blood Hills]], the blood-field of [[lore-bloodhillsbtl|the battle]] in which the Cohorts of Gashang and the Knights of the Sacred Forge destroyed each other about 248 AF, and somewhere in them is the cave shrine where the Black Flame's zealots hid the [[scenario-maulgashng|Maul of Gashang]]. The party has [[being-kilanilvrl|Kilan]]'s map. So, by now, does the Black Flame lord of Leravren.
 
-## Overview
+The party crosses the threshold the Twinblades keep, climbs into a field that fills a traveler with the certainty that the line is about to break, survives an ambush by the Flame's soldiers, and reaches the shrine on the night the Forge keeps its vigil and the Flame keeps its own. The adventure ends at the shrine's gate. What lies past it is [[scenario-maulgashng|Maul of Gashang]].
 
-In the final part, the adventurers venture into the Blood Hills to find the shrine where the [[affiliation-blackflame|Black Flame artifact]] is hidden. The adventurers must decide whether to claim the artifact for themselves, destroy it, or return it to a [[affiliation-sacredforge|Sacred Forge authority]].
+## What Is Really Happening {#what-is-really-happening}
 
-## Adventure Outline
+**The field.** The Blood Hills are a [[lore-bloodfield|blood-field]] of the kind called a dread. They return what was felt on them: the unease of a line that knew it was losing and could not leave. A traveler who lingers on the ridges feels ranks drawn up on the slope above him, and by dusk the feeling has become a conviction that the line will break toward him. Near the shrine the field is thin enough that ember-lights show after dark, flickering where nothing burns. The field does not harm anyone. It frightens, and frightened people fall off ledges.
 
-### The Perilous Path through the Blood Hills
+**The Flame's soldiers.** [[being-kaldinlnvl|Kaldin al Lénavel na Leravren]] has had a copy of Kilan's map, or the account of it his envoys carried home, and he has sent a band of Black Flame soldiers under an envoy and a priest of the Flame. They have followed the party from Belsaren and mean to take the maul themselves, or to take it from the party on the way out. If Kilan escaped his hall, he rides with them.
 
-Description
-: The adventurers follow [Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}'s notes and the map they obtained, venturing into the desolate and cursed Blood Hills. The land itself seems hostile, with twisted trees, sudden rock slides, and an unnatural silence. The area is dotted with the remnants of old Black Flame battles, like abandoned shrines, skeletons, and burned soil.
+**The vigil.** The Knights of the Forge keep a vigil at the foot of the slope on the night of the battle, as they have since the faith first held the vale. This year the Flame's keepers at the shrine are more numerous than the knights remember, and the knights expect trouble. A knight who kept last year's vigil says something kept it with him.
 
-Challenge
-: The Blood Hills are treacherous, with natural hazards like unstable terrain, sinkholes, and sudden steep inclines. To complicate matters, the adventurers encounter lingering traces of Black Flame magic—areas tainted with curses that sap their strength or fill them with unease.
+**The road.** [[affiliation-twinbldrdr|The Twinblade Order]] holds the road at the foot of the slope as a threshold, to guard it and not to keep it. The brothers let seekers pass and count them, and they count this year's seekers with growing concern.
 
-Optional Encounter
-: They may encounter the restless spirits of warriors who died in ancient battles, haunting the area as shades that test the adventurers' resolve and try to scare them away.
+**The scholar.** [[being-darisenlrn|Darisen al Olrun]] will not come into the hills. His faith will not go where the Black Flame keeps a shrine, and he does not say so. He gives the party everything his books hold about the shrine and asks only to be told what it finds.
 
-Clue
-: The adventurers come across faded carvings or symbols that reinforce they're on the right path. These carvings mention both the shrine and the V'hir, a powerful demon-like guardian bound to protect the artifact, hinting at the final challenge ahead.
+> [!IMPORTANT]
+> The party has a map, and so does the enemy. Play the hills as a race the party does not know it is running until the ambush.
 
-### Black Flame Ambush in the Hills
+## Hooks {#hooks}
 
-Description
-: As the adventurers approach the shrine's location, they are ambushed by a group of Black Flame soldiers, led by an emissary of [Kaldin al Lénavel na Leravren]{.name data-type="being/npc"}. These soldiers have been following the adventurers, hoping to seize the artifact themselves or prevent the adventurers from interfering.
+- **The map.** Kilan's map marks the shrine, and the party is not the only one holding a copy.
+- **The second vigil.** A Forge knight keeping the battle-night vigil asks for another to stand beside him, because last year something stood there that was not a knight.
+- **The bandits' ground.** Dirave's survivors fled into the hills, where pursuers will not follow. [[being-tarlasplnvr|Tarlas]] wants them found.
+- **The scholar's request.** Darisen asks the party to bring back whatever it finds in the shrine, and says only that it does not belong with the Flame.
 
-Challenge
-: The ambush is well-planned, with soldiers taking advantage of the rocky terrain for cover. The adventurers must contend with ranged attackers on high ground, skilled Black Flame zealots in melee, and perhaps a Black Flame priest using dark magic to weaken them.
+## The Opening {#opening}
 
-Reward
-: If the adventurers defeat the ambush, they capture the emissary or find notes on the soldiers, revealing that Kaldin has been tracking their movements. These notes reinforce the artifact's importance to the [Zuravel]{.name data-type="affiliation/lineage"} clan, and hint that the shrine is extremely close.
+The road below the Blood Hills, at evening. Two brothers of the Twinblade Order sit their horses where the road meets the foot of the slope, as still as the posts of a gate. One raises a hand.
 
-### Entering the Shrine and Overcoming Traps
+> "You're the fourth party this month," she says. "The other three were looking for the same thing. Two came back."
 
-Description
-: The adventurers reach the hidden shrine, a foreboding structure built into the mountainside and decorated with Black Flame symbols. The air is thick with the smell of burned incense and ash. They notice ancient runes on the stonework and faint lights flickering within the darkened halls.
+## Scenes {#scenes}
 
-Challenge
-: The shrine's entrance is guarded by deadly traps, remnants of Black Flame ingenuity designed to deter intruders. These traps include a **Blood Gate** (requiring a blood sacrifice to unlock), smoldering fire pits with narrow, crumbling pathways, and pressure-plate triggered gas traps that fill the room with choking smoke or flame.
+### Scene One: The Threshold
 
-Role-Playing Opportunity
-: The adventurers might encounter a surviving Black Flame devotee or a Zur clan loyalist who believes the adventurers are unworthy. This individual might offer guidance in exchange for a promise to leave the artifact untouched or as a bargaining chip for their life.
+**Purpose.** The way in, and the warning.
 
-Clue
-: Carvings near the inner chamber describe the V'hir, the demon guardian bound to protect the artifact. They warn that only a true servant of the Black Flame can survive its wrath, raising the stakes for the adventurers as they move forward.
+**Situation.** The road at the foot of the slope, the Twinblades' post, and the long bare ridges above.
 
-### Confrontation with the V'hir, Guardian of the Shrine
+**NPCs and threats.** The Twinblade brothers, courteous and immovable, who let seekers pass and count them. They have seen armed men of Leravren go up the northern ridges this week, more of them than seekers usually come.
 
-Description
-: Deeper in the shrine, the adventurers reach a large chamber wreathed in shadow and flickering with eerie light. In the center stands the V'hir—a fearsome demon bound by Black Flame priests to guard the artifact. It's a towering, flame-wreathed creature exuding a palpable aura of dread.
+**Player choices.** Ask what the brothers have seen, ask them to come, or go round their post by night.
 
-Challenge
-: The V'hir attacks intruders with devastating strength and dark fire-based magic, and it's impervious to standard weapons. The adventurers must find creative ways to weaken or evade it, potentially using Black Flame prayers they've discovered or exploiting weaknesses in its binding ritual.
+**Clues and rewards.** The brothers say the Flame's keepers at the shrine have gone up in greater numbers than any year they can remember, and that the battle night is three nights off. They will not go up themselves.
 
-Twist
-: During the battle, the adventurers may notice that the V'hir hesitates slightly when they invoke certain Black Flame phrases or symbols, suggesting that it's bound by magical commands. If they use these phrases, they may force it into submission temporarily, though it will regain control and strike again if the adventurers don't act quickly.
+**Consequences.** A party that goes round the post is not counted, and nobody knows to look for it.
 
-Reward
-: Once they've subdued or banished the V'hir, they gain access to the final chamber, where the artifact rests on an altar surrounded by engraved Black Flame prayers and spells.
+**If bypassed.** The party enters from the north, where Kaldin's men are.
 
-### The Black Flame Artifact and Final Decision
+### Scene Two: The Dread
 
-Description
-: In the shrine's inner sanctum, the adventurers find the artifact resting on an ornate, blood-stained altar. The room is filled with a sinister energy, and the artifact—the [[scenario-maulgashng|Maul of Gashang]]—radiates a dark, intoxicating power that calls to anyone who enters.
+**Purpose.** The hills themselves.
 
-Challenge
-: The adventurers face an intense moral and practical decision. They can take the artifact for themselves, destroy it, or choose to bring it to a Sacred Forge authority. Each choice carries risks: possessing it might corrupt or curse the wielder, destroying it could unleash its power unpredictably, and turning it over to authorities could earn them enemies among Black Flame cultists or the Zur clan.
+**Situation.** The ridges and the gullies between them, following Kilan's map. The ground is broken: loose slopes that slide, sinkholes, sudden steep climbs, and twisted thorn on the burned soil. Old bones lie where the rains have opened the ground, and a ruined Black Flame shrine from the battle stands on one ridge. The field presses on anyone who lingers, and harder after dusk.
 
-Resolution
-: As they make their choice, they may experience visions or whispers promising them power if they embrace the artifact's purpose. They may attribute these experiences to the Black Flame. This moment is tense, filled with the potential for betrayal, temptation, or introspection. The decision they make will determine the campaign's legacy and the adventurers' role in the fate of the Keravel Vale.
+**NPCs and threats.** The dread: the ranks above that nobody sees, the conviction that the line will break toward the watcher. On a ridge at dusk the party may meet shades of the fallen, drawn up in line, who try only to turn the party back. Dirave's survivors, if any fled here, are hungry and frightened in a gully.
 
-### Possible Ending Paths
+**Player choices.** Press on by night or camp by day, hold the line against the dread or turn back from it, help or rob the outlaws.
 
-Taking the Artifact
-: If the adventurers claim the artifact, they might gain dark powers but incur the wrath of both the Church of the Sacred Forge and Black Flame cults, who will seek it out. This choice opens the door for future conflict with these factions.
+**Clues and rewards.** Faded carvings on boulders along the old Flame path confirm the way and name the shrine's guardian, a being bound by the Flame's priests to keep the maul from the unworthy. An outlaw from Dirave's band has seen the ember-lights and armed men camped on the northern ridge.
 
-Destroying the Artifact
-: Destroying the artifact prevents its misuse, but it could also have unforeseen consequences, such as unleashing a curse tied to the relic. This act may enrage the Zur clan and Black Flame followers, making the adventurers lifelong enemies.
+**Consequences.** A party that runs from the dread scatters on broken ground, and someone falls.
 
-Handing Over the Artifact
-: Giving the artifact to a Sacred Forge authority may prevent immediate dangers, but it could draw the Zur clan's ire and incite a conflict between the Forge faithful and Black Flames in the region.
+**If bypassed.** The party loses a day finding its way and reaches the shrine on the battle night itself.
+
+### Scene Three: The Ambush
+
+**Purpose.** The enemy with the other map.
+
+**Situation.** A rocky defile below the shrine's ridge, the obvious way up. Kaldin's band has taken the high ground on both sides.
+
+**NPCs and threats.** Black Flame soldiers: archers on the heights, zealots who close in the defile, a priest of the Flame who calls on the god against the party, and Kaldin's envoy commanding them. [[being-kilanilvrl|Kilan]], if he escaped his hall, is with them and tries to bargain before the arrows fly.
+
+**Player choices.** Fight through, fall back and find another way up, parley with the envoy, or let the soldiers go ahead and take the shrine's traps for the party.
+
+**Clues and rewards.** A captured envoy or the soldiers' papers show that Kaldin has tracked the party since Belsaren, that the maul matters to Kaldin above anything else in the vale, and that the shrine lies just above the defile.
+
+**Consequences.** Soldiers who get past the party reach the shrine first. Some die in its traps, and the party finds their bodies at the gate.
+
+**If bypassed.** The soldiers hit the party at the shrine's mouth instead, with the keepers watching.
+
+### Scene Four: The Battle Night
+
+**Purpose.** The two vigils, and the gate.
+
+**Situation.** The night of the battle. At the foot of the slope the Knights of the Forge keep their vigil round a fire. High on the ridge, at the mouth of a cave built into the hillside and carved with the Flame's signs, the Flame's keepers keep theirs. The air at the cave smells of incense and ash, and faint lights flicker in its dark.
+
+**NPCs and threats.** A knight of the Forge at the vigil, who asks the party to stand with him because something stood beside him last year. The Flame's keepers at the shrine mouth, who hold that the unworthy die inside and will not stop anyone from trying. One keeper, old and loyal to the Ashlord's memory, judges the party unworthy and offers guidance in exchange for a promise to leave the maul untouched, or for his life.
+
+**Player choices.** Stand the Forge's vigil, go up to the shrine on the battle night, bargain with the old keeper, or drive the keepers off.
+
+**Clues and rewards.** The old keeper says that the first gate is opened by the blood of a devotee of the Flame, and that the prayers on the walls show the path through what follows. Carvings at the cave mouth warn that only a true servant of the Flame survives the guardian.
+
+**Consequences.** A party that stood the Forge's vigil has a knight's word that the Forge will take the maul from it, if it comes out. A party that bargained with the keeper has made a promise.
+
+**If bypassed.** The keepers watch the party pass in silence.
+
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+Kaldin's soldiers reach the shrine on the battle night and lose men to its gate and its guardian. The survivors bring the maul out the northern way and ride for Leravren, and the Forge's knights at the vigil see the lights go out on the ridge.
+
+## Aftermath {#aftermath}
+
+The party stands at the shrine's gate with the dead of two armies behind it, Kaldin's band broken or ahead of it, and promises made to a knight, a keeper or a scholar. The Twinblades below count it in, and will count it out. What waits inside is [[scenario-maulgashng|Maul of Gashang]].
+
+## See Also {#see-also}
+
+[[place-bloodhills|The Blood Hills]]
+: the blood-field, its vigils and its shrine
+
+[[lore-bloodfield|Blood-fields]]
+: what a dread is
+
+[[scenario-webdeceit|The Web of Deceit]]
+: where the map was found
+
+[[scenario-maulgashng|Maul of Gashang]]
+: the shrine and the relic

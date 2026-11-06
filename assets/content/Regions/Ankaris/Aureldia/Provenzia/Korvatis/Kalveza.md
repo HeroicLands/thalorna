@@ -35,10 +35,12 @@ where the goods are.
 
 ## The Port Dialect
 
-The [Parlage dou Port]{.name data-type="skill/language"}—the pidgin-like register that multilingual merchants use among themselves,
-mixing [[skill-vylarilng|Vilari Language]] and [[skill-elvndrlng|Élavendri Language]] freely—is heard here more than anywhere else in the kingdom, and a good
-deal of Kalveza's daily business is conducted in a speech that is nobody's mother tongue.
+The **Volchetarla**, the harbor tongue, a register of [[skill-provnzlng|Provenzal]] that multilingual merchants use among themselves, is heard here more than anywhere else in the kingdom. It is pared down almost to a pidgin and mixes [[skill-vylarilng|Vilari Language]] and [[skill-elvndrlng|Élavendri Language]] freely, and a good deal of Kalveza's daily business is conducted in a speech that is nobody's mother tongue.
+
+## The Present {#present}
+
+Kalveza is busy on Válaren's fear. With hulls without colors seen off the southern coast, Vilérian masters who would have put in at [[place-valarencity|Válaren]] are putting in here, and the warehouses are full to the roofs. Válaren's houses say that Kalveza's factors are glad of the trouble and may be paying for it, and Kalveza's factors answer that Válaren never minded being the only door while it was. Credit is tight in both cities, and it is tightest where Kalveza's warehouses hold goods bought on Válaren paper.
 
 ## See Also
 
-- [[place-jalnazdal|Jalnasdal]] · [[place-valarencity|Válaren City]] · [[skill-provnzlng|Provenzal]]
+- [[place-jalnazdal|Jalnasdal]] · [[place-valarencity|Válaren City]] · [[skill-provnzlng|Provenzal]] · [[scenario-siegevalrn|The Siege of Válaren]]

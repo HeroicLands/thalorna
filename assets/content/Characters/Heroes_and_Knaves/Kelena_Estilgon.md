@@ -3,6 +3,7 @@ shortcode: kelnstylgn
 name: {full: Kelena Estilgon, given: Kelena, clan: Estilgon}
 type: being
 subType: character
+description: "A courtesan of Pirnebris and the capital and a founder of the Theater Collective, who after thirty years in the trade is valued as much for her counsel and her silence as for her company."
 tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
@@ -11,11 +12,16 @@ data:
   occupation: Courtesan
   lore: []
   culture: provenzianclt
-  homes: [pirnebris]
-  affiliations: {kngdmprvnz: {rank: 2}, ardavon: {rank: 1}}
+  homes: [pirnebris, jalnazdal]
+  affiliations: {kngdmprvnz: {rank: 2}, prvnzthtrclctv: {rank: 4}, ardavon: {rank: 1}}
+  socialTies:
+    being-melvrelvns: patron
+    being-chalzimechol: patron
+    being-chzltolmrs: friend
+    affiliation-velvethand: rival
   gender: female
   species: humanflk
-  born: 688.97
+  born: 668.97
   height: 5' 7"
   weight: 131 lbs
   frame: heavy
@@ -24,7 +30,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: []
-    extra_features: []
+    extra_features: [a tattoo of dark green vines on the right upper arm and shoulder]
   packFolder: aureldiaprovenzia
 sohl:
   items:
@@ -411,106 +417,81 @@ sohl:
 
 ![[kelnstylgn|Kelena Estilgon]]{float=top-left}
 
-Kelena stands 5'7" tall with a heavy build. She has golden-toned skin, flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, and sculpted cheeks. She has a tattoo of intertwining dark green vines on her right upper arm and shoulder.
+Kelena Estilgon is a 51-year-old woman who stands 5'7" tall and is of heavy build, and she carries the weight as a dancer carries a costume. Her face is angular, with a prominent nose, a pronounced chin and heavy brows over alert eyes that have learned to rest on a speaker as though nobody else were in the room. Her skin is golden, and her black hair, threaded now with gray, still falls loose to her waist when she lets it. A tattoo of dark green vines winds over her right upper arm and shoulder, and she wears gowns that show it.
 
 # Dossier {#dossier}
 
-## Background
+Kelena Estilgon is a courtesan of [[place-pirnebris|Pirnebris]], the walled cherry town of the eastern march, and of the capital, [[place-jalnazdal|Jalnasdal]], where she keeps a townhouse. She is one of the founders of [[affiliation-prvnzthtrclctv|the Provénzia Theater Collective]], and after thirty years in the trade she is less a companion than a confidante: the patrons who come to her table come for her counsel and her silence as much as for her company.
 
-### The Dancer's Daughter
+She was born in the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] to a musician who played in the traveling troupes, and to a father she has never named. She grew up backstage. By ten she had small parts, by fifteen she drew a house as a dancer, and she understood early that a dancer's beauty matters less than her hold on an audience. At eighteen she left the stage for a wealthy merchant's keeping, and from his house she made her way up through the kingdom's society, learning languages, history and the genealogies of every family worth knowing.
 
-Kelena was born in the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] to a musician mother and a father whose identity she has never disclosed and seems reluctant to discuss. Her childhood was spent in the theatrical world—her mother performed in various traveling troupes, and young Kelena was raised backstage, absorbing the arts of performance, seduction, and social manipulation as naturally as other children learn language. By age ten, she performed minor roles in stage productions; by fifteen, she was drawing attention as a dancer of unusual grace and charisma. Yet she demonstrated an early intelligence about the performance itself—understanding that physical beauty and dancing skill, while important, were secondary to the art of capturing and holding an audience's emotional attention.
+At twenty-eight she brought the companies she had grown up among into one federation, and the Collective still treats her counsel as senior. She keeps a share in a small, fashionable troupe and a house in Pirnebris, where the garrison officers and the supply merchants of the last market are rich, bored and shut in together every time the alarm sounds. She has never let herself depend on a single patron.
 
-### The Rise Through Society
-
-At eighteen, Kelena made a deliberate transition from theatrical performer to courtesan—a shift that scandalized some but which she understood perfectly as an evolution rather than a degradation. She became the kept companion of a wealthy merchant, using that position to gain access to high society. From there, she cultivated relationships systematically and brilliantly, moving through the kingdom's social hierarchy with calculated grace. She became known for her physical charms and for her ability to hold a real conversation on topics ranging from philosophy to commerce, from art to intrigue. She learned languages, studied history, memorized genealogies—all in service of her craft.
-
-### Current Circumstances
-
-Now established as one of Provénzia's most desired courtesans, Kelena has made her trade into something approaching an art form. She maintains relationships with multiple powerful patrons simultaneously, each believing himself her favorite, each showering her with gifts and attention. She owns a townhouse in the capital, maintains several business interests including a small but fashionable theater troupe, and has accumulated considerable wealth and influence. Yet she has carefully avoided becoming too dependent on any single patron, having learned young the fragility of fortunes built on others' affection.
+This summer Pirnebris has shut its gates once already, and the merchants who victualed the garrison through the shutting did very well out of it. A company of the Collective has asked the Convocation to endorse a satire of exactly that, and the merchants it mocks are men who dine at Kelena's table.
 
 ## Psyche
 
 ### Personality
 
-Kelena is fundamentally a creature of performance—every exchange is crafted, every expression calibrated for effect. She is brilliant at reading people and understanding what they most desire to hear or experience, and she can become whatever version of herself will best serve her interests in any given moment. This chameleonic quality is not dishonest in her mind—it is simply the nature of her profession and her art. She has maintained this level of control for so long that it is unclear to what extent there is a "true" Kelena beneath the performances, or whether she has become purely the sum of her various personas.
-
-That said, those few people who have broken through her carefully maintained emotional walls report finding someone capable of surprising depth and real humor. She is prone to dark moods, particularly when alone, and there is evidence of a sadness beneath the glittering surface. She drinks wine regularly and has recently begun exploring certain substances that enhance her performances and help her manage the emotional cost of her carefully constructed life. She is capable of loyalty to those she considers true friends, though she defines friendship with extreme selectivity.
+Kelena is a performer in every exchange, and she reads what a person wants to hear faster than they know it themselves. She does not think this dishonest; it is her art. The few who have reached past it find a dry humor and a real loyalty, and also dark moods when she is alone. She drinks wine every night and has begun to take something stronger before the long evenings.
 
 ### Motivation
 
-Kelena operates from multiple, sometimes contradictory motivations. On the surface, she seeks wealth, influence, and the security that comes from being essential to powerful people. At a deeper level, she is driven by a need to prove something—to herself and to her absent father—that she can be valuable, essential, irreplaceable. There is a component of revenge as well: an intention to use her talents and intelligence to gain advantages over those who would underestimate her because of her profession. A sadder motive underlies all of this: the desire to be known and truly valued for who she is, even though she has carefully seen to it that no one ever will be.
+She wants the security of being indispensable to powerful people, and she wants to prove to a father she has never met that she is worth knowing. Beneath both she wants to be valued for herself, and she has arranged her life so that nobody ever sees enough of her to do it.
 
 ### Strengths
 
-Masterful Charisma
-: Kelena possesses a natural magnetism and charm that is hard to resist. She can convince almost anyone to like her, trust her, or provide her assistance through the sheer force of her personality.
-
-Social Intelligence
-: Her understanding of social hierarchies, etiquette, and the hidden power structures of noble society is deep and exact. She can move through a tangled political situation with grace and come out of it with every advantage.
-
-Performance Mastery
-: Whether engaging in theatrical performance, intimate conversation, or public display, Kelena controls her presentation with artistry. She can make others believe nearly anything about her intentions or feelings.
-
-Linguistic Fluency
-: She speaks multiple languages and dialects fluently, allowing her to operate across different social strata and regions.
-
-Eloquence
-: Her ability to craft compelling narratives, deliver persuasive arguments, and speak with eloquence has few equals.
+She is charming, socially exact and fluent in several tongues and dialects, and she can steer a dinner, a quarrel or a negotiation without seeming to. She knows the private affairs of half the patrons of the march and a good many at court.
 
 ### Weaknesses
 
-Emotional Distance
-: Kelena's constant performance has left her emotionally isolated and incapable of letting her guard down. This makes it difficult for her to form truly deep connections, even when she might desire them.
-
-Lack of Agency
-: Having organized her entire life around being what others want, Kelena has relatively little sense of what she actually wants independent of others' desires. Her life is reactive rather than self-directed.
-
-Physical Combat Limitations
-: Despite her grace and agility, she lacks significant physical strength or endurance. While she carries a concealed rapier, she is not a dangerous fighter.
-
-Substance Dependence
-: Her use of various substances to manage the emotional cost of her life is increasing, and she is moving toward real dependency.
-
-Vulnerability to Blackmail
-: Her position depends entirely on maintaining her current reputation and relationships. Someone with knowledge of her personal history or private actions could prove extraordinarily dangerous to her position.
+She cannot lower her guard even when she wants to. Her standing rests on her reputation and on the secrets she keeps, which makes her open to anyone who knows her past. Her use of drink and drugs is turning into dependence. She carries a concealed rapier and is not dangerous with it.
 
 ## Social
 
+### Companions
+
+The players of the troupe she backs, who call her the Mother of the Company to her face and other things behind it.
+
 ### Patrons
 
-The Duke of [[place-ravenshold|Ravenshold]]
-: A powerful noble of considerable influence who has maintained a relationship with Kelena for the past four years. Their arrangement is more transactional than intimate, though he is fond of her and consistently provides substantial financial support in exchange for her company and discretion regarding his private matters.
+[[being-melvrelvns|The Count of Ravenshold]]
+: A magnate of the Council of Peers and a generous patron of the theater, seen at her troupe's performances in the season.
 
-Merchant-Prince [[being-chalzimechol|Chalzime Cholsamis]]
-: A wealthy merchant who profits considerably from the wine and luxury goods trade. Cholsamis views Kelena as an investment and source of status within high society, providing her with gifts and access to merchant circles in exchange for her presence at his events.
+[[being-chalzimechol|Chalzime Cholsamis]]
+: A wine merchant of [[place-valarencity|Válaren]], who treats her as an investment and a mark of standing, gives her gifts and the run of the merchant houses' tables, and expects her at his feasts.
+
+:::secret {title="The count's arrangement"}
+The Count of Ravenshold has kept an arrangement with Kelena for the past four years. It is more transaction than intimacy, though he is fond of her: he provides substantial financial support, and she provides her company and her discretion about his private affairs. What she knows would cost him his place between the parties of Degavel and Atavel if either learned it.
+:::
 
 ### Enemies
 
-[Margot Thesselier]{.name data-type="being/npc"}
-: A rival courtesan who has cultivated connections with some of Kelena's former patrons and actively works to undermine her reputation in high society. Margot views Kelena as superior in talent but lower in status, and resents deeply what she sees as Kelena's undeserved prominence.
+[Brazema Zedimis]{.name data-type="being/npc"}
+: A rival courtesan who has courted several of Kelena's former patrons and works steadily against her reputation. Brazema thinks Kelena the better talent and the lesser birth, and resents her prominence.
 
-[The Hidden Hand]{.name data-type="affiliation"}
-: A shadowy organization rumored to traffic in information and maintain leverage over powerful individuals. Kelena has reason to believe they possess information about her past that could devastate her current position, and she lives in constant low-level fear of their attention.
+[[affiliation-velvethand|The Velvet Hand]]
+: The Hand keeps operatives in the touring companies, and Kelena has reason to think it holds papers about her past that would ruin her. She lives in a constant, low fear of its attention.
 
 ### Affiliations
 
-[[affiliation-prvnzthtrclctv|The Provénzia Theater Collective]]
-: An informal association of performers and theater operators that Kelena helped establish and continues to influence. Through this group, she maintains connections to the artistic and performance communities even as she operates primarily in high society.
+- **[[affiliation-prvnzthtrclctv|The Provénzia Theater Collective]]**: Kelena helped found it twenty-three years ago and is an Elder Member whose word the Convocation weighs.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: She is a Freeman of the crown.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: She keeps the god's festivals as a woman of her standing does.
 
 ## Plot Hooks
 
-The Blackmail Plot
-: Someone begins sending Kelena letters containing detailed knowledge of her past—specific incidents she believed forgotten or hidden, details about her family she has never shared with anyone, evidence of transactions she conducted under assumed names. The sender demands she use her influence with various patrons to bring about particular political or commercial ends. Kelena hires the party to discover who holds this leverage over her, but her investigation must be conducted with absolute discretion, as exposure of the blackmail itself could damage her carefully constructed reputation. The party discovers the blackmailer is someone from her theatrical past who has dedicated years to collecting information, believing Kelena betrayed them years ago.
+The Satire of the Last Market
+: A company has brought the Convocation a comedy of the Pirnebris merchants who grow rich every time the town shuts its gates. Two of those merchants dine at Kelena's table, and the First Speaker, [[being-chzltolmrs|Chezile Tolmaris]], has asked her to learn whether they mean to answer it with the law or with knives.
+
+The Letters
+: Someone has begun sending Kelena letters that know her past: incidents she thought forgotten, names she used once. The sender wants her to turn certain patrons toward certain ends. She hires a party to find the writer, with absolute discretion, because the blackmail itself would damage her if it came out.
 
 The Absent Father
-: Kelena receives an unexpected message from someone claiming to be her father, who has apparently been watching her life from a distance and now wishes to make contact. She is deeply conflicted about meeting him—desperate for answers but terrified that this person may be manipulative, dangerous, or unworthy of her imagined ideal. She hires the party to investigate him and verify his identity before committing to contact, but the investigation reveals that this person is connected to the Hidden Hand and likely intends to manipulate her relationship with her father as a means of gaining influence over her.
+: A man claiming to be her father has written to say he has watched her life from a distance and wants to meet. She wants a party to learn who he is before she answers, and the trail leads toward the Velvet Hand.
 
-The Performance That Went Wrong
-: During an elaborate private performance arranged for a foreign dignitary of great importance, something goes dramatically wrong—perhaps the dignitary dies under suspicious circumstances, perhaps evidence emerges of an affair with consequences, perhaps Kelena witnesses something she was not meant to see. She must get through the aftermath without revealing what actually occurred, protecting herself while making sure the powerful people involved do not blame her for the catastrophe. The party must help her manage a delicate political situation where her reputation and possibly her life are at risk.
+The Rival's Offer
+: Brazema Zedimis comes to Kelena with word of a plot among several patrons to break her standing, and offers the details in return for help against a common enemy. Part of what Brazema says is true.
 
-The True Name
-: Kelena comes into possession of evidence that her name is not actually her name—that she was born with a different identity, possibly noble lineage, and that her current existence may be based on false foundational assumptions. This discovery sends her into emotional crisis and raises the question: if she is not Kelena Estilgon, then who is she? The party must help her come to terms with the revelation and its practical consequences while dark forces—possibly including family members from her previous life—attempt to use this information to manipulate or control her.
-
-The Rival's Revelation
-: Margot Thesselier, her longtime rival, approaches Kelena with information about a conspiracy among several powerful patrons to systematically dismantle her position and reputation. Margot offers to share the details in exchange for Kelena helping her against a shared enemy. Kelena has to weigh whether to trust this person she has long viewed as an enemy, knowing that even if the information is true, Margot likely has ulterior motives. The situation becomes further complicated when the party investigates and discovers that Margot's information is partly true but deliberately incomplete—designed to manipulate Kelena into taking actions that would serve Margot's own ends while appearing to serve Kelena's interests.
+The Private Performance
+: A private performance Kelena arranged for a foreign envoy at Jalnasdal ends with the envoy dead in his chair. She must come out of it without telling what she saw, and without the powerful people present deciding that she is the one to blame.

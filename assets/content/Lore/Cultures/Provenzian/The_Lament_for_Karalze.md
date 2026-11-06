@@ -4,7 +4,7 @@ name: {full: The Lament for Karalze, en: [The Lament at the Door]}
 type: lore
 subType: literature
 description: "The lament the sílador Sirrelure made for his patron Karalze of Pirnebris, killed holding the road at Malnebris in a summer raid: the morning call at a door no one opens, the train left unplaced, the night the clients fetched their patron off a loud field, and the testimony the dead man could not speak, his wrongs with his goods, said for him at the tomb."
-tags: [draft, provenzia]
+tags: [provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore
@@ -23,7 +23,7 @@ data:
 
 **The Lament for Karalze** is the lament the sílador [Sirrelure]{.name data-type="being/npc"} made for his patron, [Karalze]{.name data-type="being/npc"} of [[place-pirnebris|Pirnebris]], who went up to [[place-bldfldmalnebris|Malnebris]] with the levy in the first raid of a summer and held the road there, where it narrows between the ridge and the stream ([[lore-malnebris|Malnebris]]), and did not come down. Sirrelure sang it first in the walled yard of Karalze's house, at the morning call on the day after the burial, to the clients who had come to the door out of twenty years' habit and found no one to open it. Every stanza ends on the one word, the door, and the yard answers it.
 
-The lament keeps the parts a lament for a lord must have: his praise, the catalog of the train he kept, the manner of his death and the address to his heir. It has two more. The first is the fetching. Karalze lay on a field that is loud on still nights in the campaign season, and his clients went up to it after dark, which nobody does, and carried him down. The second is his testimony. He died with no priest of [[affiliation-selmoros|Sélmoros]] beside him and spoke no final account of his wrongs and goods, so his singer spoke it for him at the tomb on the road outside the wall, and the lament keeps it. Among his wrongs it sets the one his town lives on: that he sold the march its boots and remounts and did not pray for the passes to stay shut.
+The lament keeps the parts a lament for a lord must have: his praise, the catalog of the train he kept, the manner of his death and the address to his heir. Its catalog names the tanner's boy Karalze sent to the academy at [[place-aureliane|Aurelane]] at his own cost, which is the [[affiliation-acadrhetrc|Academy of Philosophy and Rhetoric]]. It has two more. The first is the fetching. Karalze lay on a field that is loud on still nights in the campaign season, and his clients went up to it after dark, which nobody does, and carried him down. The second is his testimony. He died with no priest of [[affiliation-selmoros|Sélmoros]] beside him and spoke no final account of his wrongs and goods, so his singer spoke it for him at the tomb on the road outside the wall, and the lament keeps it. Among his wrongs it sets the one his town lives on: that he sold the march its boots and remounts and did not pray for the passes to stay shut.
 
 The lament is sung through the [[place-talothe|Talote]] when a patron dies, with the name changed and the stanzas of the fetching sung or left out as the death requires. The garrison at [[place-durvalis|Durvalis]] sings it without the stanza of the wrongs. Pirnebris sings that stanza. The short closing stanza goes to [Ellevirsa]{.name data-type="being/npc"}, the widow, who kept her own name.
 

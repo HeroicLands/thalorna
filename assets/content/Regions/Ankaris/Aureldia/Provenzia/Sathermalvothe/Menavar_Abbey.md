@@ -12,12 +12,12 @@ Ménavar was once a center of Aureldian learning and spiritual practice—a grea
 [[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve—in the north of [[place-provenzrgn|Provénzia]], with a library, a school and an endowment, standing on the low
 country of [[place-sathvothe|Satvote]] within reach of the sea.
 
-That was its undoing. [[lore-southrnfleets|The Southern Fleets]] (the Nordheim raids) that came in off the [[place-batarengulf|Gulf of Bataren]]
-some two centuries ago fell on Ménavar as they fell on
+That was its undoing. [[lore-southrnfleets|The Southern Fleets]], the Nordheim raids that came in off the [[place-batarengulf|Gulf of Bataren]]
+some two centuries ago, fell on Ménavar as they fell on
 [[place-yharvalenhenge|Yarvalen Henge]] a day's march away, and the abbey was gutted. It was never
 refounded.
 
-## Why It Was Abandoned
+## Why It Was Abandoned {#history}
 
 Abbeys of that standing are usually rebuilt; the church has the money and the motive, and a ruined
 house is a standing reproach. Ménavar was not, and the reasons given have changed with the century.
@@ -50,19 +50,19 @@ unwilling to be more specific.
 At least one previous expedition failed outright. Some of its members did not return; some returned
 mad. This is a matter of record rather than rumor, and it has not deterred anyone.
 
-## Who Wants It
+## Who Wants It {#present}
 
-Four parties, at least, and none of them will say so plainly:
+The relic is wanted more urgently this year than at any time since the last expedition, because the country round [[place-bldfldyharvalen|Yarvalen]] is dying and a healing relic a day's march away has become a question of politics as well as faith. Four parties, at least, are after it, and none of them will say so plainly:
 
 - The **church**, which holds that the relic is its property and has never relinquished the claim.
 - The [[affiliation-ordoarcanis|Thordimalon]], which wishes to _study_ it, and whose agents are
   invariably furnished with an authority nobody can quite check.
-- A **noble house** claiming historical custody—a claim that is probably genuine and certainly
-  inconvenient.
+- A **noble house**, the counts of [[place-batarencity|Bataren]] who endowed the abbey and claim
+  historical custody of its relic—a claim that is probably genuine and certainly inconvenient.
 - A **collector**, unnamed, whose offer is substantial enough to raise the question of who is really
   paying.
 
-Given where Ménavar stands, and given who has been working the ground at [[place-bldfldyharvalen|Yarvalen]], a fifth interest is
+Given where Ménavar stands, and given what [[affiliation-sacredforge|the Sacred Forge]] says about the waking of Yarvalen, a fifth interest is
 worth considering. See [[scenario-lstrlcmnvrby|The Lost Relic of Ménavar Abbey]].
 
 ## See Also

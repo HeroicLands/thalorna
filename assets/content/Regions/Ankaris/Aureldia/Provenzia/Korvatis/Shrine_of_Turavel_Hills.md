@@ -15,6 +15,14 @@ observances of [[affiliation-theoldway|the Old Gods]], and it was a place of rea
 
 It has not been disturbed in centuries, and perhaps not in millennia.
 
+## Layers {#history}
+
+**The first worship.** The shrine was raised for the Old Gods in an age nobody can date, before the Twelve were worshipped anywhere in the west. Who raised it, and to which of the old powers, is not known.
+
+**The hill country's keeping.** The Aureldian faiths came into the south with the Vilérian colony and the province, and they converted the coast and left the hills alone. The hill families kept the shrine's observances in their own houses after they stopped going to the shrine itself, and the observances outlasted the memory of the way there.
+
+**The songs.** What survives in the open is the ballads of the hill villages, which antiquarians have collected for a century.
+
 ## What Is Known
 
 Very little, and most of it disputed. There are fragmentary directions in a handful of manuscripts,
@@ -36,14 +44,14 @@ Nothing suggests they can be fought profitably. Everything suggests they can be 
 addresser knows the older forms—which is why the antiquarians who want to reach the shrine and the
 hill families who know how to speak to it have such a difficult, mutually suspicious relationship.
 
-## Why It Matters Now
+## What Is There Now {#present}
 
 An abandoned sanctuary of a displaced faith is an obvious prize, and the interested parties are
 predictable: scholars after pre-Aureldían knowledge, the [[affiliation-ordoarcanis|Thordimalon]]
 asserting its claim over arcane sites, nobles hoping old practices will yield personal power, and
 priests of the Twelve who would rather the whole question stayed closed.
 
-The shrine has survived because nobody could find it. That protection is wearing thin.
+The shrine has survived because nobody could find it. That protection is wearing thin. This year more than one party is in the hills at once, each with a different manuscript, and the hill families who know how to speak to the guardians are being asked, bribed and threatened by turns to say what they know.
 
 See [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Túravel Hills]].
 

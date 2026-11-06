@@ -3,7 +3,8 @@ shortcode: ordnbrylnd
 name: {full: Ordan Brilonde}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A mercantyler of Lizela who deals in bullion and cut stone, whose word is the weight, and whose answer to the crown's salt loan will place his house in the quarrel it has always avoided."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [lizela]
-  affiliations: {kngdmprvnz: {rank: 2}, olvenia: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 5}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 678.99
@@ -392,13 +393,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Ordan Brilonde is a 42-year-old man who stands 5'9" tall and is broad and solidly built. He has a heart-shaped face with angular cheekbones, a lined forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath expressive brows and give him a watchful gaze. He has a straight nose and thin lips. He has warm-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side.
+Ordan Brilonde is a 41-year-old man who stands 5'9" tall and is of heavy build, broad and unhurried. He has warm skin browned by the coast, black hair combed neatly to one side and deep-set gray eyes that rest on a stone a long while before they rest on its seller. A small scar above his left eyebrow is from a scale-beam that sprang when he was a boy. He weighs with his own scales and carries them himself.
 
 # Dossier {#dossier}
 
 Ordan Brilonde is a mercantyler of [[place-lizela|Lizela]], the salt town on the southern coast of [[place-provenzrgn|Provénzia]], the head of a minor [[lore-provenzianclt|Provénzian]] house whose money is in bullion and stones rather than in land.
 
-Ordan heads one of the small noble houses of Lizela, rich enough to matter in the district and not landed enough to matter at [[place-jalnazdal|Jalnasdal]], which has traded in gold, silver and cut stone since his grandfather's day. He buys metal and stones where they come ashore, weighs and values them himself, and sells to the goldsmiths of [[place-valarencity|Válaren City]] and the households of the capital, where his weight on an ingot is taken without a second scale. He has never sold short weight and never over-valued a stone for a buyer who wanted it over-valued, which has cost him custom and made the custom he has. He keeps his house out of the long quarrel between the Crown and the [Council of Peers]{.name data-type="affiliation/governmental"}, as his family always has.
+He heads one of the small noble houses of Lizela, rich enough to matter in the district and not landed enough to matter at [[place-jalnazdal|Jalnasdal]], which has traded in gold, silver and cut stone since his grandfather's day. He buys metal and stones where they come ashore, weighs and values them himself, and sells to the goldsmiths of [[place-valarencity|Válaren City]] and the households of the capital, where his weight on an ingot is taken without a second scale. He has never sold short weight and never overvalued a stone for a buyer who wanted it overvalued, which has cost him custom and made the custom he has. He keeps his house out of the long quarrel between the crown and the [[affiliation-councilpeers|Council of Peers]], as his family always has.
+
+The salt has made that harder. The crown's treasurer has asked the coastal houses for a loan against the salt revenue, and Ordan's house trades more of Lizela's salt than any other. His answer either way will place a house that has spent generations declining to be placed.
 
 ## Psyche
 
@@ -412,23 +415,36 @@ Ordan wants every weight and valuation that leaves his house to be true, because
 
 ### Strengths
 
-Knows precious metal and stone, a fine negotiator, teacher of the young traders of the coast.
+He knows precious metal and stone, negotiates well and teaches the young traders of the coast.
+
+### Weaknesses
+
+He cannot imagine a world in which keeping out of a quarrel is not possible, and he is living in one.
 
 ## Social
 
-Ordan holds his seal from the [Merchants' Guild of Jalnasdal]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]].
+### Companions
 
-## Companions
+The young traders of the coast he has taught, and the goldsmiths of Válaren who trust his scales.
 
 ### Patrons
 
-Ordan's patrons are the goldsmiths of Válaren City, who buy his metal on his weight, and the households of the Crown's court, who send to him for a valuation that will not flatter.
+The households of the crown's court, who send to him for a valuation that will not flatter.
 
 ### Enemies
 
 A trading house of Válaren City that sells the goldsmiths short weight and has lost custom to him, and a Peer of the Council who asked Ordan for a valuation and did not get the one he wanted.
 
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Ordan is of the Lesser Nobility and heads his house.
+- **[Merchants' Guild of Jalnasdal]{.name data-type="affiliation/guild"}**: He holds his seal from the guild, chartered under [[affiliation-tevran|the Tevran Maldor]].
+- **[[affiliation-olvenia|Faith of Ólvenia]]**: He gives to the goddess of prosperity at every new contract.
+
 ## Plot Hooks
+
+The Crown's Loan
+: The treasurer's agent and a Peer's agent have both come to Lizela to learn how Ordan will answer the crown, and each has hinted what the other side will do to his house if he answers wrong. Ordan wants a party to learn which of them is bluffing.
 
 The Peer's Stone
 : A Peer wants a ruby valued high enough to secure a loan against it, and has made plain what it will cost the house at Jalnasdal if Ordan values it as he sees it.
@@ -437,7 +453,4 @@ The Light Soldeni
 : A consignment of Soldeni Ordan bought on the coast weighs light, and the milled edges are clean. Somebody has learned a new trick, and he has already sold half of them.
 
 The Nephew
-: Ordan's nephew and heir has begun trading on the house's name at Jalnasdal, in the Crown's quarrel and against the Peers, and the house has begun to be talked about.
-
-The Crown's Loan
-: The Crown's treasurer has asked the coastal houses for a loan against the salt revenue, and Ordan's answer either way will place a house that has spent generations declining to be placed.
+: Ordan's nephew and heir has begun trading on the house's name at Jalnasdal, in the crown's quarrel and against the Peers, and the house has begun to be talked about.

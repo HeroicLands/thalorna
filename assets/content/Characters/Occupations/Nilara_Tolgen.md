@@ -3,7 +3,8 @@ shortcode: nilaratlgn
 name: {full: Nilara Tolgen}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A yeoman archer of the lord of Ilovren's household in Keravel Vale, who has begun to wonder why the household's patrols always arrive too late."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -11,7 +12,7 @@ data:
   occupation: Yeoman Archer
   lore: []
   culture: provenzianclt
-  homes: [jalnazdal]
+  homes: [ilovren]
   affiliations: {kngdmprvnz: {rank: 2}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
@@ -393,57 +394,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Nilara Tolgen is a 27-year-old woman who stands 5'10" tall and is slender. She has a long face with soft cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. Her wide-set hazel eyes sit beneath straight brows, lending her an open gaze. An aquiline nose and thin lips complete her features. She has olive-tanned skin with a weathered complexion. Her chestnut hair is twisted into an elaborate arrangement.
+Nilara Tolgen is a 26-year-old woman who stands 5'10" tall and is of light build, long-armed and quick. Her olive skin is weathered from the hills, her chestnut hair is braided tight so the bowstring cannot catch it, and her wide-set hazel eyes look at the treeline before they look at a speaker. A small spider is tattooed on her shoulder, and she does not explain it.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Nilara Tolgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Nilara Tolgen is a yeoman archer of the household of [[being-kilanilvrl|Kilan Ilovrel na Ilovren]], the lord of [[place-ilovren|Ilovren]] in [[place-ceravelvale|Keravel Vale]], and she lives in the village below his fortified hall.
 
-Nilara grew up on the outskirts of the village, where her father taught her to use a bow for hunting. Her skills caught the eye of a local militia leader, who recruited her as a yeoman archer. Nilara is known for her speed and agility, allowing her to quickly reposition during battles. She is highly regarded for her ability to hit moving targets.
+She grew up on a holding at the edge of the vale, where her father taught her to hunt with a bow, and the lord's captain took her into the household when she hit a running hare at sixty paces in front of him. She rides the vale's roads with the household's patrols and is valued for her speed and her eye for a moving target. She is not strong in a press of swords, and she knows it.
+
+Ilovren's lord has made the vale's trouble his argument. Kilan has offered the Marshal at [[place-caerceravel|Torvila Keravel]] his men and his advice, and his advice is that [[place-belsaren|Belsaren]] needs a lord who can keep its roads. Nilara has ridden on those roads all season, and the patrols always seem to arrive after the outlaws have gone. The household has taken on new men this year who keep to themselves, and they are not from the vale.
+
+:::secret {title="Kilan's new men"}
+The new men in Kilan's household are soldiers of [[affiliation-blackflame|the Black Flame]], lent to him by [[being-kaldinlnvl|Kaldin al Lénavel na Leravren]], and the patrols arrive late because Kilan sends them late. Nilara has begun to suspect the second and knows nothing of the first.
+:::
 
 ## Psyche
 
 ### Personality
 
-Lacks strength for melee combat, can be overly reliant on her speed.
+Nilara is quick, watchful and plain-spoken, and she relies on her speed more than she should.
 
 ### Motivation
 
-Nilara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in yeoman archer work keep her vigilant and adaptable.
+She wants the vale's roads safe, because her family's holding is on one of them, and she wants to be taken seriously by a household that values a sword over a bow.
 
 ### Strengths
 
-Skilled archer, quick and agile, excellent at tracking.
+She is a skilled archer, quick and agile, and a good tracker in broken country.
+
+### Weaknesses
+
+She is no match for an armored man at close quarters, and she owes her place to a lord she has begun to doubt.
 
 ## Social
 
-Nilara is affiliated with Local Militia.
+### Companions
 
-As a Provénzian yeoman archer, Nilara occupies a recognized social niche within Provénzia society.
-
-## Companions
+Her family on their holding at the edge of the vale, and the older archers of the household, who taught her to shoot from a moving horse.
 
 ### Patrons
 
-Nilara's primary patrons are local hunters and militia who have seen her skill firsthand. This relationship provides both opportunity and obligation.
+The captain of Kilan's household, who took her in.
 
 ### Enemies
 
-Poachers who encroach on her territory.
+Poachers in the lord's woods, and the new men of the household, who do not like being watched.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Nilara is a Freeman of the crown.
+- **[[affiliation-brazemas|Faith of Brazemas]]**: She keeps the Thunderer's feast with the household's soldiers.
 
 ## Plot Hooks
 
-The Yeoman Archer's Dilemma
-: Nilara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Late Patrol
+: Nilara wants to know why the household's patrols always reach a raid too late, and she cannot ask inside the household. She asks a party of strangers to ride the Belsaren road on a night she knows the patrol will be sent.
 
-Old Grudges
-: Poachers who encroach on her territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Nilara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Nilara depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Nilara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Grove at the New Moon
+: A message has reached a stranger in the vale, asking them to come alone to the grove near Ilovren at the new moon for proof of Kilan's lies. Nilara found it first and passed it on, and she means to be in the trees with her bow when the stranger arrives.

@@ -3,186 +3,135 @@ shortcode: ghstshpsglfbtrn
 name: {full: The Ghost Ships of the Gulf of Bataren}
 type: scenario
 subType: adventure
-tags: [draft]
+description: "The hulls without lights that stop ships in the Gulf of Bataren belong to an underwriter whose house insures both the Élavendren and the Provénzian fleets, and the masters they search keep silent because the searchers found what they were carrying."
+tags: []
 data:
   parents: []
-  locations: [provenzrgn]
-  cast: []
-  factions: []
+  locations: [batarengulf, batarencity]
+  cast: [trdmarnts, kiramailthor, jaltezamlvt]
+  factions: [kngdmprvnz, kngdmlvndr, crownships]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-Ghost ships appear in the [[place-batarengulf|Gulf of Bataren]], crewed by the [[lore-undead|undead]] and carrying no cargo but dread. The party must investigate their origin, uncover what they seek, and determine whether they are a natural phenomenon or a deliberate curse.
+## Overview {#overview}
 
-## Overview
+The [[place-batarengulf|Gulf of Bataren]] is the one deep harbor on Provénzia's ocean coast, and it is uneasy water this season. Masters coming in from the north report hulls that come out of the morning fog without lights or colors, shadow a merchantman for an hour and are gone. Two vessels have been stopped and searched by crews their masters will not describe. The quays of [[place-batarencity|Bataren City]] call them the ghost ships.
 
-Merchant vessels traveling through the Gulf of Bataren report encounters with ghost ships—vessels that appear suddenly from fog, crewed by pale and spectral figures, and vanish just as mysteriously. Some ships are attacked or forced to surrender goods; others are simply observed, as if the ghosts are searching for something. Sailors whisper of curse and doom. The party is hired to investigate these phenomena and put an end to the haunting, whether through combat, negotiation, or magic.
+The pilots of Bataren have doubled their fees, the city's underwriters have raised their rates, and the Élavendren and Provénzian shipping houses each suspect the other of spreading the stories to frighten trade off. In a city where the two communities already blame each other for every beating and fire, the ghost ships are one more thing to blame.
 
-## Stage One: The Problem
+The party enters at the countess's request, on a merchant's charter, or as hands on a ship the hulls stop.
 
-The party becomes aware of the ghost ship phenomenon through:
+## What Is Really Happening {#what-is-really-happening}
 
-- Arriving in a port ([[place-batarencity|Bataren]] or another coastal city) where recent encounters are being discussed
-- Being hired by a merchant guild or maritime authority
-- Witnessing an encounter firsthand
-- Interviewing survivors of ghost ship encounters
-- Being commissioned by a noble with shipping interests
+**The hulls.** There are two, old coasting hulls bought cheap in the spring and kept in a cove on the gulf's far shore. Their crews are picked men who wear sailcloth hoods when they board. They belong, through two names that are not hers, to [[being-trdmarnts|Tordima Aurentis]], the most respected underwriter in Bataren.
 
-**Initial Information:**
+**What they do.** The hulls shadow a merchantman to frighten it, and now and then stop one and search it. The searchers write down every cargo, declared and undeclared. Tordima's house insures the hulls of both communities, and her partner in the business is an Élavendren shipowner of the north quarter. The fear raises premiums. The pilots, who pay her house a share of every fee for its custom, double their charges. The lists tell her house exactly what every ship in the gulf carries, which is worth more than either.
 
-- Ghost ships have appeared with increasing frequency over the past months
-- Encounters are concentrated in the Gulf of Bataren but extending to coastal waters
-- Ships are described as old, in various states of decay, and crewed by pale translucent figures
-- Some sightings report specific ship names or markings (possibly historic vessels)
-- Survivors report feelings of dread, cold, and temporal distortion
-- The ghosts seem purposeful, not randomly violent (they search or communicate)
+**Why the masters keep silent.** The two ships that were searched were both carrying cargo they had not declared to the crown's officers. Their masters cannot describe the searchers without saying what the searchers found. Tordima's men took nothing from either ship. They left a copy of their list in each master's cabin.
 
-**NPCs:**
+**The Admiral.** [[affiliation-crownships|The crown's ships]] keep no station in the gulf. The Admiral, [[being-jaltezamlvt|Jalteza Malvotis]], has asked the Treasurer for a northern squadron for three years and been refused. Ghost ships in the gulf are the best argument she has had, and she is in no hurry to see them explained.
 
-- A merchant captain who survived an encounter
-- A maritime authority or harbormaster concerned about trade
-- A scholar of nautical history who recognizes some ship descriptions
-- A priest concerned about the undead and desecration
+**The countess.** [[being-kiramailthor|Kirama Iltoris]] wants the ghost ships ended before they become the next quarrel between the communities. The truth would end that quarrel at once, because the scheme is both communities' and neither's.
 
-## Stage Two: Research & Investigation
+> [!IMPORTANT]
+> Nobody is killed by the ghost ships, and the underwriter is a businesswoman. The scenario ends when the hulls are named, taken, bought off or left to the Admiral.
 
-The party must gather information about the ghost ships' identities and origins:
+## Hooks {#hooks}
 
-- Interview multiple survivors to gather detailed descriptions and patterns
-- Research maritime records to identify the ships (when they sailed, who captained them, what happened)
-- Consult historical archives: naval battles, shipwrecks, maritime disasters in the gulf
-- Investigate the locations and patterns of appearances (do they follow routes, circle areas, seek ports?)
-- Determine if there's a connection between the ships (same era, same fate, same crew)
-- Uncover if someone recently disturbed a graveyard, tomb, or wreck (triggering the haunting)
-- Check whether the [[affiliation-ordoarcanis|Thordimalon]] or a practitioner of dark magic is involved
+- **The leader.** Kirama Iltoris asks a party to find out whose the hulls are before the north quarter and the harbor quarter decide for themselves.
+- **The mercenary.** An Élavendren shipping house hires a party to ride as guards on a ship bound north, in case the ghost ships come.
+- **The thief.** A master who was searched pays a party to recover the list left in his cabin from wherever its copy is kept.
+- **The faith.** A priest of the harbor asks a party to learn whether the ghost ships are the dead of the old raids come back, because half his congregation believes it.
 
-**Complications:**
+## The Opening {#opening}
 
-- Survivors' accounts are contradictory or unreliable (fear, trauma, temporal confusion)
-- Historical records are incomplete or deliberately obscured
-- Someone actively prevents investigation (protecting a secret)
-- A party member becomes mysteriously drawn to the sea or affected by visions
-- Additional ghost ships appear, making investigation more urgent
+The fish quay at Bataren on a gray morning, the gulls loud over the gutting tables. A master off a timber ship sits on a bollard with a cup he has not drunk.
 
-## Stage Three: Encountering the Ghosts
+> "No lights, no colors, no names," he says. "They came alongside and looked at us, and went. I didn't see a face. Nobody saw a face."
 
-The party must eventually encounter the ghost ships directly, whether by:
+## Scenes {#scenes}
 
-- Setting out on a vessel to attract or find the ghosts
-- Investigating a wrecked or haunted ship that may hold clues
-- Following the ghosts to a meeting point or destination
-- Responding to a summons or vision
-- Discovering where the ghosts congregate when not wandering the gulf
+### Scene One: The Quays
 
-**The Encounter:**
+**Purpose.** Show the fear, the fees and the blame.
 
-- The ghost ships appear suddenly, manifesting from fog or mist
-- The party can observe, attempt communication, or prepare for combat
-- The ghosts' behavior is revealed: are they mindlessly violent, purposefully searching, or attempting to communicate?
-- One ghost may attempt to communicate, revealing fragments of their story
-- A specific ghost captain or leader may be identifiable
+**Situation.** [[place-batarencity|Bataren City]]'s waterfront: the fish market, the pilots' hall and the underwriters' rooms above the customs house. The Élavendren quays are in the north quarter, the Provénzian quays in the harbor quarter.
 
-## Stage Four: Uncovering the Truth
+**NPCs and threats.** Masters who have seen the hulls, and two who were searched and say nothing. The pilots, who charge double and say it is for the danger. Tordima Aurentis, who raises her rates with regret and offers the party a cup of wine.
 
-The party discovers the ghost ships' origin and nature:
+**Player choices.** Question the masters, ask the pilots who set the new fee, or ask the underwriters who pays when a ship is lost.
 
-**Possible Sources:**
+**Clues and rewards.** No ship has been lost and nothing has been taken. The pilots' new fee was set the week after the first sighting. Both searched masters carry the same underwriter's policy, and so does nearly everyone.
 
-Historical Tragedy
-: The ships sank in a disaster (storm, battle, sabotage) centuries or decades ago; something has awakened them
+**Consequences.** The party knows the ghost ships take nothing, which makes them a business.
 
-Unfinished Business
-: The crews died with a quest unfulfilled (lost cargo, betrayal, oath to complete, treasure to recover)
+**If bypassed.** A quarrel on the fish quay between Élavendren and Provénzian sailors turns into a fight, and the party meets the matter there.
 
-Deliberate Curse
-: Someone cursed the ships and crews, either recently or long ago, for a specific purpose
+### Scene Two: The Searched Ship
 
-Magical Accident
-: An arcane experiment or spell gone wrong awakened or created the ghost ships
+**Purpose.** Why the masters keep silent.
 
-Fae Entanglement
-: The ships are trapped between worlds due to fae manipulation or interference
+**Situation.** A searched ship at her moorings, her master in his cabin, the list his visitors left in a drawer.
 
-The Thordimalon Involvement
-: The organization deliberately created or summoned the ships to achieve a goal
+**NPCs and threats.** The master, who will say nothing that brings the crown's officers aboard. His mate, who will say a great deal for money.
 
-**What the Ghosts Seek:**
+**Player choices.** Promise the master silence, threaten him with the customs house, or pay the mate.
 
-- A specific location or object (sunken treasure, a lost artifact, another ship)
-- Revenge against those responsible for their deaths
-- To complete an oath or final task
-- To warn the living of an impending danger
-- To reclaim something stolen from them
-- To return to a specific location or person
+**Clues and rewards.** The list names every cask aboard, the undeclared ones too, in a clerk's tidy hand. The paper bears the mark of a Bataren stationer who supplies the underwriters' rooms.
 
-## Stage Five: Resolution
+**Consequences.** If the party brings the customs house aboard, every master in the gulf stops talking to it.
 
-The party must decide how to address the ghost ships. Options include:
+**If bypassed.** The party reaches the cove without knowing what the searches are for.
 
-**Negotiation:**
+### Scene Three: The Fog
 
-- Communicate with the ghost captain or crew leader
-- Offer to help them achieve their goal or fulfill their oath
-- Promise to complete an unfulfilled task or deliver a message
-- Seek their cooperation in exchange for assistance or closure
+**Purpose.** The ghost ships at sea.
 
-**Magical Resolution:**
+**Situation.** The gulf at dawn in fog, aboard a merchantman bound north or a hired boat. A hull with no lights comes out of the white.
 
-- Work with a priest or mage to perform rituals to lay the ghosts to rest
-- Banish or bind the ghosts through powerful magic
-- Cleanse the ships and break whatever curse holds them
-- Send them to a peaceful rest or final destination
+**NPCs and threats.** The hooded crew, who board with clubs, not blades, and want the cargo list. Their master, a Bataren man who knows every voice on the quays.
 
-**Combat:**
+**Player choices.** Let them search, fight them off, follow them home, or speak to their master.
 
-- Engage the ghost ships directly (naval combat, boarding, magical duels)
-- Defeat the ghost crews and destroy or disperse the ships
-- Confront the entity controlling the ghosts (if external control is revealed)
+**Clues and rewards.** The hull runs to a cove on the gulf's far shore. Her master, taken or followed, carries orders from a factor of Tordima's house and does not know whose money it is.
 
-**Restoration:**
+**Consequences.** A party that fights the boarding has a prisoner and an enemy. A party that follows them has the cove.
 
-- Recover the ships' sunken cargo or valuables
-- Ensure proper burial or memorial for the crews
-- Restore what was lost or complete the unfulfilled task
-- Return stolen items or deliver final messages
+**If bypassed.** The ship is searched, and the party's own cargo goes on a list.
 
-**The Final Challenge:**
+### Scene Four: The Underwriters' Rooms
 
-- A powerful manifestation or confrontation with the ghosts' leader
-- A battle on spectral seas where magic and combat merge
-- A choice that determines the ghosts' ultimate fate (peaceful rest or continued haunting)
-- Revelation of a larger conspiracy or threat connected to the ships
+**Purpose.** The woman behind the hulls, and who else wants to know.
 
-## Stage Five Aftermath & Consequences
+**Situation.** Tordima Aurentis's rooms above the customs house, with ledgers of every hull in the gulf. The Admiral's agent in the city is in the anteroom.
 
-**If the party succeeds:**
+**NPCs and threats.** [[being-trdmarnts|Tordima Aurentis]], who denies nothing she cannot see proof of and offers a share of anything else. Her Élavendren partner, who says the scheme was his idea. The Admiral's agent, who asks the party to let the matter rest until the Treasurer has read the Admiral's next letter.
 
-- The ghost ships are laid to rest; maritime traffic in the gulf normalizes
-- Survivors and merchants are grateful and provide rewards
-- The party may recover valuable cargo or treasure from the ships
-- Knowledge of what happened is preserved or revealed
-- One of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] or a local priesthood gains closure and reputation
+**Player choices.** Bring the proof to the countess, sell it to the Admiral's agent, accept Tordima's share, or tell the quays.
 
-**Complications:**
+**Clues and rewards.** The ledgers show the pilots' shares and the two names that hold the hulls. Kirama Iltoris, if told, can stop the quarrel between the quarters with one sitting of the harbor court.
 
-- Not all ghosts are appeased; some may continue to haunt specific locations
-- The party may be bound by oath to fulfill the ghosts' final wishes
-- The ghost ships' origins reveal larger historical or political secrets
-- If the Thordimalon was involved, they may seek to continue their work or eliminate the party
+**Consequences.** Told to the quays, the truth ends the blame between the communities and ruins Tordima. Kept for the Admiral, it buys a northern squadron and keeps the gulf afraid until the ships come.
 
-**If the party fails:**
+**If bypassed.** The Admiral's letter reaches Jalnasdal with the ghost ships in it.
 
-- The ghost ships continue to haunt the gulf, disrupting trade and travel
-- The haunting may intensify or spread to other coastal areas
-- The party may be haunted themselves or marked by the spectral phenomenon
-- Those responsible for the initial curse or awakening consolidate their goals
+## If the Party Does Nothing {#if-the-party-does-nothing}
 
-## See Also
+The hulls sail through the autumn. Premiums rise again, a timber house fails, and the harbor quarter blames the north quarter for its ruin. The Admiral gets her squadron in the spring, and its first act is to take two old coasting hulls in a cove, crewed by Bataren men who will not say who paid them. By then nobody in the city believes it was not the other community.
 
-- [[place-provenzrgn|Provénzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
-- [[affiliation-arldnpnthn|Aureldian]]
-- [[affiliation-ordoarcanis|Thordimalon]]
-- [[affiliation-vylarinmpr|Vilérian Empire]]
+## Aftermath {#aftermath}
+
+A party that named the underwriter has given the countess a quarrel she could stop and the quays a story both communities can laugh at together. Tordima Aurentis is ruined or reduced, and her lists of who carries what undeclared are worth a fortune to whoever holds them. A party that served the Admiral has helped put crown ships in the gulf, which the Élavendren of Bataren may not welcome, and which [[affiliation-kngdmlvndr|Élavendre]] may notice.
+
+## See Also {#see-also}
+
+[[place-batarengulf|Gulf of Bataren]]
+: the water the hulls sail
+
+[[place-batarencity|Bataren City]]
+: the port and its two quarters
+
+[[scenario-slntwrbtrn|The Silent War in Bataren]]
+: the city's other quarrel between its communities

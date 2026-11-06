@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A mixed manor of the Zuravlen valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."
 tags: [village, river]
-data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 240, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [zuravlenrgn]
+  population: 240
+  government: brnyzrvln
+  packFolder: provenzia
 ---
 
 **Blavera** lies on the flat ground where the [Zuravlen river]{.name data-type="place/feature"} slows, and grows wheat, barley, beans and
@@ -40,3 +46,7 @@ and the fold.
 When frost takes the blossom, Palnebris borrows and Blavera eats. In such years grain prices in the
 barony rise sharply and Blavera's lord becomes, briefly and unaccustomedly, an important man—a
 reversal that has caused more trouble in Zuravlen's history than any outside enemy.
+
+## The Quarrel {#present}
+
+The dung is the quarrel this year. Blavera's surplus has always gone up the valley to whichever orchard paid, and this autumn [[place-palnebris|Palnebris]], short of folding from [[place-estivren|Estivren]], has offered more for it than any manor has paid before. The tenants who keep the fold want the price shared; the bailiff says the surplus is the lord's, and the court baron sits after the fair with the question on its roll.

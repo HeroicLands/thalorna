@@ -7134,6 +7134,7 @@ data:
         - "Neltava"
         - "Uzmela"
         - "Jalteza"
+        - "Ormela"
       male:
         - "Solmere"
         - "Revote"
@@ -7150,7 +7151,7 @@ data:
         - "Aiteve"
         - "Dirave"
         - "Satere"
-        - "Lordeme"
+        - "Dolvere"
         - "Aurente"
         - "Chalzime"
         - "Bruteve"
@@ -7170,6 +7171,7 @@ data:
         - "Lorrame"
         - "Taroze"
         - "Selvare"
+        - "Velire"
     clan:
       - "Revotandis"
       - "Zedimis"
@@ -7220,6 +7222,7 @@ data:
     - {name: Válaren, tongue: provenzal}
     - {name: Hárivren, tongue: provenzal}
     - {name: Bataren, tongue: provenzal}
+    - {name: Volchetarla, tongue: provenzal}
     - {name: Élavendri, tongue: provenzal}
     - {name: Zafal, tongue: provenzal}
     - {name: Branval, tongue: provenzal}
@@ -7237,9 +7240,6 @@ data:
     - {name: Jarlen, tongue: provenzal}
     - {name: Kórisvar, tongue: other:elavendri}
     - {name: Tuleme Serdalis, tongue: provenzal}
-    - {name: Councilor Tuleme Serdalis, tongue: translation}
-    - {name: Merchant Councilor Tuleme Serdalis, tongue: translation}
-    - {name: Merchant Councilor Tuleme, tongue: translation}
     - {name: Kalzote Gainessis, tongue: provenzal}
     - {name: Captain Kalzote, tongue: translation}
     - {name: Arisla Kórisvar, tongue: provenzal}
@@ -7454,8 +7454,177 @@ data:
     - {name: Merchant-Prince Chalzime Cholsamis, tongue: translation}
     - {name: Kirama Iltoris, tongue: provenzal}
     - {name: Countess Kirama Iltoris, tongue: translation}
-    - {name: Lordeme Kórisvar, tongue: provenzal}
-    - {name: Lord Lordeme Kórisvar, tongue: translation}
+    - {name: Dolvere Kórisvar, tongue: provenzal}
+    - {name: Lord Dolvere Kórisvar, tongue: translation}
+    - {name: House Lédravren, tongue: translation}
+    - {name: The Lédravren, tongue: provenzal}
+    - {name: The Royal House, tongue: translation}
+    - {name: Put Out of the House, tongue: translation}
+    - {name: Of the Household, tongue: translation}
+    - {name: Of the Blood, tongue: translation}
+    - {name: Head of House Lédravren, tongue: translation}
+    - {name: Head of the Gefavel Branch, tongue: translation}
+    - {name: The Pélanvri, tongue: provenzal}
+    - {name: House Pélanvri, tongue: translation}
+    - {name: Client of the House, tongue: translation}
+    - {name: Of the House, tongue: translation}
+    - {name: Head of the Pélanvri, tongue: translation}
+    - {name: House Kórisvar, tongue: translation}
+    - {name: The Kórisvars, tongue: translation}
+    - {name: Of the Cadet Lines, tongue: translation}
+    - {name: Of the Main Line, tongue: translation}
+    - {name: Head of House Kórisvar, tongue: translation}
+    - {name: Order of the Burning Brand, tongue: translation}
+    - {name: The Burning Brand, tongue: translation}
+    - {name: The Brand, tongue: translation}
+    - {name: Put Out of the Order, tongue: translation}
+    - {name: Sworn Friend, tongue: translation}
+    - {name: Knight of the Brand, tongue: translation}
+    - {name: Master of the Brand, tongue: translation}
+    - {name: The Master of the Brand, tongue: translation}
+    - {name: Ormela Zuravel, tongue: provenzal}
+    - {name: The Crown's Ships, tongue: translation}
+    - {name: The Navy of Provénzia, tongue: translation}
+    - {name: The Admiral's Ships, tongue: translation}
+    - {name: Struck from the Rolls, tongue: translation}
+    - {name: Seaman, tongue: translation}
+    - {name: Master, tongue: translation}
+    - {name: Courtly Love, tongue: translation}
+    - {name: The Code, tongue: translation}
+    - {name: The Court of Love, tongue: translation}
+    - {name: Ruins above Lizela, tongue: translation}
+    - {name: The Old Walls, tongue: translation}
+    - {name: Kralen Lédravren, tongue: provenzal}
+    - {name: Itrola Lédravren, tongue: provenzal}
+    - {name: Velzore Aitevis, tongue: provenzal}
+    - {name: Rutal Pélanvri, tongue: provenzal}
+    - {name: Jarvel al Pélanvri na Torvila Keravel, tongue: provenzal}
+    - {name: Avaarl Zilavren, tongue: provenzal}
+    - {name: Selvare Zuravel, tongue: provenzal}
+    - {name: Gredale Kalvezis, tongue: provenzal}
+    - {name: Neltava Olnaris, tongue: provenzal}
+    - {name: Solkime Revotandis, tongue: provenzal}
+    - {name: Jalteza Malvotis, tongue: provenzal}
+    - {name: Talvene Komrelis, tongue: provenzal}
+    - {name: Dilmara Volchemis, tongue: provenzal}
+    - {name: King Kralen, tongue: translation}
+    - {name: The Princess of Gefavel, tongue: translation}
+    - {name: Princess Itrola, tongue: translation}
+    - {name: The Count of Atavel, tongue: translation}
+    - {name: Count Velzore, tongue: translation}
+    - {name: The Earl of Degavel, tongue: translation}
+    - {name: Earl Rutal, tongue: translation}
+    - {name: The Marshal of the Western Army, tongue: translation}
+    - {name: Marshal Jarvel, tongue: translation}
+    - {name: The Earl of Hárivren, tongue: translation}
+    - {name: Earl Avaarl, tongue: translation}
+    - {name: The Baron of Zuravlen, tongue: translation}
+    - {name: Baron Selvare, tongue: translation}
+    - {name: The Treasurer, tongue: translation}
+    - {name: The Chamberlain, tongue: translation}
+    - {name: The Justiciar, tongue: translation}
+    - {name: The Admiral, tongue: translation}
+    - {name: The Warden of the Talote, tongue: translation}
+    - {name: The Justice of the Winter Assize, tongue: translation}
+    - {name: Council of Peers, tongue: translation}
+    - {name: The Peers, tongue: translation}
+    - {name: Winter Assize, tongue: translation}
+    - {name: The Assize, tongue: translation}
+    - {name: Charter of Rights, tongue: translation}
+    - {name: The Charter, tongue: translation}
+    - {name: The Reign of Vélarik III, tongue: translation}
+    - {name: Marshal of the Western Army, tongue: translation}
+    - {name: Warden of the Talote, tongue: translation}
+    - {name: First Peer, tongue: translation}
+    - {name: Peer, tongue: translation}
+    - {name: Justice of the Winter Assize, tongue: translation}
+    - {name: Suitor, tongue: translation}
+    - {name: Officer of the Assize, tongue: translation}
+    - {name: Unsummoned, tongue: translation}
+    - {name: Outlawed, tongue: translation}
+    - {name: Baron, tongue: translation}
+    - {name: Earl, tongue: translation}
+    - {name: Melvare Elvanis, tongue: provenzal}
+    - {name: Count Melvare, tongue: translation}
+    - {name: The Count of Ravenshold, tongue: translation}
+    - {name: Chezile Tolmaris, tongue: provenzal}
+    - {name: The First Speaker, tongue: translation}
+    - {name: First Speaker, tongue: translation}
+    - {name: Master of the Stage, tongue: translation}
+    - {name: Mistress of the Patrons, tongue: translation}
+    - {name: Keeper of the Repertoire, tongue: translation}
+    - {name: Convocation of Companies, tongue: translation}
+    - {name: Jalzemis, tongue: provenzal}
+    - {name: The Moon, tongue: translation}
+    - {name: Jentamis, tongue: provenzal}
+    - {name: The Faces, tongue: translation}
+    - {name: Dirave al Kaldremis, tongue: provenzal}
+    - {name: Dirave, tongue: provenzal}
+    - {name: Brazema Zedimis, tongue: provenzal}
+    - {name: Palveze Gredalis, tongue: provenzal}
+    - {name: Kolmete, tongue: provenzal}
+    - {name: Bruteve Jarlen, tongue: provenzal}
+    - {name: Tolmara, tongue: provenzal}
+    - {name: Gaimele, tongue: provenzal}
+    - {name: Tennairsa, tongue: provenzal}
+    - {name: Ulmera, tongue: provenzal}
+    - {name: Dumvaral, tongue: provenzal}
+    - {name: Tarlas al Pélanvri na Belsaren, tongue: provenzal}
+    - {name: Kilan Ilovrel na Ilovren, tongue: provenzal}
+    - {name: Kaldin al Lénavel na Leravren, tongue: provenzal}
+    - {name: Darisen al Olrun, tongue: provenzal}
+    - {name: Satere Torvilis, tongue: provenzal}
+    - {name: Revota Kiramis, tongue: provenzal}
+    - {name: Velire, tongue: provenzal, built: [velira]}
+    - {name: Orneta Sateris, tongue: provenzal}
+    - {name: Velire Talotis, tongue: provenzal}
+    - {name: Zedime Diravis, tongue: provenzal}
+    - {name: Taroze Torvilis, tongue: provenzal}
+    - {name: Jentize Gaimelis, tongue: provenzal}
+    - {name: Tordima Aurentis, tongue: provenzal}
+    - {name: Ortema Kiramis, tongue: provenzal}
+    - {name: Tolveze Melvarandis, tongue: provenzal}
+    - {name: Solmere Gredalis, tongue: provenzal}
+    - {name: Palveze Ornetis, tongue: provenzal}
+    - {name: Lauvina Solkimis, tongue: provenzal}
+    - {name: Tarlema Zedimis, tongue: provenzal}
+    - {name: Lorrame Tulemis, tongue: provenzal}
+    - {name: Olzate Brazemis, tongue: provenzal}
+    - {name: Hethran Orsel, tongue: other:elavendri}
+    - {name: Tremuzel, tongue: provenzal}
+    - {name: Iltera Gaimelis, tongue: provenzal}
+    - {name: The Reeve of Tremuzel, tongue: translation}
+    - {name: Lénavel, tongue: provenzal}
+    - {name: The Lord of Leravren, tongue: translation}
+    - {name: Lord Kaldin, tongue: translation}
+    - {name: Torvila Atavel, tongue: provenzal}
+    - {name: Atavel Castle, tongue: translation}
+    - {name: Torvila Degavel, tongue: provenzal}
+    - {name: Degavel Castle, tongue: translation}
+    - {name: Torvila Gefavel, tongue: provenzal}
+    - {name: Gefavel Castle, tongue: translation}
+    - {name: Ravenshold Castle, tongue: translation}
+    - {name: Academy of Philosophy and Rhetoric, tongue: translation}
+    - {name: The Academy of Rhetoric, tongue: translation}
+    - {name: Academy of Law, tongue: translation}
+    - {name: The Law Academy, tongue: translation}
+    - {name: Academy of Medicine and Manuscripts, tongue: translation}
+    - {name: The Academy of Medicine, tongue: translation}
+    - {name: Sent Down, tongue: translation}
+    - {name: Student, tongue: translation}
+    - {name: Reader, tongue: translation}
+    - {name: Advocate, tongue: translation}
+    - {name: Master of Law, tongue: translation}
+    - {name: Licentiate, tongue: translation}
+    - {name: Rector, tongue: translation}
+    - {name: Nelameza Sateris, tongue: provenzal}
+    - {name: The Rector of Rhetoric, tongue: translation}
+    - {name: Kolmete Gredalis, tongue: provenzal}
+    - {name: The Rector of Law, tongue: translation}
+    - {name: Cholsama Tulemis, tongue: provenzal}
+    - {name: The Rector of Medicine, tongue: translation}
+    - {name: Torvila Leravren, tongue: provenzal}
+    - {name: Leravren Castle, tongue: translation}
   retired:
     - form: Provenzia
       instead: Provénzia
@@ -7466,6 +7635,12 @@ data:
     - form: Provenzians
       instead: Provénzians
       why: "respelled with the stress acute, so the stress falls on ven as Pronouncing Thalorna reads it"
+    - form: Zylavren
+      instead: Zilavren
+      why: "respelled so that y stands only before a vowel or closes a glide, as Pronouncing Thalorna reads it"
+    - form: Ylarven
+      instead: Ilarven
+      why: "respelled so that y stands only before a vowel or closes a glide, as Pronouncing Thalorna reads it"
     - form: Belpòrte
       instead: Kalveza
       why: "a name built of words of an Earth tongue, for the fair gate"
@@ -7508,6 +7683,9 @@ data:
     - form: Giochi Grandi
       instead: Lordeme
       why: "a name built of words of an Earth tongue, for the great festival"
+    - form: Lordeme Kórisvar
+      instead: Dolvere Kórisvar
+      why: "a person given the name of Hárivren's festival, which keeps it"
     - {form: Óskar, instead: Ordan, why: an Earth personal name}
     - {form: Ándren, instead: Adrel, why: an Earth personal name}
     - {form: Márek, instead: Soren, why: an Earth personal name}
@@ -7580,6 +7758,22 @@ data:
     - {form: treëme, instead: treeme, why: "respelled without the diaeresis"}
     - {form: kordutreëma, instead: kordutreema, why: "respelled without the diaeresis"}
     - {form: Helonic, instead: Helonik, why: respelled to Pronouncing Thalorna}
+    - form: Thárion al Dracaen
+      instead: Dirave al Kaldremis
+      why: "a name written with th, which Provenzal lacks, and with the hiatus ae"
+    - {form: Thárion, instead: Dirave, why: "a name written with th, which Provenzal lacks"}
+    - form: Léonardo Castiranni
+      instead: Chezile Tolmaris
+      why: "a name shaped on an Earth tongue"
+    - form: Teatro della Luna
+      instead: Jalzemis
+      why: "a name built of words of an Earth tongue, for the theater of the moon"
+    - form: Compagnia delle Maschere
+      instead: Jentamis
+      why: "a name built of words of an Earth tongue, for the company of the masks"
+    - form: Meridiane
+      instead: Korvatis
+      why: "a name built of a word of an Earth tongue, for the south"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7761,7 +7955,7 @@ Unlike Vilari's imperial standardization, Provenzal evolved through artistic and
 
 **Montanhe (Mountain Interior):** Spoken in inland regions such as [[place-palvothe|Palvote]] and smaller highland towns. Preserves archaic vowel patterns and shows greater Élavendri influence. More nasal vowels and different stress patterns than coastal speech.
 
-**Parlage dou Port (Port Dialect):** A pidgin-like simplification used between multilingual merchants, showing greatest mixture of Vilari and Élavendri elements. Technically a register rather than a dialect.
+**Volchetarla (the harbor tongue):** A pidgin-like simplification used between multilingual merchants, showing greatest mixture of Vilari and Élavendri elements. Technically a register rather than a dialect.
 
 ## Sample Phrases
 
@@ -7800,7 +7994,7 @@ The tradition of "love names" is widespread: a person might grant an intimate fr
 
 #### Male Names
 
-Solmere, Revote, Zedime, Orteme, Malvote, Talote, Kirame, Melvare, Tuleme, Solkime, Elvane, Iltore, Aiteve, Dirave, Satere, Lordeme, Aurente, Chalzime, Bruteve, Kolmete, Tolveze, Karalze, Olzate, Kalzote, Gredale, Gaimele, Talvene, Velzore, Jentize, Lentize, Palveze, Chezile, Lorrame, Taroze, Selvare
+Solmere, Revote, Zedime, Orteme, Malvote, Talote, Kirame, Melvare, Tuleme, Solkime, Elvane, Iltore, Aiteve, Dirave, Satere, Dolvere, Aurente, Chalzime, Bruteve, Kolmete, Tolveze, Karalze, Olzate, Kalzote, Gredale, Gaimele, Talvene, Velzore, Jentize, Lentize, Palveze, Chezile, Lorrame, Taroze, Selvare, Velire
 
 #### Female Names
 
@@ -7935,9 +8129,9 @@ Provénzians keep the gods' festivals and endow their temples, and a wealthy man
 
 ### Learning and the academies
 
-Education is valued in Provénzia and the valuing is sincere, and the academy words came in twice: once inherited, once borrowed back from the empire's University. _Marendis_ is wisdom and _marendal_ a school, the native forms. The academies at the great cities use the learned _marendalo_ and _zetmarendalo_, the University, and a family that can afford it puts a son through one whatever he means to do afterward.
+Education is valued in Provénzia and the valuing is sincere, and the academy words came in twice: once inherited, once borrowed back from the empire's University. _Marendis_ is wisdom and _marendal_ a school, the native forms. The three academies of Aurelane call themselves by the learned _marendalo_, and the empire's University is _zetmarendalo_. A family that can afford it puts a son through one of the academies whatever he means to do afterward.
 
-Magic is taught there too. The word is _tordima_, and it names the art as the fey-touched north practices it as well as the art taught in the academies.
+Magic is taught by the Thordimalon, not in the academies. The word is _tordima_, and it names the art as the fey-touched north practices it as well as the art the Thordimalon teaches.
 
 ### The house, kin and the name
 

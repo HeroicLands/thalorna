@@ -72,7 +72,7 @@ By the second morning the levy broke. The host took the road, and then found it 
 
 ## The Quarrel
 
-The raid was the first of a long run of them, and the border families on both sides took it as the beginning of a war that nobody declared. It has a calendar, because the passes close; the hosts come when the snow clears and go when it returns. It has no end, because neither crown can afford to be the one that stops. The [Winter Assize]{.name data-type="affiliation/governmental"} that sits at [[place-durvalis|Durvalis]] hears the quarrels of the families who took it up.
+The raid was the first of a long run of them, and the border families on both sides took it as the beginning of a war that nobody declared. It has a calendar, because the passes close; the hosts come when the snow clears and go when it returns. It has no end, because neither crown can afford to be the one that stops. The [[affiliation-wntrassize|Winter Assize]] that sits at [[place-durvalis|Durvalis]] hears the quarrels of the families who took it up.
 
 ## What It Left
 

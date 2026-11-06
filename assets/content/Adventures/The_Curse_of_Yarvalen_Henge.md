@@ -3,169 +3,138 @@ shortcode: crsyhrvlnhng
 name: {full: The Curse of Yarvalen Henge}
 type: scenario
 subType: adventure
-tags: [draft]
+description: "The withering at Yarvalen is spreading because a respected chandler of Bataren leads the Black Flame's working at the broken henge every new moon, and the Sacred Forge wants him caught by witnesses who are not its own, so that the charge can be carried up to a Flame earl nobody can touch."
+tags: []
 data:
   parents: []
-  locations: [provenzrgn]
-  cast: []
-  factions: []
+  locations: [yharvalenhenge, bldfldyharvalen, batarencity]
+  cast: [jntzgmls, trztrvls, kiramailthor, avaarlzlvrn]
+  factions: [blackflame, sacredforge, selmoros, aelndntrbs, erldmhrvrn, kngdmprvnz]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-## The Curse of Yarvalen Henge
+## Overview {#overview}
 
-[[place-yharvalenhenge|Yarvalen Henge]], a megalithic monument destroyed during [[lore-southrnfleets|the Southern Fleets]] (the Nordheim raids), has become a place of blood and death. A dark cult has awakened its curse, and the surrounding lands are dying. The party must uncover the cult's purposes and stop them before the blight spreads beyond the bloodfields.
+The [[place-bldfldyharvalen|Blood-field of Yarvalen]] is the worst of Provénzia's [[lore-bloodfields|blood-fields]], a withering made when the Nordheim fleets threw down [[place-yharvalenhenge|Yarvalen Henge]] about 520 AF. It lay quiet for two centuries. Now it is awake, and the harm spreads outward from the broken stones every season: crops fail, beasts sicken and the soil sours. The farms nearest it are being given up, and the families who leave them walk to [[place-batarencity|Bataren City]] with nothing to sell.
 
-### Overview
+[[affiliation-sacredforge|The Sacred Forge]] says from every pulpit in the north that the cult of [[affiliation-blackflame|the Black Flame]] is rousing the field on purpose. Nobody with authority believes the Forge, which is an interested party, and the most senior Flame lord in the kingdom is [[being-avaarlzlvrn|Avaarl Zilavren]], Earl of Hárivren, whom nobody can touch. The [[affiliation-aelndntrbs|Áelendan]] watch the broken henge from the mountains.
 
-In the far north of the [[place-provenzrgn|Provénzia Region]], in [[place-sathvothe|Satvote]], on the low coast running inland from the [[place-batarengulf|Gulf of Bataren]] where the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]'s raiders came ashore, stands Yarvalen Henge—or what remains of it. Once a sacred site of pre-Aureldían traditions, the megalithic circle was destroyed approximately 200 years ago during the Nordheim raids that swept through northern Provénzia. The land around the henge became known as the [[place-bldfldyharvalen|Blood-field of Yarvalen]], cursed and dying. For centuries, it lay dormant and avoided. Now, something has awakened the curse, and the lands surrounding the henge are withering. Crops fail, animals die, people sicken, and the very soil seems poisoned. Investigation reveals that a cult the [[affiliation-blackflame|Cult of the Black Flame]] has been deliberately awakening and magnifying the curse, drawing power from the destruction and death.
+The party enters as the Forge's witnesses, as the countess's hands, or as friends of a family off the dying farms. [[being-trztrvls|Taroze Torvilis]], the Forge's preacher at Bataren, knows who leads the working and cannot prove it.
 
-### Stage One: The Blight Discovered
+## What Is Really Happening {#what-is-really-happening}
 
-The party becomes aware of the curse through:
+**The working.** The Forge is right. [[being-jntzgmls|Jentize Gaimelis]], a chandler of Bataren who gives candles to the families off the farms and is thanked for it in every lane of the north quarter, is a priest of the Black Flame and leads its congregation in the north, a dozen households who keep the faith in their cellars. On the night of each new moon they walk out to the broken henge and burn at the fallen stones. A blood-field is a reservoir of exactly what their faith holds sacred, and the dying of the country around it is not a side effect of their working. It is the working.
 
-- Traveling through northern Provénzia and witnessing the blighted lands
-- Being hired by a desperate lord or bishop to investigate the dying lands
-- Encountering refugees fleeing the blighted region
-- Finding villages at the curse's edge experiencing sickness and desperation
-- Discovering evidence of deliberate ritual activity at the henge
+**What stopping it does.** Ending the burnings ends the spreading. It does not heal the field, which is a withering whatever is done at the stones. Settling it is another matter: the priests of [[affiliation-selmoros|Sélmoros]] have never attempted the rite of settlement on a withering, and nobody knows what the rite would do there.
 
-**Initial Information:**
+**The Forge.** Taroze Torvilis has a defector, a girl of one of the congregation's households who came to his door in the winter frightened of what her father does at the new moon. Her word is a girl's word against a chandler's, given to the Forge. Taroze needs the working seen by witnesses who are not his, and he needs it more than he says. His bishops have petitioned the crown to take the western march from the Flame earl, the petition lies before the [[affiliation-councilpeers|Council of Peers]], and a Flame working caught in the act at Yarvalen is the evidence the petition lacks.
 
-- The blight has been spreading slowly over the past year
-- Affected lands suffer crop failure, animal death, and human sickness
-- The curse seems focused on the area around Yarvalen Henge
-- Local people remember old stories of the henge's destruction and the curse that followed
-- Some blame a returning [[affiliation-kngdmnrdhm|Nordheim curse]]; others suspect dark magic
-- Ancient records mention pre-Aureldían traditions and forces bound to the henge
-- The [[affiliation-ordoarcanis|Thordimalon]] has shown unusual interest in the region
+**The Earl.** Jentize names Avaarl Zilavren in his sermons as the faith's great patron. Nothing in his house, his papers or his congregation's mouths shows that the Earl has ever heard of him. Whether the Earl knows is the referee's to settle, and the scenario works either way: the Forge will carry any proof against Jentize up to Hárivren whether or not it leads there.
 
-**NPCs:**
+**The Áelendan.** The tribes involve themselves the moment a sacred site is disturbed, and a circle of the First Gods thrown down and now feeding a working is exactly that. They have not yet come down. If they come down over the henge before the crown acts, they come for the congregation and ask nobody's leave.
 
-- A desperate lord or bishop seeking a solution
-- A village elder with memory of older stories
-- A survivor or witness to the cult's activities
-- A scholar studying the henge's history
-- A mysterious figure connected to the cult of the Black Flame
+> [!IMPORTANT]
+> The chandler is guilty and his congregation are frightened people who believe him. The scenario ends when the burnings stop, by whatever hand, or when the Áelendan come down.
 
-### Stage Two: Investigation & the Cult Revealed
+## Hooks {#hooks}
 
-The party investigates the blight's source and discovers the cult of the Black Flame:
+- **The leader.** [[being-kiramailthor|Kirama Iltoris]], the young countess of Bataren, has the dying farms' families in her streets. She asks a party to learn whether the Forge's charge is true without putting her name to the Forge's petition.
+- **The faith.** Taroze Torvilis asks a party to come out to the henge on the next new moon and see for itself.
+- **The wanderer.** A farm family on the road to Bataren asks a party to help them carry their goods, and the father says the lights at the stones come once a month.
+- **The thief.** A man in the north quarter pays a party to break into a chandler's cellar and bring out a book, and does not say that he is the defector's father.
 
-**Research Reveals:**
+## The Opening {#opening}
 
-- The cult follows the creed of the Black Flame—destruction and blood sacrifice
-- The cult has grown in secret within Provénzia over decades, hidden among the legitimate Ústaran congregations of [[affiliation-sacredforge|the Sacred Forge]]
-- Members include renegade priests, disgraced nobles, and mercenaries drawn to its promise of power through destruction
-- The cult's goal appears to be awakening and expanding the curse as a prelude to larger plans
-- They perform dark rituals at the henge, drawing power from the blood-field to fuel their corrupted fire-magic
+An abandoned farm a mile from the henge. The barley stands gray in the field, the dog has gone wild, and the well smells of old eggs. On the doorpost somebody has burned a sign of the Forge with a hot iron.
 
-**Physical Evidence:**
+> "We left at the last new moon," says the woman loading the cart. "You could see the fire at the stones from the yard, and in the morning the hens were dead."
 
-- Ritual sites established near the henge
-- Symbols of the Black Flame carved into standing stones
-- Remains of sacrifices (animal and possibly human)
-- Written records of the cult's meetings and goals
-- A captured cult member or defector with information
+## Scenes {#scenes}
 
-**Possible Motives:**
+### Scene One: The Edge of the Withering
 
-- Creating a nexus of dark power in Provénzia
-- Weakening the kingdom to seize power from within
-- Drawing power from destruction and death to fuel what they regard as the influence of [[lore-ustarondty|Ústaron]], the fire-god of their corrupted faith
-- Preparing for a larger ritual or summoning
-- Some members may have foreign connections—Nordheim raiders, [[affiliation-vylarinmpr|Vilérian agents]], or the Thordimalon—but the cult's roots are Provénzian
+**Purpose.** Show the harm and its calendar.
 
-**Complications:**
+**Situation.** The low country inland of the [[place-batarengulf|Gulf of Bataren]], a day's march from the sea. Abandoned farms, a road of carts going east, and on the skyline the broken stones of the henge.
 
-- The cult has members in positions of authority (nobles, priests, merchants)
-- The party is recognized as a threat and becomes a target for assassination or sabotage
-- The Thordimalon may be investigating the site for their own purposes (cooperation or conflict)
-- The blight spreads faster as the cult accelerates their ritual schedule
-- A party member is revealed to have a connection to or be compromised by the cult
+**NPCs and threats.** Families on the road. A farmer who will not leave and is sick. The sour ground itself, which sickens a beast that grazes it and a person who sleeps on it.
 
-### Stage Three: The Blood-Field
+**Player choices.** Go out to the stones by day, question the families, or mark how far the harm has spread since the last new moon.
 
-The party approaches Yarvalen Henge and enters the cursed land:
+**Clues and rewards.** The farms nearest the henge were given up one after another, a month apart, each the morning after a new moon. Charred wax lies at the foot of the fallen stones, of the kind a chandler pours.
 
-**Environmental Hazards:**
+**Consequences.** The party knows when to come back.
 
-- The blight physically manifests: poisoned ground, sickly plants, dead or mutated animals
-- Unnatural weather: perpetual fog, blood-red sunsets, unnatural cold
-- Time and reality feel distorted; travel is disorienting
-- The air carries disease; extended exposure causes sickness and weakness
-- Manifestations of the curse: visions, whispers, tortured spirits
+**If bypassed.** Taroze tells the party the calendar himself, and the party has only his word for it.
 
-**Encounters:**
+### Scene Two: Two Houses in Bataren
 
-- Cult members performing rituals or maintaining the curse
-- Manifestations of the curse itself: twisted creatures, spectral soldiers from the ancient destruction
-- The remnants of those slain in the Nordheim raids (restless spirits, undead)
-- Cult guardian constructs or summoned entities
-- A rival faction or the Thordimalon investigating the site
+**Purpose.** The preacher and the chandler.
 
-### Stage Four: Confronting the Cult
+**Situation.** [[place-batarencity|Bataren City]]. The Forge's chapel by the fish market, where Taroze preaches against the Flame every morning to a congregation of the families off the farms. Jentize Gaimelis's shop in the north quarter, warm and smelling of tallow, with a cellar below it.
 
-The party must locate and stop the Black Flame cult's activities:
+**NPCs and threats.** [[being-trztrvls|Taroze Torvilis]], hot and certain. The defector, kept in a room behind the chapel. [[being-jntzgmls|Jentize Gaimelis]], kindly, who gives the party a candle each and asks where they are lodging. The crown's officers, who want no trouble from either house.
 
-**Possible Confrontations:**
+**Player choices.** Hear the defector, visit the chandler, search the cellar, or watch who goes in and out of the shop before the new moon.
 
-- The cult's primary ritual site at or near Yarvalen Henge itself
-- The cult leader or high priest performing dark rites
-- Multiple cult cells operating simultaneously across the region
-- A summoning or manifestation of a dark entity or demonic power
+**Clues and rewards.** The defector names the households and the night. The cellar holds a black-wicked candle for each household and a book of the faith's observances. A watcher sees a dozen people leave the north gate at dusk on the eve of the new moon.
 
-**Combat/Challenges:**
+**Consequences.** If the party searches the cellar and is seen, Jentize moves the working a night early. If it tells the crown's officers, they tell Jentize's neighbors, and the whole quarter knows by morning.
 
-- Direct combat with cult members and their guardians
-- Magical duels with cult sorcerers or ritualists
-- Disruption of ongoing rituals
-- Destruction of cult artifacts or ritual foci
-- Confrontation with a summoned entity or manifestation
+**If bypassed.** The party goes out to the henge on the new moon with no names and finds the congregation there.
 
-**Breaking the Curse:** The party must decide how to stop the curse:
+### Scene Three: The New Moon at the Henge
 
-- Destroy the cult and cease their rituals, weakening the curse naturally
-- Perform counter-rituals using Aureldian magic or other power
-- Negotiate with or banish the entity or force empowering the curse
-- Restore sanctity or peace to the blood-field through cleansing and memorial
-- Seal or bind the curse, preventing further awakening
+**Purpose.** The working, seen.
 
-### Stage Five: Aftermath & Consequences
+**Situation.** [[place-yharvalenhenge|Yarvalen Henge]] at midnight under no moon. The fallen stones in a broken ring, the black candles set on them, a fire in the middle where the circle's heart stood. The ground is cold and smells of rot.
 
-**If the party succeeds:**
+**NPCs and threats.** Jentize and his congregation, a dozen men and women with hoods and no weapons worth the name. The field itself, which is strongest on this night: a person who stands in the ring feels the warmth go out of their hands and their courage go with it. On the ridge above, the Áelendan, who are watching too.
 
-- The cult is destroyed or driven from Provénzia
-- The curse stabilizes and begins to fade
-- The blight-lands begin to recover (slowly)
-- The affected peoples are grateful and recover hope
-- The party gains renown as defenders of Provénzia
-- The corrupted Ústaran cult is exposed, raising questions about what darkness hides within the Aureldian faiths
+**Player choices.** Watch and withdraw with what they saw, break up the working, seize Jentize, or speak to the congregation.
 
-**Complications:**
+**Clues and rewards.** Jentize's sermon at the fire names Avaarl Zilavren as the faith's patron. A congregant who is spoken to kindly drops her candle and runs.
 
-- Some cult members escape and seek revenge
-- The curse's effects linger for years; complete recovery takes time
-- Surviving cult members may seek refuge with foreign powers sympathetic to their cause
-- The Thordimalon may attempt to monopolize knowledge of the site or claim authority over the remaining curse
-- If the party failed to uncover all cult cells, the group may continue their work elsewhere
-- The party may be drawn into larger conflicts over arcane power and religious corruption in Provénzia
+**Consequences.** A working broken up does not come again while Jentize is free. A working seen and not stopped goes on until somebody acts on what was seen.
 
-**If the party fails:**
+**If bypassed.** The fire burns till dawn, and the next farm east is given up in the morning.
 
-- The curse continues to spread; the blood-lands expand
-- The Black Flame cult consolidates power and begins major ritual work
-- The blight may eventually threaten major Provénzian cities
-- Foreign powers may take advantage of the chaos
-- The party is hunted by the cult or blamed for the failure
-- A larger dark entity may be summoned or awakened
+### Scene Four: Whose Hands
 
-### See Also
+**Purpose.** What the party does with the truth.
 
-- [[place-provenzrgn|Provénzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
-- [[affiliation-arldnpnthn|Aureldian]]
-- [[affiliation-ordoarcanis|Thordimalon]]
+**Situation.** Bataren again, with Jentize held, fled or untouched. Every interested party wants what the party knows.
+
+**NPCs and threats.** [[being-kiramailthor|Kirama Iltoris]], who wants the burnings stopped and the city quiet. Taroze, who wants a sworn account for his bishops. The priests of Sélmoros, who might attempt the rite of settlement if somebody asks them and pays. The Áelendan, who send a watcher down to the market to ask the party one question: is it done?
+
+**Player choices.** Bring Jentize to the countess and the crown's justice, give the Forge its sworn account, ask the priests of Sélmoros to try the rite, or tell the watcher the truth.
+
+**Clues and rewards.** A sworn account that names only Jentize stops the burnings and leaves the Earl out of it. One that repeats the sermon gives the Forge its petition.
+
+**Consequences.** If the watcher hears that the working is ended, the Áelendan stay on the ridge. If the watcher hears nothing, the tribes come down at the next new moon.
+
+**If bypassed.** The Forge carries the defector's word to Jalnasdal alone, and the Council reads it as the Forge's.
+
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The burnings go on, a farm a month. By winter the withering reaches the Ménavar road, and the families in Bataren's streets outnumber the city's charity. At a new moon in the autumn the Áelendan come down over the henge, and the congregation is found in the morning, alive, bound and laid in a row at the north gate, with Jentize's book on his chest. The crown must then answer to the tribes, the Forge and the Earl at once.
+
+## Aftermath {#aftermath}
+
+The field is a withering whatever is done at the stones, but a party that ended the working has stopped its spreading and given the north a year to think. A party that gave the Forge its account has put the Earl of Hárivren's name before the Council of Peers, where the Earl of Degavel and the Count of Atavel each wait to see which way the other moves. A party that persuaded the priests of Sélmoros to attempt the rite has started something nobody can predict.
+
+## See Also {#see-also}
+
+[[place-yharvalenhenge|Yarvalen Henge]]
+: the broken circle
+
+[[place-bldfldyharvalen|Blood-field of Yarvalen]]
+: the withering beside it
+
+[[affiliation-blackflame|The Black Flame]]
+: the faith that feeds it
+
+[[scenario-lstrlcmnvrby|The Lost Relic of Ménavar Abbey]]
+: the abbey a day's march away, and a relic the Flame would rather nobody used

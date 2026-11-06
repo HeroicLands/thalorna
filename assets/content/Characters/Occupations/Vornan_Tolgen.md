@@ -3,7 +3,8 @@ shortcode: vornantlgn
 name: {full: Vornan Tolgen}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A self-taught philosopher of Pirnebris who asks in the taverns what the march owes the men it sends over the passes, and whose student is to be tried at the Winter Assize."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -13,6 +14,7 @@ data:
   culture: provenzianclt
   homes: [pirnebris]
   affiliations: {kngdmprvnz: {rank: 2}, marendas: {rank: 1}}
+  socialTies: {being-tulemeserdal: nemesis}
   gender: male
   species: humanflk
   born: 674.246
@@ -393,13 +395,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Vornan Tolgen is a 46-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His wide-set brown eyes sit beneath straight brows and give him an open gaze. He has an aquiline nose and thin lips. He has light skin with a smooth complexion. His gray hair is falling in loose waves.
+Vornan Tolgen is a 45-year-old man who stands 5'8" tall and is of heavy build, still a carter in the shoulders. His light skin is smooth for his age, his gray hair falls in loose waves, and his wide-set brown eyes are open and interested in whoever is speaking. He has an aquiline nose and thin lips, and a crescent moon tattooed on his neck from a carters' fair in his youth.
 
 # Dossier {#dossier}
 
 Vornan Tolgen is a self-taught philosopher of [[place-pirnebris|Pirnebris]], the cherry town of the eastern march of [[place-provenzrgn|Provénzia]], a [[lore-provenzianclt|Provénzian]] freeman of a carter's family who never saw the inside of an academy and lectures on ethics in the taverns of a town that lives on the frontier war.
 
-Vornan was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of [[lore-helioniteclt|Helionite]] dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of [[place-aureliane|Aurelane]]'s academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Pirnebris, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Pirnebris sells the frontier its boots and carts and nobody there wants a lasting peace, and Vornan asks, plainly and repeatedly, what that makes them.
+He was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of [[lore-helioniteclt|Helionite]] dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of [[place-aureliane|Aurelane]]'s academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Pirnebris, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Pirnebris sells the frontier its boots and carts and nobody there wants a lasting peace, and Vornan asks, plainly and repeatedly, what that makes them.
+
+The question has come home. A junior officer who took it seriously has refused an order in the field and is to be tried at the [[affiliation-wntrassize|Winter Assize]], his defense is what Vornan taught him, and the merchants who keep the last market want the teacher silenced before the court sends for him.
 
 ## Psyche
 
@@ -409,36 +413,45 @@ Vornan is patient, curious and abstracted, better at a question than at what sho
 
 ### Motivation
 
-Vornan wants to understand, and to be understood—to have the people he talks to think for themselves, in a town that has arranged its whole life so as not to.
+Vornan wants to understand, and to be understood: to have the people he talks to think for themselves, in a town that has arranged its whole life so as not to.
 
 ### Strengths
 
-Deeply read in ethics and philosophy, a compelling talker, good at drawing an audience in.
+He is deeply read in ethics and philosophy, a compelling talker and good at drawing an audience in.
+
+### Weaknesses
+
+He has never been in danger for an idea before, and he does not believe that he is.
 
 ## Social
 
-Vornan belongs to no academy, guild or faction and has no patron.
+### Companions
 
-## Companions
+The town's young, who come to argue and stay to think, and the carters he hauled with, who think he has gone soft in the head and buy him wine anyway.
 
 ### Patrons
 
-Vornan's patrons are the tavern-keepers of Pirnebris, who feed him because his evenings sell wine, and the town's young, who come to argue and stay to think.
+The tavern-keepers of Pirnebris, who feed him because his evenings sell wine.
 
 ### Enemies
 
-The supply merchants of Pirnebris, whose trade he has described in public as profiting by other men's deaths; and a captain of the garrison who has heard what the junior officers are repeating and knows where they heard it.
+The supply merchants of Pirnebris, led by [[being-tulemeserdal|Tuleme Serdalis]], whose trade he has described in public as profiting by other men's deaths; and a captain of the garrison who has heard what the junior officers are repeating and knows where they heard it.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Vornan is a Freeman of the crown and belongs to no academy, guild or faction.
+- **[[affiliation-marendas|Faith of Marendas]]**: He goes to the Festival of Illumination every spring to argue with the lecturers.
 
 ## Plot Hooks
+
+The Officer Who Listened
+: The officer's trial at the Winter Assize turns on what Vornan taught him, and the court has sent for the teacher. The merchants have hired men to see that he never reaches Durvalis, and Vornan wants a party to get him there.
 
 The Lecture on Profit
 : Vornan has announced an evening on what the march owes the men it sends over the passes, the night before the levy musters. The merchants have asked the tavern-keeper to bar the door, and the young officers have said they will come anyway.
 
 The Academic
-: A master of rhetoric from Aurelane has come to hear the tavern philosopher, and has offered him a chair—a room, a stipend and students—on condition he stops talking about the war.
-
-The Officer Who Listened
-: A junior officer who took Vornan's questions seriously has refused an order in the field and is to be tried at the [Winter Assize]{.name data-type="affiliation/governmental"}. His defense is what Vornan taught him, and the court has sent for the teacher.
+: A master of rhetoric from Aurelane has come to hear the tavern philosopher, and has offered him a chair, a room, a stipend and students, on condition that he stops talking about the war.
 
 Shut In
 : The alarm has sounded and Pirnebris has shut its gates with the flocks and the outlying families inside. Vornan is inside with the merchants he has spent ten years accusing.

@@ -4,7 +4,7 @@ name: {full: The Song of the Last Shrine, en: [The Fourth Song of Lentize]}
 type: lore
 subType: literature
 description: "The fourth song of the long sea song of Lentize of Volsater, sung in rhymed eight-line stanzas at the autumn Arrivals: the oath with its small word, the twelve named city first, the sea at her window past the Wayfarer's last shrine, the clerk's count that turned the ship, and the vow that took the master out again alone."
-tags: [draft, provenzia]
+tags: [provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore

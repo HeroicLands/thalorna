@@ -27,10 +27,15 @@ coast. That single fact makes the Gulf a different country commercially from eve
 port. Nothing much of the Vilérian world comes here. What comes here comes down from
 [[place-elavendre|Élavendre]] and [[place-eilwith|Eilwìth]], and out of the northern seas beyond them.
 
-It is also, inevitably, the way [[lore-southrnfleets|the Nordheim raids]] came two centuries ago (the Nordheim raids), and northern
+It is also, inevitably, the way [[lore-southrnfleets|the Nordheim raids]] came two centuries ago, and northern
 Provénzia's memory of the sea is colored accordingly. The
 [[place-bldfldyharvalen|Blood-field of Yarvalen]] is not far inland.
+
+## Converging Interests {#present}
+
+The gulf is uneasy water this season. Masters coming in from the north report hulls that come out of the morning fog without lights or colors, shadow a merchantman for an hour and are gone, and two vessels have been stopped and searched by crews their masters will not describe. The harbor at Bataren has doubled its fees for a pilot, the insurers in the city have raised their rates, and the Élavendren and Provénzian shipping houses each suspect the other of spreading the stories to frighten trade off. See [[scenario-ghstshpsglfbtrn|The Ghost Ships of the Gulf of Bataren]].
 
 ## See Also
 
 - [[place-batarencity|Bataren City]] · [[place-provenzrgn|Provénzia Region]]
+- [[scenario-ghstshpsglfbtrn|The Ghost Ships of the Gulf of Bataren]]

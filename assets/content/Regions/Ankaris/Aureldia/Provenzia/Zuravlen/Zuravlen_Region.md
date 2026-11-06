@@ -10,16 +10,17 @@ data:
   lore: []
   parents: [provenzrgn]
   population: 750000
+  government: erldmhrvrn
   packFolder: provenzia
 ---
 
-[[affiliation-brnyzrvln|Zuravlen]]** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], in the
+[[affiliation-brnyzrvln|Zuravlen]] is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], in the
 [[place-provenzrgn|Provénzia Region]]—a short, cliff-bound coast and the long river valley behind
 it, and the source of the finest peaches on the [[place-ankrscntnnt|Ankaris Continent]] and some of its more highly regarded wine.
 
-The barony is held of the Crown at [[place-jalnazdal|Jalnasdal]] by [Selvare Zuravel]{.name data-type="being/npc"}, who is
-also Baron of [[place-kyvarel|Kivarel]], and who sits at [[place-elthrembis|Eltrembis]]. His clan's prominent support of
-the [Order of the Burning Brand]{.name data-type="affiliation/order"} gives a small agricultural barony rather more weight in Provénzian
+The barony is held of the Earl of [[place-harivrencity|Hárivren]], and through him of the Crown at [[place-jalnazdal|Jalnasdal]], by [[being-selvarezrvl|Selvare Zuravel]], who is
+also Baron of [[place-kyvarel|Kivarel]], and who sits at [[place-elthrembis|Eltrembis]]. His line's prominent support of
+the [[affiliation-brnngbrnd|Order of the Burning Brand]], which stands with the Sacred Forge, gives a small agricultural barony rather more weight in Provénzian
 affairs than its size would suggest.
 
 ## The Region and the Barony
@@ -50,7 +51,7 @@ the continent's western edge. Rocky cliffs stand above deep water and the wind o
 hard enough in winter to lay a man down, salt enough year-round to burn the leaves off anything
 tender. Nothing worth exporting grows here. What the coast has is fish—and it has them in
 extraordinary quantity, the cold water being far richer than the Vilérian—along with salt, and the
-only harbor, at [[place-volsather|Volsater]], reached by a cut in the cliff.
+barony's only harbor, at [[place-volsather|Volsater]], reached by a cut in the cliff. North of the barony the Earl of Hárivren's own port of [[place-tremuzel|Tremuzel]] works the same water from a smaller cleft.
 
 **The valley.** Behind the coastal ridge the wind drops away and the land turns warm—hot, in high
 summer, in a way the shore never is. The contrast is the barony's defining fact and is severe enough
@@ -208,6 +209,26 @@ inland.
 
 [[place-estivren|Estivren]]
 : the upland sheep manor, oldest of the three, poorest in coin and least interested in peaches.
+
+## The Rest of the Seaboard
+
+[[place-harivrencity|Hárivren City]]
+: the great inland city of the western march, seat of the Earl of Hárivren, where the west's produce is taxed and sold.
+
+[[place-tremuzel|Tremuzel]]
+: the earl's salt and fishing port in a cleft of the cliffs north of Volsater, the lesser of the coast's two harbors.
+
+[[place-kyvarel|Kivarel]]
+: the barony held with Zuravlen by Baron Selvare, in the western valleys.
+
+[[place-bldfldkyvarel|Blood-field of Kivarel]]
+: the quickened field that is Kivarel's best land.
+
+## Current Situation {#present}
+
+The harbor and the yards are at war in all but name. The fast boats out of [[place-volsather|Volsater]] carry more fresh fruit every harvest, every basket of it pays no drying share, and the drying share is Baron Selvare's largest income. The baron cannot forbid the boats without quarreling with the merchants of the southern ports who pay for the fruit, and he cannot let them run without watching his yards empty. Volsater's harbor-master knows both facts and acts on them.
+
+Above the baron the Earl of Hárivren takes his tolls on everything that goes inland, and the two men stand on opposite sides of the kingdom's faith quarrel: the earl the most senior lord of the Black Flame in Provénzia, the baron a patron of the Order of the Burning Brand. The valley keeps its frost vigil and its water-rolls as it always has, and every water-turn, folding right and grading mark is being argued over harder because the money in the valley is moving.
 
 ## Adventuring in Zuravlen
 

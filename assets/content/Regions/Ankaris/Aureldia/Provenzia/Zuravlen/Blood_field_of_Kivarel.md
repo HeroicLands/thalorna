@@ -5,11 +5,15 @@ type: place
 subType: site
 description: "A quickened blood-field in the western valleys, where the ground grows too well—the best land in the barony of Kivarel, farmed by people who would rather not discuss why."
 tags: [valley, inland]
-data: {demonym: null, lore: [], parents: [zuravlenrgn], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [kyvarel], population: null, packFolder: provenzia}
 ---
 
-In the western valleys, in the barony of [[place-kyvarel|Kivarel]]—held with the [[affiliation-brnyzrvln|Barony of Zuravlen]] by [Selvare Zuravel]{.name data-type="being/npc"}—lies the Blood-field of Kivarel, a **quickening**: a [[lore-bloodfields|blood-field]] where the ground grows too
+In the western valleys, in the barony of [[place-kyvarel|Kivarel]]—held with the [[affiliation-brnyzrvln|Barony of Zuravlen]] by [[being-selvarezrvl|Selvare Zuravel]]—lies the Blood-field of Kivarel, a **quickening**: a [[lore-bloodfields|blood-field]] where the ground grows too
 well.
+
+## Layers {#history}
+
+Which battle made the field is not known. The western valleys were fought over long before any record was kept of them, and Kivarel, like most of Provénzia, names the ground and not the war. The holdings on it have passed by inheritance for generations, and the tenants who farm it did not choose it.
 
 ## The Quickening
 
@@ -33,6 +37,11 @@ here. They were refused both times, courteously, by the tenants rather than the 
 that nobody knows whether settling a quickened field would end the quickening, and that the district
 cannot afford to find out.
 
+## What Is There Now {#present}
+
+The field is being noticed. A factor from the southern ports has begun asking where the barony's earliest fruit comes from, and means to sell it under a name, which would make the field's produce famous and the field a byword. The priests of Sélmoros have asked a third time to perform the rite of settlement, and the tenants, who refused twice, have given no answer. The baron's steward has told both factor and priests that the field is the tenants' business.
+
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-zuravlenrgn|Zuravlen Region]]
+- [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-kyvarel|Kivarel]] · [[place-zuravlenrgn|Zuravlen Region]]
+- [[scenario-kvrlfld|The Field at Kivarel]]

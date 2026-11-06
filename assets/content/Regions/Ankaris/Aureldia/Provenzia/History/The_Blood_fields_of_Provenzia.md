@@ -90,7 +90,11 @@ Since a blood-field is a permanent reservoir of violent death, it is precisely w
 [[affiliation-blackflame|The Black Flame]] wants, and the cult's interest in Provénzia is best
 understood as an interest in its blood-fields. A field can be **worked on**—its resonance roused,
 deepened, and turned from something a village lives beside into something that consumes the district.
-That is what has happened at Yarvalen.
+[[affiliation-sacredforge|The Sacred Forge]] says that is what is happening at Yarvalen, and is not believed.
+
+:::secret {title="Yarvalen is worked"}
+The Forge is right. The cult of the Black Flame woke the Blood-field of Yarvalen from its quiet and is rousing and magnifying it on purpose, drawing power from the country it kills.
+:::
 
 There are a good many blood-fields in Provénzia, and there is no register of them. This is the single
 strongest argument for making one, and the single strongest argument against.

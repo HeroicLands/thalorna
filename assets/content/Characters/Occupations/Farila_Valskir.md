@@ -3,7 +3,8 @@ shortcode: farlvlskyr
 name: {full: Farila Valskir}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A physician of Kalveza who serves the harbor and the Faith of Lizelas's house of healing, and has three sailors off one ship sick with a fever she does not know."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,57 +394,60 @@ sohl:
 
 # Appearance {#appearance}
 
-Farila Valskir is a 31-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, lending her a candid gaze. A narrow nose and thin lips complete her features. She has fair skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
+Farila Valskir is a 30-year-old woman who stands 5'7" tall and is of light build. She has fair skin browned by the harbor sun, black hair pinned in a neat twist that comes down by evening, and round gray eyes that look straight at a patient. Her narrow nose and thin lips give her a severe look until she speaks, and her hands smell of the vinegar she washes them in.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a noble family of [[lore-provenzianclt|Provénzian]] heritage, Farila Valskir came into the world of the physician through a combination of circumstance and aptitude.
+Farila Valskir is a physician of [[place-kalveza|Kalveza]], the working port of the southern coast, who keeps a practice near the warehouses and gives two days a week to the house of healing of the [[affiliation-lizelas|Faith of Lizelas]] by the harbor.
 
-Lady Seraphina is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Seraphina is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
+She is a daughter of a minor noble house that expected her to marry, and she studied medicine instead, first with the priests of Lizelas and then with a physician of the academies who took her as a pupil because nobody else would. She treats the harbor's sailors, porters and warehousemen as well as the merchant houses that pay her, and she asks about their work, their lodgings and their food as well as their symptoms, which the older physicians think a waste of time. She teaches the women of the waterfront what to do for a fever and a birth, and the priests of Lizelas let her.
+
+Kalveza is busy on Válaren's fear. With hulls without colors seen off the southern coast, the Vilérian masters who would have put in at [[place-valarencity|Válaren]] are putting in here, the warehouses are full to the roofs and the lodging-houses by the quay are crowded beyond anything she has seen. This week she has treated three sailors off one ship for a fever she does not recognize.
 
 ## Psyche
 
 ### Personality
 
-Can be overly idealistic, struggles with bureaucratic constraints.
+Farila is idealistic, blunt and quick to lose patience with rules that keep her from a patient. She is kind to the sick and short with the healthy.
 
 ### Motivation
 
-Farila is driven by the desire to master her craft and secure a stable future. The uncertainties of life in physician work keep her vigilant and adaptable.
+She wants the sick of the harbor treated as well as the rich of the hill, and she wants to be taken seriously by physicians who think a noblewoman's medicine is a hobby.
 
 ### Strengths
 
-Knowledgeable about herbal remedies, empathetic, skilled in communication.
+She knows herbal medicine and the academies' learning both, she is good with frightened people, and she explains things so that they are understood.
+
+### Weaknesses
+
+She cannot keep quiet about a danger, even when the people who pay her would rather she did.
 
 ## Social
 
-Farila is affiliated with the local [Physicians' Guild]{.name data-type="affiliation/guild"}.
+### Companions
 
-As a Provénzian physician, Farila occupies a recognized social niche within Provénzia society.
-
-## Companions
+The priests and nurses of the house of healing, and the women of the waterfront who send for her.
 
 ### Patrons
 
-Farila's primary patrons are local families seeking her expertise in health and wellness. This relationship provides both opportunity and obligation.
+The merchant families of the hill, who pay her fees, and the priests of Lizelas, who give her a room.
 
 ### Enemies
 
-Few; respected but sometimes challenged by traditional medical practitioners.
+An older physician of the city who has the charter council's ear and says her medicine is superstition with a noble name.
+
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Farila is of the Lesser Nobility by birth.
+- **[[affiliation-lizelas|Faith of Lizelas]]**: She serves in the goddess's house of healing by the harbor.
 
 ## Plot Hooks
 
-The Physician's Dilemma
-: Farila faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Fever off the Ship
+: Three sailors off one Vilérian ship are sick with a fever Farila does not know, and the ship's master swears they caught it ashore. If she reports it, the charter council will close the quay to ships from the south while the warehouses are full and credit is tight, and the factors have made clear what they think of that.
 
-Old Grudges
-: Few; respected but sometimes challenged by traditional medical practitioners. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Warehouseman's Lungs
+: Porters from one warehouse keep coming to her with burned throats and coughing blood. The warehouse holds goods bought on Válaren paper, and its owner will not let her inside.
 
-Echoes of the Past
-: Something from Farila's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Farila depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Farila the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Physician's Complaint
+: Her rival has brought a complaint against her before the charter council, and a family whose child she saved will speak for her only if she sees to their grandfather, whom the rival killed.

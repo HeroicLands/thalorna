@@ -26,7 +26,7 @@ data:
         description: Present by a member's invitation, welcome for the evening and party to nothing.
       - level: 2
         title: Member
-        description: Admitted, paying the subscription and enjoying the fellowship's company and its hall.
+        description: Admitted by acclamation, entitled to speak at the fellowship's gatherings and to its company.
       - level: 3
         title: Full Member
         description: Of standing enough to propose, to vote and to be voted for.
@@ -35,19 +35,17 @@ data:
         description: Long enough of the fellowship that its customs are remembered through them.
       - level: 5
         title: Officer
-        description: Elected to a charge of the fellowship—its purse, its records, its hall, its charity.
+        description: Elected for the year to a standing office of the Convocation of Companies—the stage, the patrons or the repertoire.
       - level: 6
-        title: Chair
-        description: Presiding over the fellowship's meetings for a term, and holding nothing else by it.
+        title: First Speaker
+        description: Presiding over the Convocation of Companies for the year and speaking for the fellowship to its patrons and its enemies.
     offices:
-      Chair: >-
-        Presiding officer of the fellowship's meetings, elected for a term and holding nothing else by it.
-      Secretary: Keeper of the roll, the minutes and the correspondence.
-      Treasurer: Keeper of the subscriptions and of what the fellowship spends them on.
-      Steward: Warden of the hall, its provision and the ordering of its gatherings.
-      Almoner: Administrator of the fellowship's relief to members in need.
-      Master of Ceremonies: Keeper of the forms the fellowship's gatherings follow.
-  seat: null
+      First Speaker: >-
+        Elected by the companies each year. Presides over the Convocation of Companies, puts a play to it for endorsement and speaks for the fellowship when a production it has endorsed is attacked.
+      Master of the Stage: Elected each year. Settles which company mounts which play in which season, so that endorsed work is not staged against itself.
+      Mistress of the Patrons: Elected each year. Admits patrons on a member's sponsorship and keeps the fellowship's dealings with them.
+      Keeper of the Repertoire: Elected each year. Records the Convocation's deliberations and keeps the list of endorsed plays.
+  seat: jalnazdal
   population: null
   economy: [affiliation-tevran]
   lore: []
@@ -60,7 +58,7 @@ Type
 : Cultural federation
 
 Region
-: [[place-provenzrgn|Provénzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provénzian city of consequence
+: [[place-provenzrgn|Provénzia]]—based at the great theater quarter of [[place-jalnazdal|Jalnasdal]], with affiliated companies in every Provénzian city of consequence
 
 Founded
 : Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries
@@ -81,7 +79,7 @@ The Collective's central political function is the management of risk. A staged 
 The Collective recognizes three categories of member:
 
 Companies
-: the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provénzia, ranging from established institutions like the [Teatro della Luna]{.name data-type="affiliation/venture"} in the capital to small touring troupes that perform in market squares.
+: the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provénzia, ranging from established institutions like the [Jalzemis]{.name data-type="affiliation/venture"}, the Moon, in the capital to small touring troupes that perform in market squares.
 
 Performers, playwrights, and designers
 : individuals of established reputation, admitted by acclamation of the existing membership. There are perhaps two hundred at any given time. Individuals do not vote but are entitled to speak at Collective gatherings and to participate in the informal discussions that shape decisions.
@@ -89,21 +87,28 @@ Performers, playwrights, and designers
 Patrons
 : wealthy supporters who fund productions. Admission is by sponsorship of an existing member. Patrons do not vote but their views carry the weight their contributions confer. There are presently about forty patrons of standing, several of them noble, several of them mercantile, two of them rumored to be foreign agents quietly supporting productions favorable to their employers' interests.
 
-Day-to-day administration is conducted by the [Convocation of Companies]{.name data-type="affiliation/governmental"}, which meets every two months at the Teatro della Luna. The Convocation's standing officers—the **First Speaker**, the **Master of the Stage**, the **Mistress of the Patrons**, and the **Keeper of the Repertoire**—are elected annually and serve renewable terms. The current First Speaker is the playwright [Léonardo Castiranni]{.name data-type="being/npc"}, a man celebrated for his political comedies and feared for the precision of his satire.
+Day-to-day administration is conducted by the [Convocation of Companies]{.name data-type="affiliation/governmental"}, which meets every two months in the Jalzemis's theater. The Convocation's standing officers—the **First Speaker**, the **Master of the Stage**, the **Mistress of the Patrons**, and the **Keeper of the Repertoire**—are elected annually and serve renewable terms. The current First Speaker is the playwright [[being-chzltolmrs|Chezile Tolmaris]], a man celebrated for his political comedies and feared for the precision of his satire.
+
+## Current Situation {#present}
+
+The season is testing the Collective's prudence from every side. One company has brought the Convocation a satire of the [[place-pirnebris|Pirnebris]] merchants, and another a comedy of a magnate who keeps two households, which the capital already reads as meaning [[being-melvrelvns|the Count of Ravenshold]], the patron who pays for the First Speaker's own company. The [[affiliation-councilpeers|Council of Peers]] is too divided to protect a play that angers half of it, and a foreign patron has paid in advance for a play arguing one side of the succession the Charter never settled. [[being-chzltolmrs|Chezile Tolmaris]] must decide which of them the Collective endorses, and every choice costs it a friend.
 
 ## Notable Members
 
 [[being-kelnstylgn|Kelena Estilgon]]
 : a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
 
-Léonardo Castiranni
+[[being-chzltolmrs|Chezile Tolmaris]]
 : current First Speaker; playwright; political operator.
 
-The **Teatro della Luna** company
-: most prestigious of the standing companies, with its own permanent venue in the capital.
+[[being-melvrelvns|The Count of Ravenshold]]
+: the most generous of the patrons of standing, seen at every endorsed play of the season.
 
-The [Compagnia delle Maschere]{.name data-type="affiliation/venture"}
-: the leading touring troupe; specializes in commedia and the political mask traditions.
+The **Jalzemis** company
+: most prestigious of the standing companies, with its own permanent theater in the capital.
+
+The [Jentamis]{.name data-type="affiliation/venture"}, the Faces
+: the leading touring troupe; specializes in masked comedy and the political mask plays.
 
 ## Doctrine and Practice
 

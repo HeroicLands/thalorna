@@ -7118,6 +7118,7 @@ data:
     - {name: Pelra Dareth, tongue: elavendri}
     - {name: Fellow Pelra, tongue: translation}
     - {name: Kelvan Orsel, tongue: elavendri}
+    - {name: Hethran Orsel, tongue: elavendri}
     - {name: Fellow Kelvan, tongue: translation}
     - {name: Hethar Pelthal, tongue: elavendri}
     - {name: Fellow Hethar, tongue: translation}

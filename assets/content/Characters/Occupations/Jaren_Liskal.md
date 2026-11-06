@@ -3,7 +3,8 @@ shortcode: jaranlyskl
 name: {full: Jaren Liskal}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A toymaker of Jalnasdal whose one-of-a-kind toys are being undersold by imported ones and whose workshop the harbor quarter's doubled rents are pricing out."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,13 +394,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Jaren Liskal is a 39-year-old woman who stands 5'6" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her large brown eyes sit beneath straight brows and give her an expressive gaze. She has a straight nose and wide lips. She has olive skin with a fair complexion. Her chestnut hair is twisted into an elaborate arrangement.
+Jaren Liskal is a 38-year-old woman who stands 5'6" tall and is of light build. She has olive skin, chestnut hair twisted up and stuck through with a carving awl, and large brown eyes that go soft for a child and narrow for a customer. Her hands are nicked and scarred from the knife, and an old scar runs down her right leg from a fall from a timber cart when she was young.
 
 # Dossier {#dossier}
 
 Jaren Liskal is a toymaker of [[place-jalnazdal|Jalnasdal]], the capital of [[place-provenzrgn|Provénzia]], a [[lore-provenzianclt|Provénzian]] freewoman who makes wooden toys, dolls and small models in a workshop off the harbor quarter.
 
-Jaren learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through [[place-kalveza|Kalveza]] from [[place-vylariargn|Viléria]] and sells at a third of her price, and Jaren, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
+She learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through [[place-kalveza|Kalveza]] from [[place-vylariargn|Viléria]] and sells at a third of her price, and Jaren, who can carve anything, cannot sell and hates trying.
+
+In the harbor quarter the landlords have doubled the rents on the strength of the court's spending, and the small workshops, hers among them, are being squeezed out toward the walls.
 
 ## Psyche
 
@@ -413,32 +416,42 @@ Jaren wants every toy that leaves her to be a delight to the child who gets it, 
 
 ### Strengths
 
-Skilled in carving and painting, inventive, good with children.
+She is skilled in carving and painting, inventive and very good with children.
+
+### Weaknesses
+
+She has no head for money and no stomach for selling.
 
 ## Social
 
-Jaren holds her seal from the [Woodcarvers' Guild of Jalnasdal]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], and pays her dues and attends nothing.
+### Companions
 
-## Companions
+Her apprentice, a girl from the harbor she cannot afford to keep, and the other small craftsmen of her street.
 
 ### Patrons
 
-Jaren's patrons are the households of the court's officers, who buy her toys for their children and her models for themselves, and a handful of collectors.
+The households of the court's officers, who buy her toys for their children and her models for themselves, and a handful of collectors.
 
 ### Enemies
 
 The importing houses that bring in Vilérian turned toys through Kalveza and sell them by the gross, and a stall-holder who sells copies of her animals carved by nobody in particular.
 
+### Affiliations
+
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Jaren is a Freeman of the crown.
+- **[Woodcarvers' Guild of Jalnasdal]{.name data-type="affiliation/guild"}**: She holds her seal from the guild, chartered under [[affiliation-tevran|the Tevran Maldor]], pays her dues and attends nothing.
+- **[[affiliation-sacredforge|The Sacred Forge]]**: She keeps the craftsmen's faith and its Dedication of the Apprentice.
+
 ## Plot Hooks
+
+The Rent
+: The workshop's landlord has doubled the rent, and Jaren has a season's stock she cannot sell and an apprentice she cannot pay. The landlord's agent has offered to forgive the rise if she will carve a set of seals he describes very exactly.
 
 The Peer's Child
 : A Peer's small daughter has refused every toy in the palace but one of Jaren's, and the Peer's steward has come to order a dozen more by the feast. Jaren has never made a dozen of anything.
 
 The Procession
-: A collector has commissioned a complete model of the Crown's coronation procession, with a figure for every officer, and the Crown's chamberlain has let it be known that certain officers are not to be included.
+: A collector has commissioned a complete model of the crown's coronation procession, with a figure for every officer, and the king's Chamberlain has let it be known that certain officers are not to be included.
 
 The Copy
 : Jaren's jointed fox is being sold in the market in twenty copies, badly carved, under her grandfather's mark.
-
-The Rent
-: The workshop's landlord has doubled the rent for the harbor quarter, and Jaren has a season's stock she cannot sell and an apprentice she cannot pay.

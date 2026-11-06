@@ -456,7 +456,7 @@ The troll is territorial to obsession and solitary. It wakes, hunts its range on
 
 ## What the Marchers Do
 
-The border families on both sides of the march have quietly dropped the troll's pass from their raiding calendar, and the pass has been empty of raiders for longer than anyone in [[place-durvalis|Durvalis]] likes to say. Shepherds on both sides graze the summer pastures at the edges of its range only in the weeks it sleeps, and post a boy on a high rock to watch the cave mouth. The [Winter Assize]{.name data-type="affiliation/governmental"} at Durvalis has heard several cases in which one family accused another of driving cattle onto the troll's ground to lure it toward a rival's flocks; none was proved. There is a bounty on the troll from both crowns, the only thing the two crowns have agreed on in a generation, and nobody has collected it.
+The border families on both sides of the march have quietly dropped the troll's pass from their raiding calendar, and the pass has been empty of raiders for longer than anyone in [[place-durvalis|Durvalis]] likes to say. Shepherds on both sides graze the summer pastures at the edges of its range only in the weeks it sleeps, and post a boy on a high rock to watch the cave mouth. The [[affiliation-wntrassize|Winter Assize]] at Durvalis has heard several cases in which one family accused another of driving cattle onto the troll's ground to lure it toward a rival's flocks; none was proved. There is a bounty on the troll from both crowns, the only thing the two crowns have agreed on in a generation, and nobody has collected it.
 
 ## Signs
 

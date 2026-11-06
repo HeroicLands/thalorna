@@ -4,7 +4,7 @@ name: {full: The Song of the Nameless Jar, en: [Pass the Jar]}
 type: lore
 subType: literature
 description: "A satirical song of the temple squares at the Golden Harvest, sung by singers with no patron and never at a table: the finest fruit conserves in the kingdom, the seal that names everything but the ground, the tenants who inherited the field, the priest refused twice with good wine, and the dead under the trees who pay the rent."
-tags: [draft, provenzia]
+tags: [provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore

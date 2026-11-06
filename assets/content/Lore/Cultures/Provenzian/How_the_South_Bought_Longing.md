@@ -4,7 +4,7 @@ name: {full: How the South Bought Longing, en: [The Envoy's Word]}
 type: lore
 subType: literature
 description: "The tale the eldest of a southern house tells at the Festival of the Hearth while the flame from the temple's forge waits on the taper: how Ólvenia the Bountiful, who had everything, kept the Wayfarer at her table for a summer and lost him at the equinox, found the south had no word for what was left, and sent an envoy north to buy one, and what the north asked for it."
-tags: [draft, provenzia]
+tags: [provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore

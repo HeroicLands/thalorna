@@ -58,7 +58,7 @@ data:
         - how many of the Tanevar kings were taken alive
 ---
 
-The anniversary of Tiravlen is kept indoors by the lake villages of [[place-bldfldtiravlen|Tiravlen keep the anniversary indoors]], and they cannot say what it commemorates. The Vilérian dispatch that named the battle burned with the imperial archive on [[place-arvel|Arvel]] in about 318 AF, and the Tanevar kings who fought it left no record of their own. The ground kept the name and the villages kept the night.
+The anniversary of [[place-bldfldtiravlen|Tiravlen]] is kept indoors by the villages of [[place-tiravellake|Lake Tiravel]], and they cannot say what it commemorates. The Vilérian dispatch that named the battle burned with the imperial archive on [[place-arvel|Arvel]] in about 318 AF, and the Tanevar kings who fought it left no record of their own. The ground kept the name and the villages kept the night.
 
 ## The March
 

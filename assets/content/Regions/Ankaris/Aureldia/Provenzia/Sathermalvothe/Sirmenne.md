@@ -30,9 +30,13 @@ arrangement to an outsider who asked.
 
 Neither crown administers it. [[affiliation-kngdmprvnz|Provénzia]]'s claim is formally unambiguous and practically theoretical.
 
-## The Withdrawal
+## Layers {#history}
 
-Local legend holds that the Sinale **withdrew** from Sirmenne, deeper into their enclaves, and left
+**The builders.** Who raised Sirmenne, and for what, is not known; its stones are older than any settlement of either kingdom.
+
+**The keepers.** The Sinale and the Áelendan have each kept the site in their own way for as long as either remembers, and neither explains the other's right to be there.
+
+**The withdrawal.** Local legend holds that the Sinale **withdrew** from Sirmenne, deeper into their enclaves, and left
 things behind when they went—artifacts of considerable power, abandoned rather than removed.
 
 Nothing has ever been produced to support this and the rumor has never weakened, which is the usual
@@ -40,7 +44,9 @@ condition of such stories and no argument against them. It is enough to bring a 
 treasure-seekers, scholars and agents of the [[affiliation-ordoarcanis|Thordimalon]] into country
 where both the Áelendan and the Sinale take a direct interest in visitors.
 
-The Áelendan do not much distinguish between a looter and a licensed antiquarian. See
+## What Is There Now {#present}
+
+The trickle has become a stream. A scholar's account of Sirmenne has gone the rounds of the academies of [[place-aureliane|Aurelane]], copied in the scriptorium of the [[affiliation-acadmedcn|Academy of Medicine and Manuscripts]], and this summer treasure-seekers, antiquarians and agents of the Thordimalon are in the borderland woods together, some with permits from a crown that does not administer the site. The Áelendan do not much distinguish between a looter and a licensed antiquarian, and the Sinale have been seen at the ruin's edge in daylight, which nobody in the borderland can remember. See
 [[scenario-engmsrmnn|The Enigma of Sirmenne]].
 
 ## See Also

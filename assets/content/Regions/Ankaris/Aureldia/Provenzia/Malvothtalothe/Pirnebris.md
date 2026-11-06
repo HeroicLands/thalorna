@@ -35,6 +35,10 @@ yards facing inward; its market is inside the walls; its people can bring the fl
 families in within an afternoon and have done so, on average, about twice a decade for as long as the
 records run.
 
+## The Present {#present}
+
+The town has shut its gates once already this summer, with the fruit setting and half the orchard hands outside the walls, and the merchants who supply the garrison did very well out of the week. That is the quarrel. The tavern philosopher [[being-vornantlgn|Vornan Tolgen]] has spent ten years asking in public what the march owes the men it sends over the passes and who profits from sending them, and a junior officer who took his questions seriously has refused an order in the field. The officer is to be tried at the Winter Assize, his defense is what Vornan taught him, and the merchants who keep the last market want the teacher silenced before the court sends for him.
+
 ## The Last Market
 
 It is also the last place to buy anything before the frontier. Garrison supply, remounts, carts,
@@ -45,3 +49,4 @@ imagines a lasting peace would be good news.
 ## See Also
 
 - [[place-tiravellake|Lake Tiravel]] · [[place-provenzrgn|Provénzia Region]]
+- [[scenario-hndsrdngssn|Hands for the Raiding Season]]

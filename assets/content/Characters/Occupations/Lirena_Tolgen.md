@@ -3,7 +3,8 @@ shortcode: lyrenatlgn
 name: {full: Lirena Tolgen}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "A Provénzian skald of Jalnasdal, trained in the north by the Skalds' Circle, who sets the northern myths against the quarrels of the capital."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -390,57 +391,61 @@ sohl:
 
 # Appearance {#appearance}
 
-Lirena Tolgen is a 30-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with defined cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath thin brows, lending her a measured gaze. A narrow nose and curved lips complete her features. She has medium-toned skin with a bronzed complexion. Her dark blonde hair is hanging in ringlets.
+Lirena Tolgen is a 29-year-old woman who stands 5'8" tall and is of light build. She has medium-toned skin bronzed by summers on the northern sea-roads, dark blonde hair in ringlets she shakes loose when she recites, and almond-shaped hazel eyes that fill easily. A small star is tattooed on her left shoulder, the mark of the hall where she was given her first saga.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provénzia region]] to a freeman family of [[lore-provenzianclt|Provénzian]] heritage, Lirena Tolgen came into the world of the skald through a combination of circumstance and aptitude.
+Lirena Tolgen is a Provénzian skald of [[place-jalnazdal|Jalnasdal]], trained in the halls of the [[place-nrdlndsrgn|Nordlands]] by [[affiliation-skaldscrcl|the Skalds' Circle]], who recites in the harbor taverns where the northern crews drink and at the tables of the capital's houses that have a taste for the north.
 
-Lirena is known as "Tolgen" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old [[lore-nordheimnclt|Nordmen]] mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Lirena sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
+She went north at fourteen as a ship's boy's sister, stayed when a skald of a chieftain's hall heard her sing, and came home at twenty-five with the Circle's training and a habit the Circle disapproves of: she sets the old northern myths against the events of the day, so that a Peer's quarrel at Jalnasdal becomes a feud of gods in a hall of ice. The capital loves it. The northern crews in the harbor think it close to blasphemy and come to hear it anyway. Her recitations are passionate and full of gesture, and she cannot get through a tale of loss with a steady voice.
+
+The court's spending has doubled the rents of the harbor quarter, and the taverns where she recites for the crews are closing one by one or turning into lodgings for the court's clerks. Her best patron now is a house of the Atavel party that wants a saga of the Council's quarrel in which the Earl of Degavel is the frost-giant.
 
 ## Psyche
 
 ### Personality
 
-Prone to emotional outbursts, can be too intense for some audiences.
+Lirena is warm, passionate and quick to tears and to temper, and she is sometimes too much for a quiet room.
 
 ### Motivation
 
-Lirena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in skald work keep her vigilant and adaptable.
+She wants her sagas remembered, and she wants to keep singing for the crews in the harbor who taught her what an audience is.
 
 ### Strengths
 
-Charismatic, skilled in poetry and oral storytelling, expressive.
+She is a charismatic reciter with a fine memory and a poet's ear, and she can make a room of strangers weep.
+
+### Weaknesses
+
+She cannot keep her feelings out of a recitation, or her opinions out of a saga.
 
 ## Social
 
-Lirena is affiliated with [[affiliation-skaldscrcl|the Skalds' Circle]], the Nordland Skalds' Guild.
+### Companions
 
-As a Provénzian skald, Lirena occupies a recognized social niche within Provénzia society.
-
-## Companions
+The northern crews of the harbor taverns, and [[being-bldnstylgn|Balden Estilgon]] of Aurelane, the only other Provénzian skald of the Circle, who disapproves of her and writes to her every month.
 
 ### Patrons
 
-Lirena's primary patrons are Nordland leaders and wealthy families who value her craft. This relationship provides both opportunity and obligation.
+The houses of the capital with a taste for the north, and lately a house of the Atavel party.
 
 ### Enemies
 
-More conservative skalds who disapprove of her modern influences.
+The more conservative skalds of the Circle, who say she bends the sagas, and the Earl of Degavel's household, which has heard of the frost-giant.
+
+### Affiliations
+
+- **[[affiliation-skaldscrcl|The Skalds' Circle]]**: Lirena recites under the Circle's training and recognition.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: She is a Freeman of the crown.
+- **[[affiliation-lusinia|Faith of Lusinia]]**: She keeps the singers' festivals.
 
 ## Plot Hooks
 
-The Skald's Dilemma
-: Lirena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provénzia.
+The Frost-Giant
+: The Atavel house has paid in advance for a saga of the Council's quarrel, to be recited at a feast the Earl of Degavel's friends will attend. Lirena has written it, and since writing it she has been followed.
 
-Old Grudges
-: More conservative skalds who disapprove of her modern influences. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Last Tavern
+: The harbor tavern where Lirena recites for the northern crews has been bought by a court official's agent, who means to turn it into lodgings. The crews have asked her to find out who is behind the buying, and they have offered to settle it their own way if she will not.
 
-Echoes of the Past
-: Something from Lirena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Provénzia threaten to upend the social order that Lirena depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Lirena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Disputed Verse
+: The Circle has summoned Lirena to answer for a verse in which she set a northern god in a Provénzian hall. If the gathering finds against her, she loses the Circle's recognition and every patron who pays for it.

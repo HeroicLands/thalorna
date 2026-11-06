@@ -3,7 +3,7 @@ shortcode: provenzrgn
 name: {full: Provénzia Region}
 type: place
 subType: region
-description: "Southwestern coastal region of Aureldia—wealthy merchant-prince realm dominated by sophisticated city-states and engaged in far-flung trade networks."
+description: "The rich southwest of Aureldia, a kingdom of chartered cities between a warm sea and a cold ocean, where crown, peers and cities share power under the Charter of Rights and a frontier war with Tarvénia runs by the season."
 data:
   demonym: null
   lore: []
@@ -23,7 +23,7 @@ data:
 
 ## Overview
 
-Provénzia, located in the southwestern part of the [[place-ankrscntnnt|Ankaris Continent]], is a land of beauty, culture, and ancient magic. Strongly influenced by the [[place-vylarianse|Vilérian Sea]] to the south, it is one of the most culturally advanced and prosperous regions in Ankaris. Its terrain ranges from coastal plains and vineyards to rolling hills and lush forests, and its cities are centers of art, philosophy, and learning.
+Provénzia is the land of the chartered city: a kingdom whose king rules under a Charter of Rights, whose great cities govern themselves by charter, and whose wealth comes off the warm [[place-vylarianse|Vilérian Sea]]. It lies in the southwestern part of the [[place-ankrscntnnt|Ankaris Continent]] and is one of its richest and most learned countries. Its terrain runs from coastal plains and vineyards to rolling hills, forest and mountain, and its cities are centers of art, philosophy and law.
 
 ## Geography
 
@@ -57,11 +57,13 @@ can. Three of the named fields have a battle on record: [[place-bldfldtiravlen|B
 
 ## Culture and Society
 
-Provénzian society blends Vilérian sophistication with Élavendren mysticism. The cities are architectural marvels—marble buildings, grand amphitheaters, intricate aqueducts, and soaring towers that reflect both the legacy of the Vilérian Empire and the aesthetic sensibilities of the Provénzians themselves. The cities function as independent or semi-independent polities, each with its own character: some are ruled by hereditary nobility, others by elected councils of wealthy citizens, and a few by powerful guilds of merchants or artisans.
+Provénzian society blends Vilérian sophistication with Élavendren mysticism. The cities are architectural marvels—marble buildings, grand amphitheaters, intricate aqueducts and soaring towers—that show both the legacy of the Vilérian Empire and the Provénzians' own taste.
+
+The cities are not states. Each is a chartered city of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], holding a city charter (_daktela_) that the crown has written and sealed, and governing itself on local matters under it: its own courts, its own treasurer, its own council of citizens and guild masters, and the crown's officers beside them for everything the charter does not grant. Above the cities sits the crown, bound by the [[lore-chrtrrghts|Charter of Rights]] won in [[lore-charterwar|the War of the Charter]] to take counsel of a [[affiliation-councilpeers|Council of Peers]] and to levy only by consent. Power is shared among the three, and the share is always being argued. A Provénzian names his city before his family, and he takes his city's charter for a birthright.
 
 The Provénzians are known across the [[place-midhalnrgn|Midhalión Region]] for their intellectual pursuits and artistic achievements. Philosophy, art, architecture, music, and theater thrive here. The region produces acclaimed painters, sculptors, playwrights, and natural philosophers. The Provénzian tradition of courtly love—an elaborate social code governing romantic relationships, patronage, and artistic expression—has influenced manners and literature across the Vilérian Sea region.
 
-Education is highly valued. Provénzia is home to several renowned academies and schools of learning that attract students from across Ankaris, covering subjects from natural philosophy and mathematics to rhetoric, law, and the magical arts.
+Education is highly valued. The three academies of [[place-aureliane|Aurelane]], the [[affiliation-acadrhetrc|Academy of Philosophy and Rhetoric]], the [[affiliation-acadlaw|Academy of Law]] and the [[affiliation-acadmedcn|Academy of Medicine and Manuscripts]], draw students from across Ankaris.
 
 ## Religion
 
@@ -71,7 +73,7 @@ Temples in Provénzia tend toward the grand and beautiful, doubling as galleries
 
 ## Magic
 
-Provénzia embraces the arcane arts more openly than most regions of western Ankaris. The [[affiliation-ordoarcanis|Thordimalon]] has a strong institutional presence here, running several academies of magical study, but the relationship is more collaborative than controlling. Provénzian society views magic as another form of art and scholarship—something to be studied, refined, and celebrated. This makes Provénzia something of a haven for mages and magical researchers, though the Arcane Order still keeps a watchful eye on independent practitioners.
+Provénzia embraces the arcane arts more openly than most regions of western Ankaris. The [[affiliation-ordoarcanis|Thordimalon]] has a strong institutional presence here, teaching the magical arts in its own chapterhouses, but the relationship is more collaborative than controlling. Provénzian society views magic as another form of art and scholarship—something to be studied, refined, and celebrated. This makes Provénzia something of a haven for mages and magical researchers, though the Arcane Order still keeps a watchful eye on independent practitioners.
 
 The Élavendren influence is strong, particularly in the use of fae magic and nature-based arcane traditions. Many Provénzian artists and scholars are drawn to the mystical, and the border between artistic inspiration and genuine magical practice is often blurred.
 
@@ -103,13 +105,35 @@ tolerant ([[lore-aelendanclt#land-that-is-not-owned|Land That Is Not Owned]]).
 
 Relations with Tarvénia are the opposite in every respect: competitive, mistrustful, and violent at the margins. Skirmishing along the mountainous eastern frontier is effectively constant—raid and counter-raid over pasture, passes and precedence, kept below the level at which either crown must formally acknowledge a war. The border families on both sides have been fighting the same quarrel for so long that it functions less as a conflict than as a way of life.
 
+## Its Quarters {#places}
+
+[[place-korvathis|Korvatis]]
+: the warm southern shore and its hinterland, with the capital [[place-jalnazdal|Jalnasdal]], the ports and [[place-aureliane|Aurelane]].
+
+[[place-zuravlenrgn|Zuravlen Region]]
+: the cold western seaboard and the peach valley that gives it its name.
+
+[[place-sathvothe|Satvote]]
+: the north, the Élavendren borderland and the Áelendan mountains, with the ocean port of [[place-batarencity|Bataren]].
+
+[[place-talothe|Talote]]
+: the eastern march against Tarvénia, which closes every winter.
+
+The great magnates hold their own country across these quarters: the earl at [[place-degavel|Degavel]] and the count at [[place-ravenshold|Ravenshold]] in the Korvatis, the count at [[place-athavel|Atavel]] in the Talote, and the princess at [[place-gwefavel|Gefavel]] in the Satvote. The dream sanctuary of Zunelas stands at [[place-argenna|Argenna]].
+
+## Current Situation {#present}
+
+The crown is strong enough to hold the kingdom and not strong enough to settle it. [[being-kralenldrvn|Kralen Lédravren]] reigns from [[place-jalnazdal|Jalnasdal]] over a Council of Peers that cannot find a majority while the Earl of [[place-degavel|Degavel]] and the Count of [[place-athavel|Atavel]] each measure themselves by the other, and over a Princess of [[place-gwefavel|Gefavel]] who means to win back the standing her line lost under [[being-kingvelarikiii|Vélarik III]]. The chartered cities press their charters against the crown's officers, and the Tanevar country holds that the Charter was the cities' and not its own.
+
+Each quarter has its own trouble. In the [[place-talothe|Talote]] the raiding season is open, and in [[place-ceravelvale|Keravel Vale]] bandits strike the roads with a precision nobody can explain. In [[place-sathvothe|Satvote]] the [[place-bldfldyharvalen|Blood-field of Yarvalen]] is withering the country around it faster every year, and [[affiliation-sacredforge|the Sacred Forge]] blames [[affiliation-blackflame|the Black Flame]], whose most senior lord in the kingdom, the Earl of [[place-harivrencity|Hárivren]], keeps his faith openly and holds the western march for the crown. On the southern coast [[place-valarencity|Válaren]] has not forgotten its last blockade, and the merchant houses lend to the crown with one eye on the salt revenue.
+
 ## Notable Features
 
-The Academies
-: Renowned institutions of learning covering philosophy, art, law, and magic. They attract students from across Ankaris and are a major source of Provénzia's cultural influence.
+The Academies of Aurelane
+: The three academies of the old provincial capital, of philosophy and rhetoric, of law, and of medicine and manuscripts. They attract students from across Ankaris and are a major source of Provénzia's cultural influence.
 
 The Courtly Tradition
-: Provénzia's elaborate social code of courtly love, patronage, and artistic expression, which has influenced culture across the Vilérian Sea region.
+: Provénzia's elaborate social code of [[lore-courtlylove|courtly love]], patronage, and artistic expression, which has influenced culture across the Vilérian Sea region.
 
 The Vineyards
 : Provénzia's wines are famous across Midhalión, and the wine trade is a cornerstone of the regional economy.

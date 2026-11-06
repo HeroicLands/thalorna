@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The upland sheep manor of Zuravlen—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."
 tags: [village, hill]
-data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 190, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [zuravlenrgn]
+  population: 190
+  government: brnyzrvln
+  packFolder: provenzia
 ---
 
 **Estivren** sits where the terraces give out and the hill pasture begins. It is the oldest settlement
@@ -50,3 +56,7 @@ Zuravlen altogether.
 Estivren is conservative, self-sufficient and quietly contemptuous of the valley's obsession with a
 fruit that fails. Its people keep older observances than the terraces do, its priest is elderly, and
 it sends its share to the frost vigil with visible reluctance.
+
+## The Quarrel {#present}
+
+The folding contracts come up at this autumn's fair, and Estivren means to raise its price. The fast boats have made the orchards richer, and the shepherd families reason that the orchards can pay for the dung that grows the fruit. [[place-palnebris|Palnebris]] cannot do without the folding and cannot afford to be seen to give way, and the head shepherd, whose office the lord cannot fill, speaks for the families and not for the lord. The lord of Estivren is caught between his shepherds and his neighbors, and he gains whichever way it goes.

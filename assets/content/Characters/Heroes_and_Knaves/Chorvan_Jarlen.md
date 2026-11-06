@@ -3,6 +3,7 @@ shortcode: kjrvngjrln
 name: {full: Chorvan Jarlen, given: Chorvan, clan: Jarlen}
 type: being
 subType: character
+description: "The chief ostler of the Dumvaral, the inn at the crossroads above Lizela, whose horses the Thornwood brigands keep stealing and he keeps bringing back."
 tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
@@ -13,6 +14,7 @@ data:
   culture: provenzianclt
   homes: [lizela]
   affiliations: {kngdmprvnz: {rank: 2}, ardavon: {rank: 1}}
+  socialTies: {being-melvrelvns: patron, being-kalzothegain: nemesis}
   gender: male
   species: humanflk
   born: 695.95
@@ -417,121 +419,75 @@ sohl:
 
 ![[kjrvngjrln|Chorvan Jarlen]]{float=top-left}
 
-Chorvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, and sculpted cheeks.
+Chorvan Jarlen is a 24-year-old man who stands 6'1" tall and is of medium build. He has a long, sun-browned face with a straight nose, an angular jaw, full lips and dark brows, and brown eyes that settle on a horse before they settle on its rider. His dark brown hair is cut short so it stays out of his way. He smells of the stable and does not notice.
 
 # Dossier {#dossier}
 
-## Background
+Chorvan Jarlen is the chief ostler of the Dumvaral, the inn at the great crossroads above [[place-lizela|Lizela]] where the great road comes down to the coast road, and the man merchants and nobles on the southern roads ask for by name when they stable a horse they cannot afford to lose.
 
-### Early Life
+He was born in the hill country on the edge of the [[place-thuravelhills|Túravel Hills]], the youngest of five children of a horse dealer, [Bruteve Jarlen]{.name data-type="being/npc"}, and of [Tolmara]{.name data-type="being/npc"}, who had been an herbalist and doctored her husband's stock. His brothers and sisters learned to sell; Chorvan learned the animals. At seven he was given a foal to raise as a lesson in responsibility, and it became his constant companion and his calling.
 
-Chorvan was born in the borderlands between the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [Wildwood Territories]{.name data-type="place"}, the youngest of five children to a horse trader named [Jorn Jarlen]{.name data-type="being/npc"} and a former herbalist named [Chelyra]{.name data-type="being/npc"}. His childhood was spent around stables and pasture, watching his father conduct business and his mother tend to injured and sick animals. Where his siblings learned to pursue profitable trades, Chorvan found his passion not in commerce but in the animals themselves. At age seven, he was given his first young foal to raise—a gift from his father intended as a lesson in responsibility. That foal became his inseparable companion, and in raising it, he discovered his true calling.
+At twelve he went down to the crossroads and bound himself to [Gaimele]{.name data-type="being/npc"}, head ostler of the Dumvaral, who held that a good ostler needs the patience of stone and the heart of a priest. In twelve years Chorvan learned feeding, grooming, doctoring and gentle training, and he rose to keep the inn's thirty to forty horses with a staff of junior ostlers under him. He lives above the stable, owns little and has refused the charge of larger stables elsewhere.
 
-### Training and Path
-
-At twelve years old, Chorvan apprenticed himself to Master [Aelfen]{.name data-type="being/npc"}, the head ostler of the well-known [Traveler's Rest Inn]{.name data-type="place/structure"} located at the great crossroads where roads from [[place-provenzrgn|Provénzia]], the [Merchant Cities]{.name data-type="place"}, and the coastal provinces meet. For thirteen years, he studied the care of horses in all their complexity—feeding and grooming, but also understanding their temperaments, healing their ailments, training them gently but firmly, and reading the subtle signs of their health and mood. Master Aelfen was a stern but fair teacher who believed that a good ostler must possess the patience of stone and the heart of a priest. Chorvan proved an apt student, eventually becoming responsible for the care of the inn's entire complement of thirty to forty horses, with a rotating staff of junior ostlers beneath him.
-
-### Current Situation
-
-Now established as the chief ostler at the Traveler's Rest Inn, Chorvan has become indispensable to the operation. His reputation has spread far enough that merchants and nobles specifically request to stable their horses with him, trusting that their animals will be returned to them in better condition than when they arrived. He lives in modest quarters above the stable, owns little, and spends nearly all his daylight hours among the horses. He has declined several offers to become head of larger stables elsewhere, preferring the deep relationships he's built with both the animals under his care and the inn's regular travelers.
+His horses have become a target. [[place-thornwood|Thornwood]] lies close enough to the crossroads that a band can strike the road and be under its trees by dark, and its captain, [[being-kalzothegain|Kalzote Gainessis]], has a taste for good horses. The band took two from the Dumvaral's stable this spring, and Chorvan has twice tracked stolen animals into the wood and brought them out again.
 
 ## Psyche
 
 ### Personality
 
-Chorvan is a man of few words but real warmth. He communicates with equal fluency through speech and through action, and many travelers report that conversing with him is peaceful—he listens without judgment, asks thoughtful questions, and never hurries a conversation. He possesses an almost meditative quality, as if he's learned patience and acceptance from years of working with creatures that operate outside human logic. There is a gentleness to him that might be mistaken for softness by those who don't know him, but those who do understand that it masks an underlying strength and resolve. He is capable of great tenderness with suffering animals and uncertain travelers, yet firm and clear with those who would mistreat animals under his care.
-
-Chorvan struggles with conflict and direct confrontation, preferring always to seek peaceful resolution or simply to withdraw rather than engage in argument. This can appear as passivity, but it stems from a deeper philosophy: he believes that most conflict arises from people operating at cross-purposes when patient conversation could bridge the gap. He follows the **[[affiliation-ardavon|god Árdavon]]** not through ritual but through his daily practice of balance—maintaining equilibrium between the needs of animals and the needs of travelers, between old ways and new, between solitude and community.
+Chorvan is a man of few words and real warmth. He listens without judging, asks good questions and never hurries anyone, horse or traveler. He is gentle with animals and frightened guests and plain with anyone who mistreats an animal in his care. He follows [[affiliation-ardavon|Árdavon]], the keeper of gates and balances, through his daily work rather than through ritual.
 
 ### Motivation
 
-Chorvan is driven by a desire to provide care and comfort to creatures that cannot ask for it, and to be a reliable, honest presence in a world often characterized by deception and hurried dealing. He harbors no ambition for wealth or status, but he is motivated by the knowledge that his work matters deeply—that a horse properly cared for will carry its rider safely, that a nervous traveler's anxiety can ease through conversation with someone trustworthy. On a deeper level, he seeks to create spaces of peace and refuge within the inn, islands of tranquility where both animals and humans can find respite from the demands of the road. He is quietly determined to preserve and pass on the knowledge and philosophy of animal care that Master Aelfen taught him, viewing it as a sacred trust.
+He wants to give care to creatures that cannot ask for it, and to be an honest presence on a road full of hurried dealing. He means to pass on what Gaimele taught him.
 
 ### Strengths
 
-Animal Husbandry
-: His mastery of animal care means he can diagnose and treat nearly any equine ailment, calm terrified horses, and understand their individual temperaments and needs with supernatural sensitivity.
-
-Practical Craftsmanship
-: Strength in metalcraft, woodworking, and drawing allows him to repair tack, maintain stable facilities, and create tools perfectly suited to his purposes without needing to commission outside work.
-
-Keen Observation
-: Sharp perception combined with trained awareness allows him to notice details others miss—the slight favoring of a horse's leg that indicates injury, the nervous energy of a traveler fleeing danger, the subtle tells that someone is being dishonest.
-
-Patient Teaching
-: His calm demeanor and proven track record make him an excellent informal teacher, and many younger folk work under him hoping to learn his methods.
-
-Climbing and Physical Capability
-: Dexterity and climbing skills allow him to handle horses on rough ground and retrieve animals from dangerous situations, as well as to maintain high rooftops and kit.
-
-Reliable Presence
-: His reputation for absolute honesty, reliability, and kindness makes him one of the most trusted figures in the region. Merchants and nobles trust him with their most valuable animals and often confide in him.
+He can doctor nearly any ailment of a horse, calm a terrified animal and read a horse's temper at a glance. He mends his own tack and tools, notices the limp before the rider does and the lie before the liar has finished, and is trusted by every regular traveler at the crossroads.
 
 ### Weaknesses
 
-Conflict Aversion
-: His discomfort with confrontation can lead him to avoid necessary difficult conversations or to fail to stand up for himself when treated unfairly. He will absorb mistreatment rather than engage in argument.
-
-Limited Worldliness
-: Years spent primarily with animals and at the inn have left him somewhat naive about broader politics, intrigue, and deception. He can be manipulated by those who appeal to his good nature.
-
-Insufficient Force
-: His strength is adequate but no more, and his lack of combat training means he would be outmatched in any serious physical confrontation. His will is also not particularly strong.
-
-Overthinking Simple Matters
-: His tendency toward patient, meditative consideration sometimes causes him to over-complicate straightforward decisions or miss obvious solutions through over-analysis.
-
-Limited Ambition
-: His lack of drive for advancement means he may miss opportunities for personal growth or fail to advocate for raises and better conditions when deserved.
+He avoids a quarrel even when he should have one, and he can be led by anyone who appeals to his good nature. He is strong enough and no more, and he has never been trained to fight.
 
 ## Social
 
+### Companions
+
+The junior ostlers of the Dumvaral, and old Gaimele, who still sits in the stable door in the afternoons and criticizes.
+
 ### Patrons
 
-Innkeeper [Marlith]{.name data-type="being/npc"}
-: The proprietor of the Traveler's Rest Inn, who trusts Chorvan completely and relies on him to maintain the quality of the inn's services. She often consults him on matters beyond his stable work.
+[Tennairsa]{.name data-type="being/npc"}
+: The innkeeper of the Dumvaral, who trusts Chorvan completely and asks his advice on more than horses.
 
-Merchant Caravans of the Crossroads
-: Regular merchants who pass through the inn give Chorvan gifts, bonuses, and special requests, viewing his care as worth premium payment.
+[[being-melvrelvns|The Count of Ravenshold]]
+: Keeps his best brood mares at the Dumvaral so that they are in Chorvan's care.
 
-The Kingdom's Ranger Corps
-: The royal rangers occasionally stable their horses with Chorvan and respect his knowledge of equine fitness and trail-readiness.
-
-Noble Houses of Provénzia
-: Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Chorvan's care.
+The merchants of the crossroads
+: The regular travelers, who pay Chorvan extra and bring him their difficult horses.
 
 ### Enemies
 
-The Slave Traders of the [Shadowmarch]{.name data-type="place"}
-: Criminal organizations that occasionally pass through the crossroads. Chorvan refuses them service, and they view him as an obstacle to their operations.
-
-The Road Bandits of [[place-thornwood|Thornwood]]
-: A band of brigands led by the cruel **Captain [[being-kalzothegain|Kalzote]]** who have attempted to steal valuable horses from the inn. Chorvan has helped facilitate the recovery of stolen animals.
-
-Rival Ostlers
-: A few ostlers from competing stables view Chorvan's reputation as a threat to their business and have occasionally attempted to poach his clients or sabotage his reputation.
+[[being-kalzothegain|Kalzote Gainessis]], whose band has lost horses to him twice; and a few ostlers of the coast stables, who would like his custom.
 
 ### Affiliations
 
-The Traveler's Rest Inn
-: His primary workplace and community, where he holds significant influence and trust.
-
-Informal Network of Beast-Keepers
-: Through his reputation, he maintains loose connections with other skilled animal handlers, herbalists, and healers throughout the region.
+- **[[affiliation-kngdmprvnz|Kingdom of Provénzia]]**: Chorvan is a Freeman of the crown.
+- **[[affiliation-ardavon|Faith of Árdavon]]**: He keeps the god's observances in his own way.
 
 ## Plot Hooks
 
-The Cursed Mare
-: A noble's prized brood mare arrives at the inn bearing visible signs of a magical curse—her mane turns white overnight, her temperament becomes unpredictable, and she rejects all food and care. The nobleman, Duke [Therin]{.name data-type="being/npc"} of [House Valorian]{.name data-type="affiliation/lineage"}, desperate to break the curse before his breeding program collapses, turns to Chorvan for help. Though the ostler has never dealt with magical afflictions, his deep connection to animals may be key to understanding what ails her. The investigation leads Chorvan into contact with [Morrigan the Hedge Witch]{.name data-type="being/npc"}, who reveals that a jealous rival bred another mare with stolen magical components specifically to curse this one.
+The Autumn Traffic
+: The merchants who stable at the Dumvaral have begun to ask whether its horses are worth riding past Thornwood, and Tennairsa wants Kalzote's band broken before the autumn traffic. No lord's land ends at the wood, so nobody will send men. Chorvan knows the band's trails, and asks a party to follow them with him.
 
-The Refugee's Escape
-: A desperate family fleeing persecution arrives at the inn, their children riding exhausted horses and carrying nothing but the clothes on their backs. They ask Chorvan to hide them and provide fresh animals for the night before they continue to the border. Helping them could bring dangerous enemies to the inn and threaten his position, but refusing to help violates everything he believes in.
+The Count's Mare
+: The Count of Ravenshold's best brood mare has turned white in the mane overnight and will not eat. Chorvan has never seen a sickness like it, and the trail leads to [Ulmera]{.name data-type="being/npc"}, a hedge-wise woman of the Túravel, who says a rival's mare was bred to curse this one.
 
-The Champion's Return
-: An old traveler arrives at the inn riding a horse of extraordinary breeding and apparent extreme age—well beyond the normal lifespan of a horse. The traveler, a mysterious warrior named **Ser [[being-kotsudekanar|Kotsude]]**, claims the horse is far older than it should be due to magical preservation, and he needs Chorvan to understand its needs. As Chorvan works with the unusual animal, he becomes entangled in Ser Kotsude's quest to recover a stolen artifact, learning that the knight believes the artifact contains knowledge that could change the balance of power in several kingdoms.
+The Riders in the Night
+: A family fleeing something they will not name reach the inn on blown horses and beg Chorvan for fresh ones and a night's hiding. Helping them could bring their pursuers to the crossroads.
 
-The Great Breeding
-: A prestigious alliance of noble houses commissions Chorvan to assist in organizing a grand breeding program that would create a new strain of superior warhorses. This project would be his life's work, requiring him to journey to distant stables, negotiate with other masters, and establish himself as a leading figure in the art of horsemanship. However, he learns that the breeding program is secretly intended to create creatures capable of carrying armored warriors into morally questionable wars of conquest.
+The Old Horse
+: [[being-kotsudekanar|Ser Kotsude]] rides in on a horse far older than any horse should be, and asks Chorvan to learn what it needs. The knight's errand, and the artifact he hunts, follow the horse into the stable.
 
-The Plague at the Crossroads
-: A mysterious illness begins to spread among the horses at the inn and throughout the region, killing some and leaving others weakened and sterile. Chorvan races against time to identify the cause—whether it's natural disease, poisoning, or magical curse—while attempting to save the animals in his care. His investigation reveals that the plague was deliberately introduced by enemies of the Kingdom of Provénzia as part of a coordinated military campaign to weaken the realm's ability to field cavalry forces.
+The Sickness at the Crossroads
+: A wasting sickness spreads through the inn's stable and the farms around it, killing some horses and leaving others barren. Chorvan must find whether it is disease, poison or something worse, and who would profit from a kingdom short of remounts.

@@ -40,6 +40,11 @@ The townspeople take their money and give directions of a quality that varies wi
 behaved. Palvote has a good deal of hill blood in it, keeps one or two observances that its summer
 visitors would find surprising, and is careful that they never do.
 
+## The Present {#present}
+
+The two lives of the town have begun to meet. This summer the villas on the ridge are full, and so are the inns below them: more scholars, antiquarians and agents of the [[affiliation-ordoarcanis|Thordimalon]] have outfitted at Palvote for the Túravel than in any year the innkeepers can remember. Some of them pay hill men to guide them, and the hill families have begun to ask which of their own are taking that money. The summer families have noticed the strangers and not the reason, and the townspeople mean to keep it that way. A guide who took a party into the hills in spring has not come down, and his family has not asked the town for help.
+
 ## See Also
 
 - [[place-thuravelhills|Túravel Hills]] · [[place-provenzrgn|Provénzia Region]]
+- [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Túravel Hills]]
