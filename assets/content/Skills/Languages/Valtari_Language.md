@@ -5501,6 +5501,9 @@ data:
     - {name: Valtari Language, tongue: translation}
     - {name: Valtari Lexicon, tongue: translation}
     - {name: Váltongue, tongue: translation}
+    - {name: Norodari, tongue: valtari}
+    - {name: Kubasor Norodari, tongue: valtari}
+    - {name: Telusor Bazunari, tongue: valtari}
   retired:
     - {form: hâkim, instead: kiromu, why: "an Earth word, the captain"}
     - {form: khrema, instead: zazuru, why: "an Earth word, goods"}

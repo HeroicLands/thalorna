@@ -6128,6 +6128,33 @@ data:
     - {name: vithgard, tongue: nordmal}
     - {name: nordheimn, tongue: nordmal}
     - {name: grimvar, tongue: nordmal}
+    - {name: hlomfell, tongue: nordmal}
+    - {name: dvonvík, tongue: nordmal}
+    - {name: vrellnes, tongue: nordmal}
+    - {name: hvelmnes, tongue: nordmal}
+    - {name: glervhavan, tongue: nordmal}
+    - {name: tvarnidrok, tongue: nordmal}
+    - {name: thraskumak, tongue: nordmal}
+    - {name: druskaruk, tongue: nordmal}
+    - {name: knilthorv tvarnidrok, tongue: nordmal}
+    - {name: hrundselda thraskumak, tongue: nordmal}
+    - {name: snurvinda druskaruk, tongue: nordmal}
+    - {name: glurvmil, tongue: nordmal}
+    - {name: glurvmil hvurnaruk, tongue: nordmal}
+    - {name: hvarnumak, tongue: nordmal}
+    - {name: skruldthann hvarnumak, tongue: nordmal}
+    - {name: thilminda ralthumak, tongue: nordmal}
+    - {name: knurvorv hnirvendik, tongue: nordmal}
+    - {name: vraldselda kruldidrok, tongue: nordmal}
+    - {name: flarnthann ulthidrok, tongue: nordmal}
+    - {name: hvulgorv murvendik, tongue: nordmal}
+    - {name: tvilgorv rultharuk, tongue: nordmal}
+    - {name: krildthira tvulgaruk, tongue: nordmal}
+    - {name: mirvir nulthumak, tongue: nordmal}
+    - {name: hvurnrinna vrathumak, tongue: nordmal}
+    - {name: thruldmil skulfendik, tongue: nordmal}
+    - {name: brildmil dvurnumak, tongue: nordmal}
+    - {name: gnaldrinna driskumak, tongue: nordmal}
   retired:
     - {form: vatn, instead: vatan, why: "an Earth word"}
     - {form: hrafn, instead: hrafan, why: "an Earth word"}

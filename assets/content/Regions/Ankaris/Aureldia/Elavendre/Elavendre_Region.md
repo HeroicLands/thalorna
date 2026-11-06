@@ -29,7 +29,7 @@ At the heart of it lie the [[lore-aralwen|Araelwen]], the land's core mystery: t
 
 ## Geography
 
-Élavendre occupies the western coast of Ankaris, sheltered by mountain ranges to the southeast and south, rolling hills to the east, and open to the sea on the north and west. [[place-calypsacity|Kalipsa]] lies a day-and-a-night's sail off the western portion of the northern coastline. The landscape is lush and varied: primeval forests of silver birch and ancient oak, rolling green plains crossed by winding rivers, and dramatic coastal cliffs battered by cold ocean swells. Inland, crystal-clear lakes fill glacial valleys, and the mountains are perpetually shrouded in mist. The climate is mild and wet, with frequent rains that keep the land eternally green.
+Élavendre occupies the western coast of Ankaris, sheltered by mountain ranges to the southeast and south, rolling hills to the east, and open to the sea on the north and west. [[place-calypsaisle|The Isle of Kalipsa]] lies seventy-five miles off the western portion of the northern coastline, a day and a night's sail from Lísere Bay. The landscape is lush and varied: primeval forests of silver birch and ancient oak, rolling green plains crossed by winding rivers, and dramatic coastal cliffs battered by cold ocean swells. Inland, crystal-clear lakes fill glacial valleys, and the mountains are perpetually shrouded in mist. The climate is mild and wet, with frequent rains that keep the land eternally green.
 
 ## Peoples
 

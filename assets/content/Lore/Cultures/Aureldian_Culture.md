@@ -24,7 +24,7 @@ data:
     height: {female: {min: 5' 1", max: 6' 1"}, male: {min: 5' 5", max: 6' 5"}}
 ---
 
-The Aureldian culture is a civilization several peoples hold in common, not a people of its own. The [[lore-vylarianclt|Vilérians]], [[lore-elavendriclt|Élavendri]], [Kalipsan]{.name data-type="lore/culture"}, [[lore-aelwythanclt|Eilwìthan]], [[lore-tarvenanclt|Tarvenan]] and [[lore-provenzianclt|Provénzian]] peoples each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.
+The Aureldian culture is a civilization several peoples hold in common, not a people of its own. The [[lore-vylarianclt|Vilérians]], [[lore-elavendriclt|Élavendri]], [[lore-kalipsanclt|Kalipsan]], [[lore-aelwythanclt|Eilwìthan]], [[lore-tarvenanclt|Tarvenan]] and [[lore-provenzianclt|Provénzian]] peoples each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.
 
 ## The Twelve
 
@@ -89,8 +89,8 @@ Six peoples share the Aureldian culture. Each is a culture in its own right, and
 [[lore-elavendriclt|Élavendri]]
 : the people of [[place-elavendre|Élavendre]].
 
-Kalipsan
-: the people of [[affiliation-calypsa|Kalipsa]], a free port city on a small island off Élavendre's northern coast. They have no culture note of their own.
+[[lore-kalipsanclt|Kalipsan]]
+: the people of [[affiliation-calypsa|Kalipsa]], a free port city on a small island off Élavendre's northern coast.
 
 [[lore-aelwythanclt|Eilwìthan]]
 : the people of the island of Eilwìth. They are one people in three realms, the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and the [[affiliation-repblcndrth|Republic of Ondareth]], who share essentially one culture and are governed differently: Aldorath is a feudal monarchy advised by a council of barons, Dúnavarre is ruled directly by [[affiliation-dunavarsynod|a synod]] of [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) mages, and Ondareth is a senatorial republic. The realms share no political order.

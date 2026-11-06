@@ -14,7 +14,7 @@ data: {demonym: null, lore: [], parents: [lisere], population: null, packFolder:
 come nearest, northern Élavendre and southern Vristwald are only about **thirty miles apart**.
 
 [[place-calypsacity|Kalipsa]] lies outside the mouth, some seventy-five miles off the Élavendren
-shore to the north, and commands the approaches to the whole bay.
+shore to the north, and commands the approaches to the whole bay. [[place-kalipsarun|The Kalipsa Run]] crosses to it from Sarmelis in a day and a night.
 
 ## What the Shape Means
 

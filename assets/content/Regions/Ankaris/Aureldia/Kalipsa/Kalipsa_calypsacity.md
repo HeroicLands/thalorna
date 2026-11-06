@@ -3,39 +3,96 @@ shortcode: calypsacity
 name: {full: Kalipsa}
 type: place
 subType: settlement
-description: "A free port on a steep island off Élavendre, governed by a council of shipping houses and kept free by a navy far larger than the city."
+description: "A free port on the east coast of a steep island off Élavendre, governed by a council of shipping houses, kept free by a navy far larger than the city, and in the last year of its Harbormaster's term."
 tags: [port, city]
-data: {demonym: null, lore: [], parents: [aureldirgn], population: 28000, government: calypsa}
+data:
+  demonym: Kalipsi
+  lore: []
+  parents: [calypsaisle]
+  routes: [{to: kalipsarun, bearing: E, mode: ship, days: 1, terrain: [coast, open-sea, coast]}]
+  population: 28000
+  government: calypsa
+  packFolder: calypsa
 ---
 
-## Overview
+## Overview {#overview}
 
-A harbor pilot at **Kalipsa** will tell you the rule of the place before you are tied up: the city is nobody's vassal. It stands on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], barely large enough to hold the city proper, its terraced vineyards and a scattering of fishing villages, and its harbor is one of the best-sheltered anchorages in the northern part of the [[place-ankrscntnnt|Ankaris Continent]]. It pays no tribute to the Nordmen kingdoms, owes no fealty to [[affiliation-kngdmlvndr|Élavendre]], and answers to no [[affiliation-ordoarcanis|Arcane Order]] authority beyond what its [Captains' Council]{.name data-type="affiliation/governmental"} chooses to tolerate. That freedom is its principal product.
+**Kalipsa** is a free port on the east coast of the [[place-calypsaisle|Isle of Kalipsa]], seventy-five miles off the northern coast of [[place-elavendre|Élavendre]], and the rule of the place is that the city is nobody's vassal. It pays no tribute to the Nordmen kingdoms, owes no fealty to [[affiliation-kngdmlvndr|Élavendre]], and answers to no [[affiliation-ordoarcanis|Arcane Order]] authority beyond what its [[affiliation-captnscncl|Captains' Council]] chooses to tolerate. Some twenty-eight thousand people live in it. Its harbor is one of the best-sheltered anchorages in the north of the [[place-ankrscntnnt|Ankaris Continent]], and its navy is out of all proportion to its size.
 
-## The Harbor
+The city is the seat of the [[affiliation-calypsa|city-state of Kalipsa]], which governs the whole island. Its freedom is its principal product, and every other good that passes through its warehouses is in some sense paying for it.
 
-[[skill-nordmalng|Nordmal]] is the working language of the docks and the old city, and [[skill-valtarlng|Valtari]], a trade pidgin with Helionite roots, is spoken in the markets. A traveler from [[place-provenzrgn|Provénzia]] or the [[affiliation-byzarianlg|Bizarian League]] is understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aureldian hymns, and the kitchens combine northern smoked fish with southern spice and olive oil. The local wine is, by the admission of its drinkers, indifferent.
+## Arriving {#arriving}
 
-Three landmarks anchor the waterfront. [The Old Mole]{.name data-type="place/site"} is the original stone harbor mole, built, local tradition says, by refugees from a forgotten Helionite colony; several of its stones carry characters no living scholar can read. [The Lantern of Kalipsa]{.name data-type="place/site"} is a seamark tower on the northern headland, whose olive-oil beacon is relit every night, and whose lantern-keeper holds a hereditary office of real civic prestige. [The Sea-Law Hall]{.name data-type="place/site"} is where the city's professional arbitrators hear commercial disputes under the [Sea-Law]{.name data-type="lore/law"}, and captains honor its verdicts across half the northern shipping world because none can afford the cost of defying them.
+From the sea the [[place-lantrnklps|Lantern of Kalipsa]] shows first, a clear yellow light on the northern headland, and a hull lies off it until the pilot's boat comes out past [The Hounds]{.name data-type="place/feature"}. The pilot takes the hull in between the headland and the head of [[place-oldmole|the Old Mole]], under the round tower that carries the harbor chain, and the harbor opens behind the mole as still as a pond. The city climbs from the quays in tiers of gray stone and slate up the slope to the old city's wall, and above it the vineyards climb in terraces toward the bare ridge of [Hlomfell]{.name data-type="place/feature"}.
 
-## Who Governs
+The Harbormaster's customs officers board every hull before it berths. They take a manifest, set the dues, and give a berth on the inner quay of the Old Mole for a deep-sea hull or on the lower quay for a coaster. A visitor who arrives with cargo meets the Harbormaster's office before anyone else.
 
-The Captains' Council governs: the heads of the seafaring houses, with seats weighted by the tonnage each house commands. It elects a Harbormaster for a single three-year term, and he may not serve again immediately. The Harbormaster answers for the harbor, the fortifications, the customs revenue and the standing navy, so a visitor who arrives with cargo meets his office first. Family fortunes rise and fall with fleets: a family that loses three ships in a season may be elbowed from the Council within the year, and one that opens a new route may enter it. Guilds of shipwrights, chandlers, ropemakers and pilots run their own affairs under charters from the Council.
+## Politics {#present}
 
-## Making a Living
+The city is counting hulls. [[being-hrundthrsk|Hrundselda Thraskumak]]'s term as Harbormaster ends at the spring sitting of 720, and the Council's voices at the election follow the tonnage census taken that spring. [[being-knilthtvrn|Knilthorv Tvarnidrok]] of [[affiliation-hsetvarnidrok|Tvarnidrok]], the head of the old houses, has the voices on last year's roll. [[being-kubasornrd|Kubasor Norodari]] of [[affiliation-hsenorodari|the Norodari]] has bought and ordered hulls all winter to take them away. Three Norodari hulls lost in the autumn fog are before [[place-sealawhall|the Sea-Law Hall]], and if [[affiliation-bondsyndcts|the Bond Syndicates]] do not pay for them the Norodari come to the census short.
 
-The harbor is the economy. Kalipsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped and crushing tariffs on cargo warehoused longer than a season, which forces capital through the city instead of letting it sit. The island itself produces almost nothing. It is steep, thin-soiled and short of fresh water, so Kalipsa eats what it buys: grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands]], cloth from Provénzia, metalwork from [[affiliation-orashion|Órashion]]. The shipping houses jointly maintain a navy out of all proportion to the city's size, built to make raiding Kalipsa or its sea-lanes cost more than it returns, and it is the reason the city has stayed free.
+Every house on the quay has taken a side. The yards of [[affiliation-hsethraskumak|Thraskumak]], the Harbormaster's own house, are building two of the Norodari hulls, and the old houses say so in the taverns as well as the Council. The tonnage levy has risen three years running, and both candidates promise to lower it.
+
+## Order and Law {#order-and-law}
+
+The Harbormaster's officers keep the city. The Master of the Watch commands the city guard and the garrisons of the forts, the Customs Officer collects the dues on every hull and cargo, and both answer to the Harbormaster. The city's courts try theft, violence and murder under the Harbormaster's officers, and the [[lore-sealaw|Sea-Law]] governs everything about ships, shares, cargoes and bonds, heard by the arbitrators at the Sea-Law Hall.
+
+The one rule every visitor learns is the guest's: a stranger who has eaten at a Kalipsan table or been given a berth in the harbor is under the city's protection, and a wrong done to him is judged twice as heavily as the same wrong done to a citizen. A Kalipsi captain who breaks a contract may be pitied; one who breaks a guest's trust is not welcome in the harbor again.
+
+## What the City Lives By {#what-the-city-lives-by}
+
+**The harbor.** Kalipsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped and crushing tariffs on cargo warehoused longer than a season. The last is meant to be punitive: it forces capital through the city instead of letting it sit. The turnover pays for the Council's treasury and underwrites the city's insurance trade.
+
+**Bonds.** The Bond Syndicates write bonds on hulls and cargoes across the north, and merchants as far away as [[affiliation-vylarinmpr|Viléria]] buy shares of their books.
+
+**Ships.** The Thraskumak yards and the smaller yards beside them build and refit for the navy and the houses, and the guilds of shipwrights, chandlers, ropemakers and pilots run their own affairs under charters from the Council.
+
+**What it buys.** The island is steep, thin-soiled and short of fresh water, so Kalipsa eats what it buys: grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands]], cloth from [[place-provenzrgn|Provénzia]], metalwork from [[affiliation-orashion|Órashion]], olive oil and wine from the south.
+
+## Quarters {#quarters}
+
+**The old city** is the walled quarter at the top of the slope, where the oldest houses keep their halls and [[skill-nordmalng|Nordmal]] is spoken in the street. [[affiliation-hsetvarnidrok|Tvarnidrok]]'s hall is the largest of them.
+
+**The quay** runs along the harbor from the root of the Old Mole to the yards. The customs house, with the Council chamber above it, stands at its middle, and the Sea-Law Hall and the syndicates' counting-rooms are beside it.
+
+**The lower quay** is the coasters' harbor and the market quarter behind it, where the newer houses keep their counting-rooms and [[skill-valtarlng|Valtari]] is the language of every stall.
+
+**The yards** lie at the north end of the harbor under the headland, with the Thraskumak slips, the timber pond, the ropewalk and the sail-lofts.
+
+**The terraces** above the old city are vineyards and the walled gardens of the great houses, with the cisterns that keep the city through a dry summer.
+
+## Faith and Festivals {#faith-and-festivals}
+
+The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] keep their temples in the city, and the temple of [[affiliation-pozeras|the Faith of Pozeras]], the Wayfarer's, stands on the quay where every master who sails can reach it. A master gives at the Wayfarer's altar before a voyage and again when he returns. The Nordmen families keep the gods of the north as well, and the [[affiliation-thrunvald|Faith of Thrunvald]] is honored by crews at sea. Weddings mix Nordmen drinking-songs with Aureldian hymns.
+
+The [[affiliation-ordoarcanis|Thordimalon]] keeps a factor's house in the old city and no chapterhouse, and the city's official position is that the Order's writ stops at the waterline. In practice an Order agent who keeps his conduct discreet is tolerated, and one who does not is asked to leave.
+
+## Where a Party Lodges {#lodging}
+
+The inns of the quay take captains and factors and charge by the night. The lodging-houses of the lower quay let beds to deckhands and travelers and keep the market's news. A guest given a berth in the harbor may be offered a bed in a house of the old city, and accepting it puts the guest under that house's protection and its obligations together.
+
+## History {#history}
+
+The [[place-oldmole|Old Mole]]'s stones are the oldest thing in the city, and the city's tradition says refugees from a forgotten Helionite colony laid them. The Nordmen fishers and traders who settled the harbor gave the old city its tongue and its oldest houses. Under the [[affiliation-vylarinmpr|Vilérian Empire]] the city took the guild charter of [[affiliation-tevran|the Tevran Maldor]], paid its dues and kept its Council.
+
+About 470 AF a Harbormaster who would not give up the office brought on a civil war among the houses, fought in the harbor and the streets of the old city. The houses that won it gave the Harbormaster a single term and built the Sea-Law Hall. When [[lore-southrnfleets|the Southern Fleets]] of the Nordmen came south between 519 and 530, the houses hung the harbor chain, raised the Lantern's tower and built the navy on the tonnage levy, and the fleets that burned Élavendre's north shore passed the island by. Since [[lore-crownssettle|the Settlement of the Crowns]] the city has paid tax to nobody. The marriages of [Hlurthann II]{.name data-type="being/npc"} of [[affiliation-kingdomlgn|Malagna]] into the old houses in the early seventh century opened the northern trade, and the city has stayed out of every Nordmen dynastic quarrel for three centuries.
+
+## Hooks {#hooks}
+
+- **The census.** [[being-hrundthrsk|The Harbormaster]] wants strangers to walk the quays beside the Customs Officer's tally-men and count every hull.
+- **The hearing.** [[affiliation-hsenorodari|The Norodari]] need a witness from Sarmelis before the Sea-Law Hall hears the loss of their hulls.
+- **The new face.** The Order's factor wants copies of the carving the storm uncovered on the Old Mole before the masons wedge the stone.
 
 ## See Also
 
 [[affiliation-calypsa|Kalipsa]]
 : the city-state, its Captains' Council and its relations
 
-[[place-elavendre|Élavendre]]
-: the nearest mainland neighbor
+[[place-calypsaisle|The Isle of Kalipsa]]
+: the island the city stands on
+
+[[place-kalipsarun|The Kalipsa Run]]
+: the sea road to Lísere Bay
 
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : the principal Nordmen trading partner
-
-[[skill-nordmalng|Nordmal]], [[skill-valtarlng|Valtari]]
-: the languages of the docks and markets
