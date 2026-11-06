@@ -3,13 +3,13 @@ shortcode: ordnbrylnd
 name: {full: Ordan Brilonde}
 type: being
 subType: npc
-description: "A mercantyler of Lizela who deals in bullion and cut stone, whose word is the weight, and whose answer to the crown's salt loan will place his house in the quarrel it has always avoided."
+description: "A merchant of Lizela who deals in bullion and cut stone, whose word is the weight, and whose answer to the crown's salt loan will place his house in the quarrel it has always avoided."
 tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [trader, courtier]
-  occupation: Mercantyler
+  occupation: Merchant
   lore: []
   culture: provenzianclt
   homes: [lizela]
@@ -397,7 +397,7 @@ Ordan Brilonde is a 41-year-old man who stands 5'9" tall and is of heavy build, 
 
 # Dossier {#dossier}
 
-Ordan Brilonde is a mercantyler of [[place-lizela|Lizela]], the salt town on the southern coast of [[place-provenzrgn|Provénzia]], the head of a minor [[lore-provenzianclt|Provénzian]] house whose money is in bullion and stones rather than in land.
+Ordan Brilonde is a merchant of [[place-lizela|Lizela]], the salt town on the southern coast of [[place-provenzrgn|Provénzia]], the head of a minor [[lore-provenzianclt|Provénzian]] house whose money is in bullion and stones rather than in land.
 
 He heads one of the small noble houses of Lizela, rich enough to matter in the district and not landed enough to matter at [[place-jalnazdal|Jalnasdal]], which has traded in gold, silver and cut stone since his grandfather's day. He buys metal and stones where they come ashore, weighs and values them himself, and sells to the goldsmiths of [[place-valarencity|Válaren City]] and the households of the capital, where his weight on an ingot is taken without a second scale. He has never sold short weight and never overvalued a stone for a buyer who wanted it overvalued, which has cost him custom and made the custom he has. He keeps his house out of the long quarrel between the crown and the [[affiliation-councilpeers|Council of Peers]], as his family always has.
 

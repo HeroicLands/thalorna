@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [trader, courtier]
-  occupation: Mercantyler
+  occupation: Merchant
   lore: []
   culture: bethuanclt
   homes: [bethura]

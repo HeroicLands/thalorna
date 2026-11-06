@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [trader, mariner]
-  occupation: Mercantyler (Supercargo)
+  occupation: Merchant (Supercargo)
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
@@ -396,7 +396,7 @@ Avis Winwik is a 26-year-old woman who stands 5'10" tall and is slender. She has
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Avis Winwik is a mercantyler who sails as a supercargo.
+Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Avis Winwik is a merchant who sails as a supercargo.
 
 Avis has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and seeing that every transaction goes smoothly. She is known for her head for business and her ability to adapt to changing markets. Clients and colleagues alike respect her for her honesty and reliability.
 
@@ -430,7 +430,7 @@ Few; she is generally well respected.
 
 ## Plot Hooks
 
-The Mercantyler (Supercargo)'s Dilemma
+The Merchant (Supercargo)'s Dilemma
 : A cargo Avis is responsible for turns out to be other than its manifest says, and her company and her name cannot both be kept.
 
 Old Grudges

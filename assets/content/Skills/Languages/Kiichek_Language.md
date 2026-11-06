@@ -4083,7 +4083,7 @@ Syllable signs
 : Signs that write a sound, used for names and for the endings a scribe wants fixed
 
 Common hand
-: Simple signs built from a few strokes, each filling an undrawn square cell and set in columns two signs wide. A row of two reads left to right, then the next row down, then the next column. A miner writes in chalk on a shaft wall, a carpenter in chalk on a slate or wooden palette, a mercantyler with a stylus on bark paper, and a scribe with brush or pen on vellum, where the hand becomes calligraphy
+: Simple signs built from a few strokes, each filling an undrawn square cell and set in columns two signs wide. A row of two reads left to right, then the next row down, then the next column. A miner writes in chalk on a shaft wall, a carpenter in chalk on a slate or wooden palette, a merchant with a stylus on bark paper, and a scribe with brush or pen on vellum, where the hand becomes calligraphy
 
 Ceremonial hand
 : Every sign drawn as its own picture inside a drawn box, on temple walls, monuments, pyramids and posts around a village common. It shares its readings with the common hand and is not an elaboration of it

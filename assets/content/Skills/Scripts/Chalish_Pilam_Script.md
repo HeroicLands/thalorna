@@ -39,7 +39,7 @@ The common hand is not a reduction of the ceremonial pictures. It has its own co
 
 - A miner writes in chalk on a shaft wall.
 - A carpenter writes in chalk on a slate, or on a wooden palette.
-- A mercantyler writes with a stylus on bark paper.
+- A merchant writes with a stylus on bark paper.
 - A scribe writes with a brush or pen on vellum, made from animal skin.
 
 **Vellum and calligraphy.** On vellum the common hand becomes calligraphy. A scribe writes the same signs neat, even and fine, so that a page is read as much for its beauty as for its content.
@@ -91,7 +91,7 @@ An account or measurement keeps its quantity and the thing counted together. A d
 
 Literacy is a sliding scale.
 
-- **Almost everyone** knows the 24 core glyphs, with a few more specific to their trade: a miner's warnings and shaft marks, a carpenter's measures, a mercantyler's goods and sums.
+- **Almost everyone** knows the 24 core glyphs, with a few more specific to their trade: a miner's warnings and shaft marks, a carpenter's measures, a merchant's goods and sums.
 - **Many people** know a good number of two-glyph compounds and a couple of three-glyph ones.
 - **Scribes** know the most: four- and five-glyph compounds, the lesser-known glyphs and the sound of every glyph. Reading by sound is a scribal skill.
 - **Priests** know fewer glyphs than scribes, but they know all the sacred glyphs, which even scribes may not.

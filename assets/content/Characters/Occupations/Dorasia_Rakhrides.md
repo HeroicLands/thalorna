@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [trader]
-  occupation: Mercantyler
+  occupation: Merchant
   lore: []
   culture: helioniteclt
   homes: [kalydria2]
@@ -397,9 +397,9 @@ Dorasia Rakhrides is a 30-year-old woman who stands 5'11" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a noble family of [[lore-helioniteclt|Helionite]] heritage, Dorasia Rakhrides is a mercantyler.
+Born in the [[place-helionis|Helionis]] region to a noble family of [[lore-helioniteclt|Helionite]] heritage, Dorasia Rakhrides is a merchant.
 
-Dorasia is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her skill in sourcing unique products and establishing fair trade agreements. She is well-connected in both local and foreign markets, which lets her handle the complexities of trade with ease.
+Dorasia is a savvy merchant who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her skill in sourcing unique products and establishing fair trade agreements. She is well-connected in both local and foreign markets, which lets her handle the complexities of trade with ease.
 
 ## Psyche
 
@@ -431,7 +431,7 @@ Few; generally well-respected but has competitors in the spice trade.
 
 ## Plot Hooks
 
-The Mercantyler's Dilemma
+The Merchant's Dilemma
 : A shipment of spices arrives adulterated, and Dorasia has to choose between her buyers' trust and the loss of a season's profit.
 
 Old Grudges
