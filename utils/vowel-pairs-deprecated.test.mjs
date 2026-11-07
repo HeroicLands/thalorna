@@ -422,7 +422,7 @@ subType: language
 shortcode: one
 data:
   register: [{name: Wraymouth}, {name: Kenbeshay}, {name: Kireshay}, {name: Revunay}, {name: Vurinay}, {name: Domsey}, {name: Kulaywil}]
-  words: [{form: alkulay}, {form: tiyup tahay}]
+  words: [{form: alkulay}, {form: tiyup tahay}, {form: Grey, gloss: gray}]
 ---
 `,
         },
@@ -438,6 +438,7 @@ data:
     offices:
       alkulay: "Meets at Kulaywil."
       tiyup tahay: "Keeps Kulaywil."
+      Grey Head: "An elder."
   seat: kulaywil
 ---
 [[place-wraymouth|Wraymouth]]
@@ -450,7 +451,7 @@ data:
     assert.equal(hits.filter((h) => h.field.endsWith(".$key")).length, 2);
     assert.ok(hits.some((h) => h.field.endsWith(".definition")));
     for (const hit of hits) assert.equal(sources[1].text.slice(hit.start, hit.end), hit.source);
-    assert.ok(!hits.some((h) => h.field === "data.seat"));
+    assert.ok(!hits.some((h) => h.field === "data.seat" || h.field.includes("Grey Head")));
     assert.equal(report.exclusions.filter((h) => h.category === "link target").length, 1);
 });
 

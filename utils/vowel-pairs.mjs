@@ -1067,7 +1067,12 @@ export function pairInventory(sources, config = {}) {
                 if (
                     !range &&
                     !attested &&
-                    !(lexical && (emphasized || definitionTerm || field.endsWith(".$key")))
+                    !(
+                        lexical &&
+                        (emphasized ||
+                            definitionTerm ||
+                            (field.endsWith(".$key") && body === body.toLowerCase()))
+                    )
                 ) {
                     exclusions.push({
                         file: n.file,
