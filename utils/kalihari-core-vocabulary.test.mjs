@@ -248,7 +248,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
         add(r.form);
         walk(r.instead);
     }
-    // Preserve #776's historical lookup probes, including its old household aliases.
+    // Preserve the 776 historical lookup probes, including the old household aliases.
     // Current pronunciation teaching is checked in household-pronunciation.test.mjs.
     for (const name of Object.values(oldData.names.given).flat()) {
         const syllables = [],
