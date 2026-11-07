@@ -82,7 +82,7 @@ Outside the Empire he has no law to stand on, only his standing and the coin he 
 4. **The remedy.** A sick child in a borderland village recovers on a remedy that no hedge-healer in the district could have made. Teremos wants the bottle, and so does the child's mother, who will not give it up.
 
 :::secret {title="The healer called Thalos Graymoor"}
-The healer is [[being-alfrdbrnwl|Wilred Barnwell]], a lapsed adept of the Epistémion who left the Order and lives as Thalos Graymoor, out of [[place-kingsholow|Kingshollow]]. Teremos does not know his name. A villager has described the healer to him in passing detail, and he is matching the description against the Epistémion's old records of students who left. He is asking the right questions.
+The healer is [[being-alfrdbrnwl|Wilred Barnwell]], a lapsed adept of the Epistémion who left the Order and lives as Thalos Graimoor, out of [[place-kingsholow|Kingshollow]]. Teremos does not know his name. A villager has described the healer to him in passing detail, and he is matching the description against the Epistémion's old records of students who left. He is asking the right questions.
 
 Wilred has a network of contacts and will hear of the inquiry. He can disappear, make an alibi, or offer Teremos something a _marendos_ cannot refuse. He also has a friend inside the Epistémion's chapterhouse at [[place-dunavarre|Dúnavarre]] who sends him copies of restricted texts, and if Teremos's request for the records passes through that chapterhouse, the friend sees it first.
 

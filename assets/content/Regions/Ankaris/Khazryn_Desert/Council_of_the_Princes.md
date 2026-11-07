@@ -69,9 +69,9 @@ The Council acts where the seven agree, and it acts on three things:
 
 Two questions come to every session and leave it unanswered. The first is the coming down. The old houses hold that the first lineages came down through the labyrinth of [[place-vurdil|Vurdish]], and the houses of the west, the [[affiliation-hsemernagord|House of Mernagord]] first among them, hold that they walked down [[place-wstrndscnt|the Western Descent]]. The Council keeps both accounts in the same hall and has never ruled between them, because a ruling for either would cost a house its standing.
 
-The second is the sword. [Gureshay of Zargandur]{.name data-type="being/npc"}, the heir of the [[affiliation-hsezargandur|House of Zargandur]], trains in the Kingdom's forces for a reclamation, and the Council neither endorses his preparations nor forbids them. It does not debate them openly. Privately its consensus is that no reclamation will come in this generation.
+The second is the sword. [Gureshai of Zargandur]{.name data-type="being/npc"}, the heir of the [[affiliation-hsezargandur|House of Zargandur]], trains in the Kingdom's forces for a reclamation, and the Council neither endorses his preparations nor forbids them. It does not debate them openly. Privately its consensus is that no reclamation will come in this generation.
 
-[Hemvanay of Mernagord]{.name data-type="being/npc"}, the ruling prince of the largest free oasis, is the voice of accommodation in the room, and the Atarzád merchants who have sounded him out about a trade compact have made every session since a quarrel about him. The houses in exile call the idea treason. He has answered neither them nor the merchants.
+[Hemvanai of Mernagord]{.name data-type="being/npc"}, the ruling prince of the largest free oasis, is the voice of accommodation in the room, and the Atarzád merchants who have sounded him out about a trade compact have made every session since a quarrel about him. The houses in exile call the idea treason. He has answered neither them nor the merchants.
 
 This year a third question has reached the session from outside it. Word comes down the caravan road that a dovaq of the northern steppe is gathering tribes under his banner by victory and by marriage. Every oasis on the steppe's road must choose whether to pay him, wall itself or bargain, and the free oases must choose with the rest. Some in the exile houses say that a union pressing the Atarzád from the north is the moment a reclamation waits for. Others answer that the steppe does not distinguish a Tellumi garden from an Atarzád one. The single position says nothing about the steppe, and the Council has not changed it.
 
@@ -82,8 +82,8 @@ The Council receives no petitions. A Tellumi with a grievance takes it to the De
 ## Hooks {#hooks}
 
 - **A report out of Shirvan.** Muresha of Shirvan pays a courier for the news of the [[place-oasishirvn|Shirvan]] quarter, and has begun to ask how the quarter knows so much. She wants someone who is not her courier to find out.
-- **The merchants' answer.** The Atarzád merchants who sounded out Hemvanay of Mernagord want their terms carried to him where the exile houses will not see them, and the exile houses pay well to see whatever is carried to him.
-- **The union and the sword.** Gureshay of Zargandur wants to know whether the northern union will press the held cities, and asks a messenger with no seat to lose to go north and see it for him.
+- **The merchants' answer.** The Atarzád merchants who sounded out Hemvanai of Mernagord want their terms carried to him where the exile houses will not see them, and the exile houses pay well to see whatever is carried to him.
+- **The union and the sword.** Gureshai of Zargandur wants to know whether the northern union will press the held cities, and asks a messenger with no seat to lose to go north and see it for him.
 
 ## See Also
 

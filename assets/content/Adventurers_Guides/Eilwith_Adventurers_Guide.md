@@ -24,7 +24,7 @@ An Eilwìthan attends the [[affiliation-arldnpnthn|Aureldian]] temple and also l
 
 ## Where to Go, and What to Fear
 
-[[place-wraymouth|Wraymouth]] is Dúnavarre's working harbor and [[place-dunmere|Dunmere]] Aldorath's walled seat. [[place-sunnerslade|Sunnerslade]] ripens a wine in the lee of [[place-ironfells|the Ironfells]] that has no business existing. In the high valleys of the Ironfells the [[lore-vardain|Vardain]], free remnant of the conquered north, live under the protection of the [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]].
+[[place-wraymouth|Wraimouth]] is Dúnavarre's working harbor and [[place-dunmere|Dunmere]] Aldorath's walled seat. [[place-sunnerslade|Sunnerslade]] ripens a wine in the lee of [[place-ironfells|the Ironfells]] that has no business existing. In the high valleys of the Ironfells the [[lore-vardain|Vardain]], free remnant of the conquered north, live under the protection of the [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]].
 
 The island's reputation abroad is wrong about its people and right about its land. There are places where the fae are strong, deep in the forest and in the wild north, and the borders of the realms bend around them. [[lore-grukaraelwyth|Grukar]] have lived in the empty third of the island for seven hundred years. The tribes of the [[place-pshtrwldrns|Peshtar Wilderness]] live outside every realm, and the forest peoples are the most warlike of them. [[place-hallowwood|Seirasto]] on the south coast is the forest of Eilwìth's [[lore-flksenali|Senali]], and it does not receive visitors.
 
@@ -33,7 +33,7 @@ The island's reputation abroad is wrong about its people and right about its lan
 - **A kiln that stays hot.** Border farms need the abandoned works of [[place-blackkilnpriory|Blackkiln Priory]] investigated. [[scenario-blackfireblkkln|Cinders in the Dead Pines]] begins with the smell of hot iron among dead trees.
 - **Lamps on an empty road.** A free bed beckons from [[place-wenlornestage|Wenlorne Stage]], down the old road from Dunmere. [[scenario-lampswenlorne|Pale Lamps on the Crown Road]] asks what a guest owes a host.
 - **A cure with a price.** A war-chief seeks help at [[place-nethermootholw|Nethermoot Hollow]], where the witch names her charges in years. [[scenario-yearsinoaks|Ten Winters in the Bark]] puts the bargain before the party.
-- **A bell beneath the tide.** The commission wants its chest from [[place-threnhallow|Threnhallow]], and a pilot wants his missing son. [[scenario-bellsgreylvl|The Bells Beneath the Greylevels]] follows the causeway out at low water.
+- **A bell beneath the tide.** The commission wants its chest from [[place-threnhallow|Threnhallow]], and a pilot wants his missing son. [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]] follows the causeway out at low water.
 - **No signal from the pass.** A relief patrol climbs to [[place-sunderwynd|Sunderwiind]]. [[scenario-hangingdead|The Hanging Dead of the Ironfells]] begins when the road closes behind it.
 - **Three nights in the wood.** [[being-neilwa|Neilwa]] asks for passage to her people’s dead; the Order posts the paths. [[scenario-seilvririte|Three Nights for the Hushwood]] can begin among the Seilvri or with a commission from the Order.
 - **A boat and two cutters.** [[being-elfithwgdn|Elfith Wigden]] wants an account of Koldmere’s missing people and equipment. [[scenario-reedgillnets|Nets from Both Shores]] takes the party onto disputed reed-beds below [[place-reedgill|Reedgill]].
@@ -44,7 +44,7 @@ The island's reputation abroad is wrong about its people and right about its lan
 
 A company can begin at Ravenmoor with a commission and a reason to travel: recovering property, carrying petitions, serving an embassy or escorting people whom a court refuses to hear. Agree whose authority the characters accept, what payment they expect and which promises they make in their own names. A sealed letter has a different reach in Aldorath’s manors, the Durrask steads and the Seilvri woods.
 
-The island’s roads and water connect the work. Dunmere gives access to the old southern road; the Greylevels lead out from Greywater; Kaerwiind watches the approaches to the Ironfells. Koldmere and Stonyford put the company among people who need boats, grazing and riders while the realms demand service. Let a delivered message, a recovered object or a person brought home establish the next relationship. Each adventure has an outcome worth playing on its own.
+The island’s roads and water connect the work. Dunmere gives access to the old southern road; the Greilevels lead out from Greiwater; Kaerwiind watches the approaches to the Ironfells. Koldmere and Stonyford put the company among people who need boats, grazing and riders while the realms demand service. Let a delivered message, a recovered object or a person brought home establish the next relationship. Each adventure has an outcome worth playing on its own.
 
 The Order wages a crusade against the Seilvri, a people defending their homes. Characters serving the Order can confront what its commission requires; characters entering through Teilvari can help people whose rites and ground the kingdom denies. Choosing an employer does not decide a character’s conscience in advance.
 

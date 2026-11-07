@@ -181,20 +181,11 @@ test("rule 4: a vowel y is an error and fails the check", () => {
     );
 });
 
-test("rule 4: a y after a vowel closes the glide its pair declares", () => {
-    for (const word of [
-        "kay",
-        "seyn",
-        "moy",
-        "siy",
-        "kuy",
-        "kay-ta",
-        "Kulaywil",
-        "K'aypukal",
-        "káy",
-    ])
-        assert.deepEqual(rules(word), [], word);
-    assert.ok(alphabet.glides.has("ay") && alphabet.glides.has("uy"));
+test("rule 4: only the guide's retained iy and uy close glides", () => {
+    for (const word of ["siy", "kuy", "síy", "kuy-ta"]) assert.deepEqual(rules(word), [], word);
+    for (const word of ["kay", "seyn", "moy", "kay-ta", "Kulaywil", "K'aypukal", "káy"])
+        assert.deepEqual(rules(word), [4], word);
+    assert.deepEqual([...alphabet.glides].sort(), ["iy", "uy"]);
 });
 
 test("rule 4: a glide is not taken before a vowel, so its y starts the next syllable", () => {
@@ -204,7 +195,7 @@ test("rule 4: a glide is not taken before a vowel, so its y starts the next syll
     };
     assert.deepEqual(tokens("kaya"), []);
     assert.deepEqual(tokens("koyo"), []);
-    // A grave vowel opens no glide, so its y stands alone and is a vowel.
+    // A grave vowel opens no glide, so its y cannot close a glide.
     assert.deepEqual(rules("kày"), [4]);
 });
 

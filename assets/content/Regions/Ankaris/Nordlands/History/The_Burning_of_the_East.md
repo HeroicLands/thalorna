@@ -105,4 +105,4 @@ The king's ride to the howes at Nulthgard is due in the present reign, and the e
 - [[place-tvalgard|Tvalgard]] · [[affiliation-kingdmtrgd|Kingdom of Targud]]—the seat and the rotation
 - [[lore-trgdahstry|Histories and Legends of Targud]]—Vrellbrandur and the frontier's memory
 - [[lore-storalddraskborg|Storald of Draskborg]]—the saga of the holdings the horde pushed back
-- [[lore-bloodfield|Blood-fields]] · [[lore-domseycount|the Domsey Count]]
+- [[lore-bloodfield|Blood-fields]] · [[lore-domseycount|the Domsei Count]]

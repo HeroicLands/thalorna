@@ -1,0 +1,105 @@
+{
+    "source": "Exact approved scalar spellings and prose lines for the five historical preservation notes",
+    "notes": {
+        "skill-dunharlng": {
+            "values": [["kayvonad", "kaivonad"]],
+            "lines": [
+                [
+                    "Razashar, Vahdarun, Tirsad, Korushan, Mehrun, Khordesh, Yazharan, Pashman, Barmokh, Artavin, Farazar, Torvash, Sivanash, Shuvar, Kavezhan, Rostadar, Samardan, Harumaz, Kamid, Goshanad, Jamaris, Zarvash, Valhamin, Nersad, Darizhan, Ahrash, Khoshar, Bashvard, Tahruz, Khorman, Shabar, Azarvan, Pardisak, Kayvonad, Mahvarad, Shurnav, Eskaram, Parvuzhan, Behfard, Arshanak, Darmun, Rostash, Vardun, Firanash, Tirashan, Khorvaz, Qarmuz, Armanad, Firavad, Saidan, Venrad, Maneshir, Jamrosh, Fakhrad, Nimrash, Tavishar, Farazun, Zarmav, Nevaran, Rushak, Rezhad, Sezhakh, Parmor, Siram, Tohmar, Bahrazad, Parvash, Ashudar, Asfar, Givandar, Qavadar, Hamzun, Razan, Bafraz, Shahran, Pirvand, Davuran, Zamirad, Afshanar, Timan, Hurdan, Nemver, Farzahan, Bazudar, Damoz, Ramuz, Siaran, Azardam, Varinash, Shadezan, Khavend, Dashir, Tarnav, Eskiran, Zimran, Khizhor, Zandarud, Mehrunash, Hadushan, Kemudan",
+                    "Razashar, Vahdarun, Tirsad, Korushan, Mehrun, Khordesh, Yazharan, Pashman, Barmokh, Artavin, Farazar, Torvash, Sivanash, Shuvar, Kavezhan, Rostadar, Samardan, Harumaz, Kamid, Goshanad, Jamaris, Zarvash, Valhamin, Nersad, Darizhan, Ahrash, Khoshar, Bashvard, Tahruz, Khorman, Shabar, Azarvan, Pardisak, Kaivonad, Mahvarad, Shurnav, Eskaram, Parvuzhan, Behfard, Arshanak, Darmun, Rostash, Vardun, Firanash, Tirashan, Khorvaz, Qarmuz, Armanad, Firavad, Saidan, Venrad, Maneshir, Jamrosh, Fakhrad, Nimrash, Tavishar, Farazun, Zarmav, Nevaran, Rushak, Rezhad, Sezhakh, Parmor, Siram, Tohmar, Bahrazad, Parvash, Ashudar, Asfar, Givandar, Qavadar, Hamzun, Razan, Bafraz, Shahran, Pirvand, Davuran, Zamirad, Afshanar, Timan, Hurdan, Nemver, Farzahan, Bazudar, Damoz, Ramuz, Siaran, Azardam, Varinash, Shadezan, Khavend, Dashir, Tarnav, Eskiran, Zimran, Khizhor, Zandarud, Mehrunash, Hadushan, Kemudan"
+                ]
+            ]
+        },
+        "skill-nordmalng": {
+            "values": [
+                ["eyva", "eiva"],
+                ["skarey", "skarei"],
+                ["-ey", "-ei"],
+                ["nulthey", "nulthei"],
+                ["domsey", "domsei"]
+            ],
+            "lines": [
+                [
+                    "**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is [[place-thrunborg|Thrunborg]] and his mountain [[place-thrumufjall|Thrumufjall]]. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so [[lore-odvardty|Odvar]]'s hall is [[place-valsalhall|Ódvarsholl]] and Solrún's is [[place-solvangurhall|Sólrunsholl]]. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsey]].",
+                    "**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is [[place-thrunborg|Thrunborg]] and his mountain [[place-thrumufjall|Thrumufjall]]. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so [[lore-odvardty|Odvar]]'s hall is [[place-valsalhall|Ódvarsholl]] and Solrún's is [[place-solvangurhall|Sólrunsholl]]. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsei]]."
+                ]
+            ]
+        },
+        "skill-nyalbnlng": {
+            "values": [
+                ["lushey- > lusheya", "lushei- > lusheya"],
+                ["lushey-", "lushei-"]
+            ],
+            "lines": []
+        },
+        "skill-tellumilng": {
+            "values": [
+                ["Vurinay", "Vurinai"],
+                ["Teyutay", "Teyutai"],
+                ["Garmeshay", "Garmeshai"],
+                ["Kenbeshay", "Kenbeshai"],
+                ["Lirunay", "Lirunai"],
+                ["Hevunay", "Hevunai"],
+                ["Talhishay", "Talhishai"],
+                ["Gureshay", "Gureshai"],
+                ["Pedunay", "Pedunai"],
+                ["Kireshay", "Kireshai"],
+                ["Karvemay", "Karvemai"],
+                ["Kervishay", "Kervishai"],
+                ["Tenhuray", "Tenhurai"],
+                ["Vemunay", "Vemunai"],
+                ["Garvanay", "Garvanai"],
+                ["Tarlimay", "Tarlimai"],
+                ["Revunay", "Revunai"],
+                ["Budishay", "Budishai"],
+                ["Hageshay", "Hageshai"],
+                ["Bamdenay", "Bamdenai"],
+                ["-ay", "-ai"],
+                ["Berniray", "Bernirai"],
+                ["Sunhemay", "Sunhemai"],
+                ["Perimay", "Perimai"],
+                ["Nimeshay", "Nimeshai"],
+                ["Hemvanay", "Hemvanai"],
+                ["Nartemay", "Nartemai"],
+                ["Kayvonad Zarid", "Kaivonad Zarid"]
+            ],
+            "lines": [
+                [
+                    "| Vurinay     | _vurin_ + _-ay_             | a man's name: holy             |",
+                    "| Vurinai     | _vurin_ + _-ay_             | a man's name: holy             |"
+                ]
+            ]
+        },
+        "skill-sowideslng": {
+            "values": [
+                ["zochulay", "zochulai"],
+                ["zovey", "zovei"],
+                ["chumoy", "chumoi"],
+                ["chokhochoy", "chokhochoi"],
+                ["kheyey", "kheyei"],
+                ["chuzirey", "chuzirei"],
+                ["qosay", "qosai"],
+                ["khodoy", "khodoi"],
+                ["zotoy", "zotoi"],
+                ["chozemey", "chozemei"],
+                ["jumey", "jumei"],
+                ["chaghoy", "chaghoi"],
+                ["zusuvoy", "zusuvoi"],
+                ["khuqay", "khuqai"],
+                ["qaghay", "qaghai"],
+                ["khusoy", "khusoi"],
+                ["chomey", "chomei"],
+                ["khokhoy", "khokhoi"],
+                ["juzovey", "juzovei"],
+                ["chomoy", "chomoi"],
+                ["zudey", "zudei"],
+                ["khukheney", "khukhenei"],
+                ["jedey", "jedei"],
+                ["qoyoy", "qoyoi"],
+                ["khozey", "khozei"],
+                ["khobaghoy", "khobaghoi"]
+            ],
+            "lines": []
+        }
+    }
+}

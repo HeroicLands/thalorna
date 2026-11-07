@@ -14,7 +14,7 @@ data: {culture: shuqashclt, packFolder: shuqash}
 
 Every morning the sun comes up over the coastal mountains and gives the world a day: light to fish by, warmth for the acorns, a dry beach for the canoes. The [[lore-shuqashclt|Shuqash]] hold that nothing is given for nothing, and that the sky keeps count of every day it lends. They call their faith the Sky's Count (_tiyup pilikin_). Its first teaching is that the world runs on credit, and its second is that the debt falls due.
 
-The people who keep the count are the astronomer-priests (_altiyup_), one sworn society across all the towns, whose eldest, the [Sky Elder]{.name data-type="lore/custom"}, sits at [[place-kulaywil|Kulaywil]]. A household's own part is small and constant: a pinch of acorn meal on the fire at dawn, a bead dropped past the kelp line before a crossing, a few seeds at the feathered pole on the hill. These are payments, and the Shell-Bead People make them in the same frame of mind in which they pay a basket maker. The priests' part is the rest of the sky.
+The people who keep the count are the astronomer-priests (_altiyup_), one sworn society across all the towns, whose eldest, the [Sky Elder]{.name data-type="lore/custom"}, sits at [[place-kulaywil|Kulaiwil]]. A household's own part is small and constant: a pinch of acorn meal on the fire at dawn, a bead dropped past the kelp line before a crossing, a few seeds at the feathered pole on the hill. These are payments, and the Shell-Bead People make them in the same frame of mind in which they pay a basket maker. The priests' part is the rest of the sky.
 
 ## The Sky People
 
@@ -77,7 +77,7 @@ This autumn a girl of a valley village above Tulishwil died of a cup too strong,
 [[affiliation-shuqash|Shuqash]]
 : the towns, their chiefs and the astronomer-priests
 
-[[place-kulaywil|Kulaywil]]
+[[place-kulaywil|Kulaiwil]]
 : Canoe Place, the seat of the Sky Elder and the sun pole
 
 [[place-tulishwil|Tulishwil]]

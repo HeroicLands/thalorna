@@ -104,7 +104,7 @@ The adventure runs over a day and a night. The party reaches the wash in the aft
 
 **Player choices.** Force: burn everything and bury the evidence; the prefect never learns what the garrison's priests have known, and the household burns unreceived with the sixty. Stealth: take the seals and leave before the riders arrive. Guile: sell the Atarzád secret to the prefect's rivals in the garrison, who want the fire-priests discredited and will pay in favor, not coin. Parley: bring Roqeshor and a Shekhul to the same grave, the first time in ninety years, and let both rites be said.
 
-**Clues and rewards.** The party leaves with some gold: a pair of lamp-stands, a cup and a handful of seals, worth a few weights of silver each. [Gureshay]{.name data-type="being/npc"}'s signet, if found, is worth a place at his table in [[place-amradadrgn|Amradad]]. The chain of office is a relic, and the Tellumi of the quarter will give a party that returns it a good deal more than a goldsmith would. A party that reads the names to the end hears the lamps of the quarter, on the next night, lit early.
+**Clues and rewards.** The party leaves with some gold: a pair of lamp-stands, a cup and a handful of seals, worth a few weights of silver each. [Gureshai]{.name data-type="being/npc"}'s signet, if found, is worth a place at his table in [[place-amradadrgn|Amradad]]. The chain of office is a relic, and the Tellumi of the quarter will give a party that returns it a good deal more than a goldsmith would. A party that reads the names to the end hears the lamps of the quarter, on the next night, lit early.
 
 **Consequences.** The Atarzád secret is out. The prefect learns the garrison's fire-priests have known for ninety years and what they have kept from him, and Roqeshor is recalled to answer for it. The Tellumi learn the Zhoqarod dead lie among theirs, and the quarter cannot decide whether this is grief or insult.
 
@@ -113,7 +113,7 @@ The adventure runs over a day and a night. The party reaches the wash in the aft
 ## Aftermath
 
 - **If the dead are burned.** The wash is quiet for a season and the gold is lost with the bodies. The Tellumi quarter is not told, and the lamps at its doors burn for a household that no one has avenged. Hosikqenod's band scatters among the tribes, and the stories they take with them are of a grave that screamed when it burned.
-- **If the names are read.** The household is received. The Tellumi quarter learns it and lights its lamps for a different reason. The chieftain's sons, if any lived, come home with their eyes on the ground and their mouths shut. Gureshay hears of it at Amradad and sends for the party.
+- **If the names are read.** The household is received. The Tellumi quarter learns it and lights its lamps for a different reason. The chieftain's sons, if any lived, come home with their eyes on the ground and their mouths shut. Gureshai hears of it at Amradad and sends for the party.
 - **If both rites are said.** The Zhoqarod and the Tellumi share a grave, and the garrison cannot decide what to do about it. The prefect forbids the story and cannot forbid the lamps.
 - **If the party fails.** The trench is deeper, the raiders are dead and the dead begin to walk toward the city. The east gate is shut at dusk for the first time in ninety years.
 

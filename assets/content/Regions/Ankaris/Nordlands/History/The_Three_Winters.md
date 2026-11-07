@@ -62,7 +62,7 @@ data:
       stated: {calendar: domseycount, text: "232 HF"}
       sources: [lore-nrdhmhstry, lore-nordheimnclt, place-domsey, lore-veturnetur]
       summary: >-
-        At the thirty-fourth sitting on Domsey, the first after the famine, King Bruldmil of Nordheim and the four kings swear at the law-rock that no hall shall send its old to the fell while another hall has bread. The Skalds' Circle teaches the oath as history; the skalds of Hliskvir's school decline it, and say the tale gives a shape to a duty older than the famine.
+        At the thirty-fourth sitting on Domsei, the first after the famine, King Bruldmil of Nordheim and the four kings swear at the law-rock that no hall shall send its old to the fell while another hall has bread. The Skalds' Circle teaches the oath as history; the skalds of Hliskvir's school decline it, and say the tale gives a shape to a duty older than the famine.
       standing: disputed
       names: [{name: the Door-Seat Oath, by: affiliation-skaldscrcl}]
       where:
@@ -98,7 +98,7 @@ The famine reached the forest. In [[place-vrystwald|Vristwald]] the stores faile
 
 ## The Oath at the Thirty-Fourth Sitting
 
-The first sitting after the famine fell in 518, the thirty-fourth by [[lore-domseycount|the Domsey count]]. King [Bruldmil]{.name data-type="being/npc"} of [[affiliation-kngdmnrdhm|Nordheim]], who had been king through all three winters and had sent his own grain west to Vithgard in the second of them, came to the island with the other four kings, and at the law-rock, the [[affiliation-skaldscrcl|Skalds' Circle]] says, they swore together that no hall should send its old to the fell while another hall had bread. The Circle recites the oath in fixed words and teaches it as history. The skalds of [Hliskvir]{.name data-type="being/npc"}'s school decline it: they say the tale gives a shape to a duty older than the famine, that the words were made by a skald a generation later, and that five kings who had each let halls starve would not have sworn anything that named what they had done. The culture note says the plainer thing, that the obligation of kin to feed their old depends on nobody proving the oath.
+The first sitting after the famine fell in 518, the thirty-fourth by [[lore-domseycount|the Domsei count]]. King [Bruldmil]{.name data-type="being/npc"} of [[affiliation-kngdmnrdhm|Nordheim]], who had been king through all three winters and had sent his own grain west to Vithgard in the second of them, came to the island with the other four kings, and at the law-rock, the [[affiliation-skaldscrcl|Skalds' Circle]] says, they swore together that no hall should send its old to the fell while another hall had bread. The Circle recites the oath in fixed words and teaches it as history. The skalds of [Hliskvir]{.name data-type="being/npc"}'s school decline it: they say the tale gives a shape to a duty older than the famine, that the words were made by a skald a generation later, and that five kings who had each let halls starve would not have sworn anything that named what they had done. The culture note says the plainer thing, that the obligation of kin to feed their old depends on nobody proving the oath.
 
 What is not disputed is the door-seat. From that generation on, the steward of every hall seats the honored old by the door at Veturnetur and serves them first, and a hall that cannot provision its elders goes to its kin and its neighbors for help, which enters [[lore-kinhalcrdt|hall credit]] and diminishes a house that leaves it unpaid. The seat nearest the way out became the seat of honor because that is the way the old had gone.
 
@@ -125,5 +125,5 @@ A hall in the interior still carries a claim from these winters: that it holds t
 [[lore-southrnfleets|The Southern Fleets]]
 : what the hunger did next
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the age of the Hunger and the Fleets

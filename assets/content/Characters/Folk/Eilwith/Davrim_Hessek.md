@@ -39,7 +39,7 @@ Davrim Hessek is a 64-year-old man of 5'9" and medium build, with fair, weathere
 
 **Age 64. Reeve of the Valleys. Wants every Vardain who reaches the passes taken in, and the valleys to come through the winter with all of them.**
 
-Davrim was a child of five when the Nordmen took the plain in 660, and his mother carried him up over [[place-sunderfells|the Sunderfells]] to [[place-vardainvalleys|the valleys]]. He grew up in a factor family of [[place-vargate|Vargate]], and has traded Khazari work to the caravans from [[place-ashford|Ashford]] and [[place-greywater|Greywater]] all his life. At the autumn tally of 716 the elders of the nine settlements chose him Reeve of the Valleys, to speak for them at the Weighing Yard and to answer to the Speaker at the Gate, [[being-valdantnvgrz|Valdan Tanv-guráz]].
+Davrim was a child of five when the Nordmen took the plain in 660, and his mother carried him up over [[place-sunderfells|the Sunderfells]] to [[place-vardainvalleys|the valleys]]. He grew up in a factor family of [[place-vargate|Vargate]], and has traded Khazari work to the caravans from [[place-ashford|Ashford]] and [[place-greywater|Greiwater]] all his life. At the autumn tally of 716 the elders of the nine settlements chose him Reeve of the Valleys, to speak for them at the Weighing Yard and to answer to the Speaker at the Gate, [[being-valdantnvgrz|Valdan Tanv-guráz]].
 
 At the autumn tally of 719 the Speaker asked him how many more mouths the granaries would carry through a snowbound winter, because people still come over the passes from the thrall-fields. Davrim gave him a number.
 
@@ -82,7 +82,7 @@ None he names. [[being-kessatrrk|Kessa Torrek]], the Tally-Keeper, disagrees wit
 ## Plot Hooks
 
 1. **The newcomers.** Davrim needs the newest arrivals from the plain settled before the snow, and wants strangers who can carry grain up from Ashford without the caravans asking whom it feeds.
-2. **The polite fiction.** A buyer from Greywater has started telling the Ashford market which goods at Vargate are Khazari work, and Davrim wants him to stop.
+2. **The polite fiction.** A buyer from Greiwater has started telling the Ashford market which goods at Vargate are Khazari work, and Davrim wants him to stop.
 
 :::secret {title="The Reeve's number"}
 The number Davrim gave the Speaker was larger than the tallies of Hudakal will bear. He gave it so that the Gate would not tell the valleys to turn the newcomers away, and he means to make up the difference in grain bought quietly in the lowlands. Kessa Torrek knows the tallies, and has said nothing.

@@ -3,13 +3,13 @@ shortcode: hiluqkanan
 name: {full: Hiluqkanan}
 type: being
 subType: npc
-description: The chief of Tikoq Hipay who sends the Northern Strand to the Cedar People every spring, a great-grandson of the chief who made it, who praises the town's redeemer and never pays toward his voyages.
+description: The chief of Tikoq Hipai who sends the Northern Strand to the Cedar People every spring, a great-grandson of the chief who made it, who praises the town's redeemer and never pays toward his voyages.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Chief of Tikoq Hipay
+  occupation: Chief of Tikoq Hipai
   lore: []
   culture: shuqashclt
   homes: [tikoqhipay]

@@ -129,5 +129,5 @@ A party can come to Stormveld as Nordheim kin taking service in a hall, or from 
 [[lore-nrgadhstry|Histories and Legends of Norgaad]]
 : the iron-man of Vrathavan
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the Stormveld Generation

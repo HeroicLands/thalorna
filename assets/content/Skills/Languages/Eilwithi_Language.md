@@ -33,18 +33,8 @@ data:
     - {form: skeptik, class: n, gloss: one who doubts, field: Ordinary speech}
     - {form: pak, class: n, field: Needs and the household, gloss: a bundle carried for a journey}
     - {form: pluk, class: v, field: Doing and being, gloss: pull or pick out}
-    - form: offering
-      class: n
-      field: Ordinary speech
-      gloss: a gift presented
-      pronunciation: OFF-ring
-      note: Two syllables in the crossroads charm; this division specifies the contraction, not a new vowel reading.
-    - form: kourteous
-      class: adj
-      field: Ordinary speech
-      gloss: showing courtesy or respect
-      pronunciation: COUR-teous
-      note: "Two syllables in the crossroads charm: teous is compressed into one syllable. The division does not prescribe a new vowel reading."
+    - {form: offering, class: n, field: Ordinary speech, gloss: a gift presented}
+    - {form: kourteous, class: adj, field: Ordinary speech, gloss: showing courtesy or respect}
     - form: see
       class: v
       field: Senses and the body
@@ -199,7 +189,7 @@ data:
       gloss: disappointment; the feeling when a hope is not fulfilled
       concept: disappointment
     - {form: faith, class: n, field: Feelings and affections, gloss: faith, concept: faith}
-    - {form: joy, class: n, field: Feelings and affections, gloss: joy, concept: joy}
+    - {form: joi, class: n, field: Feelings and affections, gloss: joy, concept: joy}
     - form: happiness
       class: n
       field: Feelings and affections
@@ -270,7 +260,7 @@ data:
       gloss: compassion
       concept: compassion
     - {form: piti, class: n, field: Feelings and affections, gloss: pity, concept: pity}
-    - form: sharing anotheres joy or grief
+    - form: sharing anotheres joi or grief
       class: n
       field: Feelings and affections
       gloss: sympathy; sharing or understanding another person's feelings
@@ -493,7 +483,7 @@ data:
     - {form: brain, class: n, field: Senses and the body, gloss: brain, concept: brain}
     - {form: lung, class: n, field: Senses and the body, gloss: lung, concept: lung}
     - {form: liver, class: n, field: Senses and the body, gloss: liver, concept: liver}
-    - {form: kidney, class: n, field: Senses and the body, gloss: kidney, concept: kidney}
+    - {form: kidnei, class: n, field: Senses and the body, gloss: kidney, concept: kidney}
     - {form: gut, class: n, field: Senses and the body, gloss: an intestine, concept: intestine}
     - form: privi parts
       class: n
@@ -907,7 +897,7 @@ data:
       concept: door
       variants: [doors]
     - {form: lok, class: n, field: Needs and the household, gloss: a lock, concept: lock}
-    - {form: key, class: n, field: Needs and the household, gloss: a key, concept: key}
+    - {form: kei, class: n, field: Needs and the household, gloss: a key, concept: key}
     - form: window
       class: n
       field: Needs and the household
@@ -983,7 +973,7 @@ data:
       concept: wood
       variants: [woodes]
     - {form: metal, class: n, field: Needs and the household, gloss: metal, concept: metal}
-    - {form: klay, class: n, field: Needs and the household, gloss: clay, concept: clay}
+    - {form: klai, class: n, field: Needs and the household, gloss: clay, concept: clay}
     - {form: leather, class: n, field: Needs and the household, gloss: leather, concept: leather}
     - {form: wool, class: n, field: Needs and the household, gloss: wool, concept: wool}
     - {form: thread, class: n, field: Needs and the household, gloss: thread, concept: thread}
@@ -1006,7 +996,7 @@ data:
       gloss: hill
       concept: hill
       variants: [hills]
-    - {form: valley, class: n, field: Land and living things, gloss: valley, concept: valley}
+    - {form: vallei, class: n, field: Land and living things, gloss: valley, concept: valley}
     - form: a plain
       class: n
       field: Land and living things
@@ -1206,7 +1196,7 @@ data:
     - {form: green, class: adj, field: Number and appearance, gloss: green, concept: green}
     - {form: yellow, class: adj, field: Number and appearance, gloss: yellow, concept: yellow}
     - {form: blue, class: adj, field: Number and appearance, gloss: blue, concept: blue}
-    - {form: grey, class: adj, field: Number and appearance, gloss: gray, concept: grey}
+    - {form: grei, class: adj, field: Number and appearance, gloss: gray, concept: grey}
     - {form: brown, class: adj, field: Number and appearance, gloss: brown, concept: brown}
     - form: light of kolour
       class: adj
@@ -1293,12 +1283,12 @@ data:
       gloss: to do
       concept: do
       variants: [dost, doth, doen, did, done]
-    - form: say
+    - form: sai
       class: v
       field: Doing and being
       gloss: to say
       concept: say
-      variants: [sayst, saith, sayen, said]
+      variants: [saist, saith, sayen, said]
     - form: speak
       class: v
       field: Doing and being
@@ -1479,7 +1469,7 @@ data:
       gloss: to break
       concept: break
       variants: [broke]
-    - {form: destroy, class: v, field: Doing and being, gloss: to destroy, concept: destroy}
+    - {form: destroi, class: v, field: Doing and being, gloss: to destroy, concept: destroy}
     - {form: mend, class: v, field: Doing and being, gloss: to repair, concept: repair}
     - {form: to change, class: v, field: Doing and being, gloss: to change, concept: change-verb}
     - form: tell
@@ -1686,7 +1676,7 @@ data:
     - {form: forward, class: adv, field: Place and time, gloss: forward, concept: forward}
     - {form: bakward, class: adv, field: Place and time, gloss: backward, concept: backward}
     - {form: toward, class: part, field: Place and time, gloss: toward, concept: toward}
-    - {form: away, class: adv, field: Place and time, gloss: away, concept: away}
+    - {form: awai, class: adv, field: Place and time, gloss: away, concept: away}
     - {form: through, class: part, field: Place and time, gloss: through, concept: through}
     - {form: akross, class: part, field: Place and time, gloss: across, concept: across}
     - form: round about
@@ -1709,7 +1699,7 @@ data:
       field: Place and time
       gloss: position; the place occupied by something
       concept: position
-    - form: which way
+    - form: which wai
       class: n
       field: Place and time
       gloss: direction; the way something faces or goes
@@ -1717,12 +1707,12 @@ data:
     - {form: distanse, class: n, field: Place and time, gloss: distance, concept: distance}
     - {form: time, class: n, field: Place and time, gloss: time, concept: time, variants: [times]}
     - {form: moment, class: n, field: Place and time, gloss: moment, concept: moment}
-    - form: day
+    - form: dai
       class: n
       field: Place and time
       gloss: day
       concept: day
-      variants: [dayes, days]
+      variants: [dayes, dais]
     - form: night
       class: n
       field: Place and time
@@ -1744,8 +1734,8 @@ data:
       field: Place and time
       gloss: [at that time, introducing the consequence of a condition]
       concept: [then, then-conditional]
-    - {form: today, class: adv, field: Place and time, gloss: today, concept: today}
-    - {form: yesterday, class: adv, field: Place and time, gloss: yesterday, concept: yesterday}
+    - {form: todai, class: adv, field: Place and time, gloss: today, concept: today}
+    - {form: yesterdai, class: adv, field: Place and time, gloss: yesterday, concept: yesterday}
     - {form: tomorrow, class: adv, field: Place and time, gloss: tomorrow, concept: tomorrow}
     - form: time past
       class: n
@@ -1771,7 +1761,7 @@ data:
       field: Place and time
       gloss: from a stated past time until now
       concept: since-time
-    - {form: always, class: adv, field: Place and time, gloss: always, concept: always}
+    - {form: alwais, class: adv, field: Place and time, gloss: always, concept: always}
     - {form: often, class: adv, field: Place and time, gloss: often, concept: often}
     - {form: sometimes, class: adv, field: Place and time, gloss: sometimes, concept: sometimes}
     - {form: seldom, class: adv, field: Place and time, gloss: rarely; not often, concept: rarely}
@@ -1834,7 +1824,7 @@ data:
     - {form: season, class: n, field: Place and time, gloss: season, concept: season}
     - {form: year, class: n, field: Place and time, gloss: year, concept: year, variants: [years]}
     - {form: month, class: n, field: Place and time, gloss: month, concept: month}
-    - form: daybreak
+    - form: daibreak
       class: n
       field: Place and time
       gloss: dawn; the first light of day
@@ -1893,7 +1883,7 @@ data:
       concept: she
       variants: [her]
     - {form: it, class: pron, field: Reference and questions, gloss: it, concept: it}
-    - form: they
+    - form: thei
       class: pron
       field: Reference and questions
       gloss: several people or things as subject; them as object
@@ -2049,7 +2039,7 @@ data:
       gloss: yes; an affirmative response
       concept: yes
       variants: [yes]
-    - form: nay
+    - form: nai
       class: part
       field: Truth and reasoning
       gloss: no; a negative response
@@ -2427,12 +2417,12 @@ data:
       field: Ability and conversation
       gloss: impossible
       concept: impossible
-    - form: may
+    - form: mai
       class: v
       field: Ability and conversation
       gloss: to have permission to act; an auxiliary followed by a bare verb
       concept: may-permission
-      variants: [mayst]
+      variants: [maist]
     - form: might
       class: v
       field: Ability and conversation
@@ -2511,7 +2501,7 @@ data:
       field: Ability and conversation
       gloss: accidental; happening without intention
       concept: accidental
-    - form: Good day
+    - form: Good dai
       class: call
       field: Ability and conversation
       gloss: hello; a greeting on meeting someone
@@ -2526,7 +2516,7 @@ data:
       field: Ability and conversation
       gloss: welcome; a greeting of hospitality
       concept: expression-welcome
-    - form: I pray thee
+    - form: I prai thee
       class: call
       field: Ability and conversation
       gloss: please; a courteous introduction to a request addressed to one person
@@ -2621,7 +2611,7 @@ data:
       field: Ability and conversation
       gloss: I do not understand; stating a failure to comprehend
       concept: expression-i-do-not-understand
-    - form: "How sayst thou this in Eilwìthi."
+    - form: "How saist thou this in Eilwìthi."
       class: call
       field: Ability and conversation
       gloss: How do you say this in Eilwìthi? A request for a translation or the words that express a thing or thought
@@ -2649,7 +2639,7 @@ data:
       gloss: ["a human being, regardless of sex", an adult male human being]
       concept: [human, man]
     - {form: woman, class: n, field: Kindred and society, gloss: woman, concept: woman}
-    - form: boy
+    - form: boi
       class: n
       field: Kindred and society
       gloss: boy
@@ -2855,7 +2845,7 @@ data:
       field: Ordinary speech
       gloss: a flag carried as a sign of allegiance
     - {form: bark, class: n, field: Ordinary speech, gloss: the outer covering of a tree}
-    - form: barley
+    - form: barlei
       class: n
       field: Ordinary speech
       gloss: a cereal grain used for food and brewing
@@ -3111,7 +3101,7 @@ data:
       field: Ordinary speech
       gloss: freezing cold or its thin covering of ice
     - {form: furrow, class: n, field: Ordinary speech, gloss: a groove made in the earth by a plow}
-    - {form: gainsay, class: v, field: Ordinary speech, gloss: contradict or deny}
+    - {form: gainsai, class: v, field: Ordinary speech, gloss: contradict or deny}
     - {form: gap, class: n, field: Ordinary speech, gloss: an opening between things}
     - form: gentles
       class: n
@@ -3236,7 +3226,7 @@ data:
       gloss: make the sounds of amusement
       variants: [laughed]
     - {form: lawful, class: adj, field: Ordinary speech, gloss: permitted by law}
-    - form: lay
+    - form: lai
       class: v
       field: Ordinary speech
       gloss: put or set something down
@@ -3337,12 +3327,12 @@ data:
       field: Ordinary speech
       gloss: a track made for walking
       variants: [paths]
-    - form: pay
+    - form: pai
       class: v
       field: Ordinary speech
       gloss: give money or another thing owed
       variants: [paid]
-    - form: payment
+    - form: paiment
       class: n
       field: Ordinary speech
       gloss: money or goods given to discharge a debt
@@ -3352,7 +3342,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: an ailment of fowl; a comic name for a minor sickness
-    - {form: play, class: n, field: Ordinary speech, gloss: a dramatic performance}
+    - {form: plai, class: n, field: Ordinary speech, gloss: a dramatic performance}
     - form: player
       class: n
       field: Ordinary speech
@@ -3468,7 +3458,7 @@ data:
       gloss: make music with the voice
       variants: [sang, singen, singeth, singing, sung]
     - {form: sir, class: n, field: Ordinary speech, gloss: a courteous title for one man}
-    - {form: slay, class: v, field: Ordinary speech, gloss: kill, variants: [slain, slew]}
+    - {form: slai, class: v, field: Ordinary speech, gloss: kill, variants: [slain, slew]}
     - {form: sleet, class: n, field: Ordinary speech, gloss: rain mixed with ice or snow}
     - {form: softli, class: adv, field: Ordinary speech, gloss: quietly or gently}
     - form: Solden
@@ -3486,7 +3476,7 @@ data:
       field: Ordinary speech
       gloss: the season following winter; a source of water
     - {form: stake, class: n, field: Ordinary speech, gloss: a pointed post driven into the ground}
-    - {form: stay, class: v, field: Ordinary speech, gloss: remain in a place, variants: [stayed]}
+    - {form: stai, class: v, field: Ordinary speech, gloss: remain in a place, variants: [stayed]}
     - form: steading
       class: n
       field: Ordinary speech
@@ -3511,7 +3501,7 @@ data:
     - {form: straight, class: adj, field: Ordinary speech, gloss: without bends}
     - {form: strange, class: adj, field: Ordinary speech, gloss: unfamiliar or unusual}
     - {form: straw, class: n, field: Ordinary speech, gloss: the dried stalks of cereal plants}
-    - {form: stray, class: v, field: Ordinary speech, gloss: wander from a course or company}
+    - {form: strai, class: v, field: Ordinary speech, gloss: wander from a course or company}
     - {form: street, class: n, field: Ordinary speech, gloss: a road within a settlement}
     - form: strip
       class: n
@@ -3607,11 +3597,11 @@ data:
       class: v
       field: Ordinary speech
       gloss: drink to the health of someone or something
-    - form: way
+    - form: wai
       class: n
       field: Ordinary speech
       gloss: a route or manner of doing something
-      variants: [ways]
+      variants: [wais]
     - form: wear
       class: v
       field: Ordinary speech
@@ -3747,7 +3737,7 @@ data:
       class: v
       field: Ordinary speech
       gloss: recline or rest horizontally
-      variants: [lien, lieth, lay]
+      variants: [lien, lieth, lai]
     - {form: to bark, class: v, field: Ordinary speech, gloss: make the sharp cry of a dog}
     - form: to boast
       class: v
@@ -3767,7 +3757,7 @@ data:
       field: Ordinary speech
       gloss: go by or through
       variants: [passed]
-    - form: to play
+    - form: to plai
       class: v
       field: Ordinary speech
       gloss: perform a game, music or a dramatic role
@@ -3921,10 +3911,10 @@ data:
       - "Chilwell"
       - "Dunwell"
       - "Garmon"
-      - "Grayling"
+      - "Grailing"
       - "Harden"
       - "Harding"
-      - "Helmsley"
+      - "Helmslei"
       - "Osgood"
       - "Sherwin"
       - "Somervell"
@@ -3933,14 +3923,14 @@ data:
       - "Winwik"
       - "Wolford"
       - "Koldwik"
-      - "Greywik"
+      - "Greiwik"
       - "Thornwell"
       - "Ravenwell"
       - "Stormwell"
       - "Hushwell"
-      - "Brinley"
-      - "Thornley"
-      - "Greymore"
+      - "Brinlei"
+      - "Thornlei"
+      - "Greimore"
       - "Highmore"
       - "Ravenmore"
       - "Highden"
@@ -3949,25 +3939,25 @@ data:
       - "Kolddon"
       - "Highdon"
       - "Wolfwik"
-      - "Wolfley"
+      - "Wolflei"
       - "Wolfden"
       - "Storwik"
-      - "Storley"
+      - "Storlei"
       - "Somerton"
-      - "Sherley"
+      - "Sherlei"
       - "Hardwell"
       - "Wigwik"
       - "Wigden"
       - "Alverwik"
-      - "Alverley"
+      - "Alverlei"
       - "Brandwik"
-      - "Brandley"
-      - "Brownley"
+      - "Brandlei"
+      - "Brownlei"
       - "Chilmore"
       - "Dunwik"
       - "Dunmore"
-      - "Winley"
-      - "Barnley"
+      - "Winlei"
+      - "Barnlei"
       - "Adwik"
   scope:
     types: [place, being]
@@ -3984,7 +3974,7 @@ data:
   elements:
     - {form: ash, position: opening, kind: place, sense: the ash tree, examples: [Ashford]}
     - {form: brin, position: opening, kind: place, sense: a hill, examples: [Brinwold]}
-    - {form: grey, position: opening, kind: place, sense: "gray, weathered", examples: [Greywater]}
+    - {form: grei, position: opening, kind: place, sense: "gray, weathered", examples: [Greiwater]}
     - {form: kold, position: opening, kind: place, sense: cold, examples: [Koldbek]}
     - {form: high, position: opening, kind: place, sense: high, examples: [Highfold]}
     - {form: stony, position: opening, kind: place, sense: full of stones, examples: [Stonyhaugh]}
@@ -4006,11 +3996,11 @@ data:
       sense: warmed by the sun
       examples: [Sunnerslade]
     - {form: sunder, position: opening, kind: place, sense: split apart, examples: [Sunderfells]}
-    - form: wray
+    - form: wrai
       position: opening
       kind: place
       sense: "a nook, a hidden corner"
-      examples: [Wraymouth]
+      examples: [Wraimouth]
     - {form: thren, position: opening, kind: place, sense: a lament, examples: [Threndale]}
     - {form: var, position: opening, kind: place, sense: of the Vardain, examples: [Vargate]}
     - {form: nord, position: opening, kind: place, sense: north, examples: [Nordfells]}
@@ -4038,7 +4028,7 @@ data:
       position: closing
       kind: place
       sense: a river or a broad water
-      examples: [Greywater]
+      examples: [Greiwater]
     - {form: mere, position: closing, kind: place, sense: a lake, examples: [Dunmere]}
     - form: vale
       position: closing
@@ -4061,7 +4051,7 @@ data:
       position: closing
       kind: place
       sense: where a river meets the sea
-      examples: [Wraymouth]
+      examples: [Wraimouth]
     - form: fells
       position: closing
       kind: place
@@ -4071,7 +4061,7 @@ data:
       position: closing
       kind: place
       sense: "flat, low-lying ground"
-      examples: [Greylevels]
+      examples: [Greilevels]
     - form: gate
       position: closing
       kind: place
@@ -4146,9 +4136,9 @@ data:
     - {form: brown, position: opening, kind: byname, sense: brown, examples: [Browning]}
     - {form: chil, position: opening, kind: byname, sense: "cold, chill", examples: [Chilton]}
     - {form: gar, position: opening, kind: byname, sense: a spear, examples: [Garmon]}
-    - {form: gray, position: opening, kind: byname, sense: gray, examples: [Grayling]}
+    - {form: grai, position: opening, kind: byname, sense: gray, examples: [Grailing]}
     - {form: hard, position: opening, kind: byname, sense: "hardy, stout", examples: [Harding]}
-    - {form: helm, position: opening, kind: byname, sense: a helm, examples: [Helmsley]}
+    - {form: helm, position: opening, kind: byname, sense: a helm, examples: [Helmslei]}
     - {form: os, position: opening, kind: byname, sense: a god, examples: [Osgood]}
     - {form: sher, position: opening, kind: byname, sense: bright, examples: [Sherwin]}
     - {form: somer, position: opening, kind: byname, sense: summer, examples: [Somervell]}
@@ -4167,7 +4157,7 @@ data:
       kind: byname
       sense: "a dwelling, a dairy farm"
       examples: [Winwik]
-    - {form: ley, position: closing, kind: byname, sense: a clearing, examples: [Helmsley]}
+    - {form: lei, position: closing, kind: byname, sense: a clearing, examples: [Helmslei]}
     - {form: bi, position: closing, kind: byname, sense: a homestead, examples: [Ashbi]}
     - {form: more, position: closing, kind: byname, sense: a moor, examples: [Wigmore]}
     - {form: den, position: closing, kind: byname, sense: a wooded valley, examples: [Harden]}
@@ -4177,7 +4167,7 @@ data:
       position: closing
       kind: byname
       sense: "the small one, the young"
-      examples: [Grayling]
+      examples: [Grailing]
     - {form: good, position: closing, kind: byname, sense: good, examples: [Osgood]}
     - {form: mon, position: closing, kind: byname, sense: a man, examples: [Garmon]}
     - {form: win, position: either, kind: byname, sense: a friend, examples: [Winwik]}
@@ -4196,12 +4186,12 @@ data:
     - {name: Haldrek, kind: given, why: An Eilwìthan given name.}
     - {name: Vane, kind: byname, why: An Eilwìthan family name.}
     - {name: Aldgar, kind: given, why: An Eilwìthan given name.}
-    - {name: Wraymon, kind: byname, why: An Eilwìthan family name.}
+    - {name: Wraimon, kind: byname, why: An Eilwìthan family name.}
     - {name: Mildith, kind: given, why: An Eilwìthan given name.}
     - {name: Godrik, kind: given, why: An Eilwìthan given name.}
     - {name: Stonibi, kind: byname, why: An Eilwìthan family name.}
     - {name: Kenrik, kind: given, why: An Eilwìthan given name.}
-    - {name: Brandley, kind: byname, why: An Eilwìthan family name.}
+    - {name: Brandlei, kind: byname, why: An Eilwìthan family name.}
     - {name: Aldmund, kind: given, why: An Eilwìthan given name.}
     - {name: Hardwik, kind: byname, why: An Eilwìthan family name.}
     - {name: Adwell, kind: byname, built: [ad, well]}
@@ -4242,15 +4232,15 @@ data:
     - {name: Garmon, kind: byname, built: [gar, mon]}
     - {name: Osrun, kind: given, built: [os, run]}
     - {name: Kenstan, kind: given, built: [ken, stan]}
-    - {name: Grayling, kind: byname, built: [gray, ling]}
-    - {name: Greylevels, kind: place, built: [grey, levels]}
-    - {name: Greywater, kind: place, built: [grey, water]}
+    - {name: Grailing, kind: byname, built: [grai, ling]}
+    - {name: Greilevels, kind: place, built: [grei, levels]}
+    - {name: Greiwater, kind: place, built: [grei, water]}
     - {name: Hallowwood, kind: place, built: [hallow, wood]}
     - {name: Harden, kind: byname, built: [hard, den]}
     - {name: Harding, kind: byname, built: [hard, ing]}
     - {name: Harmund, kind: given, built: [har, mund]}
     - {name: Harwald, kind: given, built: [har, wald]}
-    - {name: Helmsley, kind: byname, built: [helm, s, ley]}
+    - {name: Helmslei, kind: byname, built: [helm, s, lei]}
     - {name: Highfold, kind: place, built: [high, fold]}
     - {name: Hildwiin, kind: given, built: [hild, wiin]}
     - {name: Hildrik, kind: given, built: [hild, rik]}
@@ -4285,7 +4275,7 @@ data:
     - {name: Winrith, kind: given, built: [win, rith]}
     - {name: Winwik, kind: byname, built: [win, wik]}
     - {name: Wolford, kind: byname, built: [wolf, ford]}
-    - {name: Wraymouth, kind: place, built: [wray, mouth]}
+    - {name: Wraimouth, kind: place, built: [wrai, mouth]}
     - {name: Wiindmarch, kind: place, built: [wiind, march]}
     - {name: Wilrith, kind: given, built: [wil, rith]}
     - {name: Wilstan, kind: given, built: [wil, stan]}
@@ -4295,13 +4285,13 @@ data:
     - {name: Mildwin, kind: given, built: [mild, win]}
     - {name: Stormwell, kind: byname, built: [storm, well]}
     - {name: Mildstan, kind: given, built: [mild, stan]}
-    - {name: Greywik, kind: byname, built: [grey, wik]}
+    - {name: Greiwik, kind: byname, built: [grei, wik]}
     - {name: Kenwin, kind: given, built: [ken, win]}
     - {name: Highmore, kind: byname, built: [high, more]}
     - {name: Koldwik, kind: byname, built: [kold, wik]}
     - {name: Dunmore, kind: byname, built: [dun, more]}
     - {name: Godrun, kind: given, built: [god, run]}
-    - {name: Winley, kind: byname, built: [win, ley]}
+    - {name: Winlei, kind: byname, built: [win, lei]}
     - {name: Eilwìth, kind: place, why: The island's name; no element builds it.}
     - name: Alananor
       kind: given
@@ -4319,7 +4309,7 @@ data:
     - name: Arren
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - name: Audrey
+    - name: Audrei
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
     - {name: Avis, kind: given, why: A short or foreign-shaped name that no listed element builds.}
@@ -4444,16 +4434,16 @@ data:
     - {name: Elfrun, kind: given, built: [elf, run]}
     - {name: Kenwald, kind: given, built: [ken, wald]}
     - {name: Dunrik, kind: given, built: [dun, rik]}
-    - {name: Storley, kind: byname, built: [stor, ley]}
-    - {name: Wolfley, kind: byname, built: [wolf, ley]}
-    - {name: Thornley, kind: byname, built: [thorn, ley]}
+    - {name: Storlei, kind: byname, built: [stor, lei]}
+    - {name: Wolflei, kind: byname, built: [wolf, lei]}
+    - {name: Thornlei, kind: byname, built: [thorn, lei]}
     - {name: Highden, kind: byname, built: [high, den]}
     - {name: Brandwik, kind: byname, built: [brand, wik]}
     - name: Drething
       kind: byname
       why: "The royal line's byname, the kin of Drethar, with the kin ending -ing."
     - {name: Alfrith, kind: given, built: [alf, rith]}
-    - {name: Brinley, kind: byname, built: [brin, ley]}
+    - {name: Brinlei, kind: byname, built: [brin, lei]}
     - {name: Leofwald, kind: given, built: [leof, wald]}
     - name: Kelivren
       kind: place
@@ -4545,18 +4535,18 @@ data:
     - {name: Aldrun, kind: given, built: [ald, run]}
     - {name: Osrith, kind: given, built: [os, rith]}
     - {name: Elfith, kind: given, built: [elf, ith]}
-    - {name: Greymore, kind: byname, built: [grey, more]}
+    - {name: Greimore, kind: byname, built: [grei, more]}
     - {name: Ashden, kind: byname, built: [ash, den]}
     - {name: Kaerton, kind: byname, built: [kaer, ton]}
     - {name: Hushwell, kind: byname, built: [hush, well]}
-    - {name: Barnley, kind: byname, built: [barn, ley]}
+    - {name: Barnlei, kind: byname, built: [barn, lei]}
     - {name: Stormden, kind: byname, built: [storm, den]}
-    - {name: Adley, kind: byname, built: [ad, ley]}
+    - {name: Adlei, kind: byname, built: [ad, lei]}
     - {name: Brownwell, kind: byname, built: [brown, well]}
-    - {name: Hardley, kind: byname, built: [hard, ley]}
+    - {name: Hardlei, kind: byname, built: [hard, lei]}
     - {name: Brinwik, kind: byname, built: [brin, wik]}
-    - {name: Somerley, kind: byname, built: [somer, ley]}
-    - {name: Grayden, kind: byname, built: [gray, den]}
+    - {name: Somerlei, kind: byname, built: [somer, lei]}
+    - {name: Graiden, kind: byname, built: [grai, den]}
     - {name: Wigden, kind: byname, built: [wig, den]}
     - name: Drasknes
       kind: place
@@ -4625,7 +4615,7 @@ data:
     - {form: assuredly, instead: assuredli, why: y is never a vowel}
     - {form: belly, instead: belli, why: y is never a vowel}
     - {form: body, instead: bodi, why: y is never a vowel}
-    - {form: brynley, instead: brinley, why: y is never a vowel}
+    - {form: brynley, instead: brinlei, why: y is never a vowel}
     - {form: bury, instead: buri, why: y is never a vowel}
     - {form: by, instead: bi, why: y is never a vowel}
     - {form: charity, instead: chariti, why: y is never a vowel}
@@ -4717,30 +4707,21 @@ Other speech on the island stands apart from it. The [[lore-nordheimnclt|Nordmen
 
 ## How Eilwìthi sounds {#pronunciation}
 
-The vocabulary entries and name register are authoritative. Their recorded
-forms, meanings, pronunciation and context notes, together with expressly
-authored exceptions, take precedence over the general rules on this page.
+[[doc-prnncthlrn|Pronouncing Thalorna]] governs the spelling, sounds, syllables,
+stress and punctuation of every Eilwìthi word, including English-derived
+words and names. Its readings and easy pronunciations for play apply throughout;
+no entry, register or passage supplies an exception. This note gives the
+language's vocabulary, grammar and naming palette within that guide.
+
+The vocabulary entries and name register record forms, meanings and context.
 An explicit present-tense table form takes precedence over its regular pattern.
 A flat list of variants attests those forms without assigning each a tense,
 person or other grammatical role.
 
-Where no entry or Eilwìthi rule specifies otherwise, ordinary English supplies
-the vocabulary, meaning, grammar and dictionary pronunciation. An English-derived word
-need not appear in the lexicon to be usable, but its Eilwìthi spelling must
-follow the respelling rules below. The historical sound conventions
-below are a finite practical reading standard; they do not require recovering
-a historical pronunciation for every word. An unlisted or uncertain reading
-uses an ordinary English dictionary unless a local rule overrides it.
-
-English-derived words use Eilwìthi spelling while keeping their familiar
-word readings. Every word, name, variant and grammatical form follows this
-alphabet: c occurs only in ch, and x is absent. Coined words and names use
-the fixed transcription on this page unless an authoritative entry states
-an exception. A coined spelling has one canonical pronunciation,
-including stress; different spellings may give the same sound. The easy
-pronunciations for play below do not change a word's lexical identity.
-[[doc-prnncthlrn|Pronouncing Thalorna]] supplies background on the shared
-transcription; this note states the Eilwìthi rules in full.
+Where no entry or Eilwìthi grammar rule specifies otherwise, ordinary English
+supplies the vocabulary, meaning and grammar. An English-derived word need not
+appear in the lexicon to be usable. Its Eilwìthi spelling and reading follow
+the guide.
 
 A new, unrecorded coinage must not duplicate a whole English word, including
 its admitted inflections and documented historical spellings. Capitalization
@@ -4749,26 +4730,17 @@ collision. The spelling reference is the local English word list at
 `assets/data/english-words.json`. Authored vocabulary and registered names,
 including new forms and explicitly recorded exceptions, stand as given. An English homograph does not invalidate an authoritative entry:
 Harden is the registered byname. The collision rule governs a proposed
-coinage without such an entry or exception.
+coinage without such an entry or exception. These exceptions concern word
+collisions, not pronunciation.
 
 ### English-derived words {#english-pronunciation}
 
-Eilwìthi respells its English-derived vocabulary consistently:
-
-- c before e, i or y becomes s; sc before those letters also becomes s.
-- ck becomes k, and every other c becomes k, except in ch.
-- x becomes ks; at the beginning of a word it becomes z.
-- qu and ch remain unchanged.
-
-An English-derived word keeps its English sound and is written in the common letters: _kìdni_.
-
-Thus English silence is Eilwìthi silense, pack is pak and exact is eksakt.
-English skeptic is Eilwìthi skeptik, an explicit exception to the sc rule.
-The vocabulary records the exceptions needed to distinguish colliding forms:
-English scent is sente, distinct from sent, and thick is thikke. These added
-final e spellings retain their English-derived readings; a single preceding
-consonant doubles where needed to keep its short vowel. They do not change
-the rigid rule that genuinely coined words sound every letter.
+English supplies words and meanings; the guide supplies their Eilwìthi
+spelling. For English source spellings, write k or s in place of c outside
+ch, and ks, gz or z in place of x, according to the source consonant.
+These substitutions are part of respelling the whole word to the guide,
+as in _kìdni_. An English spelling is usable only where it already gives
+the intended reading under the guide.
 
 Lookup ignores case, while spelling and encoding preserve it. Each word and
 name is recorded once rather than as separate capitalized copies. A word and
@@ -4777,221 +4749,25 @@ a query returns both without changing their case.
 A consonant group still follows the encoding's lowercase or initial-capital
 rule; an all-uppercase group such as TH in THIKKE remains invalid.
 
-The respelled words retain their source word's stress, silent letters and
-vowel-group readings except where an entry or the following conventions
-specifies a reading. Stress is the ordinary dictionary stress
-unless expressly stated otherwise. There is no automatic first-syllable or
-penultimate stress rule for English words, and an unstressed vowel may reduce
-to uh as the word's reading requires.
-
-The English source spellings in this table identify lexical sound classes.
-They are pronunciation models, not alternative Eilwìthi spellings. They are not
-unconditional substitutions for every occurrence of the listed letters.
-Apply a class where its familiar example or an explicit entry identifies
-the word's reading; other spellings and unresolved cases retain their dictionary reading.
-
-| Spellings in this lexical class                                             | Reading                                                 |
-| --------------------------------------------------------------------------- | ------------------------------------------------------- |
-| i, y in sit and myth                                                        | A short i, slightly open toward eh                      |
-| e in met                                                                    | A short eh                                              |
-| a in cap and bath                                                           | A short open ah; the two examples share it              |
-| u, o in cup and love                                                        | Higher and farther back than modern cup                 |
-| u, oo in put and look                                                       | A short put-like vowel                                  |
-| o in hot                                                                    | A short rounded o                                       |
-| a in watch                                                                  | A short open ah after w                                 |
-| Unstressed a, e, o, u                                                       | A neutral uh where the word's reading reduces the vowel |
-| ee, ea, e, ie in the see class                                              | A held ee                                               |
-| a, ai, ay in make and day                                                   | A held broad eh, without a closing ee glide             |
-| ir, er, ur in bird                                                          | A held central vowel followed by a sounded r            |
-| a, al, ar in wall and war                                                   | A held open ah; the r in war is sounded                 |
-| aw, au, or in fawn and cord                                                 | A held open aw; the r in cord is sounded                |
-| o, oa, ou in the go class                                                   | A steady held oh, without a closing oo glide            |
-| o, oo, ew, u in the do and spoon class                                      | A held oo                                               |
-| i, y, igh in time and thy; oi, oy in an explicitly specified merged reading | Begin centrally, approximately uh-ee                    |
-| ou, ow in thou and now                                                      | Begin centrally, approximately uh-oo                    |
-
-The merged boy/thy reading, a final y with that diphthong, a rounded alternative
-in the cup class, and a different vowel length in look or fool apply only where
-an entry or passage explicitly states that choice. A spelling such as oo does
-not select one of those alternatives on its own. These vowels and their length
-belong to the English word's reading; the coined-word doubling rule does not
-respell English words.
-
-English-derived consonants keep their source word readings with these
-explicit conventions. The table cites English source spellings; c and x
-are respelled by the rules above before an Eilwìthi word is written:
-
-| Spelling                              | Reading                                                                          |
-| ------------------------------------- | -------------------------------------------------------------------------------- |
-| p, b, t, d, k, f, v, h, l, m, n, w, z | Their ordinary consonant sounds where sounded                                    |
-| g                                     | Hard in go, soft in gem; use the word's dictionary reading                       |
-| s                                     | Unvoiced in sip, voiced in is; use the word's dictionary reading                 |
-| c                                     | k or s according to the word's dictionary reading                                |
-| x                                     | Usually ks, but gz in exact; use the word's dictionary reading                   |
-| q, qu                                 | k and kw where the word has them; qu in conquer takes k                          |
-| th                                    | Unvoiced in thin and voiced in thy, according to the word                        |
-| sh                                    | The sound in ship                                                                |
-| ch, tch                               | The sound in church and watch                                                    |
-| j, dge                                | The sound in judge                                                               |
-| ng                                    | The sound in sing; an n ending in -ing requires an explicit word or passage note |
-| wh                                    | A voiceless w, distinct from ordinary w                                          |
-| r                                     | Sounded after a vowel as well as before one                                      |
-| y                                     | A glide in yes; never a vowel, so a vowel y is written i                         |
-| gh, initial k, w, final e             | Silent where the word requires it, as in light, know, write and make             |
-| Doubled consonants                    | The word's consonant sound without an obligatory hold                            |
-| Apostrophe                            | Possession or omission, without an obligatory glottal stop                       |
-
-Word-final mb sounds as m, with the b silent, wherever the English word occurs
-in a sentence. A normally silent final e stays silent; an ordinarily pronounced
-one, as in be, he, me or she, stays audible. No blanket silence rule applies to
-other words merely because they contain one of the letters in the table.
-Ordinary English spellings are not given accents to request a different
-reading.
-
-A written -ed takes the syllable count of the word's dictionary reading unless
-an explicit entry or passage specifies another. Verse does not by itself
-license arbitrary elision, an added syllable or a stress shift. The recorded
-readings of offering and kourteous (English courteous) in the crossroads charm are two syllables:
-off-ring and cour-teous, with the latter's second part compressed. Those
-context notes apply to the charm, not every occurrence of the words.
-
 ### Coined words and names {#coined-pronunciation}
 
-The fixed transcription below determines every sound of a coined word, name
-or naming element unless its authoritative entry specifies an exception. Capitals have the same sounds as
-lowercase letters. Read the longest recognized letter group first, from left
-to right; each character belongs to only one group. Any other two adjacent
-vowels are both said, each its own syllable, as Pronouncing Thalorna reads
-them: _kaer_ is _KAH-er_.
-
-#### Vowels {#vowels}
-
-| Spelling | Fixed reading                           |
-| -------- | --------------------------------------- |
-| a        | a in father                             |
-| e        | e in bet                                |
-| i        | i in machine                            |
-| o        | A steady oh, without a closing oo glide |
-| u        | u in rule                               |
-| ai       | eye                                     |
-| au       | ow in cow                               |
-| ei       | ay in day                               |
-| oi       | oy in boy                               |
-| ou       | ou in soul                              |
-| ie       | ee-eh joined into one syllable          |
-| uo       | oo-oh joined into one syllable          |
-| aa       | A held a, one syllable                  |
-| ii       | A held i, one syllable                  |
-| uu       | A held u, one syllable                  |
-
-A vowel keeps its identity in stressed and unstressed syllables. There is no
-unwritten reduction to uh. A final e is sounded, and never changes the vowel
-before it. A diaeresis makes the second of two vowels audible. A final e
-forms a syllable unless a listed vowel group consumes it. Conventional English
-make keeps its dictionary one-syllable reading; a different coined reading
-requires an explicit authored exception. A long vowel or joined vowel group counts as one syllable.
-
-#### Consonants {#consonants}
-
-| Spelling                              | Fixed reading                                                                     |
-| ------------------------------------- | --------------------------------------------------------------------------------- |
-| b, d, f, h, k, l, m, n, p, t, v, w, z | Their ordinary consonant sounds                                                   |
-| s                                     | Always unvoiced, as in sip                                                        |
-| g                                     | Always hard, as in go                                                             |
-| j                                     | j in judge                                                                        |
-| r                                     | Sounded in every position, including after a vowel; rolled as in the common guide |
-| ch                                    | ch in church                                                                      |
-| sh                                    | sh in ship                                                                        |
-| th                                    | th in thin                                                                        |
-| dh                                    | th in this                                                                        |
-| kh                                    | ch in Scottish loch                                                               |
-| gh                                    | The voiced counterpart of kh                                                      |
-| zh                                    | s in measure                                                                      |
-| q                                     | A k articulated farther back in the throat                                        |
-| ts                                    | ts in cats, including at the start of a word                                      |
-| ng                                    | ng in sing                                                                        |
-| ny before a vowel                     | The consonant sound in canyon                                                     |
-| y before a vowel                      | y in yes                                                                          |
-| y after a vowel                       | Closes a glide, read as the common guide reads ay, ey, iy, oy and uy              |
-
-The letter c occurs only in ch; write k or s for their respective sounds.
-The letter x is not used; write ks or gz. A doubled consonant is held a
-little longer. An h before a consonant or at the end of a word is a breath,
-unless a recognized group such as th or sh consumes it. The common guide's
-plain alternatives for difficult sounds are acceptable pronunciations for play.
-
-No consonant is silent. In particular, coined word-final mb sounds both m and b.
-There is no soft g, silent gh or alternative sound inferred from an English-looking
-ending. The letter y is always a consonant; write i for the vowel in machine.
-In coined spellings, ny stands before a vowel, and y stands before a vowel or closes a glide after one.
-
-A word boundary keeps consonants out of a group: as ha has separate s and h,
-whereas asha contains sh. A compound written as one word is read as a whole,
-including where its naming elements meet. Choose a separate phrase when the
-consonants must stay separate. Eilwìthi spelling uses no apostrophe for a
-glottal catch; an exact native character can instead be cited by font codage.
-
-#### Syllables, stress and marks {#stress}
-
-Every syllable has a written vowel. The letter y does not count as a vowel.
-Identify recognized letter groups before counting syllables.
-
-- A one-syllable word carries its stress on that syllable.
-- A two-syllable word is stressed on the first syllable.
-- A word of three or more syllables is stressed on the second-to-last syllable.
-- An acute marks a different stressed syllable. It changes stress, not vowel
-  identity or length. In a multi-letter vowel group, put the acute on its first
-  vowel letter; identify the group by its unaccented spelling.
-- A diaeresis on the second of two vowels makes it a syllable of its own,
-  and also splits a recognized vowel group. A word may carry any number.
-  Without one, a recognized group keeps its listed reading, and any other two
-  vowels are each said as their own syllable.
-
-For example, kelara is ke-LA-ra, kélara is KE-la-ra and kelará is ke-la-RA.
-Case does not change these readings. A common spelling carries at most one
-acute; use it only where it specifies exceptional stress.
-A grave writes a short vowel, as in the common guide. No accented consonant
-belongs to this spelling convention.
-
-#### Easy readings for play
-
-Each coined form retains its canonical pronunciation, syllable count and stress.
-The following easing choices are permitted in performance without changing its
-spelling or identity. They are not alternative lexical forms or rules for
-coining another word.
-
-- ie and uo may be sounded as two vowels, ee-eh and oo-oh; each still counts
-  as one canonical syllable when placing the word's stress.
-- A doubled long vowel may be said short.
-- kh may be a plain k; gh a plain g; q a plain k.
-- Inside a word before a vowel, ng may use the ng-g of finger.
-- r may be unrolled, and a doubled consonant may be said once.
-- A slight vowel may ease an unfamiliar opening consonant cluster. A k or g
-  before n may be silent, as in the familiar reading of knee.
-- A breathing h may be silent.
+Coined words, names and naming elements follow the guide and the naming
+palette below. Eilwìthi uses ny only before a vowel, and y only before a
+vowel or after one. These limits do not change either consonant's reading.
 
 ### Foreign words and names {#foreign-names}
 
-A foreign word used as Eilwìthi is adapted into Eilwìthi speech and respelled
-by its fixed transcription. Its Eilwìthi form is pronounced entirely by the
-coined-word rules, not by the source language. A borrowed word that is already
-an ordinary English word uses the conventional-English exception.
-
-A foreign name likewise has a pronounceable Eilwìthi form, rather than requiring
-a reader to know another tongue's spelling. Where a source name contains a
-sound or consonant cluster Eilwìthi speakers cannot pronounce, its adapted form
-uses pronounceable Eilwìthi sounds and syllables. The register states that form
-and may identify the person or place it names. An acute marks exceptional
-stress; a mark is not retained merely as part of a foreign spelling. Adapted
-forms mark a sounded second vowel with a diaeresis, as every Eilwìthi word does.
+A foreign word used as Eilwìthi is adapted into Eilwìthi speech and spelled
+by the guide, including a borrowed word that is also an ordinary English word.
+A foreign name likewise has an Eilwìthi form within the language's palette.
+The register states that form and may identify the person or place it names.
 
 ### The naming palette {#naming-palette}
 
 Eilwìthi names have two parts, each an old word: a first part such as _Ald-_,
 _Ed-_, _God-_, _Hild-_ or _Leof-_, and a second such as _-wald_, _-rik_,
 _-mund_, _-rith_, _-win_ or _-run_. The elements and the complete name obey the
-coined-word rules, including stress across the complete name, except where
-the register or an authored entry specifies otherwise.
+guide, including stress across the complete name.
 
 **The vowels.** _a_, _e_ and _i_ carry most names, with _o_ in _God-_ and _Os-_.
 
@@ -5001,11 +4777,10 @@ the register or an authored entry specifies otherwise.
 sound is always written _k_, as in _Kuth-_ and _-rik_.
 
 **Endings.** Common men's endings are _-wald_, _-rik_, _-mund_, _-win_ or _-red_.
-Common women's endings are _-rith_, _-run_, _-ith_ or _-wyn_.
+Common women's endings are _-rith_, _-run_ or _-ith_.
 
 **The naming elements.** Their hard consonant is written _k_. The prose and
-verse use the language's readable English-derived spellings, with c and x
-respelled by the rules above. Coined names are new pairings of the old parts, not the attested names of
+verse use the guide's spellings for English-derived words. Coined names are new pairings of the old parts, not the attested names of
 history. These are defaults for an unrecorded name, not grounds for changing an
 authoritative registered form. Favor this palette for new coinages unless an
 explicit exception is recorded.
@@ -5023,7 +4798,7 @@ Ordinary folk who stay at home speak Eilwìthi alone. The traveled and educated 
 Eilwìthi is given in these pages in readable Roman spelling, in a register that stays older than the ordinary prose of the notes. Anything said, sung or recorded in Eilwìthi is set in this register throughout: quoted speech, songs, proverbs, oaths, charms and folklore. The notes that describe the language, the people and the land stay in the setting's ordinary present-tense prose; only the text in Eilwìthi follows the rules below.
 
 Eilwìthi is written in the [[skill-semrnscrpt|Semaron Script]], in the Kuriale
-hand. Roman spellings and spoken readings follow this note. The separate
+hand. Roman spellings and spoken readings follow the guide. The separate
 [[doc-aelwsemaronenc|Eilwìthi Semaron Encoding]] defines how those spellings
 are written in the font. Its glyph codes belong to Semaron Kuriale; its
 mappings and rules belong to this language. A run naming that encoding gets
@@ -5032,17 +4807,13 @@ without an encoding remains Roman text.
 
 ### Rules for writers {#writing-rules}
 
-Use the Eilwìthi respellings above for English-derived words and the fixed
-transcription for coinages. The shared punctuation standard applies: a period
-ends a complete sentence, a comma marks an internal pause, ? marks a question,
-‼ an imperative and ! an exclamation. Semicolons and colons are not used.
-Direct speech normally identifies its speaker without quotation marks; when
-quotation marks are needed, use «…» outside and ‹…› inside. A dash marks an
-interruption, not an ordinary pause. Verse boundaries are structural.
+Use the guide for spelling and punctuation in every Eilwìthi passage.
+Direct speech normally identifies its speaker without quotation marks.
+Verse boundaries are structural.
 
 The possessive is -es, added to the full stem without an apostrophe: kinges
 from king, summeres from summer and stonees from stone. A plural stem likewise
-takes -es, as loverses from lovers. The stem's lexical stress is retained.
+takes -es, as loverses from lovers.
 Other elisions omit the apostrophe: English o'er is Eilwìthi oer, without
 restoring the omitted v. Apostrophes are not Eilwìthi characters.
 
@@ -5050,8 +4821,8 @@ There are no hyphenated words. An established joined form is written as one
 word, as kandlelight; descriptive combinations remain separate words, as
 sweet smelling, full fed and ale wife. The older register comes from sentence
 structure and familiar words. Avoid contracted negatives. Recorded vocabulary
-and explicit context notes take precedence; meanings and dictionary readings
-follow the English-derived conventions above where neither supplies an exception.
+and explicit context notes take precedence for meanings and grammar;
+ordinary English supplies these where neither specifies otherwise.
 
 #### Address and present verbs {#present-agreement}
 
@@ -5083,14 +4854,14 @@ applies to we, ye and they, as well as plural nouns.
 | go    | go    | goest    | goeth         | goen           |
 | kome  | kome  | komest   | kometh        | komen          |
 | know  | know  | knowest  | knoweth       | knowen         |
-| say   | say   | sayst    | saith         | sayen          |
+| say   | sai   | saist    | saith         | sayen          |
 
 An explicit form in the table takes precedence over the regular ending
 pattern. A variant listed in the lexicon is an attested form; the grammar
 and its context determine its use, rather than the list alone assigning
 a tense or person.
 
-Keep the word recognizable: a final silent e gives way before these endings,
+Keep the word recognizable: a final e gives way before these endings,
 as in love, lovest, loveth, loven. With consonant plus y, use -iest
 and -ieth in the singular, but keep y before plural -en: karriest,
 karrieth, karryen. These are the setting's readable patterns.
@@ -5179,7 +4950,7 @@ I go unto the market.
 
 Hast thou koin enough.
 
-Nay but I have wares to sell.
+Nai but I have wares to sell.
 :::
 
 Formal speech can carry more emphasis: Mi lord long haven we awaited thi
@@ -5282,7 +5053,7 @@ And name the dead, now fast asleep.
 :::
 
 ::: {.verse form=song lang=aelw enc=aelwsemaronenc work=harvestsong}
-The wool is shorn the barley bound/
+The wool is shorn the barlei bound/
 The last of summeres gold is ground/
 Fill high the kup and drink it deep/
 And name the dead now fast asleep.
@@ -5304,20 +5075,13 @@ Who watcheth bi the krossing wide/
 Will let the kourteous pass beside.
 :::
 
-In the charm, _offering_ and _courteous_ each take two syllables: _off-ring_,
-and _cour-teous_ with the second part compressed. These divisions mark the
-meter; the vowel readings follow the English-word rules above and the stated
-lexical reading.
-_Who_ here means _whoever_. Both the charm and the harvest song have eight
-syllables to a line.
+_Who_ here means _whoever_.
 
 ### Verse forms {#verse-forms}
 
-Eilwìthi verse is accentual: a line is counted by its beats, and its words keep
-the readings set out above, so an English-derived word keeps its dictionary
-stress in verse as in speech. Rhyme falls on the stressed vowel and what follows
-it, never on a shared ending alone: _thine_ and _line_ rhyme, _goeth_ and
-_knoweth_ do not.
+Eilwìthi verse is accentual: a line is counted by its beats. Every word follows
+the guide in verse as in speech. Rhyme falls on the stressed vowel and what
+follows it, never on a shared ending alone.
 
 - **The ballad** is sung in quatrains of four beats and three, alternating,
   rhymed on the second and fourth lines. A question or a formula comes round
@@ -5335,19 +5099,19 @@ The harvest song and the crossroads charm above are four-beat couplets.
 
 ## Naming Traditions {#names}
 
-Names on Eilwìth use the authoritative spellings given in the register. Their explicit notes take precedence; otherwise ordinary English words keep their familiar readings and coined names obey the fixed pronunciation and stress rules above. The island's people name by compounding, and the same small stock of elements serves places, people and families.
+Names on Eilwìth use the authoritative spellings given in the register. Every name follows the guide. The island's people name by compounding, and the same small stock of elements serves places, people and families.
 
-**A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greywater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
+**A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greiwater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
 
 **A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwin_, _Edrun_.
 
-**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsley_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grayling_ does.
+**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmslei_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grailing_ does.
 
-**Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Eilwìth_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Eilwìthi form and its origin or reason. An exception to the element pattern does not itself specify an exceptional pronunciation. The fixed sound and stress rules apply unless the register or an authored entry explicitly states another reading; foreign origin alone does not supply one. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Eilwìthi spelling.
+**Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Eilwìth_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Eilwìthi form and its origin or reason. Names outside the element pattern follow the guide too. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Eilwìthi spelling.
 
 ## Eilwìthi Lexicon
 
-Eilwìthi is the speech of Eilwìth, plain, direct and quick to take in foreign words, and the setting gives it in the reader's own language, in the older register set out above. Mainlanders call it coarse; Eilwìthans hold that its plainness is honesty. This note states the English-word sound conventions and fixed coined transcription; explicit lexical and name-register notes take precedence. Ordinary English supplies meanings, grammar and dictionary readings where neither an entry nor a local rule specifies otherwise. Every lexical form follows the Eilwìthi respelling rules. The encoding writes
+Eilwìthi is the speech of Eilwìth, plain, direct and quick to take in foreign words, and the setting gives it in the reader's own language, in the older register set out above. Mainlanders call it coarse; Eilwìthans hold that its plainness is honesty. The guide governs every lexical form and its reading. Ordinary English supplies meanings and grammar where neither an entry nor a local rule specifies otherwise. The encoding writes
 those forms directly without stored native spellings. The vocabulary below covers ordinary actions, feelings, relationships, questions and reasoning. The naming tables record the elements of place names, given names and bynames, and the names already in use.
 
 The elements are the island's own, and the pattern they make is what keeps a new name from sounding as if it came from another coast. A new place, person or family on Eilwìth is built from the elements below, or it is a plain exception and is entered in the last table with the reason.
@@ -5468,7 +5232,7 @@ FROM register WHERE language = 'thalorna-note-skill-aelwthlng' AND why IS NULL O
 
 ## Names outside the pattern
 
-Each name here is listed with the reason no element builds it. Its recorded form and explicit notes are authoritative. An exception concerning its elements alone does not alter its sounds; the general pronunciation and stress rules apply wherever no explicit reading overrides them.
+Each name here is listed with the reason no element builds it. The register records its form and context; the guide governs its reading.
 
 ```sql
 SELECT '**' || name || '**' AS "Name",

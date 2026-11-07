@@ -91,4 +91,4 @@ The Seilvri elder, [[being-neilwa|Neilwa]], whose rites he calls no rites.
 ## Plot Hooks
 
 1. **The converts.** A Seilvri woman Edrin received into the faith has gone back into Teilvari, and he wants to know whether she went of her own will.
-2. **A sermon at Wraymouth.** Edrin means to preach the war in Wraymouth, where it is called a murder, and he wants guards who will not start a riot.
+2. **A sermon at Wraimouth.** Edrin means to preach the war in Wraimouth, where it is called a murder, and he wants guards who will not start a riot.

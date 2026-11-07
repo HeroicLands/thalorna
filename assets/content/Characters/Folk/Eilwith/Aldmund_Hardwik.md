@@ -67,7 +67,7 @@ He cannot make a remote post self-sufficient; relief and supplies must still com
 
 ### Affiliations and Companions
 
-[[being-kenrikbrandley|Kenrik Brandley]] serves him, and [[being-wilriksunder|Sergeant Wilrik]] leads the relief from Kaerwiind.
+[[being-kenrikbrandley|Kenrik Brandlei]] serves him, and [[being-wilriksunder|Sergeant Wilrik]] leads the relief from Kaerwiind.
 
 ## Plot Hooks
 

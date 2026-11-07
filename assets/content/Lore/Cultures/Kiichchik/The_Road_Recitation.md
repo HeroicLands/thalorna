@@ -148,8 +148,8 @@ shelem q'aptel./
 ti k'otsel p'ishpu'kan./
 ch'umbal shaq'ulik sha ha'kan. sha ka ish'lan k'alish./
 ti keash ka ish'lan k'alish./
-ni k'ay'an‼/
-ti ka ish'lan k'ay'an ishkal.
+ni k'ai'an‼/
+ti ka ish'lan k'ai'an ishkal.
 
 ni ish'lan sh'ukanun. ni ch'ul ts'uqil shu shilan./
 ish'bal'ob tsal sh'ulik ishkal./
@@ -164,7 +164,7 @@ shi cham ka ts'en ch'ulun ts'ikanun./
 ti ch'upumal shi cham shilan‼/
 k'ayumal shi cham shu. p'ishalash shi cham shu./
 ch'upumal shi cham./
-shi cham ish'lan ishkal. ti ka ish'lan k'aykul ts'ekan ishkal.
+shi cham ish'lan ishkal. ti ka ish'lan k'aikul ts'ekan ishkal.
 
 [sh'ulch'ulbal kesh shu ch'umun. ch'eshbal pe' ch'ek sh'umish ch'ul k'ayumel ts'akan.]{.direction}
 
@@ -224,11 +224,11 @@ sha ch'umel nal'esh ha'kan. sha ch'ul ti ch'umun./
 sha ch'uman, «ish'lan ch'ek k'eshul k'alish.»/
 sha ch'uman, «ts'ikash sh'ek ch'ulun‼ k'otsel shu ts'amel k'alish./
 nalma kil ti kul'alan, nalma kil ti ka shots'em ch'akal k'alish.»/
-sha ish'lan ts'ikash ch'ul ti k'ayshutan./
+sha ish'lan ts'ikash ch'ul ti k'aishutan./
 sha ish'lan kul'ekik k'alish. ch'ekbal kish ts'i ts'akun./
 shi kesh sh'ek ch'ulun, ke shi kesh sh'ukul sh'ek ch'ulun./
 shu ts'ikash sh'ek ch'ulun‼/
-nalma kil ti na ish'lan sha k'ay'an./
+nalma kil ti na ish'lan sha k'ai'an./
 ts'akun‼ ish'lan ts'analun.
 
 [ish'lanbal]{.speaker}/

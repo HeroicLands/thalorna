@@ -6564,29 +6564,32 @@ Inside a Kaliharan house, a long given name is not said in full. A woman named _
 
 The household name is formed by rule:
 
-1. **Count the syllables of the given name.** Every vowel is a syllable, except that each of the six diphthongs, _ai_, _ei_, _ao_, _ae_, _oa_ and _ou_, counts as one. _Ilavoani_ is four syllables (i-la-voa-ni); _Theivoanei_ is three (thei-voa-nei).
-2. **Only a name of four syllables or more has a household name.** A name of three or fewer is already the length a household says, and everyone uses it whole: _Kulanei_, _Avaelith_ and _Theivoanei_ have no household name.
+1. **Count the syllables of the given name.** Follow the vowel groups in [[doc-prnncthlrn|Pronouncing Thalorna]]: the Kalihari pairs _ai_, _ei_ and _ou_ count as one syllable each, read from the left. Other adjacent vowels, including _ao_, _ae_ and _oa_, are said apart. _Ilavoani_ is five syllables (i-la-vo-a-ni); _Theivoanei_ is four (thei-vo-a-nei).
+2. **Only a name of four syllables or more can have a household name.** A name of three or fewer is already the length a household says, and everyone uses it whole: _Kulanei_ has no household name. _Avaelith_ (a-va-e-lith) gives _Vaelith_, and _Theivoanei_ gives _Voanei_.
 3. **Cut at the second-to-last syllable.** That syllable carries the stress, and the household name runs from its consonant to the end of the name: _Marivano_ (ma-ri-va-no) gives _Vano_.
-4. **Where that syllable is a bare vowel, reach back one syllable** so that the household name opens on a consonant: _Oruanei_ (o-ru-a-nei) gives _Ruanei_, not _Anei_.
+4. **Where that syllable is a bare vowel, reach back to the nearest syllable that opens on a consonant.** _Oruanei_ (o-ru-a-nei) gives _Ruanei_. If that is the first syllable, the name is used whole and has no separate household name: _Thaeori_ (tha-e-o-ri) stays _Thaeori_.
 
 Nothing is added. A household name takes no ending, no doubled syllable and no endearment, so it obeys the tongue's sound rules because the given name does. It is the part of the name a household hears loudest when the name is called across a garden.
 
-| Household name | Given name | Syllables     |
-| -------------- | ---------- | ------------- |
-| `Rivao`        | Luarivao   | lu-a-ri-vao   |
-| `Vano`         | Marivano   | ma-ri-va-no   |
-| `Vori`         | Ilavori    | i-la-vo-ri    |
-| `Ruanei`       | Oruanei    | o-ru-a-nei    |
-| `Vuanei`       | Tavuanei   | ta-vu-a-nei   |
-| `Thari`        | Avothari   | a-vo-tha-ri   |
-| `Lua`          | Mahilua    | ma-hi-lu-a    |
-| `Theia`        | Oritheia   | o-ri-thei-a   |
-| `Vani`         | Korevani   | ko-re-va-ni   |
-| `Voani`        | Ilavoani   | i-la-voa-ni   |
-| `Votha`        | Marivotha  | ma-ri-vo-tha  |
-| `Luethei`      | Koaluethei | koa-lu-e-thei |
-| `Kunei`        | Tavikunei  | ta-vi-ku-nei  |
-| `Voni`         | Reithavoni | rei-tha-vo-ni |
+| Household name | Given name | Syllables      |
+| -------------- | ---------- | -------------- |
+| `Vao`          | Luarivao   | lu-a-ri-va-o   |
+| `Vano`         | Marivano   | ma-ri-va-no    |
+| `Vori`         | Ilavori    | i-la-vo-ri     |
+| `Ruanei`       | Oruanei    | o-ru-a-nei     |
+| `Vuanei`       | Tavuanei   | ta-vu-a-nei    |
+| `Thari`        | Avothari   | a-vo-tha-ri    |
+| `Lua`          | Mahilua    | ma-hi-lu-a     |
+| `Theia`        | Oritheia   | o-ri-thei-a    |
+| `Vani`         | Korevani   | ko-re-va-ni    |
+| `Voani`        | Ilavoani   | i-la-vo-a-ni   |
+| `Votha`        | Marivotha  | ma-ri-vo-tha   |
+| `Luethei`      | Koaluethei | ko-a-lu-e-thei |
+| `Kunei`        | Tavikunei  | ta-vi-ku-nei   |
+| `Voni`         | Reithavoni | rei-tha-vo-ni  |
+| `Vaelith`      | Avaelith   | a-va-e-lith    |
+| `Voanei`       | Theivoanei | thei-vo-a-nei  |
+| —              | Thaeori    | tha-e-o-ri     |
 
 The household name belongs to the house. In the interior that is the mother's line; in the ports it is whichever house a person was raised in. Kin use it, and so do those raised under the same roof. It is spoken only: the full name opens every account a Kaliharan holds, is recited in the household's and the lineage's memory, and is the only name a council or a custodian uses. Household names repeat freely from one house to the next—there are a great many _Vori_ on the island—which troubles nobody, because the name is never used where two houses meet.
 

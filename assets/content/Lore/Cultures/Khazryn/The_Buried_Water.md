@@ -219,7 +219,7 @@ khamaqjivoq zokhir chubish javal,/
 uruvol zilich qozabum jochun./
 zilich khacham khodir sovoz.
 
-gured chovur. orqaz jumey,/
+gured chovur. orqaz jumei,/
 idvaq jomik chumikul khevesh./
 qobuq chovur, qobuq chovur,/
 khezir ghuzoch evur khubush/
@@ -235,7 +235,7 @@ sovid qadiz yodvir qazin/
 ghuyuz jorusikh sovoz zokhen./
 gured chovur khubush khodir/
 chumikul, jiviz uruvol ghunir./
-khizin ghozuch chomoy qazom/
+khizin ghozuch chomoi qazom/
 zokhun koyoz qadiz kholiqin/
 zokhen jochun. qadiz zevik/
 chosoq jochun, zevik chosoq./
@@ -335,7 +335,7 @@ zilich khacham khodir sovoz.
 
 zoretchoze. uruvaq jodur ghanim,/
 tijod qazin zovet jomik/
-jomighum, zoret chomoy chubish./
+jomighum, zoret chomoi chubish./
 soqir yemok khizin javal,/
 soqir zokhir chuyozukh javal,/
 «uruvol jonkhiq qotur qavum,/
@@ -447,7 +447,7 @@ jiven khechid. kelodekon zamad/
 khodir jochun, ekon kelod/
 jiven. qadul uruvol jalud/
 ghanim evodur qadiz qonir,/
-jiviz qadul qadiz khokhoy/
+jiviz qadul qadiz khokhoi/
 jalud. zaqin zanim qadul/
 jedorud zidun jaziy jodur/
 jiviz ghunir zughuqat, jiviz/
@@ -462,7 +462,7 @@ jochun zuser. ghozuch ghuzoch/
 joruy jozim jomik jochun,/
 jelud khenech chovin. qadiz/
 zotel qotim zokhun qadiz/
-jozim chomey jodur zokhen./
+jozim chomei jodur zokhen./
 qadiz ghachaa khukhas khodir,/
 jozulud, chaghoz qovikh jiven/
 khodoz ghunolil qotim, jiviz/
@@ -472,7 +472,7 @@ zilich khacham khodir sovoz.
 
 yolaq. zazim votri qomoch/
 ghuyuz dujar iqod tijod/
-jiven, zochulay khenech chovin,/
+jiven, zochulai khenech chovin,/
 zamad evod jiven khanalod/
 jochun. evod. zamad evod/
 jiven. yolaq iqod zodol/
@@ -509,12 +509,12 @@ qazin yolaq ghozun khevesh,/
 jiviz qaduch javat chubish/
 qotiq. yolaq iqod jiven/
 chuvel khodir, joghur khubush/
-chomoy jiven chovom, qozuk/
+chomoi jiven chovom, qozuk/
 joghur jiven khuzir, zotel/
 zokhun qadiz yolaq jiviz/
 ghoshiq choyad qughun qavum/
 zokhen zodin, jiviz zudukh/
-qaghay. zazim zanim mirjolud/
+qaghai. zazim zanim mirjolud/
 jeko zidun qadiz qotur/
 khezon. julash zomem, uruvaq/
 khenech ghuyuz, yolakud jivoq/
@@ -527,7 +527,7 @@ zokhen khenech ghukhod, ghozuch/
 zokhun soqir qadiz qonir/
 zokhen khenech ghukhod, jiviz/
 jozel zovek evodur jiven/
-khubush chomoy khodir zovuz,/
+khubush chomoi khodir zovuz,/
 zovek qayur jiviz ghaniyush/
 chovin, zokhun soqir ghoshiq/
 jiven qaduch qazodir zevik/
@@ -535,7 +535,7 @@ qomul zokhen, jiviz khuyakh/
 zokhun zudom qaduch chokham/
 zokhen. chutakh qotuz qonod/
 jiven chovin jobumil zughish/
-qaghay, jiviz chadash zokhun/
+qaghai, jiviz chadash zokhun/
 qozol khodut jochun jokhen/
 zokhen jozel jutin zokhun/
 qadiz jaziy qavum zokhen/

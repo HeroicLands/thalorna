@@ -53,7 +53,7 @@ Twelve people make up the household. The prince, [Garmelul]{.name data-type="bei
 
 ## Current Situation {#present}
 
-The household sits at its table as it has for ninety years and asks every guest for news. This midwinter, for the first time in living memory, its silver has not reached the House of Ashkarad at Amradad, and Nimeshay of Ashkarad wants to know why.
+The household sits at its table as it has for ninety years and asks every guest for news. This midwinter, for the first time in living memory, its silver has not reached the House of Ashkarad at Amradad, and Nimeshai of Ashkarad wants to know why.
 
 ## The Law of the Guest
 
@@ -69,7 +69,7 @@ A party that comes up the line of glass rods from Ashkarad meets the steward at 
 
 ## Hook
 
-- **The midwinter silver.** For the first time in living memory the household's silver has not reached Amradad. Nimeshay of Ashkarad sends the party to the palace with a letter for his kinsman, and wants to know what answer the prince gives, and whether he gives one at all.
+- **The midwinter silver.** For the first time in living memory the household's silver has not reached Amradad. Nimeshai of Ashkarad sends the party to the palace with a letter for his kinsman, and wants to know what answer the prince gives, and whether he gives one at all.
 
 ## See Also
 

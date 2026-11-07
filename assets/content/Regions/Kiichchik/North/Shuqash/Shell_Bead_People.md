@@ -38,14 +38,14 @@ data:
         Counter: a townsperson or one of the chief's kin who keeps the town's count of beads, debts and gifts in memory, recites it at every feast and at every grave, and checks the town's measuring cord at midwinter.
       altuku: >-
         Herald: one of the chief's kin who carries the chief's word to other towns, announces feasts, names gifts and faults aloud, and proclaims a new chief.
-      alkulay: >-
+      alkulai: >-
         Canoe master: a man of the Canoe Kin who owns a plank canoe, commands its crew of eight to twelve, and pays the brotherhood's store a share of every voyage.
       alsulik: >-
         Master sewer: a canoe master of long standing whom the Canoe Kin trust with the fitting of a canoe's bow and keel planks, the part of the art taught to no one else.
       altiyup: >-
         Astronomer-priest: one of the chief's kin who has paid the society's entry and learned the sky, and who names children, keeps the calendar, paints the caves and gives the dream drink.
-      tiyup tahay: >-
-        Sky Elder: the eldest astronomer-priest, who sits at Kulaywil, keeps the Measure and hears the quarrels between towns and between chiefs and priests at the Holding of the Sun.
+      tiyup tahai: >-
+        Sky Elder: the eldest astronomer-priest, who sits at Kulaiwil, keeps the Measure and hears the quarrels between towns and between chiefs and priests at the Holding of the Sun.
   seat: null
   population: 350000
   economy: []
@@ -71,23 +71,23 @@ The town rules, and nothing rules the towns. A town (_kilaw_) is a few hundred t
 
 The office passes within the chief's kin (_hilaqash_), the town's richest lineage. A dying chief names an heir, usually a child or a sister's child, the herald proclaims the name, and the town accepts the heir by coming to the heir's first feast. A town that stays away has refused the heir, and the chief's kin must name another. That has happened in living memory at two towns, both times to an heir who had let the town's dead go without crossing strands.
 
-A chief takes several wives, each from the chief's kin of another town, and every such marriage ties two towns together. The chief of [[place-kulaywil|Kulaywil]], [[being-shuqkanan|Shuqkanan]], Bright Bead, is a woman whose own marriage and her five daughters' marriages tie Kulaywil to six other towns, and no chief on the coast quarrels with her lightly. That is the nearest thing the coast has to a ruler, and she rules nobody.
+A chief takes several wives, each from the chief's kin of another town, and every such marriage ties two towns together. The chief of [[place-kulaywil|Kulaiwil]], [[being-shuqkanan|Shuqkanan]], Bright Bead, is a woman whose own marriage and her five daughters' marriages tie Kulaiwil to six other towns, and no chief on the coast quarrels with her lightly. That is the nearest thing the coast has to a ruler, and she rules nobody.
 
 ## The Bead
 
 The beads are made on the islands, above all at [[place-shuqwil|Shuqwil]] on Bead Island, where nearly every household drills. A driller breaks the shell of a small olive snail, grinds a disk from it on a sandstone slab, drills it through with a stone point on a pump drill, and strings it. A good driller makes one strand (_hamil_) a day, a cord of beads long enough to reach once around a grown hand. The islands have little water and less wood, so they live by trading beads to the mainland for acorns, seeds, deer meat and the wood the drillers burn.
 
-Every price on the coast is counted in strands, and the count holds because the strands are checked. The astronomer-priests keep the [Measure of Kulaywil]{.name data-type="lore/custom"}, a cord of exact length, and each town's counter brings the town's measuring cord to be checked against it at the [Holding of the Sun]{.name data-type="lore/gathering"} every midwinter. A counter whose cord is found short loses the office, and the short cord is cut in front of the gathered chiefs.
+Every price on the coast is counted in strands, and the count holds because the strands are checked. The astronomer-priests keep the [Measure of Kulaiwil]{.name data-type="lore/custom"}, a cord of exact length, and each town's counter brings the town's measuring cord to be checked against it at the [Holding of the Sun]{.name data-type="lore/gathering"} every midwinter. A counter whose cord is found short loses the office, and the short cord is cut in front of the gathered chiefs.
 
 Beads leave the coast in two directions. The [[affiliation-kelwanuk|Cedar People]] take them north, by trade and as the [Northern Strand]{.name data-type="lore/custom"}, and a Cedar chief gives them away at his feasts as he gives copper. The [[affiliation-teyumi|Turquoise People]] take them east over the mountains and a trail of desert springs, with abalone shell for their dancers, and pay in turquoise and cotton cloth. The coast has more beads than it had a generation ago and each strand buys a little less, and the island drillers complain of it.
 
 ## The Canoe Kin
 
-The Canoe Kin (_kulayash_) are a hereditary brotherhood of canoe builders and sailors, about two thousand men in the coast towns, all of them descended from [Shiyawkal]{.name data-type="being/npc"}, who sewed the first plank canoe on the beach at Kulaywil. Only they may build, own or command a plank canoe (_kulay_). Anyone may paddle in one for wages, and anyone may hire one, but a man outside the brotherhood who builds a canoe has it broken up on the beach by the brotherhood's men, and no chief stops them.
+The Canoe Kin (_kulayash_) are a hereditary brotherhood of canoe builders and sailors, about two thousand men in the coast towns, all of them descended from [Shiyawkal]{.name data-type="being/npc"}, who sewed the first plank canoe on the beach at Kulaiwil. Only they may build, own or command a plank canoe (_kulai_). Anyone may paddle in one for wages, and anyone may hire one, but a man outside the brotherhood who builds a canoe has it broken up on the beach by the brotherhood's men, and no chief stops them.
 
-A son of the Canoe Kin is presented to the brotherhood at twelve. To enter it he must sew one seam of two planks that holds water overnight, and paddle to Bead Island and back in his father's crew. At Kulaywil he then swears on the [Paddle of Shiyawkal]{.name data-type="lore/custom"}, which hangs in the brotherhood's house above the beach, that he will teach the sewing of a canoe to no one outside the brotherhood. A man with no sons may bring his daughter's husband into the brotherhood by paying it a hundred strands.
+A son of the Canoe Kin is presented to the brotherhood at twelve. To enter it he must sew one seam of two planks that holds water overnight, and paddle to Bead Island and back in his father's crew. At Kulaiwil he then swears on the [Paddle of Shiyawkal]{.name data-type="lore/custom"}, which hangs in the brotherhood's house above the beach, that he will teach the sewing of a canoe to no one outside the brotherhood. A man with no sons may bring his daughter's husband into the brotherhood by paying it a hundred strands.
 
-A canoe master (_alkulay_) owns a canoe and commands its crew. The master sewers (_alsulik_), a few dozen canoe masters of long standing, are the brotherhood's inner circle: only they know how the bow and keel planks are shaped and fitted, and every new canoe is built under one of them. A member who teaches the art to an outsider is put out of the brotherhood, his canoe is broken up, and no canoe of the Canoe Kin will carry him or his family again, not to the islands and not across the strait at the end. Every voyage pays a share of its cargo into the brotherhood's store, and the store pays for life any member drowned, crippled or too old to paddle, and his widow and children.
+A canoe master (_alkulai_) owns a canoe and commands its crew. The master sewers (_alsulik_), a few dozen canoe masters of long standing, are the brotherhood's inner circle: only they know how the bow and keel planks are shaped and fitted, and every new canoe is built under one of them. A member who teaches the art to an outsider is put out of the brotherhood, his canoe is broken up, and no canoe of the Canoe Kin will carry him or his family again, not to the islands and not across the strait at the end. Every voyage pays a share of its cargo into the brotherhood's store, and the store pays for life any member drowned, crippled or too old to paddle, and his widow and children.
 
 The Canoe Kin need the chiefs, who buy their cargoes and buy their canoes, and the chiefs need the Canoe Kin, who alone can reach the islands. A chief who pushes the brotherhood too hard finds that no canoe lands on his beach that spring.
 
@@ -95,15 +95,15 @@ The Canoe Kin need the chiefs, who buy their cargoes and buy their canoes, and t
 
 The astronomer-priests (_altiyup_) are one sworn society across all the towns. Entry costs forty strands and years of teaching, so nearly all of them are chief's kin, and every chief's heir is expected to join. An initiate learns the sky: the rising points of the sun along the mountains through the year, the moon's months, the stars that rise before dawn in each season. They learn the songs, the healing herbs, the mixing of the dream drink (_lipush_), and the painting of the sky beings on the walls of the caves in the mountains, the greatest of them [Tishal Hapuq]{.name data-type="place/site"}, the Painted Cave, above [[place-tulishwil|Tulishwil]].
 
-They name every child, read the sky for every launch, marriage and burial, keep the calendar and the Measure, and decide whether a misfortune is sorcery. They sing the dead across at [[place-hipalhalaq|Hipal Halaq]] and are paid by the strand. Their eldest, the [Sky Elder]{.name data-type="lore/custom"} (_tiyup tahay_), sits at Kulaywil and is the only person whose word is heard in every town. The present Sky Elder is [[being-tiyupliq|Tiyupliq]], Clear Sky, a woman of the chief's kin of Kulaywil who has held the post for nineteen winters.
+They name every child, read the sky for every launch, marriage and burial, keep the calendar and the Measure, and decide whether a misfortune is sorcery. They sing the dead across at [[place-hipalhalaq|Hipal Halaq]] and are paid by the strand. Their eldest, the [Sky Elder]{.name data-type="lore/custom"} (_tiyup tahai_), sits at Kulaiwil and is the only person whose word is heard in every town. The present Sky Elder is [[being-tiyupliq|Tiyupliq]], Clear Sky, a woman of the chief's kin of Kulaiwil who has held the post for nineteen winters.
 
 ## The Towns Together
 
-No council binds the towns. What holds them is marriage between chiefly houses, the bead and its Measure, the Canoe Kin's sea road, the astronomer-priests' calendar, and the gathering of chiefs at Kulaywil at the Holding of the Sun, where the Sky Elder hears the quarrels the towns could not settle. A quarrel that the Sky Elder cannot settle is fought on a set field between the two towns' men with bows, and the fighting stops when one man falls; his town is paid for him, and both towns feast afterward.
+No council binds the towns. What holds them is marriage between chiefly houses, the bead and its Measure, the Canoe Kin's sea road, the astronomer-priests' calendar, and the gathering of chiefs at Kulaiwil at the Holding of the Sun, where the Sky Elder hears the quarrels the towns could not settle. A quarrel that the Sky Elder cannot settle is fought on a set field between the two towns' men with bows, and the fighting stops when one man falls; his town is paid for him, and both towns feast afterward.
 
 ## The Raiders and the Courting
 
-The Cedar People are the coast's best customers and its worst danger. Their trading canoes come south every autumn for beads and leave grease, copper and cedar boxes, and their war canoes come south in the summers for slaves. Every spring the chiefs of the northern towns, led by the chief of [[place-tikoqhipay|Tikoq Hipay]], send north a cargo of beads, the Northern Strand, and the war canoes leave the coast towns alone. The raids fall on the Oak Valleys instead, as they have since the [Pointing]{.name data-type="lore/history"}, the arrangement the culture note tells.
+The Cedar People are the coast's best customers and its worst danger. Their trading canoes come south every autumn for beads and leave grease, copper and cedar boxes, and their war canoes come south in the summers for slaves. Every spring the chiefs of the northern towns, led by the chief of [[place-tikoqhipay|Tikoq Hipai]], send north a cargo of beads, the Northern Strand, and the war canoes leave the coast towns alone. The raids fall on the Oak Valleys instead, as they have since the [Pointing]{.name data-type="lore/history"}, the arrangement the culture note tells.
 
 The Turquoise People court the coast for its beads and its shell. Their traders, who come over the mountains in summer, press the chiefs to join the [[affiliation-redstncmpct|Red Stone Compact]], because pipe kin of the compact owe each other safe passage and the Cedar People sit in it. The chiefs have not joined. The compact would ask them for warriors against the south, and the Northern Strand costs them less than warriors. The Cedar People, who would lose both the Strand and the slaves, say nothing about it in the Turquoise People's hearing.
 
@@ -121,7 +121,7 @@ The Turquoise People court the coast for its beads and its shell. Their traders,
 [[place-tulishlumuqrgn|Oak Valleys]]
 : the oak and acorn country behind the coastal mountains
 
-[[place-kulaywil|Kulaywil]]
+[[place-kulaywil|Kulaiwil]]
 : Canoe Place, the town of the Canoe Kin and the Sky Elder
 
 [[affiliation-kelwanuk|Kelwanuk]]

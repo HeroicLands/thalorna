@@ -131,7 +131,7 @@ data:
     - {form: ch'umal, class: n, field: "Sky, sun and the count of days", gloss: a wind spirit}
     - {form: ts'anish, class: n, field: "Sky, sun and the count of days", gloss: an eclipse}
     - {form: p'uqil, class: n, field: "Sky, sun and the count of days", gloss: a thundercloud}
-    - form: k'aycha
+    - form: k'aicha
       class: n
       field: Sky, sun and the count of days
       gloss: lightning
@@ -697,7 +697,7 @@ data:
     - {form: ts'anum, class: v, field: Doing and being, gloss: to rest}
     - {form: nal'ik'an, class: v, field: Doing and being, gloss: to dream}
     - {form: pu'tal, class: v, field: Doing and being, gloss: to climb, concept: climb}
-    - {form: k'ay'an, class: v, field: Doing and being, gloss: to hear, concept: hear-verb}
+    - {form: k'ai'an, class: v, field: Doing and being, gloss: to hear, concept: hear-verb}
     - {form: ch'upalum, class: v, field: Doing and being, gloss: to carry, concept: carry}
     - {form: ch'akal, class: adj, field: Doing and being, gloss: "big, large", concept: big}
     - {form: ts'ulun, class: adj, field: Doing and being, gloss: "small, tiny", concept: small}
@@ -726,7 +726,7 @@ data:
     - {form: pu'uch, class: adj, field: Doing and being, gloss: weak, concept: weak}
     - {form: ts'ikan, class: adj, field: Doing and being, gloss: happy}
     - {form: ch'atal, class: adj, field: Doing and being, gloss: sad}
-    - {form: k'aychun, class: adj, field: Doing and being, gloss: angry}
+    - {form: k'aichun, class: adj, field: Doing and being, gloss: angry}
     - {form: nal'al, class: adj, field: Doing and being, gloss: calm}
     - {form: ts'ik'al, class: adj, field: Doing and being, gloss: sick, concept: sick}
     - {form: nal'in, class: adj, field: Doing and being, gloss: healthy, concept: healthy}
@@ -824,8 +824,8 @@ data:
       field: Everyday speech
       gloss: an obstruction; in a desire phrase, its frustration
     - {form: sh'ukul, class: adj, field: Everyday speech, gloss: in disorder; confused}
-    - {form: k'aytalik, class: adj, field: Everyday speech, gloss: able to see}
-    - {form: k'ayntalik, class: adj, field: Everyday speech, gloss: able to hear}
+    - {form: k'aitalik, class: adj, field: Everyday speech, gloss: able to see}
+    - {form: k'aintalik, class: adj, field: Everyday speech, gloss: able to hear}
     - form: sh'ul
       class: adj
       field: Everyday speech
@@ -991,7 +991,7 @@ data:
       field: Everyday speech
       gloss: a sight; what is seen
       concept: see-noun
-    - {form: k'aynel, class: n, field: Everyday speech, gloss: a sound, concept: hear-noun}
+    - {form: k'ainel, class: n, field: Everyday speech, gloss: a sound, concept: hear-noun}
     - {form: sh'umal, class: v, field: Everyday speech, gloss: to smell, concept: smell-verb}
     - form: sh'umel
       class: n
@@ -1036,7 +1036,7 @@ data:
       gloss: to listen; Listen
       concept: [listen, expression-listen]
       note: A verb; the same bare form addresses the listener as the request listen.
-    - form: k'aynel ch'ukun
+    - form: k'ainel ch'ukun
       class: n
       field: Everyday speech
       gloss: noise
@@ -1062,11 +1062,11 @@ data:
       gloss: to feel a sensation
       concept: feel-verb
     - {form: p'ishulal, class: n, field: Everyday speech, gloss: sensation, concept: sensation}
-    - {form: k'aytul, class: v, field: Everyday speech, gloss: to notice, concept: notice}
+    - {form: k'aitul, class: v, field: Everyday speech, gloss: to notice, concept: notice}
     - {form: p'ishkan, class: v, field: Everyday speech, gloss: perceive, concept: perceive}
     - {form: k'ayishkan, class: v, field: Everyday speech, gloss: recognize, concept: recognize}
     - {form: k'ayishun, class: v, field: Everyday speech, gloss: seem, concept: seem}
-    - form: k'aychumal kash
+    - form: k'aichumal kash
       class: n
       field: Everyday speech
       gloss: wrath; intense anger
@@ -1114,10 +1114,10 @@ data:
     - {form: p'ishal, class: n, field: Everyday speech, gloss: pleasure, concept: pleasure}
     - {form: nal'alal, class: n, field: Everyday speech, gloss: contentment, concept: contentment}
     - {form: ch'imal, class: n, field: Everyday speech, gloss: gratitude, concept: gratitude}
-    - {form: k'aynelush, class: n, field: Everyday speech, gloss: admiration, concept: admiration}
+    - {form: k'ainelush, class: n, field: Everyday speech, gloss: admiration, concept: admiration}
     - {form: ts'ushal, class: n, field: Everyday speech, gloss: trust, concept: trust}
     - {form: kul'um, class: n, field: Everyday speech, gloss: courage, concept: courage}
-    - {form: k'aychumal, class: n, field: Everyday speech, gloss: anger, concept: anger}
+    - {form: k'aichumal, class: n, field: Everyday speech, gloss: anger, concept: anger}
     - {form: shok'um, class: n, field: Everyday speech, gloss: hatred, concept: hatred}
     - form: ts'ushal ha'mel
       class: n
@@ -1208,7 +1208,7 @@ data:
       concept: confusion
     - {form: ish'umal, class: n, field: Everyday speech, gloss: doubt, concept: doubt}
     - {form: ish'tsal, class: n, field: Everyday speech, gloss: certainty, concept: certainty}
-    - {form: k'aytulal, class: n, field: Everyday speech, gloss: surprise, concept: surprise}
+    - {form: k'aitulal, class: n, field: Everyday speech, gloss: surprise, concept: surprise}
     - form: p'ishal ts'alun
       class: n
       field: Everyday speech
@@ -1279,7 +1279,7 @@ data:
     - {form: sh'ikul, class: n, field: Everyday speech, gloss: the hair, concept: hair}
     - {form: k'ayum, class: n, field: Everyday speech, gloss: the face, concept: face}
     - {form: k'ayikash, class: n, field: Everyday speech, gloss: the eye, concept: eye}
-    - {form: k'aynak, class: n, field: Everyday speech, gloss: the ear, concept: ear}
+    - {form: k'ainak, class: n, field: Everyday speech, gloss: the ear, concept: ear}
     - {form: sh'umak, class: n, field: Everyday speech, gloss: the nose, concept: nose}
     - {form: nalak, class: n, field: Everyday speech, gloss: the mouth, concept: mouth}
     - form: nalak tq'an
@@ -1431,7 +1431,7 @@ data:
     - {form: kul'umal, class: n, field: Everyday speech, gloss: muscle, concept: muscle}
     - {form: p'ukal, class: n, field: Everyday speech, gloss: fat, concept: fat}
     - {form: ne'p'ish, class: n, field: Everyday speech, gloss: sweat (noun), concept: sweat}
-    - {form: ne'k'ay, class: n, field: Everyday speech, gloss: tears, concept: tears}
+    - {form: ne'k'ai, class: n, field: Everyday speech, gloss: tears, concept: tears}
     - {form: ne'nal, class: n, field: Everyday speech, gloss: saliva, concept: saliva}
     - {form: ishkanak, class: n, field: Everyday speech, gloss: brain, concept: brain}
     - {form: h'ulum, class: n, field: Everyday speech, gloss: lung, concept: lung}
@@ -1539,13 +1539,13 @@ data:
     - {form: ts'umulan, class: v, field: Everyday speech, gloss: Bleed, concept: bleed}
     - {form: nal'intan, class: v, field: Everyday speech, gloss: heal, concept: heal}
     - {form: nal'intun, class: v, field: Everyday speech, gloss: recover, concept: recover}
-    - form: shu k'aytalik
+    - form: shu k'aitalik
       class: adj
       field: Everyday speech
       gloss: Blind
       note: An ordinary expression using the word order and phrase constructions in Everyday speech.
       concept: blind
-    - form: shu k'ayntalik
+    - form: shu k'aintalik
       class: adj
       field: Everyday speech
       gloss: deaf
@@ -1724,7 +1724,7 @@ data:
       gloss: shutters
       note: An ordinary expression using the word order and phrase constructions in Everyday speech.
       concept: shutters
-    - {form: k'aykul, class: n, field: Everyday speech, gloss: a lamp, concept: lamp}
+    - {form: k'aikul, class: n, field: Everyday speech, gloss: a lamp, concept: lamp}
     - {form: p'ilul, class: n, field: Everyday speech, gloss: cloth, concept: cloth}
     - form: p'ilul kesh
       class: n
@@ -1763,16 +1763,16 @@ data:
     - {form: k'otsum, class: n, field: Everyday speech, gloss: rope, concept: rope}
     - {form: k'otsik, class: n, field: Everyday speech, gloss: cord, concept: cord}
     - {form: p'ilik, class: n, field: Everyday speech, gloss: needle, concept: needle}
-    - {form: k'ayh'ul, class: n, field: Everyday speech, gloss: smoke, concept: smoke}
-    - {form: k'aypuk, class: n, field: Everyday speech, gloss: ash, concept: ash}
-    - {form: k'aykulak, class: n, field: Everyday speech, gloss: coal, concept: coal}
+    - {form: k'aih'ul, class: n, field: Everyday speech, gloss: smoke, concept: smoke}
+    - {form: k'aipuk, class: n, field: Everyday speech, gloss: ash, concept: ash}
+    - {form: k'aikulak, class: n, field: Everyday speech, gloss: coal, concept: coal}
     - form: k'ayish kul'al
       class: n
       field: Everyday speech
       gloss: torch
       note: Living firewood; conventional expression for a portable burning torch, distinct from the named Living Flame rite.
       concept: torch
-    - form: k'ayp'uk
+    - form: k'aip'uk
       class: n
       field: Everyday speech
       gloss: candle
@@ -1923,7 +1923,7 @@ data:
     - {form: h'ulpum, class: n, field: Everyday speech, gloss: cloud, concept: cloud}
     - {form: h'ulun, class: n, field: Everyday speech, gloss: wind, concept: wind}
     - {form: h'ulshok, class: n, field: Everyday speech, gloss: storm, concept: storm}
-    - {form: h'ulkay, class: n, field: Everyday speech, gloss: thunder, concept: thunder}
+    - {form: h'ulkai, class: n, field: Everyday speech, gloss: thunder, concept: thunder}
     - {form: shik, class: n, field: Everyday speech, gloss: plant, concept: plant}
     - {form: shikmah, class: n, field: Everyday speech, gloss: tree, concept: tree}
     - {form: shikpil, class: n, field: Everyday speech, gloss: leaf, concept: leaf}
@@ -2170,8 +2170,8 @@ data:
       gloss: to put
       note: Hold and move into place, with the object before the group; conventional serial action put.
       concept: put
-    - {form: k'aytun, class: v, field: Everyday speech, gloss: to find, concept: find}
-    - {form: k'aytukan, class: v, field: Everyday speech, gloss: to lose, concept: lose}
+    - {form: k'aitun, class: v, field: Everyday speech, gloss: to find, concept: find}
+    - {form: k'aitukan, class: v, field: Everyday speech, gloss: to lose, concept: lose}
     - {form: shots'an, class: v, field: Everyday speech, gloss: to open, concept: open}
     - {form: shots'un, class: v, field: Everyday speech, gloss: to close, concept: close}
     - {form: ch'ulan, class: v, field: Everyday speech, gloss: to begin, concept: begin}
@@ -2275,7 +2275,7 @@ data:
       gloss: to try
       note: An ordinary expression using the word order and phrase constructions in Everyday speech.
       concept: try
-    - {form: k'aylan, class: v, field: Everyday speech, gloss: to search, concept: search}
+    - {form: k'ailan, class: v, field: Everyday speech, gloss: to search, concept: search}
     - {form: ts'omekan, class: v, field: Everyday speech, gloss: to meet, concept: meet}
     - {form: kul'iman, class: v, field: Everyday speech, gloss: to help, concept: help}
     - {form: p'ekan, class: v, field: Everyday speech, gloss: to share, concept: share}
@@ -2342,8 +2342,8 @@ data:
       concept: lean
     - {form: sh'ukalan, class: v, field: Everyday speech, gloss: to cover, concept: cover-verb}
     - {form: sh'ukalun, class: v, field: Everyday speech, gloss: to uncover, concept: uncover}
-    - {form: k'ayshukan, class: v, field: Everyday speech, gloss: to hide, concept: hide}
-    - {form: k'ayshutan, class: v, field: Everyday speech, gloss: to reveal, concept: reveal}
+    - {form: k'aishukan, class: v, field: Everyday speech, gloss: to hide, concept: hide}
+    - {form: k'aishutan, class: v, field: Everyday speech, gloss: to reveal, concept: reveal}
     - {form: k'eshan, class: v, field: Everyday speech, gloss: to lock, concept: lock-verb}
     - {form: k'eshun, class: v, field: Everyday speech, gloss: to unlock, concept: unlock}
     - {form: ch'i, class: adv, field: Everyday speech, gloss: Here, concept: here}
@@ -3371,7 +3371,7 @@ data:
     - {form: ha'kel, class: n, field: Everyday speech, gloss: Property, concept: property}
     - {form: ha'kal, class: n, field: Everyday speech, gloss: ownership, concept: ownership}
     - {form: kul'ish, class: n, field: Everyday speech, gloss: Honor, concept: honor}
-    - {form: k'ayshukel, class: n, field: Everyday speech, gloss: Secret, concept: secret}
+    - {form: k'aishukel, class: n, field: Everyday speech, gloss: Secret, concept: secret}
     - {form: ishkalel, class: n, field: Everyday speech, gloss: knowledge, concept: knowledge}
     - {form: ch'ek, class: n, field: Everyday speech, gloss: Thing, concept: thing}
     - {form: kul'ek, class: n, field: Everyday speech, gloss: being, concept: being}
@@ -3410,7 +3410,7 @@ data:
       class: n
       field: Everyday speech
       gloss: thought; thinking as a mental activity
-    - {form: k'aykun, class: v, field: Everyday speech, gloss: to burn, concept: burn}
+    - {form: k'aikun, class: v, field: Everyday speech, gloss: to burn, concept: burn}
     - {form: k'ayumel, class: n, field: Everyday speech, gloss: fire, concept: fire}
     - form: nal'ikshal
       class: n
@@ -3611,7 +3611,7 @@ data:
     # The waste: its countries, features and sites
     - name: The Ash Country
       tongue: translation
-    - {name: "K'aypukal", tongue: kiichek, built: ["k'aypuk", "-al"], gloss: the ash-bed}
+    - {name: "K'aipukal", tongue: kiichek, built: ["k'aipuk", "-al"], gloss: the ash-bed}
     - {name: The Thirst, tongue: translation}
     - {name: "Ts'ikukal", tongue: kiichek, built: ["ts'ikuk", "-al"], gloss: the place of thirst}
     - {name: The Sick Forest, tongue: translation}
@@ -3644,9 +3644,9 @@ data:
     - {name: The Ice Shore, tongue: translation}
     - {name: "Ilkan Ne'kul", tongue: kiichek, built: [ilkan, "ne'kul"], gloss: the ice shore}
     - {name: The Ash Stair, tongue: translation}
-    - name: "Pu'talal K'aypuk"
+    - name: "Pu'talal K'aipuk"
       tongue: kiichek
-      built: ["pu'talal", "k'aypuk"]
+      built: ["pu'talal", "k'aipuk"]
       gloss: the stair of ash
     - {name: The Seven Houses, tongue: translation}
     - name: "Nuq'el Ch'alish"
@@ -4339,7 +4339,7 @@ Nal'ik'an
 Pu'tal
 : To climb
 
-K'ay'an
+K'ai'an
 : To hear
 
 Ch'upalum
@@ -4682,7 +4682,7 @@ The concept of zero, critical in Kì'ìch'chik mathematics, is expressed as **Ts
 
 8.  **P'uqil** - Thundercloud
 
-9.  **K'aycha** - Lightning
+9.  **K'aicha** - Lightning
 
 10. **Ts'umaq** - Night Sky
 

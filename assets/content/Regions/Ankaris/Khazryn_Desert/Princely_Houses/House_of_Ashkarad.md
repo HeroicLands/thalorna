@@ -57,7 +57,7 @@ The **House of Ashkarad** is the craft-house of the [[affiliation-khzrncnfdrtn|T
 
 ## The Head and the Money
 
-The house's head is [Nimeshay of Ashkarad]{.name data-type="being/npc"}, who grew rich in Amradad on the trade of the [[place-vylarianse|Vilérian Sea]] and spends the money in two places. Some goes into Tellumi agitation in the Atarzád cities, quietly. More goes back to Ashkarad as loans to craft families who would otherwise be ruined by a Teghumod price, since a craft family sells to a Teghumod factor at the price the factor sets. Everybody in the old quarter knows whose silver it is, and the families take it anyway. A workshop that owes Nimeshay is a workshop that stands to the house when the house asks.
+The house's head is [Nimeshai of Ashkarad]{.name data-type="being/npc"}, who grew rich in Amradad on the trade of the [[place-vylarianse|Vilérian Sea]] and spends the money in two places. Some goes into Tellumi agitation in the Atarzád cities, quietly. More goes back to Ashkarad as loans to craft families who would otherwise be ruined by a Teghumod price, since a craft family sells to a Teghumod factor at the price the factor sets. Everybody in the old quarter knows whose silver it is, and the families take it anyway. A workshop that owes Nimeshai is a workshop that stands to the house when the house asks.
 
 The court keeps the first tool. The roll of the peaks says that the second lineage came down from the white peak with tools and nothing more, and the house keeps one of them, a bronze adze with the handle gone. Each generation the handle is remade from a palm of the house's own groves, which grow below the walls of Ashkarad on ground the Teghumod hold.
 
@@ -65,12 +65,12 @@ The court keeps the first tool. The roll of the peaks says that the second linea
 
 The house wants Ashkarad back with its workshops whole: the craft councils solvent, their masters alive and their secrets kept, so that the city it recovers is still the city it lost. It wants to know where the craft knowledge the Breaking scattered has gone, and the formula for the deep blue glaze that one council says died with a master in the war is the kind of thing it pays for.
 
-The Teghumod are the obstacle, and they are watching. They have noticed the pattern of Nimeshay's loans, and a party sent from Amradad with coin for the quarter walks into a trade the tribe already follows. They need the craft families' goods more than they need a quarrel, so they leave the councils alone, and the resentment runs through contracts instead of streets.
+The Teghumod are the obstacle, and they are watching. They have noticed the pattern of Nimeshai's loans, and a party sent from Amradad with coin for the quarter walks into a trade the tribe already follows. They need the craft families' goods more than they need a quarrel, so they leave the councils alone, and the resentment runs through contracts instead of streets.
 
 ## Hooks
 
 - **The handle.** The adze needs a new handle, and the wood must come from the house's own groves. A party that brings a length of palm out of the groves below Ashkarad, cut and carried past a Teghumod gate, earns the court's gratitude, and a party caught at it gives the Teghumod a reason to look harder at every caravan bound for Amradad.
-- **The loan.** A craft family needs Nimeshay's silver before the next Teghumod bid. Carrying it into the quarter is easy to arrange and hard to do unseen.
+- **The loan.** A craft family needs Nimeshai's silver before the next Teghumod bid. Carrying it into the quarter is easy to arrange and hard to do unseen.
 
 ## See Also
 

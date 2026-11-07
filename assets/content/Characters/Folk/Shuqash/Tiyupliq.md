@@ -3,7 +3,7 @@ shortcode: tiyupliq
 name: {full: Tiyupliq}
 type: being
 subType: npc
-description: The Sky Elder of the Shell-Bead People at Kulaywil, eldest of the astronomer-priests and keeper of the Measure of Kulaywil.
+description: The Sky Elder of the Shell-Bead People at Kulaiwil, eldest of the astronomer-priests and keeper of the Measure of Kulaiwil.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,7 +36,7 @@ Tiyupliq is a 60-year-old woman who stands 5'3" tall with a light build. She has
 
 # Dossier {#dossier}
 
-Tiyupliq, Clear Sky, is the [Sky Elder]{.name data-type="lore/custom"} (_tiyup tahay_) of the [[affiliation-shuqash|Shell-Bead People]], the eldest of the astronomer-priests and the only person whose word is heard in every town of the coast. She is a woman of the chief's kin of [[place-kulaywil|Canoe Place]] and has held the post for nineteen winters. She lives in the astronomer-priests' house on the rise behind the town, a round reed house with a sunken floor beside the sacred ground where the sun pole is raised at midwinter, and she keeps the [Measure of Kulaywil]{.name data-type="lore/custom"}, the cord every town's strands are checked against, wrapped in otter skin in a basket sealed with tar.
+Tiyupliq, Clear Sky, is the [Sky Elder]{.name data-type="lore/custom"} (_tiyup tahai_) of the [[affiliation-shuqash|Shell-Bead People]], the eldest of the astronomer-priests and the only person whose word is heard in every town of the coast. She is a woman of the chief's kin of [[place-kulaywil|Canoe Place]] and has held the post for nineteen winters. She lives in the astronomer-priests' house on the rise behind the town, a round reed house with a sunken floor beside the sacred ground where the sun pole is raised at midwinter, and she keeps the [Measure of Kulaiwil]{.name data-type="lore/custom"}, the cord every town's strands are checked against, wrapped in otter skin in a basket sealed with tar.
 
 The dream drink belongs to the priests by the society's oath, and in the [[place-tulishlumuqrgn|Oak Valleys]] the grandmothers give it to their own grandchildren without beads and without a priest. This autumn a girl of a valley village above [[place-tulishwil|Oak Place]] died of a cup too strong, given her by her grandmother. At the [Acorn Gathering]{.name data-type="lore/gathering"} Tiyupliq asked the headmen of the valleys to forbid the grandmothers' cup. [[being-ayullesh|Ayullesh]], the headman of Tulishwil, said that he would forbid it in the year a priest gave the drink to a valley child for the price of a basket. The priests have not lowered their price.
 

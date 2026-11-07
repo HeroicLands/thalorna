@@ -13,6 +13,7 @@ import { pieceGlosses } from "@heroiclands/package-build/engine/word-rows";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
 import { CONTENT_DIR, addressOf, notePath } from "./note-index.mjs";
 import { respellVileria } from "./vileria-sweep.mjs";
+import { withGuidePairSpellings, withGuidePairProse } from "./guide-pair-preservation.mjs";
 import { respellVowelYText } from "./vowel-y-sweep.mjs";
 
 // The utility CI checkout explicitly fetches full history for pinned git-show
@@ -177,7 +178,11 @@ export function inAmericanSpelling(before) {
     const raw = americanSpelling(before.raw);
     // A record built in memory, whose raw text carries no matching frontmatter, keeps its own.
     const fromNote = isDeepStrictEqual(YAML.parse(splitFrontmatter(before.raw).yaml), before.fm);
-    return { ...before, raw, fm: fromNote ? YAML.parse(splitFrontmatter(raw).yaml) : before.fm };
+    return withGuidePairSpellings({
+        ...before,
+        raw,
+        fm: fromNote ? YAML.parse(splitFrontmatter(raw).yaml) : before.fm,
+    });
 }
 /**
  * `text` with every listed British form in its American spelling, keeping initial case, and
@@ -1255,8 +1260,11 @@ export function withNordmalGeography(text, file) {
 
 /** A baseline body with its approved respellings and stress sentences. */
 export function baselineProse(before, file) {
-    return withNordmalGeography(
-        withStressProse(respell(splitFrontmatter(before.raw).body, file), file),
+    return withGuidePairProse(
+        withNordmalGeography(
+            withStressProse(respell(splitFrontmatter(before.raw).body, file), file),
+            file,
+        ),
         file,
     );
 }

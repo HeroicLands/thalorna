@@ -71,7 +71,7 @@ data:
         - affiliation-kingdomlgn
         - place-domsey
       summary: >-
-        King Snirvthann of Norgaad calls the two crowns to his hall at Asgarthul between sittings and brokers the peace: Nordheim keeps the island and the first seat, Malagna keeps its own succession, and the kings grant Norgaad's Lawspeaker the right to call such a moot whenever two kingdoms are at war, which is the Great Moot. Norgaad asks two more seats on Domsey as its price and is refused.
+        King Snirvthann of Norgaad calls the two crowns to his hall at Asgarthul between sittings and brokers the peace: Nordheim keeps the island and the first seat, Malagna keeps its own succession, and the kings grant Norgaad's Lawspeaker the right to call such a moot whenever two kingdoms are at war, which is the Great Moot. Norgaad asks two more seats on Domsei as its price and is refused.
       standing: attested
       names: [{name: the Peace of Asgarthul, by: affiliation-skaldscrcl}]
       where:
@@ -107,7 +107,7 @@ Malagna's shore keeps a ring of headland stones above the lake, eleven hundred o
 
 The war did not end on the ice. It ended five years later at [[place-asgarthul|Asgarthul]], where King [Snirvthann]{.name data-type="being/npc"} of [[affiliation-kingdmnrgd|Norgaad]] did what no king had done: he called two crowns to his hall between sittings, with his Lawspeaker reciting and his hirv keeping the door, and made them talk. The peace he brokered was plain. Nordheim kept the island and the first seat; Malagna kept its own succession and its dead under the ice; and the two kings granted Norgaad's Lawspeaker the right to call such a moot whenever two kingdoms were at war. That grant is the [Great Moot]{.name data-type="lore/gathering"}, and it is why Norgaad brokers the north's quarrels still.
 
-Snirvthann asked a price. Norgaad held five seats on [[place-domsey|Domsey]] against Nordheim's seven, and he asked for two more as the fee for the peace. Both kings refused him, because a seat-count changed by two crowns is a seat-count the other three can change too, and the peace-stave at Asgarthul is still uncut on one face, for the terms never agreed. That face is the oldest grievance in the seat-quarrel, and Norgaad's king raises it at every sitting.
+Snirvthann asked a price. Norgaad held five seats on [[place-domsey|Domsei]] against Nordheim's seven, and he asked for two more as the fee for the peace. Both kings refused him, because a seat-count changed by two crowns is a seat-count the other three can change too, and the peace-stave at Asgarthul is still uncut on one face, for the terms never agreed. That face is the oldest grievance in the seat-quarrel, and Norgaad's king raises it at every sitting.
 
 ## What It Left
 
@@ -121,6 +121,6 @@ Snirvthann asked a price. Norgaad held five seats on [[place-domsey|Domsey]] aga
 - [[place-skalfvatan|Skalfvatan]]—the lake and its field
 - [[place-asgarthul|Asgarthul]]—the hall of the peace and the Great Moot
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] · [[affiliation-kingdomlgn|Kingdom of Malagna]]—the two crowns
-- [[lore-nordfirstsit|The First Sitting on Domsey]]—the first time the two settled a quarrel with hirvs
-- [[lore-domseycount|The Domsey Count]]—the age of the Kin-Wars
+- [[lore-nordfirstsit|The First Sitting on Domsei]]—the first time the two settled a quarrel with hirvs
+- [[lore-domseycount|The Domsei Count]]—the age of the Kin-Wars
 - [[lore-bloodfield|Blood-fields]]

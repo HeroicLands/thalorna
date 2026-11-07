@@ -203,7 +203,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
         /## Everyday speech\n[\s\S]*?(?=## Script and Literacy\n)/u,
         "",
     );
-    assert.equal(hash(body), "5e3aa877f06ff7ad3a6bd4bde8d7b3c5e746ced1ec3a3c5aefe513cfa7547a69");
+    assert.equal(hash(body), "82a6627e192fd3ba3b4b0ceb6691589c2d8071d283455194893bc2f78b029e97");
     const oldData = {
         ...language.fm.data,
         words: originalWords,
@@ -248,7 +248,8 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
         add(r.form);
         walk(r.instead);
     }
-    // Only the existing names-only household rule supplies these reserved aliases.
+    // Preserve the 776 historical lookup probes, including the old household aliases.
+    // Current pronunciation teaching is checked in household-pronunciation.test.mjs.
     for (const name of Object.values(oldData.names.given).flat()) {
         const syllables = [],
             text = name.toLowerCase();

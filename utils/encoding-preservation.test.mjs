@@ -263,3 +263,45 @@ test("retained prose in a narrowed sound section cannot be deleted", () => {
         );
     }
 });
+
+test("approved closing-y name spellings still reject changed identities, senses and prose", () => {
+    const { before, current } = fixture();
+    before.fm.data.names.given = ["Kayvonad"];
+    current.fm.data.names.given = ["kaivonad"];
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(current, before));
+    for (const edit of [
+        (note) => {
+            note.fm.data.names.given[0] = "kaivonar";
+        },
+        (note) => {
+            note.fm.data.words[0].gloss = "A pond.";
+        },
+        (note) => {
+            note.fm.data.words[0].concept = "water";
+        },
+        (note) => {
+            note.raw = note.raw.replace("English reading", "English meaning");
+        },
+    ]) {
+        const altered = structuredClone(current);
+        edit(altered);
+        assert.throws(() => assertEncodingMigrationPreserved(altered, before));
+    }
+});
+
+test("approved affix example spelling preserves the distinct y-before-vowel form", () => {
+    const { before, current } = fixture();
+    before.file = current.file = notePath("skill-nyalbnlng");
+    before.fm.data.affixes = [
+        { form: "-a", gloss: "a woman's name", examples: ["Lushey- > Lusheya"] },
+    ];
+    current.fm.data.affixes = [
+        { form: "-a", gloss: "a woman's name", examples: ["lushei- > lusheya"] },
+    ];
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(current, before));
+    for (const example of ["lushei- > lusheia", "lushei- > lusheya, a pond", "lushey- > lusheya"]) {
+        const altered = structuredClone(current);
+        altered.fm.data.affixes[0].examples = [example];
+        assert.throws(() => assertEncodingMigrationPreserved(altered, before));
+    }
+});

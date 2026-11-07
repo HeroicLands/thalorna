@@ -88,17 +88,17 @@ The stakes are the spring's trade between the strait and the interior, the peace
 [[being-sunhemakarve|Sunhema Karvemun]], Caravan-Master of Mernagord
 : Head of the Karvemun caravan house and caravan-master to its prince. The tolls at the held cities' gates have risen, the steppe is uneasy, and she wants a road nobody else has.
 
-[[being-hemvanaymern|Hemvanay of Mernagord]], ruling prince
+[[being-hemvanaymern|Hemvanai of Mernagord]], ruling prince
 : The voice of accommodation at the Council of the Princes, who keeps his city free by being useful to everyone. He has answered the Atarzád merchants' offer of a trade compact neither yes nor no.
 
 [[being-mureshashirv|Muresha of Shirvan]], First of the Seven
 : Heir-in-exile of the senior house, a scholar who buys every tablet that comes out of Shirvan and calls Mernagord's talks with the Atarzád treason.
 
-[[being-gureshayzarg|Gureshay of Zargandur]], heir of the war-house
+[[being-gureshayzarg|Gureshai of Zargandur]], heir of the war-house
 : A soldier in the Kingdom's forces who pays for a count of the Zhoqarod at every gate of Zargandur, and wants to know whether the northern union will press the held cities.
 
-[[being-nimeshayashk|Nimeshay of Ashkarad]], heir of the craft-house
-: A merchant prince of the Vilérian Sea trade who lends silver to Ashkarad's craft families and pays for Gureshay's horses. The Teghumod have noticed the pattern of his loans.
+[[being-nimeshayashk|Nimeshai of Ashkarad]], heir of the craft-house
+: A merchant prince of the Vilérian Sea trade who lends silver to Ashkarad's craft families and pays for Gureshai's horses. The Teghumod have noticed the pattern of his loans.
 
 [[being-narvunakethr|Narvuna of Kethramír]], head of the House of Kethramír
 : The author of the commentary the Atarzád have banned. A copy of it passes through Kethramír in every caravan from the west, hidden in a bale of cloth.
@@ -106,11 +106,11 @@ The stakes are the spring's trade between the strait and the interior, the peace
 [[being-sighotornozh|Sighotor son of Nozhikor]], the Toqel
 : Keeper of the Unconsuming Flame, about eighty winters old. The keepers carry him up the last flight of the stair, and the Burqalod elders have begun to talk about who comes after him.
 
-[[being-kenbeshay|Kenbeshay]], Delkoshekh of the Northern Temple
+[[being-kenbeshay|Kenbeshai]], Delkoshekh of the Northern Temple
 : The priest of the one fire-temple in Kethramír's Tellumi quarter, who preaches mercy in the god's name and feeds more of the quarter every season than the Tozhirod magistrate would like.
 
 [[being-shrmnhthvn|Sharminah Tahvan]], warrior-priestess
-: The fire-temple of Shirvan sends her into the other held cities, and she despises Kenbeshay's mercy as weakness in faith.
+: The fire-temple of Shirvan sends her into the other held cities, and she despises Kenbeshai's mercy as weakness in faith.
 
 [[being-khilodlunbii|Khilodlun Biilokur]], dovaq of the Jobizur
 : Leader of the largest tribe of the central steppe, who grows it by taking in the families of smaller tribes, and to her neighbors resembles an orghun before he has a banner.
@@ -126,9 +126,9 @@ The bodies
 The frame follows the road east and points beyond its end, each arc turning one strand of the choosing.
 
 1. **The strait.** The caravan makes up in Kudumel and Pashinar, where its road meets the frames of Midhalión. [[scenario-mnthbfrrvw|The Month Before the Review]] runs the Confederation's month of reckoning on the same islands, and [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]] the empire's season across the water. Kudumel's cheap goods and Pashinar's Forgetting decide which masters sail with credit.
-2. **The western gate.** At Mernagord the caravan meets Sunhema Karvemun's ambitions and Hemvanay's silence, and [[scenario-roadroundwall|The Road Round the Wall]] runs the march road the Descent opens onto, the one way a steppe host has taken into Vedyara.
+2. **The western gate.** At Mernagord the caravan meets Sunhema Karvemun's ambitions and Hemvanai's silence, and [[scenario-roadroundwall|The Road Round the Wall]] runs the march road the Descent opens onto, the one way a steppe host has taken into Vedyara.
 3. **The held cities.** The belt road runs through the cities the Atarzád hold, and past their strangest ground. [[scenario-drywellshirvn|The Well That Reads]] lies under the Vurinkarvem cliff, [[scenario-glassprincetbl|Twelve at the Glass Table]] and [[scenario-emptytowerdead|The Bearers of the Dark Moon]] near Ashkarad, and [[scenario-trenchprinces|Masks in the Dry Wash]] outside Zargandur. Off the road on the dry rim, [[scenario-knockvelkun|The Voice at the Barred Gate]] waits at [[place-vahurdash|Vahurdash]].
-4. **Kethramír and the mountain.** At the end of the road the spring caravans fill the yards, the guides' company rules on a cheat, and Kenbeshay's temple feeds more of the Tellumi quarter than the magistrate would like. The pilgrim track climbs from Kethramír to Beit-Shofár in three days, where the Council of the Twelve sits on the Prophet and the steppe.
+4. **Kethramír and the mountain.** At the end of the road the spring caravans fill the yards, the guides' company rules on a cheat, and Kenbeshai's temple feeds more of the Tellumi quarter than the magistrate would like. The pilgrim track climbs from Kethramír to Beit-Shofár in three days, where the Council of the Twelve sits on the Prophet and the steppe.
 5. **Up the spur.** The spur leaves Kethramír for Qiiso, about twenty days across [[place-dkrqrrgn|Diqraqor]], past the empty walls of [[place-qimod|Qiimod]], where the last union came down in the week of the autumn market. Beyond Qiiso the main road runs west to [[place-longdry|the Long Dry]], where [[scenario-weightwell|The Weight upon the Well]] waits off the track, and [[scenario-wludwtchmn|The Watchman beneath Vulud]] lies in the sands.
 
 The arcs run in the road's order or out of it, and each moves the choosing whether or not the party finishes it. A party that carries one answer up the road carries it past everyone else who has been asked.
@@ -136,21 +136,21 @@ The arcs run in the road's order or out of it, and each moves the choosing wheth
 ## Ways In {#ways-in}
 
 1. **For a court.** A Teghumod master in the southern courts or a Tellumi master in the courts of the Amradi houses hires the party as caravan guards for the crossing, and on the road asks it to carry something the other court must not see.
-2. **For the exiles.** Muresha of Shirvan, Gureshay of Zargandur or Nimeshay of Ashkarad pays a party bound east to carry a letter, a sum of money or a count of men into a held city and bring the answer out.
+2. **For the exiles.** Muresha of Shirvan, Gureshai of Zargandur or Nimeshai of Ashkarad pays a party bound east to carry a letter, a sum of money or a count of men into a held city and bring the answer out.
 3. **For the strait.** A Kudumel merchant losing sales to the cheap goods, a Pashinar factor with a called note or a caravan master whose name was read on the Forgetting needs the matter settled before the caravans sail.
-4. **For the steppe's question.** Hemvanay wants the next rider from the north followed home; Khemozor of Zhoqarod pays riders to count the union's banners before the Council debates it; Gureshay wants a messenger with no seat to lose to go north and look.
+4. **For the steppe's question.** Hemvanai wants the next rider from the north followed home; Khemozor of Zhoqarod pays riders to count the union's banners before the Council debates it; Gureshai wants a messenger with no seat to lose to go north and look.
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
 - The caravans sail, and the Balinuni's ferries carry the ones whose masters owe nothing in Kudumel first. The cheap goods keep coming over the north beaches, and the Gate's takings fall again.
 - The tolls at the held cities' gates rise once more, and Sunhema Karvemun's spring market comes with her house's debts unpaid.
 - The quarrymen sell the night they promised Muresha to a buyer from Kaldar. Whatever the chamber held goes east to the University or into an Ozhmarod fire.
-- Kenbeshay's feast day comes with Sharminah Tahvan asking to preach at it.
+- Kenbeshai's feast day comes with Sharminah Tahvan asking to preach at it.
 - The Council of the Twelve opens its session with no count of the union's banners. The Rezhuls argue the Zhudek without the Toqel's reading, and the man's riders go on from camp to camp and oasis to oasis with the same offer.
 
 ## The Secret {#the-secret}
 
-**Two tribes and a prince have been asked.** A rider of the man gathering the steppe has come three times to Mernagord, offering guest-right on the road for its salt caravans and protection for its gardens in return for a tithe of salt and an open gate. Hemvanay has sent him back each time with a gift and no answer, and has told nobody, not even his daughter. The same man's riders have offered Ghotazkharu Koserur his captives home if the Koserur swear before the autumn market, and offered Khilodlun Biilokur first place among his tribes and a marriage for her daughter. Ghotazkharu has told nobody. Khilodlun refused, and sent her son east with the rider to learn the man's terms, and her son has not come back. None of the three has told the others. This frame does not say whether the man unites the steppe, what any of them answers, or where his camp lies. The referee decides, and may let the party's actions decide.
+**Two tribes and a prince have been asked.** A rider of the man gathering the steppe has come three times to Mernagord, offering guest-right on the road for its salt caravans and protection for its gardens in return for a tithe of salt and an open gate. Hemvanai has sent him back each time with a gift and no answer, and has told nobody, not even his daughter. The same man's riders have offered Ghotazkharu Koserur his captives home if the Koserur swear before the autumn market, and offered Khilodlun Biilokur first place among his tribes and a marriage for her daughter. Ghotazkharu has told nobody. Khilodlun refused, and sent her son east with the rider to learn the man's terms, and her son has not come back. None of the three has told the others. This frame does not say whether the man unites the steppe, what any of them answers, or where his camp lies. The referee decides, and may let the party's actions decide.
 
 **The keeper on the belt road.** Last winter the Toqel sent a Burqalod keeper in pilgrim's gray to Narvuna of Kethramír's school in the Kingdom with an unsigned letter asking one question about the Promise. Narvuna has written eleven answers and burned them all. If she gives one, the keeper carries it back east through the held cities, on the belt road among the spring caravans, and Aqeshat's followers know a keeper went west and watch the road for him to return. A caravan bound for Kethramír is good cover for a man in pilgrim's gray. The Toqel means to give the Council the answer he reaches as his last reading, before it acclaims a Zhudek against the steppe or refuses to.
 

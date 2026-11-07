@@ -3,7 +3,7 @@ shortcode: kenwinhighmo
 name: {full: Kenwin Highmore, en: [Lord Captain Kenwin]}
 type: being
 subType: npc
-description: The commander of Greywater's harbor guard, named in Audrey Harding.
+description: The commander of Greiwater's harbor guard, named in Audrei Harding.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Kenwin Highmore is a 58-year-old man who stands 5'8" tall with a medium build. H
 
 # Dossier {#dossier}
 
-Kenwin Highmore is the lord captain and commander of [[place-greywater|Greywater]]'s harbor guard. He has grown suspicious of the lost ships, suspects smuggling or darker activities, and is beginning to believe that [[being-audryhrdng|Audrey Harding]] may be involved.
+Kenwin Highmore is the lord captain and commander of [[place-greywater|Greiwater]]'s harbor guard. He has grown suspicious of the lost ships, suspects smuggling or darker activities, and is beginning to believe that [[being-audryhrdng|Audrei Harding]] may be involved.

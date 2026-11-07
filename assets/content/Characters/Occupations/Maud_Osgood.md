@@ -3,7 +3,7 @@ shortcode: maudosgood
 name: {full: Maud Osgood}
 type: being
 subType: npc
-description: "Maud Osgood begs near the landings of Greywater."
+description: "Maud Osgood begs near the landings of Greiwater."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -397,7 +397,7 @@ Maud Osgood is a 61-year-old woman who stands 5'5" tall and is slight of build. 
 
 **Age 61. Beggar.**
 
-Maud Osgood begs near the landings of [[place-greywater|Greywater]]. She sorts a little kindling, watches a basket or carries a message for bread when her strength permits. Her years of household service show in the way she folds a borrowed blanket and quietly puts a stranger's discarded cup out of the road.
+Maud Osgood begs near the landings of [[place-greywater|Greiwater]]. She sorts a little kindling, watches a basket or carries a message for bread when her strength permits. Her years of household service show in the way she folds a borrowed blanket and quietly puts a stranger's discarded cup out of the road.
 
 The port's mainland hulls call at [[place-ravenmoor|Ravenmoor]] in both directions. Delays there mean fewer sailors' gifts and more families stretching their meals here. Maud shares what she can with people sleeping by the sheds and knows which doors still offer broth without a lecture.
 
@@ -407,7 +407,7 @@ Watchful and resourceful, Maud reads an impatient gesture quickly. She wants a d
 
 ## Social
 
-Porters and other beggars exchange news and small favors with her. [[being-audryhrdng|Audrey Harding]]'s clients pass the same landings; Maud can carry their messages but cannot wait unpaid all day for an answer.
+Porters and other beggars exchange news and small favors with her. [[being-audryhrdng|Audrei Harding]]'s clients pass the same landings; Maud can carry their messages but cannot wait unpaid all day for an answer.
 
 ## Plot Hooks
 

@@ -86,7 +86,7 @@ The gorge trail is the only road to Sunderwiind. It is a day's climb from the la
 
 **The hung now.** This is the post on the afternoon a rockslide closes the upper gorge below it, the day the relief patrol from [[place-caerwynd|Kaerwiind]] reaches the gate.
 
-- **Captain Aldmund Hardwik** hangs in the tower's roof-room under the signal platform, above the table where he was writing when he was taken, three nights before the slide. A rafter cracked as the rope took his weight. He is weak and lucid at dusk, after the watering, and he calls down the trap and through the platform's slits for [[being-kenrikbrandley|Kenrik Brandley]], the one man of the garrison left on the ground, by name.
+- **Captain Aldmund Hardwik** hangs in the tower's roof-room under the signal platform, above the table where he was writing when he was taken, three nights before the slide. A rafter cracked as the rope took his weight. He is weak and lucid at dusk, after the watering, and he calls down the trap and through the platform's slits for [[being-kenrikbrandley|Kenrik Brandlei]], the one man of the garrison left on the ground, by name.
 - **The dead pine** holds three. Two are men of the garrison taken on the wall in the first nights, dead and dry. The third is a patrolman of that relief, taken at the gate that afternoon and dipped within the hour, alive. When he wakes he calls for his sergeant, [[being-wilriksunder|Sergeant Wilrik]].
 - **The cistern's vault** holds the rest: the garrison's dead, a smuggler and his pony, the relief patrol's sergeant Wilrik and three of his men alive, and two men of the garrison taken in the last week, alive. One of the relief patrol broke his neck in the taking and hangs dead with the others.
 

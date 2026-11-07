@@ -49,7 +49,7 @@ Leofwald is a [[being-tereb|Tereb]] on his thirteenth and last life. He raises d
 
 ## In the Land
 
-The house receives the drowned of [[place-greylevels|The Greylevels]] for the rites of [[affiliation-selmoros|Faith of Sélmoros]]. The lower grazing and the commission of sewers have claims upon its drainage work. The endowment records remain on the mound.
+The house receives the drowned of [[place-greylevels|The Greilevels]] for the rites of [[affiliation-selmoros|Faith of Sélmoros]]. The lower grazing and the commission of sewers have claims upon its drainage work. The endowment records remain on the mound.
 
 ## Key Behaviors
 
@@ -78,7 +78,7 @@ Leofwald keeps the congregation and deep water between himself and a threat, giv
 ## Attack Methods
 
 :::secret {title="The Keeper and congregation"}
-Use Tereb for the Keeper and [[being-damut|Damut]] for the congregation. His use of the bell and the water follows [[scenario-bellsgreylvl|The Bells Beneath the Greylevels]].
+Use Tereb for the Keeper and [[being-damut|Damut]] for the congregation. His use of the bell and the water follows [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]].
 :::
 
 ## Special Abilities

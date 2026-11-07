@@ -66,4 +66,4 @@ frontier's pressure must decide what it would mean to find the knots cut.
 - [[affiliation-kingdmtrgd|Kingdom of Targud]] · [[place-targud|Targud]]
 - [[place-grkrhlmrgn|Grukarholm]] · [[lore-aldarlok|Aldarlok]]
 - [[lore-burningeast|The Burning of the East]] · [[place-nulthgard|Nulthgard]] · [[place-dvulgvangur|Dvulgvangur]]
-- [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings and the ages of the north
+- [[lore-domseycount|The Domsei Count]]—the reckoning of the sittings and the ages of the north

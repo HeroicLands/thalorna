@@ -5466,7 +5466,7 @@ data:
     - {form: tavrma, class: n, field: Everyday speech, gloss: counting}
     - {form: tavrvid, class: n, field: Everyday speech, gloss: tally stick}
     - {form: mos, class: n, field: Everyday speech, gloss: moss}
-    - {form: eyva, class: n, field: Everyday speech, gloss: island}
+    - {form: eiva, class: n, field: Everyday speech, gloss: island}
     - {form: strandhvelm, class: n, field: Everyday speech, gloss: stranded whale}
     - {form: hroldvidma, class: n, field: Everyday speech, gloss: "rafter, roof timber"}
     - {form: hrold, class: n, field: Everyday speech, gloss: "roof, poeticcitation"}
@@ -5713,7 +5713,7 @@ data:
     - {form: arviri, class: n, field: Everyday speech, gloss: rower}
     - {form: malvri, class: n, field: Everyday speech, gloss: claimant}
     - {form: snirpinni, class: n, field: Everyday speech, gloss: spindle}
-    - {form: skarey, class: n, field: Everyday speech, gloss: skerry}
+    - {form: skarei, class: n, field: Everyday speech, gloss: skerry}
     - {form: vrellna, class: adj, field: Everyday speech, gloss: bled}
     - {form: hvelmfarda, class: n, field: Everyday speech, gloss: seasonalwhalepassage}
     - form: lest vuldmel
@@ -5993,7 +5993,7 @@ data:
       joining: -borgar
     - {form: -brekka, position: closing, kind: place, sense: a slope, joining: -brekkar}
     - {form: -dal, position: closing, kind: place, sense: a dale, joining: -dalar}
-    - {form: -ey, position: closing, kind: place, sense: an island, joining: -eyjar}
+    - {form: -ei, position: closing, kind: place, sense: an island, joining: -eyjar}
     - {form: -fell, position: closing, kind: place, sense: a bare hill, joining: -fellar}
     - {form: -fjall, position: closing, kind: place, sense: a mountain, joining: -fjallar}
     - {form: -fjord, position: closing, kind: place, sense: a fjord, joining: -fjordar}
@@ -6061,7 +6061,7 @@ data:
     - {name: valsal, tongue: nordmal}
     - {name: solvangur, tongue: nordmal}
     - {name: eldheim, tongue: nordmal}
-    - {name: nulthey, tongue: nordmal}
+    - {name: nulthei, tongue: nordmal}
     - {name: sólrunsholl, tongue: nordmal}
     - {name: valdrengir, tongue: nordmal}
     - {name: vetrulfur, tongue: nordmal}
@@ -6114,7 +6114,7 @@ data:
     - {name: kraldaruk, tongue: nordmal}
     - {name: hliskvir, tongue: nordmal}
     - {name: hirvskáld, tongue: nordmal}
-    - {name: domsey, tongue: nordmal}
+    - {name: domsei, tongue: nordmal}
     - {name: gnaldurfjord, tongue: nordmal}
     - {name: norgaad, tongue: nordmal}
     - {name: logstevna, tongue: nordmal}
@@ -6594,7 +6594,7 @@ SELECT '`' || form || '`' AS "generic", sense AS "what it names", '`' || joining
 FROM elements WHERE language = 'thalorna-note-skill-nordmalng' AND kind = 'place' ORDER BY position
 ```
 
-**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is [[place-thrunborg|Thrunborg]] and his mountain [[place-thrumufjall|Thrumufjall]]. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so [[lore-odvardty|Odvar]]'s hall is [[place-valsalhall|Ódvarsholl]] and Solrún's is [[place-solvangurhall|Sólrunsholl]]. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsey]].
+**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is [[place-thrunborg|Thrunborg]] and his mountain [[place-thrumufjall|Thrumufjall]]. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so [[lore-odvardty|Odvar]]'s hall is [[place-valsalhall|Ódvarsholl]] and Solrún's is [[place-solvangurhall|Sólrunsholl]]. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsei]].
 
 ```sql
 SELECT source AS "held from",

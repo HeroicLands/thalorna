@@ -287,9 +287,9 @@ ti ch'al p'uqil ishan./
 ti ka p'uqil naluman./
 ti ne'chan ch'ul ni kesh ch'iman./
 ti h'ulun ch'iman ke ni kesh p'akun./
-ts'obel k'ay'an‼/
+ts'obel k'ai'an‼/
 ni kesh ti shu ishatun. ni kesh ts'oban./
-ishan ke k'ay'an‼
+ishan ke k'ai'an‼
 
 [sh'ulum ts'omesh]{.speaker}/
 ch'al p'uqil ishan‼ ni kesh ts'oban.
@@ -331,7 +331,7 @@ chi' p'ilam kil p'iqalbal k'alish./
 ch'ik pu'kan? sha kesh./
 ch'itsen? ka ts'enp'ek kil ne'./
 ch'ik kul'ukal k'alish? ne' ts'ik sha ts'anan./
-shi ishal sha shu k'ayshukan./
+shi ishal sha shu k'aishukan./
 shi ishal sha shu p'uqel k'elman./
 shi ishal sh'ek p'iqal./
 shi ishal ts'ikik tsash p'iqal.
@@ -349,18 +349,18 @@ k'ulik sh'akan ke shikum k'alish./
 ch'alishmah kesh ts'umulan ke k'inish ch'iman,/
 ke q'o ts'eqik ts'en ch'ulan./
 shi ishal ch'ekbal kil sha p'ikan./
-shi kesh sha pu'tal, shi kesh p'ishkalash sha k'ayumel k'aykun./
+shi kesh sha pu'tal, shi kesh p'ishkalash sha k'ayumel k'aikun./
 ts'obel sh'ek ch'ulun./
-h'ulal k'aykun./
-sh'akalash ts'ikik ch'ulikash k'aykun,/
+h'ulal k'aikun./
+sh'akalash ts'ikik ch'ulikash k'aikun,/
 k'ulik sh'akalash ts'ikik sh'ul h'ulal k'alish./
-shikum k'aykun. sh'akan k'ayich kul'tan./
-sh'akalash ts'ikik ke sh'akalash ch'alik q'o kesh k'aykun./
+shikum k'aikun. sh'akan k'ayich kul'tan./
+sh'akalash ts'ikik ke sh'akalash ch'alik q'o kesh k'aikun./
 chi' p'ilam kil p'iqalbal k'alish./
 ch'ik pu'kan? sh'akalash ts'ikik ch'ulikash, sh'akalash ch'alik ch'ush./
 ch'itsen? ka ts'enp'ek kil k'ayumel./
-ch'ik kul'ukal k'alish? h'ulal k'aykun./
-shi ishal sha shu k'ayshukan./
+ch'ik kul'ukal k'alish? h'ulal k'aikun./
+shi ishal sha shu k'aishukan./
 shi ishal sha shu p'uqel k'elman./
 shi ishal sh'ek p'iqal./
 shi ishal na kulum p'iqal.
@@ -388,7 +388,7 @@ chi' p'ilam kil p'iqalbal k'alish./
 ch'ik pu'kan? kulum, kulum p'ishkalash kulum./
 ch'itsen? ka ts'enp'ek kil sh'akan sh'ukul./
 ch'ik kul'ukal k'alish? kulum nish./
-shi ishal sha shu k'ayshukan./
+shi ishal sha shu k'aishukan./
 shi ishal sha shu p'uqel k'elman./
 shi ishal sh'ek p'iqal./
 shi ishal pu'talal p'iqal./
@@ -422,7 +422,7 @@ ch'ik pu'kan? ch'ek kil shi ishal shu pu'kan./
 kulum ts'anan. sh'akul shaq'an./
 ch'itsen? ka ts'enp'ek kil h'ulun./
 ch'ik kul'ukal k'alish? shu ch'ek kish. shu ch'ek kish sha p'ishkun./
-shi ishal sha shu k'ayshukan./
+shi ishal sha shu k'aishukan./
 shi ishal sha shu p'uqel k'elman./
 shi ishal sh'ek p'iqal./
 shi ishal shikkul p'ikan.
@@ -526,7 +526,7 @@ ti ch'al p'uqil ishan./
 ti ka p'uqil naluman./
 ni kesh mushe ts'en k'elman./
 ni kesh p'ilam kil p'iqalbal ch'uman./
-ti sha k'ay'an,/
+ti sha k'ai'an,/
 ke ti shu ishatun.
 
 [sh'ulum ts'omesh]{.speaker}/

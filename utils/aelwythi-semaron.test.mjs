@@ -73,15 +73,15 @@ test("only the shared punctuation standard and explicit mappings apply", () => {
 });
 
 test("encoding selection supplies language and font while the default stays Roman", () => {
-    const source = "[say]{enc=aelwsemaronenc}";
+    const source = "[sai]{enc=aelwsemaronenc}";
     const rendered = renderRuns(source, ctx);
     assert.deepEqual(rendered.errors, []);
     assert.match(rendered.markdown, /lang=art-x-aelw/);
     assert.match(rendered.markdown, /hl-semaron-kuriale/);
-    assert(rendered.markdown.includes(encodeText(encoding, "say")));
-    const roman = renderRuns("[say]{lang=aelw enc=default}", ctx);
+    assert(rendered.markdown.includes(encodeText(encoding, "sai")));
+    const roman = renderRuns("[sai]{lang=aelw enc=default}", ctx);
     assert.deepEqual(roman.errors, []);
-    assert(roman.markdown.includes("say"));
+    assert(roman.markdown.includes("sai"));
     assert(!roman.markdown.includes("hl-semaron-kuriale"));
 });
 

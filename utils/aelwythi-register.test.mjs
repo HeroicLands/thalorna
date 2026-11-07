@@ -10,6 +10,8 @@ import { notePath } from "./note-index.mjs";
 
 const raw = fs.readFileSync(notePath("skill-aelwthlng"), "utf8");
 const words = YAML.parse(raw.split("---")[1]).data.words;
+// Historical native test phrases receive only the approved closing-y substitutions.
+const guideSpelled = (text) => respellText(text).replace(/([aeo])y(?![aeiou])/g, "$1i");
 const forConcept = (id) => words.filter((word) => [word.concept ?? []].flat().includes(id));
 const forms = (id) => forConcept(id).map(({ form }) => form);
 const hash = (text) => createHash("sha256").update(text).digest("hex");
@@ -30,7 +32,7 @@ test("ordinary Aelwythi questions and courtesies state the addressee's number", 
         ["expression-excuse-me", "By thy leave"],
     ])
         assert(
-            forms(concept).includes(respellText(form)),
+            forms(concept).includes(guideSpelled(form)),
             `${concept} needs the standard expression ${form}`,
         );
     for (const word of [...forConcept("you-reference"), ...forConcept("your")])
@@ -58,7 +60,7 @@ test("declared finite forms support the prescribed present paradigms without mod
             .split("|")
             .slice(1, -1)
             .map((cell) => cell.trim());
-        const word = words.find(({ form }) => form === respellText(headword));
+        const word = words.find(({ form }) => form === guideSpelled(headword));
         assert(word, `${headword} needs an entry`);
         const declared = new Set([word.form, ...(word.variants ?? [])]);
         for (const form of displayed)
@@ -76,7 +78,7 @@ test("declared finite forms support the prescribed present paradigms without mod
         "knowen",
         "mayst",
     ])
-        assert(all.has(respellText(form)), `${form} is part of the prescribed standard`);
+        assert(all.has(guideSpelled(form)), `${form} is part of the prescribed standard`);
     for (const form of ["are", "has", "does", "willen", "shallen", "canen", "mayen"])
         assert(!all.has(form), `${form} conflicts with the prescribed present standard`);
 });
@@ -129,7 +131,7 @@ test("the illustrative sample words retain their reviewed form", () => {
         .concat(aelwythiVerseLines(samples).map((line) => [false, line]));
     assert.deepEqual(
         actual,
-        reviewed.map(([prose, current]) => [prose, respellText(current)]),
+        reviewed.map(([prose, current]) => [prose, guideSpelled(current)]),
     );
     let quoted = reviewed
         .map(([prose, _current, previous]) => (prose ? `> "${previous}"` : `> ${previous}`))
@@ -193,12 +195,12 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         ["should", "shouldst"],
         ["ought", "oughtest"],
     ]) {
-        const word = words.find(({ form }) => form === respellText(headword));
+        const word = words.find(({ form }) => form === guideSpelled(headword));
         assert(
-            word?.variants.includes(respellText(singular)),
+            word?.variants.includes(guideSpelled(singular)),
             `${headword} needs its singular form`,
         );
-        assert(!all.has(respellText(`${headword}en`)), `${headword} cannot take a plural ending`);
+        assert(!all.has(guideSpelled(`${headword}en`)), `${headword} cannot take a plural ending`);
     }
     for (const form of ["Methinks", "Meseems", "Me likes", "Me lists"])
         assert(words.some((word) => word.form === form && /fixed impersonal/.test(word.gloss)));
@@ -209,40 +211,29 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         assert(!/\bdost thou\b|\b(?:don't|doesn't|can't|won't)\b/i.test(word.form), word.form);
 });
 
-test("the reviewed verse retains eight syllables and each rhyming couplet", () => {
+test("performed verse takes its reading from the guide without lexical contractions", () => {
+    // #1256 removes dictionary readings; #1257 owns any further respelling.
+    // The preceding exact-sample assertion still preserves every performed word.
     const samples = raw
         .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
         .split("\n## Naming Traditions")[0];
-    const lines = aelwythiVerseLines(samples);
-    assert.equal(lines.length, 8);
-    // Lexical counts follow the unchanged pronunciation guide and the two declared contractions.
-    const longer = new Map([
-        ["barley", 2],
-        ["summeres", 2],
-        ["asleep", 2],
-        ["softli", 2],
-        ["walkest", 2],
-        ["offering", 2],
-        ["watcheth", 2],
-        ["krossing", 2],
-        ["kourteous", 2],
-        ["beside", 2],
-    ]);
-    for (const line of lines) {
-        const syllables = [...line.toLowerCase().matchAll(/[a-z]+(?:'[a-z]+)?/g)].reduce(
-            (sum, [word]) => sum + (longer.get(word) ?? 1),
-            0,
+    assert.equal(aelwythiVerseLines(samples).length, 8);
+    for (const form of ["offering", "kourteous"]) {
+        const word = words.find((entry) => entry.form === form);
+        assert(word, `${form} remains in the vocabulary`);
+        assert(!Object.hasOwn(word, "pronunciation"), `${form} has no reading override`);
+        assert(
+            !/\b(?:contract(?:ed|ion)?|two[- ]syllable)\b|OFF-ring|COUR-teous/i.test(
+                word.note ?? "",
+            ),
+            `${form} has no contraction override`,
         );
-        assert.equal(syllables, 8, line);
     }
-    const endWords = lines.map((line) => line.match(/([a-z]+)[.;,]?$/i)[1]);
-    for (const [pair, rhyme] of ["ound", "eep", "ate", "ide"].entries()) {
-        assert(endWords[pair * 2].endsWith(rhyme));
-        assert(endWords[pair * 2 + 1].endsWith(rhyme));
-    }
+    assert(raw.includes("The guide governs every lexical form and its reading."));
+    assert(!/eight-syllable|OFF-ring|COUR-teous/.test(raw));
 });
 
-test("the standard records fixed coined sounds and preserves authored lexical exceptions", () => {
+test("the standard uses guide sounds and preserves authored lexical meanings", () => {
     const data = (file) => YAML.parse(fs.readFileSync(file, "utf8").split("---")[1]).data;
     const sounds = data(notePath("doc-prnncthlrn")).sounds.letters;
     for (const [letters, ipa] of [

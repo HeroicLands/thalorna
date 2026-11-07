@@ -138,7 +138,7 @@ A warrior crippled in his society's service is fed by his lineage from its share
 
 ## Shelter, Teaching and Defense
 
-Shelter is the lineage's to give, and the fire-temples own the caravanserais where strangers lodge at the gates. Teaching begins at the hearth with the recitation, and beyond it the Tozhirod teach the law-codes. The Atarzád send their sons to the Tellumi school at Shirvan, which the [Ozhmarod]{.name data-type="affiliation/polity"} have never closed for that reason, and to the University at [[place-caldar|Kaldar]], where Atarzád sons study and from which [[being-kayvondzrd|Kayvonad Zarid]] took his learning. Defense is the warrior societies' and no one else's: there is no standing army, and the tribes mobilize by call.
+Shelter is the lineage's to give, and the fire-temples own the caravanserais where strangers lodge at the gates. Teaching begins at the hearth with the recitation, and beyond it the Tozhirod teach the law-codes. The Atarzád send their sons to the Tellumi school at Shirvan, which the [Ozhmarod]{.name data-type="affiliation/polity"} have never closed for that reason, and to the University at [[place-caldar|Kaldar]], where Atarzád sons study and from which [[being-kayvondzrd|Kaivonad Zarid]] took his learning. Defense is the warrior societies' and no one else's: there is no standing army, and the tribes mobilize by call.
 
 ## Masters of a Subject People
 

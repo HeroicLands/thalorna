@@ -31,7 +31,7 @@ data:
       gloss: "the people of it: a people, a town's folk or a body of kin"
       attaches: "added"
       attachesTo: [n]
-      examples: ["shuq > shuqash, the Shell-Bead People", "kulay > kulayash, the Canoe Kin"]
+      examples: ["shuq > shuqash, the Shell-Bead People", "kulai > kulayash, the Canoe Kin"]
     - form: "-in"
       gloss: "the act or state of it: a noun made from a verb or a quality"
       attaches: "added"
@@ -40,7 +40,7 @@ data:
       gloss: "the place of it"
       attaches: "added"
       attachesTo: [n]
-      examples: ["kulay > kulaywil, Canoe Place", "tulish > tulishwil, Oak Place"]
+      examples: ["kulai > kulaiwil, Canoe Place", "tulish > tulishwil, Oak Place"]
     - form: "-li"
       gloss: "the place in a count: an ordinal"
       attaches: "added"
@@ -119,7 +119,7 @@ data:
       gloss: "the east; where the sun climbs over the mountains"
       concept: east
       source: {kind: coined}
-    - form: "tumay"
+    - form: "tumai"
       class: n
       field: "Sea, shore and sky"
       gloss: "the west; where the sun and the dead go down"
@@ -136,7 +136,7 @@ data:
       field: "Sea, shore and sky"
       gloss: "a kelp bed; the kelp forest offshore"
       source: {kind: coined}
-    - form: "shoyqos"
+    - form: "shoiqos"
       class: n
       field: "Sea, shore and sky"
       gloss: "earth"
@@ -226,7 +226,7 @@ data:
       gloss: "ice"
       concept: ice
       source: {kind: coined}
-    - form: "shachay"
+    - form: "shachai"
       class: n
       field: "Sea, shore and sky"
       gloss: "cloud"
@@ -280,7 +280,7 @@ data:
       gloss: "fish"
       concept: fish
       source: {kind: coined}
-    - form: "waynush"
+    - form: "wainush"
       class: n
       field: "Sea, shore and sky"
       gloss: "insect"
@@ -461,7 +461,7 @@ data:
       field: "Canoe, bead and house"
       gloss: "a strand of beads, measured once around the hand"
       source: {kind: coined}
-    - form: "kulay"
+    - form: "kulai"
       class: n
       field: "Canoe, bead and house"
       gloss: "a plank canoe: planks sewn with cord and sealed with tar"
@@ -481,7 +481,7 @@ data:
       field: "Canoe, bead and house"
       gloss: "to sew; to sew planks together"
       source: {kind: coined}
-    - form: "hukay"
+    - form: "hukai"
       class: n
       field: "Canoe, bead and house"
       gloss: "a house; the domed house of reed thatch"
@@ -522,7 +522,7 @@ data:
       field: "Canoe, bead and house"
       gloss: "to cross water; to cross over"
       source: {kind: coined}
-    - form: "hulmay"
+    - form: "hulmai"
       class: n
       field: "Canoe, bead and house"
       gloss: "a feast given by a chief"
@@ -536,13 +536,13 @@ data:
       class: n
       field: "Canoe, bead and house"
       gloss: "the Canoe Kin, the hereditary brotherhood that alone builds and sails the plank canoes; one of its members"
-      built: ["kulay", "-ash"]
+      built: ["kulai", "-ash"]
       source: {kind: coined}
-    - form: "alkulay"
+    - form: "alkulai"
       class: n
       field: "Canoe, bead and house"
       gloss: "a canoe master: a man of the Canoe Kin who owns a canoe and commands its crew"
-      built: ["al-", "kulay"]
+      built: ["al-", "kulai"]
       source: {kind: coined}
     - form: "alsulik"
       class: n
@@ -604,7 +604,7 @@ data:
       gloss: "a hearth"
       concept: hearth
       source: {kind: coined}
-    - form: "hipay"
+    - form: "hipai"
       class: n
       field: "Canoe, bead and house"
       gloss: "a door"
@@ -748,7 +748,7 @@ data:
       gloss: "needle"
       concept: needle
       source: {kind: coined}
-    - form: "shoy"
+    - form: "shoi"
       class: n
       field: "Canoe, bead and house"
       gloss: "flame"
@@ -874,7 +874,7 @@ data:
       gloss: "thread"
       concept: thread
       source: {kind: coined}
-    - form: "tuway"
+    - form: "tuwai"
       class: n
       field: "Sky keepers and rites"
       gloss: "a soul; one of the dead on the way west"
@@ -885,7 +885,7 @@ data:
       gloss: "to die"
       concept: die
       source: {kind: coined}
-    - form: "mulay"
+    - form: "mulai"
       class: adj
       field: "Sky keepers and rites"
       gloss: "dead"
@@ -915,11 +915,11 @@ data:
       gloss: "a sorcerer: one who sends sickness to collect a debt that was never owed"
       built: ["al-", "pashaq"]
       source: {kind: coined}
-    - form: "sitiq tahay"
+    - form: "sitiq tahai"
       class: n
       field: "Sky keepers and rites"
       gloss: "the Morning Star, the eldest star, who plays the Sun for the year's lives at midwinter"
-      built: ["sitiq", "tahay"]
+      built: ["sitiq", "tahai"]
       source: {kind: coined}
     - form: "hilaq"
       class: n
@@ -1011,7 +1011,7 @@ data:
       gloss: "sister"
       concept: sister
       source: {kind: coined}
-    - form: "kupoy"
+    - form: "kupoi"
       class: n
       field: "Kin and town"
       gloss: "grandmother"
@@ -1029,7 +1029,7 @@ data:
       gloss: "grandchild"
       concept: grandchild
       source: {kind: coined}
-    - form: "kawchay"
+    - form: "kawchai"
       class: n
       field: "Kin and town"
       gloss: "uncle"
@@ -1191,7 +1191,7 @@ data:
       gloss: "leader"
       concept: leader
       source: {kind: coined}
-    - form: "umoy"
+    - form: "umoi"
       class: n
       field: "Kin and town"
       gloss: "follower"
@@ -1263,7 +1263,7 @@ data:
       gloss: "Adult"
       concept: adult
       source: {kind: coined}
-    - form: "tahay"
+    - form: "tahai"
       class: n
       field: "Kin and town"
       gloss: "elder"
@@ -1329,7 +1329,7 @@ data:
       gloss: "title"
       concept: title
       source: {kind: coined}
-    - form: "kiqoy"
+    - form: "kiqoi"
       class: n
       field: "Kin and town"
       gloss: "rank"
@@ -1461,7 +1461,7 @@ data:
       field: "Kin and town"
       gloss: "Freedom"
       concept: freedom
-      built: ["sakiway", "-in"]
+      built: ["sakiwai", "-in"]
       source: {kind: coined}
     - form: "mak wakta"
       class: n
@@ -1578,7 +1578,7 @@ data:
       gloss: "sweet"
       concept: sweet
       source: {kind: coined}
-    - form: "mahoy"
+    - form: "mahoi"
       class: adj
       field: "Body and feeling"
       gloss: "sour"
@@ -1608,7 +1608,7 @@ data:
       gloss: "smooth"
       concept: smooth
       source: {kind: coined}
-    - form: "yakanmay"
+    - form: "yakanmai"
       class: adj
       field: "Body and feeling"
       gloss: "rough"
@@ -1824,7 +1824,7 @@ data:
       gloss: "confidence"
       concept: confidence
       source: {kind: coined}
-    - form: "oyhiqon"
+    - form: "oihiqon"
       class: n
       field: "Body and feeling"
       gloss: "embarrassment"
@@ -1986,7 +1986,7 @@ data:
       gloss: "loyalty"
       concept: loyalty
       source: {kind: coined}
-    - form: "aypuk"
+    - form: "aipuk"
       class: n
       field: "Body and feeling"
       gloss: "companionship; being together with a companion"
@@ -2034,7 +2034,7 @@ data:
       gloss: "the nose"
       concept: nose
       source: {kind: coined}
-    - form: "misoy"
+    - form: "misoi"
       class: n
       field: "Body and feeling"
       gloss: "the mouth"
@@ -2136,7 +2136,7 @@ data:
       gloss: "the hip"
       concept: hip
       source: {kind: coined}
-    - form: "sukay"
+    - form: "sukai"
       class: n
       field: "Body and feeling"
       gloss: "the leg"
@@ -2322,7 +2322,7 @@ data:
       gloss: "lung"
       concept: lung
       source: {kind: coined}
-    - form: "siqay"
+    - form: "siqai"
       class: n
       field: "Body and feeling"
       gloss: "liver"
@@ -2580,7 +2580,7 @@ data:
       gloss: "give birth"
       concept: give-birth
       source: {kind: coined}
-    - form: "shukitay"
+    - form: "shukitai"
       class: v
       field: "Body and feeling"
       gloss: "to nurse a child; to feed a child at the breast"
@@ -2634,7 +2634,7 @@ data:
       gloss: "exhausted"
       concept: exhausted
       source: {kind: coined}
-    - form: "chinshay"
+    - form: "chinshai"
       class: adj
       field: "Body and feeling"
       gloss: "full; satisfied after eating or drinking"
@@ -2730,7 +2730,7 @@ data:
       gloss: "Young"
       concept: young
       source: {kind: coined}
-    - form: "tomay"
+    - form: "tomai"
       class: adj
       field: "Body and feeling"
       gloss: "old in age (a living being)"
@@ -3052,7 +3052,7 @@ data:
       gloss: "six"
       concept: six
       source: {kind: coined}
-    - form: "wiqay"
+    - form: "wiqai"
       class: num
       field: "Everyday speech"
       gloss: "seven"
@@ -3232,7 +3232,7 @@ data:
       gloss: "exactly"
       concept: exactly
       source: {kind: coined}
-    - form: "qukchay"
+    - form: "qukchai"
       class: n
       field: "Everyday speech"
       gloss: "number"
@@ -3340,7 +3340,7 @@ data:
       gloss: "plain; without a pattern"
       concept: plain-pattern
       source: {kind: coined}
-    - form: "nupay"
+    - form: "nupai"
       class: adj
       field: "Everyday speech"
       gloss: "spotted"
@@ -3352,7 +3352,7 @@ data:
       gloss: "striped"
       concept: striped
       source: {kind: coined}
-    - form: "mahay"
+    - form: "mahai"
       class: v
       field: "Everyday speech"
       gloss: "to be"
@@ -3394,7 +3394,7 @@ data:
       gloss: "to make"
       concept: make
       source: {kind: coined}
-    - form: "tachoy"
+    - form: "tachoi"
       class: v
       field: "Everyday speech"
       gloss: "to do"
@@ -3424,7 +3424,7 @@ data:
       gloss: "to think"
       concept: think
       source: {kind: coined}
-    - form: "wakoy"
+    - form: "wakoi"
       class: v
       field: "Everyday speech"
       gloss: "to want"
@@ -3460,7 +3460,7 @@ data:
       gloss: "to lie down"
       concept: lie-down
       source: {kind: coined}
-    - form: "yaytsol"
+    - form: "yaitsol"
       class: v
       field: "Everyday speech"
       gloss: "to hold"
@@ -3478,7 +3478,7 @@ data:
       gloss: "to put"
       concept: put
       source: {kind: coined}
-    - form: "tusqoy"
+    - form: "tusqoi"
       class: v
       field: "Everyday speech"
       gloss: "to find"
@@ -3928,7 +3928,7 @@ data:
       gloss: "to flee"
       concept: flee
       source: {kind: coined}
-    - form: "hostoy"
+    - form: "hostoi"
       class: v
       field: "Everyday speech"
       gloss: "to threaten"
@@ -4096,13 +4096,13 @@ data:
       gloss: "Inside"
       concept: inside
       source: {kind: coined}
-    - form: "tipay"
+    - form: "tipai"
       class: part
       field: "Everyday speech"
       gloss: "outside"
       concept: outside
       source: {kind: coined}
-    - form: "koy"
+    - form: "koi"
       class: part
       field: "Everyday speech"
       gloss: "beyond"
@@ -4144,7 +4144,7 @@ data:
       gloss: "Up"
       concept: up
       source: {kind: coined}
-    - form: "pochoy"
+    - form: "pochoi"
       class: adv
       field: "Everyday speech"
       gloss: "down"
@@ -4258,7 +4258,7 @@ data:
       gloss: "moment"
       concept: moment
       source: {kind: coined}
-    - form: "saysuq"
+    - form: "saisuq"
       class: n
       field: "Everyday speech"
       gloss: "day"
@@ -4408,7 +4408,7 @@ data:
       gloss: "never"
       concept: never
       source: {kind: coined}
-    - form: "pupuyay"
+    - form: "pupuyai"
       class: adj
       field: "Everyday speech"
       gloss: "lasting a long time"
@@ -4432,7 +4432,7 @@ data:
       gloss: "lasting; continuing for a sustained time"
       concept: lasting-duration
       source: {kind: coined}
-    - form: "sayke"
+    - form: "saike"
       class: adv
       field: "Everyday speech"
       gloss: "again"
@@ -4450,7 +4450,7 @@ data:
       gloss: "twice"
       concept: twice
       source: {kind: coined}
-    - form: "tsay"
+    - form: "tsai"
       class: adv
       field: "Everyday speech"
       gloss: "repeatedly"
@@ -4612,7 +4612,7 @@ data:
       gloss: "Same"
       concept: same
       source: {kind: coined}
-    - form: "shaykohul"
+    - form: "shaikohul"
       class: adj
       field: "Everyday speech"
       gloss: "different"
@@ -4750,7 +4750,7 @@ data:
       gloss: "Perhaps"
       concept: perhaps
       source: {kind: coined}
-    - form: "qosiway"
+    - form: "qosiwai"
       class: adv
       field: "Everyday speech"
       gloss: "Probably"
@@ -4900,7 +4900,7 @@ data:
       gloss: "nevertheless"
       concept: nevertheless
       source: {kind: coined}
-    - form: "qay"
+    - form: "qai"
       class: conj
       field: "Everyday speech"
       gloss: "despite"
@@ -5002,7 +5002,7 @@ data:
       gloss: "even"
       concept: even
       source: {kind: coined}
-    - form: "tay"
+    - form: "tai"
       class: adv
       field: "Everyday speech"
       gloss: "also"
@@ -5128,7 +5128,7 @@ data:
       gloss: "difficult"
       concept: difficult
       source: {kind: coined}
-    - form: "luqay"
+    - form: "luqai"
       class: adj
       field: "Everyday speech"
       gloss: "good"
@@ -5206,7 +5206,7 @@ data:
       gloss: "somewhat"
       concept: somewhat
       source: {kind: coined}
-    - form: "oshaslay"
+    - form: "oshaslai"
       class: adv
       field: "Everyday speech"
       gloss: "slightly"
@@ -5308,7 +5308,7 @@ data:
       gloss: "prohibit"
       concept: prohibit
       source: {kind: coined}
-    - form: "sakiway"
+    - form: "sakiwai"
       class: adj
       field: "Everyday speech"
       gloss: "free to act; unconstrained"
@@ -5320,13 +5320,13 @@ data:
       gloss: "Willing"
       concept: willing
       source: {kind: coined}
-    - form: "hakusay"
+    - form: "hakusai"
       class: adj
       field: "Everyday speech"
       gloss: "Intended"
       concept: intended
       source: {kind: coined}
-    - form: "qoy"
+    - form: "qoi"
       class: call
       field: "Everyday speech"
       gloss: "Hello"
@@ -5446,7 +5446,7 @@ data:
       gloss: "Again"
       concept: expression-again
       source: {kind: coined}
-    - form: "payshot"
+    - form: "paishot"
       class: call
       field: "Everyday speech"
       gloss: "I understand"
@@ -5500,7 +5500,7 @@ data:
       gloss: "being"
       concept: being
       source: {kind: coined}
-    - form: "moynew"
+    - form: "moinew"
       class: n
       field: "Everyday speech"
       gloss: "origin"
@@ -5608,12 +5608,12 @@ data:
       concept: knowledge
       built: ["hoyal", "-in"]
       source: {kind: coined}
-    - form: "mak hakusay"
+    - form: "mak hakusai"
       class: adj
       field: "Everyday speech"
       gloss: "accidental"
       concept: accidental
-      built: ["mak", "hakusay"]
+      built: ["mak", "hakusai"]
       source: {kind: coined}
     - form: "mak lunok"
       class: adj
@@ -5622,12 +5622,12 @@ data:
       concept: unwilling
       built: ["mak", "lunok"]
       source: {kind: coined}
-    - form: "mak sakiway"
+    - form: "mak sakiwai"
       class: adj
       field: "Everyday speech"
       gloss: "constrained in action; not free to act"
       concept: constrained
-      built: ["mak", "sakiway"]
+      built: ["mak", "sakiwai"]
       source: {kind: coined}
     - form: "mak unlush"
       class: adj
@@ -5692,12 +5692,12 @@ data:
       concept: worst
       built: ["uykit", "qaya"]
       source: {kind: coined}
-    - form: "uykit luqay"
+    - form: "uykit luqai"
       class: adj
       field: "Everyday speech"
       gloss: "best"
       concept: best
-      built: ["uykit", "luqay"]
+      built: ["uykit", "luqai"]
       source: {kind: coined}
     - form: "kanmaq qaya"
       class: adj
@@ -5706,12 +5706,12 @@ data:
       concept: worse
       built: ["kanmaq", "qaya"]
       source: {kind: coined}
-    - form: "kanmaq luqay"
+    - form: "kanmaq luqai"
       class: adj
       field: "Everyday speech"
       gloss: "better"
       concept: better
-      built: ["kanmaq", "luqay"]
+      built: ["kanmaq", "luqai"]
       source: {kind: coined}
     - form: "mak sashis"
       class: v
@@ -5826,9 +5826,9 @@ data:
         - "shiyawkal"
         - "tiyuplesh"
         - "ayullesh"
-        - "kulaynush"
+        - "kulainush"
         - "shiyawlesh"
-    town: ["kulaywil", "shuqwil", "tulishwil", "pitashwil", "hipal halaq", "tikoq hipay"]
+    town: ["kulaiwil", "shuqwil", "tulishwil", "pitashwil", "hipal halaq", "tikoq hipai"]
   sounds:
     edges: [{edge: closeConsonant, sounds: [sh, q, l, n, k, y, w, t, p, s, m]}]
     clusters: {max: 3}
@@ -5853,10 +5853,10 @@ data:
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
   register:
     - {name: shuqash, tongue: shuqash, built: [shuq, -ash]}
-    - {name: kulayash, tongue: shuqash, built: [kulay, -ash]}
+    - {name: kulayash, tongue: shuqash, built: [kulai, -ash]}
     - {name: tulishash, tongue: shuqash, built: [tulish, -ash]}
     - {name: kowiqash, tongue: shuqash, built: [kowiq, -ash]}
-    - {name: kulaywil, tongue: shuqash, built: [kulay, -wil]}
+    - {name: kulaiwil, tongue: shuqash, built: [kulai, -wil]}
     - {name: Canoe Place, tongue: translation}
     - {name: shuqwil, tongue: shuqash, built: [shuq, -wil]}
     - {name: Bead Place, tongue: translation}
@@ -5866,7 +5866,7 @@ data:
     - {name: Tar Place, tongue: translation}
     - {name: hipal halaq, tongue: shuqash, built: [hipal, halaq]}
     - {name: Crossing Shore, tongue: translation}
-    - {name: tikoq hipay, tongue: shuqash, built: [tikoq, hipay]}
+    - {name: tikoq hipai, tongue: shuqash, built: [tikoq, hipai]}
     - {name: North Door, tongue: translation}
     - {name: shuq halaq, tongue: shuqash, built: [shuq, halaq]}
     - {name: Bead Coast, tongue: translation}
@@ -5878,7 +5878,7 @@ data:
     - {name: Painted Cave, tongue: translation}
     - {name: hikiw siwaq, tongue: shuqash, built: [hikiw, siwaq]}
     - {name: Far Island, tongue: translation}
-    - {name: tiyup tahay, tongue: shuqash, built: [tiyup, tahay]}
+    - {name: tiyup tahai, tongue: shuqash, built: [tiyup, tahai]}
     - {name: Sky Elder, tongue: translation}
     - {name: tiyup pilikin, tongue: shuqash, built: [tiyup, pilikin]}
     - {name: Sky's Count, tongue: translation}
@@ -5905,7 +5905,7 @@ data:
     - {name: shiyawkal, tongue: shuqash, built: [shiyaw, kal]}
     - {name: tiyuplesh, tongue: shuqash, built: [tiyup, lesh]}
     - {name: ayullesh, tongue: shuqash, built: [ayul, lesh]}
-    - {name: kulaynush, tongue: shuqash, built: [kulay, nush]}
+    - {name: kulainush, tongue: shuqash, built: [kulai, nush]}
     - {name: shiyawlesh, tongue: shuqash, built: [shiyaw, lesh]}
 sohl:
   system:
@@ -5932,7 +5932,7 @@ Nobody writes it. The Shell-Bead People keep their counts, their songs and their
 
 ## How the Shuqash Language sounds
 
-The Shuqash Language is clipped and busy, and most of its words close on a consonant. A sentence sounds to a stranger like beads poured from hand to hand: short words, many of them ending on _sh_, _q_, _l_ and _n_, with a vowel between each pair of consonants. _Shuq_ is a bead, _kulay_ a canoe, and _hilaq_ a chief.
+The Shuqash Language is clipped and busy, and most of its words close on a consonant. A sentence sounds to a stranger like beads poured from hand to hand: short words, many of them ending on _sh_, _q_, _l_ and _n_, with a vowel between each pair of consonants. _Shuq_ is a bead, _kulai_ a canoe, and _hilaq_ a chief.
 
 **The vowels.** _a_ and _i_ lead, then _u_ and _o_, with _e_ well behind. Each has its plain value, and two vowels never stand side by side: a consonant always comes between them.
 
@@ -5962,7 +5962,7 @@ The Shuqash Language is clipped and busy, and most of its words close on a conso
 
 ### Stress
 
-A word of two syllables is stressed on the first, and a longer word on the second-to-last, by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: _kulay_ is KU-lay, _hipalshuq_ is hi-PAL-shuk, _kulaywil_ is ku-LAY-wil. No word of the dictionary needs an accent.
+A word of two syllables is stressed on the first, and a longer word on the second-to-last, by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: _kulai_ is KU-lay, _hipalshuq_ is hi-PAL-shuk, _kulaiwil_ is ku-LAY-wil. No word of the dictionary needs an accent.
 
 ## Grammar Notes
 
@@ -5988,17 +5988,17 @@ A question asking for a yes or a no opens with _lun_: _lun putal pi_ is "do you 
 
 ### Building Words
 
-Five endings and one prefix make most of the built words. _al-_ makes a person of a thing or an act: _tiyup_, the sky, gives _altiyup_, an astronomer-priest, and _pilik_, to count, gives _alpilik_, a counter. _-ash_ makes a people or a body of kin: _shuq_ gives _shuqash_, the people of the bead. _-in_ makes a noun of an act or a quality: _mul_, to die, gives _mulin_, death. _-wil_ makes a place: _kulay_ gives _kulaywil_, Canoe Place. _-li_ makes an ordinal of a number. Two nouns set side by side make a compound, the first saying which: _tikoq_, the north, and _hipay_, a door, give _tikoq hipay_, the North Door.
+Five endings and one prefix make most of the built words. _al-_ makes a person of a thing or an act: _tiyup_, the sky, gives _altiyup_, an astronomer-priest, and _pilik_, to count, gives _alpilik_, a counter. _-ash_ makes a people or a body of kin: _shuq_ gives _shuqash_, the people of the bead. _-in_ makes a noun of an act or a quality: _mul_, to die, gives _mulin_, death. _-wil_ makes a place: _kulai_ gives _kulaiwil_, Canoe Place. _-li_ makes an ordinal of a number. Two nouns set side by side make a compound, the first saying which: _tikoq_, the north, and _hipai_, a door, give _tikoq hipai_, the North Door.
 
 ## Everyday speech
 
-_Qoy_ is the greeting on a beach, and _chiw_ the word at parting. _Niq_ thanks. _Hu_ is yes and _mahu_ no.
+_Qoi_ is the greeting on a beach, and _chiw_ the word at parting. _Niq_ thanks. _Hu_ is yes and _mahu_ no.
 
 A bargain is closed with one word, _pilik_, count: the buyer says it as he hands over the strand, and the seller says it back as he takes it. Until both have said it nothing has changed hands, and after both have said it the bargain cannot be undone. _Lun hamil_, "a strand?", is how a price is asked, and the answer is a number.
 
-_Kitu hukay_ is my house, and _hilaq hukay_ the chief's. _Lusha_ is mother and _hawi_ father, _chak_ a child, _kupoy_ a grandmother and _kupaq_ a grandfather.
+_Kitu hukay_ is my house, and _hilaq hukay_ the chief's. _Lusha_ is mother and _hawi_ father, _chak_ a child, _kupoi_ a grandmother and _kupaq_ a grandfather.
 
-Numbers count by tens: _hika_, _shimu_, _kalaq_, _suyuk_, _matish_, one to five; _tasul_, _wiqay_, _holok_, _tipan_, six to nine; _lushu_ is ten, _shimu lushu_ twenty, _halup_ a hundred and _lushu halup_ a thousand. A number takes _-li_ to give its place: _hikali_, first, _kalaqli_, third. A counter counts beads four at a time, sliding them along the cord with a thumb, so that _suyuk_, four, is the word a counter says most.
+Numbers count by tens: _hika_, _shimu_, _kalaq_, _suyuk_, _matish_, one to five; _tasul_, _wiqai_, _holok_, _tipan_, six to nine; _lushu_ is ten, _shimu lushu_ twenty, _halup_ a hundred and _lushu halup_ a thousand. A number takes _-li_ to give its place: _hikali_, first, _kalaqli_, third. A counter counts beads four at a time, sliding them along the cord with a thumb, so that _suyuk_, four, is the word a counter says most.
 
 ## Script and Literacy
 
@@ -6006,19 +6006,19 @@ The Shuqash Language has no script. A counter who must hold a large number until
 
 ## Naming Traditions
 
-A child is named on its fourth day by an astronomer-priest, who reads the sky of the night it was born and joins a being of the sky or the sea to an act: _Ayulchim_, Moon Rising, _Sitiqnush_, Star Walking. A family that dislikes the name may pay for a second reading. The name is the one a person uses for life. A person away from home adds the town: _Sitiqnush of Tikoq Hipay_.
+A child is named on its fourth day by an astronomer-priest, who reads the sky of the night it was born and joins a being of the sky or the sea to an act: _Ayulchim_, Moon Rising, _Sitiqnush_, Star Walking. A family that dislikes the name may pay for a second reading. The name is the one a person uses for life. A person away from home adds the town: _Sitiqnush of Tikoq Hipai_.
 
 ### Name Lists
 
 **Women's names:** Ayulchim, Sitiqyush, Tiyupliq, Shuqkanan, Shiyawliq, Kowiqnaq, Hiluqyush, Ayulkal
 
-**Men's names:** Sitiqnush, Hiluqchim, Hiluqkanan, Shiyawkal, Tiyuplesh, Ayullesh, Kulaynush, Shiyawlesh
+**Men's names:** Sitiqnush, Hiluqchim, Hiluqkanan, Shiyawkal, Tiyuplesh, Ayullesh, Kulainush, Shiyawlesh
 
-**Towns:** Kulaywil (Canoe Place), Shuqwil (Bead Place), Tulishwil (Oak Place), Pitashwil (Tar Place), Hipal Halaq (Crossing Shore), Tikoq Hipay (North Door)
+**Towns:** Kulaiwil (Canoe Place), Shuqwil (Bead Place), Tulishwil (Oak Place), Pitashwil (Tar Place), Hipal Halaq (Crossing Shore), Tikoq Hipai (North Door)
 
 ## Shuqash Lexicon {#lexicon}
 
-A bead is _shuq_, a strand of beads _hamil_, and a plank canoe _kulay_. A chief is _hilaq_, a counter _alpilik_, and the crossing strand a person keeps for the dead _hipalshuq_. This page is the word-hoard of the Shuqash: its words, the endings that build new ones, and the register of every name the setting gives the Shell-Bead People, their towns and their offices.
+A bead is _shuq_, a strand of beads _hamil_, and a plank canoe _kulai_. A chief is _hilaq_, a counter _alpilik_, and the crossing strand a person keeps for the dead _hipalshuq_. This page is the word-hoard of the Shuqash: its words, the endings that build new ones, and the register of every name the setting gives the Shell-Bead People, their towns and their offices.
 
 The Shuqash Language is unwritten, and the spellings on this page are the setting's one roman transcription of it. The tongue has no capital letters, so a word or a name stands here in lowercase; the prose of these pages capitalizes a name as it does any other.
 
@@ -6074,7 +6074,7 @@ ORDER BY position
 
 ### Sea, shore and sky
 
-The four quarters are named for what lies in them: _tikoq_, the north, is the raiders' quarter, and _tumay_, the west, is where the sun and the dead go down.
+The four quarters are named for what lies in them: _tikoq_, the north, is the raiders' quarter, and _tumai_, the west, is where the sun and the dead go down.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from"
@@ -6141,7 +6141,7 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**A person** carries two words set together, given by an astronomer-priest from the sky of the birth night: _ayulchim_ is _ayul_, the moon, and _chim_, to rise. **A place** names what it is or what is there: _-wil_ makes a place of a thing, so Kulaywil is _kulay_, a canoe, and _-wil_, Canoe Place, and two words side by side name a stretch of coast or country, as _shuq halaq_, the Bead Coast, and _tulish lumuq_, the Oak Valleys. **A body of people** takes _-ash_: _kulayash_ are the Canoe Kin.
+**A person** carries two words set together, given by an astronomer-priest from the sky of the birth night: _ayulchim_ is _ayul_, the moon, and _chim_, to rise. **A place** names what it is or what is there: _-wil_ makes a place of a thing, so Kulaiwil is _kulai_, a canoe, and _-wil_, Canoe Place, and two words side by side name a stretch of coast or country, as _shuq halaq_, the Bead Coast, and _tulish lumuq_, the Oak Valleys. **A body of people** takes _-ash_: _kulayash_ are the Canoe Kin.
 
 **The people** are _shuqash_, the people of the bead, and the name these pages give them is the Shell-Bead People. The valleys call themselves _tulishash_, the oak people, and the coast calls them _kowiqash_, the acorn people. The south has no name for them.
 

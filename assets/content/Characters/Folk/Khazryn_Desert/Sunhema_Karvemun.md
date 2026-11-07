@@ -72,7 +72,7 @@ The house is overextended. A failed expedition would ruin it, and she cannot aff
 ### Others
 
 - [[being-kharnhkhfr|Kharanah Khafur]]: The perfumer whose money she needs. Sunhema admires her nose and thinks her too cautious.
-- [[being-hemvanaymern|Hemvanay of Mernagord]]: Her prince and her mother's cousin, who gives the house his salt and does not ask about its debts.
+- [[being-hemvanaymern|Hemvanai of Mernagord]]: Her prince and her mother's cousin, who gives the house his salt and does not ask about its debts.
 
 ### Affiliations
 

@@ -73,7 +73,7 @@ And we bring it thee now, as our grandsires did too.
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=bowl}
 Our bowl it is turned of an ash the wind threw,/
 For the wind hath a lisense the hollow never knew./
-Our ale it is brewed of the barley we grew,/
+Our ale it is brewed of the barlei we grew,/
 And we bring it thee now, as our grandsires did too.
 :::
 
@@ -139,7 +139,7 @@ That could ride all his land ere the sun went to rest.
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=gift}
 There was never a krown but was given bi hands,/
 And thine bi the barons that holden their lands./
-They set it on Drethar, a lord like the rest,/
+Thei set it on Drethar, a lord like the rest,/
 That kould ride all his land ere the sun went to rest.
 :::
 
@@ -203,7 +203,7 @@ Are the king's to the acorn, the king's to the sky.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=royaloaks}
-We may look on the timber, and look till we freeze,/
+We mai look on the timber, and look till we freeze,/
 For the law is a pale about all of the trees,/
 And the oaks that stood over our grandsireses first kri/
 Ben the kinges to the akorn, the kinges to the skai.
@@ -227,7 +227,7 @@ And the ewe casts her lamb, and the well-water's brown.
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=land}
 When the king is whole, then the furrow is whole,/
 And the ewe bringeth twins, and the mare bringeth foal./
-When the king taketh hurt, then the barley lieth down,/
+When the king taketh hurt, then the barlei lieth down,/
 And the ewe kasteth her lamb, and the well water is brown.
 :::
 
@@ -377,7 +377,7 @@ And the barons remember, and so do the men.
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=steward}
 The chair it is empti, the steward sitteth bi,/
 And he keepeth the kinges wood as dear as his eye,/
-But a krown that is a gift may be asked for again,/
+But a krown that is a gift mai be asked for again,/
 And the barons rememberen, and so doen the men.
 :::
 

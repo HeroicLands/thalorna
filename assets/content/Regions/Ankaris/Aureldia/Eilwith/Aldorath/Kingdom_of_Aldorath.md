@@ -100,13 +100,13 @@ King
 : [[being-aldrikdrthng|Aldrik Drething]], the Sovereign, who reigns from Dunmere.
 
 Elder of the Council
-: [[being-godwaldstrl|Godwald Storley]], a baron of [[place-aldorvale|the Aldorvale]], speaks for the barons and keeps their record of the crowning.
+: [[being-godwaldstrl|Godwald Storlei]], a baron of [[place-aldorvale|the Aldorvale]], speaks for the barons and keeps their record of the crowning.
 
 Steward
-: [[being-aldrithwlfl|Aldrith Wolfley]] keeps the royal household at Dunmere and Kingshollow and the crown's exchequer.
+: [[being-aldrithwlfl|Aldrith Wolflei]] keeps the royal household at Dunmere and Kingshollow and the crown's exchequer.
 
 First Seer
-: [[being-elfrunthrnl|Elfrun Thornley]] reads the lake for the crown and the council.
+: [[being-elfrunthrnl|Elfrun Thornlei]] reads the lake for the crown and the council.
 
 Warden of the Wiindmarch
 : [[being-kenwaldhghd|Kenwald Highden]] holds [[place-caerwynd|Kaerwiind]] and the march against the passes and the forest.
@@ -118,13 +118,13 @@ Forester
 
 Aldrik Drething was crowned at Kingshollow in 711 AF and has reigned since. He is a soldier king whose quarrel is with his own council.
 
-- **The heir.** The king has asked the council of barons to accept his nine-year-old son at Kingshollow as king-to-be, while the king lives. No king of Aldorath has been accepted before his father's burial, and Godwald Storley holds the council against it: the crown is the barons' to give at each vacancy. The council sits at Dunmere at midsummer, and the king is buying voices among the barons of the Aldorvale with royal forest and marriages.
+- **The heir.** The king has asked the council of barons to accept his nine-year-old son at Kingshollow as king-to-be, while the king lives. No king of Aldorath has been accepted before his father's burial, and Godwald Storlei holds the council against it: the crown is the barons' to give at each vacancy. The council sits at Dunmere at midsummer, and the king is buying voices among the barons of the Aldorvale with royal forest and marriages.
 - **Midwinter.** The king has kept the last three midwinter feasts at Dunmere rather than at Kingshollow, and the Steward has stood at the hall door in his place when the tenants sang [[lore-kingswassail|the Wassail]]. The barons count each absence as a slight to the gift.
 - **The seers.** Both the king and the Elder have asked the First Seer what the lake shows of the boy, and she has given neither of them a reading.
 - **The march.** The barons' levies reach Kaerwiind late and short, and the Warden reports that he cannot hold [[place-sunderfells|the Sunderfells]] passes against [[affiliation-jrldmstrmvld|Stormveld]] and the forest margin against the [[lore-grukaraelwyth|Grukar]] with the men he has. The barons answer that the king can have more men when he stops asking for their crown.
 - **The lower shore.** [[affiliation-durrask|The Durrask]] of the Thornwold, across the lake's south-eastern tip, burned a mill on the kingdom's shore above it in the autumn, a morning's ride from Dunmere, and drove off the plough-oxen of three manors. The shore barons have asked the king for men, and the king has none to spare from the march. The barons have armed their tenants to watch the shore by night, against the Durrask and the [[lore-grukaraelwyth|Grukar]] of [[place-aldermire|Aldermire]] alike.
 - **The lake.** At the lake's northern end the reed-beds and their fishing are claimed by Aldorath's barons and by the free village of [[place-koldmere|Koldmere]], and nobody has drawn a line on the water.
-- **The trade.** Every Aldorathi hull that sails for the mainland out of [[place-greywater|Greywater]] calls at [[place-ravenmoor|Ravenmoor]] first under the Synod's requirement.
+- **The trade.** Every Aldorathi hull that sails for the mainland out of [[place-greywater|Greiwater]] calls at [[place-ravenmoor|Ravenmoor]] first under the Synod's requirement.
 
 ## Population and Society
 
@@ -165,7 +165,7 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ar
 [[place-caerwynd|Kaerwiind]]
 : the march's fortress, held by the Warden of the Wiindmarch.
 
-[[place-aldorvale|The Aldorvale]], [[place-brynwold|Brinwold]], [[place-sunnerslade|Sunnerslade]], [[place-greylevels|the Greylevels]] and [[place-wyndmarch|the Wiindmarch]]
+[[place-aldorvale|The Aldorvale]], [[place-brynwold|Brinwold]], [[place-sunnerslade|Sunnerslade]], [[place-greylevels|the Greilevels]] and [[place-wyndmarch|the Wiindmarch]]
 : the kingdom's five countries, held in baronies and manors of the crown.
 
 ## History {#history}

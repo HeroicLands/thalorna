@@ -15,6 +15,7 @@ import {
     withNameForms,
     withStressProse,
 } from "./encoding-preservation.mjs";
+import { withGuidePairSpellings } from "./guide-pair-preservation.mjs";
 import { notePath } from "./note-index.mjs";
 
 const baseline = "4da8f980e";
@@ -415,7 +416,8 @@ test("the four expanded languages cover the current core inventory with ordinary
 
 test("original language entries, metadata and prose are retained", () => {
     for (const file of languageFiles) {
-        const before = read(file, fromBaseline(file));
+        const before = withGuidePairSpellings({ file, ...read(file, fromBaseline(file)) });
+        before.body = splitFrontmatter(before.raw).body;
         const after = read(file);
         const oldWords = before.fm.data.words;
         const newWords = after.fm.data.words;

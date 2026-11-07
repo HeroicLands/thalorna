@@ -56,7 +56,7 @@ masters comply, resentfully and without exception, with the requirement to call 
 
 ## Politics {#present}
 
-The First Senator, [[being-harwingrymr|Harwin Greymore]], holds the chair for one more year, and the city is already arranging who follows him.
+The First Senator, [[being-harwingrymr|Harwin Greimore]], holds the chair for one more year, and the city is already arranging who follows him.
 
 - **The rock.** The houses at the foot of the Tyrant's Rock have been bought in the name of one of Harwin's freedmen, and the city takes it for a first step toward building on the rock itself. [[being-kuthwldashdn|Kuthwald Ashden]], the tavos who stays in the city this year, has put the question of the rock before the Senate again, so that Harwin must speak to it.
 - **The northern water.** Stormveld's jarls have taken a Thornbury coaster off the Nordfells, and the shipping houses want the fleet sent north. The Prefect of the Fleet, [[being-edstanbrnwk|Edstan Brinwik]], wants to go; the Tarkelos, [[being-leofmndstrmd|Leofmund Stormden]], says the treasury cannot pay for a fleet and a frontier in one year.

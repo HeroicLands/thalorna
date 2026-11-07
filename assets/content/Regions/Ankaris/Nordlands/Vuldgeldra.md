@@ -18,7 +18,7 @@ data:
     - place-gnaldurfjord
 ---
 
-Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuldgeldra** is the praise-poem the Hirvskáld [Hliskvir]{.name data-type="being/npc"} made for **Jarl [Krildorv Kraldaruk]{.name data-type="being/npc"}**, who holds one of the five [[affiliation-kingdmnrgd|Norgaad provinces]] whose jarls sit at [[place-domsey|Domsey]], for a winter in which the jarl's fjords went hungry and nothing happened that a _geldra_ ordinarily sings. It was first given at the close of [[lore-sumarmal|Somarmál]], after the kings came home from Domsey and its skalds had begun reciting, and [[affiliation-skaldscrcl|the Skalds' Circle]] has carried it as standing repertoire since the [[lore-skaldating|Skaldating]] after: it is the piece an apprentice's own _geldra_ is measured against, and the Circle teaches it as the model of the truth of the recital. The text below is the repertoire text as one Stóraldstjori teaches it to apprentices at the Skaldating, with his gloss of the kennings between the parts; the gloss is his, and other masters read one or two of the _hulmur_ otherwise.
+Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuldgeldra** is the praise-poem the Hirvskáld [Hliskvir]{.name data-type="being/npc"} made for **Jarl [Krildorv Kraldaruk]{.name data-type="being/npc"}**, who holds one of the five [[affiliation-kingdmnrgd|Norgaad provinces]] whose jarls sit at [[place-domsey|Domsei]], for a winter in which the jarl's fjords went hungry and nothing happened that a _geldra_ ordinarily sings. It was first given at the close of [[lore-sumarmal|Somarmál]], after the kings came home from Domsei and its skalds had begun reciting, and [[affiliation-skaldscrcl|the Skalds' Circle]] has carried it as standing repertoire since the [[lore-skaldating|Skaldating]] after: it is the piece an apprentice's own _geldra_ is measured against, and the Circle teaches it as the model of the truth of the recital. The text below is the repertoire text as one Stóraldstjori teaches it to apprentices at the Skaldating, with his gloss of the kennings between the parts; the gloss is his, and other masters read one or two of the _hulmur_ otherwise.
 
 Sit. This is the one your own _geldra_ will be measured against, so you hear it first and not last. Six syllables to the line, two lines bound by their onsets, a chime inside the line and nothing at its end, and the clauses laid across one another so that a hall has to work to get the sense out. A _geldra_ is paid with a ring, and a ring should buy something a thrall cannot follow.
 
@@ -175,7 +175,7 @@ fem parma halv mathna, metna,/
 or virn siv dverna, vidma./
 noll mannva fed tvei renma, tveinri./
 noll mannva fed snem, sneri./
-sveld na hanv or domsey stann, stanni ok berv,/
+sveld na hanv or domsei stann, stanni ok berv,/
 markva skirv, mos or markva‼
 
 af svulma na thurs, sulna,/
@@ -202,13 +202,13 @@ skurna gang or throsksteld, throsk./
 merv gang firn hroldvidma, hurvi,/
 hvarv snir nem hrold./
 noll mannva skirv gnerth firn grendvid./
-sveld na hanv or domsey stann, stanni ok berv,/
+sveld na hanv or domsei stann, stanni ok berv,/
 markva skirv, mos or markva‼
 :::
 
 The fire's kept coal is the hearth. The hand that stayed is the scale. In the telling, [[lore-eidgardty|Eidgar]] paid a hand to the wolf's chain, and what the other hand holds is the iron scale, so the hand that stayed is the thing in it. A master whose apprentices sit on the bench across from you teaches that it is the sword, because the god is carved holding either. He has never stood at a rationing. Nobody brings a sword to the floor to weigh barley. The Healer's gold is [[lore-frodvindty|Frodvin]]'s barley.
 
-The sixth stanza has no kenning in it. He put none there. A rationing is a plain thing and he gives it to you plain, and then he cuts the first notch. The notch comes before you know what it counts. That is what a notch is: you cut it when the year falls, and you count it later. "His bench on Domsey bare" is a _tingsveld_, a stone bench with the holder's mark cut in its back, and his stood empty at the assembly that year. Apprentices ask me every year what the moss stands for. It stands for moss. The island is wet.
+The sixth stanza has no kenning in it. He put none there. A rationing is a plain thing and he gives it to you plain, and then he cuts the first notch. The notch comes before you know what it counts. That is what a notch is: you cut it when the year falls, and you count it later. "His bench on Domsei bare" is a _tingsveld_, a stone bench with the holder's mark cut in its back, and his stood empty at the assembly that year. Apprentices ask me every year what the moss stands for. It stands for moss. The island is wet.
 
 The giant's spilled cold is the sea, from his blood, and where the blood meets the flesh is the tide-line, the sea on the soil, which is the strand the law names. The fat hill is the whale, and he never says whale, because the word is small and the thing was not. The law-mouth is the Lawspeaker, and the sixth is the sixth rule as Norgaad's Lawspeaker counts [[lore-nrdlndswhal|the law of the stranded whale]]: in a hungry winter the jarl shares it, and the strand is repaid from the next good season. The jarl's own words stand unbroken in the seventh and eighth lines. Flat light is the oil, which is the stem's own sense and barely a _hulma_. Nobody carved the jaw: no gatepost stands at [[place-gnaldurfjord|Gnaldurfjord]] for this one.
 
@@ -282,11 +282,11 @@ ok hringva af arnva ok hondi.
 
 staf sevn jerva, skip na konung komri/
 islos, firn sveldmann ok sveld./
-mannva na konung marl, «domsey,»/
+mannva na konung marl, «domsei,»/
 ok krildorv kallar, «thresk na ir frorri.»/
 nodma kan rurna, hanv hugni ok halv,/
 skip farna utva hanv, farn./
-sveld na hanv or domsey stann, stanni ok berv,/
+sveld na hanv or domsei stann, stanni ok berv,/
 markva skirv, mos or markva‼
 
 tveidek ok seks bakma tiv bratva stevna,/
@@ -312,7 +312,7 @@ The cold's hard hem is the ice-edge, where the sealers go in the hungry weeks. "
 
 [[lore-thrunvalddty|Thrunvald]]'s floor is the sea again, and he has two words for it. When it gives, it is the giant's cold. When it is sailed, or it takes, it is the Thunderer's. The shingle crying is a keel, from the sound a keel makes going off and coming on, and the keel's own word is built on it. The south's yellow is grain from [[place-midhalnrgn|Midhalión]]. The ring off his arm went for the buying.
 
-The seventh year's boat is the king's boat come for his jarls, and the grant moves: a king who moves the grant moves the seat with it. He knew it and let the boat go. Hliskvir was not on Domsey. "They tell me" is how he says so. The king's answer is a look at the law-rock, and he gives you no more because he had no more.
+The seventh year's boat is the king's boat come for his jarls, and the grant moves: a king who moves the grant moves the seat with it. He knew it and let the boat go. Hliskvir was not on Domsei. "They tell me" is how he says so. The king's answer is a look at the law-rock, and he gives you no more because he had no more.
 
 : The notched part, third {#notches-third}
 
@@ -361,7 +361,7 @@ hollva stann miv hrold na merv./
 hul nel es lorkna neng, hulda nel./
 ald setva siv dverna, sulvi,/
 sneri. fed frorri. eidva./
-sveld na hanv or domsey stann, stanni ok berv,/
+sveld na hanv or domsei stann, stanni ok berv,/
 markva skirv, mos or markva‼
 
 hlun skuldma, strandvald, hlusi,/
@@ -388,7 +388,7 @@ ir berva markva, merka af lerdi,/
 skirv inn solvma na arnva, sannri./
 hrafna na eiv skern es herni./
 thenva sken hnat ir marl nura, nimri./
-sveld na hanv or domsey stann, stanni ok berv,/
+sveld na hanv or domsei stann, stanni ok berv,/
 markva skirv, mos or markva‼
 :::
 
@@ -523,7 +523,7 @@ He ended on "Give the ring, or do not," before the jarl and the jarl's hall, in 
 [[affiliation-skaldscrcl|Skalds' Circle]]
 : the _geldra_, the Skaldating and the truth of the recital
 
-[[place-domsey|Domsey]]
+[[place-domsey|Domsei]]
 : the ting island and the seat that follows the grant
 
 [[lore-nrdlndswhal|The Whale Strand]]

@@ -111,7 +111,13 @@ test("Nordmal preserves its names, elements, old meanings and existing prose", (
         "47fdc3900c1794a8243c24189d85e4361681b52c6bd571c1cad0f2953ac1e779",
     );
     assert.equal(
-        contentHash(baselineProse(before, language.file)),
+        // Keep the original historical hash: only this approved link label changed.
+        contentHash(
+            baselineProse(before, language.file).replace(
+                "[[place-domsey|Domsei]]",
+                "[[place-domsey|Domsey]]",
+            ),
+        ),
         "b12fbad2c377724f1494fd020457d4873f8dd3a7f4ad558c9758fabee6b34a17",
     );
     for (const word of words.filter((word) =>

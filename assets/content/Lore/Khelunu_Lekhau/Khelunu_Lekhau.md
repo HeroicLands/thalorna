@@ -109,7 +109,7 @@ reason—his nature, his manifestations, his methods of attack—so the priestho
 throne and prepare the realm.
 
 To _practice_ it is a capital matter. The line is not knowledge but use, and the tradition polices it
-with the temple-inquisitors and the [Meglay]{.name data-type="affiliation"}, who hunt the forbidden cults without rest. A lekhau found
+with the temple-inquisitors and the [Meglai]{.name data-type="affiliation"}, who hunt the forbidden cults without rest. A lekhau found
 to have worked Zelgút is not disciplined; a person found maintaining a shrine to the chaos god faces
 execution, on the reasoning that their existence invites catastrophe on the realm.
 

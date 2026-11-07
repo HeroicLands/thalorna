@@ -52,13 +52,13 @@ The Atarzád fire-priests of the garrison say that only fire puts these dead dow
 
 - **The Tellumi quarter.** Some say the lamps lit at every door until dawn are for the household in the wash, though no one in the quarter will say so to an outsider.
 - **The Zhoqarod.** The garrison has been ordered to keep away from the wash. The order came from the prefect in the old palace and carries no reason.
-- The [House of Zargandur]{.name data-type="affiliation/lineage"}. [Gureshay of Zargandur]{.name data-type="being/npc"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], wants a signet from the trench to prove who died in the palace and where. He would pay for a seal and for a count of the dead.
+- The [House of Zargandur]{.name data-type="affiliation/lineage"}. [Gureshai of Zargandur]{.name data-type="being/npc"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], wants a signet from the trench to prove who died in the palace and where. He would pay for a seal and for a count of the dead.
 - **The Zhoqarod fire-priests.** A Delkoshekh on picket duty above the wash knows what lies in its lowest layer: the garrison dead of the third day, whom the priests would not burn. The knowledge is why the priests know that fire works, and it is a secret the garrison's priests keep from the prefect.
 - **The raiders.** The band's chief believes the Zhoqarod poisoned the grave. He is wrong, and he does not say so aloud because it keeps the others digging.
 
 ## Hooks {#hooks}
 
-- **A signet and a count.** Gureshay of Zargandur wants a signet from the trench and a count of the dead, to prove who died in the palace and where, and he pays for both.
+- **A signet and a count.** Gureshai of Zargandur wants a signet from the trench and a count of the dead, to prove who died in the palace and where, and he pays for both.
 - **Fire on terms.** A Zhoqarod Delkoshekh will arm a party with a fire-pot and a lamp kindled at the temple altar to put down what walks in the wash, and will not say what the party owes for it.
 - **Hands for the trench.** The raiders' chief has lost a third of his band and is hiring guards and diggers at a share of the gold, and he tells each new hand that the Zhoqarod poisoned the grave.
 

@@ -5590,7 +5590,7 @@ data:
         - "chikoke"
         - "fayanna"
         - "fochika"
-        - "hayika"
+        - "haiika"
         - "hoyalaya"
         - "hoyani"
         - "ichasa"
@@ -5643,7 +5643,7 @@ data:
         - "tokchasko"
         - "yohakasko"
   elements:
-    - {form: hay-, position: opening, kind: given, sense: the sun, word: hayo, examples: [hayika]}
+    - {form: hai-, position: opening, kind: given, sense: the sun, word: hayo, examples: [haiika]}
     - form: tokch-
       position: opening
       kind: given
@@ -5735,7 +5735,7 @@ data:
       kind: given
       sense: "sees; a girl's ending"
       word: ika
-      examples: [hayika, osakika, alopika, fochika]
+      examples: [haiika, osakika, alopika, fochika]
     - form: -aya
       position: closing
       kind: given

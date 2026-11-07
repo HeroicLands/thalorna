@@ -35,7 +35,7 @@ data:
     - name: "grave-ale"
       definition: "The hrúmsminni, the seventh-night rite that settles a dead person's affairs"
     - name: "Great Moot"
-      definition: "A meeting of the five kingdoms at Asgarthul, called by Norgaad's Lawspeaker between sittings on Domsey"
+      definition: "A meeting of the five kingdoms at Asgarthul, called by Norgaad's Lawspeaker between sittings on Domsei"
     - name: "Gronmál"
       definition: "The chairs who speak for the Green Wardens, the Storm-Speakers and the Giant's Children"
     - name: "Hamarsmál"
@@ -184,7 +184,7 @@ The kingdom's Lawspeaker keeps and recites the law. Skalds preserve judgments an
 
 Civil and religious offices can meet in one person, but they do different work. A gudi or gudja keeps rites, witnesses bonds and speaks on belonging; a cleric's judgment does not alone make a civil sentence. Disputed obligations reach the appropriate court or ting. Each faith governs its own clergy, and the Circle answers for its own recital. There is no pontiff or common religious court to settle every conflict between those bodies.
 
-The five kingdoms hold their own assemblies. Every seventh year their kings and leading jarls meet on [[place-domsey|Domsey]], the sacred island, for the [King of All Clans]{.name data-type="affiliation/governmental"} assembly. It addresses quarrels beyond one kingdom's writ and matters of war and peace. It has no standing officers, revenue or means of compulsion. Its weight comes from the gathered rulers and the consequences of refusing their judgment.
+The five kingdoms hold their own assemblies. Every seventh year their kings and leading jarls meet on [[place-domsey|Domsei]], the sacred island, for the [King of All Clans]{.name data-type="affiliation/governmental"} assembly. It addresses quarrels beyond one kingdom's writ and matters of war and peace. It has no standing officers, revenue or means of compulsion. Its weight comes from the gathered rulers and the consequences of refusing their judgment.
 
 ## Rites under the Ting's Peace
 
@@ -204,7 +204,7 @@ At Veturnetur the hall's _buvordur_ seats its honored old by the door and serves
 
 At [[lore-aldarlok|Aldarlok]], the defending gods and their honored dead face the last fire. A Nordman hopes to be remembered as one who stood well when duty called. Honorable deaths include battle, keeping an oath, childbirth and defense of one's craft. The honored gather in [[place-valsal|Valsal]] or [[place-solvangur|Solvangur]], under Odvar and Solrún, to prepare for that final contest.
 
-The faiths of the Ten also teach that oath-breakers, those who turn from duty, and those who die of sickness without distinction pass to [[place-nulthey|Nulthey]], where they fade. The faithful of the [[affiliation-solrun|Faith of Solrún]] affirm that a life need not include battle to earn honor. Illness and honor therefore remain a difficult question; a family's duty to feed an incapacitated member does not depend on claiming certainty about their eventual fate. The women of the Malagna yards put the question at every sickness death in [[lore-folmhnura|Folmhnura]], a shipwright's suit for her fevered daughter, whose cut strake is in a ship at sea: [Say she was never called on./Say it to the plank.]{.verse}
+The faiths of the Ten also teach that oath-breakers, those who turn from duty, and those who die of sickness without distinction pass to [[place-nulthey|Nulthei]], where they fade. The faithful of the [[affiliation-solrun|Faith of Solrún]] affirm that a life need not include battle to earn honor. Illness and honor therefore remain a difficult question; a family's duty to feed an incapacitated member does not depend on claiming certainty about their eventual fate. The women of the Malagna yards put the question at every sickness death in [[lore-folmhnura|Folmhnura]], a shipwright's suit for her fevered daughter, whose cut strake is in a ship at sea: [Say she was never called on./Say it to the plank.]{.verse}
 
 This belief reaches ordinary work. It weighs against a false oath and in favor of defending a neighbor, preserving a craft or giving away wealth. Offerings and shared feasts cost food and drink a house could keep. At funeral feasts and divisions of an estate, kin reckon the dead person's obligations rather than treating death as cancellation; [[lore-nrdlndsfnrl|the Pyre, the Ship and the Howe]] follows a death from the first night to the grave-ale. Care for graves and their goods preserves the dead's place in local memory. It also keeps the living from provoking a presence they cannot safely judge.
 
@@ -214,7 +214,7 @@ The living include ancestors in offerings and may seek a velva's contact with th
 
 Nordmen fear _restless dead_, local presences said to haunt some places and protect others. A guardian may protect a place or people with whom it has a bond without making strangers safe there. Travelers ask local custodians before approaching a known site. They avoid taking grave goods and may offer a gift where honoring the dead is customary. Each practice belongs to its own place; no single rite keeps every haunting away.
 
-If a haunting harms people, kin first look for a disturbed site or unmet obligation. The local gudi or gudja, and a velva when needed, mediate; a continuing threat can lead the community to bar the place or confront its guardian. The tales give these dead no single cause or destination. A presence without a body is a spirit; where the dead walk in their own bodies, as the _hrúmverdir_ of the howes are said to, they carry [[lore-theshadow|the Shadow]] that every undead carries, whatever the local tale gives as the reason. A walking dead man is not thereby proven to have died dishonorably, to belong to Nulthey, or to be one of the _[[lore-nagengir|Nágengir]]_ raised to serve [[lore-nahilddty|Nahild]].
+If a haunting harms people, kin first look for a disturbed site or unmet obligation. The local gudi or gudja, and a velva when needed, mediate; a continuing threat can lead the community to bar the place or confront its guardian. The tales give these dead no single cause or destination. A presence without a body is a spirit; where the dead walk in their own bodies, as the _hrúmverdir_ of the howes are said to, they carry [[lore-theshadow|the Shadow]] that every undead carries, whatever the local tale gives as the reason. A walking dead man is not thereby proven to have died dishonorably, to belong to Nulthei, or to be one of the _[[lore-nagengir|Nágengir]]_ raised to serve [[lore-nahilddty|Nahild]].
 
 ## What a Person Owes
 

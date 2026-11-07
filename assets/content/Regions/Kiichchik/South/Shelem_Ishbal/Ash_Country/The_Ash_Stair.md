@@ -1,6 +1,6 @@
 ---
 shortcode: ashstair
-name: {full: The Ash Stair, kiichek: ["Pu'talal K'aypuk"]}
+name: {full: The Ash Stair, kiichek: ["Pu'talal K'aipuk"]}
 type: place
 subType: site
 description: "A day's descent of ash terraces below the gate of the south, where ash-storms bury the unready standing up and most parties turn back."
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder
 
 ## Overview
 
-The Ash Stair, Pu'talal K'aypuk (the stair of ash), is the first day in [[place-xelemixbalrgn|Shelem Ish'bal Region]]. Below the place where the guides of [[place-xelemchalix|Shelem Ch'alish]] turn back, the high ground of the threshold breaks off in a long slope of gray ash terraces, each a few spans deep and a few hundred paces wide, falling a full day's walk to the floor of [[place-ashcountry|the Ash Country]]. From the top a party sees the whole of its first week laid out below it: the plain, the cones, the steam of [[place-boilingground|the Boiling Ground]], and the mountains standing pale to the west.
+The Ash Stair, Pu'talal K'aipuk (the stair of ash), is the first day in [[place-xelemixbalrgn|Shelem Ish'bal Region]]. Below the place where the guides of [[place-xelemchalix|Shelem Ch'alish]] turn back, the high ground of the threshold breaks off in a long slope of gray ash terraces, each a few spans deep and a few hundred paces wide, falling a full day's walk to the floor of [[place-ashcountry|the Ash Country]]. From the top a party sees the whole of its first week laid out below it: the plain, the cones, the steam of [[place-boilingground|the Boiling Ground]], and the mountains standing pale to the west.
 
 ## The Descent
 

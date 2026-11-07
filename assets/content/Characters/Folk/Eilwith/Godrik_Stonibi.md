@@ -49,7 +49,7 @@ Godrik is a newly raised [[being-damut|Damut]], confused enough to believe himse
 
 ## In the Land
 
-The house stands at the edge of [[place-greylevels|The Greylevels]], where the tide covers its causeway. His guest-book entry and belongings give a party the means to identify the figure at the window.
+The house stands at the edge of [[place-greylevels|The Greilevels]], where the tide covers its causeway. His guest-book entry and belongings give a party the means to identify the figure at the window.
 
 ## Key Behaviors
 
@@ -74,7 +74,7 @@ Godrik joins the drowned congregation wherever the house’s water reaches. He c
 ## Attack Methods
 
 :::secret {title="The drowned traveler"}
-Use Damut for his physical attacks. [[scenario-bellsgreylvl|The Bells Beneath the Greylevels]] describes the flooded house and his part in its congregation.
+Use Damut for his physical attacks. [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]] describes the flooded house and his part in its congregation.
 :::
 
 ## Special Abilities

@@ -3,13 +3,13 @@ shortcode: shuqkanan
 name: {full: Shuqkanan}
 type: being
 subType: npc
-description: The chief of Kulaywil, the richest beach on the Bead Coast, whose marriages tie her town to six others and to whose house every quarrel on the coast comes.
+description: The chief of Kulaiwil, the richest beach on the Bead Coast, whose marriages tie her town to six others and to whose house every quarrel on the coast comes.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, trader]
-  occupation: Chief of Kulaywil
+  occupation: Chief of Kulaiwil
   lore: []
   culture: shuqashclt
   homes: [kulaywil]
@@ -36,7 +36,7 @@ Shuqkanan is a 50-year-old woman who stands 5'1" tall with a medium build. She h
 
 # Dossier {#dossier}
 
-Shuqkanan, Bright Bead, is the chief of [[place-kulaywil|Canoe Place]], the largest town of the [[affiliation-shuqash|Shell-Bead People]], and the nearest thing the coast has to a ruler. She rules nobody. Her own marriage and the marriages of her five daughters tie Kulaywil to six other towns, her storehouse holds more beads than some islands, and her midwinter feasts feed the chiefs of half the coast. Every canoe that lands on her beach pays her a bead in ten of its cargo, and the [[affiliation-canoekin|Canoe Kin]] land there anyway, because Kulaywil buys more than anywhere else.
+Shuqkanan, Bright Bead, is the chief of [[place-kulaywil|Canoe Place]], the largest town of the [[affiliation-shuqash|Shell-Bead People]], and the nearest thing the coast has to a ruler. She rules nobody. Her own marriage and the marriages of her five daughters tie Kulaiwil to six other towns, her storehouse holds more beads than some islands, and her midwinter feasts feed the chiefs of half the coast. Every canoe that lands on her beach pays her a bead in ten of its cargo, and the [[affiliation-canoekin|Canoe Kin]] land there anyway, because Kulaiwil buys more than anywhere else.
 
 She has never joined a quarrel between towns, and every quarrel on the coast comes to her house sooner or later. At the [Holding of the Sun]{.name data-type="lore/gathering"} the chiefs feast in her house for four days while the counters line up before the Sky Elder, [[being-tiyupliq|Tiyupliq]], with their measuring cords, and the quarrels are heard at her fire. She listens more than she speaks and settles most of them by arranging that both sides owe her something.
 
