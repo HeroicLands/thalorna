@@ -7426,12 +7426,8 @@ data:
   sounds:
     stress: {two: first, longer: penultimate}
     syllables:
-      vowelPairs: [ai, au, oi, ou, ei, yi, ye]
-      harmony:
-        back: [a, o, u, ai, au, oi, ou]
-        front: [ì, yi, ye]
-        neutral: [e, i, ei]
-        neutralAs: back
+      vowelPairs: [ai, au, oi, ou, ei]
+      harmony: {back: [a, o, u, ai, au, oi, ou], front: [ì], neutral: [e, i, ei], neutralAs: back}
       initialVowel: true
       finalVowel: true
     clusters:
@@ -8044,7 +8040,7 @@ UNION ALL
 SELECT 'front' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_front, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-senalilng'
 ```
 
-_ye_ opens wide and closes narrow, the reverse of every other pair. In _eo_ each vowel keeps its own set, _e_ neutral and _o_ back.
+In _yi_ and _ye_, _y_ is the consonant that opens the syllable. In _eo_ each vowel keeps its own set, _e_ neutral and _o_ back.
 
 ### Medial clusters
 
