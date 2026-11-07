@@ -63,9 +63,9 @@ The **House of Mernagord** rules [[place-mehrnagord|Mernagord]], the largest of 
 
 ## The Prince
 
-The ruling prince is [Hemvanay of Mernagord]{.name data-type="being/npc"}, in his sixties, cautious, and inclined to accommodation with the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and, warily, with the [[affiliation-tribestrzd|Atarzád]]. His household guard of about a hundred men is the largest of the three free houses' guards, and it could not hold the city for a season. The [Ozhmarod]{.name data-type="affiliation/polity"}, the Atarzád tribe of the western belt, sit at [[place-oasishirvn|Shirvan]] a few days east. They leave Mernagord free because a free Tellumi city is more use to them than a conquered one: its prince is a channel to the Kingdom, and its salt reaches markets the Atarzád cannot.
+The ruling prince is [Hemvanai of Mernagord]{.name data-type="being/npc"}, in his sixties, cautious, and inclined to accommodation with the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and, warily, with the [[affiliation-tribestrzd|Atarzád]]. His household guard of about a hundred men is the largest of the three free houses' guards, and it could not hold the city for a season. The [Ozhmarod]{.name data-type="affiliation/polity"}, the Atarzád tribe of the western belt, sit at [[place-oasishirvn|Shirvan]] a few days east. They leave Mernagord free because a free Tellumi city is more use to them than a conquered one: its prince is a channel to the Kingdom, and its salt reaches markets the Atarzád cannot.
 
-Atarzád merchants have sounded Hemvanay out about a limited normalization, a trade compact between his city and theirs. He has answered neither yes nor no.
+Atarzád merchants have sounded Hemvanai out about a limited normalization, a trade compact between his city and theirs. He has answered neither yes nor no.
 
 ## The Western Account
 
@@ -73,11 +73,11 @@ The house leads the houses of the west in the oldest argument at the [[affiliati
 
 ## What It Wants, and Who Stands in the Way {#present}
 
-The house wants Mernagord kept free and its salt moving. That puts it at odds with the four houses in exile, who regard a compact with the Atarzád as treason and Hemvanay as insufficiently militant, and most of all with the [[affiliation-hsezargandur|House of Zargandur]], whose heir's plans for a reclamation would bring the war to the one Tellumi city that can least afford it. The oasis is full of people who say the compact is treason, and as many who say nothing. The [[affiliation-hseshirvan|House of Shirvan]] opposes the house on both counts, the compact and the coming down.
+The house wants Mernagord kept free and its salt moving. That puts it at odds with the four houses in exile, who regard a compact with the Atarzád as treason and Hemvanai as insufficiently militant, and most of all with the [[affiliation-hsezargandur|House of Zargandur]], whose heir's plans for a reclamation would bring the war to the one Tellumi city that can least afford it. The oasis is full of people who say the compact is treason, and as many who say nothing. The [[affiliation-hseshirvan|House of Shirvan]] opposes the house on both counts, the compact and the coming down.
 
 ## Hooks
 
-- **The envoy.** Hemvanay wants an envoy he can trust to carry an offer to Amradad and the reply back, and the exile houses want to be sure he never sends one. A party can carry both messages and be paid by both.
+- **The envoy.** Hemvanai wants an envoy he can trust to carry an offer to Amradad and the reply back, and the exile houses want to be sure he never sends one. A party can carry both messages and be paid by both.
 
 ## See Also
 

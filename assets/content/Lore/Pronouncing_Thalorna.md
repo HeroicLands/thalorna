@@ -21,9 +21,6 @@ data:
       - {letters: [ei], kind: vowel pair, like: day, ipa: eɪ}
       - {letters: [oi], kind: vowel pair, like: boy, ipa: ɔɪ}
       - {letters: [ou], kind: vowel pair, like: soul, ipa: oʊ}
-      - {letters: [ay], kind: vowel pair, like: "eye, the same as ai", ipa: aɪ}
-      - {letters: [ey], kind: vowel pair, like: "day, the same as ei", ipa: eɪ}
-      - {letters: [oy], kind: vowel pair, like: "boy, the same as oi", ipa: ɔɪ}
       - {letters: [iy], kind: vowel pair, like: "ee, closing on a slight y", ipa: ij}
       - {letters: [uy], kind: vowel pair, like: "ooey, said as one syllable", ipa: uj}
       - letters: [aa]
@@ -136,7 +133,7 @@ FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'vowel p
 
 So _kaira_ is _KYE-rah_, /ˈkaɪrɑ/, _taum_ is _towm_, /taʊm/, _meiro_ is _MAY-roh_, /ˈmeɪro/, _soin_ is _soyn_, /sɔɪn/, and _koulo_ is _KOH-loh_, /ˈkoʊlo/.
 
-_ay_, _ey_ and _oy_ sound just like _ai_, _ei_ and _oi_: _kay_ is _kye_, /kaɪ/, _seyn_ is _sane_, /seɪn/, and _moy_ rhymes with _boy_, /mɔɪ/. _iy_ is an _ee_ that closes on a slight _y_, as in _siy_, /sij/, and _uy_ is _ooey_ said as one syllable, as in _kuy_, /kuj/.
+_iy_ is an _ee_ that closes on a slight _y_, as in _siy_, /sij/, and _uy_ is _ooey_ said as one syllable, as in _kuy_, /kuj/.
 
 A _y_ joins the vowel before it only where no vowel follows it. Before a vowel, _y_ starts the next syllable instead: _kaya_ is _KAH-yah_, /ˈkɑjɑ/, and _koyo_ is _KOH-yoh_, /ˈkojo/.
 

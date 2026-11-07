@@ -44,7 +44,7 @@ Alfmund Kaerton is a 44-year-old man of 5'10" and medium build, with tanned, wea
 
 Alfmund Kaerton is the greatest horse-breeder of [[place-stonyford|Stonyford]] and one of the two _tavoi_ of the [[affiliation-repblcndrth|Republic of Ondareth]] for the year. By custom one _tavos_ keeps the city and the other takes the field, and Alfmund has taken the field: he has come north to [[place-kaermouth|Kaermouth]] to command on the frontier for the spring, with the levy the Senate has voted taken from the Highlands' own men at the Stonyford fair.
 
-He and the Vandraks of the frontier legion, [[being-godstanhrdl|Godstan Hardley]], disagree about what the legion's patrols into the forest are for. Godstan wants the tribes that burned the watch-burgs punished. Alfmund wants the frontier quiet by midsummer, so that he can send the highland men home to their herds.
+He and the Vandraks of the frontier legion, [[being-godstanhrdl|Godstan Hardlei]], disagree about what the legion's patrols into the forest are for. Godstan wants the tribes that burned the watch-burgs punished. Alfmund wants the frontier quiet by midsummer, so that he can send the highland men home to their herds.
 
 ## Psyche
 
@@ -62,7 +62,7 @@ The highland men in the levy know him and trust him, and he knows the country no
 
 ### Weaknesses
 
-He outranks Godstan Hardley and knows less of war, and both of them know it.
+He outranks Godstan Hardlei and knows less of war, and both of them know it.
 
 ## Social
 
@@ -76,7 +76,7 @@ Alfmund answers to the Senate for his year, and to no man in it.
 
 ### Enemies
 
-Godstan Hardley thinks him a horse-dealer playing at war.
+Godstan Hardlei thinks him a horse-dealer playing at war.
 
 ### Affiliations
 

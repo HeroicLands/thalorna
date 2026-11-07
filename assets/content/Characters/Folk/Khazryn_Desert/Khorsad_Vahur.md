@@ -75,11 +75,11 @@ His title rests on acclamation, which the old houses do not accept. His town has
 
 ### Enemies
 
-- [[being-nartemayusht|Nartemay of Ushtra-ber]]: The most exacting of those who say an acclamation cannot make a prince. He does not stand when Khorsád-Vahur enters the Council's hall, and Khorsád-Vahur has stopped expecting him to.
+- [[being-nartemayusht|Nartemai of Ushtra-ber]]: The most exacting of those who say an acclamation cannot make a prince. He does not stand when Khorsád-Vahur enters the Council's hall, and Khorsád-Vahur has stopped expecting him to.
 
 ### Others
 
-- [[being-hemvanaymern|Hemvanay of Mernagord]]: The prince of the largest free oasis, his wife's prince and the one prince at the Council who treats him as an equal. They talk about water.
+- [[being-hemvanaymern|Hemvanai of Mernagord]]: The prince of the largest free oasis, his wife's prince and the one prince at the Council who treats him as an equal. They talk about water.
 
 ### Affiliations
 

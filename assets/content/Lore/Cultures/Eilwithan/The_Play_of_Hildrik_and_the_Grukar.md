@@ -62,12 +62,12 @@ And tell the yard what thou art, and hast been.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-room}
-Room, room, good people, give us room to play‼/
-We ben kome down out of the march today./
+Room, room, good people, give us room to plai‼/
+We ben kome down out of the march todai./
 We drove the beasts, we paid the bridge his toll,/
-And now we play, an ye will fill the bowl./
-This is the fair a man may lawful stray/
-Far from his manor, and none saith him nay./
+And now we plai, an ye will fill the bowl./
+This is the fair a man mai lawful strai/
+Far from his manor, and none saith him nai./
 So stand ye bak‼ And ye shall see one bold/
 As ever drove a wether to the fold./
 I am Old Talli, that do keep the skore,/
@@ -144,8 +144,8 @@ And every one shall scratch upon thy door.
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-boast}
 Here kome I, out of the forest dun,/
 An Ahk of the Grukar, and I fear none./
-Rats in thi granari, so dost thou say?/
-Whi, then I am the rat that kame to stay./
+Rats in thi granari, so dost thou sai?/
+Whi, then I am the rat that kame to stai./
 Mi sons ben twenti, and mi daughters more,/
 And everi one shall skratch upon thi door.
 :::
@@ -266,8 +266,8 @@ And twelve times I was here the following day.
 Thi king hath kome, and made a mighti boast,/
 And kome against me twelve times, oer and oer,/
 With drum and banner, horse and foot and more./
-Twelve times he won, so doth his rekord say,/
-And twelve times I was here the following day.
+Twelve times he won, so doth his rekord sai,/
+And twelve times I was here the following dai.
 :::
 
 **Hildrik.**
@@ -312,7 +312,7 @@ _They fight, three passes up and down the ring, the yard shouting for Hildrik. O
 
 ::: {lang=aelw font=serif}
 
-[(]{lang=zxx}They fighten, three passes up and down the ring, the yard shouting for Hildrik. On the third the Grukar striketh him down.[)]{lang=zxx}
+[(]{lang=zxx}Thei fighten, three passes up and down the ring, the yard shouting for Hildrik. On the third the Grukar striketh him down.[)]{lang=zxx}
 
 Old Talli.
 
@@ -346,7 +346,7 @@ The Doktor.
 
 [(]{lang=zxx}Outside the ring.[)]{lang=zxx}
 
-Sayst thou ten Bits? I kome not out for ten Bits.
+Saist thou ten Bits? I kome not out for ten Bits.
 
 Old Talli.
 
@@ -424,7 +424,7 @@ An Solden! There is not an Solden in this yard, nor in this town, saving the bri
 
 The Doktor.
 
-I will take the turnip in part of payment. Stand bak, now‼ Here is phisik.
+I will take the turnip in part of paiment. Stand bak, now‼ Here is phisik.
 
 [(]{lang=zxx}He kneeleth bi Hildrik and speaketh over him, veri grand.[)]{lang=zxx}
 
@@ -436,7 +436,7 @@ What is that, Doktor?
 
 The Doktor.
 
-That is the kourt tongue, and it is a charm against all hurts whatsoever, and it signifieth, in thi plain speech. Pay the doktor.
+That is the kourt tongue, and it is a charm against all hurts whatsoever, and it signifieth, in thi plain speech. Pai the doktor.
 
 [(]{lang=zxx}He poureth from the bottle into Hildrikes mouth.[)]{lang=zxx}
 
@@ -452,7 +452,7 @@ Old Talli.
 
 [(]{lang=zxx}Seizing his arm.[)]{lang=zxx}
 
-Hold, hold‼ Sayst thou it will raise the dead? Wilt thou have the Silent Judge on the whole yard? There is no man here will stand beside thee when the blak priests komen asking. Put it up‼ Doktor, put it up‼
+Hold, hold‼ Saist thou it will raise the dead? Wilt thou have the Silent Judge on the whole yard? There is no man here will stand beside thee when the blak priests komen asking. Put it up‼ Doktor, put it up‼
 
 The Doktor.
 
@@ -505,9 +505,9 @@ And looked on me, and turned away his cheek.
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-dream}
 Good morrow, gentles. Is the Grukar fled?/
-I dreamt I lay a long while with the dead,/
+I dreamt I lai a long while with the dead,/
 And one stood at a gate, and would not speak,/
-And looked on me, and turned away his cheek.
+And looked on me, and turned awai his cheek.
 :::
 
 **The Ale-wife.** That's the Judge, and he'll not have thee till thy day. Up and at it.
@@ -518,7 +518,7 @@ And looked on me, and turned away his cheek.
 
 The Ale wife.
 
-That is the Judge, and he will not have thee till thi day. Up and at it‼
+That is the Judge, and he will not have thee till thi dai. Up and at it‼
 
 Hildrik.
 
@@ -558,7 +558,7 @@ _They fight again. Hildrik strikes the Grukar down, and the yard cheers._
 
 ::: {lang=aelw font=serif}
 
-[(]{lang=zxx}They fighten again. Hildrik striketh the Grukar down, and the yard cheereth.[)]{lang=zxx}
+[(]{lang=zxx}Thei fighten again. Hildrik striketh the Grukar down, and the yard cheereth.[)]{lang=zxx}
 
 Old Talli.
 
@@ -616,8 +616,8 @@ And as they have been, and they will be there.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=fight-goes-on}
-Whi, then, we leaven them fighting as they were,/
-And as they haven been, and they will be there.
+Whi, then, we leaven them fighting as thei were,/
+And as thei haven been, and thei will be there.
 :::
 
 **Hildrik.**
@@ -640,7 +640,7 @@ Fill up the bowl, ye gentles, an ye would.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildriks-day}
-I know mi day. One morning I shall go/
+I know mi dai. One morning I shall go/
 Into the wood, and not kome out, I know./
 The steward in his book shall write a line,/
 And give mi strip unto that son of mine./
@@ -671,7 +671,7 @@ And [[affiliation-arldnpnthn|the Twelve]] keep you till we play once more.
 Put in your Bits, and put your Argos in‼/
 And if ye haven Soldeni, that were no sin./
 A notch for everi koin, and one notch more,/
-And the Twelve keepen you till we play onse more.
+And the Twelve keepen you till we plai onse more.
 :::
 
 _The players go out singing, the Grukar and the Grukar's son behind them, still fighting with Hildrik through the gate of the yard._

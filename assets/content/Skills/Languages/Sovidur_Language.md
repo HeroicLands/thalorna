@@ -1452,7 +1452,7 @@ data:
       "gloss": "to watch; to observe attentively"
       "concept": "watch"
       "source": {"kind": "coined"}
-    - "form": "zochulay"
+    - "form": "zochulai"
       "class": "n"
       "field": "Everyday senses"
       "gloss": "appearance"
@@ -2064,7 +2064,7 @@ data:
       "gloss": "the finger"
       "concept": "finger"
       "source": {"kind": "coined"}
-    - "form": "zovey"
+    - "form": "zovei"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the fingernail"
@@ -2172,7 +2172,7 @@ data:
       "gloss": "throat"
       "concept": "throat"
       "source": {"kind": "coined"}
-    - "form": "chumoy"
+    - "form": "chumoi"
       "class": "n"
       "field": "Everyday body"
       "gloss": "stomach"
@@ -2448,7 +2448,7 @@ data:
       "gloss": "thirsty"
       "concept": "thirsty"
       "source": {"kind": "coined"}
-    - "form": "chokhochoy"
+    - "form": "chokhochoi"
       "class": "v"
       "field": "Everyday needs"
       "gloss": "inhale"
@@ -2598,7 +2598,7 @@ data:
       "gloss": "to nurse a child; to feed a child at the breast"
       "concept": "nurse"
       "source": {"kind": "coined"}
-    - "form": "kheyey"
+    - "form": "kheyei"
       "class": "v"
       "field": "Everyday needs"
       "gloss": "grow"
@@ -2622,7 +2622,7 @@ data:
       "gloss": "dead"
       "concept": "dead"
       "source": {"kind": "coined"}
-    - "form": "chuzirey"
+    - "form": "chuzirei"
       "class": "adj"
       "field": "Everyday health"
       "gloss": "healthy; hale"
@@ -2694,7 +2694,7 @@ data:
       "gloss": "suffer"
       "concept": "suffer"
       "source": {"kind": "coined"}
-    - "form": "qosay"
+    - "form": "qosai"
       "class": "v"
       "field": "Everyday health"
       "gloss": "Bleed"
@@ -2796,7 +2796,7 @@ data:
       "gloss": "grandmother"
       "concept": "grandmother"
       "source": {"kind": "coined"}
-    - "form": "khodoy"
+    - "form": "khodoi"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "grandfather"
@@ -2940,7 +2940,7 @@ data:
       "gloss": "neighbor"
       "concept": "neighbor"
       "source": {"kind": "coined"}
-    - "form": "zotoy"
+    - "form": "zotoi"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "companion"
@@ -3294,7 +3294,7 @@ data:
       "gloss": "soil"
       "concept": "soil"
       "source": {"kind": "coined"}
-    - "form": "chozemey"
+    - "form": "chozemei"
       "class": "n"
       "field": "Everyday nature"
       "gloss": "sand"
@@ -4036,7 +4036,7 @@ data:
       "gloss": "to close"
       "concept": "close"
       "source": {"kind": "coined"}
-    - "form": "jumey"
+    - "form": "jumei"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to begin"
@@ -4126,7 +4126,7 @@ data:
       "gloss": "to exit"
       "concept": "exit"
       "source": {"kind": "coined"}
-    - "form": "chaghoy"
+    - "form": "chaghoi"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to return"
@@ -4204,7 +4204,7 @@ data:
       "gloss": "to create"
       "concept": "create"
       "source": {"kind": "coined"}
-    - "form": "zusuvoy"
+    - "form": "zusuvoi"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to break"
@@ -4360,7 +4360,7 @@ data:
       "gloss": "to prefer"
       "concept": "prefer"
       "source": {"kind": "coined"}
-    - "form": "khuqay"
+    - "form": "khuqai"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to try"
@@ -4444,7 +4444,7 @@ data:
       "gloss": "to fight"
       "concept": "fight"
       "source": {"kind": "coined"}
-    - "form": "qaghay"
+    - "form": "qaghai"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to hit"
@@ -4486,7 +4486,7 @@ data:
       "gloss": "to stop"
       "concept": "stop"
       "source": {"kind": "coined"}
-    - "form": "khusoy"
+    - "form": "khusoi"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to continue"
@@ -4588,7 +4588,7 @@ data:
       "gloss": "everywhere"
       "concept": "everywhere"
       "source": {"kind": "coined"}
-    - "form": "chomey"
+    - "form": "chomei"
       "class": "part"
       "field": "Everyday space"
       "gloss": "Near"
@@ -5002,7 +5002,7 @@ data:
       "gloss": "already"
       "concept": "already"
       "source": {"kind": "coined"}
-    - "form": "khokhoy"
+    - "form": "khokhoi"
       "class": "adv"
       "field": "Everyday time"
       "gloss": "still; the named action or condition continues"
@@ -5666,7 +5666,7 @@ data:
       "gloss": "for example"
       "concept": "for-example"
       "source": {"kind": "coined"}
-    - "form": "juzovey"
+    - "form": "juzovei"
       "class": "part"
       "field": "Everyday logic"
       "gloss": "Except"
@@ -5774,7 +5774,7 @@ data:
       "gloss": "new"
       "concept": "new"
       "source": {"kind": "coined"}
-    - "form": "chomoy"
+    - "form": "chomoi"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "old; not new"
@@ -5868,13 +5868,13 @@ data:
       "gloss": "valuable"
       "concept": "valuable"
       "source": {"kind": "coined"}
-    - "form": "zudey"
+    - "form": "zudei"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "worthless"
       "concept": "worthless"
       "source": {"kind": "coined"}
-    - "form": "khukheney"
+    - "form": "khukhenei"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "useful"
@@ -6051,7 +6051,7 @@ data:
       "gloss": "prohibit"
       "concept": "prohibit"
       "source": {"kind": "coined"}
-    - "form": "jedey"
+    - "form": "jedei"
       "class": "adj"
       "field": "Everyday modality"
       "gloss": "free to act; not restrained in the relevant action"
@@ -6470,7 +6470,7 @@ data:
       "gloss": "poverty"
       "concept": "poverty"
       "source": {"kind": "coined"}
-    - "form": "qoyoy"
+    - "form": "qoyoi"
       "class": "n"
       "field": "Everyday society"
       "gloss": "Property"
@@ -6542,7 +6542,7 @@ data:
       "gloss": "completion"
       "concept": "completion"
       "source": {"kind": "coined"}
-    - "form": "khozey"
+    - "form": "khozei"
       "class": "n"
       "field": "Everyday existence"
       "gloss": "Change"
@@ -6602,7 +6602,7 @@ data:
       "gloss": "unreal"
       "concept": "unreal"
       "source": {"kind": "coined"}
-    - "form": "khobaghoy"
+    - "form": "khobaghoi"
       "class": "adj"
       "field": "Everyday existence"
       "gloss": "Natural"
@@ -7158,16 +7158,16 @@ data:
     - {form: chögönöm, instead: chogonom, why: "respelled with plain o and u"}
     - {form: chöken, instead: choken, why: "respelled with plain o and u"}
     - {form: chökhes, instead: chokhes, why: "respelled with plain o and u"}
-    - {form: chökhöchöy, instead: chokhochoy, why: "respelled with plain o and u"}
+    - {form: chökhöchöy, instead: chokhochoi, why: "respelled with plain o and u"}
     - {form: chömel, instead: chomel, why: "respelled with plain o and u"}
-    - {form: chömey, instead: chomey, why: "respelled with plain o and u"}
+    - {form: chömey, instead: chomei, why: "respelled with plain o and u"}
     - {form: chömüsil, instead: chomusil, why: "respelled with plain o and u"}
     - {form: chönez, instead: chonez, why: "respelled with plain o and u"}
     - {form: chövem, instead: chovem, why: "respelled with plain o and u"}
     - {form: chövik, instead: chovik, why: "respelled with plain o and u"}
     - {form: chöyikh, instead: choyikh, why: "respelled with plain o and u"}
     - {form: chöze, instead: choze, why: "respelled with plain o and u"}
-    - {form: chözemey, instead: chozemey, why: "respelled with plain o and u"}
+    - {form: chözemey, instead: chozemei, why: "respelled with plain o and u"}
     - {form: chözeyud, instead: chozeyud, why: "respelled with plain o and u"}
     - {form: chözüy, instead: chozuy, why: "respelled with plain o and u"}
     - {form: chübicher, instead: chubicher, why: "respelled with plain o and u"}
@@ -7192,7 +7192,7 @@ data:
     - {form: chüyöch, instead: chuyoch, why: "respelled with plain o and u"}
     - {form: chüyökh, instead: chuyokh, why: "respelled with plain o and u"}
     - {form: chüyözükh, instead: chuyozukh, why: "respelled with plain o and u"}
-    - {form: chüzirey, instead: chuzirey, why: "respelled with plain o and u"}
+    - {form: chüzirey, instead: chuzirei, why: "respelled with plain o and u"}
     - {form: jeböch, instead: jeboch, why: "respelled with plain o and u"}
     - {form: jeböd, instead: jebod, why: "respelled with plain o and u"}
     - {form: jebüz, instead: jebuz, why: "respelled with plain o and u"}
@@ -7242,7 +7242,7 @@ data:
     - {form: jükhükh, instead: jukhukh, why: "respelled with plain o and u"}
     - {form: jüküt, instead: jukut, why: "respelled with plain o and u"}
     - {form: jümesh, instead: jumesh, why: "respelled with plain o and u"}
-    - {form: jümey, instead: jumey, why: "respelled with plain o and u"}
+    - {form: jümey, instead: jumei, why: "respelled with plain o and u"}
     - {form: jümöch, instead: jumoch, why: "respelled with plain o and u"}
     - {form: jünid, instead: junid, why: "respelled with plain o and u"}
     - {form: jürit, instead: jurit, why: "respelled with plain o and u"}
@@ -7258,7 +7258,7 @@ data:
     - {form: jüyemüz, instead: juyemuz, why: "respelled with plain o and u"}
     - {form: jüyiz, instead: juyiz, why: "respelled with plain o and u"}
     - {form: jüzik, instead: juzik, why: "respelled with plain o and u"}
-    - {form: jüzövey, instead: juzovey, why: "respelled with plain o and u"}
+    - {form: jüzövey, instead: juzovei, why: "respelled with plain o and u"}
     - {form: jüzüm, instead: juzum, why: "respelled with plain o and u"}
     - {form: khekhül, instead: khekhul, why: "respelled with plain o and u"}
     - {form: khemüm, instead: khemum, why: "respelled with plain o and u"}
@@ -7283,7 +7283,7 @@ data:
     - {form: khötünür, instead: khotunur, why: "respelled with plain o and u"}
     - {form: khöyegöt, instead: khoyegot, why: "respelled with plain o and u"}
     - {form: khözen, instead: khozen, why: "respelled with plain o and u"}
-    - {form: khözey, instead: khozey, why: "respelled with plain o and u"}
+    - {form: khözey, instead: khozei, why: "respelled with plain o and u"}
     - {form: khözin, instead: khozin, why: "respelled with plain o and u"}
     - {form: khüben, instead: khuben, why: "respelled with plain o and u"}
     - {form: khüber, instead: khuber, why: "respelled with plain o and u"}
@@ -7294,7 +7294,7 @@ data:
     - {form: khügid, instead: khugid, why: "respelled with plain o and u"}
     - {form: khüket, instead: khuket, why: "respelled with plain o and u"}
     - {form: khükhech, instead: khukhech, why: "respelled with plain o and u"}
-    - {form: khükheney, instead: khukheney, why: "respelled with plain o and u"}
+    - {form: khükheney, instead: khukhenei, why: "respelled with plain o and u"}
     - {form: khükhich, instead: khukhich, why: "respelled with plain o and u"}
     - {form: khükhöyöm, instead: khukhoyom, why: "respelled with plain o and u"}
     - {form: khükhüküy, instead: khukhukuy, why: "respelled with plain o and u"}
@@ -7351,10 +7351,10 @@ data:
     - {form: zösit, instead: zosit, why: "respelled with plain o and u"}
     - {form: zötel, instead: zotel, why: "respelled with plain o and u"}
     - {form: zötöl, instead: zotol, why: "respelled with plain o and u"}
-    - {form: zötöy, instead: zotoy, why: "respelled with plain o and u"}
+    - {form: zötöy, instead: zotoi, why: "respelled with plain o and u"}
     - {form: zövek, instead: zovek, why: "respelled with plain o and u"}
     - {form: zövet, instead: zovet, why: "respelled with plain o and u"}
-    - {form: zövey, instead: zovey, why: "respelled with plain o and u"}
+    - {form: zövey, instead: zovei, why: "respelled with plain o and u"}
     - {form: zözedit, instead: zozedit, why: "respelled with plain o and u"}
     - {form: zözül, instead: zozul, why: "respelled with plain o and u"}
     - {form: züben, instead: zuben, why: "respelled with plain o and u"}
@@ -7362,7 +7362,7 @@ data:
     - {form: züchir, instead: zuchir, why: "respelled with plain o and u"}
     - {form: züchöchüs, instead: zuchochus, why: "respelled with plain o and u"}
     - {form: züdes, instead: zudes, why: "respelled with plain o and u"}
-    - {form: züdey, instead: zudey, why: "respelled with plain o and u"}
+    - {form: züdey, instead: zudei, why: "respelled with plain o and u"}
     - {form: zügöt, instead: zugot, why: "respelled with plain o and u"}
     - {form: zügüniz, instead: zuguniz, why: "respelled with plain o and u"}
     - {form: zükhel, instead: zukhel, why: "respelled with plain o and u"}
@@ -7376,7 +7376,7 @@ data:
     - {form: zünüd, instead: zunud, why: "respelled with plain o and u"}
     - {form: züser, instead: zuser, why: "respelled with plain o and u"}
     - {form: züsesh, instead: zusesh, why: "respelled with plain o and u"}
-    - {form: züsüvöy, instead: zusuvoy, why: "respelled with plain o and u"}
+    - {form: züsüvöy, instead: zusuvoi, why: "respelled with plain o and u"}
     - {form: züvid, instead: zuvid, why: "respelled with plain o and u"}
     - {form: züvün, instead: zuvun, why: "respelled with plain o and u"}
     - {form: züvüzes, instead: zuvuzes, why: "respelled with plain o and u"}

@@ -28,7 +28,7 @@ He answers for the hovs and gudar he has consecrated and ordained, and keeps the
 
 ## Offices Open at This Standing
 
-None above it within the faith; the Landsgudi who hallows the ting island at [[place-domsey|Domsey]] is an office of the King of All Clans assembly rather than a further rank of any one faith.
+None above it within the faith; the Landsgudi who hallows the ting island at [[place-domsey|Domsei]] is an office of the King of All Clans assembly rather than a further rank of any one faith.
 
 ## Where This Standing Is Held
 

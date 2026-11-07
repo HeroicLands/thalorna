@@ -73,7 +73,7 @@ None. The shamans named her, and the clans that agree follow her.
 
 ### Enemies
 
-[[being-godstanhrdl|Godstan Hardley]], the Vandraks at Kaermouth. [[being-alfmundkrtn|Alfmund Kaerton]], who has come north to take the field. [[being-bronnakh|Bronnakh]] of the Kelgar, whose clans graze the high pastures.
+[[being-godstanhrdl|Godstan Hardlei]], the Vandraks at Kaermouth. [[being-alfmundkrtn|Alfmund Kaerton]], who has come north to take the field. [[being-bronnakh|Bronnakh]] of the Kelgar, whose clans graze the high pastures.
 
 ### Affiliations
 

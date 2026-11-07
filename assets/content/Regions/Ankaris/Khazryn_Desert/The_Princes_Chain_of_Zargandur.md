@@ -30,7 +30,7 @@ The chain does nothing a goldsmith could not make. Its worth is the name on its 
 
 - **A broker in Zargandur's Tellumi quarter**, a soft-spoken man who weighs silver with his eyes shut, wants it more than any seal out of the wash and will not name it. The last two men he sent for it did not come back to be paid.
 - **The Tellumi of the quarter** pay a party that returns it a good deal more than a goldsmith would.
-- **[[being-gureshayzarg|Gureshay of Zargandur]]**, heir of the house in exile in [[affiliation-kngdmmrdd|the Kingdom of Amradad]], wants proof of who died in the palace and where. A signet buys a place at his table; the chain is more than a signet.
+- **[[being-gureshayzarg|Gureshai of Zargandur]]**, heir of the house in exile in [[affiliation-kngdmmrdd|the Kingdom of Amradad]], wants proof of who died in the palace and where. A signet buys a place at his table; the chain is more than a signet.
 - **The prefect's riders** ask for the chain from any party that comes up out of the wash with it, and the Zhoqarod captain who leads them has long wanted an excuse to hang a foreigner.
 
 ## Hooks {#hooks}

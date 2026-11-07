@@ -1,6 +1,6 @@
 ---
 shortcode: aldwngrylng
-name: {full: Aldwald Grayling}
+name: {full: Aldwald Grailing}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -390,11 +390,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Aldwald Grayling is a 48-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
+Aldwald Grailing is a 48-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Aldwald Grayling is a beggar.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Aldwald Grailing is a beggar.
 
 Aldwald once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwald is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
 

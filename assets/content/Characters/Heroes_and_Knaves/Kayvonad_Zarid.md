@@ -1,6 +1,6 @@
 ---
 shortcode: kayvondzrd
-name: {full: Kayvonad Zarid, given: Kayvonad, clan: Zarid}
+name: {full: Kaivonad Zarid, given: Kaivonad, clan: Zarid}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -418,9 +418,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kayvondzrd|Kayvonad Zarid]]{float=top-left}
+![[kayvondzrd|Kaivonad Zarid]]{float=top-left}
 
-Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, and high cheeks.
+Kaivonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -428,32 +428,32 @@ Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved
 
 ### The Promising Scholar
 
-Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazrin Desert]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the [University of Kaldar]{.name data-type="affiliation"} in [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master [Aldrin Kovoss]{.name data-type="being/npc"}. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
+Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazrin Desert]], Kaivonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the [University of Kaldar]{.name data-type="affiliation"} in [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master [Aldrin Kovoss]{.name data-type="being/npc"}. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
 
 ### The Fall from Grace
 
-For nearly two decades, Kayvonad published extensively and achieved considerable renown throughout the academic world. His new catalytic crystalline matrices allowed for higher-yield transmutations and more stable results. However, his fortunes shifted dramatically when his longtime colleague and rival, **[[being-pedunaybulam|Pedunay Bulamun]]**, published a paper demonstrating mathematical errors in Kayvonad's foundational work. Rather than acknowledging the corrections gracefully, Kayvonad publicly attacked Bulamun's methodology and character, claiming his rival had plagiarized from stolen notes. The resulting scandal divided the department, damaged both their reputations, and led to an acrimonious split. Though Kayvonad retained his position, he was stripped of his leadership role and relegated to diminished research funding.
+For nearly two decades, Kaivonad published extensively and achieved considerable renown throughout the academic world. His new catalytic crystalline matrices allowed for higher-yield transmutations and more stable results. However, his fortunes shifted dramatically when his longtime colleague and rival, **[[being-pedunaybulam|Pedunai Bulamun]]**, published a paper demonstrating mathematical errors in Kaivonad's foundational work. Rather than acknowledging the corrections gracefully, Kaivonad publicly attacked Bulamun's methodology and character, claiming his rival had plagiarized from stolen notes. The resulting scandal divided the department, damaged both their reputations, and led to an acrimonious split. Though Kaivonad retained his position, he was stripped of his leadership role and relegated to diminished research funding.
 
 ### Present Isolation
 
-Now in his fifties, Kayvonad continues his research in a state of dignified isolation, convinced that he was wronged and that history will vindicate him. He maintains the title of Senior Researcher at the University of Kaldar, though he now deals with his colleagues seldom and only as business requires. His laboratory is a marvel of arcane equipment and alchemical apparatus, filled with bubbling retorts and shimmering essences, yet it is more a monument to past glory than a working center of discovery. He has become increasingly bitter about the "mediocrity" that runs his field, dismissive of younger scholars, and obsessively focused on proving his theories through whatever means necessary.
+Now in his fifties, Kaivonad continues his research in a state of dignified isolation, convinced that he was wronged and that history will vindicate him. He maintains the title of Senior Researcher at the University of Kaldar, though he now deals with his colleagues seldom and only as business requires. His laboratory is a marvel of arcane equipment and alchemical apparatus, filled with bubbling retorts and shimmering essences, yet it is more a monument to past glory than a working center of discovery. He has become increasingly bitter about the "mediocrity" that runs his field, dismissive of younger scholars, and obsessively focused on proving his theories through whatever means necessary.
 
 ## Psyche
 
 ### Personality
 
-Kayvonad is a brilliant but embittered academic. Intellectually rigorous to the point of pedantry, he can discourse for hours on minute variations in crystalline structure or the subtle differences between catalytic mechanisms. His brilliance is undeniable but increasingly weaponized—he uses his superior knowledge not to advance understanding but to diminish others. He is caustic and dismissive toward those he deems intellectually inferior, a category that encompasses most of humanity. He is also deeply lonely, and hungers for acknowledgment that he was wronged.
+Kaivonad is a brilliant but embittered academic. Intellectually rigorous to the point of pedantry, he can discourse for hours on minute variations in crystalline structure or the subtle differences between catalytic mechanisms. His brilliance is undeniable but increasingly weaponized—he uses his superior knowledge not to advance understanding but to diminish others. He is caustic and dismissive toward those he deems intellectually inferior, a category that encompasses most of humanity. He is also deeply lonely, and hungers for acknowledgment that he was wronged.
 
 He has few friends and considers most company an exhausting necessity. He drinks heavily in the evenings, though he never allows alcohol to impair his work during daylight hours. He is capable of surprising generosity toward promising young scholars—but only those who display sufficient deference to his learning and unqualified agreement with his theoretical positions.
 
 ### Motivation
 
-Kayvonad is motivated primarily by a need for vindication. He is convinced that Pedunay Bulamun deliberately ruined his standing out of jealousy, and that the academic establishment failed in their duty to recognize this injustice. He works obsessively to achieve discoveries that will prove his theories correct and restore his reputation to what he believes it should have been. Underlying this is a deeper, more melancholic motivation: a desperate wish to prove that his life's work mattered, that his contribution to human knowledge was not overshadowed by personal failures and petty academic politics.
+Kaivonad is motivated primarily by a need for vindication. He is convinced that Pedunai Bulamun deliberately ruined his standing out of jealousy, and that the academic establishment failed in their duty to recognize this injustice. He works obsessively to achieve discoveries that will prove his theories correct and restore his reputation to what he believes it should have been. Underlying this is a deeper, more melancholic motivation: a desperate wish to prove that his life's work mattered, that his contribution to human knowledge was not overshadowed by personal failures and petty academic politics.
 
 ### Strengths
 
 Mineral Transmutation Mastery
-: Kayvonad has no equal in the stable conversion of base materials into precious substances. His theoretical understanding of the underlying mechanisms is perhaps unsurpassed in the known world.
+: Kaivonad has no equal in the stable conversion of base materials into precious substances. His theoretical understanding of the underlying mechanisms is perhaps unsurpassed in the known world.
 
 Mathematical Genius
 : His reasoning and mathematical ability are of the first order. He can work through complex calculations that would confound ordinary scholars, finding patterns in numerical data that others miss.
@@ -470,7 +470,7 @@ Ritualistic Understanding
 ### Weaknesses
 
 Physical Fragility
-: Kayvonad possesses minimal strength or endurance. Years of sedentary work have left him poorly suited to physical exertion or combat of any kind.
+: Kaivonad possesses minimal strength or endurance. Years of sedentary work have left him poorly suited to physical exertion or combat of any kind.
 
 Arrogant Dismissiveness
 : His conviction in his own intellectual superiority blinds him to insights offered by others. He often rejects valuable information because it comes from sources he considers beneath consideration.
@@ -496,11 +496,11 @@ University of Kaldar Administration
 
 ### Enemies
 
-Pedunay Bulamun
-: His former colleague whose mathematical critique became the basis for Kayvonad's fall from prominence. Bulamun has since become the favored elder statesman of the University's alchemical research, a position Kayvonad considers his by right.
+Pedunai Bulamun
+: His former colleague whose mathematical critique became the basis for Kaivonad's fall from prominence. Bulamun has since become the favored elder statesman of the University's alchemical research, a position Kaivonad considers his by right.
 
 [The Cabal of New Theorists]{.name data-type="affiliation"}
-: A faction of younger scholars at the University who have openly criticized Kayvonad's methodology as outdated and advocated for embracing newer theoretical frameworks that he views as intellectually corrupt.
+: A faction of younger scholars at the University who have openly criticized Kaivonad's methodology as outdated and advocated for embracing newer theoretical frameworks that he views as intellectually corrupt.
 
 ### Affiliations
 
@@ -513,16 +513,16 @@ University of Kaldar
 ## Plot Hooks
 
 The Impossible Transmutation
-: Kayvonad discovers evidence that someone has achieved a transmutation he thought theoretically impossible—lead to gold through a previously unknown catalytic mechanism. He hires the party to locate the alchemist responsible, convinced this person either stole his work or has made a real breakthrough. The investigation reveals that Bulamun himself appears to be behind the discovery, and Kayvonad must grapple with the possibility that his rival finally achieved what he could not, or that his rival's discovery is built on fraud similar to the accusations leveled against Kayvonad himself decades ago.
+: Kaivonad discovers evidence that someone has achieved a transmutation he thought theoretically impossible—lead to gold through a previously unknown catalytic mechanism. He hires the party to locate the alchemist responsible, convinced this person either stole his work or has made a real breakthrough. The investigation reveals that Bulamun himself appears to be behind the discovery, and Kaivonad must grapple with the possibility that his rival finally achieved what he could not, or that his rival's discovery is built on fraud similar to the accusations leveled against Kaivonad himself decades ago.
 
 The Forbidden Formula
-: In his private library, Kayvonad discovers a fragmentary ancient text describing a transmutation that could theoretically convert lead into a substance with properties approaching that of mithril or other fabled materials. The process requires executing a ritual of dangerous complexity that would require the party's assistance and likely put them all at serious personal risk. He offers substantial payment for their help but refuses to fully explain what he's attempting until they're committed to the endeavor. When partial results suggest the ritual might succeed, darker questions emerge about whether the transmutation is safe, and whether creating such powerful materials has consequences the ancient alchemists deliberately hid.
+: In his private library, Kaivonad discovers a fragmentary ancient text describing a transmutation that could theoretically convert lead into a substance with properties approaching that of mithril or other fabled materials. The process requires executing a ritual of dangerous complexity that would require the party's assistance and likely put them all at serious personal risk. He offers substantial payment for their help but refuses to fully explain what he's attempting until they're committed to the endeavor. When partial results suggest the ritual might succeed, darker questions emerge about whether the transmutation is safe, and whether creating such powerful materials has consequences the ancient alchemists deliberately hid.
 
 The Bulamun Conspiracy
-: The party discovers evidence that Bulamun did, in fact, plagiarize critical components of his work from Kayvonad's private notes, and that the mathematical "errors" Bulamun claimed to find may have been doctored. Kayvonad's vindication seems within reach, but the evidence is fragmentary and circumstantial. And helping Kayvonad expose Bulamun would damage the University's reputation and shake confidence in decades of accepted research. The party must pick its way through questions of academic integrity, justice, and the University's self-preservation while Kayvonad grows increasingly focused on revenge rather than truth.
+: The party discovers evidence that Bulamun did, in fact, plagiarize critical components of his work from Kaivonad's private notes, and that the mathematical "errors" Bulamun claimed to find may have been doctored. Kaivonad's vindication seems within reach, but the evidence is fragmentary and circumstantial. And helping Kaivonad expose Bulamun would damage the University's reputation and shake confidence in decades of accepted research. The party must pick its way through questions of academic integrity, justice, and the University's self-preservation while Kaivonad grows increasingly focused on revenge rather than truth.
 
 The Material Crisis
-: A shipment of rare mineral samples meant for Kayvonad's research is hijacked by bandits or agents of a rival faction. These materials are essential for an ongoing transmutation project that has consumed his life's savings and his remaining credibility at the University. If he fails to complete the work, his funding will be terminated and his theories will be abandoned. The party must recover the stolen materials, but in doing so they discover that the theft was orchestrated by someone within the University who questions whether Kayvonad's research is leading him toward transmutations that should not be permitted.
+: A shipment of rare mineral samples meant for Kaivonad's research is hijacked by bandits or agents of a rival faction. These materials are essential for an ongoing transmutation project that has consumed his life's savings and his remaining credibility at the University. If he fails to complete the work, his funding will be terminated and his theories will be abandoned. The party must recover the stolen materials, but in doing so they discover that the theft was orchestrated by someone within the University who questions whether Kaivonad's research is leading him toward transmutations that should not be permitted.
 
 The Resurrection of Aldrin Kovoss
-: Kayvonad claims to have found evidence that his mentor, the famous Master Aldrin Kovoss, did not die decades ago as was universally believed, but instead achieved a form of alchemical immortality through an experimental transmutation. The evidence points to Kovoss having undergone a process that transformed him into something between human and mineral construct. If true, and if Kayvonad can find him, Kovoss might provide the final insights Kayvonad needs to complete his life's work—or might represent a cautionary tale about the dangers of pursuing transmutation beyond all ethical bounds. The party must track Kovoss across the Khazrin Desert while dealing with Kayvonad's increasingly obsessive and morally questionable behavior.
+: Kaivonad claims to have found evidence that his mentor, the famous Master Aldrin Kovoss, did not die decades ago as was universally believed, but instead achieved a form of alchemical immortality through an experimental transmutation. The evidence points to Kovoss having undergone a process that transformed him into something between human and mineral construct. If true, and if Kaivonad can find him, Kovoss might provide the final insights Kaivonad needs to complete his life's work—or might represent a cautionary tale about the dangers of pursuing transmutation beyond all ethical bounds. The party must track Kovoss across the Khazrin Desert while dealing with Kaivonad's increasingly obsessive and morally questionable behavior.

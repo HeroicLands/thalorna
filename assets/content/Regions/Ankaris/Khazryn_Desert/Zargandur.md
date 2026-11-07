@@ -34,7 +34,7 @@ Nights in the city are lit. The Tellumi quarter keeps lamps burning at every doo
 
 ## Under the Atarzád {#present}
 
-The Tellumi quarter is a poor district in the shadow of the walls. [The Breaking]{.name data-type="lore/history"} took the city's princes and officers, and the people left are craftsmen, smiths who work under Zhoqarod overseers, and the families of men who died in the siege. The old war-house, the [House of Zargandur]{.name data-type="affiliation/lineage"}, survives in exile, and its heir, [Gureshay of Zargandur]{.name data-type="being/npc"}, trains in Amradad for a return he has set no date for. In the quarter, young men take a particular look when a Zhoqarod patrol passes, and the patrols know the look.
+The Tellumi quarter is a poor district in the shadow of the walls. [The Breaking]{.name data-type="lore/history"} took the city's princes and officers, and the people left are craftsmen, smiths who work under Zhoqarod overseers, and the families of men who died in the siege. The old war-house, the [House of Zargandur]{.name data-type="affiliation/lineage"}, survives in exile, and its heir, [Gureshai of Zargandur]{.name data-type="being/npc"}, trains in Amradad for a return he has set no date for. In the quarter, young men take a particular look when a Zhoqarod patrol passes, and the patrols know the look.
 
 The Zhoqarod rule by garrison. They post watchers at the gates, the weirs and the three bridges, and a Tellumi caught carrying a blade after dark is beaten and fined. A prefect of the tribe sits in the old palace and hears complaints on feast days. The Atarzád choose their **Zhudek** from Zhoqarod more often than from any other tribe, and the city is proud of that.
 
@@ -44,7 +44,7 @@ Outside the northern wall, past the last irrigated plot, lies the [[place-henhul
 
 ## Hooks and Dangers
 
-- **The reclamation plan.** Gureshay needs to know how many men the Zhoqarod keep at each gate. A party that can walk through Zargandur and count would be paid in Amradad, and caught in Zargandur would be treated as a spy.
+- **The reclamation plan.** Gureshai needs to know how many men the Zhoqarod keep at each gate. A party that can walk through Zargandur and count would be paid in Amradad, and caught in Zargandur would be treated as a spy.
 - **The horse-fair.** Buyers from three lands meet at the fair, and so do the horse thieves of the uplands. A herd driven off in the dust of the sales is hard to recover, and a Zhoqarod patrol on the road wants someone to blame.
 - **The weirs.** In a dry year the Zhoqarod cut the Tellumi plots off first. A Tellumi water-engineer would pay a stranger to open a sluice at the right hour, and the penalty for opening one is hanging.
 - **Garrison brawls.** The streets near the garrison turn violent when the soldiers drink, and a stranger with a sword at his hip is a natural target.

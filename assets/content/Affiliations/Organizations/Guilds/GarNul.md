@@ -82,13 +82,13 @@ Most Khelathi game-taking is amateur: the household's livestock, the village's s
 
 Gar'Nul works much as [[affiliation-garmelnu|Gar'Melnu]] does in its own trade. It sets standards, licenses practitioners, examines apprentices, arbitrates between members, negotiates with the imperial administration for the profession and settles disputes among its own. It does not hunt collectively. Each licensed hunter works alone or in a small partnership, and the guild's job is to certify and to support, not to organize.
 
-### The Meglay and the Zeghet'Nelgu
+### The Meglai and the Zeghet'Nelgu
 
 Two bodies hunt in the empire without a Gar'Nul license, and the guild has made its peace with both.
 
-The **Meglay** are the hereditary hunter-warden caste, whose noble families hold ancient charters of their own. Their authority is older than the guild, so Gar'Nul's license does not bind them. By long-standing practice the Meglay families pay the guild informal courtesy dues, and the guild treats Meglay-conducted hunts as exempt from its examinations. The arrangement keeps both sides out of a jurisdictional fight that neither wants.
+The **Meglai** are the hereditary hunter-warden caste, whose noble families hold ancient charters of their own. Their authority is older than the guild, so Gar'Nul's license does not bind them. By long-standing practice the Meglai families pay the guild informal courtesy dues, and the guild treats Meglay-conducted hunts as exempt from its examinations. The arrangement keeps both sides out of a jurisdictional fight that neither wants.
 
-The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the [Khetai]{.name data-type="affiliation/lineage"} family's sacred hunt, are harder to place. Its members are nobles of the Meglay caste and exempt from the license, but their charter covers only their own stretch of the Zumelesh. Outside it they are technically hunting as Meglay nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
+The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the [Khetai]{.name data-type="affiliation/lineage"} family's sacred hunt, are harder to place. Its members are nobles of the Meglai caste and exempt from the license, but their charter covers only their own stretch of the Zumelesh. Outside it they are technically hunting as Meglai nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
 
 ## Joining and Rising
 
@@ -156,7 +156,7 @@ A member carries a stamped bronze token, the _nul-mudra_, bearing his license nu
 ## Relations
 
 - [[affiliation-genzetgarau|Genzet'Gar-Au]] is patron. The guild's charter and the court's standing favor reinforce each other.
-- The Meglay caste coexists with the guild formally, with mutual non-interference backed by informal payments and courtesies.
+- The Meglai caste coexists with the guild formally, with mutual non-interference backed by informal payments and courtesies.
 - The [[affiliation-zeghetnelgu|Zeghet'Nelgu]] are a peer Khelathi hunting institution, with a jurisdictional accommodation along the Zumelesh.
 - [[affiliation-garmelnu|Gar'Melnu]] is a sibling imperial chartered guild. The two cooperate, and they buy certain materials jointly: the hunters need blades and traps, and the smiths' suppliers need hides.
 - The temples of [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linkur|Faith of Linkur]] are the religious foundation, and senior elevations are conducted in temple rite.
@@ -167,7 +167,7 @@ Foreign hunters stand outside all of this. The guild licenses them case by case 
 
 - **The Falsified Cull.** A village on the Zumelesh has reported, and been paid for, a crocodile cull that a later inspection suggests was heavily exaggerated. The Master Hunter who sealed the report has produced documentation, and the headman swears it is false. The chapter council must investigate, and the master's seal is at stake either way.
 - **The Legendary Beast.** Master Latari, near death, has summoned [[being-akhrelrthllr|Akhrelu Reth'el'Leru]] to hand on knowledge of a creature he has never taught anyone: a beast of immense rarity that Latari has hunted, declined to kill and concealed for forty years. Once passed on, the knowledge will leak to powerful interests who will commission a hunt that the guild can neither openly support nor refuse.
-- **The Meglay Provocation.** A Meglay noble has begun running commercial-scale hunts under cover of his hereditary exemption, undercutting guild prices in the meat markets. The Council of the Long Spear's answer will test the accommodation that has kept the two bodies at peace for centuries.
+- **The Meglai Provocation.** A Meglai noble has begun running commercial-scale hunts under cover of his hereditary exemption, undercutting guild prices in the meat markets. The Council of the Long Spear's answer will test the accommodation that has kept the two bodies at peace for centuries.
 - **The Foreign Specialist.** A [[lore-vylarianclt|Vilérian]] beast-master claims an [[affiliation-ordoarcanis|Thordimalon]] license to procure rare fauna for arcane study and has begun working in Khelathi territory without a Gar'Nul license. The court has declined to intervene. The guild must decide whether to obstruct him, accommodate him or petition the Gar-Au to refuse **Arcane Order** procurement permits.
 
 ## See Also

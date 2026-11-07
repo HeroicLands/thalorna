@@ -471,7 +471,7 @@ Old Merchant [Khalib]{.name data-type="being/npc"}
 
 ### Enemies
 
-Captain [[being-kireshay|Kireshay]] and the [City Guard]{.name data-type="affiliation"}
+Captain [[being-kireshay|Kireshai]] and the [City Guard]{.name data-type="affiliation"}
 : The local garrison commander has made begging and vagrancy a personal crusade, and views Kamid specifically as a troublemaker and vagrant to be driven out or arrested.
 
 [The Creditor's Guild]{.name data-type="affiliation/guild"}

@@ -1,6 +1,6 @@
 ---
 shortcode: edrthgrylng
-name: {full: Edrith Grayling}
+name: {full: Edrith Grailing}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,11 +392,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Edrith Grayling is a 24-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
+Edrith Grailing is a 24-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Edrith Grayling is a hideworker.
+Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Edrith Grailing is a hideworker.
 
 Edrith learned the art of hideworking from her mother, who taught her the secrets of tanning and crafting leather into beautiful items. She specializes in creating garments and accessories that are both functional and fashionable. Edrith is known for her creativity and eye for design, and she often incorporates patterns into her work. While she enjoys her craft, she faces challenges in a male-dominated trade.
 

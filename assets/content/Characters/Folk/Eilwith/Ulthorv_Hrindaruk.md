@@ -50,7 +50,7 @@ Ulthorv Hrindaruk was born on the plain the year after the Nordmen took it, the 
 In the spring of 719 a forest tribe answered the cattle pact of the jarls of [[place-vuldstead|Vuldstead]] and [[place-drasknes|Drasknes]] by burning four steadings of Ulthorv's sworn men in the western Nordfells. The moot awarded him nothing, and he paid his men's losses himself. In the autumn he swore a pact of his own with [[being-vrithorvmrvd|Vrithorv Marvidrok]] of Vuldstead, to close the northern inlets to the free coasters, and their ships took a Thornbury coaster within the month. The coasters are Drasknes's trade, and its jarl, [[being-draskmilglrv|Draskmil Glarvendik]], has called for the seat to be put to the jarls at Midsomar.
 
 :::secret {title="The sailing days"}
-Ulthorv chose the Thornbury coaster because a factor at Stormveil sold him its sailing day. The factor serves the shipping house of [[being-harwingrymr|Harwin Greymore]], the First Senator of Ondareth, and the coaster belonged to a rival house. Ulthorv has bought two more sailing days for the spring.
+Ulthorv chose the Thornbury coaster because a factor at Stormveil sold him its sailing day. The factor serves the shipping house of [[being-harwingrymr|Harwin Greimore]], the First Senator of Ondareth, and the coaster belonged to a rival house. Ulthorv has bought two more sailing days for the spring.
 :::
 
 ## Psyche

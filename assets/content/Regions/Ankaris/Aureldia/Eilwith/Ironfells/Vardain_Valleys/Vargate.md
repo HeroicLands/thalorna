@@ -36,7 +36,7 @@ Vargate is the **end of the road**, and that is the only reason outsiders know t
 The road up is nearly six thousand feet of climb from the lowlands and is **shut by snow for a third of
 the year**, so the trade has a season and everybody plans around it. Trading caravans come up for
 Khazari goods—two or three times in the open months, from
-[[place-ashford|Ashford]] and [[place-greywater|Greywater]], less often from further—and Vargate is
+[[place-ashford|Ashford]] and [[place-greywater|Greiwater]], less often from further—and Vargate is
 where they stop. There is no arrangement by which a caravan proceeds further, no fee that buys it, and
 no exception on record. **No caravan has ever been allowed into the hold**, and no outsider has been up
 the road above the Weighing Yard.
@@ -48,7 +48,7 @@ Vardain factors answer with the same three sentences every year.
 ## The Market
 
 Below the yard is an ordinary and rather good mountain market, and this is where outsiders come. Buyers
-from Ashford and Greywater climb up two or three times a year for
+from Ashford and Greiwater climb up two or three times a year for
 the Khazari goods—instruments, fine tools, wire, springs, worked stone, and metalwork of a quality
 that makes mainland smiths ask uncomfortable questions about who really made it.
 
@@ -65,7 +65,7 @@ There is no second time, and the Vardain will not say what the second time consi
 
 ## The Present {#present}
 
-The Reeve of the Valleys, [[being-davrimhssk|Davrim Hessek]], is of a Vargate factor family and speaks for the valleys at the Weighing Yard. The newest runaways from the plain are lodged in the town until the elders find them ground, and the Reeve is buying grain from the lowland caravans in quantities the market has noticed. A Greywater buyer has begun telling the Ashford market which goods at Vargate are Khazari work, and the factors would like him to stop.
+The Reeve of the Valleys, [[being-davrimhssk|Davrim Hessek]], is of a Vargate factor family and speaks for the valleys at the Weighing Yard. The newest runaways from the plain are lodged in the town until the elders find them ground, and the Reeve is buying grain from the lowland caravans in quantities the market has noticed. A Greiwater buyer has begun telling the Ashford market which goods at Vargate are Khazari work, and the factors would like him to stop.
 
 ## See Also
 

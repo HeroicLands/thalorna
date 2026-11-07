@@ -1,6 +1,6 @@
 ---
 shortcode: dnstnhlmsly
-name: {full: Harstan Helmsley}
+name: {full: Harstan Helmslei}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -390,13 +390,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Harstan Helmsley is a 49-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
+Harstan Helmslei is a 49-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harstan Helmsley is a chieftain.
+Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harstan Helmslei is a chieftain.
 
-Harstan, known as "Helmsley" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Harstan struggles with diplomacy, often letting his temper dictate his actions.
+Harstan, known as "Helmslei" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Harstan struggles with diplomacy, often letting his temper dictate his actions.
 
 ## Psyche
 

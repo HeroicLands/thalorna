@@ -20,7 +20,7 @@ Five kingdoms share this coast, one tongue, one pantheon and one assembly. No em
 
 ## Five Kingdoms on Rock and Ice
 
-[[affiliation-kngdmnrdhm|Nordheim]] is the largest and first-ranked, with about 650,000 people, more than half again as many as any of the others. Its king rules from Knalthstead and usually convenes the assembly of all five kingdoms on [[place-domsey|Domsey]]. Come here for the court, the fleets and the sharpest politics.
+[[affiliation-kngdmnrdhm|Nordheim]] is the largest and first-ranked, with about 650,000 people, more than half again as many as any of the others. Its king rules from Knalthstead and usually convenes the assembly of all five kingdoms on [[place-domsey|Domsei]]. Come here for the court, the fleets and the sharpest politics.
 
 [[affiliation-kingdmnrgd|Norgaad]], at the center, keeps the old ways most strictly. Its Lawspeaker can call a [Great Moot]{.name data-type="lore/gathering"} at [[place-asgarthul|Asgarthul]], and Norgaad brokers peace when Nordheim and Malagna quarrel. Its mines are the richest in the north and its velvur the most respected.
 
@@ -62,7 +62,7 @@ A [[lore-konungrnk|king]] is chosen from the royal clans and acclaimed at the ti
 
 Not everyone is heard equally. A _[[lore-lidmadurrnk|lidmadur]]_ is free but has no clan, and answers through the following that vouches for him; a newcomer who settles in the north starts there. A [[lore-thrallrnk|thrall]] is owned outright and has no voice at all. Beyond them all stands the _[[lore-nidingrnk|niding]]_, outlawed by the ting for a crime no wergild, the compensation that settles a wrong, can settle: anyone may kill him without penalty, and a hall that feeds him answers for it.
 
-Every seventh year, at [[lore-sumarmal|Somarmál]], the five kings and their principal jarls land on Domsey for the [King of All Clans]{.name data-type="affiliation/governmental"}. A priest of the land walks the island's bounds first, striking each _hrend_ (boundary stone), and from then on a blow struck inside the stones is an offense no wergild settles. Twenty-seven stone seats ring the law-rock; Nordheim holds eight, and Norgaad and Vithgard both say their share undercounts them. The assembly has no officers and no revenue, only the weight of the rulers who agreed.
+Every seventh year, at [[lore-sumarmal|Somarmál]], the five kings and their principal jarls land on Domsei for the [King of All Clans]{.name data-type="affiliation/governmental"}. A priest of the land walks the island's bounds first, striking each _hrend_ (boundary stone), and from then on a blow struck inside the stones is an offense no wergild settles. Twenty-seven stone seats ring the law-rock; Nordheim holds eight, and Norgaad and Vithgard both say their share undercounts them. The assembly has no officers and no revenue, only the weight of the rulers who agreed.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -93,7 +93,7 @@ The wind is the [Jel-Ride]{.name data-type="lore/spirit"}: the dead who never ha
 
 ## The Ten and the Last Fire
 
-"They are going to lose," a Norgaad gudi tells newcomers, before he has given them a single god's name. The north holds that the ten gods of the [[affiliation-asguardian|Asguardian Pantheon]] cut the world from the body of the giant [[lore-hrimthurspr|Hrimthur]], and the north holds that at [[lore-aldarlok|Aldarlok]], the close of this age, they go down fighting against the fire and leave the next age to their heirs. The north worships the Ten because they know this and go out to meet it anyway. [[lore-odvardty|Odvar]] the All-Father and [[lore-solrundty|Solrún]] divide the honored dead between [[place-valsal|Valsal]] and [[place-solvangur|Solvangur]]; [[lore-thrunvalddty|Thrunvald]] blesses ships, and [[lore-eidgardty|Eidgar]] holds the oath-ring. The oath-broken, and those who die of sickness without distinction, pass to [[place-nulthey|Nulthey]] and fade, a teaching the faithful of Solrún soften.
+"They are going to lose," a Norgaad gudi tells newcomers, before he has given them a single god's name. The north holds that the ten gods of the [[affiliation-asguardian|Asguardian Pantheon]] cut the world from the body of the giant [[lore-hrimthurspr|Hrimthur]], and the north holds that at [[lore-aldarlok|Aldarlok]], the close of this age, they go down fighting against the fire and leave the next age to their heirs. The north worships the Ten because they know this and go out to meet it anyway. [[lore-odvardty|Odvar]] the All-Father and [[lore-solrundty|Solrún]] divide the honored dead between [[place-valsal|Valsal]] and [[place-solvangur|Solvangur]]; [[lore-thrunvalddty|Thrunvald]] blesses ships, and [[lore-eidgardty|Eidgar]] holds the oath-ring. The oath-broken, and those who die of sickness without distinction, pass to [[place-nulthey|Nulthei]] and fade, a teaching the faithful of Solrún soften.
 
 Worship has no center: no pontiff, no synod and no chief temple. A household pours the first mead of the day on its own _horgur_. The hov is the shrine-hall where a gudi or gudja keeps the rites, witnesses oaths and often leads the district as well. The central act is the blet, an offering shared by the gods, the living and the dead; what is offered is eaten, not destroyed. Breaking an oath is graver than murder in the faith's eyes. [[lore-nahilddty|Nahild]] of the underworld is one of the Ten, and her cult is suppressed in every kingdom; its hovs are hidden and its offerings refused.
 
@@ -144,7 +144,7 @@ These are the rules strangers break most often:
 - **Keep the lamp lit at Jel**, travel in company on the riding nights, and never answer a voice that calls your name from outside.
 - **Take nobody's seat.** A seat in a hall belongs to someone, and at the ting a seat follows the holder's grant.
 - **Change your paper before the border.** No hall in the five kingdoms takes a Vilérian note.
-- **Keep your hands on the table at Hringstead, and leave your sword in the boat at Domsey.**
+- **Keep your hands on the table at Hringstead, and leave your sword in the boat at Domsei.**
 - **A stone that has moved is a matter for the ting.** Do not settle a boundary with your neighbor at the gate.
 
 ## Ways In
@@ -153,7 +153,7 @@ A party can arrive by sea at Knalthstead or Gnarthborg, sign on with a free comp
 
 At the first hall, three questions place a character in the north: **Whose kin are you? What have you sworn? Who will stand behind you at the ting?**
 
-Campaigns start well from the remembered word. A dead man's reckoning names a debt nobody can account for. A boundary stone stands a pace from where the witness struck it last spring, and the two households must stand their fort-duty on the same wall in Targud. A Vithgard velva accused at [[place-askholm|Askholm]] and never tried is asked to sit the high seat again. A jarl's seat on Domsey stands empty because the king has moved the grant, and somebody wants the reason recited before the next sitting.
+Campaigns start well from the remembered word. A dead man's reckoning names a debt nobody can account for. A boundary stone stands a pace from where the witness struck it last spring, and the two households must stand their fort-duty on the same wall in Targud. A Vithgard velva accused at [[place-askholm|Askholm]] and never tried is asked to sit the high seat again. A jarl's seat on Domsei stands empty because the king has moved the grant, and somebody wants the reason recited before the next sitting.
 
 :::secret
 **For the GM:** The record here lives in people. A skald can be bought, threatened, killed or simply not present, and the Circle breaks the ring of any skald who falsifies a recital. A party that learns to ask who heard an oath, and who is still alive to say so, has made every skald, witness and grieving widow in the north into a player.

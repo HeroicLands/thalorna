@@ -33,5 +33,5 @@ What Hafvald was, and what became of him when the Ásvinir took the coast's pray
 [[affiliation-njorvencult|Njorven's cult]]
 : the people who are wrong about it
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the Fjord-Taking, before the sittings

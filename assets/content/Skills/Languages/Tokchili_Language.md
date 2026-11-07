@@ -5643,7 +5643,7 @@ data:
         - "tokchasko"
         - "yohakasko"
   elements:
-    - {form: hay-, position: opening, kind: given, sense: the sun, word: hayo, examples: [hayika]}
+    - {form: hai-, position: opening, kind: given, sense: the sun, word: hayo, examples: [hayika]}
     - form: tokch-
       position: opening
       kind: given

@@ -90,7 +90,7 @@ data:
 
 ## The Door-Faring
 
-In the summer of 523 AF, 237 HF by [[lore-domseycount|the Domsey count]], a Malagna captain named [Hvirnmil]{.name data-type="being/npc"} took a Provénzian merchant galley in the [[place-batarengulf|Gulf of Bataren]], and her pilot told him what lay beyond the western strait. The skalds of the [[affiliation-kingdomlgn|Kingdom of Malagna]] call the voyage that followed his Door-Faring, after the sailors' name for the strait, the one door of the warm sea. The crew sailed the galley south down the ocean coast, passed the strait forts under her imperial colors, and worked east along the northern shore through the end of summer. They came ashore at a fishing village on a deep bay in [[place-salkhalon|Salkalon]], took its stores and its smokehouse, and held it.
+In the summer of 523 AF, 237 HF by [[lore-domseycount|the Domsei count]], a Malagna captain named [Hvirnmil]{.name data-type="being/npc"} took a Provénzian merchant galley in the [[place-batarengulf|Gulf of Bataren]], and her pilot told him what lay beyond the western strait. The skalds of the [[affiliation-kingdomlgn|Kingdom of Malagna]] call the voyage that followed his Door-Faring, after the sailors' name for the strait, the one door of the warm sea. The crew sailed the galley south down the ocean coast, passed the strait forts under her imperial colors, and worked east along the northern shore through the end of summer. They came ashore at a fishing village on a deep bay in [[place-salkhalon|Salkalon]], took its stores and its smokehouse, and held it.
 
 On the ninth night, the eve of the autumn equinox and of [[lore-veturnetur|Veturnetur]] by the crew's own count, a squadron from [[place-castamar|Kastamar]] under [Holvethos Marendates]{.name data-type="being/npc"} fired the galley at her moorings. The wind carried the fire up the shingle into the village's forty-one boats and its net-lofts, and by morning the bay had burned. The crew went up the north headland with what they could carry.
 
@@ -100,7 +100,7 @@ The _felzos_ (legate) chose to starve the headland rather than storm it, and the
 
 ## The Terms
 
-In the spring of 524, 238 HF, the _therkos_ (governor) of [[affiliation-provincvld|Salkalon]], [Zenothas Varelis]{.name data-type="being/npc"}, offered terms rather than an assault: seven years at the oars of the Kastamar fleet, the captain rowing with his men, and passage home at the end of them. Twenty-eight went to the oars and three stayed in the village by the _therkos_'s leave. One of the three, [Dvilgvir]{.name data-type="being/npc"}, who had kept the fire, married Ilthera the next year. About eighteen of the rowers, Hvirnmil among them, came home to Malagna in 532 AF, the year of the thirty-sixth sitting on [[place-domsey|Domsey]], with imperial pay in their purses and the first account the north had of the [[affiliation-vylarinmpr|Vilérian Empire]]'s own coast.
+In the spring of 524, 238 HF, the _therkos_ (governor) of [[affiliation-provincvld|Salkalon]], [Zenothas Varelis]{.name data-type="being/npc"}, offered terms rather than an assault: seven years at the oars of the Kastamar fleet, the captain rowing with his men, and passage home at the end of them. Twenty-eight went to the oars and three stayed in the village by the _therkos_'s leave. One of the three, [Dvilgvir]{.name data-type="being/npc"}, who had kept the fire, married Ilthera the next year. About eighteen of the rowers, Hvirnmil among them, came home to Malagna in 532 AF, the year of the thirty-sixth sitting on [[place-domsey|Domsei]], with imperial pay in their purses and the first account the north had of the [[affiliation-vylarinmpr|Vilérian Empire]]'s own coast.
 
 ## What It Left
 
@@ -126,5 +126,5 @@ In the spring of 524, 238 HF, the _therkos_ (governor) of [[affiliation-provincv
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : the crew's kingdom
 
-[[lore-domseycount|The Domsey Count]] · [[lore-commoncal|the Vilérian Calendar]]
+[[lore-domseycount|The Domsei Count]] · [[lore-commoncal|the Vilérian Calendar]]
 : the two reckonings these dates are given in

@@ -199,7 +199,7 @@ data:
       gloss: disappointment; the feeling when a hope is not fulfilled
       concept: disappointment
     - {form: faith, class: n, field: Feelings and affections, gloss: faith, concept: faith}
-    - {form: joy, class: n, field: Feelings and affections, gloss: joy, concept: joy}
+    - {form: joi, class: n, field: Feelings and affections, gloss: joy, concept: joy}
     - form: happiness
       class: n
       field: Feelings and affections
@@ -270,7 +270,7 @@ data:
       gloss: compassion
       concept: compassion
     - {form: piti, class: n, field: Feelings and affections, gloss: pity, concept: pity}
-    - form: sharing anotheres joy or grief
+    - form: sharing anotheres joi or grief
       class: n
       field: Feelings and affections
       gloss: sympathy; sharing or understanding another person's feelings
@@ -493,7 +493,7 @@ data:
     - {form: brain, class: n, field: Senses and the body, gloss: brain, concept: brain}
     - {form: lung, class: n, field: Senses and the body, gloss: lung, concept: lung}
     - {form: liver, class: n, field: Senses and the body, gloss: liver, concept: liver}
-    - {form: kidney, class: n, field: Senses and the body, gloss: kidney, concept: kidney}
+    - {form: kidnei, class: n, field: Senses and the body, gloss: kidney, concept: kidney}
     - {form: gut, class: n, field: Senses and the body, gloss: an intestine, concept: intestine}
     - form: privi parts
       class: n
@@ -907,7 +907,7 @@ data:
       concept: door
       variants: [doors]
     - {form: lok, class: n, field: Needs and the household, gloss: a lock, concept: lock}
-    - {form: key, class: n, field: Needs and the household, gloss: a key, concept: key}
+    - {form: kei, class: n, field: Needs and the household, gloss: a key, concept: key}
     - form: window
       class: n
       field: Needs and the household
@@ -983,7 +983,7 @@ data:
       concept: wood
       variants: [woodes]
     - {form: metal, class: n, field: Needs and the household, gloss: metal, concept: metal}
-    - {form: klay, class: n, field: Needs and the household, gloss: clay, concept: clay}
+    - {form: klai, class: n, field: Needs and the household, gloss: clay, concept: clay}
     - {form: leather, class: n, field: Needs and the household, gloss: leather, concept: leather}
     - {form: wool, class: n, field: Needs and the household, gloss: wool, concept: wool}
     - {form: thread, class: n, field: Needs and the household, gloss: thread, concept: thread}
@@ -1006,7 +1006,7 @@ data:
       gloss: hill
       concept: hill
       variants: [hills]
-    - {form: valley, class: n, field: Land and living things, gloss: valley, concept: valley}
+    - {form: vallei, class: n, field: Land and living things, gloss: valley, concept: valley}
     - form: a plain
       class: n
       field: Land and living things
@@ -1206,7 +1206,7 @@ data:
     - {form: green, class: adj, field: Number and appearance, gloss: green, concept: green}
     - {form: yellow, class: adj, field: Number and appearance, gloss: yellow, concept: yellow}
     - {form: blue, class: adj, field: Number and appearance, gloss: blue, concept: blue}
-    - {form: grey, class: adj, field: Number and appearance, gloss: gray, concept: grey}
+    - {form: grei, class: adj, field: Number and appearance, gloss: gray, concept: grey}
     - {form: brown, class: adj, field: Number and appearance, gloss: brown, concept: brown}
     - form: light of kolour
       class: adj
@@ -1293,12 +1293,12 @@ data:
       gloss: to do
       concept: do
       variants: [dost, doth, doen, did, done]
-    - form: say
+    - form: sai
       class: v
       field: Doing and being
       gloss: to say
       concept: say
-      variants: [sayst, saith, sayen, said]
+      variants: [saist, saith, sayen, said]
     - form: speak
       class: v
       field: Doing and being
@@ -1479,7 +1479,7 @@ data:
       gloss: to break
       concept: break
       variants: [broke]
-    - {form: destroy, class: v, field: Doing and being, gloss: to destroy, concept: destroy}
+    - {form: destroi, class: v, field: Doing and being, gloss: to destroy, concept: destroy}
     - {form: mend, class: v, field: Doing and being, gloss: to repair, concept: repair}
     - {form: to change, class: v, field: Doing and being, gloss: to change, concept: change-verb}
     - form: tell
@@ -1686,7 +1686,7 @@ data:
     - {form: forward, class: adv, field: Place and time, gloss: forward, concept: forward}
     - {form: bakward, class: adv, field: Place and time, gloss: backward, concept: backward}
     - {form: toward, class: part, field: Place and time, gloss: toward, concept: toward}
-    - {form: away, class: adv, field: Place and time, gloss: away, concept: away}
+    - {form: awai, class: adv, field: Place and time, gloss: away, concept: away}
     - {form: through, class: part, field: Place and time, gloss: through, concept: through}
     - {form: akross, class: part, field: Place and time, gloss: across, concept: across}
     - form: round about
@@ -1709,7 +1709,7 @@ data:
       field: Place and time
       gloss: position; the place occupied by something
       concept: position
-    - form: which way
+    - form: which wai
       class: n
       field: Place and time
       gloss: direction; the way something faces or goes
@@ -1717,12 +1717,12 @@ data:
     - {form: distanse, class: n, field: Place and time, gloss: distance, concept: distance}
     - {form: time, class: n, field: Place and time, gloss: time, concept: time, variants: [times]}
     - {form: moment, class: n, field: Place and time, gloss: moment, concept: moment}
-    - form: day
+    - form: dai
       class: n
       field: Place and time
       gloss: day
       concept: day
-      variants: [dayes, days]
+      variants: [dayes, dais]
     - form: night
       class: n
       field: Place and time
@@ -1744,8 +1744,8 @@ data:
       field: Place and time
       gloss: [at that time, introducing the consequence of a condition]
       concept: [then, then-conditional]
-    - {form: today, class: adv, field: Place and time, gloss: today, concept: today}
-    - {form: yesterday, class: adv, field: Place and time, gloss: yesterday, concept: yesterday}
+    - {form: todai, class: adv, field: Place and time, gloss: today, concept: today}
+    - {form: yesterdai, class: adv, field: Place and time, gloss: yesterday, concept: yesterday}
     - {form: tomorrow, class: adv, field: Place and time, gloss: tomorrow, concept: tomorrow}
     - form: time past
       class: n
@@ -1771,7 +1771,7 @@ data:
       field: Place and time
       gloss: from a stated past time until now
       concept: since-time
-    - {form: always, class: adv, field: Place and time, gloss: always, concept: always}
+    - {form: alwais, class: adv, field: Place and time, gloss: always, concept: always}
     - {form: often, class: adv, field: Place and time, gloss: often, concept: often}
     - {form: sometimes, class: adv, field: Place and time, gloss: sometimes, concept: sometimes}
     - {form: seldom, class: adv, field: Place and time, gloss: rarely; not often, concept: rarely}
@@ -1834,7 +1834,7 @@ data:
     - {form: season, class: n, field: Place and time, gloss: season, concept: season}
     - {form: year, class: n, field: Place and time, gloss: year, concept: year, variants: [years]}
     - {form: month, class: n, field: Place and time, gloss: month, concept: month}
-    - form: daybreak
+    - form: daibreak
       class: n
       field: Place and time
       gloss: dawn; the first light of day
@@ -1893,7 +1893,7 @@ data:
       concept: she
       variants: [her]
     - {form: it, class: pron, field: Reference and questions, gloss: it, concept: it}
-    - form: they
+    - form: thei
       class: pron
       field: Reference and questions
       gloss: several people or things as subject; them as object
@@ -2049,7 +2049,7 @@ data:
       gloss: yes; an affirmative response
       concept: yes
       variants: [yes]
-    - form: nay
+    - form: nai
       class: part
       field: Truth and reasoning
       gloss: no; a negative response
@@ -2427,12 +2427,12 @@ data:
       field: Ability and conversation
       gloss: impossible
       concept: impossible
-    - form: may
+    - form: mai
       class: v
       field: Ability and conversation
       gloss: to have permission to act; an auxiliary followed by a bare verb
       concept: may-permission
-      variants: [mayst]
+      variants: [maist]
     - form: might
       class: v
       field: Ability and conversation
@@ -2511,7 +2511,7 @@ data:
       field: Ability and conversation
       gloss: accidental; happening without intention
       concept: accidental
-    - form: Good day
+    - form: Good dai
       class: call
       field: Ability and conversation
       gloss: hello; a greeting on meeting someone
@@ -2526,7 +2526,7 @@ data:
       field: Ability and conversation
       gloss: welcome; a greeting of hospitality
       concept: expression-welcome
-    - form: I pray thee
+    - form: I prai thee
       class: call
       field: Ability and conversation
       gloss: please; a courteous introduction to a request addressed to one person
@@ -2621,7 +2621,7 @@ data:
       field: Ability and conversation
       gloss: I do not understand; stating a failure to comprehend
       concept: expression-i-do-not-understand
-    - form: "How sayst thou this in Eilwìthi."
+    - form: "How saist thou this in Eilwìthi."
       class: call
       field: Ability and conversation
       gloss: How do you say this in Eilwìthi? A request for a translation or the words that express a thing or thought
@@ -2649,7 +2649,7 @@ data:
       gloss: ["a human being, regardless of sex", an adult male human being]
       concept: [human, man]
     - {form: woman, class: n, field: Kindred and society, gloss: woman, concept: woman}
-    - form: boy
+    - form: boi
       class: n
       field: Kindred and society
       gloss: boy
@@ -2855,7 +2855,7 @@ data:
       field: Ordinary speech
       gloss: a flag carried as a sign of allegiance
     - {form: bark, class: n, field: Ordinary speech, gloss: the outer covering of a tree}
-    - form: barley
+    - form: barlei
       class: n
       field: Ordinary speech
       gloss: a cereal grain used for food and brewing
@@ -3111,7 +3111,7 @@ data:
       field: Ordinary speech
       gloss: freezing cold or its thin covering of ice
     - {form: furrow, class: n, field: Ordinary speech, gloss: a groove made in the earth by a plow}
-    - {form: gainsay, class: v, field: Ordinary speech, gloss: contradict or deny}
+    - {form: gainsai, class: v, field: Ordinary speech, gloss: contradict or deny}
     - {form: gap, class: n, field: Ordinary speech, gloss: an opening between things}
     - form: gentles
       class: n
@@ -3236,7 +3236,7 @@ data:
       gloss: make the sounds of amusement
       variants: [laughed]
     - {form: lawful, class: adj, field: Ordinary speech, gloss: permitted by law}
-    - form: lay
+    - form: lai
       class: v
       field: Ordinary speech
       gloss: put or set something down
@@ -3337,12 +3337,12 @@ data:
       field: Ordinary speech
       gloss: a track made for walking
       variants: [paths]
-    - form: pay
+    - form: pai
       class: v
       field: Ordinary speech
       gloss: give money or another thing owed
       variants: [paid]
-    - form: payment
+    - form: paiment
       class: n
       field: Ordinary speech
       gloss: money or goods given to discharge a debt
@@ -3352,7 +3352,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: an ailment of fowl; a comic name for a minor sickness
-    - {form: play, class: n, field: Ordinary speech, gloss: a dramatic performance}
+    - {form: plai, class: n, field: Ordinary speech, gloss: a dramatic performance}
     - form: player
       class: n
       field: Ordinary speech
@@ -3468,7 +3468,7 @@ data:
       gloss: make music with the voice
       variants: [sang, singen, singeth, singing, sung]
     - {form: sir, class: n, field: Ordinary speech, gloss: a courteous title for one man}
-    - {form: slay, class: v, field: Ordinary speech, gloss: kill, variants: [slain, slew]}
+    - {form: slai, class: v, field: Ordinary speech, gloss: kill, variants: [slain, slew]}
     - {form: sleet, class: n, field: Ordinary speech, gloss: rain mixed with ice or snow}
     - {form: softli, class: adv, field: Ordinary speech, gloss: quietly or gently}
     - form: Solden
@@ -3486,7 +3486,7 @@ data:
       field: Ordinary speech
       gloss: the season following winter; a source of water
     - {form: stake, class: n, field: Ordinary speech, gloss: a pointed post driven into the ground}
-    - {form: stay, class: v, field: Ordinary speech, gloss: remain in a place, variants: [stayed]}
+    - {form: stai, class: v, field: Ordinary speech, gloss: remain in a place, variants: [stayed]}
     - form: steading
       class: n
       field: Ordinary speech
@@ -3511,7 +3511,7 @@ data:
     - {form: straight, class: adj, field: Ordinary speech, gloss: without bends}
     - {form: strange, class: adj, field: Ordinary speech, gloss: unfamiliar or unusual}
     - {form: straw, class: n, field: Ordinary speech, gloss: the dried stalks of cereal plants}
-    - {form: stray, class: v, field: Ordinary speech, gloss: wander from a course or company}
+    - {form: strai, class: v, field: Ordinary speech, gloss: wander from a course or company}
     - {form: street, class: n, field: Ordinary speech, gloss: a road within a settlement}
     - form: strip
       class: n
@@ -3607,11 +3607,11 @@ data:
       class: v
       field: Ordinary speech
       gloss: drink to the health of someone or something
-    - form: way
+    - form: wai
       class: n
       field: Ordinary speech
       gloss: a route or manner of doing something
-      variants: [ways]
+      variants: [wais]
     - form: wear
       class: v
       field: Ordinary speech
@@ -3747,7 +3747,7 @@ data:
       class: v
       field: Ordinary speech
       gloss: recline or rest horizontally
-      variants: [lien, lieth, lay]
+      variants: [lien, lieth, lai]
     - {form: to bark, class: v, field: Ordinary speech, gloss: make the sharp cry of a dog}
     - form: to boast
       class: v
@@ -3767,7 +3767,7 @@ data:
       field: Ordinary speech
       gloss: go by or through
       variants: [passed]
-    - form: to play
+    - form: to plai
       class: v
       field: Ordinary speech
       gloss: perform a game, music or a dramatic role
@@ -3921,10 +3921,10 @@ data:
       - "Chilwell"
       - "Dunwell"
       - "Garmon"
-      - "Grayling"
+      - "Grailing"
       - "Harden"
       - "Harding"
-      - "Helmsley"
+      - "Helmslei"
       - "Osgood"
       - "Sherwin"
       - "Somervell"
@@ -3933,14 +3933,14 @@ data:
       - "Winwik"
       - "Wolford"
       - "Koldwik"
-      - "Greywik"
+      - "Greiwik"
       - "Thornwell"
       - "Ravenwell"
       - "Stormwell"
       - "Hushwell"
-      - "Brinley"
-      - "Thornley"
-      - "Greymore"
+      - "Brinlei"
+      - "Thornlei"
+      - "Greimore"
       - "Highmore"
       - "Ravenmore"
       - "Highden"
@@ -3949,25 +3949,25 @@ data:
       - "Kolddon"
       - "Highdon"
       - "Wolfwik"
-      - "Wolfley"
+      - "Wolflei"
       - "Wolfden"
       - "Storwik"
-      - "Storley"
+      - "Storlei"
       - "Somerton"
-      - "Sherley"
+      - "Sherlei"
       - "Hardwell"
       - "Wigwik"
       - "Wigden"
       - "Alverwik"
-      - "Alverley"
+      - "Alverlei"
       - "Brandwik"
-      - "Brandley"
-      - "Brownley"
+      - "Brandlei"
+      - "Brownlei"
       - "Chilmore"
       - "Dunwik"
       - "Dunmore"
-      - "Winley"
-      - "Barnley"
+      - "Winlei"
+      - "Barnlei"
       - "Adwik"
   scope:
     types: [place, being]
@@ -3984,7 +3984,7 @@ data:
   elements:
     - {form: ash, position: opening, kind: place, sense: the ash tree, examples: [Ashford]}
     - {form: brin, position: opening, kind: place, sense: a hill, examples: [Brinwold]}
-    - {form: grey, position: opening, kind: place, sense: "gray, weathered", examples: [Greywater]}
+    - {form: grei, position: opening, kind: place, sense: "gray, weathered", examples: [Greiwater]}
     - {form: kold, position: opening, kind: place, sense: cold, examples: [Koldbek]}
     - {form: high, position: opening, kind: place, sense: high, examples: [Highfold]}
     - {form: stony, position: opening, kind: place, sense: full of stones, examples: [Stonyhaugh]}
@@ -4006,11 +4006,11 @@ data:
       sense: warmed by the sun
       examples: [Sunnerslade]
     - {form: sunder, position: opening, kind: place, sense: split apart, examples: [Sunderfells]}
-    - form: wray
+    - form: wrai
       position: opening
       kind: place
       sense: "a nook, a hidden corner"
-      examples: [Wraymouth]
+      examples: [Wraimouth]
     - {form: thren, position: opening, kind: place, sense: a lament, examples: [Threndale]}
     - {form: var, position: opening, kind: place, sense: of the Vardain, examples: [Vargate]}
     - {form: nord, position: opening, kind: place, sense: north, examples: [Nordfells]}
@@ -4038,7 +4038,7 @@ data:
       position: closing
       kind: place
       sense: a river or a broad water
-      examples: [Greywater]
+      examples: [Greiwater]
     - {form: mere, position: closing, kind: place, sense: a lake, examples: [Dunmere]}
     - form: vale
       position: closing
@@ -4061,7 +4061,7 @@ data:
       position: closing
       kind: place
       sense: where a river meets the sea
-      examples: [Wraymouth]
+      examples: [Wraimouth]
     - form: fells
       position: closing
       kind: place
@@ -4071,7 +4071,7 @@ data:
       position: closing
       kind: place
       sense: "flat, low-lying ground"
-      examples: [Greylevels]
+      examples: [Greilevels]
     - form: gate
       position: closing
       kind: place
@@ -4146,9 +4146,9 @@ data:
     - {form: brown, position: opening, kind: byname, sense: brown, examples: [Browning]}
     - {form: chil, position: opening, kind: byname, sense: "cold, chill", examples: [Chilton]}
     - {form: gar, position: opening, kind: byname, sense: a spear, examples: [Garmon]}
-    - {form: gray, position: opening, kind: byname, sense: gray, examples: [Grayling]}
+    - {form: grai, position: opening, kind: byname, sense: gray, examples: [Grailing]}
     - {form: hard, position: opening, kind: byname, sense: "hardy, stout", examples: [Harding]}
-    - {form: helm, position: opening, kind: byname, sense: a helm, examples: [Helmsley]}
+    - {form: helm, position: opening, kind: byname, sense: a helm, examples: [Helmslei]}
     - {form: os, position: opening, kind: byname, sense: a god, examples: [Osgood]}
     - {form: sher, position: opening, kind: byname, sense: bright, examples: [Sherwin]}
     - {form: somer, position: opening, kind: byname, sense: summer, examples: [Somervell]}
@@ -4167,7 +4167,7 @@ data:
       kind: byname
       sense: "a dwelling, a dairy farm"
       examples: [Winwik]
-    - {form: ley, position: closing, kind: byname, sense: a clearing, examples: [Helmsley]}
+    - {form: lei, position: closing, kind: byname, sense: a clearing, examples: [Helmslei]}
     - {form: bi, position: closing, kind: byname, sense: a homestead, examples: [Ashbi]}
     - {form: more, position: closing, kind: byname, sense: a moor, examples: [Wigmore]}
     - {form: den, position: closing, kind: byname, sense: a wooded valley, examples: [Harden]}
@@ -4177,7 +4177,7 @@ data:
       position: closing
       kind: byname
       sense: "the small one, the young"
-      examples: [Grayling]
+      examples: [Grailing]
     - {form: good, position: closing, kind: byname, sense: good, examples: [Osgood]}
     - {form: mon, position: closing, kind: byname, sense: a man, examples: [Garmon]}
     - {form: win, position: either, kind: byname, sense: a friend, examples: [Winwik]}
@@ -4225,15 +4225,15 @@ data:
     - {name: Garmon, kind: byname, built: [gar, mon]}
     - {name: Osrun, kind: given, built: [os, run]}
     - {name: Kenstan, kind: given, built: [ken, stan]}
-    - {name: Grayling, kind: byname, built: [gray, ling]}
-    - {name: Greylevels, kind: place, built: [grey, levels]}
-    - {name: Greywater, kind: place, built: [grey, water]}
+    - {name: Grailing, kind: byname, built: [grai, ling]}
+    - {name: Greilevels, kind: place, built: [grei, levels]}
+    - {name: Greiwater, kind: place, built: [grei, water]}
     - {name: Hallowwood, kind: place, built: [hallow, wood]}
     - {name: Harden, kind: byname, built: [hard, den]}
     - {name: Harding, kind: byname, built: [hard, ing]}
     - {name: Harmund, kind: given, built: [har, mund]}
     - {name: Harwald, kind: given, built: [har, wald]}
-    - {name: Helmsley, kind: byname, built: [helm, s, ley]}
+    - {name: Helmslei, kind: byname, built: [helm, s, lei]}
     - {name: Highfold, kind: place, built: [high, fold]}
     - {name: Hildwiin, kind: given, built: [hild, wiin]}
     - {name: Hildrik, kind: given, built: [hild, rik]}
@@ -4268,7 +4268,7 @@ data:
     - {name: Winrith, kind: given, built: [win, rith]}
     - {name: Winwik, kind: byname, built: [win, wik]}
     - {name: Wolford, kind: byname, built: [wolf, ford]}
-    - {name: Wraymouth, kind: place, built: [wray, mouth]}
+    - {name: Wraimouth, kind: place, built: [wrai, mouth]}
     - {name: Wiindmarch, kind: place, built: [wiind, march]}
     - {name: Wilrith, kind: given, built: [wil, rith]}
     - {name: Wilstan, kind: given, built: [wil, stan]}
@@ -4278,13 +4278,13 @@ data:
     - {name: Mildwin, kind: given, built: [mild, win]}
     - {name: Stormwell, kind: byname, built: [storm, well]}
     - {name: Mildstan, kind: given, built: [mild, stan]}
-    - {name: Greywik, kind: byname, built: [grey, wik]}
+    - {name: Greiwik, kind: byname, built: [grei, wik]}
     - {name: Kenwin, kind: given, built: [ken, win]}
     - {name: Highmore, kind: byname, built: [high, more]}
     - {name: Koldwik, kind: byname, built: [kold, wik]}
     - {name: Dunmore, kind: byname, built: [dun, more]}
     - {name: Godrun, kind: given, built: [god, run]}
-    - {name: Winley, kind: byname, built: [win, ley]}
+    - {name: Winlei, kind: byname, built: [win, lei]}
     - {name: Eilwìth, kind: place, why: The island's name; no element builds it.}
     - name: Alananor
       kind: given
@@ -4302,7 +4302,7 @@ data:
     - name: Arren
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - name: Audrey
+    - name: Audrei
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
     - {name: Avis, kind: given, why: A short or foreign-shaped name that no listed element builds.}
@@ -4433,16 +4433,16 @@ data:
     - {name: Elfrun, kind: given, built: [elf, run]}
     - {name: Kenwald, kind: given, built: [ken, wald]}
     - {name: Dunrik, kind: given, built: [dun, rik]}
-    - {name: Storley, kind: byname, built: [stor, ley]}
-    - {name: Wolfley, kind: byname, built: [wolf, ley]}
-    - {name: Thornley, kind: byname, built: [thorn, ley]}
+    - {name: Storlei, kind: byname, built: [stor, lei]}
+    - {name: Wolflei, kind: byname, built: [wolf, lei]}
+    - {name: Thornlei, kind: byname, built: [thorn, lei]}
     - {name: Highden, kind: byname, built: [high, den]}
     - {name: Brandwik, kind: byname, built: [brand, wik]}
     - name: Drething
       kind: byname
       why: "The royal line's byname, the kin of Drethar, with the kin ending -ing."
     - {name: Alfrith, kind: given, built: [alf, rith]}
-    - {name: Brinley, kind: byname, built: [brin, ley]}
+    - {name: Brinlei, kind: byname, built: [brin, lei]}
     - {name: Leofwald, kind: given, built: [leof, wald]}
     - name: Kelivren
       kind: place
@@ -4534,18 +4534,18 @@ data:
     - {name: Aldrun, kind: given, built: [ald, run]}
     - {name: Osrith, kind: given, built: [os, rith]}
     - {name: Elfith, kind: given, built: [elf, ith]}
-    - {name: Greymore, kind: byname, built: [grey, more]}
+    - {name: Greimore, kind: byname, built: [grei, more]}
     - {name: Ashden, kind: byname, built: [ash, den]}
     - {name: Kaerton, kind: byname, built: [kaer, ton]}
     - {name: Hushwell, kind: byname, built: [hush, well]}
-    - {name: Barnley, kind: byname, built: [barn, ley]}
+    - {name: Barnlei, kind: byname, built: [barn, lei]}
     - {name: Stormden, kind: byname, built: [storm, den]}
-    - {name: Adley, kind: byname, built: [ad, ley]}
+    - {name: Adlei, kind: byname, built: [ad, lei]}
     - {name: Brownwell, kind: byname, built: [brown, well]}
-    - {name: Hardley, kind: byname, built: [hard, ley]}
+    - {name: Hardlei, kind: byname, built: [hard, lei]}
     - {name: Brinwik, kind: byname, built: [brin, wik]}
-    - {name: Somerley, kind: byname, built: [somer, ley]}
-    - {name: Grayden, kind: byname, built: [gray, den]}
+    - {name: Somerlei, kind: byname, built: [somer, lei]}
+    - {name: Graiden, kind: byname, built: [grai, den]}
     - {name: Wigden, kind: byname, built: [wig, den]}
     - name: Drasknes
       kind: place
@@ -4614,7 +4614,7 @@ data:
     - {form: assuredly, instead: assuredli, why: y is never a vowel}
     - {form: belly, instead: belli, why: y is never a vowel}
     - {form: body, instead: bodi, why: y is never a vowel}
-    - {form: brynley, instead: brinley, why: y is never a vowel}
+    - {form: brynley, instead: brinlei, why: y is never a vowel}
     - {form: bury, instead: buri, why: y is never a vowel}
     - {form: by, instead: bi, why: y is never a vowel}
     - {form: charity, instead: chariti, why: y is never a vowel}
@@ -5168,7 +5168,7 @@ I go unto the market.
 
 Hast thou koin enough.
 
-Nay but I have wares to sell.
+Nai but I have wares to sell.
 :::
 
 Formal speech can carry more emphasis: Mi lord long haven we awaited thi
@@ -5271,7 +5271,7 @@ And name the dead, now fast asleep.
 :::
 
 ::: {.verse form=song lang=aelw enc=aelwsemaronenc work=harvestsong}
-The wool is shorn the barley bound/
+The wool is shorn the barlei bound/
 The last of summeres gold is ground/
 Fill high the kup and drink it deep/
 And name the dead now fast asleep.
@@ -5326,11 +5326,11 @@ The harvest song and the crossroads charm above are four-beat couplets.
 
 Names on Eilwìth use the authoritative spellings given in the register. Their explicit notes take precedence; otherwise ordinary English words keep their familiar readings and coined names obey the fixed pronunciation and stress rules above. The island's people name by compounding, and the same small stock of elements serves places, people and families.
 
-**A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greywater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
+**A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greiwater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
 
 **A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwin_, _Edrun_.
 
-**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsley_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grayling_ does.
+**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmslei_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grailing_ does.
 
 **Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Eilwìth_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Eilwìthi form and its origin or reason. An exception to the element pattern does not itself specify an exceptional pronunciation. The fixed sound and stress rules apply unless the register or an authored entry explicitly states another reading; foreign origin alone does not supply one. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Eilwìthi spelling.
 

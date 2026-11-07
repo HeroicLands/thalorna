@@ -72,7 +72,7 @@ The Order is the realm's pride, and a Bursar who counts its dead is easy to call
 
 ### Companions
 
-Her clerks, and the harbor-masters who send her the customs, [[being-alfrithbrnly|Alfrith Brinley]] of Wraymouth among them.
+Her clerks, and the harbor-masters who send her the customs, [[being-alfrithbrnly|Alfrith Brinlei]] of Wraimouth among them.
 
 ### Patrons
 
@@ -91,7 +91,7 @@ Sir Orvand Kéthavel, who wants the final campaign she is costing.
 ## Plot Hooks
 
 1. **An honest count.** Halvra wants a count of the Order's dead and wounded on the road this summer, from someone who is not the Order.
-2. **The furs.** Seilvri furs reach the mainland through Wraymouth, and Halvra wants to know what the trade is worth before the Order closes it.
+2. **The furs.** Seilvri furs reach the mainland through Wraimouth, and Halvra wants to know what the trade is worth before the Order closes it.
 
 :::secret {title="A letter to Veldareth"}
 Halvra has written to Leofwald Chilwell, the Speaker of the Table at Veldareth, asking whether the Table would hear an envoy of the Seilvri. She has not told the session, and she has not told the Prime.

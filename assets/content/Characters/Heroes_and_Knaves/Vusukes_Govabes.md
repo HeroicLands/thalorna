@@ -485,8 +485,8 @@ Vulnerability to Civilization
 [The Merchant House of Pelios]{.name data-type="affiliation/lineage"}
 : A family of fur traders who have purchased Vusukes' pelts for two decades. [Kuhánikos Pelios]{.name data-type="being/npc"}, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
 
-Farmer [Meydánikos Fikazur]{.name data-type="being/npc"}
-: A desperate man whose lands were plagued by a massive bear until Vusukes tracked and relocated it. Meydánikos now sends urgent requests whenever predators menace his herds.
+Farmer [Meidánikos Fikazur]{.name data-type="being/npc"}
+: A desperate man whose lands were plagued by a massive bear until Vusukes tracked and relocated it. Meidánikos now sends urgent requests whenever predators menace his herds.
 
 Master Leatherworker [Sipehrikos Vanazur]{.name data-type="being/npc"}
 : Uses only the finest hides, prepared by Vusukes himself. He values the trapper's expertise and treats him as a partner rather than a supplier.

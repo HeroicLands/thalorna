@@ -99,4 +99,4 @@ passed overhead, or answered that particular breach, remains a matter of belief.
 - [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] · [[place-vithgard|Vithgard]]
 - [[affiliation-nahild|Nahild]] · [[lore-nrdhmhstry|Histories and Legends of Nordheim]]
 - [[lore-vthgrdsccwrs|The Vithgard Succession Wars]]—the brothers, the levies and the truce
-- [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings and the ages of the north
+- [[lore-domseycount|The Domsei Count]]—the reckoning of the sittings and the ages of the north

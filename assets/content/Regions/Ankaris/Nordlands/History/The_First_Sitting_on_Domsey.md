@@ -1,9 +1,9 @@
 ---
 shortcode: nordfirstsit
-name: {full: The First Sitting on Domsey, en: [The Slaughter on Domsey, The Acclamations]}
+name: {full: The First Sitting on Domsei, en: [The Slaughter on Domsei, The Acclamations]}
 type: lore
 subType: history
-description: "Between 260 and 285 AF five district tings acclaimed kings over the five old land-names of the north; in 287 the five kings met for the first time on Domsey, and the meeting ended in an afternoon's killing on the strand that made the island a blood-field, the ting-peace a law, and Nordheim its keeper."
+description: "Between 260 and 285 AF five district tings acclaimed kings over the five old land-names of the north; in 287 the five kings met for the first time on Domsei, and the meeting ended in an afternoon's killing on the strand that made the island a blood-field, the ting-peace a law, and Nordheim its keeper."
 tags: [history, nordlands]
 data:
   culture: nordheimnclt
@@ -36,7 +36,7 @@ data:
       stated: {calendar: domseycount, text: "1 FC"}
       sources: [place-domsey, affiliation-kngdmnrdhm, lore-nordheimnclt, lore-bloodfield]
       summary: >-
-        At Somarmál of 287 the five kings land on Domsey with their hirvs for the first common assembly, and a quarrel over who sits nearest the law-rock becomes a killing on the strand that lasts an afternoon. Nine jarls and about three hundred hirvmen die, King Svalthorv of Nordheim among them. The survivors swear the ting-peace, leave their swords in the boats, cut the twenty-seven seats and give the island to Nordheim's keeping as the wergild nobody else could pay. No grave-ale is drunk for the dead of 287, and the island is a blood-field.
+        At Somarmál of 287 the five kings land on Domsei with their hirvs for the first common assembly, and a quarrel over who sits nearest the law-rock becomes a killing on the strand that lasts an afternoon. Nine jarls and about three hundred hirvmen die, King Svalthorv of Nordheim among them. The survivors swear the ting-peace, leave their swords in the boats, cut the twenty-seven seats and give the island to Nordheim's keeping as the wergild nobody else could pay. No grave-ale is drunk for the dead of 287, and the island is a blood-field.
       standing: attested
       names:
         - {name: the Slaughter on Domsey, by: affiliation-skaldscrcl}
@@ -74,7 +74,7 @@ data:
         - how many of the three hundred were hirvmen of each crown, since the dead were counted by nobody
 ---
 
-"Leave your sword in the boat," the Lawspeaker tells a newcomer before the keel touches [[place-domsey|Domsey]], and he says it as if the rule were as old as the island. It is older than the assembly. The rule is what the five kings swore on the strand on the evening of The First Sitting on Domsey, the day they first met, with nine jarls and three hundred hirvmen lying between them and the water, and everything the north has done together since has been done inside it.
+"Leave your sword in the boat," the Lawspeaker tells a newcomer before the keel touches [[place-domsey|Domsei]], and he says it as if the rule were as old as the island. It is older than the assembly. The rule is what the five kings swore on the strand on the evening of The First Sitting on Domsei, the day they first met, with nine jarls and three hundred hirvmen lying between them and the water, and everything the north has done together since has been done inside it.
 
 ## Five Crowns in One Generation
 
@@ -84,15 +84,15 @@ The ting of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] acclaimed first, 
 
 ## The Afternoon on the Strand
 
-Five new crowns had no order among them, and in 287 they met to settle one. The place was Domsey, a low island in Nordheim's waters a morning's row from any strand, chosen because it was nobody's hall. The time was [[lore-sumarmal|Somarmál]], the season of the great tings. The kings came with their hirvs, armed as a king travels, and the first matter raised was who should sit nearest the law-rock.
+Five new crowns had no order among them, and in 287 they met to settle one. The place was Domsei, a low island in Nordheim's waters a morning's row from any strand, chosen because it was nobody's hall. The time was [[lore-sumarmal|Somarmál]], the season of the great tings. The kings came with their hirvs, armed as a king travels, and the first matter raised was who should sit nearest the law-rock.
 
 Nobody the Circle will name struck the first blow. Nordheim says a Malagnan hirvman cut Svalthorv down unarmed at the rock; Malagna says Nordheim's hirv drew first over the seat and was answered as any hall answers. What is not disputed is that the quarrel became a battle on the strand that lasted an afternoon, that nine jarls and about three hundred hirvmen died on it, that Svalthorv was among them, and that when the light went the four living kings and Svalthorv's son [Snilthorv]{.name data-type="being/npc"} stood on a beach of their own dead with the boats behind them.
 
-What they swore that evening is the whole law of the island. Steel would never again come inside the stones. The ground would be hallowed before any king stepped on it and the peace lifted before any king left. Twenty-seven seats would be cut into the turf, seven for Nordheim's jarls, five for Norgaad's, four for Malagna's, three each for Targud's and Vithgard's, one for each king, and the count would never change without the whole assembly's consent. And the island would pass to Nordheim's keeping, as the wergild for a king that no other crown could pay, which is why Nordheim's king sits at the center and convenes the sitting still. Snilthorv rowed home a king and a creditor, and the first sitting of [[lore-domseycount|the Domsey count]] is reckoned from that year.
+What they swore that evening is the whole law of the island. Steel would never again come inside the stones. The ground would be hallowed before any king stepped on it and the peace lifted before any king left. Twenty-seven seats would be cut into the turf, seven for Nordheim's jarls, five for Norgaad's, four for Malagna's, three each for Targud's and Vithgard's, one for each king, and the count would never change without the whole assembly's consent. And the island would pass to Nordheim's keeping, as the wergild for a king that no other crown could pay, which is why Nordheim's king sits at the center and convenes the sitting still. Snilthorv rowed home a king and a creditor, and the first sitting of [[lore-domseycount|the Domsei count]] is reckoned from that year.
 
 ## The Ale Nobody Drank
 
-One thing the kings did not do. The dead of 287 were burned where they fell, but no grave-ale was drunk for them, because to drink it is to speak the reckoning over it, and the reckoning names who owes. Four centuries of [[lore-kinhalcrdt|hall credit]] compound on that question. A crown that admitted its hirv struck first would owe wergild for nine jarls to four other crowns, with the interest the north keeps on an unpaid debt, and no king has been willing to be the one who says it. So the dead of Domsey are the unreckoned dead, and the island is a _vrellvoll_, a blood-field of the silence: nothing sings there, no ewe has dropped a living lamb on it, and for six years in every seven the herdsman who rows out to count Nordheim's sheep counts one figure more than he has sheep at dusk and does not count again. The Landsgudi's hallowing closes the ground for the days of a sitting, and lifting the peace opens it.
+One thing the kings did not do. The dead of 287 were burned where they fell, but no grave-ale was drunk for them, because to drink it is to speak the reckoning over it, and the reckoning names who owes. Four centuries of [[lore-kinhalcrdt|hall credit]] compound on that question. A crown that admitted its hirv struck first would owe wergild for nine jarls to four other crowns, with the interest the north keeps on an unpaid debt, and no king has been willing to be the one who says it. So the dead of Domsei are the unreckoned dead, and the island is a _vrellvoll_, a blood-field of the silence: nothing sings there, no ewe has dropped a living lamb on it, and for six years in every seven the herdsman who rows out to count Nordheim's sheep counts one figure more than he has sheep at dusk and does not count again. The Landsgudi's hallowing closes the ground for the days of a sitting, and lifting the peace opens it.
 
 ## What It Left
 
@@ -105,10 +105,10 @@ A party at a sitting can be handed either half of this. A Malagnan claimant who 
 
 ## See Also
 
-[[place-domsey|Domsey]]
+[[place-domsey|Domsei]]
 : the island, the seats and the hallowing
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the reckoning that begins with this sitting
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

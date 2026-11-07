@@ -1,6 +1,6 @@
 ---
 shortcode: godstanhrdl
-name: {full: Godstan Hardley, en: [Vandraks Godstan, The Vandraks]}
+name: {full: Godstan Hardlei, en: [Vandraks Godstan, The Vandraks]}
 type: being
 subType: npc
 description: "The Vandraks of the Republic of Ondareth's frontier legion at Kaermouth, a career soldier who wants another legion and the money to feed it after the tribes of the Peshtar forest burned two of his watch-burgs."
@@ -37,13 +37,13 @@ data:
 
 # Appearance {#appearance}
 
-Godstan Hardley is a 49-year-old man of 6'1" and heavy build, with light, weathered skin, greying black hair cropped to the scalp and grey eyes. He walks with a stiff left knee and wears his armor more often than his mantle.
+Godstan Hardlei is a 49-year-old man of 6'1" and heavy build, with light, weathered skin, greying black hair cropped to the scalp and grey eyes. He walks with a stiff left knee and wears his armor more often than his mantle.
 
 # Dossier {#dossier}
 
 **Age 49. Vandraks of the frontier legion. Wants the burned watch-burgs answered and his legion paid.**
 
-Godstan Hardley commands the [[affiliation-repblcndrth|Republic of Ondareth]]'s frontier legion at [[place-kaermouth|Kaermouth]], and in Kaermouth his word is the law. He has served on the frontier for thirty years and has commanded for six, and he knows the burned strip north of the river and the forest edge beyond it as well as any man in the republic.
+Godstan Hardlei commands the [[affiliation-repblcndrth|Republic of Ondareth]]'s frontier legion at [[place-kaermouth|Kaermouth]], and in Kaermouth his word is the law. He has served on the frontier for thirty years and has commanded for six, and he knows the burned strip north of the river and the forest edge beyond it as well as any man in the republic.
 
 In the autumn the tribes of the forest burned two watch-burgs north of the river and killed their crews. Godstan has answered with patrols into the trees and has asked the Senate for another legion for the spring. The Senate has voted him the levy and not the pay. This spring the year's field command belongs to the _tavos_ [[being-alfmundkrtn|Alfmund Kaerton]], who wants the frontier quiet by midsummer, and Godstan thinks him a horse-dealer playing at war.
 

@@ -28,7 +28,7 @@ He answers to the ting for the realm as a jarl answers for a province: its peace
 
 ## Offices Open at This Standing
 
-None above it. The King of All Clans assembly meets every seventh year on [[place-domsey|Domsey]], the island Nordheim holds. It is a separate assembly with no standing officers, and it adds no further rank to any one kingdom.
+None above it. The King of All Clans assembly meets every seventh year on [[place-domsey|Domsei]], the island Nordheim holds. It is a separate assembly with no standing officers, and it adds no further rank to any one kingdom.
 
 ## Where This Standing Is Held
 

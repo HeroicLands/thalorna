@@ -22,7 +22,7 @@ data:
 
 **The Song of the Lost Town**, _Veshkunrelum_, is the song the [[lore-khazrynclt|Tellumi]] cloth-tellers sing of [[place-velkunar|Veshkun]], the old city of [[place-vahurdash|Vahurdash]] that a drought emptied on the dry northern rim of [[place-swoasisbelt|Tellumel]]. It is a _lavun_, a telling before the cloth: the teller spreads a painted linen, a _pirsesh_, across the wall of a hired courtyard in the caravan yards of [[place-kethramir|Kethramír]], sings in couplets, and points with a reed to the scene he is singing, so that the yard sees the gate as it hears of it. He is paid by the scene, and he stops at the end of each to be paid. The song is one episode of a longer cycle on the seven cities; the tellers call the episodes before and after it by name and sing them on other nights, and a yard that has heard the whole cycle has sat through a month of evenings.
 
-The common transcription and translation below give one teller's cloth as a clerk of the [Tozhirod]{.name data-type="affiliation/polity"} magistracy took it down over three nights, with the teller's asides to the yard kept where the clerk kept them. It names the last prince of the old city [Sunhemay]{.name data-type="being/npc"}, his champion [Berniray]{.name data-type="being/npc"}, the champion's wife [Minesha]{.name data-type="being/npc"} and their son [Revunay]{.name data-type="being/npc"}, and it says the veiled woman the prince turned from his gate was [[lore-zurathradty|Zúrathra]], the Mother of the Oasis; the tellers say so, and the teller hedges it once in the singing. The Tellumi who tell the story hold that the springs failed because the city was judged; the revived [House of Vahurdash]{.name data-type="affiliation/lineage"}, which has built its town among the old streets and drinks from two wells found again, hears that as an insult and answers that the drought was a trial and that returning is the answer. The song gives no date and takes no side the house will accept. The clay tablets of the old record-keepers lie in their cellars under the sand, and the song ends on them.
+The common transcription and translation below give one teller's cloth as a clerk of the [Tozhirod]{.name data-type="affiliation/polity"} magistracy took it down over three nights, with the teller's asides to the yard kept where the clerk kept them. It names the last prince of the old city [Sunhemai]{.name data-type="being/npc"}, his champion [Bernirai]{.name data-type="being/npc"}, the champion's wife [Minesha]{.name data-type="being/npc"} and their son [Revunai]{.name data-type="being/npc"}, and it says the veiled woman the prince turned from his gate was [[lore-zurathradty|Zúrathra]], the Mother of the Oasis; the tellers say so, and the teller hedges it once in the singing. The Tellumi who tell the story hold that the springs failed because the city was judged; the revived [House of Vahurdash]{.name data-type="affiliation/lineage"}, which has built its town among the old streets and drinks from two wells found again, hears that as an insult and answers that the drought was a trial and that returning is the answer. The song gives no date and takes no side the house will accept. The clay tablets of the old record-keepers lie in their cellars under the sand, and the song ends on them.
 
 : The Song of the Lost Town {#song}
 
@@ -278,7 +278,7 @@ heri veme relvan. hunen veme sunhem,/
 lemir bamden nemi hunen veme nartem./
 yernem nartem nilver, tavem nemi dushmen/
 veme temvish, vanel gerhen, dener gerhen./
-sunhemay nemvir nire nin sut. hunen/
+sunhemai nemvir nire nin sut. hunen/
 hesver kenbesh sut nemi tavem perven./
 dushmen tenyut veme benu herun, nus vartem./
 hunen tenem diven, leshim delkoshekh nartem./
@@ -294,7 +294,7 @@ budem veme teyut, teyut leshim karvem.
 
 .[hene. miran benu bermal. hunen hager kiresh hemun tarten.]{.direction}
 
-berniray. bernir veme yumesh nemi hunen./
+bernirai. bernir veme yumesh nemi hunen./
 vermesh, hunen danem bernir dener bamden,/
 lemir bihen nemur vermesh, nemur bernir./
 heri veme narvun nemi hudem, tsemir./
@@ -319,14 +319,14 @@ nelim nemun, dushmen, timlan nemi yarnem,/
 tenyut benu talvut sirvem senvel vartem,/
 perven kurli peril telvem, lemir palen./
 heri, mibil varhen pedun, veme bihen./
-diven yumir hunen revun, revunay. hulim‼/
+diven yumir hunen revun, revunai. hulim‼/
 miver narsum danel verum. kenbesh yarnim/
-sunhemay geshver vermesh ferul, dener yisur/
+sunhemai geshver vermesh ferul, dener yisur/
 dener genbun nemi hemvan, peril nemur/
 dushmen benu nimesh, mibil relvan karsen,/
 fermil bashgur, berven nimesh dener gerhen./
 nivun yarnim. huri veme relvan nardem./
-berniray gashem dener timni minesha, narem,/
+bernirai gashem dener timni minesha, narem,/
 «miver gashem, revin, miver hager bernir./
 tiver nesh hurem nirhel‼» hiner narsel, «dinir/
 yumesh veme revun nemi tiver, nus nedim./
@@ -360,7 +360,7 @@ lemir dener atarzád. mener nesh nemur bamin./
 huri veme nedim relum, lemir budem/
 nemi hudem veme kulsam leshim persem.
 
-.[hame. vartun. revunay hager vartun huri talhishmerun. hunen veme vermil.]{.direction}
+.[hame. vartun. revunai hager vartun huri talhishmerun. hunen veme vermil.]{.direction}
 
 narkem relvan, leshim temmur, peril neyem/
 yeril derat. relvan genbun peril hunem,/
@@ -374,7 +374,7 @@ venhir nus denem shenir tiver nesh veshner virem./
 harmel relvan, miver narsher. hesur nershem./
 miver narsher tarem pel darem.» «nershem.»/
 hiner tarmer, hiner gashem. budem narem,/
-«revunay lasun hiner lemir nesh hursel hudem,/
+«revunai lasun hiner lemir nesh hursel hudem,/
 danem neltar hemun gudesh, ninsut nilshem./
 relvan nesh lasem.» tenyut nemi hunen hager/
 hudem yune. dinel huri veme miver,/
@@ -390,7 +390,7 @@ hiner nesh lashem bamin. yashgem venmi vilni.
 
 .[heri firvem. hene. virel limun. tarlim firvem. lasun hudem‼]{.direction}
 
-berniray veme senvel genbun mibil nimesh,/
+bernirai veme senvel genbun mibil nimesh,/
 karsen, silvar sirmen, harsil bashgur tarmesh,/
 nivun yarnim, tes gaben vanel harmel./
 firvem venem, hagen hemun salmir laskel,/
@@ -400,7 +400,7 @@ lashem dener tsenmat, dener harmel, nesh rurem,/
 lemir fernem hurem hervesh nemi hudem./
 firvem surer nurel gurnal shenir hudem/
 nilver virem. heri gurnal nesh veme varhesh./
-berniray tenem firvem leshim tenyut. hunen/
+bernirai tenem firvem leshim tenyut. hunen/
 hagen hushli. hame narem, «nimesh hagen/
 mibil salmir. tes nurel garvan‼ firvem/
 nesh veme denem, damir tenyut nemi denem.»/
@@ -436,7 +436,7 @@ huri veme dimal. huri veme sumet.
 
 .[pel tamker. miver hurnir. miver hurnir. hudem veme karmil. hene veme nurmesh. vartun gerni.]{.direction}
 
-nurmi lisen. berniray venmer dener vartun,/
+nurmi lisen. bernirai venmer dener vartun,/
 tes miran bamir hunen, garvan birsun,/
 bermil benu narhum, lasin veme varhesh/
 danel yisur. tarsem vartun mibil kiresh/
@@ -448,7 +448,7 @@ narlem nemi timlan, barmil leshim kenen,/
 lemir narsel, «tursem ferul yermir hulen‼/
 vartun veme nemi miver heri nurmesh,/
 lemir relvan danem nus narvun nemi vermesh.»/
-lemir berniray narem, «gerhen nilver. varter/
+lemir bernirai narem, «gerhen nilver. varter/
 benu yumesh nemi bernir‼» narsel, «miver/
 lerni hager bernir. tursem ferul‼» diven/
 tursem, vartem terum hunen lemir timlan,/
@@ -478,7 +478,7 @@ tenem, lemir limer mibil kerlet tenesh,/
 leshim mener tenem benu nurmen, yumesh/
 shenir merish buder virem, timlan tenesh/
 tsergim nurel budish tarem nidem lem,/
-leshim yurmi tsergim. revunay. revun. tenem/
+leshim yurmi tsergim. revunai. revun. tenem/
 hudem tarem nin darem, leshim yirnem,/
 lemir nesh gaden murnesh hudem. hunen narem/
 hurlem. budem narem tarem pel darem./
@@ -526,7 +526,7 @@ narvun nemi nilhem. tellumi narem hudem,/
 
 .[hene. genur. relvan.]{.direction}
 
-lemir sunhemay? nemil relmer, «hunen hunver/
+lemir sunhemai? nemil relmer, «hunen hunver/
 mibil nedim, hever, lemir kethramír mirver,/
 lemun nesh mirver.» nemil relmer, «hunen surer/
 senvel pernil yermir sumet nersum telver,/
@@ -541,7 +541,7 @@ relvan tavim lemvesh. huri veme hudem.
 
 .[yune miver kurnem pirsesh rumer shernil. damir relum hurem pel narvun palen, lemir hudem veme heri.]{.direction}
 
-berniray hever. hunen hager bernir, lemir/
+bernirai hever. hunen hager bernir, lemir/
 veme tarnem nemi narvim benu kethramír,/
 hager vartun tes nidem yarnim. hunen/
 tarem nus darem yumir yarnim, hes, timlan./
@@ -576,7 +576,7 @@ danver tiver, merin. miver danver tiver.
 [[place-velkunar|Veshkun]]
 : the lost town, its cellars and the archive under the sand
 
-[[miscgear-revunayshld|The Shield of Revunay]]
+[[miscgear-revunayshld|The Shield of Revunai]]
 : the boy's shield, with the name on its rim
 
 [[miscgear-sunhemtab|The Last Tablet of Sunhemay]]

@@ -22,7 +22,7 @@ Nordheim is the land of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the 
 
 ## Geography
 
-Jagged ranges drop straight into icy fjords along the whole coast. The coastline is so deeply cut that it holds thousands of natural harbors, and the great fjords reach far into the mountains as sheltered roads for the longship fleets. The king's seat, [[place-knalthstead|Knalthstead]], stands on that water, and so does [[place-domsey|Domsey]], the low ting island in Nordheim's waters where the five kingdoms meet every seventh year.
+Jagged ranges drop straight into icy fjords along the whole coast. The coastline is so deeply cut that it holds thousands of natural harbors, and the great fjords reach far into the mountains as sheltered roads for the longship fleets. The king's seat, [[place-knalthstead|Knalthstead]], stands on that water, and so does [[place-domsey|Domsei]], the low ting island in Nordheim's waters where the five kingdoms meet every seventh year.
 
 Behind the coast the interior mixes boreal forest, glacial valleys and high tundra. The caribou herds migrate across the high plateau, and the most isolated clans live up there, far from any harbor. The interior keeps the kingdom's oldest and strangest places: [[place-horgsvangur|Horgsvangur]], the altar-field older than any present kingdom, and the blighted valley of [[place-haulonna|Thalmdal]], where a destroyed [[lore-flksenali|Senali]] enclave's corruption is creeping into the highland clans' hunting grounds. To the south the [[place-nalthmark|Nalthmark]] road runs down past the last fenced farms to the forest frontier.
 
@@ -38,7 +38,7 @@ Winter is long and brutal, with months of near-total darkness; the short summer 
 [[place-knalthstead|Knalthstead]]
 : the seat
 
-[[place-domsey|Domsey]]
+[[place-domsey|Domsei]]
 : the ting island in Nordheim's waters
 
 [[place-nrdlndsrgn|Nordlands Region]]

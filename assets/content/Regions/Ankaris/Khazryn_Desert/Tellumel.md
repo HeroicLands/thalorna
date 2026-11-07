@@ -68,8 +68,8 @@ The line moves when the water moves. An Atarzád settler family that cuts a new 
 The feud between the two peoples is in a quiet phase, and the quiet is wearing thin. The last full rising, in the Shirvan district about 706, was put down by the last Zhudek the Council of the Twelve acclaimed, and the next is held overdue.
 
 - **In the held cities,** [Aqeshat]{.name data-type="being/npc"} the Prophet preaches the Tellumi out of the quarters and her following grows. At Shirvan the great spring is falling, and the Ozhmarod fire-wardens blame the quarter.
-- **In the west,** [[being-hemvanaymern|Hemvanay of Mernagord]] has left an Atarzád offer of a trade compact unanswered, and the exile houses call the idea treason.
-- **In Amradad,** [[being-gureshayzarg|Gureshay of Zargandur]] trains for a reclamation that the Council of the Princes neither endorses nor forbids.
+- **In the west,** [[being-hemvanaymern|Hemvanai of Mernagord]] has left an Atarzád offer of a trade compact unanswered, and the exile houses call the idea treason.
+- **In Amradad,** [[being-gureshayzarg|Gureshai of Zargandur]] trains for a reclamation that the Council of the Princes neither endorses nor forbids.
 - **On the rim,** the revived house at Vahurdash cannot prove its descent, and its rivals say an acclamation cannot make a prince.
 - **Above the belt,** word has come from the steppe of a union rising in the north, and the upland tribes take stragglers off the pilgrim tracks to Mount Shofar.
 

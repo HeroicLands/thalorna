@@ -38,7 +38,7 @@ The shamans of all three tribes call on three gods by name, beneath and above th
 [Kalmara]{.name data-type="lore/deity"}
 : the mother of herds and the green year, who brings the calves and the grass. The cattle clans of the Kelgar hold her first. Aureldian clergy who meet her rites take her for [[lore-lizelasdty|Lizelas]].
 
-[Veyrael]{.name data-type="lore/deity"}
+[Veirael]{.name data-type="lore/deity"}
 : the walker in the mist, who keeps the ways between the living country and the others and leads the dead along them. The Lonagar, whose coast is fog most of the year, hold him first.
 
 [Vharoth]{.name data-type="lore/deity"}

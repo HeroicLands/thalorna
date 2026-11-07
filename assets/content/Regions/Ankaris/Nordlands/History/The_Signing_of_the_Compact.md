@@ -94,5 +94,5 @@ A party that signs a small company into the Compact takes on the Council's law a
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : the employer
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the age of the Hunger and the Fleets

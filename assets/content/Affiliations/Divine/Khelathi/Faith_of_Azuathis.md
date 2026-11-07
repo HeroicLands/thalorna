@@ -15,7 +15,7 @@ data:
   governance:
     model: council
     summary: >-
-      There is no organized priesthood, and within the orthodoxy of Au'Khelathu the idea is unthinkable. What exists instead is three unconnected things: frontier practitioners who treat the god as an aspect of storm, earthquake and drought and work protections against him under implicit sanction; isolated heretics who venerate him, hunted without rest by the Meglay and the temple-inquisitors; and—foremost among the forbidden cults the temples have driven underground—a small hidden sect that means not to defy the order of the dead but to break it. Formal knowledge of the god is not held here at all: it is kept in the higher echelons of Uqa'a's and Reth'Sa'ar's temples.
+      There is no organized priesthood, and within the orthodoxy of Au'Khelathu the idea is unthinkable. What exists instead is three unconnected things: frontier practitioners who treat the god as an aspect of storm, earthquake and drought and work protections against him under implicit sanction; isolated heretics who venerate him, hunted without rest by the Meglai and the temple-inquisitors; and—foremost among the forbidden cults the temples have driven underground—a small hidden sect that means not to defy the order of the dead but to break it. Formal knowledge of the god is not held here at all: it is kept in the higher echelons of Uqa'a's and Reth'Sa'ar's temples.
     ranks:
       - level: 0
         title: Denounced
@@ -35,7 +35,7 @@ data:
       Ward-Worker: >-
         A frontier practitioner working protection and appeasement against storm, earthquake and drought.
       Hunted: >-
-        Most of what the temple-inquisitors and the Meglay turn up is harmless desperation rather than the sect they are actually looking for—which does not soften what happens to it.
+        Most of what the temple-inquisitors and the Meglai turn up is harmless desperation rather than the sect they are actually looking for—which does not soften what happens to it.
       The Sect of the Waking: >-
         The cult the priesthood of Uqa'a fears in its bones: the sect that seeks the cursed road across the water and would wake the False Uqa'a—the sorcerer-king embalmed alive, his death-magic sealed into the tomb with him, who loosed would rise a terebu with his wits and his sorcery entire, and is held to mean famine and worse across the empire. That any such cult exists at all is a secret the temple keeps close, and the reason the kill-on-sight order on the cursed road has never once been relaxed.
   seat: null

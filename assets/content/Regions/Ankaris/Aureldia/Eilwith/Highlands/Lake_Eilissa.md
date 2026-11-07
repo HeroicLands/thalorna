@@ -22,7 +22,7 @@ Its shores are divided. At the northern end [[place-sunderfells|the Sunderfells]
 
 ## The Land {#the-land}
 
-The lake fills a long basin in the highland's eastern edge. The western shore is high and steep, wooded down to short gravel beaches, with the water deep a few strides out. The northern end is broken into bays and reed-beds below the moor and the mountains. The eastern shore is low and green, with manors, mills and fishing hamlets along it, and at the south-eastern tip the lake runs out into the river that drains east through the Aldorvale, along the border with Dúnavarre, and down to the tidal reach below [[place-greywater|Greywater]]. The river carries the peat of the highland with it, and runs gray all the way to the sea.
+The lake fills a long basin in the highland's eastern edge. The western shore is high and steep, wooded down to short gravel beaches, with the water deep a few strides out. The northern end is broken into bays and reed-beds below the moor and the mountains. The eastern shore is low and green, with manors, mills and fishing hamlets along it, and at the south-eastern tip the lake runs out into the river that drains east through the Aldorvale, along the border with Dúnavarre, and down to the tidal reach below [[place-greywater|Greiwater]]. The river carries the peat of the highland with it, and runs gray all the way to the sea.
 
 The coastal fog does not climb to the lake, but the lake makes its own. On still evenings in autumn and spring a white mist rises off the water and lies on it until well after sunrise, and on some mornings it stands so thick that the far shore is gone and the boats keep within call of the land.
 
@@ -52,7 +52,7 @@ The lake has no agreed line down its middle, and nobody has drawn one. At the no
 
 On the kingdom's shore above Dunmere the manors watch by night since the Durrask burned a mill, and the Grukar of [[place-aldermire|Aldermire]], in the wooded bog above the south-western shore, have turned west onto the Highlands' grazing.
 
-At Dunmere the court waits on the mists. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council of barons to accept his son as king-to-be, and both the king and the barons who oppose him have asked [[being-elfrunthrnl|Elfrun Thornley]], the First Seer, what the lake shows of it. She has read the mists three times since the autumn and has given no reading to either side. The advisor that [[affiliation-ordoarcanis|the Order]] keeps at the court has asked to stand on the shore with her when she reads again, and she has refused him.
+At Dunmere the court waits on the mists. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council of barons to accept his son as king-to-be, and both the king and the barons who oppose him have asked [[being-elfrunthrnl|Elfrun Thornlei]], the First Seer, what the lake shows of it. She has read the mists three times since the autumn and has given no reading to either side. The advisor that [[affiliation-ordoarcanis|the Order]] keeps at the court has asked to stand on the shore with her when she reads again, and she has refused him.
 
 ## See Also
 

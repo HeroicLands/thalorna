@@ -82,5 +82,5 @@ song, and the woman's grief does not make the returned man an ordinary living hu
 
 - [[affiliation-kingdomlgn|Kingdom of Malagna]] · [[place-malagna|Malagna]]
 - [[affiliation-grimvar|Grimvar]] · [[affiliation-hrafanvar|Hrafanvar]]
-- [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings and the ages of the north
+- [[lore-domseycount|The Domsei Count]]—the reckoning of the sittings and the ages of the north
 - [[lore-nordkinwars|The Kin-Wars]] · [[place-skalfvatan|Skalfvatan]]—the king under the ice

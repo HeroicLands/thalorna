@@ -1,6 +1,6 @@
 ---
 shortcode: leofwingreyw
-name: {full: Mildstan Greywik, aelw: [Lord Mildstan Greywik, Lord Mildstan]}
+name: {full: Mildstan Greiwik, aelw: [Lord Mildstan Greiwik, Lord Mildstan]}
 type: being
 subType: npc
 description: A wealthy merchant lord with diverse trading interests who is Dunith Chilton's most generous patron.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Mildstan Greywik is a 52-year-old man who stands 5'11" tall with a medium build. He has fair skin, ruddy complexion, red hair, and green eyes.
+Mildstan Greiwik is a 52-year-old man who stands 5'11" tall with a medium build. He has fair skin, ruddy complexion, red hair, and green eyes.
 
 # Dossier {#dossier}
 
-Mildstan Greywik is a wealthy merchant lord with diverse trading interests. He has been the most generous patron of [[being-aldthchltn|Dunith Chilton]] for five years, and regards her with a mixture of affection and proprietary ownership that borders on controlling.
+Mildstan Greiwik is a wealthy merchant lord with diverse trading interests. He has been the most generous patron of [[being-aldthchltn|Dunith Chilton]] for five years, and regards her with a mixture of affection and proprietary ownership that borders on controlling.

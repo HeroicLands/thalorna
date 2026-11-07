@@ -47,7 +47,7 @@ sohl: {system: {commonSkills: [aelwthlng]}}
 
 ## Overview {#overview}
 
-**The Lonagar** (_loh-NAH-gar_) are the smallest of [[lore-peshtarclans|the Peshtar's three tribes]], about seventeen thousand people in some twenty-five clans on [[place-nordmoor|the Nordmoor]], the open moor and cliff coast of the [[place-pshtrwldrns|Peshtar Wilderness]]'s north and north-west. They herd sheep and black cattle on the moor, fish the inlets from skin boats, and trade. Their shamans hold [Veyrael]{.name data-type="lore/deity"}, the walker in the mist, first of the gods, and read the fog for the boats.
+**The Lonagar** (_loh-NAH-gar_) are the smallest of [[lore-peshtarclans|the Peshtar's three tribes]], about seventeen thousand people in some twenty-five clans on [[place-nordmoor|the Nordmoor]], the open moor and cliff coast of the [[place-pshtrwldrns|Peshtar Wilderness]]'s north and north-west. They herd sheep and black cattle on the moor, fish the inlets from skin boats, and trade. Their shamans hold [Veirael]{.name data-type="lore/deity"}, the walker in the mist, first of the gods, and read the fog for the boats.
 
 Of the three tribes they deal most with the lowlands, and most peaceably. The coasters of [[affiliation-repblcndrth|Ondareth]] and of the north shore put in at their inlets with salt, iron and cloth and take away wool, hides and salted fish. Since the autumn of 719 the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]'s ships have closed that water, and the Lonagar have a War-Leader for the first time in a generation.
 
@@ -81,7 +81,7 @@ The clans of the western inlets, which the jarls' ships have not reached, want n
 
 ## The Gathering Place {#gathering-place}
 
-The Lonagar gather on the headland above the largest inlet, inside a ring of stones that looks out on the sea. The shamans keep the midwinter gathering there for Veyrael, when the fog is thickest, and the coasters' masters who come at that season are welcome at its fires and know not to go inside the ring.
+The Lonagar gather on the headland above the largest inlet, inside a ring of stones that looks out on the sea. The shamans keep the midwinter gathering there for Veirael, when the fog is thickest, and the coasters' masters who come at that season are welcome at its fires and know not to go inside the ring.
 
 ## Hooks {#hooks}
 

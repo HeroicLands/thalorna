@@ -1,6 +1,6 @@
 ---
 shortcode: alfrdbrnwl
-name: {full: Wilred Barnwell, aelw: [Thalos Graymoor]}
+name: {full: Wilred Barnwell, aelw: [Thalos Graimoor]}
 type: being
 subType: npc
 tags: [draft, mages]
@@ -401,7 +401,7 @@ Wilred Barnwell was born in [[place-kingsholow|Kingshollow]], a smaller settleme
 
 In his mid-thirties, Wilred's course took a sudden turn. The Order's demands for doctrinal purity and monopolistic control over all magical practice began to feel suffocating to a man raised on Eilwìth's foggy, liminal shores where the boundary between folk magic and learned sorcery had always been permeable. He began quietly gathering forbidden texts—records of pre-Order alchemy, techniques preserved by village cunning-folk, runecraft inscribed in stones. When [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) began investigating unauthorized practitioners in the borderlands, Wilred made his choice: he left the Epistémion (the Academy) quietly, taking with him his accumulated knowledge and his considerable arsenal of herbal recipes, mineral elixirs, and enchanted stones.
 
-For the past seven years, he has lived as what most know him as: a traveling healer and scholar named Thalos Graymoor, moving through the less-settled regions of Eilwìth—the deep forests, the misty moorlands, the fishing villages that the Order's reach only touches lightly. He supplies remedies, crafts bespoke alchemical aids for local craftsfolk and hunters, reads old texts for those who need guidance with the unseen, and conducts his deeper work in candlelit cellars and forest clearings where few ask questions. His knowledge of folklore makes him a trusted advisor on matters of local tradition, and he keeps a careful awareness of political currents that might threaten his precarious independence.
+For the past seven years, he has lived as what most know him as: a traveling healer and scholar named Thalos Graimoor, moving through the less-settled regions of Eilwìth—the deep forests, the misty moorlands, the fishing villages that the Order's reach only touches lightly. He supplies remedies, crafts bespoke alchemical aids for local craftsfolk and hunters, reads old texts for those who need guidance with the unseen, and conducts his deeper work in candlelit cellars and forest clearings where few ask questions. His knowledge of folklore makes him a trusted advisor on matters of local tradition, and he keeps a careful awareness of political currents that might threaten his precarious independence.
 
 He is faithful to [[lore-marendasdty|Marendas]]—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding does not stop at an institution's walls.
 
@@ -438,7 +438,7 @@ His status as a freeman and an outsider to formal [[lore-aelwythanclt|Eilwìthan
 ## Plot Hooks
 
 The Sekran's Attention
-: _Marendos_ (master) Teremos has begun interviewing the inhabitants of villages where "Thalos Graymoor" is known to operate. A villager has already described Wilred in passing detail, and Teremos is correlating the description with old Epistémion records. Wilred learns of this threat through his network of contacts, and can disappear, establish an alibi, or take a more dangerous path—offering the _marendos_ something he cannot refuse.
+: _Marendos_ (master) Teremos has begun interviewing the inhabitants of villages where "Thalos Graimoor" is known to operate. A villager has already described Wilred in passing detail, and Teremos is correlating the description with old Epistémion records. Wilred learns of this threat through his network of contacts, and can disappear, establish an alibi, or take a more dangerous path—offering the _marendos_ something he cannot refuse.
 
 The Forbidden Text
 : A desperate craftmaster comes to Wilred with a crisis: his daughter was poisoned by a rare substance, and the only effective cure lies in an alchemical procedure described in one of the restricted texts Wilred took from the Epistémion when he left. Making the cure would require harvesting ingredients that are monitored by Order guilds. Wilred must weigh the daughter's life against the risk of exposure.

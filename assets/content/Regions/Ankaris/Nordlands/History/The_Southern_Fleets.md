@@ -121,5 +121,5 @@ A Provénzian abbot's agent who knows which howe holds Ménavar's plate has a re
 [[lore-empirdclne|The Decline Begins]]
 : the empire's account of the same years
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the age of the Hunger and the Fleets

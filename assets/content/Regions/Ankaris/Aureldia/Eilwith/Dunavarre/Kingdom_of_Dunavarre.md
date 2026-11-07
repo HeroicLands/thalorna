@@ -101,7 +101,7 @@ Ambassador
 
 ## Current Situation {#present}
 
-**The war in the west.** The Order of the Just Blade is winning the Synod's war on the Seilvri, and it is not yet won. Each summer [[being-merraddovvrn|Sir Merrad Dovavren]] cuts the road a few miles deeper into [[place-teilvari|Teilvari]] from the Order's commandery at [[place-kelivren|Kelivren]], and about two thousand Seilvri are left in the forest. The realm honors the Order as its pride and its law on the roads, and on the western estates and in [[place-wraymouth|Wraymouth]] many of the same people call the war a murder. The Bursar wants to know how many more summers the road will cost, and the Order wants a final campaign.
+**The war in the west.** The Order of the Just Blade is winning the Synod's war on the Seilvri, and it is not yet won. Each summer [[being-merraddovvrn|Sir Merrad Dovavren]] cuts the road a few miles deeper into [[place-teilvari|Teilvari]] from the Order's commandery at [[place-kelivren|Kelivren]], and about two thousand Seilvri are left in the forest. The realm honors the Order as its pride and its law on the roads, and on the western estates and in [[place-wraymouth|Wraimouth]] many of the same people call the war a murder. The Bursar wants to know how many more summers the road will cost, and the Order wants a final campaign.
 
 **The taken valleys.** The valleys the Order took from the Seilvri are granted to estates, and their stewards hold the Seilvri who came out under the Order's terms as unfree tenants. The tenants of the western estates trade with the forest, and the Order hangs those it catches.
 

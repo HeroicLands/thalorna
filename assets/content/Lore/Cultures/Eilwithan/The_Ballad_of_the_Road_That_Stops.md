@@ -171,7 +171,7 @@ And his hand upon his breast.
 
 Then stone was under his left foot,/
 And stone beneath his right,/
-So klose they fitted that no knife/
+So klose thei fitted that no knife/
 Kould find a gap of light.
 
 The krown road was it, the old road,/
@@ -187,9 +187,9 @@ And it hath a stopped mouth.»
 But thikke the fog and sure the stone,/
 And soft the kine went on,/
 As kine go home at milking time/
-When the light of day is gone.
+When the light of dai is gone.
 
-All the long day he drove them on,/
+All the long dai he drove them on,/
 With oaks on either hand,/
 And the least oak there was older yet/
 Than the oldest in the land.
@@ -205,14 +205,14 @@ The road ran up unto the oaks/
 And stopped, as a man might die.
 
 And in among the oaks there stood/
-A tall one, grey and still,/
+A tall one, grei and still,/
 That looked on Edwald and the kine/
 And spoke not, good nor ill.
 
 Then Edwald took his kap in hand,/
 As he was taught of old./
 «Good evening, sir. Who laid this road?/
-I pray thee, be it told.»
+I prai thee, be it told.»
 
 The tall one looked along the road,/
 And looked upon the kine,/
@@ -251,22 +251,22 @@ That kame up to his knees.
 
 And never a beast of all the kine/
 Would set her foot thereon./
-They grazed about it as they went,/
+Thei grazed about it as thei went,/
 And left it, and were gone.
 
 A sennight late he kame home/
-Along the kommon way./
+Along the kommon wai./
 His grandsire met him at the gate./
-«Where hast thou been? Now say‼»
+«Where hast thou been? Now sai‼»
 
 «I took the krown road south, grandsire,/
 The road betwikst the oaks,/
 And he that keepeth it I saw,/
 And never word he spoke.»
 
-«And who did lay the old road, lad,/
+«And who did lai the old road, lad,/
 And whi is it stopped?» said he./
-«They laid it, grandsire, and they stopped./
+«Thei laid it, grandsire, and thei stopped./
 No more was told to me.»
 
 And when the great snow fell that year,/
@@ -276,7 +276,7 @@ Or die there in the frost,
 
 Then Edwald drove them bi the stone,/
 Where none but he would go,/
-And the oaks along it kept the way/
+And the oaks along it kept the wai/
 Akross the blind white snow.
 
 He brought them down, both kow and kalf,/
