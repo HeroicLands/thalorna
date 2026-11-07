@@ -35,7 +35,7 @@ import fs from "node:fs";
 import { reviewedNativeForms, reviewedAffixExamples } from "./vowel-pairs-adjudications.mjs";
 import path from "node:path";
 import YAML from "yaml";
-import { addressOfText, noteFiles, noteFilesWhere } from "./note-index.mjs";
+import { addressOfText, noteFiles, noteFilesWhere, notePath } from "./note-index.mjs";
 import { parseAddress } from "@heroiclands/package-build/engine/address";
 import { resolveNoteLanguages } from "@heroiclands/package-build/engine/note-language";
 import { scanRuns } from "@heroiclands/package-build/engine/content-scripts";
@@ -423,12 +423,7 @@ const DEPRECATED = new Map([
 const WORD = /[\p{L}\p{M}]+(?:[-'’][\p{L}\p{M}]+)*/gu;
 const baseLetter = (s) => s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
 
-const GUIDE_GROUPS = groupsOf(
-    fs.readFileSync(
-        new URL("../assets/content/Lore/Pronouncing_Thalorna.md", import.meta.url),
-        "utf8",
-    ),
-);
+const GUIDE_GROUPS = groupsOf(fs.readFileSync(notePath("doc-prnncthlrn"), "utf8"));
 
 /** Closing ay/ey/oy, in original UTF-16 coordinates, with only y changed.
  * Consume guide vowel groups first; a marked vowel after y still starts
