@@ -26,16 +26,16 @@ The kings of Aldorath were crowned at [[place-kingsholow|Kingshollow]] and ruled
 
 ## Current Situation {#present}
 
-The council of barons sits at Dunmere at midsummer, and the city is already filling with retinues. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council to accept his nine-year-old son as king-to-be, and [[being-godwaldstrl|Godwald Storlei]], the Elder of the Council, holds most of the barons against it. Every baron's town house is a place where voices are bought, and the court waits on the First Seer, [[being-elfrunthrnl|Elfrun Thornlei]], who has read the lake three times on the matter and given no reading.
+The council of barons sits at Dunmere at midsummer, and the city is already filling with retinues. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council to accept his nine-year-old son as king-to-be, and [[being-godwaldstrl|Godwald Storli]], the Elder of the Council, holds most of the barons against it. Every baron's town house is a place where voices are bought, and the court waits on the First Seer, [[being-elfrunthrnl|Elfrun Thornli]], who has read the lake three times on the matter and given no reading.
 
 ## The Holder {#holder}
 
 The king holds the city and the castle, and the officers of the crown keep their households here:
 
 - [[being-aldrikdrthng|Aldrik Drething]], the King.
-- [[being-godwaldstrl|Godwald Storlei]], the Elder of the Council, who keeps a house in the city for the months the council sits.
-- [[being-aldrithwlfl|Aldrith Wolflei]], the Steward, who keeps the royal household and the exchequer.
-- [[being-elfrunthrnl|Elfrun Thornlei]], the First Seer, who reads the lake from the shore below the castle.
+- [[being-godwaldstrl|Godwald Storli]], the Elder of the Council, who keeps a house in the city for the months the council sits.
+- [[being-aldrithwlfl|Aldrith Wolfli]], the Steward, who keeps the royal household and the exchequer.
+- [[being-elfrunthrnl|Elfrun Thornli]], the First Seer, who reads the lake from the shore below the castle.
 
 Everything a feudal kingdom does is done here: the king's court and household, the assize, the exchequer
 such as it is, the great fairs, and the perpetual attendance of lords who must be seen at court often

@@ -1,9 +1,9 @@
 ---
 shortcode: dnstnhlmsly
-name: {full: Harstan Helmslei}
+name: {full: Harstan Helmsli}
 type: being
 subType: npc
-description: "Harstan Helmslei heads a landed household outside Ashford."
+description: "Harstan Helmsli heads a landed household outside Ashford."
 tags: [administration]
 data:
   icon: icon-person
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Harstan Helmslei is a 48-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
+Harstan Helmsli is a 48-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
 **Age 48. Chieftain.**
 
-Harstan Helmslei heads a landed household outside [[place-ashford|Ashford]]. His kin call him their chieftain; his authority in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] rests on his manor and the men he maintains. He is a formidable fighter and settles household quarrels too readily by telling the disputants to stand before him in the yard.
+Harstan Helmsli heads a landed household outside [[place-ashford|Ashford]]. His kin call him their chieftain; his authority in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] rests on his manor and the men he maintains. He is a formidable fighter and settles household quarrels too readily by telling the disputants to stand before him in the yard.
 
 His cattle and wool pass through Ashford, where merchant creditors possess money but little political voice. The bridge toll dispute touches his own carts. Harstan wants to lead his men through the ford as a demonstration, while the people driving his animals ask who pays for a broken axle or a drowned beast.
 

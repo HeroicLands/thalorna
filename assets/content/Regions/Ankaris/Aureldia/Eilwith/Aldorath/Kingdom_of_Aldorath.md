@@ -100,13 +100,13 @@ King
 : [[being-aldrikdrthng|Aldrik Drething]], the Sovereign, who reigns from Dunmere.
 
 Elder of the Council
-: [[being-godwaldstrl|Godwald Storlei]], a baron of [[place-aldorvale|the Aldorvale]], speaks for the barons and keeps their record of the crowning.
+: [[being-godwaldstrl|Godwald Storli]], a baron of [[place-aldorvale|the Aldorvale]], speaks for the barons and keeps their record of the crowning.
 
 Steward
-: [[being-aldrithwlfl|Aldrith Wolflei]] keeps the royal household at Dunmere and Kingshollow and the crown's exchequer.
+: [[being-aldrithwlfl|Aldrith Wolfli]] keeps the royal household at Dunmere and Kingshollow and the crown's exchequer.
 
 First Seer
-: [[being-elfrunthrnl|Elfrun Thornlei]] reads the lake for the crown and the council.
+: [[being-elfrunthrnl|Elfrun Thornli]] reads the lake for the crown and the council.
 
 Warden of the Wiindmarch
 : [[being-kenwaldhghd|Kenwald Highden]] holds [[place-caerwynd|Kaerwiind]] and the march against the passes and the forest.
@@ -118,7 +118,7 @@ Forester
 
 Aldrik Drething was crowned at Kingshollow in 711 AF and has reigned since. He is a soldier king whose quarrel is with his own council.
 
-- **The heir.** The king has asked the council of barons to accept his nine-year-old son at Kingshollow as king-to-be, while the king lives. No king of Aldorath has been accepted before his father's burial, and Godwald Storlei holds the council against it: the crown is the barons' to give at each vacancy. The council sits at Dunmere at midsummer, and the king is buying voices among the barons of the Aldorvale with royal forest and marriages.
+- **The heir.** The king has asked the council of barons to accept his nine-year-old son at Kingshollow as king-to-be, while the king lives. No king of Aldorath has been accepted before his father's burial, and Godwald Storli holds the council against it: the crown is the barons' to give at each vacancy. The council sits at Dunmere at midsummer, and the king is buying voices among the barons of the Aldorvale with royal forest and marriages.
 - **Midwinter.** The king has kept the last three midwinter feasts at Dunmere rather than at Kingshollow, and the Steward has stood at the hall door in his place when the tenants sang [[lore-kingswassail|the Wassail]]. The barons count each absence as a slight to the gift.
 - **The seers.** Both the king and the Elder have asked the First Seer what the lake shows of the boy, and she has given neither of them a reading.
 - **The march.** The barons' levies reach Kaerwiind late and short, and the Warden reports that he cannot hold [[place-sunderfells|the Sunderfells]] passes against [[affiliation-jrldmstrmvld|Stormveld]] and the forest margin against the [[lore-grukaraelwyth|Grukar]] with the men he has. The barons answer that the king can have more men when he stops asking for their crown.

@@ -1,6 +1,6 @@
 ---
 shortcode: mildithbarnley
-name: {full: Mildith Barnlei}
+name: {full: Mildith Barnli}
 type: being
 subType: npc
 description: A quiet novice of the Silent Watch, sent to inquire after the stopped returns from Threnhallow.
@@ -33,13 +33,13 @@ data:
 
 # Appearance {#appearance}
 
-Mildith Barnlei is a young novice in the faith’s black, speaking softly and keeping a small knife near her hand. She watches a doorway through a whole conversation and marks what she sees before offering an explanation.
+Mildith Barnli is a young novice in the faith’s black, speaking softly and keeping a small knife near her hand. She watches a doorway through a whole conversation and marks what she sees before offering an explanation.
 
 # Dossier {#dossier}
 
 **Novice of the Silent Watch.**
 
-Mildith Barnlei is a novice of the Silent Watch within [[affiliation-selmoros|Faith of Sélmoros]]. Her work brings her to [[place-threnhallow|Threnhallow]], whose returns to the faith have stopped.
+Mildith Barnli is a novice of the Silent Watch within [[affiliation-selmoros|Faith of Sélmoros]]. Her work brings her to [[place-threnhallow|Threnhallow]], whose returns to the faith have stopped.
 
 ## Background
 

@@ -1,82 +1,80 @@
 ---
-shortcode: audryhrdng
-name: {full: Audrei Harding, aelw: [Shénasene Callista Tradewind]}
+shortcode: hrldhlmsly
+name: {full: Harwald Helmsli}
 type: being
 subType: npc
-description: "Audrei Harding is a priest of Ólvenia in Greiwater, where she witnesses contracts and mediates cargo disputes."
-tags: [clergy]
+description: "Harwald Helmsli trains draft animals at Kaerwiind."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [cleric]
-  occupation: Priest
+  archetypes: [commoner]
+  occupation: Animal Trainer
   lore: []
   culture: aelwythanclt
-  homes: [greywater]
-  affiliations: {kngdmldrth: {rank: 5}, olvenia: {rank: 3}}
-  gender: female
+  homes: [caerwynd]
+  affiliations: {kngdmldrth: {rank: 2}, lizelas: {rank: 1}}
+  gender: male
   species: humanflk
-  born: "689.18"
-  height: 5' 6"
-  weight: 141 lbs
+  born: 675.38
+  height: 6' 3"
+  weight: 183 lbs
   frame: medium
   appearance:
-    eye_color: amber
-    hair_color: chestnut
-    skin_color: medium
-    complexion: [weathered]
-    extra_features: []
+    eye_color: brown
+    hair_color: dark_brown
+    skin_color: pale
+    complexion: [clear]
+    extra_features: [a tattoo of a woman on the shoulder]
   packFolder: aureldiaaelwyth
 sohl:
   items:
-    - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-end, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-per, system: {scoreBase: 16}}
-    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 15}}
-    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
-    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 18}}
-    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
-    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 17}}
-    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 34}}
-    - {model: sohl-sohl-skill-embl, system: {masteryLevelBase: 68}}
-    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 51}}
-    - {model: sohl-sohl-skill-ritual, system: {masteryLevelBase: 45}}
-    - {model: skill-thrvrdhscrpt, system: {masteryLevelBase: 85}}
-    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 68}}
-    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 7}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 10}}
+    - {model: sohl-sohl-skill-brew, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 44}}
-    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 10}}
+    - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 12}}
-    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 75}}
-    - {model: sohl-sohl-skill-common, system: {masteryLevelBase: 17}}
-    - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 34}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-slng, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 22}}
+    - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 20}}
+    - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 60}}
   system:
     body:
       structure:
@@ -396,28 +394,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Audrei Harding is a 30-year-old woman of medium build, with amber eyes, weathered skin and chestnut hair falling past her shoulders. Her fine linen stays clean even at the quay; she sits very still while another person reads a contract.
+Harwald Helmsli is a 44-year-old man who stands 6'3" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a pointed chin. His round brown eyes sit beneath expressive brows, lending him a candid gaze. A slightly upturned nose and curved lips complete his features. He has pale skin with a clear complexion. His dark brown hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-**Age 30. Priest.**
+**Age 44. Animal Trainer.**
 
-Audrei Harding is a priest of [[affiliation-olvenia|Faith of Ólvenia]] in [[place-greywater|Greiwater]], where she witnesses contracts and mediates cargo disputes. She can turn a quarrel over a damaged bale into three exact questions: who owned it, who carried it and who agreed to bear the loss. Her fees buy fine linen and a well-kept room for consultations.
+Harwald Helmsli trains draft animals at [[place-caerwynd|Kaerwiind]]. He works a frightened horse beside a settled one, introduces harness a piece at a time and refuses to solve balking with a beating. The garrison's carts need willing teams more than splendid animals.
 
-Greiwater's mainland trade passes through [[place-ravenmoor|Ravenmoor]] in both directions. Audrei's clients resent paying for a second harbor's delays. She collects their claims by vessel and date, refusing to treat a missing hull, detained cargo and spoiled wool as the same loss. She wants an account the [[affiliation-dunavarsynod|Dúnavarre Synod]] cannot dismiss as dockside complaint.
+The levies reach the fortress late and short, bringing draft beasts unfamiliar with the march roads. Harwald wants each team ready before it carries a patrol's supplies. He can teach an ox patience; teaching the officer waiting for it is harder.
 
 ## Psyche
 
-Audrei enjoys an elegant agreement more than a grateful embrace. She listens closely to numbers and needs reminding to listen as closely to grief. She is generous with time when a problem interests her and exacting about her fee when it does not.
+Quiet and obstinate, Harwald trusts repeated work over clever shortcuts. He is calm around frightened animals and curt around impatient handlers. He wants the drivers to understand the teams rather than need him at every difficult turn.
 
 ## Social
 
-Shipmasters and wool merchants retain her; smaller traders combine their claims to afford her. [[being-kenwinhighmo|Kenwin Highmore]] keeps the harbor guard and has practical reasons to want reliable sailing accounts. Audrei asks him for records, not exemptions from inspection.
+Farmers and garrison carters hire him directly. [[being-kenwaldhghd|Kenwald Highden]] needs sound transport for the Wiindmarch; Harwald's judgments reach the Warden through the officers buying teams. A rejected animal means an angry supplier as well as a safer cart.
 
 ## Plot Hooks
 
-Who pays for the wait
-: A wool cargo loses its buyer while detained at Ravenmoor. Audrei asks for the inspection dates and the buyer's original terms; the carrier and seller each claim the other accepted this risk.
+A team for the pass
+: A supply cart has two animals that pull apart under strain. Harwald asks for a quiet practice ground and a day with the driver before the officer sends them toward [[place-sunderfells|The Sunderfells]].
 
-The empty berth
-: A creditor wants a missing ship's goods sold before its master returns. Audrei asks the party to trace the vessel's last compulsory call before she witnesses an agreement that disposes of another person's livelihood.
+The borrowed ox
+: A levy arrives with an ox whose owner demands its return for plowing. Harwald needs the hiring terms read and a replacement found; neither a hungry field nor a stranded garrison can wait on a long lawsuit.

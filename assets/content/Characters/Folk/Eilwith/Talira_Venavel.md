@@ -41,7 +41,7 @@ Talira Venavel is a 37-year-old woman of 5'9" and medium build, with tanned, wea
 
 Talira Venavel keeps the harbors of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], their customs and the compulsory call: every ship crossing between the mainland and [[place-eilwith|Eilwìth]] puts in first at the inspection quay at [[place-ravenmoor|Ravenmoor]], and her officers search it. Anything magical is recorded, and she decides what is detained. She is not a mage, and the Synod's mages examine what she holds.
 
-She came up through the harbor-masters' offices at [[place-wraymouth|Wraimouth]], and the harbor-master there, [[being-alfrithbrnly|Alfrith Brinlei]], was her clerk. This year the Order of the Just Blade wants outbound ships searched for Seilvri furs and wax as well as relics, and she has not yet given the order.
+She came up through the harbor-masters' offices at [[place-wraymouth|Wraimouth]], and the harbor-master there, [[being-alfrithbrnly|Alfrith Brinli]], was her clerk. This year the Order of the Just Blade wants outbound ships searched for Seilvri furs and wax as well as relics, and she has not yet given the order.
 
 ## Psyche
 

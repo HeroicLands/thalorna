@@ -73,7 +73,7 @@ The veterans of the frontier legion who sit in the Senate, and the shipping hous
 
 ### Patrons
 
-[[being-winiwldbrnl|Winiwald Barnlei]], the theronos, who has backed him since his first seat.
+[[being-winiwldbrnl|Winiwald Barnli]], the theronos, who has backed him since his first seat.
 
 ### Enemies
 

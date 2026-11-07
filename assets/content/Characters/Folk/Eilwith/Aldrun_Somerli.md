@@ -1,6 +1,6 @@
 ---
 shortcode: aldrunsmrl
-name: {full: Aldrun Somerlei, en: [Ambassador Aldrun, The Ambassador]}
+name: {full: Aldrun Somerli, en: [Ambassador Aldrun, The Ambassador]}
 type: being
 subType: npc
 description: "Ambassador of the Republic of Ondareth, who carries the Senate's business to Veldareth and the mainland and presses the Table of Veldareth to say whose Speaker its Speaker is."
@@ -33,13 +33,13 @@ data:
 
 # Appearance {#appearance}
 
-Aldrun Somerlei is a 43-year-old woman of 5'5" and light build, with fair, clear skin, dark blonde hair worn up under a net and hazel eyes. She dresses in the Vilérian fashion of twenty years ago, which is the newest Thornbury has.
+Aldrun Somerli is a 43-year-old woman of 5'5" and light build, with fair, clear skin, dark blonde hair worn up under a net and hazel eyes. She dresses in the Vilérian fashion of twenty years ago, which is the newest Thornbury has.
 
 # Dossier {#dossier}
 
 **Age 43. Ambassador of the Republic of Ondareth. Wants to know whose man the Speaker of Veldareth is.**
 
-Aldrun Somerlei carries the business of the [[affiliation-senatondrth|Senate of Ondareth]] to foreign powers and reports to it on her return. She is the daughter of a shipping house of the _gulmenoi_, she has been to the [[affiliation-vylarinmpr|Vilérian Empire]] twice with the Senate's embassies, and she speaks better Vilari than anyone in the chamber, which the chamber does not know.
+Aldrun Somerli carries the business of the [[affiliation-senatondrth|Senate of Ondareth]] to foreign powers and reports to it on her return. She is the daughter of a shipping house of the _gulmenoi_, she has been to the [[affiliation-vylarinmpr|Vilérian Empire]] twice with the Senate's embassies, and she speaks better Vilari than anyone in the chamber, which the chamber does not know.
 
 This year the Senate has sent her to [[place-veldareth|Veldareth]]. Her instructions are to learn whether [[being-leofwldchlwl|Leofwald Chilwell]], the master of the chapterhouse and Speaker of the city's Table, answers to the [[affiliation-dunavarsynod|Dúnavarre Synod]], and to buy copies of his letters to Ravenmoor if she cannot learn it otherwise.
 

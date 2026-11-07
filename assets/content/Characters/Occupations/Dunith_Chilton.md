@@ -414,7 +414,7 @@ Dunith delights in making a room turn toward her. She is inventive, flattering a
 
 ## Social
 
-[[being-godrunwinley|Godrun Winley]], the high priestess, values the income of the suppers. Fellow priest [[being-edwalddunmor|Edwald Dunmore]] insists that worship needs room among the negotiations. Dunith treats his objections politely and gives her best seats to the people paying for them.
+[[being-godrunwinley|Godrun Winli]], the high priestess, values the income of the suppers. Fellow priest [[being-edwalddunmor|Edwald Dunmore]] insists that worship needs room among the negotiations. Dunith treats his objections politely and gives her best seats to the people paying for them.
 
 ## Plot Hooks
 

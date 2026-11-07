@@ -1,6 +1,6 @@
 ---
 shortcode: kenrikbrandley
-name: {full: Kenrik Brandlei}
+name: {full: Kenrik Brandli}
 type: being
 subType: npc
 description: A patrolman of Sunderwiind who knows its yard, cistern and gorge trail.
@@ -33,13 +33,13 @@ data:
 
 # Appearance {#appearance}
 
-Kenrik Brandlei holds a crossbow with steady hands. His clothes are filthy, his face hollow with missed sleep, and his eyes keep returning to the beams above a doorway.
+Kenrik Brandli holds a crossbow with steady hands. His clothes are filthy, his face hollow with missed sleep, and his eyes keep returning to the beams above a doorway.
 
 # Dossier {#dossier}
 
 **Patrolman.**
 
-Kenrik Brandlei serves the garrison of [[place-sunderwynd|Sunderwiind]], on the Ironfells approach from [[place-caerwynd|Kaerwiind]]. He knows its rooms, yard, waterworks and the trail that supplies it.
+Kenrik Brandli serves the garrison of [[place-sunderwynd|Sunderwiind]], on the Ironfells approach from [[place-caerwynd|Kaerwiind]]. He knows its rooms, yard, waterworks and the trail that supplies it.
 
 ## Background
 

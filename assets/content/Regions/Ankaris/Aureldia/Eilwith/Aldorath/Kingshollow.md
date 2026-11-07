@@ -32,7 +32,7 @@ villagers dread and profit from in roughly equal measure.
 
 ## Who Leads It {#who-leads}
 
-The hall's bailiff keeps the village and the royal manor for the crown under [[being-aldrithwlfl|Aldrith Wolflei]], the Steward of the household, and [[being-dunrikbrndw|Dunrik Brandwik]], the Forester, keeps the royal forest above it from the forest lodge and holds its forest court.
+The hall's bailiff keeps the village and the royal manor for the crown under [[being-aldrithwlfl|Aldrith Wolfli]], the Steward of the household, and [[being-dunrikbrndw|Dunrik Brandwik]], the Forester, keeps the royal forest above it from the forest lodge and holds its forest court.
 
 ## The Hunting
 

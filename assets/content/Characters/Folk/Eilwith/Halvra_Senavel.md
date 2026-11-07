@@ -72,7 +72,7 @@ The Order is the realm's pride, and a Bursar who counts its dead is easy to call
 
 ### Companions
 
-Her clerks, and the harbor-masters who send her the customs, [[being-alfrithbrnly|Alfrith Brinlei]] of Wraimouth among them.
+Her clerks, and the harbor-masters who send her the customs, [[being-alfrithbrnly|Alfrith Brinli]] of Wraimouth among them.
 
 ### Patrons
 

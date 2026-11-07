@@ -414,7 +414,7 @@ Shrewd and pleasant to paying customers, Dunred counts prestige among his expens
 
 ## Social
 
-The household under [[being-aldrithwlfl|Aldrith Wolfley]] is his largest buyer. Dunmere merchants supply him on credit; the village's bailiff expects deliveries whether the palace settles its account or not.
+The household under [[being-aldrithwlfl|Aldrith Wolfli]] is his largest buyer. Dunmere merchants supply him on credit; the village's bailiff expects deliveries whether the palace settles its account or not.
 
 ## Plot Hooks
 

@@ -77,7 +77,7 @@ The clerks of the treasury, and the factors of the shipping houses who lend to t
 
 ### Enemies
 
-[[being-edstanbrnwk|Edstan Brinwik]] and [[being-godstanhrdl|Godstan Hardlei]], whose fleet and legion he will not pay for.
+[[being-edstanbrnwk|Edstan Brinwik]] and [[being-godstanhrdl|Godstan Hardli]], whose fleet and legion he will not pay for.
 
 ### Affiliations
 

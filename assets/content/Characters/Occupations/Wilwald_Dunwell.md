@@ -411,7 +411,7 @@ Earnest and practical, Wilwald expects an argument about land to turn on what th
 
 ## Social
 
-The bailiff values his paid dues. [[being-dunrikbrndw|Dunrik Brandwik]] hears his forest claims, and [[being-aldrithwlfl|Aldrith Wolfley]] expects the manor's contribution to the household. The tenants trust him enough to complain to his face.
+The bailiff values his paid dues. [[being-dunrikbrndw|Dunrik Brandwik]] hears his forest claims, and [[being-aldrithwlfl|Aldrith Wolfli]] expects the manor's contribution to the household. The tenants trust him enough to complain to his face.
 
 ## Plot Hooks
 

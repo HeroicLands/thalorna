@@ -1,6 +1,6 @@
 ---
 shortcode: aldrithwlfl
-name: {full: Aldrith Wolflei, en: [The Steward]}
+name: {full: Aldrith Wolfli, en: [The Steward]}
 type: being
 subType: npc
 description: "The Steward of Aldorath's royal household, who keeps the king's house at Dunmere and Kingshollow and its purse, and who answers at the hall door at Kingshollow when the king keeps midwinter elsewhere."
@@ -36,13 +36,13 @@ data:
 
 # Appearance {#appearance}
 
-Aldrith Wolflei is a 51-year-old woman who stands 5'4" tall and is of medium build. She has light, ruddy skin, black hair going gray under a linen cap and brown eyes. The first two fingers of her right hand are stained with ink. She wears the household's badge on a plain gown and keeps a tally-stick in her sleeve.
+Aldrith Wolfli is a 51-year-old woman who stands 5'4" tall and is of medium build. She has light, ruddy skin, black hair going gray under a linen cap and brown eyes. The first two fingers of her right hand are stained with ink. She wears the household's badge on a plain gown and keeps a tally-stick in her sleeve.
 
 # Dossier {#dossier}
 
 **Age 51. Steward of the royal household. Wants the household's accounts to come out even this year, and the king back at Kingshollow for midwinter.**
 
-Aldrith Wolflei is the Steward of the [[affiliation-kngdmldrth|Kingdom of Aldorath]]'s royal household. She keeps the king's house at [[place-dunmere|Dunmere]] and his old hall at [[place-kingsholow|Kingshollow]], its servants, its stores and its purse, and the crown's revenue passes through her exchequer at Dunmere before the king spends it. She is of a gentry family of the Aldorvale and has kept the king's house since he was a prince of twenty.
+Aldrith Wolfli is the Steward of the [[affiliation-kngdmldrth|Kingdom of Aldorath]]'s royal household. She keeps the king's house at [[place-dunmere|Dunmere]] and his old hall at [[place-kingsholow|Kingshollow]], its servants, its stores and its purse, and the crown's revenue passes through her exchequer at Dunmere before the king spends it. She is of a gentry family of the Aldorvale and has kept the king's house since he was a prince of twenty.
 
 For three midwinters the king has kept the feast at Dunmere, and Aldrith has gone down to Kingshollow in his place. She stood at the shut hall door when the tenants sang [[lore-kingswassail|the Wassail]], gave them the tree the forester had marked, and heard the verse they do not sing to the king. She has told him what it says, and she has told him that the barons at Dunmere hear of it within the week.
 

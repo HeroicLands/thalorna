@@ -1,6 +1,6 @@
 ---
 shortcode: godwaldstrl
-name: {full: Godwald Storlei, en: [The Elder of the Council]}
+name: {full: Godwald Storli, en: [The Elder of the Council]}
 type: being
 subType: npc
 description: "The Elder of Aldorath's council of barons, an old baron of the Aldorvale who keeps the barons' record of the crown as their gift and leads the council against the king's wish to have his son accepted early."
@@ -36,13 +36,13 @@ data:
 
 # Appearance {#appearance}
 
-Godwald Storlei is a 60-year-old man who stands 5'7" tall and is of light build. He has fair, wrinkled skin, white hair and pale blue eyes, and he keeps his long white beard in a single plait. He dresses in the dark wool of the Aldorvale's old houses and carries a staff he does not need.
+Godwald Storli is a 60-year-old man who stands 5'7" tall and is of light build. He has fair, wrinkled skin, white hair and pale blue eyes, and he keeps his long white beard in a single plait. He dresses in the dark wool of the Aldorvale's old houses and carries a staff he does not need.
 
 # Dossier {#dossier}
 
 **Age 60. Baron of the Aldorvale and Elder of the Council. Wants the crown to stay the barons' gift, given anew at every vacancy.**
 
-Godwald Storlei holds manors in [[place-aldorvale|the Aldorvale]] of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] that his family held before there was a king, and he keeps a house at [[place-dunmere|Dunmere]] for the months the court and the council sit. The barons chose him Elder of the Council, and he speaks for them to the king, calls the council when it must meet without the crown, and keeps the barons' record: the account in which the crown is the barons' gift to [Drethar of Kingshollow]{.name data-type="being/npc"} ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]).
+Godwald Storli holds manors in [[place-aldorvale|the Aldorvale]] of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] that his family held before there was a king, and he keeps a house at [[place-dunmere|Dunmere]] for the months the court and the council sit. The barons chose him Elder of the Council, and he speaks for them to the king, calls the council when it must meet without the crown, and keeps the barons' record: the account in which the crown is the barons' gift to [Drethar of Kingshollow]{.name data-type="being/npc"} ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]).
 
 He reads that record plainly. A king is crowned when the barons have buried his father and accepted him, and not before. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council to accept his nine-year-old son as king-to-be in his own lifetime, and Godwald holds the council against it. He says that the barons who accept a boy now have given away the one thing that makes them barons and not tenants.
 

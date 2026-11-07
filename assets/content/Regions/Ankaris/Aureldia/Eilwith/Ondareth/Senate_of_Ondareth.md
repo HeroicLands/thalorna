@@ -65,7 +65,7 @@ First Senator
 Clerk of the Senate
 : [[being-osrithgrydn|Osrith Graiden]], who keeps the roll and the decrees and reads each decree on the steps.
 
-The republic's magistrates sit in the chamber as senators and answer to it for their year: the two _tavoi_ [[being-kuthwldashdn|Kuthwald Ashden]] and [[being-alfmundkrtn|Alfmund Kaerton]], the _vornos_ [[being-mildrikhshwl|Mildrik Hushwell]], the _theronos_ [[being-winiwldbrnl|Winiwald Barnlei]] and the _tarkelos_ [[being-leofmndstrmd|Leofmund Stormden]].
+The republic's magistrates sit in the chamber as senators and answer to it for their year: the two _tavoi_ [[being-kuthwldashdn|Kuthwald Ashden]] and [[being-alfmundkrtn|Alfmund Kaerton]], the _vornos_ [[being-mildrikhshwl|Mildrik Hushwell]], the _theronos_ [[being-winiwldbrnl|Winiwald Barnli]] and the _tarkelos_ [[being-leofmndstrmd|Leofmund Stormden]].
 
 ## How It Decides {#how-it-decides}
 
@@ -79,9 +79,9 @@ The vote is the end of the matter and seldom where it is decided. The men of the
 
 **The northern water.** Stormveld's jarls have taken a Thornbury coaster off the Nordfells, crew and cargo. The shipping houses want the fleet sent north, the Prefect of the Fleet, [[being-edstanbrnwk|Edstan Brinwik]], wants to take it, and the Tarkelos says the treasury cannot pay for the fleet and the frontier both.
 
-**The frontier.** The Senate has voted the Vandraks at [[place-kaermouth|Kaermouth]], [[being-godstanhrdl|Godstan Hardlei]], another legion's worth of levies and no money to feed them. The Lusos, [[being-wilrikbrnwl|Wilrik Brownwell]], speaks against the levy in the assembly, and the citizens of the coast cheer him.
+**The frontier.** The Senate has voted the Vandraks at [[place-kaermouth|Kaermouth]], [[being-godstanhrdl|Godstan Hardli]], another legion's worth of levies and no money to feed them. The Lusos, [[being-wilrikbrnwl|Wilrik Brownwell]], speaks against the levy in the assembly, and the citizens of the coast cheer him.
 
-**Veldareth.** The Senate's Ambassador, [[being-aldrunsmrl|Aldrun Somerlei]], is instructed to learn whether the Speaker of [[place-veldareth|Veldareth]]'s Table answers to the [[affiliation-dunavarsynod|Dúnavarre Synod]], and to buy his letters if she cannot.
+**Veldareth.** The Senate's Ambassador, [[being-aldrunsmrl|Aldrun Somerli]], is instructed to learn whether the Speaker of [[place-veldareth|Veldareth]]'s Table answers to the [[affiliation-dunavarsynod|Dúnavarre Synod]], and to buy his letters if she cannot.
 
 ## How a Party Meets It {#how-a-party-meets-it}
 
@@ -91,7 +91,7 @@ A party with business before the Senate needs a senator to put it there, and a s
 
 - **The houses below the rock.** Kuthwald Ashden wants proof that the freedman who bought the houses at the foot of the Tyrant's Rock bought them with Harwin Greimore's money, before the Senate debates the rock.
 - **A captured crew.** The shipping house that owned the coaster taken off the Nordfells wants its crew bought back from Stormveld before the Senate decides anything.
-- **The levy money.** Godstan Hardlei wants the frontier legion paid, and he will owe a party that finds the money the Senate did not vote.
+- **The levy money.** Godstan Hardli wants the frontier legion paid, and he will owe a party that finds the money the Senate did not vote.
 
 ## See Also
 

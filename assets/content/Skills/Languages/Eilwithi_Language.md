@@ -3914,7 +3914,7 @@ data:
       - "Grailing"
       - "Harden"
       - "Harding"
-      - "Helmslei"
+      - "Helmsli"
       - "Osgood"
       - "Sherwin"
       - "Somervell"
@@ -3928,8 +3928,8 @@ data:
       - "Ravenwell"
       - "Stormwell"
       - "Hushwell"
-      - "Brinlei"
-      - "Thornlei"
+      - "Brinli"
+      - "Thornli"
       - "Greimore"
       - "Highmore"
       - "Ravenmore"
@@ -3939,25 +3939,25 @@ data:
       - "Kolddon"
       - "Highdon"
       - "Wolfwik"
-      - "Wolflei"
+      - "Wolfli"
       - "Wolfden"
       - "Storwik"
-      - "Storlei"
+      - "Storli"
       - "Somerton"
-      - "Sherlei"
+      - "Sherli"
       - "Hardwell"
       - "Wigwik"
       - "Wigden"
       - "Alverwik"
-      - "Alverlei"
+      - "Alverli"
       - "Brandwik"
-      - "Brandlei"
-      - "Brownlei"
+      - "Brandli"
+      - "Brownli"
       - "Chilmore"
       - "Dunwik"
       - "Dunmore"
-      - "Winlei"
-      - "Barnlei"
+      - "Winli"
+      - "Barnli"
       - "Adwik"
   scope:
     types: [place, being]
@@ -4138,7 +4138,7 @@ data:
     - {form: gar, position: opening, kind: byname, sense: a spear, examples: [Garmon]}
     - {form: grai, position: opening, kind: byname, sense: gray, examples: [Grailing]}
     - {form: hard, position: opening, kind: byname, sense: "hardy, stout", examples: [Harding]}
-    - {form: helm, position: opening, kind: byname, sense: a helm, examples: [Helmslei]}
+    - {form: helm, position: opening, kind: byname, sense: a helm, examples: [Helmsli]}
     - {form: os, position: opening, kind: byname, sense: a god, examples: [Osgood]}
     - {form: sher, position: opening, kind: byname, sense: bright, examples: [Sherwin]}
     - {form: somer, position: opening, kind: byname, sense: summer, examples: [Somervell]}
@@ -4157,7 +4157,7 @@ data:
       kind: byname
       sense: "a dwelling, a dairy farm"
       examples: [Winwik]
-    - {form: lei, position: closing, kind: byname, sense: a clearing, examples: [Helmslei]}
+    - {form: li, position: closing, kind: byname, sense: a clearing, examples: [Helmsli]}
     - {form: bi, position: closing, kind: byname, sense: a homestead, examples: [Ashbi]}
     - {form: more, position: closing, kind: byname, sense: a moor, examples: [Wigmore]}
     - {form: den, position: closing, kind: byname, sense: a wooded valley, examples: [Harden]}
@@ -4191,7 +4191,7 @@ data:
     - {name: Godrik, kind: given, why: An Eilwìthan given name.}
     - {name: Stonibi, kind: byname, why: An Eilwìthan family name.}
     - {name: Kenrik, kind: given, why: An Eilwìthan given name.}
-    - {name: Brandlei, kind: byname, why: An Eilwìthan family name.}
+    - {name: Brandli, kind: byname, why: An Eilwìthan family name.}
     - {name: Aldmund, kind: given, why: An Eilwìthan given name.}
     - {name: Hardwik, kind: byname, why: An Eilwìthan family name.}
     - {name: Adwell, kind: byname, built: [ad, well]}
@@ -4240,7 +4240,7 @@ data:
     - {name: Harding, kind: byname, built: [hard, ing]}
     - {name: Harmund, kind: given, built: [har, mund]}
     - {name: Harwald, kind: given, built: [har, wald]}
-    - {name: Helmslei, kind: byname, built: [helm, s, lei]}
+    - {name: Helmsli, kind: byname, built: [helm, s, li]}
     - {name: Highfold, kind: place, built: [high, fold]}
     - {name: Hildwiin, kind: given, built: [hild, wiin]}
     - {name: Hildrik, kind: given, built: [hild, rik]}
@@ -4291,7 +4291,7 @@ data:
     - {name: Koldwik, kind: byname, built: [kold, wik]}
     - {name: Dunmore, kind: byname, built: [dun, more]}
     - {name: Godrun, kind: given, built: [god, run]}
-    - {name: Winlei, kind: byname, built: [win, lei]}
+    - {name: Winli, kind: byname, built: [win, li]}
     - {name: Eilwìth, kind: place, why: The island's name; no element builds it.}
     - name: Alananor
       kind: given
@@ -4309,7 +4309,7 @@ data:
     - name: Arren
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - name: Audrei
+    - name: Audri
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
     - {name: Avis, kind: given, why: A short or foreign-shaped name that no listed element builds.}
@@ -4434,16 +4434,16 @@ data:
     - {name: Elfrun, kind: given, built: [elf, run]}
     - {name: Kenwald, kind: given, built: [ken, wald]}
     - {name: Dunrik, kind: given, built: [dun, rik]}
-    - {name: Storlei, kind: byname, built: [stor, lei]}
-    - {name: Wolflei, kind: byname, built: [wolf, lei]}
-    - {name: Thornlei, kind: byname, built: [thorn, lei]}
+    - {name: Storli, kind: byname, built: [stor, li]}
+    - {name: Wolfli, kind: byname, built: [wolf, li]}
+    - {name: Thornli, kind: byname, built: [thorn, li]}
     - {name: Highden, kind: byname, built: [high, den]}
     - {name: Brandwik, kind: byname, built: [brand, wik]}
     - name: Drething
       kind: byname
       why: "The royal line's byname, the kin of Drethar, with the kin ending -ing."
     - {name: Alfrith, kind: given, built: [alf, rith]}
-    - {name: Brinlei, kind: byname, built: [brin, lei]}
+    - {name: Brinli, kind: byname, built: [brin, li]}
     - {name: Leofwald, kind: given, built: [leof, wald]}
     - name: Kelivren
       kind: place
@@ -4539,13 +4539,13 @@ data:
     - {name: Ashden, kind: byname, built: [ash, den]}
     - {name: Kaerton, kind: byname, built: [kaer, ton]}
     - {name: Hushwell, kind: byname, built: [hush, well]}
-    - {name: Barnlei, kind: byname, built: [barn, lei]}
+    - {name: Barnli, kind: byname, built: [barn, li]}
     - {name: Stormden, kind: byname, built: [storm, den]}
-    - {name: Adlei, kind: byname, built: [ad, lei]}
+    - {name: Adli, kind: byname, built: [ad, li]}
     - {name: Brownwell, kind: byname, built: [brown, well]}
-    - {name: Hardlei, kind: byname, built: [hard, lei]}
+    - {name: Hardli, kind: byname, built: [hard, li]}
     - {name: Brinwik, kind: byname, built: [brin, wik]}
-    - {name: Somerlei, kind: byname, built: [somer, lei]}
+    - {name: Somerli, kind: byname, built: [somer, li]}
     - {name: Graiden, kind: byname, built: [grai, den]}
     - {name: Wigden, kind: byname, built: [wig, den]}
     - name: Drasknes
@@ -4615,7 +4615,7 @@ data:
     - {form: assuredly, instead: assuredli, why: y is never a vowel}
     - {form: belly, instead: belli, why: y is never a vowel}
     - {form: body, instead: bodi, why: y is never a vowel}
-    - {form: brynley, instead: brinlei, why: y is never a vowel}
+    - {form: brynley, instead: brinli, why: y is never a vowel}
     - {form: bury, instead: buri, why: y is never a vowel}
     - {form: by, instead: bi, why: y is never a vowel}
     - {form: charity, instead: chariti, why: y is never a vowel}
@@ -5105,7 +5105,7 @@ Names on Eilwìth use the authoritative spellings given in the register. Every n
 
 **A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwin_, _Edrun_.
 
-**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmslei_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grailing_ does.
+**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsli_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grailing_ does.
 
 **Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Eilwìth_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Eilwìthi form and its origin or reason. Names outside the element pattern follow the guide too. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Eilwìthi spelling.
 

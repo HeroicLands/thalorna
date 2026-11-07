@@ -43,7 +43,7 @@ The republic holds the whole land directly, and no lord stands between its farms
 
 ## Current Situation {#present}
 
-- **The frontier.** Tribes of the Peshtar forest burned two of the watch-burgs north of [[place-kaermouth|Kaermouth]] in the autumn, and the legion's commander, [[being-godstanhrdl|Godstan Hardlei]], wants another legion raised and sent north for the spring. The Senate has voted him the men and not the money.
+- **The frontier.** Tribes of the Peshtar forest burned two of the watch-burgs north of [[place-kaermouth|Kaermouth]] in the autumn, and the legion's commander, [[being-godstanhrdl|Godstan Hardli]], wants another legion raised and sent north for the spring. The Senate has voted him the men and not the money.
 - **The northern water.** Stormveld's jarls took an Ondarethan coaster off the Nordfells in the autumn, cargo and crew, and the shipping houses of Thornbury want the fleet sent north ([[affiliation-jrldmstrmvld|Jarldom of Stormveld]]).
 - **The call.** Every Ondarethan hull bound for the mainland still calls first at [[place-ravenmoor|Ravenmoor]], and the shipping houses still complain of it to the Senate, which still sends envoys to [[place-veldareth|Veldareth]] about it.
 

@@ -77,7 +77,7 @@ In the summer of 719 the legion's patrols burned the forest edge a further mile 
 
 ## The Present Pressure {#present}
 
-The legion is coming. [[being-godstanhrdl|Godstan Hardlei]], the Vandraks at Kaermouth, has sent patrols into the trees all winter and wants another legion to carry the war into the Highwood in the spring. The Senate has voted him the levies and not the money, and the highland recruits coming north are going hungry in his camp. [[being-alfmundkrtn|Alfmund Kaerton]], who holds the spring field command, wants to know whether the burnings can be paid for rather than fought for.
+The legion is coming. [[being-godstanhrdl|Godstan Hardli]], the Vandraks at Kaermouth, has sent patrols into the trees all winter and wants another legion to carry the war into the Highwood in the spring. The Senate has voted him the levies and not the money, and the highland recruits coming north are going hungry in his camp. [[being-alfmundkrtn|Alfmund Kaerton]], who holds the spring field command, wants to know whether the burnings can be paid for rather than fought for.
 
 Taskain means to meet the legion in the pines, where it cannot form, and she needs the river clans to do it. The river clans live by the Kaermouth trade and have no wish to lose it, and their shamans have not agreed to follow her. Meanwhile the Kelgar push into the high pastures behind her, and the hill clans want to know why their War-Leader faces south while the Kelgar take their summer grazing.
 
@@ -89,7 +89,7 @@ The Bradhar gather on a bare shoulder of moor above the pines, at a ring of ston
 
 - **The river clans.** A shaman of the river clans wants a party to carry a question to Kaermouth for her: whether the legion would leave the river glens alone if the river clans stayed out of Taskain's war.
 - **The burned glen.** A Bradhar clan offers guidance through the Highwood to anyone who will bring back the bones of a war-chief killed in the legion's burning, which lie in the ash north of the river.
-- **The pines.** Godstan Hardlei pays well for guides who know the Highwood's glens, and the clans have a word for anyone who takes his money.
+- **The pines.** Godstan Hardli pays well for guides who know the Highwood's glens, and the clans have a word for anyone who takes his money.
 
 ## See Also
 

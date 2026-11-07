@@ -52,7 +52,7 @@ The lake has no agreed line down its middle, and nobody has drawn one. At the no
 
 On the kingdom's shore above Dunmere the manors watch by night since the Durrask burned a mill, and the Grukar of [[place-aldermire|Aldermire]], in the wooded bog above the south-western shore, have turned west onto the Highlands' grazing.
 
-At Dunmere the court waits on the mists. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council of barons to accept his son as king-to-be, and both the king and the barons who oppose him have asked [[being-elfrunthrnl|Elfrun Thornlei]], the First Seer, what the lake shows of it. She has read the mists three times since the autumn and has given no reading to either side. The advisor that [[affiliation-ordoarcanis|the Order]] keeps at the court has asked to stand on the shore with her when she reads again, and she has refused him.
+At Dunmere the court waits on the mists. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council of barons to accept his son as king-to-be, and both the king and the barons who oppose him have asked [[being-elfrunthrnl|Elfrun Thornli]], the First Seer, what the lake shows of it. She has read the mists three times since the autumn and has given no reading to either side. The advisor that [[affiliation-ordoarcanis|the Order]] keeps at the court has asked to stand on the shore with her when she reads again, and she has refused him.
 
 ## See Also
 

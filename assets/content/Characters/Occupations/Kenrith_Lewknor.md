@@ -408,7 +408,7 @@ Inventive and hardworking, Kenrith has three experiments under way when one woul
 
 ## Social
 
-She trades produce in the fortress market and hires extra hands for harvest. [[being-hrldhlmsly|Harwald Helmslei]] handles her difficult draft animals. Other growers dispute the prices she asks when the garrison buys heavily, even while trying her new seed.
+She trades produce in the fortress market and hires extra hands for harvest. [[being-hrldhlmsly|Harwald Helmsli]] handles her difficult draft animals. Other growers dispute the prices she asks when the garrison buys heavily, even while trying her new seed.
 
 ## Plot Hooks
 

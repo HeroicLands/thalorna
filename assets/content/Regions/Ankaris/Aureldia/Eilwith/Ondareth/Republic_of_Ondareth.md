@@ -104,32 +104,32 @@ Vornos
 : [[being-mildrikhshwl|Mildrik Hushwell]], who declares the law for the year and hears the suits that matter.
 
 Theronos
-: [[being-winiwldbrnl|Winiwald Barnlei]], who keeps the citizen roll and the Senate's roll.
+: [[being-winiwldbrnl|Winiwald Barnli]], who keeps the citizen roll and the Senate's roll.
 
 Tarkelos
 : [[being-leofmndstrmd|Leofmund Stormden]], who answers for the treasury.
 
 Peltros
-: [[being-dunmundadly|Dunmund Adlei]], who keeps Thornbury's markets, streets and water.
+: [[being-dunmundadly|Dunmund Adli]], who keeps Thornbury's markets, streets and water.
 
 Lusos
 : [[being-wilrikbrnwl|Wilrik Brownwell]], who speaks for the citizens in the assembly.
 
 Vandraks
-: [[being-godstanhrdl|Godstan Hardlei]], who commands the frontier legion at [[place-kaermouth|Kaermouth]].
+: [[being-godstanhrdl|Godstan Hardli]], who commands the frontier legion at [[place-kaermouth|Kaermouth]].
 
 Prefect of the Fleet
 : [[being-edstanbrnwk|Edstan Brinwik]], who commands the republic's ships from Thornbury.
 
 Ambassador
-: [[being-aldrunsmrl|Aldrun Somerlei]], the Senate's envoy to [[place-veldareth|Veldareth]] and to the mainland.
+: [[being-aldrunsmrl|Aldrun Somerli]], the Senate's envoy to [[place-veldareth|Veldareth]] and to the mainland.
 
 ## Current Situation {#present}
 
 - **The chair.** Harwin Greimore's three years as First Senator end with this year, and he wants a second term, which the Senate has never given. Kuthwald Ashden wants the chair and has put the Tyrant's Rock before the Senate again, because the houses at its foot have been bought in the name of one of Harwin's freedmen.
-- **The frontier.** [[affiliation-bradhar|The Bradhar]] of the Peshtar forest burned two watch-burgs north of Kaermouth in the autumn. The Senate has voted Godstan Hardlei another legion's levies and no money to feed them, and Wilrik Brownwell has made the levy the cause of the assembly.
+- **The frontier.** [[affiliation-bradhar|The Bradhar]] of the Peshtar forest burned two watch-burgs north of Kaermouth in the autumn. The Senate has voted Godstan Hardli another legion's levies and no money to feed them, and Wilrik Brownwell has made the levy the cause of the assembly.
 - **The northern water.** Two jarls of [[affiliation-jrldmstrmvld|Stormveld]] took a Thornbury coaster off the Nordfells in the autumn under a pact between them. The shipping houses want the fleet sent north, and the treasury cannot pay for the fleet and the frontier both.
-- **Veldareth.** Aldrun Somerlei presses the Table of Veldareth to say whether its Speaker answers to the [[affiliation-dunavarsynod|Dúnavarre Synod]], and is buying copies of his letters to [[place-ravenmoor|Ravenmoor]].
+- **Veldareth.** Aldrun Somerli presses the Table of Veldareth to say whether its Speaker answers to the [[affiliation-dunavarsynod|Dúnavarre Synod]], and is buying copies of his letters to [[place-ravenmoor|Ravenmoor]].
 - **The upland grazing.** [[affiliation-durrask|The Durrask]] of the Thornwold drove forty brood mares off the republic's eastern upland grazing in the summer, and the herdsmen who followed killed their War-Leader's brother at a ford. The levy has taken the upland breeders' young men north.
 - **The highland nests.** The [[lore-grukaraelwyth|Grukar]] of the Highlands' crags and ravines raid the upland farms and horse runs while the levy takes the herders north: [[place-kingsdelf|Kingsdelf]] under the Three Sisters, [[place-reedgill|Reedgill]] above the lake, Ravenkeld and Stoneholt, and from the Thornwold [[place-aldermire|Aldermire]].
 - **The lake.** At the northern end of [[place-eilissa|Lake Eilìssa]] the reed-cutters of [[place-koldmere|Koldmere]], a free village that sells its fish at Stonyford, and the hill tenants of Aldorath's [[place-brynwold|Brinwold]] cut each other's nets over the reed-beds both claim, and Koldmere has asked the Stonyford senators to take its side at Thornbury.

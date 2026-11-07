@@ -407,7 +407,7 @@ Watchful and resourceful, Maud reads an impatient gesture quickly. She wants a d
 
 ## Social
 
-Porters and other beggars exchange news and small favors with her. [[being-audryhrdng|Audrei Harding]]'s clients pass the same landings; Maud can carry their messages but cannot wait unpaid all day for an answer.
+Porters and other beggars exchange news and small favors with her. [[being-audryhrdng|Audri Harding]]'s clients pass the same landings; Maud can carry their messages but cannot wait unpaid all day for an answer.
 
 ## Plot Hooks
 

@@ -21,7 +21,7 @@ A rockslide shuts the gorge behind the party below [[place-sunderwynd|Sunderwiin
 
 Some weeks ago a made thing came down out of the high country and into Sunderwiind. The garrison called it the [[being-hangman|Hangman]]. It takes men from overhead, by reach or by rope, carries them up, and hangs them in high places: the dead pine above the gorge, the tower's beams, the vault of the cistern beneath the yard. It keeps to the heights, moves across walls, ceilings, beams and the hollow places in the masonry, and does not touch the ground. On open ground, with nothing above it to climb, it does not come.
 
-The relief patrol from [[place-caerwynd|Kaerwiind]] passed the party on the gorge trail this morning, going up. The party reaches the post's crag in the afternoon. The garrison is gone except for [[being-kenrikbrandley|Kenrik Brandlei]], a patrolman who has survived three nights by lying flat in the open yard after dark. He watched his captain taken, and since then he has heard his captain call him by name from the tower every night. He has not answered.
+The relief patrol from [[place-caerwynd|Kaerwiind]] passed the party on the gorge trail this morning, going up. The party reaches the post's crag in the afternoon. The garrison is gone except for [[being-kenrikbrandley|Kenrik Brandli]], a patrolman who has survived three nights by lying flat in the open yard after dark. He watched his captain taken, and since then he has heard his captain call him by name from the tower every night. He has not answered.
 
 The way down is shut by the slide. The way up is the pass, under snow by nightfall. The way out is the post's drainage tunnel, which runs from the cistern's low end through the crag to the gorge face below the slide, and the cistern is where the Hangman feeds. Beyond the cistern's far wall lies the pay vault, walled up by an earlier captain during a raid and never opened since.
 
@@ -94,7 +94,7 @@ Read or paraphrase:
 
 ## Cast and Stakes
 
-[[being-kenrikbrandley|Kenrik Brandlei]] survives in the yard; [[being-aldmundhardwik|Aldmund Hardwik]] hangs in the tower; [[being-wilriksunder|Sergeant Wilrik]] answers from the cistern. [[being-hangman|Hangman]] is the silent captor. Use [[being-mule|Mule]] for the stores animal and [[being-pony|Pony]] for the smuggler’s mount. Aldorath wants its people and post back; the Dúnavarre Synod’s interest begins if the strange band reaches its scholars.
+[[being-kenrikbrandley|Kenrik Brandli]] survives in the yard; [[being-aldmundhardwik|Aldmund Hardwik]] hangs in the tower; [[being-wilriksunder|Sergeant Wilrik]] answers from the cistern. [[being-hangman|Hangman]] is the silent captor. Use [[being-mule|Mule]] for the stores animal and [[being-pony|Pony]] for the smuggler’s mount. Aldorath wants its people and post back; the Dúnavarre Synod’s interest begins if the strange band reaches its scholars.
 
 ## Scenes {#scenes}
 
@@ -104,7 +104,7 @@ Read or paraphrase:
 
 > The trail climbs out of the gorge under the dead pine and ends at a gatehouse with its gate standing open. Beyond it is a walled yard, a square stone tower and a long barrack range. Nothing moves in the yard but a cart lying on its side. From behind the cart a voice says, quite steadily, "Stop there."
 
-**Situation.** In the yard, behind the overturned cart, Kenrik Brandlei crouches with a loaded crossbow leveled at the gate. It is late afternoon and the light is going. He will not let anyone come closer until he is sure they are alive.
+**Situation.** In the yard, behind the overturned cart, Kenrik Brandli crouches with a loaded crossbow leveled at the gate. It is late afternoon and the light is going. He will not let anyone come closer until he is sure they are alive.
 
 **NPCs and threats.** Kenrik is a patrolman of the garrison, young, filthy, hollow-eyed and steady-handed. He gives his test in the older speech: "Stand ye where the light is, every one, and show me your feet upon the stones. Speak your names, and tell me what ye ate this morn." A sound from above sends him flat to the ground.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: godrunwinley
-name: {full: Godrun Winlei, en: [High Priestess Godrun]}
+name: {full: Godrun Winli, en: [High Priestess Godrun]}
 type: being
 subType: npc
 description: The high priestess of the Temple of Ólvenia in Ashford, who tolerates Dunith Chilton.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Godrun Winlei is a 55-year-old woman who stands 5'6" tall with a heavy build. She has light skin, ruddy complexion, dark brown hair, and blue eyes.
+Godrun Winli is a 55-year-old woman who stands 5'6" tall with a heavy build. She has light skin, ruddy complexion, dark brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Godrun Winlei is the high priestess of the [Temple of Ólvenia]{.name data-type="affiliation"} in [[place-ashford|Ashford]]. She tolerates [[being-aldthchltn|Dunith Chilton]] because Dunith's salons generate substantial coin and her piety, however self-interested, brings prestige to the order.
+Godrun Winli is the high priestess of the [Temple of Ólvenia]{.name data-type="affiliation"} in [[place-ashford|Ashford]]. She tolerates [[being-aldthchltn|Dunith Chilton]] because Dunith's salons generate substantial coin and her piety, however self-interested, brings prestige to the order.

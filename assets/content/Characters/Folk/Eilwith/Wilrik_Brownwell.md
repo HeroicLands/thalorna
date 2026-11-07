@@ -76,7 +76,7 @@ Wilrik has no patron and has refused three.
 
 ### Enemies
 
-[[being-godstanhrdl|Godstan Hardlei]], whose levy he opposes, and [[being-mildrikhshwl|Mildrik Hushwell]], who dismisses the citizens' suits.
+[[being-godstanhrdl|Godstan Hardli]], whose levy he opposes, and [[being-mildrikhshwl|Mildrik Hushwell]], who dismisses the citizens' suits.
 
 ### Affiliations
 
