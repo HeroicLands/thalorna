@@ -5,8 +5,16 @@ type: place
 subType: settlement
 description: "Aldorath's chief river crossing and drove-market—where the kingdom's wool and cattle are gathered before going down to the coast."
 tags: [town, river, inland]
-data: {demonym: null, lore: [], parents: [aldorvale], population: 3200, packFolder: eilwith}
+data:
+  demonym: null
+  lore: []
+  parents: [aldorvale]
+  population: 3200
+  packFolder: eilwith
+  government: kngdmldrth
 ---
+
+## Overview {#overview}
 
 **Ashford** grew where the drove roads out of the [[place-aldorathrgn|Aldorath Region]]'s manorial country meet the ford, and it is the
 kingdom's principal market for what that country produces.
@@ -29,6 +37,10 @@ unlanded and therefore of no account whatever in a kingdom where standing is lan
 families have money and no voice, which they mind, and which occasionally makes them interesting to
 outsiders looking for a foothold.
 
+## The Present {#present}
+
+The council of barons sits at Dunmere at midsummer, and the barons who come to it pass through Ashford with their retinues and their debts. The town's merchant families lend to both sides of the council's quarrel over the king's son, because a baron who owes them money is the nearest thing to a voice they have. The bridge tolls are in dispute again, and the drovers have taken to the ford in numbers ahead of the autumn fair.
+
 ## See Also
 
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-dunmere|Dunmere]]
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-dunmere|Dunmere]] · [[place-aldorvale|the Aldorvale]]

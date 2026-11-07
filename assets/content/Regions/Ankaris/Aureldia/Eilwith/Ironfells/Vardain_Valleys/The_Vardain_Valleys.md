@@ -23,12 +23,12 @@ neither realm has ever been in a position to draw one. The valleys are the [[lor
 concerned has found it easier not to raise the question.
 
 They are also all that is left free of [[place-vardanreach|Vardanreach]]—and the valleys were part of it. The Vardain
-nation held the whole of what is now [[place-stormveld|Stormveld]], something like a fifth of
+nation held the whole of what is now [[place-stormveld|Stormveld]], something like an eighth of
 [[place-eilwith|Eilwìth]]'s land, and these mountains with it. When the Nordmen came in 660 AF ([[lore-stormveldtkn|the Taking of Stormveld]]) they devastated the lowlands and
 enslaved the people; a hundred and twenty thousand Vardain are thralls down there now, and what reached
 the high valleys was a remnant of a remnant.
 
-Eight thousand five hundred people is what is left free of a nation that held a fifth of the island. The valleys
+Eight thousand five hundred people is what is left free of a nation that held an eighth of the island. The valleys
 survived because the Khazari are in them, and the valley folk are entirely clear that this is the only
 reason.
 
@@ -39,7 +39,7 @@ hundred people can live here at all.
 
 The proportion matters and the Vardain never forget it. This is **one basin**: perhaps twenty miles from
 end to end and a few across at its widest, with two or three side valleys hanging off it. Below and
-north lies Stormveld—an immense expanse, something like a fifth of
+west lies Stormveld—an immense expanse, something like an eighth of
 Eilwìth, all of it Vardanreach once and all of it conquered. The free Vardain hold a pocket in the
 mountains above a country they used to own.
 
@@ -186,9 +186,19 @@ economic purpose of the district.
 The Vardain pay no tax to [[affiliation-kngdmldrth|Aldorath]], send no levy to anyone, and appear in no realm's population. The
 [[affiliation-dunavarsynod|Synod]] at Ravenmoor knows exactly how many of them there are and has never published the figure.
 
+The valleys choose their own officers under the hold: a Reeve who speaks for them at the Gate, a
+Tally-Keeper at Hudakal, a Watch-Warden at Dorrin and a Keeper of the Dead at Threndale
+([[affiliation-vrgldhld|Vorgald Hold]]).
+
 On rare occasions—a handful of times in a century—the Khazari deal directly with
 Aldorath or [[affiliation-kingdmdnvr|Dúnavarre]]. Every other transaction in
 the history of the two realms with the Deep Folk has gone through Vardain hands.
+
+## Current Situation {#present}
+
+- **The Reeve's number.** At the autumn tally the Speaker at the Gate asked the Reeve of the Valleys, [[being-davrimhssk|Davrim Hessek]], how many more mouths the granaries would carry through the winter, because runaways still come over the passes. The Reeve gave him a number, and the Tally-Keeper at Hudakal, [[being-kessatrrk|Kessa Torrek]], has not said whether her tallies agree.
+- **The frost.** A conduit above Kalm failed in the autumn frost and brought down two terraces below it. The engineers mended the conduit within the week and stayed to recut a stretch of the old channel above it, and the masons of Stonyhaugh are rebuilding the terraces before the sowing.
+- **The tracks.** A band of [[lore-grukaraelwyth|Grukar]] crossed the high grazing above Highfold and Dorrin in the autumn and reached the hold's outer workings, where the Khazari killed it. The watch at Dorrin did not see it come, and the herders of Highfold have seen a thin figure on the crest above the summer pastures twice since ([[place-hornhall|Hornhall]]).
 
 ## See Also
 

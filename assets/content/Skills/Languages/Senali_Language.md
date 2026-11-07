@@ -7606,7 +7606,7 @@ data:
     - {name: Enclave of Aelirosse, tongue: translation}
     - {name: Enclave of Ethalosse, tongue: translation}
     - {name: Enclave of Serenthale, tongue: translation}
-    - {name: Enclave of the Hallowwood, tongue: translation}
+    - {name: Enclave of Seirasto, tongue: translation}
     - {name: ankaris, tongue: exonym}
     - {name: aureldia region, tongue: exonym}
     - {name: midhalión region, tongue: exonym}
@@ -7684,6 +7684,7 @@ data:
     - {name: ethalosse, tongue: exonym:elavendri}
     - {name: serentale, tongue: senali}
     - {name: serenthale, tongue: exonym:elavendri}
+    - {name: seirasto, tongue: senali, built: [seira, -sto]}
     - {name: vyerka, tongue: senali}
     - {name: dhargan, tongue: exonym:aelendi}
     - {name: nela, tongue: exonym:aelendi}
@@ -7692,6 +7693,19 @@ data:
     - {name: hersellonku, tongue: senali, built: [hersel, lonku]}
     - {name: lirnasto, tongue: senali, built: [lirna, -sto]}
     - {name: ilkaivesto, tongue: senali, built: [ilkaive, -sto]}
+    - {name: lonkunno, tongue: senali, built: [lonku, -nno]}
+    - {name: The Keeper of the Wood, tongue: translation}
+    - {name: issaltenno, tongue: senali, built: [issalte, -nno]}
+    - {name: tevannisa, tongue: senali, built: [tevanni, -sa]}
+    - {name: tellamesa, tongue: senali, built: [tellame, -sa]}
+    - {name: lonkwolmarna, tongue: senali, built: [lonkwolmarna]}
+    - {name: oltessala esselinto, tongue: senali, built: [oltessa, -la, esseli, -nto]}
+    - {name: hallesitti eilavanto, tongue: senali, built: [hallesi, -tti, eilava, -nto]}
+    - {name: kelkasivo tellakinto, tongue: senali, built: [kelkasi, -vo, tellaki, -nto]}
+    - {name: selkitte ilevanto, tongue: senali, built: [selki, -tte, ileva, -nto]}
+    - {name: unturovo kilpente, tongue: senali, built: [unturo, -vo, kilpe, -nte]}
+    - {name: lovatta hìssente, tongue: senali, built: [lova, -tta, hìsse, -nte]}
+    - {name: solmerivo nuuvanto, tongue: senali, built: [solmeri, -vo, nuuva, -nto]}
   negation: {particle: ahi, mutation: wearing}
   naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
   retired:

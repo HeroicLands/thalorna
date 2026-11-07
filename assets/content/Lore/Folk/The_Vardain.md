@@ -3,19 +3,19 @@ shortcode: vardain
 name: {full: The Vardain, en: [The Holdfolk]}
 type: lore
 subType: folk
-description: "The people of Vardanreach—the north-eastern nation that kept the Khazari's friendship for millennia, conquered by Nordmen sixty years ago and now largely thralls, whose only free remnant lives in the mountain valleys."
+description: "The people of Vardanreach—the northern nation that kept the Khazari's friendship for millennia, conquered by Nordmen sixty years ago and now largely thralls, whose only free remnant lives in the mountain valleys."
 tags: []
 data: {packFolder: eilwith}
 ---
 
-**The Vardain** are a people of the north-east of [[place-eilwith|Eilwìth]], and their history divides sharply into what
+**The Vardain** are a people of the north of [[place-eilwith|Eilwìth]], and their history divides sharply into what
 they were and what they are.
 
-For most of the island's history they held the whole of the north-east—the great plain, the mountains
-above it and the valleys within them, something like **a fifth of Eilwìth's land area**—in a nation
+For most of the island's history they held the whole of the north—the great plain, the mountains
+above it and the valleys within them, something like **an eighth of Eilwìth's land area**—in a nation
 the Eilwìthans called [[place-vardanreach|Vardanreach]], and they were the one human people in the world with a standing,
 mutually valued relationship with the [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]]. That
-lasted thousands of years, and the Khazari fixed its bounds at [[lore-endgreatwar|the Ending of the Great War]] and kept the north-east for the Vardain.
+lasted thousands of years, and the Khazari fixed its bounds at [[lore-endgreatwar|the Ending of the Great War]] and kept the north for the Vardain.
 
 **Sixty years ago the [[lore-nordheimnclt|Nordmen]] took the plain.** The lowland Vardain were not driven out; they were
 **enslaved**, and about a hundred and twenty thousand of them are thralls in
@@ -118,7 +118,7 @@ the joint kingdom under a Senali king, the war, the king's death, and the retrea
 the Khazari have never forgiven. They tell it plainly, as a thing that happened to their lords long ago.
 
 Whether this is the great sundering between the two elder races or only its Eilwìthan chapter, they do
-not know. The Khazari have not said. The [[lore-flksenali|Senali]] of [[place-hallowwood|the Hallowwood]] will not receive anyone who asks.
+not know. The Khazari have not said. The [[lore-flksenali|Senali]] of [[place-hallowwood|Seirasto]] will not receive anyone who asks.
 
 ## See Also
 

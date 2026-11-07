@@ -4424,7 +4424,182 @@ data:
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
     - {name: Wenlorne Stage, kind: place, why: A place name of two words; no element builds it.}
     - {name: Drethar, kind: given, why: An established royal given name retained as a whole.}
+    - name: Eilìssa
+      kind: place
+      why: "The great lake of the Central Highlands, named to echo the island; no Eilwìthi element builds it."
+    - {name: Aldrik, kind: given, built: [ald, rik]}
+    - {name: Godwald, kind: given, built: [god, wald]}
+    - {name: Aldrith, kind: given, built: [ald, rith]}
+    - {name: Elfrun, kind: given, built: [elf, run]}
+    - {name: Kenwald, kind: given, built: [ken, wald]}
+    - {name: Dunrik, kind: given, built: [dun, rik]}
+    - {name: Storley, kind: byname, built: [stor, ley]}
+    - {name: Wolfley, kind: byname, built: [wolf, ley]}
+    - {name: Thornley, kind: byname, built: [thorn, ley]}
+    - {name: Highden, kind: byname, built: [high, den]}
+    - {name: Brandwik, kind: byname, built: [brand, wik]}
+    - name: Drething
+      kind: byname
+      why: "The royal line's byname, the kin of Drethar, with the kin ending -ing."
+    - {name: Alfrith, kind: given, built: [alf, rith]}
+    - {name: Brinley, kind: byname, built: [brin, ley]}
+    - {name: Leofwald, kind: given, built: [leof, wald]}
+    - name: Kelivren
+      kind: place
+      why: "A Dúnavarran place name in the Élavendri form, kept from the kings' hunting lodge."
+    - name: Teilvari
+      kind: place
+      why: A Seilvri name for the forest the people keep; no Eilwìthi element builds it.
+    - {name: Neilwa, kind: given, why: A Seilvri name; no Eilwìthi element builds it.}
+    - {name: Arvanir, kind: given, why: A Seilvri name; no Eilwìthi element builds it.}
+    - name: Velisande
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Orravel
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Torvin
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Asmavren
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Ithrel
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Ildavel
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Nerise
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Kavalren
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Dorvan
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Melthavel
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Halvra
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Senavel
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Ardel
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Voranvel
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Talira
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Venavel
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Orvand
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Kéthavel
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Merrad
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Dovavren
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Edrin
+      kind: given
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - name: Talvavel
+      kind: byname
+      why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
+    - {name: Kaermouth, kind: place, built: [kaer, mouth]}
+    - {name: Stonyford, kind: place, built: [stony, ford]}
+    - {name: Koldmere, kind: place, built: [kold, mere]}
+    - {name: Harwin, kind: given, built: [har, win]}
+    - {name: Kuthwald, kind: given, built: [kuth, wald]}
+    - {name: Alfmund, kind: given, built: [alf, mund]}
+    - {name: Mildrik, kind: given, built: [mild, rik]}
+    - {name: Winiwald, kind: given, built: [wini, wald]}
+    - {name: Leofmund, kind: given, built: [leof, mund]}
+    - {name: Dunmund, kind: given, built: [dun, mund]}
+    - {name: Wilrik, kind: given, built: [wil, rik]}
+    - {name: Godstan, kind: given, built: [god, stan]}
+    - {name: Edstan, kind: given, built: [ed, stan]}
+    - {name: Aldrun, kind: given, built: [ald, run]}
+    - {name: Osrith, kind: given, built: [os, rith]}
+    - {name: Elfith, kind: given, built: [elf, ith]}
+    - {name: Greymore, kind: byname, built: [grey, more]}
+    - {name: Ashden, kind: byname, built: [ash, den]}
+    - {name: Kaerton, kind: byname, built: [kaer, ton]}
+    - {name: Hushwell, kind: byname, built: [hush, well]}
+    - {name: Barnley, kind: byname, built: [barn, ley]}
+    - {name: Stormden, kind: byname, built: [storm, den]}
+    - {name: Adley, kind: byname, built: [ad, ley]}
+    - {name: Brownwell, kind: byname, built: [brown, well]}
+    - {name: Hardley, kind: byname, built: [hard, ley]}
+    - {name: Brinwik, kind: byname, built: [brin, wik]}
+    - {name: Somerley, kind: byname, built: [somer, ley]}
+    - {name: Grayden, kind: byname, built: [gray, den]}
+    - {name: Wigden, kind: byname, built: [wig, den]}
+    - name: Drasknes
+      kind: place
+      why: "A Nordmal place name in Stormveld, the headland of the kept light."
+    - {name: Vuldstead, kind: place, why: "A Nordmal place name in Stormveld, the grain-stead."}
+    - {name: Stormwood, kind: place, built: [storm, wood]}
+    - {name: Highwood, kind: place, built: [high, wood]}
+    - {name: Nordmoor, kind: place, built: [nord, moor]}
+    - {name: Thornwold, kind: place, built: [thorn, wold]}
+    - {name: Kingsdelf, kind: place, built: [kings, delf]}
+    - {name: Reedgill, kind: place, built: [reed, gill]}
+    - {name: Ravenkeld, kind: place, built: [raven, keld]}
+    - {name: Stoneholt, kind: place, built: [stone, holt]}
+    - {name: Mossglen, kind: place, built: [moss, glen]}
+    - {name: Pinehollow, kind: place, built: [pine, hollow]}
+    - {name: Hazelbrake, kind: place, built: [hazel, brake]}
+    - {name: Kineglen, kind: place, built: [kine, glen]}
+    - {name: Gullstone, kind: place, built: [gull, stone]}
+    - {name: Hornhall, kind: place, built: [horn, hall]}
+    - {name: Staghall, kind: place, built: [stag, hall]}
+    - {name: Wolfgate, kind: place, built: [wolf, gate]}
+    - {name: Hartfell, kind: place, built: [hart, fell]}
+    - {name: Aldermire, kind: place, built: [alder, mire]}
+    - {name: Gorsering, kind: place, built: [gorse, ring]}
+    - {name: Fernbank, kind: place, built: [fern, bank]}
+    - {name: Brambledene, kind: place, built: [bramble, dene]}
+    - {name: Grimfold, kind: place, built: [grim, fold]}
+    - {name: Koldfell, kind: place, built: [kold, fell]}
+    - {name: Bronnakh, kind: given, why: A Peshtar name; no Eilwìthi element builds it.}
+    - {name: Taskain, kind: given, why: A Peshtar name; no Eilwìthi element builds it.}
+    - {name: Sennog, kind: given, why: A Peshtar name; no Eilwìthi element builds it.}
+    - {name: Kadrum, kind: given, why: A Durrask name; no Eilwìthi element builds it.}
+    - {name: Davrim, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Kessa, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Brenik, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Kadlis, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Telva, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Doskin, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Rennim, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Vadra, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Mirla, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
+    - {name: Hessek, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
+    - {name: Torrek, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
+    - {name: Saldem, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
+    - {name: Vorrem, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
+    - {name: Midrek, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
+    - {name: Varrel, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
+    - {name: Kollek, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
+    - {name: Senek, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
+    - {name: Tessem, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
   retired:
+    - form: Celivren
+      instead: Kelivren
+      why: 'holds "c", which Pronouncing Thalorna writes only in "ch"'
     - form: Eilwith
       instead: Eilwìth
       why: "respelled to Pronouncing Thalorna: the short i of sit"

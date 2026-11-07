@@ -21,12 +21,18 @@ off into a deep sheltered anchorage. Thirty-five hundred people, the seat of the
 It is not the kingdom's busiest harbor—[[place-wraymouth|Wraymouth]] handles far more tonnage—but
 it is the one every ship must enter. In the hall of the Synod the last king's chair stands at the head of the room, kept and never filled ([[lore-dunavarresynod|the Mages Take Dúnavarre]]).
 
+## Politics {#present}
+
+Ravenmoor is the Synod's town, and its politics are the Synod's. The closed session sits in the last king's hall under the Prime Marendos, [[being-velisndorrvl|Velisande Orravel]], and the realm's officers keep their offices around the harbor: the Warden of the Ports, [[being-taliravenvl|Talira Venavel]], at the inspection quay, the Justiciar, [[being-ardelvornvl|Ardel Voranvel]], in the temple court of [[affiliation-ardavon|Árdavon]], and the Bursar, [[being-halvrasenvl|Halvra Senavel]], in the counting-house beside the hall. This season the session is divided over the war on the [[affiliation-saelvri|Seilvri]]: the [[affiliation-justbladeordr|Order of the Just Blade]] asks for a final campaign into [[place-teilvari|Teilvari]], and the Bursar asks what it will cost ([[lore-saelvricrusade|The Seilvri Crusade]]). The Sekeros, [[being-torvinasmvrn|Torvin Asmavren]], spends his evenings in the harbor taverns, where the [[affiliation-umbralcourt|Umbral Court]] is said to keep its ears.
+
+Ravenmoor keeps one of the island's five [[affiliation-panepistmm|Epistémion]] chapterhouses, in the same close as the Synod's hall, and the Synod's Kosthemoi are taught there.
+
 ## The Compulsory Call
 
 The Synod **requires every vessel crossing between the mainland and Eilwìth to put in at Ravenmoor
 first**: inbound before it may proceed to any other port on the island, outbound before it may leave for
 the mainland. There are no exceptions worth the name, and the requirement applies to Ondarethan,
-Aldorathi and Stormveld shipping exactly as it applies to foreigners. The Synod instituted the call in 660 AF, the year the Nordmen took the north-east of the island ([[lore-stormveldtkn|the Taking of Stormveld]]), in the name of a coast that had just been invaded.
+Aldorathi and Stormveld shipping exactly as it applies to foreigners. The Synod instituted the call in 660 AF, the year the Nordmen took the north of the island ([[lore-stormveldtkn|the Taking of Stormveld]]), in the name of a coast that had just been invaded.
 
 The Synod's officers inspect cargo and manifests as customs officials anywhere would, looking for
 prohibited goods in both directions. That much is unremarkable and, on the whole, welcome: Eilwìth's
@@ -90,7 +96,7 @@ side of the island, obliged to send its shipping the long way round to be search
 **[[affiliation-jrldmstrmvld|Stormveld]] is outside the arrangement altogether**, and by the Synod's
 choice rather than in defiance of it. Its trade and its wars run north to the
 [[place-nrdlndsrgn|Nordlands]], not east to the Aureldian mainland, and Nordmen hulls come into the
-north-east coast without troubling Ravenmoor.
+north coast without troubling Ravenmoor.
 
 The Synod does not stop them because it **does not care**. The compulsory call was never really about
 customs; it is about the channel between Eilwìth and the Aureldian world—what knowledge crosses it,
@@ -102,6 +108,10 @@ anyone who resents it.
 The practical effect is that the Synod sees the entire commerce of Eilwìth, knows every mainland visitor
 before that visitor reaches anyone else, and can shape what the island learns of the world by choosing
 what may cross. Of all the ways Eilwìth is kept insular, this is the only deliberate one.
+
+## History {#history}
+
+Ravenmoor was the seat of the kings of Dúnavarre, and their mage advisors kept their chantry beside the hall. Over three reigns the advisors took the kings' offices one by one, and when the last king was set aside about 490 AF the Synod went on governing from the same hall, with his chair kept empty at the head of the room ([[lore-dunavarresynod|The Mages Take Dúnavarre]]). The Synod made Ravenmoor the island's compulsory port of call in 660, and the war on the Seilvri has been ordered from its hall since about 694.
 
 ## See Also
 

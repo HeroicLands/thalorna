@@ -6128,6 +6128,19 @@ data:
     - {name: vithgard, tongue: nordmal}
     - {name: nordheimn, tongue: nordmal}
     - {name: grimvar, tongue: nordmal}
+    - {name: drasknes, tongue: nordmal}
+    - {name: vuldstead, tongue: nordmal}
+    - {name: ulthorv hrindaruk, tongue: nordmal}
+    - {name: althmil hrindaruk, tongue: nordmal}
+    - {name: vrithorv marvidrok, tongue: nordmal}
+    - {name: draskmil glarvendik, tongue: nordmal}
+    - {name: anthorv rultharuk, tongue: nordmal}
+    - {name: knilthinda brildendik, tongue: nordmal}
+    - {name: skraldrinna nulthumak, tongue: nordmal}
+    - {name: thraskvir svalthendik, tongue: nordmal}
+    - {name: thalmthira vruldaruk, tongue: nordmal}
+    - {name: gnarthorv dvalgidrok, tongue: nordmal}
+    - {name: ralthann snarvidrok, tongue: nordmal}
     - {name: hlomfell, tongue: nordmal}
     - {name: dvonvík, tongue: nordmal}
     - {name: vrellnes, tongue: nordmal}

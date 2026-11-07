@@ -3,7 +3,7 @@ shortcode: kngdmldrth
 name: {full: Kingdom of Aldorath}
 type: affiliation
 subType: polity
-description: "Chivalric kingdom surrounding Eilwìth's great central lake—feudal, mystical, and deeply intertwined with prophecy and the legends of the lake's ancient power."
+description: "Chivalric kingdom east of Eilwìth's great central lake—feudal, mystical, and deeply intertwined with prophecy and the legends of the lake's ancient power."
 data:
   templatePriority: null
   demonym: Aldorathi
@@ -11,98 +11,58 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: Feudal monarchy advised by a council of barons.
+    summary: >-
+      A feudal crown of the line of Drethar, held by the consent of a council of barons whose families are older than the throne: the king governs through a small household and a few officers he appoints, takes the seers' reading before every great act, and can muster, levy or campaign only as far as the barons will send men and dues from their manors.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          Cast out by the realm and set beyond its protection—outlawed, banished, or attainted. Known to the polity only as one it has excluded.
+          Cast out by the king's court or a baron's and set beyond the realm's protection, for treason, a broken oath or a killing unatoned.
       - level: 1
-        title: Unfree
+        title: Serf
         description: >-
-          Bound to the land or to a master, owing labor rather than rent, and unable to depart, marry, or dispose of property at will.
+          Bound to a manor and its lord, owing labor on the demesne and suit at the manor court, and unable to leave the manor, marry off it or sell a strip without the lord's leave. Four in five Aldorathi stand here.
       - level: 2
         title: Freeman
         description: >-
-          Free at law to hold, trade, and remove where they will, and answerable directly to the realm's courts, but bearing no rank within it.
+          Free at law to hold, trade and remove: a townsman of Dunmere or Ashford, a free tenant of the uplands or the slade, a shipmaster of the Levels. Answerable to the king's assize and a lord's court, but holding no rank in the realm.
       - level: 3
         title: Gentry
         description: >-
-          Entitled to bear arms and to be answered as a gentleman, holding no title of nobility but standing above the common freeman by birth or grant.
+          Of a family entitled to bear arms and to be answered as gentle, holding farms or a household office but no manor of its own.
       - level: 4
         title: Knight
         description: >-
-          Holding land of a lord by military service, owing that service in person, and bearing the arms and obligations of the fee.
+          Holding land of a baron or of the crown by service in arms, owing that service in person on the march or in the host.
       - level: 5
-        title: Lesser Nobility
+        title: Lord of a Manor
         description: >-
-          Holding a fief in their own right, with vassals beneath them and a greater lord above, and exercising justice within their holding.
+          Holding a manor of a baron or of the crown, with its serfs, its mill and its court, and keeping its customs.
       - level: 6
-        title: Greater Nobility
+        title: Baron
         description: >-
-          Holding a province of the crown directly as tenant-in-chief, answering to no authority below the sovereign, and commanding lesser lords in turn.
+          Holding a barony of manors from the family's own ancestors and owing the crown fealty, levies and dues, and sitting by right in the council of barons. The barons gave the first king his crown and hold that each king's crown is theirs to give.
       - level: 7
         title: Prince or Princess of the Blood
         description: >-
-          Of the ruling house by blood or marriage, standing above the nobility in precedence and in claim, but holding no crown.
+          Of the royal line of Drethar by birth or marriage, standing above the barons in precedence and holding no crown until the barons give one.
       - level: 8
         title: Sovereign
         description: >-
-          The crown itself, from which all other standing in the realm derives and to which all fealty within it ultimately runs.
+          The king, crowned in the chapel at Kingshollow once the barons have accepted him, from whom the realm's justice and its offices run.
     offices:
-      King: Male sovereign, reigning in his own right.
-      Queen: Female sovereign, reigning in her own right.
-      Queen Consort: Female spouse of a reigning king.
-      Prince Consort: Male spouse of a reigning queen.
-      Prince: >-
-        Male member of the royal house by birth; or a sovereign ruling a principality in his own right.
-      Princess: >-
-        Female member of the royal house by birth or by marriage to a prince; or a sovereign ruling a principality in her own right.
-      Chancellor: Keeper of the great seal, through whom the crown's writs, charters and grants are issued.
-      Treasurer: Keeper of the realm's revenue, answerable for its receipt, audit and disbursement.
+      King: >-
+        Held by the Sovereign. Crowned at Kingshollow once the barons have buried his predecessor and accepted him. Keeps the high justice and the royal forest, makes war and peace, appoints and dismisses the officers below, and calls the council of barons; a muster, a levy or a campaign needs the council's consent.
+      Elder of the Council: >-
+        Held by a Baron, chosen by the council of barons. Speaks for the barons to the king, calls the council when it must sit without the crown, keeps the barons' record of the crowning, and presides over the council while the throne is empty.
       Steward: >-
-        Head of the royal household, and in some realms the first officer of the realm beneath the crown.
-      Constable: Commander of the realm's host in the field, holding the crown's military authority.
-      Marshal: >-
-        Second to the Constable, charged with the muster, the horse, discipline within the host, and the regulation of arms.
-      Chamberlain: >-
-        Keeper of the royal chamber, controlling the sovereign's private revenue and access to their person.
-      Justiciar: Chief justice of the realm, and commonly its regent when the sovereign is absent.
-      Butler: >-
-        Holder of the crown's right in wine and the levy upon it—a revenue office far richer than its name suggests.
-      Admiral: Commander of the realm's ships and of the coasts they guard.
-      Sheriff: >-
-        The crown's officer within a shire, answerable for its revenue, its courts, and the raising of its posse.
-      Coroner: >-
-        Keeper of the pleas of the crown within a district—sudden deaths, wrecks, and treasure trove.
-      Escheator: >-
-        Officer charged with lands falling to the crown by death without heir, by forfeiture, or by attainder.
-      Warden of the March: >-
-        Commander of a frontier district, commonly holding powers of war and justice the interior would not permit.
-      Castellan: Holder of a royal fortress, answerable for its garrison, its stores and its defense.
-      Governor: Ruler of a province in the sovereign's name, exercising delegated authority over it.
-      Lieutenant: >-
-        One holding an office in another's place, exercising that office's authority without its rank.
-      Forester: Keeper of the royal forests and of the distinct law that governs them
-      Purveyor: >-
-        Officer empowered to requisition goods and labor for the household at the crown's price—an office universally resented.
-      Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
-      Privy Councilor: >-
-        Member of the sovereign's inner council, advising on matters not brought before any wider body.
-      King of Arms: Principal officer of arms, ruling on heraldry, precedence, and the right to bear arms.
-      Herald: >-
-        Officer of arms serving as messenger, witness and envoy, whose person is protected even between enemies.
-      Master of the Horse: Keeper of the sovereign's stables, mounts, and the men who tend them.
-      Master of the Hunt: Keeper of the sovereign's hunt—its hounds, its quarry, and its grounds.
-      Falconer: >-
-        Keeper of the sovereign's hawks; a household post whose value lies chiefly in the access it grants.
-      Banneret: A lord leading a company beneath his own banner, in his own name and at his own charge.
-      Captain: >-
-        Commander of a body of troops raised for a campaign or a garrison, holding the post for its duration.
-      Serjeant: >-
-        Holder of a specific service owed to a lord or the crown, or a lesser command within a company.
-      Manorial Officer: >-
-        Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
+        Held by a member of the Gentry or above, appointed by the King. Keeps the royal household at Dunmere and at Kingshollow, its servants, stores and purse, and the exchequer through which the crown's dues pass; answers in the king's place at Kingshollow when he is absent.
+      First Seer: >-
+        Held by a Freeman or above, appointed by the King from among the court seers. Reads the mists of Lake Eilìssa for the crown and the council before a campaign, a marriage or a crowning, and is the seer the court hears first.
+      Warden of the Wiindmarch: >-
+        Held by a Knight or above, appointed by the King. Holds Kaerwiind and the garrisons, beacons and levies of the Wiindmarch against the Stormveld passes and the forest, and receives each baron's levy for its season on the march.
+      Forester: >-
+        Held by a member of the Gentry or above, appointed by the King. Keeps the royal forest above Kingshollow under forest law, holds its forest court, and marks the tree the king gives the village each midwinter.
   seat: dunmere
   population: 200000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
@@ -113,49 +73,58 @@ data:
     kingdmdnvr: rival
     repblcndrth: unaligned
     jrldmstrmvld: nemesis
+    durrask: nemesis
   packFolder: eilwith
 sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 ---
 
 ## Overview
 
-The Kingdom of Aldorath is the heartland kingdom of [[place-eilwith|Eilwìth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, [Drethar of Kingshollow]{.name data-type="being/npc"}, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of the [[place-aldorathrgn|Aldorath Region]].
+The Kingdom of Aldorath is the heartland kingdom of [[place-eilwith|Eilwìth]], occupying the fertile lowlands and gentle hills east of the great central lake, [[place-eilissa|Lake Eilìssa]]. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, [Drethar of Kingshollow]{.name data-type="being/npc"}, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of the [[place-aldorathrgn|Aldorath Region]]: the lake's eastern shore and the country east of it to the sea, under the Ironfells, while the western shore is upland that no realm holds.
+
+Its king is [[being-aldrikdrthng|Aldrik Drething]], of Drethar's line, and he reigns from [[place-dunmere|Dunmere]]. The tension that defines the kingdom's present is the one it was founded on: the crown was the barons' gift, and the king wants to settle who follows him before the barons can give it again.
 
 ## Character
 
 Prophecy and questing are woven into the fabric of Aldorathian culture; knights ride out to fulfill visions, and the court seers wield as much influence as the military commanders. The kingdom's chronicles are as much mythology as history—tales of kings who drew a sword from a stone, of bargains struck with lake-spirits, and of a sacred vessel hidden in mist-shrouded ruins are told not as fables but as the deeds of ancestors whose bloodlines still rule.
 
-## The Senali Connection
+## How It Is Ruled {#how-it-is-ruled}
 
-The [[lore-flksenali|Senali]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Eilwìthan polity. This connection gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Senali do not explain their reasons, and the Aldorathian court knows better than to press them.
+The king keeps the high justice, the royal forest and the crown's own manors, makes war and peace, and appoints the officers of his household and his march. Everything beyond that passes through the barons. A muster, a levy, a campaign or a new due needs the consent of the council of barons, which the king calls to Dunmere and which sits under the Elder of the Council, and every baron sends men and dues from his own manors on his own terms. The barons' courts try their manors, and the king's assize at Dunmere hears the pleas of the crown and the barons' quarrels with each other.
 
-## Relations
+The court seers read the mists of Lake Eilìssa before every great act: a campaign, a marriage, a crowning. The First Seer is heard first, and a king who acts against a clear reading has to explain himself to the council. Like every Eilwìthan court, Dunmere also keeps an advisor of the [[affiliation-ordoarcanis|Thordimalon]], whom the [[affiliation-dunavarsynod|Synod]] can withdraw.
 
-Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive—the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblcndrth|Republic of Ondareth]] to the southwest are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The Nordmen of [[affiliation-jrldmstrmvld|Stormveld]] to the northeast are a persistent concern—raiding parties from the fjords have troubled Aldorath's northern borders for generations, and the [[lore-flkkhazar|Khazari]] holds in the mountains between the two polities are a source of tension, as both claim the ranges as their frontier.
+### The Officers
 
-## Commerce and Currency
+King
+: [[being-aldrikdrthng|Aldrik Drething]], the Sovereign, who reigns from Dunmere.
 
-Kingdom of Aldorath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Aldorath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Elder of the Council
+: [[being-godwaldstrl|Godwald Storley]], a baron of [[place-aldorvale|the Aldorvale]], speaks for the barons and keeps their record of the crowning.
 
-## See Also
+Steward
+: [[being-aldrithwlfl|Aldrith Wolfley]] keeps the royal household at Dunmere and Kingshollow and the crown's exchequer.
 
-[[place-eilwith|Eilwìth]]
-: The island
+First Seer
+: [[being-elfrunthrnl|Elfrun Thornley]] reads the lake for the crown and the council.
 
-[[place-aldorathrgn|Aldorath Region]]
-: The land the kingdom holds
+Warden of the Wiindmarch
+: [[being-kenwaldhghd|Kenwald Highden]] holds [[place-caerwynd|Kaerwiind]] and the march against the passes and the forest.
 
-[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]
-: Southeastern rival
+Forester
+: [[being-dunrikbrndw|Dunrik Brandwik]] keeps the royal forest above [[place-kingsholow|Kingshollow]] and its forest court.
 
-[[affiliation-repblcndrth|Republic of Ondareth]]
-: Southwestern republic
+## Current Situation {#present}
 
-[[lore-flksenali|Senali]]
-: Elder race with southern forest enclaves
+Aldrik Drething was crowned at Kingshollow in 711 AF and has reigned since. He is a soldier king whose quarrel is with his own council.
 
-[[affiliation-arldnpnthn|Aureldian]]
-: State pantheon
+- **The heir.** The king has asked the council of barons to accept his nine-year-old son at Kingshollow as king-to-be, while the king lives. No king of Aldorath has been accepted before his father's burial, and Godwald Storley holds the council against it: the crown is the barons' to give at each vacancy. The council sits at Dunmere at midsummer, and the king is buying voices among the barons of the Aldorvale with royal forest and marriages.
+- **Midwinter.** The king has kept the last three midwinter feasts at Dunmere rather than at Kingshollow, and the Steward has stood at the hall door in his place when the tenants sang [[lore-kingswassail|the Wassail]]. The barons count each absence as a slight to the gift.
+- **The seers.** Both the king and the Elder have asked the First Seer what the lake shows of the boy, and she has given neither of them a reading.
+- **The march.** The barons' levies reach Kaerwiind late and short, and the Warden reports that he cannot hold [[place-sunderfells|the Sunderfells]] passes against [[affiliation-jrldmstrmvld|Stormveld]] and the forest margin against the [[lore-grukaraelwyth|Grukar]] with the men he has. The barons answer that the king can have more men when he stops asking for their crown.
+- **The lower shore.** [[affiliation-durrask|The Durrask]] of the Thornwold, across the lake's south-eastern tip, burned a mill on the kingdom's shore above it in the autumn, a morning's ride from Dunmere, and drove off the plough-oxen of three manors. The shore barons have asked the king for men, and the king has none to spare from the march. The barons have armed their tenants to watch the shore by night, against the Durrask and the [[lore-grukaraelwyth|Grukar]] of [[place-aldermire|Aldermire]] alike.
+- **The lake.** At the lake's northern end the reed-beds and their fishing are claimed by Aldorath's barons and by the free village of [[place-koldmere|Koldmere]], and nobody has drawn a line on the water.
+- **The trade.** Every Aldorathi hull that sails for the mainland out of [[place-greywater|Greywater]] calls at [[place-ravenmoor|Ravenmoor]] first under the Synod's requirement.
 
 ## Population and Society
 
@@ -176,3 +145,56 @@ a manor.
 The arrangement makes Aldorath populous, agriculturally productive, militarily formidable on its own
 ground, and slow: everything the crown wishes to do must pass through lords whose interests are their
 estates. Dúnavarre's mages find this contemptible and have never been able to exploit it.
+
+## The Senali Connection
+
+The Aldorathian crown holds that it keeps an ancient and cautious relationship with the [[lore-flksenali|Senali]] of [[place-hallowwood|Seirasto]], on the south coast beyond Dúnavarre, and the court counts it the most sustained contact between the elder race and any Eilwìthan polity. The kingdom believes the connection gives it a mystical legitimacy that its rivals cannot claim. The Senali neither confirm nor deny it; they do not explain themselves, and the Aldorathian court knows better than to press them. The forest is theirs, and nobody outside the court can say what the claim rests on.
+
+## Commerce and Currency {#commerce}
+
+Kingdom of Aldorath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Aldorath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## Holdings {#holdings}
+
+[[place-dunmere|Dunmere]]
+: the seat, at the south-eastern tip of Lake Eilìssa, where the king, the household, the assize and the council sit.
+
+[[place-kingsholow|Kingshollow]]
+: the crowning chapel, the old hall of Drethar's line and the royal graves, where every king is crowned and buried and keeps the midwinter feast when he can.
+
+[[place-caerwynd|Kaerwiind]]
+: the march's fortress, held by the Warden of the Wiindmarch.
+
+[[place-aldorvale|The Aldorvale]], [[place-brynwold|Brinwold]], [[place-sunnerslade|Sunnerslade]], [[place-greylevels|the Greylevels]] and [[place-wyndmarch|the Wiindmarch]]
+: the kingdom's five countries, held in baronies and manors of the crown.
+
+## History {#history}
+
+The eastern barons crowned Drethar of Kingshollow about 120 AF because they wanted a war-leader against the forest and a judge for their quarrels, and they crowned a man whose land they could ride across in a day ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). In the reign of [Tenral]{.name data-type="being/npc"} the court moved to the lakeside at Dunmere, and the kings kept the hall, the chapel and the graves at Kingshollow. [Réncaris]{.name data-type="being/npc"}, a king of the third century, led the crown's first campaign against the Grukar, and a dozen more have followed it, each declared a success. Since the Nordmen took the Stormplain in 660 AF the passes over the Sunderfells have been the kingdom's frontier with [[affiliation-jrldmstrmvld|Stormveld]].
+
+## Relations {#relations}
+
+Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive—the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblcndrth|Republic of Ondareth]], beyond the lake and the Highlands to the west, are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The Nordmen of [[affiliation-jrldmstrmvld|Stormveld]] to the north-west are a persistent concern—raiding parties from the fjords have troubled Aldorath's northern borders for generations, and the [[lore-flkkhazar|Khazari]] holds in the mountains between the two polities are a source of tension, as both claim the ranges as their frontier. The [[lore-grukaraelwyth|Grukar]] are at war with the kingdom as with everyone: the nest at Hartfell raids the Wiindmarch forest, [[place-fernbank|Fernbank]] the old road south of Dunmere, and [[place-aldermire|Aldermire]] the lake's lower shore.
+
+## See Also
+
+[[place-eilwith|Eilwìth]]
+: The island
+
+[[place-aldorathrgn|Aldorath Region]]
+: The land the kingdom holds
+
+[[place-eilissa|Lake Eilìssa]]
+: The great central lake on whose eastern shore the kingdom lies
+
+[[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]
+: Southern rival
+
+[[affiliation-repblcndrth|Republic of Ondareth]]
+: Western republic beyond the Highlands
+
+[[lore-flksenali|Senali]]
+: Elder race of Seirasto
+
+[[affiliation-arldnpnthn|Aureldian]]
+: State pantheon

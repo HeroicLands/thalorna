@@ -16,8 +16,7 @@ data:
 
 **Vargate** stands at the foot of the road that climbs to [[place-vorgald|Vorgald]], and it is the only
 reason anyone outside [[place-vardainvalleys|the valleys]] has heard of
-[[lore-vardain|the Vardain]]. Fifteen hundred people—much the largest settlement in [[place-ironfells|the Ironfells]], and
-larger than anything in [[affiliation-jrldmstrmvld|Stormveld]] but its seat.
+[[lore-vardain|the Vardain]]. Fifteen hundred people—much the largest settlement in [[place-ironfells|the Ironfells]].
 
 ## The Gate
 
@@ -63,6 +62,10 @@ watched constantly, and the road above the Weighing Yard is not walked by outsid
 tried have been escorted down, once, politely.
 
 There is no second time, and the Vardain will not say what the second time consists of.
+
+## The Present {#present}
+
+The Reeve of the Valleys, [[being-davrimhssk|Davrim Hessek]], is of a Vargate factor family and speaks for the valleys at the Weighing Yard. The newest runaways from the plain are lodged in the town until the elders find them ground, and the Reeve is buying grain from the lowland caravans in quantities the market has noticed. A Greywater buyer has begun telling the Ashford market which goods at Vargate are Khazari work, and the factors would like him to stop.
 
 ## See Also
 

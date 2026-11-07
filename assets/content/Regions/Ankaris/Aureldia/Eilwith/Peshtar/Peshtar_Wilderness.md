@@ -12,7 +12,7 @@ data:
   population: 63000
   packFolder: eilwith
 
-# terran_analog: "Ireland—the great western arm of the inverted-V Eilwìthan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior."
+# terran_analog: "Ireland—the north-west of the compact Eilwìthan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior."
 ---
 
 The Peshtar Wilderness is the ungoverned highland quarter of [[place-eilwith|Eilwìth]]—rugged mountains, old-growth forests, boggy upland moors, and mist-choked valleys that have resisted every attempt at conquest, incorporation, or civilization for as long as Eilwìth has kept written records. Nominally part of the Misty Isle, it lies entirely beyond the writ of any crowned king, and the Peshtar tribes who inhabit it regard all outside authority as trespass. The region is a running scandal to the lowland kingdoms, an opportunity for mercenary recruiters, and a spiritual mystery to the older Aureldian clergy who suspect that some of what the Peshtar worship may be older than any pantheon on record.
@@ -46,7 +46,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ## Peoples and Culture
 
-The Peshtar are a fierce and fractious highland people, descended from the [[lore-pelwarpepl|Pelwar refugees]] who reached Eilwìth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands.
+The Peshtar are a fierce and fractious highland people, descended from the [[lore-pelwarpepl|Pelwar refugees]] who reached Eilwìth around 1200 BF, as is nearly every human on the island. What sets them apart is not an older origin but their way of life: their clans took no crown and no lowland holding, and kept the wilderness as it was when the refugees first came to it, while the southern kingdoms and the Nordmen settlers of the eastern coasts took their land later. They are not a single tribe but a constellation of related clans—the accounts vary widely on how many clans there are and which have lineal relationships with which—who share a language family, a ritual complex, and a common contempt for the lowlands. The clans keep three tribes, [[affiliation-kelgar|the Kelgar]], [[affiliation-bradhar|the Bradhar]] and [[affiliation-lonagar|the Lonagar]] ([[lore-peshtarclans|the Peshtar Clans]]).
 
 Peshtar society is organized around the clan, which is in turn organized around the war-chief and the shaman. The war-chief is the martial leader—typically the foremost warrior of his lineage, chosen by the acclamation of the clan's warriors and holding his position only as long as he remains the foremost warrior. The shaman is the spiritual and legal authority—trained from childhood in the clan's mysteries and the landscape's lore, invested with authority over questions of ritual and inheritance and dispute. The two offices balance one another; neither alone can rule, and clans whose war-chief and shaman openly quarrel tend to fission.
 
@@ -58,13 +58,13 @@ Peshtar diet is simple: cattle, sheep, goats, and pigs herded through the highla
 
 The Peshtar combine worship of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] with older animistic traditions that may predate any organized pantheon in [[place-worldthlrn|the World of Thalorna]]. Their shamans maintain the ritual practice; their holy places are natural features—ancient trees, springs, stone circles, the high shoulders of specific mountains—rather than temples or churches.
 
-The relationship between the Peshtar version of the Aureldian gods and the version recognized in mainstream Aureldian theology is ambiguous. The names are recognizable: Peshtar shamans invoke something they call [Calmara]{.name data-type="lore/deity"}, something they call [Veyrael]{.name data-type="lore/deity"}, something they call [Vharoth]{.name data-type="lore/deity"}. But the stories they tell, the faces they assign to these gods, and the rituals they use to approach them bear only a distant resemblance to the Aureldian liturgical tradition. A handful of Aureldian theologians have proposed that the Peshtar practice is not a corruption of the true Aureldian traditions but an older stratum of them, preserving what the continent has forgotten. This proposition is not popular in ecclesiastical circles; the theologians who have made it most vigorously have generally ended their careers in obscurity.
+The relationship between the Peshtar version of the Aureldian gods and the version recognized in mainstream Aureldian theology is ambiguous. The names are recognizable: Peshtar shamans invoke something they call [Kalmara]{.name data-type="lore/deity"}, something they call [Veyrael]{.name data-type="lore/deity"}, something they call [Vharoth]{.name data-type="lore/deity"}. But the stories they tell, the faces they assign to these gods, and the rituals they use to approach them bear only a distant resemblance to the Aureldian liturgical tradition. A handful of Aureldian theologians have proposed that the Peshtar practice is not a corruption of the true Aureldian traditions but an older stratum of them, preserving what the continent has forgotten. This proposition is not popular in ecclesiastical circles; the theologians who have made it most vigorously have generally ended their careers in obscurity.
 
 Beneath and around the Aureldian names, the Peshtar also maintain a set of explicitly animistic practices—the recognition of landscape-spirits, ancestor-spirits, and the named spirits of specific rivers, specific groves, specific stones. These traditions have no counterpart in mainstream Aureldian practice and are, almost certainly, the older stratum of the Peshtar faith.
 
 ## Politics and Power
 
-The Peshtar Wilderness has no government in any sense the lowlands would recognize. There is no king, no council of chiefs, no federation, no common law. Each clan governs itself; inter-clan relations are a matter of ad-hoc negotiation, seasonal gathering, occasional mediation by shamans, and frequent small-scale warfare. Gatherings of shamans at the ancient stone circles—held at the major seasonal turns—serve as the closest thing the Peshtar have to a supra-clan institution. At these gatherings disputes can be adjudicated, alliances formalized, and occasional broader decisions made; but the gatherings' authority is moral rather than compulsory, and a clan that rejects a shaman's ruling simply rejects it.
+The Peshtar Wilderness has no government in any sense the lowlands would recognize. There is no king, no council of chiefs, no federation, no common law. Each clan governs itself, and a tribe is only the clans that gather at one stone circle and follow one War-Leader when a war is on them; inter-clan relations are a matter of ad-hoc negotiation, seasonal gathering, occasional mediation by shamans, and frequent small-scale warfare. Gatherings of shamans at the ancient stone circles—held at the major seasonal turns—serve as the closest thing the Peshtar have to a supra-clan institution. At these gatherings disputes can be adjudicated, alliances formalized, and occasional broader decisions made; but the gatherings' authority is moral rather than compulsory, and a clan that rejects a shaman's ruling simply rejects it.
 
 No outsider has ever successfully ruled the Peshtar. Punitive expeditions from the lowland kingdoms have a long and inglorious history: the Peshtar do not offer pitched battle, do not defend fixed positions, and do not have anything the invader can seize to compel their submission. An army that enters the wilderness is harassed continuously, picked apart piece by piece, and eventually starved out or destroyed in terrain where supply and maneuver favor the defenders absolutely.
 
@@ -76,40 +76,18 @@ Peshtar warriors occasionally take service as mercenaries in the lowland kingdom
 
 ## Relations with Neighboring Regions
 
-To the **south** lies the [[affiliation-repblcndrth|Republic of Ondareth]], which has borne the brunt of Peshtar raiding for centuries and whose border is a long line of fortified farmsteads, watch-burgs, and burned-over no-man's-land. Relations are formally hostile, practically managed.
+To the **south** lies the [[affiliation-repblcndrth|Republic of Ondareth]], which has borne the brunt of Peshtar raiding for centuries and whose border is a long line of fortified farmsteads, watch-burgs, and burned-over no-man's-land. Relations are formally hostile, practically managed, and the Bradhar of the Highwood are at war with its legion now.
 
-To the **east** lies the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] and other Nordmal-descended polities of Eilwìth. The Peshtar and the Nordmen of Eilwìth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aureldian polities.
+To the **east** lies the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]. The Peshtar and the Nordmen of Eilwìth share a martial temperament and a highland respect, and their dealings are more comprehensible to both than Peshtar dealings with the continental Aureldian polities. They are not more peaceful: the Kelgar and the Lonagar are both at war with the Jarldom now.
 
 To the **north and west** lies the sea. The Peshtar have no maritime ambition, and the cliff coasts discourage any outside power from attempting a landing in strength.
-
-## See Also
-
-[[place-eilwith|Eilwìth]]
-: the parent island
-
-[[affiliation-repblcndrth|Republic of Ondareth]]
-: southern lowland neighbor
-
-[[affiliation-jrldmstrmvld|Jarldom of Stormveld]]
-: eastern Nordmal-descended neighbor
-
-[[affiliation-arldnpnthn|Aureldian Pantheon]]
-: partial overlay of the older Peshtar faith
-
-[[skill-varokhlng|Varokhi]]
-: related naming tradition
-
-[[place-aureldirgn|Aureldia Region]]
-: the broader cultural region
-
-[[place-ankrscntnnt|Ankaris Continent]]
-: parent continent
 
 ## Extent and Peoples
 
 The **Peshtar Wilderness** is not a polity and does not consider itself one. It covers the **entire
-north-west of Eilwìth and much of the northern coast**, and it holds, with the other unsettled country,
-roughly **125,000** people—about a sixth of everyone on the island.
+north-west of Eilwìth and much of the northern coast**, and about **63,000** Peshtar live in it. With the
+forest peoples of the interior and the south, the island's tribal peoples number roughly **125,000**,
+about a sixth of everyone on the island.
 
 They are not one people. The wilderness supports many **tribal cultures**, differing in speech, custom
 and disposition, sharing chiefly the fact that no realm's writ reaches them. Along the northern coasts
@@ -140,3 +118,55 @@ something that breeds faster than it can be killed. Frontier settlements of
 
 The lowland realms use the word _barbarian_ for all of them indiscriminately, which is convenient and
 tells you nothing.
+
+## The Three Tribes {#realms}
+
+[[affiliation-kelgar|The Kelgar]]
+: about twenty-two thousand cattle people in [[place-stormwood|the Stormwood]], the eastern forest against Stormveld's plain.
+
+[[affiliation-bradhar|The Bradhar]]
+: about twenty-four thousand hunters and herders in [[place-highwood|the Highwood]], the pine highlands above Ondareth's frontier.
+
+[[affiliation-lonagar|The Lonagar]]
+: about seventeen thousand herders and fishers on [[place-nordmoor|the Nordmoor]], the cliff coast of the north and north-west.
+
+## Places {#places}
+
+[[place-blackkilnpriory|Blackkiln Priory]]
+: the burned priory of a Black Flame cell in the Highwood's south-eastern pines, which the clans leave burning.
+
+## Current Situation {#present}
+
+All three tribes have a War-Leader, which the oldest shamans cannot remember happening before.
+
+- **The Kelgar and Stormveld.** Two jarls raided the Kelgar's eastern glens under a pact in 718, and in 719 the Kelgar burned four of the High Jarl's steadings in the Nordfells. Their War-Leader, [[being-bronnakh|Bronnakh]], means to strike Vuldstead next.
+- **The Bradhar and Ondareth.** The Bradhar burned two of the legion's watch-burgs north of [[place-kaermouth|Kaermouth]] in the autumn of 719, and the legion means to carry the war into the Highwood in the spring. Their War-Leader, [[being-taskain|Taskain]], needs the river clans that trade at Kaermouth, and they have not followed her.
+- **The Lonagar and the northern water.** Stormveld's inlet pact has closed the coasters' water to the Lonagar's inlets and burned the boats of one of their clans. Their War-Leader, [[being-sennog|Sennog]], is short of ships and of salt.
+- **The Grukar.** The war nobody records goes on in every country of the three tribes. The nest at Mossglen takes the Bradhar hill clans' sheep while their fighters face the legion; Pinehollow and Hazelbrake fight each other and both tribes over the high pastures; Gullstone takes the Lonagar fowlers off the cliffs; and a young nest at [[place-kineglen|Kineglen]] holds the Kelgar glen the jarls emptied ([[lore-grukaraelwyth|the Grukar of Eilwìth]]).
+- **The high pastures.** Kelgar clans driven west from the plain's edge graze the high pastures the Bradhar call theirs, and the two tribes have killed each other's herdsmen over them.
+
+## See Also
+
+[[place-eilwith|Eilwìth]]
+: the parent island
+
+[[affiliation-repblcndrth|Republic of Ondareth]]
+: southern lowland neighbor
+
+[[affiliation-jrldmstrmvld|Jarldom of Stormveld]]
+: eastern Nordmen neighbor
+
+[[lore-peshtarclans|The Peshtar Clans]]
+: the three tribes, their gods and their names
+
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: partial overlay of the older Peshtar faith
+
+[[skill-varokhlng|Varokhi]]
+: related naming tradition
+
+[[place-aureldirgn|Aureldia Region]]
+: the broader cultural region
+
+[[place-ankrscntnnt|Ankaris Continent]]
+: parent continent

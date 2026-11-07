@@ -32,7 +32,7 @@ data:
               the enclaves inside the empire's borders hold formal standing at the imperial court and answer to the caste law that classified them
             knowledge: named
           - place: place-eilwith
-            how: the Senali of the Hallowwood stand beside the Khazari of the mountains, and together they held a crown for six centuries
+            how: the Senali of Seirasto stand beside the Khazari of the mountains, and together they held a crown for six centuries
             knowledge: named
           - place: place-vrystwald
             how: paths into the deep woods have a way of leading somewhere else

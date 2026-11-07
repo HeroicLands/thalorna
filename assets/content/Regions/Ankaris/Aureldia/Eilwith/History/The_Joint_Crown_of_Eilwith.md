@@ -60,9 +60,7 @@ data:
             The lords of the mountain and the lords of the wood sat together over the island, and the valleys fed both.
           agrees: full
           withholds: nothing; the Vardain's tellings keep the crown plainly and do not know it was unusual
-        - by: lore-flksenali
-          says: Nothing. The Hallowwood does not discuss the crown.
-          agrees: silent
+        - {by: lore-flksenali, says: Nothing. Seirasto does not discuss the crown., agrees: silent}
       unresolved:
         - where the crown sat, and whether it sat anywhere
         - how a Senali king and a Khazari council divided the island's business between them
@@ -72,7 +70,7 @@ A drover who follows a straight, paved road across the island's interior and fin
 
 ## Why Here
 
-[[lore-fallkhazturn|The fall of Khazartúrn]] in 2427 BF ended all dealing between the [[lore-flksenali|Senali Folk]] and the [[lore-flkkhazar|Khazár Folk]] everywhere in the world. Eilwìth was the exception. The Khazari of [[place-vorgald|Vorgald]] and the Senali of the southern forest, [[place-hallowwood|the Hallowwood]] of today, shared one island and no other pair of their peoples shared a country at all. In [[lore-thecrossing|the Crossing]], the Convoy of Six sailed in 1919 BF to put [[miscgear-secondvoice|the Second Voice]] into their joint keeping and never arrived. A little over three centuries later the two peoples tried a larger undertaking, and they made it a government.
+[[lore-fallkhazturn|The fall of Khazartúrn]] in 2427 BF ended all dealing between the [[lore-flksenali|Senali Folk]] and the [[lore-flkkhazar|Khazár Folk]] everywhere in the world. Eilwìth was the exception. The Khazari of [[place-vorgald|Vorgald]] and the Senali of the southern forest, [[place-hallowwood|Seirasto]] of today, shared one island and no other pair of their peoples shared a country at all. In [[lore-thecrossing|the Crossing]], the Convoy of Six sailed in 1919 BF to put [[miscgear-secondvoice|the Second Voice]] into their joint keeping and never arrived. A little over three centuries later the two peoples tried a larger undertaking, and they made it a government.
 
 ## One Crown, Two Hands
 
@@ -82,7 +80,7 @@ The subjects were [[lore-vardain|the Vardain]], the farmers the Khazari had long
 
 ## What It Left
 
-- **The Crown Roads.** Stretches of fitted-stone road run across Eilwìth's interior and highlands where no later road runs, and one of them goes straight to the Hallowwood's edge and stops. They are described under [[place-eilwith|Eilwìth]].
+- **The Crown Roads.** Stretches of fitted-stone road run across Eilwìth's interior and highlands where no later road runs, and one of them goes straight to Seirasto's edge and stops. They are described under [[place-eilwith|Eilwìth]].
 - **Footings under three towns.** Cut stone nobody has dated lies beneath the oldest quarters of [[place-veldareth|Veldareth]] and two other towns, and one cellar in Veldareth has a door cut in the footing that does not open.
 - **Six centuries of being assured.** The Khazari reckon the Senali's withdrawal from the Three Sisters the worse for coming after it, and [[place-vorgald|Vorgald]]'s archive counts it as the second abandonment in fourteen hundred years.
 - **A people's standing.** The Vardain are farmers of a crown and a hold, and they tell the crown without wonder, as a thing that was ordinary once.
@@ -100,5 +98,5 @@ The joint kingdom ended in [[lore-threesistrs|the Battle of the Three Sisters]],
 [[lore-thecrossing|The Crossing]]
 : the trust that came before it
 
-[[place-hallowwood|The Hallowwood]] · [[place-vorgald|Vorgald]]
+[[place-hallowwood|Seirasto]] · [[place-vorgald|Vorgald]]
 : where the two peoples went after

@@ -37,6 +37,10 @@ sewers whose disputes are the most tedious and most bitterly fought litigation i
 The flats below the town are dangerous and change; pilotage into Greywater is hereditary, jealously
 guarded, and the Levels' one genuinely irreplaceable trade.
 
+## Current Situation {#present}
+
+Ships are being lost on the bar below [[place-greywater|Greywater]] in weather that should not sink them, and the town's harbor guard suspects smuggling or worse. The commission of sewers is fighting another of its disputes, over the endowment it owes [[place-threnhallow|Threnhallow]] and the chest it left on the mound, and the fowlers of the Levels say the drowned house's bell has rung with no body brought in. Every hull the Levels send to the mainland still calls at [[place-ravenmoor|Ravenmoor]] first.
+
 ## See Also
 
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-greywater|Greywater]]

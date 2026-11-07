@@ -3,7 +3,7 @@ shortcode: eilwith
 name: {full: Eilwìth, en: [The Misty Isle]}
 type: place
 subType: region
-description: "Great island off Élavendre's western coast—deeply legendary. The Peshtar Wilderness occupies the west, the kingdom-belt the east, joined at the misty north."
+description: "Great island north-west of Élavendre across the cold sea—deeply legendary. The Peshtar Wilderness holds the north-west, Stormveld the mountainous north, Ondareth the west and south-west, and Aldorath and Dúnavarre the east and south-east, around a great central lake."
 data:
   demonym: null
   lore: []
@@ -12,37 +12,44 @@ data:
   packFolder: eilwith
   culture: aelwythanclt
 
-# terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V. The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the British-analog kingdom belt (Stormveld in northeastern Scotland, the southern Eilwìthan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
+# terran_analog: "The British Isles, but with Ireland and Britain joined into a single compact, rounded landmass. The north-west is trackless deep forest (the Peshtar Wilderness); Stormveld holds the mountainous north-centre (a Scotland-analog), and the southern Eilwìthan kingdoms lie in England-analog territory east and south-east of the great central lake."
 ---
 
-Off the western coast of the [[place-ankrscntnnt|Ankaris Continent]], some two hundred and thirty miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Eilwìth is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as [[place-stormveld|Stormveld]] and [[place-ondareth|Ondareth]]. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
+Off the western coast of the [[place-ankrscntnnt|Ankaris Continent]], some two hundred and thirty miles north-west across the cold sea from the [[place-elavendre|Élavendri]] coast, Eilwìth is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as [[place-stormveld|Stormveld]] and [[place-ondareth|Ondareth]]. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
 
 ## Geography
 
-Eilwìth is a large island of markedly unequal country, and its shape governs its politics.
+Eilwìth is a large, compact island, some three hundred and sixty miles from west to east and two hundred
+and sixty-five from north to south, of markedly unequal country, and its shape governs its politics.
 
-**The east** is mountain. [[place-ironfells|The Ironfells]] rise along the southern edge of
-Stormveld, run eastward to the sea, then turn **south down the coast**,
-descending by degrees into foothills and at last into the lowlands of
-Dúnavarre in the south-east. Only **two passes** cross them, both through deep
-wilderness, and in their eastern heights is [[place-vorgald|Vorgald]], a hold of the
-[[lore-flkkhazar|Khazari]].
+**The north** is Stormveld, a mountain country at the middle of the northern coast and about an eighth of
+the island: [[place-stormplain|the Stormplain]], walled by [[place-nordfells|the Nordfells]] to the
+north—perhaps half the Jarldom's ground—and [[place-sunderfells|the Sunderfells]] to the south, which come
+down to the northern end of [[place-eilissa|Lake Eilìssa]].
 
-**The north-east** is Stormveld: a great central plain,
-[[place-stormplain|the Stormplain]], walled by [[place-nordfells|the Nordfells]] to the north—perhaps half
-the Jarldom's ground—and [[place-sunderfells|the Sunderfells]] to the south.
+**The north-east** is mountain. [[place-ironfells|The Ironfells]] run east from Stormveld to the sea,
+unclaimed by any realm. Only **two passes** cross them, both through deep wilderness, and in their heights is
+[[place-vorgald|Vorgald]], a hold of the [[lore-flkkhazar|Khazari]].
 
-**The north-west and much of the northern coast** is the forest of the
-[[place-pshtrwldrns|Peshtar Wilderness]], which runs east until it meets the Nordfells.
+**The north-west and the northern coast west of Stormveld** are the forest of the
+[[place-pshtrwldrns|Peshtar Wilderness]], which runs east until it meets Stormveld's mountains.
 
-**The center-east**, west of the Ironfells, is Aldorath—the lush and fertile
+**The east**, south of the Ironfells, is Aldorath—the lush and fertile
 country that is the **breadbasket of Eilwìth**, whose grain feeds the island and whose wool and wine are
-known as far as the mainland.
+known as far as the mainland. It reaches west to the eastern shore of Lake Eilìssa, the great central
+lake, which lies at the island's middle on a line from north-west to south-east, some hundred and five miles
+long and twenty-seven across.
 
-**The west** is open: [[place-cntrlhghlnds|the Central Highlands]] at the island's middle, falling to the
-western coastal country of Ondareth, and reaching north to the Peshtar forests.
+**The south-east** is Dúnavarre, from the lake's south-eastern tip to the eastern and southern coasts.
 
-**The south**, below Aldorath and west of Dúnavarre, is [[place-hallowwood|the Hallowwood]]—deep
+**The west and south-west** are Ondareth: the fog-bound western coast and the broad farmland and upland
+behind it.
+
+**The middle** belongs to no realm. [[place-cntrlhghlnds|The Central Highlands]] rise between Ondareth and
+the lake's western shore, and south of the lake they fall into [[place-thornwold|the Thornwold]], the
+thorn-grown hill country of the [[affiliation-durrask|Durrask]], who raid every realm they can reach.
+
+**The south coast**, between Ondareth and Dúnavarre, is [[place-hallowwood|Seirasto]]—deep
 fae forest where the [[lore-flksenali|Senali]] of Eilwìth live, and which does not welcome visitors.
 
 ## Climate
@@ -55,7 +62,7 @@ northern coast is little better and the mountains are worse.
 
 The exceptions are two and both are sheltered. The Central Highlands stand
 above the coastal fog, which is a low thing, and are clearer and warmer than anywhere else—relative to
-Eilwìth, which is to say a Provénzian would still want his cloak. And the slopes of
+Eilwìth, which is to say still cool by any mainland measure. And the slopes of
 [[place-sunnerslade|Sunnerslade]], in the Ironfells' rain-shadow, are dry and warm enough to ripen
 vines, which is the single most improbable fact about the island's agriculture.
 
@@ -80,11 +87,11 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ### Elder Race Enclaves
 
-The southern forests shelter ancient communities of Senali (elves), who maintain a distant but real relationship with the crown of [[affiliation-kngdmldrth|Aldorath]]. The mountains northeast of Aldorath—the range separating the central lowlands from the Stormveld coast—contain holds of the Khazari (dwarves), which few humans have seen and which are among the most reclusive of their kind anywhere on Ankaris.
+The southern forest shelters ancient communities of Senali (elves). The crown of [[affiliation-kngdmldrth|Aldorath]] claims a distant but real relationship with them, which the Senali neither confirm nor deny. The mountains north of Aldorath, which run east from Stormveld to the sea, contain holds of the Khazari (dwarves), which few humans have seen and which are among the most reclusive of their kind anywhere on Ankaris.
 
 ### Minor Polities
 
-Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of [[place-veldareth|Veldareth]], on the southern coast between Dúnavarre and Ondareth, is a neutral center of learning whose [[affiliation-panepistmm|Epistémion]] chapterhouse is among the most respected on the island.
+Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of [[place-veldareth|Veldareth]], on the southern coast between Ondareth and Seirasto, is a neutral center of learning whose [[affiliation-panepistmm|Epistémion]] chapterhouse is among the most respected on the island.
 
 ## Religion
 
@@ -94,9 +101,9 @@ The [[affiliation-repblcndrth|Republic of Ondareth]] in the west is the exceptio
 
 ## Magic
 
-Eilwìth is one of the most magically active regions in the known world. The great central bay is believed to be a nexus of mystical energy, and the veil between the mortal world and other realms is thinner here than anywhere outside of [[place-elavendre|Élavendre]].
+Eilwìth is one of the most magically active regions in the known world. The great central lake, [[place-eilissa|Lake Eilìssa]], is believed to be a nexus of mystical energy, and the veil between the mortal world and other realms is thinner here than anywhere outside of [[place-elavendre|Élavendre]].
 
-The the Epistémion maintains chapterhouses in each of Eilwìth's five great cities, functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, the [[affiliation-ordoarcanis|Thordimalon]] operates through these chapterhouses, using them to extend its influence over arcane practice. In [[affiliation-kingdmdnvr|Dúnavarre]], this influence has reached its logical extreme: the Arcane Order governs the kingdom outright through a [[affiliation-dunavarsynod|Synod]] of mages, the only polity anywhere on Ankaris where the Arcane Order holds direct political power.
+The Epistémion maintains five chapterhouses on Eilwìth, at [[place-dunmere|Dunmere]], [[place-ravenmoor|Ravenmoor]], [[place-thornbury|Thornbury]], [[place-stormveil|Stormveil]] and [[place-veldareth|Veldareth]], functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, the [[affiliation-ordoarcanis|Thordimalon]] operates through these chapterhouses, using them to extend its influence over arcane practice. In [[affiliation-kingdmdnvr|Dúnavarre]], this influence has reached its logical extreme: the Arcane Order governs the kingdom outright through a [[affiliation-dunavarsynod|Synod]] of mages, the only polity anywhere on Ankaris where the Arcane Order holds direct political power.
 
 Elsewhere on the island, the relationship between the local rulers and their Epistémion (the Academy of Knowledge) chapterhouses varies—Aldorath's feudal lords defer to their own seers on matters of prophecy, Ondareth's senate insists on civic oversight, and the Nordmen of Stormveld are culturally indifferent to scholarly institutions. But even where the Epistémion (the Academy) is viewed with suspicion, the chapterhouses are respected and their presence tolerated. The Epistémion's power is not military but intellectual: its scholars educate the gentry's children, its sages provide expertise no local tradition can match, and its libraries hold knowledge available nowhere else. A polity that earns the Epistémion's sanction—losing access to its teachers, its specialists, and its accumulated wisdom—finds life considerably harder for its ruling class. This quiet leverage ensures that chapterhouse doors remain open across the island, whatever the local rulers may think of the Arcane Order lurking behind them.
 
@@ -118,7 +125,7 @@ It was ended by refugees. The **[[lore-pelwarpepl|Pelwar]]**, driven off the mai
 reached Eilwìth around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
 land. Two centuries of arrival and pressure and reprisal became the [Great War]{.name data-type="lore/history"}, and in **984 BF** the
 king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]] in what is now the
-Central Highlands. The Senali withdrew into the Hallowwood;
+Central Highlands. The Senali withdrew into Seirasto;
 the Khazari finished the war alone and have not spoken to them since. How the war ended, and what it left
 to the humans who stayed, is told in [[lore-endgreatwar|the Ending of the Great War]].
 
@@ -140,7 +147,7 @@ them that way, and the [[lore-vardain|Vardain]], who know the stone better than 
 asked.
 
 Two of the roads are known for what they do. One stretch runs straight from the highland grazing to the edge
-of the Hallowwood and stops there at a bank of oaks, with no gate, no marker and no road
+of Seirasto and stops there at a bank of oaks, with no gate, no marker and no road
 beyond. A cellar in Veldareth has a door cut into its footing that does not open, and the household that owns the
 house does not say whether it has been tried.
 
@@ -278,14 +285,14 @@ one.
 
 The **tribal peoples**—about a sixth of the island—live outside every realm, in the
 Peshtar Wilderness across the north-west and much of the northern coast, and in
-isolated wooded communities through the interior and the eastern and southern forest. The lowland realms
+isolated wooded communities through the interior and the southern forest. The lowland realms
 call all of them barbarians, which is convenient and uninformative; the forest peoples are markedly more
 warlike than the northern tribes, and the settled realms treat the forest margins as frontier rather
 than border.
 
 The **Vardain** are something else entirely, and lumping them with the tribes is the commonest error
 outsiders make about Eilwìth. They are the free remnant of [[place-vardanreach|Vardanreach]], the nation that held the
-whole north-east until the Nordmen took it sixty years ago—a settled, literate, farming people whose
+whole north until the Nordmen took it sixty years ago—a settled, literate, farming people whose
 kin make up the hundred and twenty thousand thralls of Stormveld. Eight
 thousand five hundred of them live in [[place-vardainvalleys|the Vardain Valleys]] (the high valleys) of the
 Ironfells under the protection of the Khazari, which is why they
@@ -296,16 +303,16 @@ coast:
 
 | Realm                                              | People   | Where            |
 | -------------------------------------------------- | -------- | ---------------- |
-| [[affiliation-kngdmldrth\|Kingdom of Aldorath]]    | ~200,000 | eastern interior |
-| [[affiliation-jrldmstrmvld\|Jarldom of Stormveld]] | ~150,000 | north-east       |
-| [[affiliation-repblcndrth\|Republic of Ondareth]]  | ~150,000 | western coast    |
+| [[affiliation-kngdmldrth\|Kingdom of Aldorath]]    | ~200,000 | east of the lake |
+| [[affiliation-jrldmstrmvld\|Jarldom of Stormveld]] | ~150,000 | north            |
+| [[affiliation-repblcndrth\|Republic of Ondareth]]  | ~150,000 | west, south-west |
 | [[affiliation-kingdmdnvr\|Kingdom of Dúnavarre]]   | ~75,000  | south-east       |
 
 Three things about that table matter more than the numbers.
 
-**Stormveld is not an Eilwìthan realm.** Nordmen took the north-east some sixty years ago and enslaved
+**Stormveld is not an Eilwìthan realm.** Nordmen took the north some sixty years ago and enslaved
 the population; of its 150,000, around 30,000 are Nordmen and around 120,000 are native thralls. A
-Nordmen holding a third of the island's settled people sits under four hundred sea-miles from
+Nordmen holding over a quarter of the island's settled people sits under four hundred sea-miles from
 Élavendre, which explains a good deal of Élavendren foreign policy.
 
 **Aldorath is the largest**, with Stormveld and Ondareth close behind, and the most conventionally feudal: four in five of its people are
@@ -325,6 +332,15 @@ appropriate—and to decline, from every chantry the petitioner can reach, to se
 A king of two hundred thousand who has lost his mages and cannot obtain another from anywhere is weaker
 than a king of seventy-five thousand who has all of his. Every ruler on the island has done that sum.
 
+## Current Situation {#present}
+
+- **Aldorath.** [[being-aldrikdrthng|King Aldrik]] asks the council of barons to accept his son as king-to-be, the barons hold their levies back, and the Wiindmarch holds the Stormveld passes with fewer men each season.
+- **Dúnavarre.** The [[affiliation-justbladeordr|Order of the Just Blade]] cuts its road deeper into the Seilvri's last forest each summer, at the Synod's command.
+- **Ondareth.** The Senate's legion at [[place-kaermouth|Kaermouth]] prepares to carry its war with the [[affiliation-bradhar|Bradhar]] into the Highwood in the spring, and the First Senator wants a second term the Senate has never given.
+- **Stormveld.** The jarls' pacts have the Jarldom at war with the [[affiliation-kelgar|Kelgar]] and the [[affiliation-lonagar|Lonagar]], and the jarl of Drasknes means to put the High Jarl's seat to the coming Midsomar moot.
+- **The Thornwold.** The [[affiliation-durrask|Durrask]] raid Aldorath, Dúnavarre and Ondareth at once under a War-Leader sworn for his third year.
+- **Vorgald.** The [[affiliation-vrgldhld|hold]] asks the Vardain valleys how many more runaways from the plain their granaries will carry.
+
 ## See Also
 
 [[place-elavendre|Élavendre]]
@@ -343,7 +359,7 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 : Elder race with southern forest enclaves
 
 [[lore-flkkhazar|Khazari]]
-: Elder race with northeastern mountain holds
+: Elder race with northern mountain holds
 
 [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
 : a scenario set here

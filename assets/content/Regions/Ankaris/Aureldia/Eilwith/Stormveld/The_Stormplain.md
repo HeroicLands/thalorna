@@ -32,6 +32,10 @@ That is not a short distance. The plain lies a couple of hundred feet above the 
 
 They keep their speech, mostly out of hearing, and their observances, mostly out of sight. The jarls have not tried to suppress either, holding that a thrall's private habits are of no consequence so long as the work is done, a judgment that both of the risings have tested and that the jarls have not revised.
 
+## Current Situation {#present}
+
+On the plain's western edge, where it runs up to the forest, [[being-vrithorvmrvd|Vrithorv Marvidrok]] of [[place-vuldstead|Vuldstead]] works his share of the cattle and captives his men took from a forest tribe in 718, and keeps his steadings armed against the tribe's answer. The thralls of the plain have heard what the captives say of the forest, and the jarls have doubled the watch at harvest. At [[place-stormveil|Stormveil]] the moot gathers at Midsomar, where the jarl of [[place-drasknes|Drasknes]] means to ask for a new High Jarl.
+
 ## See Also
 
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-stormveil|Stormveil]]
+- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-stormveil|Stormveil]] · [[place-vuldstead|Vuldstead]]

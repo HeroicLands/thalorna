@@ -59,7 +59,7 @@ The longships are the north's great craft. They draw little enough water to run 
 
 The Nordmen give one answer when a southerner asks, and they give it without embarrassment: arithmetic. A people whose land cannot feed them must take food, or land, or both, from a country that can. Two million people on rock and ice have done so along every coast within reach for as long as anyone has kept a record, and the [[lore-nrdlndsraid|raid]] has its own customs of crew, share and muster.
 
-The same arithmetic explains [[affiliation-jrldmstrmvld|Stormveld]]. Sixty years ago Nordmen crossed to [[place-eilwith|Eilwìth]] and took its north-east, and what they took was the _plain_, the one large body of good arable on that island, now worked by a hundred and twenty thousand thralls. Seen from the Nordlands it is the most rational thing anyone up there has ever done. Seen from the plain, it is a conquest, and the thralls' children still work land the conquerors hold.
+The same arithmetic explains [[affiliation-jrldmstrmvld|Stormveld]]. Sixty years ago Nordmen crossed to [[place-eilwith|Eilwìth]] and took its north, and what they took was the _plain_, the one large body of good arable on that island, now worked by a hundred and twenty thousand thralls. Seen from the Nordlands it is the most rational thing anyone up there has ever done. Seen from the plain, it is a conquest, and the thralls' children still work land the conquerors hold.
 
 ## Clans, Halls and the Ting
 

@@ -3,7 +3,7 @@ shortcode: repblcndrth
 name: {full: Republic of Ondareth}
 type: affiliation
 subType: polity
-description: "Senatorial republic on Eilwìth's southwestern coast—pragmatic and martial polity that fields the island's most disciplined military force under civic governance."
+description: "Senatorial republic of Eilwìth's west and south-west, from the fog coast to the edge of the Central Highlands—pragmatic and martial polity that fields the island's most disciplined military force under civic governance."
 data:
   templatePriority: null
   demonym: Ondarethan
@@ -51,8 +51,6 @@ data:
         description: >-
           Presiding over the council and speaking first in it—an office of precedence, held for a term, not a sovereign.
     offices:
-      First Senator: >-
-        Presiding officer of the senate, who calls it, sets its order and speaks first. Elected, and vacated at term's end.
       Tavos: >-
         Chief magistrate for the year, holding command in the field and presiding over the senate in the First Senator's absence.
       Vornos: >-
@@ -68,7 +66,6 @@ data:
       Vandraks: Commander of a legion in the field, commissioned by the senate and answerable to it.
       Prefect of the Fleet: Commander of the republic's ships and of the coasts they patrol.
       Ambassador: Envoy to a foreign power, instructed by the senate and reporting to it on return.
-      Clerk of the Senate: Keeper of the senate's record, its decrees and its correspondence.
   seat: thornbury
   population: 150000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
@@ -79,13 +76,14 @@ data:
     vylarinmpr: aligned
     kingdmdnvr: unaligned
     kngdmldrth: unaligned
+    durrask: nemesis
   packFolder: eilwith
 sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 ---
 
 ## Overview
 
-The Republic of Ondareth is a southwestern republic governed by a senate of landed citizens and military officers. Ondareth's political culture is pragmatic and martial, with a strong citizen-soldier tradition that contrasts sharply with the courtly refinement of [[affiliation-kingdmdnvr|Dúnavarre]] and the feudal romanticism of [[affiliation-kngdmldrth|Aldorath]]. The republic holds the land of [[place-ondareth|Ondareth]].
+The Republic of Ondareth is a western republic governed by a senate of landed citizens and military officers. Ondareth's political culture is pragmatic and martial, with a strong citizen-soldier tradition that contrasts sharply with the courtly refinement of [[affiliation-kingdmdnvr|Dúnavarre]] and the feudal romanticism of [[affiliation-kngdmldrth|Aldorath]]. The republic holds the coast of [[place-ondareth|Ondareth]] and the upland of [[place-cntrlhghlnds|the Central Highlands]] behind it, and it is governed from [[place-thornbury|Thornbury]] by the [[affiliation-senatondrth|Senate]].
 
 ## Character
 
@@ -93,9 +91,52 @@ The republic emerged from a military uprising against a tyrannical king several 
 
 Ondarethan legions—disciplined, well-drilled, and motivated by civic duty rather than feudal obligation—are the most professional fighting force on the island. Military service is both a civic obligation and the primary path to political advancement; a senator who has not served is a rarity and regarded with suspicion.
 
+## How It Is Ruled {#how-it-is-ruled}
+
+The [[affiliation-senatondrth|Senate]] governs. It sits at Thornbury under its First Senator, [[being-harwingrymr|Harwin Greymore]], votes the laws, the money, the levies and the wars, and chooses the magistrates for their year. The magistrates carry out what it votes, and answer to it when their year ends. The citizens vote in the assembly for the magistrates the Senate puts before them, and serve in the levy.
+
+### The Officers
+
+Tavos
+: [[being-kuthwldashdn|Kuthwald Ashden]], who keeps the city and presides in the Senate when the First Senator is absent, and [[being-alfmundkrtn|Alfmund Kaerton]], who holds the field command on the northern frontier this year.
+
+Vornos
+: [[being-mildrikhshwl|Mildrik Hushwell]], who declares the law for the year and hears the suits that matter.
+
+Theronos
+: [[being-winiwldbrnl|Winiwald Barnley]], who keeps the citizen roll and the Senate's roll.
+
+Tarkelos
+: [[being-leofmndstrmd|Leofmund Stormden]], who answers for the treasury.
+
+Peltros
+: [[being-dunmundadly|Dunmund Adley]], who keeps Thornbury's markets, streets and water.
+
+Lusos
+: [[being-wilrikbrnwl|Wilrik Brownwell]], who speaks for the citizens in the assembly.
+
+Vandraks
+: [[being-godstanhrdl|Godstan Hardley]], who commands the frontier legion at [[place-kaermouth|Kaermouth]].
+
+Prefect of the Fleet
+: [[being-edstanbrnwk|Edstan Brinwik]], who commands the republic's ships from Thornbury.
+
+Ambassador
+: [[being-aldrunsmrl|Aldrun Somerley]], the Senate's envoy to [[place-veldareth|Veldareth]] and to the mainland.
+
+## Current Situation {#present}
+
+- **The chair.** Harwin Greymore's three years as First Senator end with this year, and he wants a second term, which the Senate has never given. Kuthwald Ashden wants the chair and has put the Tyrant's Rock before the Senate again, because the houses at its foot have been bought in the name of one of Harwin's freedmen.
+- **The frontier.** [[affiliation-bradhar|The Bradhar]] of the Peshtar forest burned two watch-burgs north of Kaermouth in the autumn. The Senate has voted Godstan Hardley another legion's levies and no money to feed them, and Wilrik Brownwell has made the levy the cause of the assembly.
+- **The northern water.** Two jarls of [[affiliation-jrldmstrmvld|Stormveld]] took a Thornbury coaster off the Nordfells in the autumn under a pact between them. The shipping houses want the fleet sent north, and the treasury cannot pay for the fleet and the frontier both.
+- **Veldareth.** Aldrun Somerley presses the Table of Veldareth to say whether its Speaker answers to the [[affiliation-dunavarsynod|Dúnavarre Synod]], and is buying copies of his letters to [[place-ravenmoor|Ravenmoor]].
+- **The upland grazing.** [[affiliation-durrask|The Durrask]] of the Thornwold drove forty brood mares off the republic's eastern upland grazing in the summer, and the herdsmen who followed killed their War-Leader's brother at a ford. The levy has taken the upland breeders' young men north.
+- **The highland nests.** The [[lore-grukaraelwyth|Grukar]] of the Highlands' crags and ravines raid the upland farms and horse runs while the levy takes the herders north: [[place-kingsdelf|Kingsdelf]] under the Three Sisters, [[place-reedgill|Reedgill]] above the lake, Ravenkeld and Stoneholt, and from the Thornwold [[place-aldermire|Aldermire]].
+- **The lake.** At the northern end of [[place-eilissa|Lake Eilìssa]] the reed-cutters of [[place-koldmere|Koldmere]], a free village that sells its fish at Stonyford, and the hill tenants of Aldorath's [[place-brynwold|Brinwold]] cut each other's nets over the reed-beds both claim, and Koldmere has asked the Stonyford senators to take its side at Thornbury.
+
 ## Relations
 
-Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vilérian Empire]], sending diplomats there and trading military expertise for political recognition. Viléria has on occasion sent missions to Ondareth to keep its options open, and keeps no regular relations with it. Relations with [[affiliation-kingdmdnvr|Dúnavarre]] are respectful but wary—the two polities share a border and compete for influence over the southern coast. The [[place-pshtrwldrns|Peshtar tribes]] to the north are a chronic security concern, and Ondarethan legions regularly patrol the frontier. The free city of [[place-veldareth|Veldareth]], on the coast between Ondareth and Dúnavarre, serves as a neutral meeting ground and center of learning.
+Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vilérian Empire]], sending diplomats there and trading military expertise for political recognition. Viléria has on occasion sent missions to Ondareth to keep its options open, and keeps no regular relations with it. Relations with [[affiliation-kingdmdnvr|Dúnavarre]] are respectful but wary—the two polities share a border and compete for influence over the southern coast. The [[lore-grukaraelwyth|Grukar]] nests in the Highlands' crags and ravines raid its upland farms, and no Senate has ever voted a campaign against them, because the losses fall on small breeders and not on senators. The [[place-pshtrwldrns|Peshtar tribes]] to the north are a chronic security concern, and Ondarethan legions regularly patrol the frontier. The Nordmen of [[affiliation-jrldmstrmvld|Stormveld]], beyond the forest, meet Ondareth only at sea, where their jarls take Ondarethan coasters when it suits them. [[affiliation-kngdmldrth|Aldorath]] lies across [[place-eilissa|Lake Eilìssa]] to the east, and the two share the lake without a line on it. The free city of [[place-veldareth|Veldareth]], on the coast between Ondareth and Dúnavarre, serves as a neutral meeting ground and center of learning.
 
 ## Commerce and Currency
 
@@ -103,7 +144,7 @@ Republic of Ondareth uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / A
 
 ## Extent
 
-Ondareth runs along [[place-eilwith|Eilwìth]]'s **western coast** and holds about **150,000** people—the second-largest
+Ondareth holds the **west and south-west** of [[place-eilwith|Eilwìth]], from the fog-bound western coast to its upland edge beside the Central Highlands, and about **150,000** people—the second-largest
 polity on the island, twice the size of Dúnavarre, and the only part of
 Eilwìth governed by anything resembling a civic constitution.
 
@@ -213,6 +254,24 @@ domination and a death-cult of impartial judgment, and they are not allies. Both
 mean opposite things by it. The republic's politics runs in the space between them, and its magistrates
 are careful to be seen at both temples.
 
+## Holdings {#holdings}
+
+[[place-thornbury|Thornbury]]
+: the seat, the chief harbor and the Senate house.
+
+[[place-kaermouth|Kaermouth]]
+: the frontier legion's town at the northern end of the coast.
+
+[[place-stonyford|Stonyford]]
+: the upland market town and horse fair, on the road from Thornbury to the lake.
+
+[[place-ondareth|Ondareth]]
+: the coast and the upland the republic holds.
+
+## History {#history}
+
+A king ruled the western coast until about 440 AF, when [Tralkar]{.name data-type="being/npc"} taxed the carrying trade to ruin and hanged the captains who complained. The coast's levies and the highland farms rose under [Zalmen]{.name data-type="being/npc"}, threw his castle down at Thornbury, and the captains built the republic out of what travelers had told them of Viléria ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). A generation later the Senate voted a standing legion for the northern frontier and raised its camp at Kaermouth. Since the Nordmen took the north in 660 AF, the Jarldom's ships have shared the northern water with Ondareth's.
+
 ## See Also
 
 [[place-eilwith|Eilwìth]]
@@ -220,6 +279,9 @@ are careful to be seen at both temples.
 
 [[place-ondareth|Ondareth]]
 : The land the republic holds
+
+[[affiliation-senatondrth|Senate of Ondareth]]
+: The council that governs it
 
 [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]
 : Southeastern neighbor

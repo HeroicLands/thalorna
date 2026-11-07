@@ -14,7 +14,7 @@ data:
   packFolder: eilwith
 ---
 
-**Threndale** is a side valley given over to the dead, and the village of three hundred and fifty that
+**Threndale** is a side valley given over to the dead, and the village of four hundred and sixty that
 tends them.
 
 Every Vardain is brought here. The valley sides are terraced like everything else in this country, and
@@ -33,6 +33,10 @@ also, pointedly, still being added to, because people still come over the mounta
 of those buried in the new ground are the ones who very nearly did. It is a climb of nearly six
 thousand feet from the plain, possible for four months of the year, and the Vardain who go out to meet
 the late ones do not always bring back someone who can be spoken to.
+
+## The Quarrel {#present}
+
+The Keeper of the Dead, [[being-mirlatssm|Mirla Tessem]], is one of the last Vardain born free in Vardanreach, and the graves of her generation are still being added to. She wants the names of the plain's villages written down before that generation is gone, and the elders of the valleys hold that what the conquerors renamed is better left unsaid in front of strangers.
 
 ## See Also
 

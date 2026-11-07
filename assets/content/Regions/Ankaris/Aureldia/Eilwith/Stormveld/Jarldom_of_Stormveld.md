@@ -3,7 +3,7 @@ shortcode: jrldmstrmvld
 name: {full: Jarldom of Stormveld}
 type: affiliation
 subType: polity
-description: "Loose confederation of Nordmen jarldoms on Eilwìth's fjord-like northeastern coast—Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
+description: "Loose confederation of Nordmen jarldoms on Eilwìth's fjord-like northern coast—Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
 data:
   templatePriority: null
   demonym: Stormvelder
@@ -78,14 +78,14 @@ data:
   packFolder: eilwith
 sohl: {system: {commonSkills: [nordmalng]}}
 
-# terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands). The northeastern tip of the eastern arm of the inverted-V Eilwìthan island."
+# terran_analog: "Northern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands). The mountainous north-centre of the compact Eilwìthan island."
 ---
 
 ## Overview
 
 Sixty years ago this was somebody else's plain; now it feeds the hall at [[place-stormveil|Stormveil]], and the hall feeds the kinsfolk who cross from [[place-nordheim|Nordheim]] to take service in it, who are advised to learn to like barley.
 
-The Jarldom of Stormveld holds the land of [[place-stormveld|Stormveld]], the north-east of [[place-eilwith|Eilwìth]], and it is not, in the sense the other realms of the island are, an Eilwìthan polity at all. Nordmen took it about sixty years ago and hold it still. About 150,000 people live in it, around 30,000 of them Nordmen and around 120,000 native Eilwìthan thralls, and an outsider knows it as the one place on the island where the north rules.
+The Jarldom of Stormveld holds the land of [[place-stormveld|Stormveld]], the north of [[place-eilwith|Eilwìth]], and it is not, in the sense the other realms of the island are, an Eilwìthan polity at all. Nordmen took it about sixty years ago and hold it still. About 150,000 people live in it, around 30,000 of them Nordmen and around 120,000 native Eilwìthan thralls, and an outsider knows it as the one place on the island where the north rules.
 
 ## The Conquest
 
@@ -95,13 +95,56 @@ The conquest was quick and thorough. The existing population was not driven out;
 
 The thralls have risen twice, and neither rising reached its second year. About eight thousand five hundred free Vardain live in the high valleys of [[place-ironfells|the Ironfells]], under [[lore-flkkhazar|Khazari]] protection, and the thralls of the plain know they exist.
 
-## How Stormveld Is Ruled
+## How Stormveld Is Ruled {#how-it-is-ruled}
 
 Stormveld is a loose confederation of jarldoms. Each jarl rules his own territory with near-complete autonomy, with his own hall, levy and moot, and owes nominal allegiance to a [[lore-highjarlrnk|High Jarl]] (_Hofudvald_) elected from among their number. The High Jarl holds only the authority the jarls lend him. His chief work is to coordinate defense and to settle disputes between the jarldoms, and the elections for the post are contentious affairs that occasionally descend into armed contests.
 
 The common offices are the Nordmen's own. A _hersvald_ leads a district's men to the muster. A _Lawspeaker_ recites the law at the moot and declares what it is. A _skald_ keeps a hall's memory, and a _skipstjori_ commands a ship and answers for her in the levy, and a _harbor-reeve_ keeps a haven's tolls and disputes. Three offices belong to the confederation's common life: the _Hirvstjori_ is marshal of the High Jarl's household men and master of the common muster, the _Truce-Warden_ holds the peace declared for the moot and may kill to keep it, and the _Host-Caller_ bears the war-arrow that summons the jarldoms to a common muster.
 
-A free _bundi_ speaks at his jarldom's moot, and a ruling there binds the jarl over him as much as any free man. A thrall holds no voice when the moot decides.
+A free _bundi_ speaks at his jarldom's moot, and a ruling there binds the jarl over him as much as any free man. A thrall holds no voice when the moot decides. The jarls and their free men meet at the common moot at [[place-stormveil|Stormveil]] each Midsomar, where the Lawspeaker recites the law, disputes between the jarldoms are heard, and the jarls elect a High Jarl when the seat is put to them.
+
+### The Officers
+
+High Jarl
+: [[being-ulthorvhrnd|Ulthorv Hrindaruk]], elected in 709 AF, who is also jarl of Stormveil and its plain.
+
+Jarl
+: [[being-vrithorvmrvd|Vrithorv Marvidrok]], jarl of [[place-vuldstead|Vuldstead]] on the plain's western edge, and [[being-draskmilglrv|Draskmil Glarvendik]], jarl of [[place-drasknes|Drasknes]] on the northern coast, among the jarls of the plain and the fells.
+
+Hersvald
+: [[being-anthorvrlthr|Anthorv Rultharuk]], who leads the men of the forest-edge district under Vuldstead.
+
+Lawspeaker
+: [[being-knilthndbrld|Knilthinda Brildendik]], who recites the law at the common moot.
+
+Hirvstjori
+: [[being-althmilhrnd|Althmil Hrindaruk]], the High Jarl's son, marshal of his household men.
+
+Skald
+: [[being-skraldrnnlth|Skraldrinna Nulthumak]], skald of the hall at Drasknes.
+
+Skipstjori
+: [[being-thraskvrsvlt|Thraskvir Svalthendik]], master of the jarl of Drasknes's ship.
+
+Harbor-reeve
+: [[being-thalmthrvrld|Thalmthira Vruldaruk]], who keeps the haven at Stormveil.
+
+Truce-Warden
+: [[being-gnarthrvdvlg|Gnarthorv Dvalgidrok]], who holds the moot's peace.
+
+Host-Caller
+: [[being-ralthannsnrv|Ralthann Snarvidrok]], who bears the war-arrow.
+
+### The Jarls' Pacts
+
+A jarl rules his own ground and makes his own war and peace, and two jarls may swear a pact between them without the High Jarl or the moot. The two swear it at a hall before witnesses, name what they will do together and how they will share what they take, and it binds them and nobody else. The pacts are made against what is weaker than either jarl alone: a tribe of the forest edge, a trade with no hall behind it, a stretch of coast nobody guards. The law makes a jarl answer for what his own men do on another jarl's ground. It makes him answer for nothing that follows from his pact on ground that is not his, and the jarls who are not party to a pact pay for that.
+
+## Current Situation {#present}
+
+- **The cattle pact.** In the spring of 718 Vrithorv Marvidrok of Vuldstead and Draskmil Glarvendik of Drasknes swore a pact against [[affiliation-kelgar|the Kelgar]], a tribe of the forest west of the plain. That summer their men raided the tribe's pastures together and divided some five hundred cattle and thirty captives, who are thralls at Vuldstead and Drasknes now. In the spring of 719 the tribe answered, not at Vuldstead but in the western Nordfells, and burned four steadings held by the High Jarl's sworn men. Ulthorv Hrindaruk brought it to the moot at Midsomar. The Lawspeaker declared that the pact bound only its two jarls and that the burned steadings were not on their ground, and the moot awarded nothing. Ulthorv paid his men's losses himself.
+- **The inlet pact.** In the autumn of 719 Ulthorv answered with a pact of his own, sworn with Vrithorv Marvidrok, to close the northern inlets to the coasters who put in along the Nordfells without calling at Stormveil, and to share what they take. Their ships took a Thornbury coaster off the Nordfells within the month, and its crew is held at Stormveil for ransom ([[affiliation-repblcndrth|Republic of Ondareth]]). The coasters are the trade Drasknes lives on, and the pact strikes at Draskmil Glarvendik as much as at them.
+- **The seat.** Draskmil has called for the High Jarl's seat to be put to the jarls at the coming Midsomar moot. He says Ulthorv has made the High Jarl's household his son's, since Althmil Hrindaruk is the marshal of it, and no law of the jarldoms ties the seat to a man's children. The Truce-Warden has said he will hold the moot's peace against any hall, and the Host-Caller keeps the war-arrow at Stormveil.
+- **The passes.** The southern jarls' men raid across [[place-sunderfells|the Sunderfells]] passes into [[affiliation-kngdmldrth|Aldorath]] when the snow allows, and Aldorath's Warden at [[place-caerwynd|Kaerwiind]] has fewer men each season to answer them.
 
 ## Hall and Culture
 
@@ -111,7 +154,7 @@ The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheo
 
 Relations with the southern Eilwìthan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Jarl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazari]] holds hidden in those same mountains are a source of wonder and occasional tension: the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
 
-A Nordmen foothold under four hundred sea-miles from the Élavendren coast is a fact every realm on the island understands, and none has been willing or able to do anything about it. It is much of why [[affiliation-kingdmdnvr|Dúnavarre]] keeps the [[affiliation-justbladeordr|Order of the Just Blade]] at strength, and it is why the island's quarrels between Aldorath and Dúnavarre look so parochial to outsiders. It is a standing reason for [[affiliation-kngdmlvndr|Élavendre]]'s implacable hostility to the Nordmen, since the nearest large island to its coast is now a third occupied by them.
+A Nordmen foothold under four hundred sea-miles from the Élavendren coast is a fact every realm on the island understands, and none has been willing or able to do anything about it. It is much of why [[affiliation-kingdmdnvr|Dúnavarre]] keeps the [[affiliation-justbladeordr|Order of the Just Blade]] at strength, and it is why the island's quarrels between Aldorath and Dúnavarre look so parochial to outsiders. It is a standing reason for [[affiliation-kngdmlvndr|Élavendre]]'s implacable hostility to the Nordmen, since the nearest large island to its coast is now an eighth occupied by them.
 
 ## Facing North
 
@@ -122,6 +165,24 @@ This is also why the **[[affiliation-dunavarsynod|Synod]]**'s compulsory call at
 ## Commerce and Currency
 
 The Jarldom strikes no coin, and where a deal is made in money it is made in the same [[lore-vylrncrncy|Vilérian]]—ethla, ankhra and bit—that the five kingdoms use, because the jarls brought their purses and their habits across the water together. A hall's real wealth is counted the northern way, in cattle, hulls, thralls and the running obligations of [[lore-kinhalcrdt|hall credit]], and a Nordheim kinsman settling a debt at Stormveil is as likely to be paid in barley as in silver. The one difference from home is the island itself: the moneylenders of the southern Eilwìthan realms are chartered under [[affiliation-danvar|the Danvar]], so a jarl selling a season's grain south can take Vilérian paper for it when the sum is too large to carry, and turn it into coin before it goes north, where no hall honors it.
+
+## Holdings {#holdings}
+
+[[place-stormveil|Stormveil]]
+: the seat, the High Jarl's hall and the haven facing north.
+
+[[place-vuldstead|Vuldstead]]
+: Vrithorv Marvidrok's hall-town on the western edge of the plain, against the forest.
+
+[[place-drasknes|Drasknes]]
+: Draskmil Glarvendik's harbor in the Nordfells, on the northern coast.
+
+[[place-stormplain|The Stormplain]], [[place-nordfells|the Nordfells]] and [[place-sunderfells|the Sunderfells]]
+: the Jarldom's three countries.
+
+## History {#history}
+
+The fleets of Nordheim, Norgaad and Vithgard took the Vardain plain in one season in 660 AF, and the jarls who took it have held it since under a High Jarl they elect ([[lore-stormveldtkn|the Taking of Stormveld]]). The thralls have risen twice, and neither rising reached its second year. Ulthorv Hrindaruk, born on the plain the year after the taking, was elected High Jarl at the Midsomar moot of 709 AF, after an election his men won by holding the moot-field. Since 718 the jarls of the plain's edges have made pacts with one another against the tribes of the forest and the free coasters of the north shore.
 
 ## See Also
 
@@ -144,10 +205,13 @@ The Jarldom strikes no coin, and where a deal is made in money it is made in the
 : southern neighbor and frequent target
 
 [[lore-flkkhazar|Khazari]]
-: elder race in the northeastern mountains
+: elder race in the mountains east of the Jarldom
 
 [[lore-highjarlrnk|High Jarl]]
 : the confederation's elected head
+
+[[being-ulthorvhrnd|Ulthorv Hrindaruk]]
+: the High Jarl
 
 [[affiliation-asguardian|Asguardian Pantheon]]
 : the Ten of the north

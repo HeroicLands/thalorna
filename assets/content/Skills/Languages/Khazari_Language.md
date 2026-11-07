@@ -13092,6 +13092,8 @@ data:
     - {name: "sikir", tongue: khazari}
     - {name: "suluth", tongue: khazari}
     - {name: "tabar-suláth", tongue: khazari}
+    - {name: "tanv-guráz", tongue: khazari}
+    - {name: valdan, tongue: khazari, built: [v-l-d, "given name, man"]}
     - {name: "tabaran", tongue: khazari}
     - {name: "talgan", tongue: khazari}
     - {name: "tanvan", tongue: khazari}

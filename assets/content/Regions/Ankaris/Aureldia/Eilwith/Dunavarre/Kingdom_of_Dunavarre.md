@@ -60,6 +60,7 @@ data:
     tantsouempr: unaligned
     vylarinmpr: unaligned
     saelvri: nemesis
+    durrask: nemesis
   packFolder: eilwith
 sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 ---
@@ -76,15 +77,47 @@ How the Arcane Order came to rule Dúnavarre outright is a matter of historical 
 
 The Synod's rule gives Dúnavarre a character unlike any other Eilwìthan polity: orderly, learned, and efficient, but also secretive, paternalistic, and intolerant of dissent. The mages govern well by most material measures—Dúnavarre's roads are maintained, its laws enforced, its commerce thriving—but the Synod's decisions are made behind closed doors, and ordinary citizens have no voice in them.
 
+## Officers of the Realm
+
+The Synod governs through officers it appoints, and every one of them answers to the closed session at [[place-ravenmoor|Ravenmoor]]:
+
+Captain-General
+: [[being-orvandkthvl|Sir Orvand Kéthavel]], Knight-Marshal of the [[affiliation-justbladeordr|Order of the Just Blade]], who commands the realm's forces and is not a mage.
+
+Justiciar
+: [[being-ardelvornvl|Ardel Voranvel]], a temple judge of [[affiliation-ardavon|Árdavon]], who keeps the realm's courts under a law the Synod writes.
+
+Bursar
+: [[being-halvrasenvl|Halvra Senavel]], who keeps the realm's revenue and the Synod's endowment.
+
+Warden of the Ports
+: [[being-taliravenvl|Talira Venavel]], who keeps the harbors and the compulsory call at Ravenmoor.
+
+Archivist
+: [[being-ithrelildvl|Ithrel Ildavel]], who is also Chancellor of the Synod.
+
+Ambassador
+: [[being-arancelavren|Aran Kélavren]], who leads the embassy to the [[affiliation-tantsouempr|Empire of Tantsou]].
+
+## Current Situation {#present}
+
+**The war in the west.** The Order of the Just Blade is winning the Synod's war on the Seilvri, and it is not yet won. Each summer [[being-merraddovvrn|Sir Merrad Dovavren]] cuts the road a few miles deeper into [[place-teilvari|Teilvari]] from the Order's commandery at [[place-kelivren|Kelivren]], and about two thousand Seilvri are left in the forest. The realm honors the Order as its pride and its law on the roads, and on the western estates and in [[place-wraymouth|Wraymouth]] many of the same people call the war a murder. The Bursar wants to know how many more summers the road will cost, and the Order wants a final campaign.
+
+**The taken valleys.** The valleys the Order took from the Seilvri are granted to estates, and their stewards hold the Seilvri who came out under the Order's terms as unfree tenants. The tenants of the western estates trade with the forest, and the Order hangs those it catches.
+
+**The Durrask.** [[affiliation-durrask|The Durrask]] of the Thornwold raid the western estates along Seirasto's northern edge as well. The Order hanged five of their raiders at the roadside in the summer, and they have raided the estates twice since.
+
+**Abroad.** The embassy to Tantsou is the Synod's boldest act on the world's stage, and the [[affiliation-umbralcourt|Umbral Court]] holds the mission's Steward by his debts.
+
 ## Character
 
 Dúnavarre's culture is a blend of Eilwìthan mysticism and Élavendren refinement, filtered through the Arcane Order's scholarly discipline. The kingdom has absorbed considerable cultural influence from [[place-elavendre|Élavendre]] through centuries of close contact, giving its aristocracy a polish that contrasts with the rougher manners of Aldorath's feudal lords or the Peshtar barbarians. Education and literacy are prized—the Synod encourages learning as a matter of policy, and Dúnavarre's schools and libraries are among the finest on the island.
 
-The kingdom is devout in its worship of the [[affiliation-arldnpnthn|Aureldian Pantheon]], with the [[affiliation-ardavon|Faith of Árdavon]] (whose god represents order, justice, and honorable struggle) holding particular prominence—a natural fit for a realm that values structure and discipline above all. The militant [[affiliation-justbladeordr|Order of the Just Blade]], an Árdavonian knightly order, serves as the kingdom's military arm and moral authority. Its Knight-Captains answer to the Synod but command enormous respect in their own right. The Synod sent the Order against the [[affiliation-saelvri|Saelvri]] between about 694 and 703 AF ([[lore-saelvricrusade|the Saelvri Crusade]]).
+The kingdom is devout in its worship of the [[affiliation-arldnpnthn|Aureldian Pantheon]], with the [[affiliation-ardavon|Faith of Árdavon]] (whose god represents order, justice, and honorable struggle) holding particular prominence—a natural fit for a realm that values structure and discipline above all. The militant [[affiliation-justbladeordr|Order of the Just Blade]], an Árdavonian knightly order, serves as the kingdom's military arm and moral authority. Its Knight-Captains answer to the Synod but command enormous respect in their own right. Since about 694 AF the Synod has sent the Order against the [[affiliation-saelvri|Seilvri]] of the western woods ([[lore-saelvricrusade|the Seilvri Crusade]]).
 
 ## Relations
 
-Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]], with whom it shares cultural roots and active trade. Its traveled and educated people commonly speak [[skill-elvndrlng|Élavendri]] as well as [[skill-aelwthlng|Eilwìthi]], and Élavendri above all at court. Dúnavarre sits on Eilwìth's southeastern coast, whose harbors face Élavendre across some two hundred and fifty sea-miles, and the two are each other's nearest civilized neighbor across that water. The tie is personal as well as commercial: the **Synod** maintains close relations with the Élavendren royal house, and has done for generations. This is a notable diplomatic achievement given how carefully Élavendre holds the Thordimalon at arm's length. Élavendre **permits** the Arcane Order and **limits its access**: it may keep its houses and teach in the cities—the [University of Péravel]{.name data-type="affiliation"} is its largest campus outside the Empire—and it may not reach past them into the tribal lands, the sacred sites or the deep forest, where the [[affiliation-alndnwrdns|Áelendan Wardens]] enforce a boundary the crown declines to move. That an Arcane Order-governed kingdom is nonetheless welcome at [[place-beravel|Péravel]] says a good deal about both courts. That Dúnavarre—an Arcane Order-governed kingdom—maintains warm ties with Élavendre speaks to the pragmatism of both parties, and perhaps to the fact that the Dúnavarren Synod is more flexible and less doctrinaire than the Arcane Order's mainland hierarchy.
+Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]], with whom it shares cultural roots and active trade. Its traveled and educated people commonly speak [[skill-elvndrlng|Élavendri]] as well as [[skill-aelwthlng|Eilwìthi]], and Élavendri above all at court. Dúnavarre sits on Eilwìth's southeastern coast, whose harbors face Élavendre across some two hundred and fifty sea-miles, and the two are each other's nearest civilized neighbor across that water. The tie is personal as well as commercial: the **Synod** maintains close relations with the Élavendren royal house, and has done for generations. This is a notable diplomatic achievement given how carefully Élavendre holds the Thordimalon at arm's length. Élavendre **permits** the Arcane Order and **limits its access**: it may keep its houses and teach in the cities—the [[affiliation-univperavel|University of Péravel]] is its largest campus outside the Empire—and it may not reach past them into the tribal lands, the sacred sites or the deep forest, where the [[affiliation-alndnwrdns|Áelendan Wardens]] enforce a boundary the crown declines to move. That an Arcane Order-governed kingdom is nonetheless welcome at [[place-beravel|Péravel]] says a good deal about both courts. That Dúnavarre—an Arcane Order-governed kingdom—maintains warm ties with Élavendre speaks to the pragmatism of both parties, and perhaps to the fact that the Dúnavarren Synod is more flexible and less doctrinaire than the Arcane Order's mainland hierarchy.
 
 Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive—the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblcndrth|Republic of Ondareth]] through coastal trade routes.
 
@@ -141,6 +174,10 @@ the feudal kingdoms across the water, and one of the reasons the Synod's writ ru
 
 Kingdom of Dúnavarre uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through moneylenders belonging to [[affiliation-danvar|the Danvar]] and chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Dúnavarre is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
+## History {#history}
+
+The kings of Dúnavarre kept mage advisors as every Eilwìthan court did, and over three reigns the advisors took the treasury, the courts, the harbors and the host. The last king, [Yenral]{.name data-type="being/npc"}, was set aside about 490 AF, and the Synod has governed since ([[lore-dunavarresynod|The Mages Take Dúnavarre]]). It instituted the compulsory call at Ravenmoor in 660, the year the Nordmen took [[place-stormveld|Stormveld]], and declared the Seilvri a danger to the island in about 694. The Order killed several thousand of them in [[place-hushwood|the Hushwood]] about 703 and has fought the rest in Teilvari since ([[lore-saelvricrusade|The Seilvri Crusade]]).
+
 ## See Also
 
 [[place-eilwith|Eilwìth]]
@@ -148,6 +185,12 @@ Kingdom of Dúnavarre uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / 
 
 [[place-dunavarre|Dúnavarre]]
 : The land the kingdom holds
+
+[[affiliation-dunavarsynod|Dúnavarre Synod]]
+: The council that governs it
+
+[[affiliation-justbladeordr|Order of the Just Blade]]
+: Its army
 
 [[place-elavendre|Élavendre]]
 : Nearest mainland region, cultural cousin

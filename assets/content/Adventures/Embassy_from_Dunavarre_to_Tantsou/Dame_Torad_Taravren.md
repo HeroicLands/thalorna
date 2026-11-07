@@ -11,7 +11,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: {kingdmdnvr: {rank: 2}, ardavon: {rank: 1}}
+  affiliations: {kingdmdnvr: {rank: 2}, justbladeordr: {rank: 3}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
   packFolder: adventures
@@ -31,7 +31,6 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 11}}
-    - {model: affiliation-justbladeordr}
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 66}}
     - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 72}}
     - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 48}}
@@ -378,6 +377,6 @@ sohl:
 
 **Role.** Captain of the [[affiliation-justbladeordr|Order of the Just Blade]], and gives military counsel.
 
-**Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]] ([[lore-saelvricrusade|the Saelvri Crusade]]).
+**Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Seilvri]] ([[lore-saelvricrusade|the Seilvri Crusade]]).
 
-**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of [[affiliation-ardavon|Árdavon]]—and may act on her own conscience rather than the Order's official stance.
+**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of the [[affiliation-ardavon|Faith of Árdavon]]—and may act on her own conscience rather than the Order's official stance.

@@ -303,7 +303,7 @@ between them is not courage. It is **how much of themselves they can bring to on
   beat and who cannot, in the ordinary sense, win.
 - The Nordmen are less fierce than the Varokh and vastly more organized: five
   kingdoms, jarls, a ting, and above all **fleets**. Which is why it is the Nordmen and not the Varokh who
-  crossed open water, took a fifth of Eilwìth and are still holding it sixty years later.
+  crossed open water, took an eighth of Eilwìth and are still holding it sixty years later.
 
 Ferocity decides who wins the fight. Concentration decides who keeps the ground. Vristwald has an
 abundance of the first and a permanent shortage of the second, and the result is a country that has

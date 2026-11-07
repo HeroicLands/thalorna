@@ -63,6 +63,7 @@ export const RETIRED = [
         scope: "corpus",
     },
     { retired: ["Grukarhölm"], replacement: "Grukarholm", scope: "corpus" },
+    { retired: ["Saelvri"], replacement: "Seilvri", scope: "corpus" },
     { retired: ["Provènzia"], replacement: "Provénzia", scope: "corpus" },
     { retired: ["Aurèldía"], replacement: "Aureldia", scope: "corpus" },
     {

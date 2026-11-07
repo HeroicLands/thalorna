@@ -25,7 +25,7 @@ data:
 
 The gate-folk of the song are the humans the [[lore-flkkhazar|Khazari]] carried across to farm beneath [[place-vorgald|Vorgald]], an older people than the [[lore-pelwarpepl|Pelwar]], and the few who came after them and were taken in. They are the Vardain's own forebears, which no Vardain knows: the valleys sing the gate-folk and the boat-folk as other people, long gone, whom their lords once kept. The song came down to the valleys through no gift of the Senali, and the Vardain hold it as they hold the rest of what happened to their lords: plainly, and with the counts kept exact. The names the king gave the island's places went with the Senali tongue; the valley rendering keeps the deeds and not the names, and the three peaks he names last are the ones the island calls [[place-threesisters|the Three Sisters]]. The song gives the makers no name either; it says only that the king's people had stopped speaking to them, and that he had not.
 
-The song stops before its own ending. Beneath the three peaks he named, in [[lore-threesistrs|the decisive battle of the Great War]], the king was killed, and his people gave up the crown and every claim outside [[place-hallowwood|the Hallowwood]] and left the Khazari to finish the war alone; the Khazari have not forgiven it. The Hallowwood does not sing this song, and the Vardain, who are the Khazari's people, are the one people on Eilwìth it has never received. So the promise the song ends on is sung in the valleys of the people it was made to, by the one people the Senali of the island will not admit, and the Vardain sing it as it stands and add nothing to it.
+The song stops before its own ending. Beneath the three peaks he named, in [[lore-threesistrs|the decisive battle of the Great War]], the king was killed, and his people gave up the crown and every claim outside [[place-hallowwood|Seirasto]] and left the Khazari to finish the war alone; the Khazari have not forgiven it. Seirasto does not sing this song, and the Vardain, who are the Khazari's people, are the one people on Eilwìth it has never received. So the promise the song ends on is sung in the valleys of the people it was made to, by the one people the Senali of the island will not admit, and the Vardain sing it as it stands and add nothing to it.
 
 : The Praise of the One Who Stays {#song}
 
@@ -501,6 +501,6 @@ ahi olkai ehii
 
 ## See Also
 
-- [[lore-threesistrs|The Battle of the Three Sisters]] · [[place-threesisters|the Three Sisters]] · [[place-hallowwood|the Hallowwood]]
+- [[lore-threesistrs|The Battle of the Three Sisters]] · [[place-threesisters|the Three Sisters]] · [[place-hallowwood|Seirasto]]
 - [[lore-vardain|The Vardain]] · [[place-vardainvalleys|the Vardain Valleys]] · [[place-vorgald|Vorgald]]
 - [[lore-flksenali|Senali]] · [[skill-senalilng|Senali Language]] · [[lore-pelwarmigr|the Pelwar Migration]]

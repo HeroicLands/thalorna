@@ -53,7 +53,7 @@ three thousand years overdue.
 
 What the Khazari of this island make of that is not discussed. It is worth noting only that they were
 promised something by the Senali, did not receive it, were given no account of why—and that some
-centuries later the Senali of [[place-hallowwood|the Hallowwood]] withdrew from a war and left them to
+centuries later the Senali of [[place-hallowwood|Seirasto]] withdrew from a war and left them to
 finish it alone.
 
 ## The Old Kingdom
@@ -71,7 +71,7 @@ towns that nobody has satisfactorily dated.
 It ended with people who had nowhere else to go. The **[[lore-pelwarpepl|Pelwar]]** reached Eilwìth around **1200 BF**,
 driven off the mainland by the [Varkhad]{.name data-type="lore/folk"} ([[lore-varkhadcnq|The Varkhad Conquest]]); two centuries of pressure became the **[Great
 War]{.name data-type="lore/history"}**; and in **984 BF** the king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]]. The surviving
-Senali withdrew into the forest that is now the Hallowwood and
+Senali withdrew into the forest that is now Seirasto and
 left the Khazari to finish the war alone.
 
 They finished it. They have never forgiven it, and the two elder races of Eilwìth have had nothing to do
@@ -83,7 +83,7 @@ the first, came after six centuries of being assured there would not be another.
 ## The Humans
 
 What the Khazari did instead was turn to the people of the plain below. [[place-vardanreach|Vardanreach]]—the
-Vardain nation of the north-east—kept the Deep Folk's friendship for thousands of
+Vardain nation of the north—kept the Deep Folk's friendship for thousands of
 years afterward, and it was a real friendship, mutually useful and mutually respected, and the only one
 of its kind in the world.
 
@@ -110,7 +110,7 @@ The Khazari of Vorgald extend a measured indifference to nearly everything on th
 none whatever to [[lore-grukaraelwyth|Grukar]], who have been on Eilwìth for some seven hundred
 years and in these mountains for most of them.
 
-They kill them **immediately, wherever found, without negotiation and without exception**—and without
+The hold is at war with them, and the war has no end: no peace can be made with a nest, and the Khazari would not make one if it could. They kill them **immediately, wherever found, without negotiation and without exception**—and without
 any part of the enormous patience they show every other living thing here. It is the only subject on
 which the Deep Folk have ever been observed to act quickly.
 
@@ -138,6 +138,10 @@ who was not born in the valleys has been invited in. The
 records the results in a file it does not discuss.
 
 The Khazari have never been hostile. They have simply never answered.
+
+## The Present {#present}
+
+The council of the hold sends [[being-valdantnvgrz|Valdan Tanv-guráz]] to the Gate as its Speaker, and the valleys call him the lord of [[affiliation-vrgldhld|Vorgald Hold]]. At the autumn tally he asked the Reeve of the Valleys how many more mouths the granaries would carry, because runaways still come over the passes from the plain. The Master of Works, [[being-rimiktbrslth|Rimik Tabar-suláth]], has gone down to the valleys herself to oversee the recutting of an old channel above Kalm. A band of Grukar from [[place-hornhall|Hornhall]], one of the hold's own abandoned hunting halls, reached the outer workings above Dorrin in the autumn and was killed there, and the Synod's yearly letter lies on the council's table, unanswered.
 
 ## See Also
 

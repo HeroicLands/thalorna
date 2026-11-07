@@ -14,9 +14,28 @@ data:
   government: kngdmldrth
 ---
 
+## Overview {#overview}
+
 **Dunmere** is the seat of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] and, at some twenty
 thousand people, the only place in the realm that is a city rather than a market town. It stands inland
-on the eastern side of [[place-eilwith|Eilwìth]], under a castle that has been extended by every king who could afford to.
+on the eastern side of [[place-eilwith|Eilwìth]], at the south-eastern tip of [[place-eilissa|Lake Eilìssa]], where the river leaves the lake and Aldorath's shore meets [[place-dunavarre|Dúnavarre]], under a castle that has been extended by every king who could afford to. Its name is the dark lake.
+
+## History {#history}
+
+The kings of Aldorath were crowned at [[place-kingsholow|Kingshollow]] and ruled from the hall there for their first generations. In the reign of [Tenral]{.name data-type="being/npc"} the court settled at the lakeside town, and it has ruled from Dunmere since, while every king is still crowned, and buried, at Kingshollow ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The castle on the shore is the work of many reigns, and the court seers have read the lake's mists from the strand below it as long as the court has been here.
+
+## Current Situation {#present}
+
+The council of barons sits at Dunmere at midsummer, and the city is already filling with retinues. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council to accept his nine-year-old son as king-to-be, and [[being-godwaldstrl|Godwald Storley]], the Elder of the Council, holds most of the barons against it. Every baron's town house is a place where voices are bought, and the court waits on the First Seer, [[being-elfrunthrnl|Elfrun Thornley]], who has read the lake three times on the matter and given no reading.
+
+## The Holder {#holder}
+
+The king holds the city and the castle, and the officers of the crown keep their households here:
+
+- [[being-aldrikdrthng|Aldrik Drething]], the King.
+- [[being-godwaldstrl|Godwald Storley]], the Elder of the Council, who keeps a house in the city for the months the council sits.
+- [[being-aldrithwlfl|Aldrith Wolfley]], the Steward, who keeps the royal household and the exchequer.
+- [[being-elfrunthrnl|Elfrun Thornley]], the First Seer, who reads the lake from the shore below the castle.
 
 Everything a feudal kingdom does is done here: the king's court and household, the assize, the exchequer
 such as it is, the great fairs, and the perpetual attendance of lords who must be seen at court often
@@ -43,4 +62,4 @@ holds four in five of Aldorath's people.
 
 ## See Also
 
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-eilwith|Eilwìth]]
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-eilwith|Eilwìth]] · [[place-eilissa|Lake Eilìssa]] · [[place-kingsholow|Kingshollow]]

@@ -36,8 +36,12 @@ This is manorial country in its purest form. Demesne and tenantry, labor service
 the lord's oven, courts baron sitting four times a year—the whole apparatus, densely settled and
 long-established, and four in five of the people bound to it.
 
-[[place-dunmere|Dunmere]] sits at the vale's eastern end and [[place-ashford|Ashford]] at its crossing;
+[[place-dunmere|Dunmere]] sits at the vale's head, on the shore of [[place-eilissa|Lake Eilìssa]] where the river leaves the lake, and [[place-ashford|Ashford]] at its crossing;
 between them run the roads that carry everything the kingdom sells.
+
+## Current Situation {#present}
+
+The vale's barons are the council's core, and the council is divided. [[being-godwaldstrl|Godwald Storley]], the Elder of the Council, holds manors here and holds most of the vale's barons against the king's wish to have his son accepted as king-to-be, while the king offers the younger barons grants of royal forest and good marriages for their voices before the council sits at midsummer. The quarrel reaches the manors as levies: the barons send their men to the Wiindmarch late and few, and keep their tenants at home for the harvest.
 
 ## See Also
 

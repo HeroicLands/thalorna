@@ -3,7 +3,7 @@ shortcode: stormveldtkn
 name: {full: The Taking of Stormveld, en: [The Stormveld Year]}
 type: lore
 subType: history
-description: "In 660 AF King Vruthorv of Nordheim sent the fleets of Nordheim, Norgaad and Vithgard over open sea to the north-east of Eilwìth, where Nordmen traders had long kept landings, and took the Vardain plain in one season; its people were enslaved, the Vardain's old friendship with the Khazari of Vorgald was destroyed, and the Jarldom of Stormveld has held the plain since."
+description: "In 660 AF King Vruthorv of Nordheim sent the fleets of Nordheim, Norgaad and Vithgard over open sea to the north of Eilwìth, where Nordmen traders had long kept landings, and took the Vardain plain in one season; its people were enslaved, the Vardain's old friendship with the Khazari of Vorgald was destroyed, and the Jarldom of Stormveld has held the plain since."
 tags: [history, nordlands]
 data:
   culture: nordheimnclt
@@ -22,7 +22,7 @@ data:
         - lore-nrgadhstry
         - place-eilwith
       summary: >-
-        King Vruthorv of Nordheim sends the fleets of Nordheim, Norgaad and Vithgard over open water to the north-east of Eilwìth, where Nordmen traders had kept landings for generations. The Vardain plain, Vardanreach, is taken in one season and its people enslaved; about 120,000 Vardain are thralls on it today under some 30,000 Nordmen. The jarls who took it hold it as the Jarldom of Stormveld, under a High Jarl they elect, and it is the only realm of the Nordmen that is not a kingdom.
+        King Vruthorv of Nordheim sends the fleets of Nordheim, Norgaad and Vithgard over open water to the north of Eilwìth, where Nordmen traders had kept landings for generations. The Vardain plain, Vardanreach, is taken in one season and its people enslaved; about 120,000 Vardain are thralls on it today under some 30,000 Nordmen. The jarls who took it hold it as the Jarldom of Stormveld, under a High Jarl they elect, and it is the only realm of the Nordmen that is not a kingdom.
       standing: attested
       names:
         - {name: the Taking of Stormveld, by: affiliation-kngdmnrdhm}
@@ -88,7 +88,7 @@ data:
 
 ## The Landings Before the Taking
 
-Nordmen had traded on [[place-eilwith|Eilwìth]]'s north-eastern coast for generations before they took it. The fjord-cut shore of the plain the Eilwìthans called [[place-vardanreach|Vardanreach]] had landings where a Nordheim hull could put in with iron and timber and leave with grain, and the Vardain who farmed the plain had dealt with the northern crews for so long that there were Nordmen households on that coast with Vardain wives. The Vardain were a settled, literate, farming nation, and for thousands of years they had kept a friendship no other human people has kept, a standing bargain with the [[lore-khazariclt|Khazari]] of [[place-vorgald|Vorgald]], whose hold they fed. They had never needed a wall against the sea.
+Nordmen had traded on [[place-eilwith|Eilwìth]]'s northern coast for generations before they took it. The fjord-cut shore of the plain the Eilwìthans called [[place-vardanreach|Vardanreach]] had landings where a Nordheim hull could put in with iron and timber and leave with grain, and the Vardain who farmed the plain had dealt with the northern crews for so long that there were Nordmen households on that coast with Vardain wives. The Vardain were a settled, literate, farming nation, and for thousands of years they had kept a friendship no other human people has kept, a standing bargain with the [[lore-khazariclt|Khazari]] of [[place-vorgald|Vorgald]], whose hold they fed. They had never needed a wall against the sea.
 
 ## One Season
 

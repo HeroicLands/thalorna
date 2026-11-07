@@ -34,7 +34,7 @@ data:
 
 This campaign is composed of a series of adventures. Players will be members of the mission, either taking over current characters, replacing them with their own, or as staff for the main mission members.
 
-**Central Mission:** The objective is for the [[affiliation-kingdmdnvr|Kingdom of Dunavarre]] to develop independent diplomatic relations with the [[affiliation-tantsouempr|Empire of Tantsou]], located in the eastern [[place-ankrscntnnt|Ankaris Continent]]. Current diplomatic relations with the court in Tantsou are reliant on the [[affiliation-vylarinmpr|Vilérian Empire]] as an intermediary, and the [[affiliation-dunavarsynod|Synod]], which commissions the embassy, is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
+**Central Mission:** The objective is for the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] to develop independent diplomatic relations with the [[affiliation-tantsouempr|Empire of Tantsou]], located in the eastern [[place-ankrscntnnt|Ankaris Continent]]. Current diplomatic relations with the court in Tantsou are reliant on the [[affiliation-vylarinmpr|Vilérian Empire]] as an intermediary, and the [[affiliation-dunavarsynod|Dúnavarre Synod]], which commissions the embassy, is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
 
 ## Ambassador’s Party Members
 
@@ -42,7 +42,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 **Name:** [[being-arancelavren|Aran Kélavren]]
 
-- **Role:** High-ranking mage of the [[affiliation-ordoarcanis|Thordimalon]] and noble.
+- **Role:** High-ranking mage of [[affiliation-ordoarcanis|the Order]] and noble.
 - **Background:** An experienced diplomat and trusted advisor in the service of the Synod of Dúnavarre.
 - \***\*Intrigue:\*\*** Recently promoted to his position, and some in the Synod's service believe he owes his rapid ascent to secret dealings or favoritism. Aran is driven by a need to prove his worth constantly, leading to strained relations within the party.
 
@@ -65,7 +65,7 @@ Intrigue
 
 - **Role:** Ensures accurate record-keeping and correspondence.
 - **Background:** Trusted for his meticulous work and reliability in the Synod's records.
-- \***\*Intrigue:\*\*** Engaged in a secret homosexual relationship with [[being-loristaravel|Loris Taravel]], which is against the moral teachings of [[affiliation-ardavon|Árdavon]]. Deeply in love with Loris, he is unaware of Loris's true motives. Elowir fears exposure could ruin both reputations and be leveraged for blackmail.
+- \***\*Intrigue:\*\*** Engaged in a secret homosexual relationship with [[being-loristaravel|Loris Taravel]], which is against the moral teachings of the [[affiliation-ardavon|Faith of Árdavon]]. Deeply in love with Loris, he is unaware of Loris's true motives. Elowir fears exposure could ruin both reputations and be leveraged for blackmail.
 
 ### Diplomatic Aides
 
@@ -102,7 +102,7 @@ Role
 : Bodyguard and provides security counsel.
 
 Background
-: Sir Arren is a brave and experienced knight, well-known for his martial prowess, particularly in tournaments. He recently won the prestigious [Royal Celivren Tournament of Chivalry]{.name data-type="lore/gathering"}, further cementing his reputation as an excellent combatant. Despite his accolades, Sir Arren feels overshadowed by [[being-toradhtaravren|Dame Torad]] because her distinctions stem from actual military campaigns, which he perceives as being held in higher regard by others.
+: Sir Arren is a brave and experienced knight, well-known for his martial prowess, particularly in tournaments. He recently won the prestigious [[lore-kelivrentrny|Royal Kelivren Tournament of Chivalry]], further cementing his reputation as an excellent combatant. Despite his accolades, Sir Arren feels overshadowed by [[being-toradhtaravren|Dame Torad Taravren]] because her distinctions stem from actual military campaigns, which he perceives as being held in higher regard by others.
 
 Intrigue
 : Sir Arren's jealousy of Dame Torad's military achievements drives him to attempt to outshine her in any confrontations or engagements. His frustration over being seen mainly as a tournament knight rather than a battle-hardened warrior could lead to reckless decisions or internal conflicts, potentially compromising the mission.
@@ -114,7 +114,7 @@ Role
 : Captain of the _[[affiliation-justbladeordr|Order of the Just Blade]]_ and provides military counsel.
 
 Background
-: A Knight-Captain of the Order of the Just Blade (a militant order of the Faith of Árdavon, dedicated to the god of order and justice), Dame Torad is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]]. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
+: A Knight-Captain of the Order of the Just Blade (a militant order of the Faith of Árdavon, dedicated to the god of order and justice), Dame Torad is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the [[affiliation-saelvri|Seilvri]]. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
 
 Intrigue
 : Though she has fought in the crusade, Dame Torad secretly despises it, considering it contrary to the true principles of the Order and the faith of Árdavon. Her disdain for the crusade could be a morally charged narrative, possibly leading her to take actions that align more with her true beliefs than the official stance of the Order.
@@ -157,7 +157,7 @@ Name: [[being-laradhluavel|Larad Lúavel]]
 
 - **Role:** Manages the financial aspects.
 - **Background:** Has a keen eye for detail and a strong grip on managing resources.
-- **Intrigue:** Larad has a serious gambling problem, which has led him into significant debt with [[affiliation-umbralcourt|the Umbral Court]]. To cover his gambling losses, Larad has been embezzling funds from the mission’s budget. The Umbral Court has its hooks deeply in him and has threatened to expose his debts, his embezzlement, and harm his daughter, [[being-ilaraluavel|Ilara]], if he does not comply with their demands. These threats make Larad susceptible to blackmail, manipulation, and possibly compromising the mission.
+- **Intrigue:** Larad has a serious gambling problem, which has led him into significant debt with [[affiliation-umbralcourt|the Umbral Court]]. To cover his gambling losses, Larad has been embezzling funds from the mission’s budget. The Umbral Court has its hooks deeply in him and has threatened to expose his debts, his embezzlement, and harm his daughter, [[being-ilaraluavel|Lady Ilara Lúavel]], if he does not comply with their demands. These threats make Larad susceptible to blackmail, manipulation, and possibly compromising the mission.
 - **Larad's Daughter: Lady Ilara**
   - **Name:** Lady Ilara Lúavel
   - **Role and Background:** Ilara is Larad's beloved daughter, currently living under the shadow of his gambling debts and the threats from the Umbral Court. Her safety is Larad's primary concern, which the Umbral Court exploits to ensure his cooperation in their schemes.
@@ -199,7 +199,7 @@ Background
 : Well-known for his culinary skills and ability to maintain morale through food.
 
 Intrigue
-: Geldar is secretly a [[affiliation-selmoros|Sélmoran]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a [[affiliation-repblcndrth|Ondarethan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Sélmoran or to bolster his standing among the Sélmorans in [[affiliation-repblcndrth|Ondareth]]. Given his covert activities, he might be planning poisonings or sabotage within the party.
+: Geldar is secretly an acolyte of the [[affiliation-selmoros|Faith of Sélmoros]] and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a Senator of the [[affiliation-repblcndrth|Republic of Ondareth]]. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Sélmoran or to bolster his standing among the Sélmorans in [[affiliation-repblcndrth|Ondareth]]. Given his covert activities, he might be planning poisonings or sabotage within the party.
 
 ### Falconer/Huntsman
 
@@ -256,7 +256,7 @@ Motivation
 : Viléria will do everything in its power to ensure Dúnavarre’s diplomatic mission fails. The empire cannot afford to lose its intermediary position—both the prestige and the material advantages it provides are too valuable for a declining power to surrender willingly.
 
 Methods
-: The [[affiliation-seldan|Seldan]]’s intelligence apparatus has embedded agents within the mission itself. Through espionage, misinformation, and manipulation, Viléria aims to sabotage the embassy from within while maintaining plausible deniability.
+: [[affiliation-seldan|The Vilérian Senate]]’s intelligence apparatus has embedded agents within the mission itself. Through espionage, misinformation, and manipulation, Viléria aims to sabotage the embassy from within while maintaining plausible deniability.
 
 Political Cover
 : Officially, Viléria has expressed polite support for Dúnavarre’s diplomatic ambitions. In private, the Senate views the mission as a direct threat to imperial interests and has authorized covert operations to ensure its failure.
@@ -277,7 +277,7 @@ Ultimate Goal
 
 ## Adventure 1: The [[miscgear-heartofdhirikri|Heart of Dirikri]]
 
-Central Plot: The mission arrives at [[place-beravel|Péravel]], capital of [[affiliation-kngdmlvndr|Élavendre]]. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], expresses interest in sending a party to [[place-ukuaraelwen|Úkua-Araelwen]] to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
+Central Plot: The mission arrives at [[place-beravel|Péravel]], capital of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]]. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], expresses interest in sending a party to [[place-ukuaraelwen|Úkua-Araelwen]] to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
 
 ### The Royal Loremaster
 

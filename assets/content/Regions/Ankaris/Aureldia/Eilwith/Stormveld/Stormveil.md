@@ -15,7 +15,7 @@ data:
 ---
 
 **Stormveil** is not a city and does not aspire to be one. It is the seat of the
-[[affiliation-jrldmstrmvld|Jarldom of Stormveld]], on the north-eastern coast of [[place-eilwith|Eilwìth]], facing the water
+[[affiliation-jrldmstrmvld|Jarldom of Stormveld]], on the northern coast of [[place-eilwith|Eilwìth]], facing the water
 the Nordmen came over sixty years ago and still use, and its six thousand people fall into four
 places: the High Jarl's hall on the height, the houses of his sworn men about it, the harbor below, and—down
 the slope and set apart—the quarters of the thralls who do the work.
@@ -39,6 +39,12 @@ closely watched than those on the land, and Stormveil is where both of the Jarld
 
 Neither reached its second year. The jarls have taken the lesson to be about vigilance.
 
+## The Present {#present}
+
+The common moot meets below the hall at Midsomar, and this year [[being-draskmilglrv|Draskmil Glarvendik]] of [[place-drasknes|Drasknes]] means to ask it for a new High Jarl. [[being-ulthorvhrnd|Ulthorv Hrindaruk]] holds the hall with his household men under his son, [[being-althmilhrnd|Althmil Hrindaruk]], and the Truce-Warden, [[being-gnarthrvdvlg|Gnarthorv Dvalgidrok]], has said he will hold the moot's peace against any hall.
+
+The crew of a Thornbury coaster taken off the Nordfells in the autumn is held in the harbor-reeve's sheds below the hall, waiting for their shipping house to pay. The harbor-reeve, [[being-thalmthrvrld|Thalmthira Vruldaruk]], feeds them and counts the cost against the ransom.
+
 ## See Also
 
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-nrdlndsrgn|Nordlands]]
+- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-nrdlndsrgn|Nordlands]] · [[being-ulthorvhrnd|Ulthorv Hrindaruk]]

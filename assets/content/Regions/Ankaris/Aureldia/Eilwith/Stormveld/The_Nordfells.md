@@ -49,6 +49,10 @@ They are in the high folds and the old workings, and Stormveld loses upland stea
 years. The Jarldom books these losses as raiding by the Eilwìthan uplanders who withdrew after the
 conquest, which is convenient, occasionally accurate, and not believed by the men who patrol up there.
 
+## Current Situation {#present}
+
+The inlets are closed, by the pact the High Jarl swore with the jarl of [[place-vuldstead|Vuldstead]] in the autumn. Their ships watch the north shore for coasters that put in without calling at [[place-stormveil|Stormveil]], and have taken one already. [[place-drasknes|Drasknes]], the one harbor of the fells, lives on that coasting trade, and its jarl, [[being-draskmilglrv|Draskmil Glarvendik]], takes the pact for an attack on his hall. In the west of the fells, four steadings of the High Jarl's sworn men are burned shells since a forest tribe came over the ridges in the spring of 719, and the [[lore-grukaraelwyth|Grukar]] of Koldfell, in the crags above them, take whoever comes to rebuild. In the central fells the nest in the old workings at Grimfold raids farther down toward the plain after a winter that killed the fell sheep.
+
 ## See Also
 
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-pshtrwldrns|Peshtar Wilderness]]
+- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-pshtrwldrns|Peshtar Wilderness]] · [[place-drasknes|Drasknes]]

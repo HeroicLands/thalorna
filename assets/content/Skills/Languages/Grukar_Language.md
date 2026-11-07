@@ -23,6 +23,9 @@ data:
       - being-grkrsh
       - being-grukaruk
       - place-grkrhlmrgn
+      - being-greytusk
+      - being-stillwader
+      - being-fellwatch
   tongues:
     - {tag: exonym, meaning: "a name another people gives, its tongue not stated"}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -41,6 +44,12 @@ data:
     - {name: The Appearing, tongue: translation}
     - {name: The Appearing of the Grukar, tongue: translation}
     - {name: The Grukar of Eilwìth, tongue: translation}
+    - {name: Greytusk, tongue: translation}
+    - {name: Stillwader, tongue: translation}
+    - {name: Fellwatch, tongue: translation}
+    - {name: The Old Hushk of Kingsdelf, tongue: translation}
+    - {name: The Watcher in the Reeds, tongue: translation}
+    - {name: The Figure on the Crest, tongue: translation}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

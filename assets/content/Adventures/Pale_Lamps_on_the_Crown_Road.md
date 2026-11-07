@@ -19,12 +19,12 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 ## Overview
 
-[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-wyndmarch|the Wiindmarch]] and [[place-hallowwood|the Hallowwood]]. Its keeper, the **Reeve**, is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
+[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-dunmere|Dunmere]] and [[place-hallowwood|Seirasto]], through the oak woods of [[place-thornwold|the Thornwold]]. Its keeper, the **Reeve**, is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
 
 ## Hooks
 
-- **The thief.** A [[place-caerwynd|Kaerwiind]] quartermaster who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
-- **The mercenary or common soldier.** The commander at Kaerwiind needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
+- **The thief.** A quartermaster of the king's foresters at Dunmere who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
+- **The mercenary or common soldier.** The captain of the king's foresters at Dunmere needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
 - **The leader.** [[lore-vardain|A Vardain elder]] from the valleys below [[place-ironfells|the Ironfells]] wants the stage's ledger. The [[lore-khazariclt|Khazari]] say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
 - **The lone wanderer.** The wanderer is caught on the old road at dusk, with the forest dark on either side and a line of pale lamps showing the way.
 
@@ -102,11 +102,11 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: break the box and carry the silver. Stealth: copy the ledgers and leave the silver. Guile: take the stage's seal ring, which every Crown Road gate will recognize. Parley: bring the ledgers to the Vardain and the Khazari.
 
-**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a [[lore-flksenali|Senali envoy]] had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
+**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a [[lore-flksenali|Senali envoy]] had come down the road from Seirasto to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at Seirasto's edge was a road someone expected to be opened.
 
 **Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazari of [[place-vorgald|Vorgald]], who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Senali, if they learn it was written down, will want it least.
 
-**If bypassed.** A party that leaves the strong-room unopened hears of the silver from a Wiindmarch drover within the year.
+**If bypassed.** A party that leaves the strong-room unopened hears of the silver from a lake-shore drover within the year.
 
 ## Aftermath
 
@@ -120,10 +120,10 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 [[place-wenlornestage|Wenlorne Stage]]
 : the relay house and its keeper
 
-[[place-wyndmarch|The Wiindmarch]]
+[[place-dunmere|Dunmere]]
 : where the old road begins
 
-[[place-hallowwood|The Hallowwood]]
+[[place-hallowwood|Seirasto]]
 : where the road stops
 
 [[lore-jointcrown|The Joint Crown of Eilwìth]]

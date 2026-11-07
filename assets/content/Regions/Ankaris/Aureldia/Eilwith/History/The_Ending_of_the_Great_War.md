@@ -3,7 +3,7 @@ shortcode: endgreatwar
 name: {full: The Ending of the Great War, en: [The Stopping]}
 type: lore
 subType: history
-description: "Within a decade of the Three Sisters the Khazari finished the Great War and did not take the island: they kept the Ironfells and the north-east plain for the Vardain and left everything else to the Pelwar they had fought."
+description: "Within a decade of the Three Sisters the Khazari finished the Great War and did not take the island: they kept the Ironfells and the north plain for the Vardain and left everything else to the Pelwar they had fought."
 tags: [history]
 data:
   culture: aelwythanclt
@@ -20,13 +20,13 @@ data:
         - lore-flkkhazar
         - lore-pelwarpepl
       summary: >-
-        With the Senali gone into the Hallowwood, the Khazari finish the Great War in a few seasons and do not take the island. They keep the Ironfells and the north-east plain under their protection for the Vardain, and leave the rest of the country the Senali abandoned to the Pelwar who had fought for it. Nothing is written down and no oath is sworn; the Deep Folk simply stop. The works of the joint crown pass to whoever lives beside them.
+        With the Senali gone into Seirasto, the Khazari finish the Great War in a few seasons and do not take the island. They keep the Ironfells and the north plain under their protection for the Vardain, and leave the rest of the country the Senali abandoned to the Pelwar who had fought for it. Nothing is written down and no oath is sworn; the Deep Folk simply stop. The works of the joint crown pass to whoever lives beside them.
       standing: reconstructed
       where:
         locus: [place-eilwith]
         reach:
           - place: place-vardanreach
-            how: the plain and its high valleys, something like a fifth of the island, are kept for the Vardain by the hold that fed on them
+            how: the plain and its high valleys, something like an eighth of the island, are kept for the Vardain by the hold that fed on them
             knowledge: named
           - place: place-vorgald
             how: the hold's friendship with the Vardain is made permanent by the war's end, and the Khazari go back inside the mountain
@@ -74,7 +74,7 @@ The works of [[lore-jointcrown|the Joint Crown]] stood on that ground and had no
 
 ## What It Left
 
-- **The bounds of [[place-vardanreach|Vardanreach]].** A fifth of the island, kept by the one hold that never claimed to rule it.
+- **The bounds of [[place-vardanreach|Vardanreach]].** An eighth of the island, kept by the one hold that never claimed to rule it.
 - **A friendship of thousands of years.** The Vardain's standing with Vorgald, which lasts until [[lore-stormveldtkn|the Taking of Stormveld]] by the Nordmen in 660 AF.
 - **Every Eilwìthan realm's ground.** Land that came to the humans because the elder races stopped, and not because anyone gave it.
 - **An unwritten ending.** The Khazari archive records the war and its end in the same entry, and the entry is two lines long.

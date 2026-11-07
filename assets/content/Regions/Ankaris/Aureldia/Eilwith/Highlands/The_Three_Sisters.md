@@ -11,14 +11,14 @@ data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: null, packF
 The Three Sisters are three peaks standing together above the open ground of [[place-cntrlhghlnds|the Central Highlands]], in
 the middle of [[place-eilwith|Eilwìth]]. They are unremarkable mountains and the most important place on the island.
 
-## The Battle
+## The Battle {#history}
 
 In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar]] and their [Varkhad]{.name data-type="lore/folk"} masters beneath them, and the **Senali king of
 Eilwìth was killed** by the Varkhad.
 
 It was the decisive engagement of the [Great War]{.name data-type="lore/history"}, and its consequences went far past who held the
 field. With the king dead the surviving [[lore-flksenali|Senali]] **withdrew**—out of the war, out of
-the kingdom, and into the deep forest of the south that is now [[place-hallowwood|the Hallowwood]]—and
+the kingdom, and into the deep forest of the south that is now [[place-hallowwood|Seirasto]]—and
 left the [[lore-flkkhazar|Khazari]] to finish it.
 
 The Khazari finished it. They have never forgiven the withdrawal, and the two elder races of Eilwìth
@@ -117,13 +117,15 @@ Everything they left, they left **to the other races**: to the Khazari who had b
 and to the humans they had been fighting. The Khazari finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Senali handed over
 by walking away is, in a straightforward sense, the reason Eilwìth has human kingdoms on it at all.
 
-## Now
+## What Is There Now {#present}
 
 Nothing marks it. Three peaks over open grazing, in the pleasantest country on the island, and the
 [[affiliation-repblcndrth|Ondarethan senators]] who keep summer houses within sight of them do not know
 the name means anything.
 
+The herders of [[place-stonyford|Stonyford]] run their horses on the saddle between the peaks in summer, and after heavy rain they turn up iron in the turf: blade-ends, rings of mail, and now and then a worked piece nobody at the fair can name. They sell what they find at the horse fair as curiosities, and a scholar of the [[affiliation-panepistmm|Epistémion]] chapterhouse at [[place-thornbury|Thornbury]] has begun buying every piece before the fair opens. This spring the levy for the frontier is taking the herders north, and fewer of them are on the saddle to find anything, or to watch the runs against the [[lore-grukaraelwyth|Grukar]] of [[place-kingsdelf|Kingsdelf]], the old quarry in the north face of the northernmost peak.
+
 ## See Also
 
-- [[place-hallowwood|The Hallowwood]] · [[place-vorgald|Vorgald]] · [[place-eilwith|Eilwìth]]
+- [[place-hallowwood|Seirasto]] · [[place-vorgald|Vorgald]] · [[place-eilwith|Eilwìth]]
 - [[lore-khazarturn|The Fall of Khazartúrn]]

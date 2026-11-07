@@ -32,6 +32,10 @@ office that keeps records the Synod actually reads.
 The city is also where Dúnavarre's diplomacy physically happens. Embassies to and from Élavendre,
 [[place-provenzrgn|Provénzia]] and the Vilérian ports land here, and the mission to [[affiliation-tantsouempr|Tantsou]] sailed from these quays.
 
+## The Present {#present}
+
+The harbor-master, [[being-alfrithbrnly|Alfrith Brinley]], runs the busiest quays on the island, and this spring they are busy with the [[affiliation-justbladeordr|Order of the Just Blade]]'s business: iron, oxen and hired men coming in for the summer's road into [[place-teilvari|Teilvari]]. The Order wants the outbound ships searched for Seilvri furs and wax, which come down to the coast from the forest edge and go out to the mainland in Wraymouth's holds. Alfrith answers to the Warden of the Ports at [[place-ravenmoor|Ravenmoor]], and the shipping houses she answers for pay the realm's revenue. Wraymouth's taverns are where the war in the west is called a murder most openly, and the Order has begun to send knights to drink in them ([[lore-saelvricrusade|The Seilvri Crusade]]).
+
 ## Character
 
 Wraymouth is more mixed and considerably less decorous than Ravenmoor. Its harbor quarter speaks

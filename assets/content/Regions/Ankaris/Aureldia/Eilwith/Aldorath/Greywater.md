@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Aldorath's river port on the tidal reach—the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."
 tags: [town, port, river]
-data: {demonym: null, lore: [], parents: [greylevels], population: 2900, packFolder: eilwith}
+data:
+  demonym: null
+  lore: []
+  parents: [greylevels]
+  population: 2900
+  packFolder: eilwith
+  government: kngdmldrth
 ---
 
 **Greywater** stands on the tidal reach of the river that drains the eastern part of the [[place-aldorathrgn|Aldorath Region]], at the point where
