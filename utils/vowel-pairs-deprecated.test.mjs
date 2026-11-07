@@ -8,7 +8,7 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import YAML from "yaml";
-import { forgetNoteIndex } from "./note-index.mjs";
+import { forgetNoteIndex, notePath } from "./note-index.mjs";
 import * as pairs from "./vowel-pairs.mjs";
 
 test("conflicting name attestations cannot also authorize the same source edit", () => {
@@ -39,7 +39,7 @@ test("the scoped CLI fails before the authorized edits and passes a prospective 
     try {
         const content = path.join(root, "assets/content");
         fs.mkdirSync(content, { recursive: true });
-        const guide = fs.readFileSync("assets/content/Lore/Pronouncing_Thalorna.md", "utf8");
+        const guide = fs.readFileSync(notePath("doc-prnncthlrn"), "utf8");
         fs.writeFileSync(path.join(content, "guide.md"), guide);
         fs.writeFileSync(
             path.join(content, "language.md"),
@@ -281,7 +281,7 @@ test("deprecated closing y uses original positions and respects the next vowel",
 });
 
 test("sound inventory derives duplicate IPA and prospective counts from guide data", () => {
-    const source = fs.readFileSync("assets/content/Lore/Pronouncing_Thalorna.md", "utf8");
+    const source = fs.readFileSync(notePath("doc-prnncthlrn"), "utf8");
     const inventory = pairs.soundInventory(source);
     const rows = pairs.frontmatterDoc(source).doc.toJS().data.sounds.letters;
     assert.equal(inventory.rows, rows.length);
