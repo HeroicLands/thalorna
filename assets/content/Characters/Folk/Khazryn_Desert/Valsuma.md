@@ -75,7 +75,7 @@ She is old and tired, and she has let the temple's senior priests and Sharminah 
 
 ### Others
 
-- [[being-kenbeshay|Kenbeshay]]: The priest of the Northern Temple of Kethramír, whose teaching of mercy Sharminah despises. Valsuma has read his sermons, copied out by a Fire-Keeper, three times.
+- [[being-kenbeshay|Kenbeshai]]: The priest of the Northern Temple of Kethramír, whose teaching of mercy Sharminah despises. Valsuma has read his sermons, copied out by a Fire-Keeper, three times.
 
 ### Affiliations
 
@@ -92,5 +92,5 @@ Valsuma was born in the Tellumi lower town of Shirvan to a Tellumi bondswoman, i
 
 In a chest in her cell are sixty years of writings in her own hand, suggesting that compassion and mercy might be compatible with serving Ataros, and that the god who warms the Flame-born warms the Tellumi too. She has never shown them to anyone. Sharminah may find them, and Valsuma has not decided whether she wants her to.
 
-**Hook: the chest.** Valsuma asks a party to carry a sealed chest from her cell to [[being-kenbeshay|Kenbeshay]] at the Northern Temple of Kethramír, on the day after her death, and to tell Sharminah nothing. A senior priest who watches her cell has already noticed the party.
+**Hook: the chest.** Valsuma asks a party to carry a sealed chest from her cell to [[being-kenbeshay|Kenbeshai]] at the Northern Temple of Kethramír, on the day after her death, and to tell Sharminah nothing. A senior priest who watches her cell has already noticed the party.
 :::

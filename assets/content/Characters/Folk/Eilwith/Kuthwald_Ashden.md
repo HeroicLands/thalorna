@@ -41,11 +41,11 @@ Kuthwald Ashden is a 47-year-old man of 6'0" and medium build, with light, weath
 
 # Dossier {#dossier}
 
-**Age 47. Tavos of the Republic of Ondareth. Wants the First Senator's chair when Harwin Greymore's term ends.**
+**Age 47. Tavos of the Republic of Ondareth. Wants the First Senator's chair when Harwin Greimore's term ends.**
 
 Kuthwald Ashden is one of the two _tavoi_ who give Ondareth's year its name. His colleague, [[being-alfmundkrtn|Alfmund Kaerton]], has the field command on the frontier, and Kuthwald keeps [[place-thornbury|Thornbury]] and presides over the [[affiliation-senatondrth|Senate of Ondareth]] whenever the First Senator is absent. He served twelve years in the frontier legion before he bought his seat, and he speaks in the chamber like an officer giving orders.
 
-He wants the First Senator's chair. [[being-harwingrymr|Harwin Greymore]] wants a second term in it, and Kuthwald has put the question of the Tyrant's Rock before the Senate again, because one of Harwin's freedmen has bought the houses at its foot, and Harwin must now say in the chamber what he means to do with them.
+He wants the First Senator's chair. [[being-harwingrymr|Harwin Greimore]] wants a second term in it, and Kuthwald has put the question of the Tyrant's Rock before the Senate again, because one of Harwin's freedmen has bought the houses at its foot, and Harwin must now say in the chamber what he means to do with them.
 
 ## Psyche
 
@@ -73,11 +73,11 @@ The veterans of the frontier legion who sit in the Senate, and the shipping hous
 
 ### Patrons
 
-[[being-winiwldbrnl|Winiwald Barnley]], the theronos, who has backed him since his first seat.
+[[being-winiwldbrnl|Winiwald Barnlei]], the theronos, who has backed him since his first seat.
 
 ### Enemies
 
-[[being-harwingrymr|Harwin Greymore]], the First Senator.
+[[being-harwingrymr|Harwin Greimore]], the First Senator.
 
 ### Affiliations
 
@@ -86,5 +86,5 @@ The veterans of the frontier legion who sit in the Senate, and the shipping hous
 
 ## Plot Hooks
 
-1. **The freedman's money.** Kuthwald wants proof that the freedman who bought the houses below the Tyrant's Rock bought them with Harwin Greymore's money.
+1. **The freedman's money.** Kuthwald wants proof that the freedman who bought the houses below the Tyrant's Rock bought them with Harwin Greimore's money.
 2. **A loan called in.** One of Kuthwald's creditors has sold his debt to a house that answers to Harwin, and Kuthwald wants to know what the house means to ask of him.

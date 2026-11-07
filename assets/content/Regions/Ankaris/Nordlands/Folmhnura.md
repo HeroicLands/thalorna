@@ -540,7 +540,7 @@ ir gang tiv skipsta ok skipsnir.
 [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
 : the grave-ale and its fixed order
 
-[[place-nulthey|Nulthey]]
+[[place-nulthey|Nulthei]]
 : where the Ten's doctrine sends the sickness-dead
 
 [[place-solvangurhall|Sólrunsholl]]

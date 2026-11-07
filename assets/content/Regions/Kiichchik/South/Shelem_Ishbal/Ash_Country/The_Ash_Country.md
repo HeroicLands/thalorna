@@ -1,6 +1,6 @@
 ---
 shortcode: ashcountry
-name: {full: The Ash Country, kiichek: ["K'aypukal"]}
+name: {full: The Ash Country, kiichek: ["K'aipukal"]}
 type: place
 subType: region
 description: "The first country of the waste below the gate: ash terraces, boiling ground, black glass and a dead mountain where the Old Fire Dragon lairs."
@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, pack
 
 ## Overview
 
-The Ash Country, K'aypukal (the ash-bed) in the priests' tongue, is the first country of [[place-xelemixbalrgn|Shelem Ish'bal Region]] and the only one most parties ever see. It begins where the guides of [[place-xelemchalix|Shelem Ch'alish]] turn back, at the place the gate's towers drop below the horizon, and runs south for weeks along a line of mountains, some dead and some still breathing smoke. Gray ash lies over everything, a hand deep on the ridges and deeper than a man in the hollows, and under the ash is black glass, red rock and ground that is hot to the touch.
+The Ash Country, K'aipukal (the ash-bed) in the priests' tongue, is the first country of [[place-xelemixbalrgn|Shelem Ish'bal Region]] and the only one most parties ever see. It begins where the guides of [[place-xelemchalix|Shelem Ch'alish]] turn back, at the place the gate's towers drop below the horizon, and runs south for weeks along a line of mountains, some dead and some still breathing smoke. Gray ash lies over everything, a hand deep on the ridges and deeper than a man in the hollows, and under the ash is black glass, red rock and ground that is hot to the touch.
 
 ## The Land
 

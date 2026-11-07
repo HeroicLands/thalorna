@@ -1,9 +1,9 @@
 ---
 shortcode: bellsgreylvl
-name: {full: The Bells Beneath the Greylevels}
+name: {full: The Bells Beneath the Greilevels}
 type: scenario
 subType: adventure
-description: "The tide cuts off a ruined house of the Silent Judge on the Greylevels, a bell rings beneath the water, and the drowned dead of the house come up with the tide to take the living into their keeping."
+description: "The tide cuts off a ruined house of the Silent Judge on the Greilevels, a bell rings beneath the water, and the drowned dead of the house come up with the tide to take the living into their keeping."
 tags: [draft]
 data:
   parents: []
@@ -15,7 +15,7 @@ data:
   packFolder: adventures
 ---
 
-The tide cuts the party off at [[place-threnhallow|Threnhallow]], an abandoned house of the [[affiliation-selmoros|Silent Judge]] on the seaward edge of [[place-greylevels|the Greylevels]]. A bell rings under the water before each disappearance. The dead of the house, the Levels' drowned, rise with the tide and come wherever the water comes, and the Threshold Keeper who taught them to rise commands them from the flooded crypt. Everything the party meets says the house must be broken. It must not, or not yet: the drowned have worked the house's sluice-gates at every ebb since the Keeper raised them, the lower grazing of the Levels is dry because of them, and every way the party has to break the house puts the sea back over the Levels at the next spring tide.
+The tide cuts the party off at [[place-threnhallow|Threnhallow]], an abandoned house of the [[affiliation-selmoros|Silent Judge]] on the seaward edge of [[place-greylevels|the Greilevels]]. A bell rings under the water before each disappearance. The dead of the house, the Levels' drowned, rise with the tide and come wherever the water comes, and the Threshold Keeper who taught them to rise commands them from the flooded crypt. Everything the party meets says the house must be broken. It must not, or not yet: the drowned have worked the house's sluice-gates at every ebb since the Keeper raised them, the lower grazing of the Levels is dry because of them, and every way the party has to break the house puts the sea back over the Levels at the next spring tide.
 
 ## Overview
 
@@ -64,7 +64,7 @@ The full truth of the house—what Leofwald did, why the bell rings, what the dr
 
 The reveal lands at the turn of the tide, late in Scene Three or in Scene Four, and it reaches the party by whichever route it took.
 
-- **From the bell-loft.** A party that waits out the flood in the tower is there when the tide turns. The drowned in the nave stop, turn as one, and file down through the vestry floor. [Mildith Barnley]{.name data-type="being/npc"} puts her finger on the last mark of her tally and makes another beside it. Lowering a lantern down the bell-shaft, the party sees them at the far end of the crypt, hands on the wheel, and hears the gates groan open and the cut begin to run.
+- **From the bell-loft.** A party that waits out the flood in the tower is there when the tide turns. The drowned in the nave stop, turn as one, and file down through the vestry floor. [Mildith Barnlei]{.name data-type="being/npc"} puts her finger on the last mark of her tally and makes another beside it. Lowering a lantern down the bell-shaft, the party sees them at the far end of the crypt, hands on the wheel, and hears the gates groan open and the cut begin to run.
 - **In the crypt.** A party fighting below when the tide turns watches the drowned let go of whoever they hold, turn their backs and wade to the wheel, and wind it, while Leofwald waits with the rope slack in his hand. Asked, he says what they are doing and why. Everything he says is borne out by the wheel, the plans and the book.
 - **From the embankment.** A party that leaves by the landward door at the ebb stands on the bank as the light comes and sees the outfall running, the cut clear, the lower grazing dry and the steadings' lamps lit behind a gate that nobody living has turned in years. Below the mound the gear grinds, and stops.
 
@@ -91,9 +91,9 @@ Once the reveal lands, the party wants to stop the takings without drowning the 
 
 Pick the entry that suits the hero. Each leads to Threnhallow on a rising tide.
 
-- **The thief.** The commission of sewers' endowment chest sits on the mound, unclaimed, and a [[place-greywater|Greywater]] lawyer wants the rolls inside it for a lawsuit. He says nothing of the silver vessels the house held, which the thief has heard about elsewhere.
+- **The thief.** The commission of sewers' endowment chest sits on the mound, unclaimed, and a [[place-greywater|Greiwater]] lawyer wants the rolls inside it for a lawsuit. He says nothing of the silver vessels the house held, which the thief has heard about elsewhere.
 - **The mercenary or common soldier.** A Levels family hires an escort to bring home a jeweled reliquary of the healers of the [[affiliation-lusinia|Faith of Lusinia]] that it left in the house's keeping. The pilot they hire insists on going out by day and coming back before the turn, and the tide turns early.
-- **The leader.** The pilot [Aldgar Wraymon]{.name data-type="being/npc"}'s son rowed two travelers out to the mound and did not come back. Aldgar heard the bell. He asks the leader to come with him, and he is the one at the oars in the opening.
+- **The leader.** The pilot [Aldgar Wraimon]{.name data-type="being/npc"}'s son rowed two travelers out to the mound and did not come back. Aldgar heard the bell. He asks the leader to come with him, and he is the one at the oars in the opening.
 - **The lone wanderer.** The wanderer is crossing the Levels on the causeway at low water, misjudges the tide, and reaches the mound with the water at the wanderer's knees. The pilot in the opening is a fowler who sees the wanderer and rows over, against his own judgment.
 
 ## The Opening
@@ -113,7 +113,7 @@ Read or paraphrase:
 
 **Situation.** As the party climbs out, the painter, the boat's mooring line, goes taut and pulls, hard, toward deep water. If nobody holds it, the boat goes out into the channel and does not come back. Through the gap between the west doors the party sees that they are barred on the inside with pews stacked to the lintel. Somebody inside was keeping something out. A side door into the cloister stands open. Inside, on the dry flagstones of the cloister walk, a line of wet bare footprints leads away from the barred doors and stops at an iron drain-grate in the floor. An overturned lantern lies beside the grate, its glass cracked. The wick is still warm.
 
-**NPCs and threats.** Aldgar Wraymon, or whichever pilot or fowler brought the party, is tight-lipped and wants to leave at once; with the boat gone he cannot. He knows the house's story as the Levels tell it and believes every word. Whatever pulled the painter is not seen. A hand on the line feels it pull in slow, patient tugs.
+**NPCs and threats.** Aldgar Wraimon, or whichever pilot or fowler brought the party, is tight-lipped and wants to leave at once; with the boat gone he cannot. He knows the house's story as the Levels tell it and believes every word. Whatever pulled the painter is not seen. A hand on the line feels it pull in slow, patient tugs.
 
 > [!TIP]
 > Give Aldgar his grumble while he looks back at the lamp on the grazing, the way a man says what he says every market-day: the lower grazing has been dry since the house went quiet, and the commission takes the credit for it. Say it once and move on. It returns at the turn of the tide with its second meaning.
@@ -143,7 +143,7 @@ Read or paraphrase:
 
 **Situation.** Several cells hold travelers' possessions laid out neatly on the cots: a pack, a pair of boots, a coat, a purse with money in it. Nobody takes their boots and leaves. In the chapter room the house's drainage plans are pinned to a board, showing the drains of every room running down to the crypt, the sluice at the outfall of the drainage cut, and a passage from the vestry down to the bell-chamber above the crypt. The guests' book lies open on the lectern. Beside the passage door, freshly scratched into the plaster with a knife-point: _Answer not the brethren._ Above the chapel, in the bell-loft of the tower, a survivor is hiding.
 
-**NPCs and threats.** Mildith Barnley is a young Novice of the [Silent Watch]{.name data-type="affiliation/order"}, sent to the house by the faith to find out why its returns had stopped, and alone on the mound for four days. She is exhausted and very calm, and she has drawn up the loft ladder. She whispers, by long habit and by present fear, and offers one rule and no more: "Answer them not." She has cut a tally into the loft's beam with her knife: four deep marks, one for each time the bell has rung, and a long row of short ones beside them. Asked, she says she cuts a short one each time the dead go down through the vestry floor. She does not know where they go. The drowned do not show themselves here. Through the drain-grates the party hears, now and then, a voice saying a name.
+**NPCs and threats.** Mildith Barnlei is a young Novice of the [Silent Watch]{.name data-type="affiliation/order"}, sent to the house by the faith to find out why its returns had stopped, and alone on the mound for four days. She is exhausted and very calm, and she has drawn up the loft ladder. She whispers, by long habit and by present fear, and offers one rule and no more: "Answer them not." She has cut a tally into the loft's beam with her knife: four deep marks, one for each time the bell has rung, and a long row of short ones beside them. Asked, she says she cuts a short one each time the dead go down through the vestry floor. She does not know where they go. The drowned do not show themselves here. Through the drain-grates the party hears, now and then, a voice saying a name.
 
 > [!TIP]
 > Show the beam before Mildith says anything about it. Two rows of marks, four in one and many in the other, are a plain thing a player can count. Let the table decide what the longer row means.
@@ -287,6 +287,6 @@ The guest cells hold what the drowned's last travelers carried: a little money, 
 ## See Also
 
 - [[place-threnhallow|Threnhallow]]—the house on the mound
-- [[place-greylevels|The Greylevels]] · [[place-greywater|Greywater]]
+- [[place-greylevels|The Greilevels]] · [[place-greywater|Greiwater]]
 - [[affiliation-selmoros|Faith of Sélmoros]]—the rite the Keeper changed
 - [[lore-undead|Undead]] · [[being-tereb|Tereb]] · [[being-damut|Damut]] · [[lore-theshadow|the Shadow]]

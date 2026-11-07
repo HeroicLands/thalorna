@@ -248,7 +248,7 @@ The drain runs straight between two dikes, brown and still, scummed over with gr
 
 # Dossier {#dossier}
 
-The Acidtoad is a dreadspawn made in the shape of a great toad: six to eight feet long and about eighty pounds, sluggish and patient, with skin that weeps a burning slime, a bite that weakens, and a gullet that spits acid. It lies in still water and waits for something to come close enough. It was made, as all dreadspawn are, and it does not breed, and the one that troubles [[place-greylevels|the Greylevels]] of eastern [[place-aldorathrgn|Aldorath]] came out of nowhere anyone can name, a generation ago, and has been there ever since. It moves from drain to drain across the reclaimed marsh, and it is the one creature on the Levels that the commissions of sewers fear more than a high tide.
+The Acidtoad is a dreadspawn made in the shape of a great toad: six to eight feet long and about eighty pounds, sluggish and patient, with skin that weeps a burning slime, a bite that weakens, and a gullet that spits acid. It lies in still water and waits for something to come close enough. It was made, as all dreadspawn are, and it does not breed, and the one that troubles [[place-greylevels|the Greilevels]] of eastern [[place-aldorathrgn|Aldorath]] came out of nowhere anyone can name, a generation ago, and has been there ever since. It moves from drain to drain across the reclaimed marsh, and it is the one creature on the Levels that the commissions of sewers fear more than a high tide.
 
 ## Presentation
 
@@ -256,7 +256,7 @@ The acidtoad is broad and flat, all head and body on short thick legs, with a hi
 
 ## In the Land
 
-The Greylevels are low, wet, tidal country, drained by generations of work into grazing and arable and laced with dikes, drains, sluices and channels, and the acidtoad uses all of them. It lies up in the still, scummed water of the drains and the old unreclaimed marsh at the edges of the mudflats, and it moves between them by night along the channels. It favors water near a sluice or a ford, where cattle and people come. Wherever it has lain long, the water is poisoned: fish die, the weed turns yellow, and the timber of the sluices rots. It does not go into the tidal river or onto the open flats, and it does not go up into the dry ground of [[place-aldorvale|the Aldorvale]].
+The Greilevels are low, wet, tidal country, drained by generations of work into grazing and arable and laced with dikes, drains, sluices and channels, and the acidtoad uses all of them. It lies up in the still, scummed water of the drains and the old unreclaimed marsh at the edges of the mudflats, and it moves between them by night along the channels. It favors water near a sluice or a ford, where cattle and people come. Wherever it has lain long, the water is poisoned: fish die, the weed turns yellow, and the timber of the sluices rots. It does not go into the tidal river or onto the open flats, and it does not go up into the dry ground of [[place-aldorvale|the Aldorvale]].
 
 ## Key Behaviors
 
@@ -264,7 +264,7 @@ The toad sits in the shallows with only its eyes and the top of its head above t
 
 ## What the Levels Do
 
-The commissions of sewers that keep the drains and sluices of the Greylevels argue about everything except the toad. A drain where the fish have died and the gate-timbers have gone soft is closed to cattle and to men at once, and the commission sends its dikemen to find the toad and drive it out: they churn the water with long poles from the dike-top and wait for it to move, and they keep well back from its spit. Killing it has been tried several times, with spears, fire and once a cask of quicklime; it has been hurt and has gone, and has come back to another drain a season later. The Levels count the rotten sluice-gates among their costs, and a commissioner's bill for new oak after a toad year is the one bill nobody contests. Cold weather makes it slow, and the dikemen go after it in a frost.
+The commissions of sewers that keep the drains and sluices of the Greilevels argue about everything except the toad. A drain where the fish have died and the gate-timbers have gone soft is closed to cattle and to men at once, and the commission sends its dikemen to find the toad and drive it out: they churn the water with long poles from the dike-top and wait for it to move, and they keep well back from its spit. Killing it has been tried several times, with spears, fire and once a cask of quicklime; it has been hurt and has gone, and has come back to another drain a season later. The Levels count the rotten sluice-gates among their costs, and a commissioner's bill for new oak after a toad year is the one bill nobody contests. Cold weather makes it slow, and the dikemen go after it in a frost.
 
 ## Signs
 

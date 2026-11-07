@@ -893,12 +893,12 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a rod; the punishing power of a court"
-    - {form: "nay-", class: v, field: "Station, rank and office", gloss: "lead"}
+    - {form: "nai-", class: v, field: "Station, rank and office", gloss: "lead"}
     - form: nayeka
       class: n
       field: Station, rank and office
       gloss: a leader
-      built: [nay-, -oka]
+      built: [nai-, -oka]
       concept: leader
     - form: dandanayeka
       class: "n"
@@ -999,7 +999,7 @@ data:
       field: Gods, rites and the temple
       gloss: love, desire
       concept: desire
-    - {form: jayra, class: "n", field: "Gods, rites and the temple", gloss: "victory"}
+    - {form: jaira, class: "n", field: "Gods, rites and the temple", gloss: "victory"}
     - form: jnena
       class: n
       field: Gods, rites and the temple
@@ -7767,7 +7767,7 @@ data:
     - {name: The Celestial Lover, tongue: translation}
     - {name: The Garden Year, tongue: translation}
     - {name: The Silent Flute, tongue: translation}
-    - {name: mahajaya, tongue: vedyari, built: [mahva, jayra]}
+    - {name: mahajaya, tongue: vedyari, built: [mahva, jaira]}
     - {name: The Eternal Preserver, tongue: translation}
     - {name: The Granary Vigil, tongue: translation}
     - {name: The Fair Measure, tongue: translation}
@@ -7881,7 +7881,7 @@ data:
     - {name: mukhyeshvara, tongue: vedyari, built: [achorya, mokhya, ishvora]}
     - {name: chandreli, tongue: vedyari, built: [chendra, kirta, sundeli]}
     - {name: chandri, tongue: calling, built: [chandreli]}
-    - {name: jayavalli, tongue: vedyari, built: [jayra, valsi]}
+    - {name: jayavalli, tongue: vedyari, built: [jaira, valsi]}
     - {name: darmapalda, tongue: vedyari, built: [dorma, palda]}
     - {name: darmu, tongue: calling, built: [darmapalda]}
     - {name: vimuktan, tongue: vedyari}
@@ -7911,7 +7911,7 @@ data:
     - {name: senu, tongue: calling, built: [senapavi]}
     - {name: vikramada, tongue: vedyari, built: [vikroma, -da]}
     - {name: sunati, tongue: vedyari}
-    - {name: jayavarda, tongue: vedyari, built: [jayra, rajva, bardena]}
+    - {name: jayavarda, tongue: vedyari, built: [jaira, rajva, bardena]}
     - {name: suvarti, tongue: vedyari}
     - {name: suvi, tongue: calling, built: [suvarti]}
     - {name: ratnisen, tongue: vedyari}

@@ -94,7 +94,7 @@ The Kingdom of Targud holds the land of [[place-targud|Targud]], on the eastern 
 
 ## How Targud Is Ruled
 
-Targud is a monarchy with a ting, as its sister kingdoms are, and its king holds the realm on the assembly's consent. He keeps his hall at Tvalgard, on the last defensible ridge before the burned ground, because the frontier is where a king of Targud has to be seen. Three jarls' seats stand behind the king's on [[place-domsey|Domsey]].
+Targud is a monarchy with a ting, as its sister kingdoms are, and its king holds the realm on the assembly's consent. He keeps his hall at Tvalgard, on the last defensible ridge before the burned ground, because the frontier is where a king of Targud has to be seen. Three jarls' seats stand behind the king's on [[place-domsey|Domsei]].
 
 Under the king, a _jarl_ holds a province by his grant, a _hersvald_ answers for a district by its consent, and a _bundi_ holds his odel land by inheritance. A bundi of Targud owes something the other kingdoms' farmers do not: the rotating fort-duty the frontier lays on every free farmer in his turn.
 
@@ -111,7 +111,7 @@ Targud's kings come from the [Driskaruk]{.name data-type="affiliation/lineage"},
 - [Thraldvir]{.name data-type="being/npc"}, about 700 to 707, whose reign was the shortest in the line.
 - [Braldmil II]{.name data-type="being/npc"}, king since 707.
 
-Three kings in a generation is a hard run for a kingdom with three seats on Domsey, and the court at Tvalgard has learned to watch the men who stand closest to the present king. Braldmil II takes advice from his jester and denies it in public.
+Three kings in a generation is a hard run for a kingdom with three seats on Domsei, and the court at Tvalgard has learned to watch the men who stand closest to the present king. Braldmil II takes advice from his jester and denies it in public.
 
 ## The Frontier and the People
 
@@ -123,7 +123,7 @@ Targud's grim reputation hides one distinction: it is the kingdom with the most 
 
 ## Relations
 
-Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarholm]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Domsey: the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Targud nor against it.
+Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarholm]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Domsei: the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Targud nor against it.
 
 ## Commerce and Currency
 

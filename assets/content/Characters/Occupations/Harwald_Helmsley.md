@@ -1,6 +1,6 @@
 ---
 shortcode: hrldhlmsly
-name: {full: Harwald Helmsley}
+name: {full: Harwald Helmslei}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Harwald Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a pointed chin. His round brown eyes sit beneath expressive brows, lending him a candid gaze. A slightly upturned nose and curved lips complete his features. He has pale skin with a clear complexion. His dark brown hair is shoulder-length and loose.
+Harwald Helmslei is a 45-year-old man who stands 6'3" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a pointed chin. His round brown eyes sit beneath expressive brows, lending him a candid gaze. A slightly upturned nose and curved lips complete his features. He has pale skin with a clear complexion. His dark brown hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a peasant family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harwald Helmsley is an animal trainer.
+Born in the [[place-eilwith|Eilwìth]] region to a peasant family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harwald Helmslei is an animal trainer.
 
 Harwald grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
 

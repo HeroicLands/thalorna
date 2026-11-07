@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-The first thing a visitor to Shuqwil hears is the drills: the whir and tick of pump drills in every doorway, from dawn until the light fails. Shuqwil, Bead Place, is the largest town on [Shuq Siwaq]{.name data-type="place/feature"}, Bead Island, a morning's paddle across the channel from [[place-kulaywil|Kulaywil]], and the place where most of the beads of the [[affiliation-shuqash|Shuqash]] are made. About 2,000 people live here, in domed reed houses on a terrace above a cove, among mounds of broken shell as high as the houses.
+The first thing a visitor to Shuqwil hears is the drills: the whir and tick of pump drills in every doorway, from dawn until the light fails. Shuqwil, Bead Place, is the largest town on [Shuq Siwaq]{.name data-type="place/feature"}, Bead Island, a morning's paddle across the channel from [[place-kulaywil|Kulaiwil]], and the place where most of the beads of the [[affiliation-shuqash|Shuqash]] are made. About 2,000 people live here, in domed reed houses on a terrace above a cove, among mounds of broken shell as high as the houses.
 
 ## The Drilling
 
@@ -44,5 +44,5 @@ The chief is [[being-shiyawliq|Shiyawliq]], Clear Sea, who was nine when her fat
 [[place-shuqhalaqrgn|Bead Coast]]
 : the coast, the channel and the islands
 
-[[place-kulaywil|Kulaywil]]
+[[place-kulaywil|Kulaiwil]]
 : Canoe Place, across the channel

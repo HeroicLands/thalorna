@@ -1,8 +1,8 @@
 ---
 shortcode: revunayshld
-name: {full: The Shield of Revunay, en: [The Boy's Shield]}
+name: {full: The Shield of Revunai, en: [The Boy's Shield]}
 type: miscgear
-description: "The shield of the boy Revunay, his name cut in its rim, who kept the gate of old Vahurdash on the prince's word and was killed there by his own father on the night the town was woken; the song carries it to Kethramír, and where it lies now is disputed."
+description: "The shield of the boy Revunai, his name cut in its rim, who kept the gate of old Vahurdash on the prince's word and was killed there by his own father on the night the town was woken; the song carries it to Kethramír, and where it lies now is disputed."
 tags: [artifact, khazryn]
 data: {icon: icon-roundshield, templatePriority: null, packFolder: khazryndesert, unique: true}
 sohl: {system: {weightBase: 8, valueBase: 0, qualityBase: 0, durabilityBase: 10}}
@@ -10,7 +10,7 @@ sohl: {system: {weightBase: 8, valueBase: 0, qualityBase: 0, durabilityBase: 10}
 
 ## Overview {#overview}
 
-The Shield of Revunay is the shield of the boy who kept the gate of old [[place-vahurdash|Vahurdash]] on the night the town was woken, in [[lore-velkunsong|The Song of the Lost Town]]. It is a gate-watchman's round shield with a rim of bark. At fifteen the boy cut into the rim the name his mother had pressed in the household clay, [Revunay]{.name data-type="being/npc"}, Return. The boy fell in the gate-court of what is now [[place-velkunvartun|Veshkunvartun]], and where the shield lies now is disputed.
+The Shield of Revunai is the shield of the boy who kept the gate of old [[place-vahurdash|Vahurdash]] on the night the town was woken, in [[lore-velkunsong|The Song of the Lost Town]]. It is a gate-watchman's round shield with a rim of bark. At fifteen the boy cut into the rim the name his mother had pressed in the household clay, [Revunai]{.name data-type="being/npc"}, Return. The boy fell in the gate-court of what is now [[place-velkunvartun|Veshkunvartun]], and where the shield lies now is disputed.
 
 ## Who Holds It {#who-holds-it}
 
@@ -18,7 +18,7 @@ Nobody is known to. The song places it last in the hands of Berniray's household
 
 ## Its Story {#its-story}
 
-The song tells it. When the springs were leaving the town, the champion [Berniray]{.name data-type="being/npc"} rode back to wake the house and came in by the breach in the north wall. His own son kept the gate-court that night on the prince's word, and would not open. They fought in the dark with the same strokes, taught by the same drill-master, and the father killed the boy. Then he knelt, turned the shield to the one star in the court and read with his thumb the name on its rim. He took the gate-keys from his son's belt and woke the town from house to house till dawn. When [Minesha]{.name data-type="being/npc"}, the boy's mother, came out with the household clay in two baskets on a pole, she saw what lay in the court, and the shield, and set the pole down. The clay says she said one word: _short_.
+The song tells it. When the springs were leaving the town, the champion [Bernirai]{.name data-type="being/npc"} rode back to wake the house and came in by the breach in the north wall. His own son kept the gate-court that night on the prince's word, and would not open. They fought in the dark with the same strokes, taught by the same drill-master, and the father killed the boy. Then he knelt, turned the shield to the one star in the court and read with his thumb the name on its rim. He took the gate-keys from his son's belt and woke the town from house to house till dawn. When [Minesha]{.name data-type="being/npc"}, the boy's mother, came out with the household clay in two baskets on a pole, she saw what lay in the court, and the shield, and set the pole down. The clay says she said one word: _short_.
 
 Berniray kept his oath, stood a gate for the House of Kethramír for thirty years and never spoke of the court or the boy. The song ends its account of him at his death in [[place-kethramir|Kethramír]], where a Delkoshekh read the names of the dead he owed from the clay Minesha saved, came to one and stopped, and the household showed him the shield.
 

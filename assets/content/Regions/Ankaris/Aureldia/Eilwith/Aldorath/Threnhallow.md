@@ -3,7 +3,7 @@ shortcode: threnhallow
 name: {full: Threnhallow}
 type: place
 subType: site
-description: "A house of the Silent Judge on a mound at the seaward edge of the Greylevels, built to give the drowned of the Levels their rites, whose bell rings beneath the tide and whose dead keep the house."
+description: "A house of the Silent Judge on a mound at the seaward edge of the Greilevels, built to give the drowned of the Levels their rites, whose bell rings beneath the tide and whose dead keep the house."
 tags: [draft, ruin, haunted, coastal, river]
 data:
   demonym: null
@@ -16,11 +16,11 @@ data:
 
 ## Overview {#overview}
 
-At the seaward margin of [[place-greylevels|the Greylevels]], past the last drained grazing and beyond the reach of the commissions' newer banks, a low mound stands up out of the reeds with a stone house on it. A causeway of laid stone runs out to it across the flats, and the tide covers the causeway twice a day. The house is a chapel with a squat bell-tower, a cloister of guest cells, a chapter room and a crypt cut down into the mound below the tide line. The Levels call it **Threnhallow**, the holy place of lament. Its roof is mostly sound. Nobody has kept it for years.
+At the seaward margin of [[place-greylevels|the Greilevels]], past the last drained grazing and beyond the reach of the commissions' newer banks, a low mound stands up out of the reeds with a stone house on it. A causeway of laid stone runs out to it across the flats, and the tide covers the causeway twice a day. The house is a chapel with a squat bell-tower, a cloister of guest cells, a chapter room and a crypt cut down into the mound below the tide line. The Levels call it **Threnhallow**, the holy place of lament. Its roof is mostly sound. Nobody has kept it for years.
 
 ## The House {#history}
 
-Threnhallow is a house of the [[affiliation-selmoros|Faith of Sélmoros]], whose god is known as the Silent Judge. The Levels lose people to the water every year: pilots on the flats, fowlers in the channels, children at the dike-edge, sailors off ships that misjudged the bar below [[place-greywater|Greywater]]. Their bodies come ashore days or weeks later, far from any churchyard, and the house was built to receive them. Its brethren, a Threshold Keeper and a handful of Novices of the Silent Watch, gave the drowned their rites, buried them in the crypt, and kept the names.
+Threnhallow is a house of the [[affiliation-selmoros|Faith of Sélmoros]], whose god is known as the Silent Judge. The Levels lose people to the water every year: pilots on the flats, fowlers in the channels, children at the dike-edge, sailors off ships that misjudged the bar below [[place-greywater|Greiwater]]. Their bodies come ashore days or weeks later, far from any churchyard, and the house was built to receive them. Its brethren, a Threshold Keeper and a handful of Novices of the Silent Watch, gave the drowned their rites, buried them in the crypt, and kept the names.
 
 The house kept the faith's silence. Its only voice was its bell, hung not in the tower but in a shaft above the crypt, low in the mound, so that it rang beneath the floor and beneath the tide. The brethren rang it once for each of the drowned brought in, for the dead to hear and not the living. The fowlers of the Levels, out on the flats at night, heard it through the water and through the boards of their boats, and took it as a sign that one of their own had been found. A ladder runs from the bell-loft at the top of the tower down the shaft to the oak beam the bell hangs from.
 
@@ -48,7 +48,7 @@ The wheel is rusted on its rim and bright on its handles, and the gear is grease
 
 ## What Is There Now {#present}
 
-The house stands unkept on its mound, and the tide covers the causeway twice a day. The commission of sewers is disputing the house's endowment again and wants its chest and rolls brought back from the chapter room. Ships are being lost on the bar below Greywater in fair weather, the fowlers say the bell has rung beneath the tide with no body brought in, and a pilot's son who rowed two travelers out to the mound at dusk has not come back.
+The house stands unkept on its mound, and the tide covers the causeway twice a day. The commission of sewers is disputing the house's endowment again and wants its chest and rolls brought back from the chapter room. Ships are being lost on the bar below Greiwater in fair weather, the fowlers say the bell has rung beneath the tide with no body brought in, and a pilot's son who rowed two travelers out to the mound at dusk has not come back.
 
 ## What the Levels Say
 
@@ -71,8 +71,8 @@ The causeway runs out from the end of a sewer-bank, a long half-hour's walk acro
 
 ## See Also
 
-- [[scenario-bellsgreylvl|The Bells Beneath the Greylevels]]—a scenario set here
-- [[place-greylevels|The Greylevels]] · [[place-greywater|Greywater]]
+- [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]]—a scenario set here
+- [[place-greylevels|The Greilevels]] · [[place-greywater|Greiwater]]
 - [[affiliation-selmoros|Faith of Sélmoros]]—the faith the house was built to serve
 - [[lore-undead|Undead]] · [[lore-theshadow|the Shadow]]
 

@@ -313,7 +313,7 @@ khugibil qazin ghotaz zidun/
 jiven, zetokus, juyech chuyozukh/
 chovin. khuvanur numaq ghuyuz/
 qaduch khubir kholiqin zevik/
-qomul, jiviz zevik khuqay./
+qomul, jiviz zevik khuqai./
 qaduch qazin jilin zidun/
 chovin ghutar, jiviz zilich/
 qaduch qovighit ghutar, «zetokus.»/
@@ -430,7 +430,7 @@ zokhun ataz ghuyuz sovid/
 qadiz zudol ghozun zozum/
 zokhen ghunoq ghuyuz ghaniyush/
 jochun. juchekh vomek zokir/
-kheyey. orolqi gholun shokhun/
+kheyei. orolqi gholun shokhun/
 qoduyuz zusar khizin chomur./
 .qaduch zusar khizin chomur.
 

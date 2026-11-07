@@ -298,7 +298,7 @@ lang funhul tharv halv fast./
 strandva miv plem vatna vindri farn./
 hrosk nel ferna hanv heik.
 
-staf tvei glud, skand na skarey./
+staf tvei glud, skand na skarei./
 staf tvei narl, merv svul likva svartglas./
 skiprand hnurna nifra hafskel./
 hondi hav vrastma or vati vidma./

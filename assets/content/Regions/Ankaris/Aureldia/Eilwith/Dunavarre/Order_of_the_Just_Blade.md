@@ -78,7 +78,7 @@ Chaplain of the Order
 
 **The war in the west.** The Order means to finish the war on the Seilvri, and it is winning. Each spring its knights muster at Kelivren after the tournament, and each summer Sir Merrad cuts the road a few miles deeper into Teilvari and burns the clearings it reaches. About two thousand Seilvri are left. The Order offers terms: a Seilvri who comes out of the woods and kneels at [[lore-ardavondty|Árdavon]]'s threshold is spared and settled as an unfree tenant on an estate. A few hundred have accepted, and those who do not kneel are killed where they are found.
 
-**Two names for one war.** The Order calls the war a crusade. Its chaplain preaches it as the light of Árdavon carried to a people outside every oath and law, and the knights who ride west believe it. The Seilvri call it the Hunting, and on the western estates and in [[place-wraymouth|Wraymouth]] many of the same people who honor the Order call the war a murder. The Order's chivalry and its war are the same knights in the same season.
+**Two names for one war.** The Order calls the war a crusade. Its chaplain preaches it as the light of Árdavon carried to a people outside every oath and law, and the knights who ride west believe it. The Seilvri call it the Hunting, and on the western estates and in [[place-wraymouth|Wraimouth]] many of the same people who honor the Order call the war a murder. The Order's chivalry and its war are the same knights in the same season.
 
 **The cost.** The road eats men, oxen and silver, and the Synod's [[being-halvrasenvl|Bursar]] has asked the Knight-Marshal how many more summers it needs. The Order wants a larger muster this year and a final campaign into the heart of Teilvari.
 

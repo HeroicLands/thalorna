@@ -29,11 +29,11 @@ The rains come in winter, and the hills behind the beaches are green from the fi
 
 The islands are dry, windy and nearly treeless, and short of water. The largest, [Shuq Siwaq]{.name data-type="place/feature"}, Bead Island, holds [[place-shuqwil|Shuqwil]], the drilling town, and a dozen smaller island towns, all of them living by the bead.
 
-At the northwest end of the channel the coast turns north at a high headland, [[place-hipalhalaq|Hipal Halaq]], the Crossing Shore, where the souls of the dead go down to the sea. North of it the shore is rougher and more exposed, and its towns are fewer. The last of them is [[place-tikoqhipay|Tikoq Hipay]], the North Door, beyond which the coast belongs to nobody until the Cedar People's villages begin.
+At the northwest end of the channel the coast turns north at a high headland, [[place-hipalhalaq|Hipal Halaq]], the Crossing Shore, where the souls of the dead go down to the sea. North of it the shore is rougher and more exposed, and its towns are fewer. The last of them is [[place-tikoqhipay|Tikoq Hipai]], the North Door, beyond which the coast belongs to nobody until the Cedar People's villages begin.
 
 ## Towns
 
-A town stands where a stream reaches the sea and a canoe can land: domed reed houses in rows behind the beach, a sweathouse, a dancing ground, the chief's storehouse and a feathered pole on the hill above. Most hold a few hundred people; the great towns of the channel shore hold several thousand. The largest is [[place-kulaywil|Kulaywil]], Canoe Place, the harbor of the Canoe Kin and the seat of the Sky Elder. [Pitashwil]{.name data-type="place/settlement"}, Tar Place, east along the channel, sells the tar that every canoe needs. Shuqwil on Bead Island makes the beads. Tikoq Hipay, behind the only palisade on the coast, watches the north.
+A town stands where a stream reaches the sea and a canoe can land: domed reed houses in rows behind the beach, a sweathouse, a dancing ground, the chief's storehouse and a feathered pole on the hill above. Most hold a few hundred people; the great towns of the channel shore hold several thousand. The largest is [[place-kulaywil|Kulaiwil]], Canoe Place, the harbor of the Canoe Kin and the seat of the Sky Elder. [Pitashwil]{.name data-type="place/settlement"}, Tar Place, east along the channel, sells the tar that every canoe needs. Shuqwil on Bead Island makes the beads. Tikoq Hipai, behind the only palisade on the coast, watches the north.
 
 ## Trade and Danger
 
@@ -52,7 +52,7 @@ The danger comes from the north. The Cedar People's war canoes come down the coa
 [[place-tulishlumuqrgn|Oak Valleys]]
 : the acorn country over the mountains
 
-[[place-kulaywil|Kulaywil]]
+[[place-kulaywil|Kulaiwil]]
 : Canoe Place, the greatest harbor
 
 [[place-shuqwil|Shuqwil]]
@@ -61,7 +61,7 @@ The danger comes from the north. The Cedar People's war canoes come down the coa
 [[place-hipalhalaq|Hipal Halaq]]
 : the Crossing Shore, where the dead go down to the sea
 
-[[place-tikoqhipay|Tikoq Hipay]]
+[[place-tikoqhipay|Tikoq Hipai]]
 : the North Door, the town that faces the raiders
 
 [[place-northkiichchik|Northern Kì'ìch'chik]]

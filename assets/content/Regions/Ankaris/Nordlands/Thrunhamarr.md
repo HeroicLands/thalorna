@@ -289,7 +289,7 @@ hollva, dirna hlusi‼/
 luvra snirna af sarnstevna gang inn‼/
 vidma hav smeld na nivi smivma./
 tarka hav snura or skervma, svarti./
-skip thriv tvar skarey./
+skip thriv tvar skarei./
 hafra vindri farn af hafrand./
 vrenda skarva skarth hondflad./
 arviri halv krast hondi lagri./

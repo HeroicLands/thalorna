@@ -3,7 +3,7 @@ shortcode: ganomublhfrd
 name: {full: Ganomu Balehfardu}
 type: being
 subType: npc
-description: "A commoner woman of the delta in the Zeghet'Nelgu, not of the Meglay, and never allowed by the others to forget either"
+description: "A commoner woman of the delta in the Zeghet'Nelgu, not of the Meglai, and never allowed by the others to forget either"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Ganomu Balehfardu is a 39-year-old woman who stands 5'7" tall with a medium buil
 
 # Dossier {#dossier}
 
-Ganomu Balehfardu is a commoner woman of the delta, affiliated with the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] and home in [[place-galezkara|Galezkara]]. She is not of the Meglay, and the others in the company do not let her forget it. Anyone new to the company learns that line before they learn much else about her.
+Ganomu Balehfardu is a commoner woman of the delta, affiliated with the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] and home in [[place-galezkara|Galezkara]]. She is not of the Meglai, and the others in the company do not let her forget it. Anyone new to the company learns that line before they learn much else about her.

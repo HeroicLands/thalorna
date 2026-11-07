@@ -95,7 +95,7 @@ The Kingdom of Malagna holds the land of [[place-malagna|Malagna]], and its crow
 
 ## How Malagna Is Ruled
 
-Malagna keeps the same law as its sister kingdoms: a crown that the ting can take back. Hlurthann III was acclaimed at the ting like every king before him and answers to the same assembly for every arm-ring he is handed back. He sits with the other four kings on [[place-domsey|Domsey]], and four jarls' seats stand behind his.
+Malagna keeps the same law as its sister kingdoms: a crown that the ting can take back. Hlurthann III was acclaimed at the ting like every king before him and answers to the same assembly for every arm-ring he is handed back. He sits with the other four kings on [[place-domsey|Domsei]], and four jarls' seats stand behind his.
 
 Below the king, a _jarl_ holds a province by his grant, a _hersvald_ answers for a district by its consent, and a _bundi_ holds his odel land by inheritance. A _landvordur_ collects the king's dues and holds his courts, and in every haven a _harbor-reeve_ takes the tolls and settles disputes on the wharves. At Gnarthborg that second office is a diplomat's job as much as a collector's: the town's hersvaldar and harbor-reeves spend as much of their working lives brokering a toll dispute with a foreign factor as they do mustering men for the king.
 

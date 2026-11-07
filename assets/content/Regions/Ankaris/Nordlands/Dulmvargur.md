@@ -3,7 +3,7 @@ shortcode: dulmvargur
 name: {full: Dulmvargur, en: [The Grave-Hound]}
 type: lore
 subType: theology
-description: "The hound chained at the landing of Nulthey, Eidgar's long-chained adversary, which breaks loose at Aldarlok and dies with him."
+description: "The hound chained at the landing of Nulthei, Eidgar's long-chained adversary, which breaks loose at Aldarlok and dies with him."
 tags: [asguardian, draft]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
@@ -12,7 +12,7 @@ There are two chained beasts in the telling of [[lore-aldarlok|Aldarlok]], and a
 
 ## The Hound at the Landing
 
-In the telling, Dulmvargur lies chained at the landing of [[place-nulthey|Nulthey]], the island where the dead who kept nothing pass to fade. It does not keep the dead out; nobody needs to be kept out of Nulthey. It keeps them in. A Hofgudi at [[place-logstead|Logstead]], where the hov of the [[affiliation-eidgar|Faith of Eidgar]] and the kingdom's ting sit under one roof, teaches the hound as the law's oldest problem made into a beast: a judgment that holds a man must hold him for as long as the judgment stands, and a chain is only as good as the hand on its other end.
+In the telling, Dulmvargur lies chained at the landing of [[place-nulthey|Nulthei]], the island where the dead who kept nothing pass to fade. It does not keep the dead out; nobody needs to be kept out of Nulthei. It keeps them in. A Hofgudi at [[place-logstead|Logstead]], where the hov of the [[affiliation-eidgar|Faith of Eidgar]] and the kingdom's ting sit under one roof, teaches the hound as the law's oldest problem made into a beast: a judgment that holds a man must hold him for as long as the judgment stands, and a chain is only as good as the hand on its other end.
 
 Nobody has seen it, and the tellings describe it by what it does rather than what it looks like. It bays when a ship of the unworthy dead touches the shore, and the skalds say a dying oath-breaker hears that baying before he hears anything else. It is a hound and not a wolf, which is the one point of its shape every hall agrees on.
 
@@ -36,7 +36,7 @@ The halls draw a lesson for the living from the pair. An outlaw at the ting is a
 [[lore-vetrulfur|Vetrulfur]]
 : the other chained beast, which takes Odvar
 
-[[place-nulthey|Nulthey]]
+[[place-nulthey|Nulthei]]
 : Nahild's island, where the hound lies chained
 
 [[lore-aldarlok|Aldarlok]]

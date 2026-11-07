@@ -45,7 +45,7 @@ About two million people live in the Nordlands, along the coasts and the inland 
 | [[affiliation-kingdmtrgd\|Targud]]    | ~300,000 | [[place-tvalgard\|Tvalgard]]       | the Grukar frontier and its rotating forts |
 | [[affiliation-kngdmvthgrd\|Vithgard]] | ~300,000 | [[place-thrunborg\|Thrunborg]]     | whaling, sealing and its seers             |
 
-[[affiliation-kngdmnrdhm|Nordheim]] is pre-eminent. It is more than half again as populous as [[affiliation-kingdmnrgd|Norgaad]], the next kingdom, and that one fact gives northern politics its shape. Nordheim holds [[place-domsey|Domsey]], the island of the septennial assembly, and its king usually convenes it. Norgaad, at the center, brokers between west and east, and its Lawspeaker can call a [Great Moot]{.name data-type="lore/gathering"} at [[place-asgarthul|Asgarthul]] when a kingdom wants a meeting between the septennial assemblies. [[affiliation-kingdomlgn|Malagna]] faces the northern ocean and trades furthest abroad. [[affiliation-kingdmtrgd|Targud]] lives with one hand on a weapon against the [[lore-grukarfolk|Grukar]] on its eastern border. [[affiliation-kngdmvthgrd|Vithgard]], small and scattered along the western coast, sends its whale-oil to lamps across the north.
+[[affiliation-kngdmnrdhm|Nordheim]] is pre-eminent. It is more than half again as populous as [[affiliation-kingdmnrgd|Norgaad]], the next kingdom, and that one fact gives northern politics its shape. Nordheim holds [[place-domsey|Domsei]], the island of the septennial assembly, and its king usually convenes it. Norgaad, at the center, brokers between west and east, and its Lawspeaker can call a [Great Moot]{.name data-type="lore/gathering"} at [[place-asgarthul|Asgarthul]] when a kingdom wants a meeting between the septennial assemblies. [[affiliation-kingdomlgn|Malagna]] faces the northern ocean and trades furthest abroad. [[affiliation-kingdmtrgd|Targud]] lives with one hand on a weapon against the [[lore-grukarfolk|Grukar]] on its eastern border. [[affiliation-kngdmvthgrd|Vithgard]], small and scattered along the western coast, sends its whale-oil to lamps across the north.
 
 Between Nordheim and Vithgard lies [[place-hringstead|Hringstead]], neutral ground guaranteed by all five kingdoms. The mercenary [[affiliation-malldbndlg|Málalidabandalag]] keeps its Hall there, and [[affiliation-skaldscrcl|the Skalds' Circle]] counts it as the place where it was sworn, five generations before any present kingdom.
 
@@ -67,7 +67,7 @@ The Nordmen are overwhelmingly human and fiercely independent. They live in clan
 
 A visitor sees how old this country is before anyone tells him. Hall-posts carried from a family's former hall stand in the walls of its new one; the howes hold the old dead, and carved stones on the headlands name in runes the ones the sea kept; and at [[lore-sumarmal|Somarmál]] neighbors walk their boundary stones together and strike each one so that both households can say where the line lies. [[place-horgsvangur|Horgsvangur]], an altar-field in the Nordheim interior, is said to be centuries older than any present kingdom. The skalds recite genealogies that run back past every one of them.
 
-The ting is the nearest thing the Nordlands have to a common institution. Every seventh year the five kings and their principal jarls meet on Domsey for the [King of All Clans]{.name data-type="affiliation/governmental"}, to settle quarrels between kingdoms, give judgments beyond any one kingdom's writ, and decide war and peace with the neighbors. The assembly keeps no officers and collects no revenue; its weight is the rulers gathered on the island and what follows for a crown that refuses them.
+The ting is the nearest thing the Nordlands have to a common institution. Every seventh year the five kings and their principal jarls meet on Domsei for the [King of All Clans]{.name data-type="affiliation/governmental"}, to settle quarrels between kingdoms, give judgments beyond any one kingdom's writ, and decide war and peace with the neighbors. The assembly keeps no officers and collects no revenue; its weight is the rulers gathered on the island and what follows for a crown that refuses them.
 
 Personal honor comes first. A Nordman's reputation is the most valuable thing he owns, and an insult or a betrayal can begin a blood feud that runs for generations. The same culture allows a real rise: a clever or brave commoner who earns a jarl's notice can climb, and a weak jarl's grown children can find themselves ruled by a cousin who proved more capable. Women hold more autonomy here than in most Ankarian cultures. They manage estates while the ships are away, own property in their own right, can initiate divorce, and some take up arms as shield-maidens whose skill earns the respect any warrior's does. The [[lore-nordheimnclt|Nordheimn]] culture note follows what a person owes and is owed.
 
@@ -99,18 +99,18 @@ Far to the south, Midhalión is the great market. Nordmen traders and mercenarie
 
 ## What the Skalds Count
 
-The north dates by sittings. The five kings have met on Domsey every seventh year since 287, and a Nordman gives a year as "the thirty-fourth sitting" or "two sittings before the fleets went south"; [[lore-domseycount|the Domsey Count]] sets out the reckoning, the four turns of the year, and the ages the skalds divide the past into. Before the sittings there were hall-lords and no kings, and the [[doc-heroessgrd|Heroes of Asguard]] belong to that age, sung whether or not they lived. The kings came between 260 and 285, when the hall-lords combined against the Vilérian forts in the forest to the south and for the southern silver, and the first time the five met they killed each other on the strand of the island, which is why swords stay in the boats and why the island is a blood-field ([[lore-nordfirstsit|The First Sitting on Domsey]]).
+The north dates by sittings. The five kings have met on Domsei every seventh year since 287, and a Nordman gives a year as "the thirty-fourth sitting" or "two sittings before the fleets went south"; [[lore-domseycount|the Domsei Count]] sets out the reckoning, the four turns of the year, and the ages the skalds divide the past into. Before the sittings there were hall-lords and no kings, and the [[doc-heroessgrd|Heroes of Asguard]] belong to that age, sung whether or not they lived. The kings came between 260 and 285, when the hall-lords combined against the Vilérian forts in the forest to the south and for the southern silver, and the first time the five met they killed each other on the strand of the island, which is why swords stay in the boats and why the island is a blood-field ([[lore-nordfirstsit|The First Sitting on Domsei]]).
 
 The two great crowns fought each other for two generations and settled it under the ice of [[place-skalfvatan|Skalfvatan]] and in the hall at Asgarthul, which is where Norgaad's Great Moot comes from ([[lore-nordkinwars|The Kin-Wars]]). Then [[lore-threewinters|the Three Winters]] ran together, the old went over the fell, and the north sent every hull it had south with the hunger behind it ([[lore-southrnfleets|The Southern Fleets]]); the empire they burned hired them a generation later, and the free companies signed their [[lore-compactsignd|Compact]] at Hringstead. Targud's east burned under a Grukar horde and the kingdom moved its hall to the ridge and put every farmer on the wall in turn ([[lore-burningeast|The Burning of the East]]). Sixty years ago Nordheim took a plain across the sea ([[lore-stormveldtkn|The Taking of Stormveld]]), and in the generation since, Vithgard's king died with two sons ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]) and Nordheim's settlers planted their posts in a Varokh grove ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]).
 
-Three fields of the dead lie in the north, Domsey, Skalfvatan and [[place-dvulgvangur|Dvulgvangur]], and a fourth that northern hands made in [[place-provenzrgn|Provénzia]]; [[lore-bloodfield|Blood-fields]] says what a _vrellvoll_ is and what the halls do about one. The sixty-third sitting is due at the next Somarmál, with Malagna's crown unsettled, Vithgard's truce waiting on a funeral and the sea going wrong, and every kingdom's history, from [[lore-nrdhmhstry|Nordheim]]'s to [[lore-vthgdhstry|Vithgard]]'s, ends on a question the sitting will have to hear.
+Three fields of the dead lie in the north, Domsei, Skalfvatan and [[place-dvulgvangur|Dvulgvangur]], and a fourth that northern hands made in [[place-provenzrgn|Provénzia]]; [[lore-bloodfield|Blood-fields]] says what a _vrellvoll_ is and what the halls do about one. The sixty-third sitting is due at the next Somarmál, with Malagna's crown unsettled, Vithgard's truce waiting on a funeral and the sea going wrong, and every kingdom's history, from [[lore-nrdhmhstry|Nordheim]]'s to [[lore-vthgdhstry|Vithgard]]'s, ends on a question the sitting will have to hear.
 
 ## See Also
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : the five Nordmal kingdoms
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the reckoning and the ages of the north
 
 [[lore-nordheimnclt|Nordheimn]]
@@ -122,7 +122,7 @@ Three fields of the dead lie in the north, Domsey, Skalfvatan and [[place-dvulgv
 [[lore-aldarhringur|Aldarhringur]]
 : the ring of ages, the making of the world and the gods' heirs
 
-[[place-domsey|Domsey]]
+[[place-domsey|Domsei]]
 : the ting island of the King of All Clans
 
 [[place-hringstead|Hringstead]]

@@ -28,11 +28,11 @@ The legion buys everything the town makes: bread, beer, boots, rope, washing and
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The commander of the legion, the Vandraks, rules Kaermouth in all but name. The town has no magistrate of its own, and the camp's provosts keep its order. [[being-godstanhrdl|Godstan Hardley]] holds the command, and his word is the town's law.
+The commander of the legion, the Vandraks, rules Kaermouth in all but name. The town has no magistrate of its own, and the camp's provosts keep its order. [[being-godstanhrdl|Godstan Hardlei]] holds the command, and his word is the town's law.
 
 ## The Present {#present}
 
-The tribes of the forest burned two watch-burgs north of the river in the autumn and killed their crews. Godstan Hardley has answered with patrols into the trees and wants another legion sent north for the spring. The Senate has voted him the levy and not the pay, and highland recruits are coming down to a camp that has no money to feed them.
+The tribes of the forest burned two watch-burgs north of the river in the autumn and killed their crews. Godstan Hardlei has answered with patrols into the trees and wants another legion sent north for the spring. The Senate has voted him the levy and not the pay, and highland recruits are coming down to a camp that has no money to feed them.
 
 One of the two tavoi of the year, [[being-alfmundkrtn|Alfmund Kaerton]], has come north to take the field command for the spring, and he and Godstan disagree about what the patrols are for.
 
@@ -52,5 +52,5 @@ The republic raised the camp a generation after the rising at Thornbury, when th
 [[place-pshtrwldrns|Peshtar Wilderness]]
 : the forest north of the river
 
-[[being-godstanhrdl|Godstan Hardley]]
+[[being-godstanhrdl|Godstan Hardlei]]
 : the Vandraks

@@ -41,8 +41,8 @@ The kingdom holds the eastern shore of [[place-eilissa|Lake Eilìssa]], the grea
 [[place-sunnerslade|Sunnerslade]]
 : the vine slopes in the lee of the Ironfells.
 
-[[place-greylevels|The Greylevels]]
-: the tidal lowlands, with the river port of [[place-greywater|Greywater]].
+[[place-greylevels|The Greilevels]]
+: the tidal lowlands, with the river port of [[place-greywater|Greiwater]].
 
 [[place-wyndmarch|The Wiindmarch]]
 : the northern march under the Ironfells and the Sunderfells, with the fortress of [[place-caerwynd|Kaerwiind]] and the old royal seat of [[place-kingsholow|Kingshollow]].
@@ -52,7 +52,7 @@ The kingdom holds the eastern shore of [[place-eilissa|Lake Eilìssa]], the grea
 
 ## Current Situation {#present}
 
-The kingdom is quarreling with itself. [[being-aldrikdrthng|King Aldrik]] wants the council of barons to accept his young son as king-to-be in his own lifetime, and [[being-godwaldstrl|Godwald Storley]], the Elder of the Council, holds the barons against it, because the crown has always been theirs to give at each vacancy. The barons' levies reach the Wiindmarch late and short while the quarrel lasts, and the march holds the Stormveld passes and the forest margin with fewer men each season. On the lake the barons of the eastern shore and the free village of [[place-koldmere|Koldmere]] dispute the reed-beds at its northern end, and on the coast every hull out of Greywater still calls at [[place-ravenmoor|Ravenmoor]] before it may sail for the mainland.
+The kingdom is quarreling with itself. [[being-aldrikdrthng|King Aldrik]] wants the council of barons to accept his young son as king-to-be in his own lifetime, and [[being-godwaldstrl|Godwald Storlei]], the Elder of the Council, holds the barons against it, because the crown has always been theirs to give at each vacancy. The barons' levies reach the Wiindmarch late and short while the quarrel lasts, and the march holds the Stormveld passes and the forest margin with fewer men each season. On the lake the barons of the eastern shore and the free village of [[place-koldmere|Koldmere]] dispute the reed-beds at its northern end, and on the coast every hull out of Greiwater still calls at [[place-ravenmoor|Ravenmoor]] before it may sail for the mainland.
 
 ## See Also
 

@@ -20,7 +20,7 @@ A bead (_shuq_) is a disk of shell ground smooth and drilled through the middle,
 
 A strand (_hamil_) is a cord of beads long enough to reach once around a grown hand, a little shorter than a forearm. It is the unit of every price, and the beads in it are not counted one by one: a strand is full or it is short. Loose beads make up the difference and pay for small things, a fish or a handful of seeds.
 
-Each town's counter (_alpilik_) keeps a measuring cord of a full strand's length. At every midwinter, at the [Holding of the Sun]{.name data-type="lore/gathering"}, the counters bring their cords to [[place-kulaywil|Kulaywil]] to be checked against the [Measure of Kulaywil]{.name data-type="lore/custom"}, the cord of exact length the astronomer-priests keep. A cord found short is cut and retied in front of the gathered chiefs, and every debt in every town is counted in those days.
+Each town's counter (_alpilik_) keeps a measuring cord of a full strand's length. At every midwinter, at the [Holding of the Sun]{.name data-type="lore/gathering"}, the counters bring their cords to [[place-kulaywil|Kulaiwil]] to be checked against the [Measure of Kulaiwil]{.name data-type="lore/custom"}, the cord of exact length the astronomer-priests keep. A cord found short is cut and retied in front of the gathered chiefs, and every debt in every town is counted in those days.
 
 The best strands come from Shuqwil. Its counter, [[being-ayulchim|Ayulchim]], cuts and restrings any strand that is short before it leaves her doorway, so mainland traders pay a little more for a Shuqwil strand, and a full-length strand anywhere on the coast is called "an Ayulchim strand".
 

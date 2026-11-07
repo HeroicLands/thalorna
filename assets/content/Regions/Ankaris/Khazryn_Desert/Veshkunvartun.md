@@ -34,7 +34,7 @@ The knocking leaves marks. In the morning the outer face of the cedar is scored 
 
 ## What the People Say
 
-- **The warden's account.** The settlers who keep the gate say that the knocker is the champion of [[lore-velkunsong|The Song of the Lost Town]], [Berniray]{.name data-type="being/npc"}, come back to wake the house. They say it with the flat patience of people who have said it many times and are tired of being the only ones who believe it.
+- **The warden's account.** The settlers who keep the gate say that the knocker is the champion of [[lore-velkunsong|The Song of the Lost Town]], [Bernirai]{.name data-type="being/npc"}, come back to wake the house. They say it with the flat patience of people who have said it many times and are tired of being the only ones who believe it.
 - **The Shekhul's account.** The priest of the settlement holds that it is not the champion. Berniray lived, served the [House of Kethramír]{.name data-type="affiliation/lineage"} and died in his bed with his name read. What stands at the gate has the oath in its mouth and nothing behind it. It is a thing that learned words from the dead and wears them, and the Shekhul calls it by the Tellumi word for what it is, the **Gate-dead**, _Vartunnilvur_.
 - **The rival houses' account.** The exiled houses in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] say the whole matter is a story the [House of Vahurdash]{.name data-type="affiliation/lineage"} tells to keep strangers from the cellars, and one of them has paid a man to find out.
 - **The caravan yards' account.** Cloth-tellers in Kethramír add a verse to the song when the audience can be trusted with it. The verse says that the keepers of the record-house are still keeping, and that they have not been told they may stop.

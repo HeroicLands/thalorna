@@ -121,7 +121,7 @@ Galezkara answers to three powers at once, and the friction between them is the 
 - **The Zeglar**, chief minister and supreme judge, runs the civil administration of the city and of the empire through the ministry of [[affiliation-garzeglar|Gar-Zeglar]], from his bureaus in Gar-Medjatozo. He is in all but name the mayor of the capital, and the second man in the realm.
 - The great temples cut across both. Each major temple precinct is a near-sovereign enclave that owns its lands, feeds its own people, keeps its own guards and courts, and answers to its high priest before it answers to the city. A fugitive who reaches temple ground, or a dispute that touches a god's estate, passes out of the Zeglar's hands entirely.
 
-The [Meglay]{.name data-type="affiliation/governmental"}, the standing city guard, keeps order in the public city. It is separate from the army and separate again from the necropolis guard across the water. Its men walk the quarters and the quays, guard the gates of the walled enclosures after dark, chase thieves, break up brawls and double as the fire-watch; their posts stand in every district, the largest by the markets and the harbor where trouble gathers.
+The [Meglai]{.name data-type="affiliation/governmental"}, the standing city guard, keeps order in the public city. It is separate from the army and separate again from the necropolis guard across the water. Its men walk the quarters and the quays, guard the gates of the walled enclosures after dark, chase thieves, break up brawls and double as the fire-watch; their posts stand in every district, the largest by the markets and the harbor where trouble gathers.
 
 Justice runs in tiers below the Zeglar. A magistrate's court, the local Genzet, sits in each quarter and hears market disputes, debts and petty crime under the eye of [[lore-qearetdty|Qe'aret]]; graver matters of blood and theft rise to the higher courts; and anything touching a temple, a noble house or the crown leaves the civic system altogether. Here as everywhere the law bends to the right name and the right purse. In a city this closely watched, the wrong enemies are as dangerous as the wrong crimes.
 
@@ -137,13 +137,13 @@ A city on the greatest river in the world still minds its water. The river runs 
 
 Bread comes from upstream. The grain of [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]] and the upper river is barged down, stored in the city's great granaries, and given out in part as a dole to temple dependents, the flood-season work-gangs and the registered poor. As in any capital, the dole is statecraft as much as charity: a hungry Galezkara is a dangerous one, and whoever controls the granaries holds a lever on the city's peace—a lesson written in stone across the water on the cursed road.
 
-Fire is a lesser hazard here than in the timber cities of the west, because mudbrick does not burn. Roofs, market stalls, workshops and above all the grain-dust of the granaries do, and a blaze in the crowded craft quarters of Lut-Lemu can run from lane to lane before the Meglay's fire-gangs and the walled enclosures between districts pen it in.
+Fire is a lesser hazard here than in the timber cities of the west, because mudbrick does not burn. Roofs, market stalls, workshops and above all the grain-dust of the granaries do, and a blaze in the crowded craft quarters of Lut-Lemu can run from lane to lane before the Meglai's fire-gangs and the walled enclosures between districts pen it in.
 
 ## The Underworld
 
 The capital's signature crime is tomb robbery, an old and organized trade with its roots in the necropolis itself. The people best placed to plunder the dead are the guilds and priesthoods sworn to tend them, and a corrupt keeper, a bribed guard, or a craftsman who never forgot a tomb's hidden door is worth more to a robbing ring than any outside thief. The yield—grave-gold melted and recast, amulets, funerary papyri, "recovered" stone—moves through fences in the markets and out through the harbor with the foreign factors, and the Gar-Hálzi money-changers ask few questions of old gold. Around it runs the ordinary underworld of any great port capital: smugglers dodging the temple and crown monopolies, dock-gang protection rackets, and forgers who supply the courts with false deeds and the tombs with false provenances.
 
-Below the common crime are the forbidden cults, the rites the temples have outlawed and driven underground, with the worship of the chaos-serpent [[lore-azuathisdty|Azu'athis]] foremost among them. The Meglay and the temple-inquisitors hunt them without rest, and most of what they find is harmless desperation. The one the priesthood of Uqa'a fears in its bones is the small, hidden sect that means to break the order of the dead outright: the cult that seeks the cursed road across the water and would wake the [[being-falseuqaa|False Uqa'a]] (see [[place-zugezer|Zu-Gezer]]). The temple keeps the existence of any such cult a close secret, and it is the reason the order to kill on sight on the cursed road has never once been relaxed.
+Below the common crime are the forbidden cults, the rites the temples have outlawed and driven underground, with the worship of the chaos-serpent [[lore-azuathisdty|Azu'athis]] foremost among them. The Meglai and the temple-inquisitors hunt them without rest, and most of what they find is harmless desperation. The one the priesthood of Uqa'a fears in its bones is the small, hidden sect that means to break the order of the dead outright: the cult that seeks the cursed road across the water and would wake the [[being-falseuqaa|False Uqa'a]] (see [[place-zugezer|Zu-Gezer]]). The temple keeps the existence of any such cult a close secret, and it is the reason the order to kill on sight on the cursed road has never once been relaxed.
 
 ## Notable Features
 
@@ -168,7 +168,7 @@ The central bureaucracy and scribal schools
 Wal-Igelu
 : the Drowned Way, a dead river channel turned into a chain of noble pleasure gardens
 
-The Meglay and the Zeglar's courts
+The Meglai and the Zeglar's courts
 : the city guard and the tiered justice that keep order in a capital of half a million
 
 The tomb-robbing underworld

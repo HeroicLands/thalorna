@@ -91,7 +91,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 "The king owns less than you think and answers for more," a landvordur (king's reeve) tells the Vilérian factor riding the dues circuit with him out of [[place-knalthstead|Knalthstead]] for the first time. "He holds the realm while the ting keeps handing back his arm-ring. Every hall we stop at tonight knows that, and every one of them will tell me whether he is still worth the dues."
 
-The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]], on the northwestern coast of the [[place-nrdlndsrgn|Nordlands]], and it is the largest and first-ranked of the five [[lore-nordheimnclt|Nordmen]] kingdoms. About 650,000 people live under its crown, more than half again as many as in any of its sister kingdoms—the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]. Nordheim holds [[place-domsey|Domsey]], the island where all five meet every seventh year, and its king usually convenes them. An outsider knows it for its longship fleets.
+The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]], on the northwestern coast of the [[place-nrdlndsrgn|Nordlands]], and it is the largest and first-ranked of the five [[lore-nordheimnclt|Nordmen]] kingdoms. About 650,000 people live under its crown, more than half again as many as in any of its sister kingdoms—the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]. Nordheim holds [[place-domsey|Domsei]], the island where all five meet every seventh year, and its king usually convenes them. An outsider knows it for its longship fleets.
 
 ## How Nordheim Is Ruled
 
@@ -99,7 +99,7 @@ Nordheim is a hereditary monarchy with a ting tradition, and the second half of 
 
 Under the king the realm is held in layers, and the landvordur can recite them on horseback:
 
-- A _jarl_ holds a province by the king's grant, commands its levies and answers for its dues. The grant is the crown's to move, and seven jarls' seats stand behind the king's on Domsey.
+- A _jarl_ holds a province by the king's grant, commands its levies and answers for its dues. The grant is the crown's to move, and seven jarls' seats stand behind the king's on Domsei.
 - A _hersvald_ answers for a district, leading its men to the muster and speaking for them at the ting by their consent rather than by a king's grant. The district that raised him can set him aside.
 - A _bundi_ holds his odel land by inheritance, bears arms and speaks at the ting, and a ruling there binds the jarl over him as much as any free man.
 - A _landvordur_ is the king's reeve in a district, collecting the dues and holding the king's courts.
@@ -114,8 +114,8 @@ The standings run from [[lore-nidingrnk|niding]], the outlaw beyond the ting's p
 
 The crown has stayed in one clan since the acclamations: the [Knalthidrok]{.name data-type="affiliation/lineage"}, who keep the hall at Knalthstead and the royal howes on the slope below it. The ting chooses each king from among them, and a king's name rings the generations in its vowels as every Nordmal name does. The skalds recite the whole line at a sitting; these are the kings a newcomer hears of first.
 
-- [Svalthorv]{.name data-type="being/npc"}, about 270 to 287, the first king acclaimed, killed on the strand of Domsey at the first sitting ([[lore-nordfirstsit|The First Sitting on Domsey]]).
-- [Snilthorv]{.name data-type="being/npc"}, 287 to 318, his son, who took Domsey's keeping as his father's wergild and first convened the sittings.
+- [Svalthorv]{.name data-type="being/npc"}, about 270 to 287, the first king acclaimed, killed on the strand of Domsei at the first sitting ([[lore-nordfirstsit|The First Sitting on Domsei]]).
+- [Snilthorv]{.name data-type="being/npc"}, 287 to 318, his son, who took Domsei's keeping as his father's wergild and first convened the sittings.
 - [Thrildorv]{.name data-type="being/npc"}, about 455 to 481, who held the shore at [[place-skalfvatan|Skalfvatan]] when Malagna's host went through the ice ([[lore-nordkinwars|The Kin-Wars]]).
 - [Bruldmil]{.name data-type="being/npc"}, about 503 to 519, king of [[lore-threewinters|the Three Winters]], who swore the door-seat oath at the sitting of 518.
 - [Thraskmil]{.name data-type="being/npc"}, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
@@ -150,7 +150,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] has almost no presence in Nordheim. 
 
 Raiding, trade and migration set Nordheim's dealings with the rest of Ankaris. Its longships have struck as far south as the [[place-vylarianse|Vilérian Sea]], and its mercenaries serve in armies across the continent.
 
-Among the five kingdoms, Malagna is Nordheim's rival: the two have long vied for leadership of the Nordmen, and their dealings are fraternal and competitive at once. Norgaad, Targud and Vithgard stand neither with Nordheim nor against it, and meet it as equals on Domsey.
+Among the five kingdoms, Malagna is Nordheim's rival: the two have long vied for leadership of the Nordmen, and their dealings are fraternal and competitive at once. Norgaad, Targud and Vithgard stand neither with Nordheim nor against it, and meet it as equals on Domsei.
 
 Beyond the north, the [[lore-grukarfolk|Grukar]] to the east share the hard climate and little else, and the two peoples are often hostile. To the south, the forests of [[place-vrystwald|Vristwald]] are a contested frontier where Nordheim's settlers and the Varokh [[affiliation-vrystwldtrbs|tribes]] compete for ground.
 
@@ -166,7 +166,7 @@ Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vyl
 [[place-knalthstead|Knalthstead]]
 : the seat and the king's hall
 
-[[place-domsey|Domsey]]
+[[place-domsey|Domsei]]
 : the ting island the kingdom holds, where the King of All Clans sits
 
 [[lore-nrdhmhstry|Histories and Legends of Nordheim]]

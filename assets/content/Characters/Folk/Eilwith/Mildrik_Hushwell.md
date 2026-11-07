@@ -41,7 +41,7 @@ Mildrik Hushwell is a 55-year-old man of 5'6" and light build, with pale, clear 
 
 Mildrik Hushwell declares the law of the [[affiliation-repblcndrth|Republic of Ondareth]] for the year. He hears the suits the lesser courts will not, between senators, between shipping houses and between the republic and its citizens, in a side hall of the Senate house at [[place-thornbury|Thornbury]]. He is a careful jurist and knows the republic's law better than anyone in the chamber.
 
-He also sells his rulings, as every vornos before him has, and the city knows the price of a ruling for a senator and of one for a citizen. He bought his seat with [[being-harwingrymr|Harwin Greymore]]'s money, and he rules for Harwin's house when Harwin asks.
+He also sells his rulings, as every vornos before him has, and the city knows the price of a ruling for a senator and of one for a citizen. He bought his seat with [[being-harwingrymr|Harwin Greimore]]'s money, and he rules for Harwin's house when Harwin asks.
 
 ## Psyche
 
@@ -59,7 +59,7 @@ He knows the law, and he knows how to make a bought ruling read like a sound one
 
 ### Weaknesses
 
-He owes Harwin Greymore, and a vornos who rules for his creditor can be shown to have done it.
+He owes Harwin Greimore, and a vornos who rules for his creditor can be shown to have done it.
 
 ## Social
 
@@ -69,7 +69,7 @@ His clerks, and the advocates of the Senate house who know his prices.
 
 ### Patrons
 
-[[being-harwingrymr|Harwin Greymore]], the First Senator.
+[[being-harwingrymr|Harwin Greimore]], the First Senator.
 
 ### Enemies
 

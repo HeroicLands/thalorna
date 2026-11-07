@@ -425,7 +425,7 @@ Within Ashford's upper circles, she moves with ease and recognition. Merchants' 
 
 **Patrons:**
 
-- **Lord [[being-leofwingreyw|Mildstan Greywik]]**, a wealthy merchant lord with diverse trading interests who has been Dunith's most generous patron for five years. He views her with a mixture of affection and proprietary ownership that borders on controlling.
+- **Lord [[being-leofwingreyw|Mildstan Greiwik]]**, a wealthy merchant lord with diverse trading interests who has been Dunith's most generous patron for five years. He views her with a mixture of affection and proprietary ownership that borders on controlling.
 - **Lady [Mérindel Ashford]{.name data-type="being/npc"}**, wife of a minor noble, who funds Dunith's salons partly from appreciation and partly because attending them elevates her own social standing.
 
 **Enemies:**

@@ -1,6 +1,6 @@
 ---
 shortcode: greywater
-name: {full: Greywater}
+name: {full: Greiwater}
 type: place
 subType: settlement
 description: "Aldorath's river port on the tidal reach—the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."
@@ -14,8 +14,8 @@ data:
   government: kngdmldrth
 ---
 
-**Greywater** stands on the tidal reach of the river that drains the eastern part of the [[place-aldorathrgn|Aldorath Region]], at the point where
-sea-going hulls can come up and no further. It is the kingdom's outlet: what [[place-ashford|Ashford]] gathers, Greywater
+**Greiwater** stands on the tidal reach of the river that drains the eastern part of the [[place-aldorathrgn|Aldorath Region]], at the point where
+sea-going hulls can come up and no further. It is the kingdom's outlet: what [[place-ashford|Ashford]] gathers, Greiwater
 ships.
 
 ## The Trade
@@ -24,16 +24,16 @@ Wool, hides, salt-fish and timber go out; wine, iron, cloth and manufactures com
 by any standard but its own, and its shipmasters are competent, conservative and deeply attached to
 routes their grandfathers used.
 
-Every one of those routes now runs through [[place-ravenmoor|Ravenmoor]] first. Greywater hulls
+Every one of those routes now runs through [[place-ravenmoor|Ravenmoor]] first. Greiwater hulls
 bound for the mainland must call at the Dúnavarren capital to be inspected before they may leave, and
-must call again on the way home; Greywater regards this as an imposition, has regarded it so for
+must call again on the way home; Greiwater regards this as an imposition, has regarded it so for
 generations, and complies without exception. The town's opinion of the [[affiliation-dunavarsynod|Synod]] is unprintable and entirely
 private.
 
 ## The Water
 
 The name is honest. The river runs gray with the peat of the interior, the tidal flats below the town
-are extensive and treacherous, and pilotage into Greywater is a hereditary trade whose families guard
+are extensive and treacherous, and pilotage into Greiwater is a hereditary trade whose families guard
 their knowledge as closely as any guild.
 
 ## See Also

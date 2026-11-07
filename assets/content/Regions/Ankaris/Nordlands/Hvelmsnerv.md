@@ -296,7 +296,7 @@ hnat ir nod tiv thuv es na henva. ting hlun it eiv renma, hlustandi,/
 ok ir nod it staf tvei, nel nivi, likva staf eiv.
 
 skip es up. strandva stann berv./
-vrell na thurs lagna lurvi ok hlomi tiv skarey, noll dingi inn it./
+vrell na thurs lagna lurvi ok hlomi tiv skarei, noll dingi inn it./
 blet es lurmi at veturnetur ok vrellna,/
 kvilna lagna inn rukma na hroldi, raudva,/
 merv lagna siv inn bulla. noll lesma neng./
@@ -304,7 +304,7 @@ than es nottva. ir marl it likva it es, nura.
 
 dek ok tvei skip gang ut or hafra tiv hvelmfarda/
 farda gang siv thenva farn ut tiv sudva./
-bakma inn bratva hafskel likva eyva na rurna,/
+bakma inn bratva hafskel likva eiva na rurna,/
 noll vrenda halv fast. parathva farna./
 storg gnum stann or strandva miv regva inn sjel./
 hvelmgeir lagna inn hroldi miv markva ut,/
@@ -549,7 +549,7 @@ ok jarl tavr vri inn at grend miv tavrvid,/
 ok sumri na vri nel tharf tavrma thara./
 inn gronarva ting gang tiv dvarnvík, ok ir es kallarni,/
 ok ir marl it likva henva marlma, nel skurt ok nel lang./
-ul andra dingi es na ting ok skarey, nel na ir./
+ul andra dingi es na ting ok skarei, nel na ir./
 eldva lagna lurvi.
 :::
 

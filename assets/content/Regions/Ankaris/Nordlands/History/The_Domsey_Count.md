@@ -1,9 +1,9 @@
 ---
 shortcode: domseycount
-name: {full: The Domsey Count, en: [The Sitting-Count, The Count of the Sittings]}
+name: {full: The Domsei Count, en: [The Sitting-Count, The Count of the Sittings]}
 type: lore
 subType: calendar
-description: "How the Nordlands reckon years: counted from the first sitting of the King of All Clans on Domsey, divided by the four turns of the year, and dated by sittings, by winters notched on the Hnarvdal post, and by the ages the skalds name."
+description: "How the Nordlands reckon years: counted from the first sitting of the King of All Clans on Domsei, divided by the four turns of the year, and dated by sittings, by winters notched on the Hnarvdal post, and by the ages the skalds name."
 tags: [reference, calendar, nordlands]
 data:
   culture: nordheimnclt
@@ -51,7 +51,7 @@ data:
   packFolder: nordlands
 ---
 
-Ask a Nordman when a thing happened and he answers with a sitting: "the thirty-fourth sitting", "two sittings before the fleets went south", "the year before the sixty-third." **The Domsey count** is the reckoning behind the answer. It numbers the years from the first time the five kings sat together on [[place-domsey|Domsey]], in 287 AF by [[lore-commoncal|the Vilérian reckoning]], and because the kings have sat there every seventh year since, a year of the count divides by seven into a sitting. The present year is the four hundred and thirty-fourth of the count, written 434 PR, and the sixty-third sitting falls at the next [[lore-sumarmal|Somarmál]].
+Ask a Nordman when a thing happened and he answers with a sitting: "the thirty-fourth sitting", "two sittings before the fleets went south", "the year before the sixty-third." **The Domsei count** is the reckoning behind the answer. It numbers the years from the first time the five kings sat together on [[place-domsey|Domsei]], in 287 AF by [[lore-commoncal|the Vilérian reckoning]], and because the kings have sat there every seventh year since, a year of the count divides by seven into a sitting. The present year is the four hundred and thirty-fourth of the count, written 434 PR, and the sixty-third sitting falls at the next [[lore-sumarmal|Somarmál]].
 
 ## Three Ways to Date an Event
 
@@ -67,7 +67,7 @@ The year is divided by the sky rather than by the moon, into the four turns ever
 
 | Turn                            | Days | Opens on                       | What it holds                                                                                                                                     |
 | ------------------------------- | ---- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[lore-sumarmal\|Somarmál]]     | 122  | the first morning of summer    | ships to the water, warriors from winter quarters, cattle to the high pasture; the tings and the boundary walk; the sitting on Domsey in its year |
+| [[lore-sumarmal\|Somarmál]]     | 122  | the first morning of summer    | ships to the water, warriors from winter quarters, cattle to the high pasture; the tings and the boundary walk; the sitting on Domsei in its year |
 | [[lore-midsumar\|Midsomar]]     | 91   | the summer solstice            | the bonfires, the raiding and trading season, the hay and the whale strand                                                                        |
 | [[lore-veturnetur\|Veturnetur]] | 61   | the autumn turn                | the slaughter, the salting and the honoring of the dead; the sixty-one nights to midwinter                                                        |
 | [[lore-jol\|Jel]]               | 91   | the first of the twelve nights | the midwinter vigil, the Jel-Ride, the hero-sagas; then the long dark to the thaw                                                                 |
@@ -98,11 +98,11 @@ Everything older than the first sitting is written BS, and the skalds tell three
 
 **[The Age of Halls]{.name data-type="lore/calendar"}.** Every fjord was its own hall's, under a hall-lord and his gudi, with no king above them, and a district's ting kept its own peace. About a hundred and ten years after the Founding the hall-skalds swore the Circle at [[place-hringstead|Hringstead]], so that a judgment given in one fjord could be recited in another. The singers of the [[doc-heroessgrd|Heroes of Asguard]] set every hero's deeds in this age, "before the kings", and whether the heroes lived at all is a question the Circle leaves to the halls that claim them. [[place-odholm|Odholm]]'s hov claims this age for its founding, and the Hnarvdal post was first notched in it.
 
-**[[lore-nordfirstsit|The First Sitting on Domsey]].** Between about 260 and 285 the five district tings each acclaimed a king in the Acclamations, as The First Sitting tells, and in 287 the five kings met on Domsey and the count began.
+**[[lore-nordfirstsit|The First Sitting on Domsei]].** Between about 260 and 285 the five district tings each acclaimed a king in the Acclamations, as The First Sitting tells, and in 287 the five kings met on Domsei and the count began.
 
 ### The Five Crowns, 287 to 419
 
-The age of the new kings. Domsey was hallowed and given to the keeping of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] after the slaughter on its strand ([[lore-nordfirstsit|The First Sitting]]); [Snilthorv]{.name data-type="being/npc"} of the [Knalthidrok]{.name data-type="affiliation/lineage"} convened the first sittings; [[affiliation-eidhond|the Order of the Sworn Hand]] was founded at [[place-logstead|Logstead]] about 330, so that a district could get a ruling against its own jarl; and the captain in the [[place-thraldfjord|Thraldfjord]] ship-grave was laid in his howe. It ends when the succession of Nordheim's fifth king is claimed by a Malagnan cousin, the first of the dynastic quarrels the north has had since.
+The age of the new kings. Domsei was hallowed and given to the keeping of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] after the slaughter on its strand ([[lore-nordfirstsit|The First Sitting]]); [Snilthorv]{.name data-type="being/npc"} of the [Knalthidrok]{.name data-type="affiliation/lineage"} convened the first sittings; [[affiliation-eidhond|the Order of the Sworn Hand]] was founded at [[place-logstead|Logstead]] about 330, so that a district could get a ruling against its own jarl; and the captain in the [[place-thraldfjord|Thraldfjord]] ship-grave was laid in his howe. It ends when the succession of Nordheim's fifth king is claimed by a Malagnan cousin, the first of the dynastic quarrels the north has had since.
 
 ### The Kin-Wars, 420 to 511
 
@@ -130,10 +130,10 @@ Nobody by office. The Lawspeakers of the five kingdoms count the sittings, becau
 
 ## See Also
 
-[[lore-nordfirstsit|The First Sitting on Domsey]]
+[[lore-nordfirstsit|The First Sitting on Domsei]]
 : the year the count begins
 
-[[place-domsey|Domsey]]
+[[place-domsey|Domsei]]
 : the island and the sitting
 
 [[place-hnarvdal|Hnarvdal]]

@@ -60,7 +60,7 @@ The household sits at table as it has for ninety years, and travelers still come
 
 :::secret {title="The east wing and the ledgers"}
 
-- **The midwinter silver.** The ledgers under the cistern record the silver sent each midwinter to the House of Ashkarad at Amradad, whose head, [Nimeshay of Ashkarad]{.name data-type="being/npc"}, quietly funds Tellumi agitation in the held cities. A Teghumod factor who could show where the house's silver comes from would hold the exile house by its purse.
+- **The midwinter silver.** The ledgers under the cistern record the silver sent each midwinter to the House of Ashkarad at Amradad, whose head, [Nimeshai of Ashkarad]{.name data-type="being/npc"}, quietly funds Tellumi agitation in the held cities. A Teghumod factor who could show where the house's silver comes from would hold the exile house by its purse.
 
 :::
 

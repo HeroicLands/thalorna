@@ -62,17 +62,17 @@ The **House of Zargandur** is the war-house of the [[affiliation-khzrncnfdrtn|Te
 
 On the last morning of Zargandur the house's cavalry rode out of the north gate to meet the [Zhoqarod]{.name data-type="affiliation/polity"} host, and it was killed on the pasture to the last rider, the house's princes among them. The ground is the [[place-henhulpedin|Henhutpedin]], the blood-field, and the names of the riders were never read over them. The house keeps those names on its tablet. The princes' signets lie with the palace household in the trench at [[place-relvanvesul|Relvanvesut]], and the house would give a great deal for one signet to prove who died in the palace and where.
 
-The heir is [Gureshay of Zargandur]{.name data-type="being/npc"}, twenty-seven, who trains as a soldier in the Kingdom's own forces. Kingdom law forbids the exile retinues any military activity, so the Kingdom's ranks are the one place in Amradad a Tellumi prince can learn war in the open. He is widely understood to be preparing for a reclamation, though he has set no date, and the militant faction of the exile community organizes round him more each year. His preparations are the only serious military planning the Confederation does.
+The heir is [Gureshai of Zargandur]{.name data-type="being/npc"}, twenty-seven, who trains as a soldier in the Kingdom's own forces. Kingdom law forbids the exile retinues any military activity, so the Kingdom's ranks are the one place in Amradad a Tellumi prince can learn war in the open. He is widely understood to be preparing for a reclamation, though he has set no date, and the militant faction of the exile community organizes round him more each year. His preparations are the only serious military planning the Confederation does.
 
 ## What It Wants, and Who Stands in the Way {#present}
 
-The house wants Zargandur, and it is the one house that talks about taking it. For that it needs what Gureshay cannot learn in Amradad: how many men the Zhoqarod keep at each gate, at the weirs and on the three bridges, and how fast the garrison can be reinforced from the pastures north of the city.
+The house wants Zargandur, and it is the one house that talks about taking it. For that it needs what Gureshai cannot learn in Amradad: how many men the Zhoqarod keep at each gate, at the weirs and on the three bridges, and how fast the garrison can be reinforced from the pastures north of the city.
 
-Its enemy is plain. The Zhoqarod are the largest and most martial of the twelve tribes, they hold Zargandur as a garrison city behind walls they raised higher after the war, and they give the tribes their Zhudek (judge) more often than any other tribe. At the [[affiliation-cnclprinces|Council of the Princes]] the house's opponent is caution. The Council neither endorses Gureshay's preparations nor forbids them, its private consensus is that no reclamation will come in this generation, and the [[affiliation-hsemernagord|House of Mernagord]], whose prince talks to Atarzád merchants, is the house most opposed to the young man's plans.
+Its enemy is plain. The Zhoqarod are the largest and most martial of the twelve tribes, they hold Zargandur as a garrison city behind walls they raised higher after the war, and they give the tribes their Zhudek (judge) more often than any other tribe. At the [[affiliation-cnclprinces|Council of the Princes]] the house's opponent is caution. The Council neither endorses Gureshai's preparations nor forbids them, its private consensus is that no reclamation will come in this generation, and the [[affiliation-hsemernagord|House of Mernagord]], whose prince talks to Atarzád merchants, is the house most opposed to the young man's plans.
 
 ## Hooks
 
-- **The count.** Gureshay pays in Amradad for a true count of the Zhoqarod at every gate of Zargandur. A party caught counting is treated as spies.
+- **The count.** Gureshai pays in Amradad for a true count of the Zhoqarod at every gate of Zargandur. A party caught counting is treated as spies.
 - **A signet.** The court pays a fortune for a prince's signet out of the trench at [[place-relvanvesul|Relvanvesut]], where raiders already dig and the dead have begun to come out.
 
 ## See Also

@@ -42,26 +42,26 @@ data:
         - "Hevuna"
         - "Karvema"
       male:
-        - "Vurinay"
-        - "Teyutay"
-        - "Garmeshay"
-        - "Kenbeshay"
-        - "Lirunay"
-        - "Hevunay"
-        - "Talhishay"
-        - "Gureshay"
-        - "Pedunay"
-        - "Kireshay"
-        - "Karvemay"
-        - "Kervishay"
-        - "Tenhuray"
-        - "Vemunay"
-        - "Garvanay"
-        - "Tarlimay"
-        - "Revunay"
-        - "Budishay"
-        - "Hageshay"
-        - "Bamdenay"
+        - "Vurinai"
+        - "Teyutai"
+        - "Garmeshai"
+        - "Kenbeshai"
+        - "Lirunai"
+        - "Hevunai"
+        - "Talhishai"
+        - "Gureshai"
+        - "Pedunai"
+        - "Kireshai"
+        - "Karvemai"
+        - "Kervishai"
+        - "Tenhurai"
+        - "Vemunai"
+        - "Garvanai"
+        - "Tarlimai"
+        - "Revunai"
+        - "Budishai"
+        - "Hageshai"
+        - "Bamdenai"
     house:
       - "Tashbemun"
       - "Nineshun"
@@ -104,7 +104,7 @@ data:
     - {form: -el, gloss: a land or country}
     - {form: -ash, gloss: a city or town}
     - {form: -un, gloss: a house or line}
-    - {form: -ay, gloss: a man's given name, kind: name, given: man}
+    - {form: -ai, gloss: a man's given name, kind: name, given: man}
     - {form: -a, gloss: a woman's given name, kind: name, given: woman}
   tongues:
     - tag: tellumi
@@ -328,11 +328,11 @@ data:
       field: Derived words
       gloss: "the lost one: the ruin of old Vahurdash"
       built: [veshkun]
-    - form: Vurinay
+    - form: Vurinai
       class: name
       field: Derived words
       gloss: "a man's name: holy"
-      built: [vurin, -ay]
+      built: [vurin, -ai]
     - form: Lisena
       class: name
       field: Derived words
@@ -373,66 +373,66 @@ data:
       field: Derived words
       gloss: "road-nights: a caravan-master's tales told stage by stage"
       built: [tarlim, nurmesh]
-    - form: Berniray
+    - form: Bernirai
       class: name
       field: Derived words
       gloss: "a man's name: oath; the champion of the song of the lost town"
-      built: [bernir, -ay]
-    - form: Revunay
+      built: [bernir, -ai]
+    - form: Revunai
       class: name
       field: Derived words
       gloss: "a man's name: return; Berniray's son"
-      built: [revun, -ay]
-    - form: Sunhemay
+      built: [revun, -ai]
+    - form: Sunhemai
       class: name
       field: Derived words
       gloss: "a man's name: gold; the last prince of old Vahurdash"
-      built: [sunhem, -ay]
+      built: [sunhem, -ai]
     - form: Minesha
       class: name
       field: Derived words
       gloss: "a woman's name: star; Berniray's wife"
       built: [minesh, -a]
-    - form: Tarlimay
+    - form: Tarlimai
       class: name
       field: Derived words
       gloss: "a man's name: road; a caravan-master of Kethramír"
-      built: [tarlim, -ay]
-    - form: Kireshay
+      built: [tarlim, -ai]
+    - form: Kireshai
       class: name
       field: Derived words
       gloss: "a man's name: spear; a rider of the war-house"
-      built: [kiresh, -ay]
-    - form: Budishay
+      built: [kiresh, -ai]
+    - form: Budishai
       class: name
       field: Derived words
       gloss: "a man's name: shield; a rider of the war-house"
-      built: [budish, -ay]
-    - form: Pedunay
+      built: [budish, -ai]
+    - form: Pedunai
       class: name
       field: Derived words
       gloss: "a man's name: sword; a rider of the war-house"
-      built: [pedun, -ay]
-    - form: Garvanay
+      built: [pedun, -ai]
+    - form: Garvanai
       class: name
       field: Derived words
       gloss: "a man's name: horse; a rider of the war-house"
-      built: [garvan, -ay]
-    - form: Perimay
+      built: [garvan, -ai]
+    - form: Perimai
       class: name
       field: Derived words
       gloss: "a man's name: hearth; a rider of the war-house"
-      built: [perim, -ay]
-    - form: Hageshay
+      built: [perim, -ai]
+    - form: Hageshai
       class: name
       field: Derived words
       gloss: "a man's name: kept; a rider of the war-house"
-      built: [hagesh, -ay]
-    - form: Lirunay
+      built: [hagesh, -ai]
+    - form: Lirunai
       class: name
       field: Derived words
       gloss: "a man's name: free; a rider of the war-house"
-      built: [lirun, -ay]
+      built: [lirun, -ai]
     - form: Gilsumtenhur
       class: name
       field: Derived words
@@ -6565,16 +6565,16 @@ data:
     - {name: House of Vahurdash, tongue: gloss, built: [Vahurdash]}
     - {name: Muresha, tongue: tellumi, built: [muresh, -a]}
     - {name: Muresha of Shirvan, tongue: gloss, built: [Muresha]}
-    - {name: Nimeshay, tongue: tellumi, built: [nimesh, -ay]}
-    - {name: Nimeshay of Ashkarad, tongue: gloss, built: [Nimeshay]}
-    - {name: Gureshay, tongue: tellumi, built: [guresh, -ay]}
-    - {name: Gureshay of Zargandur, tongue: gloss, built: [Gureshay]}
+    - {name: Nimeshai, tongue: tellumi, built: [nimesh, -ai]}
+    - {name: Nimeshay of Ashkarad, tongue: gloss, built: [Nimeshai]}
+    - {name: Gureshai, tongue: tellumi, built: [guresh, -ai]}
+    - {name: Gureshay of Zargandur, tongue: gloss, built: [Gureshai]}
     - {name: Narvuna, tongue: tellumi, built: [narvun, -a]}
     - {name: Narvuna of Kethramír, tongue: gloss, built: [Narvuna]}
-    - {name: Hemvanay, tongue: tellumi, built: [hemvan, -ay]}
-    - {name: Hemvanay of Mernagord, tongue: gloss, built: [Hemvanay]}
-    - {name: Nartemay, tongue: tellumi, built: [nartem, -ay]}
-    - {name: Nartemay of Ushtra-ber, tongue: gloss, built: [Nartemay]}
+    - {name: Hemvanai, tongue: tellumi, built: [hemvan, -ai]}
+    - {name: Hemvanay of Mernagord, tongue: gloss, built: [Hemvanai]}
+    - {name: Nartemai, tongue: tellumi, built: [nartem, -ai]}
+    - {name: Nartemay of Ushtra-ber, tongue: gloss, built: [Nartemai]}
     - {name: Princes of Tellumel, tongue: gloss, built: [Tellumel]}
     - {name: The Tellumi Calendar, tongue: gloss, built: [Tellumi]}
     - {name: Tellumi Calendar, tongue: gloss, built: [Tellumi]}
@@ -6593,7 +6593,7 @@ data:
     - {name: Zargandur, tongue: older}
     - {name: Afzandah Parnazar, tongue: older}
     - {name: Kamid Khavandar, tongue: older}
-    - {name: Kayvonad Zarid, tongue: older}
+    - {name: Kaivonad Zarid, tongue: older}
     - {name: Kharanah Khafur, tongue: older}
     - {name: Nushir Narsafi, tongue: older}
     - {name: Razanash Mervaran, tongue: older}
@@ -6635,28 +6635,28 @@ data:
     - {name: Peshdenderat, tongue: tellumi, built: [peshden, derat]}
     - {name: The Dry Well of Shirvan, tongue: gloss, built: [Peshdenderat]}
     - {name: The Dry Well, tongue: gloss, built: [Peshdenderat]}
-    - {name: Kenbeshay, tongue: tellumi, built: [kenbesh, -ay]}
-    - {name: Priest Kenbeshay, tongue: gloss, built: [Kenbeshay]}
+    - {name: Kenbeshai, tongue: tellumi, built: [kenbesh, -ai]}
+    - {name: Priest Kenbeshay, tongue: gloss, built: [Kenbeshai]}
     - {name: Mavesha, tongue: tellumi, built: [mavesh, -a]}
     - {name: Prophet Mavesha, tongue: gloss, built: [Mavesha]}
     - {name: Valsuma, tongue: tellumi, built: [valsum, -a]}
     - {name: High Priestess Valsuma, tongue: gloss, built: [Valsuma]}
-    - {name: Pedunay, tongue: tellumi, built: [pedun, -ay]}
+    - {name: Pedunai, tongue: tellumi, built: [pedun, -ai]}
     - {name: Bulamun, tongue: tellumi, built: [bulam, -un]}
-    - {name: Pedunay Bulamun, tongue: gloss, built: [Pedunay, Bulamun]}
-    - {name: Kireshay, tongue: tellumi, built: [kiresh, -ay]}
-    - {name: Captain Kireshay, tongue: gloss, built: [Kireshay]}
-    - {name: Vurinay, tongue: tellumi, built: [vurin, -ay]}
-    - {name: Saint Vurinay the Ascendant, tongue: gloss, built: [Vurinay]}
-    - {name: Saint Vurinay, tongue: gloss, built: [Vurinay]}
+    - {name: Pedunay Bulamun, tongue: gloss, built: [Pedunai, Bulamun]}
+    - {name: Kireshai, tongue: tellumi, built: [kiresh, -ai]}
+    - {name: Captain Kireshay, tongue: gloss, built: [Kireshai]}
+    - {name: Vurinai, tongue: tellumi, built: [vurin, -ai]}
+    - {name: Saint Vurinay the Ascendant, tongue: gloss, built: [Vurinai]}
+    - {name: Saint Vurinay, tongue: gloss, built: [Vurinai]}
     - {name: Sunhema, tongue: tellumi, built: [sunhem, -a]}
     - {name: Karvemun, tongue: tellumi, built: [karvem, -un]}
     - {name: Sunhema Karvemun, tongue: gloss, built: [Sunhema, Karvemun]}
     - {name: Merchant Princess Sunhema, tongue: gloss, built: [Sunhema]}
-    - {name: Revunay, tongue: tellumi, built: [revun, -ay]}
+    - {name: Revunai, tongue: tellumi, built: [revun, -ai]}
     - {name: Kishneshun, tongue: tellumi, built: [kishnesh, -un]}
-    - {name: Revunay Kishneshun, tongue: gloss, built: [Revunay, Kishneshun]}
-    - {name: Duke Revunay, tongue: gloss, built: [Revunay]}
+    - {name: Revunay Kishneshun, tongue: gloss, built: [Revunai, Kishneshun]}
+    - {name: Duke Revunay, tongue: gloss, built: [Revunai]}
     - {name: Vemuna, tongue: tellumi, built: [vemun, -a]}
     - {name: Tamkerun, tongue: tellumi, built: [tamker, -un]}
     - {name: Vemuna Tamkerun, tongue: gloss, built: [Vemuna, Tamkerun]}
@@ -6687,7 +6687,7 @@ data:
     - {form: Zargandur}
     - {form: Afzandah Parnazar}
     - {form: Kamid Khavandar}
-    - {form: Kayvonad Zarid}
+    - {form: Kaivonad Zarid}
     - {form: Kharanah Khafur}
     - {form: Nushir Narsafi}
     - {form: Razanash Mervaran}
@@ -6695,11 +6695,11 @@ data:
     - {form: Zevarad Dathvarun}
   retired:
     - {form: Morá-Shirván, instead: Muresha of Shirvan, why: built on an Earth word}
-    - {form: Samim, instead: Nimeshay, why: an Earth given name}
-    - {form: Khavar, instead: Gureshay, why: an Earth word}
+    - {form: Samim, instead: Nimeshai, why: an Earth given name}
+    - {form: Khavar, instead: Gureshai, why: an Earth word}
     - {form: Yazdín, instead: Narvuna, why: an Earth given name}
-    - {form: Parván, instead: Hemvanay, why: an Earth given name}
-    - {form: Vahram, instead: Nartemay, why: an Earth given name}
+    - {form: Parván, instead: Hemvanai, why: an Earth given name}
+    - {form: Vahram, instead: Nartemai, why: an Earth given name}
     - {form: Khazryn, instead: Khazrin, why: respelled to Pronouncing Thalorna}
 sohl:
   system:
@@ -6797,7 +6797,7 @@ A Tellumi name is built in the same few moves as any other word, and it can be r
 | Tellumel    | _te_ + _lu_ + _-mi_ + _-el_ | the land of the Tellumi        |
 | Tennelimash | _te_ + _nelim_ + _-ash_     | high-water town                |
 | Tashbemun   | _tashbem_ + _-un_           | the house of the tower         |
-| Vurinay     | _vurin_ + _-ay_             | a man's name: holy             |
+| Vurinai     | _vurin_ + _-ay_             | a man's name: holy             |
 | Lisena      | _lisen_ + _-a_              | a woman's name: moon           |
 
 **Places** take _-ash_ for a city or town and _-el_ for a land, after one or two stems that say what the place has: its water, its height, its tower. **Houses** take _-un_ after the stem of a founder's name or the house's emblem. **Given names** take _-ay_ for a man and _-a_ for a woman, after one stem; a second stem in front of it is a mark of an old house.

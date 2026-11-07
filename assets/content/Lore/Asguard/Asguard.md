@@ -3,7 +3,7 @@ shortcode: asguard
 name: {full: Asguard, en: [The Gods' World]}
 type: place
 subType: world
-description: "The world the Ten hold and the dead are gathered into—a plane rather than a planet, carrying Eldheim, Valsal, Solvangur and the island Nulthey."
+description: "The world the Ten hold and the dead are gathered into—a plane rather than a planet, carrying Eldheim, Valsal, Solvangur and the island Nulthei."
 tags: [asguardian]
 data: {demonym: null, lore: [], parents: [], population: null, packFolder: settinglore}
 ---
@@ -12,8 +12,8 @@ In the Asguardian tradition, Asguard is the world the [[affiliation-asguardian|A
 
 The world-ash [[lore-heimsask|Heimsask]] stands through both and holds them in one growth, rooted in Asguard and crowned over Mannguard. Its condition is the condition of everything: while the ash stands the two worlds stand, and the skalds who call [[lore-aldarlok|Aldarlok]] the Fall of the Ash are naming the end by the one thing whose falling takes both worlds with it.
 
-Asguard divides into four regions, and where a man arrives in it is settled by how he died. [[place-eldheim|Eldheim]] burns at the far edge of the rest, and [[lore-svartbrandurdty|Svartbrandur]] musters his fire-kin there against the last day. [[place-valsal|Valsal]] and [[place-solvangur|Solvangur]] take the honored dead between them, half to [[lore-odvardty|Odvar]] and half to [[lore-solrundty|Solrún]], and each holds the hall its god keeps—[[place-valsalhall|Ódvarsholl]] and [[place-solvangurhall|Sólrunsholl]]. [[place-nulthey|Nulthey]] lies offshore of all three, and the dead who kept nothing pass to it.
+Asguard divides into four regions, and where a man arrives in it is settled by how he died. [[place-eldheim|Eldheim]] burns at the far edge of the rest, and [[lore-svartbrandurdty|Svartbrandur]] musters his fire-kin there against the last day. [[place-valsal|Valsal]] and [[place-solvangur|Solvangur]] take the honored dead between them, half to [[lore-odvardty|Odvar]] and half to [[lore-solrundty|Solrún]], and each holds the hall its god keeps—[[place-valsalhall|Ódvarsholl]] and [[place-solvangurhall|Sólrunsholl]]. [[place-nulthey|Nulthei]] lies offshore of all three, and the dead who kept nothing pass to it.
 
 The gods keep hall in Asguard as a jarl keeps hall in Mannguard, on the same terms and with the same obligations: a roof, a fire, a table, a seat assigned by worth, and a duty of hospitality that binds the host harder than the guest. The dead eat at those tables and are fed, and the mead is the same mead, and what a man was owed in life he is owed there. This is the whole of the [[lore-nordheimnclt|Nordheimn]] people's picture of the afterlife, and it has no judgment in it and no accounting—only a hall a man is admitted to or is not.
 
-Nulthey sits inside the gods' world although [[lore-nahilddty|Nahild]] is no friend to the gods, and the Ten's answer to the difficulty is short. Asguard is the whole of what lies past death, so the island is in it because there is nowhere else for it to be. The clergy of the [[affiliation-nahild|Faith of Nahild]] make more of the arrangement than the other nine do, and hold that the island was granted rather than merely tolerated.
+Nulthei sits inside the gods' world although [[lore-nahilddty|Nahild]] is no friend to the gods, and the Ten's answer to the difficulty is short. Asguard is the whole of what lies past death, so the island is in it because there is nowhere else for it to be. The clergy of the [[affiliation-nahild|Faith of Nahild]] make more of the arrangement than the other nine do, and hold that the island was granted rather than merely tolerated.

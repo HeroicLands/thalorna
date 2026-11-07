@@ -75,7 +75,7 @@ She is hunted by the strict of both peoples, she has no protector with power, an
 
 ### Others
 
-- [[being-kenbeshay|Kenbeshay]]: The priest of the Northern Temple of Kethramír, who teaches a mercy close to hers. They have met once, at night, and agreed never to be seen together.
+- [[being-kenbeshay|Kenbeshai]]: The priest of the Northern Temple of Kethramír, who teaches a mercy close to hers. They have met once, at night, and agreed never to be seen together.
 
 ### Affiliations
 

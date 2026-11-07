@@ -111,5 +111,5 @@ What the truce does not say is what becomes of Hrandstead's seat when Glirvorv d
 [[affiliation-malldbndlg|Málalidabandalag]]
 : the companies that served both sides
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the Stormveld Generation and the Present Reckoning

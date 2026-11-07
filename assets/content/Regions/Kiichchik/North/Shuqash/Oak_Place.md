@@ -46,5 +46,5 @@ On the ridge across the canyon stands the first watch fire that [Kowiqnaq]{.name
 [[place-tulishlumuqrgn|Oak Valleys]]
 : the acorn country behind the coastal mountains
 
-[[place-kulaywil|Kulaywil]]
+[[place-kulaywil|Kulaiwil]]
 : Canoe Place, over the pass on the coast

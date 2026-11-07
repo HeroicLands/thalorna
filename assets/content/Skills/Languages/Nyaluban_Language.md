@@ -30,7 +30,7 @@ data:
       attaches: "added"
       examples: ["shor- > shorinya, brightness"]
     - {form: "-o", gloss: "a man's name", attaches: "added", examples: ["tabes- > tabeso"]}
-    - {form: "-a", gloss: "a woman's name", attaches: "added", examples: ["lushey- > lusheya"]}
+    - {form: "-a", gloss: "a woman's name", attaches: "added", examples: ["lushei- > lusheya"]}
   words:
     - {form: ruwo, class: "n", field: Clan and totem, gloss: "the lion"}
     - form: ruwozi
@@ -96,7 +96,7 @@ data:
       class: stem
       field: Given names
       gloss: "to follow a trail; a root of men's names"
-    - form: "lushey-"
+    - form: "lushei-"
       class: stem
       field: Given names
       gloss: "to fall as rain; a root of women's names"

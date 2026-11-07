@@ -86,10 +86,10 @@ She has no army and no money beyond the court's revenues and the copies she sell
 
 ### Others
 
-- [[being-hemvanaymern|Hemvanay of Mernagord]]: The ruling prince of Mernagord, who leads the houses of the west against her house in the oldest argument at the Council, the coming down, and who listens to Atarzád merchants about a compact she calls treason.
+- [[being-hemvanaymern|Hemvanai of Mernagord]]: The ruling prince of Mernagord, who leads the houses of the west against her house in the oldest argument at the Council, the coming down, and who listens to Atarzád merchants about a compact she calls treason.
 - [[being-narvunakethr|Narvuna of Kethramír]]: The head of the priest-house and the one prince she counts a friend. Narvuna argues the faith and Muresha argues the deeds, and between them they hold the case the Confederation makes in public.
-- [[being-gureshayzarg|Gureshay of Zargandur]]: The young heir who trains for a reclamation. She thinks him brave and premature, and she has told him that a city taken without the case is a city that can be taken back.
-- [[being-nimeshayashk|Nimeshay of Ashkarad]]: The richest of the exile princes, who has offered more than once to pay for the library's copyists. She has accepted once.
+- [[being-gureshayzarg|Gureshai of Zargandur]]: The young heir who trains for a reclamation. She thinks him brave and premature, and she has told him that a city taken without the case is a city that can be taken back.
+- [[being-nimeshayashk|Nimeshai of Ashkarad]]: The richest of the exile princes, who has offered more than once to pay for the library's copyists. She has accepted once.
 
 ### Affiliations
 

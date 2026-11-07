@@ -14,7 +14,7 @@ The [[affiliation-eidgar|Faith of Eidgar]] reads that sacrifice as the whole of 
 
 In the standard telling of [[lore-aldarlok|Aldarlok]], Vetrulfur slips his chain and the wolf-winter comes down. [[lore-odvardty|Odvar]] falls to the wolf, and the wolf falls to Odvar's son, [Aldvar]{.name data-type="lore/deity"}, the first of the [[lore-tvelgaett|Tvelgaett]].
 
-The Winter-Wolf is one of two chained beasts, and the other belongs to Eidgar's own end rather than Odvar's. [[lore-dulmvargur|Dulmvargur]], the hound chained at the landing of [[place-nulthey|Nulthey]], is the one that destroys Eidgar and is destroyed with him.
+The Winter-Wolf is one of two chained beasts, and the other belongs to Eidgar's own end rather than Odvar's. [[lore-dulmvargur|Dulmvargur]], the hound chained at the landing of [[place-nulthey|Nulthei]], is the one that destroys Eidgar and is destroyed with him.
 
 ## See Also
 

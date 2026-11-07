@@ -43,7 +43,7 @@ The republic holds the whole land directly, and no lord stands between its farms
 
 ## Current Situation {#present}
 
-- **The frontier.** Tribes of the Peshtar forest burned two of the watch-burgs north of [[place-kaermouth|Kaermouth]] in the autumn, and the legion's commander, [[being-godstanhrdl|Godstan Hardley]], wants another legion raised and sent north for the spring. The Senate has voted him the men and not the money.
+- **The frontier.** Tribes of the Peshtar forest burned two of the watch-burgs north of [[place-kaermouth|Kaermouth]] in the autumn, and the legion's commander, [[being-godstanhrdl|Godstan Hardlei]], wants another legion raised and sent north for the spring. The Senate has voted him the men and not the money.
 - **The northern water.** Stormveld's jarls took an Ondarethan coaster off the Nordfells in the autumn, cargo and crew, and the shipping houses of Thornbury want the fleet sent north ([[affiliation-jrldmstrmvld|Jarldom of Stormveld]]).
 - **The call.** Every Ondarethan hull bound for the mainland still calls first at [[place-ravenmoor|Ravenmoor]], and the shipping houses still complain of it to the Senate, which still sends envoys to [[place-veldareth|Veldareth]] about it.
 
@@ -51,7 +51,7 @@ The republic holds the whole land directly, and no lord stands between its farms
 
 The coast road runs the length of the shore from Kaermouth through Thornbury to the south coast, where it meets the road west from [[place-dunavarre|Dúnavarre]] at Veldareth. Short roads climb from each river mouth to the upland, and the busiest of them goes up from Thornbury across the republic to Stonyford and on along a stretch of the old Crown Road toward the lake.
 
-The coast lives by carrying. Ondarethan coasters work the island's shores from the Nordfells to Wraymouth, and the larger hulls cross to the mainland by way of Ravenmoor. Fish, hides, highland horses and wool go out; iron, wine, cloth and coin come in. A few merchant houses hold old terms with Peshtar clans and trade salt and metal for cattle at the forest edge.
+The coast lives by carrying. Ondarethan coasters work the island's shores from the Nordfells to Wraimouth, and the larger hulls cross to the mainland by way of Ravenmoor. Fish, hides, highland horses and wool go out; iron, wine, cloth and coin come in. A few merchant houses hold old terms with Peshtar clans and trade salt and metal for cattle at the forest edge.
 
 ## Dangers {#dangers}
 

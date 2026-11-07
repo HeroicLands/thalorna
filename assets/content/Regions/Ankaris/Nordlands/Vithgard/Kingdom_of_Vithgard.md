@@ -94,7 +94,7 @@ The Kingdom of Vithgard holds the land of [[place-vithgard|Vithgard]], a small c
 
 ## How Vithgard Is Ruled
 
-Vithgard is a monarchy with a ting, like its sister kingdoms: the king is acclaimed there and holds the realm on its consent. He keeps court at [[place-thrunborg|Thrunborg]], a fortified town of about seven hundred people where the kingdom's jarls gather to settle disputes and plan its defense, and where the kingdom's hersvaldar come within the walls for the long dark. Three jarls' seats stand behind his on [[place-domsey|Domsey]].
+Vithgard is a monarchy with a ting, like its sister kingdoms: the king is acclaimed there and holds the realm on its consent. He keeps court at [[place-thrunborg|Thrunborg]], a fortified town of about seven hundred people where the kingdom's jarls gather to settle disputes and plan its defense, and where the kingdom's hersvaldar come within the walls for the long dark. Three jarls' seats stand behind his on [[place-domsey|Domsei]].
 
 Law is kept in more than one place. The kingdom's own ting sits at [[place-logstead|Logstead]], where the hov of [[affiliation-eidgar|Eidgar]] binds the offerings and the assembly's oath into one hearth and [[affiliation-eidhond|the Order of the Sworn Hand]] keeps its mother-hall. [[place-hrandstead|Hrandstead]], the seat of its own province under a jarl of the [Bjarnaett]{.name data-type="affiliation/lineage"}, has a ting of its own. [[place-dvarnvik|Dvarnvík]]'s ting once accused eleven people of working the winds, and the ruling of a [[lore-swornhandrnk|Sworn Hand]] that foretelling alone is no working against a named person is the reason a seer's prophecy in Vithgard is not treated as proof of sorcery.
 
@@ -154,5 +154,5 @@ Vithgard strikes no coin. Where a deal is made in money, the money is [[lore-vyl
 [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]
 : the seal hunt
 
-[[place-domsey|Domsey]]
+[[place-domsey|Domsei]]
 : the ting island, where Vithgard's king and three jarls hold seats

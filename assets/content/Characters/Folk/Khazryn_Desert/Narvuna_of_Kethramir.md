@@ -86,7 +86,7 @@ Her book is a reason to burn things. The preacher [Aqeshat]{.name data-type="bei
 ### Others
 
 - [[being-mureshashirv|Muresha of Shirvan]]: The First of the Seven and her friend. Muresha argues the deeds and Narvuna argues the faith, and they read each other's drafts.
-- [[being-nartemayusht|Nartemay of Ushtra-ber]]: The prince of the eastern oasis, whose archive keeps the oldest forms in the belt. He has granted her access twice, and she thinks him the most learned prince at the Council and the hardest to like.
+- [[being-nartemayusht|Nartemai of Ushtra-ber]]: The prince of the eastern oasis, whose archive keeps the oldest forms in the belt. He has granted her access twice, and she thinks him the most learned prince at the Council and the hardest to like.
 - [[being-sighotornozh|Sighotor son of Nozhikor]]: The Toqel of the Atarzád. They have never met.
 
 ### Affiliations

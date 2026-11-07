@@ -23,7 +23,7 @@ data:
 
 **The Recitation of the Breaking**, _Turemtsemhat_, is the fixed text the [[lore-khazrynclt|Tellumi]] recite of [Turem]{.name data-type="lore/history"}, the war in which the [[affiliation-tribestrzd|Atarzád]] took four of their seven cities. It is a _tsemhat_, a recitation: couplets, but plain ones, with no cloth and no reed, spoken standing by the eldest of a house at a princely funeral, by a Delkoshekh on the first day of the five-day festival, and at every formal ceremonial of the exile courts in the [[place-amradadrgn|Amradad Region]], and spoken behind closed doors in the subject quarters of the four held cities, where it names the magistrate's own people. The Tellumi insist that it is not a lament and not a grievance: it is a case being kept open, and its form is the form of a case, each claim followed by the tablet that proves it. A reciter who departs from the words is corrected from the floor.
 
-The common transcription and translation below give the text as the [House of Zargandur]{.name data-type="affiliation/lineage"} in exile recites it, which gives the second year its full weight because the war-house died in it; the other houses lengthen their own years and shorten this one. It names seven riders of the war-house, [Kireshay]{.name data-type="being/npc"}, [Budishay]{.name data-type="being/npc"}, [Pedunay]{.name data-type="being/npc"}, [Garvanay]{.name data-type="being/npc"}, [Perimay]{.name data-type="being/npc"}, [Hageshay]{.name data-type="being/npc"} and [Lirunay]{.name data-type="being/npc"}, as the house's tablet names them, and leaves the princes to the tablet, because the recitation may not read a prince's name in a city where reading it is forbidden. The Atarzád tell the same twelve years as the War of the Twelve Years and the keeping of a Promise, and their account is set out in their own note; this one reports their claim in order to refuse it, which is what a case does. The field outside [[place-zargandur|Zargandur]]'s north wall, [[place-henhulpedin|Henhutpedin]], is where the recitation ends, and what it says of the lamps in the Tellumi quarter is the recitation's own account of a custom the quarter explains to nobody.
+The common transcription and translation below give the text as the [House of Zargandur]{.name data-type="affiliation/lineage"} in exile recites it, which gives the second year its full weight because the war-house died in it; the other houses lengthen their own years and shorten this one. It names seven riders of the war-house, [Kireshai]{.name data-type="being/npc"}, [Budishai]{.name data-type="being/npc"}, [Pedunai]{.name data-type="being/npc"}, [Garvanai]{.name data-type="being/npc"}, [Perimai]{.name data-type="being/npc"}, [Hageshai]{.name data-type="being/npc"} and [Lirunai]{.name data-type="being/npc"}, as the house's tablet names them, and leaves the princes to the tablet, because the recitation may not read a prince's name in a city where reading it is forbidden. The Atarzád tell the same twelve years as the War of the Twelve Years and the keeping of a Promise, and their account is set out in their own note; this one reports their claim in order to refuse it, which is what a case does. The field outside [[place-zargandur|Zargandur]]'s north wall, [[place-henhulpedin|Henhutpedin]], is where the recitation ends, and what it says of the lamps in the Tellumi quarter is the recitation's own account of a custom the quarter explains to nobody.
 
 : The Recitation of the Breaking {#recitation}
 
@@ -261,23 +261,23 @@ mibil sali relvan. gaben telver tarem/
 talhishmerun, lemir gerhen genmer tarem talhishmerun./
 huri veme guresh. mener nesh relmer guresh./
 mener yumir diven. tenyut hager diven./
-surer‼ kireshay hager leshun nemi salmir,/
+surer‼ kireshai hager leshun nemi salmir,/
 lemir hunen nesh danem velnur dener diven./
-budishay berven tenesh nemi narvim, lemir/
+budishai berven tenesh nemi narvim, lemir/
 hunen nesh genvir hudem. diven venhir varhur/
 tursem benu nilbar, nus pirem nurel hudem,/
-lemir hunen veme henil. pedunay, lernem/
+lemir hunen veme henil. pedunai, lernem/
 nemi guresh, lerhem narvim verlim tarsem,/
 nilver mibil kurli kitsem, tenyut narem./
 hudem narem perni huri nurel nilsem./
-garvanay vulber sali silvar nirli garvan,/
+garvanai vulber sali silvar nirli garvan,/
 [shukarud]{.name data-type="affiliation/polity"} gashem nurel diven heri gaben./
-hunen gashem nurel pel. perimay hager/
+hunen gashem nurel pel. perimai hager/
 vartun perim, palen yurmi nali nedim,/
-bihen nemi miran. hageshay hager neshun./
+bihen nemi miran. hageshai hager neshun./
 diven venhir hunen mibil relvan, hager./
-lirunay veme lirun miran nemi narvim./
-hunen nesh damer gashem, genmer senvel hageshay./
+lirunai veme lirun miran nemi narvim./
+hunen nesh damer gashem, genmer senvel hageshai./
 tenyut narem perni, «hunen veme lirun,/
 lemir hunen gashem.» lemir sali relvan,/
 tenyut hager diven, heri tsemhat nesh hager./
@@ -451,7 +451,7 @@ nus denem gashem vannil. nerbem hagen vartish.
 : the field outside the north wall
 
 [[miscgear-zargbanner|The Banner-Staff of Zargandur]]
-: the staff Budishay carried and did not drop
+: the staff Budishai carried and did not drop
 
 [[place-zargandur|Zargandur]]
 : the war-city, its weirs and the lamps in its quarter

@@ -507,7 +507,7 @@ Desert Warlords and Mercenary Captains
 [The Desert Unity Movement]{.name data-type="affiliation"}
 : A political faction seeking to unite the various desert kingdoms through negotiation and shared culture rather than religious conversion. Sharminah views them as obstacles to the Sacred Flame's will and has repeatedly sabotaged their efforts.
 
-Priest [[being-kenbeshay|Kenbeshay]] of the [Northern Temple]{.name data-type="affiliation"}
+Priest [[being-kenbeshay|Kenbeshai]] of the [Northern Temple]{.name data-type="affiliation"}
 : A fellow priest of Ataros who broke with orthodox teachings to advocate for compassion and mercy. He represents everything Sharminah despises about weakness in faith, and she would eagerly destroy him to prevent his teachings from corrupting others.
 
 ### Affiliations

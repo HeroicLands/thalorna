@@ -91,7 +91,7 @@ Hafthann waited eight summers and then went back with all he could muster: three
 
 It never reached the shore. A storm came on far out, with no land in sight, and swamped the boats. Two went down whole. The jarl's was one of them, and Hafthann drowned. The third boat, bailing, with half its gear over the side, turned back and reached the fjord after a long, grim passage with ten men aboard. Two boats and thirty-five men did not come home.
 
-In a village of three hundred, the loss is the whole matter. Thirty-five men is most of the strong arms that row a whaleboat, and the hunt on which Gnaldurfjord lives was crewed for years afterward by boys and by old men who had thought themselves done. The jarl's house lost its head, the village lost its fighting men, and a generation of children grew up without fathers. The skalds call the year _the year of the sixty-first sitting_ because the sitting on [[place-domsey|Domsey]] fell in it, and the fjord calls it the year the boats did not come back, because it was a loss only the fjord felt. Nobody at the sitting heard of it.
+In a village of three hundred, the loss is the whole matter. Thirty-five men is most of the strong arms that row a whaleboat, and the hunt on which Gnaldurfjord lives was crewed for years afterward by boys and by old men who had thought themselves done. The jarl's house lost its head, the village lost its fighting men, and a generation of children grew up without fathers. The skalds call the year _the year of the sixty-first sitting_ because the sitting on [[place-domsey|Domsei]] fell in it, and the fjord calls it the year the boats did not come back, because it was a loss only the fjord felt. Nobody at the sitting heard of it.
 
 ## The Modest Raid, 719 AF
 
@@ -118,7 +118,7 @@ Any party that comes to Gnaldurfjord this summer finds the question in every hou
 [[place-gnaldurfjord|Gnaldurfjord]]
 : the village that sent the boats
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the sittings by which the voyages are dated
 
 [[affiliation-osetakona|Maple People]]

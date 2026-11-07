@@ -5972,7 +5972,7 @@ data:
         - "shabar"
         - "azarvan"
         - "pardisak"
-        - "kayvonad"
+        - "kaivonad"
         - "mahvarad"
         - "shurnav"
     clan:
@@ -6830,7 +6830,7 @@ In courtly settings, individuals may employ extended genealogical introductions 
 
 ### Male Given Names
 
-Razashar, Vahdarun, Tirsad, Korushan, Mehrun, Khordesh, Yazharan, Pashman, Barmokh, Artavin, Farazar, Torvash, Sivanash, Shuvar, Kavezhan, Rostadar, Samardan, Harumaz, Kamid, Goshanad, Jamaris, Zarvash, Valhamin, Nersad, Darizhan, Ahrash, Khoshar, Bashvard, Tahruz, Khorman, Shabar, Azarvan, Pardisak, Kayvonad, Mahvarad, Shurnav, Eskaram, Parvuzhan, Behfard, Arshanak, Darmun, Rostash, Vardun, Firanash, Tirashan, Khorvaz, Qarmuz, Armanad, Firavad, Saidan, Venrad, Maneshir, Jamrosh, Fakhrad, Nimrash, Tavishar, Farazun, Zarmav, Nevaran, Rushak, Rezhad, Sezhakh, Parmor, Siram, Tohmar, Bahrazad, Parvash, Ashudar, Asfar, Givandar, Qavadar, Hamzun, Razan, Bafraz, Shahran, Pirvand, Davuran, Zamirad, Afshanar, Timan, Hurdan, Nemver, Farzahan, Bazudar, Damoz, Ramuz, Siaran, Azardam, Varinash, Shadezan, Khavend, Dashir, Tarnav, Eskiran, Zimran, Khizhor, Zandarud, Mehrunash, Hadushan, Kemudan
+Razashar, Vahdarun, Tirsad, Korushan, Mehrun, Khordesh, Yazharan, Pashman, Barmokh, Artavin, Farazar, Torvash, Sivanash, Shuvar, Kavezhan, Rostadar, Samardan, Harumaz, Kamid, Goshanad, Jamaris, Zarvash, Valhamin, Nersad, Darizhan, Ahrash, Khoshar, Bashvard, Tahruz, Khorman, Shabar, Azarvan, Pardisak, Kaivonad, Mahvarad, Shurnav, Eskaram, Parvuzhan, Behfard, Arshanak, Darmun, Rostash, Vardun, Firanash, Tirashan, Khorvaz, Qarmuz, Armanad, Firavad, Saidan, Venrad, Maneshir, Jamrosh, Fakhrad, Nimrash, Tavishar, Farazun, Zarmav, Nevaran, Rushak, Rezhad, Sezhakh, Parmor, Siram, Tohmar, Bahrazad, Parvash, Ashudar, Asfar, Givandar, Qavadar, Hamzun, Razan, Bafraz, Shahran, Pirvand, Davuran, Zamirad, Afshanar, Timan, Hurdan, Nemver, Farzahan, Bazudar, Damoz, Ramuz, Siaran, Azardam, Varinash, Shadezan, Khavend, Dashir, Tarnav, Eskiran, Zimran, Khizhor, Zandarud, Mehrunash, Hadushan, Kemudan
 
 ### Female Given Names
 

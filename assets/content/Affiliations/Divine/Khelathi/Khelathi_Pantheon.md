@@ -55,7 +55,7 @@ data:
       Ilmy'Za Halzi: >-
         "Overseer of the Account"—the Gar-Hálzi's chief officer, appointed by the Council from among the high priests and serving for life or until religious retirement. Represents the temple-treasury network to the Gar-Au's court.
       Temple-Inquisitor: >-
-        Hunts the forbidden cults the temples have outlawed and driven underground, working alongside the Meglay. Most of what they find is harmless desperation.
+        Hunts the forbidden cults the temples have outlawed and driven underground, working alongside the Meglai. Most of what they find is harmless desperation.
       Steward of the Temple Estates: >-
         Runs a temple's landholdings from an estate-town—gathering the grain, beer, livestock and labor of a ring of tenant-villages and rendering them to the temple's granaries and workshops. Multiplied across a selat, this is what makes the great temples economic powers rivaling the Halzi'a.
   seat: yathtelgu

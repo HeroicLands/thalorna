@@ -62,7 +62,7 @@ The **House of Ushtra-ber** rules [[place-ushtraber|Ushtra-ber]], the last found
 
 ## The Prince and the Forms
 
-The prince is [Nartemay of Ushtra-ber]{.name data-type="being/npc"}, fifty, hard-faced and exact. His court keeps ceremonial forms that have been forgotten everywhere else in the belt. A petitioner kneels at a marked place on the floor and says nothing until the Keeper of the Tablets has read the petition aloud, and every decision is pressed on a clay tablet before the petitioner leaves the room. A stranger who presents himself the way he would at an exile court in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is made to go back and do the whole ceremony again. A visitor who learns the forms before arriving finds the court helpful, because the forms are the only hospitality the house offers.
+The prince is [Nartemai of Ushtra-ber]{.name data-type="being/npc"}, fifty, hard-faced and exact. His court keeps ceremonial forms that have been forgotten everywhere else in the belt. A petitioner kneels at a marked place on the floor and says nothing until the Keeper of the Tablets has read the petition aloud, and every decision is pressed on a clay tablet before the petitioner leaves the room. A stranger who presents himself the way he would at an exile court in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is made to go back and do the whole ceremony again. A visitor who learns the forms before arriving finds the court helpful, because the forms are the only hospitality the house offers.
 
 The city is built the same way: dressed stone, shuttered windows against the wind, streets swept every dawn, and a shrine to [[affiliation-zurathra|Zúrathra]] at the head of the valley that is a spring in a stone ring with a single lamp.
 
@@ -70,11 +70,11 @@ The city is built the same way: dressed stone, shuttered windows against the win
 
 The house wants to be left alone, and so far it has been. The [Tozhirod]{.name data-type="affiliation/polity"}, the Atarzád tribe that holds the eastern oases, have never pressed it: the road is long, the valley is easy to hold, and the Tozhirod scholars find the court's archive more interesting than its land. The house's real business is the valley and the east: the [[affiliation-hvarnguides|Hvarn]] who come down from the Reach each autumn to buy grain, and the few caravans that rest a week here before the long crossing to the [[affiliation-tantsouempr|Tantsou frontier]].
 
-Its quarrels at the [[affiliation-cnclprinces|Council of the Princes]] are about form. Nartemay holds that the exile courts have let their ceremonial slip in ninety years of foreign hospitality, and he is the most exacting of those who say that an acclamation cannot make a prince, which sets him against the head of the [[affiliation-hsevahurdash|House of Vahurdash]]. The tablets that would settle that question are the kind of record his archive keeps.
+Its quarrels at the [[affiliation-cnclprinces|Council of the Princes]] are about form. Nartemai holds that the exile courts have let their ceremonial slip in ninety years of foreign hospitality, and he is the most exacting of those who say that an acclamation cannot make a prince, which sets him against the head of the [[affiliation-hsevahurdash|House of Vahurdash]]. The tablets that would settle that question are the kind of record his archive keeps.
 
 ## Hooks
 
-- **The old forms.** A scholar from Amradad or [[place-caldar|Kaldar]] wants copies from the archive. Nartemay grants access to those who learn the forms and earn his respect, and refuses everyone else, so the scholar wants a party to earn it for him.
+- **The old forms.** A scholar from Amradad or [[place-caldar|Kaldar]] wants copies from the archive. Nartemai grants access to those who learn the forms and earn his respect, and refuses everyone else, so the scholar wants a party to earn it for him.
 
 ## See Also
 

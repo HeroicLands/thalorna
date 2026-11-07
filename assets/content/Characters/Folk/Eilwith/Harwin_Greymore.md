@@ -1,6 +1,6 @@
 ---
 shortcode: harwingrymr
-name: {full: Harwin Greymore, en: [First Senator Harwin, The First Senator]}
+name: {full: Harwin Greimore, en: [First Senator Harwin, The First Senator]}
 type: being
 subType: npc
 description: "First Senator of the Republic of Ondareth, a Thornbury shipping-house senator in the last year of his term, who wants a second term and whose freedman has bought the houses below the Tyrant's Rock."
@@ -38,13 +38,13 @@ data:
 
 # Appearance {#appearance}
 
-Harwin Greymore is a 60-year-old man of 5'8" and heavy build, with light, ruddy skin, white hair cut close and grey eyes in a heavy face. He wears the bordered mantle wherever he goes, a gold ring on every finger of his right hand, and walks with a cane he leans on only in the chamber.
+Harwin Greimore is a 60-year-old man of 5'8" and heavy build, with light, ruddy skin, white hair cut close and grey eyes in a heavy face. He wears the bordered mantle wherever he goes, a gold ring on every finger of his right hand, and walks with a cane he leans on only in the chamber.
 
 # Dossier {#dossier}
 
 **Age 60. First Senator of the Republic of Ondareth. Wants a second term in the chair, and the rock after it.**
 
-Harwin Greymore presides over the [[affiliation-senatondrth|Senate of Ondareth]] at [[place-thornbury|Thornbury]]. He calls the chamber, sets its business and speaks first in every debate. His family's shipping house is one of the oldest on the quays, and he has been a senator for thirty years and _tavalen_ for twenty.
+Harwin Greimore presides over the [[affiliation-senatondrth|Senate of Ondareth]] at [[place-thornbury|Thornbury]]. He calls the chamber, sets its business and speaks first in every debate. His family's shipping house is one of the oldest on the quays, and he has been a senator for thirty years and _tavalen_ for twenty.
 
 His three years in the chair end with this one, and he wants a second term, which the Senate has never given a First Senator. The houses at the foot of the Tyrant's Rock have been bought in the name of one of his freedmen, and the city takes it for the first step toward building on the rock where [Tralkar]{.name data-type="being/npc"} kept his castle ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). [[being-kuthwldashdn|Kuthwald Ashden]], who wants the chair, has put the rock before the Senate to make him speak to it.
 

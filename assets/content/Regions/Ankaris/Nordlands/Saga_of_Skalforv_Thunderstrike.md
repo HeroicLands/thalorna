@@ -317,7 +317,7 @@ skeldva kan hulda ok hlev nod kinli/
 af hnell na tiv hofna na thenva./
 hnat skeldva kan stap storg vatna hern?/
 hnat varma kan vronda tiv it?/
-skalforv sokna strandva ok skarey./
+skalforv sokna strandva ok skarei./
 svelti snirna slak andva na hanv./
 hanv berva storg hamri, hurvi./
 hanv kallar firn hovnod, hovmarl tiv thrunvald.

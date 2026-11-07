@@ -73,11 +73,11 @@ The clerks of the treasury, and the factors of the shipping houses who lend to t
 
 ### Patrons
 
-[[being-harwingrymr|Harwin Greymore]], the First Senator, whose house lends to the treasury.
+[[being-harwingrymr|Harwin Greimore]], the First Senator, whose house lends to the treasury.
 
 ### Enemies
 
-[[being-edstanbrnwk|Edstan Brinwik]] and [[being-godstanhrdl|Godstan Hardley]], whose fleet and legion he will not pay for.
+[[being-edstanbrnwk|Edstan Brinwik]] and [[being-godstanhrdl|Godstan Hardlei]], whose fleet and legion he will not pay for.
 
 ### Affiliations
 

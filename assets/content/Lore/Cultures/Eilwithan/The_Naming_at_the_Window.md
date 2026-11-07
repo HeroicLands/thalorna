@@ -126,8 +126,8 @@ This is the first night, and shut is everi door,/
 And thine is shut, and all thi temple dark./
 Onli the windows down the street ben lit,/
 And everi window hath a woman in it,/
-And everi woman hath her names to say./
-Here ben mi names, Judge. Slow I say them now.
+And everi woman hath her names to sai./
+Here ben mi names, Judge. Slow I sai them now.
 
 The first is Mildwald. He was mi husband./
 He rode out with the watch at kandlelight/
@@ -136,7 +136,7 @@ He took his bill down from above the door/
 And said, «Keep up the fire‼» And I kept it./
 That night I kept it, and the nekst night too,/
 And all that winter long. He kame not home./
-Naught of him kame. The horseses traks they found,/
+Naught of him kame. The horseses traks thei found,/
 And where the traks went in, and none kame out./
 There is no bodi, Judge. There is no grave./
 I kannot bring him to thi gatees mouth,/
@@ -163,13 +163,13 @@ And he said, «Then I will find the naught, mother,/
 And kome home and tell thee where it is.»/
 Up to the woodes edge he went in spring,/
 Before the light, and he went in, and stayed./
-I know not that he is dead. I say it/
+I know not that he is dead. I sai it/
 Bekause the kandle wanteth all the names./
 Wilwin. Wilwin of Ashwold. Take him bi it‼
 
 The fourth is Ashwold, and it was our house./
 It is no name for thee, Judge. It never died./
-Yet I will say it, for none else will say it./
+Yet I will sai it, for none else will sai it./
 Where is the ash that stood above the door?/
 The wood hath it. Where is the door? The wood./
 Where is the hearth that Osrun kept so long?/
@@ -196,15 +196,15 @@ I have the room. I have the window, Judge,/
 And the blak kandle, and the night, and this.
 
 Kome here, mi girl‼ Stand bi me at the sill‼/
-Thou hast heard the names. Now say them after me‼/
+Thou hast heard the names. Now sai them after me‼/
 Mildwald. Osrun. Wilwin. And the house./
 Again‼ And slower‼ So. Thou hast them now./
 When I am in the stewardes book, a line,/
 Thou shalt stand here, and set the kandle up,/
-And say them, and say mine after Wilwines,/
+And sai them, and sai mine after Wilwines,/
 And give them to thi daughter at the sill./
 While yet a window standeth in the march/
-And a woman in it, they ben not in the wood./
+And a woman in it, thei ben not in the wood./
 The wood hath all the rest. It hath not these.
 
 The kandle burneth. Judge, I have said them all./

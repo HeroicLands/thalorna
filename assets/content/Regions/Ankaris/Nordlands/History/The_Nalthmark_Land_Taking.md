@@ -85,5 +85,5 @@ A party on the Nalthmark road can be hired by either side, and the hire will be 
 [[lore-varokhiclt|Varokhi]]
 : the people whose clan claims the grove
 
-[[lore-domseycount|The Domsey Count]]
+[[lore-domseycount|The Domsei Count]]
 : the Present Reckoning

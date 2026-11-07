@@ -592,7 +592,7 @@ ir lork ji miv it, lurmi./
 dingi na mel stevna, stanni./
 it legva sarnli bast. ir lork ji miv it, lurmi.
 
-dingi firn skelfur ok skarey/
+dingi firn skelfur ok skarei/
 na es ul hlurn ok hlurna, noll skern./
 it hlun hluva na dvon thru hondi na isva./
 it es hravi inn dulvma, drav./

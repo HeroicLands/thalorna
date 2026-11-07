@@ -32,7 +32,7 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 ### Hooks
 
 - **The thief.** A drover sells the rumor that a poor club's savings lie in the sealed chamber at the back of its vault and that nobody has ever robbed it. The party takes the caravan road west to find out why.
-- **The soldier or the deserter.** A soldier in flight from the [Meglay]{.name data-type="affiliation/governmental"} is told the margin is empty. A mercenary hired to escort a temple's captain finds that three watch-priests walked west and did not return. Either way the one place with a roof and a door is the vault.
+- **The soldier or the deserter.** A soldier in flight from the [Meglai]{.name data-type="affiliation/governmental"} is told the margin is empty. A mercenary hired to escort a temple's captain finds that three watch-priests walked west and did not return. Either way the one place with a roof and a door is the vault.
 - **The leader.** A herder-chieftain of the western margin holds grazing under arrangement with the Halzi'a, and three of his men have gone to the red hills in a season. He offers pasture-rights in exchange for the matter being closed, and he cannot pay in anything else.
 - **The wanderer.** A widow in a river town holds her husband's dues receipt in a clay jar and has been refused the rite at two temples, because the club's roll is not in the temples' hands. She asks to be taken to his niche.
 
@@ -159,7 +159,7 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 
 - **The roll read and the rite said.** The dead lie down at dusk and stay down. The caravan road is quiet. The watch-priests of [[place-khelzuret|Khelzuret]] enter Zel-Qedlu on their roll and send keepers. Qeltzin, if he lives, goes to the House with the roll in his hands and may be taken back or struck again. The widow is given her husband's niche and his name, and has the rite said.
 - **The roll read and no rite said.** The Unwrapped lie still, and the vault is quiet in daylight. The thin field forms over a year. Another party is needed before the next fever season, with a priest.
-- **Qeltzin dead and the sign finished.** The hall draws breath. The Unwrapped stay on their feet at dawn. They walk west, then to the canal heads. The Meglay burn the hill, and the margin is closed to herders.
+- **Qeltzin dead and the sign finished.** The hall draws breath. The Unwrapped stay on their feet at dawn. They walk west, then to the canal heads. The Meglai burn the hill, and the margin is closed to herders.
 - **The party bypassed the vault.** The working continues. Stone goes into a tomb that is no one's. The caravan road shifts east, and the drovers add half a day to their journey.
 - **The House learns where its struck man went.** [[affiliation-garqeltnu|Gar-Qelt'nu]] and Gar-Ithnetáu each claim the right to deal with him, and each claims the other should answer for the dead.
 

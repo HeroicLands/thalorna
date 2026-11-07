@@ -36,7 +36,7 @@ Shiyawlesh is a 38-year-old man who stands 5'7" tall with a light build. He has 
 
 # Dossier {#dossier}
 
-Shiyawlesh, Sea Running, is a canoe master (_alkulay_) of the [[affiliation-canoekin|Canoe Kin]] who keeps his plank canoe on the beach at [[place-shuqwil|Bead Place]], and the most ambitious of the island's canoe masters. Shuqwil has little water and almost no wood, and its wood, its acorns and much of its meat come over from the mainland by canoe, paid in beads. Shiyawlesh carries more of it than any other master, and a winter of storms that keeps the canoes ashore for a month leaves the town hungry and him owed.
+Shiyawlesh, Sea Running, is a canoe master (_alkulai_) of the [[affiliation-canoekin|Canoe Kin]] who keeps his plank canoe on the beach at [[place-shuqwil|Bead Place]], and the most ambitious of the island's canoe masters. Shuqwil has little water and almost no wood, and its wood, its acorns and much of its meat come over from the mainland by canoe, paid in beads. Shiyawlesh carries more of it than any other master, and a winter of storms that keeps the canoes ashore for a month leaves the town hungry and him owed.
 
 He is thirty-eight, strong, cheerful and openly greedy, and he does not think of himself as a villain. The town's chief, [[being-shiyawliq|Shiyawliq]], is fifteen, and every spring he tests her: a crossing put off a few days, a price raised, a cargo of wood a few bundles short. Twice she has gone over his head to the chief of [[place-kulaywil|Canoe Place]] and won. He respects her more for it and has not stopped. The town's counter, [[being-ayulchim|Ayulchim]], counts every cargo he lands, and he has never caught her out.
 
