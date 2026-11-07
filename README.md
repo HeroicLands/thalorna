@@ -124,27 +124,38 @@ home page from `assets/content/The_World_of_Thalorna.md`. The shared theme ships
 `@heroiclands/package-build`, which arrives through `npm ci`. Nothing under
 `build/` is committed.
 
-The `deploy-site.yml` workflow runs on every push to `main` and on manual
-dispatch, with no path filter. It runs the tests under `utils/`, builds the
-site, and checks that the 404 page, the deployment root's `_headers` and a
-complete page tree were produced. When both `CLOUDFLARE_API_TOKEN` and
-`CLOUDFLARE_ACCOUNT_ID` are set as repository secrets, it then creates the
-`sohl-thalorna` Cloudflare Pages project if it does not exist and uploads the
-build there. When either secret is missing, the workflow builds and verifies the
-site and skips the upload.
+The `deploy-site.yml` workflow builds pushes to `main` with
+`--root internal.heroiclands.org` and publishes their pages at
+<https://www.internal.heroiclands.org/thalorna/> on the LAN/VPN. Release tags
+and emergency manual dispatches from main/a release tag build with
+`--root heroiclands.org` and retain the existing `sohl-thalorna` Cloudflare
+Pages project. Authored homepage and configuration stay public. Both modes
+require a nonempty landing page, 404 page, root `_headers` and more than 1,000
+index pages.
+
+The build job has no deployment secrets. Internal publication passes its
+validated page artifact to the shared artifact-only deployment workflow, which
+sends only `www/thalorna/` and a completion receipt. Public deployment validates
+the downloaded Pages payload before receiving Cloudflare credentials; absent
+public credentials skip upload. CDN publication is a separate manual operation
+through `publish-cdn.yml`, with `internal` or `cloudflare` selected explicitly.
+Neither site building nor page deployment uploads or fetches missing images.
+See the [publishing guide](docs/publishing.md) for commands, credentials,
+host identity and partial-transfer limits.
 
 ### The address is written down once
 
-The site's base URL is `package.json`'s own `homepage`, and
+The authored public site URL is `package.json`'s own `homepage`, and
 `contentPackage` in
 [`package-build.config.yaml`](package-build.config.yaml) is where the site build
 is: a page publishes at `/<contentPackage>/<type>-<shortcode>/`, and `site.base`
 overrides that prefix. Pointing both at another prefix — or at an origin of this
-package's own — moves the whole site.
+package's own — moves the whole site. A build's `--root` selects the www/CDN
+hosts while preserving that package path; the default root is internal.
 
 ### The emitter is the toolchain's, entirely
 
-`npm run build:site-content` is `package-build site`. This repository holds no
+`npm run build:site` fetches the pinned dependencies, then runs `package-build site build`. This repository holds no
 site code: the walk, the filter, the page writer and the wikilink resolver all
 live in `@heroiclands/package-build`, and a fix to any of them is made there.
 

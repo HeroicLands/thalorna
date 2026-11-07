@@ -1,18 +1,10 @@
-# Build and deploy /thalorna — this repository's own website.
-#
-# This package renders its own HTML and publishes its own subtree. No other
-# repository is in the path between it and its readers: a checkout, the theme
-# package and Node are the whole build, and the deploy uses credentials
-# scoped to this package's own hosting project. That is what makes the package
-# movable — a successor inheriting only this repository can publish it.
-name: Deploy the Thalorna site to Cloudflare Pages
+# Build pages without deployment secrets; deployment consumes only the artifact.
+name: Publish the Thalorna site
 
 on:
-    # Every push to `main` republishes the site. No path filter: a rebuild is
-    # cheap next to how quietly a hand-maintained path list goes stale, and a push
-    # that changes nothing the site serves merely republishes the same bytes.
     push:
         branches: [main]
+        tags: ["v*"]
     workflow_dispatch:
 
 permissions:
@@ -23,136 +15,119 @@ concurrency:
     cancel-in-progress: false
 
 jobs:
-    deploy:
-        if: ${{ github.server_url != 'https://github.com' && vars.HL_DEPLOY_ENABLED == 'true' }}
-        runs-on: ubuntu-latest
-        # Job-level, so each step's `if` can ask whether the credentials exist:
-        # a secret cannot be tested directly in a condition.
-        env:
-            CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-            CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    build:
+        if: >-
+            ${{ github.server_url != 'https://github.com' && vars.HL_DEPLOY_ENABLED == 'true'
+            && (github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v')) }}
+        runs-on: ubuntu-vm
+        timeout-minutes: 60
+        outputs:
+            mode: ${{ steps.select.outputs.mode }}
         steps:
             - name: Checkout
               uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
               with:
-                  # The utility tests below read pinned revisions with
-                  # `git show`, which a shallow checkout does not have.
                   fetch-depth: 0
-
+                  persist-credentials: false
             - name: Setup Node.js
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:
                   node-version: ${{ vars.CI_NODE_VERSION || '24' }}
                   cache: npm
-
+            - name: Select the trusted publishing mode and root
+              id: select
+              run: |
+                  node utils/site-publication.mjs select
+                  if [[ "$GITHUB_REF" == refs/tags/* ]]; then
+                    git merge-base --is-ancestor "$GITHUB_SHA" origin/main
+                  fi
             - name: Install dependencies
               run: npm ci
-
-            # Before anything is built, let alone uploaded. The payload asserted
-            # here is a string constant, so this needs no build output — and the
-            # assertion that matters is a NEGATIVE one (see the step further
-            # down), which no amount of inspecting the built tree would catch.
-            # `node --test` needs neither a dependency nor a configuration file;
-            # this repository has no test harness, and introducing one to assert
-            # one constant would be the larger change.
-            - name: Assert the deployment root's headers
-              run: node --test 'utils/**/*.test.mjs'
-
-            - name: Build the site
-              run: npm run build:site
-
-            # Cloudflare Pages serves the deployment's 404.html — with a real
-            # 404 status — for any unmatched path, and falls back to the site
-            # root when the file is missing. That fallback is a soft-404 (200
-            # carrying the landing page), which reads as success to every link
-            # check, so assert the file exists rather than discovering its
-            # absence in production.
-            - name: Verify the 404 page was built
-              run: test -s build/site/thalorna/404.html
-
-            # Nothing outside /thalorna is this repository's to publish, and a
-            # deploy is a whole-subtree replacement — so prove the tree carries
-            # at least one page, and stop before uploading if the build came out
-            # empty.
-            - name: Verify the tree is a complete site
+            - name: Check publishing fixtures
+              run: node --test utils/site-publication.test.mjs
+            - name: Fetch declared dependencies
+              run: npm run build:deps
+            - name: Build the selected site
+              env:
+                  BUILD_ROOT: ${{ steps.select.outputs.root }}
+              run: node_modules/.bin/package-build site build --root "$BUILD_ROOT"
+            - name: Validate and stage the complete page tree
               run: |
-                  test -s build/site/thalorna/index.html
-                  pages=$(find build/site/thalorna -name index.html | wc -l)
-                  echo "build/site/thalorna carries $pages page(s)"
-                  test "$pages" -gt 1000
+                  node utils/site-publication.mjs verify build/site
+                  mkdir -p publication
+                  cp -R build/site publication/site
+            - name: Checkout trusted artifact tools
+              if: ${{ steps.select.outputs.mode == 'internal' }}
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+              with:
+                  repository: HeroicLands/.github
+                  github-server-url: https://git.pupluppy.org
+                  ref: 5d2db91909feba6a8c99013ac15c9a155f066445
+                  path: trusted-deploy
+                  persist-credentials: false
+            - name: Inventory the internal pages artifact
+              if: ${{ steps.select.outputs.mode == 'internal' }}
+              env:
+                  PUBLICATION_PACKAGE: thalorna
+                  SOURCE_SHA: ${{ github.sha }}
+                  MIN_PAGES: 1001
+                  MAX_PAGES: 0
+              run: node trusted-deploy/actions/internal-site-deploy/publish.mjs manifest publication
+            - name: Save the verified site
+              uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
+              with:
+                  name: thalorna-site-publication
+                  path: publication/
+                  include-hidden-files: true
+                  if-no-files-found: error
+                  retention-days: 3
 
-            # The hosting project answers at three addresses of its own —
-            # sohl-thalorna.pages.dev, one per deployment, and
-            # thalorna.pkg.heroiclands.org — as well as under
-            # www.heroiclands.org, and a second address for the same pages can
-            # be indexed and compete with the canonical URL. `_headers` marks
-            # those hostnames noindex, but only at the deployment ROOT, which is
-            # the sole place Pages reads it
-            # (HeroicLands/Song-of-Heroic-Lands-FoundryVTT#1469, #96).
-            #
-            # THE PAYLOAD IS THIS REPOSITORY'S, whatever workflow deploys it.
-            # The reusable workflow in `HeroicLands/.github` writes the same
-            # three rules as a DEFAULT, and only when the build produced none —
-            # "a package that emits its own keeps it, byte for byte" — and
-            # `utils/build-site-root.mjs` writes one unconditionally. Its
-            # completeness guard says as much: "a package that emits its OWN
-            # `_headers` passes this check with whatever it wrote, so it is that
-            # package's job to cover the custom domain too." So this stays true
-            # if this repository ever does migrate, and the three rules must
-            # come with it. Whether to migrate is a separate question with its
-            # own reasons; #96 deliberately did not decide it.
-            - name: Verify the deployment root carries its headers
-              run: test -s build/site/_headers
+    internal:
+        needs: build
+        if: ${{ needs.build.outputs.mode == 'internal' }}
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-site.yml@5d2db91909feba6a8c99013ac15c9a155f066445
+        with:
+            artifact-name: thalorna-site-publication
+            package: thalorna
+            source-sha: ${{ github.sha }}
+            min-pages: 1001
+            max-pages: 0
+        secrets:
+            PREVIEW_SSH_PRIVATE_KEY: ${{ secrets.PREVIEW_SSH_PRIVATE_KEY }}
 
-            # The hosting project and the path-prefix routing that puts it at
-            # www.heroiclands.org/thalorna are #1468. Until its credentials are
-            # set here the build still runs on every push — which is the half
-            # of this workflow that catches a broken site — and the upload
-            # skips rather than failing.
-            # A Pages project is account state, not repository state, so without
-            # this a clone of this repository plus a scoped token still could not
-            # publish: someone would have to know to create the project by hand
-            # first. That hidden step is exactly what the succession test behind
-            # #1444 exists to remove, and it costs one API call to close.
-            #
-            # Checked before creating rather than tolerating the create's failure,
-            # so a genuine error (a bad token, a revoked scope) still fails the run.
-            #
-            # `sohl-thalorna` here is the Pages PROJECT name, which is account
-            # state and independent of the Foundry package id. The project
-            # carries the custom domain the router fetches
-            # (thalorna.pkg.heroiclands.org), and Cloudflare Pages has no
-            # in-place rename: changing this string makes the lookup 404 and
-            # creates a second, domainless project, leaving every reader served
-            # by the first one — which then never receives another deployment.
-            # Move the domain onto a new project before changing the name here.
+    public:
+        needs: build
+        if: ${{ needs.build.outputs.mode == 'public' }}
+        runs-on: ubuntu-vm
+        timeout-minutes: 30
+        steps:
+            - name: Checkout trusted public payload checks
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+              with:
+                  ref: ${{ github.sha }}
+                  persist-credentials: false
+            - name: Setup Node.js
+              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+              with:
+                  node-version: ${{ vars.CI_NODE_VERSION || '24' }}
+            - name: Download built pages
+              uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8
+              with:
+                  name: thalorna-site-publication
+                  path: publication
+            - name: Validate the public payload before deployment credentials
+              run: node utils/site-publication.mjs verify publication/site
+            # This project owns the existing custom domain and Worker route.
             - name: Ensure the hosting project exists
-              if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != '' }}
-              run: |
-                  set -euo pipefail
-                  api="https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/pages/projects"
-                  code=$(curl -sS -o /dev/null -w '%{http_code}' \
-                         -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
-                         "${api}/sohl-thalorna")
-                  case "$code" in
-                    200) echo "Pages project sohl-thalorna already exists." ;;
-                    404) echo "Creating Pages project sohl-thalorna."
-                         npx --yes wrangler@4 pages project create sohl-thalorna \
-                           --production-branch=main ;;
-                    *)   echo "::error::Cloudflare answered ${code} for the project lookup."
-                         exit 1 ;;
-                  esac
-
+              id: hosting
+              env:
+                  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+                  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+              run: node utils/site-publication.mjs ensure-public
             - name: Deploy to Cloudflare Pages (production)
-              if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != '' }}
+              if: ${{ steps.hosting.outputs.enabled == 'true' }}
               uses: cloudflare/wrangler-action@953926a2e2182532811c01a25e53647d93bf07c0 # v4
               with:
                   apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
                   accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-                  command: pages deploy build/site --project-name=sohl-thalorna --branch=main
-
-            - name: Say why nothing was uploaded
-              if: ${{ env.CLOUDFLARE_API_TOKEN == '' || env.CLOUDFLARE_ACCOUNT_ID == '' }}
-              run: |
-                  echo "::notice::Built the site but did not deploy it: this repository has no" \
-                       "CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID yet. The hosting project is #1468."
+                  command: pages deploy publication/site --project-name=sohl-thalorna --branch=main

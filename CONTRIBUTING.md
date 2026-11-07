@@ -40,7 +40,10 @@ request.
    documentation improvement per pull request.
 4. **Verify it.** At minimum `npm run build` must succeed, which compiles every note
    into its pack and validates the link manifest. Site changes should additionally
-   build: `npm run build:site`.
+   build: `npm run build:site`. For publishing helper or workflow changes, run
+   the bounded fixtures with `node --test utils/site-publication.test.mjs`
+   and format/lint only the changed files; the normal CI gate supplies the full
+   site build. See [publishing](docs/publishing.md) for the deployment contract.
 5. **Format**: `npm run format:check` must be clean for the files you touched.
 6. **Commit** in Conventional-Commits style, and **open a pull request** with
    `Closes #<n>` and a what/why description.
