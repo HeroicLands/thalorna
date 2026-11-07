@@ -12,9 +12,9 @@ data:
   borders:
     - {to: vrystwald, bearing: NE}
     - {to: edriwald, bearing: N}
-    - {to: tarvenirgn, bearing: S}
-    - {to: toravarrange, bearing: S}
-    - {to: eskarath, bearing: S}
+    - {to: tarvenirgn, bearing: E}
+    - {to: toravarrange, bearing: E}
+    - {to: eskarath, bearing: SE}
     - {to: provenzrgn, bearing: S}
   packFolder: elavendre
   government: kngdmlvndr
@@ -29,7 +29,7 @@ At the heart of it lie the [[lore-aralwen|Araelwen]], the land's core mystery: t
 
 ## Geography
 
-Élavendre occupies the western coast of Ankaris, sheltered by mountain ranges to the southeast and south, rolling hills to the east, and open to the sea on the north and west. [[place-calypsaisle|The Isle of Kalipsa]] lies seventy-five miles off the western portion of the northern coastline, a day and a night's sail from Lísere Bay. The landscape is lush and varied: primeval forests of silver birch and ancient oak, rolling green plains crossed by winding rivers, and dramatic coastal cliffs battered by cold ocean swells. Inland, crystal-clear lakes fill glacial valleys, and the mountains are perpetually shrouded in mist. The climate is mild and wet, with frequent rains that keep the land eternally green.
+Élavendre occupies the western coast of Ankaris, sheltered by mountain ranges along most of the south and on the east, where the mountains of the [[place-tarvenirgn|Tarvénia Region]] wall it, and open to the sea on the north and west. The southern mountains face [[place-provenzrgn|Provénzia]] and are crossed only by two shepherds' trails, [[place-hidralza|Hidralza]] and [[place-ronalza|Ronalza]], out of the Áelendan country. At the western end of that border the mountains give way to the deep forest of [[place-darvena|Darvena]], and [[place-darvenaroad|the Darvena Road]] comes through it from Bataren to [[place-liranel|Liranel]], the chief trade road between the two kingdoms. [[place-calypsaisle|The Isle of Kalipsa]] lies seventy-five miles off the northeastern part of the northern coastline, a day and a night's sail from Lísere Bay. The landscape is lush and varied: primeval forests of silver birch and ancient oak, rolling green plains crossed by winding rivers, and dramatic coastal cliffs battered by cold ocean swells. Inland, crystal-clear lakes fill glacial valleys, and the mountains are perpetually shrouded in mist. The climate is mild and wet, with frequent rains that keep the land eternally green.
 
 ## Peoples
 
@@ -167,7 +167,7 @@ The crown keeps a few companies of sworn soldiers at the border posts and in the
 | [[place-ellive\|Éllive]]     | 900,000 | the heartland basin of the Berav—the capital, the University, and where everything is made       |
 | [[place-lirve\|Lirve]]       | 420,000 | the western seaboard: cliffs, Senali forest, and the thickest fae country outside the mountains  |
 | [[place-auldalon\|Áuldalon]] | 240,000 | the eastern hills—wool, iron and the land march that takes the raiding                           |
-| [[place-lisere\|Lísere]]     | 260,000 | the northern coast on Lísere Bay, thirty miles from Vristwald across the water                   |
+| [[place-lisere\|Lísere]]     | 260,000 | the northern coast on Lísere Bay, facing Vristwald across the water                              |
 | [[place-sorvanda\|Sórvanda]] | 180,000 | the eastern and southern mountains—Áelendan country, and mineral wealth the kingdom may not take |
 
 The kingdom's economy runs inward and then out again: raw material from the four margins, worked in
@@ -209,6 +209,9 @@ The Áelendan reckon themselves from the band that came over the eastern pass in
 
 [[place-provenzrgn|Provénzia Region]]
 : Southern neighbor and cultural cousin
+
+[[place-darvenaroad|The Darvena Road]]
+: The trade road south into Provénzia
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : Former imperial overlord

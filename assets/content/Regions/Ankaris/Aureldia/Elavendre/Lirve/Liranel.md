@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [lirve]
+  routes:
+    - {to: batarencity, bearing: S, mode: land, days: 5, terrain: [forest, road]}
+    - {to: darvenaroad, bearing: S, mode: land, days: 3, terrain: [forest, road]}
   population: 3400
   packFolder: elavendre
   government: kngdmlvndr
@@ -17,6 +20,8 @@ data:
 **Liranel** stands a few miles inland of the [[place-lirve|Lirve]] cliffs, in the belt of worked
 forest between the coast road and the deep wood. Some three thousand four hundred people live there,
 and its business is timber and everything that follows from timber.
+
+It is also where the [[place-provenzrgn|Provénzia Region]] comes in. [[place-darvenaroad|The Darvena Road]], the chief trade road between the two kingdoms, comes up out of the Provénzian forest of [[place-darvena|Darvena]] from [[place-batarencity|Bataren City]], five days south, and meets the coast road at the town, and the carters of both kingdoms stable in its yards.
 
 ## The Edge
 
@@ -59,5 +64,6 @@ The forest court has a quarrel of its own. A ring of old oak inside the block th
 ## See Also
 
 - [[place-lirve|Lirve]] · [[lore-flksenali|Senali]] · [[place-portaelion|Port Aelion]] · [[affiliation-clgtongues|The College of Tongues]]
+- [[place-darvenaroad|The Darvena Road]] · [[place-batarencity|Bataren City]]
 - [[scenario-crpntrsnght|The Carpenters' Night]], a scenario set here
 - [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here

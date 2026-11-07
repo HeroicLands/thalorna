@@ -3,7 +3,7 @@ shortcode: morenothral
 name: {full: Moren Othral, en: [Castellan Moren]}
 type: being
 subType: npc
-description: "The Castellan of Durmelen, a knight whose father held the fort before him, who keeps the crown's fort at the narrows of Lísere Bay, the Great Fire and the shore's muster."
+description: "The Castellan of Durmelen, a knight whose father held the fort before him, who keeps the crown's fort at the head of Lísere Bay, the Great Fire and the shore's muster."
 tags: []
 data:
   icon: icon-person
@@ -39,7 +39,7 @@ Moren Othral is a 51-year-old man who stands 5'9" tall and is of medium build. H
 
 # Dossier {#dossier}
 
-Moren Othral is a knight of fifty-odd winters and the Castellan of [[place-durmelen|Durmelen]], the crown's fort at the narrows of [[place-liserebay|Lísere Bay]]. His father held the fort before him. He answers to the crown for its wall, its stores, its four oared cutters and the Great Fire on the tower, and he judges the [[affiliation-durmelengrsn|garrison]] himself. A case between a soldier and a townsman of Sarmelis goes to the sheriff.
+Moren Othral is a knight of fifty-odd winters and the Castellan of [[place-durmelen|Durmelen]], the crown's fort at the head of [[place-liserebay|Lísere Bay]]. His father held the fort before him. He answers to the crown for its wall, its stores, its four oared cutters and the Great Fire on the tower, and he judges the [[affiliation-durmelengrsn|garrison]] himself. A case between a soldier and a townsman of Sarmelis goes to the sheriff.
 
 He keeps the crown's oath against the Nordmen to the letter: the fort's gate has never opened to a Nordman who came under a flag. Toward the shore's other raiders he keeps the measure of what keeps his men alive. He knows the Varokh furs reach Sarmelis with Kalipsan marks and has chosen not to ask, on the principle that a Varokh who trades is a Varokh who is not landing. The fort is thin this winter, and a Varokh boat under a green branch has lain on the beach in the lee of the point for days.
 
@@ -55,7 +55,7 @@ He wants the Great Fire lit every night of the year by men who can be trusted to
 
 ### Strengths
 
-He knows the narrows, the signals and every village head on the shore. The levy comes up for him because his father asked and they came for him.
+He knows the head of the bay, the signals and every village head on the shore. The levy comes up for him because his father asked and they came for him.
 
 ### Weaknesses
 

@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-**The Isle of Kalipsa** lies in the cold sea seventy-five miles off the northern coast of [[place-elavendre|Élavendre]], a day and a night's sail west of the mouth of [[place-liserebay|Lísere Bay]]. It is about fifteen miles across at its widest, from the cliffs of the west to the harbor on the east coast, and it rises steeply from the water to a bare gray ridge. Some forty-five thousand people live on it: twenty-eight thousand in the free port of [[place-calypsacity|Kalipsa]], and seventeen thousand in the fishing villages and upland steadings of [[place-calypsashore|the South Shore]].
+**The Isle of Kalipsa** lies in the cold sea seventy-five miles off the northern coast of [[place-elavendre|Élavendre]], a day and a night's sail west of the mouth of [[place-liserebay|Lísere Bay]]. It is about sixty-five miles from north to south and nearly as wide, from the cliffs of the west to the harbor on the east coast, and it rises steeply from the water to a bare gray ridge. Some forty-five thousand people live on it: twenty-eight thousand in the free port of [[place-calypsacity|Kalipsa]], and seventeen thousand in the fishing villages and upland steadings of [[place-calypsashore|the South Shore]].
 
 The island is the whole domain of the city-state of [[affiliation-calypsa|Kalipsa]], and it pays no tribute and owes no fealty to anyone. It feeds itself by trade. Its harbor is one of the best-sheltered anchorages in the north of the [[place-ankrscntnnt|Ankaris Continent]], and its squadrons sit across the approaches to Lísere Bay.
 
@@ -54,7 +54,7 @@ On the South Shore the quarrel is water. A dry summer left the springs low, and 
 
 ## Roads and Trade {#roads-and-trade}
 
-The island's road is the sea. [[place-kalipsarun|The Kalipsa Run]] crosses to Sarmelis on Lísere Bay in a day and a night, and the Malagnan hulls come down from [[place-gnarthborg|Gnarthborg]] and the north. On the island itself one cart road climbs from the city over the shoulder of Hlomfell to the South Shore, and herders' paths link the villages along the cliffs.
+The island's road is the sea. [[place-kalipsarun|The Kalipsa Run]] crosses to Sarmelis on Lísere Bay in two days, and the Malagnan hulls come down from [[place-gnarthborg|Gnarthborg]] and the north. On the island itself one cart road climbs from the city over the shoulder of Hlomfell to the South Shore, and herders' paths link the villages along the cliffs.
 
 Everything the island eats comes in by ship: grain from Élavendre, timber and furs from the [[place-nrdlndsrgn|Nordlands]], cloth from [[place-provenzrgn|Provénzia]], olive oil and wine from the south. What the island makes for itself is fish, shellfish dye from the southern rocks, wool and goat's cheese from the upland, and an indifferent wine.
 

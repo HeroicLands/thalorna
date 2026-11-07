@@ -20,7 +20,7 @@ Gefavel is the domain of the **Princess of Gefavel**, [[being-itrolaldrvn|Itrola
 
 ## The Land {#the-land}
 
-Gefavel lies in the valleys of the [[place-sathvothe|Satvote]], the kingdom's northern quarter, on the settled ground below the mountains the [[affiliation-aelndntrbs|Áelendan Tribes]] hold. It is farming and grazing country, cooler and poorer than the south, and it was poorer still once the crown took back the lands its princes held by grant.
+Gefavel lies in the valleys of the [[place-sathvothe|Satvote]], the kingdom's northern quarter, on the settled ground below the mountains the [[affiliation-aelndntrbs|Áelendan Tribes]] hold. Above its last farms [[place-hidralza|Hidralza]], the shepherds' and pilgrims' pass, climbs past [[place-hydravenmnt|Mount Hidraven]] into Élavendre. It is farming and grazing country, cooler and poorer than the south, and it was poorer still once the crown took back the lands its princes held by grant.
 
 ## Who Holds It {#who-holds-it}
 

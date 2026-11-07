@@ -21,7 +21,7 @@ Leravren lies northeast of [[place-ceravelvale|Keravel Vale]] in the [[place-tal
 
 ## The Land {#the-land}
 
-The lordship climbs from the head of Keravel Vale into forested mountain. Its lower valleys are farmed; above them the forest runs up to the high valleys where the mining communities work the veins and keep to themselves. Its one great road comes down out of the mountains, through Leravren and into the vale, and the timber and ore of the high country come down it. [[place-bloodhills|The Blood Hills]] lie on the edge of its land toward the vale.
+The lordship climbs from the head of Keravel Vale into forested mountain. Its lower valleys are farmed; above them the forest runs up to the high valleys where the mining communities work the veins and keep to themselves. Its one great road comes down out of the mountains, through Leravren and into the vale, and the timber and ore of the high country come down it. Above the last mining camps the road becomes the trail over [[place-ronalza|Ronalza]], the ridge pass, into the [[place-alndntrblnds|Áelendan Tribal Lands]] of Élavendre, and below the castle it runs a day down to [[place-caerceravel|Keravel Castle]]. [[place-bloodhills|The Blood Hills]] lie on the edge of its land toward the vale.
 
 ## Who Holds It {#who-holds-it}
 
@@ -54,6 +54,9 @@ The road through Leravren is the march's oldest way into the mountains, and its 
 
 [[place-leravrncstl|Leravren Castle]]
 : the lord's seat
+
+[[place-ronalza|Ronalza]]
+: the pass at the head of the mountain road
 
 [[place-ilovren|Ilovren]]
 : the lordship of Kaldin's ally

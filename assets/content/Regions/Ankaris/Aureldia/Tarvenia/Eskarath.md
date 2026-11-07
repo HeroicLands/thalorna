@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [tarvenirgn]
   population: 200000
-  borders: [{to: elavendre, bearing: N}, {to: asturath, bearing: S}]
+  borders: [{to: elavendre, bearing: NW}, {to: asturath, bearing: S}]
   packFolder: tarvenia
   government: frtrtryskrth
 ---

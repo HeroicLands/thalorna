@@ -3,7 +3,7 @@ shortcode: batarengulf
 name: {full: Gulf of Bataren}
 type: place
 subType: feature
-description: "The great sheltered bay of Provénzia's northwestern shore—the one deep harbor on an ocean coast otherwise made of cliffs, and the kingdom's whole window on the northern sea-roads."
+description: "The wide bight of the cold ocean between the western shores of Provénzia and Élavendre—the water of the one deep harbor on an ocean coast otherwise made of cliffs, and the kingdom's whole window on the northern sea-roads."
 tags: [coastal]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
@@ -11,10 +11,11 @@ data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFold
 The [[place-provenzrgn|Provénzia Region]]'s western shore is a cliff coast: craggy, wind-scoured and almost entirely useless to
 shipping. In the **northwest** it opens.
 
-The Gulf of Bataren is a broad, deep, sheltered bay biting inland from the cold ocean, and it is
+The Gulf of Bataren is a wide bight of the cold ocean between the western bulges of Provénzia and
+the [[place-elavendre|Élavendre Region]], about two hundred and ninety miles across and seventy deep, opening west, and it is
 the single reason Provénzia has any real presence on that water at all. Where
 [[place-volsather|Volsater]] down the coast in [[place-zuravlenrgn|Zuravlen]] is a notch in a cliff
-that is unusable forty days a year, the Gulf is a proper harbor in any weather, with holding ground
+that is unusable forty days a year, the Gulf's inner shore gives a proper harbor in any weather, with holding ground
 and room for a fleet.
 
 [[place-batarencity|Bataren City]] stands on it.

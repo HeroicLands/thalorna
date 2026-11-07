@@ -9,6 +9,11 @@ data:
   demonym: null
   lore: []
   parents: [sathvothe]
+  routes:
+    - {to: harivrencity, bearing: S, mode: land, days: 3, terrain: [coast, road]}
+    - {to: darvenaroad, bearing: N, mode: land, days: 2, terrain: [forest, road]}
+    - {to: liranel, bearing: N, mode: land, days: 5, terrain: [forest, road]}
+    - {to: portaelion, bearing: N, mode: ship, days: 2, terrain: [coast]}
   population: 25000
   government: kngdmprvnz
   packFolder: provenzia
@@ -26,7 +31,7 @@ manner if no longer in law.
 
 Bataren is none of that. It faces the **open ocean**, trades with [[place-elavendre|Élavendre]],
 [[place-eilwith|Eilwìth]] and the northern seas beyond, and takes its money from fish, timber, northern
-furs and freight the south has no interest in. Its weather is gray where the south is bright. Its
+furs and freight the south has no interest in. Two roads carry that trade north. By sea, its ships coast up to [[place-portaelion|Port Aelion]] in two days. By land, [[place-darvenaroad|the Darvena Road]] leaves its landward gate for [[place-liranel|Liranel]], five days through the deep wood of [[place-darvena|Darvena]], and it is the chief trade road between the two kingdoms. South, the road of the northern coast runs to [[place-harivrencity|Hárivren]] and the highway south. Its weather is gray where the south is bright. Its
 building is heavy and low. A Provénzian from [[place-valarencity|Válaren]] finds Bataren cold in every sense and says so.
 
 ## The Élavendren
@@ -59,7 +64,7 @@ The Nordheim fleets came into the gulf from 519 to 530 AF ([[lore-southrnfleets|
 
 ## See Also
 
-- [[place-batarengulf|Gulf of Bataren]] · [[place-elavendre|Élavendre]]
+- [[place-batarengulf|Gulf of Bataren]] · [[place-elavendre|Élavendre]] · [[place-darvenaroad|The Darvena Road]]
 - [[lore-elavendrnppl|Élavendren People]] · [[scenario-slntwrbtrn|The Silent War in Bataren]]
 - [[scenario-ghstshpsglfbtrn|The Ghost Ships of the Gulf of Bataren]] · [[scenario-crsyhrvlnhng|The Curse of Yarvalen Henge]]
 - [[scenario-lstrlcmnvrby|The Lost Relic of Ménavar Abbey]] · [[scenario-crsmnthydrvn|The Curse of Mount Hidraven]]

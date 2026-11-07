@@ -9,6 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [leravren]
+  routes:
+    - {to: caerceravel, bearing: SW, mode: land, days: 1, terrain: [hills, road]}
+    - {to: ronalza, bearing: N, mode: land, days: 2, terrain: [mountains, track]}
+    - {to: alndntrblnds, bearing: N, mode: land, days: 5, terrain: [mountains, track]}
   population: 1200
   borders: [{to: ceravelvale, bearing: SW}]
   government: kngdmprvnz
@@ -17,7 +21,7 @@ data:
 
 ## Overview
 
-Torvila Leravren is the castle town of [[place-leravren|Leravren]], the lordship of the [[place-talothe|Talote]] that holds the road into the mountains, and the hall of [[being-kaldinlnvl|Kaldin al Lénavel na Leravren]]. Some twelve hundred people live below the castle where the mountain road comes down out of the forest toward [[place-ceravelvale|Keravel Vale]]. The town lives on the road: the toll house at its gate, the carters' yards, the timber stacks and the smiths who shoe the ore teams. Its lord keeps the fire of [[affiliation-blackflame|the Black Flame]] in his hall, in the open.
+Torvila Leravren is the castle town of [[place-leravren|Leravren]], the lordship of the [[place-talothe|Talote]] that holds the road into the mountains, and the hall of [[being-kaldinlnvl|Kaldin al Lénavel na Leravren]]. Some twelve hundred people live below the castle where the mountain road comes down out of the forest toward [[place-ceravelvale|Keravel Vale]]. The town lives on the road: the toll house at its gate, the carters' yards, the timber stacks and the smiths who shoe the ore teams. Above the town the road climbs to the mining valleys and becomes the trail over [[place-ronalza|Ronalza]] into Élavendre. Its lord keeps the fire of [[affiliation-blackflame|the Black Flame]] in his hall, in the open.
 
 ## History {#history}
 

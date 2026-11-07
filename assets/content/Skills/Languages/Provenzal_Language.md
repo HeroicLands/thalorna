@@ -7627,6 +7627,14 @@ data:
     - {name: The Rector of Medicine, tongue: translation}
     - {name: Torvila Leravren, tongue: provenzal}
     - {name: Leravren Castle, tongue: translation}
+    - {name: Darvena, tongue: provenzal, gloss: the deep wood}
+    - {name: The Deep Wood, tongue: translation}
+    - {name: Valera Darvena, tongue: provenzal, built: [valera], gloss: the Darvena road}
+    - {name: The Darvena Road, tongue: translation}
+    - {name: Hidralza, tongue: provenzal, built: [ralzena], gloss: the Hidraven pass}
+    - {name: The Hidraven Pass, tongue: translation}
+    - {name: Ronalza, tongue: provenzal, built: [ronal, ralzena], gloss: the ridge pass}
+    - {name: The Ridge Pass, tongue: translation}
   retired:
     - form: Provenzia
       instead: Provénzia

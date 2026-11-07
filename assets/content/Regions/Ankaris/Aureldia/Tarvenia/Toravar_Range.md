@@ -3,20 +3,23 @@ shortcode: toravarrange
 name: {full: Toravar Range, en: [The Toravar]}
 type: place
 subType: feature
-description: "The forested mountain belt that closes Tarvénia's north against Élavendre and runs down its west against Provénzia, densely Áelendan in its high reaches, with the Western March's war passes in its western arm."
+description: "The forested mountain belt that closes Tarvénia's north against Élavendre and Vristwald and runs down its west against Élavendre to Provénzia's corner, densely Áelendan in its high reaches, with the Western March's war passes in its western arm."
 tags: [mountain, frontier]
 data:
   demonym: null
   lore: []
   parents: [tarvenirgn]
   population: 0
-  borders: [{to: elavendre, bearing: N}, {to: provenzrgn, bearing: W}]
+  borders:
+    - {to: elavendre, bearing: W}
+    - {to: provenzrgn, bearing: SW}
+    - {to: vrystwald, bearing: N}
   packFolder: tarvenia
 ---
 
 ## Overview {#overview}
 
-The Toravar Range is the great forested mountain belt of [[place-tarvenirgn|Tarvénia]]'s upper country. It has two arms. The northern arm runs east and west across the north and marks the border with [[place-elavendre|Élavendre]]. The western arm runs along Tarvénia's west and divides it from [[place-provenzrgn|Provénzia]]'s eastern march, [[place-talothe|the Talote]]. On a map the range is a frontier twice over. On the ground its high reaches are Áelendan country, among the most densely Áelendan land outside the [[place-alndntrblnds|Tribal Lands]] themselves.
+The Toravar Range is the great forested mountain belt of [[place-tarvenirgn|Tarvénia]]'s upper country. It has two arms. The northern arm runs east and west across the north and marks the borders with the [[place-elavendre|Élavendre Region]] and, farther east, [[place-vrystwald|Vristwald]]. The western arm runs along Tarvénia's west and divides it from Élavendre, and at its southern foot from the [[place-provenzrgn|Provénzia Region]]'s eastern march, [[place-talothe|the Talote]]. On a map the range is a frontier twice over. On the ground its high reaches are Áelendan country, among the most densely Áelendan land outside the [[place-alndntrblnds|Tribal Lands]] themselves.
 
 ## The Land {#the-land}
 
@@ -24,7 +27,7 @@ The Toravar Range is the great forested mountain belt of [[place-tarvenirgn|Tarv
 
 **The northern arm.** Along the Élavendre border the range is a forested belt, and under it lie the highlands of [[place-eskarath|Eskarath]], whose people are older than the Tarveni.
 
-**The western arm.** Along the Provénzian frontier the range is cold, and its passes are very nearly impassable from the first snow to the thaw. Under it lie the valleys of the [[place-westernmrch|Western March]]. Its passes go over into the Talote, and the chief of them is [[place-grumagando|Grumagando]], the war pass, which the March's hosts take down to the road at [[place-bldfldmalnebris|Malnebris]]. [[place-kemthoza|Kemthoza]] holds its head on the Tarvenan side.
+**The western arm.** Along most of its length the western arm faces Élavendre, and at its southern foot it meets the Provénzian frontier. The range is cold here, and its passes are very nearly impassable from the first snow to the thaw. Under its southern end lie the valleys of the [[place-westernmrch|Western March]]. Its passes go over into the Talote, and the chief of them is [[place-grumagando|Grumagando]], the war pass, which the March's hosts take down to the road at [[place-bldfldmalnebris|Malnebris]]. [[place-kemthoza|Kemthoza]] holds its head on the Tarvenan side.
 
 ## Who Uses It {#who-uses-it}
 
@@ -61,7 +64,7 @@ The clans hold the high reaches, and no Tarvenan crown claims them. The barons b
 : the region whose north and west the range closes
 
 [[place-westernmrch|Western March]]
-: the valleys under the western arm
+: the valleys under the western arm's southern end
 
 [[place-eskarath|Eskarath]]
 : the highlands under the northern arm

@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [elavendre]
+  routes:
+    - {to: gefavelcstl, bearing: S, mode: land, days: 5, terrain: [mountains, track]}
+    - {to: hidralza, bearing: S, mode: land, days: 3, terrain: [mountains, track]}
   population: 180000
   government: kngdmlvndr
   packFolder: elavendre
@@ -19,7 +22,9 @@ the kingdom's eastern and southern borders: perhaps a hundred and eighty thousan
 that could hold far more and does not, because most of it is not the kingdom's to settle.
 
 Mist-shrouded peaks, glacial valleys with lakes in them, high pasture, and the deep old woods below the
-tree line. [[place-drenavrspn|The Drenavar Spine]] is its central range and its sacred heart.
+tree line. Along the southern border the mountains face [[place-provenzrgn|Provénzia]] as far west as the forest of
+[[place-darvena|Darvena]], and the trail over [[place-hidralza|Hidralza]] comes up from the Provénzian valleys of Gefavel past
+[[place-hydravenmnt|Mount Hidraven]] into Áelendan country. [[place-drenavrspn|The Drenavar Spine]] is its central range and its sacred heart.
 
 ## Áelendan Country
 
@@ -91,6 +96,7 @@ Above the tree line in the Spine lie the sealed adits of [[place-kngscut|the wor
 - [[place-eshalshldg|Ésalosa Lodge]]—Áelendan settlement and ceremonial center.
 - [[place-elanmere|Elanmere]]—the lake town at the mountains' foot.
 - [[place-sourimael|Sóurimel]]—a woodland settlement of the Silver Forests.
+- [[place-hidralza|Hidralza]]—the shepherds' and pilgrims' pass from Provénzia.
 - Araelwen: [[place-hldhr|The Held Hour]] · [[place-sngngtrn|The Singing Tarn]] ·
   [[place-wndrngrdg|The Wandering Ridge]] · [[place-wkngstnd|The Waking Stand]]
 

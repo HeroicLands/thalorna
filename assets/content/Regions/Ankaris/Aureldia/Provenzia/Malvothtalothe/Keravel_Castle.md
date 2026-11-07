@@ -9,6 +9,11 @@ data:
   demonym: null
   lore: []
   parents: [ceravelvale]
+  routes:
+    - {to: durvalis, bearing: E, mode: land, days: 2, terrain: [hills, road]}
+    - {to: atavelcstl, bearing: W, mode: land, days: 2, terrain: [hills, road]}
+    - {to: belsaren, bearing: E, mode: land, days: 1, terrain: [hills, road]}
+    - {to: leravrncstl, bearing: NE, mode: land, days: 1, terrain: [hills, road]}
   population: 1200
   government: kngdmprvnz
   packFolder: provenzia

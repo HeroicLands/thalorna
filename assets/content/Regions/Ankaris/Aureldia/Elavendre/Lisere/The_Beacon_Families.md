@@ -73,7 +73,7 @@ The chain has no arms but its lamps. A station is a stone hut, a stack of laid p
 
 ## History {#history}
 
-The first beacon-keepers were the families whose boats were raided first and who lit a fire on the nearest headland to warn the next stretch of shore. The fires grew into a line, and the line into a chain that every village on the shore keeps. The crown's fort at the narrows stands at the chain's head, and its Great Fire leads the lamps, which the crown learned to rely on before it learned how the families keep them.
+The first beacon-keepers were the families whose boats were raided first and who lit a fire on the nearest headland to warn the next stretch of shore. The fires grew into a line, and the line into a chain that every village on the shore keeps. The crown's fort at the head of the bay stands at the chain's head, and its Great Fire leads the lamps, which the crown learned to rely on before it learned how the families keep them.
 
 ## Relations {#relations}
 

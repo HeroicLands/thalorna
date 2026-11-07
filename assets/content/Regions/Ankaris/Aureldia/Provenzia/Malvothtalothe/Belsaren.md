@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [ceravelvale]
+  routes:
+    - {to: caerceravel, bearing: W, mode: land, days: 1, terrain: [hills, road]}
+    - {to: bloodhills, bearing: E, mode: land, days: 1, terrain: [hills, road]}
   population: 220
   government: kngdmprvnz
   packFolder: provenzia
@@ -40,6 +43,9 @@ The quarrel between the two lords serves a third. Kilan Ilovrel wants Belsaren's
 - **The road east.** Belsaren's road is the way into the Blood Hills ([[scenario-firsbldhls|The Fires of the Blood Hills]]).
 
 ## See Also
+
+[[scenario-bldshscrvlvl|Blood and Ashes in Keravel Vale]]
+: the campaign that sets the lordship in its vale
 
 [[place-ceravelvale|Keravel Vale]]
 : the vale the lordship belongs to

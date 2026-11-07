@@ -3,7 +3,7 @@ shortcode: lisere
 name: {full: Lísere}
 type: place
 subType: region
-description: "The northern coast of Élavendre, wrapped around Lísere Bay—cold but temperate, rich in fish, thirty miles across the water from Vristwald, and the kingdom's most raided shore."
+description: "The northern coast of Élavendre, wrapped around Lísere Bay—cold but temperate, rich in fish, facing Vristwald across the water, and the kingdom's most raided shore."
 tags: [region, coastal, border]
 data:
   demonym: null
@@ -24,8 +24,8 @@ thickly wooded; the coast itself is shingle and low headland rather than the cli
 
 ## Across the Water
 
-The bay is the region's whole strategic problem. Thirty miles of open water at the narrows is not a
-frontier; it is a crossing, and it is crossed.
+The bay is the region's whole strategic problem. Sheltered water is not a frontier; it is a
+crossing, and it is crossed, and at the head of the bay the shore runs on into Vristwald by land.
 
 [[place-vrystwald|Vristwald]] lies on the far shore—wild forest country held by the Varokh
 tribes, with large bands of [[lore-grukarfolk|Grukar]] ranging through it out of
@@ -42,7 +42,7 @@ export problem.
 The bay is the nearer threat; the older one comes from the open sea.
 
 **Nordmen** raiders out of the [[place-nrdlndsrgn|Nordlands]] have worked this coast for centuries, in
-seagoing ships that have no need of narrows and no interest in a thirty-mile crossing. Where a Varokh
+seagoing ships that have no need of the bay's shelter. Where a Varokh
 war-party takes cattle and goes home, a Nordmen fleet arrives without warning, strikes anywhere on the
 northern shore, and is gone before a levy can be raised.
 
@@ -66,7 +66,7 @@ it before [[place-beravel|Péravel]] took much notice. ([[lore-northshorefire|Th
 
 ## Places {#places}
 
-**[[place-sarmelis|Sarmelis]]** is the one harbor on the bay that takes ships, a town of fish, ship timber and the Kalipsan trade, and the seat of the crown's sheriff of Lísere. **[[place-durmelen|Durmelen]]** is the crown's fort at the narrows, where the Great Fire of the beacon chain stands and the shore's levy musters. **[[place-hendrel|Hendrel]]** and **[[place-harnasel|Harnasel]]** are beacon villages on the road, the families of the chain's southwest stretch. [[place-coastroad|The Coast Road]] joins them, a short way behind the shingle, from the border of [[place-lirve|Lirve]] to the fort.
+**[[place-sarmelis|Sarmelis]]** is the one harbor on the bay that takes ships, a town of fish, ship timber and the Kalipsan trade, and the seat of the crown's sheriff of Lísere. **[[place-durmelen|Durmelen]]** is the crown's fort at the head of the bay, where the Great Fire of the beacon chain stands and the shore's levy musters. **[[place-hendrel|Hendrel]]** and **[[place-harnasel|Harnasel]]** are beacon villages on the road, the families of the chain's southwest stretch. [[place-coastroad|The Coast Road]] joins them, a short way behind the shingle, from the border of [[place-lirve|Lirve]] to the fort.
 
 Three bodies keep the shore: the [[affiliation-sarmelisconcl|Quay Council of Sarmelis]] holds the harbor, the [[affiliation-durmelengrsn|Garrison of Durmelen]] holds the fort, and the [[affiliation-beaconfamlys|Beacon Families]] hold the lamps.
 

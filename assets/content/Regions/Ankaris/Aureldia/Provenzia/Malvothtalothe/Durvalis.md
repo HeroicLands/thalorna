@@ -13,6 +13,8 @@ data:
   routes:
     - {to: grumagando, bearing: E, mode: land, days: 2, terrain: [mountains, road]}
     - {to: kemthoza, bearing: E, mode: land, days: 3, terrain: [mountains, road]}
+    - {to: pirnebris, bearing: W, mode: land, days: 2, terrain: [hills, road]}
+    - {to: caerceravel, bearing: W, mode: land, days: 2, terrain: [hills, road]}
   government: kngdmprvnz
   packFolder: provenzia
 ---

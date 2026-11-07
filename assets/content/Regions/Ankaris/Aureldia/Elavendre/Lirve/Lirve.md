@@ -19,7 +19,7 @@ thousand people along a seaboard of cliffs, coves and drowned river-mouths, with
 down almost to the tideline.
 
 The coast faces the open western ocean and is worked by the same cold, heavy swell that batters
-[[place-provenzrgn|Provénzia]] further south. It is craggy, and the cliffs are real, but the country softens northward
+the [[place-provenzrgn|Provénzia Region]] further south. Its southern edge is the deep wood of [[place-darvena|Darvena]] on the Provénzian border, and [[place-darvenaroad|the Darvena Road]] comes up through it from [[place-batarencity|Bataren City]] to [[place-liranel|Liranel]], the chief trade road between the two kingdoms. The coast is craggy, and the cliffs are real, but the country softens northward
 toward [[place-lisere|Lísere]], where the cliffs give way to long shingle and sheltered inlets.
 
 ## The Senali Coast
@@ -96,6 +96,6 @@ An Order fellow at Liranel is hiring guards to go to the Wrought Hollow on a moo
 
 ## See Also
 
-- [[place-elavendre|Élavendre]] · [[lore-flksenali|Senali]] · [[lore-aralwen|Araelwen]]
+- [[place-elavendre|Élavendre]] · [[lore-flksenali|Senali]] · [[lore-aralwen|Araelwen]] · [[place-darvenaroad|The Darvena Road]]
 - [[scenario-crpntrsnght|The Carpenters' Night]], a scenario set here
 - [[scenario-grvthtsntrs|The Grove That Is Not Ours]], a scenario set here

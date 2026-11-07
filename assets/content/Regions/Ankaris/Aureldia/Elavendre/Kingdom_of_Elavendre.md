@@ -80,7 +80,7 @@ data:
       Lieutenant of the Admiral: >-
         Held by a Knight. Keeps the crown's cutters at one harbor, as at the mole of Sarmelis, and answers to the Admiral for the coast.
       Castellan: >-
-        Held by a Knight, named by the crown. Holds a crown fort, as Durmelen at the narrows of Lísere Bay, and answers to the crown for its wall, its garrison, its stores and its beacon.
+        Held by a Knight, named by the crown. Holds a crown fort, as Durmelen at the head of Lísere Bay, and answers to the crown for its wall, its garrison, its stores and its beacon.
       Captain of the Border Militia: >-
         Held by a Freeman or above. A professional soldier who commands the crown's border militia.
       Liaison to the Tribes: >-
@@ -182,7 +182,7 @@ Below the crown stand bodies that govern their own ground under it:
 - [[affiliation-twncnclprtaln|The Town Council of Port Aelion]], the freemen and older families of the chief harbor.
 - [[affiliation-sarmelisconcl|The Quay Council of Sarmelis]], the boat-masters who hold the bay's one harbor.
 - [[affiliation-beaconfamlys|The Beacon Families]], the lines that keep the lamps of the Lísere shore.
-- [[affiliation-durmelengrsn|The Garrison of Durmelen]], the crown's fort at the narrows under its Castellan.
+- [[affiliation-durmelengrsn|The Garrison of Durmelen]], the crown's fort at the head of Lísere Bay under its Castellan.
 - [[affiliation-morthalwtch|The Morthal Watch]], which holds the bay road through [[place-morthalmrch|the Morthal March]].
 - [[affiliation-brdrmltia|The Border Militia]], the crown's sworn companies and the levy.
 - [[affiliation-thrglnklps|The Thárgalon of Kélpasi]], the council of hearth-heads of a hill village of Áuldalon.

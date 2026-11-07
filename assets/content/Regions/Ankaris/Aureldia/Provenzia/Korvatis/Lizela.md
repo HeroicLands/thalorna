@@ -9,6 +9,12 @@ data:
   demonym: null
   lore: []
   parents: [korvathis]
+  routes:
+    - {to: aureliane, bearing: N, mode: land, days: 1, terrain: [hills, road]}
+    - {to: jalnazdal, bearing: E, mode: land, days: 2, terrain: [coast, road]}
+    - {to: valarencity, bearing: W, mode: land, days: 2, terrain: [coast, road]}
+    - {to: valarencity, bearing: W, mode: ship, days: 1, terrain: [coast]}
+    - {to: kalveza, bearing: E, mode: ship, days: 2, terrain: [coast]}
   population: 6000
   government: kngdmprvnz
   packFolder: provenzia
@@ -28,6 +34,8 @@ fraction as much and are worked as a sideline to fishing.
 Salt from Lizela preserves the fish of two coasts, cures the hams of the southern hills, and is
 carried inland as far as [[place-talothe|Talote]]. It is dull, indispensable and extremely profitable, and it
 has made the town's fortunes without ever making it fashionable.
+
+The roads meet above the town. The coast road comes in from [[place-valarencity|Válaren City]], two days west, and at the crossroads in the hills above Lizela it meets the great road coming down from [[place-aureliane|Aurelane]], a day inland, and the inn called the Dumvaral stands at the crossroads. The two run on together along the shore to [[place-jalnazdal|Jalnasdal]], and the coast road goes on beyond it to [[place-kalveza|Kalveza]]. Most of the salt goes by sea. The salt route runs along the coast from Lizela's quay, west to Válaren and east to Kalveza, and [[affiliation-crownships|the Crown's Ships]] keep it.
 
 ## The Houses
 

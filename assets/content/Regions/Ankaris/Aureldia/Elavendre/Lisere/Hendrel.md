@@ -49,7 +49,7 @@ Taldor's oldest line is the line of the beacon-keeper who asked the Toll-Keeper 
 
 ## What Is Seen from It {#what-is-seen}
 
-From the beacon-house on the point the watch sees the whole stretch of the bay's southern shore and the far line of the northern horn on a clear night. The beacon-house sees [[place-sarmelis|Sarmelis]]'s Lamp Tower to the northeast and the next station along the road to the southwest, and a fire on either answers within the minute. What the watch sees on the water is small boats, fishing luggers and, some nights, a darker shape that does not carry lamps.
+From the beacon-house on the point the watch sees the whole stretch of the bay's southern shore. The beacon-house sees [[place-sarmelis|Sarmelis]]'s Lamp Tower to the northeast and the next station along the road to the southwest, and a fire on either answers within the minute. What the watch sees on the water is small boats, fishing luggers and, some nights, a darker shape that does not carry lamps.
 
 ## The Cost of Reaching It {#cost-of-reaching-it}
 

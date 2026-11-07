@@ -24,6 +24,10 @@ Relations with [[affiliation-kngdmlvndr|Élavendre]] are **very cordial** and th
 simple. It is the most mixed country in the kingdom, its coast trades north instead of south, and its
 uplands belong to people who acknowledge no crown at all.
 
+## The Forest and the Passes
+
+The land border with Élavendre is forest in the west and mountain everywhere else. The western sixth of it is [[place-darvena|Darvena]], the deep wood, and [[place-darvenaroad|the Darvena Road]] crosses it from [[place-batarencity|Bataren City]] to [[place-liranel|Liranel]] in five days. It is the chief trade road between the two kingdoms, and the one land way between them that stays open through the winter. East of the forest the mountains begin, and [[place-hidralza|Hidralza]], the shepherds' and pilgrims' pass, goes up from the valleys of [[place-gwefavel|Gefavel]] past the shoulder of [[place-hydravenmnt|Mount Hidraven]] into the Áelendan country of [[place-sorvanda|Sórvanda]]. The other northern pass, [[place-ronalza|Ronalza]], lies further east, at the head of Leravren's mountain road in the Talote.
+
 ## The Áelendan Country
 
 The high ground belongs to the [[affiliation-aelndntrbs|Áelendan Tribes]]—the tribal kin of the
@@ -56,6 +60,12 @@ Two centuries ago a fleet used it ([[lore-southrnfleets|the Southern Fleets]]). 
 
 [[place-batarencity|Bataren City]]
 : the ocean port, substantially Élavendren, trading north rather than south, and quietly grinding over rights both crowns treat as domestic.
+
+[[place-darvena|Darvena]] and [[place-darvenaroad|the Darvena Road]]
+: the deep wood of the western border and the trade road through it to Élavendre.
+
+[[place-hidralza|Hidralza]]
+: the pass over the mountains from Gefavel into Sórvanda.
 
 ## Current Situation {#present}
 

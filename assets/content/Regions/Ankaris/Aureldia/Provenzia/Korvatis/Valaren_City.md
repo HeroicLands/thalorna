@@ -10,6 +10,10 @@ data:
   demonym: null
   lore: []
   parents: [korvathis]
+  routes:
+    - {to: lizela, bearing: E, mode: land, days: 2, terrain: [coast, road]}
+    - {to: lizela, bearing: E, mode: ship, days: 1, terrain: [coast]}
+    - {to: harivrencity, bearing: N, mode: land, days: 5, terrain: [hills, road]}
   population: 45000
   government: kngdmprvnz
   packFolder: provenzia

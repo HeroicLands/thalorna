@@ -3,7 +3,7 @@ shortcode: durmelen
 name: {full: Durmelen}
 type: place
 subType: settlement
-description: "The crown's border fort on the tip of Lísere's horn at the narrows, thirty miles of water from Vristwald, where the Great Fire of the beacon chain stands and the shore's levy musters."
+description: "The crown's border fort at the head of Lísere Bay, on the last headland of the Élavendren shore beside the Vristwald border, where the Great Fire of the beacon chain stands and the shore's levy musters."
 tags: [fortified, coastal]
 data:
   demonym: null
@@ -19,9 +19,9 @@ data:
 
 ## Overview {#overview}
 
-**Durmelen** is the crown's fort at the narrows of [[place-liserebay|Lísere Bay]]. It stands on the last rise of the Élavendren horn, where the two arms of the bay come nearest, and from its tower the water to the far horn is thirty miles. On a very clear morning the hills of [[place-vrystwald|Vristwald]] show as a smudge on the northern edge of the sea. About 340 people live inside the wall and below it: the garrison, the families it brings, a smith, a chandler, and the boat-crews who keep the fort's cutters.
+**Durmelen** is the crown's fort at the head of [[place-liserebay|Lísere Bay]]. It stands on the last headland of the Élavendren shore, beside the border of [[place-vrystwald|Vristwald]], and from its tower the watch sees the shore come round the head of the bay into Vristwald's forest. About 340 people live inside the wall and below it: the garrison, the families it brings, a smith, a chandler, and the boat-crews who keep the fort's cutters.
 
-Its work is three plain tasks. It sees what crosses the narrows. It lights the Great Fire so that the whole [[place-lisere|Lísere]] shore knows. It holds the shore's muster until the levy is in.
+Its work is three plain tasks. It sees what comes round the head of the bay. It lights the Great Fire so that the whole [[place-lisere|Lísere]] shore knows. It holds the shore's muster until the levy is in.
 
 ## History {#history}
 

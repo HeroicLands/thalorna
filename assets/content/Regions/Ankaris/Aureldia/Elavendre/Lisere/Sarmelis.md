@@ -22,9 +22,9 @@ data:
 
 ## Overview {#overview}
 
-**Sarmelis** is the one harbor on [[place-liserebay|Lísere Bay]] that takes ships and not only boats. It stands at the head of the bay on a bend of the shingle, behind a long stone mole and a headland that carries the town's beacon, and about 5,600 people live in it. Every other landing on the [[place-lisere|Lísere]] shore is a beach where boats are hauled up; Sarmelis has quays, a shipyard, smokehouses and a fish market that sets the price of salt-fish for the whole north. It is the seat of the crown's sheriff of Lísere, and the [[place-coastroad|Coast Road]] runs through its gates.
+**Sarmelis** is the one harbor on [[place-liserebay|Lísere Bay]] that takes ships and not only boats. It stands on the bay's southern shore on a bend of the shingle, behind a long stone mole and a headland that carries the town's beacon, and about 5,600 people live in it. Every other landing on the [[place-lisere|Lísere]] shore is a beach where boats are hauled up; Sarmelis has quays, a shipyard, smokehouses and a fish market that sets the price of salt-fish for the whole north. It is the seat of the crown's sheriff of Lísere, and the [[place-coastroad|Coast Road]] runs through its gates.
 
-[[place-calypsacity|Kalipsa]] lies seventy-five miles off across the mouth of the bay, a day and a night by [[place-kalipsarun|the Kalipsa Run]], and a good part of what Sarmelis lives on is Kalipsa's business done on Élavendren ground.
+[[place-calypsacity|Kalipsa]] lies off the mouth of the bay, two days by [[place-kalipsarun|the Kalipsa Run]], and a good part of what Sarmelis lives on is Kalipsa's business done on Élavendren ground.
 
 ## Arriving {#arriving}
 
@@ -78,7 +78,7 @@ The town began as a landing under the shingle where the boats of the first coast
 : the road through its gates
 
 [[place-durmelen|Durmelen]]
-: the border fort at the narrows
+: the border fort at the head of the bay
 
 [[place-hendrel|Hendrel]]
 : the beacon village on the road to the southwest

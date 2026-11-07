@@ -56,7 +56,7 @@ The bay road is slower than the water and safer in a gale. From [[place-sarmelis
 
 ## History {#history}
 
-The road is older than the Watch. It was the way the earliest Varokh bands came into the hills, and the first posts on it were the hill steadings' own, kept by the families whose stock was taken. The crown took the posts into a single Watch after the Nordmen fleets burned the north shore ([[lore-northshorefire|The Burning of the North Shore]]), when it set stone at the narrows and a chain of lamps along the coast and found that a coast held on one side was entered on the other.
+The road is older than the Watch. It was the way the earliest Varokh bands came into the hills, and the first posts on it were the hill steadings' own, kept by the families whose stock was taken. The crown took the posts into a single Watch after the Nordmen fleets burned the north shore ([[lore-northshorefire|The Burning of the North Shore]]), when it set stone at the head of the bay and a chain of lamps along the coast and found that a coast held on one side was entered on the other.
 
 ## Hooks {#hooks}
 

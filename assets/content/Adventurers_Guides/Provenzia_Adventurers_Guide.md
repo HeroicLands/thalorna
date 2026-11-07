@@ -12,7 +12,7 @@ Provénzia Adventurer's Guide opens at the harbor:
 
 > The ship comes into [[place-valarencity|Válaren]] in the full heat of the afternoon, and the light off the harbor is so white that you squint at the city through your fingers. White stone rises from the water in tiers, every gallery shuttered in green or blue against the sun, and the breeze off the [[place-vylarianse|Vilérian Sea]] carries tar, hot dust and the sweetness of fruit going soft in the sun. The quay is loud. Porters argue the weight of a crate in quick, rising voices that sound like a quarrel and end in laughter; a boy runs past with a basket of peaches packed in straw, each one wrapped in its own leaf; a glassblower's runner carries a rack of green goblets on his head and calls a running string of compliments to anyone who steps out of his way. A merchant in a doublet slashed with saffron silk reads a letter under an awning while a clerk at his elbow fans him with a ledger.
 >
-> A young woman in sea-blue linen threads the crowd toward you, a fan of carved bone in one hand and a folded paper sealed in red wax in the other. She looks you over from boots to hat, takes in the salt stains, and smiles as if you had arrived in velvet. "_Brave jhorne, genthe korthe; que la preja soie talv vei_," she says, quick and musical: good day, noble companion, may peace be with you. "[Nálira]{.name data-type="being/npc"}, of Válaren, of the [Halrith]{.name data-type="affiliation"}, and I come from the [[affiliation-hsekorisvar|Kórisvars]] of [[place-lizela|Lizela]]." She lays the sealed paper in your hand with a little bow and waits, fan still, to see whether you will open it in front of her.
+> A young woman in sea-blue linen threads the crowd toward you, a fan of carved bone in one hand and a folded paper sealed in red wax in the other. She looks you over from boots to hat, takes in the salt stains, and smiles as if you had arrived in velvet. "_Brave jhorne genthe korthe. que la preja soie talv vei_," she says, quick and musical: good day, noble companion, may peace be with you. "I am Nálira, of Válaren, in the service of the [[affiliation-hsekorisvar|Kórisvars]] of [[place-lizela|Lizela]]." She lays the sealed paper in your hand with a little bow and waits, fan still, to see whether you will open it in front of her.
 
 [[place-provenzrgn|Provénzia]] is the rich, clever southwest of [[place-aureldirgn|Aureldia]], a country of marble cities, vineyards and learning between the warm Vilérian Sea and the cold ocean. Half of its stone was inherited from the [[affiliation-vylarinmpr|Vilérian Empire]] and half was built since out of trade money. The [[affiliation-kngdmprvnz|Kingdom of Provénzia]] has a king, a [[affiliation-councilpeers|Council of Peers]] and chartered cities, and the cities matter most: a Provénzian names his city before his family and treats the man forty miles up the coast as a foreigner with a funny accent.
 
@@ -33,6 +33,20 @@ The east is the [[place-talothe|Talote]], the mountain march against [[affiliati
 ## The Blood-fields
 
 Provénzia names the ground rather than the battle. Scattered across the kingdom are the [[lore-bloodfields|blood-fields]], where so many died at once that the boundary with the spirit world tore and never closed. The commonest kind, a recurrence, only repeats the battle on its night. A quickening makes the land grow too well, and the farmers there do not talk about it. A silence keeps every bird away, and a dread returns the panic or rage once felt on it. The worst is a withering, and the one at [[place-bldfldyharvalen|Yarvalen]] is killing the country around it. [[affiliation-sacredforge|The Sacred Forge]] says [[affiliation-blackflame|the Black Flame]] is rousing it on purpose, and nobody at court believes the Forge.
+
+## People to Meet
+
+The king who rules by bargaining, the peers who hold him to it and the officers who keep the marches: these are the people a party meets first in Provénzia, and most of them want something.
+
+- [[being-kralenldrvn|King Kralen Lédravren]] reigns from Jalnasdal and holds the crown by bargaining with the Council of Peers, the great houses and the chartered cities.
+- [[being-rutalplnvr|Rutal Pélanvri]], the Earl of Degavel and First Peer, holds the Council against the crown's prerogative and the Count of Atavel.
+- [[being-velzoreaitv|Velzore Aitevis]], the Count of Atavel, is Chancellor of Provénzia and keeps the great seal for the crown.
+- [[being-avaarlzlvrn|Avaarl Zilavren]], the Earl of Hárivren, holds the western march for the crown from Hárivren City and is the kingdom's most senior noble of the Black Flame, openly.
+- [[being-jarvelplnvr|Jarvel al Pélanvri na Torvila Keravel]], Marshal of the Western Army, holds the Tarvénian frontier from Torvila Keravel and is liege of the lesser lords of Keravel Vale.
+- [[being-talvenekmrl|Talvene Komrelis]], the Warden of the Talote, holds the eastern march from Durvalis, musters the levy every spring and keeps the peace of the Winter Assize.
+- [[being-nelamzsatr|Nelameza Sateris]], Rector of the Academy of Philosophy and Rhetoric at Aurelane, lets her masters write for both sides of the salt loan and keeps her own opinion to herself.
+- [[being-chzltolmrs|Chezile Tolmaris]], First Speaker of the Provénzia Theater Collective, is a Jalnasdal playwright celebrated for his political comedies and feared for the precision of his satire.
+- [[being-kelnstylgn|Kelena Estilgon]], a courtesan of Pirnebris and the capital and a founder of the Theater Collective, is valued as much for her counsel and her silence as for her company.
 
 ## Ways In
 

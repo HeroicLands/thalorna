@@ -12,6 +12,8 @@ data:
     - {to: nrdlndsrgn, bearing: NW}
     - {to: aureldirgn, bearing: S}
     - {to: elavendre, bearing: SW}
+    - {to: tarvenirgn, bearing: S}
+    - {to: toravarrange, bearing: S}
     - {to: velanthrgn, bearing: E}
     - {to: vylariargn, bearing: SE}
     - {to: moktur, bearing: S}

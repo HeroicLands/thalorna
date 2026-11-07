@@ -9,6 +9,9 @@ data:
   demonym: Áelendan
   lore: [humanflk]
   parents: [sorvanda]
+  routes:
+    - {to: leravrncstl, bearing: S, mode: land, days: 5, terrain: [mountains, track]}
+    - {to: ronalza, bearing: S, mode: land, days: 3, terrain: [mountains, track]}
   population: 150000
   packFolder: elavendre
   government: aelndntrbs
@@ -51,7 +54,7 @@ The eastern edge of the Áelendan sacred country runs along the [[place-kervaron
 
 Although the Tribal Lands proper sit within Élavendre, Áelendan communities exist well beyond Élavendri borders—most substantially across the [[place-toravarrange|Toravar Range]] and through the forested uplands of northern Tarvénia. These are not lost-tribes-of-the-Áelendan or schismatic offshoots; they are the same people, holding the same Kindred Pact, recognizing the same Wardens, observing the same religious calendar. They live where they live because the high mountain country and the deep forests of northern Tarvénia are the same kind of land the Áelendan have always preferred—defensible, sparsely populated, and rich in the kind of sacred geography the Kindred Pact requires.
 
-The Toravar Range itself, which forms the natural northern border of Tarvénia and the southern border of Élavendre, is densely Áelendan in its higher reaches. So are the great forested uplands that flank it on both sides. Smaller enclaves are scattered further south into the Tarvenan highland interior, generally clustered around sacred springs, ancient groves, or the stone-circle sanctuaries that mark the older Pelwar settlements. Total Áelendan population outside Élavendre is perhaps a quarter of the total—substantial, geographically dispersed, and politically significant when the Kindred Pact calls.
+The Toravar Range itself, which forms the natural northern and western borders of Tarvénia and the eastern border of Élavendre, is densely Áelendan in its higher reaches. So are the great forested uplands that flank it on both sides. Smaller enclaves are scattered further south into the Tarvenan highland interior, generally clustered around sacred springs, ancient groves, or the stone-circle sanctuaries that mark the older Pelwar settlements. Total Áelendan population outside Élavendre is perhaps a quarter of the total—substantial, geographically dispersed, and politically significant when the Kindred Pact calls.
 
 Relations with the Tarvenan kingdoms are mostly cordial. The Áelendan occupy the kind of territory the Tarvenan crown and the lowland feudal nobility have no use for: too cold, too steep, too forested, and (in Tarvenan reckoning) too haunted to settle. The Áelendan, in turn, leave the lowland farmland and the cities entirely alone. The arrangement has held for many generations.
 
@@ -101,6 +104,9 @@ A handful of chartered lowland settlements sit at the edge of the Lands, among t
 
 [[place-nelgan|The Snow-Gate]]
 : The eastern pass the people came over in snow, kept by a Wardens' watch-post
+
+[[place-ronalza|Ronalza]]
+: The Provénzian ridge pass, whose trail comes over the southern mountains from Leravren into the Lands
 
 Mountain sanctuaries and grove shrines
 : Scattered across the interior; each has its own standing in the Kindred Pact and its own customary protocols

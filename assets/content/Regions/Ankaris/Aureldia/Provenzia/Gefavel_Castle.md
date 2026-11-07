@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [gwefavel]
+  routes:
+    - {to: hidralza, bearing: N, mode: land, days: 2, terrain: [mountains, track]}
+    - {to: sorvanda, bearing: N, mode: land, days: 5, terrain: [mountains, track]}
   population: 1100
   government: kngdmprvnz
   packFolder: provenzia
@@ -16,7 +19,7 @@ data:
 
 ## Overview
 
-Torvila Gefavel is the stronghold of the Princess of [[place-gwefavel|Gefavel]], [[being-itrolaldrvn|Itrola Lédravren]], in the valleys of the [[place-sathvothe|Satvote]]. Some eleven hundred people live in the town below it. It is the seat of a cadet branch of [[affiliation-hseledravren|House Lédravren]], and it is a poorer seat than it was.
+Torvila Gefavel is the stronghold of the Princess of [[place-gwefavel|Gefavel]], [[being-itrolaldrvn|Itrola Lédravren]], in the valleys of the [[place-sathvothe|Satvote]]. Some eleven hundred people live in the town below it. It is the seat of a cadet branch of [[affiliation-hseledravren|House Lédravren]], and it is a poorer seat than it was. The trail over [[place-hidralza|Hidralza]] starts in the valley above the town, and the flocks go up it after the thaw.
 
 ## History {#history}
 

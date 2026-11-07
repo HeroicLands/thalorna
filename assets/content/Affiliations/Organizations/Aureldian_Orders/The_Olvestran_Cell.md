@@ -32,7 +32,8 @@ data:
         title: Elder of the Ash
         description: >-
           The cell's commander.
-    offices: {Cell Commander: The Elder of the Ash in command of the cell.}
+    offices:
+      Cell Commander: The Elder of the Ash in command of the cell. Its holder is not publicly known.
   seat: olvestria
   population: null
   economy: []

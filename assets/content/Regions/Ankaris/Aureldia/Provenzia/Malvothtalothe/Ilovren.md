@@ -37,6 +37,9 @@ Kilan is a secret devotee of [[affiliation-blackflame|the Black Flame]]. The gro
 
 ## See Also
 
+[[scenario-bldshscrvlvl|Blood and Ashes in Keravel Vale]]
+: the campaign that sets the lordship in its vale
+
 [[scenario-webdeceit|The Web of Deceit]]
 : the adventure's part that confronts Kilan
 

@@ -79,7 +79,7 @@ The militia does not enter the tribal country. The crown's oath stops at the tre
 
 ## History {#history}
 
-The levy is the older of the two bodies. The hill levy was the force that harried a Vilérian legion into the forest margin without giving it battle ([[lore-elvtribute|The Tribute of Élavendre]]), and the shore's levy is older than the stone at Durmelen. The sworn companies were added after the Nordmen fleets burned the north shore, when the crown held the narrows with stone and found that its levy could not be raised in the time a fleet took to come and go ([[lore-northshorefire|The Burning of the North Shore]]).
+The levy is the older of the two bodies. The hill levy was the force that harried a Vilérian legion into the forest margin without giving it battle ([[lore-elvtribute|The Tribute of Élavendre]]), and the shore's levy is older than the stone at Durmelen. The sworn companies were added after the Nordmen fleets burned the north shore, when the crown held the head of the bay with stone and found that its levy could not be raised in the time a fleet took to come and go ([[lore-northshorefire|The Burning of the North Shore]]).
 
 ## Relations {#relations}
 
@@ -93,7 +93,7 @@ The militia answers to the crown and has no quarrel with the Áelendan, who keep
 ## See Also {#see-also}
 
 [[affiliation-durmelengrsn|Garrison of Durmelen]]
-: the sworn men and the shore's levy at the narrows
+: the sworn men and the shore's levy at the head of the bay
 
 [[affiliation-morthalwtch|The Morthal Watch]]
 : the militia's riders on the bay road

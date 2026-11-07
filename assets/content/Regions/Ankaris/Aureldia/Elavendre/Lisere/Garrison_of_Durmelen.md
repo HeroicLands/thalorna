@@ -3,7 +3,7 @@ shortcode: durmelengrsn
 name: {full: Garrison of Durmelen}
 type: affiliation
 subType: polity
-description: "The sworn men and the shore's levy who hold the crown's fort at the narrows of Lísere Bay under a Castellan, keep the Great Fire and muster the coast."
+description: "The sworn men and the shore's levy who hold the crown's fort at the head of Lísere Bay under a Castellan, keep the Great Fire and muster the coast."
 tags: []
 data:
   culture: elavendriclt
@@ -55,7 +55,7 @@ sohl: {system: {commonSkills: [elvndrlng]}}
 
 ## Overview {#overview}
 
-The **Garrison of Durmelen** is the company that holds [[place-durmelen|Durmelen]], the crown's fort at the narrows of [[place-liserebay|Lísere Bay]]. It is a standing body of sworn men under a Castellan, and beside it stand the levy of the shore's villages, who come up to the fort in their turns. It sees what crosses the narrows, lights the Great Fire so that the whole [[place-lisere|Lísere]] shore knows, and holds the muster until the levy is in.
+The **Garrison of Durmelen** is the company that holds [[place-durmelen|Durmelen]], the crown's fort at the head of [[place-liserebay|Lísere Bay]]. It is a standing body of sworn men under a Castellan, and beside it stand the levy of the shore's villages, who come up to the fort in their turns. It sees what comes round the head of the bay, lights the Great Fire so that the whole [[place-lisere|Lísere]] shore knows, and holds the muster until the levy is in.
 
 ## How It Is Ruled {#how-it-is-ruled}
 
@@ -75,7 +75,7 @@ The garrison keeps four oared cutters in the lee and the iron basket of the Grea
 
 ## History {#history}
 
-The garrison begins with the crown's decision, after the Nordmen fleets burned the north shore, to hold the narrows with stone and not only with the shore's boats. The first Castellan took the fort under the oath that the crown would make no treaty with the Nordmen, and every Castellan since has taken it the same way. The levy's turns at the fort are older than the stone, and the sworn men were added to them.
+The garrison begins with the crown's decision, after the Nordmen fleets burned the north shore, to hold the head of the bay with stone and not only with the shore's boats. The first Castellan took the fort under the oath that the crown would make no treaty with the Nordmen, and every Castellan since has taken it the same way. The levy's turns at the fort are older than the stone, and the sworn men were added to them.
 
 ## Relations {#relations}
 

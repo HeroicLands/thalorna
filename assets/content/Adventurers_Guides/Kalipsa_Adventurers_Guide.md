@@ -38,7 +38,7 @@ The kitchens serve smoked fish with southern spice and olive oil. The wine comes
 
 **[[place-calypsashore|The South Shore]]**, over the ridge, is the island that is not the city: fishing villages in the southern coves, the dye-vats of [Vrellnes]{.name data-type="place/settlement"} that stain the rocks red, and the upland steadings where goats graze on the turf below the bare ridge. The villages speak an older Nordmal than the city, choose their own elders, and have no voice on the Council. After this summer's drought they are not pleased with the city.
 
-**[[place-kalipsarun|The Kalipsa Run]]** is how most people arrive and how most leave: a day and a night across from [[place-sarmelis|Sarmelis]] at the head of Lísere Bay, carrying grain and fish west and everything else east, with a good deal of it never entered at the Élavendren crown's tally-house.
+**[[place-kalipsarun|The Kalipsa Run]]** is how most people arrive and how most leave: two days across from [[place-sarmelis|Sarmelis]] on the southern shore of Lísere Bay, carrying grain and fish west and everything else east, with a good deal of it never entered at the Élavendren crown's tally-house.
 
 ## The Council and the Houses
 

@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [lirve]
+  routes: [{to: batarencity, bearing: S, mode: ship, days: 2, terrain: [coast]}]
   population: 9000
   government: twncnclprtaln
   packFolder: elavendre
@@ -29,6 +30,8 @@ A ship comes in under the headland, where the swell drops away, and is given a b
 **Timber.** Squared oak and birch come down from Liranel's yards, already measured at its tally-house, and the town's wharves load them without measuring them again. The shipwrights build from the same timber, cut under license by woodcutters such as [[being-thalrkhlrn|Thalrik Halren]], and longshorewomen such as [[being-porenadhrl|Pórena Darel]] load the holds.
 
 **Salt-fish and dye.** The coast's fish and its lichen and shellfish dyes go out by sea to the realms that pay most for them.
+
+**The Bataren run.** Ships from [[place-batarencity|Bataren City]], Provénzia's ocean port, coast up in two days with southern wine, oil and salt and go back with Élavendren manufactures.
 
 **Envoys.** [[affiliation-clgenvoys|The Envoys' College]] of [[affiliation-bardicolgs|the Bardic Colleges]] stands in the town, where every foreign word comes ashore, and sends its bards out as envoys to houses and foreign courts. Its students listen in the public gallery of the council for a year before they are allowed to speak.
 

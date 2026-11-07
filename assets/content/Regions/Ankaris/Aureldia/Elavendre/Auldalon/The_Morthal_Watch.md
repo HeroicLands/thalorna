@@ -75,7 +75,7 @@ The Watch is lightly armed and fast: spear, short bow and a hill pony, with the 
 
 ## History {#history}
 
-The Watch was made from the steadings' own posts. After the Nordmen fleets burned the north shore the crown held the narrows with stone and found that the bay road was the other door, and it put the steadings' posts under a single Captain with a commission and a tally. Every Warden since has kept the crown's oath at the tree line, and the Watch's Riders learn it before they learn the road.
+The Watch was made from the steadings' own posts. After the Nordmen fleets burned the north shore the crown held the head of the bay with stone and found that the bay road was the other door, and it put the steadings' posts under a single Captain with a commission and a tally. Every Warden since has kept the crown's oath at the tree line, and the Watch's Riders learn it before they learn the road.
 
 ## Relations {#relations}
 

@@ -10,10 +10,11 @@ data:
   parents: [aureldirgn]
   population: 5000000
   borders:
-    - {to: tarvenirgn, bearing: E}
-    - {to: toravarrange, bearing: E}
+    - {to: tarvenirgn, bearing: NE}
+    - {to: toravarrange, bearing: NE}
     - {to: elavendre, bearing: N}
     - {to: galvaren, bearing: E}
+    - {to: vylarianse, bearing: S}
   packFolder: provenzia
   government: kngdmprvnz
   culture: provenzianclt
@@ -27,11 +28,13 @@ Provénzia is the land of the chartered city: a kingdom whose king rules under a
 
 ## Geography
 
-Provénzia occupies the southwestern corner of Ankaris, bounded by [[place-elavendre|Élavendre]] to the north and the [[place-tarvenirgn|Tarvénia Region]] to the east, beyond which lies the [[affiliation-vylarinmpr|Vilérian Empire]]. It has two coasts and they are nothing alike. The Vilérian Sea forms its southern border—warm, sheltered, fringed with long sandy beaches, and the highway of nearly all its trade—while its western shore faces the **open ocean**, a vastly larger and far colder water, where craggy cliffs stand above deep gray swell and the wind comes ashore unbroken. Inland the ground rises: the north and east of the region are hilly and then frankly mountainous, and those eastern uplands carry the Tarvénian frontier.
+Provénzia occupies the southwestern corner of Ankaris, and each of its four edges is a different frontier. To the west is the open ocean. To the south is the Vilérian Sea. To the east an inlet of the same sea divides it from the [[place-galvaren|Galvaren]] coast of the [[place-tarvenirgn|Tarvénia Region]], beyond which lies the [[affiliation-vylarinmpr|Vilérian Empire]]. Mountains meet Tarvénia only at the north-east corner, and the Tarvénian passes cross them below [[place-durvalis|Durvalis]]. To the north lies the [[place-elavendre|Élavendre Region]]. All but the western sixth of that northern edge is mountain, crossed by two passes, [[place-hidralza|Hidralza]] and [[place-ronalza|Ronalza]], whose trails lead into the remote Áelendan country of Élavendre. The western sixth is deep forest, [[place-darvena|Darvena]], and one road crosses it: [[place-darvenaroad|the Darvena Road]] from [[place-batarencity|Bataren City]] to [[place-liranel|Liranel]], the chief trade road between the two kingdoms.
+
+It has two coasts and they are nothing alike. The Vilérian Sea forms its southern and eastern shores—warm, sheltered, fringed with long sandy beaches, and the highway of nearly all its trade—while its western shore faces the **open ocean**, a vastly larger and far colder water, where craggy cliffs stand above deep gray swell and the wind comes ashore unbroken. Inland the ground rises: the north of the region is hilly and then frankly mountainous, and the uplands of its north-east corner carry the Tarvénian frontier. Only the northwest stays low, where the hinterland of the gulf runs into the forest.
 
 The whole region is **temperate**, but not uniformly so. The southern reaches along the Vilérian Sea
 are the warmest and grow what warmth allows; the western seaboard is cooler and grayer than its
-latitude suggests, the cold ocean seeing to that; and the northern and eastern mountains are genuinely
+latitude suggests, the cold ocean seeing to that; and the northern mountains are genuinely
 cold and **very nearly impassable in winter**, when the passes close and the high valleys are left to
 themselves for months at a time.
 
@@ -81,7 +84,7 @@ The Élavendren influence is strong, particularly in the use of fae magic and na
 
 Provénzia was once a part of the Vilérian Empire: a colony on the great road ([[lore-aurelianefound|The Founding of Aurelane]]), a province from the breaking of the Tanevar kings at [[lore-tiravlenbattle|Tiravlen]], and a kingdom since [[lore-charterwar|the War of the Charter]]. While it is no longer formally under Vilérian control, the Vilérian influence remains deeply ingrained in its political and cultural life. The two regions maintain close economic ties, and many Provénzian noble families have Vilérian ancestry. However, [[affiliation-kngdmprvnz|Provénzia]] jealously guards its independence and has no desire to return to imperial subjection.
 
-[[affiliation-kngdmlvndr|Élavendre]] to the north is a cultural cousin and Provénzia's closest friend among the kingdoms—the two share Pelwar heritage and a love of art and magic, though the Élavendren lean more toward the mystical while the Provénzians favor the intellectual. **Relations between the two crowns are very cordial**, and have been for long enough that neither court treats the other as a contingency: the border is open, the trade is heavy, scholars and artists move freely in both directions, and the two have repeatedly taken the same side in Vilérian disputes.
+[[affiliation-kngdmlvndr|Élavendre]] to the north is a cultural cousin and Provénzia's closest friend among the kingdoms—the two share Pelwar heritage and a love of art and magic, though the Élavendren lean more toward the mystical while the Provénzians favor the intellectual. **Relations between the two crowns are very cordial**, and have been for long enough that neither court treats the other as a contingency: the border is open, the trade is heavy and goes overland by [[place-darvenaroad|the Darvena Road]] and by sea from Bataren, scholars and artists move freely in both directions, and the two have repeatedly taken the same side in Vilérian disputes.
 
 That cordiality is between kingdoms, and should not be mistaken for ease everywhere along the line. In the borderlands—and conspicuously in [[place-batarencity|Bataren]]—Provénzian rulers and the settled [[lore-elavendrnppl|Élavendren]] population have real and unresolved quarrels over land, rights and tradition. Both crowns treat these as domestic matters and are careful not to let them become anything else, which is itself a measure of how much both value the friendship.
 
@@ -103,7 +106,7 @@ the remote forest, where the crown loses little by leaving them alone, and toler
 keeps relations with Élavendre smooth. Tarvénia and Viléria are considerably less
 tolerant ([[lore-aelendanclt#land-that-is-not-owned|Land That Is Not Owned]]).
 
-Relations with Tarvénia are the opposite in every respect: competitive, mistrustful, and violent at the margins. Skirmishing along the mountainous eastern frontier is effectively constant—raid and counter-raid over pasture, passes and precedence, kept below the level at which either crown must formally acknowledge a war. The border families on both sides have been fighting the same quarrel for so long that it functions less as a conflict than as a way of life.
+Relations with Tarvénia are the opposite in every respect: competitive, mistrustful, and violent at the margins. Skirmishing along the mountain frontier of the north-east corner is effectively constant—raid and counter-raid over pasture, passes and precedence, kept below the level at which either crown must formally acknowledge a war. The border families on both sides have been fighting the same quarrel for so long that it functions less as a conflict than as a way of life.
 
 ## Its Quarters {#places}
 
@@ -144,7 +147,7 @@ The Vineyards
 : Northwestern neighbor and cultural cousin
 
 [[place-tarvenirgn|Tarvénia Region]]
-: Eastern neighbor and rival
+: North-eastern neighbor and rival
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : Former imperial overlord

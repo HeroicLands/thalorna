@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [zuravlenrgn]
+  routes:
+    - {to: valarencity, bearing: S, mode: land, days: 5, terrain: [hills, road]}
+    - {to: batarencity, bearing: N, mode: land, days: 3, terrain: [coast, road]}
   population: 34000
   government: erldmhrvrn
   packFolder: provenzia
@@ -16,7 +19,8 @@ data:
 
 **Hárivren** is the great city of [[affiliation-kngdmprvnz|Provénzia]]'s **western march**—inland, on the river that gathers the
 coastal valleys before they run down to the sea, at the point where the roads out of
-[[place-zuravlenrgn|Zuravlen]] and the northern coast meet the highway south.
+[[place-zuravlenrgn|Zuravlen]] and the northern coast meet the highway south. The road of the northern coast comes
+down from [[place-batarencity|Bataren City]] in three days, and the highway runs south to [[place-valarencity|Válaren City]] in five.
 
 It is not a port and never has been; the western coast has almost no harbors worth the name. What
 Hárivren has instead is _convergence_. Everything the west produces—wool, salt-fish, timber, hides,

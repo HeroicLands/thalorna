@@ -3,7 +3,7 @@ shortcode: northshorefire
 name: {full: The Burning of the North Shore}
 type: lore
 subType: history
-description: "From 519 to 530 AF the Nordmen fleets burned Lísere's villages and Sarmelis more than once, King Thélmoren swore the crown would make no treaty with them, and in the years after the crown raised stone at the narrows and the shore's beacons became a chain."
+description: "From 519 to 530 AF the Nordmen fleets burned Lísere's villages and Sarmelis more than once, King Thélmoren swore the crown would make no treaty with them, and in the years after the crown raised stone at the bay's head and the shore's beacons became a chain."
 tags: [history, lisere]
 data:
   culture: elavendriclt
@@ -52,14 +52,14 @@ data:
         - affiliation-beaconfamlys
         - affiliation-brdrmltia
       summary: >-
-        After the burning the crown holds the narrows with stone and not only with the shore's boats. It raises the fort at Durmelen on the headland where the earliest Nordmen landings struck, with the Great Fire on its tower, and the beacons that the shore's families have kept on every headland are answered by it and become a chain.
+        After the burning the crown holds the head of the bay with stone and not only with the shore's boats. It raises the fort at Durmelen on the headland where the earliest Nordmen landings struck, with the Great Fire on its tower, and the beacons that the shore's families have kept on every headland are answered by it and become a chain.
       standing: attested
-      names: [{name: the stone at the narrows, by: affiliation-kngdmlvndr}]
+      names: [{name: the stone at the bay's head, by: affiliation-kngdmlvndr}]
       where:
         locus: [place-durmelen]
         reach:
           - place: place-liserebay
-            how: the fort at the narrows sees what crosses the bay and lights the fire that the whole shore answers
+            how: the fort at the bay's head sees what crosses the bay and lights the fire that the whole shore answers
             knowledge: named
       who:
         - {ref: affiliation-kngdmlvndr, role: actor}
@@ -74,7 +74,7 @@ The Nordmen came to the north shore before the Southern Fleets did. The earliest
 
 ## The Summers
 
-The Nordmen fleets of the [[lore-southrnfleets|Southern Fleets]] came in off the open sea at the start of each summer, in seagoing ships that needed no narrows and no night's rowing. They struck anywhere on [[place-lisere|Lísere]]'s shore and were gone before a levy could be raised. A village that had burned in one summer was rebuilt, and burned in the next.
+The Nordmen fleets of the [[lore-southrnfleets|Southern Fleets]] came in off the open sea at the start of each summer, in seagoing ships that needed no sheltered water. They struck anywhere on [[place-lisere|Lísere]]'s shore and were gone before a levy could be raised. A village that had burned in one summer was rebuilt, and burned in the next.
 
 [[place-sarmelis|Sarmelis]] burned more than once. Each rebuilding put the stone wall, the mole and the boom on a firmer foundation than the last, and the town's habit of building for the next fire dates from them.
 
@@ -84,7 +84,7 @@ King [Thélmoren]{.name data-type="being/npc"} swore, when the fleets had burned
 
 ## The Stone and the Lamps
 
-In the years after, the crown held the narrows with stone and not only with the shore's boats. The fort at Durmelen stands on the headland where the earliest landings struck, and the Great Fire on its tower leads a chain of lamps that the shore's families had already begun to keep. The crown learned to rely on the chain before it learned how the families kept it ([[affiliation-beaconfamlys|The Beacon Families]]).
+In the years after, the crown held the head of the bay with stone and not only with the shore's boats. The fort at Durmelen stands on the headland where the earliest landings struck, and the Great Fire on its tower leads a chain of lamps that the shore's families had already begun to keep. The crown learned to rely on the chain before it learned how the families kept it ([[affiliation-beaconfamlys|The Beacon Families]]).
 
 The sworn men of the [[affiliation-brdrmltia|Border Militia]] were added to the shore's levy in the same years, and the [[affiliation-morthalwtch|Morthal Watch]] was made from the posts of the hill steadings when it became plain that a coast held on one side was entered on the other.
 
@@ -101,7 +101,7 @@ The sworn men of the [[affiliation-brdrmltia|Border Militia]] were added to the 
 : the Nordmen's account of the same summers
 
 [[place-durmelen|Durmelen]] · [[affiliation-durmelengrsn|Garrison of Durmelen]]
-: the stone at the narrows
+: the stone at the bay's head
 
 [[affiliation-beaconfamlys|The Beacon Families]]
 : the chain of lamps

@@ -14,7 +14,7 @@ Thornwood is a stretch of woodland in the [[place-korvathis|Korvatis]], close en
 
 ## The Horses of the Dumvaral
 
-The [Dumvaral]{.name data-type="place/structure"}, the inn at the crossroads, stables some of the most valuable horses on the southern roads, because merchants and nobles ask for its chief ostler by name, and Kalzote's men have tried more than once to steal them. [[being-kjrvngjrln|Chorvan Jarlen]], that ostler, has helped recover the stolen animals, which makes him the bandits' enemy and every horse-owner's friend. A traveler who means to ride past Thornwood with a good horse is well advised to ask at the inn first.
+The Dumvaral, the inn at the crossroads, stables some of the most valuable horses on the southern roads, because merchants and nobles ask for its chief ostler by name, and Kalzote's men have tried more than once to steal them. [[being-kjrvngjrln|Chorvan Jarlen]], that ostler, has helped recover the stolen animals, which makes him the bandits' enemy and every horse-owner's friend. A traveler who means to ride past Thornwood with a good horse is well advised to ask at the inn first.
 
 ## Converging Interests {#present}
 

@@ -10,8 +10,9 @@ data:
   parents: [aureldirgn]
   population: 3500000
   borders:
-    - {to: provenzrgn, bearing: W}
-    - {to: elavendre, bearing: N}
+    - {to: provenzrgn, bearing: SW}
+    - {to: elavendre, bearing: W}
+    - {to: vrystwald, bearing: N}
     - {to: vylariargn, bearing: E}
     - {to: vylarianse, bearing: S}
   packFolder: tarvenia
@@ -23,13 +24,13 @@ data:
 
 ## Overview {#overview}
 
-Tarvénia is the land of the sellsword and the sworn word: three petty kingdoms, a free city and a free territory under an elected High King, whose crossbow companies serve in armies across [[place-ankrscntnnt|Ankaris]] on contracts they keep to the letter. It lies east of the [[place-provenzrgn|Provénzia Region]] and west of the [[place-vylariargn|Viléria Region]], a land of rugged mountains, rich coastal areas, and fiercely independent peoples. The landscape is as varied as its people—dense forests, golden beaches, and high, windswept peaks are home to small, isolated villages and proud city-states. The Tarvenans trace their lineage back to ancient warrior tribes, and their culture prizes strength, resilience, and an unshakeable sense of freedom.
+Tarvénia is the land of the sellsword and the sworn word: three petty kingdoms, a free city and a free territory under an elected High King, whose crossbow companies serve in armies across [[place-ankrscntnnt|Ankaris]] on contracts they keep to the letter. It lies north-east of the [[place-provenzrgn|Provénzia Region]], south-east of the [[place-elavendre|Élavendre Region]] and west of the [[place-vylariargn|Viléria Region]], a land of rugged mountains, rich coastal areas, and fiercely independent peoples. The landscape is as varied as its people—dense forests, golden beaches, and high, windswept peaks are home to small, isolated villages and proud city-states. The Tarvenans trace their lineage back to ancient warrior tribes, and their culture prizes strength, resilience, and an unshakeable sense of freedom.
 
 ## Geography {#the-land}
 
-Tarvénia is wine hills between two mountain walls. On the north and west the [[place-toravarrange|Toravar Range]] closes it: the northern arm runs east and west along the border with [[place-elavendre|Élavendre]], and the western arm runs down the frontier with [[place-provenzrgn|Provénzia]], where the passes of the [[place-westernmrch|Western March]] go over into [[place-talothe|the Talote]]. On the east the [[place-kervaron|Kervaron Spine]] divides it from the [[place-vylariargn|Viléria Region]], and the road over it comes down to [[place-kavrenath|Kávrenath]]. The south is the coast of the [[place-vylarianse|Vilérian Sea]].
+Tarvénia is wine hills between two mountain walls. On the north and west the [[place-toravarrange|Toravar Range]] closes it: the northern arm runs east and west along the borders with [[place-elavendre|Élavendre]] and [[place-vrystwald|Vristwald]], and the western arm runs down the frontier with Élavendre to the north-east corner of [[place-provenzrgn|Provénzia]], where the passes of the [[place-westernmrch|Western March]] go over into [[place-talothe|the Talote]]. On the east the [[place-kervaron|Kervaron Spine]] divides it from the [[place-vylariargn|Viléria Region]], and the road over it comes down to [[place-kavrenath|Kávrenath]]. The south is the coast of the [[place-vylarianse|Vilérian Sea]].
 
-Between the two walls the land falls from the mountains to the sea. The mountain heartland of [[place-asturath|Asturath]] fills the interior, ridge on ridge of gray limestone with narrow valleys between, and the highlands of [[place-eskarath|Eskarath]] lie under the northern arm. Below the mountains the hills begin, with the barley farms and horse fairs of the hill towns, and the eastern hills of [[place-leonrik|Lyenrik]], whose south faces carry the vineyards of [[place-enthara|Enthara]]. Below the hills the lowlands of Lyenrik open along the [Thalsira]{.name data-type="place/feature"}, the richest farmland in the west. In the south-west the hills climb into the forests of [[place-galvaren|Galvaren]], whose wet coast of drowned valleys and black cliffs looks out over the western reaches of the same sea.
+Between the two walls the land falls from the mountains to the sea. The mountain heartland of [[place-asturath|Asturath]] fills the interior, ridge on ridge of gray limestone with narrow valleys between, and the highlands of [[place-eskarath|Eskarath]] lie under the northern arm. Below the mountains the hills begin, with the barley farms and horse fairs of the hill towns, and the eastern hills of [[place-leonrik|Lyenrik]], whose south faces carry the vineyards of [[place-enthara|Enthara]]. Below the hills the lowlands of Lyenrik open along the [Thalsira]{.name data-type="place/feature"}, the richest farmland in the west. In the south-west the hills climb into the forests of [[place-galvaren|Galvaren]], whose wet coast of drowned valleys and black cliffs looks across an inlet of the same sea to Provénzia.
 
 The southern coast is long and sandy, warm and dry, and its harbors are on the sea: [[place-valthari|Valthari]], the richest port in the kingdom, and the harbor towns of [[place-nebralis|Nebralis]] and [[place-herthema|Herthema]]. Where the Thalsira comes down below [[place-bruthena|Bruthena]], the shore breaks into salt marsh, mudflat and shingle.
 
@@ -92,10 +93,10 @@ The Eskárathi Highlands
 : the lands of the three kingdoms, the free territory and the free city
 
 [[place-provenzrgn|Provénzia Region]]
-: Western neighbor and rival
+: South-western neighbor and rival
 
 [[place-elavendre|Élavendre]]
-: Northern neighbor
+: Western and northern neighbor
 
 [[place-westernmrch|Western March]], [[place-grayhghlnds|Gray Highlands]]
 : the Provénzian frontier and the high country of the companies
