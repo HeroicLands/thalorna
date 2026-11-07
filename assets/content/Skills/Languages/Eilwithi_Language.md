@@ -4766,7 +4766,7 @@ guide, including stress across the complete name.
 sound is always written _k_, as in _Kuth-_ and _-rik_.
 
 **Endings.** Common men's endings are _-wald_, _-rik_, _-mund_, _-win_ or _-red_.
-Common women's endings are _-rith_, _-run_, _-ith_ or _-wyn_.
+Common women's endings are _-rith_, _-run_ or _-ith_.
 
 **The naming elements.** Their hard consonant is written _k_. The prose and
 verse use the guide's spellings for English-derived words. Coined names are new pairings of the old parts, not the attested names of
