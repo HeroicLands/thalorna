@@ -70,6 +70,26 @@ test("the scoped CLI fails before the authorized edits and passes a prospective 
         );
         forgetNoteIndex(root);
         assert.equal(pairs.main(["--json"], { out: () => {}, err: () => {} }, root), 0);
+        fs.writeFileSync(
+            path.join(content, "language.md"),
+            '---\ntype: doc\nshortcode: names\n---\n[Drayven Kamruz]{.name data-type="being/npc"}. Drayven returns.\n',
+        );
+        forgetNoteIndex(root);
+        assert.equal(
+            pairs.main(["--json"], { out: () => {}, err: () => {} }, root),
+            1,
+            "a confirmed in-world name fails even without known language",
+        );
+        fs.writeFileSync(
+            path.join(content, "language.md"),
+            '---\ntype: doc\nshortcode: names\n---\n[Day of Peace]{.name data-type="lore/custom"} and [Graywick]{.name data-type="place/settlement"}.\n',
+        );
+        forgetNoteIndex(root);
+        assert.equal(
+            pairs.main(["--json"], { out: () => {}, err: () => {} }, root),
+            0,
+            "English and unresolved names are review diagnostics, not approvals",
+        );
         doc.data.sounds.letters.pop();
         fs.writeFileSync(path.join(content, "guide.md"), "---\n" + YAML.stringify(doc) + "---\n");
         forgetNoteIndex(root);
@@ -354,4 +374,117 @@ tey oy
     assert.ok(report.exclusions.some((e) => e.category === "native-literal"));
     assert.ok(report.findings.some((h) => h.form === "Ray's" && h.surface === "attested-name"));
     assert.ok(report.findings.some((h) => h.form === "Ray’s" && h.surface === "attested-name"));
+});
+
+test("closing-y detection consumes the guide's longest vowel group first", () => {
+    for (const form of ["aay", "áay", "ǎay", "âay", "aïy", "aayá"])
+        assert.deepEqual(pairs.deprecatedPairs(form), [], form);
+    for (const [form, pair] of [
+        ["àay", "ay"],
+        ["aáy", "áy"],
+        ["aäy", "äy"],
+        ["aaay", "ay"],
+        ["a-ay", "ay"],
+    ])
+        assert.deepEqual(
+            pairs.deprecatedPairs(form).map((h) => h.pair),
+            [pair],
+            form,
+        );
+});
+
+test("tongue tags belong to their own page and an unspecified older tongue stays unknown", () => {
+    const sources = [
+        {
+            file: "senali.md",
+            text: "---\ntype: skill\nsubType: language\nshortcode: senali\ndata: {tongues: [{tag: older, language: skill-senali}]}\n---\n",
+        },
+        {
+            file: "tellumi.md",
+            text: "---\ntype: skill\nsubType: language\nshortcode: tellumi\ndata: {tongues: [{tag: older}], register: [{name: Kayvonad Zarid, tongue: older}]}\n---\n",
+        },
+    ];
+    const report = pairs.pairInventory(sources);
+    assert.equal(report.findings.length, 1);
+    assert.equal(report.ambiguities.length, 0);
+    assert.equal(report.findings[0].language, undefined);
+    assert.equal(report.findings[0].needsLanguage, true);
+    assert.deepEqual(report.findings[0].candidateLanguages, []);
+});
+
+test("visible aliases, glossary definitions and office keys and prose retain exact source ranges", () => {
+    const sources = [
+        {
+            file: "tongue.md",
+            text: `---
+type: skill
+subType: language
+shortcode: one
+data:
+  register: [{name: Wraymouth}, {name: Kenbeshay}, {name: Kireshay}, {name: Revunay}, {name: Vurinay}, {name: Domsey}, {name: Kulaywil}]
+  words: [{form: alkulay}, {form: tiyup tahay}]
+---
+`,
+        },
+        {
+            file: "visible.md",
+            text: `---
+type: lore
+shortcode: visible
+name: {full: Harbor, en: [Wraymouth, Kenbeshay, Kireshay, Revunay, Vurinay], aliases: [Domsey]}
+data:
+  glossary: [{term: assembly, definition: "Meets at Domsey."}]
+  governance:
+    offices:
+      alkulay: "Meets at Kulaywil."
+      tiyup tahay: "Keeps Kulaywil."
+  seat: kulaywil
+---
+[[place-wraymouth|Wraymouth]]
+`,
+        },
+    ];
+    const report = pairs.pairInventory(sources);
+    const hits = report.findings.filter((h) => h.file === "visible.md");
+    assert.equal(hits.length, 12, JSON.stringify(hits.map((h) => [h.field, h.form])));
+    assert.equal(hits.filter((h) => h.field.endsWith(".$key")).length, 2);
+    assert.ok(hits.some((h) => h.field.endsWith(".definition")));
+    for (const hit of hits) assert.equal(sources[1].text.slice(hit.start, hit.end), hit.source);
+    assert.ok(!hits.some((h) => h.field === "data.seat"));
+    assert.equal(report.exclusions.filter((h) => h.category === "link target").length, 1);
+});
+
+test("typed names attest repeated identities in prose and YAML without inventing a language", () => {
+    const sources = [
+        {
+            file: "shadezan.md",
+            text: `---
+type: being
+shortcode: shadezan
+---
+[Drayven Kamruz]{.name data-type="being/npc"}. Drayven challenges him. Drayven returns.
+`,
+        },
+        {
+            file: "wahrethu.md",
+            text: `---
+type: being
+shortcode: wahrethu
+name: {full: Wahrethu Meykhathi}
+description: "The Meykhathi clan's tracker."
+---
+Wahrethu Meykhathi tracks for the [Meykhathi]{.name data-type="affiliation/lineage"} clan.
+Wahrethu Meykhathi returns.
+`,
+        },
+        {
+            file: "other.md",
+            text: "---\ntype: doc\nshortcode: other\n---\nDrayven is unmarked here.\n",
+        },
+    ];
+    const report = pairs.pairInventory(sources);
+    assert.equal(report.findings.filter((h) => h.file === "shadezan.md").length, 3);
+    assert.equal(report.findings.filter((h) => h.file === "wahrethu.md").length, 5);
+    assert.ok(report.findings.every((h) => h.confirmedInWorld && h.needsLanguage));
+    assert.ok(!report.ambiguities.some((h) => h.file === "other.md"));
 });

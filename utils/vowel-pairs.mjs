@@ -21,7 +21,7 @@
  * No language is exempt: Aelwythi is held to the standard like every other.
  *
  * Diaeresis findings remain report-only warnings. Closing ay, ey and oy are
- * errors in source-attested in-world spellings (#1252); iy and uy stay. The
+ * errors in source-attested in-world spellings; iy and uy stay. The
  * source audit includes typed forms, native names, Roman runs and verse.
  * Ambiguous unmarked homographs are reported for review, never auto-corrected.
  * Native codage, code, English glosses and link targets are not Roman forms.
@@ -32,6 +32,7 @@
  */
 
 import fs from "node:fs";
+import { reviewedNativeForms, reviewedAffixExamples } from "./vowel-pairs-adjudications.mjs";
 import path from "node:path";
 import YAML from "yaml";
 import { addressOfText, noteFiles, noteFilesWhere } from "./note-index.mjs";
@@ -422,17 +423,37 @@ const DEPRECATED = new Map([
 const WORD = /[\p{L}\p{M}]+(?:[-'’][\p{L}\p{M}]+)*/gu;
 const baseLetter = (s) => s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
 
+const GUIDE_GROUPS = groupsOf(
+    fs.readFileSync(
+        new URL("../assets/content/Lore/Pronouncing_Thalorna.md", import.meta.url),
+        "utf8",
+    ),
+);
+
 /** Closing ay/ey/oy, in original UTF-16 coordinates, with only y changed.
- * A marked vowel after y still starts the next syllable.
+ * Consume guide vowel groups first; a marked vowel after y still starts
+ * the next syllable.
  */
-export function deprecatedPairs(form) {
+export function deprecatedPairs(form, groups = GUIDE_GROUPS) {
     const letters = [...form.matchAll(/\P{M}\p{M}*/gu)];
     const out = [];
     for (let i = 0; i + 1 < letters.length; i++) {
         const a = letters[i],
             b = letters[i + 1],
             next = letters[i + 2];
-        if (a[0].normalize("NFD").includes("̀")) continue;
+        const first = a[0].normalize("NFD"),
+            second = b[0].normalize("NFD");
+        if (first.includes("̀")) continue;
+        // A second-vowel acute or diaeresis starts a new syllable. Tone
+        // marks on the first vowel preserve the guide's held-vowel group.
+        if (
+            !/[̀́̈̌̂]/u.test(second) &&
+            groups.has(baseLetter(a[0]) + baseLetter(b[0])) &&
+            /^[aeiou]$/.test(baseLetter(b[0]))
+        ) {
+            i += 1;
+            continue;
+        }
         if (!DEPRECATED.has(baseLetter(a[0]) + b[0].toLowerCase())) continue;
         if (next && /^[aeiou]$/.test(baseLetter(next[0]))) continue;
         const offset = a.index,
@@ -483,7 +504,12 @@ function pairSource({ file, text }) {
             });
         else if (YAML.isSeq(node)) node.items.forEach((child, i) => walk(child, [...keys, i]));
         else if (YAML.isMap(node))
-            for (const pair of node.items) walk(pair.value, [...keys, String(pair.key.value)]);
+            for (const pair of node.items) {
+                const childKeys = [...keys, String(pair.key.value)];
+                if (keys.join(".") === "data.governance.offices")
+                    walk(pair.key, [...childKeys, "$key"]);
+                walk(pair.value, childKeys);
+            }
     };
     walk(doc.contents);
     return { file, text, yaml, prefix, body: front?.[0].length ?? 0, fm, doc, scalars };
@@ -538,26 +564,22 @@ export function pairInventory(sources, config = {}) {
         const address = key(spec.note);
         if (address) for (const alias of [code, spec.tag]) if (alias) codes.set(alias, address);
     }
-    const tongues = new Map();
-    for (const n of notes)
-        for (const row of n.fm.data?.tongues ?? []) {
-            const address = key(row.language);
-            if (row.tag && address) {
-                const set = tongues.get(row.tag) ?? new Set();
-                set.add(address);
-                tongues.set(row.tag, set);
-            }
-        }
-    const language = (selector) => {
+    const language = (selector, n) => {
         if (!selector) return undefined;
         if (codes.has(selector)) return codes.get(selector);
         const tag = String(selector).replace(/^(other|exonym):/, "");
-        if (tongues.get(tag)?.size === 1) return [...tongues.get(tag)][0];
+        const local = (n?.fm.data?.tongues ?? []).filter((row) => row.tag === tag);
+        if (local.length) {
+            const addresses = new Set(local.map((row) => key(row.language)));
+            return addresses.size === 1 ? [...addresses][0] : undefined;
+        }
         const address = key(selector);
         return byAddress.get(address)?.fm.subType === "language" ? address : undefined;
     };
     const ownLanguage = (n) =>
-        n.fm.type === "skill" && n.fm.subType === "language" ? n.address : language(n.record.lang);
+        n.fm.type === "skill" && n.fm.subType === "language" ?
+            n.address
+        :   language(n.record.lang, n);
     const at = (n, start) => {
         const before = n.text.slice(0, start),
             line = before.split("\n").length;
@@ -567,7 +589,14 @@ export function pairInventory(sources, config = {}) {
         ambiguities = [],
         exclusions = [],
         forms = [];
+    const reviewedNative = (form) =>
+        [...form.matchAll(WORD)].some((m) =>
+            reviewedNativeForms.has(normalizeName(m[0]).replace(/[’']s$/, "")),
+        );
     const push = (n, form, positions, detail, ambiguous = false) => {
+        const confirmedInWorld =
+            reviewedNative(form) ||
+            (detail.surface === "mixed-affix-example" && reviewedAffixExamples.has(form));
         for (const hit of deprecatedPairs(form)) {
             const start = positions?.[hit.offset],
                 last = positions?.[hit.end - 1];
@@ -598,6 +627,9 @@ export function pairInventory(sources, config = {}) {
                 form,
                 pair: hit.pair,
                 ...detail,
+                ...(confirmedInWorld ?
+                    { confirmedInWorld: true, needsLanguage: !detail.language }
+                :   {}),
                 ...(ambiguous || !detail.language ?
                     {
                         automatic: false,
@@ -605,7 +637,9 @@ export function pairInventory(sources, config = {}) {
                     }
                 :   { automatic: true }),
             };
-            (ambiguous || !detail.language ? ambiguities : findings).push(item);
+            (!confirmedInWorld && (ambiguous || !detail.language) ? ambiguities : findings).push(
+                item,
+            );
         }
     };
     const scalar = (n, s, lang, surface, ambiguous = false) => {
@@ -621,6 +655,18 @@ export function pairInventory(sources, config = {}) {
                 surface,
             });
     };
+    const proseScalar = (s) =>
+        [
+            "description",
+            "summary",
+            "gloss",
+            "definition",
+            "meaning",
+            "note",
+            "notes",
+            "occupation",
+            "title",
+        ].includes(s.keys.at(-1)) || s.keys.slice(0, 3).join(".") === "data.governance.offices";
     const englishTag = (tag) => ["en", "translation", "gloss"].includes(tag);
     for (const n of notes) {
         const own = ownLanguage(n);
@@ -629,7 +675,7 @@ export function pairInventory(sources, config = {}) {
             const nativeNameKeys = new Set(
                 nameFormLists(n.fm.name)
                     .map(([code]) => code)
-                    .filter((code) => code !== "en"),
+                    .filter((code) => code !== "en" && code !== "aliases"),
             );
             let lang = own,
                 surface,
@@ -637,7 +683,7 @@ export function pairInventory(sources, config = {}) {
             if (top === "name" && ["given", "clan"].includes(section) && n.fm.type === "being") {
                 surface = "personal-name";
             } else if (top === "name" && nativeNameKeys.has(section)) {
-                lang = language(section);
+                lang = language(section, n);
                 surface = "native-name";
             } else if (top === "data" && n.fm.subType === "language") {
                 if (section === "words" && ["form", "variants", "plural", "built"].includes(leaf))
@@ -666,7 +712,7 @@ export function pairInventory(sources, config = {}) {
                 )
                     surface = "grammar-example";
                 if (section === "words" && leaf === "source" && s.keys.at(-1) === "form") {
-                    lang = language(n.fm.data.words[row].source.language);
+                    lang = language(n.fm.data.words[row].source.language, n);
                     surface = "source-form";
                 }
                 if (section === "names" && !s.keys.some((k) => NOT_NAMES.has(k)))
@@ -683,7 +729,7 @@ export function pairInventory(sources, config = {}) {
                     }
                     lang =
                         englishTag(entry.tongue) ? own : (
-                            (language(entry.tongue) ?? (entry.tongue ? undefined : own))
+                            (language(entry.tongue, n) ?? (entry.tongue ? undefined : own))
                         );
                     surface = "registered-name";
                 }
@@ -691,7 +737,7 @@ export function pairInventory(sources, config = {}) {
             if (top === "data" && section === "glossary" && ["term", "variants"].includes(leaf)) {
                 lang = glossaryLanguage(n.fm.data.glossary[row], n.record, {
                     keyOf: key,
-                    noteOf: (code) => language(code),
+                    noteOf: (code) => language(code, n),
                     self: n.address,
                 });
                 surface = "glossary";
@@ -721,6 +767,48 @@ export function pairInventory(sources, config = {}) {
         entries.push(form);
         table.set(id, entries);
     }
+    // Typed name spans attest their visible identity even when its language
+    // is unknown. Personal first names are recognized only on the same page.
+    for (const n of notes) {
+        const chunks = [
+            { text: n.text.slice(n.body), field: "body" },
+            ...n.scalars.filter(proseScalar).map((s) => ({ text: s.node.value, field: s.field })),
+        ];
+        for (const chunk of chunks)
+            for (const span of scanSpans(chunk.text).spans) {
+                const attrs = Object.fromEntries(span.attrs);
+                if (!(attrs.class ?? "").split(/\s+/).includes("name")) continue;
+                const form = chunk.text.slice(span.start + 1, span.contentEnd);
+                if (!reviewedNative(form)) continue;
+                const id = normalizeName(form);
+                const existing = names.get(id) ?? [];
+                if (!existing.length)
+                    names.set(id, [
+                        {
+                            file: n.file,
+                            field: chunk.field,
+                            form,
+                            language: language(attrs.lang, n),
+                            surface: "name-span",
+                        },
+                    ]);
+                if ((attrs["data-type"] ?? "").startsWith("being/")) {
+                    const first = normalizeName(form.split(/\s+/)[0]);
+                    if (first !== id && deprecatedPairs(first).length) {
+                        const entries = names.get(first) ?? [];
+                        entries.push({
+                            file: n.file,
+                            field: chunk.field,
+                            form: first,
+                            language: language(attrs.lang, n) ?? existing[0]?.language,
+                            surface: "name-span",
+                            local: true,
+                        });
+                        names.set(first, entries);
+                    }
+                }
+            }
+    }
     const uniqueLanguage = (entries) => {
         const values = new Set((entries ?? []).map((e) => e.language));
         return values.size === 1 ? [...values][0] : undefined;
@@ -742,10 +830,19 @@ export function pairInventory(sources, config = {}) {
         }));
     for (const n of notes) {
         for (const s of n.scalars) {
-            if (s.keys[0] !== "name" || !["full", "given", "clan"].includes(s.keys[1])) continue;
+            if (s.keys.at(-1) === "$key") {
+                const entries = words.get(normalizeName(s.node.value));
+                if (entries) scalar(n, s, uniqueLanguage(entries), "attested-office-key");
+            }
+            if (
+                s.keys[0] !== "name" ||
+                !["full", "en", "aliases", "given", "clan"].includes(s.keys[1])
+            )
+                continue;
             const p = sourcePositions(s.node, n.yaml)?.map((i) => i + n.prefix);
             for (const { regex, entries } of namePatterns)
                 for (const m of s.node.value.matchAll(regex)) {
+                    if (!entries.some((e) => !e.local || e.file === n.file)) continue;
                     const lang = uniqueLanguage(entries);
                     push(
                         n,
@@ -763,19 +860,7 @@ export function pairInventory(sources, config = {}) {
         }
         const chunks = [{ body: n.text.slice(n.body), field: "body", position: (i) => n.body + i }];
         for (const s of n.scalars) {
-            if (
-                ![
-                    "description",
-                    "summary",
-                    "gloss",
-                    "meaning",
-                    "note",
-                    "notes",
-                    "occupation",
-                    "title",
-                ].includes(s.keys.at(-1))
-            )
-                continue;
+            if (!proseScalar(s)) continue;
             const positions = sourcePositions(s.node, n.yaml);
             if (positions)
                 chunks.push({
@@ -792,19 +877,21 @@ export function pairInventory(sources, config = {}) {
             const ranges = [],
                 masks = [];
             const nameRanges = namePatterns.flatMap(({ regex, entries }) =>
-                [...body.matchAll(regex)].map((m) => ({
-                    from: m.index,
-                    to: m.index + m[0].length,
-                    entries,
-                    english: englishWords.has(normalizeName(m[0])),
-                })),
+                [...body.matchAll(regex)]
+                    .filter(() => entries.some((e) => !e.local || e.file === n.file))
+                    .map((m) => ({
+                        from: m.index,
+                        to: m.index + m[0].length,
+                        entries,
+                        english: englishWords.has(normalizeName(m[0])),
+                    })),
             );
             const selected = (attrs, fallback) => {
-                if (attrs.lang) return { language: language(attrs.lang), stated: attrs.lang };
+                if (attrs.lang) return { language: language(attrs.lang, n), stated: attrs.lang };
                 if (attrs.enc && attrs.enc !== "default") {
                     const enc = byAddress.get(key(attrs.enc, "doc"));
                     return {
-                        language: language(enc?.fm.data?.language),
+                        language: language(enc?.fm.data?.language, enc),
                         stated: enc?.fm.data?.language ?? attrs.enc,
                     };
                 }
@@ -824,7 +911,7 @@ export function pairInventory(sources, config = {}) {
                         span.contentEnd,
                         Object.fromEntries(span.attrs),
                         "roman-span",
-                        { language: language(run.lang), stated: run.lang },
+                        { language: language(run.lang, n), stated: run.lang },
                     );
                 else if (run.kind !== "span")
                     addRange(
@@ -977,7 +1064,11 @@ export function pairInventory(sources, config = {}) {
                 const definitionTerm = lineStart === from && /^\n[ \t]*:/.test(body.slice(lineEnd));
                 const emphasized =
                     /[*_]$/.test(body.slice(0, from)) && /^[*_]/.test(body.slice(to));
-                if (!range && !attested && !(lexical && (emphasized || definitionTerm))) {
+                if (
+                    !range &&
+                    !attested &&
+                    !(lexical && (emphasized || definitionTerm || field.endsWith(".$key")))
+                ) {
                     exclusions.push({
                         file: n.file,
                         ...at(n, position(from)),
@@ -1038,7 +1129,15 @@ export function pairInventory(sources, config = {}) {
             ),
         ];
         const hit = group.at(-1);
-        if (group.some((h) => h.automatic !== true) || languages.length !== 1) {
+        if (group.some((h) => h.confirmedInWorld)) {
+            definite.push({
+                ...hit,
+                confirmedInWorld: true,
+                needsLanguage: languages.length !== 1 || !hit.language,
+                candidateLanguages: languages,
+                evidence: group.flatMap((h) => h.evidence ?? []),
+            });
+        } else if (group.some((h) => h.automatic !== true) || languages.length !== 1) {
             unresolved.push({
                 ...hit,
                 automatic: false,
