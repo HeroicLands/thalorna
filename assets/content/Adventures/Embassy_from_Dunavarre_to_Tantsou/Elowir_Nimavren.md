@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Ensures accurate record-keeping and correspondence.
 
+# Dossier {#dossier}
+
 **Background.** Trusted for meticulous work and reliability in the [[affiliation-dunavarsynod|Synod]]'s records.
 
-**Intrigue.** In a secret relationship with [[being-loristaravel|Loris Taravel]], against the moral teaching of [[affiliation-ardavon|Árdavon]]. Deeply in love and unaware of Loris's true motives; fears exposure would ruin them both, which makes him blackmail material.
+:::secret {title="The concealed relationship"}
+In a secret relationship with [[being-loristaravel|Loris Taravel]], against the moral teaching of [[affiliation-ardavon|Árdavon]]. Deeply in love and unaware of Loris's true motives; fears exposure would ruin them both, which makes him blackmail material.
+:::

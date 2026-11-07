@@ -48,3 +48,8 @@ The recruiting officers of the frontier legion are at the spring fair, taking hi
 
 [[place-eilissa|Lake Eilìssa]]
 : the lake, a day's ride east
+
+## Adventures {#adventures}
+
+- [[scenario-reedgillnets|Nets from Both Shores]]
+- [[scenario-durraskcount|Forty Mares and One Name]]

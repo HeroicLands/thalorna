@@ -3,7 +3,8 @@ shortcode: oswaldunwl
 name: {full: Wilwald Dunwell, aelw: [Sir Cedric Ashvale]}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "Wilwald Dunwell holds a small manor beside the royal forest at Kingshollow in the Kingdom of Aldorath."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -394,52 +395,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Wilwald Dunwell is a 29-year-old man who stands 6'0" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. His wide-set gray eyes sit beneath expressive brows and give him an open gaze. He has a straight nose and firm lips. He has pale skin with a weathered complexion. His blonde hair is short and swept back.
+Wilwald Dunwell is a 28-year-old man who stands 6'0" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. His wide-set gray eyes sit beneath expressive brows and give him an open gaze. He has a straight nose and firm lips. He has pale skin with a weathered complexion. His blonde hair is short and swept back.
 
 # Dossier {#dossier}
 
-Wilwald Dunwell is the lord of a small manor at [[place-kingsholow|Kingshollow]] in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] within [[place-eilwith|Eilwìth]], an [[lore-aelwythanclt|Eilwìthan]] of minor gentry whose family has held the same few hundred acres beside the royal forest for six generations.
+**Age 28. Nobility (Manor Lord).**
 
-Wilwald holds land in the fold of country below the old royal seat, bounded on its upper side by the king's wood, which his tenants may not graze, may not cut and may not take a hare from. He inherited at twenty-five and has spent the years since on the land itself: draining the lower meadow, bringing in a rotation he read of in a [[lore-vylarianclt|Vilérian]] treatise. His tenants eat better than they did under his father. His neighbors among the gentry are less impressed: a lord who walks his own furrows is lowering himself, and a lord who speaks up for his tenants at the forest court is a nuisance to the crown's foresters, whose goodwill the whole valley depends on.
+Wilwald Dunwell holds a small manor beside the royal forest at [[place-kingsholow|Kingshollow]] in the [[affiliation-kngdmldrth|Kingdom of Aldorath]]. He walks his own furrows, drains the lower meadow and tests a crop rotation described in a Vilérian treatise in fields whose tenants know every wet corner. He considers a better-fed household a measure of good lordship.
+
+His tenants may neither graze nor cut freely in the king's wood. Wilwald speaks for them at the forest court and owes hospitality to the royal household. The king's absence at midwinter and the unpaid forest fines put those obligations in daily tension. He wants the tenants heard without treating their grievance as permission to seize the forest.
 
 ## Psyche
 
-### Personality
-
-Wilwald is earnest, practical and easily out-maneuvered; he assumes other men want what is good for the land and is regularly surprised.
-
-### Motivation
-
-Wilwald wants his tenants to prosper and his land to yield more each year than the last, and he holds that the two are the same thing.
-
-### Strengths
-
-Knowledgeable about agriculture, pragmatic, trusted by his tenants.
+Earnest and practical, Wilwald expects an argument about land to turn on what the land yields. He wants his tenants prosperous and his holding solvent. He mistakes politeness from neighboring gentry for agreement and offers concessions before learning what they want.
 
 ## Social
 
-Wilwald holds his manor of the Kingdom of Aldorath and owes suit at the forest court and hospitality to the royal household when it descends on Kingshollow.
-
-## Companions
-
-### Patrons
-
-Wilwald's patrons are the crown's bailiff at Kingshollow, who finds him useful because his manor pays its dues, and his own tenantry, who are the nearest thing he has to a following.
-
-### Enemies
-
-The crown's foresters, whom he has crossed at the forest court on a tenant's behalf more than once; and a handful of Aldorath gentry who find his farming undignified and his tenants insolent.
+The bailiff values his paid dues. [[being-dunrikbrndw|Dunrik Brandwik]] hears his forest claims, and [[being-aldrithwlfl|Aldrith Wolfley]] expects the manor's contribution to the household. The tenants trust him enough to complain to his face.
 
 ## Plot Hooks
 
-A Tenant Taken
-: A tenant of Wilwald's has been taken by the foresters with a deer on his back, and the forest court will have his hand for it. Wilwald can speak for him and lose the foresters' goodwill for good, or say nothing and lose his tenants'.
+The unpaid fines
+: Several tenants ask Wilwald to guarantee their forest fines together. He needs a complete reckoning from the court and a repayment agreement that leaves the households enough seed to work their land.
 
-The Descent
-: The court is coming to Kingshollow for the midwinter feast, and the royal household expects the manors to provision it. What it expects from Wilwald is most of his seed corn.
-
-The Debt
-: A neighboring lord has quietly bought up the loans Wilwald took to drain the meadow, and has called them in. The neighbor wants the land, not the money.
-
-The Rotation Fails
-: The Vilérian rotation that Wilwald pressed on his tenants for three years has failed in a wet season, and the manor is short. The gentry who mocked him are watching.
+The oak petition
+: The village asks Wilwald to support its request for a particular midwinter oak. He offers to inspect the tree with the Forester and asks the party to bring tenant witnesses, so the conversation concerns the wood and the need rather than rival claims of loyalty.

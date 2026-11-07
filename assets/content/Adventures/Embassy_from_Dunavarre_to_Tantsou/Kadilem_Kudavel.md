@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Announces the Ambassador's arrival and status.
 
+# Dossier {#dossier}
+
 **Background.** Skilled in ceremonial duty and official occasion.
 
-**Intrigue.** Holds a closeted romantic interest in [[being-thaekliamaelvri|Lady Thaeklia]], which she knows of and can use to steer him.
+:::secret {title="A concealed attachment"}
+Holds a closeted romantic interest in [[being-thaekliamaelvri|Lady Thaeklia]], which she knows of and can use to steer him.
+:::

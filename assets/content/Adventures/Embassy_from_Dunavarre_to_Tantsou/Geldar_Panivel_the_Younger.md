@@ -11,7 +11,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: {kingdmdnvr: {rank: 2}, selmoros: {rank: 2}}
+  affiliations: {kingdmdnvr: {rank: 2}}
   gender: male
   species: humanflk
   packFolder: adventures
@@ -372,10 +372,14 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Ensures the embassy is fed, and its morale with it.
 
+# Dossier {#dossier}
+
 **Background.** Well known for his culinary skill.
 
-**Intrigue.** Secretly an acolyte and spy for the [[affiliation-selmoros|Faith of Sélmoros]]. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]]—a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Sélmorans. May be planning poisonings or sabotage.
+:::secret {title="The cook’s other service"}
+Secretly an acolyte and spy for the [[affiliation-selmoros|Faith of Sélmoros]]. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]]—a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Sélmorans. May be planning poisonings or sabotage.
+:::

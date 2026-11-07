@@ -3,7 +3,8 @@ shortcode: alfrdbrnwl
 name: {full: Wilred Barnwell, aelw: [Thalos Graimoor]}
 type: being
 subType: npc
-tags: [draft, mages]
+description: "Wilred Barnwell compounds remedies and reads difficult texts for the households of Kingshollow."
+tags: [mages]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,61 +394,32 @@ sohl:
 
 # Appearance {#appearance}
 
-Wilred Barnwell cuts an unassuming figure—a lean man of moderate height with the pale, weather-worn complexion of someone more comfortable in laboratories and wild places than in sunlit halls. His sharp, angular features are framed by striking red hair, swept back in a practical manner, and his piercing brown eyes miss nothing. There is an intensity in his gaze that suggests constant calculation, and the thin set of his lips hints at carefully guarded secrets. Despite his modest dress and worn traveler's cloak, he carries himself with the assurance of a man who understands dangerous things.
+Wilred Barnwell is a 41-year-old man of medium build, with light skin, brown eyes and red hair swept back from an angular face. His cloak is plain and worn. Chalk and mineral dust settle in the seams of his sleeves.
 
 # Dossier {#dossier}
 
-Wilred Barnwell was born in [[place-kingsholow|Kingshollow]], a smaller settlement in the wilder reaches of [[place-eilwith|Eilwìth]], to a freeman's family with no connections to the [[affiliation-ordoarcanis|Thordimalon]] or any formal magical institution. His early aptitude for herbalism and mineral lore was unremarkable until a wandering scholar from the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) recognized something deeper—a gift for understanding the old ways of making, the marriage of folk tradition and systematic inquiry. By his mid-twenties, he had secured a place as a lay apprentice within the Epistémion's eastern chapter, and for ten years he immersed himself in the Zulen (fellowship) [[affiliation-fisera|Fisera]], the Earth school of alchemy.
+**Age 41. Alchemist.**
 
-In his mid-thirties, Wilred's course took a sudden turn. The Order's demands for doctrinal purity and monopolistic control over all magical practice began to feel suffocating to a man raised on Eilwìth's foggy, liminal shores where the boundary between folk magic and learned sorcery had always been permeable. He began quietly gathering forbidden texts—records of pre-Order alchemy, techniques preserved by village cunning-folk, runecraft inscribed in stones. When [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) began investigating unauthorized practitioners in the borderlands, Wilred made his choice: he left the Epistémion (the Academy) quietly, taking with him his accumulated knowledge and his considerable arsenal of herbal recipes, mineral elixirs, and enchanted stones.
+Wilred Barnwell compounds remedies and reads difficult texts for the households of [[place-kingsholow|Kingshollow]]. His bench holds mineral samples beside dried plants, with labels on both. He supplies washes, pigments and small preparations to craftspeople, explaining what each is for rather than promising wonders.
 
-For the past seven years, he has lived as what most know him as: a traveling healer and scholar named Thalos Graimoor, moving through the less-settled regions of Eilwìth—the deep forests, the misty moorlands, the fishing villages that the Order's reach only touches lightly. He supplies remedies, crafts bespoke alchemical aids for local craftsfolk and hunters, reads old texts for those who need guidance with the unseen, and conducts his deeper work in candlelit cellars and forest clearings where few ask questions. His knowledge of folklore makes him a trusted advisor on matters of local tradition, and he keeps a careful awareness of political currents that might threaten his precarious independence.
-
-He is faithful to [[lore-marendasdty|Marendas]]—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding does not stop at an institution's walls.
+The royal forest limits the plants and minerals he can gather without leave. The tenants' quarrel with the forest court makes even a healer's collecting bag a subject for questions. Wilred wants access by clear permission and buys material when a denied request makes gathering impossible.
 
 ## Psyche
 
-Wilred is a man torn between two worlds. Part of him remains the dutiful, theory-hungry scholar who was once proud to wear the Epistémion's mark; the other part is the cunning, independent practitioner who understands that knowledge guarded is knowledge dead. His worldview is fundamentally skeptical of authority—not out of mere rebellion, but from hard-won experience that the most important truths are rarely the ones institutions want publicized. He is naturally reserved, preferring observation to conversation, and his humor runs dark and quick. Those who mistake his quietness for timidity have misjudged gravely.
-
-Wilred's core strength is adaptability rooted in deep understanding. His perception and reasoning allow him to diagnose problems others miss and devise solutions that work with rather than against natural systems. His will means he does not bend easily, and his conscience keeps him from becoming a mere mercenary charlatan. He is perceptive of feeling, which makes him care about the people he helps—a vulnerability in a dangerous world.
-
-His weaknesses are equally real. His physical frailty is no liability for an alchemist, but it means direct confrontation is a poor strategy for him. More critically, his past—his departure from the Order, the texts he took, the practices he has maintained—is a constant shadow. He lives with the knowledge that the Sekran does not forget, and that his safety depends on remaining obscure and useful rather than famous. This has made him wary to the bone; he trusts few, commits fully to none, and always keeps exit routes in mind.
+Reserved and dryly humorous, Wilred likes a question that can be tested. He wants useful knowledge available to the people who need it. He is impatient with a patron who asks for certainty where he can only give an observation.
 
 ## Social
 
-Wilred's official affiliation is formally severed from the Epistémion, though he maintains clandestine correspondence with one of its more liberal-minded archivists in the [[place-dunavarre|Dúnavarre]] chapterhouse. Should he ever be discovered, he would be considered a lapsed Adept operating without sanction—a serious violation in [[affiliation-kingdmdnvr|Dúnavarre]]'s Order-dominated society.
+Village households pay for remedies and readings. [[being-godabarnwl|Osrun Barnwell]] discusses glazes with him, and he treats her trials as craft rather than an excuse for extravagant claims. He honors [[affiliation-marendas|Faith of Marendas]] through study and the sharing of ordinary knowledge.
 
-Locally, in the scattered settlements and forest communities of the borderlands where he now works, he is known as a valuable resource. Village chieftains, hedge witches, master craftsfolk, and respected elders know him as someone who can be trusted with a problem and whose discretion is absolute. He has also cultivated selective relationships with other independent practitioners—smugglers of forbidden texts, practitioners of older seid traditions, scholars of the natural world who work outside the institutions. These are not friendships so much as networks of mutual aid, held together by shared wariness of the Order's expanding reach.
-
-His status as a freeman and an outsider to formal [[lore-aelwythanclt|Eilwìthan]] power structures actually provides him protection; he is too minor to interest the nobility, and too useful to the common folk to simply disappear.
-
-## Companions
-
-### Patrons and Allies
-
-[Aldus Thorne]{.name data-type="being/npc"}, elderly master craftsfolk of Kingshollow and the closest thing Wilred has to a patron, provides shelter and discreet access to his extensive workshop. Their relationship predates Wilred's departure from the Epistémion; Aldus has long been sympathetic to folk practitioners and quietly funded Wilred's research into traditional methods. The bond is strong but carefully maintained.
-
-[The Archivist]{.name data-type="being/npc"}, a mysterious figure within the Epistémion's Dúnavarre chapter known only to Wilred by coded letters, supplies carefully laundered copies of restricted texts and is a backstop—someone who, should the worst occur, might provide refuge or warning. This relationship is fragile, held together only by shared intellectual conviction and the Archivist's own private doubts about the Order's direction.
-
-### Enemies and Threats
-
-**Marendos [[being-teremoszenot|Teremos]]**, an austere enforcer for the Sekran's western investigations, has taken particular interest in "irregular practices" in the Eilwìth borderlands. He does not yet know Wilred by name, but he is asking the right questions. The tension between them is building steadily.
-
-[The Jealous Circle]{.name data-type="affiliation"}, a coterie of independent practitioners in the larger towns who resent Wilred's discretion and growing reputation. They would not hesitate to betray him to the Order if they believed it would eliminate a rival—or at minimum, to undercut his standing with shared clients.
+:::secret {title="The books beneath the bench"}
+Wilred practices alchemy outside the sanction of [[affiliation-ordoarcanis|The Order]]. He keeps restricted texts from [[affiliation-panepistmm|The Academy]] and receives coded copies from an unnamed archivist in its chapterhouse in [[place-dunavarre|Dúnavarre]]. His ordinary trade conceals work in [[affiliation-fisera|Fisera]]. [[being-teremoszenot|Teremos Zenothenos]] of [[affiliation-sekran|The Arcane Inquisition]] investigates unauthorized practitioners; Wilred's identity and correspondence are not public knowledge. The collecting restrictions make clandestine research harder without making every remedy he sells unlawful.
+:::
 
 ## Plot Hooks
 
-The Sekran's Attention
-: _Marendos_ (master) Teremos has begun interviewing the inhabitants of villages where "Thalos Graimoor" is known to operate. A villager has already described Wilred in passing detail, and Teremos is correlating the description with old Epistémion records. Wilred learns of this threat through his network of contacts, and can disappear, establish an alibi, or take a more dangerous path—offering the _marendos_ something he cannot refuse.
+The collecting leave
+: A household needs a preparation whose ingredients grow inside the royal wood. Wilred asks the party to seek permission from the Forester and bring the plants back under it, keeping the request separate from the dispute over poaching.
 
-The Forbidden Text
-: A desperate craftmaster comes to Wilred with a crisis: his daughter was poisoned by a rare substance, and the only effective cure lies in an alchemical procedure described in one of the restricted texts Wilred took from the Epistémion when he left. Making the cure would require harvesting ingredients that are monitored by Order guilds. Wilred must weigh the daughter's life against the risk of exposure.
-
-The Scholar from Dúnavarre
-: The Archivist reaches out with urgent warning: the Order has discovered gaps in the restricted archive, and they suspect someone from within the chapter. The Archivist will be scrutinized heavily, and may not survive the investigation. Wilred is offered a terrible choice: help the Archivist disappear (risking everything) or allow the man who protected him to be destroyed.
-
-The Elder's Successor
-: Aldus Thorne is dying, and he means to pass his workshop—and all its dangerous knowledge—to Wilred. But Aldus has an ambitious grandson who has recently made connections with Order merchant guilds and believes the workshop should be "brought into proper order." Wilred must either accept the inheritance and the visibility it brings, or refuse and watch another man control the very resources he depends upon.
-
-The Outsider's Gambit
-: A mysterious collector from far southern lands arrives in Eilwìth seeking specific alchemical texts and willing to pay extraordinary sums. The collector claims to represent scholars who wish to preserve knowledge beyond the Order's reach. The price offered is enough to fund Wilred's independence for years—but accepting it would require him to acknowledge his role as a keeper of forbidden lore, and the collector is almost certainly more than they appear.
+A costly substitute
+: A supplier offers mineral powder from [[place-dunmere|Dunmere]] at a price the village potters cannot meet. Wilred asks for small samples from ordinary quarry spoil so he can test a local substitute before anyone commits to buying a cartload.

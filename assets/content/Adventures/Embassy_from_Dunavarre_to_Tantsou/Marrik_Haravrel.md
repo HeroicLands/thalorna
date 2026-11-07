@@ -372,10 +372,16 @@ sohl:
     defaultCombatGroup: null
 ---
 
+# Appearance {#appearance}
+
+**Role.** Security and the training of guards.
+
 # Dossier {#dossier}
 
-**Role.** Security and the training of guards; and, secretly, the gathering of intelligence.
+**Background.** Known for leadership in military settings.
 
-**Background.** Known for leadership in military settings. The retinue knows him as Sergeant-at-Arms; only the Ambassador knows him as Spymaster.
+:::secret {title="The hidden Spymaster"}
+He secretly gathers intelligence. The retinue knows him as Sergeant-at-Arms; he deliberately confides his office as Spymaster only to [[being-arancelavren|Aran Kélavren]].
 
-**Intrigue.** Unaware that [[being-loristaravel|Loris]] knows his secret role, and is being fed false intelligence by him. His information is vital and he underestimates the subtlety the work requires.
+Unaware that [[being-loristaravel|Loris Taravel]] knows his secret role, and is being fed false intelligence by him. His information is vital and he underestimates the subtlety the work requires.
+:::

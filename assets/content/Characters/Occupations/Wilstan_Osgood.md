@@ -3,7 +3,8 @@ shortcode: wystanosgd
 name: {full: Wilstan Osgood}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Wilstan Osgood catches rats in Brinhallow with traps and his ferret, Squeak."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,55 +394,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Wilstan Osgood is a 30-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has a straight nose and narrow lips. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
+Wilstan Osgood is a 29-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has a straight nose and narrow lips. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Wilstan Osgood is a ratter.
+**Age 29. Ratter.**
 
-Wilstan has spent most of his life catching rats in the crowded streets of the city. Known for his quick reflexes and sharp nose, he uses traps and trained ferrets together to keep the rats down. He is a familiar figure in his neighborhood, often seen with his loyal ferret, [Squeak]{.name data-type="being/creature"}. His skills are in high demand, especially in homes and markets plagued by infestations.
+Wilstan Osgood catches rats in [[place-brynhallow|Brinhallow]] with traps and his ferret, [Squeak]{.name data-type="being/creature"}. He inspects a store from the floor upward, looking for the route to the food before laying a trap. He talks freely about droppings and finds other small talk more difficult.
+
+The upland rents are paid in kind. Cheese and wool waiting for the manor's receiver need sound storage even while the tenants dispute the demand for armed service. Wilstan wants the goods accepted on their merits, without damaged stores becoming an excuse to dismiss the tenants' argument.
 
 ## Psyche
 
-### Personality
-
-He can be overly obsessed with his work, and is awkward in company outside his trade.
-
-### Motivation
-
-Wilstan wants the streets of his neighborhood clear of rats, and Squeak kept out of harm.
-
-### Strengths
-
-He is skilled in trapping and knows how rats behave, finds his way about the city well, and is resourceful.
+Absorbed and resourceful, Wilstan treats a fresh gnaw mark as a personal invitation. He wants the stores clear and Squeak safe. He neglects meals while following a run and becomes impatient when an owner refuses to move a heavy bin.
 
 ## Social
 
-Wilstan belongs to no guild and works independently.
-
-## Companions
-
-### Patrons
-
-Wilstan's patrons are the local merchants and households who want the rats kept down.
-
-### Enemies
-
-Few; he is generally well respected, but some rats still evade his traps.
+Households and innkeepers hire him directly. [[being-mildrdhrdn|Mildrun Harden]] pays for regular inspections of her stores and feeds him when he forgets. He keeps traps out of rooms with children and asks owners to shut their dogs away before releasing Squeak.
 
 ## Plot Hooks
 
-The Ratter's Dilemma
-: A merchant pays Wilstan to clear his warehouse and to say nothing of what the rats were living on, and the market next door is buying it.
+The rent cheese
+: Rats reach a store of cheese tendered as rent. The receiver refuses the whole lot. Wilstan asks the party to help separate sound from damaged goods in front of both sides before either destroys the evidence.
 
-Old Grudges
-: A rat Wilstan has never managed to trap has begun taking from a market that blames him for it.
-
-Echoes of the Past
-: A household Wilstan cleared years ago is infested again, worse, and the neighbors say he never cleared it at all.
-
-Shifting Winds
-: Political change in Eilwìth threatens the markets Wilstan's trade depends on, and he can adapt, resist, or leave.
-
-The Opportunity
-: A lord's steward offers Wilstan the run of a whole manor's rats at good wages, and Squeak is not welcome in the house.
+A ferret under stone
+: Squeak follows a rat into a blocked drain beside the quarry carts. Wilstan needs the carts shifted and the drain opened before the next load seals the gap, while the carters insist that nobody has paid for their delay.

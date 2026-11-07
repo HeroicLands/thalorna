@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** He held a seat in the Senate of the [[affiliation-repblcndrth|Ondarethan Republic]] until his death.
 
+# Dossier {#dossier}
+
 **Background.** Kidnapped and murdered in 717.
 
-**Intrigue.** His death binds [[being-geldarpanivel|Geldar Panivel]] to a criminal past, and is the lever by which Geldar can be exposed or can bargain.
+:::secret {title="The senator’s death"}
+His death binds [[being-geldarpanivel|Geldar Panivel]] to a criminal past, and is the lever by which Geldar can be exposed or can bargain.
+:::

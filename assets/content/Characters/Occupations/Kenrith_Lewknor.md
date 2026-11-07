@@ -3,7 +3,8 @@ shortcode: elfrdlwknr
 name: {full: Kenrith Lewknor}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Kenrith Lewknor grows vegetables and keeps stock outside Kaerwiind."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,55 +392,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Kenrith Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. Her deep-set brown eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and expressive lips complete her features. She has light skin with a lightly freckled complexion. Her auburn hair is loose and wavy.
+Kenrith Lewknor is a 27-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. Her deep-set brown eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and expressive lips complete her features. She has light skin with a lightly freckled complexion. Her auburn hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Kenrith Lewknor is a farmer.
+**Age 27. Farmer.**
 
-Kenrith grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Kenrith is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
+Kenrith Lewknor grows vegetables and keeps stock outside [[place-caerwynd|Kaerwiind]]. Her plots alternate roots, fodder and grazing; she tests unfamiliar seed in small beds before giving it a field. The garrison's kitchen is her steadiest buyer, but neighboring households pay more promptly.
+
+The fortress needs food while the barons send late and incomplete levies. Kenrith can grow for the soldiers or keep her sales spread among civilian buyers. She wants a clear order and a deposit before planting a whole field for the Warden's table.
 
 ## Psyche
 
-### Personality
-
-Sometimes takes on too many projects, struggles to ask for help.
-
-### Motivation
-
-Kenrith wants the farm to stay productive, and tests new crops and methods to improve its yields.
-
-### Strengths
-
-Resourceful, skilled in animal care and crop rotation, adaptable.
+Inventive and hardworking, Kenrith has three experiments under way when one would suffice. She wants a productive farm that remains hers to manage. Asking neighbors for help feels like admitting the experiments are failing.
 
 ## Social
 
-Kenrith is affiliated with the [Rural Farmers' Cooperative]{.name data-type="affiliation"}.
-
-## Companions
-
-### Patrons
-
-Local villagers buy Kenrith's fresh produce.
-
-### Enemies
-
-A rival farmer who often competes for the same markets.
+She trades produce in the fortress market and hires extra hands for harvest. [[being-hrldhlmsly|Harwald Helmslei]] handles her difficult draft animals. Other growers dispute the prices she asks when the garrison buys heavily, even while trying her new seed.
 
 ## Plot Hooks
 
-The Farmer's Dilemma
-: Kenrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+The kitchen's promise
+: The garrison wants a field of roots reserved but offers an officer's word in place of coin. Kenrith asks for a written order that names who pays if the officer rides elsewhere.
 
-Old Grudges
-: A rival farmer who often competes for the same markets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kenrith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Kenrith depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kenrith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The empty harvest crew
+: Men hired for gathering fodder are called to the march. Kenrith offers produce and wages for replacements, provided the party also helps settle the original workers' advances without charging their households twice.

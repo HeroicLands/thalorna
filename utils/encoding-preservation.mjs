@@ -1229,9 +1229,36 @@ export function withStressProse(text, file) {
     return out;
 }
 
+/** Exact Nordmal prose corrections for Stormveld and its Eilwìthi contact language. */
+const NORDMAL_GEOGRAPHY = [
+    [
+        "Nordmal is the tongue of the frozen north, spoken across the five [[lore-nordheimnclt|Nordmen]] kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-eilwith|Eilwìth]] where Nordman settlers have established communities among the [[place-elavendre|Élavendri lands]]. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.",
+        "Nordmal is the tongue of the frozen north, spoken across the five [[lore-nordheimnclt|Nordmen]] kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in [[place-stormveld|Stormveld]], in north-central [[place-eilwith|Eilwìth]], where Nordman settlers rule Eilwìthan communities. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.",
+    ],
+    [
+        "**Frontier Speech (Eilwìth Nordmal):** A mixed variety spoken in north-eastern Eilwìth, where the Nordmen of [[place-stormveld|Stormveld]] hold land, incorporating some [[skill-elvndrlng|Élavendri]] vocabulary and showing phonetic simplification due to bilingual contact.",
+        "**Frontier Speech (Eilwìth Nordmal):** A mixed variety spoken in north-central Eilwìth, where the Nordmen of [[place-stormveld|Stormveld]] hold land, incorporating some [[skill-aelwthlng|Eilwìthi]] vocabulary and showing phonetic simplification due to bilingual contact.",
+    ],
+    [
+        "[[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Eilwìth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.",
+        "[[skill-aelwthlng|Eilwìthi]] has had some influence on Nordmal in frontier regions, particularly in Stormveld, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.",
+    ],
+];
+
+/** Apply the enumerated Stormveld corrections while preserving every other line. */
+export function withNordmalGeography(text, file) {
+    if (!isNote(file, "skill-nordmalng")) return text;
+    let out = text;
+    for (const [from, to] of NORDMAL_GEOGRAPHY) out = out.replace(from, to);
+    return out;
+}
+
 /** A baseline body with its approved respellings and stress sentences. */
 export function baselineProse(before, file) {
-    return withStressProse(respell(splitFrontmatter(before.raw).body, file), file);
+    return withNordmalGeography(
+        withStressProse(respell(splitFrontmatter(before.raw).body, file), file),
+        file,
+    );
 }
 
 export function assertEncodingMigrationPreserved(

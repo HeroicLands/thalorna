@@ -3,32 +3,42 @@ shortcode: lampswenlorne
 name: {full: Pale Lamps on the Crown Road}
 type: scenario
 subType: adventure
-description: "A line of pale lamps lights the old Crown Road at dusk to a waystation whose keeper feeds every guest and never opens the gate again."
-tags: [draft]
+description: A line of pale lamps lights the old Crown Road at dusk to a waystation whose keeper feeds every guest and never opens the gate again.
+tags: []
 data:
   parents: []
-  locations: [wenlornestage]
-  cast: []
-  factions: []
+  locations: [wenlornestage, dunmere, thornwold]
+  cast: [wenlornereeve, damut, grukaruk, grkrhshk]
+  factions: [kngdmldrth, vrgldhld]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-A relay house on a road older than any realm lights its lamps every dusk, takes in every traveler and lets none go. The keeper is a dead road-reeve whose oath was caught by [[lore-theshadow|the Shadow]], and he serves supper to the living with perfect courtesy. The party goes in to find what lies in the strong-room, and must find a way to leave.
+A relay house on a road older than any realm lights its lamps every dusk, takes in every traveler and lets none go. The keeper is a dead road-reeve whose oath was caught by [[lore-theshadow|The Shadow]], and he serves supper to the living with perfect courtesy. The party goes in to find what lies in the strong-room, and must find a way to leave.
 
-## Overview
+## Overview {#overview}
 
-[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-dunmere|Dunmere]] and [[place-hallowwood|Seirasto]], through the oak woods of [[place-thornwold|the Thornwold]]. Its keeper, the **Reeve**, is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
+[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-dunmere|Dunmere]] and [[place-hallowwood|Seirasto]], through the oak woods of [[place-thornwold|The Thornwold]]. Its keeper, the [[being-wenlornereeve|Reeve of Wenlorne]], is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A quartermaster of the king's foresters at Dunmere who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
 - **The mercenary or common soldier.** The captain of the king's foresters at Dunmere needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
-- **The leader.** [[lore-vardain|A Vardain elder]] from the valleys below [[place-ironfells|the Ironfells]] wants the stage's ledger. The [[lore-khazariclt|Khazari]] say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
+- **The leader.** An elder of [[lore-vardain|The Vardain]] from the valleys below [[place-ironfells|The Ironfells]] wants the stage's ledger. The [[lore-khazariclt|Khazari]] say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
 - **The lone wanderer.** The wanderer is caught on the old road at dusk, with the forest dark on either side and a line of pale lamps showing the way.
 
-## Scene One: The Lit Mile
+## Cast and Stakes
+
+[[being-wenlornereeve|Reeve of Wenlorne]] keeps the house. Use [[being-damut|Damut]] for its porters, including the Vardain girl whose surviving memory gives the first reeve’s burial clue. [[being-grukaruk|Grukar-Uk]] and [[being-grkrhshk|Grukar-Hushk]] from Fernbank hunt off the road. Aldorath wants its missing patrol found; Vorgald’s interest is the crown’s old register, not a claim to rule the stage.
+
+## The Opening {#opening}
+
+At dusk the first pale lamp wakes behind the travelers, then the next ahead of them. A porter waits at an open gate with a dry towel over one arm. He asks their names before he asks whether they are hungry.
+
+## Scenes {#scenes}
+
+### Scene One: The Lit Mile
 
 **Purpose.** Draw the party in, and make the stage's courtesy the first menace.
 
@@ -42,9 +52,9 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Consequences.** The porters remember every name. A party that gives true names is addressed by them for the rest of the night, and a false name is written on the board all the same.
 
-**If bypassed.** A party that skirts the stage on the forest side meets the [[lore-grukarfolk|Grukar]] who hunt the road at night. The lamps remain in sight behind them wherever they go, and the road to the south is the only way out of the trees.
+**If bypassed.** A party that skirts the stage on the forest side meets the [[lore-grukarfolk|Grukar Folk]] who hunt the road at night. The lamps remain in sight behind them wherever they go, and the road to the south is the only way out of the trees.
 
-## Scene Two: Supper in the Common Room
+### Scene Two: Supper in the Common Room
 
 **Purpose.** Give the party the stage's history and its rule of hospitality.
 
@@ -54,13 +64,13 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: attack the Reeve in his chair. Stealth: take no food, take notes and slip away. Guile: tell the Reeve the war is over and the road is safe, in terms he will believe. Parley: ask what the Reeve needs to be released from his office.
 
-**Clues and rewards.** The Reeve will say what he owes the crown. The oath can be undone by a proper officer of the crown, by the king's writ or by a reeve of equal rank. No such person exists. The ledger records the names of the last night's guests in a clerk's hand: Khazari, Vardain and small [[lore-pelwarpepl|Pelwar parties]], with the sum paid. The rooms the Reeve will not enter are the north-west tower and the strong-room under it.
+**Clues and rewards.** The Reeve will say what he owes the crown. The oath can be undone by a proper officer of the crown, by the king's writ or by a reeve of equal rank. No such person exists. The ledger records the names of the last night's guests in a clerk's hand: Khazari, Vardain and small parties of the [[lore-pelwarpepl|Pelwar People]], with the sum paid. The rooms the Reeve will not enter are the northwest tower and the strong-room under it.
 
 **Consequences.** A party that eats is held by the oath. A party that tells the Reeve the war is over wins his attention and his doubt, which is dangerous in its own way.
 
 **If bypassed.** A party that refuses the table is shown to a bed by the porters, and the Reeve visits the room in the night.
 
-## Scene Three: The Board
+### Scene Three: The Board
 
 **Purpose.** Turn the stage's hospitality into a trap, and force a choice.
 
@@ -76,11 +86,11 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **If bypassed.** A party that breaks out of the court by the stable roof finds the road beyond is the one they came by and the lit lamps lead back to the gate.
 
-## Scene Four: The Tower
+### Scene Four: The Tower
 
 **Purpose.** The confrontation with the Reeve, and the end of the oath.
 
-**Situation.** The north-west tower holds the road-horn, a great curved thing of bronze on a bracket at the top. Below it is the reeve's chamber and below that the strong-room. The Reeve comes up behind the party with his keys and his lantern, polite, and begins to count them.
+**Situation.** The northwest tower holds the road-horn, a great curved thing of bronze on a bracket at the top. Below it is the reeve's chamber and below that the strong-room. The Reeve comes up behind the party with his keys and his lantern, polite, and begins to count them.
 
 **NPCs and threats.** The **Reeve** fights only to keep guests in his house. His touch is dry cold and his strength is the strength of the oath: he cannot be struck down while a guest is in the court and a name stands on the board. He counts the party and takes out the cord of a road-reeve's office. The porters come up the stair in a line, each carrying a lamp.
 
@@ -92,7 +102,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **If bypassed.** A party that flees the tower is met at the foot of the stair by the porters, who walk them back to their beds without a word.
 
-## Scene Five: The Strong-Room
+### Scene Five: The Strong-Room
 
 **Purpose.** Pay the reward and give the party a truth they did not seek.
 
@@ -102,20 +112,24 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: break the box and carry the silver. Stealth: copy the ledgers and leave the silver. Guile: take the stage's seal ring, which every Crown Road gate will recognize. Parley: bring the ledgers to the Vardain and the Khazari.
 
-**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a [[lore-flksenali|Senali envoy]] had come down the road from Seirasto to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at Seirasto's edge was a road someone expected to be opened.
+**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that an envoy of the [[lore-flksenali|Senali Folk]] had come down the road from Seirasto to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at Seirasto's edge was a road someone expected to be opened.
 
 **Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazari of [[place-vorgald|Vorgald]], who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Senali, if they learn it was written down, will want it least.
 
 **If bypassed.** A party that leaves the strong-room unopened hears of the silver from a lake-shore drover within the year.
 
-## Aftermath
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+The Reeve lights the lamps every dusk. Another traveler or carter enters each season, and the roll of missing people grows. The foresters keep their halt on patrols; no ordinary road party brings the stage back into use.
+
+## Aftermath {#aftermath}
 
 - **If the oath is ended.** The lamps go out and stay out. The road is open again, and drovers begin to use it. The Vardain bury the dead in the stage's court.
 - **If the Reeve is destroyed with the board standing.** The stage keeps its lamps and the road swallows another patrol within the year.
 - **If the ledger reaches Vorgald.** The Khazari learn what passed at the gate on the last night, and have more to say about the Senali than they did.
 - **If the party fails.** The stage holds the party's names, and the lamps are lit for them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-wenlornestage|Wenlorne Stage]]
 : the relay house and its keeper

@@ -3,7 +3,8 @@ shortcode: kenelmadwl
 name: {full: Kenmund Adwell}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "Kenmund Adwell guards the wool and stone carts running from Brinhallow to Ashford."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,55 +392,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Kenmund Adwell is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with angular cheekbones, a high forehead, and a rounded jaw that leads to a firm chin. His narrow brown eyes sit beneath arched brows, lending him a keen gaze. A slightly upturned nose and curved lips complete his features. He has light skin with a lightly freckled complexion. His red hair is combed neatly to one side.
+Kenmund Adwell is a 35-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with angular cheekbones, a high forehead, and a rounded jaw that leads to a firm chin. His narrow brown eyes sit beneath arched brows, lending him a keen gaze. A slightly upturned nose and curved lips complete his features. He has light skin with a lightly freckled complexion. His red hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Kenmund Adwell is a caravan guard.
+**Age 35. Caravan Guard.**
 
-Kenmund is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Kenmund believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
+Kenmund Adwell guards the wool and stone carts running from [[place-brynhallow|Brinhallow]] to [[place-ashford|Ashford]]. He walks the line at each halt, checks the drivers' loads and puts the least confident guard where he can see him. He carries a spear and a repair cord as readily as a sword.
+
+The upland tenants refuse the demand for the levy of [[place-wyndmarch|The Wiindmarch]]. Kenmund takes wages for guarding carts, and insists that paid road service does not surrender their customary exemption from military service. A recruiting officer finds an armed hill man easier to argue with than a whole town.
 
 ## Psyche
 
-### Personality
-
-Can be too protective, struggles with newer tactics.
-
-### Motivation
-
-Kenmund wants younger guards to meet the dangers of the road prepared, so he shares the lessons he has gathered over decades.
-
-### Strengths
-
-Highly experienced, good leader, skilled in close combat.
+Protective and deliberate, Kenmund trusts a close formation more than a glorious charge. He wants the younger guards home with their pay. His habit of taking the most dangerous position himself prevents them from learning when to hold it.
 
 ## Social
 
-Kenmund is affiliated with the local [Mercenaries' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Caravan leaders and merchants hire Kenmund for his experience.
-
-### Enemies
-
-Few; well-respected among peers.
+Carters and wool buyers hire him directly. The tenants know his road work and expect him to keep their arguments out of the cargo. Lowland officers want his experience for the march and mistake refusal for indifference to its danger.
 
 ## Plot Hooks
 
-The Caravan Guard's Dilemma
-: Kenmund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+The levy at the roadside
+: An officer demands that the caravan's armed men accompany him north. Kenmund asks the party to carry the hiring agreements to the manor while he keeps the carts together.
 
-Old Grudges
-: Few; well-respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kenmund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Kenmund depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kenmund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A cart left uphill
+: A stone wagon breaks its wheel above the town as the wool convoy starts down. Kenmund needs guards for the stranded crew without leaving the lighter cargo exposed on the road.

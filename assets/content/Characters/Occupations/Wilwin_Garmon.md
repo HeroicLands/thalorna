@@ -3,12 +3,13 @@ shortcode: edwingarmn
 name: {full: Wilwin Garmon}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "Wilwin Garmon is a household man of Wilwald Dunwell at Kingshollow."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Huscarl
+  occupation: Household Guard
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]
@@ -392,55 +393,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Wilwin Garmon is a 24-year-old man who stands 6'2" tall and is of moderate build. He has a round face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. His piercing brown eyes sit beneath thin brows, lending him a penetrating gaze. A narrow nose and wide lips complete his features. He has light skin with a fair complexion. His dark brown hair is kept practical and short.
+Wilwin Garmon is a 23-year-old man who stands 6'2" tall and is of moderate build. He has a round face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. His piercing brown eyes sit beneath thin brows, lending him a penetrating gaze. A narrow nose and wide lips complete his features. He has light skin with a fair complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Wilwin Garmon is a huscarl.
+**Age 23. Household Guard.**
 
-Wilwin is a promising young huscarl serving Lord [Ragnar]{.name data-type="being/npc"}. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Wilwin dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
+Wilwin Garmon is a household man of [[being-oswaldunwl|Wilwald Dunwell]] at [[place-kingsholow|Kingshollow]]. He escorts rent carts, guards the manor's stores and practices swordplay whenever a steady opponent is available. He wants to command men, but most of his employer's work requires listening to tenants rather than driving enemies off.
+
+The forest court's unpaid fines make his position uncomfortable. He serves a lord who argues for the tenants while continuing to answer the crown's claims. Wilwin can carry a petition to the Forester or stand beside a disputed woodpile; deciding whose side the sword is on requires more care.
 
 ## Psyche
 
-### Personality
-
-Impulsive, inexperienced in large-scale battles.
-
-### Motivation
-
-Wilwin dreams of leading his own band of warriors, and knows he must first prove himself in battle.
-
-### Strengths
-
-Agile and quick, skilled in swordplay, fiercely loyal.
+Eager, agile and loyal, Wilwin wants a task that proves his courage. He reacts quickly to an insult and slowly to the difference between a threat and an angry complaint. He accepts correction from Wilwald even when disappointed by it.
 
 ## Social
 
-Wilwin is affiliated with Lord Ragnar's retinue.
-
-## Companions
-
-### Patrons
-
-Lord Ragnar and his household are Wilwin's patrons.
-
-### Enemies
-
-Rival warriors who see him as a threat.
+The manor feeds and pays him. Tenants know his patrols and call on him for help with ordinary trouble. His orders come from the household whose fields he walks, and the manor steward checks his expenses.
 
 ## Plot Hooks
 
-The Huscarl's Dilemma
-: Wilwin faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+A cart at the boundary
+: Foresters stop a tenant's firewood cart and call for Wilwin's assistance. He asks the party to fetch Wilwald and witness the timber in place while he keeps both sides from unloading it by force.
 
-Old Grudges
-: Rival warriors who see him as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Wilwin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Wilwin depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Wilwin the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The petition's escort
+: Wilwald sends tenants to the forest court with their accounts. Wilwin wants enough companions to keep the road safe without presenting the petition as an armed challenge at the court door.

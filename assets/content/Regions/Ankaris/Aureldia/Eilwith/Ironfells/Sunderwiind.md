@@ -3,8 +3,8 @@ shortcode: sunderwynd
 name: {full: Sunderwiind}
 type: place
 subType: site
-description: "An Aldorathi watch-post on a crag above a gorge on the southern approach to one of the Ironfells passes, its garrison taken one by one and hung in a dead pine by a made thing that keeps to the heights."
-tags: [draft, mountain, frontier, ruin, haunted]
+description: "An Aldorathi watch-post on a crag above a gorge on the southern approach to one of the Ironfells passes, silent above the trail, with figures hanging in a dead pine below its walls."
+tags: [mountain, frontier, ruin, haunted]
 data:
   demonym: null
   lore: []
@@ -14,23 +14,23 @@ data:
   culture: aelwythanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The southern approach to the more easterly of the two [[place-ironfells|Ironfells passes]] climbs for a day through steep, sodden forest and then enters a gorge, a narrow cleft with a torrent at the bottom and a trail cut along one wall. At the gorge's upper end, on a crag that overhangs the trail, stands **Sunderwiind**: a square stone tower, a walled yard, a gatehouse and a barrack range with arrow-slits on the gorge side. The name is the gorge's, the split way between the hills. Every pack-pony that crosses the pass from the south goes under the post's walls, and the post collects the crown's toll on it.
 
 Sunderwiind is an outpost of [[place-caerwynd|Kaerwiind]], which watches the southern ends of the passes. Its garrison is a captain and a score of men, relieved by a patrol up from Kaerwiind at intervals, and its life is weather, smugglers and the occasional skirmish with the jarl's men at the pass-head ([[place-sunderfells|the Sunderfells]]).
 
-## The Post
+## The Post {#history}
 
 The tower holds the captain's room and, above it, the signal platform; between the two, under the platform's timbers, is a low roof-room reached by a ladder and a trap in the captain's ceiling. The barrack range holds the men, the kitchen and the stores. Beneath the yard is a cistern, a vault on squat pillars cut into the crag, which takes the rain off the roofs and holds the post's water through a siege. A drainage tunnel runs from the cistern's low end through the crag and out onto the gorge face below the trail. Behind the cistern's far wall is the pay vault, which holds the toll and the garrison's silver; a captain walled it up during a raid from over the pass and died in the fighting. The daybooks record every search the garrison has made for its door, and none of them records finding it. An old mason's mark is cut on the cistern's far wall, and the same mark is on the tower's foundation stone.
 
 :::secret {title="The pay vault's door"}
-The door is a single dressed slab in the cistern's far wall, beside the mason's mark, set dry and faced with a skin of lime mortar so that it reads as newer stonework. A bar under its lower edge lifts it out. Broken through instead, the facing takes an hour of noisy work. Captain [Aldmund Hardwick]{.name data-type="being/npc"} found it on the afternoon before he was taken, and the only record of it is the last line of his daybook, which ends mid-word.
+The door is a single dressed slab in the cistern's far wall, beside the mason's mark, set dry and faced with a skin of lime mortar so that it reads as newer stonework. A bar under its lower edge lifts it out. Broken through instead, the facing takes an hour of noisy work. Captain [[being-aldmundhardwik|Aldmund Hardwik]] found it on the afternoon before he was taken, and the only record of it is the last line of his daybook, which ends mid-word.
 :::
 
-## The Thing in the Heights
+## The Thing in the Heights {#present}
 
-Something lives in the post now. The garrison's last daybook calls it **the [Hangman]{.name data-type="being/creature"}**, after what it does with the men it takes.
+Something lives in the post now. The garrison's last daybook calls it **the [[being-hangman|Hangman]]**, after what it does with the men it takes.
 
 Its work shows from the gorge trail. A dead pine leans out over the drop below the crag, and men hang from its branches, out of reach of anything that walks. Inside the post, deep gouges run across the plaster and the beams of every ceiling, sets of long parallel scores as if something heavy hung there by hooks and dragged itself along, and there are none on any floor.
 
@@ -86,13 +86,13 @@ The gorge trail is the only road to Sunderwiind. It is a day's climb from the la
 
 **The hung now.** This is the post on the afternoon a rockslide closes the upper gorge below it, the day the relief patrol from [[place-caerwynd|Kaerwiind]] reaches the gate.
 
-- **Captain Aldmund Hardwick** hangs in the tower's roof-room under the signal platform, above the table where he was writing when he was taken, three nights before the slide. A rafter cracked as the rope took his weight. He is weak and lucid at dusk, after the watering, and he calls down the trap and through the platform's slits for [Kenric Brandlei]{.name data-type="being/npc"}, the one man of the garrison left on the ground, by name.
-- **The dead pine** holds three. Two are men of the garrison taken on the wall in the first nights, dead and dry. The third is a patrolman of that relief, taken at the gate that afternoon and dipped within the hour, alive. When he wakes he calls for his sergeant, [Wilrik]{.name data-type="being/npc"}.
+- **Captain Aldmund Hardwik** hangs in the tower's roof-room under the signal platform, above the table where he was writing when he was taken, three nights before the slide. A rafter cracked as the rope took his weight. He is weak and lucid at dusk, after the watering, and he calls down the trap and through the platform's slits for [[being-kenrikbrandley|Kenrik Brandlei]], the one man of the garrison left on the ground, by name.
+- **The dead pine** holds three. Two are men of the garrison taken on the wall in the first nights, dead and dry. The third is a patrolman of that relief, taken at the gate that afternoon and dipped within the hour, alive. When he wakes he calls for his sergeant, [[being-wilriksunder|Sergeant Wilrik]].
 - **The cistern's vault** holds the rest: the garrison's dead, a smuggler and his pony, the relief patrol's sergeant Wilrik and three of his men alive, and two men of the garrison taken in the last week, alive. One of the relief patrol broke his neck in the taking and hangs dead with the others.
 
-**The garrison's end.** The Hangman came down out of the high country some weeks ago. It took men on watch on the wall first, then men from their bunks with their mates asleep in the next, and three nights before the slide it took the captain from his table in the tower with Kenric on the stair below. The lamp went over and a crack sounded in the dark, and the captain's chair was empty. That night his voice called from above for Kenric to come up and help. The captain's last entry, a single line saying he had found something at last, ends mid-word, written under the beams he now hangs from.
+**The garrison's end.** The Hangman came down out of the high country some weeks ago. It took men on watch on the wall first, then men from their bunks with their mates asleep in the next, and three nights before the slide it took the captain from his table in the tower with Kenrik on the stair below. The lamp went over and a crack sounded in the dark, and the captain's chair was empty. That night his voice called from above for Kenrik to come up and help. The captain's last entry, a single line saying he had found something at last, ends mid-word, written under the beams he now hangs from.
 
-**Kenric.** He lies flat in the open yard every night, as the captain meant to order the men, and he has heard the captain call him by name for three nights. He believes the Hangman speaks in the captain's voice and learns from watching, and he has not answered. He does not know the captain is alive.
+**Kenrik.** He lies flat in the open yard every night, as the captain meant to order the men, and he has heard the captain call him by name for three nights. He believes the Hangman speaks in the captain's voice and learns from watching, and he has not answered. He does not know the captain is alive.
 
 **The tellings, weighed.**
 

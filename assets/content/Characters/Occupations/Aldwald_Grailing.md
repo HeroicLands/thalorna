@@ -3,7 +3,8 @@ shortcode: aldwngrylng
 name: {full: Aldwald Grailing}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Aldwald Grailing begs beside the inspection quay at Ravenmoor."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -51,7 +52,7 @@ sohl:
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 60}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 10}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-skill-fish, system: {masteryLevelBase: 24}}
@@ -390,55 +391,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Aldwald Grailing is a 48-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
+Aldwald Grailing is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Aldwald Grailing is a beggar.
+**Age 47. Beggar.**
 
-Aldwald once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwald is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
+Aldwald Grailing begs beside the inspection quay at [[place-ravenmoor|Ravenmoor]]. He offers to carry a bundle or sweep a landing before he asks for bread. His hands know farm work, and he measures a sack by its weight against his hip. Shipmasters waiting through the compulsory call sometimes pay him to mind their shoreward goods.
+
+The talk of a final campaign against the [[affiliation-saelvri|Seilvri]] brings buyers of provisions to the quay. Aldwald wants a place among the paid hands, with meals and a wage stated plainly. He refuses recruitment money that nobody can explain without lowering a voice.
 
 ## Psyche
 
-### Personality
-
-Stubborn and finds it hard to accept charity.
-
-### Motivation
-
-Aldwald wants to find his way back to a better life, though his pride sometimes prevents him from accepting help.
-
-### Strengths
-
-Resilient and hard-working, retains some basic farming skills.
+He is stubborn about earning his food and impatient with pity. He works steadily when someone gives him a definite task. Hunger makes him accept bad terms; pride makes him conceal how bad they are.
 
 ## Social
 
-Aldwald has no guild affiliation.
-
-## Companions
-
-### Patrons
-
-Former farm acquaintances sometimes help Aldwald, though he is reluctant to accept their charity.
-
-### Enemies
-
-Guards who harass vagrants.
+Porters share scraps and news with him. The quay officers tolerate him while he keeps passages clear, but a master accusing him of theft carries more weight than his own account. He worships through the [[affiliation-morvana|Faith of Morvana]] and accepts bread there when he cannot find work.
 
 ## Plot Hooks
 
-The Beggar's Dilemma
-: Aldwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+A place on the wagon
+: A provisioning contractor offers Aldwald work inland but refuses to state where the wagons are bound. Aldwald asks a literate traveler to read the hiring paper before he puts his mark to it.
 
-Old Grudges
-: Guards who harass vagrants. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Aldwald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Aldwald depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Aldwald the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The blocked landing
+: Cargo awaiting inspection occupies the corner where the porters sleep. Aldwald offers to lead the owners to a dry store, provided someone helps secure permission to move the goods under the inspectors' eyes.

@@ -77,3 +77,7 @@ The coves were fished before the city was a city, and the shore's families count
 
 [[affiliation-calypsa|Kalipsa]]
 : the city-state that governs the shore
+
+## Adventures {#adventures}
+
+- [[scenario-vrellnesspring|The Key Above the Dye Vats]]

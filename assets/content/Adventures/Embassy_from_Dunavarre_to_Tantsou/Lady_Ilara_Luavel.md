@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Daughter of the embassy's Steward.
 
-**Background.** Beloved daughter of [[being-laradhluavel|Larad Lúavel]], living under the shadow of his debts.
+# Dossier {#dossier}
 
-**Intrigue.** Her safety is her father's first concern, which [[affiliation-umbralcourt|the Umbral Court]] exploits to guarantee his cooperation.
+**Background.** Beloved daughter of [[being-laradhluavel|Larad Lúavel]].
+
+:::secret {title="The Court’s leverage"}
+Ilara lives under the shadow of her father’s debts. Her safety is her father's first concern, which [[affiliation-umbralcourt|the Umbral Court]] exploits to guarantee his cooperation.
+:::

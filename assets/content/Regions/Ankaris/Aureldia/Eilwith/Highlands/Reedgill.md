@@ -65,3 +65,7 @@ Cut nets, Koldmere's and Brinwold's both, line the dens. A party that finds them
 
 [[being-stillwader|Stillwader]]
 : the Sha of the nest
+
+## Adventures {#adventures}
+
+- [[scenario-reedgillnets|Nets from Both Shores]]

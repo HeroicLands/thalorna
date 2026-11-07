@@ -3,12 +3,13 @@ shortcode: hawiseshby
 name: {full: Hawise Ashbi}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "Hawise Ashbi is a household guard at Thornbury, a freeman who sells trained service to a shipping household rather than a legionary."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Huscarl
+  occupation: Household Guard
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
@@ -393,55 +394,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Hawise Ashbi is a 44-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. Her deep-set hazel eyes sit beneath expressive brows, lending her a watchful gaze. A rounded nose and wide lips complete her features. She has pale skin with a fair complexion. Her brown hair is adorned with simple pins.
+Hawise Ashbi is a 43-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. Her deep-set hazel eyes sit beneath expressive brows, lending her a watchful gaze. A rounded nose and wide lips complete her features. She has pale skin with a fair complexion. Her brown hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Hawise Ashbi is a huscarl.
+**Age 43. Household Guard.**
 
-Hawise is a veteran huscarl who has fought alongside her comrades for many years. Known for her strength and loyalty, she serves Lord [Erik]{.name data-type="being/npc"} and is often tasked with training younger warriors. Hawise has a wealth of knowledge about combat tactics and is respected for her insights and experience. She believes in the importance of honor and camaraderie among warriors.
+Hawise Ashbi is a household guard at [[place-thornbury|Thornbury]], a freeman who sells trained service to a shipping household rather than a legionary. She teaches young guards to keep their line, protect a doorway and stop a brawl without scattering after every thrown cup. Her scarred right hand stiffens in the damp.
+
+The houses demanding action against [[place-stormveld|Stormveld]] also want their warehouses and counting rooms guarded while their own men sail. Hawise wants recruits trained before they receive keys. The Senate's shortage of money puts experienced hands in demand at home and at [[place-kaermouth|Kaermouth]].
 
 ## Psyche
 
-### Personality
-
-Can be too hard on younger warriors, struggles with physical demands due to age.
-
-### Motivation
-
-Hawise wants the younger warriors she trains for Lord Erik to be ready to stand beside their comrades.
-
-### Strengths
-
-Skilled in combat and tactics, experienced trainer, resilient.
+Loyal to the people beside her and exacting in practice, Hawise takes a careless stance personally. She wants younger guards to survive their first frightened mistake. She gives correction more readily than praise and rests less than her joints require.
 
 ## Social
 
-Hawise is affiliated with Lord Erik's retinue.
-
-## Companions
-
-### Patrons
-
-Lord Erik and his household are Hawise's patrons.
-
-### Enemies
-
-Few; well-respected in her community.
+Shipping households hire her by agreement. She accepts work through their stewards and checks whether wages include injured guards. She respects the republic's soldiers without pretending that a private employer can order the legion.
 
 ## Plot Hooks
 
-The Huscarl's Dilemma
-: Hawise faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+The empty warehouse watch
+: A house offers Hawise extra pay to cover the men it sends north, with untrained porters filling the gaps. She asks for experienced guards for a few nights and someone to make the steward state what protection the porters receive.
 
-Old Grudges
-: Few; well-respected in her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Hawise's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Hawise depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Hawise the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+Two promises of service
+: A recruit has taken household wages and a payment for the frontier levy. Hawise wants both agreements examined before either employer treats him as a deserter.

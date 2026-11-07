@@ -3,7 +3,8 @@ shortcode: edriclvrtn
 name: {full: Harrik Alverton}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Harrik Alverton keeps sheep, a kitchen plot and a few cattle above Brinhallow."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -394,55 +395,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Harrik Alverton is a 53-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows, lending him a lively gaze. A narrow nose and curved lips complete his features. He has pale skin with a ruddy complexion. His white hair is short and swept back.
+Harrik Alverton is a 52-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows, lending him a lively gaze. A narrow nose and curved lips complete his features. He has pale skin with a ruddy complexion. His white hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harrik Alverton is a farmer.
+**Age 52. Farmer.**
 
-Harrik has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Harrik often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
+Harrik Alverton keeps sheep, a kitchen plot and a few cattle above [[place-brynhallow|Brinhallow]]. He meets his rent in wool and hill cheese, counts his winter hay himself and helps a neighbor lift a sick ewe without asking for payment. His white hair and aching ribs do not make him willing to give up the steep fields.
+
+The barons ask the upland manors for men for [[place-wyndmarch|The Wiindmarch]]. Harrik stands with the tenants who refuse: his holding owes rent in kind, not service in arms. He is ready with the due wool and cheese and insists that the refusal does not cancel a single honest obligation.
 
 ## Psyche
 
-### Personality
-
-Stubborn about changing his methods, can be overly critical.
-
-### Motivation
-
-Harrik wants his small farm to remain self-sufficient, and lends his neighbors a hand when they need it.
-
-### Strengths
-
-Experienced in farming and animal husbandry, resilient, helpful to others.
+Gruff and generous with labor, he is less generous with advice he does not request. He wants a farm his household can sustain without depending on a lord's favor. Familiar methods reassure him even when a neighbor's experiment yields more.
 
 ## Social
 
-Harrik is affiliated with the [Rural Farmers' Cooperative]{.name data-type="affiliation"}.
-
-## Companions
-
-### Patrons
-
-Local markets and inns buy Harrik's produce and meat.
-
-### Enemies
-
-None; generally well-regarded in the community.
+Neighboring tenants exchange labor at lambing and haymaking. The manor's receiver collects his rent; the inn and the downhill traders buy what remains. Harrik speaks for his own holding, not for a formal farmers' organization.
 
 ## Plot Hooks
 
-The Farmer's Dilemma
-: Harrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+Rent at the gate
+: The receiver refuses Harrik's wool unless a man accompanies it for the levy. Harrik asks for witnesses to the full rent tendered and the reason for its refusal.
 
-Old Grudges
-: None; generally well-regarded in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Harrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Harrik depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Harrik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The hay hands
+: Households divided over volunteering for the march cannot gather one another's hay. Harrik offers food and work to travelers willing to help both sides before the weather turns.

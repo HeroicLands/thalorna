@@ -3,7 +3,8 @@ shortcode: lefrcbrnwl
 name: {full: Leofred Barnwell}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Leofred Barnwell treats patients in Ashford, taking fees from prosperous households and making room for drovers who arrive with little besides an injured animal and their own bruises."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -56,7 +57,7 @@ sohl:
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 51}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 16}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 72}}
@@ -394,55 +395,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Leofred Barnwell is a 38-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows and give him an incisive gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
+Leofred Barnwell is a 37-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows and give him an incisive gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Leofred Barnwell is a physician.
+**Age 37. Physician.**
 
-Leofred Barnwell is a respected physician known for his wide knowledge of medicine and healing. He has spent many years studying both the old remedies and the newer techniques, and is a trusted figure in the community. He is dedicated to his patients and often treats the poor without charge. His calm manner and kindness have made him well loved.
+Leofred Barnwell treats patients in [[place-ashford|Ashford]], taking fees from prosperous households and making room for drovers who arrive with little besides an injured animal and their own bruises. He washes his instruments, asks a patient to repeat the pain in plain words and resists the family's demand for a splendid remedy when rest is what he can offer.
+
+The dispute over bridge tolls sends more carts and cattle through the ford. Leofred sees the slips, crushed feet and cold that follow. He wants a dry place near the crossing where injuries can be tended without carrying each patient through the market.
 
 ## Psyche
 
-### Personality
-
-He can be too absorbed in his work, and the losses of his calling weigh on him.
-
-### Motivation
-
-Leofred wants to treat whoever comes to him and to keep his practice trusted by noble and commoner alike.
-
-### Strengths
-
-He is highly knowledgeable, has an excellent manner at the bedside, and is skilled in diagnosis.
+Patient and absorbed in his work, he forgets meals while remembering a stranger's symptoms. He wants noble and common patients to trust the same care. A death leaves him searching his decisions long after the household asks for silence.
 
 ## Social
 
-Leofred belongs to the local [Physicians' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Leofred's patrons are nobles and common folk alike who seek his care.
-
-### Enemies
-
-Few; he is respected, but some traditionalists have criticized him.
+His noble connections secure access to wealthy houses; ordinary families supply most of his work. He worships through [[affiliation-lizelas|Faith of Lizelas]] and accepts help with food and linen without making it a fee for treatment.
 
 ## Plot Hooks
 
-The Physician's Dilemma
-: A patient Leofred can only save with a technique the traditionalists condemn forces him to choose between his standing and the cure.
+A shelter by the ford
+: Leofred asks for boards, straw and permission to use a riverside shed. The bridge's toll collector objects that making the ford safer encourages evasion. Leofred needs the dispute heard without closing his patients' shelter.
 
-Old Grudges
-: A traditionalist among the guild's physicians turns his criticism of Leofred into a formal complaint.
-
-Echoes of the Past
-: A patient Leofred lost in his early years has a family that has not forgotten him.
-
-Shifting Winds
-: Political change in Eilwìth threatens the standing Leofred's noble family gives him, and he can adapt, resist, or leave.
-
-The Opportunity
-: Leofred is offered the post of physician to a great house, and its price is not named up front.
+The baron's hour
+: A visiting baron demands immediate attendance while a drover lies injured beneath an overturned cart. Leofred asks the party to explain the delay and fetch supplies, so he can stay with the person who cannot travel.
