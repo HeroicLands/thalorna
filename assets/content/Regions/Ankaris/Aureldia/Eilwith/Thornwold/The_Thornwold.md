@@ -29,3 +29,7 @@ The Durrask fight [[lore-grukaraelwyth|Grukar]] wherever they meet them in the c
 
 [[place-eilissa|Lake Eilìssa]]
 : the lake to the north
+
+## Adventures {#adventures}
+
+- [[scenario-durraskcount|Forty Mares and One Name]]

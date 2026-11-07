@@ -3,8 +3,8 @@ shortcode: threnhallow
 name: {full: Threnhallow}
 type: place
 subType: site
-description: "A house of the Silent Judge on a mound at the seaward edge of the Greilevels, built to give the drowned of the Levels their rites, whose bell rings beneath the tide and whose dead keep the house."
-tags: [draft, ruin, haunted, coastal, river]
+description: "A house of the Silent Judge on a mound at the seaward edge of the Greilevels, built to give the drowned of the Levels their rites, whose bell rings beneath the tide."
+tags: [ruin, haunted, coastal, river]
 data:
   demonym: null
   lore: []
@@ -26,7 +26,7 @@ The house kept the faith's silence. Its only voice was its bell, hung not in the
 
 Every room of the house has an iron drain-grate in its floor. At high water the sea stands in the drains, and at a spring tide it comes up through the joints of the chapel's flagstones.
 
-The house's guests' book lies in the chapter room. Travelers who sheltered on the mound wrote their names and where they came from, and the brethren signed it in their own form, a name followed by the words "keepeth the house". The book runs on for years after the last brother signed it, in many different hands, most of them unsteady, and every entry after his is in the brethren's form. One name comes back among the later entries twelve times, [Leofwald]{.name data-type="being/creature"}'s, in one hand that is a little less steady each time. The last leaves are nearly full.
+The house's guests' book lies in the chapter room. Travelers who sheltered on the mound wrote their names and where they came from, and the brethren signed it in their own form, a name followed by the words "keepeth the house". The book runs on for years after the last brother signed it, in many different hands, most of them unsteady, and every entry after his is in the brethren's form. One name comes back among the later entries twelve times, [[being-keeperleofwald|Keeper Leofwald]]'s, in one hand that is a little less steady each time. The last leaves are nearly full.
 
 :::secret {title="The guests' book"}
 The later hands are the house's new keepers, each signing on as a brother of the house signs on entering. Every name after the last brother's is someone the drowned took, drowned in the crypt and raised, save Leofwald's own. The Keeper signs again each time he rises, and his twelve entries are his twelve risings, each in a newer and worse body than the last. The newest entry is the most recent taking, and its ink is fresh.

@@ -3,7 +3,8 @@ shortcode: mildrdhrdn
 name: {full: Mildrun Harden}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "Mildrun Harden keeps the Harden Inn in Brinhallow."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -71,7 +72,7 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 26}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 52}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 52}}
   system:
     body:
       structure:
@@ -391,55 +392,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Mildrun Harden is a 41-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with broad cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. Her bright gray eyes sit beneath thin brows, lending her a lively gaze. A narrow nose and expressive lips complete her features. She has tanned skin with a weathered complexion. Her blonde hair is adorned with simple pins.
+Mildrun Harden is a 40-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with broad cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. Her bright gray eyes sit beneath thin brows, lending her a lively gaze. A narrow nose and expressive lips complete her features. She has tanned skin with a weathered complexion. Her blonde hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Mildrun Harden was born in the [[place-eilwith|Eilwìth]] region to a guilded family of [[lore-aelwythanclt|Eilwìthan]] heritage.
+**Age 40. Innkeeper.**
 
-Mildrun has run the [Harden Inn]{.name data-type="place/structure"} for more than twenty years. She takes pride in her ale and offers travelers a meal and a bed. Locals and travelers gather at the inn, where she often shares stories from her own travels.
+Mildrun Harden keeps the [Harden Inn]{.name data-type="place/structure"} in [[place-brynhallow|Brinhallow]]. Her ale is dark, her cheese comes from the hill farms and her best stories concern travelers who insist the downhill road cannot be as bad as she says. She gives newcomers a place close to the fire before asking their business.
+
+The refusal of military service divides her benches between tenants defending their customary terms and people considering the levy for pay. Mildrun wants both to buy supper without requiring her to declare one side unwelcome. Her busiest evenings are also the hardest to keep orderly.
 
 ## Psyche
 
-### Personality
-
-Can be overwhelmed during busy periods, sometimes too trusting of strangers.
-
-### Motivation
-
-Mildrun takes pride in making guests feel at home at the Harden Inn.
-
-### Strengths
-
-Excellent cook, skilled brewer, great communicator.
+Welcoming and curious, she takes a good story as a recommendation too readily. She wants the inn to be a place where the town can speak without breaking apart. She overfills the kitchen's orders rather than admit that the room is full.
 
 ## Social
 
-Mildrun is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
-
-## Companions
-
-### Patrons
-
-Local regulars and travelers are Mildrun's patrons.
-
-### Enemies
-
-Few; well-liked in the community.
+Quarry workers, shepherds and downhill carters form her regular trade. [[being-kenelmadwl|Kenmund Adwell]] brings road news with his convoys. The priest who attends both the town's worship and the old stones can sit at her fire without being pressed to choose between them.
 
 ## Plot Hooks
 
-The Innkeeper's Dilemma
-: Mildrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+The rent meeting
+: Tenants ask to compare their obligations at the inn. The manor's collector demands a seat and payment for his meal. Mildrun wants someone to record the discussion while she keeps the gathering open to the people paying the rents.
 
-Old Grudges
-: Few; well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Mildrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Mildrun depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Mildrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The recruiter upstairs
+: A recruiter pays for a room while the common room fills with opponents of the levy. Mildrun asks for help maintaining her rule that guests may speak, but may not seize another guest's gear or block the stairs.

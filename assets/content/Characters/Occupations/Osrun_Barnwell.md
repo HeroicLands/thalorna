@@ -3,7 +3,8 @@ shortcode: godabarnwl
 name: {full: Osrun Barnwell}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Osrun Barnwell fires pots at Kingshollow, using colored glazes on ordinary jugs as willingly as on pieces intended for the royal hall."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,55 +392,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Osrun Barnwell is a 25-year-old woman who stands 5'7" tall and is slender. She has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. Her deep-set green eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and firm lips complete her features. She has fair skin with a weathered complexion. Her black hair is adorned with simple pins.
+Osrun Barnwell is a 24-year-old woman who stands 5'7" tall and is slender. She has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. Her deep-set green eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and firm lips complete her features. She has fair skin with a weathered complexion. Her black hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Osrun Barnwell is a potter.
+**Age 24. Potter.**
 
-Osrun is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Osrun enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
+Osrun Barnwell fires pots at [[place-kingsholow|Kingshollow]], using colored glazes on ordinary jugs as willingly as on pieces intended for the royal hall. She keeps test shards above her bench, each marked to show the mixture and firing. A promising color can occupy her longer than an order of cooking pots.
+
+Fuel is an expense in a village beside woodland its tenants may not freely cut. Osrun buys what she can document, stacks it dry and limits each firing accordingly. The tenants' request for a particular midwinter oak interests her as a question of household warmth before kiln fuel.
 
 ## Psyche
 
-### Personality
-
-Can be overly ambitious, struggles with time management.
-
-### Motivation
-
-Osrun wants her experimental glazes and designs to find a market, while keeping each project within the time she has for it.
-
-### Strengths
-
-Creative, skilled in glazing techniques, good at marketing her work.
+Ambitious and sociable, Osrun explains a glaze with her hands and loses track of the hour. She wants bright work in ordinary homes, not only on wealthy tables. She quotes too little for an experiment and too much time for its completion.
 
 ## Social
 
-Osrun is affiliated with the local [Artisans' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Art collectors and local families seek Osrun's pottery.
-
-### Enemies
-
-Few; generally well-liked, though some traditionalists may disapprove of her style.
+Village households buy replacements; the hall's servants buy matching sets. She prays through [[affiliation-sacredforge|The Sacred Forge]] and trades directly for clay and fuel. [[being-alfrdbrnwl|Wilred Barnwell]] can discuss minerals with her, but she tests anything he suggests on a shard first.
 
 ## Plot Hooks
 
-The Potter's Dilemma
-: Osrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+A firing held cold
+: A wood seller's load is detained at the forest court, leaving Osrun's kiln packed and unfired. She needs the cutting permission checked before she buys replacement fuel at the court season's price.
 
-Old Grudges
-: Few; generally well-liked, though some traditionalists may disapprove of her style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Osrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Osrun depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Osrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+Cups for an uncertain feast
+: A household servant requests a set of cups for the gathering at the crowning chapel but offers payment only if the council attends. Osrun asks for a deposit that covers the firing regardless of the barons' answer.

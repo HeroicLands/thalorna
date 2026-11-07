@@ -3,7 +3,8 @@ shortcode: wnfrdlvrtn
 name: {full: Winrith Alverton}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Winrith Alverton draws maps and landscapes in Dunmere."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -395,55 +396,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Winrith Alverton is a 31-year-old woman who stands 5'2" tall and is slender. She has an angular face with high cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. Her deep-set blue eyes sit beneath thin brows, lending her a watchful gaze. A straight nose and curved lips complete her features. She has fair skin with a fair complexion. Her dark brown hair is braided and coiled at the nape.
+Winrith Alverton is a 30-year-old woman who stands 5'2" tall and is slender. She has an angular face with high cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. Her deep-set blue eyes sit beneath thin brows, lending her a watchful gaze. A straight nose and curved lips complete her features. She has fair skin with a fair complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Winrith Alverton is a cartographer/artist.
+**Age 30. Cartographer/Artist.**
 
-Winrith grew up in a small village where she developed a love for nature and art. Her skill in sketching landscapes attracted the attention of a traveling cartographer, who took her on as an apprentice. She now creates maps for local lords and travelers, infusing her artistic style into her work to create maps that are both functional and beautiful.
+Winrith Alverton draws maps and landscapes in [[place-dunmere|Dunmere]]. She sketches a shore from a boat as carefully as from a tower and leaves space for a ferryman's correction. Her patrons like the painted reeds and trees; travelers pay for the landings and distances beneath them.
+
+[[place-eilissa|Lake Eilìssa]] runs far northwest from the city's southeastern tip. The council's visiting households want maps of its shores and the roads around them. Winrith distinguishes an observed path from a patron's claimed boundary, though a lord paying for a handsome map may expect both in the same ink.
 
 ## Psyche
 
-### Personality
-
-Naive and inexperienced in dealing with powerful patrons.
-
-### Motivation
-
-Winrith wants her maps to serve the lords and travelers who commission them while showing the landscapes she loves to draw.
-
-### Strengths
-
-Talented in both art and mapmaking, excellent memory for details.
+Attentive and imaginative, she remembers a headland after one viewing. She wants useful maps that also show why a landscape holds her attention. She assumes a patron's requested correction comes from better knowledge until she has reason to doubt it.
 
 ## Social
 
-Winrith is affiliated with independent cartographers.
-
-## Companions
-
-### Patrons
-
-Local lords and travelers commission Winrith's maps.
-
-### Enemies
-
-None; generally well-regarded.
+Boatmen and road travelers supply practical corrections. Household stewards commission copies for the barons assembling at Dunmere. Winrith works independently and keeps her own field sketches rather than giving a patron the only record of what she sees.
 
 ## Plot Hooks
 
-The Cartographer/Artist's Dilemma
-: Winrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+The west-shore color
+: A patron asks Winrith to shade the lake's unclaimed western upland as part of his realm. She seeks travelers who can identify the actual steadings and obligations before handing over a map dressed as evidence.
 
-Old Grudges
-: None; generally well-regarded. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Winrith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Winrith depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Winrith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The road beyond the stage
+: A commission needs the old Crown Road from Dunmere through [[place-thornwold|The Thornwold]] to the edge of [[place-hallowwood|Seirasto]]. Winrith asks for an escort to compare the road with her sketches, keeping the royal foresters' patrol route distinct from permission to enter the forest.

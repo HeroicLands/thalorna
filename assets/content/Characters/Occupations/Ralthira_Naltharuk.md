@@ -1,56 +1,58 @@
 ---
-shortcode: thorrldskr
-name: {full: Thorir Eldskari}
+shortcode: sgrnhfrngr
+name: {full: Ralthira Naltharuk}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "Ralthira Naltharuk keeps order among the market stalls below the hall at Stormveil."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Man-at-Arms
+  occupation: Town Guard
   lore: []
-  culture: aelwythanclt
+  culture: nordheimnclt
   homes: [stormveil]
-  affiliations: {jrldmstrmvld: {rank: 3}, arldnpnthn: {rank: 1}}
-  gender: male
+  affiliations: {jrldmstrmvld: {rank: 3}, asguardian: {rank: 1}}
+  gender: female
   species: humanflk
-  born: 677.276
-  height: 6' 1"
-  weight: 256 lbs
-  frame: massive
+  born: "689.27"
+  height: 5' 11"
+  weight: 176 lbs
+  frame: heavy
   appearance:
     eye_color: amber
-    hair_color: greying_black
-    skin_color: golden
-    complexion: [sun_kissed]
-    extra_features: [scar across forehead]
+    hair_color: black
+    skin_color: dark_brown
+    complexion: [ruddy]
+    extra_features: [burn mark on wrist]
   packFolder: aureldiaaelwyth
 sohl:
   items:
-    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 13}}
+    - {model: skill-nordmalng, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
     - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 13}}
-    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 7}}
-    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 7}}
-    - {model: sohl-sohl-attribute-end, system: {scoreBase: 13}}
-    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-per, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
-    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 51}}
-    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 31}}
-    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 47}}
-    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 17}}
-    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 27}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 29}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 21}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 31}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 55}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 17}}
   system:
     body:
       structure:
@@ -370,54 +372,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Thorir is an enormous man, standing 6'1" and carrying 256 pounds of heavy bone and packed muscle on a massive frame. His black hair is graying at the temples and cropped close to his skull, and his dark amber eyes are deep-set beneath a heavy brow that bears a long, pale scar running from his left temple to just above his right eye—a souvenir from a quarry accident in his youth. His golden, tanned skin is thick and weathered, his jaw broad, his hands like shovels. He moves with the slow deliberation of a man who knows his own strength and has learned not to break things accidentally. His [[place-stormveil|Stormveil]] garrison armor is scale over quilted padding, reinforced at the shoulders and forearms, and he carries a warhammer that most men would need two hands to lift.
+Ralthira Naltharuk is a 30-year-old woman, 5'11" tall and broad-shouldered, with dark brown skin, amber eyes and black hair tied clear of her face. A burn scars her wrist. She wears mail over quilted padding and keeps her mace where her uninjured hand can reach it.
 
 # Dossier {#dossier}
 
-Thorir was born in the Stormveil mountains, to a family of quarrymen who had worked the black stone for generations. At fourteen, he was conscripted into the garrison—a standard practice in [[place-eilwith|Eilwìth]]. He was broad, strong, and ideally suited for the physical labor the garrison required. He spent his first three years doing essentially what his family did: moving stone, building fortifications, hauling supplies. Then a captain noticed his size and recruited him for the castle guard.
+**Age 30. Town Guard.**
 
-In twenty-six years of castle guard service, Thorir has become what the military calls "essential furniture." His dense muscle is running to gray-speckled fat as he ages. The scar that runs from his right ear to his chin was earned in a barracks brawl in his twenties—a knife fight over a woman, the kind of stupid violence that Thorir now regards with the distant disgust of age. He has suppressed more riots, broken up more fights, physically removed more drunken nobles from the castle than any three other guards combined.
+Ralthira Naltharuk keeps order among the market stalls below the hall at [[place-stormveil|Stormveil]]. She serves the harbor-reeve, [[being-thalmthrvrld|Thalmthira Vruldaruk]], and spends more time shifting carts and settling arguments over measures than drawing her mace. Her burned wrist stiffens in cold weather; she tests its grip before taking her post.
 
-Now at forty-three, Thorir's knees hurt, his hands have arthritis, and his wind is no longer reliable. He knows his time as active guard is ending. The garrison commander has quietly suggested that Thorir move into training and supervision roles. Thorir, who has never done anything but physical work, faces the terrifying prospect of becoming supervising authority rather than executing authority. He is six years away from mandatory retirement and counting the days.
+The captive crew in the harbor sheds needs food from the same sellers who provision the hall. Ralthira insists on a clear lane for deliveries and on the quantities named in the reeve's orders. She steps between an angry sworn man and a stallholder readily, though the difference in their standing makes the intervention costly.
 
 ## Psyche
 
-### Personality
-
-Thorir is tired in a way that sleep does not fix. He moves with the careful deliberation of a man who has learned that his size makes him dangerous and has worked his entire life to control it. He speaks in a low, measured voice and rarely shows emotion. This restraint is not coldness; it is the discipline of someone who learned early that men his size frighten people and that displaying anger only makes it worse. He is kinder to the enlisted soldiers than to the nobility, a bias born from the recognition that enlisted men and he come from the same brutal world.
-
-### Motivation
-
-Thorir's motivation is simple: survive until retirement. He wants to return to his family's quarries and work stone again, where the work is simple and honest and kills a man in predictable ways. He has no ambitions and no need for advancement. He simply wants to reach the finish line without catastrophe.
-
-### Strengths
-
-His physical strength remains great despite age. His judgment in physical confrontations is sound—he knows how to restrain people without permanently injuring them, a skill developed over decades of suppressing noble tantrums. He is loyal to the institution of the castle, if not to the individuals who command it.
+Fierce, methodical and loud, Ralthira wants working people able to finish a day's trade without losing their goods to the strongest customer. She reads a crowd well and dislikes retreat even when another guard could resolve a dispute more quietly.
 
 ## Social
 
-Thorir is respected by guards and soldiers, invisible to most nobility, and regarded as vaguely dangerous by those who interact with him regularly. He has no family in Eilwìth anymore; his siblings either died or left for other territories.
-
-## Companions
-
-### Patrons
-
-**Commander [[being-wilriththorn|Wilrith Thornwell]]**—The captain of Stormveil castle guard for the past fifteen years. Wilrith is a soldier by trade who recognizes Thorir's value and has explicitly protected him from reassignment. She has also quietly agreed to write a strong recommendation for Thorir's retirement, which will secure him the fullest pension. Their relationship is built on practical respect.
-
-### Enemies
-
-**Lord [[being-dunwaldraven|Dunwald Ravenwell]]**—A younger noble who arrived at Stormveil five years ago as the regional lord's military advisor. Ravenwell is ambitious, aristocratic, and disdainful of soldiers who serve for pay. He has attempted to force Thorir into increasingly harsh discipline, and when Thorir did not comply, Ravenwell began spreading rumors that Thorir is "soft" and "a relic of the old guard." Thorir ignores this, which infuriates Ravenwell more than direct confrontation would.
+Small traders trust her measures. Wealthy household servants resent being made to wait. The harbor-reeve supports the orderly market she keeps but answers to the High Jarl; Ralthira's post does not place her above the hall's claims or the town's bondage.
 
 ## Plot Hooks
 
-The Heir's Crisis
-: The regional lord's eldest son is discovered in a tavern brawl with severe injuries—injuries inflicted by a woman. The official story becomes that he was robbed; the truth is that he attempted to force himself on a guard captain's daughter and she defended herself. The lord demands justice. Thorir is instructed to arrest the woman and suppress the evidence. Commander Wilrith is overridden by the lord's authority and forced to accept the orders. Thorir can follow the order and arrest an innocent woman, or defy his commander and the lord, knowing that disobedience will end his service one year short of his mandatory retirement.
+The ration cart
+: A hall servant takes bread assigned to the captive crew. Ralthira asks for witnesses to carry both orders to the harbor-reeve while she keeps the carters from fighting.
 
-The Assassin's Opportunity
-: Thorir suspects that an attempted assault on the regional lord in the castle's inner courtyard was not random banditry but an inside job. He begins quietly investigating and discovers that two junior guards are being blackmailed by assassins from outside. The guards are young, terrified, and facing financial ruin if they do not cooperate. Thorir realizes that the next assassination attempt is coming soon, probably within days. He can arrest the guards and prevent the plot, but that means destroying their lives; he can warn them and give them a chance to escape, but that leaves the lord unprotected; or he can secretly feed the assassins false information and attempt to trap them. Each option risks his life in a different way.
-
-The Inheritance Dispute
-: The regional lord dies unexpectedly, and the succession becomes contested. Two of his children claim legitimate right to inherit. Neither is suitable; both want Thorir's personal guard loyalty to strengthen their claim. Both offer promises of early retirement, increased pension, or positions of honor. Thorir is suddenly political, whether he wants to be or not. Commander Wilrith is caught between the two factions and asks Thorir to choose sides, knowing that his physical loyalty will influence other guards. Thorir's choice will determine who rules the territory.
-
-The Dying Guard
-: A younger guard under Thorir's command, **Ser [[being-alfwinstormw|Mildwin]]**, is diagnosed with a wasting illness. Mildwin is married with children, and his military pension will not support them adequately after his death. Mildwin asks Thorir privately to help him fake his death so he can disappear and pursue hidden work as a mercenary, allowing him to earn higher wages and leave his family better-positioned. The request puts Thorir in a position to either help his subordinate commit fraud (and desertion) or watch a man die knowing he could have helped. The garrison would certainly investigate Mildwin's "death," making false documentation extremely difficult to pull off.
+Stalls on the moot road
+: Sworn men want a row of stalls cleared for their lord's approach to the common moot. Ralthira needs help finding space where the sellers can trade without blocking the path or losing their goods.

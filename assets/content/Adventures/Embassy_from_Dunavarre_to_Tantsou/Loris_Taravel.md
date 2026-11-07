@@ -374,10 +374,14 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Handles negotiations and translates documents.
 
+# Dossier {#dossier}
+
 **Background.** Skilled in several languages and in international custom.
 
-**Intrigue.** A double agent for [[affiliation-vylarinmpr|Viléria]], paid in coin and promises of advancement. Manipulates [[being-elowyrnimavren|Elowir]] for information and regards him as a pawn. Knows [[being-marricharavrel|Marrik]] is Spymaster, thinks him an amateur, and feeds him falsehoods.
+:::secret {title="The double agent"}
+A double agent for [[affiliation-vylarinmpr|Viléria]], paid in coin and promises of advancement. Manipulates [[being-elowyrnimavren|Elowir]] for information and regards him as a pawn. Knows [[being-marricharavrel|Marrik]] is Spymaster, thinks him an amateur, and feeds him falsehoods.
+:::

@@ -3,7 +3,8 @@ shortcode: wilfrednwl
 name: {full: Mildmund Dunwell}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Mildmund Dunwell tends cattle and sheep around Brinhallow."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,55 +394,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Mildmund Dunwell is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has a long face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. His piercing green eyes sit beneath arched brows and give him a penetrating gaze. He has a rounded nose and curved lips. He has fair skin with a weathered complexion. His brown hair is short and swept back.
+Mildmund Dunwell is a 44-year-old man who stands 6'1" tall and is broad and solidly built. He has a long face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. His piercing green eyes sit beneath arched brows and give him a penetrating gaze. He has a rounded nose and curved lips. He has fair skin with a weathered complexion. His brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Mildmund Dunwell is a herder.
+**Age 44. Herder.**
 
-Mildmund comes from a family of herders, and has spent his life tending cattle and sheep. Known for his strength and resilience, he can handle the hardest work that herding brings. He has a deep understanding of the weather and what it does to livestock, and lets it guide his practice. For all his ruggedness he has a soft spot for his animals, and often talks to them as if they were companions.
+Mildmund Dunwell tends cattle and sheep around [[place-brynhallow|Brinhallow]]. He knows where snow lingers, which hollows take the first hard wind and how long a weak animal can manage the downhill drove. He speaks to the beasts by their markings and sleeps lightly when the weather changes.
+
+The demand for men for [[place-wyndmarch|The Wiindmarch]] reaches households that owe rent in kind. Mildmund supports their refusal, but the animals still need tending when a shepherd chooses wages in the levy. He wants the town's argument kept out of the folds.
 
 ## Psyche
 
-### Personality
-
-He is stubborn about traditional methods, and can be overly protective of his flock.
-
-### Motivation
-
-Mildmund wants his animals brought through every winter, and the herding done as his family has always done it.
-
-### Strengths
-
-He is strong and resilient, knows the weather, and is an excellent problem solver.
+Stubborn and protective, Mildmund reads weather better than a crowded meeting. He trusts his family's methods and distrusts promises that a shorter route saves time. He wants every beast through the winter, even one whose owner refuses to pay for extra feed.
 
 ## Social
 
-Mildmund belongs to no guild and works independently.
-
-## Companions
-
-### Patrons
-
-Mildmund's patrons are the local farmers who value his skill in livestock care.
-
-### Enemies
-
-None; he is respected in his community for his dedication.
+Smallholders entrust him with difficult cattle and sick lambs. [[being-edriclvrtn|Harrik Alverton]] shares hay and labor with him. The downhill buyers want quick delivery; Mildmund answers with the animals' condition and the ground under their feet.
 
 ## Plot Hooks
 
-The Herder's Dilemma
-: A farmer who pays for Mildmund's help asks him to drive his beasts through weather Mildmund can read as deadly, and the man will not wait.
+A flock without a hand
+: A shepherd accepts levy wages and leaves sheep with an elderly parent. Mildmund asks for temporary help while the household arranges care; opponents of the levy refuse to supply it as a matter of principle.
 
-Old Grudges
-: Mildmund has no enemies, though a farmer whose stock died in a storm he foretold has found it easier to blame the herder than the weather.
-
-Echoes of the Past
-: A calf Mildmund raised by hand and sold years ago is found among stolen cattle, and its mark is his.
-
-Shifting Winds
-: Political change in Eilwìth threatens the common grazing Mildmund's herds depend on, and he can adapt, resist, or leave.
-
-The Opportunity
-: A lord offers Mildmund the mastery of all his herds, and the methods the lord wants used are not the ones Mildmund's family has always used.
+The rent drove
+: The manor's receiver demands cattle on a day Mildmund judges unsafe for the hill road. He asks the party to bring the receiver up to inspect the animals and witness a tender of the rent where it stands.

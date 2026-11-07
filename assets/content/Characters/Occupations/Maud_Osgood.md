@@ -3,7 +3,8 @@ shortcode: maudosgood
 name: {full: Maud Osgood}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Maud Osgood begs near the landings of Greiwater."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -390,55 +391,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Maud Osgood is a 62-year-old woman who stands 5'5" tall and is slight of build. She has an angular face with sharp cheekbones, a broad forehead, and a narrow jaw that leads to a delicate chin. Her hooded green eyes sit beneath expressive brows, lending her a guarded gaze. A slightly upturned nose and narrow lips complete her features. She has light skin with a lightly freckled complexion. Her dark blonde hair is flowing past her shoulders.
+Maud Osgood is a 61-year-old woman who stands 5'5" tall and is slight of build. She has an angular face with sharp cheekbones, a broad forehead, and a narrow jaw that leads to a delicate chin. Her hooded green eyes sit beneath expressive brows, lending her a guarded gaze. A slightly upturned nose and narrow lips complete her features. She has light skin with a lightly freckled complexion. Her dark blonde hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Maud Osgood is a beggar.
+**Age 61. Beggar.**
 
-Maud has been living on the streets for most of her life, begging for scraps and coins. Once a domestic servant, she fell into poverty after the death of her employer, leaving her with no family or means to survive. Maud is resourceful and has learned how to navigate the dangers of city life, relying on both charity and cunning to get by.
+Maud Osgood begs near the landings of [[place-greywater|Greiwater]]. She sorts a little kindling, watches a basket or carries a message for bread when her strength permits. Her years of household service show in the way she folds a borrowed blanket and quietly puts a stranger's discarded cup out of the road.
+
+The port's mainland hulls call at [[place-ravenmoor|Ravenmoor]] in both directions. Delays there mean fewer sailors' gifts and more families stretching their meals here. Maud shares what she can with people sleeping by the sheds and knows which doors still offer broth without a lecture.
 
 ## Psyche
 
-### Personality
-
-Frail and prone to illness due to long-term malnutrition.
-
-### Motivation
-
-Maud wants enough scraps and coin to survive, relying on charity and cunning to get through the dangers of city life.
-
-### Strengths
-
-Resourceful, excellent at reading people's intentions.
+Watchful and resourceful, Maud reads an impatient gesture quickly. She wants a dry night and enough food to keep working tomorrow. Weakness and cold limit what she can earn, and she resents being asked to prove that she is hungry.
 
 ## Social
 
-Maud relies on the informal network of beggars who look out for one another.
-
-## Companions
-
-### Patrons
-
-Maud is sometimes helped by a local charity or by sympathetic individuals.
-
-### Enemies
-
-Street thugs who extort money from beggars.
+Porters and other beggars exchange news and small favors with her. [[being-audryhrdng|Audrei Harding]]'s clients pass the same landings; Maud can carry their messages but cannot wait unpaid all day for an answer.
 
 ## Plot Hooks
 
-The Beggar's Dilemma
-: Maud faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+The locked shed
+: A shipowner clears a shed for goods expected from Ravenmoor, displacing the people sleeping there while the ship remains detained. Maud asks for another dry place and help negotiating access until the cargo actually arrives.
 
-Old Grudges
-: Street thugs who extort money from beggars. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Maud's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Maud depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Maud the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+A message before the tide
+: A sailor's household needs its bread money collected from a master leaving on the tide. Maud knows which berth and which creditor he is visiting, but cannot cross town quickly enough. She asks the party to carry the claim with her mark on it.

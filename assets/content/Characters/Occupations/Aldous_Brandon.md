@@ -3,7 +3,8 @@ shortcode: aldosbrndn
 name: {full: Aldous Brandon}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Aldous Brandon burns charcoal in the coppice behind Thornbury for the harbor smiths and the armorers of the Republic of Ondareth."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -389,52 +390,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Aldous Brandon is a 37-year-old man who stands 6'1" tall and is of moderate build. He has a round face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows and give him a lively gaze. He has a slightly upturned nose and firm lips. He has fair skin with a fair complexion. His auburn hair falls in loose waves. He has rough, work-worn hands.
+Aldous Brandon is a 36-year-old man who stands 6'1" tall and is of moderate build. He has a round face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows and give him a lively gaze. He has a slightly upturned nose and firm lips. He has fair skin with a fair complexion. His auburn hair falls in loose waves. He has rough, work-worn hands.
 
 # Dossier {#dossier}
 
-Aldous Brandon is a charcoaler of [[place-thornbury|Thornbury]], the seat of the [[affiliation-repblcndrth|Republic of Ondareth]] on the western coast of [[place-eilwith|Eilwìth]], an [[lore-aelwythanclt|Eilwìthan]] freeman who burns charcoal in the woods behind the town for the smiths of the harbor.
+**Age 36. Charcoaler.**
 
-Aldous took over his father's kilns at twenty-five and has run them since in the coppice woods inland of the town, where the republic's senators own the ground and lease the cutting. His father burned one charcoal for every use and let the smiths sort it. Aldous burns oak for the forges that need a long heat, alder for the fine work, beech for the armorers, and has tried every wood on the coast to learn what it gives. He will not draw a kiln early or sell a sack that is green, which is why his charcoal costs more and why the smiths who know the difference pay it. He is late with deliveries more often than a man with two rivals should be, and he is late because the kiln was not ready, and he says so.
+Aldous Brandon burns charcoal in the coppice behind [[place-thornbury|Thornbury]] for the harbor smiths and the armorers of the [[affiliation-repblcndrth|Republic of Ondareth]]. He burns oak for a long forge heat, alder for fine work and beech for the armorers. He refuses to draw a kiln early or sell a sack that is green. His charcoal costs more, and the smiths who test their fuel pay it.
+
+The senators own the ground and lease the cutting. Aldous's kiln needs days of watching, but the fleet's demands for fuel come with dates fixed in the counting-house. His sacks sit between two arguments: the treasury's refusal to fund both fleet and frontier, and the shipmasters' demand for an answer to the taking of their coaster.
 
 ## Psyche
 
-### Personality
-
-Aldous is cheerful, curious and exacting, more interested in what a wood will do in the kiln than in what it will fetch at the forge door.
-
-### Motivation
-
-Aldous wants every sack that leaves his kilns to be charcoal a smith can trust, and he wants to learn what every wood on the coast will make. The first has cost him contracts and the second costs him time.
-
-### Strengths
-
-Skilled at managing a kiln, knows the coast's woods and what each burns to.
+Cheerful and exacting, Aldous talks readily about wood and reluctantly about price. He wants a dependable burn in every sack. Curiosity costs him as much time as care: he keeps small trial burns of unfamiliar wood beside the working kilns.
 
 ## Social
 
-Aldous holds his seal from the [Woodworkers' Guild of Thornbury]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], which takes the charcoalers among its lesser members.
-
-## Companions
-
-### Patrons
-
-Aldous's patrons are the smiths of the Thornbury harbor, and the armorers who supply the republic's legions.
-
-### Enemies
-
-A charcoaler of the coast who draws his kilns early and sells green charcoal cheap under the contract of the _peltros_ (ward magistrate) for the public forges; and a senator's steward who leases the coppice and has been raising the rent.
+The harbor smiths buy from him directly. The senator's steward who leases him the coppice wants prompt rent regardless of how promptly the republic pays its armorers. [[being-cthbrtshrwn|Kuthmund Sherwin]] supplies offcuts and argues with him over which timber belongs in a fire.
 
 ## Plot Hooks
 
-The Armorers' Contract
-: The Senate's contract for the legions' armorers has gone to Aldous's rival, whose charcoal is cheaper, and the armorers say the steel is coming out short. The _tarkelos_ (treasury officer) who signed was paid to.
+A forge without fuel
+: An armorer supplying the legion at [[place-kaermouth|Kaermouth]] offers Aldous an unpaid treasury order for a kiln's whole yield. The fleet's smiths offer coin for the same sacks. Aldous needs someone to establish whether the treasury order can buy this month's cutting rights.
 
-The Black Fires
-: A shrine of [[affiliation-blackflame|the Black Flame]], which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
-
-The Senator's Wood
-: The senator whose coppice Aldous leases has decided to clear it for pasture, and Aldous's kilns and his year's cut stand in it.
-
-The Late Sack
-: Aldous held a kiln two days past its date to get it right, and the smith who waited for it, his father's oldest customer, lost a commission to a rival with green charcoal.
+The marked coppice
+: A cutting crew is marking the young trees beside Aldous's kilns for ship timber. He asks for the lease to be read before the axes start; the ground's rent and the right to its standing wood are separate promises.

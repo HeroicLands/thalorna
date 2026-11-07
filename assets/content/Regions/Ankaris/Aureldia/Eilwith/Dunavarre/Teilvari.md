@@ -43,3 +43,7 @@ A stranger in Teilvari is taken for the Order's scout by the Seilvri and for a S
 
 [[place-staghall|Staghall]]
 : the Grukar nest on the ridge above the valley heads
+
+## Adventures {#adventures}
+
+- [[scenario-seilvririte|Three Nights for the Hushwood]]

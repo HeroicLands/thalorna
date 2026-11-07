@@ -3,7 +3,8 @@ shortcode: osmndwnwck
 name: {full: Hildstan Winwik}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Hildstan Winwik manages mixed cargoes for the shipping houses of Thornbury."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -76,7 +77,7 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 13}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 32}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 32}}
   system:
     body:
       structure:
@@ -396,55 +397,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Hildstan Winwik is a 33-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a rounded chin. His piercing green eyes sit beneath expressive brows, lending him a penetrating gaze. A slightly upturned nose and expressive lips complete his features. He has light skin with a fair complexion. His auburn hair is short and swept back.
+Hildstan Winwik is a 32-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a rounded chin. His piercing green eyes sit beneath expressive brows, lending him a penetrating gaze. A slightly upturned nose and expressive lips complete his features. He has light skin with a fair complexion. His auburn hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Hildstan Winwik is a merchant (supercargo).
+**Age 32. Merchant (Supercargo).**
 
-Hildstan is a seasoned merchant specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Hildstan has developed an understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
+Hildstan Winwik manages mixed cargoes for the shipping houses of [[place-thornbury|Thornbury]]. He understands how a badly placed barrel shifts in a sea and how a disputed share spoils a voyage. He settles small quarrels at the quay before they become claims in a court whose price his employers cannot predict.
+
+A Thornbury crew waits for ransom in [[place-stormveil|Stormveil]]. Hildstan's immediate concern is the cargo: several owners can agree that their goods matter without agreeing which share should pay for the people carrying them. He wants each interest written down separately, so a great house cannot call another's loss its own.
 
 ## Psyche
 
-### Personality
-
-Can be overly cautious, struggles with paperwork and bureaucracy.
-
-### Motivation
-
-Hildstan wants the cargo entrusted to him delivered safely, and uses his knowledge of trade routes and maritime law to settle disputes.
-
-### Strengths
-
-Knowledgeable about maritime trade, excellent negotiator, good leadership skills.
+Cautious and patient, he bargains well face to face and dislikes copying the resulting agreement. He wants cargo and crew returned together. His habit of checking one more condition can cost the tide.
 
 ## Social
 
-Hildstan is affiliated with the local [Merchant's Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Ship captains and trading companies hire Hildstan to supervise their cargo.
-
-### Enemies
-
-Few; generally well-respected.
+Captains trust his judgment about stowage. Owners hire him for the same judgment and complain when he applies it to their accounts. [[being-avicewnwck|Avis Winwik]] is a colleague whose clean manifests he recommends when his own book needs a second reader.
 
 ## Plot Hooks
 
-The Merchant (Supercargo)'s Dilemma
-: Hildstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+Whose share of the crew
+: The captive coaster's cargo owners meet to divide the ransom. Hildstan asks the party to bring the separate loading accounts, including the small consignments absent from the largest house's copy.
 
-Old Grudges
-: Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Hildstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Hildstan depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Hildstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A condition at Ravenmoor
+: A mainland buyer accepts delivery only after the compulsory inspection at [[place-ravenmoor|Ravenmoor]]. The seller wants payment at Thornbury. Hildstan needs a neutral carrier for the sealed account and coin, with the point of transfer stated before sailing.

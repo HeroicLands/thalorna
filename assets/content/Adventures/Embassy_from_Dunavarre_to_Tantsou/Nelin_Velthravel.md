@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Provides medical care to the party.
 
+# Dossier {#dossier}
+
 **Background.** Reckoned among the best physicians and healers in [[affiliation-kingdmdnvr|Dúnavarre]].
 
-**Intrigue.** Experiments with dangerous potions and elixirs, risking the health of the party. His obsession with the research could be exploited.
+:::secret {title="Dangerous experiments"}
+Experiments with dangerous potions and elixirs, risking the health of the party. His obsession with the research could be exploited.
+:::

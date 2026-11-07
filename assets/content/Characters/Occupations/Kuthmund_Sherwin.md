@@ -3,7 +3,8 @@ shortcode: cthbrtshrwn
 name: {full: Kuthmund Sherwin}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Kuthmund Sherwin cuts oak and ash behind Thornbury for hulls, wharf piles and warehouse frames."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -390,54 +391,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Kuthmund Sherwin is a 52-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows and give him a lively gaze. He has a rounded nose and wide lips. He has fair skin with a fair complexion. His dark blonde hair is falling in loose waves.
+Kuthmund Sherwin is a 51-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows and give him a lively gaze. He has a rounded nose and wide lips. He has fair skin with a fair complexion. His dark blonde hair is falling in loose waves.
 
 # Dossier {#dossier}
 
-Kuthmund Sherwin is a woodcutter of [[place-thornbury|Thornbury]], the harbor seat of the [[affiliation-repblcndrth|Republic of Ondareth]] in [[place-eilwith|Eilwìth]], an [[lore-aelwythanclt|Eilwìthan]] freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
+**Age 51. Woodcutter.**
 
-The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Kuthmund has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from [[place-vylariargn|Viléria]] a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
+Kuthmund Sherwin cuts oak and ash behind [[place-thornbury|Thornbury]] for hulls, wharf piles and warehouse frames. He replants cleared stands with saplings from his nursery and lays timber to season before offering it to the shipwrights. The young cutters call him the old man with the saplings, though many still bring him a difficult tree to judge.
 
-In Thornbury, cutters know Kuthmund as the old man with the saplings.
+The demand to send the fleet against [[place-stormveld|Stormveld]] brings buyers who want sound timber immediately. Kuthmund distinguishes a tree fit to fell from a beam fit to frame. A senator's factor pressing for both in one week gets the same answer as a boatbuilder without political friends.
 
 ## Psyche
 
-### Personality
-
-Kuthmund is cheerful, stubborn and set in his methods, and slower than he used to be to admit it.
-
-### Motivation
-
-Kuthmund wants the woods behind Thornbury standing for the next man, because somebody left them standing for him. He wants the young cutters to learn the axe and the reasons before they learn the saw.
-
-### Strengths
-
-Experienced, physically strong, resilient, committed to keeping the woods in growth.
+Cheerful until contradicted about his craft, Kuthmund wants woodland capable of feeding another generation's work. He favors the axe and distrusts crews whose contracts reward acreage cleared. His pride makes it difficult to credit a younger cutter's good result.
 
 ## Social
 
-Kuthmund is a member of the [Woodcutters' Guild of Thornbury]{.name data-type="affiliation/guild"} and has been its warden twice.
-
-## Companions
-
-### Patrons
-
-Kuthmund's patrons are the shipwrights and wharf-builders of Thornbury harbor, who pay a little over the rate for Sherwin oak because it is seasoned honestly and comes from a wood that will still be there for the next keel.
-
-### Enemies
-
-The cutting crews that work by contract for the senators' timber-factors, who clear a wood in a season with the Vilérian saws and move to the next.
+Shipwrights and wharf builders pay him for honestly seasoned wood. [[being-aldosbrndn|Aldous Brandon]] buys offcuts for charcoal. The landowners lease the cutting, and Kuthmund's planted saplings give him no automatic claim to their ground.
 
 ## Plot Hooks
 
-The Senator's Wood
-: A senator has bought the slope Kuthmund has worked and replanted for twenty years and let it to a contract crew to clear for the harbor. The saplings are his by nobody's law but his own.
+Green beams for the fleet
+: A factor wants Kuthmund to mark fresh timber as ready for a warship's repair. He asks a shipwright and independent witnesses to inspect it with him before the factor takes the dispute to a friendly magistrate.
 
-The Boy and the Saw
-: One of the young cutters Kuthmund trained has lost a hand to a Vilérian saw on a contract crew, and the crew's master says the boy was careless. Kuthmund says the saw was, and the guild has been asked to rule.
-
-Planting on Another Man's Ground
-: Kuthmund has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.
-
-The Guild Vote
-: The Woodcutters' Guild is to vote on admitting the two-man saw to its standard, which would let the contract crews take guild apprentices. Kuthmund is the senior man against it.
+The nursery boundary
+: A senatorial household orders its purchased slope cleared, including Kuthmund's nursery beds. He needs carts and hands to move the saplings while someone negotiates access to replacement ground.

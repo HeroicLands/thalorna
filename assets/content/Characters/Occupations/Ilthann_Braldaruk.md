@@ -1,56 +1,58 @@
 ---
-shortcode: sgrnhfrngr
-name: {full: Sigrún Hafringur}
+shortcode: thorrldskr
+name: {full: Ilthann Braldaruk}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "Ilthann Braldaruk is a sworn guard of the High Jarl's household at Stormveil."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Town Guard
+  occupation: Man-at-Arms
   lore: []
-  culture: aelwythanclt
+  culture: nordheimnclt
   homes: [stormveil]
   affiliations: {jrldmstrmvld: {rank: 3}, asguardian: {rank: 1}}
-  gender: female
+  gender: male
   species: humanflk
-  born: "689.27"
-  height: 5' 11"
-  weight: 176 lbs
-  frame: heavy
+  born: 677.276
+  height: 6' 1"
+  weight: 256 lbs
+  frame: massive
   appearance:
     eye_color: amber
-    hair_color: black
-    skin_color: dark_brown
-    complexion: [ruddy]
-    extra_features: [burn mark on wrist]
+    hair_color: greying_black
+    skin_color: golden
+    complexion: [sun_kissed]
+    extra_features: [scar across forehead]
   packFolder: aureldiaaelwyth
 sohl:
   items:
-    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
+    - {model: skill-nordmalng, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-aur, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 9}}
-    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-end, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 7}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 7}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-per, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 13}}
-    - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 8}}
-    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
-    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 29}}
-    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 21}}
-    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 31}}
-    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 55}}
-    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 17}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 51}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 31}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 47}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 17}}
+    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 32}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 27}}
   system:
     body:
       structure:
@@ -370,57 +372,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Sigrún stands 5'11" with a heavy, broad-shouldered build that would not look out of place on a blacksmith's apprentice. Her black hair is thick and wiry, pulled back in a tight knot that keeps it from her face during patrols. Her dark amber eyes are fierce and direct in a dark-skinned, ruddy face that flushes darker still when her temper rises, which is not infrequently. Her features are strong and blunt: a wide jaw, a flat nose, a mouth that sets into a hard line when she is displeased. A burn mark on her left wrist—a crescent of shiny, puckered skin—is the result of a forge accident in her youth, before she left her family's smithy for the watch. She wears a mail shirt over quilted padding, leather gauntlets, and heavy boots, and carries a mace at her hip with the casual grip of someone who has used it.
+Ilthann Braldaruk is a 42-year-old man, 6'1" tall and massively built, with golden skin, amber eyes and close-cropped black hair graying at the temples. A pale scar crosses his forehead. He wears scale over quilted padding and takes steep steps slowly, resting a hand on the wall.
 
 # Dossier {#dossier}
 
-Sigrún was born in a poor [[lore-aelwythanclt|Eilwìthan]] community where her family kept a small weaving shop. She grew up in relative poverty but among people who knew and looked after each other. At sixteen, her family's shop failed, undercut by larger weavers, and her parents fell into debt. At eighteen, Sigrún joined the market square guard partially for employment and partially for reasons she would not articulate clearly: a need to protect her community from the kind of predatory dealing that destroyed her family.
+**Age 42. Man-at-Arms.**
 
-At twenty-six, during a fire that consumed a warehouse in the market district, Sigrún was on patrol nearby. She heard a child screaming from the building and without conscious decision, she ran in. She rescued the child but was severely burned on her wrist in the process. The scar tissue there is substantial and painful on cold mornings. The incident made her locally famous and raised her from ordinary guard to the community's guardian.
+Ilthann Braldaruk is a sworn guard of the High Jarl's household at [[place-stormveil|Stormveil]]. He holds doors, separates drunken men without breaking them and teaches younger guards how to use a shield in a narrow passage. His knees ache on the steps to the hall. He wants work at a bench, shaping stone, while he can still choose it.
 
-Now at thirty-one, she is the market square guard with the reputation of someone who will rush into burning buildings for her community. This reputation is accurate but also somewhat misleading; Sigrún is methodical and careful in her actual work. She simply refuses to abandon people who are in danger, even when abandoning them would be the safer course for a guard.
+[[being-wilriththorn|Ilthira Rultharuk]] directs his guard detail under [[being-althmilhrnd|Althmil Hrindaruk]], who commands the household. She supports his request for lighter duty. [[being-dunwaldraven|Nulthann Mirvaruk]], another sworn man, calls this softness while demanding harsher treatment of the harbor captives.
 
 ## Psyche
 
-### Personality
-
-Sigrún is fierce and protective, moving through the market with the bearing of someone who owns the space. She speaks loudly and confidently, and has little patience for people who exploit the vulnerable. She is not cruel but she is not gentle to those she perceives as predatory. She has a fierce sense of humor and is capable of real warmth with people she respects. She carries herself with aggressive confidence that makes most people instinctively defer to her.
-
-### Motivation
-
-What drives Sigrún first is protecting her community. She wants the market square to be a safe place for working people and explicitly distrusts merchants and authorities who treat the poor as disposable. Second is preventing the kind of exploitation that destroyed her family. She is driven by both love for her community and anger at those who prey upon it.
-
-### Strengths
-
-Her physical strength is well above the ordinary. She is fearless in the face of danger to others. She understands how her community works and reads a crowd accurately. Her willingness to step in herself when things turn dangerous makes her extraordinarily effective as a protector.
+Deliberate and restrained, Ilthann knows the damage his strength can do. He wants his dependents secure and his oath honorably discharged. He is better at stopping a fight than asking a powerful man for the terms of his own departure.
 
 ## Social
 
-Sigrún is beloved by the laboring folk of the market square and deeply trusted by merchants of moderate means. She is distrusted and avoided by wealthy merchants who she has opposed, and treated with careful respect by city authorities who recognize her community support.
-
-## Companions
-
-### Patrons
-
-**Market Master [Elyric Kírindi]{.name data-type="being/npc"}**—The administrator responsible for the market square. Elyric is a fair-minded merchant himself who respects Sigrún's commitment to community protection. He has supported her and seen that her authority is recognized and backed by his office.
-
-### Enemies
-
-**Merchant Magnate [Verath Ronondi]{.name data-type="being/npc"}**—A wealthy merchant who has been systematically buying up small shops in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
+The hall provides his food and standing, and its steward decides what support accompanies lighter duties. He respects Ilthira's practical judgment and protects the dignity of [[being-alfwinstormw|Thalmil Braldaruk]], whose failing strength is plain on guard duty. The younger men ask his advice when bravado has stopped helping.
 
 ## Plot Hooks
 
-The Corporate Takeover
-: Merchant Magnate Verath quickens his buying of market shops and Sigrún realizes his plan is to drive out independent merchants entirely and hold the market alone. He is doing it by means that are lawful on their face. Sigrún can see it happening but can barely stop any single sale. She attempts to warn merchants, but many are desperate enough to accept Verath's offers. Sigrún considers more aggressive interference but that would exceed her authority. She can accept the takeover or step outside the law to prevent it.
+A place away from the door
+: Ilthira offers Ilthann training work, but he wants the hall's support for his household stated before giving up his guard place. He asks for a witness who can hear the agreement without speaking for either side.
 
-The Guard Station Politics
-: Sigrún is reassigned to a different patrol area by a new commanding officer who is politically connected to Merchant Magnate Verath. The removal is officially justified as routine rotation but everyone recognizes it as punishment for her opposition to Verath. Sigrún is devastated by the separation from her community. She can accept the reassignment quietly or openly challenge it, knowing that confrontation will damage her standing in the watch.
-
-The Innocent Arrest
-: A young person from the working-class community, someone Sigrún has mentored, is accused of stealing from a wealthy merchant. The evidence appears strong but Sigrún knows the young person and is convinced of his innocence. Investigation reveals that Merchant Magnate Verath planted false evidence to discredit and arrest the young person as retaliation against Sigrún's opposition. Sigrún can publicly expose Verath's corruption, which would require revealing how she knows about the false evidence and so admitting she tampered with the official investigation, or allow an innocent person to be convicted.
-
-The Fire Again
-: Another fire breaks out in the market district, this time in a building that Sigrún recognizes as recently purchased by Verath. Evidence suggests it was deliberately set to destroy the previous tenant's stock and ruin them. Sigrún can see the fire and knows people are inside. She can rush in to rescue people, which has already burned her once and could kill her, or keep her distance and report it properly.
-
-The Community's Betrayal
-: Sigrún discovers that someone in her community—someone she trusts—has been secretly working with Merchant Magnate Verath, feeding him information about which merchants are ripe for buying out. The betrayal is personal and painful. The person involved claims they had no choice because Verath had leverage over them (debt, family threats, something). Sigrún can expose the betrayal, which punishes the person, or protect them, which allows Verath to continue exploiting the community.
+The moot threshold
+: With the common moot approaching, two groups of sworn men demand the same approach to the hall. Ilthann asks for help marking separate waiting places and carrying the terms to the Truce-Warden before an argument becomes a drawn weapon.

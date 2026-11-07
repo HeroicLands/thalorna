@@ -60,11 +60,11 @@ The [[lore-sealaw|Sea-Law]] is the city's law of ships and cargoes, bonds and lo
 
 ## Ways In
 
-- **A count nobody bought.** The Harbormaster needs strangers to walk the quays beside the tally-men at the spring census and count every hull, because the tally-men are in both parties' pay.
-- **The lost hulls.** The Norodari want proof that the pilots' boat was off its station on the eastern approaches the nights their hulls went down, and a witness from Sarmelis who saw the masters leave.
-- **The locked spring.** The city's water-carters want an escort to the South Shore, where the elder of Vrellnes has barred the village spring-house, and the villages want witnesses that the springs were never the city's.
-- **The carved stone.** The Order's factor will pay well for copies of the face the storm uncovered on the Old Mole, taken at low water before the masons wedge the stone, and the watch does not let anyone onto the outer ledge at night.
-- **The Run.** A Kalipsan factor at the outer quay of Sarmelis needs a cargo of furs carried across before the crown's cutters come down the bay, and his master is in the sheriff's hall.
+- **A count nobody bought.** The Harbormaster needs strangers to walk the quays beside the tally-men at the spring census and count every hull, because the competing houses dispute the count. [[scenario-kalipsahulls|The Third Night and the Spring Count]] joins the census to the pending losses.
+- **The lost hulls.** The Norodari want proof that the pilots' boat was off its station on the eastern approaches the nights their hulls went down, and a witness from Sarmelis who saw the masters leave. Follow the evidence in [[scenario-kalipsahulls|The Third Night and the Spring Count]].
+- **The locked spring.** The city's water-carters want an escort to the South Shore, where the elder of Vrellnes has barred the village spring-house, and the villages want witnesses to their claim that the springs belong to them. [[scenario-vrellnesspring|The Key Above the Dye Vats]] begins at the barred spring-house.
+- **The carved stone.** The Order's factor will pay well for copies of the face the storm uncovered on the Old Mole, taken at low water before the masons wedge the stone, and the watch does not let anyone onto the outer ledge at night. [[scenario-oldmoleface|Before the Stone Is Covered]] gives the party a tide in which to make its copy.
+- **The Run.** A Kalipsan factor at the outer quay of Sarmelis needs a cargo of furs carried across before the crown's cutters come down the bay, and his master is in the sheriff's hall. [[place-kalipsarun|The Kalipsa Run]] describes the crossing and its hazards.
 
 ## Where to Read Next
 

@@ -3,7 +3,8 @@ shortcode: ethlndwgmr
 name: {full: Ethelinda Wigmore}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "Ethelinda Wigmore keeps the bailiff's lockup at Kingshollow."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -52,7 +53,7 @@ sohl:
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 65}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 39}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-mnrl, system: {masteryLevelBase: 14}}
@@ -394,55 +395,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Ethelinda Wigmore is a 30-year-old woman who stands 6'0" tall and is of moderate build. She has a round face with soft cheekbones, a broad forehead, and an angular jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows and give her a candid gaze. She has a narrow nose and wide lips. She has fair skin. Her graying brown hair is woven with small braids.
+Ethelinda Wigmore is a 29-year-old woman who stands 6'0" tall and is of moderate build. She has a round face with soft cheekbones, a broad forehead, and an angular jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows and give her a candid gaze. She has a narrow nose and wide lips. She has fair skin. Her graying brown hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Ethelinda Wigmore is a jailer.
+**Age 29. Jailer.**
 
-Ethelinda became a jailer after serving as a city guard for several years. She was drawn to the role by the chance to keep order and safety within the prison. Known for her sharp mind and close observation, she is good at reading people and often mediates disputes between inmates. While dedicated to her work, she sometimes struggles with the harshness of the place.
+Ethelinda Wigmore keeps the bailiff's lockup at [[place-kingsholow|Kingshollow]]. Most of her prisoners await the forest court rather than judgment for violence. She separates quarreling neighbors, checks each meal and records who delivers a prisoner and on whose authority. The small room gives her little distance from the people she holds.
+
+Unpaid forest fines and growing poaching bring more tenants to her door. She works under the village bailiff and receives prisoners from [[being-dunrikbrndw|Dunrik Brandwik]], the Forester. She wants every detention tied to an actual hearing instead of becoming punishment by neglect.
 
 ## Psyche
 
-### Personality
-
-She is worn by the prison's harshness and can be too trusting of inmates.
-
-### Motivation
-
-Ethelinda wants to keep order and safety within the prison without hardening to the place.
-
-### Strengths
-
-She is observant, skilled at calming quarrels, and disciplined.
+Patient and observant, Ethelinda calms arguments by making each person finish a sentence. She believes a promise of good behavior too readily when it comes from someone frightened. The job exhausts her without making her indifferent.
 
 ## Social
 
-Ethelinda belongs to the [City Watch]{.name data-type="affiliation"}.
-
-## Companions
-
-### Patrons
-
-Ethelinda's patrons are the city officials who value her skill at settling disputes.
-
-### Enemies
-
-A few prisoners see her kindness as a weakness.
+Tenants bring food for detained relatives; foresters bring the charges. Both ask her what the other side says. She passes along requests for clothing and witnesses, refusing to trade the prisoners' conversations for favors.
 
 ## Plot Hooks
 
-The Jailer's Dilemma
-: An inmate Ethelinda has come to trust asks her to look the other way, and the choice is between her fellow-feeling and her post.
+A place at the hearing
+: A tenant remains in the lockup because nobody can bring the witness named in the forest charge. Ethelinda asks the party to find that witness while she presses the bailiff to set a hearing.
 
-Old Grudges
-: A prisoner who took her kindness for weakness sets out to prove it in front of the others.
-
-Echoes of the Past
-: A man Ethelinda arrested in her years as a city guard is brought into her prison and remembers her.
-
-Shifting Winds
-: A change of officials in Eilwìth puts the prison under men who want it run harder, and Ethelinda can bend to them, resist them, or leave.
-
-The Opportunity
-: Ethelinda is offered charge of the prison, and the price of it is not named up front.
+The crowded room
+: The Forester's men arrive with several alleged poachers while the council's expected visitors need the bailiff's rooms. Ethelinda needs a secure place with food and bedding, and refuses a cellar whose door opens only from the royal wood.

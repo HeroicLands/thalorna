@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Provides medicinal and magical support to the embassy.
 
+# Dossier {#dossier}
+
 **Background.** Expert in alchemy and in producing the potions and remedies a long mission requires.
 
-**Intrigue.** Feels unacknowledged and underappreciated, and resents it. Could be manipulated into betraying the party for recognition.
+:::secret {title="Recognition and resentment"}
+Feels unacknowledged and underappreciated, and resents it. Could be manipulated into betraying the party for recognition.
+:::

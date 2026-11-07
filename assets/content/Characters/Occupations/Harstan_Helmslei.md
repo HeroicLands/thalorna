@@ -3,7 +3,8 @@ shortcode: dnstnhlmsly
 name: {full: Harstan Helmslei}
 type: being
 subType: npc
-tags: [draft, administration]
+description: "Harstan Helmslei heads a landed household outside Ashford."
+tags: [administration]
 data:
   icon: icon-person
   templatePriority: null
@@ -390,55 +391,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Harstan Helmslei is a 49-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
+Harstan Helmslei is a 48-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harstan Helmslei is a chieftain.
+**Age 48. Chieftain.**
 
-Harstan, known as "Helmslei" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Harstan struggles with diplomacy, often letting his temper dictate his actions.
+Harstan Helmslei heads a landed household outside [[place-ashford|Ashford]]. His kin call him their chieftain; his authority in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] rests on his manor and the men he maintains. He is a formidable fighter and settles household quarrels too readily by telling the disputants to stand before him in the yard.
+
+His cattle and wool pass through Ashford, where merchant creditors possess money but little political voice. The bridge toll dispute touches his own carts. Harstan wants to lead his men through the ford as a demonstration, while the people driving his animals ask who pays for a broken axle or a drowned beast.
 
 ## Psyche
 
-### Personality
-
-Poor diplomat, often resorts to aggression over negotiation.
-
-### Motivation
-
-Harstan wants his clan's strength to secure its claims, and meets resistance with the feats of combat by which he won his title.
-
-### Strengths
-
-Exceptional strength and combat skills, commands respect from warriors.
+Harstan is brave, impatient and poor at hearing a compromise as anything but surrender. He wants his household's claims respected. He pays attention to a concrete loss more readily than a careful legal argument.
 
 ## Social
 
-Harstan is affiliated with the [Warrior's Circle]{.name data-type="affiliation"}.
-
-## Companions
-
-### Patrons
-
-The clan warriors support Harstan because they value strength and honor.
-
-### Enemies
-
-Neighboring chieftains who oppose his expansionist ambitions.
+His armed kin support him, and the manor's tenants provide the goods that sustain them. Ashford merchants hold accounts against the household. His neighbors resist any attempt to turn a shared drove road into his personal boundary.
 
 ## Plot Hooks
 
-The Chieftain's Dilemma
-: Harstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+First through the ford
+: Harstan asks the party to sound the crossing before he leads his cattle through it. The toll collector offers easier passage over the bridge if Harstan abandons the demonstration publicly.
 
-Old Grudges
-: Neighboring chieftains who oppose his expansionist ambitions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Harstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Harstan depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Harstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The creditor's escort
+: A merchant traveling to the barons' council wants Harstan's protection and payment of his debt. Harstan offers the first in place of the second. The merchant needs witnesses to an agreement that distinguishes a paid escort from an armed debtor.

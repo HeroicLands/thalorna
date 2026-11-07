@@ -3,7 +3,8 @@ shortcode: aldthchltn
 name: {full: Dunith Chilton, aelw: [Shénasene Lysandra Goldleaf]}
 type: being
 subType: npc
-tags: [draft, clergy]
+description: "Dunith Chilton is a priest of Ólvenia in Ashford."
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null
@@ -397,55 +398,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Dunith Chilton is a striking vision of carefully cultivated beauty that seems almost unnatural in its perfection. At 30, she carries herself with the assurance of one who has learned that beauty is a form of power—perhaps the most potent power in certain circles. Her deep-set gray eyes hold an almost haunting quality, watching, assessing, measuring the desire and ambition of everyone around her. She moves with practiced grace, her movements economical yet somehow mesmerizing. Her auburn hair, braided and coiled at the nape, frames a face that bears the subtle lines of someone who has lived intensely—weathered not by age but by the accumulation of countless intimate encounters and whispered confessions. There is something otherworldly about her presence, as if the perpetual mists of [[place-eilwith|Eilwìth]] have woven themselves into her very being, making her seem simultaneously tangible and illusory.
+Dunith Chilton is a 25-year-old woman with gray eyes, auburn hair braided at the nape and a weathered complexion. She dresses carefully for her suppers and turns toward a speaker with an attention that draws the rest of the table after her.
 
 # Dossier {#dossier}
 
-Dunith Chilton was born into the minor nobility of Eilwìth thirty years ago, a fourth-daughter in a family more concerned with accumulating wealth than molding heirs. Her beauty became apparent early—almost unsettlingly so—and from adolescence, she understood that it opened doors that birth alone could not. She chose the priesthood of [[affiliation-olvenia|Ólvenia]] not from spiritual calling but from pragmatic recognition: within Ólvenia's temples, her gifts would be celebrated as divine rather than merely cosmetic, and she could operate with the authority and autonomy that marriage to some minor noble would have denied her.
+**Age 25. Priest.**
 
-Her rise within the temple hierarchy was meteoric. She studied the rituals of seduction and attraction—not as mere performance but as a priestess studies sacred mysteries. Her creativity and charm gave her an intuitive grasp of the elaborate workings of desire: how to read a room, how to make each patron feel uniquely chosen, how to weave flattery and compliment so skillfully that they become indistinguishable. She learned to cultivate an air of mystery, to retreat into inscrutability at precisely the moment a patron craves her most. At 30, she hosts the most salons in [[place-ashford|Ashford]], intimate gatherings where wealthy merchants, minor nobility, and ambitious magistrates come seeking guidance—and seeking her.
+Dunith Chilton is a priest of [[affiliation-olvenia|Faith of Ólvenia]] in [[place-ashford|Ashford]]. She hosts small suppers where the town's unlanded merchants meet the barons whose debts they hold. The seating matters as much as the food. She gives a lender a place close enough to speak without making a debtor seem summoned.
 
-Yet success has a peculiar hollowness to it. Those who know her well enough to see beneath the carefully maintained façade note a certain emptiness at her core. Her low reasoning and middling will suggest someone driven more by impulse than conviction, by the intoxicating thrill of being desired than by any connection to Ólvenia's philosophy. She believes pleasure is sacred because her life has taught her that pleasure is the only reliable source of power and validation. Whether this constitutes faith or merely convenient rationalization remains an open question—even to herself.
+The quarrel over the king's son fills her rooms with people seeking an introduction on the road to [[place-dunmere|Dunmere]]. Dunith offers courtesy, a blessing and an attentive hearing. She cannot confer the landed standing her wealthiest guests lack, though several pay as if she can.
 
 ## Psyche
 
-Dunith operates in a state of perpetual seduction, both outward and inward. She is creative and intuitive, able to perceive the hidden desires and vulnerabilities in those around her with almost preternatural accuracy. Yet this gift of perception is paired with a fundamental shallowness of reasoning—she feels, reads, and acts, but rarely thinks deeply about the consequences of her manipulations. Her will, while present, is undisciplined; she struggles to commit to anything beyond the immediate gratification of her appetites.
-
-Her relationship to her own beauty is complex and troubling. It has become her identity, her tool, her prison. She derives pleasure from being desired but suffers from a gnawing fear that if her beauty ever faded—through age, illness, or circumstance—she would cease to exist as a person of consequence. This drives her toward increasingly elaborate rituals of self-maintenance and toward patrons whose devotion feels most unconditional. She can be generous and warm with those who worship her adequately; toward those who show indifference or, worse, who recognize the emptiness beneath her beauty, she turns cold and vindictive.
-
-Her greatest strength is her supernatural ability to make others feel special, desired, understood. Her greatest weakness is that she does not understand connection—she understands only its performance. The distinction, when she allows herself to notice it, causes her considerable distress that she typically drowns in wine, scented oils, and the arms of whatever beautiful person is currently at hand.
+Dunith delights in making a room turn toward her. She is inventive, flattering and quick to resent indifference. She wants her gatherings indispensable to the town and promises introductions more easily than she reckons their obligations.
 
 ## Social
 
-Dunith is not merely affiliated with the [Temple of Ólvenia]{.name data-type="affiliation"} in Ashford—she essentially is the Temple's public face, at least among the wealthy elite who fund its operations. The high priestess, [[being-godrunwinley|Godrun]], tolerates her because Dunith generates substantial coin through her salons and because her obvious piety (however self-interested) brings prestige to the order. Dunith's authority is considerable but brittle; it rests entirely on her continued beauty and charisma. Among the temple's minor priests and acolytes, she is viewed with a mixture of awe, resentment, and fear. She does not mentor; she competes.
-
-Within Ashford's upper circles, she moves with ease and recognition. Merchants' wives seek her blessing for fertility. Ambitious magistrates visit her salons to be seen among the elite. Younger noblewomen ask her for advice on matters of love and seduction, and she gives it with the smugness of someone who has never experienced romantic rejection. Yet there is a brittleness to her social standing. She has made enemies through her indifference and through her casual willingness to favor some patrons over others based on whim. Some of the families whose daughters she has humiliated, whose sons she has rejected, harbor quiet resentments that, given the right circumstance, could turn into danger.
-
-## Companions
-
-**Patrons:**
-
-- **Lord [[being-leofwingreyw|Mildstan Greiwik]]**, a wealthy merchant lord with diverse trading interests who has been Dunith's most generous patron for five years. He views her with a mixture of affection and proprietary ownership that borders on controlling.
-- **Lady [Mérindel Ashford]{.name data-type="being/npc"}**, wife of a minor noble, who funds Dunith's salons partly from appreciation and partly because attending them elevates her own social standing.
-
-**Enemies:**
-
-- **Father [[being-edwalddunmor|Edwald]]**, a priest of the Temple of Ólvenia, who views Dunith as a useful asset but no more than that. Their relationship is cordial but tense; Edwald's spiritual authority stands in implicit competition with Dunith's charismatic power.
-- [Cynric Blackweir]{.name data-type="being/npc"}, a merchant's son whom Dunith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
+[[being-godrunwinley|Godrun Winley]], the high priestess, values the income of the suppers. Fellow priest [[being-edwalddunmor|Edwald Dunmore]] insists that worship needs room among the negotiations. Dunith treats his objections politely and gives her best seats to the people paying for them.
 
 ## Plot Hooks
 
-The Priestess's Prophecy
-: A traveling oracle arrives in Ashford and attends one of Dunith's salons. She pulls Dunith aside and whispers that the goddess has shown her a vision of Dunith's beauty failing within the year—a curse, perhaps, or merely a warning of advancing age. Dunith, terrified, begins searching for ways to stave off this fate, drawing the oracle deeper into her world and potentially into conflict with the temple authorities.
+A chair between creditors
+: Two merchant families funding opposite sides of the barons' dispute each demand the same place of honor. Dunith needs a host or performer capable of giving both attention without presenting either as the temple's choice.
 
-A Rival's Rise
-: A younger priestess of Ólvenia, nearly as beautiful as Dunith but with spiritual conviction, begins establishing herself in Ashford and attracting Dunith's patrons with teachings of authentic connection rather than performative seduction. Dunith moves to discredit her rival, but the younger priestess's faith makes her difficult to undermine.
-
-The Stolen Heart
-: Dunith falls in love with someone for the first time—a wealthy merchant, a military officer, perhaps another priestess—only to discover they were playing the seduction game as skillfully as she was. The realization that she has been used as she uses others threatens her carefully constructed worldview.
-
-The Disgraced Noble
-: A woman of considerable rank, publicly shamed through Dunith's negligence or malice at a salon, seeks revenge by carefully orchestrating Dunith's social downfall. She collects evidence of Dunith's more unethical manipulations and prepares to expose them to the temple authorities and the city magistrates.
-
-The Mirror
-: An artifact surfaces in Eilwìth—a scrying mirror said to reveal one's true self beneath all illusions. Dunith becomes obsessed with obtaining it, terrified of what she might see, yet unable to resist the possibility of finally understanding who she actually is beneath the performance of beauty and seduction. The mirror may be real or may be a carefully constructed trap set by someone who knows her vulnerabilities.
+A blessing with conditions
+: Drovers ask Dunith to bless their passage through the ford while a patron who profits from bridge tolls sits at her table. She asks the party to arrange a public meeting at the crossing, where the competing claims concern actual carts and cattle.
