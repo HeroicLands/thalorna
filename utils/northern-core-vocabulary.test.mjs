@@ -6,6 +6,7 @@ import {
     assertEncodingMigrationPreserved,
     assertPublicLanguageProjections,
     contentHash,
+    baselineProse,
 } from "./encoding-preservation.mjs";
 import { encodingReference, referenceContext } from "./encoding-reference.mjs";
 import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
@@ -109,6 +110,10 @@ test("Nordmal preserves its names, elements, old meanings and existing prose", (
         ),
         "47fdc3900c1794a8243c24189d85e4361681b52c6bd571c1cad0f2953ac1e779",
     );
+    assert.equal(
+        contentHash(baselineProse(before, language.file)),
+        "b12fbad2c377724f1494fd020457d4873f8dd3a7f4ad558c9758fabee6b34a17",
+    );
     for (const word of words.filter((word) =>
         ["stem", "name", "pref"].includes(parseWordClass(word.class).base),
     ))
@@ -118,6 +123,18 @@ test("Nordmal preserves its names, elements, old meanings and existing prose", (
             ordinary.some((word) => [word.concept ?? []].flat().includes(id)),
             id,
         );
+});
+
+test("Nordmal geography corrections preserve unrelated baseline prose", () => {
+    const altered = {
+        ...language,
+        raw: language.raw.replace(
+            "A language of harsh beauty, Nordmal",
+            "A language of soft beauty, Nordmal",
+        ),
+    };
+    assert.notEqual(altered.raw, language.raw);
+    assert.throws(() => assertEncodingMigrationPreserved(altered), /original reading changed/u);
 });
 
 test("Nordmal keeps secondary verse senses on their canonical citations", () => {

@@ -3,7 +3,8 @@ shortcode: lefrnchlwl
 name: {full: Leofith Chilwell}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Leofith Chilwell traps vermin on the tenants' land beside the royal wood at Kingshollow."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -394,52 +395,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Leofith Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. She has a round face with broad cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her piercing hazel eyes sit beneath arched brows and give her a penetrating gaze. She has a narrow nose and full lips. She has fair skin with a lightly freckled complexion. Her red hair is woven with small braids.
+Leofith Chilwell is a 29-year-old woman who stands 5'11" tall and is slender. She has a round face with broad cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her piercing hazel eyes sit beneath arched brows and give her a penetrating gaze. She has a narrow nose and full lips. She has fair skin with a lightly freckled complexion. Her red hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Leofith Chilwell is a trapper of [[place-kingsholow|Kingshollow]], the old royal seat of [[affiliation-kngdmldrth|Aldorath]] in [[place-eilwith|Eilwìth]], an [[lore-aelwythanclt|Eilwìthan]] freewoman who traps on the tenants' land beside the king's forest and takes from it only what the land can spare.
+**Age 29. Trapper.**
 
-Leofith was raised in the woods above the village by a family that lived off them, and she learned the snare and the deadfall before she learned to read. The tenants of Kingshollow pay her to keep the fox from the hen-house and the rat from the barn, the fur-buyer from [[place-dunmere|Dunmere]] pays her for pelts, and the crown's foresters allow her lines up to the forest bound and not a yard past it, since the wood above is royal forest and everything in it is the king's. She traps selectively, which the trade does not: she sets for what she is paid to take, lets go what she is not, and walks a line twice a day rather than leave a beast to suffer in it. The foresters take her for a poacher, the poachers for an informer, and both are wrong.
+Leofith Chilwell traps vermin on the tenants' land beside the royal wood at [[place-kingsholow|Kingshollow]]. She sets for the beast she is paid to take, releases what she is not and walks each line twice a day. Her license ends at the forest bound; she renews it before [[being-dunrikbrndw|Dunrik Brandwik]], the Forester.
+
+Poaching grows while forest fines go unpaid. Leofith's lawful snares sit near paths the poachers use, and the tenants who pay her also resent the restrictions she observes. She wants a living from this narrow strip of land without becoming either side's informer.
 
 ## Psyche
 
-### Personality
-
-Leofith is quiet, solitary and softer than her trade: she will spare a beast she should take and lose the fee, and she knows it. She keeps her own counsel and does not join things.
-
-### Motivation
-
-Leofith wants to live off the land beside the king's wood, taking what she is asked to take and no more, and she wants to answer to nobody for it. The forest court and the poachers between them are making the second a condition on the first.
-
-### Strengths
-
-Skilled at setting traps, knows the plants and beasts of the country, resourceful.
+Quiet and solitary, Leofith refuses needless suffering even when it costs a fee. She watches tracks closely and people from a distance. Her dislike of explaining herself lets an ordinary misunderstanding settle into suspicion.
 
 ## Social
 
-Leofith belongs to no guild; she holds a forester's license for her lines to the forest bound, renewed each year at the forest court.
-
-## Companions
-
-### Patrons
-
-Leofith's patrons are the tenant farmers of Kingshollow, who pay her by the season to keep vermin from their stock, and the fur-buyer from Dunmere.
-
-### Enemies
-
-The poachers who work the king's wood and use her lines as cover, and the crown's foresters, who cannot tell her snares from theirs and would like to hang somebody.
+The tenants pay by the season to protect hens and grain. A buyer from [[place-dunmere|Dunmere]] takes her pelts. Foresters ask where she walks; poachers ask which foresters she meets. She keeps the answer limited to the work on her license.
 
 ## Plot Hooks
 
-The Knot
-: A snare has been found on a royal deer-path inside the bound, tied with the knot Leofith uses, and the foresters have brought it to the forest court. She did not set it, and only one other person knows her knot.
+A line across the bound
+: A forester claims one of Leofith's snares stands inside the royal wood. She asks for witnesses to walk the boundary markers before the snare is moved and the charge heard.
 
-The Tenant's Boy
-: A tenant's son has been caught in the king's wood with a hare, and the tenant has asked Leofith to tell the court it came from her line. It did not, and the boy is fourteen.
-
-The Descent
-: The court is coming to Kingshollow for midwinter and the household wants fifty pelts by the feast. Leofith has twelve, and the way to fifty is over the bound.
-
-The Wolf
-: Something is taking sheep from the tenants' folds at night, and it is not a fox. The tenants have asked Leofith to trap it, and the foresters have said that whatever it is, it is the king's.
+The tenants' oak
+: The tenants ask Leofith to inspect the oak they want marked for their midwinter gift. Reaching it with a measuring rope draws the foresters' attention. She needs their leave to complete the inspection without seeming to claim a right to cut it.

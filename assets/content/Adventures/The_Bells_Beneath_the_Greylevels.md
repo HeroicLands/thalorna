@@ -3,23 +3,23 @@ shortcode: bellsgreylvl
 name: {full: The Bells Beneath the Greylevels}
 type: scenario
 subType: adventure
-description: "The tide cuts off a ruined house of the Silent Judge on the Greylevels, a bell rings beneath the water, and the drowned dead of the house come up with the tide to take the living into their keeping."
-tags: [draft]
+description: The tide cuts off a ruined house of the Silent Judge on the Greylevels, a bell rings beneath the water, and the drowned dead of the house come up with the tide to take the living into their keeping.
+tags: []
 data:
   parents: []
-  locations: [threnhallow]
-  cast: []
-  factions: []
+  locations: [threnhallow, greylevels, greywater]
+  cast: [aldgarwraymon, mildithbarnley, godrikstonibi, keeperleofwald, damut, tereb]
+  factions: [selmoros, lusinia, kngdmldrth]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-The tide cuts the party off at [[place-threnhallow|Threnhallow]], an abandoned house of the [[affiliation-selmoros|Silent Judge]] on the seaward edge of [[place-greylevels|the Greylevels]]. A bell rings under the water before each disappearance. The dead of the house, the Levels' drowned, rise with the tide and come wherever the water comes, and the Threshold Keeper who taught them to rise commands them from the flooded crypt. Everything the party meets says the house must be broken. It must not, or not yet: the drowned have worked the house's sluice-gates at every ebb since the Keeper raised them, the lower grazing of the Levels is dry because of them, and every way the party has to break the house puts the sea back over the Levels at the next spring tide.
+The tide cuts the party off at [[place-threnhallow|Threnhallow]], an abandoned house of the Silent Judge, of the [[affiliation-selmoros|Faith of Sélmoros]] on the seaward edge of [[place-greylevels|The Greylevels]]. A bell rings under the water before each disappearance. The dead of the house, the Levels' drowned, rise with the tide and come wherever the water comes, and the Threshold Keeper who taught them to rise commands them from the flooded crypt. Everything the party meets says the house must be broken. It must not, or not yet: the drowned have worked the house's sluice-gates at every ebb since the Keeper raised them, the lower grazing of the Levels is dry because of them, and every way the party has to break the house puts the sea back over the Levels at the next spring tide.
 
-## Overview
+## Overview {#overview}
 
-Threnhallow was built to give the Levels' drowned their rites. When the house could not pay for labor on its sluice-gates, Keeper [Leofwald]{.name data-type="being/creature"}, its Threshold Keeper, altered the rite of Sélmoros so that the drowned in his crypt rose to work them. [[lore-theshadow|The Shadow]] came through the opening he made. His novices raised him with his own rite when he died, and he is one of the [[being-tereb|Tereb]] now, a dead man who wears his former self: courteous, grave, very nearly the Keeper he was. His congregation is the house's drowned, [[being-damut|damutu]] who go where they are driven, and the bell is what drives them.
+Threnhallow was built to give the Levels' drowned their rites. When the house could not pay for labor on its sluice-gates, [[being-keeperleofwald|Keeper Leofwald]], its Threshold Keeper, altered the rite of Sélmoros so that the drowned in his crypt rose to work them. [[lore-theshadow|The Shadow]] came through the opening he made. His novices raised him with his own rite when he died, and he is one of the [[being-tereb|Tereb]] now, a dead man who wears his former self: courteous, grave, very nearly the Keeper he was. His congregation is the house's drowned, [[being-damut|Damut]] who go where they are driven, and the bell is what drives them.
 
 The rule of the house is the water. The drowned come only where the water comes, and a body dragged clear of it falls still. Leofwald rings the bell below before he sends them for someone, and the one they take is drowned in the crypt and brought back to keep the house. The drowned call through the drains in the voices of the brethren and of those taken before, and a living soul who answers is counted among the keepers.
 
@@ -35,12 +35,12 @@ The adventure runs from one dusk to the next dawn, across a single spring tide. 
 | the true rite lays them down             | the struck lines in the rite-book (Scene Two); Mildith, once she trusts the party (Scene Two); the crypt gate's lintel (Scene Four)       |
 | the way to the bell and the sluice       | the drainage plans or the sluice-book (Scene Two); the bell, loudest through the vestry floor (Scene Three); the loft ladder (Scene Four) |
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 The full truth of the house—what Leofwald did, why the bell rings, what the drowned do at every ebb and what breaking the house costs—is in [[place-threnhallow#truth|the truth of Threnhallow]]. In short: Leofwald is right. The drowned have opened and shut the sluice at every ebb since he raised them, and the lower grazing has stayed dry for a generation because of them. They wear out, as every damut does, and the bell rings when Leofwald sends them for a living keeper to replace one. Silencing the bell, unmaking Leofwald and laying the drowned down each end the takings and stop the gates, and within a fortnight the next spring tide comes through the cut and over the Levels. The Levels have destroyed Leofwald twelve times, and each time the sea came over the lower grazing until he rose again in the crypt months later. He is on his thirteenth and last life, he knows it, and he cannot afford a fight. Destroying him now is final. This section covers what that truth does at the table.
 
 > [!IMPORTANT]
-> The party must reach Scene Three believing the drowned are a congregation of hunters, and must be able to see by the end of Scene Four that they are a work-gang. Everything they do at the turn of the tide is the gates: they break off, go down to the wheel and work it. Keep that consistent on every route, and the turn does the revealing.
+> The early evidence supports a reading of the drowned as hunters. By the end of Scene Four the party can see that they are a work-gang; an earlier correct deduction earns that knowledge sooner. Everything they do at the turn of the tide is the gates: they break off, go down to the wheel and work it. Keep that consistent on every route, and the turn does the revealing.
 
 ### The planted clues
 
@@ -50,12 +50,12 @@ The full truth of the house—what Leofwald did, why the bell rings, what the dr
 | "The Keeper always comes back, and the water with him": the Levels have killed him more than once                                                       | Scene One, Aldgar's talk; any pilot or fowler | A curse: the sea is his, and floods the Levels to avenge him                     | The sea came over because nothing drove the drowned to the wheel while he was gone, and his deaths can be counted |
 | The pale arm on the keel has a palm worn raw and rust-red to the wrist                                                                                  | Scene One, at the painter                     | It clawed its way up out of the mud                                              | Its hands work iron                                                                                               |
 | The guests' book runs on for years after the last brother signed, in different hands, all in the brethren's form                                        | Scene Two, chapter room                       | Travelers who stayed and copied the house's habit                                | Each new keeper signing on                                                                                        |
-| The newest entry in the book is Godric Stonyby's, in a shaking hand, the ink still fresh                                                                | Scene Two, chapter room                       | He sheltered here before he was taken                                            | He signed after he drowned                                                                                        |
+| The newest entry in the book is Godrik Stonibi's, in a shaking hand, the ink still fresh                                                                | Scene Two, chapter room                       | He sheltered here before he was taken                                            | He signed after he drowned                                                                                        |
 | Leofwald's name stands twelve times among the later entries, in one hand that is a little less steady each time                                         | Scene Two, chapter room                       | The Keeper renewing his house's register year by year, his hand failing with age | Each entry is a rising: he has died twelve times, and is on his thirteenth and last life                          |
 | The drainage plans' margin: the gates must be opened at every ebb or the lower grazing floods                                                           | Scene Two, chapter room; the sluice-book      | The house's old duty, long abandoned                                             | Someone is doing it                                                                                               |
 | Mildith's tally on the loft beam: four marks for the bell, and a mark each time the dead go down                                                        | Scene Two, the bell-loft                      | A frightened girl counting the nights                                            | The drowned go down at every ebb, bell or none                                                                    |
 | "Who keepeth the house?" "I keep it."                                                                                                                   | Scene Two, the rite-book                      | The altered rite's binding                                                       | The house is the sluice, and a keeper keeps the gates                                                             |
-| Godric is cold and asks to be let in, because "the tide is coming"                                                                                      | Scene Three, at the window                    | A dead man's lure                                                                | A keeper late for the gate                                                                                        |
+| Godrik is cold and asks to be let in, because "the tide is coming"                                                                                      | Scene Three, at the window                    | A dead man's lure                                                                | A keeper late for the gate                                                                                        |
 | The sluice-wheel is rusted on its rim and bright on its handles, its gear greased with candle tallow                                                    | Scene Four, the crypt                         | Leofwald keeps a way to drown the house                                          | It is turned every ebb, by hands nobody living has                                                                |
 | Twelve new-made niches by the crypt gate, each holding one body in a Threshold Keeper's black, one height and one build, the later ones the more ruined | Scene Four or Scene Five, the crypt gate      | The house's brethren, laid out by their Keeper                                   | All twelve are Leofwald, each a body he lost; the thirteenth stands in the water                                  |
 | The house drains at the ebb                                                                                                                             | Scene Three's end; Scene Five                 | The tide went out                                                                | The crypt empties only through the sluice, and somebody opened it                                                 |
@@ -64,18 +64,18 @@ The full truth of the house—what Leofwald did, why the bell rings, what the dr
 
 The reveal lands at the turn of the tide, late in Scene Three or in Scene Four, and it reaches the party by whichever route it took.
 
-- **From the bell-loft.** A party that waits out the flood in the tower is there when the tide turns. The drowned in the nave stop, turn as one, and file down through the vestry floor. [Mildith Barnley]{.name data-type="being/npc"} puts her finger on the last mark of her tally and makes another beside it. Lowering a lantern down the bell-shaft, the party sees them at the far end of the crypt, hands on the wheel, and hears the gates groan open and the cut begin to run.
+- **From the bell-loft.** A party that waits out the flood in the tower is there when the tide turns. The drowned in the nave stop, turn as one, and file down through the vestry floor. [[being-mildithbarnley|Mildith Barnley]] puts her finger on the last mark of her tally and makes another beside it. Lowering a lantern down the bell-shaft, the party sees them at the far end of the crypt, hands on the wheel, and hears the gates groan open and the cut begin to run.
 - **In the crypt.** A party fighting below when the tide turns watches the drowned let go of whoever they hold, turn their backs and wade to the wheel, and wind it, while Leofwald waits with the rope slack in his hand. Asked, he says what they are doing and why. Everything he says is borne out by the wheel, the plans and the book.
 - **From the embankment.** A party that leaves by the landward door at the ebb stands on the bank as the light comes and sees the outfall running, the cut clear, the lower grazing dry and the steadings' lamps lit behind a gate that nobody living has turned in years. Below the mound the gear grinds, and stops.
 
 > [!TIP]
-> Land the reveal on the turn and then stop. The drowned walking away from a fight to go to work is the whole of it. Let the players go back over the scenes behind them themselves: Aldgar's grumble, the bright handles, the book in its many hands, Godric worried about the tide.
+> Land the reveal on the turn and then stop. The drowned walking away from a fight to go to work is the whole of it. Let the players go back over the scenes behind them themselves: Aldgar's grumble, the bright handles, the book in its many hands, Godrik worried about the tide.
 
 > [!TIP]
 > Reward a party that guesses early, and never deny a right guess. A party that reads the plans and the book in Scene Two and suspects the drowned are keeping the gates can test it: watch the cut from the tower at the turn, or go down to the wheel at the ebb. Let the test work. The party has earned the chance to choose its order before the bell rings again.
 
 > [!WARNING]
-> Do not let Mildith or Godric explain the gates. Mildith counts what she sees and does not know what it means; Godric says the tide is coming and nothing else. Leofwald may say it all in Scene Four, but only after the party has seen the turn or the wheel. If any of them states it before the turn, the reversal is spent as a speech, not found.
+> Do not let Mildith or Godrik explain the gates. Mildith counts what she sees and does not know what it means; Godrik says the tide is coming and nothing else. Leofwald may say it all in Scene Four, but only after the party has seen the turn or the wheel. If any of them states it before the turn, the reversal is spent as a speech, not found.
 
 > [!WARNING]
 > Silencing the bell is the quickest way to stop the house, and the quickest way to stop the gates. A party that cuts the rope before the turn still meets the reveal: at the ebb nothing goes down, the water stands in the crypt, and from the tower or the embankment the cut is brim-full and creeping over the lowest ditches by dawn. Do not let the reveal wait on the party leaving the bell alone.
@@ -87,16 +87,16 @@ Once the reveal lands, the party wants to stop the takings without drowning the 
 > [!TIP]
 > Give the party a living face for the Levels. If Aldgar is with them, his steading is on the lower grazing; if not, the lamps the party saw from the embankment belong to the fowler who rowed it out. A fortnight is a long time to work a wheel at every ebb, and a short one to get a commission to pay.
 
-## Hooks
+## Hooks {#hooks}
 
 Pick the entry that suits the hero. Each leads to Threnhallow on a rising tide.
 
 - **The thief.** The commission of sewers' endowment chest sits on the mound, unclaimed, and a [[place-greywater|Greywater]] lawyer wants the rolls inside it for a lawsuit. He says nothing of the silver vessels the house held, which the thief has heard about elsewhere.
 - **The mercenary or common soldier.** A Levels family hires an escort to bring home a jeweled reliquary of the healers of the [[affiliation-lusinia|Faith of Lusinia]] that it left in the house's keeping. The pilot they hire insists on going out by day and coming back before the turn, and the tide turns early.
-- **The leader.** The pilot [Aldgar Wraymon]{.name data-type="being/npc"}'s son rowed two travelers out to the mound and did not come back. Aldgar heard the bell. He asks the leader to come with him, and he is the one at the oars in the opening.
+- **The leader.** The pilot [[being-aldgarwraymon|Aldgar Wraymon]]'s son rowed two travelers out to the mound and did not come back. Aldgar heard the bell. He asks the leader to come with him, and he is the one at the oars in the opening.
 - **The lone wanderer.** The wanderer is crossing the Levels on the causeway at low water, misjudges the tide, and reaches the mound with the water at the wanderer's knees. The pilot in the opening is a fowler who sees the wanderer and rows over, against his own judgment.
 
-## The Opening
+## The Opening {#opening}
 
 Read or paraphrase:
 
@@ -105,7 +105,13 @@ Read or paraphrase:
 > [!TIP]
 > Let the knock sit before anyone speaks. The opening's job is the cold certainty that this is not good, and that the water belongs to whatever is under it.
 
-## Scene One: The Steps
+## Cast and Stakes
+
+[[being-aldgarwraymon|Aldgar Wraymon]] pilots the approach; [[being-mildithbarnley|Mildith Barnley]] holds the true rite; [[being-godrikstonibi|Godrik Stonibi]] is the newly drowned traveler; [[being-keeperleofwald|Keeper Leofwald]] commands the house. His actor refers to [[being-tereb|Tereb]], and the drowned congregation uses [[being-damut|Damut]]. The faith, the commission and the families all have claims upon the chest and the gates. Keep the commission’s members incidental; its decision is whether to fund living labor.
+
+## Scenes {#scenes}
+
+### Scene One: The Steps
 
 **Purpose.** Arrival and first unease. Put the party on the mound with the way back gone, and show the first sign that the house's danger comes with the water.
 
@@ -135,7 +141,7 @@ Read or paraphrase:
 
 **If bypassed, failed or cut short.** A party that breaks in through the west doors pulls down the pews and finds the footprints on the far side, leading to the same grate. A party that never sees the prints meets the same fact in Scene Three, when the water comes up through the floor and the dead with it. If Aldgar is lost on the steps, pulled under with the painter, his voice is among those that call through the drains later, and the party knows the cost of answering; his grumble about the grazing comes instead from the fowler's talk, or from Mildith, who heard it from the pilot who rowed her out.
 
-## Scene Two: The Guest Cells
+### Scene Two: The Guest Cells
 
 **Purpose.** Evidence of something wrong. Give the party the house's rules, each from more than one source, the first hint of who rules it, and, in the papers of the house, the first hint of what it is for.
 
@@ -153,7 +159,7 @@ Read or paraphrase:
 - _Force:_ search the house room by room. Every room has a drain, and in every drain the water is a little higher than in the last.
 - _Stealth:_ find Mildith without frightening her. Somebody who climbs to the loft quietly, or calls softly with a name she knows, is let up. A party that shouts is met with silence and a raised ladder.
 - _Talk:_ win Mildith's trust. She knows the true rite of the Silent Judge, the one Leofwald changed, and knows that a damut over whom it is spoken goes still. She is afraid to speak it aloud, because whoever speaks in the house is heard below. Asked about the Keeper, she knows what the Silent Watch teaches of terebu: thirteen lives, a rising after each of the first twelve, and nothing after the last.
-- _Cleverness with the papers:_ read the drainage plans and the guests' book. In the margin of the plans the house's own clerk has written that the gates must be opened at every ebb and shut before the flood, or the cut backs up and the lower grazing floods. The guests' book runs on for years after the last brother signed it, in many hands, and every entry after his is in the brethren's form, a name and "keepeth the house". Among the later entries one name comes back twelve times, Leofwald's, in one hand that is a little less steady each time. The newest is [Godric Stonyby]{.name data-type="being/creature"}'s, in a shaking hand, the ink still fresh, and his boots are the pair at the foot of the cot.
+- _Cleverness with the papers:_ read the drainage plans and the guests' book. In the margin of the plans the house's own clerk has written that the gates must be opened at every ebb and shut before the flood, or the cut backs up and the lower grazing floods. The guests' book runs on for years after the last brother signed it, in many hands, and every entry after his is in the brethren's form, a name and "keepeth the house". Among the later entries one name comes back twelve times, Leofwald's, in one hand that is a little less steady each time. The newest is [[being-godrikstonibi|Godrik Stonibi]]'s, in a shaking hand, the ink still fresh, and his boots are the pair at the foot of the cot.
 - _Cleverness with the rite:_ read the vestry rite-book. Its funeral rite has lines struck through and new lines written over them in a careful hand: where the old rite sends the dead to the god's gate, the new one bids them keep the house, in a call and an answer, "Who keepeth the house?" and "I keep it." The struck lines can still be read.
 - _Giving something up:_ answer one of the voices on purpose, to see what it does. The bell rings below within the hour, and from then on the dead come for whoever answered.
 
@@ -172,45 +178,45 @@ The guest cells hold what the drowned's last travelers carried: a little money, 
 
 **Consequences.** The party knows the house's rules and that something rules it from below. Mildith, if befriended, comes with the party and will speak the true rite if she is protected while she does.
 
-**If bypassed, failed or cut short.** If the party never finds Mildith, she comes to them, climbing down from the loft when the bell rings in Scene Three, because she cannot bear to be alone when it rings; the tally stays on the beam for a party that climbs up later. If the drainage plans are missed or lost, the sluice-book in the chapter room's chest holds the same plan and the same margin, and Mildith knows the way. If the guests' book is missed, Godric's own words at the window in Scene Three carry its meaning. If the rite-book is missed, the crypt gate's lintel holds the line that matters, and the party passes under it in Scene Four.
+**If bypassed, failed or cut short.** If the party never finds Mildith, she comes to them, climbing down from the loft when the bell rings in Scene Three, because she cannot bear to be alone when it rings; the tally stays on the beam for a party that climbs up later. If the drainage plans are missed or lost, the sluice-book in the chapter room's chest holds the same plan and the same margin, and Mildith knows the way. If the guests' book is missed, Godrik's own words at the window in Scene Three carry its meaning. If the rite-book is missed, the crypt gate's lintel holds the line that matters, and the party passes under it in Scene Four.
 
-## Scene Three: The Rising Water
+### Scene Three: The Rising Water
 
 **Purpose.** The horror draws close. Show the dead coming, make the house shrink round the party, close the way back, and, at the turn of the tide, show the party what the drowned do.
 
 > Night. The wind is behind the tide, and the tide is a spring tide. Somewhere beneath your feet the bell rings, and before it has stopped, a thin brown film of water is spreading across the chapel floor from the joints between the flagstones.
 
-**Situation.** Within minutes the water is ankle-deep. At a window of the cloister a man is standing outside in the dark, his face just beyond the light, asking calmly to be let in. It is Godric, the traveler whose boots stand in the farthest cell. He knows the party's names if he has heard them spoken. He says the tide is coming and he is cold, and that he must be let in before the tide comes. He says it reasonably, again and again. Then he leans forward and presses his face to the glass, and the party sees that something in the water has eaten his eyes. His hands on the sill are raw at the palm. Beneath the gallery, in the flooded nave, more figures stand up out of the water, very still, faces turned upward.
+**Situation.** Within minutes the water is ankle-deep. At a window of the cloister a man is standing outside in the dark, his face just beyond the light, asking calmly to be let in. It is Godrik, the traveler whose boots stand in the farthest cell. He knows the party's names if he has heard them spoken. He says the tide is coming and he is cold, and that he must be let in before the tide comes. He says it reasonably, again and again. Then he leans forward and presses his face to the glass, and the party sees that something in the water has eaten his eyes. His hands on the sill are raw at the palm. Beneath the gallery, in the flooded nave, more figures stand up out of the water, very still, faces turned upward.
 
-**NPCs and threats.** Godric is newly drowned and raised, and confused enough to believe he is still alive, until he is not. The **drowned congregation** fill the nave as the water fills it, a dozen and then more, in fowlers' smocks and brethren's black, with the pilot's son among them if the party is looking for him. They cannot come onto dry stone. They wait, and the water rises. The gallery and the bell-loft are dry, for now.
+**NPCs and threats.** Godrik is newly drowned and raised, and confused enough to believe he is still alive, until he is not. The **drowned congregation** fill the nave as the water fills it, a dozen and then more, in fowlers' smocks and brethren's black, with the pilot's son among them if the party is looking for him. They cannot come onto dry stone. They wait, and the water rises. The gallery and the bell-loft are dry, for now.
 
 > [!TIP]
-> Play Godric as a man anxious to be somewhere on time. He is not hungry and not cruel; he is late, and the tide is coming. That is the frightening reading tonight, and the true one later.
+> Play Godrik as a man anxious to be somewhere on time. He is not hungry and not cruel; he is late, and the tide is coming. That is the frightening reading tonight, and the true one later.
 
 **Player choices.**
 
 - _Force:_ fight on the gallery stairs as the water climbs them. The drowned are slow, and a body dragged out of the water falls still, but there are more of them than the party has strength for.
 - _Stealth:_ go up and wait. The water rises a step at a time and reaches the gallery floor before the turn. Waiting is not a refuge, only a delay, but it puts the party in the tower when the tide turns.
-- _Talk:_ Godric pleads. A party member who answers him, or who calls to the pilot's son by name, is counted, and the bell rings again for that one.
+- _Talk:_ Godrik pleads. A party member who answers him, or who calls to the pilot's son by name, is counted, and the bell rings again for that one.
 - _Cleverness:_ use the drains and the dry stone. A floor or stair kept dry is a wall the dead cannot cross; a door packed with cloth and lime holds the water back for a time; the bell-loft ladder is dry.
-- _Giving something up:_ throw the dead something to drown in their place. Godric's own pack, a cloak, a body, anything thrown into the nave is seized and dragged down. It buys minutes.
+- _Giving something up:_ throw the dead something to drown in their place. Godrik's own pack, a cloak, a body, anything thrown into the nave is seized and dragged down. It buys minutes.
 
-**At the turn.** In the small hours the tide stands, and then turns. The drowned in the nave stop as one, turn away from the gallery, and file down through the vestry door into the dark, unhurried, Godric among them. A party in the bell-loft sees Mildith cut another short mark in the beam. A lantern lowered down the bell-shaft shows them at the far end of the crypt, hands on an iron wheel, and the gates below the mound groan open. Over the next hour the water drains out of the house, room by room, down the drains it came up.
+**At the turn.** In the small hours the tide stands, and then turns. The drowned in the nave stop as one, turn away from the gallery, and file down through the vestry door into the dark, unhurried, Godrik among them. A party in the bell-loft sees Mildith cut another short mark in the beam. A lantern lowered down the bell-shaft shows them at the far end of the crypt, hands on an iron wheel, and the gates below the mound groan open. Over the next hour the water drains out of the house, room by room, down the drains it came up.
 
 > [!IMPORTANT]
 > This scene must establish that the drowned leave their prey at the turn, and that the house empties only after they have gone down. Whatever else happens tonight, describe the drowned turning away and the water going out behind them.
 
-**Clues and rewards.** The water rule, now proved. The bell, rung at each taking, heard plainly from the vestry floor, which points the way down. Godric's last coherent words, said over his shoulder as he goes down: "The Keeper saith we keep the house. He is below with the bell."
+**Clues and rewards.** The water rule, now proved. The bell, rung at each taking, heard plainly from the vestry floor, which points the way down. Godrik's last coherent words, said over his shoulder as he goes down: "The Keeper saith we keep the house. He is below with the bell."
 
 **Consequences.** The boat, if still moored, is gone, pulled under at the steps. The way down, through the vestry passage, is ankle-deep at the flood and clear at the ebb. If the party goes down before the turn, the turn comes to it in the crypt.
 
-**If bypassed, failed or cut short.** A party that went straight down to the crypt in Scene Two meets these signs there: the bell rings as they descend, the water rises behind them on the stair, and Godric stands in the passage asking to be let past, because the tide is coming. If someone has answered the dead, the bell rings for them, and the drowned come for that person wherever the water reaches; the only escape is downward, to the source. A party that tries to leave by the embankment finds the landward door of the mound under water and the drowned standing in it until the turn, when they leave it and go below, and the door is open to the bank.
+**If bypassed, failed or cut short.** A party that went straight down to the crypt in Scene Two meets these signs there: the bell rings as they descend, the water rises behind them on the stair, and Godrik stands in the passage asking to be let past, because the tide is coming. If someone has answered the dead, the bell rings for them, and the drowned come for that person wherever the water reaches; the only escape is downward, to the source. A party that tries to leave by the embankment finds the landward door of the mound under water and the drowned standing in it until the turn, when they leave it and go below, and the door is open to the bank.
 
-## Scene Four: The Flooded Crypt
+### Scene Four: The Flooded Crypt
 
 **Purpose.** Confrontation and revelation. Show the Keeper, the bell and the sluice, and let the party use what it learned, knowing now what each act costs.
 
-> The stair ends in a narrow stone room where a great bell hangs from an oak beam over a black shaft. Its rope runs down into the water below. Beyond an iron gate wrought as a black gate wound with bare vines, a long vault opens, half full of sea-water, and in the middle of it a man in black stands waist-deep, holding the rope.
+> The stair ends in a narrow stone room where a great bell hangs from an oak beam over a black shaft. Its rope runs down into the water below. Beyond an iron gate wrought as a black gate wound with bare vines, a long vault opens, half full of seawater, and in the middle of it a man in black stands waist-deep, holding the rope.
 
 **Situation.** The bell-chamber's shaft drops into the crypt. The iron gate's lintel is cut with a line of the true rite. The crypt is lined with niches of the dead, most of them empty. Beside the gate, above the old flood line, twelve niches in a row are new-made and closed to the shoulder with mortar, the oldest gray and the newest still pale. Each holds one body in a Threshold Keeper's black. They are of one height and one build, and the later ones are the more ruined. At the far end, at the outfall of the drainage cut, stands the iron gear of the sluice. Its wheel is rusted on the rim and bright on the handles, and the gear is greased with tallow scraped from the chapel's candles. In the middle of the water stands Keeper Leofwald.
 
@@ -244,7 +250,7 @@ The guest cells hold what the drowned's last travelers carried: a little money, 
 
 **If bypassed, failed or cut short.** A party that comes down unprepared, with neither the rite nor the plans, still has the bell-shaft above: the bell-loft ladder runs down the shaft to the beam, and cutting the rope from above is the quickest way to silence the house. A party that flees the crypt waits out the tide in the bell-loft and meets the turn there (see Scene Three). In the dry hours of the ebb, the treasure and the way out can both be reached.
 
-## Scene Five: The Drained Chamber
+### Scene Five: The Drained Chamber
 
 **Purpose.** Escape and aftermath. Pay out the treasure, resolve the house, and send the party back toward the living with the Levels' fortnight in its hands.
 
@@ -276,7 +282,11 @@ The guest cells hold what the drowned's last travelers carried: a little money, 
 
 **If bypassed, failed or cut short.** A party that leaves at the ebb without the treasure can return at the next ebb by the embankment, which it now knows. If Leofwald still stands, the dead are still in the crypt, and the bell still rings when a keeper wears out; the reliquary's niche is above the flood line and can be reached by the bell-shaft at any tide.
 
-## Aftermath
+## If the Party Does Nothing {#if-the-party-does-nothing}
+
+Leofwald takes another living keeper when a worker wears out. The drowned continue to turn the wheel, the commission continues to take credit for the dry grazing, and the families of the missing continue to lose people. The next attempt to destroy the Keeper without replacing the workers is final: he has no life left after this one.
+
+## Aftermath {#aftermath}
 
 - **If the chest reached the commission and the gates have living hands,** the commission's long dispute ends in a judgment nobody likes, the sluice is worked by paid men at every ebb, and Mildith or the faith can lay the drowned down with nothing lost. The faith of the Silent Judge sends a Threshold Keeper to the mound, and the Levels hear the bell again only when one of their drowned is found.
 - **If the party bargained with Leofwald,** the bell is silent while the bargain holds, the grazing stays dry, and the house keeps its sea-dead at the wheel. The bargain lasts as long as the sea brings in enough of them.
@@ -284,7 +294,7 @@ The guest cells hold what the drowned's last travelers carried: a little money, 
 - **If only the bell is silenced,** the fowlers stop hearing it and think the house is clear. It is not, and the next person to hang a bell in the shaft finds out.
 - **If the party fled,** the bell goes on ringing, the grazing stays dry, and the Levels lose a few more each year to the house that keeps them.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-threnhallow|Threnhallow]]—the house on the mound
 - [[place-greylevels|The Greylevels]] · [[place-greywater|Greywater]]

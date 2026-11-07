@@ -3,7 +3,8 @@ shortcode: hildbrwnng
 name: {full: Hildwiin Browning}
 type: being
 subType: npc
-tags: [draft, underworld]
+description: "Hildwiin Browning works in a brothel at Ashford, entertaining merchants, drovers and members of the retinues passing toward the council at Dunmere."
+tags: [underworld]
 data:
   icon: icon-person
   templatePriority: null
@@ -388,55 +389,32 @@ sohl:
 
 # Appearance {#appearance}
 
-Hildwiin Browning is a 20-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows and give her a keen gaze. She has a rounded nose and thin lips. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
+Hildwiin Browning is a 19-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows and give her a keen gaze. She has a rounded nose and thin lips. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Hildwiin Browning is a prostitute.
+**Age 19. Prostitute.**
 
-Hildwiin works at a busy brothel but has strong ties to [[affiliation-graytide|the Gray Tide]]. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
+Hildwiin Browning works in a brothel at [[place-ashford|Ashford]], entertaining merchants, drovers and members of the retinues passing toward the council at [[place-dunmere|Dunmere]]. She remembers a client's preferred wine and whether he pays promptly. She sets her own limits firmly and helps the younger workers end a visit that turns threatening.
+
+She wants enough money for a room and a business of her own. The drove fair brings plenty of customers and unreliable promises. A baron's servant spending borrowed silver can be harder to collect from than a drover with a purse in his boot.
 
 ## Psyche
 
-### Personality
-
-She can be too trusting of her Tide contacts and struggles with her double life.
-
-### Motivation
-
-Hildwiin wants out of the brothel, and the Gray Tide is the way out she has found.
-
-### Strengths
-
-She is persuasive, resourceful, and good at gathering information.
+Quick-witted and attentive, Hildwiin listens well and uses humor to change a room's temper. She is too ready to trust an offer that includes a way out of debt. She keeps a careful account of money due to her, even when the debtor has rank.
 
 ## Social
 
-Hildwiin belongs to the Gray Tide, a maritime crime network operating in Eilwìth.
+The other workers exchange warnings about violent or defaulting guests. Merchants pay for her company; their standing does not entitle them to her unpaid time. She has contacts beyond the town but names none as her protector.
 
-## Companions
-
-### Patrons
-
-Hildwiin's patrons are the wealthy clients who pay for her company and entertainment.
-
-### Enemies
-
-Few; she is respected in her trade, but some rival guild members may see her as a threat.
+:::secret {title="The price of a way out"}
+Hildwiin supplies [[affiliation-graytide|The Gray Tide]] with information about travelers' money and routes. Her contact promises work outside the brothel in exchange for the debts and itineraries of merchants financing the barons. She trusts that promise more than its evidence warrants. Her clients do not know where their talk goes.
+:::
 
 ## Plot Hooks
 
-The Prostitute's Dilemma
-: A client Hildwiin likes turns out to be the man the Gray Tide wants informed on, and she cannot keep faith with both him and the Tide.
+The unpaid visit
+: A retainer claims that his lord's protection settles his bill. Hildwiin asks for witnesses willing to accompany her to the household steward and hear whether the lord accepts that claim.
 
-Old Grudges
-: A rival at the brothel who sees Hildwiin as a threat has worked out where her information goes.
-
-Echoes of the Past
-: Someone from the family Hildwiin left behind finds her at the brothel.
-
-Shifting Winds
-: Political change in Eilwìth threatens the Gray Tide's hold on the docks, and Hildwiin can adapt, resist, or leave.
-
-The Opportunity
-: The Gray Tide offers Hildwiin a place in the organization that would take her out of the brothel, and its price is not named up front.
+A room beside the fair
+: A landlord offers Hildwiin a small shop but wants the season's rent before the fair opens. She asks for help checking the lease and finding honest work that covers the deposit without binding her to another patron.

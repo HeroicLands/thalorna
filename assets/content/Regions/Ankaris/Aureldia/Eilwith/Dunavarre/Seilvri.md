@@ -65,7 +65,7 @@ Before the war the Seilvri held the wooded valleys between Dúnavarre's estates 
 
 ## History {#history}
 
-The Seilvri held their valleys before Dúnavarre's first estate was cut from them, by their own telling and by the kingdom's oldest charters, which grant land "to the edge of the Seilvri woods." Dúnavarre traded with them for centuries. In about 694 AF the Synod declared them a danger to the island, and the Order took the field. At the turn of the year about 703 the Order trapped several thousand of the people in [[place-hushwood|the Hushwood]], the oldest of their woods and the ground of their dead, and killed them in three days. The survivors went east into Teilvari, and the Order has followed them there.
+The Seilvri held their valleys before Dúnavarre's first estate was cut from them, by their own telling and by the kingdom's oldest charters, which grant land "to the edge of the Seilvri woods." Dúnavarre traded with them for centuries. In about 694 AF the Synod declared them a danger to the island, and the Order took the field. At the turn of the year about 703 the Order trapped several thousand of the people in [[place-hushwood|the Hushwood]], the oldest of their woods and the ground of their dead, and killed them in three days. The survivors went west into Teilvari, and the Order has followed them there.
 
 ## The Present Pressure {#present}
 

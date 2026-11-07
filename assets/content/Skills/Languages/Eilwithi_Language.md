@@ -4187,6 +4187,23 @@ data:
       - {kind: given, elements: [given]}
       - {kind: byname, elements: [byname, place]}
   register:
+    - {name: Gerolt, kind: given, why: An Eilwìthan given name.}
+    - {name: Sarne, kind: byname, why: An Eilwìthan family name.}
+    - {name: Tamsen, kind: given, why: An Eilwìthan given name.}
+    - {name: Orlik, kind: byname, why: An Eilwìthan family name.}
+    - {name: Nanwith, kind: given, why: An Eilwìthan given name.}
+    - {name: Krake, kind: byname, why: An Eilwìthan family name.}
+    - {name: Haldrek, kind: given, why: An Eilwìthan given name.}
+    - {name: Vane, kind: byname, why: An Eilwìthan family name.}
+    - {name: Aldgar, kind: given, why: An Eilwìthan given name.}
+    - {name: Wraymon, kind: byname, why: An Eilwìthan family name.}
+    - {name: Mildith, kind: given, why: An Eilwìthan given name.}
+    - {name: Godrik, kind: given, why: An Eilwìthan given name.}
+    - {name: Stonibi, kind: byname, why: An Eilwìthan family name.}
+    - {name: Kenrik, kind: given, why: An Eilwìthan given name.}
+    - {name: Brandley, kind: byname, why: An Eilwìthan family name.}
+    - {name: Aldmund, kind: given, why: An Eilwìthan given name.}
+    - {name: Hardwik, kind: byname, why: An Eilwìthan family name.}
     - {name: Adwell, kind: byname, built: [ad, well]}
     - {name: Dunith, kind: given, built: [dun, ith]}
     - {name: Aldorvale, kind: place, built: [aldor, vale]}
@@ -4323,7 +4340,6 @@ data:
     - name: Dúnavarre
       kind: place
       why: A realm name shaped like the mainland names; no element builds it.
-    - {name: Eldskari, kind: byname, why: A Nordmal name borne by an Eilwìthan of Nordmen descent.}
     - name: Elowir
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
@@ -4333,9 +4349,6 @@ data:
     - name: Geldar
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - name: Hafringur
-      kind: byname
-      why: A Nordmal name borne by an Eilwìthan of Nordmen descent.
     - name: Hawise
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
@@ -4395,7 +4408,6 @@ data:
     - name: Rowena
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
-    - {name: Sigrún, kind: given, why: A Nordmal name borne by an Eilwìthan of Nordmen descent.}
     - name: Stormveld
       kind: place
       why: "Storm joined to veld, an element the lowland names do not use."
@@ -4411,7 +4423,6 @@ data:
     - name: Thábavel
       kind: byname
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - {name: Thorir, kind: given, why: A Nordmal name borne by an Eilwìthan of Nordmen descent.}
     - name: Torad
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."

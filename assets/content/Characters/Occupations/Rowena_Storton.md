@@ -3,7 +3,8 @@ shortcode: rowenstrtn
 name: {full: Rowena Storton}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "Rowena Storton trains birds for a wealthy household in Ravenmoor."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,55 +393,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Rowena Storton is a 28-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a rounded chin. Her bright green eyes sit beneath expressive brows, lending her a lively gaze. A narrow nose and curved lips complete her features. She has light skin with a pale complexion. Her red hair is adorned with simple pins.
+Rowena Storton is a 27-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a rounded chin. Her bright green eyes sit beneath expressive brows, lending her a lively gaze. A narrow nose and curved lips complete her features. She has light skin with a pale complexion. Her red hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a guilded family of [[lore-aelwythanclt|Eilwìthan]] heritage, Rowena Storton is an animal trainer.
+**Age 27. Animal Trainer.**
 
-Rowena trains exotic birds for a noble family. She is skilled at teaching them tricks and mimicking sounds, and often accompanies her employers to social events.
+Rowena Storton trains birds for a wealthy household in [[place-ravenmoor|Ravenmoor]]. She teaches a call by repetition, rewards a bird for returning to her wrist and covers a cage before noise becomes distress. She carries birds to suppers as carefully as another servant carries glass.
+
+Imported birds pass through the compulsory harbor inspection. Their gift for repeating words can draw the wrong sort of attention in a town that reports every unexplained curiosity. Rowena wants the examiners to hear an ordinary lesson before they decide that a voice in a cage requires magical study.
 
 ## Psyche
 
-### Personality
-
-Easily distracted, nervous around large animals.
-
-### Motivation
-
-Rowena wants to teach her birds tricks and sounds to mimic.
-
-### Strengths
-
-Skilled with training small animals, particularly birds.
+Patient with small creatures and nervous around large animals, Rowena becomes distracted when a bird attempts a new sound. She wants her charges healthy and her employers pleased. A threatened cage makes her speak more boldly than a threat to her own wages.
 
 ## Social
 
-Rowena is affiliated with the [Urban Animal Trainers' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-A noble family hires Rowena to train its exotic birds.
-
-### Enemies
-
-Rowena has managed to avoid making serious enemies, though the nature of her work means this may not last.
+The household pays her; sailors bring feed, cages and news of birds available for sale. She works with the inspection quay's ordinary requirements and asks leave before opening a cage. She claims no authority to exempt a pet from examination.
 
 ## Plot Hooks
 
-The Animal Trainer's Dilemma
-: Rowena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+A lesson on the quay
+: An inspector detains a talking bird as a possible magical curiosity. Rowena asks for witnesses to a training session and for someone to carry its owner's papers while she stays to feed it.
 
-Unwelcome Attention
-: A powerful figure in Eilwìth has taken an interest in Rowena's work, and their intentions remain unclear. Cooperation could mean security—or compromise.
-
-Echoes of the Past
-: Something from Rowena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Rowena depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Rowena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The household's new purchase
+: A supplier offers a rare bird from a hull whose inspection papers name only cloth. Rowena refuses delivery until the animal's passage is accounted for and asks the party to find the master before he sails.

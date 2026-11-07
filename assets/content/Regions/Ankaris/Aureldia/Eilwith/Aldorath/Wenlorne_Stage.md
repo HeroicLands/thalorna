@@ -3,8 +3,8 @@ shortcode: wenlornestage
 name: {full: Wenlorne Stage, en: [The Lit Stage, The Reeve's House]}
 type: place
 subType: site
-description: "A relay house of the elder kingdom on a Crown Road in the Thornwold's oak woods between Dunmere and Seirasto, whose lamps are lit every dusk by nobody living and whose keeper does not let guests leave."
-tags: [draft, haunted, ruin, road]
+description: "A relay house on the old road between Dunmere and Seirasto, with pale lamps burning at dusk and a courteous host at its gate."
+tags: [haunted, ruin, road]
 data:
   demonym: null
   lore: []
@@ -18,13 +18,16 @@ data:
 
 The Crown Road that runs south from [[place-dunmere|Dunmere]], at the south-eastern tip of the lake, through the oak woods of [[place-thornwold|the Thornwold]] toward [[place-hallowwood|Seirasto]] is whole for most of a day's walk beyond the last Aldorathi steading. Its fitted blocks are as true as when the Khazari masons of [[lore-jointcrown|the Joint Crown]] cut them, and the oaks and beeches the [[lore-flksenali|Senali]] planted along it have grown into a roofed lane. About halfway down the whole stretch stands **Wenlorne Stage**, a square stone relay house with a gate-arch, a stable court and a tower at the north-west corner for the road-horn. The crown kept such houses a day apart so that a rider with a royal writ changed horses at each one and a traveler slept behind a barred door.
 
-Nothing lives at Wenlorne. The roof is sound and the gate stands open. At dusk the iron lamp-posts that line the last mile of road are lit, one after another, from the stage outward, and burn with a steady pale light until dawn. Nobody has been seen to light them.
+The roof is sound and the gate stands open. At dusk the iron lamp-posts that line the last mile of road are lit, one after another, from the stage outward, and burn with a steady pale light until dawn. Nobody has been seen to light them.
 
 ## The Reeve {#history}
 
 Every stage had a **road-reeve**, an officer who answered to the crown for the safety of the road and the roll of those who slept under his roof. The reeve of Wenlorne held the stage to the last days of the [Great War]{.name data-type="lore/history"}, when the king was dead at [[place-threesisters|the Three Sisters]] and the crown's subjects were fleeing along the road in the dark: Vardain farmers, Khazari masons and the small Pelwar parties who had come over to the crown. The reeve took in everyone, shut the gate against the war, and swore by the crown that no one under his roof would come to harm before the road was safe. The road was not safe the following morning, or the one after. What happened inside the gate is not recorded. The stage was found empty and the gate closed, and a reeve's oath of that kind does not lapse at his death.
 
-The oath was caught by [[lore-theshadow|the Shadow]]. What keeps the stage now is a bound dead thing in a reeve's gray coat, with the keys at its belt and the lamps in its keeping, and it keeps its oath as the Shadow reads it: no guest leaves while the road is unsafe, and the road is never safe. It lights the lamps to bring travelers in. Around it move the **porters**, the dead of the stage, who take coats and carry baggage and set out supper, and who believe the war is still going on.
+:::secret {title="The oath and the porters"}
+The oath was caught by [[lore-theshadow|the Shadow]]. The [[being-wenlornereeve|Reeve of Wenlorne]] is a bound dead thing in a reeve's gray coat, with the keys at its belt and the lamps in its keeping, and it keeps its oath as the Shadow reads it: no guest leaves while the road is unsafe, and the road is never safe. It lights the lamps to bring travelers in. Around it move the **porters**, the dead of the stage, who take coats and carry baggage and set out supper, and who believe the war is still going on.
+
+:::
 
 ## What Is There Now {#present}
 
@@ -53,4 +56,8 @@ From Dunmere the old road starts at a ford below the last foresters' lodge and r
 : the elder kingdom that cut the road
 
 [[lore-theshadow|The Shadow]]
-: what took the reeve's oath
+: the dread named in stories of the stage
+
+## Adventures {#adventures}
+
+- [[scenario-lampswenlorne|Pale Lamps on the Crown Road]]

@@ -3,7 +3,8 @@ shortcode: edgarchltn
 name: {full: Hildmund Chilton}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Hildmund Chilton prepares the dead at Kaerwiind."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -53,7 +54,7 @@ sohl:
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 39}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 12}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-mnrl, system: {masteryLevelBase: 28}}
@@ -394,55 +395,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Hildmund Chilton is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows and give him a watchful gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
+Hildmund Chilton is a 40-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows and give him a watchful gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Hildmund Chilton is an embalmer.
+**Age 40. Embalmer.**
 
-Hildmund grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and careful nature, he has prepared many bodies for burial over the years. He takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, he is dedicated to his craft and carries out his duties with a solemn respect for the dead.
+Hildmund Chilton prepares the dead at [[place-caerwynd|Kaerwiind]]. He washes, binds and preserves bodies for the journey to their households, setting the belongings beside each one rather than pooling them in a chest. He serves local families and soldiers' kin through the customs of [[affiliation-selmoros|Faith of Sélmoros]].
+
+A short garrison cannot readily spare escorts for the dead. Hildmund asks which road a family can actually travel before promising a delivery. A body kept without a name concerns him more than an elaborate funeral kept waiting.
 
 ## Psyche
 
-### Personality
-
-He is socially distant, seen as morbid by some, and struggles to form close relationships.
-
-### Motivation
-
-Hildmund wants to do right by the dead who come to him and by the families who bring them.
-
-### Strengths
-
-He is skilled in embalming, calm under pressure, and careful in everything he does.
+Solemn and careful, Hildmund speaks plainly about physical needs that others avoid. He wants each family to receive its dead and their possessions together. His quietness can make an ordinary question sound like an accusation.
 
 ## Social
 
-Hildmund belongs to the [Morticians' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Hildmund's patrons are the local families who seek his services for funerals.
-
-### Enemies
-
-None, though some people are wary of him due to his profession.
+The garrison officers bring service records; households bring burial clothes and requests. He accepts payment according to the preparation required and does plain work for families who cannot afford preservation. He does not judge a body's worth by its purse.
 
 ## Plot Hooks
 
-The Embalmer's Dilemma
-: A body brought to Hildmund for burial carries marks the family does not mention, and his respect for the dead sits badly with the silence they expect of him.
+An escort short
+: The garrison can spare a cart but no guard for two bodies bound south. Hildmund asks for an escort that delivers the effects to the named households before taking other paid work on the road.
 
-Old Grudges
-: Hildmund has no enemies, though the people who are wary of his trade are quick to suspect him when a death is questioned.
-
-Echoes of the Past
-: A family whose dead Hildmund's father prepared years ago returns with questions about how it was done.
-
-Shifting Winds
-: Political change in Eilwìth threatens the Morticians' Guild and the custom Hildmund depends upon, and he can adapt, resist, or leave.
-
-The Opportunity
-: A wealthy family offers Hildmund the preparation of all its dead, and what that custom will cost him is not named up front.
+The wrong belt
+: A family challenges the belt and knife laid beside its dead. Hildmund stops the burial preparations and asks for the patrol's surviving members to identify the belongings in person.

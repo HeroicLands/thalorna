@@ -13,7 +13,7 @@ the middle of [[place-eilwith|Eilwìth]]. They are unremarkable mountains and th
 
 ## The Battle {#history}
 
-In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar]] and their [Varkhad]{.name data-type="lore/folk"} masters beneath them, and the **Senali king of
+In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar]] and the [Varkhad]{.name data-type="lore/folk"} among them beneath the peaks, and the **Senali king of
 Eilwìth was killed** by the Varkhad.
 
 It was the decisive engagement of the [Great War]{.name data-type="lore/history"}, and its consequences went far past who held the

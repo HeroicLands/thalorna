@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Manages the financial affairs of the embassy.
 
+# Dossier {#dossier}
+
 **Background.** A keen eye for detail and a strong grip on resources.
 
-**Intrigue.** A serious gambler, deep in debt to [[affiliation-umbralcourt|the Umbral Court]] and embezzling from the mission's budget to cover it. The Court threatens to expose the debt and the theft, and to harm his daughter [[being-ilaraluavel|Ilara]], if he does not comply.
+:::secret {title="Debt and embezzlement"}
+A serious gambler, deep in debt to [[affiliation-umbralcourt|the Umbral Court]] and embezzling from the mission's budget to cover it. The Court threatens to expose the debt and the theft, and to harm his daughter [[being-ilaraluavel|Ilara]], if he does not comply.
+:::

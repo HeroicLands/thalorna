@@ -48,7 +48,7 @@ Edrin Talvavel is a 49-year-old man of 5'9" and medium build, with fair skin, br
 
 Edrin Talvavel is a priest of the [[affiliation-ardavon|Faith of Árdavon]] and the chaplain of the [[affiliation-justbladeordr|Order of the Just Blade]], appointed by the faith at the Knight-Marshal's asking. He keeps the chapel inside the walls of [[place-kelivren|Kelivren]], hears the oaths of the Order's knights and blesses their swords each spring at the [Sanctification of Swords]{.name data-type="lore/custom"}.
 
-He preaches the war on the [[affiliation-saelvri|Seilvri]] ([[lore-saelvricrusade|The Seilvri Crusade]]). The Seilvri, he teaches, live outside every oath, every law and every god's keeping, and the Order carries the light of [[lore-ardavondty|Árdavon]] to them: to spare those who kneel at the god's threshold and to end those who will not. He rides east with the Order each summer and receives the Seilvri who accept its terms into the faith himself.
+He preaches the war on the [[affiliation-saelvri|Seilvri]] ([[lore-saelvricrusade|The Seilvri Crusade]]). The Seilvri, he teaches, live outside every oath, every law and every god's keeping, and the Order carries the light of [[lore-ardavondty|Árdavon]] to them: to spare those who kneel at the god's threshold and to end those who will not. He rides west with the Order each summer and receives the Seilvri who accept its terms into the faith himself.
 
 ## Psyche
 

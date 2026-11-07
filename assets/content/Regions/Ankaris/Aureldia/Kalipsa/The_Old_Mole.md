@@ -28,7 +28,7 @@ The mole belongs to the city, and the [[affiliation-captnscncl|Captains' Council
 
 ## What Is There Now {#present}
 
-The winter's first great storm shifted a block of the outer old course near the mole's head. It did not fall, but it settled and turned, and at low water on a spring tide its underside now shows a carved face that nobody living had seen. The city's master mason wants the block wedged and the upper work rebuilt over it before the next storm opens the gap further. The [[affiliation-ordoarcanis|Thordimalon]]'s factor in the city has asked the Harbormaster for leave to take copies of the new face before it is covered, and has offered to pay the masons for the delay.
+The winter's first great storm shifted a block of the outer old course near the mole's head. It did not fall, but it settled and turned, and at low water on a spring tide its underside now shows a carved face that nobody living had seen. The city’s master mason, [[being-ralthannrulth|Ralthann Rultharuk]], wants the block wedged and the upper work rebuilt over it before the next storm opens the gap further. [[being-marvindnalth|Marvinda Naltharuk]], [[affiliation-ordoarcanis|The Order]]’s factor in the city, has asked the Harbormaster for leave to take copies of the new face before it is covered, and has offered to pay the masons for the delay.
 
 [[being-hrundthrsk|Hrundselda Thraskumak]] has given neither leave. The Council's order forbids moving the stone, the master mason says the stone has moved itself, and a delay costs the harbor its safety for every day it lasts.
 
@@ -56,3 +56,7 @@ The inner face of the mole is a working quay: deep-sea hulls berthed two deep, p
 
 [[place-lantrnklps|The Lantern of Kalipsa]]
 : the light on the headland across the harbor mouth
+
+## Adventures {#adventures}
+
+- [[scenario-oldmoleface|Before the Stone Is Covered]]

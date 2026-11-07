@@ -3,7 +3,8 @@ shortcode: avicewnwck
 name: {full: Avis Winwik}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Avis Winwik sails from Thornbury as a supercargo, responsible for the goods rather than the handling of the ship."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -72,7 +73,7 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 26}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 68}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 68}}
   system:
     body:
       structure:
@@ -392,55 +393,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Avis Winwik is a 26-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows and give her an expressive gaze. She has a narrow nose and expressive lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair flows past her shoulders.
+Avis Winwik is a 25-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows and give her an expressive gaze. She has a narrow nose and expressive lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair flows past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a noble family of [[lore-aelwythanclt|Eilwìthan]] heritage, Avis Winwik is a merchant who sails as a supercargo.
+**Age 25. Merchant (Supercargo).**
 
-Avis has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and seeing that every transaction goes smoothly. She is known for her head for business and her ability to adapt to changing markets. Clients and colleagues alike respect her for her honesty and reliability.
+Avis Winwik sails from [[place-thornbury|Thornbury]] as a supercargo, responsible for the goods rather than the handling of the ship. She checks stowage, bargains at the destination and keeps the owners' shares separate down to the last damaged bale. She hires strong backs for the lifting and stays beside them until every mark agrees with her book.
+
+The taking of a Thornbury coaster off [[place-nordfells|The Nordfells]] makes northern cargo hard to insure by handshake alone. Avis asks each owner to state who bears a ransom or a seizure before loading. Some call this disloyalty to the republic; she calls it a question that needs an answer on shore.
 
 ## Psyche
 
-### Personality
-
-She can seem aloof, and struggles with the heavier work of loading and unloading.
-
-### Motivation
-
-Avis wants every cargo she carries to arrive and sell as agreed, and her name to stay good with the companies that hire her.
-
-### Strengths
-
-She is skilled in the management of cargo and in trade negotiation, adaptable, and understands how markets move.
+Reserved and scrupulous, Avis wants every cargo delivered on the terms she accepts. She adapts quickly to prices and slowly to people who refuse to put their promises in writing.
 
 ## Social
 
-Avis belongs to the local [Merchant's Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Avis's patrons are the trading companies and shipping lines that hire her.
-
-### Enemies
-
-Few; she is generally well respected.
+The city's shipping houses hire her voyage by voyage. She works with [[being-osmndwnwck|Hildstan Winwik]], another supercargo, on dividing mixed consignments. Avis checks his loading tallies and expects him to check hers.
 
 ## Plot Hooks
 
-The Merchant (Supercargo)'s Dilemma
-: A cargo Avis is responsible for turns out to be other than its manifest says, and her company and her name cannot both be kept.
+Space for a ransom
+: A shipping house wants Avis to reserve hold space for goods demanded for the captive crew. The owners of the booked cargo refuse to surrender it. She needs an agreement before the tide, with each displaced consignment accounted for.
 
-Old Grudges
-: A merchant whose cargo Avis refused to carry has not forgotten it.
-
-Echoes of the Past
-: A voyage from Avis's early years at sea comes back to her as a claim against the cargo she carried.
-
-Shifting Winds
-: Political change in Eilwìth threatens the trade Avis depends upon, and she can adapt, resist, or leave.
-
-The Opportunity
-: Avis is offered a share in a trading company, and its price is not named up front.
+The inspection copy
+: A manifest for [[place-ravenmoor|Ravenmoor]] gives a different weight from the loading tally. Avis stops the sailing and asks for an independent weighing; her captain complains that the delay costs more than the disputed freight.

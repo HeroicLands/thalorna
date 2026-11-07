@@ -3,7 +3,8 @@ shortcode: edrthgrylng
 name: {full: Edrith Grayling}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Edrith Grayling works leather in Ravenmoor, making close-fitted garments, belt pouches and straps with a curling leaf pattern along the edge."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -392,55 +393,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Edrith Grayling is a 24-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
+Edrith Grayling is a 23-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Edrith Grayling is a hideworker.
+**Age 23. Hideworker.**
 
-Edrith learned the art of hideworking from her mother, who taught her the secrets of tanning and crafting leather into beautiful items. She specializes in creating garments and accessories that are both functional and fashionable. Edrith is known for her creativity and eye for design, and she often incorporates patterns into her work. While she enjoys her craft, she faces challenges in a male-dominated trade.
+Edrith Grayling works leather in [[place-ravenmoor|Ravenmoor]], making close-fitted garments, belt pouches and straps with a curling leaf pattern along the edge. She buys hides already cured when she can and shares the heavy lifting with neighboring workers. Her customers recognize a piece by its stitching before they look for her mark.
+
+The demand for equipment for the [[affiliation-justbladeordr|Order of the Just Blade]] draws leather away from ordinary buyers. Edrith has orders for harness repairs as well as clothing, and a small purse for materials. She insists on seeing the hide before agreeing a price; an impressive order is useless without sound leather to fill it.
 
 ## Psyche
 
-### Personality
-
-Often underestimated due to her gender, struggles with heavy lifting.
-
-### Motivation
-
-Edrith wants to make useful leather goods that carry her own designs, even as some male hideworkers resent her success.
-
-### Strengths
-
-Creative, skilled in design and crafting, resourceful.
+Inventive and proud of useful decoration, Edrith dislikes being offered only the delicate work. She wants a workshop that pays its own way and takes on more repairs than her hands can finish in a day.
 
 ## Social
 
-Edrith has no guild affiliation and works independently.
-
-## Companions
-
-### Patrons
-
-Local women seek Edrith's distinctive leather clothing and accessories.
-
-### Enemies
-
-Some male hideworkers who resent her success.
+She trades independently with sailors' households and porters. The inspection quay gives her steady work repairing cargo straps cut during examination. Older hideworkers challenge her prices, but regularly ask her to finish the stitching on their better pieces.
 
 ## Plot Hooks
 
-The Hideworker's Dilemma
-: Edrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+The army's leather
+: A contractor offers payment for a large harness order after delivery, while demanding that Edrith buy the hides now. She asks for someone to examine his authority and arrange a deposit she can actually spend.
 
-Old Grudges
-: Some male hideworkers who resent her success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Edrith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Edrith depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Edrith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+Opened for inspection
+: A chest's straps need replacing before its ship sails. The owner refuses to pay for cuts made by the inspectors. Edrith wants a witness to the inspection order so the charge reaches the person responsible.

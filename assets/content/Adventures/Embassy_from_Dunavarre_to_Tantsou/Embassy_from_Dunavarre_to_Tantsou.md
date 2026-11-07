@@ -3,10 +3,18 @@ shortcode: embsydnvrtantsou
 name: {full: Embassy from Dunavarre to Tantsou}
 type: scenario
 subType: adventure
-tags: [draft]
+tags: []
 data:
   parents: []
-  locations: [eilwith, elavendre, tantsouregin]
+  locations:
+    - eilwith
+    - elavendre
+    - beravel
+    - sathvothe
+    - ukuaraelwen
+    - mazeofechos
+    - tantsouregin
+    - provenzrgn
   cast:
     - arancelavren
     - baridanalendavel
@@ -26,336 +34,144 @@ data:
     - lheteklarnavel
     - rickarluavel
     - balothnemirina
-  factions: []
+    - dryad
+    - aelendanwarden
+    - guarddog
+  factions:
+    - kingdmdnvr
+    - dunavarsynod
+    - ordoarcanis
+    - tantsouempr
+    - vylarinmpr
+    - seldan
+    - kngdmlvndr
+    - alndnwrdns
+    - justbladeordr
+    - saelvri
+    - ardavon
+    - selmoros
+    - umbralcourt
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-This campaign is composed of a series of adventures. Players will be members of the mission, either taking over current characters, replacing them with their own, or as staff for the main mission members.
+## Overview {#overview}
 
-**Central Mission:** The objective is for the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] to develop independent diplomatic relations with the [[affiliation-tantsouempr|Empire of Tantsou]], located in the eastern [[place-ankrscntnnt|Ankaris Continent]]. Current diplomatic relations with the court in Tantsou are reliant on the [[affiliation-vylarinmpr|Vilérian Empire]] as an intermediary, and the [[affiliation-dunavarsynod|Dúnavarre Synod]], which commissions the embassy, is concerned that this dynamic might not be to Dúnavarre's advantage. Internal and external threats create a web of intrigue, rivalries, and opportunities for manipulation.
+Embassy from Dunavarre to Tantsou follows a mission commissioned by the [[affiliation-dunavarsynod|Dúnavarre Synod]]. The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] wants direct relations with the [[affiliation-tantsouempr|Empire of Tantsou]], ending its dependence on the [[affiliation-vylarinmpr|Vilérian Empire]] as intermediary. The opening adventure takes the embassy to [[place-beravel|Péravel]], in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], where a request for scholarly assistance puts its diplomatic standing at risk.
 
-## Ambassador’s Party Members
+The party can serve the embassy as guards, scouts, clerks or trusted agents. The vacant huntsman’s place offers a natural appointment for a character skilled outdoors. Players may also take an established member by agreement with the GM; decide which private motives that player controls before play. A small party of staff has authority to act on the ambassador’s commission without taking every senior official into the forest.
 
-### Ambassador
+This adventure resolves the proposed expedition for the [[miscgear-heartofdhirikri|Heart of Dirikri]]. The mission’s onward journey to [[place-tantsouregin|Tantsou Region]] remains its campaign purpose, rather than a promise that this expedition reaches the eastern court.
 
-**Name:** [[being-arancelavren|Aran Kélavren]]
+## What Is Really Happening {#what-is-really-happening}
 
-- **Role:** High-ranking mage of [[affiliation-ordoarcanis|the Order]] and noble.
-- **Background:** An experienced diplomat and trusted advisor in the service of the Synod of Dúnavarre.
-- \***\*Intrigue:\*\*** Recently promoted to his position, and some in the Synod's service believe he owes his rapid ascent to secret dealings or favoritism. Aran is driven by a need to prove his worth constantly, leading to strained relations within the party.
+[[being-aelithraenewyn|Áelithra Énevin]], Royal Loremaster of Élavendre and a Mistress of [[affiliation-ordoarcanis|The Order]], possesses a damaged scroll placing the Heart in [[place-ukuaraelwen|Úkua-Araelwen]]. Its surviving passages associate the crystal with sound. She wants it brought to Péravel for study and offers the [[miscgear-temprlcmpss|Temporal Compass]] to make the crossing possible. Her position at court gives her access to the embassy, not authority over sacred ground.
 
-### Chamberlain
+The [[affiliation-alndnwrdns|Áelendan Wardens]] forbid every outsider entry. Úkua-Araelwen lies in the high forest of [[place-sathvothe|Satvote]], across the frontier between [[place-elavendre|Élavendre Region]] and the [[place-provenzrgn|Provénzia Region]]. Neither crown administers it. The Wardens keep paired watches outside the margin and never enter. They know what the Loremaster wants and double the posts on the Provénzia side. A device of the art carried inside counts as a working, and a working there as desecration.
 
-**Name:** [[being-baridanalendavel|Baridan Aléndavel]]
+The Heart causes the forest’s slowing. Taking it out of the [[place-mazeofechos|Maze of Echoes]] ends that slowing; growth held back by the slow days comes due over a season. Trees at the margin shoot up, the dryads confront a world that has gone on without them, and the watch cannot contain everything that comes out. The Wardens fear disruption but do not know all these consequences. The Loremaster’s scroll does not prove removal safe.
 
-Role
-: Responsible for managing the household and logistics.
+Time is a cost even with the Compass. A day at the margin costs a few days outside; a day among the dryads costs a month; the Maze costs more. The instrument steadies the bearer’s own time and nearby companions, points toward safer routes and vibrates near the Heart. It does not stop the outside world advancing. Record time spent in each part of the journey, and make the consequence of a long stay explicit before the party commits to one.
 
-Background
-: Known for his organizational skills and loyalty to Dúnavarre and its Synod.
+### The Embassy’s Private Pressures
 
-Intrigue
-: Baridan secretly resents Aran's authority. He believes he deserved a higher position in the Synod's service due to his loyalty and hard work; making him susceptible to accepting bribes or conspiring against Aran.
+Use these motives when a decision touches the person concerned. They need not all erupt during the first expedition.
 
-### Scribe/Clerk
+| Member                                               | Duty and pressure                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[being-arancelavren\|Aran Kélavren]]                | The ambassador is an experienced mage and diplomat whose recent promotion attracts accusations of favoritism. He wants a conspicuous success and offers his staff’s help too readily.                                                                                                                                                           |
+| [[being-baridanalendavel\|Baridan Aléndavel]]        | The chamberlain manages the household and supplies. He believes his own loyalty deserves Aran’s place; a bribe or a chance to expose poor judgment tempts him.                                                                                                                                                                                  |
+| [[being-elowyrnimavren\|Elowir Nimavren]]            | The meticulous clerk loves [[being-loristaravel\|Loris Taravel]]. Their concealed relationship violates the teachings of the [[affiliation-ardavon\|Faith of Árdavon]], leaving Elowir afraid of exposure. He does not know Loris uses his access to correspondence.                                                                            |
+| [[being-thaekliamaelvri\|Lady Thaeklia Maelvri]]     | The aide knows eastern customs and seeks advancement. She can make promises without Aran’s approval and exploit the herald’s affection.                                                                                                                                                                                                         |
+| Loris Taravel                                        | The translator is a Vilérian agent. He wants the embassy dependent on Viléria, and feeds false intelligence to the sergeant after independently discovering his second office.                                                                                                                                                                  |
+| [[being-arrenthabavel\|Sir Arren Thábavel]]          | The winner of the [[lore-kelivrentrny\|Royal Kelivren Tournament of Chivalry]] guards the ambassador. Jealousy of Torad’s campaign record tempts him to turn a boundary dispute into a demonstration of courage.                                                                                                                                |
+| [[being-toradhtaravren\|Dame Torad Taravren]]        | The captain of the [[affiliation-justbladeordr\|Order of the Just Blade]] gives military counsel. She secretly despises the genocidal crusade against the [[affiliation-saelvri\|Seilvri]] despite her service in it; orders to attack guardians of sacred ground trouble her.                                                                  |
+| [[being-marricharavrel\|Marrik Háravrel]]            | The Sergeant-at-Arms trains the guards and secretly serves as Spymaster. He deliberately confides that office only to Aran. He does not know Loris has discovered it or that his reports are being poisoned.                                                                                                                                    |
+| [[being-kadylemcudavel\|Kadilem Kúdavel]]            | The herald announces the mission and guards its ceremonial standing. His concealed affection for Thaeklia makes a request from her difficult to refuse.                                                                                                                                                                                         |
+| [[being-laradhluavel\|Larad Lúavel]]                 | The steward’s gambling debts to [[affiliation-umbralcourt\|The Umbral Court]] lead him to steal mission funds. The Court threatens exposure and his daughter’s safety. An unexplained shortage deserves investigation, not an automatic accusation of Vilérian interference.                                                                    |
+| [[being-ilaraluavel\|Lady Ilara Lúavel]]             | Larad’s daughter is vulnerable to the Court’s threats. Her safety can force him to choose against the mission.                                                                                                                                                                                                                                  |
+| [[being-nhelynvelthravel\|Nelin Vélthravel]]         | The physician’s dangerous experiments with elixirs risk the people he treats. He wants to examine effects of the forest on living travelers.                                                                                                                                                                                                    |
+| [[being-alanoreneavel\|Alananor Enéavel]]            | The alchemist supplies medicines and resents the lack of recognition. Credit for preparing the expedition matters to him.                                                                                                                                                                                                                       |
+| [[being-geldarpanivel\|Geldar Panivel, the Younger]] | The cook sustains the household’s morale and secretly serves the [[affiliation-selmoros\|Faith of Sélmoros]] as an acolyte and spy. His involvement in the kidnapping and murder of the Ondarethi senator [[being-balothnemirina\|Baloth Nemirina]] in 717 binds him to a criminal past. Exposure gives him cause to bargain, flee or sabotage. |
+| [[being-lheteklarnavel\|Letek Larnavel]]             | The high priest advises on Árdavon’s order and justice. He conceals alcoholism out of fear for his authority. His religious counsel does not grant entry to another people’s sacred ground.                                                                                                                                                     |
+| [[being-rickarluavel\|Rikar Lúavel]]                 | The stable master cares for the retinue’s animals. His concealed sympathy for a rival Dúnavarren faction gives him divided loyalties.                                                                                                                                                                                                           |
 
-**Name:** [[being-elowyrnimavren|Elowir Nimavren]]
+Viléria officially welcomes the embassy while [[affiliation-seldan|The Vilérian Senate]] supports covert interference. Loris receives money and promises of advancement for correspondence, military information and opportunities to spoil negotiations. He does not control the Wardens or dryads. If the expedition encounters a lawful refusal, that refusal remains real even when Loris tries to exploit it.
 
-- **Role:** Ensures accurate record-keeping and correspondence.
-- **Background:** Trusted for his meticulous work and reliability in the Synod's records.
-- \***\*Intrigue:\*\*** Engaged in a secret homosexual relationship with [[being-loristaravel|Loris Taravel]], which is against the moral teachings of the [[affiliation-ardavon|Faith of Árdavon]]. Deeply in love with Loris, he is unaware of Loris's true motives. Elowir fears exposure could ruin both reputations and be leveraged for blackmail.
+## Hooks {#hooks}
 
-### Diplomatic Aides
+- **The ambassador’s commission.** Aran asks trusted staff to attend the Loremaster and report what retrieving the Heart requires. He promises to recognize service before the whole retinue.
+- **The household’s time.** Baridan asks the party to establish how long the expedition takes before supplies and onward arrangements are committed. The answer can challenge Aran’s public enthusiasm.
+- **The warning.** Torad asks the party to hear the Wardens’ position directly before anyone acts in the embassy’s name. She has reason to distrust a commission that treats sacred ground as empty country.
 
-Name
-: [[being-thaekliamaelvri|Lady Thaeklia Maelvri]]
+## Opening {#opening}
 
-Role
-: Assists in diplomatic negotiations and serves as an interpreter.
+At the reception in Péravel, Áelithra lays out the damaged scroll and places the Compass beside it. A turn of the instrument produces a glow; nothing at the table demonstrates what removing the Heart does. Aran volunteers assistance in front of his hosts. Ask the players what their characters agree to do: investigate the route, retrieve the crystal if possible, or accept an unconditional retrieval commission. Record the actual words.
 
-Background
-: Possesses extensive knowledge of eastern customs.
+The Loremaster answers questions frankly about what she possesses. She knows the scroll is incomplete, knows the Wardens oppose intrusion and cannot promise that a royal letter changes their law. She supplies the Compass on loan and asks for its return. A party can refuse the expedition, request a limited commission or seek a hearing at the margin. Aran dislikes public retreat but needs his agents alive and his mission intact; taking a proposal back for reconsideration is possible.
 
-Intrigue
-: Ambitious and sees the mission as a stepping stone to greater power. Secretly manipulates outcomes to increase her standing, possibly by forming or breaking alliances without the ambassador's knowledge. Is aware of [[being-kadylemcudavel|Kadilem Kúdavel]]'s romantic interest, and may use it to her advantage if possible.
+## Scenes {#scenes}
 
-Name
-: Loris Taravel
+### The Margin
 
-Role
-: Tasked with handling negotiations and translating documents.
+Travel from Péravel into the high forest; the site is not a quay or a convenient stop on a coastal road. Horses and the main retinue remain outside the ancient trees. At the mark-stones, a pair of boundary keepers (use [[being-aelendanwarden|Áelendan Warden]]) sit beside a fire with a [[being-guarddog|Guard Dog]]. One speaks while the other watches the approaches. They state the boundary and give the party its warning.
 
-Background
-: Skilled in multiple languages and international customs.
+The Wardens explain that neither crown’s letter permits entry and that the Compass makes the intended trespass desecration. They can hear the commission, accept its withdrawal and allow the party to leave. They cannot sell an exception or authorize removal of the Heart. Treat a sincere discussion as useful: the party learns that the Wardens themselves stay outside and that they believe the forest’s balance is at stake.
 
-Intrigue
-: Double agent for Viléria, manipulates Elowir to gather sensitive information. Dominant in his secret relationship, he views Elowir as a useful pawn. Secretly aware of [[being-marricharavrel|Marrik Háravrel]]’s role as Spymaster and dismissive of his abilities, Loris feeds false information to Marrik to suit his own and Viléria's objectives.
+Loris’s contribution, if consulted, is an unverified report that court sponsorship settles the matter. Confronting that report with the Wardens’ actual words exposes its unreliability without automatically exposing his allegiance. Marrik must choose whether to correct his advice to Aran.
 
-### Knights
+A party intent on entry must bypass the watch or force it. Describe the posts, sight lines and cover before asking for a plan. The dog can detect an approach; the watch uses warning, interception and its established response to deliberate desecration. It does not follow the party into the slow zone. A fight at the boundary damages the embassy’s standing independently of whether the Heart is found.
 
-Name
-: [[being-arrenthabavel|Sir Arren Thábavel]]
+### The Dryad Glade
 
-Role
-: Bodyguard and provides security counsel.
+Beyond the margin the trunks thicken and the light slows. Keep companions close to the Compass. Its safest direction can require a detour around moving growth; its vibration indicates proximity to the Heart, not the safety of a shortcut. A separated character’s recovery costs time to the whole party. Tell the players when an approach involves leaving the instrument’s field rather than springing that choice on them afterward.
 
-Background
-: Sir Arren is a brave and experienced knight, well-known for his martial prowess, particularly in tournaments. He recently won the prestigious [[lore-kelivrentrny|Royal Kelivren Tournament of Chivalry]], further cementing his reputation as an excellent combatant. Despite his accolades, Sir Arren feels overshadowed by [[being-toradhtaravren|Dame Torad Taravren]] because her distinctions stem from actual military campaigns, which he perceives as being held in higher regard by others.
+In the glade, a [[being-dryad|Dryad]] guards the trees. Trunks stand with the spacing of people. Drawn blades bring them closer; sheathing weapons and stopping gives room to speak. The guardian wants the grove left unharmed. Knowledge of earth-bound spirits helps the party make itself understood, but plain offers and patient listening also give the encounter something to turn on.
 
-Intrigue
-: Sir Arren's jealousy of Dame Torad's military achievements drives him to attempt to outshine her in any confrontations or engagements. His frustration over being seen mainly as a tournament knight rather than a battle-hardened warrior could lead to reckless decisions or internal conflicts, potentially compromising the mission.
+The party can negotiate passage through the glade by undertaking to leave its trees untouched. The guardian makes no promise about the Maze and grants no authority over the Heart. Ask what the party offers and what it admits seeking. Concealing the intended removal leaves a promise that later actions may break. Attacking or cutting a path brings the mobile growth against the intruders: narrowed ways, blocking trunks and vines across the route. The choices are retreat, a costly forced passage or a renewed negotiation. Use the environment described at Úkua-Araelwen, without giving the guardian an additional power over time.
 
-Name
-: Dame Torad Taravren
+### The Maze of Echoes
 
-Role
-: Captain of the _[[affiliation-justbladeordr|Order of the Just Blade]]_ and provides military counsel.
+The entrance divides around living wood. A tapped crystal gives a clear note. One passage returns it brightly; the other swallows it in a dull, close echo. Give these sounds without requiring a roll. Repeating the note or listening from the mouths of the passages establishes the first choice: follow the clear resonance.
 
-Background
-: A Knight-Captain of the Order of the Just Blade (a militant order of the Faith of Árdavon, dedicated to the god of order and justice), Dame Torad is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the [[affiliation-saelvri|Seilvri]]. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
+Run the changing interior as three decisions. The precise branches are the Maze’s present arrangement, not a map that remains reliable on another visit.
 
-Intrigue
-: Though she has fought in the crusade, Dame Torad secretly despises it, considering it contrary to the true principles of the Order and the faith of Árdavon. Her disdain for the crusade could be a morally charged narrative, possibly leading her to take actions that align more with her true beliefs than the official stance of the Order.
+1. **The divided echo.** A soft voice or instrument distinguishes the clear passage from the muffled one. Shouting fills both with reverberation; waiting for silence permits another attempt. Following the muffled echo reaches a closed loop and spends time.
+2. **The answering crystals.** Three crystals stand at a junction. Tapping each alone yields one bright continuing echo, one dead sound and one dissonant answer. The bright crystal starts the sequence. After it sounds, a different crystal answers clearly; after the second, the remaining crystal completes the harmony and the vines part. Describe each change. No player needs musical training or to guess a note the GM has not supplied.
+3. **The false opening.** The Compass vibrates strongly beyond two narrow ways. One carries the crystalline echo onward; the other is quiet and visibly shorter. The quiet way closes behind an entrant. Sound from companions at the junction gives the trapped traveler a direction to work toward through shifting vines, costing time and effort. The party can keep together and follow the audible route instead.
 
-### Sergeant-at-Arms and Spymaster
+A wrong sequence shuts the current opening. It does not erase the clues: the party can stop, listen and begin again. Forced cutting can clear an immediate obstruction but cannot stop the Maze rearranging. Mark the extra time and any injuries from forcing through the living barrier. The Compass brings survivors toward safety; it does not solve the sequence.
 
-**Name:** Marrik Háravrel
+### The Heart
 
-Role
-: Security and training of guards, gathering intelligence.
+At the center stands the crystal. The Compass’s vibration is strongest here; growth is vigorous near it. The party has reached the object promised by the scroll. Allow observation, a sketch and comparison of sounds before asking whether they take it. Neither the scroll nor the instrument provides a guarantee that removal is harmless.
 
-    Known Role
-    : Most of the retinue knows him as the Sergeant-at-Arms.
+Taking the Heart out of the Maze ends the slowing. The party sees changes in the forest as it leaves and has witnesses to what it carries. Leaving the crystal preserves the slowing. A report with drawings, the observed route and the boundary warning is evidence the party can bring to court even if Aran hoped for a trophy.
 
-    Secret Role
-    : Spymaster, known only to Aran. Marrik’s information is vital but underestimates the subtlety needed for espionage.
+### Return to the Watch
 
-Background
-: Known for his leadership skills in military settings.
+The Wardens await anyone emerging with the Heart or Compass. They remain outside the margin. They demand the devices and account for any injury to their watch; the party can surrender property, negotiate an escorted withdrawal or attempt escape. They use cover and archery if they attempt seizure. Set out their positions before violence, including a route back toward the forest and the way toward ordinary country. Their duty is custodial: they do not abandon the boundary to pursue the embassy across a kingdom.
 
-Intrigue
-: Marrik is unaware that Loris knows his secret role. Loris considers Marrik’s intelligence efforts amateurish and subtly undermines him by feeding false information, creating potential for disastrous missteps.
+A party that leaves the Heart in place can say so and offer its observations. This does not cancel a trespass. A party carrying it out must face the greater damage it has caused. Returning it to the Wardens gives them custody, but promises no simple reversal of the forest’s change; their belief that removal is dangerous is firmer than their knowledge of a remedy.
 
-### Herald
+## If the Party Does Nothing {#if-the-party-does-nothing}
 
-**Name:** Kadilem Kúdavel
+The Heart remains beyond the Maze. The Loremaster seeks another expedition and the doubled watch remains at the margin. Aran must explain why his offer produces no artifact, but the embassy can continue without an expedition. Loris treats the disappointment as material for his reports. Nobody needs to die to keep the campaign moving.
 
-Role
-: Announces the ambassador’s arrival and status.
+If the party enters and then camps for a prolonged period, the outside calendar advances. Supplies, arrangements and correspondents in Péravel do not wait unchanged. Compare the party’s account with dates in the embassy’s records on its return. Elowir’s careful correspondence is useful evidence even while Loris exploits his access to it.
 
-Background
-: Skilled in ceremonial duties and official events.
+## Aftermath {#aftermath}
 
-Intrigue
-: Closeted romantic interest in Lady Thaeklia, which could be used to manipulate his actions to suit her ambitions.
+At Péravel, resolve three separate questions: what the party agreed to do, what it actually learned, and what injury it caused. Áelithra values a precise account of the Maze and Heart but still wants the artifact. Aran can defend a limited commission honestly if its terms were recorded. Baridan has stronger grounds to challenge a costly, unexplained absence than a documented refusal at a forbidden boundary.
 
-### Steward
+If the Heart is delivered, scholarly success carries the forest’s disruption and the Wardens’ grievance with it. If it remains, the embassy still possesses direct evidence of the site and a decision about respecting its law. If the Compass is seized, the party must explain the loss of the Loremaster’s loan. None of those outcomes decides the mission’s reception in Tantsou in advance.
 
-Name: [[being-laradhluavel|Larad Lúavel]]
+Give the next leg of the campaign the consequences earned here: a damaged relationship with the Wardens, a respected refusal, a missing interval in the calendar, an unreliable intelligence report, or a debt within the household. Keep Loris’s interference distinguishable from the other members’ troubles. Evidence of Larad’s theft, Nelin’s risky treatment or Geldar’s past is not proof that Viléria orders every failure.
 
-- **Role:** Manages the financial aspects.
-- **Background:** Has a keen eye for detail and a strong grip on managing resources.
-- **Intrigue:** Larad has a serious gambling problem, which has led him into significant debt with [[affiliation-umbralcourt|the Umbral Court]]. To cover his gambling losses, Larad has been embezzling funds from the mission’s budget. The Umbral Court has its hooks deeply in him and has threatened to expose his debts, his embezzlement, and harm his daughter, [[being-ilaraluavel|Lady Ilara Lúavel]], if he does not comply with their demands. These threats make Larad susceptible to blackmail, manipulation, and possibly compromising the mission.
-- **Larad's Daughter: Lady Ilara**
-  - **Name:** Lady Ilara Lúavel
-  - **Role and Background:** Ilara is Larad's beloved daughter, currently living under the shadow of his gambling debts and the threats from the Umbral Court. Her safety is Larad's primary concern, which the Umbral Court exploits to ensure his cooperation in their schemes.
+## See Also {#see-also}
 
-### Physician
-
-Name: [[being-nhelynvelthravel|Nelin Vélthravel]]
-
-Role
-: Provides medical care for the party.
-
-Background
-: Recognized as one of the best physicians and healers in Dúnavarre.
-
-Intrigue
-: Experimenting with dangerous potions and elixirs, risking the health of the party. His obsession with his research could be exploited.
-
-### Alchemist
-
-Name: [[being-alanoreneavel|Alananor Enéavel]]
-
-Role
-: Provides medicinal and magical support.
-
-Background
-: Expert in alchemy and producing necessary potions and remedies.
-
-Intrigue
-: Feels unacknowledged and underappreciated, leading to resentment. Alananor could be manipulated into betraying the party for recognition.
-
-### Chief Cook
-
-Name: [[being-geldarpanivel|Geldar Panivel, the Younger]]
-
-Role
-: Ensures meals are prepared appropriately.
-
-Background
-: Well-known for his culinary skills and ability to maintain morale through food.
-
-Intrigue
-: Geldar is secretly an acolyte of the [[affiliation-selmoros|Faith of Sélmoros]] and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a Senator of the [[affiliation-repblcndrth|Republic of Ondareth]]. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Sélmoran or to bolster his standing among the Sélmorans in [[affiliation-repblcndrth|Ondareth]]. Given his covert activities, he might be planning poisonings or sabotage within the party.
-
-### Falconer/Huntsman
-
-Name: Vacant
-
-Role
-: Manages hunting expeditions and scouts surroundings.
-
-Background
-: Role to be custom-assigned.
-
-### Religious Advisor/Chaplain
-
-Name: [[being-lheteklarnavel|Letek Larnavel]]
-
-Role
-: Provides spiritual guidance.
-
-Background
-: Letek is a High Priest of Árdavon known for his dedication and steadfastness in maintaining the spiritual health and moral compass of the party. He conducts religious ceremonies, offers counsel, and ensures the mission adheres to Árdavon's principles of order and justice.
-
-Intrigue
-: Despite his high standing and respect within the party, Letek struggles with alcoholism. He hides his addiction, afraid that exposure would undermine his authority and influence. This personal struggle can be exploited, creating vulnerabilities that might affect the mission.
-
-### Stable Master
-
-Name: [[being-rickarluavel|Rikar Lúavel]]
-
-Role
-: Takes care of the horses and other animals.
-
-Background
-: Expertise in animal care and handling.
-
-Intrigue
-: Rikar holds secret sympathies for a rival faction within Dúnavarre. His divided loyalties make him a potential mole within the party.
-
-Players may either take on one of the above roles, replace one of the above roles with their own character, or be a member of the staff of one of those positions.
-
-For instance:
-
-- The senior knight, Dame Torad, may have junior knights on her staff assisting in representing the embassy. These knights would lead politically important missions.
-- Marrik, the Sergent at Arms, will definitely have a staff of warriors whose job is security for the retinue. Players could be members of the staff. In his role as Spymaster, he will probably have other staff, hidden among the staff of other groups, who assist him in areas of intrigue.
-
-Similarly for all of the other positions, players could choose to be members of the staff. This may be ideal, since they would have much greater latitude for independent actions than the senior members of the party.
-
-## Rival Power: Viléria
-
-### Vilérian Opposition
-
-The Vilérian Empire currently serves as the sole intermediary for diplomatic relations between western Ankaris and Tantsou. This monopoly over the eastern diplomatic channel is a source of enormous leverage—Viléria controls the flow of information, trade agreements, and political access between Dúnavarre and the Tantsou court. An independent Dúnavarren embassy would shatter this monopoly and diminish Vilérian influence in both regions.
-
-Motivation
-: Viléria will do everything in its power to ensure Dúnavarre’s diplomatic mission fails. The empire cannot afford to lose its intermediary position—both the prestige and the material advantages it provides are too valuable for a declining power to surrender willingly.
-
-Methods
-: [[affiliation-seldan|The Vilérian Senate]]’s intelligence apparatus has embedded agents within the mission itself. Through espionage, misinformation, and manipulation, Viléria aims to sabotage the embassy from within while maintaining plausible deniability.
-
-Political Cover
-: Officially, Viléria has expressed polite support for Dúnavarre’s diplomatic ambitions. In private, the Senate views the mission as a direct threat to imperial interests and has authorized covert operations to ensure its failure.
-
-### Connection with Loris of Taravel
-
-Role
-: Loris is a Vilérian agent planted within the mission. In exchange for intelligence, he receives monetary rewards and promises of advancement within the Vilérian diplomatic corps.
-
-Mission
-: To gather sensitive information about Dúnavarre’s diplomatic strategies, military capabilities, and any weaknesses that can be exploited by Viléria to maintain its intermediary monopoly.
-
-Manipulation
-: Uses his relationship with Elowir to extract confidential information. Feeds false information to Marrik, whom he dismisses as an ineffective spymaster, to sow confusion and achieve Vilérian objectives.
-
-Ultimate Goal
-: Undermine Dúnavarre’s mission to Tantsou, steering it toward failure or manipulating outcomes favorable to Vilérian interests.
-
-## Adventure 1: The [[miscgear-heartofdhirikri|Heart of Dirikri]]
-
-Central Plot: The mission arrives at [[place-beravel|Péravel]], capital of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]]. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], expresses interest in sending a party to [[place-ukuaraelwen|Úkua-Araelwen]] to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
-
-### The Royal Loremaster
-
-Name
-: Áelithra Énevin
-
-Title
-: Royal Loremaster of Élavendre
-
-Background
-: Áelithra is a Mistress of the Thordimalon and a wealthy commoner from Péravel.
-
-Ancient Scroll
-: Áelithra possesses a recently discovered ancient scroll that mentions the [[miscgear-heartofdhirikri|Heart of Dirikri]] currently located within Úkua-Araelwen. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
-
-Time Navigational Device
-: Áelithra provides the party with a device known as the [[miscgear-temprlcmpss|Temporal Compass]]. This magical instrument helps navigate the time distortions within Úkua-Araelwen, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dirikri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
-
-### Úkua-Araelwen
-
-The Úkua-Araelwen is a "slow" zone with deep [Terrae]{.name data-type="lore/arcana"} resonance—the elemental way of earth, stone, and growth—home to ancient trees and dryads. Few humans who have entered have ever returned. The zone is known for its temporal anomalies, where a day spent within could translate to a month passing outside.
-
-#### Challenge: Temporal Distortion:
-
-The party must navigate through time anomalies where a misstep can lead to temporal disorientation.
-
-**Solution:** Using the Temporal Compass to stabilize their path and rituals to align temporal elements. Dryad Guardians:
-
-#### Dryads
-
-Encountering and negotiating or combating Dryads who protect their domain.
-
-**Solution:** Knowledge of Terrae magic and the customs of earth-bound spirits can help players either negotiate safe passage or effectively combat the guardians if necessary.
-
-#### Deadly Flora
-
-The flora in Úkua-Araelwen is not only gigantic but also potentially deadly, with some plants capable of moving and attacking intruders.
-
-**Solution:** The party must identify and avoid or neutralize these dangerous plants, possibly utilizing alchemical concoctions to create safe passages.
-
-#### The [[place-mazeofechos|Maze of Echoes]]
-
-To access the Heart of Dirikri, the party must solve a complex physical obstacle known as the [[place-mazeofechos|Maze of Echoes]]. This ancient labyrinthine structure is constructed of living wood and vines that shift and change, creating a nearly impossible path unless certain conditions are met.
-
-- **Setup:** The Maze of Echoes is enchanted to respond to sound. Echoes and reverberations within the maze reveal hidden pathways and clues. The correct pathway echoes a crystalline resonance that leads toward the Heart.
-- **Clues Provided:**
-  - **Sound-based Navigation:** The party must figure out that certain actions, such as singing or playing specific musical notes, will create echoes that guide them through the shifting passages. Incorrect notes or sounds will lead to dead ends or traps.
-  - **Resonant Crystals:** Located throughout the maze are resonant crystals. These must be struck in the correct sequence to produce a harmonious echo that opens hidden doors or reveals the correct path.
-  - **Listening to the Environment:** Players need to carefully listen to the changes in the echoes as they move, indicating proximity to the Heart or warning of traps.
-
-### Artifact: The Heart of Dirikri
-
-A crystalline artifact believed to hold the essence of the powerful elemental spirits known as [Dirikri]{.name data-type="lore/spirit"}. It emanates an aura that enhances natural growth and can manipulate time within the zone.
-
-### Opposition: Áelendan Wardens
-
-The Áelendan Wardens are elite guardians of the ethereal zones, highly skilled in wilderness survival and archery. They operate in squads, often feared by their enemies. Their primary role is to monitor and protect the Araelwen from any disturbance.
-
-The Wardens will be aware of the Temporal Compass and will attempt to seize it, either to disrupt the party’s navigation or to prevent time manipulation within the Araelwen.
-
-#### Role of the Wardens
-
-Initial Interception
-: The Wardens will attempt to stop the party from reaching Úkua-Araelwen. They believe that meddling with the artifact and the Araelwen could have catastrophic consequences for the natural balance.
-
-    Tactics
-    : They will set up ambushes and checkpoints along potential entry paths to the Araelwen, using their superior knowledge of the terrain to trap and slow down the party.
-
-    Challenge
-    : The party must find ways to sneak past or diplomatically engage with the Wardens to gain entry into Úkua-Araelwen.
-
-Recovery Attempt
-: Once the party retrieves the Heart of Dirikri, the Áelendan Wardens will try to recover it, fearing the artifact's removal will disrupt the zone's harmonic balance.
-
-    Tactics
-    : The Wardens may launch a surprise attack on the party as they exit the Araelwen, aiming to reclaim the artifact.
-
-    Challenge
-    : The party will need to defend themselves and the artifact, using tactical prowess to escape or fend off the Wardens.
-
-This adventure presents a blend of physical navigation, quick thinking, and strategic use of the environment to solve the maze, all while facing external threats and internal dynamics that could affect the mission's success.
+- [[doc-aelwythadvguide|Eilwìth Adventurer's Guide]]
+- [[place-ukuaraelwen|Úkua-Araelwen]] · [[place-mazeofechos|Maze of Echoes]]
+- [[miscgear-heartofdhirikri|Heart of Dirikri]] · [[miscgear-temprlcmpss|Temporal Compass]]
+- [[affiliation-alndnwrdns|Áelendan Wardens]] · [[affiliation-dunavarsynod|Dúnavarre Synod]]

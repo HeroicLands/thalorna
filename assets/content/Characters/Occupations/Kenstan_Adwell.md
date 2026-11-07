@@ -3,7 +3,8 @@ shortcode: godwinadwl
 name: {full: Kenstan Adwell}
 type: being
 subType: npc
-tags: [draft, common-folk]
+description: "Kenstan Adwell herds sheep and goats on the hills above Kaerwiind."
+tags: [common-folk]
 data:
   icon: icon-person
   templatePriority: null
@@ -395,55 +396,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Kenstan Adwell is a 38-year-old man who stands 6'1" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows and give him a lively gaze. He has a straight nose and thin lips. He has pale skin with a ruddy complexion. His gray hair is combed neatly to one side.
+Kenstan Adwell is a 37-year-old man who stands 6'1" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows and give him a lively gaze. He has a straight nose and thin lips. He has pale skin with a ruddy complexion. His gray hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage, Kenstan Adwell is a herder.
+**Age 37. Herder.**
 
-Kenstan comes from a long line of herders, and has spent his life tending sheep and goats in the hills. He knows the land like the back of his hand and can find his way over even the most treacherous paths. His quiet, calm manner suits him to the solitary life of a herder, though he can be protective when he needs to be. He is deeply attached to his animals and believes in treating them with care and respect.
+Kenstan Adwell herds sheep and goats on the hills above [[place-caerwynd|Kaerwiind]]. He carries cheese, a spare thong and very little conversation. He knows which paths a loaded mule can use and which only look passable from the fortress wall.
+
+Smugglers cross [[place-sunderfells|The Sunderfells]] while the garrison lacks men. Kenstan's grazing paths matter to both. He wants his flock left out of the quarrel, but soldiers ask him to guide patrols and traders offer payment for directions without explaining their loads.
 
 ## Psyche
 
-### Personality
-
-He prefers solitude, is awkward in company, and is stubborn about traditional methods.
-
-### Motivation
-
-Kenstan wants his flock kept safe on the hills and the grazing his family has always used left to him.
-
-### Strengths
-
-He is skilled in animal husbandry, knows the local terrain, and is calm under pressure.
+Calm with animals and awkward in a crowded room, Kenstan dislikes being hurried into an answer. He wants safe grazing and buyers for his wool and cheese. He trusts an old path longer than its safety sometimes warrants.
 
 ## Social
 
-Kenstan belongs to no guild and works independently.
-
-## Companions
-
-### Patrons
-
-Kenstan's patrons are the local farmers who buy his wool and cheese.
-
-### Enemies
-
-Few, though some nearby farmers dispute his grazing rights.
+Farmers and kitchen buyers purchase his produce. The garrison knows him as a useful guide, while hill households need the same paths for ordinary trade. He belongs to no company of scouts and accepts no general obligation to lead armed men.
 
 ## Plot Hooks
 
-The Herder's Dilemma
-: A dispute over grazing comes to the point where Kenstan can keep his flock on the hill and lose the farmers who buy his wool and cheese, or give up the hill and keep them.
+A path under guard
+: A patrol closes the route to Kenstan's best grazing. He asks the party to walk an alternative with the flock and show the officer exactly what the closure costs in travel and feed.
 
-Old Grudges
-: A nearby farmer who disputes Kenstan's grazing rights has fenced a path his flock has always used.
-
-Echoes of the Past
-: A boundary stone Kenstan's family set generations ago is found moved, and the hill it marked is claimed by another.
-
-Shifting Winds
-: Political change in Eilwìth threatens the common grazing Kenstan's flock depends on, and he can adapt, resist, or leave.
-
-The Opportunity
-: A lord offers Kenstan the keeping of his own flocks, with a cottage and wages, and what would become of Kenstan's animals is not said.
+The loaded mule
+: A trader offers Kenstan a week's income to guide a mule after dark. Kenstan asks for companions who can insist on seeing the load before they leave the last inhabited farm.

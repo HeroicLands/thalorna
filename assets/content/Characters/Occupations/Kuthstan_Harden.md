@@ -3,7 +3,8 @@ shortcode: oswinhardn
 name: {full: Kuthstan Harden}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "Kuthstan Harden keeps the Forge & Flame Inn at Kaerwiind."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -75,7 +76,7 @@ sohl:
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 13}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 26}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 26}}
   system:
     body:
       structure:
@@ -395,55 +396,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Kuthstan Harden is a 46-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with defined cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. His wide-set blue eyes sit beneath arched brows, lending him an open gaze. A slightly upturned nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His gray hair is kept practical and short.
+Kuthstan Harden is a 45-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with defined cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. His wide-set blue eyes sit beneath arched brows, lending him an open gaze. A slightly upturned nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His gray hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Kuthstan Harden was born in the [[place-eilwith|Eilwìth]] region to a guilded family of [[lore-aelwythanclt|Eilwìthan]] heritage.
+**Age 45. Innkeeper.**
 
-Kuthstan left blacksmithing to run the [Forge & Flame Inn]{.name data-type="place/structure"}. He serves hearty meals and strong drinks to passing adventurers and merchants. His humor helps make the inn lively.
+Kuthstan Harden keeps the [Forge & Flame Inn]{.name data-type="place/structure"} at [[place-caerwynd|Kaerwiind]]. A smith's hammer hangs behind the serving board, and he repairs a loose horseshoe between stirring pots. His meals are generous, his stories loud and his account of who owes for supper approximate.
+
+The garrison's shortage of men fills his benches with recruiting talk. Forest traders use the same tables even though their trade is illegal in strict law. Kuthstan wants the officers to eat beside the people who provision them without turning dinner into an arrest.
 
 ## Psyche
 
-### Personality
-
-Can be too boisterous, struggles with the finer details of innkeeping.
-
-### Motivation
-
-Kuthstan enjoys hearing travelers' tales and joining the storytelling at the Forge & Flame.
-
-### Strengths
-
-Great cook, skilled at managing the inn, excellent storyteller.
+Boisterous and hospitable, Kuthstan can make strangers laugh together before they know each other's names. He wants a full room and few broken chairs. He mistakes agreement over ale for agreement in daylight.
 
 ## Social
 
-Kuthstan is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
-
-## Companions
-
-### Patrons
-
-Adventurers and traveling merchants are Kuthstan's patrons.
-
-### Enemies
-
-Few; generally well-liked.
+Drivers, soldiers and traders keep the inn busy. He buys produce from [[being-elfrdlwknr|Kenrith Lewknor]] and hears from [[being-kenwaldhghd|Kenwald Highden]]'s men when a convoy needs beds. His welcome belongs to the house; it carries no promise of protection from the Warden.
 
 ## Plot Hooks
 
-The Innkeeper's Dilemma
-: Kuthstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+The recruiting supper
+: An officer offers to pay a whole evening's bill if Kuthstan permits recruiting at every table. Kuthstan asks for a mediator when a forest trader insists that the bargain includes neither his servants nor his son.
 
-Old Grudges
-: Few; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Kuthstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Kuthstan depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kuthstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Beds for the late levy
+: A levy reaches town after the fortress closes its gate. Kuthstan can feed the men but lacks straw and floor space. He needs supplies and an officer willing to sign for them before the inn's ordinary guests are pushed outside.

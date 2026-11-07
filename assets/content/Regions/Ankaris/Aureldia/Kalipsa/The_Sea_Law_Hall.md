@@ -58,3 +58,7 @@ A stranger may come in and listen to any hearing, and a stranger who has a dispu
 
 [[affiliation-bondsyndcts|The Bond Syndicates]]
 : the syndicates whose bonds come before it
+
+## Adventures {#adventures}
+
+- [[scenario-kalipsahulls|The Third Night and the Spring Count]]

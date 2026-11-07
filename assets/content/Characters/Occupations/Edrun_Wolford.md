@@ -3,7 +3,8 @@ shortcode: edithwlfrd
 name: {full: Edrun Wolford}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "Edrun Wolford makes jewelry in Ashford, drawing her patterns from horn, leaf and curling fleece."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -391,55 +392,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Edrun Wolford is a 25-year-old woman who stands 5'8" tall and is slender. She has an angular face with wide-set cheekbones, a prominent forehead, and a rounded jaw that leads to a rounded chin. Her sharp hazel eyes sit beneath expressive brows, lending her an incisive gaze. A straight nose and full lips complete her features. She has fair skin with a fair complexion. Her red hair is loose and wavy.
+Edrun Wolford is a 24-year-old woman who stands 5'8" tall and is slender. She has an angular face with wide-set cheekbones, a prominent forehead, and a rounded jaw that leads to a rounded chin. Her sharp hazel eyes sit beneath expressive brows, lending her an incisive gaze. A straight nose and full lips complete her features. She has fair skin with a fair complexion. Her red hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a guilded family of [[lore-aelwythanclt|Eilwìthan]] heritage, Edrun Wolford is a jeweler.
+**Age 24. Jeweler.**
 
-Edrun discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting pieces that often incorporate unique designs inspired by nature. Edrun's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
+Edrun Wolford makes jewelry in [[place-ashford|Ashford]], drawing her patterns from horn, leaf and curling fleece. She lets customers handle the wax models before she casts a piece. Small alterations absorb hours that she is embarrassed to charge for.
+
+Ashford's wool merchants can afford fine silver but possess none of the standing land gives their noble debtors. Edrun makes clasps and chains for both. With baronial retinues passing toward the council at [[place-dunmere|Dunmere]], her shop holds more promised work than ready metal.
 
 ## Psyche
 
-### Personality
-
-Sometimes too experimental, struggles with pricing her work.
-
-### Motivation
-
-Edrun wants buyers to value her nature-inspired designs, though she has trouble pricing her work.
-
-### Strengths
-
-Creative, skilled in design and metalwork, excellent customer service.
+She is patient with a hesitant customer and reckless with an interesting design. She wants her own patterns recognized, yet needs ordinary repairs to pay for the experiments. A firm deadline usually loses to one last adjustment.
 
 ## Social
 
-Edrun is affiliated with the local [Jewelers' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Local artisans and collectors seek Edrun's distinctive jewelry.
-
-### Enemies
-
-None; generally well-liked in the community.
+Her workshop serves merchant households, their creditors and the visitors to the drove fair. She buys metal through the town's traders and worships with [[affiliation-sacredforge|The Sacred Forge]]. A repaired clasp pays for the wax she uses to try another design.
 
 ## Plot Hooks
 
-The Jeweler's Dilemma
-: Edrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+The pledged chain
+: A baron's servant offers a chain as payment for a new clasp. A merchant produces an agreement identifying the chain as security for a loan. Edrun sets both pieces aside and asks for an impartial reading before melting anything.
 
-Old Grudges
-: None; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Edrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Edrun depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Edrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+A badge for the council
+: A patron orders matching brooches for a retinue but asks Edrun to copy a rival house's design exactly. She needs a clear account of whose badge she is being paid to make before her work appears at the council.

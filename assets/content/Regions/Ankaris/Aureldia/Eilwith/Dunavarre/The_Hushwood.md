@@ -22,11 +22,19 @@ The Hushwood was the oldest of the Seilvri woods and the ground where they laid 
 
 The Hushwood is a field of the silent kind. The birds that fill every other wood on the island are absent from it, summer insects do not stir, and a traveler who enters hears only his own breath and the weather, and a lantern burns low and small. The field is thin. By day it is merely wrong; after dark things come out of it that harm the living, and the Order's patrols have lost men on its edge.
 
-At the edge of hearing, in the stillest hours, there are voices. Those who have listened describe a speech of a kind none of them knew, spoken at a distance and in numbers, never close enough to answer. It is the Seilvri tongue, which the people in Teilvari still speak. Beyond the voices, the predators of the spirit realm gather where souls are unreceived, and the Hushwood has not stopped drawing them since the killing.
+At the edge of hearing, in the stillest hours, there are voices. Those who have listened describe a speech of a kind none of them knew, spoken at a distance and in numbers, never close enough to answer. It is the Seilvri tongue, which the people in Teilvari still speak.
+
+:::secret {title="The unreceived dead"}
+Beyond the voices, the predators of the spirit realm gather where souls are unreceived, and the Hushwood has not stopped drawing them since the killing.
+:::
 
 ## Whose Dead
 
-The dead of the Hushwood are the Seilvri, killed several thousand together with their children in the wood they had kept. They went to their deaths without the rite their own people keep, and the people who keep it are alive in Teilvari and cannot come to them. The clergy of [[affiliation-selmoros|Sélmoros]] settle a field through a rite understood as placing in the god's keeping the dead who were his, and the Seilvri were not. Only a Seilvri rite can close this field, and the Synod's posts stand between the people and their dead.
+The dead of the Hushwood are the Seilvri, killed several thousand together with their children in the wood they had kept. They went to their deaths without the rite their own people keep, and the people who keep it are alive in Teilvari and cannot come to them.
+
+:::secret {title="The rite that closes the field"}
+The clergy of [[affiliation-selmoros|Faith of Sélmoros]] settle a field through a rite understood as placing in the god's keeping the dead who were his, and the Seilvri were not. Only a Seilvri rite can close this field, and the Synod's posts stand between the people and their dead.
+:::
 
 ## What Is There Now {#present}
 
@@ -52,3 +60,7 @@ The Synod's posts stand on the paths from the estates, and the Order's patrols k
 
 [[lore-bloodfield|Blood-fields]]
 : what a blood-field is and what ends one
+
+## Adventures {#adventures}
+
+- [[scenario-seilvririte|Three Nights for the Hushwood]]

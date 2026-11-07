@@ -3,7 +3,8 @@ shortcode: edasomervl
 name: {full: Eda Somervell}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Eda Somervell keeps the Somervell Inn near the harbor of Thornbury."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -74,7 +75,7 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 24}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 39}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 39}}
   system:
     body:
       structure:
@@ -394,55 +395,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Eda Somervell is a 25-year-old woman who stands 5'7" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a delicate chin. Her narrow hazel eyes sit beneath thin brows, lending her a keen gaze. A rounded nose and full lips complete her features. She has pale skin with a smooth complexion. Her brown hair is woven with small braids.
+Eda Somervell is a 24-year-old woman who stands 5'7" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a delicate chin. Her narrow hazel eyes sit beneath thin brows, lending her a keen gaze. A rounded nose and full lips complete her features. She has pale skin with a smooth complexion. Her brown hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Eda Somervell was born in the [[place-eilwith|Eilwìth]] region to a freeman family of [[lore-aelwythanclt|Eilwìthan]] heritage.
+**Age 24. Innkeeper.**
 
-Eda took over the [Somervell Inn]{.name data-type="place/structure"} from her parents. It stands near a popular trade route. Her friendly manner helps her connect with guests, though running the inn can be a strain.
+Eda Somervell keeps the [Somervell Inn]{.name data-type="place/structure"} near the harbor of [[place-thornbury|Thornbury]]. She serves a thick supper, remembers who needs a quiet bed and lets sailors' families leave messages at her kitchen door. Her brown hair is braided clear of the hearth; her account slate is less orderly than her pots.
+
+The captive coaster's crew has families waiting in the city. Eda gives some of them meals on credit while the shipping houses argue over ransom and the Senate argues over a fleet. The empty places at her tables are debts she can count. She wants the families fed without making her own inn another creditor's possession.
 
 ## Psyche
 
-### Personality
-
-Inexperienced in business negotiations, can be too trusting.
-
-### Motivation
-
-She works to keep the Somervell Inn welcoming to travelers, even when the business presses on her.
-
-### Strengths
-
-Excellent hostess, skilled cook, personable.
+Warm and trusting, Eda finds it easy to promise one more supper. She bargains poorly with suppliers who know she cannot turn hungry guests away. Her strength is remembering people and putting them at a table where they can speak.
 
 ## Social
 
-Eda is affiliated with the local [Innkeepers' Association]{.name data-type="affiliation"}.
-
-## Companions
-
-### Patrons
-
-Travelers and local traders are Eda's patrons.
-
-### Enemies
-
-Few; she is generally liked by the community.
+She deals directly with brewers, fish sellers and shipmasters. A guest who pays reliably helps cover another's supper; Eda keeps that arrangement quiet without pretending it is a formal charity.
 
 ## Plot Hooks
 
-The Innkeeper's Dilemma
-: Eda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Eilwìth.
+The crew's table
+: The relatives of the captive sailors ask to meet their shipping house's factor at Eda's inn. She needs witnesses who can keep the meeting from becoming a quarrel over which household deserves help first.
 
-Old Grudges
-: Few; she is generally liked by the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Eda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Eda depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Eda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The pledged bed
+: A creditor offers to settle Eda's food bill in return for her best rooms during the Senate's succession bargaining. The families occupying them have nowhere else to sleep. Eda asks for customers who can pay her ordinary price without buying the whole inn's loyalty.

@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Assists in negotiations and serves as an interpreter.
 
+# Dossier {#dossier}
+
 **Background.** Possesses extensive knowledge of eastern customs.
 
-**Intrigue.** Ambitious, and sees the mission as a step to greater power. Manipulates outcomes to raise her own standing, forming or breaking alliances without the Ambassador's knowledge. Aware of [[being-kadylemcudavel|Kadilem Kúdavel]]'s interest in her, and willing to use it.
+:::secret {title="Private ambitions"}
+Ambitious, and sees the mission as a step to greater power. Manipulates outcomes to raise her own standing, forming or breaking alliances without the Ambassador's knowledge. Aware of [[being-kadylemcudavel|Kadilem Kúdavel]]'s interest in her, and willing to use it.
+:::

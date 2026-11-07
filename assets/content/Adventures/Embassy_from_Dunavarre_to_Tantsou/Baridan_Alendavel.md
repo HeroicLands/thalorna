@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Manages the household and logistics of the embassy.
 
+# Dossier {#dossier}
+
 **Background.** Known for his organisational skill and his loyalty to [[affiliation-kingdmdnvr|Dúnavarre]] and its [[affiliation-dunavarsynod|Synod]].
 
-**Intrigue.** Secretly resents the Ambassador's authority, believing his own loyalty and hard work earned him a higher place. Susceptible to bribery or to conspiring against him.
+:::secret {title="Resentment of the Ambassador"}
+Secretly resents the Ambassador's authority, believing his own loyalty and hard work earned him a higher place. Susceptible to bribery or to conspiring against him.
+:::

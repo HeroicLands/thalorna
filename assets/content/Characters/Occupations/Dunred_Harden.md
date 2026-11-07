@@ -3,7 +3,8 @@ shortcode: aldredhrdn
 name: {full: Dunred Harden}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Dunred Harden trades fine cloth and worked metal from Kingshollow, supplying the royal household of the Kingdom of Aldorath."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -77,7 +78,7 @@ sohl:
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 28}}
-    - {model: skill-aelendlng, system: {masteryLevelBase: 34}}
+    - {model: skill-aelwthlng, system: {masteryLevelBase: 34}}
   system:
     body:
       structure:
@@ -397,52 +398,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Dunred Harden is a 38-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His hooded blue eyes sit beneath thin brows and give him a guarded gaze. He has a straight nose and narrow lips. He has medium-toned skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
+Dunred Harden is a 37-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His hooded blue eyes sit beneath thin brows and give him a guarded gaze. He has a straight nose and narrow lips. He has medium-toned skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Dunred Harden is a merchant of [[place-kingsholow|Kingshollow]], the old royal seat of [[affiliation-kngdmldrth|Aldorath]] in [[place-eilwith|Eilwìth]], a gentleman of a small Aldorathi house who trades in fine cloth and worked metal for the royal household and the barons' halls.
+**Age 37. Merchant.**
 
-Dunred comes of a family that holds a few farms below the king's hall, long enough to be gentry and not long enough to be barons, and his father was the first Harden to see that the hall was worth more to the house than the farms. When the court comes down to Kingshollow for a coronation or the midwinter feast, it wants hangings, plate and cloth of a kind the village does not make, and it wants them at once. Dunred supplies them, buying through the harbors of the island and selling from a warehouse at [[place-dunmere|Dunmere]] to the household and to any hall in Aldorath that wants to look as the king's does. He knows exactly what a baron will pay to be seen wearing what the king wears.
+Dunred Harden trades fine cloth and worked metal from [[place-kingsholow|Kingshollow]], supplying the royal household of the [[affiliation-kngdmldrth|Kingdom of Aldorath]]. His family holds a few farms below the hall; his warehouse at [[place-dunmere|Dunmere]] earns more than the fields. He knows the difference between a baron who wants good plate and one who wants whatever stands on the king's table.
+
+The king asks the council to accept his son in Kingshollow's chapel. Dunred keeps hangings ready without promising a crowning feast: the council has given no assent. Meanwhile the Steward's midwinter visit brings a modest order and the expectation of a royal discount.
 
 ## Psyche
 
-### Personality
-
-Dunred is shrewd, pleasant to anyone who can pay and short with anyone who cannot. He rates a man by his custom, and a market-town chapman lower than the chapman thinks fair.
-
-### Motivation
-
-Dunred wants the house richer than he found it, and he wants the royal household's custom, which a Harden with only farms would never have. The second is why he will take a loss on a coronation.
-
-### Strengths
-
-A hard bargainer, knows the luxury trade, well connected in the halls and the harbors.
+Shrewd and pleasant to paying customers, Dunred counts prestige among his expenses. He wants the household's custom badly enough to accept thin margins, but resents being treated as a storehouse the crown already owns.
 
 ## Social
 
-Dunred holds his seal from the [Merchants' Guild of Dunmere]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], and is one of the few of its members received in the king's hall.
-
-## Companions
-
-### Patrons
-
-Dunred's patrons are the royal household at Kingshollow, whose steward buys from him for every descent of the court, and the barons who follow the king's taste.
-
-### Enemies
-
-The crown's Purveyor, who may take his goods for the household at the crown's price and has begun to; and a Dunmere house of older standing that supplied the court before the Hardens did.
+The household under [[being-aldrithwlfl|Aldrith Wolfley]] is his largest buyer. Dunmere merchants supply him on credit; the village's bailiff expects deliveries whether the palace settles its account or not.
 
 ## Plot Hooks
 
-The Purveyance
-: The Purveyor has requisitioned Dunred's whole stock of cloth for the coronation at the crown's price, a third of what it cost him. He can refuse and lose the household, or accept and lose the year.
+The unconfirmed order
+: A household servant asks Dunred for hangings bearing the child's badge. Dunred wants the Steward's authority established before he lays out cloth that declares the council's answer for it.
 
-The Raider's Bolt
-: A bolt of [[lore-provenzianclt|Provénzian]] silk has come to Dunred cheap through a harbor in [[place-stormveld|Stormveld]], off a ship the [[lore-nordheimnclt|Nordmen]] took. The baron who wants it has a son who died on that ship.
-
-The Descent
-: The court is coming to Kingshollow a month early, and the steward has asked for a feast's worth of plate and hangings that are still at sea.
-
-The Baron's Account
-: A baron owes Dunred two years' custom and has just been named to the king's council. Pressing the debt would end the trade; forgiving it would end the house.
+Plate against grain
+: A baron offers grain in settlement for silver plate. Dunred asks for a buyer at Ashford, but the manor's tenants say that grain includes their seed. The exchange needs witnesses willing to hear both claims.

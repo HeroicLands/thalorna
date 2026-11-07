@@ -3,7 +3,8 @@ shortcode: hrldhlmsly
 name: {full: Harwald Helmsley}
 type: being
 subType: npc
-tags: [draft, tradesfolk]
+description: "Harwald Helmsley trains draft animals at Kaerwiind."
+tags: [tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -393,55 +394,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Harwald Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a pointed chin. His round brown eyes sit beneath expressive brows, lending him a candid gaze. A slightly upturned nose and curved lips complete his features. He has pale skin with a clear complexion. His dark brown hair is shoulder-length and loose.
+Harwald Helmsley is a 44-year-old man who stands 6'3" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a pointed chin. His round brown eyes sit beneath expressive brows, lending him a candid gaze. A slightly upturned nose and curved lips complete his features. He has pale skin with a clear complexion. His dark brown hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a peasant family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harwald Helmsley is an animal trainer.
+**Age 44. Animal Trainer.**
 
-Harwald grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
+Harwald Helmsley trains draft animals at [[place-caerwynd|Kaerwiind]]. He works a frightened horse beside a settled one, introduces harness a piece at a time and refuses to solve balking with a beating. The garrison's carts need willing teams more than splendid animals.
+
+The levies reach the fortress late and short, bringing draft beasts unfamiliar with the march roads. Harwald wants each team ready before it carries a patrol's supplies. He can teach an ox patience; teaching the officer waiting for it is harder.
 
 ## Psyche
 
-### Personality
-
-Stubborn, resistant to new techniques.
-
-### Motivation
-
-Harwald wants farmers to keep trusting him with unruly draft animals, the work he learned growing up on a farm.
-
-### Strengths
-
-Calm demeanor, knowledgeable about farm animals.
+Quiet and obstinate, Harwald trusts repeated work over clever shortcuts. He is calm around frightened animals and curt around impatient handlers. He wants the drivers to understand the teams rather than need him at every difficult turn.
 
 ## Social
 
-Harwald is affiliated with the [Farmers' Cooperative]{.name data-type="affiliation"}.
-
-## Companions
-
-### Patrons
-
-Local farmers call on Harwald to train their draft animals.
-
-### Enemies
-
-Town official who dislikes his methods.
+Farmers and garrison carters hire him directly. [[being-kenwaldhghd|Kenwald Highden]] needs sound transport for the Wiindmarch; Harwald's judgments reach the Warden through the officers buying teams. A rejected animal means an angry supplier as well as a safer cart.
 
 ## Plot Hooks
 
-The Animal Trainer's Dilemma
-: Harwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+A team for the pass
+: A supply cart has two animals that pull apart under strain. Harwald asks for a quiet practice ground and a day with the driver before the officer sends them toward [[place-sunderfells|The Sunderfells]].
 
-Old Grudges
-: Town official who dislikes his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Harwald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Harwald depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Harwald the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The borrowed ox
+: A levy arrives with an ox whose owner demands its return for plowing. Harwald needs the hiring terms read and a replacement found; neither a hungry field nor a stranded garrison can wait on a long lawsuit.

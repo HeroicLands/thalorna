@@ -373,10 +373,14 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Captain of the [[affiliation-justbladeordr|Order of the Just Blade]], and gives military counsel.
 
+# Dossier {#dossier}
+
 **Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Seilvri]] ([[lore-saelvricrusade|the Seilvri Crusade]]).
 
-**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of the [[affiliation-ardavon|Faith of Árdavon]]—and may act on her own conscience rather than the Order's official stance.
+:::secret {title="Conscience and the crusade"}
+Secretly despises that crusade, holding it contrary to the true principles of the Order and of the [[affiliation-ardavon|Faith of Árdavon]]—and may act on her own conscience rather than the Order's official stance.
+:::

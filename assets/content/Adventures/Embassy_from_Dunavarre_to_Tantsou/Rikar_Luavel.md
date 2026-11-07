@@ -17,10 +17,14 @@ data:
   packFolder: adventures
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Cares for the horses and other animals.
 
+# Dossier {#dossier}
+
 **Background.** Expert in animal care and handling.
 
-**Intrigue.** Holds secret sympathies for a rival faction within [[affiliation-kingdmdnvr|Dúnavarre]]. His divided loyalties make him a potential mole.
+:::secret {title="Divided loyalties"}
+Holds secret sympathies for a rival faction within [[affiliation-kingdmdnvr|Dúnavarre]]. His divided loyalties make him a potential mole.
+:::

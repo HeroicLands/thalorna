@@ -372,10 +372,14 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Dossier {#dossier}
+# Appearance {#appearance}
 
 **Role.** Bodyguard to the Ambassador, and gives security counsel.
 
+# Dossier {#dossier}
+
 **Background.** A brave and experienced knight of great martial reputation, lately winner of the [[lore-kelivrentrny|Royal Kelivren Tournament of Chivalry]].
 
-**Intrigue.** Feels overshadowed by [[being-toradhtaravren|Dame Torad Taravren]], whose distinctions come from real campaigns rather than tournaments. His jealousy drives him to outshine her in any confrontation, and could produce reckless decisions.
+:::secret {title="Jealousy of Dame Torad"}
+Feels overshadowed by [[being-toradhtaravren|Dame Torad Taravren]], whose distinctions come from real campaigns rather than tournaments. His jealousy drives him to outshine her in any confrontation, and could produce reckless decisions.
+:::

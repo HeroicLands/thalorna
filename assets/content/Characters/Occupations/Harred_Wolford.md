@@ -3,7 +3,8 @@ shortcode: edmndwlfrd
 name: {full: Harred Wolford}
 type: being
 subType: npc
-tags: [draft, guilded, tradesfolk]
+description: "Harred Wolford cuts and embroiders clothes in Ashford."
+tags: [guilded, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
@@ -396,55 +397,28 @@ sohl:
 
 # Appearance {#appearance}
 
-Harred Wolford is a 44-year-old man who stands 5'8" tall and is of moderate build. He has an oval face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a delicate chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has light skin with a clear complexion. His graying brown hair is kept practical and short.
+Harred Wolford is a 43-year-old man who stands 5'8" tall and is of moderate build. He has an oval face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a delicate chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has light skin with a clear complexion. His graying brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-eilwith|Eilwìth]] region to a guilded family of [[lore-aelwythanclt|Eilwìthan]] heritage, Harred Wolford is a clothier.
+**Age 43. Clothier.**
 
-Harred has been a clothier for over twenty years, running a small but reputable shop in the city that caters to both the nobility and common folk. His expertise lies in fine tailoring and embroidery, and he is known for his skill in creating custom garments for special occasions. Harred is meticulous about his work, often taking on fewer clients to ensure the highest quality.
+Harred Wolford cuts and embroiders clothes in [[place-ashford|Ashford]]. He buys wool where the kingdom's clip is graded and knows which cloth holds a fine seam. A coat leaves his shop with its lining finished as carefully as its visible face. His waiting customers appreciate that principle less than his returning ones.
+
+The council season sends barons and creditors through the town. Merchant families want clothes fit to sit beside their debtors; the barons want credit for clothes that keep them visibly above those merchants. Harred measures both and asks for a deposit before cutting.
 
 ## Psyche
 
-### Personality
-
-Perfectionist tendencies can delay completion of garments.
-
-### Motivation
-
-Harred wants each custom garment to meet his standard, even when a shorter client list costs him work.
-
-### Strengths
-
-Highly skilled in tailoring, embroidery, and working with fine fabrics.
+Meticulous and dryly humorous, Harred wants his work to survive hard wear. He cannot leave an uneven stitch alone. Promising too few delivery dates loses customers; promising enough keeps him sewing by lamplight.
 
 ## Social
 
-Harred is affiliated with the [City Tailors' Guild]{.name data-type="affiliation/guild"}.
-
-## Companions
-
-### Patrons
-
-Local nobles commission Harred's formal garments.
-
-### Enemies
-
-Competing clothiers who view his reputation as a threat.
+He deals with wool factors and household servants, whose names he remembers more reliably than their employers' titles. [[being-edithwlfrd|Edrun Wolford]] supplies metal clasps for his better coats; the two argue amiably over which fastening best survives a wet winter.
 
 ## Plot Hooks
 
-The Clothier's Dilemma
-: Harred faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Eilwìth.
+The retinue's colors
+: A baron changes the requested colors after Harred cuts the cloth, claiming that the council quarrel makes the first choice offensive. Harred needs the original order witnessed before the loss becomes his alone.
 
-Old Grudges
-: Competing clothiers who view his reputation as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
-
-Echoes of the Past
-: Something from Harred's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Eilwìth threaten to upend the social order that Harred depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Harred the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Wool across the ford
+: His chosen cloth waits on a cart whose driver refuses the bridge toll. Harred asks for help bringing it across dry; an unfinished council coat hangs in his shop and the fitting cannot wait for the court's decision on tolls.
