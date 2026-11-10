@@ -83,6 +83,44 @@ test("every culture states an appearance profile", () => {
     assert.deepEqual(missing, []);
 });
 
+/** The cultures of Zerathia's peoples, by shortcode. */
+const ZERATHIAN = [
+    "khelathiclt",
+    "deltakhelclt",
+    "bordkhelclt",
+    "bethuanclt",
+    "okharinclt",
+    "nyalubaclt",
+    "herdclanclt",
+    "bikoclt",
+    "yesomaclt",
+    "kubindoclt",
+    "pewayeclt",
+    "luwandoclt",
+    "gorgfolkclt",
+];
+const VISIBLE_FIELDS = ["frame", "skin_color", "height"];
+
+test("every Zerathian culture exists and states its own profile", () => {
+    const missing = ZERATHIAN.filter((code) => !byShortcode.has(code));
+    assert.deepEqual(missing, []);
+});
+
+test("every pair of Zerathian cultures differs in frame, skin or height", () => {
+    const same = [];
+    for (let i = 0; i < ZERATHIAN.length; i++) {
+        for (let j = i + 1; j < ZERATHIAN.length; j++) {
+            const a = byShortcode.get(ZERATHIAN[i])?.front.data.appearanceProfile;
+            const b = byShortcode.get(ZERATHIAN[j])?.front.data.appearanceProfile;
+            const differing = VISIBLE_FIELDS.filter(
+                (field) => JSON.stringify(a?.[field]) !== JSON.stringify(b?.[field]),
+            );
+            if (differing.length < 2) same.push(`${ZERATHIAN[i]} and ${ZERATHIAN[j]}`);
+        }
+    }
+    assert.deepEqual(same, []);
+});
+
 test("a culture naming only Tantsou draws the imperial core's profile", () => {
     const parent = byShortcode.get("tantsouclt");
     const core = byShortcode.get("tantsouimpclt");

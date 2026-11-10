@@ -33,12 +33,12 @@ data:
       definition: "The intermediary spirits of fertility, storm, river, death and the hunt, servants of the Eternal Flame"
       common: true
   appearanceProfile:
-    frame: {light: 3, medium: 5, heavy: 2}
-    eye_color: {dark_brown: 5, brown: 4, hazel: 1}
-    hair_color: {black: 5, dark_brown: 5}
-    skin_color: {dark_brown: 4, brown: 3, ebony: 2, tawny: 1}
-    complexion: {smooth: 3, clear: 3, weathered: 3}
-    height: {female: {min: 5' 2", max: 5' 11"}, male: {min: 5' 6", max: 6' 2"}}
+    frame: {scant: 1, light: 5, medium: 3}
+    eye_color: {dark_brown: 6, brown: 3, black: 1}
+    hair_color: {black: 7, dark_brown: 3}
+    skin_color: {brown: 4, dark_brown: 3, tawny: 3, ebony: 2, swarthy: 1}
+    complexion: {weathered: 4, sun_kissed: 3, smooth: 2, clear: 2}
+    height: {female: {min: 5' 5", max: 6' 1"}, male: {min: 5' 9", max: 6' 5"}}
 
 # terran_analog: "A rain-fed North Africa in the west and the Sahel in the east (pastoral savanna with temple-city trading centers). Carries over: nomadic grazing clans and fixed temple-cities that depend on each other, metal-craft and entrepôt trade, arranged marriage as an alliance of grazing rights. Departs: a three-flame faith served from three temple-cities, with a pyramid and pilgrimage tradition."
 ---

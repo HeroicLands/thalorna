@@ -11,7 +11,7 @@ data:
   archetypes: [warrior, woodsman]
   occupation: Caravan Guard
   lore: []
-  culture: khelathiclt
+  culture: deltakhelclt
   homes: [garanlaghet]
   affiliations: {empireakhlth: {rank: 2}, uznera: {rank: 1}}
   gender: female

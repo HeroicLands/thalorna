@@ -52,11 +52,11 @@ data:
       definition: "The high priest or high priestess of a god's temple"
       common: true
   appearanceProfile:
-    frame: {light: 4, medium: 5, heavy: 3, scant: 1}
-    eye_color: {dark_brown: 5, brown: 4, hazel: 1, amber: 1}
-    hair_color: {black: 5, dark_brown: 5}
-    skin_color: {dark_brown: 5, brown: 3, ebony: 2, tawny: 2, golden: 1}
-    complexion: {weathered: 3, smooth: 3, clear: 3}
+    frame: {scant: 1, light: 4, medium: 5, heavy: 2}
+    eye_color: {brown: 5, dark_brown: 4, hazel: 2, amber: 1}
+    hair_color: {black: 5, dark_brown: 4, brown: 1}
+    skin_color: {dark_brown: 4, brown: 4, tawny: 3, golden: 2, ebony: 1}
+    complexion: {clear: 4, smooth: 3, weathered: 2, sun_kissed: 1}
     height: {female: {min: 5' 2", max: 5' 10"}, male: {min: 5' 6", max: 6' 3"}}
 
 # terran_analog: "Egypt and Sudan (Nile valley civilization): a river-set year, a scribal and archival culture, titles that precede the personal name, weighing and burial customs for the dead. Appearance, dress and naming follow an Egyptian palette. Departs: twelve canonical gods with some forty local patron gods, magic taught as a learned profession by the Khelunu Lekhau, and ledgers of written and unwritten obligation at the center of ethics."

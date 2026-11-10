@@ -11,7 +11,7 @@ data:
   archetypes: [trader, courtier]
   occupation: "Merchant Prince"
   lore: []
-  culture: khelathiclt
+  culture: deltakhelclt
   homes: [garanlaghet]
   affiliations: {}
   gender: "male"

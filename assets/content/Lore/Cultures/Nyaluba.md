@@ -27,12 +27,12 @@ data:
     - name: "Shorinya Ndafo"
       definition: "The Great Brightness, the source of all spirits, which receives no offering"
   appearanceProfile:
-    frame: {light: 3, medium: 5, heavy: 3}
+    frame: {light: 1, medium: 5, heavy: 4}
     eye_color: {dark_brown: 7, brown: 2, black: 1}
-    hair_color: {black: 8, dark_brown: 2}
-    skin_color: {dark_brown: 5, ebony: 3, brown: 2}
-    complexion: {smooth: 4, clear: 3, weathered: 2}
-    height: {female: {min: 5' 3", max: 6' 0"}, male: {min: 5' 8", max: 6' 6"}}
+    hair_color: {black: 9, dark_brown: 1}
+    skin_color: {dark_brown: 5, brown: 4, ebony: 1, tawny: 1}
+    complexion: {smooth: 4, weathered: 3, clear: 2}
+    height: {female: {min: 5' 1", max: 5' 8"}, male: {min: 5' 5", max: 6' 0"}}
 
 # terran_analog: "Iroquois Confederacy (Haudenosaunee), Sotho-Tswana morafe and Shona heirs of Great Zimbabwe: five clan-nations bound by an ancient pact, cattle-pastoral, with a stone-ruin heritage. Carries over: a league of distinct nations under a shared covenant renewed in person, council by consensus, cattle wealth, totem clans. Departs: the five clans keep lion, crocodile, eagle, leopard and baobab totems and differ in dress, dialect and marriage custom."
 ---

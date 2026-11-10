@@ -11,7 +11,7 @@ data:
   archetypes: [commoner]
   occupation: Domestic Servant
   lore: []
-  culture: khelathiclt
+  culture: deltakhelclt
   homes: [garanlaghet]
   affiliations: {empireakhlth: {rank: 2}, gewaatis: {rank: 1}}
   gender: female

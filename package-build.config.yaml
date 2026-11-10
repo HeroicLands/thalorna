@@ -143,7 +143,7 @@ pdf:
                     - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-khelathiclt'
               - sectionName: People
                 contents:
-                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-khelathiclt'
+                    - filter: type = 'being' AND data.culture IN ('thalorna-note-lore-khelathiclt', 'thalorna-note-lore-deltakhelclt', 'thalorna-note-lore-bordkhelclt')
               - sectionName: Lore
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-khelathiclt'

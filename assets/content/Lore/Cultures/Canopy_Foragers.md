@@ -8,12 +8,12 @@ tags: [draft]
 data:
   lang: ekpe
   appearanceProfile:
-    frame: {light: 3, medium: 5, heavy: 2}
-    eye_color: {dark_brown: 6, brown: 3, black: 1}
-    hair_color: {black: 8, dark_brown: 2}
-    skin_color: {dark_brown: 4, ebony: 4, brown: 2, dark: 1}
-    complexion: {smooth: 4, clear: 3, weathered: 2}
-    height: {female: {min: 4' 10", max: 5' 6"}, male: {min: 5' 2", max: 5' 11"}}
+    frame: {scant: 1, light: 5, medium: 3}
+    eye_color: {dark_brown: 6, brown: 4}
+    hair_color: {black: 9, dark_brown: 1}
+    skin_color: {brown: 5, dark_brown: 3, tawny: 2, golden: 1}
+    complexion: {smooth: 5, clear: 4, weathered: 1}
+    height: {female: {min: 4' 5", max: 4' 11"}, male: {min: 4' 7", max: 5' 2"}}
 
 # terran_analog: "The Mbuti and BaAka foragers of the Congo basin. Carries over: small mobile bands, net-hunting, honey, leaf huts, the forest as a parent, strict sharing, a light and easily abandoned leadership, and the night song that wakes the forest. Departs: one tongue shared with every other forest tradition, no dependence on farming villages, and the dead left in an abandoned camp."
 ---

@@ -8,12 +8,12 @@ tags: [draft]
 data:
   lang: ekpe
   appearanceProfile:
-    frame: {light: 3, medium: 5, heavy: 2}
-    eye_color: {dark_brown: 6, brown: 3, black: 1}
-    hair_color: {black: 8, dark_brown: 2}
-    skin_color: {dark_brown: 4, ebony: 4, brown: 2, dark: 1}
+    frame: {light: 2, medium: 5, heavy: 3}
+    eye_color: {dark_brown: 6, black: 2, brown: 2}
+    hair_color: {black: 9, dark_brown: 1}
+    skin_color: {dark_brown: 5, ebony: 4, dark: 1}
     complexion: {smooth: 4, clear: 3, weathered: 2}
-    height: {female: {min: 4' 10", max: 5' 6"}, male: {min: 5' 2", max: 5' 11"}}
+    height: {female: {min: 5' 0", max: 5' 7"}, male: {min: 5' 4", max: 6' 0"}}
 
 # terran_analog: "The riverine fishing peoples of the Congo basin, who traded fish and foreign goods with the foraging bands of the interior. Carries over: villages on the high bank, dugouts, weirs and traps, small plantain gardens, matrilineal reckoning and hereditary trade partners. Departs: no chiefs, no farming villages of any size, and the river itself treated as the host of every guest."
 ---

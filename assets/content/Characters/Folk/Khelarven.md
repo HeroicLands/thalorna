@@ -11,7 +11,7 @@ data:
   archetypes: [commoner]
   occupation: "Animal Trainer"
   lore: []
-  culture: khelathiclt
+  culture: deltakhelclt
   homes: [garanlaghet]
   affiliations: {}
   gender: "male"

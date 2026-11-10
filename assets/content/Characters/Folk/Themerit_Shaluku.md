@@ -11,7 +11,7 @@ data:
   archetypes: [courtier]
   occupation: ""
   lore: []
-  culture: khelathiclt
+  culture: deltakhelclt
   homes: [garanlaghet]
   affiliations: {}
   gender: "female"

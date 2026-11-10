@@ -11,7 +11,7 @@ data:
   archetypes: [artisan, courtier]
   occupation: "Master of Many Works"
   lore: []
-  culture: khelathiclt
+  culture: deltakhelclt
   homes: [garanlaghet]
   affiliations: {}
   gender: "male"

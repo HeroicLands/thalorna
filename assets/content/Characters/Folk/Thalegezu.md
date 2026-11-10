@@ -11,7 +11,7 @@ data:
   archetypes: [scholar]
   occupation: "Scribe"
   lore: []
-  culture: khelathiclt
+  culture: deltakhelclt
   homes: [garanlaghet]
   affiliations: {}
   gender: "male"

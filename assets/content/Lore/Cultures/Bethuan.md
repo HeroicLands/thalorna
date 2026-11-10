@@ -66,12 +66,12 @@ data:
       definition: "The supreme war-leader, commanding army and fleet"
       common: true
   appearanceProfile:
-    frame: {light: 3, medium: 5, heavy: 2}
-    eye_color: {dark_brown: 5, brown: 4, hazel: 1}
-    hair_color: {black: 7, dark_brown: 3}
-    skin_color: {dark_brown: 4, brown: 3, golden: 2, tawny: 1}
-    complexion: {smooth: 3, clear: 3, sun_kissed: 2, weathered: 1}
-    height: {female: {min: 5' 3", max: 5' 11"}, male: {min: 5' 7", max: 6' 2"}}
+    frame: {light: 2, medium: 5, heavy: 3}
+    eye_color: {brown: 4, dark_brown: 4, hazel: 2}
+    hair_color: {black: 7, dark_brown: 3, brown: 1}
+    skin_color: {brown: 4, olive: 3, tawny: 3, dark_brown: 2, golden: 2}
+    complexion: {sun_kissed: 4, smooth: 3, clear: 3, weathered: 1}
+    height: {female: {min: 5' 4", max: 6' 0"}, male: {min: 5' 5", max: 5' 11"}}
 
 # terran_analog: "Maghreb and Carthage (Mediterranean coast shading into the Saharan interior): a naval, mercantile coast state. Carries over: seafaring, fleets and privateering, a patron relationship with the Nile-valley empire. Departs: a matriarchy in which men are property, with sworn eunuch-warriors (Spadai) as the one armed exception and a women's open-hand martial art; no real-world counterpart for that order."
 ---

@@ -11,7 +11,7 @@ data:
   archetypes: [commoner]
   occupation: Animal Trainer
   lore: []
-  culture: khelathiclt
+  culture: deltakhelclt
   homes: [garanlaghet]
   affiliations: {empireakhlth: {rank: 2}, rethsaar: {rank: 1}}
   gender: male
