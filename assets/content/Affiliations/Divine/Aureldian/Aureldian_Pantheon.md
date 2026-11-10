@@ -52,7 +52,7 @@ The Aureldian pantheon is the dominant pantheon in the western part of the [[pla
 
 | Domain     | Deity        | Epithet                     | Symbol                                             | Faith                                       |
 | ---------- | ------------ | --------------------------- | -------------------------------------------------- | ------------------------------------------- |
-| Dreams     | **Zunelas**  | The Veiled Dreamer          | Crescent moon cradling a radiant star              | [[affiliation-zunelas\|Faith of Zunelas]]   |
+| Dreams     | **Zunelas**  | The Veiled Dreamer          | Freestanding stone arch with a radiant star beyond | [[affiliation-zunelas\|Faith of Zunelas]]   |
 | Death      | **Sélmoros** | The Silent Judge            | Black gate adorned with skeletal vines             | [[affiliation-selmoros\|Faith of Sélmoros]] |
 | Storms     | **Brazemas** | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-brazemas\|Faith of Brazemas]] |
 | Order      | **Árdavon**  | The Keeper of the Gates     | Dual-faced mask, one serene, one stern             | [[affiliation-ardavon\|Faith of Árdavon]]   |
@@ -81,6 +81,6 @@ The resulting schism produced two bitterly opposed faiths, each considering the 
 : Ústaron's destructive aspect: fire as purifier, weapon, and instrument of domination. Suppressed in most kingdoms, operating through secretive orders and hidden shrines.
 
     Symbol
-    : A black flame consuming a broken chain.
+    : A mailed fist enclosed in black flames.
 
 The enmity between Sacred Forge and Black Flame runs deep. Each claims to represent Ústaron's true will, and their conflict has shaped the religious and political landscape of western Ankaris for centuries. See [[lore-ustaranschism|the Ústaran Schism]] for how the break came about and why it did not heal.

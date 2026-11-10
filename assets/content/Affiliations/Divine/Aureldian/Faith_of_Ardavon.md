@@ -65,9 +65,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Árdavon teaches that [[lore-ardavondty|Árdavon]], god of justice, cosmic law, and honorable struggle, watches over all contracts, pacts, and conflicts, ensuring that both divine and mortal order and justice are maintained. His is the faith of chivalry, of duty before desire, of the strong defending the weak not because it is easy but because it is right. Where other gods may inspire devotion through love or fear, Árdavon demands it through principle.
-
-The Faith of Árdavon is the religion of the nobility in much of the western part of the [[place-ankrscntnnt|Ankaris Continent]]—not merely because nobles worship him, but because his doctrines underpin the feudal order itself. Oaths of fealty, the codes of knightly conduct, the laws of war, and the sanctity of contracts all fall under his purview. To break a sworn oath is held to offend Árdavon directly. His temples serve as courts of law, and his priests as judges and mediators whose rulings are held to carry divine weight.
+The Faith of Árdavon serves [[lore-ardavondty|Árdavon]], whose domain, symbol and place in the pantheon are set out in his own note. His is the faith of chivalry, of duty before desire, of the strong defending the weak not because it is easy but because it is right. Where other gods may inspire devotion through love or fear, Árdavon demands it through principle.
 
 ## Worship
 

@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Lizelas teaches that [[lore-lizelasdty|Lizelas]], goddess of fertility, growth, and healing, ensures the fertility of people, animals, and the land. She is invoked during planting seasons, childbirth, rites of renewal, and healing.
+The Faith of Lizelas serves [[lore-lizelasdty|Lizelas]], whose domain, symbol and place in the pantheon are set out in her own note. The faith invokes her during planting seasons, childbirth, rites of renewal and healing.
 
 ## Worship
 

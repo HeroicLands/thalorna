@@ -57,9 +57,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Zunelas honors [[lore-zunelasdty|Zunelas]] as the goddess of dreams, celestial visions, and the veil between worlds. Its teaching holds that she brings divine inspiration and omens to mortals through their dreams and is patron to seers, oracles, healers of the mind, and all who seek truth in the world beyond waking.
-
-"Zunelas", the hallowed night in [[skill-vylarilng|Vilari]], is the Aureldian name for [[lore-goddreams|the God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] since before humanity existed. The Asguardian peoples know the same deity as [[lore-bjarturdty|Bjart]].
+The Faith of Zunelas serves [[lore-zunelasdty|Zunelas]], whose name, domain, symbol, ancestry as the God of Dreams and place in the pantheon are set out in her own note. Its teaching holds that she brings divine inspiration and omens to mortals through their dreams and is patron to seers, oracles, healers of the mind, and all who seek truth in the world beyond waking.
 
 ## Worship
 

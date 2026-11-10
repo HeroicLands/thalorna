@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Ólvenia teaches that [[lore-olveniadty|Ólvenia]], goddess of wealth, abundance, and seduction, blesses people with prosperity and physical love.
+The Faith of Ólvenia serves [[lore-olveniadty|Ólvenia]], whose domain, symbol and place in the pantheon are set out in her own note.
 
 ## Worship
 
@@ -87,4 +87,4 @@ The temples also maintain close relationships with merchant guilds, banking hous
 
 With the [[affiliation-ardavon|Faith of Árdavon]], Ólvenia maintains a practical, respectful relationship. Árdavon’s faith values order and stability, which merchant communities require to conduct business safely. In turn, prosperous, wealthy cities are stable cities, which pleases both Ólvenia's merchants and the Árdavan ideal of cosmic order. Ólvenian merchants often donate to Árdavan temples, and Árdavan magistrates protect Ólvenian temple-properties through law and justice.
 
-Ólvenia's relationship with the [[affiliation-marendas|Faith of Marendas]] is one of mutual enrichment. That faith honors [[lore-marendasdty|Marendas]], the goddess of knowledge. Knowledge leads to successful business practices; prosperity funds the pursuit of learning. Ólvenian merchants often patronize scholars, artists, and philosophers, seeing such patronage as a form of worship—the physical manifestation of abundance made available for creative pursuits. Ménérvian temples and academies receive donations from wealthy Ólvenian traders, and Ménérvian scholars often work as advisors to merchant companies on matters of trade and negotiation.
+Ólvenia's relationship with the [[affiliation-marendas|Faith of Marendas]] is one of mutual enrichment. That faith honors [[lore-marendasdty|Marendas]], the goddess of knowledge. Knowledge leads to successful business practices; prosperity funds the pursuit of learning. Ólvenian merchants often patronize scholars, artists, and philosophers, seeing such patronage as a form of worship—the physical manifestation of abundance made available for creative pursuits. Marendasan temples and academies receive donations from wealthy Ólvenian traders, and Marendasan scholars often work as advisors to merchant companies on matters of trade and negotiation.

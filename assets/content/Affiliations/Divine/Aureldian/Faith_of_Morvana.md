@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Morvana teaches that [[lore-morvanadty|Morvana]], goddess of decay, endings, and transformation, oversees the natural cycle of death and renewal, reminding mortals of life's impermanence.
+The Faith of Morvana serves [[lore-morvanadty|Morvana]], whose domain, symbol and place in the pantheon are set out in her own note.
 
 ## Worship
 

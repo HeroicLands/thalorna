@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Sélmoros honors [[lore-selmorosdty|Sélmoros]] as the god of death, the underworld, and corruption. In its teaching, he is a fearsome figure, embodying both implacability and terror.
+The Faith of Sélmoros serves [[lore-selmorosdty|Sélmoros]], whose domain, symbol and place in the pantheon are set out in his own note. In its teaching he is a fearsome figure, embodying both implacability and terror.
 
 ## Worship
 

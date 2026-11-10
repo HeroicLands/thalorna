@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Karnavos teaches that [[lore-karnavosdty|Karnavos]], god of wildness, unpredictability, and primal energy, represents the untamed force of nature and the chaotic change necessary for growth.
+The Faith of Karnavos serves [[lore-karnavosdty|Karnavos]], whose domain, symbol and place in the pantheon are set out in his own note.
 
 ## Worship
 

@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Lusinia teaches that [[lore-lusiniadty|Lusinia]], goddess of life, earth, and creation, spins the fabric of existence and nurtures all living beings, from the smallest seed to the mightiest beast.
+The Faith of Lusinia serves [[lore-lusiniadty|Lusinia]], whose domain, symbol and place in the pantheon are set out in her own note.
 
 ## Worship
 

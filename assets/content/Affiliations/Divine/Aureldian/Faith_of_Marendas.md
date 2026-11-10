@@ -63,7 +63,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Marendas honors [[lore-marendasdty|Marendas]] as the goddess of learning, language, and invention. In its teaching, she illuminates the minds of scholars, craftsmen, and leaders, guiding them to wisdom.
+The Faith of Marendas serves [[lore-marendasdty|Marendas]], whose domain, symbol and place in the pantheon are set out in her own note.
 
 ## Worship
 
