@@ -49,6 +49,19 @@ function cultureLanguage(culture, seen = new Set()) {
     return undefined;
 }
 
+/** A culture's appearance profile: its own, else its first parent culture's. */
+function cultureProfile(culture, seen = new Set()) {
+    if (culture.front.data?.appearanceProfile) return culture.front.data.appearanceProfile;
+    seen.add(culture.front.shortcode);
+    for (const parent of culture.front.data?.parents ?? []) {
+        const next = byShortcode.get(String(parent).replace(/^lore-/, ""));
+        if (!next || seen.has(next.front.shortcode)) continue;
+        const found = cultureProfile(next, seen);
+        if (found) return found;
+    }
+    return undefined;
+}
+
 test("the content tree holds culture notes", () => {
     assert(cultures.length > 0);
 });
@@ -65,7 +78,24 @@ test("every culture resolves the language its people speak", () => {
 
 test("every culture states an appearance profile", () => {
     const missing = cultures
-        .filter(({ front }) => !front.data?.appearanceProfile)
+        .filter((culture) => !cultureProfile(culture))
         .map(({ file }) => `${file}: no data.appearanceProfile`);
     assert.deepEqual(missing, []);
+});
+
+test("a culture naming only Tantsou draws the imperial core's profile", () => {
+    const parent = byShortcode.get("tantsouclt");
+    const core = byShortcode.get("tantsouimpclt");
+    assert(parent && core);
+    assert.deepEqual(cultureProfile(core), parent.front.data.appearanceProfile);
+});
+
+test("the Tantsou child cultures state profiles that differ from the parent", () => {
+    const parent = byShortcode.get("tantsouclt").front.data.appearanceProfile;
+    for (const shortcode of ["tantsoutribclt", "tantsoumrchclt"]) {
+        const culture = byShortcode.get(shortcode);
+        assert(culture, shortcode);
+        assert.deepEqual(culture.front.data.parents, ["lore-tantsouclt"]);
+        assert.notDeepEqual(culture.front.data.appearanceProfile, parent);
+    }
 });

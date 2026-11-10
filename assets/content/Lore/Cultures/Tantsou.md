@@ -244,6 +244,10 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is [[being-tuijawengyan|Tuija Wengyan]]. A general of the Wohou, named Iron Spear Piercing the Clouds for his service, received an imperial order to hold his position, judged it a mistake, attacked and won. A battle won by defying an order is proof the order was wrong, and an imperial order cannot be wrong without the Mandate behind it being questioned. So the court stripped him of his rank and exiled him, and the registry recorded the victory under another commander's name. The empire entered a falsehood in the scroll it holds to be the mortal twin of heaven's, in order that its own pattern might stay unbroken, and it made an enemy of the best general it had. The same habit is visible in the south, where the rice harvests have failed several years running and the Tanchei are divided between a reading of broken classification in the domains of Earth and Water and a reading that the Mandate is weakening, which no scholar puts in writing. The empire cannot say aloud what the evidence of its own harvests says, because saying it would be a filing that cannot be withdrawn.
 
+## The Peoples of the Tantsou
+
+Three peoples share the eight castes, the script and the calendar. The [[lore-tantsouimpclt|imperial core]] is the Tantsou of the river basins and the court, and its look is the profile of the Tantsou as a whole. The [[lore-tantsoutribclt|tributary peoples]] hold the subtropical southern coast and its deltas. The [[lore-tantsoumrchclt|frontier peoples]] hold the northern marches and the western passes.
+
 ## See Also
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
@@ -272,6 +276,15 @@ The sin is [[being-tuijawengyan|Tuija Wengyan]]. A general of the Wohou, named I
 
 [[lore-clndrstrlgy|Calendar and Astrology]]
 : the festivals and the spirit animals
+
+[[lore-tantsouimpclt|Imperial Tantsou]]
+: the imperial core
+
+[[lore-tantsoutribclt|Tantsou Tributary Peoples]]
+: the southern coast and its deltas
+
+[[lore-tantsoumrchclt|Tantsou Frontier Peoples]]
+: the northern marches and western passes
 
 [[lore-medicine|Medicine]]
 : the healers and the body as a small sorted world
