@@ -3,12 +3,12 @@ shortcode: hllsndrfrtrs
 name: {full: The Hulls Under the Fortress}
 type: scenario
 subType: adventure
-description: "Two galleys built at the empire's war-port row in the Corsair League's convoys under the Strait Fortress, the admiral who wants war with Taruzel does not know it, and the shipping houses of Salkalon would pay to be the ones who tell the Senate."
+description: "Two galleys built at the empire's war-port now row in the Corsair League's convoys under the Strait Fortress, the admiral who wants war with Taruzel does not know it, and the shipping houses of Salkalon would pay to be the ones who tell the Senate."
 tags: []
 data:
   parents: []
   locations: [salkhalon, castamar, mercavia, kurzalora, straitfortress, yamuzel2]
-  cast: [dlzrtndn, brshrskn]
+  cast: [dlzrtndn, brshrskn, tharkasgurim, yalzemakaldr]
   factions: [provincvld, vylrnmltry, corsairleg, tanaduni, rusakuni, cnfdrtntrzlnstts]
   follows: []
   party: {size: null, archetypes: []}
@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-[[affiliation-provincvld|Salkalon]]'s three powers want different things from Taruzel, and none can afford its wish. Its merchants want a trade treaty with the Confederation. Its admiralty at [[place-castamar|Kastamar]], under the _vormeks_ [Tharkas Gurimandis]{.name data-type="being/npc"}, wants the war resumed and cannot pay for the fleet it has. Its customs are farmed to a man in debt to the islands. Across the strait the Taruzelian admiral [[being-dlzrtndn|Delzuru Tanaduni]] presses for a League toll on every hull that passes under [[place-straitfortress|the Strait Fortress]]. The party is drawn in on the Vilérian coast by a widow's question, a merchant's petition or an admiral's suspicion, and the trail crosses the strait to the roads under the fortress, where both navies' secrets lie at anchor.
+[[affiliation-provincvld|Salkalon]]'s three powers want different things from Taruzel, and none can afford its wish. Its merchants want a trade treaty with the Confederation. Its admiralty at [[place-castamar|Kastamar]], under the _vormeks_ [[being-tharkasgurim|Tharkas Gurimandis]], wants the war resumed and cannot pay for the fleet it has. Its customs are farmed to a man in debt to the islands. Across the strait the Taruzelian admiral [[being-dlzrtndn|Delzuru Tanaduni]] presses for a League toll on every hull that passes under [[place-straitfortress|the Strait Fortress]]. The party is drawn in on the Vilérian coast by a widow's question, a merchant's petition or an admiral's suspicion, and the trail crosses the strait to the roads under the fortress, where both navies' secrets lie at anchor.
 
 ## What Is Really Happening {#what-is-really-happening}
 
@@ -25,7 +25,7 @@ data:
 
 **Who wants it known.** If the Senate learns of the sale, the admiral who wants war with Taruzel stands as the admiral who armed it, and the war party in Orzara loses its best voice. The shipping houses of [[place-mercavia|Delalara]], whose first voice is [Ornetha Venthelis]{.name data-type="being/npc"}, would pay a great deal to be the ones who tell it. A Taruzelian merchant captain lodging at the Slipway inn has recognized one hull's lines and said so to a sailor.
 
-**The strait.** On the islands' side, Delzuru Tanaduni wants the toll. The foreign masters waiting in the roads for a convoy mean to fight it, and the fortress's day-book is the only honest count of what the toll would raise. A Vilérian agent lies in the roads in a merchant hull, holding the lines of the League's newest galley, bought from a Yamuzel shipwright with a stolen keel as proof. The lines are [[being-brshrskn|Abarash Rusakuni]]'s, and the League's Master of the Naval Yards wants them back before the Rusakuni hear.
+**The strait.** On the islands' side, Delzuru Tanaduni wants the toll. The foreign masters waiting in the roads for a convoy mean to fight it, and the fortress's day-book is the only honest count of what the toll would raise. A Vilérian agent lies in the roads in a merchant hull, holding the lines of the League's newest galley, bought from a Yamuzel shipwright with a stolen keel as proof. The lines are [[being-brshrskn|Abarash Rusakuni]]'s, and the League's Master of the Naval Yards has told Abarash first and wants them back before more copies leave the agent's hands.
 
 **The oarsmen.** Kastamar's oarsmen are paid in notes a waterfront moneylender buys at half face from men who believe the next quarter is not coming. Some walk up the coast to [[place-kurzalora|Kurzalora]], vow themselves to the god and go down the landward side by night to berths on merchant ships under other names.
 
@@ -34,7 +34,7 @@ data:
 
 ## Hooks {#hooks}
 
-- **The thief.** The League's Master of the Naval Yards hires a party to recover the drawings of the newest galley from the Vilérian agent's hold in the roads, before the Rusakuni learn they are gone.
+- **The thief.** The League's Master of the Naval Yards brings the news to Abarash, then hires a party to recover the drawings of the newest galley from the Vilérian agent's hold in the roads and learn who else has a copy.
 - **The mercenary or soldier.** The admiral at Kastamar wants to know who has been telling his oarsmen that the next quarter is not coming, and hires a party to sit in the waterfront taverns and find out.
 - **The leader.** Ornetha Venthelis hires a party to carry the shipping houses' treaty petition to Orzara rather than trust the post, and asks them first to look at the League galleys in the roads of Yamuzel.
 - **The wanderer.** A widow has found her husband's name cut on the mole among the dead of the Tamzir Shoals, and a sailor home from Taruzel says he is alive and rowing in the islands. She asks a party to find out which is true before she remarries.
@@ -83,7 +83,7 @@ The mole at Kastamar at evening, beside the names of the Shoals dead. Half the s
 
 **Purpose.** An optional side road that shows where the fleet's men go.
 
-**Situation.** The shrine of Brazemas above the sea. A party of marines and a surveyor has come to measure the Vigil Tower with a letter of leave from the _therkos_, and the Priest of Storms, [Yalzema Kaldremis]{.name data-type="being/npc"}, doubts that he signed it.
+**Situation.** The shrine of Brazemas above the sea. A party of marines and a surveyor has come to measure the Vigil Tower with a letter of leave from the _therkos_, and the Priest of Storms, [[being-yalzemakaldr|Yalzema Kaldremis]], doubts that he signed it.
 
 **NPCs and threats.** The marines, who have orders and no wish to use them; the priest; and a vowed oarsman who means to go down the landward side tonight.
 

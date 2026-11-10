@@ -3,6 +3,7 @@ shortcode: azatodmzns
 name: {full: Azato Damzanis}
 type: being
 subType: npc
+description: "The Thordimalon's alchemist at Tirellan and the city's best-known scholar, a cold and eloquent Master of the Fisera whose work on mineral transmutation and embalming is admired and watched."
 tags: [guilded, mages]
 data:
   icon: icon-person

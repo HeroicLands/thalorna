@@ -3,7 +3,8 @@ shortcode: xenoksbrds
 name: {full: Zenokos Bardas}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A young guard of Alessar's city guard, conscientious and still green, who keeps asking about a spice importer's black market and is told to stop."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -370,13 +371,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Zenokos is young and still growing into himself—twenty-one years old, 5'9", with a light build that makes him look more like a clerk than a guardsman. His dark brown hair is worn longer than regulation permits, falling across his forehead in a way that his sergeant has remarked upon more than once. His honey-brown eyes sit in a pale, almost sallow face that rarely sees sunlight, and a thin scar runs across his forehead from an incident during his first month on duty that he would prefer to forget. His features are fine-boned and [[lore-vylarianclt|Vilérian]] in the classical sense: high forehead, straight nose, narrow chin. He wears his district guard uniform of the [[affiliation-provinclys|Province of Alessa]]—padded tunic, leather bracers, short sword at his hip—with the self-conscious stiffness of someone who has not yet learned to forget he is wearing it.
+Zenokos Bardas is young and still growing into himself—twenty-one years old, 5'9", with a light build that makes him look more like a clerk than a guardsman. His dark brown hair is worn longer than regulation permits, falling across his forehead in a way that his sergeant has remarked upon more than once. His honey-brown eyes sit in a pale, almost sallow face that rarely sees sunlight, and a thin scar runs across his forehead from an incident during his first month on duty that he would prefer to forget. His features are fine-boned and [[lore-vylarianclt|Vilérian]] in the classical sense: high forehead, straight nose, narrow chin. He wears his district guard uniform of the [[affiliation-provinclys|Province of Alessa]]—padded tunic, leather bracers, short sword at his hip—with the self-conscious stiffness of someone who has not yet learned to forget he is wearing it.
 
 # Dossier {#dossier}
 
 Zenokos Bardas is a guard of Alessar's city guard quartered in the watch-house below the [Governor's House]{.name data-type="place/structure"} in [[place-alyssar|Alessar]], the seat of [[affiliation-provinclys|the Province of Alessa]]. He walks the central district, the richest and most crowded quarter of the city, where merchants, minor nobles and prosperous tradespeople live beside their servants and the city's poor, and at assize time he walks the inns of [Petitioners' Row]{.name data-type="place/feature"} at night with the rest of the cohort.
 
-He joined eighteen months ago at twenty, full of idealism about protecting his home city, and the idealism has held up better than he expected. He is conscientious and quick to learn, and still green. The old sergeant of the district, [[being-ganothisdora|Ganothis Dorandates]], has taken him under his wing, and this year a new senior officer, [[being-zurmelosorth|Zurmelos Orthemandis]], has taken command of the station over Ganothis's head.
+He joined eighteen months ago at nineteen, full of idealism about protecting his home city, and the idealism has held up better than he expected. He is conscientious and quick to learn, and still green. The old sergeant of the district, [[being-ganothisdora|Ganothis Dorandates]], has taken him under his wing, and this year a new senior officer, [[being-zurmelosorth|Zurmelos Orthemandis]], has taken command of the station over Ganothis's head.
 
 ## Background
 

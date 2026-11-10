@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "The Palvar, the Grand Palace of Orzara—the largest single structure in the known western world, a city of marble within the Inner City: terraced halls, throne rooms, hanging gardens, and private baths rising over the crown of Arvel, and the stage on which the Thordimalon is permitted to show off."
 tags: [settlement, vylaria, imperial, orzara, palace, district]
-data: {demonym: null, lore: [], parents: [vylariargn], population: 3000, government: vylarinmpr}
+data: {demonym: null, lore: [], parents: [orzara], population: 3000, government: vylarinmpr}
 ---
 
 ## Palvar—The Grand Palace
@@ -20,7 +20,7 @@ The palace turns its splendor outward by design. An embassy received here, a pet
 
 ### The Hand of the Thordimalon
 
-The Palvar is the one place in the Empire where the [[affiliation-ordoarcanis|Thordimalon]] is permitted—_encouraged_, even—to show off. Elsewhere the Order keeps its workings discreet, its wards unseen, its hand felt but not displayed; here the throne wants the marvels visible, because a court that commands such wonders is a court no rival can match. The most famous of these is the **[[place-magngndorery|Grand Orrery]] (the Mechanical Court)**, and the standing displays of the Hand of the Thordimalon (the Arcane Order), devices and effects that visiting envoys carry home as evidence that Viléria's power does not rest on legions and gold alone. (The [[place-orzara|Orzara]] note describes the Hand of the Arcane Order.) That the Order works openly within the palace also makes natural its quieter presence elsewhere on the hill—the warded inner seat of the [[place-aulpnpstmm|Ombalon]] sharing the same crown, its brilliance and the [[affiliation-panepistmm|Epistémion]]'s secrecy two faces of one arrangement.
+The Palvar is the one place in the Empire where the [[affiliation-ordoarcanis|Thordimalon]] is permitted—_encouraged_, even—to show off. Elsewhere the Order keeps its workings discreet, its wards unseen, its hand felt but not displayed; here the throne wants the marvels visible, because a court that commands such wonders is a court no rival can match. The most famous of these is the **[[place-magngndorery|Grand Orrery]] (the Mechanical Court)**, and the standing displays of the Hand of the Thordimalon (the Arcane Order), devices and effects that visiting envoys carry home as evidence that Viléria's power does not rest on legions and gold alone. That the Order works openly within the palace also makes natural its quieter presence elsewhere on the hill—the warded inner seat of the [[place-aulpnpstmm|Ombalon]] sharing the same crown, its brilliance and the [[affiliation-panepistmm|Epistémion]]'s secrecy two faces of one arrangement.
 
 ### A Hill Within a Hill
 

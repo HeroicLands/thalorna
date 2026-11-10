@@ -4,7 +4,7 @@ name: {full: Ataros}
 type: lore
 subType: deity
 description: "The Sacred Flame of the Ashaian pantheon, in whose fire the tradition works its purifications."
-tags: [draft]
+tags: []
 data: {packFolder: deitiesashalan, culture: dunhariclt}
 ---
 

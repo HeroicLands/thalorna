@@ -51,7 +51,7 @@ The arena lies in the oldest quarry pit, under the terraces. Its walls are the c
 
 ## Who Rules and Keeps Order
 
-The town is governed by its [[affiliation-gldbrdshrmn|Guild Board]], seven masters who sit for the town's guilds in the guild hall on the harbor square. The First of the Board holds the town's seal; this term he is [Qadurum Basharuni]{.name data-type="being/npc"}, a quarry master whose house cuts the largest of the terraces. The Arbitrators answer to the Grand Council alone, and the board's magistrates hear none of their cases. The magistrates hear the town's own: debts, thefts, brawls on the quay and quarrels between guilds.
+The town is governed by its [[affiliation-gldbrdshrmn|Guild Board]], seven masters who sit for the town's guilds in the guild hall on the harbor square. The First of the Board holds the town's seal; this term he is [[being-qdrmbshrni|Qadurum Basharuni]], a quarry master whose house cuts the largest of the terraces. The Arbitrators answer to the Grand Council alone, and the board's magistrates hear none of their cases. The magistrates hear the town's own: debts, thefts, brawls on the quay and quarrels between guilds.
 
 A shopkeeper robbed in the night goes first to the warden of his own guild, who knows its apprentices and its debtors. If the warden cannot help, the shopkeeper lays the theft before a magistrate of the board, and a magistrate's sentence is a fine, a flogging at the harbor post or, for a theft above a set sum, the arena. The town watch is quarrymen, paid by the board and armed with staves, who walk the square and the quay at night and do not go into the furnace street, where the glassmakers keep their own peace.
 

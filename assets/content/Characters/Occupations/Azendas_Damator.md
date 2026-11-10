@@ -3,7 +3,8 @@ shortcode: azendsdmtr
 name: {full: Azendas Damator}
 type: being
 subType: npc
-tags: [draft, clergy]
+description: "The senior priest of the Faith of Lizelas on the Tirellan circuit, a former levy soldier turned healer who blesses the farming villages' fields and takes the temple's sheaf in ten."
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null

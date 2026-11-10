@@ -10,14 +10,19 @@ data:
   lore: []
   parents: [vylariargn]
   population: 900000
-  routes: [{to: tyrellan, bearing: N, mode: land, days: 20, terrain: [road]}]
+  routes:
+    - {to: tyrellan, bearing: N, mode: land, days: 20, terrain: [road]}
+    - {to: alyssar, bearing: W, mode: land, days: 1, terrain: [road]}
+    - {to: aravantia, bearing: E, mode: land, days: 10, terrain: [road]}
+    - {to: mercavia, bearing: S, mode: land, days: 5, terrain: [road]}
+    - {to: aelissium, bearing: S, mode: land, days: 5, terrain: [road]}
   packFolder: vylaria
   government: verdanorzara
 ---
 
 > _"All roads are the [[affiliation-vylarinmpr|Empire]]'s roads, and every one of them runs home to Orzara."_—Vilérian proverb
 
-**Orzara**, the sovereign's city, which the whole west calls the Great City, is the capital of the Vilérian Empire, a city of nearly a million built to show the world an empire at its height, and kept that way, street by street, by an empire that is no longer there. It is the largest city in [[place-midhalnrgn|Midhalión Region]] and in all of the western part of the [[place-ankrscntnnt|Ankaris Continent]]. With about **900,000 souls**, counting both those within the city proper and the sprawling outskirt communities pressed against it, it is outmatched only by the great cities of [[affiliation-tantsouempr|Empire of Tantsou]] far to the east and of the [[place-kiichchik|Kì'ìch'chik]] peoples far to the west. To the ordinary subject of the western world it is simply **the Polis**, the City entire, the measure every other city falls short of, and in its own people's eyes the greatest city in [[place-worldthlrn|the World of Thalorna]].
+**Orzara**, the sovereign's city, which the whole west calls the Great City, is the capital of the Vilérian Empire, a city of nearly a million built to show the world an empire at its height, and kept that way, street by street, by an empire that no longer holds its former reach. It is the largest city in [[place-midhalnrgn|Midhalión Region]] and in all of the western part of the [[place-ankrscntnnt|Ankaris Continent]]. With about **900,000 souls**, counting both those within the city proper and the sprawling outskirt communities pressed against it, it is outmatched only by the great cities of [[affiliation-tantsouempr|Empire of Tantsou]] far to the east and of the [[place-kiichchik|Kì'ìch'chik]] peoples far to the west. To the ordinary subject of the western world it is simply **the Polis**, the City entire, the measure every other city falls short of, and in its own people's eyes the greatest city in [[place-worldthlrn|the World of Thalorna]].
 
 It rises across a cluster of [[place-sixhillsvyl|six hills]] above the eastern bank of the [[place-vylarisrvr|River Vilaris]], the highest of them crowned by the citadel and the palace. From a distance it looks less like a settlement than a mountain range of marble, tile and gilded bronze, under the smoke of a hundred thousand hearths and the glittering domes of the [[affiliation-ordoarcanis|Thordimalon]]. Its people call themselves **Orzarans**, and they say the word as though it settles every argument.
 
@@ -25,7 +30,7 @@ A pedicab runner who has worked the avenues for twenty years gives every new arr
 
 ## The Shape of the City
 
-Orzara grew, as great cities do, in rough rings of fortune if not of geometry—for the hills and the river (see _The Site_ below) bend its true plan well out of any circle. At its heart, upon the highest hill, sits [[place-arvon|]]—the Inner City, a walled citadel-within-a-city housing the temples, the palaces, and the machinery of empire. Around and below it spread the great civic districts, and beyond _those_ the dense residential and commercial quarters, until the stone gives way to the chaotic, half-legal warren of the **outskirt communities** that have spilled beyond the Clearance like floodwater.
+Orzara grew, as great cities do, in rough rings of fortune if not of geometry—for the hills and the river (see _The Site_ below) bend its true plan well out of any circle. At its heart, upon the highest hill, sits [[place-arvon|Arvon]]—the Inner City, a walled citadel-within-a-city housing the temples, the palaces, and the machinery of empire. Around and below it spread the great civic districts, and beyond _those_ the dense residential and commercial quarters, until the stone gives way to the chaotic, half-legal warren of the **outskirt communities** that have spilled beyond the Clearance like floodwater.
 
 The citadel is ringed by its ancient [Inner Wall]{.name data-type="place/structure"}, but the city at large has none—a metropolis of nearly a million is far too vast to wall, and Orzara, deep in the imperial heartland with its enemies held at distant frontiers, has never needed to be. The city's edge is instead a **boundary**: the sacred **thrima**, made absolute on the ground by **the Clearance**, a swept hundred-foot strip of open land that by ancient decree must be kept forever empty. Buildings crowd to its inner edge and stop dead, as though against an invisible wall; the [[affiliation-citywatchorz|City Watch]] keep their stations on the gate-roads that cross it. (See _The Thrima and the Clearance_ below.)
 
@@ -162,7 +167,7 @@ The [[place-heightsorz|Heights]]
 The [[place-warrensorz|Warrens]]
 : the dense tenement wards that fill the valleys and lower slopes, packed thickest on **Nerval** above the Wharves: many-storied _tengali_ of brick and timber, home to the citizen-veterans and the sponsored working folk whose livelihoods keep them within the city.
 
-The city's pleasures keep their own quarters too—the [[place-magntheatredstr|Theatre District]] and the Racecourse quarter about the **Racecourse Circle**—but those belong to its public life (see _Spectacle and the Public Life_).
+The city's pleasures keep their own quarters too—the [[place-magntheatredstr|Theater District]] and the Racecourse quarter about the **Racecourse Circle**—but those belong to its public life (see _Spectacle and the Public Life_).
 
 ### The Velmiros
 
@@ -217,6 +222,8 @@ The dole is the bargain that recruits the legions and the leash that binds the E
 
 ### Getting About
 
+By road, [[place-alyssar|Alessar]] lies west, one day away. [[place-aravantia|Aravantara]] lies east, ten days away. Both [[place-mercavia|Delalara]] and [[place-aelissium|Elissara]] lie south, five days away. [[place-tyrellan|Tirellan]] lies north, twenty days away.
+
 For all its size, Orzara is a city crossed on foot. A metropolis of nearly a million cannot afford to keep beasts of burden within the city in any number—every horse, mule, or ox must be fed, watered, housed, and mucked out, and the dung and carcasses of thousands of animals would foul a dense city beyond bearing. So the draft animals stay outside. Goods arriving by road are hauled to the great transit-yards at the gates, where the teams are stabled out in the outskirts and the cargo is broken down onto handcarts and porters for the journey in. Within the city, ordinary folk walk, and those with coin hire a **pedicab**—the light, human-drawn two-wheeled chairs whose runners are a guild of their own, threading the avenues and lesser lanes at a steady trot.
 
 Animals within the city are a privilege of the state, not the citizen. The only stables of any size inside the city belong to the [[affiliation-sorvan|Sorvan]] in the Inner City and to the City Watch's watch-houses, kept small and provisioned for the needs of order rather than commerce. Even the grandest _kurthos_ is carried to the Circle in a chair, not drawn by a team; to keep a private stable within the city is a rare and pointed extravagance, licensed and taxed accordingly.
@@ -268,9 +275,9 @@ The [[place-rathaunamelvar|Rathauna Melvar]] is a colossal oblong arena, the lar
 
 The roar of the Racecourse on a race day can be heard across half the city, and an Orzas ignores the mood of those crowds at his peril.
 
-### The Theatre District
+### The Theater District
 
-A quieter and no less celebrated quarter is the [[place-magntheatredstr|Theatre District]], where great semicircular **theaters and odeons** host tragedies, comedies, recitations, and music. The Vilérian stage is famous across the world; its masked players, its hydraulic stage-machinery (some of it Order-touched), and its musicians draw audiences of every class. By night the district is a glittering, slightly disreputable place of performance, patronage, late suppers, and intrigue.
+A quieter and no less celebrated quarter is the [[place-magntheatredstr|Theater District]], where great semicircular **theaters and odeons** host tragedies, comedies, recitations, and music. The Vilérian stage is famous across the world; its masked players, its hydraulic stage-machinery (some of it Order-touched), and its musicians draw audiences of every class. By night the district is a glittering, slightly disreputable place of performance, patronage, late suppers, and intrigue.
 
 ### Baths, Markets, and Forums
 
@@ -321,6 +328,9 @@ The city began on [[place-antel|Antel]], the Old Hill, where the [Vilérian Repu
 
 ## See Also
 
+[[place-aulpnpstmm|Court of the Academy]]
+: the Ombalon, the Academy’s ceremonial inner seat
+
 - [[affiliation-vylarinmpr|Vilérian Empire]]—the empire whose capital this is
 - [[place-arvon|Arvon]]—the Inner City on Arvel
 - [[place-palvar|Grand Palace]]—the Palvar, seat of the throne
@@ -335,7 +345,7 @@ The city began on [[place-antel|Antel]], the Old Hill, where the [Vilérian Repu
 - [[place-outskirtsorz|Outskirts]]—the working city beyond the Clearance
 - [[place-magngndorery|Grand Orrery]]—the Mechanical Court
 - [[place-rathaunamelvar|Rathauna Melvar]]—the great arena
-- [[place-magntheatredstr|Theatre District]]—the quieter quarter of pleasure
+- [[place-magntheatredstr|Theater District]]—the quieter quarter of pleasure
 - [[place-necropolisorzara|Necropolis of Orzara]]—the city of the dead
 - [[affiliation-verdanorzara|Verdan Orzara]]—the council and courts of the city
 - [[affiliation-citywatchorz|The City Watch]]—the legions' branch that keeps the city's peace and its fires

@@ -86,7 +86,7 @@ data:
         - whether these rowers were the first Nordmen in imperial pay, which the town claims and the empire's chroniclers date otherwise
 ---
 
-**The Winter of the Banked Fire** is the reason a fishing town on the warm Vilérian coast carries a northern name. It is a small event in the history of [[lore-southrnfleets|the Southern Fleets]], forty men out of the hirvs of three kingdoms, and the only time those fleets touched the Vilérian heartland.
+**The Winter of the Banked Fire** is the reason a fishing town on the warm Vilérian coast carries a northern name. It is a small event in the history of [[lore-southrnfleets|the Southern Fleets]], forty Malagna men, and the only time those fleets touched the Vilérian heartland.
 
 ## The Door-Faring
 

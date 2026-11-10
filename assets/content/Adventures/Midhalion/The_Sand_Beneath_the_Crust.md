@@ -77,7 +77,7 @@ The party reaches the Wharves after midnight, when the barges land. The horn sou
 
 **Situation.** Upriver at [[place-ostenna|Ostenna]], a barge has waited eleven days in the midstream line while later ones loaded. Boatmen, warehousemen and toll-clerks find reasons not to sail, not to load and not to pass a manifest. A toll-clerk was pulled from the river below the Landing last week.
 
-**NPCs and threats.** The three trades of the Landing, and one broker's agent who pays them all and sells the timing of each slowdown to a second broker. The drowned clerk's fraternity wants to know who killed him; it did not.
+**NPCs and threats.** The three trades of the Landing, and one broker's agent who pays them all and sells the timing of each slowdown to a second broker. The boatmen's fraternity buried the drowned toll-clerk. Its members did not drown him and want to know who did.
 
 **Player choices.**
 
@@ -105,7 +105,7 @@ The party reaches the Wharves after midnight, when the barges land. The horn sou
 - _Wait for the granary-keeper_ and follow him home.
 - _Buy the copy stamp_, which proves the forgery to anyone who compares it with the true one.
 
-**Clues and rewards.** The copy stamp, and the seal-cutter's account of every opening the keeper remade.
+**Clues and rewards.** The copy stamp, and the seal-cutter's account of every opening the keeper remade. If the party missed the broker's ledger in Scene One, it is here, sent by the broker for safekeeping; it names the granary-keeper as a seller three winters running.
 
 **Consequences.** A party holding the stamp holds proof that the city's count is false. Every house in the city would pay for it.
 

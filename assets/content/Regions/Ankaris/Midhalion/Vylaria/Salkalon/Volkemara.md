@@ -46,7 +46,7 @@ The net-masters keep the grounds to themselves, and the grounds are being presse
 
 ## Where a Party Lodges
 
-The [Painted Eye]{.name data-type="place/structure"}, at the head of the beach, is the town's inn, kept by the widow of a net-master, and its rooms smell of salt and smoke whatever the season. Factors' agents rent the rooms above the curing-sheds for the winter. A party willing to row can be taken onto a boat short of a man and paid a share, and it learns more about the town in a night at the nets than in a month at the inn.
+The [Painted Eye]{.name data-type="place/structure"}, at the head of the beach, is the town's inn, kept by the widow of a net-master, and its rooms smell of salt and smoke whatever the season. Factors' agents rent the rooms above the curing-sheds for the winter. A party willing to row can be taken onto a boat short of a man and paid a share.
 
 ## Hooks {#hooks}
 
@@ -77,4 +77,4 @@ The sea did not take [Tholmaros Iltheris]{.name data-type="being/npc"}. He was t
 
 On the first night of the autumn gales three net-masters rowed out with him to bring in his nets, and came back without him. The next morning the Priest of Storms gave his name to the water from the Weather Stone, as the custom requires, and the town did not ask. The priest does not know what happened in the boat. He knows that the three men came to his door with the dead man's name before their boat was drawn up on the beach, and he has decided not to wonder.
 
-The widow, [Nizelen Iltheris]{.name data-type="being/npc"}, has the contract. It was signed and sealed before her husband died, and under it the Venthelis house owns his boats and his grounds from the day the money is paid. She has not told the house that she has it, because the net-masters have offered her twice his share to burn it, and because she wants to know which of the three held him under before she decides.
+The widow, [[being-nizelenilth|Nizelen Iltheris]], has the contract. It was signed and sealed before her husband died, and under it the Venthelis house owns his boats and his grounds from the day the money is paid. She has not told the house that she has it, because the net-masters have offered her twice his share to burn it, and because she wants to know which of the three held him under before she decides.

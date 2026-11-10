@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [vylariargn]
   population: 5000000
-  borders: [{to: vylarianse, bearing: S}]
+  borders: [{to: vylarianse, bearing: S}, {to: alyssa, bearing: N}, {to: hylen, bearing: N}]
   packFolder: vylaria
   government: provincvld
 ---
@@ -18,6 +18,8 @@ data:
 ## Overview
 
 The coast of the [[place-vylariargn|Viléria Region]] along the [[place-vylarianse|Vilérian Sea]] is a working shore of shipyards, naval bases and fishing towns, with agrarian estate-country behind it. This is Salkalon, the whole shore, the land of the [[affiliation-provincvld|Province of Salkalon]] of the [[affiliation-vylarinmpr|Vilérian Empire]], and five million people live here. Its seat is [[place-mercavia|Delalara]].
+
+Salkalon borders [[place-alyssa|Alessa]] and [[place-hylen|Hilen]] to the north and the Vilérian Sea to the south. It shares no border with [[place-moktur|Moktur]].
 
 A Delalara sailing master, taking a new mate along the quays on his first morning, gives him the lay of the province in one pass: "Warships that way, at [[place-castamar|Kastamar]]. Merchantmen here. Fishing boats everywhere in between, and every one of them is feeding somebody in [[place-orzara|Orzara]] who has never seen the sea. Learn which harbor you're in before you talk to anyone, because the three of them want different things from you."
 
@@ -77,6 +79,9 @@ Geography sets Salkalon's pattern: two great cities and a working coast of fishi
 - **The notes.** The admiral at [[place-castamar|Kastamar]] wants to know who has been telling his oarsmen that the next quarter is not coming.
 
 ## See Also
+
+[[place-hvirnmilhd|Hvirnmil's Head]]
+: the headland above Bralvik bay
 
 [[affiliation-provincvld|Province of Salkalon]]
 : the province that holds this land

@@ -34,7 +34,7 @@ The other trade is the one the sailing master means. A boat a week out on the fa
 
 ## Who Rules and Keeps Order
 
-Tholkezora is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors) who answer in their own persons for its taxes. The council is the captains, who own the decked boats, and the first of them is [Revothos Linthimis]{.name data-type="being/npc"}, a hunter of sea-beasts for thirty years, who has lost two boats and three fingers and has never been caught with anything he should not have carried.
+Tholkezora is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors) who answer in their own persons for its taxes. The council is the captains, who own the decked boats, and the first of them is [[being-revothoslint|Revothos Linthimis]], a hunter of sea-beasts for thirty years, who has lost two boats and three fingers and has never been caught with anything he should not have carried.
 
 The town keeps its own order, and it keeps it hard. A crew settles its own quarrels at sea, and a captain is master of his boat under the old law of the coast. In the town a quarrel between crews goes to the captains in council, and a man who informs to the customs is put ashore on the far side of the neck and not let back. The tax-farmer's clerks come to Tholkezora in pairs and leave before dark.
 

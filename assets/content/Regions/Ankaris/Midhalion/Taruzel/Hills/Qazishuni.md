@@ -60,7 +60,7 @@ Speech
 
 The Qazishuni are the horse people of the hills. Their horses are small, rough-coated and sure on rock, and they were the mounts of the hill horsemen the legions hired to garrison the forts. For more than a century nearly every Qazishuni camp had a son in a fort and the empire's silver in a jar under the hearthstone. Since the revolution nobody pays for the forts, and the Qazishuni hold their cisterns anyway, because the water in them is the only water on the ridge. The Keeper of the Cisterns sells it to every caravan on the pass road at the price the [[affiliation-hillcouncil|Council of the Hills]] sets.
 
-A Qazishuni herder still knows silver better than any people in the islands. Children learn to weigh a coin on the tongue, and a Qazishuni elder can tell the empire's coin from the Confederation's with his eyes shut.
+A Qazishuni herder still knows silver better than any people in the islands. Children learn to weigh a coin on the tongue; the elders tell the empire's coin from the Confederation's with their eyes shut.
 
 ## The Rememberers
 
@@ -76,7 +76,7 @@ The Qazishuni sell cheese, wool, hides and horses in Pashinar and in the markets
 
 ## Quarrels and Debts {#present}
 
-The Qazishuni are blamed for a gate they did not build. The new toll-gate below the third fort on the pass road is kept by men in goat-hair cloaks who say they hold the road for the hills, and every caravan master who comes down into Pashinar tells the tale of the man who kept the pass for three paymasters. The tribe has neither built the gate nor broken it, because a hill man who breaks the coast's law on the coast is hanged by the coast. The list of what the coast has promised the hills and not paid grows longer at every winter fire. The factors of the great houses come up to [[place-ralumar|Ralumar]] to offer for its cut stones, and the Keeper of the Doors turns them away. [Qatush Qazishuni]{.name data-type="being/npc"}, the Lawspeaker, is of this tribe.
+The Qazishuni are blamed for a gate they did not build. The new toll-gate below the third fort on the pass road is kept by men in goat-hair cloaks who say they hold the road for the hills, and every caravan master who comes down into Pashinar tells the tale of the man who kept the pass for three paymasters. The tribe has neither built the gate nor broken it, because a hill man who breaks the coast's law on the coast is hanged by the coast. The list of what the coast has promised the hills and not paid grows longer at every winter fire. The factors of the great houses come up to [[place-ralumar|Ralumar]] to offer for its cut stones, and the Keeper of the Doors turns them away. [[being-qtshqzshni|Qatush Qazishuni]], the Lawspeaker, is of this tribe.
 
 ## Hooks {#hooks}
 

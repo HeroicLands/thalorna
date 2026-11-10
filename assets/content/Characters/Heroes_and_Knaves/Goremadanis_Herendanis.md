@@ -3,6 +3,7 @@ shortcode: grmdnshrndns
 name: {full: Goremadanis Herendanis, given: Goremadanis, clan: Herendanis}
 type: being
 subType: character
+description: "A young seaman of Delalara, orphaned at seven and raised aboard a merchant ship, who navigates by the stars and dreams of a vessel of her own."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -15,7 +16,7 @@ data:
   affiliations: {provincvld: {rank: 3}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
-  born: 698.37
+  born: 697.37
   height: 5' 8"
   weight: 146 lbs
   frame: light

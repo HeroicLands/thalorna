@@ -344,7 +344,7 @@ Denos, thauren, thrumar./
 [Thrumar]{.speaker}/
 Ek en, thrumar, denos, thauren./
 En dokad denon ir okande./
-Zai ar varelin, ko dokad,/
+Zai denon ar varelin, ko dokad,/
 nol goitsa, pral tarnela ared ir‼/
 [Thramo]{.speaker}/
 Ko ared thauren, thrumar.
@@ -519,10 +519,10 @@ Ko lendad dekazu us goitsa‼/
 En orhenad zed pelza/
 ir nar dokandon, ek henthos/
 sa semna, ar solthen mazeron,/
-ek othra, zai ko nembed/
+ek welri othra, zai ko nembed/
 ir welri sedon, pral en valmad,/
 ves harlen us aldor, ek pelza/
-hir dumva, zai en ar dunad./
+hir welri dumva, zai en ar dunad./
 [Thramo]{.speaker}/
 Ko orhenad denon, thrumar./
 [Thrumar]{.speaker}/
@@ -547,7 +547,7 @@ Eza kedis kermad?/
 [Thramo]{.speaker}/
 Ar urkis ol enoi denos./
 [Thrumar]{.speaker}/
-Eza zai urkis?/
+Eza zai urkis ol enoi denos?/
 [Thramo]{.speaker}/
 Tha goitsa kezdad alatho,/
 Thizaro Lambis thavid,/

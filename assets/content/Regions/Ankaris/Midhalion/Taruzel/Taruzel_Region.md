@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [midhalnrgn]
   population: 12000000
-  borders: [{to: amradadrgn, bearing: E}]
+  borders: [{to: amradadrgn, bearing: E}, {to: vylarianse, bearing: W}]
   packFolder: taruzel
   culture: taruzelianclt
   government: cnfdrtntrzlnstts
@@ -108,6 +108,21 @@ To the east, across the strait, lies the Kingdom of Amradad. Taruzel keeps cordi
 - **The toll.** A foreign master waiting in the roads below the Strait Fortress hires a party to learn how many votes [[being-dlzrtndn|Delzuru Tanaduni]] has for his toll before the summer session.
 
 ## See Also
+
+[[affiliation-crimsnldgr|The Crimson Ledger]]
+: the counting houses of the financial underworld
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: the campaign frame of the veterans and the summer session
+
+[[scenario-lstbtnrrws|The Last Boat Through the Narrows]]
+: the last crossing before the Fleet Review
+
+[[scenario-frmnspttn|The Freeman's Petition]]
+: the veterans’ petition before the Grand Council
+
+[[scenario-clsdroll|The Closed Roll]]
+: the proposed hereditary council roll
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : The polity that holds this land

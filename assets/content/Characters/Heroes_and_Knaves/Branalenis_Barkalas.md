@@ -3,6 +3,7 @@ shortcode: brnlnsbrkls
 name: {full: Branalenis Barkalas, given: Branalenis, clan: Barkalas}
 type: being
 subType: character
+description: "A seaman of Delalara of rare skill, raised aboard a merchant ship and now hired from crew to crew, who has never held the rank her work earned."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [mercavia]
-  affiliations: {provinclys: {rank: 3}, ardavon: {rank: 1}}
+  affiliations: {provincvld: {rank: 3}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.93

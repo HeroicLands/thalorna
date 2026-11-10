@@ -49,7 +49,7 @@ The **Council of Hitusel** governs the fishing village of [[place-hitusel|Hituse
 
 ## The Members
 
-Every household that owns a boat or a pit has a seat, and about forty householders sit on the council. Its First this year is [Tasiran Zattuni]{.name data-type="being/npc"}, a weathered, slow-spoken man of fifty-eight whose family owns six boats, more than any other in the village; he has been chosen four springs running. The hideworker [[being-dpmnjkdn|Dapuman Jakuduni]] sits for the pits and speaks seldom. The Keeper of the Strand allots the beach and the racks, and keeps the stakes and cairns that mark the channel round the reef, which are moved each spring by the council's order and never shown to a stranger.
+Every household that owns a boat or a pit has a seat, and about forty householders sit on the council. Its First this year is [[being-tasrnzttni|Tasiran Zattuni]], a weathered, slow-spoken man of fifty-eight whose family owns six boats, more than any other in the village; he has been chosen four springs running. The hideworker [[being-dpmnjkdn|Dapuman Jakuduni]] sits for the pits and speaks seldom. The Keeper of the Strand allots the beach and the racks, and keeps the stakes and cairns that mark the channel round the reef, which are moved each spring by the council's order and never shown to a stranger.
 
 ## What the Council Does
 
@@ -57,7 +57,7 @@ The council allots the beach and the drying racks, settles quarrels over nets, c
 
 ## Current Situation {#present}
 
-The council has two worries this spring, and both are about what the village alone can do. [[being-dpmnjkdn|Dapuman Jakuduni]], who sits for the pits, is failing, with no son and no apprentice, and the Sazumun buyers who pay the council's agreed price for his hides fear the pits will close with him. And a boat from Sazumun has gone round the reef at night without a Hitusel man aboard and come back whole, so someone in the village has shown the channel that the Keeper of the Strand marks for the village alone. [Tasiran Zattuni]{.name data-type="being/npc"} must find the seller among forty households who all know each other.
+The council has two worries this spring, and both are about what the village alone can do. [[being-dpmnjkdn|Dapuman Jakuduni]], who sits for the pits, is failing, with no son and no apprentice, and the Sazumun buyers who pay the council's agreed price for his hides fear the pits will close with him. And a boat from Sazumun has gone round the reef at night without a Hitusel man aboard and come back whole, so someone in the village has shown the channel that the Keeper of the Strand marks for the village alone. [[being-tasrnzttni|Tasiran Zattuni]] must find the seller among forty households who all know each other.
 
 ## History {#history}
 

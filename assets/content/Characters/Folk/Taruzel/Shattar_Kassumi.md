@@ -14,7 +14,7 @@ data:
   culture: taruzelianclt
   homes: [orzara]
   affiliations: {cleanshlds: {rank: 2, office: Captain}}
-  socialTies: {affiliation-vylrnmltry: rival, affiliation-slntlncmpny: rival}
+  socialTies: {affiliation-vylrnmltry: patron, affiliation-slntlncmpny: rival}
   gender: male
   species: humanflk
   born: "668.203"

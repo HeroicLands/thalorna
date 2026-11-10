@@ -61,7 +61,7 @@ It asks three things. A hand sails when his name comes up, unless he is sick or 
 
 ## Who Runs It
 
-The _korvelos_ is chosen every year on the first day of the sailing year, when the northerlies set in, by a show of hands in the inner court of the Roll House among every hand who is ashore. The present Keeper of the Roll is [Volkema Satheris]{.name data-type="being/npc"}, a captain's daughter who sailed eleven years as a hand and has kept the roll for six. She is the first woman to hold it, and she holds it because the old hands trust her arithmetic. The guild's _kelros_ (guild's council member) sits on the Tevran of Elissara for five years, and the Marker serves for as long as his eyes are good.
+The _korvelos_ is chosen every year on the first day of the sailing year, when the northerlies set in, by a show of hands in the inner court of the Roll House among every hand who is ashore. The present Keeper of the Roll is [[being-vlkmsathrs|Volkema Satheris]], a captain's daughter who sailed eleven years as a hand and has kept the roll for six. She is the first woman to hold it, and she holds it because the old hands trust her arithmetic. The guild's _kelros_ (guild's council member) sits on the Tevran of Elissara for five years, and the Marker serves for as long as his eyes are good.
 
 ## Relations
 
@@ -72,7 +72,7 @@ The _korvelos_ is chosen every year on the first day of the sailing year, when t
 
 ## The Present Quarrel {#present}
 
-The roll is the quarrel, and two buyers want it. The fleet is short of seamen and is paying the guild for copies of the roll, and an officer of the fleet is in the city to collect one, which [Volkema Satheris]{.name data-type="being/npc"} wants checked name by name before it leaves the Roll House. The owners and captains want crews of their own choosing at wages they set themselves, and they outvote the seamen on the [[affiliation-tevranaelissium|Tevran of Elissara]], where the shipowners, merchants and small crafts hold most of the seats and [Zenothen Linthimis]{.name data-type="being/npc"} of the shipwrights presides in his third year, two more than custom expects.
+The roll is the quarrel, and two buyers want it. The fleet is short of seamen and is paying the guild for copies of the roll, and an officer of the fleet is in the city to collect one, which Volkema Satheris wants checked name by name before it leaves the Roll House. The owners and captains want crews of their own choosing at wages they set themselves, and they outvote the seamen on the [[affiliation-tevranaelissium|Tevran of Elissara]], where the shipowners, merchants and small crafts hold most of the seats and [[being-znthnlnthms|Zenothen Linthimis]] of the shipwrights presides in his third year, two more than custom expects.
 
 The city's charter is sealed anew by every Orzas, and the reigning one is dying. An advocate from [[place-mercavia|Delalara]] has asked every guild for its copy, the Roll House among them. The [[affiliation-byzarianlg|Bizarian League]]'s clerks collect the customs at the river mouth outside the walls, and on the eastern runs Taruzel's privateers take Vilérian ships whose hands come home, if they come home, to a guild that pays no ransoms.
 

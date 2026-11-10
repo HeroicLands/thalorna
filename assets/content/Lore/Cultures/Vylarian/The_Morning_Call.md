@@ -56,7 +56,7 @@ past the porters, who are not resting, and who curse me in [[place-hylen|Hilen]]
 for a man in a white gown who walks where they need to put a sack./
 Here is the Laurel. Here are the houses. Here is the garden wall,/
 and the door, and the bronze on the door, and in front of the door,/
-in the grey, in their gowns, in a line, the clients. Here I am. Place me.
+in the gray, in their gowns, in a line, the clients. Here I am. Place me.
 
 For the steward places us. The steward is the one true magistrate./
 He stands at the door with his staff and his list and his memory,/

@@ -63,7 +63,7 @@ His name and his office still carry the province: every act sealed with his ring
 
 ### Weaknesses
 
-His health is failing, and the province has learned to do without him.
+His prolonged absence leaves the province’s petitioners dealing with his household and officers instead of their governor.
 
 ## Social
 

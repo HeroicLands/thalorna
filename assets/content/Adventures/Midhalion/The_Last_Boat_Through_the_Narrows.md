@@ -57,9 +57,9 @@ On the fourteenth of Brazemandi [[place-yamuzel2|Yamuzel]] holds the [[lore-flee
 
 ## The Opening {#opening}
 
-The Veterans' Quarter of Yamuzel at dusk, a week before the Review. Every hall is lit. In one of them the old men sing [[lore-paidattheshoals|What Was Paid at the Shoals]], and the young ones listen from the door.
+The Veterans' Quarter of Yamuzel at dusk, a week before the Review. Every hall is lit. In Razzina's hall the old men read the war's broadsheet from the wall and argue over the plots they were promised. The young ones listen from the door. [[lore-paidattheshoals|What Was Paid at the Shoals]] is sung in the halls on Review night, still a week away.
 
-> The song stops when a stranger comes in, and starts again when Razzina nods.
+> The reading stops when a stranger comes in, and starts again when Razzina nods.
 
 ## Scenes {#scenes}
 

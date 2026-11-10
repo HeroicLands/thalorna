@@ -3,7 +3,7 @@ shortcode: tharozatalot
 name: {full: Tharoza Talothates, en: [Commander Tharoza]}
 type: being
 subType: npc
-description: "The _zoralus_ of Moktur, the province's commander of order at Tirellan, who commands its urban cohorts, keeps the peace of the Keep and the forum, and defers to the jailer Zerofon Kalmakanes on the province's prison."
+description: "The zoralus of Moktur, the province's commander of order at Tirellan, who commands its urban cohorts, keeps the peace of the Keep and the forum, and defers to the jailer Zerofon Kalmakanes on the province's prison."
 tags: []
 data:
   icon: icon-person
@@ -85,5 +85,5 @@ She serves a governor the capital neither commands nor replaces, and her office 
 4. **The letter from Kezrora.** A guard of the prison is selling a letter smuggled out of it. Zerofon wants the guard named, and Tharoza lends a party her authority to name him.
 
 :::secret {title="The Keep's peace"}
-In The Letter Nobody Opened, Tharoza keeps the peace of the Keep while the _therkos_'s recall lies unopened in his strongroom. She has not been told of the letter. If it is read aloud in the forum, her cohorts are the one armed force in the city that might stand for either the capital or the _therkos_, and she has decided nothing. The auxiliaries would fight for the _therkos_ against anyone, and she knows she could not stop them.
+In [[scenario-lttrnbdypnd|The Letter Nobody Opened]], Tharoza keeps the peace of the Keep while the _therkos_'s recall lies unopened in his strongroom. She has not been told of the letter. If it is read aloud in the forum, her cohorts are the one armed force in the city that might stand for either the capital or the _therkos_, and she has decided nothing. The auxiliaries would fight for the _therkos_ against anyone, and she knows she could not stop them.
 :::

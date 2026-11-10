@@ -78,7 +78,11 @@ That is why Yamuzel is the city where the captain of [[affiliation-thetamzir|the
 
 ## Current Situation {#present}
 
-Yamuzel's veterans are nearer open anger than at any time since the outlawing, and the city is preparing for the [[lore-fleetreview|Fleet Review]]. In the halls of the Veterans' Quarter the talk has turned from strikes to a rising, [[being-rzznpddn|Razzina Padduni]]'s hall is where the harbor's veterans gather to talk, and the man they want to lead them is [[being-zbzmjkdn|Zabuzum Jakuduni]], who has not answered. On [[place-khamisar|Khamisar]]'s south slope veterans plow marked plots they say were promised them, on land leased to the [[affiliation-tanaduni|Tanaduni]], an admirals' family, and the Admiral's Council has been asked for marines to clear them before the Review. The marines are veterans' sons. On the height, [[being-dlzrtndn|Delzuru Tanaduni]] of the [[affiliation-tanaduni|Tanaduni]] presses the Grand Council for a League toll on every hull through the narrows, and the foreign masters in the roads mean to resist it. The Commander of the Marines has been told to catch the Review's last boat this year.
+Yamuzel's veterans are nearer open anger than at any time since the outlawing, and the city is preparing for the [[lore-fleetreview|Fleet Review]]. In the halls of the Veterans' Quarter the talk has turned from strikes to a rising, [[being-rzznpddn|Razzina Padduni]]'s hall is where the harbor's veterans gather to talk, and the man they want to lead them is [[being-zbzmjkdn|Zabuzum Jakuduni]], who has not answered. On [[place-khamisar|Khamisar]]'s south slope veterans plow marked plots they say were promised them, on land leased to the [[affiliation-tanaduni|Tanaduni]], an admirals' family, and the Admiral's Council has been asked for marines to clear them before the Review. The marines are veterans' sons. On the height, [[being-dlzrtndn|Delzuru Tanaduni]] of the [[affiliation-tanaduni|Tanaduni]] presses the Grand Council for a League toll on every hull through the narrows, and the foreign masters in the roads mean to resist it.
+
+:::secret {title="The last boat"}
+The Commander of the Marines has placed a League galley outside the Fleet Review's line, with orders to wait off the cape for its last boat. [[being-nzzntrshn|Nazzuna Tarshuni]], whose boat closes the Review this year, carries the rebels' written promise of prize money and means to read it from the narrows. She does not know the galley is waiting for her.
+:::
 
 ## Commerce and Currency
 

@@ -37,9 +37,11 @@ data:
         description: >-
           The Council's chair and the Tolvan's chief officer, appointed by the Orzas for a ten-year term, renewable, and sitting formally with the Dukran, the Imperial Tarkelos and twice a year the Orzas himself.
     offices:
+      Talkor of the Tolvan: >-
+        Chair of the Council of the Fiscal Court and the Tolvan's chief officer, appointed by the Orzas for a renewable ten-year term and dismissed at imperial discretion.
       Holrozimos of the Tolvan: >-
         Senior of the twenty rozimoi of the Tolvan, reporting to the Council and to the Talkor directly, and answerable for the discipline arm's case-rate against the Tolari.
-  seat: null
+  seat: arvon
   population: null
   economy: [affiliation-tarmex, affiliation-danvar, affiliation-tevran]
   lore: []
@@ -92,7 +94,7 @@ The [Council of the Fiscal Court]{.name data-type="affiliation/governmental"} is
 
 ### The Talkor of the Tolvan
 
-The Talkor of the Tolvan chairs the Council and is the Tolvan's chief officer. The Orzas appoints him for a ten-year term, renewable, and dismisses him at imperial discretion. The current Talkor of the Tolvan is [Veldas Orthemaris]{.name data-type="being/npc"}, an _ethlen_ in his sixties whose tenure has been marked by cautious moderation: he declines to push contentious reforms and declines equally to let the worst Tolar abuses escalate past a manageable level. Both court factions, Reformist and Conservative, see him as the least objectionable Talkor of the Tolvan they have any prospect of getting.
+The Talkor of the Tolvan chairs the Council and is the Tolvan's chief officer. The Orzas appoints him for a ten-year term, renewable, and dismisses him at imperial discretion. The current Talkor of the Tolvan is [[being-vldsorthmrs|Veldas Orthemaris]], an _ethlen_ in his sixties whose tenure has been marked by cautious moderation: he declines to push contentious reforms and declines equally to let the worst Tolar abuses escalate past a manageable level. Both court factions, Reformist and Conservative, see him as the least objectionable Talkor of the Tolvan they have any prospect of getting.
 
 ### The Provincial Karvani
 
@@ -124,7 +126,7 @@ The Tolvan administers these principal taxes within imperial territory:
 - **The [[affiliation-tarmex|Tarmeks Orzan]]** is the direct counterpart: the Tolvan collects and the Tarmeks holds. Coordination is constant, and tension arises when the Tolvan's revenue projections fall short of the Tarmeks's disbursement requirements, as they now do every year. The Tarmeks borrows the difference from the great houses of [[affiliation-danvar|the Danvar]], chiefly to pay the dole, and each year's estimates must also find the interest on what the throne already owes.
 - **The Orzas and the Dukran** are patrons and ultimate authorities. The Talkor of the Tolvan serves at imperial discretion, and Council seats turn over at the Orzas's pleasure within procedural limits.
 - **The provincial therkoi and the Helionite city-state councils** are operational counterparts in the lower tax tiers. The relationship is correct and bureaucratic, with occasional disputes over jurisdictional boundaries, since either tier may claim a tax category.
-- **The Lethunu** at court are the natural patrons of the _rozimoi_ of the Tolvan' more aggressive prosecutions, and they push periodically for Tolar reform.
+- **The Lethunu** at court are the natural patrons of the _rozimoi_ of the Tolvan's more aggressive prosecutions, and they push periodically for Tolar reform.
 - **The [Qethar'palu]{.name data-type="affiliation"}** are the natural protectors of the Tolari system. They comprise the Tolar class itself, the families whose wealth comes from Tolar contracts and the broader _ethlen_ and _ankren_ estates whose political influence depends on the current arrangement.
 - **The Tolari themselves** are the Tolvan's contractors, its political problem and its most visible public face. The relationship is structurally adversarial, since the _rozimoi_ of the Tolvan discipline them, and operationally interdependent, since the Karvani could not collect without them.
 
@@ -138,7 +140,7 @@ A Tolar's collection authority is attested by a **brass collection-tessera**, st
 
 The Tolvan is defending next year's revenue against this year's need. Its projections fall short of what the Tarmeks must pay out every year, and each year's estimates must also find the interest on what the throne already owes. The throne wants silver now, and [[being-ylzmsmlvrts|Yalzemas Molvarates]] offers it: three years' bids for the land tax of [[place-hylen|Hilen]], paid the day the contract is sealed, for the right to collect there for ten. She wants it sealed by this Orzas, because a new reign appoints a new Talkor of the Tolvan and reopens every contract, and a ten-year contract puts the next reign's Hilen revenue in her clerks' hands before the next reign begins. The Council of the Fiscal Court approves the terms of every Tolar contract, this one among them.
 
-The Talkor, [Veldas Orthemaris]{.name data-type="being/npc"}, holds to his cautious moderation. The _holrozimos_, [Selmara Dorvena]{.name data-type="being/npc"}, is prosecuting eight great Tolari at once, the largest coordinated case in two generations, and their families press the Talkor through the court to slow her. House Molvarates is not among the eight. The Hilen estates hate the tax-farmers' clerks, and a province squeezed too hard rises against its tax-farmer first.
+The Talkor, Veldas Orthemaris, holds to his cautious moderation. The _holrozimos_, [Selmara Dorvena]{.name data-type="being/npc"}, is prosecuting eight great Tolari at once, the largest coordinated case in two generations, and their families press the Talkor through the court to slow her. House Molvarates is not among the eight. The Hilen estates hate the tax-farmers' clerks, and a province squeezed too hard rises against its tax-farmer first.
 
 ## Plot Hooks
 

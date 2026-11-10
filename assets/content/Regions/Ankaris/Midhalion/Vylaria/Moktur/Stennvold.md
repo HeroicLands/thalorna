@@ -34,7 +34,7 @@ The furnace-men work in crews of six, in shifts that keep a furnace burning for 
 
 ## Who Rules and Keeps Order
 
-Stennvold is chartered under the province, with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), and the smelt-masters fill the council. A clerk of the _karezos_ (revenue officer) keeps an office at the counting-house to weigh the metal before it leaves, and twenty of the _therkos_'s auxiliaries keep the road. The first of the smelt-masters, a broad, slow-spoken man named [Thalrith]{.name data-type="being/npc"} who owns three furnaces, is the town's voice to Tirellan, and a dispute between crews goes to him before it goes to a magistrate.
+Stennvold is chartered under the province, with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), and the smelt-masters fill the council. A clerk of the _karezos_ (revenue officer) keeps an office at the counting-house to weigh the metal before it leaves, and twenty of the _therkos_'s auxiliaries keep the road. The first of the smelt-masters, a broad, slow-spoken man named [[being-thalritherth|Thalrith ira Erthwald wur Stennvold]] who owns three furnaces, is the town's voice to Tirellan, and a dispute between crews goes to him before it goes to a magistrate.
 
 ## The Present {#present}
 

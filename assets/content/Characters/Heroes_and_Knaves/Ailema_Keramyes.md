@@ -3,6 +3,7 @@ shortcode: ailemkrmys
 name: {full: Ailema Keramyes, given: Ailema, clan: Keramyes}
 type: being
 subType: character
+description: "A Guildmaster scribe of Alessar whose illuminated and archival work commands premium prices, and whose perfectionism has begun to feel like a cage."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [alyssar]
-  affiliations: {provinclys: {rank: 4}, lizelas: {rank: 1}}
+  affiliations: {provinclys: {rank: 4}, lizelas: {rank: 1}, imprlscrblgld: {rank: 4}}
   gender: female
   species: humanflk
   born: 691.102
@@ -438,7 +439,7 @@ Her apprenticeship culminated in an extraordinary achievement: at age twenty, sh
 
 ### Current Life and Growing Complications
 
-Now twenty-nine, Ailema operates a well-established scribal practice in Alessar. She maintains a small workshop where she takes on commissions ranging from legal documents and historical transcriptions to artistic illuminated texts and personal correspondence for the nobility. Her reputation for quality and reliability is such that clients know that when they commission work from Ailema Keramyes, it will be completed on schedule, to exacting standards, and with the kind of attention to detail that justifies the premium prices she commands. Her income is substantial, though much of it is reinvested in maintaining her workshop and acquiring the finest materials.
+Now twenty-eight, Ailema operates a well-established scribal practice in Alessar. She maintains a small workshop where she takes on commissions ranging from legal documents and historical transcriptions to artistic illuminated texts and personal correspondence for the nobility. Her reputation for quality and reliability is such that clients know that when they commission work from Ailema Keramyes, it will be completed on schedule, to exacting standards, and with the kind of attention to detail that justifies the premium prices she commands. Her income is substantial, though much of it is reinvested in maintaining her workshop and acquiring the finest materials.
 
 However, Ailema has begun to feel a growing dissatisfaction. Her perfectionism, once a strength, has begun to feel like a cage. She finds herself endlessly revising and perfecting commissions, unable to declare them truly "finished" even when objectively they surpass client expectations. She has begun to wonder whether her devotion to [[lore-lizelasdty|Lizelas]]—the fertility goddess whose aspect encompasses growth, change, and the cycles of life—has been eclipsed by her fixation on creating permanent, unchanging perfection. She is increasingly aware that her personal life has atrophied: she has few close relationships, no romantic attachments, and her world has shrunk to encompass primarily her workshop and her clients.
 
@@ -517,7 +518,7 @@ Scribe-Master [Thelvun]{.name data-type="being/npc"}
 [[affiliation-imprlscrblgld|The Imperial Scribal Guild]]
 : Ailema maintains full Guildmaster standing and participates in the guild's formal structures, though she does not hold an official position. She is well-respected within the organization and is occasionally consulted on matters of standards and authenticity.
 
-The [Temple of Lizelas]{.name data-type="affiliation"}
+[[affiliation-lizelas|The Temple of Lizelas]]
 : She participates sporadically in temple activities and maintains a nominal spiritual affiliation with the fertility goddess. However, her engagement with the temple has been minimal compared to her earlier years, a fact that occasionally troubles her conscience.
 
 ## Plot Hooks

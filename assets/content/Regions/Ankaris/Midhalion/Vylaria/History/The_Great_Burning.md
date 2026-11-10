@@ -54,7 +54,7 @@ data:
       unresolved: [whether the first fire was set]
 ---
 
-A Watch sergeant, showing a new recruit round the lanes of the lower wards of [[place-antel|The Old Hill]], stops at a blank stone wall that rises three storeys with no window in it. "Fire-wall," he says. "Every one in the city is a fire-wall for something that burned, and this one is for the six days. The district law was written by men who watched the [[place-warrensorz|Warrens]] go up."
+A Watch sergeant, showing a new recruit round the lanes of the lower wards of [[place-antel|The Old Hill]], stops at a blank stone wall that rises three stories with no window in it. "Fire-wall," he says. "Every one in the city is a fire-wall for something that burned, and this one is for the six days. The district law was written by men who watched the [[place-warrensorz|Warrens]] go up."
 
 ## The Failed Dole
 
@@ -62,7 +62,7 @@ A Watch sergeant, showing a new recruit round the lanes of the lower wards of [[
 
 ## The Fire
 
-The Circles riot first. The Watch, which keeps the city beyond the [Inner Wall]{.name data-type="place/structure"}, held the main avenues and lost the valley wards, and a fire started in the Warrens climbed the lanes of **Antel** and burned for six days. The tenements are timber above their ground storeys, the hill-lanes are narrow, and no brigade in the city had water to spare for a ward that was already lost. The Old Hill's upper houses, the [Vilérian Republic]{.name data-type="affiliation/polity"}'s own, burned with the lower.
+The Circles riot first. The Watch, which keeps the city beyond the [Inner Wall]{.name data-type="place/structure"}, held the main avenues and lost the valley wards, and a fire started in the Warrens climbed the lanes of **Antel** and burned for six days. The tenements are timber above their ground stories, the hill-lanes are narrow, and no brigade in the city had water to spare for a ward that was already lost. The Old Hill's upper houses, the [Vilérian Republic]{.name data-type="affiliation/polity"}'s own, burned with the lower.
 
 ## The Move to the Laurel
 

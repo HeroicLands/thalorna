@@ -8,9 +8,9 @@
 rowMaxWords: 200
 
 # A land is a group of regions named here: a land id maps to the shortcodes of
-# the notes that make it up. A note is in a land when a parent branch (or, for a
-# being, a home) reaches one of them, the nearest one along each branch
-# counting. A note in no land is only ever reported.
+# place notes that make it up. A note is in a land when a parent branch, a
+# being's home, or an affiliation's seat or seatless range reaches one. The
+# nearest along each branch counts. A note in no land is only ever reported.
 lands:
     midhalion: [midhalnrgn, vylariargn, taruzelrgn]
     khazryn: [khzryndsrtrgn]

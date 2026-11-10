@@ -205,7 +205,7 @@ Nobody wrote anything down. Nobody put a seal on anything. Nobody came up the ro
 
 The men of the third fort went down the road, my father among them, the road Bilgun kept, the road the empire cut. They went down past the gate-posts and the papers, with their spears and their cloaks, and they fought in the hills against the legions' supply wagons, because they knew the hills, and some of them went on down to the sea, which they had never seen, and fought there. Some of them came back up the road. Some of them did not.
 
-The ones who came back up the road came back with nothing, and the road is going to grass under them, because the confederation does not keep it. The empire at least kept the road. No land. No voice. No silver, not one coin, not even a coin of the guilds' that a grandmother would not take for a goat. The coast men had a confederation now, and a charter, and the charter did not have the hills in it anywhere.
+The ones who came back up the road came back with nothing, and the road is going to grass under them, because the Confederation does not keep it. The empire at least kept the road. No land. No voice. No silver, not one coin, not even a coin of the guilds' that a grandmother would not take for a goat. The coast men had a confederation now, and a charter, and the charter did not have the hills in it anywhere.
 
 My father went down to Besikar once afterward, to ask. He stood in the square below the old governor's palace where the money people sit now, and he asked a clerk where it was written. The clerk asked him what. My father said: land, a voice, brothers. The clerk said: show me the paper.
 

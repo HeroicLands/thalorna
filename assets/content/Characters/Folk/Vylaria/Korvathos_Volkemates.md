@@ -65,13 +65,13 @@ A sworn household, a tower in the city, long knowledge of the march and its raid
 
 ### Weaknesses
 
-His health, his heir, and dealings across the frontier that the capital would call treason.
+His failing health and his heir’s determination to replace the old captains threaten the household he means to preserve.
 
 ## Social
 
 ### Others
 
-- [[being-arznlsbrds|Arzanalas Baredas]]: The huscarl who has served the house for thirty-seven years. Korvathos keeps him out of gratitude and habit, and trusts him more than his son.
+- [[being-arznlsbrds|Arzanalas Baredas]]: The huscarl who has served the house for thirty-two years. Korvathos keeps him out of gratitude and habit, and trusts him more than his son.
 
 ### Affiliations
 

@@ -37,6 +37,8 @@ data:
         description: >-
           The Tarmeks's chief officer, appointed by the Orzas on the Dukran's recommendation and serving for life, holding one of the six standing accesses to the imperial privy presence.
     offices:
+      Imperial Tarkelos: >-
+        Chief officer of the Tarmeks, appointed by the Orzas on the Dukran's recommendation and serving for life or until imperial dismissal.
       Holrozimos: >-
         Senior of the sixteen rozimoi of the Tarmeks, and one of the three keys by which the strongroom at Orzara is secured.
       Orsan of Treasury Operations: >-
@@ -45,7 +47,7 @@ data:
         Holds the note-issuance and clearing system on which most large-value commerce in member territory depends.
       Orsan of the Strongroom: >-
         Holds the reserves and the strongroom at Orzara, which has never been breached in three centuries.
-  seat: null
+  seat: arvon
   population: null
   economy: [affiliation-danvar, affiliation-tolvan, affiliation-tevran, lore-vylrncrncy]
   lore: []

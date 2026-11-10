@@ -45,8 +45,6 @@ data:
   relations: {vylarinmpr: aligned}
   packFolder: politiescompanies
 sohl: {system: {commonSkills: []}}
-
-# terran_analog: "The Varangian and Norse companies in Byzantine and Frankish frontier pay, and the unindentured free companies of a later age that served a crown on contracts no guild could arbitrate."
 ---
 
 "Count the smoke, and if it is three, light the fire before you wake me," [[being-knrvsldvrnrk|Knarvselda Dvurnaruk]] tells every new man she sends up to a tower. It is the rule the legion's watch sergeants teach their recruits in [[place-moktur|Moktur]], with one change of her own: a sergeant wants to be woken first, and a Nordman on a ridge three hours from help wants the fire lit. Her company holds seven of the towers that watch the [[place-vrystwald|Vristwald]] above [[place-dolvar|Dolvar]], and it holds them because the legion does not have the men.
@@ -79,7 +77,7 @@ Every evening the tower-warden counts the smoke from the forest at dusk and mark
 
 The towers are cold, dull and far apart, and a Nordman fills a dull watch the way the north does. The company keeps its own speech at its own fires, its own feasts at Jel and Midsomar, and its own dead: a man killed on the march is burned on the tower's roof in its fire-basket, and his ashes go north in a jar with the next man going home. The company sings the deaths of its fallen the way the north does, though no sworn skald has come south to sit at its fires. It has a woman who learned the old lays from her mother and sings them, and she holds no rank of the [[affiliation-skaldscrcl|Skalds' Circle]] and claims none.
 
-The company's men marry. A Spear-Sworn who has wintered three years in Dolvar's lower town usually has a wife there, a Mokturan woman whose father shod the legion's horses, and the company's winter quarter is a row of houses below the fortress wall. The children speak Vilari in the street and Nordmal at the table. The legionaries in the same town cannot marry in law until their twenty years are served, and they notice.
+The company's men marry. A Spear-Sworn who has wintered three years in Dolvar's lower town usually has a wife there, a Mokturan woman whose father shod the legion's horses, and the company's winter quarter is a row of houses below the fortress wall. The children speak Vilari in the street and Nordmal at the table. The legionaries in the same town cannot marry in law until their twenty years are served.
 
 ## The Articles
 

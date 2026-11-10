@@ -449,7 +449,7 @@ His relationship with the Epistémion is entirely cynical: he uses their librari
 
 [The Unidentified Watcher]{.name data-type="being/npc"}, a person or persons (Knarvir is uncertain which) who has been asking questions in Thraldfjord about Knarvir's past, his associates, his patterns of travel. These inquiries are subtle and indirect, which somehow makes them worse—they suggest that whoever is interested in him is patient and practiced, not a casual busybody. He has no idea who they are or what they want, which is the core of his current paranoia.
 
-**His Own Fragmented Self**, the most dangerous enemy—the part of him that is exhausted by hiding, that wants to simply _be_ without constant fear, and that increasingly questions whether this life is even worth preserving. The breakdown he feels coming is not distant; he knows it is near.
+**His Own Fragmented Self**, the most dangerous enemy—the part of him that is exhausted by hiding, that wants to simply be without constant fear, and that increasingly questions whether this life is even worth preserving. The breakdown he feels coming is not distant; he knows it is near.
 
 ## Plot Hooks
 

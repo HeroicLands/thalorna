@@ -51,7 +51,7 @@ The Tevran of Elissara is the council of the trade guilds of Elissara, and it go
 
 ## How the City Is Governed
 
-The council sits in the [Charter Hall]{.name data-type="place/structure"} on the market square every tenth day. Each guild chooses its own _kelros_ by its own rules, and the council chooses one of its number every year to be _holkelros_ (first of the council), who presides, keeps the city's seal and answers for the city to the throne. The present _holkelros_ is [Zenothen Linthimis]{.name data-type="being/npc"}, master of the shipwrights, in his third year, which is two more than custom expects.
+The council sits in the [Charter Hall]{.name data-type="place/structure"} on the market square every tenth day. Each guild chooses its own _kelros_ by its own rules, and the council chooses one of its number every year to be _holkelros_ (first of the council), who presides, keeps the city's seal and answers for the city to the throne. The present _holkelros_ is [[being-znthnlnthms|Zenothen Linthimis]], master of the shipwrights, in his third year, which is two more than custom expects.
 
 Each guild judges its own members. A stranger with a complaint against a potter takes it to the potters' hall, and against a seaman to the [Roll House]{.name data-type="place/structure"} of the Seamen's Guild. A quarrel between two guilds goes to the council, and so does a crime no guild will own. The watch is the guilds' too: each guild owes nights to it in turn, and the Seamen's Guild keeps the quays every night of the year.
 

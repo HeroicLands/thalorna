@@ -40,8 +40,8 @@ data:
       Tarkelos of the Tevran: >-
         The treasurer, managing the Tevran's modest common fund built from member-guild dues, ceremonial revenues and the Tevran's own commercial holdings.
       Therkalen: >-
-        One of the therkalenoi ("provincial deputies")—twelve in all, one per Vilérian province, one per Aureldian territory and two for Hellád—who administer the Tevran's operations in their regions.
-  seat: null
+        One of the therkalenoi ("provincial deputies")—eleven in all, one per Vilérian province, one per Aureldian territory and two for Hellád—who administer the Tevran's operations in their regions.
+  seat: orzara
   population: null
   economy:
     - affiliation-tarmex
@@ -99,7 +99,7 @@ The regions south of [[place-nrthrnfrtlrgn|the Fertile crescent]], and the far n
 The Tevran's governing structure mirrors the empire's.
 
 Tevraks
-: the chair, "First of the College." There is one, appointed by imperial edict for a ten-year term, renewable. He holds the imperial seal of office and presides over the Council. The current Tevraks is [Solkimar Talothates]{.name data-type="being/npc"}, a former Vilérian _tarkelos_ (treasury officer) of substantial political weight, who has served eight years and is presumed to be in line for renewal.
+: the chair, "First of the College." There is one, appointed by imperial edict for a ten-year term, renewable. He holds the imperial seal of office and presides over the Council. The current Tevraks is [[being-slkmrtlthts|Solkimar Talothates]], a former Vilérian _tarkelos_ (treasury officer) of substantial political weight, who has served eight years and is presumed to be in line for renewal.
 
 The Council of the Tevran
 : the standing council, with thirty-six seats, one for each major recognized trade-category (smiths, scribes, cartographers, builders, vintners, drapers, navigators and the rest). A _kelros_ (guild master), elected by the trade's senior masters in conclave, holds each seat for five years. The Council meets in continuous session at Orzara, with formal full convocations four times a year and standing committees that work between them.
@@ -111,7 +111,7 @@ The Tarkelos of the Tevran
 : the treasurer, who manages the Tevran's modest common fund, built from member-guild dues, ceremonial revenues and the Tevran's own commercial holdings. The office is administrative and limited. The [[affiliation-danvar|Danvar]] and ultimately the [[affiliation-tarmex|Tarmeks Orzan]] handle the commonwealth's much larger banking functions.
 
 The Therkalenoi
-: twelve provincial deputies: one per Vilérian province, one per Aureldian territory and two for Hellád (one each for Bizaria and Helionis). They administer the Tevran's operations in their regions and report to the Tevraks.
+: eleven provincial deputies: one per Vilérian province, one per Aureldian territory and two for Hellád (one each for Bizaria and Helionis). They administer the Tevran's operations in their regions and report to the Tevraks.
 
 ## The Trade-Seats
 
@@ -191,10 +191,10 @@ Holrozimos Isolmera Vornelis
 : the senior discipline officer, widely feared.
 
 The Council's thirty-six trade-seats
-: among them [[affiliation-imprlscrblgld|the Imperial Scribal Guild]] seat (held by High Hand [Ankela Nebralandis]{.name data-type="being/npc"}, in a dual office), [[affiliation-crtgrphrsgldbyzrnlg|the Cartographers]] seat (held by Grand Cartographer [Olara Marenies]{.name data-type="being/npc"}) and the Smiths' seat (held by the Master of the Vilérian Smiths' federation). The Trade-Seats table lists the seats of consequence.
+: among them [[affiliation-imprlscrblgld|the Imperial Scribal Guild]] seat (held by High Hand [[being-anklanbrlnds|Ankela Nebralandis]], in a dual office), [[affiliation-crtgrphrsgldbyzrnlg|the Cartographers]] seat (held by Grand Cartographer [Olara Marenies]{.name data-type="being/npc"}) and the Smiths' seat (held by the Master of the Vilérian Smiths' federation). The Trade-Seats table lists the seats of consequence.
 
 The Therkalenoi
-: the twelve regional deputies, whose identities matter a great deal in their own territories and rarely in any other.
+: the eleven regional deputies, whose identities matter a great deal in their own territories and rarely in any other.
 
 ## Relations
 
@@ -221,7 +221,7 @@ Across the strait the [[affiliation-vezakuni|Vezakuni]] goes unrecognized, and t
 
 - **The Charter Revocation Hearing.** The _rozimoi_ have brought charges against a major Aureldian guild whose charter is at risk, and its home government is loudly committed to its defense. It is the most politically charged case in a generation, and the Council's ruling will set the practical limits of the Tevran's authority over the Aureldian crowns for the next quarter century.
 - **The Taruzelian Master.** A Taruzelian master who held Tevran credentials at the secession has presented himself at a Vilérian provincial chapter, seeking a new commission. His pre-secession credentials are technically valid, and the Vezakuni's later confirmations of his standing are not. The _therkalen_ (provincial deputy) must decide whether to honor the original credentials, refuse them because a foreign body confirmed him afterward, or refer the matter to the Council for a precedent.
-- **The Captured Rozimos.** A _rozimos_ on inspection in the Aureldian countryside has been quietly detained by a local baron who objects to the inspection's target, a guild the baron controls. The detention is not public, the _rozimos_ is unharmed, and the Tevran's response will tell the baron, and everyone watching, what they can expect to get away with.
+- **The Captured Rozimos.** A _rozimos_ on inspection in the Aureldian countryside has been quietly detained by a local baron who objects to the inspection's target, a guild the baron controls. The detention is not public, the _rozimos_ is unharmed, and the Tevran's response will set the cost of detaining one of its officers.
 - **The Tevraks's Succession.** Solkimar Talothates's renewal is in doubt. The imperial court is divided between factions that favor his continuing and factions that want a successor more amenable to recent imperial proposals for tightening the Tevran's discipline of conquered-territory guilds. The contest runs through proxies on the Council, whispered representations at court and the senior _rozimoi_' choice of which cases to bring forward in the months before the renewal vote.
 - **The Order Brushfire.** A run of artisanal incidents (a smith's blade that may have been improperly tempered, an alchemist's product that may have been improperly registered, a cartographer whose maps may show features no natural surveying could have captured) has set off overlapping Tevran and Order investigations whose officers work at cross-purposes. The Tevraks and the _zetmarendos_ (archmaster) of the Order are due to meet, and the outcome will set the Order-Tevran boundary for a generation.
 - **The Danvar Charter Review.** The _rozimoi_ have begun a routine compliance review of the Danvar's guild charter. Such reviews are usually procedural, but this one has drawn the attention of the [Reformist Faction]{.name data-type="affiliation"}, and a sub-committee with Reformist members will conduct it. An adverse finding could in principle justify revoking the charter, though no one believes the revocation would be allowed to happen. The review's political outcomes may be large regardless.

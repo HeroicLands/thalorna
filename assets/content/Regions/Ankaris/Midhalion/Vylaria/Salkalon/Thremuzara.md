@@ -36,7 +36,7 @@ The salt is taxed at the heap. Each spring a clerk of the province's tax-farmer,
 
 ## Who Rules and Keeps Order
 
-Thremuzara is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), and the five pan-owning families fill both. The first of them is the [Brazemen]{.name data-type="affiliation/lineage"}, a provincial family named in the old way for its estate, whose mistress, [Doranda Brazemen]{.name data-type="being/npc"}, has run the largest pans on the coast for twenty years. She sets the price of salt each spring, the other four families follow her, and the villages pay it.
+Thremuzara is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), and the five pan-owning families fill both. The first of them is the [Brazemen]{.name data-type="affiliation/lineage"}, a provincial family named in the old way for its estate, whose mistress, [[being-dorandabraz|Doranda Brazemen]], has run the largest pans on the coast for twenty years. She sets the price of salt each spring, the other four families follow her, and the villages pay it.
 
 Each family keeps order on its own pans, with stewards, overseers and watchmen, and a raker who steals salt is beaten by the overseer and dismissed. A quarrel between villages over the curing-houses goes to the _tavemoi_. The province's cohort is never seen here, and the town's council prefers it so.
 

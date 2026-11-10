@@ -3,9 +3,12 @@ shortcode: zmrhdhsncnttns
 name: {full: Zemor Hodhis Incantations}
 type: lore
 subType: arcana
-tags: [lore, arcane, zemor-hodhis, draft]
+description: "A catalogue of the incantations of the Six Ways, grouped by the six currents of the arcane and the central mastery of Kentra, with their levels and effects."
+tags: [lore, arcane, zemor-hodhis]
 data: {packFolder: affiliationszemorhodhis, culture: vylarianclt}
 ---
+
+The incantations of [[affiliation-zemorhodhis|The Six Ways]], the Zemor Hodhis, are grouped below by the six currents of the arcane. [[affiliation-kentra|Kentra]] stands at the center of their seal: mastery of all six, rather than a seventh current. Each list gives the incantations in order of level, with a brief account of their effects.
 
 ## Pirethos (Fire)
 
@@ -91,7 +94,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-## Kentra ( _The Center All_)
+## Kentra (_The Center All_)
 
 ```sql
 SELECT address.slug          AS _ref,

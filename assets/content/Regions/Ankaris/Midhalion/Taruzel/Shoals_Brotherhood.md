@@ -43,6 +43,7 @@ data:
       Reader of the Keeping: >-
         Held by an Elder, chosen by the Elders. Keeps the Qatilush by heart, reads it at the muster and at every swearing, and speaks first when a Brother is judged.
   seat: null
+  range: [tamzirshoals]
   population: 400
   economy: []
   lore: [humanflk]
@@ -129,6 +130,6 @@ The League's galleys hunt the channels round the Shoals, and no League galley ha
 
 # The Truth of the Brotherhood {#truth .secret}
 
-**The dead's share is unpaid.** The League doubled its patrols in the channels two seasons ago, takings have been thin since, and the Keeper of the Lots has paid the families of the dead nothing for two seasons. The Caller, [Burakan Zupumi]{.name data-type="being/npc"}, a Brother of thirty who was a boy in the boats at the Shoals and is the first Caller who is not an Elder, means to pay them. He has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vilérian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms.
+**The dead's share is unpaid.** The League doubled its patrols in the channels two seasons ago, takings have been thin since, and the Keeper of the Lots has paid the families of the dead nothing for two seasons. The Caller, [[being-brknzpmi|Burakan Zupumi]], a Brother of thirty who was a boy in the boats at the Shoals and is the first Caller who is not an Elder, means to pay them. He has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vilérian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms.
 
 The Elders do not know. If they learn of it before the rams are sold, Burakan will be judged under the fifth article, and the Brotherhood will split between the crews who would give him to the sand and the crews who have not eaten well since spring. If they learn of it after, the Brotherhood will have broken its own code for Vilérian silver, and the Free Captains will not lie in its lagoon again. A party can be hired by the factor to see the rams delivered, by an Elder who suspects to find them, or by Burakan himself, who needs a hull that can carry a ram and a crew that is not his.

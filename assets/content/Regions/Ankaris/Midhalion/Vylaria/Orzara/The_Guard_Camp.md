@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "The Thaurzurgalis, fortified barracks of the Sorvan—the imperial guard—set on the palace hill within Arvon; the armed heart from which the throne enforces its grip on its own capital, and the one fortress inside the Inner Wall."
 tags: [settlement, vylaria, imperial, orzara, military, fortress]
-data: {demonym: null, lore: [], parents: [vylariargn], population: 5000, government: vylarinmpr}
+data: {demonym: null, lore: [], parents: [orzara], population: 5000, government: vylarinmpr}
 ---
 
 ## Thaurzurgalis—The Imperial Barracks

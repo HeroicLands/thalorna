@@ -70,7 +70,7 @@ She commands some five thousand armed veterans and every gate-road across the Cl
 
 ### Weaknesses
 
-Her command is the Veramus's to give and take, and the Veramus holds his seat at the throne's pleasure. Her pursuit of Harkis has become a private matter, and a party offering her a lead on him can lead her a long way.
+Her command is the Veramus's to give and take, and the Veramus holds his seat at the throne's pleasure. Her pursuit of Harkis has become a private matter, so any lead on him pulls her a long way from her post.
 
 ## Social
 

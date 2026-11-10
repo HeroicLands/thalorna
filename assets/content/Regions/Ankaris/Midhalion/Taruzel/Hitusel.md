@@ -35,13 +35,13 @@ The pits are a row of stone-lined tanks cut into the slope above the northern co
 
 ## Who Rules and Keeps Order
 
-The village is governed by the [[affiliation-cnclhtsl|Council of Hitusel]], the heads of the households that own a boat or a pit, who meet on the beach of the southern cove in fair weather and in the cistern house in foul. Its First of the Council is [Tasiran Zattuni]{.name data-type="being/npc"}, whose family owns more boats than any other. The council allots the cove's beach and the drying racks, settles quarrels over nets and catch, and deals with the Sazumun buyers and the city-state's tax collectors for the whole village.
+The village is governed by the [[affiliation-cnclhtsl|Council of Hitusel]], the heads of the households that own a boat or a pit, who meet on the beach of the southern cove in fair weather and in the cistern house in foul. Its First of the Council is [[being-tasrnzttni|Tasiran Zattuni]], whose family owns more boats than any other. The council allots the cove's beach and the drying racks, settles quarrels over nets and catch, and deals with the Sazumun buyers and the city-state's tax collectors for the whole village.
 
 Hitusel has no watch. A theft from a boat or a house is taken to the council, and in a village of 2,000 the council usually knows the thief before the theft is reported. The usual sentence is restitution and a fine to the council, and a man who steals twice is put out of the village and goes to look for work in Sazumun.
 
 ## The Failing or the Quarrel {#present}
 
-Hitusel's pits are failing with their master. [[being-dpmnjkdn|Dapuman Jakuduni]]'s hands and back are going, he has no son and no apprentice, and the Sazumun buyers who ride up for his hides fear the old way of tanning will end with him. The council's quarrel is the reef. A boat from Sazumun went out round it at night with no Hitusel man aboard and came back whole, so somebody in the village has shown the channel to strangers. The fishermen want the seller found, and [Tasiran Zattuni]{.name data-type="being/npc"}, First of the Council for the fourth spring, will have to judge a neighbor.
+Hitusel's pits are failing with their master. [[being-dpmnjkdn|Dapuman Jakuduni]]'s hands and back are going, he has no son and no apprentice, and the Sazumun buyers who ride up for his hides fear the old way of tanning will end with him. The council's quarrel is the reef. A boat from Sazumun went out round it at night with no Hitusel man aboard and came back whole, so somebody in the village has shown the channel to strangers. The fishermen want the seller found, and [[being-tasrnzttni|Tasiran Zattuni]], First of the Council for the fourth spring, will have to judge a neighbor.
 
 ## Hooks {#hooks}
 

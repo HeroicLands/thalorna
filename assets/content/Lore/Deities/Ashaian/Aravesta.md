@@ -4,7 +4,7 @@ name: {full: Aravesta}
 type: lore
 subType: deity
 description: "The Golden Giver of the Ashaian pantheon—wealth, abundance, and the pleasures a full table permits."
-tags: [draft]
+tags: []
 data: {packFolder: deitiesashalan, culture: dunhariclt}
 ---
 

@@ -58,7 +58,7 @@ data:
         - why the statue's crowned rune encloses a smoothed patch where the script's rule puts a name
 ---
 
-In The Raising of the Eagle City, a tour-guide of [[place-arvon|Arvon]] (the Inner City), taking a group of petitioners from the provinces up the [Paldor]{.name data-type="place/feature"}, stops them at the foot of the Founder's statue and points past it at the gate. "Everything you are about to see was built on the second try," she says. "The first try is the hill you walked past on the way in, and it is still standing."
+A tour-guide of [[place-arvon|Arvon]] (the Inner City), taking a group of petitioners from the provinces up the [Paldor]{.name data-type="place/feature"}, stops them at the foot of the Founder's statue and points past it at the gate. "Everything you are about to see was built on the second try," she says. "The first try is the hill you walked past on the way in, and it is still standing."
 
 ## The Old City
 

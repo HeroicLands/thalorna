@@ -182,7 +182,7 @@ nivun gerhen benu nerdim, leshim tenyut./
 [[place-ashkarad|ashkarad]] nemi bermir, zargandur nemi garvan,/
 [[place-kethramir|kethramír]], tarem dalyim genbun, [[place-vahurdash|vahurdash]], tarem/
 genur hiresh telver, [[place-mehrnagord|mernagord]] senvel yisur,/
-[[place-ushtraber|ushtra-ber]] senvel silnel. nivun lu./
+[[place-ushtraber|ushtra-ber]] senvel silnel. nivun lu hiresh./
 nivun narvim, nivun tenyut. narem gerni‼/
 nivun. nivun. mener genbun dener diven/
 vanel dalyim. heri veme kenbesh lemhur./

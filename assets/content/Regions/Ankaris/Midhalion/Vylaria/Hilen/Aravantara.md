@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [hylen]
   population: 28000
+  routes: [{to: orzara, bearing: W, mode: land, days: 10, terrain: [road]}]
   packFolder: vylaria
   government: provnchyln
 ---
@@ -21,6 +22,8 @@ Come to Aravantara in the weeks after harvest and you will find a city that work
 The forums hold fewer _kurthoi_ (senators) than a province so full of senatorial families might lead you to expect. The voices belong to estate-factors and grain-brokers, and the city's calendar turns on the harvest rather than on any festival. The old landed families keep townhouses here. A broker tells a new clerk where the real conversation is: "The _therkos_ (governor) holds the audience, but the councils decide what is said at it, and the councils are the houses." Hilen's conservative temper, traditionalist and suspicious of merchants and mages alike, is nowhere stronger than in those councils.
 
 ## Arriving
+
+[[place-orzara|Orzara]] lies ten days west by road.
 
 Every road in the estate country ends at Aravantara, and in harvest weeks the last five miles of each are one slow line of wagons. A carter learns to judge his wait by the landmarks: at the last estate's boundary stone before the city he is a day out, and at the tombs he is a morning out. The tombs line the road for the final mile, since the dead lie outside the boundary, and the great houses of the province bury their masters there under roofs of carved stone, each with its house's name cut deep enough to read from a wagon seat.
 

@@ -542,4 +542,8 @@ The Betrayal of the Path
 : An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named [The Ascetic]{.name data-type="being/npc"} appears in Salkalon and challenges Koremdanis's understanding of the path she's devoted her life to mastering. Koremdanis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
 
 The Master's Retirement
-: Swordmaster Pelerar, Koremdanis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Pelerar requests that Koremdanis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Koremdanis questions whether compromising her pure approach to teaching would betray everything Pelerar taught her about integrity.
+: Swordmaster Pelerar, Koremdanis's ancient teacher and the only person she truly respects, approaches his end. He summons her while there is still time. Koremdanis must reach him before age takes away their last chance to speak.
+
+:::secret {title="The master’s heir"}
+Pelerar has identified an heir, a student whose potential matches Koremdanis’s own, and asks her to finish that student’s training. The heir trained first in a rival tradition. Koremdanis must decide whether accepting the request compromises the integrity of the teaching Pelerar gave her.
+:::

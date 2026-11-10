@@ -446,5 +446,9 @@ His knees, his age, and a loyalty to the house that does not ask what the house 
 
 1. **The heir.** Lord Korvathos has fallen ill, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
 2. **The raid.** A Varokh band has come over the march in a bad summer with the household's best men away at the frontier towers, and the only captain left in the tower is Arzanalas, with a yard of boys he has trained and no knees.
-3. **The lord's dealings.** Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas swore to the house, not to [[place-orzara|Orzara]], and the clerk of the [[affiliation-imperialoffices|Imperial Offices]] who is measuring the road has come to the tower to ask him what he has seen.
+3. **The lord's dealings.** A clerk of the [[affiliation-imperialoffices|Imperial Offices]] measuring the road has come to the tower to question Arzanalas about Lord Korvathos’s dealings. The old huscarl must decide how to answer an officer from [[place-orzara|Orzara]].
 4. **The pupil.** The best spearman Arzanalas ever trained has come back to Tirellan as captain of a rival lord's tower, and the two houses are about to quarrel over a ford.
+
+:::secret {title="The lord’s dealings"}
+Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas has seen enough to know. He swore to the house, not to Orzara, and the clerk’s questions put that loyalty to the test.
+:::

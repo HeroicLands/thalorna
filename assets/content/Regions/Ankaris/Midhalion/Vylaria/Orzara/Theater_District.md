@@ -1,6 +1,6 @@
 ---
 shortcode: magntheatredstr
-name: {full: Theatre District}
+name: {full: Theater District}
 type: place
 subType: site
 description: "The theater quarter of Orzara—semicircular theaters and odeons staging tragedy, comedy, recitation and music, home of the masked Vilérian stage and its celebrated machinery."
@@ -8,7 +8,7 @@ tags: [site, district, orzara, vylaria]
 data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder: vylaria}
 ---
 
-The **Theatre District** is the quieter of [[place-orzara|Orzara City]]'s two quarters of pleasure, the quarter of [[place-rathaunamelvar|The Racecourse]] about the [Racecourse Circle]{.name data-type="place/site"} being the loud one, and by some distance the more celebrated abroad. A pedicab runner who works the avenues from the [[place-grandmarketorz|Grand Market]] to the Circles knows its habits better than the ticket-sellers do: "Nobody hires me to the Theatre District before noon, and I do not take anyone out of it before midnight. The place keeps its own clock, and you will keep it too."
+The **Theater District** is the quieter of [[place-orzara|Orzara City]]'s two quarters of pleasure, the quarter of [[place-rathaunamelvar|The Racecourse]] about the [Racecourse Circle]{.name data-type="place/site"} being the loud one, and by some distance the more celebrated abroad. A chair-bearer who works the avenues from the [[place-grandmarketorz|Grand Market]] to the Circles knows its habits better than the ticket-sellers do: "Nobody hires me to the Theater District before noon, and I do not take anyone out of it before midnight. The place keeps its own clock, and you will keep it too."
 
 Its great **semicircular theaters and odeons** stage tragedies, comedies, recitations and music throughout the season. The Vilérian stage is famous across the world for its masked players and for stage-machinery elaborate enough that visitors regularly assume magic and are regularly wrong.
 

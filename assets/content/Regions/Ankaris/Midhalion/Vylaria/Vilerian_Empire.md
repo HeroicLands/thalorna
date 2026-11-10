@@ -263,6 +263,9 @@ The empire uses the [[lore-vylrncrncy|Vilérian currency]] (Solden, Ardin and Og
 
 ## See Also
 
+[[affiliation-tevranaelissium|Tevran of Elissara]]
+: the chartered government of the free city
+
 [[place-vylariargn|Viléria Region]]
 : the land the empire holds
 

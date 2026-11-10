@@ -67,8 +67,6 @@ No draft animal is kept inside the thrima, and the Irons' horses are no exceptio
 
 The Irons' Master owns the faction's betting books, and the books are the faction's real wealth. Every race day the Keeper of the Book takes wagers in the stands and in the taverns of the Warrens, at odds he sets himself, on the Irons' teams and on the Golds'. The books are licensed by nobody and closed by nobody. A wager the bettor cannot pay is written into the book as a debt, and the Keeper's men collect it.
 
-The book does not stop at the Warrens. Sons of senatorial houses come down from the [[place-heightsorz|Heights]] to bet with the Irons because the Irons' odds are better and their book is discreet, and a son who loses more than his allowance writes his name in it. The Master holds those debts, and some of the sons now sit on their fathers' benches in the [[affiliation-seldan|Seldan]].
-
 ## The Stand-Clubs and the Street
 
 The Irons' crowd is organized into **stand-clubs**, each holding its own block of the Racecourse's seats and each with its own captain, its own tavern in the Warrens and its own dues. A club's Brothers sit together, shout together and leave together, and when they meet a club of the Golds in a lane after the races they fight together. The captains answer to the Master, and the Master can turn the clubs out into the streets on any day he chooses.
@@ -107,5 +105,7 @@ The rivalry with the Golds is as hot as it has been in years. The Golds won the 
 : the city whose crowd the factions are
 
 # The Truth of the Irons {#truth .secret}
+
+The book does not stop at the Warrens. Sons of senatorial houses come down from the [[place-heightsorz|Heights]] to bet with the Irons because the Irons' odds are better and their book is discreet, and a son who loses more than his allowance writes his name in it. The Master holds those debts, and some of the sons now sit on their fathers' benches in the [[affiliation-seldan|Seldan]].
 
 The Master of the Irons fixed a race for a senator. Three seasons ago a _kurthos_ (senator) of a Gilded house asked, in a letter in his own hand, for the Golds' team to win the great race on his patron's feast day, and paid for it. The Master told his First Driver to lose by a length, and the senator's friends won heavily on the Golds. The Master kept the letter. It is the most dangerous paper he owns, because it can ruin the senator and the Master both: a race fixed on a divine Orzas's feast day cheats every man who bet on it, and the senator's friends are not the only ones who did. Each of them knows the other has reason to keep it quiet, and each has begun to wonder whether the succession changes that.

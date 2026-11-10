@@ -129,7 +129,7 @@ The bodies
 - The Compact's calls come sooner, the halls fill, and the crates go on reaching the coves. The Compact learns three delivery dates and makes three arrests.
 - The admirals' family clears the plots on Khamisar with marines who are veterans' sons, and the Veterans' Quarter watches it done.
 - On the morning of the Review the veterans' boats come down the narrows at the tail of the line. Whether they close it, and what follows if they do, depends on who is on the water and who has been warned. A League galley waits off the cape for the last boat.
-- The summer session opens after the Review with the debt's interest read first. The petition, the toll, the audit and the indemnity follow in the order whoever bought the list has paid for.
+- The summer session opens a few weeks after the Review with the veterans' petition read first, as Danashu promised. The audit is read after it; the debt's interest, the toll and the indemnity also await the order he sets. The Balinuni buy the second copy before dawn and learn his order in time to press him to change it.
 
 ## The Secret {#the-secret}
 

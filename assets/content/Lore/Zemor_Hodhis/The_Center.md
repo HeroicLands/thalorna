@@ -1,8 +1,9 @@
 ---
 shortcode: kentra
-name: {full: The Centre, en: [The Centred], vyl: [Kentra]}
+name: {full: The Center, en: [The Centered], vyl: [Kentra]}
 type: affiliation
 subType: arcanetradition
+description: "Mastery of all six currents of the Zemor Hodhis, pursued by rare mages of the Thordimalon through decades of practice and informal mutual teaching."
 tags: [zemor-hodhis]
 data:
   culture: vylarianclt
@@ -14,43 +15,17 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Advancement by degree of initiation, with a body of elders deciding what is taught and who is admitted.
+      An achievement shared through informal networks, with no fellowship, governing body, officers or promotion ladder of its own. Kentra mages retain their standing in the Order and their original fellowships where they choose.
     ranks:
       - level: 0
-        title: Anathema
+        title: Unrecognized
         description: >-
-          Named against the tradition and cut off from its teaching, its protection and its company; what it taught them is not taken back.
+          Not recognized as having attained mastery of all six currents, with no standing as Kentra.
       - level: 1
-        title: Initiate
+        title: Kentra
         description: >-
-          Received into the tradition and bound by its oaths, holding its first mysteries and few of its secrets.
-      - level: 2
-        title: Adept
-        description: Practiced in the tradition's art and trusted to work it unsupervised.
-      - level: 3
-        title: Master of the Art
-        description: Competent to teach the tradition and to answer for what a pupil does with it.
-      - level: 4
-        title: Keeper of the Tradition
-        description: >-
-          Holding one of its bodies of knowledge or one of its houses, and answerable for its continuance.
-      - level: 5
-        title: Elder
-        description: Of the small body that decides what the tradition teaches and whom it admits.
-      - level: 6
-        title: First of the Tradition
-        description: >-
-          Presiding over the elders and speaking for the whole tradition where it must speak with one voice.
-    offices:
-      First of the Tradition: Presiding elder, who speaks for the tradition where it must speak with one voice.
-      Elder: Of the body that decides doctrine, admission and expulsion.
-      Marendos: Master of a school, holding its teaching, its pupils and its reputation.
-      Lorezos: Charged with the instruction of initiates, and with judging when they are ready.
-      Keeper of the Grimoires: Warden of the tradition's written work, and of who may read which part of it.
-      Warden of the Threshold: Examiner of aspirants, and the last check before an oath is taken.
-      Sekeros: Investigator of the tradition's own—unlicensed practice, broken oaths, and worse.
-      Frenkos: Keeper of the tradition's endowment, its houses and its stipends.
-      Envoy: The tradition's representative to a court or a rival school.
+          Recognized mastery of all six currents, shared through informal networks. This achievement confers no office or promotion in the Order.
+    offices: {}
   seat: null
   population: null
   economy: []
@@ -59,10 +34,6 @@ data:
   relations: {}
   packFolder: affiliationszemorhodhis
 sohl: {system: {commonSkills: []}}
-
-# school: center
-# adjacent: all
-# opposition: none
 ---
 
 **Kentra** is not a seventh _rhezin_ (current) of the [[affiliation-zemorhodhis|Zemor Hodhis]] but the _mastery_ of all six. Kentra mages stand at the center of the [[affiliation-zemorhodhis|Thizaron]], able to attune to and work magic across all six _rheza_ with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Order]], and among the most powerful. Within Order cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
@@ -114,6 +85,12 @@ Mages diagnosed with _selthkelmeza_ are evaluated by a panel of senior _marendoi
 
 The Order's care for its afflicted is sincere, in the only way the Order knows how to be sincere: institutionally, paternally, and absolutely.
 
+## The Present {#present}
+
+Kentra mages continue to share their work through informal networks while the Order continues to organize its teaching through six fellowships. The Order watches advanced practitioners for the symptoms it calls _selthkelmeza_; a confirmed diagnosis ends active practice and brings residence in one of its houses. The prospect of that removal hangs over the work of mages trying to extend what they can perceive.
+
+:::secret {title="What the Order Does Not Say"}
+
 ### What the Order Does Not Say
 
 What the framework cannot accommodate—and therefore does not consider—is the possibility that the afflicted mages are not unwell. The advanced Kentra practitioner who has worked across all six _rheza_ for decades has, in the course of that work, begun to perceive the _shape_ of the framework's limits. They are not hallucinating arcane currents that do not exist; they are perceiving currents that do exist but for which the Zemor Hodhis has no vocabulary. The "incoherence" of their speech is the sound of someone trying to describe a seventh thing in a language with only six nouns.
@@ -145,6 +122,8 @@ Mages afflicted with _selthkelmeza_ are kept far away from foreign practitioners
 The actual reason is the opposite. Where their unafflicted colleagues experience cosmological scandal upon encountering foreign magic—_this cannot be real_—an afflicted mage often experiences something closer to recognition. _Yes. That. That is what I was trying to say._ The foreign tradition gives them, for the first time, vocabulary they have lacked their whole lives. The Order understands this risk implicitly, even when it does not articulate it, and acts on it consistently. Afflicted mages do not travel. They do not receive foreign visitors. They are not permitted access to texts from outside traditions, even in translation, even in the Order's own libraries.
 
 A few have escaped. A very few have found their way to foreign teachers. What becomes of such mages—what they are capable of, once their long-suppressed perceptions find a framework that can hold them—is one of the questions the Order most fears, and most carefully refuses to investigate.
+
+:::
 
 ## See Also
 

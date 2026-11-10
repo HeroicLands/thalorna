@@ -3,7 +3,8 @@ shortcode: pzsnkhdzm
 name: {full: Pazasan Khidizum}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "A watchman of the Sazumun quay guild who reads manifests for the gaps and kept a record of the Hitusuni warehouses' untaxed night cargoes, until it vanished from his lodgings and the house's head began calling him corrupt."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -368,6 +369,8 @@ sohl:
 ---
 
 # Appearance {#appearance}
+
+Pazasan Khidizum is 31 years old.
 
 Pazasan stands 5'11" with a medium build—rangy and loose-limbed, with the easy posture of a man comfortable in his own skin. His dark brown hair is thick and slightly curling, worn to his ears in the [[lore-taruzelianclt|Taruzelian]] style, and his dark amber eyes are sharp and calculating beneath a left eyebrow bisected by a thin white scar—the only visible evidence of a fight with smugglers on the quays five years past. His medium-toned skin is clear and unblemished, and his face is long and narrow, with a straight nose and a neatly trimmed beard that follows his jawline. He wears the coat of his guild's watch: a light padded tunic, leather bracers, and soft-soled boots designed for quiet movement on wooden dock planking. He carries a short sword, but his hands—long-fingered and precise—seem better suited to counting coins than drawing steel.
 

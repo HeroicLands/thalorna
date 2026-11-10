@@ -73,7 +73,7 @@ The two armies met on the **Olkassa** estate, one of the great holdings of the p
 
 ## What Olkassa Meant
 
-Makandas won the field and could not use it. He had half his army, the estates' granaries were burned or taken and the harvest was lost. The war went on two years more, and the bread and the dole both failed in the capital before it was over ([[lore-greatburnng|The Great Burning]]).
+Makandas won the field and could not use it. He had half his army, the estates' granaries were burned or taken and the harvest was lost. The war continued until Makandas took the capital about 406, and the bread and the dole both failed in the capital before it was over ([[lore-greatburnng|The Great Burning]]).
 
 Hilen has not forgotten. The province's great houses, whose estates the armies marched across, say that no Vilérian should draw a sword on another, and the conservatism that marks the province's politics owes a good deal to the field. The ground itself is farmed ([[place-olcassafld|The Blood-field of Olkassa]]).
 

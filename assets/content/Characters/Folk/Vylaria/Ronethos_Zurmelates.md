@@ -6,7 +6,7 @@ name:
 type: being
 subType: npc
 description: "A sekeros of the Arcane Inquisition known for dogged persistence, who is following thefts from the Epistémion's mineral stores and new alchemical compounds on the black market, and keeps meeting Azato Damzanis on the way."
-tags: [draft]
+tags: []
 data:
   icon: icon-person
   templatePriority: null
@@ -14,7 +14,7 @@ data:
   occupation: Field Investigator
   lore: []
   culture: vylarianclt
-  homes: []
+  homes: [tyrellan]
   affiliations: {sekran: {rank: 2}, ordoarcanis: {rank: 3}}
   socialTies: {being-azatodmzns: rival}
   gender: male
@@ -42,6 +42,8 @@ Ronethos Zurmelates is a 58-year-old man who stands 5'10" tall and is of light b
 Ronethos Zurmelates is a _sekeros_ (inquirer) of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran), the enforcement arm of the [[affiliation-ordoarcanis|Thordimalon]], and he holds its commission: he may compel testimony, search property, seize arcane materials and detain a suspect, and he answers for every file he opens. His reputation in the Sekran is for persistence. He does not drop a file because it has gone quiet.
 
 His present file concerns two things that may be one: minerals stolen from the stores of the [[affiliation-panepistmm|Epistémion]], and new alchemical compounds that have begun to appear in black-market channels. He has no evidence against [[being-azatodmzns|Azato Damzanis]], the alchemist of the Order at [[place-tyrellan|Tirellan]], but their paths cross more often than he likes, and he has noticed it.
+
+He keeps his rooms and active files at [[place-tyrellan|Tirellan]], close enough to the provincial traffic to question the carters who bring mineral cargoes down from the heights. His landlord knows him as a quiet tenant who pays for dry storage before better food. Witnesses meet him by appointment; he will not leave a frightened informant waiting in a public corridor.
 
 ## Background
 

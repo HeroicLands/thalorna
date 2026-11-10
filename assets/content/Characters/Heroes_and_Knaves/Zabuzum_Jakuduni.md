@@ -16,7 +16,7 @@ data:
   affiliations: {thetamzir: {rank: 7, office: Captain}, cnfdrtntrzlnstts: {rank: 3}}
   gender: male
   species: humanflk
-  born: 680.191
+  born: 685.191
   height: 6' 2"
   weight: 180 lbs
   frame: medium

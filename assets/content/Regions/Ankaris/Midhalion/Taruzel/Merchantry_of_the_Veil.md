@@ -13,7 +13,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A trade association with unpublished rolls, whose agents are known by sigil rings and coded phrases.
+      A trade association directed collectively by a council of its brokers in private meetings. Its rolls are unpublished, and its port agents identify themselves by sigil rings and coded phrases.
     ranks:
       - level: 0
         title: Unsealed
@@ -27,8 +27,10 @@ data:
         title: Broker
         description: >-
           An agent trusted to arrange dealings between clients who cannot be seen together.
-    offices: {}
-  seat: null
+    offices:
+      Council of Brokers: >-
+        Held collectively by the brokers who direct the association in its private meetings. The council's membership is unpublished; no single merchant prince speaks for the whole Merchantry.
+  seat: besikar2
   population: null
   economy: []
   lore: []
@@ -51,7 +53,7 @@ Headquarters
 
 ## The Veil
 
-The Merchantry cultivates mystery. Its membership rolls are not public, its meetings are private, and its agents identify themselves by sigil rings and coded phrases instead of guild badges. The secrecy is partly affectation, since the luxury trade has always traded on exclusivity, and partly necessity. The Merchantry's real business is brokering connections between people who cannot afford to be seen dealing with each other.
+The Merchantry is directed by a council of its brokers, whose membership is unpublished. It cultivates mystery. Its membership rolls are not public, its meetings are private, and its agents identify themselves by sigil rings and coded phrases instead of guild badges. The secrecy is partly affectation, since the luxury trade has always traded on exclusivity, and partly necessity. The Merchantry's real business is brokering connections between people who cannot afford to be seen dealing with each other.
 
 Its clients show what that means. A Vilérian _kurthos_ (senator) who needs a message carried to a Taruzelian rival without either government knowing comes to the Merchantry. So does a [[affiliation-ordoarcanis|Thordimalon]] mage who needs alchemical ingredients banned under imperial law, and so does a fugitive who needs passage out of a Taruzelian port with no questions asked: the Merchantry knows which captains do not check manifests.
 

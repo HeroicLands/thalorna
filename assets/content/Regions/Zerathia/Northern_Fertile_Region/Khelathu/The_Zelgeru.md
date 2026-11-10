@@ -4,7 +4,7 @@ name: {full: The Zelgeru}
 type: place
 subType: region
 description: "The great temple-estates of the empire, each with its granaries, workshops and tenant-villages—religious, economic and political institutions rivaling the Gar-Au's palace in power"
-tags: [generated, draft]
+tags: [generated]
 data:
   demonym: Khelathi
   lore: [humanflk]
@@ -23,6 +23,10 @@ data:
 ## Character
 
 The Zelgeru holds no single tract of ground. Its estates lie wherever the empire's irrigated grain-land will support a temple's granaries, from the delta marshes to the upper-river basins, and each is carved out of whichever selat surrounds it. One selat can therefore hold estates of several temples that answer to their gods and not to its Halzi'a.
+
+## The Present {#present}
+
+The estates’ western trade reaches [[place-orzara|Orzara City]] through their factor, [[being-mthszrtml|Methisi Azeret'Mulu]], who offers the Vilérian throne grain on credit and silver for its paper. The capital’s shipping houses want the grain contract, while its grain dealers oppose the foreign supply.
 
 ## See Also
 

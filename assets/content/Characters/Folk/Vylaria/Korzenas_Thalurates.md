@@ -37,7 +37,7 @@ data:
     skin_color: fair
     complexion: [pasty]
     extra_features:
-      - a stoop in the shoulders from forty years at a clerk's desk
+      - a stoop in the shoulders from thirty years at a clerk's desk
       - ink-stained fingertips on the right hand
   packFolder: midhalionvylaria
 ---
@@ -74,7 +74,7 @@ He holds the debts of houses that hold the Senate's votes. The Offices are full 
 
 ### Weaknesses
 
-He has no blood, no masks and no friends among the old houses, and every one of them would celebrate his ruin. His power lies in debts that are worth only what the debtors fear, and a house he presses too hard may decide it prefers ruin to obedience.
+He has no blood, no masks and no friends among the old houses. His power lies in debts that are worth only what the debtors fear, and a house he presses too hard may decide it prefers ruin to obedience.
 
 ## Social
 

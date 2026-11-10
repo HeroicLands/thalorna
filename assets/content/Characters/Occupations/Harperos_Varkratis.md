@@ -445,7 +445,11 @@ The soldiers of the camp who have lost to him at the marks on pay day do not lik
 
 ## Plot Hooks
 
-1. **The names.** Harperos has heard names read at the camp's pay parade that belong to men he helped bury. He has told nobody, and he does not know who to tell.
+1. **The names.** Harperos comes home troubled by the camp’s pay parade. He wants a discreet listener from outside the legion before he approaches anyone in command.
 2. **The plot next door.** Two veterans claim the plot beside his, each with a surveyor's paper that looks genuine. Both served with him, both have asked him to say which is true, and the Vallar wants the forger found before the quarrel comes to knives.
 3. **The widow's son.** A boy of fifteen who has walked in to take the oath is learning the bow from Harperos, and his mother has come after him to bring him home before he swears.
 4. **The road.** The Vallar has asked Harperos to ride out with a party and keep the officer coming from [[place-orzara|Orzara]] on the road for three days, without the officer knowing that he is being kept.
+
+:::secret {title="The names on the roll"}
+Harperos has heard names read at the camp's pay parade that belong to men he helped bury. He has told nobody, and he does not know who to tell. The muster rolls carry men who are not there; the Vallar uses their pay for the camp’s roofs, fuel and bread.
+:::

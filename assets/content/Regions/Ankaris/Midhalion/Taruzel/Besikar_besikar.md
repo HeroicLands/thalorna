@@ -87,6 +87,9 @@ Besikar was the seat of the empire's rule in the islands: the _therkos_ kept his
 
 ## See Also
 
+[[affiliation-qizikuni|Qizikuni]]
+: the banking house of the city
+
 [[place-besikar2|Besikar]]
 : the city itself
 

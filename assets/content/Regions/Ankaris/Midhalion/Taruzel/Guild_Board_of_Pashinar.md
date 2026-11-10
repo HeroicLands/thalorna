@@ -61,7 +61,7 @@ The **Guild Board of Pashinar** is the body of guild officials among the permane
 
 ## The Members
 
-Seven members sit on the board, chosen every two years by the town's licensed factors and its caravanserai keepers. The board is drawn from the same people: four factors, two caravanserai keepers and one warehouse owner. The First of the Board is [Qazima Zazuruni]{.name data-type="being/npc"}, a broad, quick woman of forty-five whose house owns the largest warehouses on the quay and who has never been seen to write anything down. The Warden of the Weights is [Ashuran Dapumi]{.name data-type="being/npc"}, a factor's son with a fine voice, who reads the Forgetting aloud on the quay each spring. His clerk, [[being-rsnmgttn|Rasunum Gatituni]], is no member of the board, and has kept its books under four Wardens.
+Seven members sit on the board, chosen every two years by the town's licensed factors and its caravanserai keepers. The board is drawn from the same people: four factors, two caravanserai keepers and one warehouse owner. The First of the Board is [[being-qazmazzrni|Qazima Zazuruni]], a broad, quick woman of forty-five whose house owns the largest warehouses on the quay and who has never been seen to write anything down. The Warden of the Weights is [Ashuran Dapumi]{.name data-type="being/npc"}, a factor's son with a fine voice, who reads the Forgetting aloud on the quay each spring. His clerk, [[being-rsnmgttn|Rasunum Gatituni]], is no member of the board, and has kept its books under four Wardens.
 
 ## What the Board Does
 
@@ -69,7 +69,7 @@ The board takes the landing dues on every bale the weigh-house seals, licenses t
 
 ## Current Situation {#present}
 
-The board is watching its town's trade being bought out from under it. The [[affiliation-balinuni|Balinuni]] of Kudumel have bought the debts of Pashinar's factors through the Auric Compact and call them in one at a time. A new toll-gate on the pass road above the town sends caravans back to the quay to hire hulls. A Dunhari caravan master read on the Forgetting this spring swears he broke no bargain anywhere. [Qazima Zazuruni]{.name data-type="being/npc"}, First of the Board, holds the largest warehouses on the quay, and [[being-rsnmgttn|Rasunum Gatituni]] keeps the board's books as he has for thirty years.
+The board is watching its town's trade being bought out from under it. The [[affiliation-balinuni|Balinuni]] of Kudumel have bought the debts of Pashinar's factors through the Auric Compact and call them in one at a time. A new toll-gate on the pass road above the town sends caravans back to the quay to hire hulls. A Dunhari caravan master read on the Forgetting this spring swears he broke no bargain anywhere. [[being-qazmazzrni|Qazima Zazuruni]], First of the Board, holds the largest warehouses on the quay, and [[being-rsnmgttn|Rasunum Gatituni]] keeps the board's books as he has for thirty years.
 
 ## History {#history}
 

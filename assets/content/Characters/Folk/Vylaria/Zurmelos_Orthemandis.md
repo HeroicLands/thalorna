@@ -70,7 +70,7 @@ He does not know the district, and his searches anger the people whose quiet coo
 ### Others
 
 - [[being-ganothisdora|Ganothis Dorandates]]: The old senior sergeant whose methods he is replacing, and whose men still go to him first.
-- [[being-xenoksbrds|Zénokos Bardas]]: A young guard of the station, whom Zurmelos expects to follow orders and who keeps looking at Ganothis before he does.
+- [[being-xenoksbrds|Zenokos Bardas]]: A young guard of the station, whom Zurmelos expects to follow orders and who keeps looking at Ganothis before he does.
 
 ### Affiliations
 

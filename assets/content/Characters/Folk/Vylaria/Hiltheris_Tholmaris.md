@@ -12,7 +12,7 @@ data:
   occupation: Marendos
   lore: []
   culture: vylarianclt
-  homes: []
+  homes: [orzara]
   affiliations: {ordoarcanis: {rank: 4}}
   socialTies: {being-azatodmzns: rival}
   gender: female
@@ -39,7 +39,9 @@ Hiltheris Tholmaris died at fifty-two, a woman of 5'8" and medium build. In life
 
 Hiltheris Tholmaris was a _marendos_ of the Thordimalon (the Order) and a scholar of mineral essence. Her theories were the ones [[being-azatodmzns|Azato Damzanis]] took apart in public as "fundamentally confused about the nature of mineral essence", and the quarrel between them was the talk of the Order for a season. She died soon after, in circumstances never fully cleared. The death prompted an inquiry by [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) that touched Azato at its edge, and the inquiry was set down without a finding.
 
-She belongs in play as a name in other people's files: the Sekran's, the [[affiliation-panepistmm|Epistémion]]'s records, and Azato's memory.
+Her name sits in other people's files: the Sekran's, the [[affiliation-panepistmm|Epistémion]]'s records, and Azato's memory.
+
+Her former home is in [[place-orzara|Orzara]], where the Academy retains the address with her teaching records. The rooms are no longer hers, and inquiries about her work go to the archivists and surviving pupils. Her family's request concerning her remains brings those old connections back into use without giving any of them a settled account of her death.
 
 ## Background
 
@@ -47,7 +49,7 @@ She belongs in play as a name in other people's files: the Sekran's, the [[affil
 
 **The rupture.** The partnership ended in public. Azato published his demolition of her theories, and the Order read it.
 
-**The death.** She died sixteen years ago. The Sekran's inquiry into the death touched Azato, found nothing it could prove, and was closed. Azato moved his laboratory to a rented estate outside [[place-tyrellan|Tirellan]] and took an alias for his private work soon after.
+**The death.** She died sixteen years ago. The Sekran's inquiry into the death touched Azato, found nothing it could prove, and was set down without a finding.
 
 ## Psyche
 
@@ -85,6 +87,8 @@ She trusted her partner, and she lost the argument with him in front of the Orde
 3. **The grave.** Hiltheris's family asks a party to escort her remains from a temporary tomb to the family's own, and the Sekran's notary asks to be present when the tomb is opened.
 
 :::secret {title="The shared project and the dormant file"}
+Azato moved his laboratory to a rented estate outside [[place-tyrellan|Tirellan]] and took an alias for his private work soon after.
+
 Before their quarrel, Hiltheris and Azato worked together on a project that neither of them entered in the Order's records. The references the apprentice finds are to that work. Azato's public demolition of her theories came after it, and what the work was, and why it ended in a rupture, is known only to Azato.
 
 The Sekran's file on her death is not closed. Its agents keep their suspicions of Azato, and his name is in the file. Under the Sekran's rule a _holsekeros_ (senior inquirer) may open a dormant file again when a name in it turns up in another, and [[being-ronethoszurm|Ronethos Zurmelates]], who is looking into thefts from the Epistémion's mineral stores, keeps crossing Azato's path. If Azato's name enters Ronethos's file, her file can be opened again.

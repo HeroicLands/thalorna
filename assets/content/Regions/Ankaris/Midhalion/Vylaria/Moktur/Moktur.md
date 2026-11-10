@@ -10,7 +10,11 @@ data:
   lore: [humanflk]
   parents: [vylariargn]
   population: 2000000
-  borders: [{to: nartumkngdm, bearing: E}, {to: vrystwald, bearing: N}, {to: kervaron, bearing: W}]
+  borders:
+    - {to: nartumkngdm, bearing: E}
+    - {to: vrystwald, bearing: N}
+    - {to: kervaron, bearing: W}
+    - {to: alyssa, bearing: S}
   packFolder: vylaria
   government: provncmktr
 ---
@@ -18,6 +22,8 @@ data:
 ## Overview
 
 Two million people live in the mountains along the northern edge of the [[place-vylariargn|Viléria Region]], against the [[place-vrystwald|Vristwald]], among mines, timber and fortified valleys. This is Moktur, the land of the [[affiliation-provncmktr|Province of Moktur]] of the [[affiliation-vylarinmpr|Vilérian Empire]]. Its seat is [[place-tyrellan|Tirellan]]. The Empire organized the land as a march when it cut [[lore-legionsroad|the Legions' Road]] north into the Vristwald, and the marshes below its passes saw [[lore-blackmarshbtl|the Battle of the Black Marsh]].
+
+Moktur borders [[place-alyssa|Alessa]] to the south. It shares no border with [[place-hylen|Hilen]] or [[place-salkhalon|Salkalon]]; [[place-nartumkngdm|Nartun]] lies to its east.
 
 A watchtower sergeant, handing a new recruit his first night on the wall, teaches the one skill the province asks of everyone: "Down there is the Vristwald and up here is the empire, and the line between them is whatever you can see from this wall. Count the smoke. One column is a hearth. Three is a camp. Wake me for three."
 
@@ -76,6 +82,9 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 - **The midsummer banner.** A border lord refused the gate of [[place-korrast|Korras]] says he will take it at midsummer, and both he and the commander want to know who the other can call on.
 
 ## See Also
+
+[[place-blackmarshfld|The Blood-field of the Black Marsh]]
+: the marsh below the Vandstein passes
 
 [[affiliation-provncmktr|Province of Moktur]]
 : the province that holds this land

@@ -12,58 +12,35 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: autocracy
+    model: council
     summary: >-
-      A boss whose word is the organization's only law, held for exactly as long as it is feared.
+      A council of trade factors and counting house owners directs the network collectively. Managers run its lending, laundering and bribery, while local gangs and hired veterans enforce the managers' orders without knowing the principals above them.
     ranks:
       - level: 0
         title: Marked
-        description: Named for killing, and every member who meets them is expected to try.
+        description: >-
+          Denied the network's protection and marked for its enforcers.
       - level: 1
-        title: Hanger-on
-        description: >-
-          Around the organization and useful to it—a doorman, a runner, a girl in a house—and told nothing.
-      - level: 2
-        title: Associate
-        description: >-
-          Working for the organization without being of it: paid for jobs, and disposable between them.
-      - level: 3
-        title: Made Member
-        description: >-
-          Sworn in and under the organization's protection, owing it obedience and a cut of everything.
-      - level: 4
-        title: Earner
-        description: >-
-          Running a business of the organization's—a racket, a route, a house—and paying up from it.
-      - level: 5
         title: Enforcer
         description: >-
-          Charged with what the organization collects by fear, and with what it does when fear fails.
-      - level: 6
-        title: Crew Boss
-        description: Holding a crew and a territory, answerable for both and for what they bring in.
-      - level: 7
-        title: Second
+          A dock-gang member or hired veteran working for an immediate handler, with no knowledge of the principals above that handler.
+      - level: 2
+        title: Manager
         description: >-
-          Second in the organization, running it day to day and standing between the boss and everyone else.
-      - level: 8
-        title: Boss
+          Runs loan collection, bribery schedules or laundering flows through a layer of legitimate businesses, and directs the local handlers and enforcers.
+      - level: 3
+        title: Principal
         description: >-
-          Head of the organization, whose word is its only law and whose position lasts exactly as long as it is feared.
+          One of the trade factors and counting house owners who direct the network together, insulated from its enforcers by managers and handlers.
     offices:
-      Boss: Head of the organization, whose word is its law for as long as it is feared.
-      Second: >-
-        Second, running the organization day to day and standing between the boss and everyone else.
-      Counsellor: Adviser to the boss, holding no crew and no territory and more influence than either.
-      Crew Boss: Holder of a crew and a territory, answerable for what both produce.
-      Enforcer: Collector by fear, and executor of what follows when fear fails.
-      Fence: Buyer and mover of what the organization takes, and its most closely held connection.
-      Fixer: Buyer of officials, judges and watchmen, and keeper of what each of them costs.
-      Treasurer: >-
-        Keeper of the organization's money—its cuts, its bribes, its reserve, and where all three are.
-      Master of Lookouts: Runner of the network of eyes on which every operation depends.
-      Courier: Carrier of what may not be written, between people who may not meet.
+      Council of Principals: >-
+        Held collectively by the principals in Besikar and Yamuzel. It directs the network's dealings through its managers; no single principal holds the council's authority alone.
+      Manager of Operations: >-
+        Held by a Manager, directing loan collection, bribery schedules and laundering flows for the businesses in that manager's charge.
+      Handler: >-
+        The immediate contact who gives a local crew its orders and keeps its enforcers apart from the counting houses above them.
   seat: null
+  range: [besikar2, yamuzel2, qudumel2, bazunel2, vylarianse]
   population: null
   economy: []
   lore: []
@@ -97,7 +74,7 @@ The Crimson Ledger is what emerged—a network of financial criminals who unders
 
 ## Organization
 
-The Ledger operates through layers of legitimate businesses. At the top sit a handful of outwardly respectable trade factors and counting house owners in Besikar and Yamuzel—people who dine with guild masters and attend the Arch-Consul's receptions. Below them, a tier of managers runs day-to-day operations: loan collection, bribery schedules, laundering flows. At the bottom, local dock gangs and desperate war veterans handle enforcement—breaking fingers, burning warehouses, and occasionally drowning people who default on obligations.
+The Ledger operates through layers of legitimate businesses. At the top sits a council of outwardly respectable trade factors and counting house owners in Besikar and Yamuzel—people who dine with guild masters and attend the Arch-Consul's receptions. The principals direct the network collectively; no one boss commands the council. Below them, a tier of managers runs day-to-day operations: loan collection, bribery schedules, laundering flows. At the bottom, local dock gangs and desperate war veterans handle enforcement—breaking fingers, burning warehouses, and occasionally drowning people who default on obligations.
 
 This layered structure insulates the leadership. When enforcers are caught, they know only their immediate handler. When handlers are arrested, the counting houses above them express shock and cooperate fully with investigators, who somehow never find the connection.
 
@@ -116,3 +93,9 @@ The Ledger doesn't use tattoos or sigils—too traceable. Members identify each 
 The Ledger is lending into Taruzel's anger. Its business is lending to the desperate and seizing their labor when they default, and [[affiliation-unchained|the Unchained]] have taken more of its bonds than any honest moneylender has lost; its enforcers hunt the Unchained's Breakers with a zeal the guilds' own lack. The veterans' halls of [[place-besikar2|Besikar]] and [[place-yamuzel2|Yamuzel]] talk of a rising before the Fleet Review, and the Ledger's lowest tier of enforcers is drawn from desperate war veterans. Its debts reach into the halls themselves: the son of [[being-zlmrzzn|Zilmar Ezzinu]], the Besikar hall-keeper who carries the veterans' petition, has borrowed from a Ledger lender to buy a share in a fishing boat.
 
 In the [[affiliation-vezakuni|Vezakuni]] the younger councilors of the Gatitush have proposed stronger powers for its Pazasuni, which would end the arrangement that has left the Ledger's reach into the Taruzelian guilds largely untouched, and the merchant princes are mobilizing against the vote. In Orzara the _rozimoi_ of [[affiliation-danvar|the Danvar]] keep their investigations into the Ledger's reach into the legitimate banking system running, and the [Reformist Faction]{.name data-type="affiliation"} calls the guild's discipline too lenient.
+
+:::secret {title="The principals behind the counting houses"}
+[[being-kdmytlmn|Kadumuya Telmuni]], a counting house owner in Besikar, and [[being-tndnfsnn|Tanadan Fusanuni]], a trade factor in Yamuzel, sit on the Council of Principals. They are two of the handful who direct the Ledger together, not a chief and a deputy. Kadumuya handles the council's laundering accounts through her managers; Tanadan brings its lending and collection business on the Yamuzel quays to the council. Each manager knows which principal takes that account, while the enforcers know only their handler.
+
+The proposed stronger powers for the Vezakuni's Pazasuni threaten both of them. Kadumuya wants the vote defeated before an investigator can connect the accounts; Tanadan wants the veterans he pays kept away from a rising that could turn them against their creditors. A party tracing a collection order can reach a handler first and a manager next. Neither principal's name appears on the order.
+:::

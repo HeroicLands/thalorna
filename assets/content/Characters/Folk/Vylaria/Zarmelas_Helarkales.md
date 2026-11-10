@@ -49,7 +49,7 @@ He has no money. The throne pays the veterans' pension with silver borrowed from
 
 ## Background
 
-**The adopted son.** He was born to a minor branch of a Silver house and served the reign before his own as a _felzos_ (legate) in the provinces, and then as one of the six with standing access to the privy presence. The Orzas before him had no son. He adopted Zarmelas at forty-four, in the last winter of his own life, and Zarmelas took the name of House Helarkales with the diadem. He has reigned twenty-three years, and the court still remembers that he was a careful choice and not a loved one.
+**The adopted son.** He was born to a minor branch of a Silver house and served the reign before his own as a _felzos_ (legate) in the provinces, and then as one of the six with standing access to the privy presence. The Orzas before him had no son. He adopted Zarmelas at fifty-five, in the last winter of his own life, and Zarmelas took the name of House Helarkales with the diadem. He has reigned twenty-three years, and the court still remembers that he was a careful choice and not a loved one.
 
 **The lost war.** The war in which Taruzel won its independence was fought and lost in his reign. He did not command it, and he signed the recognition within a year of the defeat at [[place-tamzirshoals|Tamzir Shoals]]. The officer corps blames the Senate, the Senate blames the officers, and the veterans blame whoever is nearest. Nobody blames the Orzas aloud. He knows exactly how much that silence is worth, and that it lasts only as long as he does.
 
@@ -110,7 +110,7 @@ The Orzas knows he has months. His physician told him in the spring, and the apo
 
 He also knows what the succession is worth to him while it is open. Every house that lends to the throne lends partly on the hope that its candidate will be named and its paper honored by the next reign. The moment he adopts, the houses whose men were not chosen stop lending, call what they can, and begin to buy the Guard. The throne would default before the new heir was dressed. So the succession is his last collateral, and he spends it slowly. He lets each house's candidate believe he is favored, through the old man's courtesy, through a seat at a feast, through a sentence the court repeats, and he takes each house's loan on the strength of it.
 
-What he means to do at the end, this note does not say, and the Orzas may not know himself. Three adoption deeds lie drafted in his secretary's strongbox, each in a different name and none sealed. He reads them in the evenings. He may seal one on his last day, he may seal none, or he may already have chosen and be lying to his secretary as well. The referee decides, and may let the party's actions decide.
+Three adoption deeds lie drafted in his secretary's strongbox, each in a different name and none sealed. He reads them in the evenings. His secretary does not know whether he has chosen one. Until a deed bears his seal, each claimant has reason to keep bargaining.
 
 His sales are recorded in a book his secretary keeps: every office, title and grant sold this reign, with the price and the buyer. It is the throne's best revenue after the fee, and the next Orzas can use it to unmake every house it made. Several buyers would pay heavily to have their entries cut out.
 

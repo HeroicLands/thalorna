@@ -60,7 +60,7 @@ The house is also the province's plainest example of Hilen's horror of civil war
 
 [Zetimas Ganothandis]{.name data-type="being/npc"} is twenty-four and the house's named heir. He grew up on the estate, slept in the field-huts in the anniversary week on a dare at fifteen, and has not spoken of what he dreamed. He is earnest, devout and better read than his father, and he is betrothed to [Varelas Mardovanes]{.name data-type="being/npc"} of [[affiliation-mardovanes|House Mardovanes]].
 
-He wants the field settled by the rite of the [[affiliation-selmoros|Faith of Sélmoros]] before the wedding, so that he does not bring a bride home to it. The rite works perhaps half the time, and nobody knows whether settling the field would end the harvest. His father, the master of the house, is old and ill, and has given his son neither a yes nor a no.
+He wants the field settled by the rite of the [[affiliation-selmoros|Faith of Sélmoros]] before the wedding, so that he does not bring a bride home to it. The rite works perhaps half the time, and nobody knows whether settling the field would end the harvest. His father, [[being-thrksgnthnds|Tharkas Ganothandis]], the master of the house, is old and ill, and has given his son neither a yes nor a no.
 
 ## Quarrels and Debts {#present}
 

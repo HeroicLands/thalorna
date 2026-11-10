@@ -4,7 +4,7 @@ name: {full: The Last Wagon on the Banner Ground}
 type: scenario
 subType: adventure
 description: "A treacherous guide leaves a small caravan with a broken wheel on the cursed field of the march at sunset, and the white stones that mark its edge are not where they should be."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [lantustal, marchroad, ashvapada]

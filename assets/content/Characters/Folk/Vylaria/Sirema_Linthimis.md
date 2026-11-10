@@ -4,7 +4,7 @@ name: {full: Sirema Linthimis, en: [Mother Sirema]}
 type: being
 subType: npc
 description: "An elderly priestess of Lizelas in the Temple's hierarchy, who keeps the Temple's sanction and support behind Revothar Baremzator's circuit around Polthara despite her private doubts about his radical sympathies."
-tags: [draft]
+tags: []
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   occupation: Priestess
   lore: []
   culture: vylarianclt
-  homes: []
+  homes: [polthara]
   affiliations: {lizelas: {rank: 3}}
   socialTies: {being-rvthrbrmztr: dependent}
   gender: female
@@ -40,6 +40,8 @@ Sirema Linthimis is a 74-year-old woman who stands 5'6" tall and is of heavy bui
 Mother Sirema Linthimis is a _sarnor_ (ordained priestess) of the [[affiliation-lizelas|Faith of Lizelas]], one of the elders of the Temple's hierarchy. She is the patron within the Temple of [[being-rvthrbrmztr|Revothar Baremzator]], the circuit priest who walks twelve tenant villages around [[place-polthara|Polthara]], and she keeps the Temple's institutional support behind his circuit.
 
 She has private reservations about him. His sympathies are radical, he says hard things about the Temple's indifference to the crisis in the countryside, and the conservative clergy would remove him if they could do it without trouble in his villages. Sirema holds that he does the goddess's work where it is most needed, and that the Temple is better served by keeping him inside it than by driving him out.
+
+She lives at [[place-polthara|Polthara]], where the circuit's reports and requests reach her between Revothar's journeys. She receives villagers in a room with benches worn by generations of petitioners, makes each request specific enough for a priest to act on, and sends the answer back with a named carrier. She wants the next circuit's medicine packed before the temple's arguments consume another week.
 
 ## Background
 
@@ -80,7 +82,7 @@ She is old, and her protection of Revothar lasts as long as she does. She does n
 ## Plot Hooks
 
 1. **The report.** The Temple's conservative clergy ask Sirema to report on Revothar's circuit. She asks a party to walk it with him for a month and tell her what they saw, before she writes.
-2. **The evidence.** A bishop in the capital is gathering evidence that Revothar is a heretic. Sirema wants to know what the bishop has, and hires a party to find out.
+2. **The evidence.** [[being-varelanebral|Varela Nebralandis]], an ordained priestess in the capital, is gathering evidence that Revothar is a heretic. Sirema wants to know what Varela has, and hires a party to find out.
 3. **The fever.** A fever reaches the Polthara villages on the grain carts. Sirema asks a party to carry medicines from the Temple's House of Healing to Revothar, and to bring back his account of the sickness.
 4. **The successor.** A young woman of Revothar's villages asks to be trained to take over his circuit. Sirema wants to meet her before the Temple hears of her.
 

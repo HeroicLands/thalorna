@@ -4,7 +4,7 @@ name: {full: Twelve at the Glass Table}
 type: scenario
 subType: adventure
 description: "In a palace of fused glass that has not weathered in ninety years, twelve unaging hosts set a table for every guest and cannot turn one away."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [relvanninel]

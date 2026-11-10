@@ -39,7 +39,7 @@ data:
         The fabric of the city: its streets and bridges, its aqueducts and sewers, its public buildings and baths.
       Veramus of the Rolls: >-
         The census, the citizen-rolls, the city's records and its correspondence with the throne; by custom the council's coordinating seat.
-  seat: null
+  seat: platandstr
   population: null
   economy: [affiliation-tarmex, affiliation-tolvan]
   lore: []
@@ -58,26 +58,26 @@ Orzara is not ruled by an _usos_ (prefect). The Empire learned long ago that a s
 
 The five **veramusoi** (curators of the city) sit as equals and decide the weightier matters as a body, by majority. Each holds a standing portfolio:
 
-The Veramus of Law
+The Veramus of Law — [[being-kldrmszrmlts|Kaldremas Zurmelates]]
 : the city's chief judicial authority; oversees the _peltroi_ (ward magistrates), the Civil Courts, and the Criminal Tribunal, and presides when the council sits as the supreme civic court.
 
-The Veramus of Order
+The Veramus of Order — [[being-krvthsltrts|Korvathas Solterates]]
 : commands the [[affiliation-citywatchorz|City Watch]], and answers for public order, the watch-houses, and the city jails.
 
-The Veramus of the Grain
+The Veramus of the Grain — [[being-tlthsklmths|Talothas Kalmethis]]
 : the granaries, the licensed markets, and the unceasing daily supply on which the capital lives.
 
-The Veramus of Works and Waters
+The Veramus of Works and Waters — [[being-thrksmlvrnds|Tharkas Melvarandis]]
 : the fabric of the city: its streets and bridges, its aqueducts and sewers, its public buildings, baths, and the upkeep (or quiet neglect) of the Circles and avenues.
 
-The Veramus of the Rolls
+The Veramus of the Rolls — [[being-lnthmsthrzts|Linthimas Tharozates]]
 : the census, the citizen-rolls, the city's records, and its correspondence with the throne; by custom the council's coordinating seat.
 
 The chair rotates among them so that none becomes "the" head of the city, and the Orzas takes deliberate care to appoint _veramusoi_ who will check rather than collude with one another. A council that grows too harmonious is a council the throne begins to watch. In practice the five are perpetual rivals—for the Orzas's favor, for the richest portfolios, and for the patronage that flows through each office—and a great deal of the city's real politics is the politics of the Verdan Orzara.
 
 ### The Civic Courts
 
-Beneath the council runs a tiered court system. The [[affiliation-vylrnmltry|City Watch]] enforces and investigates; it does not judge. Judgment belongs to the courts.
+Beneath the council runs a tiered court system. [[affiliation-citywatchorz|The City Watch]] enforces and investigates; it does not judge. Judgment belongs to the courts.
 
 A ward clerk of the [[affiliation-aediles|Pelthralon]], asked how the tiers look from the bottom, answers for most of the city: "Most people see one magistrate in their lives, and he is the _peltros_ of their ward. Everything above him is something that happens to somebody else."
 
@@ -100,7 +100,7 @@ Their jurisdiction is everything the civic courts cannot touch. Any matter invol
 
 ### The Reach of Influence
 
-For all its tiers and titles, the law of Orzara runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse or the right patron finds the courts accommodating; one without learns how heavy they can be. The _peltroi_ are famously bribable; a _veramus_'s favor can move a case between courts or bury it in the Offices's bottomless archives; and the perpetual rivalry of the Verdan Orzara means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vilérian Citizenship]]); granted through the courts, they move fast for the right consideration. Justice is real in Orzara—but it is also, always, a currency.
+For all its tiers and titles, the law of Orzara runs partly on influence. A defendant with the right friends, the right purse or the right patron finds the courts accommodating; one without learns how heavy they can be. The _peltroi_ are famously bribable; a _veramus_'s favor can move a case between courts or bury it in the Offices's bottomless archives; and the perpetual rivalry of the Verdan Orzara means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vilérian Citizenship]]); granted through the courts, they move fast for the right consideration. Justice is real in Orzara—but it is also, always, a currency.
 
 ## What It Is Fighting About {#present}
 

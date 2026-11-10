@@ -103,7 +103,7 @@ The holy road climbs through dying forest: gray stands among green, the leaves o
 
 **Player choices.** Carry the forest's evidence to the high priest, the king or the Mother; learn the votes; or say nothing.
 
-**Clues and rewards.** Varthelas keeps the forester's report in his chest. The Holy Mother's envoy from the claimant is lodged at the Charcoal Wagon, and someone has searched his room.
+**Clues and rewards.** Varthelas keeps the forester's report in his chest. The claimant's envoy is lodged at the Charcoal Wagon, and someone has searched his room.
 
 **Consequences.** Evidence carried to Varthelas goes into his chest. Carried to the king, it gives him a defense the high priesthood must answer. Carried to the Mother, it becomes another lever she holds.
 

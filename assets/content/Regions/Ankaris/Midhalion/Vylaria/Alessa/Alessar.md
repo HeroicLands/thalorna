@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alyssa]
   population: 45000
+  routes: [{to: orzara, bearing: E, mode: land, days: 1, terrain: [road]}]
   packFolder: vylaria
   government: provinclys
 ---
@@ -21,6 +22,8 @@ Alessar is the capital of a province whose greatest city it does not govern. Abo
 A clerk on the _therkos_'s staff explains the arrangement to a newcomer sent to deliver a petition: "Everyone who writes to us wants the capital, and the capital is not ours. What is ours is everything else in Alessa—the towns, the roads, the estates, the tax rolls—and that is charge enough for one _therkos_."
 
 ## Arriving
+
+Orzara lies one day east by road.
 
 The road from Orzara reaches Alessar after a long day of farms and villas, and the city shows itself first as a line of white colonnades along a ridge, with the bronze roof of the [Governor's House]{.name data-type="place/structure"} at the top. The last mile is lined with tombs, since the dead lie outside the boundary along the road, and the newest are the grandest: a family that has done well in the provincial service buries its fathers where every petitioner walks past them.
 

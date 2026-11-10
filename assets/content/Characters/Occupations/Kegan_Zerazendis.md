@@ -424,7 +424,7 @@ She is a fine cook, good company, and a careful manager of a busy house. She rem
 
 ### Weaknesses
 
-She cannot refuse a farmer credit for a night's bed, she worries, and a hard bargainer can talk her down.
+She cannot refuse a farmer credit for a night's bed, she worries, and bargaining talks her down.
 
 ## Social
 

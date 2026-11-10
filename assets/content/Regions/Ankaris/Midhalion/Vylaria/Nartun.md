@@ -23,7 +23,7 @@ A priest-noble's secretary, meeting a newly arrived scholar at the gate, gives h
 
 ## Arriving
 
-The imperial road climbs to Nartun from the Hilen border at [[place-ashenmere|Ashenmere]], four days' carting through forest, and it is the only paved road in the kingdom. In its last miles it is lined with pilgrims' hostels, wayside shrines and the stalls of candle-sellers, and it comes out of the trees at the foot of a long wooded height with the city laid over it.
+The imperial road climbs to Nartun from the Hilen border at [[place-ashenmere|Ashenmere]], five days' carting through forest, and it is the only paved road in the kingdom. In its last miles it is lined with pilgrims' hostels, wayside shrines and the stalls of candle-sellers, and it comes out of the trees at the foot of a long wooded height with the city laid over it.
 
 The walls are gray stone, and the main gate is a deep arch under a tall block of the same stone: the chapter house of the [[affiliation-sacredflame|Order of the Sacred Flame]], with a lamp in the window over the arch that is never let go out. Knights in white surcoats with the lamp on the breast keep the gate, and they ask a stranger his business, his faith and how long he means to stay.
 

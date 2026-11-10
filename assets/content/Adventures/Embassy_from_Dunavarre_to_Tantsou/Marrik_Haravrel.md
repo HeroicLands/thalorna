@@ -3,14 +3,15 @@ shortcode: marricharavrel
 name: {full: Marrik Háravrel, given: Marrik, clan: Háravrel}
 type: being
 subType: character
-tags: [draft, embassy-to-tantsou]
+description: "Sergeant-at-Arms of Dúnavarre’s embassy to Tantsou, responsible for its security and the training of its guards."
+tags: [embassy-to-tantsou]
 data:
   templatePriority: null
   archetypes: [warrior, infiltrator]
   occupation: Sergeant-at-Arms
   lore: []
   culture: aelwythanclt
-  homes: []
+  homes: [dunavarre]
   affiliations: {kingdmdnvr: {rank: 2}}
   gender: male
   species: humanflk
@@ -372,13 +373,14 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
-
-**Role.** Security and the training of guards.
-
 # Dossier {#dossier}
 
-**Background.** Known for leadership in military settings.
+Marrik Háravrel is Sergeant-at-Arms of the embassy from [[place-dunavarre|Dúnavarre]] to Tantsou under [[being-arancelavren|Aran Kélavren]]. He oversees security and trains its guards. His authority rests on military leadership and the practical work of keeping the retinue safe.
+
+## Plot Hooks
+
+The boundary report
+: The embassy needs a reliable account of the [[affiliation-alndnwrdns|Áelendan Wardens]]’ position before its guards accompany an expedition into [[place-ukuaraelwen|Úkua-Araelwen]]. Marrik asks travelers to bring back their exact words and compare them with the advice already reaching the ambassador.
 
 :::secret {title="The hidden Spymaster"}
 He secretly gathers intelligence. The retinue knows him as Sergeant-at-Arms; he deliberately confides his office as Spymaster only to [[being-arancelavren|Aran Kélavren]].

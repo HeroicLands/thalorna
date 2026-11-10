@@ -43,7 +43,7 @@ Zilmar Ezzinu is a 64-year-old man who stands 5'9" tall and is of medium build. 
 
 # Dossier {#dossier}
 
-Zilmar Ezzinu keeps a veterans' hall on the waterfront of the dock district of [[place-besikar2|Besikar]], in a tarred warehouse loft above a net store, and he is the eldest Keeper among the Besikar halls. Before each session of the [[affiliation-grandcouncil|Grand Council]] he puts on his good coat, walks to the Arch-Consul's residence beside the [[place-grandcnclhall|Grand Council Hall]], and reads the veterans' petition aloud to whoever holds the seal: the land, the guild places, the pensions and the voice they were promised. A councilor of Yamuzel sponsors the petition every session, and it is read on the last afternoon every session.
+Zilmar Ezzinu keeps a veterans' hall on the waterfront of the dock district of [[place-besikar2|Besikar]], in a tarred warehouse loft above a net store, and he is the eldest Keeper among the Besikar halls. Before each session of the [[affiliation-grandcouncil|Grand Council]] he puts on his good coat, walks to the Arch-Consul's residence beside the [[place-grandcnclhall|Grand Council Hall]], and reads the veterans' petition aloud to whoever holds the seal: the land, the guild places, the pensions and the voice they were promised. A councilor of Yamuzel sponsors the petition every session, and it has usually been read on the last afternoon.
 
 He is the voice of patience in the Besikar halls. He argues for petitions, for strikes called in good order and for patience with the Council, and the younger Links call him the old man of the paper. The Compact's clerks call him reasonable.
 
@@ -77,7 +77,7 @@ He is old and lame, and his son is all he has.
 
 ### Enemies
 
-- [[being-trmnqzkn|Tirmana Qizikuni]]: The head of the Qizikuni, whose Compact holds the war debt that is read first at every session while his petition is read last. He has stood at her doors with the petition three times, and been given coffee and nothing else.
+- [[being-trmnqzkn|Tirmana Qizikuni]]: The head of the Qizikuni, whose Compact holds the war debt that has been read first in past sessions while his petition was read last. He has stood at her doors with the petition three times, and been given coffee and nothing else.
 
 ### Others
 

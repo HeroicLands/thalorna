@@ -3,6 +3,7 @@ shortcode: cibelasrnt
 name: {full: Kivella Serenthis, given: Kivella, clan: Serenthis}
 type: being
 subType: character
+description: "A seventeen-year-old ward aboard the Tamzir, a prodigy broken by the Thordimalon's experiments and sheltered by her brother and a smuggler's crew."
 tags: [tamzir-crew, dependents]
 data:
   banner: tamzirbnr

@@ -54,7 +54,7 @@ data:
       Boss: Head of the organization, whose word is its law for as long as it is feared.
       Second: >-
         Second, running the organization day to day and standing between the boss and everyone else.
-      Counsellor: Adviser to the boss, holding no crew and no territory and more influence than either.
+      Counselor: Adviser to the boss, holding no crew and no territory and more influence than either.
       Crew Boss: Holder of a crew and a territory, answerable for what both produce.
       Enforcer: Collector by fear, and executor of what follows when fear fails.
       Fence: Buyer and mover of what the organization takes, and its most closely held connection.
@@ -73,7 +73,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Unlike some settings where a single monolithic "thieves' guild" spans the known world, the Crime Syndicates of Thalorna operate in a fractured, competitive, and deeply regional underworld. Four major syndicates operate across the [[place-vylarianse|Vilérian Sea]] basin, with a fifth—the [[affiliation-haluozhao|Ha Lwo Zhau]]—dominating the far east in the [[affiliation-tantsouempr|Empire of Tantsou]]. None share any love for one another. Alliances shift with the tides—the same two organizations might cooperate on a smuggling run in spring and be murdering each other's agents by autumn, depending on whose territory was encroached upon, whose informant was turned, or whose deal fell through.
+The Crime Syndicates of Thalorna operate in a fractured, competitive, and deeply regional underworld. Four major syndicates operate across the [[place-vylarianse|Vilérian Sea]] basin, with a fifth—the [[affiliation-haluozhao|Ha Lwo Zhau]]—dominating the far east in the [[affiliation-tantsouempr|Empire of Tantsou]]. None share any love for one another. Alliances shift with the tides—the same two organizations might cooperate on a smuggling run in spring and be murdering each other's agents by autumn, depending on whose territory was encroached upon, whose informant was turned, or whose deal fell through.
 
 Most towns also have smaller, purely local organizations—gangs that handle petty crime, prostitution, protection rackets, blackmail, extortion, and the occasional hit job. These local outfits exist in an uneasy relationship with the larger syndicates, who use them as subcontractors and buffers. A local gang boss might take a cut from [[affiliation-graytide|the Gray Tide]] to look the other way about shipments at the docks, while simultaneously selling information about those same shipments to [[affiliation-velvethand|the Velvet Hand]]. This layered structure means that the syndicate bosses rarely get their hands dirty, and if a local gang is broken up by the authorities, the larger organization loses an asset but suffers no real exposure.
 
@@ -108,7 +108,7 @@ The syndicates compete ruthlessly for territory, contacts, and revenue. Border d
 ### Eilwìth
 
 [[affiliation-umbralcourt|The Umbral Court]]
-: the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the other body on this page that is not really a syndicate. It is the household of a crown the [[affiliation-ordoarcanis|Thordimalon]] Synod set aside generations ago, kept alive by the dispossessed nobility: a shadow court that funds itself on gaming debt and contraband, hears petitions from subjects the Synod will not hear, and has spent four generations learning how not to be seen by rulers who are mages.
+: the criminal power of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the other body listed here that is not really a syndicate. It is the household of a crown the [[affiliation-ordoarcanis|Thordimalon]] Synod set aside generations ago, kept alive by the dispossessed nobility: a shadow court that funds itself on gaming debt and contraband, hears petitions from subjects the Synod will not hear, and has spent four generations learning how not to be seen by rulers who are mages.
 
 ## Inter-Syndicate Relations
 

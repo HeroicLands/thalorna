@@ -36,7 +36,7 @@ The town's own customs are the forest's. A cutting crew leaves one tree in three
 
 ## Who Rules and Keeps Order
 
-The chancery counts Pinnhald a chartered town of the province, with two _tavemoi_ (magistrates) and a council. In practice the _tavemoi_ are chosen from among the headmen, and the council is the headmen's hall by another name. The first of the headmen is [Sundrith]{.name data-type="being/npc"}, an old raftsman who has made the spring run thirty times, and a quarrel in the town goes to him and the other headmen before it goes anywhere else. The _therkos_ sends a clerk up in summer to count the rafts and take the province's share, and otherwise leaves the town alone.
+The chancery counts Pinnhald a chartered town of the province, with two _tavemoi_ (magistrates) and a council. In practice the _tavemoi_ are chosen from among the headmen, and the council is the headmen's hall by another name. The first of the headmen is [[being-sundriththal|Sundrith ira Thalruvan wur Pinnhald]], an old raftsman who has made the spring run thirty times, and a quarrel in the town goes to him and the other headmen before it goes anywhere else. The _therkos_ sends a clerk up in summer to count the rafts and take the province's share, and otherwise leaves the town alone.
 
 ## The Present {#present}
 

@@ -53,7 +53,7 @@ House Zarkedis is a _thurden_ (Bronze) house of Soraks, one of the lesser cities
 
 The house is still on the registry of the four estates that [[affiliation-imprlscrblgld|the Imperial Scribal Guild]] publishes every spring, among the Bronze Houses, because nobody has petitioned to take it off. A demotion is the gravest civil penalty short of attainder, and it costs a fee; the Zarkedis were not worth the fee. So the name stands on the roll with an heir behind it and nothing else: no seat, no land, no household beyond one freedwoman, and no masks. Under the culture's own rule a house's masks are its charter, and the Zarkedis masks hang in another man's cupboard across the square.
 
-The master of the house, the disgraced father, lives on what his son sends him, and he is the last person in Soraks who speaks of the Zarkedis as a house.
+The master of the house, [[being-kldrmszrkds|Kaldremas Zarkedis]], the disgraced father, lives on what his son sends him, and he is the last person in Soraks who speaks of the Zarkedis as a house.
 
 ## The Heir
 
@@ -61,7 +61,7 @@ The master of the house, the disgraced father, lives on what his son sends him, 
 
 ## Quarrels and Debts {#present}
 
-House Zarkedis has a name and no house, and its quarrels are all over debts. Its masks hang in another man's cupboard across the square in [[place-skoraz|Soraks]]. The new owner refuses to sell them and will not say whom he bought the house for, and the page of the creditors' sale that names the buyer has been cut from the book. [[being-klstrtsxrchds|Kalestratos Zarkedis]] means to restore the name through standing in the Thordimalon, which no creditor can call in, and he takes the political support of Lady [[being-iltherethalu|Ilthere Thalurates]] while despising the trade she offers.
+House Zarkedis has a name and no house, and its quarrels are all over debts. Its masks hang in another man's cupboard across the square in [[place-skoraz|Soraks]]. The new owner refuses to sell them and will not say whom he bought the house for, and the page of the creditors' sale that names the buyer has been cut from the book. Kalestratos depends on Ilthere's support while he pursues standing in the Order.
 
 The house wants its masks back in a cupboard it owns. It wants a seat again, in Soraks or anywhere, and a name the Empire repeats; a Vilérian is a failure when the city stops saying his name, and the Zarkedis have heard it stop. Kalestratos wants more than that, and the Zarkedis name is what he says when he is asked why.
 

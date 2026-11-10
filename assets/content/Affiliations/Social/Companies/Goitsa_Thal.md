@@ -42,6 +42,7 @@ data:
       Surgeon: >-
         A Sworn Man or a Named Man who closes the company's wounds and is excused the watch for it.
   seat: null
+  range: [asturath, kervaron]
   population: null
   economy: []
   lore: []

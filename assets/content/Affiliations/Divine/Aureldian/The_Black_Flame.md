@@ -3,7 +3,7 @@ shortcode: blackflame
 name: {full: The Black Flame}
 type: affiliation
 subType: faithtradition
-description: "Fire (destructive aspect)."
+description: "The faith of Ústaron’s destructive fire, practiced by independent warbands and cells under Flame-Wardens and openly registered temples in Viléria."
 tags: [aureldian, religion, black-flame]
 data:
   culture: aureldianclt
@@ -16,7 +16,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Flame-Warden above them. The lay faithful keep the feasts without office.
+      Independent cells and warbands led by Flame-Wardens, with Scorchmasters as their lieutenants and Aspirants in training. No supreme authority unites them; the High Flame-Warden of Viléria oversees its registered temples through personal standing among his peers.
     ranks:
       - level: 0
         title: Banar

@@ -4,7 +4,7 @@ name: {full: Hringstead}
 type: place
 subType: settlement
 description: "The neutral ground on the Nordheim–Vithgard border, guaranteed by all five kingdoms, where the mercenary Compact keeps its Hall and the Skalds' Circle was sworn."
-tags: [draft]
+tags: []
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
@@ -19,6 +19,10 @@ The [[affiliation-malldbndlg|Málalidabandalag]], the compact of the north's fre
 ## The Ride over Hringstead
 
 People at Hringstead tell of the [Ride over Hringstead]{.name data-type="lore/history"}, a high ride on the ninth night of [[lore-jol|Jel]] that came down after a killing under the Truce and carried the killer off. The Truce's living keepers need no supernatural verdict to forbid a murder, and whether the ride passed overhead, or answered that particular breach, is a matter of belief. The tale is told at every Jel all the same, and nobody at the Hall sleeps easily on the ninth night.
+
+## The Present {#present}
+
+A man has been killed during a gathering-feast, and the Council of the Hall convenes at once. The killer’s company is one of the largest signed companies, and its employer is a king who needs it in the field within the month. The Hall’s Truce allows no excuse for the killing.
 
 ## See Also
 

@@ -15,7 +15,7 @@ import os from "node:os";
 import path from "node:path";
 import test from "node:test";
 import YAML from "yaml";
-import { check, loadRegistry, selectKind } from "./outline-guard.mjs";
+import { check, landsOf, loadRegistry, selectKind, treeIndex } from "./outline-guard.mjs";
 import { noteIndex } from "./note-index.mjs";
 
 const FIXTURES = JSON.parse(
@@ -239,4 +239,55 @@ test("place and affiliation kinds in the tree with no entry of their own are lis
     }
     t.diagnostic([...bare].map(([k, v]) => `${k}: ${v}`).join("; ") || "every kind has a profile");
     for (const [k, v] of bare) assert.notEqual(v, "no entry", `${k} has no registry entry`);
+});
+
+// The Vilérian Empire and the Taruzelian Confederation declare their capitals
+// as seats while keeping their independent political parents empty.
+test("an affiliation's place seat locates it and its political children", () => {
+    const root = tree();
+    const notes = [
+        { type: "place", shortcode: "capital", data: { parents: ["reach"] } },
+        { type: "affiliation", shortcode: "capital", data: { parents: [] } },
+        { type: "affiliation", shortcode: "independent", data: { parents: [], seat: "capital" } },
+        { type: "affiliation", shortcode: "child", data: { parents: ["independent"] } },
+        {
+            type: "affiliation",
+            shortcode: "loop",
+            data: { parents: ["loop"], seat: "place-capital" },
+        },
+    ];
+    for (const note of notes)
+        fs.writeFileSync(
+            path.join(root, "assets/content", `${note.type}-${note.shortcode}.md`),
+            `---\n${YAML.stringify(note)}---\n`,
+        );
+    const index = treeIndex(root);
+    for (const note of notes.filter((note) =>
+        ["independent", "child", "loop"].includes(note.shortcode),
+    ))
+        assert.deepEqual(landsOf(index, note, LANDS), ["the-reach"], note.shortcode);
+});
+
+test("an affiliation and its place seat may share a shortcode", () => {
+    const root = tree();
+    const notes = [
+        { type: "place", shortcode: "capital", data: { parents: ["reach"] } },
+        { type: "affiliation", shortcode: "capital", data: { parents: [], seat: "capital" } },
+    ];
+    for (const note of notes)
+        fs.writeFileSync(
+            path.join(root, "assets/content", `${note.type}-${note.shortcode}.md`),
+            `---\n${YAML.stringify(note)}---\n`,
+        );
+    assert.deepEqual(landsOf(treeIndex(root), notes[1], LANDS), ["the-reach"]);
+});
+
+test("an affiliation sharing a land root's shortcode is not that place", () => {
+    const root = tree();
+    const note = { type: "affiliation", shortcode: "reach", data: { parents: [], seat: null } };
+    fs.writeFileSync(
+        path.join(root, "assets/content", "affiliation-reach.md"),
+        `---\n${YAML.stringify(note)}---\n`,
+    );
+    assert.deepEqual(landsOf(treeIndex(root), note, LANDS), []);
 });

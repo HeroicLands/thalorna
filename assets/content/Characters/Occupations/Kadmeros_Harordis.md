@@ -450,7 +450,7 @@ He has none. The city's other joiners resent the masons' custom he has taken fro
 4. **The neighbor.** A man from his father's village has come to Velisara as a guard of the [[affiliation-sekran|Sekran]]'s office, and has asked Kadmeros, as a favor between neighbors, to make a strongbox with a hidden lock for his master.
 
 :::secret {title="The Truth of Velisara"}
-The masons' repairs are replacements. When builders from the capital buy a column, a capital or a facing slab from the less-walked ends of the forums, the masons set a copy of brick and stucco in its place the same week, painted to match, and its carved capitals and mouldings are cast in the wooden molds Kadmeros cuts from their drawings. The masons want the weathering of the real marble carved into each mold so the copy passes. Kadmeros has never asked what the molds are for, and he has not worked it out.
+The masons' repairs are replacements. When builders from the capital buy a column, a capital or a facing slab from the less-walked ends of the forums, the masons set a copy of brick and stucco in its place the same week, painted to match, and its carved capitals and moldings are cast in the wooden molds Kadmeros cuts from their drawings. The masons want the weathering of the real marble carved into each mold so the copy passes. Kadmeros has never asked what the molds are for, and he has not worked it out.
 
 The large order of the first hook is for six capitals at once, and the drawing is of the capitals of the old council hall's porch: the molds for the copies that will replace the columns the builder's crew at the north end of the Old Forum has come to take. The scholar of the third hook knows what the joins mean, and his question is as far as he will go.
 :::

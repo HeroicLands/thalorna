@@ -4,7 +4,7 @@ name: {full: The Voice at the Barred Gate}
 type: scenario
 subType: adventure
 description: "Each night a settlement bars its gate against a knocking that speaks in a dead champion's words, and the few who answered it are gone."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [velkunvartun]
@@ -72,7 +72,7 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **Player choices.** Force: burn out the spiders with oil and fire, which also lights the room and shows the keepers plainly. Stealth: go barefoot along the sound brick and keep the lamp down. Guile: carry a tablet out of the first dry room and test the keepers' reaction. Parley: sit with the keepers and read to them, aloud and in the old hand, the first name on the nearest tablet.
 
-**Clues and rewards.** The keepers' laps hold tablets that give each keeper's name. Reading one aloud makes the keeper sit up, bow and become still. Eleven of the twenty-two are named in this way if the party has the patience. The room beyond them holds the great archive: shelf on shelf of baked clay, the debts and genealogies of Vahurdash, worth more than anything else in the town.
+**Clues and rewards.** The keepers' laps hold tablets that give each keeper's name. Reading one aloud makes the keeper sit up, bow and become still. All twenty-two can be named in this way if the party has the patience. The room beyond them holds the great archive: shelf on shelf of baked clay, the debts and genealogies of Vahurdash, worth more than anything else in the town.
 
 **Consequences.** A party that rushes loses time to spiders and a floor that falls. A party that lingers is in the cellars when the sun goes down, and the keepers' stillness does not outlast the light. Tablets taken from the shelves without reading the keeper's name wake the keeper.
 

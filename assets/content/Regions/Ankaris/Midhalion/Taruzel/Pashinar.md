@@ -27,7 +27,7 @@ The name is the town's trade: _pashin-_, to name a fair price, with _-ar_, where
 
 Pashinar's bay is the one good harbor on the strait side of Qalirel, and the ferries from the Amradi coastal ports land there, a day's sail with a fair wind. They are broad, slow sailing craft built to carry mules and bales together, and they come in on the morning breeze and tie up three abreast at the ferry quay. The first building a caravan master reaches is the weigh-house at the head of the quay, where the Warden of the Weights' measurers, the _ashurum_, weigh his bales, test his coin and seal what they have weighed with a lead tag. The second is the board's toll-house beside it, where he pays the landing dues on the tags.
 
-Beyond the quay the town climbs a shallow valley between two dry hills. Its main street is the beginning of the old military road over the pass to [[place-besikar2|Besikar]], four days for a mule train, and caravans going west leave by the gate at the top of the street, where the farriers and rope-sellers have their stalls.
+Beyond the quay the town climbs a shallow valley between two dry hills. Its main street is the beginning of the old military road over the pass to [[place-besikar2|Besikar]], five days for a mule train, and caravans going west leave by the gate at the top of the street, where the farriers and rope-sellers have their stalls.
 
 ## A Town of Transients
 
@@ -51,7 +51,7 @@ A caravan master in good standing carries the other half of the system on his be
 
 ## Who Rules and Keeps Order
 
-The town is governed by its [[affiliation-gldbrdpshnr|Guild Board]], the guild officials among its permanent townsfolk, who sit in the toll-house above the ferry quay under a First of the Board who keeps the seal. This term she is [Qazima Zazuruni]{.name data-type="being/npc"}, whose house owns the largest warehouses on the quay. The Warden of the Weights is [Ashuran Dapumi]{.name data-type="being/npc"}, who keeps the weigh-house and the Forgetting, and the clerk of the Forgetting is [[being-rsnmgttn|Rasunum Gatituni]], who has kept the board's books for thirty years and enters every name in his own hand.
+The town is governed by its [[affiliation-gldbrdpshnr|Guild Board]], the guild officials among its permanent townsfolk, who sit in the toll-house above the ferry quay under a First of the Board who keeps the seal. This term she is [[being-qazmazzrni|Qazima Zazuruni]], whose house owns the largest warehouses on the quay. The Warden of the Weights is [Ashuran Dapumi]{.name data-type="being/npc"}, who keeps the weigh-house and the Forgetting, and the clerk of the Forgetting is [[being-rsnmgttn|Rasunum Gatituni]], who has kept the board's books for thirty years and enters every name in his own hand.
 
 Order in Pashinar is mostly credit. A merchant robbed in a caravanserai goes first to its keeper, who is answerable to the board for what happens under his roof and pays for a theft he cannot recover. A quarrel over a bargain goes to the weigh-house, where the Warden's measurers weigh the goods again and say who was short. The board keeps a small watch of hired men at the quay and the gate, and leaves the streets between to the caravanserai keepers, who keep their own porters with staves.
 

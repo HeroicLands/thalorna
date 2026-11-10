@@ -75,7 +75,7 @@ House Thalurates wants a hand in the succession and the throne in its debt. Its 
 ## Hooks
 
 - **The address.** A minor kingdom's envoy arrives at the Thalurates gate believing it is a shared embassy compound, and the house's steward lets him in. A party is hired by his own legation to find out what he signed before anyone told him where he was.
-- **Ilthere's price.** Ilthere offers Kalestratos aid that will cost him his loyalty to House Thalurates, and asks a party to carry the offer, in writing, to [[place-velysara|Velisara]].
+- **Ilthere's price.** Ilthere offers Kalestratos aid in exchange for the loyalty she wants, and asks a party to carry the offer, in writing, to [[place-velysara|Velisara]].
 
 :::secret
 **For the GM:** The house's factors hold two debts that would ruin two houses. One is a note against the temple stipends of House Varkalenis, which the house means to forgive when the Varkalenis heir marries a Thalurates daughter. The other is the creditors' sale of House Zarkedis: a Thalurates factor bought the Zarkedis house in Soraks, and the Zarkedis masks are still in its cupboard. Ilthere means them to be the price she names to Kalestratos.

@@ -14,7 +14,7 @@ data:
   culture: taruzelianclt
   homes: [bazunel2]
   affiliations: {bazunel: {rank: 3}}
-  socialTies: {being-ytlshpshtm: rival, being-ninurishamir: rival}
+  socialTies: {being-ytlshpshtm: rival}
   gender: male
   species: humanflk
   born: "689.111"
@@ -72,7 +72,6 @@ The city likes Yutalush, and many of the council's own men owe him their lives. 
 ### Enemies
 
 - [[being-ytlshpshtm|Yutalush Pushutum]]: The healer-priest whose clinic he means to bring under the temple's control.
-- [[being-ninurishamir|Ninuri Shamiru]]: The master of the Auric Compact's counting house, whose money keeps the clinic open whenever his pressure begins to close it.
 
 ### Affiliations
 

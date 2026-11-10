@@ -85,7 +85,7 @@ Every year since the outlawing, after the last of the veterans' boats has passed
 : the guild that leads the line
 
 [[lore-paidattheshoals|What Was Paid at the Shoals]]
-: the song of the night after
+: the song the veterans sing on the Review night
 
 [[scenario-lstbtnrrws|The Last Boat Through the Narrows]]
 : a scenario of the Review and the rising

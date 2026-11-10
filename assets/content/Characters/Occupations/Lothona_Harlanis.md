@@ -3,7 +3,8 @@ shortcode: lothnhrlns
 name: {full: Lothona Harlanis}
 type: being
 subType: npc
-tags: [draft, soldiery]
+description: "The night-patrol supervisor the shipping houses of Delalara hire for their quays, who keeps the balance between the houses' quay-masters and the cohort while a new cohort commander orders her to break it."
+tags: [soldiery]
 data:
   icon: icon-person
   templatePriority: null
@@ -370,6 +371,8 @@ sohl:
 
 # Appearance {#appearance}
 
+Lothona Harlanis is 34 years old.
+
 Lothona stands 5'8" with a solid, medium build that carries its weight in the shoulders and arms. Her chestnut hair is kept practical—tied back and pinned when on duty, falling to her shoulders when loose. Her dark brown eyes are direct and unblinking, the kind that make petty criminals confess before she has asked a question. Her tanned skin is freckled across the bridge of her nose and cheeks, and her face is broad and strong-featured, with a firm jaw and a mouth that settles naturally into a skeptical line. Her knuckles are visibly calloused from years of hand-to-hand training. She wears the standard [[place-mercavia|Delalara]] guard kit—padded tunic over linen, leather bracers, a short sword and truncheon on her belt—with the settled ease of a woman who stopped thinking about her uniform a decade ago.
 
 # Dossier {#dossier}
@@ -400,7 +403,7 @@ She can calm a fight before it starts, she is strong and skilled with club and s
 
 ### Weaknesses
 
-She has bent the cohort's rules on the waterfront for years, for good reasons, and a commander who wants an example could make one of her.
+She has bent the cohort's rules on the waterfront for years, for good reasons; each bent rule is a charge against her.
 
 ## Social
 

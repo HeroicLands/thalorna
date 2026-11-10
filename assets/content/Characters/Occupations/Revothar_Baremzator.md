@@ -3,7 +3,7 @@ shortcode: rvthrbrmztr
 name: {full: Revothar Baremzator}
 type: being
 subType: npc
-description: A circuit priest of Lizelas who walks twelve tenant villages around Polthara, healing the sick, keeping grain moving to the hungry and listening to reformers within the Temple.
+description: A circuit priest of Lizelas who walks twelve tenant villages around Polthara, healing the sick and keeping the villages supplied with food and medicines.
 tags: [clergy]
 data:
   icon: icon-person
@@ -410,15 +410,11 @@ By his early thirties, Revothar had petitioned to leave the Temple's structured 
 
 Now, at thirty-three, Revothar is known throughout the Polthara region as something close to essential. He has successfully promoted crop rotations that preserve soil fertility despite imperial neglect. His herbal remedies are talked of across the region—mothers clutch their children to him as though he were a relic of [[lore-lizelasdty|Lizelas]] herself. He delivers babies, tends the dying, and mediates disputes with a compassion that sets him apart from the harsher judgment of settled priests. Yet he is acutely aware that he is holding back a tide that may be too vast to resist. Each year, more families abandon their farms. Each season, scarcity deepens. He does not expect his efforts to transform the situation; he works from a conviction that abandoning hope is a form of spiritual death he cannot accept.
 
-His greatest secret is that he has begun to operate outside the Temple's official authority. He maintains a network of hidden grain caches, has established channels of redistribution that blur the line between charity and theft, and corresponds with radical reformist movements within the priesthood that the Temple hierarchy would certainly suppress if they knew. He is not yet a rebel, but he is becoming one.
-
 ## Psyche
 
 Revothar is defined by a deep and sometimes almost painful fellow-feeling. He does not only understand that others suffer; he feels it in his body. When he tends to a dying child, he experiences something very close to the child's pain. When he sees a farmer's field failing for the third consecutive year, it affects him as though it were his own ruin. This feeling is his greatest strength—it makes him an extraordinarily effective healer and a beloved figure in his communities—and his greatest vulnerability, as it can wear his compassion out and leave him feeling helpless.
 
 This feeling is paired with an almost stubborn idealism about what compassion demands. Revothar believes that care for the poor requires justice as well as comfort, and the treating of causes as well as symptoms. This makes him increasingly uncomfortable with the Temple's stance, which he sees as accepting the decline of Viléria as inevitable and focusing instead on maintaining the priesthood's own security and prestige. In his more frustrated moments, he sees the Temple as complicit in the suffering it claims to alleviate.
-
-Yet he is not naive about the world's hard edges. Those who know him only slightly might not suspect the cunning under the gentleness. He understands power, knows how to work within the Temple's hierarchies, and is capable of deception when he judges it necessary. He maintains his herbal remedy network partly through actual cultivation, but also partly through careful theft and black-market connections he has developed over years. He is an idealist who has learned that ideals sometimes require getting one's hands dirty.
 
 What drives Revothar is a conviction that has only deepened with time: that the dying empire's collapse opens a window for those with vision and courage to build something better. The Temple is too invested in the old order to do this work. The local lords are too focused on preserving their own advantage. But the villages, organized around networks of mutual aid and guided by someone who truly cares about their survival, might be able to survive the coming darkness. He is moving gradually toward the conviction that loyalty to the Temple and real help for his people cannot both be kept—and he is beginning to suspect that no institution will ultimately matter when the empire finally breaks.
 
@@ -430,27 +426,43 @@ Unofficially, Revothar operates as something close to a civic leader for the vil
 
 But his relationship with the wider priesthood is increasingly strained. More conservative priests view his radical charity and his willingness to challenge Temple orthodoxy as dangerous. More liberal priests, who might otherwise be his allies, are cautious of his growing independence from institutional structure. The Temple hierarchy tolerates him because removing him would provoke an outcry from his communities—but it is tolerance born of pragmatism, not support.
 
-He is beginning to attract attention from radical reform movements within the priesthood, and also from lay communities organizing outside the Temple's sanction. Some see him as a potential leader for a form of Lizelas worship rooted in the villages themselves and owing nothing to the Temple. He has not committed to any such movement, but he is listening, and his resistance is weakening.
-
 ## Companions
 
-**Patrons:** Mother [[being-siremalinthi|Sirema]], an elderly priestess of Lizelas in the Temple hierarchy, maintains institutional support for Revothar's circuit, despite her private reservations about his radical sympathies. A shadowy figure known only as "[the Gathering]{.name data-type="affiliation/faithtradition"}" appears to coordinate with Revothar about the moving of grain—whether ally or potential manipulator is unclear even to Revothar.
+**Patrons:** Mother [[being-siremalinthi|Sirema]], an elderly priestess of Lizelas in the Temple hierarchy, maintains institutional support for Revothar's circuit, despite her private reservations about his radical sympathies.
 
 **Enemies:** The Temple's conservative faction views Revothar as a threat to institutional stability and would remove him if they could do so without generating rural unrest. [[being-varelanebral|Varela Nebralandis]], an ambitious _sarnor_ (ordained priestess) of the Temple in the capital, has marked Revothar as a heretic-in-waiting and gathers evidence against him. Greedy regional lords see his charitable work as an obstacle to their own squeezing of the villages. A grain merchant named [Euthares]{.name data-type="being/npc"}, who has profited from village scarcity, despises Revothar for disrupting the desperation that makes the poor easy prey.
 
 ## Plot Hooks
 
-The Hidden Cache Discovered
-: Soldiers making an unannounced inspection discover one of Revothar's hidden grain caches, establishing proof that he has been stealing from Temple resources and redistributing them illegally. The Temple hierarchy demands his arrest; his villages threaten armed resistance. Revothar can flee, submit, or escalate into open rebellion against both the Temple and imperial authority.
+The Unannounced Inspection
+: Soldiers arrive on Revothar’s circuit to inspect stores and receipts. The villages seek witnesses to the search, and the Temple expects the priest to account for its goods.
 
 The Plague From the Capital
 : A fever arrives in the Polthara circuit on the carts of the market, spreading through the already-weakened villages. Revothar finds that it is a natural sickness, but rumor blames the buyers from the capital who crowd the market square, and the villagers turn on every stranger with a city accent. He must nurse the sick, hold the villages back from violence against the buyers and their carters, and find the supplies for a quarantine from a Temple and a province that would rather the matter stayed quiet.
 
+The Offer of Support
+: A messenger offers resources and protection for Revothar’s villages and asks for a private meeting about the terms. Revothar needs someone he trusts to learn whom the messenger represents.
+
+The Heir Apparent
+: A brilliant young woman from one of Revothar's villages shows a rare aptitude for both priestly work and for organizing village aid. She asks him to train her to take over his circuit, which would free him to work at a larger scale. But Revothar realizes that if he removes himself from day-to-day community work, he will inevitably be drawn into the larger political conflicts he has been managing to avoid.
+
+The Imperial Inspection
+: A new imperial auditor, aggressively reforming Viléria's administration, arrives in Polthara and immediately begins investigating where the Temple's goods go and its charitable works. The auditor is neither corrupt nor sympathetic; she simply wants to understand where resources are going. Revothar wants her to see the villages’ needs as closely as she examines their accounts. Her report could secure help or bring the circuit under tighter supervision.
+
+:::secret {title="The grain outside the Temple’s accounts"}
+His greatest secret is that he has begun to operate outside the Temple's official authority. He maintains a network of hidden grain caches, has established channels of redistribution that blur the line between charity and theft, and corresponds with radical reformist movements within the priesthood that the Temple hierarchy would certainly suppress if they knew. He is not yet a rebel, but he is becoming one.
+
+Yet he is not naive about the world's hard edges. Those who know him only slightly might not suspect the cunning under the gentleness. He understands power, knows how to work within the Temple's hierarchies, and is capable of deception when he judges it necessary. He maintains his herbal remedy network partly through actual cultivation, but also partly through careful theft and black-market connections he has developed over years. He is an idealist who has learned that ideals sometimes require getting one's hands dirty.
+
+He is beginning to attract attention from radical reform movements within the priesthood, and also from lay communities organizing outside the Temple's sanction. Some see him as a potential leader for a form of Lizelas worship rooted in the villages themselves and owing nothing to the Temple. He has not committed to any such movement, but he is listening, and his resistance is weakening.
+
+A shadowy figure known only as "[the Gathering]{.name data-type="affiliation/faithtradition"}" appears to coordinate with Revothar about the moving of grain—whether ally or potential manipulator is unclear even to Revothar.
+
+The Hidden Cache Discovered
+: Soldiers making an unannounced inspection discover one of Revothar's hidden grain caches, establishing proof that he has been stealing from Temple resources and redistributing them illegally. The Temple hierarchy demands his arrest; his villages threaten armed resistance. Revothar can flee, submit, or escalate into open rebellion against both the Temple and imperial authority.
+
 The Radical Ultimatum
 : The "[Gathering]{.name data-type="affiliation/faithtradition"}" reveals itself to be a network seeking to establish autonomous communities independent of both the Temple and imperial authority. They want Revothar to be the spiritual leader of their movement and are willing to provide resources and protection—but only if he commits to breaking entirely with the Temple. His villages would support such a move, but it would mean sacrificing everything he has built within the institutional structure.
 
-The Heir Apparent
-: A brilliant young woman from one of Revothar's villages shows a rare aptitude for both priestly work and for the kind of radical organizing he has been conducting. She asks him to train her to take over his circuit, which would free him to work at a larger scale. But Revothar realizes that if he removes himself from day-to-day community work, he will inevitably be drawn into the larger political conflicts he has been managing to avoid.
-
-The Imperial Inspection
-: A new imperial auditor, aggressively reforming Viléria's administration, arrives in Polthara and immediately begins investigating where the Temple's goods go and its charitable works. The auditor is neither corrupt nor sympathetic; she simply wants to understand where resources are going. Her investigation threatens to expose Revothar's entire network while simultaneously creating a potential ally if he can convince her that the current system is failing and that only a thorough remaking will prevent total collapse.
+Sirema does not know about the stores, the redistribution or the Gathering’s demands. The imperial auditor’s inquiry threatens to expose this network, though an honest account of the countryside’s failures might also win her help.
+:::

@@ -3,6 +3,7 @@ shortcode: hrkhsbrmyds
 name: {full: Harkis Baremides, given: Harkis, clan: Baremides}
 type: being
 subType: character
+description: "A master apothecary of Orzara who fell into the underworld and now makes poisons and antidotes for those who can pay, and will not poison children."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -437,7 +438,7 @@ At sixteen years old, he was apprenticed to Master [Kehdaan]{.name data-type="be
 
 ### The Fall and the Underground
 
-At thirty-two years old, Harkis was approached by representatives of a criminal brotherhood operating in Viléria's underworld. They requested that he create a particular poison—one that would mimic natural disease while being entirely artificial. He refused. They approached again, offering money sufficient to secure his family's future. He refused again. They approached a third time with a threat: create the poison or watch his family die. He created the poison.
+At thirty-one years old, Harkis was approached by representatives of a criminal brotherhood operating in Viléria's underworld. They requested that he create a particular poison—one that would mimic natural disease while being entirely artificial. He refused. They approached again, offering money sufficient to secure his family's future. He refused again. They approached a third time with a threat: create the poison or watch his family die. He created the poison.
 
 The poison was used to assassinate a merchant prince, setting off a chain of events that unsettled Viléria's merchant class. In the investigation that followed, Harkis' involvement was uncovered. Rather than face execution, he disappeared into the city's underground, abandoning his family and legitimate trade for a shadowed half-life where his skills could keep him alive.
 

@@ -196,7 +196,7 @@ A carter's son keeps it. A boy who counted wrong in the yard./
 Close the door now, keeper. I have the key. He has the other.
 :::
 
-::: {.verse form=lament lang=biza enc=bizahelonikaenc work=lament scan=pentameter}
+::: {.verse form=lament lang=biza enc=bizahelonikaenc work=lament}
 Valzar, egh féranin nomisin. Aritmarin paler‼/
 .Enit zharvel er eniautin prez heum,/
 .koum zharvel prez hein, koum meun./

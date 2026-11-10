@@ -4,7 +4,7 @@ name: {full: The Well That Reads}
 type: scenario
 subType: adventure
 description: "Beneath a desert cliff a dry well answers any question for a price paid in blood, and someone in the city has been listening."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [peldenderal]

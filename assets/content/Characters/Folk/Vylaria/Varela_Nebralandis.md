@@ -3,7 +3,7 @@ shortcode: varelanebral
 name: {full: Varela Nebralandis, en: [Sarnor Varela]}
 type: being
 subType: npc
-description: "An ambitious _sarnor_ (ordained priestess) of the Temple of Lizelas in Orzara, of its conservative party, who has marked the circuit priest Revothar Baremzator as a heretic in waiting and is gathering the evidence against him."
+description: "An ambitious sarnor (ordained priestess) of the Temple of Lizelas in Orzara, of its conservative party, who has marked the circuit priest Revothar Baremzator as a heretic in waiting and is gathering the evidence against him."
 tags: []
 data:
   icon: icon-person

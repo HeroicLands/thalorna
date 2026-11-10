@@ -4,7 +4,7 @@ name: {full: Kaldrema Venthelis, en: [High Priestess Kaldrema]}
 type: being
 subType: npc
 description: "A priestess of Lizelas who keeps the Verdant Sanctum, called its High Priestess by the pilgrims who come to it, and who marked the archer Erithon Uselindas with the serpent of renewal."
-tags: [draft]
+tags: []
 data:
   icon: icon-person
   templatePriority: null
@@ -12,7 +12,7 @@ data:
   occupation: High Priestess
   lore: []
   culture: vylarianclt
-  homes: []
+  homes: [calvaris]
   affiliations: {lizelas: {rank: 3, office: Sarnor}}
   socialTies: {being-erythnslnds: friend}
   gender: female
@@ -40,6 +40,8 @@ Kaldrema Venthelis is a 48-year-old woman who stands 5'4" tall and is of heavy b
 Kaldrema Venthelis is a priestess of [[affiliation-lizelas|Lizelas]] who keeps the [Verdant Sanctum]{.name data-type="place/site"}, a garden shrine of the goddess to which the faithful come on pilgrimage for wisdom and blessing. The pilgrims call her its High Priestess. In the faith's own order she is a _sarnor_, an ordained priestess and healer; the faith's one high priesthood is the Lizena's.
 
 She marked the archer [[being-erythnslnds|Erithon Uselindas]] with the serpent tattoo on his back when he came to the Sanctum five years ago, and she still writes to him, guides him and now and then asks him to undertake a task for the Sanctum.
+
+The Sanctum is her home at [[place-calvaris|Kalvaris]], where the pilgrims' road to the Hill Precinct passes its garden gate. She keeps a bed for travelers who cannot pay the town's lodging prices and receives temple messengers in the garden rather than in a treasury hall. Her next concern is obtaining seed and clean bedding before the festival crowds arrive.
 
 ## Background
 
@@ -86,6 +88,8 @@ She asks a great deal of the people she trusts, and she brings them into danger 
 1. **The urgent message.** Kaldrema sends word that the Sanctum is under attack by forces she cannot identify, and asks Erithon and anyone he can bring to come at once.
 2. **The pilgrim's charge.** A pilgrim marked by Kaldrema has not come home from the errand she gave him, and his family asks a party to go to the Sanctum and learn what he was sent to do.
 3. **The stag.** Hunters report an ancient stag with strange markings in the deep forest. Kaldrema wants it left alone and wants a party to keep the hunters from it while she learns what it is.
+
+4. **The garden beds.** A Kalvaris lodging-keeper wants the Sanctum to stop sheltering pilgrims without charge during the festival. Kaldrema asks a party to carry a request for bedding to the other shrines before the keeper persuades their suppliers to refuse her.
 
 :::secret {title="The Sanctum under siege"}
 The attack on the Sanctum is a diversion. While its priestesses and the archer she summons hold the outer garden, something far darker is being done at the shrine's heart, and the people who attack the walls are meant to be beaten off. Kaldrema does not know this when she sends for help.

@@ -13,7 +13,9 @@ data:
   lore: []
   culture: vylarianclt
   homes: [arvon]
-  affiliations: {tarmex: {rank: 5}, vylarinmpr: {rank: 5, office: Tarkelos}}
+  affiliations:
+    tarmex: {rank: 5, office: Imperial Tarkelos}
+    vylarinmpr: {rank: 5, office: Tarkelos}
   socialTies:
     being-zrmlshlrkls: patron
     being-amrzvlds: acquaintance
@@ -42,7 +44,7 @@ Dorvanis Arelliani Septarius is a 66-year-old man who stands 5'11" tall and is o
 
 # Dossier {#dossier}
 
-Dorvanis Arelliani Septarius is the Imperial _Tarkelos_ (treasury officer), the chief officer of [[affiliation-tarmex|The Tarmeks Orzan]], the empire's treasury and central bank. He holds the strongroom at Orzara jointly with the _holrozimos_ (chief auditor) of the Tarmeks and the captain of the imperial guard detail, he negotiates every rollover of the throne's loans with the great houses of [[affiliation-danvar|the Danvar]], and he is one of the six officers with standing access to the Orzas's privy presence. He has held the office for fourteen years, appointed for life on the Dukran's recommendation, and he is widely held to be the most quietly powerful man in imperial government after the Dukran himself.
+Dorvanis Arelliani Septarius is the Imperial _Tarkelos_ (treasury officer), the chief officer of [[affiliation-tarmex|The Tarmeks Orzan]], the empire's treasury and central bank. He holds the strongroom at Orzara jointly with the _holrozimos_ (chief auditor) of the Tarmeks and the captain of the imperial guard detail, he negotiates every rollover of the throne's loans with the great houses of [[affiliation-danvar|the Danvar]], and he is one of the six officers with standing access to the Orzas's privy presence. He has held the office since 705, appointed for life on the Dukran's recommendation, and he is widely held to be the most quietly powerful man in imperial government after the Dukran himself.
 
 The Tarmeks's books are his. The figures the [[affiliation-seldan|Seldan]] hears, the estimates [[affiliation-tolvan|the Tolvan]] works from and the terms the great houses accept all pass across his desk.
 
@@ -76,7 +78,7 @@ Every faction at court would like the _Tarkelos_ in its debt, and he can oblige 
 
 ### Patrons
 
-- [[being-zrmlshlrkls|Zarmelas Helarkales]]: The Orzas, who appointed him and can dismiss him. The two old men have worked together for fourteen years and understand each other well.
+- [[being-zrmlshlrkls|Zarmelas Helarkales]]: The Orzas, who appointed him and can dismiss him. The two old men have worked together since 705 and understand each other well.
 
 ### Enemies
 

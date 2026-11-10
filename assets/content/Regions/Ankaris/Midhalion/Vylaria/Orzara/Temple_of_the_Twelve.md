@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Sarkena Dorekis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Vanor of Orzara that honors the whole Aureldian Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Thordimalon."
 tags: [temple, aureldian, vylaria, imperial, orzara, precinct]
-data: {demonym: null, lore: [], parents: [vylariargn], population: 400, government: vylarinmpr}
+data: {demonym: null, lore: [], parents: [orzara], population: 400, government: vylarinmpr}
 ---
 
 ## Sarkena Dorekis—The House of the Twelve {#overview}
@@ -16,7 +16,7 @@ A sacristan of the House of the Twelve gives each new novice the same first inst
 
 ### The Dome
 
-What every visitor remembers is the dome. It rises in a single unbroken span so wide that the eye refuses to grant it—a vault of coffered stone that, by every rule the masons of the world know, should have collapsed under its own weight the day the centering was struck. Visiting architects from the [[place-provenzrgn|Provénzia Region]], from the [[place-aukhelathrgq|Au'Khelathu Region]], from the far eastern empires have stood beneath it and declared flatly that it cannot stand. They are not entirely wrong. The dome is the quiet work of the [[affiliation-ordoarcanis|Thordimalon]], whose wards run unseen through the ribs of the stone, and whose mastery the Empire is pleased to display in a building where every subject of the western world will crane their neck and wonder. At the dome's crown a single round oculus is left open to the sky, so that across the day a disc of sunlight wheels slowly down the interior, touching each of the Twelve in turn—and on certain feast-days, by reckonings the priesthood guards closely, falling at the appointed hour upon the god whose festival it is.
+What every visitor remembers is the dome. It rises in a single unbroken span so wide that the eye refuses to grant it—a vault of coffered stone that, by every rule the masons of the world know, should have collapsed under its own weight the day the centering was struck. Visiting architects from the [[place-provenzrgn|Provénzia Region]], from the [[place-aukhelathrgq|Au'Khelathu Region]], from the far eastern empires have stood beneath it and declared flatly that it cannot stand. They are not entirely wrong. The dome is the quiet work of the [[affiliation-ordoarcanis|Thordimalon]], whose wards run unseen through the ribs of the stone, and whose mastery the Empire is pleased to display in the temple’s vast dome. At the dome's crown a single round oculus is left open to the sky, so that across the day a disc of sunlight wheels slowly down the interior, touching each of the Twelve in turn—and on certain feast-days, by reckonings the priesthood guards closely, falling at the appointed hour upon the god whose festival it is.
 
 ### The Twelve Within
 
@@ -39,7 +39,7 @@ Open conflict between faiths is forbidden absolutely in the Vanor, so the quarre
 
 ## The Keepers {#who-rules-it}
 
-The Temple of the Twelve is not the property of any one of the Twelve. It is kept, by ancient arrangement, by the priests of the [[affiliation-ardavon|Faith of Árdavon]], who serve [[lore-ardavondty|Árdavon]]—the Keeper of the Gates, god of order, thresholds, and the frameworks within which all else is held. That the god of doors should hold the keys to the house of the whole pantheon is a logic no Vilérian needs explained: where the Twelve are gathered under one roof, in the keepers' understanding, it is Árdavon who governs the roof itself. The Árdavan custodians tend the common rites that honor the pantheon entire, marshal the great calendar of festivals so that twelve priesthoods may each process to the center in their season without treading on one another, and adjudicate the endless small precedences and jealousies of a building shared by a dozen proud clergies. It is a quiet, formidable power—and a partisan one, for in their teaching Árdavon is no neutral arbiter but a god with his own loves and hatreds among the Twelve.
+The Temple of the Twelve is not the property of any one of the Twelve. It is kept, by ancient arrangement, by the priests of the [[affiliation-ardavon|Faith of Árdavon]], who serve [[lore-ardavondty|Árdavon]]—the Keeper of the Gates, god of order, thresholds, and the frameworks within which all else is held. In the keepers’ understanding, where the Twelve are gathered under one roof, it is Árdavon who governs the roof itself. The Árdavan custodians tend the common rites that honor the pantheon entire, marshal the great calendar of festivals so that twelve priesthoods may each process to the center in their season without treading on one another, and adjudicate the endless small precedences and jealousies of a building shared by a dozen proud clergies. It is a quiet, formidable power—and a partisan one, for in their teaching Árdavon is no neutral arbiter but a god with his own loves and hatreds among the Twelve.
 
 ## Hooks {#hooks}
 

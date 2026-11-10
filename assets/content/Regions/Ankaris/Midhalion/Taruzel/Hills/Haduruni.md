@@ -34,6 +34,7 @@ data:
       Marker of Trees: >-
         Held by one Of the Haduruni for each stretch of the boundary, named by the Keeper. Walks the stands on the tribe's side of the valley with the timberwrights, and cuts the tribe's mark into every tree it has sold.
   seat: null
+  range: [visizel]
   population: 50000
   economy: []
   lore: [humanflk]
@@ -62,13 +63,13 @@ A line of stone heaps runs along Visizel's hills above the timber camps of the A
 
 ## Trees Sold
 
-The Haduruni's living from the coast is timber. The timberwright families of the Alz woods buy the right to fell on the tribe's side of the valley, tree by tree. A Marker of Trees walks the stand with the timberwright, they agree a price for each trunk, and the Marker cuts the tribe's mark into the bark: a closed square, the sign of the closed way. A tree felled without the mark is a theft. The tribe sends a party down to the timber camp it came from, and the camp pays twice the price or loses its next season's cutting.
+The Haduruni's living from the coast is timber. The timberwright families of the Alz woods buy the right to fell on the tribe's side of the valley, tree by tree. The tribe's elders decide which trees may be sold, at the price fixed for the year by the [[affiliation-hillcouncil|Council of the Hills]]. A Marker of Trees walks the approved stand with the timberwright and cuts the tribe's mark into the bark of each tree sold: a closed square, the sign of the closed way. A tree felled without the mark is a theft. The tribe sends a party down to the timber camp it came from, and the camp pays twice the price or loses its next season's cutting.
 
 The great timber of the island goes down the Alz to the yards of [[place-sazumun2|Sazumun]] and the Naval Yards of [[place-yamuzel2|Yamuzel]]. [[affiliation-sazumun|Sazumun]], whose island Visizel is, grants the timberwrights their charters, and the charters say nothing about the tribe. The timberwright [[being-zttyblnn|Zattuya Balinuni]] has found the best oak she has seen in years in a stand on the Haduruni side of the line, and the shipwrights of Sazumun want it.
 
 ## Quarrels and Debts {#present}
 
-The Haduruni's quarrel is with a charter they were never asked about. [[affiliation-sazumun|Sazumun]] grants the timberwrights of the Alz their charters, the charters say nothing of the tribe, and the tribe's mark on every tree felled above the line is the only law the cutting answers to on their side. [[being-zttyblnn|Zattuya Balinuni]] has found the best oak she has seen in years in a stand above the boundary, the shipwrights of Sazumun want it, and she has been asked to mark the whole of next winter's keel cut for a single buyer. The Keeper of the Boundary has not yet come down to the stone heap to hear her price.
+The Haduruni's quarrel is with a charter they were never asked about. [[affiliation-sazumun|Sazumun]] grants the timberwrights of the Alz their charters, the charters say nothing of the tribe, and the tribe's mark on every tree felled above the line is the only law the cutting answers to on their side. [[being-zttyblnn|Zattuya Balinuni]] has found the best oak she has seen in years in a stand above the boundary, the shipwrights of Sazumun want it, and she has been asked to mark the whole of next winter's keel cut for a single buyer. The Keeper of the Boundary has not yet come down to the stone heap to hear her request for the stand.
 
 ## Hooks {#hooks}
 

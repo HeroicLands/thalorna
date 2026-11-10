@@ -73,7 +73,7 @@ The compound holds more than the chancery. [[affiliation-tarmex|The Tarmeks Orza
 
 The **Keeper of the Seal** heads the chancery and, through it, the Offices. He is appointed by the Orzas and answers to him alone, and by custom he is a freedman of the imperial household: a man with no house of his own to serve before the throne's. An act of the throne is an act because the Keeper sealed it, and a document sealed in his absence is a forgery however genuine its words.
 
-The present Keeper is [Holimar]{.name data-type="being/npc"}, a freedman of sixty who has held the seal for nineteen years. He is soft-spoken, exact and very rich, and he is the most hated man in the Seldan. _Kurthoi_ (senators) of the founding houses wait on his bench like petitioners, because nothing they win in the chamber is law until he seals it. The post is a freedman's by custom, and the founder of [[affiliation-thalurates|House Thalurates]] was the son of a freedman who held it, and the Thalurates have served in the Offices since.
+The present Keeper is [[being-holimar|Holimar]], a freedman of sixty who has held the seal for nineteen years. He is soft-spoken, exact and very rich, and he is the most hated man in the Seldan. _Kurthoi_ (senators) of the founding houses wait on his bench like petitioners, because nothing they win in the chamber is law until he seals it. The post is a freedman's by custom, and the founder of [[affiliation-thalurates|House Thalurates]] was the son of a freedman who held it, and the Thalurates have served in the Offices since.
 
 ## The Desks
 

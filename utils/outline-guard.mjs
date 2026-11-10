@@ -33,8 +33,9 @@
  * A note whose kind has no entry is not read. A finding is a warning, and an
  * error when the note is in a land the registry's `finished` list names. The
  * registry's `lands` map names each land's regions, and a note is in a land
- * when any branch of its `data.parents` (or a being's `data.homes`) reaches
- * one; a reference is a bare shortcode or a full address.
+ * when any branch of its `data.parents`, a being's `data.homes`, or an
+ * affiliation's `data.seat` (or its seatless `data.range`) reaches one. A
+ * reference is a bare shortcode or a full address.
  */
 
 import fs from "node:fs";
@@ -147,8 +148,9 @@ export function parentTypes(type) {
 
 /**
  * The ids of the lands a note is in: every branch of `data.parents` (and, for a
- * being, `data.homes`) is followed upward, cycle-safely, and the nearest note
- * along it that a land names puts the note in that land.
+ * being, `data.homes`, or an affiliation, its seat or seatless range) is
+ * followed upward, cycle-safely. The nearest note along it that a land names
+ * puts the note in that land.
  */
 export function landsOf(index, fm, lands) {
     const owner = new Map();
@@ -156,17 +158,25 @@ export function landsOf(index, fm, lands) {
         for (const code of codes) owner.set(code, id);
     const found = new Set();
     const visit = (note, seen) => {
-        if (!note || seen.has(note.shortcode)) return;
-        const land = owner.get(note.shortcode);
+        if (!note) return;
+        const identity = `${note.type}-${note.shortcode}`;
+        if (seen.has(identity)) return;
+        const land = note.type === "place" ? owner.get(note.shortcode) : undefined;
         if (land) {
             found.add(land);
             return;
         }
-        seen.add(note.shortcode);
+        seen.add(identity);
         const up = [
             ...(Array.isArray(note.data?.parents) ? note.data.parents : []).map((r) =>
                 resolveRef(index, r, parentTypes(note.type)),
             ),
+            ...(note.type === "affiliation" ?
+                (note.data?.seat ? [note.data.seat]
+                : Array.isArray(note.data?.range) ? note.data.range
+                : []
+                ).map((r) => resolveRef(index, r, ["place"]))
+            :   []),
             ...(note.type === "being" ?
                 (Array.isArray(note.data?.homes) ? note.data.homes : []).map((r) =>
                     resolveRef(index, r, ["place"]),

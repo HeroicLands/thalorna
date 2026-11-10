@@ -14,7 +14,7 @@ The Old Coal is the fire of [[place-braldvik|Bralvik]]. It lives banked in the S
 
 ## Who Holds It {#who-holds-it}
 
-The keeper is [Sorima Salken]{.name data-type="being/npc"}, a smokehouse mistress of sixty and the last of her line to carry the Salken name. She banks the coal in the family smokehouse under a hood of turf and ash, and she carries it on Coal Night in Hvirnmil's helm, the iron gone black with two centuries of embers. She also keeps a second coal banked in a cellar, against the night someone tries to put the first one out, and she does not say which cellar.
+The keeper is [[being-sorimasalk|Sorima Salken]], a smokehouse mistress of sixty and the last of her line to carry the Salken name. She banks the coal in the family smokehouse under a hood of turf and ash, and she carries it on Coal Night in Hvirnmil's helm, the iron gone black with two centuries of embers. She also keeps a second coal banked in a cellar, against the night someone tries to put the first one out, and she does not say which cellar.
 
 ## Its Story {#its-story}
 

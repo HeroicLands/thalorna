@@ -41,9 +41,11 @@ data:
         description: >-
           Commander of the whole guard, second man in the empire in practice.
     offices:
+      Thaurusos: >-
+        Commander of the whole imperial guard, answering to the Orzas alone.
       Captain of the Palace Detail: >-
         Commander of the permanent palace detail, who shares the securing of the imperial strongroom.
-  seat: null
+  seat: thaurzurgalis
   population: null
   economy: [affiliation-tarmex]
   lore: []

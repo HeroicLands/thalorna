@@ -3,6 +3,7 @@ shortcode: erythnslnds
 name: {full: Erithon Uselindas, given: Erithon, clan: Uselindas}
 type: being
 subType: character
+description: "Lord Doros’s archer-guard in Nartun, a disciplined marksman devoted to Lizelas and the Verdant Sanctum."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -422,7 +423,7 @@ Erithon stands 6'1" tall with a medium build. He has light fair skin, brown hair
 
 # Dossier {#dossier}
 
-Erithon was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], in the transitional lands where forest gives way to settled agriculture and the devotion to [[affiliation-lizelas|Lizelas]] runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Aureldian faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord [[being-dorandosmelv|Doros]]**, the aging noble who oversaw these lands.
+Erithon was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], in the transitional lands where forest gives way to settled agriculture and the devotion to [[affiliation-lizelas|Lizelas]] runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Faith of Lizelas. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord [[being-dorandosmelv|Doros]]**, the aging noble who oversaw these lands.
 
 For a decade, Erithon has served in this capacity—maintaining peace, hunting threats, and honing his craft to near-perfection. The serpent tattoo on his back was earned five years ago when he undertook a sacred pilgrimage to the heart of the [Verdant Sanctum]{.name data-type="place/site"}, seeking wisdom and blessing from Lizelas for a failed hunt that cost a family their livelihood. The serpent, he was taught, represents regeneration and the cyclical nature of life—a reminder that even failure contains the seeds of renewal.
 
@@ -451,7 +452,7 @@ Survival Skills
 : His knowledge of woodcraft, hunting, tracking, and wilderness navigation is comprehensive and practical.
 
 Spiritual Discipline
-: His training in the Aureldian faith provides him with both mental fortitude and a philosophical framework for understanding his purpose.
+: His training in the Faith of Lizelas provides him with both mental fortitude and a philosophical framework for understanding his purpose.
 
 ### Weaknesses
 
@@ -511,13 +512,19 @@ The Sacred Stag
 : Hunters report sightings of a magnificent stag—enormous, ancient, and bearing strange markings—in the deep forest. Local legend claims it is a divine manifestation of Lizelas herself. When Erithon encounters it during a hunt, he finds himself unable to kill it, despite the easy shot. This begins a strange spiritual journey in which the stag appears again and again, as if trying to communicate something. The party must help Erithon understand the meaning behind the encounters, leading them into contact with druidic powers and ancient magics.
 
 The Poisoned Arrow
-: Erithon is framed for an assassination attempt when his distinctive arrows are found at the scene of a crime—yet he did not fire them. Investigation reveals someone is craftily duplicating his arrows and implicating him in murders and attacks. The conspiracy leads deeper into the kingdom's politics than Erithon could have imagined, and he must prove his innocence while uncovering who has gone to such lengths to destroy his reputation.
+: Erithon is framed for an assassination attempt when his distinctive arrows are found at the scene of a crime—yet he did not fire them. Investigation reveals someone is craftily duplicating his arrows and implicating him in murders and attacks. Erithon must prove his innocence and learn who is copying his arrows.
 
 The Verdant Sanctum Under Siege
-: High Priestess Kaldrema sends an urgent message that the Verdant Sanctum is under attack by forces she cannot identify—possibly cultists, possibly dark magic. Erithon must lead a rapid journey to aid the sanctuary, only to discover that the attack was a diversion for something far darker happening at the shrine's heart.
+: High Priestess Kaldrema sends an urgent message that the Verdant Sanctum is under attack by forces she cannot identify—possibly cultists, possibly dark magic. Erithon gathers help for a rapid journey to defend the sanctuary.
 
 The Archery Tournament
 : A grand tournament is announced that will attract the finest archers from across multiple kingdoms. Erithon is strongly encouraged to participate, but strange portents surround the event. The party discovers that the tournament is actually a cover for darker purposes—slave trading, assassination, or the identification of skilled warriors for conscription into a shadowy force.
 
 The Fallen Student
 : A young apprentice archer Erithon once trained seeks him out bearing terrible news—others who studied under Erithon are being systematically hunted and killed. The common thread is their connection to him, and he must discover why he has become a target. This investigation could reveal that his past contains secrets he himself does not fully understand, or that a powerful enemy seeks to eliminate all his connections.
+
+:::secret {title="The arrows and the Sanctum"}
+The arrow-copying conspiracy reaches into the politics of the holy city, where someone wants Erithon ruined. Doros can be pressed to dismiss his accused guard or be accused alongside him.
+
+The attack on the Verdant Sanctum is a diversion for something far darker happening at the shrine's heart. Kaldrema does not know this when she calls for help; the attackers at the garden walls are meant to be beaten off.
+:::

@@ -54,7 +54,7 @@ The [[place-vylarisrvr|River Vilaris]] crosses the heartland from the interior h
 
 ## Current Situation {#present}
 
-The heartland lives on borrowed money and waits on an old man's death. The [[affiliation-vylarinmpr|Vilérian Empire]]'s throne pays its veterans with loans it rolls over each quarter, the capital holds about a week of grain, and the Orzas has adopted nobody. Each province shows the strain its own way. [[place-alyssa|Alessa]] is governed from a sickroom, and its old cities sell their stone to the capital. [[place-hylen|Hilen]]'s estates take their tenants' land and fear civil war more than anything. [[place-moktur|Moktur]] is a province the capital can neither lose nor hold. [[place-salkhalon|Salkalon]]'s merchants live on the strait trade the capital calls collaboration, beside a fleet that cannot pay its oarsmen. In the [[place-nartumkngdm|Nartun Kingdom]] the high priesthood moves to judge its king while the forest dies.
+The heartland lives on borrowed money and waits on an old man's death. The [[affiliation-vylarinmpr|Vilérian Empire]]'s throne pays its veterans with loans it rolls over each quarter, the capital holds about a week of grain, and the Orzas has adopted nobody. Each province shows the strain its own way. The governor of [[place-alyssa|Alessa]] has stayed in [[place-vennara|Vennara]] since spring, and the province’s old cities sell their stone to the capital. [[place-hylen|Hilen]]'s estates take their tenants' land and fear civil war more than anything. [[place-moktur|Moktur]] is a province the capital can neither lose nor hold. [[place-salkhalon|Salkalon]]'s merchants live on the strait trade the capital calls collaboration, beside a fleet that cannot pay its oarsmen. In the [[place-nartumkngdm|Nartun Kingdom]] the high priesthood moves to judge its king while the forest dies.
 
 ## Notable Features
 
@@ -73,6 +73,15 @@ The River Vilaris
 - **The empty chair.** A family that lost a case in [[place-alyssa|Alessa]] this year wants to know who sealed the judgment.
 
 ## See Also
+
+[[affiliation-goitsathal|Goitsa Thal]]
+: the Tarvenan company holding the western road-head
+
+[[affiliation-kandral|The Arcane Magistracy]]
+: the Republic’s former register of arcanists
+
+[[place-twelfthcamp|The Twelfth's Last Camp]]
+: the ruined winter fort below the Kervaron passes
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : the empire that holds this land

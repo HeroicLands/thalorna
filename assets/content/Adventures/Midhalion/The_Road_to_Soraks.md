@@ -8,7 +8,7 @@ tags: []
 data:
   parents: []
   locations: [alyssa, alyssar, vennara, lentora, skoraz]
-  cast: [phltsklfts, klstrtsxrchds, iltherethalu, krznsthlrts, kldrmslthzs, nethoren]
+  cast: [phltsklfts, klstrtsxrchds, iltherethalu, iltherosguri, kldrmslthzs, nethoren]
   factions: [provinclys, zarkedis, thalurates, imperialoffices]
   follows: []
   party: {size: null, archetypes: []}
@@ -25,7 +25,7 @@ The _therkos_ of [[affiliation-provinclys|the Province of Alessa]], [[being-kldr
 
 **The act.** The packet the party carries holds an act moving the Northern Bench and its registry from Soraks south to [[place-lentora|Lentora]], where the roads are good. Without the Bench the litigants stop coming, and without them Soraks is a quarry with a council. Nobody in Soraks has seen it.
 
-**The bridge.** The north road's levy is assessed every year for the Broken Bridge beyond Soraks, and is spent on the roads nearer the capital, where the senators drive. The senior _tavemos_ of Soraks, [Iltheros Gurimandis]{.name data-type="being/npc"}, has asked to see the accounts four times and been refused by letter.
+**The bridge.** The north road's levy is assessed every year for the Broken Bridge beyond Soraks, and is spent on the roads nearer the capital, where the senators drive. The senior _tavemos_ of Soraks, [[being-iltherosguri|Iltheros Gurimandis]], has asked to see the accounts four times and been refused by letter.
 
 **The page.** The registry's page naming the buyer of the [[affiliation-zarkedis|Zarkedis]] house at the creditors' sale has been cut from the book. The buyer was a factor of [[affiliation-thalurates|House Thalurates]], and the Zarkedis ancestor masks are still in the house's cupboard. [[being-iltherethalu|Ilthere Thalurates]] means them to be the price she names to [[being-klstrtsxrchds|Kalestratos Zarkedis]], the fallen house's heir. The clerk who cut the page has heard of the act and hopes to go south with the registry.
 
@@ -71,7 +71,7 @@ Morning on the steps of the Governor's House in Alessar. Nethoren reads three ac
 
 **Situation.** The road runs straight across farmland with grass in the paving. The post-house at the last mile is shut. A day out, the road passes Lentora's land, where the baths smoke and the council's seats fall empty.
 
-**NPCs and threats.** Two men from the capital ride the same road and keep a mile behind; their errand in Soraks is their own (see the town's hook _The monograph_), and they take no interest in the party. A Lentora steward overtakes the party in a hurry: he means to reach his master before the _tavemoi_ name him to an empty council seat in his absence. On the second night, hired hands try to take the packet. The _karezos_ of Alessar sent them, because he wants to know which acts under the seal leave the city. A watchful party beats them off.
+**NPCs and threats.** Two men from the capital ride the same road and keep a mile behind. They have come to ask an antiquary of Soraks to withdraw a monograph that copyists in Alessar already have on order. It draws on a Republic chancery docket naming something kept for the Republic as an egg. Their errand is their own, and they take no interest in the party's packet; a party that waits for them can learn whom they mean to visit. A Lentora steward overtakes the party in a hurry: he means to reach his master before the _tavemoi_ name him to an empty council seat in his absence. On the second night, hired hands try to take the packet. The _karezos_ of Alessar sent them, because he wants to know which acts under the seal leave the city. A watchful party beats them off.
 
 **Player choices.** Help the steward, wait for the men behind, or press on.
 
@@ -122,7 +122,7 @@ Morning on the steps of the Governor's House in Alessar. Nethoren reads three ac
 
 **Situation.** The Broken Bridge north of town: three arches standing, the middle one in the river. A Lentora merchant says the bridge could be mended in a summer if someone found the stone, and Soraks has more stone than anything else. Across the river the road runs on, paved, into empty country.
 
-**NPCs and threats.** Iltheros, if he trusts the party, comes to the bridge to ask what they mean to do. The two men from the capital are lodged at the Last Mile.
+**NPCs and threats.** Iltheros, if he trusts the party, comes to the bridge to ask what they mean to do. The two men from the capital are lodged at the Last Mile, the inn on the Bench Square opposite the court-house, while they seek the antiquary's withdrawal. The inn lets rooms by the week; it is separate from the shut post-house outside town.
 
 **Player choices.** Carry the cut page to Kalestratos Zarkedis, carry the act's news back to Nethoren, sell the ledger's existence to the _karezos_, or put the town's case to the province.
 

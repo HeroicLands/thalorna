@@ -89,9 +89,9 @@ Alessan society is intensely political. Every conversation carries subtext and e
 
 ## Life in the Province
 
-Alessa is the empire at its most cultivated and its most political: paved roads, aqueducts, market towns and great estates, where almost nothing is more than a day's ride from a temple, a magistrate and a tax-collector. Adventure here is rarely about wilderness. It is about the press of people and power: senatorial intrigue, Arcane Order surveillance, religious patronage-fights, debt and inheritance suits, and the patronage networks that decide everything.
+Alessa is the empire at its most cultivated and its most political: paved roads, aqueducts, market towns and great estates, where almost nothing is more than a day's ride from a temple, a magistrate and a tax-collector. The province is full of senatorial intrigue, Arcane Order surveillance, religious patronage-fights, debt and inheritance suits, and the patronage networks that decide everything.
 
-What is scarce is food, which arrives from the [[affiliation-provnchyln|Province of Hilen]] and the [[affiliation-provincvld|Province of Salkalon]], and privacy. What is abundant is law, rumor, money and witnesses. A settlement seeded here can be assumed to have roads, an inn, a shrine, a resident magistrate, and at least one great family whose interests reach back to the capital.
+What is scarce is food, which arrives from the [[affiliation-provnchyln|Province of Hilen]] and the [[affiliation-provincvld|Province of Salkalon]], and privacy. What is abundant is law, rumor, money and witnesses.
 
 ## Current Situation {#present}
 
@@ -120,7 +120,7 @@ Through the two centuries of decline the far provinces stopped paying ([[lore-em
 
 ## Hooks {#hooks}
 
-- **The physician's errand.** The _therkos_'s physician wants a remedy fetched from Orzara quickly, and nobody in [[place-alyssar|Alessar]] told who it is for.
+- **The physician's errand.** The _therkos_'s physician wants a remedy fetched from Orzara quickly, and nobody in Alessar will say who it is for.
 - **The count.** The Vallar at [[place-corvinus|Korvenara]] wants the inspecting officer delayed on the road for three days.
 - **The empty seat.** [[place-lentora|Lentora]]'s magistrates mean to name a party's patron to the council while he is away.
 

@@ -38,7 +38,7 @@ data:
 
 # Appearance {#appearance}
 
-Ankelos Satheris is a 42-year-old man who stands 6'0" tall and is of medium build. He has light skin weathered by the forge, auburn hair cropped short, and brown eyes. His forearms carry a smith's burn scars, and he wears a priest's robe of the [[affiliation-sacredforge|Sacred Forge]] with a hammer at his belt. He speaks quickly and loudly, and he leans in when he argues.
+Ankelos Satheris is a 41-year-old man who stands 6'0" tall and is of medium build. He has light skin weathered by the forge, auburn hair cropped short, and brown eyes. His forearms carry a smith's burn scars, and he wears a priest's robe of the [[affiliation-sacredforge|Sacred Forge]] with a hammer at his belt. He speaks quickly and loudly, and he leans in when he argues.
 
 # Dossier {#dossier}
 
@@ -70,7 +70,7 @@ His conviction, his friends among the keepers of the Temple and the old houses, 
 
 ### Weaknesses
 
-His temper. Even his friends fear it, and a man who loses his temper in the Temple District can be made to look like the one who broke its peace.
+His temper. Even his friends fear it, and in the Temple District it can make him look like the one who broke the peace.
 
 ## Social
 

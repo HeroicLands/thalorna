@@ -3,7 +3,7 @@ shortcode: lrdmlnvsbr
 name: {full: Lord Aimilon Visbari, given: Aimilon, clan: Visbari}
 type: being
 subType: character
-tags: [heroes-and-knaves, fffv1, herald, noble, spymaster, vylaria, administration]
+tags: [heroes-and-knaves, herald, noble, spymaster, vylaria, administration]
 data:
   icon: icon-person
   templatePriority: null

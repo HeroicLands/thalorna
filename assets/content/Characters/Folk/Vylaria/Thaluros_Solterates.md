@@ -6,7 +6,7 @@ name:
 type: being
 subType: npc
 description: "A retired Guildmaster of the Imperial Scribal Guild and former Master Scriptorium Director of the Imperial Scribal Academy, the most respected calligrapher of his generation and the exacting teacher of Ailema Keramyes."
-tags: [draft]
+tags: []
 data:
   icon: icon-person
   templatePriority: null
@@ -14,7 +14,7 @@ data:
   occupation: Master Scriptorium Director
   lore: []
   culture: vylarianclt
-  homes: []
+  homes: [ostenna]
   affiliations: {imprlscrblgld: {rank: 4}}
   socialTies: {being-ailemkrmys: friend}
   gender: male
@@ -42,6 +42,8 @@ Thaluros Solterates is a 64-year-old man who stands 5'9" tall and is of medium b
 Master Thaluros Solterates was the Master Scriptorium Director, head of the [Imperial Scribal Academy]{.name data-type="affiliation"}, and he is still held the finest calligrapher of the [[affiliation-vylarinmpr|Empire]] in his generation. He is a Guildmaster of the Imperial Scribal Guild, the body that trains, examines and licenses every hand that writes the Empire's records, and he is retired from his post.
 
 He was known for exacting standards and notorious harshness. Many of his apprentices were daunted by him. [[being-ailemkrmys|Ailema Keramyes]] was not: she was apprenticed to him at fourteen, studied under him for six years, and found his demands clarifying. He keeps in touch with her, mentors her informally, and now and then asks her advice on historical scribal techniques.
+
+He keeps his retirement household at [[place-ostenna|Ostenna]], within reach of the river carriers who bring papers from Alessar. Boatmen and warehouse clerks bring him disputed receipts, and he insists that they bring the original as well as the copy. He accepts no routine copying work. The port gives him documents worth examining and enough distance from his old school to refuse its daily quarrels.
 
 ## Background
 
@@ -84,6 +86,8 @@ He is old, and his harshness is remembered by the apprentices it daunted.
 1. **The attribution.** A collector has bought a manuscript said to be in Thaluros's own hand, and asks a party to take it to him for his word. Thaluros says at a glance that it is not his, and asks who made it so well.
 2. **The forged edict.** An imperial edict proved a forgery carries an authentic seal, so the forgery began inside the Guild. Thaluros knows the hands of a generation of scribes, and the Guild's investigators want a party to carry him the document without anyone learning that the Guild has asked.
 3. **The last pupil.** Thaluros asks a party to find a probationer who left the academy in his last year as director, and to tell him that his old master was wrong about him.
+
+4. **The scraped receipt.** An Ostenna boatman brings Thaluros a toll receipt whose amount appears to have been altered. Thaluros asks a party to obtain the matching entry from the toll desk before the next packet leaves for the provincial revenue office.
 
 :::secret {title="The Lizelas archive"}
 Decades ago, texts in the archive of the [Temple of Lizelas]{.name data-type="affiliation"} were suppressed and others altered. The records of that work survive among the temple's documents. They show that the temple's present teaching differs from what earlier centuries understood of [[affiliation-lizelas|Lizelas]], and they point to Thaluros as one of the hands that hid the difference.

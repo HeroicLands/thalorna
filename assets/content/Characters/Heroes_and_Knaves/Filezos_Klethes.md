@@ -439,7 +439,7 @@ Agility
 : He moves efficiently, relying on agility in combat to outmaneuver opponents.
 
 Perception
-: His awareness of the battlefield is sharp, though not so.
+: His awareness of the battlefield is sharp.
 
 Comeliness
 : Filezos’s appearance is rugged and battle-worn, with a certain charisma.
@@ -454,7 +454,7 @@ Reasoning
 : His tactical mind allows him to plan and strategize effectively.
 
 Creativity
-: While occasionally innovative in battle, Filezos prefers tried-and-true tactics.
+: Filezos devises bold, unorthodox tactics and adapts them quickly when a battle changes.
 
 Empathy
 : He is focused on his duty as a commander, often appearing emotionally distant.
@@ -489,14 +489,17 @@ Filezos seeks both personal redemption and revenge. He believes that helping Kal
 
 ### Strengths
 
-- **Military Strategy**
-- **Swordsmanship**
+Military Strategy
+: He plans several moves ahead, recognizes openings in confused fighting and uses fire to disrupt an enemy’s defenses.
+
+Swordsmanship
+: Years of campaigning give him the strength, precision and endurance to fight beside the soldiers he commands.
 
 ## Social
 
 ### Enemies
 
-rival faction
+The conservative officers who condemned his destructive methods stand against his return to imperial service. Survivors of the fortress he burned seek revenge, and their militia disrupts trade to keep his campaign’s cost before the public.
 
 ## Plot Hooks
 

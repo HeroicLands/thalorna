@@ -288,6 +288,88 @@ const replacedProse = new Map([
                 "The language is generally non-tonal but employs pitch accents for emphasis in formal contexts.",
                 "The language is non-tonal.",
             ],
+            [
+                "Taruzeli is characterized by rhythmic, sonorous tones. Its open vowels give names and words a flowing, measured quality suited to contract negotiations and formal agreements.",
+                "",
+            ],
+            [
+                "Taruzeli is the ledger-speech of the sea-lanes. It has three vowels and leans on doubled consonants.",
+                "",
+            ],
+            ["**The vowels.** _a_, _u_ and _i_, with _e_ rarer.", ""],
+            ["**The consonants.** _sh_, _z_, _m_, _q_, _b_, _d_, _g_, _k_, _r_ and _n_.", ""],
+            [
+                "**Clusters.** Doubled consonants (_mm_, _rr_, _zz_) stand between vowels. A word opens on one consonant.",
+                "",
+            ],
+            ["**Endings.** Taruzeli words end in _-um_, _-ush_, _-uni_, _-am_ or _-u_.", ""],
+            ["**What Taruzeli leaves out.** It has no _o_, no _f_ and no _th_.", ""],
+            ["## Phonology", ""],
+            ["### Consonant System", ""],
+            [
+                "Taruzeli features a rich consonant inventory with several distinctive sound clusters:",
+                "",
+            ],
+            ["Stops : /p/, /b/, /t/, /d/, /k/, /q/ (uvular)", ""],
+            [
+                "Fricatives : /f/, /z/, /sh/ (voiceless sh-sound), /kh/ (velar fricative), /gh/ (voiced velar)",
+                "",
+            ],
+            ["Nasals : /m/, /n/", ""],
+            ["Liquids : /r/, /l/", ""],
+            ["Affricates : /dz/, /ts/", ""],
+            [
+                "Characteristic clusters appear in given names: _Sharrush, Nadumar, Iddinash, Tarruk, Bissush_. Double consonants (_mm_, _rr_, _dd_, _tt_, _kk_, _ss_, _zz_) are phonologically significant, often marking emphasis or etymological depth.",
+                "",
+            ],
+            [
+                "The velar _kh_ and uvular _q_ give Taruzeli a guttural quality that distinguishes it from neighboring Ankarian languages.",
+                "",
+            ],
+            ["### Vowel System", ""],
+            ["Taruzeli employs five primary vowel qualities:", ""],
+            ["a : front open vowel", ""],
+            ["e : front mid vowel", ""],
+            ["i : front close vowel", ""],
+            ["o : back mid vowel", ""],
+            ["u : back close vowel", ""],
+            ["Diphthongs are rare.", ""],
+            ["### Stress and Prosody", ""],
+            [
+                "Taruzeli stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: the first syllable of a two-syllable word, the second-to-last of a longer one. This creates a measured, rolling cadence suited to oral recitation of contracts and maritime commands.",
+                "",
+            ],
+            ["Examples from given names:", ""],
+            [
+                "- _na-DU-mar_ (stress on the second-to-last syllable) - _sha-MU-lu_ (stress on the second-to-last syllable) - _TAR-ruk_ (stress on first)",
+                "",
+            ],
+            ["The language is non-tonal.", ""],
+            [
+                "- **-i** (masculine lineage marker)—_Bibudi, Shamurin, Girmali_ - **-uni** (feminine/collective lineage)—_Pasharuni, Beshuni, Pilmuni_ - **-um** (emphatic lineage)—_Bilulum, Kalurum, Eshkarum, Ilammu_",
+                "",
+            ],
+            [
+                "Family names are prestigious markers and carry explicit gender/collective suffixes:",
+                "",
+            ],
+            [
+                "- **-i** endings mark patrilineal descent (masculine focus) - **-uni** endings mark broader family collectives or matrilineal branches - **-um** endings emphasize family honor and strength",
+                "",
+            ],
+            [
+                "The sound of Taruzeli is rolling and full-voiced. Vowels come short or long, and a consonant doubled inside a word is held and pressed: _Sharrush_, _Zattuya_, _Ilammuni_. Stress falls on the second-last syllable, and a word never opens on two consonants.",
+                "",
+            ],
+            ["Two vowels standing together are both said, one after the other.", ""],
+            [
+                '**A house or a body** is named for its founder or its work, with the lineage ending: the _[Merazuni]{.name data-type="affiliation/governmental"}_, the Confederation\'s treasury, is the whole company of the ledger, built as `meraz-` + `-uni`. The _[[affiliation-vezakuni|Vezakuni]]_, the Council of the Guild-Wardens, is the whole company of the warding, `vezak-` + `-uni`, and its seat, the _[Vezakar]{.name data-type="place/site"}_, is where the warding is kept; its overseers are the _[Pazasuni]{.name data-type="affiliation"}_, the company of the lookouts. The [[affiliation-auricompct|Auric Compact]] is a banking cartel named in the reader\'s tongue for the gold it holds.',
+                "",
+            ],
+            [
+                "A retired name is one the setting does not write: a name from Earth, or a name no Taruzeli root builds. Each stands below with the name written in its place, and no page writes it, however accented. A `terran_analog` comment names the Earth source on purpose.",
+                "",
+            ],
         ],
     ],
 ]);

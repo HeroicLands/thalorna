@@ -9273,6 +9273,8 @@ data:
     - {tag: other, meaning: a name in no tongue these pages name}
     - {tag: ancient, meaning: "a letter of ancient Vilari"}
   register:
+    - {name: Kalmethar Ronethen, tongue: vylari}
+    - {name: Tholmaros Kalmethis, tongue: vylari}
     - {name: Varokh, tongue: vylari}
     - {name: Yalzeme, tongue: vylari}
     - {name: Yalzizon, tongue: vylari}

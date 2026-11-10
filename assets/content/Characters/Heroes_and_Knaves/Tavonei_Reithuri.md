@@ -426,7 +426,7 @@ For twenty years Tavonei walked the coast road of Kalihara as a common guard and
 
 ### Present Circumstances
 
-Now forty, Tavonei lives in [[place-qudumel2|Kudumel]], the Taruzelian city across the sea from his island, where he took his trade when the coast road began to empty. At home more cargo went by sea every season, on the fast coasters that ran between the ports, and less by the road where he made his name. In Kudumel the caravans still come, up from the desert trails of the [[place-dunharargn|Dunhara Region]] and over the strait on the ferries to the Caravan Gate, and a guard who knows how to keep a train whole is worth his fee. Younger guards who ride light and strike fast undercut him here as they did at home and take contracts he once had for the asking. The merchants still call him for the richest trains and the worst stretches of trail, because he is the safest choice for a cargo that cannot be lost. He can change his ways, retire with the legend whole, or stake everything on the old method, certain it is right while the trade moves out from under him.
+Now thirty-nine, Tavonei lives in [[place-qudumel2|Kudumel]], the Taruzelian city across the sea from his island, where he took his trade when the coast road began to empty. At home more cargo went by sea every season, on the fast coasters that ran between the ports, and less by the road where he made his name. In Kudumel the caravans still come, up from the desert trails of the [[place-dunharargn|Dunhara Region]] and over the strait on the ferries to the Caravan Gate, and a guard who knows how to keep a train whole is worth his fee. Younger guards who ride light and strike fast undercut him here as they did at home and take contracts he once had for the asking. The merchants still call him for the richest trains and the worst stretches of trail, because he is the safest choice for a cargo that cannot be lost. He can change his ways, retire with the legend whole, or stake everything on the old method, certain it is right while the trade moves out from under him.
 
 ## Psyche
 
@@ -452,7 +452,7 @@ Command
 : he is not charming, and his guards obey him at once anyway, because his orders have always brought them home.
 
 Swordsmanship
-: at forty he is still dangerous at close quarters, his blade work spare and heavy, worn smooth by decades of use.
+: at thirty-nine he is still dangerous at close quarters, his blade work spare and heavy, worn smooth by decades of use.
 
 Practical skill
 : he can dress a wound, feed and water forty mules and porters on a short road, and keep a frightened column moving in a monsoon squall.

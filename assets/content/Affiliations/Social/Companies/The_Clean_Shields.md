@@ -41,7 +41,7 @@ data:
         A Veteran who keeps the company's discipline and trains its recruits.
       River-Master: >-
         A Veteran who commands the escort of the barge strings and keeps the company's boats.
-  seat: null
+  seat: outskirtsorz
   population: null
   economy: []
   lore: []
@@ -49,8 +49,6 @@ data:
   relations: {vylarinmpr: aligned}
   packFolder: politiescompanies
 sohl: {system: {commonSkills: []}}
-
-# terran_analog: "A condottiere company kept near a capital on a modest public contract and a much larger private retainer, in the manner of the bankers' and princes' companies of the Italian city-states."
 ---
 
 A barge-master who brings grain down the [[place-vylarisrvr|River Vilaris]] from the [[place-hylen|Hilen]] landings describes the company in two sentences: "Nobody has robbed a barge string above the river gate for three years. The men who stopped it ride better horses than [[affiliation-sorvan|The Imperial Guard]]." The first sentence is the company's contract. The second is the question every faction in [[place-orzara|Orzara City]] would like answered.

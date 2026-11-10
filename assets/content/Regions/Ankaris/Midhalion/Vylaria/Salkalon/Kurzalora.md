@@ -36,7 +36,7 @@ The shrine keeps one right of its own. A man who climbs to the altar and vows hi
 
 ## Who Rules and Keeps Order
 
-Kurzalora is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), most of them keepers of lodging-houses. The town governs the street and the shrine governs the height. The shrine is kept by a Priest of Storms of the Faith of Brazemas, [Yalzema Kaldremis]{.name data-type="being/npc"}, a sailor's daughter of fifty who read the storms for the fleet at Kastamar before she was given the shrine, with a dozen acolytes under her.
+Kurzalora is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), most of them keepers of lodging-houses. The town governs the street and the shrine governs the height. The shrine is kept by a Priest of Storms of the Faith of Brazemas, [[being-yalzemakaldr|Yalzema Kaldremis]], a sailor's daughter of fifty who read the storms for the fleet at Kastamar before she was given the shrine, with a dozen acolytes under her.
 
 The tower is the quarrel. The admiralty at [[place-castamar|Kastamar]] wants the Vigil Tower for a signal station, to watch the coast and pass word along it, and has asked for it three times in five years. Yalzema has refused each time, on the ground that the tower is the god's and his vigil is kept from its top. The admiral's officers say that a signal station would not stop the vigil. Yalzema says that marines on the height would stop something else, and does not say what.
 

@@ -386,7 +386,7 @@ thrumar dun ar harlen, kelza ek gred, ek kornel/
 ol galtsur, dun nelmis nelvos us dalmor ek dolkon,/
 nuron ol thumba, malka, lotaro, solko,/
 ath ol thramo kalman lozed gauro ol sora,/
-zarlad ar goured, zai ar thavid holvo,/
+zarlad ar goured, zai ar thavid holvo dadro,/
 hos salkon, kadzo mazeron dadro, sa orhen,/
 sembro hos Eskarath, lirka sa ol en, loztalor, ar dokme,/
 helza, kordre pelad, gred ol tordar./
@@ -425,7 +425,7 @@ Ko thavrelad antigkramon hos legro‼ Ar hos thrumar./
 Zel bandro ir nardzirun kezdad, valero urkis./
 Helzed us korema, nembed. Thur geril, hir luren,/
 kalmad nol talor, zirtho ek zirtho. Ar urzid./
-Zai goured, hos pral kemtho kezdad luren./
+Zai goured urkis, hos pral kemtho kezdad luren./
 Olmi thamba. Enoi dorke ek nuron./
 Legro ar kezdad, ar aved varelza, ar dunad./
 Daro ar antigad, holethi geril sa hurdis./
@@ -447,7 +447,7 @@ malked talor ek antigad us hir zed legreth./
 Huzad ir nathre, olmi thamba verezos,/
 kordre, karuna, legro, dun dorandar valero,/
 lokad hir talor, urkis nathre ethor./
-Zai goured ir nardzirun, tigad hos pral nembed./
+Zai goured urkis ir nardzirun, tigad hos pral nembed./
 Goured ir nathre. Urzid, zunded kelza,/
 thaled, dorke, ek nuron ir orthe sedon./
 Denon antigkramon, goured urzele tarnela./
@@ -470,7 +470,7 @@ Legreth antigad nis us itsur, ek thernad./
 Thrumar lendad dekazu us thalve, ek helzed/
 «Ko ared kedis tigad. Urzvalmad hir thelor‼/
 Luren zel thaurad, alatho dokad denon./
-Zai pethad, narad varelza‼ Antigad zel hir en‼»/
+Zai pethad, narad varelza, holvo‼ Antigad zel hir en‼»/
 Urzvalmad sa guzta. Hos itsur pel nembed./
 Kelzaro ir korema, kurnel ithros ol geril./
 Ethor, en lokad hir tordar Tórsaro nol zelvema/

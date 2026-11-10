@@ -44,7 +44,7 @@ The estate-lords of Therkara speak for the war, and the war's fleet pays them in
 
 ## Where a Party Lodges
 
-The [Sheaf and Sickle]{.name data-type="place/structure"}, inside the gate, is the inn of the coast's buyers, and on the night before market it is full of factors and victuallers comparing prices. A party with a letter to one of the estate-families is lodged at that family's villa, and finds that its host wants to know its views on the islands before the second course.
+The [Sheaf and Sickle]{.name data-type="place/structure"}, inside the gate, is the inn of the coast's buyers, and on the night before market it is full of factors and victuallers comparing prices. A party with a letter to one of the estate-families is lodged at that family's villa, where the host asks its views on the islands before the second course.
 
 ## Hooks {#hooks}
 

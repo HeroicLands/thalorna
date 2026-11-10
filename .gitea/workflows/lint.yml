@@ -322,3 +322,28 @@ jobs:
                       exit 1
                   fi
                   node utils/veldikko-guard.mjs --index build/content-index/thalorna-metadata.jsonl
+
+            # Keep JSON intermediates and compiled packs for acceptance inspection.
+            - name: Record compiled pack provenance
+              run: |
+                  test -d build/packs-json/actors/
+                  test -d build/packs-json/items/
+                  test -d build/stage/packs/actors/
+                  test -d build/stage/packs/items/
+                  mkdir -p build/compiled-provenance
+                  git rev-parse HEAD > build/compiled-provenance/source-sha.txt
+                  cp package-lock.json build/compiled-provenance/package-lock.json
+                  node -e 'const fs = require("node:fs"); const pkg = JSON.parse(fs.readFileSync("node_modules/@heroiclands/package-build/package.json", "utf8")); fs.writeFileSync("build/compiled-provenance/package-build-version.txt", pkg.version + "\n");'
+
+            - name: Retain compiled packs for acceptance inspection
+              uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
+              with:
+                  name: thalorna-compiled-packs
+                  path: |
+                      build/packs-json/actors/
+                      build/packs-json/items/
+                      build/stage/packs/actors/
+                      build/stage/packs/items/
+                      build/compiled-provenance/
+                  if-no-files-found: error
+                  retention-days: 3

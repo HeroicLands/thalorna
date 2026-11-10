@@ -23,8 +23,12 @@ data:
         title: Member
         description: >-
           A ship captain, fleet owner or naval officer operating under the League's umbrella, granted preferential access to harbor facilities, customs exemptions and the right to carry weapons in Taruzelian ports.
-    offices: {}
-  seat: null
+    offices:
+      Council of Captains and Fleet Owners: >-
+        Held collectively by the captains and fleet owners whose councils divide the League's convoys and prizes; the largest shipowners have dominated those councils since the years after independence.
+      Admiral of the League: >-
+        Speaks for the fleet and calls its total at the Fleet Review. Delzuru Tanaduni is its leading voice; the admiral does not replace the League's councils.
+  seat: yamuzel2
   population: null
   economy: []
   lore: []
@@ -32,8 +36,6 @@ data:
   relations: {}
   packFolder: taruzel
 sohl: {system: {commonSkills: [helonclng]}}
-
-# headquarters: city-of-yamuzel
 ---
 
 A Corsair League captain tells a newly made master about the [[place-taruzelrgn|Taruzel Region]]: "Under the League's flag you can carry a sword on any quay in Taruzel and watch the customs house wave your cargo through. Out from under it, every harbor is slow to find you a berth, and some night a ship you have never seen will mistake you for a pirate." The Corsair League is Taruzel's maritime guild, and it blurs the line between legitimate shipping, naval power and outright piracy according to the political weather. The captains and admirals who won [[lore-tamzirbattle|The Battle of Tamzir Shoals]] founded it as a fraternity of war veterans; it is now a powerful shipping cartel that controls much of Taruzel's merchant marine and serves the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] as its de facto navy.

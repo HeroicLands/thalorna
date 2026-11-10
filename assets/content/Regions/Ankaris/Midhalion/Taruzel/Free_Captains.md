@@ -35,6 +35,7 @@ data:
       Keeper of the Receipts: >-
         Held by a Free Captain, chosen by a council. Keeps the receipts the Hitusuni gave the flotilla for its prize cargoes, and decides with the council when one is to be presented.
   seat: null
+  range: [taruzelrgn]
   population: 900
   economy: []
   lore: [humanflk]
@@ -48,8 +49,6 @@ data:
     cnfdrtntrzlnstts: rival
   packFolder: taruzel
 sohl: {system: {commonSkills: [taruzelilng]}}
-
-# terran_analog: "The Sea Beggars of the Dutch Revolt, outlawed privateers who kept their letters of marque after the cause that issued them had moved on. Departs: the government that outlaws them is the one they fought for, and their grievance is a debt on paper."
 ---
 
 A ship in the island channels after dark that shows two lanterns at her masthead, one above the other, is asking for a friend, and she is answered the same way. The signal is the war's: the flotilla used it to find its own boats among the islands at night, and the Free Captains still use it, because every one of them sailed in the flotilla or learned the trade from someone who did. The Free Captains are the outlawed masters of [[place-taruzelrgn|Taruzel Region]], about thirty hulls and nine hundred men and women, who sail against the cargoes of the guilds that outlawed them. Nobody has counted them exactly, the [[affiliation-corsairleg|Corsair League]] included.

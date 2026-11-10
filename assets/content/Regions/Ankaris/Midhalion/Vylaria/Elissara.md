@@ -11,6 +11,7 @@ data:
   parents: [vylariargn]
   population: 40000
   government: tevranaelissium
+  routes: [{to: orzara, bearing: N, mode: land, days: 5, terrain: [road]}]
   packFolder: vylaria
 ---
 
@@ -22,9 +23,11 @@ A supercargo who has made landfall here more times than he can count briefs a yo
 
 ## Arriving
 
+[[place-orzara|Orzara]] lies five days north by road.
+
 Ships come in from the [[place-vylarianse|Vilérian Sea]] past a stone mole with a light at its end and anchor in the [Sea Basin]{.name data-type="place/feature"}, a broad pool where the river's brown water meets the sea's green. The city stands on the low ground behind the basin, inside a brick wall. Its sea entrance is the [Sea Gate]{.name data-type="place/structure"}, a tall double arch on the quay, where the chapter of [[affiliation-twinbldrdr|the Twinblade Order]] keeps its house and its knights stand the threshold beside the guild watch. A traveler from the land side comes by the coast road through the estate country of [[place-salkhalon|Salkalon]] and finds the province ending at a ditch and a toll-house a mile outside the walls, where the city's own clerks take the city's own dues.
 
-From the Sea Gate the [Long Quay]{.name data-type="place/feature"} runs upstream along the river for half a mile, lined with warehouses, cranes and the halls of the guilds that work it. At its upper end is the [Barge Basin]{.name data-type="place/feature"}, where the river barges lie three deep waiting for their loads. Between the two basins every cargo for the capital is lifted out of a sea ship, carried along the quay or rafted across, and stowed in a barge to go upriver to [[place-orzara|Orzara]]. The quay is loud from dawn to dark with cranes, carts, tally-men calling numbers and gulls.
+From the Sea Gate the [Long Quay]{.name data-type="place/feature"} runs upstream along the river for half a mile, lined with warehouses, cranes and the halls of the guilds that work it. At its upper end is the [Barge Basin]{.name data-type="place/feature"}, where the river barges lie three deep waiting for their loads. Between the two basins every cargo for the capital is lifted out of a sea ship, carried along the quay or rafted across, and stowed in a barge to go upriver to Orzara. The quay is loud from dawn to dark with cranes, carts, tally-men calling numbers and gulls.
 
 Behind the quay the streets climb a little to the market square, where the [Charter Hall]{.name data-type="place/structure"} of the Tevran stands on one side and the Danvar chapterhouse on the other, and the potters' streets begin. The kilns are outside the wall on the landward side, and on a still day their smoke lies over the city.
 
@@ -36,7 +39,7 @@ The second trade is pottery. Elissara's potters make the plain crockery of half 
 
 ## Who Rules and Keeps Order
 
-The Tevran of Elissara governs the city. Each of its nineteen guilds sends one _kelros_ (guild's council member) to the council, and the council chooses a _holkelros_ (first of the council) to preside for a year. The present _holkelros_ is [Zenothen Linthimis]{.name data-type="being/npc"}, master of the shipwrights, in his third year. There is no _therkos_ (governor), no legion and no imperial tax-farmer inside the walls; the city pays the treasury a fixed sum instead and keeps the river mouth lit and dredged.
+The Tevran of Elissara governs the city. Each of its nineteen guilds sends one _kelros_ (guild's council member) to the council, and the council chooses a _holkelros_ (first of the council) to preside for a year. The present _holkelros_ is [[being-znthnlnthms|Zenothen Linthimis]], master of the shipwrights, in his third year. There is no _therkos_ (governor), no legion and no imperial tax-farmer inside the walls; the city pays the treasury a fixed sum instead and keeps the river mouth lit and dredged.
 
 Each guild judges its own members, and a stranger with a grievance goes to the hall of the guild whose member wronged him. A theft on the water or the quays goes to the [Roll House]{.name data-type="place/structure"} of the Seamen's Guild, whose hands keep the quays every night. A man of no guild has no court of his own and is wise to find a guildsman to speak for him.
 

@@ -85,7 +85,7 @@ He is poor. He has nothing to offer the Guard, the veterans or the crowd but his
 
 ### Patrons
 
-- [Ankelas Varkalenis]{.name data-type="being/npc"}: The master of the house, his uncle, who has given him the keys of the house's cupboard because his own hands shake, and has not named him heir.
+- [[being-anklsvrklns|Ankelas Varkalenis]]: The master of the house, his uncle, who has given him the keys of the house's cupboard because his own hands shake, and has not named him heir.
 
 ### Enemies
 

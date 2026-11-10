@@ -6720,6 +6720,13 @@ data:
     - {tag: taruzeli, meaning: a Taruzeli name, language: skill-taruzelilng}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
+    - {name: Kadumuya Telmuni, tongue: taruzeli, built: [kadum-, -uya, telm-, -uni]}
+    - {name: Tanadan Fusanuni, tongue: taruzeli, built: [tanad-, -an, fusan-, -uni]}
+    - {name: Salmuya Shilmuni, tongue: taruzeli}
+    - {name: Ulamar Gazzuni, tongue: taruzeli}
+    - {name: Samran Kassumi, tongue: taruzeli}
+    - {name: Tushina Gimruni, tongue: taruzeli}
+    - {name: Dammush Parimu, tongue: taruzeli}
     - {name: Alz River, tongue: translation}
     - {name: Auric Compact, tongue: translation}
     - {name: Bashimuya Telmuni, tongue: taruzeli, built: [bashim-, -uya, telm-, -uni]}
@@ -7044,85 +7051,19 @@ sohl:
 
 Taruzeli is a tongue of the [Taruzelik Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Taruzeli, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The roman repertoire retains `f` and `o`, with their capitals, in the existing inherited vocabulary, including fusanush and so. The flavor palette governs new coinages and does not respell this established stock.
-
 ## Overview
 
 Taruzeli is the tongue of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the [[place-taruzelrgn|Taruzelian islands]], in the harbors of the [[place-vylarianse|Vilérian Sea]] and in the port cities of [[place-klhrcntnnt|Kalihara]], Taruzeli dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
 
-Taruzeli is characterized by rhythmic, sonorous tones. Its open vowels give names and words a flowing, measured quality suited to contract negotiations and formal agreements.
+Taruzeli is characterized by a rhythmic, sonorous cadence. Its open vowels give names and words a flowing, measured quality suited to contract negotiations and formal agreements.
 
 ## How Taruzeli sounds
 
-Taruzeli is the ledger-speech of the sea-lanes. It has three vowels and leans on doubled consonants.
+Taruzeli follows [[doc-prnncthlrn|Pronouncing Thalorna]] for every letter, vowel group, mark and stress. It is non-tonal.
 
-**The vowels.** _a_, _u_ and _i_, with _e_ rarer.
+**Flavor palette.** Taruzeli favors _a_, _u_ and _i_, with _e_ and _o_ also present. Its rolling, consonant-rich words lean on _sh_, _z_, _m_, _q_, _b_, _d_, _g_, _k_, _r_ and _n_, and doubled consonants inside a word: _Sharrush_, _Zattuya_, _Ilammuni_. The vocabulary also includes _f_, as in _fusanush_, and the short particle _so_.
 
-**The consonants.** _sh_, _z_, _m_, _q_, _b_, _d_, _g_, _k_, _r_ and _n_.
-
-**Clusters.** Doubled consonants (_mm_, _rr_, _zz_) stand between vowels. A word opens on one consonant.
-
-**Endings.** Taruzeli words end in _-um_, _-ush_, _-uni_, _-am_ or _-u_.
-
-**What Taruzeli leaves out.** It has no _o_, no _f_ and no _th_.
-
-## Phonology
-
-### Consonant System
-
-Taruzeli features a rich consonant inventory with several distinctive sound clusters:
-
-Stops
-: /p/, /b/, /t/, /d/, /k/, /q/ (uvular)
-
-Fricatives
-: /f/, /z/, /sh/ (voiceless sh-sound), /kh/ (velar fricative), /gh/ (voiced velar)
-
-Nasals
-: /m/, /n/
-
-Liquids
-: /r/, /l/
-
-Affricates
-: /dz/, /ts/
-
-Characteristic clusters appear in given names: _Sharrush, Nadumar, Iddinash, Tarruk, Bissush_. Double consonants (_mm_, _rr_, _dd_, _tt_, _kk_, _ss_, _zz_) are phonologically significant, often marking emphasis or etymological depth.
-
-The velar _kh_ and uvular _q_ give Taruzeli a guttural quality that distinguishes it from neighboring Ankarian languages.
-
-### Vowel System
-
-Taruzeli employs five primary vowel qualities:
-
-a
-: front open vowel
-
-e
-: front mid vowel
-
-i
-: front close vowel
-
-o
-: back mid vowel
-
-u
-: back close vowel
-
-Diphthongs are rare.
-
-### Stress and Prosody
-
-Taruzeli stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: the first syllable of a two-syllable word, the second-to-last of a longer one. This creates a measured, rolling cadence suited to oral recitation of contracts and maritime commands.
-
-Examples from given names:
-
-- _na-DU-mar_ (stress on the second-to-last syllable)
-- _sha-MU-lu_ (stress on the second-to-last syllable)
-- _TAR-ruk_ (stress on first)
-
-The language is non-tonal.
+**Word shapes.** Words usually open on a vowel or a single consonant. Frequent endings include _-um_, _-ush_, _-uni_, _-am_ and _-u_; _-an_, _-i_ and consonant endings also occur, as in _zarutan_, _mani_ and _kurrim_. Avoid crowded opening clusters and frequent diphthongs.
 
 ## Grammar Notes
 
@@ -7136,19 +7077,19 @@ Taruzeli nouns carry grammatical gender (masculine/feminine) and number (singula
 
 Family names characteristically employ suffixes:
 
-- **-i** (masculine lineage marker)—_Bibudi, Shamurin, Girmali_
-- **-uni** (feminine/collective lineage)—_Pasharuni, Beshuni, Pilmuni_
+- **-i** (belonging to a line)—_Bibudi, Shamurin, Girmali_
+- **-uni** (the whole house and its people)—_Pasharuni, Beshuni, Pilmuni_
 - **-um** (emphatic lineage)—_Bilulum, Kalurum, Eshkarum, Ilammu_
 
 These suffixes denote family affiliation and are fundamental to Taruzeli identity.
 
 ## Everyday speech
 
-The ordinary vocabulary recorded below supplements the speech of contracts and ships. Its examples use the plain port register, with full words for a learner to follow. Legal maxims and blessings above retain their traditional wording. A family name does not act as a pronoun, a place ending does not provide a general locative case and a bound stem never serves as a free word in a sentence. Every expression here uses the stated dictionary forms.
+The ordinary vocabulary recorded below supplements the speech of contracts and ships. Its examples use the plain port register, with full words for a learner to follow. Legal maxims and blessings above retain their traditional wording. A family name does not act as a pronoun, a place ending does not provide a general locative case and a bound stem never serves as a free word in a sentence.
 
 ### Pronunciation and the shape of a word
 
-Read the common transcription with sounded vowels and no silent final letters. _A_ is the vowel of father, _i_ of machine and _u_ of rule; the less frequent _e_ is the vowel of bet. These new ordinary words favor those vowels. The existing vocabulary also contains the other sounds described above; no existing word is respelled. A doubled consonant is held briefly across the syllable boundary: _qat-tan_. Start a word with one consonant, never a cluster. _Sh_ is the sound in ship and _kh_ the sound in loch; the pronunciation guide allows a plain _k_ for the latter. A plain _k_ is also an accessible reading of _q_. In longer words stress the next-to-last syllable: _NE-sham_ for the two-syllable _nesham_; _ma-ZI-ram_ has three syllables and stresses _zi_. Stress the first syllable of any two-syllable word. The ordinary words here require no pitch marks. The traditional description of marked formal writing does not add marks to this common transcription.
+Read every word by [[doc-prnncthlrn|Pronouncing Thalorna]], including its doubled consonants and stress. The port register favors the same sounds and word shapes as the formal language.
 
 A hyphen at the end of a cited stem belongs to the dictionary explanation. Join the stem to its suffix and remove the hyphen in speech: _nesh-_ plus _-am_ is _nesham_, to see. _Mazir-_ plus _-am_ is _maziram_, to hear. The suffix _-am_ presents an ordinary act; _-ush_ presents its settled occurrence or result; _-an_ describes something bearing the quality. Record the particular sense a result has: _neshush_ is a sight, the visible scene or thing seen, and _mazirush_ an audible sound. These nouns name perceived things. _Sufirush_ is an odor and _palutush_ a flavor. When the act itself must be named without that result sense, say _dagirush mi nesham_, “the act of seeing,” using the ordinary action noun _dagirush_ and the full verb. Thus seeing and a sight can be distinguished without treating a bound root as a noun.
 
@@ -7172,7 +7113,7 @@ _Nizum_ is the speaker, _nizim_ the addressee and _nizir_ a third person. _Nizir
 
 A question word occupies the position of the requested information. _Shirum saluram saliru_, “Who drinks water?” asks for the subject. _Nizim nesham shiru_, “What do you see?” asks for the object. _Nizim nazulam shibe_, “Where do you go?” asks for location. _Mi shirum_ means whose and _so shirum_ to whom. _Nizim buram mi shirum_ asks whose group or possession the addressee belongs to, while _tu salillu mi shirum_ asks whose cup it is. Keep the possession or direction particle with its question word.
 
-A final _shi_ asks whether a full statement holds: _Nizim saluram saliru shi_, “Do you drink water?” Answer _hiz_, yes, or _zuz_, no. _Shi ral_ asks for repetition or clarification. A writer using the common transcription may use the reader's familiar punctuation around these utterances; the question is carried by the word _shi_. These examples require no script mapping or new scribal mark.
+A final _shi_ asks whether a full statement holds: _Nizim saluram saliru shi_, “Do you drink water?” Answer _hiz_, yes, or _zuz_, no. _Shi ral_ asks for repetition or clarification. The question is carried by the word _shi_; punctuation follows [[doc-prnncthlrn|Pronouncing Thalorna]].
 
 Put _zu_ before the verb it denies: _Nizum zu saluram saliru_, “I do not drink water.” It precedes a whole serial group when both acts are denied. A negative adjective group has _zu_ directly before the adjective, as in _zu qazilan_, false. Such a group can be a description after _buram_. _Tu jiramush buram zu qazilan_, “The saying is false.” Blindness is _zu neshuman_, unable to see, while invisibility is _zu neshikan_, unable to be seen. An object can therefore be invisible to a person who is able to see.
 
@@ -7275,10 +7216,10 @@ Female given names tend toward:
 
 ### Family Names
 
-Family names are prestigious markers and carry explicit gender/collective suffixes:
+Family names mark the line, the house and its standing:
 
-- **-i** endings mark patrilineal descent (masculine focus)
-- **-uni** endings mark broader family collectives or matrilineal branches
+- **-i** endings mark belonging to a line
+- **-uni** endings mark the whole house and its people
 - **-um** endings emphasize family honor and strength
 
 Examples: _Jakuduni_ (the company of the hull), _Pasharuni_ (Pashar's collective), _Eshkarum_ (Eshkar's honored house)
@@ -7307,7 +7248,7 @@ A harbor notary at [[affiliation-yamuzel|Yamuzel]] greets every new clerk with t
 
 A Taruzeli root names an act, and an ending says who stands in it. _Telm-_ is to bind in writing; _telmum_ is the notary who writes the bond, and _telmush_ is the contract itself. The same five endings are laid on every root, which is why a clerk who has met a word once can read its relatives, and why a stranger who learns the endings reads half a harbor sign on the first day. This page is the word-hoard of those roots: the stems the quay uses, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in the Taruzelian lands.
 
-The sound of Taruzeli is rolling and full-voiced. Vowels come short or long, and a consonant doubled inside a word is held and pressed: _Sharrush_, _Zattuya_, _Ilammuni_. Stress falls on the second-last syllable, and a word never opens on two consonants.
+The sound of Taruzeli is rolling and full-voiced. Vowels come short or long, and a consonant doubled inside a word is held and pressed: _Sharrush_, _Zattuya_, _Ilammuni_. Stress follows [[doc-prnncthlrn|Pronouncing Thalorna]], and words favor a single opening consonant.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -7326,7 +7267,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-Two vowels standing together are both said, one after the other.
+Vowel groups are read as [[doc-prnncthlrn|Pronouncing Thalorna]] sets them out.
 
 ### Word edges
 
@@ -7437,7 +7378,7 @@ Among friends a given name is cut to its stressed syllable: _Zabuzum_ is _Bu_. A
 
 **A place** is a root with _-un_, _-ar_, _-el_ or _-an_: _Sazumun_ is where the toll is levied, _Besikar_ where the harbor is kept, _Yamuzel_ the ground of the fleet, _Kudumel_ the ground of arrival. The land itself is _Taruzel_, the ground of the houses, built as `taruz-` + `-el`; its people and its tongue take the reader's endings, Taruzelian and Taruzeli.
 
-**A house or a body** is named for its founder or its work, with the lineage ending: the _[Merazuni]{.name data-type="affiliation/governmental"}_, the Confederation's treasury, is the whole company of the ledger, built as `meraz-` + `-uni`. The _[[affiliation-vezakuni|Vezakuni]]_, the Council of the Guild-Wardens, is the whole company of the warding, `vezak-` + `-uni`, and its seat, the _[Vezakar]{.name data-type="place/site"}_, is where the warding is kept; its overseers are the _[Pazasuni]{.name data-type="affiliation"}_, the company of the lookouts. The [[affiliation-auricompct|Auric Compact]] is a banking cartel named in the reader's tongue for the gold it holds.
+**A house or a body** is named for its founder or its work, with the lineage ending: the _[[affiliation-merazuni|Merazuni]]_, the Confederation's treasury, is the whole company of the ledger, built as `meraz-` + `-uni`. The _[[affiliation-vezakuni|Vezakuni]]_, the Council of the Guild-Wardens, is the whole company of the warding, `vezak-` + `-uni`, and its seat, the _[Vezakar]{.name data-type="place/site"}_, is where the warding is kept; its overseers are the _[Pazasuni]{.name data-type="affiliation"}_, the company of the lookouts. The [[affiliation-auricompct|Auric Compact]] is a banking cartel named in the reader's tongue for the gold it holds.
 
 ## Scope {#scope}
 
@@ -7473,7 +7414,7 @@ FROM register WHERE language = 'thalorna-note-skill-taruzelilng' ORDER BY positi
 
 ## Retired names {#retired-names}
 
-A retired name is one the setting does not write: a name from Earth, or a name no Taruzeli root builds. Each stands below with the name written in its place, and no page writes it, however accented. A `terran_analog` comment names the Earth source on purpose.
+A retired name is one the setting does not write: a name from Earth, or a name no Taruzeli root builds. Each stands below with the name written in its place, and no page writes it, however accented.
 
 ```sql
 SELECT '`' || form || '`' AS "Retired",

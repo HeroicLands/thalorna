@@ -13,7 +13,10 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [qudumel2, besikar2]
-  affiliations: {grandcouncil: {rank: 2, office: Arch-Consul}, qudumel: {rank: 5}}
+  affiliations:
+    grandcouncil: {rank: 2, office: Arch-Consul}
+    qudumel: {rank: 5}
+    cnfdrtntrzlnstts: {rank: 5, office: Arch-Consul}
   socialTies:
     being-llmnblnn: patron
     being-yshdyjkdn: acquaintance
@@ -85,6 +88,7 @@ He owes the Balinuni his office and his seat in Kudumel. He finds it hard to say
 
 ### Affiliations
 
+- **[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]**: a Councilor for Kudumel and the Confederation’s Arch-Consul for the year.
 - **[[affiliation-grandcouncil|Grand Council]]**: a councilor for Kudumel, and Arch-Consul for the year.
 - **[[affiliation-qudumel|Kudumel]]**: a councilor of the city.
 

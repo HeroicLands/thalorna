@@ -3,7 +3,7 @@ shortcode: vandsksrns
 name: {full: Vanadis Kaseranis}
 type: being
 subType: npc
-description: "A courtesan of Polthara who sings and talks for the stewards and the capital's buyers at the inns on market nights who hears what every steward is carrying home."
+description: "A courtesan of Polthara who sings and talks for the stewards and the capital's buyers at the inns on market nights and hears what every steward is carrying home."
 tags: [administration]
 data:
   icon: icon-person

@@ -12,7 +12,7 @@ data:
   occupation: Keeper of the Temple of the Twelve
   lore: []
   culture: vylarianclt
-  homes: [arvon]
+  homes: [arvon, pnthnrldnm]
   affiliations: {ardavon: {rank: 4, office: Sentan}}
   socialTies:
     being-trzmsbrkrts: nemesis

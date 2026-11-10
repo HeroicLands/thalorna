@@ -55,7 +55,7 @@ Tirellan's forum at the state's offerings, on the last days of the month. The bo
 
 **Situation.** The chest waits at Korras under the gate commander, a younger son of a border house with sixty men of his own. A Varokh war-band is on the march below the pass.
 
-**NPCs and threats.** The gate commander; his toll-keepers; and the war-band, which a seasoned party can outfight on open ground and cannot outfight in the gorge at night. The border lord refused the command this spring, [[being-korvathosvol|Korvathos Volkemates]], means to come for the gate at midsummer.
+**NPCs and threats.** The gate commander; his toll-keepers; and the war-band, which a seasoned party can outfight on open ground and cannot outfight in the gorge at night. [[being-korvathosvol|Korvathos Volkemates]], the border lord refused the command this spring, means to come for the gate at midsummer.
 
 **Player choices.** Bring the chest by the road, by night, or by the herders' path, if they have found it.
 
@@ -75,7 +75,7 @@ Tirellan's forum at the state's offerings, on the last days of the month. The bo
 
 **Player choices.** Guard the clerk as hired, look in the station's back room, or let the clerk measure and move on.
 
-**Clues and rewards.** The back room holds a copy of the _vandraks_'s seal and a bag of dispatches waiting a day. The cloth merchant's factor's letters wait there too.
+**Clues and rewards.** The back room holds a copy of the _vandraks_'s seal and a bag of dispatches waiting a day. A capital cloth merchant's letters to his Tirellan factor wait there too.
 
 **Consequences.** A party that finds the back room knows how the province reads the capital's mail.
 

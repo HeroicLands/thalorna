@@ -63,7 +63,7 @@ The **Guild Board of Sharimun** is the guild government of [[place-sharimun|Shar
 
 Seven masters sit on the board, each chosen by the masters of the guild whose seat he holds. The quarry masters hold two seats and the [Glassworkers' Guild of Sharimun]{.name data-type="affiliation/guild"} one. The harbor, the chandlers and oil-sellers, the teamsters and the [Gladiators' Guild of Sharimun]{.name data-type="affiliation/guild"} hold one each. The [Litigants' Guild]{.name data-type="affiliation/guild"} holds no seat, because its business is with the Arbitrators across the square.
 
-The First of the Board is [Qadurum Basharuni]{.name data-type="being/npc"}, a quarry master of sixty whose house cuts the largest terrace on the hill. He is in the second year of his term, and the quarry seats vote with him. The member for the harbor is [Belgina Sinnuni]{.name data-type="being/npc"}, Keeper of the Beacon, the one member who climbs to the headland every evening and the one most often outvoted. The board names the Harbormaster and the magistrates from among the town's masters, and the magistrates sit on the bench in the guild hall's lower room every morning but the last day of the week.
+The First of the Board is [[being-qdrmbshrni|Qadurum Basharuni]], a quarry master of sixty whose house cuts the largest terrace on the hill. He is in the second year of his term, and the quarry seats vote with him. The member for the harbor is [Belgina Sinnuni]{.name data-type="being/npc"}, Keeper of the Beacon, the one member who climbs to the headland every evening and the one most often outvoted. The board names the Harbormaster and the magistrates from among the town's masters, and the magistrates sit on the bench in the guild hall's lower room every morning but the last day of the week.
 
 ## What the Board Does
 
@@ -71,7 +71,7 @@ The board keeps the town's register, sets the harbor dues and pays for the beaco
 
 ## Current Situation {#present}
 
-The board lives well on the Arbitrators' session and argues over the arena. A young furnace-hand has been sentenced to the arena by one of its magistrates for a theft his mother swears he did not commit, and the Gladiators' Guild collects him at the end of the month. The arena's champion, [[being-nbrnfsnn|Niburan Fusanuni]], who came into it as a convict, wants to know who paid the man who accused him. [Qadurum Basharuni]{.name data-type="being/npc"} is in the second year of his term and the quarry seats vote with him. [Belgina Sinnuni]{.name data-type="being/npc"}, the Keeper of the Beacon, is the member most often outvoted, and across the narrows the Strait Fortress readies its wall for the Fleet Review.
+The board lives well on the Arbitrators' session and argues over the arena. A young furnace-hand has been sentenced to the arena by one of its magistrates for a theft his mother swears he did not commit, and the Gladiators' Guild collects him at the end of the month. The arena's champion, [[being-nbrnfsnn|Niburan Fusanuni]], who came into it as a convict, wants to know who paid the man who accused him. [[being-qdrmbshrni|Qadurum Basharuni]] is in the second year of his term and the quarry seats vote with him. [Belgina Sinnuni]{.name data-type="being/npc"}, the Keeper of the Beacon, is the member most often outvoted, and across the narrows the Strait Fortress readies its wall for the Fleet Review.
 
 ## History {#history}
 

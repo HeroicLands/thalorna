@@ -45,13 +45,13 @@ The hedge practitioners of the eastern traditions work in the back courts of the
 
 Kudumel is the most mixed city of the Confederation. Its merchant houses are Taruzelian, and they live on the hill above the harbor in courtyard houses with blank walls to the street. The Dunhari who have settled into city life hold the streets west of the market, where their families keep the old tent-cloth hangings over their doors. The Khazrin caravan masters live in the city as Residents, under its protection and without its freedom, and keep to the southern courts between crossings. They are of the two settled peoples of the oasis belt: Teghumod merchants of the [[affiliation-tribestrzd|Atarzád]], and caravan-masters of the [[affiliation-khzrncnfdrtn|Tellumi]] houses in Amradad, who lodge in courts of their own apart from them. Kaliharan factors and sailors work out of the harbor, and the caravan guard [[being-tvnrthr|Tavonei Reithuri]] is one of the Kaliharans who has made the city home. Now and then traders from as far as Vedyara and the [[place-byzariargn|Bizaria Region]] come through, and their goods sell for the highest prices in the market.
 
-The faith of the city is the faith of [[affiliation-ashanpnthn|the Twelve of the Flame]] (the Ashaian Pantheon): every house keeps the fire-rite at sunrise and sunset, and the fire-shrines stand on the hills behind the city. The temples of the [[affiliation-arldnpnthn|Aureldian Pantheon]] stand too, nearer the harbor, and in the [Temple of Two Fires]{.name data-type="place/structure"} on the market's north side the rites of both traditions are practiced under one roof.
+The faith of the city is the faith of [[affiliation-ashanpnthn|the Twelve of the Flame]] (the Ashaian Pantheon): every house keeps the fire-rite at sunrise and sunset, and the fire-shrines stand on the hills behind the city. The temples of the [[affiliation-arldnpnthn|Aureldian Pantheon]] stand too, nearer the harbor, and in the [[place-twofirestemple|Temple of Two Fires]] on the market's north side the rites of both traditions are practiced under one roof.
 
 When the council sits, the hill tribes' councilors come down to the city with their households and camp outside the west gate by the wells. They do not lodge inside the walls.
 
 ## Who Rules and Keeps Order
 
-Kudumel is governed by a council of its merchants with seats kept for the hill tribes. A First of the Council presides and holds the seal for his term. The Tribal Councilors sit beside the merchants for peoples who do not recognize guild authority, and need not live in the city. A Treasurer keeps the customs and tolls of the sea trade and of the caravans landed at the Gate. The Warden of the Weights inspects the measures, the coin and the quality of goods in the markets, in whatever language the bargain is struck, and his measurers, the _ashurum_, weigh every bale that passes the Gate. The great guilds keep houses in Kudumel and hold less sway here than anywhere in the Confederation. The council answers to the city's own merchant networks and to the tribes as much as to them.
+Kudumel is governed by a council of its merchants with seats kept for the hill tribes. First of the Council [[being-smrnksmi|Samran Kassumi]] presides and holds the seal for his term. The Tribal Councilors sit beside the merchants for peoples who do not recognize guild authority, and need not live in the city. A Treasurer keeps the customs and tolls of the sea trade and of the caravans landed at the Gate. The Warden of the Weights inspects the measures, the coin and the quality of goods in the markets, in whatever language the bargain is struck, and his measurers, the _ashurum_, weigh every bale that passes the Gate. The great guilds keep houses in Kudumel and hold less sway here than anywhere in the Confederation. The council answers to the city's own merchant networks and to the tribes as much as to them.
 
 The guilds' enforcers are not welcome in Kudumel, because the caravan peoples will not deal with them, and debts are collected in the city by other means. A caravan master who owes the [[affiliation-auricompct|Auric Compact]] owes the Balinuni, who keep the Compact's counting house in the city, and a partner who will not pay finds the ferries full, the warehouses full and every other partner at the Gate informed. The council's watchmen keep the gates, the market and the harbor. A shopkeeper robbed in the night goes to the watch at the nearest gate, and a merchant cheated in a bargain goes to the Warden of the Weights, who hears complaints of short measure at the weigh-house door every morning. On the hill roads the tribes keep their own wells and their own law.
 
@@ -72,6 +72,12 @@ The fire in Kudumel's oldest temple was burning before the empire came to the is
 - **The councilor's camp.** A Tribal Councilor has not come down to the session, and his household has camped by the west gate without him.
 
 ## See Also
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: the campaign frame of the veterans and the summer session
+
+[[scenario-clsdroll|The Closed Roll]]
+: the proposed hereditary council roll
 
 [[affiliation-qudumel|Kudumel]]
 : the city-state and its council

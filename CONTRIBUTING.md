@@ -96,6 +96,21 @@ place through mortal agents. An event can be established while its divine
 cause remains uncertain. Attribute that belief without confirming a miracle or
 dismissing it as necessarily coincidence or fraud.
 
+## Affiliation geography
+
+An affiliation names its headquarters in `data.seat`. A body with no seat
+keeps it empty and gives its public places of activity in `data.range`, a list
+of place shortcodes or typed addresses. A seated body carries no `range` key.
+Use only places supported by the public account; concealed camps, landing
+coves and private dealings stay out of this metadata. For a historical body,
+the range describes its attested historical activity, within the note's stated
+period.
+
+Coverage follows the seat first, or the range when the seat is empty, as well
+as the existing parent branches. Political `data.parents` retain their meaning.
+Missing locations and places outside the land registry are reported; findings
+in finished lands are errors and other findings are warnings.
+
 ## Rank levels
 
 An affiliation's `data.governance.ranks` levels are ordinal within that

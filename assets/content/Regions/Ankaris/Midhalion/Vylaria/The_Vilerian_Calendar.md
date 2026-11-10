@@ -69,7 +69,7 @@ Beyond that sphere, other peoples keep their own count and do not translate into
 
 ## The Months
 
-Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Three carry an old form of the god's name, and nine are named in [[skill-vylarilng|Vilari]] with the hallowed ending _-andi_, "in the keeping of": five for their gods, and four for the god's gift.
+Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Ten names carry the [[skill-vylarilng|Vilari]] hallowed ending _-andi_, "in the keeping of"; the other two are Lusenar and Karnavar. Some names invoke the god directly, while others name a gift or sphere of the god.
 
 1. **Lizelandi** (30 days)—in the keeping of [[lore-lizelasdty|Lizelas]], the Nurturer; the year opens here, on the vernal equinox.
 2. [Lusenar]{.name data-type="lore/calendar"} (31 days)

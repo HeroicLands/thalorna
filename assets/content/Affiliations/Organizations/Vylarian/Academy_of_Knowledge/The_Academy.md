@@ -32,8 +32,10 @@ data:
         title: Senior Scholar
         description: >-
           Head of a college, convened with the other colleges' heads in common assembly to set institutional policy, resolve disputes and maintain the Epistémion's standards.
-    offices: {}
-  seat: null
+    offices:
+      Common Assembly: >-
+        Held collectively by the heads of the philosophical colleges, convened to set institutional policy, resolve disputes and maintain standards. The Thordimalon dominates the federation in practice.
+  seat: orzara
   population: null
   economy: [affiliation-tevran]
   lore: []
@@ -41,14 +43,11 @@ data:
   relations: {}
   packFolder: academyofknowledge
 sohl: {system: {commonSkills: []}}
-
-# region: Western Ankaris (headquartered in Helionis)
-# founded: ~400 BF (Helionite city-states)
 ---
 
 ## Overview
 
-_Helonik: **Epistémion**—"the place of all knowledge," the Helonik word for a university, often clipped to the **Epistémion** and called, in plain words, simply the Academy of Knowledge._
+_**Epistémion** is the Helonik word for a university, "the place of all knowledge"; in plain words it is the Academy of Knowledge._
 
 A lecturer of the [College of Ethics]{.name data-type="affiliation"}, asked what the Epistémion is, takes you to the gate of a chapterhouse and points at the sign. "That is the seal of the oldest scholarly body in the west. It teaches law, logic, language and natural philosophy, and a farmer's son can learn his letters under it. Now ask me who pays for the roof, who appoints the head of the house, and whose students are quietly counted for a talent the Order wants. My college refused its seal to the charter that made the Order, and the seal is on the door anyway."
 
@@ -120,17 +119,17 @@ The working university, the vast majority of the campus, lies beyond the Inner W
 
 The Epistémion was born in the intellectual ferment of the Helionite city-states around 400 BF, when the leading philosophical schools agreed to a common federation. Each city-state had its own scholarly traditions, some emphasizing natural philosophy, others ethics, others the arcane, and the Epistémion united them under a shared framework of standards and mutual recognition. A scholar credentialed by it could expect a welcome in any Helionite city.
 
-For roughly a century the arrangement flourished. The Epistémion became the crown of Helionite civilization, a monument to the idea that every form of knowledge was worth pursuing and that truth was best found through open inquiry and rigorous debate. The colleges drew scholars from across western Ankaris, and the Epistémion's standards of evidence and argument set the bar for intellectual life in the region.
+For roughly sixty-five years the arrangement flourished. The Epistémion became the crown of Helionite civilization, a monument to the idea that every form of knowledge was worth pursuing and that truth was best found through open inquiry and rigorous debate. The colleges drew scholars from across western Ankaris, and the Epistémion's standards of evidence and argument set the bar for intellectual life in the region.
 
 Then came the wars.
 
 When the Republic turned its legions on Helionis in 335 BF, the College of Arcane Philosophy, the scholars of magic, became weapons of war. The military use of arcane knowledge was devastating, and the other colleges could do nothing to prevent it. The ideal of unified knowledge under shared ethical standards collapsed under desperate warfare. After the conquest, after [[affiliation-ordoarcanis|the dragons broke the mages]] and the Republic imposed its peace, the Senate's first priority was to make sure that arcane power could never again be wielded without state sanction.
 
-In institutional terms, the creation of the Thordimalon was a vivisection. The Senate reached into the Epistémion, took out the College of Arcane Philosophy, and rebuilt it as an instrument of state power, with military enforcement, mandatory registration of practitioners and a legal monopoly on arcane practice. The remaining colleges were left in place, diminished and shaken, but still functioning. The extraction came in 312 BF, under a magistracy, the [Kandral]{.name data-type="affiliation/governmental"}; the Order took its charter in 73 BF, under [[lore-kandrol|the Kandrol]] (see [[lore-helionscnq|the Conquest of Helionis]] and [[lore-kandrol|the Kandrol]]).
+In institutional terms, the creation of the Thordimalon was a vivisection. The Senate reached into the Epistémion, took out the College of Arcane Philosophy, and rebuilt it as an instrument of state power, with military enforcement, mandatory registration of practitioners and a legal monopoly on arcane practice. The remaining colleges were left in place, diminished and shaken, but still functioning. The extraction came in 312 BF, under a magistracy, the [[affiliation-kandral|Kandral]]; the Order took its charter in 73 BF, under [[lore-kandrol|the Kandrol]] (see [[lore-helionscnq|the Conquest of Helionis]] and [[lore-kandrol|the Kandrol]]).
 
 ### The Long Decline
 
-In the nearly eight centuries since the Order was founded, the balance within the Epistémion has shifted for good. The Order commands more wealth than all the other colleges together, has the ear of the Vilérian Senate, and has enforcement powers, the [Sekran]{.name data-type="affiliation"}, that no other college has. It has also used the Epistémion's umbrella to extend its influence into domains that are not strictly arcane.
+In the nearly eight centuries since the Order was founded, the balance within the Epistémion has shifted for good. The Order commands more wealth than all the other colleges together, has the ear of the Vilérian Senate, and has enforcement powers, the [[affiliation-sekran|Sekran]], that no other college has. It has also used the Epistémion's umbrella to extend its influence into domains that are not strictly arcane.
 
 The College of Mind is the plainest casualty. The Order has repeatedly claimed that research into consciousness, mental states and the relation of mind and body falls within the arcane domain, since magic can affect all of them. Mind scholars who stray close to arcane territory find themselves "invited" to collaborate with the Order, which in practice means their work is absorbed and their independence ends.
 

@@ -34,6 +34,7 @@ data:
       Keeper of a Fire: >-
         Held by one Of the Saliruni for each hilltop shrine, chosen by the elders of the camps nearest it. Keeps the fire in the shrine burning and lights the fires of the camps from it.
   seat: null
+  range: [nishurel]
   population: 80000
   economy: []
   lore: [humanflk]

@@ -4,7 +4,7 @@ name: {full: The Watch-Song of the Vigil}
 type: lore
 subType: literature
 description: "The song the galley crews of the Bethuan coast keep up through the four watches of the Thunderhead Vigil, lying at anchor in the bay waiting for the first storm of the sea-year: the storm-priests' telling of the world launched like a hull, the year's lost ships and their benches counted, the night the Thunderer came early and caught the mother-city's fleet off the headland in the year of the Separation, the three accounts of who won it, the chained benches, the first lightning and the cry, the priest's reading, and the one line of the temple's speech the ship-mistress says at the end."
-tags: [draft, bethua]
+tags: [bethua]
 data:
   culture: bethuanclt
   packFolder: settinglore

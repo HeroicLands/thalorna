@@ -35,6 +35,7 @@ data:
       Breaker: >-
         Held by a Link or an Old Hand, named by the hall for one night's work. Leads it, chooses who goes, and answers to the hall for everything done that night.
   seat: null
+  range: [taruzelrgn]
   population: null
   economy: []
   lore: [humanflk]

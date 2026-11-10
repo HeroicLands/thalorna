@@ -76,7 +76,7 @@ Voza barkis denon dokathen‼ Barkis fir zeltron ir loztholbon kona rozon ol kar
 ::: {.verse form=elegy lang=en work=second}
 We do not look at the marsh. It is the first thing a recruit is taught here,/
 .before the count, before the horn: we look at the forest, not the marsh./
-The marsh is grey at the foot of the valley, and nothing comes out of it,/
+The marsh is gray at the foot of the valley, and nothing comes out of it,/
 .and the old men of the tower have a reason, and do not say it./
 Tonight, Yalzizon, I looked. I am a Zoralos, I have the watch,/
 .and nobody saw me look, and I am telling only the back of the wax./

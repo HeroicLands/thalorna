@@ -63,7 +63,7 @@ He knows his land and its families by name, keeps an honest court, and has the t
 
 ### Weaknesses
 
-He is old and tires quickly. He leans on Erithon more than a baron should lean on any one man, and anyone who wants to move Doros knows to move the archer first.
+He is old and tires quickly. He leans on Erithon more than a baron should lean on any one man, so moving Doros means moving the archer first.
 
 ## Social
 

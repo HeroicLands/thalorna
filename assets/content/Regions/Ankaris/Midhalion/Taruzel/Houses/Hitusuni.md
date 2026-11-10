@@ -88,9 +88,9 @@ A party meets the Hitusuni at the counter of [[being-mglshhtsn|Mugilush Hitusuni
 The house has rivals on the same quays. The [Visizuni]{.name data-type="affiliation/lineage"}, a shipping house of Sazumun, carry many of the cargoes the Hitusuni store, and each house keeps a careful account of the other.
 
 :::secret
-**For the GM:** Two people want the Hitusuni brought down, and neither can do it alone. Pazasan Khidizum has the record of what has left the warehouses unsealed, but no court in Sazumun will hear him while Ashuraz sits in the House of Factors. One of the Free Captains has a receipt for a cargo the house sealed during the war and still holds: if she can prove the cargo is still in its warehouse, the house is a thief on its own seal, which no house in Taruzel survives.
+**For the GM:** Two people want the Hitusuni brought down, and neither can do it alone. Pazasan Khidizum compiled the record of what has left the warehouses unsealed, but it has vanished from his lodgings. Even if he recovers it, no court in Sazumun will hear him while Ashuraz sits in the House of Factors. One of the Free Captains has a receipt for a cargo the house sealed during the war and still holds: if she can prove the cargo is still in its warehouse, the house is a thief on its own seal, which no house in Taruzel survives.
 
-A party can carry the receipt to Pazasan, or Pazasan's record to the captain; Ashuraz will pay handsomely for either to be lost. If the moneylender's charter comes through first, the house will have the Merazuni's script on its side, and both the record and the receipt will be worth much less.
+A party can carry the receipt to Pazasan, or recover his record and carry it to the captain; Ashuraz will pay handsomely for either to be lost. If the moneylender's charter comes through first, the house will have the Merazuni's script on its side, and both the record and the receipt will be worth much less.
 :::
 
 ## Hooks {#hooks}

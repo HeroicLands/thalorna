@@ -22,7 +22,7 @@ Its merchants deal in the casks and the contracts that carry Hilen's wine to the
 
 ## Arriving
 
-The road climbs to Vindara in long turns between terrace walls, and for the last hour a traveler sees nothing but vines above him and vines below. The town is built across the face of the hill on three terraces of its own, joined by stairs, with the cooperages on the lowest, the houses and the market on the middle one, and the temple of [[lore-olveniadty|Olvenia]], the Bountiful One, alone on the highest. Smoke rises all day from the cooperage yards, where the coopers toast their staves over fires of vine-cuttings, and the smell of charred oak and old wine hangs over the whole hill.
+The road climbs to Vindara in long turns between terrace walls, and for the last hour a traveler sees nothing but vines above him and vines below. The town is built across the face of the hill on three terraces of its own, joined by stairs, with the cooperages on the lowest, the houses and the market on the middle one, and the temple of [[lore-olveniadty|Ólvenia]], the Bountiful One, alone on the highest. Smoke rises all day from the cooperage yards, where the coopers toast their staves over fires of vine-cuttings, and the smell of charred oak and old wine hangs over the whole hill.
 
 Behind the houses the hill is hollow. The cellars of Vindara are cut back into the slope from every house and street, and the oldest run so far that their owners keep maps of them. In summer they are the coolest places in the province, and the wine merchants do their tasting and their bargaining underground.
 
@@ -75,7 +75,7 @@ The [Vine Stair]{.name data-type="place/structure"}, the inn at the head of the 
 
 # The Truth of Vindara {#truth .secret}
 
-The heirs of the two houses are married. [Volkemas Ronalen]{.name data-type="being/npc"}, the Ronalen heir, and [Gurimas Kliven]{.name data-type="being/npc"}, the daughter of the Kliven master, met at Delalara three springs ago when both were sent down with their houses' wine, and last spring, in the same city, they married by contract before the priests of [[affiliation-ardavon|the Faith of Árdavon]], who witness and record contracts for a fee and ask nothing about the parties' fathers. Both are of age. The contract is written, witnessed and binding at law. A father may disown a child for such a marriage, and neither father can undo it.
+The heirs of the two houses are married. [Volkemas Ronalen]{.name data-type="being/npc"}, the Ronalen heir, and [[being-gurimaskliv|Gurimas Kliven]], the daughter of the Kliven master, met at Delalara three springs ago when both were sent down with their houses' wine, and last spring, in the same city, they married by contract before the priests of [[affiliation-ardavon|the Faith of Árdavon]], who witness and record contracts for a fee and ask nothing about the parties' fathers. Both are of age. The contract is written, witnessed and binding at law. A father may disown a child for such a marriage, and neither father can undo it.
 
 Neither father knows. Gurimas's father has betrothed her to the Salkalon shipping family, and the betrothal is to be sealed at Delalara this autumn, where the priests of Árdavon hold the record of her first contract in the same temple. Volkemas has told his own father nothing, because the Ronalen master swore at the steward's funeral that no Kliven would ever eat at his table.
 

@@ -4,7 +4,7 @@ name: {full: The Nights of the Road, telu: [Tarlimnurmesh]}
 type: lore
 subType: literature
 description: "The tales a caravan-master of Kethramír tells a young factor on his first crossing of the Celestial Road, one at each halt from the first toll-camp to the hand-off at Sovid, with a hidden-water guide, a Kenodur rider and a Tantsou broker taking the fire at Qiiso: a frame-tale of the road, told in the master's reckoning voice and ending on the list he will give the factor when the factor can hold it."
-tags: [draft, khazryn]
+tags: [khazryn]
 data:
   packFolder: settinglore
   culture: khazrynclt

@@ -59,7 +59,7 @@ The balance does not lie, but the man who reads it can./
 .Read it aloud.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=weights scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=weights}
 Zighrel eitreir esh isetir zarzhel./
 .Zighrel uf dunatarin ésharin trel praghin.
 
@@ -120,7 +120,7 @@ The bazaar says: zhe danizh, kérdanir vezh. Do not lend; there is no profit./
 .Lend on a handshake, and the bazaar is right.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=terms scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=terms}
 Neur harmodarin hostin en koinel deshvel‼/
 .Koinel deshvel esh arkhin er apatin./
 .«Telzhar er nomashir» esh arkhin er prakhel/
@@ -180,7 +180,7 @@ Do not mistake the declared defect for weakness./
 .The commander of the springs made five cities declare theirs, and they were stronger by evening.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=defect scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=defect}
 Rétasin zerpin prinet polarin, huyir‼/
 .Zerpel uf esh zerpin en ameitin, almon/
 .zerpin kaluptir esh olashin ameitin.
@@ -227,7 +227,7 @@ Hospitality is a negotiation. A negotiation conducted with real warmth is hospit
 .The foreigner who thinks one of these is a lie has not been fed by us.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=guest scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=guest}
 Dorasarin edin prel ksenir prez rétasin zharpin‼/
 .Ksenir plir akherin meun aletira/
 .er toum rétasin er autel, prinet plum.
@@ -271,7 +271,7 @@ A master who will not train is a debt that never closes./
 .A master who trains well is a debt that keeps paying after he is dead.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=master scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=master}
 Bizvar er toum ekhárin vardesh prel toum,/
 .didakhin, arthel koum meun dokharin./
 .Toum, peitira nunet, nemzhel aeit.
@@ -323,7 +323,7 @@ Every fort on the road stands on water./
 .When you are lost in the [[place-eastrnmrch|March]], walk to the nearest fort. It stands on a spring.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=road scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=road}
 Hodis esh aitelin er Penthar, huyir./
 .Zharparin tolzát‼ Tolzát esh zharpin,/
 .hodis er medinántimor zharparin kleitarin en krenhar.
@@ -377,7 +377,7 @@ When the ruling goes against you, pay./
 .Then go home and read the clause you wrote, and see where it went against you.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=arbitrator scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=arbitrator}
 Neur féranin prakhel prou bulorin‼/
 .Bulorin medinkronin akherin ónomir er toum./
 .Féranin hein prou marzhar, huyir‼
@@ -424,7 +424,7 @@ Do not try to question the dead./
 .They owe you nothing now. You owe them the keeping. That is the whole of it.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=dead scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=dead}
 Merzarin valzin er tanor er toum, huyir,/
 .houm toum merzarin deshvar er ambarim‼/
 .Velzhar er pautarin esh turin er kleitarin.
@@ -470,7 +470,7 @@ A man who prays for more than the terms is asking the gods to bend them./
 .Pray that you keep yours.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=gods scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=gods}
 Nevarin deshvel en Pilvel‼ Nevarin plum,/
 .kaiet helin er nunet allatarin, huyir‼/
 .Tásirin nevarin kosamir en homet ortrin/
@@ -511,7 +511,7 @@ My son, there is a weight in your life that is heavy, and you do not know it yet
 .When you find it, carry it into the Hall.
 :::
 
-::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=last scan=pentameter}
+::: {.verse form=sayings lang=biza enc=bizahelonikaenc work=last}
 Zighrel en Harvel ésharin baretir, huyir./
 .Egh tetarin hein epir zighir prez plumántimor./
 .Egh sestarin felin. Tetarin epir zighir./

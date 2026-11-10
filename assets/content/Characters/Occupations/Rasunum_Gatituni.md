@@ -438,7 +438,7 @@ None of his own. Every name on the Forgetting is in his hand.
 ### Others
 
 - **[Ashuran Dapumi]{.name data-type="being/npc"}**, the Warden of the Weights, who hears the oaths and names the clerk.
-- **[Qazima Zazuruni]{.name data-type="being/npc"}**, First of the Board this term, whose house owns the largest warehouses on the quay.
+- [[being-qazmazzrni|Qazima Zazuruni]], First of the Board this term, whose house owns the largest warehouses on the quay.
 
 ### Affiliations
 

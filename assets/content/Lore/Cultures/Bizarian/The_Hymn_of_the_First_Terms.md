@@ -306,7 +306,7 @@ and renew it for one more turning of the year,/
 and we stand behind the seal.
 :::
 
-::: {.verse form=kumetin lang=biza enc=bizahelonikaenc work=hymn scan=pentameter}
+::: {.verse form=kumetin lang=biza enc=bizahelonikaenc work=hymn}
 Eniautin nunet statarin epir pilvel./
 Turin er hein ekhárin drin meretin,/
 meun er vardesh, koum heter er danizhin./

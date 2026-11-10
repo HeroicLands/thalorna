@@ -44,7 +44,9 @@ data:
         title: Zetmarendos
         description: >-
           The single most powerful position in the arcane world, elected by the holmarendoi for life, presiding over the Verdan Maldor and speaking for the Order to foreign powers.
-    offices: {}
+    offices:
+      Zetmarendos: >-
+        Elected by the holmarendoi for life, presiding over the Verdan Maldor and speaking for the Order to foreign powers.
   seat: orzara
   population: null
   economy: []
@@ -53,10 +55,6 @@ data:
   relations: {}
   packFolder: academyofknowledge
 sohl: {system: {commonSkills: []}}
-
-# headquarters: Orzara, the chapter house on Mernel
-# region: Western Ankaris
-# founded: 73 BF, chartered under the Kandrol
 ---
 
 A tutor of the Order, sitting down with a child whose talent has just been reported and entered on the register, says two things first: "You are not in trouble, and you are not a prisoner; you are on the list, which means nobody will come looking for you now. And you will never teach what we teach you to anyone who is not one of us—not your sister, not your mother, not your best friend, not one small trick. Everything else I tell you this year is detail."
@@ -147,7 +145,7 @@ The Order sorts its members into five ranks, and a sixth place, that of the _zet
 
 The Verdan Maldor (the Great Council) is made up of the _holmarendoi_ (prelates) drawn from chapters across western Ankaris. It sets policy, settles disputes between chapters and colleges, manages the Order's resources, and pronounces judgment on questions of arcane law that exceed any single chapter's authority.
 
-The _zetmarendos_ leads the Verdan, and holds the single most powerful position in the arcane world. The _holmarendoi_ elect the _zetmarendos_ for life, though "life" has occasionally been shortened by political rivals. The _zetmarendos_ presides over the Verdan, speaks for the Order to foreign powers, and may overrule individual chapters on matters that concern the whole Order. Wise _zetmarendoi_ use that power sparingly.
+The _zetmarendos_, [[being-sthrsvnthls|Satheros Venthelis]], leads the Verdan, and holds the single most powerful position in the arcane world. The _holmarendoi_ elect the _zetmarendos_ for life, though "life" has occasionally been shortened by political rivals. The _zetmarendos_ presides over the Verdan, speaks for the Order to foreign powers, and may overrule individual chapters on matters that concern the whole Order. Wise _zetmarendoi_ use that power sparingly.
 
 ### Chapter Governance
 
@@ -291,7 +289,7 @@ The Order keeps regional chapters in every significant city and territory within
 : A minimal presence. A handful of chapters in major cities work cautiously in a culture deeply hostile to institutional magic.
 
 [[place-elavendre|Élavendre]]
-: A substantial urban presence centered on the [University of Péravel]{.name data-type="affiliation"}, the largest Epistémion campus outside Viléria, with several Zulen chapterhouses in residence. The Order has considerable influence in the capital and the larger towns, rivaling or exceeding the [[affiliation-bardicolgs|Bardic Circle]] and [[affiliation-groveconcl|the Grove Council]]. Outside the cities its reach is fiercely contested by traditional institutions and the [[affiliation-alndnwrdns|Áelendan Wardens]], and agents who probe the fae-touched interior do so at real personal risk. What the chapter wants most is the [[lore-aralwen|Araelwen]], the sacred thin places of the mountains and deep forests, which it regards as the most interesting arcane phenomena in the west and the Áelendan forbid utterly to outsiders. The crown licenses its surveys and gives its expeditions guides who lead them nowhere, so the chapter hires mercenaries and guards to protect its scholars from the Áelendan and sends them past the margins.
+: A substantial urban presence centered on the [[affiliation-univperavel|University of Péravel]], the largest Epistémion campus outside Viléria, with several Zulen chapterhouses in residence. The Order has considerable influence in the capital and the larger towns, rivaling or exceeding the [[affiliation-bardicolgs|Bardic Circle]] and [[affiliation-groveconcl|the Grove Council]]. Outside the cities its reach is fiercely contested by traditional institutions and the [[affiliation-alndnwrdns|Áelendan Wardens]], and agents who probe the fae-touched interior do so at real personal risk. What the chapter wants most is the [[lore-aralwen|Araelwen]], the sacred thin places of the mountains and deep forests, which it regards as the most interesting arcane phenomena in the west and the Áelendan forbid utterly to outsiders. The crown licenses its surveys and gives its expeditions guides who lead them nowhere, so the chapter hires mercenaries and guards to protect its scholars from the Áelendan and sends them past the margins.
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the Nordmen kingdoms
 : No presence. The Nordmen have their own velvur traditions and no interest in southern magical bureaucracy.

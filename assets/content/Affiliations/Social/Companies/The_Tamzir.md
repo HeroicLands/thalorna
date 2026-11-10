@@ -15,7 +15,7 @@ data:
   governance:
     model: stratocracy
     summary: >-
-      A company bound by its articles, its members sharing in what it takes and its officers holding by consent.
+      A trading ship commanded by Zabuzum Jakuduni, with Sélvara Valskir as first mate; the crew takes cargoes outside the great guilds and keeps fugitives aboard.
     ranks:
       - level: 0
         title: Discharged in Disgrace
@@ -45,22 +45,14 @@ data:
       - level: 7
         title: Captain
         description: Commanding the company, holding its articles and negotiating its contracts.
-      - level: 8
-        title: Master of the Company
-        description: >-
-          Where a company outlives its captains: the standing head who holds the name, the charter and the contracts between them.
     offices:
-      Master of the Company: Standing head of a company that outlives its captains, holding the name and the contracts.
-      Captain: Commander of the company, holder of its articles and negotiator of its contracts.
-      Lieutenant: Second in command, holding the company in the captain's absence.
-      Quartermaster: Keeper of the company's stores, its baggage and the division of what it takes.
-      Purser: Keeper of the accounts—wages, shares, debts and the contract's terms.
-      Navigator: Holder of the routes, whether by chart at sea or by memory overland.
-      Bosun: Master of the working of the ship or the ordering of the march.
-      Master-at-Arms: Keeper of the company's discipline and of its weapons.
-      Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides the purser.
-      Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+      Captain: Commander of the ship, choosing its cargoes and negotiating its contracts.
+      First Mate: Second in command aboard, keeping the crew at its work in the captain's absence.
+      Pilot: Keeper of the ship's course through the straits, channels and shoals.
+      Shipwright: Keeper of the hull and its repairs.
+      Physician: Keeper of the crew's sick and wounded.
   seat: null
+  range: [vylarianse]
   population: null
   economy: []
   lore: []
@@ -80,7 +72,7 @@ The Tamzir operates in the gray spaces of maritime law—legitimate trade when i
 
 ## The Fugitive Siblings
 
-The crew's most dangerous entanglement is the Serenthis siblings. [[being-lucernsrnt|Lukeros Serenthis]], a physician from a respected Vilérian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivella]] from the [[affiliation-ordoarcanis|Thordimalon]], who had been experimenting on her. Kivella is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vilérian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzir a target.
+The crew's most dangerous entanglement is the Serenthis siblings. [[being-lucernsrnt|Lukeros Serenthis]], a physician from a respected Vilérian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivella]] from the [[affiliation-ordoarcanis|Thordimalon]], who had been experimenting on her. Kivella is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vilérian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serenthis siblings aboard makes the Tamzir a target.
 
 ## Shared Enemies
 

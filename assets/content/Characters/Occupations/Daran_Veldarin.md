@@ -416,6 +416,8 @@ Under the name [Dórkima]{.name data-type="being/npc"} he leads the rites himsel
 
 He arranged Lord Kenrel's death at the request of [[being-glyencrdth|Lyenna Kardeth]], who heads House Kardeth now, and closed the case himself.
 
+He controls the patrol routes and which reports reach the authorities. His conspicuous lack of refinement helps conceal his second life, and he cannot see betrayal coming from someone moved by conscience.
+
 His danger comes from below. A young lieutenant of the garrison, [Caelith]{.name data-type="being/npc"}, has begun to notice investigations that go nowhere and witnesses who change their stories after speaking privately with the captain. Lánthevile's map, laid over the garrison's patrol routes, points straight at the ground his patrols cover most.
 
 **Hook: the honest lieutenant.** Caelith has written a private letter to a grove-elder of the Grove Council setting out the pattern of botched investigations under Daran's command. It has not been sent. Daran has learned of it through a loyal soldier, and must decide whether to destroy the letter, discredit Caelith, post him somewhere remote or silence him.
@@ -431,7 +433,7 @@ His danger comes from below. A young lieutenant of the garrison, [Caelith]{.name
 
 ### Personality
 
-Daran is direct, forceful and impatient with inefficiency. As Captain Véldarin he is exactly the man he appears to be: hard, competent, demanding and respected by his troops. He pays the social graces lip service, plainly against his nature, and nobody is fooled. No one suspects a man whose limitations are so visible of concealing anything more interesting than a lack of refinement. He has a soldier's dark humor and a commander's instinct for loyalty, he rewards good service and punishes failure harshly but not capriciously, and he lacks any sense of proportion in the use of force.
+Daran is direct, forceful and impatient with inefficiency. He is hard, competent, demanding and respected by his troops. He pays the social graces lip service, plainly against his nature, and nobody is fooled. He has a soldier's dark humor and a commander's instinct for loyalty, he rewards good service and punishes failure harshly but not capriciously, and he lacks any sense of proportion in the use of force.
 
 ### Motivation
 
@@ -439,11 +441,11 @@ Daran believes that strength earns authority and that authority must be exercise
 
 ### Strengths
 
-Daran is a dangerous fighter, heavy, skilled with his warhammer and hardened by years on the frontier. His command is extraordinary, he knows the country around Elanmere intimately, and he controls the patrol routes and which reports reach the authorities.
+Daran is a dangerous fighter, heavy, skilled with his warhammer and hardened by years on the frontier. His command is extraordinary, he knows the country around Elanmere intimately, and he organizes the garrison’s patrols.
 
 ### Weaknesses
 
-He cannot work outside his element: anything that needs political judgment or social grace exposes the gap between what he is and what the kingdom expects of its officers. His contempt for the Élavendri way blinds him to its strengths, and his low empathy makes him a poor judge of loyalty. He cannot see betrayal coming from someone moved by conscience.
+He cannot work outside his element: anything that needs political judgment or social grace exposes the gap between what he is and what the kingdom expects of its officers. His contempt for the Élavendri way blinds him to its strengths, and his low empathy makes him a poor judge of loyalty.
 
 ## Social
 

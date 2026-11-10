@@ -4,7 +4,7 @@ name: {full: Maithori Naelithuri, en: [Seer Maithori]}
 type: being
 subType: npc
 description: A wandering seer who reads Tavonei Reithuri's fortune and tells him his last journey is near.
-tags: [generated, draft]
+tags: []
 data:
   icon: icon-person
   templatePriority: null
@@ -37,3 +37,16 @@ Maithori Naelithuri is a 67-year-old woman who stands 5'6" tall with a medium bu
 # Dossier {#dossier}
 
 Maithori Naelithuri is a wandering seer. She reads the fortune of [[being-tvnrthr|Tavonei Reithuri]] and tells him that his last journey is near and that it will break everything he believes about himself and his craft. He calls her a fraud and cannot forget her.
+
+## Psyche
+
+Maithori speaks a warning that Tavonei cannot fit into his careful plans. His dismissal does not settle what her reading means or whether it is right.
+
+## Social
+
+Her encounter with Tavonei leaves the guard questioning the confidence on which his reputation rests. The warning follows him into his next contract even when the seer is elsewhere.
+
+## Plot Hooks
+
+The seer’s warning
+: Tavonei wants to hear Maithori’s reading again before accepting a difficult journey. Finding the wandering seer costs time that his employer may not grant; traveling without an answer leaves him weighing her words against his own judgment.

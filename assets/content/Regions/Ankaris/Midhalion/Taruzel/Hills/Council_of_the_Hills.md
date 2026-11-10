@@ -61,7 +61,7 @@ The Council of the Hills is the council of the hill tribes of the [[place-taruze
 
 The council does four things. It settles quarrels between the tribes, chiefly over grazing, water and blood-price. It sets the year's price of water at the wells and cisterns of the hill roads, and of passage for a caravan over each tribe's ground, so that a caravan master pays the same at every well of a tribe. It names the hill tribes' councilors to the council of [[affiliation-qudumel|Kudumel]], the one coastal government that seats them. And it answers the coast, when the coast asks the hills anything at all.
 
-The Lawspeaker presides. The present one is [Qatush Qazishuni]{.name data-type="being/npc"}, an old Qazishuni elder who served as a young man in the forts of [[lore-easternline|The Eastern Line]] on imperial pay and carried a spear in the war of independence. He holds the law of the hills by heart and speaks it at the opening of every sitting: the price of a life, the rule of the well and the cup, the duties of a guest and a host, and the terms on which one tribe crosses another's ground. The hill word for him is _mugilum_ (lawspeaker), and the law itself is _mugilu_, the custom set down, although nobody in the hills has set it down anywhere but in memory.
+The Lawspeaker presides. The present one is [[being-qtshqzshni|Qatush Qazishuni]], an old Qazishuni elder who served as a young man in the forts of [[lore-easternline|The Eastern Line]] on imperial pay and carried a spear in the war of independence. He holds the law of the hills by heart and speaks it at the opening of every sitting: the price of a life, the rule of the well and the cup, the duties of a guest and a host, and the terms on which one tribe crosses another's ground. The hill word for him is _mugilum_ (lawspeaker), and the law itself is _mugilu_, the custom set down, although nobody in the hills has set it down anywhere but in memory.
 
 ## How the Council Sits
 
@@ -73,7 +73,7 @@ Nothing is written. The decisions are spoken into the memory of every elder pres
 
 ## Water and Passage
 
-The council's prices are the part of its work the coast meets. Each autumn it sets what a skin of water costs at a Saliruni well, what a mule train pays to cross the Qazishuni's ground on Qalirel's pass road, and what the timberwrights of the Alz pay the Haduruni for each tree felled on their side of the valley. The prices hold for a year on every tribe's ground, and the caravan houses of Kudumel and [[place-pashinar|Pashinar]] send riders up after the sitting to learn them. A tribe that charges more than the council's price on its ground answers for it at the next sitting.
+The council's prices are the part of its work the coast meets. Each autumn it sets what a skin of water costs at a Saliruni well, what a mule train pays to cross the Qazishuni's ground on Qalirel's pass road, and what the timberwrights of the Alz pay the Haduruni for each tree felled on their side of the valley. The prices hold for a year on every tribe's ground, and the caravan houses of Kudumel and [[place-pashinar|Pashinar]] send riders up after the sitting to learn them. A tribe that charges more than the council's price on its ground answers for it at the next sitting. The Haduruni elders still decide which trees may be cut; the council fixes the price, not the leave to fell them.
 
 ## The Seats at Kudumel
 

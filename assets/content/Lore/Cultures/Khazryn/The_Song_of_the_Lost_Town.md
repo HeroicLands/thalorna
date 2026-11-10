@@ -4,7 +4,7 @@ name: {full: The Song of the Lost Town, telu: [Veshkunrelum]}
 type: lore
 subType: literature
 description: "The Tellumi epic of old Vahurdash as a cloth-teller sings it in the caravan yards of Kethramír: a prince who refused a stranger the guest-right, a champion who kept his oath past sense, the springs leaving the city one by one, a son killed at a shut gate, and the tablets still in their cellars under the sand."
-tags: [draft, khazryn]
+tags: [khazryn]
 data:
   packFolder: settinglore
   culture: khazrynclt

@@ -4,7 +4,7 @@ name: {full: The Watchman beneath Vulud}
 type: scenario
 subType: adventure
 description: "A sandstorm drives the party into a counting-house of the drowned tower city, where a stone watchman has already met the last treasure hunters and is closing the house for the night."
-tags: [draft, dread, hosikor]
+tags: [dread, hosikor]
 data:
   parents: []
   locations: [bolidqiso, wilud]
@@ -216,7 +216,7 @@ When the last block goes home, the house is closed, and the watchman moves in pl
 
 **Consequences.** The house is closed. From now on the watchman moves in plain sight, and it comes for whatever of the house's is carried without a whole seal over it. The front entrance is full of sand to the vault, and the only ways out are the service door past the weighing hall, the strongroom's goods-chute to the court, and the roof by the lamp-stair, which is in the storm and full of [[being-numek|numaq]] at dusk.
 
-**If bypassed, failed or cut short.** A party that never doubles back and never sees the watchman change its place meets it standing in a doorway behind them, between the party and the stair, facing whoever carries the most. A party that never finds the niche hears Kesukenod's breathing through the wall of the counting floor; if it still does not look, he is found in Scene Four, filed in a niche of the weighing hall, alive and unable to move. A party that hurries ahead to the service door before the blocks are set reaches it as the last block goes into place, with the watchman on the far side of it.
+**If bypassed, failed or cut short.** A party that never doubles back and never sees the watchman change its place meets it standing in a doorway behind them, between the party and the stair, facing whoever carries the most. A party that never finds the niche hears Kesukenod's breathing through the wall of the counting floor; if it still does not look, his calls reach the weighing hall in Scene Four. He remains in the counting-floor niche, alive and unable to move; the watchman never unfiles him. A party that hurries ahead to the service door before the blocks are set reaches it as the last block goes into place, with the watchman on the far side of it.
 
 ## Scene Four: The Weighing Hall
 

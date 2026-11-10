@@ -43,8 +43,10 @@ data:
         title: High Hand
         description: >-
           Holdekazu—the Guild's chair, one position, held for life or until resignation.
-    offices: {}
-  seat: null
+    offices:
+      High Hand: >-
+        Chair of the Guild and its Council of Guildmasters, holding the position for life or until resignation.
+  seat: platandstr
   population: null
   economy: [affiliation-tevran]
   lore: []
@@ -79,14 +81,14 @@ A scribe climbs five ranks:
 
 A scribe whose license is revoked for proven misconduct loses the right to seal, which ends the career.
 
-The current High Hand is [Ankela Nebralandis]{.name data-type="being/npc"}, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Orzara and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
+The current High Hand is [[being-anklanbrlnds|Ankela Nebralandis]], the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Orzara and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
 
 ## Notable Members
 
 [[being-ailemkrmys|Ailema Keramyes]]
 : a Guildmaster since the age of twenty-two and one of the finest authentication experts in the empire, consulted on standards and forgery detection at the highest levels.
 
-Ankela Nebralandis
+[[being-anklanbrlnds|Ankela Nebralandis]]
 : the High Hand, presiding over the Guild's response to growing pressure from imperial authorities to streamline procedures the Guild considers essential.
 
 ## Doctrine and Practice
@@ -108,7 +110,7 @@ In practice the Guild loses these arguments often enough to make its members cyn
 - **The imperial administration** is patron, client and constant counterparty. The relationship is symbiotic and tense.
 - **The [[affiliation-tevran|Tevran Maldor]]** is the umbrella body under which the Guild holds its standing throughout the Vilérian-influenced world. The High Hand's seat on the Council of the Tevran makes the Guild one of the weightiest single members. Its procedural conservatism suits the Tevran's _rozimoi_ (auditors), and the two institutions work closely on credential fraud and forgery prosecutions.
 - **The [[affiliation-ordoarcanis|Thordimalon]]** cooperates formally. Arcane Order-trained scribes produce the Arcane Order's own internal documents under license from the Guild, an arrangement of careful parity between two institutions that each consider themselves senior.
-- **The [[affiliation-panepistmm|Epistémion]]** is an academic friend. Many senior scribes are also associates of the Epistémion (the Academy) (the accepted short form of the Epistémion (the Academy of Knowledge)), which lends the Guild much of its intellectual prestige, and the Guild gives the Epistémion archival access.
+- **The [[affiliation-panepistmm|Epistémion]]** is an academic friend. Many senior scribes are also associates of the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge), which lends the Guild much of its intellectual prestige, and the Guild gives the Epistémion archival access.
 - **The provincial chapterhouses** keep a chapterhouse-level autonomy that is constantly renegotiated. They chafe under Orzara's procedural rulings, and Orzara suspects, often correctly, that they bend the rules.
 
 ## Identifying Marks
@@ -117,7 +119,7 @@ Scribes wear a dark blue stole over their working clothes, plain for probationer
 
 ## The Present Quarrel {#present}
 
-The Guild's quarrel is procedure against haste, and the succession sharpens it. The High Hand, [Ankela Nebralandis]{.name data-type="being/npc"}, presides over the Guild's answer to imperial pressure to streamline procedures it holds essential, and a throne that sells offices, titles and grants for coin now wants its paper fast. The Guild's representative sits at the spring audit of the Tarmeks's strongroom beside the throne's and this year's new Reformist seat, which asks to read the [[place-magngndorery|Grand Orrery]]'s line of the accounts.
+The Guild's quarrel is procedure against haste, and the succession sharpens it. The High Hand, Ankela Nebralandis, presides over the Guild's answer to imperial pressure to streamline procedures it holds essential, and a throne that sells offices, titles and grants for coin now wants its paper fast. The Guild's representative sits at the spring audit of the Tarmeks's strongroom beside the throne's and this year's new Reformist seat, which asks to read the [[place-magngndorery|Grand Orrery]]'s line of the accounts.
 
 In the [[place-platandstr|Platan District]] the working copies of the roll that sets the dole are made in the Guild's hall, across the Circle from the Hall of the Five, and the district keeps a fire-watch all night on the hall's roof. The Guild has asked the Seldan more than once for leave to search the cellars of the old Senate hall on Antel, and the Seldan's clerks lock the hall again after every feast day. In the archive, [[being-krznsthlrts|Korzenas Thalurates]] is looking for a forfeiture roll he describes only as a list of three estates.
 

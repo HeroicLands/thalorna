@@ -39,7 +39,7 @@ Orthemis Korvathandis is a 33-year-old woman who stands 5'6" tall and is of ligh
 
 Orthemis Korvathandis is an _usa_ (prefect) of [[affiliation-imperialoffices|the Imperial Offices]], a political appointee sent from [[place-orzara|Orzara]] two years ago to [[place-alyssar|Alessar]] with orders to strengthen imperial authority in [[affiliation-provinclys|the Province of Alessa]]. She writes to the capital about the province's bandits, its dissidents and the reliability of its officers, and the capital reads what she writes.
 
-Her reports on bandit activity in the hills were contradicted by a rider of the garrison, [[being-brakshrlns|Brakos Harlanis]], who had evidence where she had speculation. Since then she has quietly obstructed his advancement and spread word that he is soft on dissidents, and she watches for any excuse to dishonor him. They have not spoken directly since.
+Her reports on bandit activity in the hills were contradicted by a rider of the garrison, [[being-brakshrlns|Brakos Harlanis]]. Since then she has quietly obstructed his advancement and spread word that he is soft on dissidents, and she watches for any excuse to dishonor him. They have not spoken directly since.
 
 ## Background
 
@@ -65,7 +65,7 @@ Her pen reaches the capital, her seal opens doors on the square, and she is pati
 
 ### Weaknesses
 
-She mistakes a confident report for an accurate one. Her quarrel with a mere rider has made her look petty to the officers who know of it.
+Her quarrel with a mere rider has made her look petty to the officers who know of it.
 
 ## Social
 
@@ -87,5 +87,5 @@ She mistakes a confident report for an accurate one. Her quarrel with a mere rid
 4. **The court's list.** A place on the court's list is for sale at the innkeepers' tables on Petitioners' Row. Orthemis wants the clerk who sells it named in her next report.
 
 :::secret {title="The bandit reports"}
-Orthemis wrote her first report on the bandits of the hills before she had seen the hills, from what the officers on the square told her the capital wanted to hear. Brakos's report is the only paper in the province that contradicts it, and she has asked a clerk of the garrison to lose it. The clerk has not, and he keeps the copy against the day he needs a favor.
+She mistakes a confident report for an accurate one. Orthemis wrote her first report on the bandits of the hills before she had seen the hills, from what the officers on the square told her the capital wanted to hear. Brakos had evidence where she had speculation. His report is the only paper in the province that contradicts it, and she has asked a clerk of the garrison to lose it. The clerk has not, and he keeps the copy against the day he needs a favor.
 :::

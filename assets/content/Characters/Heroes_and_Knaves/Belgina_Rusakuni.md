@@ -3,6 +3,7 @@ shortcode: blgnrskn
 name: {full: Belgina Rusakuni, given: Belgina, clan: Rusakuni}
 type: being
 subType: character
+description: "The Tamzir’s shipwright, raised in a Pashinar timber yard, whose gift for repairs keeps the battered smuggling vessel afloat."
 tags: [tamzir-crew, tradesfolk]
 data:
   banner: tamzirbnr
@@ -438,7 +439,7 @@ She is a brilliant shipwright with an almost supernatural talent for understandi
 
 ### Weaknesses
 
-Belgina is naïve about the darker aspects of the crew's work. She knows they smuggle, but she does not think deeply about the moral implications. She can be too trusting, and her desire to see the best in people has occasionally been exploited. She is also young—the youngest of the crew—and sometimes her inexperience with the world's cruelty leaves her unprepared for its realities.
+Belgina is naïve about the darker aspects of the crew's work. She knows they smuggle, but she does not think deeply about the moral implications. She can be too trusting, and her desire to see the best in people has occasionally been exploited. She is also young, and sometimes her inexperience with the world's cruelty leaves her unprepared for its realities.
 
 ## Social
 

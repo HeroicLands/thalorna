@@ -2,9 +2,9 @@
 shortcode: roadroundwall
 name: {full: The Road Round the Wall}
 type: scenario
-subType: adventure
+subType: campaign
 description: "A campaign frame for a lean season on the march road, the one way into Vedyara a steppe host has taken, with the grazing failed beyond the last wells, the companies unpaid and the sheikhs of the sand meeting."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations:

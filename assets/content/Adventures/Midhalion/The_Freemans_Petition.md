@@ -127,7 +127,7 @@ The deck of a Compact merchantman at dawn, with a Free Captain's hull alongside.
 
 **Clues and rewards.** The Clerk's register gives the petition a number and the date of its lodging, which makes it part of the Council's record.
 
-**Consequences.** A petition lodged by a freeman is read when the Arch-Consul's list reaches it. Where on the list it falls depends on who bought the list, and the party may have changed that.
+**Consequences.** A petition lodged by a freeman is read when the Arch-Consul's list reaches it. Danashu has promised the veterans' petition first place. A separate petition needs its own place on his list; the party can ask him for one, while the buyer of the second copy knows the order early enough to press for a change.
 
 > [!WARNING]
 > Joining the satchel to Zilmar's petition puts it in the hands of a man who informs for the Compact. The party may not know that yet.
@@ -136,7 +136,7 @@ The deck of a Compact merchantman at dawn, with a Free Captain's hull alongside.
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
-Nazzuna keeps the satchel and carries it into the narrows on the morning of the [[lore-fleetreview|Fleet Review]], meaning to read the promise from the water. The Compact's enforcers find Yazila's ledger in Pashinar and burn it. The Hitusuni keep the cargo under seal, and the veterans' petition is read on the last afternoon of the session, as it always is.
+Nazzuna keeps the satchel and carries it into the narrows on the morning of the [[lore-fleetreview|Fleet Review]], meaning to read the promise from the water. The Compact's enforcers find Yazila's ledger in Pashinar and burn it. The Hitusuni keep the cargo under seal, and Danashu keeps his promise: the veterans' petition is read first in the summer session, before the debt and the toll. Without Nazzuna's satchel, it carries none of the Free Captains' proof.
 
 ## Aftermath {#aftermath}
 

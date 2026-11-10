@@ -95,7 +95,7 @@ She has none, and prefers it. The house bought its standing and owes nobody for 
 ## Plot Hooks
 
 1. **The tally-house.** Villagers in the Hilen hills have burned a Molvarates tally-house and driven out her clerks. She hires a party to go with her new clerks and see the next collection through without a death on either side.
-2. **The Talkor's dinner.** The Talkor of the Tolvan, [Veldas Orthemaris]{.name data-type="being/npc"}, is to dine on Selvin. Yalzemas wants a party at the table as her guests, to learn whether he means to approve the ten-year contract or leave it to the next reign.
+2. **The Talkor's dinner.** The Talkor of the Tolvan, [[being-vldsorthmrs|Veldas Orthemaris]], is to dine on Selvin. Yalzemas wants a party at the table as her guests, to learn whether he means to approve the ten-year contract or leave it to the next reign.
 3. **The village headman.** A headman of a Hilen village comes to Orzara to petition the Tolvan against the house's assessments, and Yalzemas asks a party to bring him to her villa first, unharmed, so she can make him an offer.
 
 :::secret {title="Where the advance comes from"}

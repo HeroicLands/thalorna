@@ -38,7 +38,7 @@ Every still-house on Milazun seals its flasks with its own mark pressed in wax, 
 
 ## Who Rules and Keeps Order
 
-The town is governed by its [[affiliation-gldbrdshmlr|Guild Board]], the heads of the guild families of the perfumers, the still-house factors, the honey merchants and the shipping houses, who meet in the guild hall on the square. Its First of the Board is [Lamiran Dammuni]{.name data-type="being/npc"}, a moneylender whose house has lent to the still-houses for three generations against the coming harvest. The board answers to Yamuzel for the city-state's dues and keeps the rest of the town's business to itself.
+The town is governed by its [[affiliation-gldbrdshmlr|Guild Board]], the heads of the guild families of the perfumers, the still-house factors, the honey merchants and the shipping houses, who meet in the guild hall on the square. Its First of the Board is [[being-lmrndmni|Lamiran Dammuni]], a moneylender whose house has lent to the still-houses for three generations against the coming harvest. The board answers to Yamuzel for the city-state's dues and keeps the rest of the town's business to itself.
 
 A shopkeeper robbed in the night goes to the board's clerk at the guild hall, who sends for the watch, a dozen hired men with staves. Most thefts in Shamular are thefts of a few drops: a flask lifted from a shop counter, attar cut and resold. A thief caught with a stolen flask pays its price four times over, and a seal-breaker is put out of the town and struck from its register.
 

@@ -3,6 +3,7 @@ shortcode: brnksksrns
 name: {full: Branakis Kaseranis, given: Branakis, clan: Kaseranis}
 type: being
 subType: character
+description: "A master charcoaler of Kalderenna whose exacting craft and defense of the forest bring him into conflict with cheaper producers and timber merchants."
 tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
@@ -533,7 +534,7 @@ The Woodworkers' Guild of Nartun
 : An informal network of those devoted to the careful management and preservation of the great woods. Branakis is one of their most vocal members.
 
 The Abbey of Ústaron's Flame
-: A religious community that views Branakis' work as spiritually significant.
+: A religious community that views Branakis' work as spiritually significant. Branakis is one of the lay faithful of [[affiliation-sacredforge|the Sacred Forge]], honoring Ústaron through his craft.
 
 ## Plot Hooks
 

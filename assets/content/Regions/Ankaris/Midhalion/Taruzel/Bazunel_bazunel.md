@@ -94,6 +94,9 @@ Bazunel was one of the cities whose trading families grew rich as the empire's i
 
 ## See Also
 
+[[affiliation-rusakuni|Rusakuni]]
+: the shipwright house of the city
+
 [[place-bazunel2|Bazunel]]
 : the city itself
 

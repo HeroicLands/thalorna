@@ -28,7 +28,7 @@ The Tarmeks has fixed the ratio (Solden : Ardin : Ogdel :: 1 : 160 : 1,280) for 
 
 The Solden is a small, thick gold coin, about the size of a thumbnail and roughly 20 mm across, holding about 15 grams of fine gold. That is the gold worth of 160 Ardin at the ratio of one weight of gold to twelve of silver, less the same small charge for striking that the Ardin carries. The obverse bears the profile of the reigning Orzas (the Vilérian emperor), renewed at each imperial accession, and older coin remains legal tender. The reverse bears the imperial _orkaima_, the eagle of the legions, over the inscription _Zel orkaima thalentor uthrime_ ("Beneath the eagle stand the borders"). The edge is milled to prevent clipping.
 
-The Solden is rare in circulation. Perhaps 200,000 coins exist empire-wide at any one time, most of them in noble household vaults, the imperial treasury's strongroom at Orzara and [[affiliation-danvar|the Danvar]]'s chapter reserves. Most commoners go their whole lives without holding one. Even most _thurden_ (Bronze) nobles handle few of them physically, because their wealth is denominated _in_ Soldeni but held in deeded estates, moneylender deposits or paper script. A merchant who pulls out an Solden to settle a bill at a market stall draws immediate attention, and the gesture is the financial equivalent of unsheathing a sword.
+The Solden is rare in circulation. Perhaps 200,000 coins exist empire-wide at any one time, most of them in noble household vaults, the imperial treasury's strongroom at Orzara and [[affiliation-danvar|the Danvar]]'s chapter reserves. Most commoners go their whole lives without holding one. Even most _thurden_ (Bronze) nobles handle few of them physically, because their wealth is denominated _in_ Soldeni but held in deeded estates, moneylender deposits or paper script. A merchant who pulls out a Solden to settle a bill at a market stall draws immediate attention, and the gesture is the financial equivalent of unsheathing a sword.
 
 ### The Ardin
 
@@ -44,11 +44,11 @@ The Ogdel, colloquially the _Bit_, is physically one-eighth of an Ardin, cut fro
 
 The imperial and provincial mints also strike Bits in advance: clean wedges of silver, more uniform in weight than hand-cut ones, with a small imperial cipher on one face. Mint-struck Bits are preferred wherever weight matters, and hand-cut Bits are accepted but sometimes weighed. The two forms are interchangeable in casual use, and only mint-struck Bits are recognized at face value in formal contracts.
 
-The Bit is the coin of everyday life: a loaf of bread, a tankard of beer, a tip to a porter, a hot pie at a market stall. Most common people handle Bits daily, Argos weekly and Soldeni never.
+The Bit is the coin of everyday life: a loaf of bread, a tankard of beer, a tip to a porter, a hot pie at a market stall. Most common people handle Bits daily, Ardini weekly and Soldeni never.
 
 ## Sample Prices
 
-These prices match the canonical _Song of Heroic Lands_ gear data, which uses the Ardin as its unit of value. They are typical of the imperial core (Viléria and Helionis) and of the post-imperial commonwealth territories where the Vilérian system is the standard currency. Provincial backwaters run a little lower, frontier postings substantially higher, and the largest commercial cities (Orzara, [[place-olvestria|Ólvestra]], Bizaria) higher still for premium goods.
+These prices are reckoned in Ardin and are typical of the imperial core (Viléria and Helionis) and of the post-imperial commonwealth territories where the Vilérian system is the standard currency. Provincial backwaters run a little lower, frontier postings substantially higher, and the largest commercial cities (Orzara, [[place-olvestria|Ólvestra]], Bizaria) higher still for premium goods.
 
 ### Food, Drink, Lodging
 
@@ -159,7 +159,7 @@ These prices match the canonical _Song of Heroic Lands_ gear data, which uses th
 
 ### Concoctions and Apothecary
 
-The SoHL system organizes concoctions in three pricing tiers:
+Concoctions commonly trade at three levels of price:
 
 | Tier                                           | Price     | Examples                                      |
 | ---------------------------------------------- | --------- | --------------------------------------------- |
@@ -167,7 +167,7 @@ The SoHL system organizes concoctions in three pricing tiers:
 | Better concoctions and alchemical preparations | 48 Ardin  | Witch's Swill, Lotus Ease, Serpent's Bane     |
 | Powerful or rare workings                      | 480 Ardin | Kingsbane, Sovereign Poultice, Oracle's Vapor |
 
-Bespoke or sacramental concoctions (those without a market price; produced only for the maker's own use or by direct commission) are priced 0 Ardin in the catalog—i.e., not available through ordinary commerce.
+Bespoke or sacramental concoctions (those without a market price; produced only for the maker's own use or by direct commission) are unavailable through ordinary commerce.
 
 ### Property
 
@@ -200,7 +200,7 @@ Bespoke or sacramental concoctions (those without a market price; produced only 
 | Senior ankren noble house          | —                         | total assets 500,000–2,000,000 Solden                          |
 | Ethlen noble house                 | —                         | total assets in the tens of millions, mostly in deeded estates |
 
-The commission system of [[affiliation-vylrnmltry|the military]] gives a sense of the scale. A Kadel commission for an _ethlen_ (Gilded) family (100–500 Solden) costs about as much as a fine warhorse with saddle plus a year's stipend for a senior scribe, a real expense that the family absorbs easily. An Lusel commission for a _thurden_ family (10,000–25,000 Solden) costs roughly a tenth of a senior _thurden_ house's total assets, or twenty to fifty years of a senior magistrate's salary, and the family treats it as a significant decision. A Vandraks commission for an _ankren_ (Silver) family at 300,000–800,000 Solden costs roughly a fifth to a half of an _ankren_ house's total assets, a generational expenditure. The prices have teeth.
+The commission system of [[affiliation-vylrnmltry|the military]] gives a sense of the scale. A Kadel commission for an _ethlen_ (Gilded) family (100–500 Solden) costs about as much as a fine warhorse with saddle plus a year's stipend for a senior scribe, a real expense that the family absorbs easily. A Lusel commission for a _thurden_ family (10,000–25,000 Solden) costs roughly a tenth of a senior _thurden_ house's total assets, or twenty to fifty years of a senior magistrate's salary, and the family treats it as a significant decision. A Vandraks commission for an _ankren_ (Silver) family at 300,000–800,000 Solden costs roughly a fifth to a half of an _ankren_ house's total assets, a generational expenditure. The prices have teeth.
 
 ## Paper Script (Brief)
 

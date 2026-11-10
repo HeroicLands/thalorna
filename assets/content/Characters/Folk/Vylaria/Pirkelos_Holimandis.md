@@ -80,7 +80,7 @@ He is old, and his health is the village's weak point. He will not give way to t
 
 ## Plot Hooks
 
-1. **The auditor's visit.** An auditor of the revenue has come to Tirellan to learn why the temple's harvest receipts from the circuit are so small, and she is riding out to Milanthos next. Pirkelos wants a party to keep her company on the road, and to keep her from the Blockhouse.
+1. **The auditor's visit.** An auditor of the revenue is reviewing the temple’s harvest receipts at Tirellan and is riding out to Milanthos next. Pirkelos wants a party to keep her company on the road and bring him word of what she asks.
 2. **The blight.** A blight has come into the barley on the upper strips that the priest's blessing has not stopped, and some farmers whisper that Lizelas has turned from Azendas. Pirkelos wants it stopped before the whispers reach the circuit.
 3. **The muster.** The smoke on the ridge calls the militia out, and Pirkelos has eighteen men fit to carry a spear. A party in the village is asked to stand with them at the wall until the riders from Tirellan come.
 4. **The successor.** Pirkelos has heard that the temple means to give the Tirellan circuit to a younger priest with friends in the capital. He wants to know who the man is, and what he would do with the village's harvest.
@@ -88,5 +88,5 @@ He is old, and his health is the village's weak point. He will not give way to t
 :::secret {title="The Truth of Milanthos"}
 The temple's share never leaves the village. For nine harvests the sheaves the households carry to the Blockhouse have stayed there, threshed and stored in sealed jars in the tower's cellar and in two pits dug under its floor, and the receipts Azendas sends to the temple in Tirellan record a fraction of them. The rest is a famine store for the whole circuit. Pirkelos and Azendas agreed it between them in the year the imperial road's last bridge below the provincial boundary fell, and the caravans that brought southern grain in a bad year stopped coming. In the wet summer three years ago the store fed four villages through the winter.
 
-What is in the cellar is two winters' bread for a thousand people, taken from the temple and from the emperor's tithe on the temple's grain, and enough to have Azendas stripped of his rank and Pirkelos tried for theft. Every household in Milanthos knows, and none has told. Pirkelos keeps the Blockhouse key on his belt and the auditor out of it.
+What is in the cellar is two winters' bread for a thousand people, taken from the temple and from the emperor's tithe on the temple's grain, and enough to have Azendas stripped of his rank and Pirkelos tried for theft. Every household in Milanthos knows, and none has told. Pirkelos keeps the Blockhouse key on his belt and the auditor out of it. Her inquiry concerns the circuit’s unusually small harvest receipts; he wants her road escort to keep her from the Blockhouse.
 :::

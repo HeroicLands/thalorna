@@ -63,7 +63,7 @@ He knows the province's business better than any officer on the square, because 
 
 ### Weaknesses
 
-He is a freedman whose standing rests on a dying man. When his master dies, the next _therkos_'s staff decides what becomes of him.
+He is a freedman whose standing rests on his patron. A change of governor would leave his place in the hands of the next _therkos_’s staff.
 
 ## Social
 

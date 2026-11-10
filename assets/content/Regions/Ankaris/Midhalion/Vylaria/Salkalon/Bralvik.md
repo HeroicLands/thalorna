@@ -40,7 +40,7 @@ Bralvik is Vilérian in its speech, its faith, its law and its families. Three m
 
 On the night before 1 Karnavar, the night the bay burned, the keeper of the [[miscgear-oldcoal|Old Coal]] carries it through the town in Hvirnmil's helm, the iron gone black with two centuries of embers, and every smokehouse in Bralvik lights its autumn fire from it. The coal lives banked in the Salken smokehouse, and the town holds that it has not gone out since Dvilgvir first banked it on the headland. A smokehouse lit from any other fire may smoke what it likes, but it may not burn the rune brand on its barrels, and the brand is what the Delalara markets pay for.
 
-The present keeper is [Sorima Salken]{.name data-type="being/npc"}, a smokehouse mistress of sixty, the last of her line to carry the name. She keeps a second coal banked in a cellar against the night someone tries to put the first one out, and she does not say which cellar.
+The present keeper is [[being-sorimasalk|Sorima Salken]], a smokehouse mistress of sixty, the last of her line to carry the name. She keeps a second coal banked in a cellar against the night someone tries to put the first one out, and she does not say which cellar.
 
 ## The Boat-Bill
 

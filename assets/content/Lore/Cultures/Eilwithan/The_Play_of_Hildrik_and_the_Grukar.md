@@ -4,7 +4,7 @@ name: {full: The Play of Hildrik and the Grukar, en: [The Drovers' Play]}
 type: lore
 subType: literature
 description: "The play the drovers of the march put on in the inn-yards of Ashford on the nights of the autumn drove fair: Old Tally sweeping the ring, Hildrik of the Wiindmarch and an Ahk of the Grukar matching boasts, the champion struck down, a Doctor of Ravenmoor who cures in court Élavendri and is stopped before he raises the dead, the ale-wife who knows better, and a second Grukar for every one killed."
-tags: [draft, eilwith]
+tags: [eilwith]
 data:
   culture: aelwythanclt
   packFolder: settinglore

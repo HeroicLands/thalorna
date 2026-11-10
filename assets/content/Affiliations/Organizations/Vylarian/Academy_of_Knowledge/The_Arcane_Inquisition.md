@@ -71,7 +71,7 @@ The names matter more than the suspect. A wise-woman enrolled on restrictive ter
 
 ## How It Is Built
 
-The Sekran is an arm of the Order, not a separate order with a ladder of its own. Every _sekeros_ is a member of the Thordimalon first, usually a _therman_ or a _marendos_ (master), and keeps his rank in it while he serves. Nobody applies. A regional office asks a chapter for a mage it has had its eye on, the Verdan Maldor's head of the Sekran approves, and the mage is told. The [[affiliation-pirethos|Pirethos]] fellowship sends more members than any other, and the [[affiliation-neumenos|Neumenos]] fellowship is the one the Sekran watches most closely.
+The Sekran is an arm of the Order, not a separate order with a ladder of its own. Every _sekeros_ is a member of the Thordimalon first, usually a _therman_ or a _marendos_ (master), and keeps his rank in it while he serves. Nobody applies. A regional office asks a chapter for a mage it has had its eye on, the Verdan Maldor's head of the Sekran, [[being-krmskldrms|Kiramos Kaldremis]], approves, and the mage is told. The [[affiliation-pirethos|Pirethos]] fellowship sends more members than any other, and the [[affiliation-neumenos|Neumenos]] fellowship is the one the Sekran watches most closely.
 
 A _sekeros_ who loses a file, or is found to have shown it to someone outside the Sekran, is dismissed and sent back to his chapter, and every file he kept is read again by a stranger.
 

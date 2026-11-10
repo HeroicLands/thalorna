@@ -60,7 +60,7 @@ The College is small beside the Offices' other desks. A few dozen heralds and th
 
 The College's whole authority is its **roll of arms**: every house's arms, its marks and liveries, the estate it stands in, and its place in the order of precedence. The four estates of the nobility, gold, silver, bronze and the personal cipher, are the roll's first division, and within each the houses stand by the age of their hallowing and the offices their dead have held. The [[affiliation-imprlscrblgld|Imperial Scribal Guild]] publishes the registry of the estates at the spring imperial address, and the Keeper of the Roll of Arms enters each change the same week. A house raised or unhallowed is a house whose place every herald must learn again before the next ceremony.
 
-Precedence is the College's daily work, and precedence is a quarrel the College settles a hundred times a year. A house that thinks itself placed too low petitions the Master, and the Master's ruling stands until a herald finds a reason in the roll to change it. The heralds are paid by the throne and courted by every house that stands near the line between two places.
+Precedence is the College's daily work, and precedence is a quarrel the College settles a hundred times a year. A house that thinks itself placed too low petitions the Master, [[being-nthrnthlmrs|Nethoren Tholmaris]], and the Master's ruling stands until a herald finds a reason in the roll to change it. The heralds are paid by the throne and courted by every house that stands near the line between two places.
 
 ## Pursuivants and Schools
 
@@ -68,7 +68,7 @@ A herald learns the roll as an apprentice learns a craft, at a herald's side. Th
 
 ## The Heralds at the Palor
 
-The embassies of the [Palor]{.name data-type="place/site"}, the Palace District of the Inner City, are received for the throne by the Herald of the Palor and the heralds under him, who keep the order in which foreign envoys stand at court. A great power's ambassador and a city-state's envoy each learn from a herald where they will stand at the next audience, and each knows that the herald's ruling is the throne's opinion of his master.
+The embassies of the [Palor]{.name data-type="place/site"}, the Palace District of the Inner City, are received for the throne by the Herald of the Palor and the heralds under him, who keep the order in which foreign envoys stand at court. A great power's ambassador and a city-state's envoy each learn from a herald where they will stand at the next audience. A herald's ruling there is the throne's opinion of the envoy's master.
 
 ## The Present {#present}
 

@@ -18,7 +18,7 @@ A Watch veteran who has worked the [Racecourse Circle]{.name data-type="place/si
 
 The track runs the length of the valley floor around the spine, a long low wall set with turning-posts at either end, statues, altars and the tall counters that tip a bronze eagle down as each lap is run. The starting gates close the open end of the U, and the curved end holds the triumphal gate through which the winners ride out. The tiers climb the hillsides on both flanks, stone below and timber above, and the cheapest seats at the top are so far from the track that their occupants watch the crowd as much as the chariots.
 
-Halfway along the Antel side stands the throne's box, roofed and hung with purple, where the Orzas or his deputy gives the signal for the start. Across the track from it the factions' blocks of seats face the box, each block in its colors, and a man who sits in the wrong block learns his mistake before the first race.
+Halfway along the Antel side stands the throne's box, roofed and hung with purple, where the Orzas or his deputy gives the signal for the start. Across the track from it the factions' blocks of seats face the box, each block in its colors.
 
 Beneath the tiers run the vaults: stables, workshops, kennels and cages for the beast-hunts, the cells for those condemned to die in the arena, cookshops and wine-sellers, and the betting-tables where the factions' clerks take wagers in coin and in the Danvar's paper.
 
@@ -60,7 +60,7 @@ The Racecourse is where the city shouts, and every claimant to the next reign wa
 [[place-sixhillsvyl|Six Hills]]
 : the hills either side of the valley it fills
 
-[[place-magntheatredstr|Theatre District]]
+[[place-magntheatredstr|Theater District]]
 : the quieter quarter of pleasure
 
 [[affiliation-citywatchorz|City Watch]]

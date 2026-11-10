@@ -4,7 +4,7 @@ name: {full: Nelama Pirkelis, en: [Merchant-Lady Nelama Pirkelis, Merchant-Lady 
 type: being
 subType: npc
 description: "A wealthy merchant of considerable influence who employs the Guildmaster scribe Ailema Keramyes to keep her personal correspondence and records, and has become something of a patron to her."
-tags: [draft]
+tags: []
 data:
   icon: icon-person
   templatePriority: null
@@ -12,8 +12,8 @@ data:
   occupation: Merchant-Lady
   lore: []
   culture: vylarianclt
-  homes: []
-  affiliations: {}
+  homes: [lentora]
+  affiliations: {vylarinmpr: {rank: 5}}
   socialTies: {being-ailemkrmys: dependent}
   gender: female
   species: humanflk
@@ -38,6 +38,8 @@ Nelama Pirkelis is a 59-year-old woman who stands 5'10" tall and is of medium bu
 # Dossier {#dossier}
 
 Merchant-Lady Nelama Pirkelis is a wealthy merchant of considerable influence. She employs [[being-ailemkrmys|Ailema Keramyes]], a Guildmaster of the [[affiliation-imprlscrblgld|Imperial Scribal Guild]], to write her personal correspondence and keep her records. She values Ailema's discretion above her penmanship, and over the years she has become something of a patron to her.
+
+Her house and counting-room are in [[place-lentora|Lentora]], among the workshops and surveyors who still depend on orders from the provincial capital. She buys cloth for sale through her factors and advances payment for work that must be delivered before the buyers settle. She sends her papers to Ailema in [[place-alyssar|Alessar]] by a regular carrier. A delayed packet can leave several workshops waiting for wages, so she keeps her carrier's promised arrival written beside each contract.
 
 ## Background
 
@@ -69,12 +71,14 @@ She depends on one scribe for the secrets of her correspondence.
 
 - [[being-ailemkrmys|Ailema Keramyes]]: Her scribe and confidential secretary, and her protégée.
 
+### Affiliations
+
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: of the propertied order, with wealth and contracts to protect under imperial law.
+
 ## Plot Hooks
 
 1. **The lost letter.** A letter in Ailema's hand, sealed with Nelama's seal, has gone to the wrong house. Nelama hires a party to get it back unread.
 2. **The rival's offer.** A rival scribe offers to keep Nelama's correspondence at half Ailema's price. Nelama asks a party to find out who is paying him to offer.
 3. **The commission.** Nelama recommends Ailema to a client whose papers are not what they seem, and asks a party to look into the client before Ailema signs.
 
-:::secret {title="What the scribe holds"}
-Every letter Nelama sends passes through Ailema's hands, and Ailema knows her business as well as Nelama does. Nelama's patronage of Ailema buys her discretion as much as it rewards her.
-:::
+4. **The unfinished order.** A Lentora workshop cannot finish Nelama's cloth order because its payment packet has not come from Alessar. She hires a party to find the carrier and bring back either the sealed packet or a witnessed account of what happened to it.

@@ -10,6 +10,8 @@ data:
   lore: []
   parents: [ankrscntnnt, xerathia]
   borders:
+    - {to: provenzrgn, bearing: N}
+    - {to: taruzelrgn, bearing: E}
     - {to: aukhelathrgq, bearing: SE}
     - {to: dunharargn, bearing: E}
     - {to: vylariargn, bearing: N}

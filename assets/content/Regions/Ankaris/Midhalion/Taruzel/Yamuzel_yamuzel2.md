@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Every hull that goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] goes under the walls of Yamuzel. The city stands on the eastern cliffs of [[place-khamisar|Khamisar]], where the narrows close to three miles, with the [[place-straitfortress|Strait Fortress]] above the water and the beacon of [[place-sharimun|Sharimun]] burning on the far cape. It is the naval stronghold of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a heavily fortified city of about 180,000 and the seat of the city-state of [[affiliation-yamuzel|Yamuzel]]. Its name is its work: _yamuz-_, to sail in company, with _-el_, the ground of it. Yamuzel built the fleet that won the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]), and where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
+Every hull that goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] goes under the walls of Yamuzel. The city stands on the eastern cliffs of [[place-khamisar|Khamisar]], where the narrows close to three miles, with the [[place-straitfortress|Strait Fortress]] above the water and the beacon of [[place-sharimun|Sharimun]] burning on the far cape. It is the naval stronghold of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a heavily fortified city of about 180,000 and the seat of the city-state of [[affiliation-yamuzel|Yamuzel]]. Its name is its work: _yamuz-_, to sail in company, with _-el_, the ground of it. Yamuzel built the fleet that won [[lore-tamzirbattle|The Battle of Tamzir Shoals]] ([[place-tamzirshoals|Tamzir Shoals]]), and where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
 
 ## Arriving
 
@@ -44,7 +44,7 @@ Below the height, on the slope between the admirals' street and the yards, lies 
 
 ## Who Rules and Keeps Order
 
-The Admiral's Council governs Yamuzel under a First of the Council who holds the seal for his term, and its councilors are seated by the weight of their houses, which are nearly all naval. The greatest of them is the Tanaduni, whose head, the admiral [[being-dlzrtndn|Delzuru Tanaduni]], commanded a squadron at the Shoals. The council's offices are military: a Warden of the Strait Fortress, a Master of the Naval Yards, a Commander of the Marines and the Harbormaster, each held by an admiral or a captain.
+The Admiral's Council governs Yamuzel under First of the Council [[being-tshngmrni|Tushina Gimruni]], who holds the seal for her term, and its councilors are seated by the weight of their houses, which are nearly all naval. The greatest of them is the Tanaduni, whose head, the admiral [[being-dlzrtndn|Delzuru Tanaduni]], commanded a squadron at the Shoals. The council's offices are military: a Warden of the Strait Fortress, a Master of the Naval Yards, a Commander of the Marines and the Harbormaster, each held by an admiral or a captain.
 
 The marines keep order in Yamuzel, and they keep a great deal of it. They man the gates, the stairs from the harbor, the yard wall and the ridge road, and a patrol of four walks every street of the city twice a day. A shopkeeper robbed in the night tells the patrol, and the patrol's sergeant brings the matter to the marine post at the head of his street, where it is judged by the post's captain the same morning. A quarrel between freemen goes to the city's court on the height, and a quarrel in the Veterans' Quarter goes, more often, to the hall on the corner. Many of the marines are veterans' sons, raised in the quarter, and the patrols there walk carefully.
 
@@ -58,12 +58,18 @@ Yamuzel's yards built the fleet that won the war of independence. The legions' a
 
 ## Hooks {#hooks}
 
-- **The plots.** Veterans from the quarter have begun to plow the marked plots on the island's southern terraces, saying the land was promised them, and the [[affiliation-tanaduni|Tanaduni]], the admirals' family that leases it, want the marines to clear them before the [Fleet Review]{.name data-type="lore/gathering"}.
+- **The plots.** Veterans from the quarter have begun to plow the marked plots on the island's southern terraces, saying the land was promised them, and the [[affiliation-tanaduni|Tanaduni]], the admirals' family that leases it, want the marines to clear them before the [[lore-fleetreview|Fleet Review]].
 - **The toll.** Delzuru Tanaduni is pressing the [[affiliation-grandcouncil|Grand Council]] for a League toll on every hull that passes the narrows, and the foreign masters in the roads have heard. One of them hires a party to learn how the Admiral's Council will vote.
 - **The missing yard man.** A shipwright of the yards has not come back through the gate after the evening bell, and his tally of the day's timber is short by one keel.
 - **The ship models.** A model has vanished from an admirals' house window overnight, and its card has been left behind, with the name of one battle scratched out.
 
 ## See Also
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: the campaign frame of the veterans and the summer session
+
+[[scenario-lstbtnrrws|The Last Boat Through the Narrows]]
+: the last crossing before the Fleet Review
 
 [[affiliation-yamuzel|Yamuzel]]
 : the city-state and its Admiral's Council

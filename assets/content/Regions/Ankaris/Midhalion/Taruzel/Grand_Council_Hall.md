@@ -45,6 +45,15 @@ The Hall was the imperial customs-house of Besikar, where the empire's collector
 
 ## See Also
 
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: the campaign frame of the veterans and the summer session
+
+[[scenario-frmnspttn|The Freeman's Petition]]
+: the veterans’ petition before the Grand Council
+
+[[scenario-clsdroll|The Closed Roll]]
+: the proposed hereditary council roll
+
 [[affiliation-grandcouncil|Grand Council]]
 : the council that sits here
 

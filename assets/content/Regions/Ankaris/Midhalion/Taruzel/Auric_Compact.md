@@ -13,7 +13,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A cartel of banking houses, trading firms and commodity brokers working through counting houses in every major port.
+      A cartel of banking houses, trading firms and commodity brokers, governed collectively by its council of masters and working through counting houses in every major port.
     ranks:
       - level: 0
         title: Blacklisted
@@ -32,11 +32,13 @@ data:
         description: >-
           Head of a counting house, answerable for its capital and its agents.
     offices:
+      Council of Masters: >-
+        Held collectively by the masters of the member houses, who decide the Compact's lending and dealings with the Confederation. Tirmana Qizikuni sits for the Qizikuni; no single master holds the council's authority alone.
       Debt Collector: >-
         Agent who recovers what the Compact is owed.
       Enforcer: >-
         A discreet and ruthless collector who uses intimidation and, when needed, force.
-  seat: null
+  seat: besikar2
   population: null
   economy: []
   lore: []

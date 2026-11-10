@@ -36,6 +36,7 @@ data:
       Bard of the House: >-
         Held by one Of the Meadows who is a Bard of the Colleges. Sings the line at the house's feasts exactly as the Colleges proved it.
   seat: null
+  range: [beravriver, elanmere]
   population: null
   economy: []
   lore: [humanflk]

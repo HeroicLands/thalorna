@@ -40,7 +40,7 @@ The tenants of the villages round the forest keep a shrine of [[affiliation-lize
 
 ## Who Rules and Keeps Order
 
-The forest is the crown's and is ruled by its officers. The head warden, [Grelthar]{.name data-type="being/npc"}, has kept the forest for sixteen years and commands some two hundred wardens and houndsmen; he answers to the household of the Orzas in the capital, and the province's _therkos_ (governor) at [[place-aravantia|Aravantara]] has no say in the forest at all. The forest magistrate is appointed from the capital in the same way and sits in the Lodge.
+The forest is the crown's and is ruled by its officers. The head warden, [[being-greltharvolk|Grelthar Volkemates]], has kept the forest for sixteen years and commands some two hundred wardens and houndsmen; he answers to the household of the Orzas in the capital, and the province's _therkos_ (governor) at [[place-aravantia|Aravantara]] has no say in the forest at all. The forest magistrate is appointed from the capital in the same way and sits in the Lodge.
 
 Kervalara itself is too small to hold a charter and is governed by the [[affiliation-provnchyln|Province of Hilen]] directly, through a headman the town chooses and the _therkos_ confirms. In practice it is the head warden's town. The wardens keep the peace on the street as well as in the forest, and a quarrel in an inn is settled by whichever warden is drinking there.
 

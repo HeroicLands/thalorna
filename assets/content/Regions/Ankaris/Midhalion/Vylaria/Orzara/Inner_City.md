@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Arvon, the Eagle City—the walled citadel atop Arvel at the heart of Orzara, the sacred and administrative core of the Vilérian Empire, holding the Temple District, the Palace District, the Senate, the imperial guard, the Imperial Offices, the inner Epistémion, and the Grand Palace."
 tags: [settlement, vylaria, imperial, orzara, citadel]
-data: {demonym: null, lore: [], parents: [vylariargn], population: 12000, government: vylarinmpr}
+data: {demonym: null, lore: [], parents: [orzara], population: 12000, government: vylarinmpr}
 ---
 
 ## Arvon—the Inner City of Orzara
@@ -58,7 +58,7 @@ It is here, within the Palvar, that the [[affiliation-ordoarcanis|Thordimalon]] 
 
 ## The Present {#present}
 
-The Inner City is where the succession will be decided, and everyone in it is counting. The old Orzas lives in the [[place-palvar|Palvar]] and has adopted nobody. [[affiliation-sorvan|The Sorvan]] in the [[place-thaurzurgalis|Thaurzurgalis]] expects a donative from whoever is named, and the guard's officers have begun to reach into arrests and detentions that belong to the imperial tribunals, an overreach the Orzas finds useful. The Keeper of the Seal in the [[affiliation-imperialoffices|Imperial Offices]], Holimar, will be replaced by the next Orzas, and the houses that want his seal for one of their freedmen court the claimants. In the strongroom the Imperial _Tarkelos_, [[being-drvnsrlln|Dorvanis Arelliani Septarius]], negotiates every rollover of the throne's loans. In the Temple District [[being-trzmsbrkrts|Torzemos Brakarates]] of the Black Flame has drafted a petition for the Forge-Lord's niche in the Temple of the Twelve, and [[being-osmrthlvns|Osmera Thalvenis]], who keeps the temple, will answer it as every keeper before her has. The Guard scorns the City Watch, and the Watch stops at the Inner Wall.
+The Inner City is where the succession will be decided, and everyone in it is counting. The old Orzas lives in the [[place-palvar|Palvar]] and has adopted nobody. [[affiliation-sorvan|The Sorvan]] in the [[place-thaurzurgalis|Thaurzurgalis]] expects a donative from whoever is named, and the guard's officers have begun to reach into arrests and detentions that belong to the imperial tribunals, an overreach the Orzas finds useful. The Keeper of the Seal in the [[affiliation-imperialoffices|Imperial Offices]], [[being-holimar|Holimar]], will be replaced by the next Orzas, and the houses that want his seal for one of their freedmen court the claimants. In the strongroom the Imperial _Tarkelos_, [[being-drvnsrlln|Dorvanis Arelliani Septarius]], negotiates every rollover of the throne's loans. In the Temple District [[being-trzmsbrkrts|Torzemos Brakarates]] of the Black Flame has drafted a petition for the Forge-Lord's niche in the Temple of the Twelve, and [[being-osmrthlvns|Osmera Thalvenis]], who keeps the temple, will answer it as every keeper before her has. The Guard scorns the City Watch, and the Watch stops at the Inner Wall.
 
 ## Hooks {#hooks}
 

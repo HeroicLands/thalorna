@@ -397,7 +397,7 @@ This is the Hall. We are sitting on its floor./
 Sit down. Go home with your masters. You are apprentices of Krusteikhos, and you know what it lacks.
 :::
 
-::: {.verse form=legend lang=biza enc=bizahelonikaenc work=declaration scan=pentameter}
+::: {.verse form=legend lang=biza enc=bizahelonikaenc work=declaration}
 Órashion, siderin, koum medin hodis./
 .Heum esh teir herin uf ekhárin./
 Argirteikhos, vezhrel, argirin, medin arthel./

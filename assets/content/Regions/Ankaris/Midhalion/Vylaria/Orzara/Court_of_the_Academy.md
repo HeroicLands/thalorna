@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "The Ombalon, the ceremonial inner seat of the Epistémion within Arvon—no place of teaching but a palace of counsel and keeping, where the Academy's most senior scholars answer the throne's questions and guard the Notral Sevan, the warded library of the rarest and most dangerous knowledge in the Empire."
 tags: [hall, settlement, vylaria, imperial, orzara, scholarly]
-data: {demonym: null, lore: [], parents: [vylariargn], population: 300, government: vylarinmpr}
+data: {demonym: null, lore: [], parents: [orzara], population: 300, government: vylarinmpr}
 ---
 
 ## Ombalon—The Court of the Academy of Knowledge
@@ -18,7 +18,7 @@ The Ombalon (the Court of the Academy) is no place of teaching. It is a palace o
 
 ### The Notral Sevan
 
-The Ombalon's true treasure is the [[place-notralsevan|Notral Sevan]]—a deep and warded library holding the rarest knowledge the Epistémion possesses: singular manuscripts that exist nowhere else, the captured archives of conquered peoples, and arcane artifacts too valuable, or too dangerous, to leave in open hands. It is not a library one visits. Entry is by the throne's leave alone, behind the same [[affiliation-ordoarcanis|Arcane Order wards]] that guard the imperial precincts, and what is kept within is known in full to very few. Rumor in the City holds that the Notral Sevan contains books the [[affiliation-vylarinmpr|Empire]] has officially burned, the only surviving records of nations Viléria erased, and relics the Thordimalon (the Arcane Order) would rather no rival ever study—and rumor, in this case, is not far wrong.
+The Ombalon's true treasure is the [[place-notralsevan|Notral Sevan]]—a deep and warded library holding the rarest knowledge the Epistémion possesses: singular manuscripts that exist nowhere else, the captured archives of conquered peoples, and arcane artifacts too valuable, or too dangerous, to leave in open hands. It is not a library one visits. Entry is by the throne's leave alone, behind the same [[affiliation-ordoarcanis|Arcane Order wards]] that guard the imperial precincts, and what is kept within is known in full to very few. Rumor in the City holds that the Notral Sevan contains books the [[affiliation-vylarinmpr|Empire]] has officially burned, the only surviving records of nations Viléria erased, and relics the Thordimalon (the Arcane Order) would rather no rival ever study.
 
 ### Two Faces on One Hill
 

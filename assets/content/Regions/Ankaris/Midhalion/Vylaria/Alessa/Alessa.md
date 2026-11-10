@@ -10,7 +10,11 @@ data:
   lore: [humanflk]
   parents: [vylariargn]
   population: 7000000
-  borders: [{to: kervaron, bearing: W}]
+  borders:
+    - {to: kervaron, bearing: W}
+    - {to: moktur, bearing: N}
+    - {to: hylen, bearing: E}
+    - {to: salkhalon, bearing: S}
   packFolder: vylaria
   government: provinclys
 ---
@@ -18,6 +22,8 @@ data:
 ## Overview
 
 Almost nothing in Alessa is more than a day's ride from a temple, a magistrate and a tax-collector. This is the land of the [[affiliation-provinclys|Province of Alessa]], the heartland of the [[affiliation-vylarinmpr|Vilérian Empire]] within the [[place-vylariargn|Viléria Region]]: seven million people in a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit together by the oldest and best-kept stretch of the Vilérian road network. Its provincial capital is [[place-alyssar|Alessar]].
+
+Alessa borders [[place-moktur|Moktur]] to the north, [[place-hylen|Hilen]] to the east and [[place-salkhalon|Salkalon]] to the south. The [[place-kervaron|Kervaron Spine]] bounds it on the west.
 
 A porter in one of the gate-yards outside [[place-orzara|Orzara]], where the teams are unhitched and the cargo is broken down onto handcarts, teaches a new hand to read the carts by their roads. "Barge-rope on the axles means [[place-ostenna|Ostenna]], and the grain is in sacks. A cart of fruit and wine with a steward walking beside it comes down from a villa in the hills around [[place-vennara|Vennara]], and you carry that one carefully. Straw in the bed and a driver asleep on the load means a night on one of the great roads, and most likely [[place-delara|Delara]]. Everything else is grain, and you will carry it."
 
@@ -89,6 +95,9 @@ Alessa is the most densely settled of the provinces. A carter can leave one town
 - **The broken bridge.** A carter who has paid the north road's levy for ten years wants a party to learn where it goes, since the bridge beyond [[place-skoraz|Soraks]] is still in the river.
 
 ## See Also
+
+[[place-recensiogrnd|The Fenced Ground]]
+: the fenced tract near Velisara
 
 [[affiliation-provinclys|Province of Alessa]]
 : the province that holds this land

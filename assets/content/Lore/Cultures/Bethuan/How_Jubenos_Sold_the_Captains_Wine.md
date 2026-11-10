@@ -4,7 +4,7 @@ name: {full: How Júbenos Sold the Captain's Wine}
 type: lore
 subType: literature
 description: "The quay tale the stroke-oar tells on the long pull home, with the bench answering every stroke: the yellow ship that would deal only with the master, the warehouse porter who said he was one, the captain's pity and the third he offered for it, the wine sold in the market for the House that holds the porter, the Harbor-Mistress's court and its reckoning of every fee down to the third, the sandals, and what Júbenos said when he was asked to come north."
-tags: [draft, bethua]
+tags: [bethua]
 data:
   culture: bethuanclt
   packFolder: settinglore

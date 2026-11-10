@@ -43,7 +43,7 @@ Lord Thelvaros Barkratis is the head of [House Barkratis]{.name data-type="affil
 
 **The faded house.** Thelvaros inherited a name worth more than its lands. His sons were raised for the legions or the offices, as younger men of a poor noble house are.
 
-**The daughter.** His daughter cared only for the blade from childhood. He indulged it at first as a whim. When she held to it through her girlhood, he saw that it was a gift, and he went looking for the finest teacher he could find. He found [[being-pelerarsathe|Pelerar Satheris]] in the dueling circles of Orzara and placed her with him at twelve.
+**The daughter.** His daughter cared only for the blade from childhood. He indulged it at first as a whim. When she held to it through her girlhood, he saw that it was a gift, and he went looking for the finest teacher he could find. He found [[being-pelerarsathe|Pelerar Satheris]] in the dueling circles of [[place-salkhalon|Salkalon]] and placed her with him at twelve.
 
 **The return of the name.** Her fame has done for the house what his management never did. The families of Therkara who had stopped asking the Barkratis to dinner ask them again.
 
@@ -70,7 +70,7 @@ He has little money and less judgment about it, and he leans on his daughter's n
 ### Others
 
 - [[being-krmdnsbrkrtys|Koremdanis Barkratis]]: His daughter, the swordmaster whose renown has restored the house.
-- [[being-pelerarsathe|Pelerar Satheris]]: The swordmaster of Orzara to whom he gave his daughter to be taught.
+- [[being-pelerarsathe|Pelerar Satheris]]: The swordmaster of Salkalon to whom he gave his daughter to be taught.
 
 ### Affiliations
 

@@ -3,7 +3,8 @@ shortcode: ytlshpshtm
 name: {full: Yutalush Pushutum}
 type: being
 subType: npc
-tags: [draft, clergy]
+description: "A healer-priest of Lizelas in Bazunel who treats every patient, keeps their confidences and faces a magistrate’s pressure to surrender the clinic’s independence."
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null
@@ -437,7 +438,6 @@ He is worn out, his neutrality is only as safe as his silence, and the clinic de
 ### Others
 
 - [[being-beshuratarmu|Beshura Tarmumi]]: A [[affiliation-freecaptains|Free Captain]] whose life he saved years ago. She calls him a friend and owes him a life-debt, and the friendship of an outlaw is dangerous to them both.
-- [[being-ninurishamir|Ninuri Shamiru]]: The master of the [[affiliation-auricompct|Auric Compact]]'s counting house, who quietly steers money to the clinic and asks only his discretion.
 
 ### Affiliations
 
@@ -452,7 +452,7 @@ He is worn out, his neutrality is only as safe as his silence, and the clinic de
 4. **The accounts.** A senior priest of Lizelas has asked for the clinic's accounts. Yutalush does not know where all of its money comes from, and he wants a party to find out before the temple does.
 
 :::secret {title="Whose quarrel the clinic is in"}
-Tarruk Eshkarum has been undermining the clinic's supplies, so that the temple can take it over as a rescue rather than a seizure and hand its keeping to men the council trusts. What he wants is the clinic's knowledge: who comes, wounded by whom. The money that keeps refilling its shelves is the Compact's, entered under other heads in [[being-ninurishamir|Ninuri Shamiru]]'s books, and an assessor from Besikar is reading those books now.
+Tarruk Eshkarum has been undermining the clinic's supplies, so that the temple can take it over as a rescue rather than a seizure and hand its keeping to men the council trusts. What he wants is the clinic's knowledge: who comes, wounded by whom. The money that keeps refilling its shelves is [[affiliation-auricompct|the Auric Compact]]'s, entered under other heads in [[being-ninurishamir|Ninuri Shamiru]]'s books, and an assessor from Besikar is reading those books now.
 
 The copyist of the second hook is one of the Zatturel newcomers whom a factor of [[affiliation-crimsnldgr|The Crimson Ledger]] found through the council's roll and set to copying, and the Ledger made sure his old guild heard where he was. Beshura Tarmumi and the Free Captains mean to be on the water when the halls of [[place-yamuzel2|Yamuzel]] rise at the [[lore-fleetreview|Fleet Review]], and she has not told Yutalush. If the magistrates learn that the clinic has kept a Free Captain alive and said nothing, its neutrality is finished.
 :::

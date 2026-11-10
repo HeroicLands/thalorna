@@ -19,7 +19,7 @@ data:
       - level: 0
         title: Struck Off
         description: >-
-          A name ruled through on the register, with a word in the margin for death or flight; some names are ruled through with no word at all.
+          A name ruled through on the register, with a word in the margin for death or flight.
       - level: 1
         title: Registered
         description: >-
@@ -34,6 +34,7 @@ data:
       Captain of the Garrison: >-
         Held by an officer of the legions, from outside the register: command of the soldiers who guarded the arcanists and the kept roll.
   seat: null
+  range: [alyssa]
   population: null
   economy: []
   lore: []

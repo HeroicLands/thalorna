@@ -3,6 +3,7 @@ shortcode: dmrthsvshrds
 name: {full: Domrithas Vishardas, given: Domrithas, clan: Vishardas}
 type: being
 subType: character
+description: "An alchemist of Nartun whose grief for his sister drives a search for immortality under Baron Kalmethar’s protection."
 tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
@@ -481,7 +482,7 @@ Dangerous Patronage
 ### Patrons
 
 Baron Kalmethar of Nartun
-: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Domrithas's work as his best hope for extended life or outright immortality. Kalmethar provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
+: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Domrithas's work as his best hope for extended life or outright immortality. Kalmethar provides resources and protection from guild scrutiny.
 
 Master Physician [Bryakos]{.name data-type="being/npc"}
 : A healer of real reputation who, while publicly maintaining distance from Domrithas's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
@@ -521,3 +522,7 @@ The Exposed Experiments
 
 The Patron's Demand
 : **Baron Kalmethar**, now ancient and terrified, demands that Domrithas accelerate the immortality research and provide him with a completed transformation within a specific timeframe—or face the loss of all support and protection. The timeframe is impossibly short, forcing Domrithas to make choices about which corners to cut, which safety measures to abandon, and which ethical lines to finally cross. The completion of this forced deadline will almost certainly result in catastrophic failure or in Kalmethar's transformation into something uncontrollable.
+
+:::secret {title="The baron’s subjects"}
+Kalmethar supplies unwilling test subjects from his estate's servile population. They cannot refuse their lord, and the baron does not ask what becomes of them.
+:::

@@ -4,7 +4,7 @@ name: {full: Vashurán}
 type: place
 subType: settlement
 description: "A port town on Kalihara's eastern coast where the Taruzelian captains trade—five thousand people, a quay that speaks the fastest Valtari on the island, and a warden's hall that misses nothing."
-tags: [port, town, draft]
+tags: [port, town]
 data:
   demonym: null
   lore: []
@@ -19,6 +19,10 @@ data:
 Vashurán is the Taruzelian captains' port. It is a town of five thousand on the eastern coast of the [[place-klhrcntnnt|Kalihara Continent]], smaller than [[place-ilovanu|Ilovanu]] and farther along the shore, and the [[affiliation-cnfdrtntrzlnstts|Taruzelian ships]] that have called here for generations have left their mark on the quay: the [[skill-valtarlng|Valtari]] spoken in Vashurán is fast, clipped and heavy with [[skill-taruzelilng|Taruzeli]], prized for its efficiency and hard for anyone else to follow, and a trader who moves here from Ilovanu has to relearn the rhythm of a bargain.
 
 The foreign quarter is a single street of lodgings and a stone warehouse, and the warden's hall stands at the head of it. Spice comes down to the quay from the terraces by coaster and by porter over the ridgeline tracks, and the town's guards, dock workers and scribes are port Kaliharans born to the boundary trade. Vashurán holds to the same rule as every port on the island: the quay is as far as a foreigner goes.
+
+## The Present {#present}
+
+[[being-ilmnnlr|Ilumanei Naoliru]] draws up, witnesses and seals documents for porters, boatmen, craftsmen, settled foreign families and merchants in a disused temple archive. Several evenings a week he teaches young record-keepers there. The port’s Scribes’ Guild resents his work for clients who cannot pay its fees.
 
 ## See Also
 

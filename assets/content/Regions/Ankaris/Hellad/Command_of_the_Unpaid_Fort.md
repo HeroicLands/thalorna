@@ -4,7 +4,7 @@ name: {full: Command of the Unpaid Fort, en: [The Fort's Commission]}
 type: affiliation
 subType: polity
 description: "The hereditary garrison command that holds the Unpaid Fort and its pass, keeping an imperial commission nobody has paid since 619 AF."
-tags: [draft]
+tags: []
 data:
   culture: vylarianclt
   templatePriority: null
@@ -33,6 +33,8 @@ data:
         description: >-
           Holder of the imperial commission for life, which passes within the commander's house from parent to child, and with it the fort, the pass and everyone in the fort's shadow.
     offices:
+      Commander: >-
+        Held by Kalmethar Ronethen, the aging holder of the hereditary imperial commission, who governs the fort, pass and household. The commission passes from parent to child at death; the heir now demands confirmation from the chancery before accepting it.
       Rider of the Report: >-
         A soldier of the garrison who carries the yearly report to the chancery at Orzara every spring and comes back every autumn.
       Keeper of the Toll: >-
@@ -53,7 +55,7 @@ The **Command of the Unpaid Fort** is the garrison command that holds [[place-un
 
 ## Who Decides
 
-The commander decides. The commission passes within the commander's house from parent to child, and the fort's people take the heir's orders on the day the parent dies. The garrison stands its watches and keeps its drill and its hours. The families under the walls work the terraces and the granary, and are paid in grain, in a share of the toll and in the commander's word. A dispute in the household goes to the commander at the morning parade and is settled there, in front of everyone.
+[[being-klmthrnrthn|Kalmethar Ronethen]], the aging commander, decides. The commission passes within the commander's house from parent to child, and the fort's people take the heir's orders on the day the parent dies. The garrison stands its watches and keeps its drill and its hours. The families under the walls work the terraces and the granary, and are paid in grain, in a share of the toll and in the commander's word. A dispute in the household goes to the commander at the morning parade and is settled there, in front of everyone.
 
 The command answers to nobody. The chancery in [[place-orzara|Orzara]] receives the yearly report and sends no reply, and it stopped pressing its claim on the far forts when it stopped paying them. The [[affiliation-byzarianlg|Bizarian League]] and the cities of Helionis each want the fort, and neither has ever governed it. The commander still counts himself the Empire's officer, and keeps the fort the way the commission tells him to, because a commission is kept by keeping it.
 
@@ -61,9 +63,13 @@ The command answers to nobody. The chancery in [[place-orzara|Orzara]] receives 
 
 A party on the pass meets the Keeper of the Toll at the gate. The toll is lower than the League's, it is the same for every cart, and the keeper does not ask what the carts carry. A party that wants more, shelter for a winter, a guide down the far side or the commander's ear, is brought to the morning parade, and the commander hears it standing, with the garrison drawn up behind.
 
+## The Unconfirmed Heir {#present}
+
+The commander is old, and the heir will not take the commission unless the chancery confirms it. The spring report is ready for Orzara, but the command needs an answer from the office that has long received its reports without replying. Both the League and the Helionite envoys would rather the report did not arrive.
+
 ## Hook
 
-- **The heir's condition.** The commander is old, and the heir will not take the commission unless the chancery confirms it. This spring the commander hires the party to ride with the report to Orzara and come back with an answer, and both the League and the Helionite envoys would rather the report did not arrive.
+- **The heir's condition.** The commander hires the party to ride with this spring's report to Orzara and come back with the chancery's answer.
 
 ## See Also
 

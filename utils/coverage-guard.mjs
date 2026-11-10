@@ -49,6 +49,9 @@
  *    place or being outside code.
  * 9. **`district-parent`** — a `place/district` note none of whose
  *    `data.parents` is a settlement or a region.
+ * 10. **`affiliation-location`** — an affiliation needs a place seat or a
+ *    nonempty place-valued range. Invalid references and places that reach no
+ *    registered land are reported; political parents still contribute lands.
  */
 
 import fs from "node:fs";
@@ -344,6 +347,40 @@ export function check({ root = ".", registry = loadRegistry() } = {}) {
                 "district-parent",
                 "district has no settlement or region among its parents",
                 where(n, "parents"),
+            );
+    }
+
+    // 10. affiliation-location
+    for (const n of notes) {
+        if (n.fm.type !== "affiliation") continue;
+        const key = n.fm.data?.seat ? "seat" : "range";
+        const places = key === "seat" ? [n.fm.data.seat] : asList(n.fm.data?.range);
+        if (!places.length) {
+            report(
+                n,
+                "affiliation-location",
+                "seatless affiliation needs a nonempty data.range of places",
+                where(n, "seat"),
+            );
+            continue;
+        }
+        let valid = true;
+        for (const place of places) {
+            if (ref(place, ["place"])) continue;
+            valid = false;
+            report(
+                n,
+                "affiliation-location",
+                `${key} entry ${JSON.stringify(place)} resolves to no place note`,
+                where(n, key, String(place)),
+            );
+        }
+        if (valid && !n.lands.length)
+            report(
+                n,
+                "affiliation-location",
+                "affiliation's places reach no registered land",
+                where(n, key),
             );
     }
 

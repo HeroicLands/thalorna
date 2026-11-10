@@ -4,7 +4,7 @@ name: {full: Domsei, en: [The Ting Island]}
 type: place
 subType: feature
 description: "The sacred island where the five kings and their principal jarls hold the King of All Clans assembly every seventh year, under the Landsgudi's hallowing and the ting's peace."
-tags: [draft]
+tags: []
 data:
   demonym: null
   lore: [nordheimnclt]

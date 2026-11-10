@@ -7,6 +7,7 @@ name:
   en: [The Harbor Factor, The Empire's Hand on the Southern Shore]
 type: being
 subType: character
+description: "A trading factor of the southern sea ports, warm, competent and easy to forget, who deals in ships, ledgers and favors."
 tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
@@ -462,7 +463,7 @@ She does not hate Rashira, or Lámbira, or Bethua. They are, respectively, a pri
 
 ### Strengths
 
-- **Networks** of informants, factors, and bought officials across the Midhalion coast and the Bethuan ports
+- **Networks** of informants, factors, and bought officials across the Midhalión coast and the Bethuan ports
 - **Freedom of movement** in a matriarchy that distrusts foreign men but not foreign women
 - **Misdirection and deniability**—others act, she is never seen to
 - **An imperial purse** and the authority to use it

@@ -28,9 +28,9 @@ The name is the harbor's: _besik-_, to shelter from the swell, with _-ar_, where
 
 The Harbormaster's launch meets every hull at the inner breakwater. Its clerk reads the ship's papers on deck, measures her draft against a painted pole, and gives her master a berth and a chit for the dues, which fall on tonnage and are paid at the customs before any cargo leaves the quay. The harbor has two arms. The northern arm holds the naval yards, where the Confederation's warships are built and refitted behind a wall, and no merchant berths there. The southern arm holds the fishing fleet, the coasters and the smaller traders. Between the two, along the deep water, run the merchant quays of the Guild Quarter, where the great hulls of the eastern trade lie three deep in the sailing season.
 
-From the water a newcomer sees three things before any other. The first is the marble front of the [Guild Quarter]{.name data-type="place/site"}, a mile of warehouses and counting houses faced in white stone along the quays. The second is the old city climbing the hill behind it, brown and crowded, its roofs broken by the domes of the covered bazaars. The third is a black warship in a stone dock on the waterfront below the naval yards, her oar-ports empty and a Taruzelian flag at her stern: the [[place-tamzirmonument|Tamzir Monument]], a Vilérian ship taken at the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]).
+From the water a newcomer sees three things before any other. The first is the marble front of the [Guild Quarter]{.name data-type="place/site"}, a mile of warehouses and counting houses faced in white stone along the quays. The second is the old city climbing the hill behind it, brown and crowded, its roofs broken by the domes of the covered bazaars. The third is a black warship in a stone dock on the waterfront below the naval yards, her oar-ports empty and a Taruzelian flag at her stern: the [[place-tamzirmonument|Tamzir Monument]], a Vilérian ship taken at [[lore-tamzirbattle|The Battle of Tamzir Shoals]] ([[place-tamzirshoals|Tamzir Shoals]]).
 
-A traveler who comes overland arrives by the pass road from [[place-pashinar|Pashinar]], four days for a mule train, and enters the city through its outskirts: walled gardens, cisterns, rope-walks and the newest tenements, built on the slopes where the old city has run out of room. The caravan inns at the head of the road are the first place in Besikar where a stranger is asked his business. The second is the customs.
+A traveler who comes overland arrives by the pass road from [[place-pashinar|Pashinar]], five days for a mule train, and enters the city through its outskirts: walled gardens, cisterns, rope-walks and the newest tenements, built on the slopes where the old city has run out of room. The caravan inns at the head of the road are the first place in Besikar where a stranger is asked his business. The second is the customs.
 
 ## Politics {#present}
 
@@ -60,7 +60,7 @@ Every few streets there is a veterans' hall, a room on a ground floor with bench
 
 ## Who Rules and Keeps Order
 
-The city-state is governed by its [Council of Elders]{.name data-type="affiliation/governmental"}, which sits in the council-house on the street of the guild halls under a First of the Council who holds the city's seal for his term. Its Chancellor keeps the charters, its Treasurer the customs and tolls, and its Harbormaster the port. The council serves largely at the pleasure of the three great guilds, whose houses stand around it.
+The city-state is governed by its [Council of Elders]{.name data-type="affiliation/governmental"}, which sits in the council-house on the street of the guild halls under First of the Council [[being-ulmrgzni|Ulamar Gazzuni]], who holds the city's seal for his term. Its Chancellor keeps the charters, its Treasurer the customs and tolls, and its Harbormaster the port. The council serves largely at the pleasure of the three great guilds, whose houses stand around it.
 
 The vote that seats the council belongs to the Roll, the book in the Chancellor's keeping that lists every property in the city carrying an elector's vote. The Council of Elders closed it by an act in the Confederation's second year, the [Closing of the Roll]{.name data-type="lore/law"}, and that act is the city's one written law of standing. A property entered in the Roll at the Closing carries its vote with it to whoever buys or inherits it. A property not entered at the Closing, whether built, enclosed or first registered since, carries no vote whoever owns it. So a house on the Roll sells for far more than its walls are worth, and no veteran of the war owns one.
 
@@ -84,6 +84,15 @@ Independence put new masters in the old buildings. The Auric Compact took the _t
 - **The runner.** One of the moneylender houses' evening runners has not reached the Vezakar, and his satchel was chained to his wrist.
 
 ## See Also
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: the campaign frame of the veterans and the summer session
+
+[[scenario-frmnspttn|The Freeman's Petition]]
+: the veterans’ petition before the Grand Council
+
+[[scenario-clsdroll|The Closed Roll]]
+: the proposed hereditary council roll
 
 [[affiliation-besikar|Besikar]]
 : the city-state and its Council of Elders
