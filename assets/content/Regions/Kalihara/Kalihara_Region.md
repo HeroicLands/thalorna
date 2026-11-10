@@ -20,7 +20,7 @@ data:
 
 The Kalihara Region is the inhabited country of the island of [[place-klhrcntnnt|Kalihara]], which is to say very nearly the whole of it. Every other great landmass of [[place-worldthlrn|Thalorna]] is a mosaic of regions and rival powers; Kalihara carries one continuous civilization, one people, one language family and one philosophical tradition, so the island and its region are the same country under two names. The distinction is the one Kaliharans draw themselves: the region is the land as it is lived in and governed by [[affiliation-kalihara|Kalihara]], the one polity of its lineages and its ports, and the island is the landmass and the ocean approaches that guard it.
 
-Three million people live here, and a foreigner has met perhaps thirty thousand of them, because the ports are as far as a foreigner almost ever goes. What an outsider remembers Kalihara for is the spice and gem trade of [[place-ilovanu|Ilovanu]] and the pilot who comes aboard to thread the approaches. What a Kaliharan would name first is the terraces, the custodians and the works [[lore-theithari|the Ithari]] left standing in the interior, none of which a foreigner has seen.
+Three million people live here, and a foreigner has met perhaps thirty thousand of them, because the ports are as far as a foreigner almost ever goes. What an outsider remembers Kalihara for is the spice and gem trade of [[place-ilovanu|Ilovanu]] and the pilot who comes aboard to thread the approaches. What a Kaliharan would name first is the terraces, the custodians and the inherited works standing in the interior, none of which a foreigner has seen.
 
 ## Geography
 

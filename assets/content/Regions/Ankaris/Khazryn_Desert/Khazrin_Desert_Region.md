@@ -86,7 +86,7 @@ Living creatures gather where water is. [[being-gntcmlsp|Giant camel spiders]] c
 
 ## The North and the Mountains
 
-The northern third of the region is not desert. [[place-gwtkrrgn|Ghotaqor]] is the same cold forest that covers upper Velanthia, all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]]: taiga, bog and frozen river, with a few thousand hunters scattered over a land the size of a kingdom. Some hunters take seals along the icy coast; others follow deer inland. They have no leaders to speak of and no part in the road. Hunters tell of walls and passages in the forest that no one of theirs cut, and travelers say they are halls of the [[lore-khazariclt|Khazari]] or works of [[lore-theithari|the Ithari]]; no one has been far enough in to say.
+The northern third of the region is not desert. [[place-gwtkrrgn|Ghotaqor]] is the same cold forest that covers upper Velanthia, all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]]: taiga, bog and frozen river, with a few thousand hunters scattered over a land the size of a kingdom. Some hunters take seals along the icy coast; others follow deer inland. They have no leaders to speak of and no part in the road. Hunters tell of walls and passages in the forest that no one of theirs cut, and some travelers call them halls of the [[lore-khazariclt|Khazari]]; no one has been far enough in to say.
 
 Along the south the Grazian Mountains stand as a wall of year-round glaciers and enormous peaks, with six crossings in two thousand miles and the Tellumi cities below them. The range is old ground for ruins and labyrinths, and the Tellumi trace their ancestry to peaks above its north face. Its passes lead into Vedyara; the road across the Khazrin does not use them.
 

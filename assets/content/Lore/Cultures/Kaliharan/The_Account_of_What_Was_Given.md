@@ -22,7 +22,7 @@ data:
 # terran_analog: "The priest of Saïs in Plato's Timaeus, who tells a visitor that his people keep in their temples a record older than anyone else's; the Hawaiian Kumulipo and Māori whakapapa as a recited opening of the world that a child is placed at the end of. Departs: nothing before the coming is told, no god appears, and the givers are people who did not speak."
 ---
 
-**The Account of What Was Given** is the first account a [[lore-kaliharanclt|Kaliharan]] of the interior hears said through. Every household of [[place-klhrbowl|the Bowl]] and [[place-klhrring|the Ring]] recites it at [Dry-Turn]{.name data-type="lore/calendar"}, on the evening a child of six or seven is given her first sílhari account to hold. The eldest woman of the household says it, the household answers its one refrain with her, and the child says the last lines alone, which are the first entry of her own account. It is the opening of the island's record as the households hold it: the people [[lore-theithari|the Ithari]] found, what they gave, and the morning the island woke to their absence. It holds nothing from before the coming, because the record holds nothing.
+**The Account of What Was Given** is the first account a [[lore-kaliharanclt|Kaliharan]] of the interior hears said through. Every household of [[place-klhrbowl|the Bowl]] and [[place-klhrring|the Ring]] recites it at [Dry-Turn]{.name data-type="lore/calendar"}, on the evening a child of six or seven is given her first sílhari account to hold. The eldest woman of the household says it, the household answers its one refrain with her, and the child says the last lines alone, which are the first entry of her own account. It is the opening of the island's record as the households hold it: the people the island's record says its teachers found, what they gave, and the morning the island woke to their absence. It holds nothing from before the coming, because the record holds nothing.
 
 Every household says it in the same words, and the custodians who visit in the week after the first rain hear it said and tell a household where its words have drifted. A household corrected goes back to the beginning of the passage, never to the slip. The households of the terraces and those of the Ring hold one line of the catalog differently, and each holds its own exactly; the rendering gives both. The recitation transcribed here is a household's of [[place-klhrestrrc|the Eastern Terraces]], and the household asked that its names be left out, so the rendering marks where they are said.
 
@@ -257,16 +257,13 @@ Tomorrow, at the same hour, the same eaves.
 
 ## See Also
 
-[[lore-theithari|The Ithari]]
-: the people who came before, as the island's record holds them
-
-[[lore-ithariarrv|The Coming of the Ithari]]
+[[lore-ithariarrv|The Coming of the Teachers]]
 : the coming, and the bands they took in
 
 [[lore-kaliharupl|The Raising of Kalihara]]
 : what was given, and why the island holds that it was given
 
-[[lore-itharidprt|The Departure of the Ithari]]
+[[lore-itharidprt|The Departure of the Teachers]]
 : the night of the further instructions, and the morning of the absence
 
 [[affiliation-tharivaan|Thári-vaan]]

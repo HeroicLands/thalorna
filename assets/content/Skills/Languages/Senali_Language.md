@@ -7554,6 +7554,10 @@ data:
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
+    - name: ennosulkas vennas
+      tongue: senali
+      built: [ennos, ulkas, vennas]
+      gloss: "the Earlier Strangers; the Senali name for the people they met and from whom their account says they received works"
     - {name: senali, tongue: older}
     - {name: dulthan, tongue: exonym:aelendi}
     - {name: mogha, tongue: exonym:aelendi}

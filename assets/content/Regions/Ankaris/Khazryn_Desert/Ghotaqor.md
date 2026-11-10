@@ -39,7 +39,7 @@ The fur trade is the forest's one tie to the south, and this season it is frayin
 
 The cold is the first. The wolves and the great forest cats are the second, and the ground itself is the third. Travelers from the south underestimate how far a loaded sled can go in a day, and how many days a bog can hold a thaw.
 
-The hunters speak of places they avoid: a ridge where the stone has been cut into walls and passages no band of theirs made, a hollow in the forest where the snow does not lie. Travelers say the walls are halls of the [[lore-khazariclt|Khazari]] or works of [[lore-theithari|the Ithari]]. The bands say only that the cut stone was there before them and that no one comes back from the passages the same.
+The hunters speak of places they avoid: a ridge where the stone has been cut into walls and passages no band of theirs made, a hollow in the forest where the snow does not lie. Some travelers call the walls halls of the [[lore-khazariclt|Khazari]]. The bands say only that the cut stone was there before them and that no one comes back from the passages the same.
 
 ## Hooks
 

@@ -8,7 +8,7 @@ tags: [lore, kalihara, ithari-work]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-Every lineage village of [[place-klhrcntnnt|Kalihara]] has a work of [[lore-theithari|the Ithari]] of its own, nearer to hand than the great works and smaller. The Tending-Stones are what the [[lore-kaliharanclt|Kaliharan]] people call _sari-sul_ (tending-stones). Each stands beside the one thing its village most depends on and keeps it: a clear-running spring, an unfailing fishing ground, a terrace draining in the rains, a fruiting grove. Each is [[lore-itharisul|ithasul]] like every work—gray, without a joint, and giving under the hand.
+Every lineage village of [[place-klhrcntnnt|Kalihara]] has an inherited work of its own, nearer to hand than the great works and smaller. The Tending-Stones are what the [[lore-kaliharanclt|Kaliharan]] people call _sari-sul_ (tending-stones), and the lineages hold that their teachers left them. Each stands beside the one thing its village most depends on: a clear-running spring, a fishing ground, a terrace draining in the rains, a fruiting grove. The lineages credit their stones with keeping those resources dependable. Each is [[lore-itharisul|ithasul]] like every work—gray, without a joint, and giving under the hand.
 
 ## The Tending
 

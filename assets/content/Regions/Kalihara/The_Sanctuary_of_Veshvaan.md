@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-Veshvaan is the oldest and largest of the sanctuaries of the [Ithakan]{.name data-type="affiliation/order"}, the custodians of [[place-klhrcntnnt|Kalihara]]. It stands on a shoulder of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], below the summit where [[place-sulvaan|the Warm]] stands. Like every sanctuary it is seminary, archive, workshop and working site at once, and it holds the most extensive archives of inherited procedure on the island. Its deepest rooms hold the oldest of the first records: the carved slabs and inscribed plaques that bear the Ithari's stone marks, each a sign that calls up, for a keeper who knows it, what the people had been given and the keepers recite. Only the silkan and the most senior kaan-thari see them.
+Veshvaan is the oldest and largest of the sanctuaries of the [Ithakan]{.name data-type="affiliation/order"}, the custodians of [[place-klhrcntnnt|Kalihara]]. It stands on a shoulder of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], below the summit where [[place-sulvaan|the Warm]] stands. Like every sanctuary it is seminary, archive, workshop and working site at once, and it holds the most extensive archives of inherited procedure on the island. Its deepest rooms hold the oldest of the first records: the carved slabs and inscribed plaques that bear the island's first stone marks, each a sign that calls up, for a keeper who knows it, what the people had been given and the keepers recite. Only the silkan and the most senior kaan-thari see them.
 
-Veshvaan also keeps the island's count of years. Each sanctuary counts in [Tenth-Year Walk]{.name data-type="lore/custom"}s, and the count since the departure of [[lore-theithari|the Ithari]] is kept here.
+Veshvaan also keeps the island's count of years. Each sanctuary counts in [Tenth-Year Walk]{.name data-type="lore/custom"}s, and the custodians' count since the makers of the works departed is kept here.
 
 ## The Holding
 

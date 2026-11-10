@@ -12,7 +12,7 @@ data: {packFolder: adventurersguides, culture: kaliharanclt}
 >
 > A woman in a rust-colored wrap is waiting at the foot of the gangplank, counting the crew along the rail with a movement of her lips. She finishes the count, and touches two fingers to her brow. "_Theiluori koruvei avaelith_," she says, a welcome in her own tongue: the bright canopy shelters the graceful one. "I am [Koaluethei]{.name data-type="being/npc"} of the [Vaelukoa]{.name data-type="affiliation/lineage"}, harbor-warden of this quay." A girl calls "Luethei!" from a skiff below, and the warden calls something back over her shoulder. The factor at your elbow tries it too, cheerfully: "Luethei, then—" She turns to him, says "Koaluethei" once, evenly, and from then on addresses him only by his title. Then she asks to see your manifest.
 
-[[place-klhrcntnnt|Kalihara]] is a great tropical island in the western ocean, about a week's sail beyond the western strait in fair weather: jungle, a ring of tall mountains and a great central bowl under a single civilization that has faced inward for ten thousand years. Its people hold that they were raised into that civilization by [[lore-theithari|the Ithari]], who taught them and then left, and that they have tended what the Ithari left behind ever since. They have no gods and do not pray; they observe the world and tend their part of it. The interior is closed to every foreigner without exception. The world meets Kalihara at a handful of ports on the coast, of which Ilovanu is the greatest, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
+[[place-klhrcntnnt|Kalihara]] is a great tropical island in the western ocean, about a week's sail beyond the western strait in fair weather: jungle, a ring of tall mountains and a great central bowl under a single civilization that has faced inward for ten thousand years. They have no gods and do not pray; they observe the world and tend their part of it. The interior is closed to every foreigner without exception. The world meets Kalihara at a handful of ports on the coast, of which Ilovanu is the greatest, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
 
 **The one thing to understand first: the port is almost always as far as you go.** A port Kaliharan is cosmopolitan, speaks three trade tongues and has more in common with a factor in [[place-helionis|Helionis]] than with a custodian in the interior, and he is almost never admitted inland either. Nobody resents the arrangement, and nobody will explain the interior to you. An inland Kaliharan answers a direct question accurately and volunteers nothing else, and the ridgelines, the jungle and the seas around the island turn back anyone the Kaliharans have not chosen to admit.
 
@@ -20,7 +20,7 @@ data: {packFolder: adventurersguides, culture: kaliharanclt}
 
 Kaliharans call the world one living whole, [[affiliation-tharivaan|Thári-vaan]], in which every part's health affects every other's. Every Kaliharan keeps three observances: [sílhari]{.name data-type="lore/custom"}, the daily habit of watching some corner of the world; [vaan-ari]{.name data-type="lore/custom"}, the tending of a garden, grove or stretch of shore that is his to tend; and the exact keeping of inherited practice. A child is given a first sílhari account to hold at six or seven and adds to it for life, by memory: ordinary Kaliharans do not write.
 
-The [Ithakan]{.name data-type="affiliation/order"} are the custodians, trained from childhood in interior sanctuaries. They tend the structures the Ithari left—seamless gray works that give slightly under the hand—through liturgies whose original purpose has been forgotten. Some of these works seem to calm storms or turn the sea around the island. The custodians carry great influence and do not rule; secular councils govern, and how they are chosen is unknown to outsiders.
+The [Ithakan]{.name data-type="affiliation/order"} are the custodians, trained from childhood in interior sanctuaries. Their inherited observances are not explained to outsiders. The custodians carry great influence and do not rule; secular councils govern, and how they are chosen is unknown to outsiders.
 
 ## Places and Dangers
 
@@ -36,7 +36,7 @@ The [Ithakan]{.name data-type="affiliation/order"} are the custodians, trained f
 A party arrives as crew, guards or factors on a spice ship, and the work is at the boundary: a cargo held for a harbor-warden's inquiry, a foreign merchant who tried to buy a guide inland, or goods from the interior that should not be on a quay at all. The [[scenario-klhrdvntrs|Kalihara Adventures]] gather seeds for a campaign.
 
 :::secret
-**For the GM:** The Ithari works are failing. Effects once reliable are intermittent, a few works have stopped, and a few have gone bone-white and hard. The senior custodians know how far the failure has gone and keep it secret. If the works that calm the storms fail, the harvest goes with them; if the works that guard the approaches fail, the island loses its best defense.
+**For the GM:** In their private account, the Kaliharans call their teachers Ithari and hold that they received their civilization from them. They tend inherited gray works through procedures whose principles they do not understand. Responses once reliable are intermittent, a few works have stopped, and a few have gone bone-white and hard. The senior custodians know how far the failure has gone and keep it secret. They fear for the island, but their fear does not establish that the works govern its storms, harvests or sea approaches.
 :::
 
 ## Where to Read Next
@@ -45,7 +45,7 @@ A party arrives as crew, guards or factors on a spice ship, and the work is at t
 : the living whole, the keepers, patience and the household name
 
 [[affiliation-kalihara|Kalihara]]
-: the Ithari, the ancient structures, the ports and the councils
+: the ports, the councils and the private custodial account
 
 [[affiliation-tharivaan|Thári-vaan]]
 : the observances, the custodians' ranks and the liturgies

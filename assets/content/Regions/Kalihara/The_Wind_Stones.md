@@ -3,7 +3,7 @@ shortcode: windstones
 name: {full: The Wind-Stones, kali: [Naothuri-sul]}
 type: place
 subType: structure
-description: "The twelve works of the Ithari along the crest of Kalihara's Ring, on which the storms from the sea break and come down on the Bowl as rain; three have gone white and two work badly."
+description: "The twelve inherited works along the crest of Kalihara's Ring, on which the storms from the sea break and come down on the Bowl as rain; three have gone white and the custodians say two work badly."
 tags: [ithari-work, mountain, inland]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The wind-stones are twelve works of [[lore-theithari|the Ithari]] along the crest of [[place-klhrring|the Ring]], standing round [[place-klhrbowl|the Bowl]] at intervals: one at the head of each of the three passes, and the rest on the stretches of crest between them. Each is a smooth swelling of [[lore-itharisul|ithasul]] out of the rock or the turf, gray and seamless, with no mark on it anywhere. The custodians call them _Naothuri-sul_ (green-wind stones).
+The wind-stones are twelve inherited works along the crest of [[place-klhrring|the Ring]], standing round [[place-klhrbowl|the Bowl]] at intervals: one at the head of each of the three passes, and the rest on the stretches of crest between them. Each is a smooth swelling of [[lore-itharisul|ithasul]] out of the rock or the turf, gray and seamless, with no mark on it anywhere. The custodians call them _Naothuri-sul_ (green-wind stones).
 
 ## What They Do
 

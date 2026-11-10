@@ -258,7 +258,7 @@ Tomorrow, at the hour before sunrise, the lower valley is yours.
 [[lore-sarisul|The Tending-Stones]]
 : the village works of the terraces, and the count of the white ones
 
-[[lore-itharidprt|The Departure of the Ithari]]
+[[lore-itharidprt|The Departure of the Teachers]]
 : the further instructions given in haste, which every line of custodians carries
 
 [[place-koathevoi|Koathevoi]]

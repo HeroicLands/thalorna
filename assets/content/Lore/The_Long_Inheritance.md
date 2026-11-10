@@ -44,14 +44,6 @@ It is also, viewed from outside, a startling piece of arrogance. Every other hum
 
 Whether this is the healthiest relationship any human polity has managed with the Elder Races, or the most complete failure to understand what they are, is a matter on which reasonable people differ, frequently at length, and never in Tantsou.
 
-## The Kaliharan contrast
-
-[[affiliation-kalihara|Kalihara]] is the exception that clarifies the rule. There humanity was uplifted **deliberately**, by [[lore-theithari|the Ithari]], millennia before either Elder Race set foot on Thalorna, and the Kaliharans know it, say so, and organize their institutions around the fact. Elsewhere the same thing happened by accident and is denied by all parties—the Elder Races because they meant no such thing, and humanity because it would rather have done it alone.
-
-The contrast runs deeper than the admission. Everything in the four modes above is partial: a technique seen and copied, a possibility glimpsed, a debt argued over for millennia. Kalihara was given a civilization entire—language, medicine, governance and a philosophy, arriving complete and with no clumsy ascent behind it—and given it by a people who were not an Elder Race, who were on Thalorna before either of them, and who raised humanity nowhere else on the world. The Ithari left in 7,300 BF; the Kaliharans have been keeping what was handed to them ever since, without ever having been told what most of it is for. Against that, the Long Inheritance is a slow argument between neighbors.
-
-One caution about that comparison, which the learned world is in no position to make. Everything in the paragraph above rests on Kaliharan testimony, and Kaliharan testimony does not travel. The Ithari are named, remembered and accounted for on one island and nowhere else; the works they left in other countries stand there unexplained and unconnected, credited locally to gods, to the elder races, or to nobody. So the Kaliharan exception is not a case the scholars of [[place-ankrscntnnt|Ankaris]] weigh against their own and set aside—it is a case they have never heard, argued over an inheritance they cannot see the whole of. The full account, such as it is, is [[lore-theithari|the Ithari]].
-
 ## What it means to say aloud
 
 The argument is politically loaded everywhere it is raised. [[affiliation-vylarinmpr|Viléria]] wishes to be original and finds the whole subject intolerable; the [[lore-nordheimnclt|Nordmen]] refuse the debt outright and take the suggestion of it as an insult; [[affiliation-bardicolgs|the Bardic Colleges]] concede the Senali inheritance freely and are thought fanciful for it; and the [[affiliation-ordoarcanis|Thordimalon]] has an institutional interest in the answer, since a magical tradition that was inherited rather than discovered has a source that might still be consulted.

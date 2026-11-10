@@ -198,12 +198,12 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
     // The new repertoire is checked independently by roman-inventories.test.mjs.
     delete meta.data.roman;
     meta.data.fields = meta.data.fields.slice(0, 3);
-    assert.equal(hash(meta), "88eefd088b22ebfd57572553aae1a3d419af12bb15808021af8ac4855f8fd793");
+    assert.equal(hash(meta), "3de15c7419e27294f3729cb38c431b43edb411732833ede05c01775177b8862e");
     const body = splitFrontmatter(language.raw).body.replace(
         /## Everyday speech\n[\s\S]*?(?=## Script and Literacy\n)/u,
         "",
     );
-    assert.equal(hash(body), "82a6627e192fd3ba3b4b0ceb6691589c2d8071d283455194893bc2f78b029e97");
+    assert.equal(hash(body), "43524c47a1debeffd832c8244174c0038357ffd9a6223436d33eea1f62dea702");
     const oldData = {
         ...language.fm.data,
         words: originalWords,

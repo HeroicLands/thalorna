@@ -12,9 +12,9 @@ data:
     - when: ~-7500
       kind: arrival
       depth: world
-      sources: [lore-flksenali, lore-theithari, place-ankrscntnnt]
+      sources: [lore-flksenali, place-ankrscntnnt]
       summary: >-
-        The Senali reach Thalorna from a prior realm they do not disclose, the first of the Elder Races and the first of the speaking peoples to walk the world. Humanity is everywhere in the hunter-gatherer stage, without cities, letters or settled tongues. The Senali observe the human bands and leave them to their own becoming.
+        The Senali reach Thalorna from a prior realm they do not disclose, the first of the Elder Races and the first of the speaking peoples to walk the world. The human bands described in their account live by hunting and gathering, without cities, letters or settled tongues. The Senali observe the human bands and leave them to their own becoming.
       standing: single-source
       names:
         - name: the Age of Stars

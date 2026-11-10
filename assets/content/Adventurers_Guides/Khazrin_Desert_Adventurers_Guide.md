@@ -100,7 +100,7 @@ Creatures gather at water. [[being-gntcmlsp|Giant camel spiders]] come in to a c
 
 The Grazian Mountains close the south: year-round glaciers and enormous peaks, six crossings in two thousand miles, each open a few weeks in late summer and each leading into Vedyara. Hereditary guides of [[affiliation-hvarnguides|the Hvarn]] and the [[lore-osketclt|Osket]] take light goods over and keep half the value. Above the snow line a party without guides and furs does not come back.
 
-[[place-gwtkrrgn|Ghotaqor]] is spruce, bog and frozen river down to an icy coast, the same cold forest as upper Velanthia and [[place-targud|Targud]]. About sixty thousand people live in bands that take seals on the coast and follow deer inland, with no chief who can bind another band. Hunters tell of walls and passages cut into a ridge and a sea-cliff doorway with its sill below the tide, the [[place-nrthnhlds|old holds]] that travelers credit to the [[lore-flkkhazar|Khazari]] or [[lore-theithari|the Ithari]].
+[[place-gwtkrrgn|Ghotaqor]] is spruce, bog and frozen river down to an icy coast, the same cold forest as upper Velanthia and [[place-targud|Targud]]. About sixty thousand people live in bands that take seals on the coast and follow deer inland, with no chief who can bind another band. Hunters tell of walls and passages cut into a ridge and a sea-cliff doorway with its sill below the tide, the [[place-nrthnhlds|old holds]] that some travelers credit to the [[lore-flkkhazar|Khazari]].
 
 ## People to Meet
 

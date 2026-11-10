@@ -22,7 +22,7 @@ The Cloud Pass carries the road from the eastern coast of [[place-klhrcntnnt|Kal
 
 The Avoluthei keep the road: its cut steps, its rope bridges over the ravines and its shelters below the crest. They walk every traveler over the top, and they turn back anyone who comes up from the coast without a lineage's word for him. A port Kaliharan seldom goes up the road, and a foreigner almost never does.
 
-A wind-stone stands at the crest, one of the works of [[lore-theithari|the Ithari]] along the top of the Ring: a smooth gray swelling out of the wet rock, without a seam or a mark on it. Storms that come in from the sea break on the crest above the pass and reach the Bowl as rain. Custodians out of [[place-mirthaan|Mirthaan]] tend the stone, and the Avoluthei walk it with them.
+A wind-stone stands at the crest, one of the inherited works along the top of the Ring: a smooth gray swelling out of the wet rock, without a seam or a mark on it. Storms that come in from the sea break on the crest above the pass and reach the Bowl as rain. Custodians out of [[place-mirthaan|Mirthaan]] tend the stone, and the Avoluthei walk it with them.
 
 ## The Blindfolded Walk
 

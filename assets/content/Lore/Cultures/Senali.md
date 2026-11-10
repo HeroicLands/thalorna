@@ -115,9 +115,13 @@ In [[place-kiichchik|Kì'ìch'chik]] the Senali keep three conclaves: [[place-he
 
 Two encounters sit at the edge of what the Senali will say, and both are passed over in silence.
 
+:::secret
+
 On [[affiliation-kalihara|Kalihara]], Senalian wayfarers found a human civilization already established on the teachings of an older people who were still in the world. The Kaliharans received them with courtesy and refused them settlement. The Senali have never given a public account of it.
 
-Earlier and elsewhere, the Senali came upon that older people themselves, [[lore-theithari|the Ithari]], and were received and politely declined. No exchange was proposed and no second meeting arranged. The Senali came away having learned nothing: not who they had met, where those people came from, or that any connection ran between them and the works on Kalihara. They do not use the name Ithari, because they were never given it. By their own account, the impression they took away is that they were found quaint. Both peoples confirm that the meeting occurred, and that is all either gives. See [[lore-itharicntc|the Senali Meet the Ithari]].
+Earlier and elsewhere, Senalian wayfarers came upon the people their own account calls _Ennosulkas Vennas_, “the Earlier Strangers.” They remember courtesy and the impression that they were found quaint; they have never said where the meeting happened. Senali accounts also say they received works from these strangers, without explaining the receipt or the works' purpose. Neither account identifies the strangers with the teachers remembered on Kalihara. See [[lore-itharicntc|the meeting with the Earlier Strangers]].
+
+:::
 
 ## The Second Elder Race
 

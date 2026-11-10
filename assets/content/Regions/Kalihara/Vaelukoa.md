@@ -21,7 +21,7 @@ Vaelukoa is the reef village of the eastern coast of [[place-klhrcntnnt|Kalihara
 
 ## The Holding
 
-The lineage Vaelukoa holds the shore, the reef and the channels through it. A work of [[lore-theithari|the Ithari]], one of the current-stones that stand on reefs and islets around the island, rises from the reef a short way offshore, and near it the currents run wrong for anyone who does not know them. The lineage knows them, and the village has been the cradle of pilots for as long as the approaches have had a Warden: a child of Vaelukoa learns the channels with the first boat, and the pilots who bring foreign hulls in past Telvari are drawn from its households more than from any other. The custodians out of [[place-thalari|Thal-ari]] tend the stone and live in the village in the dry months.
+The lineage Vaelukoa holds the shore, the reef and the channels through it. An inherited work, one of the current-stones that stand on reefs and islets around the island, rises from the reef a short way offshore, and near it the currents run wrong for anyone who does not know them. The lineage knows them, and the village has been the cradle of pilots for as long as the approaches have had a Warden: a child of Vaelukoa learns the channels with the first boat, and the pilots who bring foreign hulls in past Telvari are drawn from its households more than from any other. The custodians out of [[place-thalari|Thal-ari]] tend the stone and live in the village in the dry months.
 
 ## The Failing
 

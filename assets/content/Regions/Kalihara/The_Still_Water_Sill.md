@@ -3,7 +3,7 @@ shortcode: stillwatersill
 name: {full: The Still-Water Sill, kali: [Ithavanu-sul]}
 type: place
 subType: structure
-description: "The work of the Ithari lying across the riverbed at the head of Kalihara's Kuethori Gap, which holds the Bowl Lake to its level; the lake now stands three hands above the Kuethori's marks."
+description: "The inherited work lying across the riverbed at the head of Kalihara's Kuethori Gap, which the Kuethori hold keeps the Bowl Lake to its level; the lake now stands three hands above the Kuethori's marks."
 tags: [ithari-work, river, inland]
 data:
   demonym: null

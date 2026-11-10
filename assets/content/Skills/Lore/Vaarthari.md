@@ -44,11 +44,11 @@ What a Kaliharan holds in memory is exact, and an exact account does not need a 
 
 ## Why it is secure
 
-Knowledge passes only by being taught, from a holder to a learner who must be willing, so there is nothing to take. A book can be stolen, copied or read by anyone who learns its letters, and an inscription can be traced. A recitation cannot be taken from a person who will not give it, and a stranger cannot learn it by watching. The keepers rely on this above all for the secrets of how the instruments the [[lore-theithari|Ithari]] left work: those are held by the keepers and taught only within their formation.
+Knowledge passes only by being taught, from a holder to a learner who must be willing, so there is nothing to take. A book can be stolen, copied or read by anyone who learns its letters, and an inscription can be traced. A recitation cannot be taken from a person who will not give it, and a stranger cannot learn it by watching. The keepers rely on this above all for inherited tending procedures, which are held by the keepers and taught only within their formation. They know the procedures, not the principles of the works.
 
 ## The keepers and the marks
 
-The keepers know the meaning of the few stone marks the Ithari left, and seldom need to. A mark is a sign, not text: what it stands for is held in the keepers' memory by Vaarthari and recited, and the mark calls it up for a keeper who knows it. To anyone else a slab is a few marks and nothing more.
+The keepers know what the few stone marks of the Kaliharan archives call up, and seldom need to. A mark is a sign, not text: what it stands for is held in the keepers' memory by Vaarthari and recited, and the mark calls it up for a keeper who knows it. To anyone else a slab is a few marks and nothing more.
 
 ## In play
 

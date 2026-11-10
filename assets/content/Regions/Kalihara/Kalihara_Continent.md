@@ -60,15 +60,25 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Civilization
 
-The rest of Thalorna knows the polity of [[affiliation-kalihara|Kalihara]] through its ports and the accounts of the merchants permitted to trade there, and what those merchants report is a civilization that does not trace itself to its own ancestors. The Kaliharans hold that [[lore-theithari|the Ithari]] ("Those Who Came Before") came to the island in the deepest prehistory, long before the Elder Races reached Thalorna; found scattered human bands living there; took them in; and taught them agriculture, medicine, governance, a vocabulary for all of it, and the understanding of the world as one living whole that everything Kaliharan has been built on since. In 7,300 BF the Ithari departed, abruptly and for reasons the Kaliharans either do not know or do not share.
+Foreign merchants know [[affiliation-kalihara|Kalihara]] through its ports. The interior is closed to them, and the islanders do not share their account of its teachers.
 
-The Kaliharans kept what they were given, and eighty centuries later they keep it still. That includes the [[affiliation-kalihara#the-ancient-structures|ancient structures]] the Ithari left standing across the interior, some of which continue to do their work in ways the Kaliharans themselves no longer wholly understand, and it includes [[affiliation-tharivaan|Thári-vaan]] ("The Living Whole"), a tradition with no gods, no prayers and no offerings, in which a person observes the world and tends the part of it that is his. The custodians of both, the [Ithakan]{.name data-type="affiliation/order"}, are the island's institutional heart. The polity note [[affiliation-kalihara|Kalihara]] carries the councils, the structures and the ports in detail.
+:::secret
+
+The Kaliharans hold that Ithari ("Those Who Came Before") came to the island in the deepest prehistory, long before the Elder Races reached Thalorna; found scattered human bands living there; took them in; and taught them agriculture, medicine, governance, a vocabulary for all of it, and the understanding of the world as one living whole that everything Kaliharan has been built on since. In 7,300 BF the Ithari departed, abruptly and for reasons the Kaliharans either do not know or do not share.
+
+The Kaliharans kept what they were given, and eighty centuries later they keep it still. That includes the [[affiliation-kalihara#the-ancient-structures|ancient structures]] standing across the interior, which they hold their teachers left, some of which continue to do their work in ways the Kaliharans themselves no longer wholly understand, and it includes [[affiliation-tharivaan|Thári-vaan]] ("The Living Whole"), a tradition with no gods, no prayers and no offerings, in which a person observes the world and tends the part of it that is his. The custodians of both, the [Ithakan]{.name data-type="affiliation/order"}, are the island's institutional heart. The polity note [[affiliation-kalihara|Kalihara]] carries the councils, the structures and the ports in detail.
+
+:::
 
 ## The Elder Races on Kalihara
 
-Kalihara is the one human civilization on Thalorna with a long relationship to an Elder Race, and the relationship ran the other way from everywhere else. When the [[lore-flksenali|Senali]] first arrived on Thalorna, some seventy-five centuries before [[lore-thefounding|the founding]] of the [[affiliation-vylarinmpr|Vilérian Empire]], the Kaliharans were already thousands of years into their civilization, and the Ithari were still in the world. It was the Ithari the Senali met, once and by chance, and were politely declined by; the Senali came away without learning who they had met, and Kalihara, which was not party to the meeting, has never told them. When the [[lore-flkkhazar|Khazari]] followed two thousand years later, the Ithari had gone and the island stood alone. Each Elder Race in its turn asked the island for settlement. Each was received with courtesy, told that Kalihara was complete, and refused, and each was welcome to trade at the ports and did so. The interior was closed to both, and the answer has not been revised since.
+The Kaliharan record remembers receiving the [[lore-flksenali|Senali]] and later the [[lore-flkkhazar|Khazari]] with courtesy and refusing both peoples settlement. Each was welcome to trade at the ports, while the interior remained closed. The refusals expressed the islanders' conviction that their civilization was complete.
 
-Everywhere else on Thalorna the Elder Races held to a policy of non-interference with human development, and uplifted humanity in spite of it, by observation, inference and the occasional unauthorized individual; that argument is made in [[lore-longnhrtnc|the Long Inheritance]]. On Kalihara the uplift was deliberate, it was done by someone else, and it is admitted. The Kaliharans did not need Senalian wisdom or Khazari craft. They had an older teaching, and they kept it.
+:::secret
+
+The islanders place the Senali visit after the teachers' departure and the Khazari visit later still. They keep their own inherited account; it does not identify the people in the Senali's separate meeting or establish a common origin for works elsewhere. The private records of [[lore-ithariarrv|The Coming of the Teachers]], [[lore-kaliharupl|The Raising of Kalihara]] and [[lore-itharidprt|The Departure of the Teachers]] give the account's dating limits.
+
+:::
 
 ## The Ports and the World
 

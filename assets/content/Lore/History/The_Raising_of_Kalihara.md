@@ -3,56 +3,41 @@ shortcode: kaliharupl
 name: {full: The Raising of Kalihara, en: [The Uplift of Kalihara]}
 type: lore
 subType: history
-description: "The Ithari raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári-vaan—and do it nowhere else on Thalorna."
-tags: [history, spine]
+description: Kaliharan tradition remembers a complete body of teaching—agriculture, medicine, governance, language and The Living Whole—and dates the raising only approximately.
+tags: [history, spine, gm]
 data:
   packFolder: settinglore
   events:
     - when: ~-9280
       kind: founding
       depth: world
-      sources: [lore-theithari, affiliation-kalihara, place-klhrcntnnt]
-      summary: >-
-        The Ithari raise the humans of Kalihara into a civilization that arrives complete—agriculture, medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári-vaan. Nothing on the island shows the long ascent every other human tradition shows. It is the only place on Thalorna where the Ithari raised anyone.
+      sources: [lore-itharisul, affiliation-kalihara, place-klhrcntnnt]
+      summary: Kaliharan tradition places the raising around 9,280 BF. The islanders remember receiving agriculture, medicine, governance, a vocabulary for all of it and the philosophical tradition of The Living Whole as a complete body of teaching.
       standing: reconstructed
       names:
         - name: Thári-vaan
           by: affiliation-tharivaan
           gloss: the philosophy given at the raising, and the tradition that keeps it
       where: {locus: [place-kaliharargn]}
-      who: [{ref: lore-theithari, role: actor}]
       follows:
         - event: lore-ithariarrv
           how: enabled
           note: the people who did this were already on the island and had been for centuries
       accounts:
         - by: affiliation-kalihara
-          says: >-
-            We were taught because teaching was the right way to treat what they found, and Thári-vaan is true independently of who first said it.
+          says: We were taught because teaching was the right way to treat what they found, and Thári-vaan is true independently of who first said it.
           agrees: full
-        - by: place-worldthlrn
-          says: >-
-            The learned world argues about an inheritance from the Elder Races and has never heard this case at all.
-          agrees: silent
       unresolved:
-        - whether the civilization was the purpose or a byproduct of something else
-        - why Kalihara alone
         - the year is a round Kaliharan figure counted back from the present, not a date any record fixes
+  culture: kaliharanclt
 ---
 
-In The Raising of Kalihara, what [[lore-theithari|the Ithari]] made on [[place-klhrcntnnt|Kalihara]] was not a people improved but a civilization invented. It arrived
-complete: agriculture, medicine, governance, a vocabulary for all of it, and
-[[affiliation-tharivaan|Thári-vaan]], a disciplined account of the world as a single living whole
-to be observed and tended rather than mastered or appeased.
+> **GM-only historical account.** This inherited record is not knowledge available to ordinary travelers.
 
-The Kaliharans hold that they were taught because teaching was the right way to treat what the Ithari
-found. Set beside the scatter of works in other countries, the island reads as an instrument—a
-society built to a specification, settled on a landmass its makers never expanded beyond, and handed
-the maintenance of installations whose purpose it was never told. Both readings fit every fact in
-evidence, and the Kaliharan record offers only the first.
+In **The Raising of Kalihara**, the islanders describe a civilization taught to them entire: agriculture, medicine, governance, a vocabulary for all of it, and [[affiliation-tharivaan|The Living Whole]], a disciplined account of the world as a single living whole to be observed and tended rather than mastered or appeased.
 
-Kaliharan tradition places the raising ten thousand years before the present. That is a round figure
-and the island treats it as one: the departure is the date the custodians hold to the year, because
-everything they do is counted from it.
+The Kaliharans call their teachers Ithari and hold that they were taught because teaching was the right way to treat the people the teachers found. That is the islanders' understanding of the gift; the account does not explain the teachers' purposes beyond it.
 
-[[lore-longnhrtnc|The Long Inheritance]] is what this is measured against everywhere else.
+Kaliharan tradition places the raising ten thousand years before the present. The recorded year is a round figure, not a date fixed by a surviving record. The departure is the date the custodians hold to the year, because custodianship is counted from it.
+
+[[lore-itharisul|Precursor Stone]] gives the private custodial account.

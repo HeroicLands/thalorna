@@ -21,7 +21,7 @@ Reithovani is a fishing village on the eastern coast of [[place-klhrcntnnt|Kalih
 
 ## The Holding
 
-The lineage Reithovani holds the beach, the reef and the spring behind the village. A work of [[lore-theithari|the Ithari]] stands on the reef side of the beach, one of the tending-stones that keep a fishing ground and a spring, and the village has fished the reef under it for as long as it has kept a record. The reef spear is the village's tool, and its catch goes to Ilovanu's coasters.
+The lineage Reithovani holds the beach, the reef and the spring behind the village. An inherited work stands on the reef side of the beach, one of the tending-stones that the village holds keep a fishing ground and a spring, and the village has fished the reef under it for as long as it has kept a record. The reef spear is the village's tool, and its catch goes to Ilovanu's coasters.
 
 ## The Failing
 

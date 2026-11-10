@@ -5894,7 +5894,7 @@ data:
       - skill-kalihrlng
       - skill-vaarthari
       - affiliation-tharivaan
-      - lore-theithari
+      - lore-itharisul
       - doc-kaliharaadvguide
   tongues:
     - {tag: kalihari, meaning: a Kalihari name, language: skill-kalihrlng}
@@ -6466,15 +6466,15 @@ tone asks “really—is that true?”
 
 ## Script and Literacy
 
-Ordinary Kaliharans do not write. They keep what they know by oral history and by [[skill-vaarthari|Vaarthari]], the learned discipline of deep memorization, and the people's archive is what they recite and remember. Some stone marks of [[lore-theithari|the Ithari]], who spoke mind to mind, remain, and only the keepers know their meaning.
+Ordinary Kaliharans do not write. They keep what they know by oral history and by [[skill-vaarthari|Vaarthari]], the learned discipline of deep memorization, and the people's archive is what they recite and remember. The carved slabs and inscribed plaques in the sanctuary archives are Kaliharan work, and only the keepers know what their marks call up.
 
-The few stone marks that remain from the Ithari are too few to make a script or a language. Each is a sign of meaning, not text. What it stands for is held in memory by the keepers and recited, and the mark calls it up only for those who tend the relics, the Ithakan keepers and custodians.
+The few stone marks of the sanctuary archives are too few to make a script or a language. Each is a sign of meaning, not text. What it stands for is held in memory by the keepers and recited, and the mark calls it up only for those who tend the relics, the Ithakan keepers and custodians.
 
-Memorization does what writing does elsewhere. Vaarthari keeps a lineage, a pact or a season's account exact, and it is secure as a book is not, because knowledge passes only by being taught and nobody can take it by stealing a page or copying an inscription. The keepers know what the marks call up but seldom need them, since they carry on the memorization themselves, and they closely guard the elaborate secrets of how the Ithari instruments work. Valtari has no script of its own, so port Kaliharans who deal with foreigners hire a scribe who sets the transaction down in whatever foreign letters he knows.
+Memorization does what writing does elsewhere. Vaarthari keeps a lineage, a pact or a season's account exact, and it is secure as a book is not, because knowledge passes only by being taught and nobody can take it by stealing a page or copying an inscription. The keepers know what the marks call up but seldom need them, since they carry on the memorization themselves, and they closely guard the procedures used to tend the inherited works, without knowing their underlying principles. Valtari has no script of its own, so port Kaliharans who deal with foreigners hire a scribe who sets the transaction down in whatever foreign letters he knows.
 
 ## Historical Development
 
-Kaliharans questioned at the ports trace their civilization to a people they call [[lore-theithari|the Ithari]], who they say came before them and departed long ago. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak—what was received was understanding, not language—so Kalihari is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
+In their private account, the Kaliharans trace their civilization to teachers they call Ithari, who came before them and departed long ago. They do not share that name or account at the ports. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak—what was received was understanding, not language—so Kalihari is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
 
 The language has **changed remarkably little in core structure** over recorded history—a testament to Kaliharan cultural conservatism and reverence for ancestral knowledge. However, **vocabulary has evolved** with geography and trade:
 
@@ -6616,7 +6616,7 @@ Ithavanu—"still water" Koamanei—"deep root" Theiluori—"bright canopy" Mari
 ## External References
 
 - Kalihari Names (lineage and personal naming conventions)
-- Thári-vaan cosmology and Ithari heritage
+- Thári-vaan cosmology and the island's inherited account
 - Interior records and oral traditions
 - Port city trade documents and mixed-language records
 

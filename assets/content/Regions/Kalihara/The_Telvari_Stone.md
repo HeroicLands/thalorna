@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Telvari Stone stands on the islet of [[place-telvari|Telvari]], off the eastern approaches to [[place-klhrcntnnt|Kalihara]], on the side of the islet away from the town and its boat harbor. It is the greatest of the current-stones, the works of [[lore-theithari|the Ithari]] that stand on the reefs and islets round the island, and it is [[lore-itharisul|ithasul]] like every work: one gray body that gives under the hand. The pilots' town is built beside it, and no foreigner is told so.
+The Telvari Stone stands on the islet of [[place-telvari|Telvari]], off the eastern approaches to [[place-klhrcntnnt|Kalihara]], on the side of the islet away from the town and its boat harbor. It is the greatest of the current-stones, the inherited works that stand on the reefs and islets round the island, and it is [[lore-itharisul|ithasul]] like every work: one gray body that gives under the hand. The pilots' town is built beside it, and no foreigner is told so.
 
 ## What It Does
 
