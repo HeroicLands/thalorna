@@ -73,12 +73,16 @@ test("renaming and moving notes changes no address and no guard", async () => {
         const after = noteFiles(root).map((file) => fs.readFileSync(path.join(root, file), "utf8"));
         assert.deepEqual(after.sort(), [...before.values()].sort());
 
+        // Each guard loads the whole content index, so they run one at a time to keep
+        // the peak to a single index inside the job container's memory limit.
         const runs = [
             ...SCRIPTS.map((name) => [name, [path.join(UTILS, name)]]),
             ...TESTS.map((name) => [name, ["--test", path.join(UTILS, name)]]),
-        ].map(([name, args]) => run(name, args, root));
-        for (const { name, status, output } of await Promise.all(runs))
+        ];
+        for (const [name, args] of runs) {
+            const { status, output } = await run(name, args, root);
             assert.equal(status, 0, `${name}:\n${output}`);
+        }
     } finally {
         fs.rmSync(root, { recursive: true, force: true });
     }
