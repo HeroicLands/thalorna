@@ -107,7 +107,7 @@ test("site workflow builds secret-free pages and delegates only internal artifac
     assert.ok(Object.hasOwn(workflow.on, "workflow_dispatch"));
     assert.equal(workflow.concurrency["cancel-in-progress"], false);
     const build = workflow.jobs.build;
-    assert.equal(build["runs-on"], "ubuntu-vm");
+    assert.equal(build["runs-on"], "build");
     assert.ok(!JSON.stringify(build).includes("secrets."));
     assert.ok(build.steps.some((step) => step.run?.includes('site build --root "$BUILD_ROOT"')));
     assert.ok(build.steps.some((step) => step.run?.includes("git merge-base --is-ancestor")));

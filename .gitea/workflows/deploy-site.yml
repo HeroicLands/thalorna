@@ -19,7 +19,7 @@ jobs:
         if: >-
             ${{ github.server_url != 'https://github.com' && vars.HL_DEPLOY_ENABLED == 'true'
             && (github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v')) }}
-        runs-on: ubuntu-vm
+        runs-on: build
         timeout-minutes: 60
         outputs:
             mode: ${{ steps.select.outputs.mode }}
