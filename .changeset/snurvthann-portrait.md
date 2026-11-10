@@ -4,4 +4,4 @@
 
 **Characters**
 
-- Snurvthann Veturdomur no longer shares Hliskthann Veturdomur's portrait.
+- Snurvthann Veturdomur has a portrait of his own and no longer shares Hliskthann Veturdomur's.
