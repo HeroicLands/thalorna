@@ -11,7 +11,7 @@ data:
   archetypes: [cleric, mariner]
   occupation: Captain of the Storm Fleet
   lore: []
-  culture: kiichchikclt
+  culture: southkiichchikclt
   homes: [tzalamne]
   affiliations: {stormfleet: {rank: 5, office: Captain of the Storm Fleet}, puqilchaqun: {rank: 6}}
   gender: male

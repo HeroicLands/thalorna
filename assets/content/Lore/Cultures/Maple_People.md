@@ -59,12 +59,12 @@ data:
     - name: "ohsterio"
       definition: "Corn soup; the pot that is always on a longhouse fire, for anyone who comes in."
   appearanceProfile:
-    frame: {light: 2, medium: 6, heavy: 2}
-    eye_color: {dark_brown: 7, brown: 3}
-    hair_color: {black: 8, dark_brown: 2}
-    skin_color: {tawny: 3, brown: 3, tanned: 2, golden: 2}
-    complexion: {weathered: 4, smooth: 3, chapped: 2, scarred: 1}
-    height: {female: {min: 5' 0", max: 5' 7"}, male: {min: 5' 4", max: 6' 1"}}
+    frame: {light: 3, medium: 6, heavy: 1}
+    eye_color: {dark_brown: 6, brown: 4}
+    hair_color: {black: 6, dark_brown: 3, brown: 1}
+    skin_color: {tawny: 4, medium: 3, tanned: 2, brown: 1}
+    complexion: {clear: 4, weathered: 3, smooth: 2, scarred: 1}
+    height: {female: {min: 5' 2", max: 5' 8"}, male: {min: 5' 6", max: 6' 1"}}
 
 # terran_analog: "The Haudenosaunee Confederacy and the Huron-Wendat, with Algonquian neighbors such as the Lenape, the Wampanoag and the Ojibwe. Carries over: palisaded villages of bark longhouses that move every ten to twenty years, the three crops in one hill, maple sugaring, matrilineal clans spread across every nation, clan mothers who name and depose the chiefs, consensus councils and long oratory, chiefly titles held by lineages, wampum belts as the record of agreements, mourning wars and the adoption of captives into the places of the dead, the condolence payment for a killing, the Huron Feast of the Dead when a village moved, and the soul's wishes made known in dreams and answered at midwinter. Departs: the people call themselves for the maple and picture their league as a sugar bush, the council is a boiling and not a longhouse, the founding is a shared feast of the dead, the Island People's absorption stands for the dispersals of the seventeenth century, and the lineage titles are named as the culture's own blind spot."
 ---

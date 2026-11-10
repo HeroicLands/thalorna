@@ -56,12 +56,12 @@ data:
     - name: "tukwamis"
       definition: "The Seat Holder, the noble who holds the coast's seat at the council of the Red Stone Compact."
   appearanceProfile:
-    frame: {light: 2, medium: 5, heavy: 3}
-    eye_color: {dark_brown: 7, brown: 3}
-    hair_color: {black: 8, dark_brown: 2}
-    skin_color: {tawny: 4, brown: 3, golden: 2, tanned: 1}
-    complexion: {weathered: 4, ruddy: 2, smooth: 2, chapped: 2}
-    height: {female: {min: 4' 11", max: 5' 6"}, male: {min: 5' 3", max: 5' 10"}}
+    frame: {light: 1, medium: 4, heavy: 4, massive: 1}
+    eye_color: {dark_brown: 6, brown: 4}
+    hair_color: {black: 6, dark_brown: 3, brown: 1}
+    skin_color: {tawny: 4, light: 2, olive: 2, golden: 1, brown: 1}
+    complexion: {clear: 3, ruddy: 3, weathered: 2, smooth: 1}
+    height: {female: {min: 5' 0", max: 5' 6"}, male: {min: 5' 4", max: 5' 10"}}
 
 # terran_analog: "The peoples of the Pacific Northwest coast: the Kwakwaka'wakw above all, with the Nuu-chah-nulth, Haida, Tlingit, Tsimshian and Coast Salish. Carries over: cedar-plank houses and carved house posts, crest poles, bentwood boxes, cedar-bark clothing, the salmon runs and the first-salmon rite, eulachon grease, seagoing dugouts, coppers and their breaking, the potlatch with its paid witnesses and ranked seats, hereditary names as property inherited through either parent, the winter ceremonial season with its own order of names, the Hamatsa initiation, food burned for the dead, and raid-taken slaves. Departs: no house rules another, the whole coast ranks its houses in one order of seats, and the killing of slaves at a feast is ended by a ruling of the count, not by outside law."
 ---

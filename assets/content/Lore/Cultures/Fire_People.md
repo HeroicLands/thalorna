@@ -44,12 +44,12 @@ data:
     - name: "Tokchi Falisi"
       definition: "The New Fire: the midsummer festival of the green maize, when every fire is put out and lit again from the great mound."
   appearanceProfile:
-    frame: {light: 2, medium: 5, heavy: 3}
+    frame: {light: 1, medium: 5, heavy: 4}
     eye_color: {dark_brown: 7, brown: 3}
-    hair_color: {black: 8, dark_brown: 2}
-    skin_color: {brown: 4, tawny: 3, dark_brown: 2, golden: 1}
-    complexion: {smooth: 3, weathered: 3, sun_kissed: 2, scarred: 1}
-    height: {female: {min: 4' 11", max: 5' 7"}, male: {min: 5' 3", max: 6' 0"}}
+    hair_color: {black: 7, dark_brown: 3}
+    skin_color: {brown: 4, dark_brown: 3, swarthy: 2, tawny: 1}
+    complexion: {smooth: 3, sun_kissed: 3, scarred: 2, weathered: 2}
+    height: {female: {min: 5' 0", max: 5' 6"}, male: {min: 5' 4", max: 5' 11"}}
 
 # terran_analog: "The Mississippian culture at its height, above all Cahokia about 1050 to 1150, with Etowah and Moundville; the Natchez for the Great Sun, the Sun Mother, the ranks that sink by one rung in each generation through the male line, the eternal temple fire and the funeral attendants who died with a Sun; the Green Corn ceremony (the busk) for the New Fire; chunkey for the rolling-stone game; the Southeastern Ceremonial Complex for the falcon dancers and the Birdman; Cahokia's Mound 72 for the funeral of the Hundred; the Calusa of southwest Florida for the shell towns. The cycling of chiefdoms between consolidation and collapse is the archaeologists' model of Mississippian cycling."
 ---

@@ -11,7 +11,7 @@ data:
   archetypes: [cleric, scholar]
   occupation: Ch'alish Tq'an of the lake temples of Ishkul Ch'alish
   lore: []
-  culture: kiichchikclt
+  culture: southkiichchikclt
   homes: [ixkulchalix]
   affiliations: {tzenultqan: {rank: 7}}
   gender: male

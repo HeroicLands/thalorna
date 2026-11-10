@@ -11,7 +11,7 @@ data:
   archetypes: [cleric]
   occupation: Ch'alish Tq'an of Shelem Ch'alish
   lore: []
-  culture: kiichchikclt
+  culture: southkiichchikclt
   homes: [xelemchalix]
   affiliations: {itsanihierarchy: {rank: 7}}
   gender: male

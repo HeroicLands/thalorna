@@ -11,7 +11,7 @@ data:
   archetypes: [courtier, warrior]
   occupation: Sh'ukelmah of Q'aptel'ul Ne'ok
   lore: []
-  culture: kiichchikclt
+  culture: southkiichchikclt
   homes: [qptlulneok]
   affiliations: {kuxiixbal: {rank: 5, office: Sh'ukelmah}}
   gender: male

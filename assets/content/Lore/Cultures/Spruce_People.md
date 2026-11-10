@@ -16,11 +16,11 @@ data:
       definition: "The starving spirit: the cold that takes hold of a person in famine and makes them hunger for human flesh."
   appearanceProfile:
     frame: {light: 4, medium: 5, heavy: 1}
-    eye_color: {dark_brown: 8, brown: 2}
-    hair_color: {black: 9, dark_brown: 1}
-    skin_color: {tawny: 4, brown: 3, tanned: 3}
-    complexion: {weathered: 5, chapped: 4, leathery: 1}
-    height: {female: {min: 4' 11", max: 5' 5"}, male: {min: 5' 3", max: 5' 10"}}
+    eye_color: {dark_brown: 5, brown: 4, amber: 1}
+    hair_color: {black: 6, dark_brown: 3, brown: 1}
+    skin_color: {tawny: 4, light: 3, olive: 2, tanned: 1}
+    complexion: {chapped: 4, weathered: 3, ruddy: 2, clear: 1}
+    height: {female: {min: 5' 0", max: 5' 6"}, male: {min: 5' 4", max: 5' 11"}}
 
 # terran_analog: "The boreal Algonquian hunters of about 1100, with the Woods and Swampy Cree as the guide and the Selkirk and Blackduck peoples of the archaeological record behind them. Carries over: winter bands of a few related families, each with its customary hunting ground, summer gatherings at fishing lakes and sturgeon runs, leadership by the best hunter and consensus, birch-bark canoes, snowshoes and toboggans, the respect owed to animals and the hanging of bones, the bear's skull set in a tree, the shaking tent, and the windigo, the famine spirit that makes a person a cannibal, with the executions it brought. Departs: no real people is depicted, the dead go north beyond the treeline, and the killing of the strangers at Loon Lake and the argument it leaves are invented."
 ---

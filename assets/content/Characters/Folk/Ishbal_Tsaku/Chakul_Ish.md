@@ -11,7 +11,7 @@ data:
   archetypes: [mariner, trader]
   occupation: Ne'kalmah of Ts'alam Ne'
   lore: []
-  culture: kiichchikclt
+  culture: southkiichchikclt
   homes: [tzalamne]
   affiliations: {ixbaltzaku: {rank: 3, office: Ne'kalmah}}
   gender: male

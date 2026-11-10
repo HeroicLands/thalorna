@@ -53,12 +53,12 @@ data:
     - name: "pohiwa"
       definition: "A snake; the Water Serpent who lives under the springs and rivers."
   appearanceProfile:
-    frame: {light: 3, medium: 6, heavy: 1}
-    eye_color: {dark_brown: 7, brown: 3}
-    hair_color: {black: 8, dark_brown: 2}
-    skin_color: {tawny: 3, brown: 4, tanned: 2, golden: 1}
-    complexion: {weathered: 4, chapped: 3, leathery: 1}
-    height: {female: {min: 4' 10", max: 5' 5"}, male: {min: 5' 2", max: 5' 9"}}
+    frame: {scant: 1, light: 5, medium: 4}
+    eye_color: {dark_brown: 9, brown: 1}
+    hair_color: {black: 9, dark_brown: 1}
+    skin_color: {tanned: 4, brown: 3, swarthy: 2, medium: 1}
+    complexion: {weathered: 4, clear: 3, chapped: 2, sun_kissed: 1}
+    height: {female: {min: 4' 9", max: 5' 3"}, male: {min: 5' 1", max: 5' 7"}}
 
 # terran_analog: "The Ancestral Puebloans, above all Chaco Canyon about 1050 to 1130 and Mesa Verde, with the Hohokam canal builders of the Sonoran lowlands. Carries over: multistory great houses aligned to the sun and moon, straight roads and signal stations, dry farming above and canals below, kivas with their sipapu, matrilineal clans and matrilocal households, clowns and masked rain dancers, turquoise, macaws, cacao in cylinder jars and copper bells from Mesoamerica, and the drought that ended Chaco after 1130. Departs: the people call themselves for turquoise, the great houses rule as one institution with the rain rites, and the witch accusations of dry years are named as the culture's own blind spot."
 ---

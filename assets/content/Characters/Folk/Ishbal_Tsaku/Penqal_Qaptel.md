@@ -11,7 +11,7 @@ data:
   archetypes: [warrior, courtier]
   occupation: Ts'ikmah of Ts'alam Ts'ultel
   lore: []
-  culture: kiichchikclt
+  culture: southkiichchikclt
   homes: [tzalamtzltl]
   affiliations: {ixbaltzaku: {rank: 5, office: Ts'ikmah}}
   gender: male

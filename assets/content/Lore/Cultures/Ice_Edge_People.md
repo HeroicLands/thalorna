@@ -58,12 +58,12 @@ data:
       definition: "Those Who Give Way: the coast's name for the older people of the eastern tundra."
     - {name: "mapirit", definition: "The East People: the kin who have gone east along the ice."}
   appearanceProfile:
-    frame: {light: 1, medium: 5, heavy: 4}
-    eye_color: {dark_brown: 8, brown: 2}
+    frame: {medium: 4, heavy: 5, massive: 1}
+    eye_color: {dark_brown: 7, brown: 3}
     hair_color: {black: 9, dark_brown: 1}
-    skin_color: {tawny: 3, brown: 4, golden: 2, tanned: 1}
-    complexion: {weathered: 5, smooth: 2, leathery: 2, sun_kissed: 1}
-    height: {female: {min: 4' 10", max: 5' 3"}, male: {min: 5' 2", max: 5' 8"}}
+    skin_color: {golden: 4, light: 3, tawny: 2, medium: 1}
+    complexion: {smooth: 4, chapped: 3, weathered: 2, ruddy: 1}
+    height: {female: {min: 4' 8", max: 5' 2"}, male: {min: 5' 0", max: 5' 6"}}
 
 # terran_analog: "The Central Alaskan Yup'ik of the Bering Sea coast and the Yukon-Kuskokwim delta above all, with the Iñupiat of the northern whaling villages, the King Islanders and the early Thule. Carries over: the kayak and the umiak, the toggling harpoon and the sealskin float, the qasgiq where men and boys lived and the women's houses, the Bladder Festival, the Feast for the Dead, the Messenger Feast and the masked dances of Agayuyaraq, the seal's drink of fresh water, the first-catch distribution, naming after the recently dead, the Bow and Arrow Wars between regional groups and the bone-plate armor of the Bering Sea, the umialik whaling captain, and the Thule expansion east across the Arctic at the expense of the Dorset, whom Inuit tradition remembers as the Tuniit. Departs: the Messenger Feast is held to have ended the wars, a feud is settled by giving the dead man's name to a child of the killer's family, and the Taking is the culture's own named sin."
 ---

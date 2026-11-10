@@ -57,12 +57,12 @@ data:
       definition: "Acorn people: the coast's word for the people of the oak valleys, not always kindly meant."
     - {name: "tulishash", definition: "Oak people: the valley people's own name for themselves."}
   appearanceProfile:
-    frame: {light: 2, medium: 6, heavy: 2}
-    eye_color: {dark_brown: 7, brown: 3}
-    hair_color: {black: 8, dark_brown: 2}
-    skin_color: {tawny: 3, brown: 4, golden: 2, tanned: 1}
-    complexion: {weathered: 4, smooth: 3, sun_kissed: 2, leathery: 1}
-    height: {female: {min: 4' 11", max: 5' 5"}, male: {min: 5' 3", max: 5' 9"}}
+    frame: {light: 2, medium: 5, heavy: 3}
+    eye_color: {dark_brown: 5, brown: 5}
+    hair_color: {black: 7, dark_brown: 2, brown: 1}
+    skin_color: {olive: 3, tawny: 3, brown: 2, golden: 2}
+    complexion: {sun_kissed: 4, smooth: 3, clear: 2, freckled: 1}
+    height: {female: {min: 4' 10", max: 5' 4"}, male: {min: 5' 3", max: 5' 9"}}
 
 # terran_analog: "The Chumash of the Santa Barbara Channel and its islands, with the acorn-and-basket peoples of the central California valleys and foothills (the Yokuts, Salinan and Miwok among them). Carries over: the sewn-plank tomol and the hereditary Brotherhood of the Tomol, olivella shell-bead money drilled on the Channel Islands and measured by wrapping a strand around the hand, hereditary town chiefs (wots) with heralds (ksens), chiefly polygyny that tied towns together, the 'antap society with its paid initiation, the astronomer-priests ('alchuklash) who named children by the sky and kept the winter solstice rite, painted caves such as Painted Cave, the datura drink at coming of age, the sweathouse, the mourning ceremony, souls leaving from Point Conception for an island of the dead in the west, acorn granaries and bedrock mortars, and watertight coiled baskets. Departs: the bead is held to be a fallen star, the crossing to the dead is paid in beads, debt bondage is a standing institution, and the paying of northern raiders to raid the valleys instead is the culture's own sin."
 ---

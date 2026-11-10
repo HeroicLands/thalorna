@@ -53,12 +53,12 @@ data:
     - name: "tunse"
       definition: "Holy: full of the earth's breath, as a bundle, a pipe or a herd is."
   appearanceProfile:
-    frame: {light: 2, medium: 6, heavy: 2}
+    frame: {scant: 1, light: 4, medium: 5}
     eye_color: {dark_brown: 7, brown: 3}
-    hair_color: {black: 9, dark_brown: 1}
-    skin_color: {tawny: 3, brown: 4, tanned: 3}
-    complexion: {weathered: 5, chapped: 2, leathery: 3}
-    height: {female: {min: 5' 0", max: 5' 7"}, male: {min: 5' 5", max: 6' 1"}}
+    hair_color: {black: 7, dark_brown: 2, brown: 1}
+    skin_color: {tanned: 4, tawny: 3, brown: 2, swarthy: 1}
+    complexion: {weathered: 5, leathery: 2, chapped: 2, sunburnt: 1}
+    height: {female: {min: 5' 3", max: 5' 9"}, male: {min: 5' 8", max: 6' 3"}}
 
 # terran_analog: "The pre-horse Plains bison hunters and the Plains Village farmers ancestral to the Mandan, Hidatsa and Pawnee, around 1100. Carries over: dogs and travois, buffalo jumps and pounds with drive lanes of cairns, such as Head-Smashed-In, the akicita who policed the communal hunt and broke the weapons of anyone who spoiled it, earth lodges owned by women and fortified villages with ditches and palisades, the corn-for-meat trade between villages and bands, winter counts, coups, giveaways, scaffold burial, the Lakota keeping of the soul for a year, and the Mandan ring of skulls outside the village. The Winter of the Ditch is drawn from the Crow Creek massacre of about 1325. Departs: the bands and the villages are one people of one tongue, the raiding ethic is named as the culture's own blind spot, and nobody rides."
 ---

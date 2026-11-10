@@ -11,7 +11,7 @@ data:
   archetypes: [woodsman, warrior]
   occupation: First of the Wall
   lore: []
-  culture: kiichchikclt
+  culture: southkiichchikclt
   homes: [qptlulneok]
   affiliations: {wallsworn: {rank: 5, office: First of the Wall}}
   gender: male

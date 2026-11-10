@@ -49,12 +49,12 @@ data:
     - name: "ts'umulal"
       definition: "Blood, the coin of the sun's ledger, given in drops at the open days and in lives at the great rites."
   appearanceProfile:
-    frame: {light: 3, medium: 5, heavy: 2}
+    frame: {light: 2, medium: 5, heavy: 3}
     eye_color: {dark_brown: 8, brown: 2}
     hair_color: {black: 9, dark_brown: 1}
-    skin_color: {brown: 4, tawny: 3, golden: 2, dark_brown: 1}
-    complexion: {smooth: 4, weathered: 3, clear: 2, ruddy: 1}
-    height: {female: {min: 4' 9", max: 5' 4"}, male: {min: 5' 1", max: 5' 8"}}
+    skin_color: {brown: 5, tawny: 3, olive: 1, dark_brown: 1}
+    complexion: {smooth: 4, clear: 3, weathered: 2, sun_kissed: 1}
+    height: {female: {min: 4' 8", max: 5' 2"}, male: {min: 5' 0", max: 5' 6"}}
 
 # terran_analog: "Mesoamerica: the Classic Maya and the Mexica above all, with the Zapotec and the highland Andes for the south. Carries over: the 365-day and 260-day counts and the fifty-two-year round, the New Fire, the five unlucky days at the year's end, maize-dough humankind, bloodletting and captive sacrifice, the flower-war captive-hunt, the calpolli ward with its house of youths, cacao and jade as money, the paid death rites of the underworld journey, and the Andean counted households, labor turn and knotted cords in the south. Departs: one priesthood serves all ten gods and holds the calendar, the roads and the relay, warriors fight in steel, and the house name rule decides who may shorten whose name."
 ---

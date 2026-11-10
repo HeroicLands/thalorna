@@ -11,7 +11,7 @@ data:
   archetypes: [artisan]
   occupation: Speaker of the Six of the Steel Kin
   lore: []
-  culture: kiichchikclt
+  culture: southkiichchikclt
   homes: [nekiahkul]
   affiliations:
     steelkin: {rank: 4, office: Speaker of the Six}
