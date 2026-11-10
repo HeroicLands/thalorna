@@ -418,9 +418,9 @@ He arranged Lord Kenrel's death at the request of [[being-glyencrdth|Lyenna Kard
 
 He controls the patrol routes and which reports reach the authorities. His conspicuous lack of refinement helps conceal his second life, and he cannot see betrayal coming from someone moved by conscience.
 
-His danger comes from below. A young lieutenant of the garrison, [Caelith]{.name data-type="being/npc"}, has begun to notice investigations that go nowhere and witnesses who change their stories after speaking privately with the captain. Lánthevile's map, laid over the garrison's patrol routes, points straight at the ground his patrols cover most.
+His danger comes from below. A young lieutenant of the garrison, [Kaelith]{.name data-type="being/npc"}, has begun to notice investigations that go nowhere and witnesses who change their stories after speaking privately with the captain. Lánthevile's map, laid over the garrison's patrol routes, points straight at the ground his patrols cover most.
 
-**Hook: the honest lieutenant.** Caelith has written a private letter to a grove-elder of the Grove Council setting out the pattern of botched investigations under Daran's command. It has not been sent. Daran has learned of it through a loyal soldier, and must decide whether to destroy the letter, discredit Caelith, post him somewhere remote or silence him.
+**Hook: the honest lieutenant.** Kaelith has written a private letter to a grove-elder of the Grove Council setting out the pattern of botched investigations under Daran's command. It has not been sent. Daran has learned of it through a loyal soldier, and must decide whether to destroy the letter, discredit Kaelith, post him somewhere remote or silence him.
 
 **Hook: the burned grove.** One of Daran's followers has killed a woodsman who stumbled onto a rite and left the body at the edge of a holy grove. The Grove Council demands a full investigation with an outside observer present, and a party hired as that observer walks beside the man who must make it point anywhere but at his own people.
 

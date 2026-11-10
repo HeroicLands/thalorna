@@ -293,217 +293,202 @@ data:
     - name: Core existence
       holds: Ordinary expressions for the existence category of Core Vocabulary.
   words:
-    - form: Delkoshekh
+    - form: delkoshekh
       class: n
       field: Law, oath and debt
       gloss: "The Ashaian teacher-priest who keeps a community's law and custom"
       source: {kind: borrowed, language: skill-atarzadilng}
-    - form: Tellumi
+    - form: tellumi
       class: name
       field: Derived words
       gloss: the people of the high springs
       built: [te, lu, -mi]
-    - form: Tellumel
+    - form: tellumel
       class: name
       field: Derived words
       gloss: the land of the Tellumi
       built: [te, lu, -mi, -el]
-    - form: Tennelimash
+    - form: tennelimash
       class: name
       field: Derived words
       gloss: high-water town
       built: [te, nelim, -ash]
-    - form: Tashbemun
+    - form: tashbemun
       class: name
       field: Derived words
       gloss: the house of the tower
       built: [tashbem, -un]
-    - form: Turem
-      class: name
-      field: Derived words
-      gloss: "the Breaking: the Atarzád conquest, as the Tellumi call it"
-      built: [turem]
-    - form: Veshkun
-      class: name
-      field: Derived words
-      gloss: "the lost one: the ruin of old Vahurdash"
-      built: [veshkun]
-    - form: Vurinai
+    - form: vurinai
       class: name
       field: Derived words
       gloss: "a man's name: holy"
       built: [vurin, -ai]
-    - form: Lisena
+    - form: lisena
       class: name
       field: Derived words
       gloss: "a woman's name: moon"
       built: [lisen, -a]
-    - form: Vurdish
-      class: name
-      field: Derived words
-      gloss: "the pass: the passages in the Grazian north face; `Gurdi` is retired"
-      built: [vurdish]
-    - form: Henhutpedin
+    - form: henhutpedin
       class: name
       field: Derived words
       gloss: "blood-field: the field of the Breaking outside Zargandur"
       built: [henhut, pedin]
-    - form: Sirveshpedin
+    - form: sirveshpedin
       class: name
       field: Derived words
       gloss: "cursed field: a thin blood-field"
       built: [sirvesh, pedin]
-    - form: Veshkunrelum
+    - form: veshkunrelum
       class: name
       field: Derived words
       gloss: "the song of the lost town: the Tellumi epic of old Vahurdash"
       built: [veshkun, relum]
-    - form: Genbuntsemhat
+    - form: genbuntsemhat
       class: name
       field: Derived words
       gloss: "the recitation of the descent: the roll of the seven peaks"
       built: [genbun, tsemhat]
-    - form: Turemtsemhat
+    - form: turemtsemhat
       class: name
       field: Derived words
       gloss: the recitation of the Breaking
       built: [turem, tsemhat]
-    - form: Tarlimnurmesh
+    - form: tarlimnurmesh
       class: name
       field: Derived words
       gloss: "road-nights: a caravan-master's tales told stage by stage"
       built: [tarlim, nurmesh]
-    - form: Bernirai
+    - form: bernirai
       class: name
       field: Derived words
       gloss: "a man's name: oath; the champion of the song of the lost town"
       built: [bernir, -ai]
-    - form: Revunai
+    - form: revunai
       class: name
       field: Derived words
       gloss: "a man's name: return; Berniray's son"
       built: [revun, -ai]
-    - form: Sunhemai
+    - form: sunhemai
       class: name
       field: Derived words
       gloss: "a man's name: gold; the last prince of old Vahurdash"
       built: [sunhem, -ai]
-    - form: Minesha
+    - form: minesha
       class: name
       field: Derived words
       gloss: "a woman's name: star; Berniray's wife"
       built: [minesh, -a]
-    - form: Tarlimai
+    - form: tarlimai
       class: name
       field: Derived words
       gloss: "a man's name: road; a caravan-master of Kethramír"
       built: [tarlim, -ai]
-    - form: Kireshai
+    - form: kireshai
       class: name
       field: Derived words
       gloss: "a man's name: spear; a rider of the war-house"
       built: [kiresh, -ai]
-    - form: Budishai
+    - form: budishai
       class: name
       field: Derived words
       gloss: "a man's name: shield; a rider of the war-house"
       built: [budish, -ai]
-    - form: Pedunai
+    - form: pedunai
       class: name
       field: Derived words
       gloss: "a man's name: sword; a rider of the war-house"
       built: [pedun, -ai]
-    - form: Garvanai
+    - form: garvanai
       class: name
       field: Derived words
       gloss: "a man's name: horse; a rider of the war-house"
       built: [garvan, -ai]
-    - form: Perimai
+    - form: perimai
       class: name
       field: Derived words
       gloss: "a man's name: hearth; a rider of the war-house"
       built: [perim, -ai]
-    - form: Hageshai
+    - form: hageshai
       class: name
       field: Derived words
       gloss: "a man's name: kept; a rider of the war-house"
       built: [hagesh, -ai]
-    - form: Lirunai
+    - form: lirunai
       class: name
       field: Derived words
       gloss: "a man's name: free; a rider of the war-house"
       built: [lirun, -ai]
-    - form: Gilsumtenhur
+    - form: gilsumtenhur
       class: name
       field: Derived words
       gloss: "snow peak: the peak of the House of Shirvan"
       built: [gilsum, tenhur]
-    - form: Viluntenhur
+    - form: viluntenhur
       class: name
       field: Derived words
       gloss: "white peak: the peak of the House of Ashkarad"
       built: [vilun, tenhur]
-    - form: Kulsamtenhur
+    - form: kulsamtenhur
       class: name
       field: Derived words
       gloss: "black peak: the peak of the House of Zargandur"
       built: [kulsam, tenhur]
-    - form: Talhishtenhur
+    - form: talhishtenhur
       class: name
       field: Derived words
       gloss: "sun peak: the peak of the House of Kethramír"
       built: [talhish, tenhur]
-    - form: Darhertenhur
+    - form: darhertenhur
       class: name
       field: Derived words
       gloss: "red peak: the peak of the House of Vahurdash"
       built: [darher, tenhur]
-    - form: Vursettenhur
+    - form: vursettenhur
       class: name
       field: Derived words
       gloss: "wind peak: the peak of the House of Mernagord"
       built: [vurse, tenhur]
-    - form: Yermimtenhur
+    - form: yermimtenhur
       class: name
       field: Derived words
       gloss: "green peak: the peak of the House of Ushtra-ber"
       built: [yermim, tenhur]
-    - form: Vurinkarvem
+    - form: vurinkarvem
       class: name
       field: Derived words
       gloss: "holy stone: the cliff over the great spring of Shirvan; `Moravar` is retired"
       built: [vurin, karvem]
-    - form: Nivuntarlim
+    - form: nivuntarlim
       class: name
       field: Derived words
       gloss: "the road of the seven: the road along the Tellumel from Mernagord to Ushtra-ber"
       built: [nivun, tarlim]
-    - form: Veshkunvartun
+    - form: veshkunvartun
       class: name
       field: Derived words
       gloss: "the gate of the lost one: the night gate of the settlement among the ruins of old Vahurdash"
       built: [veshkun, vartun]
-    - form: Tashbemsirvesh
+    - form: tashbemsirvesh
       class: name
       field: Derived words
       gloss: "the forbidden tower: the Tower of Silence north of Ashkarad that no priest approaches"
       built: [tashbem, sirvesh]
-    - form: Relvanvesut
+    - form: relvanvesut
       class: name
       field: Derived words
       gloss: "the princes' bones: the grave of the palace household of Zargandur"
       built: [relvan, vesut]
-    - form: Relvanninesh
+    - form: relvanninesh
       class: name
       field: Derived words
       gloss: "the princes' house: the palace of the cadet house of Nimeshun"
       built: [relvan, ninesh]
-    - form: Nimeshun
+    - form: nimeshun
       class: name
       field: Derived words
       gloss: "the house of silver: a cadet line of the craft house of Ashkarad"
       built: [nimesh, -un]
-    - form: Peshdenderat
+    - form: peshdenderat
       class: name
       field: Derived words
       gloss: "the dry well: the shaft below the lower basin of Shirvan"
@@ -6538,11 +6523,11 @@ data:
       tongue: rendered
       why: "the Tellumi rendering of the Atárzadi tribe name Tozhirod"
     - {name: Ahurdaen, tongue: faith}
-    - {name: Tellumi Language, tongue: gloss, built: [Tellumi]}
+    - {name: Tellumi Language, tongue: gloss, built: [tellumi]}
     - {name: Tellumi, tongue: tellumi, built: [te, lu, -mi]}
     - {name: Khazrin Lexicon, tongue: gloss, built: [Khazrin]}
     - {name: Khazrin Word List, tongue: gloss, built: [Khazrin]}
-    - {name: Tellumi Adventurer's Guide, tongue: gloss, built: [Tellumi]}
+    - {name: Tellumi Adventurer's Guide, tongue: gloss, built: [tellumi]}
     - {name: Khazrin Desert Region, tongue: gloss, built: [Khazrin]}
     - {name: Khazrin Desert, tongue: gloss, built: [Khazrin]}
     - name: Khazrin
@@ -6550,7 +6535,7 @@ data:
       why: "the region's name, which stands outside the three tongues"
     - {name: Tellumel, tongue: tellumi, built: [te, lu, -mi, -el]}
     - {name: Dranavár, tongue: khazryn}
-    - {name: Tellumi Confederation, tongue: gloss, built: [Tellumi]}
+    - {name: Tellumi Confederation, tongue: gloss, built: [tellumi]}
     - {name: Council of the Princes, tongue: gloss, built: [tselvun]}
     - name: tselvun
       tongue: tellumi
@@ -6575,9 +6560,9 @@ data:
     - {name: Hemvanay of Mernagord, tongue: gloss, built: [Hemvanai]}
     - {name: Nartemai, tongue: tellumi, built: [nartem, -ai]}
     - {name: Nartemay of Ushtra-ber, tongue: gloss, built: [Nartemai]}
-    - {name: Princes of Tellumel, tongue: gloss, built: [Tellumel]}
-    - {name: The Tellumi Calendar, tongue: gloss, built: [Tellumi]}
-    - {name: Tellumi Calendar, tongue: gloss, built: [Tellumi]}
+    - {name: Princes of Tellumel, tongue: gloss, built: [tellumel]}
+    - {name: The Tellumi Calendar, tongue: gloss, built: [tellumi]}
+    - {name: Tellumi Calendar, tongue: gloss, built: [tellumi]}
     - {name: Ashkarad, tongue: older}
     - {name: Kaldar, tongue: older}
     - {name: Desert of Hek'ar, tongue: older}
@@ -6600,41 +6585,59 @@ data:
     - {name: Sharminah Tahvan, tongue: older}
     - {name: Zevarad Dathvarun, tongue: older}
     - {name: Henhutpedin, tongue: tellumi, built: [henhut, pedin]}
-    - {name: The Blood-field of the Breaking, tongue: gloss, built: [Henhutpedin]}
-    - {name: Veshkun, tongue: tellumi, built: [veshkun]}
-    - {name: The Lost Town, tongue: gloss, built: [Veshkun]}
-    - {name: Vurdish, tongue: tellumi, built: [vurdish]}
-    - {name: The Way Down, tongue: gloss, built: [Vurdish]}
-    - {name: Ruins and Labyrinths of the Grazian Mountains, tongue: gloss, built: [Vurdish]}
-    - {name: The Forgotten Caverns, tongue: gloss, built: [Vurdish]}
+    - {name: The Blood-field of the Breaking, tongue: gloss, built: [henhutpedin]}
+    - name: Veshkun
+      tongue: tellumi
+      built: [veshkun]
+      gloss: "the lost one: the ruin of old Vahurdash"
+    - name: The Lost Town
+      tongue: gloss
+      built: [veshkun]
+      gloss: "the lost one: the ruin of old Vahurdash"
+    - name: Vurdish
+      tongue: tellumi
+      built: [vurdish]
+      gloss: "the pass: the passages in the Grazian north face; `Gurdi` is retired"
+    - name: The Way Down
+      tongue: gloss
+      built: [vurdish]
+      gloss: "the pass: the passages in the Grazian north face; `Gurdi` is retired"
+    - name: Ruins and Labyrinths of the Grazian Mountains
+      tongue: gloss
+      built: [vurdish]
+      gloss: "the pass: the passages in the Grazian north face; `Gurdi` is retired"
+    - name: The Forgotten Caverns
+      tongue: gloss
+      built: [vurdish]
+      gloss: "the pass: the passages in the Grazian north face; `Gurdi` is retired"
     - {name: The League of Princely Houses, tongue: gloss}
     - {name: The Desert Mystic, tongue: gloss}
     - {name: The Flame-born, tongue: gloss}
     - {name: The Twelve Tribes, tongue: gloss}
     - {name: The Twelve Years, tongue: gloss}
     - {name: Hidden-Water Bands, tongue: gloss}
-    - {name: The Song of the Lost Town, tongue: gloss, built: [Veshkunrelum]}
+    - {name: The Song of the Lost Town, tongue: gloss, built: [veshkunrelum]}
     - {name: Veshkunrelum, tongue: tellumi, built: [veshkun, relum]}
-    - {name: The Coming Down, tongue: gloss, built: [Genbuntsemhat]}
+    - {name: The Coming Down, tongue: gloss, built: [genbuntsemhat]}
     - {name: Genbuntsemhat, tongue: tellumi, built: [genbun, tsemhat]}
-    - {name: The Recitation of the Breaking, tongue: gloss, built: [Turemtsemhat]}
+    - {name: The Recitation of the Breaking, tongue: gloss, built: [turemtsemhat]}
     - {name: Turemtsemhat, tongue: tellumi, built: [turem, tsemhat]}
-    - {name: The Nights of the Road, tongue: gloss, built: [Tarlimnurmesh]}
+    - {name: The Nights of the Road, tongue: gloss, built: [tarlimnurmesh]}
     - {name: Tarlimnurmesh, tongue: tellumi, built: [tarlim, nurmesh]}
     - {name: Veshkunvartun, tongue: tellumi, built: [veshkun, vartun]}
-    - {name: The Gate of Veshkun, tongue: gloss, built: [Veshkunvartun]}
-    - {name: The Barred Gate, tongue: gloss, built: [Veshkunvartun]}
+    - {name: The Gate of Veshkun, tongue: gloss, built: [veshkunvartun]}
+    - {name: The Barred Gate, tongue: gloss, built: [veshkunvartun]}
     - {name: Tashbemsirvesh, tongue: tellumi, built: [tashbem, sirvesh]}
-    - {name: The Empty Tower, tongue: gloss, built: [Tashbemsirvesh]}
+    - {name: The Empty Tower, tongue: gloss, built: [tashbemsirvesh]}
     - {name: Relvanvesut, tongue: tellumi, built: [relvan, vesut]}
-    - {name: Zargandur's Trench, tongue: gloss, built: [Relvanvesut]}
-    - {name: The Princes' Bones, tongue: gloss, built: [Relvanvesut]}
+    - {name: Zargandur's Trench, tongue: gloss, built: [relvanvesut]}
+    - {name: The Princes' Bones, tongue: gloss, built: [relvanvesut]}
     - {name: Relvanninesh, tongue: tellumi, built: [relvan, ninesh]}
-    - {name: The Glass Princes' Palace, tongue: gloss, built: [Relvanninesh]}
-    - {name: The Palace of Glass, tongue: gloss, built: [Relvanninesh]}
+    - {name: The Glass Princes' Palace, tongue: gloss, built: [relvanninesh]}
+    - {name: The Palace of Glass, tongue: gloss, built: [relvanninesh]}
     - {name: Peshdenderat, tongue: tellumi, built: [peshden, derat]}
-    - {name: The Dry Well of Shirvan, tongue: gloss, built: [Peshdenderat]}
-    - {name: The Dry Well, tongue: gloss, built: [Peshdenderat]}
+    - {name: The Dry Well of Shirvan, tongue: gloss, built: [peshdenderat]}
+    - {name: The Dry Well, tongue: gloss, built: [peshdenderat]}
     - {name: Kenbeshai, tongue: tellumi, built: [kenbesh, -ai]}
     - {name: Priest Kenbeshay, tongue: gloss, built: [Kenbeshai]}
     - {name: Mavesha, tongue: tellumi, built: [mavesh, -a]}
@@ -6643,26 +6646,26 @@ data:
     - {name: High Priestess Valsuma, tongue: gloss, built: [Valsuma]}
     - {name: Pedunai, tongue: tellumi, built: [pedun, -ai]}
     - {name: Bulamun, tongue: tellumi, built: [bulam, -un]}
-    - {name: Pedunay Bulamun, tongue: gloss, built: [Pedunai, Bulamun]}
+    - {name: Pedunay Bulamun, tongue: gloss, built: [pedunai, Bulamun]}
     - {name: Kireshai, tongue: tellumi, built: [kiresh, -ai]}
-    - {name: Captain Kireshay, tongue: gloss, built: [Kireshai]}
+    - {name: Captain Kireshay, tongue: gloss, built: [kireshai]}
     - {name: Vurinai, tongue: tellumi, built: [vurin, -ai]}
-    - {name: Saint Vurinay the Ascendant, tongue: gloss, built: [Vurinai]}
-    - {name: Saint Vurinay, tongue: gloss, built: [Vurinai]}
+    - {name: Saint Vurinay the Ascendant, tongue: gloss, built: [vurinai]}
+    - {name: Saint Vurinay, tongue: gloss, built: [vurinai]}
     - {name: Sunhema, tongue: tellumi, built: [sunhem, -a]}
     - {name: Karvemun, tongue: tellumi, built: [karvem, -un]}
     - {name: Sunhema Karvemun, tongue: gloss, built: [Sunhema, Karvemun]}
     - {name: Merchant Princess Sunhema, tongue: gloss, built: [Sunhema]}
     - {name: Revunai, tongue: tellumi, built: [revun, -ai]}
     - {name: Kishneshun, tongue: tellumi, built: [kishnesh, -un]}
-    - {name: Revunay Kishneshun, tongue: gloss, built: [Revunai, Kishneshun]}
-    - {name: Duke Revunay, tongue: gloss, built: [Revunai]}
+    - {name: Revunay Kishneshun, tongue: gloss, built: [revunai, Kishneshun]}
+    - {name: Duke Revunay, tongue: gloss, built: [revunai]}
     - {name: Vemuna, tongue: tellumi, built: [vemun, -a]}
     - {name: Tamkerun, tongue: tellumi, built: [tamker, -un]}
     - {name: Vemuna Tamkerun, tongue: gloss, built: [Vemuna, Tamkerun]}
     - {name: High Artisan Vemuna Tamkerun, tongue: gloss, built: [Vemuna, Tamkerun]}
     - {name: High Artisan Vemuna, tongue: gloss, built: [Vemuna]}
-    - {name: Household of Relvanninesh, tongue: gloss, built: [Relvanninesh]}
+    - {name: Household of Relvanninesh, tongue: gloss, built: [relvanninesh]}
     - {name: The Princes' Household, tongue: translation}
     - {name: Stranger, tongue: translation}
     - {name: Servant of the House, tongue: translation}
@@ -6670,7 +6673,11 @@ data:
     - {name: Prince, tongue: translation}
     - {name: Steward, tongue: translation}
     - {name: Vurinkarvem, tongue: tellumi, built: [vurin, karvem]}
-    - {name: Vurinkarvem Cliff, tongue: gloss, built: [Vurinkarvem]}
+    - {name: Vurinkarvem Cliff, tongue: gloss, built: [vurinkarvem]}
+    - name: Turem
+      tongue: tellumi
+      built: [turem]
+      gloss: "the Breaking: the Atarzád conquest, as the Tellumi call it"
   older:
     - {form: Ashkarad}
     - {form: Kaldar}
@@ -6959,7 +6966,7 @@ The three language notes are in it as well.
 Every name of every note in the region stands in the register of the tongue it belongs to, with the note it names and its tag. A name in one of the three tongues carries its derivation.
 
 ```sql
-SELECT name AS "Name", coalesce(array_to_string(list_transform(notes, n -> '[[' || n || '|]]'), ', '), '—') AS "Address", '`' || tongue || '`' AS "Language",
+SELECT name AS "Name", coalesce(array_to_string(list_distinct(list_transform(notes, n -> '[[' || split_part(n, '#', 1) || '|]]')), ', '), '—') AS "Address", '`' || tongue || '`' AS "Language", gloss AS "Meaning",
        CASE WHEN why IS NOT NULL THEN why
             WHEN tongue = 'older' THEN 'a name older than the rules'
             WHEN tongue = 'gloss' THEN CASE WHEN built IS NULL THEN '—' ELSE 'a glossed name on ' || array_to_string(list_transform(built, x -> '`' || x || '`'), ' and ') END

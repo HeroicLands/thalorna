@@ -10,8 +10,8 @@ data:
   lore: []
   parents: [lisere]
   routes:
-    - {to: hendrel, bearing: NE, mode: land, days: 1, terrain: [road]}
-    - {to: coastroad, bearing: NE, mode: land, days: 2, terrain: [road]}
+    - {to: hendrel, bearing: NE, mode: land, days: 5, terrain: [road]}
+    - {to: coastroad, bearing: NE, mode: land, days: 10, terrain: [road]}
   population: 260
   government: beaconfamlys
   packFolder: elavendre
@@ -49,7 +49,7 @@ From the village's point the watch sees the bay's southern shore to the northeas
 
 ## The Cost of Reaching It {#cost-of-reaching-it}
 
-Harnasel is a day's walk from Hendrel along the road, and the road is good until the last mile, where the forest comes down and the track turns to roots and standing water in a wet month. The cost is in what a party asks the village for. The Wardens' path begins at the end of the bake-house yard and nobody will point to it. A party that wants to go in by it hears the same sentence from every door: the woods are the Áelendan's.
+Harnasel is five days' walk from Hendrel along the road, and the road is good until the last mile, where the forest comes down and the track turns to roots and standing water in a wet month. The cost is in what a party asks the village for. The Wardens' path begins at the end of the bake-house yard and nobody will point to it. A party that wants to go in by it hears the same sentence from every door: the woods are the Áelendan's.
 
 ## Hooks {#hooks}
 

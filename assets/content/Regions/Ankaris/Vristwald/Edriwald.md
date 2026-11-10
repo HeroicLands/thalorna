@@ -14,13 +14,13 @@ data:
     - {to: falkhaven, bearing: W, mode: land, days: 45, terrain: [forest]}
     - {to: thornwald, bearing: E, mode: land, days: 45, terrain: [forest]}
     - {to: morthalmrch, bearing: SW, mode: land, days: 3, terrain: [coast, track]}
-    - {to: sarmelis, bearing: SW, mode: land, days: 5, terrain: [coast, track]}
+    - {to: durmelen, bearing: SW, mode: land, days: 5, terrain: [coast, track]}
   packFolder: vrystwald
 ---
 
 ## Around the Bay
 
-Edriwald follows the bay-facing edge of [[place-vrystwald|Vristwald]]. [[place-calypsacity|Kalipsa]] lies on an island farther west. Across the water lie the northern lands of [[place-elavendre|Élavendre]]. At its southwestern end the bay road, the one land road round the head of the bay, goes down through [[place-morthalmrch|the Morthal March]] to [[place-sarmelis|Sarmelis]], four or five days on foot, and the Morthal Watch counts what crosses at its causeway.
+Edriwald follows the bay-facing edge of [[place-vrystwald|Vristwald]]. [[place-calypsacity|Kalipsa]] lies on an island farther west. Across the water lie the northern lands of [[place-elavendre|Élavendre]]. At its southwestern end the bay road, the one land road round the head of the bay, goes down through [[place-morthalmrch|the Morthal March]] to [[place-durmelen|Durmelen]], four or five days on foot, and the Morthal Watch counts what crosses at its causeway. From the fort, [[place-coastroad|the Coast Road]] follows the southern shore to [[place-sarmelis|Sarmelis]], another ten days on foot in fair weather.
 
 The conflict here concerns sacred ground. [[affiliation-alndnwrdns|Áelendan Wardens]] seek to keep [[lore-varokhiclt|Varokh]] parties out of places they guard; a crossing that looks like passage to one side can look like trespass to the other. The Wardens have no separate record yet, and no village council in Edriwald can bind the rest of Vristwald to its answer. A party planning to follow the bay must ask at each landing whose claim a path crosses.
 

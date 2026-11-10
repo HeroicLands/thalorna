@@ -3,7 +3,7 @@ shortcode: morthalmrch
 name: {full: The Morthal March}
 type: place
 subType: region
-description: "The strip of shore and wooded hill east of Sarmelis where Lísere gives way to the hills of Áuldalon, and the one land road round the head of Lísere Bay into Vristwald, held for the crown by the Morthal Watch."
+description: "The strip of shore and wooded hill east of Durmelen where Lísere gives way to the hills of Áuldalon, and the one land road round the head of Lísere Bay into Vristwald, held for the crown by the Morthal Watch."
 tags: [region, frontier, march]
 data:
   demonym: null
@@ -12,7 +12,7 @@ data:
   population: 6000
   borders: [{to: edriwald, bearing: NE}]
   routes:
-    - {to: sarmelis, bearing: W, mode: land, days: 1, terrain: [coast, track]}
+    - {to: durmelen, bearing: W, mode: land, days: 1, terrain: [coast, track]}
     - {to: edriwald, bearing: NE, mode: land, days: 3, terrain: [coast, track]}
   government: kngdmlvndr
   packFolder: elavendre
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-The **Morthal March** is the crown's frontier at the head of [[place-liserebay|Lísere Bay]]. It lies east of [[place-sarmelis|Sarmelis]], where the low shingle shore of [[place-lisere|Lísere]] gives way to the northern hills of [[place-auldalon|Áuldalon]], and it carries the one road by which a traveler on foot gets from [[place-vrystwald|Vristwald]] into Élavendre without crossing the water. The [[affiliation-morthalwtch|Morthal Watch]] holds the road under the Warden of Morthal, and the Watch is the crown's and nobody else's.
+The **Morthal March** is the crown's frontier at the head of [[place-liserebay|Lísere Bay]]. It lies east of [[place-durmelen|Durmelen]], where the low shingle shore of [[place-lisere|Lísere]] gives way to the northern hills of [[place-auldalon|Áuldalon]], and it carries the one road by which a traveler on foot gets from [[place-vrystwald|Vristwald]] into Élavendre without crossing the water. The [[affiliation-morthalwtch|Morthal Watch]] holds the road under the Warden of Morthal, and the Watch is the crown's and nobody else's.
 
 The name is Élavendri and the Watch's people use it for the whole strip, shore and hill together. Outside the March the road is called the bay road.
 
@@ -32,7 +32,7 @@ The road keeps to the firm ground between the bog and the first ridge. At one pl
 
 ## Who Holds It {#who-holds-it}
 
-The Watch holds the road, from the edge of Sarmelis's country to the first of the hill steadings. It counts what crosses, turns back what is armed and unannounced, and sends word along the [[affiliation-beaconfamlys|Beacon Families]]' chain and by rider when a war-party shows. The crown's sheriff at Sarmelis holds the crown's pleas in the March as he does on the shore, and the Watch does not try a case.
+The Watch holds the road, from the road beyond Durmelen to the first of the hill steadings. It counts what crosses, turns back what is armed and unannounced, and sends word along the [[affiliation-beaconfamlys|Beacon Families]]' chain and by rider when a war-party shows. The crown's sheriff at Sarmelis holds the crown's pleas in the March as he does on the shore, and the Watch does not try a case.
 
 The heights above the road belong to the Wardens. The Watch may follow a raider uphill as far as the tree line and no farther, because the crown's oath stops there ([[lore-firstcrown|The First Crowning of Élavendre]]). Past the line the Wardens deal with whatever has come, in their own way and on their own count, and they do not report it.
 
@@ -44,7 +44,7 @@ The second quarrel is quieter. [[affiliation-ordoarcanis|Order]] agents who want
 
 ## Roads and Trade {#roads-and-trade}
 
-The bay road is slower than the water and safer in a gale. From [[place-sarmelis|Sarmelis]] it is a day to the causeway, and three more round the head of the bay to the first steadings of [[place-edriwald|Edriwald]]. Varokh who would rather trade than raid bring furs round the head of the bay on pack ponies, and the Watch lets them through at the tally-post for a toll and a count, which is the same arrangement the furs have by boat at [[place-sarmelis|Sarmelis]]. In the hill steadings the Watch's riders are the only law that comes up the valley more than once a year, and the steadings feed them for it.
+The bay road is slower than the water and safer in a gale. From [[place-durmelen|Durmelen]] it is a day to the causeway, and three more round the head of the bay to the first steadings of [[place-edriwald|Edriwald]]. [[place-sarmelis|Sarmelis]] lies ten days farther southwest along the Coast Road. Varokh who would rather trade than raid bring furs round the head of the bay on pack ponies, and the Watch lets them through at the tally-post for a toll and a count, which is the same arrangement the furs have by boat at [[place-sarmelis|Sarmelis]]. In the hill steadings the Watch's riders are the only law that comes up the valley more than once a year, and the steadings feed them for it.
 
 ## Dangers {#dangers}
 
@@ -61,7 +61,7 @@ The road is older than the Watch. It was the way the earliest Varokh bands came 
 ## Hooks {#hooks}
 
 - **The causeway toll.** A Varokh headman with forty ponies of furs asks the party to vouch for him at the tally-post, because the Watch's serjeant knows his face from a raid.
-- **The fourth party.** An Order scholar's clerk comes down off the ridges alone, without the rest of his party and without his notes, and asks the Watch to be taken to Sarmelis before dark.
+- **The fourth party.** An Order scholar's clerk comes down off the ridges alone, without the rest of his party and without his notes, and asks the Watch to be taken to Durmelen before dark.
 - **The line.** A Rider of the Watch followed a raider past the tree line two nights ago and has not come back, and the Warden of Morthal wants someone who is not the crown's to ask the Wardens.
 
 ## See Also {#see-also}

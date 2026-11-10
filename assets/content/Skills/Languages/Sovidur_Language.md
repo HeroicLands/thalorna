@@ -270,363 +270,278 @@ data:
     - {"name": "Everyday society", "holds": "Ordinary vocabulary for society."}
     - {"name": "Everyday existence", "holds": "Ordinary vocabulary for existence."}
   words:
-    - form: Sovidur
+    - form: sovidur
       class: name
       field: Derived words
       gloss: "the riders, the steppe peoples' name for themselves"
       built: [sovid, -ur]
-    - form: Orghunoq
+    - form: orghunoq
       class: name
       field: Derived words
       gloss: the union an orghun forces over tribes
       built: [orghun, -oq]
-    - form: Koduyur
+    - form: koduyur
       class: name
       field: Derived words
       gloss: the horse people
       built: [kodu, -ur]
-    - form: Koduyuruvaq
+    - form: koduyuruvaq
       class: name
       field: Derived words
       gloss: horse of the wind
       built: [kodu, uruvaq]
-    - form: Jedororoqid
+    - form: jedororoqid
       class: name
       field: Derived words
       gloss: "road camp, a caravan halt"
       built: [jedor, oroqid]
-    - form: Diqraqor
+    - form: diqraqor
       class: name
       field: Derived words
       gloss: the stone range
       built: [diqraq, -or]
-    - {form: Jadakud, class: name, field: Derived words, gloss: a raider, built: [jadaq, -ud]}
-    - form: Voghaltoliz
+    - {form: jadakud, class: name, field: Derived words, gloss: a raider, built: [jadaq, -ud]}
+    - form: voghaltoliz
       class: name
       field: Derived words
       gloss: "a man's name: wolf-spear"
       built: [voghal, toliz]
-    - form: Tijodlun
+    - form: tijodlun
       class: name
       field: Derived words
       gloss: "a woman's name: star"
       built: [tijod, -lun]
-    - form: Atazkharu
+    - form: atazkharu
       class: name
       field: Derived words
       gloss: "a man's name: dusk-patience"
       built: [ataz, kharu]
-    - form: Chuyelqiimod
+    - form: chuyelqiimod
       class: name
       field: Derived words
       gloss: "a title: jackal-silent, what the steppe calls Atazkharu"
       built: [chuyel, qiimod]
-    - form: Uruvolur
+    - form: uruvolur
       class: name
       field: Derived words
       gloss: "the water people: the hidden-water bands of the Central Sands"
       built: [uruvol, -ur]
-    - form: Jobizur
+    - form: jobizur
       class: name
       field: Derived words
       gloss: "the kin people: the largest steppe tribe, which takes in the families of its neighbors"
       built: [jobiz, -ur]
-    - form: Qibudur
+    - form: qibudur
       class: name
       field: Derived words
       gloss: "the token people: the tribe of the eastern grass, whose riders trade on credit"
       built: [qibud, -ur]
-    - form: Oroqidur
+    - form: oroqidur
       class: name
       field: Derived words
       gloss: "the camp people: the small tribe of the deep desert"
       built: [oroqid, -ur]
-    - form: Kenodur
+    - form: kenodur
       class: name
       field: Derived words
       gloss: "the sword people: the raiding tribe of the southern steppe"
       built: [kenod, -ur]
-    - form: Koserur
+    - form: koserur
       class: name
       field: Derived words
       gloss: "the passage people: the tribe of the central steppe, who live by the tolls of the caravans"
       built: [koser, -ur]
-    - form: Ghotaqor
+    - form: ghotaqor
       class: name
       field: Derived words
       gloss: "the forest range: the northern taiga"
       built: [ghotaq, -or]
-    - form: Volketor
+    - form: volketor
       class: name
       field: Derived words
       gloss: "the grass range: the Western Margin"
       built: [volket, -or]
-    - form: Ghoshiqor
+    - form: ghoshiqor
       class: name
       field: Derived words
       gloss: "the sand range: the Central Sands"
       built: [ghoshiq, -or]
-    - form: Idvaqor
+    - form: idvaqor
       class: name
       field: Derived words
       gloss: "the east range: the Eastern Stone Desert"
       built: [idvaq, -or]
-    - form: Bolid
-      class: name
-      field: Derived words
-      gloss: "tower: the buried tower city of the western margin"
-      built: [bolid]
-    - form: Jilaq
-      class: name
-      field: Derived words
-      gloss: "lantern: the tower league's chief city"
-      built: [jilaq]
-    - form: Vulud
-      class: name
-      field: Derived words
-      gloss: "wonder: the half-buried tower city"
-      built: [vulud]
-    - form: Evod
-      class: name
-      field: Derived words
-      gloss: "lake: the dry salt lake"
-      built: [evod]
-    - form: Kelod
-      class: name
-      field: Derived words
-      gloss: "well: the stepped well"
-      built: [kelod]
-    - form: Vomek
-      class: name
-      field: Derived words
-      gloss: "the dead: the oasis nobody uses"
-      built: [vomek]
-    - form: Qiimod
-      class: name
-      field: Derived words
-      gloss: "silent: the sacked caravan town on the spur"
-      built: [qiimod]
-    - form: Oshiqor
+    - form: oshiqor
       class: name
       field: Derived words
       gloss: "the bone range: the rock-cut tombs of the uplands"
       built: [oshiq, -or]
-    - form: Uruvaq
-      class: name
-      field: Derived words
-      gloss: "wind: the hollow hills"
-      built: [uruvaq]
-    - form: Oroqid
-      class: name
-      field: Derived words
-      gloss: "camp: the Vilérian fort"
-      built: [oroqid]
-    - form: Qiiso
-      class: name
-      field: Derived words
-      gloss: "price: the Central Road's seasonal market-camp"
-      built: [qiiso]
-    - form: Yemok
-      class: name
-      field: Derived words
-      gloss: "oath: the hand-off well at the west of the Central Sands"
-      built: [yemok]
-    - form: Sovid
-      class: name
-      field: Derived words
-      gloss: "rider: the hand-off well at the east of the Central Sands"
-      built: [sovid]
-    - form: Kelodud
+    - form: kelodud
       class: name
       field: Derived words
       gloss: "well-doer: the well-lurker"
       built: [kelod, -ud]
-    - form: Orqazud
+    - form: orqazud
       class: name
       field: Derived words
       gloss: "heat-doer: the mirage-stalker"
       built: [orqaz, -ud]
-    - form: Ghoshikud
+    - form: ghoshikud
       class: name
       field: Derived words
       gloss: "sand-doer: the pit-maker"
       built: [ghoshiq, -ud]
-    - form: Budaq
-      class: name
-      field: Derived words
-      gloss: "vulture: the road-vulture"
-      built: [budaq]
-    - form: Guredor
+    - form: guredor
       class: name
       field: Derived words
       gloss: "camel of the range: the wild bull camel"
       built: [gured, -or]
-    - form: Yolakud
+    - form: yolakud
       class: name
       field: Derived words
       gloss: "salt-doer: the salt-dust spirit"
       built: [yolaq, -ud]
-    - form: Numaq
-      class: name
-      field: Derived words
-      gloss: "night: the tower-roost colony"
-      built: [numaq]
-    - form: Yiqnotud
+    - form: yiqnotud
       class: name
       field: Derived words
       gloss: "the hunter: the steppe hunter"
       built: [yiqnot, -ud]
-    - form: Kedok
-      class: name
-      field: Derived words
-      gloss: "blood-ground: a blood-field"
-      built: [kedok]
-    - form: Vesuk
-      class: name
-      field: Derived words
-      gloss: "cursed ground: a thin blood-field"
-      built: [vesuk]
-    - form: Vomekoqod
+    - form: vomekoqod
       class: name
       field: Derived words
       gloss: "the calling at Vomek: the names held for the dead of the oasis"
       built: [vomek, oqod]
-    - form: Uruvolkuyad
+    - form: uruvolkuyad
       class: name
       field: Derived words
       gloss: "the buried water: the Oroqidur star-song of the lake under the sand"
       built: [uruvol, kuyad]
-    - form: Gorentoliz
+    - form: gorentoliz
       class: name
       field: Derived words
       gloss: "a man's name: storm-spear; the dovaq made to watch at Vomek"
       built: [goren, toliz]
-    - form: Khuvanur
+    - form: khuvanur
       class: name
       field: Derived words
       gloss: "the deer people: the tribe killed at Vomek"
       built: [khuvan, -ur]
-    - form: Kesukur
+    - form: kesukur
       class: name
       field: Derived words
       gloss: "the eagle people: the tribe that took in the survivors of Vomek"
       built: [kesuk, -ur]
-    - form: Savaghlun
+    - form: savaghlun
       class: name
       field: Derived words
       gloss: "a woman's name: moon"
       built: [savagh, -lun]
-    - form: Bovilun
+    - form: bovilun
       class: name
       field: Derived words
       gloss: "a woman's name: snow"
       built: [bovi, -lun]
-    - form: Voyerlun
+    - form: voyerlun
       class: name
       field: Derived words
       gloss: "a woman's name: milk"
       built: [voyer, -lun]
-    - form: Uruvolun
+    - form: uruvolun
       class: name
       field: Derived words
       gloss: "a woman's name: water; a guide of the hidden-water bands"
       built: [uruvol, -lun]
-    - form: Khilodtoliz
+    - form: khilodtoliz
       class: name
       field: Derived words
       gloss: "a man's name: sun-spear; a rider of the Kenodur"
       built: [khilod, toliz]
-    - form: Kelodekon
+    - form: kelodekon
       class: name
       field: Derived words
       gloss: "the well-mother: the keeper at the bottom of the stepped well"
       built: [kelod, ekon]
-    - form: Khamaqjivoq
-      class: name
-      field: Derived words
-      gloss: "the skull-pole: a star the Oroqidur steer by"
-      built: [khamaq, jivoq]
-    - form: Khilodlun
+    - form: khilodlun
       class: name
       field: Derived words
       gloss: "a woman's name: sun; the chief of the Jobizur"
       built: [khilod, -lun]
-    - form: Kesukyemok
+    - form: kesukyemok
       class: name
       field: Derived words
       gloss: "a man's name: eagle-oath; a shaman of the Jobizur; `Darius` is retired"
       built: [kesuk, yemok]
-    - form: Khuvankenod
+    - form: khuvankenod
       class: name
       field: Derived words
       gloss: "a man's name: deer-sword; a desert lord who races camels"
       built: [khuvan, kenod]
-    - form: Kelodvotri
+    - form: kelodvotri
       class: name
       field: Derived words
       gloss: "the cold well: an owned spring of the Kuuyoyur"
       built: [kelod, votri]
-    - form: Kuuyoyur
+    - form: kuuyoyur
       class: name
       field: Derived words
       gloss: "the arrow people: the tribe that owns the cold well"
       built: [kuuyo, -ur]
-    - form: Bodekud
+    - form: bodekud
       class: name
       field: Derived words
       gloss: "the one who owns the water: the thing in the cistern of the cold well"
       built: [bodek, -ud]
-    - form: Gorenghakhiq
+    - form: gorenghakhiq
       class: name
       field: Derived words
       gloss: "a man's name: storm-bow; a caravan guide of the grass"
       built: [goren, ghakhiq]
-    - form: Numaqlun
+    - form: numaqlun
       class: name
       field: Derived words
       gloss: "a woman's name: night; the wife of the warden of the cold well"
       built: [numaq, -lun]
-    - form: Budaqtoliz
+    - form: budaqtoliz
       class: name
       field: Derived words
       gloss: "a man's name: vulture-spear; a rider of the Kuuyoyur"
       built: [budaq, toliz]
-    - form: Voghalkenod
+    - form: voghalkenod
       class: name
       field: Derived words
       gloss: "a man's name: wolf-sword; the water-warden of the cold well"
       built: [voghal, kenod]
-    - form: Bolidqiiso
+    - form: bolidqiiso
       class: name
       field: Derived words
       gloss: "the price-tower: a counting-house tower of Vulud"
       built: [bolid, qiiso]
-    - form: Sovidiqraq
+    - form: sovidiqraq
       class: name
       field: Derived words
       gloss: "the stone escort: the watchman of the price-tower"
       built: [sovid, diqraq]
-    - form: Kesukenod
+    - form: kesukenod
       class: name
       field: Derived words
       gloss: "a man's name: eagle-sword; a hired hand at the price-tower"
       built: [kesuk, kenod]
-    - form: Juchonkelod
+    - form: juchonkelod
       class: name
       field: Derived words
       gloss: "the moot well: the Koserur's central well and gathering place"
       built: [juchon, kelod]
-    - form: Dolqonkelod
+    - form: dolqonkelod
       class: name
       field: Derived words
       gloss: "the north well: the Koserur's northern well"
       built: [dolqon, kelod]
-    - form: Idvaqkelod
+    - form: idvaqkelod
       class: name
       field: Derived words
       gloss: "the east well: the Koserur's eastern well, nearest the Qibudur"
       built: [idvaq, kelod]
-    - form: Gorenevod
+    - form: gorenevod
       class: name
       field: Derived words
       gloss: "the storm lake: the Koserur's seasonal camp, where storms fill the pans"
@@ -6946,62 +6861,104 @@ data:
       gloss: "to foul water; to make a well or spring undrinkable"
       source: {kind: coined}
   register:
-    - {name: Sovidur Language, tongue: gloss, built: [Sovidur]}
+    - {name: Sovidur Language, tongue: gloss, built: [sovidur]}
     - {name: Sovidur, tongue: sowides, built: [sovid, -ur]}
     - {name: Ghotaqor, tongue: sowides, built: [ghotaq, -or]}
-    - {name: The Northern Taiga, tongue: gloss, built: [Ghotaqor]}
+    - {name: The Northern Taiga, tongue: gloss, built: [ghotaqor]}
     - {name: Volketor, tongue: sowides, built: [volket, -or]}
-    - {name: The Western Margin, tongue: gloss, built: [Volketor]}
+    - {name: The Western Margin, tongue: gloss, built: [volketor]}
     - {name: Ghoshiqor, tongue: sowides, built: [ghoshiq, -or]}
-    - {name: The Central Sands, tongue: gloss, built: [Ghoshiqor]}
+    - {name: The Central Sands, tongue: gloss, built: [ghoshiqor]}
     - {name: Diqraqor, tongue: sowides, built: [diqraq, -or]}
-    - {name: The Stone Uplands, tongue: gloss, built: [Diqraqor]}
+    - {name: The Stone Uplands, tongue: gloss, built: [diqraqor]}
     - {name: Idvaqor, tongue: sowides, built: [idvaq, -or]}
-    - {name: The Eastern Stone Desert, tongue: gloss, built: [Idvaqor]}
-    - {name: Qiiso, tongue: sowides, built: [qiiso]}
-    - {name: The Central Market-Camp, tongue: gloss, built: [Qiiso]}
-    - {name: Yemok, tongue: sowides, built: [yemok]}
-    - {name: The Oath Well, tongue: gloss, built: [Yemok]}
-    - {name: Sovid, tongue: sowides, built: [sovid]}
-    - {name: The Riders' Well, tongue: gloss, built: [Sovid]}
-    - {name: The Sovidur Reckoning, tongue: gloss, built: [Sovidur]}
-    - {name: Steppe Reckoning, tongue: gloss, built: [Sovidur]}
-    - {name: Vulud, tongue: sowides, built: [vulud]}
-    - {name: The Half-Buried Towers, tongue: gloss, built: [Vulud]}
+    - {name: The Eastern Stone Desert, tongue: gloss, built: [idvaqor]}
+    - name: Qiiso
+      tongue: sowides
+      built: [qiiso]
+      gloss: "price: the Central Road's seasonal market-camp"
+    - name: The Central Market-Camp
+      tongue: gloss
+      built: [qiiso]
+      gloss: "price: the Central Road's seasonal market-camp"
+    - name: Yemok
+      tongue: sowides
+      built: [yemok]
+      gloss: "oath: the hand-off well at the west of the Central Sands"
+    - name: The Oath Well
+      tongue: gloss
+      built: [yemok]
+      gloss: "oath: the hand-off well at the west of the Central Sands"
+    - name: Sovid
+      tongue: sowides
+      built: [sovid]
+      gloss: "rider: the hand-off well at the east of the Central Sands"
+    - name: The Riders' Well
+      tongue: gloss
+      built: [sovid]
+      gloss: "rider: the hand-off well at the east of the Central Sands"
+    - {name: The Sovidur Reckoning, tongue: gloss, built: [sovidur]}
+    - {name: Steppe Reckoning, tongue: gloss, built: [sovidur]}
+    - {name: Vulud, tongue: sowides, built: [vulud], gloss: "wonder: the half-buried tower city"}
+    - name: The Half-Buried Towers
+      tongue: gloss
+      built: [vulud]
+      gloss: "wonder: the half-buried tower city"
     - {name: Kelodvotri, tongue: sowides, built: [kelod, votri]}
-    - {name: The Cold Well, tongue: gloss, built: [Kelodvotri]}
+    - {name: The Cold Well, tongue: gloss, built: [kelodvotri]}
     - {name: Bolidqiiso, tongue: sowides, built: [bolid, qiiso]}
-    - {name: The Counting-House Tower, tongue: gloss, built: [Bolidqiiso]}
-    - {name: The Price-Tower, tongue: gloss, built: [Bolidqiiso]}
-    - {name: Jilaq, tongue: sowides, built: [jilaq]}
-    - {name: The Lantern City, tongue: gloss, built: [Jilaq]}
-    - {name: Vomek, tongue: sowides, built: [vomek]}
-    - {name: The Green Oasis, tongue: gloss, built: [Vomek]}
-    - {name: Qiimod, tongue: sowides, built: [qiimod]}
-    - {name: The Silent Market, tongue: gloss, built: [Qiimod]}
-    - {name: Evod, tongue: sowides, built: [evod]}
-    - {name: The Salt Basin, tongue: gloss, built: [Evod]}
-    - {name: Kelod, tongue: sowides, built: [kelod]}
-    - {name: The Stepped Well, tongue: gloss, built: [Kelod]}
+    - {name: The Counting-House Tower, tongue: gloss, built: [bolidqiiso]}
+    - {name: The Price-Tower, tongue: gloss, built: [bolidqiiso]}
+    - name: Jilaq
+      tongue: sowides
+      built: [jilaq]
+      gloss: "lantern: the tower league's chief city"
+    - name: The Lantern City
+      tongue: gloss
+      built: [jilaq]
+      gloss: "lantern: the tower league's chief city"
+    - {name: Vomek, tongue: sowides, built: [vomek], gloss: "the dead: the oasis nobody uses"}
+    - name: The Green Oasis
+      tongue: gloss
+      built: [vomek]
+      gloss: "the dead: the oasis nobody uses"
+    - name: Qiimod
+      tongue: sowides
+      built: [qiimod]
+      gloss: "silent: the sacked caravan town on the spur; the silent one"
+    - name: The Silent Market
+      tongue: gloss
+      built: [qiimod]
+      gloss: "silent: the sacked caravan town on the spur"
+    - {name: Evod, tongue: sowides, built: [evod], gloss: "lake: the dry salt lake"}
+    - {name: The Salt Basin, tongue: gloss, built: [evod], gloss: "lake: the dry salt lake"}
+    - {name: Kelod, tongue: sowides, built: [kelod], gloss: "well: the stepped well"}
+    - {name: The Stepped Well, tongue: gloss, built: [kelod], gloss: "well: the stepped well"}
     - {name: Oshiqor, tongue: sowides, built: [oshiq, -or]}
-    - {name: The Sunken Kings' Steps, tongue: gloss, built: [Oshiqor]}
-    - {name: Uruvaq, tongue: sowides, built: [uruvaq]}
-    - {name: The Hollow Hills, tongue: gloss, built: [Uruvaq]}
-    - {name: Oroqid, tongue: sowides, built: [oroqid]}
-    - {name: The Legion Fort, tongue: gloss, built: [Oroqid]}
-    - {name: Bolid, tongue: sowides, built: [bolid]}
-    - {name: The Buried Tower City, tongue: gloss, built: [Bolid]}
-    - {name: Old Holds of the Northern Taiga, tongue: gloss, built: [Ghotaqor]}
-    - {name: The Taiga Holds, tongue: gloss, built: [Ghotaqor]}
+    - {name: The Sunken Kings' Steps, tongue: gloss, built: [oshiqor]}
+    - {name: Uruvaq, tongue: sowides, built: [uruvaq], gloss: "wind: the hollow hills"}
+    - {name: The Hollow Hills, tongue: gloss, built: [uruvaq], gloss: "wind: the hollow hills"}
+    - {name: Oroqid, tongue: sowides, built: [oroqid], gloss: "camp: the Vilérian fort"}
+    - {name: The Legion Fort, tongue: gloss, built: [oroqid], gloss: "camp: the Vilérian fort"}
+    - name: Bolid
+      tongue: sowides
+      built: [bolid]
+      gloss: "tower: the buried tower city of the western margin"
+    - name: The Buried Tower City
+      tongue: gloss
+      built: [bolid]
+      gloss: "tower: the buried tower city of the western margin"
+    - {name: Old Holds of the Northern Taiga, tongue: gloss, built: [ghotaqor]}
+    - {name: The Taiga Holds, tongue: gloss, built: [ghotaqor]}
     - {name: Uruvolur, tongue: sowides, built: [uruvol, -ur]}
     - {name: Jobizur, tongue: sowides, built: [jobiz, -ur]}
     - {name: Qibudur, tongue: sowides, built: [qibud, -ur]}
     - {name: Oroqidur, tongue: sowides, built: [oroqid, -ur]}
     - {name: Kenodur, tongue: sowides, built: [kenod, -ur]}
     - {name: Koserur, tongue: sowides, built: [koser, -ur]}
-    - {name: The Calling at Vomek, tongue: gloss, built: [Vomekoqod]}
+    - {name: The Calling at Vomek, tongue: gloss, built: [vomekoqod]}
     - {name: Vomekoqod, tongue: sowides, built: [vomek, oqod]}
-    - {name: The Buried Water, tongue: gloss, built: [Uruvolkuyad]}
+    - {name: The Buried Water, tongue: gloss, built: [uruvolkuyad]}
     - {name: Uruvolkuyad, tongue: sowides, built: [uruvol, kuyad]}
     - {name: Bulachsovid, tongue: sowides, built: [bulach, sovid]}
     - {name: Yovakur, tongue: sowides, built: [yovaq, -ur]}
@@ -7014,19 +6971,19 @@ data:
     - {name: Elder Shaman Tijodorghun, tongue: gloss, built: [Tijodorghun]}
     - {name: Khilodlun, tongue: sowides, built: [khilod, -lun]}
     - {name: Biilokur, tongue: sowides, built: [biiloq, -ur]}
-    - {name: Khilodlun Biilokur, tongue: gloss, built: [Khilodlun, Biilokur]}
-    - {name: Chief Khilodlun, tongue: gloss, built: [Khilodlun]}
+    - {name: Khilodlun Biilokur, tongue: gloss, built: [khilodlun, Biilokur]}
+    - {name: Chief Khilodlun, tongue: gloss, built: [khilodlun]}
     - {name: Ghotazkharu, tongue: sowides, built: [ghotaz, kharu]}
-    - {name: Ghotazkharu Koserur, tongue: gloss, built: [Ghotazkharu, Koserur]}
+    - {name: Ghotazkharu Koserur, tongue: gloss, built: [Ghotazkharu, koserur]}
     - {name: Orqazkenod, tongue: sowides, built: [orqaz, kenod]}
-    - {name: Orqazkenod Koserur, tongue: gloss, built: [Orqazkenod, Koserur]}
+    - {name: Orqazkenod Koserur, tongue: gloss, built: [Orqazkenod, koserur]}
     - {name: Kodujibun, tongue: sowides, built: [kodu, jibun]}
-    - {name: Kodujibun Qibudur, tongue: gloss, built: [Kodujibun, Qibudur]}
+    - {name: Kodujibun Qibudur, tongue: gloss, built: [Kodujibun, qibudur]}
     - {name: Yovaqbeyuk, tongue: sowides, built: [yovaq, beyuk]}
-    - {name: Yovaqbeyuk Qibudur, tongue: gloss, built: [Yovaqbeyuk, Qibudur]}
+    - {name: Yovaqbeyuk Qibudur, tongue: gloss, built: [Yovaqbeyuk, qibudur]}
     - {name: Budaqkenod, tongue: sowides, built: [budaq, kenod]}
     - {name: Dujarlun, tongue: sowides, built: [dujar, -lun]}
-    - {name: Dujarlun Oroqidur, tongue: gloss, built: [Dujarlun, Oroqidur]}
+    - {name: Dujarlun Oroqidur, tongue: gloss, built: [Dujarlun, oroqidur]}
     - {name: Dolqonkelod, tongue: sowides, built: [dolqon, kelod]}
     - {name: Idvaqkelod, tongue: sowides, built: [idvaq, kelod]}
     - {name: Gorenevod, tongue: sowides, built: [goren, evod]}
@@ -7042,7 +6999,7 @@ data:
     - {name: Voghalghakhiq, tongue: sowides, built: [voghal, ghakhiq]}
     - {name: Voghalghakhiq Voghalur, tongue: gloss, built: [Voghalghakhiq, Voghalur]}
     - {name: Khuvankharu, tongue: sowides, built: [khuvan, kharu]}
-    - {name: Khuvankharu Kesukur, tongue: gloss, built: [Khuvankharu, Kesukur]}
+    - {name: Khuvankharu Kesukur, tongue: gloss, built: [Khuvankharu, kesukur]}
     - {name: Budaqjilaq, tongue: sowides, built: [budaq, jilaq]}
     - {name: Budaqjilaq Budakur, tongue: gloss, built: [Budaqjilaq, Budakur]}
     - {name: Vilaqlun, tongue: sowides, built: [vilaq, -lun]}
@@ -7111,7 +7068,7 @@ data:
     - {name: Jiboqlun, tongue: sowides, built: [jiboq, -lun]}
     - {name: Jiboqlun Ghotakur, tongue: gloss, built: [Jiboqlun, Ghotakur]}
     - {name: Voghaltoliz, tongue: sowides, built: [voghal, toliz]}
-    - {name: Voghaltoliz Ghotakur, tongue: gloss, built: [Voghaltoliz, Ghotakur]}
+    - {name: Voghaltoliz Ghotakur, tongue: gloss, built: [voghaltoliz, Ghotakur]}
     - {name: Savaghjilaq, tongue: sowides, built: [savagh, jilaq]}
     - {name: Savaghjilaq Savaghur, tongue: gloss, built: [Savaghjilaq, Savaghur]}
     - {name: Jiboq, tongue: sowides, built: [jiboq]}
@@ -7133,6 +7090,14 @@ data:
       tongue: sowides
       built: [jonkhiq, ekon]
       gloss: "the earth-mother of the Open Sky"
+    - {name: Budaq, tongue: sowides, built: [budaq], gloss: "vulture: the road-vulture"}
+    - {name: Numaq, tongue: sowides, built: [numaq], gloss: "night: the tower-roost colony"}
+    - {name: Kedok, tongue: sowides, built: [kedok], gloss: "blood-ground: a blood-field"}
+    - {name: Vesuk, tongue: sowides, built: [vesuk], gloss: "cursed ground: a thin blood-field"}
+    - name: Khamaqjivoq
+      tongue: sowides
+      built: [khamaq, jivoq]
+      gloss: "the skull-pole: a star the Oroqidur steer by"
   retired:
     - {form: Timan, instead: Ghotazkharu, why: "a Dunhari given name"}
     - {form: Bahrazad, instead: Orqazkenod, why: "a Dunhari given name"}
@@ -7654,7 +7619,7 @@ FROM words WHERE language = 'thalorna-note-skill-sowideslng' AND field = 'Derive
 Every name of every note in the region stands in the register of the tongue it belongs to, with the note it names and its tag. A name in one of the three tongues carries its derivation.
 
 ```sql
-SELECT name AS "Name", coalesce(array_to_string(list_transform(notes, n -> '[[' || n || '|]]'), ', '), '—') AS "Address", '`' || tongue || '`' AS "Language",
+SELECT name AS "Name", coalesce(array_to_string(list_transform(notes, n -> '[[' || n || '|]]'), ', '), '—') AS "Address", '`' || tongue || '`' AS "Language", gloss AS "Meaning",
        CASE WHEN why IS NOT NULL THEN why
             WHEN tongue = 'older' THEN 'a name older than the rules'
             WHEN tongue = 'gloss' THEN CASE WHEN built IS NULL THEN '—' ELSE 'a glossed name on ' || array_to_string(list_transform(built, x -> '`' || x || '`'), ' and ') END

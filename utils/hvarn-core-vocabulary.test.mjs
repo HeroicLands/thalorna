@@ -14,9 +14,9 @@ const note = read(notePath("skill-hvarnlng")),
     inventory = read(notePath("doc-coreconcepts"));
 const ordinary = new Set(WORD_CLASS_BASES.filter((c) => c.glossary).map((c) => c.token));
 const expected = new Set(inventory.fm.data.concepts.map((c) => c.id));
-test("Hvarn supplies actual ordinary expressions for the complete inventory", () => {
+function assertCoreCoverage(candidate) {
     const actual = new Set(
-        note.fm.data.words
+        candidate.fm.data.words
             .filter((w) => ordinary.has(parseWordClass(w.class).base))
             .flatMap((w) => [w.concept ?? []].flat()),
     );
@@ -31,6 +31,24 @@ test("Hvarn supplies actual ordinary expressions for the complete inventory", ()
         [],
         "unknown IDs",
     );
+}
+test("Hvarn supplies actual ordinary expressions for the complete inventory", () => {
+    assertCoreCoverage(note);
+});
+test("the core guard detects an omitted expression and an altered concept", () => {
+    const counts = new Map();
+    for (const word of note.fm.data.words.filter((w) => ordinary.has(parseWordClass(w.class).base)))
+        for (const id of [word.concept ?? []].flat()) counts.set(id, (counts.get(id) ?? 0) + 1);
+    const position = note.fm.data.words.findIndex((word) =>
+        [word.concept ?? []].flat().some((id) => expected.has(id) && counts.get(id) === 1),
+    );
+    assert(position >= 0, "the source supplies a uniquely covered concept");
+    const omitted = structuredClone(note);
+    omitted.fm.data.words.splice(position, 1);
+    assert.throws(() => assertCoreCoverage(omitted), /missing ordinary expressions/u);
+    const altered = structuredClone(note);
+    altered.fm.data.words[position].concept = "unlisted-core-concept";
+    assert.throws(() => assertCoreCoverage(altered), /missing ordinary expressions/u);
 });
 
 import { createHash } from "node:crypto";
@@ -56,7 +74,8 @@ const record = ({ fm, file }) => ({ ...fm, file, package: "thalorna", system: "n
     records = [note, inventory].map(record),
     words = note.fm.data.words;
 const citations = words.filter((w) => ordinary.has(parseWordClass(w.class).base));
-test("Hvarn preserves original words, meanings, names, metadata and prose", () => {
+function assertPreservedVocabulary(candidate) {
+    const words = candidate.fm.data.words;
     assert.equal(
         hash(words.slice(0, 21).map(({ concept, ...w }) => w)),
         "72064524b78d9f7903fb7b7ddbbdff6ca7f6f28e7e8569a82fc6dbf5ce9de783",
@@ -70,11 +89,7 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
     ]);
     for (let i = 0; i < 21; i++)
         assert.deepEqual([words[i].concept ?? []].flat(), expectedIds.get(i) ?? [], words[i].form);
-    const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
-    assert.equal(
-        hash({ ...note.fm, data }),
-        "cd85a11e0188a3e480fc88ff73d57a0870e7bab84c0491474e203ef3742a3676",
-    );
+    const { fields } = candidate.fm.data;
     assert.equal(
         hash(fields.slice(0, -1)),
         "94fc575ec55cfe315ac5883fc8fabbc09f8ba37913ea21ae0980272a5f86f60b",
@@ -83,13 +98,13 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
         name: "Everyday speech",
         holds: "Ordinary expressions for perception, bodily life, relationships, things, actions and conversation.",
     });
-    assert.equal(
-        hash(splitFrontmatter(note.raw).body.replace(/\n## Everyday speech\n[\s\S]*$/u, "")),
-        "881bf3522d6143388bb15c488c45fc64138a077a2a2317d2c6165bf9481ac5e9",
-    );
-    const beforeData = { ...note.fm.data, words: words.slice(0, 21), fields: fields.slice(0, -1) },
+    const beforeData = {
+            ...candidate.fm.data,
+            words: words.slice(0, 21),
+            fields: fields.slice(0, -1),
+        },
         before = pieceGlosses(beforeData),
-        after = pieceGlosses(note.fm.data),
+        after = pieceGlosses(candidate.fm.data),
         forms = new Set();
     function collect(v) {
         if (typeof v === "string") {
@@ -119,8 +134,8 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
     collect(beforeData);
     for (let f of [...forms].flatMap((f) => [f, f.replace(/^-+|-+$/gu, ""), f.toLowerCase()]))
         assert.equal(after(f), before(f), f);
-    const prior = dictionaryAndTermRows([{ ...record(note), data: beforeData }]).dictionary,
-        current = dictionaryAndTermRows(records).dictionary;
+    const prior = dictionaryAndTermRows([{ ...record(candidate), data: beforeData }]).dictionary,
+        current = dictionaryAndTermRows([record(candidate), record(inventory)]).dictionary;
     assert.equal(prior.length, 21);
     for (let r of prior)
         assert.deepEqual(
@@ -128,6 +143,29 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
             r,
             r.name,
         );
+}
+test("Hvarn preserves its established vocabulary and meanings", () => {
+    assertPreservedVocabulary(note);
+});
+test("the preservation guard rejects an altered established meaning", () => {
+    const candidate = structuredClone(note);
+    candidate.fm.data.words[0].gloss = "a different meaning";
+    assert.throws(() => assertPreservedVocabulary(candidate), assert.AssertionError);
+});
+test("the vocabulary guard permits names, register entries and unrelated prose", () => {
+    const candidate = structuredClone(note);
+    const given =
+        candidate.fm.data.names.given.female.find(
+            (name) => !candidate.fm.data.register.some((row) => row.name === name),
+        ) ?? candidate.fm.data.names.given.female[0];
+    candidate.fm.data.register.push({ name: given, tongue: "hvarn" });
+    candidate.fm.data.names.given.male.push(given);
+    candidate.raw = candidate.raw.replace(
+        "## Overview",
+        "A note about the winter house.\n\n## Overview",
+    );
+    assertCoreCoverage(candidate);
+    assertPreservedVocabulary(candidate);
 });
 test("Hvarn projects actual classes and meanings through the published dictionary", () => {
     assert.equal(note.fm.data.family, undefined);

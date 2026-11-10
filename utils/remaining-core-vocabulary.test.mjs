@@ -231,6 +231,11 @@ const replacedProse = new Map([
                 "is harsh and long-voweled: _kh_, _gh_, _sh_ and _zh_, long vowels, and every word closed by a consonant.",
                 "is harsh: _kh_, _gh_, _sh_ and _zh_, and every word closed by a consonant.",
             ],
+            // The register table links each attested name's note, not an event inside it.
+            [
+                "array_to_string(list_transform(notes, n -> '[[' || n || '|]]'), ', ')",
+                "array_to_string(list_distinct(list_transform(notes, n -> '[[' || split_part(n, '#', 1) || '|]]')), ', ')",
+            ],
         ],
     ],
     [
@@ -373,10 +378,23 @@ const replacedProse = new Map([
         ],
     ],
 ]);
+const withRegisterMeanings = (file, text) =>
+    [notePath("skill-sowideslng"), notePath("skill-tellumilng")].includes(file) ?
+        text.replace(
+            'AS "Language", CASE WHEN why',
+            'AS "Language", gloss AS "Meaning", CASE WHEN why',
+        )
+    :   text;
 const withReplacedProse = (file, text) =>
-    withStressProse(
-        (replacedProse.get(file) ?? []).reduce((out, [from, to]) => out.replace(from, to), text),
+    withRegisterMeanings(
         file,
+        withStressProse(
+            (replacedProse.get(file) ?? []).reduce(
+                (out, [from, to]) => out.replace(from, to),
+                text,
+            ),
+            file,
+        ),
     );
 // The five tribes' replacement names, as they stand in prose that names them.
 const tribeRenames = new Map([
@@ -407,6 +425,44 @@ function withoutReplacedOlderNames(fm, file) {
         );
     if (Array.isArray(copy.data?.older))
         copy.data.older = copy.data.older.filter((item) => !names.has(item?.form));
+    return copy;
+}
+// #784 moves caseless name homographs into registers. Compare their original
+// sense and pieces there, then retain the ordinary-word and metadata guards.
+function withCaselessNames(fm, current, file) {
+    if (![notePath("skill-sowideslng"), notePath("skill-tellumilng")].includes(file)) return fm;
+    const copy = structuredClone(fm);
+    const forms = new Set(
+        copy.data.words.filter((word) => word.class === "name").map((word) => word.form),
+    );
+    copy.data.words = copy.data.words
+        .filter((word) => {
+            if (word.class !== "name") return true;
+            const homograph = current.data.words.find(
+                (item) => item.form === word.form.toLowerCase() && item.class !== "name",
+            );
+            if (!homograph) return true;
+            const row = current.data.register.find((item) => item.name === word.form);
+            assert(row, `${file}: migrated name missing from register: ${word.form}`);
+            assert.deepEqual(row.built, word.built, `${file}: migrated name pieces: ${word.form}`);
+            const gloss =
+                file === notePath("skill-sowideslng") ? renameTribes(word.gloss) : word.gloss;
+            assert(
+                typeof row.gloss === "string" && row.gloss.includes(gloss),
+                `${file}: migrated name sense: ${word.form}`,
+            );
+            return false;
+        })
+        .map((word) => ({
+            ...word,
+            form:
+                word.class === "name" || word.form === "Delkoshekh" ?
+                    word.form.toLowerCase()
+                :   word.form,
+        }));
+    for (const row of copy.data.register ?? [])
+        if (row.built)
+            row.built = row.built.map((piece) => (forms.has(piece) ? piece.toLowerCase() : piece));
     return copy;
 }
 const ordinary = new Set(
@@ -501,6 +557,7 @@ test("original language entries, metadata and prose are retained", () => {
         const before = withGuidePairSpellings({ file, ...read(file, fromBaseline(file)) });
         before.body = splitFrontmatter(before.raw).body;
         const after = read(file);
+        before.fm = withCaselessNames(before.fm, after.fm, file);
         const oldWords = before.fm.data.words;
         const newWords = after.fm.data.words;
 

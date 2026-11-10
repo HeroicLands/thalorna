@@ -10,10 +10,8 @@ data:
   lore: []
   parents: [lisere]
   routes:
-    - {to: hendrel, bearing: SW, mode: land, days: 1, terrain: [road]}
-    - {to: durmelen, bearing: NE, mode: land, days: 2, terrain: [road, coast]}
-    - {to: morthalmrch, bearing: E, mode: land, days: 1, terrain: [coast, track]}
-    - {to: edriwald, bearing: NE, mode: land, days: 5, terrain: [coast, track]}
+    - {to: hendrel, bearing: SW, mode: land, days: 5, terrain: [road]}
+    - {to: durmelen, bearing: NE, mode: land, days: 10, terrain: [road, coast]}
     - {to: kalipsarun, bearing: W, mode: ship, days: 1, terrain: [coast, open-sea, coast]}
   population: 5600
   government: sarmelisconcl

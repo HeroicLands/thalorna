@@ -10,8 +10,10 @@ data:
   lore: []
   parents: [lisere]
   routes:
-    - {to: sarmelis, bearing: SW, mode: land, days: 2, terrain: [coast, road]}
-    - {to: coastroad, bearing: SW, mode: land, days: 2, terrain: [coast, road]}
+    - {to: sarmelis, bearing: SW, mode: land, days: 10, terrain: [coast, road]}
+    - {to: coastroad, bearing: SW, mode: land, days: 10, terrain: [coast, road]}
+    - {to: morthalmrch, bearing: E, mode: land, days: 1, terrain: [coast, track]}
+    - {to: edriwald, bearing: NE, mode: land, days: 5, terrain: [coast, track]}
   population: 340
   government: durmelengrsn
   packFolder: elavendre
@@ -47,7 +49,7 @@ The [[affiliation-durmelengrsn|Garrison of Durmelen]] is a standing company of t
 
 The crown holds the fort, and the crown's law runs in it as in any royal fortress. The Castellan judges the garrison and settles what the fort's households bring him. A case between a soldier and a townsman of Sarmelis goes to the sheriff. A grove-elder from the nearest village comes up for the turning days to hallow the fire. The fort has no priest of its own and misses none.
 
-Trade is a chandler's and a smith's: pitch, rope, nails, lamp oil, fish bought off the passing boats. What the fort wants it sends for to Sarmelis by the Coast Road, and a wagon takes two days.
+Trade is a chandler's and a smith's: pitch, rope, nails, lamp oil, fish bought off the passing boats. What the fort wants it sends for to Sarmelis by the Coast Road. The journey takes ten days on foot in fair weather; a loaded wagon needs roughly a fortnight. The bay road continues east through [[place-morthalmrch|the Morthal March]], whose causeway is a day away, and on around the bay's head to [[place-edriwald|Edriwald]], four or five days from the fort.
 
 ## Within the Walls {#within-the-walls}
 
@@ -73,7 +75,7 @@ Below the wall, the lee holds the cutters on log slips and a huddle of boat-crew
 : the road that ends at its gate
 
 [[place-sarmelis|Sarmelis]]
-: the harbor town two days along the road
+: the harbor town ten days along the road
 
 [[affiliation-durmelengrsn|Garrison of Durmelen]]
 : the sworn men and the levy that hold it

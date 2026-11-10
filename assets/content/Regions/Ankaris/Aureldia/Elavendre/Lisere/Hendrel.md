@@ -10,8 +10,8 @@ data:
   lore: []
   parents: [lisere]
   routes:
-    - {to: sarmelis, bearing: NE, mode: land, days: 1, terrain: [road]}
-    - {to: harnasel, bearing: SW, mode: land, days: 1, terrain: [road]}
+    - {to: sarmelis, bearing: NE, mode: land, days: 5, terrain: [road]}
+    - {to: harnasel, bearing: SW, mode: land, days: 5, terrain: [road]}
   population: 190
   government: beaconfamlys
   packFolder: elavendre
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-**Hendrel** is a village of about 190 people, a mile back from the shingle on the [[place-coastroad|Coast Road]], a day's walk from [[place-sarmelis|Sarmelis]]. Its name is built on _henda_, the Élavendri word for fire. The village is a beacon village, one of the families on the [[place-lisere|Lísere]] shore whose first work is a light on a headland. Its beacon-house stands half a mile away on the point, and no night passes without a watch in it.
+**Hendrel** is a village of about 190 people, a mile back from the shingle on the [[place-coastroad|Coast Road]], five days' walk from [[place-sarmelis|Sarmelis]]. Its name is built on _henda_, the Élavendri word for fire. The village is a beacon village, one of the families on the [[place-lisere|Lísere]] shore whose first work is a light on a headland. Its beacon-house stands half a mile away on the point, and no night passes without a watch in it.
 
 ## The Village {#the-village}
 
@@ -49,11 +49,11 @@ Taldor's oldest line is the line of the beacon-keeper who asked the Toll-Keeper 
 
 ## What Is Seen from It {#what-is-seen}
 
-From the beacon-house on the point the watch sees the whole stretch of the bay's southern shore. The beacon-house sees [[place-sarmelis|Sarmelis]]'s Lamp Tower to the northeast and the next station along the road to the southwest, and a fire on either answers within the minute. What the watch sees on the water is small boats, fishing luggers and, some nights, a darker shape that does not carry lamps.
+From the beacon-house on the point the watch sees the neighboring headlands of the bay's southern shore. The next stations to the northeast and southwest answer its fire within the minute; the stations to the northeast relay the signal to [[place-sarmelis|Sarmelis]]'s Lamp Tower. What the watch sees on the water is small boats, fishing luggers and, some nights, a darker shape that does not carry lamps.
 
 ## The Cost of Reaching It {#cost-of-reaching-it}
 
-Hendrel lies on the Coast Road, a day from Sarmelis, and the road is easy: dry shingle, then packed sand. The cost is at the village. A stranger is received courteously at the first house and watched at every house after it. A party that asks for the Ford gets directions to the gap in the reeds and a warning about the hour. A party that asks to cross it gets a long silence.
+Hendrel lies on the Coast Road, five days from Sarmelis, and the road is easy: dry shingle, then packed sand. The cost is at the village. A stranger is received courteously at the first house and watched at every house after it. A party that asks for the Ford gets directions to the gap in the reeds and a warning about the hour. A party that asks to cross it gets a long silence.
 
 ## Hooks {#hooks}
 

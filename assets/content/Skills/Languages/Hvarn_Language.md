@@ -4452,6 +4452,50 @@ data:
     - {tag: hvarn, meaning: a Hvarn name, language: skill-hvarnlng}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
+    - {name: Hevrel, tongue: hvarn}
+    - {name: Tsevrel, tongue: hvarn}
+    - {name: Rhanvi, tongue: hvarn}
+    - {name: Delzh, tongue: hvarn}
+    - {name: Vurn, tongue: hvarn}
+    - {name: Shemli, tongue: hvarn}
+    - {name: Berdnu, tongue: hvarn}
+    - {name: Zhavel, tongue: hvarn}
+    - {name: Ourn, tongue: hvarn}
+    - {name: Klemsi, tongue: hvarn}
+    - {name: Rhevzhen, tongue: hvarn}
+    - {name: Tudzelv, tongue: hvarn}
+    - {name: Venesh, tongue: hvarn}
+    - {name: Melerhu, tongue: hvarn}
+    - {name: Dzorin, tongue: hvarn}
+    - {name: Habvern, tongue: hvarn}
+    - {name: Sulzhe, tongue: hvarn}
+    - {name: Termen, tongue: hvarn}
+    - {name: Ovru, tongue: hvarn}
+    - {name: Rhistne, tongue: hvarn}
+    - {name: Tsedvern, tongue: hvarn}
+    - {name: Rhonzhel, tongue: hvarn}
+    - {name: Klemverd, tongue: hvarn}
+    - {name: Hvurnash, tongue: hvarn}
+    - {name: Dzelbern, tongue: hvarn}
+    - {name: Vrestun, tongue: hvarn}
+    - {name: Shulner, tongue: hvarn}
+    - {name: Wet Step, tongue: translation}
+    - {name: Butter Stone, tongue: translation}
+    - {name: Knee, tongue: translation}
+    - {name: Two Teeth, tongue: translation}
+    - {name: Ear, tongue: translation}
+    - {name: Long Lip, tongue: translation}
+    - {name: Cold Ford, tongue: translation}
+    - {name: Black Gully, tongue: translation}
+    - {name: Winter of the Two Roofs, tongue: translation}
+    - {name: The Account of Tudzelv, tongue: translation}
+    - {name: The Drover Who Went Over Alone, tongue: translation}
+    - {name: The Roll of the Upper Shelf, tongue: translation}
+    - {name: The Sayings at the Rope, tongue: translation}
+    - {name: The Telling of the Two Roofs, tongue: translation}
+    - {name: When the Roll Is Longer Than the Night, tongue: translation}
+    - {name: Rhevzhen of the Shulner hearth, tongue: translation}
+    - {name: Klemverd hearth, tongue: translation}
     - {name: Bone-bringer, tongue: translation}
     - {name: Drover, tongue: translation}
     - {name: Fort-carrier, tongue: translation}
@@ -4490,7 +4534,7 @@ Hvarn is the tongue of [[affiliation-hvarnguides|the Hvarn]] of [[place-estrnrea
 
 Hvarn is not related to [[skill-osketlng|Osket]], which surprises everyone who has assumed it must be. The two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock—a fact both peoples state without interest and lowland scholars find difficult to accept.
 
-It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janapada clerks, and the occasional soldier of [[place-sangrafort|the Sangha-fort]] who has wintered at [[place-nurvhrn|Nurvharn]] and come back fluent and strange.
+It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janpoda clerks, and the occasional soldier of [[place-sangrafort|the Sangra-fort]] who has wintered at [[place-nurvhrn|Nurvharn]] and come back fluent and strange.
 
 ## How Hvarn sounds
 

@@ -10,15 +10,15 @@ data:
   lore: []
   parents: [lisere]
   routes:
-    - {to: harnasel, bearing: SW, mode: land, days: 2, terrain: [road]}
-    - {to: durmelen, bearing: NE, mode: land, days: 2, terrain: [road, coast]}
+    - {to: harnasel, bearing: SW, mode: land, days: 10, terrain: [road]}
+    - {to: durmelen, bearing: NE, mode: land, days: 10, terrain: [road, coast]}
   population: null
   packFolder: elavendre
 ---
 
 ## Overview {#overview}
 
-**The Coast Road** is the one road of [[place-lisere|Lísere]]. It enters from [[place-lirve|Lirve]] at the southwest, where the cliffs give way to shingle, and runs northeast a short way behind the beach through [[place-harnasel|Harnasel]], [[place-hendrel|Hendrel]] and [[place-sarmelis|Sarmelis]], and on along the shore of [[place-liserebay|Lísere Bay]] to [[place-durmelen|Durmelen]] at the head of the bay. From the Lirve border to the fort is about four days on foot.
+**The Coast Road** is the one road of [[place-lisere|Lísere]]. It enters from [[place-lirve|Lirve]] at the southwest, where the cliffs give way to shingle, and runs northeast a short way behind the beach through [[place-harnasel|Harnasel]], [[place-hendrel|Hendrel]] and [[place-sarmelis|Sarmelis]], and on along the shore of [[place-liserebay|Lísere Bay]] to [[place-durmelen|Durmelen]] at the head of the bay. From the Lirve border to the fort the road follows roughly two hundred and fifty to three hundred miles of shore, about twenty days on foot in fair weather.
 
 It keeps a short way behind the water on purpose. It is close enough to the shore to be reached in a hurry, and far enough back that a boat's crew coming over the shingle is seen from the nearest beacon before it reaches the road. The road is built for warning and for the levy's marching, and trade has made use of it.
 
@@ -36,15 +36,15 @@ It keeps a short way behind the water on purpose. It is close enough to the shor
 
 ## Logistics {#logistics}
 
-The road is a track of packed sand and gravel, wide enough for one cart and a pony beside it, laid on a bed of shingle where it crosses wet ground. Crossings are fords or log bridges kept by the villages. A party on foot makes about ten miles in a day, and a wagon about as much.
+The road is a track of packed sand and gravel, wide enough for one cart and a pony beside it, laid on a bed of shingle where it crosses wet ground. Crossings are fords or log bridges kept by the villages. In fair weather a party on foot makes twelve to fifteen miles in a day. A loaded wagon makes about ten, and the thaw slows both.
 
 Water is plentiful and bad in the low places: the bog streams run brown, and the villages' wells are dug on the dune sand where the water is sweet. Fodder is thin and a pony's feed is carried. Inns exist only at Sarmelis. Between the towns a traveler sleeps in a village barn on the village's custom, and pays in bread or labor.
 
 ## The Stations {#stations}
 
-**Harnasel** is the southwest end and the last village before the forest. **Hendrel** lies a day along, beside the gap in the reeds where the track to [[place-dskfrd|the Dusk Ford]] leaves the road. **Sarmelis** is a day on again, the road's one town and its single toll. **Durmelen** is two days beyond Sarmelis, at the head of the bay, and the road ends at its gate.
+**Harnasel** is the southwest end and the last village before the forest. **Hendrel** lies five days along, beside the gap in the reeds where the track to [[place-dskfrd|the Dusk Ford]] leaves the road. **Sarmelis** is five days on again, the road's one town and its single toll. **Durmelen** is ten days beyond Sarmelis, at the head of the bay, and the road ends at its gate. These are walking stages in fair weather, with nights in the smaller shore villages between. Sarmelis is the road's central halt: ten days from either end.
 
-Between the villages the beacon stations stand on every headland, a day's walk or less apart: a stone hut, a pile of laid wood under an oiled hide and a pair of lamp-hands, with a path of flat stones to the road. They are not stops. A traveler who asks for water at one is given it and is not asked in.
+Along this whole stretch the beacon stations stand on every headland, within sight of their neighbors and a day's walk or less apart: a stone hut, a pile of laid wood under an oiled hide and a pair of lamp-hands, with a path of flat stones to the road. They are not stops. A traveler who asks for water at one is given it and is not asked in.
 
 ## The Year on the Road {#year-on-the-road}
 

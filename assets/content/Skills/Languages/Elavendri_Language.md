@@ -6641,6 +6641,7 @@ data:
     - {name: Darva Nareth, tongue: elavendri}
     - {name: Deren Kálmereth, tongue: elavendri}
     - {name: Daran Véldarin, tongue: elavendri}
+    - {name: Kaelith, tongue: elavendri}
     - {name: Émina Othral, tongue: elavendri}
     - {name: Ermin Véldarin, tongue: elavendri}
     - {name: Hethar Othral, tongue: elavendri}

@@ -111,15 +111,15 @@ Every language of Thalorna is read by these same rules. A language uses some of 
 
 ## Vowels
 
-Each vowel letter has one sound, stressed or not, at the start of a word or at its end. A final _e_ is sounded too: _eda_ is _ED-ah_, /ˈɛdɑ/.
+Each vowel letter has one sound, stressed or not, at the start of a word or at its end. A final _e_ is sounded too: _eda_ is _ED-ah_, [/ˈɛdɑ/]{.ipa}.
 
 ```sql
 SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Letter",
-       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+       "like" AS "Sounds like", '[/' || ipa || '/]{.ipa}' AS "IPA"
 FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'vowel' ORDER BY position
 ```
 
-So _siri_ is _SEE-ree_, /ˈsiri/, _oro_ is _OH-roh_, /ˈoro/, and _lunu_ is _LOO-noo_, /ˈlunu/.
+So _siri_ is _SEE-ree_, [/ˈsiri/]{.ipa}, _oro_ is _OH-roh_, [/ˈoro/]{.ipa}, and _lunu_ is _LOO-noo_, [/ˈlunu/]{.ipa}.
 
 ### Vowel groups
 
@@ -127,17 +127,17 @@ Five pairs of vowels are glides, each said as one syllable, and so is a vowel fo
 
 ```sql
 SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Group",
-       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+       "like" AS "Sounds like", '[/' || ipa || '/]{.ipa}' AS "IPA"
 FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'vowel pair' ORDER BY position
 ```
 
-So _kaira_ is _KYE-rah_, /ˈkaɪrɑ/, _taum_ is _towm_, /taʊm/, _meiro_ is _MAY-roh_, /ˈmeɪro/, _soin_ is _soyn_, /sɔɪn/, and _koulo_ is _KOH-loh_, /ˈkoʊlo/.
+So _kaira_ is _KYE-rah_, [/ˈkaɪrɑ/]{.ipa}, _taum_ is _towm_, [/taʊm/]{.ipa}, _meiro_ is _MAY-roh_, [/ˈmeɪro/]{.ipa}, _soin_ is _soyn_, [/sɔɪn/]{.ipa}, and _koulo_ is _KOH-loh_, [/ˈkoʊlo/]{.ipa}.
 
-_iy_ is an _ee_ that closes on a slight _y_, as in _siy_, /sij/, and _uy_ is _ooey_ said as one syllable, as in _kuy_, /kuj/.
+_iy_ is an _ee_ that closes on a slight _y_, as in _siy_, [/sij/]{.ipa}, and _uy_ is _ooey_ said as one syllable, as in _kuy_, [/kuj/]{.ipa}.
 
-A _y_ joins the vowel before it only where no vowel follows it. Before a vowel, _y_ starts the next syllable instead: _kaya_ is _KAH-yah_, /ˈkɑjɑ/, and _koyo_ is _KOH-yoh_, /ˈkojo/.
+A _y_ joins the vowel before it only where no vowel follows it. Before a vowel, _y_ starts the next syllable instead: _kaya_ is _KAH-yah_, [/ˈkɑjɑ/]{.ipa}, and _koyo_ is _KOH-yoh_, [/ˈkojo/]{.ipa}.
 
-Any other two vowels side by side are both said, each its own syllable: _koa_ is _KOH-ah_, /ˈkoɑ/, and _kao_ is _KAH-oh_, /ˈkɑo/.
+Any other two vowels side by side are both said, each its own syllable: _koa_ is _KOH-ah_, [/ˈkoɑ/]{.ipa}, and _kao_ is _KAH-oh_, [/ˈkɑo/]{.ipa}.
 
 ### Held vowels
 
@@ -145,11 +145,11 @@ A doubled _aa_, _ii_ or _uu_ is the same vowel held a little longer. It is the o
 
 ```sql
 SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Held vowel",
-       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+       "like" AS "Sounds like", '[/' || ipa || '/]{.ipa}' AS "IPA"
 FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'long vowel' ORDER BY position
 ```
 
-So _niir_ is _neer_, held a little, /niːr/, and _suul_ is _sool_, /suːl/.
+So _niir_ is _neer_, held a little, [/niːr/]{.ipa}, and _suul_ is _sool_, [/suːl/]{.ipa}.
 
 ### Short vowels
 
@@ -157,11 +157,11 @@ A grave mark (_à_, _ì_, _ò_, _ù_) writes one of the short vowels of English,
 
 ```sql
 SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Short vowel",
-       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+       "like" AS "Sounds like", '[/' || ipa || '/]{.ipa}' AS "IPA"
 FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'short vowel' ORDER BY position
 ```
 
-So _kàt_ is _cat_, /kæt/, _kìdni_ is _KID-nee_, /ˈkɪdni/, _lòv_ is _love_, /lʌv/, and _pùt_ is _put_, /pʊt/. A grave changes only the vowel's sound, never the stress.
+So _kàt_ is _cat_, [/kæt/]{.ipa}, _kìdni_ is _KID-nee_, [/ˈkɪdni/]{.ipa}, _lòv_ is _love_, [/lʌv/]{.ipa}, and _pùt_ is _put_, [/pʊt/]{.ipa}. A grave changes only the vowel's sound, never the stress.
 
 ## Consonants
 
@@ -169,7 +169,7 @@ Most consonants sound just as they do in English. Every one is sounded, _s_ is a
 
 ```sql
 SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Letter",
-       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+       "like" AS "Sounds like", '[/' || ipa || '/]{.ipa}' AS "IPA"
 FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'consonant' ORDER BY position
 ```
 
@@ -179,19 +179,19 @@ Two letters of the English alphabet stand alone in no word. The letter _c_ appea
 
 ### _h_ beside a consonant
 
-An _h_ that is not part of one of the pairs above (_ch_, _sh_, _th_, _dh_, _kh_, _gh_, _zh_) is a breath. Before a consonant it is a breath leading into it: _hlask_ opens on a breathy _l_, /hlɑsk/. After a consonant it is a breath following it: _bharava_ is a _b_ with a puff of air after it, _b-hah-RAH-vah_, /bʱɑˈrɑvɑ/. At the end of a word it is a soft breath, as in _sah_, /sɑh/. A silent _h_ is always fine.
+An _h_ that is not part of one of the pairs above (_ch_, _sh_, _th_, _dh_, _kh_, _gh_, _zh_) is a breath. Before a consonant it is a breath leading into it: _hlask_ opens on a breathy _l_, [/hlɑsk/]{.ipa}. After a consonant it is a breath following it: _bharava_ is a _b_ with a puff of air after it, _b-hah-RAH-vah_, [/bʱɑˈrɑvɑ/]{.ipa}. At the end of a word it is a soft breath, as in _sah_, [/sɑh/]{.ipa}. A silent _h_ is always fine.
 
 ### Doubled consonants
 
-A doubled consonant is held a little: _sharru_ is _SHAR-roo_, /ˈʃɑrːu/. The consonant said once is always fine.
+A doubled consonant is held a little: _sharru_ is _SHAR-roo_, [/ˈʃɑrːu/]{.ipa}. The consonant said once is always fine.
 
 ### Two consonants at the start of a word
 
-Where a word opens on two consonants that English never starts a word with, they are said together, running straight into each other. _Dvon_ is one syllable, /dvon/, and _mbala_ is _MBAH-lah_, /ˈmbɑlɑ/, the hum of the _m_ flowing straight into the _b_. A slight vowel between the two, as in _em-BAH-lah_, is always fine, and so is a silent _k_ or _g_ before _n_, as in _knee_.
+Where a word opens on two consonants that English never starts a word with, they are said together, running straight into each other. _Dvon_ is one syllable, [/dvon/]{.ipa}, and _mbala_ is _MBAH-lah_, [/ˈmbɑlɑ/]{.ipa}, the hum of the _m_ flowing straight into the _b_. A slight vowel between the two, as in _em-BAH-lah_, is always fine, and so is a silent _k_ or _g_ before _n_, as in _knee_.
 
 ### The catch
 
-An apostrophe is a catch in the throat, the little stop in the middle of _uh-oh_, /ʔ/. It adds no syllable. _Ne'_ is _neh_ with a stop at the end, /nɛʔ/, and _ish'bal_ is _ISH-bahl_ with a stop after the _sh_, /ˈiʃʔbɑl/. After a consonant, as in _k'ayik_, the consonant itself is said with the catch, /ˈkʼɑjik/. The consonant said plainly, with a short break after it or none, is always fine.
+An apostrophe is a catch in the throat, the little stop in the middle of _uh-oh_, [/ʔ/]{.ipa}. It adds no syllable. _Ne'_ is _neh_ with a stop at the end, [/nɛʔ/]{.ipa}, and _ish'bal_ is _ISH-bahl_ with a stop after the _sh_, [/ˈiʃʔbɑl/]{.ipa}. After a consonant, as in _k'ayik_, the consonant itself is said with the catch, [/ˈkʼɑjik/]{.ipa}. The consonant said plainly, with a short break after it or none, is always fine.
 
 ## The marks
 
@@ -209,29 +209,29 @@ A word may carry several kinds of mark, but at most one acute and at most one to
 
 ### Stress
 
-Most words need no mark for stress, because it follows one easy rule. A word of one syllable is stressed on that syllable. A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. So _Kelara_ is _keh-LAH-rah_, /kɛˈlɑrɑ/.
+Most words need no mark for stress, because it follows one easy rule. A word of one syllable is stressed on that syllable. A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. So _Kelara_ is _keh-LAH-rah_, [/kɛˈlɑrɑ/]{.ipa}.
 
-An **acute** marks a stressed syllable that the rule would not choose. It changes the stress, not the vowel's sound. _Kélara_ is _KEH-lah-rah_, /ˈkɛlɑrɑ/, and _Kelará_ is _keh-lah-RAH_, /kɛlɑˈrɑ/. A word carries at most one acute. On a vowel group it sits on the first letter: _Kairela_ is _ky-REH-lah_, /kaɪˈrɛlɑ/, and _Káirela_ is _KY-reh-lah_, /ˈkaɪrɛlɑ/.
+An **acute** marks a stressed syllable that the rule would not choose. It changes the stress, not the vowel's sound. _Kélara_ is _KEH-lah-rah_, [/ˈkɛlɑrɑ/]{.ipa}, and _Kelará_ is _keh-lah-RAH_, [/kɛlɑˈrɑ/]{.ipa}. A word carries at most one acute. On a vowel group it sits on the first letter: _Kairela_ is _ky-REH-lah_, [/kaɪˈrɛlɑ/]{.ipa}, and _Káirela_ is _KY-reh-lah_, [/ˈkaɪrɛlɑ/]{.ipa}.
 
 A **tone** mark also shows the stressed syllable, so the full rule is short: the syllable with an acute is stressed; failing that, the syllable with a tone; failing that, the rule above.
 
-Where an acute falls on a short vowel, both marks are written, the acute above the grave: _bòtòn_ is _BUT-un_, /ˈbʌtʌn/, and _bòtò́n_ is _but-UN_, /bʌˈtʌn/.
+Where an acute falls on a short vowel, both marks are written, the acute above the grave: _bòtòn_ is _BUT-un_, [/ˈbʌtʌn/]{.ipa}, and _bòtò́n_ is _but-UN_, [/bʌˈtʌn/]{.ipa}.
 
 ### Starting a syllable: the diaeresis
 
-A **diaeresis** starts a new syllable at the vowel it sits on. _Kau_ is one syllable that rhymes with _cow_, /kaʊ/, while _kaü_ is two, _KAH-oo_, /ˈkɑu/. It settles a run of the same vowel as well: _paa_ is one syllable with a held _aa_, _paäa_ is _pa_ and then a held _aa_, and _paää_ is three syllables, _pa-AH-ah_. A diaeresis appears only where the vowel would otherwise join the one before it, since any other two vowels are already said apart. An acute on the second vowel of a group starts a syllable as well and stresses it: _kaú_ is _kah-OO_, /kɑˈu/.
+A **diaeresis** starts a new syllable at the vowel it sits on. _Kau_ is one syllable that rhymes with _cow_, [/kaʊ/]{.ipa}, while _kaü_ is two, _KAH-oo_, [/ˈkɑu/]{.ipa}. It settles a run of the same vowel as well: _paa_ is one syllable with a held _aa_, _paäa_ is _pa_ and then a held _aa_, and _paää_ is three syllables, _pa-AH-ah_. A diaeresis appears only where the vowel would otherwise join the one before it, since any other two vowels are already said apart. An acute on the second vowel of a group starts a syllable as well and stresses it: _kaú_ is _kah-OO_, [/kɑˈu/]{.ipa}.
 
 ### Tone: the caron and the circumflex {#tone}
 
 In some tongues the voice rises or falls on a long vowel, and that tone is part of the word. A **caron** (_ǎ_) marks a rising tone, the lift of a surprised _oh?_. A **circumflex** (_â_) marks a falling tone, the drop of a firm _no_. A tone mark sits only on a held vowel, _aa_, _ii_ or _uu_, and always on its first letter: _ǎa_, _âa_. A word carries at most one.
 
-A toned syllable is also the stressed one, unless an acute sits elsewhere in the word. _Kǎalara_ is _KAAH-lah-rah_ with the voice rising on the first syllable, /ˈkɑ̌ːlɑrɑ/, and _Kâalara_ is the same with the voice falling, /ˈkɑ̂ːlɑrɑ/. In _Kǎalará_ the acute takes the stress to the end and the first syllable still rises, /kɑ̌ːlɑˈrɑ/. Tone marks are read the same way everywhere, in prose, in names and in verse. Saying the word on a level voice, with only its stress, is always fine.
+A toned syllable is also the stressed one, unless an acute sits elsewhere in the word. _Kǎalara_ is _KAAH-lah-rah_ with the voice rising on the first syllable, [/ˈkɑ̌ːlɑrɑ/]{.ipa}, and _Kâalara_ is the same with the voice falling, [/ˈkɑ̂ːlɑrɑ/]{.ipa}. In _Kǎalará_ the acute takes the stress to the end and the first syllable still rises, [/kɑ̌ːlɑˈrɑ/]{.ipa}. Tone marks are read the same way everywhere, in prose, in names and in verse. Saying the word on a level voice, with only its stress, is always fine.
 
 ## Counting syllables
 
 Every vowel or vowel group makes one syllable, and _y_ is never a vowel: it is the consonant of _yes_, or it closes a glide after a vowel. Read a word from left to right, taking the longest group of letters this guide lists first: each letter belongs to only one group. The one exception is a glide that ends in _y_, which is not taken when a vowel follows, because that _y_ starts the next syllable. Capital letters sound the same as small ones.
 
-A hyphen inside a word keeps two letters from forming a group, without adding a sound or a second stress: _as-ha_ has an _s_ and then an _h_, /ˈɑshɑ/, while _asha_ has the _sh_ of _ship_, /ˈɑʃɑ/. A compound is read as one word, with one stress. A stem written with a hyphen at its end, such as _zevr-_, is never said alone; it is always joined to an ending that opens on a vowel.
+A hyphen inside a word keeps two letters from forming a group, without adding a sound or a second stress: _as-ha_ has an _s_ and then an _h_, [/ˈɑshɑ/]{.ipa}, while _asha_ has the _sh_ of _ship_, [/ˈɑʃɑ/]{.ipa}. A compound is read as one word, with one stress. A stem written with a hyphen at its end, such as _zevr-_, is never said alone; it is always joined to an ending that opens on a vowel.
 
 ## Punctuation
 
