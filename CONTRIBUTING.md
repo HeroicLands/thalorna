@@ -30,11 +30,16 @@ request.
    e.g. `feat/12_hegovyn-bestiary`, `bug/19_dead-region-wikilink`. Issue-free
    housekeeping is `chore/<slug>`.
 
-   **Git refuses a commit on `main`.** The `pre-commit` and `pre-merge-commit`
-   hooks from the `@heroiclands/package-build` toolchain decline it, so the
-   mistake surfaces before the commit exists rather than at push time. `npm ci`
-   installs them. To commit on `main` anyway, `git commit --no-verify`; to opt
-   this checkout out entirely, `git config hooks.allowCommitOnMain true`.
+   **Set up local hooks with `npm ci`.** The repository's `prepare` step sets
+   `core.hooksPath` to the committed `.githooks` directory. For a checkout or
+   worktree without Node dependencies, run `git config core.hooksPath .githooks`
+   directly. The hooks use Git and POSIX shell utilities, with no Node dependency.
+   CI checks their bytes against the canonical set in `HeroicLands/.github`.
+
+   **Git refuses a commit on `main` or `master`.** The committed `pre-commit`
+   hook declines it before the commit exists. To commit anyway, use
+   `git commit --no-verify`; to opt this checkout out, run
+   `git config hooks.allowCommitOnMain true`.
 
 3. **Make the change**, keeping it small and focused — one feature, one fix, or one
    documentation improvement per pull request.
@@ -50,9 +55,9 @@ request.
 
 **No AI/assistant attribution** in commit messages, pull-request titles or bodies,
 or issues — no `Co-Authored-By:` trailer naming an assistant, and no "Generated
-with Claude Code"-style signature. A committed `commit-msg` hook (activated by
-`npm install`) rejects such commits locally, and the **No Attribution** GitHub
-Actions check fails any pull request carrying it.
+with Claude Code"-style signature. The committed `commit-msg` hook (activated by
+`npm ci` or the Git setup command above) rejects such commits locally, and the
+**No Attribution** check fails any pull request carrying it.
 
 ## What belongs here
 

@@ -40,6 +40,9 @@ jobs:
                   # The pull-request diff needs the merge base with the target branch.
                   fetch-depth: 0
 
+            - name: Check canonical git hooks
+              uses: HeroicLands/.github/actions/githooks@5d2db91909feba6a8c99013ac15c9a155f066445
+
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:

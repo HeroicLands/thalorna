@@ -681,8 +681,20 @@ site:
               }
 
 packageBuild:
+    container:
+        name: heroiclands-foundry
+    e2e:
+        suite:
+            run: [npx, cypress, run]
+            open: [npx, cypress, open]
+        results: [cypress/results]
+        build:
+            module: { script: build:module, recreate: true }
+            assets: build:assets
+    converterData: data/converter.json
     assets:
-        - { from: src/thalorna.mjs, to: thalorna.mjs }
+        - { from: build/browser/thalorna.mjs, to: thalorna.mjs }
+        - { from: src/script-converter.css, to: script-converter.css }
         - { from: lang, to: lang }
         - { from: README.md, to: README.md }
         - { from: LICENSE.md, to: LICENSE.md }
@@ -714,6 +726,8 @@ packageBuild:
               path: lang/en.json
         esmodules:
             - thalorna.mjs
+        styles:
+            - script-converter.css
         # Names every pack this package ships, so everything Thalorna adds
         # appears together in the compendium sidebar under one folder. Adding
         # a pack to `packs:` above means adding it here.

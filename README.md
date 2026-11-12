@@ -2,6 +2,11 @@
 
 This module provides the necessary items, actors, and assets needed to play in the Thalorna setting for Song of Heroic Lands
 
+## Script converter
+
+Open the [script converter](docs/script-converter.md) from the module settings
+to convert between Roman spelling and native scripts under any game system.
+
 ## Building
 
 ```sh

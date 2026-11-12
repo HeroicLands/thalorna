@@ -40,7 +40,7 @@ test("build retains standalone commands and shares one published index with Veld
     const { scripts } = JSON.parse(fs.readFileSync("package.json", "utf8"));
     assert.equal(
         scripts["build:db"],
-        "npm run build:deps && package-build content build --calendaria-version 1.4.2",
+        "npm run build:browser && npm run build:deps && package-build content build --calendaria-version 1.4.2",
     );
     for (const command of [
         "build:content-index",

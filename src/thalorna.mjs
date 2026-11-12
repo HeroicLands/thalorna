@@ -16,8 +16,8 @@
  *
  * This module is almost entirely content: its packs are compiled from
  * `assets/content/` at build time and Foundry loads them from `module.json`
- * without any code running. The one thing code does is offer the Common
- * Calendar to a world that has no calendar of its own.
+ * without any code running. Code offers the Common Calendar to a world
+ * that has no calendar of its own, and a script converter in module settings.
  *
  * It is deliberately usable **without** Song of Heroic Lands. The Item and
  * Actor packs are system-specific and Foundry hides them outside SoHL, but the
@@ -25,6 +25,8 @@
  * so they carry no system of their own. Running under another system is a
  * supported configuration, not an error — nothing here warns about it.
  */
+
+import { registerScriptConverter } from "./script-converter.mjs";
 
 /** This module's Foundry id — the `name` of `package.json`, which the generated
  * `module.json` takes its `id` from. */
@@ -35,30 +37,45 @@ const MODULE_ID = "thalorna";
  * build from `assets/content/.../The_Vilerian_Calendar.md`.
  *
  * Resolved against `import.meta.url` so it carries whatever route prefix the
- * server is mounted under, and fetched at module evaluation, which a module
- * script completes before `DOMContentLoaded` and therefore before `init`.
- * `game.time` reads `CONFIG.time.worldCalendarConfig` later still, in
- * `setupGame`, so the value set in `init` is the one a world gets.
+ * server is mounted under. The fetch is not awaited: a module script's
+ * top-level `await` does not hold back `DOMContentLoaded`, so Foundry can
+ * dispatch `init` before the fetch settles, and a hook registered after the
+ * `await` would never run. Every hook is registered synchronously, and the
+ * calendar is applied by whichever of `init` and the fetch comes last.
  */
-const worldCalendar = await fetch(new URL("calendars/commoncal.json", import.meta.url))
-    .then((response) => (response.ok ? response.json() : Promise.reject(response.status)))
-    .catch((reason) => {
-        console.error(`${MODULE_ID} | Common Calendar unavailable (${reason})`);
-        return null;
-    });
+let worldCalendar = null;
+let initialised = false;
+let calendarApplied = false;
 
-Hooks.once("init", () => {
-    const module = game.modules.get(MODULE_ID);
-    console.log(`${MODULE_ID} | Thalorna Setting ${module?.version} initializing`);
-
+/** Set the world calendar once `init` has run and the definition has arrived. */
+function applyWorldCalendar() {
+    if (!initialised || !worldCalendar || calendarApplied) return;
+    calendarApplied = true;
     // A world that has a calendar keeps it. Foundry's own default is the only
     // value this module overwrites, so whichever calendar module ran first
     // holds the slot, and one that runs after this overwrites it in turn.
-    if (!worldCalendar) return;
     if (CONFIG.time.worldCalendarConfig !== foundry.data.SIMPLIFIED_GREGORIAN_CALENDAR_CONFIG) {
         console.log(`${MODULE_ID} | another package has set the world calendar; leaving it`);
         return;
     }
     CONFIG.time.worldCalendarConfig = worldCalendar;
     console.log(`${MODULE_ID} | world calendar set to ${worldCalendar.name}`);
+}
+
+fetch(new URL("calendars/commoncal.json", import.meta.url))
+    .then((response) => (response.ok ? response.json() : Promise.reject(response.status)))
+    .then((calendar) => {
+        worldCalendar = calendar;
+        applyWorldCalendar();
+    })
+    .catch((reason) => {
+        console.error(`${MODULE_ID} | Common Calendar unavailable (${reason})`);
+    });
+
+Hooks.once("init", () => {
+    registerScriptConverter();
+    const module = game.modules.get(MODULE_ID);
+    console.log(`${MODULE_ID} | Thalorna Setting ${module?.version} initializing`);
+    initialised = true;
+    applyWorldCalendar();
 });

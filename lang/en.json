@@ -1,1 +1,24 @@
-{}
+{
+    "THALORNA": {
+        "Converter": {
+            "title": "Script Converter",
+            "open": "Open Converter",
+            "hint": "Convert between Roman spelling and the scripts of Thalorna.",
+            "language": "Language",
+            "chooseLanguage": "Choose a language",
+            "encoding": "Script and encoding",
+            "chooseEncoding": "Choose an encoding",
+            "direction": "Direction",
+            "toNative": "Roman to native script",
+            "toRoman": "Native script to Roman",
+            "input": "Input",
+            "output": "Result",
+            "copy": "Copy result",
+            "copyError": "Clipboard unavailable. Select and copy the result manually.",
+            "loadError": "The script converter data could not be loaded. Reopen the window to retry.",
+            "inputFinding": "Input:",
+            "romanCheck": "Roman input vocabulary:",
+            "vocabularyNotChecked": "Vocabulary not checked: this language has no lexicon."
+        }
+    }
+}
