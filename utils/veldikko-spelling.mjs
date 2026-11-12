@@ -157,7 +157,7 @@ function spellingRows(tongue) {
         y: ["y", "Y", "ý", "Ý"],
         ë: ["ë", "Ë"],
     };
-    const dip = new Set(["ai", "au", "ia", "eo", "oi", "ou", "ui", "uo", "ei", "ie", "yi", "ye"]);
+    const dip = new Set(["ai", "au", "ia", "eo", "oi", "ou", "ui", "uo", "ei", "ie"]);
     // The consonant y is written only before a vowel or after i or u, by the
     // pair rows below; it has no standalone row.
     for (const [b, vs] of Object.entries(V))
@@ -214,12 +214,13 @@ function spellingRows(tongue) {
 function addSenaliVowels(add) {
     const acute = { a: "á", e: "é", i: "í", o: "ó", u: "ú", y: "ý" };
     const tones = { "\u030c": "rise", "\u0302": "fall" };
-    const write = (from, letters, after) => {
+    // The consonant y has rows only before a vowel, so a closing y is refused.
+    const write = (from, letters, after, glide = false) => {
         add(from, ch("carrier", ...letters, "carrier"), "", { before: "vowel", at: "start" });
-        add(from, ch("carrier", ...letters), "", { at: "start" });
+        if (!glide) add(from, ch("carrier", ...letters), "", { at: "start" });
         for (const condition of after ?? [{}]) {
             add(from, ch(...letters, "carrier"), "", { ...condition, before: "vowel" });
-            add(from, ch(...letters), "", condition);
+            if (!glide) add(from, ch(...letters), "", condition);
         }
     };
     const groups = new Set([..."aiu"].map((v) => v + v).concat(SENALI_DIPHTHONGS));
@@ -257,8 +258,8 @@ function addSenaliVowels(add) {
     // A glide w is the vowel u it glides from: wo and wi spell the pairs uo and ui.
     for (const last of "oi") spelled.push({ from: "w" + last, last, letters: ["u", last] });
     for (const [base, stressed] of Object.entries(acute)) {
-        write(base, [base]);
-        write(stressed, [base, "emphasis"]);
+        write(base, [base], undefined, base === "y");
+        write(stressed, [base, "emphasis"], undefined, base === "y");
     }
     // ì is the front vowel, drawn with the y mark. It has no precomposed
     // stressed form, so it takes no acute row.

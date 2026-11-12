@@ -166,9 +166,13 @@ data:
     yá: [SIGN_Y, CARRIER, SIGN_A]
     ýa: [SIGN_Y, CARRIER, SIGN_A]
     ýá: [SIGN_Y, CARRIER, SIGN_A]
+    ye: [SIGN_Y, CARRIER, SIGN_E]
     yé: [SIGN_Y, CARRIER, SIGN_E]
+    ýe: [SIGN_Y, CARRIER, SIGN_E]
     ýé: [SIGN_Y, CARRIER, SIGN_E]
+    yi: [SIGN_Y, CARRIER, SIGN_I]
     yí: [SIGN_Y, CARRIER, SIGN_I]
+    ýi: [SIGN_Y, CARRIER, SIGN_I]
     ýí: [SIGN_Y, CARRIER, SIGN_I]
     yo: [SIGN_Y, CARRIER, SIGN_O]
     yó: [SIGN_Y, CARRIER, SIGN_O]
@@ -317,9 +321,13 @@ data:
       - {match: yá, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A], at: start}
       - {match: ýa, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A], at: start}
       - {match: ýá, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A], at: start}
+      - {match: ye, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E], at: start}
       - {match: yé, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E], at: start}
+      - {match: ýe, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E], at: start}
       - {match: ýé, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E], at: start}
+      - {match: yi, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I], at: start}
       - {match: yí, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I], at: start}
+      - {match: ýi, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I], at: start}
       - {match: ýí, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I], at: start}
       - {match: yo, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_O], at: start}
       - {match: yó, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_O], at: start}

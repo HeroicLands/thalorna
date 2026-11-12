@@ -5,13 +5,18 @@ import test from "node:test";
 import { decodeText, encodeText } from "@heroiclands/package-build/engine/encoding";
 import { encodingReference } from "./encoding-reference.mjs";
 
-const { encoding } = encodingReference("aele", { font: "veldikko" });
+for (const [language, accepted] of [
+    ["aele", ["kiy", "kuy", "kaya", "keyo", "yal", "kya", "kye", "kyi", "eye"]],
+    ["sina", ["kaya", "keyo", "yal", "kya", "kye", "kyi", "eye"]],
+]) {
+    const { encoding } = encodingReference(language, { font: "veldikko" });
 
-test("Áelendi Veldikko writes y only before a vowel or after i and u", () => {
-    for (const source of ["ay", "ey", "oy", "kay", "key", "koy", "kyn", "kayk"])
-        assert.throws(() => encodeText(encoding, source), /matches "y"/u, source);
-    for (const source of ["kiy", "kuy", "kaya", "keyo", "yal"]) {
-        const native = encodeText(encoding, source);
-        assert.equal(encodeText(encoding, decodeText(encoding, native)), native, source);
-    }
-});
+    test(`${language}: Veldikko writes the consonant y before a vowel and refuses every closing y`, () => {
+        for (const source of ["ay", "ey", "oy", "kay", "key", "koy", "kyn", "kayk"])
+            assert.throws(() => encodeText(encoding, source), /matches "y"/u, source);
+        for (const source of accepted) {
+            const native = encodeText(encoding, source);
+            assert.equal(encodeText(encoding, decodeText(encoding, native)), native, source);
+        }
+    });
+}

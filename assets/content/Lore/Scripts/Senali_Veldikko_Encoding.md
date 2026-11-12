@@ -54,8 +54,6 @@ data:
     ó: [SIGN_O, EMPHASIS]
     u: SIGN_U
     ú: [SIGN_U, EMPHASIS]
-    y: SIGN_Y
-    ý: [SIGN_Y, EMPHASIS]
     ì: SIGN_Y
     j: SIGN_Y
     aa: [SIGN_A, LONG]
@@ -257,10 +255,8 @@ data:
       - {match: ú, emit: [CARRIER, SIGN_U, EMPHASIS], at: start}
       - {match: ú, emit: [SIGN_U, EMPHASIS, CARRIER], before: vowel}
       - {match: y, emit: [CARRIER, SIGN_Y, CARRIER], before: vowel, at: start}
-      - {match: y, emit: [CARRIER, SIGN_Y], at: start}
       - {match: y, emit: [SIGN_Y, CARRIER], before: vowel}
       - {match: ý, emit: [CARRIER, SIGN_Y, EMPHASIS, CARRIER], before: vowel, at: start}
-      - {match: ý, emit: [CARRIER, SIGN_Y, EMPHASIS], at: start}
       - {match: ý, emit: [SIGN_Y, EMPHASIS, CARRIER], before: vowel}
       - {match: ì, emit: [CARRIER, SIGN_Y, CARRIER], before: vowel, at: start}
       - {match: ì, emit: [CARRIER, SIGN_Y], at: start}
