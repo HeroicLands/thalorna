@@ -3,7 +3,7 @@ shortcode: alfmundkrtn
 name: {full: Alfmund Kaerton, en: [Tavos Alfmund, Alfmund the Tavos]}
 type: being
 subType: npc
-description: "One of the two tavoi of the Republic of Ondareth for the year, a horse-breeding senator of Stonyford who has taken the field command on the northern frontier and the highland levy with it."
+description: "One of the two tavoi of the Republic of Ondareth for the year, a horse-breeding senator of Stoniford who has taken the field command on the northern frontier and the highland levy with it."
 tags: []
 data:
   icon: icon-person
@@ -42,7 +42,7 @@ Alfmund Kaerton is a 44-year-old man of 5'10" and medium build, with tanned, wea
 
 **Age 44. Tavos of the Republic of Ondareth. Wants the frontier quiet and his herdsmen home by the autumn fair.**
 
-Alfmund Kaerton is the greatest horse-breeder of [[place-stonyford|Stonyford]] and one of the two _tavoi_ of the [[affiliation-repblcndrth|Republic of Ondareth]] for the year. By custom one _tavos_ keeps the city and the other takes the field, and Alfmund has taken the field: he has come north to [[place-kaermouth|Kaermouth]] to command on the frontier for the spring, with the levy the Senate has voted taken from the Highlands' own men at the Stonyford fair.
+Alfmund Kaerton is the greatest horse-breeder of [[place-stonyford|Stoniford]] and one of the two _tavoi_ of the [[affiliation-repblcndrth|Republic of Ondareth]] for the year. By custom one _tavos_ keeps the city and the other takes the field, and Alfmund has taken the field: he has come north to [[place-kaermouth|Kaermouth]] to command on the frontier for the spring, with the levy the Senate has voted taken from the Highlands' own men at the Stoniford fair.
 
 He and the Vandraks of the frontier legion, [[being-godstanhrdl|Godstan Hardli]], disagree about what the legion's patrols into the forest are for. Godstan wants the tribes that burned the watch-burgs punished. Alfmund wants the frontier quiet by midsummer, so that he can send the highland men home to their herds.
 
@@ -54,7 +54,7 @@ Alfmund is shrewd, easy-going and stubborn under it. He talks about horses when 
 
 ### Motivation
 
-He wants his year to pass without a war, and his herdsmen back at Stonyford for the autumn fair.
+He wants his year to pass without a war, and his herdsmen back at Stoniford for the autumn fair.
 
 ### Strengths
 
@@ -86,4 +86,4 @@ Godstan Hardli thinks him a horse-dealer playing at war.
 ## Plot Hooks
 
 1. **A word at the forest edge.** Alfmund wants a message carried to a Peshtar clan that trades with the factors at Kaermouth, asking whether the burnings can be paid for in cattle rather than in blood.
-2. **The best colt.** A colt Alfmund was keeping for the autumn fair has been driven off from his pastures at Stonyford, and he wants it found before the levy's men hear about it.
+2. **The best colt.** A colt Alfmund was keeping for the autumn fair has been driven off from his pastures at Stoniford, and he wants it found before the levy's men hear about it.

@@ -480,7 +480,7 @@ Inflexibility in Thought
 
 ### Patrons
 
-Landholder [Kestin Haroway]{.name data-type="being/npc"}
+Landholder [Kestin Harowei]{.name data-type="being/npc"}
 : A wealthy landowner who employs Tamura exclusively for all structural work on his sprawling estates. Kestin considers Tamura's work to be an investment in the permanence of his properties and pays handsomely for first call on his time.
 
 The great [[affiliation-vyalendra|Vyalendra]] temple
@@ -491,8 +491,8 @@ Shipbuilder Master [Alden Coursewright]{.name data-type="being/npc"}
 
 ### Enemies
 
-Merchant [Grayson Thrift]{.name data-type="being/npc"}
-: A merchant who has turned much of the wood-working trade over to mills, creating cheaper, faster work at the cost of quality. Grayson views Tamura's insistence on traditional methods as an impediment to progress and has publicly derided his approach as antiquated. Grayson actively seeks to undercut Tamura's prices and steal his commissions.
+Merchant [Greison Thrift]{.name data-type="being/npc"}
+: A merchant who has turned much of the wood-working trade over to mills, creating cheaper, faster work at the cost of quality. Greison views Tamura's insistence on traditional methods as an impediment to progress and has publicly derided his approach as antiquated. Greison actively seeks to undercut Tamura's prices and steal his commissions.
 
 Rival Craftsman [Marden the Swift]{.name data-type="being/npc"}
 : A younger woodcrafter who has made a name for himself by producing fashionable, ornate pieces quickly and cheaply. Marden sees Tamura as a relic of the old ways, and he actively courts the younger patrons Tamura alienates with his refusal to adapt.
@@ -511,7 +511,7 @@ The Haunted Commission
 : A mysterious man of rank from the far borders approaches Tamura with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamura has never shared with anyone. The stranger seems to know precisely what Tamura builds in secret, in his own time, projects he has never shown to clients. When Tamura refuses, the stranger produces a document suggesting that these same structures appear in sealed architectural records of the old kingdom in [[place-rajavalilib|the Rajavali Library]]. Tamura must determine how this stranger knows his private work and what they intend to do with such knowledge.
 
 The Apprentice's Betrayal
-: A young apprentice of rare talent whom Tamura took under his wing as a potential heir to the Shuravan lineage disappears after three years of study. Months later, Tamura discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamura's reputation. When Tamura confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Grayson Thrift, but the apprentice is now too frightened to break free. Tamura can help his former student risk Grayson's wrath or allow his own reputation to go on deteriorating.
+: A young apprentice of rare talent whom Tamura took under his wing as a potential heir to the Shuravan lineage disappears after three years of study. Months later, Tamura discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamura's reputation. When Tamura confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Greison Thrift, but the apprentice is now too frightened to break free. Tamura can help his former student risk Greison's wrath or allow his own reputation to go on deteriorating.
 
 The Living Wood
 : An elderly scholar approaches Tamura with a fragment of wood that behaves impossibly—it never rots, grows in strange directions, and seems to be almost alive. The scholar claims that Tamura is the only craftsman with the skill to work with such material and requests he create something specific from it, though the scholar is reluctant to reveal what. Tamura discovers that this wood is somehow connected to an ancient curse or blessing affecting the region, and that both good and dark forces seek it.

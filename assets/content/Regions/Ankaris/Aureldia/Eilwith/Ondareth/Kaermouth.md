@@ -24,7 +24,7 @@ The coast road comes in from the south past ditched fields and a line of gallows
 
 ## What the Town Lives By {#what-the-town-lives-by}
 
-The legion buys everything the town makes: bread, beer, boots, rope, washing and the work of its smiths. The harbor lands fish for the camp and for Thornbury, and the Senate's ships put in to take on water and to carry the legion's sick south. A few merchant houses keep factors here who meet Peshtar clans at the forest edge under old terms and trade salt and iron for cattle, and the legion keeps an eye on them.
+The legion buys everything the town makes: bread, beer, boots, rope, washing and the work of its smiths. The harbor lands fish for the camp and for Thornburi, and the Senate's ships put in to take on water and to carry the legion's sick south. A few merchant houses keep factors here who meet Peshtar clans at the forest edge under old terms and trade salt and iron for cattle, and the legion keeps an eye on them.
 
 ## Who Rules and Keeps Order {#who-rules}
 
@@ -42,7 +42,7 @@ One of the two tavoi of the year, [[being-alfmundkrtn|Alfmund Kaerton]], has com
 
 ## History {#history}
 
-The republic raised the camp a generation after the rising at Thornbury, when the levies that had served Zalmen could no longer hold the frontier as seasonal musters and the Senate voted a legion that would not go home ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). The town grew up around the camp.
+The republic raised the camp a generation after the rising at Thornburi, when the levies that had served Zalmen could no longer hold the frontier as seasonal musters and the Senate voted a legion that would not go home ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). The town grew up around the camp.
 
 ## See Also
 

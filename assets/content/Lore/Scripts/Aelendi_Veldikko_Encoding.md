@@ -62,8 +62,6 @@ data:
     ó: SIGN_O
     u: SIGN_U
     ú: SIGN_U
-    y: SIGN_Y
-    ý: SIGN_Y
     ë: SIGN_E_DIAERESIS
     j: SIGN_Y
     aa: [SIGN_A, LONG]
@@ -82,10 +80,6 @@ data:
     áó: [SIGN_A, CARRIER, SIGN_O]
     aú: [SIGN_A, CARRIER, SIGN_U]
     áú: [SIGN_A, CARRIER, SIGN_U]
-    ay: [SIGN_A, CARRIER, SIGN_Y]
-    aý: [SIGN_A, CARRIER, SIGN_Y]
-    áy: [SIGN_A, CARRIER, SIGN_Y]
-    áý: [SIGN_A, CARRIER, SIGN_Y]
     aë: [SIGN_A, CARRIER, SIGN_E_DIAERESIS]
     áë: [SIGN_A, CARRIER, SIGN_E_DIAERESIS]
     ea: [SIGN_E, CARRIER, SIGN_A]
@@ -104,10 +98,6 @@ data:
     eú: [SIGN_E, CARRIER, SIGN_U]
     éu: [SIGN_E, CARRIER, SIGN_U]
     éú: [SIGN_E, CARRIER, SIGN_U]
-    ey: [SIGN_E, CARRIER, SIGN_Y]
-    eý: [SIGN_E, CARRIER, SIGN_Y]
-    éy: [SIGN_E, CARRIER, SIGN_Y]
-    éý: [SIGN_E, CARRIER, SIGN_Y]
     eë: [SIGN_E_DIAERESIS, LONG]
     éë: [SIGN_E_DIAERESIS, LONG]
     iá: [SIGN_I, CARRIER, SIGN_A]
@@ -148,10 +138,6 @@ data:
     óó: [SIGN_O, CARRIER, SIGN_O]
     oú: [SIGN_O, CARRIER, SIGN_U]
     óú: [SIGN_O, CARRIER, SIGN_U]
-    oy: [SIGN_O, CARRIER, SIGN_Y]
-    oý: [SIGN_O, CARRIER, SIGN_Y]
-    óy: [SIGN_O, CARRIER, SIGN_Y]
-    óý: [SIGN_O, CARRIER, SIGN_Y]
     oë: [SIGN_O, CARRIER, SIGN_E_DIAERESIS]
     óë: [SIGN_O, CARRIER, SIGN_E_DIAERESIS]
     ua: [SIGN_U, CARRIER, SIGN_A]
@@ -180,9 +166,13 @@ data:
     yá: [SIGN_Y, CARRIER, SIGN_A]
     ýa: [SIGN_Y, CARRIER, SIGN_A]
     ýá: [SIGN_Y, CARRIER, SIGN_A]
+    ye: [SIGN_Y, CARRIER, SIGN_E]
     yé: [SIGN_Y, CARRIER, SIGN_E]
+    ýe: [SIGN_Y, CARRIER, SIGN_E]
     ýé: [SIGN_Y, CARRIER, SIGN_E]
+    yi: [SIGN_Y, CARRIER, SIGN_I]
     yí: [SIGN_Y, CARRIER, SIGN_I]
+    ýi: [SIGN_Y, CARRIER, SIGN_I]
     ýí: [SIGN_Y, CARRIER, SIGN_I]
     yo: [SIGN_Y, CARRIER, SIGN_O]
     yó: [SIGN_Y, CARRIER, SIGN_O]
@@ -208,9 +198,23 @@ data:
     ëó: [SIGN_E_DIAERESIS, CARRIER, SIGN_O]
     ëu: [SIGN_E_DIAERESIS, CARRIER, SIGN_U]
     ëú: [SIGN_E_DIAERESIS, CARRIER, SIGN_U]
-    ëy: [SIGN_E_DIAERESIS, CARRIER, SIGN_Y]
-    ëý: [SIGN_E_DIAERESIS, CARRIER, SIGN_Y]
     ëë: [SIGN_E_DIAERESIS, LONG]
+    yiy: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    yiý: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    yíy: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    yíý: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    yuy: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    yuý: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    yúy: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    yúý: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    ýiy: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    ýiý: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    ýíy: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    ýíý: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    ýuy: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    ýuý: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    ýúy: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    ýúý: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
   rules:
     normalization: NFC
     matching: longest-first
@@ -229,8 +233,6 @@ data:
       - {match: ó, emit: [CARRIER, SIGN_O], at: start}
       - {match: u, emit: [CARRIER, SIGN_U], at: start}
       - {match: ú, emit: [CARRIER, SIGN_U], at: start}
-      - {match: y, emit: [CARRIER, SIGN_Y], at: start}
-      - {match: ý, emit: [CARRIER, SIGN_Y], at: start}
       - {match: ë, emit: [CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: j, emit: [CARRIER, SIGN_Y], at: start}
       - {match: aa, emit: [CARRIER, SIGN_A, LONG], at: start}
@@ -249,10 +251,6 @@ data:
       - {match: áó, emit: [CARRIER, SIGN_A, CARRIER, SIGN_O], at: start}
       - {match: aú, emit: [CARRIER, SIGN_A, CARRIER, SIGN_U], at: start}
       - {match: áú, emit: [CARRIER, SIGN_A, CARRIER, SIGN_U], at: start}
-      - {match: ay, emit: [CARRIER, SIGN_A, CARRIER, SIGN_Y], at: start}
-      - {match: aý, emit: [CARRIER, SIGN_A, CARRIER, SIGN_Y], at: start}
-      - {match: áy, emit: [CARRIER, SIGN_A, CARRIER, SIGN_Y], at: start}
-      - {match: áý, emit: [CARRIER, SIGN_A, CARRIER, SIGN_Y], at: start}
       - {match: aë, emit: [CARRIER, SIGN_A, CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: áë, emit: [CARRIER, SIGN_A, CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: ea, emit: [CARRIER, SIGN_E, CARRIER, SIGN_A], at: start}
@@ -271,10 +269,6 @@ data:
       - {match: eú, emit: [CARRIER, SIGN_E, CARRIER, SIGN_U], at: start}
       - {match: éu, emit: [CARRIER, SIGN_E, CARRIER, SIGN_U], at: start}
       - {match: éú, emit: [CARRIER, SIGN_E, CARRIER, SIGN_U], at: start}
-      - {match: ey, emit: [CARRIER, SIGN_E, CARRIER, SIGN_Y], at: start}
-      - {match: eý, emit: [CARRIER, SIGN_E, CARRIER, SIGN_Y], at: start}
-      - {match: éy, emit: [CARRIER, SIGN_E, CARRIER, SIGN_Y], at: start}
-      - {match: éý, emit: [CARRIER, SIGN_E, CARRIER, SIGN_Y], at: start}
       - {match: eë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG], at: start}
       - {match: éë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG], at: start}
       - {match: iá, emit: [CARRIER, SIGN_I, CARRIER, SIGN_A], at: start}
@@ -315,10 +309,6 @@ data:
       - {match: óó, emit: [CARRIER, SIGN_O, CARRIER, SIGN_O], at: start}
       - {match: oú, emit: [CARRIER, SIGN_O, CARRIER, SIGN_U], at: start}
       - {match: óú, emit: [CARRIER, SIGN_O, CARRIER, SIGN_U], at: start}
-      - {match: oy, emit: [CARRIER, SIGN_O, CARRIER, SIGN_Y], at: start}
-      - {match: oý, emit: [CARRIER, SIGN_O, CARRIER, SIGN_Y], at: start}
-      - {match: óy, emit: [CARRIER, SIGN_O, CARRIER, SIGN_Y], at: start}
-      - {match: óý, emit: [CARRIER, SIGN_O, CARRIER, SIGN_Y], at: start}
       - {match: oë, emit: [CARRIER, SIGN_O, CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: óë, emit: [CARRIER, SIGN_O, CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: ua, emit: [CARRIER, SIGN_U, CARRIER, SIGN_A], at: start}
@@ -347,9 +337,13 @@ data:
       - {match: yá, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A], at: start}
       - {match: ýa, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A], at: start}
       - {match: ýá, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A], at: start}
+      - {match: ye, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E], at: start}
       - {match: yé, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E], at: start}
+      - {match: ýe, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E], at: start}
       - {match: ýé, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E], at: start}
+      - {match: yi, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I], at: start}
       - {match: yí, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I], at: start}
+      - {match: ýi, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I], at: start}
       - {match: ýí, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I], at: start}
       - {match: yo, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_O], at: start}
       - {match: yó, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_O], at: start}
@@ -375,9 +369,23 @@ data:
       - {match: ëó, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_O], at: start}
       - {match: ëu, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_U], at: start}
       - {match: ëú, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_U], at: start}
-      - {match: ëy, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_Y], at: start}
-      - {match: ëý, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_Y], at: start}
       - {match: ëë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG], at: start}
+      - {match: yiy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: yiý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: yíy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: yíý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: yuy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: yuý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: yúy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: yúý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: ýiy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: ýiý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: ýíy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: ýíý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: ýuy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: ýuý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: ýúy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: ýúý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
 ---
 
 This encoding writes [[skill-aelendlng|Áelendi]] in veldikko. A passage selects it with `enc=aeleveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
@@ -387,12 +395,12 @@ This encoding writes [[skill-aelendlng|Áelendi]] in veldikko. A passage selects
 - **Each consonant is its letter**, and its Roman spelling is lowercase. _p_, _v_, _m_, _t_, _s_, _n_, _d_, _k_, _h_, _l_, _r_ and _g_ are one letter each.
 - **The digraphs are one letter each:** _ng_, _th_, _kh_, _gh_ and _dh_. _N_ before _k_ is the letter _ng_ and then _k_.
 - **_th_, _kh_, _gh_ and _dh_ each have a letter of their own**, and are read as [[doc-prnncthlrn|Pronouncing Thalorna]] reads them.
-- **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _sh_ is _s_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
+- **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _sh_ is _s_, _x_ is _k_ then _s_, and _j_ is the consonant _y_. No roman letter is left in the text.
 - **A doubled consonant is its letter once, with the length bar beneath it.**
-- **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_, _y_ and _ë_ are seven marks, and an acute vowel is the plain vowel, since stress is never written.
+- **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_ and _ë_ are six vowel marks, and _y_ is a consonant with a mark of its own, and an acute vowel is the plain vowel, since stress is never written.
 - **A vowel at the start of a word, or sounded apart from the one before it, stands on the carrier.**
 - **A doubled vowel is one long mark**, and _eë_ is the long _ë_.
-- **A diphthong is two marks over one letter**, in the order they are said: _ai_, _au_, _ia_, _eo_, _oi_, _ou_, _ui_, _uo_, _ei_, _ie_, _yi_ and _ye_.
+- **A vowel pair is two marks over one letter**, in the order they are said: _ai_, _au_, _ei_, _oi_ and _ou_. Only _iy_ and _uy_ close with the mark _y_. Any other two vowels side by side are two marks, each said.
 - **An acute on the second letter of a doubled vowel or a diphthong starts a syllable there**, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it: the second vowel stands on the carrier, so _aí_ is _a_ and then _i_ on the carrier.
 - **A hyphen is a word space**, and at the start or end of a word it writes nothing.
 - **Pitch and emphasis are not written.** The face keeps their signs for a poem set by hand.

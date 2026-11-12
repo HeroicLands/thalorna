@@ -1,9 +1,21 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import fs from "node:fs";
 import test from "node:test";
+import YAML from "yaml";
+import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { decodeText, encodeText } from "@heroiclands/package-build/engine/encoding";
 import { encodingReference } from "./encoding-reference.mjs";
+import { notePath } from "./note-index.mjs";
+
+const khazari = YAML.parse(
+    splitFrontmatter(fs.readFileSync(notePath("skill-khazarlng"), "utf8")).yaml,
+);
+const forms = khazari.data.words
+    .flatMap(({ form, variants }) => [form, ...(variants ?? [])])
+    .filter((form) => typeof form === "string")
+    .map((form) => form.replace(/^-|-$/gu, ""));
 
 for (const font of ["pirzath-hand", "pirzath-carved"]) {
     const { encoding, codes } = encodingReference("khaz", { font });
@@ -47,6 +59,20 @@ for (const font of ["pirzath-hand", "pirzath-carved"]) {
             const decoded = decodeText(encoding, native);
             assert.equal(decoded, `d${source}k`, source);
             assert.equal(encodeText(encoding, decoded), native, source);
+        }
+    });
+    test(`${font}: a closing y has no letter and is refused`, () => {
+        for (const source of ["kay", "key", "koy", "kiy", "kuy", "kayk", "kaiy"])
+            assert.throws(() => encodeText(encoding, source), /matches "y"/u, source);
+        assert.equal(encodeText(encoding, "kaya"), write("KAMV", "A", "YA", "A"));
+    });
+
+    test(`${font}: every Khazari form round-trips and contains no y outside a glide`, () => {
+        assert(forms.length > 100, "the lexicon supplies forms");
+        for (const form of forms) {
+            assert(!/y(?![aeiouáéíóú])/iu.test(form), `${form}: a closing y`);
+            const native = encodeText(encoding, form);
+            assert.equal(encodeText(encoding, decodeText(encoding, native)), native, form);
         }
     });
 }

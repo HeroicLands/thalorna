@@ -1119,7 +1119,7 @@ data:
     - {form: sekond, class: num, field: Number and appearance, gloss: second, concept: second}
     - {form: third, class: num, field: Number and appearance, gloss: third, concept: third}
     - {form: half, class: num, field: Number and appearance, gloss: half, concept: half}
-    - {form: many, class: num, field: Number and appearance, gloss: many, concept: many}
+    - {form: meni, class: num, field: Number and appearance, gloss: many, concept: many}
     - {form: few, class: num, field: Number and appearance, gloss: few, concept: few}
     - form: none
       class: pron
@@ -1910,7 +1910,7 @@ data:
       field: Reference and questions
       gloss: someone; an unspecified person
       concept: someone
-    - form: any man
+    - form: eni man
       class: pron
       field: Reference and questions
       gloss: anyone; any person, with man used generically rather than restricted to male people
@@ -1930,7 +1930,7 @@ data:
       field: Reference and questions
       gloss: something
       concept: something
-    - form: anything
+    - form: enithing
       class: pron
       field: Reference and questions
       gloss: anything
@@ -1993,7 +1993,7 @@ data:
       field: Reference and questions
       gloss: How are you? A question asking about condition; how also asks about manner or means
       concept: question-how
-    - form: "How many ben there."
+    - form: "How meni ben there."
       class: call
       field: Reference and questions
       gloss: How many are there? A question asking the number of countable things
@@ -2661,7 +2661,7 @@ data:
       field: Kindred and society
       gloss: an individual; a single person
       concept: individual
-    - form: kompany
+    - form: kompani
       class: n
       field: Kindred and society
       gloss: a group of people
@@ -3977,8 +3977,8 @@ data:
     - {form: grei, position: opening, kind: place, sense: "gray, weathered", examples: [Greiwater]}
     - {form: kold, position: opening, kind: place, sense: cold, examples: [Koldbek]}
     - {form: high, position: opening, kind: place, sense: high, examples: [Highfold]}
-    - {form: stony, position: opening, kind: place, sense: full of stones, examples: [Stonyhaugh]}
-    - {form: thorn, position: opening, kind: place, sense: the thorn bush, examples: [Thornbury]}
+    - {form: stoni, position: opening, kind: place, sense: full of stones, examples: [Stonihaugh]}
+    - {form: thorn, position: opening, kind: place, sense: the thorn bush, examples: [Thornburi]}
     - {form: raven, position: opening, kind: place, sense: the raven, examples: [Ravenmoor]}
     - {form: storm, position: opening, kind: place, sense: storm, examples: [Stormplain]}
     - {form: hush, position: opening, kind: place, sense: silence, examples: [Hushwood]}
@@ -4021,7 +4021,7 @@ data:
       position: closing
       kind: place
       sense: low meadow by a river
-      examples: [Stonyhaugh]
+      examples: [Stonihaugh]
     - {form: bek, position: closing, kind: place, sense: a stream, examples: [Koldbek]}
     - {form: dale, position: closing, kind: place, sense: a valley, examples: [Threndale]}
     - form: water
@@ -4045,7 +4045,7 @@ data:
       kind: place
       sense: a grassy valley floor
       examples: [Sunnerslade]
-    - {form: buri, position: closing, kind: place, sense: a fortified town, examples: [Thornbury]}
+    - {form: buri, position: closing, kind: place, sense: a fortified town, examples: [Thornburi]}
     - {form: moor, position: closing, kind: place, sense: open wet upland, examples: [Ravenmoor]}
     - form: mouth
       position: closing
@@ -4255,14 +4255,14 @@ data:
     - {name: Ravenmoor, kind: place, built: [raven, moor]}
     - {name: Sherwin, kind: byname, built: [sher, win]}
     - {name: Somervell, kind: byname, built: [somer, vell]}
-    - {name: Stonyhaugh, kind: place, built: [stony, haugh]}
+    - {name: Stonihaugh, kind: place, built: [stoni, haugh]}
     - {name: Stormplain, kind: place, built: [storm, plain]}
     - {name: Stormveil, kind: place, built: [storm, veil]}
     - {name: Storton, kind: byname, built: [stor, ton]}
     - {name: Sunderfells, kind: place, built: [sunder, fells]}
     - {name: Sunderwiind, kind: place, built: [sunder, wiind]}
     - {name: Sunnerslade, kind: place, built: [sunner, slade]}
-    - {name: Thornbury, kind: place, built: [thorn, buri]}
+    - {name: Thornburi, kind: place, built: [thorn, buri]}
     - {name: Threndale, kind: place, built: [thren, dale]}
     - {name: Threnhallow, kind: place, built: [thren, hallow]}
     - {name: Vargate, kind: place, built: [var, gate]}
@@ -4315,7 +4315,7 @@ data:
     - name: Baridan
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - {name: Blakkiln Priory, kind: place, why: A place name of two words; no element builds it.}
+    - {name: Blakkiln Priori, kind: place, why: A place name of two words; no element builds it.}
     - name: Kélavren
       kind: byname
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
@@ -4516,7 +4516,7 @@ data:
       kind: byname
       why: "An Élavendri-form name, borne by a Dúnavarran of the Synod's court."
     - {name: Kaermouth, kind: place, built: [kaer, mouth]}
-    - {name: Stonyford, kind: place, built: [stony, ford]}
+    - {name: Stoniford, kind: place, built: [stoni, ford]}
     - {name: Koldmere, kind: place, built: [kold, mere]}
     - {name: Harwin, kind: given, built: [har, win]}
     - {name: Kuthwald, kind: given, built: [kuth, wald]}
@@ -4596,6 +4596,31 @@ data:
     - {name: Senek, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
     - {name: Tessem, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
   retired:
+    - {form: Thornbury, instead: Thornburi, why: y is never a vowel}
+    - {form: Blakkiln Priory, instead: Blakkiln Priori, why: y is never a vowel}
+    - {form: Adley, instead: Adli, why: a surname ends in li}
+    - {form: Alverley, instead: Alverli, why: a surname ends in li}
+    - {form: Barnley, instead: Barnli, why: a surname ends in li}
+    - {form: Brandley, instead: Brandli, why: a surname ends in li}
+    - {form: Brinley, instead: Brinli, why: a surname ends in li}
+    - {form: Brownley, instead: Brownli, why: a surname ends in li}
+    - {form: Hardley, instead: Hardli, why: a surname ends in li}
+    - {form: Helmsley, instead: Helmsli, why: a surname ends in li}
+    - {form: Sherley, instead: Sherli, why: a surname ends in li}
+    - {form: Somerley, instead: Somerli, why: a surname ends in li}
+    - {form: Storley, instead: Storli, why: a surname ends in li}
+    - {form: Thornley, instead: Thornli, why: a surname ends in li}
+    - {form: Winley, instead: Winli, why: a surname ends in li}
+    - {form: Wolfley, instead: Wolfli, why: a surname ends in li}
+    - {form: brinley, instead: brinli, why: a surname ends in li}
+    - {form: klay, instead: klai, why: closing y is not a spelling}
+    - {form: many, instead: meni, why: y is never a vowel}
+    - {form: any man, instead: eni man, why: y is never a vowel}
+    - {form: anything, instead: enithing, why: y is never a vowel}
+    - {form: kompany, instead: kompani, why: y is never a vowel}
+    - {form: stony, instead: stoni, why: y is never a vowel}
+    - {form: Stonyhaugh, instead: Stonihaugh, why: y is never a vowel}
+    - {form: Stonyford, instead: Stoniford, why: y is never a vowel}
     - form: Celivren
       instead: Kelivren
       why: 'holds "c", which Pronouncing Thalorna writes only in "ch"'
@@ -4750,8 +4775,9 @@ rule; an all-uppercase group such as TH in THIKKE remains invalid.
 ### Coined words and names {#coined-pronunciation}
 
 Coined words, names and naming elements follow the guide and the naming
-palette below. Eilwìthi uses ny only before a vowel, and y only before a
-vowel or after one. These limits do not change either consonant's reading.
+palette below. Eilwìthi has no _ny_, and no word closes on _ay_, _ey_ or _oy_: _ai_, _ei_
+and _oi_ stand there. English-shaped words such as _meni_ and _kompani_,
+and the element _stoni_, end on _i_.
 
 ### Foreign words and names {#foreign-names}
 
@@ -4839,9 +4865,9 @@ An ordinary finite present verb has a bare first singular, -est or -st
 with thou, -eth or -th with he, she or it, and -en with every
 plural subject. Ordinary third singular -s is not an alternative. The table
 gives the regular patterns and the common exceptional forms; its plural column
-applies to we, ye and they, as well as plural nouns.
+applies to we, ye and thei, as well as plural nouns.
 
-| Verb  | I     | Thou     | He / she / it | We / ye / they |
+| Verb  | I     | Thou     | He / she / it | We / ye / thei |
 | ----- | ----- | -------- | ------------- | -------------- |
 | speak | speak | speakest | speaketh      | speaken        |
 | love  | love  | lovest   | loveth        | loven          |
@@ -4852,7 +4878,7 @@ applies to we, ye and they, as well as plural nouns.
 | go    | go    | goest    | goeth         | goen           |
 | kome  | kome  | komest   | kometh        | komen          |
 | know  | know  | knowest  | knoweth       | knowen         |
-| say   | sai   | saist    | saith         | sayen          |
+| sai   | sai   | saist    | saith         | sayen          |
 
 An explicit form in the table takes precedence over the regular ending
 pattern. A variant listed in the lexicon is an attested form; the grammar
@@ -5099,7 +5125,7 @@ The harvest song and the crossroads charm above are four-beat couplets.
 
 Names on Eilwìth use the authoritative spellings given in the register. Every name follows the guide. The island's people name by compounding, and the same small stock of elements serves places, people and families.
 
-**A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greiwater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
+**A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonihaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greiwater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
 
 **A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwin_, _Edrun_.
 
@@ -5174,7 +5200,7 @@ GROUP BY kind ORDER BY CASE kind WHEN 'types' THEN 0 WHEN 'folders' THEN 1 WHEN 
 
 **A given name is two elements of the old stock set together,** one for the quality and one for the strength it promises: `leof` + `red`, `hild` + `mund`. A feminine name often closes on `a`, or on `ith` or `rith`.
 
-**A byname is a place, a calling or a descent.** Most are the name of a farm, a spring or a clearing: `chil` + `ton`, `barn` + `well`, `helm` + `s` + `ley`. A name ending in `ing` marks kin of the person it names, and one ending in `ling` marks the small or the young.
+**A byname is a place, a calling or a descent.** Most are the name of a farm, a spring or a clearing: `chil` + `ton`, `barn` + `well`, `helm` + `s` + `li`. A name ending in `ing` marks kin of the person it names, and one ending in `ling` marks the small or the young.
 
 ## Elements
 

@@ -22,11 +22,11 @@ The land is the villagers' own, held in small farms, with the moor above it graz
 
 ## Who Leads It {#who-leads}
 
-Koldmere chooses a reed-reeve each spring to set the cutting and keep the boats, and the reeve speaks for the village to anyone who comes asking, and to the Ondarethan senators at [[place-stonyford|Stonyford]], who buy its fish and its reed. [[being-elfithwgdn|Elfith Wigden]] has been chosen four springs running.
+Koldmere chooses a reed-reeve each spring to set the cutting and keep the boats, and the reeve speaks for the village to anyone who comes asking, and to the Ondarethan senators at [[place-stonyford|Stoniford]], who buy its fish and its reed. [[being-elfithwgdn|Elfith Wigden]] has been chosen four springs running.
 
 ## The Failing or the Quarrel {#present}
 
-The best reed-beds lie east of the village, across the lake's northern end under the Sunderfells, where the hill tenants of [[place-brynwold|Brinwold]] in [[affiliation-kngdmldrth|Aldorath]] claim them too. Each side cuts the other's nets and impounds the other's boats. This winter Brinwold's men took two Koldmere boats and the reed in them, and Elfith Wigden has asked the Stonyford senators to take the matter to [[place-thornbury|Thornbury]] and put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village. They have promised to, as they promise every year.
+The best reed-beds lie east of the village, across the lake's northern end under the Sunderfells, where the hill tenants of [[place-brynwold|Brinwold]] in [[affiliation-kngdmldrth|Aldorath]] claim them too. Each side cuts the other's nets and impounds the other's boats. This winter Brinwold's men took two Koldmere boats and the reed in them, and Elfith Wigden has asked the Stoniford senators to take the matter to [[place-thornbury|Thornburi]] and put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village. They have promised to, as they promise every year.
 
 ## What Is Seen from It {#what-is-seen}
 
@@ -34,7 +34,7 @@ The lake runs away south-east from the beach, farther than the eye reaches; [[pl
 
 ## The Cost of Reaching It {#cost-of-reaching-it}
 
-A track runs to Koldmere from Stonyford across the open grazing, a long day on foot and easy riding. By water a boat from Brinwold's shore makes it in an hour, and that is half the quarrel.
+A track runs to Koldmere from Stoniford across the open grazing, a long day on foot and easy riding. By water a boat from Brinwold's shore makes it in an hour, and that is half the quarrel.
 
 ## See Also {#see-also}
 

@@ -3,7 +3,7 @@ shortcode: dunmundadly
 name: {full: Dunmund Adli, en: [Peltros Dunmund, The Peltros]}
 type: being
 subType: npc
-description: "The peltros of the Republic of Ondareth for the year, a young man of the propertied order who keeps Thornbury's markets, streets and water as the first step of a public career."
+description: "The peltros of the Republic of Ondareth for the year, a young man of the propertied order who keeps Thornburi's markets, streets and water as the first step of a public career."
 tags: []
 data:
   icon: icon-person
@@ -39,7 +39,7 @@ Dunmund Adli is a 31-year-old man of 5'11" and medium build, with fair, freckled
 
 **Age 31. Peltros of the Republic of Ondareth. Wants a good year and a senator's seat at the end of it.**
 
-Dunmund Adli keeps the city of [[place-thornbury|Thornbury]] for the [[affiliation-repblcndrth|Republic of Ondareth]] this year: its markets and their measures, its streets, its water, and the games the Senate gives at the festivals. The office is the usual first step in a public career, and the young men who hold it spend their own money on the games to be remembered at the next election.
+Dunmund Adli keeps the city of [[place-thornbury|Thornburi]] for the [[affiliation-repblcndrth|Republic of Ondareth]] this year: its markets and their measures, its streets, its water, and the games the Senate gives at the festivals. The office is the usual first step in a public career, and the young men who hold it spend their own money on the games to be remembered at the next election.
 
 Dunmund is of a family of the _gulmenoi_ whose money comes from salt, and [[being-harwingrymr|Harwin Greimore]] paid for his election. He takes the work more seriously than the office requires, which the market-holders find inconvenient.
 

@@ -8099,6 +8099,7 @@ data:
       gloss: turn; change direction or facing
       source: {kind: coined}
   retired:
+    - {form: Gar-Meglay, instead: Gar-Meglai, why: closing ay is not a spelling}
     - {form: Chelsuk, instead: Chelsur, why: "ends in none of a vowel, n, t, s, r, l, z or th"}
     - {form: Wal'Enrauqo, instead: Wal'Enraku, why: a house name that does not end in `-u`}
     - {form: athen, instead: thelqen, why: the name of a god from outside the setting}

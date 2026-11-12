@@ -6495,6 +6495,7 @@ data:
     - {name: The Settling at the Two Figs, tongue: translation}
     - {name: The Song of the Two Dispersals, tongue: translation}
   retired:
+    - {form: lushey, instead: lushei, why: closing y is not a spelling}
     - {form: Mvuzi, instead: Ruwozi, why: "built on an Earth word, the lion-clan"}
     - {form: Kambezi, instead: Kolembozi, why: "built on an Earth place name, the crocodile-clan"}
     - {form: Bombwe, instead: Lobwezi, why: "an Earth word, the baobab-clan"}

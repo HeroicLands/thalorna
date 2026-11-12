@@ -3,7 +3,7 @@ shortcode: cthbrtshrwn
 name: {full: Kuthmund Sherwin}
 type: being
 subType: npc
-description: "Kuthmund Sherwin cuts oak and ash behind Thornbury for hulls, wharf piles and warehouse frames."
+description: "Kuthmund Sherwin cuts oak and ash behind Thornburi for hulls, wharf piles and warehouse frames."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -397,7 +397,7 @@ Kuthmund Sherwin is a 51-year-old man who stands 5'11" tall and is broad and sol
 
 **Age 51. Woodcutter.**
 
-Kuthmund Sherwin cuts oak and ash behind [[place-thornbury|Thornbury]] for hulls, wharf piles and warehouse frames. He replants cleared stands with saplings from his nursery and lays timber to season before offering it to the shipwrights. The young cutters call him the old man with the saplings, though many still bring him a difficult tree to judge.
+Kuthmund Sherwin cuts oak and ash behind [[place-thornbury|Thornburi]] for hulls, wharf piles and warehouse frames. He replants cleared stands with saplings from his nursery and lays timber to season before offering it to the shipwrights. The young cutters call him the old man with the saplings, though many still bring him a difficult tree to judge.
 
 The demand to send the fleet against [[place-stormveld|Stormveld]] brings buyers who want sound timber immediately. Kuthmund distinguishes a tree fit to fell from a beam fit to frame. A senator's factor pressing for both in one week gets the same answer as a boatbuilder without political friends.
 

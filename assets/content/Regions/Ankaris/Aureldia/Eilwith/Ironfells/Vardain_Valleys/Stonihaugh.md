@@ -1,6 +1,6 @@
 ---
 shortcode: stonyhaugh
-name: {full: Stonyhaugh}
+name: {full: Stonihaugh}
 type: place
 subType: settlement
 description: "The quarry village, whose masons cut the terrace walls that make the high valleys farmable and whose work is mistaken for Khazari by every visitor."
@@ -14,10 +14,10 @@ data:
   packFolder: eilwith
 ---
 
-**Stonyhaugh** is the quarry, and the masons. Six hundred and twenty people cutting the gray stone that
+**Stonihaugh** is the quarry, and the masons. Six hundred and twenty people cutting the gray stone that
 the whole district is built and walled with.
 
-The **terrace walls** are Stonyhaugh's real monument—mile upon mile of dry-stone terracing up valley
+The **terrace walls** are Stonihaugh's real monument—mile upon mile of dry-stone terracing up valley
 sides that would otherwise grow nothing, laid over centuries and maintained by a rota every household in
 the valleys contributes to. Visitors invariably assume the [[lore-flkkhazar|Khazari]] built them. They did not. They taught
 the first courses of it a very long time ago and have not touched a wall since.

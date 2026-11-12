@@ -23,12 +23,12 @@ data:
 
 The autumn boat and its two cutters fall to Reedgill. Both cutters are dead; their remains and belongings lie in an outer den beside the boat. The nest cuts about half the nets on both shores. The rest of the damage and the winter impoundments are human. Stillwader understands enough shore speech to steer suspicion, but the nest is not a diplomatic party and offers no lasting peace. Its need is fish, boats and access to the reed-beds.
 
-Use [[being-grukaruk|Grukar-Uk]] for raiders and [[being-grkrhshk|Grukar-Hushk]] for the warriors holding the bank. Stillwader’s record refers to [[being-grkrsh|Grukar-Sha]]. The spawner stays deep in the nest; this adventure does not require reaching or fighting it. [[being-alfmundkrtn|Alfmund Kaerton]] is the Stonyford breeder and senator to whom the village’s petition can go, while his northern levy competes for his attention.
+Use [[being-grukaruk|Grukar-Uk]] for raiders and [[being-grkrhshk|Grukar-Hushk]] for the warriors holding the bank. Stillwader’s record refers to [[being-grkrsh|Grukar-Sha]]. The spawner stays deep in the nest; this adventure does not require reaching or fighting it. [[being-alfmundkrtn|Alfmund Kaerton]] is the Stoniford breeder and senator to whom the village’s petition can go, while his northern levy competes for his attention.
 
 ## Hooks {#hooks}
 
 - Elfith pays in fish and reed for the lost boat, its cutters, or an honest account of what happened to them.
-- A party taking the village’s petition to Stonyford is asked to inspect the damage before carrying an accusation to Thornbury.
+- A party taking the village’s petition to Stoniford is asked to inspect the damage before carrying an accusation to Thornburi.
 - Travelers using the beds find their own mooring line cut and need to discover which shore will let them land safely.
 
 ## The Opening {#opening}

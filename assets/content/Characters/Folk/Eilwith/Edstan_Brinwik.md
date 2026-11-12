@@ -3,7 +3,7 @@ shortcode: edstanbrnwk
 name: {full: Edstan Brinwik, en: [Prefect Edstan, The Prefect of the Fleet]}
 type: being
 subType: npc
-description: "Prefect of the Fleet of the Republic of Ondareth, who commands its ships from Thornbury and wants to take them north against the Stormveld jarls who seized a Thornbury coaster."
+description: "Prefect of the Fleet of the Republic of Ondareth, who commands its ships from Thornburi and wants to take them north against the Stormveld jarls who seized a Thornburi coaster."
 tags: []
 data:
   icon: icon-person
@@ -42,9 +42,9 @@ Edstan Brinwik is a 50-year-old man of 5'7" and heavy build, with light, ruddy, 
 
 **Age 50. Prefect of the Fleet. Wants to take the fleet north before the jarls take another hull.**
 
-Edstan Brinwik commands the ships of the [[affiliation-repblcndrth|Republic of Ondareth]] from the harbor at [[place-thornbury|Thornbury]]: a dozen oared ships that patrol the western coast, carry the legion's men and stores north to [[place-kaermouth|Kaermouth]], and escort the shipping houses' hulls in the fog. He was a shipmaster before he was a senator, and he is the one senator who has been to the mainland more than once.
+Edstan Brinwik commands the ships of the [[affiliation-repblcndrth|Republic of Ondareth]] from the harbor at [[place-thornbury|Thornburi]]: a dozen oared ships that patrol the western coast, carry the legion's men and stores north to [[place-kaermouth|Kaermouth]], and escort the shipping houses' hulls in the fog. He was a shipmaster before he was a senator, and he is the one senator who has been to the mainland more than once.
 
-In the autumn two jarls of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] took a Thornbury coaster off the Nordfells, cargo and crew. Edstan wants to take the fleet north and show the jarls Ondarethan oars off their inlets. The Tarkelos, [[being-leofmndstrmd|Leofmund Stormden]], says the treasury cannot pay for it.
+In the autumn two jarls of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] took a Thornburi coaster off the Nordfells, cargo and crew. Edstan wants to take the fleet north and show the jarls Ondarethan oars off their inlets. The Tarkelos, [[being-leofmndstrmd|Leofmund Stormden]], says the treasury cannot pay for it.
 
 ## Psyche
 

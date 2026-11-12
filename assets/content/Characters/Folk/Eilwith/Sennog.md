@@ -42,7 +42,7 @@ Sennog is a 56-year-old man of 5'8" and medium build, with light skin weathered 
 
 **Age 56. War-Leader of the Lonagar. Wants the coasters back at his inlets and salt in his clans' stores before spring.**
 
-Sennog has been war-chief of a Lonagar clan of the easternmost inlet for thirty years, and has made its bargains with the coasters' masters for all of them. In the autumn of 719 the ships of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]'s inlet pact took a Thornbury coaster off the [[place-nordfells|Nordfells]] with the Lonagar's winter salt aboard, and before the snow they put men ashore at his inlet and burned his clan's boats on the strand. The shamans named him War-Leader of [[affiliation-lonagar|the Lonagar]] at midwinter.
+Sennog has been war-chief of a Lonagar clan of the easternmost inlet for thirty years, and has made its bargains with the coasters' masters for all of them. In the autumn of 719 the ships of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]'s inlet pact took a Thornburi coaster off the [[place-nordfells|Nordfells]] with the Lonagar's winter salt aboard, and before the snow they put men ashore at his inlet and burned his clan's boats on the strand. The shamans named him War-Leader of [[affiliation-lonagar|the Lonagar]] at midwinter.
 
 He has no ships to fight the jarls on the water. He has sent his fighters east along the cliffs to kill the crews of any of the pact's ships that land, and has sent word south to [[affiliation-kelgar|the Kelgar]], who are at war with the same Jarldom.
 
@@ -84,7 +84,7 @@ None. The shamans named him.
 
 ## Plot Hooks
 
-1. **A cargo of salt.** Sennog will pay well in hides and fish for salt landed at his inlet before spring, and he knows a Thornbury master who will sail if he has fighters aboard.
+1. **A cargo of salt.** Sennog will pay well in hides and fish for salt landed at his inlet before spring, and he knows a Thornburi master who will sail if he has fighters aboard.
 2. **The crew at Stormveil.** The crew of the taken coaster are held at Stormveil for ransom, and Sennog wants word carried to them that the Lonagar have not forgotten them.
 
 :::secret {title="The cliff road"}

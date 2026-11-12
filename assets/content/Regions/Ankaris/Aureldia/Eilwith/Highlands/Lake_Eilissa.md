@@ -48,7 +48,7 @@ The Aldorathi tell of bargains struck with lake-spirits by the first barons, and
 
 ## Converging Interests {#present}
 
-The lake has no agreed line down its middle, and nobody has drawn one. At the northern end, where Brinwold's hills meet the moor under the Sunderfells, the free village of Koldmere and the Brinwold manors both claim the reed-beds and the fishing off them. The quarrel is carried on with cut nets and impounded boats rather than arms, and the [[lore-grukaraelwyth|Grukar]] nest at [[place-reedgill|Reedgill]], in the wooded ravine above the beds, raids both sides' boats and cutters. Each year Koldmere asks the Ondarethan senators of [[place-stonyford|Stonyford]], who buy its fish, to speak for it at Thornbury, and the Brinwold barons carry their side to Dunmere, and nothing is settled.
+The lake has no agreed line down its middle, and nobody has drawn one. At the northern end, where Brinwold's hills meet the moor under the Sunderfells, the free village of Koldmere and the Brinwold manors both claim the reed-beds and the fishing off them. The quarrel is carried on with cut nets and impounded boats rather than arms, and the [[lore-grukaraelwyth|Grukar]] nest at [[place-reedgill|Reedgill]], in the wooded ravine above the beds, raids both sides' boats and cutters. Each year Koldmere asks the Ondarethan senators of [[place-stonyford|Stoniford]], who buy its fish, to speak for it at Thornburi, and the Brinwold barons carry their side to Dunmere, and nothing is settled.
 
 On the kingdom's shore above Dunmere the manors watch by night since the Durrask burned a mill, and the Grukar of [[place-aldermire|Aldermire]], in the wooded bog above the south-western shore, have turned west onto the Highlands' grazing.
 

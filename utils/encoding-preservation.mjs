@@ -387,6 +387,7 @@ const respellings = new Map([
     [
         notePath("skill-nordmalng"),
         [
+            ["-eyjar", "-eijar"],
             ["gnuldurthann", "gnuldurvir"],
             ["mídhalión", "midhalión"],
             ["-dómur", "-domur", "word"],
@@ -1080,11 +1081,15 @@ export const GUIDE_PROSE = new Map([
             ],
             [
                 "**There is no glottal stop.** No name carries an apostrophe and no two vowels stand in hiatus. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `ae`, `au`, `ei` and `ey`. An element carries whatever pair its own spelling has, so `-guard` and `-stead` keep theirs wherever they stand.",
-                "**There is no glottal stop.** No name carries an apostrophe. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `au`, `ei` and `ey`. In `ae`, as in `-aett`, both vowels are said. An element carries whatever pair its own spelling has, so `-guard` and `-stead` keep theirs wherever they stand.",
+                "**There is no glottal stop.** No name carries an apostrophe. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `au` and `ei`. In `ae`, as in `-aett`, both vowels are said. An element carries whatever pair its own spelling has, so `-guard` and `-stead` keep theirs wherever they stand.",
             ],
             [
                 "A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—[[lore-solrundty|Solrún]] and [[lore-thrunvalddty|Thrunvald]] open long, Althmil and Hlartharuk open short.",
                 "A name-stem is one syllable, so a stem-and-ending name runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count.",
+            ],
+            [
+                "**A place name's joining form changes only its generic.** The first element stays as written. The joining form ends in `-ar`, replacing a final vowel or the strong `-r`: `-brekka` gives `brekkar` and `-vangur` gives `vangar`. The table also gives `eyjar` for `-ey`, `hallar` for `-holl` and `stadar` for `-stead`. Every generic's joining form stands in the third column above, so Nalthmark gives Nalthmarkar and Dvalgheim gives Dvalgheimar by following the row.",
+                "**A place name's joining form changes only its generic.** The first element stays as written. The joining form ends in `-ar`, replacing a final vowel or the strong `-r`: `-brekka` gives `brekkar` and `-vangur` gives `vangar`. The table also gives `eijar` for `-ei`, `hallar` for `-holl` and `stadar` for `-stead`. Every generic's joining form stands in the third column above, so Nalthmark gives Nalthmarkar and Dvalgheim gives Dvalgheimar by following the row.",
             ],
         ],
     ],

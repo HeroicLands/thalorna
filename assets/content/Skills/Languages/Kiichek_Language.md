@@ -3810,6 +3810,9 @@ data:
     - {name: "Ne' Ish Q'emul", tongue: kiichek, built: ["ne'", ish, "q'emul"]}
     - {name: "Ch'akul Ne' Shelem", tongue: kiichek, built: ["ch'akul", "ne'", shelem]}
   retired:
+    - {form: h'ulkay, instead: h'ulkai, why: closing y is not a spelling}
+    - {form: k'ay, instead: k'ai, why: closing y is not a spelling}
+    - {form: ne'k'ay, instead: ne'k'ai, why: closing y is not a spelling}
     - {form: Ts'ib, instead: P'ilam, why: an Earth word for writing}
     - {form: Tz'ib'al, instead: K'otsel, why: an Earth word for writing}
     - {form: Tzi'bal, instead: Ts'apel, why: an echo of an Earth word for writing}

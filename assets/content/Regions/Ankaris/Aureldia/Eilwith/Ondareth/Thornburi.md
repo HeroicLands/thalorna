@@ -1,6 +1,6 @@
 ---
 shortcode: thornbury
-name: {full: Thornbury}
+name: {full: Thornburi}
 type: place
 subType: settlement
 description: "The seat of the Republic of Ondareth—where the Senate sits beneath its portico and the republic's offices are bought."
@@ -14,7 +14,7 @@ data:
   government: repblcndrth
 ---
 
-**Thornbury** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on [[place-eilwith|Eilwìth]]'s western
+**Thornburi** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on [[place-eilwith|Eilwìth]]'s western
 coast: fourteen thousand people, the republic's chief harbor, and the stage on which its entire
 political performance is mounted.
 
@@ -35,7 +35,7 @@ Above the harbor stands the rock where [Tralkar]{.name data-type="being/npc"}, t
 its liberation. It climbs the rock instead: once a year the Senate walks up from the Senate house in its bordered
 mantles, in procession and in order of precedence, and stands for the length of an oration among the stones.
 
-The shrines of [[affiliation-blackflame|the Black Flame]] send a delegation, as every interest in Thornbury does.
+The shrines of [[affiliation-blackflame|the Black Flame]] send a delegation, as every interest in Thornburi does.
 The clergy of [[affiliation-selmoros|Sélmoros]] do not attend: they accept no civic office and take no part in the
 Senate's observances, and the procession is one.
 
@@ -45,7 +45,7 @@ senator to be seen living on it would be the first to be called a king.
 
 ## The Business
 
-Thornbury is where senatorial place is bought, where magistracies are traded, and where the dozen men of
+Thornburi is where senatorial place is bought, where magistracies are traded, and where the dozen men of
 the first rank keep the houses from which they ruin one another's clients. Everything is transacted in
 public and nothing openly, and a visitor with money is assumed to be here for that purpose until he
 proves otherwise.
@@ -59,7 +59,7 @@ masters comply, resentfully and without exception, with the requirement to call 
 The First Senator, [[being-harwingrymr|Harwin Greimore]], holds the chair for one more year, and the city is already arranging who follows him.
 
 - **The rock.** The houses at the foot of the Tyrant's Rock have been bought in the name of one of Harwin's freedmen, and the city takes it for a first step toward building on the rock itself. [[being-kuthwldashdn|Kuthwald Ashden]], the tavos who stays in the city this year, has put the question of the rock before the Senate again, so that Harwin must speak to it.
-- **The northern water.** Stormveld's jarls have taken a Thornbury coaster off the Nordfells, and the shipping houses want the fleet sent north. The Prefect of the Fleet, [[being-edstanbrnwk|Edstan Brinwik]], wants to go; the Tarkelos, [[being-leofmndstrmd|Leofmund Stormden]], says the treasury cannot pay for a fleet and a frontier in one year.
+- **The northern water.** Stormveld's jarls have taken a Thornburi coaster off the Nordfells, and the shipping houses want the fleet sent north. The Prefect of the Fleet, [[being-edstanbrnwk|Edstan Brinwik]], wants to go; the Tarkelos, [[being-leofmndstrmd|Leofmund Stormden]], says the treasury cannot pay for a fleet and a frontier in one year.
 - **The frontier.** The legion at [[place-kaermouth|Kaermouth]] has been voted men and no money, and the Lusos, [[being-wilrikbrnwl|Wilrik Brownwell]], speaks against every new levy in the assembly.
 - **The courts.** The Vornos, [[being-mildrikhshwl|Mildrik Hushwell]], hears the suits that matter in the Senate house, and the city knows what his rulings cost.
 

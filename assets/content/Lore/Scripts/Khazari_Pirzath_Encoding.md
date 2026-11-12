@@ -97,7 +97,6 @@ data:
     ói: OI
     ou: OU
     óu: OU
-    y: I
     "@": DIGIT_TEN
     "#": DIGIT_ELEVEN
     $: DIGIT_TWELVE
@@ -109,22 +108,7 @@ data:
     normalization: NFC
     matching: longest-first
     roundTrip: canonical
-    contextual-mappings:
-      - {match: ay, before: consonant, emit: AI}
-      - {match: ay, at: end, emit: AI}
-      - {match: áy, before: consonant, emit: AI}
-      - {match: áy, at: end, emit: AI}
-      - {match: ey, before: consonant, emit: EI}
-      - {match: ëy, before: consonant, emit: EI}
-      - {match: ey, at: end, emit: EI}
-      - {match: ëy, at: end, emit: EI}
-      - {match: éy, before: consonant, emit: EI}
-      - {match: éy, at: end, emit: EI}
-      - {match: oy, before: consonant, emit: OI}
-      - {match: oy, at: end, emit: OI}
-      - {match: óy, before: consonant, emit: OI}
-      - {match: óy, at: end, emit: OI}
-      - {match: y, before: vowel, emit: YA}
+    contextual-mappings: [{match: y, before: vowel, emit: YA}]
 ---
 
 This encoding writes [[skill-khazarlng|Khazari]] in pirzath-hand. A passage selects it with `enc=khazpirzathenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
@@ -137,8 +121,8 @@ This encoding writes [[skill-khazarlng|Khazari]] in pirzath-hand. A passage sele
 - **A consonant written twice** is two letters, which the faces draw as the doubled form.
 - **An acute vowel is the plain vowel.** The acute marks stress, which Pirzath does not write.
 - **A doubled _aa_, _ii_ or _uu_ is the held vowel**, the vowel and the length mark.
-- **The vowel pairs are letters:** _ai_, _au_, _ei_, _oi_ and _ou_. An acute on a pair's first letter is the plain pair; on its second letter it starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _aí_ is _a_ and then _i_. _ay_, _ey_ and _oy_ are the pairs _ai_, _ei_ and _oi_, except before a vowel.
-- **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_.
+- **The vowel pairs are letters:** _ai_, _au_, _ei_, _oi_ and _ou_. An acute on a pair's first letter is the plain pair; on its second letter it starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _aí_ is _a_ and then _i_.
+- **_y_ is the glide _y_ and is written only before a vowel.** It is never a vowel, and the script has no letter for a closing _y_.
 - **_ë_ is the vowel _e_.**
 - **The catch** is `'` or `’`.
 - **The numerals count in sixteens:** 0 to 9, then `@`, `#`, `$`, `%`, `^` and `&` for ten to fifteen.

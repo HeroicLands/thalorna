@@ -3,7 +3,7 @@ shortcode: senatondrth
 name: {full: Senate of Ondareth, en: [The Senate]}
 type: affiliation
 subType: governmental
-description: "The council of the Republic of Ondareth at Thornbury, where some three hundred senators sit for life under a First Senator, and a dozen men of the first rank decide what the republic does."
+description: "The council of the Republic of Ondareth at Thornburi, where some three hundred senators sit for life under a First Senator, and a dozen men of the first rank decide what the republic does."
 data:
   culture: aelwythanclt
   templatePriority: null
@@ -51,7 +51,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview {#overview}
 
-The **Senate of Ondareth** is the governing council of the [[affiliation-repblcndrth|Republic of Ondareth]]. It sits in the Senate house at [[place-thornbury|Thornbury]] under the portico, its members wear the bordered mantle, and it governs a hundred and fifty thousand people with the ceremony of an empire. It votes the republic's laws, its money, its levies and its wars, and every magistrate of the republic is chosen in it or answers to it.
+The **Senate of Ondareth** is the governing council of the [[affiliation-repblcndrth|Republic of Ondareth]]. It sits in the Senate house at [[place-thornbury|Thornburi]] under the portico, its members wear the bordered mantle, and it governs a hundred and fifty thousand people with the ceremony of an empire. It votes the republic's laws, its money, its levies and its wars, and every magistrate of the republic is chosen in it or answers to it.
 
 ## Who Sits {#who-sits}
 
@@ -60,7 +60,7 @@ Some three hundred senators sit for life, drawn from the _gulmenoi_, the propert
 About a dozen senators of the first rank decide what the chamber does, and the rest follow one of them. The First Senator presides, and the Clerk keeps the record:
 
 First Senator
-: [[being-harwingrymr|Harwin Greimore]], a shipping-house senator of Thornbury, in the last year of his term.
+: [[being-harwingrymr|Harwin Greimore]], a shipping-house senator of Thornburi, in the last year of his term.
 
 Clerk of the Senate
 : [[being-osrithgrydn|Osrith Greiden]], who keeps the roll and the decrees and reads each decree on the steps.
@@ -77,7 +77,7 @@ The vote is the end of the matter and seldom where it is decided. The men of the
 
 **The succession to the chair.** Harwin Greimore's term ends this year, and he wants a second term, which the Senate has never given. Kuthwald Ashden wants the chair for himself and has put the question of the Tyrant's Rock above the harbor before the chamber again, because the houses at its foot have been bought in the name of one of Harwin's freedmen.
 
-**The northern water.** Stormveld's jarls have taken a Thornbury coaster off the Nordfells, crew and cargo. The shipping houses want the fleet sent north, the Prefect of the Fleet, [[being-edstanbrnwk|Edstan Brinwik]], wants to take it, and the Tarkelos says the treasury cannot pay for the fleet and the frontier both.
+**The northern water.** Stormveld's jarls have taken a Thornburi coaster off the Nordfells, crew and cargo. The shipping houses want the fleet sent north, the Prefect of the Fleet, [[being-edstanbrnwk|Edstan Brinwik]], wants to take it, and the Tarkelos says the treasury cannot pay for the fleet and the frontier both.
 
 **The frontier.** The Senate has voted the Vandraks at [[place-kaermouth|Kaermouth]], [[being-godstanhrdl|Godstan Hardli]], another legion's worth of levies and no money to feed them. The Lusos, [[being-wilrikbrnwl|Wilrik Brownwell]], speaks against the levy in the assembly, and the citizens of the coast cheer him.
 
@@ -98,7 +98,7 @@ A party with business before the Senate needs a senator to put it there, and a s
 [[affiliation-repblcndrth|Republic of Ondareth]]
 : the republic it governs
 
-[[place-thornbury|Thornbury]]
+[[place-thornbury|Thornburi]]
 : its seat
 
 [[lore-ondarethfall|The Fall of the Last King of Ondareth]]

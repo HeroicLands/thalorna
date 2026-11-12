@@ -1,6 +1,6 @@
 ---
 shortcode: blackkilnpriory
-name: {full: Blackkiln Priory, en: [The Ash Priory, Sarne's Kilns], aelw: [Blakkiln Priory]}
+name: {full: Blackkiln Priory, en: [The Ash Priory, Sarne's Kilns], aelw: [Blakkiln Priori]}
 type: place
 subType: site
 description: "A roofless chapel and ring of kilns at the Peshtar border, surrounded by dead pines and the smell of hot iron."

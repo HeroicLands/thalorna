@@ -1379,21 +1379,5 @@
             "scope": "eilwithi"
         }
     ],
-    "held": [
-        {
-            "form": "thornbury",
-            "tongue": "eilwithi",
-            "why": "an English place name, kept as English"
-        },
-        {
-            "form": "stonyhaugh",
-            "tongue": "eilwithi",
-            "why": "an English place name, kept as English"
-        },
-        {
-            "form": "priory",
-            "tongue": "eilwithi",
-            "why": "an English place name, kept as English"
-        }
-    ]
+    "held": []
 }

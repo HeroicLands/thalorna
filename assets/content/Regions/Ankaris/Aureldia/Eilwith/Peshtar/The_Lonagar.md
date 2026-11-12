@@ -71,7 +71,7 @@ The Nordmoor is bog and heather behind a cliff coast, with forest only in the sh
 
 The Lonagar have fished the northern inlets and grazed the moor since the [[lore-pelwarpepl|Pelwar]] came to the island. They traded with the coasters of the western coast before the republic was raised, and with the north-shore coasters since Stormveld's harbors were built. The trade was small and steady, and the Lonagar kept out of the wars of the other two tribes.
 
-In the autumn of 719 the High Jarl, [[being-ulthorvhrnd|Ulthorv Hrindaruk]], and Vrithorv Marvidrok of Vuldstead swore their pact against the coasters, and within the month their ships took a Thornbury coaster off the Nordfells with the salt the Lonagar had bought for the winter. Before the snow the pact's ships put men ashore at the easternmost inlet and burned Sennog's clan's boats on their strand. The shamans named him War-Leader at midwinter.
+In the autumn of 719 the High Jarl, [[being-ulthorvhrnd|Ulthorv Hrindaruk]], and Vrithorv Marvidrok of Vuldstead swore their pact against the coasters, and within the month their ships took a Thornburi coaster off the Nordfells with the salt the Lonagar had bought for the winter. Before the snow the pact's ships put men ashore at the easternmost inlet and burned Sennog's clan's boats on their strand. The shamans named him War-Leader at midwinter.
 
 ## The Present Pressure {#present}
 
@@ -85,7 +85,7 @@ The Lonagar gather on the headland above the largest inlet, inside a ring of sto
 
 ## Hooks {#hooks}
 
-- **Salt.** A Lonagar clan will pay in hides and fish for a cargo of salt landed at its inlet before the spring, and a coaster's master in Thornbury will carry it if someone will sail with him past the Nordfells.
+- **Salt.** A Lonagar clan will pay in hides and fish for a cargo of salt landed at its inlet before the spring, and a coaster's master in Thornburi will carry it if someone will sail with him past the Nordfells.
 - **The burned strand.** Sennog wants to know which of the pact's ships burned his clan's boats, and he will guide anyone who can tell him through the moor to the Nordfells and back.
 - **The western cape.** A clan of the western inlets is trading with a coaster that comes round the cape, and its master is asking questions about the Nordmoor's inlets that have nothing to do with salt.
 

@@ -82,4 +82,4 @@ The High Jarl's shipmasters, who watch the inlets.
 ## Plot Hooks
 
 1. **A hull to bring in.** Thraskvir needs a coaster's master willing to sail for Drasknes, and a cargo worth the risk.
-2. **The Thornbury crew.** Thraskvir knew the master of the coaster the High Jarl's ships took, and he wants to know whether the man is alive.
+2. **The Thornburi crew.** Thraskvir knew the master of the coaster the High Jarl's ships took, and he wants to know whether the man is alive.

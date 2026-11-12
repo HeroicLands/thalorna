@@ -1,9 +1,9 @@
 ---
 shortcode: kadlisvrrm
-name: {full: Kadlis Vorrem, en: [The Mason of Stonyhaugh]}
+name: {full: Kadlis Vorrem, en: [The Mason of Stonihaugh]}
 type: being
 subType: npc
-description: "A master mason of Stonyhaugh's quarry in the Vardain Valleys, whose terrace walls are taken for Khazari work by every visitor, and who is rebuilding the walls the autumn frost brought down above Kalm."
+description: "A master mason of Stonihaugh's quarry in the Vardain Valleys, whose terrace walls are taken for Khazari work by every visitor, and who is rebuilding the walls the autumn frost brought down above Kalm."
 tags: []
 data:
   icon: icon-person
@@ -37,9 +37,9 @@ Kadlis Vorrem is a 38-year-old woman of 5'6" and heavy build, with light, weathe
 
 # Dossier {#dossier}
 
-**Age 38. Master mason of Stonyhaugh. Wants her walls to stand as long as the Khazari's.**
+**Age 38. Master mason of Stonihaugh. Wants her walls to stand as long as the Khazari's.**
 
-Kadlis leads the masons of [[place-stonyhaugh|Stonyhaugh]], the quarry village of [[place-vardainvalleys|the Vardain Valleys]], whose people cut and lay the terrace walls that take the valley sides up in courses. Every visitor who sees the walls takes them for Khazari work, and the Vardain let them.
+Kadlis leads the masons of [[place-stonyhaugh|Stonihaugh]], the quarry village of [[place-vardainvalleys|the Vardain Valleys]], whose people cut and lay the terrace walls that take the valley sides up in courses. Every visitor who sees the walls takes them for Khazari work, and the Vardain let them.
 
 In the autumn the frost that broke the conduit above [[place-kalm|Kalm]] brought down two of the terraces below it, and Kadlis and her masons are rebuilding them before the spring sowing. The Khazari engineers mending the conduit above have told her where to set the new courses and have not told her why.
 
@@ -65,7 +65,7 @@ She asks the Khazari engineers questions, which no Vardain is supposed to do.
 
 ### Companions
 
-The masons of Stonyhaugh, and [[being-breniksldm|Brenik Saldem]], the smith of Vellik.
+The masons of Stonihaugh, and [[being-breniksldm|Brenik Saldem]], the smith of Vellik.
 
 ### Patrons
 
@@ -82,4 +82,4 @@ None.
 ## Plot Hooks
 
 1. **The courses.** Kadlis wants a stranger to watch the Khazari engineers above Kalm and tell her what they are doing in the old channel.
-2. **The lowland commission.** A baron of Aldorath has asked for a Stonyhaugh mason to wall his vineyard, and Kadlis wants to know whether he means to pay for the walls or for what he thinks is in them.
+2. **The lowland commission.** A baron of Aldorath has asked for a Stonihaugh mason to wall his vineyard, and Kadlis wants to know whether he means to pay for the walls or for what he thinks is in them.

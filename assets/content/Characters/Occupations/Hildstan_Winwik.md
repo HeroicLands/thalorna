@@ -3,7 +3,7 @@ shortcode: osmndwnwck
 name: {full: Hildstan Winwik}
 type: being
 subType: npc
-description: "Hildstan Winwik manages mixed cargoes for the shipping houses of Thornbury."
+description: "Hildstan Winwik manages mixed cargoes for the shipping houses of Thornburi."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -403,9 +403,9 @@ Hildstan Winwik is a 32-year-old man who stands 5'8" tall and is of moderate bui
 
 **Age 32. Merchant (Supercargo).**
 
-Hildstan Winwik manages mixed cargoes for the shipping houses of [[place-thornbury|Thornbury]]. He understands how a badly placed barrel shifts in a sea and how a disputed share spoils a voyage. He settles small quarrels at the quay before they become claims in a court whose price his employers cannot predict.
+Hildstan Winwik manages mixed cargoes for the shipping houses of [[place-thornbury|Thornburi]]. He understands how a badly placed barrel shifts in a sea and how a disputed share spoils a voyage. He settles small quarrels at the quay before they become claims in a court whose price his employers cannot predict.
 
-A Thornbury crew waits for ransom in [[place-stormveil|Stormveil]]. Hildstan's immediate concern is the cargo: several owners can agree that their goods matter without agreeing which share should pay for the people carrying them. He wants each interest written down separately, so a great house cannot call another's loss its own.
+A Thornburi crew waits for ransom in [[place-stormveil|Stormveil]]. Hildstan's immediate concern is the cargo: several owners can agree that their goods matter without agreeing which share should pay for the people carrying them. He wants each interest written down separately, so a great house cannot call another's loss its own.
 
 ## Psyche
 
@@ -421,4 +421,4 @@ Whose share of the crew
 : The captive coaster's cargo owners meet to divide the ransom. Hildstan asks the party to bring the separate loading accounts, including the small consignments absent from the largest house's copy.
 
 A condition at Ravenmoor
-: A mainland buyer accepts delivery only after the compulsory inspection at [[place-ravenmoor|Ravenmoor]]. The seller wants payment at Thornbury. Hildstan needs a neutral carrier for the sealed account and coin, with the point of transfer stated before sailing.
+: A mainland buyer accepts delivery only after the compulsory inspection at [[place-ravenmoor|Ravenmoor]]. The seller wants payment at Thornburi. Hildstan needs a neutral carrier for the sealed account and coin, with the point of transfer stated before sailing.

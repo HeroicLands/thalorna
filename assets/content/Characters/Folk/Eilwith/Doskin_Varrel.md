@@ -44,7 +44,7 @@ Doskin Varrel is a 43-year-old man of 5'10" and medium build, with tanned, weath
 
 Doskin was born a thrall on [[place-stormplain|the Stormplain]], in the fields of a Vuldstead steading, and in 701 he ran south over [[place-sunderfells|the Sunderfells]] to [[place-vardainvalleys|the valleys]], where he was taken in. He farms rye and barley on the terraces of [[place-kalm|Kalm]], the grain village, which swelled most when the refugees came up. His younger sister is still a thrall at Vuldstead.
 
-In the autumn the frost broke the conduit above his fields and brought down two terraces below them. The Khazari engineers mended the conduit within the week and Stonyhaugh's masons are rebuilding the terraces, and he has seen the engineers working in the old channel above, where no Vardain has seen them work.
+In the autumn the frost broke the conduit above his fields and brought down two terraces below them. The Khazari engineers mended the conduit within the week and Stonihaugh's masons are rebuilding the terraces, and he has seen the engineers working in the old channel above, where no Vardain has seen them work.
 
 ## Psyche
 

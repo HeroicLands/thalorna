@@ -3,7 +3,7 @@ shortcode: edasomervl
 name: {full: Eda Somervell}
 type: being
 subType: npc
-description: "Eda Somervell keeps the Somervell Inn near the harbor of Thornbury."
+description: "Eda Somervell keeps the Somervell Inn near the harbor of Thornburi."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -401,7 +401,7 @@ Eda Somervell is a 24-year-old woman who stands 5'7" tall and is slender. She ha
 
 **Age 24. Innkeeper.**
 
-Eda Somervell keeps the [Somervell Inn]{.name data-type="place/structure"} near the harbor of [[place-thornbury|Thornbury]]. She serves a thick supper, remembers who needs a quiet bed and lets sailors' families leave messages at her kitchen door. Her brown hair is braided clear of the hearth; her account slate is less orderly than her pots.
+Eda Somervell keeps the [Somervell Inn]{.name data-type="place/structure"} near the harbor of [[place-thornbury|Thornburi]]. She serves a thick supper, remembers who needs a quiet bed and lets sailors' families leave messages at her kitchen door. Her brown hair is braided clear of the hearth; her account slate is less orderly than her pots.
 
 The captive coaster's crew has families waiting in the city. Eda gives some of them meals on credit while the shipping houses argue over ransom and the Senate argues over a fleet. The empty places at her tables are debts she can count. She wants the families fed without making her own inn another creditor's possession.
 
