@@ -77,3 +77,4 @@ The Heart is why the forest is slow. If it is carried out of the Maze, the slowi
 - [[lore-aralwen|Araelwen]] · [[place-mazeofechos|Maze of Echoes]] · [[miscgear-heartofdhirikri|Heart of Dirikri]]
 - [[place-sathvothe|Satvote]] · [[place-elavendre|Élavendre]] · [[place-provenzrgn|Provénzia]]
 - [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[miscgear-temprlcmpss|Temporal Compass]]
+- [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]

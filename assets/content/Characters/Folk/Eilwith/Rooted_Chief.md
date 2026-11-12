@@ -75,7 +75,7 @@ The Shadow calls the root-sworn to defend the seam. Cutting the oak wounds the g
 ## Attack Methods
 
 :::secret {title="The rooted body"}
-Use [[being-damut|Damut]] for the rooted body’s close fighting. Its confrontation and the choices at the seam are in [[scenario-yearsinoaks|Ten Winters in the Bark]].
+The Chief fights from the oldest oak. Its great antlered body reaches along the split in the trunk at anyone who comes near the seam, while the root-sworn gray figures from the dell’s rim press in against intruders; use [[being-damut|Damut]] for the rooted dead’s close fighting. It does not leave the oak. The choices at the seam are in [[scenario-yearsinoaks|Ten Winters in the Bark]].
 :::
 
 ## Special Abilities

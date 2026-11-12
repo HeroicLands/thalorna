@@ -241,7 +241,7 @@ sendrel legyon rith aulde./
 Dúlkathen Orethan. Al Rontha/
 néimathen, rith deiron,/
 Hóuradel, gene threl Kírethel,/
-nond geindathen déisnathen gaeron.
+nond geindathen déisnathen geiron.
 
 Gonde nóurethen gene sórvanda,/
 al ánhrason doldar,/

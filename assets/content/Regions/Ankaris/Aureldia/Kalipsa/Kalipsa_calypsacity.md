@@ -83,7 +83,7 @@ About 470 AF a Harbormaster who would not give up the office brought on a civil 
 - **The hearing.** [[affiliation-hsenorodari|The Norodari]] need a witness from Sarmelis before the Sea-Law Hall hears the loss of their hulls.
 - **The new face.** The Order's factor wants copies of the carving the storm uncovered on the Old Mole before the masons wedge the stone.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-calypsa|Kalipsa]]
 : the city-state, its Captains' Council and its relations
@@ -97,8 +97,11 @@ About 470 AF a Harbormaster who would not give up the office brought on a civil 
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : the principal Nordmen trading partner
 
-## Adventures {#adventures}
+[[scenario-kalipsahulls|The Third Night and the Spring Count]]
+: a scenario: three lost hulls, a disputed pilot roster and a census before the Sea-Law Hall
 
-- [[scenario-kalipsahulls|The Third Night and the Spring Count]]
-- [[scenario-vrellnesspring|The Key Above the Dye Vats]]
-- [[scenario-oldmoleface|Before the Stone Is Covered]]
+[[scenario-vrellnesspring|The Key Above the Dye Vats]]
+: a scenario: a locked spring-house and the question of who owns the water
+
+[[scenario-oldmoleface|Before the Stone Is Covered]]
+: a scenario: a carving laid bare below the harbor stonework, to be copied before the repairs bury it

@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Daughter of the embassy's Steward.
+Lady Ilara Lúavel dresses as a noble's daughter on a long journey: a good traveling gown, a cloak lined against the cold, and little jewelry. She keeps close to her father, and she watches strangers before she speaks to them.
 
 # Dossier {#dossier}
+
+**Role.** Daughter of the embassy's Steward.
 
 **Background.** Beloved daughter of [[being-laradhluavel|Larad Lúavel]].
 

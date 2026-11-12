@@ -18,6 +18,10 @@ data:
   packFolder: adventures
 ---
 
+# Appearance {#appearance}
+
+Aran Kélavren carries himself as a noble and a master of the Order: upright, unhurried, and dressed in good cloth cut for travel rather than display. He wears the Order's colors at his collar and the kingdom's at his shoulder, and he addresses strangers with the careful courtesy of a trained diplomat.
+
 # Dossier {#dossier}
 
 Aran Kélavren leads the embassy from [[place-dunavarre|Dúnavarre]] to the [[affiliation-tantsouempr|Empire of Tantsou]], holding its commission and making its decisions. The mission seeks direct relations with the eastern court, independent of Vilérian mediation.

@@ -79,7 +79,7 @@ Hulls have crossed between the bay and the island for as long as there has been 
 - **The lost hulls.** The Norodari want a crew to go out on the eastern approaches in the next fog and see whether the pilots' boat keeps its station.
 - **A hull for the bay.** A Kalipsan factor at the outer quay needs a cargo of furs carried to the island before the crown's cutters come down the bay, and his regular master is in the sheriff's hall.
 
-## See Also
+## See Also {#see-also}
 
 [[place-calypsacity|Kalipsa]]
 : the western end
@@ -92,3 +92,6 @@ Hulls have crossed between the bay and the island for as long as there has been 
 
 [[place-coastroad|The Coast Road]]
 : the shore road the Run's cargoes reach Sarmelis by
+
+[[scenario-kalipsahulls|The Third Night and the Spring Count]]
+: a scenario: three lost hulls, a disputed pilot roster and a census before the Sea-Law Hall

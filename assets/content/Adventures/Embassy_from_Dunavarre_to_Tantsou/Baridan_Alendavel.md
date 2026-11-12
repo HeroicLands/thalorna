@@ -18,6 +18,10 @@ data:
   packFolder: adventures
 ---
 
+# Appearance {#appearance}
+
+Baridan Aléndavel keeps his chamberlain's staff of office within reach and his tablets under his arm. His clothes are neat and unadorned, and he is rarely seen without a clerk or a servant waiting for his next instruction.
+
 # Dossier {#dossier}
 
 Baridan Aléndavel manages the household and supplies of the embassy from [[place-dunavarre|Dúnavarre]] to Tantsou. He is known for his organizational skill and loyalty to the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] and its [[affiliation-dunavarsynod|Synod]]. He serves under [[being-arancelavren|Aran Kélavren]], whose decisions commit the household he must provision.

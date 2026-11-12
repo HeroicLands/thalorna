@@ -43,7 +43,7 @@ The clans of the border came with the winter, in strength, and razed the priory.
 
 The clearing lies a day's walk into the pines from the Ondarethan border posts, along a charcoal road that the Peshtar do not use. The road is rutted, overgrown and marked every furlong with a stone cairn. Past the dead pines, the clearing opens and the smell of hot iron reaches the road before the chapel comes into view.
 
-## See Also
+## See Also {#see-also}
 
 [[place-pshtrwldrns|Peshtar Wilderness]]
 : the forest country the priory stands in
@@ -60,6 +60,5 @@ The clearing lies a day's walk into the pines from the Ondarethan border posts, 
 [[lore-theshadow|The Shadow]]
 : the danger named in the priory’s darkest tales
 
-## Adventures {#adventures}
-
-- [[scenario-blackfireblkkln|Cinders in the Dead Pines]]
+[[scenario-blackfireblkkln|Cinders in the Dead Pines]]
+: a scenario: a black fire in a ruined priory and the dead who kneel at its door

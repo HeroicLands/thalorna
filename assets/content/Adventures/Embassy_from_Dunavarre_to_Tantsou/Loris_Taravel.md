@@ -376,9 +376,11 @@ sohl:
 
 # Appearance {#appearance}
 
-**Role.** Handles negotiations and translates documents.
+Loris Taravel dresses in the neat, unmarked cloth of a diplomatic aide and carries a leather portfolio of treaties and drafts under one arm. He is quick to smile, and he keeps a pen behind his ear.
 
 # Dossier {#dossier}
+
+**Role.** Handles negotiations and translates documents.
 
 **Background.** Skilled in several languages and in international custom.
 

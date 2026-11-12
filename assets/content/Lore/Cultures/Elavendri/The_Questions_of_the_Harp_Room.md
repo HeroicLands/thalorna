@@ -146,7 +146,7 @@ The top will hear it, after all./
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=word}
-[Al Geithand.]{.speaker} Gere gouris targathen nyes ryenathen uk gaeron geildar?
+[Al Geithand.]{.speaker} Gere gouris targathen nyes ryenathen uk geiron geildar?
 
 Geirnen nond uk ryenathen, sendar,/
 al talar leithon, dren ha, ankendar./
@@ -212,7 +212,7 @@ Hóuthathen gene rith rindulnis.
 
 Géilathen nyes gene, lothe mirdis,/
 reik miron léigathen al kirdis,/
-reik nond kernathen halthon gaeron./
+reik nond kernathen halthon geiron./
 Nond nyes. En to leignar deiron.
 
 [Al Geithand.]{.speaker}/
@@ -397,7 +397,7 @@ Nond geinde. Nond tose sárnathen./
 Al menris nal kirdis árnathen.
 
 [Al Geithand.]{.speaker}/
-Nond néimathen kyeron‼ Gaeron véinathen‼/
+Nond néimathen kyeron‼ Geiron véinathen‼/
 Néimathen kyeron? Goulnar théinathen.
 
 Leveson en nézora nond threnar./

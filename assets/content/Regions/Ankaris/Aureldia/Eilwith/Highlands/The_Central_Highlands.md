@@ -55,9 +55,10 @@ Stoniford, the horse fair where the steadings sell their stock, stands just over
 
 The rest of the Highlands' people live on scattered steadings and in hamlets of a few households in the sheltered folds, with the grazing between them open to the sky.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-repblcndrth|Republic of Ondareth]] · [[place-ondareth|Ondareth]]—the republic's land to the west
 - [[place-stonyford|Stoniford]] · [[place-koldmere|Koldmere]]
 - [[place-eilissa|Lake Eilìssa]]—the great central lake at the Highlands' eastern edge
 - [[place-threesisters|The Three Sisters]]
+- [[scenario-durraskcount|Forty Mares and One Name]]

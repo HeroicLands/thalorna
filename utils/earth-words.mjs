@@ -151,6 +151,15 @@ export const RULED_KEPT = new Map([
         new Map([["pluma", "the spelling The Sayings of the First Warden quotes"]]),
     ],
     ["skill-senalilng", new Map([["sahke", "the spelling The Seven Towers quotes"]])],
+    [
+        "skill-elvndrlng",
+        new Map([
+            [
+                "geir",
+                "owner ruling that Pronouncing Thalorna and the word's own sound take precedence over the old French overlap",
+            ],
+        ]),
+    ],
 ]);
 
 /** The notes whose words collide only when the meaning agrees as well as the form. */

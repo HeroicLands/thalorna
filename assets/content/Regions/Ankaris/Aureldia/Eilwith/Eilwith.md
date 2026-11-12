@@ -87,7 +87,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 ### Elder Race Enclaves
 
-The southern forest shelters ancient communities of Senali (elves). The crown of [[affiliation-kngdmldrth|Aldorath]] claims a distant but real relationship with them, which the Senali neither confirm nor deny. The mountains north of Aldorath, which run east from Stormveld to the sea, contain holds of the Khazari (dwarves), which few humans have seen and which are among the most reclusive of their kind anywhere on Ankaris.
+The southern forest shelters ancient communities of Senali (elves). The crown of [[affiliation-kngdmldrth|Aldorath]] claims a distant but real relationship with them, which the Senali neither confirm nor deny. The mountains north of Aldorath, which run east from Stormveld to the sea, contain [[place-vorgald|Vorgald]], the island's one Khazari (dwarf) hold, which few humans have seen and whose people are among the most reclusive of their kind anywhere on Ankaris.
 
 ### Minor Polities
 
@@ -341,7 +341,7 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 - **The Thornwold.** The [[affiliation-durrask|Durrask]] raid Aldorath, Dúnavarre and Ondareth at once under a War-Leader sworn for his third year.
 - **Vorgald.** The [[affiliation-vrgldhld|hold]] asks the Vardain valleys how many more runaways from the plain their granaries will carry.
 
-## See Also
+## See Also {#see-also}
 
 [[place-elavendre|Élavendre]]
 : Nearest mainland region
@@ -359,7 +359,7 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 : Elder race with southern forest enclaves
 
 [[lore-flkkhazar|Khazari]]
-: Elder race with northern mountain holds
+: Elder race, whose one hold on the island is Vorgald
 
 [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
 : a scenario set here

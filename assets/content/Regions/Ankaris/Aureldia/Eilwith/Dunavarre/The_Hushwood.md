@@ -47,7 +47,7 @@ The Synod's posts stand on the paths from the estates, and the Order's patrols k
 - **The rite.** Neilwa needs three nights in the wood and someone to see her past the posts.
 - **A knight's conscience.** A Knight-Captain of the Order who fought in the crusade comes to the edge by night and asks to be taken in.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-saelvricrusade|The Seilvri Crusade]]
 : the killing that made it
@@ -61,6 +61,5 @@ The Synod's posts stand on the paths from the estates, and the Order's patrols k
 [[lore-bloodfield|Blood-fields]]
 : what a blood-field is and what ends one
 
-## Adventures {#adventures}
-
-- [[scenario-seilvririte|Three Nights for the Hushwood]]
+[[scenario-seilvririte|Three Nights for the Hushwood]]
+: a scenario: three nights among a people's dead while knights bar the wood

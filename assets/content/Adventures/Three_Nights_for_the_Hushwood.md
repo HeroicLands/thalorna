@@ -97,7 +97,7 @@ The muster gathers at Kelivren. The road advances in summer, the households retr
 - **The rite is kept.** The dead are settled. The Order still holds the taken valleys, and the Seilvri still need food and room to live.
 - **Merrad keeps a witnessed passage.** The party has a promise it can cite in a later negotiation. It has no general immunity for Seilvri travelers.
 - **The route becomes a survey.** The next road follows information the party supplies. Name the clearings affected from the party’s actual report.
-- **The party exposes the campaign.** Veldareth and the Synod become possible audiences for living witnesses. Neither response is guaranteed by the adventure.
+- **The party exposes the campaign.** [[affiliation-freeveldareth|The Table of Veldareth]] and the [[affiliation-senatondrth|Senate of Ondareth]], neither bound by the Synod's orders, become possible audiences for living witnesses. Neither response is guaranteed by the adventure.
 
 ## See Also {#see-also}
 

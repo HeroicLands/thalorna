@@ -38,7 +38,7 @@ The recruiting officers of the frontier legion are at the spring fair, taking hi
 
 **The Ford**, at the foot of the street, keeps a long room for buyers in fair-time and a quiet one the rest of the year. Drovers sleep in the lofts over the pens.
 
-## See Also
+## See Also {#see-also}
 
 [[place-cntrlhghlnds|The Central Highlands]]
 : the free upland beside it
@@ -49,7 +49,8 @@ The recruiting officers of the frontier legion are at the spring fair, taking hi
 [[place-eilissa|Lake Eilìssa]]
 : the lake, a day's ride east
 
-## Adventures {#adventures}
+[[scenario-reedgillnets|Nets from Both Shores]]
+: a scenario: a missing boat and the nets two shores cut from one another
 
-- [[scenario-reedgillnets|Nets from Both Shores]]
-- [[scenario-durraskcount|Forty Mares and One Name]]
+[[scenario-durraskcount|Forty Mares and One Name]]
+: a scenario: brood mares taken and the names of the riders who killed a war-leader's brother

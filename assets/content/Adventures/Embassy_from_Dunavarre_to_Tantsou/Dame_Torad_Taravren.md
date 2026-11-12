@@ -375,9 +375,11 @@ sohl:
 
 # Appearance {#appearance}
 
-**Role.** Captain of the [[affiliation-justbladeordr|Order of the Just Blade]], and gives military counsel.
+Dame Torad Taravren wears her armor as though she has slept in it, with the Order's mark worn and the straps mended rather than replaced. She stands square and speaks briefly, and her eyes go to the doors and the roof beams of any room before they go to its people.
 
 # Dossier {#dossier}
+
+**Role.** Captain of the [[affiliation-justbladeordr|Order of the Just Blade]], and gives military counsel.
 
 **Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Seilvri]] ([[lore-saelvricrusade|the Seilvri Crusade]]).
 

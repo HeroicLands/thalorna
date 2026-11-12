@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Cares for the horses and other animals.
+Rikar Lúavel has a stable master's weathered hands and wears a leather apron over coarse wool, with straw in his boots and a hoof pick at his belt. Horses settle when he walks among them, and he speaks to them more freely than to people.
 
 # Dossier {#dossier}
+
+**Role.** Cares for the horses and other animals.
 
 **Background.** Expert in animal care and handling.
 

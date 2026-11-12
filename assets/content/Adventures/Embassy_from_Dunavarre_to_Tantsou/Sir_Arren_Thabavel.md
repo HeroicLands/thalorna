@@ -374,9 +374,11 @@ sohl:
 
 # Appearance {#appearance}
 
-**Role.** Bodyguard to the Ambassador, and gives security counsel.
+Sir Arren Thábavel is a knight in a tournament winner's bright surcoat, with his sword hung where a bodyguard can reach it. He stands a half-step behind the Ambassador in every hall and keeps his gaze on whoever approaches.
 
 # Dossier {#dossier}
+
+**Role.** Bodyguard to the Ambassador, and gives security counsel.
 
 **Background.** A brave and experienced knight of great martial reputation, lately winner of the [[lore-kelivrentrny|Royal Kelivren Tournament of Chivalry]].
 

@@ -105,7 +105,7 @@ data:
       gloss: bright, radiant; dawn
       concept: bright
     - {form: jen, class: num, field: Color and number, gloss: "nine", concept: nine}
-    - {form: wuen, class: num, field: Color and number, gloss: "five", concept: five}
+    - {form: chi, class: num, field: Color and number, gloss: "five", concept: five}
     - {form: wai, class: num, field: Color and number, gloss: "ten", concept: ten}
     - {form: rong, class: num, field: Color and number, gloss: "ten thousand, a myriad"}
     - {form: chen, class: "n", field: "People, rank and office", gloss: "emperor, king"}
@@ -121,7 +121,6 @@ data:
       field: People, rank and office
       gloss: master, teacher
       concept: [master, teacher]
-    - {form: wuo, class: "n", field: "People, rank and office", gloss: "warrior, soldier"}
     - {form: chei, class: "n", field: "People, rank and office", gloss: "scholar, sage"}
     - {form: yai, class: "n", field: "People, rank and office", gloss: "healer, physician"}
     - form: zhei
@@ -161,7 +160,10 @@ data:
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "court, palace, hall"
-    - {form: wo, class: adj, field: "Heaven, law and the order of things", gloss: "divine, sacred"}
+    - form: wo
+      class: adj
+      field: "Heaven, law and the order of things"
+      gloss: "divine, sacred; a warrior, soldier"
     - form: lei
       class: "n"
       field: "Heaven, law and the order of things"
@@ -377,7 +379,7 @@ data:
     - {form: hong, class: "n", field: "The body", gloss: "chest, breast-bone", concept: chest}
     - {form: nen, class: "n", field: "The body", gloss: "breast", concept: breast}
     - {form: tsen, class: "n", field: "The body", gloss: "heart; seat of feeling", concept: heart}
-    - {form: tuo, class: "n", field: "The body", gloss: "belly", concept: belly}
+    - {form: twi, class: "n", field: "The body", gloss: "belly", concept: belly}
     - {form: shai, class: "n", field: "The body", gloss: "back", concept: back}
     - {form: kwen, class: "n", field: "The body", gloss: "hip", concept: hip}
     - {form: jo, class: "n", field: "The body", gloss: "leg", concept: leg}
@@ -510,12 +512,12 @@ data:
     - {form: rwen, class: "v", field: "Doing and describing", gloss: "to run", concept: run}
     - {form: den, class: "v", field: "Doing and describing", gloss: "to sit", concept: sit}
     - {form: gye, class: "v", field: "Doing and describing", gloss: "to stand", concept: stand}
-    - form: yuen
+    - form: tye
       class: "v"
       field: "Doing and describing"
       gloss: "to lie down"
       concept: lie-down
-    - {form: gwen, class: "v", field: "Doing and describing", gloss: "to hold", concept: hold}
+    - {form: gwin, class: "v", field: "Doing and describing", gloss: "to hold", concept: hold}
     - form: hai
       class: v
       field: Doing and describing
@@ -722,12 +724,12 @@ data:
       gloss: "chair"
       concept: chair
       built: [den, mou]
-    - form: yuenmou
+    - form: tyemou
       class: "n"
       field: "Needs and common things"
       gloss: "bed"
       concept: bed
-      built: [yuen, mou]
+      built: [tye, mou]
     - form: kinja
       class: "n"
       field: "Needs and common things"
@@ -904,7 +906,7 @@ data:
       class: n
       gloss: ability; capacity to perform an act
       field: Heaven, law and the order of things
-    - form: yuo
+    - form: zhyau
       class: n
       gloss: permission; leave granted to perform an act
       field: Heaven, law and the order of things
@@ -1065,7 +1067,7 @@ data:
       gloss: hard; resistant to pressure or bending
       concept: hard-texture
       field: Senses and passions
-    - form: guen
+    - form: gwen
       class: adj
       gloss: soft; yielding to pressure
       concept: soft
@@ -1434,10 +1436,10 @@ data:
       built: [dau, hi, tsen]
       concept: awe
       field: Senses and passions
-    - form: guen hin
+    - form: gwen hin
       class: n
       gloss: affection; tender fondness and warm regard
-      built: [guen, hin]
+      built: [gwen, hin]
       concept: affection
       field: Senses and passions
     - form: hin yei
@@ -1722,10 +1724,10 @@ data:
       built: [kyau, mwen]
       concept: muscle
       field: The body
-    - form: guen mwen
+    - form: gwen mwen
       class: n
       gloss: soft flesh; bodily fat rather than muscular tissue
-      built: [guen, mwen]
+      built: [gwen, mwen]
       concept: fat
       field: The body
     - form: lo shou
@@ -2350,10 +2352,10 @@ data:
       built: [bing, jwo]
       concept: barrier
       field: Needs and common things
-    - form: guen tou
+    - form: gwen tou
       class: n
       gloss: clay; soft fine earth that can be shaped when wet
-      built: [guen, tou]
+      built: [gwen, tou]
       concept: clay
       field: Needs and common things
     - form: song lo
@@ -2488,10 +2490,10 @@ data:
       built: [lwen, lwo]
       concept: fruit
       field: Sky, land and the elements
-    - form: guen shwen
+    - form: gwen shwen
       class: n
       gloss: grass; the slender soft-stemmed plants forming a low ground cover
-      built: [guen, shwen]
+      built: [gwen, shwen]
       concept: grass
       field: Sky, land and the elements
     - form: jou dai shwi song
@@ -4338,10 +4340,10 @@ data:
       built: [hye, mong, kai]
       concept: impossible
       field: Doing and describing
-    - form: twen yuo kai
+    - form: twen zhyau kai
       class: v
       gloss: may walk; to have permission to walk. Replace twen by the permitted act
-      built: [twen, yuo, kai]
+      built: [twen, zhyau, kai]
       concept: may-permission
       field: Doing and describing
     - form: nau hye kai
@@ -4374,16 +4376,16 @@ data:
       built: [jai, kai]
       concept: required
       field: Doing and describing
-    - form: tsyau tsa mong tsyau yuo kai
+    - form: tsyau tsa mong tsyau zhyau kai
       class: v
       gloss: to be optional; to have permission either to perform the act or not perform it
-      built: [tsyau, tsa, mong, tsyau, yuo, kai]
+      built: [tsyau, tsa, mong, tsyau, zhyau, kai]
       concept: optional
       field: Doing and describing
-    - form: yuo kai
+    - form: zhyau kai
       class: v
       gloss: to be allowed; to have permission for the stated act
-      built: [yuo, kai]
+      built: [zhyau, kai]
       concept: allowed
       field: Doing and describing
     - form: mong tsyau geng dei
@@ -4392,10 +4394,10 @@ data:
       built: [mong, tsyau, geng, dei]
       concept: forbidden
       field: Doing and describing
-    - form: yuo zhan
+    - form: zhyau zhan
       class: v
       gloss: to permit; to give permission for the stated act
-      built: [yuo, zhan]
+      built: [zhyau, zhan]
       concept: permit
       field: Doing and describing
     - form: mong tsyau geng zhan
@@ -4470,10 +4472,10 @@ data:
       built: [shwi, zhye]
       concept: expression-youre-welcome
       field: Doing and describing
-    - form: kou yen yuo
+    - form: kou yen zhyau
       class: call
       gloss: excuse me; permission for a brief moment, requesting leave to interrupt or pass
-      built: [kou, yen, yuo]
+      built: [kou, yen, zhyau]
       concept: expression-excuse-me
       field: Doing and describing
     - form: deng kai
@@ -4650,10 +4652,10 @@ data:
       built: [lau, lou]
       concept: injustice
       field: People, rank and office
-    - form: wuo zhye
+    - form: wo zhye
       class: n
       gloss: war; organized fighting between peoples or rulers, conventionally warrior work
-      built: [wuo, zhye]
+      built: [wo, zhye]
       concept: war
       field: People, rank and office
     - form: reng mong kai long
@@ -4800,10 +4802,10 @@ data:
       built: [ta, tsa, sa, mye]
       concept: sated
       field: The body
-    - form: guen song sye
+    - form: gwen song sye
       class: n
       gloss: wool; soft animal textile fiber, the fleece shorn or gathered for spinning
-      built: [guen, song, sye]
+      built: [gwen, song, sye]
       concept: wool
       field: Needs and common things
     - form: hi mong kai
@@ -4976,7 +4978,7 @@ data:
       male:
         - "Tanzho"
         - "Tuija"
-        - "Wuodao"
+        - "Wodao"
         - "Rauleng"
         - "Cheiwo"
         - "Jingzhin"
@@ -4993,7 +4995,7 @@ data:
         - "Hozho"
         - "Wengzho"
         - "Cheidau"
-        - "Wuoja"
+        - "Woja"
         - "Tuizhin"
         - "Jenwo"
         - "Kwowo"
@@ -5007,7 +5009,7 @@ data:
         - "Wengja"
         - "Kwochei"
         - "Tuiwo"
-        - "Houwuo"
+        - "Houwo"
         - "Daugen"
         - "Jenja"
         - "Howo"
@@ -5075,8 +5077,6 @@ data:
       - {final: wen, like: "the wen of went"}
       - {final: yau, like: yow}
       - {final: ui, like: "oo-ee, after w or y and in tui"}
-      - {final: uo, like: "oo-oh, after w or y and in tuo"}
-      - {final: uen, like: "oo-en, after w or y and in guen"}
   scope:
     folders:
       - tantsou
@@ -5760,6 +5760,29 @@ data:
     - {form: hiao, instead: hyau, why: "respelled to the guide: a glide is written w or y"}
     - {form: buo, instead: bwo, why: "respelled to the guide: a glide is written w or y"}
     - {form: wie, instead: wye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: wuen, instead: chi, why: "a new form, because the old one read as two sounded vowels"}
+    - form: guen
+      instead: gwen
+      why: "respelled to the guide: the old form read as two sounded vowels"
+    - {form: tuo, instead: twi, why: "a new form, because the old one read as two sounded vowels"}
+    - form: yuo
+      instead: zhyau
+      why: "a new form, because the old one read as two sounded vowels"
+    - {form: yuen, instead: tye, why: "a new form, because the old one read as two sounded vowels"}
+    - form: yuenmou
+      instead: tyemou
+      why: "a new form, because the old one read as two sounded vowels"
+    - {form: wuo, instead: wo, why: "the warrior root is the word wo, which also means divine"}
+    - form: Wuodao
+      instead: Wodao
+      why: "the warrior root is the word wo, which also means divine"
+    - {form: Wuoja, instead: Woja, why: "the warrior root is the word wo, which also means divine"}
+    - form: Houwuo
+      instead: Houwo
+      why: "the warrior root is the word wo, which also means divine"
+    - form: wuo zhye
+      instead: wo zhye
+      why: "the warrior root is the word wo, which also means divine"
     - form: Chiao Chai Tui Sen
       instead: Chyau Chai Tui Sen
       why: "respelled to the guide: a glide is written w or y"
@@ -5846,7 +5869,7 @@ data:
     - {forms: {skill-tantsoulng: ha, skill-jurthatlng: ha}, gloss: "dark, black, hidden; shadow"}
     - {forms: {skill-tantsoulng: leng, skill-jurthatlng: re}, gloss: "bright, radiant; dawn"}
     - {forms: {skill-tantsoulng: jen, skill-jurthatlng: jen}, gloss: nine}
-    - {forms: {skill-tantsoulng: wuen, skill-jurthatlng: wen}, gloss: five}
+    - {forms: {skill-tantsoulng: chi, skill-jurthatlng: wen}, gloss: five}
     - {forms: {skill-tantsoulng: wai, skill-jurthatlng: wai}, gloss: ten}
     - {forms: {skill-tantsoulng: rong, skill-jurthatlng: rou}, gloss: "ten thousand, a myriad"}
     - {forms: {skill-tantsoulng: chen, skill-jurthatlng: chen}, gloss: "emperor, king"}
@@ -5854,7 +5877,6 @@ data:
     - {forms: {skill-tantsoulng: nei, skill-jurthatlng: nei}, gloss: "sovereign, ruler"}
     - {forms: {skill-tantsoulng: gwi, skill-jurthatlng: gwi}, gloss: "official, minister"}
     - {forms: {skill-tantsoulng: gen, skill-jurthatlng: gen}, gloss: "master, teacher"}
-    - {forms: {skill-tantsoulng: wuo, skill-jurthatlng: wo}, gloss: "warrior, soldier"}
     - {forms: {skill-tantsoulng: chei, skill-jurthatlng: chei}, gloss: "scholar, sage"}
     - {forms: {skill-tantsoulng: yai, skill-jurthatlng: yai}, gloss: "healer, physician"}
     - {forms: {skill-tantsoulng: zhei, skill-jurthatlng: zei}, gloss: "son, child"}
@@ -5868,7 +5890,8 @@ data:
     - {forms: {skill-tantsoulng: hwo, skill-jurthatlng: ho}, gloss: hand}
     - {forms: {skill-tantsoulng: wen, skill-jurthatlng: wen}, gloss: "center, middle"}
     - {forms: {skill-tantsoulng: wou, skill-jurthatlng: wu}, gloss: "court, palace, hall"}
-    - {forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}, gloss: "divine, sacred"}
+    - forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}
+      gloss: "divine, sacred; a warrior, soldier"
     - {forms: {skill-tantsoulng: lei, skill-jurthatlng: rei}, gloss: "breath, spirit"}
     - {forms: {skill-tantsoulng: sei, skill-jurthatlng: sei}, gloss: "bureau, office, ministry"}
     - {forms: {skill-tantsoulng: lou, skill-jurthatlng: ru}, gloss: "law, rule"}
@@ -5931,7 +5954,7 @@ data:
     - {forms: {skill-tantsoulng: hong, skill-jurthatlng: ho}, gloss: "chest, breast-bone"}
     - {forms: {skill-tantsoulng: nen, skill-jurthatlng: nen}, gloss: "breast"}
     - {forms: {skill-tantsoulng: tsen, skill-jurthatlng: tsen}, gloss: "heart; seat of feeling"}
-    - {forms: {skill-tantsoulng: tuo, skill-jurthatlng: to}, gloss: "belly"}
+    - {forms: {skill-tantsoulng: twi, skill-jurthatlng: to}, gloss: "belly"}
     - {forms: {skill-tantsoulng: shai, skill-jurthatlng: shai}, gloss: "back"}
     - {forms: {skill-tantsoulng: kwen, skill-jurthatlng: ken}, gloss: "hip"}
     - {forms: {skill-tantsoulng: jo, skill-jurthatlng: jo}, gloss: "leg"}
@@ -6000,8 +6023,8 @@ data:
     - {forms: {skill-tantsoulng: rwen, skill-jurthatlng: ren}, gloss: "to run"}
     - {forms: {skill-tantsoulng: den, skill-jurthatlng: den}, gloss: "to sit"}
     - {forms: {skill-tantsoulng: gye, skill-jurthatlng: ki}, gloss: "to stand"}
-    - {forms: {skill-tantsoulng: yuen, skill-jurthatlng: yen}, gloss: "to lie down"}
-    - {forms: {skill-tantsoulng: gwen, skill-jurthatlng: wen}, gloss: "to hold"}
+    - {forms: {skill-tantsoulng: tye, skill-jurthatlng: yen}, gloss: "to lie down"}
+    - {forms: {skill-tantsoulng: gwin, skill-jurthatlng: wen}, gloss: "to hold"}
     - {forms: {skill-tantsoulng: hai, skill-jurthatlng: hai}, gloss: "to bring, to carry"}
     - {forms: {skill-tantsoulng: ra, skill-jurthatlng: ra}, gloss: "to put, to set down"}
     - {forms: {skill-tantsoulng: zhing, skill-jurthatlng: zi}, gloss: "to find"}
@@ -6055,7 +6078,7 @@ The language is known natively as **Tantsou**, the name of the people (_tan_, ce
 
 Tantsou is built of single syllables set side by side. Each syllable is short and complete: one consonant, a vowel, a vowel pair or a vowel after a gliding _w_ or _y_, and at most a soft _-n_ or _-ng_. Most words have one or two syllables, and two is the commonest.
 
-**The vowels.** Syllables rest on _-ou_, _-ei_, _-o_, _-wo_, _-a_, _-au_, _-wi_, _-ai_ or _-i_, or close on _-en_, _-eng_, _-an_, _-ing_, _-in_ or _-ong_. _-ye_, _-wen_ and _-yau_ are rare. After _w_ and _y_, and in _tui_, _tuo_ and _guen_, the vowels stand without a glide: _-ui_, _-uo_ and _-uen_. These finals are the whole of them.
+**The vowels.** Syllables rest on _-ou_, _-ei_, _-o_, _-wo_, _-a_, _-au_, _-wi_, _-ai_ or _-i_, or close on _-en_, _-eng_, _-an_, _-ing_, _-in_ or _-ong_. _-ye_, _-wen_ and _-yau_ are rare. After _w_ and _y_, and in _tui_, the vowels stand without a glide: _-ui_. These finals are the whole of them.
 
 **The consonants.** _w_, _zh_, _h_, _l_, _y_, _j_, _t_, _ch_ and _d_ open most syllables. _r_, _m_, _n_, _s_, _ts_ and _sh_ are common; _b_, _g_, _k_, _f_ and _gw_ are rare. These twenty are the whole of them. _y_ never stands before a final that begins with _i_, and _gw_ never before one that begins with _u_.
 
@@ -6065,7 +6088,7 @@ Tantsou is built of single syllables set side by side. Each syllable is short an
 
 **One syllable, one root.** Every root is a single syllable and a single character of Teng Chou, and every syllable of a word is a root: a compound is its roots set side by side and nothing else, with no endings and no bound pieces. A root spells the same in every word it builds, so _hen_, the tiger, is _hen_ in _Tuihen_ and in _Dauhen_.
 
-**Roots that sound alike.** Two or three roots may share a written form, never more, and each root that builds names has a form of its own. Roots that share a form share one entry in the lexicon, whose gloss gives each sense in turn.
+**Roots that sound alike.** Two or three roots may share a written form, never more, and each root that builds names has a form of its own, except _wo_, which carries both of its senses, divine and warrior, in the names it builds. Roots that share a form share one entry in the lexicon, whose gloss gives each sense in turn.
 
 **What Tantsou leaves out.** _p_, _v_, _x_ and _q_; a _z_ standing alone; a syllable that opens on a vowel; a closing consonant other than _n_ and _ng_; the endings _-ang_ and a bare _-e_; and any mark on a letter. Tone is not written, and a level voice is correct.
 
@@ -6140,7 +6163,7 @@ The ordinary words follow the same modifier-first order as names. A sensory qual
 
 Relation words follow what they relate: _zhong men san_, at the house interior, means inside the house; _zhong swen_ means from the house, and _zhong tswo_ toward it. _Len tswi swi nong_ means more people than two. Possessors and quantity words stand before their nouns: _tseng zhong_, my house; _tsi tsi nong_, every person considered one by one. The same words refer to one or many as the situation requires.
 
-Statements keep their verb last. _Tseng ja gwen_ means I hold the blade; _nong mong nau_ means a person does not come. The question word stands where its answer belongs: _shye tsin wan shou kai_ asks how much water you have. _Wui_ closes a question asking for affirmation or denial: _shye nau wui_, do you come? An event possibility has _hye_, a chance; ability has _yui_, capacity; permission has _yuo_, leave; obligation has _jai_, duty. Thus _twen yui kai_ says can walk, _twen yuo kai_ may walk, and _tsyau jai kai_ must act. Each cited act can be replaced by the act in question without changing its verb.
+Statements keep their verb last. _Tseng ja gwin_ means I hold the blade; _nong mong nau_ means a person does not come. The question word stands where its answer belongs: _shye tsin wan shou kai_ asks how much water you have. _Wui_ closes a question asking for affirmation or denial: _shye nau wui_, do you come? An event possibility has _hye_, a chance; ability has _yui_, capacity; permission has _zhyau_, leave; obligation has _jai_, duty. Thus _twen yui kai_ says can walk, _twen zhyau kai_ may walk, and _tsyau jai kai_ must act. Each cited act can be replaced by the act in question without changing its verb.
 
 The four familiar love compounds name romantic love, friendship, family love and universal selfless love separately. _Rinyei_ names lust. _Fo_ names a person's confidence or certainty; _heng jwo_ names truth. A confident claim can be false, and a true claim can be held with doubt.
 
@@ -6278,12 +6301,12 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 
 ### Festivals
 
-| Tantsou       | Meaning                       |
-| ------------- | ----------------------------- |
-| Hou Lei Jwi   | Festival of Harmonious Spirit |
-| Wuen Tsai Jwi | Festival of Five Elements     |
-| You Jwi       | Moon Festival                 |
-| Singlei Jwi   | Festival of the Dead          |
+| Tantsou      | Meaning                       |
+| ------------ | ----------------------------- |
+| Hou Lei Jwi  | Festival of Harmonious Spirit |
+| Chi Tsai Jwi | Festival of Five Elements     |
+| You Jwi      | Moon Festival                 |
+| Singlei Jwi  | Festival of the Dead          |
 
 ### Organizations and Factions
 
@@ -6348,7 +6371,7 @@ In Tantsou tradition, names are auspicious utterances invoking favorable qualiti
 
 Names follow a **family-name-first pattern**. The family name (_zhau_) precedes the given name, creating names of two to four compound elements. Given names are constructed from the vocabulary through compounding—a name like _Tuija_ ("Iron Blade") or _Lwoleng_ ("Lotus-Dawn") is simultaneously a name and a meaningful phrase. A name is written as one word.
 
-**Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dau_ (great), _wuo_ (warrior), _zho_ (dragon), _jing_ (gold), _chei_ (scholar), _rau_ (thunder).
+**Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dau_ (great), _wo_ (warrior), _zho_ (dragon), _jing_ (gold), _chei_ (scholar), _rau_ (thunder).
 
 **Female given names** often reference beauty, nature, or grace: _lwo_ (lotus), _you_ (moon), _zhi_ (star), _wei_ (jade), _leng_ (radiant), _mei_ (dream).
 
@@ -6356,7 +6379,7 @@ Names follow a **family-name-first pattern**. The family name (_zhau_) precedes 
 
 ### Example Names
 
-**Male:** Tanzho (Celestial Dragon), Tuija (Iron Blade), Wuodao (Great Warrior), Rauleng (Thunder Dawn), Cheiwo (Sacred Scholar), Jingzhin (Golden Boar), Houweng (Calm Wind), Dauhen (Great Tiger), Hozho (Fire Dragon), Mouwo (Sacred Wood)
+**Male:** Tanzho (Celestial Dragon), Tuija (Iron Blade), Wodao (Great Warrior), Rauleng (Thunder Dawn), Cheiwo (Sacred Scholar), Jingzhin (Golden Boar), Houweng (Calm Wind), Dauhen (Great Tiger), Hozho (Fire Dragon), Mouwo (Sacred Wood)
 
 **Female:** Lwoleng (Lotus-Dawn), Youzhen (Moon-Snow), Meizhi (Dream Star), Weilwo (Jade Flower), Zhouleng (Azure Dawn), Bwiyou (Silver Moon), Houlwo (Peaceful Lotus), Rinyan (Red Cloud), Wongwei (Sea Jade), Lengmei (Radiant Dream)
 

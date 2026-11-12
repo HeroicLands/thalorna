@@ -295,6 +295,97 @@
             },
             "body": "A temple.\n\n## Now {#present}\n\nTrouble.",
             "words": 300
+        },
+        "Unanchored.md": {
+            "fm": {
+                "shortcode": "unanchor",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also\n\nLinks.\n\n## Adventures {#adventures}\n\nA scenario.",
+            "words": 300
+        },
+        "UnanchoredLast.md": {
+            "fm": {
+                "shortcode": "unanchok",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also\n\nLinks.",
+            "words": 300
+        },
+        "ClosingNested.md": {
+            "fm": {
+                "shortcode": "closenest",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also {#see-also}\n\nLinks.\n\n# The Truth {#truth .secret}\n\nTruth.\n\n## A Detail\n\nMore.\n\n### A Finer Detail\n\nMore.\n\n## Glossary {#glossary}\n\nTerms.\n\n### A Term\n\nA term.",
+            "words": 300
+        },
+        "ClosingStray.md": {
+            "fm": {
+                "shortcode": "closestray",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also {#see-also}\n\nLinks.\n\n# The Truth {#truth .secret}\n\nTruth.\n\n## A Detail\n\nMore.\n\n# Extra\n\nStray.",
+            "words": 300
+        },
+        "DeepWithAnchor.md": {
+            "fm": {
+                "shortcode": "deepanch",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also {#see-also}\n\nLinks.\n\n### Adventures {#adventures}\n\nA scenario.",
+            "words": 300
+        },
+        "DeepNoAnchor.md": {
+            "fm": {
+                "shortcode": "deepunanc",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also\n\nLinks.\n\n### Adventures {#adventures}\n\nA scenario.",
+            "words": 300
+        },
+        "DeepPlain.md": {
+            "fm": {
+                "shortcode": "deepplain",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also {#see-also}\n\nLinks.\n\n### Notes\n\nA note.",
+            "words": 300
         }
     }
 }

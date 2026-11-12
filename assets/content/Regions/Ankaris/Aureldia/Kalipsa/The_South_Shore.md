@@ -67,7 +67,7 @@ The coves were fished before the city was a city, and the shore's families count
 - **The locked spring-house.** The water-carters of the city want an escort to Vrellnes, and the Vrellnes elder wants witnesses that the spring was never the city's.
 - **The dye-jars.** A cloth-merchant's factor in the city has paid for a season's dye that never reached him, and the Vrellnes vats say it went over the ridge.
 
-## See Also
+## See Also {#see-also}
 
 [[place-calypsaisle|The Isle of Kalipsa]]
 : the island and its land
@@ -78,6 +78,5 @@ The coves were fished before the city was a city, and the shore's families count
 [[affiliation-calypsa|Kalipsa]]
 : the city-state that governs the shore
 
-## Adventures {#adventures}
-
-- [[scenario-vrellnesspring|The Key Above the Dye Vats]]
+[[scenario-vrellnesspring|The Key Above the Dye Vats]]
+: a scenario: a locked spring-house and the question of who owns the water

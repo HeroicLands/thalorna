@@ -46,7 +46,7 @@ The inner face of the mole is a working quay: deep-sea hulls berthed two deep, p
 - **The new face.** [[affiliation-ordoarcanis|The Order]]'s factor wants copies taken at the next low spring tide, quietly, before the masons cover it, and the watch at the mole's head does not let anyone onto the outer ledge at night.
 - **The master mason's wedge.** The master mason wants the block wedged before the next storm, with or without the Harbormaster's leave, and he is a man short.
 
-## See Also
+## See Also {#see-also}
 
 [[place-calypsacity|Kalipsa]]
 : the city whose harbor it closes
@@ -57,6 +57,8 @@ The inner face of the mole is a working quay: deep-sea hulls berthed two deep, p
 [[place-lantrnklps|The Lantern of Kalipsa]]
 : the light on the headland across the harbor mouth
 
-## Adventures {#adventures}
+[[scenario-oldmoleface|Before the Stone Is Covered]]
+: a scenario: a carving laid bare below the harbor stonework, to be copied before the repairs bury it
 
-- [[scenario-oldmoleface|Before the Stone Is Covered]]
+[[scenario-kalipsahulls|The Third Night and the Spring Count]]
+: a scenario: three lost hulls, a disputed pilot roster and a census before the Sea-Law Hall

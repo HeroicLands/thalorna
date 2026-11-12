@@ -30,7 +30,7 @@ Teilvari is a war front. The Order's road, its camps and the burned clearings be
 
 A stranger in Teilvari is taken for the Order's scout by the Seilvri and for a Seilvri friend by the Order. The ridges carry tripwires and the valley bottoms pits. The Order hangs anyone it finds carrying food into the wood.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-saelvri|The Seilvri]]
 : the people who keep it
@@ -44,6 +44,5 @@ A stranger in Teilvari is taken for the Order's scout by the Seilvri and for a S
 [[place-staghall|Staghall]]
 : the Grukar nest on the ridge above the valley heads
 
-## Adventures {#adventures}
-
-- [[scenario-seilvririte|Three Nights for the Hushwood]]
+[[scenario-seilvririte|Three Nights for the Hushwood]]
+: a scenario: three nights among a people's dead while knights bar the wood

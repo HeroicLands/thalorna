@@ -24,7 +24,7 @@ A warrior's name speaks of power, speed and battle, and it is usually drawn from
 Zho Shou Teng Ja
 : "Dragon's Rain of Heavenly Arrows"
 
-Bwi Ja Wuo Rau
+Bwi Ja Wo Rau
 : "Ice Blade of Thunderous Battle"
 
 Weng Hen Rau Chai
@@ -37,7 +37,7 @@ A scholar's name speaks of the stars and of insight, and it is usually drawn fro
 Zhi Zhai Leng Cheng
 : "Rising Bright Star Bird"
 
-Teng Zho Leng Wuen
+Teng Zho Leng Chi
 : "Fifth Auspicious Star of the Celestial Dragon"
 
 Kwo Gwo Wou Teng

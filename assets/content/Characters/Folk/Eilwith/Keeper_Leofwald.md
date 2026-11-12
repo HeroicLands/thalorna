@@ -78,7 +78,7 @@ Leofwald keeps the congregation and deep water between himself and a threat, giv
 ## Attack Methods
 
 :::secret {title="The Keeper and congregation"}
-Use Tereb for the Keeper and [[being-damut|Damut]] for the congregation. His use of the bell and the water follows [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]].
+Leofwald lets the drowned congregation fight for him, with the water and the bell’s ring behind them, and keeps it between himself and a threat; use [[being-damut|Damut]] for the congregation. When it reaches him he fights as a [[being-tereb|Tereb]], gently and without haste. His use of the bell and the water follows [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]].
 :::
 
 ## Special Abilities

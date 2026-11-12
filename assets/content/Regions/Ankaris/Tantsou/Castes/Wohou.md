@@ -47,7 +47,7 @@ Service to the Zhazho
 
 ## Naming and Honors
 
-A personal name is granted only to a Wohou of exceptional service, usually for a deed of great prowess or a stroke of military genius, and the name is a phrase that evokes power, speed and the fight. Three such names: Zho Shou Teng Ja (Dragon's Rain of Heavenly Arrows), Bwi Ja Wuo Rau (Ice Blade of Thunderous Battle) and Weng Hen Rau Chai (Wind Tiger Roars Across Thunder Mountain). See [[lore-personlnms|Personal Names]] for how the grant is made.
+A personal name is granted only to a Wohou of exceptional service, usually for a deed of great prowess or a stroke of military genius, and the name is a phrase that evokes power, speed and the fight. Three such names: Zho Shou Teng Ja (Dragon's Rain of Heavenly Arrows), Bwi Ja Wo Rau (Ice Blade of Thunderous Battle) and Weng Hen Rau Chai (Wind Tiger Roars Across Thunder Mountain). See [[lore-personlnms|Personal Names]] for how the grant is made.
 
 ## Elder Races Among the Wohou
 

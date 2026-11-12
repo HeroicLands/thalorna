@@ -23,15 +23,19 @@
  *    `rowMaxWords`.
  * 2. **`out-of-order`** — a slot's heading comes after the heading of a slot
  *    the registry places later.
- * 3. **`see-also-not-last`** — a heading follows See Also, other than a
- *    section the registry lists as `closing`.
+ * 3. **`see-also-not-last`** — a heading of any level follows See Also, other
+ *    than a section the registry lists as `closing` and the headings nested
+ *    under it. A See Also heading is the one anchored `{#see-also}`, or an
+ *    unanchored heading whose text is the `heading` the kind's registry entry
+ *    declares for that slot.
  * 4. **`forbidden-slot`** — a note carries a slot its kind lists as `absent`.
  * 5. **`misplaced-level`** — a slot's anchor is on a heading of another level
  *    than the slot takes, so it fills nothing; a being's `{#appearance}` and
  *    `{#dossier}` are level one, as the content engine reads them.
  *
  * A note whose kind has no entry is not read. A finding is a warning, and an
- * error when the note is in a land the registry's `finished` list names. The
+ * error when the note is in a land the registry's `finished` list names; a
+ * `see-also-not-last` finding is an error in every land. The
  * registry's `lands` map names each land's regions, and a note is in a land
  * when any branch of its `data.parents`, a being's `data.homes`, or an
  * affiliation's `data.seat` (or its seatless `data.range`) reaches one. A
@@ -87,13 +91,19 @@ export function selectKind(registry, fm) {
  *
  * @param {string} body
  * @param {number} firstLine The 1-based line the body starts on.
- * @returns {Array<{level: number, id?: string, line: number, column: number}>}
+ * @returns {Array<{level: number, id?: string, text: string, line: number, column: number}>}
  */
 export function headings(body, firstLine = 1) {
     const lines = body.split("\n");
     return scanHeadingAttributes(body, firstLine).headings.map((h) => {
         const at = lines[h.line - firstLine].indexOf("{#");
-        return { level: h.level, id: h.id || undefined, line: h.line, column: h.id ? at + 1 : 1 };
+        return {
+            level: h.level,
+            id: h.id || undefined,
+            text: h.text,
+            line: h.line,
+            column: h.id ? at + 1 : 1,
+        };
     });
 }
 
@@ -238,7 +248,7 @@ export function check({ root = ".", registry = loadRegistry() } = {}) {
             findings.push({
                 file: path.join(root, file),
                 ...at,
-                severity,
+                severity: rule === "see-also-not-last" ? "error" : severity,
                 rule,
                 kind: kind.id,
                 land,
@@ -277,13 +287,28 @@ export function check({ root = ".", registry = loadRegistry() } = {}) {
                 );
         }
 
-        const seeAlso = marks.find((h) => h.id === "see-also");
+        // A See Also heading is the one anchored `{#see-also}`, or one without an
+        // anchor whose text is the heading the kind's registry entry declares for
+        // that slot.
+        const seeAlsoSlot = slotById.get("see-also");
+        const seeAlso = marks.find(
+            (h) =>
+                h.id === "see-also" ||
+                (h.id === undefined &&
+                    seeAlsoSlot?.heading !== undefined &&
+                    h.text === seeAlsoSlot.heading &&
+                    h.level === levelOf(seeAlsoSlot)),
+        );
         let highest = -1;
         let highestId;
+        let closingLevel = 0;
         for (const h of marks) {
             if (seeAlso && h.line > seeAlso.line) {
-                const registered = h.id !== undefined && slotIndex.has(h.id);
-                if ((h.level <= seeAlso.level || registered) && !closing.has(h.id)) {
+                if (closingLevel && h.level > closingLevel) continue;
+                closingLevel = 0;
+                if (closing.has(h.id)) {
+                    closingLevel = h.level;
+                } else {
                     report("see-also-not-last", "a section follows See Also, which comes last", h);
                 }
                 continue;

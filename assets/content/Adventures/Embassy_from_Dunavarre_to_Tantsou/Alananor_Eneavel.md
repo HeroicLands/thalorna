@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Provides medicinal and magical support to the embassy.
+Alananor Enéavel dresses plainly for the road, in a dark coat with stained cuffs and a belt hung with stoppered vials and a mortar no bigger than a fist. He smells of herbs and spirits, and he checks the seals on his cases whenever the wagons halt.
 
 # Dossier {#dossier}
+
+**Role.** Provides medicinal and magical support to the embassy.
 
 **Background.** Expert in alchemy and in producing the potions and remedies a long mission requires.
 

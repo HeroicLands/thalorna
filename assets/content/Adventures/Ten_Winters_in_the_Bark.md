@@ -7,7 +7,7 @@ description: In a hollow ringed with oaks a witch cures the dying for a price pa
 tags: []
 data:
   parents: []
-  locations: [nethermootholw, eilwith, thornbury, aldorathrgn, pshtrwldrns]
+  locations: [nethermootholw, thornbury, aldorathrgn, pshtrwldrns]
   cast: [nanwithkrake, haldrekvane, rootedchief, damut, cat, grukaruk]
   factions: [selmoros, kngdmldrth]
   follows: []

@@ -298,8 +298,12 @@ These ids are the slots the guidance below refers to:
 | `{#dossier}`    | a being's account for the person running it      |
 
 The outline guard (`npm run lint:outline`) reads the registry and checks each note's ids and their order.
-It reports, and does not fail the build, until a land is finished; from then on a
-missing or misplaced slot in that land is an error. A guard sees only ids: whether
+A See Also heading is recognized by its `{#see-also}` anchor, or, when it has none,
+by carrying the heading text the registry declares for that slot; nothing may follow
+it except a section the registry lists as closing (`{#truth}` and `{#glossary}`) and
+the headings nested under one, and a section that does is an error in every land.
+Otherwise it reports, and does not fail the build, until a land is finished; from then on a
+missing or misplaced slot in that land is an error. Beyond that one heading, a guard sees only ids: whether
 a present section names a real tension, or a history tells the place's own story,
 is judged when the land's rendered pages are read.
 

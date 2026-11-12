@@ -320,7 +320,7 @@ leignar ólnare, geithe al threnon./
 «Malmar nusri, málmathen gene halnis»,/
 ryenathen geinra, rith ruthon galnis./
 En gene auran, rith ukal deiron,/
-deiks al kerdon, deiks uk gaeron./
+deiks al kerdon, deiks uk geiron./
 
 Hóuthathen al semand nal al thelgis,/
 gyerth al kerdon séimathen telgis./
@@ -377,7 +377,7 @@ Géilathen senthron reik tergis, lothe thelkon,/
 uk auran, tárneve gerth thorgon reik delkon./
 
 Al ílsevar halmar vérgathen,/
-gaende al senthron, rith lonke térgathen,/
+gande al senthron, rith lonke térgathen,/
 sulner, nond geithe torgar, úldathen,/
 reik auran, greinde kenlon, súldathen./
 Gyese gírdathen al geithar,/
@@ -450,15 +450,15 @@ al halmar. Nonduk seimon hernar./
 Gonde rith henda. Gene théinathen,/
 lúrgathen geisna. Auran thréinathen,/
 «Sárgathen munde tosri deiron./
-Rith geima dárkathen tose gaeron./
-Uk agron gournar tose, geiri kornar,/
+Rith geima dárkathen tose geiron./
+Uk agron gournar tose, geri kornar,/
 rith mundri arlathon en anhernar./
 Mundri genta gryene uken lénathen,/
 rith sórvanda, gyese tose kénathen.»/
 «Rith miron thréinathen tosri géilalon, dúlkathen mundri tírvale.»/
 Ryenathen giethe Hendron threl írvale./
 «Ánseve, giethe munde‼» Nond geirnar/
-hóuthathen auran. Ti en daernar./
+hóuthathen auran. Ti en deirnar./
 Thara, tharan, geile kergis gyethar,/
 rákathen tárneve. Málmathen ryethar./
 Málmathen auran, nathar. Treinen malmar/

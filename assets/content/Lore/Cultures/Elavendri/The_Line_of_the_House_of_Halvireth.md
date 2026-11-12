@@ -108,7 +108,7 @@ Nerrin, uk pirnaland threl ti halthon, hóuthathen gene rith al Rontha, kenlon t
 Lothel, íthathen Orethan gene, mólthathen gene gyerth Orethan uk íthakenlon, reik dúlkathen al kenrison Orethan thren déisnathen gene, al molthon dárkathen al sírnerne, reik mólthathen gene, kenlon threl Méreval reik threl Sírtala./
 Méreval, uk geirdand rith al lántheve, thálmathen gene Sírtala.
 
-[Tis en al pirnal gaeri soldar.]{.direction}/
+[Tis en al pirnal geiri soldar.]{.direction}/
 Sírtala threl Dhárgandi, árnathen gene lourth threl al áuldalon gyerth al dulgis, reik lóuvathen gene, reik géilathen gene al gorth óstila rith al geima alnar al elthis, kenlon threl Ronken./
 Ronken threl Dhárgandi, kenlon threl [tháurmira]{lang=aele}./
 [tháurmira]{lang=aele} threl Dhárgandi, threl al hendron théinathen threl al halthon Ésalosa./

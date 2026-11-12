@@ -22,7 +22,7 @@ No realm holds it. It is the country of [[affiliation-durrask|the Durrask]], abo
 
 The Durrask fight [[lore-grukaraelwyth|Grukar]] wherever they meet them in the copses. The nest at [[place-aldermire|Aldermire]], in the bog above the lake shore, has turned west onto the Highlands' horse-grazing since the shore manors began watching by night. The nest in the old rampart of Gorsering takes the nearest steads' pigs and herd-children, and its stead-heads are burning the copses round it. At the Thornwold's eastern end, along Seirasto's edge, the nest at Brambledene strikes at the Durrask riding east to Dúnavarre.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-durrask|The Durrask]]
 : the people whose country it is
@@ -30,6 +30,8 @@ The Durrask fight [[lore-grukaraelwyth|Grukar]] wherever they meet them in the c
 [[place-eilissa|Lake Eilìssa]]
 : the lake to the north
 
-## Adventures {#adventures}
+[[scenario-durraskcount|Forty Mares and One Name]]
+: a scenario: brood mares taken and the names of the riders who killed a war-leader's brother
 
-- [[scenario-durraskcount|Forty Mares and One Name]]
+[[scenario-lampswenlorne|Pale Lamps on the Crown Road]]
+: a scenario: pale lamps that lead to a waystation whose gate never opens again
