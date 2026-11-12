@@ -4773,9 +4773,9 @@ rule; an all-uppercase group such as TH in THIKKE remains invalid.
 ### Coined words and names {#coined-pronunciation}
 
 Coined words, names and naming elements follow the guide and the naming
-palette below. Eilwìthi has no _ny_, and its _y_ stands only before a vowel or closes _iy_
-or _uy_. Where an English spelling would end a word on _y_, the word ends on
-_i_: _meni_, _eni man_, _enithing_, _kompani_ and _Stoniford_.
+palette below. Eilwìthi has no _ny_, and no word closes on _ay_, _ey_ or _oy_: _ai_, _ei_
+and _oi_ stand there. English-shaped words such as _meni_, _kompani_ and
+_Stoniford_ end on _i_.
 
 ### Foreign words and names {#foreign-names}
 
