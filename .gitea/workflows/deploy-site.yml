@@ -11,7 +11,11 @@ permissions:
     contents: read
 
 concurrency:
-    group: thalorna-site-deploy
+    # Release and manual deployments queue apart from main pushes, so a main
+    # merge during a release build cannot replace the pending release run.
+    group: >-
+        thalorna-site-deploy-${{ (github.event_name == 'workflow_dispatch' || startsWith(github.ref, 'refs/tags/'))
+        && 'public' || 'internal' }}
     cancel-in-progress: false
 
 jobs:
@@ -62,7 +66,7 @@ jobs:
               with:
                   repository: HeroicLands/.github
                   github-server-url: https://git.pupluppy.org
-                  ref: 5d2db91909feba6a8c99013ac15c9a155f066445
+                  ref: 5d2db91909feba6a8c99013ac15c9a155f066445 # main
                   path: trusted-deploy
                   persist-credentials: false
             - name: Inventory the internal pages artifact
@@ -85,7 +89,7 @@ jobs:
     internal:
         needs: build
         if: ${{ needs.build.outputs.mode == 'internal' }}
-        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-site.yml@5d2db91909feba6a8c99013ac15c9a155f066445
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-site.yml@5d2db91909feba6a8c99013ac15c9a155f066445 # main
         with:
             artifact-name: thalorna-site-publication
             package: thalorna
@@ -117,7 +121,7 @@ jobs:
                   path: publication
             - name: Validate the public payload before deployment credentials
               run: node utils/site-publication.mjs verify publication/site
-            # This project owns the existing custom domain and Worker route.
+            # This project owns the custom domain and Worker route.
             - name: Ensure the hosting project exists
               id: hosting
               env:
@@ -130,4 +134,5 @@ jobs:
               with:
                   apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
                   accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+                  wranglerVersion: "4.158.0"
                   command: pages deploy publication/site --project-name=sohl-thalorna --branch=main

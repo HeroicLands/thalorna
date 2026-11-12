@@ -29,6 +29,24 @@ env:
     FONTS_REVISION: e6bdd6b7a406e3f8bd0547b3fbf9f4fdb014303e
 
 jobs:
+    # One decision on the pull request title for every long check. The heavy
+    # jobs and the aggregate read this job's output.
+    gate:
+        name: Pull request readiness
+        runs-on: light
+        outputs:
+            ready: ${{ steps.ready.outputs.ready }}
+        steps:
+            - name: Decide whether the pull request is ready
+              id: ready
+              env:
+                  PR_TITLE: ${{ github.event.pull_request.title }}
+              run: |
+                  case "${PR_TITLE-}" in
+                      [Ww][Ii][Pp]:*) echo "ready=false" >> "$GITHUB_OUTPUT" ;;
+                      *) echo "ready=true" >> "$GITHUB_OUTPUT" ;;
+                  esac
+
     format:
         name: Formatting, markdown and localization
         runs-on: lint
@@ -41,7 +59,7 @@ jobs:
                   fetch-depth: 0
 
             - name: Check canonical git hooks
-              uses: HeroicLands/.github/actions/githooks@5d2db91909feba6a8c99013ac15c9a155f066445
+              uses: HeroicLands/.github/actions/githooks@5d2db91909feba6a8c99013ac15c9a155f066445 # main
 
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
@@ -105,7 +123,8 @@ jobs:
 
     guards:
         name: Reference people and utility tests
-        if: ${{ !startsWith(github.event.pull_request.title, 'WIP:') }}
+        needs: gate
+        if: ${{ needs.gate.outputs.ready == 'true' }}
         runs-on: lint
 
         steps:
@@ -162,7 +181,8 @@ jobs:
     # Native geometry uses FONTS_REVISION; language spellings use installed public encoders.
     fonts:
         name: Font lexicon guards
-        if: ${{ !startsWith(github.event.pull_request.title, 'WIP:') }}
+        needs: gate
+        if: ${{ needs.gate.outputs.ready == 'true' }}
         runs-on: lint
 
         steps:
@@ -251,7 +271,7 @@ jobs:
 
     lint:
         name: Content, prose, and registry checks
-        needs: [format, guards, fonts, build]
+        needs: [gate, format, guards, fonts, build]
         if: ${{ !cancelled() }}
         # Only reads the other jobs' results, so it takes no lint slot.
         runs-on: ubuntu-latest
@@ -260,26 +280,25 @@ jobs:
             - name: Require a ready pull request
               id: ready
               env:
-                  PR_TITLE: ${{ github.event.pull_request.title }}
+                  READY: ${{ needs.gate.outputs.ready }}
               run: |
-                  case "${PR_TITLE-}" in
-                      [Ww][Ii][Pp]:*)
-                          echo "WIP pull request: the long checks have not run. Remove WIP with earl pr ready." >&2
-                          exit 1
-                          ;;
-                  esac
+                  if [ "$READY" = false ]; then
+                      echo "WIP pull request: the long checks have not run. Remove WIP with earl pr ready." >&2
+                      exit 1
+                  fi
             - name: Every check passed
+              if: ${{ steps.ready.outcome == 'success' && success() }}
               run: |
                   results='${{ join(needs.*.result, ' ') }}'
                   echo "check results: $results"
                   for r in $results; do
                       [ "$r" = success ] || { echo "a check did not pass"; exit 1; }
                   done
-              if: ${{ !startsWith(github.event.pull_request.title, 'WIP:') && steps.ready.outcome == 'success' && (success()) }}
 
     build:
         name: Content pack compile
-        if: ${{ !startsWith(github.event.pull_request.title, 'WIP:') }}
+        needs: gate
+        if: ${{ needs.gate.outputs.ready == 'true' }}
         runs-on: build
 
         steps:

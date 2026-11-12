@@ -6,9 +6,18 @@ import os from "node:os";
 import path from "node:path";
 import test from "node:test";
 import { parse } from "yaml";
-import { selectPublication, validatePages, ensurePublicProject } from "./site-publication.mjs";
+import {
+    selectPublication,
+    validatePages,
+    ensurePublicProject,
+    WRANGLER_VERSION,
+} from "./site-publication.mjs";
 
 const SHARED = "5d2db91909feba6a8c99013ac15c9a155f066445";
+
+test("a tag that matches v* but not the version pattern names the event and ref", () => {
+    assert.throws(() => selectPublication("push", "refs/tags/v2"), /push refs\/tags\/v2/);
+});
 
 test("only main pushes build internally; release tags and trusted manual dispatches build publicly", () => {
     assert.deepEqual(selectPublication("push", "refs/heads/main"), {
@@ -55,7 +64,11 @@ test("public payload retains its package prefix, nonempty headers/404/home and c
             await fs.writeFile(path.join(root, file), original);
         }
         await fs.writeFile(path.join(root, "outside.html"), "outside");
-        await assert.rejects(validatePages(root, { minPages: 2 }), /unexpected/);
+        await assert.rejects(
+            validatePages(root, { minPages: 2 }),
+            (error) =>
+                error.message === `${root}/outside.html: error: unexpected site root payload`,
+        );
         await fs.unlink(path.join(root, "outside.html"));
         await fs.symlink("index.html", path.join(root, "thalorna/linked.html"));
         await assert.rejects(validatePages(root, { minPages: 2 }), /regular/);
@@ -86,6 +99,8 @@ test("Cloudflare project identity stays fixed and credentials stay in environmen
         true,
     );
     assert.ok(command.includes("sohl-thalorna"));
+    assert.ok(command.includes(`wrangler@${WRANGLER_VERSION}`));
+    assert.match(WRANGLER_VERSION, /^\d+\.\d+\.\d+$/);
     assert.ok(!command.join(" ").includes(token));
     await assert.rejects(
         ensurePublicProject({
@@ -106,6 +121,21 @@ test("site workflow builds secret-free pages and delegates only internal artifac
     assert.deepEqual(workflow.on.push.tags, ["v*"]);
     assert.ok(Object.hasOwn(workflow.on, "workflow_dispatch"));
     assert.equal(workflow.concurrency["cancel-in-progress"], false);
+    // Release and manual deployments queue in a group apart from main pushes.
+    const group = (event, ref) =>
+        Function(
+            "github",
+            "startsWith",
+            `return \`${workflow.concurrency.group.replace(/\$\{\{(.*?)\}\}/gs, "${$1}")}\`;`,
+        )({ event_name: event, ref }, (value, prefix) => value.startsWith(prefix));
+    const internalGroup = group("push", "refs/heads/main");
+    for (const [event, ref] of [
+        ["push", "refs/tags/v1.2.3"],
+        ["workflow_dispatch", "refs/heads/main"],
+        ["workflow_dispatch", "refs/tags/v1.2.3"],
+    ])
+        assert.notEqual(group(event, ref), internalGroup, `${event} ${ref}`);
+    assert.equal(group("push", "refs/tags/v1.2.3"), group("workflow_dispatch", "refs/heads/main"));
     const build = workflow.jobs.build;
     assert.equal(build["runs-on"], "build");
     assert.ok(!JSON.stringify(build).includes("secrets."));
@@ -148,17 +178,14 @@ test("site workflow builds secret-free pages and delegates only internal artifac
                 "pages deploy publication/site --project-name=sohl-thalorna --branch=main",
         ),
     );
-    const serialized = JSON.stringify(workflow);
-    for (const obsolete of [
-        "preview-assets",
-        "preview-publish",
-        "assets.json",
-        "cdn publish",
-        "publish-package-cdn",
-        "CDN_ACCESS_KEY",
-        "rsync",
-    ])
-        assert.ok(!serialized.includes(obsolete), obsolete);
+    const deploy = workflow.jobs.public.steps.find((step) =>
+        step.uses?.startsWith("cloudflare/wrangler-action@"),
+    );
+    assert.equal(deploy.with.wranglerVersion, WRANGLER_VERSION);
+    const publicJob = workflow.jobs.public;
+    assert.equal(publicJob["runs-on"], "ubuntu-vm");
+    assert.ok(JSON.stringify(publicJob).includes("secrets.CLOUDFLARE_API_TOKEN"));
+    assert.ok(!JSON.stringify(build).match(/wrangler|pages deploy|PREVIEW_SSH|CLOUDFLARE|CDN_/));
 });
 
 test("CDN publication remains a separate manual choice with explicit backend secrets", async () => {

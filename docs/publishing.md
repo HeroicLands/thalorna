@@ -24,8 +24,8 @@ These are alternative builds of the same output directory, `build/site/thalorna/
 with deployment-root `build/site/_headers`. The internal build uses
 `https://www.internal.heroiclands.org` and `https://cdn.internal.heroiclands.org`;
 the public build uses `https://www.heroiclands.org` and `https://cdn.heroiclands.org`.
-Both preserve `/thalorna/` and leave the authored homepage, configuration and
-content unchanged. Shared navigation, the license link and canonical CDN image
+Both preserve `/thalorna/` and serve the authored homepage, configuration and
+content as written. Shared navigation, the license link and canonical CDN image
 references follow the selected addresses through the toolchain's normal
 resolver. External attribution and ordinary authored links keep their URLs.
 Without an explicit root the site defaults to the internal www origin and
@@ -35,12 +35,16 @@ keeps the configured image host; CI always supplies the root.
 local build. For a release-address check, use the explicit public command above.
 The build reads cached dependencies; it never downloads missing CDN images or
 uploads pages or images. Fonts, their license, search files and the package 404
-remain in the generated site tree.
+are part of the generated site tree.
 
-Every workflow build runs in a fresh `ubuntu-vm` container with no SSH,
-Cloudflare or R2 deployment secrets. It verifies the package prefix, nonempty
-landing/404/root headers and at least 1,001 index pages. Root `_headers` retains
-the theme's hostname-scoped noindex rules for Pages/custom package hosts.
+The `build` job runs on the `build` runner and the `public` job on `ubuntu-vm`.
+The `internal` job is the shared reusable workflow, which runs on
+`ubuntu-latest`, a host runner on excelsior; it holds the publication SSH key.
+The build job has no SSH, Cloudflare or R2 deployment secrets, and only the
+`public` job receives the Cloudflare credentials. The build verifies the package
+prefix, nonempty landing/404/root headers and at least 1,001 index pages. Root
+`_headers` carries the theme's hostname-scoped noindex rules for Pages/custom
+package hosts.
 The artifact contains only the generated page tree; an internal artifact also
 contains the shared helper's byte-inventoried `publication.json`.
 
@@ -55,17 +59,17 @@ npm run lint:markdown -- README.md CONTRIBUTING.md docs/publishing.md
 ```
 
 These use synthetic pages and injected Cloudflare calls. They check trigger/root
-selection, build/deployment separation, payload guards and the unchanged Pages
-project without building the content corpus or publishing anything. Normal CI
-supplies the full site gate.
+selection, build/deployment separation, payload guards and the Pages project
+without building the content corpus or publishing anything. Normal CI supplies
+the full site gate.
 
 ## Deploy internal pages
 
 The build job stages `publication/site/`, retaining `_headers` and the
-`thalorna/` prefix. It checks out the trusted shared artifact tools at an
-immutable merged revision `5d2db91909feba6a8c99013ac15c9a155f066445` on
-`https://git.pupluppy.org` and calls their `manifest` command with package `thalorna`,
-the event source SHA and page-count bounds. No package content or deployment
+`thalorna/` prefix. It checks out the trusted shared artifact tools at the
+revision pinned in the workflow, on `https://git.pupluppy.org`, and calls their
+`manifest` command with package `thalorna`, the event source SHA and page-count
+bounds. No package content or deployment
 credential is needed to inventory the generated artifact.
 
 The separate `internal` job calls
@@ -99,8 +103,9 @@ Publication replaces files individually. A failed transfer can leave updated
 pages beside older pages; the previous receipt remains until a complete
 transfer succeeds. Retry the same eligible source SHA to repair an interrupted
 transfer. Workflow concurrency and the shared sender's persistent package lock
-serialize the existing publication runner. Future independent senders need the
-same destination coordination.
+serialize the publication runner. Main pushes share one concurrency group;
+release tags and manual dispatches share another, so a main merge during a
+release build cannot replace the pending release run.
 
 The [shared publishing contract](https://git.pupluppy.org/HeroicLands/.github/src/branch/main/docs/internal-site-publishing.md)
 describes artifact validation, pinned host identity, monotonic history checks
@@ -109,35 +114,36 @@ verified by deployment CI, beyond these local fixtures.
 
 ## Deploy public pages
 
-Public builds retain the existing Cloudflare Pages project `sohl-thalorna`,
+Public builds publish to the Cloudflare Pages project `sohl-thalorna`,
 custom domain, Worker routing and `/thalorna/` payload. The separate public job
 downloads the current run's artifact and repeats the prefix, landing, 404,
 headers and completeness checks before any deployment credential is provided.
 It executes trusted helper code checked out at the immutable event SHA.
 
-The project lookup and pinned Wrangler action receive `CLOUDFLARE_API_TOKEN`
+The project lookup, the pinned Wrangler action and the exact Wrangler release
+that creates a missing project receive `CLOUDFLARE_API_TOKEN`
 and `CLOUDFLARE_ACCOUNT_ID` only in their deployment steps. Missing credentials
-retain the validated artifact and skip upload. Project creation keeps the same
+skip upload and leave the validated artifact in place. Project creation uses the
 `sohl-thalorna` identity and production branch `main`; changing that name would
-leave the existing custom domain on another project.
+leave the custom domain on another project.
 
 For an emergency public update, manually dispatch the workflow at main or an
-eligible release tag. It builds with the public root and uses the existing
-Pages deployment. Inspect the workflow result before treating either internal
+eligible release tag. It builds with the public root and deploys to the
+Pages project. Inspect the workflow result before treating either internal
 or public publication as complete.
 
 ## Publish images manually
 
-The `publish-cdn.yml` workflow remains manual and independent of every site
+The `publish-cdn.yml` workflow is manual and independent of every site
 job. Its `dest` choice defaults to `internal`; choose `cloudflare` for public
-R2 publication. The default dry run lists the existing set/name and transformed
+R2 publication. The default dry run lists the selected set/name and transformed
 uploads without writing. Internal writes use the named
 `PREVIEW_SSH_PRIVATE_KEY`; Cloudflare uses the named `CDN_ENDPOINT`,
 `CDN_BUCKET`, `CDN_ACCESS_KEY_ID` and `CDN_SECRET_ACCESS_KEY` inputs. The shared
 adapter supplies the pinned SSH alias for atlas's forced-rrsync destination.
 
 The underlying commands are `package-build cdn publish --dest internal` and
-`package-build cdn publish --dest cloudflare`, with the workflow's existing
+`package-build cdn publish --dest cloudflare`, with the workflow's
 set/name and dry-run options. Publish required images to the chosen CDN as an
 explicit operation. Site builds and page deployment neither stage an automatic
 asset closure nor fetch fallback images or start a CDN publication.

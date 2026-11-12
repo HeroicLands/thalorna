@@ -16,13 +16,13 @@ const step = (job, name) => workflow.jobs[job].steps.find((entry) => entry.name 
 test("required statuses aggregate every independent check", () => {
     assert.equal(workflow.jobs.lint.name, "Content, prose, and registry checks");
     assert.equal(workflow.jobs.build.name, "Content pack compile");
-    assert.deepEqual(workflow.jobs.lint.needs, ["format", "guards", "fonts", "build"]);
+    assert.deepEqual(workflow.jobs.lint.needs, ["gate", "format", "guards", "fonts", "build"]);
     assert.equal(workflow.jobs.lint.if, "${{ !cancelled() }}");
     const run = step("lint", "Every check passed").run;
     for (const results of [
-        "success success success success",
-        "success success failure success",
-        "success skipped success success",
+        "success success success success success",
+        "success success success failure success",
+        "success success skipped success success",
     ]) {
         const checked = spawnSync("bash", [
             "-e",
@@ -73,8 +73,8 @@ test("native geometry pins one font revision while language guards use installed
     const fetch = step("fonts", "Fetch the fonts").run;
     assert.match(fetch, /fetch.*\"\$FONTS_REVISION\"/);
     assert.match(fetch, /checkout.*FETCH_HEAD/);
-    assert.equal(workflow.jobs.build.needs, undefined);
-    assert.equal(workflow.jobs.fonts.needs, undefined);
+    assert.equal(workflow.jobs.build.needs, "gate");
+    assert.equal(workflow.jobs.fonts.needs, "gate");
     assert.match(step("fonts", "Install Thalorna dependencies").run, /npm ci/);
     assert.doesNotMatch(step("build", "Veldikko").run, /npm ci|git .*fetch|--fonts/);
     const geometry = workflow.jobs.fonts.steps.filter((entry) =>

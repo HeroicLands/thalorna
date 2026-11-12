@@ -251,10 +251,17 @@ folder.
 
 ## Pull request checks
 
-A pull request whose title starts with `WIP:` runs the light checks. An existing
-required check runs a short guard and fails, blocking merges while the expensive
-steps stay skipped. Remove the prefix with `earl pr ready`; it starts fresh
-required checks before scheduling a merge. Changing the title by hand does not
-start those checks. Main, release and manual runs keep their existing checks.
+A pull request whose title starts with `WIP:`, in any letter case, runs the
+light checks: formatting, markdown, localization, changesets and attribution.
+One readiness job reads the title, and four jobs follow its answer: the
+reference-people and utility tests (`guards`), the font lexicon guards
+(`fonts`), the content pack compile (`build`) and the aggregate content, prose
+and registry check (`lint`). The first three are skipped. The aggregate runs a
+short guard and fails, so the required check blocks the merge. Remove the prefix
+with `earl pr ready`; it starts fresh required checks before scheduling a merge.
+Changing the title by hand does not start those checks. Pushes to `main` and
+manual runs of the Lint workflow run every job, because the readiness job
+reports ready without a pull request title. Release tags run the site
+publication workflow and no Lint jobs.
 
 Check the workflow gating locally with `node --test utils/wip-workflows.test.mjs`.

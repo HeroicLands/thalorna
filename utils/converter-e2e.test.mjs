@@ -78,7 +78,7 @@ test("runner caller requires a deliberate ready request and stages the real pack
     assert.match(workflow.jobs.requested.if, /ci\/e2e/);
     assert.equal(job.needs, "requested");
     assert.match(job.if, /needs.requested.outputs.run/);
-    assert.match(job.if, /!startsWith.*WIP:/);
+    assert.match(job.if, /needs.requested.outputs.ready == .true./);
     assert.match(
         job.uses,
         /^HeroicLands\/\.github\/\.gitea\/workflows\/e2e-full.yml@[a-f0-9]{40}$/,

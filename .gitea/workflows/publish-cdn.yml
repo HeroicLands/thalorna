@@ -34,7 +34,7 @@ permissions:
 
 jobs:
     publish:
-        uses: HeroicLands/.github/.gitea/workflows/publish-package-cdn.yml@5d2db91909feba6a8c99013ac15c9a155f066445
+        uses: HeroicLands/.github/.gitea/workflows/publish-package-cdn.yml@5d2db91909feba6a8c99013ac15c9a155f066445 # main
         with:
             dest: ${{ inputs.dest }}
             set: ${{ inputs.set }}

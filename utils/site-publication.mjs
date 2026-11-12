@@ -16,6 +16,13 @@ import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { spawnSync } from "node:child_process";
 
+/** The exact Wrangler release that creates the Pages project. */
+export const WRANGLER_VERSION = "4.158.0";
+
+function located(root, key, message) {
+    return new Error(`${root}/${key}: error: ${message}`);
+}
+
 /** Select addresses from trusted workflow events; branch dispatches are refused. */
 export function selectPublication(event, ref) {
     if (event === "push" && ref === "refs/heads/main")
@@ -26,7 +33,7 @@ export function selectPublication(event, ref) {
         (event === "workflow_dispatch" && ref === "refs/heads/main")
     )
         return { mode: "public", root: "heroiclands.org" };
-    throw new Error("unsupported publishing event/ref");
+    throw new Error(`unsupported publishing event/ref: ${event} ${ref}`);
 }
 
 /** Verify the Pages payload before staging and again after artifact download. */
@@ -39,30 +46,38 @@ export async function validatePages(root, { minPages = 1001 } = {}) {
             for (const name of await fs.readdir(file)) await visit(path.join(relative, name));
         } else {
             if (!stat.isFile() || stat.nlink !== 1)
-                throw new Error("site payload must contain regular files only");
+                throw located(
+                    root,
+                    relative.split(path.sep).join("/"),
+                    "site payload must contain regular files only",
+                );
             const key = relative.split(path.sep).join("/");
             if (
                 (key !== "_headers" && !key.startsWith("thalorna/")) ||
                 key.endsWith("/.preview-publication.json")
             )
-                throw new Error("unexpected site root payload");
-            if (!stat.size) throw new Error(`empty site payload: ${key}`);
+                throw located(root, key, "unexpected site root payload");
+            if (!stat.size) throw located(root, key, "empty site payload");
             files.push(key);
         }
     }
     await visit("");
     for (const file of ["_headers", "thalorna/index.html", "thalorna/404.html"])
-        if (!files.includes(file)) throw new Error(`missing site payload: ${file}`);
+        if (!files.includes(file)) throw located(root, file, "missing site payload");
     const home = await fs.readFile(path.join(root, "thalorna/index.html"), "utf8");
-    if (!/<main\b[^>]*>\s*\S[\s\S]*?<\/main>/i.test(home)) throw new Error("empty homepage main");
+    if (!/<main\b[^>]*>\s*\S[\s\S]*?<\/main>/i.test(home))
+        throw located(root, "thalorna/index.html", "empty homepage main");
     const pages = files.filter(
         (file) => file.startsWith("thalorna/") && /(?:^|\/)index.html$/.test(file),
     ).length;
-    if (pages < minPages) throw new Error("incomplete site tree");
+    if (pages < minPages)
+        throw new Error(
+            `${root}: error: incomplete site tree: ${pages} pages, ${minPages} required`,
+        );
     return pages;
 }
 
-/** Keep the existing Cloudflare project/custom domain and skip absent credentials. */
+/** Keep the Cloudflare project and custom domain, and skip absent credentials. */
 export async function ensurePublicProject({
     env = process.env,
     fetchImpl = fetch,
@@ -90,7 +105,7 @@ export async function ensurePublicProject({
             "npx",
             [
                 "--yes",
-                "wrangler@4",
+                `wrangler@${WRANGLER_VERSION}`,
                 "pages",
                 "project",
                 "create",
@@ -130,7 +145,7 @@ async function main() {
             console.log(
                 "Built and verified; Cloudflare credentials are not both configured, upload skipped.",
             );
-    } else throw new Error("unknown site publication command");
+    } else throw new Error(`unknown site publication command: ${command}`);
 }
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href)
     main().catch((error) => {

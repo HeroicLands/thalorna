@@ -29,7 +29,7 @@ stage as it stands.
 captures sources, publishes the metadata, dictionary and terms indexes, emits
 calendars, stages assets, validates frontmatter and links, and compiles packs.
 `npm run build:content` runs validation and compilation with prepared inputs;
-`build:content-index`, `build:calendars` and `build:assets` remain independent
+`build:content-index`, `build:calendars` and `build:assets` are independent
 entry points, as do `lint:addresses` and `lint:content-links`. `npm run lint`
 validates and checks links in one content session (`lint:content`).
 
@@ -133,7 +133,7 @@ The `deploy-site.yml` workflow builds pushes to `main` with
 `--root internal.heroiclands.org` and publishes their pages at
 <https://www.internal.heroiclands.org/thalorna/> on the LAN/VPN. Release tags
 and emergency manual dispatches from main/a release tag build with
-`--root heroiclands.org` and retain the existing `sohl-thalorna` Cloudflare
+`--root heroiclands.org` and publish to the `sohl-thalorna` Cloudflare
 Pages project. Authored homepage and configuration stay public. Both modes
 require a nonempty landing page, 404 page, root `_headers` and more than 1,000
 index pages.
