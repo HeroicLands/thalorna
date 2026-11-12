@@ -158,8 +158,10 @@ function spellingRows(tongue) {
         ë: ["ë", "Ë"],
     };
     const dip = new Set(["ai", "au", "ia", "eo", "oi", "ou", "ui", "uo", "ei", "ie", "yi", "ye"]);
+    // The consonant y is written only before a vowel or after i or u, by the
+    // pair rows below; it has no standalone row.
     for (const [b, vs] of Object.entries(V))
-        for (const v of vs) {
+        for (const v of b === "y" ? [] : vs) {
             add(v, ch("carrier", b), cm("carrier", b), "at: start");
             add(v, ch(b), cm(b));
         }

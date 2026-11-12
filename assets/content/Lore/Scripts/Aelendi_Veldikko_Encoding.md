@@ -62,8 +62,6 @@ data:
     ó: SIGN_O
     u: SIGN_U
     ú: SIGN_U
-    y: SIGN_Y
-    ý: SIGN_Y
     ë: SIGN_E_DIAERESIS
     j: SIGN_Y
     aa: [SIGN_A, LONG]
@@ -215,8 +213,6 @@ data:
       - {match: ó, emit: [CARRIER, SIGN_O], at: start}
       - {match: u, emit: [CARRIER, SIGN_U], at: start}
       - {match: ú, emit: [CARRIER, SIGN_U], at: start}
-      - {match: y, emit: [CARRIER, SIGN_Y], at: start}
-      - {match: ý, emit: [CARRIER, SIGN_Y], at: start}
       - {match: ë, emit: [CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: j, emit: [CARRIER, SIGN_Y], at: start}
       - {match: aa, emit: [CARRIER, SIGN_A, LONG], at: start}
