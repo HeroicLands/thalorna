@@ -145,6 +145,11 @@ jobs:
             - name: Check reference people
               run: npm run lint:reference-people
 
+            # A closing ay, ey or oy in any name or word, English verse and
+            # English register labels included.
+            - name: Check vowel pairs
+              run: npm run lint:vowel-pairs
+
             # The tree's own guards, the deployment headers among them. Two
             # pull requests that pass alone can fail together, and this catches
             # that before merge.

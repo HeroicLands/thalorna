@@ -86,7 +86,7 @@ Outside the Empire he has no law to stand on, only his standing and the coin he 
 5. **The rooms in Orzara.** Teremos sends a signed letter authorizing a party to collect an old register from his rooms in Orzara and put it aboard the next westbound ship. His landlord will release the chest only to its named carriers, and the ship’s factor wants its freight settled before taking it.
 
 :::secret {title="The healer called Thalos Graymoor"}
-The healer is [[being-alfrdbrnwl|Wilred Barnwell]], a lapsed adept of the Epistémion who left the Order and lives as Thalos Graimoor, out of [[place-kingsholow|Kingshollow]]. Teremos does not know his name. A villager has described the healer to him in passing detail, and he is matching the description against the Epistémion's old records of students who left. He is asking the right questions.
+The healer is [[being-alfrdbrnwl|Wilred Barnwell]], a lapsed adept of the Epistémion who left the Order and lives as Thalos Greimoor, out of [[place-kingsholow|Kingshollow]]. Teremos does not know his name. A villager has described the healer to him in passing detail, and he is matching the description against the Epistémion's old records of students who left. He is asking the right questions.
 
 Wilred has a network of contacts and will hear of the inquiry. He can disappear, make an alibi, or offer Teremos something a _marendos_ cannot refuse. He also has a friend inside the Epistémion's chapterhouse at [[place-dunavarre|Dúnavarre]] who sends him copies of restricted texts, and if Teremos's request for the records passes through that chapterhouse, the friend sees it first.
 

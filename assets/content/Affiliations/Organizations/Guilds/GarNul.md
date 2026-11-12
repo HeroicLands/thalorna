@@ -86,7 +86,7 @@ Gar'Nul works much as [[affiliation-garmelnu|Gar'Melnu]] does in its own trade. 
 
 Two bodies hunt in the empire without a Gar'Nul license, and the guild has made its peace with both.
 
-The **Meglai** are the hereditary hunter-warden caste, whose noble families hold ancient charters of their own. Their authority is older than the guild, so Gar'Nul's license does not bind them. By long-standing practice the Meglai families pay the guild informal courtesy dues, and the guild treats Meglay-conducted hunts as exempt from its examinations. The arrangement keeps both sides out of a jurisdictional fight that neither wants.
+The **Meglai** are the hereditary hunter-warden caste, whose noble families hold ancient charters of their own. Their authority is older than the guild, so Gar'Nul's license does not bind them. By long-standing practice the Meglai families pay the guild informal courtesy dues, and the guild treats Meglai-conducted hunts as exempt from its examinations. The arrangement keeps both sides out of a jurisdictional fight that neither wants.
 
 The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the [Khetai]{.name data-type="affiliation/lineage"} family's sacred hunt, are harder to place. Its members are nobles of the Meglai caste and exempt from the license, but their charter covers only their own stretch of the Zumelesh. Outside it they are technically hunting as Meglai nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
 

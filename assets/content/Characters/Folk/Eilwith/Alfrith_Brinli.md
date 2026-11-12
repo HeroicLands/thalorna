@@ -1,9 +1,9 @@
 ---
 shortcode: alfrithbrnly
-name: {full: Alfrith Brinli, en: [The Harbor-Master of Wraimouth]}
+name: {full: Alfrith Brinli, en: [The Harbor-Master of Wreimouth]}
 type: being
 subType: npc
-description: "Harbor-master of Wraimouth, who runs the busiest quays on Eilwìth for the Warden of the Ports, and is asked by the Order of the Just Blade to search outbound ships for Seilvri furs."
+description: "Harbor-master of Wreimouth, who runs the busiest quays on Eilwìth for the Warden of the Ports, and is asked by the Order of the Just Blade to search outbound ships for Seilvri furs."
 tags: []
 data:
   icon: icon-person
@@ -40,9 +40,9 @@ Alfrith Brinli is a 40-year-old woman of 5'6" and heavy build, with light, weath
 
 # Dossier {#dossier}
 
-**Age 40. Harbor-Master of Wraimouth. Wants the quays busy and the Order out of her books.**
+**Age 40. Harbor-Master of Wreimouth. Wants the quays busy and the Order out of her books.**
 
-Alfrith Brinli runs the harbor of [[place-wraymouth|Wraimouth]], the busiest on [[place-eilwith|Eilwìth]], from the harbor-master's office on the long quay. Every ship that loads or unloads there is entered in her books, and her customs go to the Bursar at [[place-ravenmoor|Ravenmoor]]. She answers to the Warden of the Ports, [[being-taliravenvl|Talira Venavel]], whose clerk she once was.
+Alfrith Brinli runs the harbor of [[place-wraymouth|Wreimouth]], the busiest on [[place-eilwith|Eilwìth]], from the harbor-master's office on the long quay. Every ship that loads or unloads there is entered in her books, and her customs go to the Bursar at [[place-ravenmoor|Ravenmoor]]. She answers to the Warden of the Ports, [[being-taliravenvl|Talira Venavel]], whose clerk she once was.
 
 This spring her quays are busy with the [[affiliation-justbladeordr|Order of the Just Blade]]'s business, iron, oxen and hired men for the summer's road into [[place-teilvari|Teilvari]], and the Order wants her to search outbound ships for [[affiliation-saelvri|Seilvri]] furs and wax. The furs are good business for the shipping houses she answers for, and she has asked the Warden for the order in writing.
 
@@ -54,7 +54,7 @@ Alfrith is loud, shrewd and good-humored, and she knows every captain on the qua
 
 ### Motivation
 
-She wants the port busy, the books straight and the Synod's latitude for Wraimouth kept.
+She wants the port busy, the books straight and the Synod's latitude for Wreimouth kept.
 
 ### Strengths
 
@@ -85,4 +85,4 @@ None yet, though the Order's knights have begun to drink in her taverns.
 ## Plot Hooks
 
 1. **A cargo of furs.** A coaster bound for Élavendre carries Seilvri furs in her hold, and Alfrith wants her out of the harbor before the Order's knights come down to the quay.
-2. **The Order's men.** Hired men for the Order's road keep deserting at Wraimouth, and Alfrith wants to know who is paying their passage out.
+2. **The Order's men.** Hired men for the Order's road keep deserting at Wreimouth, and Alfrith wants to know who is paying their passage out.

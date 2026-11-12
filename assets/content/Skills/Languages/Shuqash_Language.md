@@ -5883,7 +5883,7 @@ data:
     - {name: tiyup pilikin, tongue: shuqash, built: [tiyup, pilikin]}
     - {name: Sky's Count, tongue: translation}
     - {name: Canoe Kin, tongue: translation}
-    - {name: Measure of Kulaywil, tongue: translation}
+    - {name: Measure of Kulaiwil, tongue: translation}
     - {name: Paddle of Shiyawkal, tongue: translation}
     - {name: Holding of the Sun, tongue: translation}
     - {name: First Crossing, tongue: translation}
@@ -5938,7 +5938,7 @@ The Shuqash Language is clipped and busy, and most of its words close on a conso
 
 **The consonants.** _k_, _sh_, _s_, _t_, _l_, _h_, _q_, _m_, _w_, _p_ and _y_ lead, with _n_, _ch_ and _ts_ behind them. _q_ is a _k_ said farther back in the throat, and a plain _k_ is a good enough way to say it.
 
-**Shapes and endings.** Many of the commonest words have one syllable, most have two, and fewer have three or more. A syllable opens on one consonant and may close on one, so two consonants meet inside many words: _hipalshuq_, a crossing strand, _tumshaw_, a storm. Three in four words end on a consonant, most often _q_, _sh_, _l_, _n_ or _k_, and many end on _-ay_, _-aw_ or _-uy_, a vowel and a glide.
+**Shapes and endings.** Many of the commonest words have one syllable, most have two, and fewer have three or more. A syllable opens on one consonant and may close on one, so two consonants meet inside many words: _hipalshuq_, a crossing strand, _tumshaw_, a storm. Three in four words end on a consonant, most often _q_, _sh_, _l_, _n_ or _k_, and many end on _-ai_, _-aw_ or _-uy_, a vowel and a glide.
 
 **What the Shuqash Language leaves out.** It has no _b_, _d_, _g_, _f_, _v_, _r_, _z_ or _j_, no _th_, _kh_ or _ng_, and no catch in the throat, which the south's tongue is full of. No word opens on two consonants, and two vowels never meet.
 
@@ -5958,7 +5958,7 @@ The Shuqash Language is clipped and busy, and most of its words close on a conso
 
 ### Vowel System
 
-**Vowels:** a, e, i, o, u, each with its plain value. The tongue has no long vowels and no vowel pairs; _-ay_, _-aw_, _-uy_ and _-oy_ are a vowel followed by the consonant _y_ or _w_.
+**Vowels:** a, e, i, o, u, each with its plain value. The tongue has no long vowels, and its vowel pairs are those of [[doc-prnncthlrn|Pronouncing Thalorna]].
 
 ### Stress
 
@@ -5976,7 +5976,7 @@ A verb does not change. _Putal_ is to see, and _putal ki_, _putal pi_ and _putal
 
 ### Nouns and Possession
 
-A noun is the same for one or many: _shuq_ is a bead or beads. A speaker who wants to stress a great number repeats the noun's first consonant and vowel: _shushuq_, many beads, is the word for wealth, and _kukulay_ is a whole fleet of canoes. The owner stands before what is owned, with nothing between them: _kitu hukay_ is my house, and _hilaq hukay_ the chief's house.
+A noun is the same for one or many: _shuq_ is a bead or beads. A speaker who wants to stress a great number repeats the noun's first consonant and vowel: _shushuq_, many beads, is the word for wealth, and _kukulai_ is a whole fleet of canoes. The owner stands before what is owned, with nothing between them: _kitu hukai_ is my house, and _hilaq hukai_ the chief's house.
 
 ### Pronouns
 
@@ -5996,7 +5996,7 @@ _Qoi_ is the greeting on a beach, and _chiw_ the word at parting. _Niq_ thanks. 
 
 A bargain is closed with one word, _pilik_, count: the buyer says it as he hands over the strand, and the seller says it back as he takes it. Until both have said it nothing has changed hands, and after both have said it the bargain cannot be undone. _Lun hamil_, "a strand?", is how a price is asked, and the answer is a number.
 
-_Kitu hukay_ is my house, and _hilaq hukay_ the chief's. _Lusha_ is mother and _hawi_ father, _chak_ a child, _kupoi_ a grandmother and _kupaq_ a grandfather.
+_Kitu hukai_ is my house, and _hilaq hukai_ the chief's. _Lusha_ is mother and _hawi_ father, _chak_ a child, _kupoi_ a grandmother and _kupaq_ a grandfather.
 
 Numbers count by tens: _hika_, _shimu_, _kalaq_, _suyuk_, _matish_, one to five; _tasul_, _wiqai_, _holok_, _tipan_, six to nine; _lushu_ is ten, _shimu lushu_ twenty, _halup_ a hundred and _lushu halup_ a thousand. A number takes _-li_ to give its place: _hikali_, first, _kalaqli_, third. A counter counts beads four at a time, sliding them along the cord with a thumb, so that _suyuk_, four, is the word a counter says most.
 

@@ -63,7 +63,7 @@ First Senator
 : [[being-harwingrymr|Harwin Greimore]], a shipping-house senator of Thornbury, in the last year of his term.
 
 Clerk of the Senate
-: [[being-osrithgrydn|Osrith Graiden]], who keeps the roll and the decrees and reads each decree on the steps.
+: [[being-osrithgrydn|Osrith Greiden]], who keeps the roll and the decrees and reads each decree on the steps.
 
 The republic's magistrates sit in the chamber as senators and answer to it for their year: the two _tavoi_ [[being-kuthwldashdn|Kuthwald Ashden]] and [[being-alfmundkrtn|Alfmund Kaerton]], the _vornos_ [[being-mildrikhshwl|Mildrik Hushwell]], the _theronos_ [[being-winiwldbrnl|Winiwald Barnli]] and the _tarkelos_ [[being-leofmndstrmd|Leofmund Stormden]].
 

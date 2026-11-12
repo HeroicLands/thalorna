@@ -20,7 +20,7 @@ data:
 
 ## The Land {#the-land}
 
-The coast is a run of deep anchorages between headlands of open moor, with [[place-ravenmoor|Ravenmoor]] on the deepest of them and [[place-wraymouth|Wraimouth]] at the mouth of the [Wrai]{.name data-type="place/feature"}, the kingdom's river. Behind the coast lie the plains and the river valleys, the kingdom's farmland, cut into manorial estates. Westward the ground rises into wooded hills, and beyond them the old forest of [[place-teilvari|Teilvari]] runs to the edge of [[place-hallowwood|Seirasto]]. The weather comes off the sea, wet and mild.
+The coast is a run of deep anchorages between headlands of open moor, with [[place-ravenmoor|Ravenmoor]] on the deepest of them and [[place-wraymouth|Wreimouth]] at the mouth of the [Wrai]{.name data-type="place/feature"}, the kingdom's river. Behind the coast lie the plains and the river valleys, the kingdom's farmland, cut into manorial estates. Westward the ground rises into wooded hills, and beyond them the old forest of [[place-teilvari|Teilvari]] runs to the edge of [[place-hallowwood|Seirasto]]. The weather comes off the sea, wet and mild.
 
 ## Peoples {#peoples}
 
@@ -35,7 +35,7 @@ The [[affiliation-dunavarsynod|Synod]] at Ravenmoor holds the whole land and gov
 [[place-ravenmoor|Ravenmoor]]
 : The seat of the Synod and the island's compulsory port of call, where every ship crossing from the mainland is inspected.
 
-[[place-wraymouth|Wraimouth]]
+[[place-wraymouth|Wreimouth]]
 : The chief harbor and the kingdom's busiest town, through which its trade with Élavendre and the mainland passes.
 
 [[place-kelivren|Kelivren]]
@@ -51,13 +51,13 @@ The [[affiliation-dunavarsynod|Synod]] at Ravenmoor holds the whole land and gov
 
 Dúnavarre is at peace everywhere but its western estates, where the Order makes war on the Seilvri and [[affiliation-durrask|the Durrask]] raid out of the Thornwold. Since about 694 AF the Order of the Just Blade has made the Synod's war on the Seilvri, and it is winning ([[lore-saelvricrusade|The Seilvri Crusade]]). Each spring the Order's knights ride the tournament at Kelivren, and each summer the Knight-Captain of the West, [[being-merraddovvrn|Sir Merrad Dovavren]], leads them up the valley and cuts the road a few miles deeper into Teilvari. The valleys the Order has taken are granted to estates, whose stewards hold the Seilvri who came out under the Order's terms as unfree tenants.
 
-The realm honors the Order as its chivalry: its knights keep the roads safe and the law even, and the island's other courts measure their own knighthood against it. On the western estates and in Wraimouth's taverns many of the same people call the war a murder, and the tenants of the forest edge trade with the Seilvri and are hanged for it when the Order learns of it. The Order's chaplain preaches the war as the light of [[lore-ardavondty|Árdavon]] carried to a people outside every law.
+The realm honors the Order as its chivalry: its knights keep the roads safe and the law even, and the island's other courts measure their own knighthood against it. On the western estates and in Wreimouth's taverns many of the same people call the war a murder, and the tenants of the forest edge trade with the Seilvri and are hanged for it when the Order learns of it. The Order's chaplain preaches the war as the light of [[lore-ardavondty|Árdavon]] carried to a people outside every law.
 
 At Ravenmoor the Synod is divided over the cost: the Order wants a final campaign into the heart of Teilvari, and the Bursar wants to know how many more summers the road will take. The Synod's embassy to Tantsou is abroad, and the [[affiliation-umbralcourt|Umbral Court]] works in the kingdom's towns.
 
 ## Roads and Trade {#roads-and-trade}
 
-The Synod keeps Dúnavarre's roads, and they are the best on the island. The coast road runs from Ravenmoor through Wraimouth and west along the southern shore toward [[place-veldareth|Veldareth]] and Ondareth, and the valley road runs from Wraimouth up the Wray to the estates and on to Kelivren, where the Order's road into Teilvari begins. Wool, hides, salt-fish and worked goods go out through Wraimouth, and grain, wine, timber and manufactures come in, every cargo first inspected at Ravenmoor.
+The Synod keeps Dúnavarre's roads, and they are the best on the island. The coast road runs from Ravenmoor through Wreimouth and west along the southern shore toward [[place-veldareth|Veldareth]] and Ondareth, and the valley road runs from Wreimouth up the Wrei to the estates and on to Kelivren, where the Order's road into Teilvari begins. Wool, hides, salt-fish and worked goods go out through Wreimouth, and grain, wine, timber and manufactures come in, every cargo first inspected at Ravenmoor.
 
 ## Faiths {#faiths}
 

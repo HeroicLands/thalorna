@@ -88,7 +88,7 @@ grumbles at the cost every year.
 The march is held from a line of forts on the road, each built on a well:
 mud-brick walls, a cistern, a watch-tower, a chariot-yard, and a company of
 infantry and archers with a few chariots for the patrols. The largest, at the
-wells where the road turns toward the Dunhara, is the seat of the [[affiliation-garmglykhqtm|Gar-Meglay Khuqet-Miglet]] and of its commander, the **Overseer of the March**, who answers
+wells where the road turns toward the Dunhara, is the seat of the [[affiliation-garmglykhqtm|Gar-Meglai Khuqet-Miglet]] and of its commander, the **Overseer of the March**, who answers
 to the [[lore-garauu|Gar-Auu]]'s military officers at the capital and to no Halzi'a. The
 garrison's whole duty is the road: to patrol the wells, escort the caravans,
 collect the road-toll, and keep the peace with the clans on the other side

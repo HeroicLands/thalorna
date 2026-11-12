@@ -14,17 +14,17 @@ The Shield of Revunai is the shield of the boy who kept the gate of old [[place-
 
 ## Who Holds It {#who-holds-it}
 
-Nobody is known to. The song places it last in the hands of Berniray's household at [[place-kethramir|Kethramír]]. The gate-court where the boy fell lies at the northern end of [[place-velkunar|Veshkun]], the town under the sand, where the settlers of the [[affiliation-hsevahurdash|House of Vahurdash]] keep a barred door against a knocking that comes every night. The settlers bar the gate before the last light leaves the western wall and do not open it to the voice outside.
+Nobody is known to. The song places it last in the hands of Bernirai's household at [[place-kethramir|Kethramír]]. The gate-court where the boy fell lies at the northern end of [[place-velkunar|Veshkun]], the town under the sand, where the settlers of the [[affiliation-hsevahurdash|House of Vahurdash]] keep a barred door against a knocking that comes every night. The settlers bar the gate before the last light leaves the western wall and do not open it to the voice outside.
 
 ## Its Story {#its-story}
 
 The song tells it. When the springs were leaving the town, the champion [Bernirai]{.name data-type="being/npc"} rode back to wake the house and came in by the breach in the north wall. His own son kept the gate-court that night on the prince's word, and would not open. They fought in the dark with the same strokes, taught by the same drill-master, and the father killed the boy. Then he knelt, turned the shield to the one star in the court and read with his thumb the name on its rim. He took the gate-keys from his son's belt and woke the town from house to house till dawn. When [Minesha]{.name data-type="being/npc"}, the boy's mother, came out with the household clay in two baskets on a pole, she saw what lay in the court, and the shield, and set the pole down. The clay says she said one word: _short_.
 
-Berniray kept his oath, stood a gate for the House of Kethramír for thirty years and never spoke of the court or the boy. The song ends its account of him at his death in [[place-kethramir|Kethramír]], where a Delkoshekh read the names of the dead he owed from the clay Minesha saved, came to one and stopped, and the household showed him the shield.
+Bernirai kept his oath, stood a gate for the House of Kethramír for thirty years and never spoke of the court or the boy. The song ends its account of him at his death in [[place-kethramir|Kethramír]], where a Delkoshekh read the names of the dead he owed from the clay Minesha saved, came to one and stopped, and the household showed him the shield.
 
 ## What It Does {#what-it-does}
 
-It carries the boy's name. The settlers who keep the gate say that the knocker is Berniray, come back to wake the house, and the voice at the door says the champion's words. The Tellumi hold it a relic of the song. Nothing else is claimed for it.
+It carries the boy's name. The settlers who keep the gate say that the knocker is Bernirai, come back to wake the house, and the voice at the door says the champion's words. The Tellumi hold it a relic of the song. Nothing else is claimed for it.
 
 ## Who Wants It {#who-wants-it}
 
@@ -34,10 +34,10 @@ It carries the boy's name. The settlers who keep the gate say that the knocker i
 ## Hooks {#hooks}
 
 - Khorsád-Vahur pays a party to end the knocking, and the song is all the party has to go on ([[scenario-knockvelkun|The Voice at the Barred Gate]]).
-- A cloth-teller of Kethramír sings that the household showed Berniray the shield on his deathbed, and a party that asks which household is sent from door to door.
+- A cloth-teller of Kethramír sings that the household showed Bernirai the shield on his deathbed, and a party that asks which household is sent from door to door.
 
 :::secret {title="Where the shield lies"}
-The shield never left the gate-court. It lies under the floor of the guard-bench, where the boy fell. The deathbed scene of the song, with the household showing Berniray the shield at Kethramír, is the household's own telling. A party that holds the shield and speaks the boy's name ends the knocking at Veshkunvartun for good.
+The shield never left the gate-court. It lies under the floor of the guard-bench, where the boy fell. The deathbed scene of the song, with the household showing Bernirai the shield at Kethramír, is the household's own telling. A party that holds the shield and speaks the boy's name ends the knocking at Veshkunvartun for good.
 :::
 
 ## See Also {#see-also}

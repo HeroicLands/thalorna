@@ -4443,7 +4443,7 @@ Ish'alil—Beautiful; Ts'upal—Ugly; Ch'alish—Sacred, holy; Nalich—Pure; Ha
 
 #### Emotions
 
-Ts'ikan—Happy; Ch'atal—Sad; K'aychun—Angry; Nal'al—Calm; Ha'mal—Fearful
+Ts'ikan—Happy; Ch'atal—Sad; K'aichun—Angry; Nal'al—Calm; Ha'mal—Fearful
 
 #### State
 

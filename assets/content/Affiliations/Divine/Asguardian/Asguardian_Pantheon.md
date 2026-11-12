@@ -182,7 +182,7 @@ that all must leave./
 Valsal gathers;/
 Solvangur welcomes./
 Eldheim keeps fire;/
-Nulthey takes unworthy./
+Nulthei takes unworthy./
 The island holds them;/
 they dwindle toward nothing./
 Nahild heeds none/

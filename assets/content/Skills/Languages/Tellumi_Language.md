@@ -366,7 +366,7 @@ data:
     - form: revunai
       class: name
       field: Derived words
-      gloss: "a man's name: return; Berniray's son"
+      gloss: "a man's name: return; Bernirai's son"
       built: [revun, -ai]
     - form: sunhemai
       class: name
@@ -376,7 +376,7 @@ data:
     - form: minesha
       class: name
       field: Derived words
-      gloss: "a woman's name: star; Berniray's wife"
+      gloss: "a woman's name: star; Bernirai's wife"
       built: [minesh, -a]
     - form: tarlimai
       class: name
@@ -6551,15 +6551,15 @@ data:
     - {name: Muresha, tongue: tellumi, built: [muresh, -a]}
     - {name: Muresha of Shirvan, tongue: gloss, built: [Muresha]}
     - {name: Nimeshai, tongue: tellumi, built: [nimesh, -ai]}
-    - {name: Nimeshay of Ashkarad, tongue: gloss, built: [Nimeshai]}
+    - {name: Nimeshai of Ashkarad, tongue: gloss, built: [Nimeshai]}
     - {name: Gureshai, tongue: tellumi, built: [guresh, -ai]}
-    - {name: Gureshay of Zargandur, tongue: gloss, built: [Gureshai]}
+    - {name: Gureshai of Zargandur, tongue: gloss, built: [Gureshai]}
     - {name: Narvuna, tongue: tellumi, built: [narvun, -a]}
     - {name: Narvuna of Kethramír, tongue: gloss, built: [Narvuna]}
     - {name: Hemvanai, tongue: tellumi, built: [hemvan, -ai]}
-    - {name: Hemvanay of Mernagord, tongue: gloss, built: [Hemvanai]}
+    - {name: Hemvanai of Mernagord, tongue: gloss, built: [Hemvanai]}
     - {name: Nartemai, tongue: tellumi, built: [nartem, -ai]}
-    - {name: Nartemay of Ushtra-ber, tongue: gloss, built: [Nartemai]}
+    - {name: Nartemai of Ushtra-ber, tongue: gloss, built: [Nartemai]}
     - {name: Princes of Tellumel, tongue: gloss, built: [tellumel]}
     - {name: The Tellumi Calendar, tongue: gloss, built: [tellumi]}
     - {name: Tellumi Calendar, tongue: gloss, built: [tellumi]}
@@ -6639,27 +6639,27 @@ data:
     - {name: The Dry Well of Shirvan, tongue: gloss, built: [peshdenderat]}
     - {name: The Dry Well, tongue: gloss, built: [peshdenderat]}
     - {name: Kenbeshai, tongue: tellumi, built: [kenbesh, -ai]}
-    - {name: Priest Kenbeshay, tongue: gloss, built: [Kenbeshai]}
+    - {name: Priest Kenbeshai, tongue: gloss, built: [Kenbeshai]}
     - {name: Mavesha, tongue: tellumi, built: [mavesh, -a]}
     - {name: Prophet Mavesha, tongue: gloss, built: [Mavesha]}
     - {name: Valsuma, tongue: tellumi, built: [valsum, -a]}
     - {name: High Priestess Valsuma, tongue: gloss, built: [Valsuma]}
     - {name: Pedunai, tongue: tellumi, built: [pedun, -ai]}
     - {name: Bulamun, tongue: tellumi, built: [bulam, -un]}
-    - {name: Pedunay Bulamun, tongue: gloss, built: [pedunai, Bulamun]}
+    - {name: Pedunai Bulamun, tongue: gloss, built: [pedunai, Bulamun]}
     - {name: Kireshai, tongue: tellumi, built: [kiresh, -ai]}
-    - {name: Captain Kireshay, tongue: gloss, built: [kireshai]}
+    - {name: Captain Kireshai, tongue: gloss, built: [kireshai]}
     - {name: Vurinai, tongue: tellumi, built: [vurin, -ai]}
-    - {name: Saint Vurinay the Ascendant, tongue: gloss, built: [vurinai]}
-    - {name: Saint Vurinay, tongue: gloss, built: [vurinai]}
+    - {name: Saint Vurinai the Ascendant, tongue: gloss, built: [vurinai]}
+    - {name: Saint Vurinai, tongue: gloss, built: [vurinai]}
     - {name: Sunhema, tongue: tellumi, built: [sunhem, -a]}
     - {name: Karvemun, tongue: tellumi, built: [karvem, -un]}
     - {name: Sunhema Karvemun, tongue: gloss, built: [Sunhema, Karvemun]}
     - {name: Merchant Princess Sunhema, tongue: gloss, built: [Sunhema]}
     - {name: Revunai, tongue: tellumi, built: [revun, -ai]}
     - {name: Kishneshun, tongue: tellumi, built: [kishnesh, -un]}
-    - {name: Revunay Kishneshun, tongue: gloss, built: [revunai, Kishneshun]}
-    - {name: Duke Revunay, tongue: gloss, built: [revunai]}
+    - {name: Revunai Kishneshun, tongue: gloss, built: [revunai, Kishneshun]}
+    - {name: Duke Revunai, tongue: gloss, built: [revunai]}
     - {name: Vemuna, tongue: tellumi, built: [vemun, -a]}
     - {name: Tamkerun, tongue: tellumi, built: [tamker, -un]}
     - {name: Vemuna Tamkerun, tongue: gloss, built: [Vemuna, Tamkerun]}
@@ -6729,13 +6729,13 @@ The surviving older-name repertoire also keeps `z` and `Z`, acute `á` and `í` 
 
 Tellumi is the measured, liquid tongue of the old oasis princes.
 
-**The vowels.** _e_, _u_ and _a_ lead, with _i_. Final _-ay_ is common.
+**The vowels.** _e_, _u_ and _a_ lead, with _i_. Final _-ai_ is common.
 
 **The consonants.** _l_, _m_, _n_, _r_, _v_, _sh_, _ts_, _h_ and _b_.
 
 **Clusters.** _lm_, _rv_, _sht_, _nt_ and _tsm_ meet inside a word.
 
-**Endings.** Tellumi words end in _-ay_, _-esh_, _-un_, _-em_ or _-hur_. Names end in _-a_ or _-ah_.
+**Endings.** Tellumi words end in _-ai_, _-esh_, _-un_, _-em_ or _-hur_. Names end in _-a_ or _-ah_.
 
 **What Tellumi leaves out.** It has no _q_, _gh_ or _zh_, which belong to the desert tongues. It avoids compounds of more than four syllables.
 
@@ -6804,10 +6804,10 @@ A Tellumi name is built in the same few moves as any other word, and it can be r
 | Tellumel    | _te_ + _lu_ + _-mi_ + _-el_ | the land of the Tellumi        |
 | Tennelimash | _te_ + _nelim_ + _-ash_     | high-water town                |
 | Tashbemun   | _tashbem_ + _-un_           | the house of the tower         |
-| Vurinai     | _vurin_ + _-ay_             | a man's name: holy             |
+| Vurinai     | _vurin_ + _-ai_             | a man's name: holy             |
 | Lisena      | _lisen_ + _-a_              | a woman's name: moon           |
 
-**Places** take _-ash_ for a city or town and _-el_ for a land, after one or two stems that say what the place has: its water, its height, its tower. **Houses** take _-un_ after the stem of a founder's name or the house's emblem. **Given names** take _-ay_ for a man and _-a_ for a woman, after one stem; a second stem in front of it is a mark of an old house.
+**Places** take _-ash_ for a city or town and _-el_ for a land, after one or two stems that say what the place has: its water, its height, its tower. **Houses** take _-un_ after the stem of a founder's name or the house's emblem. **Given names** take _-ai_ for a man and _-a_ for a woman, after one stem; a second stem in front of it is a mark of an old house.
 
 ## Verse
 

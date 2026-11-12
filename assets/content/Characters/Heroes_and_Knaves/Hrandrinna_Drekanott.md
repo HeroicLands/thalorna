@@ -500,7 +500,7 @@ Relationship Avoidance
 
 ### Patrons
 
-**[[being-hvilgthanngl|Hvilgthann Glarvidrok]]**, Hersvald of [[place-glarvey|Glarvey]]
+**[[being-hvilgthanngl|Hvilgthann Glarvidrok]]**, Hersvald of [[place-glarvey|Glarvei]]
 : The hersvald has engaged Hrandrinna for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Hvilgthann has become one of her most consistent and reliable clients.
 
 [The Farmers' Collective of the Northern Reach]{.name data-type="affiliation"}

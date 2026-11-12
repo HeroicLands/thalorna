@@ -44,7 +44,7 @@ data:
 
 ## Overview
 
-On the northern desert road, the wells matter more than the forts, and the garrison of [[place-khuqetmiglet|Khuqet-Miglet]] holds both. **Gar-Meglay Khuqet-Miglet** is the frontier command that keeps the road and its water open against the desert tribes, manned by soldiers posted far from the comforts of the capital. Its officers keep a nominal peace with the [[lore-dunhariclt|Dunhari]] and break it about as often as they keep it, so a caravan master on this road checks the state of that peace before relying on it.
+On the northern desert road, the wells matter more than the forts, and the garrison of [[place-khuqetmiglet|Khuqet-Miglet]] holds both. **Gar-Meglai Khuqet-Miglet** is the frontier command that keeps the road and its water open against the desert tribes, manned by soldiers posted far from the comforts of the capital. Its officers keep a nominal peace with the [[lore-dunhariclt|Dunhari]] and break it about as often as they keep it, so a caravan master on this road checks the state of that peace before relying on it.
 
 ## Character
 

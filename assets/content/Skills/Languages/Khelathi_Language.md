@@ -8938,7 +8938,7 @@ whether the body is a trade, a household, a priesthood or a court.
 
 | Head-word | What it names                           | Example                         |
 | --------- | --------------------------------------- | ------------------------------- |
-| _Gar-_    | a house: a family, a lineage, an office | _Gar-Sa'Akutu_, _Gar-Meglay_    |
+| _Gar-_    | a house: a family, a lineage, an office | _Gar-Sa'Akutu_, _Gar-Meglai_    |
 | _Lin'_    | a sworn body of a trade                 | _Lin'Githar_, the weavers       |
 | _Lut-_    | a mansion: a god's temple, or an estate | _Lut-Uzn'era_, _Lut-Mulu_       |
 | _Lem'_    | an order, the servants of a god         | _Lem'Thuba'i_                   |
@@ -8967,7 +8967,7 @@ wrong one has said something else entirely, and the distinction matters in any
 dispute over property, since the three hold different things.
 
 **A house is _Gar-_ whether the tie is blood or office.** _Gar-Sa'Akutu_ is a
-family; _Gar-Meglay_ is the frontier command; _Gar-Gezanu_ is the service that
+family; _Gar-Meglai_ is the frontier command; _Gar-Gezanu_ is the service that
 collects the Gar-Au's dues. What they share is that each has a head who answers
 for it, which is what the head-word asserts.
 

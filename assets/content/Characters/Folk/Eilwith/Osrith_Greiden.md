@@ -1,6 +1,6 @@
 ---
 shortcode: osrithgrydn
-name: {full: Osrith Graiden, en: [The Clerk of the Senate]}
+name: {full: Osrith Greiden, en: [The Clerk of the Senate]}
 type: being
 subType: npc
 description: "Clerk of the Senate of Ondareth, who keeps the chamber's roll, its decrees and its correspondence at Thornbury and reads each decree aloud on the Senate house steps."
@@ -33,13 +33,13 @@ data:
 
 # Appearance {#appearance}
 
-Osrith Graiden is a 50-year-old woman of 5'4" and medium build, with light, clear skin, greying brown hair pinned flat and brown eyes. Her fingers are stained with ink to the second joint, and she carries the day's decrees in a leather case.
+Osrith Greiden is a 50-year-old woman of 5'4" and medium build, with light, clear skin, greying brown hair pinned flat and brown eyes. Her fingers are stained with ink to the second joint, and she carries the day's decrees in a leather case.
 
 # Dossier {#dossier}
 
 **Age 50. Clerk of the Senate. Wants the record kept true, whoever reads it.**
 
-Osrith Graiden keeps the record of the [[affiliation-senatondrth|Senate of Ondareth]] at [[place-thornbury|Thornbury]]: the roll of the chamber, the count of every division, the text of every decree and the Senate's letters to foreign powers. Each morning she reads the previous day's decrees aloud on the Senate house steps, and she takes the citizens' petitions there in return. She is a citizen's daughter and the Senate's servant, and holds no seat.
+Osrith Greiden keeps the record of the [[affiliation-senatondrth|Senate of Ondareth]] at [[place-thornbury|Thornbury]]: the roll of the chamber, the count of every division, the text of every decree and the Senate's letters to foreign powers. Each morning she reads the previous day's decrees aloud on the Senate house steps, and she takes the citizens' petitions there in return. She is a citizen's daughter and the Senate's servant, and holds no seat.
 
 She has kept the record for sixteen years under six First Senators, and she has never altered it.
 

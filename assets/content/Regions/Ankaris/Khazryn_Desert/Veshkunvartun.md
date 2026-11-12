@@ -35,7 +35,7 @@ The knocking leaves marks. In the morning the outer face of the cedar is scored 
 ## What the People Say
 
 - **The warden's account.** The settlers who keep the gate say that the knocker is the champion of [[lore-velkunsong|The Song of the Lost Town]], [Bernirai]{.name data-type="being/npc"}, come back to wake the house. They say it with the flat patience of people who have said it many times and are tired of being the only ones who believe it.
-- **The Shekhul's account.** The priest of the settlement holds that it is not the champion. Berniray lived, served the [House of Kethramír]{.name data-type="affiliation/lineage"} and died in his bed with his name read. What stands at the gate has the oath in its mouth and nothing behind it. It is a thing that learned words from the dead and wears them, and the Shekhul calls it by the Tellumi word for what it is, the **Gate-dead**, _Vartunnilvur_.
+- **The Shekhul's account.** The priest of the settlement holds that it is not the champion. Bernirai lived, served the [House of Kethramír]{.name data-type="affiliation/lineage"} and died in his bed with his name read. What stands at the gate has the oath in its mouth and nothing behind it. It is a thing that learned words from the dead and wears them, and the Shekhul calls it by the Tellumi word for what it is, the **Gate-dead**, _Vartunnilvur_.
 - **The rival houses' account.** The exiled houses in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] say the whole matter is a story the [House of Vahurdash]{.name data-type="affiliation/lineage"} tells to keep strangers from the cellars, and one of them has paid a man to find out.
 - **The caravan yards' account.** Cloth-tellers in Kethramír add a verse to the song when the audience can be trusted with it. The verse says that the keepers of the record-house are still keeping, and that they have not been told they may stop.
 
@@ -59,7 +59,7 @@ The gate is entered from the north, over the open rim, or from the town side by 
 
 - **End the knocking.** Khorsád-Vahur wants the knocking ended, so that the gate can stand open to a caravan that reaches the rim after dusk, and he wants it done without the exiled houses or the Atarzád hearing of it.
 - **The paid man.** One of the exiled houses in Amradad has paid a man to find out whether the knocking is a story the House of Vahurdash tells to keep strangers from the cellars, and a rival house would pay him more to learn that the gate cannot be ended.
-- **The Shekhul's account.** The priest of the settlement holds that the Gate-dead is no champion and wants the wardens to stop answering it as one; the wardens want proof before they give up the name of Berniray.
+- **The Shekhul's account.** The priest of the settlement holds that the Gate-dead is no champion and wants the wardens to stop answering it as one; the wardens want proof before they give up the name of Bernirai.
 
 ## See Also
 

@@ -18,11 +18,11 @@ data:
     - {name: "pashaq", definition: "A debt; anything owed and not yet paid."}
     - name: "tutuq"
       definition: "A bond-worker, who works in a creditor's house until a debt is paid."
-    - name: "kulay"
+    - name: "kulai"
       definition: "A plank canoe, its planks sewn with cord and sealed with tar, built only by the Canoe Kin."
     - name: "kulayash"
       definition: "The Canoe Kin, the hereditary brotherhood that alone builds and sails the plank canoes; one of its members."
-    - {name: "alkulay", definition: "A canoe master, who owns a canoe and commands its crew."}
+    - {name: "alkulai", definition: "A canoe master, who owns a canoe and commands its crew."}
     - name: "alsulik"
       definition: "A master sewer of the Canoe Kin, who knows how a canoe's planks are fitted and sewn."
     - name: "pitash"
@@ -39,9 +39,9 @@ data:
     - name: "altiyup"
       definition: "An astronomer-priest: a sworn keeper of the sky, the days and the measure."
     - {name: "tishal", definition: "Paint, and a painting of the sky on a cave wall."}
-    - {name: "hulmay", definition: "A feast given by a chief."}
-    - {name: "tuway", definition: "A soul; one of the dead on the road west."}
-    - {name: "hukay", definition: "A house: a dome of willow poles thatched with reeds."}
+    - {name: "hulmai", definition: "A feast given by a chief."}
+    - {name: "tuwai", definition: "A soul; one of the dead on the road west."}
+    - {name: "hukai", definition: "A house: a dome of willow poles thatched with reeds."}
     - {name: "kowiq", definition: "An acorn; acorn meal, the bread of every house."}
     - {name: "tulish", definition: "An oak."}
     - {name: "siliq", definition: "A basket; a basket woven tight enough to hold water."}

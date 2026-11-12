@@ -3911,7 +3911,7 @@ data:
       - "Chilwell"
       - "Dunwell"
       - "Garmon"
-      - "Grailing"
+      - "Greiling"
       - "Harden"
       - "Harding"
       - "Helmsli"
@@ -3996,11 +3996,11 @@ data:
       sense: warmed by the sun
       examples: [Sunnerslade]
     - {form: sunder, position: opening, kind: place, sense: split apart, examples: [Sunderfells]}
-    - form: wrai
+    - form: wrei
       position: opening
       kind: place
       sense: "a nook, a hidden corner"
-      examples: [Wraimouth]
+      examples: [Wreimouth]
     - {form: thren, position: opening, kind: place, sense: a lament, examples: [Threndale]}
     - {form: var, position: opening, kind: place, sense: of the Vardain, examples: [Vargate]}
     - {form: nord, position: opening, kind: place, sense: north, examples: [Nordfells]}
@@ -4051,7 +4051,7 @@ data:
       position: closing
       kind: place
       sense: where a river meets the sea
-      examples: [Wraimouth]
+      examples: [Wreimouth]
     - form: fells
       position: closing
       kind: place
@@ -4136,7 +4136,7 @@ data:
     - {form: brown, position: opening, kind: byname, sense: brown, examples: [Browning]}
     - {form: chil, position: opening, kind: byname, sense: "cold, chill", examples: [Chilton]}
     - {form: gar, position: opening, kind: byname, sense: a spear, examples: [Garmon]}
-    - {form: grai, position: opening, kind: byname, sense: gray, examples: [Grailing]}
+    - {form: grei, position: opening, kind: byname, sense: gray, examples: [Greiling]}
     - {form: hard, position: opening, kind: byname, sense: "hardy, stout", examples: [Harding]}
     - {form: helm, position: opening, kind: byname, sense: a helm, examples: [Helmsli]}
     - {form: os, position: opening, kind: byname, sense: a god, examples: [Osgood]}
@@ -4167,7 +4167,7 @@ data:
       position: closing
       kind: byname
       sense: "the small one, the young"
-      examples: [Grailing]
+      examples: [Greiling]
     - {form: good, position: closing, kind: byname, sense: good, examples: [Osgood]}
     - {form: mon, position: closing, kind: byname, sense: a man, examples: [Garmon]}
     - {form: win, position: either, kind: byname, sense: a friend, examples: [Winwik]}
@@ -4186,7 +4186,7 @@ data:
     - {name: Haldrek, kind: given, why: An Eilwìthan given name.}
     - {name: Vane, kind: byname, why: An Eilwìthan family name.}
     - {name: Aldgar, kind: given, why: An Eilwìthan given name.}
-    - {name: Wraimon, kind: byname, why: An Eilwìthan family name.}
+    - {name: Wreimon, kind: byname, why: An Eilwìthan family name.}
     - {name: Mildith, kind: given, why: An Eilwìthan given name.}
     - {name: Godrik, kind: given, why: An Eilwìthan given name.}
     - {name: Stonibi, kind: byname, why: An Eilwìthan family name.}
@@ -4232,7 +4232,7 @@ data:
     - {name: Garmon, kind: byname, built: [gar, mon]}
     - {name: Osrun, kind: given, built: [os, run]}
     - {name: Kenstan, kind: given, built: [ken, stan]}
-    - {name: Grailing, kind: byname, built: [grai, ling]}
+    - {name: Greiling, kind: byname, built: [grei, ling]}
     - {name: Greilevels, kind: place, built: [grei, levels]}
     - {name: Greiwater, kind: place, built: [grei, water]}
     - {name: Hallowwood, kind: place, built: [hallow, wood]}
@@ -4275,7 +4275,7 @@ data:
     - {name: Winrith, kind: given, built: [win, rith]}
     - {name: Winwik, kind: byname, built: [win, wik]}
     - {name: Wolford, kind: byname, built: [wolf, ford]}
-    - {name: Wraimouth, kind: place, built: [wrai, mouth]}
+    - {name: Wreimouth, kind: place, built: [wrei, mouth]}
     - {name: Wiindmarch, kind: place, built: [wiind, march]}
     - {name: Wilrith, kind: given, built: [wil, rith]}
     - {name: Wilstan, kind: given, built: [wil, stan]}
@@ -4546,7 +4546,7 @@ data:
     - {name: Hardli, kind: byname, built: [hard, li]}
     - {name: Brinwik, kind: byname, built: [brin, wik]}
     - {name: Somerli, kind: byname, built: [somer, li]}
-    - {name: Graiden, kind: byname, built: [grai, den]}
+    - {name: Greiden, kind: byname, built: [grei, den]}
     - {name: Wigden, kind: byname, built: [wig, den]}
     - name: Drasknes
       kind: place
@@ -4867,7 +4867,7 @@ and -ieth in the singular, but keep y before plural -en: karriest,
 karrieth, karryen. These are the setting's readable patterns.
 
 Only the finite verb carries present agreement. We haven kome and we haven
-awaited retain their participles; they will kome and they may enter retain
+awaited retain their participles; thei will kome and thei mai enter retain
 bare verbs. Infinitives and commands also stay bare: to speak, Kome hither,
 Enter not, whether one person or several are addressed. Keep recognizable
 past forms such as kame, went, spoke, knew and gave, with familiar
@@ -4877,8 +4877,8 @@ present -en.
 #### Modals, questions and negation {#modals-and-questions}
 
 Modals take no plural -en. Their second singular forms include wilt,
-shalt, kanst, mayst, mightst, wouldst, shouldst and oughtest;
-thou must stays must. The other persons use will, shall, kan, may,
+shalt, kanst, maist, mightst, wouldst, shouldst and oughtest;
+thou must stays must. The other persons use will, shall, kan, mai,
 might, would, should, ought and must. A following verb is bare,
 with to after ought.
 
@@ -4887,7 +4887,7 @@ with to after ought.
 | shall        | obligation, determination or future action |
 | will         | volition, intention or expectation         |
 | kan / kannot | ability / inability                        |
-| may          | permission or possibility                  |
+| mai          | permission or possibility                  |
 | might        | possibility or conditional permission      |
 | must         | necessity                                  |
 | ought        | moral obligation                           |
@@ -4896,15 +4896,15 @@ with to after ought.
 
 Thus Thou shalt obey commands, Thou wilt obey expresses will or expected
 action, Thou must obey states necessity, and Thou oughtest to obey states
-moral duty. Thou mayst depart grants permission. We kannot abide here
-longer states inability; may not would change that meaning.
+moral duty. Thou maist depart grants permission. We kannot abide here
+longer states inability; mai not would change that meaning.
 
 Prefer inversion to ask a question: `Knowest thou him.`, `How farest thou.`,
-`Wherefore weepest thou.` and `Understanden they.` An existing auxiliary inverts
+`Wherefore weepest thou.` and `Understanden thei.` An existing auxiliary inverts
 normally: `Wilt thou kome.`, `Hast thou seen him.` and `Haven ye seen him.`
 Use auxiliary do in questions or negatives only when needed to prevent
 ambiguity. Put not after the finite verb: I know not, he understandeth
-not, we believen not, they komen not. Fear not and Enter not are
+not, we believen not, thei komen not. Fear not and Enter not are
 negative commands. Use naught for nothing; none, no man, neither and
 nor retain their ordinary distinct uses. Ordinary speech uses not, without
 older alternative negative particles or contracted negatives.
@@ -4935,7 +4935,7 @@ there, hense and thense from here and there, whither toward where, and
 whense from where. Where asks location; wherefore asks why. Anon
 means soon, oft often, betwixt between, straightway immediately,
 erewhile previously, erstwhile formerly and till until. Use yea and
-nay for ordinary answers; yes and no remain available to distinguish
+nai for ordinary answers; yes and no remain available to distinguish
 responses to positive and negative questions. Use sertes, verili and
 forsooth sparingly.
 
@@ -5011,7 +5011,7 @@ meaning while applying the same grammar:
 | Do not enter the forest after dark. Dangerous things live there.                   | Enter not the forest after nightfall. Perilous things dwellen therein.     |
 | I do not believe what you are saying. You have lied to us before. (One addressee.) | I believe not thi words. Thou hast lied unto us ere now.                   |
 | You all know what happened. We cannot stay here any longer.                        | Ye knowen what hath befallen. We kannot abide here longer.                 |
-| The king has ruled that nobody may cross the river until the war ends.             | The king hath dekreed that none may kross the river till the war is ended. |
+| The king has ruled that nobody may cross the river until the war ends.             | The king hath dekreed that none mai kross the river till the war is ended. |
 
 A gate conversation, addressed to several merchants:
 
@@ -5023,7 +5023,7 @@ The gates standen shut. Ye kannot enter till morn.
 
 Then we will bide here. Yet far haven we journeyed and weari ben we.
 
-Ye may bide but stir no strife. The kaptain will kome at dawn.
+Ye mai bide but stir no strife. The kaptain will kome at dawn.
 
 **Review a passage by meaning first.** Establish person, number and tense;
 choose the pronouns and finite verb; then check questions, negation and word
@@ -5105,7 +5105,7 @@ Names on Eilwìth use the authoritative spellings given in the register. Every n
 
 **A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwin_, _Edrun_.
 
-**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsli_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grailing_ does.
+**A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsli_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Greiling_ does.
 
 **Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Eilwìth_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Eilwìthi form and its origin or reason. Names outside the element pattern follow the guide too. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Eilwìthi spelling.
 

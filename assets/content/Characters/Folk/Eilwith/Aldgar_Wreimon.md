@@ -1,6 +1,6 @@
 ---
 shortcode: aldgarwraymon
-name: {full: Aldgar Wraimon}
+name: {full: Aldgar Wreimon}
 type: being
 subType: npc
 description: A pilot and fowler of the Greilevels, with a steading on the lower grazing and a son missing from his boat.
@@ -33,13 +33,13 @@ data:
 
 # Appearance {#appearance}
 
-Aldgar Wraimon sits low at the oars and watches the channels between strokes. He speaks in short answers, with his attention on the mudbanks and the last stones of the causeway.
+Aldgar Wreimon sits low at the oars and watches the channels between strokes. He speaks in short answers, with his attention on the mudbanks and the last stones of the causeway.
 
 # Dossier {#dossier}
 
 **Pilot and Fowler.**
 
-Aldgar Wraimon rows the channels of [[place-greylevels|The Greilevels]] and keeps a steading on their lower grazing. He knows the way to [[place-threnhallow|Threnhallow]] and the local tellings about its bell.
+Aldgar Wreimon rows the channels of [[place-greylevels|The Greilevels]] and keeps a steading on their lower grazing. He knows the way to [[place-threnhallow|Threnhallow]] and the local tellings about its bell.
 
 ## Background
 

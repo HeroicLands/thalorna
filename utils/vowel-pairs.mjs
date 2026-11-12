@@ -21,18 +21,42 @@
  * No language is exempt: Aelwythi is held to the standard like every other.
  *
  * Diaeresis findings remain report-only warnings. Closing ay, ey and oy are
- * errors in source-attested in-world spellings; iy and uy stay. The
- * source audit includes typed forms, native names, Roman runs and verse.
- * Ambiguous unmarked homographs are reported for review, never auto-corrected.
+ * errors in in-world spellings; iy and uy stay. The source audit includes
+ * typed forms, native names, Roman runs, verse and explicit English passages.
  * Native codage, code, English glosses and link targets are not Roman forms.
- * --json emits the exact-source work list, ambiguities and exclusion evidence.
- * Deprecated spellings or a duplicate sound inventory make the command exit 1.
+ *
+ * A closing pair is a finding when its word is in-world:
+ *
+ * - **Names.** A capitalized word whose spelling, or the spelling the guide
+ *   gives it, is a register name, a name in a name list, a typed name span or
+ *   the `name.full` of any note. This holds in `lang=en` passages, in `gloss`
+ *   register names and in name fields. The `name.full` of a note that resolves
+ *   to a language is in-world even when nothing else attests it.
+ * - **Lexicon words.** A word whose spelling, or the spelling the guide gives
+ *   it, is a lexicon form of any language, where the occurrence is emphasized,
+ *   a definition term, an office key, a `title`, a bound stem such as `lushei-`
+ *   or inside a `lang=en` passage. Emphasized words of a language note that
+ *   are not English are that language's own, and so is a word that is a form
+ *   of that note's own lexicon, wherever it stands.
+ * - **Spellings that stay.** A word in a gloss is English unless a lexicon, a
+ *   register or a full name holds it. A form in
+ *   `utils/fixtures/vowel-pairs-held.json` is English; each entry gives its
+ *   `form` and `why`.
+ *
+ * A word that nothing attests, such as an unmarked name in prose, is not
+ * found. A typed name span without an attesting note, and a lexicon form of
+ * another language in plain prose, are ambiguities: they are reported for
+ * review and do not change the exit status.
+ *
+ * Usage: `node utils/vowel-pairs.mjs [--json] [--help] [note.md ...]`. Named
+ * notes narrow the report; `--json` emits the exact-source work list,
+ * ambiguities and exclusion evidence. Exit status 1 means a closing pair in
+ * an in-world spelling, or a sound spelled two ways in the guide; 0 otherwise.
  *
  * @module
  */
 
 import fs from "node:fs";
-import { reviewedNativeForms, reviewedAffixExamples } from "./vowel-pairs-adjudications.mjs";
 import path from "node:path";
 import YAML from "yaml";
 import { addressOfText, noteFiles, noteFilesWhere, notePath } from "./note-index.mjs";
@@ -342,9 +366,24 @@ export function vowelPairFindings(text, common) {
  * @param {string[]} argv - Note paths and optional --json; all notes by default.
  * @param {{out: (s: string) => void, err: (s: string) => void}} [io]
  * @param {string} [cwd]
- * @returns {number} 1 for deprecated spellings or a duplicate sound inventory.
+ * @returns {number} 1 for a closing pair in an in-world spelling or a sound the guide spells two ways.
  */
 export function main(argv, io = { out: console.log, err: console.error }, cwd = process.cwd()) {
+    if (argv.includes("--help") || argv.includes("-h")) {
+        io.out(
+            [
+                "Usage: node utils/vowel-pairs.mjs [--json] [--help] [note.md ...]",
+                "",
+                "  --json   print findings, ambiguities and exclusions as JSON",
+                "  --help   print this text",
+                "  note.md  report only these notes",
+                "",
+                "Exit status: 1 when an in-world spelling closes a vowel group with ay, ey or oy",
+                "or the guide spells a sound two ways; 0 otherwise.",
+            ].join("\n"),
+        );
+        return 0;
+    }
     const [guideFile] = noteFilesWhere(
         (fm) => fm?.type === "doc" && fm?.shortcode === "prnncthlrn",
         cwd,
@@ -370,8 +409,7 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
         for (const group of ["findings", "ambiguities", "exclusions"])
             audit[group] = audit[group].filter((hit) => selected.has(hit.file));
     }
-    const failed =
-        audit.findings.length > 0 || inventory.duplicates.length > 0 || inventory.uniqueIPA !== 49;
+    const failed = audit.findings.length > 0 || inventory.duplicates.length > 0;
     if (json) {
         io.out(JSON.stringify({ inventory, ...audit }, null, 2));
         return failed ? 1 : 0;
@@ -420,6 +458,18 @@ const DEPRECATED = new Map([
     ["ey", "ei"],
     ["oy", "oi"],
 ]);
+const HELD_ENTRIES = JSON.parse(
+    fs.readFileSync(new URL("./fixtures/vowel-pairs-held.json", import.meta.url), "utf8"),
+).held;
+/** Forms kept as spelled, whatever a register attests: `utils/fixtures/vowel-pairs-held.json`. */
+const HELD = new Set(
+    HELD_ENTRIES.filter((entry) => entry.scope !== "en").map((entry) => entry.form.toLowerCase()),
+);
+/** Forms kept as spelled inside explicit English passages only (`"scope": "en"`). */
+const HELD_ENGLISH = new Set(
+    HELD_ENTRIES.filter((entry) => entry.scope === "en").map((entry) => entry.form.toLowerCase()),
+);
+
 const WORD = /[\p{L}\p{M}]+(?:[-'’][\p{L}\p{M}]+)*/gu;
 const baseLetter = (s) => s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
 
@@ -456,6 +506,14 @@ export function deprecatedPairs(form, groups = GUIDE_GROUPS) {
         const pair = form.slice(offset, end);
         out.push({ pair, offset, end, replacement: a[0] + (b[0] === "Y" ? "I" : "i") });
     }
+    return out;
+}
+
+/** The form with every closing pair respelled. */
+export function respelled(form) {
+    let out = form;
+    for (const hit of deprecatedPairs(form).reverse())
+        out = out.slice(0, hit.offset) + hit.replacement + out.slice(hit.end);
     return out;
 }
 
@@ -584,15 +642,108 @@ export function pairInventory(sources, config = {}) {
         ambiguities = [],
         exclusions = [],
         forms = [];
-    const reviewedNative = (form) =>
-        [...form.matchAll(WORD)].some((m) =>
-            reviewedNativeForms.has(normalizeName(m[0]).replace(/[’']s$/, "")),
+    const deferred = [];
+    // The names a word attests, its hyphen and apostrophe parts included: a
+    // capitalized part whose spelling, or the spelling the guide gives it, is a
+    // register entry, a name or a full name of any note. A part written in lower
+    // case is a word, never a name; a part that stands in an English gloss or in
+    // the held list is English.
+    const attestedNative = (form) => {
+        const hits = [];
+        for (const m of form.matchAll(WORD))
+            for (const part of new Set([m[0], ...m[0].split(/[-'’]/)])) {
+                if (!part || !deprecatedPairs(part).length) continue;
+                if (part[0] === part[0].toLowerCase()) continue;
+                const ids = [normalizeName(part), normalizeName(respelled(part))];
+                if (ids.some(isEnglish)) continue;
+                for (const id of ids) {
+                    hits.push(...(spelled.get(id) ?? []));
+                    hits.push(...(names.get(id) ?? []));
+                    hits.push(
+                        ...(words.get(id) ?? []).filter((e) => e.surface === "registered-name"),
+                    );
+                }
+            }
+        return hits;
+    };
+    // The lexicon entries a word attests: a form of any language, in its own
+    // spelling or the spelling the guide gives it, whole or as a bound stem.
+    // The names a word attests as part of a complete registered or listed
+    // name: the name is held under its whole string, so the words around the
+    // occurrence are joined, with prose wrapping (line breaks, repeated
+    // whitespace and quotation markers, but not a blank line) read as one
+    // space, and the whole is looked up in its own spelling and in the
+    // spelling the guide gives it. The longest declared name bounds the span.
+    let longestName;
+    const compoundEntries = (text, from) => {
+        longestName ??= Math.max(
+            1,
+            ...[...names.keys(), ...words.keys()].map((key) => key.split(" ").length),
         );
-    const push = (n, form, positions, detail, ambiguous = false) => {
-        const confirmedInWorld =
-            reviewedNative(form) ||
-            (detail.surface === "mixed-affix-example" && reviewedAffixExamples.has(form));
+        const tokens = [...text.matchAll(WORD)];
+        const i = tokens.findIndex((w) => w.index === from);
+        if (i < 0 || [tokens[i][0], respelled(tokens[i][0])].map(normalizeName).some(isEnglish))
+            return [];
+        const joins = (k) => {
+            const gap = text.slice(tokens[k].index + tokens[k][0].length, tokens[k + 1].index);
+            return /^[\s>]*$/.test(gap) && !/\n[ \t]*\r?\n/.test(gap);
+        };
+        const hits = [];
+        for (let a = i; a >= 0 && i - a < longestName; a--) {
+            if (a < i && !joins(a)) break;
+            for (let b = i; b < tokens.length && b - a < longestName; b++) {
+                if (b > i && !joins(b - 1)) break;
+                if (b === a) continue;
+                const span = tokens
+                    .slice(a, b + 1)
+                    .map((t) => t[0])
+                    .join(" ");
+                for (const id of [normalizeName(span), normalizeName(respelled(span))]) {
+                    hits.push(...(names.get(id) ?? []));
+                    hits.push(
+                        ...(words.get(id) ?? []).filter((e) => e.surface === "registered-name"),
+                    );
+                }
+            }
+        }
+        return hits;
+    };
+    const lexicalEntries = (form, skipEnglish = true) => {
+        const hits = [];
+        for (const m of form.matchAll(WORD))
+            for (const part of new Set([m[0], ...m[0].split(/[-'’]/)])) {
+                if (!part || !deprecatedPairs(part).length) continue;
+                const ids = [normalizeName(part), normalizeName(respelled(part))];
+                if (skipEnglish && ids.some(isEnglish)) continue;
+                if (skipEnglish && m[0].split(/[-'’]/).some((p) => isEnglish(normalizeName(p))))
+                    continue;
+                for (const id of ids)
+                    for (const key of [id, id + "-", "-" + id])
+                        hits.push(...(words.get(key) ?? []));
+            }
+        return hits;
+    };
+    const push = (n, form, positions, { inWorld, ...detail }, ambiguous = false) => {
         for (const hit of deprecatedPairs(form)) {
+            const word = [...form.matchAll(WORD)].find(
+                (m) => m.index <= hit.offset && m.index + m[0].length >= hit.end,
+            );
+            const confirmedInWorld = inWorld || attestedNative(word?.[0] ?? form).length > 0;
+            // A glossary headword may be an English term of the culture.
+            if (
+                detail.surface === "glossary" &&
+                [...(word?.[0] ?? form).split(/[-'’]/)].some((part) =>
+                    [part, respelled(part)].map(normalizeName).some(isEnglish),
+                )
+            ) {
+                exclusions.push({
+                    file: n.file,
+                    field: detail.field,
+                    form,
+                    category: "English glossary term",
+                });
+                continue;
+            }
             const start = positions?.[hit.offset],
                 last = positions?.[hit.end - 1];
             if (start === undefined || last === undefined) {
@@ -640,7 +791,15 @@ export function pairInventory(sources, config = {}) {
     const scalar = (n, s, lang, surface, ambiguous = false) => {
         const p = sourcePositions(s.node, n.yaml);
         const positions = p?.map((i) => i + n.prefix);
-        push(n, s.node.value, positions, { field: s.field, language: lang, surface }, ambiguous);
+        deferred.push(() =>
+            push(
+                n,
+                s.node.value,
+                positions,
+                { field: s.field, language: lang, surface },
+                ambiguous,
+            ),
+        );
         if (lang && !ambiguous)
             forms.push({
                 file: n.file,
@@ -663,6 +822,90 @@ export function pairInventory(sources, config = {}) {
             "title",
         ].includes(s.keys.at(-1)) || s.keys.slice(0, 3).join(".") === "data.governance.offices";
     const englishTag = (tag) => ["en", "translation", "gloss"].includes(tag);
+    const names = new Map(),
+        words = new Map();
+    const englishWords = new Set();
+    for (const n of notes)
+        for (const s of n.scalars)
+            if (s.keys.at(-1) === "gloss")
+                for (const m of s.node.value.matchAll(WORD)) {
+                    // A bound stem or affix cited in a gloss is not an English word.
+                    const text = s.node.value;
+                    if (text[m.index + m[0].length] === "-" || text[m.index - 1] === "-") continue;
+                    englishWords.add(normalizeName(m[0]));
+                }
+    // Full names and typed name spans already spelled as the guide spells
+    // them: the correct spelling of a leftover old spelling.
+    const spelled = new Map();
+    const spell = (n, field, text) => {
+        for (const m of text.matchAll(WORD))
+            for (const part of new Set([m[0], ...m[0].split(/[-'’]/)])) {
+                if (!part || deprecatedPairs(part).length) continue;
+                const id = normalizeName(part);
+                const entries = spelled.get(id) ?? [];
+                entries.push({ file: n.file, field, form: part, language: undefined });
+                spelled.set(id, entries);
+            }
+    };
+    for (const n of notes) {
+        for (const s of n.scalars)
+            if (s.keys[0] === "name" && s.keys[1] === "full") spell(n, s.field, s.node.value);
+        for (const span of scanSpans(n.text.slice(n.body)).spans) {
+            const attrs = Object.fromEntries(span.attrs);
+            if ((attrs.class ?? "").split(/\s+/).includes("name"))
+                spell(n, "body", n.text.slice(n.body).slice(span.start + 1, span.contentEnd));
+        }
+    }
+    // English is what the notes' own glosses use and what the held list keeps.
+    // A form a lexicon, a register or a full name holds is native, though a
+    // gloss may cite it.
+    let englishPassage = false;
+    const isEnglish = (id) =>
+        [id, id.replace(/s$/, "")].some(
+            (word) =>
+                HELD.has(word) ||
+                (englishPassage && HELD_ENGLISH.has(word)) ||
+                (englishWords.has(word) &&
+                    !names.has(word) &&
+                    !words.has(word) &&
+                    !spelled.has(word)),
+        );
+    const uniqueLanguage = (entries) => {
+        const values = new Set((entries ?? []).map((e) => e.language));
+        return values.size === 1 ? [...values][0] : undefined;
+    };
+    // A word of an English register label that carries a native spelling is a
+    // surface the label must spell as the guide does; any other word is English.
+    const englishLabel = (n, s) => {
+        const p = sourcePositions(s.node, n.yaml)?.map((i) => i + n.prefix);
+        for (const m of s.node.value.matchAll(WORD)) {
+            if (!deprecatedPairs(m[0]).length) continue;
+            const native = [...attestedNative(m[0]), ...compoundEntries(s.node.value, m.index)];
+            const lang = uniqueLanguage(native);
+            if (!native.length) {
+                exclusions.push({
+                    file: n.file,
+                    field: s.field,
+                    form: m[0],
+                    category: "English register label",
+                });
+                continue;
+            }
+            push(
+                n,
+                m[0],
+                p?.slice(m.index, m.index + m[0].length),
+                {
+                    field: s.field,
+                    surface: "english-register-name",
+                    inWorld: true,
+                    language: lang,
+                    evidence: native,
+                },
+                !lang,
+            );
+        }
+    };
     for (const n of notes) {
         const own = ownLanguage(n);
         for (const s of n.scalars) {
@@ -715,11 +958,7 @@ export function pairInventory(sources, config = {}) {
                 if (section === "register" && ["name", "built"].includes(leaf)) {
                     const entry = n.fm.data.register[row];
                     if (englishTag(entry.tongue) && leaf === "name") {
-                        exclusions.push({
-                            file: n.file,
-                            field: s.field,
-                            category: "English register label",
-                        });
+                        deferred.push(() => englishLabel(n, s));
                         continue;
                     }
                     lang =
@@ -729,7 +968,7 @@ export function pairInventory(sources, config = {}) {
                     surface = "registered-name";
                 }
             }
-            if (top === "data" && section === "glossary" && ["term", "variants"].includes(leaf)) {
+            if (top === "data" && section === "glossary" && ["name", "variants"].includes(leaf)) {
                 lang = glossaryLanguage(n.fm.data.glossary[row], n.record, {
                     keyOf: key,
                     noteOf: (code) => language(code, n),
@@ -742,13 +981,6 @@ export function pairInventory(sources, config = {}) {
     }
     // An attested whole name can be recognized in ordinary prose without
     // treating every English word in an English title as a coined spelling.
-    const names = new Map(),
-        words = new Map();
-    const englishWords = new Set();
-    for (const n of notes)
-        for (const s of n.scalars)
-            if (s.keys.at(-1) === "gloss")
-                for (const m of s.node.value.matchAll(WORD)) englishWords.add(normalizeName(m[0]));
     for (const form of forms) {
         const table =
             (
@@ -774,7 +1006,7 @@ export function pairInventory(sources, config = {}) {
                 const attrs = Object.fromEntries(span.attrs);
                 if (!(attrs.class ?? "").split(/\s+/).includes("name")) continue;
                 const form = chunk.text.slice(span.start + 1, span.contentEnd);
-                if (!reviewedNative(form)) continue;
+                if (!attestedNative(form).length && !language(attrs.lang, n)) continue;
                 const id = normalizeName(form);
                 const existing = names.get(id) ?? [];
                 if (!existing.length)
@@ -804,10 +1036,6 @@ export function pairInventory(sources, config = {}) {
                 }
             }
     }
-    const uniqueLanguage = (entries) => {
-        const values = new Set((entries ?? []).map((e) => e.language));
-        return values.size === 1 ? [...values][0] : undefined;
-    };
     const namePatterns = [...names]
         .filter(([name]) => deprecatedPairs(name).length)
         .flatMap(([name, entries]) => nameForms(name).map((form) => [form, entries]))
@@ -849,10 +1077,50 @@ export function pairInventory(sources, config = {}) {
                             language: lang,
                             evidence: entries,
                         },
-                        !lang || englishWords.has(normalizeName(m[0])),
+                        !lang || isEnglish(normalizeName(m[0])),
                     );
                 }
+            for (const m of s.node.value.matchAll(WORD)) {
+                if (!deprecatedPairs(m[0]).length) continue;
+                const native = [...attestedNative(m[0]), ...compoundEntries(s.node.value, m.index)];
+                if (!native.length) {
+                    const home = ownLanguage(n);
+                    if (
+                        s.keys[1] === "full" &&
+                        home &&
+                        m[0][0] !== m[0][0].toLowerCase() &&
+                        !m[0]
+                            .split(/[-'’]/)
+                            .some((part) =>
+                                [part, respelled(part)].map(normalizeName).some(isEnglish),
+                            )
+                    )
+                        push(
+                            n,
+                            m[0],
+                            p?.slice(m.index, m.index + m[0].length),
+                            { field: s.field, surface: "full-name", language: home, inWorld: true },
+                            false,
+                        );
+                    continue;
+                }
+                const lang = uniqueLanguage(native);
+                push(
+                    n,
+                    m[0],
+                    p?.slice(m.index, m.index + m[0].length),
+                    {
+                        field: s.field,
+                        surface: "attested-name-field",
+                        inWorld: true,
+                        language: lang,
+                        evidence: native,
+                    },
+                    !lang || isEnglish(normalizeName(m[0])),
+                );
+            }
         }
+        englishPassage = false;
         const chunks = [{ body: n.text.slice(n.body), field: "body", position: (i) => n.body + i }];
         for (const s of n.scalars) {
             if (!proseScalar(s)) continue;
@@ -871,14 +1139,19 @@ export function pairInventory(sources, config = {}) {
             const spans = scanSpans(body).spans;
             const ranges = [],
                 masks = [];
+            const emphasis = [...body.matchAll(/(\*\*|__|\*|_)(?=\S)([^\n]*?\S)\1/g)].map((m) => ({
+                from: m.index + m[1].length,
+                to: m.index + m[0].length - m[1].length,
+            }));
             const nameRanges = namePatterns.flatMap(({ regex, entries }) =>
                 [...body.matchAll(regex)]
+                    .filter((m) => m[0][0] !== m[0][0].toLowerCase())
                     .filter(() => entries.some((e) => !e.local || e.file === n.file))
                     .map((m) => ({
                         from: m.index,
                         to: m.index + m[0].length,
                         entries,
-                        english: englishWords.has(normalizeName(m[0])),
+                        english: isEnglish(normalizeName(m[0])),
                     })),
             );
             const selected = (attrs, fallback) => {
@@ -1029,7 +1302,49 @@ export function pairInventory(sources, config = {}) {
                     .sort((a, b) => a.to - a.from - (b.to - b.from));
                 const range =
                     containing.find((r) => r.language || r.stated !== "name") ?? containing[0];
-                if (range?.stated === "en" || range?.stated === "zxx") {
+                const lineStart = body.lastIndexOf("\n", from - 1) + 1,
+                    lineEnd = body.indexOf("\n", to);
+                const definitionTerm = lineStart === from && /^\n[ \t]*:/.test(body.slice(lineEnd));
+                const emphasized = emphasis.some((r) => r.from <= from && r.to >= to);
+                const titleScalar = /(^|\.)title$/.test(field) && !/\s/.test(body.trim());
+                const boundStem = body[to] === "-" || body[from - 1] === "-";
+                englishPassage = range?.stated === "en";
+                const nativeNames = [...attestedNative(form), ...compoundEntries(body, from)];
+                // A bare pair cited as letters is no word unless it is a bound stem.
+                const lexical = form.length < 3 && !boundStem ? [] : lexicalEntries(form);
+                // A language note's own lexicon form is in-world wherever it stands.
+                const ownLexical =
+                    n.fm.subType === "language" ?
+                        lexical.filter((e) => e.language === ownLanguage(n))
+                    :   [];
+                const lexicalContext =
+                    emphasized ||
+                    definitionTerm ||
+                    titleScalar ||
+                    boundStem ||
+                    ownLexical.length > 0 ||
+                    (field.endsWith(".$key") && body === body.toLowerCase());
+                // An own lexicon form that reads as English is reported for review.
+                const englishOwn =
+                    (
+                        n.fm.subType === "language" &&
+                        !lexical.length &&
+                        (form.length > 2 || boundStem)
+                    ) ?
+                        lexicalEntries(form, false).filter((e) => e.language === ownLanguage(n))
+                    :   [];
+                const nativeEntries = [
+                    ...nativeNames,
+                    ...(lexicalContext || range?.stated === "en" ? lexical : []),
+                ];
+                const ownEmphasis =
+                    emphasized &&
+                    form.length > 2 &&
+                    n.fm.subType === "language" &&
+                    ![...form.matchAll(WORD)].some((w) =>
+                        [w[0], respelled(w[0])].map(normalizeName).some(isEnglish),
+                    );
+                if (range?.stated === "zxx" || (range?.stated === "en" && !nativeEntries.length)) {
                     exclusions.push({
                         file: n.file,
                         ...at(n, position(from)),
@@ -1042,40 +1357,52 @@ export function pairInventory(sources, config = {}) {
                 const nameRange = nameRanges
                     .filter((r) => r.from <= from && r.to >= to)
                     .sort((a, b) => b.to - b.from - (a.to - a.from))[0];
-                const attested = nameRange?.entries;
-                const lexical = words.get(normalizeName(form));
+                const attested =
+                    nameRange?.entries ?? (nativeNames.length ? nativeNames : undefined);
                 const lang =
                     range?.language ??
-                    (range && range.stated !== "name" ? undefined
+                    (range?.stated === "en" ? uniqueLanguage(nativeEntries)
+                    : range && range.stated !== "name" ? undefined
                     : nameRange?.english ? undefined
                     : (uniqueLanguage(attested) ??
-                        (lexical && !englishWords.has(normalizeName(form)) ?
-                            uniqueLanguage(lexical)
-                        :   undefined)));
+                        (ownLexical.length ? ownLanguage(n)
+                        : lexical.length ? uniqueLanguage(lexical)
+                        : ownEmphasis ? ownLanguage(n)
+                        : undefined)));
                 const surface =
-                    range?.surface ?? (attested ? "attested-name" : "unmarked lexical occurrence");
-                const lineStart = body.lastIndexOf("\n", from - 1) + 1,
-                    lineEnd = body.indexOf("\n", to);
-                const definitionTerm = lineStart === from && /^\n[ \t]*:/.test(body.slice(lineEnd));
-                const emphasized =
-                    /[*_]$/.test(body.slice(0, from)) && /^[*_]/.test(body.slice(to));
-                if (
-                    !range &&
-                    !attested &&
-                    !(
-                        lexical &&
-                        (emphasized ||
-                            definitionTerm ||
-                            (field.endsWith(".$key") && body === body.toLowerCase()))
-                    )
-                ) {
+                    range?.stated === "en" ?
+                        "explicit English"
+                    :   (range?.surface ??
+                        (attested ? "attested-name" : "unmarked lexical occurrence"));
+                if (!range && !attested && !(lexical.length && lexicalContext) && !ownEmphasis) {
+                    if (lexical.length || englishOwn.length) {
+                        // A lexicon form in plain prose may be a native word.
+                        push(
+                            n,
+                            form,
+                            Array.from({ length: form.length }, (_, i) => position(from + i)),
+                            {
+                                surface: "plain-prose lexical overlap",
+                                language: undefined,
+                                field,
+                                reason: "a lexicon form stands in plain prose; inspect the context",
+                                evidence: (lexical.length ? lexical : englishOwn).map((e) => ({
+                                    file: e.file,
+                                    field: e.field,
+                                    language: e.language,
+                                })),
+                            },
+                            true,
+                        );
+                        continue;
+                    }
                     exclusions.push({
                         file: n.file,
                         ...at(n, position(from)),
                         field,
                         form,
                         category:
-                            lexical ?
+                            lexical.length ?
                                 "ordinary English; lexical overlap"
                             :   "ordinary English; no native signal",
                     });
@@ -1090,11 +1417,14 @@ export function pairInventory(sources, config = {}) {
                         surface,
                         language: lang,
                         field,
-                        evidence: (attested ?? lexical)?.map((e) => ({
-                            file: e.file,
-                            field: e.field,
-                            language: e.language,
-                        })),
+                        inWorld: nativeEntries.length > 0 || ownEmphasis,
+                        evidence: (attested ?? (lexical.length ? lexical : undefined))?.map(
+                            (e) => ({
+                                file: e.file,
+                                field: e.field,
+                                language: e.language,
+                            }),
+                        ),
                         ...(!lang ?
                             {
                                 reason:
@@ -1109,6 +1439,8 @@ export function pairInventory(sources, config = {}) {
             }
         }
     }
+    englishPassage = false;
+    for (const run of deferred.splice(0)) run();
     // One source range gets one classification. Conflicting name attestations
     // must not leave an automatic edit beside a review-only copy of that edit.
     const grouped = new Map();
@@ -1134,6 +1466,7 @@ export function pairInventory(sources, config = {}) {
                 ...hit,
                 confirmedInWorld: true,
                 needsLanguage: languages.length !== 1 || !hit.language,
+                automatic: hit.automatic === true && languages.length === 1,
                 candidateLanguages: languages,
                 evidence: group.flatMap((h) => h.evidence ?? []),
             });

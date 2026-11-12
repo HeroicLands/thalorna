@@ -128,7 +128,7 @@ His wife kept the measures/
 on a stick by the door./
 Nobody was fed twice./
 Nobody was fed less./
-His bench on Domsey bare;/
+His bench on Domsei bare;/
 mark cut, moss on the mark.
 
 From the giant's spilled cold/
@@ -155,7 +155,7 @@ the strips went on the racks,/
 the ribs went for rafters/
 where the gale had the roof./
 Nobody carved the jaw./
-His bench on Domsey bare;/
+His bench on Domsei bare;/
 mark cut, moss on the mark.
 :::
 
@@ -235,11 +235,11 @@ and the ring off his arm.
 
 The seventh year's boat came/
 ice-out for the bench-men;/
-the king's man said "Domsey,"/
+the king's man said "Domsei,"/
 and Krildorv, "My keel first" —/
 a grant moves; he knew that —/
 the boat went without him./
-His bench on Domsey bare;/
+His bench on Domsei bare;/
 mark cut, moss on the mark.
 
 Twenty-six backs to stone,/
@@ -323,7 +323,7 @@ the hall stands roofed in bone,/
 the pit is not yet shut,/
 the old sit by the door,/
 fewer. Fed first. The oath./
-His bench on Domsey bare;/
+His bench on Domsei bare;/
 mark cut, moss on the mark.
 
 Hear the debt, strand-holder:/
@@ -350,7 +350,7 @@ I wear my masters' marks,/
 cut in the arm's silver./
 The one-eyed's birds were here;/
 they saw what I say now./
-His bench on Domsey bare;/
+His bench on Domsei bare;/
 mark cut, moss on the mark.
 :::
 

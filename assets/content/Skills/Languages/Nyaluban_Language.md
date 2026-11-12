@@ -2469,7 +2469,7 @@ data:
     - form: lusheyemi
       class: n
       field: Everyday speech
-      gloss: rain; water falling from clouds, an independently cited ordinary noun related to the old bound name stem lushey-
+      gloss: rain; water falling from clouds, an independently cited ordinary noun related to the old bound name stem lushei-
       source: {kind: coined}
       concept: rain
     - form: lusheyela

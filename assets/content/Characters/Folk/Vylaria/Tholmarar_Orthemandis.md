@@ -90,7 +90,7 @@ Her grudge is known, so anything she brings against Azato is read as a grudge fi
 5. **The court's specimen.** A house asks the Ombalon whether a mineral offered as security is what its seller claims. Tholmarar needs a party to obtain a second specimen from the named source, with a record of who handles it, before she gives an opinion.
 
 :::secret {title="What she suspects about Azato"}
-Tholmarar suspects that some of Azato's research is done outside the Order's sanction, and she is right. He keeps a second name, Kuthstan Crey, for that work. She does not know the name. Her inquiries so far have gone through the examination board's records and the reports of Azato's apprentices, and they have found the gaps in his record where the unsanctioned work goes, but not the work itself.
+Tholmarar suspects that some of Azato's research is done outside the Order's sanction, and she is right. He keeps a second name, Kuthstan Crei, for that work. She does not know the name. Her inquiries so far have gone through the examination board's records and the reports of Azato's apprentices, and they have found the gaps in his record where the unsanctioned work goes, but not the work itself.
 
-**Hook: the gap.** Tholmarar shows a party a year in which Azato's laboratory book records nothing, and asks them to find out where he was. The answer takes them to his rented estate outside [[place-tyrellan|Tirellan]], and to the contacts who know him only as Kuthstan Crey.
+**Hook: the gap.** Tholmarar shows a party a year in which Azato's laboratory book records nothing, and asks them to find out where he was. The answer takes them to his rented estate outside [[place-tyrellan|Tirellan]], and to the contacts who know him only as Kuthstan Crei.
 :::

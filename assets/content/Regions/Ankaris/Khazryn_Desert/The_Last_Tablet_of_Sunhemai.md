@@ -1,6 +1,6 @@
 ---
 shortcode: sunhemtab
-name: {full: The Last Tablet of Sunhemay, en: [The Prince's Last Tablet, The Prince's Line]}
+name: {full: The Last Tablet of Sunhemai, en: [The Prince's Last Tablet, The Prince's Line]}
 type: miscgear
 description: "The tablet on which the last prince of old Vahurdash is sung to have pressed a line with his thumbnail as the sand came in, lying unfound in the record-house under Veshkun with the keepers who would not leave; nobody knows what it says."
 tags: [artifact, khazryn]
@@ -10,7 +10,7 @@ sohl: {system: {weightBase: 1, valueBase: 0, qualityBase: 0, durabilityBase: 5}}
 
 ## Overview {#overview}
 
-The last tablet of Sunhemay is the tablet of clay on which the last prince of old [[place-vahurdash|Vahurdash]] pressed a line with his thumbnail, if the better of two tellings is true. It lies, by that telling, in the record-house of [[place-velkunar|Veshkun]], the town under the sand, with the keepers of the record who would not leave their cellar. Nobody has found it, and nobody knows what it says.
+The last tablet of Sunhemai is the tablet of clay on which the last prince of old [[place-vahurdash|Vahurdash]] pressed a line with his thumbnail, if the better of two tellings is true. It lies, by that telling, in the record-house of [[place-velkunar|Veshkun]], the town under the sand, with the keepers of the record who would not leave their cellar. Nobody has found it, and nobody knows what it says.
 
 ## Who Holds It {#who-holds-it}
 
@@ -18,7 +18,7 @@ Nobody living. The record-house lies under the sand of Veshkun with its clay and
 
 ## Its Story {#its-story}
 
-[[lore-velkunsong|The Song of the Lost Town]] tells it. Sunhemay, prince of the town on the rim, refused a stranger the guest-right and counted his debts while the springs left the city one by one. When the town went out by the east door, the keepers of the record stayed in their cellar, and the sand came in over them. Of Sunhemay the tellers sing two endings. In one he came out with the rest and lived, a poor man in a conquered street. In the other he sat with the lamp in his hall until the oil was gone, reading what he was owed, and on the last tablet he pressed a line with his thumbnail. The cloth-tellers sing the second, and the song ends with the town a sand-filled plan and the prince's line under a walker's feet, unread.
+[[lore-velkunsong|The Song of the Lost Town]] tells it. Sunhemai, prince of the town on the rim, refused a stranger the guest-right and counted his debts while the springs left the city one by one. When the town went out by the east door, the keepers of the record stayed in their cellar, and the sand came in over them. Of Sunhemai the tellers sing two endings. In one he came out with the rest and lived, a poor man in a conquered street. In the other he sat with the lamp in his hall until the oil was gone, reading what he was owed, and on the last tablet he pressed a line with his thumbnail. The cloth-tellers sing the second, and the song ends with the town a sand-filled plan and the prince's line under a walker's feet, unread.
 
 ## What It Does {#what-it-does}
 

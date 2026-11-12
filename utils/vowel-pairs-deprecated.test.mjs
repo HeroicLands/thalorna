@@ -29,9 +29,16 @@ test("conflicting name attestations cannot also authorize the same source edit",
     const report = pairs.pairInventory(sources, {
         languages: { one: { note: "skill-one" }, two: { note: "skill-two" } },
     });
-    const hit = report.ambiguities.find((h) => h.file === "name.md");
+    const hit = report.findings.find((h) => h.file === "name.md");
     assert.deepEqual(hit.candidateLanguages.sort(), ["skill-one", "skill-two"]);
-    assert.ok(!report.findings.some((h) => h.file === hit.file && h.start === hit.start));
+    assert.equal(hit.needsLanguage, true);
+    assert.equal(hit.automatic, false);
+    assert.equal(
+        [...report.findings, ...report.ambiguities].filter(
+            (h) => h.file === hit.file && h.start === hit.start,
+        ).length,
+        1,
+    );
 });
 
 test("the scoped CLI fails before the authorized edits and passes a prospective fixture", () => {
@@ -75,11 +82,29 @@ test("the scoped CLI fails before the authorized edits and passes a prospective 
             '---\ntype: doc\nshortcode: names\n---\n[Drayven Kamruz]{.name data-type="being/npc"}. Drayven returns.\n',
         );
         forgetNoteIndex(root);
+        const output2 = [];
+        assert.equal(
+            pairs.main(["--json"], { out: (s) => output2.push(s), err: () => {} }, root),
+            0,
+            "a name no note attests as in-world is a review diagnostic",
+        );
+        const review = JSON.parse(output2[0]);
+        assert.equal(review.findings.length, 0);
+        assert.ok(
+            review.ambiguities.some((h) => h.form === "Drayven" && h.automatic === false),
+            "the unattested typed name is reported for review",
+        );
+        fs.writeFileSync(
+            path.join(content, "person.md"),
+            "---\ntype: being\nshortcode: draiven\nname: {full: Draiven Kamruz}\n---\n",
+        );
+        forgetNoteIndex(root);
         assert.equal(
             pairs.main(["--json"], { out: () => {}, err: () => {} }, root),
             1,
-            "a confirmed in-world name fails even without known language",
+            "a name a note spells as the guide does confirms the old spelling even without known language",
         );
+        fs.rmSync(path.join(content, "person.md"));
         fs.writeFileSync(
             path.join(content, "language.md"),
             '---\ntype: doc\nshortcode: names\n---\n[Day of Peace]{.name data-type="lore/custom"} and [Graywick]{.name data-type="place/settlement"}.\n',
@@ -95,8 +120,8 @@ test("the scoped CLI fails before the authorized edits and passes a prospective 
         forgetNoteIndex(root);
         assert.equal(
             pairs.main(["--json"], { out: () => {}, err: () => {} }, root),
-            1,
-            "an omitted distinct sound fails",
+            0,
+            "the size of the guide's sound inventory is not fixed",
         );
     } finally {
         forgetNoteIndex(root);
@@ -131,7 +156,7 @@ type: skill
 subType: language
 shortcode: one
 data:
-  words: [{form: day, gloss: day}, {form: they, gloss: they}, {form: way, gloss: way}]
+  words: [{form: dai, gloss: day}, {form: thei, gloss: they}, {form: wai, gloss: way}]
   register: [{name: Grey, tongue: one}]
 ---
 The day they found the way was grey.
@@ -141,13 +166,13 @@ _They_ and [Unattesteday]{.name data-type=being/npc}.
         },
     ];
     const report = pairs.pairInventory(sources, { languages: { one: { note: "skill-one" } } });
-    assert.equal(report.ambiguities.filter((h) => h.form === "day" || h.form === "way").length, 0);
-    assert.ok(report.ambiguities.some((h) => h.form === "Unattesteday" && h.automatic === false));
     assert.ok(
-        report.exclusions.some(
-            (h) => h.form === "they" && h.category === "ordinary English; lexical overlap",
+        !report.findings.some(
+            (h) => (h.form === "day" || h.form === "way") && h.surface !== "roman-span",
         ),
     );
+    assert.ok(report.ambiguities.some((h) => h.form === "Unattesteday" && h.automatic === false));
+    assert.ok(report.ambiguities.some((h) => h.form === "they" && h.automatic === false));
     assert.ok(report.findings.filter((h) => h.surface === "roman-span").length === 3);
 });
 
@@ -285,14 +310,15 @@ test("sound inventory derives duplicate IPA and prospective counts from guide da
     const inventory = pairs.soundInventory(source);
     const rows = pairs.frontmatterDoc(source).doc.toJS().data.sounds.letters;
     assert.equal(inventory.rows, rows.length);
-    assert.equal(inventory.uniqueIPA, 49);
     const deprecatedRows = rows.filter((row) =>
         row.letters.some((s) => ["ay", "ey", "oy"].includes(s)),
     );
-    assert.equal(inventory.rows, 49 + deprecatedRows.length);
     assert.equal(inventory.duplicates.length, deprecatedRows.length);
-    assert.equal(inventory.prospective.rows, 49);
-    assert.equal(inventory.prospective.uniqueIPA, 49);
+    assert.equal(inventory.prospective.rows, rows.length - deprecatedRows.length);
+    assert.equal(inventory.prospective.uniqueIPA, inventory.prospective.rows);
+    assert.deepEqual(inventory.prospective.spellings, [
+        ...new Set(inventory.prospective.spellings),
+    ]);
     assert.ok(inventory.prospective.spellings.includes("iy"));
     assert.ok(inventory.prospective.spellings.includes("uy"));
 });
@@ -309,7 +335,7 @@ test("source ownership distinguishes forms, names, passages and English", () => 
 type: skill
 subType: language
 shortcode: testlng
-name: {full: The Bay Language}
+name: {full: The Harbor Language}
 data:
   words:
     - {form: tay, variants: [tey], gloss: "say hey boy"}
@@ -339,7 +365,7 @@ data: {lang: test}
 type: doc
 shortcode: prose
 data: {culture: testclt}
-name: {full: The Grey Bay, test: [Tay]}
+name: {full: The Harbor, test: [Tay]}
 ---
 The boy may play. [Ray]{.name data-type="being/npc"} meets Tay. Ray's ship meets Ray’s boat.
 [tay ⟦tay⟧ kaya iy uy]{lang=test}
@@ -403,6 +429,10 @@ test("tongue tags belong to their own page and an unspecified older tongue stays
             file: "tellumi.md",
             text: "---\ntype: skill\nsubType: language\nshortcode: tellumi\ndata: {tongues: [{tag: older}], register: [{name: Kayvonad Zarid, tongue: older}]}\n---\n",
         },
+        {
+            file: "person.md",
+            text: "---\ntype: being\nshortcode: kaivonad\nname: {full: Kaivonad Zarid}\n---\n",
+        },
     ];
     const report = pairs.pairInventory(sources);
     assert.equal(report.findings.length, 1);
@@ -433,7 +463,7 @@ type: lore
 shortcode: visible
 name: {full: Harbor, en: [Wraymouth, Kenbeshay, Kireshay, Revunay, Vurinay], aliases: [Domsey]}
 data:
-  glossary: [{term: assembly, definition: "Meets at Domsey."}]
+  glossary: [{name: assembly, definition: "Meets at Domsey."}, {name: Kenbeshay}]
   governance:
     offices:
       alkulay: "Meets at Kulaywil."
@@ -447,9 +477,10 @@ data:
     ];
     const report = pairs.pairInventory(sources);
     const hits = report.findings.filter((h) => h.file === "visible.md");
-    assert.equal(hits.length, 12, JSON.stringify(hits.map((h) => [h.field, h.form])));
+    assert.equal(hits.length, 13, JSON.stringify(hits.map((h) => [h.field, h.form])));
     assert.equal(hits.filter((h) => h.field.endsWith(".$key")).length, 2);
     assert.ok(hits.some((h) => h.field.endsWith(".definition")));
+    assert.ok(hits.some((h) => h.field === "data.glossary[1].name" && h.form === "Kenbeshay"));
     for (const hit of hits) assert.equal(sources[1].text.slice(hit.start, hit.end), hit.source);
     assert.ok(!hits.some((h) => h.field === "data.seat" || h.field.includes("Grey Head")));
     assert.equal(report.exclusions.filter((h) => h.category === "link target").length, 1);
@@ -482,10 +513,391 @@ Wahrethu Meykhathi returns.
             file: "other.md",
             text: "---\ntype: doc\nshortcode: other\n---\nDrayven is unmarked here.\n",
         },
+        {
+            file: "spelled-person.md",
+            text: "---\ntype: being\nshortcode: draiven\nname: {full: Draiven Kamruz}\n---\n",
+        },
+        {
+            file: "spelled-lineage.md",
+            text: "---\ntype: lore\nshortcode: meikhathi\nname: {full: Meikhathi}\n---\n",
+        },
     ];
     const report = pairs.pairInventory(sources);
     assert.equal(report.findings.filter((h) => h.file === "shadezan.md").length, 3);
     assert.equal(report.findings.filter((h) => h.file === "wahrethu.md").length, 5);
     assert.ok(report.findings.every((h) => h.confirmedInWorld && h.needsLanguage));
     assert.ok(!report.ambiguities.some((h) => h.file === "other.md"));
+});
+
+test("an old spelling of an attested name is a finding in English verse, English labels and full names", () => {
+    const sources = [
+        {
+            file: "tongue.md",
+            text: `---
+type: skill
+subType: language
+shortcode: one
+data:
+  register:
+    - {name: Kenbeshai, tongue: one}
+    - {name: Priest Kenbeshay, tongue: gloss, built: [Kenbeshai]}
+    - {name: Vurinai, tongue: one}
+    - {name: The Gray Road, tongue: gloss, built: [Vurinai]}
+  words: [{form: tai, gloss: "a day of rest"}]
+---
+`,
+        },
+        {
+            file: "song.md",
+            text: `---
+type: doc
+shortcode: song
+name: {full: Kenbeshay Hall}
+---
+::: {.verse lang=en}
+Kenbeshay walks the gray road
+and the day is long
+:::
+`,
+        },
+        ...["a", "b"].map((id) => ({
+            file: `english-${id}.md`,
+            text: `---\ntype: doc\nshortcode: english${id}\n---\nThe day is gray and they may stay away.\n`,
+        })),
+    ];
+    const report = pairs.pairInventory(sources);
+    const found = (file, form) => report.findings.some((h) => h.file === file && h.form === form);
+    assert.ok(
+        found("tongue.md", "Kenbeshay"),
+        "a gloss register name with an old spelling is a finding",
+    );
+    assert.ok(found("song.md", "Kenbeshay"), "English verse and the full name are checked");
+    assert.equal(
+        report.findings.filter((h) => h.file === "song.md" && h.form === "Kenbeshay").length,
+        2,
+    );
+    for (const hit of report.findings) {
+        assert.ok(hit.confirmedInWorld, JSON.stringify([hit.file, hit.form]));
+        assert.equal(
+            sources.find((s) => s.file === hit.file).text.slice(hit.start, hit.end),
+            hit.source,
+        );
+    }
+    assert.ok(!report.findings.some((h) => /^(day|gray|they|may|stay|away)$/i.test(h.form)));
+    assert.ok(report.exclusions.some((e) => e.category === "explicit English" && e.form === "day"));
+});
+
+test("a register name and a lexicon word with a closing pair are found whatever else the corpus writes", () => {
+    const tongue = `---
+type: skill
+subType: language
+shortcode: one
+data:
+  words:
+    - {form: hukai, gloss: house}
+    - {form: "lushei-", class: stem, gloss: rain}
+    - {form: alkulai, gloss: master}
+  register:
+    - {name: Olkai, tongue: one}
+---
+A native word is _hukay_ and _alkulay_. The stem _lushey-_ is bound. The plain word hukay stays.
+`;
+    const sources = [
+        { file: "tongue.md", text: tongue },
+        {
+            file: "verse.md",
+            text: `---
+type: doc
+shortcode: verse
+---
+::: {.verse lang=en}
+The olkai sits and Olkay walks
+the hukay burns
+:::
+Olkay speaks in plain prose.
+`,
+        },
+        {
+            file: "office.md",
+            text: "---\ntype: lore\nshortcode: office\ndata:\n  ranks:\n    - level: 3\n      title: alkulay\n---\n",
+        },
+        ...["a", "b", "c"].map((id) => ({
+            file: `prose-${id}.md`,
+            text: `---\ntype: doc\nshortcode: prose${id}\n---\nThe olkai sits by the hukay and the alkulay.\n`,
+        })),
+    ];
+    const report = pairs.pairInventory(sources);
+    const found = (file, form, surface) =>
+        report.findings.some(
+            (h) => h.file === file && h.form === form && (!surface || h.surface === surface),
+        );
+    assert.ok(found("verse.md", "Olkay", "explicit English"), "a register name in English verse");
+    assert.ok(found("verse.md", "hukay", "explicit English"), "a lexicon word in English verse");
+    assert.ok(found("tongue.md", "hukay"), "an emphasized word of a language note");
+    assert.ok(found("tongue.md", "alkulay"));
+    assert.ok(found("tongue.md", "lushey"), "a bound stem");
+    assert.ok(found("office.md", "alkulay"), "a title");
+    assert.equal(
+        report.findings.filter((h) => h.file === "tongue.md" && h.form === "hukay").length,
+        2,
+        "a language note's own lexicon form is in-world in emphasis and in plain prose",
+    );
+    assert.ok(!report.findings.some((h) => h.file.startsWith("prose-")));
+    assert.equal(
+        report.findings.filter((h) => h.file === "verse.md" && h.form === "Olkay").length,
+        2,
+        "an attested name is found in verse and in plain prose",
+    );
+});
+
+test("the full name of a note that resolves to a language is in-world unless the held list keeps it", () => {
+    const config = { languages: { one: { note: "skill-one" } } };
+    const sources = [
+        {
+            file: "tongue.md",
+            text: "---\ntype: skill\nsubType: language\nshortcode: one\n---\n",
+        },
+        {
+            file: "culture.md",
+            text: "---\ntype: lore\nsubType: culture\nshortcode: clt\ndata: {lang: one}\n---\n",
+        },
+        {
+            file: "place.md",
+            text: "---\ntype: place\nshortcode: glarv\nname: {full: Glarvey}\ndata: {culture: clt}\n---\n",
+        },
+        {
+            file: "abbey.md",
+            text: "---\ntype: place\nshortcode: abby\nname: {full: Abbey}\ndata: {culture: clt}\n---\n",
+        },
+    ];
+    const report = pairs.pairInventory(sources, config);
+    assert.ok(report.findings.some((h) => h.file === "place.md" && h.form === "Glarvey"));
+    assert.ok(!report.findings.some((h) => h.file === "abbey.md"));
+});
+
+test("the command prints its usage", () => {
+    const output = [];
+    assert.equal(
+        pairs.main(["--help"], { out: (s) => output.push(s), err: () => {} }, os.tmpdir()),
+        0,
+    );
+    assert.match(output.join("\n"), /Usage: node utils\/vowel-pairs\.mjs/u);
+});
+
+test("the guard's exclusions are reported once", () => {
+    const report = pairs.pairInventory([
+        {
+            file: "tongue.md",
+            text: "---\ntype: skill\nsubType: language\nshortcode: one\ndata:\n  register:\n    - {name: The Gray Road, tongue: gloss}\n---\n",
+        },
+    ]);
+    const seen = report.exclusions.map((e) => [e.file, e.field, e.form, e.category].join("|"));
+    assert.equal(new Set(seen).size, seen.length);
+});
+
+test("a lexicon word in plain prose is a finding in its own language note and a review item elsewhere", () => {
+    const config = { languages: { one: { note: "skill-one" } } };
+    const sources = [
+        {
+            file: "tongue.md",
+            text: `---
+type: skill
+subType: language
+shortcode: one
+data:
+  words:
+    - {form: hukai, gloss: house}
+---
+The hukay stands and Hukay stand.
+`,
+        },
+        {
+            file: "other.md",
+            text: "---\ntype: doc\nshortcode: other\n---\nThe hukay stands.\n",
+        },
+    ];
+    const report = pairs.pairInventory(sources, config);
+    assert.equal(
+        report.findings.filter((h) => h.file === "tongue.md" && /^hukay$/i.test(h.form)).length,
+        2,
+    );
+    assert.ok(!report.findings.some((h) => h.file === "other.md"));
+    assert.ok(
+        report.ambiguities.some((h) => h.file === "other.md" && h.form === "hukay"),
+        "a plain-prose lexicon form outside its language note is reported for review",
+    );
+    assert.ok(!report.exclusions.some((e) => e.file === "other.md" && e.form === "hukay"));
+});
+
+test("a native word that a gloss cites is still found in its old spelling", () => {
+    const sources = [
+        {
+            file: "tongue.md",
+            text: `---
+type: skill
+subType: language
+shortcode: one
+data:
+  words:
+    - {form: tai, gloss: house}
+    - {form: kanai, gloss: "from tai; of Olkai"}
+  register:
+    - {name: Olkai, tongue: one}
+---
+`,
+        },
+        {
+            file: "verse.md",
+            text: `---
+type: doc
+shortcode: verse
+---
+::: {.verse lang=en}
+Olkay walks and tay burns
+:::
+The word _tay_ is native.
+`,
+        },
+    ];
+    const report = pairs.pairInventory(sources);
+    const found = (form) => report.findings.some((h) => h.file === "verse.md" && h.form === form);
+    assert.ok(found("Olkay"));
+    assert.ok(found("tay"));
+});
+
+test("a language note's own lexicon form that reads as English is reported for review", () => {
+    const sources = [
+        {
+            file: "tongue.md",
+            text: `---
+type: skill
+subType: language
+shortcode: one
+data:
+  words:
+    - {form: mai, gloss: "may; be allowed"}
+    - {form: thei, gloss: "they; several people"}
+---
+Use will, shall, kan, may. And none may kross; they komen not.
+`,
+        },
+    ];
+    const report = pairs.pairInventory(sources, { languages: { one: { note: "skill-one" } } });
+    for (const form of ["may", "they"])
+        assert.ok(
+            report.ambiguities.some((h) => h.file === "tongue.md" && h.form === form),
+            `${form}: reported for review`,
+        );
+    assert.ok(!report.exclusions.some((e) => e.form === "may" || e.form === "they"));
+    assert.equal(report.findings.length, 0);
+});
+
+test("a held form with an English scope is kept only inside English passages", () => {
+    const sources = [
+        {
+            file: "tongue.md",
+            text: "---\ntype: skill\nsubType: language\nshortcode: one\ndata:\n  words:\n    - {form: nai, gloss: no}\n---\n",
+        },
+        {
+            file: "verse.md",
+            text: "---\ntype: doc\nshortcode: verse\n---\n::: {.verse lang=en}\nnone say him nay\n:::\n",
+        },
+    ];
+    const report = pairs.pairInventory(sources);
+    assert.ok(!report.findings.some((h) => h.form === "nay"));
+    assert.ok(report.exclusions.some((e) => e.form === "nay" && e.category === "explicit English"));
+});
+
+test("a complete registered name attests its components in English passages", () => {
+    const tongue =
+        "---\ntype: skill\nsubType: language\nshortcode: one\ndata:\n  register:\n    - {name: Kenbeshai Arathan, tongue: one}\n---\n";
+    const prose =
+        "---\ntype: doc\nshortcode: prose\n---\nHe met [Kenbeshay Arathan]{lang=en} and Arathan Kenbeshay.\n";
+    const sources = [
+        { file: "tongue.md", text: tongue },
+        { file: "prose.md", text: prose },
+    ];
+    const report = pairs.pairInventory(sources, { languages: { one: { note: "skill-one" } } });
+    const hits = report.findings.filter((h) => h.file === "prose.md");
+    assert.equal(hits.length, 1);
+    assert.equal(hits[0].form, "Kenbeshay");
+    assert.equal(hits[0].source, "ay");
+    assert.equal(prose.slice(hits[0].start, hits[0].end), "ay");
+    assert.equal(hits[0].replacement, "ai");
+    assert.equal(hits[0].language, "skill-one");
+
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), "vowel-pairs-compound-"));
+    try {
+        const content = path.join(root, "assets/content");
+        fs.mkdirSync(content, { recursive: true });
+        fs.writeFileSync(
+            path.join(content, "guide.md"),
+            fs.readFileSync(notePath("doc-prnncthlrn"), "utf8"),
+        );
+        fs.writeFileSync(path.join(content, "tongue.md"), tongue);
+        fs.writeFileSync(path.join(content, "prose.md"), prose);
+        fs.writeFileSync(
+            path.join(root, "package-build.config.yaml"),
+            "contentPackage: thalorna\nlanguages: {one: {note: skill-one}}\n",
+        );
+        forgetNoteIndex(root);
+        const errors = [];
+        assert.equal(pairs.main([], { out: () => {}, err: (s) => errors.push(s) }, root), 1);
+        assert.match(errors.join("\n"), /prose\.md:\d+:\d+: error: "Kenbeshay" closes "ay"/u);
+    } finally {
+        forgetNoteIndex(root);
+        fs.rmSync(root, { recursive: true, force: true });
+    }
+});
+
+test("a registered name is matched across wrapped lines and at any length", () => {
+    const cases = [
+        {
+            register: "Kenbeshai Arathan",
+            prose: "He met [Kenbeshay\n  Arathan]{lang=en} at dusk.\n",
+        },
+        {
+            register: "Kenbeshai Arathan Arathan Arathan Arathan",
+            prose: "He met [Kenbeshay Arathan Arathan Arathan Arathan]{lang=en} at dusk.\n",
+        },
+        {
+            register: "Arathan Arathan Arathan Arathan Kenbeshai",
+            prose: "> He met Arathan Arathan\n> Arathan Arathan Kenbeshay.\n",
+        },
+    ];
+    for (const { register, prose } of cases) {
+        const tongue = `---\ntype: skill\nsubType: language\nshortcode: one\ndata:\n  register:\n    - {name: ${register}, tongue: one}\n---\n`;
+        const note = `---\ntype: doc\nshortcode: prose\n---\n${prose}`;
+        const report = pairs.pairInventory(
+            [
+                { file: "tongue.md", text: tongue },
+                { file: "prose.md", text: note },
+            ],
+            { languages: { one: { note: "skill-one" } } },
+        );
+        const hits = report.findings.filter((h) => h.file === "prose.md");
+        assert.equal(hits.length, 1, register);
+        assert.equal(note.slice(hits[0].start, hits[0].end), "ay");
+
+        const root = fs.mkdtempSync(path.join(os.tmpdir(), "vowel-pairs-wrap-"));
+        try {
+            const content = path.join(root, "assets/content");
+            fs.mkdirSync(content, { recursive: true });
+            fs.writeFileSync(
+                path.join(content, "guide.md"),
+                fs.readFileSync(notePath("doc-prnncthlrn"), "utf8"),
+            );
+            fs.writeFileSync(path.join(content, "tongue.md"), tongue);
+            fs.writeFileSync(path.join(content, "prose.md"), note);
+            fs.writeFileSync(
+                path.join(root, "package-build.config.yaml"),
+                "contentPackage: thalorna\nlanguages: {one: {note: skill-one}}\n",
+            );
+            forgetNoteIndex(root);
+            assert.equal(pairs.main([], { out: () => {}, err: () => {} }, root), 1, register);
+        } finally {
+            forgetNoteIndex(root);
+            fs.rmSync(root, { recursive: true, force: true });
+        }
+    }
 });

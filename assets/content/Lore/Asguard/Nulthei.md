@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {demonym: null, lore: [], parents: [asguard], population: null, packFolder: settinglore}
 ---
 
-In the Asguardian tradition, Nulthei is the great island of [[place-asguard|Asguard]], lying off the other three regions and reached across water. The name is built as a place name is built, from the ground and nothing else: _nulth-_, the last hour of a watch, in the deep grade the north keeps for what is oldest and furthest down, and the generic _-ey_, an island. What the word says is what the island does.
+In the Asguardian tradition, Nulthei is the great island of [[place-asguard|Asguard]], lying off the other three regions and reached across water. The name is built as a place name is built, from the ground and nothing else: _nulth-_, the last hour of a watch, in the deep grade the north keeps for what is oldest and furthest down, and the generic _-ei_, an island. What the word says is what the island does.
 
 [[lore-nahilddty|Nahild]] holds it, and the dead who come here are the ones the halls did not take: the oath-breaker, the man who turned from a duty he had accepted, the niding put outside the law, and the great mass of the ordinary dead who simply sickened and went without ever being called on for anything. There is no judgment and no sentence pronounced. A man walks up the shore and is not stopped.
 

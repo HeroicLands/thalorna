@@ -93,7 +93,7 @@ Pick the entry that suits the hero. Each leads to Threnhallow on a rising tide.
 
 - **The thief.** The commission of sewers' endowment chest sits on the mound, unclaimed, and a [[place-greywater|Greiwater]] lawyer wants the rolls inside it for a lawsuit. He says nothing of the silver vessels the house held, which the thief has heard about elsewhere.
 - **The mercenary or common soldier.** A Levels family hires an escort to bring home a jeweled reliquary of the healers of the [[affiliation-lusinia|Faith of Lusinia]] that it left in the house's keeping. The pilot they hire insists on going out by day and coming back before the turn, and the tide turns early.
-- **The leader.** The pilot [[being-aldgarwraymon|Aldgar Wraimon]]'s son rowed two travelers out to the mound and did not come back. Aldgar heard the bell. He asks the leader to come with him, and he is the one at the oars in the opening.
+- **The leader.** The pilot [[being-aldgarwraymon|Aldgar Wreimon]]'s son rowed two travelers out to the mound and did not come back. Aldgar heard the bell. He asks the leader to come with him, and he is the one at the oars in the opening.
 - **The lone wanderer.** The wanderer is crossing the Levels on the causeway at low water, misjudges the tide, and reaches the mound with the water at the wanderer's knees. The pilot in the opening is a fowler who sees the wanderer and rows over, against his own judgment.
 
 ## The Opening {#opening}
@@ -107,7 +107,7 @@ Read or paraphrase:
 
 ## Cast and Stakes
 
-[[being-aldgarwraymon|Aldgar Wraimon]] pilots the approach; [[being-mildithbarnley|Mildith Barnli]] holds the true rite; [[being-godrikstonibi|Godrik Stonibi]] is the newly drowned traveler; [[being-keeperleofwald|Keeper Leofwald]] commands the house. His actor refers to [[being-tereb|Tereb]], and the drowned congregation uses [[being-damut|Damut]]. The faith, the commission and the families all have claims upon the chest and the gates. Keep the commission’s members incidental; its decision is whether to fund living labor.
+[[being-aldgarwraymon|Aldgar Wreimon]] pilots the approach; [[being-mildithbarnley|Mildith Barnli]] holds the true rite; [[being-godrikstonibi|Godrik Stonibi]] is the newly drowned traveler; [[being-keeperleofwald|Keeper Leofwald]] commands the house. His actor refers to [[being-tereb|Tereb]], and the drowned congregation uses [[being-damut|Damut]]. The faith, the commission and the families all have claims upon the chest and the gates. Keep the commission’s members incidental; its decision is whether to fund living labor.
 
 ## Scenes {#scenes}
 
@@ -119,7 +119,7 @@ Read or paraphrase:
 
 **Situation.** As the party climbs out, the painter, the boat's mooring line, goes taut and pulls, hard, toward deep water. If nobody holds it, the boat goes out into the channel and does not come back. Through the gap between the west doors the party sees that they are barred on the inside with pews stacked to the lintel. Somebody inside was keeping something out. A side door into the cloister stands open. Inside, on the dry flagstones of the cloister walk, a line of wet bare footprints leads away from the barred doors and stops at an iron drain-grate in the floor. An overturned lantern lies beside the grate, its glass cracked. The wick is still warm.
 
-**NPCs and threats.** Aldgar Wraimon, or whichever pilot or fowler brought the party, is tight-lipped and wants to leave at once; with the boat gone he cannot. He knows the house's story as the Levels tell it and believes every word. Whatever pulled the painter is not seen. A hand on the line feels it pull in slow, patient tugs.
+**NPCs and threats.** Aldgar Wreimon, or whichever pilot or fowler brought the party, is tight-lipped and wants to leave at once; with the boat gone he cannot. He knows the house's story as the Levels tell it and believes every word. Whatever pulled the painter is not seen. A hand on the line feels it pull in slow, patient tugs.
 
 > [!TIP]
 > Give Aldgar his grumble while he looks back at the lamp on the grazing, the way a man says what he says every market-day: the lower grazing has been dry since the house went quiet, and the commission takes the credit for it. Say it once and move on. It returns at the turn of the tide with its second meaning.

@@ -1,9 +1,9 @@
 ---
 shortcode: edrthgrylng
-name: {full: Edrith Grailing}
+name: {full: Edrith Greiling}
 type: being
 subType: npc
-description: "Edrith Grailing works leather in Ravenmoor, making close-fitted garments, belt pouches and straps with a curling leaf pattern along the edge."
+description: "Edrith Greiling works leather in Ravenmoor, making close-fitted garments, belt pouches and straps with a curling leaf pattern along the edge."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Edrith Grailing is a 23-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
+Edrith Greiling is a 23-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
 **Age 23. Hideworker.**
 
-Edrith Grailing works leather in [[place-ravenmoor|Ravenmoor]], making close-fitted garments, belt pouches and straps with a curling leaf pattern along the edge. She buys hides already cured when she can and shares the heavy lifting with neighboring workers. Her customers recognize a piece by its stitching before they look for her mark.
+Edrith Greiling works leather in [[place-ravenmoor|Ravenmoor]], making close-fitted garments, belt pouches and straps with a curling leaf pattern along the edge. She buys hides already cured when she can and shares the heavy lifting with neighboring workers. Her customers recognize a piece by its stitching before they look for her mark.
 
 The demand for equipment for the [[affiliation-justbladeordr|Order of the Just Blade]] draws leather away from ordinary buyers. Edrith has orders for harness repairs as well as clothing, and a small purse for materials. She insists on seeing the hide before agreeing a price; an impressive order is useless without sound leather to fill it.
 

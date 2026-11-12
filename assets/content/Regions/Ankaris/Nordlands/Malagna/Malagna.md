@@ -40,7 +40,7 @@ The kingdom is known for its shipbuilding. Malagnan longships are considered the
 [[place-hvalgvik|Hvalgvík]] (200)
 : a bay that gives shelter in any wind.
 
-[[place-glarvey|Glarvey]]
+[[place-glarvey|Glarvei]]
 : an island holding under a hersvald.
 
 [[place-dvilgborg|Dvilgborg]]

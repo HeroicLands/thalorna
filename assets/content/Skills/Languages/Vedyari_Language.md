@@ -4024,7 +4024,7 @@ data:
     - form: nayu
       class: v
       field: Doing, going and being
-      gloss: to lead; an ordinary spoken action word related to the bound citation nay-
+      gloss: to lead; an ordinary spoken action word related to the bound citation nai-
       concept: lead
       source: {kind: coined}
     - form: bhornu

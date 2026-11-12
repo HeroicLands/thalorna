@@ -89,7 +89,7 @@ He is old and tired, and he does not have long left to keep the confessions hims
 :::secret {title="The confessor's purpose"}
 Zenothen does not hear Azato's monthly talks for Azato's soul. He hears them because he believes Azato's detachment, left alone, would slip into something worse, and he means to stand in its way while he can. Azato understands this and comes anyway.
 
-Zenothen knows more of Azato's mind than anyone in Tirellan. What Azato has told him, he keeps under the seal of the confession. He has not been told of the name Kuthstan Crey.
+Zenothen knows more of Azato's mind than anyone in Tirellan. What Azato has told him, he keeps under the seal of the confession. He has not been told of the name Kuthstan Crei.
 
 **Hook: the young priest.** If the successor takes the confessions, Azato faces the kind of human connection he has spent his life avoiding, and Zenothen is not sure whether that will steady him or break the balance he has kept.
 :::

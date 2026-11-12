@@ -19,9 +19,9 @@
  *    a phrase entry may carry. `;` and `:` are not standard and stay findings. The catch is the
  *    guide's `catch` letter. Case is ignored. Words
  *    are read left to right, longest declared group first, so a `c` outside
- *    `ch` is undeclared. A vowel pair ending in `y` (`ay`, `ey`, `iy`, `oy`,
- *    `uy`) is not taken before a vowel, or after a grave vowel: there the `y`
- *    stands alone.
+ *    `ch` is undeclared. A vowel pair ending in `y` that the guide declares is
+ *    not taken before a vowel, or after a grave vowel: there the `y` stands
+ *    alone. A closing `ay`, `ey` or `oy` is no pair; the vowel pairs `ai`, `ei` and `oi` spell those sounds.
  * 2. A marked letter is on its mark's `letters` list, and a mark whose limit is
  *    `one` stands at most once in a word.
  * 3. A tone mark stands only on the first letter of a held vowel, at most once

@@ -68,7 +68,7 @@ He is old and failing, and the man who follows him as theronos is the First Sena
 
 ### Companions
 
-The clerks of the roll, and [[being-osrithgrydn|Osrith Graiden]], the Clerk of the Senate, who copies his rolls into the Senate's record.
+The clerks of the roll, and [[being-osrithgrydn|Osrith Greiden]], the Clerk of the Senate, who copies his rolls into the Senate's record.
 
 ### Patrons
 

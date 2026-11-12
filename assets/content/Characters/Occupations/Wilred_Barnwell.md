@@ -1,6 +1,6 @@
 ---
 shortcode: alfrdbrnwl
-name: {full: Wilred Barnwell, aelw: [Thalos Graimoor]}
+name: {full: Wilred Barnwell, aelw: [Thalos Greimoor]}
 type: being
 subType: npc
 description: "Wilred Barnwell compounds remedies and reads difficult texts for the households of Kingshollow."

@@ -24,7 +24,7 @@ The sky is a country with towns in it, above the one the people live in, and its
 
 **The Moon** (_ayul_) is the Sun's sister and the sky's counter. She keeps the tally of every month in her waxing and waning, and on her own nights she watches the women of the towns, who keep the household counts as she keeps the sky's.
 
-**The Morning Star** (_sitiq tahay_) is the people's friend in the sky, a gambler and a joker who rises before the Sun and is still in the sky when the Sun arrives. At the end of every year he plays the Sun for the coming year's lives.
+**The Morning Star** (_sitiq tahai_) is the people's friend in the sky, a gambler and a joker who rises before the Sun and is still in the sky when the Sun arrives. At the end of every year he plays the Sun for the coming year's lives.
 
 **The fallen stars** are the beads. In the oldest songs the sky once held more stars than it does now, and the stars that fell into the western sea became the olive snails whose shells the islanders drill. A strand of beads is a little of the sky's own wealth, and counting it is a small copy of the work the priests do.
 

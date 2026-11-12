@@ -9,6 +9,7 @@ import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics"
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
 import { openNotesDatabase } from "@heroiclands/package-build/engine/sql-tables";
 import { pieceGlosses } from "@heroiclands/package-build/engine/word-rows";
+import { withGuidePairSpellings } from "./guide-pair-preservation.mjs";
 import { notePath } from "./note-index.mjs";
 
 // The source before #784 supplies the names, collisions and references. Keep
@@ -83,7 +84,11 @@ for (const address of ["skill-sowideslng", "skill-tellumilng"]) {
         ],
         { encoding: "utf8" },
     ).trim();
-    const before = read(execFileSync("git", ["show", source], { encoding: "utf8" }));
+    const original = read(execFileSync("git", ["show", source], { encoding: "utf8" }));
+    const before = {
+        ...original,
+        fm: withGuidePairSpellings({ file, fm: original.fm, raw: "" }).fm,
+    };
     const after = read(fs.readFileSync(file, "utf8"));
     const oldData = before.fm.data;
     const data = after.fm.data;

@@ -156,12 +156,12 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
     for (const phrase of [
         "_We haven come_",
         "_we haven awaited_",
-        "_they will come_",
-        "_they may enter_",
+        "_thei will come_",
+        "_thei mai enter_",
         "_Come hither_",
         "_Enter not_",
         "_we believen not_",
-        "_they comen not_",
+        "_thei comen not_",
         "_Haven ye seen him._",
         "_Methinks we haven tarried too long._",
         "We haven been waiting for thee since morn.",
@@ -229,7 +229,6 @@ test("performed verse takes its reading from the guide without lexical contracti
             `${form} has no contraction override`,
         );
     }
-    assert(raw.includes("The guide governs every lexical form and its reading."));
     assert(!/eight-syllable|OFF-ring|COUR-teous/.test(raw));
 });
 

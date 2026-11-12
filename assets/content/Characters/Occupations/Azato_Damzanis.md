@@ -409,7 +409,7 @@ Azato Damzanis is the alchemist of the [[affiliation-ordoarcanis|Thordimalon]] a
 
 His reputation rests on mineral transmutation that borders on the uncanny, and on a knowledge of herbs and of embalming that points to the question he cares about most: how living substance becomes inert matter, and whether it can be held at the boundary. He works in a laboratory on a rented estate outside the city. His talk is eloquent and commanding, and those who know him well understand it as performance: he feels almost nothing for other people.
 
-For work that skirts what [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) would sanction, he keeps a second name, Kuthstan Crey. Under it he buys and sells through contacts who have never heard of Azato Damzanis.
+For work that skirts what [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) would sanction, he keeps a second name, Kuthstan Crei. Under it he buys and sells through contacts who have never heard of Azato Damzanis.
 
 ## Background
 
@@ -450,7 +450,7 @@ He has no friends, his apprentices resent his exacting coldness, and his name is
 
 - [[being-zenothenguri|Zenothen Gurimandis]]: A _dasken_ (ordained teacher) of [[affiliation-marendas|Marendas]] at the [Temple of Wisdom]{.name data-type="place/structure"} on the forum, whom he meets monthly and speaks to with something like candor.
 - **One of the three _kurthoi_ of Tirellan's council**, who has funded his mineral research for twelve years in return for first access to any compound of use in war or manufacture.
-- **A merchant's widow of the coast trade**, who has bought and authenticated rare mineral specimens for him for five years and knows him only as Kuthstan Crey.
+- **A merchant's widow of the coast trade**, who has bought and authenticated rare mineral specimens for him for five years and knows him only as Kuthstan Crei.
 
 ### Affiliations
 
@@ -467,5 +467,5 @@ He has no friends, his apprentices resent his exacting coldness, and his name is
 4. **The examination.** An apprentice of Azato's comes before Tholmarar Orthemandis's examination board and is failed on a point of mineral theory that is Azato's, not his. Azato hires a party to learn what else the board asked the boy about his master's work.
 
 :::secret {title="The two names"}
-Neither Ronethos nor Tholmarar knows the name Kuthstan Crey, and Zenothen has not been told it. The day Ronethos hears it in a hearing and puts it beside Azato's, his file has a suspect, and a _holsekeros_ (senior inquirer) may open the dormant file on Hiltheris's death beside it, since Azato's name is already in that file. Tholmarar has found the gaps in Azato's laboratory book where the unsanctioned work goes, though not the work itself. Only Azato knows what the shared project with Hiltheris was, and why it ended.
+Neither Ronethos nor Tholmarar knows the name Kuthstan Crei, and Zenothen has not been told it. The day Ronethos hears it in a hearing and puts it beside Azato's, his file has a suspect, and a _holsekeros_ (senior inquirer) may open the dormant file on Hiltheris's death beside it, since Azato's name is already in that file. Tholmarar has found the gaps in Azato's laboratory book where the unsanctioned work goes, though not the work itself. Only Azato knows what the shared project with Hiltheris was, and why it ended.
 :::

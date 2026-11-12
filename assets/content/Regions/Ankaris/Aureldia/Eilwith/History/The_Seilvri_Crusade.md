@@ -85,7 +85,7 @@ The war has two names in Dúnavarre, and the same people use both.
 
 The Order is the realm's pride. Its knights keep the roads, sit as judges beside the priests of Árdavon, defend the weak by oath and are held to it, and it is the chivalry the island's other courts measure their own against. Its knights call the war the crusade. Its chaplain, [[being-edrintalvvl|Edrin Talvavel]], preaches it at every Sanctification of Swords as the light of Árdavon carried to a people outside every oath and law, and the knights who ride west each summer believe it.
 
-The Seilvri call it the Hunting. In Wraimouth, on the western estates and among the forest-edge tenants who trade with the Seilvri and are hanged for it, many who honor the Order call the war in the west a murder. The Order hears them, and does not answer.
+The Seilvri call it the Hunting. In Wreimouth, on the western estates and among the forest-edge tenants who trade with the Seilvri and are hanged for it, many who honor the Order call the war in the west a murder. The Order hears them, and does not answer.
 
 ## What the Knights Heard
 

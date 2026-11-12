@@ -41,22 +41,28 @@ function household(name, parts) {
     return suffix[0].toUpperCase() + suffix.slice(1);
 }
 
-test("Kalihari's illustrative household table follows the guide and consonant-onset cut", () => {
-    const section = kalihari.split("### Household Names\n")[1].split("\n### ")[0],
-        rows = [...section.matchAll(/^\|\s*([^|]+?)\s*\|\s*(\w+)\s*\|\s*([a-z-]+)\s*\|$/gmu)];
-    assert(rows.length > 0, "household teaching has actual name examples");
-    const derived = new Map(names.map((name) => [name, syllables(name)]));
-    for (const [, label, name, counted] of rows) {
-        assert(derived.has(name), `${name}: example is an actual given name`);
-        const parts = derived.get(name),
+test("Kalihari's declared given names have household names by the guide and consonant-onset cut", () => {
+    assert(names.length > 0, "the language declares given names");
+    let cut = 0;
+    for (const name of names) {
+        const parts = syllables(name),
             short = household(name, parts);
-        assert.equal(counted, parts.map(({ text }) => text).join("-"), name);
-        assert.equal(label.replaceAll("`", ""), short ?? "—", name);
+        assert.equal(parts.map(({ text }) => text).join(""), name.toLowerCase(), name);
+        if (parts.length < 4) {
+            assert.equal(short, null, `${name}: fewer than four syllables has no household name`);
+            continue;
+        }
+        if (short === null) continue;
+        cut++;
+        assert(name.toLowerCase().endsWith(short.toLowerCase()), name);
+        assert(!vowel.test(short.toLowerCase()), `${name}: a household name opens on a consonant`);
+        assert(short.length < name.length, `${name}: a household name is shorter than the name`);
     }
+    assert(cut > 0, "some declared given name has a household name");
     // Keep the consecutive-vowel exception visible, not only ordinary cuts.
-    assert(rows.some(([, , name]) => name === "Thaeori"));
-    assert.match(section, /nearest syllable that opens on a consonant/u);
-    assert.match(section, /no separate household name/u);
+    assert(names.includes("Thaeori"));
+    assert.equal(household("Thaeori", syllables("Thaeori")), null);
+    assert.equal(household("Oruanei", syllables("Oruanei")), "Ruanei");
 });
 
 test("Senali's declared diphthongs and harmony groups stay inside the guide", () => {

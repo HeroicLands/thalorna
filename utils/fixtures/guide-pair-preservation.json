@@ -28,7 +28,11 @@
         "skill-nyalbnlng": {
             "values": [
                 ["lushey- > lusheya", "lushei- > lusheya"],
-                ["lushey-", "lushei-"]
+                ["lushey-", "lushei-"],
+                [
+                    "rain; water falling from clouds, an independently cited ordinary noun related to the old bound name stem lushey-",
+                    "rain; water falling from clouds, an independently cited ordinary noun related to the old bound name stem lushei-"
+                ]
             ],
             "lines": []
         },
@@ -61,12 +65,37 @@
                 ["Nimeshay", "Nimeshai"],
                 ["Hemvanay", "Hemvanai"],
                 ["Nartemay", "Nartemai"],
-                ["Kayvonad Zarid", "Kaivonad Zarid"]
+                ["Kayvonad Zarid", "Kaivonad Zarid"],
+                ["Nimeshay of Ashkarad", "Nimeshai of Ashkarad"],
+                ["Gureshay of Zargandur", "Gureshai of Zargandur"],
+                ["Hemvanay of Mernagord", "Hemvanai of Mernagord"],
+                ["Nartemay of Ushtra-ber", "Nartemai of Ushtra-ber"],
+                ["Priest Kenbeshay", "Priest Kenbeshai"],
+                ["Pedunay Bulamun", "Pedunai Bulamun"],
+                ["Captain Kireshay", "Captain Kireshai"],
+                ["Saint Vurinay the Ascendant", "Saint Vurinai the Ascendant"],
+                ["Saint Vurinay", "Saint Vurinai"],
+                ["Revunay Kishneshun", "Revunai Kishneshun"],
+                ["Duke Revunay", "Duke Revunai"],
+                ["a man's name: return; Berniray's son", "a man's name: return; Bernirai's son"],
+                ["a woman's name: star; Berniray's wife", "a woman's name: star; Bernirai's wife"]
             ],
             "lines": [
                 [
                     "| Vurinay     | _vurin_ + _-ay_             | a man's name: holy             |",
-                    "| Vurinai     | _vurin_ + _-ay_             | a man's name: holy             |"
+                    "| Vurinai     | _vurin_ + _-ai_             | a man's name: holy             |"
+                ],
+                [
+                    "**The vowels.** _e_, _u_ and _a_ lead, with _i_. Final _-ay_ is common.",
+                    "**The vowels.** _e_, _u_ and _a_ lead, with _i_. Final _-ai_ is common."
+                ],
+                [
+                    "**Endings.** Tellumi words end in _-ay_, _-esh_, _-un_, _-em_ or _-hur_. Names end in _-a_ or _-ah_.",
+                    "**Endings.** Tellumi words end in _-ai_, _-esh_, _-un_, _-em_ or _-hur_. Names end in _-a_ or _-ah_."
+                ],
+                [
+                    "**Places** take _-ash_ for a city or town and _-el_ for a land, after one or two stems that say what the place has: its water, its height, its tower. **Houses** take _-un_ after the stem of a founder's name or the house's emblem. **Given names** take _-ay_ for a man and _-a_ for a woman, after one stem; a second stem in front of it is a mark of an old house.",
+                    "**Places** take _-ash_ for a city or town and _-el_ for a land, after one or two stems that say what the place has: its water, its height, its tower. **Houses** take _-un_ after the stem of a founder's name or the house's emblem. **Given names** take _-ai_ for a man and _-a_ for a woman, after one stem; a second stem in front of it is a mark of an old house."
                 ]
             ]
         },
@@ -100,6 +129,19 @@
                 ["khobaghoy", "khobaghoi"]
             ],
             "lines": []
+        },
+        "skill-khelathlng": {
+            "values": [],
+            "lines": [
+                [
+                    "| _Gar-_    | a house: a family, a lineage, an office | _Gar-Sa'Akutu_, _Gar-Meglay_    |",
+                    "| _Gar-_    | a house: a family, a lineage, an office | _Gar-Sa'Akutu_, _Gar-Meglai_    |"
+                ],
+                [
+                    "family; _Gar-Meglay_ is the frontier command; _Gar-Gezanu_ is the service that",
+                    "family; _Gar-Meglai_ is the frontier command; _Gar-Gezanu_ is the service that"
+                ]
+            ]
         }
     }
 }

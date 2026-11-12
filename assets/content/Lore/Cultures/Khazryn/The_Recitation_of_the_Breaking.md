@@ -83,16 +83,16 @@ of what the belt had in the way of horse, and it was the strongest, and it went,
 and it was killed to the last rider, and the princes with it, and the day was spent/
 by noon, and the city fell by noon, and that is the whole of the battle./
 We do not sing the battle. We name the riders. They are on the tablet. Settle./
-Kireshay, who held the left of the line, and did not give the ground./
-Budishay, who carried the house's banner, and did not drop it; the staff was found/
+Kireshai, who held the left of the line, and did not give the ground./
+Budishai, who carried the house's banner, and did not drop it; the staff was found/
 standing in the trench with the cloth rotted off it, and he beneath./
-Pedunay, the drill-master, who taught the house its strokes, and died with his teeth/
+Pedunai, the drill-master, who taught the house its strokes, and died with his teeth/
 set, the tablet says, which is the only word it gives on how any of them died./
-Garvanay, who bred the gray mares the [Zhoqarod]{.name data-type="affiliation/polity"} ride today, and rode one./
-Perimay, who kept the gate-fires, and was the youngest, and was somebody's son./
-Hageshay, who held the right, and was found with the princes, and had held./
-Lirunay, who was a freed man of the house, and need not have ridden, and was felled/
-beside Hageshay, and the tablet says of him only: he was free, and he went./
+Garvanai, who bred the gray mares the [Zhoqarod]{.name data-type="affiliation/polity"} ride today, and rode one./
+Perimai, who kept the gate-fires, and was the youngest, and was somebody's son./
+Hageshai, who held the right, and was found with the princes, and had held./
+Lirunai, who was a freed man of the house, and need not have ridden, and was felled/
+beside Hageshai, and the tablet says of him only: he was free, and he went./
 And the princes, whose names the tablet holds and this recitation does not. They are lent/
 to the tablet until a Delkoshekh stands on the north grass and reads them where they lie./
 That is the second year. It is not finished. The house stands for it. Eyes dry.

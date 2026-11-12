@@ -24,7 +24,7 @@ The town sits at the head of a narrow bay, walled on the landward side, with a s
 
 ## What the Town Lives By {#what-the-town-lives-by}
 
-Veldareth lives by hosting. Its inns lodge envoys, its notaries draw up the agreements its guests sign, and its market sells to both realms without the tolls either would charge. Coasters work its quay between Ondareth's ports and [[place-wraymouth|Wraimouth]]. The chapterhouse teaches the children of both realms' gentry, and its students fill a quarter of the town in term.
+Veldareth lives by hosting. Its inns lodge envoys, its notaries draw up the agreements its guests sign, and its market sells to both realms without the tolls either would charge. Coasters work its quay between Ondareth's ports and [[place-wraymouth|Wreimouth]]. The chapterhouse teaches the children of both realms' gentry, and its students fill a quarter of the town in term.
 
 ## Who Rules and Keeps Order {#who-rules}
 

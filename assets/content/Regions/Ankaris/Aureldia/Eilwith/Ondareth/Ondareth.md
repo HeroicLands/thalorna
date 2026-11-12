@@ -51,7 +51,7 @@ The republic holds the whole land directly, and no lord stands between its farms
 
 The coast road runs the length of the shore from Kaermouth through Thornbury to the south coast, where it meets the road west from [[place-dunavarre|Dúnavarre]] at Veldareth. Short roads climb from each river mouth to the upland, and the busiest of them goes up from Thornbury across the republic to Stonyford and on along a stretch of the old Crown Road toward the lake.
 
-The coast lives by carrying. Ondarethan coasters work the island's shores from the Nordfells to Wraimouth, and the larger hulls cross to the mainland by way of Ravenmoor. Fish, hides, highland horses and wool go out; iron, wine, cloth and coin come in. A few merchant houses hold old terms with Peshtar clans and trade salt and metal for cattle at the forest edge.
+The coast lives by carrying. Ondarethan coasters work the island's shores from the Nordfells to Wreimouth, and the larger hulls cross to the mainland by way of Ravenmoor. Fish, hides, highland horses and wool go out; iron, wine, cloth and coin come in. A few merchant houses hold old terms with Peshtar clans and trade salt and metal for cattle at the forest edge.
 
 ## Dangers {#dangers}
 

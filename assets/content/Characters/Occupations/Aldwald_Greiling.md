@@ -1,9 +1,9 @@
 ---
 shortcode: aldwngrylng
-name: {full: Aldwald Grailing}
+name: {full: Aldwald Greiling}
 type: being
 subType: npc
-description: "Aldwald Grailing begs beside the inspection quay at Ravenmoor."
+description: "Aldwald Greiling begs beside the inspection quay at Ravenmoor."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Aldwald Grailing is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
+Aldwald Greiling is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
 
 # Dossier {#dossier}
 
 **Age 47. Beggar.**
 
-Aldwald Grailing begs beside the inspection quay at [[place-ravenmoor|Ravenmoor]]. He offers to carry a bundle or sweep a landing before he asks for bread. His hands know farm work, and he measures a sack by its weight against his hip. Shipmasters waiting through the compulsory call sometimes pay him to mind their shoreward goods.
+Aldwald Greiling begs beside the inspection quay at [[place-ravenmoor|Ravenmoor]]. He offers to carry a bundle or sweep a landing before he asks for bread. His hands know farm work, and he measures a sack by its weight against his hip. Shipmasters waiting through the compulsory call sometimes pay him to mind their shoreward goods.
 
 The talk of a final campaign against the [[affiliation-saelvri|Seilvri]] brings buyers of provisions to the quay. Aldwald wants a place among the paid hands, with meals and a wage stated plainly. He refuses recruitment money that nobody can explain without lowering a voice.
 

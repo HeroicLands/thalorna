@@ -1,0 +1,25 @@
+{
+    "held": [
+        {
+            "form": "grey",
+            "why": "an English word and surname, spelled as English"
+        },
+        {
+            "form": "abbey",
+            "why": "an English word, spelled as English"
+        },
+        {
+            "form": "eyrie",
+            "why": "an English word, spelled as English"
+        },
+        {
+            "form": "greytusk",
+            "why": "an English-derived name, spelled as English"
+        },
+        {
+            "form": "nay",
+            "why": "an English word in verse, spelled as English",
+            "scope": "en"
+        }
+    ]
+}

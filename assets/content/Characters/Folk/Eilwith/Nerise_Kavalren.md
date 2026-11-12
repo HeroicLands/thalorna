@@ -86,5 +86,5 @@ None yet.
 
 ## Plot Hooks
 
-1. **A refused place.** A family in Wraimouth has refused Nerise's offer for its daughter, and she wants someone to persuade them before the Sekeros hears of it.
+1. **A refused place.** A family in Wreimouth has refused Nerise's offer for its daughter, and she wants someone to persuade them before the Sekeros hears of it.
 2. **A Seilvri child.** The master at Veldareth has written that a child at the forest edge shows the talent, and that the child is Seilvri.

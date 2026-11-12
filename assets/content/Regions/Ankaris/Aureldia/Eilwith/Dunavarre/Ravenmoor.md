@@ -18,7 +18,7 @@ Ravenmoor stands on [[place-eilwith|Eilwìth]]'s south-eastern coast where the o
 off into a deep sheltered anchorage. Thirty-five hundred people, the seat of the
 [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the seat of the [[affiliation-dunavarsynod|Synod]].
 
-It is not the kingdom's busiest harbor—[[place-wraymouth|Wraimouth]] handles far more tonnage—but
+It is not the kingdom's busiest harbor—[[place-wraymouth|Wreimouth]] handles far more tonnage—but
 it is the one every ship must enter. In the hall of the Synod the last king's chair stands at the head of the room, kept and never filled ([[lore-dunavarresynod|the Mages Take Dúnavarre]]).
 
 ## Politics {#present}
@@ -115,4 +115,4 @@ Ravenmoor was the seat of the kings of Dúnavarre, and their mage advisors kept 
 
 ## See Also
 
-- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-wraymouth|Wraimouth]] · [[place-eilwith|Eilwìth]]
+- [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-wraymouth|Wreimouth]] · [[place-eilwith|Eilwìth]]

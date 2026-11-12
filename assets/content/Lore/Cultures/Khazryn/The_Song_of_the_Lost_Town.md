@@ -43,17 +43,17 @@ and where the clay is broken, I will tell you so, and say.
 This is the prince. His name was Gold. His father's name was [Law]{.name data-type="being/npc" lang=en},/
 and when his father died the town had never seen a flaw/
 in the count of what it owed and what was owed it in return./
-Sunhemay loved the second half. He let the first half burn./
+Sunhemai loved the second half. He let the first half burn./
 He kept the tablets of his debts in a room without a door/
 and read them in the evening as a priest would read the law,/
 and what the town could not pay, he took in land, in wells, in sons,/
 and pressed a fresh tablet for each, and kept the press, and the sums./
 A fair prince counts the water. A bad prince counts the gold./
-The clay says this of Sunhemay, and the clay is very old.
+The clay says this of Sunhemai, and the clay is very old.
 
 ._Here. The man in brown. The one with the spear across his knee._
 
-This is the champion of the house. Berniray, whose name is Oath./
+This is the champion of the house. Bernirai, whose name is Oath./
 He swore it to the father, and the son inherited both,/
 the champion and the swearing, and the words of it were these:/
 _I am the gate of the house of the rim. I stand when the water flees./
@@ -71,12 +71,12 @@ the names, the water-hours, the debts, the children born each spring,/
 the tablets in their palm-fiber on the shelf beside the door,/
 baked hard against the day that comes to every house, and more./
 And this one, at her skirt, with the wooden sword, is their son./
-They named him Return. Revunay. I will tell you why that was done./
+They named him Return. Revunai. I will tell you why that was done./
 For the prince sent the champion away in the first year of his reign,/
 to the salt and [[place-wstrndscnt|the Descent]], to make his debts in silver plain,/
 to stand at the caravans' heads with the prince's seal in his hand/
 and bring the silver home. Seven years. That was the prince's command./
-Berniray went down to Minesha with the child not yet born/
+Bernirai went down to Minesha with the child not yet born/
 and said, _I keep the oath. I go. I come back. Do not mourn._/
 And she said, _Then the child's name is your coming back, and no other,/
 so that every time I call him in I call you home, his mother._/
@@ -102,10 +102,10 @@ We give it to the thief. We give it to the enemy at night./
 We gave it to the [[affiliation-tribestrzd|Atarzád]], and we have not taken it back./
 That is a different song. The clay of that one is black.
 
-._So. The gate. Revunay held the gate that noon. He was the watch._
+._So. The gate. Revunai held the gate that noon. He was the watch._
 
 He sent to the prince, as the custom was, for a stranger in the drought,/
-and Sunhemay came down himself to see what the noise was about,/
+and Sunhemai came down himself to see what the noise was about,/
 and looked at the woman at his gate, the dust on her, and the skin,/
 and the nine thin channels at his back, and said, _We let no one in./
 The water is counted. The year is dry. The town is owed its own./
@@ -113,7 +113,7 @@ Go north. There are wells in the north._ And she said, _I came from the stone,/
 and there is nothing in the north but what you are about to lose./
 Prince of the rim, I am asking. It is yours to refuse./
 I ask it once._ And he said, _Refused._ And she turned, and she went,/
-and the clay says that Revunay watched her go, and did not know what it meant,/
+and the clay says that Revunai watched her go, and did not know what it meant,/
 and gave her his own skin over the wall, half full, which the prince did not see,/
 and that is on his tablet to this day, and it was true of me/
 if I had been that boy, and it was not enough, and it is sung./
@@ -123,14 +123,14 @@ She drank the half skin on the road. She did not look back. The gardens paled.
 
 ._This bird. Here. Wide wings. The road-vulture. Watch it._
 
-Berniray was on the road by the Descent with the silver and the seal,/
+Bernirai was on the road by the Descent with the silver and the seal,/
 seven years done, his beard gone gray, the camels sore in the heel,/
 three days from the rim, when a budaq came over the string and hung/
 and settled on the strongest beast, the lead camel, the young/
 one, the one that had never faltered, and sat on its neck, and stared/
 north, toward the rim, and would not be driven, and the drivers were scared,/
 for the bird sits on the beast that dies, and this beast was not ill./
-And Berniray read the bird the way you read a tablet. He was still/
+And Bernirai read the bird the way you read a tablet. He was still/
 a long moment. Then he said, _Leave the silver with the string./
 Three of you with me, on horses, now. The bird is not the thing./
 The bird is the reading of the thing._ And he rode. And this is the roll./
@@ -157,7 +157,7 @@ The water went where it was owed. That is the whole of what it is.
 
 ._A copper. I know. I know. It goes hard. Here is the night. The gate again._
 
-Berniray came to the gate at the dark of the moon with three men behind,/
+Bernirai came to the gate at the dark of the moon with three men behind,/
 the horses foundered, the dust in his mouth, and his eyes gone half blind/
 with the salt and the riding, and he struck the gate with the butt of the spear/
 and shouted the words of the house, and a voice said, _Who comes here?/
@@ -165,7 +165,7 @@ No one comes in at night in the dry year. That is the prince's word._/
 And he said, _I am the gate of the house. Open the gate._ And he heard/
 a boy's voice with a man's weight in it say, _The gate is mine tonight,/
 and the prince has given no word of a champion. Stand off till the light._/
-And Berniray said, _The town is dying. Open, in the name of the oath._/
+And Bernirai said, _The town is dying. Open, in the name of the oath._/
 And the voice said, _I keep an oath too. Stand off._ And so they stood, both,/
 one on each side of a cedar door, the oath on either hand,/
 and neither one would give, for neither one could understand/
@@ -190,7 +190,7 @@ he could have paid would have bought back the moment before he knelt/
 and turned the shield to the one star in the court, and read, and felt/
 with his thumb along the cut of the signs, the way we read in the dark,/
 the name his wife had pressed in the clay and the boy had cut on the bark/
-of the shield-rim at fifteen, as boys do. Revunay. Return./
+of the shield-rim at fifteen, as boys do. Revunai. Return./
 He read it twice. He read it the way you read a thing you learn/
 and cannot afterward not know. He said the name aloud./
 The clay says he said it once. The tellers say it loud./
@@ -222,7 +222,7 @@ at a funeral, and the Tellumi say it. We say: _as the keepers of the rim._
 
 ._Here. Last. The prince._
 
-And Sunhemay? Some tellers sing he came out with the rest, and lived,/
+And Sunhemai? Some tellers sing he came out with the rest, and lived,/
 a poor man in a conquered street, and Kethramír forgave,/
 or did not. Some sing he sat with the lamp till the oil was gone/
 and read what he was owed until the reading was all he had, and on/
@@ -235,7 +235,7 @@ That is what a prince looks like who counted the wrong thing. That is all.
 
 ._And now I roll the cloth. But the song has one more line, and it is this one._
 
-Berniray lived. He kept the oath. He served the house in Kethramír/
+Bernirai lived. He kept the oath. He served the house in Kethramír/
 and stood a gate for thirty years and never named the year/
 or the court or the boy, and when he died a Delkoshekh read his name/
 from the household clay that Minesha saved, and the lamps were lit, and the same/
@@ -579,7 +579,7 @@ danver tiver, merin. miver danver tiver.
 [[miscgear-revunayshld|The Shield of Revunai]]
 : the boy's shield, with the name on its rim
 
-[[miscgear-sunhemtab|The Last Tablet of Sunhemay]]
+[[miscgear-sunhemtab|The Last Tablet of Sunhemai]]
 : the prince's last line
 
 [[place-vahurdash|Vahurdash]]

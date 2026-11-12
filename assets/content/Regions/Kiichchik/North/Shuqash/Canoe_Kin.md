@@ -30,7 +30,7 @@ data:
         description: >-
           Has sewn one seam of two planks that held water overnight, paddled to Bead Island and back in his father's crew, and sworn on the Paddle of Shiyawkal to teach the art to no one outside the brotherhood.
       - level: 3
-        title: alkulay
+        title: alkulai
         description: >-
           A canoe master: owns a plank canoe, commands its crew of eight to twelve, and pays the brotherhood's store a share of every voyage.
       - level: 4
