@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
-**Pronunciation:** _AA-daa-na-SHRAY-nee_
+**Pronunciation:** _AA-daa-na-SHREH-nee_
 
 A surety-agent of **the Adanshreni** explains the arrangement to a caravan-master buying cover for the first time, and he starts with the charter and not with the theft. "You have read our charter. Everyone has; it is a public document, and it calls us a shrena of receivers, whose work is the recovery, appraisal and restoration of goods gone astray. That is not entirely a lie. Pay the standing fee and your cargo is under our guarantee, and if it goes astray we recover it or we pay."
 

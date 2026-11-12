@@ -9,7 +9,7 @@
 
 **Places**
 
-- The Bead Coast and the Oak Valleys have their own pages, with the towns of Kulaywil, Shuqwil, Hipal Halaq, Tulishwil and Tikoq Hipay.
+- The Bead Coast and the Oak Valleys have their own pages, with the towns of Kulaiwil, Shuqwil, Hipal Halaq, Tulishwil and Tikoq Hipai.
 
 **Languages and scripts**
 
