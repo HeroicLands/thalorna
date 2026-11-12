@@ -172,6 +172,8 @@ function spellingRows(tongue) {
     const acute = (v) => v.normalize("NFD").includes("\u0301");
     for (const [b1, v1s] of Object.entries(V))
         for (const [b2, v2s] of Object.entries(V)) {
+            // Only i and u take a closing y; a, e, ë and o do not.
+            if (b2 === "y" && !["i", "u", "y"].includes(b1)) continue;
             const long = b1 === b2 || (b1 === "e" && b2 === "ë");
             const joined = long || dip.has(b1 + b2);
             for (const x of v1s)

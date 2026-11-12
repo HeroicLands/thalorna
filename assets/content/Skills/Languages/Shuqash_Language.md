@@ -5907,6 +5907,50 @@ data:
     - {name: ayullesh, tongue: shuqash, built: [ayul, lesh]}
     - {name: kulainush, tongue: shuqash, built: [kulai, nush]}
     - {name: shiyawlesh, tongue: shuqash, built: [shiyaw, lesh]}
+  retired:
+    - {form: Hipay, instead: Hipai, why: closing y is not a spelling}
+    - {form: alkulay, instead: alkulai, why: closing y is not a spelling}
+    - {form: chinshay, instead: chinshai, why: closing y is not a spelling}
+    - {form: hakusay, instead: hakusai, why: closing y is not a spelling}
+    - {form: hipay, instead: hipai, why: closing y is not a spelling}
+    - {form: hostoy, instead: hostoi, why: closing y is not a spelling}
+    - {form: hukay, instead: hukai, why: closing y is not a spelling}
+    - {form: hulmay, instead: hulmai, why: closing y is not a spelling}
+    - {form: kawchay, instead: kawchai, why: closing y is not a spelling}
+    - {form: kiqoy, instead: kiqoi, why: closing y is not a spelling}
+    - {form: koy, instead: koi, why: closing y is not a spelling}
+    - {form: kulay, instead: kulai, why: closing y is not a spelling}
+    - {form: kupoy, instead: kupoi, why: closing y is not a spelling}
+    - {form: luqay, instead: luqai, why: closing y is not a spelling}
+    - {form: mahay, instead: mahai, why: closing y is not a spelling}
+    - {form: mahoy, instead: mahoi, why: closing y is not a spelling}
+    - {form: misoy, instead: misoi, why: closing y is not a spelling}
+    - {form: mulay, instead: mulai, why: closing y is not a spelling}
+    - {form: nupay, instead: nupai, why: closing y is not a spelling}
+    - {form: oshaslay, instead: oshaslai, why: closing y is not a spelling}
+    - {form: pochoy, instead: pochoi, why: closing y is not a spelling}
+    - {form: pupuyay, instead: pupuyai, why: closing y is not a spelling}
+    - {form: qay, instead: qai, why: closing y is not a spelling}
+    - {form: qosiway, instead: qosiwai, why: closing y is not a spelling}
+    - {form: qoy, instead: qoi, why: closing y is not a spelling}
+    - {form: qukchay, instead: qukchai, why: closing y is not a spelling}
+    - {form: sakiway, instead: sakiwai, why: closing y is not a spelling}
+    - {form: shachay, instead: shachai, why: closing y is not a spelling}
+    - {form: shukitay, instead: shukitai, why: closing y is not a spelling}
+    - {form: siqay, instead: siqai, why: closing y is not a spelling}
+    - {form: sukay, instead: sukai, why: closing y is not a spelling}
+    - {form: tachoy, instead: tachoi, why: closing y is not a spelling}
+    - {form: tahay, instead: tahai, why: closing y is not a spelling}
+    - {form: tipay, instead: tipai, why: closing y is not a spelling}
+    - {form: tomay, instead: tomai, why: closing y is not a spelling}
+    - {form: tsay, instead: tsai, why: closing y is not a spelling}
+    - {form: tumay, instead: tumai, why: closing y is not a spelling}
+    - {form: tusqoy, instead: tusqoi, why: closing y is not a spelling}
+    - {form: tuway, instead: tuwai, why: closing y is not a spelling}
+    - {form: umoy, instead: umoi, why: closing y is not a spelling}
+    - {form: wakoy, instead: wakoi, why: closing y is not a spelling}
+    - {form: wiqay, instead: wiqai, why: closing y is not a spelling}
+    - {form: yakanmay, instead: yakanmai, why: closing y is not a spelling}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -5916,8 +5960,7 @@ sohl:
     parentSkillCode: lang
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Shuqash}}
-
-# terran_analog: "The Chumashan languages, with Barbareño and Ventureño Chumash as the guide: their many closed syllables and consonant endings, their s and sh before another consonant inside a word, their reduplication, their verb-first sentences, their weighting toward words of one, two and three syllables, and their leading sounds k, sh, s, t, l, q, h, m, w, y and p. The glottal stop and the glottalized and aspirated consonants are left out, the velar fricative is softened to h, the high central vowel is left out, and none of their words is taken."
+  # terran_analog: "The Chumashan languages, with Barbareño and Ventureño Chumash as the guide: their many closed syllables and consonant endings, their s and sh before another consonant inside a word, their reduplication, their verb-first sentences, their weighting toward words of one, two and three syllables, and their leading sounds k, sh, s, t, l, q, h, m, w, y and p. The glottal stop and the glottalized and aspirated consonants are left out, the velar fricative is softened to h, the high central vowel is left out, and none of their words is taken."
 ---
 
 The Shuqash Language is the tongue of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People of the western coast and the oak valleys behind it. Fluency measures the range of what a speaker can say in it, from a Cedar trader's few dozen words of beads and prices to the speech of someone raised in a chief's house and taught the sky by the astronomer-priests. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -5934,13 +5977,13 @@ Nobody writes it. The Shell-Bead People keep their counts, their songs and their
 
 The Shuqash Language is clipped and busy, and most of its words close on a consonant. A sentence sounds to a stranger like beads poured from hand to hand: short words, many of them ending on _sh_, _q_, _l_ and _n_, with a vowel between each pair of consonants. _Shuq_ is a bead, _kulai_ a canoe, and _hilaq_ a chief.
 
-**The vowels.** _a_ and _i_ lead, then _u_ and _o_, with _e_ well behind. Each has its plain value, and two vowels never stand side by side: a consonant always comes between them.
+**The vowels.** _a_ and _i_ lead, then _u_ and _o_, with _e_ well behind. Each has its plain value, and two vowels stand side by side only in the pairs _ai_ and _oi_; elsewhere a consonant comes between them.
 
 **The consonants.** _k_, _sh_, _s_, _t_, _l_, _h_, _q_, _m_, _w_, _p_ and _y_ lead, with _n_, _ch_ and _ts_ behind them. _q_ is a _k_ said farther back in the throat, and a plain _k_ is a good enough way to say it.
 
-**Shapes and endings.** Many of the commonest words have one syllable, most have two, and fewer have three or more. A syllable opens on one consonant and may close on one, so two consonants meet inside many words: _hipalshuq_, a crossing strand, _tumshaw_, a storm. Three in four words end on a consonant, most often _q_, _sh_, _l_, _n_ or _k_, and many end on _-ai_ or _-uy_, a vowel and a glide, and many on _-aw_, a vowel and the consonant _w_.
+**Shapes and endings.** Many of the commonest words have one syllable, most have two, and fewer have three or more. A syllable opens on one consonant and may close on one, so two consonants meet inside many words: _hipalshuq_, a crossing strand, _tumshaw_, a storm. Three in four words end on a consonant, most often _q_, _sh_, _l_, _n_ or _k_, and many end on _-ai_, _-oi_ or _-uy_, a vowel and a glide, and many on _-aw_, a vowel and the consonant _w_.
 
-**What the Shuqash Language leaves out.** It has no _b_, _d_, _g_, _f_, _v_, _r_, _z_ or _j_, no _th_, _kh_ or _ng_, and no catch in the throat, which the south's tongue is full of. No word opens on two consonants, and two vowels never meet.
+**What the Shuqash Language leaves out.** It has no _b_, _d_, _g_, _f_, _v_, _r_, _z_ or _j_, no _th_, _kh_ or _ng_, and no catch in the throat, which the south's tongue is full of. No word opens on two consonants, and two vowels meet only in the pairs _ai_ and _oi_.
 
 ## Phonology
 
