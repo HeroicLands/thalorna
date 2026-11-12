@@ -74,12 +74,12 @@ The fox still eats out of that song.
 Al Kérnalon, ólnare al kernis./
 Árnathen geth neilis, greile vernis,/
 hóuthathen gounel lonke, kernathen tendar,/
-gaeldathen tend rith kénathen kendar./
-Sáuminathen laegnar daeron, gryenar,/
+geildathen tend rith kénathen kendar./
+Sáuminathen leignar deiron, gryenar,/
 geisin hóuthathen, kernathen, ryenar.
 
 [Al Geithand.]{.speaker}/
-Lyero gene gaethe laegar, seivar‼/
+Lyero gene geithe leigar, seivar‼/
 Kendar telgathen. Sheirthar en neivar.
 
 Lyernon angeildar, sheirthar nengin./
@@ -110,11 +110,11 @@ the hall the thing you hid so well.
 Géilathen sargar giethe lundis,/
 seis róugathen ukar al rundis/
 gyerth ansargar, gire gélgathen,/
-reik gene al thraemis sélgathen.
+reik gene al threimis sélgathen.
 
 [Al Geithand.]{.speaker}/
 Ryélathen rith halthon lyero tose‼/
-Tergathen senthron dáelamen pirnose.
+Tergathen senthron déilamen pirnose.
 
 Pirnal anryelar ryenathen gyerth halnis/
 gere thalkathen tose rith thalnis.
@@ -148,7 +148,7 @@ The top will hear it, after all./
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=word}
 [Al Geithand.]{.speaker} Gere gouris targathen nyes ryenathen uk gaeron geildar?
 
-Gaernen nond uk ryenathen, sendar,/
+Geirnen nond uk ryenathen, sendar,/
 al talar leithon, dren ha, ankendar./
 Al leithon geildar garsar, gryenar,/
 árethathen gyerth kendar ryenar.
@@ -201,9 +201,9 @@ and what it paid, under one roof.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=line}
-[Al Geithand.]{.speaker} Gere en uk saenon?
+[Al Geithand.]{.speaker} Gere en uk seinon?
 
-Sírnerne geilar rith gaema, lenthon/
+Sírnerne geilar rith geima, lenthon/
 dren lenthon gyerth aulde, ryenar menthon,/
 lyero ukal kirdin thes kendar «Rulnis.»/
 Hóuthathen gene rith rindulnis.
@@ -211,22 +211,22 @@ Hóuthathen gene rith rindulnis.
 [Al Geithand.]{.speaker} Reik gyese nond en gene tenar?
 
 Géilathen nyes gene, lothe mirdis,/
-reik miron láegathen al kirdis,/
+reik miron léigathen al kirdis,/
 reik nond kernathen halthon gaeron./
-Nond nyes. En to laegnar daeron.
+Nond nyes. En to leignar deiron.
 
 [Al Geithand.]{.speaker}/
-Gyerth ánseve, saenon ternathen kurnis./
-Nal kurnand saenar en gene, rith lurnis.
+Gyerth ánseve, seinon ternathen kurnis./
+Nal kurnand seinar en gene, rith lurnis.
 
-Rith miron gaema gyerth gaema sargar,/
-soldar pirnal. Gaema sundar, largar‼/
+Rith miron geima gyerth geima sargar,/
+soldar pirnal. Geima sundar, largar‼/
 [Rith al lirve.]{.direction} soldar pirnal. Salkathen largar‼
 
-Laegnar geilar largar, ryedamis véinathen./
+Leignar geilar largar, ryedamis véinathen./
 Gese kernathen gere thréinathen?
 
-Géilathen Thílandand saenon rith thalnis,/
+Géilathen Thílandand seinon rith thalnis,/
 ukal halthon, deisnon, rith uk halnis.
 :::
 
@@ -259,8 +259,8 @@ whose hand was on it. Sign your own.
 
 Delkon vórnalon lenthathen delkon./
 Thárnathen lenthon uk kirdin. Al velkon/
-lourth gyerth ukal nyerendar, nond sáernathen,/
-algin, gaethe ruskon, láernathen.
+lourth gyerth ukal nyerendar, nond séirnathen,/
+algin, geithe ruskon, léirnathen.
 
 [Al Geithand.]{.speaker}/
 Uk kirdin thílathen‼ Nal ta rith kirdon,/
@@ -273,7 +273,7 @@ Sarnathen, thren lyero gyerth halthon venthon,/
 alnar kenrison‼ Thárnathen lenthon.
 
 Uk gurmougon en greilmon rith halnis./
-Náemathen gire‼ Sargar geisri thalnis.
+Néimathen gire‼ Sargar geisri thalnis.
 :::
 
 : The Room of the Art {#art}
@@ -304,7 +304,7 @@ your art is small. Be small, and hear.
 [Al Geithand.]{.speaker} Gere en al simme?
 
 Nond nourar, al simme en kornar./
-Garsar gaethe laegnar, gernar,/
+Garsar geithe leignar, gernar,/
 thennar, gyerth uk, nond gyerth gurnar,/
 lothe saldren. Gonde nonduk. Kurnar.
 
@@ -345,22 +345,22 @@ the guest all he can bear to know./
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=guest}
-[Al Geithand.]{.speaker} Gese en al laegkon góldathen?
+[Al Geithand.]{.speaker} Gese en al leigkon góldathen?
 
-Hóuthathen rith háelalon, gouthe delnon,/
+Hóuthathen rith héilalon, gouthe delnon,/
 lothe geirin geildar, ryenathen gelnon./
 Gírathen geildar, máldathen rith arnar‼/
 Nonduk sélkathen gene tosri tarnar‼
 
 [Al Geithand.]{.speaker}/
-Háelalon nengin ráethathen drenar,/
+Héilalon nengin réithathen drenar,/
 nond sundar ganda, talar, tenar.
 
-Laegnar gyerth al Thórdimalon, nonduk melgan./
+Leignar gyerth al Thórdimalon, nonduk melgan./
 Dren, deilnathen tose al gelgan‼
 
 Al oldand al kerdon, geildar, tenthar,/
-sélkathen laegkon alnar nond menthar./
+sélkathen leigkon alnar nond menthar./
 [Rith al lirve.]{.direction} alnar gyerth kerdon nond menthar.
 :::
 
@@ -392,22 +392,22 @@ is the rudest word a guest can bring.
 [Al Geithand.]{.speaker} Gere kirdis en uk kernis sundar?
 
 Gyese lyero thend, gurnar kirdon,/
-tend al ólnare saenar threl uk mirdon./
+tend al ólnare seinar threl uk mirdon./
 Nond geinde. Nond tose sárnathen./
 Al menris nal kirdis árnathen.
 
 [Al Geithand.]{.speaker}/
-Nond náemathen kyeron‼ Gaeron véinathen‼/
-Náemathen kyeron? Goulnar théinathen.
+Nond néimathen kyeron‼ Gaeron véinathen‼/
+Néimathen kyeron? Goulnar théinathen.
 
 Leveson en nézora nond threnar./
 Góldathen geinde? Nond tenar.
 
-Gaele sundel lóuvathen velnon‼/
+Geile sundel lóuvathen velnon‼/
 Súndathen derar halthon al delnon.
 
 Gyerth ornar kernis talar sélkathen,/
-geirin angeildar laegkon thélkathen.
+geirin angeildar leigkon thélkathen.
 :::
 
 : The Room of the Tree Line {#treeline}
@@ -517,11 +517,11 @@ the line is closed, and the harp is stilled./
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=last}
 [Al Geithand.]{.speaker} Gere kirdis dúlkathen al thargalon?
 
-Gyese gryene kerdon, laethar,/
-hóuthathen giethe al uron, saethar,/
+Gyese gryene kerdon, leithar,/
+hóuthathen giethe al uron, seithar,/
 reik hálmathen geinra al haldren,/
 sundar sírnerne, pirnal rith saldren./
-[Rith al lirve.]{.direction} Gyese gryene kerdon, nond laethar.
+[Rith al lirve.]{.direction} Gyese gryene kerdon, nond leithar.
 
 [Al Geithand.]{.speaker} Geisin targathen nyes lesathen gene?
 

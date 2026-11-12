@@ -122,7 +122,7 @@ Each person carries smaller things. A hedge-affiliate carries a knotted cord of 
 
 On an ordinary day the religion is small and local. Officially the Élavendren are Aureldian, fervent in the worship of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the Aureldian manner, with [[lore-lusiniadty|Lusinia]] the World-Weaver and [[lore-zunelasdty|Zunelas]] the Veiled Dreamer held in special prominence. Beside that faith the common people keep the older beliefs and customs of the land, adapted rather than set aside, and the Aureldian priesthood officially opposes them and in practice turns a blind eye. A family that hears in the temple that Sélmoros keeps the gate of the dead still plants a tree for its dead and sings the lament at the cairn, and a village that keeps the temple's feasts keeps the hinge-days of the groves as well. The noble houses are held to a stricter account, since the priesthood expects them to follow Aureldian worship and give up the older beliefs. The Pact tradition is the Áelendan's, and the Élavendren respect it, though many noble houses, the lesser ones especially, still keep to it in secret. No Élavendren sets the gods and the older spirits of the land against each other. Sacred groves, standing stones and holy wells serve beside the temples. A household leaves a loaf, _tárneve_, at a birch, a well or a stone and does not wait to see it taken. A village healer or herbalist who walks in [[affiliation-groveconcl|the Grove Council]]'s tradition is the person a sick child is taken to, and a grove-elder is heeded before any sheriff.
 
-The rest of the day is the house: the land's stewardship, the work of whatever art the household follows, and a meal at which magic is discussed as other peoples discuss the weather. An Élavendri listens to form as well as content, since a thing said well is more likely to be believed and repeated. A guest is seated by the order of the seats, _máldalon_, which is worked out again at every gathering, and the right of the guest under the roof, _háelalon_, is not argued.
+The rest of the day is the house: the land's stewardship, the work of whatever art the household follows, and a meal at which magic is discussed as other peoples discuss the weather. An Élavendri listens to form as well as content, since a thing said well is more likely to be believed and repeated. A guest is seated by the order of the seats, _máldalon_, which is worked out again at every gathering, and the right of the guest under the roof, _héilalon_, is not argued.
 
 ## The Round of the Year
 
@@ -163,7 +163,7 @@ Ask an Élavendri what a person owes, and he answers: the house first, and by ho
 
 Last he owes the Pact his respect—the old arrangement of the Áelendan with what was here before anyone, which is theirs to keep—and he will not explain it to a foreigner, partly from courtesy and partly because he is not entirely sure of the terms himself.
 
-In return a person is owed the house's name and protection, the land's keeping by the lord whose rank exists for it, a hearing that is courteous and slow, and a place at the fire under _háelalon_. The crown owes its people the tree line held and its lords the stewardship that justifies their rank.
+In return a person is owed the house's name and protection, the land's keeping by the lord whose rank exists for it, a hearing that is courteous and slow, and a place at the fire under _héilalon_. The crown owes its people the tree line held and its lords the stewardship that justifies their rank.
 
 ## The Weak
 

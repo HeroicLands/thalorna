@@ -8,7 +8,7 @@
 
 **Characters**
 
-- Daran Véldarin's lieutenant is named Kaelith, with the same private letter and part in the investigation.
+- Daran Véldarin's lieutenant is named Keilith, with the same private letter and part in the investigation.
 
 **Languages and scripts**
 

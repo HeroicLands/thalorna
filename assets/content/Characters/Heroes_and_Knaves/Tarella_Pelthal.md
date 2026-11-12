@@ -503,7 +503,7 @@ The mariners' guild
 [[being-tralkarherse|Captain Tralkar Hérselnde]]
 : A successful merchant captain who blames Tárella for his lost ship and crew. The inquiry cleared her, and he says on every wharf that her caution is fear and her readings luck.
 
-[Thráemesand]{.name data-type="being/npc"}
+[Thréimesand]{.name data-type="being/npc"}
 : A rival sky-reader of the harbor who sells grand prophecy in ambiguous words to wealthy clients, and who has taken up Tralkar's story with delight.
 
 ### Affiliations

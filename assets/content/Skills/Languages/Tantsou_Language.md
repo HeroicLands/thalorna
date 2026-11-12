@@ -2564,7 +2564,7 @@ data:
       gloss: you; the person or persons addressed
       concept: you-reference
       field: Doing and describing
-    - form: wie
+    - form: wye
       class: dem
       gloss: this; these, the near or currently indicated referent
       concept: [this, these]
@@ -3183,10 +3183,10 @@ data:
       built: [kin, ka]
       concept: unlock
       field: Doing and describing
-    - form: wie chai san
+    - form: wye chai san
       class: part
       gloss: at this place; here
-      built: [wie, chai, san]
+      built: [wye, chai, san]
       concept: here
       field: Doing and describing
     - form: shei chai san
@@ -3441,10 +3441,10 @@ data:
       built: [ha, long, wen]
       concept: midnight
       field: Heaven, law and the order of things
-    - form: wie yen
+    - form: wye yen
       class: n
       gloss: now; this moment
-      built: [wie, yen]
+      built: [wye, yen]
       concept: now
       field: Heaven, law and the order of things
     - form: shei yen
@@ -3453,10 +3453,10 @@ data:
       built: [shei, yen]
       concept: then
       field: Heaven, law and the order of things
-    - form: wie sha long
+    - form: wye sha long
       class: n
       gloss: today; this day
-      built: [wie, sha, long]
+      built: [wye, sha, long]
       concept: today
       field: Heaven, law and the order of things
     - form: neng sha long
@@ -3477,10 +3477,10 @@ data:
       built: [neng, long]
       concept: past
       field: Heaven, law and the order of things
-    - form: wie long
+    - form: wye long
       class: n
       gloss: the present; the current time
-      built: [wie, long]
+      built: [wye, long]
       concept: present
       field: Heaven, law and the order of things
     - form: ning long
@@ -3609,16 +3609,16 @@ data:
       built: [neng, yen, lwen]
       concept: already
       field: Heaven, law and the order of things
-    - form: wie yen bwen
+    - form: wye yen bwen
       class: v
-      gloss: still; remaining so at this moment. Zhong wie yen bwen states that someone still stays home
-      built: [wie, yen, bwen]
+      gloss: still; remaining so at this moment. Zhong wye yen bwen states that someone still stays home
+      built: [wye, yen, bwen]
       concept: still
       field: Heaven, law and the order of things
-    - form: wie yen mong lwen
+    - form: wye yen mong lwen
       class: v
-      gloss: yet in a negative statement; not completed by this moment. Ta sho wie yen mong lwen means the eating is not finished yet
-      built: [wie, yen, mong, lwen]
+      gloss: yet in a negative statement; not completed by this moment. Ta sho wye yen mong lwen means the eating is not finished yet
+      built: [wye, yen, mong, lwen]
       concept: yet
       field: Heaven, law and the order of things
     - form: kou long ning yen
@@ -3999,16 +3999,16 @@ data:
       built: [bwo, chou]
       concept: falsehood
       field: Heaven, law and the order of things
-    - form: mong wie wi mong shei
+    - form: mong wye wi mong shei
       class: conj
       gloss: nor; neither this nor that. The repeated negatives connect the denied alternatives
-      built: [mong, wie, wi, mong, shei]
+      built: [mong, wye, wi, mong, shei]
       concept: [nor, neither-alternative]
       field: Doing and describing
-    - form: wie jwen san
+    - form: wye jwen san
       class: part
-      gloss: therefore; for this reason. Wie jwen san tseng fing means therefore I leave
-      built: [wie, jwen, san]
+      gloss: therefore; for this reason. Wye jwen san tseng fing means therefore I leave
+      built: [wye, jwen, san]
       concept: therefore
       field: Doing and describing
     - form: shei yen san
@@ -4071,16 +4071,16 @@ data:
       built: [shong, yau, san]
       concept: unlike
       field: Doing and describing
-    - form: wie tsa shei
+    - form: wye tsa shei
       class: conj
       gloss: either this or that; the two alternatives are offered without choosing one
-      built: [wie, tsa, shei]
+      built: [wye, tsa, shei]
       concept: either-alternative
       field: Doing and describing
-    - form: wie wi shei
+    - form: wye wi shei
       class: conj
       gloss: both this and that; the two named alternatives are included
-      built: [wie, wi, shei]
+      built: [wye, wi, shei]
       concept: both-conjunction
       field: Doing and describing
     - form: nau wui
@@ -4089,10 +4089,10 @@ data:
       built: [nau, wui]
       concept: whether
       field: Doing and describing
-    - form: wie ryau
+    - form: wye ryau
       class: n
-      gloss: that is; namely, the conventional this-name introduction that specifies the referent. Wie ryau gen means that is, the teacher
-      built: [wie, ryau]
+      gloss: that is; namely, the conventional this-name introduction that specifies the referent. Wye ryau gen means that is, the teacher
+      built: [wye, ryau]
       concept: [that-is, namely]
       field: Heaven, law and the order of things
     - form: tsi jwo hing
@@ -4488,16 +4488,16 @@ data:
       built: [tseng, lau, tsyau, kye]
       concept: expression-forgive-me
       field: Doing and describing
-    - form: wie chai nau
+    - form: wye chai nau
       class: v
       gloss: come here; come to this place
-      built: [wie, chai, nau]
+      built: [wye, chai, nau]
       concept: expression-come-here
       field: Doing and describing
-    - form: wie chai swen rou
+    - form: wye chai swen rou
       class: v
       gloss: go away; go from this place
-      built: [wie, chai, swen, rou]
+      built: [wye, chai, swen, rou]
       concept: expression-go-away
       field: Doing and describing
     - form: ning tsi yen ya
@@ -4524,16 +4524,16 @@ data:
       built: [tseng, jwen, mong, tsing]
       concept: expression-i-do-not-understand
       field: Doing and describing
-    - form: shye wie tsin dou ya
+    - form: shye wye tsin dou ya
       class: v
-      gloss: how do you say this? A complete question; replace wie by the matter whose expression is requested
-      built: [shye, wie, tsin, dou, ya]
+      gloss: how do you say this? A complete question; replace wye by the matter whose expression is requested
+      built: [shye, wye, tsin, dou, ya]
       concept: expression-how-do-you-say
       field: Doing and describing
-    - form: wie tsin ryau kai
+    - form: wye tsin ryau kai
       class: v
       gloss: what is this called? Literally this has what name
-      built: [wie, tsin, ryau, kai]
+      built: [wye, tsin, ryau, kai]
       concept: expression-what-is-this-called
       field: Doing and describing
     - form: heng dei wui
@@ -4902,10 +4902,10 @@ data:
       built: [jwo, hye, yeng, kai]
       concept: suspect
       field: Doing and describing
-    - form: wie tsin nong ja dei
+    - form: wye tsin nong ja dei
       class: v
-      gloss: Whose blade is this? A complete question with wie, this, as subject and tsin nong, what person, as the blade's possessor. Replace ja with the possessed noun
-      built: [wie, tsin, nong, ja, dei]
+      gloss: Whose blade is this? A complete question with wye, this, as subject and tsin nong, what person, as the blade's possessor. Replace ja with the possessed noun
+      built: [wye, tsin, nong, ja, dei]
       concept: question-whose
       field: Doing and describing
     - form: nye chou
@@ -5077,7 +5077,6 @@ data:
       - {final: ui, like: "oo-ee, after w or y and in tui"}
       - {final: uo, like: "oo-oh, after w or y and in tuo"}
       - {final: uen, like: "oo-en, after w or y and in guen"}
-      - {final: ie, like: "ee-eh, after w"}
   scope:
     folders:
       - tantsou
@@ -5760,6 +5759,7 @@ data:
     - {form: hie, instead: hye, why: "respelled to the guide: a glide is written w or y"}
     - {form: hiao, instead: hyau, why: "respelled to the guide: a glide is written w or y"}
     - {form: buo, instead: bwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: wie, instead: wye, why: "respelled to the guide: a glide is written w or y"}
     - form: Chiao Chai Tui Sen
       instead: Chyau Chai Tui Sen
       why: "respelled to the guide: a glide is written w or y"
@@ -6042,7 +6042,7 @@ sohl:
     parentSkillCode: lang
     initSkillMult: 0
 
-# terran_analog: Tantsou is Chinese-shaped, on the model of Mandarin: one syllable to a morpheme, an initial, a final and a tone, words of one or two syllables compounded modifier-first. It leaves out Mandarin's -ang, its bare -e, its q, x, c and z, and every medial glide but u before o, i and en, and i before e and ao. A root collides only when it is the Mandarin syllable for the same meaning; a written word of two or more syllables collides when it is a common Mandarin word or a well-known name.
+# terran_analog: Tantsou is Chinese-shaped, on the model of Mandarin: one syllable to a morpheme, an initial, a final and a tone, words of one or two syllables compounded modifier-first. It leaves out Mandarin's -ang, its bare -e, its q, x, c and z, and every medial glide but w before o, i and en, and y before e and au. A root collides only when it is the Mandarin syllable for the same meaning; a written word of two or more syllables collides when it is a common Mandarin word or a well-known name.
 ---
 
 Tantsou is a tonal tongue of single-syllable words. Fluency measures the sophistication of expression in Tantsou, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -6055,7 +6055,7 @@ The language is known natively as **Tantsou**, the name of the people (_tan_, ce
 
 Tantsou is built of single syllables set side by side. Each syllable is short and complete: one consonant, a vowel, a vowel pair or a vowel after a gliding _w_ or _y_, and at most a soft _-n_ or _-ng_. Most words have one or two syllables, and two is the commonest.
 
-**The vowels.** Syllables rest on _-ou_, _-ei_, _-o_, _-wo_, _-a_, _-au_, _-wi_, _-ai_ or _-i_, or close on _-en_, _-eng_, _-an_, _-ing_, _-in_ or _-ong_. _-ye_, _-wen_ and _-yau_ are rare. After _w_ and _y_, and in _tui_, _tuo_ and _guen_, the vowels stand without a glide: _-ui_, _-uo_, _-uen_ and _-ie_. These finals are the whole of them.
+**The vowels.** Syllables rest on _-ou_, _-ei_, _-o_, _-wo_, _-a_, _-au_, _-wi_, _-ai_ or _-i_, or close on _-en_, _-eng_, _-an_, _-ing_, _-in_ or _-ong_. _-ye_, _-wen_ and _-yau_ are rare. After _w_ and _y_, and in _tui_, _tuo_ and _guen_, the vowels stand without a glide: _-ui_, _-uo_ and _-uen_. These finals are the whole of them.
 
 **The consonants.** _w_, _zh_, _h_, _l_, _y_, _j_, _t_, _ch_ and _d_ open most syllables. _r_, _m_, _n_, _s_, _ts_ and _sh_ are common; _b_, _g_, _k_, _f_ and _gw_ are rare. These twenty are the whole of them. _y_ never stands before a final that begins with _i_, and _gw_ never before one that begins with _u_.
 

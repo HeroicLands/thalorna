@@ -59,16 +59,16 @@ Seat
 : the river-meadows of the Berav below Péravel
 
 Head
-: [[being-taerenhalvir|Taeren]]
+: [[being-taerenhalvir|Teiren]]
 
 Heir
 : [Sílvera]{.name data-type="being/npc"}, his daughter
 
 ## The House Now {#the-house-now}
 
-The head of the house is [[being-taerenhalvir|Taeren]], who holds the river-meadows and whose people eat. His heir is his daughter [Sílvera]{.name data-type="being/npc"}, an infant, counted into the line at her naming feast in the hearing of everyone who might dispute it. Her other name, the shadow name, is not for the hall.
+The head of the house is [[being-taerenhalvir|Teiren]], who holds the river-meadows and whose people eat. His heir is his daughter [Sílvera]{.name data-type="being/npc"}, an infant, counted into the line at her naming feast in the hearing of everyone who might dispute it. Her other name, the shadow name, is not for the hall.
 
-Taeren's father [Méldoreth]{.name data-type="being/npc"} followed the art at Péravel and came home, and kept a harper twenty years and paid him. A house that produces no artists and no mages across two generations stops being counted in the first rank, and the house of Hálvireth has kept a harper and sent its children to the art.
+Teiren's father [Méldoreth]{.name data-type="being/npc"} followed the art at Péravel and came home, and kept a harper twenty years and paid him. A house that produces no artists and no mages across two generations stops being counted in the first rank, and the house of Hálvireth has kept a harper and sent its children to the art.
 
 ## Holdings {#holdings}
 
@@ -91,7 +91,7 @@ Taeren's father [Méldoreth]{.name data-type="being/npc"} followed the art at P�
 
 ## Hooks {#hooks}
 
-- **The bard to the fair.** Taeren hires a party to escort the house's bard up to the Elanmere fair, where the claim to Sírtala must stand again before the Dhárgandi camped on the shore. This year a Dhárgandi elder has sent word down that he means to hear it.
+- **The bard to the fair.** Teiren hires a party to escort the house's bard up to the Elanmere fair, where the claim to Sírtala must stand again before the Dhárgandi camped on the shore. This year a Dhárgandi elder has sent word down that he means to hear it.
 - **A fosterling for Orethan.** A stranger at Péravel says he is of Orethan's blood through a daughter's line and asks the house for the fosterling it owes. If the Colleges prove him, the house can pay its oldest debt. If they do not, the house has been asked to pay a liar.
 
 ## See Also

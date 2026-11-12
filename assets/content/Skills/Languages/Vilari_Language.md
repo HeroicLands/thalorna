@@ -8930,7 +8930,7 @@ data:
     - forms:
         skill-vylarilng: takezos
         skill-aelendlng: takhesand
-        skill-elvndrlng: táehesand
+        skill-elvndrlng: téihesand
         skill-provnzlng: tacheze
         skill-tarvenlng: takzo
       proto: takezos

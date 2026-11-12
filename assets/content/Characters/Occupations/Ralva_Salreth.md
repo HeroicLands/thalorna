@@ -405,7 +405,7 @@ Ralva Salreth is a river pilot of [[place-sirlathen|Sirlathen]], the pilots' vil
 
 Every child of Sirlathen learns the shoals before learning to read, and Ralva learned them from her father, whose place on the roll she took when his eyes failed. She brings sea-going hulls the fifteen miles up to [[place-beravel|Péravel]] on the flood and takes them down on the ebb, and she is known for keeping her head when the channel has moved and the hull has not. She is cautious with a strange ship, delegates nothing on the deck and teaches the younger pilots whether they ask or not.
 
-The fellowship's present trouble is hers too. A deep-hulled trader out of Viléria lies off the bar asking for a pilot, with eleven men on deck who are not sailors, and the Master Pilot, [[being-maerendilsev|Máerendand Ílsevende]], has been told in a letter on the University's paper to take it up on the night tide without a count. Ralva is next on the roll.
+The fellowship's present trouble is hers too. A deep-hulled trader out of Viléria lies off the bar asking for a pilot, with eleven men on deck who are not sailors, and the Master Pilot, [[being-maerendilsev|Méirendand Ílsevende]], has been told in a letter on the University's paper to take it up on the night tide without a count. Ralva is next on the roll.
 
 ## Psyche
 

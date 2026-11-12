@@ -11,13 +11,13 @@ data:
     - name: "Chaiwong"
       definition: '"Kingdom of Mountains and Seas": the mainland''s dismissive name for the islands'
       language: skill-tantsoulng
-    - name: "Chai Jui"
+    - name: "Chai Jwi"
       definition: "The Festival of the Mountain, each domain's harvest rite at its summit shrine; native _chai jui_"
       language: skill-tantsoulng
     - name: "Leigen"
       definition: '"Spirit Master": a Nouwen who speaks with the dead for their households'
       language: skill-tantsoulng
-    - name: "Leng Rui"
+    - name: "Leng Rwi"
       definition: "The Dawn Rite, performed by the Emperor on Zojai's summit on the first day of the year; native _re rui_"
       language: skill-tantsoulng
     - name: "Lengwou"
@@ -96,10 +96,10 @@ The rest of the day is service. The farmer works the terrace whose four parts in
 
 The islands keep the mainland calendar with two rites of their own at its two ends.
 
-- [New Year Purification]{.name data-type="lore/custom"} (Shui Nie Wo) closes the year as it does on the mainland: households, shrines and halls are cleansed, and the year's spent spirit paper is burned.
-- **The Dawn Rite** (_Leng Rui_) opens the year. The Emperor performs it at dawn on the first day of the year on Zojai's summit, and every lord's envoy attends. The seating order is the year's political map, and the lords' envoys negotiate it for months. Every household of the Nine lights a lamp at the same dawn, which is the one act the whole realm performs together.
-- [Moon Festival]{.name data-type="lore/gathering"} (You Jui) falls in late autumn as on the mainland, with lanterns lit against the unsorted and offerings to [[lore-youweidty|Youbwi]], the Minister of the Moon.
-- The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) is each domain's own, held when the harvest is in and the assessment paid. The lord climbs his mountain to the summit shrine, the Tanchei read the mountain's year from the record, and the lord's roll is closed for the year. The day differs from mountain to mountain, and a lord who cannot climb sends his heir, which is how a domain learns who the heir is to be.
+- [New Year Purification]{.name data-type="lore/custom"} (Shwi Nye Wo) closes the year as it does on the mainland: households, shrines and halls are cleansed, and the year's spent spirit paper is burned.
+- **The Dawn Rite** (_Leng Rwi_) opens the year. The Emperor performs it at dawn on the first day of the year on Zojai's summit, and every lord's envoy attends. The seating order is the year's political map, and the lords' envoys negotiate it for months. Every household of the Nine lights a lamp at the same dawn, which is the one act the whole realm performs together.
+- [Moon Festival]{.name data-type="lore/gathering"} (You Jwi) falls in late autumn as on the mainland, with lanterns lit against the unsorted and offerings to [[lore-youweidty|Youbwi]], the Minister of the Moon.
+- The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) is each domain's own, held when the harvest is in and the assessment paid. The lord climbs his mountain to the summit shrine, the Tanchei read the mountain's year from the record, and the lord's roll is closed for the year. The day differs from mountain to mountain, and a lord who cannot climb sends his heir, which is how a domain learns who the heir is to be.
 - [Festival of the Dead]{.name data-type="lore/gathering"} , falls at midwinter and is the costliest event of the year, as on the mainland. Retainer households provision the dead of their lord's line as well as their own.
 
 ## Favor and Disgrace

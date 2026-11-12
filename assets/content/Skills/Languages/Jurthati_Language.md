@@ -7307,8 +7307,8 @@ The notes write these names in the learned reading, so they keep the mainland's 
 | _Weileng_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _Weire_        | the reigning Emperor's name in the learned reading                                |
 | _Teng Ja_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _te ja_        | the office of the realm's war leader, a title of the court in the learned reading |
 | _Chaiwong_          | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _chaiwo_       | the mainland's name for the islands, the mountains and the seas, in Tantsou       |
-| _Leng Rui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _re rui_       | the Dawn Rite, a rite in the learned reading                                      |
-| _Chai Jui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _chai jui_     | the Festival of the Mountain, a rite in the learned reading                       |
+| _Leng Rwi_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _re rui_       | the Dawn Rite, a rite in the learned reading                                      |
+| _Chai Jwi_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _chai jui_     | the Festival of the Mountain, a rite in the learned reading                       |
 
 The proverbs and formulae the language note quotes are in the native reading. The mountain dialects keep a closing _-ng_ the standard speech has lost, and the shrine register keeps mainland forms whole.
 

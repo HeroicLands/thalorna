@@ -61,7 +61,7 @@ Her voice and her memory are very good, and she knows every house's line in the 
 
 ### Weaknesses
 
-She sings a claim she has not proved herself. She knows that the Dhárgandi keep no daughter of the man the house names as Sírtala's father, and she has not told Taeren how much that worries her.
+She sings a claim she has not proved herself. She knows that the Dhárgandi keep no daughter of the man the house names as Sírtala's father, and she has not told Teiren how much that worries her.
 
 ## Social
 
@@ -71,7 +71,7 @@ The house's harper, and the other bards of the College at Péravel.
 
 ### Patrons
 
-[[being-taerenhalvir|Taeren]], head of the House of Hálvireth, who keeps her.
+[[being-taerenhalvir|Teiren]], head of the House of Hálvireth, who keeps her.
 
 ### Enemies
 

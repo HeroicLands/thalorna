@@ -19,7 +19,7 @@ Rojai (Thunder Peak) is the westernmost of the Nine Mountains on the great islan
 
 The mountain rises straight from the sea. Rice grows on its terraced shoulders at [Rounu]{.name data-type="place/settlement"}, the court estate, and salt is boiled on the shore at [Beshenu]{.name data-type="place/settlement"}. The sheltered inlets at [Kowo]{.name data-type="place/settlement"} hold the shipyards, and the fleet anchors in the lee of the mountain. The summit is kept as a shrine of the storm aspect of [[affiliation-tengwouronglei|the Celestial Order]], and the Tanchei who keep it hold the mountain record, in which every eruption, earthquake and spring is entered under the year and the lord in whose time it fell.
 
-At the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) the Tanchei read Rojai's year as a year of storms, and [Shuiwojai Henzo]{.name data-type="being/npc"}'s claim to heaven's favor rests on that reading.
+At the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) the Tanchei read Rojai's year as a year of storms, and [Shuiwojai Henzo]{.name data-type="being/npc"}'s claim to heaven's favor rests on that reading.
 
 The lord's castle town, [[place-hawu|Hawu]], stands on the mountain's shore.
 
