@@ -51,7 +51,7 @@ test("declared finite forms support the prescribed present paradigms without mod
     const all = new Set(words.flatMap((word) => [word.form, ...(word.variants ?? [])]));
     // Derive every displayed paradigm's usable forms from the author-facing table.
     const table = raw
-        .split(/\| Verb\s*\| I\s*\| Thou\s*\| He \/ she \/ it\s*\| We \/ ye \/ they\s*\|/)[1]
+        .split(/\| Verb\s*\| I\s*\| Thou\s*\| He \/ she \/ it\s*\| We \/ ye \/ thei\s*\|/)[1]
         .split("\n\n")[0];
     const rows = table.split("\n").filter((line) => /^\| [a-z]/.test(line));
     assert.equal(rows.length, 10, "the ordinary and named exceptional paradigms remain visible");

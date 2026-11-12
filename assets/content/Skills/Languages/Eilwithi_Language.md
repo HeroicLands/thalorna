@@ -4750,8 +4750,9 @@ rule; an all-uppercase group such as TH in THIKKE remains invalid.
 ### Coined words and names {#coined-pronunciation}
 
 Coined words, names and naming elements follow the guide and the naming
-palette below. Eilwìthi uses ny only before a vowel, and y only before a
-vowel or after one. These limits do not change either consonant's reading.
+palette below. Eilwìthi spells the sound of _canyon_ _ny_ and the consonant of _yes_ _y_,
+as the guide does, wherever its words and names need them: _many_, _kompany_
+and _anything_, _Stonyhaugh_ and _Stonyford_ all keep the guide's reading.
 
 ### Foreign words and names {#foreign-names}
 

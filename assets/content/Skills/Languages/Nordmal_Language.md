@@ -6390,7 +6390,7 @@ SELECT CASE of WHEN 'bound' THEN 'a bestowed or ting-built name' WHEN 'compound'
 FROM name_shapes WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY position
 ```
 
-**There is no glottal stop.** No name carries an apostrophe. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `au`, `ei` and `ey`. In `ae`, as in `-aett`, both vowels are said. An element carries whatever pair its own spelling has, so `-guard` and `-stead` keep theirs wherever they stand.
+**There is no glottal stop.** No name carries an apostrophe. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `au` and `ei`. In `ae`, as in `-aett`, both vowels are said. An element carries whatever pair its own spelling has, so `-guard` and `-stead` keep theirs wherever they stand.
 
 ### Weight, foot and beat
 

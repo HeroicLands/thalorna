@@ -5938,7 +5938,7 @@ The Shuqash Language is clipped and busy, and most of its words close on a conso
 
 **The consonants.** _k_, _sh_, _s_, _t_, _l_, _h_, _q_, _m_, _w_, _p_ and _y_ lead, with _n_, _ch_ and _ts_ behind them. _q_ is a _k_ said farther back in the throat, and a plain _k_ is a good enough way to say it.
 
-**Shapes and endings.** Many of the commonest words have one syllable, most have two, and fewer have three or more. A syllable opens on one consonant and may close on one, so two consonants meet inside many words: _hipalshuq_, a crossing strand, _tumshaw_, a storm. Three in four words end on a consonant, most often _q_, _sh_, _l_, _n_ or _k_, and many end on _-ai_, _-aw_ or _-uy_, a vowel and a glide.
+**Shapes and endings.** Many of the commonest words have one syllable, most have two, and fewer have three or more. A syllable opens on one consonant and may close on one, so two consonants meet inside many words: _hipalshuq_, a crossing strand, _tumshaw_, a storm. Three in four words end on a consonant, most often _q_, _sh_, _l_, _n_ or _k_, and many end on _-ai_ or _-uy_, a vowel and a glide, and many on _-aw_, a vowel and the consonant _w_.
 
 **What the Shuqash Language leaves out.** It has no _b_, _d_, _g_, _f_, _v_, _r_, _z_ or _j_, no _th_, _kh_ or _ng_, and no catch in the throat, which the south's tongue is full of. No word opens on two consonants, and two vowels never meet.
 
@@ -5962,7 +5962,7 @@ The Shuqash Language is clipped and busy, and most of its words close on a conso
 
 ### Stress
 
-A word of two syllables is stressed on the first, and a longer word on the second-to-last, by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: _kulai_ is KU-lay, _hipalshuq_ is hi-PAL-shuk, _kulaiwil_ is ku-LAY-wil. No word of the dictionary needs an accent.
+A word of two syllables is stressed on the first, and a longer word on the second-to-last, by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: _kulai_ is KU-lye, _hipalshuq_ is hi-PAL-shuk, _kulaiwil_ is ku-LYE-wil. No word of the dictionary needs an accent.
 
 ## Grammar Notes
 

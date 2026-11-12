@@ -123,7 +123,7 @@ So _siri_ is _SEE-ree_, [/ˈsiri/]{.ipa}, _oro_ is _OH-roh_, [/ˈoro/]{.ipa}, an
 
 ### Vowel groups
 
-Five pairs of vowels are glides, each said as one syllable, and so is a vowel followed by a closing _y_:
+Five pairs of vowels are glides, each said as one syllable, and so are _iy_ and _uy_, a vowel followed by a closing _y_:
 
 ```sql
 SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Group",
@@ -135,7 +135,7 @@ So _kaira_ is _KYE-rah_, [/ˈkaɪrɑ/]{.ipa}, _taum_ is _towm_, [/taʊm/]{.ipa},
 
 _iy_ is an _ee_ that closes on a slight _y_, as in _siy_, [/sij/]{.ipa}, and _uy_ is _ooey_ said as one syllable, as in _kuy_, [/kuj/]{.ipa}.
 
-A _y_ joins the vowel before it only where no vowel follows it. Before a vowel, _y_ starts the next syllable instead: _kaya_ is _KAH-yah_, [/ˈkɑjɑ/]{.ipa}, and _koyo_ is _KOH-yoh_, [/ˈkojo/]{.ipa}.
+A _y_ joins the vowel before it only in _iy_ and _uy_, and only where no vowel follows it. Everywhere else _y_ is the consonant of _yes_, and before a vowel it starts the next syllable: _kaya_ is _KAH-yah_, [/ˈkɑjɑ/]{.ipa}, and _koyo_ is _KOH-yoh_, [/ˈkojo/]{.ipa}.
 
 Any other two vowels side by side are both said, each its own syllable: _koa_ is _KOH-ah_, [/ˈkoɑ/]{.ipa}, and _kao_ is _KAH-oh_, [/ˈkɑo/]{.ipa}.
 
