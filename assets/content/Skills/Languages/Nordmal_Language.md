@@ -6176,6 +6176,9 @@ data:
     - {name: brildmil dvurnumak, tongue: nordmal}
     - {name: gnaldrinna driskumak, tongue: nordmal}
   retired:
+    - {form: Domsey, instead: Domsei, why: closing ey is not a spelling}
+    - {form: Nulthey, instead: Nulthei, why: closing ey is not a spelling}
+    - {form: Glarvey, instead: Glarvei, why: closing ey is not a spelling}
     - {form: vatn, instead: vatan, why: "an Earth word"}
     - {form: hrafn, instead: hrafan, why: "an Earth word"}
     - {form: mídhalión, instead: midhalión, why: "respelled with one acute"}

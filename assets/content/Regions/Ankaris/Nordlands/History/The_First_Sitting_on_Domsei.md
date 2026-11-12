@@ -39,7 +39,7 @@ data:
         At Somarmál of 287 the five kings land on Domsei with their hirvs for the first common assembly, and a quarrel over who sits nearest the law-rock becomes a killing on the strand that lasts an afternoon. Nine jarls and about three hundred hirvmen die, King Svalthorv of Nordheim among them. The survivors swear the ting-peace, leave their swords in the boats, cut the twenty-seven seats and give the island to Nordheim's keeping as the wergild nobody else could pay. No grave-ale is drunk for the dead of 287, and the island is a blood-field.
       standing: attested
       names:
-        - {name: the Slaughter on Domsey, by: affiliation-skaldscrcl}
+        - {name: the Slaughter on Domsei, by: affiliation-skaldscrcl}
         - {name: the First Sitting, by: affiliation-kngdmnrdhm}
       where:
         locus: [place-domsey]

@@ -4839,9 +4839,9 @@ An ordinary finite present verb has a bare first singular, -est or -st
 with thou, -eth or -th with he, she or it, and -en with every
 plural subject. Ordinary third singular -s is not an alternative. The table
 gives the regular patterns and the common exceptional forms; its plural column
-applies to we, ye and they, as well as plural nouns.
+applies to we, ye and thei, as well as plural nouns.
 
-| Verb  | I     | Thou     | He / she / it | We / ye / they |
+| Verb  | I     | Thou     | He / she / it | We / ye / thei |
 | ----- | ----- | -------- | ------------- | -------------- |
 | speak | speak | speakest | speaketh      | speaken        |
 | love  | love  | lovest   | loveth        | loven          |
@@ -4852,7 +4852,7 @@ applies to we, ye and they, as well as plural nouns.
 | go    | go    | goest    | goeth         | goen           |
 | kome  | kome  | komest   | kometh        | komen          |
 | know  | know  | knowest  | knoweth       | knowen         |
-| say   | sai   | saist    | saith         | sayen          |
+| sai   | sai   | saist    | saith         | sayen          |
 
 An explicit form in the table takes precedence over the regular ending
 pattern. A variant listed in the lexicon is an attested form; the grammar

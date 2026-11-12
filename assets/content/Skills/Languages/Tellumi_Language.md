@@ -6701,6 +6701,13 @@ data:
     - {form: Sharminah Tahvan}
     - {form: Zevarad Dathvarun}
   retired:
+    - {form: Kireshay, instead: Kireshai, why: closing ay is not a spelling}
+    - {form: Budishay, instead: Budishai, why: closing ay is not a spelling}
+    - {form: Pedunay, instead: Pedunai, why: closing ay is not a spelling}
+    - {form: Sunhemay, instead: Sunhemai, why: closing ay is not a spelling}
+    - {form: Revunay, instead: Revunai, why: closing ay is not a spelling}
+    - {form: Nimeshay, instead: Nimeshai, why: closing ay is not a spelling}
+    - {form: Kenbeshay, instead: Kenbeshai, why: closing ay is not a spelling}
     - {form: Morá-Shirván, instead: Muresha of Shirvan, why: built on an Earth word}
     - {form: Samim, instead: Nimeshai, why: an Earth given name}
     - {form: Khavar, instead: Gureshai, why: an Earth word}
