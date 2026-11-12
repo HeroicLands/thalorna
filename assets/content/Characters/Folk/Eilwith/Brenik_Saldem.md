@@ -65,7 +65,7 @@ He wants the lowlands to know his name, and the valleys' trade depends on their 
 
 ### Companions
 
-The smiths of Vellik, and [[being-kadlisvrrm|Kadlis Vorrem]] of Stonyhaugh, who cuts the stone for his forge.
+The smiths of Vellik, and [[being-kadlisvrrm|Kadlis Vorrem]] of Stonihaugh, who cuts the stone for his forge.
 
 ### Patrons
 

@@ -6701,6 +6701,24 @@ data:
     - {form: Sharminah Tahvan}
     - {form: Zevarad Dathvarun}
   retired:
+    - {form: Bamdenay, instead: Bamdenai, why: closing y is not a spelling}
+    - {form: Berniray, instead: Bernirai, why: closing y is not a spelling}
+    - {form: Garmeshay, instead: Garmeshai, why: closing y is not a spelling}
+    - {form: Garvanay, instead: Garvanai, why: closing y is not a spelling}
+    - {form: Gureshay, instead: Gureshai, why: closing y is not a spelling}
+    - {form: Hageshay, instead: Hageshai, why: closing y is not a spelling}
+    - {form: Hemvanay, instead: Hemvanai, why: closing y is not a spelling}
+    - {form: Hevunay, instead: Hevunai, why: closing y is not a spelling}
+    - {form: Karvemay, instead: Karvemai, why: closing y is not a spelling}
+    - {form: Kervishay, instead: Kervishai, why: closing y is not a spelling}
+    - {form: Lirunay, instead: Lirunai, why: closing y is not a spelling}
+    - {form: Nartemay, instead: Nartemai, why: closing y is not a spelling}
+    - {form: Talhishay, instead: Talhishai, why: closing y is not a spelling}
+    - {form: Tarlimay, instead: Tarlimai, why: closing y is not a spelling}
+    - {form: Tenhuray, instead: Tenhurai, why: closing y is not a spelling}
+    - {form: Teyutay, instead: Teyutai, why: closing y is not a spelling}
+    - {form: Vemunay, instead: Vemunai, why: closing y is not a spelling}
+    - {form: Vurinay, instead: Vurinai, why: closing y is not a spelling}
     - {form: Kireshay, instead: Kireshai, why: closing ay is not a spelling}
     - {form: Budishay, instead: Budishai, why: closing ay is not a spelling}
     - {form: Pedunay, instead: Pedunai, why: closing ay is not a spelling}

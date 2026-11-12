@@ -24,7 +24,7 @@ The coast is the republic's money and its government. The Senate sits at [[place
 
 The coast runs from the [[place-pshtrwldrns|Peshtar Wilderness]], which comes down to the sea in wooded ridges at its northern end, south and then south-east along the island's south-western shore toward [[place-veldareth|Veldareth]]. Behind it lies a strip of low farmland a day's walk deep, cut by short rivers, with the land rising behind it in long green slopes to a broad wooded upland that runs east for days to the republic's edge by the Highlands.
 
-This is the worst weather on Eilwìth. The wind comes off the open ocean unbroken, fog lies on the shore for days together, and the fields are wet the year round. Oats, barley, cattle and fish feed the coast, and the farms are moderate at best. A traveler who climbs inland for an hour comes up out of the fog into the upland's sun and looks back on a white sea covering the coast. The upland is the republic's horse and cattle country, with the horse fair at [[place-stonyford|Stonyford]] at its eastern edge, and the senators keep their summer houses there.
+This is the worst weather on Eilwìth. The wind comes off the open ocean unbroken, fog lies on the shore for days together, and the fields are wet the year round. Oats, barley, cattle and fish feed the coast, and the farms are moderate at best. A traveler who climbs inland for an hour comes up out of the fog into the upland's sun and looks back on a white sea covering the coast. The upland is the republic's horse and cattle country, with the horse fair at [[place-stonyford|Stoniford]] at its eastern edge, and the senators keep their summer houses there.
 
 ## Who Holds It {#who-holds-it}
 
@@ -38,7 +38,7 @@ The republic holds the whole land directly, and no lord stands between its farms
 [[place-kaermouth|Kaermouth]]
 : the legion's town at the river mouth of the northern frontier, facing the Peshtar forest.
 
-[[place-stonyford|Stonyford]]
+[[place-stonyford|Stoniford]]
 : the upland market town and horse fair at the republic's eastern edge.
 
 ## Current Situation {#present}
@@ -49,7 +49,7 @@ The republic holds the whole land directly, and no lord stands between its farms
 
 ## Roads and Trade {#roads-and-trade}
 
-The coast road runs the length of the shore from Kaermouth through Thornbury to the south coast, where it meets the road west from [[place-dunavarre|Dúnavarre]] at Veldareth. Short roads climb from each river mouth to the upland, and the busiest of them goes up from Thornbury across the republic to Stonyford and on along a stretch of the old Crown Road toward the lake.
+The coast road runs the length of the shore from Kaermouth through Thornbury to the south coast, where it meets the road west from [[place-dunavarre|Dúnavarre]] at Veldareth. Short roads climb from each river mouth to the upland, and the busiest of them goes up from Thornbury across the republic to Stoniford and on along a stretch of the old Crown Road toward the lake.
 
 The coast lives by carrying. Ondarethan coasters work the island's shores from the Nordfells to Wreimouth, and the larger hulls cross to the mainland by way of Ravenmoor. Fish, hides, highland horses and wool go out; iron, wine, cloth and coin come in. A few merchant houses hold old terms with Peshtar clans and trade salt and metal for cattle at the forest edge.
 

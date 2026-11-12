@@ -7099,6 +7099,32 @@ data:
       built: [khamaq, jivoq]
       gloss: "the skull-pole: a star the Oroqidur steer by"
   retired:
+    - {form: chaghoy, instead: chaghoi, why: closing y is not a spelling}
+    - {form: chokhochoy, instead: chokhochoi, why: closing y is not a spelling}
+    - {form: chomey, instead: chomei, why: closing y is not a spelling}
+    - {form: chomoy, instead: chomoi, why: closing y is not a spelling}
+    - {form: chozemey, instead: chozemei, why: closing y is not a spelling}
+    - {form: chumoy, instead: chumoi, why: closing y is not a spelling}
+    - {form: chuzirey, instead: chuzirei, why: closing y is not a spelling}
+    - {form: jedey, instead: jedei, why: closing y is not a spelling}
+    - {form: jumey, instead: jumei, why: closing y is not a spelling}
+    - {form: juzovey, instead: juzovei, why: closing y is not a spelling}
+    - {form: kheyey, instead: kheyei, why: closing y is not a spelling}
+    - {form: khobaghoy, instead: khobaghoi, why: closing y is not a spelling}
+    - {form: khodoy, instead: khodoi, why: closing y is not a spelling}
+    - {form: khokhoy, instead: khokhoi, why: closing y is not a spelling}
+    - {form: khozey, instead: khozei, why: closing y is not a spelling}
+    - {form: khukheney, instead: khukhenei, why: closing y is not a spelling}
+    - {form: khuqay, instead: khuqai, why: closing y is not a spelling}
+    - {form: khusoy, instead: khusoi, why: closing y is not a spelling}
+    - {form: qaghay, instead: qaghai, why: closing y is not a spelling}
+    - {form: qosay, instead: qosai, why: closing y is not a spelling}
+    - {form: qoyoy, instead: qoyoi, why: closing y is not a spelling}
+    - {form: zochulay, instead: zochulai, why: closing y is not a spelling}
+    - {form: zotoy, instead: zotoi, why: closing y is not a spelling}
+    - {form: zovey, instead: zovei, why: closing y is not a spelling}
+    - {form: zudey, instead: zudei, why: closing y is not a spelling}
+    - {form: zusuvoy, instead: zusuvoi, why: closing y is not a spelling}
     - {form: Timan, instead: Ghotazkharu, why: "a Dunhari given name"}
     - {form: Bahrazad, instead: Orqazkenod, why: "a Dunhari given name"}
     - {form: Darush, instead: Koserur, why: "a Dunhari clan name"}

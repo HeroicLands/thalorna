@@ -101,7 +101,7 @@ The Grukar of Eilwìth.
 1. **The bow.** A party that has proved itself to the wood is offered a lesson with the bow by
    Hallesitti, and the lesson turns out to be a test of whether they will leave the wood when asked.
 2. **Iron from the saddle.** A worked piece the herders of the Three Sisters turned up in the turf has
-   been sold at [[place-stonyford|Stonyford]] and is on its way to a scholar at
+   been sold at [[place-stonyford|Stoniford]] and is on its way to a scholar at
    [[place-thornbury|Thornbury]]. Hallesitti wants it, and will not say why.
 
 :::secret {title="The deed the song keeps"}

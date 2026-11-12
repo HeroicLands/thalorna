@@ -5993,7 +5993,7 @@ data:
       joining: -borgar
     - {form: -brekka, position: closing, kind: place, sense: a slope, joining: -brekkar}
     - {form: -dal, position: closing, kind: place, sense: a dale, joining: -dalar}
-    - {form: -ei, position: closing, kind: place, sense: an island, joining: -eyjar}
+    - {form: -ei, position: closing, kind: place, sense: an island, joining: -eijar}
     - {form: -fell, position: closing, kind: place, sense: a bare hill, joining: -fellar}
     - {form: -fjall, position: closing, kind: place, sense: a mountain, joining: -fjallar}
     - {form: -fjord, position: closing, kind: place, sense: a fjord, joining: -fjordar}
@@ -6176,6 +6176,10 @@ data:
     - {name: brildmil dvurnumak, tongue: nordmal}
     - {name: gnaldrinna driskumak, tongue: nordmal}
   retired:
+    - {form: domsey, instead: domsei, why: closing y is not a spelling}
+    - {form: nulthey, instead: nulthei, why: closing y is not a spelling}
+    - {form: skarey, instead: skarei, why: closing y is not a spelling}
+    - {form: -eyjar, instead: -eijar, why: closing ey is not a spelling}
     - {form: Domsey, instead: Domsei, why: closing ey is not a spelling}
     - {form: Nulthey, instead: Nulthei, why: closing ey is not a spelling}
     - {form: Glarvey, instead: Glarvei, why: closing ey is not a spelling}
@@ -6614,7 +6618,7 @@ FROM held_from WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY positio
 
 **The clause reaches place names and nothing else.** In every other compound—an office, an order, a god's own name, an earned clan name—the first element is an element from the lexicon, and a god's or a founder's name does not stand there. A place is held from a god and the name records the holding; a station is held from a king, so an office built on a god's name would say something the rank ladder does not mean, and an earned name built on one would have a hall claiming descent from a god.
 
-**A place name's joining form changes only its generic.** The first element stays as written. The joining form ends in `-ar`, replacing a final vowel or the strong `-r`: `-brekka` gives `brekkar` and `-vangur` gives `vangar`. The table also gives `eyjar` for `-ey`, `hallar` for `-holl` and `stadar` for `-stead`. Every generic's joining form stands in the third column above, so Nalthmark gives Nalthmarkar and Dvalgheim gives Dvalgheimar by following the row.
+**A place name's joining form changes only its generic.** The first element stays as written. The joining form ends in `-ar`, replacing a final vowel or the strong `-r`: `-brekka` gives `brekkar` and `-vangur` gives `vangar`. The table also gives `eijar` for `-ei`, `hallar` for `-holl` and `stadar` for `-stead`. Every generic's joining form stands in the third column above, so Nalthmark gives Nalthmarkar and Dvalgheim gives Dvalgheimar by following the row.
 
 **A place name's joining form stands as a separate word.** It connects another word with the place across a space, so the Voice of Logstead is _Logstadar Mal_ in two words and the man who holds the seat is Knilthvir Logstadar. The joining forms here do different work: an element's `-s` or `-a` joins pieces inside one word, a god's whole name takes the same `-s` or `-a` at that seam, and a place name's `-ar` stands free beside another word.
 

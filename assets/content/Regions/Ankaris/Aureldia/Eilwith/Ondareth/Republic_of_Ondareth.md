@@ -132,7 +132,7 @@ Ambassador
 - **Veldareth.** Aldrun Somerli presses the Table of Veldareth to say whether its Speaker answers to the [[affiliation-dunavarsynod|Dúnavarre Synod]], and is buying copies of his letters to [[place-ravenmoor|Ravenmoor]].
 - **The upland grazing.** [[affiliation-durrask|The Durrask]] of the Thornwold drove forty brood mares off the republic's eastern upland grazing in the summer, and the herdsmen who followed killed their War-Leader's brother at a ford. The levy has taken the upland breeders' young men north.
 - **The highland nests.** The [[lore-grukaraelwyth|Grukar]] of the Highlands' crags and ravines raid the upland farms and horse runs while the levy takes the herders north: [[place-kingsdelf|Kingsdelf]] under the Three Sisters, [[place-reedgill|Reedgill]] above the lake, Ravenkeld and Stoneholt, and from the Thornwold [[place-aldermire|Aldermire]].
-- **The lake.** At the northern end of [[place-eilissa|Lake Eilìssa]] the reed-cutters of [[place-koldmere|Koldmere]], a free village that sells its fish at Stonyford, and the hill tenants of Aldorath's [[place-brynwold|Brinwold]] cut each other's nets over the reed-beds both claim, and Koldmere has asked the Stonyford senators to take its side at Thornbury.
+- **The lake.** At the northern end of [[place-eilissa|Lake Eilìssa]] the reed-cutters of [[place-koldmere|Koldmere]], a free village that sells its fish at Stoniford, and the hill tenants of Aldorath's [[place-brynwold|Brinwold]] cut each other's nets over the reed-beds both claim, and Koldmere has asked the Stoniford senators to take its side at Thornbury.
 
 ## Relations
 
@@ -262,7 +262,7 @@ are careful to be seen at both temples.
 [[place-kaermouth|Kaermouth]]
 : the frontier legion's town at the northern end of the coast.
 
-[[place-stonyford|Stonyford]]
+[[place-stonyford|Stoniford]]
 : the upland market town and horse fair, on the road from Thornbury to the lake.
 
 [[place-ondareth|Ondareth]]

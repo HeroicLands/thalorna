@@ -174,7 +174,7 @@ economic purpose of the district.
   the only place where Khazari goods enter human hands.
 - [[place-barakth|Hudakal]], the oldest village and the tally-keepers.
 - [[place-vellick|Vellik]], where the smiths are.
-- [[place-stonyhaugh|Stonyhaugh]], the quarry.
+- [[place-stonyhaugh|Stonihaugh]], the quarry.
 - [[place-highfold|Highfold]], the summer pasture.
 - [[place-kalm|Kalm]], the grain valley.
 - [[place-coldbeck|Koldbek]], the mills.
@@ -197,7 +197,7 @@ the history of the two realms with the Deep Folk has gone through Vardain hands.
 ## Current Situation {#present}
 
 - **The Reeve's number.** At the autumn tally the Speaker at the Gate asked the Reeve of the Valleys, [[being-davrimhssk|Davrim Hessek]], how many more mouths the granaries would carry through the winter, because runaways still come over the passes. The Reeve gave him a number, and the Tally-Keeper at Hudakal, [[being-kessatrrk|Kessa Torrek]], has not said whether her tallies agree.
-- **The frost.** A conduit above Kalm failed in the autumn frost and brought down two terraces below it. The engineers mended the conduit within the week and stayed to recut a stretch of the old channel above it, and the masons of Stonyhaugh are rebuilding the terraces before the sowing.
+- **The frost.** A conduit above Kalm failed in the autumn frost and brought down two terraces below it. The engineers mended the conduit within the week and stayed to recut a stretch of the old channel above it, and the masons of Stonihaugh are rebuilding the terraces before the sowing.
 - **The tracks.** A band of [[lore-grukaraelwyth|Grukar]] crossed the high grazing above Highfold and Dorrin in the autumn and reached the hold's outer workings, where the Khazari killed it. The watch at Dorrin did not see it come, and the herders of Highfold have seen a thin figure on the crest above the summer pastures twice since ([[place-hornhall|Hornhall]]).
 
 ## See Also

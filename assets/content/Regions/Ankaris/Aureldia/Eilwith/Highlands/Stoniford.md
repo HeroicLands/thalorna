@@ -1,6 +1,6 @@
 ---
 shortcode: stonyford
-name: {full: Stonyford}
+name: {full: Stoniford}
 type: place
 subType: settlement
 description: "The market town of Ondareth's upland edge, by the Central Highlands, where the road from Thornbury crosses a highland river on a stretch of the old Crown Road, and where the island buys its horses."
@@ -16,11 +16,11 @@ data:
 
 ## Overview {#overview}
 
-**Stonyford** is the market town of [[place-ondareth|Ondareth]]'s eastern upland, at the edge of [[place-cntrlhghlnds|the Central Highlands]], three days' ride up from [[place-thornbury|Thornbury]] and a day short of [[place-eilissa|Lake Eilìssa]]. About two thousand eight hundred people live in it. It stands where the road from the coast crosses a fast highland river at a ford paved with fitted stone, and it is where [[place-eilwith|Eilwìth]] buys its riding horses.
+**Stoniford** is the market town of [[place-ondareth|Ondareth]]'s eastern upland, at the edge of [[place-cntrlhghlnds|the Central Highlands]], three days' ride up from [[place-thornbury|Thornbury]] and a day short of [[place-eilissa|Lake Eilìssa]]. About two thousand eight hundred people live in it. It stands where the road from the coast crosses a fast highland river at a ford paved with fitted stone, and it is where [[place-eilwith|Eilwìth]] buys its riding horses.
 
 ## Arriving {#arriving}
 
-The road climbs out of the coastal fog an hour above the coast, crosses the republic's farmland and upland, and comes to Stonyford across open grazing in sunlight. The last mile into the town runs on a stretch of the old Crown Road of the Joint Crown, laid in blocks no later mason on the island can match, and the ford that gives the town its name is the same stone carried under the water. The town lies along the east bank: one long street of inns, forges and saddlers, the horse-market on the common behind it, and the stone pens where the herds are held for the fair.
+The road climbs out of the coastal fog an hour above the coast, crosses the republic's farmland and upland, and comes to Stoniford across open grazing in sunlight. The last mile into the town runs on a stretch of the old Crown Road of the Joint Crown, laid in blocks no later mason on the island can match, and the ford that gives the town its name is the same stone carried under the water. The town lies along the east bank: one long street of inns, forges and saddlers, the horse-market on the common behind it, and the stone pens where the herds are held for the fair.
 
 ## What the Town Lives By {#what-the-town-lives-by}
 
@@ -28,7 +28,7 @@ Horses. The breeders of the republic's upland and the free steadings of the High
 
 ## Who Rules and Keeps Order {#who-rules}
 
-Stonyford has no magistrate of its own. The great breeders of the district are senators, and they keep its peace through their stewards and its fair-court, which sits on the common during the fairs and settles disputes over a sale before the buyer leaves. The Senate's officers come up from Thornbury when the levy is taken.
+Stoniford has no magistrate of its own. The great breeders of the district are senators, and they keep its peace through their stewards and its fair-court, which sits on the common during the fairs and settles disputes over a sale before the buyer leaves. The Senate's officers come up from Thornbury when the levy is taken.
 
 ## The Present {#present}
 

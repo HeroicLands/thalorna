@@ -330,7 +330,7 @@ This man of hurt, and make his footing sure.
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-doctor}
 Alak, alak, our champion is down!/
 Is there a doktor to be had in town?/
-Ten Bits to any doktor that kan kure/
+Ten Bits to eni doktor that kan kure/
 This man of hurt, and make his footing sure.
 :::
 

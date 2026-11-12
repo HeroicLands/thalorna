@@ -123,7 +123,7 @@ Nothing marks it. Three peaks over open grazing, in the pleasantest country on t
 [[affiliation-repblcndrth|Ondarethan senators]] who keep summer houses within sight of them do not know
 the name means anything.
 
-The herders of [[place-stonyford|Stonyford]] run their horses on the saddle between the peaks in summer, and after heavy rain they turn up iron in the turf: blade-ends, rings of mail, and now and then a worked piece nobody at the fair can name. They sell what they find at the horse fair as curiosities, and a scholar of the [[affiliation-panepistmm|Epistémion]] chapterhouse at [[place-thornbury|Thornbury]] has begun buying every piece before the fair opens. This spring the levy for the frontier is taking the herders north, and fewer of them are on the saddle to find anything, or to watch the runs against the [[lore-grukaraelwyth|Grukar]] of [[place-kingsdelf|Kingsdelf]], the old quarry in the north face of the northernmost peak.
+The herders of [[place-stonyford|Stoniford]] run their horses on the saddle between the peaks in summer, and after heavy rain they turn up iron in the turf: blade-ends, rings of mail, and now and then a worked piece nobody at the fair can name. They sell what they find at the horse fair as curiosities, and a scholar of the [[affiliation-panepistmm|Epistémion]] chapterhouse at [[place-thornbury|Thornbury]] has begun buying every piece before the fair opens. This spring the levy for the frontier is taking the herders north, and fewer of them are on the saddle to find anything, or to watch the runs against the [[lore-grukaraelwyth|Grukar]] of [[place-kingsdelf|Kingsdelf]], the old quarry in the north face of the northernmost peak.
 
 ## See Also
 

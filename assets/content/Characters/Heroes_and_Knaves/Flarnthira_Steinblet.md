@@ -433,7 +433,7 @@ Flarnthira stands 5'11" tall with a medium build. She has light fair skin, dark 
 
 ### Early Life
 
-Born to the [Steinblet clan]{.name data-type="affiliation/lineage"}, stonemasons in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], Flarnthira was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master [Jorun Graywick]{.name data-type="being/npc"}, a potter whose workshop overlooked the [River Vith]{.name data-type="place/feature"}, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
+Born to the [Steinblet clan]{.name data-type="affiliation/lineage"}, stonemasons in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], Flarnthira was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master [Jorun Greivik]{.name data-type="being/npc"}, a potter whose workshop overlooked the [River Vith]{.name data-type="place/feature"}, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
 
 ### Training and Craft
 
@@ -505,7 +505,7 @@ Merchant-Lord [[being-thilmorvthee|Thilmorv the Elder]]
 Lady [[being-skilfrinnaan|Skilfrinna Anthidrok]]
 : A minor noblewoman of impeccable taste who has become Flarnthira's closest thing to a confidante, regularly commissioning decorative ware and providing commissions to others based on her recommendation.
 
-Master Jorun Graywick (Former Master)
+Master Jorun Greivik (Former Master)
 : Though retired, her old mentor still refers commissions to Flarnthira and seeks her counsel on matters of technique; they meet monthly to discuss pottery and life.
 
 ### Enemies

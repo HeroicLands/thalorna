@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-Forty brood mares leave the southern highland grazing in a Durrask raid during the summer of 719. The herdsmen who pursue kill [[being-kadrum|Kadrum]]’s brother at a ford. Now [[place-stonyford|Stonyford]] needs its breeding stock, the levy draws away the riders, and Kadrum offers horses for the killers’ names. The party can recover property, carry testimony or sell a name; those are different acts with different victims.
+Forty brood mares leave the southern highland grazing in a Durrask raid during the summer of 719. The herdsmen who pursue kill [[being-kadrum|Kadrum]]’s brother at a ford. Now [[place-stonyford|Stoniford]] needs its breeding stock, the levy draws away the riders, and Kadrum offers horses for the killers’ names. The party can recover property, carry testimony or sell a name; those are different acts with different victims.
 
 ## What Is Really Happening {#what-is-really-happening}
 
@@ -35,7 +35,7 @@ Kadrum also takes silver from an Aldorathi shore baron to spare that baron’s m
 
 ## The Opening {#opening}
 
-At Stonyford’s pens, a breeder points out the empty spaces between the remaining stock while a levy roll lists the riders serving in the north. A messenger from the Thornwold offers a different payment: horses, in exchange for a list of names. The party can hear both commissions before choosing one.
+At Stoniford’s pens, a breeder points out the empty spaces between the remaining stock while a levy roll lists the riders serving in the north. A messenger from the Thornwold offers a different payment: horses, in exchange for a list of names. The party can hear both commissions before choosing one.
 
 ## Scenes {#scenes}
 
@@ -45,7 +45,7 @@ A letter from Alfmund authorizes payment for animals actually returned, not for 
 
 **Choices and evidence.** Take copies of those records, bring an owner as witness, or accept the messenger’s bargain instead. A rider still under levy cannot leave his post to help without leave. Agree whether the party promises animals, negotiations, or a raid. Each is a different undertaking.
 
-**If bypassed.** The party can approach Kadrum first, but must still establish ownership before selling recovered mares in Stonyford’s fair-court.
+**If bypassed.** The party can approach Kadrum first, but must still establish ownership before selling recovered mares in Stoniford’s fair-court.
 
 ### The ford’s witnesses
 
@@ -98,4 +98,4 @@ The levy keeps the southern grazing thinly watched. Kadrum seeks the killers and
 ## See Also {#see-also}
 
 - [[affiliation-durrask|The Durrask]] · [[being-kadrum|Kadrum]]
-- [[place-thornwold|The Thornwold]] · [[place-stonyford|Stonyford]] · [[place-cntrlhghlnds|The Central Highlands]]
+- [[place-thornwold|The Thornwold]] · [[place-stonyford|Stoniford]] · [[place-cntrlhghlnds|The Central Highlands]]

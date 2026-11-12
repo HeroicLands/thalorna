@@ -37,14 +37,14 @@ The island's reputation abroad is wrong about its people and right about its lan
 - **No signal from the pass.** A relief patrol climbs to [[place-sunderwynd|Sunderwiind]]. [[scenario-hangingdead|The Hanging Dead of the Ironfells]] begins when the road closes behind it.
 - **Three nights in the wood.** [[being-neilwa|Neilwa]] asks for passage to her people’s dead; the Order posts the paths. [[scenario-seilvririte|Three Nights for the Hushwood]] can begin among the Seilvri or with a commission from the Order.
 - **A boat and two cutters.** [[being-elfithwgdn|Elfith Wigden]] wants an account of Koldmere’s missing people and equipment. [[scenario-reedgillnets|Nets from Both Shores]] takes the party onto disputed reed-beds below [[place-reedgill|Reedgill]].
-- **Horses for a name.** The highland breeders want their mares back, and [[being-kadrum|Kadrum]] wants the names of his brother’s killers. [[scenario-durraskcount|Forty Mares and One Name]] carries those offers between Stonyford and the Thornwold.
+- **Horses for a name.** The highland breeders want their mares back, and [[being-kadrum|Kadrum]] wants the names of his brother’s killers. [[scenario-durraskcount|Forty Mares and One Name]] carries those offers between Stoniford and the Thornwold.
 - **Service beyond the island.** The Synod needs staff for a diplomatic mission. [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]] opens its mainland adventures with a commission at Péravel.
 
 ## An Eilwìth Campaign {#campaign}
 
 A company can begin at Ravenmoor with a commission and a reason to travel: recovering property, carrying petitions, serving an embassy or escorting people whom a court refuses to hear. Agree whose authority the characters accept, what payment they expect and which promises they make in their own names. A sealed letter has a different reach in Aldorath’s manors, the Durrask steads and the Seilvri woods.
 
-The island’s roads and water connect the work. Dunmere gives access to the old southern road; the Greilevels lead out from Greiwater; Kaerwiind watches the approaches to the Ironfells. Koldmere and Stonyford put the company among people who need boats, grazing and riders while the realms demand service. Let a delivered message, a recovered object or a person brought home establish the next relationship. Each adventure has an outcome worth playing on its own.
+The island’s roads and water connect the work. Dunmere gives access to the old southern road; the Greilevels lead out from Greiwater; Kaerwiind watches the approaches to the Ironfells. Koldmere and Stoniford put the company among people who need boats, grazing and riders while the realms demand service. Let a delivered message, a recovered object or a person brought home establish the next relationship. Each adventure has an outcome worth playing on its own.
 
 The Order wages a crusade against the Seilvri, a people defending their homes. Characters serving the Order can confront what its commission requires; characters entering through Teilvari can help people whose rites and ground the kingdom denies. Choosing an employer does not decide a character’s conscience in advance.
 

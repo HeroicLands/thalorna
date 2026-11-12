@@ -200,7 +200,7 @@ And oaks stood up akross the road,/
 A bank of them, a row.
 
 No gate was there, no stile, no stone,/
-That any man set bi./
+That eni man set bi./
 The road ran up unto the oaks/
 And stopped, as a man might die.
 
@@ -217,7 +217,7 @@ I prai thee, be it told.»
 The tall one looked along the road,/
 And looked upon the kine,/
 And not a word he gave the lad,/
-Nor any kind of sign.
+Nor eni kind of sign.
 
 Then Edwald said, «Good sir, good sir,/
 I ask of thee no more/

@@ -39,9 +39,9 @@ Elfith Wigden is a 37-year-old woman of 5'6" and medium build, with fair, weathe
 
 **Age 37. Reed-reeve of Koldmere. Wants the village's boats back and the reed-beds left to it.**
 
-Elfith Wigden has been the reed-reeve of [[place-koldmere|Koldmere]], a free village on the north-western shore of [[place-eilissa|Lake Eilìssa]], for four springs running. She sets the days of the cutting, keeps the village's boats and speaks for it to the Ondarethan senators at [[place-stonyford|Stonyford]], who buy its fish and reed.
+Elfith Wigden has been the reed-reeve of [[place-koldmere|Koldmere]], a free village on the north-western shore of [[place-eilissa|Lake Eilìssa]], for four springs running. She sets the days of the cutting, keeps the village's boats and speaks for it to the Ondarethan senators at [[place-stonyford|Stoniford]], who buy its fish and reed.
 
-The best of the village's reed-beds lie at the lake's northern end, where the hill tenants of [[place-brynwold|Brinwold]] in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] claim them too. This winter Brinwold's men took two Koldmere boats and the reed in them. Elfith has asked the Stonyford senators to take the matter to [[place-thornbury|Thornbury]] and put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village, and they have promised to.
+The best of the village's reed-beds lie at the lake's northern end, where the hill tenants of [[place-brynwold|Brinwold]] in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] claim them too. This winter Brinwold's men took two Koldmere boats and the reed in them. Elfith has asked the Stoniford senators to take the matter to [[place-thornbury|Thornbury]] and put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village, and they have promised to.
 
 ## Psyche
 
@@ -69,7 +69,7 @@ The reed-cutters and fishers of Koldmere.
 
 ### Patrons
 
-Elfith has no patron. The senators of Stonyford promise help and send none.
+Elfith has no patron. The senators of Stoniford promise help and send none.
 
 ### Enemies
 

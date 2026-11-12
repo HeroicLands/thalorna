@@ -59,9 +59,9 @@ gorges of its northern edge and the wooded ravines above [[place-eilissa|Lake Ei
 upland farms and horse runs, and the northern shore of the lake.
 
 - **[[place-kingsdelf|Kingsdelf]]**, a Khazari quarry of the Joint Crown in the north face of the northernmost of the Three Sisters.
-  - _Territory:_ the cut galleries, the saddle between the peaks where the [[place-stonyford|Stonyford]] breeders run their horses, and the folds below.
+  - _Territory:_ the cut galleries, the saddle between the peaks where the [[place-stonyford|Stoniford]] breeders run their horses, and the folds below.
   - _Covets:_ the galleries themselves, dry, deep and easy to hold, with a Khazari cistern at their far end.
-  - _Enemy:_ the Stonyford breeders, and the nest at Ravenkeld, which raids the same steadings from the north.
+  - _Enemy:_ the Stoniford breeders, and the nest at Ravenkeld, which raids the same steadings from the north.
   - _Now:_ the Senate's levy is taking the herders north and the runs lie half watched. The spawner has laid Hushk to take them, and an old Hushk, [[being-greytusk|Greytusk]], leads the raids while the new clutch grows.
 - **[[place-reedgill|Reedgill]]**, dens dug in the banks of a wooded ravine above Lake Eilìssa's northern bays.
   - _Territory:_ the ravine, the moor's edge above it, and the reed-beds and bays at its foot.
@@ -77,7 +77,7 @@ upland farms and horse runs, and the northern shore of the lake.
   - _Territory:_ the crags and the southern horse-grazing below them.
   - _Covets:_ the brood mares and foals of the southern breeders.
   - _Enemy:_ [[affiliation-durrask|the Durrask]], who take the same horses, and the breeders who ride after both.
-  - _Now:_ the Durrask drove forty mares off the grazing in the summer and left less to take. The nest raids farther west, toward the runs below Stonyford, and the breeders count its losses against the Durrask.
+  - _Now:_ the Durrask drove forty mares off the grazing in the summer and left less to take. The nest raids farther west, toward the runs below Stoniford, and the breeders count its losses against the Durrask.
 
 :::secret {title="Reedgill and the reed-bed quarrel"}
 Two shores working one set of beds put too many people on the water for a raid to go unseen, so the nest's Sha, Stillwader, keeps the shores watching each other instead of the ravine. The raiders cut nets on both shores and took Koldmere's lost boat and cutters.

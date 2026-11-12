@@ -117,7 +117,7 @@ And the hollow was here ere the king had a hall.
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=return}
 Thou art kome from Dunmere with a lord at each hand,/
 And the lake town is rich, and the lake town is grand,/
-But the hollow is older than any townes wall,/
+But the hollow is older than eni townes wall,/
 And the hollow was here ere the king had a hall.
 :::
 
@@ -182,7 +182,7 @@ Shall answer the swainmote upon the next morn.
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=asking}
 The wood on the hill is the kinges and the deeres,/
-And the deer haven had akorns these many long years,/
+And the deer haven had akorns these meni long years,/
 But the hind that goeth up for a bundle of thorn/
 Shall answer the swainmote upon the nekst morn.
 :::

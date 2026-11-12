@@ -98,7 +98,7 @@ Durrask speech is its own, and no [[skill-aelwthlng|Eilwìthi]] element builds i
 ## Hooks {#hooks}
 
 - **The count.** A Grey Head will take a stranger to the autumn fire to hear the count, and will name what any one death on it would cost to settle.
-- **The mares.** A Stonyford breeder pays for the return of her brood mares and does not mind who she pays.
+- **The mares.** A Stoniford breeder pays for the return of her brood mares and does not mind who she pays.
 - **The brother.** Kadrum wants the names of the herdsmen who killed his brother at the ford, and he knows they are on the southern grazing still.
 
 ## See Also

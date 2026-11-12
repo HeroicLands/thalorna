@@ -33,7 +33,7 @@ is still cloak weather by the measure of [[place-provenzrgn|Provénzia]].
 
 Cattle and sheep on the open grazing, oats and barley in the sheltered folds, and a good deal of horse
 breeding—the Highlands and the republic's upland edge beside them supply most of the island's riding stock, and
-the steadings sell their young horses at the fair at [[place-stonyford|Stonyford]], over the border in Ondareth. It is
+the steadings sell their young horses at the fair at [[place-stonyford|Stoniford]], over the border in Ondareth. It is
 prosperous in a modest, unspectacular way.
 
 Along the border, on Ondareth's side of it, a great many senators keep country houses within sight of the peaks, for
@@ -41,9 +41,9 @@ reasons of climate that everyone understands and nobody in [[place-thornbury|Tho
 
 ## Current Situation {#present}
 
-- **The levy.** The Senate has voted the frontier legion at [[place-kaermouth|Kaermouth]] another legion's levies, and the recruiting officers are taking the republic's upland men at the spring fair at Stonyford, on the Highlands' border. The horse-breeders want their herdsmen left to them, and one of the year's _tavoi_, [[being-alfmundkrtn|Alfmund Kaerton]], is himself a Stonyford breeder taking the levy north. The free steadings send their herdsmen into the hills until the officers have gone.
-- **The reed-beds.** At the northern end of the lake the reed-cutters of [[place-koldmere|Koldmere]] and the hill tenants of [[place-brynwold|Brinwold]] claim the same beds, and each side cuts the other's nets and impounds the other's boats. Koldmere asks the Stonyford senators who buy its fish to speak for it at Thornbury, Brinwold's barons carry their side to Dunmere, and the quarrel stays unsettled each year.
-- **The Grukar.** The [[lore-grukaraelwyth|Grukar]] of the Highlands keep to its rocky and wooded ground and raid the open grazing. The nest at [[place-kingsdelf|Kingsdelf]], in the old quarry under the northernmost of the Three Sisters, takes foals from the Stonyford runs while the levy takes the herders north. The nest at [[place-reedgill|Reedgill]] raids the reed-beds at the lake's northern end. Ravenkeld, in a wooded gorge at the northern edge, takes the northern steadings' cattle, and Stoneholt, in the wooded crags above the lake's south-western shore, takes the foals the Durrask leave.
+- **The levy.** The Senate has voted the frontier legion at [[place-kaermouth|Kaermouth]] another legion's levies, and the recruiting officers are taking the republic's upland men at the spring fair at Stoniford, on the Highlands' border. The horse-breeders want their herdsmen left to them, and one of the year's _tavoi_, [[being-alfmundkrtn|Alfmund Kaerton]], is himself a Stoniford breeder taking the levy north. The free steadings send their herdsmen into the hills until the officers have gone.
+- **The reed-beds.** At the northern end of the lake the reed-cutters of [[place-koldmere|Koldmere]] and the hill tenants of [[place-brynwold|Brinwold]] claim the same beds, and each side cuts the other's nets and impounds the other's boats. Koldmere asks the Stoniford senators who buy its fish to speak for it at Thornbury, Brinwold's barons carry their side to Dunmere, and the quarrel stays unsettled each year.
+- **The Grukar.** The [[lore-grukaraelwyth|Grukar]] of the Highlands keep to its rocky and wooded ground and raid the open grazing. The nest at [[place-kingsdelf|Kingsdelf]], in the old quarry under the northernmost of the Three Sisters, takes foals from the Stoniford runs while the levy takes the herders north. The nest at [[place-reedgill|Reedgill]] raids the reed-beds at the lake's northern end. Ravenkeld, in a wooded gorge at the northern edge, takes the northern steadings' cattle, and Stoneholt, in the wooded crags above the lake's south-western shore, takes the foals the Durrask leave.
 - **The summer houses.** The senators' country houses on the border stand empty most of the year, and their stewards buy up any highland steading whose family falls behind on its debts.
 
 ## Settlements {#settlements}
@@ -51,13 +51,13 @@ reasons of climate that everyone understands and nobody in [[place-thornbury|Tho
 [[place-koldmere|Koldmere]]
 : the reed-cutters' and fishers' free village on the lake's north-western shore.
 
-Stonyford, the horse fair where the steadings sell their stock, stands just over the border in Ondareth.
+Stoniford, the horse fair where the steadings sell their stock, stands just over the border in Ondareth.
 
 The rest of the Highlands' people live on scattered steadings and in hamlets of a few households in the sheltered folds, with the grazing between them open to the sky.
 
 ## See Also
 
 - [[affiliation-repblcndrth|Republic of Ondareth]] · [[place-ondareth|Ondareth]]—the republic's land to the west
-- [[place-stonyford|Stonyford]] · [[place-koldmere|Koldmere]]
+- [[place-stonyford|Stoniford]] · [[place-koldmere|Koldmere]]
 - [[place-eilissa|Lake Eilìssa]]—the great central lake at the Highlands' eastern edge
 - [[place-threesisters|The Three Sisters]]
