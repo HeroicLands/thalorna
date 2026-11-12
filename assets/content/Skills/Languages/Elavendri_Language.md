@@ -2281,13 +2281,13 @@ data:
       gloss: fear; apprehension of danger
       source: {kind: borrowed, language: skill-aelendlng, form: dhoris}
       concept: fear
-    - form: gaeldis
+    - form: geildis
       class: n
       field: The body and the dead
       gloss: shame; the feeling of having fallen short of one's own or others' standards
       source: {kind: borrowed, language: skill-aelendlng, form: ghaldis}
       concept: shame
-    - form: daernis
+    - form: darnis
       class: n
       field: The body and the dead
       gloss: guilt; the troubled feeling that one has done wrong
@@ -2305,7 +2305,7 @@ data:
       gloss: confidence; trust in one's own ability or success
       source: {kind: borrowed, language: skill-aelendlng, form: tenghis}
       concept: confidence
-    - form: geildis
+    - form: geldis
       class: n
       field: The body and the dead
       gloss: embarrassment; discomfort at unwanted attention or social awkwardness
@@ -2329,7 +2329,7 @@ data:
       gloss: confusion; inability to make sense of something
       source: {kind: borrowed, language: skill-aelendlng, form: ghendris}
       concept: confusion
-    - form: gaer
+    - form: geir
       class: adj
       field: Color and the look of things
       gloss: overwhelming; immense in size or degree
@@ -2340,11 +2340,11 @@ data:
       field: Doing, going and being
       gloss: sustained; kept over a long time
       source: {kind: borrowed, language: skill-aelendlng, form: ghren}
-    - form: gaer douris
+    - form: geir douris
       class: n
       field: The body and the dead
       gloss: terror; overwhelming fear
-      built: [gaer, douris]
+      built: [geir, douris]
       concept: terror
     - form: gryen geirasa
       class: n
@@ -2358,11 +2358,11 @@ data:
       gloss: longing; a sustained yearning for something absent
       built: [gryen, ilnis]
       concept: longing
-    - form: gaer rondis
+    - form: geir rondis
       class: n
       field: The body and the dead
       gloss: awe; wonder and admiration so great that they humble the person feeling them
-      built: [gaer, rondis]
+      built: [geir, rondis]
       concept: awe
     - form: geilnis
       class: n
@@ -2400,7 +2400,7 @@ data:
       gloss: the tongue; the organ inside the mouth used in tasting and speaking
       source: {kind: borrowed, language: skill-aelendlng, form: ghalis}
       concept: tongue
-    - form: geirnis
+    - form: gernis
       class: n
       field: The body and the dead
       gloss: a cheek
@@ -2442,7 +2442,7 @@ data:
       gloss: the liver
       source: {kind: borrowed, language: skill-aelendlng, form: dhermon}
       concept: liver
-    - form: gaernon
+    - form: garnon
       class: n
       field: The body and the dead
       gloss: the penis
@@ -2514,17 +2514,17 @@ data:
       gloss: weak; lacking strength
       source: {kind: borrowed, language: skill-aelendlng, form: anghendar}
       concept: weak
-    - form: gaeri
+    - form: geiri
       class: adv
       field: Color and the look of things
       gloss: very; to a high degree
       source: {kind: borrowed, language: skill-aelendlng, form: ghuri}
       concept: very
-    - form: gaeri gaeri dielar
+    - form: geiri geiri dielar
       class: adj
       field: The body and the dead
       gloss: exhausted; extremely tired
-      built: [gaeri, gaeri, dielar]
+      built: [geiri, geiri, dielar]
       concept: exhausted
     - form: rusnar geilmar
       class: adj
@@ -2658,7 +2658,7 @@ data:
       gloss: a cloak; an outer cloth thrown over the shoulders
       source: {kind: borrowed, language: skill-aelendlng, form: ghalkis}
       concept: cloak
-    - form: geiron
+    - form: gerone
       class: n
       field: The hall and the guest
       gloss: metal; the material worked at a forge
@@ -2736,7 +2736,7 @@ data:
       gloss: through; by way of an interior; precedes the thing passed through
       source: {kind: borrowed, language: skill-aelendlng, form: ghrel}
       concept: through
-    - form: gaende
+    - form: gande
       class: part
       field: Numbers and grammar words
       gloss: across; from one side to the other of the thing named after it
@@ -2916,13 +2916,13 @@ data:
       gloss: constrained in action; not free to act
       source: {kind: borrowed, language: skill-aelendlng, form: angholnar}
       concept: constrained
-    - form: deirnar
+    - form: dernar
       class: adj
       field: Doing, going and being
       gloss: intended; meant to happen through someone's purpose
       source: {kind: borrowed, language: skill-aelendlng, form: dhernar}
       concept: intended
-    - form: andeirnar
+    - form: andernar
       class: adj
       field: Doing, going and being
       gloss: accidental; happening without intention
@@ -3143,7 +3143,7 @@ data:
       gloss: except; excludes the person or thing named after it
       source: {kind: borrowed, language: skill-aelendlng, form: dheks}
       concept: except
-    - form: geiri
+    - form: geri
       class: adv
       field: Numbers and grammar words
       gloss: even; marks an included case that exceeds expectation
@@ -3299,13 +3299,13 @@ data:
       gloss: a command; an instruction given with authority
       source: {kind: borrowed, language: skill-aelendlng, form: ghroson}
       concept: command-noun
-    - form: daernar
+    - form: deirnar
       class: adj
       field: The Pact, the oath and the judgment
       gloss: right; morally acceptable
       source: {kind: borrowed, language: skill-aelendlng, form: dharnar}
       concept: right-ethical
-    - form: andaernar
+    - form: andeirnar
       class: adj
       field: The Pact, the oath and the judgment
       gloss: wrong; morally unacceptable
@@ -3341,7 +3341,7 @@ data:
       gloss: wealth; an abundance of valuable possessions or resources
       source: {kind: borrowed, language: skill-aelendlng, form: ghulnis}
       concept: wealth
-    - form: gaeron
+    - form: geiron
       class: n
       field: Doing, going and being
       gloss: a thing; any object, matter or item under discussion
@@ -3365,7 +3365,7 @@ data:
       gloss: a cause; something that brings an event or condition about
       source: {kind: borrowed, language: skill-aelendlng, form: gharron}
       concept: cause
-    - form: gaernis
+    - form: geirnis
       class: n
       field: Doing, going and being
       gloss: an effect; a result brought about by a cause
@@ -3521,17 +3521,17 @@ data:
       gloss: a quarter; half of a half
       built: [dyema, dyema]
       concept: quarter
-    - form: geirin thinar ukal derar gaeron
+    - form: geirin thinar ukal derar geiron
       class: adv
       field: Numbers and grammar words
       gloss: most; more in quantity or degree than each other thing in the comparison
-      built: [geirin, thinar, ukal, derar, gaeron]
+      built: [geirin, thinar, ukal, derar, geiron]
       concept: most
-    - form: thyenen thinar ukal derar gaeron
+    - form: thyenen thinar ukal derar geiron
       class: adv
       field: Numbers and grammar words
       gloss: least; less in quantity or degree than each other thing in the comparison
-      built: [thyenen, thinar, ukal, derar, gaeron]
+      built: [thyenen, thinar, ukal, derar, geiron]
       concept: least
     - form: uk threl thend
       class: pron
@@ -3773,11 +3773,11 @@ data:
       gloss: for example; a single illustration of the claim
       built: [uk, dírmalis]
       concept: for-example
-    - form: gaeri gaeri lunnar
+    - form: geiri geiri lunnar
       class: adj
       field: Color and the look of things
       gloss: tiny; extremely small
-      built: [gaeri, gaeri, lunnar]
+      built: [geiri, geiri, lunnar]
       concept: tiny
     - form: geirin geildar
       class: adj
@@ -3791,23 +3791,23 @@ data:
       gloss: worse; bad to a greater degree than the thing compared
       built: [geirin, angeildar]
       concept: worse
-    - form: geirin geildar thinar ukal derar gaeron
+    - form: geirin geildar thinar ukal derar geiron
       class: adj
       field: Color and the look of things
       gloss: best; better than each other thing in the comparison
-      built: [geirin, geildar, thinar, ukal, derar, gaeron]
+      built: [geirin, geildar, thinar, ukal, derar, geiron]
       concept: best
-    - form: geirin angeildar thinar ukal derar gaeron
+    - form: geirin angeildar thinar ukal derar geiron
       class: adj
       field: Color and the look of things
       gloss: worst; worse than each other thing in the comparison
-      built: [geirin, angeildar, thinar, ukal, derar, gaeron]
+      built: [geirin, angeildar, thinar, ukal, derar, geiron]
       concept: worst
-    - form: gaeri gaeri
+    - form: geiri geiri
       class: adv
       field: Color and the look of things
       gloss: extremely; to an exceptionally high degree
-      built: [gaeri, gaeri]
+      built: [geiri, geiri]
       concept: extremely
     - form: goul antemar
       class: adj
@@ -3845,11 +3845,11 @@ data:
       gloss: a crowd; many people gathered in one place
       built: [gurnar, kendon]
       concept: crowd
-    - form: gaer tergon
+    - form: geir tergon
       class: n
       field: Doing, going and being
       gloss: a transformation; a change that gives a substantially different form or nature
-      built: [gaer, tergon]
+      built: [geir, tergon]
       concept: transformation
     - form: reida rith tose
       class: n
@@ -3977,11 +3977,11 @@ data:
       gloss: really; is that true; a fixed surprised request for confirmation
       built: [he, en, to, tenar]
       concept: expression-really
-    - form: noth gaeri
+    - form: noth geiri
       class: part
       field: The hall and the guest
       gloss: not at all; a fixed emphatic conversational denial
-      built: [noth, gaeri]
+      built: [noth, geiri]
       concept: expression-not-at-all
     - form: targathen
       class: v
@@ -7335,6 +7335,32 @@ data:
       instead: Varlan Gárath
       why: "a sound Élavendri lacks: w, and a final nth"
     - {form: Fálena Bryndal, instead: Válena Drindal, why: "a sound Élavendri lacks: f, b and y"}
+    - form: andaernar
+      instead: andeirnar
+      why: "respelled to the guide: the vowel of day is written ei"
+    - form: daernar
+      instead: deirnar
+      why: "respelled to the guide: the vowel of day is written ei"
+    - form: gaeldis
+      instead: geildis
+      why: "respelled to the guide: the vowel of day is written ei"
+    - {form: gaeri, instead: geiri, why: "respelled to the guide: the vowel of day is written ei"}
+    - form: gaernis
+      instead: geirnis
+      why: "respelled to the guide: the vowel of day is written ei"
+    - form: gaeron
+      instead: geiron
+      why: "respelled to the guide: the vowel of day is written ei"
+    - {form: gaer, instead: geir, why: "respelled to the guide: the vowel of day is written ei"}
+    - form: daernis
+      instead: darnis
+      why: "respelled to the guide, and given a form of its own because the ei spelling is another word"
+    - form: gaende
+      instead: gande
+      why: "respelled to the guide, and given a form of its own because the ei spelling is another word"
+    - form: gaernon
+      instead: garnon
+      why: "respelled to the guide, and given a form of its own because the ei spelling is another word"
     - form: Gaelgathen
       instead: Geilgathen
       why: "respelled to the guide: the vowel of day is written ei"
@@ -7626,17 +7652,17 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 _Dárkathen munde merlis_ means "I hold joy", a sudden gladness; _dárkathen munde merlon_ means "I hold happiness", a continuing gladness. _Dárkathen munde losnis_ names pleasure and _dárkathen munde tendaris_ names contentment. These are concrete expressions of the speaker's emotional state. _Dárkathen munde déirison gyerth tose_, "I hold trust toward you", says that the speaker relies on the other's keeping of their word, with the Pact at the heart of _déirison_. _Tengis_ is confidence in ability or success, _tendris_ is conviction that a claim is true, and _thénnairsa_ is truth itself.
 
-The loves remain distinct: _méldaris_ is romantic love, _ánsevirsa_ friendship, _kéinalis_ family love, and _ílthamon_ selfless love given to all. _Gérmisa_ is sexual lust. The other feeling expressions give their own pieces in their cited order: _gaer douris_, "overwhelming fear; terror", _gryen geirasa_, "sustained anger; resentment", _gryen ilnis_, "sustained desire; longing", and _gaer rondis_, "overwhelming admiration; awe". They describe human feeling in ordinary life.
+The loves remain distinct: _méldaris_ is romantic love, _ánsevirsa_ friendship, _kéinalis_ family love, and _ílthamon_ selfless love given to all. _Gérmisa_ is sexual lust. The other feeling expressions give their own pieces in their cited order: _geir douris_, "overwhelming fear; terror", _gryen geirasa_, "sustained anger; resentment", _gryen ilnis_, "sustained desire; longing", and _geir rondis_, "overwhelming admiration; awe". They describe human feeling in ordinary life.
 
-The physical tongue is _geilis_; _óstila_ is speech or language. _Kenlon_ names a child whether named or unnamed, while _lyegon_ is the child before naming. _Hendron_ is the physical hearth, and _kéirathon_ its kept fire. _Gyernis_ is a thigh and _gurnis_ a testicle. _Nyemon_ is breath. _Nyémathen munde rith_, "I breathe in", and _nyémathen munde gounel_, "I breathe out", give the directions in these two bodily utterances. _Nond geindathen munde góldathen nyemon_, "I cannot take breath", reports suffocation when breath is blocked or breathable air is absent. _Grunathen munde ruskis_, "I feel pain", names bodily sensation. _Rusnar geilmar_, "feverish", names the heat of illness; _gaeri gaeri dielar_, "exhausted", uses the degree adverb _gaeri_ twice with tiredness.
+The physical tongue is _geilis_; _óstila_ is speech or language. _Kenlon_ names a child whether named or unnamed, while _lyegon_ is the child before naming. _Hendron_ is the physical hearth, and _kéirathon_ its kept fire. _Gyernis_ is a thigh and _gurnis_ a testicle. _Nyemon_ is breath. _Nyémathen munde rith_, "I breathe in", and _nyémathen munde gounel_, "I breathe out", give the directions in these two bodily utterances. _Nond geindathen munde góldathen nyemon_, "I cannot take breath", reports suffocation when breath is blocked or breathable air is absent. _Grunathen munde ruskis_, "I feel pain", names bodily sensation. _Rusnar geilmar_, "feverish", names the heat of illness; _geiri geiri dielar_, "exhausted", uses the degree adverb _geiri_ twice with tiredness.
 
-The household words retain their different uses. _Ómbela_ is a chair, _mórvalis_ a table, _zúndela_ a lock and _kézra_ a key. _Gorth thodkis_ is a boot, the high foot covering. _Sira mirlis_ is water-soaked earth, mud. _En munde dielar_ means "I am tired", using the existing copula. _En munde gaeri gaeri dielar_ means "I am extremely tired". _Ryenathen munde rith soldar rundis_, "I speak in a loud voice", is a shout; _ryenathen munde rith nyemon rundis_, "I speak in the breath voice", is a whisper, the unvoiced manner of speech.
+The household words retain their different uses. _Ómbela_ is a chair, _mórvalis_ a table, _zúndela_ a lock and _kézra_ a key. _Gorth thodkis_ is a boot, the high foot covering. _Sira mirlis_ is water-soaked earth, mud. _En munde dielar_ means "I am tired", using the existing copula. _En munde geiri geiri dielar_ means "I am extremely tired". _Ryenathen munde rith soldar rundis_, "I speak in a loud voice", is a shout; _ryenathen munde rith nyemon rundis_, "I speak in the breath voice", is a whisper, the unvoiced manner of speech.
 
 The physical wood and weather words come through Áelendi. _Pelvai_ names any cloud here, and _nyelke_ any plant root; the Áelendi parent words have those broad uses, beside their Senali sources' low cloud and deep root. _Ravale_ is rain and _salve_ a tree. A weather report can put the existence verb first: _elnathen nonduk pelvai_, "no cloud exists; the weather is clear", or _elnathen gurnar pelvai_, "many clouds exist; it is cloudy". The separate river and lake words keep their scopes: _sirnon_ is a river above or below the tree line, _lántheve_ the river below it; _dulnon_ is a lake in any setting and _dulna_ the tarn in its corrie.
 
 _Rith ordur taldis_ says "in position four; fourth". Another numeral names its own position in that expression: _rith reithik taldis_, "fifth", and _rith teihes taldis_, "tenth". _Ta teihes_, "two tens", is twenty; _dyema dyema_, "half of a half", is a quarter. _Uk threl thend_, "one from the two", selects either member of a pair, while _nonduk threl thend_, "none from the two", selects neither. _Rith kren miron_, _rith nonduk miron_ and _rith alnar miron_ say "in some place", "in no place" and "in all places".
 
-The comparison expressions name the measure and its set. _Geirin geildar_ is "better", good to a greater degree, and _geirin geildar thinar ukal derar gaeron_ is "best", better than each other thing in the comparison. _Geirin thinar ukal derar gaeron_ is "most" and _thyenen thinar ukal derar gaeron_ "least", more or less than each other thing. _Gaeri gaeri_ gives extreme degree, as in _gaeri gaeri lunnar_, "tiny; extremely small". _Goul antemar_ and _send antemar_ give too much and too little: a great or small quantity that fails the fitting measure.
+The comparison expressions name the measure and its set. _Geirin geildar_ is "better", good to a greater degree, and _geirin geildar thinar ukal derar geiron_ is "best", better than each other thing in the comparison. _Geirin thinar ukal derar geiron_ is "most" and _thyenen thinar ukal derar geiron_ "least", more or less than each other thing. _Geiri geiri_ gives extreme degree, as in _geiri geiri lunnar_, "tiny; extremely small". _Goul antemar_ and _send antemar_ give too much and too little: a great or small quantity that fails the fitting measure.
 
 These expressions name a time or an occasion. _Ti kyeron_ is today, this day; _murnel óssenda_ is midnight, the middle of the night. _Rith kurnis kirdis_ means "during the feast", in the feast's time. _Kirdin_ is a countable occasion: _nal uk kirdin_, "once", _nal ta kirdin_, "twice", and _nal gurnar kirdin_, "repeatedly". _Nal treinen kirdin_ and _nal déilamen kirdin_ put an event at the first and next occasion in sequence; _nal dyelon_ marks its final point. _Grend_ means again, a recurrence of the action in question. _Nond geinde_ says that an expected event has not happened yet.
 

@@ -40,7 +40,7 @@ No magic
 
 ## Naming and Honors
 
-A scholar whose reading of the heavens changes the empire's course may be granted a personal name, and scholars' names are drawn from the stars and the auspicious signs: Zhi Zhai Leng Cheng (Rising Bright Star Bird) and Teng Zho Leng Wuen (Fifth Auspicious Star of the Celestial Dragon). [[lore-personlnms|Personal Names]] describes the grant.
+A scholar whose reading of the heavens changes the empire's course may be granted a personal name, and scholars' names are drawn from the stars and the auspicious signs: Zhi Zhai Leng Cheng (Rising Bright Star Bird) and Teng Zho Leng Chi (Fifth Auspicious Star of the Celestial Dragon). [[lore-personlnms|Personal Names]] describes the grant.
 
 ## Elder Scholars
 

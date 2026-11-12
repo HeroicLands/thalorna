@@ -599,7 +599,7 @@ data:
       gloss:
         - demon, fiend
         - sound, voice
-        - permission; leave granted to perform an act. This separate reading is inherited from mainland yuo; the other stated meanings retain their established use
+        - permission; leave granted to perform an act. This separate reading is inherited from mainland zhyau; the other stated meanings retain their established use
       concept: [hear-noun, voice]
       source: {kind: inherited}
     - form: je
@@ -7210,7 +7210,7 @@ GROUP BY position, gloss ORDER BY position
 | `tsu`  | _tou_ earth; _tsou_ tribe          |
 | `zen`  | _zhen_ snow; _zhin_ boar           |
 | `chen` | _chwen_ frost; _chen_ emperor      |
-| `wen`  | _wuen_ five; _wen_ center          |
+| `wen`  | _chi_ five; _wen_ center           |
 | `hen`  | _hwen_ chaos; _hen_ tiger          |
 | `mu`   | _mou_ wood; _mwo_ green            |
 | `nu`   | _nou_ field; _nwi_ bound           |

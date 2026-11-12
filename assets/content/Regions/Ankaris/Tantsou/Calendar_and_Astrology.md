@@ -85,7 +85,7 @@ Format
 : "Year X of the [Emperor's Name] Emperor of the [Dynasty Name] Dynasty"
 
 Example
-: **"Year 5 of the Zhwozho Emperor of the Tanzho Dynasty"** (Tanzho Zhwozho Wuen Nye)
+: **"Year 5 of the Zhwozho Emperor of the Tanzho Dynasty"** (Tanzho Zhwozho Chi Nye)
 
 **Era-Based:** Each emperor's reign constitutes a separate administrative era. When a new emperor receives the [[lore-mandatehvn|Mandate of Heaven]], a new era begins and the year count resets. Documents of the old era stay valid and must be cross-referenced to the new one, and every succession sets whole bureaus of scholars to that work for years.
 
@@ -176,7 +176,7 @@ Time
 Castes Involved
 : Zhazho (Emperor and Warlords lead the audit), Tanchei (process divinations and verify the cosmic accounts), Wandwo (perform the magical workings that formally open the new filing cycle), Nouwen (community participation registers the population's collective Lei)
 
-## Festival of the Five Elements (Wuen Tsai Jwi)
+## Festival of the Five Elements (Chi Tsai Jwi)
 
 A five-day festival in which each day is dedicated to one of the primary elemental classifications. Its purpose is to confirm that the elements are holding: that air still behaves as air, fire as fire and earth as earth. Each day's rituals are specifically designed to test and reinforce one element: kites and bells on the day of Air, forge-work on the day of Metal, purification burning on the day of Fire, water rituals on the day of Water, construction on the day of Earth.
 

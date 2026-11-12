@@ -184,7 +184,7 @@ Pírnathen gene. Elnathen saldren rith al lonke, reik árnathen al pirnis threl 
 
 Tórnathen kendar al ganda rith al neldra áurossen. Hórmathen tose to. Hóuthathen gene, nond al thoudra geile al rounthil, reik dúlkathen al rounel sulner, tik, tik, tik, reik nond térgathen gene. Tórnathen gene grend, nal ha kirdin, nond soldar. Leignar. Hórmathen gene «Uk leigkon.» Nond ágrathen tose al héilalon giethe tosri heldon, nond rith ti lirve, nond rith alnar al thargalon. Róunithen gene, reik órnathen gene al ganda.
 
-En gene gorth. To ryenathen geinal nal treinen. Gorth geirin thinar al ganda, gase róugathen gene rith giethe gene, reik nond kurdathen gene. Dárkathen gene uk gélmira, mougathen tose gene gyese geindathen tose mougathen gene. Nond geindathen kendar ryenathen dren al lirnis al dyelin, gose he dárkathen gene tharsa geile al dranis. Al geilkis en géstaren, gose al náldursa en. Geile gene en al múnsala al lonke, nond al láuvine reik al myelve, gase al nelmis, al mannar salve rith gene. En gene threl úlvaldevan. Nond al mouglar elthon al lonke, nóurethen tose geinra kren kirdis nal al rinel, gorth reik rith saldren. Kendon en geinra. Ti en uk derar gaeron, reik sárgathen gene to geithe sárgathen tose al geilmar.
+En gene gorth. To ryenathen geinal nal treinen. Gorth geirin thinar al ganda, gase róugathen gene rith giethe gene, reik nond kurdathen gene. Dárkathen gene uk gélmira, mougathen tose gene gyese geindathen tose mougathen gene. Nond geindathen kendar ryenathen dren al lirnis al dyelin, gose he dárkathen gene tharsa geile al dranis. Al geilkis en géstaren, gose al náldursa en. Geile gene en al múnsala al lonke, nond al láuvine reik al myelve, gase al nelmis, al mannar salve rith gene. En gene threl úlvaldevan. Nond al mouglar elthon al lonke, nóurethen tose geinra kren kirdis nal al rinel, gorth reik rith saldren. Kendon en geinra. Ti en uk derar geiron, reik sárgathen gene to geithe sárgathen tose al geilmar.
 
 Máldathen gene gene geile al lunnar ómbela thes al henda, geirnen en to al úrdalon, reik légathen gene al dyelar tárneve geile al mórvalis rith tramon gene, geirnen en to al úrdalon. Nóurethen gene al tárneve. Nond málmathen gene. Nóurethen gene al rounel.
 
@@ -221,7 +221,7 @@ Ryenathen Áuvenna «Hélnora. Nond dárkathen munde uk. Nond dárkathen munde t
 
 Ryenathen al leigkon «Pírnathen tose, reik nóurethen tose‼»
 
-Geirnin pírnathen gene. Reik góldathen gene al rinel al pirnis threl ti óssenda, reik góldathen al leigkon gene threl al lundis, reik róugathen gene gounel al ganda, gaende al galnis, rith al lonke, reik sélgathen al pirnis gene threl al pirnel, gounel al ókvela, lunnar geithe uk tharsa, ánhrason nal al ólvarne, reik nal kyeron nond geindathen gene nóurethen gene.
+Geirnin pírnathen gene. Reik góldathen gene al rinel al pirnis threl ti óssenda, reik góldathen al leigkon gene threl al lundis, reik róugathen gene gounel al ganda, gande al galnis, rith al lonke, reik sélgathen al pirnis gene threl al pirnel, gounel al ókvela, lunnar geithe uk tharsa, ánhrason nal al ólvarne, reik nal kyeron nond geindathen gene nóurethen gene.
 
 [Rákathen uk pirnis tis, reik róugathen al mougon gyerth al déilamen rounel.]{.direction}
 
@@ -239,13 +239,13 @@ Reik geindathen Thélvara dárkathen uk pirnel, reik sáuminathen Áuvenna gene 
 
 --- {.canto}
 
-Tirgathen Thélvara geithar reik hraviar reik geirar, geirar geithe uk kerenis, reik pírnathen gene geithe al ámmira, geinin. Rith al áurossen hóuthathen gene reik al ámmira reik al leigkon, reik légathen gene al tárneve, reik dyeldathen gene nond málmathen al leigkon. Reik málmathen to gene. Sárgathen tose ti hélnora. Uk gaeron nond ryenathen gyerth gene en uk gaeron targathen gene dárkathen.
+Tirgathen Thélvara geithar reik hraviar reik geirar, geirar geithe uk kerenis, reik pírnathen gene geithe al ámmira, geinin. Rith al áurossen hóuthathen gene reik al ámmira reik al leigkon, reik légathen gene al tárneve, reik dyeldathen gene nond málmathen al leigkon. Reik málmathen to gene. Sárgathen tose ti hélnora. Uk geiron nond ryenathen gyerth gene en uk geiron targathen gene dárkathen.
 
 En gene teihes reik dorgen kirdon rith uk áuremel áurossen, al kurnar óssenda. Rusnar geilmar en Áuvenna rith to óssenda, reik górnathen gene rith al dyerin, reik hóuthathen Thélvara ukar reik al leigkon, reik pírnathen gene al largar pirnis gyerth gene. Pírnathen gene, pírnathen, reik en al óssenda kurnar reik deilmar, reik en al ókvela ornar, reik nyémathen al lonke rith greile gene, reik hóuthathen al leigkon geile al ómbela reik dyeldathen gene. Hórmathen gene «Kernathen munde gene. Nal uk kirdin. Uk lenthon en nonduk. Dárkathen geinal uk.» Taldathen gene al rounel, reik térgathen gene geile al ómbela, reik ryenathen gene «Geithand, gere lenthon dárkathen tose?»
 
 Reik rákathen al pirnis.
 
-Geindathen tose salkathen gene. Uk sóldaris geithe uk pirnal lordis, reik gonde nonduk. Róunithen al leigkon, reik en gene gaeri gorth rith al lunnar halnis, reik ryenathen gene «Nond en ti leigar.» Reik gonde nond en gene tis, reik nond órnathen al ganda.
+Geindathen tose salkathen gene. Uk sóldaris geithe uk pirnal lordis, reik gonde nonduk. Róunithen al leigkon, reik en gene geiri gorth rith al lunnar halnis, reik ryenathen gene «Nond en ti leigar.» Reik gonde nond en gene tis, reik nond órnathen al ganda.
 
 [Rákathen uk pirnis tis, reik róugathen al mougon gyerth al déilamen rounel.]{.direction}
 
@@ -255,7 +255,7 @@ Salkathen Áuvenna al lordis threl al dyerin, reik sárgathen gene. Róunithen g
 
 Gine nond dárkathen al pírnesse shéimara rith alnar to eldathen gonde. Ti en al mougon nusri ámmira rith ti pírnesse. Ryenathen al déilamen halron gene dergin, reik géilathen nyes reik uk reik al derar.
 
-Góldathen Áuvenna al rakar rinel threl al hélnora. Thélkathen gene gene gounel al halthon, gaende al galnis, gyerth al rinel al lonke, rith al thorkis, rusnar geilmar, rith al dyelar kirdis al kurnar óssenda. Nond róugathen gene rith. Nond gársathen tose to. Hóuthathen gene geile al mirlis nal al rinel, nal al treinen myelve, reik dárkathen gene al rinel rith al threimis, ornar geile al gúrdamon, reik geildathen gene. Reik thren al írvale en gene tis, nal al rinel, geithe árnathen geinra. Nond róugathen tose gyerth geinra.
+Góldathen Áuvenna al rakar rinel threl al hélnora. Thélkathen gene gene gounel al halthon, gande al galnis, gyerth al rinel al lonke, rith al thorkis, rusnar geilmar, rith al dyelar kirdis al kurnar óssenda. Nond róugathen gene rith. Nond gársathen tose to. Hóuthathen gene geile al mirlis nal al rinel, nal al treinen myelve, reik dárkathen gene al rinel rith al threimis, ornar geile al gúrdamon, reik geildathen gene. Reik thren al írvale en gene tis, nal al rinel, geithe árnathen geinra. Nond róugathen tose gyerth geinra.
 
 Ryenathen Áuvenna «Rákathen gene.»
 
@@ -287,7 +287,7 @@ Reik róunithen gene, reik ryenathen al mougand nond en gene rusnar geilmar gren
 
 Sóknathen Thélvara gene nal kirnis, reik váknathen Kelthar reik sóknathen gene, reik sóknathen al halron, reik árnathen al méilthande reik nóurethen gene al lonke reik ryenathen gene nonduk, reik to en al geirin geindathen gene ryenathen. Reik pírnathen Thélvara. Gere derar? Hóuthathen gene thes al ókvela reik pírnathen gene al largar pirnis, reik pínathen gene al sárnole rith al lundis, uk lunnar herdar miron rith al lunnar pirnis, reik dárkathen gene gene, reik pírnathen gene.
 
-Reik rith al pérranel áurossen tórnathen kendar al ganda. Órnathen gene, reik nond en gene al leigkon. En gene al ámmira. Lyegar. Lyegar geirin thinar Thélvara. Rith al thorkis threl al rougnis, nond rusnar, theinar al tharsa, syelar al thoudra threl al nyersa al lonke. Róugathen gene rith giethe al ganda, reik hóuthathen gene geile al lunnar ómbela, reik légathen Thélvara al tárneve rith tramon gene, geirnen en to al úrdalon. Reik nóurethen al ámmira al tárneve, reik myélathen gene, reik nond málmathen gene. Reik nond kernathen Thélvara gene tendar. Nond uk gaeron. Pírnathen gene al pirnis, reik dyeldathen al ámmira gene, reik nal írvale nond en al ámmira tis, reik en al tárneve geile al mórvalis.
+Reik rith al pérranel áurossen tórnathen kendar al ganda. Órnathen gene, reik nond en gene al leigkon. En gene al ámmira. Lyegar. Lyegar geirin thinar Thélvara. Rith al thorkis threl al rougnis, nond rusnar, theinar al tharsa, syelar al thoudra threl al nyersa al lonke. Róugathen gene rith giethe al ganda, reik hóuthathen gene geile al lunnar ómbela, reik légathen Thélvara al tárneve rith tramon gene, geirnen en to al úrdalon. Reik nóurethen al ámmira al tárneve, reik myélathen gene, reik nond málmathen gene. Reik nond kernathen Thélvara gene tendar. Nond uk geiron. Pírnathen gene al pirnis, reik dyeldathen al ámmira gene, reik nal írvale nond en al ámmira tis, reik en al tárneve geile al mórvalis.
 
 En to uk óssenda gyerth Áuvenna. Uk óssenda, al kurnar, rith goure. Reik urgathen Thélvara pírnathen al pirnis, reik thálmathen gene, reik dárkathen gene hélnora, reik sáuminathen gene geinra, reik nal ukal áurossen árnathen al ámmira greile al pirnis, lyegar, syelar al thoudra, reik hóuthathen gene, reik dyeldathen gene, reik nengin málmathen gene, reik nengin kernathen kendar gene. En Thélvara uk mouglar thara reik géstaren al tharsa, reik órnathen gene al ganda gyerth al ámmira nal al neldra áurossen, reik en al ámmira uk kenlon thara teihes reik gondis kirdon, reik hóuthathen geinra tend al írvale. Reik dónkathen Thélvara, ryenathen geinra, reik árnathen al ámmira gyerth al sáuldilonthe nal al rinel al lonke, reik en gene goure, reik nond árnathen gene gounel al salve.
 
