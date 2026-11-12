@@ -199,6 +199,22 @@ data:
     ëu: [SIGN_E_DIAERESIS, CARRIER, SIGN_U]
     ëú: [SIGN_E_DIAERESIS, CARRIER, SIGN_U]
     ëë: [SIGN_E_DIAERESIS, LONG]
+    yiy: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    yiý: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    yíy: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    yíý: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    yuy: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    yuý: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    yúy: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    yúý: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    ýiy: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    ýiý: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    ýíy: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    ýíý: [SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y]
+    ýuy: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    ýuý: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    ýúy: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
+    ýúý: [SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y]
   rules:
     normalization: NFC
     matching: longest-first
@@ -354,6 +370,22 @@ data:
       - {match: ëu, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_U], at: start}
       - {match: ëú, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_U], at: start}
       - {match: ëë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG], at: start}
+      - {match: yiy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: yiý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: yíy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: yíý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: yuy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: yuý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: yúy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: yúý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: ýiy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: ýiý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: ýíy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: ýíý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_I, CARRIER, SIGN_Y], at: start}
+      - {match: ýuy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: ýuý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: ýúy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
+      - {match: ýúý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
 ---
 
 This encoding writes [[skill-aelendlng|Áelendi]] in veldikko. A passage selects it with `enc=aeleveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.

@@ -186,6 +186,15 @@ function spellingRows(tongue) {
                     add(x + y, ch(...to), cm(...to));
                 }
         }
+    // An opening y before i or u keeps a closing y with its vowel: kyiy, kyuy.
+    for (const x of V.y)
+        for (const b2 of ["i", "u"])
+            for (const v of V[b2])
+                for (const c of V.y) {
+                    const to = ["y", "carrier", b2, "carrier", "y"];
+                    add(x + v + c, ch("carrier", ...to), cm("carrier", ...to), "at: start");
+                    add(x + v + c, ch(...to), cm(...to));
+                }
     return rows;
 }
 
@@ -254,6 +263,18 @@ function addSenaliVowels(add) {
     for (const [first, last] of SENALI_DIPHTHONGS) {
         spelled.push({ from: first + last, last, letters: [first, last] });
         spelled.push({ from: acute[first] + last, last, letters: [first, "emphasis", last] });
+    }
+    // A closing y follows i or u, alone or after an opening y, so that the
+    // longest group read from the left keeps it with its vowel.
+    for (const first of ["i", "u"]) {
+        spelled.push({ from: first + "y", last: "y", letters: [first, "y"] });
+        spelled.push({ from: acute[first] + "y", last: "y", letters: [first, "emphasis", "y"] });
+        spelled.push({ from: "y" + first + "y", last: "y", letters: ["y", first, "y"] });
+        spelled.push({
+            from: "ý" + first + "y",
+            last: "y",
+            letters: ["y", "emphasis", first, "y"],
+        });
     }
     // A glide w is the vowel u it glides from: wo and wi spell the pairs uo and ui.
     for (const last of "oi") spelled.push({ from: "w" + last, last, letters: ["u", last] });

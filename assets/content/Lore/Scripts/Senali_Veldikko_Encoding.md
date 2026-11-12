@@ -86,6 +86,14 @@ data:
     ýi: [SIGN_Y, EMPHASIS, SIGN_I]
     ye: [SIGN_Y, SIGN_E]
     ýe: [SIGN_Y, EMPHASIS, SIGN_E]
+    iy: [SIGN_I, SIGN_Y]
+    íy: [SIGN_I, EMPHASIS, SIGN_Y]
+    yiy: [SIGN_Y, SIGN_I, SIGN_Y]
+    ýiy: [SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y]
+    uy: [SIGN_U, SIGN_Y]
+    úy: [SIGN_U, EMPHASIS, SIGN_Y]
+    yuy: [SIGN_Y, SIGN_U, SIGN_Y]
+    ýuy: [SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y]
     wo: [SIGN_U, SIGN_O]
     wi: [SIGN_U, SIGN_I]
     aaǎa: [SIGN_A, LONG, CARRIER, SIGN_A, LONG, RISE]
@@ -152,6 +160,14 @@ data:
     ýiǐi: [SIGN_Y, EMPHASIS, SIGN_I, CARRIER, SIGN_I, LONG, RISE]
     yeǐi: [SIGN_Y, SIGN_E, CARRIER, SIGN_I, LONG, RISE]
     ýeǐi: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER, SIGN_I, LONG, RISE]
+    iyǐi: [SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+    íyǐi: [SIGN_I, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+    yiyǐi: [SIGN_Y, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+    ýiyǐi: [SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+    uyǐi: [SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+    úyǐi: [SIGN_U, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+    yuyǐi: [SIGN_Y, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+    ýuyǐi: [SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
     woǐi: [SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, RISE]
     wiǐi: [SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, RISE]
     aaîi: [SIGN_A, LONG, CARRIER, SIGN_I, LONG, FALL]
@@ -184,6 +200,14 @@ data:
     ýiîi: [SIGN_Y, EMPHASIS, SIGN_I, CARRIER, SIGN_I, LONG, FALL]
     yeîi: [SIGN_Y, SIGN_E, CARRIER, SIGN_I, LONG, FALL]
     ýeîi: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER, SIGN_I, LONG, FALL]
+    iyîi: [SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+    íyîi: [SIGN_I, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+    yiyîi: [SIGN_Y, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+    ýiyîi: [SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+    uyîi: [SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+    úyîi: [SIGN_U, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+    yuyîi: [SIGN_Y, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+    ýuyîi: [SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
     woîi: [SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, FALL]
     wiîi: [SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, FALL]
     aaǔu: [SIGN_A, LONG, CARRIER, SIGN_U, LONG, RISE]
@@ -432,6 +456,36 @@ data:
       - {match: ýe, emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_E, CARRIER], before: vowel, at: start}
       - {match: ýe, emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_E], at: start}
       - {match: ýe, emit: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER], before: vowel}
+      - {match: iy, emit: [CARRIER, SIGN_I, SIGN_Y, CARRIER], before: vowel, at: start}
+      - {match: iy, emit: [CARRIER, SIGN_I, SIGN_Y], at: start}
+      - {match: iy, emit: [SIGN_I, SIGN_Y, CARRIER], before: vowel}
+      - {match: íy, emit: [CARRIER, SIGN_I, EMPHASIS, SIGN_Y, CARRIER], before: vowel, at: start}
+      - {match: íy, emit: [CARRIER, SIGN_I, EMPHASIS, SIGN_Y], at: start}
+      - {match: íy, emit: [SIGN_I, EMPHASIS, SIGN_Y, CARRIER], before: vowel}
+      - {match: yiy, emit: [CARRIER, SIGN_Y, SIGN_I, SIGN_Y, CARRIER], before: vowel, at: start}
+      - {match: yiy, emit: [CARRIER, SIGN_Y, SIGN_I, SIGN_Y], at: start}
+      - {match: yiy, emit: [SIGN_Y, SIGN_I, SIGN_Y, CARRIER], before: vowel}
+      - match: ýiy
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER]
+        before: vowel
+        at: start
+      - {match: ýiy, emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y], at: start}
+      - {match: ýiy, emit: [SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER], before: vowel}
+      - {match: uy, emit: [CARRIER, SIGN_U, SIGN_Y, CARRIER], before: vowel, at: start}
+      - {match: uy, emit: [CARRIER, SIGN_U, SIGN_Y], at: start}
+      - {match: uy, emit: [SIGN_U, SIGN_Y, CARRIER], before: vowel}
+      - {match: úy, emit: [CARRIER, SIGN_U, EMPHASIS, SIGN_Y, CARRIER], before: vowel, at: start}
+      - {match: úy, emit: [CARRIER, SIGN_U, EMPHASIS, SIGN_Y], at: start}
+      - {match: úy, emit: [SIGN_U, EMPHASIS, SIGN_Y, CARRIER], before: vowel}
+      - {match: yuy, emit: [CARRIER, SIGN_Y, SIGN_U, SIGN_Y, CARRIER], before: vowel, at: start}
+      - {match: yuy, emit: [CARRIER, SIGN_Y, SIGN_U, SIGN_Y], at: start}
+      - {match: yuy, emit: [SIGN_Y, SIGN_U, SIGN_Y, CARRIER], before: vowel}
+      - match: ýuy
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER]
+        before: vowel
+        at: start
+      - {match: ýuy, emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y], at: start}
+      - {match: ýuy, emit: [SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER], before: vowel}
       - {match: wo, emit: [CARRIER, SIGN_U, SIGN_O, CARRIER], before: vowel, at: start}
       - {match: wo, emit: [CARRIER, SIGN_U, SIGN_O], at: start}
       - {match: wo, emit: [SIGN_U, SIGN_O, CARRIER], before: vowel}
@@ -1386,6 +1440,78 @@ data:
       - match: ýeǐi
         emit: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER, SIGN_I, LONG, RISE, CARRIER]
         before: vowel
+      - match: iyǐi
+        emit: [CARRIER, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - {match: iyǐi, emit: [CARRIER, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE], at: start}
+      - {match: iyǐi, emit: [SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER], before: vowel}
+      - match: íyǐi
+        emit: [CARRIER, SIGN_I, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - match: íyǐi
+        emit: [CARRIER, SIGN_I, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+        at: start
+      - match: íyǐi
+        emit: [SIGN_I, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+      - match: yiyǐi
+        emit: [CARRIER, SIGN_Y, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - match: yiyǐi
+        emit: [CARRIER, SIGN_Y, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+        at: start
+      - match: yiyǐi
+        emit: [SIGN_Y, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+      - match: ýiyǐi
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - match: ýiyǐi
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+        at: start
+      - match: ýiyǐi
+        emit: [SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+      - match: uyǐi
+        emit: [CARRIER, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - {match: uyǐi, emit: [CARRIER, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE], at: start}
+      - {match: uyǐi, emit: [SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER], before: vowel}
+      - match: úyǐi
+        emit: [CARRIER, SIGN_U, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - match: úyǐi
+        emit: [CARRIER, SIGN_U, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+        at: start
+      - match: úyǐi
+        emit: [SIGN_U, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+      - match: yuyǐi
+        emit: [CARRIER, SIGN_Y, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - match: yuyǐi
+        emit: [CARRIER, SIGN_Y, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+        at: start
+      - match: yuyǐi
+        emit: [SIGN_Y, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+      - match: ýuyǐi
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - match: ýuyǐi
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE]
+        at: start
+      - match: ýuyǐi
+        emit: [SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
       - match: woǐi
         emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, RISE, CARRIER]
         before: vowel
@@ -1837,6 +1963,78 @@ data:
         at: start
       - match: ýeîi
         emit: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+      - match: iyîi
+        emit: [CARRIER, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - {match: iyîi, emit: [CARRIER, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL], at: start}
+      - {match: iyîi, emit: [SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER], before: vowel}
+      - match: íyîi
+        emit: [CARRIER, SIGN_I, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - match: íyîi
+        emit: [CARRIER, SIGN_I, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+        at: start
+      - match: íyîi
+        emit: [SIGN_I, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+      - match: yiyîi
+        emit: [CARRIER, SIGN_Y, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - match: yiyîi
+        emit: [CARRIER, SIGN_Y, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+        at: start
+      - match: yiyîi
+        emit: [SIGN_Y, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+      - match: ýiyîi
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - match: ýiyîi
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+        at: start
+      - match: ýiyîi
+        emit: [SIGN_Y, EMPHASIS, SIGN_I, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+      - match: uyîi
+        emit: [CARRIER, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - {match: uyîi, emit: [CARRIER, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL], at: start}
+      - {match: uyîi, emit: [SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER], before: vowel}
+      - match: úyîi
+        emit: [CARRIER, SIGN_U, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - match: úyîi
+        emit: [CARRIER, SIGN_U, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+        at: start
+      - match: úyîi
+        emit: [SIGN_U, EMPHASIS, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+      - match: yuyîi
+        emit: [CARRIER, SIGN_Y, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - match: yuyîi
+        emit: [CARRIER, SIGN_Y, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+        at: start
+      - match: yuyîi
+        emit: [SIGN_Y, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+      - match: ýuyîi
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - match: ýuyîi
+        emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL]
+        at: start
+      - match: ýuyîi
+        emit: [SIGN_Y, EMPHASIS, SIGN_U, SIGN_Y, CARRIER, SIGN_I, LONG, FALL, CARRIER]
         before: vowel
       - match: woîi
         emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, FALL, CARRIER]
