@@ -5,6 +5,8 @@
 **Languages and scripts**
 
 - Family names such as Brandli and Helmsli, and the name Audri Harding, are spelled to match how they are said.
-- The pronunciation guide says that only _iy_ and _uy_ close on _y_; the Khazari Pirzath scripts no longer read _ay_, _ey_ or _oy_ as the pairs _ai_, _ei_ and _oi_.
-- The Eilwìthi note states its _ny_ and _y_ spellings so that every word and name it lists follows them, and its pronoun and verb table give _thei_ and _sai_.
-- The Slaughter on Domsei reads as the rest of the Nordmal names do, and the Shuqash note's _kulai_ hints say how the guide pronounces _ai_.
+- The Eilwìthi words _many_, _any man_, _anything_ and _company_ are written _meni_, _eni man_, _enithing_ and _kompani_, and the places Stonyford and Stonyhaugh are Stoniford and Stonihaugh.
+- Kestin Haroway, Grayson Thrift, Jorun Graywick and the settlement Greythorn are Kestin Harowei, Greison Thrift, Jorun Greivik and Greithorn.
+- The Eilwìthi verb table gives _thei_ and _sai_, and the Slaughter on Domsei is spelled as the island is.
+- The Nordmal island ending _-ei_ takes the joining form _-eijar_.
+- The Shuqash note names the vowel pairs and endings its words use, and says _kulai_ as KU-lye.
