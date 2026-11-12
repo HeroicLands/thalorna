@@ -5174,7 +5174,7 @@ GROUP BY kind ORDER BY CASE kind WHEN 'types' THEN 0 WHEN 'folders' THEN 1 WHEN 
 
 **A given name is two elements of the old stock set together,** one for the quality and one for the strength it promises: `leof` + `red`, `hild` + `mund`. A feminine name often closes on `a`, or on `ith` or `rith`.
 
-**A byname is a place, a calling or a descent.** Most are the name of a farm, a spring or a clearing: `chil` + `ton`, `barn` + `well`, `helm` + `s` + `ley`. A name ending in `ing` marks kin of the person it names, and one ending in `ling` marks the small or the young.
+**A byname is a place, a calling or a descent.** Most are the name of a farm, a spring or a clearing: `chil` + `ton`, `barn` + `well`, `helm` + `s` + `li`. A name ending in `ing` marks kin of the person it names, and one ending in `ling` marks the small or the young.
 
 ## Elements
 
