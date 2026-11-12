@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 
 ## Overview
 
-The Republic of Ondareth is a western republic governed by a senate of landed citizens and military officers. Ondareth's political culture is pragmatic and martial, with a strong citizen-soldier tradition that contrasts sharply with the courtly refinement of [[affiliation-kingdmdnvr|Dúnavarre]] and the feudal romanticism of [[affiliation-kngdmldrth|Aldorath]]. The republic holds the coast of [[place-ondareth|Ondareth]] and the upland of [[place-cntrlhghlnds|the Central Highlands]] behind it, and it is governed from [[place-thornbury|Thornbury]] by the [[affiliation-senatondrth|Senate]].
+The Republic of Ondareth is a western republic governed by a senate of landed citizens and military officers. Ondareth's political culture is pragmatic and martial, with a strong citizen-soldier tradition that contrasts sharply with the courtly refinement of [[affiliation-kingdmdnvr|Dúnavarre]] and the feudal romanticism of [[affiliation-kngdmldrth|Aldorath]]. The republic holds the coast of [[place-ondareth|Ondareth]] and the upland of [[place-cntrlhghlnds|the Central Highlands]] behind it, and it is governed from [[place-thornbury|Thornburi]] by the [[affiliation-senatondrth|Senate]].
 
 ## Character
 
@@ -93,7 +93,7 @@ Ondarethan legions—disciplined, well-drilled, and motivated by civic duty rath
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The [[affiliation-senatondrth|Senate]] governs. It sits at Thornbury under its First Senator, [[being-harwingrymr|Harwin Greimore]], votes the laws, the money, the levies and the wars, and chooses the magistrates for their year. The magistrates carry out what it votes, and answer to it when their year ends. The citizens vote in the assembly for the magistrates the Senate puts before them, and serve in the levy.
+The [[affiliation-senatondrth|Senate]] governs. It sits at Thornburi under its First Senator, [[being-harwingrymr|Harwin Greimore]], votes the laws, the money, the levies and the wars, and chooses the magistrates for their year. The magistrates carry out what it votes, and answer to it when their year ends. The citizens vote in the assembly for the magistrates the Senate puts before them, and serve in the levy.
 
 ### The Officers
 
@@ -110,7 +110,7 @@ Tarkelos
 : [[being-leofmndstrmd|Leofmund Stormden]], who answers for the treasury.
 
 Peltros
-: [[being-dunmundadly|Dunmund Adli]], who keeps Thornbury's markets, streets and water.
+: [[being-dunmundadly|Dunmund Adli]], who keeps Thornburi's markets, streets and water.
 
 Lusos
 : [[being-wilrikbrnwl|Wilrik Brownwell]], who speaks for the citizens in the assembly.
@@ -119,7 +119,7 @@ Vandraks
 : [[being-godstanhrdl|Godstan Hardli]], who commands the frontier legion at [[place-kaermouth|Kaermouth]].
 
 Prefect of the Fleet
-: [[being-edstanbrnwk|Edstan Brinwik]], who commands the republic's ships from Thornbury.
+: [[being-edstanbrnwk|Edstan Brinwik]], who commands the republic's ships from Thornburi.
 
 Ambassador
 : [[being-aldrunsmrl|Aldrun Somerli]], the Senate's envoy to [[place-veldareth|Veldareth]] and to the mainland.
@@ -128,11 +128,11 @@ Ambassador
 
 - **The chair.** Harwin Greimore's three years as First Senator end with this year, and he wants a second term, which the Senate has never given. Kuthwald Ashden wants the chair and has put the Tyrant's Rock before the Senate again, because the houses at its foot have been bought in the name of one of Harwin's freedmen.
 - **The frontier.** [[affiliation-bradhar|The Bradhar]] of the Peshtar forest burned two watch-burgs north of Kaermouth in the autumn. The Senate has voted Godstan Hardli another legion's levies and no money to feed them, and Wilrik Brownwell has made the levy the cause of the assembly.
-- **The northern water.** Two jarls of [[affiliation-jrldmstrmvld|Stormveld]] took a Thornbury coaster off the Nordfells in the autumn under a pact between them. The shipping houses want the fleet sent north, and the treasury cannot pay for the fleet and the frontier both.
+- **The northern water.** Two jarls of [[affiliation-jrldmstrmvld|Stormveld]] took a Thornburi coaster off the Nordfells in the autumn under a pact between them. The shipping houses want the fleet sent north, and the treasury cannot pay for the fleet and the frontier both.
 - **Veldareth.** Aldrun Somerli presses the Table of Veldareth to say whether its Speaker answers to the [[affiliation-dunavarsynod|Dúnavarre Synod]], and is buying copies of his letters to [[place-ravenmoor|Ravenmoor]].
 - **The upland grazing.** [[affiliation-durrask|The Durrask]] of the Thornwold drove forty brood mares off the republic's eastern upland grazing in the summer, and the herdsmen who followed killed their War-Leader's brother at a ford. The levy has taken the upland breeders' young men north.
 - **The highland nests.** The [[lore-grukaraelwyth|Grukar]] of the Highlands' crags and ravines raid the upland farms and horse runs while the levy takes the herders north: [[place-kingsdelf|Kingsdelf]] under the Three Sisters, [[place-reedgill|Reedgill]] above the lake, Ravenkeld and Stoneholt, and from the Thornwold [[place-aldermire|Aldermire]].
-- **The lake.** At the northern end of [[place-eilissa|Lake Eilìssa]] the reed-cutters of [[place-koldmere|Koldmere]], a free village that sells its fish at Stoniford, and the hill tenants of Aldorath's [[place-brynwold|Brinwold]] cut each other's nets over the reed-beds both claim, and Koldmere has asked the Stoniford senators to take its side at Thornbury.
+- **The lake.** At the northern end of [[place-eilissa|Lake Eilìssa]] the reed-cutters of [[place-koldmere|Koldmere]], a free village that sells its fish at Stoniford, and the hill tenants of Aldorath's [[place-brynwold|Brinwold]] cut each other's nets over the reed-beds both claim, and Koldmere has asked the Stoniford senators to take its side at Thornburi.
 
 ## Relations
 
@@ -159,7 +159,7 @@ Ondareth is not accidentally a republic. It is a republic **on purpose**, and th
 Its constitution copies the Vilérian forms: a **Senate** whose members are styled **senators**,
 magistracies with Vilérian names, a civic calendar of processions and assemblies, and public building in
 a self-consciously Vilérian manner, executed in local stone by masons working from descriptions.
-Senators wear the bordered mantle. The Senate house at [[place-thornbury|Thornbury]] has a portico.
+Senators wear the bordered mantle. The Senate house at [[place-thornbury|Thornburi]] has a portico.
 
 The magistracies carry the Empire's own words, in their Vilari spelling. Two _tavoi_ (consuls) give the year its name and hold command in the field, a _vornos_ declares the law, a _theronos_ keeps the citizen roll, a _tarkelos_ answers for the treasury, a _peltros_ keeps the markets and the streets, a _lusos_ speaks for the citizens, and a Vandraks commands each legion in the field. A man who has held the year is _tavalen_ for life, and the propertied order that fills the magistracies is the _gulmenoi_. The words are borrowed for the standing they carry. Vilérian diplomats treat the borrowed titles with diplomatic courtesy; in private, Vilérians take them as a mild insult.
 
@@ -173,7 +173,7 @@ afternoon. The forms are copied without being understood: the magistracies bear 
 to offices that do nothing a Vilérian would recognize; the processions observe a calendar assembled from
 hearsay; the mantles are the wrong cut and the wrong color; the Vilari of the Senate's orations is
 archaic where it is not simply wrong, and delivered in an accent that no one has ever corrected because
-no one present could. The portico at Thornbury is a portico in the way a child's drawing of a horse is
+no one present could. The portico at Thornburi is a portico in the way a child's drawing of a horse is
 a horse.
 
 What it resembles is not a republic. It is **children playacting at the behavior of adults**—with
@@ -183,7 +183,7 @@ them has seen the thing they are imitating.
 That is the mechanism, and it is why the pretension is stable. Almost no Ondarethan beyond its diplomats has been to Viléria.
 The mainland is a fortnight's dangerous sailing and a world away; what reaches the island is
 second-hand, decades old, and filtered through people with an interest in flattering the Senate. There
-is nobody in Thornbury able to say _that is not how it is done_, and there has not been for
+is nobody in Thornburi able to say _that is not how it is done_, and there has not been for
 generations; the Vilérians who could say it treat the titles as a courtesy and answer with courtesy.
 
 Viléria knows Ondareth, because Ondareth sends diplomats to Viléria. Viléria has on occasion sent
@@ -256,21 +256,21 @@ are careful to be seen at both temples.
 
 ## Holdings {#holdings}
 
-[[place-thornbury|Thornbury]]
+[[place-thornbury|Thornburi]]
 : the seat, the chief harbor and the Senate house.
 
 [[place-kaermouth|Kaermouth]]
 : the frontier legion's town at the northern end of the coast.
 
 [[place-stonyford|Stoniford]]
-: the upland market town and horse fair, on the road from Thornbury to the lake.
+: the upland market town and horse fair, on the road from Thornburi to the lake.
 
 [[place-ondareth|Ondareth]]
 : the coast and the upland the republic holds.
 
 ## History {#history}
 
-A king ruled the western coast until about 440 AF, when [Tralkar]{.name data-type="being/npc"} taxed the carrying trade to ruin and hanged the captains who complained. The coast's levies and the highland farms rose under [Zalmen]{.name data-type="being/npc"}, threw his castle down at Thornbury, and the captains built the republic out of what travelers had told them of Viléria ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). A generation later the Senate voted a standing legion for the northern frontier and raised its camp at Kaermouth. Since the Nordmen took the north in 660 AF, the Jarldom's ships have shared the northern water with Ondareth's.
+A king ruled the western coast until about 440 AF, when [Tralkar]{.name data-type="being/npc"} taxed the carrying trade to ruin and hanged the captains who complained. The coast's levies and the highland farms rose under [Zalmen]{.name data-type="being/npc"}, threw his castle down at Thornburi, and the captains built the republic out of what travelers had told them of Viléria ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). A generation later the Senate voted a standing legion for the northern frontier and raised its camp at Kaermouth. Since the Nordmen took the north in 660 AF, the Jarldom's ships have shared the northern water with Ondareth's.
 
 ## See Also
 

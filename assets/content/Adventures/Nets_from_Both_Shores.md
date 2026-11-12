@@ -28,7 +28,7 @@ Use [[being-grukaruk|Grukar-Uk]] for raiders and [[being-grkrhshk|Grukar-Hushk]]
 ## Hooks {#hooks}
 
 - Elfith pays in fish and reed for the lost boat, its cutters, or an honest account of what happened to them.
-- A party taking the village’s petition to Stoniford is asked to inspect the damage before carrying an accusation to Thornbury.
+- A party taking the village’s petition to Stoniford is asked to inspect the damage before carrying an accusation to Thornburi.
 - Travelers using the beds find their own mooring line cut and need to discover which shore will let them land safely.
 
 ## The Opening {#opening}

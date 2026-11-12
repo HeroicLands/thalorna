@@ -90,4 +90,4 @@ The captains of the legion and the provosts of the camp.
 ## Plot Hooks
 
 1. **North of the river.** Godstan wants a party that is not the legion to go into the forest and learn which clans will fight in the spring.
-2. **The money.** Godstan wants the legion's pay, and he will owe a party that brings it from Thornbury by any means.
+2. **The money.** Godstan wants the legion's pay, and he will owe a party that brings it from Thornburi by any means.

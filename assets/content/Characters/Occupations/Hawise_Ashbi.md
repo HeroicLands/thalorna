@@ -3,7 +3,7 @@ shortcode: hawiseshby
 name: {full: Hawise Ashbi}
 type: being
 subType: npc
-description: "Hawise Ashbi is a household guard at Thornbury, a freeman who sells trained service to a shipping household rather than a legionary."
+description: "Hawise Ashbi is a household guard at Thornburi, a freeman who sells trained service to a shipping household rather than a legionary."
 tags: [soldiery]
 data:
   icon: icon-person
@@ -400,7 +400,7 @@ Hawise Ashbi is a 43-year-old woman who stands 5'10" tall and is of moderate bui
 
 **Age 43. Household Guard.**
 
-Hawise Ashbi is a household guard at [[place-thornbury|Thornbury]], a freeman who sells trained service to a shipping household rather than a legionary. She teaches young guards to keep their line, protect a doorway and stop a brawl without scattering after every thrown cup. Her scarred right hand stiffens in the damp.
+Hawise Ashbi is a household guard at [[place-thornbury|Thornburi]], a freeman who sells trained service to a shipping household rather than a legionary. She teaches young guards to keep their line, protect a doorway and stop a brawl without scattering after every thrown cup. Her scarred right hand stiffens in the damp.
 
 The houses demanding action against [[place-stormveld|Stormveld]] also want their warehouses and counting rooms guarded while their own men sail. Hawise wants recruits trained before they receive keys. The Senate's shortage of money puts experienced hands in demand at home and at [[place-kaermouth|Kaermouth]].
 

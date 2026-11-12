@@ -3978,7 +3978,7 @@ data:
     - {form: kold, position: opening, kind: place, sense: cold, examples: [Koldbek]}
     - {form: high, position: opening, kind: place, sense: high, examples: [Highfold]}
     - {form: stoni, position: opening, kind: place, sense: full of stones, examples: [Stonihaugh]}
-    - {form: thorn, position: opening, kind: place, sense: the thorn bush, examples: [Thornbury]}
+    - {form: thorn, position: opening, kind: place, sense: the thorn bush, examples: [Thornburi]}
     - {form: raven, position: opening, kind: place, sense: the raven, examples: [Ravenmoor]}
     - {form: storm, position: opening, kind: place, sense: storm, examples: [Stormplain]}
     - {form: hush, position: opening, kind: place, sense: silence, examples: [Hushwood]}
@@ -4045,7 +4045,7 @@ data:
       kind: place
       sense: a grassy valley floor
       examples: [Sunnerslade]
-    - {form: buri, position: closing, kind: place, sense: a fortified town, examples: [Thornbury]}
+    - {form: buri, position: closing, kind: place, sense: a fortified town, examples: [Thornburi]}
     - {form: moor, position: closing, kind: place, sense: open wet upland, examples: [Ravenmoor]}
     - form: mouth
       position: closing
@@ -4262,7 +4262,7 @@ data:
     - {name: Sunderfells, kind: place, built: [sunder, fells]}
     - {name: Sunderwiind, kind: place, built: [sunder, wiind]}
     - {name: Sunnerslade, kind: place, built: [sunner, slade]}
-    - {name: Thornbury, kind: place, built: [thorn, buri]}
+    - {name: Thornburi, kind: place, built: [thorn, buri]}
     - {name: Threndale, kind: place, built: [thren, dale]}
     - {name: Threnhallow, kind: place, built: [thren, hallow]}
     - {name: Vargate, kind: place, built: [var, gate]}
@@ -4315,7 +4315,7 @@ data:
     - name: Baridan
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - {name: Blakkiln Priory, kind: place, why: A place name of two words; no element builds it.}
+    - {name: Blakkiln Priori, kind: place, why: A place name of two words; no element builds it.}
     - name: Kélavren
       kind: byname
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
@@ -4596,6 +4596,8 @@ data:
     - {name: Senek, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
     - {name: Tessem, kind: byname, why: A Vardain family name; no Eilwìthi element builds it.}
   retired:
+    - {form: Thornbury, instead: Thornburi, why: y is never a vowel}
+    - {form: Blakkiln Priory, instead: Blakkiln Priori, why: y is never a vowel}
     - {form: Adley, instead: Adli, why: a surname ends in li}
     - {form: Alverley, instead: Alverli, why: a surname ends in li}
     - {form: Barnley, instead: Barnli, why: a surname ends in li}

@@ -3,7 +3,7 @@ shortcode: leofmndstrmd
 name: {full: Leofmund Stormden, en: [Tarkelos Leofmund, The Tarkelos]}
 type: being
 subType: npc
-description: "The tarkelos of the Republic of Ondareth, who answers for its treasury at Thornbury and says the republic cannot pay for the fleet and the frontier in one year."
+description: "The tarkelos of the Republic of Ondareth, who answers for its treasury at Thornburi and says the republic cannot pay for the fleet and the frontier in one year."
 tags: []
 data:
   icon: icon-person
@@ -39,7 +39,7 @@ Leofmund Stormden is a 52-year-old man of 5'9" and medium build, with smooth oli
 
 **Age 52. Tarkelos of the Republic of Ondareth. Wants the treasury's money where he can see it.**
 
-Leofmund Stormden answers for the treasury of the [[affiliation-repblcndrth|Republic of Ondareth]]: its revenue from the harbors and the land, its disbursements to the legion and the fleet, and the accounts of every magistrate who spends its money. He keeps the treasury's chests in a vault under the Senate house at [[place-thornbury|Thornbury]] and the keys on his belt.
+Leofmund Stormden answers for the treasury of the [[affiliation-repblcndrth|Republic of Ondareth]]: its revenue from the harbors and the land, its disbursements to the legion and the fleet, and the accounts of every magistrate who spends its money. He keeps the treasury's chests in a vault under the Senate house at [[place-thornbury|Thornburi]] and the keys on his belt.
 
 This year the Senate has asked him to pay for a legion's levies on the frontier and for the fleet the shipping houses want sent north against Stormveld. He says the treasury cannot pay for both, and he has paid for neither.
 

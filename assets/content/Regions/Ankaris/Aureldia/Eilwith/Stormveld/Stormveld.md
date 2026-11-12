@@ -39,7 +39,7 @@ Timber, thrall-worked produce and hides go north; iron, ships, men and quarrels 
 
 ## Current Situation {#present}
 
-- **The pacts.** The jarls of the plain's edges have taken to swearing pacts with one another against the weak. [[being-vrithorvmrvd|Vrithorv Marvidrok]] of [[place-vuldstead|Vuldstead]] and [[being-draskmilglrv|Draskmil Glarvendik]] of [[place-drasknes|Drasknes]] raided a forest tribe together in 718 and divided its cattle and captives, and the tribe's answer burned four of the High Jarl's steadings in the western Nordfells the next spring. The High Jarl, [[being-ulthorvhrnd|Ulthorv Hrindaruk]], then swore a pact with Vrithorv to close the northern inlets to the free coasters, and their ships took a Thornbury coaster in the autumn.
+- **The pacts.** The jarls of the plain's edges have taken to swearing pacts with one another against the weak. [[being-vrithorvmrvd|Vrithorv Marvidrok]] of [[place-vuldstead|Vuldstead]] and [[being-draskmilglrv|Draskmil Glarvendik]] of [[place-drasknes|Drasknes]] raided a forest tribe together in 718 and divided its cattle and captives, and the tribe's answer burned four of the High Jarl's steadings in the western Nordfells the next spring. The High Jarl, [[being-ulthorvhrnd|Ulthorv Hrindaruk]], then swore a pact with Vrithorv to close the northern inlets to the free coasters, and their ships took a Thornburi coaster in the autumn.
 - **The seat.** Draskmil Glarvendik, whose harbor lives on those coasters, has called for the High Jarl's seat to be put to the jarls at the Midsomar moot at [[place-stormveil|Stormveil]].
 - **The thralls.** Four in five people on the land are thralls, and the halls watch them as closely as ever.
 

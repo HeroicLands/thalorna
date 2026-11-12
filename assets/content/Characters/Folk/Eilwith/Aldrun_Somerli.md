@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Aldrun Somerli is a 43-year-old woman of 5'5" and light build, with fair, clear skin, dark blonde hair worn up under a net and hazel eyes. She dresses in the Vilérian fashion of twenty years ago, which is the newest Thornbury has.
+Aldrun Somerli is a 43-year-old woman of 5'5" and light build, with fair, clear skin, dark blonde hair worn up under a net and hazel eyes. She dresses in the Vilérian fashion of twenty years ago, which is the newest Thornburi has.
 
 # Dossier {#dossier}
 
@@ -85,5 +85,5 @@ Her household and her secretary, and the envoys of Dúnavarre at the Two Doors i
 
 ## Plot Hooks
 
-1. **Letters for the Senate.** Aldrun wants a packet of letters carried from Veldareth to Thornbury unopened, by a road that does not pass the Dúnavarre envoys.
+1. **Letters for the Senate.** Aldrun wants a packet of letters carried from Veldareth to Thornburi unopened, by a road that does not pass the Dúnavarre envoys.
 2. **A mainland visitor.** A Vilérian merchant has asked Aldrun to present him to the Senate, and she wants to know whom he really serves before she does.

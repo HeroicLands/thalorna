@@ -43,7 +43,7 @@ Neither reached its second year. The jarls have taken the lesson to be about vig
 
 The common moot meets below the hall at Midsomar, and this year [[being-draskmilglrv|Draskmil Glarvendik]] of [[place-drasknes|Drasknes]] means to ask it for a new High Jarl. [[being-ulthorvhrnd|Ulthorv Hrindaruk]] holds the hall with his household men under his son, [[being-althmilhrnd|Althmil Hrindaruk]], and the Truce-Warden, [[being-gnarthrvdvlg|Gnarthorv Dvalgidrok]], has said he will hold the moot's peace against any hall.
 
-The crew of a Thornbury coaster taken off the Nordfells in the autumn is held in the harbor-reeve's sheds below the hall, waiting for their shipping house to pay. The harbor-reeve, [[being-thalmthrvrld|Thalmthira Vruldaruk]], feeds them and counts the cost against the ransom.
+The crew of a Thornburi coaster taken off the Nordfells in the autumn is held in the harbor-reeve's sheds below the hall, waiting for their shipping house to pay. The harbor-reeve, [[being-thalmthrvrld|Thalmthira Vruldaruk]], feeds them and counts the cost against the ransom.
 
 ## See Also
 

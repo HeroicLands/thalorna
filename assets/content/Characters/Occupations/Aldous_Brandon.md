@@ -3,7 +3,7 @@ shortcode: aldosbrndn
 name: {full: Aldous Brandon}
 type: being
 subType: npc
-description: "Aldous Brandon burns charcoal in the coppice behind Thornbury for the harbor smiths and the armorers of the Republic of Ondareth."
+description: "Aldous Brandon burns charcoal in the coppice behind Thornburi for the harbor smiths and the armorers of the Republic of Ondareth."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -396,7 +396,7 @@ Aldous Brandon is a 36-year-old man who stands 6'1" tall and is of moderate buil
 
 **Age 36. Charcoaler.**
 
-Aldous Brandon burns charcoal in the coppice behind [[place-thornbury|Thornbury]] for the harbor smiths and the armorers of the [[affiliation-repblcndrth|Republic of Ondareth]]. He burns oak for a long forge heat, alder for fine work and beech for the armorers. He refuses to draw a kiln early or sell a sack that is green. His charcoal costs more, and the smiths who test their fuel pay it.
+Aldous Brandon burns charcoal in the coppice behind [[place-thornbury|Thornburi]] for the harbor smiths and the armorers of the [[affiliation-repblcndrth|Republic of Ondareth]]. He burns oak for a long forge heat, alder for fine work and beech for the armorers. He refuses to draw a kiln early or sell a sack that is green. His charcoal costs more, and the smiths who test their fuel pay it.
 
 The senators own the ground and lease the cutting. Aldous's kiln needs days of watching, but the fleet's demands for fuel come with dates fixed in the counting-house. His sacks sit between two arguments: the treasury's refusal to fund both fleet and frontier, and the shipmasters' demand for an answer to the taking of their coaster.
 

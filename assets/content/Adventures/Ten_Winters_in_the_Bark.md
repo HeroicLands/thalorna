@@ -23,7 +23,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 ## Hooks {#hooks}
 
-- **The thief.** A [[place-thornbury|Thornbury]] apothecary has a client dying of a wasting fever and will pay a thief to bring back a jar of the witch's cure. He does not say what the cure costs the one who fetches it.
+- **The thief.** A [[place-thornbury|Thornburi]] apothecary has a client dying of a wasting fever and will pay a thief to bring back a jar of the witch's cure. He does not say what the cure costs the one who fetches it.
 - **The mercenary or common soldier.** A border steading of [[place-aldorathrgn|Aldorath Region]] hires guards to carry a sick child through the forest to the hollow, and it is a three-day march through country hunted by [[lore-grukaraelwyth|The Grukar of Eilwìth]].
 - **The leader.** The war-chief [[being-haldrekvane|Gorlen]] sends a chieftain who owes him a debt to fetch his daughter from the hollow, where she has gone to bargain for her mother's life. He says nothing of the oaks.
 - **The lone wanderer.** The wanderer's own sickness, a failing hand, a fading eye, has a cure rumored in the forest, and a trackstone path leads to it.

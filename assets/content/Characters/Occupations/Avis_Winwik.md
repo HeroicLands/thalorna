@@ -3,7 +3,7 @@ shortcode: avicewnwck
 name: {full: Avis Winwik}
 type: being
 subType: npc
-description: "Avis Winwik sails from Thornbury as a supercargo, responsible for the goods rather than the handling of the ship."
+description: "Avis Winwik sails from Thornburi as a supercargo, responsible for the goods rather than the handling of the ship."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -399,9 +399,9 @@ Avis Winwik is a 25-year-old woman who stands 5'10" tall and is slender. She has
 
 **Age 25. Merchant (Supercargo).**
 
-Avis Winwik sails from [[place-thornbury|Thornbury]] as a supercargo, responsible for the goods rather than the handling of the ship. She checks stowage, bargains at the destination and keeps the owners' shares separate down to the last damaged bale. She hires strong backs for the lifting and stays beside them until every mark agrees with her book.
+Avis Winwik sails from [[place-thornbury|Thornburi]] as a supercargo, responsible for the goods rather than the handling of the ship. She checks stowage, bargains at the destination and keeps the owners' shares separate down to the last damaged bale. She hires strong backs for the lifting and stays beside them until every mark agrees with her book.
 
-The taking of a Thornbury coaster off [[place-nordfells|The Nordfells]] makes northern cargo hard to insure by handshake alone. Avis asks each owner to state who bears a ransom or a seizure before loading. Some call this disloyalty to the republic; she calls it a question that needs an answer on shore.
+The taking of a Thornburi coaster off [[place-nordfells|The Nordfells]] makes northern cargo hard to insure by handshake alone. Avis asks each owner to state who bears a ransom or a seizure before loading. Some call this disloyalty to the republic; she calls it a question that needs an answer on shore.
 
 ## Psyche
 

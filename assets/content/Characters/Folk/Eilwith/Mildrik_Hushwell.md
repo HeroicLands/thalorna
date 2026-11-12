@@ -3,7 +3,7 @@ shortcode: mildrikhshwl
 name: {full: Mildrik Hushwell, en: [Vornos Mildrik, The Vornos]}
 type: being
 subType: npc
-description: "The vornos of the Republic of Ondareth for the year, who declares the law and hears the suits that matter in the Senate house at Thornbury, and whose rulings are known to have a price."
+description: "The vornos of the Republic of Ondareth for the year, who declares the law and hears the suits that matter in the Senate house at Thornburi, and whose rulings are known to have a price."
 tags: []
 data:
   icon: icon-person
@@ -39,7 +39,7 @@ Mildrik Hushwell is a 55-year-old man of 5'6" and light build, with pale, clear 
 
 **Age 55. Vornos of the Republic of Ondareth. Wants his year to pay for the seat he bought.**
 
-Mildrik Hushwell declares the law of the [[affiliation-repblcndrth|Republic of Ondareth]] for the year. He hears the suits the lesser courts will not, between senators, between shipping houses and between the republic and its citizens, in a side hall of the Senate house at [[place-thornbury|Thornbury]]. He is a careful jurist and knows the republic's law better than anyone in the chamber.
+Mildrik Hushwell declares the law of the [[affiliation-repblcndrth|Republic of Ondareth]] for the year. He hears the suits the lesser courts will not, between senators, between shipping houses and between the republic and its citizens, in a side hall of the Senate house at [[place-thornbury|Thornburi]]. He is a careful jurist and knows the republic's law better than anyone in the chamber.
 
 He also sells his rulings, as every vornos before him has, and the city knows the price of a ruling for a senator and of one for a citizen. He bought his seat with [[being-harwingrymr|Harwin Greimore]]'s money, and he rules for Harwin's house when Harwin asks.
 
@@ -83,4 +83,4 @@ His clerks, and the advocates of the Senate house who know his prices.
 ## Plot Hooks
 
 1. **A suit for the coaster.** The shipping house that lost its coaster to Stormveld has brought a suit against the house that insured it, and Mildrik wants to know which of them can pay more before he hears it.
-2. **The lusos's witness.** Wilrik Brownwell has a witness who saw Mildrik's clerk take money for a ruling, and Mildrik wants the witness to leave Thornbury.
+2. **The lusos's witness.** Wilrik Brownwell has a witness who saw Mildrik's clerk take money for a ruling, and Mildrik wants the witness to leave Thornburi.

@@ -3,7 +3,7 @@ shortcode: harwingrymr
 name: {full: Harwin Greimore, en: [First Senator Harwin, The First Senator]}
 type: being
 subType: npc
-description: "First Senator of the Republic of Ondareth, a Thornbury shipping-house senator in the last year of his term, who wants a second term and whose freedman has bought the houses below the Tyrant's Rock."
+description: "First Senator of the Republic of Ondareth, a Thornburi shipping-house senator in the last year of his term, who wants a second term and whose freedman has bought the houses below the Tyrant's Rock."
 tags: []
 data:
   icon: icon-person
@@ -44,12 +44,12 @@ Harwin Greimore is a 60-year-old man of 5'8" and heavy build, with light, ruddy 
 
 **Age 60. First Senator of the Republic of Ondareth. Wants a second term in the chair, and the rock after it.**
 
-Harwin Greimore presides over the [[affiliation-senatondrth|Senate of Ondareth]] at [[place-thornbury|Thornbury]]. He calls the chamber, sets its business and speaks first in every debate. His family's shipping house is one of the oldest on the quays, and he has been a senator for thirty years and _tavalen_ for twenty.
+Harwin Greimore presides over the [[affiliation-senatondrth|Senate of Ondareth]] at [[place-thornbury|Thornburi]]. He calls the chamber, sets its business and speaks first in every debate. His family's shipping house is one of the oldest on the quays, and he has been a senator for thirty years and _tavalen_ for twenty.
 
 His three years in the chair end with this one, and he wants a second term, which the Senate has never given a First Senator. The houses at the foot of the Tyrant's Rock have been bought in the name of one of his freedmen, and the city takes it for the first step toward building on the rock where [Tralkar]{.name data-type="being/npc"} kept his castle ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). [[being-kuthwldashdn|Kuthwald Ashden]], who wants the chair, has put the rock before the Senate to make him speak to it.
 
 :::secret {title="The coasters"}
-Harwin's shipping house has sold the High Jarl of Stormveld, through a factor at Stormveil, the names and sailing days of the free coasters that run the Nordfells inlets. The Thornbury coaster the jarls took in the autumn belonged to a rival house that backs Kuthwald Ashden. Harwin argues in the Senate against sending the fleet north.
+Harwin's shipping house has sold the High Jarl of Stormveld, through a factor at Stormveil, the names and sailing days of the free coasters that run the Nordfells inlets. The Thornburi coaster the jarls took in the autumn belonged to a rival house that backs Kuthwald Ashden. Harwin argues in the Senate against sending the fleet north.
 :::
 
 ## Psyche
@@ -91,5 +91,5 @@ Harwin answers to no patron. He is the Senate's First Senator and its richest me
 
 ## Plot Hooks
 
-1. **The freedman.** Kuthwald Ashden's people are asking questions about the freedman who bought the houses below the rock, and Harwin wants the freedman out of Thornbury until the debate is over.
+1. **The freedman.** Kuthwald Ashden's people are asking questions about the freedman who bought the houses below the rock, and Harwin wants the freedman out of Thornburi until the debate is over.
 2. **A second term.** Harwin wants a party to carry his offers to three senators of the Highlands who have not yet said how they will vote.

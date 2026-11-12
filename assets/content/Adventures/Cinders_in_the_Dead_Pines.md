@@ -23,7 +23,7 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 
 ## Hooks {#hooks}
 
-- **The thief.** A [[place-thornbury|Thornbury]] factor who deals in odd metal will pay well for the black iron that is said to cool in the old kilns, and gives a map of the charcoal road.
+- **The thief.** A [[place-thornbury|Thornburi]] factor who deals in odd metal will pay well for the black iron that is said to cool in the old kilns, and gives a map of the charcoal road.
 - **The mercenary or common soldier.** An Ondarethan border magistrate hires a squad to carry out a night patrol that ends at the kilns. He does not say whose money is buried there.
 - **The leader.** A Peshtar war-chief whose clan burned the priory sends a chieftain to see whether the fire has spread. The clan's dead lie in the dead pines.
 - **The lone wanderer.** The wanderer carries a brand or an old burn that has begun to ache, and a priest of [[affiliation-sacredforge|The Sacred Forge]] says the cure lies at Blackkiln.

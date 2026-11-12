@@ -41,7 +41,7 @@ Elfith Wigden is a 37-year-old woman of 5'6" and medium build, with fair, weathe
 
 Elfith Wigden has been the reed-reeve of [[place-koldmere|Koldmere]], a free village on the north-western shore of [[place-eilissa|Lake Eilìssa]], for four springs running. She sets the days of the cutting, keeps the village's boats and speaks for it to the Ondarethan senators at [[place-stonyford|Stoniford]], who buy its fish and reed.
 
-The best of the village's reed-beds lie at the lake's northern end, where the hill tenants of [[place-brynwold|Brinwold]] in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] claim them too. This winter Brinwold's men took two Koldmere boats and the reed in them. Elfith has asked the Stoniford senators to take the matter to [[place-thornbury|Thornbury]] and put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village, and they have promised to.
+The best of the village's reed-beds lie at the lake's northern end, where the hill tenants of [[place-brynwold|Brinwold]] in the [[affiliation-kngdmldrth|Kingdom of Aldorath]] claim them too. This winter Brinwold's men took two Koldmere boats and the reed in them. Elfith has asked the Stoniford senators to take the matter to [[place-thornbury|Thornburi]] and put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village, and they have promised to.
 
 ## Psyche
 

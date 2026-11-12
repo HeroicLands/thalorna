@@ -32,7 +32,7 @@ The jarl's hall rules. Draskmil Glarvendik keeps his own moot, his own levy and 
 
 ## The Present {#present}
 
-In the autumn the High Jarl, [[being-ulthorvhrnd|Ulthorv Hrindaruk]], and the jarl of [[place-vuldstead|Vuldstead]] swore a pact to close the northern inlets to coasters that do not call at Stormveil, and their ships took a Thornbury coaster off the fells within the month. The coasters are Drasknes's living, and none has put in since. Two summers ago Draskmil raided a forest tribe beside the same jarl of Vuldstead under a pact of their own, and he takes the new pact for a betrayal. He means to ask the moot at Midsomar for a new High Jarl, and his skald is making verses about Ulthorv for every hall that will hear them.
+In the autumn the High Jarl, [[being-ulthorvhrnd|Ulthorv Hrindaruk]], and the jarl of [[place-vuldstead|Vuldstead]] swore a pact to close the northern inlets to coasters that do not call at Stormveil, and their ships took a Thornburi coaster off the fells within the month. The coasters are Drasknes's living, and none has put in since. Two summers ago Draskmil raided a forest tribe beside the same jarl of Vuldstead under a pact of their own, and he takes the new pact for a betrayal. He means to ask the moot at Midsomar for a new High Jarl, and his skald is making verses about Ulthorv for every hall that will hear them.
 
 ## Where a Party Lodges {#lodging}
 

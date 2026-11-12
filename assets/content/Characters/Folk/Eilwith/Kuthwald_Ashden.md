@@ -43,7 +43,7 @@ Kuthwald Ashden is a 47-year-old man of 6'0" and medium build, with light, weath
 
 **Age 47. Tavos of the Republic of Ondareth. Wants the First Senator's chair when Harwin Greimore's term ends.**
 
-Kuthwald Ashden is one of the two _tavoi_ who give Ondareth's year its name. His colleague, [[being-alfmundkrtn|Alfmund Kaerton]], has the field command on the frontier, and Kuthwald keeps [[place-thornbury|Thornbury]] and presides over the [[affiliation-senatondrth|Senate of Ondareth]] whenever the First Senator is absent. He served twelve years in the frontier legion before he bought his seat, and he speaks in the chamber like an officer giving orders.
+Kuthwald Ashden is one of the two _tavoi_ who give Ondareth's year its name. His colleague, [[being-alfmundkrtn|Alfmund Kaerton]], has the field command on the frontier, and Kuthwald keeps [[place-thornbury|Thornburi]] and presides over the [[affiliation-senatondrth|Senate of Ondareth]] whenever the First Senator is absent. He served twelve years in the frontier legion before he bought his seat, and he speaks in the chamber like an officer giving orders.
 
 He wants the First Senator's chair. [[being-harwingrymr|Harwin Greimore]] wants a second term in it, and Kuthwald has put the question of the Tyrant's Rock before the Senate again, because one of Harwin's freedmen has bought the houses at its foot, and Harwin must now say in the chamber what he means to do with them.
 

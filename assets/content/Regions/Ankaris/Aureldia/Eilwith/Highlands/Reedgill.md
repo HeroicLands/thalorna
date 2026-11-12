@@ -27,7 +27,7 @@ The ravine has been wooded for as long as the shore has been settled, because no
 
 ## What Is There Now {#present}
 
-The reed-bed quarrel is at its worst. This winter Brinwold's men took two Koldmere boats and the reed in them, and in the autumn Koldmere lost a boat and two cutters on the beds and holds that Brinwold took those too. Each shore cuts the other's nets, and each finds its own cut nets in the morning. The reed-reeve of Koldmere, [[being-elfithwgdn|Elfith Wigden]], has asked the Ondarethan senators of [[place-stonyford|Stoniford]] to take the quarrel to Thornbury.
+The reed-bed quarrel is at its worst. This winter Brinwold's men took two Koldmere boats and the reed in them, and in the autumn Koldmere lost a boat and two cutters on the beds and holds that Brinwold took those too. Each shore cuts the other's nets, and each finds its own cut nets in the morning. The reed-reeve of Koldmere, [[being-elfithwgdn|Elfith Wigden]], has asked the Ondarethan senators of [[place-stonyford|Stoniford]] to take the quarrel to Thornburi.
 
 The cutters of both shores have seen a thin Grukar standing still in the shallows below the ravine at dusk, watching the beds, and call it [[being-stillwader|Stillwader]].
 

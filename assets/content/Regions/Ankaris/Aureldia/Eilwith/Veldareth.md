@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-**Veldareth** is a free city on the southern coast of [[place-eilwith|Eilwìth]], at the south-eastern end of the [[affiliation-repblcndrth|Republic of Ondareth]]'s shore, where the coast road from the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] comes west along the edge of [[place-hallowwood|Seirasto]], and belonging to neither. About fifteen hundred people live inside its walls and on the farms of its small valley. It makes its living as the place where its two neighbors meet without either being at home, and it keeps one of the five [[affiliation-panepistmm|Epistémion]] chapterhouses on the island, with those at [[place-dunmere|Dunmere]], [[place-ravenmoor|Ravenmoor]], [[place-thornbury|Thornbury]] and [[place-stormveil|Stormveil]].
+**Veldareth** is a free city on the southern coast of [[place-eilwith|Eilwìth]], at the south-eastern end of the [[affiliation-repblcndrth|Republic of Ondareth]]'s shore, where the coast road from the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] comes west along the edge of [[place-hallowwood|Seirasto]], and belonging to neither. About fifteen hundred people live inside its walls and on the farms of its small valley. It makes its living as the place where its two neighbors meet without either being at home, and it keeps one of the five [[affiliation-panepistmm|Epistémion]] chapterhouses on the island, with those at [[place-dunmere|Dunmere]], [[place-ravenmoor|Ravenmoor]], [[place-thornbury|Thornburi]] and [[place-stormveil|Stormveil]].
 
 ## Arriving {#arriving}
 

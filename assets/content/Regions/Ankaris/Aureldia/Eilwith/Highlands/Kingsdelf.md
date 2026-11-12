@@ -45,7 +45,7 @@ Square-cut terraces climb the north face, each with a gallery mouth, and the ram
 
 - **The bounty.** The Stoniford fair-court pays a horse's price for Greytusk's head, and the breeders add to it with every foal they lose.
 - **The digger.** The Epistémion scholar wants her digger found, alive or dead, and what he found in the quarry with him.
-- **The marks.** The marks on the unsent blocks are the same as the marks on the Crown Road's stones, and a scholar at Thornbury would pay to have them copied.
+- **The marks.** The marks on the unsent blocks are the same as the marks on the Crown Road's stones, and a scholar at Thornburi would pay to have them copied.
 
 ## See Also
 

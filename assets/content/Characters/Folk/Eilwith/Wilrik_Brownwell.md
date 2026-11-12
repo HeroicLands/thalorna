@@ -42,7 +42,7 @@ Wilrik Brownwell is a 38-year-old man of 5'9" and light build, with tanned, weat
 
 **Age 38. Lusos of the Republic of Ondareth. Wants the levy stopped and the citizens heard.**
 
-Wilrik Brownwell is the _lusos_ of the [[affiliation-repblcndrth|Republic of Ondareth]], elected by the citizens to speak for them and to interpose against a magistrate's act on their behalf. He is not of the propertied order. He was a fisherman's son on the Thornbury quays and a net-maker until he lost two fingers, and the citizens elected him because he says in the assembly what they say on the quays.
+Wilrik Brownwell is the _lusos_ of the [[affiliation-repblcndrth|Republic of Ondareth]], elected by the citizens to speak for them and to interpose against a magistrate's act on their behalf. He is not of the propertied order. He was a fisherman's son on the Thornburi quays and a net-maker until he lost two fingers, and the citizens elected him because he says in the assembly what they say on the quays.
 
 This year he has made the frontier levy his cause. The Senate has voted another legion's worth of levies for [[place-kaermouth|Kaermouth]] and no pay to feed them, and Wilrik speaks against the levy at every assembly. The citizens of the coast cheer him, and the senators call him a demagogue.
 

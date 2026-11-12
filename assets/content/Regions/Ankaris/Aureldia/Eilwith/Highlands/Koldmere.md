@@ -26,7 +26,7 @@ Koldmere chooses a reed-reeve each spring to set the cutting and keep the boats,
 
 ## The Failing or the Quarrel {#present}
 
-The best reed-beds lie east of the village, across the lake's northern end under the Sunderfells, where the hill tenants of [[place-brynwold|Brinwold]] in [[affiliation-kngdmldrth|Aldorath]] claim them too. Each side cuts the other's nets and impounds the other's boats. This winter Brinwold's men took two Koldmere boats and the reed in them, and Elfith Wigden has asked the Stoniford senators to take the matter to [[place-thornbury|Thornbury]] and put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village. They have promised to, as they promise every year.
+The best reed-beds lie east of the village, across the lake's northern end under the Sunderfells, where the hill tenants of [[place-brynwold|Brinwold]] in [[affiliation-kngdmldrth|Aldorath]] claim them too. Each side cuts the other's nets and impounds the other's boats. This winter Brinwold's men took two Koldmere boats and the reed in them, and Elfith Wigden has asked the Stoniford senators to take the matter to [[place-thornbury|Thornburi]] and put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village. They have promised to, as they promise every year.
 
 ## What Is Seen from It {#what-is-seen}
 

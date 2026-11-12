@@ -3,7 +3,7 @@ shortcode: winiwldbrnl
 name: {full: Winiwald Barnli, en: [Theronos Winiwald, The Theronos]}
 type: being
 subType: npc
-description: "The theronos of the Republic of Ondareth, an old tavalen who keeps the citizen roll and the Senate's roll at Thornbury, and can strike a senator from his seat."
+description: "The theronos of the Republic of Ondareth, an old tavalen who keeps the citizen roll and the Senate's roll at Thornburi, and can strike a senator from his seat."
 tags: []
 data:
   icon: icon-person

@@ -3,7 +3,7 @@ shortcode: thalmthrvrld
 name: {full: Thalmthira Vruldaruk, en: [The Harbor-reeve of Stormveil]}
 type: being
 subType: npc
-description: "Harbor-reeve of Stormveil, who keeps the High Jarl's haven, its tolls and its disputes, and holds the crew of the Thornbury coaster in her sheds until their ransom is paid."
+description: "Harbor-reeve of Stormveil, who keeps the High Jarl's haven, its tolls and its disputes, and holds the crew of the Thornburi coaster in her sheds until their ransom is paid."
 tags: []
 data:
   icon: icon-person
@@ -37,11 +37,11 @@ Thalmthira Vruldaruk is a 46-year-old woman of 5'8" and heavy build, with fair, 
 
 # Dossier {#dossier}
 
-**Age 46. Harbor-reeve of Stormveil. Wants the haven's tolls paid and the Thornbury crew off her hands.**
+**Age 46. Harbor-reeve of Stormveil. Wants the haven's tolls paid and the Thornburi crew off her hands.**
 
 Thalmthira Vruldaruk keeps the haven at [[place-stormveil|Stormveil]] for the High Jarl, [[being-ulthorvhrnd|Ulthorv Hrindaruk]]. She takes the tolls of every hull that comes in from the [[place-nrdlndsrgn|Nordlands]], settles the quarrels of the quay and keeps the haven's sheds and stores. Her clan has kept the haven since the taking.
 
-Since the autumn she has held the crew of a Thornbury coaster, taken off the Nordfells under the High Jarl's pact, in the sheds below the hall. She feeds them from the haven's stores and counts the cost against the ransom their shipping house has not yet paid. She met the Prefect of Ondareth's fleet, [[being-edstanbrnwk|Edstan Brinwik]], years ago on the quay, when he was a shipmaster, and has written to him about the crew.
+Since the autumn she has held the crew of a Thornburi coaster, taken off the Nordfells under the High Jarl's pact, in the sheds below the hall. She feeds them from the haven's stores and counts the cost against the ransom their shipping house has not yet paid. She met the Prefect of Ondareth's fleet, [[being-edstanbrnwk|Edstan Brinwik]], years ago on the quay, when he was a shipmaster, and has written to him about the crew.
 
 ## Psyche
 
@@ -81,5 +81,5 @@ The smugglers who land on the north shore without paying her tolls.
 
 ## Plot Hooks
 
-1. **A sick crew.** Two of the Thornbury crew are sick, and Thalmthira wants a healer who will come to the sheds and say nothing in the hall about it.
-2. **A letter to Thornbury.** Thalmthira wants her letter to Edstan Brinwik carried to Thornbury by someone the High Jarl's men will not search.
+1. **A sick crew.** Two of the Thornburi crew are sick, and Thalmthira wants a healer who will come to the sheds and say nothing in the hall about it.
+2. **A letter to Thornburi.** Thalmthira wants her letter to Edstan Brinwik carried to Thornburi by someone the High Jarl's men will not search.

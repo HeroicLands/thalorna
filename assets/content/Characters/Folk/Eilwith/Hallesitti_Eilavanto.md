@@ -102,7 +102,7 @@ The Grukar of Eilwìth.
    Hallesitti, and the lesson turns out to be a test of whether they will leave the wood when asked.
 2. **Iron from the saddle.** A worked piece the herders of the Three Sisters turned up in the turf has
    been sold at [[place-stonyford|Stoniford]] and is on its way to a scholar at
-   [[place-thornbury|Thornbury]]. Hallesitti wants it, and will not say why.
+   [[place-thornbury|Thornburi]]. Hallesitti wants it, and will not say why.
 
 :::secret {title="The deed the song keeps"}
 The first deed of Hallesitti's praise-song is the withdrawal. When the king fell he brought the living

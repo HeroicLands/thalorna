@@ -37,12 +37,12 @@ the steadings sell their young horses at the fair at [[place-stonyford|Stoniford
 prosperous in a modest, unspectacular way.
 
 Along the border, on Ondareth's side of it, a great many senators keep country houses within sight of the peaks, for
-reasons of climate that everyone understands and nobody in [[place-thornbury|Thornbury]] will admit to.
+reasons of climate that everyone understands and nobody in [[place-thornbury|Thornburi]] will admit to.
 
 ## Current Situation {#present}
 
 - **The levy.** The Senate has voted the frontier legion at [[place-kaermouth|Kaermouth]] another legion's levies, and the recruiting officers are taking the republic's upland men at the spring fair at Stoniford, on the Highlands' border. The horse-breeders want their herdsmen left to them, and one of the year's _tavoi_, [[being-alfmundkrtn|Alfmund Kaerton]], is himself a Stoniford breeder taking the levy north. The free steadings send their herdsmen into the hills until the officers have gone.
-- **The reed-beds.** At the northern end of the lake the reed-cutters of [[place-koldmere|Koldmere]] and the hill tenants of [[place-brynwold|Brinwold]] claim the same beds, and each side cuts the other's nets and impounds the other's boats. Koldmere asks the Stoniford senators who buy its fish to speak for it at Thornbury, Brinwold's barons carry their side to Dunmere, and the quarrel stays unsettled each year.
+- **The reed-beds.** At the northern end of the lake the reed-cutters of [[place-koldmere|Koldmere]] and the hill tenants of [[place-brynwold|Brinwold]] claim the same beds, and each side cuts the other's nets and impounds the other's boats. Koldmere asks the Stoniford senators who buy its fish to speak for it at Thornburi, Brinwold's barons carry their side to Dunmere, and the quarrel stays unsettled each year.
 - **The Grukar.** The [[lore-grukaraelwyth|Grukar]] of the Highlands keep to its rocky and wooded ground and raid the open grazing. The nest at [[place-kingsdelf|Kingsdelf]], in the old quarry under the northernmost of the Three Sisters, takes foals from the Stoniford runs while the levy takes the herders north. The nest at [[place-reedgill|Reedgill]] raids the reed-beds at the lake's northern end. Ravenkeld, in a wooded gorge at the northern edge, takes the northern steadings' cattle, and Stoneholt, in the wooded crags above the lake's south-western shore, takes the foals the Durrask leave.
 - **The summer houses.** The senators' country houses on the border stand empty most of the year, and their stewards buy up any highland steading whose family falls behind on its debts.
 
