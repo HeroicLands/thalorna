@@ -7,7 +7,6 @@ description: "A reptilian predator of some fifteen hundred pounds and up to eigh
 tags: [animal]
 data:
   packFolder: animals
-  culture: kaliharanclt
   icon: icon-person
   templatePriority: null
   archetypes: []

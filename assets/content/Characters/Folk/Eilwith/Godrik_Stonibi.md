@@ -2,13 +2,13 @@
 shortcode: godrikstonibi
 name: {full: Godrik Stonibi}
 type: being
-subType: creature
+subType: npc
 description: A traveler entered in Threnhallow’s guest book, whose boots and pack remain in its guest cell.
 tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [commoner]
   occupation: Traveler
   lore: []
   culture: aelwythanclt

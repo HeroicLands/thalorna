@@ -4181,10 +4181,6 @@ data:
     - {name: Sarne, kind: byname, why: An Eilwìthan family name.}
     - {name: Tamsen, kind: given, why: An Eilwìthan given name.}
     - {name: Orlik, kind: byname, why: An Eilwìthan family name.}
-    - {name: Nanwith, kind: given, why: An Eilwìthan given name.}
-    - {name: Krake, kind: byname, why: An Eilwìthan family name.}
-    - {name: Haldrek, kind: given, why: An Eilwìthan given name.}
-    - {name: Vane, kind: byname, why: An Eilwìthan family name.}
     - {name: Aldgar, kind: given, why: An Eilwìthan given name.}
     - {name: Wreimon, kind: byname, why: An Eilwìthan family name.}
     - {name: Mildith, kind: given, why: An Eilwìthan given name.}
@@ -4578,6 +4574,8 @@ data:
     - {name: Bronnakh, kind: given, why: A Peshtar name; no Eilwìthi element builds it.}
     - {name: Taskain, kind: given, why: A Peshtar name; no Eilwìthi element builds it.}
     - {name: Sennog, kind: given, why: A Peshtar name; no Eilwìthi element builds it.}
+    - {name: Gorlen, kind: given, why: A Peshtar name; no Eilwìthi element builds it.}
+    - {name: Brodet, kind: given, why: A Peshtar name; no Eilwìthi element builds it.}
     - {name: Kadrum, kind: given, why: A Durrask name; no Eilwìthi element builds it.}
     - {name: Davrim, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}
     - {name: Kessa, kind: given, why: A Vardain given name; no Eilwìthi element builds it.}

@@ -2,13 +2,13 @@
 shortcode: keeperleofwald
 name: {full: Keeper Leofwald}
 type: being
-subType: creature
+subType: npc
 description: The Threshold Keeper named in Threnhallow’s registers, who speaks of the house and its duties with grave courtesy.
 tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric]
   occupation: Threshold Keeper
   lore: []
   culture: aelwythanclt

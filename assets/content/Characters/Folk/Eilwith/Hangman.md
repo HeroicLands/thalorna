@@ -11,7 +11,6 @@ data:
   archetypes: []
   occupation: Dreadspawn
   lore: []
-  culture: aelwythanclt
   homes: [sunderwynd]
   affiliations: {}
   socialTies: {}

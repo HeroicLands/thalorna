@@ -2,13 +2,13 @@
 shortcode: geroltsarne
 name: {full: Gerolt Sarne}
 type: being
-subType: creature
+subType: npc
 description: The Flame-Warden named in Blackkiln Priory’s old accounts, whose voice answers from its largest kiln.
 tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [cleric]
   occupation: Flame-Warden
   lore: []
   culture: aelwythanclt
@@ -73,7 +73,9 @@ Sarne meets intruders at the pit among the cell’s dead. He believes he conduct
 
 ## Attack Methods
 
-The confrontation follows [[scenario-blackfireblkkln|Cinders in the Dead Pines]]. His burning touch is described below.
+:::secret {title="The Warden’s body"}
+Use [[being-damut|Damut]] for his body, with the burning touch described below. The confrontation follows [[scenario-blackfireblkkln|Cinders in the Dead Pines]].
+:::
 
 ## Special Abilities
 

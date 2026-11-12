@@ -19,18 +19,18 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 ## Overview {#overview}
 
-[[place-nethermootholw|Nethermoot Hollow]] is ringed with oaks into which a witch, [[being-nanwithkrake|Nanwith Krake]], bound the dead of the clan of the nine fords. She did it ten years ago at the war-chief's request, to make the clan's dead fight for the living in a feud, and the binding held after the feud ended. The dead are awake in the trees. They do not rest and she feeds them years, which she takes in payment from those who come to her. [[lore-theshadow|The Shadow]] has found the hollow through the binding, and what stands in the oaks is not wholly the clan's dead.
+[[place-nethermootholw|Nethermoot Hollow]] is ringed with oaks into which a witch, [[being-nanwithkrake|Brodet]], bound the dead of the clan of the nine fords. She did it ten years ago at the war-chief's request, to make the clan's dead fight for the living in a feud, and the binding held after the feud ended. The dead are awake in the trees. They do not rest and she feeds them years, which she takes in payment from those who come to her. [[lore-theshadow|The Shadow]] has found the hollow through the binding, and what stands in the oaks is not wholly the clan's dead.
 
 ## Hooks {#hooks}
 
 - **The thief.** A [[place-thornbury|Thornbury]] apothecary has a client dying of a wasting fever and will pay a thief to bring back a jar of the witch's cure. He does not say what the cure costs the one who fetches it.
 - **The mercenary or common soldier.** A border steading of [[place-aldorathrgn|Aldorath Region]] hires guards to carry a sick child through the forest to the hollow, and it is a three-day march through country hunted by [[lore-grukaraelwyth|The Grukar of Eilwìth]].
-- **The leader.** The war-chief [[being-haldrekvane|Haldrek Vane]] sends a chieftain who owes him a debt to fetch his daughter from the hollow, where she has gone to bargain for her mother's life. He says nothing of the oaks.
+- **The leader.** The war-chief [[being-haldrekvane|Gorlen]] sends a chieftain who owes him a debt to fetch his daughter from the hollow, where she has gone to bargain for her mother's life. He says nothing of the oaks.
 - **The lone wanderer.** The wanderer's own sickness, a failing hand, a fading eye, has a cure rumored in the forest, and a trackstone path leads to it.
 
 ## Cast and Stakes
 
-[[being-nanwithkrake|Nanwith Krake]] gives the bargains; [[being-haldrekvane|Haldrek Vane]] commissioned the binding; [[being-rootedchief|Rooted Chief]] is the Shadow’s mouth in the oldest oak. Use [[being-damut|Damut]] for the root-sworn, with fragments of their clan memories, and [[being-cat|Cat]] for Nanwith’s watcher. The Grukar on the approach use [[being-grukaruk|Grukar-Uk]]. The Faith of Sélmoros has a stake in the abandoned rites, and Aldorath’s border households send their sick along the trackstones.
+[[being-nanwithkrake|Brodet]] gives the bargains; [[being-haldrekvane|Gorlen]] commissioned the binding; [[being-rootedchief|Rooted Chief]] is the Shadow’s mouth in the oldest oak. Use [[being-damut|Damut]] for the root-sworn, with fragments of their clan memories, and [[being-cat|Cat]] for Brodet’s watcher. The Grukar on the approach use [[being-grukaruk|Grukar-Uk]]. The Faith of Sélmoros has a stake in the abandoned rites, and Aldorath’s border households send their sick along the trackstones.
 
 ## The Opening {#opening}
 
@@ -58,9 +58,9 @@ A jar clicks against another inside the cottage. At the foot of the path a gray 
 
 **Purpose.** Meet the witch and learn her bargain.
 
-**Situation.** The cottage is warm and low, with a loom in the corner and a long table of stoppered jars. A black cat watches from the lintel. Nanwith Krake is at the loom when the party comes in, weaving something gray, and she sets it aside.
+**Situation.** The cottage is warm and low, with a loom in the corner and a long table of stoppered jars. A black cat watches from the lintel. Brodet is at the loom when the party comes in, weaving something gray, and she sets it aside.
 
-**NPCs and threats.** Nanwith Krake is a spare woman with white hands and a quiet voice. She is not cruel and she does not haggle. She says what each thing costs in years and from whom, and she keeps her word. She is afraid of something she does not name, and she hides it behind courtesy. The cat is a watcher: it goes to the dell when the witch calls and returns with the oaks' answer.
+**NPCs and threats.** Brodet is a spare woman with white hands and a quiet voice. She is not cruel and she does not haggle. She says what each thing costs in years and from whom, and she keeps her word. She is afraid of something she does not name, and she hides it behind courtesy. The cat is a watcher: it goes to the dell when the witch calls and returns with the oaks' answer.
 
 **Player choices.** Force: seize the witch, which brings the root-sworn down on the cottage. Stealth: take a jar while she weaves. Guile: bargain, offering someone else's years or a different payment. Parley: ask her why she binds the dead.
 
@@ -108,7 +108,7 @@ A jar clicks against another inside the cottage. At the foot of the path a gray 
 
 **Situation.** In the cottage the witch, if she lives, gives the party what she has: a chest of her own making and the loom's cloth. The names woven in it run back ten years. The first thread is the war-chief's.
 
-**NPCs and threats.** If the witch is dead, her cat sits on the chest and watches. Haldrek Vane arrives within the day, with six warriors, to see what became of his debt.
+**NPCs and threats.** If the witch is dead, her cat sits on the chest and watches. Gorlen arrives within the day, with six warriors, to see what became of his debt.
 
 **Player choices.** Force: confront the war-chief with the cloth. Stealth: take the cloth and the chest and leave him ignorant. Guile: trade the cloth to the war-chief for the sum he owes. Parley: take it to the shamans of the neighboring clans and let them judge him.
 
@@ -120,7 +120,7 @@ A jar clicks against another inside the cottage. At the foot of the path a gray 
 
 ## If the Party Does Nothing {#if-the-party-does-nothing}
 
-Nanwith continues selling years, and the Shadow takes a larger share of each payment. Haldrek keeps his part in the binding concealed. The seam in the oldest oak widens until the rooted dead can no longer be held within the hollow.
+Brodet continues selling years, and the Shadow takes a larger share of each payment. Gorlen keeps his part in the binding concealed. The seam in the oldest oak widens until the rooted dead can no longer be held within the hollow.
 
 ## Aftermath {#aftermath}
 

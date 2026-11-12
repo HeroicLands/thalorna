@@ -7,7 +7,6 @@ description: "A sea turtle of seven to nine feet and half a ton, its green-black
 tags: [animal, creature, image-needed]
 data:
   packFolder: animals
-  culture: kaliharanclt
   icon: icon-person
   templatePriority: null
   archetypes: []

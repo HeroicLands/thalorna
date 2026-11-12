@@ -11,7 +11,6 @@ data:
   archetypes: []
   occupation: Ancestor of the Nine Fords
   lore: []
-  culture: aelwythanclt
   homes: [nethermootholw]
   affiliations: {}
   socialTies: {}
@@ -49,17 +48,17 @@ The Shadow wears the first chief’s remains and speaks through the black seam i
 
 ## In the Land
 
-The oak stands at the hollow’s lowest point among the clan’s burial trees. [[being-nanwithkrake|Nanwith Krake]] tends the hollow, while [[being-haldrekvane|Haldrek Vane]] speaks for the living clans. The founder belongs to the ground’s oldest accounts.
+The oak stands at the hollow’s lowest point among the clan’s burial trees. [[being-nanwithkrake|Brodet]] tends the hollow, while [[being-haldrekvane|Gorlen]] speaks for the living clans. The founder belongs to the ground’s oldest accounts.
 
 ## Key Behaviors
 
 :::secret {title="The binding’s command"}
-The figure calls the root-sworn against intruders and against Nanwith as she tries to hold the seam shut. The dead want release from the binding. Killing Nanwith leaves that binding intact.
+The figure calls the root-sworn against intruders and against Brodet as she tries to hold the seam shut. The dead want release from the binding. Killing Brodet leaves that binding intact.
 :::
 
 ## What the Clans Do
 
-Haldrek’s warriors skirt the dell’s north side and leave the witch alone. The neighboring shamans say Nanwith broke their rule concerning the dead. Their funeral words and the old clan tokens survive among the living.
+Gorlen’s warriors skirt the dell’s north side and leave the witch alone. The neighboring shamans say Brodet broke their rule concerning the dead. Their funeral words and the old clan tokens survive among the living.
 
 ## Signs
 
@@ -70,7 +69,7 @@ Haldrek’s warriors skirt the dell’s north side and leave the witch alone. Th
 ## Combat Strategy
 
 :::secret {title="At the oldest oak"}
-The Shadow calls the root-sworn to defend the seam. Cutting the oak wounds the great body, but does not free the dead. The chief beneath the voice can be addressed while Nanwith struggles at the roots.
+The Shadow calls the root-sworn to defend the seam. Cutting the oak wounds the great body, but does not free the dead. The chief beneath the voice can be addressed while Brodet struggles at the roots.
 :::
 
 ## Attack Methods

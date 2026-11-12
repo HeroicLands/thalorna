@@ -7,7 +7,6 @@ description: "A dog-sized burrower with broad forelimbs and soft gray fur that w
 tags: [animal, creature, image-needed]
 data:
   packFolder: animals
-  culture: kaliharanclt
   icon: icon-person
   templatePriority: null
   archetypes: []

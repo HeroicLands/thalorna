@@ -7,7 +7,6 @@ description: "A drifting, bell-shaped sea animal two to three feet across with t
 tags: [animal, creature, image-needed]
 data:
   packFolder: animals
-  culture: kaliharanclt
   icon: icon-person
   templatePriority: null
   archetypes: []

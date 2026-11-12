@@ -2,13 +2,13 @@
 shortcode: wenlornereeve
 name: {full: Reeve of Wenlorne}
 type: being
-subType: creature
+subType: npc
 description: The courteous host of Wenlorne Stage, with a lantern, a ledger and a bed for every traveler.
 tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: []
+  archetypes: [courtier]
   occupation: Road-Reeve
   lore: []
   culture: aelwythanclt
@@ -74,7 +74,7 @@ The Reeve fights to keep guests inside. He brings the porters toward an escape r
 ## Attack Methods
 
 :::secret {title="The porters"}
-Use [[being-damut|Damut]] for the porters. The Reeve’s confrontation follows [[scenario-lampswenlorne|Pale Lamps on the Crown Road]].
+Use [[being-damut|Damut]] for the porters and for the Reeve’s own body, with the abilities below. His confrontation follows [[scenario-lampswenlorne|Pale Lamps on the Crown Road]].
 :::
 
 ## Special Abilities
