@@ -65,14 +65,10 @@ The guardians’ defense uses the grove’s close terrain and moving growth. A p
 
 ## Attack Methods
 
-Use the glade’s obstacles and the encounter’s choices when the guardians resist passage.
+The guardians do not strike first. Once weapons are drawn, trunks and roots close the clearing, narrow the route and separate the party's members, pressing against anyone who keeps pushing forward. They ease back when the intruders sheathe their weapons and offer to leave the grove unharmed.
 
 ## Special Abilities
 
 ### The guarded grove
 
 The surrounding growth can block and narrow an intruder’s route. The [[miscgear-temprlcmpss|Temporal Compass]] steadies its bearer’s time, but grants no authority over the dryads or their ground.
-
-## Attributes
-
-The encounter’s visible scale is that of the ancient trees around the clearing. Its changing spaces make the guardians’ attention apparent before a traveler is hemmed in.

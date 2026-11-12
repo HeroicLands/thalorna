@@ -373,6 +373,10 @@ sohl:
     defaultCombatGroup: null
 ---
 
+# Appearance {#appearance}
+
+Marrik Háravrel is a soldier in a sergeant's plain mail, with a short blade worn where his hand falls to it without thought. He stands at the edge of every group and watches the guards at their posts.
+
 # Dossier {#dossier}
 
 Marrik Háravrel is Sergeant-at-Arms of the embassy from [[place-dunavarre|Dúnavarre]] to Tantsou under [[being-arancelavren|Aran Kélavren]]. He oversees security and trains its guards. His authority rests on military leadership and the practical work of keeping the retinue safe.

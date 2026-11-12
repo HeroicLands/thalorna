@@ -52,7 +52,7 @@ Cut nets, Koldmere's and Brinwold's both, line the dens. A party that finds them
 - **The lost boat.** Koldmere wants its boat and its two cutters found, and is sure they are at Brinwold.
 - **The nets.** Each shore finds its own nets cut in the morning, and the reed-reeve of Koldmere pays for proof of who cuts them.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-grukaraelwyth|The Grukar of Eilwìth]]
 : the nests of the island
@@ -66,6 +66,5 @@ Cut nets, Koldmere's and Brinwold's both, line the dens. A party that finds them
 [[being-stillwader|Stillwader]]
 : the Sha of the nest
 
-## Adventures {#adventures}
-
-- [[scenario-reedgillnets|Nets from Both Shores]]
+[[scenario-reedgillnets|Nets from Both Shores]]
+: a scenario: a missing boat and the nets two shores cut from one another

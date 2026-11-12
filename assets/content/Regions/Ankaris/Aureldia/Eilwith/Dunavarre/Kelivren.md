@@ -48,7 +48,7 @@ A hall, a chapel, stables for three hundred horses, an armory and the roll-room,
 - **The furs.** A trader in the village buys Seilvri furs, and the Order has begun to ask who sells them to him.
 - **The roll.** A name has been scraped from the roll-room wall, and the Knight-Marshal wants to know whose and why.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-justbladeordr|Order of the Just Blade]]
 : the order whose commandery it is
@@ -59,6 +59,5 @@ A hall, a chapel, stables for three hundred horses, an armory and the roll-room,
 [[place-teilvari|Teilvari]]
 : the forest the Order's road goes into
 
-## Adventures {#adventures}
-
-- [[scenario-seilvririte|Three Nights for the Hushwood]]
+[[scenario-seilvririte|Three Nights for the Hushwood]]
+: a scenario: three nights among a people's dead while knights bar the wood

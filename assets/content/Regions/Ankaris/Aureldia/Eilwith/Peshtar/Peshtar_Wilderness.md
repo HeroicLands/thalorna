@@ -145,7 +145,7 @@ All three tribes have a War-Leader, which the oldest shamans cannot remember hap
 - **The Grukar.** The war nobody records goes on in every country of the three tribes. The nest at Mossglen takes the Bradhar hill clans' sheep while their fighters face the legion; Pinehollow and Hazelbrake fight each other and both tribes over the high pastures; Gullstone takes the Lonagar fowlers off the cliffs; and a young nest at [[place-kineglen|Kineglen]] holds the Kelgar glen the jarls emptied ([[lore-grukaraelwyth|the Grukar of Eilwìth]]).
 - **The high pastures.** Kelgar clans driven west from the plain's edge graze the high pastures the Bradhar call theirs, and the two tribes have killed each other's herdsmen over them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eilwith|Eilwìth]]
 : the parent island
@@ -170,3 +170,9 @@ All three tribes have a War-Leader, which the oldest shamans cannot remember hap
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
+
+[[scenario-blackfireblkkln|Cinders in the Dead Pines]]
+: a scenario: a black fire in a ruined priory and the dead who kneel at its door
+
+[[scenario-yearsinoaks|Ten Winters in the Bark]]
+: a scenario: a witch whose cures are paid for in years, and the oaks around her hollow

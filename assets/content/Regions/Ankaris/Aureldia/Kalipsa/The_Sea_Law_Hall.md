@@ -48,7 +48,7 @@ A stranger may come in and listen to any hearing, and a stranger who has a dispu
 - **The third arbitrator.** The two chosen arbitrators cannot agree on the third, and each party wants to know which of the master arbitrators the other has approached.
 - **A witness from the bay.** The Norodari need a witness from [[place-sarmelis|Sarmelis]] who saw the three hulls leave the outer quay and saw whether they asked for a pilot's mark, and the witness has not come over.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sealaw|The Sea-Law]]
 : the law heard here
@@ -59,6 +59,5 @@ A stranger may come in and listen to any hearing, and a stranger who has a dispu
 [[affiliation-bondsyndcts|The Bond Syndicates]]
 : the syndicates whose bonds come before it
 
-## Adventures {#adventures}
-
-- [[scenario-kalipsahulls|The Third Night and the Spring Count]]
+[[scenario-kalipsahulls|The Third Night and the Spring Count]]
+: a scenario: three lost hulls, a disputed pilot roster and a census before the Sea-Law Hall

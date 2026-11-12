@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Announces the Ambassador's arrival and status.
+Kadilem Kúdavel wears a herald's tabard bright with the embassy's colors and carries a short staff of office. He holds his chin high and his voice carries, and his boots are polished even on the road.
 
 # Dossier {#dossier}
+
+**Role.** Announces the Ambassador's arrival and status.
 
 **Background.** Skilled in ceremonial duty and official occasion.
 

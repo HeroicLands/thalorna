@@ -54,7 +54,7 @@ The kingdom holds the eastern shore of [[place-eilissa|Lake Eilìssa]], the grea
 
 The kingdom is quarreling with itself. [[being-aldrikdrthng|King Aldrik]] wants the council of barons to accept his young son as king-to-be in his own lifetime, and [[being-godwaldstrl|Godwald Storli]], the Elder of the Council, holds the barons against it, because the crown has always been theirs to give at each vacancy. The barons' levies reach the Wiindmarch late and short while the quarrel lasts, and the march holds the Stormveld passes and the forest margin with fewer men each season. On the lake the barons of the eastern shore and the free village of [[place-koldmere|Koldmere]] dispute the reed-beds at its northern end, and on the coast every hull out of Greiwater still calls at [[place-ravenmoor|Ravenmoor]] before it may sail for the mainland.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eilwith|Eilwìth]]
 : the island this region is part of
@@ -67,3 +67,6 @@ The kingdom is quarreling with itself. [[being-aldrikdrthng|King Aldrik]] wants 
 
 [[place-eilissa|Lake Eilìssa]]
 : the lake on its western side
+
+[[scenario-yearsinoaks|Ten Winters in the Bark]]
+: a scenario: a witch whose cures are paid for in years, and the oaks around her hollow

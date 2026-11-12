@@ -374,9 +374,11 @@ sohl:
 
 # Appearance {#appearance}
 
-**Role.** Ensures the embassy is fed, and its morale with it.
+Geldar Panivel the Younger is broad in the hands and quick on his feet, in a stained apron over travel clothes. He keeps a knife roll at his belt and carries himself with the easy good humor of a man the whole camp is glad to see at mealtime.
 
 # Dossier {#dossier}
+
+**Role.** Ensures the embassy is fed, and its morale with it.
 
 **Background.** Well known for his culinary skill.
 

@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Ensures accurate record-keeping and correspondence.
+Elowir Nimavren has ink on his fingers and a satchel of rolled documents and sealing wax at his hip. He dresses in dull, serviceable cloth and stands slightly stooped, as though the writing desk has shaped him.
 
 # Dossier {#dossier}
+
+**Role.** Ensures accurate record-keeping and correspondence.
 
 **Background.** Trusted for meticulous work and reliability in the [[affiliation-dunavarsynod|Synod]]'s records.
 

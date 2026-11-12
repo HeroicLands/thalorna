@@ -1,7 +1,9 @@
 # The outline registry: each note kind's sections, called slots. The outline
 # guard (utils/outline-guard.mjs) reads this file and checks a note's heading
 # anchors (`## Any Wording {#id}`) against the entry its kind selects. It checks
-# ids and their order, never heading wording.
+# ids and their order, not heading wording, with one exception: a heading with
+# no anchor whose text is the `heading` a kind declares for its `see-also` slot
+# counts as that See Also.
 
 # A note of at most this many words is a row-depth stub. A slot with
 # `needs: summary` is required only of a note longer than this.
@@ -59,7 +61,8 @@ sharedGovernance: []
 homedBeingExceptions: {}
 
 # Ids of the lands held to this registry. A finding in a finished land is an
-# error; in every other land it is a warning.
+# error; in every other land it is a warning, except `see-also-not-last`, which
+# is an error in every land.
 finished: [tarvenia, elavendre, provenzia]
 
 # Each entry selects notes by `type`, `subType` and tags (`anyTag`: at least one;
@@ -67,12 +70,13 @@ finished: [tarvenia, elavendre, provenzia]
 # entry that matches a note applies. `profile` is the number of the kind's
 # profile in the plan. A slot's status is `required`, `warranted` (written when
 # the land calls for it) or `optional`. A kind may list `absent` slot ids that
-# its notes never carry. `closing: [truth]` names the slots that may follow
-# See Also. A slot's heading is at `level` (`slotLevel` unless the slot says
+# its notes never carry. `closing: [truth, glossary]` names the slots that may follow
+# See Also: a note's secret truth, and the glossary section of a culture or
+# other lore note. Headings nested under a closing section belong to it. A slot's heading is at `level` (`slotLevel` unless the slot says
 # otherwise); a heading at another level does not fill the slot. `match.data`
 # selects on frontmatter `data` keys, and `match.subType` may be a list. A
 # `profile` is a number, or a list of numbers, from the plan's adopted profiles.
-closing: [truth]
+closing: [truth, glossary]
 slotLevel: 2
 
 kinds:

@@ -74,7 +74,7 @@ The Reeve fights to keep guests inside. He brings the porters toward an escape r
 ## Attack Methods
 
 :::secret {title="The porters"}
-Use [[being-damut|Damut]] for the porters and for the Reeve’s own body, with the abilities below. His confrontation follows [[scenario-lampswenlorne|Pale Lamps on the Crown Road]].
+The Reeve fights to keep guests inside. His porters move toward an escape route and crowd the doorways, and he lays his dry, cold touch and the cord of his office on whoever tries to leave; use [[being-damut|Damut]] for the porters and for the Reeve’s own body, with the abilities below. His confrontation follows [[scenario-lampswenlorne|Pale Lamps on the Crown Road]].
 :::
 
 ## Special Abilities

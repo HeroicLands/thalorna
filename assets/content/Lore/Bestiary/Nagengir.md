@@ -12,23 +12,6 @@ _Nágengir_ is the [[affiliation-nahild|Faith of Nahild]]'s name for its favored
 
 This name marks a particular kind of [[lore-undead|undead]], not every dead presence feared in the [[place-nrdlndsrgn|Nordlands]]. A spirit that remains near a place is not thereby a nágengir. The broader bestiary explains the difference between an immaterial haunting and a body made to walk after death.
 
-## See Also
-
-[[lore-undead|Undead]]
-: the wider class and its learned distinctions
-
-[[lore-theshadow|The Shadow]]
-: the corrupting force every undead carries
-
-[[lore-haugverdir|Hrúmverdir]]
-: the mindless dead of Nahild's legions, and the folk word's wider use
-
-[[being-tereb|Tereb]]
-: the sentient undead kind to which nágengir belong
-
-[[affiliation-nahild|Faith of Nahild]]
-: the cult that names and commands them
-
 ## The Watch Beneath the Hidden Roof
 
 One northern warning tale follows an unnamed traveler past a hidden hov of Nahild. Its terror lies in a guardian that thinks, speaks, and commands the driven dead. The teller leaves its fate unanswered and carries the warning back to a living hearth.
@@ -488,3 +471,20 @@ hlusta tiv bakfardri heik nathli‼/
 varnmarl es na vakti livri./
 thermi dver tharv halv thenva helm.
 :::
+
+## See Also {#see-also}
+
+[[lore-undead|Undead]]
+: the wider class and its learned distinctions
+
+[[lore-theshadow|The Shadow]]
+: the corrupting force every undead carries
+
+[[lore-haugverdir|Hrúmverdir]]
+: the mindless dead of Nahild's legions, and the folk word's wider use
+
+[[being-tereb|Tereb]]
+: the sentient undead kind to which nágengir belong
+
+[[affiliation-nahild|Faith of Nahild]]
+: the cult that names and commands them

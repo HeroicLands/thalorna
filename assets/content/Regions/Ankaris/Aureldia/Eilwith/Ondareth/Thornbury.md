@@ -67,6 +67,8 @@ The First Senator, [[being-harwingrymr|Harwin Greimore]], holds the chair for on
 
 [Tralkar]{.name data-type="being/npc"}, the last king of the western coast, kept his castle on the rock until the coast's levies under [Zalmen]{.name data-type="being/npc"} threw it down about 440 AF, and the captains who had paid for the rising raised the Senate house below it ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). The city has been the republic's seat since.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-repblcndrth|Republic of Ondareth]] · [[affiliation-senatondrth|Senate of Ondareth]] · [[place-ondareth|Ondareth]] · [[place-eilwith|Eilwìth]]
+- [[scenario-blackfireblkkln|Cinders in the Dead Pines]]
+- [[scenario-yearsinoaks|Ten Winters in the Bark]]

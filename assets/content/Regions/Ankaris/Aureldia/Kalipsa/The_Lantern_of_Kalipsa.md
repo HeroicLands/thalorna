@@ -48,7 +48,7 @@ The tower stands at the end of a walled path along the headland from the old cit
 - **The oil cart.** The next oil cargo from the south is overdue, and Snurvinda Druskaruk wants to know whether it was delayed or bought up before it reached the quay.
 - **The trial lamp.** The Glervhavan elder wants a cask of the village's oil carried up to the tower and burned beside the olive oil for one night, before witnesses from the Council, and the keeper will not have it in the lantern room.
 
-## See Also
+## See Also {#see-also}
 
 [[place-calypsacity|Kalipsa]]
 : the city below the headland
@@ -58,3 +58,9 @@ The tower stands at the end of a walled path along the headland from the old cit
 
 [[place-kalipsarun|The Kalipsa Run]]
 : the crossing that steers for the light
+
+[[scenario-oldmoleface|Before the Stone Is Covered]]
+: a scenario: a carving laid bare below the harbor stonework, to be copied before the repairs bury it
+
+[[scenario-kalipsahulls|The Third Night and the Spring Count]]
+: a scenario: three lost hulls, a disputed pilot roster and a census before the Sea-Law Hall

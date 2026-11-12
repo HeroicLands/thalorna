@@ -77,7 +77,9 @@ The Hangman waits beside a calling captive and reaches down for an approaching r
 
 ## Attack Methods
 
-The rescue and confrontation follow [[scenario-hangingdead|The Hanging Dead of the Ironfells]].
+:::secret {title="Reach from overhead"}
+It reaches down from overhead holds with long arms and lifts a victim by rope or by hand, carrying the captive up to hang beneath the beams.
+:::
 
 ## Special Abilities
 

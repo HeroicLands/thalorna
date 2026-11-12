@@ -74,7 +74,7 @@ Sarne meets intruders at the pit among the cell’s dead. He believes he conduct
 ## Attack Methods
 
 :::secret {title="The Warden’s body"}
-Use [[being-damut|Damut]] for his body, with the burning touch described below. The confrontation follows [[scenario-blackfireblkkln|Cinders in the Dead Pines]].
+Sarne meets intruders at the pit among the cell’s dead and fights as a priest conducting an offering, striking with the burning touch described below; use [[being-damut|Damut]] for his body and for the dead around him. He answers talk and challenge as readily as blows. The confrontation follows [[scenario-blackfireblkkln|Cinders in the Dead Pines]].
 :::
 
 ## Special Abilities

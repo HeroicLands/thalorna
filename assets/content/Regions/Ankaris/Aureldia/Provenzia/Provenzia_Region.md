@@ -141,7 +141,7 @@ The Courtly Tradition
 The Vineyards
 : Provénzia's wines are famous across Midhalión, and the wine trade is a cornerstone of the regional economy.
 
-## See Also
+## See Also {#see-also}
 
 [[place-elavendre|Élavendre]]
 : Northwestern neighbor and cultural cousin
@@ -163,3 +163,6 @@ The Vineyards
 
 [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : Polity details
+
+[[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+: a scenario: an embassy crossing Eilwìth, Élavendre and Provenzia on the road to Tantsou

@@ -47,6 +47,7 @@ Its market deals in the goods of the forest margin: timber, charcoal, furs, and 
 forest communities as are on speaking terms this decade. That trade is illegal in strict law and
 universal in practice.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-pshtrwldrns|Peshtar Wilderness]]
+- [[scenario-hangingdead|The Hanging Dead of the Ironfells]]

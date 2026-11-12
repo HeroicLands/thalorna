@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Assists in negotiations and serves as an interpreter.
+Lady Thaeklia Maelvri dresses with a courtier's care, in cloth chosen to be remembered without being loud. She carries a slim case of papers and a small book of phrases, and she listens with her head slightly tilted when someone speaks.
 
 # Dossier {#dossier}
+
+**Role.** Assists in negotiations and serves as an interpreter.
 
 **Background.** Possesses extensive knowledge of eastern customs.
 

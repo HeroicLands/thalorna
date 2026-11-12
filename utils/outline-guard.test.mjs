@@ -134,6 +134,34 @@ test("a heading after See Also is reported, except the truth section", () => {
     );
 });
 
+test("an unanchored See Also heading the registry declares is checked", () => {
+    const { findings } = check({ root: tree(), registry });
+    const found = forFile(findings, "Unanchored.md", "see-also-not-last");
+    assert.equal(found.length, 1);
+    assert.equal(found[0].severity, "error");
+    assert.equal(forFile(findings, "UnanchoredLast.md", "see-also-not-last").length, 0);
+});
+
+test("headings nested in a closing section follow See Also, and a stray one after it is reported", () => {
+    const { findings } = check({ root: tree(), registry });
+    assert.deepEqual(
+        findings.filter((f) => f.file.endsWith("ClosingNested.md")),
+        [],
+    );
+    const stray = forFile(findings, "ClosingStray.md", "see-also-not-last");
+    assert.equal(stray.length, 1);
+    assert.equal(stray[0].severity, "error");
+});
+
+test("a level-three heading after See Also is reported with or without the anchor", () => {
+    const { findings } = check({ root: tree(), registry });
+    for (const file of ["DeepWithAnchor.md", "DeepNoAnchor.md", "DeepPlain.md"]) {
+        const found = forFile(findings, file, "see-also-not-last");
+        assert.equal(found.length, 1, file);
+        assert.equal(found[0].severity, "error", file);
+    }
+});
+
 test("a slot nested under See Also is out of place and does not fill the slot", () => {
     const { findings } = check({ root: tree(), registry });
     assert.equal(forFile(findings, "Nested.md", "see-also-not-last").length, 1);

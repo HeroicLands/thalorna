@@ -26,7 +26,7 @@ Nobody moots there. A thatched cottage of black timber sits against the dell's l
 
 ## The Witch {#present}
 
-[[being-nanwithkrake|Brodet]] is a woman who looks sixty and has looked sixty longer than the clan elders have lived. She was a shaman of the nine fords, trained in the mysteries of the stones and trackways and expelled from her clan for a binding she would not undo. She lives in the hollow with a black cat, a loom and a long table of jars. She sells cures, curses and the finding of lost things, and she is fair in her dealings: she says what each costs and takes only that.
+[[being-nanwithkrake|Brodet]] is a woman who looks sixty and has looked sixty longer than the clan elders have lived. She was a shaman of the nine fords, trained in the mysteries of the stones and trackways. She left her clan, and its shamans say she broke their rule concerning the dead. She lives in the hollow with a black cat, a loom and a long table of jars. She sells cures, curses and the finding of lost things, and she is fair in her dealings: she says what each costs and takes only that.
 
 She names her prices in years: a month for a fever, a year for a curse, five for finding a lost child. She offers to take the price from the buyer or from someone the buyer names. The buyer hears the terms before agreeing.
 
@@ -39,13 +39,13 @@ The years go into the oaks. The old dead of the clan, rooted in the trees since 
 - **The clans of the nine fords.** Their war-chief, [[being-haldrekvane|Gorlen]], says the witch is a thing of the old woods and that no one in the hollow should be troubled. His warriors leave her jars unpicked and go around the dell on the north side.
 - **The border steadings of [[place-aldorathrgn|Aldorath]].** Their shepherds say the witch can cure anything. The sick are carried there in the dark of the moon, and the carriers do not discuss the price.
 - **The shamans of the stone circles.** The shamans of neighboring clans say Brodet broke the oldest rule of their order, that the dead are given to the earth and no one else, and that her work will draw something worse than a witch to the hollow.
-- **[[affiliation-selmoros|Sélmoros]]'s few priests in the interior.** They say the dead in the trees are not at rest and that no rite exists for them, because the clan's rite was never done.
+- **[[affiliation-selmoros|Sélmoros]]'s few priests in the interior.** They say no rite is kept at the hollow and that the oaks are not holy ground.
 
 ## Reaching It
 
 The hollow lies a hard three days' walk into the interior forest from the nearest Aldorathi steading, along trackstone paths that are older than the clans. The Grukar hunt the same country, and a party keeps to the trackstones, which the Grukar are said to avoid. The oaks give no sign until the traveler is among them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-pshtrwldrns|Peshtar Wilderness]]
 : the highland country to the north-west
@@ -62,6 +62,5 @@ The hollow lies a hard three days' walk into the interior forest from the neares
 [[lore-theshadow|The Shadow]]
 : the danger the neighboring shamans fear
 
-## Adventures {#adventures}
-
-- [[scenario-yearsinoaks|Ten Winters in the Bark]]
+[[scenario-yearsinoaks|Ten Winters in the Bark]]
+: a scenario: a witch whose cures are paid for in years, and the oaks around her hollow

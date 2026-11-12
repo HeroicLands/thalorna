@@ -41,6 +41,7 @@ there.
 
 The vale's lords want men from the uplands for the Wiindmarch's levy, and the upland tenants owe rents in kind and not service in arms. [[place-brynhallow|Brinhallow]]'s tenants have refused under their old terms, and the other hill parishes are waiting to see whether their lords press them. At the northern end of [[place-eilissa|Lake Eilìssa]], where Brinwold's hills come down to the water under the Sunderfells, the Brinwold manors and the reed-cutters of the free village of [[place-koldmere|Koldmere]] dispute the reed-beds and the fishing off them, and nets are cut every summer.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-brynhallow|Brinhallow]] · [[place-ashford|Ashford]]
+- [[scenario-reedgillnets|Nets from Both Shores]]

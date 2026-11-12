@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Provides spiritual guidance and conducts the mission's rites.
+Letek Larnavel wears the vestments of a High Priest of Árdavon over his traveling clothes and carries the faith's sign on a plain cord. He walks slowly and speaks gravely, and his hands rest folded when he listens.
 
 # Dossier {#dossier}
+
+**Role.** Provides spiritual guidance and conducts the mission's rites.
 
 **Background.** A High Priest of [[affiliation-ardavon|Árdavon]], known for dedication and steadfastness, who keeps the party's moral compass and sees the mission adheres to the principles of order and justice.
 

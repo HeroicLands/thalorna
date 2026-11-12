@@ -60,6 +60,7 @@ hide staples that carry the kingdom's trade, and the cathedral dedicated to the
 [[affiliation-arldnpnthn|Aureldian Pantheon]]. Beyond the walls, in every direction, the manorial country that
 holds four in five of Aldorath's people.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-eilwith|Eilwìth]] · [[place-eilissa|Lake Eilìssa]] · [[place-kingsholow|Kingshollow]]
+- [[scenario-lampswenlorne|Pale Lamps on the Crown Road]]

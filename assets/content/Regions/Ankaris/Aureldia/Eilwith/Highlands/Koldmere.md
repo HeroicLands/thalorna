@@ -36,7 +36,7 @@ The lake runs away south-east from the beach, farther than the eye reaches; [[pl
 
 A track runs to Koldmere from Stonyford across the open grazing, a long day on foot and easy riding. By water a boat from Brinwold's shore makes it in an hour, and that is half the quarrel.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eilissa|Lake Eilìssa]]
 : the lake
@@ -46,3 +46,6 @@ A track runs to Koldmere from Stonyford across the open grazing, a long day on f
 
 [[place-brynwold|Brinwold]]
 : the Aldorathi hills across the reed-beds
+
+[[scenario-reedgillnets|Nets from Both Shores]]
+: a scenario: a missing boat and the nets two shores cut from one another

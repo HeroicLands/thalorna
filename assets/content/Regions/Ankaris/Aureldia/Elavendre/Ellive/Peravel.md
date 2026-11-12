@@ -70,9 +70,10 @@ Péravel was the market of the Berav's lower houses before it was a capital, and
 - **The petition.** A grove-elder's clerk asks the party to find one object in the chapterhouse collections and to prove where it came from.
 - **Half in advance.** The Fitter of Expeditions hires guards at the river-quarter inns for a season in the interior, and will not name the ground.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-ellive|Éllive]] · [[place-beravriver|the Berav]] · [[affiliation-kngdmlvndr|Kingdom of Élavendre]]
 - [[scenario-kprscphr|The Keeper's Cipher]], a scenario set here
 - [[scenario-thprncssmmr|The Prince's Summer]], a scenario set here
 - [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here
+- [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]

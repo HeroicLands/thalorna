@@ -54,7 +54,8 @@ No one stands inside it. The Wardens keep their posts at the margin of the fores
 
 The Maze is the reason the Heart is still where it is. Áelithra Énevin wants a party to carry the Compass in, solve it and bring the Heart out, and the Wardens, who know she wants it, have doubled the posts on the Provénzia side.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-aralwen|Araelwen]] · [[miscgear-heartofdhirikri|Heart of Dirikri]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]]
+- [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]

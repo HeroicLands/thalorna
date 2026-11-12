@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Manages the financial affairs of the embassy.
+Larad Lúavel wears the dark, plain cloth of a steward and carries a ring of keys and a purse-book at his belt. He is exact in his movements and quick to count what lies before him, whether coin, sacks or people.
 
 # Dossier {#dossier}
+
+**Role.** Manages the financial affairs of the embassy.
 
 **Background.** A keen eye for detail and a strong grip on resources.
 

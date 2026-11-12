@@ -44,7 +44,7 @@ The lamps are still lit every dusk. The king's foresters out of Dunmere have sto
 
 From Dunmere the old road starts at a ford below the last foresters' lodge and runs south under the oaks. A party on foot reaches Wenlorne in a long day. The road is the surest footing in the forest, and the forest on either side of it is wet, dense and held by Grukar, so the road is where a party stays. After dark the lamps begin.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thornwold|The Thornwold]]
 : the oak country the road crosses
@@ -58,6 +58,5 @@ From Dunmere the old road starts at a ford below the last foresters' lodge and r
 [[lore-theshadow|The Shadow]]
 : the dread named in stories of the stage
 
-## Adventures {#adventures}
-
-- [[scenario-lampswenlorne|Pale Lamps on the Crown Road]]
+[[scenario-lampswenlorne|Pale Lamps on the Crown Road]]
+: a scenario: pale lamps that lead to a waystation whose gate never opens again

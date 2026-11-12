@@ -74,7 +74,7 @@ Godrik joins the drowned congregation wherever the house’s water reaches. He c
 ## Attack Methods
 
 :::secret {title="The drowned traveler"}
-Use Damut for his physical attacks. [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]] describes the flooded house and his part in its congregation.
+Godrik does not pursue. He reaches for visitors with raw hands from the window and from wherever the water comes, and he fights as part of the drowned congregation; use [[being-damut|Damut]] for his physical attacks. He cannot follow onto dry stone. [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]] describes the flooded house and his part in its congregation.
 :::
 
 ## Special Abilities

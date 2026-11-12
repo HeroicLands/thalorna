@@ -77,7 +77,8 @@ The posts on the Provénzia side have been doubled this season, and agents of th
 
 On the low country by the gulf the trouble is older and worse. The [[place-bldfldyharvalen|Blood-field of Yarvalen]] has woken from its long quiet, and the withering spreads outward from the broken henge every season: the farms nearest it are being abandoned, and the families who leave them carry their grievance to [[place-batarencity|Bataren]]. [[affiliation-sacredforge|The Sacred Forge]] says the Black Flame is rousing the field and is not believed, and the Áelendan watch the henge from the mountains. In Bataren itself the Élavendren quarrel with the crown's officers grinds on, and both crowns go on not looking closely.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-elavendre|Élavendre]]
 - [[place-mazeofechos|Maze of Echoes]] · [[lore-aralwen|Araelwen]]
+- [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]

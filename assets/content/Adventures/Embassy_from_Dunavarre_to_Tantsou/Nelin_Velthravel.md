@@ -19,9 +19,11 @@ data:
 
 # Appearance {#appearance}
 
-**Role.** Provides medical care to the party.
+Nelin Vélthravel wears a physician's plain gown over his traveling clothes and carries a satchel of bandages, lancets and small bottles. His hands are scrubbed and his manner is calm, and he looks at a person's color and breathing before he asks what is wrong.
 
 # Dossier {#dossier}
+
+**Role.** Provides medical care to the party.
 
 **Background.** Reckoned among the best physicians and healers in [[affiliation-kingdmdnvr|Dúnavarre]].
 
