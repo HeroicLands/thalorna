@@ -264,18 +264,6 @@ function addSenaliVowels(add) {
         spelled.push({ from: first + last, last, letters: [first, last] });
         spelled.push({ from: acute[first] + last, last, letters: [first, "emphasis", last] });
     }
-    // A closing y follows i or u, alone or after an opening y, so that the
-    // longest group read from the left keeps it with its vowel.
-    for (const first of ["i", "u"]) {
-        spelled.push({ from: first + "y", last: "y", letters: [first, "y"] });
-        spelled.push({ from: acute[first] + "y", last: "y", letters: [first, "emphasis", "y"] });
-        spelled.push({ from: "y" + first + "y", last: "y", letters: ["y", first, "y"] });
-        spelled.push({
-            from: "ý" + first + "y",
-            last: "y",
-            letters: ["y", "emphasis", first, "y"],
-        });
-    }
     // A glide w is the vowel u it glides from: wo and wi spell the pairs uo and ui.
     for (const last of "oi") spelled.push({ from: "w" + last, last, letters: ["u", last] });
     for (const [base, stressed] of Object.entries(acute)) {

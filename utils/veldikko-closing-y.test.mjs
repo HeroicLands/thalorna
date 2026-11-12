@@ -5,32 +5,35 @@ import test from "node:test";
 import { decodeText, encodeText } from "@heroiclands/package-build/engine/encoding";
 import { encodingReference } from "./encoding-reference.mjs";
 
-const shared = [
-    "kiy",
-    "kuy",
-    "ayiy",
-    "kyiy",
-    "ayuy",
-    "kyuy",
+const onset = [
+    "kaya",
+    "keyo",
+    "yal",
+    "kya",
+    "kye",
+    "kyi",
+    "eye",
     "yik",
     "yek",
     "yuk",
     "kyek",
     "kyuk",
-    "yiyk",
-    "yuyk",
 ];
+const closing = ["kiy", "kuy", "ayiy", "kyiy", "ayuy", "kyuy", "yiyk", "yuyk"];
+const never = ["ay", "ey", "oy", "kay", "key", "koy", "kyn", "kayk"];
 
-for (const [language, accepted] of [
-    ["aele", ["kiy", "kuy", "kaya", "keyo", "yal", "kya", "kye", "kyi", "eye"]],
-    ["sina", ["kaya", "keyo", "yal", "kya", "kye", "kyi", "eye"]],
+// Áelendi takes iy and uy as closing pairs; Senali declares neither, so it
+// refuses every closing y.
+for (const [language, accepted, refused] of [
+    ["aele", [...onset, ...closing], never],
+    ["sina", onset, [...never, ...closing]],
 ]) {
     const { encoding } = encodingReference(language, { font: "veldikko" });
 
-    test(`${language}: Veldikko writes the consonant y before a vowel and refuses every closing y`, () => {
-        for (const source of ["ay", "ey", "oy", "kay", "key", "koy", "kyn", "kayk"])
+    test(`${language}: Veldikko writes the consonant y before a vowel and refuses what its pairs omit`, () => {
+        for (const source of refused)
             assert.throws(() => encodeText(encoding, source), /matches "y"/u, source);
-        for (const source of [...shared, ...accepted]) {
+        for (const source of accepted) {
             const native = encodeText(encoding, source);
             assert.equal(encodeText(encoding, decodeText(encoding, native)), native, source);
         }
