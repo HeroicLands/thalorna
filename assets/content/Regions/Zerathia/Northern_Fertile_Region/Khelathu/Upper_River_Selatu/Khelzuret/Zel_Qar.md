@@ -14,7 +14,7 @@ data:
   type: town
   market: regional
   packFolder: regkhsett
-  government: linzemnlzlqr
+  government: selatkhelzrt
   notes: "Tomb-Workers' Village (walled)"
 ---
 
