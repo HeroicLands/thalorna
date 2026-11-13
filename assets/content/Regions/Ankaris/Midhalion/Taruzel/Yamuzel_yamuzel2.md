@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-Every hull that goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] goes under the walls of Yamuzel. The city stands on the eastern cliffs of [[place-khamisar|Khamisar]], where the narrows close to three miles, with the [[place-straitfortress|Strait Fortress]] above the water and the beacon of [[place-sharimun|Sharimun]] burning on the far cape. It is the naval stronghold of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a heavily fortified city of about 9,900 and the seat of the city-state of [[affiliation-yamuzel|Yamuzel]]. Its name is its work: _yamuz-_, to sail in company, with _-el_, the ground of it. Yamuzel built the fleet that won [[lore-tamzirbattle|The Battle of Tamzir Shoals]] ([[place-tamzirshoals|Tamzir Shoals]]), and where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
+Every hull that goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] goes under the walls of Yamuzel. The city stands on the eastern cliffs of [[place-khamisar|Khamisar]], where the narrows close to three miles, with the [[place-straitfortress|Strait Fortress]] above the water and the beacon of [[place-sharimun|Sharimun]] burning on the far cape. It is the naval stronghold of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a heavily fortified town of about 9,900 and the seat of the city-state of [[affiliation-yamuzel|Yamuzel]]. Its name is its work: _yamuz-_, to sail in company, with _-el_, the ground of it. Yamuzel built the fleet that won [[lore-tamzirbattle|The Battle of Tamzir Shoals]] ([[place-tamzirshoals|Tamzir Shoals]]), and where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
 
 ## Arriving
 
