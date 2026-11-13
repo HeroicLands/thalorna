@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Plant toxin; neuromuscular paralysis progressing from extremities inward; respiratory failure."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

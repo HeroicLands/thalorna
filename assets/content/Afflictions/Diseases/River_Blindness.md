@@ -6,6 +6,7 @@ subType: disease
 description: "Filarial worm parasite; intense itching and skin rashes; eventual blindness."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Jellyfish nematocyst toxin; excruciating pain and welts; cardiotoxic in severe cases."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Tropane alkaloid; hallucinations and confusion; large doses cause respiratory failure."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Wolfsbane alkaloid; burning, numbness, cardiac arrest; smeared on arrows."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

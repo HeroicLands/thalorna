@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Peptide and enzyme toxins from sting; intense pain and swelling."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

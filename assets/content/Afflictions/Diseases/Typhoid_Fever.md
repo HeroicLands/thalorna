@@ -6,6 +6,7 @@ subType: disease
 description: "Salmonella via contaminated water; prolonged fever and abdominal pain."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

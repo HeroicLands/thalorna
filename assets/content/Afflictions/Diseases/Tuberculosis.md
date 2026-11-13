@@ -6,6 +6,7 @@ subType: disease
 description: "Contagious lung infection; persistent bloody cough, fever, wasting; airborne spread."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

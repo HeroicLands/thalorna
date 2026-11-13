@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Melittin; localized pain and swelling; systemic anaphylaxis in allergic individuals."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

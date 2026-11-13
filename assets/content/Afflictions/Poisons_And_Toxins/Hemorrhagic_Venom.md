@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Snake venom disrupts blood clotting; extensive internal and external bleeding."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins
