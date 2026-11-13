@@ -9,8 +9,8 @@ data:
   demonym: null
   lore: []
   parents: [kuxiixbalrgn]
-  population: 6000
-  market: regional
+  population: 1000
+  market: local
   type: town
   government: kuxiixbal
   packFolder: kuxiixbal
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-The road shrine at the south gate of Q'aptel'ul Ne'ok is the last on the continent. Its keeper decodes the last _k'otsel_ cord that the [[affiliation-chumishlan|Ch'um Ish'lan]] carries south, and no runner with a priestly mandate goes beyond it. Q'aptel'ul Ne'ok is a garrison town of about 6,000 on the southern lip of the high plateau of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], where the grassland breaks into canyons and the land falls toward [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] and the wastes beyond. Everyone in it holds the walls, fills the storehouses or outfits the expeditions that leave from it, and most people do two of the three.
+The road shrine at the south gate of Q'aptel'ul Ne'ok is the last on the continent. Its keeper decodes the last _k'otsel_ cord that the [[affiliation-chumishlan|Ch'um Ish'lan]] carries south, and no runner with a priestly mandate goes beyond it. Q'aptel'ul Ne'ok is a garrison town of about 1,000 on the southern lip of the high plateau of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], where the grassland breaks into canyons and the land falls toward [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] and the wastes beyond. Everyone in it holds the walls, fills the storehouses or outfits the expeditions that leave from it, and most people do two of the three.
 
 ## The Walls and the Garrison Lord
 

@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [neokbaatergn]
-  population: 50000
-  market: international
-  type: city
+  population: 3900
+  market: local
+  type: town
   government: neokbaate
   packFolder: neokbaate
   notes: "Red Water: the city above the great river of Ne'ok Ba'ate, whose astronomical monuments rival K'ankul's, whose fire temple carries the stair text of the Late Fire, and whose builder-priests keep the register of the realm's shut temples."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-In the rainy months the great river of [[place-neokbaatergn|Ne'ok Ba'ate Region]] comes down from the highlands the color of brick, carrying the red clay of the volcanic slopes, and for half the year the water below the city is as red as its name. Ne' Ts'umul, Red Water, is a city of about 50,000 people on the bluffs above that river, one of the greatest city-states of [[affiliation-neokbaate|Ne'ok Ba'ate]], and one of the few in the realm that keeps the full ceremonial life of the [[affiliation-itzanpnthn|Itsani Pantheon]]. It sprawls along the bluffs for most of a morning's walk, temple group after temple group, and between the groups stand the monuments that make it famous.
+In the rainy months the great river of [[place-neokbaatergn|Ne'ok Ba'ate Region]] comes down from the highlands the color of brick, carrying the red clay of the volcanic slopes, and for half the year the water below the city is as red as its name. Ne' Ts'umul, Red Water, is a city of about 3,900 people on the bluffs above that river, one of the greatest city-states of [[affiliation-neokbaate|Ne'ok Ba'ate]], and one of the few in the realm that keeps the full ceremonial life of the [[affiliation-itzanpnthn|Itsani Pantheon]]. It sprawls along the bluffs for most of a morning's walk, temple group after temple group, and between the groups stand the monuments that make it famous.
 
 ## The Monuments
 

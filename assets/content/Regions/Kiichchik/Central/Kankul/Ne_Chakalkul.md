@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [kankulrgn]
-  population: 60000
-  market: international
-  type: city
+  population: 4500
+  market: local
+  type: town
   government: kankul
   packFolder: kankul
   notes: "The Great Water Seat: the K'ankul city whose pyramids stand at the edge of a field of sacred pools, and whose court reckoners have the most exact count of the bright star K'inish'ilan on the continent."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-East of the city the jungle opens onto a flat plain of pale limestone, and the plain is full of holes. There are dozens of them, round and sheer-sided, from a few paces across to the width of a plaza, and at the bottom of each lies still water, blue-green and clear enough to show the fish twenty meters down. Ne' Ch'akalkul, the Great Water Seat, stands along the western edge of that field of sacred pools, the _ch'uqil_. It is a city of about 60,000 people in the [[place-kankulrgn|K'ankul Region]], one of the great city-states of [[affiliation-kankul|K'ankul]], and its pyramids look out over the pools to the eastern horizon.
+East of the city the jungle opens onto a flat plain of pale limestone, and the plain is full of holes. There are dozens of them, round and sheer-sided, from a few paces across to the width of a plaza, and at the bottom of each lies still water, blue-green and clear enough to show the fish twenty meters down. Ne' Ch'akalkul, the Great Water Seat, stands along the western edge of that field of sacred pools, the _ch'uqil_. It is a city of about 4,500 people in the [[place-kankulrgn|K'ankul Region]], one of the great city-states of [[affiliation-kankul|K'ankul]], and its pyramids look out over the pools to the eastern horizon.
 
 ## The Pools
 

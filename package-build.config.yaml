@@ -877,3 +877,17 @@ packageBuild:
           reason: territory is a single settlement; the polity above it carries the urban share
         - address: affiliation-srvdmthjnpd
           reason: territory is a single settlement; the polity above it carries the urban share
+        # Provisional: each polity below is a single town or city with no polity above it. The
+        # entries stand until the package rule for single-settlement polities lands.
+        - address: affiliation-freeveldareth
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-cnclkstrsh
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-cnclslmr
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-mgstrcythls
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-hanalxilanmktcncl
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-calypsa
+          reason: an island port that feeds itself through trade and maritime goods

@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [kankulrgn]
-  population: 40000
-  market: regional
-  type: city
+  population: 3000
+  market: local
+  type: town
   government: kankul
   packFolder: kankul
   notes: "The Thrice-Built: the K'ankul city whose temple groups stand on an artificial platform raised three times, each over the last, to give its reckoners a clean horizon on every side."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-The lowlands of the [[place-kankulrgn|K'ankul Region]] are flat, and Lishep'ikum makes its own height. Its temple groups stand on a single platform of rubble faced with cut stone, three times the height of a man and broad enough to hold four plazas, and from the top of its tallest pyramid the horizon is a clean line all the way round, with no hill to break it. Lishep'ikum, the Thrice-Built, is a city of about 40,000 people, one of the great city-states of [[affiliation-kankul|K'ankul]]. Its name is a boast about that platform.
+The lowlands of the [[place-kankulrgn|K'ankul Region]] are flat, and Lishep'ikum makes its own height. Its temple groups stand on a single platform of rubble faced with cut stone, three times the height of a man and broad enough to hold four plazas, and from the top of its tallest pyramid the horizon is a clean line all the way round, with no hill to break it. Lishep'ikum, the Thrice-Built, is a city of about 3,000 people, one of the great city-states of [[affiliation-kankul|K'ankul]]. Its name is a boast about that platform.
 
 ## The Platform
 

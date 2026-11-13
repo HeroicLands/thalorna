@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [xelemrgn]
-  population: 60000
-  market: international
-  type: city
+  population: 4500
+  market: local
+  type: town
   government: xelem
   notes: "The seat of the river realm, the Land of Birds: a long ridge city where two great rivers meet, ruled by one of Shelem's few Sun Lords, whose macaw yards and feather market supply the north."
 
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-Shelem is loud. Before a canoe coming up the river rounds the last bend it hears the city: a screeching that rises and falls all day, from the macaw yards on the slopes below the temples, where several thousand birds are kept in pens of woven cane. Shelem, the seat of the realm of [[affiliation-xelem|Shelem]], the Land of Birds, is a city of about 60,000 people on a long ridge of high ground where [[place-hanaltzuma|the Misty River]] (Ha'nal Ts'uma) and [[place-hanalxilik|the Blue River]] (Ha'nal Shilik) meet, in the river-bound jungle on the eastern edge of the Kì'ìch'chik heartland. Where [[place-ixilankul2|Ish'ilankul]] is built on volcanic stone and [[place-kankul2|K'ankul]] on limestone, Shelem is built on water.
+Shelem is loud. Before a canoe coming up the river rounds the last bend it hears the city: a screeching that rises and falls all day, from the macaw yards on the slopes below the temples, where several thousand birds are kept in pens of woven cane. Shelem, the seat of the realm of [[affiliation-xelem|Shelem]], the Land of Birds, is a city of about 4,500 people on a long ridge of high ground where [[place-hanaltzuma|the Misty River]] (Ha'nal Ts'uma) and [[place-hanalxilik|the Blue River]] (Ha'nal Shilik) meet, in the river-bound jungle on the eastern edge of the Kì'ìch'chik heartland. Where [[place-ixilankul2|Ish'ilankul]] is built on volcanic stone and [[place-kankul2|K'ankul]] on limestone, Shelem is built on water.
 
 ## The Ridge and the Flood
 

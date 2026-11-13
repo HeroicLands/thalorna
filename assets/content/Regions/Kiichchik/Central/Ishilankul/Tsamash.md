@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [ixilankulrgn]
-  population: 70000
-  market: international
-  type: city
+  population: 5300
+  market: regional
+  type: town
   government: ixilankul
   packFolder: ixilankul
   notes: "The Stone Heart: the merchant city of Ish'ilankul, built around a great rock in its market plaza, whose trading houses own the cacao groves of the southern highlands and choose its Sun Lord."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-In the middle of the market plaza of Tsa'mash stands a rock. It is a dome of dark gray stone, smooth and rounded, as tall as a house of three stories, and the city has never moved it. The market is laid out around it in rings, and every trader in the city gives directions from it. Tsa'mash, the Stone Heart, takes its name from the rock. It is a city of about 70,000 on the southern edge of the [[place-ixilankulrgn|Ish'ilankul Region]], one of the city-states of [[affiliation-ixilankul|Ish'ilankul]], and it is the greatest market on the plateau.
+In the middle of the market plaza of Tsa'mash stands a rock. It is a dome of dark gray stone, smooth and rounded, as tall as a house of three stories, and the city has never moved it. The market is laid out around it in rings, and every trader in the city gives directions from it. Tsa'mash, the Stone Heart, takes its name from the rock. It is a city of about 5,300 on the southern edge of the [[place-ixilankulrgn|Ish'ilankul Region]], one of the city-states of [[affiliation-ixilankul|Ish'ilankul]], and it is the greatest market on the plateau.
 
 ## The Market
 

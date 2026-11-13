@@ -9,8 +9,8 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [xelemrgn]
-  population: 8000
-  market: regional
+  population: 1000
+  market: local
   type: town
   government: xelem
   packFolder: xelem
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-The wall of the mountain fills half the sky. It goes straight up out of the forest for nearly a thousand meters, bare pink rock streaked black where the water runs, and its top is flat and lost in cloud most mornings. A ribbon of water falls from the top and turns to mist long before it reaches the bottom. Ch'al Pu'uts, Beneath the Mesa, is a town of about 8,000 people at the foot of that _pu'uts_ (table mountain), on the eastern highlands of the [[place-xelemrgn|Shelem Region]], where the river that the waterfall feeds comes out of the forest. It is the last town of [[affiliation-xelem|Shelem]] before the highland peoples who keep their own leaders, and the place where the strangest goods of the jungle are sold.
+The wall of the mountain fills half the sky. It goes straight up out of the forest for nearly a thousand meters, bare pink rock streaked black where the water runs, and its top is flat and lost in cloud most mornings. A ribbon of water falls from the top and turns to mist long before it reaches the bottom. Ch'al Pu'uts, Beneath the Mesa, is a town of about 1,000 people at the foot of that _pu'uts_ (table mountain), on the eastern highlands of the [[place-xelemrgn|Shelem Region]], where the river that the waterfall feeds comes out of the forest. It is the last town of [[affiliation-xelem|Shelem]] before the highland peoples who keep their own leaders, and the place where the strangest goods of the jungle are sold.
 
 ## The Herbalists
 
