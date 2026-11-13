@@ -751,23 +751,9 @@ packageBuild:
               url: modules/thalorna/assets/images/media/thalornabanner.webp
         socket: true
     settlementExemptions:
-        - address: affiliation-aelndntrbs
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-argyrteikhos
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-athenikos
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-bazunel
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-bdkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-besikar
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-bharyastan
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-bhrvdvbhon
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-bhumipal
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-bjlrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
@@ -775,293 +761,77 @@ packageBuild:
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-bodekrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-borderselatu
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-bradhar
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-brnyzrvln
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-byzarianlg
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-capitalselat
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-chendrapur
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-chylrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-cmmndnpdfrt
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-cnfdrtntrzlnstts
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-ctysttshlns
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-deltaselatu
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-dnrktjnpd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-dqrkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-dunhartrbs
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-durrask
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-empireakhlth
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-erldmhrvrn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-frctyvlthr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-frtrtryskrth
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-ghtkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-gomarga
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-grdrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-grimvar
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-grnrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-hlykngdmnrtm
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-hojujaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-hrafanvar
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-hshldrlvnnsh
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-hvarnguides
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-janpdsvdyr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-jbzrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-jenchaiempr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-jrldmstrmvld
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kalihara
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kalydria
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-karvashion
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kelgar
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kelwanuk
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-khldrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-khqdrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-khryshteikhos
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-khzrncnfdrtn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kingdmdnvr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kingdmlnrk
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kingdmnrgd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kingdmtrgd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kingdmtrvn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kingdomlgn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-kndrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-kngdmglvrn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-kngdmldrth
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kngdmlvndr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kngdmmrdd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kngdmnrdhm
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kngdmprvnz
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kngdmstrth
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kngdmvthgrd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-korinthea
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-kostaros2
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-kskrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-ksrrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-lonagar
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-morthalwtch
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-mrjlrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-mtrrchybth
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-muwojaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-nclvhllwwd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-nesthiros
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-nqkhkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-nylbtrblntn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-okharis
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-orashion
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-osetakona
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-osketguides
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-pelagora
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-provinclys
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-provincvld
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-provnchyln
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-provncmktr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-qbdrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-qdrrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-qudumel
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-rajeprjnpd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-repblcndrth
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-rinjaidmn
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-rqdrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-rwlstrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-saelvri
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-sazumun
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatanztqlt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatbelgnzl
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatchathu
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatgadjuml
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatgarlut
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatgarqezt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatgarzant
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatgaulegr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatgekhenu
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatgezazab
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-selatgrnlght
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-selatgrrthsr
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatgrshbzt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatiaqetlq
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatiqeru
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatiuthnet
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatizetge
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatkhelaga
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatkhelntz
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-selatkhelzrt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatlegirus
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatlennnzt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatlinmut
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatltchlsr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatltgthzl
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatmaguthn
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-selatnlghztn
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatseltltr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatsltplgn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatwagaru
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatyathlmt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatzbtrlpt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatzuger
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatzuqeztu
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatzuzllgl
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-selatzuzlqtt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-seltkhqtmntq
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-seltqltlnlgr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-shikhalaya
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-shuiwojaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-shuqash
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-sqrtrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-suvrgrjnpd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-svghrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-tantsouempr
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-tenlaya
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-teyumi
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-theradon
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-thyrenae
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-tikupilarit
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-tjdrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-tokchiaska
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-tribestrzd
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-tsuijaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-upperrivrslt
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-vghlrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
@@ -1069,15 +839,5 @@ packageBuild:
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-vrkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
-        - address: affiliation-vyalendra2
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-vylarinmpr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-wejaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-wojaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-yamuzel
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
-        - address: affiliation-zenjaidmn
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
