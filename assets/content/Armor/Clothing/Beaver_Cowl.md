@@ -4,7 +4,7 @@ name: {full: Beaver Cowl}
 type: armorgear
 description: "Beaver-fur cowl offering warmth and quiet opulence in cold weather."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: hood, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

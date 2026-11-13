@@ -4,7 +4,7 @@ name: {full: Silk Mantle}
 type: armorgear
 description: "Luxurious silk mantle; elegant cloak for formal high-status occasions."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

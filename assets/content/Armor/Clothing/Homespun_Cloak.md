@@ -4,7 +4,7 @@ name: {full: Homespun Cloak}
 type: armorgear
 description: "Practical homemade cloak providing basic weather protection."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cloak, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

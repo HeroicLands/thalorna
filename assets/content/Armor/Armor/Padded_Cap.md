@@ -4,7 +4,7 @@ name: {full: Padded Cap}
 type: armorgear
 description: "Cushioned head covering providing warmth for wear under helmets."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: billedcap, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

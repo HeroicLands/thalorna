@@ -4,7 +4,7 @@ name: {full: Gambeson Coat}
 type: armorgear
 description: "Padded coat worn under armor or standalone, offering cushioning protection."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: gambeson

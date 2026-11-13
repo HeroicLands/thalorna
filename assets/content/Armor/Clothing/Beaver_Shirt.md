@@ -4,7 +4,7 @@ name: {full: Beaver Shirt}
 type: armorgear
 description: "Beaver fur shirt combining function and status for cold regions."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

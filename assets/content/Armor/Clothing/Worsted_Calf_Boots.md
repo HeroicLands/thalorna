@@ -4,7 +4,7 @@ name: {full: Worsted Calf Boots}
 type: armorgear
 description: "Tightly-spun wool calf boots; warm, practical footwear for cold."
 tags: []
-data: {icon: leatherboot, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leatherboot, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

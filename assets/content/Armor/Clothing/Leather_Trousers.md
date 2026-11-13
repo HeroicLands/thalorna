@@ -4,7 +4,7 @@ name: {full: Leather Trousers}
 type: armorgear
 description: "Full-length supple leather leg covering for travel and hard wear."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

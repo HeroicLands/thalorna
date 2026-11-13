@@ -4,7 +4,7 @@ name: {full: Plate Ailettes}
 type: armorgear
 description: "Broad steel shoulder-guards; display heraldic pride and shield upper arms."
 tags: []
-data: {icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

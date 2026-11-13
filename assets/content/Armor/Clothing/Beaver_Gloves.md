@@ -4,7 +4,7 @@ name: {full: Beaver Gloves}
 type: armorgear
 description: "Beaver fur gloves delivering warmth and luxury for the cold-season wearer."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: gloves, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

@@ -4,7 +4,7 @@ name: {full: Quilted Cowl}
 type: armorgear
 description: "Padded head-and-shoulder cover; light-duty warmth."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: hood, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

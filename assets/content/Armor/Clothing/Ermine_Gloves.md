@@ -4,7 +4,7 @@ name: {full: Ermine Gloves}
 type: armorgear
 description: "Soft white ermine gloves; mark of high status and wealth."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: gloves, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

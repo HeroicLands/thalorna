@@ -4,7 +4,7 @@ name: {full: Serge Breeches}
 type: armorgear
 description: "Durable twilled serge breeches for everyday wear and reliable attire."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

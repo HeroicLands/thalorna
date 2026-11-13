@@ -4,7 +4,7 @@ name: {full: Buckram Skirt}
 type: armorgear
 description: "Stiff buckram skirt offering durability and dependable rigid structure."
 tags: []
-data: {icon: skirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: skirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

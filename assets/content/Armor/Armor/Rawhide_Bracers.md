@@ -4,7 +4,7 @@ name: {full: Rawhide Bracers}
 type: armorgear
 description: "Stiff hide forearm-guards; durable wrist and arm defense."
 tags: []
-data: {icon: bracer, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: bracer, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

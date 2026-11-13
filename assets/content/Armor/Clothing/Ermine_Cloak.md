@@ -4,7 +4,7 @@ name: {full: Ermine Cloak}
 type: armorgear
 description: "White ermine cloak; status symbol of nobility and high prestige."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cloak, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

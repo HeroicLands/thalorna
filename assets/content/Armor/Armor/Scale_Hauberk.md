@@ -4,7 +4,7 @@ name: {full: Scale Hauberk}
 type: armorgear
 description: "Full-sleeved scale coat; comprehensive scale-armor coverage."
 tags: []
-data: {icon: scalemail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: scalemail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide, mtlc]}
   kbcat: scale

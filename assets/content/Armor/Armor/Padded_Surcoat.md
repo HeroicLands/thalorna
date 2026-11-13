@@ -4,7 +4,7 @@ name: {full: Padded Surcoat}
 type: armorgear
 description: "Cushioned outer layer providing warmth for cold weather conditions."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

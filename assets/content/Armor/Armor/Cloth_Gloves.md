@@ -4,7 +4,7 @@ name: {full: Cloth Gloves}
 type: armorgear
 description: "Simple cloth gloves offering comfort and protection for everyday tasks."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: gloves, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

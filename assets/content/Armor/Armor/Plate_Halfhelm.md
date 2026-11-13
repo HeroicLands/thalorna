@@ -4,7 +4,7 @@ name: {full: Plate Halfhelm}
 type: armorgear
 description: "Steel helm covering crown and sides; exposes face for visibility."
 tags: []
-data: {icon: barbute, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: barbute, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

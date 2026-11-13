@@ -4,7 +4,7 @@ name: {full: Velvet Cowl}
 type: armorgear
 description: "Soft plush velvet cowl; elegant, luxury garment for formal occasions."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: hood, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

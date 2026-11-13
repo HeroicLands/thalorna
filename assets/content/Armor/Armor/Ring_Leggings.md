@@ -4,7 +4,7 @@ name: {full: Ring Leggings}
 type: armorgear
 description: "Leather leggings studded with rings; thigh and shin protection."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: ring

@@ -4,7 +4,7 @@ name: {full: Quilted Cuisse}
 type: armorgear
 description: "Stitched thigh-guard; adds padding beneath heavier armor."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

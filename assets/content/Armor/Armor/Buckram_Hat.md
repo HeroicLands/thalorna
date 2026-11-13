@@ -4,7 +4,7 @@ name: {full: Buckram Hat}
 type: armorgear
 description: "Stiff buckram hat providing durability and reliable rigid headwear."
 tags: []
-data: {icon: pointyhat, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: pointyhat, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

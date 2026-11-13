@@ -4,7 +4,7 @@ name: {full: Homespun Leggings}
 type: armorgear
 description: "Simple homemade leggings offering coverage and warmth."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

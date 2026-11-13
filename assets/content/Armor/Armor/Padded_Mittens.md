@@ -4,7 +4,7 @@ name: {full: Padded Mittens}
 type: armorgear
 description: "Cushioned hand coverings providing warmth for cold weather conditions."
 tags: []
-data: {icon: gauntlet, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: gauntlet, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

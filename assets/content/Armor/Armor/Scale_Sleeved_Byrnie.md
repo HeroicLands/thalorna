@@ -4,7 +4,7 @@ name: {full: Scale Sleeved Byrnie}
 type: armorgear
 description: "Scale-armored torso and arms; sleeves add shoulder and arm coverage."
 tags: []
-data: {icon: scalemail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: scalemail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide, mtlc]}
   kbcat: scale

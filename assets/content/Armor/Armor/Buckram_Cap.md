@@ -4,7 +4,7 @@ name: {full: Buckram Cap}
 type: armorgear
 description: "Stiff buckram cap holding shape well; durable and reliable headwear."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: billedcap, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

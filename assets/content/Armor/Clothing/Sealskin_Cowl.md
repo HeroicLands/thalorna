@@ -4,7 +4,7 @@ name: {full: Sealskin Cowl}
 type: armorgear
 description: "Water-resistant seal-fur hood; ideal for coastal regions."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: hood, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

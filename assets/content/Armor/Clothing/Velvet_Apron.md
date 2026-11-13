@@ -4,7 +4,7 @@ name: {full: Velvet Apron}
 type: armorgear
 description: "Plush velvet apron; opulent status symbol for formal settings."
 tags: []
-data: {icon: cook, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cook, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

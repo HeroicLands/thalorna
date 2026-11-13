@@ -4,7 +4,7 @@ name: {full: Padded Tunic}
 type: armorgear
 description: "Cushioned garment providing warmth and protection for various activities."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

@@ -4,7 +4,7 @@ name: {full: Mail Mittens}
 type: armorgear
 description: "Metal ring hand protection offering excellent defense in combat."
 tags: []
-data: {icon: mailedfist, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: mailedfist, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

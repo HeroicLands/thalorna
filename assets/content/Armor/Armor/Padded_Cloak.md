@@ -4,7 +4,7 @@ name: {full: Padded Cloak}
 type: armorgear
 description: "Quilted and padded cloak; cheap protection that doubles as a warm travelling garment."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cloak, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

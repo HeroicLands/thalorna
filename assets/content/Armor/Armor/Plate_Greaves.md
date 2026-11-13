@@ -4,7 +4,7 @@ name: {full: Plate Greaves}
 type: armorgear
 description: "Steel plates protecting lower legs and shins."
 tags: []
-data: {icon: greaves, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: greaves, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

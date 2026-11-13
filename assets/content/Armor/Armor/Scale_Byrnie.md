@@ -4,7 +4,7 @@ name: {full: Scale Byrnie}
 type: armorgear
 description: "Fabric-backed overlapping metal scales; flexible torso defense."
 tags: []
-data: {icon: scalemail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: scalemail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide, mtlc]}
   kbcat: scale

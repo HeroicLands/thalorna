@@ -4,7 +4,7 @@ name: {full: Quilted Surcoat}
 type: armorgear
 description: "Stitched outer garment; layered insulation over other dress."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

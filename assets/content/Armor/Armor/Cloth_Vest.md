@@ -4,7 +4,7 @@ name: {full: Cloth Vest}
 type: armorgear
 description: "Simple cloth vest offering comfort and warmth for casual wear."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leathervest, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

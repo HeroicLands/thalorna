@@ -4,7 +4,7 @@ name: {full: Linen Dress}
 type: armorgear
 description: "Light breathable torso garment perfect for warm weather activities."
 tags: []
-data: {icon: dress, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: dress, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

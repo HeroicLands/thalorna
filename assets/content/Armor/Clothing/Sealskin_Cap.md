@@ -4,7 +4,7 @@ name: {full: Sealskin Cap}
 type: armorgear
 description: "Water-resistant seal-fur cap; cold and wet climate protection."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: billedcap, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

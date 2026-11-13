@@ -4,7 +4,7 @@ name: {full: Linen Skirt}
 type: armorgear
 description: "Light breathable leg covering for warm weather casual outings."
 tags: []
-data: {icon: skirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: skirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

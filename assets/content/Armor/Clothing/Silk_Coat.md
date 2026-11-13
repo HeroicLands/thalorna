@@ -4,7 +4,7 @@ name: {full: Silk Coat}
 type: armorgear
 description: "Elegant silk coat; luxurious garment for formal events and occasions."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: Sealskin Cloak}
 type: armorgear
 description: "Waterproof seal-fur cloak; harsh-weather outer garment for seafarers."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cloak, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

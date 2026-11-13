@@ -4,7 +4,7 @@ name: {full: Rawhide Gauntlets}
 type: armorgear
 description: "Thick hide hand-guards; resists abrasion and impact."
 tags: []
-data: {icon: gauntlet, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: gauntlet, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

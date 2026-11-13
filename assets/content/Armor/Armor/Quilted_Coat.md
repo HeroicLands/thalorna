@@ -4,7 +4,7 @@ name: {full: Quilted Coat}
 type: armorgear
 description: "Stitched-layer coat; warms without heavy weight or bulk."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

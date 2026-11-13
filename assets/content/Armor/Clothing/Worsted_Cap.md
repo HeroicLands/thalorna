@@ -4,7 +4,7 @@ name: {full: Worsted Cap}
 type: armorgear
 description: "Tightly-spun wool cap; durable, versatile head covering."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: billedcap, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

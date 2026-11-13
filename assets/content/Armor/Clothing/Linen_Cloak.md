@@ -4,7 +4,7 @@ name: {full: Linen Cloak}
 type: armorgear
 description: "Breathable outer garment protecting from sun without causing overheating."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cloak, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: Canvas Tunic}
 type: armorgear
 description: "Stout canvas tunic cut for work and hard travel."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

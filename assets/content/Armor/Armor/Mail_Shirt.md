@@ -4,7 +4,7 @@ name: {full: Mail Shirt}
 type: armorgear
 description: "Metal ring torso and upper arm protection with excellent defense."
 tags: []
-data: {icon: mailshirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: mailshirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

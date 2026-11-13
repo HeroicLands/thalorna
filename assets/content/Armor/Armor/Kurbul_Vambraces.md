@@ -4,7 +4,7 @@ name: {full: Kûrbúl Vambraces}
 type: armorgear
 description: "Leather forearm guards with intricate designs providing function and style."
 tags: []
-data: {icon: bracer, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: bracer, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

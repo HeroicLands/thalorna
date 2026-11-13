@@ -4,7 +4,7 @@ name: {full: Cloth Gauntlets}
 type: armorgear
 description: "Soft cloth hand coverings offering basic protection for light work."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: gloves, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

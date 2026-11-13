@@ -4,7 +4,7 @@ name: {full: Worsted Robe}
 type: armorgear
 description: "Tightly-spun wool robe; durable, practical versatile garment."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: robe, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

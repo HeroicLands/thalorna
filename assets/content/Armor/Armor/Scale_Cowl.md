@@ -4,7 +4,7 @@ name: {full: Scale Cowl}
 type: armorgear
 description: "Scale-sewn hood; overlapping metal scales for head protection."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: hood, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide, mtlc]}
   kbcat: scale

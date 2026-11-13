@@ -4,7 +4,7 @@ name: {full: Worsted Dress}
 type: armorgear
 description: "Tightly-spun wool dress; durable, versatile garment for activities."
 tags: []
-data: {icon: dress, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: dress, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

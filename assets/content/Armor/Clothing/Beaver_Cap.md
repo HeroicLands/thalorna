@@ -4,7 +4,7 @@ name: {full: Beaver Cap}
 type: armorgear
 description: "Beaver fur cap offering warmth and luxury for high-status individuals."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: billedcap, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

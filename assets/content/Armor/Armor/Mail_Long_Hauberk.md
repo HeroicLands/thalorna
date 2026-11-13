@@ -4,7 +4,7 @@ name: {full: Mail Long Hauberk}
 type: armorgear
 description: "Lengthy metal ring torso armor for extended leg protection."
 tags: []
-data: {icon: chainmail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: chainmail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

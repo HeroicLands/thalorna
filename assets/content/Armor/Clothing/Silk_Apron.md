@@ -4,7 +4,7 @@ name: {full: Silk Apron}
 type: armorgear
 description: "Soft silk apron for formal settings; luxurious but delicate."
 tags: []
-data: {icon: cook, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cook, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

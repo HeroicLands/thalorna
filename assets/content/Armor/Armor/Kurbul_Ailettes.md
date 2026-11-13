@@ -4,7 +4,7 @@ name: {full: Kûrbúl Ailettes}
 type: armorgear
 description: "Lightweight decorated leather shoulder guards, ideal for agile combatants."
 tags: []
-data: {icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

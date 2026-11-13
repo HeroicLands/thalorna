@@ -4,7 +4,7 @@ name: {full: Serge Cowl}
 type: armorgear
 description: "Twilled serge cowl; provides warmth and protection for everyday wear."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: hood, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

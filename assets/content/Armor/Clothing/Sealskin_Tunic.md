@@ -4,7 +4,7 @@ name: {full: Sealskin Tunic}
 type: armorgear
 description: "Waterproof seal-fur tunic; sleeved torso garment for wet climates."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

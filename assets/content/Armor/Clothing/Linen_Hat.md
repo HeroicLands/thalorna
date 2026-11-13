@@ -4,7 +4,7 @@ name: {full: Linen Hat}
 type: armorgear
 description: "Light breathable head covering for warm climates with sun protection."
 tags: []
-data: {icon: pointyhat, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: pointyhat, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

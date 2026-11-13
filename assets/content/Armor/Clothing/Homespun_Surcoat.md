@@ -4,7 +4,7 @@ name: {full: Homespun Surcoat}
 type: armorgear
 description: "Simple homemade surcoat providing coverage and practical wear."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth
