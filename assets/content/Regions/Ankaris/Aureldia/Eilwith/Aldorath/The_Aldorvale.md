@@ -9,6 +9,11 @@ data:
   demonym: null
   lore: []
   parents: [aldorathrgn]
+  borders:
+    - {to: brynwold, bearing: NW}
+    - {to: greylevels, bearing: E}
+    - {to: sunnerslade, bearing: N}
+    - {to: wyndmarch, bearing: N}
   population: 95000
   government: kngdmldrth
   packFolder: eilwith

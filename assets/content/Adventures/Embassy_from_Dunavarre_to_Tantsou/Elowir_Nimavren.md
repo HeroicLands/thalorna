@@ -27,6 +27,6 @@ Elowir Nimavren has ink on his fingers and a satchel of rolled documents and sea
 
 **Background.** Trusted for meticulous work and reliability in the [[affiliation-dunavarsynod|Synod]]'s records.
 
-:::secret {title="The concealed relationship"}
+:::secret {title="What the referee knows"}
 In a secret relationship with [[being-loristaravel|Loris Taravel]], against the moral teaching of [[affiliation-ardavon|Árdavon]]. Deeply in love and unaware of Loris's true motives; fears exposure would ruin them both, which makes him blackmail material.
 :::

@@ -27,6 +27,6 @@ Kadilem Kúdavel wears a herald's tabard bright with the embassy's colors and ca
 
 **Background.** Skilled in ceremonial duty and official occasion.
 
-:::secret {title="A concealed attachment"}
+:::secret {title="What the referee knows"}
 Holds a closeted romantic interest in [[being-thaekliamaelvri|Lady Thaeklia]], which she knows of and can use to steer him.
 :::

@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [cntrlhghlnds]
+  borders: [{to: stormveld, bearing: N}, {to: aldorathrgn, bearing: E}]
   population: null
   packFolder: eilwith
   culture: aelwythanclt

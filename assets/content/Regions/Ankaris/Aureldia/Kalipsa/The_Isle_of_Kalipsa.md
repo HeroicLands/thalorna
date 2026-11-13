@@ -10,6 +10,7 @@ data:
   demonym: Kalipsi
   lore: [humanflk]
   parents: [aureldirgn]
+  routes: [{to: elavendre, bearing: S, mode: ship, days: 2, terrain: [open-sea, coast]}]
   population: 45000
   government: calypsa
   packFolder: calypsa
@@ -17,7 +18,7 @@ data:
 
 ## Overview {#overview}
 
-**The Isle of Kalipsa** lies in the cold sea seventy-five miles off the northern coast of [[place-elavendre|Élavendre]], a day and a night's sail west of the mouth of [[place-liserebay|Lísere Bay]]. It is about sixty-five miles from north to south and nearly as wide, from the cliffs of the west to the harbor on the east coast, and it rises steeply from the water to a bare gray ridge. Some forty-five thousand people live on it: twenty-eight thousand in the free port of [[place-calypsacity|Kalipsa]], and seventeen thousand in the fishing villages and upland steadings of [[place-calypsashore|the South Shore]].
+**The Isle of Kalipsa** lies in the cold sea seventy-five miles off the northern coast of [[place-elavendre|Élavendre]], a day and a night's sail west of the mouth of [[place-liserebay|Lísere Bay]]. It is about fifteen miles across, from the cliffs of the west to the harbor on the east coast, and it rises steeply from the water to a bare gray ridge. Some forty-five thousand people live on it: twenty-eight thousand in the free port of [[place-calypsacity|Kalipsa]], and seventeen thousand in the fishing villages and upland steadings of [[place-calypsashore|the South Shore]].
 
 The island is the whole domain of the city-state of [[affiliation-calypsa|Kalipsa]], and it pays no tribute and owes no fealty to anyone. It feeds itself by trade. Its harbor is one of the best-sheltered anchorages in the north of the [[place-ankrscntnnt|Ankaris Continent]], and its squadrons sit across the approaches to Lísere Bay.
 

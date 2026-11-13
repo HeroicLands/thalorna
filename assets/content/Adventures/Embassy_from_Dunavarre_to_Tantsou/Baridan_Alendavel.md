@@ -31,6 +31,6 @@ Baridan Aléndavel manages the household and supplies of the embassy from [[plac
 The household’s time
 : At [[place-beravel|Péravel]], Baridan asks travelers to establish how long the Loremaster’s proposed expedition takes before he commits supplies and onward arrangements. A long unexplained absence leaves him accounting for both the missing staff and the embassy’s delayed departure.
 
-:::secret {title="Resentment of the Ambassador"}
+:::secret {title="Further hooks"}
 Secretly resents the Ambassador's authority, believing his own loyalty and hard work earned him a higher place. Susceptible to bribery or to conspiring against him.
 :::

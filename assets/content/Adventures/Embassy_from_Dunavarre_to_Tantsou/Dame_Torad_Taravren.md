@@ -383,6 +383,6 @@ Dame Torad Taravren wears her armor as though she has slept in it, with the Orde
 
 **Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Seilvri]] ([[lore-saelvricrusade|the Seilvri Crusade]]).
 
-:::secret {title="Conscience and the crusade"}
+:::secret {title="What the referee knows"}
 Secretly despises that crusade, holding it contrary to the true principles of the Order and of the [[affiliation-ardavon|Faith of Árdavon]]—and may act on her own conscience rather than the Order's official stance.
 :::

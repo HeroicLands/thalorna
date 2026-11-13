@@ -43,7 +43,7 @@ Telusor Bazunari is the Consul Abroad of [[affiliation-calypsa|Kalipsa]] at [[pl
 
 His living is brokering shares in hulls. A house that wants a coaster finds one through him, and a master who wants to sell a share of his hull sells it to the buyer Telusor finds. He brokered most of the coasters [[affiliation-hsenorodari|the Norodari]] bought this winter, and the old houses call him a Norodari man, which he denies with good humor.
 
-:::secret {title="The witness he keeps"}
+:::secret {title="What the referee knows"}
 Telusor holds, through a cousin's name, a share in three of the coasters he sold the Norodari this winter, and a Norodari defeat at the hearing would make them worth half what he paid. He knows the witness the Norodari want from the outer quay: a berth-keeper of the Hawser who heard the first of the three lost masters swear that he would pay no Kalipsan pilot's fee for a coaster. Telusor has twice paid the man to miss his passage, and has told [[being-kubasornrd|Kubasor Norodari]] that the man is ill.
 :::
 

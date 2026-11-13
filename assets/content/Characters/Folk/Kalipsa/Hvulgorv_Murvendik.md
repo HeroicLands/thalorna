@@ -45,7 +45,7 @@ Hvulgorv Murvendik is a master sworn to [[affiliation-hsetvarnidrok|Tvarnidrok]]
 
 He is paid a full share of every voyage and keeps a modest house on the lower quay, where he lives with his wife. His two sons sail for other houses. He was at sea in the autumn's fog, bringing a Tvarnidrok hull home from the north, and he lay off the Hounds for two nights with his crew at the lead-line before he came in with the pilot at dawn.
 
-:::secret {title="The horn before dawn"}
+:::secret {title="What the referee knows"}
 On the night the third [[affiliation-hsenorodari|Norodari]] hull was lost, Hvulgorv was lying off the approaches in the fog and heard the guild's horn on the quay call the pilots' boat home two hours before dawn. He heard the boat's own horn go quiet, and a little after it, from the east, a hull's bell and then nothing. Nobody has asked him, and he has not said, because the answer would help the Norodari against the house he is sworn to. He will not lie if he is asked from the witness's stone at the Sea-Law Hall.
 :::
 

@@ -192,6 +192,7 @@ Every priest of Árdavon in Dúnavarre has denounced this. Not all of them have 
 
 ## The Embassy to Tantsou
 
+:::secret {title="Behind the embassy"}
 The Court holds [[being-laradhluavel|Larad Lúavel]], Steward of the mission to the
 [[affiliation-tantsouempr|Empire of Tantsou]], through gambling debts and the embezzlement he committed
 to cover them—and through his daughter [[being-ilaraluavel|Ilara]], whose safety is his first
@@ -201,11 +202,16 @@ The motive is not money. The embassy is the Synod's boldest assertion of Dúnava
 mission that fails badly and publicly is a Synod humiliation on the international stage—worth far
 more to the Court than anything Larad could repay. Whether the Court wants the mission steered or
 wrecked is a question its own officers disagree about, and Larad has not been told which.
+:::
+
+## The Present {#present}
+
+Aldorath's lords fund the idea of a restored Dúnavarran monarchy intermittently, and proof of foreign money would cost the Court the popular standing it survives on at home. The Synod holds that the Court does not exist and has never been able to show that it does. The Court has sympathizers among the Knight-Captains of the [[affiliation-justbladeordr|Order of the Just Blade]], and enemies there as well.
 
 ## Adventure Hooks
 
-- **The Steward's daughter.** Someone works out what has been done to Larad. Exposing him destroys
-  the mission the Court wants destroyed; protecting him means dealing with the Court on its terms.
+- **The embassy.** The Court takes an interest in the Dúnavarran embassy to Tantsou. A party that learns why
+  must decide whether to deal with the Court on its terms.
 - **A petition.** Somebody the party cares about has no remedy in law, and the Court will hear them.
   It will also enter the favor in the Rolls, and collect it at the worst possible moment.
 - **The quiet room.** A place opaque to the Synod is worth more than its weight in anything. Someone

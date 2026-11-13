@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [stormveld]
+  borders: [{to: stormplain, bearing: N}]
   population: 16000
   packFolder: eilwith
   government: jrldmstrmvld

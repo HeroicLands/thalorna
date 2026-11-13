@@ -9,6 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [stormveld]
+  borders:
+    - {to: nordfells, bearing: N}
+    - {to: sunderfells, bearing: S}
+    - {to: stormwood, bearing: W}
   population: 112000
   packFolder: eilwith
   government: jrldmstrmvld

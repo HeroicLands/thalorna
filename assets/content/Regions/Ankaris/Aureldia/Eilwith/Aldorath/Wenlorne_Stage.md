@@ -22,7 +22,7 @@ The roof is sound and the gate stands open. At dusk the iron lamp-posts that lin
 
 ## The Reeve {#history}
 
-Every stage had a **road-reeve**, an officer who answered to the crown for the safety of the road and the roll of those who slept under his roof. The reeve of Wenlorne held the stage to the last days of the [Great War]{.name data-type="lore/history"}, when the king was dead at [[place-threesisters|the Three Sisters]] and the crown's subjects were fleeing along the road in the dark: Vardain farmers, Khazari masons and the small Pelwar parties who had come over to the crown. The reeve took in everyone, shut the gate against the war, and swore by the crown that no one under his roof would come to harm before the road was safe. The road was not safe the following morning, or the one after. What happened inside the gate is not recorded. The stage was found empty and the gate closed, and a reeve's oath of that kind does not lapse at his death.
+Every stage had a **road-reeve**, an officer who answered to the crown for the safety of the road and the roll of those who slept under his roof. The reeve of Wenlorne held the stage to the last days of the [Great War]{.name data-type="lore/history"}, when the king was dead at [[place-threesisters|the Three Sisters]] and the crown's subjects were fleeing along the road in the dark: Vardain farmers, Khazari masons and the small Pelwar parties who had come over to the crown. The reeve took in everyone, shut the gate against the war, and swore by the crown that no one under his roof would come to harm before the road was safe. The road was not safe the following morning, or the one after. What happened inside the gate is not recorded. The stage was found empty and the gate closed.
 
 :::secret {title="The oath and the porters"}
 The oath was caught by [[lore-theshadow|the Shadow]]. The [[being-wenlornereeve|Reeve of Wenlorne]] is a bound dead thing in a reeve's gray coat, with the keys at its belt and the lamps in its keeping, and it keeps its oath as the Shadow reads it: no guest leaves while the road is unsafe, and the road is never safe. It lights the lamps to bring travelers in. Around it move the **porters**, the dead of the stage, who take coats and carry baggage and set out supper, and who believe the war is still going on.
@@ -59,4 +59,4 @@ From Dunmere the old road starts at a ford below the last foresters' lodge and r
 : the dread named in stories of the stage
 
 [[scenario-lampswenlorne|Pale Lamps on the Crown Road]]
-: a scenario: pale lamps that lead to a waystation whose gate never opens again
+: a scenario: pale lamps that light a relay house on the old road south of Dunmere

@@ -9,6 +9,11 @@ data:
   demonym: null
   lore: []
   parents: [eilwith]
+  borders:
+    - {to: ondareth, bearing: W}
+    - {to: thornwold, bearing: N}
+    - {to: dunavarre, bearing: E}
+    - {to: veldareth, bearing: W}
   population: 4000
   government: nclvhllwwd
   packFolder: eilwith

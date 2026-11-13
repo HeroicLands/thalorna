@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [eilwith]
+  borders: [{to: ondareth, bearing: NW}, {to: hallowwood, bearing: E}]
   population: 1500
   market: regional
   type: town

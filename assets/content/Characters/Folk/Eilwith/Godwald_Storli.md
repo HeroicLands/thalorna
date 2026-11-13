@@ -53,7 +53,7 @@ Godwald Storli holds manors in [[place-aldorvale|the Aldorvale]] of the [[affili
 
 He reads that record plainly. A king is crowned when the barons have buried his father and accepted him, and not before. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council to accept his nine-year-old son as king-to-be in his own lifetime, and Godwald holds the council against it. He says that the barons who accept a boy now have given away the one thing that makes them barons and not tenants.
 
-:::secret {title="The regency"}
+:::secret {title="What the referee knows"}
 Godwald has sounded two barons of the Aldorvale about a regency council. If the king dies before his son is grown and the boy is not accepted, the council must govern until it crowns someone, and the Elder of the Council would lead it. He has told neither baron that this is the reason he holds the council against the boy, and he has written nothing down.
 :::
 

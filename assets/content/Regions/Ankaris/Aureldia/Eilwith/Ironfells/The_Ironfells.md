@@ -9,6 +9,11 @@ data:
   demonym: null
   lore: []
   parents: [eilwith]
+  borders:
+    - {to: stormveld, bearing: W}
+    - {to: aldorathrgn, bearing: S}
+    - {to: sunnerslade, bearing: S}
+    - {to: wyndmarch, bearing: S}
   population: null
   packFolder: eilwith
   culture: khazariclt
